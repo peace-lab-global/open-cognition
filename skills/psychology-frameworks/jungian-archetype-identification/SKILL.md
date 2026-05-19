@@ -2,7 +2,9 @@
 name: jungian-archetype-identification
 description: 在叙事、梦、人物或个人困境中识别荣格原型（阴影/阿尼玛/阿尼姆斯/人格面具/自性/英雄/智慧老人等），用以理解深层心理动力。
 domain: psychology
-linked: [domains/psychology/schools/psychoanalysis/jung.md, domains/psychology/concepts/collective-unconscious.md]
+linked_thinker: ../domains/psychology/schools/psychoanalysis/jung.md
+linked_concepts:
+  - ../domains/psychology/concepts/collective-unconscious.md
 tags: [荣格, 原型, 集体无意识, 梦工作, 叙事分析]
 ---
 

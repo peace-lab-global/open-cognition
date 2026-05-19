@@ -27,7 +27,9 @@
 ├── 犹太教 (judaism)
 │   └── 律法与盟约
 ├── 道教 (taoism)
-│   └── 无为
+│   ├── 无为
+│   ├── 老子
+│   └── 庄子
 └── 印度教 (hinduism)
     └── 业与轮回
 ```
@@ -52,6 +54,8 @@
 
 ### 道教 taoism
 - [无为 Wu-wei](./traditions/taoism/wuwei.md)
+- [老子 Laozi](./traditions/taoism/masters/laozi.md)
+- [庄子 Zhuangzi](./traditions/taoism/masters/zhuangzi.md)
 
 ### 印度教 hinduism
 - [业与轮回 Karma & Saṃsāra](./traditions/hinduism/karma-samsara.md)

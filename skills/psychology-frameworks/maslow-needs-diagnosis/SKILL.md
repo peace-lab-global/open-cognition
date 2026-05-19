@@ -2,7 +2,7 @@
 name: maslow-needs-diagnosis
 description: 对个人/团队/产品所处困境进行需求层次诊断，定位"卡在哪一层"，给出对应的修复或满足策略，避免错位干预。
 domain: psychology
-linked: [domains/psychology/schools/humanistic/maslow.md]
+linked_thinker: ../domains/psychology/schools/humanistic/maslow.md
 tags: [马斯洛, 需求层次, 自我实现, 组织诊断, 产品需求]
 ---
 

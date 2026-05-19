@@ -2,7 +2,9 @@
 name: flow-conditions-assessment
 description: 评估一项活动/任务是否具备进入心流的 8 个条件，找出短板，设计可执行的环境与流程改造，让"沉浸投入"可被复制。
 domain: psychology
-linked: [domains/psychology/concepts/flow.md, domains/psychology/schools/positive/csikszentmihalyi.md]
+linked_thinker: ../domains/psychology/schools/positive/csikszentmihalyi.md
+linked_concepts:
+  - ../domains/psychology/concepts/flow.md
 tags: [心流, 任务设计, 注意力, 学习设计, 游戏化]
 ---
 

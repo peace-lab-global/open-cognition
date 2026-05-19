@@ -2,7 +2,9 @@
 name: cbt-cognitive-distortion
 description: 识别情境下的"自动思维"，对照 10 类常见认知扭曲，使用证据法/替代法生成更平衡的思维，并设计行为实验验证。
 domain: psychology
-linked: [domains/psychology/schools/cognitive/beck.md, domains/psychology/concepts/cognitive-dissonance.md]
+linked_thinker: ../domains/psychology/schools/cognitive/beck.md
+linked_concepts:
+  - ../domains/psychology/concepts/cognitive-dissonance.md
 tags: [CBT, 认知扭曲, 自动思维, 苏格拉底式提问, 行为实验]
 ---
 

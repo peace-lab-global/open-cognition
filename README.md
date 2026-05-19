@@ -1,7 +1,7 @@
 # Open Cognition · 开放认知数据库
 
 > 一个面向**人类深度阅读**与 **AI Agent 调用**的跨学科认知资源库。
-> 把哲学、宗教、社会学、心理学中**最值得反复使用的思想、命题、方法**整理成可链接、可检索、可复用的开源知识结构。
+> 把哲学、宗教、社会学、心理学、伦理学、美学中**最值得反复使用的思想、命题、方法**整理成可链接、可检索、可复用的开源知识结构。
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.1%20foundation-blue.svg)](#)
@@ -22,16 +22,18 @@
 ## 内容总览
 
 ```
-4 个领域 × 10 思想家/条目 + 概念条目 + Skills
-= 40 条目 + 12 跨学派概念 + 15 Skills
+6 个领域 × N 思想家/条目 + 概念条目 + Skills
+= 94 思想家 + 61 概念 + 67 Skills
 ```
 
 | 领域 | 条目结构 | 入口 |
 |---|---|---|
-| 哲学 Philosophy | 10 思想家 / 3 概念 / 4 Skills | [domains/philosophy](./domains/philosophy/README.md) |
-| 宗教 Religion | 10 条目 / 2 跨传统概念 / 3 Skills | [domains/religion](./domains/religion/README.md) |
-| 社会学 Sociology | 10 思想家 / 3 概念 / 4 Skills | [domains/sociology](./domains/sociology/README.md) |
-| 心理学 Psychology | 10 思想家 / 3 概念 / 4 Skills | [domains/psychology](./domains/psychology/README.md) |
+| 哲学 Philosophy | 28 思想家 / 8 概念 / 4 Skills | [domains/philosophy](./domains/philosophy/README.md) |
+| 宗教 Religion | 16 条目 / 4 跨传统概念 / 11 Skills | [domains/religion](./domains/religion/README.md) |
+| 社会学 Sociology | 18 思想家 / 7 概念 / 4 Skills | [domains/sociology](./domains/sociology/README.md) |
+| 心理学 Psychology | 25 思想家 / 8 概念 / 4 Skills | [domains/psychology](./domains/psychology/README.md) |
+| 伦理学与政治哲学 Ethics & Political Philosophy | 15 思想家 / 11 概念 / 5 Skills | [domains/ethics-politics](./domains/ethics-politics/README.md) |
+| 美学与艺术哲学 Aesthetics | 7 思想家 / 4 概念 / 3 Skills | [domains/aesthetics](./domains/aesthetics/README.md) |
 
 完整索引见 [INDEX.md](./INDEX.md) ｜ 标签词典见 [TAGS.md](./TAGS.md)。
 
@@ -51,15 +53,27 @@ open-cognition/
 │   │   ├── schools/<流派>/<思想家>.md
 │   │   └── concepts/<概念>.md
 │   ├── religion/
+│   │   ├── README.md
 │   │   ├── traditions/<传统>/<条目>.md
 │   │   └── concepts/<跨传统概念>.md
 │   ├── sociology/
-│   └── psychology/
+│   │   ├── README.md
+│   │   ├── schools/<流派>/<思想家>.md
+│   │   └── concepts/<概念>.md
+│   ├── psychology/
+│   │   ├── README.md
+│   │   ├── schools/<流派>/<思想家>.md
+│   │   └── concepts/<概念>.md
+│   └── ethics-politics/
+│       ├── README.md
+│       ├── schools/<学派>/<思想家>.md
+│       └── concepts/<概念>.md
 ├── skills/                     # Agent 可调用的操作框架
 │   ├── philosophy-frameworks/<skill>/SKILL.md
 │   ├── religion-frameworks/
 │   ├── sociology-frameworks/
-│   └── psychology-frameworks/
+│   ├── psychology-frameworks/
+│   └── ethics-politics-frameworks/
 ├── templates/                  # 思想家/概念/学派/Skill 模板
 └── meta/                       # 分类法、引用源、质量标准
 ```
@@ -126,9 +140,10 @@ tags: [...]
 
 ## 路线图
 
-- ✅ **v0.1（当前）**：四领域基础骨架，每域 ~17 条目 + Skills。
-- 🚧 **v0.2**：补全哲学（伦理学、政治哲学）、宗教（印度教/犹太教扩展）、社会学（网络社会/性别）、心理学（依恋、社会神经科学）。
-- 🔮 **v0.3**：扩展到第五、六领域（艺术学、政治学、经济学思想）。
+- ✅ **v0.1**：五领域基础骨架，每域 ~17 条目 + Skills。
+- ✅ **v0.2**：六领域全面扩展 + 全球顶尖人物全量补充。80+ 思想家，60+ 概念，67 Skills。Agent 可用：JSON 索引。
+- ✅ **v0.2.1（当前）**：MEDIUM 级全量补充。哲学 28 人（含德里达/莱布尼茨/罗素/波伏瓦/伽达默尔），社会学 18 人（含吉登斯/米尔斯/埃利亚斯），心理学 25 人（含埃里克森/詹姆斯/克莱因），伦理学 15 人（含诺齐克），美学 7 人（含阿多诺）。概念 61 个。
+- 🔮 **v0.3**：深化现有领域，或扩展第七领域（认知科学/心灵哲学）。
 - 🔮 **v0.4**：英文版、可视化关联图谱、Agent SDK 集成示例。
 
 ---
