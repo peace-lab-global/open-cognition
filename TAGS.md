@@ -12,6 +12,7 @@
 | `religion` | 宗教 |
 | `sociology` | 社会学 |
 | `psychology` | 心理学 |
+| `cognitive-systems` | 认知系统工程 |
 
 ## 维度 2：流派 School
 
@@ -27,6 +28,9 @@
 ### 心理学
 `psychoanalysis` `analytical-psychology` `individual-psychology` `behaviorism` `cognitive` `humanistic` `existential-psychology` `positive-psychology` `cognitive-behavioral` `developmental` `social-psychology`
 
+### 认知系统工程
+`cybernetics` `ecological-psychology` `distributed-cognition` `activity-theory` `cognitive-engineering` `naturalistic-decision` `resilience-engineering` `cognitive-ergonomics` `embodied-cognition` `4E-cognition` `safety-science` `safety-II` `automation-sociotechnical` `sociotechnical-systems` `human-automation-interaction` `perrow` `leveson` `endsley` `sheridan` `wickens`
+
 ## 维度 3：时代 Era
 
 | 标签 | 范围 |
@@ -41,7 +45,7 @@
 
 跨学科横向主题，用于 INDEX.md 横向索引：
 
-`epistemology` `ethics` `metaphysics` `ontology` `aesthetics` `political` `power` `self` `consciousness` `unconscious` `meaning` `suffering` `death` `freedom` `community` `language` `body` `time` `truth` `god-divine` `salvation` `liberation` `ritual` `sacred-profane` `social-structure` `social-action` `culture` `class` `gender` `modernity` `rationality` `motivation` `emotion` `cognition` `development` `personality` `therapy` `wellbeing`
+`epistemology` `ethics` `metaphysics` `ontology` `aesthetics` `political` `power` `self` `consciousness` `unconscious` `meaning` `suffering` `death` `freedom` `community` `language` `body` `time` `truth` `god-divine` `salvation` `liberation` `ritual` `sacred-profane` `social-structure` `social-action` `culture` `class` `gender` `modernity` `rationality` `motivation` `emotion` `cognition` `development` `personality` `therapy` `wellbeing` `bounded-rationality` `affordance` `cognitive-load` `situation-awareness` `distributed-cognition` `sensemaking` `mental-model` `resilience` `joint-cognitive-system` `predictive-processing` `enaction` `human-error` `system-design` `feedback` `autopoiesis` `macrocognition` `team-cognition` `distributed-SA` `situated-cognition` `safety-paradigm` `drift-into-failure` `normal-accidents` `safety-culture` `automation-bias` `automation-paradox` `out-of-the-loop` `ecological-interface-design` `cognitive-task-analysis` `just-culture` `human-reliability` `multiple-resources` `automation-autonomy` `STAMP` `STPA` `SAGAT` `supervisory-control`
 
 ---
 

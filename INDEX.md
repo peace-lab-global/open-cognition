@@ -97,7 +97,22 @@
 - 尼采美学：[尼采 · 悲剧精神](./domains/aesthetics/schools/nietzschean-aesthetics/nietzsche-aesthetics.md)
 - 实用主义美学：[杜威 · 艺术即经验](./domains/aesthetics/schools/pragmatist-aesthetics/dewey-aesthetics.md)
 - 中国美学：[朱光潜 · 意象](./domains/aesthetics/schools/chinese-aesthetics/zhu-guangqian.md)
-- 跨学派概念：[美](./domains/aesthetics/concepts/beauty.md) · [崇高](./domains/aesthetics/concepts/sublime.md) · [审美经验](./domains/aesthetics/concepts/aesthetic-experience.md) · [悲剧](./domains/aesthetics/concepts/tragedy.md)
+- 文学思想：[陀思妥耶夫斯基 · 复调](./domains/aesthetics/schools/literary-thought/dostoevsky.md) · [卡夫卡 · 荒诞](./domains/aesthetics/schools/literary-thought/kafka.md) · [博尔赫斯 · 无穷](./domains/aesthetics/schools/literary-thought/borges.md) · [鲁迅 · 国民性](./domains/aesthetics/schools/literary-thought/lu-xun.md) · [托尔斯泰 · 非暴力](./domains/aesthetics/schools/literary-thought/tolstoy.md) · [泰戈尔 · 东西融合](./domains/aesthetics/schools/literary-thought/tagore.md)
+- 文学理论：[索绪尔 · 符号学](./domains/aesthetics/schools/literary-theory/saussure.md) · [巴特 · 作者之死](./domains/aesthetics/schools/literary-theory/barthes.md) · [巴赫金 · 复调对话](./domains/aesthetics/schools/literary-theory/bakhtin.md) · [弗莱 · 原型批评](./domains/aesthetics/schools/literary-theory/frye.md)
+- 诗性思想：[但丁 · 神曲](./domains/aesthetics/schools/poetic-thought/dante.md) · [鲁米 · 神圣之爱](./domains/aesthetics/schools/poetic-thought/rumi.md) · [李白 · 自然天成](./domains/aesthetics/schools/poetic-thought/li-bai.md)
+- 艺术思想：[达·芬奇 · 艺术即科学](./domains/aesthetics/schools/arts-thought/leonardo.md) · [爱森斯坦 · 蒙太奇](./domains/aesthetics/schools/arts-thought/eisenstein.md) · [凯奇 · 沉默](./domains/aesthetics/schools/arts-thought/cage.md)
+- 跨学派概念：[美](./domains/aesthetics/concepts/beauty.md) · [崇高](./domains/aesthetics/concepts/sublime.md) · [审美经验](./domains/aesthetics/concepts/aesthetic-experience.md) · [悲剧](./domains/aesthetics/concepts/tragedy.md) · [叙事](./domains/aesthetics/concepts/narrative.md) · [想象力](./domains/aesthetics/concepts/imagination.md) · [创造力](./domains/aesthetics/concepts/creativity.md)
+
+### 认知系统工程 Cognitive Systems Engineering
+- [认知系统工程领域导览](./domains/cognitive-systems/README.md)
+- 控制论：[维纳 · 反馈与控制](./domains/cognitive-systems/schools/cybernetics/wiener.md) · [阿什比 · 必要多样性](./domains/cognitive-systems/schools/cybernetics/ashby.md) · [西蒙 · 有限理性](./domains/cognitive-systems/schools/cybernetics/simon.md)
+- 生态心理学：[吉布森 · 可供性](./domains/cognitive-systems/schools/ecological/gibson.md) · [克拉克 · 延展认知](./domains/cognitive-systems/schools/ecological/clark.md) · [瓦雷拉 · 生成认知](./domains/cognitive-systems/schools/ecological/varela.md)
+- 分布式认知：[哈钦斯 · 认知在荒野中](./domains/cognitive-systems/schools/distributed/hutchins.md) · [恩格斯托姆 · 活动理论](./domains/cognitive-systems/schools/distributed/engestrom.md) · [列昂捷夫 · 活动结构](./domains/cognitive-systems/schools/distributed/leontiev.md)
+- 认知系统工程：[拉斯穆森 · 认知工作分析](./domains/cognitive-systems/schools/cognitive-engineering/rasmussen.md) · [伍兹 · 韧性工程](./domains/cognitive-systems/schools/cognitive-engineering/woods.md) · [诺曼 · 设计心理学](./domains/cognitive-systems/schools/cognitive-engineering/norman.md) · [莱维森 · STAMP/STPA](./domains/cognitive-systems/schools/cognitive-engineering/leveson.md)
+- 自然决策与认知工效：[克莱因 · 识别启动决策](./domains/cognitive-systems/schools/naturalistic-decision/klein.md) · [维克 · 意义建构](./domains/cognitive-systems/schools/naturalistic-decision/weick.md) · [斯威勒 · 认知负荷](./domains/cognitive-systems/schools/naturalistic-decision/sweller.md) · [恩兹利 · 态势感知](./domains/cognitive-systems/schools/naturalistic-decision/endsley.md)
+- 安全科学：[霍伦纳格 · Safety-II](./domains/cognitive-systems/schools/safety-science/hollnagel.md) · [里森 · 瑞士奶酪模型](./domains/cognitive-systems/schools/safety-science/reason.md) · [德克尔 · 漂移失败](./domains/cognitive-systems/schools/safety-science/dekker.md) · [佩罗 · 正常事故](./domains/cognitive-systems/schools/safety-science/perrow.md)
+- 自动化与社会技术：[班布里奇 · 自动化悖论](./domains/cognitive-systems/schools/automation-sociotechnical/bainbridge.md) · [帕拉休拉曼 · 自动化四阶段](./domains/cognitive-systems/schools/automation-sociotechnical/parasuraman.md) · [维森特 · 认知工作分析](./domains/cognitive-systems/schools/automation-sociotechnical/vicente.md) · [谢里登 · 监督控制](./domains/cognitive-systems/schools/automation-sociotechnical/sheridan.md) · [威肯斯 · 多重资源](./domains/cognitive-systems/schools/automation-sociotechnical/wickens.md)
+- 跨学派概念：[有限理性](./domains/cognitive-systems/concepts/bounded-rationality.md) · [可供性](./domains/cognitive-systems/concepts/affordance.md) · [认知负荷](./domains/cognitive-systems/concepts/cognitive-load.md) · [态势感知](./domains/cognitive-systems/concepts/situation-awareness.md) · [分布式认知](./domains/cognitive-systems/concepts/distributed-cognition.md) · [意义建构](./domains/cognitive-systems/concepts/sensemaking.md) · [心智模型](./domains/cognitive-systems/concepts/mental-model.md) · [活动理论](./domains/cognitive-systems/concepts/activity-theory.md) · [韧性工程](./domains/cognitive-systems/concepts/resilience-engineering.md) · [联合认知系统](./domains/cognitive-systems/concepts/joint-cognitive-system.md) · [预测加工](./domains/cognitive-systems/concepts/predictive-processing.md) · [生成认知](./domains/cognitive-systems/concepts/enaction.md) · [安全范式](./domains/cognitive-systems/concepts/safety-paradigm.md) · [漂移失败](./domains/cognitive-systems/concepts/drift-into-failure.md) · [正常事故](./domains/cognitive-systems/concepts/normal-accidents.md) · [安全文化](./domains/cognitive-systems/concepts/safety-culture.md) · [自动化偏见](./domains/cognitive-systems/concepts/automation-bias.md) · [脱离回路](./domains/cognitive-systems/concepts/out-of-the-loop.md) · [社会技术系统](./domains/cognitive-systems/concepts/sociotechnical-system.md) · [生态界面设计](./domains/cognitive-systems/concepts/ecological-interface-design.md) · [宏观认知](./domains/cognitive-systems/concepts/macrocognition.md) · [团队认知](./domains/cognitive-systems/concepts/team-cognition.md) · [分布式态势感知](./domains/cognitive-systems/concepts/distributed-sa.md) · [情境化认知](./domains/cognitive-systems/concepts/situated-cognition.md) · [多重资源模型](./domains/cognitive-systems/concepts/multiple-resource-model.md) · [自动化自主谱](./domains/cognitive-systems/concepts/automation-autonomy-spectrum.md) · [人因可靠性分析](./domains/cognitive-systems/concepts/human-reliability-analysis.md)
 
 ### 智慧导师 Wisdom Masters
 - [智慧导师领域导览](./wisdom-masters/README.md)
@@ -220,9 +235,36 @@
 - 哲学：[阿伦特 · 公共领域](./domains/philosophy/schools/political-philosophy/arendt.md)
 - 伦理学：[环境伦理](./domains/ethics-politics/concepts/environmental-ethics.md) · [人权](./domains/ethics-politics/concepts/human-rights.md)
 
+### 认知与系统 Cognition & Systems
+- 认知系统：[有限理性](./domains/cognitive-systems/concepts/bounded-rationality.md) · [分布式认知](./domains/cognitive-systems/concepts/distributed-cognition.md) · [预测加工](./domains/cognitive-systems/concepts/predictive-processing.md)
+- 心理学：[卡尼曼 · 双系统](./domains/psychology/schools/cognitive/kahneman.md) · [皮亚杰 · 建构主义](./domains/psychology/schools/cognitive/piaget.md)
+- 哲学：[维特根斯坦 · 语言游戏](./domains/philosophy/schools/analytic/wittgenstein.md)
+- 宗教：[佛教八识体系](./domains/religion/buddhism/concepts/cognitive-theory/eight-consciousness.md)
+
+### 人-技术耦合 Human-Technology Coupling
+- 认知系统：[延展认知](./domains/cognitive-systems/schools/ecological/clark.md) · [联合认知系统](./domains/cognitive-systems/concepts/joint-cognitive-system.md) · [可供性](./domains/cognitive-systems/concepts/affordance.md)
+- 社会学：[拉图尔 · 行动者网络](./domains/sociology/schools/actor-network/latour.md)
+- 哲学：[梅洛-庞蒂 · 身体现象学](./domains/philosophy/schools/phenomenology/merleau-ponty.md) · [海德格尔 · 上手状态](./domains/philosophy/schools/existentialism/heidegger.md)
+
+### 错误与韧性 Error & Resilience
+- 认知系统：[韧性工程](./domains/cognitive-systems/concepts/resilience-engineering.md) · [人为错误](./domains/cognitive-systems/schools/cognitive-engineering/rasmussen.md) · [意义建构](./domains/cognitive-systems/concepts/sensemaking.md)
+- 社会学：[贝克 · 风险社会](./domains/sociology/schools/modernity/beck.md) · [鲍曼 · 流动现代性](./domains/sociology/schools/modernity/bauman.md)
+- 心理学：[创伤](./domains/psychology/concepts/trauma.md) · [范德科尔克 · 身体从未忘记](./domains/psychology/schools/trauma-psychology/van-der-kolk.md)
+- 宗教：[佛教转识成智](./domains/religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md)
+
+### 安全与风险管理 Safety & Risk Management
+- 认知系统：[安全范式](./domains/cognitive-systems/concepts/safety-paradigm.md) · [漂移失败](./domains/cognitive-systems/concepts/drift-into-failure.md) · [韧性工程](./domains/cognitive-systems/concepts/resilience-engineering.md) · [安全文化](./domains/cognitive-systems/concepts/safety-culture.md)
+- 心理学：[卡尼曼 · 双系统](./domains/psychology/schools/cognitive/kahneman.md)
+- 社会学：[贝克 · 风险社会](./domains/sociology/schools/modernity/beck.md)
+
+### 自动化与人机协作 Automation & Human-Machine Collaboration
+- 认知系统：[自动化偏见](./domains/cognitive-systems/concepts/automation-bias.md) · [脱离回路](./domains/cognitive-systems/concepts/out-of-the-loop.md) · [联合认知系统](./domains/cognitive-systems/concepts/joint-cognitive-system.md) · [可供性](./domains/cognitive-systems/concepts/affordance.md) · [团队认知](./domains/cognitive-systems/concepts/team-cognition.md)
+- 心理学：[卡尼曼 · 双系统](./domains/psychology/schools/cognitive/kahneman.md) · [认知负荷](./domains/cognitive-systems/concepts/cognitive-load.md)
+- 哲学：[海德格尔 · 上手状态](./domains/philosophy/schools/existentialism/heidegger.md)
+
 ---
 
-## 四、Wisdom Masters Skills 索引
+## 四、Skills 索引
 
 ### 哲学框架 Philosophy Frameworks
 - [苏格拉底式提问](./skills/philosophy-frameworks/socratic-questioning/SKILL.md) — 通过追问揭示假设
@@ -239,6 +281,11 @@
 - [此在分析](./skills/philosophy-frameworks/dasein-analysis/SKILL.md) — 海德格尔此在分析
 - [存在主义分析](./skills/philosophy-frameworks/existentialism-analysis/SKILL.md) — 萨特存在主义分析
 - [东西方伦理对比](./skills/philosophy-frameworks/east-west-ethics-comparison/SKILL.md) — 东西方伦理传统比较
+- [方法论怀疑](./skills/philosophy-frameworks/methodological-doubt/SKILL.md) — 笛卡尔方法论怀疑
+- [因果问题分析](./skills/philosophy-frameworks/causation-analysis/SKILL.md) — 休谟因果问题分析
+- [社会契约分析](./skills/philosophy-frameworks/social-contract-analysis/SKILL.md) — 卢梭社会契约分析
+- [实用主义分析](./skills/philosophy-frameworks/pragmatism-analysis/SKILL.md) — 杜威实用主义分析
+- [仁礼分析](./skills/philosophy-frameworks/ren-li-analysis/SKILL.md) — 孔子仁礼分析
 
 ### 宗教框架 Religion Frameworks
 - [四圣谛诊断](./skills/religion-frameworks/four-noble-truths-framework/SKILL.md) — 苦/集/灭/道四步分析
@@ -267,6 +314,11 @@
 - [液态现代性分析](./skills/sociology-frameworks/liquid-modernity-analysis/SKILL.md) — 鲍曼液态现代性分析
 - [理性化分析](./skills/sociology-frameworks/rationalization-analysis/SKILL.md) — 韦伯理性化分析框架
 - [规训分析](./skills/sociology-frameworks/discipline-analysis/SKILL.md) — 福柯规训权力分析
+- [社会形式分析](./skills/sociology-frameworks/social-forms-analysis/SKILL.md) — 齐美尔社会形式分析
+- [网络社会分析](./skills/sociology-frameworks/network-society-analysis/SKILL.md) — 卡斯特网络社会分析
+- [性别操演分析](./skills/sociology-frameworks/gender-performativity-analysis/SKILL.md) — 巴特勒性别操演分析
+- [风险社会分析](./skills/sociology-frameworks/risk-society-analysis/SKILL.md) — 贝克风险社会分析
+- [文明进程分析](./skills/sociology-frameworks/civilizing-process-analysis/SKILL.md) — 埃利亚斯文明进程分析
 
 ### 心理学框架 Psychology Frameworks
 - [荣格原型识别](./skills/psychology-frameworks/jungian-archetype-identification/SKILL.md) — 阴影/阿尼玛/英雄等
@@ -280,6 +332,11 @@
 - [潜意识分析](./skills/psychology-frameworks/unconscious-analysis/SKILL.md) — 弗洛伊德潜意识分析
 - [个体化引导](./skills/psychology-frameworks/individuation-guidance/SKILL.md) — 荣格个体化引导
 - [自卑与超越分析](./skills/psychology-frameworks/inferiority-transcendence/SKILL.md) — 阿德勒自卑与超越分析
+- [依恋分析](./skills/psychology-frameworks/attachment-analysis/SKILL.md) — 鲍尔比依恋分析
+- [自我效能分析](./skills/psychology-frameworks/self-efficacy-analysis/SKILL.md) — 班杜拉自我效能分析
+- [意义疗法](./skills/psychology-frameworks/logotherapy/SKILL.md) — 弗兰克尔意义疗法
+- [最近发展区分析](./skills/psychology-frameworks/zpd-analysis/SKILL.md) — 维果茨基最近发展区分析
+- [躯体标记分析](./skills/psychology-frameworks/somatic-marker-analysis/SKILL.md) — 达玛西奥躯体标记分析
 
 ### 伦理学与政治哲学框架 Ethics & Political Philosophy Frameworks
 - [苦乐计算](./skills/ethics-politics-frameworks/pleasure-calculus/SKILL.md) — 功利原则的七维量化分析
@@ -287,11 +344,46 @@
 - [亚里士多德德性检验](./skills/ethics-politics-frameworks/aristotle-virtue-test/SKILL.md) — 中庸之道与功能检验
 - [正义原则检验](./skills/ethics-politics-frameworks/justice-principle-test/SKILL.md) — 罗尔斯正义二原则评估
 - [自由主义论证分析](./skills/ethics-politics-frameworks/liberalism-analysis/SKILL.md) — 伤害原则与自由边界
+- [自然状态分析](./skills/ethics-politics-frameworks/state-of-nature-analysis/SKILL.md) — 霍布斯自然状态分析
+- [自然权利分析](./skills/ethics-politics-frameworks/natural-rights-analysis/SKILL.md) — 洛克自然权利分析
+- [非暴力抵抗](./skills/ethics-politics-frameworks/nonviolent-resistance/SKILL.md) — 甘地非暴力抵抗
+- [德性分析](./skills/ethics-politics-frameworks/virtue-ethics-analysis/SKILL.md) — 麦金太尔德性分析
+- [能力方法分析](./skills/ethics-politics-frameworks/capability-approach-analysis/SKILL.md) — 森能力方法分析
 
 ### 美学框架 Aesthetics Frameworks
 - [审美判断分析](./skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md) — 康德四契机检验
 - [悲剧精神评估](./skills/aesthetics-frameworks/tragic-spirit-assessment/SKILL.md) — 日神/酒神元素分析
 - [艺术批评框架](./skills/aesthetics-frameworks/art-criticism-framework/SKILL.md) — 形式/表现/语境/实用四层
+
+### 文学框架 Literature Frameworks
+- [人性洞察分析](./skills/literature-frameworks/human-nature-analysis/SKILL.md) — 莎士比亚人性洞察
+- [浮士德精神分析](./skills/literature-frameworks/faustian-spirit-analysis/SKILL.md) — 歌德浮士德精神
+- [苦难救赎分析](./skills/literature-frameworks/suffering-redemption-analysis/SKILL.md) — 陀思妥耶夫斯基苦难救赎
+- [荒诞分析](./skills/literature-frameworks/absurd-analysis/SKILL.md) — 卡夫卡荒诞思想
+- [国民性批判分析](./skills/literature-frameworks/national-character-criticism/SKILL.md) — 鲁迅国民性批判
+
+### 艺术框架 Arts Frameworks
+- [艺术与科学统一分析](./skills/arts-frameworks/art-science-unity-analysis/SKILL.md) — 达芬奇艺术与科学统一
+- [苦难与艺术分析](./skills/arts-frameworks/suffering-art-analysis/SKILL.md) — 贝多芬苦难与艺术
+- [色彩与情感分析](./skills/arts-frameworks/color-emotion-analysis/SKILL.md) — 梵高色彩与情感
+
+### 认知系统工程框架 Cognitive Systems Frameworks
+- [认知工作分析](./skills/cognitive-systems-frameworks/cognitive-work-analysis/SKILL.md) — Rasmussen 抽象层级与 SRK 模型
+- [认知负荷评估](./skills/cognitive-systems-frameworks/cognitive-load-assessment/SKILL.md) — Sweller 三类认知负荷诊断
+- [态势感知诊断](./skills/cognitive-systems-frameworks/situation-awareness-diagnosis/SKILL.md) — Endsley 三级 SA 评估
+- [自然决策分析](./skills/cognitive-systems-frameworks/naturalistic-decision-analysis/SKILL.md) — Klein 识别启动决策模型
+- [意义建构引导](./skills/cognitive-systems-frameworks/sensemaking-guidance/SKILL.md) — Weick 模糊情境中的理解建构
+- [人为错误分析](./skills/cognitive-systems-frameworks/human-error-analysis/SKILL.md) — SRK 错误分类与瑞士奶酪模型
+- [韧性评估](./skills/cognitive-systems-frameworks/resilience-assessment/SKILL.md) — 系统四项韧性能力评估
+- [活动系统分析](./skills/cognitive-systems-frameworks/activity-system-analysis/SKILL.md) — Engeström 活动理论三角形
+- [认知系统设计](./skills/cognitive-systems-frameworks/cognitive-system-design/SKILL.md) — 人机协作的功能分配与信任校准
+- [可供性分析](./skills/cognitive-systems-frameworks/affordance-analysis/SKILL.md) — Gibson/Norman 行动可能性诊断
+- [认知任务分析](./skills/cognitive-systems-frameworks/cognitive-task-analysis/SKILL.md) — Klein 专家隐性知识提取
+- [STPA 事故分析](./skills/cognitive-systems-frameworks/stpa-accident-analysis/SKILL.md) — Leveson 系统理论事故模型
+- [自动化级别评估](./skills/cognitive-systems-frameworks/automation-level-assessment/SKILL.md) — Parasuraman 四阶段自动化评估
+- [人 AI 协作设计](./skills/cognitive-systems-frameworks/human-ai-teaming/SKILL.md) — 人机协作的功能分配与信任校准
+- [安全学习分析](./skills/cognitive-systems-frameworks/safety-learning-analysis/SKILL.md) — Hollnagel Safety-II 正常工作分析
+- [人因可靠性分析](./skills/cognitive-systems-frameworks/human-reliability-analysis/SKILL.md) — THERP/CREAM/SPAR-H 人误概率评估
 
 ### 智慧导师框架 Wisdom Masters Frameworks
 - [慧能无住心法](./wisdom-masters/skills/hui-neng-no-dwelling/SKILL.md) — 执念辨别与无住引导

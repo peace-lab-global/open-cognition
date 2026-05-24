@@ -1,13 +1,15 @@
 {
-  "version": "v0.2.1",
+  "version": "v0.3",
   "generated": "2026-05-19",
   "stats": {
-    "entries": 164,
-    "skills": 56,
-    "total": 220,
+    "entries": 189,
+    "skills": 61,
+    "total": 250,
     "domains": [
       "aesthetics",
+      "arts",
       "ethics-politics",
+      "literature",
       "philosophy",
       "psychology",
       "religion",
@@ -16,11 +18,151 @@
   },
   "entries": [
     {
+      "path": "domains/aesthetics/concepts/creativity.md",
+      "id": "creativity",
+      "title": "创造力 · Creativity",
+      "type": "concept",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/concepts/imagination.md",
+      "id": "imagination",
+      "title": "想象力 · Imagination",
+      "type": "concept",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/concepts/narrative.md",
+      "id": "narrative",
+      "title": "叙事 · Narrative",
+      "type": "concept",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/arts-thought/cage.md",
+      "id": "cage",
+      "title": "凯奇 · John Cage",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/arts-thought/eisenstein.md",
+      "id": "eisenstein",
+      "title": "爱森斯坦 · Sergei Eisenstein",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/arts-thought/leonardo.md",
+      "id": "leonardo",
+      "title": "达·芬奇 · Leonardo da Vinci",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
       "path": "domains/aesthetics/schools/critical-aesthetics/benjamin.md",
       "id": "benjamin-walter",
       "title": "瓦尔特·本雅明 · Walter Benjamin",
       "type": "thinker",
       "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-theory/bakhtin.md",
+      "id": "bakhtin",
+      "title": "巴赫金 · Mikhail Bakhtin",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-theory/barthes.md",
+      "id": "barthes",
+      "title": "巴特 · Roland Barthes",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-theory/frye.md",
+      "id": "frye",
+      "title": "弗莱 · Northrop Frye",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-theory/saussure.md",
+      "id": "saussure",
+      "title": "索绪尔 · Ferdinand de Saussure",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/borges.md",
+      "id": "borges",
+      "title": "博尔赫斯 · Jorge Luis Borges",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/dostoevsky.md",
+      "id": "dostoevsky",
+      "title": "陀思妥耶夫斯基 · Fyodor Dostoevsky",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/kafka.md",
+      "id": "kafka",
+      "title": "卡夫卡 · Franz Kafka",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/lu-xun.md",
+      "id": "lu-xun",
+      "title": "鲁迅 · Lu Xun",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/tagore.md",
+      "id": "tagore",
+      "title": "泰戈尔 · Rabindranath Tagore",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/literary-thought/tolstoy.md",
+      "id": "tolstoy",
+      "title": "托尔斯泰 · Leo Tolstoy",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/poetic-thought/dante.md",
+      "id": "dante-alighieri",
+      "title": "但丁·阿利吉耶里 · Dante Alighieri",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/poetic-thought/li-bai.md",
+      "id": "li-bai",
+      "title": "李白 · Li Bai",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/schools/poetic-thought/rumi.md",
+      "id": "rumi",
+      "title": "鲁米 · Jalal ad-Din Rumi",
+      "type": "thinker",
+      "domain": "aesthetics"
+    },
+    {
+      "path": "domains/arts/schools/visual-arts/leonardo-da-vinci.md",
+      "id": "leonardo-da-vinci",
+      "title": "莱昂纳多·达芬奇 · Leonardo da Vinci",
+      "type": "thinker",
+      "domain": "arts"
     },
     {
       "path": "domains/ethics-politics/concepts/categorical-imperative.md",
@@ -182,6 +324,41 @@
       "title": "麦金太尔 · Alasdair MacIntyre",
       "type": "thinker",
       "domain": "ethics-politics"
+    },
+    {
+      "path": "domains/literature/schools/dramatists/shakespeare.md",
+      "id": "shakespeare",
+      "title": "威廉·莎士比亚 · William Shakespeare",
+      "type": "thinker",
+      "domain": "literature"
+    },
+    {
+      "path": "domains/literature/schools/essayists/lu-xun.md",
+      "id": "lu-xun",
+      "title": "鲁迅 · Lu Xun",
+      "type": "thinker",
+      "domain": "literature"
+    },
+    {
+      "path": "domains/literature/schools/novelists/dostoevsky.md",
+      "id": "dostoevsky",
+      "title": "费奥多尔·陀思妥耶夫斯基 · Fyodor Dostoevsky",
+      "type": "thinker",
+      "domain": "literature"
+    },
+    {
+      "path": "domains/literature/schools/novelists/kafka.md",
+      "id": "kafka",
+      "title": "弗兰茨·卡夫卡 · Franz Kafka",
+      "type": "thinker",
+      "domain": "literature"
+    },
+    {
+      "path": "domains/literature/schools/poets/goethe.md",
+      "id": "goethe",
+      "title": "约翰·沃尔夫冈·冯·歌德 · Johann Wolfgang von Goethe",
+      "type": "thinker",
+      "domain": "literature"
     },
     {
       "path": "domains/philosophy/concepts/aesthetics.md",
@@ -1257,6 +1434,18 @@
       "domain": "ethics-politics"
     },
     {
+      "path": "skills/literature-frameworks/absurd-analysis/SKILL.md",
+      "name": "absurd-analysis",
+      "description": "Triggers on requests to 荒诞、无意义、存在困境，如人生意义探索、社会批判、心理分析等。Apply this skill to analyze the absurdity of existence using Kafka's insights, understanding the gap between human expectations and reality.",
+      "domain": "literature"
+    },
+    {
+      "path": "skills/literature-frameworks/faustian-spirit-analysis/SKILL.md",
+      "name": "faustian-spirit-analysis",
+      "description": "Triggers on requests to 浮士德精神、追求、渴望，如人生意义探索、个人成长、目标设定等。Apply this skill to analyze the Faustian spirit using Goethe's insights, understanding the human drive for knowledge, experience, and transcendence.",
+      "domain": "literature"
+    },
+    {
       "path": "skills/philosophy-frameworks/allegory-of-cave-analysis/SKILL.md",
       "name": "allegory-of-cave-analysis",
       "description": "Triggers on requests to 洞穴寓言、理型论、真理与幻象，如哲学思考、教育理念、社会批判等。Apply this skill to analyze situations using Plato's Allegory of the Cave, understanding the journey from ignorance to enlightenment.",
@@ -1266,6 +1455,12 @@
       "path": "skills/philosophy-frameworks/categorical-imperative-test/SKILL.md",
       "name": "categorical-imperative-test",
       "description": "Triggers on requests to 道德判断、伦理原则、绝对命令，如道德困境分析、行为准则制定、伦理决策等。Apply this skill to evaluate the morality of actions using Kant's categorical imperative: universalizability, humanity as end, and kingdom of ends.",
+      "domain": "philosophy"
+    },
+    {
+      "path": "skills/philosophy-frameworks/causation-analysis/SKILL.md",
+      "name": "causation-analysis",
+      "description": "Triggers on requests to 因果问题、归纳问题、经验主义，如科学哲学、认识论探究、批判性思维等。Apply this skill to analyze causation using Hume's empiricist approach, questioning the basis of causal knowledge.",
       "domain": "philosophy"
     },
     {
@@ -1290,6 +1485,12 @@
       "path": "skills/philosophy-frameworks/qiwu-analysis/SKILL.md",
       "name": "qiwu-analysis",
       "description": "Triggers on requests to 齐物论、相对主义、超越对立，如哲学争论、价值判断、认知偏差等。Apply this skill to help users transcend binary thinking and see the equality of opposites.",
+      "domain": "philosophy"
+    },
+    {
+      "path": "skills/philosophy-frameworks/ren-li-analysis/SKILL.md",
+      "name": "ren-li-analysis",
+      "description": "Triggers on requests to 仁、礼、中庸，如道德修养、人际关系、社会秩序等。Apply this skill to analyze moral and social issues using Confucius' concepts of ren (benevolence) and li (ritual propriety).",
       "domain": "philosophy"
     },
     {
@@ -1428,6 +1629,12 @@
       "path": "skills/sociology-frameworks/social-fact-analysis/SKILL.md",
       "name": "social-fact-analysis",
       "description": "Triggers on requests to 社会事实、集体意识、社会整合，如社会问题分析、文化研究、社会政策评估等。Apply this skill to analyze social phenomena as social facts, understanding how they constrain and shape individual behavior.",
+      "domain": "sociology"
+    },
+    {
+      "path": "skills/sociology-frameworks/social-forms-analysis/SKILL.md",
+      "name": "social-forms-analysis",
+      "description": "Triggers on requests to 社会形式、陌生人、社会互动，如社会关系分析、文化研究、城市社会学等。Apply this skill to analyze social interactions using Simmel's concept of social forms, understanding the patterns of social life.",
       "domain": "sociology"
     },
     {

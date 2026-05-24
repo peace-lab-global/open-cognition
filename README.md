@@ -22,18 +22,19 @@
 ## 内容总览
 
 ```
-6 个领域 × N 思想家/条目 + 概念条目 + Skills
-= 94 思想家 + 61 概念 + 67 Skills
+7 个领域 × N 思想家/条目 + 概念条目 + Skills
+= ~120 思想家 + ~87 概念 + ~83 Skills
 ```
 
 | 领域 | 条目结构 | 入口 |
 |---|---|---|
-| 哲学 Philosophy | 28 思想家 / 8 概念 / 4 Skills | [domains/philosophy](./domains/philosophy/README.md) |
-| 宗教 Religion | 16 条目 / 4 跨传统概念 / 11 Skills | [domains/religion](./domains/religion/README.md) |
-| 社会学 Sociology | 18 思想家 / 7 概念 / 4 Skills | [domains/sociology](./domains/sociology/README.md) |
-| 心理学 Psychology | 25 思想家 / 8 概念 / 4 Skills | [domains/psychology](./domains/psychology/README.md) |
-| 伦理学与政治哲学 Ethics & Political Philosophy | 15 思想家 / 11 概念 / 5 Skills | [domains/ethics-politics](./domains/ethics-politics/README.md) |
-| 美学与艺术哲学 Aesthetics | 7 思想家 / 4 概念 / 3 Skills | [domains/aesthetics](./domains/aesthetics/README.md) |
+| 哲学 Philosophy | 28 思想家 / 8 概念 / 19 Skills | [domains/philosophy](./domains/philosophy/README.md) |
+| 宗教 Religion | 16 条目 / 4 跨传统概念 / 14 Skills | [domains/religion](./domains/religion/README.md) |
+| 社会学 Sociology | 18 思想家 / 7 概念 / 15 Skills | [domains/sociology](./domains/sociology/README.md) |
+| 心理学 Psychology | 25 思想家 / 8 概念 / 16 Skills | [domains/psychology](./domains/psychology/README.md) |
+| 伦理学与政治哲学 Ethics & Political Philosophy | 15 思想家 / 11 概念 / 10 Skills | [domains/ethics-politics](./domains/ethics-politics/README.md) |
+| 美学与艺术哲学 Aesthetics | 23 思想家 / 7 概念 / 3 Skills | [domains/aesthetics](./domains/aesthetics/README.md) |
+| 认知系统工程 Cognitive Systems Engineering | ~25 思想家 / ~26 概念 / ~16 Skills | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
 
 完整索引见 [INDEX.md](./INDEX.md) ｜ 标签词典见 [TAGS.md](./TAGS.md)。
 
@@ -64,7 +65,11 @@ open-cognition/
 │   │   ├── README.md
 │   │   ├── schools/<流派>/<思想家>.md
 │   │   └── concepts/<概念>.md
-│   └── ethics-politics/
+│   ├── ethics-politics/
+│   │   ├── README.md
+│   │   ├── schools/<学派>/<思想家>.md
+│   │   └── concepts/<概念>.md
+│   └── cognitive-systems/
 │       ├── README.md
 │       ├── schools/<学派>/<思想家>.md
 │       └── concepts/<概念>.md
@@ -73,7 +78,8 @@ open-cognition/
 │   ├── religion-frameworks/
 │   ├── sociology-frameworks/
 │   ├── psychology-frameworks/
-│   └── ethics-politics-frameworks/
+│   ├── ethics-politics-frameworks/
+│   └── cognitive-systems-frameworks/
 ├── templates/                  # 思想家/概念/学派/Skill 模板
 └── meta/                       # 分类法、引用源、质量标准
 ```
@@ -140,11 +146,12 @@ tags: [...]
 
 ## 路线图
 
-- ✅ **v0.1**：五领域基础骨架，每域 ~17 条目 + Skills。
-- ✅ **v0.2**：六领域全面扩展 + 全球顶尖人物全量补充。80+ 思想家，60+ 概念，67 Skills。Agent 可用：JSON 索引。
-- ✅ **v0.2.1（当前）**：MEDIUM 级全量补充。哲学 28 人（含德里达/莱布尼茨/罗素/波伏瓦/伽达默尔），社会学 18 人（含吉登斯/米尔斯/埃利亚斯），心理学 25 人（含埃里克森/詹姆斯/克莱因），伦理学 15 人（含诺齐克），美学 7 人（含阿多诺）。概念 61 个。
-- 🔮 **v0.3**：深化现有领域，或扩展第七领域（认知科学/心灵哲学）。
-- 🔮 **v0.4**：英文版、可视化关联图谱、Agent SDK 集成示例。
+- ✅ **v0.1**：五领域基础骨架。
+- ✅ **v0.2**：六领域全面扩展 + 全球顶尖人物全量补充。
+- ✅ **v0.3**：文学家/文艺家全面融合。美学领域从 7 人扩展到 23 人。
+- ✅ **v0.4**：新增**认知系统工程**领域——控制论(维纳/阿什比/西蒙)、生态心理学(吉布森/克拉克/瓦雷拉)、分布式认知(哈钦斯/恩格斯托姆/列昂捷夫)、认知系统工程(拉斯穆森/伍兹/诺曼)、自然决策(克莱因/维克/斯威勒)。15 位思想家 + 12 个概念 + 10 个 Skills。补齐"认知作为人-技术-环境联合系统的涌现"这条缺失轴线。
+- ✅ **v0.5（当前）**：CSE 领域深度扩展——新增安全科学学派(霍伦纳格/里森/德克尔)、自动化与社会技术学派(班布里奇/帕拉休拉曼/维森特)。新增 4 个概念(宏观认知/团队认知/分布式态势感知/情境化认知)和 5 个 Skills(认知任务分析/STPA 事故分析/自动化级别评估/人 AI 协作设计/安全学习分析)。补齐安全科学和人机协作两条关键轴线。
+- 🔮 **v0.6**：英文版、可视化关联图谱、Agent SDK 集成示例。
 
 ---
 
