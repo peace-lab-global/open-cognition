@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Open Cognition · Brand Assets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    background:#faf9f6;color:#1a1a1a;
+    font-family:'Inter','Helvetica Neue',Arial,sans-serif;
+    line-height:1.5;
+    padding:64px 80px 80px;
+  }
+  header{
+    border-bottom:2.5px solid #1a1a1a;padding-bottom:20px;margin-bottom:40px;
+    position:relative;
+  }
+  header::after{
+    content:'';position:absolute;bottom:-6px;left:0;
+    width:160px;height:3px;background:#f4d03f;transform:rotate(-1deg);
+  }
+  h1{
+    font-family:'Playfair Display',Georgia,serif;
+    font-size:48px;font-weight:900;letter-spacing:-1.5px;line-height:1.05;
+  }
+  h1 span{color:#f4d03f;text-shadow:2px 2px 0 #1a1a1a;}
+  .sub{
+    font-family:'Noto Serif SC',serif;font-size:16px;
+    color:#666;margin-top:10px;letter-spacing:2px;
+  }
+  h2{
+    font-size:14px;letter-spacing:6px;text-transform:uppercase;
+    font-weight:700;color:#1a1a1a;margin:48px 0 18px;
+    border-left:4px solid #f4d03f;padding-left:12px;
+  }
+  .row{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+  .card{
+    border:2px solid #1a1a1a;background:#fff;
+    border-radius:8px;overflow:hidden;
+    display:flex;flex-direction:column;
+  }
+  .card.dark{background:#0a0a0f;border-color:#0a0a0f;}
+  .frame{
+    aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;
+    padding:24px;background:transparent;
+  }
+  .frame img{width:100%;height:100%;object-fit:contain;display:block;}
+  .meta{
+    padding:14px 18px;background:#1a1a1a;color:#faf9f6;
+    font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:600;
+    display:flex;justify-content:space-between;align-items:center;
+  }
+  .card.dark .meta{background:#f4d03f;color:#1a1a1a;}
+  .meta a{
+    color:inherit;text-decoration:none;font-weight:700;font-size:11px;
+    border:1.5px solid currentColor;padding:3px 8px;border-radius:3px;
+    opacity:.85;
+  }
+  .meta a:hover{opacity:1;}
+
+  .horizontal-card{
+    grid-column:span 3;border:2px solid #1a1a1a;border-radius:8px;
+    background:#fff;overflow:hidden;
+  }
+  .horizontal-card .frame{aspect-ratio:auto;padding:0;}
+  .horizontal-card img{width:100%;height:auto;display:block;}
+
+  .swatches{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;}
+  .sw{border:2px solid #1a1a1a;border-radius:6px;overflow:hidden;}
+  .sw .col{height:80px;}
+  .sw .lbl{
+    padding:8px 10px;font-size:11px;letter-spacing:1px;font-weight:700;
+    background:#1a1a1a;color:#faf9f6;
+    display:flex;justify-content:space-between;
+  }
+
+  .usage{
+    background:#fff;border:1.5px solid #1a1a1a;border-radius:8px;
+    padding:24px 28px;font-size:14px;line-height:1.75;color:#333;
+  }
+  .usage code{
+    background:#f4d03f33;padding:2px 6px;border-radius:3px;
+    font-family:ui-monospace,Menlo,monospace;font-size:13px;
+  }
+  .usage h3{
+    font-size:13px;letter-spacing:4px;text-transform:uppercase;
+    margin:18px 0 8px;color:#1a1a1a;
+  }
+  .usage h3:first-child{margin-top:0;}
+  .footer{
+    margin-top:60px;padding-top:24px;border-top:1px solid #1a1a1a22;
+    font-size:12px;color:#999;letter-spacing:2px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div style="font-size:13px;letter-spacing:8px;color:#666;font-weight:600;text-transform:uppercase;opacity:.5;">BRAND ASSETS · v0.5</div>
+  <h1>Open <span>Cognition</span> Logo</h1>
+  <div class="sub">开放认知 · 跨学科认知数据库 · LOGO 视觉规范</div>
+</header>
+
+<h2>01 · Primary Marks</h2>
+<div class="row">
+  <div class="card">
+    <div class="frame"><img src="logo-mark.svg" alt="Logo Mark"></div>
+    <div class="meta"><span>logo-mark</span><a href="logo-mark.svg" download>SVG</a></div>
+  </div>
+  <div class="card dark">
+    <div class="frame"><img src="logo-mark-dark.svg" alt="Logo Mark Dark"></div>
+    <div class="meta"><span>mark · dark</span><a href="logo-mark-dark.svg" download>SVG</a></div>
+  </div>
+  <div class="card">
+    <div class="frame"><img src="logo-mark-mono.svg" alt="Logo Mark Mono"></div>
+    <div class="meta"><span>mark · mono</span><a href="logo-mark-mono.svg" download>SVG</a></div>
+  </div>
+</div>
+
+<h2>02 · Horizontal Lockup</h2>
+<div class="row">
+  <div class="horizontal-card">
+    <div class="frame"><img src="logo-horizontal.svg" alt="Logo Horizontal"></div>
+    <div class="meta"><span>logo-horizontal · 1600 × 480</span><a href="logo-horizontal.svg" download>SVG</a></div>
+  </div>
+</div>
+
+<h2>03 · Brand Colours</h2>
+<div class="swatches">
+  <div class="sw"><div class="col" style="background:#1a1a1a"></div><div class="lbl"><span>墨 INK</span><span>#1A1A1A</span></div></div>
+  <div class="sw"><div class="col" style="background:#f5f0e5"></div><div class="lbl" style="background:#f5f0e5;color:#1a1a1a;border-top:1.5px solid #1a1a1a"><span>宣纸 PAPER</span><span>#F5F0E5</span></div></div>
+  <div class="sw"><div class="col" style="background:linear-gradient(135deg,#f0d588,#c9a23a,#8b6a1e)"></div><div class="lbl"><span>朱金 GOLD</span><span>#C9A23A</span></div></div>
+  <div class="sw"><div class="col" style="background:#12100d"></div><div class="lbl"><span>夜墨 NIGHT</span><span>#12100D</span></div></div>
+  <div class="sw"><div class="col" style="background:#b23a2e"></div><div class="lbl"><span>印泥 SEAL</span><span>#B23A2E</span></div></div>
+</div>
+
+<h2>04 · Symbolism · 视觉语义</h2>
+<div class="usage">
+  <p><strong>一笔円相（ensō）</strong> — 禅宗「一笔绘」传统，从右上起笔顺时针行至左上，开口偏右 ~12°。不圆满、不对称，呼应 <em>Open</em> Cognition 中「开放」的深层含义：思想永远留有缺口，永远未完成。</p>
+  <p><strong>朱金顿悟点</strong> — 位于円相顶部开口处，小而内敛，是整幅画面唯一的彩色。象征跨学科对话中涌现的「顿悟」，亦是「心印」的视觉化。</p>
+  <p><strong>留白</strong> — 大面积的宣纸色空白不是「空」，而是「无限可能」。禅画以留白为最高表达，wabi-sabi 美学：少即是多。</p>
+  <p><strong>墨晕滤镜</strong> — 通过 feTurbulence + feDisplacementMap 模拟宣纸上墨迹的自然晕散，赋予线条有机的呼吸感。</p>
+  <p><strong>红色落款章「印」</strong> — 横版右下角的传统签名章，禅意书法作品的最后一笔，表达「以心印心」。</p>
+</div>
+
+<h2>05 · Usage · 使用规范</h2>
+<div class="usage">
+  <h3>推荐场景</h3>
+  <p>· <strong>logo-mark</strong>（彩色）— 浅色背景上的标准用法，README、网站、文档头图。<br>
+  · <strong>logo-mark-dark</strong> — 深色背景（如暗色信息图、视频片头）。<br>
+  · <strong>logo-mark-mono</strong> — 单色印刷、水印、简陋显示场景、防止视觉过载。<br>
+  · <strong>logo-horizontal</strong> — Banner、PPT 封面、出版物书脊与封底、社交媒体页头。</p>
+
+  <h3>最小尺寸</h3>
+  <p>· Mark：48 × 48 px（屏幕） / 12 mm（印刷）<br>
+  · Horizontal：宽度 ≥ 320 px / 80 mm</p>
+
+  <h3>安全留白</h3>
+  <p>四周保持 ≥ 1 个节点直径（即 mark 半径的 ~1/4）的空白，不与正文紧贴。</p>
+
+  <h3>禁止事项</h3>
+  <p>× 改变 ensō 的开口方向或闭合圆环 &nbsp;&nbsp; × 拉伸/扭曲比例 &nbsp;&nbsp; × 在 logo 内部加阴影或外发光 &nbsp;&nbsp; × 将朱金顿悟点改为其他颜色 &nbsp;&nbsp; × 移除横版的红色落款章</p>
+</div>
+
+<div class="footer">
+  © Open Cognition · CC BY-SA 4.0 · Version 0.5 · Generated 2026
+</div>
+
+</body>
+</html>

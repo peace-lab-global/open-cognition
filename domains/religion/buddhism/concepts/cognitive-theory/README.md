@@ -1,5 +1,7 @@
 # 佛教认知理论 · Buddhist Cognitive Theory
 
+> 🚀 **快速入口**：按读者身份（心理治疗师 / AI 研究者 / 禅修者 / 哲学学生 / 佛学修行者）分流 → [**QUICKSTART.md**](./QUICKSTART.md)
+
 本目录将佛教经论中的认知理论提取为现代可操作的概念和技能体系，承上启下——接续 wisdom-masters 的五层高僧心法，建立支持直接认知体系建设的理论框架。
 
 ## 理论来源
@@ -14,6 +16,22 @@
 | 《楞严经》 | 七处征心 | [七处征心](./qichu-zhengxin.md) | [七处征心·认知解构](./skills/qichu-zhengxin-deconstruction/SKILL.md) |
 | 《楞严经》 | 八还辨见 | [八还辨见](./baihuan-bianjian.md) | [八还辨见·能所消融](./skills/baihuan-bianjian-naming/SKILL.md) |
 | 《金刚经》 | 无相/无住/无所得 | [金刚经·无相](./diamond-sutra-non-attachment.md) | [金刚经无住心法](./skills/diamond-sutra-no-dwelling/SKILL.md) |
+| 陈那《集量论》/ 法称《释量论》 | 量论（现量/比量/圣教量） | [量论](./pramana.md) | [量论三量验证](./skills/pramana-validation/SKILL.md) |
+| 《解深密经》/ 世亲《三自性论》 | 三性（遍计/依他/圆成实） | [三性](./three-natures.md) | [三性诊断](./skills/three-natures-diagnosis/SKILL.md) |
+| 《成唯识论》种子品 | 种子与熏习 | [种子与熏习](./bija-vasana.md) | [种子模式分析](./skills/bija-pattern-analysis/SKILL.md) |
+| 龙树《中论》24 品 | 二谛（世俗/胜义） | [二谛](./two-truths.md) | [二谛重构](./skills/two-truths-reframing/SKILL.md) |
+| 阿毗达磨诸论 | 心所法/心路过程 | [阿毗达磨心识论](./abhidharma-mind.md) | [心所图谱](./skills/abhidharma-mind-mapping/SKILL.md) |
+| 《杂阿含经·因缘相应》 | 十二因缘的认知读法 | [十二因缘的认知读法](./dependent-origination-cognitive.md) | [缘起链追溯](./skills/dependent-origination-tracing/SKILL.md) |
+| 《无我相经》 | 五蕴的认知读法 | [五蕴的认知读法](./five-aggregates-cognitive.md) | [五蕴解构](./skills/five-aggregates-deconstruction/SKILL.md) |
+
+## 禅修认知专题（补充层）
+
+| 专题 | 来源传统 | 文件 | 认知焦点 |
+|------|----------|------|----------|
+| 止观的认知分工 | 泛佛教 | [samadhi-vipasyana.md](./samadhi-vipasyana.md) | FA + OM 双轨、九住心、十六观智 |
+| 四念处作为元认知 | 上座部 | [satipatthana-cognitive.md](./satipatthana-cognitive.md) | 身/受/心/法四维、受缘爱切断点 |
+| 公案与话头的认知机制 | 临济禅 | [koan-mechanics.md](./koan-mechanics.md) | 语义饱和、框架崩解、顿悟 |
+| 默照的认知结构 | 曹洞禅 | [silent-illumination.md](./silent-illumination.md) | 非选择性觉察、修证一等 |
 
 ## 五层认知框架（完整版）
 
@@ -109,25 +127,68 @@
 
 ```
 cognitive-theory/
-├── README.md                      # 本文件
-├── eight-consciousness.md         # 八识体系
-├── mind-world.md                   # 心物一元
-├── six-constituents.md             # 六根六尘六识
-├── consciousness-transformation.md # 转识成智
-├── madhyamaka.md                   # 中观·空
-├── qichu-zhengxin.md               # 七处征心
-├── baihuan-bianjian.md             # 八还辨见
-├── diamond-sutra-non-attachment.md # 金刚经·无相
+├── README.md                                # 本文件
+│
+├── # ── 唯识核心 ──
+├── eight-consciousness.md                   # 八识体系
+├── mind-world.md                            # 心物一元（四分说）
+├── six-constituents.md                      # 六根六尘六识
+├── consciousness-transformation.md          # 转识成智（四智、转依）
+├── three-natures.md                         # 三性（遍计/依他/圆成实）
+├── bija-vasana.md                           # 种子与熏习
+│
+├── # ── 中观核心 ──
+├── madhyamaka.md                            # 中观·空（含应成/自续）
+├── two-truths.md                            # 二谛（世俗/胜义）
+│
+├── # ── 基础佛教 ──
+├── abhidharma-mind.md                       # 阿毗达磨心识论（心所/心路）
+├── dependent-origination-cognitive.md       # 十二因缘的认知读法
+├── five-aggregates-cognitive.md             # 五蕴的认知读法
+├── pramana.md                               # 量论（因明、佛教认识论）
+│
+├── # ── 汉藏禅专题 ──
+├── qichu-zhengxin.md                        # 七处征心（楞严）
+├── baihuan-bianjian.md                      # 八还辨见（楞严）
+├── diamond-sutra-non-attachment.md          # 金刚经·无相
+├── samadhi-vipasyana.md                     # 止观的认知分工
+├── satipatthana-cognitive.md                # 四念处作为元认知
+├── koan-mechanics.md                        # 公案与话头的认知机制
+├── silent-illumination.md                   # 默照的认知结构
+│
 └── skills/
-    ├── eight-consciousness-diagnosis/SKILL.md      # 八识认知诊断
-    ├── mind-world-analysis/SKILL.md                # 心物辨析·认知重构
-    ├── six-constituents-diagnosis/SKILL.md          # 六根诊断·感知重校
-    ├── consciousness-transformation-diagnosis/SKILL.md  # 转识诊断·层级定位
-    ├── madhyamaka-four-fallacies/SKILL.md           # 中观四句破·边见检验
-    ├── qichu-zhengxin-deconstruction/SKILL.md      # 七处征心·认知解构
-    ├── baihuan-bianjian-naming/SKILL.md            # 八还辨见·能所消融
-    └── diamond-sutra-no-dwelling/SKILL.md         # 金刚经无住心法
+    ├── # ── 原 8 个 Skill ──
+    ├── eight-consciousness-diagnosis/
+    ├── mind-world-analysis/
+    ├── six-constituents-diagnosis/
+    ├── consciousness-transformation-diagnosis/
+    ├── madhyamaka-four-fallacies/
+    ├── qichu-zhengxin-deconstruction/
+    ├── baihuan-bianjian-naming/
+    ├── diamond-sutra-no-dwelling/
+    └── # ── 新增 7 个 Skill ──
+    ├── pramana-validation/                  # 量论三量验证
+    ├── three-natures-diagnosis/             # 三性诊断
+    ├── bija-pattern-analysis/               # 种子模式分析
+    ├── two-truths-reframing/                # 二谛重构
+    ├── abhidharma-mind-mapping/             # 心所图谱
+    ├── dependent-origination-tracing/       # 缘起链追溯
+    └── five-aggregates-deconstruction/      # 五蕴解构
 ```
+
+## 认知地图（按主题索引）
+
+| 主题 | 入门 | 深化 | 应用 Skill |
+|------|------|------|------------|
+| **心的结构** | [八识体系](./eight-consciousness.md) | [阿毗达磨心识论](./abhidharma-mind.md) | [八识认知诊断](./skills/eight-consciousness-diagnosis/SKILL.md) |
+| **心的内容** | [五蕴认知读法](./five-aggregates-cognitive.md) | [心所图谱](./skills/abhidharma-mind-mapping/SKILL.md) | [五蕴解构](./skills/five-aggregates-deconstruction/SKILL.md) |
+| **心的惯性** | [种子与熏习](./bija-vasana.md) | [三性](./three-natures.md) | [种子模式分析](./skills/bija-pattern-analysis/SKILL.md) |
+| **心的有效认知** | [量论](./pramana.md) | [二谛](./two-truths.md) | [量论三量验证](./skills/pramana-validation/SKILL.md) |
+| **空性与中道** | [中观·空](./madhyamaka.md) | [二谛](./two-truths.md) | [中观四句破](./skills/madhyamaka-four-fallacies/SKILL.md) |
+| **心的转化** | [转识成智](./consciousness-transformation.md) | [心物一元](./mind-world.md) | [转识诊断](./skills/consciousness-transformation-diagnosis/SKILL.md) |
+| **缘起链** | [十二因缘认知读法](./dependent-origination-cognitive.md) | [四念处](./satipatthana-cognitive.md) | [缘起链追溯](./skills/dependent-origination-tracing/SKILL.md) |
+| **禅修方法** | [止观分工](./samadhi-vipasyana.md) | [默照](./silent-illumination.md) / [公案](./koan-mechanics.md) | — |
+| **汉传专题** | [七处征心](./qichu-zhengxin.md) | [八还辨见](./baihuan-bianjian.md) / [金刚经无相](./diamond-sutra-non-attachment.md) | [七处征心解构](./skills/qichu-zhengxin-deconstruction/SKILL.md) |
 
 ## 与其他模块的关系
 

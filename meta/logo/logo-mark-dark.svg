@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Open Cognition · Dark (Zen)">
+  <title>Open Cognition · Dark (Zen)</title>
+
+  <defs>
+    <filter id="ink-bleed-d" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.014" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <radialGradient id="gold-ink-d" cx="40%" cy="35%" r="70%">
+      <stop offset="0%"  stop-color="#f7e2a6" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#d9b24a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#9c7a28" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 暗色宣纸底（深棕，模拟古老宣纸在烛光下的质感） -->
+  <rect width="1024" height="1024" rx="160" ry="160" fill="#12100d"/>
+  <defs>
+    <radialGradient id="paper-tint" cx="50%" cy="45%" r="70%">
+      <stop offset="0%"  stop-color="#2a2318" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#12100d" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="160" ry="160" fill="url(#paper-tint)"/>
+
+  <!-- 一笔円相（米白墨，对应宣纸底色） -->
+  <path
+    d="M 660,260
+       C 800,330  880,450  875,560
+       C 870,700  740,840  580,870
+       C 430,895  290,825  215,705
+       C 145,590  155,440  235,325
+       C 295,240  375,225  400,245"
+    fill="none"
+    stroke="#f0e8d2"
+    stroke-width="22"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    filter="url(#ink-bleed-d)"
+  />
+
+  <!-- 朱金色顿悟点（暗底更暖） -->
+  <circle cx="528" cy="178" r="26" fill="url(#gold-ink-d)"/>
+</svg>

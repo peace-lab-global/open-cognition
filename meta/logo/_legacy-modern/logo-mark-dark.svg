@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Open Cognition (Dark)">
+  <title>Open Cognition · Dark</title>
+
+  <!-- 暗色背景 -->
+  <rect width="1024" height="1024" rx="160" ry="160" fill="#0a0a0f"/>
+  <!-- 微光晕 -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#f4d03f" stop-opacity="0.08"/>
+      <stop offset="60%" stop-color="#f4d03f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="160" ry="160" fill="url(#glow)"/>
+
+  <!-- 放射连接线 -->
+  <g stroke="#ffffff" stroke-width="2.4" stroke-opacity="0.18" stroke-linecap="round" fill="none">
+    <line x1="512" y1="512" x2="512" y2="152"/>
+    <line x1="512" y1="512" x2="766.56" y2="257.44"/>
+    <line x1="512" y1="512" x2="872"    y2="512"/>
+    <line x1="512" y1="512" x2="766.56" y2="766.56"/>
+    <line x1="512" y1="512" x2="512"    y2="872"/>
+    <line x1="512" y1="512" x2="257.44" y2="766.56"/>
+    <line x1="512" y1="512" x2="152"    y2="512"/>
+    <line x1="512" y1="512" x2="257.44" y2="257.44"/>
+  </g>
+
+  <!-- 跨学科互链 -->
+  <g stroke="#ffffff" stroke-width="1.6" stroke-opacity="0.10" stroke-linecap="round" fill="none">
+    <path d="M 257.44 257.44 Q 512 200 766.56 257.44"/>
+    <path d="M 766.56 257.44 Q 920 512 766.56 766.56"/>
+    <path d="M 766.56 766.56 Q 512 920 257.44 766.56"/>
+    <path d="M 257.44 766.56 Q 104 512 257.44 257.44"/>
+  </g>
+
+  <!-- 中心开放 O（白色） -->
+  <path d="M 478.35 386.42 A 130 130 0 1 1 545.65 386.42"
+        stroke="#ffffff" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <path d="M 410.18 593.50 A 130 130 0 0 0 613.82 593.50"
+        stroke="#f4d03f" stroke-width="14" fill="none" stroke-linecap="round" stroke-opacity="0.95"/>
+
+  <!-- 顶部金点 -->
+  <circle cx="512" cy="152" r="36" fill="#f4d03f" stroke="#ffffff" stroke-width="4" stroke-opacity="0.4"/>
+  <circle cx="500" cy="142" r="9"  fill="#ffffff" fill-opacity="0.7"/>
+
+  <!-- 7 节点（暗背景上的领域色，配深色描边以区分） -->
+  <circle cx="257.44" cy="257.44" r="40" fill="#a78bfa" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="766.56" cy="257.44" r="40" fill="#22d3ee" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="152"    cy="512"    r="40" fill="#fbbf24" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="872"    cy="512"    r="40" fill="#f472b6" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="257.44" cy="766.56" r="40" fill="#60a5fa" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="766.56" cy="766.56" r="40" fill="#f87171" stroke="#0a0a0f" stroke-width="5"/>
+  <circle cx="512"    cy="872"    r="40" fill="#34d399" stroke="#0a0a0f" stroke-width="5"/>
+
+  <!-- 节点白色高光 -->
+  <g fill="#ffffff" fill-opacity="0.55">
+    <circle cx="247" cy="247" r="9"/>
+    <circle cx="756" cy="247" r="9"/>
+    <circle cx="142" cy="502" r="9"/>
+    <circle cx="862" cy="502" r="9"/>
+    <circle cx="247" cy="756" r="9"/>
+    <circle cx="756" cy="756" r="9"/>
+    <circle cx="502" cy="862" r="9"/>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Open Cognition · 开放认知 (Zen)">
+  <title>Open Cognition · 开放认知 (Zen)</title>
+  <desc>一笔绘円相（开口偏右 12°，象征 "Open"）+ 顶部朱金顿悟点（象征 "Cognition"）。留白即空，空即无限可能。</desc>
+
+  <defs>
+    <!-- 墨晕滤镜：用 feTurbulence 给线条边缘注入有机抖动，模拟宣纸上墨迹的呼吸 -->
+    <filter id="ink-bleed" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.014" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3.2" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <!-- 朱金的微妙光泽 -->
+    <radialGradient id="gold-ink" cx="40%" cy="35%" r="70%">
+      <stop offset="0%"  stop-color="#f0d588" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#c9a23a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8b6a1e" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ──────────────────────────────────────────────────
+       一笔円相（ensō）
+       · 开口偏右 12°（从 ~15° 到 ~27°），更有禅画的不对称美
+       · stroke 22，纤细毛笔质感
+       · 单条 cubic Bezier 路径，顺时针从右上到左上
+       ────────────────────────────────────────────────── -->
+  <path
+    d="M 660,260
+       C 800,330  880,450  875,560
+       C 870,700  740,840  580,870
+       C 430,895  290,825  215,705
+       C 145,590  155,440  235,325
+       C 295,240  375,225  400,245"
+    fill="none"
+    stroke="#1a1a1a"
+    stroke-width="22"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    filter="url(#ink-bleed)"
+  />
+
+  <!-- ──────────────────────────────────────────────────
+       朱金色"顿悟点"
+       · 位于円相顶部开口中央偏右（12° 方向）
+       · 半径 26，小而内敛，是整幅画面唯一的彩色
+       · 呼应"心印"与"跨学科洞见"
+       ────────────────────────────────────────────────── -->
+  <circle cx="528" cy="178" r="26" fill="url(#gold-ink)"/>
+</svg>
