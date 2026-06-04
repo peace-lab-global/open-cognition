@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>赫尔曼·黑塞 · Hermann Hesse · 思想脉络图</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700;800&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#030508;width:1920px;height:1080px;font-family:'Noto Serif SC',Georgia,serif;color:#e8f4f8;overflow:hidden}
+.page{width:1920px;height:1080px;padding:28px 48px 20px;display:grid;grid-template-rows:auto auto 1fr auto;gap:0;background:
+  radial-gradient(ellipse at 15% 15%,rgba(16,185,129,.08) 0%,transparent 50%),
+  radial-gradient(ellipse at 85% 85%,rgba(245,158,11,.06) 0%,transparent 50%),
+  radial-gradient(ellipse at 50% 50%,rgba(99,102,241,.04) 0%,transparent 60%),
+  linear-gradient(180deg,#030508 0%,#0a0f14 100%);position:relative}
+.page::before{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2310b981' fill-opacity='0.025'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");pointer-events:none;opacity:.6}
+
+/* Header */
+.header{display:flex;justify-content:space-between;align-items:flex-end;padding-bottom:10px;border-bottom:1.5px solid rgba(16,185,129,.2);position:relative;z-index:1}
+.header-left{display:flex;align-items:flex-end;gap:24px}
+.portrait{width:72px;height:72px;border-radius:50%;border:2px solid rgba(16,185,129,.3);background:rgba(16,185,129,.08);display:flex;align-items:center;justify-content:center;font-size:32px;color:#34d399;font-family:'Playfair Display',serif;font-weight:700;flex-shrink:0}
+.header-text{}
+.domain-label{font-size:10px;letter-spacing:5px;text-transform:uppercase;font-weight:700;opacity:.4;color:#34d399;font-family:'Inter',sans-serif}
+.domain-title{font-size:42px;font-weight:900;letter-spacing:-1.5px;line-height:1;margin-top:2px;background:linear-gradient(135deg,#fff 0%,#a7f3d0 40%,#34d399 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.domain-sub{font-size:12px;opacity:.45;margin-top:4px;color:#7da0b0;font-family:'Inter',sans-serif}
+.header-right{text-align:right}
+.prize-badge{display:inline-block;padding:6px 14px;border:1px solid rgba(251,191,36,.25);border-radius:20px;background:rgba(251,191,36,.08);margin-bottom:6px}
+.prize-badge span{font-size:11px;color:#fbbf24;font-family:'Inter',sans-serif;font-weight:600;letter-spacing:1px}
+.header-right .era{font-size:11px;letter-spacing:3px;text-transform:uppercase;opacity:.35;font-family:'Inter',sans-serif;color:#5a7a8a}
+
+/* Stats */
+.statsbar{display:flex;gap:36px;padding:10px 0 8px;border-bottom:1px solid rgba(16,185,129,.06);position:relative;z-index:1}
+.statsbar .st{font-size:11px;opacity:.5;font-family:'Inter',sans-serif;color:#7da0b0}
+.statsbar .st b{opacity:1;font-weight:700;color:#e8f4f8;font-size:13px;margin-right:3px}
+.statsbar .st .dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:#34d399;margin-right:6px;opacity:.6}
+
+/* Main */
+.main{display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:16px;padding:12px 0 6px;position:relative;z-index:1;overflow:hidden}
+
+.panel-title{font-size:9px;letter-spacing:4px;text-transform:uppercase;opacity:.3;font-family:'Inter',sans-serif;font-weight:700;color:#5a7a8a;margin-bottom:6px}
+
+/* Left Column: Timeline */
+.left-col{display:flex;flex-direction:column;gap:10px}
+.timeline-container{border:1px solid rgba(16,185,129,.1);padding:14px 16px 10px;border-radius:8px;background:rgba(16,185,129,.02);flex:1;display:flex;flex-direction:column}
+.timeline-scroll{flex:1;overflow:hidden}
+.timeline{position:relative;padding-left:20px}
+.timeline::before{content:'';position:absolute;left:6px;top:4px;bottom:4px;width:1.5px;background:linear-gradient(180deg,rgba(52,211,153,.4),rgba(52,211,153,.1));border-radius:1px}
+.tl-item{position:relative;margin-bottom:14px}
+.tl-item:last-child{margin-bottom:0}
+.tl-dot{position:absolute;left:-17px;top:5px;width:9px;height:9px;border-radius:50%;background:rgba(52,211,153,.2);border:2px solid rgba(52,211,153,.5)}
+.tl-dot.major{background:rgba(251,191,36,.25);border-color:rgba(251,191,36,.6);width:11px;height:11px;left:-18px;top:4px}
+.tl-year{font-size:11px;font-weight:700;color:#34d399;font-family:'Inter',sans-serif;letter-spacing:.5px}
+.tl-year .age{font-size:9px;opacity:.4;font-weight:400;color:#7da0b0;margin-left:4px}
+.tl-event{font-size:12px;line-height:1.5;color:#a0c0d0;margin-top:2px}
+.tl-event b{color:#e8f4f8;font-weight:600}
+.tl-event .work-name{color:#fbbf24;font-weight:600}
+
+/* Center Column: Works + Themes */
+.center-col{display:flex;flex-direction:column;gap:10px}
+.works-panel{border:1px solid rgba(251,191,36,.1);padding:12px 14px;border-radius:8px;background:rgba(251,191,36,.015);flex:1;display:flex;flex-direction:column}
+.works-grid{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:4px;flex:1}
+.work-card{padding:8px 10px;border:1px solid rgba(251,191,36,.1);border-radius:6px;background:rgba(251,191,36,.02);display:flex;flex-direction:column;gap:2px;transition:all .2s}
+.work-card:hover{border-color:rgba(251,191,36,.2);background:rgba(251,191,36,.04);transform:translateY(-1px)}
+.work-title{font-size:12px;font-weight:700;color:#fbbf24}
+.work-title .en{font-size:9px;opacity:.35;font-weight:400;color:#7da0b0;font-family:'Inter',sans-serif;margin-left:4px}
+.work-year{font-size:9px;opacity:.35;font-family:'Inter',sans-serif;color:#7da0b0}
+.work-core{font-size:10px;line-height:1.45;opacity:.5;color:#a0c0d0;margin-top:1px}
+
+.phases-panel{border:1px solid rgba(16,185,129,.08);padding:12px 14px;border-radius:8px;background:rgba(16,185,129,.015)}
+.phases{display:flex;gap:6px;margin-top:4px}
+.phase{flex:1;padding:8px;border:1px solid rgba(16,185,129,.08);border-radius:6px;background:rgba(16,185,129,.02);text-align:center}
+.phase-name{font-size:11px;font-weight:700;color:#34d399;margin-bottom:3px}
+.phase-range{font-size:9px;opacity:.35;font-family:'Inter',sans-serif;color:#7da0b0;margin-bottom:4px}
+.phase-desc{font-size:9.5px;line-height:1.4;opacity:.4;color:#a0c0d0}
+
+/* Right Column: Influences + Connections */
+.right-col{display:flex;flex-direction:column;gap:10px}
+.influence-panel{border:1px solid rgba(99,102,241,.1);padding:12px 14px;border-radius:8px;background:rgba(99,102,241,.015);flex:1}
+.influence-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:6px}
+.influence-card{padding:8px;border:1px solid rgba(99,102,241,.08);border-radius:6px;background:rgba(99,102,241,.02)}
+.influence-name{font-size:11px;font-weight:700;color:#a5b4fc;margin-bottom:3px}
+.influence-name .area{font-size:8px;opacity:.35;font-weight:500;color:#7da0b0;font-family:'Inter',sans-serif;text-transform:uppercase;letter-spacing:1px;margin-left:4px}
+.influence-desc{font-size:9.5px;line-height:1.4;opacity:.4;color:#a0c0d0}
+
+.connections-panel{border:1px solid rgba(255,255,255,.06);padding:12px 14px;border-radius:8px;background:rgba(255,255,255,.015)}
+.conn-item{display:flex;align-items:flex-start;gap:8px;padding:5px 0;border-bottom:1px solid rgba(255,255,255,.03)}
+.conn-item:last-child{border-bottom:none}
+.conn-arrow{font-size:14px;color:#34d399;opacity:.5;flex-shrink:0;margin-top:-1px}
+.conn-text{font-size:11px;line-height:1.5;opacity:.5;color:#a0c0d0}
+.conn-text b{opacity:.9;color:#e8f4f8}
+.conn-text .target{color:#a5b4fc;font-weight:500}
+
+.core-ideas-panel{border:1px solid rgba(16,185,129,.08);padding:12px 14px;border-radius:8px;background:rgba(16,185,129,.015)}
+.idea-list{display:flex;flex-direction:column;gap:5px;margin-top:4px}
+.idea-item{display:flex;align-items:baseline;gap:8px;padding:3px 0}
+.idea-num{font-size:14px;font-weight:900;font-family:'Playfair Display',serif;background:linear-gradient(180deg,#34d399,#059669);-webkit-background-clip:text;-webkit-text-fill-color:transparent;min-width:22px;text-align:center}
+.idea-text{font-size:11px;color:#a0c0d0;opacity:.6}
+.idea-text b{color:#e8f4f8;opacity:.9}
+
+/* Footer */
+.footer{display:flex;justify-content:space-between;align-items:center;padding:6px 0 0;border-top:1px solid rgba(16,185,129,.08);position:relative;z-index:1}
+.footer-left{font-size:10px;opacity:.12;letter-spacing:1px;font-family:'Inter',sans-serif;color:#5a7a8a}
+.footer-right{display:flex;gap:14px}
+.footer-right span{font-size:9px;opacity:.15;letter-spacing:2px;text-transform:uppercase;font-family:'Inter',sans-serif;font-weight:600;color:#5a7a8a}
+
+/* Quote */
+.quote-panel{border:1px solid rgba(255,255,255,.04);padding:8px 14px;border-radius:6px;background:rgba(255,255,255,.01);margin-top:auto}
+.quote-text{font-size:11px;line-height:1.5;opacity:.35;color:#a0c0d0;font-style:italic;text-align:center}
+.quote-text span{color:#fbbf24;opacity:.5}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="header">
+    <div class="header-left">
+      <div class="portrait">H</div>
+      <div class="header-text">
+        <div class="domain-label">Wisdom Master · 智慧大师 · v1.0</div>
+        <div class="domain-title">赫尔曼·黑塞</div>
+        <div class="domain-sub">Hermann Hesse · 德国作家 · 诗人 · 画家 · 精神求索者</div>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="prize-badge"><span>🏆 1946年诺贝尔文学奖</span></div>
+      <div class="era">1877 — 1962</div>
+    </div>
+  </div>
+
+  <div class="statsbar">
+    <span class="st"><span class="dot"></span><b>15+</b> 部长篇小说</span>
+    <span class="st"><span class="dot"></span><b>40+</b> 年创作生涯</span>
+    <span class="st"><span class="dot"></span><b>3</b> 种核心精神传统（浪漫/东方/心理）</span>
+    <span class="st"><span class="dot"></span><b>4</b> 个创作阶段</span>
+    <span class="st"><span class="dot"></span><b>2</b> 次世界大战亲历者</span>
+    <span class="st"><span class="dot"></span><b>1</b> 座诺贝尔奖</span>
+  </div>
+
+  <div class="main">
+    <div class="left-col">
+      <div class="panel-title">Life Timeline · 生平脉络</div>
+      <div class="timeline-container">
+        <div class="timeline">
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1877 <span class="age">生于德国施瓦本地区</span></div>
+            <div class="tl-event">虔诚传教士家庭出身，父亲是印度学家，<b>自幼浸润东方宗教氛围</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1891–1895 <span class="age">14–18岁</span></div>
+            <div class="tl-event">试图成为书商，首次自杀企图，在精神病院短暂治疗 — <b>精神危机的预演</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1899–1904 <span class="age">早期创作</span></div>
+            <div class="tl-event">出版诗集与散文，<span class="work-name">《彼得·卡门青》</span>(1904) 成名 — <b>浪漫主义的乡愁</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1911 <span class="age">34岁</span></div>
+            <div class="tl-event">游历印度，实地考察东方宗教 — 从<b>书本中的东方</b>走向<b>经验中的东方</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1914–1919 <span class="age">一战 / 精神崩溃</span></div>
+            <div class="tl-event">反战立场导致孤立，父亲去世、儿子重病、婚姻破裂 — <b>荣格式分析治疗</b>（与荣格及学生合作）</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot major"></div>
+            <div class="tl-year">1919–1927 <span class="age">42–50岁 · 黄金期</span></div>
+            <div class="tl-event">移居瑞士蒙塔尼奥拉。相继发表 <span class="work-name">《德米安》</span>、<span class="work-name">《悉达多》</span>、<span class="work-name">《荒原狼》</span> — <b>奠定世界声誉</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot major"></div>
+            <div class="tl-year">1943 <span class="age">66岁</span></div>
+            <div class="tl-event">发表 <span class="work-name">《玻璃球游戏》</span> — 一生的思想结晶，构建<b>精神乌托邦</b></div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot major"></div>
+            <div class="tl-year">1946 <span class="age">69岁</span></div>
+            <div class="tl-event"><b>诺贝尔文学奖</b> — "其灵思盎然的艺术力量，充满热忱的洞察力"</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-dot"></div>
+            <div class="tl-year">1962 <span class="age">85岁</span></div>
+            <div class="tl-event">逝于瑞士蒙塔尼奥拉 — 留下<b>跨越东西方、连接诗与哲</b>的精神遗产</div>
+          </div>
+        </div>
+      </div>
+      <div class="quote-panel">
+        <div class="quote-text">"对每个人而言，真正的职责只有一个：找到自我。"<span> — 《德米安》</span></div>
+      </div>
+    </div>
+
+    <div class="center-col">
+      <div class="panel-title">Masterworks · 核心作品矩阵</div>
+      <div class="works-panel">
+        <div class="works-grid">
+          <div class="work-card">
+            <div class="work-title">在轮下 <span class="en">Unterm Rad</span></div>
+            <div class="work-year">1906</div>
+            <div class="work-core">教育体制对天才少年的碾压 — 制度化暴力的早期控诉</div>
+          </div>
+          <div class="work-card">
+            <div class="work-title">德米安 <span class="en">Demian</span></div>
+            <div class="work-year">1919</div>
+            <div class="work-core">光明与黑暗两世界的撕裂与整合 — 自我觉醒的启蒙叙事</div>
+          </div>
+          <div class="work-card">
+            <div class="work-title">悉达多 <span class="en">Siddhartha</span></div>
+            <div class="work-year">1922</div>
+            <div class="work-core">婆罗门→沙门→商人→船夫 — 知识不可传授，智慧只能亲历</div>
+          </div>
+          <div class="work-card">
+            <div class="work-title">荒原狼 <span class="en">Der Steppenwolf</span></div>
+            <div class="work-year">1927</div>
+            <div class="work-core">市民性与狼性的分裂 — 精神分裂的文学镜像，现代性危机的寓言</div>
+          </div>
+          <div class="work-card">
+            <div class="work-title">纳尔齐斯与歌尔德蒙 <span class="en">Narziß & Goldmund</span></div>
+            <div class="work-year">1930</div>
+            <div class="work-core">思想与感性、父性与母性、苦行与创造的永恒对话</div>
+          </div>
+          <div class="work-card">
+            <div class="work-title">玻璃球游戏 <span class="en">Das Glasperlenspiel</span></div>
+            <div class="work-year">1943</div>
+            <div class="work-core">虚构的卡斯塔利亚精神王国 — 游戏作为最高知识综合形式的乌托邦</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel-title">Creative Phases · 四阶段创作演变</div>
+      <div class="phases-panel">
+        <div class="phases">
+          <div class="phase">
+            <div class="phase-name">浪漫乡愁</div>
+            <div class="phase-range">1899–1910</div>
+            <div class="phase-desc">自然崇拜与感伤抒情，《彼得·卡门青》《在轮下》</div>
+          </div>
+          <div class="phase">
+            <div class="phase-name">精神危机</div>
+            <div class="phase-range">1911–1919</div>
+            <div class="phase-desc">印度之行与深度心理治疗，《德米安》</div>
+          </div>
+          <div class="phase">
+            <div class="phase-name">东方融合</div>
+            <div class="phase-range">1920–1930</div>
+            <div class="phase-desc">悉达多、荒原狼，荣格式自性与整合</div>
+          </div>
+          <div class="phase">
+            <div class="phase-name">综合超越</div>
+            <div class="phase-range">1931–1962</div>
+            <div class="phase-desc">《玻璃球游戏》，游戏、艺术与教育的终极综合</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="right-col">
+      <div class="panel-title">Intellectual DNA · 思想源流</div>
+      <div class="influence-panel">
+        <div class="influence-grid">
+          <div class="influence-card">
+            <div class="influence-name">歌德 <span class="area">文学</span></div>
+            <div class="influence-desc">"发展"理想与古典和谐，德国文学的人文主义传统</div>
+          </div>
+          <div class="influence-card">
+            <div class="influence-name">诺瓦利斯 <span class="area">浪漫派</span></div>
+            <div class="influence-desc">内在深度、蓝花象征、灵性乡愁与自我探索</div>
+          </div>
+          <div class="influence-card">
+            <div class="influence-name">尼采 <span class="area">哲学</span></div>
+            <div class="influence-desc">超人哲学、善恶彼岸、酒神精神的现代转化</div>
+          </div>
+          <div class="influence-card">
+            <div class="influence-name">荣格 <span class="area">心理学</span></div>
+            <div class="influence-desc">自性化过程、阴影整合、原型与集体无意识</div>
+          </div>
+          <div class="influence-card">
+            <div class="influence-name">印度教·佛教 <span class="area">东方</span></div>
+            <div class="influence-desc">奥义书、轮回、梵我合一、止观与开悟</div>
+          </div>
+          <div class="influence-card">
+            <div class="influence-name">道家·禅宗 <span class="area">东方</span></div>
+            <div class="influence-desc">顺应自然、无为、当下体验、不可言说之智慧</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel-title">Core Ideas · 五大核心思想</div>
+      <div class="core-ideas-panel">
+        <div class="idea-list">
+          <div class="idea-item"><span class="idea-num">01</span><span class="idea-text"><b>自我之路</b>：每个人必须找到自己的道路，真理不可传授，只能亲历</span></div>
+          <div class="idea-item"><span class="idea-num">02</span><span class="idea-text"><b>对立整合</b>：光明与黑暗、精神与感官、思想与艺术的辩证统一</span></div>
+          <div class="idea-item"><span class="idea-num">03</span><span class="idea-text"><b>知识vs智慧</b>：知识可以学习，智慧来自体验；时间之外的当下</span></div>
+          <div class="idea-item"><span class="idea-num">04</span><span class="idea-text"><b>市民性批判</b>：对中产阶级安全幻觉的深刻解构，艺术家作为局外人</span></div>
+          <div class="idea-item"><span class="idea-num">05</span><span class="idea-text"><b>游戏精神</b>：《玻璃球游戏》中游戏作为知识、艺术与宗教的综合</span></div>
+        </div>
+      </div>
+
+      <div class="panel-title">Cross-Domain · 跨学科连接</div>
+      <div class="connections-panel">
+        <div class="conn-item">
+          <span class="conn-arrow">→</span>
+          <span class="conn-text"><b>自性化</b> → <span class="target">心理学</span>：荣格分析心理学的文学化身</span>
+        </div>
+        <div class="conn-item">
+          <span class="conn-arrow">→</span>
+          <span class="conn-text"><b>悉达多</b> → <span class="target">宗教学</span>：佛教修行路径的小说化呈现</span>
+        </div>
+        <div class="conn-item">
+          <span class="conn-arrow">→</span>
+          <span class="conn-text"><b>荒原狼</b> → <span class="target">精神病理学</span>：分裂型人格的文学诊断</span>
+        </div>
+        <div class="conn-item">
+          <span class="conn-arrow">→</span>
+          <span class="conn-text"><b>玻璃球游戏</b> → <span class="target">教育学/系统论</span>：知识综合与通识教育的乌托邦</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-left">OPEN COGNITION · WISDOM MASTER · HERMANN HESSE</div>
+    <div class="footer-right">
+      <span>6 MASTERWORKS</span><span>4 PHASES</span><span>6 INFLUENCES</span><span>5 CORE IDEAS</span><span>CC BY-SA 4.0</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

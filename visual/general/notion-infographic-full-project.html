@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1920">
+<title>Open Cognition · 开放认知数据库</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap');
+*{margin:0;padding:0;box-sizing:border-box;}
+body{background:#e5e5e5;font-family:'Inter','Noto Serif SC',sans-serif;}
+:root{--yw:#f4d03f;--bg:#faf9f6;--bk:#1a1a1a;--ph:#8b5cf6;--rl:#f59e0b;--so:#3b82f6;--ps:#10b981;--et:#ef4444;--ae:#ec4899;--cs:#06b6d4;--ws:#14b8a6;--lt:#8b6914;--ar:#d946ef;}
+.S{width:1920px;height:1080px;background:var(--bg);position:relative;overflow:hidden;padding:28px 48px 24px;margin-bottom:2px;}
+.SH{font-family:'Noto Serif SC',serif;font-size:22px;font-weight:900;border-bottom:2px solid var(--bk);padding-bottom:5px;margin-bottom:10px;display:flex;align-items:baseline;gap:8px;}
+.SH .acc{color:var(--yw);font-family:'Playfair Display',serif;font-size:26px;}
+.SN{position:absolute;bottom:12px;right:24px;font:500 10px/1 'Inter',sans-serif;color:#aaa;}
+.SN::before{content:'✦ ';color:var(--yw);}
+.T9{font-size:9px}.T10{font-size:10px}.T11{font-size:11px}.T12{font-size:12px}
+.B{font-weight:700}.M{font-weight:500}.L{font-weight:300}
+.G2{display:grid;grid-template-columns:repeat(2,1fr);gap:5px;}
+.G3{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;}
+.G4{display:grid;grid-template-columns:repeat(4,1fr);gap:5px;}
+.G5{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;}
+.CD{background:#fff;border:1.5px solid #e0ddd5;border-radius:5px;padding:4px 6px;}
+.CD2{background:#fff;border:1.5px solid #e0ddd5;border-radius:4px;padding:3px 5px;}
+.BL{border-left:3px solid var(--yw);padding-left:6px;}
+.BT{border-top:3px solid var(--yw);padding-top:4px;}
+.TAG{display:inline-block;background:#f0ede6;border-radius:3px;padding:1px 4px;font-size:8px;margin:1px;white-space:nowrap;}
+.TAGph{background:#ede9fe;color:var(--ph)}.TAGrl{background:#fef3c7;color:var(--rl)}.TAGso{background:#dbeafe;color:var(--so)}.TAGps{background:#d1fae5;color:var(--ps)}
+.TAGet{background:#fee2e2;color:var(--et)}.TAGae{background:#fce7f3;color:var(--ae)}.TAGcs{background:#cffafe;color:var(--cs)}.TAGws{background:#ccfbf1;color:var(--ws)}
+.TAGlt{background:#fef9c3;color:var(--lt)}.TAGar{background:#f5d0fe;color:var(--ar)}.TAGyw{background:#fef9c3;color:#92400e}
+.D{color:#aaa;font-size:8px;}.DOT{color:var(--yw);font-size:7px;}
+.NUM{font-family:'Playfair Display',serif;font-weight:900;}
+.HR{border:none;border-top:1px solid #e0ddd5;margin:4px 0;}
+.DECO{color:var(--yw);font-size:10px;letter-spacing:2px;}
+.badge{display:inline-block;background:var(--bk);color:var(--bg);padding:1px 8px;border-radius:10px;font-size:8px;font-weight:600;}
+.sbox{border:1.5px solid #e0ddd5;border-radius:4px;padding:3px 5px;margin-bottom:3px;background:#fff;}
+.sbox .sn{font-weight:700;font-size:9px;color:var(--bk);}.sbox .sl{font-size:8px;color:#888;}.sbox .sm{font-size:8px;color:#555;}
+.CTX{background:#fefce8;border:1px solid #fde68a;border-radius:4px;padding:3px 6px;font-size:8px;color:#92400e;}
+.SEP{border-bottom:1px solid #e0ddd5;padding-bottom:6px;margin-bottom:6px;}
+.LH{line-height:1.35;}
+</style>
+</head>
+<body>
+
+<!-- SLIDE 01/06: COVER + PHILOSOPHY -->
+<div class="S">
+<div style="display:flex;justify-content:space-between;align-items:flex-start;">
+<div>
+<div class="DECO">✦ ✧ ✦ ✧ ✦</div>
+<div style="font-family:'Noto Serif SC',serif;font-size:36px;font-weight:900;line-height:1.1;margin:4px 0;">Open Cognition <span style="color:var(--yw);">·</span> 开放认知数据库</div>
+<div class="T11" style="color:#666;margin-bottom:10px;">面向人类深度阅读与 AI Agent 调用的跨学科认知资源库</div>
+<div style="font-family:'Playfair Display',serif;font-size:17px;font-weight:700;background:#fefce8;display:inline-block;padding:5px 14px;border:2px solid var(--yw);border-radius:5px;">
+9领域 × <span class="NUM">168</span>思想家 + <span class="NUM">80</span>概念 + <span class="NUM">120</span>Skills + <span class="NUM">13</span>佛经 = <span class="NUM" style="color:var(--yw);font-size:22px;">380+</span>
+</div>
+</div>
+<div style="text-align:right;">
+<div class="DECO" style="margin-bottom:4px;">✧ ✦ ✧</div>
+<div style="font:900 52px/1 'Playfair Display',serif;color:var(--yw);text-shadow:2px 2px 0 #e8c430;">380<span style="font-size:28px;">+</span></div>
+<div class="T9" style="color:#aaa;">跨学科认知条目总数</div>
+</div>
+</div>
+<div class="G5" style="gap:4px;margin:8px 0;">
+<div class="CD BT" style="border-top-color:var(--yw);padding:3px 6px;"><div class="NUM" style="font-size:16px;">9</div><div class="B T9">知识领域</div><div class="T9 D">Philosophy·Religion·Sociology·Psychology·Ethics·Aesthetics·CSE·Literature·Arts</div></div>
+<div class="CD BT" style="border-top-color:var(--ph);padding:3px 6px;"><div class="NUM" style="font-size:16px;">168</div><div class="B T9">思想家/大师</div><div class="T9 D">28+18+28+15+23+26+5+3+12+2+8</div></div>
+<div class="CD BT" style="border-top-color:var(--so);padding:3px 6px;"><div class="NUM" style="font-size:16px;">80</div><div class="B T9">核心概念</div><div class="T9 D">跨学科概念网络</div></div>
+<div class="CD BT" style="border-top-color:var(--ps);padding:3px 6px;"><div class="NUM" style="font-size:16px;">120</div><div class="B T9">操作框架Skills</div><div class="T9 D">可执行的思维工具</div></div>
+<div class="CD BT" style="border-top-color:var(--rl);padding:3px 6px;"><div class="NUM" style="font-size:16px;">13</div><div class="B T9">佛经图谱</div><div class="T9 D">十三经认知体系</div></div>
+</div>
+<div class="G5" style="gap:3px;margin-bottom:8px;">
+<div class="sbox BL" style="border-left-color:var(--ph);"><span class="sn">哲学 Philosophy</span><br><span class="sm">28思想家·8概念·19Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--rl);"><span class="sn">宗教 Religion</span><br><span class="sm">9传统·4+8概念·22Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--so);"><span class="sn">社会学 Sociology</span><br><span class="sm">18思想家·7概念·15Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--ps);"><span class="sn">心理学 Psychology</span><br><span class="sm">28思想家·8概念·16Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--et);"><span class="sn">伦理 Ethics</span><br><span class="sm">15思想家·11概念·10Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--ae);"><span class="sn">美学 Aesthetics</span><br><span class="sm">23思想家·7概念·3Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--lt);"><span class="sn">文学 Literature</span><br><span class="sm">5思想家·5Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--ar);"><span class="sn">艺术 Arts</span><br><span class="sm">3思想家·3Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--cs);"><span class="sn">认知系统工程 CSE</span><br><span class="sm">26思想家·27概念·16Skills</span></div>
+<div class="sbox BL" style="border-left-color:var(--ws);"><span class="sn">智慧导师 Wisdom</span><br><span class="sm">12大师·11Skills</span></div>
+</div>
+<div class="SEP"></div>
+<div class="B T11" style="margin-bottom:4px;color:var(--ph);">哲学 Philosophy — 15流派 · 28思想家 · 8概念 · 19 Skills</div>
+<div style="display:grid;grid-template-columns:34% 20% 46%;gap:8px;">
+<div>
+<div class="B T10" style="margin-bottom:3px;">15流派 · 28思想家</div>
+<div class="T9 LH" style="color:#444;">
+<div><span class="B">古希腊(3)</span> 苏格拉底·柏拉图·亚里士多德</div>
+<div><span class="B">东方(3)</span> 老子·孔子·庄子</div>
+<div><span class="B">理性论(3)</span> 笛卡尔·斯宾诺莎·莱布尼茨</div>
+<div><span class="B">经验主义(1)</span> 休谟</div>
+<div><span class="B">德国唯心论(2)</span> 康德·黑格尔</div>
+<div><span class="B">存在主义(5)</span> 克尔凯郭尔·尼采·海德格尔·萨特·波伏瓦</div>
+<div><span class="B">现象学(2)</span> 胡塞尔·梅洛-庞蒂</div>
+<div><span class="B">分析哲学(2)</span> 罗素·维特根斯坦</div>
+<div><span class="B">实用主义(1)</span> 杜威</div>
+<div><span class="B">悲观主义(1)</span> 叔本华</div>
+<div><span class="B">诠释学(1)</span> 伽达默尔</div>
+<div><span class="B">后结构主义(1)</span> 德里达</div>
+<div><span class="B">启蒙运动(1)</span> 卢梭</div>
+<div><span class="B">政治哲学(1)</span> 阿伦特</div>
+<div><span class="B">中世纪经院(1)</span> 阿奎那</div>
+</div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">8 概念</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGph">辩证法</span><span class="TAG TAGph">认识论</span><span class="TAG TAGph">存在</span><span class="TAG TAGph">自由意志</span><span class="TAG TAGph">美学</span><span class="TAG TAGph">语言</span><span class="TAG TAGph">时间</span><span class="TAG TAGph">虚无</span>
+</div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">19 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGph">苏格拉底式提问</span><span class="TAG TAGph">辩证分析</span><span class="TAG TAGph">现象学还原</span><span class="TAG TAGph">语言游戏分析</span><span class="TAG TAGph">反向思维</span><span class="TAG TAGph">齐物论分析</span><span class="TAG TAGph">无用之用悖论</span><span class="TAG TAGph">绝对命令检验</span><span class="TAG TAGph">洞穴寓言分析</span><span class="TAG TAGph">中庸之道分析</span><span class="TAG TAGph">权力意志分析</span><span class="TAG TAGph">此在分析</span><span class="TAG TAGph">存在主义分析</span><span class="TAG TAGph">东西方伦理对比</span><span class="TAG TAGph">方法论怀疑</span><span class="TAG TAGph">因果问题分析</span><span class="TAG TAGph">社会契约分析</span><span class="TAG TAGph">实用主义分析</span><span class="TAG TAGph">仁礼分析</span>
+</div>
+</div>
+</div>
+<div style="margin-top:6px;"><span class="badge">v0.5</span> <span style="font-size:8px;color:#888;margin:0 4px;">·</span> <span class="badge" style="background:var(--yw);color:var(--bk);">CC BY-SA 4.0</span> <span style="font-size:8px;color:#888;margin:0 4px;">·</span> <span style="font-size:8px;color:#888;">peace-lab-global ✦ open-cognition</span></div>
+<div class="SN">01 / 06</div>
+</div>
+
+<!-- SLIDE 02/06: RELIGION + BUDDHIST COGNITIVE THEORY -->
+<div class="S">
+<div class="SH"><span class="acc">✦</span> 宗教 Religion + 佛教认知理论 <span class="T11 M" style="color:#888;">9传统 · 13佛经 · 4+8概念 · 22Skills</span></div>
+<div style="display:grid;grid-template-columns:38% 24% 38%;gap:8px;">
+<div>
+<div class="B T10" style="margin-bottom:3px;">9 宗教传统</div>
+<div class="sbox BL" style="border-left-color:var(--rl);background:#fffbeb;">
+<div class="sn">佛教 Buddhism <span class="TAG TAGrl">最丰富</span></div>
+<div class="sm">四圣谛与八正道 · 大乘空性 · 禅宗</div>
+<div class="sm" style="color:var(--rl);">+十三经(13部) +认知理论(8概念+8Skills)</div>
+</div>
+<div class="sbox BL" style="border-left-color:#b45309;"><span class="sn">基督教(2)</span><span class="sm"> 恩典与救赎 · 神秘主义</span></div>
+<div class="sbox BL" style="border-left-color:#059669;"><span class="sn">伊斯兰(2)</span><span class="sm"> 五功 · 苏菲主义</span></div>
+<div class="sbox BL" style="border-left-color:#2563eb;"><span class="sn">犹太教(2)</span><span class="sm"> 律法与盟约 · 卡巴拉</span></div>
+<div class="sbox BL" style="border-left-color:#7c3aed;"><span class="sn">道教(3)</span><span class="sm"> 无为 · 老子 · 庄子</span></div>
+<div class="sbox BL" style="border-left-color:#dc2626;"><span class="sn">印度教(1)</span><span class="sm"> 业与轮回</span></div>
+<div class="sbox BL" style="border-left-color:#0891b2;"><span class="sn">儒教(1)</span><span class="sm"> 儒教宗教维度</span></div>
+<div class="sbox BL" style="border-left-color:#be185d;"><span class="sn">神道教(1)</span><span class="sm"> 核心教义</span></div>
+<div class="sbox BL" style="border-left-color:#4f46e5;"><span class="sn">锡克教(1)</span><span class="sm"> 核心教义</span></div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">跨传统概念(4)</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;"><span class="TAG TAGrl">救赎 Salvation</span><span class="TAG TAGrl">神圣性 Sacred</span><span class="TAG TAGrl">仪式 Ritual</span><span class="TAG TAGrl">冥想 Meditation</span></div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">十三经图谱 <span class="TAG TAGyw">13</span></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:2px;">
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">心经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">金刚经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">法华经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">楞严经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">华严经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">圆觉经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">维摩诘经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">涅槃经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">楞伽经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">四十二章经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">无量寿经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);">观无量寿经</div>
+<div class="CD2 T9 B" style="border-left:2px solid var(--rl);grid-column:span 2;">六祖坛经</div>
+</div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">宗教 Skills (14)</div>
+<div class="T9 LH" style="color:#444;">
+<div class="sbox"><span class="sn">四圣谛诊断</span><span class="sl"> — 苦集灭道分析</span></div>
+<div class="sbox"><span class="sn">圣典诠释学</span><span class="sl"> · <span class="sn">神圣-世俗分析</span></span></div>
+<div class="sbox"><span class="sn">无为而治</span><span class="sl"> · <span class="sn">柔弱胜刚强</span></span></div>
+<div class="sbox"><span class="sn">逍遥游引导</span><span class="sl"> · <span class="sn">菩提道次第</span></span></div>
+<div class="sbox"><span class="sn">菩提道灯</span><span class="sl"> · <span class="sn">森林禅修</span></span></div>
+<div class="sbox"><span class="sn">缘起法分析</span><span class="sl"> · <span class="sn">大圆满引导</span></span></div>
+<div class="sbox"><span class="sn">壁观禅修</span><span class="sl"> · <span class="sn">平常心引导</span></span></div>
+<div class="sbox"><span class="sn">佛教-道教对话</span></div>
+</div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">佛教认知理论 — 古典认知科学框架</div>
+<div class="B T9" style="margin-bottom:3px;color:var(--rl);">8 核心概念 (含经典出处)</div>
+<div class="CD BL" style="border-left-color:#d97706;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">八识体系 <span class="D">— 瑜伽师地论</span></div>
+<div class="T8" style="font-size:8px;color:#666;">前五识→第六意识→第七末那识→第八阿赖耶识</div>
+</div>
+<div class="CD BL" style="border-left-color:#7c3aed;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">心物一元 <span class="D">— 成唯识论</span></div>
+<div class="T8" style="font-size:8px;color:#666;">相分/见分/自证分/证自证分</div>
+</div>
+<div class="CD BL" style="border-left-color:#059669;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">六根六尘六识 <span class="D">— 俱舍论</span></div>
+<div class="T8" style="font-size:8px;color:#666;">根(感官)→尘(对象)→识(活动) 十八界模型</div>
+</div>
+<div class="CD BL" style="border-left-color:#dc2626;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">转识成智 <span class="D">— 解深密经</span></div>
+<div class="T8" style="font-size:8px;color:#666;">前五→成所作智·第六→妙观察智·第七→平等性智·第八→大圆镜智</div>
+</div>
+<div class="CD BL" style="border-left-color:#2563eb;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">中观·空 <span class="D">— 中论</span></div>
+<div class="T8" style="font-size:8px;color:#666;">四句破：不生不灭/不常不断/不一不异/不来不去</div>
+</div>
+<div class="CD BL" style="border-left-color:#0891b2;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">七处征心 <span class="D">— 楞严经</span></div>
+<div class="T8" style="font-size:8px;color:#666;">心不在内/外/中间 — 破一切执着</div>
+</div>
+<div class="CD BL" style="border-left-color:#be185d;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">八还辨见 <span class="D">— 楞严经</span></div>
+<div class="T8" style="font-size:8px;color:#666;">所见归还来源，认出「能见之性」— 主体性觉照</div>
+</div>
+<div class="CD BL" style="border-left-color:#ea580c;margin-bottom:3px;padding:2px 5px;">
+<div class="B T9">金刚经·无相 <span class="D">— 金刚经</span></div>
+<div class="T8" style="font-size:8px;color:#666;">应无所住而生其心 — 破一切相的认知自由</div>
+</div>
+<div class="SEP"></div>
+<div class="B T9" style="margin-bottom:3px;color:var(--rl);">8 佛教认知 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGrl">八识认知诊断</span><span class="TAG TAGrl">心物辨析</span><span class="TAG TAGrl">六根诊断</span><span class="TAG TAGrl">转识诊断</span><span class="TAG TAGrl">中观四句破</span><span class="TAG TAGrl">七处征心解构</span><span class="TAG TAGrl">八还辨见</span><span class="TAG TAGrl">金刚经无住</span>
+</div>
+<div class="CTX" style="margin-top:4px;">来源经典：瑜伽师地论·成唯识论·俱舍论·解深密经·中论·楞严经·金刚经</div>
+</div>
+</div>
+<div class="SN">02 / 06</div>
+</div>
+
+<!-- SLIDE 03/06: SOCIOLOGY + PSYCHOLOGY -->
+<div class="S">
+<div style="display:grid;grid-template-columns:49% 2% 49%;gap:0;">
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 社会学 Sociology <span class="T10 M" style="color:#888;">18思想家·7概念·15Skills·12流派</span></div>
+<div style="display:grid;grid-template-columns:38% 24% 38%;gap:6px;">
+<div>
+<div class="B T9" style="margin-bottom:2px;">12流派 · 18思想家</div>
+<div class="T9 LH" style="color:#444;">
+<div><span class="B">古典(5)</span> 涂尔干·韦伯·马克思·齐美尔·米尔斯</div>
+<div><span class="B">结构主义(2)</span> 布迪厄·福柯</div>
+<div><span class="B">互动论(1)</span> 戈夫曼</div>
+<div><span class="B">功能主义(1)</span> 帕森斯</div>
+<div><span class="B">批判理论(1)</span> 哈贝马斯</div>
+<div><span class="B">文明化(1)</span> 埃利亚斯</div>
+<div><span class="B">现代性(2)</span> 鲍曼·贝克</div>
+<div><span class="B">网络社会(1)</span> 卡斯特</div>
+<div><span class="B">性别研究(1)</span> 巴特勒</div>
+<div><span class="B">种族研究(1)</span> 杜波依斯</div>
+<div><span class="B">行动者网络(1)</span> 拉图尔</div>
+<div><span class="B">结构化(1)</span> 吉登斯</div>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">7 概念</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGso">社会事实</span><span class="TAG TAGso">文化资本</span><span class="TAG TAGso">规训</span><span class="TAG TAGso">数字社会</span><span class="TAG TAGso">性别</span><span class="TAG TAGso">阶级</span><span class="TAG TAGso">种族</span>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">15 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGso">布迪厄场域分析</span><span class="TAG TAGso">福柯权力分析</span><span class="TAG TAGso">戈夫曼拟剧</span><span class="TAG TAGso">韦伯理想类型</span><span class="TAG TAGso">阶级分析</span><span class="TAG TAGso">社会事实分析</span><span class="TAG TAGso">交往行为分析</span><span class="TAG TAGso">液态现代性</span><span class="TAG TAGso">理性化分析</span><span class="TAG TAGso">规训分析</span><span class="TAG TAGso">社会形式分析</span><span class="TAG TAGso">网络社会分析</span><span class="TAG TAGso">性别操演分析</span><span class="TAG TAGso">风险社会分析</span><span class="TAG TAGso">文明进程分析</span>
+</div>
+</div>
+</div>
+</div>
+<div style="border-left:1px solid #e0ddd5;"></div>
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 心理学 Psychology <span class="T10 M" style="color:#888;">28思想家·8概念·16Skills·16流派</span></div>
+<div style="display:grid;grid-template-columns:40% 22% 38%;gap:6px;">
+<div>
+<div class="B T9" style="margin-bottom:2px;">16流派 · 28思想家</div>
+<div class="T8 LH" style="font-size:8px;color:#444;">
+<div><span class="B">精神分析(3)</span> 弗洛伊德·荣格·阿德勒</div>
+<div><span class="B">分析心理学(1)</span> 荣格</div>
+<div><span class="B">个体心理学(1)</span> 阿德勒</div>
+<div><span class="B">行为主义(1)</span> 斯金纳</div>
+<div><span class="B">人本主义(2)</span> 马斯洛·罗杰斯</div>
+<div><span class="B">认知(5)</span> 皮亚杰·科尔伯格·贝克·卡尼曼·达玛西奥</div>
+<div><span class="B">发展(4)</span> 皮亚杰·维果茨基·鲍尔比·埃里克森</div>
+<div><span class="B">社会学习(1)</span> 班杜拉</div>
+<div><span class="B">积极心理学(2)</span> 塞利格曼·米哈里</div>
+<div><span class="B">存在心理学(1)</span> 弗兰克尔</div>
+<div><span class="B">客体关系(2)</span> 克莱因·温尼科特</div>
+<div><span class="B">行为经济学(1)</span> 卡尼曼</div>
+<div><span class="B">机能主义(1)</span> 威廉·詹姆斯</div>
+<div><span class="B">人际神经生物学(1)</span> 西格尔</div>
+<div><span class="B">叙事疗法(1)</span> 怀特</div>
+<div><span class="B">创伤心理学(1)</span> 范德科尔克</div>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">8 概念</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGps">集体无意识</span><span class="TAG TAGps">心流</span><span class="TAG TAGps">认知失调</span><span class="TAG TAGps">依恋</span><span class="TAG TAGps">创伤</span><span class="TAG TAGps">动机</span><span class="TAG TAGps">人格</span><span class="TAG TAGps">意识</span>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">16 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGps">荣格原型识别</span><span class="TAG TAGps">CBT认知扭曲</span><span class="TAG TAGps">马斯洛需求诊断</span><span class="TAG TAGps">心流条件评估</span><span class="TAG TAGps">双系统分析</span><span class="TAG TAGps">认知发展评估</span><span class="TAG TAGps">行为强化分析</span><span class="TAG TAGps">来访者中心对话</span><span class="TAG TAGps">潜意识分析</span><span class="TAG TAGps">个体化引导</span><span class="TAG TAGps">自卑与超越</span><span class="TAG TAGps">依恋分析</span><span class="TAG TAGps">自我效能分析</span><span class="TAG TAGps">意义疗法</span><span class="TAG TAGps">最近发展区分析</span><span class="TAG TAGps">躯体标记分析</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="SN">03 / 06</div>
+</div>
+
+<!-- SLIDE 04/06: ETHICS + AESTHETICS/LITERATURE/ARTS -->
+<div class="S">
+<div style="display:grid;grid-template-columns:39% 2% 59%;gap:0;">
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 伦理 Ethics <span class="T10 M" style="color:#888;">15思想家·11概念·10Skills·10流派</span></div>
+<div style="display:grid;grid-template-columns:40% 28% 32%;gap:5px;">
+<div>
+<div class="B T9" style="margin-bottom:2px;">10流派 · 15思想家</div>
+<div class="T9 LH" style="color:#444;">
+<div><span class="B">结果主义(2)</span> 边沁·密尔</div>
+<div><span class="B">道义论(1)</span> 康德</div>
+<div><span class="B">德性伦理(2)</span> 亚里士多德·麦金太尔</div>
+<div><span class="B">社会契约(3)</span> 霍布斯·洛克·罗尔斯</div>
+<div><span class="B">关怀伦理(1)</span> 诺丁斯</div>
+<div><span class="B">社群主义(1)</span> 泰勒</div>
+<div><span class="B">能力方法(2)</span> 森·努斯鲍姆</div>
+<div><span class="B">批判理论(1)</span> 马尔库塞</div>
+<div><span class="B">自由至上(1)</span> 诺齐克</div>
+<div><span class="B">非暴力抵抗(1)</span> 甘地</div>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">11 概念</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGet">功利</span><span class="TAG TAGet">定言命令</span><span class="TAG TAGet">德性</span><span class="TAG TAGet">社会契约</span><span class="TAG TAGet">无知之幕</span><span class="TAG TAGet">正义感</span><span class="TAG TAGet">自然权利</span><span class="TAG TAGet">人权</span><span class="TAG TAGet">环境伦理</span><span class="TAG TAGet">责任</span><span class="TAG TAGet">良心</span>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">10 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGet">苦乐计算</span><span class="TAG TAGet">无知之幕分析</span><span class="TAG TAGet">德性检验</span><span class="TAG TAGet">正义原则检验</span><span class="TAG TAGet">自由主义论证</span><span class="TAG TAGet">自然状态分析</span><span class="TAG TAGet">自然权利分析</span><span class="TAG TAGet">非暴力抵抗</span><span class="TAG TAGet">德性分析</span><span class="TAG TAGet">能力方法分析</span>
+</div>
+</div>
+</div>
+</div>
+<div style="border-left:1px solid #e0ddd5;"></div>
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 美学·文学·艺术 <span class="T10 M" style="color:#888;">31思想家·7概念·11Skills</span></div>
+<div style="display:grid;grid-template-columns:55% 22% 23%;gap:6px;">
+<div>
+<div class="B T9" style="margin-bottom:2px;color:var(--ae);">美学 Aesthetics — 23思想家 · 9类</div>
+<div class="T8 LH" style="font-size:8px;color:#444;">
+<div><span class="B">德国美学(2)</span> 康德(审美判断) · 黑格尔(艺术哲学)</div>
+<div><span class="B">批判美学(2)</span> 本雅明(灵韵) · 阿多诺(文化工业)</div>
+<div><span class="B">尼采美学(1)</span> 尼采(悲剧精神·酒神日神)</div>
+<div><span class="B">实用主义美学(1)</span> 杜威(艺术即经验)</div>
+<div><span class="B">中国美学(1)</span> 朱光潜(意象美学)</div>
+<div><span class="B">文学思想(6)</span> 陀思妥耶夫斯基·卡夫卡·博尔赫斯·鲁迅·托尔斯泰·泰戈尔</div>
+<div><span class="B">文学理论(4)</span> 索绪尔(符号学)·巴特(作者之死)·巴赫金(复调对话)·弗莱(原型批评)</div>
+<div><span class="B">诗性思想(3)</span> 但丁(神曲) · 鲁米(神圣之爱) · 李白(自然天成)</div>
+<div><span class="B">艺术思想(3)</span> 达·芬奇(艺术即科学) · 爱森斯坦(蒙太奇) · 凯奇(沉默)</div>
+</div>
+<div style="margin-top:3px;">
+<span class="B T9">7概念：</span><span class="TAG TAGae">美</span><span class="TAG TAGae">崇高</span><span class="TAG TAGae">审美经验</span><span class="TAG TAGae">悲剧</span><span class="TAG TAGae">叙事</span><span class="TAG TAGae">想象力</span><span class="TAG TAGae">创造力</span>
+<span class="B T9" style="margin-left:6px;">3Skills：</span><span class="TAG TAGae">审美判断分析</span><span class="TAG TAGae">悲剧精神评估</span><span class="TAG TAGae">艺术批评框架</span>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;color:var(--lt);">文学 <span class="D">5思想家</span></div>
+<div class="T8" style="font-size:8px;color:#444;line-height:1.4;">
+<div><span class="B">诗人</span> 歌德</div>
+<div><span class="B">小说家</span> 陀思妥耶夫斯基·卡夫卡</div>
+<div><span class="B">戏剧家</span> 莎士比亚</div>
+<div><span class="B">散文家</span> 鲁迅</div>
+</div>
+<div class="HR"></div>
+<div class="B T9" style="margin-bottom:2px;">5 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGlt">人性洞察</span><span class="TAG TAGlt">浮士德精神</span><span class="TAG TAGlt">苦难救赎</span><span class="TAG TAGlt">荒诞分析</span><span class="TAG TAGlt">国民性批判</span>
+</div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;color:var(--ar);">艺术 <span class="D">3思想家</span></div>
+<div class="T8" style="font-size:8px;color:#444;line-height:1.4;">
+<div><span class="B">视觉(2)</span> 梵高 · 达·芬奇</div>
+<div><span class="B">音乐(1)</span> 贝多芬</div>
+</div>
+<div class="HR"></div>
+<div class="B T9" style="margin-bottom:2px;">3 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGar">色彩与情感</span><span class="TAG TAGar">苦难与艺术</span><span class="TAG TAGar">艺术与科学统一</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="SN">04 / 06</div>
+</div>
+
+<!-- SLIDE 05/06: COGNITIVE SYSTEMS + WISDOM MASTERS -->
+<div class="S">
+<div style="display:grid;grid-template-columns:54% 2% 44%;gap:0;">
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 认知系统工程 CSE <span class="T10 M" style="color:#888;">26思想家·27概念·16Skills·7流派</span></div>
+<div style="display:grid;grid-template-columns:42% 58%;gap:6px;">
+<div>
+<div class="B T9" style="margin-bottom:2px;">7流派 · 26思想家</div>
+<div class="sbox BL" style="border-left-color:#0891b2;padding:2px 5px;"><div class="B" style="font-size:8px;">1.控制论(3)</div><div style="font-size:8px;color:#555;">维纳·阿什比·西蒙</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">2.生态心理学(3)</div><div style="font-size:8px;color:#555;">吉布森·克拉克·瓦雷拉</div></div>
+<div class="sbox BL" style="border-left-color:#7c3aed;padding:2px 5px;"><div class="B" style="font-size:8px;">3.分布式认知(3)</div><div style="font-size:8px;color:#555;">哈钦斯·恩格斯托姆·列昂捷夫</div></div>
+<div class="sbox BL" style="border-left-color:#dc2626;padding:2px 5px;"><div class="B" style="font-size:8px;">4.认知工程(4)</div><div style="font-size:8px;color:#555;">拉斯穆森·伍兹·诺曼·莱维森</div></div>
+<div class="sbox BL" style="border-left-color:#f59e0b;padding:2px 5px;"><div class="B" style="font-size:8px;">5.自然决策(4)</div><div style="font-size:8px;color:#555;">克莱因·维克·斯威勒·恩兹利</div></div>
+<div class="sbox BL" style="border-left-color:#2563eb;padding:2px 5px;"><div class="B" style="font-size:8px;">6.安全科学(4)</div><div style="font-size:8px;color:#555;">霍伦纳格·里森·德克尔·佩罗</div></div>
+<div class="sbox BL" style="border-left-color:#be185d;padding:2px 5px;"><div class="B" style="font-size:8px;">7.自动化与社会技术(5)</div><div style="font-size:8px;color:#555;">班布里奇·帕拉休拉曼·维森特·谢里登·威肯斯</div></div>
+</div>
+<div>
+<div class="B T9" style="margin-bottom:2px;">27 概念</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;margin-bottom:4px;">
+<span class="TAG TAGcs">有限理性</span><span class="TAG TAGcs">可供性</span><span class="TAG TAGcs">认知负荷</span><span class="TAG TAGcs">态势感知</span><span class="TAG TAGcs">分布式认知</span><span class="TAG TAGcs">意义建构</span><span class="TAG TAGcs">心智模型</span><span class="TAG TAGcs">活动理论</span><span class="TAG TAGcs">韧性工程</span><span class="TAG TAGcs">联合认知系统</span><span class="TAG TAGcs">预测加工</span><span class="TAG TAGcs">生成认知</span><span class="TAG TAGcs">安全范式</span><span class="TAG TAGcs">漂移失败</span><span class="TAG TAGcs">正常事故</span><span class="TAG TAGcs">安全文化</span><span class="TAG TAGcs">自动化偏见</span><span class="TAG TAGcs">脱离回路</span><span class="TAG TAGcs">社会技术系统</span><span class="TAG TAGcs">生态界面设计</span><span class="TAG TAGcs">宏观认知</span><span class="TAG TAGcs">团队认知</span><span class="TAG TAGcs">分布式态势感知</span><span class="TAG TAGcs">情境化认知</span><span class="TAG TAGcs">多重资源模型</span><span class="TAG TAGcs">自动化自主谱</span><span class="TAG TAGcs">人因可靠性分析</span>
+</div>
+<div class="B T9" style="margin-bottom:2px;">16 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGcs">认知工作分析</span><span class="TAG TAGcs">认知负荷评估</span><span class="TAG TAGcs">态势感知诊断</span><span class="TAG TAGcs">自然决策分析</span><span class="TAG TAGcs">意义建构引导</span><span class="TAG TAGcs">人为错误分析</span><span class="TAG TAGcs">韧性评估</span><span class="TAG TAGcs">活动系统分析</span><span class="TAG TAGcs">认知系统设计</span><span class="TAG TAGcs">可供性分析</span><span class="TAG TAGcs">认知任务分析</span><span class="TAG TAGcs">STPA事故分析</span><span class="TAG TAGcs">自动化级别评估</span><span class="TAG TAGcs">人AI协作设计</span><span class="TAG TAGcs">安全学习分析</span><span class="TAG TAGcs">人因可靠性分析</span>
+</div>
+</div>
+</div>
+</div>
+<div style="border-left:1px solid #e0ddd5;"></div>
+<div>
+<div class="SH" style="font-size:20px;"><span class="acc">✦</span> 智慧导师 Wisdom Masters <span class="T10 M" style="color:#888;">12大师·6地区·11Skills</span></div>
+<div style="display:grid;grid-template-columns:48% 52%;gap:6px;">
+<div>
+<div class="CD BT" style="border-top-color:var(--ws);margin-bottom:4px;padding:2px 5px;"><div class="B T9" style="color:var(--ws);">中国禅 · 4位</div></div>
+<div class="sbox BL" style="border-left-color:var(--ws);padding:2px 5px;">
+<div class="sn" style="font-size:8px;">慧能 <span class="D">第六祖</span></div>
+<div style="font-size:7px;color:#555;">无住·顿悟·平常心</div>
+<div style="margin-top:1px;"><span class="TAG TAGws" style="font-size:7px;">无住心法</span><span class="TAG TAGws" style="font-size:7px;">顿悟检验</span><span class="TAG TAGws" style="font-size:7px;">平常心引导</span></div>
+</div>
+<div class="sbox BL" style="border-left-color:var(--ws);padding:2px 5px;">
+<div class="sn" style="font-size:8px;">临济义玄</div>
+<div style="font-size:7px;color:#555;">无事·棒喝·无位真人</div>
+<div style="margin-top:1px;"><span class="TAG TAGws" style="font-size:7px;">无事贵人</span><span class="TAG TAGws" style="font-size:7px;">棒喝当下</span></div>
+</div>
+<div class="sbox BL" style="border-left-color:var(--ws);padding:2px 5px;"><div class="sn" style="font-size:8px;">马祖道一</div><div style="font-size:7px;color:#555;">平常心是道</div></div>
+<div class="sbox BL" style="border-left-color:var(--ws);padding:2px 5px;"><div class="sn" style="font-size:8px;">菩提达摩</div><div style="font-size:7px;color:#555;">壁观禅修</div></div>
+<div class="CD BT" style="border-top-color:#d97706;margin-top:4px;margin-bottom:4px;padding:2px 5px;"><div class="B T9" style="color:#d97706;">藏传 · 4位</div></div>
+<div class="sbox BL" style="border-left-color:#d97706;padding:2px 5px;">
+<div class="sn" style="font-size:8px;">米拉日巴 <span class="D">噶举</span></div>
+<div style="font-size:7px;color:#555;">裸见觉性·苦行炼金</div>
+<div style="margin-top:1px;"><span class="TAG" style="background:#fef3c7;color:#92400e;font-size:7px;">裸见觉性</span><span class="TAG" style="background:#fef3c7;color:#92400e;font-size:7px;">苦行炼金</span></div>
+</div>
+<div class="sbox BL" style="border-left-color:#d97706;padding:2px 5px;"><div class="sn" style="font-size:8px;">莲花生大士 <span class="D">宁玛</span></div><div style="font-size:7px;color:#555;">大圆满</div></div>
+<div class="sbox BL" style="border-left-color:#d97706;padding:2px 5px;"><div class="sn" style="font-size:8px;">阿底峡 <span class="D">噶当</span></div><div style="font-size:7px;color:#555;">菩提道灯</div></div>
+<div class="sbox BL" style="border-left-color:#d97706;padding:2px 5px;"><div class="sn" style="font-size:8px;">宗喀巴 <span class="D">格鲁</span></div><div style="font-size:7px;color:#555;">菩提道次第</div></div>
+</div>
+<div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:4px;margin-bottom:4px;">
+<div>
+<div class="CD BT" style="border-top-color:#dc2626;margin-bottom:3px;padding:2px 5px;"><div class="B T9" style="color:#dc2626;">日本禅 · 1</div></div>
+<div class="sbox BL" style="border-left-color:#dc2626;padding:2px 5px;">
+<div class="sn" style="font-size:8px;">道元 <span class="D">曹洞</span></div>
+<div style="font-size:7px;color:#555;">只管打坐·当下圆满</div>
+<div style="margin-top:1px;"><span class="TAG" style="background:#fee2e2;color:#991b1b;font-size:7px;">只管打坐</span><span class="TAG" style="background:#fee2e2;color:#991b1b;font-size:7px;">当下圆满</span></div>
+</div>
+</div>
+<div>
+<div class="CD BT" style="border-top-color:#059669;margin-bottom:3px;padding:2px 5px;"><div class="B T9" style="color:#059669;">入世佛教 · 1</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;">
+<div class="sn" style="font-size:8px;">一行禅师 <span class="D">梅村</span></div>
+<div style="font-size:7px;color:#555;">正念呼吸·慈悲拥抱</div>
+<div style="margin-top:1px;"><span class="TAG" style="background:#d1fae5;color:#065f46;font-size:7px;">正念呼吸</span><span class="TAG" style="background:#d1fae5;color:#065f46;font-size:7px;">慈悲拥抱</span></div>
+</div>
+</div>
+</div>
+<div class="CD BT" style="border-top-color:#2563eb;margin-bottom:3px;padding:2px 5px;"><div class="B T9" style="color:#2563eb;">泰国 · 2</div></div>
+<div class="sbox BL" style="border-left-color:#2563eb;padding:2px 5px;"><div class="sn" style="font-size:8px;">阿姜查</div><div style="font-size:7px;color:#555;">森林禅修</div></div>
+<div class="sbox BL" style="border-left-color:#2563eb;padding:2px 5px;"><div class="sn" style="font-size:8px;">佛使比丘</div><div style="font-size:7px;color:#555;">缘起法</div></div>
+<div class="HR"></div>
+<div class="B T9" style="margin-bottom:2px;">11 独立 Skills</div>
+<div style="display:flex;flex-wrap:wrap;gap:2px;">
+<span class="TAG TAGws">慧能无住心法</span><span class="TAG TAGws">慧能顿悟检验</span><span class="TAG TAGws">慧能平常心</span><span class="TAG TAGws">临济无事贵人</span><span class="TAG TAGws">临济棒喝当下</span><span class="TAG TAGws">米拉日巴裸见觉性</span><span class="TAG TAGws">米拉日巴苦行炼金</span><span class="TAG TAGws">道元只管打坐</span><span class="TAG TAGws">道元当下圆满</span><span class="TAG TAGws">一行正念呼吸</span><span class="TAG TAGws">一行慈悲拥抱</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="SN">05 / 06</div>
+</div>
+
+<!-- SLIDE 06/06: CROSS-DISCIPLINARY + STRUCTURE + ROADMAP -->
+<div class="S">
+<div class="SH"><span class="acc">✦</span> 跨学科互联 · 仓库结构 · 版本路线</div>
+<div style="display:grid;grid-template-columns:34% 36% 30%;gap:8px;">
+<div>
+<div class="B T10" style="margin-bottom:3px;">6 关联类型</div>
+<div class="G2" style="gap:2px;">
+<div class="CD2 BL" style="border-left-color:#7c3aed;padding:2px 4px;"><span class="B" style="font-size:8px;">[同源] 思想继承</span></div>
+<div class="CD2 BL" style="border-left-color:#059669;padding:2px 4px;"><span class="B" style="font-size:8px;">[互补] 不同视角同一现象</span></div>
+<div class="CD2 BL" style="border-left-color:#dc2626;padding:2px 4px;"><span class="B" style="font-size:8px;">[对立] 立场相反</span></div>
+<div class="CD2 BL" style="border-left-color:#2563eb;padding:2px 4px;"><span class="B" style="font-size:8px;">[发展] 后者发展前者</span></div>
+<div class="CD2 BL" style="border-left-color:#f59e0b;padding:2px 4px;"><span class="B" style="font-size:8px;">[批判] 后者批判前者</span></div>
+<div class="CD2 BL" style="border-left-color:#0891b2;padding:2px 4px;"><span class="B" style="font-size:8px;">[平行] 独立相似洞见</span></div>
+</div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">四维标签体系</div>
+<div class="G2" style="gap:2px;">
+<div class="CD2" style="padding:2px 4px;font-size:8px;"><span class="B">领域</span> 5个</div>
+<div class="CD2" style="padding:2px 4px;font-size:8px;"><span class="B">流派</span> 40+个</div>
+<div class="CD2" style="padding:2px 4px;font-size:8px;"><span class="B">时代</span> 5个</div>
+<div class="CD2" style="padding:2px 4px;font-size:8px;"><span class="B">主题</span> 70+个</div>
+</div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">3 种条目类型</div>
+<div class="CD2 T8" style="margin-bottom:2px;padding:2px 4px;font-size:7px;"><span class="B" style="color:var(--ph);">思想家 Thinker (168+)</span><br>基本信息/核心命题/思想脉络/关键著作/重要概念/思想坐标/当代应用/常见误读/跨学科关联/关联Skills</div>
+<div class="CD2 T8" style="margin-bottom:2px;padding:2px 4px;font-size:7px;"><span class="B" style="color:var(--so);">概念 Concept (80+)</span><br>一句话定义/历史脉络/核心要义/通俗vs学术/相关概念/代表思想家/应用场景/常见误读/进阶阅读</div>
+<div class="CD2 T8" style="padding:2px 4px;font-size:7px;"><span class="B" style="color:var(--ps);">Skill 框架 (120+)</span><br>YAML frontmatter/一句话功能/何时用不用/理论基础/操作流程Step1-N/完整示例/反例</div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">仓库结构</div>
+<div style="font-family:monospace;font-size:7.5px;line-height:1.4;background:#f8f7f4;border:1.5px solid #e0ddd5;border-radius:4px;padding:4px 6px;color:#444;">
+<div>open-cognition/</div>
+<div>├── domains/ (philosophy·religion·sociology·psychology·</div>
+<div>│   ethics-politics·aesthetics·cognitive-systems·</div>
+<div>│   literature·arts)</div>
+<div>│   ├── schools/&lt;流派&gt;/&lt;思想家&gt;.md</div>
+<div>│   └── concepts/&lt;概念&gt;.md</div>
+<div>├── skills/ (按领域 + frameworks/)</div>
+<div>│   └── &lt;skill&gt;/SKILL.md</div>
+<div>├── wisdom-masters/ (masters/ + skills/)</div>
+<div>├── templates/ (思想家/概念/学派/Skill模板)</div>
+<div>└── meta/ (分类法/引用源/质量标准)</div>
+</div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">18 跨学科主题</div>
+<div class="G3" style="gap:3px;">
+<div class="CD2 BL" style="border-left-color:#8b5cf6;padding:2px 4px;"><div class="B" style="font-size:8px;">苦难</div><div style="font-size:7px;color:#666;">佛教·尼采·CBT·鲍曼</div></div>
+<div class="CD2 BL" style="border-left-color:#f59e0b;padding:2px 4px;"><div class="B" style="font-size:8px;">自我</div><div style="font-size:7px;color:#666;">苏格拉底·荣格·禅宗·戈夫曼</div></div>
+<div class="CD2 BL" style="border-left-color:#ef4444;padding:2px 4px;"><div class="B" style="font-size:8px;">权力</div><div style="font-size:7px;color:#666;">福柯·马克思·尼采</div></div>
+<div class="CD2 BL" style="border-left-color:#3b82f6;padding:2px 4px;"><div class="B" style="font-size:8px;">意义</div><div style="font-size:7px;color:#666;">海德格尔·基督教·心流·弗兰克尔</div></div>
+<div class="CD2 BL" style="border-left-color:#10b981;padding:2px 4px;"><div class="B" style="font-size:8px;">认识与知识</div><div style="font-size:7px;color:#666;">康德·维特根斯坦·皮亚杰·卡尼曼·八识</div></div>
+<div class="CD2 BL" style="border-left-color:#8b5cf6;padding:2px 4px;"><div class="B" style="font-size:8px;">伦理与德性</div><div style="font-size:7px;color:#666;">亚里士多德·康德·孔子</div></div>
+<div class="CD2 BL" style="border-left-color:#f59e0b;padding:2px 4px;"><div class="B" style="font-size:8px;">共同体</div><div style="font-size:7px;color:#666;">涂尔干·哈贝马斯·犹太教</div></div>
+<div class="CD2 BL" style="border-left-color:#06b6d4;padding:2px 4px;"><div class="B" style="font-size:8px;">习惯与行为</div><div style="font-size:7px;color:#666;">斯金纳·贝克·布迪厄·福柯·五功</div></div>
+<div class="CD2 BL" style="border-left-color:#ec4899;padding:2px 4px;"><div class="B" style="font-size:8px;">现代性与理性</div><div style="font-size:7px;color:#666;">韦伯·哈贝马斯·鲍曼·贝克·康德·尼采</div></div>
+<div class="CD2 BL" style="border-left-color:#14b8a6;padding:2px 4px;"><div class="B" style="font-size:8px;">神圣与超越</div><div style="font-size:7px;color:#666;">神圣性·神秘主义·苏菲·荣格·马斯洛</div></div>
+<div class="CD2 BL" style="border-left-color:#8b5cf6;padding:2px 4px;"><div class="B" style="font-size:8px;">语言与意义</div><div style="font-size:7px;color:#666;">维特根斯坦·哈贝马斯·戈夫曼·贝克</div></div>
+<div class="CD2 BL" style="border-left-color:#ef4444;padding:2px 4px;"><div class="B" style="font-size:8px;">正义</div><div style="font-size:7px;color:#666;">罗尔斯·洛克·康德·涂尔干·布迪厄·科尔伯格</div></div>
+<div class="CD2 BL" style="border-left-color:#3b82f6;padding:2px 4px;"><div class="B" style="font-size:8px;">自由</div><div style="font-size:7px;color:#666;">密尔·霍布斯·萨特·福柯·罗杰斯</div></div>
+<div class="CD2 BL" style="border-left-color:#10b981;padding:2px 4px;"><div class="B" style="font-size:8px;">权利</div><div style="font-size:7px;color:#666;">洛克·罗尔斯·马克思·犹太教</div></div>
+<div class="CD2 BL" style="border-left-color:#f59e0b;padding:2px 4px;"><div class="B" style="font-size:8px;">平等</div><div style="font-size:7px;color:#666;">罗尔斯·边沁·诺丁斯·涂尔干·布迪厄</div></div>
+<div class="CD2 BL" style="border-left-color:#ec4899;padding:2px 4px;"><div class="B" style="font-size:8px;">审美与创造</div><div style="font-size:7px;color:#666;">康德·尼采·杜威·心流·文化资本</div></div>
+<div class="CD2 BL" style="border-left-color:#06b6d4;padding:2px 4px;"><div class="B" style="font-size:8px;">认知与系统</div><div style="font-size:7px;color:#666;">有限理性·分布式认知·卡尼曼·八识·预测加工</div></div>
+<div class="CD2 BL" style="border-left-color:#14b8a6;padding:2px 4px;"><div class="B" style="font-size:8px;">安全与风险</div><div style="font-size:7px;color:#666;">韧性工程·漂移失败·卡尼曼·贝克</div></div>
+</div>
+</div>
+<div>
+<div class="B T10" style="margin-bottom:3px;">5 设计原则</div>
+<div class="sbox BL" style="border-left-color:var(--yw);padding:2px 5px;"><div class="B" style="font-size:8px;">① 紧凑非压缩</div><div style="font-size:7px;color:#666;">~100行，密度与可读性平衡</div></div>
+<div class="sbox BL" style="border-left-color:#7c3aed;padding:2px 5px;"><div class="B" style="font-size:8px;">② 多源验证</div><div style="font-size:7px;color:#666;">原典→研究→中文三级校验</div></div>
+<div class="sbox BL" style="border-left-color:#dc2626;padding:2px 5px;"><div class="B" style="font-size:8px;">③ 诚实标注误读</div><div style="font-size:7px;color:#666;">常见误读条目显式标注</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">④ 关联可追溯</div><div style="font-size:7px;color:#666;">显式关联类型与双向链接</div></div>
+<div class="sbox BL" style="border-left-color:#2563eb;padding:2px 5px;"><div class="B" style="font-size:8px;">⑤ 持续可贡献</div><div style="font-size:7px;color:#666;">模板驱动，开放协作</div></div>
+<div class="HR"></div>
+<div class="B T10" style="margin-bottom:3px;">版本路线图</div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.1 ✅</div><div style="font-size:7px;color:#666;">五领域基础骨架</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.2 ✅</div><div style="font-size:7px;color:#666;">六领域全面扩展 + 全球人物补充</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.3 ✅</div><div style="font-size:7px;color:#666;">文学家/文艺家融合 · 美学7→23人</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.4 ✅</div><div style="font-size:7px;color:#666;">+认知系统工程 · 15思想家+12概念+10Skills</div></div>
+<div class="sbox BL" style="border-left-color:#059669;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.5 ✅</div><div style="font-size:7px;color:#666;">CSE深度扩展 · 安全科学+自动化 · 4概念+5Skills</div></div>
+<div class="sbox BL" style="border-left-color:#f59e0b;padding:2px 5px;"><div class="B" style="font-size:8px;">v0.6 🔮</div><div style="font-size:7px;color:#666;">英文版 · 可视化关联图谱 · Agent SDK集成</div></div>
+<div class="HR"></div>
+<div style="background:#fefce8;border:1.5px solid var(--yw);border-radius:5px;padding:8px;text-align:center;">
+<div style="font-family:'Noto Serif SC',serif;font-size:14px;font-weight:900;">Open Cognition · 开放认知数据库</div>
+<div style="font-size:9px;color:#666;margin-top:2px;">9领域 × 168思想家 + 80概念 + 120Skills + 13佛经 = <span class="B" style="color:var(--yw);">380+</span> 条目</div>
+<div style="margin-top:4px;"><span class="badge">CC BY-SA 4.0</span> <span style="margin:0 3px;font-size:7px;">·</span> <span class="badge" style="background:var(--yw);color:var(--bk);">open-cognition</span> <span style="margin:0 3px;font-size:7px;">·</span> <span class="badge">peace-lab-global</span></div>
+<div style="font-size:7px;color:#aaa;margin-top:2px;">github.com/peace-lab-global/open-cognition ✦ ✧ ✦</div>
+</div>
+</div>
+</div>
+<div class="SN">06 / 06</div>
+</div>
+
+</body>
+</html>

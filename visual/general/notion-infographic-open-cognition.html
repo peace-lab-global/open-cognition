@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Open Cognition · 全景信息图 · v0.5</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+
+body{
+  background:#faf9f6;
+  width:100%;
+  min-height:100vh;
+  font-family:'Noto Serif SC',Georgia,serif;
+  color:#1a1a1a;
+  line-height:1.4;
+  overflow-x:auto;
+}
+
+.page{
+  width:1920px;
+  min-height:1080px;
+  margin:0 auto;
+  padding:48px 72px 40px;
+  background:#faf9f6;
+  position:relative;
+}
+
+/* ─── Hand-drawn feel decorations ─── */
+.page::before{
+  content:'';
+  position:absolute;
+  top:24px;left:36px;
+  width:60px;height:60px;
+  border:2.5px solid #f4d03f;
+  border-radius:50%;
+  opacity:.6;
+  transform:rotate(-8deg);
+}
+.page::after{
+  content:'';
+  position:absolute;
+  bottom:36px;right:48px;
+  width:80px;height:3px;
+  background:#1a1a1a;
+  opacity:.15;
+  transform:rotate(3deg);
+}
+
+/* ─── Header ─── */
+.header{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  padding-bottom:20px;
+  border-bottom:2.5px solid #1a1a1a;
+  position:relative;
+}
+.header::after{
+  content:'';
+  position:absolute;
+  bottom:-6px;left:0;
+  width:120px;height:2.5px;
+  background:#f4d03f;
+  transform:rotate(-1deg);
+}
+.brand-label{
+  font-size:13px;
+  letter-spacing:8px;
+  text-transform:uppercase;
+  font-weight:600;
+  opacity:.35;
+  color:#666;
+  font-family:'Inter',sans-serif;
+}
+.brand-title{
+  font-size:56px;
+  font-weight:900;
+  letter-spacing:-2px;
+  line-height:1.05;
+  margin-top:6px;
+  color:#1a1a1a;
+}
+.brand-title span{
+  color:#f4d03f;
+  text-shadow:2px 2px 0 #1a1a1a;
+}
+.brand-sub{
+  font-size:15px;
+  opacity:.45;
+  margin-top:8px;
+  color:#555;
+  font-family:'Inter',sans-serif;
+  font-weight:400;
+}
+.meta{text-align:right}
+.meta-ver{
+  font-size:13px;
+  letter-spacing:6px;
+  text-transform:uppercase;
+  opacity:.25;
+  font-family:'Inter',sans-serif;
+  font-weight:700;
+  color:#888;
+}
+.meta-badge{
+  display:inline-block;
+  margin-top:10px;
+  padding:6px 18px;
+  background:#f4d03f;
+  color:#1a1a1a;
+  font-size:12px;
+  font-weight:700;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  font-family:'Inter',sans-serif;
+  transform:rotate(-1deg);
+  border:2px solid #1a1a1a;
+}
+
+/* ─── Stats Bar ─── */
+.stats{
+  display:flex;
+  justify-content:space-between;
+  padding:24px 0 18px;
+  border-bottom:1.5px dashed rgba(0,0,0,.12);
+  position:relative;
+}
+.stat{
+  text-align:center;
+  flex:1;
+  position:relative;
+}
+.stat:not(:last-child)::after{
+  content:'';
+  position:absolute;
+  right:0;top:20%;bottom:20%;
+  width:1.5px;
+  background:rgba(0,0,0,.08);
+  transform:rotate(2deg);
+}
+.stat-num{
+  font-size:52px;
+  font-weight:900;
+  font-family:'Playfair Display',serif;
+  line-height:1;
+  color:#1a1a1a;
+}
+.stat-num span{
+  color:#f4d03f;
+  text-shadow:1.5px 1.5px 0 #1a1a1a;
+}
+.stat-lbl{
+  font-size:11px;
+  letter-spacing:4px;
+  text-transform:uppercase;
+  opacity:.3;
+  margin-top:8px;
+  font-family:'Inter',sans-serif;
+  font-weight:600;
+  color:#666;
+}
+
+/* ─── Principles ─── */
+.principles{
+  display:flex;
+  justify-content:center;
+  gap:48px;
+  padding:16px 0 14px;
+  border-bottom:1px solid rgba(0,0,0,.06);
+}
+.principles span{
+  font-size:13px;
+  opacity:.4;
+  letter-spacing:3px;
+  font-weight:500;
+  color:#555;
+  font-family:'Inter',sans-serif;
+  position:relative;
+}
+.principles span::before{
+  content:'◆';
+  margin-right:8px;
+  color:#f4d03f;
+  opacity:.7;
+}
+
+/* ─── Main Content: Domain Grid ─── */
+.content{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:16px;
+  padding:20px 0 16px;
+}
+
+.card{
+  border:2px solid #1a1a1a;
+  padding:20px 18px 16px;
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  background:#fff;
+  transition:all .25s ease;
+}
+.card:hover{
+  transform:translate(-3px,-3px);
+  box-shadow:6px 6px 0 #1a1a1a;
+}
+.card::before{
+  content:'';
+  position:absolute;
+  top:-6px;left:18px;
+  width:40px;height:4px;
+  background:var(--accent);
+  transform:rotate(-2deg);
+}
+.card-head{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  margin-bottom:8px;
+}
+.card-title{
+  font-size:22px;
+  font-weight:800;
+  line-height:1.2;
+  color:#1a1a1a;
+}
+.card-en{
+  font-size:10px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  opacity:.2;
+  margin-top:4px;
+  font-family:'Inter',sans-serif;
+  font-weight:600;
+  color:#666;
+}
+.card-count{
+  font-size:28px;
+  font-weight:900;
+  font-family:'Playfair Display',serif;
+  color:var(--accent);
+  line-height:1;
+}
+.card-count small{
+  font-size:11px;
+  opacity:.4;
+  font-family:'Inter',sans-serif;
+  font-weight:500;
+}
+.card-meta{
+  display:flex;
+  gap:14px;
+  margin:10px 0 8px;
+  padding-bottom:8px;
+  border-bottom:1px dashed rgba(0,0,0,.1);
+}
+.card-meta span{
+  font-size:12px;
+  opacity:.45;
+  font-family:'Inter',sans-serif;
+  font-weight:500;
+  color:#555;
+}
+.card-meta b{
+  opacity:.9;
+  font-weight:700;
+  color:#1a1a1a;
+}
+.card-people{
+  font-size:13px;
+  line-height:1.7;
+  opacity:.55;
+  flex:1;
+  color:#333;
+  font-weight:400;
+}
+.card-people b{
+  opacity:.9;
+  font-weight:700;
+  color:#1a1a1a;
+}
+.card-tags{
+  font-size:10.5px;
+  opacity:.25;
+  margin-top:8px;
+  line-height:1.5;
+  color:#666;
+  font-family:'Inter',sans-serif;
+}
+
+/* Domain accent colors */
+.philosophy{--accent:#8b5cf6}
+.religion{--accent:#f59e0b}
+.psychology{--accent:#10b981}
+.sociology{--accent:#3b82f6}
+.ethics{--accent:#ef4444}
+.aesthetics{--accent:#ec4899}
+.cse{--accent:#06b6d4}
+.literature{--accent:#f97316}
+.arts{--accent:#84cc16}
+.wisdom{--accent:#14b8a6}
+
+/* ─── Cross-Domain Links ─── */
+.cross-domain{
+  padding:18px 24px;
+  border:2px solid #1a1a1a;
+  background:#fff;
+  margin-top:16px;
+  position:relative;
+}
+.cross-domain::before{
+  content:'';
+  position:absolute;
+  top:-5px;right:30px;
+  width:50px;height:3px;
+  background:#f4d03f;
+  transform:rotate(1deg);
+}
+.cross-title{
+  font-size:16px;
+  font-weight:800;
+  margin-bottom:12px;
+  color:#1a1a1a;
+  display:flex;
+  align-items:center;
+  gap:10px;
+}
+.cross-title::before{
+  content:'↔';
+  font-size:20px;
+  color:#f4d03f;
+}
+.cross-grid{
+  display:grid;
+  grid-template-columns:repeat(6,1fr);
+  gap:12px;
+}
+.cross-item{
+  text-align:center;
+  padding:10px 8px;
+  border:1.5px solid rgba(0,0,0,.08);
+  background:#faf9f6;
+}
+.cross-item-name{
+  font-size:13px;
+  font-weight:700;
+  color:#1a1a1a;
+  margin-bottom:4px;
+}
+.cross-item-links{
+  font-size:10.5px;
+  opacity:.4;
+  line-height:1.5;
+  color:#555;
+  font-family:'Inter',sans-serif;
+}
+
+/* ─── Entry Types ─── */
+.entry-types{
+  display:flex;
+  justify-content:space-between;
+  gap:16px;
+  margin-top:16px;
+}
+.entry-type{
+  flex:1;
+  border:2px solid #1a1a1a;
+  padding:16px 20px;
+  background:#fff;
+  position:relative;
+}
+.entry-type::after{
+  content:'';
+  position:absolute;
+  bottom:-4px;left:20px;
+  width:30px;height:3px;
+  background:#1a1a1a;
+  opacity:.2;
+}
+.entry-type-title{
+  font-size:14px;
+  font-weight:800;
+  letter-spacing:2px;
+  text-transform:uppercase;
+  color:#1a1a1a;
+  margin-bottom:6px;
+  font-family:'Inter',sans-serif;
+}
+.entry-type-desc{
+  font-size:12px;
+  opacity:.45;
+  line-height:1.5;
+  color:#555;
+}
+.entry-type-num{
+  position:absolute;
+  top:12px;right:16px;
+  font-size:32px;
+  font-weight:900;
+  font-family:'Playfair Display',serif;
+  color:#f4d03f;
+  text-shadow:1.5px 1.5px 0 #1a1a1a;
+}
+
+/* ─── Footer ─── */
+.footer{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:20px 0 0;
+  margin-top:20px;
+  border-top:2px solid #1a1a1a;
+  position:relative;
+}
+.footer::before{
+  content:'';
+  position:absolute;
+  top:-5px;left:50%;
+  transform:translateX(-50%);
+  width:60px;height:3px;
+  background:#f4d03f;
+}
+.footer-left{
+  font-size:12px;
+  opacity:.25;
+  letter-spacing:2px;
+  font-family:'Inter',sans-serif;
+  color:#666;
+}
+.footer-right{
+  display:flex;
+  gap:24px;
+}
+.footer-right span{
+  font-size:11px;
+  opacity:.25;
+  letter-spacing:3px;
+  text-transform:uppercase;
+  font-family:'Inter',sans-serif;
+  font-weight:600;
+  color:#666;
+}
+
+/* ─── Notion doodle decorations ─── */
+.doodle-star{
+  position:absolute;
+  font-size:18px;
+  color:#f4d03f;
+  opacity:.5;
+}
+.doodle-circle{
+  position:absolute;
+  width:20px;height:20px;
+  border:2px solid #1a1a1a;
+  border-radius:50%;
+  opacity:.15;
+}
+.doodle-line{
+  position:absolute;
+  width:30px;height:2px;
+  background:#1a1a1a;
+  opacity:.1;
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <!-- Header -->
+  <div class="header">
+    <div>
+      <div class="brand-label">Open Source Knowledge Base</div>
+      <div class="brand-title">Open Cognition <span>·</span> 开放认知</div>
+      <div class="brand-sub">面向人类深度阅读与 AI Agent 调用的跨学科认知资源库</div>
+    </div>
+    <div class="meta">
+      <div class="meta-ver">Version 0.5</div>
+      <div class="meta-badge">CC BY-SA 4.0</div>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-num"><span>7</span>+</div>
+      <div class="stat-lbl">学科领域</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num"><span>120</span>+</div>
+      <div class="stat-lbl">思想家</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num"><span>87</span>+</div>
+      <div class="stat-lbl">核心概念</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num"><span>83</span>+</div>
+      <div class="stat-lbl">Agent Skills</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num"><span>290</span>+</div>
+      <div class="stat-lbl">总条目</div>
+    </div>
+    <div class="stat">
+      <div class="stat-num"><span>∞</span></div>
+      <div class="stat-lbl">跨学科链接</div>
+    </div>
+  </div>
+
+  <!-- Principles -->
+  <div class="principles">
+    <span>降低门槛</span>
+    <span>保持深度</span>
+    <span>跨学科互链</span>
+    <span>Agent 可调用</span>
+    <span>多源验证</span>
+    <span>诚实标注误读</span>
+  </div>
+
+  <!-- Domain Cards -->
+  <div class="content">
+    <!-- Philosophy -->
+    <div class="card philosophy">
+      <div class="card-head">
+        <div>
+          <div class="card-title">哲学</div>
+          <div class="card-en">Philosophy</div>
+        </div>
+        <div class="card-count">55<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>28</b> 思想家</span>
+        <span><b>8</b> 概念</span>
+        <span><b>19</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>古希腊：</b>苏格拉底 · 柏拉图 · 亚里士多德<br>
+        <b>德国唯心论：</b>康德 · 黑格尔<br>
+        <b>存在主义：</b>克尔凯郭尔 · 尼采 · 海德格尔 · 萨特<br>
+        <b>东方哲学：</b>老子 · 孔子 · 庄子<br>
+        <b>分析哲学：</b>罗素 · 维特根斯坦<br>
+        <b>现象学：</b>胡塞尔 · 梅洛-庞蒂
+      </div>
+      <div class="card-tags">辩证法 · 认识论 · 存在 · 自由意志 · 语言 · 时间 · 虚无</div>
+    </div>
+
+    <!-- Religion -->
+    <div class="card religion">
+      <div class="card-head">
+        <div>
+          <div class="card-title">宗教</div>
+          <div class="card-en">Religion</div>
+        </div>
+        <div class="card-count">42<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>16</b> 传统条目</span>
+        <span><b>4</b> 跨传统概念</span>
+        <span><b>14</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>佛教：</b>四圣谛 · 大乘空性 · 禅宗<br>
+        <b>基督教：</b>恩典与救赎 · 神秘主义<br>
+        <b>伊斯兰：</b>五功 · 苏菲主义<br>
+        <b>道教：</b>无为 · 老子 · 庄子<br>
+        <b>犹太教：</b>律法与盟约 · 卡巴拉<br>
+        <b>印度教：</b>业与轮回
+      </div>
+      <div class="card-tags">救赎 · 神圣性 · 仪式 · 冥想 · 佛教认知理论体系 · 八识 · 转识成智</div>
+    </div>
+
+    <!-- Sociology -->
+    <div class="card sociology">
+      <div class="card-head">
+        <div>
+          <div class="card-title">社会学</div>
+          <div class="card-en">Sociology</div>
+        </div>
+        <div class="card-count">40<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>18</b> 思想家</span>
+        <span><b>7</b> 概念</span>
+        <span><b>15</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>古典三大家：</b>涂尔干 · 韦伯 · 马克思 · 齐美尔<br>
+        <b>结构主义：</b>布迪厄 · 福柯<br>
+        <b>互动论：</b>戈夫曼<br>
+        <b>批判理论：</b>哈贝马斯<br>
+        <b>现代性：</b>鲍曼 · 贝克<br>
+        <b>网络社会：</b>卡斯特 · 拉图尔 · 吉登斯
+      </div>
+      <div class="card-tags">社会事实 · 文化资本 · 规训 · 数字社会 · 性别 · 阶级 · 种族</div>
+    </div>
+
+    <!-- Psychology -->
+    <div class="card psychology">
+      <div class="card-head">
+        <div>
+          <div class="card-title">心理学</div>
+          <div class="card-en">Psychology</div>
+        </div>
+        <div class="card-count">49<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>25</b> 思想家</span>
+        <span><b>8</b> 概念</span>
+        <span><b>16</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>精神分析：</b>弗洛伊德 · 荣格 · 阿德勒 · 克莱因<br>
+        <b>认知：</b>皮亚杰 · 卡尼曼 · 贝克<br>
+        <b>人本主义：</b>马斯洛 · 罗杰斯<br>
+        <b>积极心理学：</b>米哈里 · 塞利格曼<br>
+        <b>发展：</b>鲍尔比 · 维果茨基 · 埃里克森<br>
+        <b>创伤：</b>范德科尔克
+      </div>
+      <div class="card-tags">心流 · 认知失调 · 依恋 · 创伤 · 动机 · 人格 · 意识 · 集体无意识</div>
+    </div>
+
+    <!-- Ethics & Politics -->
+    <div class="card ethics">
+      <div class="card-head">
+        <div>
+          <div class="card-title">伦理与政治</div>
+          <div class="card-en">Ethics & Politics</div>
+        </div>
+        <div class="card-count">36<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>15</b> 思想家</span>
+        <span><b>11</b> 概念</span>
+        <span><b>10</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>结果主义：</b>边沁 · 密尔<br>
+        <b>道义论：</b>康德<br>
+        <b>德性伦理：</b>亚里士多德 · 麦金太尔<br>
+        <b>社会契约：</b>霍布斯 · 洛克 · 罗尔斯<br>
+        <b>能力方法：</b>森 · 努斯鲍姆<br>
+        <b>关怀伦理：</b>诺丁斯 · 泰勒
+      </div>
+      <div class="card-tags">功利 · 定言命令 · 德性 · 社会契约 · 无知之幕 · 正义感 · 人权 · 环境伦理</div>
+    </div>
+
+    <!-- Aesthetics -->
+    <div class="card aesthetics">
+      <div class="card-head">
+        <div>
+          <div class="card-title">美学</div>
+          <div class="card-en">Aesthetics</div>
+        </div>
+        <div class="card-count">33<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>23</b> 思想家</span>
+        <span><b>7</b> 概念</span>
+        <span><b>3</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>德国美学：</b>康德 · 黑格尔<br>
+        <b>批判美学：</b>本雅明 · 阿多诺<br>
+        <b>文学思想：</b>陀思妥耶夫斯基 · 卡夫卡 · 博尔赫斯 · 鲁迅<br>
+        <b>文学理论：</b>索绪尔 · 巴特 · 巴赫金<br>
+        <b>诗性思想：</b>但丁 · 鲁米 · 李白<br>
+        <b>艺术思想：</b>达·芬奇 · 爱森斯坦 · 凯奇
+      </div>
+      <div class="card-tags">美 · 崇高 · 审美经验 · 悲剧 · 叙事 · 想象力 · 创造力</div>
+    </div>
+
+    <!-- Cognitive Systems -->
+    <div class="card cse">
+      <div class="card-head">
+        <div>
+          <div class="card-title">认知系统工程</div>
+          <div class="card-en">Cognitive Systems</div>
+        </div>
+        <div class="card-count">67<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>25</b> 思想家</span>
+        <span><b>26</b> 概念</span>
+        <span><b>16</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>控制论：</b>维纳 · 阿什比 · 西蒙<br>
+        <b>生态心理学：</b>吉布森 · 克拉克 · 瓦雷拉<br>
+        <b>分布式认知：</b>哈钦斯 · 恩格斯托姆<br>
+        <b>认知工程：</b>拉斯穆森 · 伍兹 · 诺曼 · 莱维森<br>
+        <b>安全科学：</b>霍伦纳格 · 里森 · 德克尔<br>
+        <b>自动化：</b>班布里奇 · 帕拉休拉曼 · 维森特
+      </div>
+      <div class="card-tags">有限理性 · 可供性 · 认知负荷 · 态势感知 · 韧性工程 · 分布式认知 · 联合认知系统</div>
+    </div>
+
+    <!-- Wisdom Masters -->
+    <div class="card wisdom">
+      <div class="card-head">
+        <div>
+          <div class="card-title">智慧导师</div>
+          <div class="card-en">Wisdom Masters</div>
+        </div>
+        <div class="card-count">16<small>条目</small></div>
+      </div>
+      <div class="card-meta">
+        <span><b>5</b> 大师</span>
+        <span><b>—</b></span>
+        <span><b>11</b> Skills</span>
+      </div>
+      <div class="card-people">
+        <b>中国禅：</b>慧能 · 临济义玄<br>
+        <b>藏传佛教：</b>米拉日巴<br>
+        <b>日本禅：</b>道元<br>
+        <b>入世佛教：</b>一行禅师<br>
+        <br>
+        无住心法 · 顿悟检验 · 平常心 · 无事贵人 · 棒喝当下 · 裸见觉性 · 只管打坐 · 正念呼吸
+      </div>
+      <div class="card-tags">顿悟 · 无住 · 觉性 · 当下圆满 · 正念 · 慈悲</div>
+    </div>
+  </div>
+
+  <!-- Cross-Domain Links -->
+  <div class="cross-domain">
+    <div class="cross-title">跨学科主题关联</div>
+    <div class="cross-grid">
+      <div class="cross-item">
+        <div class="cross-item-name">苦难</div>
+        <div class="cross-item-links">佛教四圣谛<br>尼采悲剧精神<br>CBT · 鲍曼</div>
+      </div>
+      <div class="cross-item">
+        <div class="cross-item-name">自我</div>
+        <div class="cross-item-links">苏格拉底<br>荣格个体化<br>禅宗无我 · 戈夫曼</div>
+      </div>
+      <div class="cross-item">
+        <div class="cross-item-name">权力</div>
+        <div class="cross-item-links">福柯规训<br>马克思异化<br>尼采权力意志</div>
+      </div>
+      <div class="cross-item">
+        <div class="cross-item-name">意义</div>
+        <div class="cross-item-links">海德格尔此在<br>基督教救赎<br>心流 · 弗兰克尔</div>
+      </div>
+      <div class="cross-item">
+        <div class="cross-item-name">认知与系统</div>
+        <div class="cross-item-links">有限理性<br>分布式认知<br>佛教八识 · 预测加工</div>
+      </div>
+      <div class="cross-item">
+        <div class="cross-item-name">人-技术耦合</div>
+        <div class="cross-item-links">延展认知<br>联合认知系统<br>行动者网络 · 上手状态</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Entry Types -->
+  <div class="entry-types">
+    <div class="entry-type">
+      <div class="entry-type-num">120+</div>
+      <div class="entry-type-title">思想家 Thinker</div>
+      <div class="entry-type-desc">基本信息 / 核心命题 / 思想脉络 / 关键著作 / 重要概念 / 思想坐标 / 当代应用 / 常见误读 / 跨学科关联 / 进阶阅读 / 关联 Skills</div>
+    </div>
+    <div class="entry-type">
+      <div class="entry-type-num">87+</div>
+      <div class="entry-type-title">概念 Concept</div>
+      <div class="entry-type-desc">一句话定义 / 历史脉络 / 核心要义 / 通俗 vs 学术 / 与相关概念关系 / 代表思想家 / 应用场景 / 常见误读 / 跨学科关联 / 进阶阅读</div>
+    </div>
+    <div class="entry-type">
+      <div class="entry-type-num">83+</div>
+      <div class="entry-type-title">Skills 框架</div>
+      <div class="entry-type-desc">YAML frontmatter / 一句话功能 / 何时用/不用 / 理论基础 / 操作流程（Step 1–N）/ 完整示例 / 反例。可被 Agent runtime 直接索引调用</div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div class="footer-left">open-cognition · peace-lab-global · github</div>
+    <div class="footer-right">
+      <span>v0.1 五领域骨架</span>
+      <span>v0.2 六领域扩展</span>
+      <span>v0.3 文学融合</span>
+      <span>v0.4 认知系统</span>
+      <span>v0.5 CSE 深度扩展</span>
+      <span>v0.6 英文版+图谱</span>
+    </div>
+  </div>
+
+  <!-- Decorative doodles -->
+  <div class="doodle-star" style="top:80px;right:280px;">✦</div>
+  <div class="doodle-star" style="top:180px;left:45px;font-size:14px;">✧</div>
+  <div class="doodle-circle" style="top:320px;right:60px;"></div>
+  <div class="doodle-circle" style="bottom:180px;left:50px;width:14px;height:14px;"></div>
+  <div class="doodle-line" style="top:260px;left:300px;transform:rotate(-15deg);"></div>
+  <div class="doodle-line" style="bottom:280px;right:200px;width:24px;transform:rotate(25deg);"></div>
+</div>
+</body>
+</html>

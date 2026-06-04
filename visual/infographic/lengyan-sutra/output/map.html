@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>楞严经全经脉络图</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600;700;900&family=Ma+Shan+Zheng&family=ZCOOL+XiaoWei&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        :root {
+            --ink: #1a1410;
+            --parchment: #f5f0e8;
+            --gold: #c9a84c;
+            --gold-light: #e8d5a3;
+            --gold-dark: #8b6914;
+            --cinnabar: #b73a3a;
+            --cinnabar-light: #d47272;
+            --teal: #2d5a52;
+            --teal-light: #4a8a7c;
+            --paper: #faf6ef;
+            --shadow: rgba(26, 20, 16, 0.12);
+        }
+
+        @page { size: A4 portrait; margin: 0; }
+        
+        body {
+            font-family: 'Noto Serif SC', serif;
+            background: var(--ink);
+            color: var(--ink);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            padding: 24px;
+        }
+
+        .page {
+            width: 210mm;
+            min-height: 297mm;
+            background: var(--paper);
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+            padding: 36px 32px;
+        }
+
+        /* Background decorations */
+        .page::before {
+            content: '';
+            position: absolute;
+            top: -100px;
+            right: -100px;
+            width: 400px;
+            height: 400px;
+            border: 1px solid var(--gold);
+            border-radius: 50%;
+            opacity: 0.15;
+        }
+
+        .page::after {
+            content: '';
+            position: absolute;
+            bottom: -60px;
+            left: -60px;
+            width: 250px;
+            height: 250px;
+            border: 1px solid var(--cinnabar);
+            border-radius: 50%;
+            opacity: 0.1;
+        }
+
+        .bg-pattern {
+            position: absolute;
+            inset: 0;
+            background-image: 
+                radial-gradient(circle at 20% 30%, var(--gold-light) 0%, transparent 50%),
+                radial-gradient(circle at 80% 70%, rgba(183, 58, 58, 0.05) 0%, transparent 50%);
+            pointer-events: none;
+        }
+
+        .border-frame {
+            position: absolute;
+            inset: 14px;
+            border: 1px solid var(--gold);
+            opacity: 0.35;
+            pointer-events: none;
+        }
+
+        .border-frame::before {
+            content: '';
+            position: absolute;
+            inset: 4px;
+            border: 1px solid var(--gold);
+            opacity: 0.5;
+        }
+
+        /* Corner ornaments */
+        .corner {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            pointer-events: none;
+            opacity: 0.5;
+        }
+        .corner-tl { top: 18px; left: 18px; border-top: 2px solid var(--gold-dark); border-left: 2px solid var(--gold-dark); }
+        .corner-tr { top: 18px; right: 18px; border-top: 2px solid var(--gold-dark); border-right: 2px solid var(--gold-dark); }
+        .corner-bl { bottom: 18px; left: 18px; border-bottom: 2px solid var(--gold-dark); border-left: 2px solid var(--gold-dark); }
+        .corner-br { bottom: 18px; right: 18px; border-bottom: 2px solid var(--gold-dark); border-right: 2px solid var(--gold-dark); }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 18px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .sutra-name {
+            font-family: 'Ma Shan Zheng', cursive;
+            font-size: 42px;
+            color: var(--cinnabar);
+            letter-spacing: 12px;
+            margin-bottom: 4px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+
+        .subtitle {
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 15px;
+            color: var(--gold-dark);
+            letter-spacing: 4px;
+            margin-bottom: 8px;
+        }
+
+        .divider {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            margin: 8px 0;
+        }
+
+        .divider-line {
+            width: 80px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--gold), transparent);
+        }
+
+        .divider-icon {
+            width: 8px;
+            height: 8px;
+            border: 1px solid var(--gold);
+            transform: rotate(45deg);
+        }
+
+        .tagline {
+            font-size: 12px;
+            color: var(--teal);
+            letter-spacing: 2px;
+            font-weight: 300;
+        }
+
+        /* Main Content */
+        .content {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        /* Phase cards */
+        .phase {
+            display: flex;
+            gap: 14px;
+            align-items: stretch;
+        }
+
+        .phase-marker {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 44px;
+            position: relative;
+        }
+
+        .phase-num {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 16px;
+            font-weight: 700;
+            flex-shrink: 0;
+            position: relative;
+            z-index: 2;
+        }
+
+        .phase-num.era-1 { background: var(--cinnabar); color: white; }
+        .phase-num.era-2 { background: var(--gold-dark); color: white; }
+        .phase-num.era-3 { background: var(--teal); color: white; }
+        .phase-num.era-4 { background: var(--cinnabar); color: white; }
+        .phase-num.era-5 { background: var(--gold-dark); color: white; }
+        .phase-num.era-6 { background: var(--teal); color: white; }
+        .phase-num.era-7 { background: var(--cinnabar); color: white; }
+
+        .phase-line {
+            flex: 1;
+            width: 2px;
+            background: linear-gradient(to bottom, var(--gold-light), var(--gold), var(--gold-light));
+            opacity: 0.4;
+            margin: 4px 0;
+        }
+
+        .phase:last-child .phase-line {
+            display: none;
+        }
+
+        .phase-card {
+            flex: 1;
+            background: white;
+            border-radius: 8px;
+            padding: 14px 16px;
+            box-shadow: 0 2px 12px var(--shadow);
+            border-left: 3px solid var(--gold);
+            position: relative;
+            transition: transform 0.2s;
+        }
+
+        .phase-card.era-1 { border-left-color: var(--cinnabar); }
+        .phase-card.era-2 { border-left-color: var(--gold-dark); }
+        .phase-card.era-3 { border-left-color: var(--teal); }
+        .phase-card.era-4 { border-left-color: var(--cinnabar); }
+        .phase-card.era-5 { border-left-color: var(--gold-dark); }
+        .phase-card.era-6 { border-left-color: var(--teal); }
+        .phase-card.era-7 { border-left-color: var(--cinnabar); }
+
+        .phase-title {
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 17px;
+            font-weight: 700;
+            margin-bottom: 6px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .phase-title.era-1 { color: var(--cinnabar); }
+        .phase-title.era-2 { color: var(--gold-dark); }
+        .phase-title.era-3 { color: var(--teal); }
+        .phase-title.era-4 { color: var(--cinnabar); }
+        .phase-title.era-5 { color: var(--gold-dark); }
+        .phase-title.era-6 { color: var(--teal); }
+        .phase-title.era-7 { color: var(--cinnabar); }
+
+        .phase-title-icon {
+            font-size: 18px;
+        }
+
+        .phase-desc {
+            font-size: 12px;
+            color: #555;
+            line-height: 1.7;
+            margin-bottom: 8px;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .tag {
+            font-size: 10px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            background: var(--parchment);
+            color: var(--ink);
+            border: 1px solid rgba(0,0,0,0.06);
+            white-space: nowrap;
+        }
+
+        .tag.era-1 { background: rgba(183, 58, 58, 0.08); color: var(--cinnabar); }
+        .tag.era-2 { background: rgba(139, 105, 20, 0.08); color: var(--gold-dark); }
+        .tag.era-3 { background: rgba(45, 90, 82, 0.08); color: var(--teal); }
+        .tag.era-4 { background: rgba(183, 58, 58, 0.08); color: var(--cinnabar); }
+        .tag.era-5 { background: rgba(139, 105, 20, 0.08); color: var(--gold-dark); }
+        .tag.era-6 { background: rgba(45, 90, 82, 0.08); color: var(--teal); }
+        .tag.era-7 { background: rgba(183, 58, 58, 0.08); color: var(--cinnabar); }
+
+        /* Special horizontal sections */
+        .horizontal-section {
+            background: white;
+            border-radius: 8px;
+            padding: 14px 16px;
+            box-shadow: 0 2px 12px var(--shadow);
+            margin-top: 4px;
+        }
+
+        .section-title {
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--gold-dark);
+            margin-bottom: 10px;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .section-title::before,
+        .section-title::after {
+            content: '';
+            width: 30px;
+            height: 1px;
+            background: var(--gold);
+        }
+
+        .items-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 8px;
+        }
+
+        .item-box {
+            text-align: center;
+            padding: 8px 4px;
+            border-radius: 6px;
+            background: var(--parchment);
+            border: 1px solid rgba(0,0,0,0.04);
+        }
+
+        .item-box-num {
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--gold-dark);
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .item-box-label {
+            font-size: 11px;
+            color: #555;
+        }
+
+        /* Twenty-five sections grid */
+        .grid-25 {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 5px;
+            margin-top: 6px;
+        }
+
+        .cell-25 {
+            font-size: 9px;
+            padding: 4px 2px;
+            text-align: center;
+            border-radius: 4px;
+            background: var(--parchment);
+            color: #555;
+            line-height: 1.3;
+        }
+
+        .cell-25.highlight {
+            background: var(--teal);
+            color: white;
+            font-weight: 600;
+        }
+
+        /* Bottom banner */
+        .banner {
+            margin-top: 14px;
+            background: linear-gradient(135deg, var(--teal), var(--teal-light));
+            border-radius: 8px;
+            padding: 14px 20px;
+            color: white;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .banner::before {
+            content: '';
+            position: absolute;
+            top: -20px;
+            right: -20px;
+            width: 80px;
+            height: 80px;
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 50%;
+        }
+
+        .banner-title {
+            font-family: 'ZCOOL XiaoWei', serif;
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 6px;
+            letter-spacing: 2px;
+        }
+
+        .banner-desc {
+            font-size: 11px;
+            opacity: 0.9;
+            line-height: 1.6;
+        }
+
+        /* Print optimization */
+        @media print {
+            body { background: white; padding: 0; }
+            .page { box-shadow: none; width: 100%; min-height: auto; }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .page { width: 100%; min-height: auto; padding: 24px 20px; }
+            .sutra-name { font-size: 32px; letter-spacing: 6px; }
+            .items-grid { grid-template-columns: repeat(3, 1fr); }
+            .grid-25 { grid-template-columns: repeat(5, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="bg-pattern"></div>
+        <div class="border-frame"></div>
+        <div class="corner corner-tl"></div>
+        <div class="corner corner-tr"></div>
+        <div class="corner corner-bl"></div>
+        <div class="corner corner-br"></div>
+
+        <header class="header">
+            <h1 class="sutra-name">楞严经</h1>
+            <p class="subtitle">大佛顶首楞严神咒</p>
+            <div class="divider">
+                <div class="divider-line"></div>
+                <div class="divider-icon"></div>
+                <div class="divider-line"></div>
+            </div>
+            <p class="tagline">全经十卷脉络一览 · 从显见真性到圆证菩提</p>
+        </header>
+
+        <main class="content">
+            <!-- Phase 1 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-1">一</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-1">
+                    <div class="phase-title era-1">
+                        <span class="phase-title-icon">🔥</span>
+                        缘起：阿难遇魔与文殊菩萨救度
+                    </div>
+                    <div class="phase-desc">
+                        阿难尊者因乞食，遭摩登伽女以先梵天咒摄入淫席，戒体将毁之际，佛陀令文殊菩萨持楞严咒前往救护。阿难归后，佛陀开显一切众生皆具如来智慧德相。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-1">阿难尊者</span>
+                        <span class="tag era-1">摩登伽女</span>
+                        <span class="tag era-1">楞严神咒</span>
+                        <span class="tag era-1">文殊菩萨</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 2 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-2">二</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-2">
+                    <div class="phase-title era-2">
+                        <span class="phase-title-icon">❓</span>
+                        七处征心：心究竟在何处？
+                    </div>
+                    <div class="phase-desc">
+                        佛陀七次征问阿难：心在何处？阿难依次回答：在身内、身外、潜伏根里、内外两间、随缘处有、中间、无着。佛陀一一破斥，揭示"七番征心"皆妄，心非在处。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-2">身内</span>
+                        <span class="tag era-2">身外</span>
+                        <span class="tag era-2">根里</span>
+                        <span class="tag era-2">内外间</span>
+                        <span class="tag era-2">随缘处</span>
+                        <span class="tag era-2">中间</span>
+                        <span class="tag era-2">无着</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 3 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-3">三</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-3">
+                    <div class="phase-title era-3">
+                        <span class="phase-title-icon">👁</span>
+                        十番显见：显发见性不生灭
+                    </div>
+                    <div class="phase-desc">
+                        佛陀以十指开示见性不灭之理：见性不动、见性不灭、见性不失、见性不还、见性不杂、见性无碍、见性不分、见性超情、见性超见、见性离见。揭示见性即是真心。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-3">不动</span>
+                        <span class="tag era-3">不灭</span>
+                        <span class="tag era-3">不失</span>
+                        <span class="tag era-3">不还</span>
+                        <span class="tag era-3">不杂</span>
+                        <span class="tag era-3">无碍</span>
+                        <span class="tag era-3">不分</span>
+                        <span class="tag era-3">超情见</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 4 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-4">四</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-4">
+                    <div class="phase-title era-4">
+                        <span class="phase-title-icon">🌐</span>
+                        世界构造：五阴六入十二处十八界七大
+                    </div>
+                    <div class="phase-desc">
+                        详细分析世界与身心的构成要素，指出一切现象皆为如来藏妙真如性所显。此段为全经理论核心，阐明"诸法所生，唯心所现"的根本原理。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-4">五阴</span>
+                        <span class="tag era-4">六入</span>
+                        <span class="tag era-4">十二处</span>
+                        <span class="tag era-4">十八界</span>
+                        <span class="tag era-4">七大</span>
+                        <span class="tag era-4">如来藏</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 5 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-5">五</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-5">
+                    <div class="phase-title era-5">
+                        <span class="phase-title-icon">🛤</span>
+                        二十五圆通：诸圣修行法门
+                    </div>
+                    <div class="phase-desc">
+                        二十五位圣者各自陈述圆通法门。最终文殊菩萨拣选耳根圆通为最殊胜，与娑婆世界众生根器最为契合。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-5">六尘圆通</span>
+                        <span class="tag era-5">六根圆通</span>
+                        <span class="tag era-5">六识圆通</span>
+                        <span class="tag era-5">七大圆通</span>
+                        <span class="tag era-5">耳根圆通</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Twenty-five detail -->
+            <div class="horizontal-section">
+                <div class="section-title">二十五圆通圣者</div>
+                <div class="grid-25">
+                    <div class="cell-25">憍陈那<br>声尘</div>
+                    <div class="cell-25">优波尼沙陀<br>色尘</div>
+                    <div class="cell-25">香严童子<br>香尘</div>
+                    <div class="cell-25">药王药上<br>味尘</div>
+                    <div class="cell-25">跋陀婆罗<br>触尘</div>
+                    <div class="cell-25">摩诃迦叶<br>法尘</div>
+                    <div class="cell-25">阿那律陀<br>眼根</div>
+                    <div class="cell-25">周利槃特<br>鼻根</div>
+                    <div class="cell-25">憍梵钵提<br>舌根</div>
+                    <div class="cell-25">毕陵伽婆蹉<br>身根</div>
+                    <div class="cell-25">须菩提<br>意根</div>
+                    <div class="cell-25">舍利弗<br>眼识</div>
+                    <div class="cell-25">普贤菩萨<br>耳识</div>
+                    <div class="cell-25">孙陀罗难陀<br>鼻识</div>
+                    <div class="cell-25">富楼那<br>舌识</div>
+                    <div class="cell-25">优波离<br>身识</div>
+                    <div class="cell-25">大目犍连<br>意识</div>
+                    <div class="cell-25">乌刍瑟摩<br>火大</div>
+                    <div class="cell-25">持地菩萨<br>地大</div>
+                    <div class="cell-25">月光童子<br>水大</div>
+                    <div class="cell-25">琉璃光法王子<br>风大</div>
+                    <div class="cell-25">虚空藏菩萨<br>空大</div>
+                    <div class="cell-25">弥勒菩萨<br>识大</div>
+                    <div class="cell-25">大势至菩萨<br>根大</div>
+                    <div class="cell-25 highlight">观世音菩萨<br>耳根圆通</div>
+                </div>
+            </div>
+
+            <!-- Phase 6 -->
+            <div class="phase" style="margin-top: 8px;">
+                <div class="phase-marker">
+                    <div class="phase-num era-6">六</div>
+                    <div class="phase-line"></div>
+                </div>
+                <div class="phase-card era-6">
+                    <div class="phase-title era-6">
+                        <span class="phase-title-icon">🛡</span>
+                        四种清净明诲与楞严咒
+                    </div>
+                    <div class="phase-desc">
+                        佛陀宣说四条根本戒：不淫、不杀、不盗、不妄，为修行根本。随后宣说楞严咒——佛顶光明摩诃萨怛多般怛啰无上神咒，为全经护法核心。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-6">不淫</span>
+                        <span class="tag era-6">不杀</span>
+                        <span class="tag era-6">不盗</span>
+                        <span class="tag era-6">不妄</span>
+                        <span class="tag era-6">楞严神咒</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phase 7 -->
+            <div class="phase">
+                <div class="phase-marker">
+                    <div class="phase-num era-7">七</div>
+                </div>
+                <div class="phase-card era-7">
+                    <div class="phase-title era-7">
+                        <span class="phase-title-icon">⚠</span>
+                        五十种阴魔：修行辨魔指南
+                    </div>
+                    <div class="phase-desc">
+                        详述修行者在色、受、想、行、识五阴中可能遭遇的五十种魔境，告诫修行人当保持正觉，不取不着，方能超越魔障。
+                    </div>
+                    <div class="tags">
+                        <span class="tag era-7">色阴十魔</span>
+                        <span class="tag era-7">受阴十魔</span>
+                        <span class="tag era-7">想阴十魔</span>
+                        <span class="tag era-7">行阴十魔</span>
+                        <span class="tag era-7">识阴十魔</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Five Aggregates detail -->
+            <div class="horizontal-section">
+                <div class="section-title">五阴魔境概览</div>
+                <div class="items-grid">
+                    <div class="item-box">
+                        <span class="item-box-num">10</span>
+                        <span class="item-box-label">色阴魔<br>相由心生</span>
+                    </div>
+                    <div class="item-box">
+                        <span class="item-box-num">10</span>
+                        <span class="item-box-label">受阴魔<br>苦乐忧喜</span>
+                    </div>
+                    <div class="item-box">
+                        <span class="item-box-num">10</span>
+                        <span class="item-box-label">想阴魔<br>妄见神通</span>
+                    </div>
+                    <div class="item-box">
+                        <span class="item-box-num">10</span>
+                        <span class="item-box-label">行阴魔<br>生灭妄计</span>
+                    </div>
+                    <div class="item-box">
+                        <span class="item-box-num">10</span>
+                        <span class="item-box-label">识阴魔<br>精明虚谬</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Bottom Banner -->
+            <div class="banner">
+                <div class="banner-title">修行要诀</div>
+                <div class="banner-desc">
+                    反闻闻自性，性成无上道 · 将此深心奉尘刹，是则名为报佛恩<br>
+                    全经以「显见真性」始，以「破魔证真」终，开示末法众生一条耳根圆通、反闻自性的修行正路
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
