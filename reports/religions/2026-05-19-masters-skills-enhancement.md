@@ -140,4 +140,4 @@
 
 ---
 
-**报告保存路径**：`/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition/reports/MASTERS_SKILLS_ENHANCEMENT_REPORT.md`
+**报告保存路径**：`reports/religions/2026-05-19-masters-skills-enhancement.md`

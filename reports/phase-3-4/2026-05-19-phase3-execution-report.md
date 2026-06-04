@@ -210,4 +210,4 @@
 
 ---
 
-**报告保存路径**：`/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition/reports/PHASE3_EXECUTION_REPORT.md`
+**报告保存路径**：`reports/phase-3-4/2026-05-19-phase3-execution-report.md`

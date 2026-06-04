@@ -1,0 +1,134 @@
+# =============================================================================
+# Open Cognition — .gitignore
+# =============================================================================
+# This is a knowledge-base repository. Anything that is not structured markdown
+# content (domains/, skills/, meta/, reports/, visual/, root-level .md/.json)
+# is almost certainly noise and should be ignored.
+
+# -----------------------------------------------------------------------------
+# macOS / filesystem cruft
+# -----------------------------------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# -----------------------------------------------------------------------------
+# Node.js / JS tooling (if any local preview tooling is added later)
+# -----------------------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# -----------------------------------------------------------------------------
+# AI / agent local state — these contain session data, not source
+# -----------------------------------------------------------------------------
+.qoder/
+.claude/
+.cursor/
+.vscode/
+.idea/
+
+# -----------------------------------------------------------------------------
+# Editor / IDE swap and backup files
+# -----------------------------------------------------------------------------
+*.swp
+*.swo
+*~
+*.bak
+*.orig
+.project
+.classpath
+.settings/
+
+# -----------------------------------------------------------------------------
+# Logs, env, secrets
+# -----------------------------------------------------------------------------
+*.log
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+*.key
+
+# -----------------------------------------------------------------------------
+# Build / compiled artifacts
+# -----------------------------------------------------------------------------
+dist/
+build/
+out/
+.cache/
+.next/
+.parcel-cache/
+
+# -----------------------------------------------------------------------------
+# Python (in case scripts are added)
+# -----------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# -----------------------------------------------------------------------------
+# Assets — build-time and browser scratch
+#
+# `meta/logo/_tmp/` holds transient browser profile data generated when
+# rendering logo previews (Chrome/Chromium cache, IndexedDB, Local Storage,
+# Extension state, etc.). It must never be committed:
+#   • It contains personal browser state (cookies, cache, history).
+#   • It adds tens of MBs of binary noise to the repo.
+#
+# If you need to render logo previews locally, keep _tmp/ untracked.
+# If it was checked in by mistake, remove with:
+#   git rm -r --cached meta/logo/_tmp
+# -----------------------------------------------------------------------------
+meta/logo/_tmp/
+meta/logo/.cache/
+*.crdownload
+*.part
+
+# -----------------------------------------------------------------------------
+# Archives and binaries (we don't ship these)
+# -----------------------------------------------------------------------------
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+*.dmg
+*.exe
+*.app
+
+# -----------------------------------------------------------------------------
+# PDFs / Office — only commit if intentionally authored as source content
+# (Default-ignore common transient exports; allow explicit additions.)
+# -----------------------------------------------------------------------------
+# *.pdf
+# *.docx
+# *.xlsx
+# *.pptx
+
+# -----------------------------------------------------------------------------
+# OS-specific
+# -----------------------------------------------------------------------------
+Icon?
+ehthumbs.db
+
+# -----------------------------------------------------------------------------
+# Local overrides — put personal ignores in .gitignore.local (never committed)
+# -----------------------------------------------------------------------------
+.gitignore.local

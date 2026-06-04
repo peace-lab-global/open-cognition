@@ -161,4 +161,4 @@ domains/arts/
 
 ---
 
-**报告保存路径**：`/Users/allengaller/Documents/GitHub/peace-lab-global/open-cognition/reports/LITERATURE_ARTS_EXPANSION_REPORT.md`
+**报告保存路径**：`reports/religions/2026-05-20-literature-arts-expansion.md`
