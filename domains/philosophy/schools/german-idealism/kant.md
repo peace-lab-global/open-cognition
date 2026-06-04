@@ -82,6 +82,11 @@ sources:
 
 - [皮亚杰 · 图式](../../../psychology/schools/cognitive/piaget.md) `[同源]` 图式作为认知结构与康德范畴的功能性类似
 - [罗尔斯 · 正义论](../../concepts/epistemology.md) `[发展]` 罗尔斯将康德的尊严与普遍化原则程序化
+- [金刚经·无相 · Diamond Sūtra: Non-Attachment](../../../../religion/buddhism/concepts/cognitive-theory/diamond-sutra-non-attachment.md) `[平行]` 无相类似于现象界（可认知）vs 物自体（不可执著）
+- [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 末那识的"先天我执"与康德的先验统觉有结构类似性
+- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` "直观无概念则盲"与"现量离分别"形成对照
+- [三性 · Trisvabhāva](../../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 遍计 ≈ 现象（经认知构造），圆成实 ≈ 物自身的可通达版本
+- [二谛 · Satyadvaya](../../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行但不同]` 康德是本体论二分，龙树是方法论分层
 
 ## 进阶阅读
 

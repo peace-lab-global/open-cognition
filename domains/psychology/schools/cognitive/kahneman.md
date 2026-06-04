@@ -86,6 +86,8 @@ sources: [《思考，快与慢》, 《不确定状况下的判断》, 《噪声
 - [皮亚杰 Piaget](./piaget.md) — [继承] 实证认知科学传统
 - [认知失调](../../concepts/cognitive-dissonance.md) — [平行] 系统性认知现象
 - [马克思·韦伯 Weber](../../../sociology/schools/classical/weber.md) — [借用] 工具理性 vs 行为理性
+- [种子与熏习 · Bīja and Vāsanā](../../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) — [平行] 自动化的认知模式 ≈ 名言种子的现行
+- [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) — [平行] 前五识+第六识（自动加工）vs 第七识+第八识（深层结构）
 
 ## 进阶阅读
 

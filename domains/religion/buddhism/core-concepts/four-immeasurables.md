@@ -1,0 +1,81 @@
+---
+id: religion.buddhism.core.four-immeasurables
+title: 四无量心 Four Immeasurables
+type: concept
+domain: religion
+school: buddhism-general
+era: ancient
+tags: [四无量心, 慈悲喜舍, brahmavihara]
+aliases: [Four Immeasurables, 四梵住, brahmavihāra]
+sources: [巴利三藏, 《清净道论》]
+---
+
+# 四无量心 Four Immeasurables
+
+## 一句话定义
+
+**四无量心**（慈悲喜舍）是佛教对"如何对待他人"的四种无量修持——**慈**愿众生得乐，**悲**愿众生离苦，**喜**见众生得乐而欢喜，**舍**平等对待一切众生。
+
+## 核心要义
+
+### 1. 慈 Maitrī
+愿一切众生具乐及乐因。
+
+### 2. 悲 Karuṇā
+愿一切众生离苦及苦因。
+
+### 3. 喜 Muditā
+见众生得乐而心生欢喜（对治嫉妒）。
+
+### 4. 舍 Upekṣā
+平等对待亲、中、怨（对治执著与排斥）。
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "慈悲 = 同情" | 悲是主动愿离苦，不只是同情 |
+| "舍 = 冷漠" | 舍是平等，非冷漠 |
+| "四无量 = 情绪" | 是心所，非情绪 |
+
+## 与相关概念的关系
+
+- [三宝](./three-jewels.md) — [应用] 僧团修四无量
+- [三学 · 定](./three-trainings.md) — [下位] 四无量心是定修
+- [菩萨行] — [下位] 四无量是菩萨六度的情感基础
+- [基督教之爱](../../traditions/christianity/grace-redemption.md) — [平行] Agape 对照
+
+## 应用场景
+
+- **心理学**：慈心冥想（LKM）治疗抑郁、创伤
+- **冲突调解**：慈悲喜舍作为中介资源
+- **组织管理**：慈悲领导力
+- **教育**：社会情感学习 SEL
+
+## 常见误读
+
+- ❌ "舍 = 冷漠" → 舍是平等的关怀。
+- ❌ "慈悲 = 软弱" → 是力量的柔软。
+- ❌ "四无量只是感觉" → 是系统修持。
+
+## 跨学科关联
+
+- [罗杰斯 · 无条件积极关注](../../psychology/schools/humanistic/rogers.md) — [平行] 无条件接纳
+- [马丁·布伯 · 我与你] — [平行] 主体间性
+- [关怀伦理学] — [继承] 慈悲作为伦理
+- [正念 MBSR/MBCT] — [继承] 慈心冥想
+
+## 进阶阅读
+
+**原典**
+- 觉音《清净道论·梵住品》
+
+**研究**
+- Sharon Salzberg《Lovingkindness》
+
+**入门**
+- 一行禅师《慈悲冥想》
+
+## 关联 Skills
+
+- [慈心冥想] — （待建）

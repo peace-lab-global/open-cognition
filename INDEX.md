@@ -27,7 +27,7 @@
 
 ### 宗教 Religion
 - [宗教领域导览](./domains/religion/README.md)
-- 佛教：[四圣谛与八正道](./domains/religion/traditions/buddhism/four-noble-truths.md) · [大乘空性](./domains/religion/traditions/buddhism/sunyata.md) · [禅宗](./domains/religion/traditions/buddhism/zen.md)
+- 佛教：[佛教总览与十三经](./domains/religion/buddhism/README.md) · [十三经图谱集](./domains/religion/buddhism/sutras/README.md) · [四圣谛与八正道](./domains/religion/traditions/buddhism/four-noble-truths.md) · [大乘空性](./domains/religion/traditions/buddhism/sunyata.md) · [禅宗](./domains/religion/traditions/buddhism/zen.md)
 - 基督教：[恩典与救赎](./domains/religion/traditions/christianity/grace-redemption.md) · [基督教神秘主义](./domains/religion/traditions/christianity/mysticism.md)
 - 伊斯兰：[五功](./domains/religion/traditions/islam/five-pillars.md) · [苏菲主义](./domains/religion/traditions/islam/sufism.md)
 - 犹太教：[律法与盟约](./domains/religion/traditions/judaism/covenant.md) · [卡巴拉](./domains/religion/traditions/judaism/kabbalah.md)

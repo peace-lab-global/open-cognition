@@ -78,6 +78,11 @@ sources:
 
 - [庄子 · 言不尽意](../../schools/eastern/laozi.md) `[平行]` 对语言界限的相似洞察（庄学传统中可比对者非老子本身，此处为示例性关联）
 - [禅宗](../../../religion/traditions/buddhism/zen.md) `[平行]` "不立文字，教外别传"与"语言游戏"对教义可言说性的态度可作比较
+- [金刚经·无相 · Diamond Sūtra: Non-Attachment](../../../../religion/buddhism/concepts/cognitive-theory/diamond-sutra-non-attachment.md) `[平行]` 意义在于使用中，不住于固定的"意义"
+- [公案与话头的认知机制 · Kōan and Huàtóu Cognitive Mechanics](../../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` "不可说"的呈现
+- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[张力]` 自证的"不可说性"与私人语言论证的批评
+- [七处征心 · Seven Places of Mind-Seeking](../../../../religion/buddhism/concepts/cognitive-theory/qichu-zhengxin.md) `[平行]` 语言不能表达的，可以通过行动（修行）指向
+- [二谛 · Satyadvaya](../../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` "用完即弃"与"不执二谛"
 
 ## 进阶阅读
 

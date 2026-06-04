@@ -81,6 +81,8 @@ sources:
 
 - [禅宗](../../../religion/traditions/buddhism/zen.md) `[平行]` "上手"与"日用即道"在结构上相通
 - [罗杰斯 · 真实自我](../../../psychology/schools/humanistic/rogers.md) `[互补]` 本真性概念在人本心理学中得到回响
+- [八还辨见 · Eight Returns to Distinguish Seeing](../../../../religion/buddhism/concepts/cognitive-theory/baihuan-bianjian.md) `[平行]` Aletheia（无蔽）与见性的"不可遮蔽性"
+- [七处征心 · Seven Places of Mind-Seeking](../../../../religion/buddhism/concepts/cognitive-theory/qichu-zhengxin.md) `[平行]` 存在不是存在者，心不是对象
 
 ## 进阶阅读
 

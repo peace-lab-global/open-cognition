@@ -54,4 +54,4 @@ AI 应用流程：
 
 ## 撰写新 Skill
 
-参考 [templates/skill-template.md](../templates/skill-template.md) 与 [CONTRIBUTING.md · Skill 撰写要求](../CONTRIBUTING.md#六skill-撰写要求)。
+参考 [meta/templates/skill-template.md](../meta/templates/skill-template.md) 与 [CONTRIBUTING.md · Skill 撰写要求](../CONTRIBUTING.md#六skill-撰写要求)。

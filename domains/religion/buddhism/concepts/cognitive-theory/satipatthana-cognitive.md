@@ -1,0 +1,164 @@
+---
+id: satipatthana-cognitive
+title: 四念处作为元认知训练 · Satipaṭṭhāna as Meta-Cognitive Training
+type: concept
+domain: religion
+school: buddhism-theravada
+era: early-buddhist
+tags:
+  - 四念处
+  - 正念
+  - 元认知
+  - 内观
+aliases:
+  - 四念住
+  - satipaṭṭhāna
+  - smṛtyupasthāna
+sources:
+  - 《大念处经》(*Mahāsatipaṭṭhāna Sutta*, DN 22)
+  - 《念处经》(*Satipaṭṭhāna Sutta*, MN 10)
+  - 觉音《清净道论》
+  - Ñāṇaponika, *The Heart of Buddhist Meditation*, 1954
+  - Analayo, *Satipaṭṭhāna: The Direct Path to Realization*, 2003
+---
+
+# 四念处作为元认知训练 · Satipaṭṭhāna as Meta-Cognitive Training
+
+## 一句话定义
+
+四念处（satipaṭṭhāna / smṛtyupasthāna）是佛陀称为"唯一之道"（ekāyana magga）的元认知训练：通过**持续、如实、无拣择地觉察身、受、心、法**四个维度，切断缘起链的"受缘爱"环节，达到苦的止息。从当代视角读：这是人类历史上最早的**系统性元认知**（meta-cognition）训练方案。
+
+## 提出者与背景
+
+- **来源**：《大念处经》（DN 22）与《念处经》（MN 10）
+- **系统展开**：觉音《清净道论》把四念处整合为 vipassanā 的核心
+- **现代传播**：马哈希（Mahāsi Sayādaw）的"标注法"（noting）；葛印卡（Goenka）的身体扫描
+- **针对的问题**：如何在日常生活中持续修行，不止在坐垫上？如何让"正念"成为解脱的直接道路？
+
+## 核心要义
+
+### 四念处的认知架构
+
+| 念处 | 巴利文 | 观察对象 | 元认知功能 | 对治的倒见 |
+|------|--------|----------|------------|------------|
+| **身念处** | kāyānupassanā | 呼吸、姿势、身体成分、四大 | 身体意识 | 净倒（身不净计净） |
+| **受念处** | vedanānupassanā | 乐/苦/不苦不乐受 | 情感评估意识 | 乐倒（苦计为乐） |
+| **心念处** | cittānupassanā | 心的状态（贪/嗔/痴/散乱/集中等） | 心智状态意识 | 常倒（无常计常） |
+| **法念处** | dhammānupassanā | 五盖、五蕴、七觉支、四圣谛 | 结构性元认知 | 我倒（无我计我） |
+
+> 四念处不是"四种冥想"，而是**同一觉察能力在四个维度上的应用**。任何一刹那的正念，都同时涵盖四念处。
+
+### 元认知的操作结构
+
+每段观察都遵循同一公式：
+
+1. **于内观 X**（ajjhatta）：观察自己的 X
+2. **于外观 X**（bahiddhā）：观察他人的 X
+3. **于内外观 X**：观察自他的交互
+4. **观 X 的生法**（samudaya-dhammā）：观察 X 如何生起
+5. **观 X 的灭法**（vaya-dhammā）：观察 X 如何消失
+6. **建立"有 X"的纯然正知**（ñāṇa-mattāya paṭissati-mattāya）：只是知道、只是觉察
+7. **无所依而住，不执取世间任何事物**（anissito ca viharati, na ca kiñci loke upādiyati）
+
+> 这一公式展示了**从内容觉察 → 过程觉察 → 无执安住**的三段进阶。
+
+### 受念处的关键地位
+
+四念处中，**受念处**是最关键的——它是缘起链上"受缘爱"的切断点：
+
+- 普通反应：**受 → 爱**（苦受 → 抗拒；乐受 → 抓取）
+- 念处训练：**受 → 正念 → 不进入爱**
+- 佛陀的公式："受生时知受生，受灭时知受灭"——只是知道，不进入趋避
+
+> 这是当代 **ACT（接受与承诺疗法）** 中"认知解离"的古典版本。详见 [十二因缘的认知读法](./dependent-origination-cognitive.md) 的"关键断点"段。
+
+### 法念处的结构性洞察
+
+法念处观察**结构性范畴**：
+
+| 对象 | 内容 | 认知成就 |
+|------|------|----------|
+| **五盖** | 贪欲、嗔恚、昏沉睡眠、掉举恶作、疑 | 识别障碍的生灭 |
+| **五取蕴** | 色受想行识 | 见无我（详见 [五蕴的认知读法](./five-aggregates-cognitive.md)） |
+| **六处** | 六根与六境及其束缚 | 见缘起 |
+| **七觉支** | 念、择法、精进、喜、轻安、定、舍 | 培养觉醒因素 |
+| **四圣谛** | 苦、集、灭、道 | 完整洞察 |
+
+### 正念（sati）的四个特征
+
+Ñāṇaponika 总结的正念特征：
+
+1. **接受性**（acceptance）：不拣择地接受当下
+2. **客观性**（bare attention）：只是记录，不加评判
+3. **非反应性**（non-reactivity）：不进入爱、取
+4. **当下性**（present-centeredness）：只关注当下
+
+> 这四特征构成**元认知的理想状态**——当代元认知研究（Flavell, Nelson）中"元认知监控"的极致版本。
+
+### 四念处的现代世俗化
+
+| 世俗化版本 | 来源 | 核心机制 |
+|------------|------|----------|
+| MBSR（正念减压） | Kabat-Zinn | 身念处 + 受念处 |
+| MBCT（正念认知疗法） | Segal, Williams, Teasdale | 受念处 + 心念处（针对反刍） |
+| ACT（接受与承诺疗法） | Hayes | 受念处 + 法念处（认知解离） |
+| DBT（辩证行为疗法） | Linehan | 四念处的技能化版本 |
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|------|----------|----------|
+| 正念 | "活在当下" | sati 的完整结构：念 + 正知（sampajañña）+ 精进（ātāpī） |
+| 念处 | "四种冥想" | 同一觉察能力在四个维度的应用 |
+| 观身 | "身体扫描" | 身念处的一部分（32 身分、四大等） |
+| 不评判 | "随便什么都可以" | 不进入爱、取的严格认知姿态 |
+
+## 与相关概念的关系
+
+- **基础**：[五蕴的认知读法](./five-aggregates-cognitive.md) — 法念处观察五取蕴
+- **应用**：[十二因缘的认知读法](./dependent-origination-cognitive.md) — 受念处切断缘起链
+- **协同**：[止观的认知分工](./samadhi-vipasyana.md) — 四念处是"观"的主要实践框架
+- **对照**：[默照的认知结构](./silent-illumination.md) — 禅宗对念处的非对象化版本
+- **细化**：[阿毗达磨心识论](./abhidharma-mind.md) — 心念处的具体心所分类
+
+## 应用场景
+
+- **心理治疗**：MBCT 针对抑郁反刍、ACT 针对经验回避
+- **教育**：正念训练提升学生的元认知与自我调节
+- **运动心理**：运动员的当下觉察训练
+- **组织行为**：正念领导力（mindful leadership）
+- **AI 元认知**：设计具备四念处式自我监控的智能体
+
+## 常见误读
+
+- **误读 1**：把正念等同于"放松"——正念是严格的结构化觉察，目标不是放松
+- **误读 2**：把四念处当作"四种冥想技巧"——它们是同一觉察能力的四个维度
+- **误读 3**：认为"不评判"就是"什么都接受"——不评判是不进入爱、取，不是伦理放任
+- **误读 4**：认为四念处只是心理疗法——它是通向涅槃的完整道路
+
+## 跨学科关联
+
+- [Flavell · 元认知](../../../../domains/psychology/schools/cognitive/flavell.md) `[平行]` 元认知监控
+- [Kabat-Zinn · MBSR](../../../../domains/psychology/schools/cognitive/kabat-zinn.md) `[应用]` 身念处的世俗化
+- [Hayes · ACT](../../../../domains/psychology/schools/cognitive/hayes.md) `[应用]` 受念处 + 法念处
+- [Varela · 神经现象学](../../../../domains/cognitive-systems/schools/cognitive-engineering/varela.md) `[平行]` 第一人称觉察的科学化
+
+## 进阶阅读
+
+### 原典
+- 《大念处经》（DN 22）
+- 《念处经》（MN 10）
+- 觉音《清净道论》第 8、11、14–22 章
+
+### 二手研究
+- Bhikkhu Analayo, *Satipaṭṭhāna: The Direct Path to Realization*, 2003
+- Ñāṇaponika Thera, *The Heart of Buddhist Meditation*, 1954
+- Joseph Goldstein, *Mindfulness*, 2013
+
+### 中文资源
+- 马哈希《念处经讲记》
+- 葛印卡《正念之道》
+
+## 关联 Skills
+
+- （待建：四念处日常训练 Skill）

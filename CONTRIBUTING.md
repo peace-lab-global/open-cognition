@@ -11,7 +11,7 @@
 
 ## 二、写作流程
 
-1. 在 [templates/](./templates/) 中选择匹配模板复制
+1. 在 [meta/templates/](./meta/templates/) 中选择匹配模板复制
 2. 根据模板填写所有必填字段
 3. 在 frontmatter 中按 [TAGS.md](./TAGS.md) 规范打标
 4. 至少添加 2 条权威引用（原典或重要二手研究）
@@ -41,7 +41,7 @@
 
 ## 六、Skill 撰写要求
 
-详见 [templates/skill-template.md](./templates/skill-template.md)。每个 Skill 必须：
+详见 [meta/templates/skill-template.md](./meta/templates/skill-template.md)。每个 Skill 必须：
 - 使用 YAML frontmatter（name、description、triggers）
 - 包含明确的"何时使用 / 何时不使用"
 - 提供 1 个完整使用示例与 1 个反例

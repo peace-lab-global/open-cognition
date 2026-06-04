@@ -91,6 +91,8 @@ sources:
 - [班杜拉](../../../psychology/schools/social-learning/bandura.md) `[发展]` 社会学习理论
 - [教育技术](../../../education/schools/instructional-design/skinner.md) `[应用]` 程序教学原理
 - [人工智能](../../../computer-science/schools/reinforcement-learning/skinner.md) `[启发]` 强化学习算法
+- [种子与熏习 · Bīja and Vāsanā](../../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) `[平行]` 强化塑造行为倾向
+- [十二因缘的认知读法 · Pratītyasamutpāda as Cognitive Chain](../../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) `[平行]` 触→受→爱→取 ≈ S-R 链
 
 ## 进阶阅读
 

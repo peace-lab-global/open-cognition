@@ -119,6 +119,7 @@ Husserl's phenomenology is the central hub of 20th-century continental philosoph
 - [萨特 · Jean-Paul Sartre](../existentialism/sartre.md) `[发展]` 将意向性激进化为"意识即虚无"，存在主义现象学
 - [康德 · Immanuel Kant](../german-idealism/kant.md) `[平行]` 先验哲学传统，构造概念与先验统觉的类比
 - [认知科学 · 具身认知](../../../psychology/concepts/embodied-cognition.md) `[发展]` 现象学作为具身认知研究的哲学基础
+- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 现象学直观与瑜伽现量的方法论呼应
 
 ## 进阶阅读 / Further Reading
 

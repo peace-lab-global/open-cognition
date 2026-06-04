@@ -1,6 +1,8 @@
 ---
-id: baihuan-bianjian
+id: baihuan-bianjian-legacy
 title: 八还辨见 · Eight Returnings to Discern Seeing
+status: legacy
+canonical: ./cognitive-theory/baihuan-bianjian.md
 type: concept
 domain: religion
 school: buddhism-chan
@@ -19,6 +21,13 @@ sources:
   - 慧律法师《楞严经讲义》
   - 南怀瑾《楞严经讲座》
 ---
+
+> ⚠️ **Legacy entry — 本文件为早期草稿**
+>
+> 规范版本（含认知解构 Skill、跨学科关联与完整理论脉络）请见：
+> 👉 **[cognitive-theory/baihuan-bianjian.md](./cognitive-theory/baihuan-bianjian.md)**
+>
+> 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
 # 八还辨见 · Eight Returnings to Discern Seeing
 

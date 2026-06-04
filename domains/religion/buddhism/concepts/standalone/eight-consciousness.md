@@ -1,6 +1,8 @@
 ---
-id: eight-consciousness
+id: eight-consciousness-legacy
 title: 八识体系 · Eight-Consciousness System
+status: legacy
+canonical: ./cognitive-theory/eight-consciousness.md
 type: concept
 domain: religion
 school: buddhism-yogacara
@@ -24,6 +26,13 @@ sources:
   - 瑜伽行派研究：Mark Siderits, *Buddhism as Philosophy*
   - 霍韬晦《佛教哲学导论》
 ---
+
+> ⚠️ **Legacy entry — 本文件为早期草稿**
+>
+> 规范版本（含种子—现行互熏、默认模式网络对话、完整跨学科关联与 Skill 链路）请见：
+> 👉 **[cognitive-theory/eight-consciousness.md](./cognitive-theory/eight-consciousness.md)**
+>
+> 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
 # 八识体系 · Eight-Consciousness System
 

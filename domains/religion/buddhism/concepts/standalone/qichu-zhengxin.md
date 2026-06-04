@@ -1,6 +1,8 @@
 ---
-id: qichu-zhengxin
+id: qichu-zhengxin-legacy
 title: 七处征心 · Seven Investigations of the Heart-Mind
+status: legacy
+canonical: ./cognitive-theory/qichu-zhengxin.md
 type: concept
 domain: religion
 school: buddhism-chan
@@ -20,6 +22,13 @@ sources:
   - 慧律法师《楞严经讲义》
   - 南怀瑾《楞严经讲座》
 ---
+
+> ⚠️ **Legacy entry — 本文件为早期草稿**
+>
+> 规范版本（含认知解构 Skill、跨学科关联与完整理论脉络）请见：
+> 👉 **[cognitive-theory/qichu-zhengxin.md](./cognitive-theory/qichu-zhengxin.md)**
+>
+> 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
 # 七处征心 · Seven Investigations of the Heart-Mind
 

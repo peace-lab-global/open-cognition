@@ -81,6 +81,7 @@ sources:
 - [亚里士多德 · 实践智慧](../ancient-greek/aristotle.md) `[平行]` 两者都强调情感与习惯在道德中的核心地位
 - [康德 · 德国唯心论](../german-idealism/kant.md) `[对立]` 康德用先天范畴回应休谟的怀疑论
 - [边沁 · 功利主义](../../../ethics-politics/schools/consequentialism/bentham.md) `[发展]` 休谟的情感主义道德论为功利主义奠基
+- [五蕴的认知读法 · Pañcaskandha as Cognitive Bundle](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我是一束感知
 
 ## 进阶阅读
 

@@ -1,0 +1,137 @@
+---
+id: religion.buddhism.school.yogacara
+title: 唯识 Yogācāra
+type: concept
+domain: religion
+school: buddhism-yogacara
+era: ancient
+tags: [唯识, 八识, 三性, 阿赖耶识, 转识成智]
+aliases: [Yogacara, 瑜伽行派, 唯识宗, 法相宗]
+sources: [《瑜伽师地论》, 《成唯识论》, 《解深密经》, 《摄大乘论》]
+---
+
+# 唯识 Yogācāra
+
+## 一句话定义
+
+**瑜伽行派/唯识宗**由 4–5 世纪**无著、世亲**兄弟创立，主张**三界唯心，万法唯识**——一切现象都是心识的显现，以**八识体系**与**三性说**为核心理论，是中国法相宗与日本唯识学的源头。
+
+## 历史脉络
+
+- **4–5 世纪**：无著（Asaṅga）著《瑜伽师地论》《摄大乘论》；世亲（Vasubandhu）著《唯识二十论》《唯识三十颂》。
+- **6 世纪**：陈那、护法发展认识论（量论）。
+- **7 世纪**：**玄奘**赴印求法，回国译出《成唯识论》，创立**法相宗**。
+- **8 世纪后**：传入日本（南寺、北寺）。
+- **20 世纪**：欧阳竟无、吕澂等复兴唯识学，与现代心理学对话。
+
+## 核心要义
+
+### 1. 八识体系（Aṣṭa-vijñāna）
+| 识 | 名称 | 功能 |
+|---|---|---|
+| 前五识 | 眼耳鼻舌身 | 感官认知 |
+| 第六识 | 意识 | 思维、判断 |
+| 第七识 | 末那识（Manas） | 执持自我 |
+| 第八识 | 阿赖耶识（Ālayavijñāna） | 含藏一切种子 |
+
+### 2. 三性说（Trisvabhāva）
+- **遍计所执性**：凡夫对现象的错误命名与实体化
+- **依他起性**：现象依缘起而显现
+- **圆成实性**：超越二边的真实（空性）
+
+### 3. 四分说（Catuṣ-pratyakṣa）
+心识四分：相分（对象）、见分（主体）、自证分（自我确认）、证自证分（终极见证）
+
+### 4. 转识成智（Āśraya-parāvṛtti）
+修行目标：八识转化为四智
+- 第八识 → 大圆镜智
+- 第七识 → 平等性智
+- 第六识 → 妙观察智
+- 前五识 → 成所作智
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "唯识 = 唯心论" | 唯识是认识论，不是本体论唯心 |
+| "阿赖耶识 = 灵魂" | 阿赖耶识是流动的、无我的，不是永恒实体 |
+| "种子 = 基因" | 种子是心识的潜在习气，非物质 |
+| "唯识否认外界" | 唯识否认的是**独立自性**的外界，不是缘起有 |
+
+## 与相关概念的关系
+
+- [中观 Madhyamaka](./madhyamaka.md) — [张力] 中观"空"vs 唯识"有"
+- [八识体系](../concepts/cognitive-theory/eight-consciousness.md) — [下位] 核心理论
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md) — [下位] 修行目标
+- [世亲](../masters/asanga-vasubandhu.md) — [提出者]
+- [法相宗/唯识宗] — [下位] 中国宗派形态
+
+## 代表思想家
+
+- **无著 Asaṅga**（4 c.）：《瑜伽师地论》《摄大乘论》
+- **世亲 Vasubandhu**（4–5 c.）：《唯识三十颂》《唯识二十论》
+- **陈那 Dignāga**（5 c.）：量论（认识论）
+- **护法 Dharmapāla**（6 c.）：《成唯识论》基础
+- **玄奘**（602–664）：中国法相宗祖师
+- **窥基**（632–682）：《成唯识论述记》
+
+## 应用场景
+
+- **心理学**：八识 = 深层心理结构（与弗洛伊德、荣格对话）
+- **认知科学**：阿赖耶识与潜意识、长期记忆
+- **AI 哲学**：心识模型与认知架构
+- **心理治疗**：转识成智作为心理转化
+
+## 常见误读
+
+- ❌ "唯识 = 一切唯心造" → 这是简化版，唯识主张种子缘起，非主观造作。
+- ❌ "阿赖耶识 = 灵魂" → 阿赖耶识是**无我**的流动系统。
+- ❌ "唯识是印度柏拉图主义" → 唯识否认自性，与理念论相反。
+- ❌ "唯识与中观对立" → 二者在更高层次上互补（瑜伽行中观）。
+
+## 跨学科关联
+
+- [弗洛伊德 · 潜意识](../../psychology/schools/psychoanalysis/freud.md) — [平行] 阿赖耶识与潜意识
+- [荣格 · 集体无意识](../../psychology/schools/psychoanalysis/jung.md) — [平行] 种子的集体维度
+- [皮亚杰 · 图式](../../psychology/schools/cognitive/piaget.md) — [平行] 认知结构
+- [现象学 · 意向性] — [继承] 心识总是指向对象
+
+## Cognitive Architecture
+
+唯识学派拥有佛教史上最精密的认知架构，其核心可概括为四个层次：
+
+| 认知模块 | 梵文 | 功能描述 |
+|---|---|---|
+| 八识体系 | Aṣṭa-vijñāna | 从感官到潜意识的完整认知层级 |
+| 三性 | Trisvabhāva | 认知对象的三种存在模式 |
+| 四分 | Catuṣ-pratyakṣa | 认知行为的四个面向 |
+| 转识成智 | Āśraya-parāvṛtti | 认知系统的根本转化 |
+
+- **八识作为认知层级**：前五识对应感官处理（sensory processing），第六意识对应工作记忆与执行功能，第七末那识（manas）对应自我参照加工（self-referential processing），第八阿赖耶识（ālayavijñāna）对应隐性记忆与预测模型储存——可与认知神经科学的默认模式网络（DMN）对话。
+- **三性与预测编码**：遍计所执性对应认知系统的过度拟合（overfitting），依他起性对应预测模型的缘起生成，圆成实性对应预测误差的最小化——与 Friston 预测编码（predictive coding）理论形成深度呼应。
+- **四分说的元认知意义**：相分（认知对象）、见分（认知主体）、自证分（自我监控）、证自证分（元监控的再确认）构成四层元认知结构，预示了现代元认知（metacognition）研究的核心问题。
+- **种子-熏习机制**：[种子](../concepts/cognitive-theory/bija-vasana.md)（bīja）理论描述经验如何编码为潜在倾向（vāsanā），类似于现代认知科学中的启动效应（priming）与内隐学习（implicit learning）。
+- **认知转化路径**：[转识成智](../concepts/cognitive-theory/consciousness-transformation.md)不是消灭认知，而是将执取性认知转化为无执的智慧——第八识转为大圆镜智（mirror-like wisdom），即认知的无偏反映模式。
+
+**跨领域参照**：唯识的认知分层可与 [弗洛伊德的意识地形模型](../../../../domains/psychology/schools/psychoanalysis/freud.md) 对照，种子理论与 [皮亚杰的认知图式](../../../../domains/psychology/schools/cognitive/piaget.md) 形成平行比较。详见 [八识体系](../concepts/cognitive-theory/eight-consciousness.md)、[三性](../concepts/cognitive-theory/three-natures.md)。
+
+## 进阶阅读
+
+**原典（中译）**
+- 玄奘译《成唯识论》
+- 世亲《唯识三十颂》
+
+**研究**
+- 霍韬晦《安慧·三十颂释论》
+- Dan Lusthaus《Buddhist Phenomenology》
+- 林镇国《空性与现代性》
+
+**入门**
+- 济群法师《唯识三十论讲记》
+- 于晓非《唯识三十论导读》
+
+## 关联 Skills
+
+- [八识诊断](../concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md)
+- [转识成智诊断](../concepts/cognitive-theory/skills/consciousness-transformation-diagnosis/SKILL.md)
+- [心物一元分析](../concepts/cognitive-theory/skills/mind-world-analysis/SKILL.md)

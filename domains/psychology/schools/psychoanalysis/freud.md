@@ -91,6 +91,8 @@ sources:
 - [阿德勒](./adler.md) `[对立]` 个体心理学，强调社会兴趣
 - [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[启发]` 权力意志、酒神精神
 - [文学批评](../../../literature/criticism/psychoanalytic.md) `[应用]` 精神分析批评
+- [种子与熏习 · Bīja and Vāsanā](../../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) `[平行]` 早期经验的持久影响
+- [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 阿赖耶识与潜意识的储存功能类似，但理论框架不同
 
 ## 进阶阅读
 

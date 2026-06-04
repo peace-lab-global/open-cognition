@@ -1,0 +1,73 @@
+---
+id: religion.buddhism.core.three-trainings
+title: 三学 Three Trainings
+type: concept
+domain: religion
+school: buddhism-general
+era: ancient
+tags: [三学, 戒定慧, sīla-samādhi-prajñā]
+aliases: [Three Trainings, 三无漏学]
+sources: [巴利三藏, 《清净道论》]
+---
+
+# 三学 Three Trainings
+
+## 一句话定义
+
+**三学**（戒、定、慧）是佛教修行的三大支柱——**戒**（śīla）规范身口，**定**（samādhi）调伏心，**慧**（prajñā）彻见实相。三者相互支持，缺一不可。
+
+## 核心要义
+
+### 1. 戒 Śīla
+身口行为的规范，包括五戒、八戒、比丘戒、菩萨戒等。戒是定的基础。
+
+### 2. 定 Samādhi
+心的专注与稳定，包括止禅（śamatha）与各类禅定（四禅、四无色定）。定是慧的基础。
+
+### 3. 慧 Prajñā
+对实相的洞察，包括观禅（vipaśyanā）与无我、无常、空性的直观证悟。慧是解脱的关键。
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "戒 = 教条" | 是修行的行为基础，非教条 |
+| "定 = 发呆" | 是高度清醒的专注 |
+| "慧 = 知识" | 是直观证悟，非概念知识 |
+
+## 与相关概念的关系
+
+- [三宝](./three-jewels.md) — [下位] 僧团以三学修持
+- [八正道](../../traditions/buddhism/four-noble-truths.md) — [下位] 八正道 = 三学的展开
+- [四无量心](./four-immeasurables.md) — [下位] 四无量心是定修
+- [上座部](../schools/theravada.md) — [继承] 三学是上座部修行核心
+
+## 应用场景
+
+- **心理治疗**：正念（定）+ 认知重构（慧）
+- **教育**：行为规范 + 注意力 + 智慧
+- **组织管理**：制度 + 文化 + 战略
+- **日常修行**：三学作为生活框架
+
+## 常见误读
+
+- ❌ "戒 = 束缚" → 戒是自由的基础。
+- ❌ "定 = 冥想技巧" → 是心灵训练。
+- ❌ "慧 = 聪明" → 是直观证悟。
+
+## 跨学科关联
+
+- [斯金纳 · 行为塑造](../../psychology/schools/behaviorism/skinner.md) — [平行] 戒律作为行为塑造
+- [卡尼曼 · 系统2](../../psychology/schools/cognitive/kahneman.md) — [平行] 定是注意控制
+- [皮亚杰 · 反思抽象](../../psychology/schools/cognitive/piaget.md) — [平行] 慧是认知跃迁
+
+## 进阶阅读
+
+**原典**
+- 觉音《清净道论》
+
+**研究**
+- Bhikkhu Bodhi《The Noble Eightfold Path》
+
+**入门**
+- Walpola Rahula《What the Buddha Taught》

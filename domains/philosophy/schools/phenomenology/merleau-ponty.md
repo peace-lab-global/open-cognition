@@ -82,6 +82,7 @@ sources:
 - [福柯 · 规训](../../../sociology/schools/structuralism/foucault.md) `[互补]` 两者都关注身体，但梅洛-庞蒂关注前反思的身体经验，福柯关注权力对身体的规训
 - [海德格尔 · 此在](./heidegger.md) `[发展]` 梅洛-庞蒂将海德格尔的"在世存在"具体化为身体的在世
 - [佛教 · 身念处](../../../religion/traditions/buddhism/four-noble-truths.md) `[平行]` 两者都将身体作为觉知的入口
+- [八还辨见 · Eight Returns to Distinguish Seeing](../../../../religion/buddhism/concepts/cognitive-theory/baihuan-bianjian.md) `[平行]` 能见者与被见者的交织
 
 ## 进阶阅读
 

@@ -1,6 +1,8 @@
 ---
-id: diamond-sutra-non-attachment
+id: diamond-sutra-non-attachment-legacy
 title: 金刚经·无相 · Diamond Sutra: Non-Attachment to Form
+status: legacy
+canonical: ./cognitive-theory/diamond-sutra-non-attachment.md
 type: concept
 domain: religion
 school: buddhism-prajna
@@ -24,6 +26,13 @@ sources:
   - 南怀瑾《金刚经说什么》
   - 圣严法师《金刚经》
 ---
+
+> ⚠️ **Legacy entry — 本文件为早期草稿**
+>
+> 规范版本（含无住心法 Skill、跨学科关联与完整理论脉络）请见：
+> 👉 **[cognitive-theory/diamond-sutra-non-attachment.md](./cognitive-theory/diamond-sutra-non-attachment.md)**
+>
+> 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
 # 金刚经·无相 · Diamond Sutra: Non-Attachment to Form
 

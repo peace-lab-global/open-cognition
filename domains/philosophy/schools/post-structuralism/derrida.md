@@ -82,6 +82,10 @@ cross-refs:
 - **法学**：解构与法律解释
 - **建筑**：解构主义建筑运动
 
+## 跨学科关联
+
+- [公案与话头的认知机制 · Kōan and Huàtóu Cognitive Mechanics](../../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 概念框架的现场解构
+
 ## 推荐阅读
 
 - 《论文字学》

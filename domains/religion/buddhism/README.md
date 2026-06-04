@@ -1,0 +1,106 @@
+---
+id: buddhism-overview
+title: 佛教 · Buddhism
+type: overview
+domain: religion
+school: buddhism
+tags:
+  - 佛教
+  - 佛法
+  - 佛陀
+---
+
+# 佛教 · Buddhism
+
+> "诸恶莫作，众善奉行，自净其意，是诸佛教。" ——《法句经》
+
+本目录收录佛教核心经典、认知理论体系与跨学科概念，以学术中立视角呈现佛教的思想架构与认知科学价值。
+
+---
+
+## 目录结构
+
+```
+buddhism/
+├── README.md                          # 本文件
+├── concepts/                          # 佛教核心概念
+│   ├── cognitive-theory/              #   佛教认知理论体系
+│   │   ├── README.md                  #     认知理论总览
+│   │   ├── eight-consciousness.md     #     八识体系
+│   │   ├── mind-world.md              #     心物一元
+│   │   ├── six-constituents.md        #     六根六尘六识
+│   │   ├── consciousness-transformation.md  # 转识成智
+│   │   ├── madhyamaka.md              #     中观·空
+│   │   ├── qichu-zhengxin.md          #     七处征心
+│   │   ├── baihuan-bianjian.md        #     八还辨见
+│   │   └── diamond-sutra-non-attachment.md  # 金刚经·无相
+│   ├── diamond-sutra-non-attachment.md
+│   ├── eight-consciousness.md
+│   └── qichu-zhengxin.md
+└── sutras/                            # 佛教十三经 · 全然理解图谱集
+    ├── README.md                      #   十三经总览与全景关系图
+    ├── heart-sutra.md                 #   般若波罗蜜多心经
+    ├── diamond-sutra.md               #   金刚般若波罗蜜经
+    ├── lotus-sutra.md                 #   妙法莲华经
+    ├── surangama-sutra.md             #   大佛顶首楞严经
+    ├── avatamsaka-sutra.md            #   大方广佛华严经
+    ├── perfect-enlightenment-sutra.md #   大方广圆觉修多罗了义经
+    ├── vimalakirti-sutra.md           #   维摩诘所说经
+    ├── mahaparinirvana-sutra.md       #   大般涅槃经
+    ├── lankavatara-sutra.md           #   楞伽阿跋多罗宝经
+    ├── forty-two-sections.md          #   四十二章经
+    ├── amitayus-sutra.md              #   佛说无量寿经
+    ├── contemplation-sutra.md         #   观无量寿佛经
+    └── platform-sutra.md              #   六祖坛经
+```
+
+---
+
+## 佛教十三经
+
+[佛教十三经 · 全然理解图谱集](./sutras/README.md) 以 Mermaid 图谱完整拆解十三部核心经典：
+
+| 序号 | 经名 | 核心路径 | 文件 |
+|------|------|----------|------|
+| 1 | 《般若波罗蜜多心经》 | 五蕴皆空 → 度一切苦厄 | [heart-sutra.md](./sutras/heart-sutra.md) |
+| 2 | 《金刚般若波罗蜜经》 | 无相 → 无住 → 无所得 | [diamond-sutra.md](./sutras/diamond-sutra.md) |
+| 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | [lotus-sutra.md](./sutras/lotus-sutra.md) |
+| 4 | 《大佛顶首楞严经》 | 七处征心 → 五阴魔境 → 楞严大定 | [surangama-sutra.md](./sutras/surangama-sutra.md) |
+| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 → 普贤行愿 | [avatamsaka-sutra.md](./sutras/avatamsaka-sutra.md) |
+| 6 | 《大方广圆觉修多罗了义经》 | 知幻 → 离幻 → 圆觉 | [perfect-enlightenment-sutra.md](./sutras/perfect-enlightenment-sutra.md) |
+| 7 | 《维摩诘所说经》 | 不二法门 → 烦恼即菩提 | [vimalakirti-sutra.md](./sutras/vimalakirti-sutra.md) |
+| 8 | 《大般涅槃经》 | 一切众生皆有佛性 → 常乐我净 | [mahaparinirvana-sutra.md](./sutras/mahaparinirvana-sutra.md) |
+| 9 | 《楞伽阿跋多罗宝经》 | 三界唯心 → 八识 → 自觉圣智 | [lankavatara-sutra.md](./sutras/lankavatara-sutra.md) |
+| 10 | 《四十二章经》 | 出家 → 断欲 → 证果 | [forty-two-sections.md](./sutras/forty-two-sections.md) |
+| 11 | 《佛说无量寿经》 | 发菩提心 → 发愿 → 往生净土 | [amitayus-sutra.md](./sutras/amitayus-sutra.md) |
+| 12 | 《观无量寿佛经》 | 日观 → 宝树观 → 佛菩萨观 → 往生 | [contemplation-sutra.md](./sutras/contemplation-sutra.md) |
+| 13 | 《六祖坛经》 | 见性 → 无念为宗 → 定慧等学 | [platform-sutra.md](./sutras/platform-sutra.md) |
+
+---
+
+## 佛教认知理论体系
+
+[佛教认知理论 · Buddhist Cognitive Theory](./concepts/cognitive-theory/README.md) 将佛教经论中的认知理论提取为现代可操作的概念和技能体系。
+
+| 经论 | 核心认知理论 | 产出概念 |
+|------|------------|---------|
+| 《瑜伽师地论》 | 八识体系 | [八识体系](./concepts/cognitive-theory/eight-consciousness.md) |
+| 《成唯识论》 | 四分说/心物一元 | [心物一元](./concepts/cognitive-theory/mind-world.md) |
+| 《俱舍论》 | 六根六尘六识 | [六根六尘六识](./concepts/cognitive-theory/six-constituents.md) |
+| 《解深密经》《成唯识论》 | 转识成智 | [转识成智](./concepts/cognitive-theory/consciousness-transformation.md) |
+| 《中论》 | 中观二谛/四句破 | [中观·空](./concepts/cognitive-theory/madhyamaka.md) |
+| 《楞严经》 | 七处征心 | [七处征心](./concepts/cognitive-theory/qichu-zhengxin.md) |
+| 《楞严经》 | 八还辨见 | [八还辨见](./concepts/cognitive-theory/baihuan-bianjian.md) |
+| 《金刚经》 | 无相/无住/无所得 | [金刚经·无相](./concepts/cognitive-theory/diamond-sutra-non-attachment.md) |
+
+---
+
+## 与其他模块的关系
+
+| 模块 | 定位 | 关系 |
+|------|------|------|
+| `wisdom-masters/` | 高僧五层蒸馏（操作化） | 上层应用：具体人物的skill |
+| `cognitive-theory/` | 经论认知理论（理论层） | 本模块：佛教认知体系完整框架 |
+| `sutras/` | 佛经拆解（经典理解层） | 本模块：十三经 Mermaid 全然理解图谱 |
+| `domains/religion/traditions/buddhism/` | 学术概念条目 | 学术基础：传统、文本、人物 |
+| `skills/religion-frameworks/` | 宗教框架（已有skills） | 横向Skills：四圣谛等 |
