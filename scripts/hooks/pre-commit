@@ -1,0 +1,48 @@
+#!/bin/sh
+#
+# pre-commit hook for open-cognition
+#
+# Tasks:
+#   1. Rebuild index.json if any domains/ or skills/ files are staged.
+#      Auto-stage the regenerated index.json so the commit stays consistent.
+#   2. Reject commits that contain stale index.json.
+#
+# Install (one-time per clone):
+#   cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+#
+# Skip (only for emergencies):
+#   git commit --no-verify
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+BUILD_SCRIPT="$REPO_ROOT/scripts/build-index.py"
+
+# If the build script doesn't exist yet, pass silently
+if [ ! -x "$BUILD_SCRIPT" ]; then
+    exit 0
+fi
+
+# Only rebuild if domains/ or skills/ or the script itself is touched
+TOUCHED=$(git diff --cached --name-only | grep -E '^(domains/|skills/|scripts/build-index\.py)' || true)
+
+if [ -z "$TOUCHED" ]; then
+    exit 0
+fi
+
+# Rebuild index.json
+"$BUILD_SCRIPT" > /dev/null
+
+# Stage the new index.json (only if it actually changed)
+if ! git diff --quiet -- index.json 2>/dev/null; then
+    git add index.json
+    echo "[pre-commit] rebuilt and staged index.json"
+fi
+
+# Final check: the staged index.json must match a fresh rebuild
+if ! "$BUILD_SCRIPT" --check > /dev/null 2>&1; then
+    echo "[pre-commit] ERROR: index.json is inconsistent. Re-run 'python3 scripts/build-index.py'."
+    exit 1
+fi
+
+exit 0

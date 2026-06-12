@@ -1,0 +1,211 @@
+#!/usr/bin/env python3
+"""
+build-index.py — rebuild index.json by scanning domains/ and skills/.
+
+Usage:
+    python3 scripts/build-index.py          # write to index.json (default)
+    python3 scripts/build-index.py --check  # exit non-zero if stale
+    python3 scripts/build-index.py --out path/to/file.json
+
+Output schema (per entry):
+    { path, id, title, type, domain, school?, tags? }
+
+Plus top-level `stats` and `skills` arrays.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import sys
+from datetime import date, timezone
+from pathlib import Path
+
+try:
+    import yaml
+except ImportError:
+    sys.exit("ERROR: pyyaml is required. Install with `pip install pyyaml`.")
+
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+DOMAINS_DIR = REPO_ROOT / "domains"
+SKILLS_DIR = REPO_ROOT / "skills"
+BUDDHISM_SKILLS_DIR = (
+    REPO_ROOT
+    / "domains"
+    / "religion"
+    / "buddhism"
+    / "concepts"
+    / "cognitive-theory"
+    / "skills"
+)
+
+SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.md"}
+VERSION = "v0.6"
+
+
+def extract_frontmatter(path: Path) -> dict:
+    """Read YAML frontmatter from a markdown file."""
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return {}
+    # Find the closing ---
+    try:
+        end = text.index("---", 3)
+    except ValueError:
+        return {}
+    fm_text = text[3:end]
+    try:
+        return yaml.safe_load(fm_text) or {}
+    except yaml.YAMLError:
+        return {}
+
+
+def domain_from_path(path: Path) -> str:
+    """Extract the top-level domain name from a file path."""
+    rel = path.relative_to(REPO_ROOT).as_posix()
+    if rel.startswith("domains/"):
+        return rel.split("/")[1]
+    return ""
+
+
+def classify_entry(path: Path) -> str | None:
+    """Determine entry type: thinker / concept / skill / None."""
+    rel = path.relative_to(REPO_ROOT).as_posix()
+    if "/skills/" in rel and path.name == "SKILL.md":
+        return "skill"
+    if "/schools/" in rel:
+        return "thinker"
+    if "/concepts/" in rel:
+        return "concept"
+    if "/masters/" in rel:
+        return "thinker"
+    if "/sutras/" in rel:
+        return "text"
+    if "/core-concepts/" in rel:
+        return "concept"
+    if "/traditions/" in rel:
+        return "tradition"
+    return None
+
+
+def scan_entries() -> list[dict]:
+    """Walk domains/ and extract entries."""
+    entries = []
+    for path in sorted(DOMAINS_DIR.rglob("*.md")):
+        if path.name in SKIP_FILENAMES:
+            continue
+        entry_type = classify_entry(path)
+        if entry_type is None:
+            continue
+        fm = extract_frontmatter(path)
+        rel = path.relative_to(REPO_ROOT).as_posix()
+        entry = {
+            "path": rel,
+            "id": fm.get("id") or path.stem,
+            "title": fm.get("title") or fm.get("name") or path.stem,
+            "type": entry_type,
+            "domain": domain_from_path(path),
+        }
+        if fm.get("school"):
+            entry["school"] = fm["school"]
+        if fm.get("tags"):
+            entry["tags"] = fm["tags"]
+        entries.append(entry)
+    return entries
+
+
+def scan_skills() -> list[dict]:
+    """Walk skills/ and buddhism/cognitive-theory/skills/ and extract Skills."""
+    skills = []
+    for base_dir in (SKILLS_DIR, BUDDHISM_SKILLS_DIR):
+        if not base_dir.exists():
+            continue
+        for path in sorted(base_dir.rglob("SKILL.md")):
+            fm = extract_frontmatter(path)
+            rel = path.relative_to(REPO_ROOT).as_posix()
+            skill = {
+                "path": rel,
+                "name": fm.get("name") or path.parent.name,
+                "description": fm.get("description") or "",
+                "domain": fm.get("domain") or "",
+                "tags": fm.get("tags") or [],
+            }
+            skills.append(skill)
+    return skills
+
+
+def build_index() -> dict:
+    entries = scan_entries()
+    skills = scan_skills()
+    domains_present = sorted({e["domain"] for e in entries if e.get("domain")})
+    return {
+        "version": VERSION,
+        "generated": date.today().isoformat(),
+        "stats": {
+            "entries": len(entries),
+            "skills": len(skills),
+            "total": len(entries) + len(skills),
+            "domains": domains_present,
+        },
+        "entries": entries,
+        "skills": skills,
+    }
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--out",
+        default=REPO_ROOT / "index.json",
+        type=Path,
+        help="Output path (default: REPO_ROOT/index.json)",
+    )
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Exit 1 if current index.json differs from rebuilt one",
+    )
+    parser.add_argument(
+        "--pretty",
+        action="store_true",
+        default=True,
+        help="Pretty-print JSON (default)",
+    )
+    args = parser.parse_args()
+
+    index = build_index()
+    json_str = json.dumps(
+        index,
+        ensure_ascii=False,
+        indent=2 if args.pretty else None,
+    ) + "\n"
+
+    if args.check:
+        if not args.out.exists():
+            print(f"MISSING: {args.out}", file=sys.stderr)
+            return 1
+        existing = args.out.read_text(encoding="utf-8")
+        if existing == json_str:
+            print(f"OK: {args.out} is up to date ({index['stats']['total']} entries)")
+            return 0
+        print(f"STALE: {args.out}", file=sys.stderr)
+        print(
+            f"  declared: {json.loads(existing).get('stats', {})}",
+            file=sys.stderr,
+        )
+        print(f"  actual:   {index['stats']}", file=sys.stderr)
+        return 1
+
+    args.out.write_text(json_str, encoding="utf-8")
+    print(
+        f"Wrote {args.out}: {index['stats']['entries']} entries + "
+        f"{index['stats']['skills']} skills across "
+        f"{len(index['stats']['domains'])} domains"
+    )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
