@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the Chinese README
+    url: https://github.com/peace-lab-global/open-cognition/blob/main/README.md
+    about: Project overview, domain map, and roadmap (zh-CN).
+  - name: Read the English README
+    url: https://github.com/peace-lab-global/open-cognition/blob/main/README.en.md
+    about: Project overview and entry points (en).
+  - name: For AI Agents
+    url: https://github.com/peace-lab-global/open-cognition/blob/main/AGENT.md
+    about: Skill schema, prompt templates, integration options.
+  - name: Contribution guide
+    url: https://github.com/peace-lab-global/open-cognition/blob/main/CONTRIBUTING.md
+    about: Process, templates, quality bar.

@@ -1,3 +1,5 @@
+> English version: see [README.en.md](./README.en.md)
+
 # Open Cognition · 开放认知数据库
 
 > 一个面向**人类深度阅读**与 **AI Agent 调用**的跨学科认知资源库。

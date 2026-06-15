@@ -1,0 +1,73 @@
+name: Content Proposal
+description: Propose a new thinker, concept, Skill, domain, or cross-domain link.
+labels: ["content"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: What kind of contribution?
+      options:
+        - New thinker entry
+        - New concept entry
+        - New Skill
+        - New domain / school
+        - Cross-domain link
+        - Deepening an existing entry
+        - Translation (e.g., Chinese → English)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      placeholder: "e.g., Hannah Arendt / 公共领域 / Bourdieu field analysis"
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Target domain
+      options:
+        - philosophy
+        - religion
+        - sociology
+        - psychology
+        - ethics-politics
+        - aesthetics
+        - literature
+        - arts
+        - cognitive-systems
+        - cross-domain (multiple)
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: |
+        Why this contribution? Cite gaps in existing coverage, user need, cross-disciplinary value,
+        or connections to existing entries that would become navigable.
+    validations:
+      required: true
+  - type: textarea
+    id: outline
+    attributes:
+      label: Proposed outline
+      description: |
+        For entries: draft the frontmatter + section outline.
+        For cross-links: list the files to be linked and the relation labels.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Key sources
+      description: |
+        Primary texts, authoritative secondary works, Chinese resources (if any).
+        Follow the format in `meta/sources.md`.
+  - type: checkboxes
+    id: commitment
+    attributes:
+      label: Willing to contribute
+      options:
+        - label: I'm willing to draft this myself (open a PR referencing this issue).
+        - label: I'm proposing for someone else to pick up.

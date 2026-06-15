@@ -1,0 +1,45 @@
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml
+      - name: Run lint
+        run: python3 scripts/lint.py --json > lint-report.json
+      - name: Upload lint report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lint-report
+          path: lint-report.json
+      - name: Fail on errors
+        run: |
+          errors=$(python3 -c "import json; print(json.load(open('lint-report.json'))['errors'])")
+          if [ "$errors" != "0" ]; then
+            echo "::error::$errors lint errors found. Run 'python3 scripts/lint.py' locally."
+            exit 1
+          fi
+
+  index-consistency:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml
+      - name: Verify index.json matches sources
+        run: python3 scripts/build-index.py --check

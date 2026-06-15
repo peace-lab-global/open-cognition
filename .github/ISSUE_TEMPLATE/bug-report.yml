@@ -1,0 +1,49 @@
+name: Bug Report
+description: Report broken links, lint false positives, rendering issues, or other defects.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. For content corrections or additions, please open a PR directly.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Broken link (E003)
+        - Lint false positive
+        - Rendering / display issue
+        - index.json inconsistency
+        - Pre-commit hook issue
+        - GitHub Pages / deployment
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Run `python3 scripts/lint.py`
+        2. Observe finding at ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: |
+        OS, Python version, git version, relevant log output
