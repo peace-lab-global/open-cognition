@@ -135,10 +135,11 @@ sources:
 
 ## 跨学科关联
 
-- [韦伯 Weber](./weber.md) `[平行]` 理性化理论与文明化过程的相似性
-- [福柯 Foucault](../post-structuralism/foucault.md) `[平行]` 规训与文明化都涉及行为控制的内化
-- [布迪厄 Bourdieu](../post-structuralism/bourdieu.md) `[互补]` 形构与场域概念的社会关系分析
-- [涂尔干 Durkheim](./durkheim.md) `[发展]` 文明化过程继承了涂尔干对社会规范内化的关注
+- [韦伯 Weber](../classical/weber.md) `[平行]` 理性化理论与文明化过程的相似性
+- [福柯 Foucault](../structuralism/foucault.md) `[平行]` 规训与文明化都涉及行为控制的内化
+- [布迪厄 Bourdieu](../structuralism/bourdieu.md) `[互补]` 形构与场域概念的社会关系分析
+- [涂尔干 Durkheim](../classical/durkheim.md) `[发展]` 文明化过程继承了涂尔干对社会规范内化的关注
+- [吉登斯 Giddens](../structuration/giddens.md) `[平行]` 结构化理论与形构社会学都试图超越结构与能动的二元对立
 
 ## 进阶阅读
 
@@ -161,3 +162,4 @@ sources:
 - **社会学 Skills**: [Foucault 福柯](../post-structuralism/foucault.md) — 规训与文明化的内化机制 [平行]
 - **社会学 Skills**: [Bourdieu 布迪厄](../post-structuralism/bourdieu.md) — 形构与场域的社会关系分析 [互补]
 - **社会学 Skills**: [Durkheim 涂尔干](./durkheim.md) — 社会规范内化的发展性继承 [发展]
+- **社会学 Skills**: [Giddens 吉登斯](../structuration/giddens.md) — 超越结构与能动二元对立的平行尝试 [平行]
