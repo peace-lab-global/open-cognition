@@ -1,0 +1,96 @@
+---
+id: close-reading
+title: 细读 · Close Reading
+type: concept
+domain: literature
+school: new-criticism
+era: 20th-century
+tags:
+  - method
+  - textuality
+  - form
+  - interpretation
+aliases:
+  - 精读
+  - 文本细读
+  - lecture serrée
+sources:
+  - Richards, I.A. *Practical Criticism* (1929)
+  - Brooks, C. *The Well Wrought Urn* (1947)
+  - Wimsatt & Beardsley, "The Intentional Fallacy" (1946)
+---
+
+# 细读 Close Reading
+
+## 一句话定义
+
+细读是对文本语言、结构、修辞与内在张力的精确、反复、贴近的阅读方法——它将文本视为自足的整体，悬置作者意图与外部语境。
+
+## 提出者与背景
+
+- **早期实践**：I.A. Richards 在剑桥课堂中让学生对匿名的诗进行解读，结果令人震惊，出版《Practical Criticism》(1929)
+- **新批评**：1940-60 年代美国主流批评方法，Cleanth Brooks、Wimsatt、Beardsley 为代表
+- **核心文本**：Brooks《精致的瓮》(1947) 通过细读英诗展示"反讽""悖论""含混"的文本结构
+- **当代回归**：数字时代重新强调"慢读"作为对信息过载的抵抗（Sven Birkerts, *The Gutenberg Elegies*）
+
+## 核心要义
+
+### 关键论点
+1. **文本自足**：意义在文本内部生成，不依赖作者意图（意图谬误）或读者情感（感受谬误）
+2. **内在张力**：诗（文学）的本质在于反讽（irony）、悖论（paradox）、含混（ambiguity）、张力（tension）
+3. **方法纪律**：反复读、逐字逐句、关注词汇、句法、音步、隐喻、视角、结构
+4. **对抗印象式批评**：用文本证据取代个人感慨
+
+### 细读的操作步骤
+- 步骤 1：初读——抓住整体结构与情绪
+- 步骤 2：重读——标记关键词、隐喻、反讽、转折
+- 步骤 3：分析——这些元素如何共同构成"统一"的意义张力
+- 步骤 4：书写——用引文支撑分析，避免空泛
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "仔细读、多读几遍" | 一种有方法纪律的、以文本为中心的阅读实践 |
+| 对象 | 任何文本 | 语言密集的文学作品 |
+| 目标 | 理解内容 | 揭示形式与意义的内在张力 |
+
+## 与相关概念的关系
+
+- **同源**：[隐喻 metaphor](./metaphor.md) — 细读最常处理的修辞对象
+- **对立**：[互文性 intertextuality](./intertextuality.md) — 细读强调文本自足，互文强调文本间关系
+- **派生**：[隐含读者 implied reader](./implied-reader.md) — 细读揭示文本对读者的预设
+
+## 代表思想家
+
+- I.A. Richards — 实践批评
+- Cleanth Brooks — 反讽与悖论
+- W.K. Wimsatt & Monroe Beardsley — 意图谬误 / 感受谬误
+- William Empson — 含混的七种类型
+- Paul de Man — 修辞性阅读（后结构主义细读）
+
+## 应用场景
+
+- 文学教育：英语与文学课程的基础方法
+- 法律解释：文本主义（textualism）的解释方法
+- 数字人文：与"远读"（distant reading）互补
+- 日常阅读：提升语言敏感度与批判思维
+
+## 常见误读
+
+- **误读 1**："细读 = 慢读 = 读得久"——细读是方法纪律，不等于时间长
+- **误读 2**："细读排斥一切外部知识"——经典新批评排斥，但当代细读可与历史、政治阅读结合
+- **误读 3**："细读只适合诗歌"——小说、戏剧、电影、广告皆可细读
+
+## 跨学科关联
+
+- [哲学 · 诠释学](../../philosophy/schools/hermeneutics/gadamer.md) `[对话]` 细读与诠释学循环
+- [心理学 · 注意力](../../psychology/schools/positive/csikszentmihalyi.md) `[机制]` 细读作为深度专注
+- [社会学 · 文化消费](../../sociology/schools/structuralism/bourdieu.md) `[张力]` 细读能力与文化资本
+- [宗教 · 经注学](../../religion/concepts/meditation.md) `[平行]` 经文精读作为精神修炼
+
+## 进阶阅读
+
+- 原典：Brooks *The Well Wrought Urn*；Empson *Seven Types of Ambiguity*
+- 二手研究：Graff, G. *Professing Literature*；Shakespeare, N. *Close Reading: The Reader*
+- 中文资源：赵一凡《从胡塞尔到德里达》相关章节；申丹《文学文体学与小说翻译》

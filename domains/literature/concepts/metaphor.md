@@ -1,0 +1,95 @@
+---
+id: metaphor
+title: 隐喻 · Metaphor
+type: concept
+domain: literature
+school: rhetorical-hermeneutic
+era: ancient-to-contemporary
+tags:
+  - rhetoric
+  - semantics
+  - cognition
+  - hermeneutics
+aliases:
+  - 比喻
+  - 隐喻性
+  - métaphore
+sources:
+  - 亚里士多德《修辞学》《诗学》
+  - Lakoff & Johnson, *Metaphors We Live By* (1980)
+  - Ricoeur, P. *The Rule of Metaphor* (1975)
+---
+
+# 隐喻 Metaphor
+
+## 一句话定义
+
+隐喻是语义的非常规转移——将一个语域的结构映射到另一个语域，使我们在 A 的框架下理解 B；它既是修辞手段，也是思维的基本方式。
+
+## 提出者与背景
+
+- **古典修辞**：[亚里士多德](../../philosophy/schools/ancient-greek/aristotle.md)在《修辞学》与《诗学》中将隐喻定义为"将属于他物的名称给予此物"，视其为天才的标志
+- **语义学**：Richards (1936) 区分"tenor"（被说者）与"vehicle"（借以说者）；Black (1954) 提出"互动论"
+- **认知革命**：Lakoff & Johnson (1980) 证明隐喻不是修辞装饰，而是人类概念系统的基本结构（"ARGUMENT IS WAR"）
+- **诠释学**：Ricoeur (1975) 把隐喻作为"语义创新"的事件来理解
+
+## 核心要义
+
+### 关键论点
+1. **亚里士多德的类比论**：隐喻的核心是类比（ἀναλογία），A:B :: C:D 的比例关系
+2. **Black 的互动论**：隐喻中"主词"与"副词系统"互相修改，产生新的意义
+3. **Lakoff 的概念隐喻**：抽象概念（时间、爱、道德）通过具体源域（金钱、旅程、洁净）被建构
+4. **Ricoeur 的语义创新**：隐喻在"字面意义自毁"处产生新的描述现实的能力
+
+### 论证结构（Lakoff）
+- 前提 A：我们的概念系统本质上是隐喻性的
+- 前提 B：隐喻以身体经验为基础（embodied cognition）
+- 结论：推理、伦理、政治判断皆受隐喻结构塑造
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "修辞上的比喻" | 语义转移与概念映射的普遍机制 |
+| 范围 | 诗歌、文学 | 日常语言、科学模型、政治话语 |
+| 地位 | 装饰性 | 构成性：塑造我们如何思考 |
+
+## 与相关概念的关系
+
+- **同源**：[模仿 mimesis](../../aesthetics/concepts/mimesis.md) — 亚里士多德处隐喻是模仿的高级形式
+- **对立**：[叙事性 narrativity](./narrativity.md) — 隐喻是语义轴（共时），叙事是时间轴（历时）
+- **派生**：[互文性 intertextuality](./intertextuality.md) — 隐喻常借由互文引用获得力量
+
+## 代表思想家
+
+- 亚里士多德 — 类比隐喻
+- I.A. Richards — tenor / vehicle
+- Max Black — 互动论
+- [Lakoff & Johnson](../../philosophy/concepts/language.md) — 概念隐喻
+- Paul Ricoeur — 活的隐喻
+
+## 应用场景
+
+- 诗歌与文学分析：意象系统研究
+- 政治传播：框架理论（"税收是负担" vs "税收是投资"）
+- 科学哲学：科学模型作为隐喻（"光是波"）
+- 心理治疗：来访者隐喻的解析与重构
+
+## 常见误读
+
+- **误读 1**："隐喻只是修辞装饰"——Lakoff 已证明隐喻是概念结构
+- **误读 2**："隐喻可任意解读"——隐喻受身体经验与文化语境约束
+- **误读 3**："隐喻 = 明喻"——明喻显式使用"像"，隐喻隐含映射，更具语义力量
+
+## 跨学科关联
+
+- [哲学 · 语言](../../philosophy/concepts/language.md) `[基础]` 隐喻与语义、真理、指称的关系
+- [心理学 · 认知](../../psychology/schools/cognitive/kahneman.md) `[机制]` 隐喻的身体-认知基础
+- [社会学 · 布迪厄](../../sociology/schools/structuralism/bourdieu.md) `[扩展]` "资本""场域"等社会隐喻
+- [宗教 · 禅宗公案](../../religion/traditions/buddhism/zen.md) `[平行]` 公案以隐喻打破字面语义
+
+## 进阶阅读
+
+- 原典：Aristotle *Rhetoric* III；Lakoff & Johnson *Metaphors We Live By*；Ricoeur *The Rule of Metaphor*
+- 二手研究：Black, M. *Models and Metaphors*；Kövecses, Z. *Metaphor: A Practical Introduction*
+- 中文资源：束定芳《隐喻学研究》；保罗·利科《活的隐喻》中译本

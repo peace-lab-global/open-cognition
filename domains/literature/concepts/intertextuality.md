@@ -1,0 +1,95 @@
+---
+id: intertextuality
+title: 互文性 · Intertextuality
+type: concept
+domain: literature
+school: post-structuralism
+era: 20th-century
+tags:
+  - textuality
+  - quotation
+  - influence
+  - dialogism
+aliases:
+  - 互文本性
+  - intertextualité
+  - 文本间性
+sources:
+  - Kristeva, J. *Semiotikè* (1969)
+  - Barthes, R. "The Death of the Author" (1967)
+  - Genette, G. *Palimpsests* (1982)
+---
+
+# 互文性 Intertextuality
+
+## 一句话定义
+
+互文性是文本与其他文本之间不可避免的引用、回应、变形与对话关系——任何文本都不是孤立的原创，而是"引用的马赛克"。
+
+## 提出者与背景
+
+- **思想源头**：巴赫金（Bakhtin）的"对话性"（dialogism）与"众声喧哗"（heteroglossia）——语言本质上是多声部的对话
+- **命名**：Kristeva (1969) 在《Semiotikè》中引入"互文性"，将巴赫金与结构主义缝合
+- **理论高潮**：Barthes (1967) 《作者之死》——"文本是由多种写作构成的编织物……没有任何一个词是原创的"
+- **系统化**：Genette (1982) 在《Palimpsests》中区分互文性、副文本性、元文本性、承文本性、广义文本性五种"跨文本关系"
+
+## 核心要义
+
+### 关键论点
+1. **任何文本都是互文的**：文本的意义不由作者决定，而由它所参与的语言-文本网络决定
+2. **引用与变形**：互文不限于显式引用，也包含戏仿、拼贴、重写、隐性回响
+3. **作者之死**：作者不是意义的源头，而是"文本的脚本作者"（scriptor）
+4. **Genette 的跨文本性类型学**：互文性（狭义，引用）/ 副文本（标题、序言）/ 元文本（评论）/ 承文本（改写）/ 广义文本（类型共享）
+
+### 论证结构
+- 前提 A：语言本身是集体、历史、多声的
+- 前提 B：任何作者都使用已有语言与文本
+- 结论：文本的意义必然在与其他文本的关系中生成
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "借鉴、引用" | 文本存在的本体论条件 |
+| 判断 | 是否抄袭 | 任何文本都已是互文，与抄袭不同层次 |
+| 范围 | 显式引用 | 包含隐性回响、类型共享、语言惯例 |
+
+## 与相关概念的关系
+
+- **同源**：[叙事性 narrativity](./narrativity.md) — 叙事常通过互文展开（重写经典、戏仿）
+- **对立**：[隐喻 metaphor](./metaphor.md) — 隐喻是语义轴替换，互文是文本轴链接
+- **派生**：[世界文学 world literature](./world-literature.md) — 全球流通依赖互文网络
+
+## 代表思想家
+
+- Mikhail Bakhtin — 对话性、杂语
+- Julia Kristeva — 互文性命名者
+- Roland Barthes — 作者之死
+- Gérard Genette — 跨文本性类型学
+- Harold Bloom — "影响的焦虑"（反互文性的诗人自我）
+
+## 应用场景
+
+- 文学批评：识别文本的回声、戏仿、重写
+- 数字人文：大规模文本相似度、影响网络可视化
+- 知识产权：互文性对"原创性"观念的挑战
+- 教育与写作教学：教会学生识别并运用互文策略
+
+## 常见误读
+
+- **误读 1**："互文性 = 引用或抄袭"——互文性是文本存在的本体论条件，不是作者的行为
+- **误读 2**："互文性消解一切原创"——它重定义了原创性，不是取消它
+- **误读 3**："只适用于文学"——广告、法律、科学、电影皆是互文系统
+
+## 跨学科关联
+
+- [哲学 · 后结构主义](../../philosophy/schools/post-structuralism/derrida.md) `[源流]` Derrida 的"延异"(différance) 与互文性同根
+- [社会学 · 卢曼](../../sociology/concepts/social-fact.md) `[应用]` 社会系统的自指与互文
+- [心理学 · 叙事治疗](../../psychology/concepts/personality.md) `[平行]` 生命故事的互文重构
+- [宗教 · 诠释传统](../../religion/concepts/meditation.md) `[对比]` 经注的互文链条
+
+## 进阶阅读
+
+- 原典：Kristeva *Semiotikè*；Barthes *Image Music Text*；Genette *Palimpsests*
+- 二手研究：Allen, G. *Intertextuality* (Routledge)；Orr, M. *Intertextuality: Debates and Contexts*
+- 中文资源：蒂费娜·萨莫瓦约《互文性研究》中译本；陈永国编《互文性》

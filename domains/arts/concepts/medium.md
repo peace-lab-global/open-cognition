@@ -1,0 +1,96 @@
+---
+id: medium
+title: 媒介 · Medium
+type: concept
+domain: arts
+school: modernism
+era: 20th-century
+tags:
+  - material
+  - modernism
+  - greenberg
+  - mcluhan
+aliases:
+  - 媒材
+  - 材料
+  - médium
+sources:
+  - Greenberg, C. "Towards a Newer Laokoon" (1940)
+  - McLuhan, M. *Understanding Media* (1964)
+  - Krauss, R. "A Voyage on the North Sea" (1999)
+---
+
+# 媒介 Medium
+
+## 一句话定义
+
+媒介是艺术赖以呈现的物质材料与符号系统（颜料、声音、身体、像素、代码）——它既是艺术的物理载体，也决定了艺术的感知方式与可能性。
+
+## 提出者与背景
+
+- **古典**：Lessing《拉奥孔》(1766) 区分诗与画的媒介差异（时间 vs 空间）
+- **现代主义**：[Greenberg](../../philosophy/schools/german-idealism/kant.md) 主张每种艺术应探索自身媒介的独特性——绘画的"平面性"
+- **媒介理论**：McLuhan (1964) 提出"媒介即讯息"——媒介本身（而非内容）塑造文化
+- **后媒介时代**：Rosalind Krauss (1999) 质疑媒介纯粹性，主张"后媒介状况"（post-medium condition）
+
+## 核心要义
+
+### 关键论点
+1. **Greenberg 的媒介本质论**：每种艺术应回归其媒介的不可替代特质（绘画 = 平面性，雕塑 = 三维性）
+2. **McLuhan 的媒介决定论**：媒介本身（印刷、电视、互联网）塑造感知、社会与文化
+3. **Krauss 的后媒介**：当代艺术跨越媒介边界，"媒介"作为分类已松动
+4. **数字媒介**：算法、数据库、网络构成新的媒介形态，重写了艺术的"原作""作者""在场"概念
+
+### 媒介的层次
+- **物质层**：颜料、石材、声波、像素
+- **技术层**：画笔、凿子、相机、代码
+- **符号层**：图像、语言、音乐记谱
+- **制度层**：美术馆、影院、平台作为"制度媒介"
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "传播渠道（电视、网络）" | 艺术赖以呈现的物质-符号-制度系统 |
+| 角色 | 传递内容 | 塑造内容、感知与文化 |
+| 边界 | 固定分类 | 可混合、跨越、重写 |
+
+## 与相关概念的关系
+
+- **同源**：[技法 technique](./technique.md) — 技法是对媒介的操作方式
+- **对立**：[工艺 craft](./craft.md) — 媒介关注材料本身，工艺关注材料的使用
+- **派生**：[艺术作品 artwork](./artwork.md) — 媒介是艺术作品的物质-符号条件
+
+## 代表思想家
+
+- Clement Greenberg — 媒介本质论
+- Marshall McLuhan — 媒介即讯息
+- Rosalind Krauss — 后媒介状况
+- Lev Manovich — 新媒体语言
+- Friedrich Kittler — 媒介决定论
+
+## 应用场景
+
+- 艺术史：媒介分类（油画、雕塑、摄影、电影、数字）
+- 新媒体艺术：算法、交互、虚拟现实
+- 传播与媒体研究：媒介生态
+- 设计：选择媒介即选择信息
+
+## 常见误读
+
+- **误读 1**："媒介 = 技术工具"——媒介包含物质、符号、制度多层
+- **误读 2**："Greenberg 的媒介论已过时"——它仍是理解现代主义艺术的核心
+- **误读 3**："数字媒介取代传统媒介"——是叠加与重写，不是简单替代
+
+## 跨学科关联
+
+- [哲学 · 技术](../../philosophy/schools/existentialism/heidegger.md) `[基础]` 技术与媒介的存在论
+- [心理学 · 感知](../../psychology/schools/cognitive/kahneman.md) `[机制]` 不同媒介激活不同感知通道
+- [社会学 · 媒介生态](../../sociology/concepts/social-fact.md) `[扩展]` 媒介作为社会子系统
+- [宗教 · 圣礼](../../religion/concepts/ritual.md) `[平行]` 圣礼作为神圣的媒介
+
+## 进阶阅读
+
+- 原典：Greenberg "Towards a Newer Laokoon"；McLuhan *Understanding Media*；Krauss *A Voyage on the North Sea*
+- 二手研究：Manovich *The Language of New Media*；Kittler *Gramophone, Film, Typewriter*
+- 中文资源：麦克卢汉《理解媒介》中译本；克劳斯《前卫的原创性》中译本

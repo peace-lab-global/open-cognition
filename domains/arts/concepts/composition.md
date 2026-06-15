@@ -1,0 +1,96 @@
+---
+id: composition
+title: 构图 · Composition
+type: concept
+domain: arts
+school: formalism
+era: classical-to-modern
+tags:
+  - form
+  - visual-grammar
+  - balance
+  - structure
+aliases:
+  - 构成
+  - 布局
+  - composition picturale
+sources:
+  - Alberti, L.B. *De Pictura* (1435)
+  - Wölfflin, H. *Principles of Art History* (1915)
+  - Arnheim, R. *Art and Visual Perception* (1954)
+---
+
+# 构图 Composition
+
+## 一句话定义
+
+构图是视觉作品中各元素（形、色、线、质、光）的组织方式——它通过平衡、节奏、焦点与层次来引导观看并生成意义。
+
+## 提出者与背景
+
+- **文艺复兴**：Alberti《De Pictura》(1435) 提出"istoria"（历史画）需要统一的空间与姿态安排
+- **学院传统**：17-19 世纪学院把构图作为绘画最高技艺——金字塔、对角线、三角等经典结构
+- **形式分析**：Wölfflin (1915) 把构图作为区分"文艺复兴 vs 巴洛克"的五对概念之一（封闭 vs 开放形式）
+- **视知觉心理学**：Arnheim (1954) 用格式塔心理学解释构图的知觉基础
+
+## 核心要义
+
+### 关键论点
+1. **格式塔原则**：邻近性、相似性、闭合性、连续性决定元素如何被知觉为整体
+2. **平衡类型**：对称平衡（静态庄严）vs 不对称平衡（动态紧张）
+3. **视觉层次**：大小、对比、色彩、位置决定焦点与阅读路径
+4. **叙事功能**：构图不只是形式，它组织叙事、引导意义（如文艺复兴的"istoria"）
+
+### 构图的基本要素
+- **焦点**：视觉中心（黄金分割、三分法、对角线交叉）
+- **平衡**：元素视觉重量的分配
+- **节奏**：重复与变奏产生的运动感
+- **留白**（negative space）：未被占据的空间，本身具有结构性作用
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "好看的照片怎么摆" | 视觉元素的组织原则与结构 |
+| 目的 | 美观 | 引导知觉、生成意义、组织叙事 |
+| 标准 | 三分法、对称 | 平衡、节奏、层次、焦点的综合作用 |
+
+## 与相关概念的关系
+
+- **同源**：[风格 style](./style.md) — 构图原则构成风格的重要维度
+- **对立**：[工艺 craft](./craft.md) — 构图偏重设计，工艺偏重制作
+- **派生**：[媒介 medium](./medium.md) — 不同媒介（画布、屏幕、空间）约束构图可能
+
+## 代表思想家
+
+- Leon Battista Alberti — 透视与 istoria
+- Heinrich Wölfflin — 封闭/开放形式
+- Rudolf Arnheim — 视知觉格式塔
+- Wassily Kandinsky — 抽象构图理论
+- Josef Albers — 色彩互动
+
+## 应用场景
+
+- 绘画、摄影、电影（分镜、画面调度）
+- UI/UX 设计：信息层次与视觉路径
+- 建筑与城市规划：空间构成
+- 平面设计：海报、版式、品牌视觉
+
+## 常见误读
+
+- **误读 1**："构图只是规则"——规则是描述而非规范，大师常故意破坏规则
+- **误读 2**："构图只关乎美"——构图是意义与观看的组织，不仅是美
+- **误读 3**："构图只是绘画的事"——所有视觉媒介都涉及构图
+
+## 跨学科关联
+
+- [心理学 · 格式塔](../../psychology/schools/cognitive/kahneman.md) `[基础]` 视知觉的组织原则
+- [哲学 · 美学](../../aesthetics/concepts/beauty.md) `[对话]` 形式美与构图原则
+- [社会学 · 视觉文化](../../sociology/concepts/cultural-capital.md) `[扩展]` 构图中的权力与观看
+- [宗教 · 圣像](../../religion/concepts/sacred.md) `[平行]` 圣像构图的神学象征（如拜占庭反向透视）
+
+## 进阶阅读
+
+- 原典：Alberti *De Pictura*；Wölfflin *Principles of Art History*；Arnheim *Art and Visual Perception*
+- 二手研究：Kandinsky *Point and Line to Plane*；Albers *Interaction of Color*
+- 中文资源：阿恩海姆《艺术与视知觉》中译本；沃尔夫林《艺术史的基本概念》中译本

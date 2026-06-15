@@ -1,0 +1,95 @@
+---
+id: genre
+title: 文类 · Genre
+type: concept
+domain: literature
+school: literary-theory
+era: ancient-to-contemporary
+tags:
+  - classification
+  - form
+  - convention
+  - expectation
+aliases:
+  - 文体
+  - 体裁
+  - literary genre
+sources:
+  - 亚里士多德《诗学》
+  - Frye, N. *Anatomy of Criticism* (1957)
+  - Derrida, J. "The Law of Genre" (1980)
+---
+
+# 文类 Genre
+
+## 一句话定义
+
+文类是文本按照形式、主题、修辞与接受惯例所归入的类型；它既是分类工具，也是文本与读者之间的"契约"。
+
+## 提出者与背景
+
+- **古典**：[亚里士多德](../../philosophy/schools/ancient-greek/aristotle.md)《诗学》区分史诗、悲剧、喜剧，以模仿的"对象"与"方式"划分
+- **三分法**：浪漫主义以来的抒情（lyric）、叙事（epic）、戏剧（drama）三分
+- **Frye 的神话原型**：(1957) 将文类与自然循环（春喜剧、夏传奇、秋悲剧、冬反讽）对应
+- **解构**：Derrida《The Law of Genre》(1980) 指出"文类法则"自身包含对文类的越界
+
+## 核心要义
+
+### 关键论点
+1. **规范性 vs 描述性**：文类既可规定"作品应如何"，也可描述"作品群如何相似"
+2. **文类作为契约**：读者带着文类期待进入阅读，文类的遵守与违背产生意义
+3. **文类的历史性**：文类非永恒范畴——小说 (novel) 是 18 世纪后的产物，科幻是 20 世纪产物
+4. **混合与越界**：现代写作常通过文类混合（magic realism、docufiction）突破边界
+
+### 论证结构（Derrida）
+- 前提 A：文类通过标记（标题、结构、语调）被识别
+- 前提 B：标记本身已是"越界"——它属于文类又指向文类
+- 结论：文类法则内在地包含其自身的违犯
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "书店的分区" | 文本与读者之间的形式-契约结构 |
+| 边界 | 清晰固定 | 历史可变、常混合与越界 |
+| 功能 | 方便找书 | 组织阅读期待与意义生产 |
+
+## 与相关概念的关系
+
+- **同源**：[叙事性 narrativity](./narrativity.md) — 文类通过叙事结构实现
+- **对立**：[虚构性 fictionality](./fictionality.md) — 同一文类内可有虚构与非虚构
+- **派生**：[世界文学 world literature](./world-literature.md) — 文类的全球流通与变形
+
+## 代表思想家
+
+- 亚里士多德 — 三分雏形
+- Northrop Frye — 神话原型与文类系统
+- Gérard Genette — 类型与超文
+- Jacques Derrida — 文类法则的解构
+- Franco Moretti — 文类的定量演化
+
+## 应用场景
+
+- 文学史书写：文类的兴起、成熟、衰落
+- 出版与营销：文类标签决定读者期待
+- 数字人文：通过文类聚类分析大规模语料
+- 创意写作：利用文类惯例与越界制造效果
+
+## 常见误读
+
+- **误读 1**："文类是固定的盒子"——文类是历史形成的契约，不断被重写
+- **误读 2**："作品只能属于一个文类"——大多数作品同时参与多个文类
+- **误读 3**："文类高低有等级"——文类的等级（如悲剧高于喜剧）本身是历史建构
+
+## 跨学科关联
+
+- [哲学 · 分类](../../philosophy/concepts/being.md) `[基础]` 分类的本体论问题
+- [心理学 · 图式](../../psychology/schools/cognitive/kahneman.md) `[机制]` 文类作为认知图式
+- [社会学 · 文化生产](../../sociology/schools/structuralism/bourdieu.md) `[扩展]` 文类与市场、场域的关系
+- [宗教 · 经文类型](../../religion/concepts/sacred.md) `[平行]` 神话、预言、智慧文学的文类分化
+
+## 进阶阅读
+
+- 原典：Aristotle *Poetics*；Frye *Anatomy of Criticism*；Derrida "The Law of Genre"
+- 二手研究：Frow, J. *Genre* (Routledge)；Beebee, T. *The Ideology of Genre*
+- 中文资源：王先霈《文学文类学》；赵一凡《西方文论关键词》
