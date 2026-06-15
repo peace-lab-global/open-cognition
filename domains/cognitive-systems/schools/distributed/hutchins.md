@@ -79,6 +79,8 @@ sources: [《荒野中的认知》(Cognition in the Wild), "How a Cockpit Rememb
 - [克拉克](../ecological/clark.md) `[互补]` 延展心智（个体层）与分布式认知（系统层）
 - [佛教心物一元](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心与物不是二元对立——认知在心物耦合中发生
 - [拉图尔](../../../sociology/schools/actor-network/latour.md) `[平行]` 行动者网络理论也强调非人行动者的角色
+- [情境化认知 · Situated Cognition](../../concepts/situated-cognition.md) `[互补]` 分布式认知关注系统层，情境化认知关注参与层
+- [维森特 Vicente](../automation-sociotechnical/vicente.md) `[互补]` 分布式认知与CWA的社会组织分析相互呼应
 
 ## 进阶阅读
 

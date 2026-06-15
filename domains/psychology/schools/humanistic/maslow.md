@@ -86,6 +86,7 @@ sources: [《动机与人格》, 《存在心理学探索》, 《人性能达的
 - [罗杰斯 Rogers](./rogers.md) — [同源] 人本主义双子星
 - [阿德勒 Adler](../psychoanalysis/adler.md) — [继承] 社会兴趣、目的论
 - [米哈里 Csikszentmihalyi](../positive/csikszentmihalyi.md) — [发展] 心流与高峰体验
+- [塞利格曼 Seligman](../positive/seligman.md) — [发展] 积极心理学是人本主义的实证科学化——PERMA模型继承了自我实现的研究纲领
 - [禅宗](../../../religion/traditions/buddhism/zen.md) — [借用] 高峰体验与开悟
 - [道家](../../../philosophy/schools/eastern/laozi.md) — [借用] 自然、无为
 

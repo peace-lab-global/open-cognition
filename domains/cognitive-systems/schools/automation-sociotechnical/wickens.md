@@ -109,6 +109,10 @@ Simon (有限理性与有限资源)
 - **情境意识**：Endsley 扩展了威肯斯的工作，将资源模型应用于 SA 的显示设计
 - **设计心理学**：Norman 的设计原则与威肯斯的工程心理学传统相互呼应
 - **认知神经科学**：多资源模型的神经基础——不同脑区的加工特化
+- [卡尼曼 Kahneman](../../../psychology/schools/cognitive/kahneman.md) `[继承]` 多资源模型建立在注意力作为有限资源的认知心理学传统上
+- [西蒙 Simon](../cybernetics/simon.md) `[继承]` 多资源模型将有限理性从决策扩展到注意力的多维度分析
+- [斯威勒 Sweller](../naturalistic-decision/sweller.md) `[互补]` 多资源模型与CLT互补——前者关注任务分配，后者关注学习设计
+- [诺曼 Norman](../cognitive-engineering/norman.md) `[互补]` 多资源模型与行动七阶段——认知资源与行动分析的互补
 
 ## 进阶阅读
 

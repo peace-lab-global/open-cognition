@@ -169,3 +169,5 @@ sources:
 - **哲学 Skills**: [Hume 休谟](../../philosophy/schools/empiricism/hume.md) — 经验主义传统的平行继承 [平行]
 - **心理学 Skills**: [Rogers 罗杰斯](./rogers.md) — 人本主义对个人经验的重视 [发展]
 - **心理学 Skills**: [Damasio 达马西奥](./damasio.md) — 具身情绪理论的当代发展 [发展]
+- **心理学 Skills**: [Freud 弗洛伊德](../psychoanalysis/freud.md) — 同时代开创者，潜意识与意识流对心理生活的不同切入 [平行]
+- **心理学 Skills**: [Rogers 罗杰斯](../humanistic/rogers.md) — 人本主义心理学继承詹姆斯对个人经验的重视 [发展]

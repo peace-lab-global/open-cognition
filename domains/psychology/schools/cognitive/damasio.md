@@ -80,6 +80,8 @@ sources:
 - [休谟 · 情感主义](../../../philosophy/schools/empiricism/hume.md) `[平行]` "理性是激情的奴隶"与"情绪是决策的必要条件"
 - [梅洛-庞蒂 · 身体现象学](../../../philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 两者都反对身心二元论
 - [贝克 · CBT](./beck.md) `[互补]` 认知重构可理解为对有害躯体标记的重新校准
+- [范德科尔克 Van der Kolk](../trauma-psychology/van-der-kolk.md) `[互补]` 躯体标记与创伤的身体记忆——情绪的身体基础在创伤中尤为凸显
+- [詹姆斯 William James](../functionalism/william-james.md) `[继承]` 躯体标记假说直接继承詹姆斯-兰格情绪理论的身心统一观
 
 ## 进阶阅读
 

@@ -93,6 +93,9 @@ sources:
 - [文学批评](../../../literature/criticism/psychoanalytic.md) `[应用]` 精神分析批评
 - [种子与熏习 · Bīja and Vāsanā](../../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) `[平行]` 早期经验的持久影响
 - [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 阿赖耶识与潜意识的储存功能类似，但理论框架不同
+- [范德科尔克 Van der Kolk](../trauma-psychology/van-der-kolk.md) `[发展]` 从精神分析创伤理论到身体导向的创伤神经科学
+- [詹姆斯 William James](../functionalism/william-james.md) `[平行]` 同时代开创者——潜意识与意识流对心理生活的不同切入
+- [埃里克森 Erikson](../developmental/erikson.md) `[发展]` 埃里克森扩展弗洛伊德心理性欲发展为心理社会八阶段
 
 ## 进阶阅读
 

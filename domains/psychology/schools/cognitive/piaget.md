@@ -86,6 +86,8 @@ sources: [《儿童的语言与思维》, 《发生认识论原理》, 《儿童
 - [贝克 Beck](./beck.md) — [借用] 图式（Schema）概念被 CBT 借用
 - [康德 Kant](../../../philosophy/schools/german-idealism/kant.md) — [继承] 认知范畴的发生学版本
 - [认知失调](../../concepts/cognitive-dissonance.md) — [平行] 平衡机制与认知不一致
+- [埃里克森 Erikson](../developmental/erikson.md) — [互补] 认知发展与心理社会发展是平行的——阶段理论的两种进路
+- [情境化认知 · Situated Cognition](../../../cognitive-systems/concepts/situated-cognition.md) — [发展] 建构主义在真实情境中的延伸——认知嵌入物理与社会情境
 
 ## 进阶阅读
 

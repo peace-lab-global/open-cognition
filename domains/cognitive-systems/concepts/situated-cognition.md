@@ -99,6 +99,8 @@ sources:
 - [拉图尔 Latour](../../../sociology/schools/actor-network/latour.md) `[互补]` 行动者网络——知识在人与非人的网络中生成
 - [布迪厄 Bourdieu](../../../sociology/schools/structuralism/bourdieu.md) `[平行]` 惯习——嵌入身体和情境的认知模式
 - [维果茨基 Vygotsky](../../../psychology/schools/developmental/vygotsky.md) `[互补]` 社会文化理论——认知在社会互动中发展
+- [皮亚杰 Piaget](../../../psychology/schools/cognitive/piaget.md) `[继承]` 建构主义在真实情境中的延伸——认知嵌入物理与社会情境
+- [哈钦斯 Hutchins](../schools/distributed/hutchins.md) `[互补]` 分布式认知关注系统层，情境化认知关注参与层
 
 ## 进阶阅读
 

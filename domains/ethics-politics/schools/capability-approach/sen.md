@@ -92,6 +92,10 @@ but by what people are actually able to do and be.
 - **努斯鲍姆 (Nussbaum)**：能力进路的共同推进者，但努斯鲍姆更强调能力清单
 - **马克思 (Marx)**：人的全面发展概念与能力进路的深层共鸣
 
+- [努斯鲍姆 · Nussbaum](./nussbaum.md) `[同源]` 能力进路共同奠基者，努斯鲍姆补充了规范性清单
+- [罗尔斯 · Rawls](../social-contract/rawls.md) `[批判]` 森批评基本善框架，提出能力平等替代资源平等
+- [马克思 · Marx](../../../sociology/schools/classical/marx.md) `[平行]` 人的全面发展概念与能力进路对人类繁荣的关切相呼应
+
 ## 当代启示 · Contemporary Relevance
 
 - 联合国人类发展指数（HDI）直接受森的影响

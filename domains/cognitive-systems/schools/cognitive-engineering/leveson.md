@@ -96,6 +96,8 @@ sources:
 - **[平行] Woods 的韧性工程**：同为系统安全理论，Woods 更强调系统的适应性能力，Leveson 更强调控制结构的设计
 - **[互补] Reason 的瑞士奶酪模型**：STAMP 将 Reason 的"潜在条件"概念重新表述为"控制约束不足"
 - **[参考] 漂移失败**：[参见](../../../concepts/drift-into-failure.md) — Leveson 的约束松动概念与 Dekker 的漂移概念相通
+- [拉斯穆森 Rasmussen](./rasmussen.md) `[继承]` 继承了Rasmussen对复杂系统安全的系统分析方法
+- [阿什比 Ashby](../cybernetics/ashby.md) `[继承]` STAMP控制论框架直接继承必要多样性法则
 
 ## 进阶阅读
 

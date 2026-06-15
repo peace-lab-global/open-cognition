@@ -90,6 +90,7 @@ sources:
 - [韦伯](../classical/weber.md) `[继承]` 行动理论起点
 - [哈贝马斯](../critical/habermas.md) `[发展+批判]` 拆分系统与生活世界
 - [马斯洛 · 需要层级](../../../psychology/schools/humanistic/maslow.md) `[平行]` 层级整合的不同表达
+- [米尔斯 · Mills](../classical/mills.md) `[批判]` 米尔斯批判帕森斯"宏大理论"，主张回到经验与公共议题
 
 ## 进阶阅读
 

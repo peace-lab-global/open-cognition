@@ -185,3 +185,6 @@ sources:
 - **心理学 Skills**: [Maslow 马斯洛](../humanistic/maslow.md) — 自我实现理论的科学化发展 [发展]
 - **心理学 Skills**: [Frankl 弗兰克尔](../existential-psychology/frankl.md) — PERMA中意义维度的理论来源 [互补]
 - **心理学 Skills**: [Beck 贝克](../cognitive/beck.md) — 认知治疗与解释风格理论的互补 [互补]
+- **心理学 Skills**: [Maslow 马斯洛](../humanistic/maslow.md) — 自我实现理论的科学化发展，积极心理学的直接先驱 [发展]
+- **心理学 Skills**: [Rogers 罗杰斯](../humanistic/rogers.md) — 来访者中心的成长倾向与PERMA模型的实证化 [发展]
+- **心理学 Skills**: [Kahneman 卡尼曼](../cognitive/kahneman.md) — 双系统理论与解释风格——乐观训练涉及系统2调节 [互补]

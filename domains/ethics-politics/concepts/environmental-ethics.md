@@ -104,6 +104,10 @@ nature and future generations.
 | 心理学 | 生态焦虑、亲环境行为、自然联结 |
 | 科技伦理 | 绿色AI、技术解决方案主义批判 |
 
+- [贝克 · Beck](../../sociology/schools/modernity/beck.md) `[互补]` 风险社会理论与环境伦理共同面对制造性生态风险
+- [罗尔斯 · Rawls](../schools/social-contract/rawls.md) `[继承]` 正义储蓄原则为代际正义与环境伦理提供规范基础
+- [诺丁斯 · Noddings](../schools/care-ethics/noddings.md) `[互补]` 关怀伦理从人际关系扩展至人与自然的道德关系
+
 ## 当代议题 · Contemporary Issues
 
 - **人类世**（Anthropocene）：人类作为地质力量的伦理意涵

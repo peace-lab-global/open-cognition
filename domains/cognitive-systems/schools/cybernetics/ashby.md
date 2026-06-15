@@ -78,6 +78,7 @@ sources: [《大脑设计》(Design for a Brain), 《控制论导论》(An Intro
 - [卡尼曼](../../../psychology/schools/cognitive/kahneman.md) `[平行]` 认知偏差可理解为认知系统多样性不足
 - [贝克](../../../sociology/schools/modernity/beck.md) `[平行]` 风险社会中的"不可预见后果"=系统多样性超出控制者多样性
 - [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[平行]` 同化/顺应 = 认知层面的多样性调节
+- [莱文森 Leveson](../cognitive-engineering/leveson.md) `[继承]` STAMP控制论框架直接继承必要多样性法则
 
 ## 进阶阅读
 

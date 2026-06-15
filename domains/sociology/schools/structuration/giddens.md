@@ -134,6 +134,8 @@ sources:
 - [贝克 Beck](../risk-society/beck.md) `[同源]` 反思性现代性与风险社会理论同属"第二现代性"框架
 - [鲍曼 Bauman](../modernity/bauman.md) `[互补]` 晚期现代性/流动性现代性的不同表述
 - [帕森斯 Parsons](../functionalism/parsons.md) `[发展]` 结构化理论是对帕森斯结构功能主义的批判性发展
+- [数字社会 Digital Society](../../concepts/digital-society.md) `[互补]` 时空延伸与脱域机制为理解数字社会提供理论框架
+- [埃利亚斯 · Elias](../figurational/elias.md) `[平行]` 结构化理论与形构社会学都试图超越结构与能动的二元对立
 
 ## 进阶阅读
 

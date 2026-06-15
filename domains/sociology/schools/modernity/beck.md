@@ -89,6 +89,7 @@ sources:
 - [马克思 · 异化](../classical/marx.md) `[发展]` 风险的阶级分布与"普遍受害者"
 - [康德 · 永久和平](../../../philosophy/schools/german-idealism/kant.md) `[继承]` 世界公民论
 - [积极心理学 · 韧性](../../../psychology/schools/positive/flourishing.md) `[平行]` 风险时代的个人应对
+- [环境伦理 · Environmental Ethics](../../../ethics-politics/concepts/environmental-ethics.md) `[互补]` 风险社会理论与气候正义的交叉——制造性风险的环境伦理维度
 
 ## 进阶阅读
 

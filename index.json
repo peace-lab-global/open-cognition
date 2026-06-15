@@ -1,10 +1,10 @@
 {
   "version": "v0.6",
-  "generated": "2026-06-12",
+  "generated": "2026-06-15",
   "stats": {
-    "entries": 413,
+    "entries": 431,
     "skills": 126,
-    "total": 539,
+    "total": 557,
     "domains": [
       "aesthetics",
       "arts",
@@ -24,6 +24,20 @@
       "title": "aesthetic-experience",
       "type": "concept",
       "domain": "aesthetics"
+    },
+    {
+      "path": "domains/aesthetics/concepts/artworld.md",
+      "id": "artworld",
+      "title": "艺术界 · Artworld",
+      "type": "concept",
+      "domain": "aesthetics",
+      "school": "analytic-aesthetics",
+      "tags": [
+        "institutional-theory",
+        "definition-of-art",
+        "danto",
+        "dickie"
+      ]
     },
     {
       "path": "domains/aesthetics/concepts/beauty.md",
@@ -58,6 +72,20 @@
         "kant",
         "fantasy",
         "thought-experiment"
+      ]
+    },
+    {
+      "path": "domains/aesthetics/concepts/mimesis.md",
+      "id": "mimesis",
+      "title": "模仿 · Mimesis",
+      "type": "concept",
+      "domain": "aesthetics",
+      "school": "classical-greek",
+      "tags": [
+        "representation",
+        "poetics",
+        "realism",
+        "art-theory"
       ]
     },
     {
@@ -393,6 +421,118 @@
       "title": "dewey-aesthetics",
       "type": "thinker",
       "domain": "aesthetics"
+    },
+    {
+      "path": "domains/arts/concepts/artwork.md",
+      "id": "artwork",
+      "title": "艺术作品 · Artwork",
+      "type": "concept",
+      "domain": "arts",
+      "school": "phenomenology",
+      "tags": [
+        "ontology",
+        "heidegger",
+        "truth",
+        "work-of-art"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/composition.md",
+      "id": "composition",
+      "title": "构图 · Composition",
+      "type": "concept",
+      "domain": "arts",
+      "school": "formalism",
+      "tags": [
+        "form",
+        "visual-grammar",
+        "balance",
+        "structure"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/craft.md",
+      "id": "craft",
+      "title": "工艺 · Craft",
+      "type": "concept",
+      "domain": "arts",
+      "school": "material-culture",
+      "tags": [
+        "skill",
+        "material",
+        "making",
+        "embodiment"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/genius.md",
+      "id": "genius",
+      "title": "天才 · Genius",
+      "type": "concept",
+      "domain": "arts",
+      "school": "romanticism",
+      "tags": [
+        "creativity",
+        "originality",
+        "inspiration",
+        "kant"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/medium.md",
+      "id": "medium",
+      "title": "媒介 · Medium",
+      "type": "concept",
+      "domain": "arts",
+      "school": "modernism",
+      "tags": [
+        "material",
+        "modernism",
+        "greenberg",
+        "mcluhan"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/representation.md",
+      "id": "representation",
+      "title": "再现 · Representation",
+      "type": "concept",
+      "domain": "arts",
+      "school": "analytic-aesthetics",
+      "tags": [
+        "depiction",
+        "symbol",
+        "realism",
+        "convention"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/style.md",
+      "id": "style",
+      "title": "风格 · Style",
+      "type": "concept",
+      "domain": "arts",
+      "school": "art-history",
+      "tags": [
+        "art-history",
+        "form",
+        "period",
+        "attribution"
+      ]
+    },
+    {
+      "path": "domains/arts/concepts/technique.md",
+      "id": "technique",
+      "title": "技法 · Technique",
+      "type": "concept",
+      "domain": "arts",
+      "school": "studio-practice",
+      "tags": [
+        "skill",
+        "method",
+        "procedure",
+        "embodiment"
+      ]
     },
     {
       "path": "domains/arts/schools/music/beethoven.md",
@@ -1575,6 +1715,118 @@
         "共同体主义",
         "叙事伦理学",
         "现代性批判"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/close-reading.md",
+      "id": "close-reading",
+      "title": "细读 · Close Reading",
+      "type": "concept",
+      "domain": "literature",
+      "school": "new-criticism",
+      "tags": [
+        "method",
+        "textuality",
+        "form",
+        "interpretation"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/fictionality.md",
+      "id": "fictionality",
+      "title": "虚构性 · Fictionality",
+      "type": "concept",
+      "domain": "literature",
+      "school": "analytic-aesthetics",
+      "tags": [
+        "fiction",
+        "truth",
+        "pretense",
+        "possible-worlds"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/genre.md",
+      "id": "genre",
+      "title": "文类 · Genre",
+      "type": "concept",
+      "domain": "literature",
+      "school": "literary-theory",
+      "tags": [
+        "classification",
+        "form",
+        "convention",
+        "expectation"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/implied-reader.md",
+      "id": "implied-reader",
+      "title": "隐含读者 · Implied Reader",
+      "type": "concept",
+      "domain": "literature",
+      "school": "reception-theory",
+      "tags": [
+        "reception",
+        "phenomenology",
+        "reader-response",
+        "gaps"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/intertextuality.md",
+      "id": "intertextuality",
+      "title": "互文性 · Intertextuality",
+      "type": "concept",
+      "domain": "literature",
+      "school": "post-structuralism",
+      "tags": [
+        "textuality",
+        "quotation",
+        "influence",
+        "dialogism"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/metaphor.md",
+      "id": "metaphor",
+      "title": "隐喻 · Metaphor",
+      "type": "concept",
+      "domain": "literature",
+      "school": "rhetorical-hermeneutic",
+      "tags": [
+        "rhetoric",
+        "semantics",
+        "cognition",
+        "hermeneutics"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/narrativity.md",
+      "id": "narrativity",
+      "title": "叙事性 · Narrativity",
+      "type": "concept",
+      "domain": "literature",
+      "school": "narratology",
+      "tags": [
+        "narrative",
+        "story",
+        "plot",
+        "time"
+      ]
+    },
+    {
+      "path": "domains/literature/concepts/world-literature.md",
+      "id": "world-literature",
+      "title": "世界文学 · World Literature",
+      "type": "concept",
+      "domain": "literature",
+      "school": "comparative-literature",
+      "tags": [
+        "globalization",
+        "translation",
+        "circulation",
+        "canon"
       ]
     },
     {

@@ -89,6 +89,8 @@ sources:
 - [无为](../../../religion/traditions/taoism/wuwei.md) `[张力]` 异化是有为之极
 - [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 揭示价值的来源
 - [福柯 · 权力](../structuralism/foucault.md) `[继承+批判]` 后结构主义对马克思的吸收与改造
+- [森 · Capability Approach](../../../ethics-politics/schools/capability-approach/sen.md) `[平行]` 人的全面发展概念与能力进路的深层共鸣
+- [米尔斯 · Mills](../classical/mills.md) `[发展]` 权力精英理论继承了马克思对资本主义权力结构的分析
 
 ## 进阶阅读
 

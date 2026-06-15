@@ -85,6 +85,7 @@ the fundamental organizing logic of society, replacing industrial-era hierarchie
 - **贝克 (Beck)**：风险社会理论，全球风险的网络化传播
 - **哈贝马斯 (Habermas)**：公共领域理论，卡斯特数字公共领域的对话对象
 - **福柯 (Foucault)**：权力理论，网络权力与规训权力的对比
+- **数字社会 (Digital Society)**：[参见](../../concepts/digital-society.md) `[发展]` 网络社会理论是数字社会概念的社会学前驱
 
 ## 当代启示 · Contemporary Relevance
 

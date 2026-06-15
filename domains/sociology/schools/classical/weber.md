@@ -84,6 +84,7 @@ sources:
 - [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[发展]` 祛魅与"上帝已死"
 - [康德](../../../philosophy/schools/german-idealism/kant.md) `[发展]` 价值-事实区分的社会学化
 - [马斯洛 · 自我实现](../../../psychology/schools/humanistic/maslow.md) `[张力]` 铁笼中的实现可能性
+- [米尔斯 · Mills](../classical/mills.md) `[发展]` 白领分析继承了韦伯对科层制理性化的批判
 
 ## 进阶阅读
 

@@ -91,6 +91,7 @@ sources:
 - [韦伯](../classical/weber.md) `[继承]` 地位群体（Stand）→ 文化资本
 - [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[发展]` 揭示"自然"背后的权力
 - **习惯回路（Habit Loop）** `[平行]` 但布迪厄强调结构嵌入
+- [埃利亚斯 · Elias](../figurational/elias.md) `[互补]` 惯习与形构共享对社会关系动态生成的分析
 
 ## 进阶阅读
 

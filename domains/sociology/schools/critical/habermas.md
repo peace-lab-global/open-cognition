@@ -89,6 +89,8 @@ sources:
 - [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) `[发展]` 用日常语言学派改造批判理论
 - [福柯](../structuralism/foucault.md) `[对立]` 规范性 vs 反规范性
 - [罗杰斯 · 真诚一致](../../../psychology/schools/humanistic/rogers.md) `[平行]` 微观对话与宏观理论
+- [泰勒 · Communitarianism](../../../ethics-politics/schools/communitarianism/taylor.md) `[张力]` 承认政治与交往理性的互补——认同的对话性建构
+- [安全文化 · Safety Culture](../../../cognitive-systems/concepts/safety-culture.md) `[平行]` 交往理性与安全文化——开放对话和理性沟通是两者的共同理想
 
 ## 进阶阅读
 

@@ -88,9 +88,10 @@ Nussbaum provides a concrete list of "Ten Central Capabilities":
 ## 延伸阅读 · Cross-References
 
 - **亚里士多德 (Aristotle)**：努斯鲍姆的核心理论资源——人性功能与实践智慧
-- **森 (Sen)**：能力进路的共同奠基者，努斯鲍姆补充了规范性清单
+- **森 (Sen)**：能力进路的共同奠基者，努斯鲍姆补充了规范性清单 → [参见](./sen.md) `[同源]`
 - **罗尔斯 (Rawls)**：努斯鲍姆批评其"社会契约"框架的局限性
 - **关怀伦理 · 诺丁斯 (Noddings)**：能力清单中"归属"与关怀伦理深度共鸣
+- **人权 · Human Rights**：[参见](../../concepts/human-rights.md) `[互补]` 能力进路为人权提供"能力论"哲学基础
 
 ## 当代启示 · Contemporary Relevance
 

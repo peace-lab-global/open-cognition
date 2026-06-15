@@ -81,6 +81,7 @@ sources: [《认知负荷理论》(Cognitive Load Theory), "Cognitive Load Durin
 - [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[对话]` 图式概念被 CLT 重新定义为长时记忆中的知识结构
 - [卡尼曼](../../../psychology/schools/cognitive/kahneman.md) `[互补]` 系统2的高认知负荷导致系统1主导——CLT 和双系统理论互为补充
 - [诺曼](../cognitive-engineering/norman.md) `[互补]` 设计心理学中的信息呈现原则与 CLT 一致
+- [威肯斯 Wickens](../automation-sociotechnical/wickens.md) `[互补]` 多资源模型与CLT互补——前者关注任务分配，后者关注学习设计
 
 ## 进阶阅读
 

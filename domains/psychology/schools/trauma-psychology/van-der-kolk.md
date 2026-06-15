@@ -103,6 +103,10 @@ Trauma is not only stored in memory but imprinted in the body.
 - **鲍尔比 (Bowlby)**：依恋理论——安全依恋对创伤恢复的基础作用
 - **佛教正念**：身体觉察传统与当代创伤疗法的汇通
 
+- [弗洛伊德 Freud](../psychoanalysis/freud.md) `[继承]` 从精神分析创伤理论到身体导向的创伤神经科学
+- [达马西奥 Damasio](../cognitive/damasio.md) `[互补]` 躯体标记与创伤的身体记忆——情绪的身体基础
+- [西格尔 Siegel](../interpersonal-neurobiology/siegel.md) `[互补]` 人际神经生物学与创伤知情照护的整合框架
+
 ## 当代启示 · Contemporary Relevance
 
 - 疫情创伤、气候焦虑的身心整合应对

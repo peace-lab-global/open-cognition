@@ -134,6 +134,7 @@ sources:
 - [韦伯 Weber](./weber.md) `[发展]` 白领分析继承了韦伯的科层制理性化批判
 - [米尔斯 Mills](./mills.md) `[平行]` 米尔斯本人同时批判功能主义和经验主义
 - [阿伦特 Arendt](../../philosophy/schools/existentialism/arendt.md) `[平行]` 对权力与公共领域的分析有相似关切
+- [帕森斯 Parsons](../functionalism/parsons.md) `[批判]` 米尔斯批判帕森斯"宏大理论"的过度抽象与去政治化
 
 ## 进阶阅读
 

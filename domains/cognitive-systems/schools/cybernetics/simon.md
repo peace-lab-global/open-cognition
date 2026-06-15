@@ -82,6 +82,7 @@ sources: [《管理行为》(Administrative Behavior), 《人工科学》(The Sc
 - [维纳](./wiener.md) `[继承]` 将控制论思想应用于决策分析
 - [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[平行]` 问题解决 = 认知层面的搜索过程
 - [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[平行]` "吾生也有涯，而知也无涯"——对有限性的认识
+- [威肯斯 Wickens](../automation-sociotechnical/wickens.md) `[发展]` 多资源模型将有限理性从决策扩展到注意力的多维度分析
 
 ## 进阶阅读
 

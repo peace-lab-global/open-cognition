@@ -144,8 +144,8 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德 Freud](./freud.md) `[发展]` 埃里克森扩展了弗洛伊德的发展阶段理论
-- [皮亚杰 Piaget](./piaget.md) `[互补]` 认知发展与心理社会发展是平行的
+- [弗洛伊德 Freud](../psychoanalysis/freud.md) `[发展]` 埃里克森扩展了弗洛伊德的发展阶段理论
+- [皮亚杰 Piaget](../cognitive/piaget.md) `[互补]` 认知发展与心理社会发展是平行的
 - [鲍尔比 Bowlby](../attachment-theory/bowlby.md) `[互补]` 依恋理论关注早期关系，埃里克森关注整个生命周期
 - [弗兰克尔 Frankl](../existential-psychology/frankl.md) `[平行]` 对意义和同一性的关注
 

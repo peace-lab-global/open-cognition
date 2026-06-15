@@ -91,6 +91,8 @@ sources:
 - [存在主义](../../../philosophy/schools/existentialism/sartre.md) `[哲学基础]` 存在主义哲学
 - [教育学](../../../education/schools/humanistic/rogers.md) `[应用]` 人本主义教育
 - [组织行为学](../../../management/schools/humanistic/rogers.md) `[应用]` 人本主义管理
+- [塞利格曼 Seligman](../positive/seligman.md) `[发展]` 积极心理学将来访者中心的"成长倾向"实证化为PERMA模型
+- [詹姆斯 William James](../functionalism/william-james.md) `[继承]` 人本主义心理学继承詹姆斯对个人经验和意识流的重视
 
 ## 进阶阅读
 

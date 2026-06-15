@@ -89,6 +89,8 @@ sources:
 - [马克思](../classical/marx.md) `[发展+偏离]` 对意识形态的非中心化重写
 - [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) `[平行]` 行为塑造的两种理论
 - [禅宗 · 自我](../../../religion/traditions/buddhism/zen.md) `[张力]` 自我技术 vs 无我
+- [泰勒 · Communitarianism](../../../ethics-politics/schools/communitarianism/taylor.md) `[批判]` 泰勒批评福柯忽视承认政治的规范性维度
+- [数字社会 · Digital Society](../../concepts/digital-society.md) `[发展]` 全景敞视主义在监控资本主义与算法治理中的当代延伸
 
 ## 进阶阅读
 

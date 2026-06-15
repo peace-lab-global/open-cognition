@@ -79,6 +79,10 @@ sources: [《信息处理与人机交互》(Information Processing and Human-Mac
 - [维纳](../cybernetics/wiener.md) `[继承]` 控制论的系统观
 - [卡尼曼](../../../psychology/schools/cognitive/kahneman.md) `[平行]` 双系统理论与 SRK 模型有结构相似性
 - [Reason](#) `[互补]` 瑞士奶酪模型补充了 Rasmussen 的事故分析
+- [人因可靠性分析 · HRA](../../concepts/human-reliability-analysis.md) `[应用]` HRA以SRK模型为认知分类基础，量化人的错误概率
+- [维森特 Vicente](../automation-sociotechnical/vicente.md) `[继承]` 维森特继承并系统化了CWA框架
+- [班布里奇 Bainbridge](../automation-sociotechnical/bainbridge.md) `[互补]` 自动化悖论与SRK模型——自动化将人推向知识层
+- [莱文森 Leveson](../cognitive-engineering/leveson.md) `[互补]` STAMP系统安全方法与SRK认知模型的对话
 
 ## 进阶阅读
 
