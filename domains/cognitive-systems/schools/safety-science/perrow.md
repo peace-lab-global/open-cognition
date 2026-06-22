@@ -95,7 +95,7 @@ sources:
 - **[平行] Reason 的瑞士奶酪模型**：同为系统事故理论，Reason 强调组织防护层次，Perrow 强调技术-结构决定性
 - **[对立] 韧性工程**：韧性工程主张系统可以通过增强适应能力来避免事故，Perrow 则认为某些系统结构下事故不可避免
 - **[互补] Dekker 的漂移失败**：Dekker 的"漂移"概念可视为 Perrow 理论的微观机制解释
-- **[原创] 常事故概念**：[参见](../../../concepts/normal-accidents.md) — 该概念文件以 Perrow 理论为核心
+- **[原创] 常事故概念**：[参见](../../concepts/normal-accidents.md) — 该概念文件以 Perrow 理论为核心
 
 ## 进阶阅读
 

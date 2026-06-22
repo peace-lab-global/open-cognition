@@ -73,7 +73,7 @@ sources: [《妙法莲华经》（鸠摩罗什译）, 《维摩诘所说经》, 
 
 ## 跨学科关联
 
-- [瓦尔特·本雅明 · 翻译者任务](../../../philosophy/schools/continental/benjamin.md) — [平行] "纯语言"与翻译的哲学
+- [瓦尔特·本雅明 · 翻译者任务](../../../aesthetics/schools/critical-aesthetics/benjamin.md) — [平行] "纯语言"与翻译的哲学
 - [僧肇](./sengzhao.md) — [继承] 嫡传弟子，"解空第一"
 - [龙树](./nagarjuna.md) — [发展] 将龙树中观思想引入汉语世界
 

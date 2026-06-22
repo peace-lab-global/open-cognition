@@ -118,7 +118,7 @@ sources: [《大乘起信论》（传马鸣著，真谛译）]
 ## 跨学科关联
 
 - [康德 · 先验哲学](../../../philosophy/schools/german-idealism/kant.md) — [平行] 一心二门 vs 先验/经验
-- [荣格 · 个体化](../../psychology/schools/psychoanalysis/jung.md) — [平行] 本觉/始觉 vs 自性化过程
+- [荣格 · 个体化](../../../psychology/schools/psychoanalysis/jung.md) — [平行] 本觉/始觉 vs 自性化过程
 - [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 真如 vs 存在的澄明
 
 ## 进阶阅读

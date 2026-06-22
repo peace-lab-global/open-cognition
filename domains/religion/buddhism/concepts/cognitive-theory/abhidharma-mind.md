@@ -130,10 +130,10 @@ sources:
 
 ## 跨学科关联
 
-- [威廉·詹姆斯 · 意识流](../../../../domains/psychology/schools/functionalism/james.md) `[平行]` 有分 + 心路 ≈ 意识流结构
-- [Lisa Barrett · 情绪构造](../../../../domains/psychology/schools/cognitive/barrett.md) `[平行]` 心所组合 = 情绪的构造论
-- [Fodor · 心智模块](../../../../domains/philosophy/schools/analytic/fodor.md) `[张力]` 心所不是严格模块，而是伴随因素
-- [Baars · 全局工作空间](../../../../domains/psychology/schools/cognitive/baars.md) `[平行]` 速行 ≈ 进入全局工作空间的处理
+- [威廉·詹姆斯 · 意识流](../../../../psychology/schools/functionalism/james.md) `[平行]` 有分 + 心路 ≈ 意识流结构
+- [Lisa Barrett · 情绪构造](../../../../psychology/schools/cognitive/barrett.md) `[平行]` 心所组合 = 情绪的构造论
+- [Fodor · 心智模块](../../../../philosophy/schools/analytic/fodor.md) `[张力]` 心所不是严格模块，而是伴随因素
+- [Baars · 全局工作空间](../../../../psychology/schools/cognitive/baars.md) `[平行]` 速行 ≈ 进入全局工作空间的处理
 
 ## 进阶阅读
 

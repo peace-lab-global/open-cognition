@@ -1,10 +1,14 @@
 ---
+id: aesthetics.concepts.aesthetic-experience
+title: 审美经验 · Aesthetic Experience
 type: concept
-name: 审美经验 / Aesthetic Experience
 domain: aesthetics
+school: general-aesthetics
+era: universal
+tags: [审美经验, 无功利, 康德美学, 心流, 沉浸]
 related_concepts:
-  - [beauty.md](beauty.md)
-  - [sublime.md](sublime.md)
+  - beauty.md
+  - sublime.md
 ---
 
 # 审美经验 / Aesthetic Experience

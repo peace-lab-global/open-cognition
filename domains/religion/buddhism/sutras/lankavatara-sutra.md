@@ -359,7 +359,7 @@ graph TB
 | **转识成智** | 认知重组/元认知 | 从自动反应到觉知选择的认知升级 |
 | **五法** | 认知的五层结构 | 名→相→妄想→正智→如如 = 标签→表征→偏见→正见→如实 |
 
-> 交叉参考：[八识论](../../concepts/cognitive-theory/eight-consciousness.md) · [认知建构论](../../concepts/cognitive-theory/constructivism.md) · [元认知](../../concepts/cognitive-theory/metacognition.md)
+> 交叉参考：[八识论](../concepts/cognitive-theory/eight-consciousness.md) · [认知建构论](../../concepts/cognitive-theory/constructivism.md) · [元认知](../../concepts/cognitive-theory/metacognition.md)
 
 ---
 

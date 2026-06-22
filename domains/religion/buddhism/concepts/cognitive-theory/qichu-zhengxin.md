@@ -80,8 +80,8 @@ sources:
 
 ## 跨学科关联
 
-- [维特根斯坦 · 语言界限](../../../../domains/philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言不能表达的，可以通过行动（修行）指向
-- [海德格尔 · 存在问题](../../../../domains/philosophy/schools/existentialism/heidegger.md) `[平行]` 存在不是存在者，心不是对象
+- [维特根斯坦 · 语言界限](../../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言不能表达的，可以通过行动（修行）指向
+- [海德格尔 · 存在问题](../../../../philosophy/schools/existentialism/heidegger.md) `[平行]` 存在不是存在者，心不是对象
 
 ## 进阶阅读
 

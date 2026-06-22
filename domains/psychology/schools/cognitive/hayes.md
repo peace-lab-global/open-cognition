@@ -8,7 +8,11 @@ era: 当代
 birth: 1948
 tags: [ACT, 接受与承诺疗法, 关系框架理论, 认知解离, 心理灵活性]
 aliases: [Steven C. Hayes, 斯蒂文·海耶斯]
-sources: [*Acceptance and Commitment Therapy*, 1999, *Get Out of Your Mind and Into Your Life*, 2005]
+sources:
+  - "Acceptance and Commitment Therapy"
+  - "1999"
+  - "Get Out of Your Mind and Into Your Life"
+  - "2005"
 ---
 
 # 海耶斯 Steven Hayes
@@ -87,7 +91,7 @@ sources: [*Acceptance and Commitment Therapy*, 1999, *Get Out of Your Mind and I
 
 ## 跨学科关联
 
-- [四念处 · Satipaṭṭhāna](../../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 受念处 + 法念处
+- [四念处 · Satipaṭṭhāna](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 受念处 + 法念处
 - [卡巴金 Kabat-Zinn](./kabat-zinn.md) — [平行] 正念干预的不同路线
 - [斯金纳 Skinner](../behaviorism/skinner.md) — [继承] 行为分析传统
 - [贝克的 CBT Beck](./beck.md) — [发展] 从 CBT 到第三代 CBT

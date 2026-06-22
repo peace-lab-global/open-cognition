@@ -121,9 +121,9 @@ sources:
 
 ## 跨学科关联
 
-- [行为主义 · 刺激-反应链](../../../../domains/psychology/schools/behaviorism/skinner.md) `[平行]` 触→受→爱→取 ≈ S-R 链
-- [认知行为疗法 · 认知三角](../../../../domains/psychology/schools/cognitive/beck.md) `[平行]` 思维-情绪-行为的循环
-- [预测编码 · 主动推理](../../../../domains/psychology/schools/cognitive/friston.md) `[平行]` 预测 → 感知 → 预测误差 → 更新
+- [行为主义 · 刺激-反应链](../../../../psychology/schools/behaviorism/skinner.md) `[平行]` 触→受→爱→取 ≈ S-R 链
+- [认知行为疗法 · 认知三角](../../../../psychology/schools/cognitive/beck.md) `[平行]` 思维-情绪-行为的循环
+- [预测编码 · 主动推理](../../../../psychology/schools/cognitive/friston.md) `[平行]` 预测 → 感知 → 预测误差 → 更新
 - [系统论 · 反馈回路](../../../../domains/cognitive-systems/schools/cybernetics/weiner.md) `[平行]` 缘起链 = 正反馈回路
 
 ## 进阶阅读

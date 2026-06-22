@@ -76,7 +76,7 @@ sources: [《中论》, 《百论》, 《二谛义》（吉藏）]
 
 - [中道](./middle-way.md) — [同源] 二谛是中道的展开
 - [三论宗](../schools/sanlun.md) — [继承] 言教二谛
-- [空性](../traditions/buddhism/sunyata.md) — [同源] 胜义谛 = 空性
+- [空性](../../traditions/buddhism/sunyata.md) — [同源] 胜义谛 = 空性
 - [吉藏](../masters/jizang.md) — [继承] 四重二谛
 
 ## 应用场景
@@ -95,7 +95,7 @@ sources: [《中论》, 《百论》, 《二谛义》（吉藏）]
 ## 跨学科关联
 
 - [康德 · 现象/物自体](../../../philosophy/schools/german-idealism/kant.md) — [平行] 世俗/胜义 vs 现象/物自体
-- [伽达默尔 · 效果历史](../../../philosophy/schools/phenomenology/gadamer.md) — [平行] 言教二谛 vs 诠释学
+- [伽达默尔 · 效果历史](../../../philosophy/schools/hermeneutics/gadamer.md) — [平行] 言教二谛 vs 诠释学
 
 ## 进阶阅读
 

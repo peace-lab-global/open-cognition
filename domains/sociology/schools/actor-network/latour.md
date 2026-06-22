@@ -154,7 +154,7 @@ sources:
 ## 关联 Skills
 
 - **社会学 Skills**: [Foucault 福柯权力分析](../structuralism/foucault.md) — 从"话语-权力"到"网络-翻译"的权力理论发展
-- **社会学 Skills**: [Beck 贝克风险社会](../risk-society/beck.md) — 现代性批判的不同路径，互补视角
+- **社会学 Skills**: [Beck 贝克风险社会](../modernity/beck.md) — 现代性批判的不同路径，互补视角
 - **社会学 Skills**: [Castells 卡斯特网络社会](../network-society/castells.md) — 网络概念的平行发展，技术网络 vs 行动者网络
 - **社会学 Skills**: [Bourdieu 布尔迪厄场域理论](../structuralism/bourdieu.md) — 社会结构 vs 网络集合的对立范式
 - **哲学 Skills**: [Deleuze 德勒兹](../../../philosophy/schools/post-structuralism/deleuze.md) — 集合体概念的哲学来源

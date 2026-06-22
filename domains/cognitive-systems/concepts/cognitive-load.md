@@ -82,9 +82,9 @@ sources:
 ## 跨学科关联
 
 - [西蒙 Simon](../schools/cybernetics/simon.md) `[继承]` 工作记忆限制的理论基础
-- [卡尼曼 Kahneman](../../../psychology/schools/cognitive/kahneman.md) `[互补]` 高认知负荷导致系统2退让给系统1
-- [齐美尔 Simmel](../../../sociology/schools/classical/simmel.md) `[平行]` 大都会的认知刺激过载
-- [佛教心物一元](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心识容量有限，需要修炼扩展
+- [卡尼曼 Kahneman](../../psychology/schools/cognitive/kahneman.md) `[互补]` 高认知负荷导致系统2退让给系统1
+- [齐美尔 Simmel](../../sociology/schools/classical/simmel.md) `[平行]` 大都会的认知刺激过载
+- [佛教心物一元](../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心识容量有限，需要修炼扩展
 
 ## 进阶阅读
 

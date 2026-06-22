@@ -9,7 +9,11 @@ birth: 1935
 death: 2017
 tags: [心智模块, 思维语言, 计算心灵, 表征主义, 先天论]
 aliases: [Jerry Fodor, 杰里·福多]
-sources: [*The Modularity of Mind*, 1983, *The Language of Thought*, 1975]
+sources:
+  - "The Modularity of Mind"
+  - "1983"
+  - "The Language of Thought"
+  - "1975"
 ---
 
 # 福多 Jerry Fodor
@@ -89,7 +93,7 @@ Fodor 定义模块需满足以下特征（不必全部）：
 
 ## 跨学科关联
 
-- [阿毗达磨心识论 · Abhidharma Mind](../../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[张力]` 心所不是严格模块，而是伴随因素
+- [阿毗达磨心识论 · Abhidharma Mind](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[张力]` 心所不是严格模块，而是伴随因素
 - [乔姆斯基 Chomsky](./chomsky.md) — [继承] 先天论与计算心灵
 - [平克 Pinker](./pinker.md) — [发展] 大量模块假说
 - [Rumelhart](../../../cognitive-systems/schools/cognitive-engineering/rumelhart.md) — [对立] 联结主义 vs 模块-计算观

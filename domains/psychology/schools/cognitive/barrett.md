@@ -8,7 +8,11 @@ era: 当代
 birth: 1963
 tags: [情绪构造论, 预测脑, 情感科学, 心理建构主义, 情绪粒度]
 aliases: [Lisa Feldman Barrett, 丽莎·费尔德曼·巴雷特]
-sources: [*How Emotions Are Made*, 2017, "The theory of constructed emotion", 2017]
+sources:
+  - "How Emotions Are Made"
+  - "2017"
+  - "The theory of constructed emotion"
+  - "2017"
 ---
 
 # 巴雷特 Lisa Feldman Barrett
@@ -81,7 +85,7 @@ sources: [*How Emotions Are Made*, 2017, "The theory of constructed emotion", 20
 
 ## 跨学科关联
 
-- [阿毗达磨心识论 · Abhidharma Mind](../../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 心所组合 = 情绪的构造论
+- [阿毗达磨心识论 · Abhidharma Mind](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 心所组合 = 情绪的构造论
 - [弗里斯顿 Friston](./friston.md) — [平行] 预测加工的共同框架
 - [詹姆斯 James](../functionalism/james.md) — [继承与批判] 詹姆斯的"情绪是身体反应"是先驱
 - [Ekman](./ekman.md) — [对立] 基本情绪 vs 构造情绪

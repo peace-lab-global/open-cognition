@@ -477,9 +477,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)："心如工画师"涉及第八阿赖耶识的种子变现功能
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)：法界缘起超越了中观的空性论，从"空"到"有"的圆融
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)：华严的"转法界"是从染污认知转为清净法界智
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："一切唯心造"是心境关系的最极端表达
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)：十玄门中的"微细相容安立门"揭示了根尘互含的关系
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)：法界缘起与起信论的"真如缘起"一脉相承
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)："心如工画师"涉及第八阿赖耶识的种子变现功能
+- [中观](../concepts/cognitive-theory/madhyamaka.md)：法界缘起超越了中观的空性论，从"空"到"有"的圆融
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)：华严的"转法界"是从染污认知转为清净法界智
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："一切唯心造"是心境关系的最极端表达
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)：十玄门中的"微细相容安立门"揭示了根尘互含的关系
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)：法界缘起与起信论的"真如缘起"一脉相承

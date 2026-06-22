@@ -12,7 +12,10 @@ Checks performed:
     1. Frontmatter: required fields by entry type
     2. Section presence: required H2 headings by entry type
     3. Line length: too short (<40) or too long (>600)
-    4. Broken relative links: markdown links that don't resolve
+    4. Broken relative links:
+         E003 (error)   — target exists in the repo but the link path is wrong
+         W006 (warning) — target basename exists nowhere; entry not authored yet
+                          (content backlog, tracked in reports/audit/, non-blocking)
     5. Tags: at least 1 tag on thinker/concept entries
     6. Cross-domain links: at least 1 link to another domain
 """
@@ -60,6 +63,16 @@ MAX_LINES = 600
 
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
+# Index every .md file by basename once at import time. Used to distinguish a
+# structurally-broken link (target exists somewhere, path is wrong → E003 error)
+# from a link to an entry that has not been authored yet (→ W006 warn, content
+# backlog, does not block CI).
+ALL_FILES_BY_NAME: dict[str, list[Path]] = {}
+for _p in (REPO_ROOT / "domains").rglob("*.md"):
+    ALL_FILES_BY_NAME.setdefault(_p.name, []).append(_p)
+for _p in (REPO_ROOT / "skills").rglob("*.md"):
+    ALL_FILES_BY_NAME.setdefault(_p.name, []).append(_p)
+
 
 @dataclass
 class Finding:
@@ -105,6 +118,9 @@ def extract_frontmatter(text: str) -> tuple[dict, int]:
 
 def classify(path: Path) -> str | None:
     rel = path.relative_to(REPO_ROOT).as_posix()
+    # Reports/audit files dropped under domains/ are not entries — skip them.
+    if "/reports/" in rel:
+        return None
     if "/skills/" in rel and path.name == "SKILL.md":
         return "skill"
     if "/schools/" in rel:
@@ -131,21 +147,26 @@ def lint_file(path: Path, report: Report) -> None:
     lines = text.split("\n")
     line_count = len(lines)
 
-    # --- Line length ---
+    # Classify first: only entry files (thinker/concept/skill/...) are subject
+    # to the per-entry checks below. Non-entry files living under domains/ (e.g.
+    # a report dropped into domains/.../reports/) are skipped for frontmatter
+    # and section checks. They still get the line-length advisory.
+    entry_type = classify(path)
+
+    # --- Line length (advisory for all files) ---
     if line_count < MIN_LINES:
         report.add(Finding(path, 1, "warn", "W001", f"too short ({line_count} < {MIN_LINES} lines)"))
     if line_count > MAX_LINES:
         report.add(Finding(path, 1, "warn", "W002", f"too long ({line_count} > {MAX_LINES} lines)"))
 
-    # --- Frontmatter ---
+    if entry_type is None:
+        return  # non-entry file (README, report, etc.)
+
+    # --- Frontmatter (entries only) ---
     fm, body_start = extract_frontmatter(text)
     if not fm:
         report.add(Finding(path, 1, "error", "E001", "missing or invalid YAML frontmatter"))
         return
-
-    entry_type = classify(path)
-    if entry_type is None:
-        return  # non-entry file (README etc)
 
     # Required fields
     for field_name in REQUIRED_FRONTMATTER.get(entry_type, []):
@@ -170,6 +191,13 @@ def lint_file(path: Path, report: Report) -> None:
             report.add(Finding(path, 1, "warn", "W004", f"missing section: {required}"))
 
     # --- Relative link validity ---
+    # Two failure modes:
+    #   E003 (error, blocks CI): the target EXISTS somewhere in the repo but
+    #     this link's path is wrong — a mechanical defect that should be fixed.
+    #   W006 (warn): the target basename exists NOWHERE in the repo, meaning the
+    #     linked concept/thinker has not been authored yet. This is a content
+    #     backlog item (tracked in reports/audit/*-content-backlog.md), not a
+    #     structural defect, so it warns rather than blocking CI.
     for i, line in enumerate(lines, start=1):
         for m in MD_LINK_RE.finditer(line):
             target = m.group(2)
@@ -178,9 +206,43 @@ def lint_file(path: Path, report: Report) -> None:
                 continue
             # Resolve relative to file's directory
             resolved = (path.parent / target).resolve()
-            if not resolved.exists():
-                report.add(Finding(path, i, "error", "E003",
-                                   f"broken relative link: {target}"))
+            if resolved.exists():
+                continue
+            target_name = Path(target).name
+            # Special case: SKILL.md targets share one basename across 100+ skill
+            # dirs. The meaningful existence check is whether the *parent skill
+            # dir* exists anywhere under skills/. If not, the skill itself has not
+            # been authored → W006 content backlog, not E003 structural error.
+            if target_name == "SKILL.md":
+                skill_dir = Path(target).parent.name
+                if skill_dir and not any(
+                    (REPO_ROOT / "skills" / fw / skill_dir).exists()
+                    for fw in (p.name for p in (REPO_ROOT / "skills").iterdir()
+                               if p.is_dir())
+                ):
+                    report.add(Finding(path, i, "warn", "W006",
+                                       f"link to unauthored skill: {target}"))
+                    continue
+            if ALL_FILES_BY_NAME and target_name in ALL_FILES_BY_NAME:
+                # Path-aware disambiguation: even when the basename exists, the
+                # link may name a sub-path (e.g. education/schools/.../piaget.md,
+                # traditions/buddhism/core-teachings.md) that exists nowhere. If
+                # no candidate shares the link's penultimate path segment, the
+                # intended target is genuinely missing → W006, not E003.
+                penult = Path(target).parent.name
+                candidates = ALL_FILES_BY_NAME[target_name]
+                if penult and not any(
+                    penult == c.parent.name or penult in c.parent.as_posix()
+                    for c in candidates
+                ):
+                    report.add(Finding(path, i, "warn", "W006",
+                                       f"link to unauthored entry: {target}"))
+                else:
+                    report.add(Finding(path, i, "error", "E003",
+                                       f"broken relative link: {target}"))
+            else:
+                report.add(Finding(path, i, "warn", "W006",
+                                   f"link to unauthored entry: {target}"))
 
     # --- Cross-links (for thinker/concept) ---
     # Accept any relative link to another .md file as a cross-link

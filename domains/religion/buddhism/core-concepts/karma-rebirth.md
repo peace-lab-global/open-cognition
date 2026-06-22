@@ -70,8 +70,8 @@ sources: [巴利三藏, 《俱舍论》, 《清净道论》]
 ## 跨学科关联
 
 - [决定论 vs 自由意志](../../../philosophy/schools/rationalism/descartes.md) — [张力] 业与自由
-- [弗洛伊德 · 强迫性重复](../../psychology/schools/psychoanalysis/freud.md) — [平行] 等流果
-- [社会学 · 社会再制](../../sociology/schools/structuralism/bourdieu.md) — [平行] 习气延续
+- [弗洛伊德 · 强迫性重复](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 等流果
+- [社会学 · 社会再制](../../../sociology/schools/structuralism/bourdieu.md) — [平行] 习气延续
 
 ## 进阶阅读
 

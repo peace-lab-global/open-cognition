@@ -71,7 +71,7 @@ sources: [巴利三藏 · 《转法轮经》]
 - [亚里士多德 · 中庸](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 中道
 - [斯多葛学派](../../../philosophy/schools/stoicism/) — [平行] 德性实践
 - [MBSR/MBCT] — [继承] 正念医学化
-- [福柯 · 自我技术](../../sociology/schools/structuralism/foucault.md) — [平行] 自我修养
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 自我修养
 
 ## 进阶阅读
 

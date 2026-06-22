@@ -73,6 +73,9 @@ def domain_from_path(path: Path) -> str:
 def classify_entry(path: Path) -> str | None:
     """Determine entry type: thinker / concept / skill / None."""
     rel = path.relative_to(REPO_ROOT).as_posix()
+    # Reports/audit files dropped under domains/ are not entries — skip them.
+    if "/reports/" in rel:
+        return None
     if "/skills/" in rel and path.name == "SKILL.md":
         return "skill"
     if "/schools/" in rel:
@@ -189,6 +192,22 @@ def main() -> int:
         existing = args.out.read_text(encoding="utf-8")
         if existing == json_str:
             print(f"OK: {args.out} is up to date ({index['stats']['total']} entries)")
+            return 0
+        # Content drift vs. mere date drift: rebuild without the volatile
+        # `generated` field and re-compare. Only flag STALE when the actual
+        # entries/skills/stats changed — not when only the build date differs.
+        def _strip_date(obj: dict) -> dict:
+            return {k: v for k, v in obj.items() if k != "generated"}
+        try:
+            existing_obj = _strip_date(json.loads(existing))
+        except json.JSONDecodeError:
+            existing_obj = {}
+        rebuilt_obj = _strip_date(json.loads(json_str))
+        if existing_obj == rebuilt_obj:
+            print(
+                f"OK: {args.out} content is up to date "
+                f"({index['stats']['total']} entries; only the build date differs)"
+            )
             return 0
         print(f"STALE: {args.out}", file=sys.stderr)
         print(

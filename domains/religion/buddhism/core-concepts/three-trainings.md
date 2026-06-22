@@ -57,9 +57,9 @@ sources: [巴利三藏, 《清净道论》]
 
 ## 跨学科关联
 
-- [斯金纳 · 行为塑造](../../psychology/schools/behaviorism/skinner.md) — [平行] 戒律作为行为塑造
-- [卡尼曼 · 系统2](../../psychology/schools/cognitive/kahneman.md) — [平行] 定是注意控制
-- [皮亚杰 · 反思抽象](../../psychology/schools/cognitive/piaget.md) — [平行] 慧是认知跃迁
+- [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) — [平行] 戒律作为行为塑造
+- [卡尼曼 · 系统2](../../../psychology/schools/cognitive/kahneman.md) — [平行] 定是注意控制
+- [皮亚杰 · 反思抽象](../../../psychology/schools/cognitive/piaget.md) — [平行] 慧是认知跃迁
 
 ## 进阶阅读
 

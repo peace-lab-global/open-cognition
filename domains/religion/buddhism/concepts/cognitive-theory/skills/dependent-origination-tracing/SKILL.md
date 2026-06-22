@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[十二因缘的认知读法](../dependent-origination-cognitive.md)
+- 来源概念：[十二因缘的认知读法](../../dependent-origination-cognitive.md)
 - 核心原则：
   - **此有故彼有，此生故彼生**（缘起）
   - **此无故彼无，此灭故彼灭**（还灭）
@@ -177,7 +177,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[十二因缘的认知读法](../dependent-origination-cognitive.md)
-- 相关 Skill：[五蕴解构](./five-aggregates-deconstruction/SKILL.md)
-- 跨传统：[贝克 · 认知行为链](../../../../psychology/schools/cognitive/beck.md)（平行）
+- 概念：[十二因缘的认知读法](../../dependent-origination-cognitive.md)
+- 相关 Skill：[五蕴解构](../five-aggregates-deconstruction/SKILL.md)
+- 跨传统：[贝克 · 认知行为链](../../../../../../psychology/schools/cognitive/beck.md)（平行）
 - 跨传统：[系统论 · 反馈回路](../../../../domains/cognitive-systems/schools/cybernetics/weiner.md)（平行）

@@ -322,7 +322,7 @@ graph TB
 | **一阐提成佛** | 认知可塑性极限 | 任何大脑都有学习与改变的潜能 |
 | **五种行** | 认知发展的多维路径 | 感知/伦理/直觉/纯真/同理——五种认知训练维度 |
 
-> 交叉参考：[八识论](../../concepts/cognitive-theory/eight-consciousness.md) · [认知建构论](../../concepts/cognitive-theory/constructivism.md)
+> 交叉参考：[八识论](../concepts/cognitive-theory/eight-consciousness.md) · [认知建构论](../../concepts/cognitive-theory/constructivism.md)
 
 ---
 

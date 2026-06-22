@@ -8,7 +8,9 @@ era: 当代
 birth: 1970
 tags: [冥想神经科学, 开放监控, γ波同步, 正念研究, 神经可塑性]
 aliases: [Antoine Lutz, 安托万·卢茨]
-sources: ["Long-term meditators self-induce high-amplitude gamma synchrony" (2004), Lutz et al. 2008]
+sources:
+  - "\"Long-term meditators self-induce high-amplitude gamma synchrony\" (2004)"
+  - "Lutz et al. 2008"
 ---
 
 # 卢茨 Antoine Lutz
@@ -81,8 +83,8 @@ sources: ["Long-term meditators self-induce high-amplitude gamma synchrony" (200
 
 ## 跨学科关联
 
-- [默照的认知结构 · Silent Illumination](../../../../religion/buddhism/concepts/cognitive-theory/silent-illumination.md) `[平行]` OM meditation
-- [止观的认知分工 · Śamatha-Vipaśyanā](../../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` γ 波同步与九住心
+- [默照的认知结构 · Silent Illumination](../../../religion/buddhism/concepts/cognitive-theory/silent-illumination.md) `[平行]` OM meditation
+- [止观的认知分工 · Śamatha-Vipaśyanā](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` γ 波同步与九住心
 - [Davidson · 情绪风格](./davidson.md) — [合作] 冥想神经科学的共同奠基
 - [Baars · 全局工作空间](./baars.md) — [平行] 全局广播与 γ 波同步
 

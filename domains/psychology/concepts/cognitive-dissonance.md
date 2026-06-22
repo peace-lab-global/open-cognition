@@ -4,8 +4,16 @@ title: 认知失调 Cognitive Dissonance
 type: concept
 domain: psychology
 school: cognitive
-tags: [认知失调, 费斯廷格, 态度改变, 自我辩护, 选择后辩护]
-aliases: [Cognitive Dissonance, 认知不协调]
+era: universal
+tags:
+- 认知失调
+- 费斯廷格
+- 态度改变
+- 自我辩护
+- 选择后辩护
+aliases:
+- Cognitive Dissonance
+- 认知不协调
 ---
 
 # 认知失调 Cognitive Dissonance

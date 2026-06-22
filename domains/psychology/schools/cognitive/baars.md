@@ -8,7 +8,11 @@ era: 当代
 birth: 1946
 tags: [全局工作空间, 意识理论, 认知架构, 剧场隐喻, 注意力]
 aliases: [Bernard Baars, 伯纳德·巴尔斯]
-sources: [*A Cognitive Theory of Consciousness*, 1988, *In the Theater of Consciousness*, 1997]
+sources:
+  - "A Cognitive Theory of Consciousness"
+  - "1988"
+  - "In the Theater of Consciousness"
+  - "1997"
 ---
 
 # 巴尔斯 Bernard Baars
@@ -83,8 +87,8 @@ GWT 强调意识的**功能性广播**；高阶理论（HOT）强调意识需要
 
 ## 跨学科关联
 
-- [阿毗达磨心识论 · Abhidharma Mind](../../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 速行 ≈ 进入全局工作空间的处理
-- [止观的认知分工 · Śamatha-Vipaśyanā](../../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` 止的稳定 + 观的进入全局
+- [阿毗达磨心识论 · Abhidharma Mind](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 速行 ≈ 进入全局工作空间的处理
+- [止观的认知分工 · Śamatha-Vipaśyanā](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` 止的稳定 + 观的进入全局
 - [明斯基 Minsky](../../../cognitive-systems/schools/cognitive-engineering/minsky.md) — [平行] 心智社会中的"社会" ≈ 无意识处理器的集合
 - [丹尼特 Dennett](../../../philosophy/schools/analytic/dennett.md) — [对话] 多重草稿模型 vs 全局工作空间
 

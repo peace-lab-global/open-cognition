@@ -105,11 +105,11 @@ Rousseau was both rebel against and heir to the Enlightenment, and precursor of 
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **政治哲学** → 自然状态与社会契约 → [Hobbes（自然状态对照）](./hobbes.md) [对立]
-- **政治哲学** → 自然权利与财产权 → [Locke（自然权利传统）](./locke.md) [批判]
-- **政治哲学** → 正义论与原初状态 → [Rawls（公平正义论）](../political-philosophy/rawls.md) [发展]
-- **伦理学** → 义务论与道德自律 → [Kant（道德哲学的卢梭转向）](./kant.md) [发展]
-- **政治哲学** → 社会契约概念 → [社会契约理论](../../concepts/social-contract.md) [同源]
+- **政治哲学** → 自然状态与社会契约 → [Hobbes（自然状态对照）](../../../ethics-politics/schools/social-contract/hobbes.md) [对立]
+- **政治哲学** → 自然权利与财产权 → [Locke（自然权利传统）](../../../ethics-politics/schools/social-contract/locke.md) [批判]
+- **政治哲学** → 正义论与原初状态 → [Rawls（公平正义论）](../../../ethics-politics/schools/social-contract/rawls.md) [发展]
+- **伦理学** → 义务论与道德自律 → [Kant（道德哲学的卢梭转向）](../german-idealism/kant.md) [发展]
+- **政治哲学** → 社会契约概念 → [社会契约理论](../../../ethics-politics/concepts/social-contract.md) [同源]
 - **教育心理学** → 儿童中心教育 → [Piaget（认知发展论）](../../../psychology/concepts/constructivism.md) [平行]
 
 ## 进阶阅读 / Further Reading

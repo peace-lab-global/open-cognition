@@ -112,7 +112,7 @@ sources: [《中论》, 《大智度论》, 《十二门论》, 《入中论》]
 - **与维特根斯坦的对话**：中观对"自性"（svabhāva）的破斥与维特根斯坦对"本质"的消解高度平行——二者都主张意义/存在不来自内在本质，而来自关系网络（缘起/语言游戏）。
 - **反本质主义的认知遗产**：中观的核心贡献不是提供新的认知内容，而是训练一种认知姿态——对所有概念化（包括"空"本身）保持非执取的觉知。
 
-**跨领域参照**：中观的反本质主义与 [维特根斯坦的语言批判](../../../../domains/philosophy/schools/analytic/wittgenstein.md) 深度呼应，对"自性"的解构可与 [德里达的延异](../../../../domains/philosophy/schools/poststructuralism/derrida.md) 比较。详见 [中观](../concepts/cognitive-theory/madhyamaka.md)、[二谛](../concepts/cognitive-theory/two-truths.md)。
+**跨领域参照**：中观的反本质主义与 [维特根斯坦的语言批判](../../../../domains/philosophy/schools/analytic/wittgenstein.md) 深度呼应，对"自性"的解构可与 [德里达的延异](../../../philosophy/schools/post-structuralism/derrida.md) 比较。详见 [中观](../concepts/cognitive-theory/madhyamaka.md)、[二谛](../concepts/cognitive-theory/two-truths.md)。
 
 ## 进阶阅读
 

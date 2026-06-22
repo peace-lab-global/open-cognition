@@ -84,7 +84,7 @@ sources: [《如来藏经》, 《胜鬘经》, 《楞伽经》, 《宝性论》]
 ## 与相关概念的关系
 
 - [佛性](./buddha-nature.md) — [同源] 佛性是如来藏的同义词
-- [空性](../traditions/buddhism/sunyata.md) — [张力] 如来藏 vs 空性
+- [空性](../../traditions/buddhism/sunyata.md) — [张力] 如来藏 vs 空性
 - [唯识学派](../schools/yogacara.md) — [张力] 如来藏 vs 阿赖耶识
 - [地论宗](../schools/dilun.md) — [继承] 南道如来藏思想
 - [华严宗](../schools/huayan.md) — [继承] 性起思想
@@ -104,9 +104,9 @@ sources: [《如来藏经》, 《胜鬘经》, 《楞伽经》, 《宝性论》]
 
 ## 跨学科关联
 
-- [柏拉图 · 理念论](../../../philosophy/schools/ancient/plato.md) — [平行] 如来藏 vs 理念世界
+- [柏拉图 · 理念论](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 如来藏 vs 理念世界
 - [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 如来藏 vs 存在的澄明
-- [荣格 · 自性](../../psychology/schools/psychoanalysis/jung.md) — [平行] 如来藏 vs 自性原型
+- [荣格 · 自性](../../../psychology/schools/psychoanalysis/jung.md) — [平行] 如来藏 vs 自性原型
 
 ## 进阶阅读
 

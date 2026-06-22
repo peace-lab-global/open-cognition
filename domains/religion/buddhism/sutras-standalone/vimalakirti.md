@@ -60,8 +60,8 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 
 ## 与相关概念的关系
 
-- [空性](../traditions/buddhism/sunyata.md) — [同源] 不二的哲学基础
-- [禅宗](../traditions/buddhism/zen.md) — [继承] "不立文字"的原型
+- [空性](../../traditions/buddhism/sunyata.md) — [同源] 不二的哲学基础
+- [禅宗](../../traditions/buddhism/zen.md) — [继承] "不立文字"的原型
 - [华严](../schools/huayan.md) — [同源] 事事无碍
 - [菩萨道](../core-concepts/bodhisattva-path.md) — [互补] 居士菩萨道
 - [佛性](../core-concepts/buddha-nature.md) — [同源] 众生皆有佛性
@@ -97,8 +97,8 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 
 - [维特根斯坦 · 不可说](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] "凡不可说者，应保持沉默"
 - [海德格尔 · 沉默](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 沉默作为言说
-- [罗杰斯 · 真诚一致](../../psychology/schools/humanistic/rogers.md) — [平行] 真实在场
-- [福柯 · 自我技术](../../sociology/schools/structuralism/foucault.md) — [平行] 居士的自我修养
+- [罗杰斯 · 真诚一致](../../../psychology/schools/humanistic/rogers.md) — [平行] 真实在场
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 居士的自我修养
 - [禅宗](../schools/chan-zen.md) — [继承] 棒喝、机锋都源自维摩诘的"默然"
 
 ## 进阶阅读

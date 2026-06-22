@@ -139,6 +139,6 @@ tags:
 ## 关联条目
 
 - 概念：[八还辨见](../../baihuan-bianjian.md)
-- 相关Skill：[七处征心·认知解构](./qichu-zhengxin-deconstruction/SKILL.md)
-- 跨传统：[临济·棒喝](./linji-pointer-blow/SKILL.md)（平行）——直接指向见性
-- 跨传统：[海德格尔·本真](../../../../philosophy/schools/existentialism/heidegger.md)（平行）——本真自我与能见之性的结构对应
+- 相关Skill：[七处征心·认知解构](../qichu-zhengxin-deconstruction/SKILL.md)
+- 跨传统：[临济·棒喝](../../../../../../../wisdom-masters/skills/linji-pointer-blow/SKILL.md)（平行）——直接指向见性
+- 跨传统：[海德格尔·本真](../../../../../../philosophy/schools/existentialism/heidegger.md)（平行）——本真自我与能见之性的结构对应

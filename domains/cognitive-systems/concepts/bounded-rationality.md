@@ -54,13 +54,13 @@ sources:
 
 - **同源**：[心智模型](./mental-model.md) — 有限理性导致人依赖心智模型简化决策
 - **对立**：完全理性（新古典经济学） — 假设人有完全信息和无限计算能力
-- **发展**：[卡尼曼的启发式与偏差](../../../psychology/schools/cognitive/kahneman.md) — 将西蒙的启发式研究发展为系统的偏差分析
+- **发展**：[卡尼曼的启发式与偏差](../../psychology/schools/cognitive/kahneman.md) — 将西蒙的启发式研究发展为系统的偏差分析
 - **互补**：[认知负荷](./cognitive-load.md) — 工作记忆限制是有限理性的认知基础
 
 ## 代表思想家
 
 - [西蒙 Simon](../schools/cybernetics/simon.md) — 原创者，满意化概念
-- [卡尼曼 Kahneman](../../../psychology/schools/cognitive/kahneman.md) — 启发式与偏差研究
+- [卡尼曼 Kahneman](../../psychology/schools/cognitive/kahneman.md) — 启发式与偏差研究
 - [吉仁泽 Gigerenzer](#) — "快速节俭启发式"——证明启发式在某些条件下优于统计模型
 
 ## 应用场景
@@ -78,10 +78,10 @@ sources:
 
 ## 跨学科关联
 
-- [卡尼曼 Kahneman](../../../psychology/schools/cognitive/kahneman.md) `[发展]` 启发式与偏差
+- [卡尼曼 Kahneman](../../psychology/schools/cognitive/kahneman.md) `[发展]` 启发式与偏差
 - [维纳 Wiener](../schools/cybernetics/wiener.md) `[平行]` 控制论中的信息处理约束
-- [庄子 Zhuangzi](../../../philosophy/schools/eastern/zhuangzi.md) `[平行]` "吾生也有涯，而知也无涯"
-- [佛教中观](../../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 对"全知"的质疑
+- [庄子 Zhuangzi](../../philosophy/schools/eastern/zhuangzi.md) `[平行]` "吾生也有涯，而知也无涯"
+- [佛教中观](../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 对"全知"的质疑
 
 ## 进阶阅读
 

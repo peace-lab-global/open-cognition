@@ -76,8 +76,8 @@ key_works: [Der logische Aufbau der Welt, Meaning and Necessity, Empiricism Sema
 
 ## 跨学科关联
 
-- [二谛 · Satyadvaya](../../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 语言框架的内部/外部问题 ≈ 世俗/胜义
-- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照]` 有效认知的判准与可证实性原则
+- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 语言框架的内部/外部问题 ≈ 世俗/胜义
+- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照]` 有效认知的判准与可证实性原则
 - [维特根斯坦 Wittgenstein](./wittgenstein.md) `[同源]` 语言批判的两种路线
 
 ## 进阶阅读

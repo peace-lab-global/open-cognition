@@ -1,3 +1,15 @@
+---
+id: ethics-politics.libertarianism.nozick
+title: 罗伯特·诺齐克 Robert Nozick
+type: thinker
+domain: ethics-politics
+school: libertarianism
+era: contemporary
+birth: 1938
+death: 2002
+tags: [自由至上主义, 最小国家, 分配正义, 权利理论, 经验机]
+---
+
 # 罗伯特·诺齐克 / Robert Nozick
 
 > **学派**: 自由至上主义 (Libertarianism)

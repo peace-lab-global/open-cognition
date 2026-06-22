@@ -4,30 +4,31 @@ title: 美学 · Aesthetics
 type: concept
 domain: philosophy
 school: aesthetics
+era: universal
 tags:
-  - 美学
-  - 审美判断
-  - 崇高
-  - 艺术哲学
-  - 趣味
-  - aesthetics
-  - aesthetic-judgment
-  - sublime
-  - philosophy-of-art
-  - taste
+- 美学
+- 审美判断
+- 崇高
+- 艺术哲学
+- 趣味
+- aesthetics
+- aesthetic-judgment
+- sublime
+- philosophy-of-art
+- taste
 aliases:
-  - 审美学
-  - 感性学
-  - Aesthetic Theory
-  - Philosophy of Art
+- 审美学
+- 感性学
+- Aesthetic Theory
+- Philosophy of Art
 sources:
-  - "Plato, Symposium and Hippias Major"
-  - "Aristotle, Poetics"
-  - "Kant, Critique of Judgment (1790)"
-  - "Hegel, Lectures on Aesthetics (1835, posthumous)"
-  - "Nietzsche, The Birth of Tragedy (1872)"
-  - "Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste"
-  - "Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience"
+- Plato, Symposium and Hippias Major
+- Aristotle, Poetics
+- Kant, Critique of Judgment (1790)
+- Hegel, Lectures on Aesthetics (1835, posthumous)
+- Nietzsche, The Birth of Tragedy (1872)
+- 'Bourdieu, P. (1984). Distinction: A Social Critique of the Judgement of Taste'
+- 'Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience'
 ---
 
 # 美学 · Aesthetics
@@ -114,12 +115,12 @@ Hegel defined art as the sensuous stage of Absolute Spirit, prophesying art's su
 
 | 思想家 | 核心贡献 | 立场 |
 |--------|----------|------|
-| [柏拉图](../schools/ancient/plato.md) | 美的理念论 | 美是永恒理念的映射 |
-| [亚里士多德](../schools/ancient/aristotle.md) | 悲剧净化论 | 模仿与净化是艺术的核心功能 |
-| [康德](../schools/enlightenment/kant.md) | 审美判断力批判 | 美与崇高的系统理论 |
-| [黑格尔](../schools/enlightenment/hegel.md) | 艺术哲学 | 艺术是绝对精神的感性显现 |
-| [尼采](../schools/nietzscheanism/nietzsche.md) | 酒神-日神美学 | 审美是生命的最高辩护 |
-| [布迪厄](../schools/post-structuralism/bourdieu.md) | 趣味的社会批判 | 审美偏好是阶层再生产的工具 |
+| [柏拉图](../schools/ancient-greek/plato.md) | 美的理念论 | 美是永恒理念的映射 |
+| [亚里士多德](../schools/ancient-greek/aristotle.md) | 悲剧净化论 | 模仿与净化是艺术的核心功能 |
+| [康德](../schools/german-idealism/kant.md) | 审美判断力批判 | 美与崇高的系统理论 |
+| [黑格尔](../schools/german-idealism/hegel.md) | 艺术哲学 | 艺术是绝对精神的感性显现 |
+| [尼采](../schools/existentialism/nietzsche.md) | 酒神-日神美学 | 审美是生命的最高辩护 |
+| [布迪厄](../../sociology/schools/structuralism/bourdieu.md) | 趣味的社会批判 | 审美偏好是阶层再生产的工具 |
 | [Csikszentmihalyi](../../psychology/concepts/flow.md) | 最优体验理论 | 心流是审美经验的心理学基础 |
 
 ## 应用场景 / Applications
@@ -141,10 +142,10 @@ Hegel defined art as the sensuous stage of Absolute Spirit, prophesying art's su
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **认识论** → 审美判断的认识论地位 → [Kant（第三批判）](../schools/enlightenment/kant.md) [核心]
-- **精神现象学** → 艺术作为精神的感性显现 → [Hegel（美学讲演录）](../schools/enlightenment/hegel.md) [核心]
-- **生命哲学** → 审美辩护生命 → [Nietzsche（悲剧的诞生）](../schools/nietzscheanism/nietzsche.md) [核心]
-- **文化社会学** → 趣味与阶层 → [Bourdieu（区隔）](../schools/post-structuralism/bourdieu.md) [批判]
+- **认识论** → 审美判断的认识论地位 → [Kant（第三批判）](../schools/german-idealism/kant.md) [核心]
+- **精神现象学** → 艺术作为精神的感性显现 → [Hegel（美学讲演录）](../schools/german-idealism/hegel.md) [核心]
+- **生命哲学** → 审美辩护生命 → [Nietzsche（悲剧的诞生）](../schools/existentialism/nietzsche.md) [核心]
+- **文化社会学** → 趣味与阶层 → [Bourdieu（区隔）](../../sociology/schools/structuralism/bourdieu.md) [批判]
 - **积极心理学** → 最优体验与审美心流 → [Csikszentmihalyi（心流理论）](../../psychology/concepts/flow.md) [平行]
 - **神经美学** → 审美的神经基础 → [Zeki, Ramachandran](../../neuroscience/concepts/neuroaesthetics.md) [实证]
 - **教育学** → 审美教育与创造力培养 → [美育理论](../../education/concepts/aesthetic-education.md) [应用]

@@ -90,8 +90,8 @@ sources: [《瑜伽师地论》, 《大乘庄严经论》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 百科全书式学问](../../../philosophy/schools/ancient/aristotle.md) — [平行] 五明 vs 希腊博学传统
-- [中世纪大学 · 七艺](../../../philosophy/schools/medieval/aquinas.md) — [平行] 五明 vs 七艺
+- [亚里士多德 · 百科全书式学问](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 五明 vs 希腊博学传统
+- [中世纪大学 · 七艺](../../../philosophy/schools/medieval-scholastic/aquinas.md) — [平行] 五明 vs 七艺
 
 ## 进阶阅读
 

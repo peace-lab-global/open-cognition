@@ -73,8 +73,8 @@ sources: [《涅槃经》, 《如来藏经》, 《胜鬘经》, 《宝性论》]
 
 ## 跨学科关联
 
-- [马斯洛 · 自我实现](../../psychology/schools/humanistic/maslow.md) — [平行] 潜能实现
-- [罗杰斯 · 有机体智慧](../../psychology/schools/humanistic/rogers.md) — [平行] 本自具足
+- [马斯洛 · 自我实现](../../../psychology/schools/humanistic/maslow.md) — [平行] 潜能实现
+- [罗杰斯 · 有机体智慧](../../../psychology/schools/humanistic/rogers.md) — [平行] 本自具足
 - [基督教 · 神的形象] — [平行] 人人有神的形象
 - [柏拉图 · 回忆说](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 知识本具
 

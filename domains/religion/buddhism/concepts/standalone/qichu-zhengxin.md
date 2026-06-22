@@ -26,7 +26,7 @@ sources:
 > ⚠️ **Legacy entry — 本文件为早期草稿**
 >
 > 规范版本（含认知解构 Skill、跨学科关联与完整理论脉络）请见：
-> 👉 **[cognitive-theory/qichu-zhengxin.md](./cognitive-theory/qichu-zhengxin.md)**
+> 👉 **[cognitive-theory/qichu-zhengxin.md](../cognitive-theory/qichu-zhengxin.md)**
 >
 > 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
@@ -92,12 +92,12 @@ sources:
 
 - **同源**：[八还辨见](./baihuan-bianjian.md) — 八还辨见是七处征心的延续，是对"见性"的正面界定
 - **同源**：[八识体系](./eight-consciousness.md) — 从唯识学角度，心有八种功能
-- **互补**：[临济·无事](../../../wisdom-masters/skills/linji-no-thing/SKILL.md) — 临济的"无事"与七处征心的"心无所在"相通
+- **互补**：[临济·无事](../../../../../wisdom-masters/skills/linji-no-thing/SKILL.md) — 临济的"无事"与七处征心的"心无所在"相通
 
 ## 跨学科关联
 
-- [临济·无事](../../../wisdom-masters/skills/linji-no-thing/SKILL.md)（同源）— 心无所在，故无事可执
-- [道元·当下圆满](../../../wisdom-masters/skills/dogen-presence/SKILL.md)（平行）— 心不在空间，但心是当下
+- [临济·无事](../../../../../wisdom-masters/skills/linji-no-thing/SKILL.md)（同源）— 心无所在，故无事可执
+- [道元·当下圆满](../../../../../wisdom-masters/skills/dogen-presence/SKILL.md)（平行）— 心不在空间，但心是当下
 
 - 释迦牟尼佛——七处征心的讲述者
 - 释慧律——现代最精确的《楞严经》注释者
@@ -119,7 +119,7 @@ sources:
 
 - [临济·无事](./linji-wushi.md)（同源）— 心无所在，故无事可执
 - [道元·当下圆满](./dogen-presence.md)（平行）— 心不在空间，但心是当下
-- [维特根斯坦·私人语言论证](../../philosophy/schools/analytic/wittgenstein.md)（平行）— "心"不是可以私人指称的对象
+- [维特根斯坦·私人语言论证](../../../../philosophy/schools/analytic/wittgenstein.md)（平行）— "心"不是可以私人指称的对象
 
 ## 进阶阅读
 
@@ -129,4 +129,4 @@ sources:
 
 ## 关联 Skills
 
-- [七处征心·认知解构](./skills/qichu-zhengxin-deconstruction/SKILL.md)（待建）
+- [七处征心·认知解构](../cognitive-theory/skills/qichu-zhengxin-deconstruction/SKILL.md)（待建）

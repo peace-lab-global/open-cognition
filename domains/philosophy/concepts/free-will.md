@@ -4,30 +4,32 @@ title: 自由意志 · Free Will
 type: concept
 domain: philosophy
 school: metaphysics
+era: universal
 tags:
-  - 形而上学
-  - 决定论
-  - 相容论
-  - 道德责任
-  - 神经科学
-  - metaphysics
-  - determinism
-  - compatibilism
-  - moral-responsibility
-  - neuroscience
+- 形而上学
+- 决定论
+- 相容论
+- 道德责任
+- 神经科学
+- metaphysics
+- determinism
+- compatibilism
+- moral-responsibility
+- neuroscience
 aliases:
-  - 自由意志论
-  - 意志自由
-  - Free Will
-  - Freedom of the Will
+- 自由意志论
+- 意志自由
+- Free Will
+- Freedom of the Will
 sources:
-  - "Aristotle, Nicomachean Ethics, Book III"
-  - "Augustine, On Free Choice of the Will (395)"
-  - "Kant, Critique of Practical Reason (1788)"
-  - "Sartre, Being and Nothingness (1943)"
-  - "Libet, B. et al. (1983). 'Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity.' Brain"
-  - "Dennett, D. (1984). Elbow Room: The Varieties of Free Will Worth Wanting"
-  - "Kane, R. (1996). The Significance of Free Will"
+- Aristotle, Nicomachean Ethics, Book III
+- Augustine, On Free Choice of the Will (395)
+- Kant, Critique of Practical Reason (1788)
+- Sartre, Being and Nothingness (1943)
+- Libet, B. et al. (1983). 'Time of Conscious Intention to Act in Relation to Onset
+  of Cerebral Activity.' Brain
+- 'Dennett, D. (1984). Elbow Room: The Varieties of Free Will Worth Wanting'
+- Kane, R. (1996). The Significance of Free Will
 ---
 
 # 自由意志 · Free Will
@@ -114,10 +116,10 @@ The free will problem runs through the entire history of Western philosophy:
 
 | 思想家 | 立场 | 核心贡献 |
 |--------|------|----------|
-| [亚里士多德](../schools/ancient/aristotle.md) | 前自由意志论 | 自愿/非自愿行为的区分 |
+| [亚里士多德](../schools/ancient-greek/aristotle.md) | 前自由意志论 | 自愿/非自愿行为的区分 |
 | [奥古斯丁](../schools/medieval-scholastic/augustine.md) | 自由意志论 | 神的全知与人类自由的张力 |
 | [斯宾诺莎](../schools/rationalism/spinoza.md) | 硬决定论 | "自由即必然性的认识" |
-| [康德](../schools/enlightenment/kant.md) | 自由意志论 | 现象界决定论/本体界自由的二分 |
+| [康德](../schools/german-idealism/kant.md) | 自由意志论 | 现象界决定论/本体界自由的二分 |
 | [萨特](../schools/existentialism/sartre.md) | 激进自由论 | "被判定为自由" |
 | [丹尼特](../schools/analytic/dennett.md) | 相容论 | 自由意志的自然主义辩护 |
 | [哈里斯](../schools/analytic/harris.md) | 硬决定论 | 自由意志幻觉的当代论证 |
@@ -140,7 +142,7 @@ The free will problem runs through the entire history of Western philosophy:
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **伦理学** → 道德责任与自律 → [Kant（道德自律）](../schools/enlightenment/kant.md) [同源]
+- **伦理学** → 道德责任与自律 → [Kant（道德自律）](../schools/german-idealism/kant.md) [同源]
 - **存在主义** → 激进自由与焦虑 → [Sartre（存在主义自由）](../schools/existentialism/sartre.md) [发展]
 - **神经科学** → 意识与决策 → [Damasio（躯体标记假说）](../../neuroscience/concepts/somatic-marker.md) [挑战]
 - **行为心理学** → 行为主义与控制 → [Skinner（操作性条件反射）](../../psychology/concepts/behaviorism.md) [对立]

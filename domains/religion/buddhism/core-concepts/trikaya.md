@@ -55,7 +55,7 @@ sources: [《大乘庄严经论》, 《佛地经论》, 《金光明经》]
 ## 跨学科关联
 
 - [基督教 · 三位一体](../../traditions/christianity/grace-redemption.md) — [平行] 同一神圣存在的多维度显现
-- [柏拉图 · 理型](../../../philosophy/schools/ancient/plato.md) — [平行] 法身与理型界的比较
+- [柏拉图 · 理型](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 法身与理型界的比较
 
 ## 进阶阅读
 

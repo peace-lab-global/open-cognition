@@ -51,7 +51,7 @@ sources:
 
 ## 重要概念
 
-- [社会契约 Social Contract](./concepts/social-contract.md) — 自然状态下理性个体的权利让渡协议
+- [社会契约 Social Contract](../../concepts/social-contract.md) — 自然状态下理性个体的权利让渡协议
 - 自然状态 State of Nature — 一切人反对一切人的战争状态
 - 利维坦 Leviathan — 拥有绝对权力的主权者
 
@@ -75,9 +75,9 @@ sources:
 
 ## 跨学科关联
 
-- 哲学：[亚里士多德 · 政治动物](../../philosophy/schools/ancient-greek/aristotle.md) `[批判]` 霍布斯批判亚里士多德的政治自然主义
-- 社会学：[福柯 · 权力](../../sociology/schools/structuralism/foucault.md) `[平行]` 两者都关注权力的运作机制
-- 心理学：[弗洛伊德 · 死亡本能](../../psychology/schools/psychoanalysis/freud.md) `[平行]` 死亡本能与自然状态暴力倾向的可比性
+- 哲学：[亚里士多德 · 政治动物](../../../philosophy/schools/ancient-greek/aristotle.md) `[批判]` 霍布斯批判亚里士多德的政治自然主义
+- 社会学：[福柯 · 权力](../../../sociology/schools/structuralism/foucault.md) `[平行]` 两者都关注权力的运作机制
+- 心理学：[弗洛伊德 · 死亡本能](../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 死亡本能与自然状态暴力倾向的可比性
 
 ## 进阶阅读
 
@@ -92,4 +92,4 @@ sources:
 
 ## 关联 Skills
 
-- [社会契约分析](../../skills/ethics-politics-frameworks/social-contract-analysis/SKILL.md)
+- [社会契约分析](../../../../skills/philosophy-frameworks/social-contract-analysis/SKILL.md)

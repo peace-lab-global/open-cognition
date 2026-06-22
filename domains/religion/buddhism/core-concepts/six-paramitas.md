@@ -66,7 +66,7 @@ sources: [《大般若经》, 《大智度论》, 《瑜伽师地论》]
 - [亚里士多德 · 德性伦理](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 德性实践
 - [马丁·路德·金] — [平行] 忍辱与社会正义
 - [斯多葛学派](../../../philosophy/schools/stoicism/) — [平行] 忍辱与坚韧
-- [福柯 · 自我技术](../../sociology/schools/structuralism/foucault.md) — [平行] 六度作为自我技术
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 六度作为自我技术
 
 ## 进阶阅读
 

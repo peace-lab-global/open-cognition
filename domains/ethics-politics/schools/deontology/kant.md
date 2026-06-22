@@ -1,6 +1,6 @@
 ---
 id: kant-deontology
-title: 康德 · 道义论伦理学 · Immanuel Kant: Deontological Ethics
+title: "康德 · 道义论伦理学 · Immanuel Kant: Deontological Ethics"
 type: thinker
 domain: ethics-politics
 school: deontology
@@ -78,8 +78,8 @@ sources:
 ## 跨学科关联
 
 - [康德 · 哲学](../../../philosophy/schools/german-idealism/kant.md) `[同源]` 同一思想家的哲学维度，认识论与形而上学基础
-- [罗尔斯 · 正义论](./rawls.md) `[发展]` 罗尔斯将康德的自律与尊严原则程序化为正义二原则
-- [边沁 · 功利主义](./bentham.md) `[对立]` 后果论 vs 义务论的根本分歧
+- [罗尔斯 · 正义论](../social-contract/rawls.md) `[发展]` 罗尔斯将康德的自律与尊严原则程序化为正义二原则
+- [边沁 · 功利主义](../consequentialism/bentham.md) `[对立]` 后果论 vs 义务论的根本分歧
 - [皮亚杰 · 认知发展](../../../psychology/schools/cognitive/piaget.md) `[平行]` 认知结构的先验性与道德发展的阶段论
 - [人权 · Human Rights](../../concepts/human-rights.md) `[继承]` 康德"人是目的"的尊严论是人权哲学的核心基础
 

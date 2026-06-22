@@ -64,7 +64,7 @@ sources:
 
 - [人性深度](../../concepts/human-depth.md) — 人性黑暗面的探索
 - [苦难救赎](../../concepts/suffering-redemption.md) — 通过苦难获得救赎
-- [自由意志](../../concepts/free-will.md) — 人的道德选择能力
+- [自由意志](../../../philosophy/concepts/free-will.md) — 人的道德选择能力
 - [上帝问题](../../concepts/god-question.md) — 上帝存在对道德的影响
 
 ## 思想坐标

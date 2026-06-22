@@ -475,10 +475,10 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)："三心不可得"涉及意识的刹那生灭，与八识论中前六识的生灭机制相应
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)：金刚经的四句否定"如来说X，即非X，是名X"是中观辩证法的经典表达
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)："应无所住而生其心"是从第六识的执著模式转为妙观察智的操作
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："不应住色生心"揭示了心与境的非执取关系
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)："不住色声香味触法"直接对应六根六尘的认知框架
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)："若见诸相非相即见如来"与起信论"心真如"相通
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)："三心不可得"涉及意识的刹那生灭，与八识论中前六识的生灭机制相应
+- [中观](../concepts/cognitive-theory/madhyamaka.md)：金刚经的四句否定"如来说X，即非X，是名X"是中观辩证法的经典表达
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)："应无所住而生其心"是从第六识的执著模式转为妙观察智的操作
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："不应住色生心"揭示了心与境的非执取关系
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)："不住色声香味触法"直接对应六根六尘的认知框架
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)："若见诸相非相即见如来"与起信论"心真如"相通
 ENDOFDIAMOND

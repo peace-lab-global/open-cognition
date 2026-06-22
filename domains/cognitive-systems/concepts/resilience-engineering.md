@@ -84,8 +84,8 @@ sources:
 ## 跨学科关联
 
 - [伍兹 Woods](../schools/cognitive-engineering/woods.md) `[原创]` 韧性工程核心推动者
-- [贝克 Beck](../../../sociology/schools/modernity/beck.md) `[平行]` 风险社会理论也关注系统性风险
-- [佛教转识成智](../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` "转化"而非"消除"
+- [贝克 Beck](../../sociology/schools/modernity/beck.md) `[平行]` 风险社会理论也关注系统性风险
+- [佛教转识成智](../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` "转化"而非"消除"
 - [阿什比 Ashby](../schools/cybernetics/ashby.md) `[继承]` 必要多样性法则是韧性的数学基础
 
 ## 进阶阅读

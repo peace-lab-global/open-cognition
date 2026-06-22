@@ -107,10 +107,10 @@ sources:
 
 ## 跨学科关联
 
-- [康德 · 直观与概念](../../../../domains/philosophy/schools/german-idealism/kant.md) `[平行]` "直观无概念则盲"与"现量离分别"形成对照
-- [胡塞尔 · 本质直观](../../../../domains/philosophy/schools/phenomenology/husserl.md) `[平行]` 现象学直观与瑜伽现量的方法论呼应
-- [维特根斯坦 · 私人语言](../../../../domains/philosophy/schools/analytic/wittgenstein.md) `[张力]` 自证的"不可说性"与私人语言论证的批评
-- [皮尔士 · 符号学](../../../../domains/philosophy/schools/pragmatism/peirce.md) `[平行]` 符号（共相）与对象（自相）的三分关系
+- [康德 · 直观与概念](../../../../philosophy/schools/german-idealism/kant.md) `[平行]` "直观无概念则盲"与"现量离分别"形成对照
+- [胡塞尔 · 本质直观](../../../../philosophy/schools/phenomenology/husserl.md) `[平行]` 现象学直观与瑜伽现量的方法论呼应
+- [维特根斯坦 · 私人语言](../../../../philosophy/schools/analytic/wittgenstein.md) `[张力]` 自证的"不可说性"与私人语言论证的批评
+- [皮尔士 · 符号学](../../../../philosophy/schools/pragmatism/peirce.md) `[平行]` 符号（共相）与对象（自相）的三分关系
 
 ## 进阶阅读
 

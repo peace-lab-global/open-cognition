@@ -484,9 +484,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)：七处征心涉及八识的运作机制，尤其第七末那识的执著功能
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)："见性非自然非因缘"的中道立场与龙树中观一致
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)：二十五圆通直接以六根六尘六识为修行入手处
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)："舍识用根"是从意识执著模式转为根性觉知的操作
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："七处征心"彻底解构了心与境的实体化关系
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)：见性十义与起信论"本觉"思想高度一致
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)：七处征心涉及八识的运作机制，尤其第七末那识的执著功能
+- [中观](../concepts/cognitive-theory/madhyamaka.md)："见性非自然非因缘"的中道立场与龙树中观一致
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)：二十五圆通直接以六根六尘六识为修行入手处
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)："舍识用根"是从意识执著模式转为根性觉知的操作
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："七处征心"彻底解构了心与境的实体化关系
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)：见性十义与起信论"本觉"思想高度一致

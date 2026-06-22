@@ -3,20 +3,30 @@ id: attachment
 title: 依恋 · Attachment
 type: concept
 domain: psychology
-school: null
+school: general-psychology
 era: contemporary
-tags: [attachment, Bowlby, Ainsworth, developmental-psychology, relationships, bonding]
-aliases: [依恋, 依附, 附着, Attachment Theory]
+tags:
+- attachment
+- Bowlby
+- Ainsworth
+- developmental-psychology
+- relationships
+- bonding
+aliases:
+- 依恋
+- 依附
+- 附着
+- Attachment Theory
 sources:
-  - title: "Attachment and Loss (依恋与失落)"
-    author: John Bowlby
-    year: 1969-1980
-  - title: "Patterns of Attachment"
-    author: Mary Ainsworth
-    year: 1978
-  - title: "Attached"
-    author: Amir Levine & Rachel Heller
-    year: 2010
+- title: Attachment and Loss (依恋与失落)
+  author: John Bowlby
+  year: 1969-1980
+- title: Patterns of Attachment
+  author: Mary Ainsworth
+  year: 1978
+- title: Attached
+  author: Amir Levine & Rachel Heller
+  year: 2010
 ---
 
 # 依恋 · Attachment

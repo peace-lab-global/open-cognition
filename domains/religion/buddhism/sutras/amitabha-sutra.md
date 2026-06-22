@@ -1,17 +1,20 @@
 ---
-title: "Amitabha Sutra"
-chinese_title: "佛说阿弥陀经"
-sanskrit: "Sukhāvatīvyūha (短部)"
-translator: "鸠摩罗什"
+id: religion.domains.religion.buddhism.sutras.amitabha-sutra
+title: Amitabha Sutra
+type: text
+domain: religion
+chinese_title: 佛说阿弥陀经
+sanskrit: Sukhāvatīvyūha (短部)
+translator: 鸠摩罗什
 translation_year: 402
-dynasty: "后秦"
-tradition: "净土宗"
+dynasty: 后秦
+tradition: 净土宗
 tags:
-  - 净土三经
-  - 净土宗
-  - 念佛
-  - 极乐世界
-  - 往生
+- 净土三经
+- 净土宗
+- 念佛
+- 极乐世界
+- 往生
 ---
 
 # 佛说阿弥陀经
@@ -243,7 +246,7 @@ flowchart TD
 - **[观无量寿经](./contemplation-sutra.md)**：十六观法为定善门，本经持名为散善门
 - **[华严经](./avatamsaka-sutra.md)**：普贤十大愿王导归极乐，华严归净土
 - **[法华经](./lotus-sutra.md)**：同为鸠摩罗什译，法华一乘与净土一乘之呼应
-- **[楞严经](./shurangama-sutra.md)**：大势至菩萨念佛圆通章，与本经同一法门
+- **[楞严经](surangama-sutra.md)**：大势至菩萨念佛圆通章，与本经同一法门
 - **[地藏经](./ksitigarbha-sutra.md)**：临终关怀层面与地藏经呼应
 - 认知理论关联：[八识论](../concepts/cognitive-theory/eight-consciousness.md)、[起信论](../concepts/cognitive-theory/qichu-zhengxin.md)
 

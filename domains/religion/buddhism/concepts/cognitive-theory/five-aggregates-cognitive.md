@@ -128,11 +128,11 @@ sources:
 
 ## 跨学科关联
 
-- [休谟 · 自我束论](../../../../domains/philosophy/schools/empiricism/hume.md) `[平行]` 自我是一束感知
-- [帕菲特 · 人格同一性](../../../../domains/philosophy/schools/analytic/parfit.md) `[平行]` 心理连续性与连接性
-- [丹尼特 · 叙事自我](../../../../domains/philosophy/schools/analytic/dennett.md) `[平行]` 自我作为叙事重心
-- [Minsky · 心智社会](../../../../domains/cognitive-systems/schools/cognitive-engineering/minsky.md) `[平行]` 心智由无智能的 agent 组成
-- [Metzinger · 自我隧道](../../../../domains/philosophy/schools/phenomenology/metzinger.md) `[平行]` 自我是透明模型
+- [休谟 · 自我束论](../../../../philosophy/schools/empiricism/hume.md) `[平行]` 自我是一束感知
+- [帕菲特 · 人格同一性](../../../../philosophy/schools/analytic/parfit.md) `[平行]` 心理连续性与连接性
+- [丹尼特 · 叙事自我](../../../../philosophy/schools/analytic/dennett.md) `[平行]` 自我作为叙事重心
+- [Minsky · 心智社会](../../../../cognitive-systems/schools/cognitive-engineering/minsky.md) `[平行]` 心智由无智能的 agent 组成
+- [Metzinger · 自我隧道](../../../../philosophy/schools/phenomenology/metzinger.md) `[平行]` 自我是透明模型
 
 ## 进阶阅读
 

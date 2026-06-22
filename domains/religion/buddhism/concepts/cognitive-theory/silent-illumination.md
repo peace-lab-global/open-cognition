@@ -142,10 +142,10 @@ sources:
 
 ## 跨学科关联
 
-- [Zahavi · 前反思自身意识](../../../../domains/philosophy/schools/phenomenology/zahavi.md) `[平行]` 非对象化觉察
-- [Heidegger · 澄明](../../../../domains/philosophy/schools/phenomenology/heidegger.md) `[平行]` 存在的澄明
-- [John Cage · 4'33"](../../../../domains/arts/schools/music/cage.md) `[应用]` 默照的艺术表达
-- [Lutz · 开放监控](../../../../domains/psychology/schools/cognitive/lutz.md) `[平行]` OM meditation
+- [Zahavi · 前反思自身意识](../../../../philosophy/schools/phenomenology/zahavi.md) `[平行]` 非对象化觉察
+- [Heidegger · 澄明](../../../../philosophy/schools/existentialism/heidegger.md) `[平行]` 存在的澄明
+- [John Cage · 4'33"](../../../../aesthetics/schools/arts-thought/cage.md) `[应用]` 默照的艺术表达
+- [Lutz · 开放监控](../../../../psychology/schools/cognitive/lutz.md) `[平行]` OM meditation
 
 ## 进阶阅读
 

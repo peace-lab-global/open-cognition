@@ -130,10 +130,10 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德 · 潜意识印记](../../../../domains/psychology/schools/psychoanalysis/freud.md) `[平行]` 早期经验的持久影响
-- [行为主义 · 习惯形成](../../../../domains/psychology/schools/behaviorism/skinner.md) `[平行]` 强化塑造行为倾向
-- [联结主义 · 权重更新](../../../../domains/cognitive-systems/schools/cognitive-engineering/rumelhart.md) `[平行]` 神经网络通过训练调整权重
-- [康纳曼 · 系统1](../../../../domains/psychology/schools/cognitive/kahneman.md) `[平行]` 自动化的认知模式 ≈ 名言种子的现行
+- [弗洛伊德 · 潜意识印记](../../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 早期经验的持久影响
+- [行为主义 · 习惯形成](../../../../psychology/schools/behaviorism/skinner.md) `[平行]` 强化塑造行为倾向
+- [联结主义 · 权重更新](../../../../cognitive-systems/schools/cognitive-engineering/rumelhart.md) `[平行]` 神经网络通过训练调整权重
+- [康纳曼 · 系统1](../../../../psychology/schools/cognitive/kahneman.md) `[平行]` 自动化的认知模式 ≈ 名言种子的现行
 
 ## 进阶阅读
 

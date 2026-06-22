@@ -105,10 +105,10 @@ Dewey is the culminating figure of classical pragmatism and one of the 20th cent
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **符号学** → 探究与符号的关系 → [Peirce（实用主义创始人）](./peirce.md) [同源]
-- **心理学** → 实验心理学与行为研究 → [James（意识流与实用主义）](./james.md) [同源]
+- **心理学** → 实验心理学与行为研究 → [James（意识流与实用主义）](../../../psychology/schools/functionalism/james.md) [同源]
 - **发展心理学** → 认知发展阶段与学习 → [Piaget（建构主义）](../../../psychology/concepts/constructivism.md) [平行]
 - **积极心理学** → 最优体验与审美经验 → [Csikszentmihalyi（心流理论）](../../../psychology/concepts/flow.md) [发展]
-- **社会学** → 公共领域与民主参与 → [Habermas（交往理性）](./habermas.md) [平行]
+- **社会学** → 公共领域与民主参与 → [Habermas（交往理性）](../../../sociology/schools/critical/habermas.md) [平行]
 
 ## 进阶阅读 / Further Reading
 

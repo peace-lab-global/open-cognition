@@ -1,4 +1,5 @@
 ---
+id: aesthetics.pragmatist-aesthetics.dewey
 type: thinker
 name: 杜威美学 / Dewey's Aesthetics
 school: pragmatist-aesthetics
@@ -6,11 +7,12 @@ era: modern/contemporary
 thinker: john-dewey
 key_work: Art as Experience (艺术即经验, 1934)
 domain: aesthetics
+tags: [杜威, 实用主义美学, 艺术即经验, 做与受, 审美经验]
 cross_refs:
-  - [../../philosophy/dewey.md](../../philosophy/dewey.md)
-  - [../../concepts/aesthetic-experience.md](../../concepts/aesthetic-experience.md)
-  - [merleau-ponty.md](../../philosophy/merleau-ponty.md)
-  - [csikszentmihalyi.md](../../psychology/csikszentmihalyi.md)
+  - ../../../philosophy/schools/pragmatism/dewey.md
+  - ../../concepts/aesthetic-experience.md
+  - ../../../philosophy/schools/phenomenology/merleau-ponty.md
+  - ../../../psychology/schools/positive/csikszentmihalyi.md
 ---
 
 # 杜威美学 / Dewey's Aesthetics
@@ -92,4 +94,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/aesthetics-frameworks/art-criticism-framework/SKILL.md) — 基于杜威经验美学的批评方法
+- [艺术批评框架](../../../../skills/aesthetics-frameworks/art-criticism-framework/SKILL.md) — 基于杜威经验美学的批评方法

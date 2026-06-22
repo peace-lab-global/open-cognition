@@ -127,8 +127,8 @@ sources: [《解深密经》（玄奘译）, 梵文残本 Saṃdhinirmocana]
 
 - [康德 · 先验哲学](../../../philosophy/schools/german-idealism/kant.md) — [平行] 唯识 vs 先验观念论
 - [胡塞尔 · 意向性](../../../philosophy/schools/phenomenology/husserl.md) — [平行] 识的见分/相分 vs 意向结构
-- [弗洛伊德 · 潜意识](../../psychology/schools/psychoanalysis/freud.md) — [平行] 阿赖耶识 vs 无意识
-- [皮亚杰 · 图式](../../psychology/schools/cognitive/piaget.md) — [平行] 种子/熏习 vs 认知图式
+- [弗洛伊德 · 潜意识](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 阿赖耶识 vs 无意识
+- [皮亚杰 · 图式](../../../psychology/schools/cognitive/piaget.md) — [平行] 种子/熏习 vs 认知图式
 - [丹尼特 · 多重草稿](../../cognitive-systems/concepts/dennett-multiple-drafts.md) — [平行] 唯识无境 vs 计算心智
 
 ## 进阶阅读

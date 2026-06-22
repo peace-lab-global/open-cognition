@@ -86,8 +86,8 @@ sources: [《思考，快与慢》, 《不确定状况下的判断》, 《噪声
 - [皮亚杰 Piaget](./piaget.md) — [继承] 实证认知科学传统
 - [认知失调](../../concepts/cognitive-dissonance.md) — [平行] 系统性认知现象
 - [马克思·韦伯 Weber](../../../sociology/schools/classical/weber.md) — [借用] 工具理性 vs 行为理性
-- [种子与熏习 · Bīja and Vāsanā](../../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) — [平行] 自动化的认知模式 ≈ 名言种子的现行
-- [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) — [平行] 前五识+第六识（自动加工）vs 第七识+第八识（深层结构）
+- [种子与熏习 · Bīja and Vāsanā](../../../religion/buddhism/concepts/cognitive-theory/bija-vasana.md) — [平行] 自动化的认知模式 ≈ 名言种子的现行
+- [八识体系 · Eight Consciousnesses](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) — [平行] 前五识+第六识（自动加工）vs 第七识+第八识（深层结构）
 - [塞利格曼 Seligman](../positive/seligman.md) — [互补] 解释风格理论与双系统理论——乐观训练涉及系统2对系统1的调节
 - [人因可靠性分析 HRA](../../../cognitive-systems/concepts/human-reliability-analysis.md) — [应用] 双系统理论解释了HRA中技能型错误（系统1）与知识型错误（系统2）
 - [帕拉苏拉曼 Parasuraman](../../../cognitive-systems/schools/automation-sociotechnical/parasuraman.md) — [互补] 自动化自满可理解为System 1主导——依赖直觉而非主动审查

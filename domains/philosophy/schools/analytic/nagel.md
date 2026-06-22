@@ -8,7 +8,10 @@ era: 当代
 birth: 1937
 tags: [主观性, 无何之见, 蝙蝠问题, 意识的难题, 利他主义]
 aliases: [Thomas Nagel, 托马斯·内格尔, 托马斯·内格尔]
-sources: ["What Is It Like to Be a Bat?" (1974), *The View from Nowhere*, 1986]
+sources:
+  - "\"What Is It Like to Be a Bat?\" (1974)"
+  - "The View from Nowhere"
+  - "1986"
 ---
 
 # 内格尔 Thomas Nagel
@@ -86,7 +89,7 @@ sources: ["What Is It Like to Be a Bat?" (1974), *The View from Nowhere*, 1986]
 
 ## 跨学科关联
 
-- [二谛 · Satyadvaya](../../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 客观视角与主观视角的双层协调
+- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 客观视角与主观视角的双层协调
 - [查默斯 Chalmers](./chalmers.md) — [继承] 意识的"hard problem"
 - [帕菲特 Parfit](./parfit.md) — [对话] 人格同一性与客观视角
 - [杰克逊 Jackson](./jackson.md) — [平行] 知识论证（Mary's room）

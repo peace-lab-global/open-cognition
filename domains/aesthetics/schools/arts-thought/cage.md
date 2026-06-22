@@ -38,7 +38,7 @@ sources:
 ## 跨学科关联
 - [禅宗](../../../religion/traditions/buddhism/zen.md) `[同源]` 凯奇的老师铃木大拙直接影响了他的美学
 - [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言游戏与"什么可以算作音乐"
-- [杜威](./dewey-aesthetics.md) `[平行]` 艺术即经验
+- [杜威](../pragmatist-aesthetics/dewey-aesthetics.md) `[平行]` 艺术即经验
 - [道家](../../../religion/traditions/taoism/wuwei.md) `[平行]` 无为/偶然/消解意志
 
 ## 常见误读

@@ -4,9 +4,20 @@ title: 四无所畏
 type: concept
 domain: religion
 school: mahayana
-tags: [四无所畏, 佛陀, 十力, 十八不共法, 佛果功德]
-aliases: [Four Fearlessnesses, 四无畏]
-sources: [大智度论, 瑜伽师地论, 大般若经]
+era: universal
+tags:
+- 四无所畏
+- 佛陀
+- 十力
+- 十八不共法
+- 佛果功德
+aliases:
+- Four Fearlessnesses
+- 四无畏
+sources:
+- 大智度论
+- 瑜伽师地论
+- 大般若经
 ---
 
 # 四无所畏 Four Fearlessnesses
@@ -51,7 +62,7 @@ sources: [大智度论, 瑜伽师地论, 大般若经]
 ## 与相关概念的关系
 
 - [三身](../core-concepts/trikaya.md) [互补] — 四无所畏属于法身功德的显现
-- [四圣谛](../core-concepts/four-noble-truths.md) [继承] — 四无畏中后二无畏直接对应苦集（障道）与灭道（出道）
+- [四圣谛](../../traditions/buddhism/four-noble-truths.md) [继承] — 四无畏中后二无畏直接对应苦集（障道）与灭道（出道）
 - [菩萨道](../core-concepts/bodhisattva-path.md) [发展] — 菩萨在修行中逐渐培养四无畏，至成佛时圆满
 - [如来藏](../core-concepts/tathagatagarbha.md) [平行] — 四无所畏可视为如来藏本具功德的开显
 

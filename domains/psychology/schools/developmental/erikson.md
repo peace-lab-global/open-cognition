@@ -146,7 +146,7 @@ sources:
 
 - [弗洛伊德 Freud](../psychoanalysis/freud.md) `[发展]` 埃里克森扩展了弗洛伊德的发展阶段理论
 - [皮亚杰 Piaget](../cognitive/piaget.md) `[互补]` 认知发展与心理社会发展是平行的
-- [鲍尔比 Bowlby](../attachment-theory/bowlby.md) `[互补]` 依恋理论关注早期关系，埃里克森关注整个生命周期
+- [鲍尔比 Bowlby](bowlby.md) `[互补]` 依恋理论关注早期关系，埃里克森关注整个生命周期
 - [弗兰克尔 Frankl](../existential-psychology/frankl.md) `[平行]` 对意义和同一性的关注
 
 ## 进阶阅读
@@ -167,7 +167,7 @@ sources:
 
 ## 关联 Skills
 
-- **心理学 Skills**: [Freud 弗洛伊德](./freud.md) — 心理性欲发展的心理社会发展扩展 [发展]
+- **心理学 Skills**: [Freud 弗洛伊德](../psychoanalysis/freud.md) — 心理性欲发展的心理社会发展扩展 [发展]
 - **心理学 Skills**: [Piaget 皮亚杰](./piaget.md) — 认知发展与心理社会发展的平行 [互补]
-- **心理学 Skills**: [Bowlby 鲍尔比](../attachment-theory/bowlby.md) — 早期关系与生命周期发展的互补 [互补]
+- **心理学 Skills**: [Bowlby 鲍尔比](bowlby.md) — 早期关系与生命周期发展的互补 [互补]
 - **心理学 Skills**: [Frankl 弗兰克尔](../existential-psychology/frankl.md) — 意义与同一性的平行关注 [平行]

@@ -1,10 +1,14 @@
 ---
+id: aesthetics.concepts.beauty
+title: 美 · Beauty
 type: concept
-name: 美 / Beauty
 domain: aesthetics
+school: general-aesthetics
+era: universal
+tags: [美, 形式, 客观性, 主观性, 文化建构]
 related_concepts:
-  - [sublime.md](sublime.md)
-  - [aesthetic-experience.md](aesthetic-experience.md)
+  - sublime.md
+  - aesthetic-experience.md
 ---
 
 # 美 / Beauty

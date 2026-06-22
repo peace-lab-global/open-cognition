@@ -94,9 +94,9 @@ sources:
 ## 跨学科关联
 
 - [哈钦斯 Hutchins](../schools/distributed/hutchins.md) `[同源]` 分布式认知为团队认知提供理论框架
-- [维果茨基 Vygotsky](../../../psychology/schools/developmental/vygotsky.md) `[互补]` 最近发展区——团队学习在社会互动中发生
+- [维果茨基 Vygotsky](../../psychology/schools/developmental/vygotsky.md) `[互补]` 最近发展区——团队学习在社会互动中发生
 - [维克 Weick](../schools/naturalistic-decision/weick.md) `[互补]` 组织层面的意义建构
-- [社会学：涂尔干](../../../sociology/schools/classical/durkheim.md) `[平行]` 集体意识——超越个体的社会层面认知
+- [社会学：涂尔干](../../sociology/schools/classical/durkheim.md) `[平行]` 集体意识——超越个体的社会层面认知
 
 ## 进阶阅读
 

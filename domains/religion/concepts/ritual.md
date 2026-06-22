@@ -3,29 +3,31 @@ id: ritual
 title: 仪式 · Ritual
 type: concept
 domain: religion
+school: general-religion
+era: universal
 tags:
-  - 仪式
-  - 集体欢腾
-  - 通过仪式
-  - 礼拜
-  - 祈祷
+- 仪式
+- 集体欢腾
+- 通过仪式
+- 礼拜
+- 祈祷
 aliases:
-  - 礼仪
-  - 仪轨
+- 礼仪
+- 仪轨
 sources:
-  - Durkheim《宗教生活的基本形式》
-  - van Gennep《通过仪式》
-  - Turner《仪式过程》
-  - Bell《仪式理论与仪式实践》
+- Durkheim《宗教生活的基本形式》
+- van Gennep《通过仪式》
+- Turner《仪式过程》
+- Bell《仪式理论与仪式实践》
 cross-refs:
-  - id: durkheim
-    relation: 核心理论
-  - id: sacred
-    relation: 核心概念
-  - id: confucianism-li
-    relation: 比较
-  - id: shinto-matsuri
-    relation: 比较
+- id: durkheim
+  relation: 核心理论
+- id: sacred
+  relation: 核心概念
+- id: confucianism-li
+  relation: 比较
+- id: shinto-matsuri
+  relation: 比较
 ---
 
 # 仪式 · Ritual

@@ -89,8 +89,8 @@ key_works: [Collected Papers, The Essential Peirce, Pragmatism as a Principle of
 
 ## 跨学科关联
 
-- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 符号（共相）与对象（自相）的三分关系
-- [维特根斯坦 Wittgenstein](../../analytic/wittgenstein.md) `[对照]` 语言意义的使用论 vs 实用主义准则
+- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 符号（共相）与对象（自相）的三分关系
+- [维特根斯坦 Wittgenstein](../analytic/wittgenstein.md) `[对照]` 语言意义的使用论 vs 实用主义准则
 - [杜威 Dewey](./dewey.md) `[继承]` 实用主义的制度化与教育哲学
 
 ## 进阶阅读

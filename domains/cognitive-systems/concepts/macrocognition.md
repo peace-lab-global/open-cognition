@@ -88,8 +88,8 @@ sources:
 
 ## 跨学科关联
 
-- [皮亚杰 Piaget](../../../psychology/schools/cognitive/piaget.md) `[发展]` 建构主义为宏观认知的意义建构功能提供认识论基础
-- [卡尼曼 Kahneman](../../../psychology/schools/cognitive/kahneman.md) `[互补]` 双系统理论中系统 1 对应宏观认知的直觉模式
+- [皮亚杰 Piaget](../../psychology/schools/cognitive/piaget.md) `[发展]` 建构主义为宏观认知的意义建构功能提供认识论基础
+- [卡尼曼 Kahneman](../../psychology/schools/cognitive/kahneman.md) `[互补]` 双系统理论中系统 1 对应宏观认知的直觉模式
 - [维克 Weick](../schools/naturalistic-decision/weick.md) `[同源]` 组织意义建构与宏观认知中的意义建构功能
 - [伍兹 Woods](../schools/cognitive-engineering/woods.md) `[互补]` 韧性工程关注宏观认知如何应对意外
 

@@ -138,10 +138,10 @@ sources:
 
 ## 跨学科关联
 
-- [Flavell · 元认知](../../../../domains/psychology/schools/cognitive/flavell.md) `[平行]` 元认知监控
-- [Kabat-Zinn · MBSR](../../../../domains/psychology/schools/cognitive/kabat-zinn.md) `[应用]` 身念处的世俗化
-- [Hayes · ACT](../../../../domains/psychology/schools/cognitive/hayes.md) `[应用]` 受念处 + 法念处
-- [Varela · 神经现象学](../../../../domains/cognitive-systems/schools/cognitive-engineering/varela.md) `[平行]` 第一人称觉察的科学化
+- [Flavell · 元认知](../../../../psychology/schools/cognitive/flavell.md) `[平行]` 元认知监控
+- [Kabat-Zinn · MBSR](../../../../psychology/schools/cognitive/kabat-zinn.md) `[应用]` 身念处的世俗化
+- [Hayes · ACT](../../../../psychology/schools/cognitive/hayes.md) `[应用]` 受念处 + 法念处
+- [Varela · 神经现象学](../../../../cognitive-systems/schools/ecological/varela.md) `[平行]` 第一人称觉察的科学化
 
 ## 进阶阅读
 

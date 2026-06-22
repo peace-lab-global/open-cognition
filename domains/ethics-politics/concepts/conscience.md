@@ -1,3 +1,13 @@
+---
+id: ethics-politics.concepts.conscience
+title: 良心 · Conscience
+type: concept
+domain: ethics-politics
+school: moral-philosophy
+era: universal
+tags: [道德良心, 道德律, 超我, 正见, 良心拒绝]
+---
+
 # 良心 / Conscience
 
 > **领域**: 伦理学—政治学 (Ethics—Politics)

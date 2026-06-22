@@ -4,9 +4,20 @@ title: 十二头陀行
 type: concept
 domain: religion
 school: theravada
-tags: [头陀行, 苦行, 戒律, 修行, 上座部]
-aliases: [Dhutanga, 头陀, 杜多行]
-sources: [清净道论, 头陀经]
+era: universal
+tags:
+- 头陀行
+- 苦行
+- 戒律
+- 修行
+- 上座部
+aliases:
+- Dhutanga
+- 头陀
+- 杜多行
+sources:
+- 清净道论
+- 头陀经
 ---
 
 # 十二头陀行 Dhutanga
@@ -54,7 +65,7 @@ sources: [清净道论, 头陀经]
 
 ## 与相关概念的关系
 
-- [四圣谛](../core-concepts/four-noble-truths.md) [互补] — 头陀行以苦谛为出发点，助成道谛的修习
+- [四圣谛](../../traditions/buddhism/four-noble-truths.md) [互补] — 头陀行以苦谛为出发点，助成道谛的修习
 - [八正道](../core-concepts/eightfold-path.md) [下位] — 头陀行是正命（正确生活方式）的极端实践
 - [三学](../core-concepts/three-trainings.md) [下位] — 头陀行属于戒学的加行
 - [中道](../core-concepts/middle-way.md) [张力] — 头陀行看似极端，但以"断贪"为目的而非自虐，仍属中道范畴

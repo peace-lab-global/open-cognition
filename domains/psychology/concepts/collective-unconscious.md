@@ -4,8 +4,16 @@ title: 集体无意识 Collective Unconscious
 type: concept
 domain: psychology
 school: psychoanalysis
-tags: [集体无意识, 原型, 荣格, 神话, 跨文化]
-aliases: [collective unconscious, 集体潜意识]
+era: universal
+tags:
+- 集体无意识
+- 原型
+- 荣格
+- 神话
+- 跨文化
+aliases:
+- collective unconscious
+- 集体潜意识
 ---
 
 # 集体无意识 Collective Unconscious

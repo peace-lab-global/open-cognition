@@ -144,5 +144,5 @@ tags:
 ## 关联条目
 
 - 概念：[七处征心](../../qichu-zhengxin.md)
-- 相关Skill：[八还辨见·能所消融](./baihuan-bianjian-naming/SKILL.md)
-- 跨传统：[临济·无事](./linji-no-thing/SKILL.md)（平行）—两者都指向"心无所在"
+- 相关Skill：[八还辨见·能所消融](../baihuan-bianjian-naming/SKILL.md)
+- 跨传统：[临济·无事](../../../../../../../wisdom-masters/skills/linji-no-thing/SKILL.md)（平行）—两者都指向"心无所在"

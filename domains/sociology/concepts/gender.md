@@ -3,20 +3,28 @@ id: gender
 title: 性别 · Gender
 type: concept
 domain: sociology
-school: null
+school: general-sociology
 era: contemporary
-tags: [gender, feminism, performativity, intersectionality, social-construction]
-aliases: [性别, 社会性别, Gender]
+tags:
+- gender
+- feminism
+- performativity
+- intersectionality
+- social-construction
+aliases:
+- 性别
+- 社会性别
+- Gender
 sources:
-  - title: "The Second Sex (第二性)"
-    author: Simone de Beauvoir
-    year: 1949
-  - title: "Gender Trouble (性别麻烦)"
-    author: Judith Butler
-    year: 1990
-  - title: "Gender and Power"
-    author: R.W. Connell
-    year: 1987
+- title: The Second Sex (第二性)
+  author: Simone de Beauvoir
+  year: 1949
+- title: Gender Trouble (性别麻烦)
+  author: Judith Butler
+  year: 1990
+- title: Gender and Power
+  author: R.W. Connell
+  year: 1987
 ---
 
 # 性别 · Gender

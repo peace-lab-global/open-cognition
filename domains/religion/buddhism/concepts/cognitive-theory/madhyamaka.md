@@ -1,6 +1,6 @@
 ---
 id: madhyamaka
-title: 中观·空 · Madhyamaka: Emptiness
+title: "中观·空 · Madhyamaka: Emptiness"
 type: concept
 domain: religion
 school: buddhism-prajna

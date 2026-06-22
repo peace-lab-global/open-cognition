@@ -70,7 +70,7 @@ sources: [《六祖坛经》]
 
 - [海德格尔](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 本真
 - [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] 不可说
-- [心流](../../psychology/concepts/flow.md) — [平行] 忘我
+- [心流](../../../psychology/concepts/flow.md) — [平行] 忘我
 - [禅宗](../schools/chan-zen.md) — [创立者]
 
 ## Key Cognitive Contribution

@@ -77,8 +77,8 @@ key_works: [Process and Reality, Science and the Modern World, Adventures of Ide
 
 ## 跨学科关联
 
-- [三性 · Trisvabhāva](../../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 事件流 ≈ 依他起，实体化 ≈ 遍计
-- [十二因缘的认知读法](../../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) `[平行]` 缘起的动态过程与事件本体论
+- [三性 · Trisvabhāva](../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 事件流 ≈ 依他起，实体化 ≈ 遍计
+- [十二因缘的认知读法](../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) `[平行]` 缘起的动态过程与事件本体论
 - [罗素 Russell](./russell.md) `[同源]` 早期合作，后分道扬镳
 
 ## 进阶阅读

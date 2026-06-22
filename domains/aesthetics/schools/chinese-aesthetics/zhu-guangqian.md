@@ -1,4 +1,5 @@
 ---
+id: aesthetics.chinese-aesthetics.zhu-guangqian
 type: thinker
 name: 朱光潜美学 / Zhu Guangqian's Aesthetics
 school: chinese-aesthetics
@@ -6,11 +7,12 @@ era: modern
 thinker: zhu-guangqian
 key_work: 谈美 (Talking about Beauty, 1932)
 domain: aesthetics
+tags: [朱光潜, 中国美学, 移情, 距离说, 美育]
 cross_refs:
-  - [../../philosophy/confucius.md](../../philosophy/confucius.md)
-  - [../german-aesthetics/kant-aesthetics.md](../german-aesthetics/kant-aesthetics.md)
-  - [../../philosophy/buddhist-aesthetics.md](../../philosophy/buddhist-aesthetics.md)
-  - [../../concepts/beauty.md](../../concepts/beauty.md)
+  - ../../../philosophy/schools/eastern/confucius.md
+  - ../german-aesthetics/kant-aesthetics.md
+  - ../../philosophy/buddhist-aesthetics.md
+  - ../../concepts/beauty.md
 ---
 
 # 朱光潜美学 / Zhu Guangqian's Aesthetics
@@ -96,4 +98,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md) — 距离说与康德四契机的比较
+- [审美判断分析](../../../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md) — 距离说与康德四契机的比较

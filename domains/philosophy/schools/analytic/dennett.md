@@ -9,7 +9,10 @@ birth: 1942
 death: 2024
 tags: [意识, 多重草稿, 叙事自我, 意向立场, 达尔文主义]
 aliases: [Daniel Dennett, 丹尼尔·丹尼特]
-sources: [*Consciousness Explained*, 1991, *Darwin's Dangerous Idea*, 1995, *From Bacteria to Bach and Back*, 2017]
+sources:
+  - "Consciousness Explained"
+  - "1991"
+  - "Darwin's Dangerous Idea*, 1995, *From Bacteria to Bach and Back*, 2017"
 ---
 
 # 丹尼特 Daniel Dennett
@@ -83,7 +86,7 @@ sources: [*Consciousness Explained*, 1991, *Darwin's Dangerous Idea*, 1995, *Fro
 
 ## 跨学科关联
 
-- [五蕴的认知读法 · Pañcaskandha](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我作为叙事重心
+- [五蕴的认知读法 · Pañcaskandha](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我作为叙事重心
 - [Baars · 全局工作空间](../../../psychology/schools/cognitive/baars.md) — [对话] 多重草稿 vs 全局工作空间
 - [Metzinger · 自我隧道](../phenomenology/metzinger.md) — [平行] 自我是透明模型
 - [帕菲特 Parfit](./parfit.md) — [平行] 自我的还原论

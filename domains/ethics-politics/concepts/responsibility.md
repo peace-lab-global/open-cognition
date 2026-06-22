@@ -1,3 +1,13 @@
+---
+id: ethics-politics.concepts.responsibility
+title: 责任 · Responsibility
+type: concept
+domain: ethics-politics
+school: moral-philosophy
+era: universal
+tags: [道德责任, 集体责任, 保护的责任, 存在主义自由, 业力]
+---
+
 # 责任 / Responsibility
 
 > **领域**: 伦理学—政治学 (Ethics—Politics)

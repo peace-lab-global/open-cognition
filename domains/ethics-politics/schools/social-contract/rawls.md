@@ -52,8 +52,8 @@ sources:
 
 ## 重要概念
 
-- [无知之幕 Veil of Ignorance](./concepts/veil-of-ignorance.md) — 原初状态中的信息屏蔽
-- [正义感 Sense of Justice](./concepts/sense-of-justice.md) — 正义原则的能力
+- [无知之幕 Veil of Ignorance](../../concepts/veil-of-ignorance.md) — 原初状态中的信息屏蔽
+- [正义感 Sense of Justice](../../concepts/sense-of-justice.md) — 正义原则的能力
 - 正义二原则 Two Principles of Justice — 平等自由原则与差别原则
 - 重叠共识 Overlapping Consensus — 多元社会中的正义认同
 
@@ -77,9 +77,9 @@ sources:
 
 ## 跨学科关联
 
-- 社会学：[涂尔干 · 社会团结](../../sociology/schools/classical/durkheim.md) `[发展]` 从机械团结到有机团结的正义意涵
+- 社会学：[涂尔干 · 社会团结](../../../sociology/schools/classical/durkheim.md) `[发展]` 从机械团结到有机团结的正义意涵
 - 哲学：[康德 · 定言命令](../deontology/kant.md) `[继承]` 自律与正义原则的康德根源
-- 心理学：[科尔伯格 · 道德发展](../../psychology/schools/cognitive/kohlberg.md) `[平行]` 道德判断能力的发展阶段
+- 心理学：[科尔伯格 · 道德发展](../../../psychology/schools/cognitive/kohlberg.md) `[平行]` 道德判断能力的发展阶段
 - 政治哲学：[人权 · Human Rights](../../concepts/human-rights.md) `[发展]` 正义论是人权的当代哲学基础，《万民法》延伸至国际人权
 - 环境伦理：[环境伦理 · Environmental Ethics](../../concepts/environmental-ethics.md) `[发展]` 正义储蓄原则是代际正义与环境伦理的理论起点
 - 经济学：[森 · Capability Approach](../capability-approach/sen.md) `[批判]` 森批评基本善框架，提出能力平等替代资源平等
@@ -98,5 +98,5 @@ sources:
 
 ## 关联 Skills
 
-- [无知之幕分析](../../skills/ethics-politics-frameworks/veil-of-ignorance-analysis/SKILL.md)
-- [正义原则检验](../../skills/ethics-politics-frameworks/justice-principle-test/SKILL.md)
+- [无知之幕分析](../../../../skills/ethics-politics-frameworks/veil-of-ignorance-analysis/SKILL.md)
+- [正义原则检验](../../../../skills/ethics-politics-frameworks/justice-principle-test/SKILL.md)

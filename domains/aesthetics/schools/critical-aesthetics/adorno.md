@@ -1,3 +1,15 @@
+---
+id: aesthetics.critical-aesthetics.adorno
+title: 西奥多·阿多诺 Theodor W. Adorno
+type: thinker
+domain: aesthetics
+school: critical-aesthetics
+era: modern
+birth: 1903
+death: 1969
+tags: [批判美学, 文化工业, 否定辩证法, 法兰克福学派, 现代主义]
+---
+
 # 西奥多·阿多诺 / Theodor W. Adorno
 
 > **学派**: 批判美学 (Critical Aesthetics)

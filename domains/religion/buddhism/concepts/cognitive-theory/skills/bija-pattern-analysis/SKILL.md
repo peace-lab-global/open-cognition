@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[种子与熏习 · Bīja and Vāsanā](../bija-vasana.md)
+- 来源概念：[种子与熏习 · Bīja and Vāsanā](../../bija-vasana.md)
 - 核心机制：**种子生现行，现行熏种子**——认知模式是自我维持的循环
 - 种子六义、能熏四义、所熏四义
 - 等流果（同类现行）与异熟果（跨类成熟）的区分
@@ -160,7 +160,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[种子与熏习](../bija-vasana.md)
-- 相关 Skill：[八识认知诊断](./eight-consciousness-diagnosis/SKILL.md)
-- 跨传统：[弗洛伊德 · 潜意识印记](../../../../psychology/schools/psychoanalysis/freud.md)（平行）
-- 跨传统：[Duhigg · 习惯回路](../../../../psychology/schools/behaviorism/skinner.md)（平行）——cue/routine/reward ≈ 种子/现行/熏习
+- 概念：[种子与熏习](../../bija-vasana.md)
+- 相关 Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
+- 跨传统：[弗洛伊德 · 潜意识印记](../../../../../../psychology/schools/psychoanalysis/freud.md)（平行）
+- 跨传统：[Duhigg · 习惯回路](../../../../../../psychology/schools/behaviorism/skinner.md)（平行）——cue/routine/reward ≈ 种子/现行/熏习

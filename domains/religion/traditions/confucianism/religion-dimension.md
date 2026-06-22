@@ -135,7 +135,7 @@ Confucianism, viewed as a religious tradition, centers on Heaven (天) as its ul
 
 ## 关联 Skills
 
-- **哲学 Skills**: [Confucius 儒学核心](../../../philosophy/schools/confucianism/confucius.md) — 从哲学维度理解儒学
+- **哲学 Skills**: [Confucius 儒学核心](../../../philosophy/schools/eastern/confucius.md) — 从哲学维度理解儒学
 - **哲学 Skills**: [Aristotle 亚里士多德德性论](../../../philosophy/schools/aristotle/virtue-ethics.md) — 德性伦理的跨传统比较
 - **社会学 Skills**: [Durkheim 神圣与世俗](../../../sociology/schools/durkheim/sacred-profane.md) — 宗教社会学的理论框架
 - **宗教 Skills**: [Buddhism 佛教核心教义](../buddhism/core-teachings.md) — 儒佛关系的深度理解

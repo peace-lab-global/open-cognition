@@ -115,9 +115,9 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德 · 潜意识](../../../../domains/psychology/schools/psychoanalysis/freud.md) `[平行]` 阿赖耶识与潜意识的储存功能类似，但理论框架不同
-- [康德 · 先验范畴](../../../../domains/philosophy/schools/german-idealism/kant.md) `[平行]` 末那识的"先天我执"与康德的先验统觉有结构类似性
-- [卡尼曼 · 双系统](../../../../domains/psychology/schools/cognitive/kahneman.md) `[平行]` 前五识+第六识（自动加工）vs 第七识+第八识（深层结构）
+- [弗洛伊德 · 潜意识](../../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 阿赖耶识与潜意识的储存功能类似，但理论框架不同
+- [康德 · 先验范畴](../../../../philosophy/schools/german-idealism/kant.md) `[平行]` 末那识的"先天我执"与康德的先验统觉有结构类似性
+- [卡尼曼 · 双系统](../../../../psychology/schools/cognitive/kahneman.md) `[平行]` 前五识+第六识（自动加工）vs 第七识+第八识（深层结构）
 
 ## 进阶阅读
 

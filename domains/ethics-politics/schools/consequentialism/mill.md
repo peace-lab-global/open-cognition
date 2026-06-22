@@ -52,7 +52,7 @@ sources:
 
 ## 重要概念
 
-- [功利 Pleasure](./concepts/pleasure.md) — 更高苦乐与更低苦乐的质的区分
+- [功利 Pleasure](../../concepts/pleasure.md) — 更高苦乐与更低苦乐的质的区分
 - 伤害原则 Harm Principle — 限制自由的唯一正当性在于防止对他人伤害
 - 更高快乐 Higher Pleasure — 精神快乐优越于感官快乐
 
@@ -77,8 +77,8 @@ sources:
 ## 跨学科关联
 
 - 哲学：[边沁 · 功利原则](../consequentialism/bentham.md) `[继承/发展]` 继承并修正边沁的功利主义
-- 社会学：[哈贝马斯 · 公共领域](../../sociology/schools/critical/habermas.md) `[平行]` 自由主义讨论空间的共同关注
-- 心理学：[马斯洛 · 需求层次](../../psychology/schools/humanistic/maslow.md) `[发展]` 更高需求层次与更高快乐的相似结构
+- 社会学：[哈贝马斯 · 公共领域](../../../sociology/schools/critical/habermas.md) `[平行]` 自由主义讨论空间的共同关注
+- 心理学：[马斯洛 · 需求层次](../../../psychology/schools/humanistic/maslow.md) `[发展]` 更高需求层次与更高快乐的相似结构
 
 ## 进阶阅读
 
@@ -94,5 +94,5 @@ sources:
 
 ## 关联 Skills
 
-- [功利计算分析](../../skills/ethics-politics-frameworks/pleasure-calculus/SKILL.md)
-- [自由主义论证分析](../../skills/ethics-politics-frameworks/liberalism-analysis/SKILL.md)
+- [功利计算分析](../../../../skills/ethics-politics-frameworks/pleasure-calculus/SKILL.md)
+- [自由主义论证分析](../../../../skills/ethics-politics-frameworks/liberalism-analysis/SKILL.md)

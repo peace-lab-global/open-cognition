@@ -3,20 +3,29 @@ id: digital-society
 title: 数字社会 · Digital Society
 type: concept
 domain: sociology
-school: null
+school: general-sociology
 era: contemporary
-tags: [digital, platform-economy, surveillance-capitalism, algorithm, internet, data]
-aliases: [数字社会, 数位社会, Digital Society]
+tags:
+- digital
+- platform-economy
+- surveillance-capitalism
+- algorithm
+- internet
+- data
+aliases:
+- 数字社会
+- 数位社会
+- Digital Society
 sources:
-  - title: "The Age of Surveillance Capitalism (监控资本主义时代)"
-    author: Shoshana Zuboff
-    year: 2019
-  - title: "The Platform Society"
-    author: José van Dijck et al.
-    year: 2018
-  - title: "Algorithms of Oppression"
-    author: Safiya Umoja Noble
-    year: 2018
+- title: The Age of Surveillance Capitalism (监控资本主义时代)
+  author: Shoshana Zuboff
+  year: 2019
+- title: The Platform Society
+  author: José van Dijck et al.
+  year: 2018
+- title: Algorithms of Oppression
+  author: Safiya Umoja Noble
+  year: 2018
 ---
 
 # 数字社会 · Digital Society

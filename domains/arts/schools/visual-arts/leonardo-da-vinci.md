@@ -65,7 +65,7 @@ sources:
 - [艺术与科学统一](../../concepts/art-science-unity.md) — 艺术和科学的统一
 - [观察与实验](../../concepts/observation-experiment.md) — 通过观察和实验认识自然
 - [人体比例](../../concepts/human-proportion.md) — 人体的和谐比例
-- [创造力](../../concepts/creativity.md) — 模仿自然并超越自然
+- [创造力](../../../aesthetics/concepts/creativity.md) — 模仿自然并超越自然
 
 ## 思想坐标
 

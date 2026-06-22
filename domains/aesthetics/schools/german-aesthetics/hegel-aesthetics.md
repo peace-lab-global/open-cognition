@@ -1,4 +1,5 @@
 ---
+id: aesthetics.german-aesthetics.hegel
 type: thinker
 name: 黑格尔美学 / Hegel's Aesthetics
 school: german-aesthetics
@@ -6,11 +7,12 @@ era: early-modern
 thinker: georg-wilhelm-friedrich-hegel
 key_work: Lectures on Aesthetics (美学讲演录)
 domain: aesthetics
+tags: [黑格尔, 德国古典美学, 艺术终结论, 理念感性显现, 浪漫型艺术]
 cross_refs:
-  - [../../philosophy/hegel.md](../../philosophy/hegel.md)
-  - [kant-aesthetics.md](kant-aesthetics.md)
-  - [../nietzschean-aesthetics/nietzsche-aesthetics.md](../nietzschean-aesthetics/nietzsche-aesthetics.md)
-  - [../../concepts/beauty.md](../../concepts/beauty.md)
+  - ../../../philosophy/schools/german-idealism/hegel.md
+  - kant-aesthetics.md
+  - ../nietzschean-aesthetics/nietzsche-aesthetics.md
+  - ../../concepts/beauty.md
 ---
 
 # 黑格尔美学 / Hegel's Aesthetics
@@ -92,4 +94,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/aesthetics-frameworks/art-criticism-framework/SKILL.md) — 内容与形式的辩证分析
+- [艺术批评框架](../../../../skills/aesthetics-frameworks/art-criticism-framework/SKILL.md) — 内容与形式的辩证分析

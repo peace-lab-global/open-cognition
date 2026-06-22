@@ -103,7 +103,7 @@ sources:
 
 - [禅宗](../buddhism/zen.md) `[同源]` 中国禅吸收无为成为基本气质
 - [海德格尔 · Gelassenheit 任之](../../../philosophy/schools/existentialism/heidegger.md) `[平行]` 海氏晚期与道家的呼应
-- [心流 · Flow](../../../psychology/schools/positive/flow.md) `[平行]` 现代心理学的庖丁解牛
+- [心流 · Flow](../../../psychology/concepts/flow.md) `[平行]` 现代心理学的庖丁解牛
 - [马克思 · 异化劳动](../../../sociology/schools/classical/marx.md) `[张力]` 异化是有为之极，无为指向去异化
 
 ## 进阶阅读

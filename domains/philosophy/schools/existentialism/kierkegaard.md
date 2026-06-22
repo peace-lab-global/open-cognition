@@ -120,7 +120,7 @@ Kierkegaard was almost entirely ignored in his lifetime; his international reput
 - [尼采 · Friedrich Nietzsche](./nietzsche.md) `[平行]` 同时代的"反黑格尔主义者"，共同关注个体性和存在的真实性，但方向截然相反
 - [海德格尔 · Martin Heidegger](./heidegger.md) `[发展]` 海德格尔的"向死存在"和焦虑分析直接源于克尔凯郭尔
 - [萨特 · Jean-Paul Sartre](./sartre.md) `[发展]` 将克尔凯郭尔的存在选择推向无神论存在主义
-- [弗兰克尔 · Viktor Frankl](../../../psychology/schools/humanistic/frankl.md) `[平行]` 意义治疗与宗教阶段的"意义"概念的呼应
+- [弗兰克尔 · Viktor Frankl](../../../psychology/schools/existential-psychology/frankl.md) `[平行]` 意义治疗与宗教阶段的"意义"概念的呼应
 - [佛教四圣谛](../../../religion/traditions/buddhism/four-noble-truths.md) `[平行]` 苦（dukkha）与焦虑/绝望的存在论分析的结构性类比
 
 ## 进阶阅读 / Further Reading

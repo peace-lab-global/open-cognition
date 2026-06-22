@@ -85,10 +85,10 @@ sources: [巴利三藏, 清净道论, 阿毗达摩]
 
 ## 跨学科关联
 
-- [涂尔干 · 集体意识](../../sociology/schools/classical/durkheim.md) — [互补] 僧团的社会整合
-- [福柯 · 自我技术](../../sociology/schools/structuralism/foucault.md) — [平行] 禅修作为自我技术
-- [荣格 · 个体化](../../psychology/schools/psychoanalysis/jung.md) — [张力] 自我消融 vs 自我整合
-- [斯金纳 · 行为塑造](../../psychology/schools/behaviorism/skinner.md) — [对照] 戒律作为行为塑造
+- [涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) — [互补] 僧团的社会整合
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 禅修作为自我技术
+- [荣格 · 个体化](../../../psychology/schools/psychoanalysis/jung.md) — [张力] 自我消融 vs 自我整合
+- [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) — [对照] 戒律作为行为塑造
 
 ## Cognitive Architecture
 

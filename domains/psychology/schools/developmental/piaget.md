@@ -87,7 +87,7 @@ sources:
 
 ## 跨学科关联
 
-- [维果茨基](../../../psychology/schools/cultural-historical/vygotsky.md) `[对比]` 社会文化理论与建构主义的对话
+- [维果茨基](vygotsky.md) `[对比]` 社会文化理论与建构主义的对话
 - [乔姆斯基](../../../linguistics/schools/generative/chomsky.md) `[争论]` 语言习得的先天论与建构论
 - [教育学](../../../education/schools/constructivist/piaget.md) `[应用]` 建构主义教育理论
 - [人工智能](../../../computer-science/schools/machine-learning/constructivist-ai.md) `[启发]` 建构主义学习算法

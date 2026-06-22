@@ -8,7 +8,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#内容总览)
-[![Entries](https://img.shields.io/badge/entries-178%20thinkers%20%7C%20144%20concepts%20%7C%20111%20skills-brightgreen.svg)](#内容总览)
+[![Entries](https://img.shields.io/badge/entries-210%20thinkers%20%7C%20213%20concepts%20%7C%20126%20skills-brightgreen.svg)](#内容总览)
 
 ---
 
@@ -28,22 +28,22 @@
 
 ```
 9 个领域 × N 思想家/条目 + 概念条目 + Skills + 专题深化
-= 178 思想家 · 144 概念 · 111 Skills · 550+ 结构化 .md 文件
+= 210 思想家 · 213 概念 · 126 Skills · 650+ 结构化 .md 文件
 ```
 
 ### 九大领域
 
 | 领域 | 思想家 | 概念 | Skills | 入口 |
 |---|:---:|:---:|:---:|---|
-| **哲学** Philosophy | 28 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
-| **宗教** Religion | 32 | 76 | 39 | [domains/religion](./domains/religion/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
+| **哲学** Philosophy | 42 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
+| **宗教** Religion | 34 | 127 | 39 | [domains/religion](./domains/religion/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
 | **社会学** Sociology | 18 | 7 | 15 | [domains/sociology](./domains/sociology/README.md) |
-| **心理学** Psychology | 28 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
+| **心理学** Psychology | 42 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
 | **伦理与政治哲学** Ethics & Politics | 15 | 11 | 10 | [domains/ethics-politics](./domains/ethics-politics/README.md) |
-| **美学** Aesthetics | 23 | 7 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
-| **文学** Literature | 5 | — | 5 | [domains/literature](./domains/literature/README.md) |
-| **艺术** Arts | 3 | — | 3 | [domains/arts](./domains/arts/README.md) |
-| **认知系统工程** Cognitive Systems Engineering | 26 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
+| **美学** Aesthetics | 23 | 9 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
+| **文学** Literature | 5 | 8 | 5 | [domains/literature](./domains/literature/README.md) |
+| **艺术** Arts | 3 | 8 | 3 | [domains/arts](./domains/arts/README.md) |
+| **认知系统工程** Cognitive Systems Engineering | 28 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
 
 > **宗教领域 76 概念** 含 19 个佛教认知理论专章 + 16 部经典独立深度条目（详见下文专题）。**39 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。
 

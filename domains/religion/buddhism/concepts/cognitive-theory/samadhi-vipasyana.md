@@ -144,10 +144,10 @@ sources:
 
 ## 跨学科关联
 
-- [Lutz & Davidson · 冥想神经科学](../../../../domains/psychology/schools/cognitive/lutz.md) `[平行]` γ波同步与九住心
-- [Kabat-Zinn · MBSR](../../../../domains/psychology/schools/cognitive/kabat-zinn.md) `[应用]` 止观的世俗化版本
-- [Posner · 注意力网络](../../../../domains/psychology/schools/cognitive/posner.md) `[平行]` 警觉、定向、执行控制
-- [Baars · 全局工作空间](../../../../domains/psychology/schools/cognitive/baars.md) `[平行]` 止的稳定 + 观的进入全局
+- [Lutz & Davidson · 冥想神经科学](../../../../psychology/schools/cognitive/lutz.md) `[平行]` γ波同步与九住心
+- [Kabat-Zinn · MBSR](../../../../psychology/schools/cognitive/kabat-zinn.md) `[应用]` 止观的世俗化版本
+- [Posner · 注意力网络](../../../../psychology/schools/cognitive/posner.md) `[平行]` 警觉、定向、执行控制
+- [Baars · 全局工作空间](../../../../psychology/schools/cognitive/baars.md) `[平行]` 止的稳定 + 观的进入全局
 
 ## 进阶阅读
 

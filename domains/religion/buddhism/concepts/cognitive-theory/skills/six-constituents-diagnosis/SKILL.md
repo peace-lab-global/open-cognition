@@ -132,5 +132,5 @@ tags:
 ## 关联条目
 
 - 概念：[六根六尘六识](../../six-constituents.md)
-- 相关Skill：[八识认知诊断](./eight-consciousness-diagnosis/SKILL.md)
+- 相关Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
 - 跨传统：[CBT·自动思维识别](../../../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的"自动思维识别"类似尘层诊断

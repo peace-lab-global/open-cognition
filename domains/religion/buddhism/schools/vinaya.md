@@ -101,9 +101,9 @@ sources: [《四分律》, 《四分律删繁补阙行事钞》, 《南山律》
 
 ## 跨学科关联
 
-- [福柯 · 自我技术](../../sociology/schools/structuralism/foucault.md) — [平行] 戒律作为自我修养
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 戒律作为自我修养
 - [康德 · 道德律](../../../philosophy/schools/german-idealism/kant.md) — [平行] 戒体 vs 道德律令
-- [皮亚杰 · 道德发展](../../psychology/schools/cognitive/piaget.md) — [平行] 戒律学习 vs 道德发展阶段
+- [皮亚杰 · 道德发展](../../../psychology/schools/cognitive/piaget.md) — [平行] 戒律学习 vs 道德发展阶段
 
 ## 进阶阅读
 

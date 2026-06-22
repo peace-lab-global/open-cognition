@@ -474,9 +474,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)："幻"对应八识中第七末那识的执著，"觉"对应转识成智
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)："知幻即离"与中观"一切法空"的直接体验相应
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)：二十五轮的三种修法对应三种转识路径
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："认幻为真"是心境粘着的根源，"离幻"是心境脱粘
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)："圆觉妙心本自清净"与起信论"本觉"完全一致
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)：奢摩他修法从六根门头入手，止息六尘攀缘
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)："幻"对应八识中第七末那识的执著，"觉"对应转识成智
+- [中观](../concepts/cognitive-theory/madhyamaka.md)："知幻即离"与中观"一切法空"的直接体验相应
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)：二十五轮的三种修法对应三种转识路径
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："认幻为真"是心境粘着的根源，"离幻"是心境脱粘
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)："圆觉妙心本自清净"与起信论"本觉"完全一致
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)：奢摩他修法从六根门头入手，止息六尘攀缘

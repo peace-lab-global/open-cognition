@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[五蕴的认知读法](../five-aggregates-cognitive.md)
+- 来源概念：[五蕴的认知读法](../../five-aggregates-cognitive.md)
 - 核心原则：
   - 五蕴是**过程**，不是**实体**
   - 自我感 = 五蕴过程的动态耦合，不是中央处理器
@@ -174,7 +174,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[五蕴的认知读法](../five-aggregates-cognitive.md)
-- 相关 Skill：[心所图谱](./abhidharma-mind-mapping/SKILL.md)
-- 跨传统：[休谟 · 自我束论](../../../../philosophy/schools/empiricism/hume.md)（平行）
-- 跨传统：[Hayes · ACT 认知解离](../../../../psychology/schools/cognitive/hayes.md)（平行）
+- 概念：[五蕴的认知读法](../../five-aggregates-cognitive.md)
+- 相关 Skill：[心所图谱](../abhidharma-mind-mapping/SKILL.md)
+- 跨传统：[休谟 · 自我束论](../../../../../../philosophy/schools/empiricism/hume.md)（平行）
+- 跨传统：[Hayes · ACT 认知解离](../../../../../../psychology/schools/cognitive/hayes.md)（平行）

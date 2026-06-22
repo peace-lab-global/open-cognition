@@ -70,7 +70,7 @@ sources: [《观无量寿佛经疏》（观经四帖疏）, 《往生礼赞》, 
 - [慧能](./huineng.md) — [平行] 同时代的大众化改革者
 - [净土宗](../schools/pure-land.md) — [继承] 净土宗实际创立
 - [路德 · 因信称义](../../traditions/christianity/grace-redemption.md) — [平行] 他力信心 vs 恩典
-- [韦伯 · 宗教社会学](../../sociology/schools/structuralism/weber.md) — [平行] 宗教大众化
+- [韦伯 · 宗教社会学](../../../sociology/schools/classical/weber.md) — [平行] 宗教大众化
 
 ## 进阶阅读
 

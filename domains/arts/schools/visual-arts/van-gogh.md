@@ -88,7 +88,7 @@ sources:
 
 ## 跨学科关联
 
-- [心理学](../../../psychology/concepts/creativity.md) `[探讨]` 创造力和精神疾病
+- [心理学](../../../aesthetics/concepts/creativity.md) `[探讨]` 创造力和精神疾病
 - [色彩学](../../../arts/concepts/color-theory.md) `[贡献]` 色彩理论
 - [存在主义](../../../philosophy/schools/existentialism/sartre.md) `[平行]` 存在的焦虑
 - [精神分析](../../../psychology/schools/psychoanalysis/freud.md) `[应用]` 梵高作品的心理分析

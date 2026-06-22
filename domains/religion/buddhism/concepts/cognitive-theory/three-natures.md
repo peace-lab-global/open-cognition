@@ -110,10 +110,10 @@ sources:
 
 ## 跨学科关联
 
-- [康德 · 现象与物自身](../../../../domains/philosophy/schools/german-idealism/kant.md) `[平行]` 遍计 ≈ 现象（经认知构造），圆成实 ≈ 物自身的可通达版本
-- [海德格尔 · 存在论差异](../../../../domains/philosophy/schools/phenomenology/heidegger.md) `[平行]` 存在者（遍计/依他）与存在本身（圆成实）的差异
-- [预测编码理论](../../../../domains/psychology/schools/cognitive/friston.md) `[平行]` 自上而下的先验 ≈ 遍计，prediction error ≈ 依他起的真实反馈
-- [怀特海 · 过程哲学](../../../../domains/philosophy/schools/analytic/whitehead.md) `[平行]` 事件流 ≈ 依他起，实体化 ≈ 遍计
+- [康德 · 现象与物自身](../../../../philosophy/schools/german-idealism/kant.md) `[平行]` 遍计 ≈ 现象（经认知构造），圆成实 ≈ 物自身的可通达版本
+- [海德格尔 · 存在论差异](../../../../philosophy/schools/existentialism/heidegger.md) `[平行]` 存在者（遍计/依他）与存在本身（圆成实）的差异
+- [预测编码理论](../../../../psychology/schools/cognitive/friston.md) `[平行]` 自上而下的先验 ≈ 遍计，prediction error ≈ 依他起的真实反馈
+- [怀特海 · 过程哲学](../../../../philosophy/schools/analytic/whitehead.md) `[平行]` 事件流 ≈ 依他起，实体化 ≈ 遍计
 
 ## 进阶阅读
 

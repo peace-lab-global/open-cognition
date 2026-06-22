@@ -87,7 +87,7 @@ sources:
 
 ## 跨学科关联
 
-- [马克思](./marx.md) `[继承]` 把资本概念扩展到非经济维度
+- [马克思](../classical/marx.md) `[继承]` 把资本概念扩展到非经济维度
 - [韦伯](../classical/weber.md) `[继承]` 地位群体（Stand）→ 文化资本
 - [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[发展]` 揭示"自然"背后的权力
 - **习惯回路（Habit Loop）** `[平行]` 但布迪厄强调结构嵌入

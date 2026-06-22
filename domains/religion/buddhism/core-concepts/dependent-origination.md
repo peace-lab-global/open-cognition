@@ -66,7 +66,7 @@ sources: [巴利三藏, 《阿含经》, 《稻芉经》]
 - [休谟 · 因果](../../../philosophy/schools/empiricism/hume.md) — [平行] 因果分析
 - [系统科学] — [平行] 涌现
 - [量子力学] — [平行] 非局部性
-- [社会学 · 结构](../../sociology/schools/structuralism/bourdieu.md) — [互补] 场域缘起
+- [社会学 · 结构](../../../sociology/schools/structuralism/bourdieu.md) — [互补] 场域缘起
 
 ## 进阶阅读
 

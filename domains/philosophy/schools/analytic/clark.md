@@ -82,8 +82,8 @@ key_works: [Supersizing the Mind, Natural-Born Cyborgs, Surfing Uncertainty]
 
 - [弗里斯顿 Friston](../../../psychology/schools/cognitive/friston.md) `[平行]` 预测加工框架
 - [霍维 Hohwy](./hohwy.md) `[对照]` 延展认知 vs 大脑隔绝性
-- [心物一元 · Mind-World](../../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心不分离于境
-- [五蕴的认知读法](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 认知作为分布式过程束
+- [心物一元 · Mind-World](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心不分离于境
+- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 认知作为分布式过程束
 
 ## 进阶阅读
 

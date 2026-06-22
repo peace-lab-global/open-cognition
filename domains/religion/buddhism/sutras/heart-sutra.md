@@ -431,9 +431,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)：心经的"识蕴"对应八识中的前六识，而"照见"则涉及第七识末那识的执著与第八识阿赖耶识的深层运作
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)：心经的空性思想直接源于龙树中观学派，"色即是空"是中道思想的最简表达
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)："无眼耳鼻舌身意，无色声香味触法"直接解构六根六尘的认知框架
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："心无挂碍"揭示了心与境的非粘着关系
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)：般若观照即是转第六意识为妙观察智的操作
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)：心经的"不生不灭"与起信论的"心真如门"相通
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)：心经的"识蕴"对应八识中的前六识，而"照见"则涉及第七识末那识的执著与第八识阿赖耶识的深层运作
+- [中观](../concepts/cognitive-theory/madhyamaka.md)：心经的空性思想直接源于龙树中观学派，"色即是空"是中道思想的最简表达
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)："无眼耳鼻舌身意，无色声香味触法"直接解构六根六尘的认知框架
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："心无挂碍"揭示了心与境的非粘着关系
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)：般若观照即是转第六意识为妙观察智的操作
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)：心经的"不生不灭"与起信论的"心真如门"相通

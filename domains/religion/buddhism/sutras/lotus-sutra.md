@@ -482,9 +482,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)：法华经的"开佛知见"涉及第八识阿赖耶识的转化，从染污识转为清净智
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)："诸法实相"的十如是框架兼具空假中三谛
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)："会三归一"是从三种认知模式统一为一佛智的过程
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："心净则佛土净"揭示了心与世界的建构关系
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)："一切众生皆有佛性"与起信论"本觉"思想相通
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)：普门品的"寻声救苦"涉及耳根与声尘的认知机制
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)：法华经的"开佛知见"涉及第八识阿赖耶识的转化，从染污识转为清净智
+- [中观](../concepts/cognitive-theory/madhyamaka.md)："诸法实相"的十如是框架兼具空假中三谛
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)："会三归一"是从三种认知模式统一为一佛智的过程
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："心净则佛土净"揭示了心与世界的建构关系
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)："一切众生皆有佛性"与起信论"本觉"思想相通
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)：普门品的"寻声救苦"涉及耳根与声尘的认知机制

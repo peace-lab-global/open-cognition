@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[三性 · Trisvabhāva](../three-natures.md)
+- 来源概念：[三性 · Trisvabhāva](../../three-natures.md)
 - 核心公式：**圆成实 = 依他起 − 遍计所执**
 - 三性不是三个实体，而是同一经验的三种认知模式
 - 转化目标：不是消灭遍计，而是不执
@@ -159,7 +159,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[三性](../three-natures.md)
-- 相关 Skill：[种子模式分析](./bija-pattern-analysis/SKILL.md)
-- 跨传统：[贝克 · 认知歪曲](../../../../psychology/schools/cognitive/beck.md)（平行）——遍计所执 ≈ 认知歪曲
-- 跨传统：[胡塞尔 · 现象学还原](../../../../philosophy/schools/phenomenology/husserl.md)（平行）——悬置 ≈ 中止遍计
+- 概念：[三性](../../three-natures.md)
+- 相关 Skill：[种子模式分析](../bija-pattern-analysis/SKILL.md)
+- 跨传统：[贝克 · 认知歪曲](../../../../../../psychology/schools/cognitive/beck.md)（平行）——遍计所执 ≈ 认知歪曲
+- 跨传统：[胡塞尔 · 现象学还原](../../../../../../philosophy/schools/phenomenology/husserl.md)（平行）——悬置 ≈ 中止遍计

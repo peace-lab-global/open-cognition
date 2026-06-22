@@ -132,5 +132,5 @@ tags:
 ## 关联条目
 
 - 概念：[心物一元](../../mind-world.md)
-- 相关Skill：[八识认知诊断](./eight-consciousness-diagnosis/SKILL.md)
+- 相关Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
 - 跨传统：[认知行为疗法·认知重构](../../../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的认知重构是转见分的简化版本

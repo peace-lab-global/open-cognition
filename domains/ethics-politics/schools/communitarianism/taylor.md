@@ -155,9 +155,9 @@ sources:
 ## 关联 Skills
 
 - **哲学 Skills**: [Hegel 黑格尔](../../../philosophy/schools/german-idealism/hegel.md) — "承认"辩证法的理论发展
-- **伦理学 Skills**: [MacIntyre 麦金太尔](../communitarianism/macintyre.md) — 社群主义同源，德性伦理与传统
-- **政治学 Skills**: [Rawls 罗尔斯](../liberalism/rawls.md) — "自由主义 vs 社群主义"的对立范式
-- **政治学 Skills**: [Arendt 阿伦特](../../../philosophy/schools/existentialism/arendt.md) — 公共行动与对话性自我的互补视角
+- **伦理学 Skills**: [MacIntyre 麦金太尔](../virtue-ethics/macintyre.md) — 社群主义同源，德性伦理与传统
+- **政治学 Skills**: [Rawls 罗尔斯](../social-contract/rawls.md) — "自由主义 vs 社群主义"的对立范式
+- **政治学 Skills**: [Arendt 阿伦特](../../../philosophy/schools/political-philosophy/arendt.md) — 公共行动与对话性自我的互补视角
 - **伦理学 Skills**: [Nussbaum 努斯鲍姆](../capability-approach/nussbaum.md) — 能力进路与承认政治的互补视角
 - **社会学 Skills**: [Habermas 哈贝马斯](../../../sociology/schools/critical/habermas.md) — 承认政治与交往理性的对话——认同的对话性建构 `[张力]`
 - **伦理学 Skills**: [MacIntyre 麦金太尔](../virtue-ethics/macintyre.md) — 社群主义双璧，共享对原子论自我的批判 `[同源]`

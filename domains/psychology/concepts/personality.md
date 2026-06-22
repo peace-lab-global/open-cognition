@@ -3,26 +3,37 @@ id: personality
 title: 人格 · Personality
 type: concept
 domain: psychology
-school: null
+school: general-psychology
 era: contemporary
-tags: [personality, big-five, traits, psychodynamic, temperament, character, personality-psychology]
-aliases: [人格, 性格, 气质, Personality]
+tags:
+- personality
+- big-five
+- traits
+- psychodynamic
+- temperament
+- character
+- personality-psychology
+aliases:
+- 人格
+- 性格
+- 气质
+- Personality
 sources:
-  - title: "The Interpretation of Dreams (梦的解析)"
-    author: Sigmund Freud
-    year: 1900
-  - title: "Psychological Types (心理类型)"
-    author: Carl Jung
-    year: 1921
-  - title: "Personality and Assessment"
-    author: Walter Mischel
-    year: 1968
-  - title: "The Big Five Personality Factors"
-    author: Paul Costa & Robert McCrae
-    year: 1992
-  - title: "Toward a Psychology of Being"
-    author: Abraham Maslow
-    year: 1962
+- title: The Interpretation of Dreams (梦的解析)
+  author: Sigmund Freud
+  year: 1900
+- title: Psychological Types (心理类型)
+  author: Carl Jung
+  year: 1921
+- title: Personality and Assessment
+  author: Walter Mischel
+  year: 1968
+- title: The Big Five Personality Factors
+  author: Paul Costa & Robert McCrae
+  year: 1992
+- title: Toward a Psychology of Being
+  author: Abraham Maslow
+  year: 1962
 ---
 
 # 人格 · Personality

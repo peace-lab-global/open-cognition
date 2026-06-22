@@ -25,7 +25,7 @@ sources:
 > ⚠️ **Legacy entry — 本文件为早期草稿**
 >
 > 规范版本（含认知解构 Skill、跨学科关联与完整理论脉络）请见：
-> 👉 **[cognitive-theory/baihuan-bianjian.md](./cognitive-theory/baihuan-bianjian.md)**
+> 👉 **[cognitive-theory/baihuan-bianjian.md](../cognitive-theory/baihuan-bianjian.md)**
 >
 > 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
@@ -107,8 +107,8 @@ sources:
 ## 跨学科关联
 
 - [临济·棒喝](../linji-banghe.md)（同源）— 直指见性
-- [海德格尔·本真](../../philosophy/schools/existentialism/heidegger.md)（平行）— 本真自我与能见之性的结构相似
-- [维特根斯坦·私人语言](../../philosophy/schools/analytic/wittgenstein.md)（平行）— "见性"不是私人对象
+- [海德格尔·本真](../../../../philosophy/schools/existentialism/heidegger.md)（平行）— 本真自我与能见之性的结构相似
+- [维特根斯坦·私人语言](../../../../philosophy/schools/analytic/wittgenstein.md)（平行）— "见性"不是私人对象
 
 ## 进阶阅读
 
@@ -117,4 +117,4 @@ sources:
 
 ## 关联 Skills
 
-- [八还辨见·能所消融](./skills/baihuan-bianjian-naming/SKILL.md)（待建）
+- [八还辨见·能所消融](../cognitive-theory/skills/baihuan-bianjian-naming/SKILL.md)（待建）

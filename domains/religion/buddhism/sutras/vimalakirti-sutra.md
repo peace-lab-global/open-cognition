@@ -477,9 +477,9 @@ graph LR
 
 ### 认知理论交叉引用
 
-- [八识论](../../concepts/cognitive-theory/eight-consciousness.md)：不二法门涉及超越第七末那识的二元执著
-- [中观](../../concepts/cognitive-theory/madhyamaka.md)："不二"与中观的"中道"——超越有无、常断二边
-- [转识成智](../../concepts/cognitive-theory/consciousness-transformation.md)：烦恼即菩提是从烦恼识转为菩提智的操作
-- [心境关系](../../concepts/cognitive-theory/mind-world.md)："心净佛土净"是心境关系的最精炼表达
-- [六根六尘](../../concepts/cognitive-theory/six-constituents.md)："天女散花"涉及色尘与身根的认知执著
-- [起信论](../../concepts/cognitive-theory/qichu-zhengxin.md)："行于非道通达佛道"与起信论"生灭门即真如门"相通
+- [八识论](../concepts/cognitive-theory/eight-consciousness.md)：不二法门涉及超越第七末那识的二元执著
+- [中观](../concepts/cognitive-theory/madhyamaka.md)："不二"与中观的"中道"——超越有无、常断二边
+- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md)：烦恼即菩提是从烦恼识转为菩提智的操作
+- [心境关系](../concepts/cognitive-theory/mind-world.md)："心净佛土净"是心境关系的最精炼表达
+- [六根六尘](../concepts/cognitive-theory/six-constituents.md)："天女散花"涉及色尘与身根的认知执著
+- [起信论](../concepts/cognitive-theory/qichu-zhengxin.md)："行于非道通达佛道"与起信论"生灭门即真如门"相通

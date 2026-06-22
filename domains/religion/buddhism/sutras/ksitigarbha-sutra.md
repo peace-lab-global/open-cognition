@@ -1,17 +1,20 @@
 ---
-title: "Ksitigarbha Sutra"
-chinese_title: "地藏菩萨本愿经"
-sanskrit: "Kṣitigarbha Praṇidhāna Sūtra"
-translator: "实叉难陀"
+id: religion.domains.religion.buddhism.sutras.ksitigarbha-sutra
+title: Ksitigarbha Sutra
+type: text
+domain: religion
+chinese_title: 地藏菩萨本愿经
+sanskrit: Kṣitigarbha Praṇidhāna Sūtra
+translator: 实叉难陀
 translation_year: 695
-dynasty: "唐"
-tradition: "大乘·地藏信仰"
+dynasty: 唐
+tradition: 大乘·地藏信仰
 tags:
-  - 地藏菩萨
-  - 因果报应
-  - 孝道
-  - 临终关怀
-  - 六道轮回
+- 地藏菩萨
+- 因果报应
+- 孝道
+- 临终关怀
+- 六道轮回
 ---
 
 # 地藏菩萨本愿经
@@ -256,7 +259,7 @@ flowchart TD
 - **[阿弥陀经](./amitabha-sutra.md)**：往生净土与地藏法门在临终关怀上的配合
 - **[药师经](./bhaisajyaguru-sutra.md)**：消灾延寿与消业障的现世关怀层面交叉
 - **[法华经](./lotus-sutra.md)**：地藏菩萨在法华会中亦有出现
-- **[楞严经](./shurangama-sutra.md)**：因果业力的深层分析
+- **[楞严经](surangama-sutra.md)**：因果业力的深层分析
 - **[华严经](./avatamsaka-sutra.md)**：菩萨行愿的圆融展开
 - 认知理论关联：[百方便见](../concepts/cognitive-theory/baihuan-bianjian.md)、[心境关系](../concepts/cognitive-theory/mind-world.md)
 

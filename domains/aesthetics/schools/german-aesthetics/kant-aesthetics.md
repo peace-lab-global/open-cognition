@@ -1,4 +1,5 @@
 ---
+id: aesthetics.german-aesthetics.kant
 type: thinker
 name: 康德美学 / Kant's Aesthetics
 school: german-aesthetics
@@ -6,13 +7,14 @@ era: early-modern
 thinker: immanuel-kant
 key_work: Critique of Judgment (判断力批判)
 domain: aesthetics
+tags: [康德, 判断力批判, 无功利, 崇高, 鉴赏判断]
 cross_refs:
-  - [../../philosophy/kant.md](../../philosophy/kant.md)
-  - [hegel-aesthetics.md](hegel-aesthetics.md)
-  - [../../nietzschean-aesthetics/nietzsche-aesthetics.md](../nietzschean-aesthetics/nietzsche-aesthetics.md)
-  - [../../concepts/beauty.md](../../concepts/beauty.md)
-  - [../../concepts/sublime.md](../../concepts/sublime.md)
-  - [../../concepts/aesthetic-experience.md](../../concepts/aesthetic-experience.md)
+  - ../../philosophy/kant.md
+  - hegel-aesthetics.md
+  - ../nietzschean-aesthetics/nietzsche-aesthetics.md
+  - ../../concepts/beauty.md
+  - ../../concepts/sublime.md
+  - ../../concepts/aesthetic-experience.md
 ---
 
 # 康德美学 / Kant's Aesthetics
@@ -93,4 +95,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md) — 基于康德四契机的分析框架
+- [审美判断分析](../../../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md) — 基于康德四契机的分析框架

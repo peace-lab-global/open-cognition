@@ -3,26 +3,37 @@ id: motivation
 title: 动机 · Motivation
 type: concept
 domain: psychology
-school: null
+school: general-psychology
 era: contemporary
-tags: [motivation, intrinsic-extrinsic, self-determination, maslow, flow, intrinsic-motivation, extrinsic-motivation]
-aliases: [动机, 内在动机, 外在动机, Motivation]
+tags:
+- motivation
+- intrinsic-extrinsic
+- self-determination
+- maslow
+- flow
+- intrinsic-motivation
+- extrinsic-motivation
+aliases:
+- 动机
+- 内在动机
+- 外在动机
+- Motivation
 sources:
-  - title: "Motivation and Personality (动机与人格)"
-    author: Abraham Maslow
-    year: 1954
-  - title: "Intrinsic Motivation and Self-Determination in Human Behavior"
-    author: Edward Deci & Richard Ryan
-    year: 1985
-  - title: "Flow: The Psychology of Optimal Experience"
-    author: Mihaly Csikszentmihalyi
-    year: 1990
-  - title: "Beyond Freedom and Dignity"
-    author: B.F. Skinner
-    year: 1971
-  - title: "Man's Search for Meaning"
-    author: Viktor Frankl
-    year: 1946
+- title: Motivation and Personality (动机与人格)
+  author: Abraham Maslow
+  year: 1954
+- title: Intrinsic Motivation and Self-Determination in Human Behavior
+  author: Edward Deci & Richard Ryan
+  year: 1985
+- title: 'Flow: The Psychology of Optimal Experience'
+  author: Mihaly Csikszentmihalyi
+  year: 1990
+- title: Beyond Freedom and Dignity
+  author: B.F. Skinner
+  year: 1971
+- title: Man's Search for Meaning
+  author: Viktor Frankl
+  year: 1946
 ---
 
 # 动机 · Motivation

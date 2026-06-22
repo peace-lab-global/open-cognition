@@ -152,7 +152,7 @@ sources:
 ## 关联 Skills
 
 - **美学 Skills**: [Adorno 阿多诺美学理论](../critical-aesthetics/adorno.md) — 法兰克福学派同源，文化工业批判的理论对话
-- **哲学 Skills**: [Marx 马克思](../../../philosophy/schools/marxism/marx.md) — 商品拜物教、历史唯物主义的理论发展
-- **哲学 Skills**: [Heidegger 海德格尔](../../../philosophy/schools/phenomenology/heidegger.md) — 艺术作品中的"真理"问题，平行探索
+- **哲学 Skills**: [Marx 马克思](../../../sociology/schools/classical/marx.md) — 商品拜物教、历史唯物主义的理论发展
+- **哲学 Skills**: [Heidegger 海德格尔](../../../philosophy/schools/existentialism/heidegger.md) — 艺术作品中的"真理"问题，平行探索
 - **哲学 Skills**: [Foucault 福柯](../../../sociology/schools/structuralism/foucault.md) — 权力/知识的微观分析，平行视角
 - **文学 Skills**: [Baudelaire 波德莱尔](../../../literature/schools/symbolism/baudelaire.md) — 游荡者、现代性诗学的核心来源

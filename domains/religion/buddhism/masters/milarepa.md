@@ -66,7 +66,7 @@ sources: [《密勒日巴道歌》, 《密勒日巴传》]
 
 ## 跨学科关联
 
-- [荣格](../../psychology/schools/psychoanalysis/jung.md) — [平行] 阴影转化
+- [荣格](../../../psychology/schools/psychoanalysis/jung.md) — [平行] 阴影转化
 - [圣方济各] — [平行] 简朴圣人
 - [密乘](../schools/vajrayana.md) — [核心传承]
 

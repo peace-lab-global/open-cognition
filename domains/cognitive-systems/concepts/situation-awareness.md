@@ -82,7 +82,7 @@ sources:
 
 - [拉斯穆森 Rasmussen](../schools/cognitive-engineering/rasmussen.md) `[互补]` 生态界面设计支持 SA
 - [克莱因 Klein](../schools/naturalistic-decision/klein.md) `[互补]` 专家的 RPD 决策依赖准确的 SA
-- [佛教正念](../../../religion/concepts/meditation.md) `[平行]` 正念修炼提升对当下状态的觉察——类似 Level 1 SA 的训练
+- [佛教正念](../../religion/concepts/meditation.md) `[平行]` 正念修炼提升对当下状态的觉察——类似 Level 1 SA 的训练
 - [吉布森 Gibson](../schools/ecological/gibson.md) `[继承]` 直接感知理论支持 SA 的 Level 1
 
 ## 进阶阅读

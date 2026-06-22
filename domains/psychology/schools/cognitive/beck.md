@@ -79,7 +79,7 @@ sources: [《抑郁症》, 《认知疗法与情绪障碍》, 《认知疗法：
 - [皮亚杰 Piaget](./piaget.md) — [借用] 图式概念
 - **斯多葛主义 Stoicism** — [继承] "困扰我们的不是事，而是对事的看法"（爱比克泰德）
 - [认知失调](../../concepts/cognitive-dissonance.md) — [平行] 认知不一致
-- [十二因缘的认知读法 · Pratītyasamutpāda as Cognitive Chain](../../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) — [平行] 思维-情绪-行为的循环
+- [十二因缘的认知读法 · Pratītyasamutpāda as Cognitive Chain](../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) — [平行] 思维-情绪-行为的循环
 
 ## 进阶阅读
 

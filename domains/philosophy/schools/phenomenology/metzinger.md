@@ -78,8 +78,8 @@ key_works: [Being No One, The Ego Tunnel, The Oxford Handbook of the Self]
 
 ## 跨学科关联
 
-- [五蕴的认知读法](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我是透明模型
-- [心物一元 · Mind-World](../../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 四分说与自我模型的多层结构
+- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我是透明模型
+- [心物一元 · Mind-World](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 四分说与自我模型的多层结构
 - [扎哈维 Zahavi](./zahavi.md) `[张力]` 前反思自身意识的实在性 vs 自我模型论
 - [汤普森 Thompson](./thompson.md) `[同源]` 神经现象学方法论
 

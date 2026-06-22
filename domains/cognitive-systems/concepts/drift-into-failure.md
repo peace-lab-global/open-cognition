@@ -81,8 +81,8 @@ Diane Vaughan 将这种现象称为"偏差正常化"（Normalization of Deviance
 - **复杂系统理论**：涌现、非线性、临界点——漂移失败是复杂系统渐进性相变的典型案例
 - **认知心理学**：注意力偏差、正常化偏差——人的认知特性使漂移难以被察觉
 - **组织行为学**：组织惯性、群体思维——组织特性使漂移难以被制止
-- **贝克·风险社会**：[参见](../../../sociology/schools/modernity/beck.md) — 现代风险的隐蔽性、累积性和突发性
-- **福柯·规训**：[参见](../../../sociology/schools/structuralism/foucault.md) — 权力如何通过日常微小的规范化实践塑造行为
+- **贝克·风险社会**：[参见](../../sociology/schools/modernity/beck.md) — 现代风险的隐蔽性、累积性和突发性
+- **福柯·规训**：[参见](../../sociology/schools/structuralism/foucault.md) — 权力如何通过日常微小的规范化实践塑造行为
 
 ## 进阶阅读
 

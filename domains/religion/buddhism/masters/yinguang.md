@@ -70,7 +70,7 @@ sources: [《印光法师文钞》, 《净土决疑论》]
 - [善导](./shandao.md) — [继承] 净土宗祖师传承
 - [净土宗](../schools/pure-land.md) — [发展] 近代净土复兴
 - [杜威 · 教育](../../../philosophy/schools/pragmatism/dewey.md) — [平行] 生活教育 vs 敦伦尽分
-- [罗杰斯 · 真诚一致](../../psychology/schools/humanistic/rogers.md) — [平行] 常惭愧 vs 真诚一致
+- [罗杰斯 · 真诚一致](../../../psychology/schools/humanistic/rogers.md) — [平行] 常惭愧 vs 真诚一致
 
 ## 进阶阅读
 

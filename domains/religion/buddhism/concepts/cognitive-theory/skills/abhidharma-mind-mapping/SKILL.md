@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[阿毗达磨心识论](../abhidharma-mind.md)
+- 来源概念：[阿毗达磨心识论](../../abhidharma-mind.md)
 - 核心原则：
   - 任何一刹那的心 = 一个 citta + 若干 cetasika
   - 心所决定心的质地（善/不善/无记）
@@ -188,7 +188,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[阿毗达磨心识论](../abhidharma-mind.md)
-- 相关 Skill：[五蕴解构](./five-aggregates-deconstruction/SKILL.md)
-- 跨传统：[Lisa Barrett · 情绪构造](../../../../psychology/schools/cognitive/barrett.md)（平行）
-- 跨传统：[Goleman · 情绪智商](../../../../psychology/schools/cognitive/goleman.md)（平行）
+- 概念：[阿毗达磨心识论](../../abhidharma-mind.md)
+- 相关 Skill：[五蕴解构](../five-aggregates-deconstruction/SKILL.md)
+- 跨传统：[Lisa Barrett · 情绪构造](../../../../../../psychology/schools/cognitive/barrett.md)（平行）
+- 跨传统：[Goleman · 情绪智商](../../../../../../psychology/schools/cognitive/goleman.md)（平行）

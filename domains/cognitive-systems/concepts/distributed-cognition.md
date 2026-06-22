@@ -73,10 +73,10 @@ sources:
 
 ## 跨学科关联
 
-- [维果茨基 Vygotsky](../../../psychology/schools/developmental/vygotsky.md) `[继承]` 文化工具中介认知
-- [拉图尔 Latour](../../../sociology/schools/actor-network/latour.md) `[平行]` 行动者网络理论也强调非人行动者
-- [佛教心物一元](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心与物不是二元对立
-- [哈贝马斯 Habermas](../../../sociology/schools/critical/habermas.md) `[互补]` 沟通行动中的集体认知过程
+- [维果茨基 Vygotsky](../../psychology/schools/developmental/vygotsky.md) `[继承]` 文化工具中介认知
+- [拉图尔 Latour](../../sociology/schools/actor-network/latour.md) `[平行]` 行动者网络理论也强调非人行动者
+- [佛教心物一元](../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心与物不是二元对立
+- [哈贝马斯 Habermas](../../sociology/schools/critical/habermas.md) `[互补]` 沟通行动中的集体认知过程
 
 ## 进阶阅读
 

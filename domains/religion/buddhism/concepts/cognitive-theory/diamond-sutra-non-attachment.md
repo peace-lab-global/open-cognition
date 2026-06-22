@@ -1,6 +1,6 @@
 ---
 id: diamond-sutra-non-attachment
-title: 金刚经·无相 · Diamond Sūtra: Non-Attachment
+title: "金刚经·无相 · Diamond Sūtra: Non-Attachment"
 type: concept
 domain: religion
 school: buddhism-prajna
@@ -89,8 +89,8 @@ sources:
 
 ## 跨学科关联
 
-- [康德 · 物自体](../../../../domains/philosophy/schools/german-idealism/kant.md) `[平行]` 无相类似于现象界（可认知）vs 物自体（不可执著）
-- [维特根斯坦 · 语言游戏](../../../../domains/philosophy/schools/analytic/wittgenstein.md) `[平行]` 意义在于使用中，不住于固定的"意义"
+- [康德 · 物自体](../../../../philosophy/schools/german-idealism/kant.md) `[平行]` 无相类似于现象界（可认知）vs 物自体（不可执著）
+- [维特根斯坦 · 语言游戏](../../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 意义在于使用中，不住于固定的"意义"
 
 ## 进阶阅读
 

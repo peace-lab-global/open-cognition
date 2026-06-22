@@ -84,7 +84,7 @@ sources:
 
 - [老子](./laozi.md) `[继承]` 发展老子的相对主义思想
 - [惠施](../../../philosophy/schools/ancient-greek/huishi.md) `[对话]` "濠梁之辩"的逻辑争论
-- [禅宗](../../buddhism/concepts/cognitive-theory/zen.md) `[平行]` 不立文字，直指人心
+- [禅宗](../../buddhism/zen.md) `[平行]` 不立文字，直指人心
 - [后现代主义](../../../sociology/schools/postmodernism/baudrillard.md) `[平行]` 对宏大叙事的怀疑
 
 ## 进阶阅读
@@ -104,6 +104,6 @@ sources:
 
 ## 关联 Skills
 
-- [qiwu-analysis](../../../../skills/philosophy-frameworks/qiwu-analysis/SKILL.md) — 齐物论分析方法
-- [xiaoyao-guidance](../../../../skills/religion-frameworks/xiaoyao-guidance/SKILL.md) — 逍遥游的精神自由引导
-- [uselessness-paradox](../../../../skills/philosophy-frameworks/uselessness-paradox/SKILL.md) — 无用之用的悖论思考
+- [qiwu-analysis](../../../../../skills/philosophy-frameworks/qiwu-analysis/SKILL.md) — 齐物论分析方法
+- [xiaoyao-guidance](../../../../../skills/religion-frameworks/xiaoyao-guidance/SKILL.md) — 逍遥游的精神自由引导
+- [uselessness-paradox](../../../../../skills/philosophy-frameworks/uselessness-paradox/SKILL.md) — 无用之用的悖论思考

@@ -91,7 +91,7 @@ sources: [《大方广圆觉修多罗了义经》（佛陀多罗译）]
 ## 与相关概念的关系
 
 - [如来藏/佛性](../core-concepts/buddha-nature.md) — [同源] 圆觉即如来藏的觉性表达
-- [禅宗](../traditions/buddhism/zen.md) — [继承] 知幻即离与禅宗"直指人心"同脉
+- [禅宗](../../traditions/buddhism/zen.md) — [继承] 知幻即离与禅宗"直指人心"同脉
 - [天台宗](../schools/tiantai.md) — [互补] 三观与天台止观的对话
 - [华严宗](../schools/huayan.md) — [继承] 宗密以华严释圆觉
 - [五蕴](../core-concepts/five-aggregates.md) — [同源] 知幻即离 = 五蕴皆空的顿悟
@@ -123,10 +123,10 @@ sources: [《大方广圆觉修多罗了义经》（佛陀多罗译）]
 ## 跨学科关联
 
 - [胡塞尔 · 现象学还原](../../../philosophy/schools/phenomenology/husserl.md) — [平行] 知幻即离 vs 悬置
-- [皮亚杰 · 认知发展](../../psychology/schools/cognitive/piaget.md) — [平行] 十二菩萨次第 vs 认知发展阶段
+- [皮亚杰 · 认知发展](../../../psychology/schools/cognitive/piaget.md) — [平行] 十二菩萨次第 vs 认知发展阶段
 - [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 圆觉 vs 存在的澄明
-- [罗杰斯 · 来访者中心](../../psychology/schools/humanistic/rogers.md) — [平行] 四病 vs 治疗师的非干预原则
-- [维果茨基 · 脚手架](../../psychology/schools/cognitive/vygotsky.md) — [平行] 十二菩萨次第 vs 最近发展区
+- [罗杰斯 · 来访者中心](../../../psychology/schools/humanistic/rogers.md) — [平行] 四病 vs 治疗师的非干预原则
+- [维果茨基 · 脚手架](../../../psychology/schools/developmental/vygotsky.md) — [平行] 十二菩萨次第 vs 最近发展区
 
 ## 进阶阅读
 

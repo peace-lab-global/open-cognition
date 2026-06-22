@@ -1,10 +1,14 @@
 ---
+id: aesthetics.concepts.sublime
+title: 崇高 · Sublime
 type: concept
-name: 崇高 / Sublime
 domain: aesthetics
+school: general-aesthetics
+era: modern
+tags: [崇高, 伯克, 康德, 敬畏, 无限]
 related_concepts:
-  - [beauty.md](beauty.md)
-  - [aesthetic-experience.md](aesthetic-experience.md)
+  - beauty.md
+  - aesthetic-experience.md
 ---
 
 # 崇高 / Sublime

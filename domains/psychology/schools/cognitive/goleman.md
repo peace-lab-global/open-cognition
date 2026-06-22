@@ -87,8 +87,8 @@ key_works: [Emotional Intelligence, Altered Traits, Focus, The Meditative Mind]
 
 ## 跨学科关联
 
-- [阿毗达磨心识论](../../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 心所分类 = 情绪粒度的古典资源
-- [四念处 · Satipaṭṭhāna](../../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 正念作为情绪调节的基础训练
+- [阿毗达磨心识论](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 心所分类 = 情绪粒度的古典资源
+- [四念处 · Satipaṭṭhāna](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 正念作为情绪调节的基础训练
 - [卢茨 Lutz](./lutz.md) `[同源]` 冥想神经科学研究的合作网络
 - [卡巴金 Kabat-Zinn](./kabat-zinn.md) `[同源]` 正念的大众化传播
 

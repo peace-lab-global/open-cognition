@@ -51,7 +51,7 @@ sources:
 
 - **同源**：[无知之幕 Veil of Ignorance](./veil-of-ignorance.md) — 现代社会契约论的"升级版"
 - **派生**：[罗尔斯正义论](../schools/social-contract/rawls.md) — 20世纪社会契约论的复兴
-- **批判**：[马尔库塞 · 压制性宽容](../../sociology/schools/critical-theory/marcuse.md) — 批判契约论忽视权力结构的真实运作
+- **批判**：[马尔库塞 · 压制性宽容](../schools/critical-theory/marcuse.md) — 批判契约论忽视权力结构的真实运作
 
 ## 代表思想家
 

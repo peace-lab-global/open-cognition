@@ -1,17 +1,20 @@
 ---
-title: "Brahmajala Sutra"
-chinese_title: "梵网经菩萨戒本"
-sanskrit: "Brahmajāla Sūtra"
-translator: "鸠摩罗什"
+id: religion.domains.religion.buddhism.sutras.brahmajala-sutra
+title: Brahmajala Sutra
+type: text
+domain: religion
+chinese_title: 梵网经菩萨戒本
+sanskrit: Brahmajāla Sūtra
+translator: 鸠摩罗什
 translation_year: 406
-dynasty: "后秦"
-tradition: "大乘菩萨戒"
+dynasty: 后秦
+tradition: 大乘菩萨戒
 tags:
-  - 菩萨戒
-  - 十重戒
-  - 四十八轻戒
-  - 佛性
-  - 三聚净戒
+- 菩萨戒
+- 十重戒
+- 四十八轻戒
+- 佛性
+- 三聚净戒
 ---
 
 # 梵网经菩萨戒本
@@ -301,7 +304,7 @@ graph TD
 
 - **[华严经](./avatamsaka-sutra.md)**：卢舍那佛为华严教主，梵网经以卢舍那佛为说法主
 - **[法华经](./lotus-sutra.md)**：佛性思想与法华一乘会通
-- **[楞严经](./shurangama-sutra.md)**：持戒与禅定的关系——楞严经以持戒为修楞严定的基础
+- **[楞严经](surangama-sutra.md)**：持戒与禅定的关系——楞严经以持戒为修楞严定的基础
 - **[地藏经](./ksitigarbha-sutra.md)**：因果持戒与地藏法门的呼应
 - **[无量寿经](./amitayus-sutra.md)**：三福净业中"持戒"为重要内容
 - **[阿弥陀经](./amitabha-sutra.md)**：善男子善女人的"善"以持戒为基础

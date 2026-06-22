@@ -89,7 +89,7 @@ sources: [《大乘百法明门论》（世亲著，玄奘译）]
 ## 跨学科关联
 
 - [康德 · 范畴表](../../../philosophy/schools/german-idealism/kant.md) — [平行] 百法 vs 十二范畴
-- [皮亚杰 · 认知结构](../../psychology/schools/cognitive/piaget.md) — [平行] 心所法 vs 认知图式
+- [皮亚杰 · 认知结构](../../../psychology/schools/cognitive/piaget.md) — [平行] 心所法 vs 认知图式
 
 ## 进阶阅读
 

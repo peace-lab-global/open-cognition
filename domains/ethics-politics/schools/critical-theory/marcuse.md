@@ -77,9 +77,9 @@ sources:
 
 ## 跨学科关联
 
-- 社会学：[福柯 · 规训权力](../../sociology/schools/structuralism/foucault.md) `[同源]` 两者都批判现代社会的微观权力控制
-- 心理学：[弗洛伊德 · 压抑](../../psychology/schools/psychoanalysis/freud.md) `[继承]` 马尔库塞将弗洛伊德与马克思主义结合
-- 哲学：[海德格尔 · 技术批判](../../philosophy/schools/existentialism/heidegger.md) `[继承]` 技术座架（Gestell）的批判传统
+- 社会学：[福柯 · 规训权力](../../../sociology/schools/structuralism/foucault.md) `[同源]` 两者都批判现代社会的微观权力控制
+- 心理学：[弗洛伊德 · 压抑](../../../psychology/schools/psychoanalysis/freud.md) `[继承]` 马尔库塞将弗洛伊德与马克思主义结合
+- 哲学：[海德格尔 · 技术批判](../../../philosophy/schools/existentialism/heidegger.md) `[继承]` 技术座架（Gestell）的批判传统
 
 ## 进阶阅读
 

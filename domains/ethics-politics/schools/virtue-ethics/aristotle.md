@@ -54,7 +54,7 @@ sources:
 
 ## 重要概念
 
-- [德性 Virtue](./concepts/virtue.md) — 灵魂优秀品质的实践活动
+- [德性 Virtue](../../concepts/virtue.md) — 灵魂优秀品质的实践活动
 - 幸福 Eudaimonia — 灵魂按德性完满活动的人生
 - 中庸之道 Mesotes — 德性是两个极端之间的适度
 - 实践智慧 Phronesis — 具体情境中的道德判断力
@@ -79,9 +79,9 @@ sources:
 
 ## 跨学科关联
 
-- 哲学：[孔子 · 仁义礼](../../philosophy/schools/eastern/confucius.md) `[平行]` 中庸与中庸之道的可比性
-- 社会学：[涂尔干 · 集体意识](../../sociology/schools/classical/durkheim.md) `[对立]` 社会团结vs个体德性的张力
-- 心理学：[马斯洛 · 自我实现](../../psychology/schools/humanistic/maslow.md) `[发展]` 自我实现与eudaimonia的关联
+- 哲学：[孔子 · 仁义礼](../../../philosophy/schools/eastern/confucius.md) `[平行]` 中庸与中庸之道的可比性
+- 社会学：[涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) `[对立]` 社会团结vs个体德性的张力
+- 心理学：[马斯洛 · 自我实现](../../../psychology/schools/humanistic/maslow.md) `[发展]` 自我实现与eudaimonia的关联
 
 ## 进阶阅读
 
@@ -98,5 +98,5 @@ sources:
 
 ## 关联 Skills
 
-- [亚里士多德德性检验](../../skills/ethics-politics-frameworks/aristotle-virtue-test/SKILL.md)
+- [亚里士多德德性检验](../../../../skills/ethics-politics-frameworks/aristotle-virtue-test/SKILL.md)
 - [德性伦理评估](../../skills/ethics-politics-frameworks/virtue-ethics-assessment/SKILL.md)

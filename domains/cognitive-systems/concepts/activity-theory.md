@@ -73,7 +73,7 @@ sources:
 
 ## 代表思想家
 
-- [维果茨基 Vygotsky](../../../psychology/schools/developmental/vygotsky.md) — 文化中介概念
+- [维果茨基 Vygotsky](../../psychology/schools/developmental/vygotsky.md) — 文化中介概念
 - [列昂捷夫 Leontiev](../schools/distributed/leontiev.md) — 活动理论创始人
 - [恩格斯托姆 Engeström](../schools/distributed/engestrom.md) — 三角形模型、扩展学习
 
@@ -92,10 +92,10 @@ sources:
 
 ## 跨学科关联
 
-- [维果茨基](../../../psychology/schools/developmental/vygotsky.md) `[继承]` 文化中介是活动理论的基石
-- [马克思 Marx](../../../sociology/schools/classical/marx.md) `[继承]` 实践概念和辩证法
-- [皮亚杰 Piaget](../../../psychology/schools/cognitive/piaget.md) `[平行]` 知识在活动中建构
-- [佛教缘起](../../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 一切现象在关系中成立
+- [维果茨基](../../psychology/schools/developmental/vygotsky.md) `[继承]` 文化中介是活动理论的基石
+- [马克思 Marx](../../sociology/schools/classical/marx.md) `[继承]` 实践概念和辩证法
+- [皮亚杰 Piaget](../../psychology/schools/cognitive/piaget.md) `[平行]` 知识在活动中建构
+- [佛教缘起](../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 一切现象在关系中成立
 
 ## 进阶阅读
 

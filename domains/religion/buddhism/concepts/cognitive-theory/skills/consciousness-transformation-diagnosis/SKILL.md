@@ -155,5 +155,5 @@ tags:
 ## 关联条目
 
 - 概念：[转识成智](../../consciousness-transformation.md)
-- 相关Skill：[八识认知诊断](./eight-consciousness-diagnosis/SKILL.md)
+- 相关Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
 - 跨传统：[马斯洛·需求层次](../../../../../../psychology/schools/humanistic/maslow.md)（平行）— 马斯洛的层次与修道次第的对应

@@ -57,7 +57,7 @@ sources:
 ## 代表思想家
 
 - [罗尔斯](../schools/social-contract/rawls.md) — 无知之幕的提出者与主要论证者
-- [诺齐克 Robert Nozick](../schools/social-contract/nozick.md) — 批评无知之幕导致过度平等，主张资格理论
+- [诺齐克 Robert Nozick](../schools/libertarianism/nozick.md) — 批评无知之幕导致过度平等，主张资格理论
 
 ## 应用场景
 
@@ -73,7 +73,7 @@ sources:
 
 ## 跨学科关联
 
-- 哲学：[康德 · 定言命令](../deontology/kant.md) `[同源]` 两者都试图超越特殊利益，追求普遍有效的道德原则
+- 哲学：[康德 · 定言命令](../schools/deontology/kant.md) `[同源]` 两者都试图超越特殊利益，追求普遍有效的道德原则
 - 心理学：[科尔伯格 · 道德发展](../../psychology/schools/cognitive/kohlberg.md) `[平行]` 道德判断能力与正义原则选择的关系
 
 ## 进阶阅读

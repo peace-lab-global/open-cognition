@@ -122,7 +122,7 @@ Zhuangzi is one of the most globally resonant Chinese philosophers. His reflecti
 - [维特根斯坦 · Ludwig Wittgenstein](../analytic/wittgenstein.md) `[平行]` 对语言局限性的反思：庄子"得意忘言"与维特根斯坦"不可说"
 - [尼采 · Friedrich Nietzsche](../existentialism/nietzsche.md) `[平行]` 重估一切价值与齐物论的相对主义；酒神精神与逍遥游的超越性
 - [禅宗 · Zen Buddhism](../../../religion/traditions/buddhism/zen.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
-- [海德格尔 · Martin Heidegger](./heidegger.md) `[平行]` "让存在"（Gelassenheit）与无为；技术批判与庄子"机心"寓言
+- [海德格尔 · Martin Heidegger](../existentialism/heidegger.md) `[平行]` "让存在"（Gelassenheit）与无为；技术批判与庄子"机心"寓言
 
 ## 进阶阅读 / Further Reading
 

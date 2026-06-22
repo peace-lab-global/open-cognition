@@ -88,8 +88,8 @@ sources:
 
 - [特沃斯基](./tversky.md) `[合作]` 共同提出前景理论和启发式与偏差理论
 - [塞勒](../../../economics/schools/behavioral-economics/thaler.md) `[发展]` 将行为经济学应用于公共政策
-- [西蒙](../../../philosophy/schools/pragmatism/simon.md) `[继承]` 有限理性理论
-- [神经科学](../../../psychology/schools/neuroscience/damasio.md) `[互补]` 双系统理论的神经基础
+- [西蒙](../../../cognitive-systems/schools/cybernetics/simon.md) `[继承]` 有限理性理论
+- [神经科学](../cognitive/damasio.md) `[互补]` 双系统理论的神经基础
 
 ## 进阶阅读
 

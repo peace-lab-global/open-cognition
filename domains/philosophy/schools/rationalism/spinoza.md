@@ -107,7 +107,7 @@ Spinoza was notorious in his lifetime as "the atheist," though God/Nature was hi
 - **形而上学** → 一元论与二元论的对立 → [Descartes（心物二元论）](./descartes.md) [批判]
 - **形而上学** → 单子论与充足理由律 → [Leibniz（多元论对照）](./leibniz.md) [对立]
 - **神经科学** → 情感与身体的关系 → [Damasio（斯宾诺莎时刻）](../../../neuroscience/concepts/somatic-marker.md) [发展]
-- **存在主义** → 权力意志与命运之爱 → [Netzsche（amor fati）](../nietzscheanism/nietzsche.md) [平行]
+- **存在主义** → 权力意志与命运之爱 → [Netzsche（amor fati）](../existentialism/nietzsche.md) [平行]
 - **心灵哲学** → 泛心论的当代复兴 → [当代泛心论](../../concepts/panpsychism.md) [同源]
 
 ## 进阶阅读 / Further Reading

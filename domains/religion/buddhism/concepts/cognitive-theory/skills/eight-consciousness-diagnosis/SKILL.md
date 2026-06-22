@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源经典：[八识体系](../eight-consciousness.md)
+- 来源经典：[八识体系](../../eight-consciousness.md)
 - 核心命题：三界唯心，万法唯识——认知结构决定经验世界
 - 关键命题：
   - 种子起现行，现行薰种子（阿赖耶识的运作）
@@ -164,7 +164,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[八识体系](../eight-consciousness.md)
-- 相关Skill：[七处征心·认知解构](./qichu-zhengxin-deconstruction/SKILL.md)
-- 跨传统：[卡尼曼·双系统](../../../../psychology/schools/cognitive/kahneman.md)（平行）——系统1/2与前五识/意识的对应
-- 跨传统：[弗洛伊德·潜意识](../../../../psychology/schools/psychoanalysis/freud.md)（平行）——阿赖耶识与潜意识的类比
+- 概念：[八识体系](../../eight-consciousness.md)
+- 相关Skill：[七处征心·认知解构](../qichu-zhengxin-deconstruction/SKILL.md)
+- 跨传统：[卡尼曼·双系统](../../../../../../psychology/schools/cognitive/kahneman.md)（平行）——系统1/2与前五识/意识的对应
+- 跨传统：[弗洛伊德·潜意识](../../../../../../psychology/schools/psychoanalysis/freud.md)（平行）——阿赖耶识与潜意识的类比

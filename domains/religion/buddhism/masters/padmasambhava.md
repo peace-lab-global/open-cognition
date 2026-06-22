@@ -64,7 +64,7 @@ sources: [《莲花生大师本生传》, 《西藏度亡经》]
 
 ## 跨学科关联
 
-- [荣格](../../psychology/schools/psychoanalysis/jung.md) — [平行] 原型与中阴
+- [荣格](../../../psychology/schools/psychoanalysis/jung.md) — [平行] 原型与中阴
 - [象征人类学] — [互补] 仪式象征
 - [密乘](../schools/vajrayana.md) — [核心传承]
 

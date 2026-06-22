@@ -8,7 +8,11 @@ era: 当代
 birth: 1950
 tags: [新神秘主义, 认知闭合, 心身问题, 意识难题, 哲学限度]
 aliases: [Colin McGinn, 柯林·麦金]
-sources: [*The Problem of Consciousness*, 1991, *The Mysterious Flame*, 1999]
+sources:
+  - "The Problem of Consciousness"
+  - "1991"
+  - "The Mysterious Flame"
+  - "1999"
 ---
 
 # 麦金 Colin McGinn
@@ -78,7 +82,7 @@ sources: [*The Problem of Consciousness*, 1991, *The Mysterious Flame*, 1999]
 
 ## 跨学科关联
 
-- [公案与话头 · Kōan Mechanics](../../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 心智的固有限制
+- [公案与话头 · Kōan Mechanics](../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 心智的固有限制
 - [内格尔 Nagel](./nagel.md) — [平行] 意识的主观性难题
 - [查默斯 Chalmers](./chalmers.md) — [对话] 难题（hard problem）的不同回应
 - [乔姆斯基 Chomsky](./chomsky.md) — [平行] 人类认知的生物限度

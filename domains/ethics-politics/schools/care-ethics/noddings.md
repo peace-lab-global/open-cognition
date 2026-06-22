@@ -76,9 +76,9 @@ sources:
 
 ## 跨学科关联
 
-- 心理学：[罗杰斯 · 来访者中心](../../psychology/schools/humanistic/rogers.md) `[同源]` 两者都强调关系与接纳的重要性
-- 社会学：[涂尔干 · 职业伦理](../../sociology/schools/functionalism/parsons.md) `[发展]` 职业群体中的关怀伦理实践
-- 哲学：[亚里士多德 · 德性](../../philosophy/schools/ancient-greek/aristotle.md) `[继承/批判]` 继承德性传统但批判其理性主义偏见
+- 心理学：[罗杰斯 · 来访者中心](../../../psychology/schools/humanistic/rogers.md) `[同源]` 两者都强调关系与接纳的重要性
+- 社会学：[涂尔干 · 职业伦理](../../../sociology/schools/functionalism/parsons.md) `[发展]` 职业群体中的关怀伦理实践
+- 哲学：[亚里士多德 · 德性](../../../philosophy/schools/ancient-greek/aristotle.md) `[继承/批判]` 继承德性传统但批判其理性主义偏见
 - 环境伦理：[环境伦理 · Environmental Ethics](../../concepts/environmental-ethics.md) `[互补]` 关怀伦理从人际扩展到人与自然的关系
 
 ## 进阶阅读

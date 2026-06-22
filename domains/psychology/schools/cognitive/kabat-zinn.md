@@ -77,10 +77,10 @@ MBSR 帮助人们从"行动模式"（doing mode，不断解决问题）切换到
 
 ## 跨学科关联
 
-- [止观的认知分工 · Śamatha-Vipaśyanā](../../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[应用]` 止观的世俗化版本
-- [四念处 · Satipaṭṭhāna](../../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 身念处的世俗化
+- [止观的认知分工 · Śamatha-Vipaśyanā](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[应用]` 止观的世俗化版本
+- [四念处 · Satipaṭṭhāna](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` 身念处的世俗化
 - [贝克的认知疗法 Beck](./beck.md) — [结合] MBCT = 正念 + CBT
-- [塞利格曼 Seligman](./seligman.md) — [平行] 积极心理学与正念的交集
+- [塞利格曼 Seligman](../positive/seligman.md) — [平行] 积极心理学与正念的交集
 
 ## 进阶阅读
 

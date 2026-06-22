@@ -3,20 +3,29 @@ id: environmental-ethics
 title: 环境伦理 · Environmental Ethics
 type: concept
 domain: ethics-politics
-school: null
+school: general-ethics-politics
 era: contemporary
-tags: [environmental-ethics, deep-ecology, climate-justice, ecocentrism, sustainability]
-aliases: [环境伦理, 生态伦理, Environmental Ethics, Ecological Ethics]
+tags:
+- environmental-ethics
+- deep-ecology
+- climate-justice
+- ecocentrism
+- sustainability
+aliases:
+- 环境伦理
+- 生态伦理
+- Environmental Ethics
+- Ecological Ethics
 sources:
-  - title: "A Sand County Almanac"
-    author: Aldo Leopold
-    year: 1949
-  - title: "Deep Ecology"
-    author: Arne Næss
-    year: 1973
-  - title: "The Climate Justice Framework"
-    author: Henry Shue
-    year: 1999
+- title: A Sand County Almanac
+  author: Aldo Leopold
+  year: 1949
+- title: Deep Ecology
+  author: Arne Næss
+  year: 1973
+- title: The Climate Justice Framework
+  author: Henry Shue
+  year: 1999
 ---
 
 # 环境伦理 · Environmental Ethics

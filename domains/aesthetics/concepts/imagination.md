@@ -3,12 +3,22 @@ id: imagination
 title: 想象力 · Imagination
 type: concept
 domain: aesthetics
-tags: [creativity, cognition, kant, fantasy, thought-experiment]
-aliases: [想象力, 想象, imagination]
+school: general-aesthetics
+era: universal
+tags:
+- creativity
+- cognition
+- kant
+- fantasy
+- thought-experiment
+aliases:
+- 想象力
+- 想象
+- imagination
 sources:
-  - Kant, *Critique of Pure Reason*, Transcendental Deduction
-  - Coleridge, *Biographia Literaria* (1817)
-  - Mark Johnson, *The Body in the Mind*, 1987
+- Kant, *Critique of Pure Reason*, Transcendental Deduction
+- Coleridge, *Biographia Literaria* (1817)
+- Mark Johnson, *The Body in the Mind*, 1987
 ---
 
 # 想象力 · Imagination
@@ -33,8 +43,8 @@ sources:
 ## 与相关概念的关系
 - [审美经验](./aesthetic-experience.md) `[互补]` 审美需要想象力的参与
 - [创造力](./creativity.md) `[发展]` 想象力是创造力的认知基础
-- [荣格](../../../psychology/schools/psychoanalysis/jung.md) `[平行]` 原型意象与集体想象力
-- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言游戏需要想象力来识别"家族相似"
+- [荣格](../../psychology/schools/psychoanalysis/jung.md) `[平行]` 原型意象与集体想象力
+- [维特根斯坦](../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言游戏需要想象力来识别"家族相似"
 
 ## 常见误读
 - **误读 1**：把想象力等同于"不切实际"——想象力是认知能力，不是逃避
@@ -46,4 +56,4 @@ sources:
 - Mark Johnson, *The Body in the Mind*
 
 ## 关联 Skills
-- [审美判断分析](../../../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../skills/aesthetics-frameworks/aesthetic-judgment-analysis/SKILL.md)

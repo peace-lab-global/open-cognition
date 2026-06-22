@@ -3,26 +3,38 @@ id: race
 title: 种族 · Race
 type: concept
 domain: sociology
-school: null
+school: general-sociology
 era: contemporary
-tags: [race, racism, social-construction, double-consciousness, intersectionality, racial-formation]
-aliases: [种族, 种族主义, 种族性, Race, Racism]
+tags:
+- race
+- racism
+- social-construction
+- double-consciousness
+- intersectionality
+- racial-formation
+aliases:
+- 种族
+- 种族主义
+- 种族性
+- Race
+- Racism
 sources:
-  - title: "The Souls of Black Folk (黑人的灵魂)"
-    author: W.E.B. Du Bois
-    year: 1903
-  - title: "Gender Trouble (性别麻烦)"
-    author: Judith Butler
-    year: 1990
-  - title: "Racial Formation in the United States"
-    author: Michael Omi & Howard Winant
-    year: 1986
-  - title: "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color"
-    author: Kimberlé Crenshaw
-    year: 1991
-  - title: "Race, Class, and Marxism"
-    author: Stuart Hall
-    year: 1980
+- title: The Souls of Black Folk (黑人的灵魂)
+  author: W.E.B. Du Bois
+  year: 1903
+- title: Gender Trouble (性别麻烦)
+  author: Judith Butler
+  year: 1990
+- title: Racial Formation in the United States
+  author: Michael Omi & Howard Winant
+  year: 1986
+- title: 'Mapping the Margins: Intersectionality, Identity Politics, and Violence
+    against Women of Color'
+  author: Kimberlé Crenshaw
+  year: 1991
+- title: Race, Class, and Marxism
+  author: Stuart Hall
+  year: 1980
 ---
 
 # 种族 · Race

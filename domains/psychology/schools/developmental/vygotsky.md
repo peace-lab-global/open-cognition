@@ -155,6 +155,6 @@ sources:
 
 - **心理学 Skills**: [Piaget 皮亚杰认知发展](../cognitive/piaget.md) — 认知发展的"个体建构" vs "社会建构"，互补与对立
 - **心理学 Skills**: [Bowlby 鲍尔比依恋理论](../developmental/bowlby.md) — 早期社会互动对发展的共同关注，互补视角
-- **心理学 Skills**: [Bandura 班杜拉社会学习](../social/bandura.md) — 社会互动中的学习，平行发展
-- **哲学 Skills**: [Confucius 孔子](../../../philosophy/schools/chinese-philosophy/confucius.md) — "学而不思则罔"与"思而不学则殆"——学习与思维的辩证关系，平行视角
+- **心理学 Skills**: [Bandura 班杜拉社会学习](../social-learning/bandura.md) — 社会互动中的学习，平行发展
+- **哲学 Skills**: [Confucius 孔子](../../../philosophy/schools/eastern/confucius.md) — "学而不思则罔"与"思而不学则殆"——学习与思维的辩证关系，平行视角
 - **教育学 Skills**: [Scaffolding 支架教学](../../../education/concepts/scaffolding.md) — ZPD的教育学应用

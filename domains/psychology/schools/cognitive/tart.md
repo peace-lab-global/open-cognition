@@ -82,9 +82,9 @@ key_works: [Altered States of Consciousness, States of Consciousness, Waking Up]
 
 ## 跨学科关联
 
-- [四念处作为元认知](../../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[平行]` 正念训练作为"从共识恍惚中觉醒"的方法
-- [止观的认知分工](../../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` 冥想定境作为独立的意识状态
-- [转识成智](../../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` 意识状态的根本转化
+- [四念处作为元认知](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[平行]` 正念训练作为"从共识恍惚中觉醒"的方法
+- [止观的认知分工](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) `[平行]` 冥想定境作为独立的意识状态
+- [转识成智](../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` 意识状态的根本转化
 - [卡巴金 Kabat-Zinn](./kabat-zinn.md) `[同源]` 冥想的科学化研究
 
 ## 进阶阅读

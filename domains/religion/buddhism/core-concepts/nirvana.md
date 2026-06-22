@@ -72,7 +72,7 @@ sources: [巴利三藏, 《阿含经》, 《中论》]
 - [海德格尔 · 向死而生](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 死亡的意义
 - [斯多葛学派 · 不动心](../../../philosophy/schools/stoicism/) — [平行] 烦恼的灭
 - [印度教 · 解脱](../../traditions/hinduism/karma-samsara.md) — [平行] 轮回的止息
-- [心理学 · 自我实现](../../psychology/schools/humanistic/maslow.md) — [平行] 潜能的圆满
+- [心理学 · 自我实现](../../../psychology/schools/humanistic/maslow.md) — [平行] 潜能的圆满
 
 ## 进阶阅读
 

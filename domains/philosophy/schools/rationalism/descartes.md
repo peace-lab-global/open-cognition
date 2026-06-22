@@ -116,7 +116,7 @@ Descartes is regarded as the "father of modern philosophy." His methodological d
 - [休谟 · David Hume](../empiricism/hume.md) `[批判]` 休谟质疑因果必然性和自我同一性，挑战笛卡尔式的确定性
 - [康德 · Immanuel Kant](../german-idealism/kant.md) `[发展]` 康德将笛卡尔的主体性原则发展为先验哲学
 - [梅洛-庞蒂 · Maurice Merleau-Ponty](../phenomenology/merleau-ponty.md) `[批判]` 以身体现象学消解笛卡尔的身心二元论
-- [唯识学八识说](../../../religion/traditions/buddhism/yogacara.md) `[平行]` 阿赖耶识体系提供了一种不同于二元论的心识分析框架
+- [唯识学八识说](../../../religion/buddhism/schools/yogacara.md) `[平行]` 阿赖耶识体系提供了一种不同于二元论的心识分析框架
 
 ## 进阶阅读 / Further Reading
 

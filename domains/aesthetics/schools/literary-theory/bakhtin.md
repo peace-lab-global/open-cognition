@@ -38,7 +38,7 @@ sources:
 - **杂语(heteroglossia)** — 社会语言的多层性：每个文本都包含多种社会声音
 
 ## 跨学科关联
-- [陀思妥耶夫斯基](./dostoevsky.md) `[发展]` 巴赫金在陀氏作品中发现了复调的完美范例
+- [陀思妥耶夫斯基](../literary-thought/dostoevsky.md) `[发展]` 巴赫金在陀氏作品中发现了复调的完美范例
 - [哈贝马斯](../../../sociology/schools/critical/habermas.md) `[平行]` 交往理性与对话理论
 - [黑格尔](../../../philosophy/schools/german-idealism/hegel.md) `[平行]` 辩证法的对话结构
 - [戈夫曼](../../../sociology/schools/interactionism/goffman.md) `[平行]` 社会互动中的多声部

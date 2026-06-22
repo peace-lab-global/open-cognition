@@ -83,8 +83,8 @@ sources:
 
 ## 跨学科关联
 
-- [海德格尔 · 无蔽](../../../../domains/philosophy/schools/existentialism/heidegger.md) `[平行]` Aletheia（无蔽）与见性的"不可遮蔽性"
-- [梅洛-庞蒂 · 身体现象学](../../../../domains/philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 能见者与被见者的交织
+- [海德格尔 · 无蔽](../../../../philosophy/schools/existentialism/heidegger.md) `[平行]` Aletheia（无蔽）与见性的"不可遮蔽性"
+- [梅洛-庞蒂 · 身体现象学](../../../../philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 能见者与被见者的交织
 
 ## 进阶阅读
 

@@ -3,33 +3,35 @@ id: meditation
 title: 冥想与默观 · Meditation and Contemplation
 type: concept
 domain: religion
+school: general-religion
+era: universal
 tags:
-  - 冥想
-  - 默观
-  - 止观
-  - 正念
-  - 苏非
-  - 瑜伽
+- 冥想
+- 默观
+- 止观
+- 正念
+- 苏非
+- 瑜伽
 aliases:
-  - 禅修
-  - 静观
-  - 打坐
+- 禅修
+- 静观
+- 打坐
 sources:
-  - 《念处经》（Satipaṭṭhāna Sutta）
-  - Thich Nhat Hanh《正念的奇迹》
-  - Siegel《正念大脑》
-  - Csikszentmihalyi《心流》
+- 《念处经》（Satipaṭṭhāna Sutta）
+- Thich Nhat Hanh《正念的奇迹》
+- Siegel《正念大脑》
+- Csikszentmihalyi《心流》
 cross-refs:
-  - id: buddhism
-    relation: 核心传统
-  - id: zen
-    relation: 核心传统
-  - id: thich-nhat-hanh
-    relation: 代表人物
-  - id: siegel
-    relation: 当代研究
-  - id: csikszentmihalyi
-    relation: 相关概念
+- id: buddhism
+  relation: 核心传统
+- id: zen
+  relation: 核心传统
+- id: thich-nhat-hanh
+  relation: 代表人物
+- id: siegel
+  relation: 当代研究
+- id: csikszentmihalyi
+  relation: 相关概念
 ---
 
 # 冥想与默观 · Meditation and Contemplation

@@ -3,28 +3,30 @@ id: time
 title: 时间 · Time
 type: concept
 domain: philosophy
+school: general-philosophy
+era: universal
 tags:
-  - 现象学时间
-  - 生存时间
-  - 钟表时间
-  - 永恒回归
-  - 无常
+- 现象学时间
+- 生存时间
+- 钟表时间
+- 永恒回归
+- 无常
 aliases:
-  - 时间性
+- 时间性
 sources:
-  - Husserl《内时间意识现象学》
-  - Heidegger《存在与时间》
-  - Augustine《忏悔录》
-  - Kant《纯粹理性批判》
+- Husserl《内时间意识现象学》
+- Heidegger《存在与时间》
+- Augustine《忏悔录》
+- Kant《纯粹理性批判》
 cross-refs:
-  - id: heidegger
-    relation: 核心
-  - id: augustine
-    relation: 历史
-  - id: kant
-    relation: 相关
-  - id: buddhism
-    relation: 比较
+- id: heidegger
+  relation: 核心
+- id: augustine
+  relation: 历史
+- id: kant
+  relation: 相关
+- id: buddhism
+  relation: 比较
 ---
 
 # 时间 · Time

@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[量论 · Pramāṇa](../pramana.md)
+- 来源概念：[量论 · Pramāṇa](../../pramana.md)
 - 核心原则：
   - 只有现量（pratyakṣa）与比量（anumāna）是有效认知来源
   - 圣教量（āptavacana）可还原为比量
@@ -178,7 +178,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[量论](../pramana.md)
-- 相关 Skill：[二谛重构](./two-truths-reframing/SKILL.md)
-- 跨传统：[卡尔纳普 · 科学方法论](../../../../philosophy/schools/analytic/carnap.md)（平行）——内部问题与外部问题的区分
-- 跨传统：[波普尔 · 证伪主义](../../../../philosophy/schools/analytic/popper.md)（对照）——比量的可证伪性
+- 概念：[量论](../../pramana.md)
+- 相关 Skill：[二谛重构](../two-truths-reframing/SKILL.md)
+- 跨传统：[卡尔纳普 · 科学方法论](../../../../../../philosophy/schools/analytic/carnap.md)（平行）——内部问题与外部问题的区分
+- 跨传统：[波普尔 · 证伪主义](../../../../../../philosophy/schools/analytic/popper.md)（对照）——比量的可证伪性

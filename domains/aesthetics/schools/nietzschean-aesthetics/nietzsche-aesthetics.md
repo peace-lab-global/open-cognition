@@ -1,4 +1,5 @@
 ---
+id: aesthetics.nietzschean-aesthetics.nietzsche
 type: thinker
 name: 尼采美学 / Nietzsche's Aesthetics
 school: nietzschean-aesthetics
@@ -6,12 +7,13 @@ era: modern
 thinker: friedrich-nietzsche
 key_work: The Birth of Tragedy (悲剧的诞生)
 domain: aesthetics
+tags: [尼采, 酒神日神, 悲剧的诞生, 权力意志, 悲剧美学]
 cross_refs:
-  - [../../philosophy/nietzsche.md](../../philosophy/nietzsche.md)
-  - [schopenhauer.md](../../philosophy/schopenhauer.md)
-  - [../german-aesthetics/kant-aesthetics.md](../german-aesthetics/kant-aesthetics.md)
-  - [../german-aesthetics/hegel-aesthetics.md](../german-aesthetics/hegel-aesthetics.md)
-  - [../../concepts/aesthetic-experience.md](../../concepts/aesthetic-experience.md)
+  - ../../../philosophy/schools/existentialism/nietzsche.md
+  - ../../../philosophy/schools/pessimism/schopenhauer.md
+  - ../german-aesthetics/kant-aesthetics.md
+  - ../german-aesthetics/hegel-aesthetics.md
+  - ../../concepts/aesthetic-experience.md
 ---
 
 # 尼采美学 / Nietzsche's Aesthetics
@@ -94,4 +96,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [悲剧精神评估](../../skills/aesthetics-frameworks/tragic-spirit-assessment/SKILL.md) — 日神与酒神分析框架
+- [悲剧精神评估](../../../../skills/aesthetics-frameworks/tragic-spirit-assessment/SKILL.md) — 日神与酒神分析框架

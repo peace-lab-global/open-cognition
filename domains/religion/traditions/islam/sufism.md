@@ -102,7 +102,7 @@ sources:
 
 - [基督教神秘主义](../christianity/mysticism.md) `[同源]` 否定神学与合一传统
 - [禅宗](../buddhism/zen.md) `[平行]` 师徒-体验路线的跨传统呼应
-- [荣格 · 个体化](../../../psychology/schools/depth/jung.md) `[平行]` Fanāʾ 与"自性"的可比性
+- [荣格 · 个体化](../../../psychology/schools/psychoanalysis/jung.md) `[平行]` Fanāʾ 与"自性"的可比性
 - [尼采 · 超越自我](../../../philosophy/schools/existentialism/nietzsche.md) `[张力]` 自我克服 vs 自我消融
 
 ## 进阶阅读

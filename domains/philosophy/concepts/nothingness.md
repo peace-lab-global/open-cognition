@@ -3,29 +3,31 @@ id: nothingness
 title: 虚无 · Nothingness
 type: concept
 domain: philosophy
+school: general-philosophy
+era: universal
 tags:
-  - 存在与虚无
-  - 空性
-  - 否定
-  - 无
+- 存在与虚无
+- 空性
+- 否定
+- 无
 aliases:
-  - 虚无
-  - 无
-  - 空
+- 虚无
+- 无
+- 空
 sources:
-  - Sartre《存在与虚无》
-  - Heidegger《什么是形而上学？》
-  - Hegel《逻辑学》
-  - 《般若波罗蜜多心经》
+- Sartre《存在与虚无》
+- Heidegger《什么是形而上学？》
+- Hegel《逻辑学》
+- 《般若波罗蜜多心经》
 cross-refs:
-  - id: sartre
-    relation: 核心
-  - id: heidegger
-    relation: 核心
-  - id: buddhism-sunyata
-    relation: 比较
-  - id: hegel
-    relation: 核心
+- id: sartre
+  relation: 核心
+- id: heidegger
+  relation: 核心
+- id: buddhism-sunyata
+  relation: 比较
+- id: hegel
+  relation: 核心
 ---
 
 # 虚无 · Nothingness

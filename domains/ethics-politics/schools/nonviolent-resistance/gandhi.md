@@ -155,7 +155,7 @@ sources:
 
 ## 关联 Skills
 
-- **伦理学 Skills**: [Tolstoy 托尔斯泰](../../../literature/schools/realism/tolstoy.md) — 基督教无政府主义与非暴力的同源思想
+- **伦理学 Skills**: [Tolstoy 托尔斯泰](../../../aesthetics/schools/literary-thought/tolstoy.md) — 基督教无政府主义与非暴力的同源思想
 - **政治学 Skills**: [Thoreau 梭罗](../../../philosophy/schools/american-transcendentalism/thoreau.md) — "公民不服从"论文的理论发展
 - **政治学 Skills**: [King 马丁·路德·金](../civil-rights/king.md) — 甘地非暴力思想在美国民权运动中的继承与发展
 - **宗教 Skills**: [Buddhism 佛教](../../../religion/traditions/buddhism/core-teachings.md) — ahimsa（非暴力）的平行传统

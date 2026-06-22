@@ -98,8 +98,8 @@ sources: [《摩诃止观》（智顗）, 《清净道论》, 《瑜伽师地论
 
 ## 跨学科关联
 
-- [卡巴金 · 正念](../../psychology/schools/humanistic/kabat-zinn.md) — [继承] MBSR 源自止观
-- [契克森米哈赖 · 心流](../../psychology/schools/positive/csikszentmihalyi.md) — [平行] 止 ≈ 心流
+- [卡巴金 · 正念](../../../psychology/schools/cognitive/kabat-zinn.md) — [继承] MBSR 源自止观
+- [契克森米哈赖 · 心流](../../../psychology/schools/positive/csikszentmihalyi.md) — [平行] 止 ≈ 心流
 - [杜威 · 反思性思维](../../../philosophy/schools/pragmatism/dewey.md) — [平行] 观 ≈ 反思
 
 ## 进阶阅读

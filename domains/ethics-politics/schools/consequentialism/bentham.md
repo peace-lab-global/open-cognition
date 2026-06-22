@@ -51,8 +51,8 @@ sources:
 
 ## 重要概念
 
-- [功利 Pleasure](./concepts/pleasure.md) — 苦与乐作为道德终极标准
-- [最大幸福原则 Greatest Happiness Principle](./concepts/pleasure.md) — 最大多数人的最大幸福
+- [功利 Pleasure](../../concepts/pleasure.md) — 苦与乐作为道德终极标准
+- [最大幸福原则 Greatest Happiness Principle](../../concepts/pleasure.md) — 最大多数人的最大幸福
 
 ## 思想坐标
 
@@ -75,8 +75,8 @@ sources:
 ## 跨学科关联
 
 - 哲学：[密尔 · 更高功利](../consequentialism/mill.md) `[发展]` 边沁的功利原则，提出快乐的质量区别
-- 心理学：[弗洛伊德 · 快乐原则](../../psychology/schools/psychoanalysis/freud.md) `[平行]` 精神分析的快乐原则与功利原则的可比性
-- 社会学：[涂尔干 · 功利主义](../../sociology/schools/functionalism/parsons.md) `[批判]` 涂尔干批评功利主义忽视社会团结
+- 心理学：[弗洛伊德 · 快乐原则](../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 精神分析的快乐原则与功利原则的可比性
+- 社会学：[涂尔干 · 功利主义](../../../sociology/schools/functionalism/parsons.md) `[批判]` 涂尔干批评功利主义忽视社会团结
 
 ## 进阶阅读
 
@@ -92,4 +92,4 @@ sources:
 
 ## 关联 Skills
 
-- [功利计算分析](../../skills/ethics-politics-frameworks/pleasure-calculus/SKILL.md)
+- [功利计算分析](../../../../skills/ethics-politics-frameworks/pleasure-calculus/SKILL.md)

@@ -158,8 +158,8 @@ sources:
 
 ## 关联 Skills
 
-- **社会学 Skills**: [Weber 韦伯](./weber.md) — 理性化与文明化的平行分析 [平行]
-- **社会学 Skills**: [Foucault 福柯](../post-structuralism/foucault.md) — 规训与文明化的内化机制 [平行]
-- **社会学 Skills**: [Bourdieu 布迪厄](../post-structuralism/bourdieu.md) — 形构与场域的社会关系分析 [互补]
-- **社会学 Skills**: [Durkheim 涂尔干](./durkheim.md) — 社会规范内化的发展性继承 [发展]
+- **社会学 Skills**: [Weber 韦伯](../classical/weber.md) — 理性化与文明化的平行分析 [平行]
+- **社会学 Skills**: [Foucault 福柯](../structuralism/foucault.md) — 规训与文明化的内化机制 [平行]
+- **社会学 Skills**: [Bourdieu 布迪厄](../structuralism/bourdieu.md) — 形构与场域的社会关系分析 [互补]
+- **社会学 Skills**: [Durkheim 涂尔干](../classical/durkheim.md) — 社会规范内化的发展性继承 [发展]
 - **社会学 Skills**: [Giddens 吉登斯](../structuration/giddens.md) — 超越结构与能动二元对立的平行尝试 [平行]

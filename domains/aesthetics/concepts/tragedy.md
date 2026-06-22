@@ -1,3 +1,13 @@
+---
+id: aesthetics.concepts.tragedy
+title: 悲剧 · Tragedy
+type: concept
+domain: aesthetics
+school: classical-aesthetics
+era: ancient
+tags: [希腊悲剧, 净化, 卡塔西斯, 悲剧英雄, 悲剧的诞生]
+---
+
 # 悲剧 / Tragedy
 
 > **领域**: 美学 (Aesthetics)

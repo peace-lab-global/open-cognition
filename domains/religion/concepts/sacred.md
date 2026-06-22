@@ -106,7 +106,7 @@ sources:
 - [基督教神秘主义](../traditions/christianity/mysticism.md) `[平行]` 否定神学是对神圣"完全他者性"的最严表述
 - [禅宗](../traditions/buddhism/zen.md) `[张力]` 平常心是道：消解圣俗对立
 - [马克思 · 商品拜物教](../../sociology/schools/classical/marx.md) `[批判]` 神圣性的意识形态分析
-- [荣格 · 原型](../../psychology/schools/depth/jung.md) `[平行]` 神圣经验的心理学解读
+- [荣格 · 原型](../../psychology/schools/psychoanalysis/jung.md) `[平行]` 神圣经验的心理学解读
 
 ## 进阶阅读
 

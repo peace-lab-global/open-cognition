@@ -87,7 +87,7 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德](./freud.md) `[对立]` 精神分析与个体心理学的分歧
+- [弗洛伊德](../psychoanalysis/freud.md) `[对立]` 精神分析与个体心理学的分歧
 - [马斯洛](../../../psychology/schools/humanistic/maslow.md) `[发展]` 人本主义心理学
 - [教育学](../../../education/schools/adlerian/adler.md) `[应用]` 阿德勒式教育
 - [管理学](../../../management/schools/adlerian/adler.md) `[应用]` 阿德勒式管理

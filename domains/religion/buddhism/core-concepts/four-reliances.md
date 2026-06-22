@@ -82,7 +82,7 @@ sources: [《大般涅槃经》, 《维摩诘经》, 《大智度论》]
 ## 跨学科关联
 
 - [波普尔 · 证伪主义](../../../philosophy/schools/analytic/popper.md) — [平行] 依法不依人 vs 可证伪性
-- [伽达默尔 · 诠释学](../../../philosophy/schools/phenomenology/gadamer.md) — [平行] 依义不依语 vs 诠释学
+- [伽达默尔 · 诠释学](../../../philosophy/schools/hermeneutics/gadamer.md) — [平行] 依义不依语 vs 诠释学
 
 ## 进阶阅读
 

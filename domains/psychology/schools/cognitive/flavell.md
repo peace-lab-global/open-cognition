@@ -8,7 +8,10 @@ era: 当代
 birth: 1928
 tags: [元认知, 发展心理学, 认知监控, 儿童认知, 认知发展]
 aliases: [John Flavell, 约翰·弗拉维尔]
-sources: ["Metacognition and cognitive monitoring" (1979), *Cognitive Development*, 1993]
+sources:
+  - "\"Metacognition and cognitive monitoring\" (1979)"
+  - "Cognitive Development"
+  - "1993"
 ---
 
 # 弗拉维尔 John Flavell
@@ -83,9 +86,9 @@ sources: ["Metacognition and cognitive monitoring" (1979), *Cognitive Developmen
 
 ## 跨学科关联
 
-- [四念处 · Satipaṭṭhāna](../../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[平行]` 元认知监控
+- [四念处 · Satipaṭṭhāna](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[平行]` 元认知监控
 - [皮亚杰 Piaget](./piaget.md) — [继承] 认知发展的元认知维度
-- [维果茨基 Vygotsky](./vygotsky.md) — [对话] 自我调节语言与元认知
+- [维果茨基 Vygotsky](../developmental/vygotsky.md) — [对话] 自我调节语言与元认知
 - [Nelson & Narens](./nelson.md) — [合作] 元认知监控与控制的双过程模型
 
 ## 进阶阅读

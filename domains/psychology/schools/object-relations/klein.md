@@ -142,9 +142,9 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德 Freud](./freud.md) `[发展]` 克莱因扩展了弗洛伊德的驱力理论
+- [弗洛伊德 Freud](../psychoanalysis/freud.md) `[发展]` 克莱因扩展了弗洛伊德的驱力理论
 - [温尼科特 Winnicott](./winnicott.md) `[发展]` 温尼科特发展了克莱因的早期客体关系理论
-- [鲍尔比 Bowlby](../attachment-theory/bowlby.md) `[平行]` 两者都关注早期母婴关系
+- [鲍尔比 Bowlby](../developmental/bowlby.md) `[平行]` 两者都关注早期母婴关系
 - [荣格 Jung](../analytical-psychology/jung.md) `[平行]` 两者都关注早期心理发展
 
 ## 进阶阅读
@@ -166,7 +166,7 @@ sources:
 
 ## 关联 Skills
 
-- **心理学 Skills**: [Freud 弗洛伊德](./freud.md) — 驱力理论的客体关系发展 [发展]
+- **心理学 Skills**: [Freud 弗洛伊德](../psychoanalysis/freud.md) — 驱力理论的客体关系发展 [发展]
 - **心理学 Skills**: [Winnicott 温尼科特](./winnicott.md) — 早期客体关系的过渡空间发展 [发展]
-- **心理学 Skills**: [Bowlby 鲍尔比](../attachment-theory/bowlby.md) — 早期母婴关系的平行关注 [平行]
+- **心理学 Skills**: [Bowlby 鲍尔比](../developmental/bowlby.md) — 早期母婴关系的平行关注 [平行]
 - **心理学 Skills**: [Jung 荣格](../analytical-psychology/jung.md) — 早期心理发展的平行探索 [平行]

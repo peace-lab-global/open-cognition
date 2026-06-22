@@ -57,7 +57,7 @@ sources:
 ## 重要概念
 
 - [道](../../concepts/dao.md) — 宇宙本体和运行规律
-- [无为](../../concepts/wuwei.md) — 顺应自然，不妄为
+- [无为](../wuwei.md) — 顺应自然，不妄为
 - [自然](../../concepts/ziran.md) — 自然而然的状态
 - [德](../../concepts/de.md) — 道的体现和运用
 
@@ -82,9 +82,9 @@ sources:
 
 ## 跨学科关联
 
-- [孔子](../../../philosophy/schools/eastern/confucius.md) `[对立]` 儒道之争，仁义与自然的张力
-- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[继承]` 庄子发展老子的相对主义思想
-- [无为](../../concepts/wuwei.md) `[同源]` 道教宗教化吸收老子哲学
+- [孔子](../../../../philosophy/schools/eastern/confucius.md) `[对立]` 儒道之争，仁义与自然的张力
+- [庄子](../../../../philosophy/schools/eastern/zhuangzi.md) `[继承]` 庄子发展老子的相对主义思想
+- [无为](../wuwei.md) `[同源]` 道教宗教化吸收老子哲学
 - [自然法](../../../ethics-politics/concepts/natural-law.md) `[平行]` 都强调顺应自然规律
 
 ## 进阶阅读
@@ -104,6 +104,6 @@ sources:
 
 ## 关联 Skills
 
-- [wuwei-guidance](../../../../skills/religion-frameworks/wuwei-guidance/SKILL.md) — 无为而治的实践指导
-- [reverse-thinking](../../../../skills/philosophy-frameworks/reverse-thinking/SKILL.md) — 反向思维方法
-- [softness-overcomes-hardness](../../../../skills/religion-frameworks/softness-overcomes-hardness/SKILL.md) — 柔弱胜刚强的策略
+- [wuwei-guidance](../../../../../skills/religion-frameworks/wuwei-guidance/SKILL.md) — 无为而治的实践指导
+- [reverse-thinking](../../../../../skills/philosophy-frameworks/reverse-thinking/SKILL.md) — 反向思维方法
+- [softness-overcomes-hardness](../../../../../skills/religion-frameworks/softness-overcomes-hardness/SKILL.md) — 柔弱胜刚强的策略

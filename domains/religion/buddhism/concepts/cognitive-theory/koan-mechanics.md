@@ -144,10 +144,10 @@ sources:
 
 ## 跨学科关联
 
-- [维特根斯坦 · 语言界限](../../../../domains/philosophy/schools/analytic/wittgenstein.md) `[平行]` "不可说"的呈现
-- [Kounios & Beeman · 顿悟神经](../../../../domains/psychology/schools/cognitive/beeman.md) `[平行]` 顿悟时刻的γ波
-- [德里达 · 解构](../../../../domains/philosophy/schools/post-structuralism/derrida.md) `[平行]` 概念框架的现场解构
-- [McGinn · 认知闭合](../../../../domains/philosophy/schools/analytic/mcginn.md) `[平行]` 心智的固有限制
+- [维特根斯坦 · 语言界限](../../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` "不可说"的呈现
+- [Kounios & Beeman · 顿悟神经](../../../../psychology/schools/cognitive/beeman.md) `[平行]` 顿悟时刻的γ波
+- [德里达 · 解构](../../../../philosophy/schools/post-structuralism/derrida.md) `[平行]` 概念框架的现场解构
+- [McGinn · 认知闭合](../../../../philosophy/schools/analytic/mcginn.md) `[平行]` 心智的固有限制
 
 ## 进阶阅读
 

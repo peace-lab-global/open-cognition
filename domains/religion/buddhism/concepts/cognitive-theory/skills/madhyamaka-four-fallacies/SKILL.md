@@ -146,5 +146,5 @@ tags:
 ## 关联条目
 
 - 概念：[中观·空](../../madhyamaka.md)
-- 相关Skill：[金刚经无住心法](./diamond-sutra-no-dwelling/SKILL.md)（同源）— 无住是中道的方法
+- 相关Skill：[金刚经无住心法](../diamond-sutra-no-dwelling/SKILL.md)（同源）— 无住是中道的方法
 - 跨传统：[认知行为疗法·认知扭曲识别](../../../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的"认知扭曲识别"与四句破的功能类似

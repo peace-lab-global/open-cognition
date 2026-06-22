@@ -64,7 +64,7 @@ sources: [巴利三藏, 《阿含经》, 《俱舍论》]
 ## 跨学科关联
 
 - [休谟 · 束论](../../../philosophy/schools/empiricism/hume.md) — [平行] 自我是束
-- [弗洛伊德 · 结构](../../psychology/schools/psychoanalysis/freud.md) — [平行] 本我/自我/超我
+- [弗洛伊德 · 结构](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 本我/自我/超我
 - [认知科学 · 模块化] — [平行] 心智模块化
 - [丹尼特 · 多重草稿] — [平行] 自我是叙事
 

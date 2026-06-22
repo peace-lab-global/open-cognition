@@ -81,10 +81,10 @@ sources:
 
 ## 跨学科关联
 
-- [梅洛-庞蒂](../../../philosophy/schools/phenomenology/merleau-ponty.md) `[同源]` 身体现象学是 affordance 的哲学基础
+- [梅洛-庞蒂](../../philosophy/schools/phenomenology/merleau-ponty.md) `[同源]` 身体现象学是 affordance 的哲学基础
 - [吉布森](../schools/ecological/gibson.md) `[原创]` 生态心理学
-- [海德格尔](../../../philosophy/schools/existentialism/heidegger.md) `[平行]` "上手状态"（ready-to-hand）与 affordance 的直接性
-- [佛教六根六尘](../../../religion/buddhism/concepts/cognitive-theory/six-constituents.md) `[平行]` 感知是根-尘交互而非被动接收
+- [海德格尔](../../philosophy/schools/existentialism/heidegger.md) `[平行]` "上手状态"（ready-to-hand）与 affordance 的直接性
+- [佛教六根六尘](../../religion/buddhism/concepts/cognitive-theory/six-constituents.md) `[平行]` 感知是根-尘交互而非被动接收
 
 ## 进阶阅读
 

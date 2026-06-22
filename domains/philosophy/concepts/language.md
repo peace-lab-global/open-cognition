@@ -3,29 +3,31 @@ id: language
 title: 语言 · Language
 type: concept
 domain: philosophy
+school: general-philosophy
+era: universal
 tags:
-  - 语言哲学
-  - 语言学转向
-  - 日常语言
-  - 私人语言
-  - 结构主义
-  - 言语行为
+- 语言哲学
+- 语言学转向
+- 日常语言
+- 私人语言
+- 结构主义
+- 言语行为
 aliases:
-  - 语言问题
+- 语言问题
 sources:
-  - Wittgenstein《哲学研究》
-  - Saussure《普通语言学教程》
-  - Austin《如何以言行事》
-  - Derrida《论文字学》
+- Wittgenstein《哲学研究》
+- Saussure《普通语言学教程》
+- Austin《如何以言行事》
+- Derrida《论文字学》
 cross-refs:
-  - id: wittgenstein
-    relation: 核心
-  - id: derrida
-    relation: 核心
-  - id: saussure
-    relation: 核心
-  - id: habermas
-    relation: 相关
+- id: wittgenstein
+  relation: 核心
+- id: derrida
+  relation: 核心
+- id: saussure
+  relation: 核心
+- id: habermas
+  relation: 相关
 ---
 
 # 语言 · Language

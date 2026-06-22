@@ -82,8 +82,8 @@ sources: [《自由能原理》系列论文, "A free energy principle for the br
 
 ## 跨学科关联
 
-- [三性 · Trisvabhāva](../../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 自上而下的先验 ≈ 遍计所执，prediction error ≈ 依他起的真实反馈
-- [十二因缘 · 认知链](../../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) `[平行]` 预测 → 感知 → 预测误差 → 更新 ≈ 缘起链
+- [三性 · Trisvabhāva](../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 自上而下的先验 ≈ 遍计所执，prediction error ≈ 依他起的真实反馈
+- [十二因缘 · 认知链](../../../religion/buddhism/concepts/cognitive-theory/dependent-origination-cognitive.md) `[平行]` 预测 → 感知 → 预测误差 → 更新 ≈ 缘起链
 - [皮亚杰 Piaget](./piaget.md) — [平行] 同化与顺应 ≈ 预测与预测误差更新
 - [赫尔姆霍茨 Helmholtz](../../../philosophy/schools/empiricism/helmholtz.md) — [继承] 无意识推断的先驱
 

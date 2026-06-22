@@ -146,6 +146,6 @@ Shinto is Japan's indigenous religious tradition centered on belief in kami (div
 ## 关联 Skills
 
 - **宗教 Skills**: [Zen Buddhism 禅宗](../buddhism/zen.md) — 禅与神道的美学-灵性交汇
-- **哲学 Skills**: [Taoism 无为](../../../philosophy/schools/taoism/wuwei.md) — 道教"自然"与神道"musubi"的哲学对话
+- **哲学 Skills**: [Taoism 无为](../taoism/wuwei.md) — 道教"自然"与神道"musubi"的哲学对话
 - **宗教 Skills**: [Sacred 神圣概念](../../concepts/sacred.md) — 神道的"kami"与宗教现象学的神圣理论
 - **身体 Skills**: [Body 身体概念](../../../philosophy/concepts/body.md) — 清净仪式与身体现象学

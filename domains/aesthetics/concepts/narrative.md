@@ -3,12 +3,22 @@ id: narrative
 title: 叙事 · Narrative
 type: concept
 domain: aesthetics
-tags: [storytelling, identity, cognition, therapy, meaning]
-aliases: [叙事, 叙事性, storytelling]
+school: general-aesthetics
+era: universal
+tags:
+- storytelling
+- identity
+- cognition
+- therapy
+- meaning
+aliases:
+- 叙事
+- 叙事性
+- storytelling
 sources:
-  - Paul Ricoeur, *Time and Narrative*, 3 vols. (1983-85)
-  - Jerome Bruner, *Actual Minds, Possible Worlds*, 1986
-  - Michael White & David Epston, *Narrative Means to Therapeutic Ends*, 1990
+- Paul Ricoeur, *Time and Narrative*, 3 vols. (1983-85)
+- Jerome Bruner, *Actual Minds, Possible Worlds*, 1986
+- Michael White & David Epston, *Narrative Means to Therapeutic Ends*, 1990
 ---
 
 # 叙事 · Narrative
@@ -31,9 +41,9 @@ sources:
 - "改写故事"——帮助来访者发现被问题叙事遮蔽的替代故事
 
 ## 与相关概念的关系
-- [创伤](../../../psychology/concepts/trauma.md) `[互补]` 创伤打断叙事连续性，治疗是重建叙事
+- [创伤](../../psychology/concepts/trauma.md) `[互补]` 创伤打断叙事连续性，治疗是重建叙事
 - [巴特](../schools/literary-theory/barthes.md) `[互补]` 作者之死与读者创造叙事意义
-- [弗兰克尔](../../../psychology/schools/existential-psychology/frankl.md) `[平行]` 意义疗法与人生叙事
+- [弗兰克尔](../../psychology/schools/existential-psychology/frankl.md) `[平行]` 意义疗法与人生叙事
 - [弗莱](../schools/literary-theory/frye.md) `[发展]` 叙事的原型结构
 
 ## 常见误读
@@ -46,4 +56,4 @@ sources:
 - White & Epston, *Narrative Means to Therapeutic Ends*
 
 ## 关联 Skills
-- [荣格原型识别](../../../../skills/psychology-frameworks/jungian-archetype-identification/SKILL.md)
+- [荣格原型识别](../../../skills/psychology-frameworks/jungian-archetype-identification/SKILL.md)

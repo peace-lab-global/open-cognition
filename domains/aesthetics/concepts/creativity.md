@@ -3,12 +3,24 @@ id: creativity
 title: 创造力 · Creativity
 type: concept
 domain: aesthetics
-tags: [creative-process, flow, divergent-thinking, genius, innovation]
-aliases: [创造力, 创造性, 创新, creativity]
+school: general-aesthetics
+era: universal
+tags:
+- creative-process
+- flow
+- divergent-thinking
+- genius
+- innovation
+aliases:
+- 创造力
+- 创造性
+- 创新
+- creativity
 sources:
-  - Graham Wallas, *The Art of Thought* (1926)
-  - Mihaly Csikszentmihalyi, *Creativity: Flow and the Psychology of Discovery and Invention* (1996)
-  - Arthur Koestler, *The Act of Creation* (1964)
+- Graham Wallas, *The Art of Thought* (1926)
+- Mihaly Csikszentmihalyi, *Creativity: Flow and the Psychology of Discovery and Invention*
+    (1996)
+- Arthur Koestler, *The Act of Creation* (1964)
 ---
 
 # 创造力 · Creativity
@@ -37,10 +49,10 @@ sources:
 - 很多创造性突破发生在流状态中
 
 ## 与相关概念的关系
-- [心流](../../../psychology/concepts/flow.md) `[同源]` 心流是创造力的最佳状态
+- [心流](../../psychology/concepts/flow.md) `[同源]` 心流是创造力的最佳状态
 - [想象力](./imagination.md) `[基础]` 想象力是创造力的认知前提
-- [荣格](../../../psychology/schools/psychoanalysis/jung.md) `[互补]` 原型意象与创造性灵感
-- [马斯洛](../../../psychology/schools/humanistic/maslow.md) `[发展]` 自我实现与创造力
+- [荣格](../../psychology/schools/psychoanalysis/jung.md) `[互补]` 原型意象与创造性灵感
+- [马斯洛](../../psychology/schools/humanistic/maslow.md) `[发展]` 自我实现与创造力
 
 ## 常见误读
 - **误读 1**：把创造力等同于"天赋"——Csikszentmihalyi 证明创造力是系统性的
@@ -53,4 +65,4 @@ sources:
 - Koestler, *The Act of Creation*
 
 ## 关联 Skills
-- [心流条件评估](../../../../skills/psychology-frameworks/flow-conditions-assessment/SKILL.md)
+- [心流条件评估](../../../skills/psychology-frameworks/flow-conditions-assessment/SKILL.md)

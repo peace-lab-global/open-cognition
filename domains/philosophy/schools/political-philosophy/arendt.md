@@ -105,10 +105,10 @@ Arendt represents a unique "phenomenological-republican" path in 20th-century po
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **现象学** → 政治存在主义 → [Heidegger（存在论基础）](./heidegger.md) [批判]
-- **权力分析** → 权力、规训与公共领域 → [Foucault（权力微观物理学）](../post-structuralism/foucault.md) [互补]
-- **交往理论** → 公共领域与交往理性 → [Habermas（公共领域理论）](./habermas.md) [发展]
-- **政治理论** → 劳动与异化问题 → [Marx（劳动理论）](../marxism/marx.md) [批判]
+- **现象学** → 政治存在主义 → [Heidegger（存在论基础）](../existentialism/heidegger.md) [批判]
+- **权力分析** → 权力、规训与公共领域 → [Foucault（权力微观物理学）](../../../sociology/schools/structuralism/foucault.md) [互补]
+- **交往理论** → 公共领域与交往理性 → [Habermas（公共领域理论）](../../../sociology/schools/critical/habermas.md) [发展]
+- **政治理论** → 劳动与异化问题 → [Marx（劳动理论）](../../../sociology/schools/classical/marx.md) [批判]
 - **教育哲学** → 思考与判断力的培养 → [教育中的批判思维](../../../education/concepts/critical-thinking.md) [应用]
 
 ## 进阶阅读 / Further Reading

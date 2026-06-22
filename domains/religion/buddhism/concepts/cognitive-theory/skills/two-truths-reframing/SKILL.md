@@ -4,7 +4,7 @@ description: 以佛教二谛（世俗谛/胜义谛）为框架，帮助当事人
 domain: religion
 school: buddhism-madhyamaka
 linked_concepts:
-  - ../two-truths.md
+  - ../../two-truths.md
 tags:
   - 二谛
   - 中道
@@ -36,7 +36,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[二谛 · Satyadvaya](../two-truths.md)
+- 来源概念：[二谛 · Satyadvaya](../../two-truths.md)
 - 核心原则：
   - **世俗谛**（saṃvṛti-satya）：名言共许的相对真实
   - **胜义谛**（paramārtha-satya）：究竟分析下的实相（空性）
@@ -160,7 +160,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[二谛](../two-truths.md)
-- 相关 Skill：[量论三量验证](./pramana-validation/SKILL.md)
-- 跨传统：[康德 · 现象与物自身](../../../../philosophy/schools/german-idealism/kant.md)（对照）
-- 跨传统：[内格尔 · 无何之见](../../../../philosophy/schools/analytic/nagel.md)（平行）——客观/主观视角的双层协调
+- 概念：[二谛](../../two-truths.md)
+- 相关 Skill：[量论三量验证](../pramana-validation/SKILL.md)
+- 跨传统：[康德 · 现象与物自身](../../../../../../philosophy/schools/german-idealism/kant.md)（对照）
+- 跨传统：[内格尔 · 无何之见](../../../../../../philosophy/schools/analytic/nagel.md)（平行）——客观/主观视角的双层协调

@@ -8,7 +8,11 @@ era: 当代
 birth: 1964
 tags: [顿悟, 创造性思维, 右脑, 远距离联想, 认知神经科学]
 aliases: [Mark Beeman, 马克·比曼]
-sources: ["The Aha! Moment" (Kounios & Beeman, 2009), *The Eureka Factor*, 2015]
+sources:
+  - "\"The Aha! Moment\" (Kounios & Beeman"
+  - "2009)"
+  - "The Eureka Factor"
+  - "2015"
 ---
 
 # 比曼 Mark Beeman
@@ -86,7 +90,7 @@ sources: ["The Aha! Moment" (Kounios & Beeman, 2009), *The Eureka Factor*, 2015]
 
 ## 跨学科关联
 
-- [公案与话头 · Kōan Mechanics](../../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 顿悟时刻的 γ 波
+- [公案与话头 · Kōan Mechanics](../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 顿悟时刻的 γ 波
 - [Wallas · 创造性四阶段](./wallas.md) — [继承] 准备→酝酿→顿悟→验证
 - [Guilford · 发散思维](./guilford.md) — [平行] 发散思维与远距离联想
 

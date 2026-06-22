@@ -3,20 +3,31 @@ id: trauma
 title: 创伤 · Trauma
 type: concept
 domain: psychology
-school: null
+school: general-psychology
 era: contemporary
-tags: [trauma, PTSD, complex-PTSD, ACEs, recovery, body-mind, resilience]
-aliases: [创伤, 心理创伤, 心灵创伤, Psychological Trauma]
+tags:
+- trauma
+- PTSD
+- complex-PTSD
+- ACEs
+- recovery
+- body-mind
+- resilience
+aliases:
+- 创伤
+- 心理创伤
+- 心灵创伤
+- Psychological Trauma
 sources:
-  - title: "The Body Keeps the Score"
-    author: Bessel van der Kolk
-    year: 2014
-  - title: "Trauma and Recovery"
-    author: Judith Herman
-    year: 1992
-  - title: "The Adverse Childhood Experiences Study"
-    author: Felitti et al.
-    year: 1998
+- title: The Body Keeps the Score
+  author: Bessel van der Kolk
+  year: 2014
+- title: Trauma and Recovery
+  author: Judith Herman
+  year: 1992
+- title: The Adverse Childhood Experiences Study
+  author: Felitti et al.
+  year: 1998
 ---
 
 # 创伤 · Trauma

@@ -1,6 +1,6 @@
 ---
 id: diamond-sutra-non-attachment-legacy
-title: 金刚经·无相 · Diamond Sutra: Non-Attachment to Form
+title: "金刚经·无相 · Diamond Sutra: Non-Attachment to Form"
 status: legacy
 canonical: ./cognitive-theory/diamond-sutra-non-attachment.md
 type: concept
@@ -30,7 +30,7 @@ sources:
 > ⚠️ **Legacy entry — 本文件为早期草稿**
 >
 > 规范版本（含无住心法 Skill、跨学科关联与完整理论脉络）请见：
-> 👉 **[cognitive-theory/diamond-sutra-non-attachment.md](./cognitive-theory/diamond-sutra-non-attachment.md)**
+> 👉 **[cognitive-theory/diamond-sutra-non-attachment.md](../cognitive-theory/diamond-sutra-non-attachment.md)**
 >
 > 本文件保留仅作历史追溯，不再更新。新引用请指向 canonical 版本。
 
@@ -103,7 +103,7 @@ sources:
 
 ## 与相关概念的关系
 
-- **同源**：[大乘空性](./sunyata.md) — 无相是空性在《金刚经》的呈现方式
+- **同源**：[大乘空性](../../core-concepts/sunyata.md) — 无相是空性在《金刚经》的呈现方式
 - **同源**：[七处征心](./qichu-zhengxin.md) — 两者都破"心有所住"
 - **同源**：[慧能·无住](./huineng-wuzhu.md) — 慧能以"无住"为三无之一，直接继承《金刚经》
 - **互补**：[道元·只管打坐](../dogen-shikantaza.md) — 道元的"只管打坐"是《金刚经》"无住"的修行方法
@@ -124,7 +124,7 @@ sources:
 
 - [慧能·无住](../huineng-wuzhu.md)（同源）—"无住"是慧能三无之一，直接来自《金刚经》
 - [道元·只管打坐](../dogen-shikantaza.md)（同源）—"不修之修"是《金刚经》无住的另一种说法
-- [维特根斯坦·语言界限](../../philosophy/schools/analytic/wittgenstein.md)（平行）—"凡所有相皆是虚妄"与"语言的界限就是世界的界限"
+- [维特根斯坦·语言界限](../../../../philosophy/schools/analytic/wittgenstein.md)（平行）—"凡所有相皆是虚妄"与"语言的界限就是世界的界限"
 
 ## 进阶阅读
 
@@ -134,4 +134,4 @@ sources:
 
 ## 关联 Skills
 
-- [金刚经·无住心法](./skills/diamond-sutra-no-dwelling/SKILL.md)（待建）
+- [金刚经·无住心法](../cognitive-theory/skills/diamond-sutra-no-dwelling/SKILL.md)（待建）

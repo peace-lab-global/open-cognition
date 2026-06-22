@@ -52,7 +52,7 @@ sources:
 
 ## 重要概念
 
-- [德性 Virtue](./concepts/virtue.md) — 在历史共同体中通过实践养成的品格优秀
+- [德性 Virtue](../../concepts/virtue.md) — 在历史共同体中通过实践养成的品格优秀
 - 叙事自我 Narrative Self — 自我是通过其人生故事的叙事来定义的
 - 共同体实践 Community Practice — 德性养成的社会土壤
 - 启蒙的失败 Failure of the Enlightenment — 理性无法为道德奠基
@@ -77,9 +77,9 @@ sources:
 
 ## 跨学科关联
 
-- 哲学：[尼采 · 系谱学](../../philosophy/schools/existentialism/nietzsche.md) `[批判]` 尼采是启蒙道德的诊断者，麦金太尔是诊断兼治疗者
-- 社会学：[布迪厄 · 惯习](../../sociology/schools/structuralism/bourdieu.md) `[同源]` 两者都关注习惯养成的社会结构
-- 心理学：[罗杰斯 · 来访者中心](../../psychology/schools/humanistic/rogers.md) `[互补]` 人本主义心理学与共同体德性的对话
+- 哲学：[尼采 · 系谱学](../../../philosophy/schools/existentialism/nietzsche.md) `[批判]` 尼采是启蒙道德的诊断者，麦金太尔是诊断兼治疗者
+- 社会学：[布迪厄 · 惯习](../../../sociology/schools/structuralism/bourdieu.md) `[同源]` 两者都关注习惯养成的社会结构
+- 心理学：[罗杰斯 · 来访者中心](../../../psychology/schools/humanistic/rogers.md) `[互补]` 人本主义心理学与共同体德性的对话
 - 伦理学：[泰勒 · Communitarianism](../communitarianism/taylor.md) `[同源]` 社群主义双璧——都批判自由主义原子论自我，但泰勒侧重认同与承认
 
 ## 进阶阅读

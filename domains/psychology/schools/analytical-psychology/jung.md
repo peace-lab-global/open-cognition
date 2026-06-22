@@ -87,7 +87,7 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德](./freud.md) `[发展]` 从精神分析到分析心理学
+- [弗洛伊德](../psychoanalysis/freud.md) `[发展]` 从精神分析到分析心理学
 - [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[启发]` 权力意志、酒神精神
 - [东方宗教](../../../religion/traditions/buddhism/zen.md) `[对话]` 禅宗与个体化
 - [文学批评](../../../literature/criticism/archetypal.md) `[应用]` 原型批评

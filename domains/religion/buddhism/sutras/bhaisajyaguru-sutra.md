@@ -1,17 +1,20 @@
 ---
-title: "Bhaisajyaguru Sutra"
-chinese_title: "药师琉璃光如来本愿功德经"
-sanskrit: "Bhaiṣajyaguru Vaiḍūrya Prabhāsa Pūrvapraṇidhāna Sūtra"
-translator: "玄奘"
+id: religion.domains.religion.buddhism.sutras.bhaisajyaguru-sutra
+title: Bhaisajyaguru Sutra
+type: text
+domain: religion
+chinese_title: 药师琉璃光如来本愿功德经
+sanskrit: Bhaiṣajyaguru Vaiḍūrya Prabhāsa Pūrvapraṇidhāna Sūtra
+translator: 玄奘
 translation_year: 650
-dynasty: "唐"
-tradition: "大乘·药师信仰"
+dynasty: 唐
+tradition: 大乘·药师信仰
 tags:
-  - 药师佛
-  - 消灾延寿
-  - 十二大愿
-  - 东方净土
-  - 现世利益
+- 药师佛
+- 消灾延寿
+- 十二大愿
+- 东方净土
+- 现世利益
 ---
 
 # 药师琉璃光如来本愿功德经
@@ -269,7 +272,7 @@ graph TD
 - **[阿弥陀经](./amitabha-sutra.md)**：药师消灾延寿与弥陀临终往生的互补
 - **[法华经](./lotus-sutra.md)**：药王菩萨本事品与药师佛的药王形象关联
 - **[华严经](./avatamsaka-sutra.md)**：净琉璃世界在华严世界海中的位置
-- **[楞严经](./shurangama-sutra.md)**：药师咒与楞严咒的持咒法门关联
+- **[楞严经](surangama-sutra.md)**：药师咒与楞严咒的持咒法门关联
 - **[地藏经](./ksitigarbha-sutra.md)**：消业障、灭罪障的共同主题
 - 认知理论关联：[心境关系](../concepts/cognitive-theory/mind-world.md)、[转识成智](../concepts/cognitive-theory/consciousness-transformation.md)
 

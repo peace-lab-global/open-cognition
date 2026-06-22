@@ -96,7 +96,7 @@ sources: [《中论》, 《百论》, 《十二门论》, 《中观论疏》]
 ## 跨学科关联
 
 - [龙树](../masters/nagarjuna.md) — [继承] 中观正见
-- [德里达 · 解构](../../../philosophy/schools/poststructuralism/derrida.md) — [平行] 破邪显正 vs 解构
+- [德里达 · 解构](../../../philosophy/schools/post-structuralism/derrida.md) — [平行] 破邪显正 vs 解构
 - [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] 言教二谛 vs 语言游戏
 
 ## 进阶阅读

@@ -100,8 +100,8 @@ sources:
 ## 跨学科关联
 
 - [恩典与救赎](../christianity/grace-redemption.md) — [张力] 他力救赎的平行对话
-- [马斯洛 · 自我超越](../../psychology/schools/humanistic/maslow.md) — [平行] 超越自我的信仰维度
-- [涂尔干 · 宗教仪式](../../sociology/schools/classical/durkheim.md) — [互补] 念佛作为集体仪式
+- [马斯洛 · 自我超越](../../../psychology/schools/humanistic/maslow.md) — [平行] 超越自我的信仰维度
+- [涂尔干 · 宗教仪式](../../../sociology/schools/classical/durkheim.md) — [互补] 念佛作为集体仪式
 - [伊斯兰五功](../islam/five-pillars.md) — [平行] 称名与 dhikr 的仪式结构
 
 ## 进阶阅读
@@ -119,4 +119,4 @@ sources:
 
 ## 关联 Skills
 
-- [圣典诠释学](../../../skills/religion-frameworks/scriptural-hermeneutics/SKILL.md) — 三经文本解读
+- [圣典诠释学](../../../../skills/religion-frameworks/scriptural-hermeneutics/SKILL.md) — 三经文本解读

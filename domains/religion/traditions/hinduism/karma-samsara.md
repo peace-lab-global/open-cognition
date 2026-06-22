@@ -103,7 +103,7 @@ sources:
 
 - [四圣谛与八正道](../buddhism/four-noble-truths.md) `[发展]` 佛教对业说的去我化重构
 - [尼采 · 永恒轮回](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 西方哲学中独立产生的循环时间观
-- [斯金纳 · 操作性条件作用](../../../psychology/schools/behavioral/skinner.md) `[平行]` 行为塑造的心理学版本
+- [斯金纳 · 操作性条件作用](../../../psychology/schools/behaviorism/skinner.md) `[平行]` 行为塑造的心理学版本
 - [涂尔干 · 道德分工](../../../sociology/schools/classical/durkheim.md) `[互补]` 业与种姓秩序的社会学考察
 
 ## 进阶阅读

@@ -3,20 +3,28 @@ id: human-rights
 title: 人权 · Human Rights
 type: concept
 domain: ethics-politics
-school: null
+school: general-ethics-politics
 era: contemporary
-tags: [human-rights, universalism, dignity, justice, international-law]
-aliases: [人权, Human Rights, 人类权利]
+tags:
+- human-rights
+- universalism
+- dignity
+- justice
+- international-law
+aliases:
+- 人权
+- Human Rights
+- 人类权利
 sources:
-  - title: "Universal Declaration of Human Rights"
-    year: 1948
-    url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
-  - title: "A Theory of Justice"
-    author: John Rawls
-    year: 1971
-  - title: "The Law of Peoples"
-    author: John Rawls
-    year: 1999
+- title: Universal Declaration of Human Rights
+  year: 1948
+  url: https://www.un.org/en/about-us/universal-declaration-of-human-rights
+- title: A Theory of Justice
+  author: John Rawls
+  year: 1971
+- title: The Law of Peoples
+  author: John Rawls
+  year: 1999
 ---
 
 # 人权 · Human Rights

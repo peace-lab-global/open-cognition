@@ -51,8 +51,8 @@ sources:
 
 ## 重要概念
 
-- [自然权利 Natural Rights](./concepts/natural-rights.md) — 生命、自由、财产的不可剥夺权利
-- [社会契约 Social Contract](./concepts/social-contract.md) — 基于同意的政府委托理论
+- [自然权利 Natural Rights](../../concepts/natural-rights.md) — 生命、自由、财产的不可剥夺权利
+- [社会契约 Social Contract](../../concepts/social-contract.md) — 基于同意的政府委托理论
 - 劳动价值论 Labor Theory of Value — 财产来自劳动mixing
 - 分权理论 Separation of Powers — 立法权与执行权的分离
 
@@ -76,9 +76,9 @@ sources:
 
 ## 跨学科关联
 
-- 哲学：[卢梭 · 公意](../../religion/traditions/republicanism/rousseau.md) `[批判]` 洛克批评卢梭式直接民主可能导致多数暴政
-- 社会学：[韦伯 · 合理性](../../sociology/schools/classical/weber.md) `[发展]` 现代理性法律制度与洛克式有限政府的联系
-- 心理学：[皮亚杰 · 道德发展](../../psychology/schools/cognitive/piaget.md) `[平行]` 道德发展的他律到自律阶段
+- 哲学：[卢梭 · 公意](../../../philosophy/schools/enlightenment/rousseau.md) `[批判]` 洛克批评卢梭式直接民主可能导致多数暴政
+- 社会学：[韦伯 · 合理性](../../../sociology/schools/classical/weber.md) `[发展]` 现代理性法律制度与洛克式有限政府的联系
+- 心理学：[皮亚杰 · 道德发展](../../../psychology/schools/cognitive/piaget.md) `[平行]` 道德发展的他律到自律阶段
 
 ## 进阶阅读
 
@@ -94,5 +94,5 @@ sources:
 
 ## 关联 Skills
 
-- [自然权利分析](../../skills/ethics-politics-frameworks/natural-rights-analysis/SKILL.md)
-- [社会契约分析](../../skills/ethics-politics-frameworks/social-contract-analysis/SKILL.md)
+- [自然权利分析](../../../../skills/ethics-politics-frameworks/natural-rights-analysis/SKILL.md)
+- [社会契约分析](../../../../skills/philosophy-frameworks/social-contract-analysis/SKILL.md)

@@ -82,8 +82,8 @@ Popper 对马克思和黑格尔的核心批评：声称发现"历史的必然规
 
 ## 跨学科关联
 
-- [量论 · Pramāṇa](../../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照]` 有效认知的判准与证伪原则
-- [二谛 · Satyadvaya](../../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 方法论划分与科学/非科学的划界
+- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照]` 有效认知的判准与证伪原则
+- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行]` 方法论划分与科学/非科学的划界
 - [卡尔纳普 Carnap](./carnap.md) `[张力]` 证伪 vs 可确认性
 - [维特根斯坦 Wittgenstein](./wittgenstein.md) `[对照]` 语言批判 vs 方法论批判
 

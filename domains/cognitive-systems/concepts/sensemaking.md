@@ -77,10 +77,10 @@ sources:
 
 ## 跨学科关联
 
-- [海德格尔 Heidegger](../../../philosophy/schools/existentialism/heidegger.md) `[平行]` "在世存有"与 enacted environment
-- [伽达默尔 Gadamer](../../../philosophy/schools/hermeneutics/gadamer.md) `[平行]` 诠释学循环与意义建构的持续性
+- [海德格尔 Heidegger](../../philosophy/schools/existentialism/heidegger.md) `[平行]` "在世存有"与 enacted environment
+- [伽达默尔 Gadamer](../../philosophy/schools/hermeneutics/gadamer.md) `[平行]` 诠释学循环与意义建构的持续性
 - [瓦雷拉 Varela](../schools/ecological/varela.md) `[平行]` 生成认知与 enacted environment
-- [佛教缘起](../../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 意义在关系中建构，非独立存在
+- [佛教缘起](../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md) `[平行]` 意义在关系中建构，非独立存在
 
 ## 进阶阅读
 

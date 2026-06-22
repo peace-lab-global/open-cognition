@@ -6,7 +6,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-v0.9%20buddhist--academy--deep-blue.svg)](#)
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#domains)
-[![Entries](https://img.shields.io/badge/entries-178%20thinkers%20%7C%20144%20concepts%20%7C%20111%20skills-brightgreen.svg)](#content-overview)
+[![Entries](https://img.shields.io/badge/entries-210%20thinkers%20%7C%20213%20concepts%20%7C%20126%20skills-brightgreen.svg)](#content-overview)
 
 **Chinese version**: see [README.md](./README.md)
 
@@ -28,22 +28,22 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 ```
 9 domains x N thinker/concept entries + Skills + thematic deep-dives
-= 178 thinkers | 144 concepts | 111 Skills | 550+ structured .md files
+= 210 thinkers | 213 concepts | 126 Skills | 650+ structured .md files
 ```
 
 ### Domains
 
 | Domain | Thinkers | Concepts | Skills | Entry point |
 |---|:---:|:---:|:---:|---|
-| Philosophy | 28 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
-| Religion | 32 | 76 | 39 | [domains/religion](./domains/religion/README.md) |
+| Philosophy | 42 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
+| Religion | 34 | 127 | 39 | [domains/religion](./domains/religion/README.md) |
 | Sociology | 18 | 7 | 15 | [domains/sociology](./domains/sociology/README.md) |
-| Psychology | 28 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
+| Psychology | 42 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
 | Ethics & Politics | 15 | 11 | 10 | [domains/ethics-politics](./domains/ethics-politics/README.md) |
-| Aesthetics | 23 | 7 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
-| Literature | 5 | -- | 5 | [domains/literature](./domains/literature/README.md) |
-| Arts | 3 | -- | 3 | [domains/arts](./domains/arts/README.md) |
-| Cognitive Systems Engineering | 26 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
+| Aesthetics | 23 | 9 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
+| Literature | 5 | 8 | 5 | [domains/literature](./domains/literature/README.md) |
+| Arts | 3 | 8 | 3 | [domains/arts](./domains/arts/README.md) |
+| Cognitive Systems Engineering | 28 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
 
 Full index: [INDEX.md](./INDEX.md) | Tag taxonomy: [TAGS.md](./TAGS.md)
 

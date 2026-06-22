@@ -64,7 +64,7 @@ sources: [巴利三藏, 《大智度论》]
 
 ## 跨学科关联
 
-- [涂尔干 · 集体意识](../../sociology/schools/classical/durkheim.md) — [互补] 僧团作为集体
+- [涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) — [互补] 僧团作为集体
 - [基督教三位一体](../../traditions/christianity/grace-redemption.md) — [张力] 三一论对照
 - [社会心理学] — [互补] 共同体认同
 

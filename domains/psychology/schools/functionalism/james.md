@@ -9,7 +9,11 @@ birth: 1842
 death: 1910
 tags: [意识流, 功能主义, 实用主义, 自我, 宗教经验]
 aliases: [William James, 威廉·詹姆士]
-sources: [*The Principles of Psychology*, 1890, *The Varieties of Religious Experience*, 1902]
+sources:
+  - "The Principles of Psychology"
+  - "1890"
+  - "The Varieties of Religious Experience"
+  - "1902"
 ---
 
 # 威廉·詹姆斯 William James
@@ -86,7 +90,7 @@ sources: [*The Principles of Psychology*, 1890, *The Varieties of Religious Expe
 
 ## 跨学科关联
 
-- [阿毗达磨心识论 · Abhidharma Mind](../../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 有分 + 心路 ≈ 意识流结构
+- [阿毗达磨心识论 · Abhidharma Mind](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` 有分 + 心路 ≈ 意识流结构
 - [皮尔士 Peirce](../../../philosophy/schools/pragmatism/peirce.md) — [合作] 实用主义的共同奠基
 - [杜威 Dewey](../../../philosophy/schools/pragmatism/dewey.md) — [继承] 功能主义与实用主义
 - [弗洛伊德 Freud](../psychoanalysis/freud.md) — [张力] 意识流 vs 潜意识

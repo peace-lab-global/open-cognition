@@ -142,10 +142,10 @@ sources:
 
 ## 跨学科关联
 
-- [杜威 Dewey](./dewey.md) `[同源]` 实用主义哲学的共同创始人
-- [休谟 Hume](../../philosophy/schools/empiricism/hume.md) `[平行]` 经验主义传统的继承
+- [杜威 Dewey](../../../philosophy/schools/pragmatism/dewey.md) `[同源]` 实用主义哲学的共同创始人
+- [休谟 Hume](../../../philosophy/schools/empiricism/hume.md) `[平行]` 经验主义传统的继承
 - [詹姆斯 James](./james.md) `[发展]` 詹姆斯的心理学影响了后来的功能主义发展
-- [罗杰斯 Rogers](./rogers.md) `[发展]` 人本主义心理学继承了詹姆斯对个人经验的重视
+- [罗杰斯 Rogers](../humanistic/rogers.md) `[发展]` 人本主义心理学继承了詹姆斯对个人经验的重视
 
 ## 进阶阅读
 
@@ -165,9 +165,9 @@ sources:
 
 ## 关联 Skills
 
-- **心理学 Skills**: [Dewey 杜威](./dewey.md) — 实用主义哲学的同源发展 [同源]
-- **哲学 Skills**: [Hume 休谟](../../philosophy/schools/empiricism/hume.md) — 经验主义传统的平行继承 [平行]
-- **心理学 Skills**: [Rogers 罗杰斯](./rogers.md) — 人本主义对个人经验的重视 [发展]
-- **心理学 Skills**: [Damasio 达马西奥](./damasio.md) — 具身情绪理论的当代发展 [发展]
+- **心理学 Skills**: [Dewey 杜威](../../../philosophy/schools/pragmatism/dewey.md) — 实用主义哲学的同源发展 [同源]
+- **哲学 Skills**: [Hume 休谟](../../../philosophy/schools/empiricism/hume.md) — 经验主义传统的平行继承 [平行]
+- **心理学 Skills**: [Rogers 罗杰斯](../humanistic/rogers.md) — 人本主义对个人经验的重视 [发展]
+- **心理学 Skills**: [Damasio 达马西奥](../cognitive/damasio.md) — 具身情绪理论的当代发展 [发展]
 - **心理学 Skills**: [Freud 弗洛伊德](../psychoanalysis/freud.md) — 同时代开创者，潜意识与意识流对心理生活的不同切入 [平行]
 - **心理学 Skills**: [Rogers 罗杰斯](../humanistic/rogers.md) — 人本主义心理学继承詹姆斯对个人经验的重视 [发展]

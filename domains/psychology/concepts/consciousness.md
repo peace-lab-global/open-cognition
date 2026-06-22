@@ -3,29 +3,41 @@ id: consciousness
 title: 意识 · Consciousness
 type: concept
 domain: psychology
-school: null
+school: general-psychology
 era: contemporary
-tags: [consciousness, hard-problem, phenomenal-consciousness, access-consciousness, altered-states, eight-consciousness, awareness]
-aliases: [意识, 觉知, 意识状态, Consciousness, Awareness]
+tags:
+- consciousness
+- hard-problem
+- phenomenal-consciousness
+- access-consciousness
+- altered-states
+- eight-consciousness
+- awareness
+aliases:
+- 意识
+- 觉知
+- 意识状态
+- Consciousness
+- Awareness
 sources:
-  - title: "The Conscious Mind (有意识的心灵)"
-    author: David Chalmers
-    year: 1996
-  - title: "The Feeling of What Happens (感受发生的一切)"
-    author: Antonio Damasio
-    year: 1999
-  - title: "The Principles of Psychology (心理学原理)"
-    author: William James
-    year: 1890
-  - title: "Ideas Pertaining to a Pure Phenomenology (纯粹现象学观念)"
-    author: Edmund Husserl
-    year: 1913
-  - title: "Altered States of Consciousness"
-    author: Charles Tart
-    year: 1969
-  - title: "A Buddhist Doctrine of Consciousness"
-    author: Dan Lusthaus
-    year: 2002
+- title: The Conscious Mind (有意识的心灵)
+  author: David Chalmers
+  year: 1996
+- title: The Feeling of What Happens (感受发生的一切)
+  author: Antonio Damasio
+  year: 1999
+- title: The Principles of Psychology (心理学原理)
+  author: William James
+  year: 1890
+- title: Ideas Pertaining to a Pure Phenomenology (纯粹现象学观念)
+  author: Edmund Husserl
+  year: 1913
+- title: Altered States of Consciousness
+  author: Charles Tart
+  year: 1969
+- title: A Buddhist Doctrine of Consciousness
+  author: Dan Lusthaus
+  year: 2002
 ---
 
 # 意识 · Consciousness

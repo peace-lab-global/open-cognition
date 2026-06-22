@@ -3,26 +3,36 @@ id: class
 title: 阶级 · Class
 type: concept
 domain: sociology
-school: null
+school: general-sociology
 era: contemporary
-tags: [class, capitalism, stratification, class-consciousness, cultural-capital, social-class]
-aliases: [阶级, 社会阶级, 阶层, Class]
+tags:
+- class
+- capitalism
+- stratification
+- class-consciousness
+- cultural-capital
+- social-class
+aliases:
+- 阶级
+- 社会阶级
+- 阶层
+- Class
 sources:
-  - title: "The Communist Manifesto (共产党宣言)"
-    author: Karl Marx & Friedrich Engels
-    year: 1848
-  - title: "Economy and Society (经济与社会)"
-    author: Max Weber
-    year: 1922
-  - title: "Distinction: A Social Critique of the Judgement of Taste (区分)"
-    author: Pierre Bourdieu
-    year: 1979
-  - title: "Class, Status, Party"
-    author: Max Weber
-    year: 1922
-  - title: "Black Reconstruction in America"
-    author: W.E.B. Du Bois
-    year: 1935
+- title: The Communist Manifesto (共产党宣言)
+  author: Karl Marx & Friedrich Engels
+  year: 1848
+- title: Economy and Society (经济与社会)
+  author: Max Weber
+  year: 1922
+- title: 'Distinction: A Social Critique of the Judgement of Taste (区分)'
+  author: Pierre Bourdieu
+  year: 1979
+- title: Class, Status, Party
+  author: Max Weber
+  year: 1922
+- title: Black Reconstruction in America
+  author: W.E.B. Du Bois
+  year: 1935
 ---
 
 # 阶级 · Class

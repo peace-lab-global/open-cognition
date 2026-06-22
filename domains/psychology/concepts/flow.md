@@ -4,8 +4,18 @@ title: 心流 Flow
 type: concept
 domain: psychology
 school: positive
-tags: [心流, 最优体验, 沉浸, 注意力, 内在动机]
-aliases: [Flow, 最优体验, 化境, Zone]
+era: universal
+tags:
+- 心流
+- 最优体验
+- 沉浸
+- 注意力
+- 内在动机
+aliases:
+- Flow
+- 最优体验
+- 化境
+- Zone
 ---
 
 # 心流 Flow

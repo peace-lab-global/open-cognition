@@ -79,8 +79,8 @@ key_works: [Being You: A New Science of Consciousness]
 ## 跨学科关联
 
 - [弗里斯顿 Friston](./friston.md) `[继承]` 将自由能原理应用于意识科学
-- [八识体系 · Eight Consciousnesses](../../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 身体自我 ≈ 前五识 + 阿赖耶识的身体图式功能
-- [五蕴的认知读法](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 意识作为建构过程 ≈ 五蕴的动态组合
+- [八识体系 · Eight Consciousnesses](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 身体自我 ≈ 前五识 + 阿赖耶识的身体图式功能
+- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 意识作为建构过程 ≈ 五蕴的动态组合
 - [霍维 Hohwy](../../../philosophy/schools/analytic/hohwy.md) `[同源]` 预测加工哲学的不同面向
 
 ## 进阶阅读

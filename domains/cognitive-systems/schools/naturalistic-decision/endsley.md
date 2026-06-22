@@ -10,9 +10,9 @@ death: null
 tags: [situation-awareness, SAGAT, perception-comprehension-projection, SA-design, dynamic-decision-making]
 aliases: [米卡·恩兹利, Mica Endsley]
 sources:
-  - "Toward a Theory of Situation Awareness in Dynamic Systems" (1995)
-  - Situation Awareness Analysis and Measurement (2000, with Garland)
-  - Designing for Situation Awareness (2003/2012)
+  - "Toward a Theory of Situation Awareness in Dynamic Systems (1995)"
+  - "Situation Awareness Analysis and Measurement (2000, with Garland)"
+  - "Designing for Situation Awareness (2003/2012)"
 ---
 
 # 米卡·恩兹利 Mica Endsley
@@ -95,9 +95,9 @@ sources:
 - **[平行] Bainbridge 的过程控制认知**：Bainbridge 研究的操纵员监控与 Endsley 的 SA 模型有直接对应关系
 - **[互补] Parasuraman 的自动化层级**：Parasuraman 的自动化分类与 Endsley 的 SA 模型共同构成人机系统分析框架
 - **[发展] Stanton 的分布式 SA**：Stanton 将 Endsley 的个人 SA 模型扩展到团队和分布式系统层面
-- **[参考] 脱环问题**：[参见](../../../concepts/out-of-the-loop.md) — SA 框架是理解脱环问题的理论基础
-- **[参考] 认知负荷**：[参见](../../../concepts/cognitive-load.md) — SA 维持需要认知资源，认知过载会直接损害 SA
-- **[原创] 态势感知概念**：[参见](../../../concepts/situation-awareness.md) — 该概念文件以 Endsley 模型为核心
+- **[参考] 脱环问题**：[参见](../../concepts/out-of-the-loop.md) — SA 框架是理解脱环问题的理论基础
+- **[参考] 认知负荷**：[参见](../../concepts/cognitive-load.md) — SA 维持需要认知资源，认知过载会直接损害 SA
+- **[原创] 态势感知概念**：[参见](../../concepts/situation-awareness.md) — 该概念文件以 Endsley 模型为核心
 
 ## 进阶阅读
 

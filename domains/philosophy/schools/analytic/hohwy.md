@@ -77,9 +77,9 @@ key_works: [The Predictive Mind, Consciousness and the Cerebral Cortex]
 ## 跨学科关联
 
 - [弗里斯顿 Friston](../../../psychology/schools/cognitive/friston.md) `[继承]` 将自由能原理翻译为哲学语言
-- [三性 · Trisvabhāva](../../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 自上而下的先验预测 ≈ 遍计所执
+- [三性 · Trisvabhāva](../../../religion/buddhism/concepts/cognitive-theory/three-natures.md) `[平行]` 自上而下的先验预测 ≈ 遍计所执
 - [克拉克 Clark](./clark.md) `[对照]` 霍维强调大脑隔绝性，克拉克强调延展认知
-- [五蕴的认知读法](../../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 感知作为主动建构 ≈ 五蕴的构造性
+- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 感知作为主动建构 ≈ 五蕴的构造性
 
 ## 进阶阅读
 

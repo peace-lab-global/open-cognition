@@ -1,10 +1,10 @@
 {
   "version": "v0.6",
-  "generated": "2026-06-15",
+  "generated": "2026-06-22",
   "stats": {
-    "entries": 431,
+    "entries": 430,
     "skills": 126,
-    "total": 557,
+    "total": 556,
     "domains": [
       "aesthetics",
       "arts",
@@ -20,10 +20,18 @@
   "entries": [
     {
       "path": "domains/aesthetics/concepts/aesthetic-experience.md",
-      "id": "aesthetic-experience",
-      "title": "aesthetic-experience",
+      "id": "aesthetics.concepts.aesthetic-experience",
+      "title": "审美经验 · Aesthetic Experience",
       "type": "concept",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "general-aesthetics",
+      "tags": [
+        "审美经验",
+        "无功利",
+        "康德美学",
+        "心流",
+        "沉浸"
+      ]
     },
     {
       "path": "domains/aesthetics/concepts/artworld.md",
@@ -41,10 +49,18 @@
     },
     {
       "path": "domains/aesthetics/concepts/beauty.md",
-      "id": "beauty",
-      "title": "beauty",
+      "id": "aesthetics.concepts.beauty",
+      "title": "美 · Beauty",
       "type": "concept",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "general-aesthetics",
+      "tags": [
+        "美",
+        "形式",
+        "客观性",
+        "主观性",
+        "文化建构"
+      ]
     },
     {
       "path": "domains/aesthetics/concepts/creativity.md",
@@ -52,6 +68,7 @@
       "title": "创造力 · Creativity",
       "type": "concept",
       "domain": "aesthetics",
+      "school": "general-aesthetics",
       "tags": [
         "creative-process",
         "flow",
@@ -66,6 +83,7 @@
       "title": "想象力 · Imagination",
       "type": "concept",
       "domain": "aesthetics",
+      "school": "general-aesthetics",
       "tags": [
         "creativity",
         "cognition",
@@ -94,6 +112,7 @@
       "title": "叙事 · Narrative",
       "type": "concept",
       "domain": "aesthetics",
+      "school": "general-aesthetics",
       "tags": [
         "storytelling",
         "identity",
@@ -104,17 +123,33 @@
     },
     {
       "path": "domains/aesthetics/concepts/sublime.md",
-      "id": "sublime",
-      "title": "sublime",
+      "id": "aesthetics.concepts.sublime",
+      "title": "崇高 · Sublime",
       "type": "concept",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "general-aesthetics",
+      "tags": [
+        "崇高",
+        "伯克",
+        "康德",
+        "敬畏",
+        "无限"
+      ]
     },
     {
       "path": "domains/aesthetics/concepts/tragedy.md",
-      "id": "tragedy",
-      "title": "tragedy",
+      "id": "aesthetics.concepts.tragedy",
+      "title": "悲剧 · Tragedy",
       "type": "concept",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "classical-aesthetics",
+      "tags": [
+        "希腊悲剧",
+        "净化",
+        "卡塔西斯",
+        "悲剧英雄",
+        "悲剧的诞生"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/arts-thought/cage.md",
@@ -163,17 +198,33 @@
     },
     {
       "path": "domains/aesthetics/schools/chinese-aesthetics/zhu-guangqian.md",
-      "id": "zhu-guangqian",
-      "title": "zhu-guangqian",
+      "id": "aesthetics.chinese-aesthetics.zhu-guangqian",
+      "title": "朱光潜美学 / Zhu Guangqian's Aesthetics",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "chinese-aesthetics",
+      "tags": [
+        "朱光潜",
+        "中国美学",
+        "移情",
+        "距离说",
+        "美育"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/critical-aesthetics/adorno.md",
-      "id": "adorno",
-      "title": "adorno",
+      "id": "aesthetics.critical-aesthetics.adorno",
+      "title": "西奥多·阿多诺 Theodor W. Adorno",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "critical-aesthetics",
+      "tags": [
+        "批判美学",
+        "文化工业",
+        "否定辩证法",
+        "法兰克福学派",
+        "现代主义"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/critical-aesthetics/benjamin.md",
@@ -197,17 +248,33 @@
     },
     {
       "path": "domains/aesthetics/schools/german-aesthetics/hegel-aesthetics.md",
-      "id": "hegel-aesthetics",
-      "title": "hegel-aesthetics",
+      "id": "aesthetics.german-aesthetics.hegel",
+      "title": "黑格尔美学 / Hegel's Aesthetics",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "german-aesthetics",
+      "tags": [
+        "黑格尔",
+        "德国古典美学",
+        "艺术终结论",
+        "理念感性显现",
+        "浪漫型艺术"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/german-aesthetics/kant-aesthetics.md",
-      "id": "kant-aesthetics",
-      "title": "kant-aesthetics",
+      "id": "aesthetics.german-aesthetics.kant",
+      "title": "康德美学 / Kant's Aesthetics",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "german-aesthetics",
+      "tags": [
+        "康德",
+        "判断力批判",
+        "无功利",
+        "崇高",
+        "鉴赏判断"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/literary-theory/bakhtin.md",
@@ -360,10 +427,18 @@
     },
     {
       "path": "domains/aesthetics/schools/nietzschean-aesthetics/nietzsche-aesthetics.md",
-      "id": "nietzsche-aesthetics",
-      "title": "nietzsche-aesthetics",
+      "id": "aesthetics.nietzschean-aesthetics.nietzsche",
+      "title": "尼采美学 / Nietzsche's Aesthetics",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "nietzschean-aesthetics",
+      "tags": [
+        "尼采",
+        "酒神日神",
+        "悲剧的诞生",
+        "权力意志",
+        "悲剧美学"
+      ]
     },
     {
       "path": "domains/aesthetics/schools/poetic-thought/dante.md",
@@ -417,10 +492,18 @@
     },
     {
       "path": "domains/aesthetics/schools/pragmatist-aesthetics/dewey-aesthetics.md",
-      "id": "dewey-aesthetics",
-      "title": "dewey-aesthetics",
+      "id": "aesthetics.pragmatist-aesthetics.dewey",
+      "title": "杜威美学 / Dewey's Aesthetics",
       "type": "thinker",
-      "domain": "aesthetics"
+      "domain": "aesthetics",
+      "school": "pragmatist-aesthetics",
+      "tags": [
+        "杜威",
+        "实用主义美学",
+        "艺术即经验",
+        "做与受",
+        "审美经验"
+      ]
     },
     {
       "path": "domains/arts/concepts/artwork.md",
@@ -1261,10 +1344,18 @@
     },
     {
       "path": "domains/cognitive-systems/schools/naturalistic-decision/endsley.md",
-      "id": "endsley",
-      "title": "endsley",
+      "id": "cognitive-systems.naturalistic-decision.endsley",
+      "title": "米卡·恩兹利 Mica Endsley",
       "type": "thinker",
-      "domain": "cognitive-systems"
+      "domain": "cognitive-systems",
+      "school": "naturalistic-decision",
+      "tags": [
+        "situation-awareness",
+        "SAGAT",
+        "perception-comprehension-projection",
+        "SA-design",
+        "dynamic-decision-making"
+      ]
     },
     {
       "path": "domains/cognitive-systems/schools/naturalistic-decision/klein.md",
@@ -1384,10 +1475,18 @@
     },
     {
       "path": "domains/ethics-politics/concepts/conscience.md",
-      "id": "conscience",
-      "title": "conscience",
+      "id": "ethics-politics.concepts.conscience",
+      "title": "良心 · Conscience",
       "type": "concept",
-      "domain": "ethics-politics"
+      "domain": "ethics-politics",
+      "school": "moral-philosophy",
+      "tags": [
+        "道德良心",
+        "道德律",
+        "超我",
+        "正见",
+        "良心拒绝"
+      ]
     },
     {
       "path": "domains/ethics-politics/concepts/environmental-ethics.md",
@@ -1395,6 +1494,7 @@
       "title": "环境伦理 · Environmental Ethics",
       "type": "concept",
       "domain": "ethics-politics",
+      "school": "general-ethics-politics",
       "tags": [
         "environmental-ethics",
         "deep-ecology",
@@ -1409,6 +1509,7 @@
       "title": "人权 · Human Rights",
       "type": "concept",
       "domain": "ethics-politics",
+      "school": "general-ethics-politics",
       "tags": [
         "human-rights",
         "universalism",
@@ -1447,10 +1548,18 @@
     },
     {
       "path": "domains/ethics-politics/concepts/responsibility.md",
-      "id": "responsibility",
-      "title": "responsibility",
+      "id": "ethics-politics.concepts.responsibility",
+      "title": "责任 · Responsibility",
       "type": "concept",
-      "domain": "ethics-politics"
+      "domain": "ethics-politics",
+      "school": "moral-philosophy",
+      "tags": [
+        "道德责任",
+        "集体责任",
+        "保护的责任",
+        "存在主义自由",
+        "业力"
+      ]
     },
     {
       "path": "domains/ethics-politics/concepts/sense-of-justice.md",
@@ -1615,17 +1724,31 @@
     },
     {
       "path": "domains/ethics-politics/schools/deontology/kant.md",
-      "id": "kant",
-      "title": "kant",
+      "id": "kant-deontology",
+      "title": "康德 · 道义论伦理学 · Immanuel Kant: Deontological Ethics",
       "type": "thinker",
-      "domain": "ethics-politics"
+      "domain": "ethics-politics",
+      "school": "deontology",
+      "tags": [
+        "ethics",
+        "political",
+        "freedom"
+      ]
     },
     {
       "path": "domains/ethics-politics/schools/libertarianism/nozick.md",
-      "id": "nozick",
-      "title": "nozick",
+      "id": "ethics-politics.libertarianism.nozick",
+      "title": "罗伯特·诺齐克 Robert Nozick",
       "type": "thinker",
-      "domain": "ethics-politics"
+      "domain": "ethics-politics",
+      "school": "libertarianism",
+      "tags": [
+        "自由至上主义",
+        "最小国家",
+        "分配正义",
+        "权利理论",
+        "经验机"
+      ]
     },
     {
       "path": "domains/ethics-politics/schools/nonviolent-resistance/gandhi.md",
@@ -1982,6 +2105,7 @@
       "title": "语言 · Language",
       "type": "concept",
       "domain": "philosophy",
+      "school": "general-philosophy",
       "tags": [
         "语言哲学",
         "语言学转向",
@@ -1997,6 +2121,7 @@
       "title": "虚无 · Nothingness",
       "type": "concept",
       "domain": "philosophy",
+      "school": "general-philosophy",
       "tags": [
         "存在与虚无",
         "空性",
@@ -2010,6 +2135,7 @@
       "title": "时间 · Time",
       "type": "concept",
       "domain": "philosophy",
+      "school": "general-philosophy",
       "tags": [
         "现象学时间",
         "生存时间",
@@ -2050,17 +2176,33 @@
     },
     {
       "path": "domains/philosophy/schools/analytic/dennett.md",
-      "id": "dennett",
-      "title": "dennett",
+      "id": "philosophy.analytic.dennett",
+      "title": "丹尼特 Daniel Dennett",
       "type": "thinker",
-      "domain": "philosophy"
+      "domain": "philosophy",
+      "school": "analytic",
+      "tags": [
+        "意识",
+        "多重草稿",
+        "叙事自我",
+        "意向立场",
+        "达尔文主义"
+      ]
     },
     {
       "path": "domains/philosophy/schools/analytic/fodor.md",
-      "id": "fodor",
-      "title": "fodor",
+      "id": "philosophy.analytic.fodor",
+      "title": "福多 Jerry Fodor",
       "type": "thinker",
-      "domain": "philosophy"
+      "domain": "philosophy",
+      "school": "analytic",
+      "tags": [
+        "心智模块",
+        "思维语言",
+        "计算心灵",
+        "表征主义",
+        "先天论"
+      ]
     },
     {
       "path": "domains/philosophy/schools/analytic/hohwy.md",
@@ -2079,24 +2221,48 @@
     },
     {
       "path": "domains/philosophy/schools/analytic/mcginn.md",
-      "id": "mcginn",
-      "title": "mcginn",
+      "id": "philosophy.analytic.mcginn",
+      "title": "麦金 Colin McGinn",
       "type": "thinker",
-      "domain": "philosophy"
+      "domain": "philosophy",
+      "school": "analytic",
+      "tags": [
+        "新神秘主义",
+        "认知闭合",
+        "心身问题",
+        "意识难题",
+        "哲学限度"
+      ]
     },
     {
       "path": "domains/philosophy/schools/analytic/nagel.md",
-      "id": "nagel",
-      "title": "nagel",
+      "id": "philosophy.analytic.nagel",
+      "title": "内格尔 Thomas Nagel",
       "type": "thinker",
-      "domain": "philosophy"
+      "domain": "philosophy",
+      "school": "analytic",
+      "tags": [
+        "主观性",
+        "无何之见",
+        "蝙蝠问题",
+        "意识的难题",
+        "利他主义"
+      ]
     },
     {
       "path": "domains/philosophy/schools/analytic/parfit.md",
-      "id": "parfit",
-      "title": "parfit",
+      "id": "philosophy.analytic.parfit",
+      "title": "帕菲特 Derek Parfit",
       "type": "thinker",
-      "domain": "philosophy"
+      "domain": "philosophy",
+      "school": "analytic",
+      "tags": [
+        "人格同一性",
+        "心理连续性",
+        "理由与人格",
+        "还原论",
+        "伦理学"
+      ]
     },
     {
       "path": "domains/philosophy/schools/analytic/popper.md",
@@ -2649,6 +2815,7 @@
       "title": "依恋 · Attachment",
       "type": "concept",
       "domain": "psychology",
+      "school": "general-psychology",
       "tags": [
         "attachment",
         "Bowlby",
@@ -2694,6 +2861,7 @@
       "title": "意识 · Consciousness",
       "type": "concept",
       "domain": "psychology",
+      "school": "general-psychology",
       "tags": [
         "consciousness",
         "hard-problem",
@@ -2725,6 +2893,7 @@
       "title": "动机 · Motivation",
       "type": "concept",
       "domain": "psychology",
+      "school": "general-psychology",
       "tags": [
         "motivation",
         "intrinsic-extrinsic",
@@ -2741,6 +2910,7 @@
       "title": "人格 · Personality",
       "type": "concept",
       "domain": "psychology",
+      "school": "general-psychology",
       "tags": [
         "personality",
         "big-five",
@@ -2757,6 +2927,7 @@
       "title": "创伤 · Trauma",
       "type": "concept",
       "domain": "psychology",
+      "school": "general-psychology",
       "tags": [
         "trauma",
         "PTSD",
@@ -2811,17 +2982,33 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/baars.md",
-      "id": "baars",
-      "title": "baars",
+      "id": "psychology.cognitive.baars",
+      "title": "巴尔斯 Bernard Baars",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "全局工作空间",
+        "意识理论",
+        "认知架构",
+        "剧场隐喻",
+        "注意力"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/barrett.md",
-      "id": "barrett",
-      "title": "barrett",
+      "id": "psychology.cognitive.barrett",
+      "title": "巴雷特 Lisa Feldman Barrett",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "情绪构造论",
+        "预测脑",
+        "情感科学",
+        "心理建构主义",
+        "情绪粒度"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/beck.md",
@@ -2840,10 +3027,18 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/beeman.md",
-      "id": "beeman",
-      "title": "beeman",
+      "id": "psychology.cognitive.beeman",
+      "title": "比曼 Mark Beeman",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "顿悟",
+        "创造性思维",
+        "右脑",
+        "远距离联想",
+        "认知神经科学"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/damasio.md",
@@ -2861,10 +3056,18 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/flavell.md",
-      "id": "flavell",
-      "title": "flavell",
+      "id": "psychology.cognitive.flavell",
+      "title": "弗拉维尔 John Flavell",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "元认知",
+        "发展心理学",
+        "认知监控",
+        "儿童认知",
+        "认知发展"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/friston.md",
@@ -2898,10 +3101,18 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/hayes.md",
-      "id": "hayes",
-      "title": "hayes",
+      "id": "psychology.cognitive.hayes",
+      "title": "海耶斯 Steven Hayes",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "ACT",
+        "接受与承诺疗法",
+        "关系框架理论",
+        "认知解离",
+        "心理灵活性"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/kabat-zinn.md",
@@ -2963,10 +3174,18 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/lutz.md",
-      "id": "lutz",
-      "title": "lutz",
+      "id": "psychology.cognitive.lutz",
+      "title": "卢茨 Antoine Lutz",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "冥想神经科学",
+        "开放监控",
+        "γ波同步",
+        "正念研究",
+        "神经可塑性"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/piaget.md",
@@ -2985,10 +3204,18 @@
     },
     {
       "path": "domains/psychology/schools/cognitive/posner.md",
-      "id": "posner",
-      "title": "posner",
+      "id": "psychology.cognitive.posner",
+      "title": "波斯纳 Michael Posner",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "cognitive",
+      "tags": [
+        "注意力网络",
+        "执行控制",
+        "认知心理学",
+        "注意定向",
+        "心理时间"
+      ]
     },
     {
       "path": "domains/psychology/schools/cognitive/seth.md",
@@ -3112,10 +3339,18 @@
     },
     {
       "path": "domains/psychology/schools/functionalism/james.md",
-      "id": "james",
-      "title": "james",
+      "id": "psychology.functionalism.james",
+      "title": "威廉·詹姆斯 William James",
       "type": "thinker",
-      "domain": "psychology"
+      "domain": "psychology",
+      "school": "functionalism",
+      "tags": [
+        "意识流",
+        "功能主义",
+        "实用主义",
+        "自我",
+        "宗教经验"
+      ]
     },
     {
       "path": "domains/psychology/schools/functionalism/william-james.md",
@@ -3448,9 +3683,16 @@
     {
       "path": "domains/religion/buddhism/concepts/cognitive-theory/diamond-sutra-non-attachment.md",
       "id": "diamond-sutra-non-attachment",
-      "title": "diamond-sutra-non-attachment",
+      "title": "金刚经·无相 · Diamond Sūtra: Non-Attachment",
       "type": "concept",
-      "domain": "religion"
+      "domain": "religion",
+      "school": "buddhism-prajna",
+      "tags": [
+        "空性",
+        "无住",
+        "般若",
+        "金刚经"
+      ]
     },
     {
       "path": "domains/religion/buddhism/concepts/cognitive-theory/eight-consciousness.md",
@@ -3498,9 +3740,17 @@
     {
       "path": "domains/religion/buddhism/concepts/cognitive-theory/madhyamaka.md",
       "id": "madhyamaka",
-      "title": "madhyamaka",
+      "title": "中观·空 · Madhyamaka: Emptiness",
       "type": "concept",
-      "domain": "religion"
+      "domain": "religion",
+      "school": "buddhism-prajna",
+      "tags": [
+        "中观",
+        "空性",
+        "龙树",
+        "二谛",
+        "不二"
+      ]
     },
     {
       "path": "domains/religion/buddhism/concepts/cognitive-theory/mind-world.md",
@@ -3862,10 +4112,18 @@
     },
     {
       "path": "domains/religion/buddhism/concepts/standalone/diamond-sutra-non-attachment.md",
-      "id": "diamond-sutra-non-attachment",
-      "title": "diamond-sutra-non-attachment",
+      "id": "diamond-sutra-non-attachment-legacy",
+      "title": "金刚经·无相 · Diamond Sutra: Non-Attachment to Form",
       "type": "concept",
-      "domain": "religion"
+      "domain": "religion",
+      "school": "buddhism-prajna",
+      "tags": [
+        "金刚经",
+        "无相",
+        "无住",
+        "无所得",
+        "般若"
+      ]
     },
     {
       "path": "domains/religion/buddhism/concepts/standalone/eight-consciousness.md",
@@ -5235,7 +5493,7 @@
     },
     {
       "path": "domains/religion/buddhism/sutras/amitabha-sutra.md",
-      "id": "amitabha-sutra",
+      "id": "religion.domains.religion.buddhism.sutras.amitabha-sutra",
       "title": "Amitabha Sutra",
       "type": "text",
       "domain": "religion",
@@ -5277,7 +5535,7 @@
     },
     {
       "path": "domains/religion/buddhism/sutras/bhaisajyaguru-sutra.md",
-      "id": "bhaisajyaguru-sutra",
+      "id": "religion.domains.religion.buddhism.sutras.bhaisajyaguru-sutra",
       "title": "Bhaisajyaguru Sutra",
       "type": "text",
       "domain": "religion",
@@ -5291,7 +5549,7 @@
     },
     {
       "path": "domains/religion/buddhism/sutras/brahmajala-sutra.md",
-      "id": "brahmajala-sutra",
+      "id": "religion.domains.religion.buddhism.sutras.brahmajala-sutra",
       "title": "Brahmajala Sutra",
       "type": "text",
       "domain": "religion",
@@ -5364,7 +5622,7 @@
     },
     {
       "path": "domains/religion/buddhism/sutras/ksitigarbha-sutra.md",
-      "id": "ksitigarbha-sutra",
+      "id": "religion.domains.religion.buddhism.sutras.ksitigarbha-sutra",
       "title": "Ksitigarbha Sutra",
       "type": "text",
       "domain": "religion",
@@ -5447,15 +5705,8 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/sutras/reports/sutras-audit-report.md",
-      "id": "sutras-audit-report",
-      "title": "sutras-audit-report",
-      "type": "text",
-      "domain": "religion"
-    },
-    {
       "path": "domains/religion/buddhism/sutras/sandhinirmocana-sutra.md",
-      "id": "sandhinirmocana-sutra",
+      "id": "religion.domains.religion.buddhism.sutras.sandhinirmocana-sutra",
       "title": "Sandhinirmocana Sutra",
       "type": "text",
       "domain": "religion",
@@ -5515,6 +5766,7 @@
       "title": "冥想与默观 · Meditation and Contemplation",
       "type": "concept",
       "domain": "religion",
+      "school": "general-religion",
       "tags": [
         "冥想",
         "默观",
@@ -5530,6 +5782,7 @@
       "title": "仪式 · Ritual",
       "type": "concept",
       "domain": "religion",
+      "school": "general-religion",
       "tags": [
         "仪式",
         "集体欢腾",
@@ -5830,6 +6083,7 @@
       "title": "阶级 · Class",
       "type": "concept",
       "domain": "sociology",
+      "school": "general-sociology",
       "tags": [
         "class",
         "capitalism",
@@ -5859,6 +6113,7 @@
       "title": "数字社会 · Digital Society",
       "type": "concept",
       "domain": "sociology",
+      "school": "general-sociology",
       "tags": [
         "digital",
         "platform-economy",
@@ -5888,6 +6143,7 @@
       "title": "性别 · Gender",
       "type": "concept",
       "domain": "sociology",
+      "school": "general-sociology",
       "tags": [
         "gender",
         "feminism",
@@ -5902,6 +6158,7 @@
       "title": "种族 · Race",
       "type": "concept",
       "domain": "sociology",
+      "school": "general-sociology",
       "tags": [
         "race",
         "racism",

@@ -91,7 +91,7 @@ sources:
 - **深化**：[三性](./three-natures.md) — 把二谛扩展为三层认知模型
 - **应用**：[转识成智](./consciousness-transformation.md) — 转依即从"执世俗为实"转向"于世俗见胜义"
 - **对比**：[量论](./pramana.md) — 现量/比量主要在世俗谛层面运作，瑜伽现量可达胜义
-- **对照**：[天台止观](../schools/tiantai.md) — 三谛（空假中）是二谛的汉传扩展
+- **对照**：[天台止观](../../schools/tiantai.md) — 三谛（空假中）是二谛的汉传扩展
 
 ## 应用场景
 
@@ -110,10 +110,10 @@ sources:
 
 ## 跨学科关联
 
-- [康德 · 现象与物自身](../../../../domains/philosophy/schools/german-idealism/kant.md) `[平行但不同]` 康德是本体论二分，龙树是方法论分层
-- [维特根斯坦 · 梯子喻](../../../../domains/philosophy/schools/analytic/wittgenstein.md) `[平行]` "用完即弃"与"不执二谛"
-- [卡尔纳普 · 内外问题](../../../../domains/philosophy/schools/analytic/carnap.md) `[平行]` 语言框架的内部/外部问题 ≈ 世俗/胜义
-- [内格尔 · 无何之见](../../../../domains/philosophy/schools/analytic/nagel.md) `[平行]` 客观视角与主观视角的双层协调
+- [康德 · 现象与物自身](../../../../philosophy/schools/german-idealism/kant.md) `[平行但不同]` 康德是本体论二分，龙树是方法论分层
+- [维特根斯坦 · 梯子喻](../../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` "用完即弃"与"不执二谛"
+- [卡尔纳普 · 内外问题](../../../../philosophy/schools/analytic/carnap.md) `[平行]` 语言框架的内部/外部问题 ≈ 世俗/胜义
+- [内格尔 · 无何之见](../../../../philosophy/schools/analytic/nagel.md) `[平行]` 客观视角与主观视角的双层协调
 
 ## 进阶阅读
 

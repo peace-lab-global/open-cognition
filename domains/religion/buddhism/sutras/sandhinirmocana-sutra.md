@@ -1,17 +1,20 @@
 ---
-title: "Sandhinirmocana Sutra"
-chinese_title: "解深密经"
-sanskrit: "Saṃdhinirmocana Sūtra"
-translator: "玄奘"
+id: religion.domains.religion.buddhism.sutras.sandhinirmocana-sutra
+title: Sandhinirmocana Sutra
+type: text
+domain: religion
+chinese_title: 解深密经
+sanskrit: Saṃdhinirmocana Sūtra
+translator: 玄奘
 translation_year: 647
-dynasty: "唐"
-tradition: "唯识宗"
+dynasty: 唐
+tradition: 唯识宗
 tags:
-  - 唯识宗
-  - 三性
-  - 阿赖耶识
-  - 转依
-  - 瑜伽行派
+- 唯识宗
+- 三性
+- 阿赖耶识
+- 转依
+- 瑜伽行派
 ---
 
 # 解深密经
@@ -275,7 +278,7 @@ graph TD
 - **[般若经/金刚经](./diamond-sutra.md)**：二转法轮空宗与三转法轮有宗的张力与互补
 - **[法华经](./lotus-sutra.md)**：一乘思想与唯识三性的会通
 - **[维摩经](./vimalakirti-sutra.md)**：不二法门与三无性的呼应
-- **[楞严经](./shurangama-sutra.md)**：七处征心与唯识心识分析的对照
+- **[楞严经](surangama-sutra.md)**：七处征心与唯识心识分析的对照
 - 深度认知理论关联：[八识论](../concepts/cognitive-theory/eight-consciousness.md)、[转识成智](../concepts/cognitive-theory/consciousness-transformation.md)、[中观](../concepts/cognitive-theory/madhyamaka.md)、[心境关系](../concepts/cognitive-theory/mind-world.md)
 
 ## 思想遗产
