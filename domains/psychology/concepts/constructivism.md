@@ -1,0 +1,80 @@
+---
+id: psychology.concepts.constructivism
+title: 建构主义 · Constructivism
+type: concept
+domain: psychology
+school: cognitive-developmental
+era: contemporary
+tags: [建构主义, 认知发展, 知识生成, 图式, 同化顺应]
+related_concepts:
+  - mindfulness.md
+  - ../schools/developmental/piaget.md
+---
+
+# 建构主义 / Constructivism
+
+## 一句话定义
+
+建构主义主张：知识不是被动接收的既定事实，而是主体通过与经验世界互动而主动建构的——认知者是意义的生成者，而非信息的容器。
+
+## 历史脉络
+
+```
+康德：知性为自然立法——主体范畴建构经验
+    ↓
+皮亚杰：儿童认知发展的发生学——图式、同化、顺应
+    ↓
+维果茨基：社会文化中介——最近发展区、脚手架
+    ↓
+当代：教育建构主义、社会建构主义、激进建构主义（von Glasersfeld）
+```
+
+## 核心要义
+
+### 1. 皮亚杰的发生认识论
+- **图式**（schema）：认知的结构化框架，用于组织经验
+- **同化**（assimilation）：把新经验纳入既有图式
+- **顺应**（accommodation）：调整图式以适应新经验
+- 认知发展 = 同化与顺应不断失衡再平衡的螺旋——见[皮亚杰](../schools/developmental/piaget.md)
+
+### 2. 维果茨基的社会转向
+- 高级心理功能源于社会互动，经由"内化"成为个体能力
+- **最近发展区**（ZPD）：在更有能力的他人协助下能达到的发展水平
+- 知识建构是社会性的、受文化工具（语言）中介的
+
+### 3. 杜威的经验学习
+- "做中学"（learning by doing）——经验是尝试与承受后果的统一
+- 反思性思维：把被动经验转化为主动探究
+- 见[杜威](../../philosophy/schools/pragmatism/dewey.md)的实用主义认识论
+
+### 4. 激进建构主义
+- von Glasersfeld：我们只能建构"可行的"（viable）认知结构，无法触及"客观实在"
+- 知识的判据是适应性而非真理性——与[中观](../../religion/buddhism/concepts/cognitive-theory/madhyamaka.md)"假名安立"的立场形成深刻对照
+
+## 通俗 vs 学术
+
+| 层次 | 含义 |
+|------|------|
+| 日常 | "学生要主动学习""知识靠自己理解" |
+| 教育 | 以探究、协作、项目为驱动的教学法（PBL、支架式教学） |
+| 认识论 | 一套关于知识来源与性质的本体论-认识论主张 |
+
+## 跨学科关联
+
+- **哲学**：[卢梭](../../philosophy/schools/enlightenment/rousseau.md)的"自然教育"是建构主义教育观的源头；[杜威](../../philosophy/schools/pragmatism/dewey.md)把实用主义落地为经验学习
+- **宗教/佛学**：《楞伽经》的"自心现量"与建构主义共振——认知对象是心识的建构而非外境本身；如来藏思想的"转识成智"可读作认知图式的根本重组
+- **认知科学**：联结主义神经网络、预测处理（predictive processing）为建构主义提供了计算实现——大脑是"预测机器"，主动建构感知
+- **教育学**：建构主义是当代教育改革的主导范式，影响课程设计、评价、教师角色
+
+## 常见误读
+
+1. ❌ "建构主义否定客观实在" → ✅ 温和建构主义承认实在，只是强调认知的中介性；激进建构主义才质疑可及性
+2. ❌ "建构主义=自由放任" → ✅ 维果茨基的脚手架理论恰恰强调教师的结构性引导
+3. ❌ "建构主义只适用于教育" → ✅ 它是关于知识本性的认识论，适用于科学哲学、发展心理学、AI 等广泛领域
+
+## 进阶阅读
+
+- Piaget, *The Psychology of Intelligence* (1950)
+- Vygotsky, *Mind in Society* (1978)
+- von Glasersfeld, *Radical Constructivism* (1995)
+- 《楞伽经》（Laṅkāvatāra Sūtra）——"自心现量"章

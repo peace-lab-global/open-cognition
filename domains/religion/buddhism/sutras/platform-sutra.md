@@ -372,4 +372,4 @@ graph LR
     style F fill:#27ae60,color:#fff
 ```
 
-> 交叉参考：[认知范式转换](../../concepts/cognitive-theory/paradigm-shift.md) · [元认知](../../concepts/cognitive-theory/metacognition.md) · [正念觉察](../../concepts/cognitive-theory/mindfulness.md)
+> 交叉参考：[认知范式转换](../../concepts/cognitive-theory/paradigm-shift.md) · [元认知](../../concepts/cognitive-theory/metacognition.md) · [正念觉察](../../../psychology/concepts/mindfulness.md)

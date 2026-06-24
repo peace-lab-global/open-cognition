@@ -106,7 +106,7 @@ sources: [巴利三藏, 清净道论, 阿毗达摩]
 - **内观（Vipassanā）与过程观察**：内观的核心不是观察"什么"，而是观察"如何"——现象如何生起、如何变化、如何灭去。这是一种过程导向的认知模式，不同于对象导向的概念化认知，类似于从"快照"模式切换到"视频"模式。
 - **[阿毗达摩](../concepts/cognitive-theory/abhidharma-mind.md)心刹那理论**：上座部阿毗达摩将认知分解为一系列极短暂的"心刹那"（citta-khaṇa），每一刹那包含心（citta）与心所（cetasika），这是对意识流的时间微结构分析——可与现代认知科学的时间分辨率研究（temporal resolution）对话。
 
-**跨领域参照**：四念处的元认知训练与 [正念减压 MBSR](../../../../domains/psychology/schools/cognitive/mindfulness.md) 构成直接传承关系，阿毗达摩的心刹那分析可与 [威廉·詹姆斯的意识流理论](../../../../domains/psychology/schools/functionalism/james.md) 比较。详见 [五蕴认知](../concepts/cognitive-theory/five-aggregates-cognitive.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
+**跨领域参照**：四念处的元认知训练与 [正念减压 MBSR](../../../psychology/concepts/mindfulness.md) 构成直接传承关系，阿毗达摩的心刹那分析可与 [威廉·詹姆斯的意识流理论](../../../../domains/psychology/schools/functionalism/james.md) 比较。详见 [五蕴认知](../concepts/cognitive-theory/five-aggregates-cognitive.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
 
 ## 进阶阅读
 

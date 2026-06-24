@@ -69,10 +69,12 @@ related_concepts:
 
 | 思想家 | 核心观点 | 条目链接 |
 |--------|----------|----------|
-| 柏拉图 | 美是理念 | [../../philosophy/plato.md] |
-| 康德 | 美是无目的的合目的性 | [../schools/german-aesthetics/kant-aesthetics.md] |
-| 黑格尔 | 美是理念的感性显现 | [../schools/german-aesthetics/hegel-aesthetics.md] |
-| 布迪厄 | 美是文化区隔 | [../../philosophy/bourdieu.md] |
+| 柏拉图 | 美是理念 | [柏拉图](../../philosophy/schools/ancient-greek/plato.md) |
+| 康德 | 美是无目的的合目的性 | [康德美学](../schools/german-aesthetics/kant-aesthetics.md) |
+| 黑格尔 | 美是理念的感性显现 | [黑格尔美学](../schools/german-aesthetics/hegel-aesthetics.md) |
+| 布迪厄 | 美是文化区隔 | [布迪厄](../../sociology/schools/structuralism/bourdieu.md) |
+| 杜威 | 美是完整的经验 | [杜威美学](../schools/pragmatist-aesthetics/dewey-aesthetics.md) |
+| 朱光潜 | 美是心物交融 | [朱光潜](../schools/chinese-aesthetics/zhu-guangqian.md) |
 
 ## 应用场景
 

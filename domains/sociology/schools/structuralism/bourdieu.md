@@ -92,6 +92,8 @@ sources:
 - [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[发展]` 揭示"自然"背后的权力
 - **习惯回路（Habit Loop）** `[平行]` 但布迪厄强调结构嵌入
 - [埃利亚斯 · Elias](../figurational/elias.md) `[互补]` 惯习与形构共享对社会关系动态生成的分析
+- [美 · Beauty](../../../aesthetics/concepts/beauty.md) `[解构]` "趣味判断"非康德式普遍性，而是阶级区隔的伪装——美学的社会学祛魅
+- [审美经验 · Aesthetic Experience](../../../aesthetics/concepts/aesthetic-experience.md) `[对立]` 挑战"无功利的审美"：审美经验本身被文化资本结构化
 
 ## 进阶阅读
 

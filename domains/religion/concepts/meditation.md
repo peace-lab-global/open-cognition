@@ -83,8 +83,10 @@ cross-refs:
 
 ## 跨领域关联
 
-- **神经科学**：冥想对大脑的影响（前额叶、杏仁核、默认模式网络）
-- **心理学**：正念疗法、接纳与承诺疗法（ACT）
+- **神经科学**：冥想对大脑的影响（前额叶、杏仁核、默认模式网络）——见 [丹尼尔·西格尔](../../psychology/schools/interpersonal-neurobiology/siegel.md)的整合神经视角
+- **心理学**：正念疗法、接纳与承诺疗法（ACT）；[卡尼曼](../../psychology/schools/cognitive/kahneman.md)的注意系统理论为"止观"提供了认知模型
+- **心流**：[契克森米哈伊](../../psychology/schools/positive/csikszentmihalyi.md)的"心流"状态与禅定（dhyāna）的结构比较
+- **禅宗传统**：[禅](../traditions/buddhism/zen.md)以坐禅、公案为冥想的东亚发展
 - **教育**：正念教育，注意力训练
 - **和平研究**：冥想与冲突转化
 - **人工智能**：冥想状态对创造力的启发

@@ -64,9 +64,9 @@ Freud reinterprets conscience psychoanalytically:
 
 佛教提供了独特的良心框架：
 
-- **正见（sammā-diṭṭhi）**: 八正道之首，正确的道德认知是良心的基础
+- **正见（sammā-diṭṭhi）**: [八正道](../../religion/buddhism/core-concepts/noble-eightfold-path.md)之首，正确的道德认知是良心的基础
 - **惭（hiri）与愧（ottappa）**: 佛教的"惭愧"二法相当于良心的两个面向——对自身不善行的羞耻，和对他人谴责的畏惧
-- **善心所**: 良心相关的心理因素包括惭、愧、无贪、无嗔等
+- **善心所**: 良心相关的心理因素包括惭、愧、无贪、无嗔等；其运作机制可参照[八识体系](../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md)
 - **修行培养**: 良心不是天生固定的，可以通过修行培养和净化
 
 Buddhism provides a unique framework:

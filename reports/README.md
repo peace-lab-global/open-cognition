@@ -29,6 +29,11 @@ reports/
 | 2026-05-19 | [evaluation-report.md](./audit/2026-05-19-evaluation-report.md) | 全库评估 |
 | 2026-05-19 | [final-coverage-assessment.md](./audit/2026-05-19-final-coverage-assessment.md) | 最终覆盖评估 |
 | 2026-05-19 | [skills-coverage-evaluation.md](./audit/2026-05-19-skills-coverage-evaluation.md) | Skills 覆盖评估 |
+| 2026-06-22 | [project-assessment.md](./audit/2026-06-22-project-assessment.md) | 全库整体评估（含执行记录） |
+| 2026-06-22 | [maintenance-pass.md](./audit/2026-06-22-maintenance-pass.md) | 维护性提交：结构性修复（errors 796→0） |
+| 2026-06-22 | [content-backlog.md](./audit/2026-06-22-content-backlog.md) | 内容 backlog：未撰写条目清单（W006） |
+| 2026-06-22 | [content-assessment.md](./audit/2026-06-22-content-assessment.md) | 内容层面改进空间评估（图谱/缺口/优先级） |
+| 2026-06-23 | [content-improvement.md](./audit/2026-06-23-content-improvement.md) | 内容改进执行：枢纽激活+概念补全+跨域架桥 |
 
 ---
 

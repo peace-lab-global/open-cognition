@@ -1,10 +1,10 @@
 {
   "version": "v0.6",
-  "generated": "2026-06-22",
+  "generated": "2026-06-23",
   "stats": {
-    "entries": 430,
+    "entries": 433,
     "skills": 126,
-    "total": 556,
+    "total": 559,
     "domains": [
       "aesthetics",
       "arts",
@@ -2873,6 +2873,21 @@
       ]
     },
     {
+      "path": "domains/psychology/concepts/constructivism.md",
+      "id": "psychology.concepts.constructivism",
+      "title": "建构主义 · Constructivism",
+      "type": "concept",
+      "domain": "psychology",
+      "school": "cognitive-developmental",
+      "tags": [
+        "建构主义",
+        "认知发展",
+        "知识生成",
+        "图式",
+        "同化顺应"
+      ]
+    },
+    {
       "path": "domains/psychology/concepts/flow.md",
       "id": "psychology.concept.flow",
       "title": "心流 Flow",
@@ -2885,6 +2900,22 @@
         "沉浸",
         "注意力",
         "内在动机"
+      ]
+    },
+    {
+      "path": "domains/psychology/concepts/mindfulness.md",
+      "id": "psychology.concepts.mindfulness",
+      "title": "正念 · Mindfulness",
+      "type": "concept",
+      "domain": "psychology",
+      "school": "cognitive-behavioral",
+      "tags": [
+        "正念",
+        "觉察",
+        "当下",
+        "接纳",
+        "注意力训练",
+        "MBSR"
       ]
     },
     {
@@ -3604,6 +3635,21 @@
         "EMDR",
         "neuroscience",
         "PTSD"
+      ]
+    },
+    {
+      "path": "domains/religion/buddhism/concepts/attention-awareness.md",
+      "id": "religion.buddhism.concepts.attention-awareness",
+      "title": "注意与觉知 · Attention and Awareness (Sati-Sampajañña)",
+      "type": "concept",
+      "domain": "religion",
+      "school": "buddhism-cognitive-theory",
+      "tags": [
+        "念",
+        "觉知",
+        "正知",
+        "四念处",
+        "注意力训练"
       ]
     },
     {

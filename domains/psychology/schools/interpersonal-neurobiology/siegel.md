@@ -177,5 +177,5 @@ sources:
 
 - **心理学 Skills**: [Bowlby 鲍尔比依恋理论](../developmental/bowlby.md) — IPNB 的核心理论支柱
 - **神经科学 Skills**: [Damasio 达马西奥意识与情感](../cognitive/damasio.md) — 躯体标记与心智之眼的神经基础
-- **宗教 Skills**: [Buddhist Mindfulness 佛教正念](../../../religion/traditions/buddhism/mindfulness.md) — 正念觉知的宗教-神经科学对话
+- **宗教 Skills**: [Buddhist Mindfulness 佛教正念](../../concepts/mindfulness.md) — 正念觉知的宗教-神经科学对话
 - **心理学 Skills**: [Beck CBT 贝克认知行为治疗](../cognitive/beck.md) — 整合框架与认知模型的对话

@@ -77,8 +77,10 @@ cross-refs:
 
 ## 跨领域影响
 
+- **思想渊源**：德里达的解构直接继承[海德格尔](../existentialism/heidegger.md)的"存在论差异"与[胡塞尔](../phenomenology/husserl.md)的符号现象学，并把[索绪尔](../../../aesthetics/schools/literary-theory/saussure.md)的能指/所指差异推向极致
 - **文学批评**：耶鲁解构学派，文本意义的无限开放
-- **政治哲学**：正义、好客、宽恕的伦理思考
+- **政治哲学**：正义、好客、宽恕的伦理思考——与[福柯](../../../sociology/schools/structuralism/foucault.md)的权力分析构成法国后结构论的双轴
+- **语言学转向**：德里达重写了[语言](../../concepts/language.md)的"在场形而上学"，把言语/文字的等级颠倒过来
 - **法学**：解构与法律解释
 - **建筑**：解构主义建筑运动
 

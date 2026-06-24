@@ -82,6 +82,8 @@ sources:
 - [贝克 · CBT](./beck.md) `[互补]` 认知重构可理解为对有害躯体标记的重新校准
 - [范德科尔克 Van der Kolk](../trauma-psychology/van-der-kolk.md) `[互补]` 躯体标记与创伤的身体记忆——情绪的身体基础在创伤中尤为凸显
 - [詹姆斯 William James](../functionalism/william-james.md) `[继承]` 躯体标记假说直接继承詹姆斯-兰格情绪理论的身心统一观
+- [达·芬奇](../../../aesthetics/schools/arts-thought/leonardo.md) `[平行]` 艺术家的"直觉判断"与躯体标记——创作中的身体智慧
+- [审美经验](../../../aesthetics/concepts/aesthetic-experience.md) `[互补]` 躯体标记为"审美愉悦的身体性"提供了神经基础
 
 ## 进阶阅读
 
