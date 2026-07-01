@@ -1,0 +1,95 @@
+---
+id: narrativity
+title: 叙事性 · Narrativity
+type: concept
+domain: literature
+school: narratology
+era: 20th-century
+tags:
+  - narrative
+  - story
+  - plot
+  - time
+aliases:
+  - 叙事
+  - 叙事特质
+  - narrativité
+sources:
+  - 亚里士多德《诗学》
+  - Genette, G. *Narrative Discourse*
+  - Ricoeur, P. *Time and Narrative*
+---
+
+# 叙事性 Narrativity
+
+## 一句话定义
+
+叙事性是文本或话语将事件组织成具有时间性、因果性与意义统一体的特质——它回答"是什么让一个讲述成为叙事"。
+
+## 提出者与背景
+
+- **源头**：[亚里士多德](../../philosophy/schools/ancient-greek/aristotle.md)区分"μῦθος"（情节）与"πρᾶξις"（行动），强调情节的整一性
+- **结构主义**：Propp《故事形态学》(1928) 提取俄国民间故事的 31 个功能；Greimas 发展为"行动元模型"
+- **经典叙事学**：Genette (1972) 区分故事（histoire）、叙事（récit）、叙述行为（narration）
+- **后经典**：Ricoeur 把叙事性作为"时间体验的意义建构方式"
+
+## 核心要义
+
+### 关键论点
+1. **情节化（emplotment, mise en intrigue）**：将分散事件编织成有意义整体的操作
+2. **时间三层次**：故事时间 vs 叙事时间 vs 叙述时间（Genette 的顺序、时距、频率）
+3. **叙事性与叙事**：叙事性是"成为叙事"的程度或特质，不是二值属性
+4. **反叙事性**：现代主义与后现代主义通过打乱时间、消解因果来质疑叙事性
+
+### 论证结构
+- 前提 A：人类经验具有时间性
+- 前提 B：时间性经验需要通过情节化才能被理解和传达
+- 结论：叙事性是人类意义建构的基本结构
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "讲故事的能力" | 文本将事件组织为意义整体的结构特质 |
+| 范围 | 小说、电影 | 任何具有时间-因果组织的话语（含历史、法律） |
+| 判断 | 好不好看 | 情节化程度、时间编排、叙事层次 |
+
+## 与相关概念的关系
+
+- **同源**：[模仿 mimesis](../../aesthetics/concepts/mimesis.md) — 亚里士多德处情节即模仿
+- **对立**：[隐喻 metaphor](metaphor.md) — 叙事性是时间轴组织，隐喻是语义轴替换
+- **派生**：[互文性 intertextuality](intertextuality.md) — 叙事性常通过互文网络实现
+
+## 代表思想家
+
+- 亚里士多德 — 情节整一性
+- [普罗普 Propp](../../philosophy/schools/post-structuralism/derrida.md) — 故事功能论
+- Gérard Genette — 叙事话语三分
+- Paul Ricoeur — 时间与叙事
+- Hayden White — 历史的叙事性
+
+## 应用场景
+
+- 文学分析：叙事结构、时间变形、聚焦视角
+- 历史写作：历史叙事的认识论地位
+- 心理治疗：叙事治疗（重构生命故事）
+- 品牌与营销：品牌叙事、内容营销的叙事逻辑
+
+## 常见误读
+
+- **误读 1**："叙事性 = 有故事"——抒情诗、散文也可有高叙事性，关键在时间-意义组织
+- **误读 2**："叙事性只属于文学"——法律证词、病史、民族志都有叙事性
+- **误读 3**："情节就是故事"——情节（plot）是对故事（story）的编排方式
+
+## 跨学科关联
+
+- [哲学 · 时间](../../philosophy/concepts/time.md) `[基础]` 叙事性是对时间体验的意义建构
+- [心理学 · 叙事治疗](../../psychology/concepts/personality.md) `[应用]` 生命叙事的重构
+- [社会学 · 布迪厄](../../sociology/schools/structuralism/bourdieu.md) `[扩展]` 叙事资本与身份建构
+- [宗教 · 救赎史](../../religion/concepts/salvation.md) `[平行]` 救赎叙事作为终极叙事性结构
+
+## 进阶阅读
+
+- 原典：亚里士多德《诗学》；Genette《叙事话语》；Ricoeur《时间与叙事》三卷
+- 二手研究：Herman, D. *Storytelling and the Sciences of Mind*；Fludernik, M. *Towards a 'Natural' Narratology*
+- 中文资源：申丹《叙述学与小说文体学研究》；热奈特《叙事话语》中译本

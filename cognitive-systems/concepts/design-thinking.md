@@ -1,0 +1,138 @@
+---
+id: design-thinking
+title: 设计思维 · Design Thinking
+type: concept
+domain: cognitive-systems
+school: design-methodology
+era: 1960年代（Horst Rittel）；2000年代普及（IDEO / Stanford d.school）
+tags:
+  - 创新方法
+  - 以人为本
+  - 原型迭代
+  - 问题解决
+aliases:
+  - 设计思考
+  - 以人为本的创新
+  - HCD（Human-Centered Design）
+sources:
+  - Tim Brown, Change by Design (2009)
+  - Hasso Plattner, Design Thinking Bootleg (Stanford d.school)
+  - Nigel Cross, Design Thinking: Understanding How Designers Think and Work (2011)
+---
+
+# 设计思维
+
+## 一句话定义
+
+设计思维是一种以人为本、迭代探索式的创新方法论，通过共情（Empathize）、定义（Define）、构思（Ideate）、原型（Prototype）、测试（Test）五个阶段，在用户需求、技术可行性与商业可行性的交叉点寻找创新解。
+
+## 提出者与背景
+
+- **关键推动者**：Tim Brown（IDEO CEO）将其从设计师工具推广为通用创新方法论；Hasso Plattner（SAP 创始人）资助 Stanford d.school 将其系统化
+- **理论先驱**：Horst Rittel 提出"棘手问题"（Wicked Problems）概念；Herbert Simon 在《人工科学》中论述设计的科学基础
+- **历史语境**：传统线性研发流程无法应对用户需求的不确定性，需要一种拥抱模糊性的方法
+- **针对的问题**：如何为"不知道该做什么"的用户创造"他们没想到但会爱上"的产品
+
+## 核心要义
+
+### 五阶段模型（d.school）
+
+```
+  ┌─────────────────────────────────────────────┐
+  │  Empathize → Define → Ideate → Prototype → Test  │
+  │      ↕          ↕         ↕         ↕        ↕    │
+  │         ← 非线性迭代，随时回溯 →               │
+  └─────────────────────────────────────────────┘
+```
+
+| 阶段 | 核心动作 | 输出 |
+|------|----------|------|
+| **共情** | 深入用户场景，观察、访谈、沉浸 | 用户洞察（Insights）、同理心地图 |
+| **定义** | 从洞察中提炼核心问题（Point of View） | "我们如何为 X 解决 Y"（HMW） |
+| **构思** | 发散式创意，不评判，求数量 | 大量创意草图、概念 |
+| **原型** | 快速将想法变为可感知的实体 | 低精度原型（纸模、故事板、角色扮演） |
+| **测试** | 让用户体验原型，收集反馈 | 学习洞察 → 回到共情或构思 |
+
+### 关键论点
+
+1. **以人为本**：创新的起点是理解人的需求、动机与情境，而非技术或商业逻辑
+2. **拥抱模糊**：在问题不清晰时不急于定义，而是通过探索逐步浮现真正的问题
+3. **快速失败**：通过低成本原型快速验证假设，"早失败、多失败、便宜地失败"
+4. **多样性团队**：跨学科团队能产生更多突破性创意，因为不同背景挑战彼此的假设
+5. **做中学**：思考无法替代行动——"动手思考"（Thinking with Hands）比"坐着讨论"更有效
+
+### 三个交叉约束
+
+```
+        用户需求（Desirability）
+            /    \
+           /      \
+   技术可行性 ———— 商业可行性
+（Feasibility）  （Viability）
+
+创新 = 三者交叉处的解
+```
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|------|----------|----------|
+| "设计思维" | "像设计师一样思考" | Rittel 的"棘手问题"方法论 + Simon 的人工科学 + IDEO 的实践体系 |
+| "以人为本" | "关注用户" | 民族志式用户研究 + 同理心驱动的需求定义 |
+| "快速原型" | "做个 demo" | 将假设外化为可测试的人工制品，降低认知成本 |
+
+## 与相关概念的关系
+
+- **互补**：[麦肯锡方法](./mckinsey-method.md) — 麦肯锡是分析型思维（拆解问题），设计思维是探索型思维（发现问题的正确提法）
+- **互补**：[系统思维](./systems-thinking.md) — 系统思维看宏观结构，设计思维看微观体验
+- **关联**：[意义建构](./sensemaking.md) — 共情阶段本质上是设计师的意义建构过程
+- **关联**：[心智模型](./mental-model.md) — 用户研究的目标之一就是发现用户的隐性心智模型
+
+## 代表思想家
+
+- **Tim Brown** — IDEO CEO，将设计思维从工业设计推广为通用创新方法论
+- **Hasso Plattner** — SAP 创始人，资助 Stanford d.school 建立系统化的设计思维教育
+- **Herbert Simon** — 诺贝尔奖得主，在《人工科学》中首次将设计视为一门科学
+- **Horst Rittel** — 提出"棘手问题"概念，揭示设计与规划中问题的不可结构化特性
+- **Jeanne Liedtka** — 将设计思维引入战略管理领域（UVA Darden 商学院）
+
+## 应用场景
+
+- **产品创新**：发现用户未被满足的隐性需求，创造差异化产品
+- **服务设计**：重新设计医院就诊流程、政府服务体验等
+- **组织变革**：用设计思维重新设计工作流程、会议方式、决策机制
+- **教育创新**：设计更符合学习者需求的教学体验
+- **社会创新**：为低收入社区设计可负担的解决方案
+
+## 常见误读
+
+- **误读 1**："设计思维就是贴便利贴" — 便利贴是工具而非本质；核心是共情驱动的问题重构与快速验证
+- **误读 2**："设计思维适合所有问题" — 它最适合"棘手问题"（需求不确定、标准模糊）；对于定义清晰的优化问题，分析方法更高效
+- **误读 3**："五阶段必须按顺序走" — 设计思维强调非线性迭代，任何阶段都可以回溯
+- **误读 4**："设计思维是设计师的专利" — 它本质上是一种跨学科的认知工具，任何人都可以学习使用
+
+## 跨学科关联
+
+- [麦肯锡方法](./mckinsey-method.md) `[互补]` 分析型 vs 探索型问题解决的两种范式
+- [意义建构](./sensemaking.md) `[认知基础]` 共情与定义阶段的意义建构过程
+- [认知负荷](./cognitive-load.md) `[设计约束]` 原型设计需要管理用户的认知负荷
+
+## 进阶阅读
+
+### 原典
+- Tim Brown, *Change by Design* (2009)
+- Hasso Plattner, Christoph Meinel & Larry Leifer, *Design Thinking: Understand – Improve – Apply* (2011)
+- Herbert Simon, *The Sciences of the Artificial* (1969)
+
+### 实践手册
+- Stanford d.school, *Design Thinking Bootleg*（免费手册）
+- IDEO, *Human-Centered Design Toolkit*
+
+### 批判性视角
+- Natasha Iskander, "Does Design Thinking Work?"（Harvard Business Review, 2018）
+- Lee Vinsel, "Design Thinking Is Sort of Like Syphilis"（2019）
+
+### 相关领域
+- 服务设计（Service Design）
+- 用户体验设计（UX Design）
+- 精益创业（Lean Startup）

@@ -1,0 +1,87 @@
+---
+id: religion.buddhism.core.karma-rebirth
+title: 业与轮回 Karma & Rebirth
+type: concept
+domain: religion
+school: buddhism-general
+era: ancient
+tags: [业, 轮回, karma, samsara]
+aliases: [Karma and Rebirth, 业与轮回]
+sources: [巴利三藏, 《俱舍论》, 《清净道论》]
+---
+
+# 业与轮回 Karma & Rebirth
+
+## 一句话定义
+
+**业**（Karma）是有意图的身口意行为及其后果；**轮回**（Saṃsāra）是众生在无明与业的牵引下于六道流转的过程。佛教的业论与印度教不同，**否认永恒灵魂**——轮回的是"业流"而非"灵魂"。
+
+## 核心要义
+
+### 1. 业 Karma
+- **定义**：有意图的行为（思业与思已业）
+- **种类**：身业、口业、意业；善业、恶业、无记业
+- **果报**：异熟果（来生受报）、等流果（习惯延续）
+
+### 2. 轮回 Saṃsāra
+- **六道**：天、人、阿修罗、畜生、饿鬼、地狱
+- **无我轮回**：没有灵魂，是"业流"如灯火相传
+- **比喻**：如火传薪、如种生芽
+
+### 3. 佛教 vs 印度教的业与轮回
+
+| 维度 | 佛教 | 印度教 |
+|---|---|---|
+| 灵魂 | 否认（无我） | 承认（梵我） |
+| 轮回主体 | 业流/识流 | 灵魂/自我 |
+| 解脱 | 无我、空性 | 与梵合一 |
+
+### 4. 十二因缘
+解释轮回如何生起：无明 → 行 → 识 → 名色 → …… → 老死
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "业 = 因果报应" | 业是有意图行为，果报复杂多层 |
+| "轮回 = 灵魂投胎" | 佛教否认灵魂，是业流 |
+| "善有善报" | 业报有时差，非即时 |
+
+## 与相关概念的关系
+
+- [印度教 · 业与轮回](../../traditions/hinduism/karma-samsara.md) — [对立/同源] 共享概念但哲学分歧
+- [缘起](dependent-origination.md) — [下位] 十二因缘解释轮回
+- [三法印 · 无我](three-marks.md) — [互补] 无我轮回
+- [唯识](../schools/yogacara.md) — [发展] 阿赖耶识承载业种
+
+## 应用场景
+
+- **伦理学**：行为后果的责任
+- **心理学**：习惯的延续（等流果）
+- **临终关怀**：业与来生的心理意义
+- **比较宗教**：与印度教、耆那教对话
+
+## 常见误读
+
+- ❌ "业 = 报应" → 业是行为，果报复杂。
+- ❌ "轮回 = 灵魂投胎" → 佛教否认灵魂。
+- ❌ "善有善报" → 有时差，非即时。
+
+## 跨学科关联
+
+- [决定论 vs 自由意志](../../../philosophy/schools/rationalism/descartes.md) — [张力] 业与自由
+- [弗洛伊德 · 强迫性重复](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 等流果
+- [社会学 · 社会再制](../../../sociology/schools/structuralism/bourdieu.md) — [平行] 习气延续
+
+## 进阶阅读
+
+**原典**
+- 《阿含经·业相应》
+- 世亲《俱舍论·业品》
+
+**研究**
+- Bruce Reichenbach《The Law of Karma》
+- Gananath Obeyesekere《Imagining Karma》
+
+**入门**
+- Walpola Rahula《What the Buddha Taught》

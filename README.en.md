@@ -8,7 +8,7 @@
 [![Domains](https://img.shields.io/badge/domains-9-orange.svg)](#domains)
 [![Entries](https://img.shields.io/badge/entries-210%20thinkers%20%7C%20213%20concepts%20%7C%20126%20skills-brightgreen.svg)](#content-overview)
 
-**Chinese version**: see [README.md](./README.md)
+**Chinese version**: see [README.md](README.md)
 
 ---
 
@@ -35,25 +35,25 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 | Domain | Thinkers | Concepts | Skills | Entry point |
 |---|:---:|:---:|:---:|---|
-| Philosophy | 42 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
-| Religion | 34 | 127 | 39 | [domains/religion](./domains/religion/README.md) |
-| Sociology | 18 | 7 | 15 | [domains/sociology](./domains/sociology/README.md) |
-| Psychology | 42 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
-| Ethics & Politics | 15 | 11 | 10 | [domains/ethics-politics](./domains/ethics-politics/README.md) |
-| Aesthetics | 23 | 9 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
-| Literature | 5 | 8 | 5 | [domains/literature](./domains/literature/README.md) |
-| Arts | 3 | 8 | 3 | [domains/arts](./domains/arts/README.md) |
-| Cognitive Systems Engineering | 28 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
+| Philosophy | 42 | 8 | 19 | [philosophy](philosophy/README.md) |
+| Religion | 34 | 127 | 39 | [religion](religion/README.md) |
+| Sociology | 18 | 7 | 15 | [sociology](sociology/README.md) |
+| Psychology | 42 | 8 | 16 | [psychology](psychology/README.md) |
+| Ethics & Politics | 15 | 11 | 10 | [ethics-politics](ethics-politics/README.md) |
+| Aesthetics | 23 | 9 | 3 | [aesthetics](aesthetics/README.md) |
+| Literature | 5 | 8 | 5 | [literature](literature/README.md) |
+| Arts | 3 | 8 | 3 | [arts](arts/README.md) |
+| Cognitive Systems Engineering | 28 | 27 | 16 | [cognitive-systems](cognitive-systems/README.md) |
 
-Full index: [INDEX.md](./INDEX.md) | Tag taxonomy: [TAGS.md](./TAGS.md)
+Full index: [INDEX.md](INDEX.md) | Tag taxonomy: [TAGS.md](TAGS.md)
 
 ---
 
 ## Flagship: Buddhist Cognitive Theory
 
-Under `domains/religion/buddhism/concepts/cognitive-theory/`, this repository contains the deepest thematic treatment in the entire knowledge base -- a systematic treatment of Buddhism's cognitive science and epistemology resources.
+Under `religion/buddhism/concepts/cognitive-theory/`, this repository contains the deepest thematic treatment in the entire knowledge base -- a systematic treatment of Buddhism's cognitive science and epistemology resources.
 
-Quick start guide: [QUICKSTART.md](./domains/religion/buddhism/concepts/cognitive-theory/QUICKSTART.md)
+Quick start guide: [QUICKSTART.md](religion/buddhism/concepts/cognitive-theory/QUICKSTART.md)
 
 ### Scope
 
@@ -67,10 +67,10 @@ Quick start guide: [QUICKSTART.md](./domains/religion/buddhism/concepts/cognitiv
 
 ### Entry Points
 
-- **Main index**: [`domains/religion/buddhism/INDEX.md`](./domains/religion/buddhism/INDEX.md)
-- **Cognitive theory catalog**: [`concepts/cognitive-theory/README.md`](./domains/religion/buddhism/concepts/cognitive-theory/README.md)
-- **Representative concepts**: [Pramana](./domains/religion/buddhism/concepts/cognitive-theory/pramana.md) | [Three Natures](./domains/religion/buddhism/concepts/cognitive-theory/three-natures.md) | [Consciousness Transformation](./domains/religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) | [Koan Mechanics](./domains/religion/buddhism/concepts/cognitive-theory/koan-mechanics.md)
-- **Representative Skills**: [Eight Consciousness Diagnosis](./domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md) | [Three Natures Diagnosis](./domains/religion/buddhism/concepts/cognitive-theory/skills/three-natures-diagnosis/SKILL.md) | [Dependent Origination Tracing](./domains/religion/buddhism/concepts/cognitive-theory/skills/dependent-origination-tracing/SKILL.md) | [Five Aggregates Deconstruction](./domains/religion/buddhism/concepts/cognitive-theory/skills/five-aggregates-deconstruction/SKILL.md)
+- **Main index**: [`religion/buddhism/INDEX.md`](religion/buddhism/INDEX.md)
+- **Cognitive theory catalog**: [`concepts/cognitive-theory/README.md`](religion/buddhism/concepts/cognitive-theory/README.md)
+- **Representative concepts**: [Pramana](religion/buddhism/concepts/cognitive-theory/pramana.md) | [Three Natures](religion/buddhism/concepts/cognitive-theory/three-natures.md) | [Consciousness Transformation](religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) | [Koan Mechanics](religion/buddhism/concepts/cognitive-theory/koan-mechanics.md)
+- **Representative Skills**: [Eight Consciousness Diagnosis](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md) | [Three Natures Diagnosis](religion/buddhism/skills/three-natures-diagnosis/SKILL.md) | [Dependent Origination Tracing](religion/buddhism/skills/dependent-origination-tracing/SKILL.md) | [Five Aggregates Deconstruction](religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md)
 
 ### Dialogue with Contemporary Thought
 
@@ -96,15 +96,19 @@ open-cognition/
   TAGS.md                     # Unified tag taxonomy
   CONTRIBUTING.md             # Contribution guide
   index.json                  # Machine-readable index
-  domains/                    # Main knowledge entries (9 domains)
-  skills/                     # Operational skill frameworks
-  wisdom-masters/             # Distilled contemplative wisdom
-  meta/                       # Metadata, taxonomy, templates
-  visual/                     # Infographics and visualizations
-  reports/                    # Progress reports and audits
+  philosophy/                  # Philosophy (42 thinkers / 8 concepts / 19 skills)
+  religion/                    # Religion (incl. Buddhist cognitive theory flagship)
+  sociology/                   # Sociology
+  psychology/                  # Psychology
+  ethics-politics/             # Ethics & Political Philosophy
+  aesthetics/                  # Aesthetics
+  literature/                  # Literature
+  arts/                        # Arts
+  cognitive-systems/           # Cognitive Systems Engineering
+  _meta/                       # Metadata, taxonomy, templates, reports
 ```
 
-See the [Chinese README](./README.md) for the full directory tree.
+See the [Chinese README](README.md) for the full directory tree.
 
 ---
 
@@ -114,19 +118,19 @@ See the [Chinese README](./README.md) for the full directory tree.
 
 Fixed structure: basic info, core propositions, intellectual context, key works, important concepts, coordinate mapping, contemporary applications, common misreadings, cross-disciplinary links, further reading, linked Skills.
 
-Examples: [Freud](./domains/psychology/schools/psychoanalysis/freud.md) | [Weber](./domains/sociology/schools/classical/weber.md) | [Kant](./domains/philosophy/schools/german-idealism/kant.md) | [Nagarjuna](./domains/religion/buddhism/masters/nagarjuna.md) | [Dogen](./domains/religion/buddhism/masters/dogen.md)
+Examples: [Freud](psychology/schools/psychoanalysis/freud.md) | [Weber](sociology/schools/classical/weber.md) | [Kant](philosophy/schools/german-idealism/kant.md) | [Nagarjuna](religion/buddhism/masters/nagarjuna.md) | [Dogen](religion/buddhism/masters/dogen.md)
 
 ### Concept
 
 Fixed structure: one-line definition, historical context, core content, colloquial vs. scholarly framing, related concepts, representative thinkers, application scenarios, common misreadings, cross-disciplinary links, further reading.
 
-Examples: [Flow](./domains/psychology/concepts/flow.md) | [Cultural Capital](./domains/sociology/concepts/cultural-capital.md) | [Sacred](./domains/religion/concepts/sacred.md) | [Pramana](./domains/religion/buddhism/concepts/cognitive-theory/pramana.md)
+Examples: [Flow](psychology/concepts/flow.md) | [Cultural Capital](sociology/concepts/cultural-capital.md) | [Sacred](religion/concepts/sacred.md) | [Pramana](religion/buddhism/concepts/cognitive-theory/pramana.md)
 
 ### Skill
 
 Agent-executable operational framework with YAML frontmatter, one-line function description, when-to-use / when-not-to-use guidance, theoretical basis, step-by-step procedure, worked examples, and counterexamples.
 
-Examples: [CBT Cognitive Distortion](./skills/psychology-frameworks/cbt-cognitive-distortion/SKILL.md) | [Bourdieu Field Analysis](./skills/sociology-frameworks/bourdieu-field-analysis/SKILL.md) | [Four Noble Truths](./skills/religion-frameworks/four-noble-truths-framework/SKILL.md) | [Eight Consciousness Diagnosis](./domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md)
+Examples: [CBT Cognitive Distortion](./psychology/skills/cbt-cognitive-distortion/SKILL.md) | [Bourdieu Field Analysis](./sociology/skills/bourdieu-field-analysis/SKILL.md) | [Four Noble Truths](./religion/skills/four-noble-truths-framework/SKILL.md) | [Eight Consciousness Diagnosis](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md)
 
 ---
 
@@ -146,7 +150,7 @@ tags: [...]
 
 These can be directly indexed and invoked by agent runtimes (Claude Skills, Qoder Skills, custom RAG pipelines). Cross-references between entries use relative paths and explicit relationship-type annotations, supporting LLM graph reasoning.
 
-Full agent integration guide: [AGENT.md](./AGENT.md)
+Full agent integration guide: [AGENT.md](AGENT.md)
 
 ---
 
@@ -160,10 +164,10 @@ Content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by
 
 Contributions of new entries, misreading corrections, and cross-disciplinary links are welcome. See:
 
-- [CONTRIBUTING.md](./CONTRIBUTING.md) -- contribution workflow
-- [meta/quality-criteria.md](./meta/quality-criteria.md) -- quality standards
-- [meta/taxonomy.md](./meta/taxonomy.md) -- taxonomy
-- [meta/templates/](./meta/templates/) -- entry templates
+- [CONTRIBUTING.md](CONTRIBUTING.md) -- contribution workflow
+- [_meta/quality-criteria.md](./_meta/quality-criteria.md) -- quality standards
+- [_meta/taxonomy.md](./_meta/taxonomy.md) -- taxonomy
+- [_meta/templates/](./_meta/templates/) -- entry templates
 
 ---
 

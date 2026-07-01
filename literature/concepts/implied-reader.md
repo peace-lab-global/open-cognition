@@ -1,0 +1,95 @@
+---
+id: implied-reader
+title: 隐含读者 · Implied Reader
+type: concept
+domain: literature
+school: reception-theory
+era: 20th-century
+tags:
+  - reception
+  - phenomenology
+  - reader-response
+  - gaps
+aliases:
+  - 隐含的读者
+  - 隐含读者
+  - impliziter Leser
+sources:
+  - Iser, W. *The Implied Reader* (1972)
+  - Iser, W. *The Act of Reading* (1976)
+  - Booth, W. *The Rhetoric of Fiction* (1961)
+---
+
+# 隐含读者 Implied Reader
+
+## 一句话定义
+
+隐含读者是文本结构所预设的读者位置——不是现实读者，而是文本"邀请"读者去占据的理解与情感姿态。
+
+## 提出者与背景
+
+- **思想源头**：Wayne Booth《The Rhetoric of Fiction》(1961) 提出"隐含作者"（implied author），作为文本建构的作者形象
+- **正式提出**：Wolfgang Iser 在《The Implied Reader》(1972) 中对称地提出"隐含读者"，作为文本结构对读者反应的预设
+- **理论完善**：《The Act of Reading》(1976) 引入"空白"（Leerstellen / gaps）与"否定"（negation）机制，说明读者如何具体化文本
+- **当代延伸**：与"叙事受众""第二人称立场""交互式文本"研究对话
+
+## 核心要义
+
+### 关键论点
+1. **隐含读者是结构，不是人**：文本内在的"角色网络"，任何现实读者进入阅读即被邀请占据
+2. **空白（gaps）**：文本的不确定性、省略、跳跃之处，必须由读者主动填充
+3. **否定（negation）**：文本通过拒绝读者预期的方式（反讽、不可靠叙述）激发反思
+4. **具体化（concretization）**：文学作品 = 艺术极（文本）+ 审美极（读者的具体化），作品存在于二者之间
+
+### 阅读的现象学结构
+- 前提 A：文本提供"图式化结构"（schematized views）
+- 前提 B：这些结构包含不确定性与空白
+- 结论：阅读是读者在时间中游走于文本视角并填充空白的过程
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 含义 | "作者想象的读者" | 文本结构所预设的读者位置 |
+| 存在 | 现实的个人 | 文本内的"角色网络" |
+| 功能 | 营销对象 | 阅读现象学的结构机制 |
+
+## 与相关概念的关系
+
+- **同源**：[叙事性 narrativity](narrativity.md) — 叙事通过聚焦与空白塑造隐含读者
+- **对立**：[细读 close reading](close-reading.md) — 细读强调文本自足，隐含读者强调读者参与
+- **派生**：[世界文学 world literature](world-literature.md) — 跨文化阅读中隐含读者位置的迁移
+
+## 代表思想家
+
+- Wolfgang Iser — 隐含读者与阅读现象学
+- Wayne Booth — 隐含作者
+- Roman Ingarden — 文学作品的图式化结构
+- Stanley Fish — 阐释共同体
+- Roland Barthes — "读者的诞生"
+
+## 应用场景
+
+- 文学批评：分析文本对读者的预设与操纵
+- 教育：训练学生意识到自身的"读者位置"
+- UX 写作：数字产品中的"隐含用户"设计
+- 翻译研究：译者如何重建跨语言的隐含读者
+
+## 常见误读
+
+- **误读 1**："隐含读者 = 作者心目中的读者"——它是文本结构，不是作者心理
+- **误读 2**："隐含读者 = 理想读者"——它不是规范性的"应如何读"，而是结构性的"被邀请如何读"
+- **误读 3**："只适用于小说"——诗歌、戏剧、电影、游戏皆有隐含读者结构
+
+## 跨学科关联
+
+- [哲学 · 现象学](../../philosophy/schools/phenomenology/husserl.md) `[基础]` 英伽登与胡塞尔的意向性理论
+- [心理学 · 心智理论](../../psychology/schools/behavioral-economics/kahneman.md) `[机制]` 理解他人视角的心理能力
+- [社会学 · 阐释共同体](../../sociology/schools/structuralism/bourdieu.md) `[扩展]` 读者位置的社会建构
+- [宗教 · 经注学](../../religion/concepts/sacred.md) `[平行]` 经文对"信仰读者"的预设
+
+## 进阶阅读
+
+- 原典：Iser *The Implied Reader* (1972)；Iser *The Act of Reading* (1976)
+- 二手研究：Freund, E. *The Return of the Reader*；Suleiman & Crosman, *The Reader in the Text*
+- 中文资源：伊瑟尔《隐含读者》中译本；金元浦《接受反应文论》

@@ -1,4 +1,4 @@
-> English version: see [README.en.md](./README.en.md)
+> English version: see [README.en.md](README.en.md)
 
 # Open Cognition · 开放认知数据库
 
@@ -35,25 +35,25 @@
 
 | 领域 | 思想家 | 概念 | Skills | 入口 |
 |---|:---:|:---:|:---:|---|
-| **哲学** Philosophy | 42 | 8 | 19 | [domains/philosophy](./domains/philosophy/README.md) |
-| **宗教** Religion | 34 | 127 | 39 | [domains/religion](./domains/religion/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
-| **社会学** Sociology | 18 | 7 | 15 | [domains/sociology](./domains/sociology/README.md) |
-| **心理学** Psychology | 42 | 8 | 16 | [domains/psychology](./domains/psychology/README.md) |
-| **伦理与政治哲学** Ethics & Politics | 15 | 11 | 10 | [domains/ethics-politics](./domains/ethics-politics/README.md) |
-| **美学** Aesthetics | 23 | 9 | 3 | [domains/aesthetics](./domains/aesthetics/README.md) |
-| **文学** Literature | 5 | 8 | 5 | [domains/literature](./domains/literature/README.md) |
-| **艺术** Arts | 3 | 8 | 3 | [domains/arts](./domains/arts/README.md) |
-| **认知系统工程** Cognitive Systems Engineering | 28 | 27 | 16 | [domains/cognitive-systems](./domains/cognitive-systems/README.md) |
+| **哲学** Philosophy | 42 | 8 | 19 | [philosophy](philosophy/README.md) |
+| **宗教** Religion | 34 | 127 | 39 | [religion](religion/README.md) · [佛教认知专题 ↓](#佛教认知理论体系旗舰专题) |
+| **社会学** Sociology | 18 | 7 | 15 | [sociology](sociology/README.md) |
+| **心理学** Psychology | 42 | 8 | 16 | [psychology](psychology/README.md) |
+| **伦理与政治哲学** Ethics & Politics | 15 | 11 | 10 | [ethics-politics](ethics-politics/README.md) |
+| **美学** Aesthetics | 23 | 9 | 3 | [aesthetics](aesthetics/README.md) |
+| **文学** Literature | 5 | 8 | 5 | [literature](literature/README.md) |
+| **艺术** Arts | 3 | 8 | 3 | [arts](arts/README.md) |
+| **认知系统工程** Cognitive Systems Engineering | 28 | 27 | 16 | [cognitive-systems](cognitive-systems/README.md) |
 
 > **宗教领域 76 概念** 含 19 个佛教认知理论专章 + 16 部经典独立深度条目（详见下文专题）。**39 个 Skill** 含 15 个佛教认知专项 Skill + 3 个佛教冥想实践 Skill + 7 个佛学院方法论 Skill。
 
-完整索引见 [INDEX.md](./INDEX.md) ｜ 标签词典见 [TAGS.md](./TAGS.md)。
+完整索引见 [INDEX.md](INDEX.md) ｜ 标签词典见 [TAGS.md](TAGS.md)。
 
 ---
 
 ## 🌟 佛教认知理论体系（旗舰专题）
 
-在 `domains/religion/buddhism/concepts/cognitive-theory/` 下，本仓库对**佛教的认知科学与认识论资源**做了目前全库最深的专题化整理：
+在 `religion/buddhism/concepts/cognitive-theory/` 下，本仓库对**佛教的认知科学与认识论资源**做了目前全库最深的专题化整理：
 
 ### 内容结构
 
@@ -81,10 +81,10 @@
 
 ### 入口导航
 
-- **总入口**：[`domains/religion/buddhism/INDEX.md`](./domains/religion/buddhism/INDEX.md) 第 5 层
-- **认知理论目录**：[`concepts/cognitive-theory/README.md`](./domains/religion/buddhism/concepts/cognitive-theory/README.md)（含 9 主题认知地图表）
-- **代表概念**：[量论](./domains/religion/buddhism/concepts/cognitive-theory/pramana.md) · [三性](./domains/religion/buddhism/concepts/cognitive-theory/three-natures.md) · [转识成智](./domains/religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) · [公案机制](./domains/religion/buddhism/concepts/cognitive-theory/koan-mechanics.md)
-- **代表 Skill**：[八识诊断](./domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md) · [三性诊断](./domains/religion/buddhism/concepts/cognitive-theory/skills/three-natures-diagnosis/SKILL.md) · [缘起链追溯](./domains/religion/buddhism/concepts/cognitive-theory/skills/dependent-origination-tracing/SKILL.md) · [五蕴解构](./domains/religion/buddhism/concepts/cognitive-theory/skills/five-aggregates-deconstruction/SKILL.md)
+- **总入口**：[`religion/buddhism/INDEX.md`](religion/buddhism/INDEX.md) 第 5 层
+- **认知理论目录**：[`concepts/cognitive-theory/README.md`](religion/buddhism/concepts/cognitive-theory/README.md)（含 9 主题认知地图表）
+- **代表概念**：[量论](religion/buddhism/concepts/cognitive-theory/pramana.md) · [三性](religion/buddhism/concepts/cognitive-theory/three-natures.md) · [转识成智](religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) · [公案机制](religion/buddhism/concepts/cognitive-theory/koan-mechanics.md)
+- **代表 Skill**：[八识诊断](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md) · [三性诊断](religion/buddhism/skills/three-natures-diagnosis/SKILL.md) · [缘起链追溯](religion/buddhism/skills/dependent-origination-tracing/SKILL.md) · [五蕴解构](religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md)
 
 ### 与当代对话的接口
 
@@ -111,56 +111,40 @@ open-cognition/
 ├── CONTRIBUTING.md             # 贡献指南
 ├── index.json                  # 机器可读索引
 │
-├── domains/                    # 知识条目主体
-│   ├── philosophy/             # 哲学（28 思想家 / 8 概念）
-│   │   ├── README.md
-│   │   ├── schools/<流派>/<思想家>.md
-│   │   └── concepts/<概念>.md
-│   ├── religion/               # 宗教（含佛教认知专题）
-│   │   ├── README.md
-│   │   ├── traditions/<传统>/<条目>.md
-│   │   ├── concepts/<跨传统概念>.md
-│   │   └── buddhism/           # 🌟 佛教认知理论专题（旗舰）
-│   │       ├── INDEX.md · README.md
-│   │       ├── core-concepts/ · schools/ · masters/ · sutras/
-│   │       └── concepts/cognitive-theory/（19 概念 + 15 Skill）
-│   ├── sociology/              # 社会学
-│   ├── psychology/             # 心理学
-│   ├── ethics-politics/        # 伦理与政治哲学
-│   ├── aesthetics/             # 美学
-│   ├── literature/             # 文学
-│   ├── arts/                   # 艺术
-│   └── cognitive-systems/      # 认知系统工程
+├── philosophy/                 # 哲学（42 思想家 / 8 概念 / 19 Skills）
+│   ├── README.md
+│   ├── schools/<流派>/<思想家>.md
+│   ├── concepts/<概念>.md
+│   └── skills/<skill>/SKILL.md
+├── religion/                   # 宗教（含佛教认知专题）
+│   ├── README.md
+│   ├── traditions/<传统>/<条目>.md
+│   ├── concepts/<跨传统概念>.md
+│   ├── skills/<skill>/SKILL.md
+│   ├── religion/wisdom-masters/         # 高僧心法（操作化蒸馏）
+│   └── buddhism/               # 佛教认知理论专题（旗舰）
+│       ├── INDEX.md · README.md
+│       ├── concepts/（foundational/ · cognitive-theory/ · standalone/）
+│       ├── schools/ · masters/ · sutras/ · treatises/
+│       └── skills/（15 佛教认知专项 Skill）
+├── sociology/                  # 社会学
+├── psychology/                 # 心理学
+├── ethics-politics/            # 伦理与政治哲学
+├── aesthetics/                 # 美学
+├── literature/                 # 文学
+├── arts/                       # 艺术
+├── cognitive-systems/          # 认知系统工程
 │
-├── skills/                     # 通用 Skills（按领域分组）
-│   ├── philosophy-frameworks/<skill>/SKILL.md
-│   ├── religion-frameworks/
-│   ├── sociology-frameworks/
-│   ├── psychology-frameworks/
-│   ├── ethics-politics-frameworks/
-│   ├── aesthetics-frameworks/
-│   ├── literature-frameworks/
-│   ├── arts-frameworks/
-│   └── cognitive-systems-frameworks/
-│
-├── wisdom-masters/             # 高僧心法（操作化蒸馏）
-│   ├── masters/<地区>/
-│   └── skills/<人物-主题>/
-│
-├── meta/                       # 元数据与规范
+├── _meta/                      # 元数据与配套
 │   ├── quality-criteria.md     # 质量标准
 │   ├── taxonomy.md             # 分类法
 │   ├── sources.md              # 引用源
 │   ├── templates/              # 思想家/概念/学派/Skill 模板
-│   └── logo/                   # 项目 Logo 与品牌资产
+│   ├── logo/                   # 项目 Logo 与品牌资产
+│   ├── visual/                 # 可视化与信息图
+│   └── reports/                # 阶段执行报告与审计
 │
-├── visual/                     # 可视化与信息图
-│   ├── infographic/            # Notion 风格信息图源文件与专题
-│   ├── cse/                    # 认知系统工程架构可视化
-│   ├── domain/                 # 各领域专属信息图（9 大领域）
-│   └── general/                # 综合信息图、Notion 风格大图、时间线
-│
-└── reports/                    # 阶段执行报告与审计
+└── .github/                    # GitHub 配置
 ```
 
 ---
@@ -171,19 +155,19 @@ open-cognition/
 
 固定结构：基本信息 / 核心命题 / 思想脉络 / 关键著作 / 重要概念 / 思想坐标 / 当代应用 / 常见误读 / 跨学科关联 / 进阶阅读 / 关联 Skills。
 
-例：[弗洛伊德](./domains/psychology/schools/psychoanalysis/freud.md) · [韦伯](./domains/sociology/schools/classical/weber.md) · [康德](./domains/philosophy/schools/german-idealism/kant.md) · [龙树](./domains/religion/buddhism/masters/nagarjuna.md) · [道元](./domains/religion/buddhism/masters/dogen.md)
+例：[弗洛伊德](psychology/schools/psychoanalysis/freud.md) · [韦伯](sociology/schools/classical/weber.md) · [康德](philosophy/schools/german-idealism/kant.md) · [龙树](religion/buddhism/masters/nagarjuna.md) · [道元](religion/buddhism/masters/dogen.md)
 
 ### 2. 概念 Concept
 
 固定结构：一句话定义 / 历史脉络 / 核心要义 / 通俗 vs 学术 / 与相关概念关系 / 代表思想家 / 应用场景 / 常见误读 / 跨学科关联 / 进阶阅读。
 
-例：[心流 Flow](./domains/psychology/concepts/flow.md) · [文化资本](./domains/sociology/concepts/cultural-capital.md) · [神圣性](./domains/religion/concepts/sacred.md) · [量论](./domains/religion/buddhism/concepts/cognitive-theory/pramana.md)
+例：[心流 Flow](psychology/concepts/flow.md) · [文化资本](sociology/concepts/cultural-capital.md) · [神圣性](religion/concepts/sacred.md) · [量论](religion/buddhism/concepts/cognitive-theory/pramana.md)
 
 ### 3. Skill
 
 agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时用/不用 + 理论基础 + 操作流程（Step 1–N） + 完整示例 + 反例。
 
-例：[CBT 认知扭曲识别](./skills/psychology-frameworks/cbt-cognitive-distortion/SKILL.md) · [布迪厄场域分析](./skills/sociology-frameworks/bourdieu-field-analysis/SKILL.md) · [四圣谛诊断](./skills/religion-frameworks/four-noble-truths-framework/SKILL.md) · [八识诊断](./domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md) · [五蕴解构](./domains/religion/buddhism/concepts/cognitive-theory/skills/five-aggregates-deconstruction/SKILL.md)
+例：[CBT 认知扭曲识别](./psychology/skills/cbt-cognitive-distortion/SKILL.md) · [布迪厄场域分析](./sociology/skills/bourdieu-field-analysis/SKILL.md) · [四圣谛诊断](./religion/skills/four-noble-truths-framework/SKILL.md) · [八识诊断](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md) · [五蕴解构](religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md)
 
 ---
 
@@ -191,10 +175,10 @@ agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时
 
 ### 给人类读者
 
-- **横向阅读**：选一个主题（如 [自我 Self](./INDEX.md#自我-self)），跨四个领域纵览不同视角。
+- **横向阅读**：选一个主题（如 [自我 Self](INDEX.md#自我-self)），跨四个领域纵览不同视角。
 - **纵向阅读**：从领域 README 进入流派，深度走完一个学派。
-- **专题阅读**：进入 [佛教认知专题](./domains/religion/buddhism/INDEX.md) 或 [CSE 专题](./domains/cognitive-systems/README.md)，系统性掌握一条轴线。
-- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断](./skills/psychology-frameworks/maslow-needs-diagnosis/SKILL.md)；认知卡点 → [八识诊断](./domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md)；叙事困住 → [三性诊断](./domains/religion/buddhism/concepts/cognitive-theory/skills/three-natures-diagnosis/SKILL.md)）。
+- **专题阅读**：进入 [佛教认知专题](religion/buddhism/INDEX.md) 或 [CSE 专题](cognitive-systems/README.md)，系统性掌握一条轴线。
+- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断](./psychology/skills/maslow-needs-diagnosis/SKILL.md)；认知卡点 → [八识诊断](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md)；叙事困住 → [三性诊断](religion/buddhism/skills/three-natures-diagnosis/SKILL.md)）。
 
 ### 给 AI Agent
 
@@ -214,13 +198,13 @@ tags: [...]
 
 ### 示例 Prompt
 
-> "用 [CBT 认知扭曲识别](./skills/psychology-frameworks/cbt-cognitive-distortion/SKILL.md) 分析下面这段独白：……"
+> "用 [CBT 认知扭曲识别](./psychology/skills/cbt-cognitive-distortion/SKILL.md) 分析下面这段独白：……"
 >
-> "把以下职场困境同时用 [马斯洛需求诊断](./skills/psychology-frameworks/maslow-needs-diagnosis/SKILL.md) 与 [布迪厄场域分析](./skills/sociology-frameworks/bourdieu-field-analysis/SKILL.md) 跑一遍。"
+> "把以下职场困境同时用 [马斯洛需求诊断](./psychology/skills/maslow-needs-diagnosis/SKILL.md) 与 [布迪厄场域分析](./sociology/skills/bourdieu-field-analysis/SKILL.md) 跑一遍。"
 >
-> "我反复陷入同一模式，请用 [种子模式分析](./domains/religion/buddhism/concepts/cognitive-theory/skills/bija-pattern-analysis/SKILL.md) 追溯它的熏习来源，并设计定向熏习方案。"
+> "我反复陷入同一模式，请用 [种子模式分析](religion/buddhism/skills/bija-pattern-analysis/SKILL.md) 追溯它的熏习来源，并设计定向熏习方案。"
 >
-> "这两条陈述看起来冲突，请用 [二谛重构](./domains/religion/buddhism/concepts/cognitive-theory/skills/two-truths-reframing/SKILL.md) 帮我识别它们分别在哪一谛层次成立。"
+> "这两条陈述看起来冲突，请用 [二谛重构](religion/buddhism/skills/two-truths-reframing/SKILL.md) 帮我识别它们分别在哪一谛层次成立。"
 
 ---
 
@@ -239,7 +223,7 @@ tags: [...]
 
 - ✅ **v0.1**：五领域基础骨架。
 - ✅ **v0.2**：六领域全面扩展 + 全球顶尖人物全量补充。
-- ✅ **v0.3**：文学家/文艺家全面融合。美学领域从 7 人扩展到 23 人；新增 `domains/literature/` 与 `domains/arts/`。
+- ✅ **v0.3**：文学家/文艺家全面融合。美学领域从 7 人扩展到 23 人；新增 `literature/` 与 `arts/`。
 - ✅ **v0.4**：新增**认知系统工程**领域——控制论（维纳/阿什比/西蒙）、生态心理学（吉布森/克拉克/瓦雷拉）、分布式认知（哈钦斯/恩格斯托姆/列昂捷夫）、认知系统工程（拉斯穆森/伍兹/诺曼）、自然决策（克莱因/维克/斯威勒）。
 - ✅ **v0.5**：CSE 领域深度扩展——新增安全科学学派（霍伦纳格/里森/德克尔）、自动化与社会技术学派（班布里奇/帕拉休拉曼/维森特）。新增宏观认知/团队认知/分布式态势感知/情境化认知 4 概念和 5 个 Skills。
 - ✅ **v0.6**：**佛教认知理论体系化**——新增 15 核心概念（量论、三性、种子、二谛、阿毗达磨心识论、缘起认知读法、五蕴认知读法等）+ 15 个专项 Skill + 4 篇禅修认知专题（止观、四念处、公案、默照）。深化 4 个核心文件（八识/转识成智/心物一元/中观）。18 部经 + 8 宗派 + 8 位大师皆增设 **Cognitive Architecture / Key Cognitive Contribution** 段。共新增 ~3600 行内容。
@@ -255,12 +239,12 @@ tags: [...]
 
 欢迎贡献新条目、修订误读、补充跨学科链接。请先阅读：
 
-- [CONTRIBUTING.md](./CONTRIBUTING.md) — 贡献流程
-- [meta/quality-criteria.md](./meta/quality-criteria.md) — 质量标准
-- [meta/taxonomy.md](./meta/taxonomy.md) — 分类法
-- [meta/sources.md](./meta/sources.md) — 引用源
-- [TAGS.md](./TAGS.md) — 标签与关联类型规范
-- [meta/templates/](./meta/templates/) — 各类型条目模板（thinker/concept/school/skill）
+- [CONTRIBUTING.md](CONTRIBUTING.md) — 贡献流程
+- [_meta/quality-criteria.md](./_meta/quality-criteria.md) — 质量标准
+- [_meta/taxonomy.md](./_meta/taxonomy.md) — 分类法
+- [_meta/sources.md](./_meta/sources.md) — 引用源
+- [TAGS.md](TAGS.md) — 标签与关联类型规范
+- [_meta/templates/](./_meta/templates/) — 各类型条目模板（thinker/concept/school/skill）
 
 ---
 

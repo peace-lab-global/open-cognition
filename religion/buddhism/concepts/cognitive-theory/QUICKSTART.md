@@ -1,0 +1,189 @@
+# 佛教认知理论 · 快速入口指南
+
+> 本文件按**读者身份**分流，帮你用最短路径进入最相关的内容。
+> 全景导航请见 [INDEX.md](./INDEX.md)；操作框架请见 [SKILLS.md](./SKILLS.md)；总览请见 [README.md](README.md)。
+
+---
+
+## 30 秒地图
+
+```
+                    ┌──────────────────────────┐
+                    │  你应该从哪里开始？        │
+                    └────────────┬─────────────┘
+                                 │
+     ┌───────────────┬───────────┼───────────┬───────────────┐
+     ▼               ▼           ▼           ▼               ▼
+ A. 心理治疗师    B. AI 研究者   C. 禅修者    D. 哲学学生    E. 佛学修行者
+  → 受念处         → 量论         → 止观分工   → 中观·空       → 八识体系
+  → 三性诊断       → 五蕴束论     → 四念处     → 二谛         → 转识成智
+  → 五蕴解构       → 公案机制     → 默照结构   → 量论         → 三性
+  → 缘起追溯       → 心所图谱     → 公案机制   → 三性         → 种子与熏习
+```
+
+---
+
+## A. 我是心理治疗师 / 教练
+
+**目标**：借用佛教的认知资源，深化对人的经验与改变机制的理解。
+
+### 必读 5 篇（按此顺序）
+
+| # | 概念 | 你将得到 |
+|---|------|----------|
+| 1 | [**十二因缘的认知读法**](dependent-origination-cognitive.md) | 把 12 支缘起读作一次认知事件的生成链；断点在"受→爱" |
+| 2 | [**五蕴的认知读法**](five-aggregates-cognitive.md) | "自我感"如何从五个并行过程中涌现；与休谟束论对话 |
+| 3 | [**三性**](three-natures.md) | 把"遍计所执"识别为叙事投射，回到"依他起"的事实 |
+| 4 | [**种子与熏习**](bija-vasana.md) | 认知惯性的形成与转化机制；"种子生现行，现行熏种子" |
+| 5 | [**四念处作为元认知**](satipatthana-cognitive.md) | 佛陀的元认知训练方案，ACT/MBCT/MBSR 的源头 |
+
+### 必用 3 个 Skill
+
+| Skill | 何时用 |
+|-------|--------|
+| [**三性诊断**](skills/three-natures-diagnosis/SKILL.md) | 来访者被某个叙事困住，"我对他的故事"远超事实 |
+| [**种子模式分析**](skills/bija-pattern-analysis/SKILL.md) | 来访者说"我总是…"，需要追溯熏习来源与转化路径 |
+| [**缘起链追溯**](skills/dependent-origination-tracing/SKILL.md) | 重复性困境（成瘾、情绪爆发），需要找到最上游的断点 |
+
+### 可选深化
+
+- [阿毗达磨心识论](abhidharma-mind.md) — 52 心所可做"情绪粒度"的古典资源
+- [八识体系](eight-consciousness.md) — 八识 + DMN 对话，为"自我参照"提供结构
+- [量论](pramana.md) — 评估来访者陈述的认知有效性
+
+---
+
+## B. 我是 AI / 认知科学研究者
+
+**目标**：从佛教认识论与心智分析中找概念资源与对话接口。
+
+### 必读 5 篇
+
+| # | 概念 | 你将得到 |
+|---|------|----------|
+| 1 | [**量论**](pramana.md) | 佛教的"何谓有效认知"——现量/比量/圣教量；与证伪主义、卡尔纳普对话 |
+| 2 | [**五蕴的认知读法**](five-aggregates-cognitive.md) | 束论、绑定问题、与丹尼特/帕菲特对话 |
+| 3 | [**阿毗达磨心识论**](abhidharma-mind.md) | 89 心 + 52 心所 + 心路过程；与 Barrett 情绪构造、Baars 全局工作空间对话 |
+| 4 | [**公案机制**](koan-mechanics.md) | 语义饱和、框架崩解、顿悟的γ波；与 Kounios & Beeman、维特根斯坦对话 |
+| 5 | [**心物一元**](mind-world.md) | 四分说 + 自证（svasaṃvedana）争议；与 HOT/SAME-order/现象学对话 |
+
+### 可选深化
+
+- [中观·空](madhyamaka.md) — 应成/自续分歧；与反本质主义、维特根斯坦对话
+- [八识体系](eight-consciousness.md) — 八识 ↔ DMN 假说
+- [种子与熏习](bija-vasana.md) — 种子 ↔ 预测编码 / 权重更新
+- [转识成智](consciousness-transformation.md) — 四智分项；与意识科学对话
+
+### 推荐 Agent 集成
+
+如果你在做 AI Agent，建议用 [**量论三量验证**](skills/pramana-validation/SKILL.md) 作为 RAG 系统中的"有效性判断层"。详见 [../../AGENT.md](../../AGENT.md)。
+
+---
+
+## C. 我是禅修者
+
+**目标**：理解修行的认知机制，深化实修。
+
+### 必读 5 篇
+
+| # | 概念 | 你将得到 |
+|---|------|----------|
+| 1 | [**止观的认知分工**](samadhi-vipasyana.md) | 九住心 + 十六观智；FA + OM 双轨 |
+| 2 | [**四念处作为元认知**](satipatthana-cognitive.md) | 身/受/心/法四维；"受缘爱"的切断点 |
+| 3 | [**十二因缘的认知读法**](dependent-origination-cognitive.md) | 一次认知事件的完整生成链；刹那/连缚/长时三尺度 |
+| 4 | [**五蕴的认知读法**](five-aggregates-cognitive.md) | 无我 = 不应把五蕴认同为我 |
+| 5 | 按传承选一：[**公案机制**](koan-mechanics.md)（临济） / [**默照结构**](silent-illumination.md)（曹洞） | 你的宗派对应的认知机制 |
+
+### 推荐深化
+
+- [八识体系](eight-consciousness.md) — 定位修行在哪一识层
+- [转识成智](consciousness-transformation.md) — 四智作为修行成就
+- [三性](three-natures.md) — 遍计→依他→圆成实的修行方向
+
+---
+
+## D. 我是哲学学生
+
+**目标**：把佛教作为哲学传统（认识论、形上学、心灵哲学）进入。
+
+### 必读 5 篇
+
+| # | 概念 | 你将得到 |
+|---|------|----------|
+| 1 | [**中观·空**](madhyamaka.md) | 龙树的二谛与四句破；含应成/自续分歧 |
+| 2 | [**二谛**](two-truths.md) | 世俗谛/胜义谛的双层框架；与康德、内格尔对话 |
+| 3 | [**量论**](pramana.md) | 陈那/法称的佛教认识论；因三相；与胡塞尔、维特根斯坦对话 |
+| 4 | [**三性**](three-natures.md) | 唯识对"空"的三层分析；与康德现象/物自身、海德格尔存在论差异对话 |
+| 5 | [**心物一元**](mind-world.md) | 四分说 + 自证论；与 HOT、现象学、自我模型论对话 |
+
+### 推荐深化
+
+- [五蕴的认知读法](five-aggregates-cognitive.md) — 束论、人格同一性
+- [公案机制](koan-mechanics.md) — 与德里达解构、维特根斯坦"不可说"对话
+- [默照结构](silent-illumination.md) — 与胡塞尔悬置、Zahavi 前反思自身意识对话
+
+---
+
+## E. 我是佛学修行者
+
+**目标**：系统性掌握佛教的认知理论体系，作为见地基础。
+
+### 必读 5 篇（按传统次第）
+
+| # | 概念 | 你将得到 |
+|---|------|----------|
+| 1 | [**八识体系**](eight-consciousness.md) | 唯识的认知结构基础；种子—现行互熏 |
+| 2 | [**转识成智**](consciousness-transformation.md) | 四智分项 + 转依（āśraya-parāvṛtti）机制 |
+| 3 | [**三性**](three-natures.md) | 唯识的三层认知模式 |
+| 4 | [**种子与熏习**](bija-vasana.md) | 修行的操作机制——定向熏习 |
+| 5 | [**中观·空**](madhyamaka.md) | 大乘见地的最高表达 |
+
+### 按宗派分流
+
+- **唯识**：八识 → 三性 → 种子 → 转识成智 → [解深密经](../sutras/sandhinirmocana-sutra.md)
+- **中观**：中观·空 → 二谛 → 量论 → [中论](../../../../../philosophy/schools/analytic/nagarjuna.md) 研究
+- **天台**：八识 → 三性 → [天台](../schools/tiantai.md) 的三谛圆融
+- **华严**：心物一元 → [华严](../schools/huayan.md) 的法界四层
+- **禅**：七处征心 → 公案 → 默照 → [六祖坛经](../sutras/platform-sutra.md)
+- **净土**：八识 → [净土](../schools/pure-land.md) 的他力认知
+- **密**：八识 → 心物一元 → [密乘](../schools/vajrayana.md) 的三密相应
+
+---
+
+## 下一步：选一个 Skill 开始用
+
+佛教认知专题提供 15 个 Skill，每个都有完整的操作流程、提问范式、完整示例与反例。建议：
+
+1. **第一次用**：从 [八识认知诊断](skills/eight-consciousness-diagnosis/SKILL.md) 开始——最通用
+2. **想拆自我叙事**：[三性诊断](skills/three-natures-diagnosis/SKILL.md)
+3. **想追溯习惯**：[种子模式分析](skills/bija-pattern-analysis/SKILL.md)
+4. **想评估认知**：[量论三量验证](skills/pramana-validation/SKILL.md)
+5. **想松绑自我认同**：[五蕴解构](skills/five-aggregates-deconstruction/SKILL.md)
+
+完整 Skill 列表见 [SKILLS.md](./SKILLS.md)（待建）或 [README.md](README.md) 的"认知地图"表。
+
+---
+
+## 给 AI Agent 的入口
+
+如果你是 AI Agent（Qoder、Claude、Cursor 等），请读 [../../AGENT.md](../../AGENT.md)。其中代表 Skill 调用示例：
+
+- 认知卡点诊断 → [八识诊断](skills/eight-consciousness-diagnosis/SKILL.md)
+- 叙事剥离 → [三性诊断](skills/three-natures-diagnosis/SKILL.md)
+- 习惯溯源 → [种子分析](skills/bija-pattern-analysis/SKILL.md)
+- 认知评估 → [量论验证](skills/pramana-validation/SKILL.md)
+- 视角协调 → [二谛重构](skills/two-truths-reframing/SKILL.md)
+- 自我松绑 → [五蕴解构](skills/five-aggregates-deconstruction/SKILL.md)
+- 困境追溯 → [缘起追溯](skills/dependent-origination-tracing/SKILL.md)
+
+---
+
+## 阅读路径汇总
+
+| 读者 | 入门 5 篇 | 首选 Skill |
+|------|----------|------------|
+| **A. 心理治疗师** | 十二因缘 → 五蕴 → 三性 → 种子 → 四念处 | 三性诊断、种子分析、缘起追溯 |
+| **B. AI / 认知研究者** | 量论 → 五蕴 → 阿毗达磨 → 公案 → 心物一元 | 量论验证 |
+| **C. 禅修者** | 止观 → 四念处 → 十二因缘 → 五蕴 → 宗派专篇 | 默照/公案 |
+| **D. 哲学学生** | 中观 → 二谛 → 量论 → 三性 → 心物一元 | 二谛重构 |
+| **E. 佛学修行者** | 八识 → 转识成智 → 三性 → 种子 → 中观 | 八识诊断 |

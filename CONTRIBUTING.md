@@ -3,13 +3,13 @@
 欢迎为 open-cognition 提交内容。本指南规定环境、流程、格式与质量要求。
 
 > 📚 **配套文件**
-> - 项目全貌：[README.md](./README.md) / [README.en.md](./README.en.md)
-> - AI Agent 接入：[AGENT.md](./AGENT.md)
-> - 标签词典：[TAGS.md](./TAGS.md)
-> - 模板库：[meta/templates/](./meta/templates/)
-> - 质量标准：[meta/quality-criteria.md](./meta/quality-criteria.md)
-> - 引用源规范：[meta/sources.md](./meta/sources.md)
-> - 许可：[LICENSE](./LICENSE) (CC BY-SA 4.0)
+> - 项目全貌：[README.md](README.md) / [README.en.md](README.en.md)
+> - AI Agent 接入：[AGENT.md](AGENT.md)
+> - 标签词典：[TAGS.md](TAGS.md)
+> - 模板库：[_meta/templates/](./_meta/templates/)
+> - 质量标准：[_meta/quality-criteria.md](./_meta/quality-criteria.md)
+> - 引用源规范：[_meta/sources.md](./_meta/sources.md)
+> - 许可：[LICENSE](LICENSE) (CC BY-SA 4.0)
 
 ---
 
@@ -50,7 +50,7 @@ pip install pyyaml
 4. **修订错误**：纠正事实性错误、引用错误、翻译歧义
 5. **基础设施**：脚本、CI、模板、README 改进
 
-请使用匹配的 GitHub issue 模板（见 [.github/ISSUE_TEMPLATE/](./.github/ISSUE_TEMPLATE/)）：
+请使用匹配的 GitHub issue 模板（见 [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE)）：
 - 报 bug → `bug-report.yml`
 - 提内容建议 → `content-proposal.yml`
 
@@ -58,17 +58,17 @@ pip install pyyaml
 
 ## 三、写作流程
 
-1. 选择模板：从 [meta/templates/](./meta/templates/) 复制匹配模板
+1. 选择模板：从 [_meta/templates/](./_meta/templates/) 复制匹配模板
 2. 填写必填字段（见下文 frontmatter 规范）
-3. 按 [TAGS.md](./TAGS.md) 规范打标
+3. 按 [TAGS.md](TAGS.md) 规范打标
 4. 至少添加 2 条权威引用（原典或重要二手研究）
-5. 如条目涉及其他领域，按 [TAGS.md 关联类型](./TAGS.md#关联类型-relation-types) 标注互链
-6. 在 [INDEX.md](./INDEX.md) 对应位置增加链接（如 INDEX.md 仍手工维护）
+5. 如条目涉及其他领域，按 [TAGS.md 关联类型](TAGS.md#关联类型-relation-types) 标注互链
+6. 在 [INDEX.md](INDEX.md) 对应位置增加链接（如 INDEX.md 仍手工维护）
 7. **本地自检**：
    ```bash
    python3 scripts/lint.py --strict path/to/your/file.md
    ```
-8. 提交 PR（使用 [.github/PULL_REQUEST_TEMPLATE.md](./.github/PULL_REQUEST_TEMPLATE.md)）
+8. 提交 PR（使用 [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md)）
 
 ---
 
@@ -128,7 +128,7 @@ tags: [<标签>]
 - **概念**：`concepts/<概念英文小写连字符>.md`
   - 例：`dialectics.md` `cultural-capital.md` `five-aggregates-cognitive.md`
 - **Skill**：`<领域>-frameworks/<skill-id>/SKILL.md`
-  - 例：`skills/psychology-frameworks/cbt-cognitive-distortion/SKILL.md`
+  - 例：`psychology/skills/cbt-cognitive-distortion/SKILL.md`
 
 ---
 
@@ -138,7 +138,7 @@ tags: [<标签>]
 - **二手文献**：作者《书名》(出版年)，出版社
 - **学术论文**：作者，论文标题，期刊名 卷(期), 出版年
 - 中译本须同时标注原文标题与译者
-- 详见 [meta/sources.md](./meta/sources.md)
+- 详见 [_meta/sources.md](./_meta/sources.md)
 
 ---
 
@@ -150,17 +150,17 @@ tags: [<标签>]
 - 争议性观点必须呈现至少两方立场
 - 每个思想家/概念条目必须含 `## 常见误读` 段
 - 每个条目必须含 `## 跨学科关联` 段，且至少 1 条跨域链接
-- 详见 [meta/quality-criteria.md](./meta/quality-criteria.md)
+- 详见 [_meta/quality-criteria.md](./_meta/quality-criteria.md)
 
 ---
 
 ## 八、Skill 撰写要求
 
-详见 [meta/templates/skill-template.md](./meta/templates/skill-template.md)。每个 Skill 必须：
+详见 [_meta/templates/skill-template.md](./_meta/templates/skill-template.md)。每个 Skill 必须：
 - 使用 YAML frontmatter（name、description、triggers）
 - 包含明确的"何时使用 / 何时不使用"
 - 提供 1 个完整使用示例与 1 个反例
-- 链接到 `domains/` 下对应的理论条目
+- 链接到对应领域目录下相关的理论条目
 - 操作流程分 Step 1..N，每步含"提问范式"
 
 ---
@@ -186,7 +186,7 @@ tags: [<标签>]
 
 ## 十、PR 审核标准
 
-由维护者按 [meta/quality-criteria.md](./meta/quality-criteria.md) 审核，重点检查：
+由维护者按 [_meta/quality-criteria.md](./_meta/quality-criteria.md) 审核，重点检查：
 1. 事实准确性
 2. 引用可靠性
 3. 标签合规性
@@ -211,7 +211,7 @@ tags: [<标签>]
 ## 十一、License
 
 通过提交 PR，你确认：
-- 你的贡献按 [CC BY-SA 4.0](./LICENSE) 授权
+- 你的贡献按 [CC BY-SA 4.0](LICENSE) 授权
 - 你有权授权该内容
 - 引用内容符合合理使用原则
 

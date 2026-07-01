@@ -1,0 +1,193 @@
+---
+id: mckinsey-method
+title: 麦肯锡方法 · McKinsey Method
+type: concept
+domain: cognitive-systems
+school: management-consulting
+era: 20世纪中叶至今
+tags:
+  - 结构化思维
+  - 问题解决
+  - 决策分析
+  - 咨询方法论
+aliases:
+  - 麦肯锡思考法
+  - 麦肯锡分析法
+  - McKinsey Problem Solving
+sources:
+  - Barbara Minto, The Pyramid Principle (1987)
+  - Ethan Rasiel & Paul Friga, The McKinsey Way (1999)
+  - Charles Conn & Paul D. Roberts, Bulletproof Problem Solving (2019)
+---
+
+# 麦肯锡方法
+
+## 一句话定义
+
+麦肯锡方法是麦肯锡咨询公司在长期实践中形成的结构化问题解决框架，以 MECE 分解、假设驱动和金字塔沟通为三大支柱，将复杂问题系统性地拆解为可分析、可验证、可执行的子任务。
+
+## 提出者与背景
+
+- **首要提出者**：McKinsey & Company 历代顾问群体（Marvin Bower、Barbara Minto 等）
+- **历史语境**：20世纪中叶，管理咨询行业兴起，需要一套可复制、可传授的问题解决与沟通方法论
+- **针对的问题**：如何在有限时间与不完整信息下，为客户提供高质量、可执行的建议
+
+## 核心要义
+
+### 三大支柱
+
+1. **MECE 原则（Mutually Exclusive, Collectively Exhaustive）**：将问题拆解为相互独立、完全穷尽的子问题，确保不重叠、不遗漏
+2. **假设驱动（Hypothesis-Driven）**：先提出初步假设，再用数据验证或推翻，避免无目的的数据挖掘
+3. **金字塔原则（Pyramid Principle）**：先给结论，再用分组论点支撑，论点下再放数据证据
+
+### 关键论点
+
+1. 所有复杂问题都可以被结构化拆解
+2. 先假设后验证比先收集后归纳更高效
+3. 80/20 法则：80% 的影响来自 20% 的原因，应聚焦关键杠杆
+4. 每个分析必须回答 "So What?"——对最终结论有何意义
+5. 沟通应以终为始（Answer-First），先结论后论据
+
+### 论证结构
+
+```
+核心问题
+  ├── 子问题 A（MECE 分解）
+  │   ├── 假设 A1 → 数据验证 → 结论
+  │   └── 假设 A2 → 数据验证 → 结论
+  ├── 子问题 B
+  │   └── ...
+  └── 子问题 C
+      └── ...
+        ↓
+  综合结论（金字塔顶端）
+```
+
+## 问题解决七步法
+
+| 步骤 | 名称 | 核心动作 |
+|------|------|----------|
+| 1 | 定义问题 | 用 SMART 原则明确"我们到底要解决什么" |
+| 2 | 分解问题 | 用逻辑树（Logic Tree）将问题拆解为 MECE 子问题 |
+| 3 | 优先排序 | 用 80/20 法则剪枝，聚焦影响最大的分支 |
+| 4 | 制定计划 | 明确每个子问题需要的数据、负责人、时间节点 |
+| 5 | 关键分析 | 收集数据、验证假设，做定量/定性分析 |
+| 6 | 综合建议 | 将分析结果整合为可执行的方案 |
+| 7 | 沟通呈现 | 用金字塔原则构建叙事，推动决策 |
+
+## 常用分析工具
+
+### 逻辑树（Logic Tree）
+
+将问题按因果关系层层拆解：
+
+```
+利润下降
+├── 收入下降
+│   ├── 销量下降（哪些产品？哪些区域？）
+│   └── 价格下降（竞争加剧？折扣扩大？）
+└── 成本上升
+    ├── 固定成本上升（租金？人力？）
+    └── 变动成本上升（原材料？物流？）
+```
+
+### Issue Tree vs. Hypothesis Tree
+
+- **Issue Tree**：拆解"问题是什么"（What）——穷尽所有可能的问题维度
+- **Hypothesis Tree**：拆解"可能的原因和验证路径"（Why + How）——针对假设设计验证方案
+
+### 经典框架工具箱
+
+| 框架 | 适用场景 | 核心维度 |
+|------|----------|----------|
+| **3C 分析** | 战略定位 | Company（公司）、Customer（客户）、Competitor（竞争者） |
+| **7S 模型** | 组织诊断 | Strategy、Structure、System、Shared Values、Skills、Staff、Style |
+| **价值链分析** | 竞争优势 | 从原材料到终端，逐环节分析价值创造 |
+| **BCG 矩阵** | 产品组合 | 市场增长率 × 市场份额 → 明星/金牛/问号/瘦狗 |
+| **五力模型** | 行业分析 | 供应商、买家、替代品、新进入者、现有竞争 |
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|------|----------|----------|
+| MECE | "分类不重不漏" | 集合论中的划分（partition）在问题空间上的应用 |
+| 假设驱动 | "先猜答案再找证据" | 溯因推理（Abduction）与科学方法论在商业场景的迁移 |
+| 金字塔原则 | "先说结论" | 信息论中的层次化编码，认知心理学中的工作记忆限制应对 |
+| 80/20 | "抓重点" | 帕累托分布（Pareto Distribution）在管理决策中的应用 |
+
+## 与相关概念的关系
+
+- **同源**：[有限理性](./bounded-rationality.md) — 共享"人在有限信息与认知能力下做决策"的前提
+- **同源**：[心智模型](./mental-model.md) — 框架本身即是一种心智模型的外化工具
+- **关联**：[意义建构](./sensemaking.md) — 面对模糊情境时的结构化理解过程
+- **同族**：[第一性原理思维](./first-principles-thinking.md) — MECE 分解可视为第一性原理在商业场景的操作化
+- **同族**：[系统思维](./systems-thinking.md) — MECE 是系统分析的静态快照
+- **同族**：[设计思维](./design-thinking.md) — 分析型（麦肯锡）vs 探索型（设计思维）的互补范式
+- **同族**：[水平思考](./lateral-thinking.md) — MECE 是垂直思考的极致，水平思考负责发现盲区
+- **同族**：[逆向思维](./inversion-thinking.md) — 逆向思维填充 MECE 树的"失败分支"
+- **同族**：[二阶思维](./second-order-thinking.md) — MECE 拆解一阶结构，二阶思维追问动态连锁
+- **同族**：[贝叶斯思维](./bayesian-thinking.md) — 假设驱动 + 贝叶斯更新 = 更严谨的验证循环
+- **同族**：[批判性思维](./critical-thinking.md) — 结构化分析需要批判性思维来检验每个层级
+- **同族**：[OODA 循环](./ooda-loop.md) — 麦肯锡适合深度分析，OODA 适合时间压力下的快速迭代
+- **同族**：[奥卡姆剃刀](./occams-razor.md) — MECE 分解后，用奥卡姆剃刀剔除多余假设
+- **同族**：[Cynefin 框架](./cynefin-framework.md) — Cynefin 帮你判断“这个问题适不适合用麦肯锡方法”
+- **同族**：[苏格拉底诘问](./socratic-questioning.md) — 诘问法与假设驱动在追问逻辑上一脉相承
+- **同族**：[根因分析](./root-cause-analysis.md) — MECE 拆解问题结构，5 Whys 在每条分支上追溯因果深度
+- **派生**：各类咨询方法论（BCG 矩阵、Bain 的 NPS 等）均受此思路影响
+
+## 代表思想家
+
+- **Barbara Minto** — 金字塔原则的提出者，将麦肯锡的沟通方法论系统化
+- **Marvin Bower** — 麦肯锡现代文化的奠基者，确立了以事实为基础、以客户利益为先的咨询伦理
+- **Kenichi Ohmae（大前研一）** — 将麦肯锡方法引入亚洲，著有《思考的技术》
+
+## 应用场景
+
+- **商业咨询**：客户问题的诊断、战略建议、运营优化
+- **学术研究**：论文选题的结构化拆解、文献综述的 MECE 组织
+- **产品设计**：用户需求的层次化分析、功能优先级的 80/20 排序
+- **日常决策**：将个人选择拆解为可评估的维度，避免认知偏差
+- **团队沟通**：汇报、提案、复盘时采用 Answer-First 结构
+
+## 关键思维方式
+
+| 思维 | 说明 |
+|------|------|
+| **So What?** | 每个分析都必须回答"所以呢？对结论有什么影响？" |
+| **80/20 法则** | 聚焦 20% 的关键杠杆，放弃对 80% 次要因素的执念 |
+| **电梯测试** | 能否在 30 秒内向决策者说清楚结论？如果不能，说明还没想清楚 |
+| **不接受"没有想法"** | 每个问题都必须有初步假设，哪怕粗糙 |
+| **事实为基** | 所有结论必须有数据或事实支撑，不靠直觉下判断 |
+
+## 常见误读
+
+- **误读 1**："MECE 就是列清单" — MECE 强调的是逻辑划分而非简单罗列，每个层级都应有明确的分类标准
+- **误读 2**："假设驱动是拍脑袋" — 假设需要基于初步事实和经验形成，然后用严格方法验证，不是随意猜测
+- **误读 3**："金字塔原则只是写作技巧" — 其本质是思维结构，先想清楚再表达，而非单纯的排版格式
+- **误读 4**："框架可以替代判断力" — 框架是辅助工具，最终的洞察和建议质量仍依赖分析者的经验与直觉
+
+## 跨学科关联
+
+- [认知负荷](./cognitive-load.md) `[理论支撑]` MECE 分解降低工作记忆负担
+- [有限理性](./bounded-rationality.md) `[理论前提]` 承认决策者的信息与认知局限
+- [意义建构](./sensemaking.md) `[过程相似]` 从混沌信息中构建可理解的结构
+
+## 进阶阅读
+
+### 原典
+- Barbara Minto, *The Pyramid Principle: Logic in Writing, Thinking and Problem Solving* (1987/2010)
+- Ethan Rasiel & Paul Friga, *The McKinsey Way* (1999)
+
+### 方法论文本
+- Charles Conn & Paul D. Roberts, *Bulletproof Problem Solving: The One Skill That Differentiates Everyone* (2019)
+- 大前研一,《思考的技术》
+
+### 相关领域
+- [系统思维](./systems-thinking.md)（Systems Thinking）
+- [设计思维](./design-thinking.md)（Design Thinking）
+- [批判性思维](./critical-thinking.md)（Critical Thinking）
+- [第一性原理思维](./first-principles-thinking.md)（First Principles Thinking）
+- [OODA 循环](./ooda-loop.md)（OODA Loop）
+- [奥卡姆剃刀](./occams-razor.md)（Occam's Razor）
+- [Cynefin 框架](./cynefin-framework.md)（Cynefin Framework）
+- [根因分析](./root-cause-analysis.md)（Root Cause Analysis）

@@ -20,7 +20,7 @@
 | Files deleted |  |
 | Domains touched |  |
 
-<!-- Example: "3 files added, 2 modified, domains/philosophy + domains/psychology" -->
+<!-- Example: "3 files added, 2 modified, philosophy + psychology" -->
 
 ## Checklist
 

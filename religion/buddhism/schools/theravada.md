@@ -1,0 +1,127 @@
+---
+id: religion.buddhism.school.theravada
+title: 上座部 Theravāda
+type: concept
+domain: religion
+school: buddhism-theravada
+era: ancient
+tags: [上座部, 四谛, 三十七道品, 阿罗汉, 巴利三藏]
+aliases: [Theravada, 南传佛教, 小乘, 声闻乘]
+sources: [巴利三藏, 清净道论, 阿毗达摩]
+---
+
+# 上座部 Theravāda
+
+## 一句话定义
+
+**上座部**是现存最接近早期佛教的传承，以巴利三藏（Pāli Canon）为唯一权威，以四圣谛、三十七道品、阿罗汉果为核心，流行于斯里兰卡、缅甸、泰国、柬埔寨、老挝。
+
+## 历史脉络
+
+- **公元前 3 世纪**：第三次结集后，摩哂陀（Mahinda）将佛法传入斯里兰卡。
+- **公元前 1 世纪**：巴利三藏首次文字化（斯里兰卡阿卢寺）。
+- **5 世纪**：**觉音论师**（Buddhaghosa）著《清净道论》统一注释传统。
+- **11–13 世纪**：斯里兰卡上座部反向影响东南亚，取代当地大乘与密教。
+- **19 世纪至今**：上座部成为全球内观（Vipassanā）运动的源头。
+
+## 核心要义
+
+### 1. 四圣谛
+苦、集、灭、道——佛教的诊断—处方框架（详见 [four-noble-truths](../../traditions/buddhism/four-noble-truths.md)）。
+
+### 2. 三十七道品（Bodhipakkhiyādhammā）
+七组三十七项修行要素：
+- 四念处、四正勤、四神足
+- 五根、五力
+- 七觉支
+- 八正道
+
+### 3. 三学
+**戒·定·慧**（详见 [three-trainings](../concepts/foundational/three-trainings.md)）是上座部修行的总纲。
+
+### 4. 四果位
+预流果 → 一来果 → 不还果 → **阿罗汉果**（解脱的最高果位）
+
+### 5. 三法印
+无常（anicca）、苦（dukkha）、无我（anattā）——详见 [three-marks](../concepts/foundational/three-marks.md)。
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "小乘佛教" | "Hīnayāna" 是大乘对早期部派的贬称；上座部自称为 Theravāda（长老之言） |
+| "只度自己" | 上座部也强调慈悲；只是菩萨道不是必须 |
+| "原始佛教" | 上座部是**部派佛教**的传承，非完全等同于佛陀时代 |
+| "只读阿含经" | 完整巴利三藏含经、律、论 |
+
+## 与相关概念的关系
+
+- [四圣谛](../../traditions/buddhism/four-noble-truths.md) — [下位] 上座部核心
+- [大乘佛教](madhyamaka.md)、[唯识](yogacara.md) — [发展/张力] 大乘批判声闻为"小乘"
+- [内观禅修](../concepts/foundational/three-trainings.md) — [下位] 上座部的现代延伸
+- [印度教业与轮回](../../traditions/hinduism/karma-samsara.md) — [对立] 佛教否认梵我
+
+## 代表思想家
+
+- **觉音 Buddhaghosa**（5 c.）：《清净道论》作者
+- **阿努楼陀 Anuruddha**（10–11 c.）：《摄阿毗达摩义论》
+- **马哈希 Mahasi Sayadaw**（1904–1982）：现代内观运动
+- **阿姜查 Ajahn Chah**（1918–1992）：泰国森林传统
+- **帕奥禅师 Pa-Auk Sayadaw**（1934–）：当代禅修大师
+
+## 应用场景
+
+- **正念运动 MBSR/MBCT**：上座部内观的现代医学转化
+- **心理学**：注意训练、情绪调节
+- **比较宗教学**：与基督教修道传统对话
+- **哲学**：无我（anattā）与现象学、分析哲学的对话
+
+## 常见误读
+
+- ❌ "上座部 = 小乘" → 这是大乘的贬称，现代学术不用。
+- ❌ "阿罗汉是自私" → 阿罗汉以慈悲教化众生，只是不立"度尽众生"誓愿。
+- ❌ "只适合东南亚" → 上座部禅修在全球广泛传播。
+- ❌ "上座部 = 原始佛教" → 上座部是**一部派**的传承，非佛陀时代的完整复刻。
+
+## 跨学科关联
+
+- [涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) — [互补] 僧团的社会整合
+- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 禅修作为自我技术
+- [荣格 · 个体化](../../../psychology/schools/analytical-psychology/jung.md) — [张力] 自我消融 vs 自我整合
+- [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) — [对照] 戒律作为行为塑造
+
+## Cognitive Architecture
+
+上座部拥有佛教传统中最系统化的认知训练体系，以"观察-分析-解脱"为路径：
+
+| 认知模块 | 巴利文 | 功能描述 |
+|---|---|---|
+| 三十七菩提分 | Bodhipakkhiyā dhammā | 完整的认知训练清单 |
+| 四念处 | Satipaṭṭhāna | 元认知训练框架 |
+| 内观 | Vipassanā | 过程观察法 |
+| 阿毗达摩心识论 | Abhidhamma-citta | 心刹那分析 |
+
+- **三十七菩提分（Bodhipakkhiyā dhammā）作为认知训练体系**：七组三十七项——四念处（元觉知）、四正勤（注意调控）、四神足（动机管理）、五根五力（认知能力）、七觉支（觉醒要素）、八正道（整合路径）——构成从基础到高级的完整认知训练课程，可类比为认知的"课程大纲"。
+- **四念处（Satipaṭṭhāna）作为元认知训练**：身念处（身体觉知）、受念处（情感觉知）、心念处（心理状态觉知）、法念处（认知内容觉知）——四重觉知对象构成系统的元认知（metacognitive）训练，即对"认知过程本身"的持续观察。
+- **内观（Vipassanā）与过程观察**：内观的核心不是观察"什么"，而是观察"如何"——现象如何生起、如何变化、如何灭去。这是一种过程导向的认知模式，不同于对象导向的概念化认知，类似于从"快照"模式切换到"视频"模式。
+- **[阿毗达摩](../concepts/cognitive-theory/abhidharma-mind.md)心刹那理论**：上座部阿毗达摩将认知分解为一系列极短暂的"心刹那"（citta-khaṇa），每一刹那包含心（citta）与心所（cetasika），这是对意识流的时间微结构分析——可与现代认知科学的时间分辨率研究（temporal resolution）对话。
+
+**跨领域参照**：四念处的元认知训练与 [正念减压 MBSR](../../../psychology/concepts/mindfulness.md) 构成直接传承关系，阿毗达摩的心刹那分析可与 [威廉·詹姆斯的意识流理论](../../../psychology/schools/functionalism/james.md) 比较。详见 [五蕴认知](../concepts/cognitive-theory/five-aggregates-cognitive.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
+
+## 进阶阅读
+
+**原典（中译）**
+- 《巴利三藏》（元亨寺南传大藏经）
+- 觉音《清净道论》（中国佛教协会）
+
+**研究**
+- Rupert Gethin《The Foundations of Buddhism》
+- Richard Gombrich《Theravāda Buddhism》
+
+**入门**
+- 菩提比丘《佛法概要》
+- Walpola Rahula《佛陀的启示》（What the Buddha Taught）
+
+## 关联 Skills
+
+- [四圣谛框架分析](../../skills/four-noble-truths-framework/SKILL.md)

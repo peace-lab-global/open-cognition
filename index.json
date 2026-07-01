@@ -2,9 +2,9 @@
   "version": "v0.6",
   "generated": "2026-06-23",
   "stats": {
-    "entries": 433,
-    "skills": 126,
-    "total": 559,
+    "entries": 415,
+    "skills": 15,
+    "total": 430,
     "domains": [
       "aesthetics",
       "arts",
@@ -3161,21 +3161,6 @@
       ]
     },
     {
-      "path": "domains/psychology/schools/cognitive/kahneman.md",
-      "id": "psychology.cognitive.kahneman",
-      "title": "卡尼曼 Daniel Kahneman",
-      "type": "thinker",
-      "domain": "psychology",
-      "school": "cognitive",
-      "tags": [
-        "双系统",
-        "启发式",
-        "认知偏差",
-        "前景理论",
-        "行为经济学"
-      ]
-    },
-    {
       "path": "domains/psychology/schools/cognitive/kohlberg.md",
       "id": "kohlberg",
       "title": "科尔伯格 · Lawrence Kohlberg",
@@ -3556,22 +3541,6 @@
       ]
     },
     {
-      "path": "domains/psychology/schools/psychoanalysis/adler.md",
-      "id": "psychology.psychoanalysis.adler",
-      "title": "阿德勒 Alfred Adler",
-      "type": "thinker",
-      "domain": "psychology",
-      "school": "psychoanalysis",
-      "tags": [
-        "自卑情结",
-        "目的论",
-        "社会兴趣",
-        "个体心理学",
-        "生活风格",
-        "课题分离"
-      ]
-    },
-    {
       "path": "domains/psychology/schools/psychoanalysis/freud.md",
       "id": "freud",
       "title": "西格蒙德·弗洛伊德 · Sigmund Freud",
@@ -3583,22 +3552,6 @@
         "潜意识",
         "人格结构",
         "防御机制"
-      ]
-    },
-    {
-      "path": "domains/psychology/schools/psychoanalysis/jung.md",
-      "id": "psychology.psychoanalysis.jung",
-      "title": "荣格 Carl Gustav Jung",
-      "type": "thinker",
-      "domain": "psychology",
-      "school": "psychoanalysis",
-      "tags": [
-        "集体无意识",
-        "原型",
-        "个体化",
-        "阴影",
-        "共时性",
-        "分析心理学"
       ]
     },
     {
@@ -3900,7 +3853,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/abhidharma-mind-mapping/SKILL.md",
+      "path": "domains/religion/buddhism/skills/abhidharma-mind-mapping/SKILL.md",
       "id": "SKILL",
       "title": "abhidharma-mind-mapping",
       "type": "skill",
@@ -3914,7 +3867,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/baihuan-bianjian-naming/SKILL.md",
+      "path": "domains/religion/buddhism/skills/baihuan-bianjian-naming/SKILL.md",
       "id": "SKILL",
       "title": "baihuan-bianjian-naming",
       "type": "skill",
@@ -3928,7 +3881,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/bija-pattern-analysis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/bija-pattern-analysis/SKILL.md",
       "id": "SKILL",
       "title": "bija-pattern-analysis",
       "type": "skill",
@@ -3942,7 +3895,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/consciousness-transformation-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/consciousness-transformation-diagnosis/SKILL.md",
       "id": "SKILL",
       "title": "consciousness-transformation-diagnosis",
       "type": "skill",
@@ -3956,7 +3909,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/dependent-origination-tracing/SKILL.md",
+      "path": "domains/religion/buddhism/skills/dependent-origination-tracing/SKILL.md",
       "id": "SKILL",
       "title": "dependent-origination-tracing",
       "type": "skill",
@@ -3970,7 +3923,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/diamond-sutra-no-dwelling/SKILL.md",
+      "path": "domains/religion/buddhism/skills/diamond-sutra-no-dwelling/SKILL.md",
       "id": "SKILL",
       "title": "diamond-sutra-no-dwelling",
       "type": "skill",
@@ -3985,7 +3938,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md",
       "id": "SKILL",
       "title": "eight-consciousness-diagnosis",
       "type": "skill",
@@ -3999,7 +3952,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/five-aggregates-deconstruction/SKILL.md",
+      "path": "domains/religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md",
       "id": "SKILL",
       "title": "five-aggregates-deconstruction",
       "type": "skill",
@@ -4013,7 +3966,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/madhyamaka-four-fallacies/SKILL.md",
+      "path": "domains/religion/buddhism/skills/madhyamaka-four-fallacies/SKILL.md",
       "id": "SKILL",
       "title": "madhyamaka-four-fallacies",
       "type": "skill",
@@ -4028,7 +3981,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/mind-world-analysis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/mind-world-analysis/SKILL.md",
       "id": "SKILL",
       "title": "mind-world-analysis",
       "type": "skill",
@@ -4043,7 +3996,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/pramana-validation/SKILL.md",
+      "path": "domains/religion/buddhism/skills/pramana-validation/SKILL.md",
       "id": "SKILL",
       "title": "pramana-validation",
       "type": "skill",
@@ -4057,7 +4010,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/qichu-zhengxin-deconstruction/SKILL.md",
+      "path": "domains/religion/buddhism/skills/qichu-zhengxin-deconstruction/SKILL.md",
       "id": "SKILL",
       "title": "qichu-zhengxin-deconstruction",
       "type": "skill",
@@ -4072,7 +4025,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/six-constituents-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/six-constituents-diagnosis/SKILL.md",
       "id": "SKILL",
       "title": "six-constituents-diagnosis",
       "type": "skill",
@@ -4086,7 +4039,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/three-natures-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/three-natures-diagnosis/SKILL.md",
       "id": "SKILL",
       "title": "three-natures-diagnosis",
       "type": "skill",
@@ -4100,7 +4053,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/two-truths-reframing/SKILL.md",
+      "path": "domains/religion/buddhism/skills/two-truths-reframing/SKILL.md",
       "id": "SKILL",
       "title": "two-truths-reframing",
       "type": "skill",
@@ -4200,7 +4153,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/anatman.md",
+      "path": "domains/religion/buddhism/concepts/foundational/anatman.md",
       "id": "religion.buddhism.concept.anatman",
       "title": "无我 Anātman",
       "type": "concept",
@@ -4215,7 +4168,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/bodhisattva-path.md",
+      "path": "domains/religion/buddhism/concepts/foundational/bodhisattva-path.md",
       "id": "religion.buddhism.core.bodhisattva-path",
       "title": "菩萨道 Bodhisattva Path",
       "type": "concept",
@@ -4229,7 +4182,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/buddha-nature.md",
+      "path": "domains/religion/buddhism/concepts/foundational/buddha-nature.md",
       "id": "religion.buddhism.core.buddha-nature",
       "title": "佛性 Buddha Nature",
       "type": "concept",
@@ -4243,7 +4196,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/dependent-origination.md",
+      "path": "domains/religion/buddhism/concepts/foundational/dependent-origination.md",
       "id": "religion.buddhism.core.dependent-origination",
       "title": "缘起 Dependent Origination",
       "type": "concept",
@@ -4256,7 +4209,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/dhutanga.md",
+      "path": "domains/religion/buddhism/concepts/foundational/dhutanga.md",
       "id": "dhutanga",
       "title": "十二头陀行",
       "type": "concept",
@@ -4271,7 +4224,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/doctrinal-classification.md",
+      "path": "domains/religion/buddhism/concepts/foundational/doctrinal-classification.md",
       "id": "religion.buddhism.core.doctrinal-classification",
       "title": "判教 Doctrinal Classification",
       "type": "concept",
@@ -4285,7 +4238,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/eighteen-dhatu.md",
+      "path": "domains/religion/buddhism/concepts/foundational/eighteen-dhatu.md",
       "id": "religion.buddhism.concept.eighteen-dhatu",
       "title": "十八界 Aṣṭādaśa Dhātu",
       "type": "concept",
@@ -4299,7 +4252,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/five-aggregates.md",
+      "path": "domains/religion/buddhism/concepts/foundational/five-aggregates.md",
       "id": "religion.buddhism.core.five-aggregates",
       "title": "五蕴 Five Aggregates",
       "type": "concept",
@@ -4313,7 +4266,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/four-fearlessnesses.md",
+      "path": "domains/religion/buddhism/concepts/foundational/four-fearlessnesses.md",
       "id": "four-fearlessnesses",
       "title": "四无所畏",
       "type": "concept",
@@ -4328,7 +4281,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/four-immeasurables.md",
+      "path": "domains/religion/buddhism/concepts/foundational/four-immeasurables.md",
       "id": "religion.buddhism.core.four-immeasurables",
       "title": "四无量心 Four Immeasurables",
       "type": "concept",
@@ -4341,7 +4294,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/four-reliances.md",
+      "path": "domains/religion/buddhism/concepts/foundational/four-reliances.md",
       "id": "religion.buddhism.core.four-reliances",
       "title": "四依四不依 Four Reliances",
       "type": "concept",
@@ -4356,7 +4309,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/four-seals.md",
+      "path": "domains/religion/buddhism/concepts/foundational/four-seals.md",
       "id": "religion.buddhism.concept.four-seals",
       "title": "四法印 Catvāri Dharma-mudrāni",
       "type": "concept",
@@ -4372,7 +4325,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/hundred-dharmas.md",
+      "path": "domains/religion/buddhism/concepts/foundational/hundred-dharmas.md",
       "id": "religion.buddhism.core.hundred-dharmas",
       "title": "百法明门 Hundred Dharmas",
       "type": "concept",
@@ -4387,7 +4340,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/karma-rebirth.md",
+      "path": "domains/religion/buddhism/concepts/foundational/karma-rebirth.md",
       "id": "religion.buddhism.core.karma-rebirth",
       "title": "业与轮回 Karma & Rebirth",
       "type": "concept",
@@ -4401,7 +4354,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/middle-way.md",
+      "path": "domains/religion/buddhism/concepts/foundational/middle-way.md",
       "id": "religion.buddhism.core.middle-way",
       "title": "中道 Middle Way",
       "type": "concept",
@@ -4414,7 +4367,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/nine-abidings.md",
+      "path": "domains/religion/buddhism/concepts/foundational/nine-abidings.md",
       "id": "religion.buddhism.concept.nine-abidings",
       "title": "九住心 Navākārā Cit sthitiḥ",
       "type": "concept",
@@ -4429,7 +4382,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/nirvana.md",
+      "path": "domains/religion/buddhism/concepts/foundational/nirvana.md",
       "id": "religion.buddhism.core.nirvana",
       "title": "涅槃 Nirvāṇa",
       "type": "concept",
@@ -4442,7 +4395,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/noble-eightfold-path.md",
+      "path": "domains/religion/buddhism/concepts/foundational/noble-eightfold-path.md",
       "id": "religion.buddhism.core.noble-eightfold-path",
       "title": "八正道 Noble Eightfold Path",
       "type": "concept",
@@ -4456,7 +4409,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/pancavidya.md",
+      "path": "domains/religion/buddhism/concepts/foundational/pancavidya.md",
       "id": "religion.buddhism.core.pancavidya",
       "title": "五明 Pañcavidyā",
       "type": "concept",
@@ -4472,7 +4425,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/samatha-vipasyana.md",
+      "path": "domains/religion/buddhism/concepts/foundational/samatha-vipasyana.md",
       "id": "religion.buddhism.core.samatha-vipasyana",
       "title": "止观 Śamatha-Vipaśyanā",
       "type": "concept",
@@ -4487,7 +4440,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/six-paramitas.md",
+      "path": "domains/religion/buddhism/concepts/foundational/six-paramitas.md",
       "id": "religion.buddhism.core.six-paramitas",
       "title": "六度 Six Pāramitās",
       "type": "concept",
@@ -4505,7 +4458,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/sunyata.md",
+      "path": "domains/religion/buddhism/concepts/foundational/sunyata.md",
       "id": "religion.buddhism.concept.sunyata",
       "title": "空性 Śūnyatā",
       "type": "concept",
@@ -4520,7 +4473,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/tathagatagarbha.md",
+      "path": "domains/religion/buddhism/concepts/foundational/tathagatagarbha.md",
       "id": "religion.buddhism.core.tathagatagarbha",
       "title": "如来藏 Tathāgatagarbha",
       "type": "concept",
@@ -4535,7 +4488,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/thirty-seven-factors.md",
+      "path": "domains/religion/buddhism/concepts/foundational/thirty-seven-factors.md",
       "id": "religion.buddhism.concept.thirty-seven-factors",
       "title": "三十七道品 Bodhipakkhiyā-dhammā",
       "type": "concept",
@@ -4550,7 +4503,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-jewels.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-jewels.md",
       "id": "religion.buddhism.core.three-jewels",
       "title": "三宝 Three Jewels",
       "type": "concept",
@@ -4564,7 +4517,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-liberations.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-liberations.md",
       "id": "religion.buddhism.concept.three-liberations",
       "title": "三解脱门 Trīṇi Vimokṣa-mukhāni",
       "type": "concept",
@@ -4579,7 +4532,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-marks.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-marks.md",
       "id": "religion.buddhism.core.three-marks",
       "title": "三法印 Three Marks of Existence",
       "type": "concept",
@@ -4594,7 +4547,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-poisons.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-poisons.md",
       "id": "religion.buddhism.concept.three-poisons",
       "title": "贪嗔痴 Three Poisons",
       "type": "concept",
@@ -4609,7 +4562,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-trainings.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-trainings.md",
       "id": "religion.buddhism.core.three-trainings",
       "title": "三学 Three Trainings",
       "type": "concept",
@@ -4622,7 +4575,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/three-vehicles.md",
+      "path": "domains/religion/buddhism/concepts/foundational/three-vehicles.md",
       "id": "religion.buddhism.concept.three-vehicles",
       "title": "三乘 Trini Yānāni",
       "type": "concept",
@@ -4638,7 +4591,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/trikaya.md",
+      "path": "domains/religion/buddhism/concepts/foundational/trikaya.md",
       "id": "religion.buddhism.concept.trikaya",
       "title": "三身 Trikāya",
       "type": "concept",
@@ -4653,7 +4606,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/twelve-ayatana.md",
+      "path": "domains/religion/buddhism/concepts/foundational/twelve-ayatana.md",
       "id": "religion.buddhism.concept.twelve-ayatana",
       "title": "十二处 Dvādaśa Āyatana",
       "type": "concept",
@@ -4668,7 +4621,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/two-obstacles.md",
+      "path": "domains/religion/buddhism/concepts/foundational/two-obstacles.md",
       "id": "religion.buddhism.concept.two-obstacles",
       "title": "二障 Dve Āvaraṇe",
       "type": "concept",
@@ -4683,7 +4636,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/two-truths.md",
+      "path": "domains/religion/buddhism/concepts/foundational/two-truths.md",
       "id": "religion.buddhism.core.two-truths",
       "title": "二谛 Two Truths",
       "type": "concept",
@@ -4698,7 +4651,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/upaya.md",
+      "path": "domains/religion/buddhism/concepts/foundational/upaya.md",
       "id": "religion.buddhism.concept.upaya",
       "title": "方便 Upāya",
       "type": "concept",
@@ -4713,7 +4666,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/vijnaptimatrata.md",
+      "path": "domains/religion/buddhism/concepts/foundational/vijnaptimatrata.md",
       "id": "religion.buddhism.concept.vijnaptimatrata",
       "title": "唯识 Vijñaptimātratā",
       "type": "concept",
@@ -4728,7 +4681,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/core-concepts/vinaya-studies.md",
+      "path": "domains/religion/buddhism/concepts/foundational/vinaya-studies.md",
       "id": "religion.buddhism.core.vinaya-studies",
       "title": "戒律学 Vinaya Studies",
       "type": "concept",
@@ -7862,7 +7815,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/abhidharma-mind-mapping/SKILL.md",
+      "path": "domains/religion/buddhism/skills/abhidharma-mind-mapping/SKILL.md",
       "name": "abhidharma-mind-mapping",
       "description": "以阿毗达磨心所分类为框架，对当下经验做精细的\"心所图谱\"——识别哪些心所正在主导（贪/嗔/痴/信/念/慧等）、心路过程处于哪个阶段（转向/领受/推度/速行）、以及如何通过培养善心所对治不善心所。Triggers on 需要精细识别当下心理状态、情绪粒度不足、或想通过正念标注深化内观。",
       "domain": "religion",
@@ -7874,7 +7827,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/baihuan-bianjian-naming/SKILL.md",
+      "path": "domains/religion/buddhism/skills/baihuan-bianjian-naming/SKILL.md",
       "name": "baihuan-bianjian-naming",
       "description": "八还辨见法用于帮助当事人区分\"所见\"（变化）与\"能见\"（常住）——把一切\"所见\"归还其来源，最后认出能见之性本身。Triggers on 当事人被情绪/念头淹没、需要从\"在变化中\"切换到\"观者位置\"的场景。",
       "domain": "religion",
@@ -7886,7 +7839,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/bija-pattern-analysis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/bija-pattern-analysis/SKILL.md",
       "name": "bija-pattern-analysis",
       "description": "以唯识种子与熏习理论为框架，识别当下认知或行为模式背后的种子类型（名言/业）、其熏习来源（过去经验的固化）、以及转化路径（定向熏习以弱化旧种子、强化新种子）。Triggers on 重复出现的模式、难以改变的习惯、\"我总是...\"类的自我陈述、或希望重塑认知习惯。",
       "domain": "religion",
@@ -7898,7 +7851,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/consciousness-transformation-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/consciousness-transformation-diagnosis/SKILL.md",
       "name": "consciousness-transformation-diagnosis",
       "description": "转识成智诊断法，用于定位来访者的认知模式在八识结构中的层次，并判断转化的可能方向——是前五识（感知）、第六识（思维）、第七识（我执）还是第八识（种子）需要转化。Triggers on 需要进行深度认知工作、需要进行次第性修行规划、或需要判断来访者在哪个修道阶段场景。",
       "domain": "religion",
@@ -7910,7 +7863,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/dependent-origination-tracing/SKILL.md",
+      "path": "domains/religion/buddhism/skills/dependent-origination-tracing/SKILL.md",
       "name": "dependent-origination-tracing",
       "description": "以十二因缘为认知链地图，追溯当下困境的生成过程——从\"无明\"的认知盲区开始，沿\"行、识、名色、六入、触、受、爱、取、有、生、老死\"逐支回溯，定位关键断点（特别是\"受缘爱\"），并在该处介入正念以切断连锁。Triggers on 重复性困境想追溯根源、成瘾或强迫性行为、或希望通过内观看见经验的生成过程。",
       "domain": "religion",
@@ -7922,7 +7875,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/diamond-sutra-no-dwelling/SKILL.md",
+      "path": "domains/religion/buddhism/skills/diamond-sutra-no-dwelling/SKILL.md",
       "name": "diamond-sutra-no-dwelling",
       "description": "金刚经\"无住\"心法用于破除\"心有所执\"——不是否定现象，是不应住相；应无所住而生其心。Triggers on 当事人执著于\"必须得到什么\"、焦虑于\"失去什么\"、或陷入\"如梦幻泡影\"的虚无主义场景。",
       "domain": "religion",
@@ -7935,7 +7888,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/eight-consciousness-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md",
       "name": "eight-consciousness-diagnosis",
       "description": "瑜伽师地论八识体系用于诊断认知结构——从前五识（感知层）到第六意识（思维层）、第七末那识（我执层）、第八阿赖耶识（种子层），定位认知卡点所在层次。Triggers on 当事人认知模式不清晰、反复在同一点卡住、需要系统性认知诊断的场景。",
       "domain": "religion",
@@ -7947,7 +7900,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/five-aggregates-deconstruction/SKILL.md",
+      "path": "domains/religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md",
       "name": "five-aggregates-deconstruction",
       "description": "以五蕴（色受想行识）为框架，将\"我很 X\"式的实体化自我陈述解构为五个并行的过程维度——看见\"自我感\"如何从过程束中涌现，从而松绑对\"我\"的固着。Triggers on \"我是...\"式的自我认同、\"我撑不住了\"式的实体化困境、或需要深化内观的\"无我\"练习。",
       "domain": "religion",
@@ -7959,7 +7912,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/madhyamaka-four-fallacies/SKILL.md",
+      "path": "domains/religion/buddhism/skills/madhyamaka-four-fallacies/SKILL.md",
       "name": "madhyamaka-four-fallacies",
       "description": "中观\"四句破\"法，用于破除当事人的边见——常见（实有）、断见（虚无）、一异（同一/分离）、来去（来/去）。Triggers on 当事人陷入\"必须怎样\"或\"一切都无意义\"、非黑即白思维、需要打破极端二元对立场景。",
       "domain": "religion",
@@ -7972,7 +7925,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/mind-world-analysis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/mind-world-analysis/SKILL.md",
       "name": "mind-world-analysis",
       "description": "唯识\"心物一元\"分析法，用于诊断来访者\"心\"与\"境\"的关系——是心随境转，还是境随心现？通过四分结构（相分/见分/自证分/证自证分）定位认知错位。Triggers on 当事人把外部事件当成\"客观压力\"、觉得\"环境决定我的情绪\"、或陷入\"都是别人的问题\"场景。",
       "domain": "religion",
@@ -7985,7 +7938,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/pramana-validation/SKILL.md",
+      "path": "domains/religion/buddhism/skills/pramana-validation/SKILL.md",
       "name": "pramana-validation",
       "description": "以佛教量论（陈那、法称）为框架，评估一个陈述或认知的有效性——判断其属于现量（直接感知）、比量（推理）还是圣教量（权威陈述），并检验其是否满足有效认知的条件（离分别、不错乱、因三相）。Triggers on 需要评估某信息的可信度、需要厘清\"我是怎么知道的\"、或要处理不同来源认知之间的冲突。",
       "domain": "religion",
@@ -7997,7 +7950,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/qichu-zhengxin-deconstruction/SKILL.md",
+      "path": "domains/religion/buddhism/skills/qichu-zhengxin-deconstruction/SKILL.md",
       "name": "qichu-zhengxin-deconstruction",
       "description": "七处征心法用于破除当事人\"心有所住\"的实体化认知——心不在内、不在外、不在中间、不在任何一处。Triggers on 当事人执著于\"我的心在某事/某人/某处\"、将情绪或念头对象化为实体的场景。",
       "domain": "religion",
@@ -8010,7 +7963,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/six-constituents-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/six-constituents-diagnosis/SKILL.md",
       "name": "six-constituents-diagnosis",
       "description": "六根六尘六识诊断法，用于精准定位认知卡点在根（感官）、尘（对象）、还是识（认知功能）层。Triggers on 当事人感知扭曲、认知错位、需要区分\"感知问题\"、\"思维问题\"、\"意识问题\"的场景。",
       "domain": "religion",
@@ -8022,7 +7975,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/three-natures-diagnosis/SKILL.md",
+      "path": "domains/religion/buddhism/skills/three-natures-diagnosis/SKILL.md",
       "name": "three-natures-diagnosis",
       "description": "以唯识三性（遍计所执、依他起、圆成实）为诊断框架，识别当前经验在哪一性上运作，以及如何从遍计所执回归依他起、照见圆成实。Triggers on 经验被概念、叙事、投射严重扭曲；或需要在\"实有\"与\"虚无\"之间找到中道认知。",
       "domain": "religion",
@@ -8034,7 +7987,7 @@
       ]
     },
     {
-      "path": "domains/religion/buddhism/concepts/cognitive-theory/skills/two-truths-reframing/SKILL.md",
+      "path": "domains/religion/buddhism/skills/two-truths-reframing/SKILL.md",
       "name": "two-truths-reframing",
       "description": "以佛教二谛（世俗谛/胜义谛）为框架，帮助当事人在冲突的陈述之间切换视角——识别\"在什么层次上这是真的\"，避免范畴错置（把世俗当作胜义或反之）。Triggers on 两个看似冲突的陈述都为真、需要在\"事实\"与\"意义\"之间协调、或有人以\"绝对\"否定\"相对\"（或以\"相对\"否定\"绝对\"）。",
       "domain": "religion",

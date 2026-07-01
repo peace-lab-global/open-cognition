@@ -1,0 +1,80 @@
+---
+id: religion.buddhism.core.dependent-origination
+title: 缘起 Dependent Origination
+type: concept
+domain: religion
+school: buddhism-general
+era: ancient
+tags: [缘起, 十二因缘, pratityasamutpada]
+aliases: [Dependent Origination, 缘起法, 因缘法]
+sources: [巴利三藏, 《阿含经》, 《稻芉经》]
+---
+
+# 缘起 Dependent Origination
+
+## 一句话定义
+
+**缘起**（pratītyasamutpāda）是佛教的根本法则：**"此有故彼有，此生故彼生；此无故彼无，此灭故彼灭。"** 一切现象都是因缘条件和合的产物，没有独立自性的存在。
+
+## 核心要义
+
+### 1. 缘起公式
+> "此有故彼有，此生故彼生；此无故彼无，此灭故彼灭。"——《阿含经》
+
+### 2. 十二因缘（Dvādaśanidāna）
+无明 → 行 → 识 → 名色 → 六入 → 触 → 受 → 爱 → 取 → 有 → 生 → 老死
+
+顺观（流转）解释轮回如何生起；逆观（还灭）解释解脱如何实现。
+
+### 3. 缘起的多重维度
+- **业感缘起**（小乘）：业力牵引
+- **阿赖耶缘起**（唯识）：种子变现
+- **真如缘起**（华严）：真如随缘
+- **法界缘起**（华严）：重重无尽
+
+## 通俗 vs 学术
+
+| 通俗化版本 | 学术原意 |
+|---|---|
+| "缘起 = 缘分" | 是因果律，非浪漫化"缘分" |
+| "缘起 = 宿命论" | 缘起是可改变的，非宿命 |
+| "缘起 = 因果报应" | 缘起比因果更宽泛 |
+
+## 与相关概念的关系
+
+- [空性](../../traditions/buddhism/sunyata.md) — [互补] 缘起故空
+- [三法印 · 无我](three-marks.md) — [互补] 缘起故无我
+- [中道](middle-way.md) — [互补] 缘起即中道
+- [业与轮回](karma-rebirth.md) — [下位] 缘起的一种展开
+- [龙树](../masters/nagarjuna.md) — [发展] 中观深化缘起
+
+## 应用场景
+
+- **生态学**：万物互联
+- **系统理论**：缘起 = 复杂系统的涌现
+- **心理治疗**：条件性认知重构
+- **社会学**：社会结构的缘起观
+
+## 常见误读
+
+- ❌ "缘起 = 浪漫缘分" → 是严格的因果律。
+- ❌ "缘起 = 宿命" → 缘起可转，非宿命。
+- ❌ "缘起 = 无因论" → 缘起是有因的，不是偶然。
+
+## 跨学科关联
+
+- [休谟 · 因果](../../../philosophy/schools/empiricism/hume.md) — [平行] 因果分析
+- [系统科学] — [平行] 涌现
+- [量子力学] — [平行] 非局部性
+- [社会学 · 结构](../../../sociology/schools/structuralism/bourdieu.md) — [互补] 场域缘起
+
+## 进阶阅读
+
+**原典**
+- 《阿含经·缘起经》
+
+**研究**
+- Peter Harvey《An Introduction to Buddhism》
+
+**入门**
+- 菩提比丘《缘起法则》
