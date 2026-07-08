@@ -26,34 +26,78 @@ sources:
 ## 一句话定义
 叙事是人类理解世界和建构自我的基本方式——我们通过讲故事来组织经验、赋予意义、建构身份。叙事不只是文学形式，是认知的基本模式（Bruner），是时间经验的结构化（Ricoeur），是治疗的工具（White）。
 
+## 历史脉络
+
+```
+古典：亚里士多德《诗学》——叙事的情节(muthos)三一律
+    ↓
+近代：小说兴起，叙事作为市民社会的自我理解形式
+    ↓
+20世纪中：俄国形式主义/结构主义(普罗普、热奈特)——叙事的语法
+    ↓
+20世纪后期：Ricoeur 时间与叙事 · Bruner 叙事认知 · White 叙事治疗
+    ↓
+当代：数字叙事 · 计算叙事学 · 创伤叙事与见证伦理
+```
+
 ## 核心要义
 
 ### 叙事作为认知
 - Jerome Bruner 区分两种认知模式：范式思维（逻辑/科学）和叙事思维（故事/意义）
-- 人类天然用叙事来理解因果、动机和时间
+- 人类天然用叙事来理解因果、动机和时间——叙事思维是不可还原的独立模式
 
-### 叙事与身份
-- Paul Ricoeur："叙事身份"——我们通过讲述自己的故事来建构自我
-- 叙事不是对已有经历的记录，而是创造经历的意义
+### 叙事与时间(Ricoeur)
+- Paul Ricoeur：时间经验本身是"无形的"，只有通过叙事的情节化(emplotment)才被组织成可理解的三重模仿(mimesis1/2/3)
+- "叙事身份"——我们通过讲述自己的故事来建构一个相对稳定的自我
 
 ### 叙事治疗
-- Michael White：问题是外在于人的，人不是问题
-- "改写故事"——帮助来访者发现被问题叙事遮蔽的替代故事
+- Michael White & David Epston：问题是外在于人的，"人不是问题，问题才是问题"
+- "改写故事"——帮助来访者发现被问题叙事遮蔽的"独特结果"，重写主导叙事
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗理解 | 学术理解 |
+|------|----------|----------|
+| 是什么 | 讲故事、编造情节 | 人类组织经验、建构意义与身份的基本认知模式 |
+| 与虚构 | 叙事=虚构=不真实 | 历史叙事与虚构叙事共享情节化结构(Ricoeur)，都是意义的建构 |
+| 与权力 | 中立的记录 | 谁有权讲述什么故事本身就是政治(后殖民、女性主义叙事) |
+
+## 应用场景
+- **心理治疗与创伤康复**：叙事疗法帮助来访者外化问题、重写身份故事，对创伤后叙事重建尤为关键
+- **历史与集体记忆**：民族叙事如何塑造群体身份，历史书写如何选择性地情节化
+- **新闻与公共话语**：媒介叙事框架塑造公众对事件的理解与判断
+- **数字媒介与游戏**：互动叙事、分支叙事挑战古典情节的线性结构
 
 ## 与相关概念的关系
 - [创伤](../../psychology/concepts/trauma.md) `[互补]` 创伤打断叙事连续性，治疗是重建叙事
 - [巴特](../schools/literary-theory/barthes.md) `[互补]` 作者之死与读者创造叙事意义
+- [巴赫金](../schools/literary-theory/bakhtin.md) `[发展]` 复调叙事与多声部
 - [弗兰克尔](../../psychology/schools/existential-psychology/frankl.md) `[平行]` 意义疗法与人生叙事
 - [弗莱](../schools/literary-theory/frye.md) `[发展]` 叙事的原型结构
 
 ## 常见误读
-- **误读 1**：把叙事等同于"编故事"——叙事是认知方式，不等于虚构
-- **误读 2**：忽略叙事的权力维度——谁有权讲述什么故事是政治问题
+- ❌ "叙事就是编故事" → ✅ 叙事是认知方式，历史与自传都是叙事，不等于虚构
+- ❌ "叙事是中性的记录" → ✅ 谁有权讲述什么故事、如何情节化，本身是权力问题
+- ❌ "创伤只要讲出来就好" → ✅ 见证叙事需要安全的关系与语言，仓促讲述可能造成再创伤
+
+## 跨学科关联
+- [海德格尔](../../philosophy/schools/existentialism/heidegger.md) `[同源]` 此在的时间性与叙事的情节化共享时间结构
+- [怀特 · 叙事实践](../../psychology/schools/narrative-therapy/white.md) `[同源]` 叙事疗法的创立者
+- [哈贝马斯 · 交往理性](../../sociology/schools/critical/habermas.md) `[互补]` 公共领域的叙事交往
 
 ## 进阶阅读
-- Ricoeur, *Time and Narrative*
-- Bruner, *Actual Minds, Possible Worlds*
-- White & Epston, *Narrative Means to Therapeutic Ends*
+### 原典
+- Ricoeur, *Time and Narrative*, 3 vols. (1983–85)
+- Bruner, *Actual Minds, Possible Worlds* (1986)
+
+### 二手研究
+- White & Epston, *Narrative Means to Therapeutic Ends* (1990)
+- Genette, *Narrative Discourse* (1972) — 叙事学经典
+
+### 中文资源
+- 保罗·利科《时间与叙事》
+- 麦克·怀特《叙事治疗的力量》
 
 ## 关联 Skills
-- [荣格原型识别](../../../psychology/skills/jungian-archetype-identification/SKILL.md)
+- [荣格原型识别](../../psychology/skills/jungian-archetype-identification/SKILL.md)
+- [叙事实践](../../psychology/schools/narrative-therapy/white.md)

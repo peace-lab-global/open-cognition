@@ -96,3 +96,7 @@ cross_refs:
 ## 关联 Skills
 
 - [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md) — 基于康德四契机的分析框架
+
+## 专题整合
+
+- [康德专题：理性的三问与批判的统一](../../../research/03-kant/README.md) `[整合]` 跨认识论·伦理学·美学的三大批判统一研究

@@ -17,7 +17,7 @@
 ## 维度 2：流派 School
 
 ### 哲学
-`presocratic` `classical-greek` `hellenistic` `medieval-scholastic` `rationalism` `empiricism` `german-idealism` `existentialism` `phenomenology` `analytic` `pragmatism` `critical-theory` `confucian` `daoist` `buddhist-philosophy`
+`presocratic` `classical-greek` `hellenistic` `medieval-scholastic` `rationalism` `empiricism` `scottish-common-sense` `german-idealism` `existentialism` `phenomenology` `analytic` `pragmatism` `critical-theory` `confucian` `daoist` `buddhist-philosophy`
 
 ### 宗教
 `buddhism-theravada` `buddhism-mahayana` `buddhism-zen` `christianity-catholic` `christianity-protestant` `christianity-orthodox` `christianity-mysticism` `islam-sunni` `islam-shia` `sufism` `judaism-rabbinic` `judaism-kabbalah` `hinduism-vedanta` `taoism-religious` `taoism-philosophical`
@@ -45,7 +45,7 @@
 
 跨学科横向主题，用于 INDEX.md 横向索引：
 
-`epistemology` `ethics` `metaphysics` `ontology` `aesthetics` `political` `power` `self` `consciousness` `unconscious` `meaning` `suffering` `death` `freedom` `community` `language` `body` `time` `truth` `god-divine` `salvation` `liberation` `ritual` `sacred-profane` `social-structure` `social-action` `culture` `class` `gender` `modernity` `rationality` `motivation` `emotion` `cognition` `development` `personality` `therapy` `wellbeing` `bounded-rationality` `affordance` `cognitive-load` `situation-awareness` `distributed-cognition` `sensemaking` `mental-model` `resilience` `joint-cognitive-system` `predictive-processing` `enaction` `human-error` `system-design` `feedback` `autopoiesis` `macrocognition` `team-cognition` `distributed-SA` `situated-cognition` `safety-paradigm` `drift-into-failure` `normal-accidents` `safety-culture` `automation-bias` `automation-paradox` `out-of-the-loop` `ecological-interface-design` `cognitive-task-analysis` `just-culture` `human-reliability` `multiple-resources` `automation-autonomy` `STAMP` `STPA` `SAGAT` `supervisory-control`
+`epistemology` `ethics` `metaphysics` `ontology` `aesthetics` `political` `power` `self` `consciousness` `unconscious` `meaning` `suffering` `death` `freedom` `community` `language` `body` `time` `truth` `god-divine` `salvation` `liberation` `ritual` `sacred-profane` `social-structure` `social-action` `culture` `class` `gender` `modernity` `rationality` `motivation` `emotion` `cognition` `development` `personality` `therapy` `wellbeing` `direct-cognition` `bounded-rationality` `affordance` `cognitive-load` `situation-awareness` `distributed-cognition` `sensemaking` `mental-model` `resilience` `joint-cognitive-system` `predictive-processing` `enaction` `human-error` `system-design` `feedback` `autopoiesis` `macrocognition` `team-cognition` `distributed-SA` `situated-cognition` `safety-paradigm` `drift-into-failure` `normal-accidents` `safety-culture` `automation-bias` `automation-paradox` `out-of-the-loop` `ecological-interface-design` `cognitive-task-analysis` `just-culture` `human-reliability` `multiple-resources` `automation-autonomy` `STAMP` `STPA` `SAGAT` `supervisory-control`
 
 ---
 

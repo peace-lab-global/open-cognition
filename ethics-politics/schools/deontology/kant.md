@@ -102,3 +102,7 @@ sources:
 
 - [无知之幕分析](../../skills/veil-of-ignorance-analysis/SKILL.md)
 - [正义原则检验](../../skills/justice-principle-test/SKILL.md)
+
+## 专题整合
+
+- [康德专题：理性的三问与批判的统一](../../../research/03-kant/README.md) `[整合]` 跨认识论·伦理学·美学的三大批判统一研究

@@ -4,9 +4,9 @@ title: 文学 / Literature
 description: 小说、戏剧、散文、诗歌四大文体，收录对人类思想与文明进程有深远影响的文学家
 version: 1.0
 entries:
-  thinkers: 5
-  concepts: 0
-  skills: 0
+  thinkers: 13
+  concepts: 8
+  skills: 5
 ---
 
 # 文学 / Literature
@@ -41,12 +41,19 @@ literature/
 |------|------|-----------|----------|
 | [陀思妥耶夫斯基](schools/novelists/dostoevsky.md) | 长篇小说 | 19 世纪 / 现实主义 | 苦难与救赎，上帝存在与否的拷问，人的深渊 |
 | [卡夫卡](schools/novelists/kafka.md) | 短篇小说 | 20 世纪 / 现代主义 | 荒诞、异化、官僚迷宫，现代存在的寓言 |
+| [塞万提斯](schools/novelists/cervantes.md) | 长篇小说 | 16-17 世纪 / 巴洛克 | 现代小说之父，理想与现实的张力 |
+| [普鲁斯特](schools/novelists/proust.md) | 长篇小说 | 20 世纪 / 现代主义 | 意识流，非自主记忆，时间的哲学 |
+| [乔伊斯](schools/novelists/joyce.md) | 长篇小说 | 20 世纪 / 现代主义 | 意识流，语言的极限实验 |
 
 ### 剧作家 / Dramatists
 
 | 条目 | 文体 | 时代/流派 | 核心命题 |
 |------|------|-----------|----------|
 | [莎士比亚](schools/dramatists/shakespeare.md) | 戏剧 | 文艺复兴 | 人性的复杂光谱，命运与自由意志，语言的诗性力量 |
+| [索福克勒斯](schools/dramatists/sophocles.md) | 悲剧 | 古希腊 | 命运与认知的悖论，个体良知对抗城邦法则 |
+| [易卜生](schools/dramatists/ibsen.md) | 戏剧 | 19 世纪 / 现实主义 | 现代戏剧之父，社会问题剧 |
+| [布莱希特](schools/dramatists/brecht.md) | 史诗剧 | 20 世纪 / 现代主义 | 间离效果，史诗剧，剧场作为社会改造 |
+| [贝克特](schools/dramatists/beckett.md) | 荒诞剧场 | 20 世纪 / 后现代 | 等待与虚无，极简主义 |
 
 ### 散文家 / Essayists
 
@@ -59,6 +66,7 @@ literature/
 | 条目 | 文体 | 时代/流派 | 核心命题 |
 |------|------|-----------|----------|
 | [歌德](schools/poets/goethe.md) | 诗歌/诗剧 | 启蒙/浪漫/古典 | 浮士德精神，人性完整，自然与文化的统一 |
+| [惠特曼](schools/poets/whitman.md) | 自由诗 | 19 世纪 / 浪漫主义 | 民主精神与身体性，自由诗的革新 |
 
 ## 跨域关联 / Cross-Domain Links
 

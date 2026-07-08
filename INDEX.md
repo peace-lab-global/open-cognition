@@ -16,7 +16,8 @@
 - 理性论：[笛卡尔](philosophy/schools/rationalism/descartes.md) · [斯宾诺莎](philosophy/schools/rationalism/spinoza.md) · [莱布尼茨](philosophy/schools/rationalism/leibniz.md)
 - 现象学：[胡塞尔](philosophy/schools/phenomenology/husserl.md) · [梅洛-庞蒂](philosophy/schools/phenomenology/merleau-ponty.md)
 - 启蒙运动：[卢梭](philosophy/schools/enlightenment/rousseau.md)
-- 中世纪经院：[阿奎那](philosophy/schools/medieval-scholastic/aquinas.md)
+- 中世纪经院：[阿奎那](philosophy/schools/medieval-scholastic/aquinas.md) · [邓斯·司各脱 · 直觉认知](philosophy/schools/medieval-scholastic/scotus.md)
+- 苏格兰常识学派：[里德 · 直接实在论](philosophy/schools/scottish-common-sense/reid.md)
 - 实用主义：[杜威](philosophy/schools/pragmatism/dewey.md)
 - 政治哲学：[阿伦特](philosophy/schools/political-philosophy/arendt.md)
 - 东方哲学：[老子](philosophy/schools/eastern/laozi.md) · [孔子](philosophy/schools/eastern/confucius.md) · [庄子](philosophy/schools/eastern/zhuangzi.md)
@@ -103,6 +104,23 @@
 - 艺术思想：[达·芬奇 · 艺术即科学](aesthetics/schools/arts-thought/leonardo.md) · [爱森斯坦 · 蒙太奇](aesthetics/schools/arts-thought/eisenstein.md) · [凯奇 · 沉默](aesthetics/schools/arts-thought/cage.md)
 - 跨学派概念：[美](aesthetics/concepts/beauty.md) · [崇高](aesthetics/concepts/sublime.md) · [审美经验](aesthetics/concepts/aesthetic-experience.md) · [悲剧](aesthetics/concepts/tragedy.md) · [叙事](aesthetics/concepts/narrative.md) · [想象力](aesthetics/concepts/imagination.md) · [创造力](aesthetics/concepts/creativity.md)
 
+### 文学 Literature
+- [文学领域导览](literature/README.md)
+- 小说家：[陀思妥耶夫斯基 · 苦难与救赎](literature/schools/novelists/dostoevsky.md) · [卡夫卡 · 荒诞](literature/schools/novelists/kafka.md) · [塞万提斯 · 现代小说之父](literature/schools/novelists/cervantes.md) · [普鲁斯特 · 记忆与时间](literature/schools/novelists/proust.md) · [乔伊斯 · 意识流](literature/schools/novelists/joyce.md)
+- 剧作家：[莎士比亚 · 人性光谱](literature/schools/dramatists/shakespeare.md) · [索福克勒斯 · 命运悲剧](literature/schools/dramatists/sophocles.md) · [易卜生 · 现代戏剧](literature/schools/dramatists/ibsen.md) · [布莱希特 · 史诗剧](literature/schools/dramatists/brecht.md) · [贝克特 · 荒诞剧场](literature/schools/dramatists/beckett.md)
+- 散文家：[鲁迅 · 国民性批判](literature/schools/essayists/lu-xun.md)
+- 诗人：[歌德 · 浮士德精神](literature/schools/poets/goethe.md) · [惠特曼 · 自由诗](literature/schools/poets/whitman.md)
+- 跨文体概念：[细读](literature/concepts/close-reading.md) · [虚构性](literature/concepts/fictionality.md) · [文类](literature/concepts/genre.md) · [隐含读者](literature/concepts/implied-reader.md) · [互文性](literature/concepts/intertextuality.md) · [隐喻](literature/concepts/metaphor.md) · [叙事性](literature/concepts/narrativity.md) · [世界文学](literature/concepts/world-literature.md)
+- 文学 Skills：[人性洞察分析](literature/skills/human-nature-analysis/SKILL.md) · [浮士德精神分析](literature/skills/faustian-spirit-analysis/SKILL.md) · [苦难救赎分析](literature/skills/suffering-redemption-analysis/SKILL.md) · [荒诞分析](literature/skills/absurd-analysis/SKILL.md) · [国民性批判分析](literature/skills/national-character-criticism/SKILL.md)
+
+### 艺术 Arts
+- [艺术领域导览](arts/README.md)
+- 音乐：[贝多芬 · 苦难与超越](arts/schools/music/beethoven.md) · [巴赫 · 对位法建筑](arts/schools/music/bach.md) · [莫扎特 · 古典的完美](arts/schools/music/mozart.md) · [瓦格纳 · 总体艺术](arts/schools/music/wagner.md) · [肖邦 · 钢琴诗人](arts/schools/music/chopin.md)
+- 视觉艺术：[达·芬奇 · 艺术即科学](arts/schools/visual-arts/leonardo-da-vinci.md) · [梵高 · 色彩与情感](arts/schools/visual-arts/van-gogh.md) · [米开朗基罗 · 形体的崇高](arts/schools/visual-arts/michelangelo.md) · [毕加索 · 形式革命](arts/schools/visual-arts/picasso.md) · [莫奈 · 印象与光](arts/schools/visual-arts/monet.md)
+- 表演艺术：[爱森斯坦 · 蒙太奇](arts/schools/performing-arts/eisenstein.md)
+- 跨门类概念：[艺术作品](arts/concepts/artwork.md) · [构图](arts/concepts/composition.md) · [技艺](arts/concepts/craft.md) · [天才](arts/concepts/genius.md) · [媒介](arts/concepts/medium.md) · [再现](arts/concepts/representation.md) · [风格](arts/concepts/style.md) · [技法](arts/concepts/technique.md)
+- 艺术 Skills：[艺术与科学统一分析](arts/skills/art-science-unity-analysis/SKILL.md) · [苦难与艺术分析](arts/skills/suffering-art-analysis/SKILL.md) · [色彩与情感分析](arts/skills/color-emotion-analysis/SKILL.md)
+
 ### 认知系统工程 Cognitive Systems Engineering
 - [认知系统工程领域导览](cognitive-systems/README.md)
 - 控制论：[维纳 · 反馈与控制](cognitive-systems/schools/cybernetics/wiener.md) · [阿什比 · 必要多样性](cognitive-systems/schools/cybernetics/ashby.md) · [西蒙 · 有限理性](cognitive-systems/schools/cybernetics/simon.md)
@@ -150,6 +168,12 @@
 - 哲学：[康德 · 先验综合](philosophy/schools/german-idealism/kant.md) · [维特根斯坦 · 语言游戏](philosophy/schools/analytic/wittgenstein.md)
 - 心理学：[皮亚杰 · 图式](psychology/schools/cognitive/piaget.md) · [卡尼曼 · 双系统](psychology/schools/behavioral-economics/kahneman.md) · [达玛西奥 · 躯体标记](psychology/schools/cognitive/damasio.md)
 - 宗教：[佛教认知理论体系 · 八识/心物一元/转识成智](religion/buddhism/concepts/cognitive-theory/README.md)
+
+### 直接认知 Direct Cognition
+- 专题研究：[02-直接认知（心灵能否直抵世界）](research/02-direct-cognition/README.md)
+- 哲学：[里德 · 直接实在论](philosophy/schools/scottish-common-sense/reid.md) · [邓斯·司各脱 · 直觉认知](philosophy/schools/medieval-scholastic/scotus.md) · [罗素 · 亲知](philosophy/schools/analytic/russell.md) · [胡塞尔 · 直接给予](philosophy/schools/phenomenology/husserl.md) · [梅洛-庞蒂 · 身体主体](philosophy/schools/phenomenology/merleau-ponty.md)
+- 宗教：[量论 · 现量(直接感知/离分别)](religion/buddhism/concepts/cognitive-theory/pramana.md)
+- 认知系统：[吉布森 · 直接知觉](cognitive-systems/schools/ecological/gibson.md) · [可供性](cognitive-systems/concepts/affordance.md) · [生成认知](cognitive-systems/concepts/enaction.md) · [预测加工（直接性新争论）](cognitive-systems/concepts/predictive-processing.md)
 
 ### 伦理与德性 Ethics
 - 哲学：[亚里士多德 · 德性伦理](philosophy/schools/ancient-greek/aristotle.md) · [康德 · 定言命令](philosophy/schools/german-idealism/kant.md) · [孔子 · 仁](philosophy/schools/eastern/confucius.md)
@@ -405,3 +429,5 @@
 ## 四、课题研究 Research
 - [课题研究总览](research/README.md)
 - 01 [如何加强定力](research/01-cultivating-stability/README.md) — 汇聚佛教·儒学·道家·斯多亚·瑜伽·基督教·苏菲·心理学·认知科学的全球智慧
+- 02 [直接认知](research/02-direct-cognition/README.md) — 心灵能否直抵世界？横跨西方直接实在论(里德/司各脱/罗素/麦兜)·佛教现量(陈那/法称)·现象学(胡塞尔/梅洛-庞蒂/扎哈维)·生态心理学(吉布森)·生成认知的直接性谱系研究
+- 03 [康德专题](research/03-kant/README.md) — 理性的三问与批判的统一：横跨三大批判(纯粹理性批判/实践理性批判/判断力批判)，整合认识论·伦理学·美学的建筑术研究

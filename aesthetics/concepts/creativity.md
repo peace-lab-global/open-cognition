@@ -28,6 +28,20 @@ sources:
 ## 一句话定义
 创造力是产生新颖且有价值产物的能力。Wallas 的四阶段模型（准备→酝酿→顿悟→验证）是经典框架；Csikszentmihalyi 将创造力放在"个人—领域—社会"的系统中理解；Koestler 的"双联"(bisociation)理论认为创造力是两个不同思维框架的碰撞。
 
+## 历史脉络
+
+```
+古希腊：创造(ποιησις)属诗人，灵感来自缪斯——人只是神圣的通道
+    ↓
+中世纪：creatio ex nihilo 归于上帝，人的"制作"是次级的模仿
+    ↓
+近代：康德论"天才"——艺术是天才无意识规则的产物（《判断力批判》§46-49）
+    ↓
+现代：Wallas 四阶段(1926) → Koestler 双联(1964) → Csikszentmihalyi 系统模型(1988/96)
+    ↓
+当代：4P 框架(Person/Process/Product/Press) · 创新扩散 · 群体创造力
+```
+
 ## 核心要义
 
 ### Wallas 四阶段
@@ -44,25 +58,59 @@ sources:
 - **领域**：符号规则系统（如数学/音乐）
 - **社会**：选择哪些创新值得保留的守门人
 
+### Koestler 的双联(bisociation)
+- 创造力不是单一框架内的推理，而是两个不相关思维框架的碰撞
+- 笑话、科学发现、艺术隐喻共享同一深层结构：将分属不同矩阵的元素强行并置
+- "啊哈"瞬间是这种框架重组被识别的时刻
+
 ### 流状态与创造力
 - 心流是创造力的最佳状态：挑战略高于技能，即时反馈，全神贯注
 - 很多创造性突破发生在流状态中
 
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗理解 | 学术理解 |
+|------|----------|----------|
+| 本质 | 创造力是少数天才的神秘天赋 | 创造力是个人—领域—社会系统的可分析产物 |
+| 机制 | "灵光乍现"，无法训练 | 有可识别的阶段(准备→酝酿→顿悟→验证)与条件 |
+| 衡量 | "与众不同"即可 | 新颖性 + 价值性双标准(缺一不可) |
+
+## 应用场景
+- **教育与人才培养**：从"天赋筛选"转向"创造条件培育"，设计激发顿悟的学习环境
+- **组织创新**：建立"守门人"机制让好想法被识别，避免群体思维扼杀异端
+- **AI 与生成式工具**：人机协同中重新定义"新颖"——AI 的组合能力与人的价值判断如何分工
+- **科研与跨界**：刻意制造不同领域的"双联"机会(跨学科会议、类比训练)
+
 ## 与相关概念的关系
 - [心流](../../psychology/concepts/flow.md) `[同源]` 心流是创造力的最佳状态
 - [想象力](imagination.md) `[基础]` 想象力是创造力的认知前提
+- [康德美学 · 天才](../schools/german-aesthetics/kant-aesthetics.md) `[同源]` 康德的"天才"概念是现代创造力论述的源头
 - [荣格](../../psychology/schools/analytical-psychology/jung.md) `[互补]` 原型意象与创造性灵感
 - [马斯洛](../../psychology/schools/humanistic/maslow.md) `[发展]` 自我实现与创造力
 
 ## 常见误读
-- **误读 1**：把创造力等同于"天赋"——Csikszentmihalyi 证明创造力是系统性的
-- **误读 2**：把创造力与疯狂等同——统计数据不支持"创造性天才都是疯子"
-- **误读 3**：忽略领域知识——没有深厚的领域知识，"新颖"只是噪音
+- ❌ "创造力是天赋，无法后天获得" → ✅ Csikszentmihalyi 证明创造力是系统性的，可培育其条件
+- ❌ "创造性天才都是疯子" → ✅ 统计数据不支持"疯狂=创造"的浪漫神话，深耕领域知识才是常态
+- ❌ "只要有新颖性就是创造" → ✅ 没有深厚的领域知识，"新颖"只是噪音——创造力需要新颖+价值双标准
+- ❌ "酝酿阶段是浪费时间" → ✅ 神经科学证实离线加工(散步、睡眠)对顿悟有可测量的促进
+
+## 跨学科关联
+- [认知科学](../../psychology/concepts/consciousness.md) `[发展]` 默认模式网络与酝酿期的神经对应
+- [卡尼曼 · 双系统](../../psychology/schools/behavioral-economics/kahneman.md) `[互补]` 系统1直觉与系统2验证的分工
+- [达·芬奇](../schools/arts-thought/leonardo.md) `[同源]` 跨界观察作为双联的典范
 
 ## 进阶阅读
-- Wallas, *The Art of Thought*
-- Csikszentmihalyi, *Creativity*
-- Koestler, *The Act of Creation*
+### 原典
+- Wallas, *The Art of Thought* (1926)
+- Koestler, *The Act of Creation* (1964)
+
+### 二手研究
+- Csikszentmihalyi, *Creativity: Flow and the Psychology of Discovery and Invention* (1996)
+- Sawyer, *Explaining Creativity: The Science of Human Innovation* (2006)
+
+### 中文资源
+- 奇凯岑特米哈伊《创造力：心流与创新心理学》
+- 彭凯平、王蕾《跨文化创造力心理学》
 
 ## 关联 Skills
-- [心流条件评估](../../../psychology/skills/flow-conditions-assessment/SKILL.md)
+- [心流条件评估](../../psychology/skills/flow-conditions-assessment/SKILL.md)

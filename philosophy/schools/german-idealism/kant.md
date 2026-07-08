@@ -106,3 +106,7 @@ sources:
 ## 关联 Skills
 
 - [辩证法分析](../../skills/dialectical-analysis/SKILL.md)
+
+## 专题整合
+
+- [康德专题：理性的三问与批判的统一](../../../research/03-kant/README.md) `[整合]` 跨认识论·伦理学·美学的三大批判统一研究
