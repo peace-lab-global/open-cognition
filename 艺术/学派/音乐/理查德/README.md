@@ -218,7 +218,7 @@ In contemporary contexts, there is a dialogue worth exploring between Wagner's G
 
 | 关联对象 / Connected Thinker | 关系标签 / Relationship Tag | 说明 / Description |
 |---|---|---|
-| [叔本华 Schopenhauer](../../../哲学/学派/悲观主义/亚瑟.md) | `[同源]` `[影响]` | 意志、渴望与音乐的形而上学是瓦格纳晚期创作的核心哲学基础 / Will, longing, and metaphysics of music form the core philosophical foundation of Wagner's late works |
+| [叔本华 Schopenhauer](../../../哲学/学派/悲观主义/叔本华.md) | `[同源]` `[影响]` | 意志、渴望与音乐的形而上学是瓦格纳晚期创作的核心哲学基础 / Will, longing, and metaphysics of music form the core philosophical foundation of Wagner's late works |
 | [尼采 Nietzsche](../../../哲学/学派/存在主义/尼采.md) | `[发展]` `[批判]` | 尼采早期以《悲剧的诞生》奉瓦格纳为酒神精神复兴者，后作《瓦格纳事件》激烈批判，二者的思想纠葛是19世纪思想史上最精彩的篇章 / Nietzsche initially championed Wagner as the reviver of Dionysian spirit in *The Birth of Tragedy*, later fiercely criticized him in *The Case of Wagner* |
 | [贝多芬 Beethoven](../beethoven/) | `[继承]` | 贝多芬第九交响曲中人声与器乐的融合是总体艺术的先声 / The fusion of voice and instrument in Beethoven's Ninth Symphony was a precursor to Gesamtkunstwerk |
 | [黑格尔 Hegel](../../../哲学/schools/idealism/hegel.md) | `[平行]` | 综合艺术与精神自我展开的历史叙事；瓦格纳的历史哲学有黑格尔辩证法的影子 / Synthetic art and the historical narrative of spirit's self-unfolding; Wagner's 哲学 of history bears traces of Hegelian dialectics |

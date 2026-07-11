@@ -1,6 +1,6 @@
 ---
 id: schopenhauer
-title: 亚瑟·叔本华 · Arthur Schopenhauer
+title: 叔本华 · Arthur Schopenhauer
 type: thinker
 domain: 哲学
 school: pessimism
@@ -23,7 +23,7 @@ tags:
 aliases:
   - 叔本华
   - Schopenhauer
-  - 亚瑟·叔本华
+  - Arthur Schopenhauer
   - The Philosopher of Pessimism
 sources:
   - "The World as Will and Representation (1818/1844)"
@@ -32,17 +32,17 @@ sources:
   - "On the Basis of Morality (1840)"
   - "Parerga and Paralipomena (1851)"
 children:
-  - concepts/will-as-thing-in-itself.md
-  - concepts/pessimism.md
-  - concepts/aesthetic-contemplation.md
-  - concepts/compassion.md
-  - concepts/denial-of-will.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 概念/意志作为物自体.md
+  - 概念/悲观主义.md
+  - 概念/审美沉思.md
+  - 概念/同情伦理.md
+  - 概念/意志的否定.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
-# 亚瑟·叔本华 · Arthur Schopenhauer
+# 叔本华 · Arthur Schopenhauer
 
 > "世界是我的表象"——这是第一个也是最根本的真理。
 > "The world is my representation" — this is the first and most fundamental truth.

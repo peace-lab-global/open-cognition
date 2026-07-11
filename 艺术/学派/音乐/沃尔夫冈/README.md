@@ -189,7 +189,7 @@ Mozart's thinking about formal balance also invites cross-cultural comparison wi
 - [贝多芬 / Beethoven](../beethoven/) `[发展 / Development]` 继承莫扎特的钢琴协奏曲和交响曲框架，推向意志冲突与英雄性叙事 / Inherited Mozart's piano concerto and symphony frameworks, pushing them toward will-conflict and heroic narrative
 - [启蒙思想 / Enlightenment Thought](../../../哲学/学派/启蒙运动/) `[同源 / Common Source]` 共享十八世纪对自然、清晰与普遍人性的信念 / Shared eighteenth-century belief in nature, clarity, and universal human nature
 - [康德美学 / Kant Aesthetics](../../../哲学/学派/德国唯心论/康德/) `[平行 / Parallel]` "无目的的合目的性"与莫扎特音乐中"自由美"的古典均衡相呼应 / "Purposiveness without purpose" parallels the Classical equilibrium of "free beauty" in Mozart's music
-- [叔本华 / Schopenhauer](../../../哲学/学派/悲观主义/亚瑟/) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
+- [叔本华 / Schopenhauer](../../../哲学/学派/悲观主义/叔本华/) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
 - [叙事理论 / Narrative Theory](../../../文学/概念/narrative/) `[互补 / Complementary]` 重唱即多声部叙事——多人视角的同步编织，可视为音乐化的多声部小说 / Ensemble as polyphonic narrative—simultaneous weaving of multiple perspectives, readable as musicalized polyphonic novel
 - [认知科学 / Cognitive Science](../../../science/cognitive-science/) `[应用 / Applied]` 莫扎特音乐的认知加工——格式塔知觉组织原则在音乐听觉中的体现 / Cognitive processing of Mozart's music—Gestalt perceptual organization principles in musical hearing
 - [心理分析 / Psychoanalysis](../../../心理学/psychoanalysis/) `[诠释 / Interpretive]` 所罗门的心理传记研究将莫扎特与父亲的关系解读为其创作动力的核心 / Solomon's psychobiographical study interprets Mozart's relationship with his father as the core of his creative drive

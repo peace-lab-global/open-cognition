@@ -21,7 +21,7 @@
 - 实用主义：[杜威 (John Dewey)](哲学/学派/实用主义/约翰.md)
 - 政治哲学：[阿伦特 (Hannah Arendt)](哲学/学派/政治哲学/汉娜.md)
 - 东方哲学：[老子 (Laozi)](哲学/学派/东方哲学/老子.md) · [孔子 (Confucius)](哲学/学派/东方哲学/孔子.md) · [庄子 (Zhuangzi)](哲学/学派/东方哲学/庄子.md)
-- 悲观主义：[叔本华 (Arthur Schopenhauer)](哲学/学派/悲观主义/亚瑟.md)
+- 悲观主义：[叔本华 (Arthur Schopenhauer)](哲学/学派/悲观主义/叔本华.md)
 - 后结构主义：[德里达 (Jacques Derrida)](哲学/学派/后结构主义/雅克.md)
 - 诠释学：[伽达默尔 (Hans-Georg Gadamer)](哲学/学派/诠释学/伽达默尔.md)
 - 跨学派概念：[辩证法 (Dialectics)](哲学/概念/辩证法.md) · [认识论 (Epistemology)](哲学/概念/认识论.md) · [存在 (Being)](哲学/概念/存在.md) · [自由意志 (Free Will)](哲学/概念/自由意志.md) · [美学 (Aesthetics)](哲学/概念/美学.md) · [语言 (Language)](哲学/概念/语言.md) · [时间 (Time)](哲学/概念/时间.md) · [虚无 (Nothingness)](哲学/概念/虚无.md)
