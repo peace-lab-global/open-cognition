@@ -37,6 +37,27 @@ children:
   - 概念/审美沉思.md
   - 概念/同情伦理.md
   - 概念/意志的否定.md
+  - 概念/充足理由律四重根.md
+  - 概念/表象.md
+  - 概念/身体双重性.md
+  - 概念/性欲形而上学.md
+  - 概念/理念.md
+  - 概念/天才.md
+  - 概念/性格论.md
+  - 概念/自由意志.md
+  - 概念/死亡论.md
+  - 概念/美与崇高.md
+  - 概念/人生智慧.md
+  - 概念/恩赐.md
+  - 批评/尼采批判.md
+  - 批评/女性主义批判.md
+  - 批评/后殖民批判.md
+  - 对话/与谢林关系.md
+  - 对话/视觉艺术影响.md
+  - 对话/电影影响.md
+  - 对话/吠檀多区分.md
+  - 对话/唯识对话.md
+  - 速读.md
   - 著作.md
   - 时间线.md
   - 阅读.md
@@ -78,7 +99,7 @@ During his tenure as a lecturer at Berlin, he deliberately scheduled his courses
 
 ### 1. 意志作为物自体 / Will as Thing-in-Itself
 
-→ 详见 [concepts/will-as-thing-in-itself.md](concepts/will-as-thing-in-itself.md)
+→ 详见 [概念/意志作为物自体.md](概念/意志作为物自体.md)
 
 世界的本质不是理性、理念或精神（黑格尔），而是盲目的、无目的的、永不满足的"意志"（Wille）。自然界的一切力量——引力、磁力、生长本能——都是意志在不同层级的客体化（Objektivation）。我们通过内在经验——即对自身身体作为意志行为的直接体验——得以认识这一物自体。意志不是个体的心理状态，而是先于一切认识的形而上学本体。
 
@@ -92,7 +113,7 @@ The world as we experience it is "representation" (Vorstellung) — the Will as 
 
 ### 3. 悲观主义：痛苦与无聊的钟摆 / Pessimism: The Pendulum of Pain and Boredom
 
-→ 详见 [concepts/pessimism.md](concepts/pessimism.md)
+→ 详见 [概念/悲观主义.md](概念/悲观主义.md)
 
 意志的本质是无尽的欲求。每一个欲望的满足都只是暂时的，新的欲求立即填补空缺。因此，生命的基调是痛苦（Leiden），而满足之后则是无聊（Langeweile）。"人生如钟摆，在痛苦与无聊之间来回摆荡。"快乐只是痛苦的暂时消除（消极的），而痛苦才是积极的、根本性的存在。
 
@@ -100,7 +121,7 @@ The Will's essence is endless desire. Each satisfaction is merely temporary; new
 
 ### 4. 审美沉思作为解脱 / Aesthetic Contemplation as Escape
 
-→ 详见 [concepts/aesthetic-contemplation.md](concepts/aesthetic-contemplation.md)
+→ 详见 [概念/审美沉思.md](概念/审美沉思.md)
 
 在审美沉思中，主体摆脱了意志的驱使和个体化原理的束缚，成为"纯粹、无意志的认识主体"（reines, willensfreies Subjekt des Erkennens）。艺术的对象不是个别事物，而是柏拉图式的"理念"（Ideen）——意志的直接客体化层级。在所有艺术中，音乐占有最崇高的地位：它不是理念的摹本，而是意志本身的直接写照。
 
@@ -108,7 +129,7 @@ In aesthetic contemplation, the subject escapes the Will's compulsion and the bo
 
 ### 5. 同情伦理 / Compassion Ethics
 
-→ 详见 [concepts/compassion.md](concepts/compassion.md)
+→ 详见 [概念/同情伦理.md](概念/同情伦理.md)
 
 道德的基础不是康德的绝对命令（kategorischer Imperativ）或功利主义的计算，而是对他者痛苦的直接同情（Mitleid）。同情的形而上学基础在于：通过穿透"个体化原理"（principium individuationis）——即时空所造成的个体分隔——主体认识到他者的内在本质与自己同一，都是同一个意志。印度教格言"汝即彼"（tat tvam asi）表达了这一洞见。
 
@@ -116,7 +137,7 @@ Morality's foundation is neither Kant's categorical imperative nor utilitarian c
 
 ### 6. 否定意志 / Denial of the Will
 
-→ 详见 [concepts/denial-of-will.md](concepts/denial-of-will.md)
+→ 详见 [概念/意志的否定.md](概念/意志的否定.md)
 
 最终的、彻底的解脱不在于审美沉思（它只是暂时的），而在于意志本身的自我否定（Verneinung des Willens zum Leben）。通过禁欲主义（Askese）和智识洞察，意志认识到自身的虚空和无意义而自行熄灭。这一状态与佛教的涅槃（Nirvana）形成深刻的呼应。叔本华严格区分了否定意志与自杀：自杀恰恰是意志的肯定——因无法忍受痛苦而以暴力对抗生命意志。
 
@@ -150,22 +171,22 @@ Schopenhauer's philosophical point of departure is his critical inheritance from
 
 | 概念 | 德语 | 英文 | 简述 | 详见 |
 |------|------|------|------|------|
-| 意志 | Wille | Will | 世界的本体实在，盲目的欲求力量 | [will-as-thing-in-itself](concepts/will-as-thing-in-itself.md) |
+| 意志 | Wille | Will | 世界的本体实在，盲目的欲求力量 | [will-as-thing-in-itself](概念/意志作为物自体.md) |
 | 表象 | Vorstellung | Representation | 意志通过认知形式显现的世界 | — |
-| 悲观主义 | Pessimismus | Pessimism | 痛苦为积极、快乐为消极的人生观 | [pessimism](concepts/pessimism.md) |
-| 审美沉思 | Ästhetische Kontemplation | Aesthetic Contemplation | 摆脱意志的纯粹认识状态 | [aesthetic-contemplation](concepts/aesthetic-contemplation.md) |
-| 同情 | Mitleid | Compassion | 道德基础，穿透个体化原理 | [compassion](concepts/compassion.md) |
-| 意志的否定 | Verneinung des Willens | Denial of Will | 通过禁欲使意志自行熄灭 | [denial-of-will](concepts/denial-of-will.md) |
-| 个体化原理 | Principium Individuationis | Principle of Individuation | 时空造成的个体分隔 | [compassion](concepts/compassion.md) |
-| 理念 | Idee | Platonic Idea | 意志的直接客体化层级 | [aesthetic-contemplation](concepts/aesthetic-contemplation.md) |
-| 客体化 | Objektivation | Objectification | 意志从自然力到理性的显现等级 | [will-as-thing-in-itself](concepts/will-as-thing-in-itself.md) |
+| 悲观主义 | Pessimismus | Pessimism | 痛苦为积极、快乐为消极的人生观 | [pessimism](概念/悲观主义.md) |
+| 审美沉思 | Ästhetische Kontemplation | Aesthetic Contemplation | 摆脱意志的纯粹认识状态 | [aesthetic-contemplation](概念/审美沉思.md) |
+| 同情 | Mitleid | Compassion | 道德基础，穿透个体化原理 | [compassion](概念/同情伦理.md) |
+| 意志的否定 | Verneinung des Willens | Denial of Will | 通过禁欲使意志自行熄灭 | [denial-of-will](概念/意志的否定.md) |
+| 个体化原理 | Principium Individuationis | Principle of Individuation | 时空造成的个体分隔 | [compassion](概念/同情伦理.md) |
+| 理念 | Idee | Platonic Idea | 意志的直接客体化层级 | [aesthetic-contemplation](概念/审美沉思.md) |
+| 客体化 | Objektivation | Objectification | 意志从自然力到理性的显现等级 | [will-as-thing-in-itself](概念/意志作为物自体.md) |
 | 充足理由律 | Satz vom zureichenden Grunde | Principle of Sufficient Reason | 表象世界的根本法则（四重根） | — |
 
 ---
 
 ## 关键著作 / Major Works
 
-→ 详见 [works.md](works.md)
+→ 详见 [著作.md](著作.md)
 
 | 著作 | 年份 | 要点 |
 |------|------|------|
@@ -311,19 +332,56 @@ The Yogācāra school's doctrine of vijñaptimātra ("representation-only") — 
 
 ## 进阶阅读 / Further Reading
 
-→ 详见 [reading-list.md](reading-list.md)
+→ 详见 [阅读.md](阅读.md)
 
 ---
 
 ## 子条目索引 / Sub-Entry Index
 
-| 子条目 | 路径 | 说明 |
-|--------|------|------|
-| 意志作为物自体 | [concepts/will-as-thing-in-itself.md](concepts/will-as-thing-in-itself.md) | 意志的形而上学：本体实在、客体化等级、内在经验 |
-| 悲观主义 | [concepts/pessimism.md](concepts/pessimism.md) | 痛苦与无聊的钟摆、快乐为消极、痛苦为积极 |
-| 审美沉思 | [concepts/aesthetic-contemplation.md](concepts/aesthetic-contemplation.md) | 无意志的认识主体、理念、艺术等级、音乐的崇高地位 |
-| 同情伦理 | [concepts/compassion.md](concepts/compassion.md) | Mitleid、个体化原理的穿透、tat tvam asi |
-| 意志的否定 | [concepts/denial-of-will.md](concepts/denial-of-will.md) | 禁欲主义、自我否定、涅槃类比、圣人与自杀者 |
-| 著作总览 | [works.md](works.md) | 叔本华主要著作详述 |
-| 年表 | [timeline.md](timeline.md) | 生平与思想大事记 |
-| 阅读书目 | [reading-list.md](reading-list.md) | 原典、二手文献、中文资源、延伸阅读 |
+### 概念 / Concepts
+
+| 子条目 | 说明 |
+|--------|------|
+| [意志作为物自体](概念/意志作为物自体.md) | 意志的形而上学：本体实在、客体化等级、内在经验 |
+| [表象](概念/表象.md) | 主体-客体结构、认知形式、与意志的关系、与唯识的对话 |
+| [充足理由律四重根](概念/充足理由律四重根.md) | 四种理由形式、对康德的简化、对黑格尔的武器 |
+| [悲观主义](概念/悲观主义.md) | 痛苦与无聊的钟摆、快乐为消极、痛苦为积极 |
+| [审美沉思](概念/审美沉思.md) | 无意志的认识主体、理念、艺术等级、音乐的崇高地位 |
+| [美与崇高](概念/美与崇高.md) | 美/崇高的区分与等级、与康德崇高的对比 |
+| [理念](概念/理念.md) | 意志的直接客体化、从柏拉图到叔本华、与唯识共相对话 |
+| [天才](概念/天才.md) | 客观性、想象力、天才与疯狂、与瑜伽行者平行 |
+| [同情伦理](概念/同情伦理.md) | Mitleid、个体化原理的穿透、tat tvam asi |
+| [性格论](概念/性格论.md) | 悟知性格/验知性格/获得的性格、与唯识种子理论对话 |
+| [自由意志](概念/自由意志.md) | "能做"vs"能意愿"、经验决定论与本体自由 |
+| [性欲形而上学](概念/性欲形而上学.md) | 性欲作为意志核心显现、爱情幻觉、对弗洛伊德的影响 |
+| [死亡论](概念/死亡论.md) | 意志不灭、大海与波浪、与佛教轮回对话 |
+| [意志的否定](概念/意志的否定.md) | 禁欲主义、自我否定、涅槃类比、圣人与自杀者 |
+| [恩赐](概念/恩赐.md) | 意志否定的不可控制性、与基督教恩典和禅宗顿悟对话 |
+| [人生智慧](概念/人生智慧.md) | 幸福学三因素、健康/内在丰富/期望管理 |
+
+### 批评 / Critiques
+
+| 子条目 | 说明 |
+|--------|------|
+| [尼采批判](批评/尼采批判.md) | 从追随到决裂、权力意志vs生存意志、五个核心批判 |
+| [女性主义批判](批评/女性主义批判.md) | 《论女人》的偏见、体系性性别偏见、女性主义重新解读 |
+| [后殖民批判](批评/后殖民批判.md) | 东方主义、哲学挪用、翻译的政治 |
+
+### 对话 / Dialogues
+
+| 子条目 | 说明 |
+|--------|------|
+| [与谢林关系](对话/与谢林关系.md) | 共同根源与核心分歧、绝对vs意志、智识直观vs身体经验 |
+| [视觉艺术影响](对话/视觉艺术影响.md) | 勃克林、克林格、康定斯基、象征主义与表现主义 |
+| [电影影响](对话/电影影响.md) | 塔可夫斯基、伯格曼、伍迪·艾伦、电影中的叔本华主题 |
+| [吠檀多区分](对话/吠檀多区分.md) | 意志vs梵、摩耶含义差异、否定性vs肯定性解脱 |
+| [唯识对话](对话/唯识对话.md) | 结构平行、关键差异、八识对应、MOCICI认知工具地图 |
+
+### 资料 / Reference
+
+| 子条目 | 说明 |
+|--------|------|
+| [速读](速读.md) | 一篇文章读透叔本华：六大命题逻辑链、十大名言、三大批判、东西方对话 |
+| [著作总览](著作.md) | 叔本华主要著作详述 |
+| [年表](时间线.md) | 生平与思想大事记 |
+| [阅读书目](阅读.md) | 原典、二手文献、中文资源、延伸阅读 |
