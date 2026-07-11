@@ -1,0 +1,72 @@
+---
+id: russell-types-theory
+title: 类型论 · Theory of Types
+type: concept
+thinker: russell
+domain: philosophy
+school: analytic
+tags: [logic, paradox, set-theory, mathematics, computer-science]
+---
+
+# 类型论 · Theory of Types
+
+## 概念定位 / Conceptual Position
+
+类型论（Theory of Types）是罗素为解决罗素悖论（1901年发现）而提出的分层逻辑系统。它规定：集合（或"类"）属于比其成员更高一级的"类型"——一个集合不能包含自身作为成员，一个命题不能关于自身进行断言。这一思想深远影响了数理逻辑、计算机科学中的类型系统，以及当代编程语言的设计。
+
+The Theory of Types was Russell's stratified logical system designed to resolve Russell's Paradox (discovered 1901). It stipulates: sets (or "classes") belong to a higher "type" than their members — a set cannot contain itself as a member, a proposition cannot assert about itself. This profoundly influenced mathematical logic, type systems in computer science, and contemporary programming language design.
+
+## 核心论述 / Core Argument
+
+### 罗素悖论 / Russell's Paradox
+
+考虑集合 R = {x | x ∉ x}（所有不包含自身之集合的集合）。问：R ∈ R 吗？
+
+Consider the set R = {x | x ∉ x} (the set of all sets not containing themselves). Question: Is R ∈ R?
+
+- 如果 R ∈ R，则根据定义 R ∉ R / If R ∈ R, then by definition R ∉ R
+- 如果 R ∉ R，则根据定义 R ∈ R / If R ∉ R, then by definition R ∈ R
+
+这是一个真正的矛盾——它动摇了弗雷格的逻辑系统和朴素集合论的基础。
+
+This is a genuine contradiction — it shook the foundations of Frege's logical system and naive set theory.
+
+### 类型的层级 / The Hierarchy of Types
+
+罗素的解决方案是建立类型的层级：
+
+Russell's solution is to establish a hierarchy of types:
+
+- **类型 0 / Type 0**: 个体（非集合）/ Individuals (non-sets)
+- **类型 1 / Type 1**: 个体的集合 / Sets of individuals
+- **类型 2 / Type 2**: 个体的集合的集合 / Sets of sets of individuals
+- **类型 n / Type n**: 类型 n-1 的集合 / Sets of type n-1 objects
+
+规则：一个类型 n 的集合只能包含类型 n-1 或更低类型的元素。因此，"所有集合的集合"这个表达式是无类型的（ill-typed），被排除在系统之外。
+
+Rule: A set of type n can only contain elements of type n-1 or lower. Therefore, "the set of all sets" is ill-typed and excluded from the system.
+
+### 简单类型论与分支类型论 / Simple vs. Ramified Theory
+
+- **分支类型论 / Ramified Theory of Types**: 罗素在《数学原理》中使用的版本，不仅按集合层级分类，还按命题的量词阶数分类——以解决"说谎者悖论"等语义悖论。
+- **简单类型论 / Simple Theory of Types**: 后来由拉姆齐（Ramsey）简化，只保留集合层级，放弃阶数区分。这是当代类型论的基础。
+
+## 哲学意义 / Philosophical Significance
+
+1. **数理逻辑 / Mathematical Logic**: 类型论是公理集合论（ZFC）之外的另一条解决悖论的路径
+2. **计算机科学 / Computer Science**: 类型论直接启发了编程语言类型系统（ML, Haskell, Coq, Agda）
+3. **构造主义 / Constructivism**: Martin-Löf 类型论成为构造性数学和程序验证的基础
+4. **哲学方法论 / Philosophical Methodology**: "分层解决"悖论的方法——后来被广泛应用于语义学和认识论
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与唯识学"心不自见" / With Yogacara's "Mind Cannot See Itself"
+唯识学提出"心不自见"（citta na svam atmanam pasyati）——认知主体不能直接认知自身，如同刀刃不能切割自身。这与类型论的核心直觉惊人地相似：一个命题不能关于自身断言，一个集合不能包含自身。两者都通过"分层"来解决自我指涉的问题。
+
+Yogacara proposes "mind cannot see itself" (citta na svam atmanam pasyati) — the cognitive subject cannot directly cognize itself, just as a blade cannot cut itself. This is strikingly similar to the core intuition of type theory: a proposition cannot assert about itself, a set cannot contain itself. Both solve self-reference problems through "stratification."
+
+## 相关概念 / Related Concepts
+
+- [逻辑原子主义 Logical Atomism](logical-atomism.md)
+- [描述理论 Theory of Descriptions](theory-of-descriptions.md)
+- [罗素主页](../README.md)

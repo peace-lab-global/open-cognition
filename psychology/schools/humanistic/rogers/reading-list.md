@@ -1,0 +1,102 @@
+# 卡尔·罗杰斯 · Carl Rogers — 推荐阅读 / Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读 / Essential Reading
+
+| 著作 / Work | 说明 / Notes | 难度 / Level |
+|------------|-------------|-------------|
+| Rogers, C.R. (1961). *On Becoming a Person*. Houghton Mifflin. | 最具影响力的综合著作，涵盖治疗哲学、个人成长和教育思想。推荐作为第一本罗杰斯著作阅读。 / The most influential comprehensive work. Recommended as the first Rogers book to read. | ★★☆ |
+| Rogers, C.R. (1980). *A Way of Being*. Houghton Mifflin. | 晚年思想结晶，将个人中心取向提升为生活哲学。包含对"形成倾向"的讨论。 / Late-career crystallization of thought, elevating the person-centered approach to a philosophy of life. | ★★☆ |
+| Rogers, C.R. (1951). *Client-Centered Therapy*. Houghton Mifflin. | 来访者中心范式的系统阐述。较为学术化，适合希望深入理解治疗理论的读者。 / Systematic exposition of the client-centered paradigm. More academic, suitable for those seeking deep understanding of therapeutic theory. | ★★★ |
+
+### 推荐 / Recommended Reading
+
+| 著作 / Work | 说明 / Notes | 难度 / Level |
+|------------|-------------|-------------|
+| Rogers, C.R. (1942). *Counseling and Psychotherapy*. Houghton Mifflin. | 早期著作，首次提出非指导性治疗理念，具有历史价值。 / Early work introducing nondirective therapy; of historical significance. | ★★☆ |
+| Rogers, C.R. (1969). *Freedom to Learn*. Merrill. | 教育理论著作，适合教育工作者和对教育革新感兴趣的读者。 / Educational theory work; suitable for educators and those interested in educational innovation. | ★★☆ |
+| Rogers, C.R. (1977). *Carl Rogers on Personal Power*. Delacorte. | 探讨人际关系中的权力动态和个人力量。 / Explores power dynamics and personal power in interpersonal relationships. | ★★☆ |
+| Rogers, C.R. (1959). "A theory of therapy, personality, and interpersonal relationships." In S. Koch (Ed.), *Psychology: A Study of a Science* (Vol.3). | 最系统的理论论文，提出19条命题。适合学术研究者。 / Most systematic theoretical paper with 19 propositions. For academic researchers. | ★★★★ |
+| Rogers, C.R. (1957). "The necessary and sufficient conditions of therapeutic personality change." *J. Consulting Psychology*, 21(2), 95–103. | 最具影响力的单篇论文，提出治疗关系的六个条件。 / Most influential single paper, proposing six conditions for therapeutic relationship. | ★★★ |
+| Rogers, C.R. (1980). "Empathic: An unappreciated way of being." In *A Way of Being*. | 对共情概念最深刻的阐释。 / The most profound exposition of the empathy concept. | ★★☆ |
+
+## 二、传记 / Biography
+
+| 著作 / Work | 说明 / Notes |
+|------------|-------------|
+| Thorne, B. (2003). *Carl Rogers* (2nd ed.). SAGE. | 最佳单卷本传记，简洁全面地介绍罗杰斯的生平和思想。 / Best single-volume biography; concise and comprehensive coverage of life and thought. |
+| Kirschenbaum, H. (2007). *The Life and Work of Carl Rogers*. PCCS Books. | 最详尽的学术传记，包含大量未发表的档案材料。 / Most detailed academic biography with extensive unpublished archival material. |
+| Kirschenbaum, H. (1979). *On Becoming Carl Rogers*. Delacorte Press. | 早期传记，在罗杰斯生前出版，具有独特的个人视角。 / Early biography published during Rogers' lifetime; offers unique personal perspective. |
+| 申荷永 (2004). 《人本主义心理学》. 北京大学出版社. | 中文语境中较好的人本主义心理学介绍，包含罗杰斯专章。 / Good introduction to humanistic psychology in Chinese context, with a chapter on Rogers. |
+
+## 三、二手研究 / Secondary Literature
+
+### 理论发展 / Theoretical Development
+
+| 著作 / Work | 说明 / Notes |
+|------------|-------------|
+| Cooper, M., O'Hara, M., Schmid, P., & Wyatt, G. (Eds.) (2013). *The Handbook of Person-Centered Psychotherapy and Counselling* (2nd ed.). Palgrave Macmillan. | 最全面的个人中心取向手册，涵盖理论、实践和研究。 / Most comprehensive person-centered handbook covering theory, practice, and research. |
+| Bozarth, J.D. (1998). *Person-Centered Therapy: A Revolutionary Paradigm*. PCCS Books. | 深入探讨个人中心治疗的革命性本质。 / Explores the revolutionary nature of person-centered therapy in depth. |
+| Cain, D.J. (Ed.) (2002). *Classics in the Person-Centered Approach*. PCCS Books. | 个人中心取向的经典文献集。 / Collection of classic papers in the person-centered approach. |
+| Sanders, P. (2012). *The Person-Centered Counselling Primer* (2nd ed.). PCCS Books. | 简明易懂的入门读物，适合初学者。 / Concise and accessible introduction, suitable for beginners. |
+
+### 实证研究 / Empirical Research
+
+| 著作 / Work | 说明 / Notes |
+|------------|-------------|
+| Elliott, R., Watson, J.C., Goldman, R.N., & Greenberg, L.S. (2004). *Learning Emotion-Focused Therapy*. APA. | 情绪聚焦治疗的实证研究，整合个人中心传统。 / Empirical research on emotion-focused therapy integrating person-centered tradition. |
+| Norcross, J.C. (Ed.) (2011). *Psychotherapy Relationships That Work* (2nd ed.). Oxford. | 治疗关系研究的元分析，大量引用罗杰斯的贡献。 / Meta-analysis of therapeutic relationship research, extensively citing Rogers' contributions. |
+| Wampold, B.E. & Imel, Z.E. (2015). *The Great Psychotherapy Debate* (2nd ed.). Routledge. | 关于心理治疗效果的研究，支持共同因素（包括关系）的重要性。 / Research on psychotherapy effectiveness supporting the importance of common factors including relationship. |
+
+### 当代发展 / Contemporary Developments
+
+| 著作 / Work | 说明 / Notes |
+|------------|-------------|
+| Gendlin, E.T. (1981). *Focusing*. Bantam Books. | 罗杰斯学生简德林发展的聚焦技术。 / Focusing technique developed by Rogers' student Gendlin. |
+| Miller, W.R. & Rollnick, S. (2013). *Motivational Interviewing* (3rd ed.). Guilford. | 动机性访谈，直接继承罗杰斯的核心精神。 / Motivational interviewing, directly inheriting Rogers' core spirit. |
+| Greenberg, L.S. (2002). *Emotion-Focused Therapy*. APA. | 情绪聚焦治疗，整合个人中心和格式塔传统。 / Emotion-focused therapy integrating person-centered and Gestalt traditions. |
+
+## 四、英文资源 / English Resources
+
+### 在线资源 / Online Resources
+
+- **Person-Centered eJournal Network**: [pce-journal.net](http://pce-journal.net) — 个人中心取向的在线学术期刊
+- **World Association for Person-Centered and Experiential Psychotherapy and Counseling (WAPCEPC)**: [pce-world.org](http://pce-world.org) — 世界个人中心协会
+- **Center for Studies of the Person**: [centerforthestudyoftheperson.org](http://centerforthestudyoftheperson.org) — 罗杰斯参与创立的研究中心
+
+### 影音资料 / Audio-Visual Materials
+
+- *Journey into Self* (1968) — 罗杰斯主持的团体过程纪录片
+- *Carl Rogers and Gloria* (1965) — 著名的治疗示范录像，展示来访者中心疗法的核心过程
+- *Carl Rogers and Sylvia* (1977) — 另一个经典治疗示范
+- *Carl Rogers and Jill* (1986) — 罗杰斯晚年与来访者Jill的工作录像
+
+## 五、跨学科关联阅读 / Interdisciplinary Related Reading
+
+| 领域 / Field | 著作 / Work | 关联 / Connection |
+|-------------|------------|-------------------|
+| 存在主义心理学 | May, R. (1961). *Existence* | 罗杰斯与罗洛·梅的辩论：人性的乐观与阴暗面 |
+| 积极心理学 | Seligman, M. (2011). *Flourish* | 将成长倾向实证化为PERMA模型 |
+| 依恋理论 | Bowlby, J. (1988). *A Secure Base* | 安全依恋与无条件积极关注的平行 |
+| 神经科学 | Porges, S. (2011). *The Polyvagal Theory* | 多层迷走神经理论为共情和安全感提供神经基础 |
+| 教育学 | Freire, P. (1970). *Pedagogy of the Oppressed* | 批判教育学与以学生为中心的教育 |
+| 佛教心理学 | Epstein, M. (1995). *Thoughts Without a Thinker* | 佛教正念与个人中心取向的对话 |
+
+## 六、推荐阅读路径 / Suggested Reading Paths
+
+### 路径一：入门探索 / Path 1: Introductory Exploration
+1. *On Becoming a Person* → 2. Sanders (2012) *Primer* → 3. Thorne (2003) *Carl Rogers*
+
+### 路径二：临床深入 / Path 2: Clinical Deep Dive
+1. *Client-Centered Therapy* (1951) → 2. 1957年论文 → 3. Cooper et al. (2013) *Handbook*
+
+### 路径三：哲学思考 / Path 3: Philosophical Reflection
+1. *A Way of Being* (1980) → 2. *On Becoming a Person* → 3. May, R. *Existence*
+
+### 路径四：跨学科应用 / Path 4: Interdisciplinary Application
+1. *Freedom to Learn* → 2. Miller & Rollnick *Motivational Interviewing* → 3. Freire *Pedagogy of the Oppressed*
+
+---
+
+> 返回 [罗杰斯主页](README.md) / Back to [Rogers Main](README.md)

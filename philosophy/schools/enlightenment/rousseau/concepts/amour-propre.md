@@ -1,0 +1,174 @@
+---
+id: rousseau-amour-propre
+title: 自爱与虚荣 · Amour de Soi and Amour-Propre
+type: concept
+domain: philosophy
+parent: rousseau
+tags:
+  - amour-propre
+  - amour-de-soi
+  - self-love
+  - vanity
+  - social-comparison
+  - 自爱
+  - 虚荣
+  - 社会比较
+  - 承认
+---
+
+> "自爱是永远只与自己有关的自然情感；而自尊心则是相对的，它通过比较来衡量自己……正是自尊心产生了虚荣和骄傲。"
+> "Self-love, always concerned only with oneself, is a natural sentiment; but amour-propre is relative, measuring itself through comparison... it is amour-propre that produces vanity and pride."
+> — 《爱弥儿》*Emile*, Book IV
+
+# 自爱与虚荣 · Amour de Soi and Amour-Propre
+
+## 核心区分 / The Core Distinction
+
+卢梭在人性理论中做出了一个根本性区分——两种不同形式的自我关切：
+
+Rousseau made a fundamental distinction in his theory of human nature — two different forms of self-regard:
+
+### 自爱（Amour de Soi / Self-Love）
+
+**自爱**是一种自然的、前社会的情感，是所有有感觉的生物共有的自我保存倾向。它的特征包括：
+
+**Amour de soi** is a natural, pre-social sentiment — the self-preservation tendency shared by all sentient beings. Its characteristics include:
+
+- **绝对性**：它只关注自身的需要，不涉及与他人的比较。自然人关心自己的饥饿、安全和舒适，不关心别人拥有多少。
+- **有限性**：自然需要是有限的、可满足的。一旦基本需要得到满足，自爱就进入宁静的平衡状态。
+- **与怜悯的协调**：自爱受怜悯（pitié）的自然调节——当看到同类受苦时，自然的厌恶感会缓和自我保存的冲动。
+- **道德中性**：自爱本身既不是善的也不是恶的，它只是存在的基本条件。
+
+- **Absoluteness**: It concerns only one's own needs, involving no comparison with others. Natural humans care about their own hunger, safety, and comfort, not about what others possess.
+- **Finitude**: Natural needs are limited and satisfiable. Once basic needs are met, self-love enters tranquil equilibrium.
+- **Harmony with pity**: Self-love is naturally moderated by pity (pitié) — natural revulsion at others' suffering tempers the self-preservation impulse.
+- **Moral neutrality**: Self-love itself is neither good nor evil; it is simply the basic condition of existence.
+
+### 自尊心 / 虚荣心（Amour-Propre / Vanity, Pride）
+
+**Amour-propre**是一种社会的、相对的情感，它在人与人的比较中产生，要求他人的承认和优越感。它的特征包括：
+
+**Amour-propre** is a social, relative sentiment arising from interpersonal comparison, demanding others' recognition and a sense of superiority. Its characteristics include:
+
+- **相对性**：它只有通过与他人比较才能存在。一个人的价值感取决于他在群体中的相对地位。
+- **无限性**：因为比较是开放的——总有人比自己拥有更多——amour-propre永远无法得到完全满足。
+- **依赖他人的意见**：amour-propre使人的自我价值感取决于他人的看法，从而使人在根本上依赖于他人。这是卢梭所说的"奴役"的深层含义。
+- **双面性**：amour-propre既可以堕落为嫉妒、仇恨和虚荣，也可以被引导为对荣誉、美德和公共善的追求。
+
+- **Relativity**: It exists only through comparison with others. One's sense of worth depends on relative position in the group.
+- **Insatiability**: Because comparison is open-ended — there is always someone with more — amour-propre can never be fully satisfied.
+- **Dependence on others' opinions**: Amour-propre makes self-worth depend on others' perceptions, rendering humans fundamentally dependent on others. This is the deeper meaning of Rousseau's concept of "enslavement."
+- **Ambivalence**: Amour-propre can degenerate into jealousy, hatred, and vanity, or be channeled into pursuit of honor, virtue, and the common good.
+
+## 从自爱到虚荣的转化 / The Transformation from Self-Love to Vanity
+
+### 自然状态中的休眠 / Dormancy in the State of Nature
+
+在自然状态中，amour-propre处于**休眠状态**。自然人偶尔相遇，可能产生短暂的身体吸引或竞争，但不存在持久的社会比较。自然人"不知道什么是虚荣、 esteem 或鄙视"。他不需要任何人的承认来确认自己的存在。
+
+In the state of nature, amour-propre lies **dormant**. Natural humans meet occasionally, perhaps experiencing fleeting physical attraction or competition, but no lasting social comparison exists. Natural humans "do not know what vanity, esteem, or contempt are." They need no one's recognition to confirm their existence.
+
+### 社会激活 / Social Activation
+
+amour-propre的激活是一个渐进过程：
+
+The activation of amour-propre is a gradual process:
+
+1. **聚居与比较**：人口增长迫使人们聚居，"人们开始互相审视"。唱歌、跳舞、力量竞赛中，"每个人都开始关注他人，也希望被他人关注"。
+2. **私有财产**：财产的出现使比较有了物质基础——"人们开始觉得自己比他人优越"。
+3. **需求的人工膨胀**：amour-propre创造了无穷的人造需求——不是为了生存，而是为了在比较中胜出。
+4. **社会依赖**：人们变得"只有在与他人的关系中才感到自己的存在"——自我价值感完全外化。
+
+1. **Communal living and comparison**: Population growth forced people together; "people began to look at one another." In singing, dancing, and contests of strength, "everyone began to pay attention to others and to want to be noticed."
+2. **Private property**: Property gave comparison a material basis — "people began to think themselves superior to others."
+3. **Artificial expansion of needs**: Amour-propre created infinite artificial needs — not for survival, but to win in comparison.
+4. **Social dependence**: People became able to "feel their existence only in relation to others" — self-worth completely externalized.
+
+## 病态形态与健康形态 / Pathological and Healthy Forms
+
+### 病态的 Amour-Propre（Inflamed / Enflammé）
+
+卢梭在《论不平等》中主要描述了amour-propre的病态形态：
+
+Rousseau primarily described the pathological form of amour-propre in the *Second Discourse*:
+
+- **虚荣（Vanité）**：追求表面的优越感——财富、地位的炫耀。
+- **骄傲（Orgueil）**：对他人优越的持久信念。
+- **嫉妒（Jalousie）**：无法忍受他人的优越。
+- **仇恨（Haine）**：将他人视为威胁或障碍。
+- **虚伪（Hypocrisie）**：伪装出社会认可的品质以获取承认。
+- **奴性（Servilité）**：为获取承认而放弃自主性——"富人学会了谄媚的艺术，穷人学会了卑躬屈膝。"
+
+- **Vanity (Vanité)**: Pursuing superficial superiority — displays of wealth and status.
+- **Pride (Orgueil)**: Persistent belief in one's superiority over others.
+- **Jealousy (Jalousie)**: Intolerance of others' superiority.
+- **Hatred (Haine)**: Viewing others as threats or obstacles.
+- **Hypocrisy (Hypocrisie)**: Feigning socially approved qualities to gain recognition.
+- **Servility (Servilité)**: Surrendering autonomy to gain recognition — "the rich learned the art of flattery, the poor learned to grovel."
+
+### 健康的 Amour-Propre
+
+卢梭在《爱弥儿》和《社会契约论》中暗示了amour-propre可以被引导为健康形态：
+
+Rousseau suggested in *Emile* and *The Social Contract* that amour-propre can be channeled into healthy forms:
+
+- **荣誉感（Honneur）**：对美德和正直的追求，以获得有德之人的尊重。
+- **爱国主义（Patriotisme）**：将比较对象从个人转向国家——"每个公民都是祖国的一部分"。
+- **道德自尊（Estime de Soi Morale）**：基于道德品质而非社会地位的自我评价。
+- **法律之下的平等承认**：在社会契约中，每个人作为公民获得同等的承认和尊严。
+
+- **Honor (Honneur)**: Pursuit of virtue and integrity, earning respect from the virtuous.
+- **Patriotism (Patriotisme)**: Redirecting comparison from individuals to the polity — "each citizen is part of the fatherland."
+- **Moral self-esteem (Estime de Soi Morale)**: Self-evaluation based on moral character rather than social status.
+- **Equal recognition under law**: In the social contract, every person receives equal recognition and dignity as a citizen.
+
+## 《爱弥儿》中的教育策略 / Educational Strategy in *Emile*
+
+卢梭在《爱弥儿》中设计了一种教育策略来防止amour-propre的病态发展：
+
+Rousseau designed an educational strategy in *Emile* to prevent amour-propre's pathological development:
+
+1. **延迟激活**：在童年期尽量避免让孩子接触社会比较的情境。"不要给他任何种类的功课；不要让他与别的孩子比较。"
+2. **用事物的必然性取代人的意志**：让孩子面对自然后果（打破窗户就要忍受寒冷），而非人的惩罚或奖赏。这避免了孩子学会操纵他人的意志。
+3. **引导而非压制**：当amour-propre不可避免地觉醒时（青春期），将其引导向同情和道德情感——"通过扩展他对他人苦难的怜悯来缓和amour-propre。"
+4. **培养内在价值**：使爱弥儿的自我价值感基于自身能力和品德，而非他人的评价。
+
+1. **Delayed activation**: During childhood, avoid exposing the child to social comparison. "Give him no lessons of any kind; never let him compare himself with other children."
+2. **Substitute natural necessity for human will**: Let the child face natural consequences (breaking a window means enduring cold) rather than human punishment or reward. This prevents learning to manipulate others' wills.
+3. **Channel rather than suppress**: When amour-propre inevitably awakens (adolescence), channel it toward sympathy and moral sentiment — "moderate amour-propre by extending his pity for others' suffering."
+4. **Cultivate intrinsic worth**: Ground Emile's self-worth in his own abilities and character, not others' evaluations.
+
+## 当代回响 / Contemporary Echoes
+
+卢梭的amour-propre概念预见了现代心理学的多个核心概念：
+
+Rousseau's amour-propre concept anticipated several core modern psychological concepts:
+
+| 卢梭概念 | 当代对应 | 代表人物 |
+|----------|----------|----------|
+| 社会比较的焦虑 | 社会比较理论 | Festinger (1954) |
+| 对承认的需求 | 承认理论 | Honneth (1995) |
+| 虚假自我 | 真实自我理论 | Winnicott (1960) |
+| 社交媒体焦虑 | 数字自恋研究 | Twenge (2017) |
+| 异化 | 马克思主义异化理论 | Marx (1844) |
+
+| Rousseau Concept | Contemporary Counterpart | Key Figures |
+|-----------------|-------------------------|-------------|
+| Anxiety of social comparison | Social comparison theory | Festinger (1954) |
+| Need for recognition | Recognition theory | Honneth (1995) |
+| False self | True self theory | Winnicott (1960) |
+| Social media anxiety | Digital narcissism research | Twenge (2017) |
+| Alienation | Marxist alienation theory | Marx (1844) |
+
+### 数字时代的 Amour-Propre / Amour-Propre in the Digital Age
+
+社交媒体是amour-propre的完美放大器：点赞、关注数、排名算法将社会比较量化和即时化。Instagram上的精心策展的自我是卢梭描述的"存在即表象"（être et paraître）的极端形式。卢梭的洞见在今天比18世纪更为紧迫：我们生活在一个amour-propre被技术无限放大的时代。
+
+Social media is the perfect amplifier of amour-propre: likes, follower counts, and ranking algorithms quantify and instantize social comparison. The curated self on Instagram is an extreme form of what Rousseau described as "being and appearing" (être et paraître). Rousseau's insight is more urgent today than in the 18th century: we live in an age where amour-propre is technologically amplified to infinity.
+
+## 相关条目 / Related Entries
+
+- [高贵的野蛮人 / Noble Savage](noble-savage.md)
+- [教育哲学 / Education](education.md)
+- [社会契约 / Social Contract](social-contract.md)
+- → 返回 [卢梭主页 / Rousseau Main](../README.md)

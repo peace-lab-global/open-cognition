@@ -1,0 +1,103 @@
+# 卡尔·荣格 · Carl Jung - 推荐阅读 / Reading List
+
+## 一、原典 / Primary Works
+
+### 入门级 / Introductory Level
+
+| 书名 / Title | 说明 / Description |
+|---|---|
+| 《人及其表象》(*Man and His Symbols*, 1964) | 荣格生前策划、面向大众读者的概论性著作。由荣格撰写第一部分，其余由其学生完成。是了解荣格心理学最平易的入门书。 / Jung's planned introductory work for general readers. Jung wrote Part I; the rest was completed by his students. The most accessible introduction to Jungian psychology. |
+| 《回忆·梦·思考》(*Memories, Dreams, Reflections*, 1961) | 荣格自传。通过个人经历展现其思想发展历程，是理解荣格思想脉络的最佳起点。 / Jung's autobiography. Presents the development of his thought through personal experience; the best starting point for understanding his intellectual trajectory. |
+| 《未发现的自我》(*The Undiscovered Self*, 1957) | 篇幅短小但意义深远。荣格对现代社会中个体处境的深刻反思，探讨个体如何在集体压力下保持精神的独立性。 / Short but profound. Jung's deep reflection on the individual's situation in modern society, exploring how to maintain spiritual independence under collective pressure. |
+| 《现代人的心灵问题》(*Modern Man in Search of a Soul*, 1933) | 文集，涵盖心理治疗、宗教、文学、人生意义等主题。风格亲切，适合初步了解荣格思想的广度。 / Essay collection covering psychotherapy, religion, literature, and life meaning. Accessible style, suitable for initial exploration of the breadth of Jungian thought. |
+
+### 进阶级 / Intermediate Level
+
+| 书名 / Title | 说明 / Description |
+|---|---|
+| 《心理类型》(*Psychological Types*, 1921) | 荣格独立后的第一部重要理论著作，系统阐述心理类型理论。MBTI等现代人格评估工具的理论基础。 / Jung's first major theoretical work after independence; systematically presents psychological type theory. The theoretical foundation of modern personality assessment tools like MBTI. |
+| 《原型与集体无意识》(*The Archetypes and the Collective Unconscious*, CW 9i) | 原型理论的奠基之作。系统阐述集体无意识的概念和各类原型。 / Foundational work of archetype theory; systematically presents the collective unconscious concept and various archetypes. |
+| 《心理学与炼金术》(*Psychology and Alchemy*, 1944, CW 12) | 揭示炼金术象征过程与个体化过程的对应关系。对理解荣格晚期思想至关重要。 / Reveals the correspondence between alchemical symbolic processes and individuation. Essential for understanding Jung's later thought. |
+| 《爱翁》(*Aion*, 1951, CW 9ii) | 对自性原型的深入分析，探讨阿尼玛/阿尼姆斯、阴影和基督象征的心理学意义。 / Deep analysis of the Self archetype, exploring the psychological significance of anima/animus, shadow, and Christ symbolism. |
+
+### 高阶级 / Advanced Level
+
+| 书名 / Title | 说明 / Description |
+|---|---|
+| 《神秘合一》(*Mysterium Coniunctionis*, 1955–56, CW 14) | 荣格最后的巨著，对炼金术"合一"过程的终极分析，是个体化理论的最高理论表达。 / Jung's final magnum opus; the ultimate analysis of the alchemical "coniunctio" process and the highest theoretical expression of individuation theory. |
+| 《红书》(*The Red Book / Liber Novus*, 2009) | 荣格1913–1930年间的私人记录，附有精美绘画。展现个体化过程的原始材料，是理解荣格思想起源的关键文献。 / Jung's private records from 1913–1930, with exquisite paintings. Raw materials of the individuation process; key document for understanding the origins of Jungian thought. |
+| 《答约伯》(*Answer to Job*, 1952) | 对《约伯记》的心理学分析，探讨上帝形象中的善恶二元性。荣格最具争议性的著作之一。 / Psychological analysis of the Book of Job, exploring the duality of good and evil in the image of God. One of Jung's most controversial works. |
+
+---
+
+## 二、二手研究 / Secondary Research
+
+### 系统性导读 / Systematic Introductions
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《荣格心灵地图》(*Jung's Map of the Soul*) | Murray Stein | 公认的荣格心理学最佳系统性导读，结构清晰，涵盖所有核心概念。 / Widely recognized as the best systematic introduction to Jungian psychology; clearly structured, covering all core concepts. |
+| 《荣格》(*Jung*) | Anthony Storr | 简明扼要的学术传记，在有限篇幅内准确概述荣格的主要思想。 / Concise scholarly biography that accurately summarizes Jung's major ideas within limited space. |
+| 《荣格心理学入门》(*Jungian Psychology: An Introduction*) | 多种版本 / Various editions | 市面上有多种版本的入门教材，适合不同背景的读者。 / Multiple introductory textbooks available, suitable for readers of different backgrounds. |
+
+### 传记研究 / Biographical Studies
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《荣格传》(*Jung: A Biography*) | Deirdre Bair | 最全面的荣格传记，基于大量原始资料。 / The most comprehensive Jung biography, based on extensive primary sources. |
+| 《荣格：人、神话与图像》(*Jung: Man, Myth, and Image*) | Aniela Jaffé | 荣格亲密合作者撰写的传记，包含许多第一手资料。 / Biography written by a close collaborator of Jung, containing much first-hand material. |
+| 《荣格与现代心理学的形成》(*Jung and the Making of Modern Psychology*) | Sonu Shamdasani | 学术性的思想史研究，追溯荣格心理学的形成过程。 / Scholarly intellectual history tracing the formation of Jungian psychology. |
+
+### 专题研究 / Specialized Studies
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《自我与原型》(*Ego and Archetype*) | Edward F. Edinger | 深入探讨自我与自性的关系，是荣格学派最重要的理论著作之一。 / In-depth exploration of the ego-Self relationship; one of the most important theoretical works in the Jungian school. |
+| 《阴影：理解心灵的暗面》(*Owning Your Own Shadow*) | Robert A. Johnson | 关于阴影整合的实用指南，简明易懂。 / Practical guide to shadow integration; concise and accessible. |
+| 《她：理解女性心理学》(*She*) / 《他：理解男性心理学》(*He*) | Robert A. Johnson | 分别探讨阿尼玛和阿尼姆斯的通俗著作。 / Popular works exploring the anima and animus respectively. |
+| 《千面英雄》(*The Hero with a Thousand Faces*) | Joseph Campbell | 将荣格原型理论应用于神话学研究，提出"英雄之旅"模型。 / Applies Jungian archetype theory to mythology, proposing the "hero's journey" model. |
+
+---
+
+## 三、英文资源 / English Resources
+
+### 学术版本 / Scholarly Editions
+
+- *The Collected Works of C.G. Jung* (Princeton University Press, 20 volumes + 2 supplementary volumes) — 荣格全集英文标准版
+- *The Red Book: Liber Novus* (W.W. Norton, 2009), edited by Sonu Shamdasani — 附有学术导论和注释
+
+### 学术期刊 / Academic Journals
+
+- *Journal of Analytical Psychology* — 国际分析心理学会（IAAP）官方期刊
+- *Spring: A Journal of Archetype and Culture* — 原型心理学领域的重要期刊
+- *Psychological Perspectives* — 洛杉矶荣格研究所出版
+
+### 在线资源 / Online Resources
+
+- [The Jung Page](https://jungny.org/the-jung-page/) — 纽约荣格研究所的在线资源
+- [International Association for Analytical Psychology (IAAP)](https://iaap.org/) — 国际分析心理学会官网
+- [The Philemon Foundation](https://philemonfoundation.org/) — 致力于出版荣格未发表文献的基金会
+
+---
+
+## 四、相关思想家 / Related Thinkers
+
+### 直接关联 / Directly Related
+
+| 思想家 / Thinker | 关系 / Relationship | 推荐阅读 / Recommended Reading |
+|---|---|---|
+| 西格蒙德·弗洛伊德 (Sigmund Freud) | 从师承到决裂 / From mentorship to rupture | 《梦的解析》(*The Interpretation of Dreams*) |
+| 欧根·布洛伊勒 (Eugen Bleuler) | 导师 / Mentor | 《早发性痴呆群》(*Dementia Praecox or the Group of Schizophrenias*) |
+| 埃里希·诺伊曼 (Erich Neumann) | 学生 / Student | 《意识的起源与历史》(*The Origins and History of Consciousness*) |
+| 玛丽-路易丝·冯·弗兰兹 (Marie-Louise von Franz) | 合作者 / Collaborator | 《童话中的原型模式》(*Archetypal Patterns in Fairy Tales*) |
+| 沃尔夫冈·泡利 (Wolfgang Pauli) | 合作者 / Collaborator | 《自然与心灵的诠释》(*The Interpretation of Nature and the Psyche*) |
+
+### 平行对话 / Parallel Dialogue
+
+| 思想家 / Thinker | 关系 / Relationship | 推荐阅读 / Recommended Reading |
+|---|---|---|
+| 约瑟夫·坎贝尔 (Joseph Campbell) | 受荣格影响 / Influenced by Jung | 《千面英雄》(*The Hero with a Thousand Faces*) |
+| 诺斯罗普·弗莱 (Northrop Frye) | 受荣格影响 / Influenced by Jung | 《批评的解剖》(*Anatomy of Criticism*) |
+| 詹姆斯·希尔曼 (James Hillman) | 批判性传承 / Critical inheritance | 《重新构想心理学》(*Re-Visioning Psychology*) |
+| 米尔恰·伊利亚德 (Mircea Eliade) | 平行对话 / Parallel dialogue | 《神圣与世俗》(*The Sacred and the Profane*) |
+| 赫尔曼·黑塞 (Hermann Hesse) | 受荣格影响 / Influenced by Jung | 《德米安》(*Demian*), 《荒原狼》(*Steppenwolf*) |

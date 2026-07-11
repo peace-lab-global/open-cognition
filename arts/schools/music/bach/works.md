@@ -1,0 +1,124 @@
+---
+id: bach-works
+title: "巴赫作品总览 · Works of Johann Sebastian Bach"
+type: bibliography
+domain: arts
+school: music
+thinker: bach
+tags: [bach, works, baroque, bibliography, BWV]
+cross-refs:
+  - id: bach
+    relation: thinker
+---
+
+# 巴赫作品总览 · Works of Johann Sebastian Bach
+
+巴赫的作品由**BWV**（*Bach-Werke-Verzeichnis*，巴赫作品目录）编号系统编目，由沃尔夫冈·施密德（Wolfgang Schmieder）于1950年首次编订。标准学术全集版为**NBA**（*Neue Bach-Ausgabe*，新巴赫全集，Bärenreiter出版，1954–2007年）。
+
+Bach's works are catalogued by the **BWV** (*Bach-Werke-Verzeichnis*) numbering system, first compiled by Wolfgang Schmieder in 1950. The standard scholarly complete edition is the **NBA** (*Neue Bach-Ausgabe*, published by Bärenreiter, 1954–2007).
+
+## 一、宗教声乐作品 / Sacred Vocal Works
+
+### 康塔塔 / Cantatas
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 4 | 1707–1708 | *Christ lag in Todes Banden* | 《基督躺在死亡的锁链中》 | 早期康塔塔的杰作，基于路德众赞歌 / Early cantata masterpiece based on Luther's chorale |
+| 106 | c. 1707 | *Gottes Zeit ist die allerbeste Zeit* (Actus Tragicus) | 《上帝的时间是最好的时间》 | 葬礼康塔塔，被视为巴赫早期最感人的作品之一 / Funeral cantata, among Bach's most moving early works |
+| 140 | 1731 | *Wachet auf, ruft uns die Stimme* | 《醒来吧，呼声在召唤我们》 | 众赞歌康塔塔的典范，第四乐章是最著名的众赞歌旋律之一 / Exemplar of chorale cantata; 4th movement is one of the most famous chorale melodies |
+| 147 | 1716/1723 | *Herz und Mund und Tat und Leben* | 《心、口、行为与生活》 | 包含著名的"Jesu, Joy of Man's Desiring" / Contains the famous "Jesu, Joy of Man's Desiring" |
+| 82 | 1727 | *Ich habe genug* | 《我已满足》 | 独唱康塔塔的巅峰，表达灵魂对死亡的渴望 / Summit of solo cantatas expressing the soul's longing for death |
+| 29 | 1731 | *Wir danken dir, Gott* | 《上帝，我们感谢你》 | 包含基于管风琴的辉煌序曲 / Contains a brilliant organ-based sinfonia |
+| 21 | 1714 | *Ich hatte viel Bekümmernis* | 《我曾有许多忧愁》 | 规模宏大的早期康塔塔 / Large-scale early cantata |
+
+约200首宗教康塔塔现存，创作于1707至1749年间。巴赫在莱比锡时期（1723–1729）系统创作了五个年度周期。
+
+Approximately 200 sacred cantatas survive, composed between 1707 and 1749. Bach systematically composed five annual cycles during his Leipzig period (1723–1729).
+
+### 受难曲与清唱剧 / Passions and Oratorios
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 244 | 1727 | *Matthäus-Passion* | 《马太受难曲》 | 双合唱团受难曲巅峰，西方音乐最高峰之一 / Summit of double-choir passion, among the highest achievements of Western music |
+| 245 | 1724 | *Johannes-Passion* | 《约翰受难曲》 | 更具戏剧性的受难叙事 / More dramatically intense passion narrative |
+| 248 | 1734 | *Weihnachts-Oratorium* | 《圣诞清唱剧》 | 六部分圣诞期康塔塔合集 / Six-part Christmas season cantata cycle |
+| 249 | 1725 | *Oster-Oratorium* | 《复活节清唱剧》 | 复活节礼拜音乐 / Easter liturgical music |
+| 11 | 1735 | *Himmelfahrts-Oratorium* | 《升天清唱剧》 | 升天节礼拜音乐 / Ascension liturgical music |
+| 247 | c. 1731 | *Markus-Passion*（已佚） | 《马可受难曲》 | 乐谱已佚失，仅存歌词文本 / Score lost; only libretto survives |
+
+### 弥撒曲与经文歌 / Masses and Motets
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 232 | 1733–1749 | *Messe in h-Moll* | 《b小调弥撒》 | 跨教派弥撒总结，巴洛克声乐音乐的百科全书 / Cross-confessional mass summation, encyclopedia of Baroque vocal music |
+| 233–236 | c. 1738 | *Messen*（短弥撒） | 四首短弥撒 | 路德宗"短弥撒"形式 / Lutheran "short mass" form |
+| 225–231 | 1723–1731 | *Motetten* | 经文歌 | 包括著名的《Jesu, meine Freude》(BWV 227) / Including the famous "Jesu, meine Freude" |
+| 229 | 1726–1727 | *Komm, Jesu, komm* | 《来吧，耶稣，来吧》 | 双合唱团经文歌 / Double-choir motet |
+
+## 二、键盘音乐 / Keyboard Works
+
+### 管风琴作品 / Organ Works
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 565 | c. 1704 | *Toccata und Fuge in d-Moll* | d小调托卡塔与赋格 | 最广为人知的管风琴作品 / The most widely recognized organ work |
+| 599–644 | 1708–1717 | *Orgelbüchlein* | 《管风琴小书》 | 46首众赞歌前奏曲微型杰作 / 46 miniature chorale prelude masterpieces |
+| 552, 669–689 | 1739 | *Clavier-Übung III* | 《键盘练习曲集》第三部分 | "管风琴弥撒"，路德教义的音乐呈现 / "Organ Mass," musical presentation of Lutheran doctrine |
+| 582 | c. 1715 | *Passacaglia und Fuge in c-Moll* | c小调帕萨卡利亚与赋格 | 固定低音变奏曲的巅峰 / Summit of ground-bass variation form |
+| 540 | c. 1730 | *Toccata und Fuge in F-Dur* | F大调托卡塔与赋格 | 辉煌的技巧展示 / Brilliant virtuoso display |
+| 543–548 | 1708–1717 | 大前奏曲与赋格 | 大前奏曲与赋格 | 魏玛时期的管风琴杰作 / Weimar-period organ masterpieces |
+
+### 羽管键琴与古钢琴作品 / Harpsichord and Clavichord Works
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 846–869 | 1722 | *Das Wohltemperierte Klavier I* | 《平均律钢琴曲集》第一卷 | 24调前奏曲与赋格 / 24 preludes and fugues |
+| 870–893 | 1742 | *Das Wohltemperierte Klavier II* | 《平均律钢琴曲集》第二卷 | 调性平等的进一步论证 / Further demonstration of tonal equality |
+| 772–786 | 1723 | *Inventionen und Sinfonien* | 二部与三部创意曲 | 键盘教学的基础教材 / Foundation of keyboard pedagogy |
+| 825–830 | 1726–1731 | *Partiten* (Clavier-Übung I) | 六首帕蒂塔 | 键盘组曲的巅峰 / Summit of keyboard suite form |
+| 971 | 1735 | *Italienisches Konzert* | 《意大利协奏曲》 | 意法风格的键盘融合 / Fusion of Italian and French styles |
+| 988 | 1741 | *Goldberg-Variationen* | 《哥德堡变奏曲》 | 30段变奏的结构杰作 / Structural masterpiece of 30 variations |
+| 808–813 | 1717–1723 | *Englische Suiten* | 英国组曲 | 六首键盘组曲 / Six keyboard suites |
+| 806–811 | 1717–1723 | *Französische Suiten* | 法国组曲 | 六首键盘组曲 / Six keyboard suites |
+
+## 三、器乐作品 / Instrumental Works
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 1046–1051 | 1721 | *Brandenburgische Konzerte* | 《勃兰登堡协奏曲》 | 六首大协奏曲的集大成 / Culmination of six concerti grossi |
+| 1001–1006 | 1717–1723 | *Sonaten und Partiten für Violine solo* | 小提琴独奏奏鸣曲与组曲 | 小提琴无伴奏的极限，包括恰空（BWV 1004）/ Limit of solo violin, including the Chaconne (BWV 1004) |
+| 1007–1012 | c. 1720 | *Suiten für Violoncello solo* | 大提琴独奏组曲 | 大提琴独奏的奠基之作 / Foundational works for solo cello |
+| 1013 | c. 1723 | *Partita für Flöte solo* | 长笛独奏组曲 | 长笛独奏的重要作品 / Important solo flute work |
+| 1041–1044 | c. 1717–1721 | 小提琴协奏曲 | 小提琴协奏曲 | a小调与E大调协奏曲 / A minor and E major concertos |
+| 1052–1065 | c. 1730s | 键盘协奏曲 | 键盘协奏曲 | 包括多部由早期作品改编的协奏曲 / Including arrangements from earlier works |
+| 1066–1070 | c. 1717–1723 | 管弦乐组曲 | 管弦乐组曲 | 法国序曲风格的管弦乐作品 / Orchestral works in French overture style |
+
+## 四、对位总结作品 / Contrapuntal Summation Works
+
+| BWV | 年份 / Year | 标题 / Title | 中译 | 意义 / Significance |
+|-----|------|------|------|------|
+| 1079 | 1747 | *Musikalisches Opfer* | 《音乐的奉献》 | 基于腓特烈大帝主题的对位变体 / Contrapuntal variations on Frederick the Great's theme |
+| 1080 | 1742–1750 | *Die Kunst der Fuge* | 《赋格的艺术》 | 单一主题的全部对位变体，未完成 / Complete contrapuntal transformations, unfinished |
+| 1087 | c. 1740s | *Canonische Variationen* | 卡农变奏曲 | "从天堂而来"众赞歌的卡农变奏 / Canonic variations on "Vom Himmel hoch" |
+
+## 五、重要版本与出版物 / Key Editions and Publications
+
+- **NBA (*Neue Bach-Ausgabe*)**: 新巴赫全集，Bärenreiter，1954–2007年，共96卷——标准学术版
+- **BG (*Bach-Gesellschaft Ausgabe*)**: 巴赫学会版，1851–1900年，首部全集出版
+- **Bärenreiter 原典版**: 多种独奏和室内乐作品的实用演奏版
+- **Henle Verlag 原典版**: 键盘作品的高质量学术版
+- **Bach Digital**: [www.bach-digital.de](https://www.bach-digital.de) — 手稿与早期印刷版数字档案
+
+## 六、遗失与归属争议作品 / Lost and Disputed Works
+
+巴赫部分作品已佚失，包括《马可受难曲》（BWV 247，仅存歌词）、大量康塔塔（约100首已佚）、以及可能的器乐协奏曲。一些作品（如BWV 565 d小调托卡塔与赋格）的作者归属在学术界仍有争议——有学者认为它可能由巴赫的学生或同时代人创作。
+
+Some of Bach's works have been lost, including the *St Mark Passion* (BWV 247, libretto only), numerous cantatas (approximately 100 lost), and possibly instrumental concertos. The authorship of certain works (such as the BWV 565 Toccata and Fugue in D minor) remains debated — some scholars suggest it may have been composed by a student or contemporary of Bach.
+
+## 阅读路径 / Listening Paths
+
+**入门 / Introductory**: 《平均律》C大调前奏曲 → 《勃兰登堡协奏曲》No. 2, 3 → 《马太受难曲》"Erbarme dich" → 《哥德堡变奏曲》咏叹调 → d小调托卡塔与赋格
+
+**进阶 / Intermediate**: 《平均律》全集精选 → 《马太受难曲》全曲 → 大提琴独奏组曲 → 小提琴恰空 → 管风琴众赞歌前奏曲选
+
+**深潜 / Advanced**: 《赋格的艺术》→ 《音乐的奉献》→ 《b小调弥撒》→ 康塔塔全集系统聆听 → 管风琴全集

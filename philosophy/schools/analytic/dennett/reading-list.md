@@ -1,0 +1,65 @@
+---
+id: dennett-reading-list
+title: 丹尼特进阶阅读 · Daniel Dennett Reading List
+type: reading-list
+domain: philosophy
+school: analytic
+thinker: dennett
+tags: [dennett, bibliography, reading-guide]
+cross-refs:
+  - id: dennett
+    relation: thinker
+---
+
+# 丹尼特进阶阅读 · Daniel Dennett Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- *Consciousness Explained* (1991) — 多重草稿模型
+- *The Intentional Stance* (1987) — 系统阐述
+- *Darwin's Dangerous Idea* (1995) — 进化哲学
+
+### 重要
+- *Brainstorms* (1978) — 心灵哲学论文集
+- *Freedom Evolves* (2003) — 自由意志与进化
+- *Breaking the Spell* (2006) — 宗教批判
+- *From Bacteria to Bach and Back* (2017) — 文化进化
+
+## 二、经典研究 / Classic Studies
+
+- John Searle, *The Rediscovery of the Mind* (1992) — 对丹尼特的重要批评
+- David Chalmers, *The Conscious Mind* (1996) — 硬问题（丹尼特的论敌）
+- Thomas Nagel, "The View from Nowhere" (1986) — 第一人称视角的辩护
+- Ned Block, "How Many Concepts of Consciousness?" (1995) — 对丹尼特意识理论的批评
+- Owen Flanagan, *Consciousness Reconsidered* (1992) — 中间立场
+- Colin McGinn, *The Problem of Consciousness* (1991) — 新神秘主义（论敌）
+- Paul Churchland, *Matter and Consciousness* (1984) — 取消唯物论
+
+## 三、当代研究 / Contemporary Studies
+
+- Andrew Brook & Kathleen Akins (eds.), *Philosophy and the Sciences of the Mind* (2008) — 丹尼特哲学论文集
+- Don Ross, Andrew Brook & David Thompson (eds.), *Dennett's Philosophy* (2000) — 丹尼特研究
+- Matthew Elton, *Consciousness: Only* (2009) — 丹尼特意识理论的辩护
+- Richard Brown, "Dennett and the Reality of Red" (2014) — 感受性质争论
+- Katalin Balog, "Dennett on Explaining Consciousness" (2017) — 批评性分析
+- Jesse Prinz, *The Conscious Brain* (2012) — 意识的中间立场
+
+## 四、入门推荐 / Introductory
+
+- *Intuition Pumps* (2013) — 最佳方法论入门
+- *Kinds of Minds* (1996) — 简短可读
+- "Daniel Dennett" in *Stanford Encyclopedia of Philosophy* (Andersen)
+- *The Mind's I* (with Hofstadter, 1981) — 心智哲学经典文集
+- "Where Am I?" (1978) — 最有趣的思想实验
+
+## 五、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | *Intuition Pumps* → *Kinds of Minds* |
+| 研究意识 | *Consciousness Explained* → Chalmers *Conscious Mind* → Flanagan |
+| 研究进化 | *Darwin's Dangerous Idea* → Gould *The Structure of Evolutionary Theory* |
+| 研究自由意志 | *Elbow Room* → *Freedom Evolves* → Kane *A Contemporary Introduction to Free Will* |
+| 研究宗教 | *Breaking the Spell* → Dawkins *The God Delusion* → Plantinga *Where the Conflict Really Lies* |
+| 批评视角 | Searle *Rediscovery* → Nagel *View from Nowhere* → Chalmers *Conscious Mind* |

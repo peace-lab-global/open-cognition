@@ -1,0 +1,101 @@
+---
+id: sen-famine-entitlement
+title: "饥荒与权利 · Famine and Entitlement"
+type: concept
+thinker: sen
+domain: ethics-politics
+school: capability-approach
+tags: [famine, entitlement, food-security, democracy, poverty, rights]
+cross-refs: [nussbaum, dreze, malthus, ravallion]
+---
+
+# 饥荒与权利 · Famine and Entitlement
+
+## 概念概述 / Concept Overview
+
+"饥荒与权利"是森最具影响力的经验研究贡献，集中体现在1981年出版的《贫困与饥荒：论权利与剥夺》（*Poverty and Famines: An Essay on Entitlement and Deprivation*）中。森通过历史案例研究——包括1943年孟加拉大饥荒、1970年代埃塞俄比亚饥荒、1974年孟加拉饥荒等——颠覆了关于饥荒成因的传统理解。
+
+"Famine and Entitlement" is Sen's most influential empirical research contribution, concentrated in his 1981 book *Poverty and Famines: An Essay on Entitlement and Deprivation*. Through historical case studies — including the 1943 Bengal Famine, 1970s Ethiopian famine, and 1974 Bangladesh famine — Sen overturned the conventional understanding of famine causation.
+
+传统观点认为饥荒是食物供应不足（food availability decline, FAD）的结果——旱灾、洪灾或战争导致粮食减产，进而引发饥荒。森证明这一观点是错误的：在许多大饥荒中，食物供应水平并不低于非饥荒年份，饥荒发生的原因在于特定群体的"权利体系"（entitlement system）崩溃——即这些人丧失了获取食物的合法途径。
+
+The conventional view held that famine results from food availability decline (FAD) — drought, flood, or war reducing food production, triggering famine. Sen proved this view wrong: in many major famines, food supply levels were not lower than in non-famine years. Famine occurred because specific groups' "entitlement systems" collapsed — that is, these people lost their legitimate means of obtaining food.
+
+## 理论内涵 / Theoretical Content
+
+森的"权利方法"（entitlement approach）提出了一套分析食物获取的理论框架。"权利"（entitlement）在此不是指道德权利，而是指在一个给定法律-经济体系中，一个人通过合法手段（生产、贸易、劳动、继承、转移支付等）所能获取的商品集合。
+
+Sen's "entitlement approach" proposes a theoretical framework for analyzing food access. "Entitlement" here refers not to moral rights, but to the set of commodities a person can obtain through legitimate means (production, trade, labor, inheritance, transfer payments, etc.) within a given legal-economic system.
+
+森区分了几种主要的权利类型：(1) 基于生产的权利——农民通过自己的生产获取食物；(2) 基于贸易的权利——通过市场交换获取食物；(3) 基于劳动的权利——通过出卖劳动力获取工资以购买食物；(4) 基于转移的权利——通过社会保障、慈善或家庭转移获取食物。饥荒发生时，往往是某一种或多种权利渠道的崩溃导致特定群体无法获取食物。
+
+Sen distinguished several main types of entitlement: (1) production-based entitlement — farmers obtaining food through their own production; (2) trade-based entitlement — obtaining food through market exchange; (3) labor-based entitlement — obtaining wages by selling labor to purchase food; (4) transfer-based entitlement — obtaining food through social security, charity, or family transfers. When famine occurs, it is often the collapse of one or more entitlement channels that prevents specific groups from obtaining food.
+
+1943年孟加拉大饥荒是森的标志性案例。在那次饥荒中，约200万至300万人死亡。森的研究表明，1943年的粮食总产量并不低于1941年（非饥荒年份），饥荒的真正原因是战争经济中的通货膨胀急剧提高了食品价格，而农村无地劳工和某些城市服务行业从业者的工资未能同步增长，导致他们的"贸易权利"（trade entitlement）崩溃——他们买不起食物，尽管市场上有食物可买。
+
+The 1943 Bengal Famine is Sen's landmark case. In that famine, approximately 2-3 million people died. Sen's research showed that 1943's total food production was not lower than 1941 (a non-famine year). The real cause was wartime inflation dramatically raising food prices while wages for rural landless laborers and certain urban service workers failed to keep pace, causing their "trade entitlement" to collapse — they could not afford food, even though food was available in the market.
+
+森由此得出了一个惊人的政治结论：在运转正常的民主体制中，不会发生大规模饥荒。这是因为民主制度中的新闻自由、选举问责和反对党监督使得政府必须在饥荒早期阶段就采取有效措施。饥荒不仅是经济问题，更是政治问题——它的预防需要政治问责机制。
+
+Sen drew from this a striking political conclusion: large-scale famines do not occur in functioning democracies. This is because press freedom, electoral accountability, and opposition party oversight in democratic systems compel governments to take effective measures at early famine stages. Famine is not merely an economic problem but a political one — its prevention requires political accountability mechanisms.
+
+## 思想史脉络 / Intellectual History
+
+在森之前，饥荒研究主要受马尔萨斯（Malthus）人口论影响：人口增长超过食物供应增长必然导致饥荒。这一思路在学术界和政策界都占据主导地位。森的权利方法彻底改变了饥荒研究的范式。
+
+Before Sen, famine research was dominated by Malthusian population theory: population growth exceeding food supply growth inevitably causes famine. This approach dominated both academia and policy circles. Sen's entitlement approach completely transformed the famine research paradigm.
+
+森的研究也受到了1943年孟加拉大饥荒的个人经历影响：他童年时期亲眼目睹了饥荒中农村贫民的惨状，这一记忆成为他学术生涯的持久动力。同时，他与让·德雷兹（Jean Drèze）的长期合作——共同研究印度饥荒与社会保障制度——深化了权利方法的经验基础。
+
+Sen's research was also influenced by his personal experience of the 1943 Bengal Famine: witnessing the suffering of rural poor during the famine as a child became a lasting motivation for his academic career. His long-term collaboration with Jean Drèze — jointly studying Indian famine and social security systems — deepened the empirical foundation of the entitlement approach.
+
+## 关键文本 / Key Passages
+
+> "饥荒的特征是一部分人口因权利的崩溃而无法获取足够的食物，而非食物总量的绝对不足。"
+>
+> "Starvation is the characteristic of some people not having enough food to eat. It is not the characteristic of there being not enough food to eat."
+> — Sen, *Poverty and Famines* (1981)
+
+这段著名的引文精确地表达了权利方法的核心洞见：饥荒不是关于食物总量的问题，而是关于分配与获取的问题。
+
+This famous passage precisely expresses the core insight of the entitlement approach: famine is not about total food quantity but about distribution and access.
+
+> "在运转正常的多党民主制中——包括独立的新闻界——从来没有发生过大规模饥荒。"
+>
+> "No famine has ever taken place in a functioning democracy with a multiparty system and a relatively free press."
+> — Sen, *Development as Freedom* (1999)
+
+## 当代应用 / Contemporary Applications
+
+权利方法对当代粮食安全政策产生了深远影响。联合国粮农组织（FAO）和世界粮食计划署（WFP）在粮食安全评估中广泛采用了权利分析框架，关注食物获取能力而非仅仅食物供应水平。多维度的"粮食安全"定义——包括可用性（availability）、获取性（access）、利用性（utilization）与稳定性（stability）——直接继承了森的权利方法。
+
+The entitlement approach has profoundly influenced contemporary food security policy. The FAO and World Food Programme (WFP) widely adopted entitlement analysis frameworks in food security assessments, focusing on food access capability rather than merely food supply levels. The multidimensional definition of "food security" — including availability, access, utilization, and stability — directly inherits from Sen's entitlement approach.
+
+在气候变化的语境下，权利方法被用于分析气候灾害中的粮食不安全：极端气候事件可能不直接导致食物短缺，但通过破坏生计系统（livelihood systems）而瓦解特定群体的权利体系。
+
+In the context of climate change, the entitlement approach is used to analyze food insecurity during climate disasters: extreme climate events may not directly cause food shortages, but can collapse specific groups' entitlement systems by destroying livelihood systems.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一：权利方法的局限 / Critique 1: Limitations of the Entitlement Approach**
+一些学者指出，在某些饥荒中（如1980年代苏丹饥荒），食物供应的绝对下降确实是重要因素。权利方法虽然比FAD更有解释力，但不能完全排除供应因素的作用。森承认供应下降在某些情况下是重要因素，但坚持认为权利分析提供了更完整的解释框架。
+
+Some scholars note that in certain famines (such as 1980s Sudan), absolute food supply decline was indeed an important factor. While the entitlement approach is more explanatory than FAD, it cannot entirely exclude supply factors. Sen acknowledges that supply decline is important in some cases, but maintains that entitlement analysis provides a more complete explanatory framework.
+
+**批评二："民主防饥荒"论的简化 / Critique 2: Oversimplification of "Democracy Prevents Famine"**
+批评者指出，印度的民主制度虽然在独立后防止了大规模饥荒，但未能消除持续性的营养不良和儿童饥饿——这是一种"无声的饥荒"（silent famine）。森接受了这一批评，承认民主在防止大规模饥荒方面的成功并不意味着它能自动解决所有饥饿问题。
+
+Critics note that while India's democracy prevented large-scale famines after independence, it failed to eliminate chronic malnutrition and child hunger — a "silent famine." Sen accepted this criticism, acknowledging that democracy's success in preventing large-scale famine does not mean it automatically solves all hunger problems.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+中国古代的荒政（famine administration）传统与森的权利方法有深层共鸣。从先秦时期的"荒政十二策"到明清的赈灾体系，中国历史上的荒政都关注食物分配与获取机制，而非仅仅粮食产量。"仓廪实而知礼节"的理念也呼应了森关于经济条件与社会文明之间关系的论述。
+
+China's ancient famine administration (荒政) tradition has deep resonance with Sen's entitlement approach. From the pre-Qin "twelve famine policies" to Ming-Qing disaster relief systems, Chinese historical famine administration focused on food distribution and access mechanisms, not merely grain production. The concept "when granaries are full, people know propriety" (仓廪实而知礼节) also echoes Sen's discussion of the relationship between economic conditions and social civilization.
+
+## 延伸阅读 / Further Reading
+
+- Sen, A. (1981). *Poverty and Famines: An Essay on Entitlement and Deprivation*. Oxford University Press.
+- Drèze, J., & Sen, A. (1989). *Hunger and Public Action*. Oxford University Press.
+- Drèze, J., & Sen, A. (2013). *An Uncertain Glory: India and Its Contradictions*. Princeton University Press.
+- De Waal, A. (1989). *Famine That Kills: Darfur, Sudan*. Oxford University Press.

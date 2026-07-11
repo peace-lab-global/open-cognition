@@ -1,0 +1,197 @@
+---
+id: religion.buddhism.masters.daoxuan.works
+title: "道宣著作列表 Works of Daoxuan"
+type: reference
+domain: religion
+school: buddhism-vinaya
+parent: [[README|道宣]]
+tags: [道宣, 著作, 四分律, 广弘明集, 续高僧传]
+---
+
+# 道宣著作列表 · Works of Daoxuan
+
+---
+
+## 一、律学三大部 · The Three Great Works of Nanshan
+
+"南山三大部"是道宣律学体系的核心著作，共同构成了南山律宗的理论基础。
+
+The "Three Great Works of Nanshan" (南山三大部) are the core texts of Daoxuan's Vinaya system, together constituting the theoretical foundation of the Nanshan Vinaya School.
+
+### 1.1 《四分律删繁补阙行事钞》
+
+- **简称**：《行事钞》
+- **卷数**：三卷（或十二卷）
+- **大正藏编号**：T.1804
+- **内容**：律学的百科全书式著作。系统整理了受戒、说戒、安居、自恣、忏悔等僧团生活的全部规范，是道宣最重要、最具影响力的著作。
+- **English**: *Procedural Manual of the Dharmaguptaka Vinaya, Abridged and Supplemented* — an encyclopedic compendium systematizing all aspects of monastic life, including ordination, precept recitation, rainy-season retreat, invitation ceremony, and penance. Daoxuan's most important and influential work.
+
+### 1.2 《四分律删补随机羯磨》
+
+- **简称**：《羯磨疏》（或《随机羯磨》）
+- **卷数**：二卷
+- **大正藏编号**：T.1805
+- **内容**：关于僧团羯磨（会议法）的详细注释。涵盖了僧团运作中的各种程序性规定。
+- **English**: *Commentary on Karma Procedures of the Dharmaguptaka Vinaya, Abridged and Supplemented* — detailed commentary on saṅgha-karma (communal decision-making rituals), covering procedural regulations for saṅgha operations.
+
+### 1.3 《四分律含注戒本疏》
+
+- **简称**：《戒本疏》
+- **卷数**：四卷
+- **大正藏编号**：T.1806
+- **内容**：对比丘戒本的逐条注释，详细分析了每一戒条的犯缘、开遮和轻重等级。
+- **English**: *Annotated Commentary on the Prātimokṣa of the Dharmaguptaka Vinaya* — clause-by-clause commentary on the bhikṣu precept text, with detailed analysis of transgression conditions, allowances/restrictions, and severity gradations for each precept.
+
+---
+
+## 二、其他律学著作 · Other Vinaya Works
+
+### 2.1 《四分律拾毗尼义钞》
+
+- **卷数**：三卷（现存二卷）
+- **大正藏编号**：T.1807
+- **内容**：对《行事钞》的补充，进一步阐释律学义理。
+- **English**: *Supplementary Commentary on Vinaya Meanings of the Dharmaguptaka Vinaya* — a supplement to the *Xingshi Chao*, further elucidating Vinaya doctrine.
+
+### 2.2 《四分比丘含注戒本》
+
+- **卷数**：一卷
+- **内容**：比丘戒本的注解本，为《戒本疏》的基础文本。
+- **English**: *Annotated Bhikṣu Prātimokṣa of the Dharmaguptaka Vinaya* — the annotated precept text that serves as the base text for the *Jieben Shu*.
+
+### 2.3 《四分律比丘尼钞》
+
+- **卷数**：二卷
+- **内容**：关于比丘尼戒律的注释。
+- **English**: *Commentary on the Bhikṣuṇī Vinaya of the Dharmaguptaka* — commentary on the nuns' Vinaya.
+
+---
+
+## 三、史学与文献学著作 · Historiographical and Bibliographical Works
+
+### 3.1 《续高僧传》
+
+- **卷数**：三十卷（初为三十卷，后增补至四十卷）
+- **大正藏编号**：T.2060
+- **内容**：续慧皎《高僧传》，收录自梁初至唐贞观年间的高僧传记约四百余人。是研究南北朝至初唐佛教史的核心文献。分为十科：译经、义解、神异、习禅、明律、护法、感通、遗身、读诵、杂科。
+- **English**: *Continued Biographies of Eminent Monks* — continuation of Huijiao's *Biographies of Eminent Monks*, containing biographies of approximately 400 eminent monks from the early Liang through the Zhenguan era of the Tang. A core document for the study of Chinese Buddhist history from the Southern Dynasties through early Tang. Organized into ten categories: translation, doctrinal exposition, miraculous powers, meditation, Vinaya, apologetics, spiritual resonance, self-sacrifice, recitation, and miscellaneous.
+
+### 3.2 《广弘明集》
+
+- **卷数**：三十卷
+- **大正藏编号**：T.2103
+- **内容**：佛教护教文献汇编，收录自汉至唐的佛教论辩文章。涉及儒释道三教争论、因果报应、神灭论、佛像崇拜等重要议题。是研究中国佛教思想史和三教关系史的基本文献。
+- **English**: *Expanded Collection on the Propagation of the Light* — an anthology of Buddhist apologetic literature from the Han through Tang dynasties. Covers major intellectual issues including Buddhism-Confucianism-Daoism debates, karma and retribution, the mortality of the soul, and image worship. A fundamental document for the study of Chinese Buddhist intellectual history and the history of inter-religious relations.
+
+### 3.3 《释迦方志》
+
+- **卷数**：二卷
+- **大正藏编号**：T.2088
+- **内容**：关于印度佛教地理和历史的著作，记述了佛陀出生地、成道地、转法轮地等圣地的地理位置和历史沿革。
+- **English**: *Gazetteer of Śākyamuni's Lands* — a geographical and historical account of Buddhist India, recording the locations and histories of sacred sites including the Buddha's birthplace, site of enlightenment, and place of first teaching.
+
+### 3.4 《大唐内典录》
+
+- **卷数**：十卷
+- **大正藏编号**：T.2149
+- **内容**：唐代佛教经录，系统整理了自汉至唐翻译和撰著的佛教典籍。
+- **English**: *Catalogue of the Inner Canon of the Great Tang* — a systematic bibliographic catalogue of Buddhist texts translated and composed from the Han through Tang dynasties.
+
+### 3.5 《集古今佛道论衡》
+
+- **卷数**：四卷
+- **大正藏编号**：T.2104
+- **内容**：佛道二教论辩文献汇编，收录了历代佛教与道教之间的论争文章。
+- **English**: *Collected Records of Buddhist-Daoist Debates, Ancient and Modern* — an anthology of debate literature between Buddhism and Daoism across the dynasties.
+
+---
+
+## 四、其他著作 · Other Works
+
+### 4.1 《释门章服仪》
+
+- **卷数**：一卷
+- **内容**：关于僧侣服饰的规定和说明。
+- **English**: *Protocols for Monastic Robes* — regulations and explanations concerning monastic attire.
+
+### 4.2 《释门归敬仪》
+
+- **卷数**：一卷
+- **内容**：关于僧侣礼节和恭敬仪轨的规定。
+- **English**: *Protocols for Monastic Veneration* — regulations concerning monastic etiquette and reverential rituals.
+
+### 4.3 《净心诫观法》
+
+- **卷数**：一卷
+- **大正藏编号**：T.1892
+- **内容**：关于修心方法的指导著作。
+- **English**: *Contemplation Methods for Purifying the Mind* — a guide to mental cultivation methods.
+
+### 4.4 《量处轻重仪》
+
+- **卷数**：一卷
+- **内容**：关于处理僧团事务时如何衡量轻重标准的指导。
+- **English**: *Protocols for Assessing Gravity in Disciplinary Matters* — guidance on evaluating severity standards when handling saṅgha affairs.
+
+### 4.5 《教诫新学比丘行护律仪》
+
+- **卷数**：一卷
+- **内容**：对新学比丘的行为指导。
+- **English**: *Instructional Vinaya for Newly Ordained Bhikṣus* — behavioral guidance for newly ordained monks.
+
+---
+
+## 五、著作分类统计 · Classification Summary
+
+| 类别 | 数量 | 代表作 |
+|------|------|--------|
+| **律学** | ~10部 | 南山三大部 |
+| **史学** | ~5部 | 续高僧传、广弘明集 |
+| **文献学** | ~2部 | 大唐内典录 |
+| **修行指导** | ~3部 | 净心诫观法 |
+
+| Category | Count | Representative Works |
+|----------|-------|----------------------|
+| **Vinaya Studies** | ~10 | Three Great Works of Nanshan |
+| **Historiography** | ~5 | Continued Biographies, Expanded Collection |
+| **Bibliography** | ~2 | Catalogue of the Inner Canon |
+| **Practice Guidance** | ~3 | Contemplation Methods for Purifying the Mind |
+
+---
+
+## 六、大正藏索引 · Taishō Tripiṭaka Index
+
+| 著作 | 大正藏编号 | 卷数 |
+|------|-----------|------|
+| 行事钞 | T.1804 | 3卷 |
+| 随机羯磨 | T.1805 | 2卷 |
+| 戒本疏 | T.1806 | 4卷 |
+| 拾毗尼义钞 | T.1807 | 3卷 |
+| 释迦方志 | T.2088 | 2卷 |
+| 续高僧传 | T.2060 | 30卷 |
+| 广弘明集 | T.2103 | 30卷 |
+| 集古今佛道论衡 | T.2104 | 4卷 |
+| 大唐内典录 | T.2149 | 10卷 |
+| 净心诫观法 | T.1892 | 1卷 |
+
+---
+
+## 七、版本与流通 · Editions and Availability
+
+- **大正新修大藏经**（Taishō Tripiṭaka）：上述大部分著作均收录于大正藏。
+  Most of the above works are included in the Taishō edition of the Chinese Tripiṭaka.
+
+- **卍续藏经**（Manji Zokuzōkyō）：部分注释和研究著作收录于此。
+  Some commentaries and research works are included in the Manji supplement.
+
+- **现代点校本**：部分著作已有现代点校版本出版，如中华书局版《广弘明集》《续高僧传》等。
+  Modern punctuated editions: Several works have been published in modern punctuated editions, including the Zhonghua Shuju editions of *Guang Hongming Ji* and *Xu Gaoseng Zhuan*.
+
+---
+
+## 关联页面 · Related Pages
+
+- [[README|道宣]] — 道宣主页
+- [[concepts/precept-substance|戒体论]]
+- [[concepts/nanshan-vinaya|南山律]]
+- [[timeline|生平年表]]

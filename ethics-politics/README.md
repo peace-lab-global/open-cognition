@@ -26,27 +26,42 @@
 
 ## 思想家条目
 
+> 每位思想家已展开为独立专题文件夹（README + 5 概念子页 + works/timeline/reading-list）。
+
 ### 结果主义 consequentialism
-- [边沁 Jeremy Bentham](schools/consequentialism/bentham.md)
-- [密尔 John Stuart Mill](schools/consequentialism/mill.md)
+- [边沁 Jeremy Bentham](schools/consequentialism/bentham/README.md) — 功利主义、苦乐计算
+- [密尔 John Stuart Mill](schools/consequentialism/mill/README.md) — 更高功利、自由、伤害原则
 
 ### 道义论 deontology
-- [康德 Immanuel Kant](schools/deontology/kant.md)
+- [康德 Immanuel Kant](schools/deontology/kant/README.md) — 定言命令、自律、人是目的
 
 ### 德性伦理学 virtue-ethics
-- [亚里士多德 Aristotle](schools/virtue-ethics/aristotle.md)
-- [麦金太尔 Alasdair MacIntyre](schools/virtue-ethics/macintyre.md)
+- [亚里士多德 Aristotle](schools/virtue-ethics/aristotle/README.md) — 德性、中庸、幸福（eudaimonia）
+- [麦金太尔 Alasdair MacIntyre](schools/virtue-ethics/macintyre/README.md) — 德性之后、叙事统一性、实践
 
 ### 社会契约论 social-contract
-- [霍布斯 Thomas Hobbes](schools/social-contract/hobbes.md)
-- [洛克 John Locke](schools/social-contract/locke.md)
-- [罗尔斯 John Rawls](schools/social-contract/rawls.md)
+- [霍布斯 Thomas Hobbes](schools/social-contract/hobbes/README.md) — 自然状态、利维坦、绝对主权
+- [洛克 John Locke](schools/social-contract/locke/README.md) — 自然权利、有限政府、财产权
+- [罗尔斯 John Rawls](schools/social-contract/rawls/README.md) — 无知之幕、正义二原则、政治自由主义
 
 ### 批判理论 critical-theory
-- [马尔库塞 Herbert Marcuse](schools/critical-theory/marcuse.md)
+- [马尔库塞 Herbert Marcuse](schools/critical-theory/marcuse/README.md) — 单向度的人、压抑性宽容
 
 ### 关怀伦理学 care-ethics
-- [诺丁斯 Nel Noddings](schools/care-ethics/noddings.md)
+- [诺丁斯 Nel Noddings](schools/care-ethics/noddings/README.md) — 关怀关系、关怀伦理
+
+### 自由意志主义 libertarianism
+- [诺齐克 Robert Nozick](schools/libertarianism/nozick/README.md) — 最小国家、持有正义、体验机
+
+### 能力方法 capability-approach
+- [森 Amartya Sen](schools/capability-approach/sen/README.md) — 能力方法、以自由看待发展
+- [纳斯鲍姆 Martha Nussbaum](schools/capability-approach/nussbaum/README.md) — 核心能力清单、脆弱善
+
+### 共同体主义 communitarianism
+- [泰勒 Charles Taylor](schools/communitarianism/taylor/README.md) — 承认政治、本真性伦理、世俗时代
+
+### 非暴力抵抗 nonviolent-resistance
+- [甘地 Mahatma Gandhi](schools/nonviolent-resistance/gandhi/README.md) — 非暴力（ahimsa）、坚持真理（satyagraha）
 
 ## 跨学派核心概念
 

@@ -1,0 +1,129 @@
+---
+id: cervantes-reading-list
+title: 塞万提斯进阶阅读 · Cervantes Reading List
+type: reading-list
+domain: literature
+school: novelists
+thinker: cervantes
+tags: [cervantes, bibliography, reading-guide, spanish-literature]
+cross-refs:
+  - id: cervantes
+    relation: thinker
+---
+
+# 塞万提斯进阶阅读 · Cervantes Reading List
+
+## 一、阅读路径
+
+### 入门（精选章节，6 小时）
+1. 《堂吉诃德》第一部：第 1、8、20–22 章 — 堂吉诃德的出场、风车之战、桑丘对话
+2. 《训诫小说集》：《狗的对话》— 以犬类视角讽刺人类的讽刺杰作
+
+### 进阶（全书精读，30 小时）
+3. 《堂吉诃德》第一部全书
+4. 《堂吉诃德》第二部全书
+5. 《训诫小说集》全书
+
+### 深潜（含比较与批评）
+6. 对比阅读阿韦利亚内达伪续书（选章）与塞万提斯第二部的回应
+7. 《佩西莱斯与西吉斯蒙达的苦旅》
+8. 巴赫金《陀思妥耶夫斯基诗学问题》中关于对话理论的章节
+9. 乌纳穆诺《堂吉诃德与桑丘的生活》
+
+## 二、原典（必读）
+
+### 核心著作
+- *Don Quixote* Part I (1605) — 现代小说的奠基之作
+- *Don Quixote* Part II (1615) — 元叙事与小说自觉性的巅峰
+- *Novelas ejemplares* (1613) — 短篇小说的多样实验
+
+### 重要短篇
+- "El coloquio de los perros"（《狗的对话》）— 最具哲学深度的短篇
+- "El licenciado Vidriera"（《玻璃硕士》）— 疯狂与智慧的辩证
+- "Rinconete y Cortadillo"（《林孔内特与科尔塔迪略》）— 现实主义风俗画
+
+### 戏剧
+- *El cerco de Numancia*（《努曼西亚之围》）— 悲剧
+- *Ocho comedias y ocho entremises*（1615）— 喜剧与幕间剧
+
+### 中译本推荐
+- 杨绛 译《堂吉诃德》（人民文学出版社）— 最经典中文译本，语言生动传神
+- 刘京胜 译《堂吉诃德》（漓江出版社）— 较新译本
+- 陈凯先 等译《训诫小说集》（上海译文出版社）
+
+## 三、传记
+
+### 经典传记
+- **Fitzmaurice-Kelly, James** *The Life of Miguel de Cervantes Saavedra* (1892) — 早期经典传记
+- **Byron, William** *Cervantes: A Biography* (1978) — 详尽的现代传记
+- **McCrory, Donald** *A Life of Cervantes* (2005) — 可读性强的学术传记
+
+### 中文传记
+- 陈众议《塞万提斯》（外国文学出版社）
+- 董燕生《塞万提斯传》（河北教育出版社）
+
+## 四、批评与研究
+
+### 经典研究
+- **Auerbach, Erich** *Mimesis* 第 12 章 "Enchanted Dulcinea" — 从文体学角度分析塞万提斯的现实主义
+- **Bakhtin, Mikhail** *The Dialogic Imagination* — 对话理论与小说话语的诞生
+- **Unamuno, Miguel de** *Vida de Don Quijote y Sancho*（《堂吉诃德与桑丘的生活》, 1905）— 存在主义式的哲学解读
+- **Riley, E.C.** *Cervantes's Theory of the Novel* (1962) — 塞万提斯的小说理论
+
+### 当代研究
+- **Bloom, Harold** ed. *Cervantes's Don Quixote: Modern Critical Interpretations* (1987)
+- **Cascardi, Anthony** ed. *The Cambridge Companion to Cervantes* (2002)
+- **González Echevarría, Roberto** *Love and the Law in Cervantes* (2008)
+- **Quint, David** *Cervantes's Novel of Modern Times* (2003) — 聚焦第二部
+
+### 中文研究
+- 屠孟超《塞万提斯与〈堂吉诃德〉》
+- 陈众议《塞万提斯研究》（南京大学出版社）
+
+## 五、塞万提斯的思想源头
+
+- **阿里奥斯托**《疯狂的奥兰多》— 骑士文学的讽刺高峰
+- **拉伯雷**《巨人传》— 狂欢化与身体叙事的先驱
+- **伊拉斯谟**《愚人颂》— 以讽刺为武器的智识传统
+- **薄伽丘**《十日谈》— 框架叙事与短篇小说的传统
+- **塞万提斯所读骑士小说**：《阿马迪斯·德·高拉》《贝利亚尼斯》《蒂兰特·洛·布兰科》
+
+## 六、塞万提斯的下游
+
+### 文学
+- **菲尔丁** — 《汤姆·琼斯》对《堂吉诃德》叙事模式的继承
+- **斯特恩** — 《项狄传》的元叙事传统
+- **福楼拜** — 《包法利夫人》中的"女性堂吉诃德"
+- **陀思妥耶夫斯基** — 《白痴》中的梅什金公爵作为"现代堂吉诃德"
+- **博尔赫斯** — 《皮埃尔·梅纳尔，〈堂吉诃德〉的作者》
+- **昆德拉** — 《小说的艺术》中对塞万提斯遗产的反思
+- **加西亚·马尔克斯** — 魔幻现实主义的塞万提斯根源
+- **拉什迪** — 《摩尔人的最后叹息》中的元叙事
+
+### 哲学
+- **乌纳穆诺** — 存在主义的堂吉诃德哲学
+- **舍斯托夫** — 堂吉诃德作为信仰的骑士
+- **理查德·罗蒂** — 文学文化替代哲学求真
+
+### 视觉艺术
+- **毕加索** — 堂吉诃德版画系列（1955）
+- **达利** — 《堂吉诃德》插画
+- **奥逊·威尔斯** — 未完成的《堂吉诃德》电影
+
+## 七、研究工具
+
+- **Cervantes Virtual Library** (cervantesvirtual.com) — 最全面的在线文本资源
+- **Cervantes International Center** — 学术研究与会议
+- **Stanford Encyclopedia of Philosophy** — "Cervantes" 相关条目
+- **杨绛**《我们仨》— 关于翻译《堂吉诃德》的个人回忆
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**塞万提斯的精髓** | 精选章节 → 陈众议导读 |
+| 深入**《堂吉诃德》** | 第一部全书 → 第二部全书 → Riley |
+| 理解**小说的哲学维度** | 乌纳穆诺 → 巴赫金 → 昆德拉 |
+| 了解**叙事技巧** | 《训诫小说集》→ Auerbach → Quint |
+| **中文读者**入门 | 杨绛译本 → 董燕生传 → 陈众议研究 |
+| 探索**文学影响史** | Bloom → Cascardi → 下游作家选读 |

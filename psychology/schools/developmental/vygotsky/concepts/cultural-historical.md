@@ -1,0 +1,222 @@
+---
+id: vygotsky-lev.cultural-historical
+title: "文化-历史理论 · Cultural-Historical Theory"
+type: concept
+domain: psychology
+thinker: vygotsky-lev
+tags: [文化历史心理学, 社会文化理论, 高级心理机能, 种系发生, cultural-historical-psychology, sociocultural-theory, higher-mental-functions, phylogenesis]
+---
+
+# 文化-历史理论 · Cultural-Historical Theory
+
+## 定义 / Definition
+
+文化-历史理论（Cultural-Historical Theory）是维果茨基创立的心理学理论框架，主张人类心理机能的本质和发展必须在文化工具的使用和社会历史语境中理解。该理论的核心命题是：人类的高级心理机能（如抽象思维、有意注意、逻辑记忆）不是生物学给定的，而是通过文化工具（尤其是语言）的中介在社会互动中发展起来的。
+
+Cultural-Historical Theory is the psychological theoretical framework founded by Vygotsky, which asserts that the nature and development of human mental functions must be understood within the context of cultural tool use and socio-historical conditions. The theory's core proposition is that human higher mental functions (such as abstract thinking, voluntary attention, and logical memory) are not biologically given but develop through the mediation of cultural tools (especially language) in social interaction.
+
+> "The cultural development of the child is characterized first and foremost by the emergence of new formations that are not innate and that are acquired in the process of the social-historical development of humankind."
+> — Vygotsky, *The History of the Development of Higher Mental Functions* (1931)
+
+文化-历史理论不是一个局部理论，而是一个完整的心理学方法论——它回答了三个根本问题：心理机能的起源（社会互动和文化工具）、发展路径（内化和转化）、以及研究方法（发生学方法）。
+
+Cultural-Historical Theory is not a partial theory but a complete psychological methodology — it addresses three fundamental questions: the origins of mental functions (social interaction and cultural tools), developmental pathways (internalization and transformation), and research methods (the genetic method).
+
+## 核心机制 / Core Mechanism
+
+### 方法论的四重发生论 / The Fourfold Genetic Method
+
+维果茨基提出的"发生学方法"（genetic method）要求在四个时间维度上研究心理机能的发展：
+
+Vygotsky's "genetic method" requires studying the development of mental functions across four temporal dimensions:
+
+#### 1. 种系发生 / Phylogenesis
+人类心理机能进化的历史——从灵长类祖先到现代人。关注的问题：人类心理机能与动物心理机能的根本区别是什么？文化工具（语言、符号系统）的出现如何改变了人类的心理结构？
+
+The evolutionary history of human mental functions — from primate ancestors to modern humans. Key question: What is the fundamental distinction between human and animal mental functions? How did the emergence of cultural tools (language, sign systems) transform human psychological structure?
+
+#### 2. 社会历史发生 / Sociogenesis (Cultural-Historical Development)
+不同历史时期和文化中，心理机能的具体形态如何因文化工具的差异而不同。关注的问题：不同文化（如使用不同书写系统、不同数字系统的文化）如何塑造不同的认知模式？
+
+How the concrete forms of mental functions differ across historical periods and cultures due to differences in cultural tools. Key question: How do different cultures (e.g., cultures using different writing systems, different number systems) shape different cognitive patterns?
+
+#### 3. 个体发生 / Ontogenesis
+个体从出生到成年的心理发展历程。关注的问题：儿童如何在社会互动中逐步掌握文化工具，从而发展出高级心理机能？
+
+The developmental trajectory of the individual from birth to adulthood. Key question: How do children gradually master cultural tools through social interaction, thereby developing higher mental functions?
+
+#### 4. 微观发生 / Microgenesis
+具体认知过程在即时互动中的展开——某一特定认知行为是如何在"当下"被建构的。关注的问题：在一次具体的问题解决活动中，认知过程是如何展开的？
+
+The unfolding of specific cognitive processes in immediate interaction — how a particular cognitive act is constructed "in the moment." Key question: In a specific problem-solving activity, how does the cognitive process unfold?
+
+### 低级心理机能与高级心理机能 / Lower and Higher Mental Functions
+
+文化-历史理论的核心区分是"低级"与"高级"心理机能：
+
+The core distinction in cultural-historical theory is between "lower" and "higher" mental functions:
+
+#### 低级心理机能 / Lower Mental Functions
+- 生物学给定的 / Biologically given
+- 不随意的、自动的 / Involuntary, automatic
+- 对当前刺激的直接反应 / Direct response to present stimuli
+- 种系共有（人与动物共有）/ Phylogenetically shared (shared by humans and animals)
+- 例如：感觉、不随意注意、机械记忆、情绪反应
+
+#### 高级心理机能 / Higher Mental Functions
+- 文化发展的 / Culturally developed
+- 随意的、有意识的 / Voluntary, conscious
+- 通过中介工具间接运作 / Operating indirectly through mediating tools
+- 人类特有的 / Uniquely human
+- 例如：抽象思维、有意注意、逻辑记忆、语言、概念形成
+
+**关键洞见 / Key Insight**：高级心理机能不是低级机能的"升级版"，而是在性质上不同的心理过程——它们是通过文化工具的中介"重建"而成的。
+
+Higher mental functions are not "upgraded" lower functions but qualitatively different psychological processes — they are "reconstructed" through the mediation of cultural tools.
+
+### 发展的社会法则 / The Social Law of Development
+
+维果茨基提出了心理发展的"一般发生学法则"（General Genetic Law of Cultural Development）：
+
+Vygotsky proposed the "General Genetic Law of Cultural Development":
+
+> "Any function in the child's cultural development appears on the plane twice, in two different forms. First, it appears on the social plane, and then on the psychological plane. First it appears between people as an interpsychological category, and then within the child as an intrapsychological category."
+> — Vygotsky, *Mind in Society* (1978, p. 57)
+
+即：任何高级心理机能都首先出现在"社会层面"（人际之间），然后才出现在"心理层面"（个体内部）。
+
+That is: any higher mental function first appears on the "social plane" (between people), then on the "psychological plane" (within the individual).
+
+## 发展脉络 / Development
+
+### 马克思主义的理论根源 / Marxist Theoretical Roots
+
+文化-历史理论直接植根于马克思主义的三个核心思想：
+
+Cultural-Historical Theory is directly rooted in three core ideas of Marxism:
+
+1. **历史唯物主义 / Historical Materialism**：人类社会的发展是物质生产方式的历史——维果茨基将其推广到心理领域：人类心理的发展是文化工具使用的历史。
+2. **工具与实践 / Tools and Praxis**：马克思关于工具使用在人类进化中的核心地位的论述——维果茨基将其发展为"心理工具"理论。
+3. **辩证法 / Dialectics**：对立统一、质量互变、否定之否定——维果茨基用辩证法处理思维与语言、个体与社会、低级与高级机能之间的关系。
+
+### 对心理学的批判与重建 / Critique and Reconstruction of Psychology
+
+在1927年的《心理学的历史意义》论文中，维果茨基诊断了当时心理学的根本危机：
+
+In his 1927 essay "The Historical Meaning of the Crisis in Psychology," Vygotsky diagnosed the fundamental crisis of contemporary psychology:
+
+- **二元论困境 / Dualism Dilemma**：心理学在"自然科学取向"（行为主义、反射学）和"精神科学取向"（内省主义、描述心理学）之间撕裂。
+- **意识问题 / The Consciousness Problem**：自然科学取向无法解释意识，精神科学取向缺乏客观方法。
+- **解决方案 / Solution**：文化-历史心理学——在辩证唯物主义框架内，以"中介活动"为研究对象，统合自然科学方法和意识研究。
+
+### "维果茨基学派"的形成 / Formation of the "Vygotsky School"
+
+1920年代末至1930年代初，围绕维果茨基形成了一个核心研究团队——"维-列-卢学派"（Vygotsky-Leontiev-Luria Circle）：
+
+In the late 1920s to early 1930s, a core research team formed around Vygotsky — the "Vygotsky-Leontiev-Luria Circle":
+
+- **列昂季耶夫（A.N. Leontiev）**：发展了"活动理论"（Activity Theory），后来成为文化-历史理论的重要分支。
+- **卢里亚（A.R. Luria）**：将文化-历史理论应用于神经心理学，创立了"文化神经心理学"的早期形态。在中亚进行的文化比较研究是该理论的重要实证支持。
+- **其他成员**：Zaporozhets、Galperin、Elkonin 等苏联心理学家。
+
+### 苏联时期的压制与复兴 / Suppression and Revival in the Soviet Period
+
+- **1936–1956**：维果茨基的学说被苏联当局压制，被批判为"唯心主义"和"资产阶级心理学"。
+- **1956年**：赫鲁晓夫"解冻"后，维果茨基的著作重新出版。
+- **1960年代**：英文版《思维与语言》（1962）出版，维果茨基的思想开始在西方传播。
+- **1978年**：英文版《Mind in Society》出版，引发了西方教育心理学的"维果茨基复兴"。
+
+### 当代发展 / Contemporary Developments
+
+- **文化-历史活动理论（CHAT）/ Cultural-Historical Activity Theory**：Engestrom (1987, 2001) 将维果茨基的理论发展为三代活动理论。
+- **文化心理学 / Cultural Psychology**：Cole (1996)、Shweder (1991) 等在维果茨基基础上建立了当代文化心理学。
+- **社会文化研究 / Sociocultural Research**：Rogoff (2003)、Wertsch (1998) 等推进了维果茨基理论在教育和认知科学中的应用。
+
+## 临床应用 / Clinical Applications
+
+### 1. 跨文化心理学 / Cross-Cultural Psychology
+
+文化-历史理论为跨文化心理学提供了理论框架。Luria (1976) 在中亚的经典研究表明，不同文化背景的人（如游牧民族 vs 定居民族）在分类、推理和抽象思维等认知过程中存在系统性差异——这些差异不是智力差异，而是文化工具差异的结果。
+
+Cultural-Historical Theory provides the theoretical framework for cross-cultural psychology. Luria's (1976) classic research in Central Asia demonstrated that people from different cultural backgrounds (e.g., nomadic vs. settled peoples) show systematic differences in cognitive processes such as classification, reasoning, and abstract thinking — differences that reflect not intelligence differences but cultural tool differences.
+
+### 2. 教育公平 / Educational Equity
+
+文化-历史理论对教育公平有深刻启示：如果认知能力是文化工具中介的产物，那么标准化测试在不同文化背景群体中的公平性就值得质疑。评估应考虑文化工具差异对测试表现的影响。
+
+Cultural-Historical Theory has profound implications for educational equity: if cognitive ability is a product of cultural tool mediation, then the fairness of standardized testing across different cultural groups warrants scrutiny. Assessment should account for the impact of cultural tool differences on test performance.
+
+### 3. 特殊教育 / Special Education
+
+维果茨基的"缺陷学"（Defectology）将残疾理解为"社会障碍"而非"个体缺陷"——残障儿童的发展困难主要源于社会环境未能提供适当的中介工具和支持。这一观点为当代包容性教育（Inclusive Education）和社会残疾模式（Social Model of Disability）提供了先驱性理论基础。
+
+Vygotsky's "Defectology" understood disability as "social barriers" rather than "individual deficits" — the developmental difficulties of disabled children primarily stem from the social environment's failure to provide appropriate mediating tools and support. This view provides a pioneering theoretical basis for contemporary Inclusive Education and the Social Model of Disability.
+
+### 4. 数字文化与认知 / Digital Culture and Cognition
+
+当代数字技术（互联网、智能手机、社交媒体）代表了新型文化工具的出现。文化-历史理论为理解这些新工具如何改造人类认知提供了分析框架——搜索引擎是否改变了记忆方式？社交媒体是否改变了思维模式？
+
+Contemporary digital technologies (Internet, smartphones, social media) represent the emergence of new types of cultural tools. Cultural-Historical Theory provides an analytical framework for understanding how these new tools transform human cognition — has the search engine changed memory? Has social media changed thought patterns?
+
+### 5. 全球化与文化认同 / Globalization and Cultural Identity
+
+在全球化背景下，个体越来越多地在多种文化工具系统之间切换。文化-历史理论有助于理解"双文化认知"（bicultural cognition）现象——如双语者在不同语言中可能呈现不同的思维模式。
+
+In the context of globalization, individuals increasingly navigate between multiple cultural tool systems. Cultural-Historical Theory helps understand "bicultural cognition" — such as bilinguals potentially exhibiting different thought patterns in different languages.
+
+## 与其他概念的关联 / Related Concepts
+
+### 维果茨基体系内 / Within Vygotsky's System
+
+- **中介 / Mediation**：文化-历史理论的核心机制。→ [mediation.md](mediation.md)
+- **最近发展区 / ZPD**：文化工具在ZPD中从社会层面传递到个体层面。→ [zone-proximal-development.md](zone-proximal-development.md)
+- **内部言语 / Inner Speech**：语言这一核心文化工具的内化形式。→ [inner-speech.md](inner-speech.md)
+- **支架教学 / Scaffolding**：在文化-历史框架内的教学策略。→ [scaffolding.md](scaffolding.md)
+- **内化 / Internalization**：社会互动转化为个体心理过程的核心机制。
+
+### 相关理论 / Related Theories
+
+- **Leontiev 的活动理论 / Leontiev's Activity Theory**：将维果茨基的理论拓展为完整的活动心理学体系。
+- **Engestrom 的三代活动理论 / Engestrom's Three Generations of Activity Theory**：从个体中介到集体活动系统再到变革性实践。
+- **Cole 的文化心理学 / Cole's Cultural Psychology**：在跨文化研究中应用文化-历史框架。
+- **Rogoff 的引导参与 / Rogoff's Guided Participation**：在日常文化活动中实现的文化传承。
+- **Tomasello 的文化智力理论 / Tomasello's Cultural Intelligence Theory**：进化视角下的文化学习与认知发展。
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"缘起"思想的对话 / Dialogue with Buddhist "Dependent Origination"
+
+文化-历史理论与佛教"缘起"（pratityasamutpada）思想有深层结构平行。缘起论认为，一切现象都不是独立自存的，而是在因缘条件的关系网络中产生的。同样，文化-历史理论认为，心理机能不是大脑"内部"的独立过程，而是在"个体-文化工具-社会互动-历史语境"的关系网络中产生的。两者都拒绝本质主义（essentialism），强调关系性和条件性。
+
+Cultural-Historical Theory has deep structural parallels with Buddhist "dependent origination" (pratityasamutpada). Dependent origination holds that all phenomena are not independently existing but arise within a relational network of causes and conditions. Similarly, cultural-historical theory holds that mental functions are not independent processes "inside" the brain but arise within a relational network of "individual-cultural tools-social interaction-historical context." Both reject essentialism, emphasizing relationality and conditionality.
+
+### 与儒家"文化传承"的对话 / Dialogue with Confucian "Cultural Transmission"
+
+儒家对"礼"（ritual/cultural forms）的重视与文化-历史理论对"文化工具"的强调形成了有意义的对话。儒家认为，个体通过学习和实践"礼"——一套文化中介工具——来发展道德认知和人格。这与维果茨基关于个体通过掌握文化工具来发展高级心理机能的论述高度一致。两者的共同洞见是：人不是"天生"成为完整的人的，而是通过文化传承"成为"人。
+
+The Confucian emphasis on "li" (礼, ritual/cultural forms) forms a meaningful dialogue with cultural-historical theory's emphasis on "cultural tools." Confucianism holds that individuals develop moral cognition and personhood through learning and practicing "li" — a set of cultural mediating tools. This aligns closely with Vygotsky's account of individuals developing higher mental functions through mastering cultural tools. Their shared insight: humans are not "born" complete but "become" human through cultural transmission.
+
+### 与道家"自然"与"文化"的对话 / Dialogue with Daoist "Nature" vs. "Culture"
+
+道家思想对"自然"与"文化"的关系提出了与维果茨基不同的视角。维果茨基强调文化工具对自然心理机能的"改造"和"提升"，而道家（尤其是庄子）则对过度文化化持审慎态度——"有机事者必有机心"（使用机械工具的人必然产生机械心智）。这提供了一个有价值的批判视角：文化工具是否总是"提升"认知？是否某些文化工具也可能"限制"或"扭曲"认知？
+
+Daoist thought offers a different perspective from Vygotsky on the relationship between "nature" and "culture." Vygotsky emphasized how cultural tools "transform" and "elevate" natural mental functions, while Daoism (especially Zhuangzi) takes a cautious stance toward over-culturalization — "those who use mechanical devices will inevitably develop mechanical minds." This provides a valuable critical perspective: do cultural tools always "elevate" cognition? Could some cultural tools also "limit" or "distort" cognition?
+
+## 进阶阅读 / Further Reading
+
+### 原著 / Primary Works
+- Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press.
+- Vygotsky, L.S. (1997). *The Collected Works of L.S. Vygotsky, Vol. 4: The History of the Development of Higher Mental Functions*. New York: Plenum Press.
+- Vygotsky, L.S. (1997). *The Collected Works of L.S. Vygotsky, Vol. 3: Problems of the Theory and History of Psychology*. New York: Plenum Press. — 包含"心理学的历史意义"
+
+### 重要二手文献 / Key Secondary Literature
+- Kozulin, A. (1990). *Vygotsky's Psychology: A Biography of Ideas*. Cambridge, MA: Harvard University Press.
+- Wertsch, J.V. (1985). *Vygotsky and the Social Formation of Mind*. Cambridge, MA: Harvard University Press.
+- van der Veer, R. & Valsiner, J. (1991). *Understanding Vygotsky: A Quest for Synthesis*. Oxford: Blackwell.
+- Yasnitsky, A. & van der Veer, R. (Eds.) (2015). *Revisionist Revolution in Vygotsky Studies*. London: Routledge. — 对传统叙事的批判性审视
+
+### 当代发展 / Contemporary Developments
+- Engestrom, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Helsinki: Orienta-Konsultit.
+- Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Cambridge, MA: Harvard University Press.
+- Rogoff, B. (2003). *The Cultural Nature of Human Development*. New York: Oxford University Press.
+- *Cultural-Historical Psychology* (journal, since 2005) — 专门学术期刊

@@ -1,0 +1,144 @@
+---
+id: examined-life
+title: 审视的人生 · Examined Life
+type: concept
+parent: socrates
+domain: philosophy
+tags:
+  - ethics
+  - existentialism
+  - philosophy-of-life
+---
+
+# 审视的人生 · The Examined Life
+
+> "未经审视的生活不值得过。" — 《申辩篇》38a
+>
+> "The unexamined life is not worth living." — *Apology* 38a
+
+---
+
+## 定义 Definition
+
+"审视的人生"（the examined life, ho de anexetastos bios）是苏格拉底在审判中提出的哲学生活纲领。当面临死刑或流放的威胁时，苏格拉底宣称他宁愿死也不愿放弃哲学的追问——因为没有自我反思的人生缺乏人的尊严和价值。这一命题不仅是对哲学职业的辩护，更是对"什么是好的人生"这一根本伦理问题的回答。
+
+"The examined life" (*ho de anexetastos bios*) is the philosophical life program Socrates articulated at his trial. Facing the threat of death or exile, Socrates declared he would rather die than abandon philosophical inquiry—for a life without self-examination lacks human dignity and value. This thesis is not merely a defense of philosophy as a profession but an answer to the fundamental ethical question: "What is a good life?"
+
+---
+
+## "审视"的含义 What "Examination" Means
+
+### 审视的对象 Objects of Examination
+
+苏格拉底的"审视"并非泛泛地"想问题"，而是有明确的对象：
+
+Socratic "examination" is not vaguely "thinking about things" but has specific objects:
+
+1. **信念 Beliefs**：我真正相信什么？我的信念是否一致？我能否为自己的信念提供理由？
+   What do I truly believe? Are my beliefs consistent? Can I provide reasons for them?
+
+2. **价值 Values**：我追求什么？财富、名誉、快乐，还是灵魂的完善？这些追求之间是否存在冲突？
+   What do I pursue? Wealth, fame, pleasure, or perfection of the soul? Do these pursuits conflict?
+
+3. **生活方式 Way of Life**：我每天如何度过？我的日常行为是否与我的价值宣称一致？
+   How do I spend my days? Do my daily actions align with my professed values?
+
+4. **自我认知 Self-Knowledge**：我知道自己的无知吗？我是否在自欺？
+   Do I know my own ignorance? Am I deceiving myself?
+
+### 审视的方法 Methods of Examination
+
+- **对话 Dialogue**：与他人进行开放而严肃的讨论，愿意接受质疑和反驳。
+- **自我诘问 Self-Questioning**：对自己最珍视的信念进行 elenchus 式的检验。
+- **概念澄清 Conceptual Clarification**：追问"我所说的 X 到底是什么意思？"
+- **生活审计 Life Audit**：定期评估自己的行为是否与宣称的价值一致。
+
+- **Dialogue**: Engaging in open, serious discussion with others, willing to accept challenge and refutation.
+- **Self-Questioning**: Subjecting one's most cherished beliefs to elenctic testing.
+- **Conceptual Clarification**: Asking "what do I really mean by X?"
+- **Life Audit**: Regularly assessing whether one's actions align with professed values.
+
+---
+
+## 哲学基础 Philosophical Foundations
+
+### 1. 人的本质是理性 Human Nature is Rational
+
+苏格拉底（及后来的柏拉图和亚里士多德）认为，人之所以为人，在于拥有理性（logos）。未审视的生活是"非理性的"或"前理性的"——它被习惯、偏见和社会压力所驱动，而非被理性所引导。因此，未审视的生活在某种意义上不是"完整的人的生活"。
+
+Socrates (and later Plato and Aristotle) held that what makes us human is rationality (*logos*). The unexamined life is "irrational" or "pre-rational"—driven by habit, prejudice, and social pressure rather than guided by reason. In a sense, then, the unexamined life is not "a fully human life."
+
+### 2. 自由与审视 Freedom and Examination
+
+未经审视的生活是不自由的，因为行动者不知道自己为什么行动——他被外在的力量（社会期望、家庭压力、广告等）所驱动。审视使人获得"理性的自主"（rational autonomy），即根据自己的理解而非外在压力来行动的能力。
+
+The unexamined life is unfree because the agent does not know why they act—driven by external forces (social expectations, family pressure, advertising, etc.). Examination grants "rational autonomy"—the capacity to act according to one's own understanding rather than external pressure.
+
+### 3. 幸福与审视 Happiness and Examination
+
+苏格拉底认为，只有通过审视才能发现什么是真正的善（the good），而幸福（eudaimonia）在于对善的追求和实现。未经审视的生活追求的是"看似善"的事物（如财富、权力），而非"真正善"的事物（灵魂的完善）。
+
+Socrates held that only through examination can one discover what is truly good, and happiness (*eudaimonia*) consists in pursuing and realizing the good. The unexamined life pursues what "appears good" (wealth, power) rather than what "is truly good" (perfection of the soul).
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与儒家"慎独"与"省身" Dialogue with Confucian "Watchfulness over Solitude" and "Self-Examination"
+
+儒家传统中有丰富的"审视"资源。曾子"吾日三省吾身"（《论语·学而》）直接呼应苏格拉底的审视纲领。《大学》的"慎独"（在独处时也保持道德自觉）与苏格拉底将哲学追问内化为生活方式的做法异曲同工。然而，儒家的审视以社会伦理（忠、信）为框架，苏格拉底的审视以个体理性为中心。
+
+The Confucian tradition has rich resources for "examination." Zengzi's "I examine myself three times daily" (*Analects* 1.4) directly echoes Socrates' program. The *Great Learning*'s *shèn dú* (watchfulness over one's solitude) parallels Socrates' internalization of philosophical inquiry as a way of life. However, Confucian examination is framed within social ethics (loyalty, trustworthiness), while Socratic examination centers on individual rationality.
+
+### 与佛教"正念"与"观照" Dialogue with Buddhist "Mindfulness" and "Contemplation"
+
+佛教的"正念"（sati/smṛti）修行——对身、受、心、法的持续觉察——可以被视为一种更为精细和系统的"审视"。与苏格拉底的理性审视不同，佛教的正念审视不限于概念和推理，还包括对身体感受和情感状态的非判断性觉察。唯识学的"观照"（vipassanā）更进一步要求审视"认知本身的结构"——不仅审视"我想什么"，还要审视"我如何想"。
+
+Buddhist *sati/smṛti* (mindfulness) practice—continuous awareness of body, feeling, mind, and mental objects—can be seen as a more refined and systematic form of "examination." Unlike Socratic rational examination, Buddhist mindful examination is not limited to concepts and reasoning but includes non-judgmental awareness of bodily sensations and emotional states. Yogācāra's *vipassanā* (insight contemplation) goes further, requiring examination of "the structure of cognition itself"—not only "what I think" but "how I think."
+
+### 与道家"无为" Dialogue with Daoist "Non-Action"
+
+道家对苏格拉底的审视纲领可能提出根本性质疑：过度的审视本身就是一种"有为"——一种对自然之道的干扰。庄子说"至人之用心若镜"（《应帝王》）——最高的智慧不是主动审视，而是像镜子一样自然地反映。审视本身可能成为一种执念（attachment），一种对"自我"概念的过度强化。
+
+Daoism might offer a fundamental critique of the Socratic examination program: excessive examination is itself a form of "forcing" (*yǒu wéi*)—an interference with the natural Dao. Zhuangzi says "the perfect man uses his mind like a mirror" (*Yingdiwang*)—supreme wisdom is not active examination but natural reflection like a mirror. Examination itself may become an attachment, an excessive reinforcement of the concept of "self."
+
+---
+
+## 批评与局限 Criticisms and Limitations
+
+1. **精英主义倾向**：苏格拉底暗示只有哲学式的审视才有价值，贬低了非反思性的生活方式（如农民、工匠的生活）。
+   **Elitist tendency**: Socrates implies only philosophical examination has value, devaluing non-reflective ways of life (farmers, artisans).
+
+2. **过度理性化**：将人生的价值等同于理性审视，可能忽视了情感、身体、关系和审美维度的人生价值。
+   **Over-rationalization**: Equating life's value with rational examination may neglect emotional, bodily, relational, and aesthetic dimensions.
+
+3. **审视的无限回溯**：如果每次审视都需要进一步的审视来检验，是否会陷入无限回归？
+   **Infinite regress of examination**: If each examination requires further examination to verify it, does this lead to infinite regress?
+
+4. **文化偏见**：苏格拉底的审视模型预设了古希腊的个人主义和理性主义传统，可能不适用于所有文化语境。
+   **Cultural bias**: The Socratic examination model presupposes ancient Greek individualism and rationalism, potentially inapplicable to all cultural contexts.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **日志写作 Journaling**：反思性日志（reflective journaling）是审视人生的当代实践形式。
+- **正念冥想 Mindfulness**：将苏格拉底式的审视扩展到身体和情感维度。
+- **人生教练 Life Coaching**：通过结构化的自我评估帮助客户审视其生活方向。
+- **存在主义心理治疗**：Yalom 的存在主义心理治疗将"审视"作为面对死亡、自由、孤独和无意义四大终极关怀的方法。
+- **数字极简主义 Digital Minimalism**：审视技术对注意力和生活意义的侵蚀，是审视人生的数字时代版本。
+
+- **Journaling**: Reflective journaling is a contemporary practice form of the examined life.
+- **Mindfulness meditation**: Extending Socratic examination to bodily and emotional dimensions.
+- **Life coaching**: Structured self-assessment helping clients examine their life direction.
+- **Existential psychotherapy**: Yalom's approach uses "examination" to confront the four ultimate concerns: death, freedom, isolation, meaninglessness.
+- **Digital minimalism**: Examining technology's erosion of attention and meaning—a digital-age version of the examined life.
+
+---
+
+## 相关条目 Related Entries
+
+- [诘问法 Socratic Method](socratic-method.md)
+- [德性即知识 Virtue is Knowledge](virtue-knowledge.md)
+- [亚里士多德 · 幸福论](../aristotle/concepts/eudaimonia.md)
+- [苏格拉底 · 苏格拉底](../README.md)

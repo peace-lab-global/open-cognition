@@ -1,0 +1,66 @@
+---
+id: reid-reading-list
+title: 里德进阶阅读 · Reid Reading List
+type: reading-list
+domain: philosophy
+school: scottish-common-sense
+thinker: reid
+tags: [reid, bibliography, reading-guide]
+cross-refs:
+  - id: reid
+    relation: thinker
+---
+
+# 里德进阶阅读 · Reid Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- *An Inquiry into the Human Mind* (1764) — 直接感知论
+- *Essays on the Intellectual Powers of Man* (1785) — 心智能力体系
+- *Essays on the Active Powers of Man* (1788) — 意志与道德
+
+### 推荐版本
+- Edinburgh Edition of the Works and Correspondence of Thomas Reid (1997–2010) — 权威批判版
+- *Thomas Reid: Philosophical Works* (Hamilton, 1846) — 经典全集
+
+## 二、经典研究 / Classic Studies
+
+- Nicholas Wolterstorff, *Thomas Reid and the Story of Epistemology* (2001) — 最佳现代哲学导论
+- William Alston, "Thomas Reid on Epistemic Principles" (1989)
+- Keith Lehrer, *Thomas Reid* (1989) — 哲学分析
+- Alexander Broadie, *The Scottish Enlightenment* (2007) — 历史背景
+
+## 三、当代研究 / Contemporary Studies
+
+- Gideon Yaffe, *Manifest Activity: Thomas Reid's Theory of Action* (2004)
+- James Van Cleve, *Thomas Reid and the Problem of Perception* (2015) — 感知理论
+- Ryan Nichols, *Thomas Reid's Theory of Perception* (2007)
+- Rebecca Copenhaver, "Thomas Reid's Theory of Memory" (2006)
+- Thomas Kroedel, "Thomas Reid on Direct Realism" (2012)
+- Lorne Falkenstein & Giovanni Grandi (eds.), *Reid's Ethics* (2015)
+
+## 四、入门推荐 / Introductory
+
+- Wolterstorff, *Thomas Reid and the Story of Epistemology* (2001)
+- Keith Lehrer, *Thomas Reid* (1989) — 短小精悍
+- "Thomas Reid" in *Stanford Encyclopedia of Philosophy* (Ryan Nichols)
+- 周晓亮《苏格兰常识学派研究》— 中文最佳
+
+## 五、相关传统 / Related Traditions
+
+- Hume, *A Treatise of Human Nature* — 里德的批判对象
+- Gibson, *The Ecological Approach to Visual Perception* (1979) — 直接知觉
+- McDowell, *Mind and World* (1994) — 概念化直接实在论
+- Plantinga, *Warrant and Proper Function* (1993) — 适当机能理论
+- Putnam, *Reason, Truth, and History* (1981) — 缸中之脑
+
+## 六、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | Wolterstorff → *Inquiry* Ch. 1–5 |
+| 研究直接实在论 | *Inquiry* → *Intellectual Powers* → McDowell |
+| 研究常识哲学 | *Intellectual Powers* → Broadie → Lehrer |
+| 与休谟对话 | Hume *Treatise* → *Inquiry* → Wolterstorff |
+| 社会认识论方向 | *Intellectual Powers* (论作证) → Coady *Testimony* |

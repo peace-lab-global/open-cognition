@@ -1,0 +1,93 @@
+---
+id: candrakirti-reading-list
+title: 月称进阶阅读 / Reading Guide for Candrakirti
+type: reading-list
+domain: religion
+school: buddhism-madhyamaka-prasangika
+thinker: candrakirti
+---
+
+# 月称进阶阅读 / Reading Guide for Candrakirti
+
+## 阅读路径
+
+### 入门
+1. 月称《入中论》第六品 (智慧品) — 月称哲学的核心论述
+2. Huntington, C.W. Jr. (1989). *The Emptiness of Emptiness*. University of Hawaii Press. — 最佳英文入门
+3. Newland, G. (2008). *Introduction to Emptiness*. Snow Lion. — 以宗喀巴视角介绍月称空观
+4. 宗萨蒋扬钦哲仁波切《入中论》讲座 — 当代藏传传统讲解
+
+### 进阶
+5. Newland, G. & Tillemans, T. (2002). *Introduction to the Middle Way: Candrakirti's Madhyamakavatara with Commentary by Ju Mipham*. Shambhala. — 英藏对照，含米旁注释
+6. Dreyfus, G. & McClintock, S. (eds.) (2003). *The Svatantrika-Prasangika Distinction*. Wisdom Publications. — 应成-自续区分的专题研究
+7. 宗喀巴《入中论善显密意疏》(法尊法师译) — 最重要的藏传注释
+8. 月称《明句论》第 1 章和第 24 章 — 方法论与二谛理论
+
+### 深读
+9. La Vallee Poussin, L. de (1903-13). *Prasannapada: Madhyamakavrtti*. — 梵文本校勘
+10. 印顺法师《中观今论》《空之探究》— 从汉传视角理解中观
+11. 法尊法师《入中论》汉译 — 经典中译
+12. Arnold, D. (2012). *Buddhists, Brahmins, and Belief*. Columbia UP. — 月称与印度哲学语境
+
+## 原典 (中译/英译)
+
+| 著作 | 译者 | 出版社/来源 | 年份 | 特点 |
+|------|------|-------------|------|------|
+| 《入中论》 | 法尊法师 | 中国佛教协会 | 1940s | 经典汉译 |
+| *Madhyamakavatara* | C.W. Huntington Jr. | University of Hawaii Press | 1989 | 含哲学导论 |
+| *Introduction to the Middle Way* | G. Newland & T. Tillemans | Shambhala | 2002 | 含米旁注释 |
+| *Prasannapada* (梵文校勘) | L. de La Vallee Poussin | Bibliotheca Indica | 1903-13 | 唯一完整梵文本 |
+| 《入中论善显密意疏》 | 法尊法师 | — | — | 宗喀巴注释的汉译 |
+
+## 英文研究
+
+| 著作 | 作者 | 出版社 | 年份 | 主题 |
+|------|------|--------|------|------|
+| *The Emptiness of Emptiness* | C.W. Huntington Jr. | University of Hawaii Press | 1989 | 早期印度中观导论 |
+| *The Svatantrika-Prasangika Distinction* | G. Dreyfus & S. McClintock (eds.) | Wisdom | 2003 | 应成-自续区分 |
+| *Buddhists, Brahmins, and Belief* | Dan Arnold | Columbia UP | 2005 | 月称与印度哲学 |
+| *Nagarjuna's Madhyamaka* | Jan Westerhoff | OUP | 2009 | 龙树中观 (含月称视角) |
+| *The Fundamental Wisdom of the Middle Way* | Jay Garfield | OUP | 1995 | 龙树《中论》英译 (含月称注释对照) |
+| *Moonshadows: Conventional Truth in Buddhist Philosophy* | Cowherds (集体) | OUP | 2011 | 月称世俗谛理论的当代分析 |
+| *Moonpaths: Ethics and Emptiness* | Cowherds (集体) | OUP | 2015 | 月称伦理学与空性 |
+
+## 中文研究
+
+| 著作 | 作者 | 特点 |
+|------|------|------|
+| 《中观今论》 | 印顺法师 | 从汉传视角梳理中观学派 |
+| 《空之探究》 | 印顺法师 | 空性思想的历史发展 |
+| 《入中论讲记》 | 法尊法师 | 基于宗喀巴注释的讲解 |
+| 《中观哲学》 | 梶山雄一 | 日本学者的系统研究 |
+| 《月称的中观哲学》 | 叶少勇 | 当代中国学界研究 |
+
+## 上游思想 / Upstream Influences
+
+- **般若经传统 Prajnaparamita**: 一切中观思想的经典源头
+- **龙树 Nagarjuna**: 《中论》《六十颂如理论》《七十颂空性论》— 月称的注释对象
+- **提婆 Aryadeva**: 《四百论》— 月称注释的另一对象
+- **佛护 Buddhapalita**: 应成方法的开创者 — 月称继承并深化
+
+## 下游影响 / Downstream Influences
+
+- **藏传中观 Tibetan Madhyamaka**: 月称成为藏传中观的最高权威
+- **宗喀巴 Tsongkhapa**: 藏传应成中观的集大成者 — 创造性地继承月称
+- **格鲁派 Gelug**: 以月称-宗喀巴的中观为正统哲学
+- **当代西方佛学 Western Buddhist Studies**: 月称哲学在20-21世纪获得越来越多的学术关注
+
+## 相关学派与人物
+
+### 中观内部
+- [龙树 Nagarjuna](nagarjuna.md) — 中观创始人
+- [佛护 Buddhapalita] — 应成派先驱
+- [清辨 Bhaviveka] — 自续派创始人 (月称的主要批判对象)
+- [寂护 Santaraksita] — 瑜伽行中观综合者
+
+### 唯识学派 (论敌)
+- [无著 Asanga](asanga-vasubandhu.md) — 唯识学创始人
+- [世亲 Vasubandhu](asanga-vasubandhu.md) — 唯识论证体系
+- [月官 Candragomin] — 月称的同时代论敌
+
+### 藏传继承
+- [宗喀巴 Tsongkhapa](tsongkhapa.md) — 藏传应成中观集大成者
+- [阿底峡 Atisha](atisha.md) — 将月称传统带入西藏

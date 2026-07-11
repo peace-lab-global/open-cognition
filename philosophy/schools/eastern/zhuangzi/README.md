@@ -1,0 +1,249 @@
+---
+id: zhuangzi
+title: 庄子 · Zhuangzi
+type: thinker
+domain: philosophy
+school: eastern/daoism
+era: ancient
+birth: -369
+death: -286
+tags:
+  - 道家
+  - 相对主义
+  - 无为
+  - 逍遥
+  - 齐物
+  - daoism
+  - relativism
+  - wu-wei
+  - naturalism
+  - transformation
+  - 物化
+  - 无用
+  - 卮言
+aliases:
+  - 庄周
+  - 莊子
+  - Zhuangzi
+  - Chuang Tzu
+  - 蒙庄
+  - 南华真人
+sources:
+  - "Zhuangzi (庄子), Inner Chapters (内篇), c. 3rd century BCE"
+  - "Zhuangzi, Outer Chapters (外篇) and Mixed Chapters (杂篇)"
+  - "Watson, Burton. The Complete Works of Chuang Tzu (1968)"
+  - "Graham, A. C. Chuang-tzu: The Inner Chapters (2003)"
+  - "Ziporyn, Brook. Zhuangzi: The Complete Writings (2020)"
+cross-refs:
+  - id: laozi
+    relation: 同源
+  - id: confucius
+    relation: 对话/批判
+  - id: heidegger
+    relation: 平行
+  - id: derrida
+    relation: 平行
+  - id: nietzsche
+    relation: 平行
+  - id: religion.buddhism.school.yogacara
+    relation: 对照
+children:
+  - concepts/qiwu.md
+  - concepts/xiaoyao.md
+  - concepts/wu.md
+  - concepts/transformation.md
+  - concepts/uselessness.md
+  - works.md
+  - timeline.md
+  - reading-list.md
+related-comparative:
+  - ../comparative/daoism-vs-yogacara.md
+  - ../../../../aesthetics/schools/literary-thought/borges/
+---
+
+# 庄子 · Zhuangzi
+
+> **"天地与我并生，而万物与我为一。"**
+> *Heaven and earth were born with me, and all things and I are one.*
+
+## 基本信息
+
+- **全名**：庄周 (Zhuang Zhou)
+- **生卒年**：约公元前 369 年 — 约公元前 286 年
+- **出生地**：宋国蒙（今河南商丘一带）
+- **文化背景**：战国中后期，百家争鸣
+- **学术身份**：道家思想家、寓言作家、辩论家
+- **学派归属**：道家 (Daoism)，与老子并称"老庄"
+- **代表事迹**：曾任蒙地漆园吏；拒绝楚威王厚聘；与惠施 (Hui Shi) 长期论辩；妻死鼓盆而歌
+- **后世尊号**：唐玄宗天宝元年 (742) 追封"南华真人"，《庄子》尊为《南华真经》
+
+## 一句话定位
+
+庄子是**中国古代最彻底地追问自由与真理之关系的哲学家**——以寓言、卮言和重言为工具，在战国乱世中将"道"从宇宙论推向生存论，在齐物、逍遥与物化之间展开一幅超越一切固着的精神图景。
+
+## 六个核心命题
+
+### 1. 齐物 (qíwù) — 万物平等
+
+万物的大小、美丑、是非、生死，都是相对于观察视角的。"以道观之，物无贵贱。"齐物不是抹平差异，而是认识到差异的视角依赖性。这是庄子认识论的基石。详见 [concepts/qiwu.md](concepts/qiwu.md)。
+
+### 2. 逍遥 (xiāoyáo) — 绝对自由
+
+"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。详见 [concepts/xiaoyao.md](concepts/xiaoyao.md)。
+
+### 3. 无用之用 (wúyòng zhī yòng) — 无用的价值
+
+无用的大树因其"无用"而免于砍伐，得以存活、荫庇众生。世俗的"有用"标准往往遮蔽了更根本的价值。详见 [concepts/uselessness.md](concepts/uselessness.md)。
+
+### 4. 物化 (wùhuà) — 万物转化
+
+万物处于不断的变化之中，生死只是变化的环节。庄周梦蝶是物化最著名的寓言——"不知周之梦为蝴蝶与，蝴蝶之梦为周与？"详见 [concepts/transformation.md](concepts/transformation.md)。
+
+### 5. 卮言、寓言、重言 (zhīyán / yùyán / chóngyán) — 三重言说
+
+庄子的语言策略本身即是哲学：卮言（无心之言，随物而变）、寓言（借他人之口说己之意）、重言（借古人权威以立论）。三者交织，构成对"语言能否抵达真理"的自觉反思。"得意而忘言"——语言只是捕鱼的筌，而非鱼本身。
+
+### 6. "不知"之知 — 反知识论
+
+庄子不是反对知识，而是反对将知识绝对化。"吾生也有涯，而知也无涯。以有涯随无涯，殆已。"真正的智慧是知道知识的界限——"知止其所不知，至矣。"这与苏格拉底的"自知无知"形成跨文化呼应，却走向不同的方向：苏格拉底以此推动理性探究，庄子以此通向超越性的精神自由。
+
+## 思想脉络
+
+详见 [timeline.md](timeline.md)。
+
+### 战国背景
+
+庄子生活在战国中后期（约前 369–286），诸侯纷争、百家争鸣。这是一个旧秩序瓦解、思想空前活跃的时代。儒家、墨家、名家、法家各持己见，庄子以其独特的相对主义立场，对一切"是非之争"进行根本性质疑。
+
+### 与惠施的论辩
+
+惠施 (Hui Shi, 约前 370–310) 是名家的代表人物，也是庄子最重要的对话者。两人的"濠梁之辩"（"子非鱼，安知鱼之乐？"）是中国哲学史上最著名的辩论之一。惠施代表逻辑与概念分析，庄子代表直觉与超越——两者构成互补而非对立的关系。惠施去世后，庄子感叹"自夫子之死也，吾无以为质矣，吾无与言之矣"，可见其深厚的思想友谊。
+
+### 《庄子》文本的层累
+
+《庄子》并非一人一时之作。学界普遍认为：**内篇**（1-7）出自庄子本人或最亲近的弟子，思想最核心、文学最杰出；**外篇**（8-22）和**杂篇**（23-33）由庄子后学及不同时期的道家作者陆续添加，涵盖更广泛的政治、伦理和学术批评。这一层累过程跨越战国至汉初约两个世纪。
+
+### 郭象注的影响
+
+魏晋时期郭象 (Guo Xiang, d. 312) 对《庄子》进行了编定与注释，确立了三十三篇的定本，其注释本身即是重要的哲学创造——郭象将庄子的"自然"诠释为"独化"，强调万物各自生化、不假外求。郭象注深刻影响了后世对庄子的理解，也引发了关于其注释是否"忠实"于庄子原意的长期争论。
+
+## 五大核心概念速查表
+
+| 概念 | 拼音 | 核心含义 | 子条目 |
+|---|---|---|---|
+| **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [qiwu.md](concepts/qiwu.md) |
+| **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [xiaoyao.md](concepts/xiaoyao.md) |
+| **无** | wú | 无为、无用、无待——否定中的积极力量 | [wu.md](concepts/wu.md) |
+| **物化** | wùhuà | 万物流变转化，生死如一 | [transformation.md](concepts/transformation.md) |
+| **无用** | wúyòng | 被世俗判定为无用之物的根本价值 | [uselessness.md](concepts/uselessness.md) |
+
+## 关键文本
+
+详见 [works.md](works.md)。
+
+### 内七篇（核心）
+
+- **《逍遥游》** (Xiāoyáo Yóu) — 从鲲鹏到无待：绝对自由的哲学
+- **《齐物论》** (Qí Wù Lùn) — 相对主义、蝴蝶梦、天籁
+- **《养生主》** (Yǎng Shēng Zhǔ) — 庖丁解牛：技艺与无为
+- **《人间世》** (Rén Jiān Shì) — 乱世中的处世智慧：无用之用
+- **《德充符》** (Dé Chōng Fú) — 形残而德全的"畸人"形象
+- **《大宗师》** (Dà Zōng Shī) — 道为万物之宗，坐忘与道化
+- **《应帝王》** (Yīng Dì Wáng) — 无为而治的政治哲学与浑沌寓言
+
+## 当代应用
+
+- **心灵哲学** — 蝴蝶梦作为"虚拟现实"思想实验的古代版本，与缸中之脑、模拟假说的结构对应
+- **认知科学** — 庖丁解牛、梓庆削木等技艺寓言与"心流" (flow state)、具身认知 (embodied cognition) 概念的深度对应
+- **环境伦理** — "以道观之"的生态平等主义；人与自然的非对立关系；"天地与我并生"的深层生态学
+- **后现代哲学** — 对语言、知识和权力的解构与德里达、福柯的呼应；卮言与解构主义的"延异" (différance)
+- **领导力与管理** — 无为而治在当代管理学中的应用——"仆人式领导" (servant leadership)
+- **心理治疗** — 接纳承诺疗法 (ACT) 中的认知解离与庄子的"忘"的实践结构相通；正念与"坐忘"
+- **人工智能** — 庄子对"机心"的警惕（子贡与丈人论灌园）在 AI 伦理讨论中的回响
+- **文学与艺术** — 庄子的寓言风格、荒诞叙事对后世文学（陶渊明、李白、苏轼、博尔赫斯、卡夫卡）的深远影响
+
+## 常见误读
+
+- **误读 1**："庄子是虚无主义者，什么都不在乎。" 纠正：庄子的"齐物"不是虚无，而是在更高层面上肯定万物的自然价值。"无用之用"恰恰是对价值的重新发现。
+- **误读 2**："无为就是什么都不做。" 纠正：无为是顺应事物本性的高效行动——庖丁解牛是无为的典范，而非消极怠惰。
+- **误读 3**："庄子反对一切知识。" 纠正：他反对的是将知识绝对化、固化为教条（"小知间间"），而非知识本身。"不知"之知是一种更高阶的认知自觉。
+- **误读 4**："蝴蝶梦是简单的怀疑论。" 纠正：它更深层的问题是自我同一性的流变性——"我"不是固定的实体，而是变化的过程。这是"物化"而非"怀疑"。
+- **误读 5**："庄子是逃避现实的隐士。" 纠正：庄子的逍遥是精神姿态而非地理逃离。《人间世》恰恰讨论如何在乱世中生存，而非离开世界。
+
+## 跨学科关联
+
+### 东方思想
+
+- [老子 · Laozi](../laozi.md) `[同源]` 道家共同传统——老子重"道"的本体论，庄子重"游"的生存论
+- [孔子 · Confucius](../confucius.md) `[对话/批判]` 庄子以寓言解构儒家的仁义礼智，但并非简单否定，而是追问其根基
+- [惠施 · Hui Shi] `[论辩]` 名家的逻辑分析与庄子的超越立场构成互补
+- [禅宗 · Zen Buddhism](../../../religion/traditions/buddhism/zen.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
+
+### 西方哲学
+
+- [海德格尔 · Martin Heidegger](../../existentialism/heidegger/) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)；本真存在与逍遥
+- [德里达 · Jacques Derrida] `[平行]` 卮言与延异 (différance)；对逻各斯中心主义的解构
+- [尼采 · Friedrich Nietzsche](../../existentialism/nietzsche/) `[平行]` 重估一切价值与齐物论的相对主义；酒神精神与逍遥游的超越性
+- [博尔赫斯 · Jorge Luis Borges](../../../../aesthetics/schools/literary-thought/borges/) `[平行]` 梦与虚构、同一性的流动、分岔的时间
+
+## 东西方对话
+
+### 庄子 x 唯识 (Yogācāra)
+
+庄子与 4-7 世纪的印度-汉传唯识学在结构上高度对应，却在目的上截然不同——**庄子是文学化的唯识，唯识是系统化的庄子**。
+
+- **齐物 vs 平等性智 (samatā-jñāna)** — 庄子说"以道观之，物无贵贱"，唯识说转第七末那识后证得平等性智——在真如层面，万法平等无二。庄子的路径是审美-寓言的，唯识的路径是禅修-分析的，但结论方向一致。
+- **物化 vs 缘起 (pratītyasamutpāda)** — 庄子的"万物皆化"与佛教的缘起论都否定固定实体，强调流变与依存。但庄子的"化"更具诗意与自发性，缘起论则具有更严密的因果分析。
+- **卮言 vs 离言 (anabhilāpya)** — 庄子说"言者所以在意，得意而忘言"，唯识说真如离言、不可言说。两者都承认语言的局限性，但唯识发展出更精细的"四重二谛"语言层级理论。
+- **"不知"之知 vs 无分别智 (nirvikalpa-jñāna)** — 庄子的"不知"是对概念知识的超越，唯识的无分别智是对遍计所执的彻底瓦解。前者是哲学-文学的，后者是禅修-证悟的。
+
+### 庄子 x 海德格尔 (Heidegger)
+
+- **上手状态 (Zuhandenheit) vs 庖丁解牛** — 海德格尔区分"上手" (ready-to-hand) 与"在手" (present-at-hand)：庖丁解牛时"以神遇而不以目视"，刀与牛浑然一体，正是最典型的"上手"状态。当庖丁遇到筋骨交错之处，"怵然为戒，视为止，行为迟"——从"上手"切换到"在手"，这恰好印证了海德格尔的工具分析。
+- **本真存在 (Eigentlichkeit) vs 逍遥** — 海德格尔的"本真存在"是从"常人" (das Man) 的沉沦中抽身，直面自己的"向死而在"；庄子的"逍遥"是从世俗的是非、名利、生死中解脱，"游乎天地之一气"。两者都要求从日常的"非本真"状态中觉醒，但海德格尔的路径更焦虑、更个体化，庄子的路径更从容、更宇宙化。
+- **让存在 (Gelassenheit) vs 无为** — 海德格尔晚期的"让存在"与庄子的"无为"在精神姿态上高度相似：都不是被动的不作为，而是让事物按照自身的本性显现。
+
+### 庄子 x 博尔赫斯 (Borges)
+
+- **梦与虚构** — 庄周梦蝶与博尔赫斯的《环形废墟》(Las ruinas circulares) 共享同一个问题：梦者与被梦者的界限是否可以确定？博尔赫斯说"一个人在梦中梦见另一个人，但那个人也在梦见他"——这正是"蝴蝶之梦为周与"的文学变奏。
+- **同一性的流动** — 博尔赫斯的《博尔赫斯与我》(Borges y yo) 追问"我"与"博尔赫斯"的关系，与庄子的物化论形成共鸣——自我不是固定的实体，而是一个不断生成的过程。
+- **分岔的时间** — 博尔赫斯的《小径分岔的花园》(El jardín de senderos que se bifurcan) 描绘了时间的多线性，与庄子"方生方死，方死方生"的时间观形成对话——时间不是线性流逝，而是不断分岔的可能性之网。
+
+## 进阶阅读
+
+详见 [reading-list.md](reading-list.md)。
+
+### 入门首选
+
+- 《逍遥游》(短小精悍，寓言丰富，庄子思想的总纲)
+- 《齐物论》(蝴蝶梦、天籁、朝三暮四——相对主义的经典文本)
+
+### 原典
+
+- 《庄子》内七篇 (郭象注本)
+- Watson, B. (1968). *The Complete Works of Chuang Tzu*. Columbia University Press.
+- Ziporyn, B. (2020). *Zhuangzi: The Complete Writings*. Hackett.
+
+### 二手研究
+
+- Graham, A. C. (2003). *Chuang-tzu: The Inner Chapters*. Hackett.
+- Ziporyn, B. (2009). *Ironies of Oneness and Difference*. SUNY Press.
+- 陈鼓应《庄子今注今译》(中华书局，1983/2009修订)
+
+## 子条目索引
+
+| 子条目 | 内容 |
+|---|---|
+| [concepts/qiwu.md](concepts/qiwu.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
+| [concepts/xiaoyao.md](concepts/xiaoyao.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
+| [concepts/wu.md](concepts/wu.md) | 无 (wú) — 无为、无用、无待的否定之力 |
+| [concepts/transformation.md](concepts/transformation.md) | 物化 (wùhuà) — 万物流变转化，生死如一 |
+| [concepts/uselessness.md](concepts/uselessness.md) | 无用 (wúyòng) — 无用的根本价值 |
+| [works.md](works.md) | 作品总览 — 《庄子》三十三篇 |
+| [timeline.md](timeline.md) | 思想年表 / 文本形成史 |
+| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+
+## 比较页
+
+- [道家 x 唯识](../comparative/daoism-vs-yogacara.md)
+- [博尔赫斯 x 庄子](../../../../aesthetics/schools/literary-thought/borges/) (平行比较)

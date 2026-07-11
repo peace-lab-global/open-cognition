@@ -1,0 +1,147 @@
+---
+id: rousseau-social-contract
+title: 社会契约 · Social Contract (Rousseau)
+type: concept
+domain: philosophy
+parent: rousseau
+tags:
+  - social-contract
+  - political-legitimacy
+  - popular-sovereignty
+  - 社会契约
+  - 政治合法性
+  - 人民主权
+---
+
+> "我要探讨在社会秩序之中，从人类的实际情况与法律的可能情况着眼，是否能有一种合法而又确切的政权规则。"
+> "I mean to inquire if, in the social order, there can be any sure and legitimate rule of administration, men being taken as they are and laws as they might be."
+> — 《社会契约论》*The Social Contract*, I. 前言
+
+# 社会契约 · Social Contract
+
+## 核心问题 / The Central Question
+
+卢梭的《社会契约论》（1762）试图回答一个根本问题：**政治权威的合法性基础是什么？** 强力不构成权利——"强力并不创造权利"（La force ne fait pas le droit），服从合法的权力才是义务。那么，什么样的政治结合形式能够既保障集体安全，又保护每个成员的个人自由？
+
+Rousseau's *Social Contract* (1762) addresses a fundamental question: **What is the legitimate basis of political authority?** Force does not create right — "force does not create right" — and obeying legitimate power is duty. What form of political association can guarantee collective security while protecting each member's individual freedom?
+
+## 对前人的批判 / Critique of Predecessors
+
+### 反对霍布斯 / Against Hobbes
+
+霍布斯认为自然状态是"一切人对一切人的战争"，因此理性要求人们将全部权利不可撤回地转让给一个绝对主权者（利维坦）。卢梭拒绝这一前提和结论：
+
+Hobbes viewed the state of nature as a "war of all against all," requiring total irrevocable transfer of rights to an absolute sovereign (Leviathan). Rousseau rejected both premise and conclusion:
+
+1. **自然状态不是战争状态**：霍布斯将社会状态中的人投射到了自然状态中。自然人的欲望简单、有限，不存在导致全面冲突的条件。
+2. **绝对转让是自相矛盾的**：将自己毫无保留地交给一个主人，就是放弃自己的人格——这违反了自然法的基本义务：自我保存。
+3. **强力不等于权利**：霍布斯的契约实际上只是"强者的权利"的伪装。
+
+1. **The state of nature is not a war state**: Hobbes projected social man onto nature. Natural humans have simple, finite desires without conditions for total conflict.
+2. **Absolute alienation is self-contradictory**: Surrendering oneself unconditionally to a master is abandoning one's personhood — violating the fundamental natural duty of self-preservation.
+3. **Force is not right**: Hobbes's contract is merely "the right of the strongest" in disguise.
+
+### 超越洛克 / Beyond Locke
+
+洛克的社会契约以保护自然权利（尤其是财产权）为核心，政府权力受到明确限制。卢梭认为洛克的方案有几个问题：
+
+Locke's social contract centers on protecting natural rights (especially property), with explicitly limited government power. Rousseau saw problems:
+
+1. **财产权不是自然的**：卢梭在《论不平等》中论证财产是社会制度的产物，不是先于社会的自然权利。
+2. **有限政府未能实现真正的自由**：洛克式的代议制让公民只在选举时是自由的，之后又回到被奴役状态。
+3. **洛克的契约实际上保护了既有的不平等**：它将财产制度确立为不可侵犯的权利，从而固化了富人对穷人的优势。
+
+1. **Property is not natural**: Rousseau argued in the *Second Discourse* that property is a social institution, not a pre-social natural right.
+2. **Limited government fails to achieve true freedom**: Lockean representative democracy leaves citizens free only during elections.
+3. **Locke's contract protects existing inequality**: It enshrines property as inviolable, cementing the advantage of rich over poor.
+
+## 卢梭的方案：总体让渡 / Rousseau's Solution: Total Alienation
+
+### 契约条款 / The Terms of the Contract
+
+卢梭的社会契约可以化约为一个条款：**"每个结合者及其自身的一切权利全部都转让给整个集体。"**（aliénation totale de chaque associé avec tous ses droits à toute la communauté）
+
+Rousseau's social contract reduces to a single clause: **"the total alienation of each associate, together with all his rights, to the whole community."**
+
+这一让渡有三个关键特征：
+
+This alienation has three key features:
+
+1. **全面性（Totalité）**：每个人交出自己的一切——不是部分权利，而是全部。这确保了契约的公平性：既然每个人都同等地交出一切，没有人有理由要求更多。
+2. **互惠性（Réciprocité）**：每个人在向全体让渡的同时，也从全体那里获得同等的权利。"我们每一个人都把自身和我们的全部力量置于公意的最高指导之下。"
+3. **自我服从（Auto-obéissance）**：由于每个人都是主权者的成员，而主权者制定的法律适用于所有人，因此每个人在服从法律时实际上是在服从自己。"在服从共同体时，每个人只不过是在服从自己本人，仍然像以往一样自由。"
+
+1. **Totality**: Each person gives everything — not partial rights, but all. This ensures fairness: since everyone gives equally, no one has grounds to demand more.
+2. **Reciprocity**: Each person, in alienating to all, receives equivalent rights from all. "Each of us puts his person and all his power in common under the supreme direction of the general will."
+3. **Self-obedience**: Since each person is a member of the sovereign, and the sovereign's laws apply to all, obeying the law means obeying oneself. "In obeying the community, each individual obeys only himself and remains as free as before."
+
+### 从自然自由到道德自由 / From Natural to Moral Freedom
+
+社会契约实现了一种质的转换：
+
+The social contract effects a qualitative transformation:
+
+| 维度 | 自然状态 | 社会状态 |
+|------|----------|----------|
+| 自由类型 | 自然自由（liberté naturelle）：受限于体力 | 道德自由（liberté morale）：服从自我立法 |
+| 权利基础 | 先占权（first occupancy） | 合法所有权（propriété légitime） |
+| 行为动机 | 本能（instinct） | 正义（justice）与义务（devoir） |
+| 人的性质 | 愚昧的、有限的动物 | 有智慧的、道德的人 |
+
+| Dimension | State of Nature | Social State |
+|-----------|----------------|--------------|
+| Freedom type | Natural freedom: limited by physical strength | Moral freedom: obedience to self-given law |
+| Rights basis | First occupancy | Legitimate property |
+| Behavioral motive | Instinct | Justice and duty |
+| Human nature | Stupid, limited animal | Intelligent, moral being |
+
+卢梭的深刻之处在于：社会契约不是对自然自由的简单限制，而是将其提升为一种更高的自由形态。自然自由是无限的欲望，但手段有限；道德自由是对自我立法的主宰，它使人成为真正的主体。
+
+Rousseau's profound insight: the social contract is not a simple restriction of natural freedom but its elevation into a higher form. Natural freedom involves unlimited desires with limited means; moral freedom is mastery through self-legislation, making humans true subjects.
+
+## 主权不可代表 / Sovereignty Cannot Be Represented
+
+卢梭坚决反对代议制：**"主权不能被代表……人民的议员不是、也不可能是人民的代表，他们只不过是人民的办事员。"** 英国人"只有在选举国会议员时是自由的；一旦议员当选，人民就成了奴隶。"
+
+Rousseau adamantly opposed representative government: **"Sovereignty cannot be represented... The people's deputies are not, and could not be, its representatives; they are merely its agents."** The English "think they are free only during the election of Members of Parliament; as soon as the Members are elected, the people is enslaved."
+
+这一立场使卢梭倾向于直接民主制——全体公民直接参与立法。他承认这种制度只适合小国（如他的故乡日内瓦），且需要公民具备美德和对公共事务的积极参与。
+
+This stance led Rousseau toward direct democracy — all citizens participating directly in legislation. He conceded this suited only small states (like his native Geneva) and required civic virtue and active participation.
+
+## 立法者与宗教 / The Legislator and Civil Religion
+
+卢梭引入了一个奇特的角色：**立法者**（Législateur），一个超人的智慧，能够"改变人性"，为人民制定适合他们的法律，但本身不拥有立法权。这一概念引发了一个悖论：如果人民不够明智，无法认识公意，他们又如何能够接受一位好的立法者的法律？卢梭暗示，立法者需要借助宗教权威来说服人民接受法律。
+
+Rousseau introduced a peculiar figure: the **Legislator** (Législateur), a superior intelligence capable of "changing human nature," who frames laws suited to a people but holds no legislative authority. This creates a paradox: if the people are not wise enough to discern the general will, how can they accept a good legislator's laws? Rousseau suggested the legislator must invoke religious authority to persuade the people.
+
+在第四卷中，卢梭还提出了**公民宗教**（religion civile）的概念——一种最低限度的公民信仰条款，包括对神明的信仰、对来世的信仰、对正义的信念、对社会契约和法律的尊重，以及对不宽容的禁止。这一概念同样引发了自由与强制之间的张力。
+
+In Book IV, Rousseau proposed a **civil religion** — minimum articles of civic faith including belief in a deity, afterlife, justice, respect for the social contract and laws, and prohibition of intolerance. This concept likewise creates tension between freedom and coercion.
+
+## 批评与遗产 / Criticism and Legacy
+
+### 自由主义批评 / Liberal Criticism
+
+- **以赛亚·伯林**（Isaiah Berlin）：卢梭的"强迫自由"（forcer d'être libre）概念是"积极自由"走向暴政的哲学根源。
+- **雅各布·塔尔蒙**（Jacob Talmon）：卢梭是"极权主义民主"（totalitarian democracy）的思想鼻祖。
+- **本杰明·贡斯当**（Benjamin Constant）：古代人的自由（政治参与）不能替代现代人的自由（个人权利）。
+
+- **Isaiah Berlin**: Rousseau's concept of being "forced to be free" is the philosophical root of "positive liberty" leading to tyranny.
+- **Jacob Talmon**: Rousseau is the intellectual ancestor of "totalitarian democracy."
+- **Benjamin Constant**: Ancient liberty (political participation) cannot replace modern liberty (individual rights).
+
+### 共和主义辩护 / Republican Defense
+
+- **昆廷·斯金纳**（Quentin Skinner）和**菲利普·佩蒂特**（Philip Pettit）：卢梭的自由概念更接近"无支配"（non-domination）而非"积极自由"。
+- **约翰·罗尔斯**（John Rawls）：卢梭的社会契约是公平正义的重要思想来源，"原初状态"是对卢梭平等主义的现代重构。
+
+- **Quentin Skinner** and **Philip Pettit**: Rousseau's freedom concept is closer to "non-domination" than "positive liberty."
+- **John Rawls**: Rousseau's social contract is an important source for justice as fairness; the "original position" is a modern reconstruction of Rousseauian egalitarianism.
+
+## 相关条目 / Related Entries
+
+- [公意 / General Will](general-will.md)
+- [高贵的野蛮人 / Noble Savage](noble-savage.md)
+- [自爱与虚荣 / Amour-Propre](amour-propre.md)
+- → 返回 [卢梭主页 / Rousseau Main](../README.md)

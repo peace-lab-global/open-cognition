@@ -1,0 +1,46 @@
+# B.F.斯金纳 · B.F. Skinner - 著作年表 / Works Chronology
+
+## 主要著作 / Major Books
+
+| 年份 / Year | 书名 / Title | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|---|---|---|---|
+| 1938 | *The Behavior of Organisms: An Experimental Analysis* | Appleton-Century, New York | 系统阐述操作性条件反射原理；提出强化、消退、分化等核心概念；报告大鼠和鸽子的实验数据 / Systematically presents operant conditioning principles; introduces reinforcement, extinction, discrimination; reports rat and pigeon data |
+| 1948 | *Walden Two* 《瓦尔登湖第二》 | Macmillan, New York | 乌托邦小说，展示行为科学原理设计的理想社会 / Utopian novel demonstrating ideal society designed on behavioral science principles |
+| 1953 | *Science and Human Behavior* 《科学与人类行为》 | Macmillan, New York | 最系统的教科书式著作，全面论述行为分析在个人和社会层面的应用 / Most systematic textbook, comprehensive treatment of behavior analysis at personal and social levels |
+| 1957 | *Verbal Behavior* 《言语行为》 | Appleton-Century-Crofts, New York | 用操作性条件反射分析语言的获得和使用；提出语言的操作性分类（mand, tact, echoic, intraverbal） / Analyzes language acquisition and use via operant conditioning; proposes operant classification of language |
+| 1957 | *Schedules of Reinforcement* 《强化时程表》（与C.B. Ferster合著） | Appleton-Century-Crofts, New York | 系统记录各种强化时程表对鸽子行为的影响；行为分析领域最重要的实证研究之一 / Systematically documents effects of various reinforcement schedules on pigeon behavior |
+| 1961 | *Cumulative Record* 《累积记录》 | Appleton-Century-Crofts, New York | 收录1938–1961年间重要论文和实验报告 / Collection of important papers and experimental reports from 1938-1961 |
+| 1968 | *The Technology of Teaching* 《教学技术》 | Appleton-Century-Crofts, New York | 系统论述程序教学原理和方法；推广教学机器 / Systematic treatment of programmed instruction principles and methods; promotes teaching machines |
+| 1969 | *Contingencies of Reinforcement: A Theoretical Analysis* 《强化的偶联》 | Appleton-Century-Crofts, New York | 对强化偶联的深入理论分析；讨论规则支配行为 / In-depth theoretical analysis of reinforcement contingencies; discusses rule-governed behavior |
+| 1971 | *Beyond Freedom and Dignity* 《超越自由与尊严》 | Knopf, New York | 批判自由意志和尊严观念；提出文化设计的行为科学方案；引发广泛社会争论 / Critiques free will and dignity concepts; proposes behavioral science approach to cultural design |
+| 1974 | *About Behaviorism* 《关于行为主义》 | Knopf, New York | 澄清激进行为主义哲学立场；回应各方批评 / Clarifies radical behaviorism philosophical position; responds to critics |
+| 1976 | *Enjoy Old Age* 《享受老年》（与M.E. Vaughan合著） | Norton, New York | 从行为分析角度探讨老年生活 / Explores aging from behavior analysis perspective |
+| 1978 | *Reflections on Behaviorism and Society* 《行为主义与社会反思》 | Prentice-Hall, Englewood Cliffs | 收录关于社会问题的论文和演讲 / Collection of essays and lectures on social issues |
+| 1979 | *Notebooks* 《笔记》（R. Epstein编） | Prentice-Hall, Englewood Cliffs | 个人日记和反思记录 / Personal diary and reflective records |
+| 1983 | *Upon Further Reflection* 《进一步反思》 | Prentice-Hall, Englewood Cliffs | 收录晚期重要论文和演讲 / Collection of important late essays and lectures |
+| 1987 | *Selection by Consequences*（发表于*Science*） | — | 提出选择主义作为行为的统一解释框架 / Proposes selectionism as unified explanatory framework for behavior |
+
+## 重要论文 / Key Articles
+
+| 年份 / Year | 题目 / Title | 期刊 / Journal | 核心内容 / Core Content |
+|---|---|---|---|
+| 1935 | "The generic nature of the concepts of stimulus and response" | *Journal of General Psychology* | 关于刺激和反应概念的泛化讨论 / Discussion of generalization of stimulus-response concepts |
+| 1936 | "The verbal summator and a method for the study of latent speech" | *Journal of Psychology* | 言语行为的早期研究方法 / Early research methods for verbal behavior |
+| 1945 | "The conceptual nature of the operant" | *Psychological Review* | 首次明确区分操作性行为与应答性行为 / First explicit distinction between operant and respondent behavior |
+| 1950 | "Are theories of learning necessary?" | *Psychological Review* | 批判当时流行的学习理论，主张直接研究行为 / Critiques popular learning theories, advocates direct study of behavior |
+| 1955 | "The experimental analysis of behavior" | *American Scientist* | 阐述行为实验分析的方法论 / Presents methodology of experimental analysis of behavior |
+| 1956 | "A case history in scientific method" | *American Psychologist* | 讨论行为分析中的单被试实验设计 / Discusses single-subject experimental design in behavior analysis |
+| 1958 | "Teaching machines" | *Science* | 介绍教学机器的设计和原理 / Introduces teaching machine design and principles |
+| 1969 | "Contingencies of reinforcement in a five-person community" | 未刊稿 / Unpublished | 探索小型社区中的行为强化偶联 / Explores behavioral reinforcement contingencies in small communities |
+| 1981 | "Selection by consequences" | *Science* | 系统阐述三层选择主义框架 / Systematic presentation of three-level selectionist framework |
+| 1984 | "The operant behaviorism of B.F. Skinner" | *American Psychologist* | 斯金纳对自己理论体系的总结性阐述 / Skinner's summary statement of his theoretical system |
+| 1987 | "Why I am not a cognitivist" | *American Psychologist* | 对认知革命的最后系统回应 / Final systematic response to the cognitive revolution |
+| 1990 | "Can psychology be a science of mind?" | *American Psychologist* | 斯金纳最后一篇论文，探讨心理学能否成为"心灵科学" / Skinner's final paper, exploring whether psychology can be a "science of mind" |
+
+## 自传作品 / Autobiographical Works
+
+| 年份 / Year | 书名 / Title | 内容 / Content |
+|---|---|---|
+| 1979 | *Particulars of My Life* (Vol. 1) 《我生活的细节》 | 从出生到1938年的自传，详述早期学术发展 / Autobiography from birth to 1938, detailing early academic development |
+| 1983 | *The Shaping of a Behaviorist* (Vol. 2) 《行为主义者的塑造》 | 1938–1958年的自传，记录理论成熟期 / Autobiography 1938-1958, documenting theoretical maturation |
+| 1989 | *A Matter of Consequences* (Vol. 3) 《后果问题》 | 1958–1974年的自传，记录社会影响期 / Autobiography 1958-1974, documenting period of social influence |

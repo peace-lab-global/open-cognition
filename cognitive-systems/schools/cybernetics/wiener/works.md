@@ -1,0 +1,27 @@
+---
+id: cognitive-systems.school.cybernetics.wiener.works
+title: 维纳核心著作 Norbert Wiener Works
+type: works
+thinker: wiener
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 维纳核心著作 / Norbert Wiener Key Works
+
+## 核心著作
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1943 | *Behavior, Purpose and Teleology*（与Rosenblueth, Bigelow） | 目的性行为与反馈 |
+| 1948 | *Cybernetics* | 控制论系统阐述 |
+| 1950 | *The Human Use of Human Beings* | 控制论社会影响 |
+
+## 二手研究
+
+- Heims, S. (1991). *The Cybernetic Group*. MIT Press.
+- Conway, F. & Siegelman, J. (2005). *Dark Hero of the Information Age*.
+
+## 中文资源
+
+- 维纳《人有人的用处》，商务印书馆

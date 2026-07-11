@@ -1,0 +1,69 @@
+---
+id: adler-works
+title: "阿德勒著作年表 · Adler's Major Works Chronology"
+type: works
+domain: psychology
+school: individual-psychology
+thinker: adler
+---
+
+# 阿德勒著作年表 · Adler's Major Works Chronology
+
+---
+
+## 早期著作 / Early Works (1902–1911)
+
+| 年份 / Year | 书名 / Title | 出版信息 / Publication | 主题 / Subject |
+|---|---|---|---|
+| 1907 | *Studie über Minderwertigkeit von Organen*（器官自卑研究）/ *Study of Organ Inferiority and Its Psychical Compensation* | Vienna: J. Springer | 器官自卑与心理补偿的开创性研究 / Pioneering study of organ inferiority and psychological compensation |
+| 1910 | "Zur Kritik der Freudschen Sexualtheorie des Seelenlebens"（对弗洛伊德性理论的批判）/ "Critique of Freud's Sexual Theory of Mental Life" | *Zentralblatt für Psychoanalyse* | 与弗洛伊德理论的公开分歧 / Public divergence from Freudian theory |
+| 1911 | "Psychoanalyse und Individualpsychologie"（精神分析与个体心理学）/ "Psychoanalysis and Individual Psychology" | *Zentralblatt für Psychoanalyse* | 个体心理学与精神分析的区分 / Distinguishing Individual Psychology from psychoanalysis |
+
+---
+
+## 理论构建期 / Theoretical Construction (1912–1929)
+
+| 年份 / Year | 书名 / Title | 出版信息 / Publication | 主题 / Subject |
+|---|---|---|---|
+| 1912 | *Über den nervösen Charakter*（神经性格）/ *The Neurotic Character* | Wiesbaden: J.F. Bergmann | 个体心理学系统框架的首次完整阐述 / First complete articulation of the Individual Psychology framework |
+| 1920 | *Praxis und Theorie der Individualpsychologie*（个体心理学的实践与理论）/ *The Practice and Theory of Individual Psychology* | Munich: J.F. Lehmann | 临床方法论与治疗技术 / Clinical methodology and therapeutic techniques |
+| 1927 | *Menschenkenntnis*（理解人性）/ *Understanding Human Nature* | Leipzig: C.F. Amalthea | 人格理论、性格发展与社会应用 / Personality theory, character development, and social applications |
+| 1928 | *Die Seele des schwererziehbaren Kindes*（难教儿童的心理）/ *Guiding the Child* | Vienna | 教育心理学与儿童指导 / Educational psychology and child guidance |
+| 1929 | *Die Technik der Individualpsychologie*（个体心理学的技术）/ *The Science of Living* | London: Allen & Unwin | 生活任务、自卑与补偿的实践应用 / Practical applications of life tasks, inferiority, and compensation |
+| 1929 | *Problems of Neurosis*（神经症问题）| London: Kegan Paul | 神经症的个体心理学分析 / Individual Psychology analysis of neurosis |
+
+---
+
+## 成熟期著作 / Mature Works (1930–1937)
+
+| 年份 / Year | 书名 / Title | 出版信息 / Publication | 主题 / Subject |
+|---|---|---|---|
+| 1930 | *The Case of Miss R.*（R小姐案例）| New York: Greenberg | 详细的临床案例研究 / Detailed clinical case study |
+| 1931 | *What Life Should Mean to You*（自卑与超越）| Boston: Little, Brown | 阿德勒最广为阅读的作品，涵盖生活意义、自卑、社会兴趣、职业和婚姻 / Adler's most widely read work, covering life meaning, inferiority, social interest, occupation, and marriage |
+| 1933 | *Der Sinn des Lebens*（生活的意义）/ *The Meaning of Life* | London: Kegan Paul | 哲学人类学与个体心理学的终极关怀 / Philosophical anthropology and the ultimate concerns of Individual Psychology |
+| 1936 | "Religion and Individual Psychology"（宗教与个体心理学）| *International Journal of Individual Psychology* | 宗教经验的心理学分析 / Psychological analysis of religious experience |
+| 1937 | "Social Interest: A Challenge to Mankind"（社会兴趣：对人类的挑战）| *International Journal of Individual Psychology* | 阿德勒最后发表的重要文章之一 / One of Adler's last important published articles |
+
+---
+
+## 遗著与编辑集 / Posthumous and Edited Collections
+
+| 年份 / Year | 书名 / Title | 编者 / Editor | 主题 / Subject |
+|---|---|---|---|
+| 1956 | *The Individual Psychology of Alfred Adler: A Systematic Presentation in Selections from His Writings*（阿德勒个体心理学选集）| Heinz & Rowena Ansbacher | 最权威的系统选集，涵盖个体心理学所有核心主题 / Most authoritative systematic anthology covering all core themes of Individual Psychology |
+| 1964 | *Superiority and Social Interest: A Collection of Later Writings*（优越与社会兴趣）| Heinz & Rowena Ansbacher | 晚期著作选集 / Collection of later writings |
+| 1979 | *Cooperation Between the Sexes*（两性合作）| Heinz & Rowena Ansbacher | 关于婚姻和两性关系的著作集 / Collection on marriage and sex relations |
+| 2002– | *The Collected Works of Alfred Adler*（阿德勒全集）| Henry T. Stein (ed.) | 学术版全集（进行中）/ Scholarly complete works (ongoing) |
+| 2005 | *Alfred Adler: The Forgotten Prophet* | Henry T. Stein | 阿德勒被忽视的思想遗产 / Adler's neglected intellectual legacy |
+
+---
+
+## 中文译本 / Chinese Translations
+
+| 书名 / Title | 译者 / Translator | 出版社 / Publisher | 备注 / Notes |
+|---|---|---|---|
+| 《自卑与超越》/ *What Life Should Mean to You* | 曹晚红 等 | 吉林出版集团 / 多家出版社 | 阿德勒最广为人知的中文译本 / Most widely known Chinese translation |
+| 《理解人性》/ *Understanding Human Nature* | 张晓晨 等 | 国际文化出版公司 / 多家出版社 | 个体心理学系统入门 / Systematic introduction to Individual Psychology |
+| 《生活的科学》/ *The Science of Living* | — | 多家出版社 | 实践应用 / Practical applications |
+| 《被讨厌的勇气》/ *The Courage to Be Disliked* | 渠海霞 | 机械工业出版社 | 岸见一郎的阿德勒思想当代阐释（日文原著）/ Kishimi's contemporary interpretation of Adler (originally in Japanese) |
+| 《幸福的勇气》/ *The Courage to Be Happy* | 渠海霞 | 机械工业出版社 | 续篇，深化人际关系理论 / Sequel deepening interpersonal theory |

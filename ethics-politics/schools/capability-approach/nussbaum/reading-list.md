@@ -1,0 +1,12 @@
+---
+id: nussbaum-reading-list
+title: 纳斯鲍姆进阶阅读
+type: reading-list
+domain: ethics-politics
+school: capability-approach
+thinker: nussbaum
+tags: [nussbaum, reading-guide]
+cross-refs: [{id: nussbaum, relation: thinker}]
+---
+# 纳斯鲍姆进阶阅读
+入门：《创造能力》→ 进阶：《正义的前沿》→ 深潜：《善的脆弱性》《政治情感》

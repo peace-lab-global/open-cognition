@@ -1,0 +1,19 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.bainbridge.timeline
+title: 班布里奇timeline Lisanne Bainbridge timeline
+type: timeline
+thinker: bainbridge
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 班布里奇思想年表
+
+### 1941 · 出生于英国
+### 1983 · "The Ironies of Automation"
+### 1987 · Automatica专刊
+
+## 思想演变
+```
+SRK模型继承 → 自动化悖论 (1983) → 持续影响 (至今)
+```

@@ -1,0 +1,79 @@
+---
+id: psychology.cognitive.hayes.timeline
+title: "海耶斯生平大事记 · Steven Hayes Timeline"
+type: timeline
+thinker: hayes
+school: cognitive
+---
+
+# 海耶斯生平大事记 / Steven Hayes Life Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 | 事件 | 说明 |
+|------|------|------|
+| 1948 | 出生 | Steven Charles Hayes出生于美国加利福尼亚州 |
+| 1960s | 高中时期 | 对心理学产生兴趣，受到当时人本主义心理学和存在主义思潮的影响 |
+| ~1970 | 学士 | 在Loyola University获得心理学学士学位 |
+| ~1976 | 博士 | 在西弗吉尼亚大学（West Virginia University）获得临床心理学博士学位，师从行为分析传统 |
+| 1970s | 学术训练 | 在行为分析传统中接受训练，深受斯金纳（B.F. Skinner）操作条件反射理论和Sidman等价关系研究的影响 |
+
+## 学术生涯初期 / Early Academic Career (1976–1985)
+
+| 年份 | 事件 | 说明 |
+|------|------|------|
+| 1976 | 学术职位 | 开始在学术界发展，最初在多个大学任教和研究 |
+| 1980s初 | 临床反思 | 在临床实践中对传统行为治疗和认知治疗的局限性产生反思——为什么帮助来访者改变想法的内容并不总是有效？ |
+| 1982 | 治疗创新萌芽 | 开始探索一种整合正念、接纳和价值导向行为的新型治疗方法 |
+| 1984 | RFT核心论文 | 发表"Verbal behavior and equivalence relations"，首次提出"关系框架"概念，挑战传统的"等价关系"范式 |
+| 1985 | 内华达大学 | 加入内华达大学里诺分校（University of Nevada, Reno）心理学系，此后长期在此工作 |
+
+## ACT与RFT的发展 / Development of ACT and RFT (1985–2005)
+
+| 年份 | 事件 | 说明 |
+|------|------|------|
+| 1986 | ACT命名 | 将其治疗方法从"综合距离化"更名为"接纳承诺疗法"（Acceptance and Commitment Therapy） |
+| 1987 | 语境治疗 | 发表以语境为基础的治疗方法论文，首次系统阐述ACT的理论基础 |
+| 1989 | 个人危机 | 经历严重的恐慌症发作，这一亲身经历深刻影响了他对经验性回避和接纳的理解——"你不能教给别人你自己还没学会的东西" |
+| 1990 | 治疗模型 | 系统阐述ACT治疗模型，出版 *A Contextual Approach to Therapeutic Change* |
+| 1993 | RFT文集 | 编辑 *Understanding Verbal Relations*，汇集RFT早期实验研究 |
+| 1990s | 研究团队 | 在UNR建立活跃的RFT和ACT研究实验室，培养了大量后来成为该领域领导者的博士生 |
+| 1999 | ACT奠基之作 | 与Strosahl和Wilson合著出版 *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*，ACT正式确立 |
+| 2001 | RFT里程碑 | 与Barnes-Holmes和Roche合编出版 *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*，RFT系统确立 |
+| 2002 | ACBS创立 | 参与创立语境行为科学协会（Association for Contextual Behavioral Science, ACBS），成为ACT和RFT研究者的核心学术社区 |
+
+## 循证整合与全球扩展 / Evidence-Based Integration and Global Expansion (2004–2015)
+
+| 年份 | 事件 | 说明 |
+|------|------|------|
+| 2004 | APA认证 | APA Division 12将ACT列为"有实证支持的治疗"（empirically supported treatment），用于抑郁和混合焦虑障碍 |
+| 2004 | 实践指南 | 与Follette合编 *A Practical Guide to Acceptance and Commitment Therapy* |
+| 2005 | 自助畅销书 | 与Smith合著 *Get Out of Your Mind and Into Your Life*，成为畅销自助书 |
+| 2006 | 标志性综述 | 在 *Behaviour Research and Therapy* 发表"ACT: Model, processes and outcomes"，系统总结ACT的模型、过程和证据 |
+| 2006 | 慢性疼痛认证 | APA将ACT列入慢性疼痛的循证治疗 |
+| 2008 | 元分析支持 | Hofmann等人发表meta-analysis确认ACT对多种心理障碍的有效性 |
+| 2011 | ACT第二版 | 出版 *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change*（第二版），整合最新研究 |
+| 2011 | 全球培训 | ACT培训在全球范围展开，日本、韩国、北欧、澳大利亚等地建立活跃的ACT社区 |
+| 2013 | RFT进展 | Dymond & Roche编辑 *Advances in Relational Frame Theory*，总结RFT第二个十年的进展 |
+| 2015 | CBS纲领 | 发表"Contextual behavioral science: Creating a science more adequate to the challenge of the human condition"，系统阐述CBS作为科学研究纲领 |
+
+## 近年发展 / Recent Developments (2016–至今)
+
+| 年份 | 事件 | 说明 |
+|------|------|------|
+| 2016 | 青少年ACT | 与Ciarrochi和Bailey合作出版 *DNA-V*，将ACT适应于青少年群体 |
+| 2018 | 过程导向CBT | 与Stefan Hofmann合编 *Process-Based CBT*，推动从"方案"到"过程"的范式转换 |
+| 2019 | *A Liberated Mind* | 出版面向大众的 *A Liberated Mind*，融合个人叙事与科学整合 |
+| 2019 | 进化框架 | 提出"扩展进化综合体"（EES）作为CBS的元理论框架 |
+| 2020 | 伞状综述 | Gloster等人发表涵盖64项元分析的伞状综述，全面确认ACT的有效性 |
+| 2020 | 过程导向深化 | 继续推动过程导向治疗的理论深化和跨诊断应用 |
+| 2022 | *Prosocial* | 与Atkins和Wilson合著 *Prosocial*，将CBS扩展到组织和社会层面 |
+| 2020s | 荣誉退休 | 以内华达基金会荣誉教授（Nevada Foundation Professor Emeritus）身份继续从事研究和写作 |
+| 2020s | 持续影响 | ACT的RCT数量超过400项，RFT实验研究持续增长，CBS成为全球性的科学运动 |
+
+## 个人生活 / Personal Life
+
+- 海耶斯在1989年经历恐慌症发作后，将其亲身经历整合到ACT的发展中
+- 他公开讨论自己的心理健康经历，这一开放性帮助减少了学术界的心理健康污名化
+- 他的伴侣Jacqueline Pistorello也是ACT领域的临床心理学家
+- 海耶斯长期练习正念，这一实践深刻影响了他的理论和临床工作

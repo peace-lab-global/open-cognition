@@ -1,0 +1,34 @@
+---
+id: cognitive-systems.safety-science.reason-works
+title: 里森作品总览
+type: works-catalogue
+domain: cognitive-systems
+school: safety-science
+thinker: reason
+tags: [reason, works, swiss-cheese-model]
+cross-refs: [{id: reason, relation: thinker}]
+---
+
+# 里森作品总览
+
+## 核心著作
+| 年份 | 书名 | 出版社 | 核心贡献 |
+|------|------|--------|----------|
+| 1979 | *Lapses of Memory* (与Morris) | — | 日常记忆失误分析 |
+| 1990 | *Human Error* | Cambridge University Press | 人因错误的系统认知分类 |
+| 1997 | *Managing the Risks of Organizational Accidents* | Ashgate | 瑞士奶酪模型与组织事故理论 |
+| 2008 | *The Human Contribution* | Ashgate | 人为因素的积极角色 |
+| 2013 | *A Life in Error* | Ashgate | 学术生涯回顾 |
+
+## 核心论文
+| 年份 | 论文 | 期刊/出处 | 核心贡献 |
+|------|------|-----------|----------|
+| 1987 | "Cognitive Psychology and Human Error" | *Human Factors Society* | 认知心理学与安全联结 |
+| 1995 | "A systems approach to investigative protocols" | *Accident Analysis & Prevention* | 系统事故调查方法 |
+| 2000 | "Human error: models and management" | *BMJ* 320 | 面向医疗从业者的通俗阐述 |
+| 2005 | "Reducing the risk from health care" | *Quality and Safety in Health Care* | 医疗安全的Reason框架 |
+
+## 阅读路径
+**入门**: *Managing the Risks* 第1-4章 → "Human error: models and management" (BMJ 2000)
+**进阶**: *Human Error* (1990) → *The Human Contribution* (2008)
+**深潜**: GEMS模型详解 → 安全文化四要素 → 全球事故案例分析中的应用

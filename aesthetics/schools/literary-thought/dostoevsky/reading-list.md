@@ -1,0 +1,33 @@
+---
+id: dostoevsky-aesthetics-reading-list
+title: 陀思妥耶夫斯基美学进阶阅读
+type: reading-list
+domain: aesthetics
+school: literary-thought
+thinker: dostoevsky
+tags: [dostoevsky, bibliography, aesthetics]
+cross-refs:
+  - id: dostoevsky
+    relation: thinker
+---
+
+# 陀思妥耶夫斯基美学进阶阅读
+
+> 完整阅读清单见 [文学领域](../../../literature/schools/novelists/dostoevsky/reading-list.md)。
+
+## 美学视角必读
+
+### 原典
+- 《地下室手记》第一部分
+- "宗教大法官"（《卡拉马佐夫兄弟》第二编第五章）
+- 《罪与罚》犯罪心理描写
+
+### 批评
+- **Bakhtin, Mikhail** *Problems of Dostoevsky's Poetics* (1963) — 复调理论
+- **Berdyaev, Nikolai** *Dostoevsky* (1923) — 自由哲学
+- **Freud, Sigmund** "Dostoevsky and Parricide" (1928) — 精神分析
+- **Shestov, Lev** *Dostoevsky and Nietzsche* (1903) — 绝望哲学
+
+### 中文研究
+- 王志耕《陀思妥耶夫斯基与俄国文化精神》
+- 刘文飞《陀思妥耶夫斯基的上帝》

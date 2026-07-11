@@ -1,0 +1,47 @@
+---
+id: psychology.cognitive.tart.works
+title: "塔特著作年表 · Charles Tart Works"
+type: works
+thinker: tart
+---
+
+# 塔特著作年表 · Charles Tart Chronological Works
+
+## 专著 / Monographs
+
+| 年份 / Year | 著作 / Title | 出版社 / Publisher | 核心主题 / Core Theme |
+|---|---|---|---|
+| 1969 | *Altered States of Consciousness* (编 / ed.) | Wiley | ASC 研究的里程碑文集 / Landmark anthology of ASC research |
+| 1972 | *On Being Stoned: A Psychological Study of Marijuana Intoxication* | Science and Behavior Books | 大麻意识状态的心理学研究 / Psychological study of marijuana consciousness states |
+| 1975 | *States of Consciousness* | Dutton | 意识状态理论的系统阐述 / Systematic exposition of consciousness states theory |
+| 1983 | *High Times and Altered States of Consciousness* (编 / ed.) | Harper & Row | ASC 研究文选更新版 / Updated anthology of ASC research |
+| 1986 | *Waking Up: Overcoming the Obstacles to Human Potential* | Shambhala | 从共识恍惚中觉醒的路径 / Paths to awakening from consensus trance |
+| 1989 | *Open Mind, Discriminating Mind: Reflections on Human Possibilities* | Harper & Row | 意识研究的反思 / Reflections on consciousness research |
+| 1994 | *Living the Mindful Life* | Shambhala | 正念日常实践 / Everyday mindfulness practice |
+| 1999 | *Body Mind Spirit: Exploring the Parapsychological Ecosystem* | Hampton Roads | 身心整合与超心理学 / Mind-body integration and parapsychology |
+| 2009 | *The End of Materialism: How Evidence of the Paranormal Is Breaking the Scientific Paradigm* | New Harbinger | 对科学唯物主义的哲学挑战 / Philosophical challenge to scientific materialism |
+
+## 重要论文 / Key Papers
+
+| 年份 / Year | 论文 / Title | 期刊 / Journal | 核心贡献 / Core Contribution |
+|---|---|---|---|
+| 1966 | "Hypnosis as Altered State of Consciousness" | *Journal of Nervous and Mental Disease* | 催眠作为独立意识状态的论证 / Argument for hypnosis as an independent consciousness state |
+| 1970 | "Transpersonal Potentialities of Drugs and Psychedelics" | *Journal of Transpersonal Psychology* | 致幻剂与超个人体验的关系 / Relationship between psychedelics and transpersonal experience |
+| 1971 | "The Effects of Marijuana: A Psychological Study" | *Scientific American* | 大麻心理效应的大众科学阐述 / Popular science exposition of marijuana psychological effects |
+| 1972 | "States of Consciousness and State-Specific Sciences" | *Science* | SSS 概念的早期阐述 / Early articulation of the SSS concept |
+| 1975 | "Where Have All the Flowers Gone? A Personal and Professional Journey Through the Altered States of Consciousness" | *JTP* | 学术旅程的自我反思 / Self-reflection on academic journey |
+| 1979 | "The State-Specific Study of Consciousness" | *American Psychologist* | SSS 方法论的正式提出 / Formal proposal of SSS methodology |
+| 1984 | "Acknowledging the Dismissal of Psi" | *JTP* | 对 psi 现象学术排斥的批评 / Critique of academic exclusion of psi phenomena |
+| 1995 | "The Consensus Trance" | *JTP* | 共识恍惚概念的深化 / Deepening of the consensus trance concept |
+
+## 编辑文集 / Edited Volumes
+
+| 年份 / Year | 文集 / Title | 说明 / Notes |
+|---|---|---|
+| 1969 | *Altered States of Consciousness* | 首版，23 篇文章 / First edition, 23 articles |
+| 1983 | *High Times and Altered States of Consciousness* | 修订版 / Revised edition |
+| 1990 | *Altered States of Consciousness* (3rd ed.) | 第三版，增补更新 / Third edition, expanded and updated |
+
+---
+
+> **返回 / Return:** [README.md](README.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md)

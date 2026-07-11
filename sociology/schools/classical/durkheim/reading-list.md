@@ -1,0 +1,60 @@
+---
+id: durkheim-reading-list
+title: 涂尔干进阶书单 · Durkheim Reading List
+type: reading-list
+domain: sociology
+thinker: durkheim
+school: classical
+---
+
+# 涂尔干系统阅读指南 / Durkheim Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Durkheim* (1999) | Steven Lukes | 经典传记，思想与社会语境并重 |
+| *Émile Durkheim: His Life and Work* (1973) | Steven Lukes | 最权威的思想传记 |
+| *Durkheim: A Very Short Introduction* | Steve Bruce | 牛津通识读本 |
+| 《涂尔干社会学思想述评》 | 渠敬东 | 中文最佳入门之一 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会学方法的准则》 | 1895 | 社会事实定义；方法论程序 |
+| 《自杀论》（导论+第四编） | 1897 | 四种自杀类型；社会整合与规范 |
+| 《社会分工论》（第一、二编） | 1893 | 机械团结→有机团结；社会团结 |
+| 《宗教生活的基本形式》（导论+结论） | 1912 | 神圣/世俗；集体欢腾 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会分工论》（第三编：病态形式） | 1893 | 强制分工；反常分工 |
+| 《宗教生活的基本形式》（第二编第七章） | 1912 | 范畴的社会起源 |
+| 《"原始"分类》（与莫斯合著） | 1903 | 集体表征；认知范畴 |
+| 《道德教育》 | 1922 | 道德社会化；教育功能 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Emile Durkheim: Critical Assessments* (1990) | Peter Hamilton (ed.) | 评论文集 |
+| *Durkheim and Modern Sociology* | W. S. F. Pickering | 涂尔干与当代社会学 |
+| *The Sociological Domain: The Durkheimians and the Founding of French Sociology* | Philippe Besnard (ed.) | 社会学年鉴学派 |
+| *Émile Durkheim and the Sociology of Religion* | William Watts Miller | 宗教社会学专题 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The Elementary Forms of Religious Life* (新译本, 1995) | Karen Fields (trans.) | 最新英译本；附重要导言 |
+| *Collective Effervescence and Social Change* | Shanyang Zhao | 集体欢腾理论的当代应用 |
+| *Anomie: History and Meanings* | Marco Orrù | 失范概念的学术史 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Lukes传记 → 《社会学方法的准则》→ 《自杀论》选读
+**阶段二**（4-8周）: 《社会分工论》→ 《宗教生活的基本形式》导论和结论
+**阶段三**（8周+）: 全文精读《宗教生活的基本形式》→ 《道德教育》→ 深度研究文献

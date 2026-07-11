@@ -1,0 +1,107 @@
+---
+id: bentham-utilitarianism
+title: "功利主义 · Utilitarianism"
+type: concept
+thinker: bentham
+domain: ethics-politics
+school: consequentialism
+tags:
+  - 功利主义
+  - 结果主义
+  - 伦理学
+  - 最大幸福
+---
+
+# 功利主义 · Utilitarianism
+
+## 概念概述 / Concept Overview
+
+功利主义（Utilitarianism）是边沁创立的伦理学体系，其核心主张是：行为的道德正当性完全取决于其产生的后果是否增进了幸福总量。一个行为如果在所有可行选项中能够产生最大多数人的最大幸福，它就是道德上正确的行为。这一理论将"幸福"（或"功利"）确立为唯一的内在价值，将所有其他价值——如正义、权利、自由——都理解为促进幸福的手段而非独立目的。
+
+Utilitarianism is the ethical system created by Bentham, whose core claim is that the moral rightness of an action depends entirely on whether its consequences augment the total amount of happiness. An action is morally right if, among all available alternatives, it produces the greatest happiness of the greatest number. The theory establishes "happiness" (or "utility") as the sole intrinsic value, treating all other values—such as justice, rights, and liberty—as means to promoting happiness rather than independent ends.
+
+边沁的功利主义具有三个基本特征：后果主义（consequentialism）——行为的道德评价只取决于其后果；快乐主义（hedonism）——幸福被等同于快乐（或痛苦的免除）；平等主义（egalitarianism）——每个人的利益在计算中具有同等权重。这三个特征的组合使功利主义成为一种极具革命性的道德理论，因为它要求人们超越传统、直觉和偏见，以理性计算的方式来评估行为的道德价值。
+
+Bentham's utilitarianism has three fundamental features: consequentialism—moral evaluation depends solely on consequences; hedonism—happiness is equated with pleasure (or the absence of pain); and egalitarianism—each person's interests carry equal weight in the calculation. This combination makes utilitarianism a profoundly revolutionary moral theory, demanding that people transcend tradition, intuition, and prejudice to assess moral value through rational calculation.
+
+## 理论内涵 / Theoretical Content
+
+边沁的功利主义建立在一个经验性的人性论之上：人类行为从根本上受到痛苦与快乐的驱动。这不是一个规范性主张，而是一个关于人类心理的事实性描述。边沁认为，即便是那些声称拒绝功利原则的人，在实际行为中仍然在运用功利推理——因为他们的一切行为最终都指向追求快乐或避免痛苦。
+
+Bentham's utilitarianism rests on an empirical theory of human nature: human behaviour is fundamentally driven by pain and pleasure. This is not a normative claim but a factual description of human psychology. Bentham argued that even those who profess to reject the utilitarian principle are in fact employing utilitarian reasoning in their behaviour, since all their actions ultimately aim at pursuing pleasure or avoiding pain.
+
+在此基础上，边沁区分了两种功利主义的应用模式。在私人伦理（private ethics）层面，功利原则指导个人的日常行为选择：一个人应当选择那个在所有可行选项中能够最大化自身幸福的行为。在立法（legislation）层面，功利原则指导公共政策的制定：立法者应当选择那个能够最大化共同体整体幸福的政策。边沁特别强调，立法层面的功利主义比私人层面更为重要，因为立法者的决策影响范围远大于个人行为。
+
+On this basis, Bentham distinguished two modes of utilitarian application. At the level of private ethics, the principle of utility guides individual daily choices: a person should choose the action that, among all feasible options, maximises their own happiness. At the level of legislation, the principle guides public policy-making: legislators should choose the policy that maximises the overall happiness of the community. Bentham particularly emphasised that legislation-level utilitarianism is far more important than the private level, since legislators' decisions affect a far wider scope than individual actions.
+
+边沁还提出了一个重要的理论限制：功利主义并不要求人们在每次行动前都进行精确的苦乐计算。他承认，在许多情况下，人们依靠习惯、直觉和经验法则来做出决定，这是合理的——只要这些习惯和直觉本身是在长期的功利经验基础上形成的。这一洞见后来被规则功利主义（rule utilitarianism）所发展。
+
+Bentham also proposed an important theoretical limitation: utilitarianism does not require people to perform precise hedonic calculations before every action. He acknowledged that in many circumstances people rely on habits, intuitions, and rules of thumb to make decisions, and this is reasonable—provided that these habits and intuitions are themselves formed on the basis of long-term utilitarian experience. This insight was later developed by rule utilitarianism.
+
+## 思想史脉络 / Intellectual History
+
+功利主义并非边沁凭空创造的。在边沁之前，哈奇森（Francis Hutcheson）在1725年已提出了"最大多数人的最大幸福"这一公式。休谟（David Hume）在《人性论》中将"功利"作为道德赞许的重要来源。爱尔维修（Claude Adrien Helvétius）则将"肉体感受性"确立为道德的基础。普里斯特利（Joseph Priestley）在1768年明确使用了"最大幸福"的概念。
+
+Utilitarianism was not created by Bentham from nothing. Before him, Francis Hutcheson had already proposed the "greatest happiness of the greatest number" formula in 1725. David Hume, in *A Treatise of Human Nature*, identified "utility" as an important source of moral approbation. Claude Adrien Helvétius established "physical sensibility" as the foundation of morality. Joseph Priestley explicitly used the concept of "greatest happiness" in 1768.
+
+边沁的独特贡献在于将这些散见的思想资源整合为一个完整的、可操作的哲学体系。他不仅提出了功利原则，还发展了苦乐计算法来使其可操作化，并将其系统地应用于法律、政治、经济等各个具体领域。此后的密尔、西季威克、摩尔等人分别对边沁的功利主义进行了修正和发展，形成了功利主义哲学内部丰富的理论光谱。
+
+Bentham's unique contribution lay in integrating these scattered intellectual resources into a complete, operational philosophical system. He not only proposed the principle of utility but developed the felicific calculus to make it operational, and systematically applied it to law, politics, economics, and other concrete domains. Mill, Sidgwick, Moore, and others subsequently revised and developed Bentham's utilitarianism, producing a rich theoretical spectrum within utilitarian philosophy.
+
+## 关键文本 / Key Passages
+
+> "Nature has placed mankind under the governance of two sovereign masters, *pain* and *pleasure*. It is for them alone to point out what we ought to do, as well as to determine what we shall do."
+>
+> — *An Introduction to the Principles of Morals and Legislation*, Chapter I, §1
+
+这是功利主义最著名的开篇宣言。边沁在此同时提出了一个描述性命题（人类行为被苦乐驱动）和一个规范性命题（道德标准应以苦乐为根据），二者的结合构成了整个功利主义体系的出发点。
+This is utilitarianism's most famous opening declaration. Bentham here simultaneously proposes a descriptive claim (human behaviour is driven by pain and pleasure) and a normative claim (moral standards should be grounded in pain and pleasure), and their combination constitutes the starting point of the entire utilitarian system.
+
+> "It is in vain to talk of the interest of the community, without understanding what is the interest of the individual."
+>
+> — *IPML*, Chapter I, §4
+
+边沁在此坚持方法论个人主义：共同体的利益必须还原为个体利益的加总。这一立场对后来的自由主义和公共选择理论都有深远影响。
+Bentham here insists on methodological individualism: the community's interest must be reduced to the aggregation of individual interests. This position profoundly influenced later liberalism and public-choice theory.
+
+## 当代应用 / Contemporary Applications
+
+功利主义在当代仍然是一种极具影响力的伦理学理论。在公共政策领域，成本-效益分析（Cost-Benefit Analysis）本质上就是功利主义的实践工具。在生物伦理学中，功利主义被广泛应用于医疗资源分配、疫苗接种策略和安乐死等问题。在全球正义讨论中，彼得·辛格（Peter Singer）将功利主义原则扩展到全球贫困问题，主张富裕国家有义务为减少全球苦难而做出重大牺牲。在人工智能伦理领域，功利主义框架常被用来讨论如何让AI系统进行道德决策，尽管其局限性也引发了关于"AI功利主义"是否可取的深刻争论。
+
+Utilitarianism remains a highly influential ethical theory today. In public policy, Cost-Benefit Analysis is essentially a practical tool of utilitarianism. In bioethics, utilitarianism is widely applied to healthcare resource allocation, vaccination strategies, and euthanasia. In discussions of global justice, Peter Singer has extended utilitarian principles to global poverty, arguing that wealthy nations have an obligation to make significant sacrifices to reduce global suffering. In AI ethics, the utilitarian framework is frequently invoked in discussions of how to enable moral decision-making by AI systems, though its limitations have also provoked deep debates about whether "AI utilitarianism" is desirable.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一 / Critique 1:** 功利主义可能导致不公正的结果——如果压迫少数人能增进多数人幸福，功利原则似乎会要求这样做。
+Utilitarianism may lead to unjust outcomes—if oppressing a minority increases majority happiness, the principle of utility seems to demand it.
+
+**回应 / Response:** 边沁的"每一人计数为一"原则为平等提供了强有力的保护。此外，规则功利主义通过关注长期规则而非个别行为来避免这一问题。
+Bentham's "every individual tells for one" principle provides robust protection for equality. Moreover, rule utilitarianism avoids this problem by focusing on long-term rules rather than individual acts.
+
+**批评二 / Critique 2:** 功利主义将人仅仅视为快乐容器，忽视了人的尊严、自主权和个体完整性。诺齐克（Nozick）的"体验机"思想实验揭示了这一局限。
+Utilitarianism treats people merely as vessels of pleasure, ignoring human dignity, autonomy, and individual integrity. Nozick's "experience machine" thought experiment reveals this limitation.
+
+**回应 / Response:** 边沁主义者可以论证，人的尊严和自主权本身具有巨大的功利价值——侵犯它们的长期代价远超短期收益。
+A Benthamite can argue that human dignity and autonomy themselves possess enormous utilitarian value—the long-term costs of violating them far exceed any short-term gains.
+
+**批评三 / Critique 3:** 苦乐计算在认识论上不可行——我们无法准确预知行为的全部后果，也无法精确量化不同种类的快乐和痛苦。
+Hedonic calculation is epistemically unfeasible—we cannot accurately foresee all consequences of actions, nor precisely quantify different kinds of pleasure and pain.
+
+**回应 / Response:** 边沁本人承认计算的精确性是有限的，功利原则提供的是决策的"标准"而非每次都必须执行的"程序"。
+Bentham himself acknowledged that precision in calculation is limited; the principle of utility provides a "standard" for decisions rather than a "procedure" that must be executed in every instance.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+墨子的"兼爱"和"兴利除害"思想与功利主义有显著的形式相似性。二者都主张超越亲疏差等的普遍道德关怀，都以"利"（利益、效用）为道德评价的核心尺度。然而，墨子的"利"与"义"紧密相连，功利最终服务于"天志"这一超越性标准；边沁则拒绝任何超越性标准，将功利本身确立为道德的最终根据。这一差异体现了中西伦理学在"是否需要超越性根据"这一根本问题上的深层分歧。
+
+Mozi's doctrines of "universal love" (jian ai) and "promoting benefit and eliminating harm" bear striking formal similarities to utilitarianism. Both advocate a universal moral concern transcending distinctions of kinship and distance, and both take "benefit" (li, utility) as the core measure of moral evaluation. However, Mozi's "benefit" is closely linked to "righteousness" (yi), with utility ultimately serving the transcendent standard of "Heaven's will" (tian zhi); Bentham rejects any transcendent standard, establishing utility itself as the ultimate ground of morality. This difference reflects a deep divergence between Chinese and Western ethics on the fundamental question of whether a transcendent foundation is needed.
+
+## 延伸阅读 / Further Reading
+
+- Bentham, *An Introduction to the Principles of Morals and Legislation*, Ch. I–IV
+- Mill, *Utilitarianism* (1861)
+- Sidgwick, *The Methods of Ethics* (1874)
+- Singer, Peter. *Practical Ethics* (1979)
+- Smart, J.J.C. & Williams, Bernard. *Utilitarianism: For and Against* (1973)
+- 西季威克《伦理学方法》，廖申白译，中国社会科学出版社 / Sidgwick, *The Methods of Ethics* (Chinese translation)
+- 彼得·辛格《实践伦理学》，慈继伟译 / Peter Singer, *Practical Ethics* (Chinese translation)

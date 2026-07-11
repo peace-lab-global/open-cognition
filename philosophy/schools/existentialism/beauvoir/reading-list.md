@@ -1,0 +1,196 @@
+---
+id: beauvoir-reading-list
+title: 波伏瓦进阶阅读 · Beauvoir Reading List
+type: reading-list
+domain: philosophy
+school: existentialism
+thinker: beauvoir
+tags: [beauvoir, bibliography, reading-guide, feminism, existentialism]
+cross-refs:
+  - id: beauvoir
+    relation: thinker
+---
+
+# 波伏瓦进阶阅读 · Beauvoir Reading List
+
+## 一、阅读路径
+
+### 入门（3 本，约 20 小时）
+1. **《模糊性的伦理》**（Pour une morale de l'ambiguite, 1947）-- 最简洁，约 200 页，进入波伏瓦的伦理框架
+2. **《第二性》第一卷第三部"神话"** -- 最精彩的文学分析，约 150 页
+3. **《一个规矩女孩的回忆》**（Memoires d'une jeune fille rangee, 1958）-- 最生动的自传，了解思想形成的个人脉络
+
+### 进阶（5 本，约 60 小时）
+4. **《第二性》全书** -- 女性主义哲学的完整论述
+5. **《名士风流》**（Les Mandarins, 1954）-- 战后巴黎知识分子的小说化群像
+6. **《岁月的力量》**（La Force de l'age, 1960）-- 战争年代与存在主义圈的形成
+7. **《皮洛士与西涅阿斯》**（Pyrrhus et Cineas, 1944）-- 早期伦理学雏形
+8. **《被遗弃的女人》**（La Femme rompue, 1967）-- 三个中篇，女性困境的小说呈现
+
+### 深潜（全集 + 书信 + 老年问题）
+9. **《事物的力量》《清算已毕》** -- 自传后续两卷
+10. **《老之将至》**（La Vieillesse, 1970）-- 老年处境的系统分析
+11. **《告别的仪式》**（La Ceremonie des adieux, 1981）-- 萨特晚年
+12. **《致萨特》书信集** -- 亲密思想交流的第一手资料
+13. **《人都是会死的》**（Tous les hommes sont mortels, 1946）-- 不朽的哲学小说
+
+## 二、原典（必读）
+
+### 哲学
+- *Pour une morale de l'ambiguite* (1947) -- 伦理学核心
+- *Le Deuxieme Sexe*, Tome I: Les Faits et les Mythes (1949)
+- *Le Deuxieme Sexe*, Tome II: L'Experience vecue (1949)
+- *Pyrrhus et Cineas* (1944)
+- *Faut-il bruler Sade?* (1955)
+
+### 小说
+- *L'Invitee* (1943)
+- *Tous les hommes sont mortels* (1946)
+- *Les Mandarins* (1954) -- 龚古尔奖
+- *Les Belles Images* (1966)
+- *La Femme rompue* (1967)
+
+### 自传
+- *Memoires d'une jeune fille rangee* (1958)
+- *La Force de l'age* (1960)
+- *La Force des choses* (1963)
+- *Tout compte fait* (1972)
+
+### 其他
+- *La Vieillesse* (1970) -- 老年问题
+- *La Ceremonie des adieux* (1981) -- 萨特晚年
+- *L'Amerique au jour le jour* (1948) -- 美国日记
+- *La Longue Marche* (1957) -- 中国之行
+
+### 中译本推荐
+- **郑克鲁 译**《第二性》（上海译文, 2011）-- 目前最完整中译本
+- **邱瑞馄 译**《模糊性的道德》（上海译文）
+- **许钧 译**《名士风流》（上海译文）
+- **罗芃 译**《一个规矩女孩的回忆》（上海译文）
+- **上海译文出版社**"波伏瓦作品集"系列 -- 最系统的中文出版
+
+## 三、二手研究
+
+### 经典传记
+- **Deirdre Bair**, *Simone de Beauvoir: A Biography* (1990) -- 最详尽的英文传记
+- **Toril Moi**, *Simone de Beauvoir: The Making of an Intellectual Woman* (1994) -- 思想传记，强调波伏瓦的独立思想形成
+- **Kate Kirkpatrick**, *Becoming Existentialism* (2015) -- 最新研究，重新评估波伏瓦与萨特的思想关系，揭示波伏瓦的独立哲学路径
+
+### 思想研究
+- **Karen Vintges**, *Philosophy as Passion: The Thinking of Simone de Beauvoir* (1996)
+- **Sonia Kruks**, *Retrieving Experience: Subjectivity and Recognition in Feminist Politics* (2001) -- 波伏瓦的现象学政治
+- **Eva Lundgren-Gothlin**, *Sex and Existence: Simone de Beauvoir's The Second Sex* (1996)
+- **Margaret Simons**, *Inventing Ourselves: Essays on Simone de Beauvoir* (1999)
+- **Kristana Arp**, *The Bonds of Freedom: Simone de Beauvoir's Existentialist Ethics* (2001)
+- **Nancy Bauer**, *Simone de Beauvoir, Philosopher, and Feminist* (2001)
+
+### 新近研究
+- **Kate Kirkpatrick**, *Simone de Beauvoir: A Very Short Introduction* (2022) -- 入门级概述
+- **Kate Kirkpatrick**, *Becoming Beauvoir* (2019) -- 传记与思想交织
+- **Ursula Tidd**, *Simone de Beauvoir* (2004, Routledge) -- 哲学导论
+
+### 中文研究
+- **柳鸣九 编**《西蒙娜·德·波伏瓦研究》-- 中文波伏瓦研究的早期成果
+- **邱瑞馄**《波伏瓦：一个叛逆女性的精神世界》
+- **张京媛**《当代女性主义文学批评》-- 含波伏瓦相关论文
+- **王德禄**《波伏瓦与存在主义》
+
+## 四、波伏瓦的阅读（她的源头）
+
+波伏瓦在自传与访谈中反复提到以下思想资源：
+
+### 哲学
+- **黑格尔**（Hegel）-- 《精神现象学》（1807）：主奴辩证法是"他者"概念的直接源头
+- **胡塞尔**（Husserl）-- 《纯粹现象学和现象学哲学的观念》（1913）：现象学方法
+- **海德格尔**（Heidegger）-- 《存在与时间》（1927）：此在（Dasein）、处境、向死存在
+- **克尔凯郭尔**（Kierkegaard）-- 存在主义先驱：焦虑、选择、信仰的跳跃
+- **尼采**（Nietzsche）-- 价值的创造、"上帝已死"后的伦理可能
+
+### 存在主义圈
+- **萨特**（Sartre）-- 《存在与虚无》（1943）：自由的绝对性、他人的注视、存在先于本质
+- **梅洛-庞蒂**（Merleau-Ponty）-- 《知觉现象学》（1945）：身体主体、处境中的知觉
+
+### 文学
+- **陀思妥耶夫斯基**（Dostoevsky）-- 意识、自由与痛苦的深度探索
+- **卡夫卡**（Kafka）-- 异化与荒谬
+- **伍尔夫**（Virginia Woolf）-- 《自己的房间》（1929）：女性与写作
+- **司汤达**（Stendhal）-- 《第二性》中被分析为少数尊重女性主体性的男性作家
+
+### 人类学与社会学
+- **列维-斯特劳斯**（Levi-Strauss）-- 《亲属关系的基本结构》（1949）：女性在亲属交换中的客体地位
+- **恩格斯**（Engels）-- 《家庭、私有制和国家的起源》（1884）：女性压迫的经济学解释
+
+## 五、波伏瓦的下游（受她影响）
+
+### 女性主义理论
+- **巴特勒**（Judith Butler）-- 《性别麻烦》（1990）：从"成为女人"到"性别操演"
+- **伊里加赖**（Luce Irigaray）-- 《他者女人的窥镜》（1974）：批判波伏瓦的建构论，主张肯定性别差异
+- **克里斯蒂娃**（Julia Kristeva）-- 《诗性语言的革命》（1974）：符号态（semiotique）与母性
+- **西苏**（Helene Cixous）-- 《美杜莎的笑声》（1975）：女性书写（ecriture feminine）
+- **hooks**（bell hooks）-- 《难道我不是女人吗？》（1981）：交叉性女性主义，批判波伏瓦忽视种族
+
+### 法国女性主义
+- **法吕迪**（Elisabeth Badinter）-- 《 XY：论男性身份》（1992）：与波伏瓦的对话
+- **威蒂格**（Monique Wittig）-- 《女同性恋不是女人》（1992）：激进推论
+
+### 哲学
+- **阿伦特**（Hannah Arendt）-- 虽然与波伏瓦平行发展，但二者在公共领域与行动理论上有对话空间
+- **诺丁斯**（Nel Noddings）-- 《关怀》（1984）：关怀伦理与模糊性伦理的平行
+- **杨**（Iris Young）-- 《正义与差异政治》（1990）：压迫的五种面孔，直接继承波伏瓦
+
+### 社会学与性别研究
+- **布迪厄**（Bourdieu）-- 《男性统治》（2001）：符号暴力与性别支配
+- **Connell**（R.W. Connell）-- 《男性气质》（2005）：男性气质的社会建构
+
+### 电影与文化
+- **瓦尔达**（Agnes Varda）-- 女性主义电影导演
+- **杜拉斯**（Marguerite Duras）-- 同时代女性作家
+- **阿克曼**（Chantal Akerman）-- 《让娜·迪尔曼》（1975）-- 内在性的电影化呈现
+
+## 六、跨学科阅读
+
+### 社会学
+- **Goffman**, *Gender Advertisements* (1979) -- 广告中的性别展演
+- **Hochschild**, *The Second Shift* (1989) -- 女性的"第二班"
+- **Butler**, *Undoing Gender* (2004) -- 性别理论的当代发展
+
+### 政治哲学
+- **Young**, *Justice and the Politics of Difference* (1990) -- 压迫与差异
+- **Nussbaum**, *Women and Human Development* (2000) -- 能力进路
+- **Okin**, *Justice, Gender, and the Family* (1989) -- 家庭正义
+
+### 伦理学
+- **Noddings**, *Caring: A Feminine Approach to Ethics* (1984) -- 关怀伦理
+- **Gilligan**, *In a Different Voice* (1982) -- 不同的声音
+- **Tronto**, *Moral Boundaries* (1993) -- 关怀的政治维度
+
+### 文学
+- **Woolf**, *A Room of One's Own* (1929) -- 女性与写作
+- **Atwood**, *The Handmaid's Tale* (1985) -- 父权体制的极端化
+- **Ernaux**, *The Years* (2008) -- 自传与女性经验
+
+### 东方思想
+- **世亲**《唯识三十颂》-- 见 [存在主义 x 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md)
+- **龙树**《中论》-- 中道与模糊性
+- **庄子**《齐物论》-- 齐是非与超越二元
+
+## 七、研究工具
+
+- **Bibliotheque nationale de France (BnF)** -- 波伏瓦手稿收藏
+- **Simone de Beauvoir Society** -- 国际学术组织，出版 *Simone de Beauvoir Studies* 年刊
+- **Institut Memoires de l'edition contemporaine (IMEC)** -- 波伏瓦档案
+- **JSTOR / Project MUSE** -- 学术论文
+- **Stanford Encyclopedia of Philosophy** -- "Simone de Beauvoir" 条目
+- **Internet Encyclopedia of Philosophy** -- "Simone de Beauvoir" 条目
+- **PhilPapers** -- 波伏瓦论文索引
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想了解**波伏瓦的哲学** | 《模糊性的伦理》 -> 《皮洛士与西涅阿斯》 -> Kirkpatrick |
+| 想了解**女性主义** | 《第二性》全书 -> Butler -> hooks |
+| 想了解**波伏瓦的人生** | 自传四部曲 -> Bair -> Moi |
+| 想了解**存在主义圈** | 《岁月的力量》 -> Sartre -> Merleau-Ponty |
+| 想做**跨文化比较** | [存在主义 x 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md) -> 中道 -> 无我 |
+| 想了解**老年问题** | 《老之将至》 -> Nussbaum -> 当代老年学 |

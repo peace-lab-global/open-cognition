@@ -1,0 +1,85 @@
+---
+id: confucius-reading-list
+title: 孔子进阶阅读 · Confucius Reading List
+type: reading-list
+domain: philosophy
+school: confucian
+thinker: confucius
+tags: [confucius, bibliography, reading-guide]
+cross-refs:
+  - id: confucius
+    relation: thinker
+---
+
+# 孔子进阶阅读 · Confucius Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- 《论语》— 孔子言行的唯一可靠一手文献
+  - 杨伯峻《论语译注》（中华书局）— 最佳现代中文注疏
+  - 钱穆《论语新解》— 传统与现代的平衡
+  - Edward Slingerland, *Confucius: Analects* (Hackett, 2003) — 附传统注疏的英译
+- 《孟子》— 孔子思想的最重要发展
+- 《荀子》— 孔子思想的另一重要分支
+
+### 重要参考
+- 《礼记》— 尤其是《中庸》《大学》《礼运》篇
+- 《左传》— 春秋时代历史背景
+- 《史记·孔子世家》— 司马迁的孔子传记
+- 《孔子家语》— 传统归属，现代学者持保留态度
+
+## 二、经典研究 / Classic Studies
+
+- 朱熹《论语集注》（南宋）— 理学化诠释的经典
+- 程树德《论语集释》（中华书局）— 汇集历代注疏
+- 刘宝楠《论语正义》（清）— 考据学集大成
+- 皇侃《论语义疏》（南朝梁）— 最早的系统注疏之一
+- Herbert Fingarette, *Confucius: The Secular as Sacred* (1972) — 以"礼"为核心的哲学诠释
+- Benjamin Schwartz, *The World of Thought in Ancient China* (1985) — 中国古代思想全景
+- D.C. Lau, *Confucius: The Analects* (Penguin, 1979) — 经典英译与导论
+
+## 三、当代研究 / Contemporary Studies
+
+- 安乐哲 (Roger Ames) & 罗思文 (Henry Rosemont), *The Analects of Confucius: A Philosophical Translation* (1998) — 过程哲学视角
+- 杜维明, *Humanity and Self-Cultivation: Essays in Confucian Thought* (1993) — 新儒家核心论述
+- 余英时, *Morality and Ideology in Chinese History* — 士与中国文化
+- Robert Eno, *The Confucian Creation of Heaven* (1990) — 儒家天人关系
+- Michael Puett, *The Ambivalence of Creation* (2001) — 早期中国思想
+- Bryan Van Norden (ed.), *Confucius and the Analects: New Essays* (2002) — 当代论文集
+- 李零《丧家狗：我读〈论语〉》— 当代中国学者的非正统解读
+- Tan Sor-hoon, *Confucian Democracy in a Deweyan World* (2004) — 儒家与民主
+
+## 四、入门推荐 / Introductory
+
+- 杨伯峻《论语译注》— 最佳入门中文读本
+- Fingarette, *Confucius: The Secular as Sacred* (1972) — 短小精悍的哲学导读
+- 钱穆《孔子传》— 传记与思想的结合
+- Daniel K. Gardner, *Confucianism: A Very Short Introduction* (2014) — 极简入门
+- Stephen Owen, *An Anthology of Chinese Literature* (1997) — 文学与文化背景
+
+## 五、比较研究 / Comparative Studies
+
+### 与亚里士多德
+- Jiyuan Yu, *The Ethics of Confucius and Aristotle: Mirrors of Virtue* (2007)
+- May Sim, *Remastering Morals with Aristotle and Confucius* (2007)
+- Bryan Van Norden (ed.), *Confucius and the Analects: New Essays* (2002)
+
+### 与当代伦理学
+- Erin Cline, *Confucius, Rawls, and the Sense of Justice* (2013)
+- David Wong, "Chinese Ethics" in *The Oxford Handbook of Ethical Theory* (2006)
+
+### 与宗教传统
+- Julia Ching, *Confucianism and Christianity: A Comparative Study* (1977)
+- Tu Weiming, *Confucian Thought: Selfhood as Creative Transformation* (1985)
+
+## 六、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解孔子 | 杨伯峻《论语译注》（选读学而、为政、里仁）→ Fingarette |
+| 研究孔子伦理学 | 《论语》全书 → 朱熹《集注》→ Schwartz |
+| 比较伦理学 | Ames & Rosemont → Yu *Ethics of Confucius and Aristotle* |
+| 儒家政治哲学 | 《论语》→ 《孟子》→ Tan Sor-hoon |
+| 文化与历史背景 | 《左传》选读 → Schwartz *World of Thought* |
+| 当代儒学 | 杜维明 → 余英时 → 李零 |

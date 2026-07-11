@@ -1,0 +1,128 @@
+---
+id: trauma-informed-care
+title: "创伤知情照护 · Trauma-Informed Care"
+type: concept
+domain: psychology
+school: trauma-psychology
+thinker: van-der-kolk
+tags: [创伤知情, 制度变革, 社会正义, 系统性框架, trauma-informed, systemic change, social justice]
+cross-refs: [body-keeps-score.md, developmental-trauma.md, traumatic-stress.md]
+---
+
+# 创伤知情照护 · Trauma-Informed Care
+
+## 定义 / Definition
+
+**创伤知情照护**（Trauma-Informed Care, TIC）是一种将创伤的科学理解系统性地融入组织文化、服务设计和专业实践的制度性框架。其核心转变是从"你有什么毛病？"（What's wrong with you?）的病理化提问转向"你经历了什么？"（What happened to you?）的创伤知情提问。范德科尔克是这一运动的重要推动者，他认为创伤不仅是临床问题，更是社会正义问题——贫困、种族主义、系统性暴力和制度性忽视都是大规模的创伤制造机制，而学校、医院、监狱和社会服务机构如果不理解创伤的影响，就可能无意中"再创伤"（re-traumatize）他们所服务的对象。
+
+**Trauma-Informed Care** (TIC) is an institutional framework that systematically integrates the science of trauma into organizational culture, service design, and professional practice. Its core shift is from the pathologizing question "What's wrong with you?" to the trauma-informed question "What happened to you?" Van der Kolk is a major proponent of this movement, arguing that trauma is not only a clinical issue but a social justice issue — poverty, racism, systemic violence, and institutional neglect are all mass trauma-producing mechanisms, and schools, hospitals, prisons, and social service agencies that do not understand trauma's impact may inadvertently "re-traumatize" those they serve.
+
+## 核心机制 / Core Mechanisms
+
+### 1. 创伤知情的四项基本原则 / Four Core Principles of Trauma-Informed Care
+
+美国物质滥用和心理健康服务管理局（SAMHSA）在范德科尔克等人的工作基础上确立了创伤知情的四项核心原则：
+
+The U.S. Substance Abuse and Mental Health Services Administration (SAMHSA), building on the work of van der Kolk and others, established four core principles of trauma-informed care:
+
+- **认识到创伤的普遍性和多样性 / Realize** the widespread impact of trauma and understand potential paths for recovery — 认识到创伤经历在人群中的高发性（ACEs 研究显示约64%的成人报告至少一种童年不良经历），以及不同人群（儿童、退伍军人、难民、受虐者）的创伤表现差异。
+
+- **Recognize** the signs and symptoms of trauma in clients, families, staff, and others involved with the system — 训练所有工作人员（不仅是临床人员）识别创伤的迹象和症状，包括行为问题（可能是创伤后的过度警觉）、情感失调（可能是冻结-解离反应）、关系困难（可能是依恋创伤的表现）和躯体症状（可能是创伤的身体化）。
+
+- **Respond** by fully integrating knowledge about trauma into policies, procedures, and practices — 将创伤知识整合到组织的每一个层面：从服务环境的设计（避免触发创伤反应的灯光、声音和空间布局），到与客户的互动方式（提供选择、尊重边界、建立可预测性），到员工的支持系统（防止替代性创伤和职业倦怠）。
+
+- **Resist re-traumatization** — 积极识别和消除组织实践中可能再创伤的环节：例如，在医疗检查中未经解释的触碰、在司法程序中反复要求受害者复述创伤经历、在学校中使用惩罚性纪律（可能复制儿童在家中的创伤体验）。
+
+### 2. 从个人病理到社会生态 / From Individual Pathology to Social Ecology
+
+范德科尔克推动创伤知情运动的核心洞见之一是：创伤不能仅从个体层面理解，必须置于社会生态的框架中。这一框架包含三个层面：
+
+One of van der Kolk's core insights driving the trauma-informed movement is: trauma cannot be understood solely at the individual level but must be situated within a social ecological framework. This framework encompasses three levels:
+
+| 层面 / Level | 内容 / Content | 干预焦点 / Intervention Focus |
+|---|---|---|
+| **个体 / Individual** | 创伤的神经生物学和心理影响 / Neurobiological and psychological impacts of trauma | 临床治疗：EMDR、瑜伽、谈话治疗等 / Clinical treatment: EMDR, yoga, talk therapy, etc. |
+| **关系 / Relational** | 依恋关系、家庭系统、社区网络中的创伤传递与修复 / Trauma transmission and repair within attachment, family, community | 关系修复：亲子治疗、家庭治疗、团体治疗 / Relational repair: parent-child therapy, family therapy, group therapy |
+| **制度 / Institutional** | 学校、医院、司法系统、社会服务中的创伤再生产 / Trauma reproduction in schools, hospitals, justice, social services | 制度变革：创伤知情政策、环境设计、人员培训 / Systemic change: trauma-informed policies, environmental design, staff training |
+
+### 3. "你经历了什么？"框架的实践意义 / Practical Implications of the "What Happened to You?" Framework
+
+范德科尔克与布鲁斯·佩里（Bruce Perry）合著的《你经历了什么？》（*What Happened to You?*, 2021）进一步阐释了创伤知情提问的实践意义。这一提问不仅是一种态度转变，更是一种具体的临床和组织实践：
+
+Van der Kolk and Bruce Perry's co-authored *What Happened to You?* (2021) further elaborates the practical implications of the trauma-informed question. This question is not merely an attitudinal shift but a concrete clinical and organizational practice:
+
+- **在临床中**：不急于给患者"贴标签"（如"对抗性的"、"不配合的"、"边缘型的"），而是探索其行为背后的创伤历史。一个在诊室中"暴怒"的患者，可能不是在"对抗"，而是在经历创伤性的闪回。
+
+- **In clinical settings**: Rather than rushing to "label" patients ("oppositional," "non-compliant," "borderline"), explore the trauma history behind behavior. A patient who "rages" in the clinic may not be "confronting" but experiencing a traumatic flashback.
+
+- **在教育中**：一个"行为问题"学生可能不是在"故意捣乱"，而是在表达无法用语言传达的创伤痛苦。创伤知情学校（Trauma-Informed Schools）训练教师识别这些信号，并用关系建设和自我调节策略替代惩罚。
+
+- **In education**: A "behavioral problem" student may not be "deliberately disruptive" but expressing traumatic distress that cannot be verbalized. Trauma-Informed Schools train teachers to recognize these signals and replace punishment with relationship-building and self-regulation strategies.
+
+- **在司法中**：一个"惯犯"的犯罪行为可能是创伤后应激反应的产物——如过度警觉导致对中性线索的暴力反应、解离导致的冲动行为。创伤知情司法（Trauma-Informed Justice）探索在量刑和康复计划中考虑创伤因素。
+
+- **In justice**: A "repeat offender's" criminal behavior may be a product of post-traumatic stress responses — hypervigilance leading to violent reactions to neutral cues, dissociation leading to impulsive behavior. Trauma-Informed Justice explores considering trauma factors in sentencing and rehabilitation plans.
+
+## 发展脉络 / Developmental Trajectory
+
+### 从临床到制度的扩展 / From Clinical to Systemic Expansion
+
+创伤知情照护的发展经历了三个波次：
+
+Trauma-informed care development has progressed through three waves:
+
+**第一波：临床觉醒（1990s–2000s）。** 范德科尔克、赫曼等人的工作确立了创伤的科学理解基础，但这一理解主要停留在临床领域——精神科医生和心理治疗师开始用创伤的视角理解患者的症状。
+
+**First wave: Clinical awakening (1990s–2000s)**. The work of van der Kolk, Herman, and others established the scientific understanding of trauma, but this understanding remained primarily in the clinical domain — psychiatrists and psychotherapists began understanding patients' symptoms through a trauma lens.
+
+**第二波：制度采纳（2010s）。** 《身体从未忘记》的畅销和 ACEs 研究的传播使创伤知情的理念从临床领域扩展到教育、医疗和社会服务系统。SAMHSA 在2014年发布了《创伤知情照护和干预概念框架》（Conceptual Framework for Trauma-Informed Care and Intervention），为各类组织提供了实施指南。
+
+**Second wave: Institutional adoption (2010s)**. The bestseller status of *The Body Keeps the Score* and dissemination of ACEs research expanded trauma-informed principles from clinical to educational, healthcare, and social service systems. SAMHSA published its *Conceptual Framework for Trauma-Informed Care and Intervention* in 2014, providing implementation guidelines for various organizations.
+
+**第三波：社会正义整合（2020s–至今）。** 新冠疫情、种族正义运动和气候危机将创伤知情的视角进一步推向集体创伤和社会正义的层面。范德科尔克等人呼吁将创伤知情框架与反种族主义、经济正义和环境正义运动整合，认识到系统性不平等本身就是持续的创伤制造机制。
+
+**Third wave: Social justice integration (2020s–present)**. The pandemic, racial justice movements, and climate crisis have pushed trauma-informed perspectives further into collective trauma and social justice dimensions. Van der Kolk and others call for integrating trauma-informed frameworks with anti-racism, economic justice, and environmental justice movements, recognizing that systemic inequality itself is an ongoing trauma-producing mechanism.
+
+## 临床应用 / Clinical Applications
+
+### 创伤知情学校 / Trauma-Informed Schools
+
+范德科尔克是创伤知情学校运动的积极倡导者。创伤知情学校的核心特征包括：（1）所有教职员工接受创伤影响的基本培训；（2）建立"安全空间"（safe spaces）——学校中供学生在情绪失控时自我调节的安静区域；（3）用"修复性正义"（restorative justice）替代惩罚性纪律——关注行为的创伤根源而非仅仅惩罚行为本身；（4）将自我调节技能（呼吸练习、正念、瑜伽）纳入日常课程；（5）为教师提供替代性创伤（vicarious trauma）的支持系统。
+
+Van der Kolk is an active advocate of the Trauma-Informed Schools movement. Core features include: (1) all staff receive basic training on trauma impacts; (2) establishing "safe spaces" — quiet areas for students to self-regulate when emotionally overwhelmed; (3) replacing punitive discipline with "restorative justice" — addressing trauma roots of behavior rather than merely punishing behavior itself; (4) integrating self-regulation skills (breathing exercises, mindfulness, yoga) into daily curriculum; (5) providing teachers with vicarious trauma support systems.
+
+### 替代性创伤与员工关怀 / Vicarious Trauma and Staff Wellness
+
+创伤知情照护的一个常被忽视的维度是：服务提供者自身也是创伤暴露的高风险群体。范德科尔克特别关注"替代性创伤"（vicarious trauma，也称 secondary traumatic stress）——长期接触创伤幸存者的故事和症状，可能导致服务提供者自身出现创伤后应激反应。创伤知情组织必须建立员工关怀系统：定期的临床督导（clinical supervision）、同伴支持小组（peer support groups）、自我调节技能培训、以及合理的工作量和休假制度。
+
+An often-overlooked dimension of trauma-informed care is: service providers themselves are a high-risk group for trauma exposure. Van der Kolk specifically addresses "vicarious trauma" (also called secondary traumatic stress) — prolonged exposure to trauma survivors' stories and symptoms may cause service providers themselves to develop post-traumatic stress responses. Trauma-informed organizations must establish staff wellness systems: regular clinical supervision, peer support groups, self-regulation skills training, and reasonable workload and leave policies.
+
+## 关联概念 / Related Concepts
+
+- **身体从未忘记 / Body Keeps the Score** → [body-keeps-score.md](body-keeps-score.md) — 创伤知情的神经生物学基础 / Neurobiological foundations of trauma-informed care
+- **发展性创伤 / Developmental Trauma** → [developmental-trauma.md](developmental-trauma.md) — 创伤知情教育特别关注发展性创伤 / Trauma-informed education focuses especially on developmental trauma
+- **赫曼的创伤恢复模型 / Herman's Trauma Recovery Model** — 三阶段模型为创伤知情实践提供结构框架 / Three-stage model provides structural framework for trauma-informed practice
+- **ACEs 研究 / ACEs Research** — 创伤知情运动的流行病学证据基础 / Epidemiological evidence base for the trauma-informed movement
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"慈悲"传统的对话 / Dialogue with Buddhist Compassion Traditions
+
+创伤知情照护的核心态度——从判断转向好奇、从惩罚转向理解、从孤立转向联结——与佛教的"慈悲"（karuna）和"同体大悲"传统深度共鸣。佛教认为，一切众生皆在苦中，慈悲不是对"弱者"的施舍，而是对共同苦难的认识和回应。范德科尔克的"你经历了什么？"提问可以被理解为一种世俗化的慈悲实践：它要求我们在面对他人的"问题行为"时，暂停判断，探询苦难的根源，并以联结和理解回应。
+
+Trauma-informed care's core attitude — shifting from judgment to curiosity, from punishment to understanding, from isolation to connection — resonates deeply with Buddhist karuna (compassion) and "great compassion of shared being" traditions. Buddhism holds that all beings are in suffering; compassion is not charity toward the "weak" but recognition and response to shared suffering. Van der Kolk's "What happened to you?" question can be understood as a secularized compassion practice: it requires us, when confronted with others' "problematic behavior," to suspend judgment, inquire into suffering's roots, and respond with connection and understanding.
+
+### 与儒家"仁政"思想的对话 / Dialogue with Confucian Benevolent Governance
+
+儒家的"仁政"（benevolent governance）理想主张统治者应以仁爱和同理心治理国家，而非以严刑峻法压迫百姓。这与创伤知情照护的制度层面有深层呼应：两者都认为制度的设计和运作应当考虑人的脆弱性和苦难经历，而非假设人都是"理性的"或"健康的"。孟子说"恻隐之心，仁之端也"——同理心是仁德的起点——这可以被理解为创伤知情态度的东方哲学表达：在面对他人的痛苦时，首先唤起的是"恻隐"（compassionate resonance），而非"审判"。
+
+The Confucian ideal of "benevolent governance" (renzheng) advocates ruling with benevolence and empathy rather than oppressive laws and harsh punishments. This deeply resonates with trauma-informed care's institutional dimension: both hold that institutional design and operation should account for human vulnerability and suffering experience, rather than assuming people are all "rational" or "healthy." Mencius says "the feeling of commiseration is the beginning of benevolence" — empathy is the starting point of virtue — which can be understood as an Eastern philosophical expression of trauma-informed attitude: when confronted with others' suffering, what first arises should be "compassionate resonance," not "judgment."
+
+## 进阶阅读 / Further Reading
+
+- van der Kolk, B.A. (2014). *The Body Keeps the Score*, Part V: "Paths to Recovery."（中译本：《身体从未忘记》第五部分）
+- Perry, B.D., & Winfrey, O. (2021). *What Happened to You? Conversations on Trauma, Resilience, and Healing*. New York: Flatiron Books.
+- SAMHSA (2014). *SAMHSA's Concept for Trauma and Guidance for a Trauma-Informed Approach*. HHS Publication No. (SMA) 14-4884.
+- Bloom, S.L. (2006). "Human Service Systems and Trauma-Informed Care." *Journal of Aggression, Maltreatment & Trauma*, 10(1-2), 103-122.
+- Cole, S.F., et al. (2013). *Helping Traumatized Children Learn: Supporting School Environments*. Massachusetts Advocates for Children.
+- Fallot, R.D., & Harris, M. (2009). *Creating Cultures of Trauma-Informed Care*. Community Connections.

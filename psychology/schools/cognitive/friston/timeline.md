@@ -1,0 +1,88 @@
+---
+id: psychology.cognitive.friston.timeline
+title: "弗里斯顿生平年表 · Friston Life Timeline"
+type: timeline
+parent: psychology.cognitive.friston
+thinker: Karl Friston
+---
+
+# 弗里斯顿生平年表 · Friston Life Timeline
+
+> Karl Friston 生平与学术事件年表。
+> Life events and academic milestones of Karl Friston.
+
+---
+
+## 早年 / Early Life
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1959 | 出生于英国。母亲是护士，父亲是工程师。/ Born in the United Kingdom. Mother was a nurse, father an engineer. |
+| 1970s | 就读于英国文法学校，对数学和物理表现出强烈兴趣。/ Attended grammar school in the UK, showing strong interest in mathematics and physics. |
+| 1977 | 进入伦敦大学学院（UCL）学习医学。/ Entered University College London (UCL) to study medicine. |
+| 1983 | 获得医学学位（MB BS），随后在伦敦医院从事临床精神病学培训。/ Received medical degree (MB BS), then pursued clinical psychiatry training at London hospitals. |
+| 1986 | 获得精神病学博士学位（MD），研究方向为精神分裂症的认知功能障碍。/ Received MD in psychiatry, research focus on cognitive dysfunction in schizophrenia. |
+
+## 学术起步 / Academic Beginnings
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1988 | 加入伦敦大学学院的精神病学系，开始脑成像研究。/ Joined the Psychiatry department at UCL, beginning neuroimaging research. |
+| 1990 | 转至Wellcome Trust脑成像中心，开始正电子发射断层成像（PET）研究。/ Transferred to the Wellcome Trust Centre for Neuroimaging, beginning PET research. |
+| 1991 | 开始开发统计参数映射（SPM）方法。/ Began developing Statistical Parametric Mapping (SPM) methods. |
+| 1994 | 发表功能连接综述论文，建立脑功能分析的概念框架。/ Published functional connectivity synthesis paper, establishing conceptual framework for brain functional analysis. |
+| 1995 | 发表SPM核心论文，奠定fMRI数据分析的全球标准。/ Published core SPM paper, establishing the global standard for fMRI data analysis. |
+| 1996 | 被任命为Wellcome Trust脑成像中心主任。/ Appointed Director of the Wellcome Trust Centre for Neuroimaging. |
+
+## 理论构建 / Theory Building
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2002 | 将贝叶斯推断方法引入脑成像分析。/ Introduced Bayesian inference methods into neuroimaging analysis. |
+| 2003 | 发表动态因果建模（DCM）方法；首次系统阐述预测编码与皮层层级的联系。/ Published Dynamic Causal Modeling (DCM); first systematic articulation of predictive coding and cortical hierarchy. |
+| 2005 | 发表"A theory of cortical responses"——预测编码理论的系统阐述。/ Published "A theory of cortical responses" — systematic articulation of predictive coding theory. |
+| 2006 | **发表"A free energy principle for the brain"——自由能原理的正式提出。** / **Published "A free energy principle for the brain" — formal proposal of the free energy principle.** |
+| 2008 | 发表"Hierarchical models in the brain"——层级模型的系统论述。/ Published "Hierarchical models in the brain" — systematic exposition of hierarchical models. |
+| 2009 | 发表"The free-energy principle: A rough guide to the brain?"——对批评的系统回应。/ Published "The free-energy principle: A rough guide to the brain?" — systematic response to criticism. |
+
+## 理论成熟 / Theory Maturation
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2010 | 发表"Action and behavior: A free-energy formulation"——将行动纳入自由能框架。/ Published "Action and behavior: A free-energy formulation" — integrating action into the free energy framework. |
+| 2011 | 发表"Action understanding and active inference"及"DEM"——拓展主动推理和动态系统推断。/ Published "Action understanding and active inference" and "DEM" — expanding active inference and dynamic system inference. |
+| 2013 | 将自由能原理扩展到生物学领域——"Life as we know it"。/ Extended free energy principle to biology — "Life as we know it." |
+| 2015 | 阐明认知驱动在主动推理中的核心角色。/ Clarified the central role of epistemic drive in active inference. |
+| 2017 | **发表"Active inference: A process theory"——主动推理的完整过程理论。** / **Published "Active inference: A process theory" — complete process theory of active inference.** |
+| 2018 | 发表"Deep temporal models and active inference"——处理长时程依赖。/ Published "Deep temporal models and active inference" — handling long-range dependencies. |
+| 2019 | 发表主动推理教程论文——面向计算实践的逐步指南。/ Published active inference tutorial paper — step-by-step guide for computational practice. |
+
+## 荣誉与当代 / Honors and Contemporary
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2000 | 当选英国皇家学会会士（FRS）。/ Elected Fellow of the Royal Society (FRS). |
+| 2001 | 获得皇家学会Wolfson研究功勋奖。/ Received Royal Society Wolfson Research Merit Award. |
+| 2006 | 获得英国神经科学协会奖。/ Received British Neuroscience Association Award. |
+| 2008 | 获得Minerva基金会Golden Brain Award。/ Received Minerva Foundation Golden Brain Award. |
+| 2011 | 获得Feldberg基金会奖。/ Received Feldberg Foundation Prize. |
+| 2013 | 获得W. Alden Spencer Award（哥伦比亚大学）。/ Received W. Alden Spencer Award (Columbia University). |
+| 2016 | 获得欧洲脑与行为联合会（EBBS）奖。/ Received European Brain and Behaviour Society (EBBS) Award. |
+| 2017 | 获得国际脑研究组织（IBRO）奖。/ Received International Brain Research Organization (IBRO) Award. |
+| 2018 | 被任命为UCL计算神经科学教授。/ Appointed Professor of Computational Neuroscience at UCL. |
+| 2022 | Parr, Pezzulo & Friston 出版 *Active Inference: A Process Theory*（MIT Press）。/ Parr, Pezzulo & Friston published *Active Inference: A Process Theory* (MIT Press). |
+| 持续至今 | h-index > 200，继续活跃在计算精神病学、主动推理和自由能原理的前沿研究中。/ h-index > 200, continuing active research at the frontiers of computational psychiatry, active inference, and the free energy principle. |
+
+---
+
+## 学术谱系 / Academic Genealogy
+
+- **导师 / Mentors**：Peter Liddle（临床精神病学）、Richard Frackowiak（脑成像）
+- **合作者 / Key Collaborators**：Lee Harrison、Will Penny、Gareth Barnes、Thomas Parr、Ryan Smith、Jakob Hohwy、Andy Clark
+- **学生与后继者 / Students and Successors**：Eleanor Spikins、Thomas Parr、Rosalyn Moran、Klaas Stephan 等
+
+## Academic Genealogy
+
+- **Mentors**: Peter Liddle (clinical psychiatry), Richard Frackowiak (neuroimaging)
+- **Key Collaborators**: Lee Harrison, Will Penny, Gareth Barnes, Thomas Parr, Ryan Smith, Jakob Hohwy, Andy Clark
+- **Students and Successors**: Eleanor Spikins, Thomas Parr, Rosalyn Moran, Klaas Stephan, among others

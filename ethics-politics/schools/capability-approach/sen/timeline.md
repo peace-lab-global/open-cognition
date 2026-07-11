@@ -1,0 +1,18 @@
+---
+id: sen-timeline
+title: 森年表
+type: timeline
+domain: ethics-politics
+school: capability-approach
+thinker: sen
+tags: [sen, timeline]
+cross-refs: [{id: sen, relation: thinker}]
+---
+# 森年表
+- **1933** 生于印度圣提尼克坦
+- **1959** 剑桥大学博士
+- **1970** 《集体选择与社会福利》
+- **1981** 《贫困与饥荒》
+- **1998** 诺贝尔经济学奖
+- **1999** 《以自由看待发展》
+- **2009** 《正义的理念》

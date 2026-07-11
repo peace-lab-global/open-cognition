@@ -1,0 +1,127 @@
+---
+id: locke-natural-rights
+title: "自然权利 · Natural Rights"
+type: concept
+thinker: locke
+domain: ethics-politics
+school: social-contract
+tags:
+  - natural-rights
+  - 自然权利
+  - life
+  - liberty
+  - property
+  - locke
+cross-refs:
+  - id: locke
+    relation: thinker
+  - id: hobbes
+    relation: 对比
+  - id: jefferson
+    relation: 继承
+  - id: rousseau
+    relation: 对话
+---
+
+# 自然权利 · Natural Rights
+
+## 概念概述 / Concept Overview
+
+洛克的自然权利论是西方政治哲学中最具影响力的权利理论之一。洛克主张，在政治社会建立之前的**自然状态**中，每个人都天然地拥有三项**不可让渡**的基本权利——**生命**（life）、**自由**（liberty）和**财产**（estate/property）。这些权利不是政府赋予的，而是人作为理性存在者所固有的；政府的存在恰恰是为了保护这些先在的权利，而非创造它们。
+
+Locke's theory of natural rights is one of the most influential rights theories in Western political philosophy. Locke argues that in the **state of nature** preceding the establishment of political society, every person naturally possesses three **inalienable** fundamental rights — **life**, **liberty**, and **estate** (property). These rights are not conferred by government but are inherent in humans as rational beings; government exists precisely to protect these pre-existing rights, not to create them.
+
+洛克的自然权利不同于现代意义上的"人权"——它根植于自然法传统，受上帝的理性法则约束。但它的革命性在于：将权利的归属从"臣民"转向"人"，将权利的来源从"君主的恩赐"转向"自然法的赋予"，从而为后来的民主革命提供了最有力的哲学武器。
+
+Lockean natural rights differ from modern "human rights" — they are rooted in the natural law tradition and constrained by God's rational law. Yet their revolutionary significance lies in shifting the bearer of rights from "subject" to "person," and the source of rights from "monarch's grant" to "natural law's endowment," thereby furnishing the most powerful philosophical arsenal for subsequent democratic revolutions.
+
+## 理论内涵 / Theoretical Content
+
+### 三项权利的结构 / Structure of the Three Rights
+
+洛克的三项自然权利并非并列的，而是存在一种内在的层级关系：
+
+Locke's three natural rights are not simply parallel but exhibit an internal hierarchy:
+
+**生命权**（Right to Life）是最基础的权利——每个人都拥有自我保存的权利，同时负有不得侵害他人生命的义务。生命权是绝对的、不可让渡的：即使在自然状态中，一个人也无权放弃自己的生命（洛克反对自杀），因为人是上帝的"造物"，对自己的生命仅有使用权而无所有权。
+
+The **right to life** is the most foundational — every person has the right of self-preservation, coupled with the duty not to harm others' lives. It is absolute and inalienable: even in the state of nature, one has no right to relinquish one's own life (Locke opposes suicide), because humans are God's "workmanship" — they have use-rights but not ownership over their own lives.
+
+**自由权**（Right to Liberty）是指人在自然法范围内按照自己的意志行动的权利。自由不等于放任——自然法约束着自由的边界。进入政治社会后，自由受到法律的规制，但法律的目的恰恰是**保护和扩大**自由，而非限制它："法律的目的不是废除或限制自由，而是保护和扩大自由。"
+
+The **right to liberty** is the right to act according to one's own will within the bounds of natural law. Liberty is not license — natural law constrains its boundaries. In political society, liberty is regulated by law, but the purpose of law is precisely to **preserve and enlarge** freedom: "The end of law is not to abolish or restrain, but to preserve and enlarge freedom."
+
+**财产权**（Right to Property/Estate）是洛克最具原创性的贡献。财产权不仅指物质财富，在洛克的宽泛用法中还包括生命和自由本身——"生命、自由和财产"有时被统称为"property"。财产权的起源和限制条件详见 [财产权劳动论](property-labor.md)。
+
+The **right to property** is Locke's most original contribution. Property encompasses not merely material wealth; in Locke's broad usage, it includes life and liberty themselves — "life, liberty, and estate" are sometimes collectively termed "property." The origin and limits of property rights are detailed in the [Labor Theory of Property](property-labor.md).
+
+### 自然法的约束 / Constraint of Natural Law
+
+洛克的自然权利并非不受限制。它们受**自然法**（Law of Nature）的约束，而自然法等同于**理性**（reason）。理性教导所有人：
+
+Locke's natural rights are not unlimited. They are constrained by the **Law of Nature**, which Locke equates with **reason**. Reason teaches all mankind:
+
+1. 人人平等独立，没有人天然地拥有高于他人的地位 / All persons are equal and independent; no one naturally holds a superior status
+2. 不得侵害他人的生命、健康、自由或财产 / No one ought to harm another in his life, health, liberty, or possessions
+3. 在自我保存不与他人冲突时，应尽力保存他人 / When one's own preservation does not conflict, one ought to preserve the rest of mankind
+
+### 自然权利的执行 / Enforcement of Natural Rights
+
+在自然状态中，每个人都有**执行自然法的权力**——即惩罚违反自然法者的权利。但这种分散的执行机制存在严重缺陷：人们在判断自己案件时容易偏私，惩罚也容易过度或不足。正是这种"不便"驱使人们进入政治社会，将执行权委托给公共权威。
+
+In the state of nature, everyone possesses the **executive power of the law of nature** — the right to punish transgressors. But this decentralized enforcement mechanism has grave defects: people are biased when judging their own cases, and punishments tend toward excess or deficiency. It is precisely these "inconveniences" that drive people into political society, delegating enforcement power to a public authority.
+
+## 思想史脉络 / Intellectual History
+
+洛克的自然权利论有着深厚的思想渊源。格劳秀斯（Hugo Grotius, 1583–1645）最早系统阐述了自然权利的概念，将其从神学的框架中解放出来。普芬道夫（Samuel Pufendorf, 1632–1694）进一步发展了自然法体系。洛克在此基础上做出了关键性的突破：他将自然权利从学者的拉丁文论述带入了英语世界的政治辩论，并赋予其明确的革命含义——当政府侵犯自然权利时，人民可以正当地推翻它。
+
+Locke's natural rights theory has deep intellectual roots. Hugo Grotius (1583–1645) first systematically articulated the concept of natural rights, liberating it from a theological framework. Samuel Pufendorf (1632–1694) further developed the natural law system. Locke built upon these foundations to make a crucial breakthrough: he brought natural rights from scholars' Latin treatises into the political debates of the English-speaking world, endowing them with an explicitly revolutionary meaning — when government violates natural rights, the people may legitimately overthrow it.
+
+洛克对后世的影响同样深远。杰斐逊在《独立宣言》中将洛克的"生命、自由与财产"改写为"生命、自由与追求幸福"，这一改动虽然替换了"财产"，但其哲学结构完全是洛克式的。法国《人权宣言》（1789）同样深受洛克影响。在当代，罗尔斯（John Rawls）的正义论虽然拒绝了洛克的自然法神学前提，但其"基本自由"清单仍然可以追溯到洛克的自然权利传统。
+
+Locke's subsequent influence was equally profound. Jefferson rewrote Locke's "life, liberty, and estate" as "life, liberty, and the pursuit of happiness" in the Declaration of Independence — although this substitution replaced "estate," its philosophical structure is entirely Lockean. The French Declaration of the Rights of Man (1789) was likewise deeply influenced by Locke. In contemporary thought, Rawls's theory of justice rejected Locke's theological premises of natural law, yet its list of "basic liberties" can still be traced to the Lockean natural rights tradition.
+
+## 关键文本 / Key Passages
+
+> "The state of nature has a law of nature to govern it, which obliges every one: and reason, which is that law, teaches all mankind, who will but consult it, that being all equal and independent, no one ought to harm another in his life, health, liberty, or possessions."
+> — *Two Treatises*, Second Treatise, §6
+
+> "自然状态有一种自然法来治理它，这种法约束着每一个人：而理性——即那种法——教导所有愿意 consult 它的人类，既然人人平等独立，就不应有人侵害他人的生命、健康、自由或财产。"
+
+这段引文是洛克自然权利论最精炼的表述。注意其中的关键结构：（1）自然法存在，（2）理性即自然法，（3）平等独立是前提，（4）四项不可侵害的利益（生命、健康、自由、财产）。洛克将"理性"等同于自然法，这意味着自然权利不是任意的断言，而是可以从人类理性的本性中推导出来的。
+
+This passage is the most concise statement of Locke's natural rights theory. Note its key structure: (1) natural law exists, (2) reason is that law, (3) equality and independence are the premise, (4) four inviolable interests (life, health, liberty, possessions). By equating reason with natural law, Locke implies that natural rights are not arbitrary assertions but can be derived from the nature of human rationality.
+
+## 当代应用 / Contemporary Applications
+
+洛克的自然权利论在当代仍然具有强大的生命力。在**人权理论**领域，洛克的三项权利直接演化为现代人权话语的核心范畴：生命权对应于禁止酷刑和法外处决，自由权对应于言论自由和人身自由，财产权对应于征收补偿和知识产权保护。在**数字时代**，洛克的自由权概念被延伸为"数字自由"——个人对自己数据的控制权是否可以被视为自然权利的当代表达？在**全球正义**辩论中，洛克式的自然权利是否适用于国界之外的人？这些问题使洛克的理论持续处于当代政治哲学的前沿。
+
+Locke's natural rights theory retains powerful vitality today. In **human rights theory**, Locke's three rights have evolved into the core categories of modern human rights discourse: the right to life corresponds to prohibitions on torture and extrajudicial killing; liberty corresponds to free speech and personal freedom; property corresponds to eminent domain compensation and intellectual property protection. In the **digital age**, Locke's concept of liberty has been extended to "digital liberty" — can individual control over personal data be seen as a contemporary expression of natural rights? In **global justice** debates, do Lockean natural rights apply to persons beyond national borders? These questions keep Locke's theory at the forefront of contemporary political philosophy.
+
+## 批评与回应 / Critiques and Responses
+
+**边沁（Bentham）的功利主义批评**：自然权利是"踩在高跷上的废话"（nonsense upon stilts）——不存在先于政府的权利，权利只能是法律的创造物。洛克的回应可以是：如果没有先在的道德标准来评判法律本身，那么恶法也将被视为正当的——纳粹德国的法律就是反例。
+
+**Bentham's utilitarian critique**: Natural rights are "nonsense upon stilts" — no rights exist prior to government; rights can only be creations of law. A Lockean response: without pre-existing moral standards by which to evaluate law itself, then evil laws would be deemed legitimate — Nazi Germany's laws serve as the counterexample.
+
+**伯克（Burke）的保守主义批评**：抽象的自然权利忽视了传统、习俗和具体历史情境的重要性。洛克的回应：自然权利并非要求忽视传统，而是为传统设定了不可逾越的道德底线。
+
+**Burke's conservative critique**: Abstract natural rights neglect the importance of tradition, custom, and concrete historical circumstances. A Lockean response: natural rights do not demand neglecting tradition, but set an inviolable moral floor beneath which no tradition may descend.
+
+**马克思（Marx）的激进批评**：洛克的自然权利实质上是**资产阶级**的权利——它将资本主义的财产关系自然化，掩盖了剥削的本质。洛克的辩护者回应：洛克的财产权有明确的限制条件，且洛克强调的是劳动者对自己劳动产品的权利，这恰恰可以成为批判资本主义异化的资源。
+
+**Marx's radical critique**: Locke's natural rights are essentially **bourgeois** rights — they naturalize capitalist property relations and mask the nature of exploitation. Lockean defenders respond: Locke's property theory has explicit limits, and Locke emphasizes the worker's right to the product of their labour, which can itself serve as a resource for critiquing capitalist alienation.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国传统思想中，虽然没有"自然权利"这一确切概念，但孟子的"性善论"和"民贵君轻"思想与洛克的自然权利有着深层的呼应。孟子认为人人皆有"不忍人之心"（恻隐之心），这类似于洛克认为理性教导人们不得侵害他人——两者都从人的本性中推导出道德约束。更重要的是，孟子明确主张暴君可以被推翻（"闻诛一夫纣矣，未闻弑君也"），这与洛克的革命权理论惊人地一致。
+
+In Chinese traditional thought, while there is no exact equivalent of "natural rights," Mencius's doctrine of innate goodness and his teaching that "the people are most important, the sovereign least" resonate deeply with Lockean natural rights. Mencius held that all persons possess a "heart that cannot bear to see others suffer" (compassion), paralleling Locke's view that reason teaches non-harm — both derive moral constraints from human nature. More significantly, Mencius explicitly held that tyrants may be overthrown ("I have heard of the execution of the fellow Zhou, but I have not heard of regicide"), remarkably converging with Locke's theory of the right of revolution.
+
+## 延伸阅读 / Further Reading
+
+- Tully, James. *A Discourse on Property: John Locke and His Adversaries*. Cambridge: Cambridge University Press, 1980.
+- Waldron, Jeremy. *The Right to Private Property*. Oxford: Clarendon Press, 1988.
+- Simmons, A. John. *The Lockean Theory of Rights*. Princeton: Princeton University Press, 1992.
+- Zuckert, Michael. *Natural Rights and the New Republicanism*. Princeton: Princeton University Press, 1994.
+- 赵汀阳.《论可能生活》. 北京：中国人民大学出版社.

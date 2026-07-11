@@ -1,0 +1,101 @@
+---
+id: nietzsche-reading-list
+title: 尼采美学进阶阅读 · Nietzsche Aesthetics Reading List
+type: reading-list
+domain: aesthetics
+school: nietzschean-aesthetics
+thinker: nietzsche
+tags: [nietzsche, bibliography, reading-guide, aesthetics]
+cross-refs:
+  - id: nietzsche
+    relation: thinker
+---
+
+# 尼采美学进阶阅读 · Nietzsche Aesthetics Reading List
+
+## 一、阅读路径
+
+### 入门（3 篇，4 小时）
+1. 《悲剧的诞生》第1–10节— 日神与酒神（60页）
+2. 《快乐的科学》第341条— 永恒回归（5页）
+3. 《查拉图斯特拉如是说》序言（15页）
+
+### 进阶（2 部，15 小时）
+4. 《悲剧的诞生》全书
+5. 《快乐的科学》第四、五卷
+6. 《查拉图斯特拉如是说》第一部
+
+### 深潜（全部 + 批评）
+7. 《查拉图斯特拉如是说》全书
+8. 《偶像的黄昏》"一个不合时宜者的漫游"
+9. Silk & Stern *Nietzsche on Tragedy*
+10. Young *Nietzsche's Philosophy of Art*
+
+## 二、原典（必读）
+
+### 核心美学著作
+- *The Birth of Tragedy* (1872) — 日神与酒神二元论
+- *Thus Spoke Zarathustra* (1883–1885) — 永恒回归，审美肯定
+- *The Gay Science* (1882) — "上帝之死"，永恒回归
+
+### 重要美学文本
+- *Twilight of the Idols* (1888) — 晚期美学纲领
+- *The Case of Wagner* (1888) — 对瓦格纳的最终审判
+- *The Will to Power* (posthumous notes) — 权力意志美学
+
+### 中译本推荐
+- 周国平 译《悲剧的诞生》（三联书店）
+- 钱春绮 译《查拉图斯特拉如是说》（三联书店）
+- 商务印书馆《尼采著作全集》
+
+## 三、传记
+
+- **Kaufmann, Walter** *Nietzsche: Philosopher, Psychologist, Antichrist* (1950) — 经典英文传记
+- **Young, Julian** *Friedrich Nietzsche: A Philosophical Biography* (2010) — 最新权威传记
+- **周国平**《尼采：在世纪的转折点上》— 中文世界的经典尼采研究
+
+## 四、批评与研究
+
+### 经典研究
+- **Silk, M.S. & Stern, J.P.** *Nietzsche on Tragedy* (1981) — 尼采悲剧理论的权威研究
+- **Young, Julian** *Nietzsche's Philosophy of Art* (1992) — 尼采艺术哲学的系统分析
+- **Heidegger, Martin** *Nietzsche* (1961) — 海德格尔对尼采的批判性解读
+
+### 当代研究
+- **Nehamas, Alexander** *Nietzsche: Life as Literature* (1985) — 尼采作为文学家的哲学解读
+- **Deleuze, Gilles** *Nietzsche and Philosophy* (1962) — 德勒兹的尼采解读
+- **Magnus, Bernd** *Nietzsche's Existential Imperative* (1978) — 永恒回归的哲学分析
+
+## 五、尼采的思想源头
+
+- **叔本华** — 悲观主义，艺术慰藉痛苦
+- **瓦格纳** — 悲剧复兴的梦想
+- **古希腊** — 前苏格拉底哲学、悲剧精神
+- **康德** — 审美判断（批判性继承）
+
+## 六、尼采的下游
+
+### 哲学
+- **海德格尔** — 尼采作为"最后一个形而上学家"
+- **德勒兹** — 差异哲学
+- **福柯** — 权力谱系学
+- **德里达** — 解构与价值重估
+
+### 美学
+- **巴塔耶** — 耗费与酒神精神
+- **马尔库塞** — 审美维度与解放
+- **利奥塔** — 崇高美学
+
+### 艺术实践
+- **现代舞** — 酒神式身体美学
+- **摇滚乐** — 吉姆·莫里森、大卫·鲍伊的尼采式自我创造
+
+## 七、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**尼采美学的精髓** | 《悲剧的诞生》1–10节 → Young研究摘要 |
+| 深入**日神/酒神** | 《悲剧的诞生》全书 → Silk & Stern |
+| 理解**永恒回归** | 《快乐的科学》341条 → 《查拉图斯特拉》第三卷 |
+| 探索**权力意志美学** | 《偶像的黄昏》→ 遗稿笔记 → 德勒兹 |
+| **中文读者**入门 | 周国平传记 → 《悲剧的诞生》→ 《查拉图斯特拉》 |

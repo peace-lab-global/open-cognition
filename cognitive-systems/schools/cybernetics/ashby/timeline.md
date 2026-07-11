@@ -1,0 +1,23 @@
+---
+id: cognitive-systems.school.cybernetics.ashby.timeline
+title: 阿什比思想年表 W.R. Ashby Timeline
+type: timeline
+thinker: ashby
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 阿什比思想年表 / W.R. Ashby Timeline
+
+### 1903 · 出生于英国
+### 1920s-1930s · 精神医学训练
+### 1940s · 稳态器（Homeostat）建造
+### 1952 · 《Design for a Brain》
+### 1956 · 《An Introduction to Cybernetics》
+### 1960s · 在美国继续研究
+### 1972 · 逝世
+
+## 思想演变关键词
+```
+精神医学 (1920s-30s) → 稳态器 (1940s) → 大脑设计 (1952) → 控制论公理化 (1956)
+```

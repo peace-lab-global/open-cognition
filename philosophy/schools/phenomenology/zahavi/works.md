@@ -1,0 +1,85 @@
+---
+id: zahavi-works
+title: 扎哈维作品总览 · Zahavi Works
+type: works-catalogue
+domain: philosophy
+school: phenomenology
+thinker: zahavi
+tags: [zahavi, works, bibliography]
+cross-refs:
+  - id: zahavi
+    relation: thinker
+---
+
+# 扎哈维作品总览 · Zahavi Works
+
+## 一、主要专著 / Major Monographs
+
+| 年份 | 书名 | 英译/中译 | 备注 |
+|------|------|-----------|------|
+| 1992 | *Intentionalität, Bewusstsein und Reflexion* | — | 德语博士论文，胡塞尔研究 |
+| 1994 | *Self-Awareness and Affection* | — | 早期自身意识研究 |
+| 1999 | *Self-Awareness and Alterity: A Phenomenological Investigation* | — | 前反思自身意识的系统论证 |
+| 2003 | *Husserl's Phenomenology* | 扎哈维《胡塞尔现象学》 | 胡塞尔思想的重构与诠释 |
+| 2005 | *Subjectivity and Selfhood: Investigating the First-Person Perspective* | — | 最小自我理论的代表作 |
+| 2008 | *The Phenomenological Mind*（与 Shaun Gallagher 合著） | 《现象学心灵》 | 现象学与认知科学对话的标准教科书 |
+| 2014 | *Self and Other: Exploring Subjectivity, Empathy, and Shame* | — | 主体间性与社会认知的现象学 |
+| 2017 | *Husserl's Legacy: Phenomenology, Metaphysics, and Transcendental Philosophy* | — | 重新评估胡塞尔的哲学遗产 |
+| 2019 | *Phenomenology: The Basics* | 《现象学基础》 | 现象学入门教科书 |
+
+## 二、重要编著 / Edited Volumes
+
+| 年份 | 书名 | 备注 |
+|------|------|------|
+| 2000 | *Exploring the Work of John Sallis*（合编） | — |
+| 2003 | *The Problem of Consciousness*（编） | 意识的现象学进路 |
+| 2005 | *Phenomenology and Philosophy of Mind*（与 David Woodruff Smith 合编） | 现象学与心灵哲学对话 |
+| 2011 | *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*（与 Siderits, Thompson 合编） | 佛教无我论与现象学对话 |
+| 2012 | *The Oxford Handbook of Contemporary Phenomenology*（编） | 当代现象学全景 |
+| 2015 | *The Phenomenology of Sociality*（与 Thomas Szanto, Dermot Moran 合编） | 社会现象学 |
+| 2018 | *The Oxford Handbook of the History of Phenomenology*（编） | 现象学史全景 |
+
+## 三、重要论文 / Key Essays
+
+- "Self-awareness and Affection"（1994）— 早期自身意识理论
+- "The Minimal Self: A Re-examination"（2004）— 最小自我概念的精炼
+- "Subjectivity and Selfhood"（2005, 同名专著的核心章节）
+- "Direct Perception and Social Cognition"（2011）— 直接感知理论
+- "The Experiential Self"（2011, 收录于 *Self, No Self?*）— 经验自我与佛教对话
+- "Empathy and Direct Perception"（2014）— 共情的现象学分析
+- "Self, Other, and Shame"（2014, *Self and Other* 核心章节）
+- "The Phenomenological Mind: An Introduction"（2008, 与 Gallagher 合著）
+- "Phenomenology and the Hard Problem of Consciousness"（多篇）— 回应意识的难问题
+- "Buddhism and the Minimal Self"（2011）— 与佛教哲学的直接对话
+
+## 四、中译与中文资源
+
+- 扎哈维《胡塞尔现象学》（中文译本）
+- 《现象学心灵》部分章节的中译散见于学术期刊
+- 相关研究论文散见于《世界哲学》《哲学动态》《哲学研究》
+
+## 五、阅读路径
+
+### 入门（3 文本，3 小时）
+1. *Phenomenology: The Basics*（2019）— 最清晰的入门
+2. *The Phenomenological Mind* 导论章节（2008）
+3. "Self-awareness and the Minimal Self"（论文）
+
+### 进阶（5 文本，30 小时）
+4. *Self-Awareness and Alterity*（1999）
+5. *Subjectivity and Selfhood*（2005）
+6. *Self and Other*（2014）
+7. *Husserl's Legacy*（2017）
+8. *Self, No Self?*（2011, 合编）
+
+### 深潜
+9. 与佛教哲学的对话系列论文
+10. 与精神病理学合作的论文（与 Sass, Parnas）
+11. 当代现象学方法论辩论
+
+## 六、研究工具
+
+- **Center for Subjectivity Research**（哥本哈根大学主体性研究中心）
+- **Phenomenology and the Cognitive Sciences**（Springer 期刊）
+- **Journal of Consciousness Studies**
+- **Phenomenology and Mind**

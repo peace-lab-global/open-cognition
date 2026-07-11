@@ -1,0 +1,85 @@
+---
+id: nietzsche-works
+title: 尼采美学作品总览 · Nietzsche Aesthetic Works
+type: works-catalogue
+domain: aesthetics
+school: nietzschean-aesthetics
+thinker: nietzsche
+tags: [nietzsche, works, bibliography, aesthetics, german-philosophy]
+cross-refs:
+  - id: nietzsche
+    relation: thinker
+---
+
+# 尼采美学作品总览 · Nietzsche Aesthetic Works
+
+## 总览
+
+尼采的创作生涯约20年（1872–1888），著有13部主要著作、大量遗稿和书信。其美学思想散布于几乎所有著作中，但集中在《悲剧的诞生》《查拉图斯特拉如是说》和晚期著作中。
+
+## 一、早期著作（美学奠基）
+
+| 书名 | 德文 | 年份 | 特色 |
+|---|---|---|---|
+| 《悲剧的诞生》 | *Die Geburt der Tragödie* | 1872 | 日神与酒神二元论，审美形而上学 |
+| 《不合时宜的沉思》 | *Unzeitgemässe Betrachtungen* | 1873–1876 | 四篇文化批评 |
+| 其中"瓦格纳在拜罗伊特" | *Wagner in Bayreuth* | 1876 | 对瓦格纳艺术的早期赞颂 |
+| 《希腊悲剧时代的哲学》 | *Die Philosophie im tragischen Zeitalter der Griechen* | 1873（遗稿） | 前苏格拉底哲学与悲剧精神 |
+
+## 二、中期著作（批判与转变）
+
+| 书名 | 德文 | 年份 | 美学相关 |
+|---|---|---|---|
+| 《人性的，太人性的》 | *Menschliches, Allzumenschliches* | 1878 | 对浪漫主义的批判，"化学式"分析 |
+| 《曙光》 | *Morgenröthe* | 1881 | 道德批判的深化 |
+| 《快乐的科学》 | *Die fröhliche Wissenschaft* | 1882 | "上帝之死"，永恒回归，第370条论艺术 |
+
+## 三、晚期著作（权力意志美学）
+
+| 书名 | 德文 | 年份 | 美学相关 |
+|---|---|---|---|
+| 《查拉图斯特拉如是说》 | *Also sprach Zarathustra* | 1883–1885 | 永恒回归的教诲，超人理想，舞蹈与笑声的美学 |
+| 《善恶的彼岸》 | *Jenseits von Gut und Böse* | 1886 | 视角主义，创造的哲学 |
+| 《道德的谱系》 | *Zur Genealogie der Moral* | 1887 | 禁欲主义理想的美学批判 |
+| 《瓦格纳事件》 | *Der Fall Wagner* | 1888 | 对瓦格纳的最终审判 |
+| 《偶像的黄昏》 | *Götzen-Dämmerung* | 1888 | "一个不合时宜者的漫游"，晚期美学纲领 |
+| 《反基督》 | *Der Antichrist* | 1888 | 基督教批判 |
+| 《瞧，这个人》 | *Ecce Homo* | 1888 | 自传，自我解读 |
+
+## 四、遗稿
+
+| 书名 | 特色 |
+|---|---|
+| 《权力意志》*Der Wille zur Macht* | 遗稿编纂（争议性编辑），包含大量美学笔记 |
+| 1880年代笔记 | 包含永恒回归、权力意志、艺术哲学的核心草稿 |
+
+## 五、中译本推荐
+
+| 版本 | 译者 | 出版 |
+|---|---|---|
+| 《悲剧的诞生》 | 周国平 | 三联书店 |
+| 《查拉图斯特拉如是说》 | 钱春绮 | 三联书店 |
+| 《善恶的彼岸》 | 宋祖良等 | 漓江出版社 |
+| 《偶像的黄昏》 | 卫茂平 | 华东师范大学出版社 |
+| 《尼采著作全集》 | 多人 | 商务印书馆 |
+
+## 六、阅读路径
+
+### 入门
+1. 《悲剧的诞生》第1–10节— 日神与酒神（约60页）
+2. 《快乐的科学》第341条— 永恒回归（约5页）
+3. 《查拉图斯特拉如是说》序言（约15页）
+
+### 进阶
+4. 《悲剧的诞生》全书
+5. 《快乐的科学》第四、五卷
+6. 《查拉图斯特拉如是说》第一部
+
+### 深潜
+7. 《查拉图斯特拉如是说》全书
+8. 《偶像的黄昏》"一个不合时宜者的漫游"
+9. Silk & Stern *Nietzsche on Tragedy*
+
+## 进阶阅读
+
+见 [reading-list.md](reading-list.md)。

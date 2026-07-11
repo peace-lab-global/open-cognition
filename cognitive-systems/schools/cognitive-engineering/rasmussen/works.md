@@ -1,0 +1,23 @@
+---
+id: cognitive-systems.school.cognitive-engineering.rasmussen.works
+title: 拉斯穆森核心著作 Jens Rasmussen Works
+type: works
+thinker: rasmussen
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 拉斯穆森核心著作 / Jens Rasmussen Key Works
+
+## 关键论文 / Key Papers
+
+| 年份 | 论文标题 | 期刊 | 核心贡献 |
+|------|----------|------|----------|
+| 1983 | "Skills, Rules, and Knowledge: Signals, Signs, and Symbols" | *IEEE Trans. SMC* 13(3) | SRK三层次行为模型 |
+| 1986 | "Information Processing and Human-Machine Interaction" | North-Holland | 认知工作分析的系统论述 |
+| 1997 | "Risk Management in a Dynamic Society" | *Safety Science* | 动态社会风险管理 |
+
+## 学术传承 / Academic Lineage
+
+- **Risø国家实验室**：创建认知系统工程研究组
+- **主要继承者**：Vicente（CWA系统化）、Hollnagel（CREAM）、Woods（韧性工程）、Leveson（STAMP）

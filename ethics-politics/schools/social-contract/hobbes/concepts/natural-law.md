@@ -1,0 +1,70 @@
+---
+id: hobbes-natural-law
+title: 自然法 · Natural Law · Hobbes
+type: concept
+domain: ethics-politics
+school: social-contract
+thinker: hobbes
+tags: [natural-law, reason, peace, moral-philosophy, hobbes]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+  - id: aristotle
+    relation: 批判(宇宙论自然法)
+  - id: aquinas
+    relation: 批判(神学自然法)
+  - id: grotius
+    relation: 继承(理性自然法)
+---
+
+# 自然法 · Natural Law · Hobbes
+
+## 一句话定义
+
+霍布斯的自然法是**理性发现的和平条款**——不同于亚里士多德—阿奎那传统中根植于宇宙秩序或神意的自然法，霍布斯的自然法是纯粹**理性的行为指导**，其第一诫命是"寻求和平并信守之"。
+
+## 核心要义
+
+### 十九条自然法
+
+霍布斯在《利维坦》中列出十九条自然法，最重要的三条：
+
+1. **第一自然法**：每个人应当寻求和平；如果和平不可得，可以诉诸战争的一切手段
+2. **第二自然法**：在他人也愿意时，放弃对一切事物的自然权利，满足于与他人同等程度的自由
+3. **第三自然法**：履行所订立的契约（正义的定义）
+
+### 与传统的断裂
+
+| 传统 | 自然法的根基 | 霍布斯的位置 |
+|---|---|---|
+| 亚里士多德 | 宇宙的内在目的 | **批判**：否认自然目的 |
+| 阿奎那 | 上帝永恒法在人心中的印记 | **批判**：自然法来自理性计算，非神启 |
+| 格劳秀斯 | 人的社会性 | **部分继承**：但否认自然的社会性 |
+
+### 自然法 vs 自然权利
+
+霍布斯首次明确区分：
+- **自然权利**（jus naturale）：每个人自我保存的**自由**（可以做什么）
+- **自然法**（lex naturalis）：理性发现的**义务**（应该做什么）
+
+这两者**相互对立**：自然权利允许一切，自然法限制一切。正是这一矛盾使自然状态不可能持续。
+
+### 自然法需要主权者
+
+自然法在自然状态中**仅约束内在良心**（in foro interno），不约束外在行为（in foro externo）——因为如果他人不遵守，你单方面遵守等于自取灭亡。只有主权者建立后，自然法才成为**真正的法律**（civil law）。
+
+## 当代应用
+
+- **国际法** — 国际社会缺乏主权者，国际法类似霍布斯的"自然法在自然状态中"
+- **AI 伦理准则** — 没有强制力的伦理准则 = 霍布斯式的"in foro interno"自然法
+- **企业合规** — 行业自律 vs 政府监管的张力
+
+## 关键文本
+
+- *Leviathan*, Ch. 14–15
+- *De Cive*, Ch. 2–4
+
+## 进阶阅读
+
+- Strauss, Leo. *The Political Philosophy of Hobbes* (1936)
+- Gauthier, David. *The Logic of Leviathan* (1969)

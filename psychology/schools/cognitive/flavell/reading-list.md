@@ -1,0 +1,178 @@
+---
+id: psychology.cognitive.flavell.reading-list
+title: "弗拉维尔进阶阅读 · Flavell Reading List"
+type: reading-list
+parent: psychology.cognitive.flavell
+thinker: John Flavell
+---
+
+# 弗拉维尔进阶阅读 · Flavell Reading List
+
+> 按类别整理的原典、二手研究与相关文献，供深入学习弗拉维尔思想。
+>
+> Primary sources, secondary research, and related literature organized by category for in-depth study of Flavell's thought.
+
+## 原典 · Primary Sources
+
+### 奠基论文 · Foundational Papers
+
+1. **Flavell, J. H. (1976).** "Metacognitive aspects of problem solving." In L. B. Resnick (Ed.), *The Nature of Intelligence* (pp. 231–235). Hillsdale, NJ: Erlbaum.
+   - **首提"metacognition"概念**。定义了元认知为"关于认知现象的知识和信念"。
+   - First systematic introduction of the term "metacognition."
+
+2. **Flavell, J. H. (1979).** "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry." *American Psychologist*, 34(10), 906–911.
+   - **奠基之作**。提出元认知四要素模型：元认知知识、元认知体验、认知目标、认知策略。
+   - The landmark paper proposing the four-component metacognitive model.
+
+### 早期研究 · Early Research
+
+3. **Flavell, J. H. (1963).** *The Developmental Psychology of Jean Piaget*. Princeton: Van Nostrand.
+   - 首部系统介绍皮亚杰理论的英文专著。
+   - First systematic English-language introduction of Piagetian theory.
+
+4. **Flavell, J. H. (1970).** "Developmental studies of mediation in problem solving." *Journal of Experimental Child Psychology*, 8, 213–230.
+   - 问题解决中介过程研究，为元认知概念奠定基础。
+
+### 深化与拓展 · Deepening & Extension
+
+5. **Flavell, J. H. (1987).** "Speculations about the nature and development of metacognition." In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding* (pp. 21–36). Hillsdale, NJ: Erlbaum.
+   - 对元认知概念的理论反思。
+
+6. **Flavell, J. H., Green, F. L., & Flavell, E. R. (1995).** "Young children's knowledge about thinking." *Monographs of the Society for Research in Child Development*, 60(1).
+   - 儿童心理知识的综合性研究。
+
+7. **Flavell, J. H. (1999).** "Cognitive development: Children's knowledge about the mind." *Annual Review of Psychology*, 50, 21–45.
+   - 关于元认知和心理理论的权威综述。**强烈推荐**。
+
+8. **Flavell, J. H. (2004).** "Theory of mind." In D. Kuhn & R. S. Siegler (Eds.), *Handbook of Child Psychology* (Vol. 2). Wiley.
+   - 心理理论的系统论述。
+
+### 教材 · Textbooks
+
+9. **Flavell, J. H., & Miller, P. H. (1998).** *Cognitive Development* (4th ed.). Upper Saddle River, NJ: Prentice Hall.
+   - 认知发展领域标准教材，至今仍在广泛引用。
+
+---
+
+## 二手研究 · Secondary Sources
+
+### 元认知理论 · Metacognitive Theory
+
+10. **Nelson, T. O., & Narens, L. (1990).** "Metamemory: A theoretical framework and new findings." *The Psychology of Learning and Motivation*, 26, 125–173.
+    - 元记忆的理论框架，将弗拉维尔的监控概念进一步形式化为监控-控制双过程模型。
+
+11. **Brown, A. L. (1987).** "Metacognition, executive control, self-regulation, and other more mysterious mechanisms." In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding*.
+    - 将元认知与执行控制和自我调节联系起来。
+
+12. **Schraw, G., & Dennison, R. S. (1994).** "Assessing metacognitive awareness." *Journal of Educational Psychology*, 86(4), 460–475.
+    - 元认知意识量表（MAI）的开发——标准化的元认知测量工具。
+
+13. **Dinsmore, D. L., Alexander, P. A., & Loughlin, S. M. (2008).** "Focusing the definition of metacognition." *Educational Psychologist*, 43(1), 1–24.
+    - 对元认知定义的系统综述，梳理概念的历史演变。
+
+14. **Efklides, A. (2008).** "Metacognition: Defining its facets and levels of functioning in relation to self-regulation and co-regulation." *European Psychologist*, 13(4), 277–287.
+    - 元认知层面的细化模型。
+
+15. **Pintrich, P. R. (2002).** "The role of metacognitive knowledge in learning, studying, and self-regulated learning." *Educational Psychologist*, 37(4), 215–225.
+    - 元认知知识在教育中的角色。
+
+### 元记忆研究 · Metamemory Research
+
+16. **Flavell, J. H., & Wellman, H. M. (1977).** "Metamemory." In R. V. Kail & J. W. Hagen (Eds.), *Perspectives on the Development of Memory and Cognition*.
+    - 元记忆概念的系统论述。
+
+17. **Schneider, W., & Pressley, M. (1997).** *Memory Development Between Two and Twenty* (2nd ed.). Mahwah, NJ: Erlbaum.
+    - 记忆发展的全面综述，含大量元记忆研究。
+
+### 心理理论 · Theory of Mind
+
+18. **Wellman, H. M. (1990).** *The Child's Theory of Mind*. Cambridge, MA: MIT Press.
+    - 心理理论的经典专著。
+
+19. **Baron-Cohen, S. (1995).** *Mindblindness: An Essay on Autism and Theory of Mind*. Cambridge, MA: MIT Press.
+    - 自闭症与心理理论缺陷的关系。
+
+20. **Premack, D., & Woodruff, G. (1978).** "Does the chimpanzee have a theory of mind?" *Behavioral and Brain Sciences*, 1(4), 515–526.
+    - 心理理论概念的起源论文。
+
+### 临床应用 · Clinical Applications
+
+21. **Wells, A. (2009).** *Metacognitive Therapy for Anxiety and Depression*. New York: Guilford Press.
+    - 元认知疗法（MCT）的临床手册——弗拉维尔理论在心理治疗中的系统应用。
+
+22. **Wells, A. (2019).** *Breaking Free from OCD: A CBT Guide for Young People and Their Families*.
+    - MCT在强迫症中的应用。
+
+---
+
+## 英文资源 · English Resources
+
+### 综述与手册 · Reviews & Handbooks
+
+23. **Hacker, D. J., Dunlosky, J., & Graesser, A. C. (Eds.). (1998).** *Metacognition in Educational Theory and Practice*. Mahwah, NJ: Erlbaum.
+    - 教育中的元认知：理论与实践的综合手册。
+
+24. **Tobias, S., & Everson, H. T. (Eds.). (2009).** *The Importance of Metacognition in Learning and Instruction*. Information Age Publishing.
+
+25. **Efklides, A., Misailidi, P., & Platsidou, M. (Eds.). (2009).** *Metacognition and Learning*. Nova Science.
+
+### 在线资源 · Online Resources
+
+- **American Psychological Association (APA)**: Flavell的学术主页与获奖记录
+- **Stanford University Psychology Department**: 弗拉维尔的学术档案
+- **Google Scholar**: Flavell, J. H. 的引用记录（引用次数超过数万次）
+
+---
+
+## 中文资源 · Chinese Resources
+
+### 专著 · Monographs
+
+26. **董奇. (1989).** 《论元认知》. 北京师范大学出版社.
+    - 中国学者对元认知理论的系统研究专著。
+
+27. **董奇, 周勇. (1996).** 《论元认知》. 北京师范大学出版社.
+    - 元认知研究的进一步深化。
+
+28. **汪玲, 方平, 郭德俊. (2005).** "元认知的性质、结构与评定方法." *心理学动态*, 9(1), 6–12.
+    - 对元认知概念的系统综述。
+
+### 教材中的弗拉维尔 · Flavell in Chinese Textbooks
+
+29. 弗拉维尔元认知理论中译广泛见于中国教育心理学教材：
+    - 陈琦、刘儒德《当代教育心理学》
+    - 张大均《教育心理学》
+    - 冯忠良《教育心理学》
+
+30. **刘金花. (1997).** 《儿童发展心理学》. 华东师范大学出版社.
+    - 含弗拉维尔认知发展理论的中文介绍。
+
+### 中文论文 · Chinese Papers
+
+31. **李红, 高山. (2004).** "儿童错误信念理解的研究." *心理科学进展*.
+    - 对心理理论中错误信念任务的中文研究。
+
+32. **周勇, 董奇. (1994).** 《学习自我监控的理论与研究》.
+    - 将元认知概念应用于学习自我监控的研究。
+
+---
+
+## 关联阅读 · Related Reading
+
+### 认知科学经典 · Cognitive Science Classics
+
+- **Neisser, U. (1967).** *Cognitive Psychology*. Appleton-Century-Crofts. — 认知心理学奠基之作
+- **Miller, G. A., Galanter, E., & Pribram, K. (1960).** *Plans and the Structure of Behavior*. — 认知科学早期经典
+
+### 教育心理学 · Educational Psychology
+
+- **Zimmerman, B. J. (2002).** "Becoming a self-regulated learner." *Theory Into Practice*, 41(2), 65–70. — 自我调节学习
+- **Paris, S. G., & Paris, A. H. (2001).** "Classroom application of research on self-regulated learning." *Educational Psychologist*, 36(2), 89–101.
+
+### 正念与元认知 · Mindfulness & Metacognition
+
+- **Kabat-Zinn, J. (1990).** *Full Catastrophe Living*. — 正念减压（MBSR）
+- **Teasdale, J. D. (1999).** "Emotional processing, three modes of mind and the prevention of relapse in depression." *Behaviour Research and Therapy*, 37, S53–S77. — 正念与元认知觉察
+
+---
+返回 [[README|弗拉维尔 · John Flavell]]

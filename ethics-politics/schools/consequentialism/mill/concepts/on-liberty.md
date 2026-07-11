@@ -1,0 +1,118 @@
+---
+id: mill-on-liberty
+title: "论自由 · On Liberty (作品概念)"
+type: concept
+thinker: mill
+domain: ethics-politics
+school: consequentialism
+tags:
+  - on-liberty
+  - 论自由
+  - classic-text
+  - 经典文本
+  - liberalism
+  - 自由主义
+  - tyranny-of-majority
+  - 多数暴政
+  - individuality
+  - 个性
+---
+
+# 论自由 · On Liberty (作品概念)
+
+## 概念概述 / Concept Overview
+
+《论自由》（*On Liberty*，1859）是约翰·斯图亚特·密尔最重要的政治哲学著作，也是西方自由主义传统中最具影响力的文献之一。全书分为五章，系统阐述了个人自由与社会权威之间的界限。密尔在此书中提出了伤害原则、论证了言论自由的绝对性、倡导了个性的自由发展，并对"社会暴政"——即多数人的舆论和习俗对个人独立性的压迫——进行了深刻批判。
+
+*On Liberty* (1859) is John Stuart Mill's most important political philosophy work and one of the most influential documents in the Western liberal tradition. The book, divided into five chapters, systematically articulates the boundaries between individual liberty and social authority. Mill proposes the harm principle, argues for the absoluteness of free speech, champions the free development of individuality, and offers a profound critique of "social tyranny"—the oppression of individual independence by majority opinion and custom.
+
+这本书的写作历时约十年（1854-1859），是密尔与妻子哈丽雅特·泰勒合作的成果。密尔在《自传》中写道，该书是"我们合著的所有著作中最精心构思和仔细修改的一部"。哈丽雅特于1858年去世后，密尔决定不再对书稿进行任何修改，以保存她的贡献。这本书出版后在维多利亚时代的英国社会引起了广泛争论——自由主义者将其奉为圭臬，保守主义者则认为它威胁了社会的道德基础。
+
+The book was written over approximately ten years (1854–1859), a collaboration between Mill and his wife Harriet Taylor. Mill wrote in his *Autobiography* that it was "the most carefully composed and revised of all our joint productions." After Harriet's death in 1858, Mill resolved not to alter the manuscript, preserving her contribution. Upon publication, the book provoked wide debate in Victorian Britain—liberals revered it as canonical, while conservatives considered it threatening to society's moral foundations.
+
+## 理论内涵 / Theoretical Content
+
+《论自由》的论证结构可以分为四个主要部分。
+
+The argumentative structure of *On Liberty* can be divided into four main parts.
+
+**第一章：原则的陈述**。密尔在此确立了全书的基本原则：社会对个人自由施加法律或道德强制的唯一正当理由是防止对他人造成伤害。他同时区分了"自我关涉的行为"（只影响行为者本人）和"涉及他人的行为"（影响他人），认为前者不应受到任何社会强制。密尔还明确限定该原则适用于"文明社会"中的成年人，排除了儿童和所谓"野蛮民族"。
+
+**Chapter I: Statement of Principles**. Mill establishes the book's fundamental principle: the sole legitimate ground for social coercion over individual liberty is preventing harm to others. He distinguishes "self-regarding actions" (affecting only the agent) from "other-regarding actions" (affecting others), holding that the former should be free from all social coercion. Mill explicitly limits the principle to adults in "civilized society," excluding children and so-called "barbarian peoples."
+
+**第二章：论思想自由和讨论自由**。这是全书最著名的一章，密尔在此提出了言论自由的三重论证：（1）被压制的意见可能是正确的；（2）被压制的意见可能包含部分真理；（3）即使被压制的意见完全错误，压制它仍然有害，因为真理需要通过与谬误的碰撞来保持其活力。密尔还引入了"死的教条"（dead dogma）概念——一种不经过质疑和辩论而被持有的信念，只是表面的信仰而非真正的理解。
+
+**Chapter II: Of the Liberty of Thought and Discussion**. The book's most famous chapter presents Mill's three-tier argument for free speech: (1) the suppressed opinion may be correct; (2) it may contain partial truth; (3) even if entirely wrong, suppression remains harmful because truth needs collision with error to maintain its vitality. Mill also introduced the concept of "dead dogma"—belief held without questioning or debate, mere surface faith rather than genuine understanding.
+
+**第三章：论个性作为人类福祉的要素之一**。密尔在此论证了个性（individuality）对人类幸福的根本重要性。他认为，个性的自由发展不仅是个人幸福的要素，也是社会进步的源泉。他批评了维多利亚时代英国的"习俗暴政"——社会通过舆论和压力迫使个人遵循传统的行为模式，抑制了原创性和多样性。密尔援引洪堡的观点，将人类比作树木——"按照内在力量的规律向一切方面生长和发展"，而非按照固定模型被铸造。
+
+**Chapter III: Of Individuality as One of the Elements of Well-being**. Mill argues for individuality's fundamental importance to human happiness. Free development of individuality is essential not only to personal well-being but also as a source of social progress. He criticized Victorian England's "despotism of custom"—society forcing individuals through opinion and pressure to follow traditional behavioral patterns, suppressing originality and diversity. Mill invoked Humboldt, comparing humans to trees—"growing and developing on all sides, according to the tendency of the inward forces which make it a living thing"—not cast according to a fixed model.
+
+**第四章：论社会对个人的权威的限度**。密尔在此处理了伤害原则的实际应用问题。他讨论了诸如公共酗酒、赌博、宗教不虔诚等具体案例，论证在每种情况下都应区分行为的自我关涉方面和涉及他人的方面。他还讨论了"间接伤害"的问题——当个人的自我关涉行为可能导致对他人义务的违背时，社会的干预就是正当的。
+
+**Chapter IV: Of the Limits to the Authority of Society over the Individual**. Mill addresses practical applications of the harm principle. He discusses specific cases such as public drunkenness, gambling, and religious nonconformity, arguing that in each case one should distinguish self-regarding from other-regarding aspects. He also addresses "indirect harm"—when self-regarding conduct may lead to violations of duties to others, social intervention becomes legitimate.
+
+**第五章：应用**。密尔在此将前述原则应用于一系列具体政策问题，包括教育、贸易、税收和婚姻法。他的核心主张是，政府应尽量减少对个人生活的干预，但在某些领域（如普及教育、工厂安全）干预是正当的。
+
+**Chapter V: Applications**. Mill applies the foregoing principles to specific policy issues including education, trade, taxation, and marriage law. His core claim is that government should minimize interference in individual lives, but intervention is legitimate in certain areas (such as universal education and factory safety).
+
+## 思想史脉络 / Intellectual History
+
+《论自由》的思想史地位可以从三个维度来理解。首先，它标志着自由主义从"古典"形态向"现代"形态的过渡。与洛克和边沁不同，密尔不仅关注政府权力的限制，更关注社会舆论和习俗对个人自由的威胁——这一关注预示了后来约翰·杜威（John Dewey）和以赛亚·伯林（Isaiah Berlin）对自由概念的深化。
+
+*On Liberty*'s place in intellectual history can be understood from three dimensions. First, it marks the transition of liberalism from "classical" to "modern" form. Unlike Locke and Bentham, Mill was concerned not only with limiting government power but with the threat of social opinion and custom to individual liberty—anticipating later deepening of the liberty concept by John Dewey and Isaiah Berlin.
+
+其次，它在功利主义内部创造了一种独特的张力：密尔试图在功利主义框架内为个人权利提供近乎绝对的保障。这种尝试引发了关于功利主义是否能够充分保障个人自由的长期争论——罗尔斯（John Rawls）后来正是基于这一张力而放弃了功利主义，转而发展其正义论。
+
+Second, it created a distinctive tension within utilitarianism: Mill attempted to provide near-absolute protection for individual rights within a utilitarian framework. This attempt sparked long-standing debates about whether utilitarianism can adequately protect individual liberty—John Rawls later abandoned utilitarianism precisely on this tension, developing his theory of justice instead.
+
+第三，它对"多数暴政"（tyranny of the majority）的批判深刻影响了后来的民主理论。托克维尔（Alexis de Tocqueville）在《论美国的民主》中首先提出了这一概念，密尔则将其系统化为自由理论的核心要素。这一批判对二十世纪的宪政民主理论和少数群体权利保护产生了深远影响。
+
+Third, its critique of "tyranny of the majority" profoundly influenced subsequent democratic theory. Tocqueville first proposed the concept in *Democracy in America*; Mill systematized it as a core element of liberty theory. This critique had far-reaching effects on twentieth-century constitutional democratic theory and minority rights protection.
+
+## 关键文本 / Key Passages
+
+> "The struggle between liberty and authority makes its appearance in the historical periods most familiar to us, particularly in that of Greece, Rome, and England."
+>
+> ——密尔，《论自由》第一章
+
+密尔将自由与权威的斗争视为贯穿西方历史的主线，这一框架影响了后来伯林、波普尔等人的自由理论。
+
+Mill treated the struggle between liberty and authority as a through-line of Western history, a framework influencing later liberty theories by Berlin, Popper, and others.
+
+> "Protection, therefore, against the tyranny of the magistrate is not enough; there needs protection also against the tyranny of the prevailing opinion and feeling."
+>
+> ——密尔，《论自由》第一章
+
+这段话是密尔超越古典自由主义的关键：自由不仅面临政府的威胁，更面临社会舆论和习俗的威胁。
+
+This passage marks Mill's transcendence of classical liberalism: liberty faces threats not only from government but from social opinion and custom.
+
+## 当代应用 / Contemporary Applications
+
+《论自由》在当代的应用范围极为广泛。在言论自由领域，它为社交媒体平台的内容审核政策提供了规范性框架——平台应如何在"自由表达"和"防止伤害"之间取得平衡？在教育领域，它启发我们思考教育应如何在传授知识和培养批判性思维之间保持平衡。在多元文化社会中，它为"宽容悖论"（社会是否应该宽容不宽容的群体？）提供了分析工具。
+
+*On Liberty*'s contemporary applications are extremely broad. In free speech, it provides a normative framework for social media content moderation—how should platforms balance "free expression" against "preventing harm"? In education, it inspires reflection on how education should balance knowledge transmission with cultivating critical thinking. In multicultural societies, it provides analytical tools for the "paradox of tolerance" (should society tolerate intolerant groups?).
+
+## 批评与回应 / Critiques and Responses
+
+**批评一**：密尔的自由论证与功利主义之间存在不可调和的张力。如果自由的价值仅仅在于其促进幸福的工具性作用，那么当限制自由能带来更多幸福时，密尔如何论证自由的不可侵犯性？回应：密尔可能主张，对自由的侵犯本身就会降低社会的长期幸福——因为自由的保障是"进步性存在"的永久利益。
+*Critique 1*: An irreconcilable tension exists between Mill's liberty argument and utilitarianism. If liberty's value is merely instrumental to promoting happiness, how can Mill argue for liberty's inviolability when restricting it might produce more happiness? *Response*: Mill may argue that liberty violations themselves reduce long-term social happiness—because liberty's protection serves the "permanent interests of man as a progressive being."
+
+**批评二**：密尔对"野蛮民族"的排除暴露了其自由理论的帝国主义偏见。回应：这一批评得到了许多后殖民主义学者的支持，但也有学者指出密尔在个人著作中对殖民主义的立场是复杂的。
+*Critique 2*: Mill's exclusion of "barbarian peoples" reveals the imperialist bias of his liberty theory. *Response*: This critique has been supported by many postcolonial scholars, though some note that Mill's personal stance on colonialism was complex.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+《论自由》在东亚的接受史本身就是一个引人入胜的跨文化对话案例。在中国，严复1903年的翻译将密尔的自由概念引入中文语境，但严复的关注焦点与密尔有微妙差异——他更关心个人自由与国家富强之间的关系，而密尔更关注个人自由与人类进步之间的关系。在日本，中村正直的翻译同样进行了文化调适——将密尔的"individuality"译为"独立自尊"，融入了日本武士道传统中对人格独立的重视。
+
+*On Liberty*'s reception history in East Asia is itself a fascinating case of cross-cultural dialogue. In China, Yan Fu's 1903 translation introduced Mill's liberty concept into Chinese contexts, but Yan Fu's focus subtly differed from Mill's—he was more concerned with the relationship between individual liberty and national strength, while Mill focused on the relationship between individual liberty and human progress. In Japan, Nakamura Masanao's translation similarly adapted culturally—rendering Mill's "individuality" as "独立自尊" (independent self-respect), incorporating the Japanese bushido tradition's emphasis on personal independence.
+
+## 延伸阅读 / Further Reading
+
+- Mill, J.S. *On Liberty* (1859), 全文
+- Gray, John. *Mill on Liberty: A Defence* (Routledge, 1996)
+- Ten, C.L. *Mill on Liberty* (Oxford, 1980)
+- Skorupski, John, ed. *The Cambridge Companion to Mill* (Cambridge, 1998)
+- 严复译《群己权界论》
+- 应奇编《密尔论自由》，东方出版社

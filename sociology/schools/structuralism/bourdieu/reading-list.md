@@ -1,0 +1,59 @@
+---
+id: bourdieu-reading-list
+title: 布迪厄进阶书单 · Bourdieu Reading List
+type: reading-list
+domain: sociology
+thinker: bourdieu
+school: structuralism
+---
+
+# 布迪厄系统阅读指南 / Bourdieu Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Bourdieu: A Critical Account* (2005) | David L. Swartz | 简明批判性导论 |
+| *Pierre Bourdieu* (1999) | Richard Jenkins | Routledge经典导论 |
+| *An Invitation to Reflexive Sociology* (1992) | Bourdieu & Wacquant | 布迪厄本人参与的理论对话 |
+| *Reading Bourdieu* (2000) | Derek Robbins | 布迪厄著作的导读 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《实践理论大纲》 | 1972 | 惯习；实践逻辑 |
+| 《区分》（导论+结论+选读） | 1979 | 文化资本；品味社会学 |
+| 《邀请反思社会学》 | 1992 | 方法论与理论框架 |
+| 《世界的苦难》（选读） | 1993 | 社会苦难的民族志 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《再生产》 | 1970 | 符号暴力；教育再生产 |
+| 《艺术的法则》 | 1992 | 场域理论的应用 |
+| 《帕斯卡尔式的沉思》 | 1997 | 社会学认识论 |
+| 《学术人》 | 1984 | 学术场域 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Pierre Bourdieu and Cultural Theory* (1997) | Bridget Fowler | 文化理论视角 |
+| *Reading Bourdieu on Society and Culture* (2000) | Nick Brown & Imre Szeman (eds.) | 文化研究视角 |
+| *Urban Outcasts* (2008) | Loic Wacquant | 布迪厄方法论的城市应用 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Distinction* 40周年重评 | Various | 品味社会学当代发展 |
+| *The Field of Cultural Production* (1993) | Bourdieu (英译选集) | 文化生产场域 |
+| *Body & Soul* (2004) | Loic Wacquant | 身体社会学的布迪厄式发展 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Jenkins导论 → 《邀请反思社会学》→ 《区分》（导论+结论）
+**阶段二**（4-8周）: 《实践理论大纲》→ 《世界的苦难》选读 → 《区分》（完整阅读）
+**阶段三**（8周+）: 《艺术的法则》→ 《帕斯卡尔式的沉思》→ Wacquant发展 → 教育社会学应用

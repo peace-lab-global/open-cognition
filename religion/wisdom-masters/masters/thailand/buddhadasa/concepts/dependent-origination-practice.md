@@ -1,0 +1,141 @@
+---
+id: dependent-origination-practice
+title: "Dependent Origination as Practice · 缘起法实践"
+type: concept
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - dependent-origination
+  - paticca-samuppada
+  - idappaccayatā
+  - practice
+  - 缘起法
+  - 此缘性
+---
+
+# Dependent Origination as Practice · 缘起法实践
+
+> *"Dependent origination is not a theory about how the world began. It is a description of how suffering arises in your mind — right now."*
+> — Buddhadasa Bhikkhu
+>
+> *"缘起法不是关于世界如何开始的理论。它是对苦如何在你的心——就在此刻——中生起的描述。"*
+> — 佛使比丘
+
+---
+
+## Overview · 概述
+
+**Dependent origination** (Pali: *paticca-samuppada*; Chinese: 缘起法) is the central teaching of Buddhism: all phenomena arise in dependence upon conditions. Nothing exists independently; nothing arises from nothing. Buddhadasa Bhikkhu's radical contribution was to strip this doctrine of its cosmological and metaphysical accretions and return it to its original function — a **practical map for observing and dismantling suffering in real time**.
+
+**缘起法**（巴利语：*paticca-samuppada*）是佛教的核心教导：一切现象依因缘而生起。没有事物独立存在；没有事物从无中生起。佛使比丘的激进贡献在于剥去这一教义的宇宙论和形而上学附加物，将其回归到原始功能——一张**用于实时观察和拆除苦的实践地图**。
+
+---
+
+## The Traditional Twelve Links · 传统十二支
+
+In traditional Theravada teaching, dependent origination is presented as twelve links (*dvādasaṅga*) that describe the process of rebirth across three lifetimes:
+
+在传统南传佛教教导中，缘起法以十二支（*dvādasaṅga*）呈现，描述跨越三世的轮回过程：
+
+1. **Ignorance** (*avijjā* / 无明) → 2. **Volitional formations** (*saṅkhāra* / 行) → 3. **Consciousness** (*viññāṇa* / 识) → 4. **Name-and-form** (*nāmarūpa* / 名色) → 5. **Six sense bases** (*saḷāyatana* / 六入) → 6. **Contact** (*phassa* / 触) → 7. **Feeling** (*vedanā* / 受) → 8. **Craving** (*taṇhā* / 爱) → 9. **Clinging** (*upādāna* / 取) → 10. **Becoming** (*bhava* / 有) → 11. **Birth** (*jāti* / 生) → 12. **Aging and death** (*jarāmaraṇa* / 老死)
+
+---
+
+## Buddhadasa's Radical Reading · 佛使比丘的激进解读
+
+Buddhadasa argued that this traditional three-lifetime interpretation is a later scholastic overlay that obscures the teaching's practical power. In his reading, the twelve links describe **a single moment of psychological suffering** — a chain reaction that happens in seconds, not lifetimes.
+
+佛使比丘认为这种传统的三世解读是后来的学术附加层，遮蔽了这一教导的实践力量。在他的解读中，十二支描述的是**一个单一的苦的心理瞬间**——一条在几秒内而非几世内发生的链式反应。
+
+Here is how he mapped the twelve links onto a single emotional episode:
+
+以下是他将十二支映射到一个单一情绪片段的方式：
+
+| Link | Pali | Chinese | Psychological moment | 心理瞬间 |
+|------|------|---------|---------------------|----------|
+| 1. Ignorance | *avijjā* | 无明 | Unawareness of the conditional nature of experience | 对体验的条件性的不觉知 |
+| 2. Volitional formations | *saṅkhāra* | 行 | Habitual mental reactions begin forming | 习惯性心理反应开始形成 |
+| 3. Consciousness | *viññāṇa* | 识 | Consciousness turns toward the sense object | 识转向感官对象 |
+| 4. Name-and-form | *nāmarūpa* | 名色 | The object is identified and categorized | 对象被识别和分类 |
+| 5. Six sense bases | *saḷāyatana* | 六入 | The sense doors are activated | 感官之门被激活 |
+| 6. Contact | *phassa* | 触 | Contact between sense, object, and consciousness | 根、尘、识的接触 |
+| 7. Feeling | *vedanā* | 受 | Pleasant, unpleasant, or neutral feeling arises | 愉悦、不愉悦或中性的感受生起 |
+| 8. Craving | *taṇhā* | 爱 | Desire for the pleasant or aversion to the unpleasant | 对愉悦的贪求或对不愉悦的厌恶 |
+| 9. Clinging | *upādāna* | 取 | Full appropriation: "This is mine, this is me" | 完全的执取："这是我的，这就是我" |
+| 10. Becoming | *bhava* | 有 | A self-centered identity is solidified | 自我中心的身份被固化 |
+| 11. Birth | *jāti* | 生 | The "I" is born in that moment — the ego crystallizes | "我"在那个瞬间出生——自我结晶化 |
+| 12. Aging and death | *jarāmaraṇa* | 老死 | The constructed self suffers decay and dissolution | 被建构的自我遭受衰败和解体 |
+
+The practical implication is profound: **you don't have to wait for your next life to break the cycle**. The cycle is happening right now, and you can interrupt it at any point — most effectively at the link of **feeling** (*vedanā*). When feeling arises, if mindfulness is present, the chain stops. Feeling does not escalate into craving. Craving does not escalate into clinging. The "I" is never born. Suffering never materializes.
+
+实践含义是深刻的：**你不必等到下一世才能打断这个循环**。循环正在此刻发生，你可以在任何一点打断它——最有效地在**感受**（*vedanā*）这一支。当感受生起时，如果正念在场，链条就停止。感受不会升级为贪爱。贪爱不会升级为执取。"我"从未出生。苦从未实现。
+
+---
+
+## Idappaccayatā: The Master Principle · 此缘性：根本法则
+
+Buddhadasa called **idappaccayatā** (此缘性, "this-conditionality") the "master key" to all of Buddhism. It is expressed in the Buddha's formula:
+
+佛使比丘称**此缘性**（idappaccayatā）为佛教全部教义的"万能钥匙"。它在佛陀的公式中得到表达：
+
+> *"Imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati."*
+>
+> *"This being, that becomes; from the arising of this, that arises. This not being, that does not become; from the ceasing of this, that ceases."*
+>
+> *"此有故彼有，此生故彼生；此无故彼无，此灭故彼灭。"*
+
+This principle applies at every scale — from subatomic particles to galaxies, from a single thought to an entire civilization. It is not a Buddhist law but a **law of nature** that the Buddha discovered and described. Buddhadasa insisted that recognizing idappaccayatā is not a matter of faith but of direct observation: look at anything — a cloud, a mood, a relationship, a political system — and you will see it arising and passing in dependence upon conditions.
+
+这一法则适用于每一个尺度——从亚原子粒子到星系，从一个单独的念头到一整个文明。它不是佛教的法则，而是佛陀发现并描述的**自然法则**。佛使比丘坚持认为，认识此缘性不是信仰的问题，而是直接观察的问题：看任何事物——一朵云、一种情绪、一段关系、一个政治体系——你都会看到它依因缘条件而生灭。
+
+---
+
+## Practice Methods · 实践方法
+
+### 1. Breathing as Dependent Origination · 呼吸即缘起
+
+Buddhadasa taught that the breath is a living demonstration of dependent origination. Each breath arises because of conditions — the body needs oxygen, the lungs expand, the diaphragm contracts. Each breath passes because conditions change — the lungs are full, the body has what it needs for now. You cannot hold a breath indefinitely, and you cannot stop breathing. The breath teaches you, twelve times a minute, that everything arises and passes according to conditions.
+
+佛使比丘教导说，呼吸是缘起法的活的展示。每一次呼吸因缘条件而生起——身体需要氧气，肺扩张，膈肌收缩。每一次呼吸因缘条件变化而消逝——肺已满，身体此刻已得到所需。你不能无限期地屏住呼吸，也不能停止呼吸。呼吸每分钟十二次地教你：一切依条件而生灭。
+
+**Practice / 实践**: Sit quietly. Observe the breath without controlling it. Notice how each inhale depends on the previous exhale. Notice how you cannot force a "perfect" breath — it adjusts itself according to conditions. Let this observation soften the sense of "I am breathing" into "breathing is happening."
+
+安静地坐着。观察呼吸而不控制它。注意每一次吸气如何依赖于前一次呼气。注意你不能强迫一个"完美"的呼吸——它根据条件自我调节。让这种观察软化"我在呼吸"的感觉，转为"呼吸在发生"。
+
+### 2. Emotional Chain-Breaking · 情绪链打断
+
+When a strong emotion arises (anger, fear, desire, jealousy), practice tracing it backward through the chain:
+
+当一个强烈情绪生起时（愤怒、恐惧、欲望、嫉妒），练习沿链条向后追溯：
+
+- **What am I clinging to?** (*upādāna*) / 我在执取什么？（取）
+- **What am I craving?** (*taṇhā*) / 我在贪求什么？（爱）
+- **What feeling triggered this?** (*vedanā*) / 什么感受引发了这个？（受）
+- **What contact happened?** (*phassa*) / 发生了什么接触？（触）
+
+By the time you have traced the chain back to feeling, the emotion has usually lost its momentum. The chain is broken. The "I" that was about to be born dissolves back into the flow of conditions.
+
+当你追溯到感受时，情绪通常已失去动力。链条被打断。即将出生的"我"溶解回条件之流中。
+
+### 3. Nature Observation · 自然观察
+
+Buddhadasa recommended spending time observing natural processes — a river flowing, leaves falling, clouds forming and dissolving — as a way of internalizing idappaccayatā. Nature does not have an ego; it does not cling. It simply responds to conditions. By observing this, the mind begins to loosen its own grip on the illusion of independent selfhood.
+
+佛使比丘建议花时间观察自然过程——河流流淌、树叶飘落、云聚云散——作为内化此缘性的方式。自然没有自我；它不执取。它只是回应条件。通过观察这一点，心开始放松其对独立自我的幻觉的执着。
+
+---
+
+## Common Misunderstandings · 常见误解
+
+- **Misunderstanding 1**: Dependent origination means "everything is predetermined." No — it means everything is *conditioned*, not *determined*. Conditions are always changing, so the future is always open. / **误解1**：缘起法意味着"一切都是预定的"。不——它意味着一切是*有条件的*，而非*被决定的*。条件一直在变，所以未来永远是开放的。
+- **Misunderstanding 2**: Understanding dependent origination requires years of study. Buddhadasa would say: watch a seed become a plant. That is dependent origination. / **误解2**：理解缘起法需要多年的学习。佛使比丘会说：看一颗种子成为一棵植物。那就是缘起法。
+- **Misunderstanding 3**: Dependent origination is only about suffering. It is about everything — but understanding it in the context of suffering is where liberation lies. / **误解3**：缘起法只关于苦。它关于一切——但在苦的语境中理解它是解脱所在之处。
+
+---
+
+## Cross-References · 关联
+
+- [[anatta-practice]] — Not-self is the experiential fruit of understanding dependent origination.
+- [[nature-contemplation]] — Nature as the classroom for observing conditionality.
+- [[suan-mokkh]] — Where dependent origination was taught and practiced daily.
+- Back to: [[buddhadasa]]

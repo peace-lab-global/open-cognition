@@ -1,0 +1,56 @@
+---
+id: psychology.cognitive.baars.works
+title: "巴尔斯著作年表 · Bernard Baars Works Chronology"
+type: works
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+---
+
+# 巴尔斯著作年表 · Bernard Baars Works Chronology
+
+| 年份 / Year | 著作 / Work | 类型 / Type | 出版方 / Publisher | 说明 / Notes |
+|---|---|---|---|---|
+| 1983 | "Conscious contents provide ideas, values, and hypotheses" | 论文 / Paper | *Consciousness and Self-Regulation* (Vol. 3) | 早期意识功能论文 / Early paper on consciousness function |
+| 1988 | *A Cognitive Theory of Consciousness* | 专著 / Monograph | Cambridge University Press | **GWT首次系统阐述** — 里程碑式著作，提出全局工作空间理论的完整框架 / **First systematic formulation of GWT** — landmark work proposing the complete framework |
+| 1989 | "A cognitive theory of consciousness" (chapter) | 章节 / Chapter | *Consciousness in Contemporary Society* | GWT的理论摘要与推广 / Theoretical summary and promotion of GWT |
+| 1992 | "A dozen competing hypotheses about the conscious unconscious" | 论文 / Paper | *Consciousness in Philosophy and Cognitive Neuroscience* | 对意识与无意识关系的12个假说 / 12 hypotheses on consciousness-unconsciousness relations |
+| 1993 | "How does a serial, intermittent, and conscious processor control a parallel, continuous, and unconscious brain?" | 论文 / Paper | *Cognitive Models of Psychological Time* | 串行意识与并行无意识的协调问题 / The coordination problem of serial consciousness and parallel unconsciousness |
+| 1997 | *In the Theater of Consciousness: The Workspace of the Mind* | 专著 / Monograph | Oxford University Press | **剧场隐喻的系统阐述** — 面向广大读者的GWT普及版 / **Systematic elaboration of the theater metaphor** — GWT for a broad readership |
+| 2001 | *The Cognitive Neuroscience of Consciousness* (ed.) | 编著 / Edited volume | MIT Press | **整合神经科学证据** — 汇集脑成像、ERP和临床证据 / **Integration of neuroscience evidence** — assembling neuroimaging, ERP, and clinical evidence |
+| 2002 | "The conscious access hypothesis: Origins and recent evidence" | 论文 / Paper | *Trends in Cognitive Sciences*, 6(1), 47–52 | **高引综述** — 通达意识的神经证据总结 / **Highly cited review** — summary of neural evidence for access consciousness |
+| 2003 | "How brain reveals mind: Comments on Goldapple et al." | 论文 / Paper | *Science* | 脑成像与意识研究的对话 / Dialogue between brain imaging and consciousness research |
+| 2004 | "The conscious access hypothesis: Temporal accuracy and neural correlates" | 论文 / Paper | *Cognitive Brain Research* | 通达意识的时间精确性 / Temporal precision of access consciousness |
+| 2005 | "Global workspace theory: What is it and where is it going?" | 论文 / Paper | *Trends in Cognitive Sciences* | GWT的方向性反思 / Reflective assessment of GWT's direction |
+| 2007 | *Cognition, Brain, and Consciousness: Introduction to Cognitive Neuroscience* (with Nicole M. Gage) | 教科书 / Textbook | Academic Press (Elsevier) | **教科书级综合** — 面向新一代学生的认知神经科学导论 / **Textbook-level synthesis** — cognitive neuroscience introduction for new generation |
+| 2007 | "Conscious access and the global workspace" (chapter) | 章节 / Chapter | *The Blackwell Companion to Consciousness* | GWT在意识研究手册中的总结 / GWT summary in consciousness handbook |
+| 2010 | *Cognition, Brain, and Consciousness* (2nd ed., with Gage) | 教科书 / Textbook | Academic Press | 第二版，更新神经科学证据 / Second edition with updated neuroscience evidence |
+| 2013 | *The Biological Basis of Human Nature* (with various co-authors) | 专著 / Monograph | Academic Press | GWT置于更广阔的生物学框架 / GWT in broader biological framework |
+| 2013 | "The global workspace theory of consciousness" (chapter) | 章节 / Chapter | *The Cambridge Handbook of Consciousness* (2nd ed.) | GWT在手册中的最新总结 / Latest GWT summary in handbook |
+| 2019 | "The function of consciousness: The global workspace theory" | 论文 / Paper | *Frontiers in Psychology* | GWT的功能主义论证 / Functionalist argumentation of GWT |
+| 2020 | "What is consciousness? A biological perspective" | 论文 / Paper | *Journal of Consciousness Studies* | 意识的生物学视角 / Biological perspective on consciousness |
+
+---
+
+## 著作分期 / Periodization of Works
+
+### 奠基期（1983–1988）/ Foundation Period
+以《意识的认知理论》为核心，建立GWT的完整理论框架。
+Centered on *A Cognitive Theory of Consciousness*, establishing the complete theoretical framework of GWT.
+
+### 普及与扩展期（1992–2002）/ Popularization and Expansion Period
+以《意识的剧场》和《意识的认知神经科学》为代表，将理论推广到更广泛的读者群，并开始整合神经科学证据。
+Represented by *Theater of Consciousness* and *Cognitive Neuroscience of Consciousness*, disseminating theory to broader audiences and beginning to integrate neuroscience evidence.
+
+### 综合与教科书期（2007–至今）/ Synthesis and Textbook Period
+以《认知、脑与意识》教科书为代表，将GWT融入标准的认知神经科学教育体系。
+Represented by the *Cognition, Brain, and Consciousness* textbook, integrating GWT into standard cognitive neuroscience education.
+
+---
+
+## 高引论文 / Highly Cited Papers
+
+1. Baars, B. J. (2002). "The conscious access hypothesis: Origins and recent evidence." *Trends in Cognitive Sciences*, 6(1), 47–52. — **1500+ citations**
+2. Baars, B. J. (2005). "Global workspace theory: What is it and where is it going?" *Trends in Cognitive Sciences*. — **800+ citations**
+3. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press. — **2000+ citations**
+4. Baars, B. J. (1997). *In the Theater of Consciousness*. Oxford University Press. — **1800+ citations**

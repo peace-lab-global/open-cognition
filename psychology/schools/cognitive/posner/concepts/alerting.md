@@ -1,0 +1,69 @@
+---
+id: psychology.cognitive.posner.alerting
+title: "警觉网络 · Alerting"
+type: concept
+thinker: posner
+school: cognitive
+tags: [警觉, 觉醒, 去甲肾上腺素, 蓝斑核, 持续注意, alerting, arousal, norepinephrine, locus coeruleus, sustained attention]
+---
+
+# 警觉网络 · Alerting
+
+## 定义 / Definition
+
+**警觉网络**（Alerting Network）是波斯纳注意力三网络模型中负责维持和调节觉醒水平与警觉状态的网络。它使个体能够保持高度的感觉和认知准备状态，以便对环境中的信号做出快速有效的反应。警觉网络主要涉及右额叶（right frontal lobe）和右顶叶（right parietal lobe）皮层，以及蓝斑核（locus coeruleus）的上行投射系统，依赖去甲肾上腺素（norepinephrine, NE）神经递质系统。
+
+The **alerting network** in Posner's three-network model is responsible for maintaining and modulating arousal level and vigilance. It enables individuals to maintain a state of heightened sensory and cognitive readiness to respond quickly and effectively to environmental signals. The alerting network primarily involves the right frontal and right parietal cortex, along with ascending projections from the locus coeruleus, relying on the norepinephrine (NE) neurotransmitter system.
+
+## 核心机制 / Core Mechanisms
+
+### 位相性警觉与持续性警觉 / Phasic vs. Tonic Alerting
+
+波斯纳区分了警觉的两种基本形态。**位相性警觉**（phasic alerting）是一种短暂的、由外部信号触发的警觉增强，通常通过呈现一个警告信号（warning signal）来引发，持续数秒到数十秒。在 ANT 测试中，位相性警觉通过比较有无警告信号条件下的反应时间差异来测量：有警告信号时反应更快，反映了短暂的警觉增强对认知处理速度的促进。**持续性警觉**（tonic alerting），又称持续性注意（sustained attention）或警觉性（vigilance），是一种维持较长时间（数分钟到数小时）的一般觉醒水平，反映了个体在一段时间内保持认知准备状态的能力。持续性警觉通常通过持续性操作任务（Continuous Performance Task, CPT）来测量，随着任务时间的延长，反应时间逐渐变慢、错误率逐渐增加，这一现象被称为"警觉性递减"（vigilance decrement）。
+
+Posner distinguished two fundamental forms of alerting. **Phasic alerting** is a transient, externally triggered increase in alertness, typically elicited by presenting a warning signal, lasting seconds to tens of seconds. In the ANT, phasic alerting is measured by comparing reaction times with and without a warning signal: faster responses with the warning signal reflect the facilitation of cognitive processing speed by transient alerting enhancement. **Tonic alerting**, also known as sustained attention or vigilance, maintains general arousal over extended periods (minutes to hours), reflecting the individual's ability to maintain cognitive readiness over time. Tonic alerting is typically measured by Continuous Performance Tasks (CPT), where reaction times gradually slow and error rates gradually increase with task duration — a phenomenon called "vigilance decrement."
+
+### 蓝斑核-去甲肾上腺素系统 / Locus Coeruleus-Norepinephrine System
+
+警觉网络的神经化学基础是蓝斑核-去甲肾上腺素（LC-NE）系统。蓝斑核（locus coeruleus）是脑干中一个含有约15,000-30,000个去甲肾上腺素能神经元的小核团，但它发出广泛的上行投射，几乎覆盖整个大脑皮层。LC-NE 系统调节皮层神经元的兴奋性和信号-噪声比（signal-to-noise ratio）：适度的 NE 水平增强皮层对信号的反应性（"提高信噪比"），而过高或过低的 NE 水平则降低认知处理效率。这一关系遵循倒 U 形曲线（inverted U-curve），即 Yerkes-Dodson 定律的神经化学基础。
+
+The neurochemical basis of the alerting network is the locus coeruleus-norepinephrine (LC-NE) system. The locus coeruleus is a small brainstem nucleus containing approximately 15,000-30,000 noradrenergic neurons, yet it sends widespread ascending projections covering nearly the entire cerebral cortex. The LC-NE system modulates cortical neuronal excitability and signal-to-noise ratio: moderate NE levels enhance cortical responsiveness to signals ("improving signal-to-noise ratio"), while excessively high or low NE levels reduce cognitive processing efficiency. This relationship follows an inverted U-curve, representing the neurochemical basis of the Yerkes-Dodson law.
+
+### 警觉与其他网络的交互 / Interaction with Other Networks
+
+警觉网络不是孤立运作的，它与定向网络和执行控制网络之间存在重要的交互作用。研究表明，位相性警觉可以增强定向网络的效率：在高度警觉状态下，注意力的空间转移更快、更精确。这可以理解为警觉网络为其他网络提供了"能量"或"准备状态"的基础。然而，过度的警觉（如在焦虑状态下）可能反而损害执行控制网络的效率，因为过多的"噪声"干扰了冲突监测和认知控制过程。在药理学研究中，影响 NE 系统的药物（如可乐定 clonidine，一种 NE 拮抗剂）可以特异性地影响警觉网络的效率，而不显著影响其他网络。
+
+The alerting network does not operate in isolation; it has important interactions with the orienting and executive control networks. Research shows that phasic alerting can enhance orienting network efficiency: under high alertness, spatial attention shifts are faster and more precise. This can be understood as the alerting network providing the "energy" or "readiness" foundation for other networks. However, excessive alerting (as in anxiety states) may actually impair executive control network efficiency, as excessive "noise" interferes with conflict monitoring and cognitive control processes. In pharmacological research, drugs affecting the NE system (such as clonidine, an NE antagonist) can specifically affect alerting network efficiency without significantly affecting other networks.
+
+## 发展脉络 / Developmental Trajectory
+
+警觉网络在婴儿期即已存在基本功能，但其效率在儿童期和青少年期持续发展。新生儿表现出基本的觉醒-睡眠周期，但维持持续觉醒的能力在出生后数月内快速发展。在整个儿童期，持续性注意的能力稳步提高，反映在前额叶和顶叶皮层的逐渐成熟。研究表明，警觉网络是三个网络中最先达到相对稳定状态的，大约在青少年早期即接近成人水平。然而，在老年期，警觉网络的效率相对稳定——比执行控制网络保持得更好，但比定向网络的衰退模式更为复杂。
+
+The alerting network has basic functionality from infancy, but its efficiency continues developing through childhood and adolescence. Newborns exhibit basic arousal-sleep cycles, but the ability to maintain sustained arousal develops rapidly in the first months after birth. Throughout childhood, sustained attention capacity steadily improves, reflecting gradual maturation of prefrontal and parietal cortex. Research suggests the alerting network is the first of the three networks to reach relative stability, approaching adult levels by early adolescence. However, in old age, alerting network efficiency remains relatively stable — better preserved than executive control, but with a more complex decline pattern than orienting.
+
+## 临床应用 / Clinical Applications
+
+警觉网络的功能异常与多种临床状况相关。在 ADHD（尤其是以注意力不集中为主的亚型）中，持续性警觉的不足是核心特征，表现为难以在长时间内维持稳定的认知表现。在创伤性脑损伤（TBI）中，警觉网络的损伤是最常见的认知后遗症之一，表现为警觉性显著下降和持续性注意困难。在睡眠障碍中，睡眠剥夺对警觉网络的影响最为直接和显著。在抑郁症中，LC-NE 系统的功能紊乱可能导致觉醒水平异常（过高或过低），影响警觉网络的效率。药理学干预（如使用哌甲酯 methylphenidate 或莫达非尼 modafinil 等促醒药物）可以通过增强 NE 系统功能来改善警觉网络的效率。
+
+Alerting network dysfunction is associated with multiple clinical conditions. In ADHD (especially the predominantly inattentive subtype), insufficient sustained alerting is a core feature, manifested as difficulty maintaining stable cognitive performance over extended periods. In traumatic brain injury (TBI), alerting network impairment is one of the most common cognitive sequelae, manifested as significantly reduced vigilance and sustained attention difficulties. In sleep disorders, the effects of sleep deprivation on the alerting network are most direct and significant. In depression, LC-NE system dysfunction may lead to abnormal arousal levels (too high or too low), affecting alerting network efficiency. Pharmacological interventions (such as wake-promoting agents like methylphenidate or modafinil) can improve alerting network efficiency by enhancing NE system function.
+
+## 关联概念 / Related Concepts
+
+- **注意力网络（Attention Networks）** → [attention-networks.md](attention-networks.md) — 三网络整合框架 / Integrative three-network framework
+- **执行控制（Executive Attention）** → [executive-attention.md](executive-attention.md) — 警觉为执行控制提供觉醒基础 / Alerting provides arousal foundation for executive control
+- **定向网络（Orienting）** → [orienting.md](orienting.md) — 警觉增强提高定向效率 / Enhanced alerting improves orienting efficiency
+- **认知控制（Cognitive Control）** → [cognitive-control.md](cognitive-control.md) — 觉醒状态影响认知控制效率 / Arousal state affects cognitive control efficiency
+- **Yerkes-Dodson 定律** — 觉醒与绩效之间倒 U 形关系的经典理论 / Classic theory of inverted U-shaped relationship between arousal and performance
+
+## 东西方对话 / East-West Dialogue
+
+警觉网络的"维持觉醒"功能与佛教禅修传统中的"正念"（sati/smrti）和"正知"（sampajanna）概念有深刻的对应关系。在佛教心理学中，正念的核心功能之一就是维持对当下经验的持续觉察——一种不沉没（non-sinking）、不散乱（non-scattering）的稳定清醒状态。这与警觉网络维持持续性觉醒的功能高度吻合。佛教传统中关于"昏沉"（styana，mental dullness）和"掉举"（auddhatya，mental agitation）的分析——即觉醒水平过低或过高都会妨碍认知功能——精确对应于警觉网络的倒 U 形曲线：最佳认知功能需要适度的觉醒水平。佛教的"七觉支"（sapta bodhyanga）中的"精进觉支"（virya）和"喜觉支"（priti）可以被理解为对警觉网络的有意识调节。
+
+The "maintaining arousal" function of the alerting network has profound correspondences with the Buddhist meditation concepts of "mindfulness" (sati/smrti) and "clear comprehension" (sampajanna). In Buddhist psychology, one of the core functions of mindfulness is maintaining sustained awareness of present experience — a stable wakeful state that is neither sinking nor scattering. This closely aligns with the alerting network's function of maintaining sustained arousal. The Buddhist analysis of "mental dullness" (styana) and "mental agitation" (auddhatya) — that both too low and too high arousal levels impair cognitive function — precisely corresponds to the alerting network's inverted U-curve: optimal cognitive function requires moderate arousal. The "energy awakening factor" (virya) and "joy awakening factor" (priti) among the Seven Factors of Awakening (sapta bodhyanga) can be understood as conscious regulation of the alerting network.
+
+## 进阶阅读 / Further Reading
+
+- Posner, M.I. & Petersen, S.E. (1990). "The attention system of the human brain." *Annual Review of Neuroscience*, 13, 25-42.
+- Aston-Jones, G. & Cohen, J.D. (2005). "An integrative theory of locus coeruleus-norepinephrine function: Adaptive gain and optimal performance." *Annual Review of Neuroscience*, 28, 403-450.
+- Sturm, W. & Willmes, K. (2001). "Specificity and intensity of alertness and vigilance training in patients with right hemisphere lesions." *Neuropsychologia*, 39, 219-233.
+- Warm, J.S., Parasuraman, R., & Matthews, G. (2008). "The stressed brain of sustained attention: A review." *Human Factors*, 50(3), 433-441.

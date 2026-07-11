@@ -1,0 +1,136 @@
+---
+id: externalization
+title: "外化 · Externalization"
+type: concept
+domain: psychology
+school: narrative-therapy
+era: contemporary
+tags: [externalization, narrative-therapy, therapeutic-technique, problem-separation, michael-white]
+aliases: [外化对话, externalizing conversations, 问题外化, Externalization]
+sources:
+  - title: "The Externalizing Conversation"
+    author: Michael White
+    year: 1988
+  - title: "Maps of Narrative Practice"
+    author: Michael White
+    year: 2007
+  - title: "Narrative Means to Therapeutic Ends"
+    author: Michael White & David Epston
+    year: 1990
+---
+
+# 外化 · Externalization
+
+## 定义 · Definition
+
+外化（Externalization）是叙事疗法中最具标志性和最核心的治疗技术，由迈克尔·怀特于1980年代系统提出。其基本原则可以用怀特的名言概括："问题是问题，人不是问题"（The problem is the problem, the person is not the problem）。外化通过在语言层面将"问题"从人的身份中分离出来，使问题成为一个可以被审视、被对话、被挑战的独立"实体"，而非人内在的、固定的属性。
+
+Externalization is the most iconic and central therapeutic technique of narrative therapy, systematically proposed by Michael White in the 1980s. Its basic principle can be summarized in White's famous phrase: "The problem is the problem, the person is not the problem." Externalization separates the "problem" from the person's identity at the linguistic level, making the problem an independent "entity" that can be examined, dialogued with, and challenged — rather than an internal, fixed attribute of the person.
+
+外化不是一种"假装"问题不存在的逃避策略，而是一种重新框架化治疗关系的认识论转变——它改变了来访者与问题之间的权力关系。
+
+Externalization is not an avoidance strategy that "pretends" the problem doesn't exist, but an epistemological shift that reframes the therapeutic relationship — it changes the power relationship between the client and the problem.
+
+## 核心机制 · Core Mechanisms
+
+### 语言的建构性力量 · The Constructive Power of Language
+
+外化的理论基础在于对语言建构性力量的深刻认识。怀特认为，语言不是对现实的被动描述，而是主动地建构了我们所经验到的现实。当一个人被描述为"一个焦虑的人"（内化描述），焦虑就被建构成了他身份的一部分；而当焦虑被描述为"焦虑来找你"（外化描述），焦虑就成为一个可以被关系性地审视的外部影响。
+
+The theoretical basis of externalization lies in a profound understanding of the constructive power of language. White believed that language is not a passive description of reality but actively constructs the reality we experience. When a person is described as "an anxious person" (internalizing description), anxiety is constructed as part of their identity; when anxiety is described as "anxiety coming to visit you" (externalizing description), anxiety becomes an external influence that can be relationally examined.
+
+### 外化对话的具体操作 · Specific Operations of Externalizing Conversations
+
+怀特在《叙事实践的地图》中提出了外化对话的四个维度：
+
+White proposed four dimensions of externalizing conversations in *Maps of Narrative Practice*:
+
+1. **特殊经验地图**（地图一）：以去标签化的方式命名问题。不是"你有抑郁症"，而是"忧郁什么时候开始影响你的生活？" / **Map of unique experience** (Map 1): Naming the problem in a de-labeling manner. Not "you have depression" but "when did melancholy begin to affect your life?"
+
+2. **问题的影响地图**（地图二）：探索问题对人生活各方面的影响——"焦虑是如何影响你与朋友的关系的？它对你的工作有什么影响？" / **Map of the problem's effects** (Map 2): Exploring the problem's influence on various aspects of life — "How has anxiety affected your relationships with friends? What impact has it had on your work?"
+
+3. **评估与辩护地图**（地图三）：引导来访者反思这些影响——"你觉得这些影响是可以接受的吗？为什么你会这样认为？" / **Map of evaluation and justification** (Map 3): Guiding clients to reflect on these effects — "Do you find these effects acceptable? Why do you think so?"
+
+4. **辩护的根据地图**（地图四）：探索来访者评价背后的价值和信念——"你重视友谊，这与焦虑试图让你孤立自己的做法有什么关系？" / **Map of the basis of justification** (Map 4): Exploring the values and beliefs behind the client's evaluation — "You value friendship — what does that say about anxiety's attempt to isolate you?"
+
+### 外化的治疗性效果 · Therapeutic Effects of Externalization
+
+外化产生多重治疗效果：
+
+Externalization produces multiple therapeutic effects:
+
+- **降低羞耻感**：当问题不再被等同于人的本质时，来访者的自我责备和羞耻感显著降低 / **Reducing shame**: When the problem is no longer equated with the person's essence, clients' self-blame and shame significantly decrease
+- **创造审视的"立场"**：外化使来访者能够"站在问题旁边"而非"站在问题里面"来审视它 / **Creating a "position" for examination**: Externalization enables clients to stand "beside the problem" rather than "inside the problem" when examining it
+- **促进家庭合作**：在家庭治疗中，外化使家庭成员能够"联合对抗问题"而非"相互指责" / **Promoting family cooperation**: In family therapy, externalization enables family members to "unite against the problem" rather than "blame each other"
+- **开启行动空间**：如果问题是外在的，那么就可以采取行动来应对它；如果问题就是人本身，改变的空间就被封死了 / **Opening space for action**: If the problem is external, action can be taken to address it; if the problem is the person themselves, the space for change is sealed off
+
+## 发展脉络 · Development
+
+### 临床起源（1980年代）/ Clinical Origins (1980s)
+
+外化技术最初在怀特治疗儿童行为问题的实践中发展出来。他发现，当父母将孩子等同于"问题儿童"时，家庭互动陷入恶性循环。当他开始将"问题"与"孩子"分开谈论时（"脾气"什么时候来找你？），家庭动力学发生了显著变化。1988年，他在 *Dulwich Centre Newsletter* 上发表"The Externalizing Conversation"一文，首次系统阐述这一技术。
+
+Externalization techniques originally emerged from White's practice treating childhood behavioral problems. He found that when parents equated the child with a "problem child," family interactions fell into a vicious cycle. When he began talking about the "problem" separately from the "child" ("When does the 'temper' come to visit you?"), family dynamics changed significantly. In 1988, he published "The Externalizing Conversation" in the *Dulwich Centre Newsletter*, the first systematic exposition of this technique.
+
+### 理论深化（1990年代–2000年代）/ Theoretical Deepening (1990s–2000s)
+
+在《叙事疗法》（1990）和《叙事实践的地图》（2007）中，怀特逐步将外化从一种"技术"发展为一种"立场"——不仅是治疗中的语言策略，更是一种对人的根本性尊重和对问题本质的批判性理解。他特别强调：外化不是将问题"推卸"给外部因素，而是使来访者获得审视和对抗问题的能动性。
+
+In *Narrative Means to Therapeutic Ends* (1990) and *Maps of Narrative Practice* (2007), White progressively developed externalization from a "technique" into a "stance" — not merely a linguistic strategy in therapy but a fundamental respect for persons and a critical understanding of the nature of problems. He particularly emphasized that externalization does not "shift blame" to external factors but empowers clients with the agency to examine and confront the problem.
+
+## 临床应用 · Clinical Applications
+
+### 命名实践 · Naming Practices
+
+外化的第一步是为问题"命名"。这个命名应由来访者主导，而非治疗师赋予：
+
+The first step of externalization is "naming" the problem. This naming should be led by the client, not imposed by the therapist:
+
+- "如果给你的焦虑起一个名字，你会叫它什么？" / "If you could give your anxiety a name, what would you call it?"
+- "这个'暴君'是什么时候开始统治你的生活的？" / "When did this 'tyrant' begin to rule your life?"
+- "你觉得'完美主义'是你的朋友还是一个不请自来的客人？" / "Do you think 'perfectionism' is your friend or an uninvited guest?"
+
+### 家庭治疗中的应用 / Application in Family Therapy
+
+在家庭治疗中，外化技术尤为强大：
+
+In family therapy, externalization techniques are particularly powerful:
+
+- **转化指责循环**："不是爸爸对你发脾气——是'愤怒'占领了爸爸。我们一起看看怎么帮爸爸把'愤怒'请出去。" / **Transforming blame cycles**: "It's not that Dad is angry at you — it's that 'anger' has taken over Dad. Let's see how we can help Dad invite 'anger' to leave."
+- **团结家庭成员**：将问题建构成家庭的"共同敌人"，使家庭成员从相互指责转向协作应对 / **Uniting family members**: Constructing the problem as a "common enemy" of the family, shifting members from mutual blame to collaborative response
+
+### 注意事项与局限 · Considerations and Limitations
+
+怀特本人也指出外化的重要注意事项：
+
+White himself noted important considerations for externalization:
+
+- **不适用于暴力情境**：在家庭暴力和虐待情境中，过度外化可能使施暴者逃避责任 / **Inappropriate for violence situations**: In domestic violence and abuse situations, excessive externalization may enable perpetrators to evade responsibility
+- **不是"否认"问题**：外化不是否认问题的存在，而是改变人与问题的关系方式 / **Not "denying" the problem**: Externalization does not deny the problem's existence but changes the mode of the person's relationship to the problem
+- **需要文化敏感性**：在不同文化中，"问题"的理解和外化的方式需要灵活调整 / **Requires cultural sensitivity**: In different cultures, the understanding of "the problem" and the mode of externalization need flexible adjustment
+
+## 关联概念 · Related Concepts
+
+- **叙事疗法 / Narrative Therapy**：外化是叙事实践的核心技术 → [详见](narrative-therapy.md) / Externalization is the core technique of narrative practice
+- **重写 / Re-authoring**：外化为重写创造了空间 → [详见](re-authoring.md) / Externalization creates space for re-authoring
+- **后结构主义 / Post-structuralism**：外化的哲学理论基础 → [详见](post-structuralism.md) / The philosophical and theoretical basis of externalization
+- **定义式仪式 / Definitional Ceremony**：巩固外化后的新身份认同 → [详见](definitional-ceremony.md) / Consolidating new identity after externalization
+- **独特结果 / Unique Outcomes**：外化对话帮助发现不符合问题故事的例外时刻 / Unique outcomes: Externalizing conversations help discover moments that don't fit the problem story
+
+## 东西方对话 · East-West Dialogue
+
+外化实践与中国文化中的"命名"传统有深层呼应。在中国传统文化中，"名"与"实"的关系是一个核心哲学议题——孔子强调"正名"，老子强调"名可名，非常名"。怀特的外化同样深刻地认识到命名的建构性力量：一个"多动症儿童"的命名与一个"精力充沛的孩子"的命名，建构了完全不同的自我认同和社会期待。
+
+Externalization practice has deep resonance with the Chinese cultural tradition of "naming." In traditional Chinese culture, the relationship between "name" (míng) and "reality" (shí) is a core philosophical issue — Confucius emphasized "rectification of names," while Laozi emphasized "the name that can be named is not the eternal name." White's externalization is equally aware of the constructive power of naming: the naming of a child as "a child with ADHD" versus "an energetic child" constructs entirely different self-identities and social expectations.
+
+此外，佛教对"执着"（upādāna）的分析与外化的逻辑也有相通之处：佛教认为人之所以受苦，是因为将无常的经验执着为恒常的"自我"；外化实践则帮助人不再将问题经验执着为自己的"身份"。
+
+Additionally, Buddhist analysis of "clinging" (upādāna) shares logic with externalization: Buddhism holds that suffering arises from clinging to impermanent experiences as a permanent "self"; externalization practice helps people stop clinging to problem experiences as their "identity."
+
+## 进阶阅读 · Further Reading
+
+- Michael White, "The Externalizing Conversation" (*Dulwich Centre Newsletter*, 1988)
+- Michael White, *Maps of Narrative Practice*, Chapter 1 (W.W. Norton, 2007)
+- Michael White & David Epston, *Narrative Means to Therapeutic Ends* (W.W. Norton, 1990)
+- Jill Freedman & Gene Combs, *Narrative Therapy*, Chapter 5 (W.W. Norton, 1996)
+- Alice Morgan, *What Is Narrative Therapy?*, Chapter 2 (Dulwich Centre Publications, 2000)

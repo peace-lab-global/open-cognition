@@ -1,0 +1,120 @@
+---
+id: candrakirti-negation-target
+title: "所破事精确化: 月称对空性所破对象的精确界定"
+type: concept
+parent: candrakirti
+domain: religion
+school: buddhism-madhyamaka-prasangika
+tags: [dgag-bya, negation, svabhava-graha, object-of-negation, emptiness, Madhyamaka]
+---
+
+# 所破事精确化 / Precise Identification of the Object of Negation (Dgag bya)
+
+## 定义 / Definition
+
+**所破事 (dgag bya, 藏文; pratishedya, 梵文)** 是中观空性论证中被否定的对象——即"什么是要破的"。月称特别强调：中观所破的不是现象本身 (dharmin)，而是对现象的**自性执 (svabhava-graha)**——错误地认为事物具有独立、固有、不依他缘的本质。所破事的精确界定是空性修证中最关键的技术问题。
+
+**The object of negation** (dgag bya in Tibetan; pratishedya in Sanskrit) is what Madhyamaka analysis targets for refutation. Candrakirti insists: what is negated is not phenomena themselves (dharmin) but the **grasping at inherent existence** (svabhava-graha) — the erroneous belief that things possess independent, intrinsic, non-dependent essence. Precise identification of this target is the most critical technical problem in emptiness meditation.
+
+## 梵藏语义 / Sanskrit-Tibetan Semantics
+
+- **dgag bya** (藏文): 所破事——被否定的对象
+- **pratishedya** (梵文): 被否定者
+- **svabhava-graha**: 自性执——对固有本质的执着
+- **dharmin**: 有法——承载属性的事物本身（不是所破对象）
+- **dharma**: 法/属性——事物的特征（不是所破对象）
+
+## 核心问题：所破事的宽窄 / The Core Problem: Breadth of the Negation Target
+
+### 太宽的所破事 Too Broad a Target
+
+如果把所破事定得太宽——认为中观否定的是现象本身 (而非现象的自性)——就会导致：
+
+- **断见 (uccheda-drsti)**: 否定因果、否定业报、否定修道
+- **恶取空 (durbhava-sunyata)**: 对空性的错误理解——把空性当作"什么都不存在"
+- **修行上的灾难**: 如果一切都不存在，修行还有什么意义？
+
+**If the negation target is too broad — thinking Madhyamaka negates phenomena themselves rather than their inherent existence — one falls into: nihilism (uccheda-drsti), wrongly grasped emptiness (durbhava-sunyata), and spiritual disaster: if nothing exists, what is the point of practice?**
+
+月称在《明句论》中引用龙树的警告："若人见有空，诸佛所不化"(MMK 24.11)——把空性理解为虚无，比执着实有更难救治。
+
+### 太窄的所破事 Too Narrow a Target
+
+如果把所破事定得太窄——例如只否定"外道的梵我"或"有部的实法"——就会导致：
+
+- **空性不彻底**: 仍然保留了微细的自性执
+- **修证不圆满**: 无法断除烦恼的根本——俱生无明 (innate ignorance)
+- **宗喀巴特别强调这一点**: 自续派的所破事就太窄了——他们只否定了"以名言假立之外的独立存在"，却没有否定"名言中以自相成立"
+
+**If the negation target is too narrow — e.g., only negating the Brahman-atman of non-Buddhists or the real dharmas of Sarvastivada — one achieves: incomplete emptiness realization, residual subtle svabhava-grasping, and failure to uproot innate ignorance (sahaja-avidya), the root of afflictions. Tsongkhapa emphasizes this: Svatantrika's negation target is too narrow — they negate independent existence apart from conceptual designation but fail to negate existence by way of own-character (svalaksana) even at the conventional level.**
+
+### 精确的所破事 The Precise Target
+
+月称所界定的精确所破事是：**对事物的自性执 (svabhava-graha) / 对事物以自相成立的执着 (svalaksana-siddhi)**。
+
+这意味着：
+- 一棵树**存在** (名言中有) — 这不被否定
+- 一棵树**以其自身固有本质而存在** (自性有) — 这才是所破事
+- 否定的是"以固有本质存在的方式"，不是"存在"本身
+
+**Candrakirti's precise negation target: grasping at inherent existence (svabhava-graha) / grasping at existence by way of own-character (svalaksana-siddhi). This means: a tree exists (conventionally) — this is not negated. A tree exists by its own inherent essence — THIS is the negation target. What is negated is the mode of existing inherently, not existence itself.**
+
+## 所破事与"我执"的关系 / Negation Target and Self-Grasping
+
+### 人我执 Pudgala-atma-graha
+
+对"我"的自性执——认为有一个独立、统一、不变的"自我"。月称在《入中论》中以**七相推求 (sapta-vidha-anvesana)** 分析"我"与五蕴的七种可能关系——"我"不在五蕴中、不离五蕴、不是五蕴的集合、不拥有五蕴……——穷尽所有可能后，"我"的自性不可得。
+
+**Self-grasping regarding the person: the belief in an independent, unified, unchanging "self." Candrakirti employs the seven-fold analysis (sapta-vidha-anvesana) in the Madhyamakavatara, examining seven possible relations between "self" and the five aggregates — finding inherent selfhood unobtainable in every case.**
+
+### 法我执 Dharma-atma-graha
+
+对"法"(一切现象)的自性执——认为色、声、心识等一切法有其固有的本质。这比人我执更微细，也是菩萨修道所要断除的根本障碍 (所知障, jneya-avarana)。
+
+**Dharma-self-grasping: grasping at the inherent existence of all phenomena — matter, sound, consciousness. This is subtler than person-self-grasping and constitutes the fundamental obstacle (cognitive obscuration, jneya-avarana) that the bodhisattva path must remove.**
+
+## 月称对前人的继承与深化 / Inheritance and Deepening
+
+### 佛护的贡献 Buddhapalita's Contribution
+
+佛护在注释龙树《中论》1.1 时，首次明确以应成法取代自立因，奠定了应成派的方法论基础。但在所破事的精确界定上，佛护的论述相对简略。
+
+### 月称的深化 Candrakirti's Deepening
+
+月称在《明句论》和《入中论》中系统深化了所破事理论：
+
+1. **明确区分所破事与有法**: 所破的是"自性"，不是"现象本身"
+2. **引入七相推求**: 以车喻系统分析"我"的不可得
+3. **强调俱生无明**: 所破事不仅是后天学得的"分别无明"，更根本的是与生俱来的"俱生无明"
+
+**Candrakirti systematized the negation-target theory: (1) clearly distinguishing the negation target (svabhava) from the basis of negation (phenomena); (2) introducing the seven-fold analysis via the chariot metaphor; (3) emphasizing innate ignorance (sahaja-avidya) as the fundamental target, not just intellectually acquired misconceptions.**
+
+## 与宗喀巴的关联 / Connection to Tsongkhapa
+
+宗喀巴在《菩提道次第广论》和《入中论善显密意疏》中进一步深化了月称的所破事理论。他提出了藏传中观中最重要的技术问题之一：**"所破事的确切形象"(dgag bya'i gzhal)**——即所破事在认知中呈现为怎样的面貌。
+
+宗喀巴指出：
+- 大多数人对所破事的理解太粗——他们以为所破的是一种"明显的实有感"
+- 实际上，所破事极其微细——一切未经空性训练的凡夫心识，在认知任何对象时都自然呈现的"以自相成立"的显现方式
+- 只有精确识别这个微细的所破事，空性修证才能真正有效
+
+**Tsongkhapa deepened Candrakirti's negation-target theory by identifying the "exact image of the negation target" (dgag bya'i gzhal) — how svabhava-grasping manifests in cognition. He argues: most people's understanding is too coarse — they think the target is a "gross sense of substantiality." In reality, the target is extremely subtle — the way objects naturally appear as existing by their own character to any mind untrained in emptiness.**
+
+## 对当代哲学的启发 / Contemporary Philosophical Implications
+
+### 范畴错误的精确化 Precision in Category Errors
+
+月称对所破事的精确化，与赖尔 (Gilbert Ryle) 对"范畴错误"的分析形成有趣的对比：两者的核心洞见都是——哲学困惑不是来自"不知道某个事实"，而是来自"以错误的方式理解已有的事实"。
+
+### 认知科学中的"自然本体论" Natural Ontology in Cognitive Science
+
+当代认知科学发现，人类心识具有强烈的"本质主义倾向"(essentialist bias)——自然而然地将事物视为具有固定本质的实体。月称的所破事理论精确地描述了这一认知偏误，并提供了系统对治的方法。
+
+**Cognitive science reveals that human cognition has a strong "essentialist bias" — naturally treating things as entities with fixed essences. Candrakirti's negation-target theory precisely describes this cognitive bias and provides a systematic method for countering it.**
+
+## 参见 / See Also
+
+- [应成法 Prasanga](prasanga-method.md)
+- [名言有与自性有](conventional-vs-inherent.md)
+- [名言中许有](conventional-acceptance.md)
+- [月称 Candrakirti](../README.md)

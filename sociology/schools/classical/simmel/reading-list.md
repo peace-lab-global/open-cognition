@@ -1,0 +1,56 @@
+---
+id: simmel-reading-list
+title: 齐美尔进阶书单 · Simmel Reading List
+type: reading-list
+domain: sociology
+thinker: simmel
+school: classical
+---
+
+# 齐美尔系统阅读指南 / Simmel Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Georg Simmel* (2019) | Otthein Rammstedt | 最新权威传记 |
+| *Simmel on Culture* (1997) | David Frisby & Mike Featherstone (eds.) | 选集含导言 |
+| 《齐美尔：现代性的碎片》| 戴维·弗里斯比 | 中文重要评介 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《大都市与精神生活》 | 1903 | 都市心理学；矜持；倦怠态度 |
+| 《陌生人》 | 1908 | 社会类型学；近与远 |
+| 《货币哲学》（选读：第六章"生活风格"） | 1900 | 货币与个体自由 |
+| 《时尚》 | 1905 | 社会区分与模仿 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会学》（论群体数量、论支配） | 1908 | 形式社会学核心 |
+| 《货币哲学》全文 | 1900 | 货币文化的全面分析 |
+| 《文化的危机》 | 1916 | 客观文化与主观文化 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Simmel and Since* (1992) | David Frisby | 齐美尔传统的当代发展 |
+| *Georg Simmel: Critical Assessments* (1994) | David Frisby (ed.) | 评论文集 |
+| *Simmel's Philosophy of Money* | Nigel Dodd | 货币哲学专题 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The Structure of Social Networks* | Harrison White | 网络分析与齐美尔传统 |
+| *The Presentation of Self in Everyday Life* | Erving Goffman | 微观社会学中的齐美尔遗产 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Frisby导论 → 《大都市与精神生活》→ 《陌生人》→ 《时尚》
+**阶段二**（4-8周）: 《货币哲学》→ 《社会学》选读
+**阶段三**（8周+）: 生命哲学文本 → 深度研究 → 与芝加哥学派和戈夫曼的对比阅读

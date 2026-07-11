@@ -1,0 +1,42 @@
+---
+id: aesthetics.arts-thought.cage.works
+title: 凯奇著作列表 / Cage Works
+type: works
+parent: aesthetics.arts-thought.cage
+---
+
+# 凯奇著作列表 / Cage Bibliography
+
+## 文集与著作 / Writings
+
+| 年份 | 标题 | 核心主题 |
+|------|------|----------|
+| 1961 | *Silence: Lectures and Writings* | 实验艺术哲学宣言 |
+| 1967 | *A Year from Monday* | 新讲演与文集 |
+| 1973 | *M: Writings '67–'72* | 写作实验 |
+| 1979 | *Empty Words* | 语言解构 |
+| 1983 | *X: Writings '79–'82* | 后期思考 |
+| 1990 | *I–VI* | 哈佛诺顿讲座 |
+
+## 音乐作品 / Musical Works
+
+| 年份 | 作品 | 核心创新 |
+|------|------|----------|
+| 1938-40 | *Bacchanale* | 首件预制钢琴作品 |
+| 1946-48 | *Sonatas and Interludes* | 预制钢琴音乐巅峰 |
+| 1951 | *Music of Changes* | 易经偶然操作开创作 |
+| 1952 | *4'33"* | 沉默作为音乐 |
+| 1952 | *Water Music* | 日常物品作为乐器 |
+| 1958 | *Variations I* | 不确定性系列开端 |
+| 1960 | *Cartridge Music* | 扩音日常物品 |
+| 1969 | *HPSCHD* | 计算机音乐先驱 |
+| 1987 | *Number Pieces* | 晚期极简系列 |
+
+## 推荐中译本 / Chinese Translations
+
+- 《沉默》，李静滢译，陕西师范大学出版社
+- 《约翰·凯奇音乐文集》，多个选集收录
+
+---
+
+*另见：[[README|凯奇]] | [[reading-list|推荐阅读]]*

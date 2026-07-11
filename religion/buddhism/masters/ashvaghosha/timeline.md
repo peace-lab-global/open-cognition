@@ -1,0 +1,14 @@
+---
+id: ashvaghosha-timeline
+title: "马鸣年表 Ashvaghosha: Timeline"
+type: timeline
+parent: ashvaghosha
+---
+# 马鸣年表
+| 年代 | 事件 |
+|------|------|
+| ~80 | 生于北印度 |
+| ~100 | 外道辩才，后被胁尊者度化 |
+| ~110 | 成为迦腻色迦王宫廷诗人 |
+| ~120 | 著《佛所行赞》 |
+| ~150 | 圆寂 |

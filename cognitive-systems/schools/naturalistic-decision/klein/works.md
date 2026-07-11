@@ -1,0 +1,38 @@
+---
+id: cognitive-systems.naturalistic-decision.klein-works
+title: 克莱因作品总览
+type: works-catalogue
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: klein
+tags: [klein, works, naturalistic-decision]
+cross-refs: [{id: klein, relation: thinker}]
+---
+
+# 克莱因作品总览
+
+## 核心学术论文
+| 年份 | 论文 | 期刊/出处 | 核心贡献 |
+|------|------|-----------|----------|
+| 1989 | "Recognition-Primed Decisions" | *Advances in Man-Machine Systems Research* | RPD模型首次提出 |
+| 1993 | "A Recognition-Primed Decision (RPD) Model of Rapid Decision Making" | *Decision Making in Action* (Klein, Orasanu, Calderwood & Zsambok eds.) | RPD模型系统阐述 |
+| 1995 | "Naturalistic Decision Making: Implications for Design" | *Proceedings of the Human Factors Society* | NDM对设计的启示 |
+| 2001 | "How Do People Make Decisions Under Stress?" | *Journal of Behavioral Decision Making* | 压力下的决策策略 |
+| 2007 | "Performing a Cognitive Task Analysis" | *Working Minds* (Crandall, Klein & Hoffman eds.) | CTA方法论系统指南 |
+| 2009 | "Conditions for Intuitive Expertise" (与Kahneman) | *American Psychologist* 64(6) | 直觉可靠性的条件共识 |
+| 2010 | "When Can We Trust Our Intuitions?" | *Harvard Business Review* | 面向大众的直觉决策指南 |
+
+## 核心著作
+| 年份 | 书名 | 出版社 | 核心贡献 |
+|------|------|--------|----------|
+| 1993 | *Decision Making in Action* (与Orasanu等合编) | Ablex | NDM运动的奠基文集 |
+| 1998 | *Sources of Power: How People Make Decisions* | MIT Press | 消防指挥官研究与RPD模型的通俗呈现 |
+| 2003 | *The Power of Intuition* | Currency/Doubleday | 面向管理者的直觉决策实用指南 |
+| 2007 | *Working Minds* (与Crandall, Hoffman合编) | MIT Press | CTA方法论的系统教材 |
+| 2011 | *Streetlights and Shadows* | MIT Press | 十条关于适应性决策的洞见 |
+| 2013 | *Seeing What Others Don't* | PublicAffairs | 洞察力五路径理论 |
+
+## 阅读路径
+**入门**: *Sources of Power* 全书（叙事驱动，易读） → "Conditions for Intuitive Expertise" (2009)
+**进阶**: *The Power of Intuition* → *Working Minds* (CTA方法论)
+**深潜**: "A RPD Model" (1993) 原论文 → *Seeing What Others Don't* → NDM会议论文集

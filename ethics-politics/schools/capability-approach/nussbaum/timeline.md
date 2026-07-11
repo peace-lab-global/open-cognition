@@ -1,0 +1,16 @@
+---
+id: nussbaum-timeline
+title: 纳斯鲍姆年表
+type: timeline
+domain: ethics-politics
+school: capability-approach
+thinker: nussbaum
+tags: [nussbaum, timeline]
+cross-refs: [{id: nussbaum, relation: thinker}]
+---
+# 纳斯鲍姆年表
+- **1947** 生于纽约
+- **1975** 哈佛大学博士
+- **1986** 《善的脆弱性》
+- **2006** 《正义的前沿》
+- **2011** 《创造能力》

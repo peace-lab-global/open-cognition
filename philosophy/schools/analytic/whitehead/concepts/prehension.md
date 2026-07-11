@@ -1,0 +1,44 @@
+---
+id: whitehead-prehension
+title: 摄受 · Prehension
+type: concept
+thinker: whitehead
+domain: philosophy
+school: analytic
+tags: [relations, feeling, causation, organism]
+---
+# 摄受 · Prehension
+
+## 概念定位 / Conceptual Position
+每一事件对其前身事件的"把握"——可为正面（接纳）或负面（排除）。摄受取代了实体哲学的"因果关系"。
+
+Each event's "grasp" of predecessor events — positive (incorporating) or negative (excluding). Prehension replaces "causation" in substance philosophy.
+
+## 核心论述 / Core Argument
+
+### 正面摄受与负面摄受 / Positive and Negative Prehension
+- **正面摄受 / Positive**: 接纳前身事件的某些特征进入自身
+- **负面摄受 / Negative**: 排除前身事件的某些特征
+
+每个现实机缘都通过正面和负面摄受来选择性地整合其前身。
+
+Each actual occasion selectively integrates its predecessors through positive and negative prehension.
+
+### 感受的普遍性 / Universality of Feeling
+怀特海认为摄受包含一种"感受"（feeling）维度——即使非生命事件也有某种原始的"感受"。这不是泛心论（panpsychism），而是说感受是存在的基本维度。
+
+Whitehead holds prehension includes a "feeling" dimension — even non-living events have primitive "feeling." Not panpsychism, but feeling as a fundamental dimension of existence.
+
+## 哲学意义 / Philosophical Significance
+为关系本体论提供了形而上学基础，影响了生态哲学和过程神学。
+
+## 东西方对话 / East-West Dialogue
+### 与华严"互摄" / With Huayan's "Mutual Containment"
+华严宗主张"一即一切，一切即一"——每一法包含一切法，一切法包含一法。这与怀特海的"摄受"概念有惊人的结构相似性：每个事件通过摄受来包含其前身事件的全体。
+
+Huayan Buddhism holds "one is all, all is one" — each dharma contains all dharmas. This has striking structural similarity to prehension: each event contains its predecessors through prehension.
+
+## 相关概念 / Related Concepts
+- [过程哲学 Process Philosophy](process-philosophy.md)
+- [现实机缘 Actual Occasions](actual-occasions.md)
+- [怀特海主页](../README.md)

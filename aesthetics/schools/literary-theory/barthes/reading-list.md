@@ -1,0 +1,70 @@
+---
+id: aesthetics.literary-theory.barthes.reading-list
+title: 巴特推荐阅读 / Barthes Reading List
+type: reading-list
+parent: aesthetics.literary-theory.barthes
+---
+
+# 巴特推荐阅读 / Barthes Reading List
+
+## 一、入门阅读 / Introductory
+
+### 中文
+1. 卡勒：《罗兰·巴特》，张隆溪译，三联书店 — 简明导论
+2. 汪民安：《罗兰·巴特》，三联书店，2016
+3. 王德胜：《罗兰·巴特的美学思想》，中国社会科学出版社
+
+### English
+1. Culler, Jonathan. *Barthes: A Very Short Introduction*. Oxford UP, 2002 — 最佳入门
+2. Allen, Graham. *Roland Barthes*. Routledge, 2012 — 系统概述
+3. Moriarty, Michael. *Roland Barthes*. Stanford UP, 1991 — 深入的思想研究
+4. Sturrock, John. *Roland Barthes: A Biography*. NYU Press, 1999
+
+## 二、巴特原著阅读顺序 / Recommended Reading Order
+
+### 第一阶段：进入巴特的世界
+1. 《神话学》（选读若干篇）— 感受巴特的文化分析风格
+2. 《作者之死》— 后结构主义的核心文本
+3. 《从作品到文本》— 文本理论的纲领
+
+### 第二阶段：深入文本理论
+4. 《S/Z》— 完整的解构式阅读实践
+5. 《文本的愉悦》— 阅读的身体性
+6. 《符号帝国》— 文化符号学
+
+### 第三阶段：晚期个人化写作
+7. 《恋人絮语》— 爱情话语的分析
+8. 《明室》— 摄影现象学与哀悼
+9. 《罗兰·巴特自述》— 自传书写的实验
+
+## 三、进阶研究 / Advanced Studies
+
+### 专著
+1. Knight, Diana. *Barthes and Utopia: Space, Travel, Writing*. Oxford UP, 1997
+2. Prendergast, Christopher. *The Order of Mimesis*. Cambridge UP, 1986
+3. Payne, Michael. *Reading Theory: An Introduction to Lacan, Derrida, and Barthes*. Blackwell, 1993
+4. Ungar, Steven. *Roland Barthes: The Professor of Desire*. U of Nebraska P, 1984
+
+### 论文集
+1. Thody, Philip & Read, Howard (eds.). *Roland Barthes: Critical Perspectives*. Polity Press, 2015
+2. Rabaté, Jean-Michel (ed.). *Writing the Image after Roland Barthes*. U of Pennsylvania P, 1997
+
+## 四、关联思想家的背景阅读 / Background Reading
+
+1. 索绪尔：《普通语言学教程》(1916) — 符号学的源头
+2. 列维-斯特劳斯：《神话学》(1964-71) — 结构主义神话分析
+3. 德里达：《论文字学》(1967) — 解构主义
+4. 福柯：《什么是作者？》(1969) — 对"作者之死"的回应
+5. 克里斯蒂娃：《符号学》(1969) — 互文性
+
+## 五、当代延续 / Contemporary Extensions
+
+1. Danto, Arthur. *The Transfiguration of the Commonplace* (1981) — 艺术哲学
+2. Sontag, Susan. *On Photography* (1977) — 与《明室》的对话
+3. Batchen, Geoffrey. *Each Wild Idea* (2001) — 摄影理论的当代发展
+4. Mitchell, W.J.T. *What Do Pictures Want?* (2005) — 图像理论
+5. Elkins, James. *The Object Stares Back* (1996) — 观看理论
+
+---
+
+*另见：[[README|巴特]] | [[works|著作列表]] | [[timeline|年表]]*

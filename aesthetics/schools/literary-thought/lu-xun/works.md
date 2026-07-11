@@ -1,0 +1,35 @@
+---
+id: lu-xun-aesthetics-works
+title: 鲁迅美学作品总览
+type: works-catalogue
+domain: aesthetics
+school: literary-thought
+thinker: lu-xun
+tags: [lu-xun, works, aesthetics]
+cross-refs:
+  - id: lu-xun
+    relation: thinker
+---
+
+# 鲁迅美学作品总览
+
+> 完整作品表见 [文学领域](../../../literature/schools/essayists/lu-xun/works.md)。
+
+## 核心美学著作
+| 年份 | 作品 | 美学贡献 |
+|---|---|---|
+| 1918 | 《狂人日记》 | "吃人"隐喻 |
+| 1921 | 《阿Q正传》 | 精神胜利法 |
+| 1922 | 《呐喊》 | 启蒙小说集 |
+| 1926 | 《彷徨》 | 启蒙者的困境 |
+| 1927 | 《野草》 | 存在主义散文诗 |
+
+## 美学相关段落
+- 《狂人日记》全文
+- 《阿Q正传》精神胜利法的刻画
+- 《野草》"影的告别""死火""过客"
+
+## 阅读路径
+### 入门：《狂人日记》→ 《野草》"影的告别"
+### 进阶：《呐喊》全书 → 《野草》全书
+### 深潜：《彷徨》→ 汪晖《反抗绝望》

@@ -1,0 +1,63 @@
+---
+id: aesthetics.literary-theory.saussure.reading-list
+title: 索绪尔推荐阅读 / Saussure Reading List
+type: reading-list
+parent: aesthetics.literary-theory.saussure
+---
+
+# 索绪尔推荐阅读 / Saussure Reading List
+
+## 一、入门阅读 / Introductory
+
+### 中文
+1. 高名凯：《索绪尔的语言学思想》，载《普通语言学教程》附录
+2. 徐友渔：《结构主义与后结构主义》，三联书店
+3. 张一兵：《索绪尔语言学笔记》，南京大学出版社
+
+### English
+1. Culler, Jonathan. *Saussure*. Collins, 1976 — 最佳入门导论
+2. Holdcroft, David. *Saussure: Signs, System, and Arbitrariness*. Cambridge UP, 1991
+3. Sanders, Carol. *The Cambridge Companion to Saussure*. Cambridge UP, 2004
+4. Thibault, Paul. *Re-reading Saussure: The Dynamics of Semiotic Change*. Routledge, 1997
+
+## 二、索绪尔原著阅读顺序 / Recommended Reading Order
+
+### 第一阶段：进入索绪尔的世界
+1. 《普通语言学教程》"导言" — 语言学的对象和方法
+2. "第一篇：一般原则" — 符号、能指/所指、任意性
+
+### 第二阶段：核心理论
+3. "第二篇：共时语言学" — 价值、差异、关系
+4. "第三篇：历时语言学" — 语音变化、类比
+5. "第五篇：结论" — 语言学的总体展望
+
+### 第三阶段：原始材料
+6. 《第三次普通语言学教程》— 对比《教程》的编辑版本
+7. 《普通语言学手稿》— 索绪尔的原始思考
+
+## 三、进阶研究 / Advanced Studies
+
+1. Bouissac, Paul. *Saussure: A Guide for the Perplexed*. Continuum, 2010
+2. Joseph, John. *Saussure*. Oxford UP, 2012 — 最新权威传记
+3. Aarsleff, Hans. *From Locke to Saussure*. U of Minnesota P, 1982
+4. Norman, Joanna. *Critical Evaluations of Saussure's Linguistic Theory*. Edwin Mellen, 2000
+
+## 四、关联思想家的背景阅读 / Background Reading
+
+1. 列维-斯特劳斯：《结构人类学》(1958) — 结构主义人类学
+2. 巴特：《神话学》(1957) — 符号学的实践
+3. 拉康：《文集》(1966) — 精神分析的符号学化
+4. 德里达：《论文字学》(1967) — 对索绪尔的解构
+5. 皮尔士：《符号学文集》— 与索绪尔平行的符号学传统
+
+## 五、当代延续 / Contemporary Extensions
+
+1. Chomsky, Noam. *Syntactic Structures* (1957) — 生成语法对索绪尔的超越
+2. Halliday, M.A.K. *Systemic Functional Linguistics* — 功能语言学
+3. Kress, Gunther & van Leeuwen, Theo. *Reading Images* (1996) — 视觉语法
+4. Chandler, Daniel. *Semiotics: The Basics* (2002) — 当代符号学入门
+5. Eco, Umberto. *A Theory of Semiotics* (1976) — 综合索绪尔与皮尔士
+
+---
+
+*另见：[[README|索绪尔]] | [[works|著作列表]] | [[timeline|年表]]*

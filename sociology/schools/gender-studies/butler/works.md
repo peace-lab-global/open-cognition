@@ -1,0 +1,44 @@
+---
+id: butler-works
+title: 巴特勒主要著作 · Butler Major Works
+type: works
+domain: sociology
+thinker: butler
+school: gender-studies
+---
+
+# 巴特勒主要著作详述 / Butler Major Works: Detailed Survey
+
+## 一、性别展演理论（1990—1997）/ Gender Performativity Theory (1990-1997)
+
+### 1. 《性别麻烦》（1990）/ *Gender Trouble: Feminism and the Subversion of Identity*
+巴特勒最具影响力的著作，酷儿理论的奠基文本。核心论证：（1）"社会性别"（gender）不是"生物性别"（sex）的自然表达——生物性别本身就已经是一种文化建构；（2）性别认同不是先于行为的内在本质，而是通过重复的表演行为所建构的效果——"性别展演"；（3）异性恋矩阵使得性别和欲望的一致性成为强制性的规范。巴特勒将克里斯蒂娃、福柯、维蒂格和奥斯汀的理论创造性地融合在一起。
+
+### 2. 《身体何以重要》（1993）/ *Bodies That Matter: On the Discursive Limits of "Sex"*
+对《性别麻烦》批评的回应和理论的深化。核心问题：如果性别是话语建构的，那么身体的物质性在哪里？巴特勒论证了物质性不是先于话语的给定，而是在话语实践中被赋予"重要性"（mattering）的过程——某些身体被规范化、被承认，另一些则被排斥、被忽视。
+
+### 3. 《权力的精神生活》（1997）/ *The Psychic Life of Power: Theories in Subjection*
+转向精神分析和主体形成理论。巴特勒分析了主体如何在权力关系中诞生——权力不仅压抑主体，也生产主体。"屈从"（subjection）是双义的——既是被权力所征服，也是获得行动能力的条件。
+
+---
+
+## 二、伦理学与政治哲学转向（2004—2009）/ Ethical and Political Turn (2004-2009)
+
+### 4. 《脆弱生命》（2004）/ *Precarious Life: The Powers of Mourning and Violence*
+9·11事件后的政治哲学著作。巴特勒分析了可哀悼性（grievability）的政治——谁的生命丧失被视为悲剧，谁的生命丧失被视为"附带损害"。她主张脆弱性（precarity）作为全球伦理的基础——承认我们对他者生命的脆弱性依赖。
+
+### 5. 《消解性别》（2004）/ *Undoing Gender*
+论文集，将性别展演理论应用于跨性别、双性人和非二元性别问题。巴特勒论证了"消解性别"不是消除性别，而是打破性别规范的强制性，使得更多元的生活方式成为可能。
+
+### 6. 《战争的框架》（2009）/ *Frames of War: When Is Life Grievable?*
+对《脆弱生命》的深化。分析了媒体框架（frames）如何决定哪些生命被视为"可哀悼的"、哪些被视为"不可哀悼的"。战争照片、新闻报道和人权话语都是"框架"的政治运作。
+
+---
+
+## 三、集会与联盟政治（2015—至今）/ Assembly and Alliance Politics (2015-present)
+
+### 7. 《走向展演性集会理论》（2015）/ *Notes Toward a Performative Theory of Assembly*
+将展演性理论扩展到集体行动领域。巴特勒论证了身体在公共空间中的集体出现本身就是一种"展演性"行动——不需要言语就已经在宣示存在的权利。"占领"运动、静坐和游行都是"身体的展演性"的体现。
+
+### 8. 《脆弱的联盟》（2020s）
+延续集会理论的思考，分析不同弱势群体之间如何建立团结和联盟——在差异中寻求共同行动的可能性。

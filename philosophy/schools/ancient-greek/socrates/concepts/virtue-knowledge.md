@@ -1,0 +1,130 @@
+---
+id: virtue-knowledge
+title: 德性即知识 · Virtue is Knowledge
+type: concept
+parent: socrates
+domain: philosophy
+tags:
+  - ethics
+  - epistemology
+  - moral-psychology
+---
+
+# 德性即知识 · Virtue is Knowledge
+
+> "如果德性不是知识，它就不可能被教授。" — 《美诺篇》87c
+>
+> "If virtue is not knowledge, it cannot be taught." — *Meno* 87c
+
+---
+
+## 定义 Definition
+
+"德性即知识"（Virtue is Knowledge）是苏格拉底伦理学的核心命题，主张：真正的道德德性（aretē）本质上是一种知识（epistēmē）——即对"善"的真知。这一命题包含两个方向：（1）拥有善的知识就必然行善（充分条件）；（2）没有善的知识就不可能行善（必要条件）。由此推出一个激进结论：不存在"明知故犯"（akrasia，意志软弱）。
+
+"Virtue is Knowledge" is the central thesis of Socratic ethics, claiming that genuine moral virtue (*aretē*) is essentially a form of knowledge (*epistēmē*)—true knowledge of the good. This thesis operates bidirectionally: (1) possessing knowledge of the good necessarily leads to doing good (sufficient condition); (2) without knowledge of the good, doing good is impossible (necessary condition). This yields a radical conclusion: *akrasia* (weakness of will, knowingly doing wrong) does not exist.
+
+---
+
+## 论证结构 Argumentative Structure
+
+### 主论证 The Main Argument
+
+1. 所有人追求幸福（eudaimonia）。
+   All people seek happiness (*eudaimonia*).
+2. 幸福在于灵魂的良好状态，即德性。
+   Happiness consists in the good state of the soul, i.e., virtue.
+3. 灵魂的良好状态取决于正确的判断和选择。
+   The good state of the soul depends on correct judgment and choice.
+4. 正确的判断和选择需要对"什么是善"的真知。
+   Correct judgment and choice require true knowledge of what is good.
+5. 因此，德性 = 关于善的知识。
+   Therefore, virtue = knowledge of the good.
+
+### 对"意志软弱"的否认 Denial of Akrasia
+
+常识告诉我们，人们常常"明知故犯"——知道吸烟有害却继续吸烟，知道应该诚实却撒谎。苏格拉底的回应是：
+
+Common sense tells us people often act against their better judgment—knowing smoking is harmful yet continuing, knowing one should be honest yet lying. Socrates responds:
+
+- 当一个人在"明知"的情况下做出"错误"的选择时，他实际上并不真正"知道"善。他的"知"只是表面意见（doxa），而非深刻真知（epistēmē）。
+- 真正的知识具有动机性力量——如果你真正知道 X 对你有益，你不可能选择非 X。
+- 表面上的"意志软弱"实际上是"知识不足"——对善恶的计量出现了错误（《普罗泰戈拉篇》中的"快乐计量术"）。
+
+- When someone makes a "wrong" choice while supposedly "knowing better," they do not truly *know* the good. Their "knowledge" is merely superficial opinion (*doxa*), not deep knowledge (*epistēmē*).
+- True knowledge has motivational force—if you genuinely know X benefits you, you cannot choose non-X.
+- Apparent "weakness of will" is actually "insufficient knowledge"—an error in the hedonic calculus (*Protagoras*, the "art of measurement").
+
+---
+
+## 五种德性的统一 Unity of the Five Virtues
+
+苏格拉底在《普罗泰戈拉篇》中进一步主张五种德性——智慧（sophia）、勇气（andreia）、节制（sōphrosynē）、正义（dikaiosynē）和虔敬（hosiotēs）——本质上是同一个东西（即关于善恶的知识）的不同名称。这被称为"德性统一论"（Unity of Virtue）。
+
+In the *Protagoras*, Socrates further argues that the five virtues—wisdom (*sophia*), courage (*andreia*), temperance (*sōphrosynē*), justice (*dikaiosynē*), and piety (*hosiotēs*)—are essentially different names for the same thing (knowledge of good and evil). This is known as the "Unity of Virtue" thesis.
+
+这一论点引发了学界的持续争论：
+- **强统一论**（Vlastos）：五种德性在定义上完全相同。
+- **弱统一论**（Penner）：五种德性是不可分离地相互蕴含的。
+- **相似论**（亚里士多德的批评）：德性有共性但各有独特的定义。
+
+This thesis has generated sustained scholarly debate:
+- **Strong unity** (Vlastos): The five virtues are definitionally identical.
+- **Weak unity** (Penner): The five virtues are inseparably mutually entailing.
+- **Similarity thesis** (Aristotle's criticism): Virtues share commonalities but have distinct definitions.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与王阳明"知行合一" Dialogue with Wang Yangming's "Unity of Knowledge and Action"
+
+苏格拉底"德性即知识"与王阳明"知行合一"之间存在深刻的平行关系。王阳明说"知而不行，只是未知"——这与苏格拉底否认 akrasia 的逻辑完全一致：真正的"知"必然包含"行"的力量。两者都将"知"理解为一种深层的、存在性的认知，而非表面的信息掌握。
+
+然而，关键差异在于：苏格拉底的"知"侧重理性认知（intellectual knowledge），而王阳明的"知"更侧重良知（innate moral knowing, liáng zhī）——一种先于理性推理的道德直觉。
+
+Socrates' "virtue is knowledge" parallels Wang Yangming's "unity of knowledge and action" (*zhī xíng hé yī*). Wang states "knowing without acting is not truly knowing"—logically identical to Socrates' denial of akrasia. Both understand "knowing" as deep, existential cognition rather than superficial information.
+
+However, a key difference: Socratic "knowledge" emphasizes rational cognition (*intellectual knowledge*), while Wang Yangming's "knowing" emphasizes *liáng zhī* (innate moral knowing)—a moral intuition prior to rational reasoning.
+
+### 与唯识学"种子说" Dialogue with Yogācāra Bīja Theory
+
+唯识学的"种子"（bīja）理论可以被视为对苏格拉底命题的一种深层心理学补充。唯识学认为，善行不仅需要"知识"（闻思修的慧），还需要善的种子（善根）在阿赖耶识中的积累。这暗示"德性即知识"可能是不完整的——除了认知维度，德性还需要情感-意志维度的"种子"培养。
+
+Yogācāra's *bīja* (seed) theory can be seen as a deep psychological supplement to the Socratic thesis. Yogācāra holds that virtuous action requires not only "knowledge" (wisdom from hearing, thinking, and cultivating) but also the accumulation of wholesome seeds (*kuśala-mūla*) in the *ālaya-vijñāna* (store consciousness). This suggests "virtue is knowledge" may be incomplete—beyond the cognitive dimension, virtue also requires "seed cultivation" in the affective-volitional dimension.
+
+---
+
+## 批评与局限 Criticisms and Limitations
+
+1. **亚里士多德的批评**：亚里士多德区分了理智德性（dianoetic virtue）与品格德性（ethical virtue），认为后者通过习惯养成而非知识传授获得。"知道正义"不等于"成为正义的人"。
+
+   **Aristotle's criticism**: Aristotle distinguishes intellectual virtue (*dianoetic*) from moral virtue (*ethical*), arguing the latter is acquired through habituation, not knowledge transmission. "Knowing justice" does not equal "being just."
+
+2. **情感主义批评**：现代情感主义伦理学（如 Hume）认为道德行为的动机来自情感（sentiment），而非理性认知。一个知道"应该"做某事但缺乏相应情感的人不会行动。
+
+   **Sentimentalist criticism**: Modern sentimentalist ethics (e.g., Hume) holds that moral motivation comes from sentiment, not rational cognition. A person who knows they "should" act but lacks the corresponding feeling will not act.
+
+3. **神经科学挑战**：现代神经科学中的"双过程理论"表明，道德判断往往由快速的情感直觉驱动（Haidt 的社会直觉主义模型），而非经过理性推理。
+
+   **Neuroscience challenge**: Dual-process theory in neuroscience suggests moral judgments are often driven by rapid affective intuitions (Haidt's social intuitionist model) rather than rational deliberation.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **道德教育**：苏格拉底的理智主义启发了"品格教育"（character education）中的认知维度——通过讨论道德两难问题来培养学生的道德判断力（Kohlberg 的道德发展阶段论）。
+- **AI 伦理**：在 AI 对齐（alignment）研究中，"知道善"是否足以"做善事"的问题被重新提出——一个知道人类价值的 AI 是否会自动遵循这些价值？
+
+- **Moral education**: Socratic intellectualism inspired the cognitive dimension of "character education"—cultivating moral judgment through discussion of moral dilemmas (Kohlberg's stages of moral development).
+- **AI ethics**: In AI alignment research, the question "does knowing the good suffice for doing the good?" is revived—will an AI that knows human values automatically follow them?
+
+---
+
+## 相关条目 Related Entries
+
+- [审视的人生 Examined Life](examined-life.md)
+- [反驳术 Elenchus](elenchus.md)
+- [柏拉图 · 灵魂三分](../plato/concepts/tripartite-soul.md)
+- [亚里士多德 · 德性伦理](../aristotle/concepts/virtue-ethics.md)
+- [苏格拉底 · 苏格拉底](../README.md)

@@ -1,0 +1,70 @@
+---
+id: dennett-timeline
+title: 丹尼特生平年表 · Daniel Dennett Biography Timeline
+type: timeline
+domain: philosophy
+school: analytic
+thinker: dennett
+tags: [dennett, timeline, biography]
+cross-refs:
+  - id: dennett
+    relation: thinker
+---
+
+# 丹尼特生平年表 · Daniel Dennett Biography Timeline
+
+## 早年与学术训练（1942–1970）
+
+| 年份 | 事件 |
+|------|------|
+| 1942.3.28 | 生于美国马萨诸塞州波士顿，学者家庭（父亲为历史学家） |
+| 1959 | 进入哈佛大学学习哲学 |
+| 1963 | 获哈佛大学学士学位（导师：W.V.O. Quine） |
+| 1963–1965 | 赴英国牛津大学攻读博士（导师：Gilbert Ryle） |
+| 1965 | 获牛津大学博士学位（DPhil） |
+| 1965–1971 | 在塔夫茨大学（Tufts University）开始任教 |
+| 1969 | 出版首部专著 *Content and Consciousness* |
+
+## 意向立场与心灵哲学（1971–1990）
+
+| 年份 | 事件 |
+|------|------|
+| 1971 | 发表 "Intentional Systems"——意向立场的最初阐述 |
+| 1978 | 出版 *Brainstorms*——心灵哲学论文集，确立学术地位 |
+| 1981 | 与侯世达（Hofstadter）合编 *The Mind's I*——心智哲学经典文集 |
+| 1984 | 出版 *Elbow Room*——自由意志相容论 |
+| 1985 | 创立塔夫茨大学认知研究中心（Center for Cognitive Studies） |
+| 1987 | 出版 *The Intentional Stance*——系统阐述意向立场 |
+
+## 意识革命与公众影响力（1991–2006）
+
+| 年份 | 事件 |
+|------|------|
+| 1991 | 出版 *Consciousness Explained*——多重草稿模型，引发巨大争议 |
+| 1995 | 出版 *Darwin's Dangerous Idea*——进化论作为"万能酸" |
+| 1996 | 出版 *Kinds of Minds*——意识的层次 |
+| 1997 | 获吉恩-尼科德奖（Jean Nicod Prize） |
+| 2001 | 发表 "Are We Explaining Consciousness Yet?" |
+| 2003 | 出版 *Freedom Evolves*——自由意志与进化 |
+| 2006 | 出版 *Breaking the Spell*——宗教的自然主义解释 |
+| 2006 | 被列为"新无神论四骑士"之一（与道金斯、哈里斯、希钦斯并列） |
+
+## 晚年与持续影响（2006–2024）
+
+| 年份 | 事件 |
+|------|------|
+| 2013 | 出版 *Intuition Pumps and Other Tools for Thinking*——哲学方法论 |
+| 2017 | 出版 *From Bacteria to Bach and Back*——文化进化与理解 |
+| 2019 | 发表关于AI意识的多篇重要论文 |
+| 2022 | 与Anna Pakes合著 *The Big Questions: Philosophy* |
+| 2023 | 出版 *I've Been Thinking*——回忆录 |
+| 2024.4.19 | 在缅因州波特兰去世，享年82岁 |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 学术训练 | 1942–1970 | 哈佛、牛津、奎因、赖尔 |
+| 意向立场 | 1971–1990 | 功能主义、意向系统 |
+| 意识革命 | 1991–2006 | 多重草稿、进化、无神论 |
+| 晚年综合 | 2006–2024 | 文化进化、AI、方法论 |

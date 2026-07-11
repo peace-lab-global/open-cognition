@@ -1,0 +1,137 @@
+---
+id: bowlby-john.secure-base
+title: "安全基地 · Secure Base"
+type: concept
+domain: psychology
+thinker: bowlby-john
+tags:
+  - 安全基地
+  - 探索行为
+  - 治疗关系
+  - 心理健康
+  - secure-base
+  - exploratory-behaviour
+  - therapeutic-relationship
+  - mental-health
+---
+
+# 安全基地 · Secure Base
+
+## 定义 / Definition
+
+**安全基地**（Secure Base）是鲍尔比依恋理论中的核心隐喻，指可靠的照顾者为儿童提供的一个"基地"——儿童从这个基地出发自信地探索外部世界，在遭遇威胁、挫折或疲劳时返回寻求安慰和庇护，然后再次出发探索。安全基地不是限制儿童的"安全港"，而是使自由探索成为可能的心理和物理支撑点。
+
+**Secure Base** is a central metaphor in Bowlby's attachment theory, referring to a "base" provided by a reliable caregiver — from which the child confidently explores the external world, returns to seek comfort and shelter when threatened, frustrated, or fatigued, and then sets out to explore again. The secure base is not a restrictive "safe haven" but a psychological and physical point of support that makes free exploration possible.
+
+鲍尔比在1988年的同名著作《安全基地》中写道："我们所有人，从摇篮到坟墓，最幸福的生活安排是将生活组织为一系列从安全基地出发的短途或长途探索之旅。"
+
+Bowlby wrote in his 1988 book of the same title: "All of us, from cradle to grave, are happiest when life is organized as a series of excursions, long or short, from the secure base provided by our attachment figures."
+
+## 核心机制 / Core Mechanism
+
+### 安全基地的双重功能 / Dual Function of the Secure Base
+
+安全基地同时承担两种互补的功能：
+
+The secure base simultaneously serves two complementary functions:
+
+1. **安全港（Safe Haven）**：当儿童感到威胁、恐惧、疲劳或痛苦时，返回依恋对象处寻求安慰和保护。依恋对象通过温暖的拥抱、安抚的语言和共情的回应，帮助儿童恢复情绪平衡。 / When the child feels threatened, fearful, fatigued, or distressed, they return to the attachment figure for comfort and protection. Through warm embraces, soothing words, and empathic responses, the attachment figure helps the child restore emotional balance.
+
+2. **安全基地（Secure Base for Exploration）**：当儿童感到安全和被支持时，依恋对象的存在为其提供了"心理平台"，使其能够自信地探索新环境、尝试新行为、发展认知和社会能力。 / When the child feels safe and supported, the attachment figure's presence provides a "psychological platform" enabling confident exploration of new environments, experimentation with new behaviours, and development of cognitive and social competencies.
+
+这两种功能之间的动态转换构成了健康发展的核心节奏：探索 → 遇到挑战 → 返回安全港 → 获得安慰 → 再次出发探索。这个循环在一天内可能发生数十次，每一次成功的循环都加强了儿童的安全感和探索能力。
+
+The dynamic alternation between these two functions constitutes the core rhythm of healthy development: exploration → encounter challenge → return to safe haven → receive comfort → set out to explore again. This cycle may occur dozens of times in a single day, and each successful cycle strengthens the child's sense of security and exploratory capacity.
+
+### 照顾者敏感性的作用 / Role of Caregiver Sensitivity
+
+安全基地功能的实现取决于照顾者的**敏感性**（sensitivity）——即照顾者能否准确感知和解读儿童的信号（如哭声、眼神、肢体语言），并做出及时、恰当的回应。安斯沃思的研究表明，高敏感性的照顾者的儿童更可能发展出安全型依恋。
+
+The realisation of secure base function depends on the caregiver's **sensitivity** — the ability to accurately perceive and interpret the child's signals (crying, gaze, body language) and respond promptly and appropriately. Ainsworth's research demonstrated that children of highly sensitive caregivers are more likely to develop secure attachment.
+
+重要的是，敏感性不等于完美——温尼科特的"足够好的母亲"（good-enough mother）概念提醒我们，照顾者只需要在**大多数时候**能够敏感地回应，偶尔的失误是可以被容忍的，甚至可以促进儿童的适应性发展。
+
+Importantly, sensitivity does not mean perfection — Winnicott's "good-enough mother" concept reminds us that caregivers need only respond sensitively **most of the time**; occasional failures are tolerable and can even promote adaptive development.
+
+## 发展脉络 / Development
+
+### 从婴儿到成人的安全基地 / Secure Base from Infancy to Adulthood
+
+安全基地的概念并非仅适用于婴儿期。鲍尔比明确指出，安全基地需要贯穿整个生命周期，只是安全基地的"提供者"会随发展阶段而变化：
+
+The secure base concept is not confined to infancy. Bowlby explicitly stated that the need for a secure base persists throughout the lifespan, though the "provider" of the secure base changes across developmental stages:
+
+- **婴儿期/幼儿期**：父母或主要照顾者 / Infancy/early childhood: parents or primary caregivers
+- **儿童中期**：父母、教师、同伴 / Middle childhood: parents, teachers, peers
+- **青少年期**：同伴群体、导师、恋人 / Adolescence: peer groups, mentors, romantic partners
+- **成年期**：伴侣、密友、治疗师 / Adulthood: partners, close friends, therapists
+- **老年期**：伴侣、子女、社区 / Late adulthood: partners, children, community
+
+### 安全基地在心理治疗中的角色 / Secure Base in Psychotherapy
+
+鲍尔比在晚年特别强调心理治疗师作为"安全基地"的功能。在治疗关系中，治疗师为来访者提供一个安全的情感空间，使来访者能够：
+
+In his later years, Bowlby particularly emphasized the psychotherapist's function as "secure base." In the therapeutic relationship, the therapist provides the client with a safe emotional space, enabling the client to:
+
+1. 探索痛苦的内在经验（记忆、情感、冲突），而不被其淹没 / Explore painful inner experiences (memories, emotions, conflicts) without being overwhelmed
+2. 检验和修正不适应的内部工作模型 / Test and revise maladaptive internal working models
+3. 发展新的关系模式——在治疗关系中体验到"被接纳、被理解"的感受，然后将这种感受内化 / Develop new relational patterns — experiencing "being accepted, being understood" in the therapeutic relationship, then internalising this experience
+
+苏·约翰逊（Sue Johnson）的情绪聚焦治疗（EFT）和彼得·福纳吉（Peter Fonagy）的心智化治疗（MBT）都直接以安全基地概念作为治疗框架的核心。
+
+Sue Johnson's Emotionally Focused Therapy (EFT) and Peter Fonagy's Mentalization-Based Treatment (MBT) both directly centre the secure base concept in their therapeutic frameworks.
+
+## 临床应用 / Clinical Applications
+
+### 评估工具 / Assessment Instruments
+
+安全基地功能可以通过多种工具进行评估：
+
+Secure base function can be assessed through multiple instruments:
+
+- **陌生情境实验（Strange Situation）**：观察12-18个月婴儿在分离和重聚情境中是否利用照顾者作为安全基地 / Observing whether 12-18 month infants use the caregiver as a secure base during separation and reunion
+- **依恋Q分类（Attachment Q-Sort）**：通过家庭观察评估安全基地行为的连续维度 / Assessing secure base behaviour as a continuous dimension through home observation
+- **安全基地脚本评估（Secure Base Script Assessment）**：通过叙事任务评估个体的安全基地表征质量 / Assessing the quality of secure base representations through narrative tasks
+- **成人依恋访谈（AAI）**：评估成人的依恋状态及其作为安全基地的能力 / Assessing adult attachment state and their capacity to serve as a secure base
+
+### 养育干预 / Parenting Interventions
+
+基于安全基地概念的养育干预项目包括：
+
+Parenting intervention programmes based on the secure base concept include:
+
+- **视频反馈干预（VIPP）**：通过录像回放帮助父母提高对儿童信号的敏感性 / Using video playback to help parents increase sensitivity to children's signals
+- **Circle of Security**：帮助父母理解儿童的依恋需要，识别自己在提供安全基地时的困难 / Helping parents understand children's attachment needs and identify their own difficulties in providing a secure base
+- **依恋与生物行为追赶干预（ABC）**：针对高风险家庭的婴儿，帮助父母提供敏感和滋养的照顾 / Targeting infants in high-risk families, helping parents provide sensitive and nurturing care
+
+## 与其他概念的关联 / Related Concepts
+
+- [依恋理论（Attachment Theory）](attachment-theory.md)：安全基地是依恋理论的核心隐喻
+- [内部工作模型（Internal Working Models）](internal-working-models.md)：安全基地经验塑造了关于"他人是否可靠"的工作模型
+- [分离焦虑（Separation Anxiety）](separation-anxiety.md)：安全基地缺失时的典型反应
+- [母性剥夺（Maternal Deprivation）](maternal-deprivation.md)：安全基地长期缺失的极端后果
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+安全基地概念与中国文化中"家"作为精神港湾的意象存在深层共鸣。中国传统中的"家"不仅是物理居所，更是一个提供心理安全感、归属感和身份认同的精神基地——个体从"家"出发闯荡世界，在困难时"回家"寻求庇护。这与安全基地"出发探索—返回安慰—再次出发"的循环结构高度吻合。
+
+The secure base concept resonates deeply with the Chinese cultural image of "home" (jia) as a spiritual harbour. In Chinese tradition, "home" is not merely a physical dwelling but a psychological base providing security, belonging, and identity — the individual sets out from "home" to venture into the world, returning "home" for shelter in times of difficulty. This closely mirrors the secure base cycle of "setting out to explore — returning for comfort — setting out again."
+
+然而，中国文化中"家"的安全基地功能也可能带有过度保护的面向——"父母在，不远游"的古训暗示了一种限制探索的安全基地模式。这与鲍尔比理想中"鼓励探索的安全基地"形成了有张力的对话：安全基地应该既提供安全感，又支持自主性和探索——过度保护（"直升机式养育"）实际上损害了安全基地的功能。
+
+However, the secure base function of "home" in Chinese culture may also carry an overprotective dimension — the ancient maxim "When parents are alive, do not travel far" suggests a secure base model that restricts exploration. This creates a productive tension with Bowlby's ideal of a "secure base that encourages exploration": the secure base should both provide security and support autonomy and exploration — overprotection ("helicopter parenting") actually impairs secure base function.
+
+在佛教传统中，"皈依"（taking refuge）的概念——皈依佛、法、僧三宝——可以被理解为一种精神层面的安全基地。修行者以三宝为"依怙"，从安全的精神基地出发探索内心世界和修行之道。这与安全基地的"安全港"功能（在困难时返回寻求庇护）形成了跨文化的呼应。
+
+In the Buddhist tradition, the concept of "taking refuge" — in the Buddha, Dharma, and Sangha — can be understood as a spiritual-level secure base. The practitioner takes the Three Jewels as "refuge," exploring the inner world and the path of practice from a secure spiritual base. This creates a cross-cultural echo with the secure base's "safe haven" function (returning for shelter in times of difficulty).
+
+## 进阶阅读 / Further Reading
+
+- Bowlby, J. *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books, 1988.
+- Ainsworth, M.D.S. et al. *Patterns of Attachment*. Hillsdale, NJ: Erlbaum, 1978.
+- Marvin, R.S. & Britner, P.A. "Normative Development: The Ontogeny of Attachment." In Cassidy & Shaver, eds., *Handbook of Attachment*. 3rd ed. Guilford Press, 2016.
+- Johnson, S. *The Practice of Emotionally Focused Couple Therapy*. 2nd ed. New York: Brunner-Routledge, 2004.
+
+← 返回 [约翰·鲍尔比 · John Bowlby](../README.md)

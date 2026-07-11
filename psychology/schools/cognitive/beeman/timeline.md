@@ -1,0 +1,99 @@
+---
+id: psychology.cognitive.beeman.timeline
+title: "比曼年谱 · Mark Beeman Timeline"
+type: timeline
+parent: psychology.cognitive.beeman
+tags: [年谱, timeline, 生平, biography, 顿悟研究]
+---
+
+# 比曼年谱 · Mark Beeman Timeline
+
+> Mark Beeman 的生平与学术发展年谱。
+>
+> A chronological record of Mark Beeman's life and academic development.
+
+---
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| c. 1960 | 出生于美国 / Born in the United States |
+| 1980s | 本科就读，主修心理学或认知科学（具体学校待考）/ Undergraduate studies in psychology or cognitive science (specific institution TBC) |
+| late 1980s | 攻读博士学位，研究方向为右脑在语言处理中的角色 / Doctoral studies focused on the right hemisphere's role in language processing |
+| early 1990s | 获得博士学位 / Received doctoral degree |
+
+---
+
+## 右脑语义处理研究期 / Right Hemisphere Semantic Processing Phase (1990s–2003)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1993 | 发表早期右脑语义处理研究论文 / Published early research papers on right hemisphere semantic processing |
+| 1994 | 进一步阐述右脑在词汇语义处理中的贡献 / Further articulated the right hemisphere's contribution to lexical semantic processing |
+| 1998 | 与 Edward Bowden 合作发表 "Coarse semantic coding"——提出右脑粗编码理论，区分左右半球的语义处理策略 / Co-published "Coarse semantic coding" with Edward Bowden — proposed the right hemisphere coarse coding theory, distinguishing left and right hemisphere semantic processing strategies |
+| 1998 | 与 Bowden 发表 "Getting the right idea"——首次将右脑语义理论应用于顿悟问题解决研究 / Published "Getting the right idea" with Bowden — first application of right hemisphere semantic theory to insight problem-solving |
+| 1998 | 与 Christine Chiarello 共同编辑 *Right Hemisphere Language Comprehension* 研究文集 / Co-edited *Right Hemisphere Language Comprehension* with Christine Chiarello |
+
+---
+
+## 顿悟神经机制研究期 / Insight Neuroscience Phase (2004–2011)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2001–2003 | 开始与 Drexel 大学的 John Kounios 合作，将 EEG 和 fMRI 技术引入顿悟研究 / Began collaborating with John Kounios at Drexel University, introducing EEG and fMRI techniques to insight research |
+| 2004 | 在 *PLoS Biology* 发表里程碑论文 "Neural Activity When People Solve Verbal Problems with Insight"——首次报告顿悟时刻右 aSTG 的 γ 波爆发 / Published landmark paper in *PLoS Biology* — first report of the gamma burst in the right aSTG during insight |
+| 2006 | 在 *Psychological Science* 发表 "The Prepared Mind"——揭示顿悟前的大脑准备状态，发现可预测顿悟的神经活动模式 / Published "The Prepared Mind" in *Psychological Science* — revealed the brain's preparatory state before insight, discovering neural patterns predictive of insight |
+| 2008 | 在 *Scientific American Mind* 发表面向公众的 "The Creative Brain" / Published "The Creative Brain" in *Scientific American Mind* for the general public |
+| 2009 | 在 *Current Directions in Psychological Science* 发表综述 "The Aha! Moment: The Cognitive Neuroscience of Insight"——系统总结顿悟神经科学研究 / Published the review "The Aha! Moment" — systematic summary of insight neuroscience |
+| 2011 | 继续发表行为与电生理数据整合的研究 / Continued publishing research integrating behavioral and electrophysiological data |
+
+---
+
+## 整合与公众传播期 / Integration and Public Engagement Phase (2012–present)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2012–2014 | 整理研究成果，撰写面向公众的科普著作 / Consolidated research findings and wrote a popular science book for the general public |
+| 2015 | 与 Kounios 合著 *The Eureka Factor: Aha! Moments, Creative Insight, and the Brain* 出版——将实验室发现转化为日常可应用的创造力科学 / Co-authored *The Eureka Factor* with Kounios — translating laboratory findings into everyday applicable creativity science |
+| 2015–2016 | 围绕 *The Eureka Factor* 进行系列公众讲座和媒体采访 / Conducted a series of public lectures and media interviews around *The Eureka Factor* |
+| 2016–present | 继续任教于西北大学心理学系，研究顿悟的个体差异及顿悟与心理健康的关系 / Continued teaching at Northwestern University's Department of Psychology, researching individual differences in insight and the relationship between insight and mental health |
+
+---
+
+## 学术里程碑 / Academic Milestones
+
+```
+1993 ──── 右脑语义研究起步
+            └─ Right hemisphere semantic research begins
+
+1998 ──── 粗编码理论 + 顿悟-右脑联系确立
+            ├─ Coarse coding theory established
+            └─ Insight–right hemisphere link established
+
+2004 ──── 顿悟 γ 波信号首次发现（里程碑）
+            └─ Insight gamma signal first discovered (milestone)
+
+2006 ──── 顿悟前准备状态发现
+            └─ Pre-insight preparatory state discovered
+
+2009 ──── "The Aha! Moment" 综述发表
+            └─ "The Aha! Moment" review published
+
+2015 ──── *The Eureka Factor* 出版
+            └─ Public engagement milestone
+```
+
+---
+
+## 合作网络 / Collaboration Network
+
+| 合作者 / Collaborator | 机构 / Institution | 合作内容 / Collaboration |
+|---|---|---|
+| John Kounios | Drexel University | 顿悟神经机制系列研究（2004–2015）/ Insight neuroscience series |
+| Edward Bowden | University of Wisconsin-Parkside | 粗编码与顿悟问题解决（1998）/ Coarse coding and insight problem-solving |
+| Christine Chiarello | University of California, Riverside | 右脑语言理解文集编辑（1998）/ Right hemisphere language comprehension anthology |
+
+---
+
+**相关条目 / See Also**: [README](README.md) · [著作年表](works.md) · [进阶阅读](reading-list.md)

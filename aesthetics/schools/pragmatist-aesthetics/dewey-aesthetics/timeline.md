@@ -1,0 +1,47 @@
+---
+id: dewey-timeline
+title: 杜威思想年表 · Dewey Timeline
+type: timeline
+domain: aesthetics
+school: pragmatist-aesthetics
+thinker: dewey
+tags: [dewey, timeline, biography, pragmatism]
+cross-refs:
+  - id: dewey
+    relation: thinker
+---
+
+# 杜威思想年表 · Dewey Timeline
+
+## 早年 · 1859–1884
+
+- **1859** 10月20日生于佛蒙特州伯灵顿，普通家庭
+- **1875–1879** 就读佛蒙特大学，受黑格尔主义影响
+- **1879–1882** 在中学教书，同时自学哲学
+- **1882–1884** 约翰·霍普金斯大学攻读哲学博士
+
+## 学术生涯 · 1884–1930
+
+- **1884** 获博士学位，任密歇根大学讲师
+- **1894** 转至芝加哥大学，创办实验学校
+- **1904** 转至哥伦比亚大学，直至退休
+- **1916** 出版《民主与教育》
+- **1925** 出版《经验与自然》
+
+## 美学与晚年 · 1930–1952
+
+- **1934** 出版**《艺术即经验》**
+- **1938** 出版《经验与教育》《逻辑：探究的理论》
+- **1952** 6月1日在纽约去世
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|---|---|---|
+| 早年 | 1859–1884 | 黑格尔主义、实用主义转向 |
+| 中期 | 1884–1930 | 教育哲学、经验哲学 |
+| 晚期 | 1930–1952 | 美学、政治参与 |
+
+## 进阶阅读
+- Dykhuizen, George. *The Life and Mind of John Dewey* (1973)
+- Westbrook, Robert. *John Dewey and American Democracy* (1991)

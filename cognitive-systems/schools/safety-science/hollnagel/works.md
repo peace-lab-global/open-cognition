@@ -1,0 +1,29 @@
+---
+id: cognitive-systems.safety-science.hollnagel-works
+title: 霍纳格尔作品总览
+type: works-catalogue
+domain: cognitive-systems
+school: safety-science
+thinker: hollnagel
+tags: [hollnagel, works, safety-II]
+cross-refs: [{id: hollnagel, relation: thinker}]
+---
+
+# 霍纳格尔作品总览
+
+## 核心著作
+| 年份 | 书名 | 出版社 | 核心贡献 |
+|------|------|--------|----------|
+| 1993 | *Human Reliability Analysis* (与Dougherty) | Academic Press | 人可靠性分析教材 |
+| 1998 | *CREAM: Cognitive Reliability and Error Analysis Method* | Pergamon | CREAM方法论 |
+| 2004 | *Barriers and Accident Prevention* | Ashgate | 屏障理论批判 |
+| 2006 | *Resilience Engineering* (与Woods, Leveson合编) | Ashgate | 韧性工程奠基 |
+| 2009 | *The ETTO Principle* | Ashgate | ETTO原则系统阐述 |
+| 2012 | *FRAM: The Functional Resonance Analysis Method* | Ashgate | FRAM方法论 |
+| 2014 | *Safety-I and Safety-II* | Ashgate | Safety-II范式转换 |
+| 2018 | *Safety-II in Practice* | CRC Press | Safety-II实践指南 |
+
+## 阅读路径
+**入门**: *Safety-I and Safety-II* 第1-5章 → *The ETTO Principle* 前两章
+**进阶**: *FRAM* → *Safety-II in Practice* → CREAM (1998)
+**深潜**: 全部著作 → 韧性工程会议论文集 → FRAM应用案例研究

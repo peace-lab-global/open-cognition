@@ -1,0 +1,34 @@
+---
+id: popper-reading-list
+title: 波普尔进阶阅读 · Popper Reading List
+type: reading-list
+thinker: popper
+domain: philosophy
+school: analytic
+---
+# 波普尔进阶阅读 / Popper Advanced Reading List
+
+## 原典阅读路径 / Primary Reading Path
+### 入门 / Introductory
+1. *Conjectures and Refutations* 第1章 — 科学与伪科学的划界
+2. *The Logic of Scientific Discovery* 第1-4章 — 证伪主义基础
+3. *The Open Society* 导论 — 政治哲学入门
+
+### 进阶 / Intermediate
+4. *The Poverty of Historicism* — 历史决定论批判全文
+5. *Objective Knowledge* — 三个世界理论
+
+### 高级 / Advanced
+6. *Realism and the Aim of Science* (Postscript) — 倾向性解释
+7. *The Self and Its Brain* — 心身问题
+
+## 二手研究 / Secondary Literature
+- Bryan Magee, *Philosophy and the Real World* (1985) — 最佳入门导论
+- David Miller, *Critical Rationalism* (1994) — 批判理性主义的系统阐述
+- Ian Jarvie & Storm, *The Philosophy of Karl Popper* (1984)
+
+## 中文资源 / Chinese Resources
+- 《科学发现的逻辑》（商务印书馆）
+- 《开放社会及其敌人》（中国社会科学出版社）
+- 《猜想与反驳》（上海译文出版社）
+- 《客观知识》（上海译文出版社）

@@ -1,0 +1,152 @@
+---
+id: beckett-reading-list
+title: 贝克特进阶阅读 · Beckett Reading List
+type: reading-list
+domain: literature
+school: dramatists
+thinker: beckett
+tags: [beckett, bibliography, reading-guide, absurdist-theatre, minimalism]
+cross-refs:
+  - id: beckett
+    relation: thinker
+---
+
+# 贝克特进阶阅读 · Beckett Reading List
+
+## 一、阅读路径
+
+### 入门（2 篇，3 小时）
+1. 《等待戈多》— 完整阅读（约 1.5 小时）
+2. 《克拉普的最后一部录音带》— 完整阅读（约 30 分钟）
+
+### 进阶（3 部，10 小时）
+3. 《终局》— 末日室内剧
+4. 《啊，美好的日子》— 被掩埋中的乐观
+5. 《无名之人》开篇 + 结尾段落
+
+### 深潜（全部核心作品 + 批评）
+6. "三部曲"全部（《莫洛伊》《马隆之死》《无名之人》）
+7. 晚期短剧（《不是我》《脚步》《摇滚摇篮曲》）
+8. 艾斯林《荒诞派戏剧》
+9. 德勒兹《耗尽》（*L'Épuisé*）
+10. 诺尔森《被判名声》（Knowlson 传记）
+
+## 二、原典（必读）
+
+### 核心剧作
+- *Waiting for Godot* (1953) — 等待即存在
+- *Endgame* (1957) — 末日室内剧
+- *Krapp's Last Tape* (1958) — 时间与记忆
+- *Happy Days* (1961) — 被掩埋中的乐观
+- *Not I* (1972) — 自我的碎片化
+
+### 核心小说
+- *Molloy* (1951) — 叙事与自我的解体
+- *Malone Dies* (1951) — 濒死者的叙述
+- *The Unnamable* (1953) — "I can't go on, I'll go on"
+
+### 重要散文
+- *Murphy* (1938) — 首部小说
+- *Watt* (1953) — 语言的穷举
+- *Worstward Ho* (1983) — "Fail better"
+
+### 中译本推荐
+- 施咸荣等 译《贝克特选集》（湖南文艺出版社）— 经典选译
+- 余中先 译《等待戈多》— 多种出版社
+- 《贝克特全集》（中文，湖南文艺出版社, 2016）— 最全中文版
+- 阮蓓 译《莫洛伊》（湖南文艺出版社）
+
+### 英文版本
+- **Beckett, Samuel** *The Complete Dramatic Works* (Faber & Faber) — 标准戏剧集
+- **Beckett, Samuel** *The Grove Press Edition* (多卷) — 美国标准版
+- **Beckett, Samuel** *Nohow On* (1980) — 晚期三部散文
+
+## 三、传记
+
+### 权威传记
+- **Knowlson, James** *Damned to Fame: The Life of Samuel Beckett* (1996) — **权威传记**，获授权，利用大量未公开材料
+- **Bair, Deirdre** *Samuel Beckett: A Biography* (1978) — 早期传记，获贝克特有限配合
+- **Cronin, Anthony** *Samuel Beckett: The Last Modernist* (1997) — 爱尔兰视角
+- **Oppenheim, Lois** *A Passion for Ignorance: What the Creative Arts Have Taught Me about Resilience* (2017) — 与贝克特遗友的访谈
+
+### 中文传记与介绍
+- 詹姆斯·诺尔森《贝克特传》（中文译本）
+- 柳鸣九主编《从现代主义到后现代主义》（贝克特章节）
+
+## 四、批评与研究
+
+### 经典研究
+- **Esslin, Martin** *The Theatre of the Absurd* (1961/1968/2001) — 荒诞剧场的命名之作，贝克特章节为核心
+- **Cohn, Ruby** *Back to Beckett* (1973) — 早期重要研究
+- **Kenner, Hugh** *Samuel Beckett: A Critical Study* (1961) — 经典批评
+- **Deleuze, Gilles** *L'Épuisé* ("The Exhausted", 1992) — 德勒兹论贝克特的语言与空间
+
+### 当代研究
+- **Ackerley, C.J. & S.E. Gontarski** *The Grove Companion to Samuel Beckett* (2004) — 学术参考
+- **Gontarski, S.E.** ed. *A Companion to Samuel Beckett* (2011) — 最新学术参考
+- **McMullan, Anna** *Theatre on Trial: The Later Drama of Samuel Beckett* (1993)
+- **Uhlmann, Anthony** *Samuel Beckett and the Philosophical Image* (2006) — 贝克特与哲学
+- **Clément, Bruno** *L'Oeuvre sans qualités* (1994) — 法语研究
+
+### 中文研究
+- 王雅华《"存在"之难的探询：贝克特小说创造论》
+- 曹波《贝克特小说研究》
+- 柳鸣九编《荒诞派戏剧评述》
+
+## 五、贝克特的思想源头
+
+- **乔伊斯** — 从语言的极大丰富到极小的"反动"
+- **普鲁斯特** — 记忆与时间（贝克特的普鲁斯特专著）
+- **笛卡尔** — 身心二元论
+- **叔本华** — 盲目意志与存在的徒劳
+- **但丁** — 《炼狱》中的等待状态
+- **盖伦（Geulincx）/ 偶因论** — "ubi nihil vales, ibi nihil velis"（在你无能为力的地方，你也无所意愿）
+
+## 六、贝克特的下游
+
+### 戏剧
+- **品特** — 日常对白中的威胁与沉默
+- **丘吉尔**（Caryl Churchill）— 女性主义与语言实验
+- **萨拉·凯恩** — 身体的极端表达
+- **罗密欧·卡斯特鲁奇** — 当代视觉剧场
+- **罗伯特·威尔逊** — 极简主义与时间的剧场
+
+### 哲学
+- **德勒兹** — 《耗尽》——语言、空间与身体的哲学分析
+- **阿多诺** — "理解终局"（*Versuch, das Endspiel zu verstehen*）——以贝克特对抗萨特的"介入文学"
+- **德里达** — 解构与在场/缺席
+
+### 音乐
+- **约翰·凯奇** — 《4'33"》——沉默作为艺术
+- **菲利普·格拉斯** — 极简主义音乐
+- **史蒂夫·赖希** — 重复与相移
+- **莫顿·费尔德曼** — 极端缓慢与静默
+
+### 视觉艺术
+- **贾科梅蒂** — 消瘦的人形——贝克特的友人
+- **布鲁斯·瑙曼** — 重复性身体行为
+- **极简主义雕塑** — 贾德、安德烈
+
+### 电影
+- **香特尔·阿克曼** — 极简主义电影
+- **贝拉·塔尔** — 缓慢时间与存在
+
+## 七、研究工具
+
+- **Journal of Beckett Studies** (Edinburgh University Press) — 贝克特研究专业期刊
+- **Samuel Beckett Digital Manuscript Project** — 数字化手稿
+- **Beckett on Film** — 完整的贝克特戏剧影视化项目（19 部）
+- **The Beckett International Foundation** (雷丁大学) — 贝克特研究中心
+- **The Grove Companion to Samuel Beckett** (Ackerley & Gontarski) — 学术参考
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**贝克特的精髓** | 《等待戈多》→ 艾斯林"荒诞剧场"章节 |
+| 深入**戏剧** | 《终局》→ 《克拉普》→ 《啊，美好的日子》 |
+| 理解**小说** | 《莫洛伊》→ 《马隆之死》→ 《无名之人》 |
+| 探索**哲学维度** | 《终局》→ 阿多诺论文 → 德勒兹《耗尽》 |
+| 了解**与乔伊斯的关系** | Knowlson 传记乔伊斯章节 → 《莫菲》 |
+| 探索**跨艺术影响** | 约翰·凯奇《4'33"》→ 贾科梅蒂雕塑 → 品特 |
+| **中文读者**入门 | 余中先译《等待戈多》→ 施咸荣选集 → 王雅华 |

@@ -1,0 +1,171 @@
+---
+id: rawls-reading-list
+title: "罗尔斯阅读指南 · Rawls Reading Guide"
+type: reading-list
+domain: ethics-politics
+school: social-contract
+thinker: rawls
+tags: [rawls, bibliography, reading-guide, study-guide]
+cross-refs:
+  - id: rawls
+    relation: thinker
+---
+
+# 罗尔斯阅读指南 · Rawls Reading Guide
+
+本指南为不同层次的读者提供系统的阅读路径。罗尔斯的著作虽然以清晰著称，但其论证的严密性和概念的密集度仍然要求读者有一定的哲学基础。
+
+This guide provides systematic reading paths for readers at different levels. Although Rawls's writing is renowned for its clarity, the rigor of his argumentation and the density of his concepts still require readers to have some philosophical foundation.
+
+## 一、分级阅读路径 / Graded Reading Paths
+
+### 入门级（2章，约4小时）/ Introductory (2 chapters, approx. 4 hours)
+
+**目标 / Goal**：快速掌握罗尔斯的核心框架（Quickly grasp Rawls's core framework）
+
+| 序号 | 阅读材料 | 重点 |
+|---|---|---|
+| 1 | 《正义论》第1章（§1–11）/ *A Theory of Justice*, Ch.1 | 原初状态、正义二原则、基本善 |
+| 2 | 《正义论》第3章（§20–25）/ *A Theory of Justice*, Ch.3 | 无知之幕、最大最小规则 |
+| 3 | 石元康《罗尔斯》第1–3章 / Shek, *Rawls*, Ch.1–3 | 最佳中文导读，帮助理解核心概念 |
+
+### 进阶级（3章+论文，约8小时）/ Intermediate (3 chapters + articles, approx. 8 hours)
+
+**目标 / Goal**：理解经济正义与政治转向（Understand economic justice and the political turn）
+
+| 序号 | 阅读材料 | 重点 |
+|---|---|---|
+| 4 | 《正义论》第5章（分配的份额）/ Ch.5 | 差别原则的制度应用、代际正义 |
+| 5 | 《政治自由主义》第1–2讲 / *Political Liberalism*, Lectures 1–2 | 重叠共识、合理的多元主义 |
+| 6 | "Justice as Fairness" (1958) | 原初版本，了解思想的起点 |
+| 7 | Freeman, *Rawls* (2007), Ch.1–4 | 系统导读 |
+
+### 专业级（全书+论战，约40小时）/ Advanced (complete works + debates, approx. 40 hours)
+
+**目标 / Goal**：全面掌握正义理论及其批评（Comprehensively master justice theory and its critiques）
+
+| 序号 | 阅读材料 | 重点 |
+|---|---|---|
+| 8 | 《正义论》全书（尤其第三部分"目的"）/ *AToJ* complete | 道德心理学、稳定性论证 |
+| 9 | 《政治自由主义》全书 / *PL* complete | 公共理性、政治建构主义 |
+| 10 | 《万民法》/ *Law of Peoples* | 国际正义 |
+| 11 | 诺齐克《无政府、国家与乌托邦》第7章 / Nozick, Ch.7 | 最重要的批评 |
+| 12 | 桑德尔《自由主义与正义的局限》/ Sandel | 社群主义批评 |
+| 13 | 森 "Equality of What?" (1980) / Sen | 能力进路批评 |
+
+## 二、原典（必读）/ Primary Sources (Essential)
+
+### 核心著作 / Core Works
+- ***A Theory of Justice*** (1971/1999 revised) — 正义理论的完整体系，20世纪政治哲学的基石
+- ***Political Liberalism*** (1993/2005 expanded) — 政治转向后的重构，重叠共识与公共理性
+- ***The Law of Peoples*** (1999) — 国际正义论，自由人民与合宜人民
+- ***Justice as Fairness: A Restatement*** (2001) — 最终修订版本，最精炼的理论总结
+
+### 重要论文 / Key Articles
+| 论文 | 年份 | 地位 |
+|---|---|---|
+| "Justice as Fairness" | 1958 | 核心框架的首次呈现 |
+| "Two Concepts of Rules" | 1955 | 方法论基础 |
+| "Distributive Justice" | 1967 | 差别原则的经济学阐述 |
+| "Kantian Constructivism in Moral Theory" | 1980 | 杜威讲座，建构主义转向 |
+| "Justice as Fairness: Political not Metaphysical" | 1985 | 政治转向的宣言 |
+| "The Idea of an Overlapping Consensus" | 1987 | 重叠共识的系统阐述 |
+| "The Idea of Public Reason Revisited" | 1997 | 公共理性的最终修正 |
+
+### 中译本推荐 / Recommended Chinese Translations
+| 版本 | 译者 | 出版社 | 评价 |
+|---|---|---|---|
+| 《正义论》修订版 | 何怀宏、何包钢、廖申白 | 中国社科, 2009 | 最权威中译本 |
+| 《政治自由主义》增订版 | 万俊人 | 译林, 2011 | 最完整，含重要译后记 |
+| 《作为公平的正义》 | 姚大志 | 中国社科, 2011 | 最终修订版准确翻译 |
+
+## 三、二手研究 / Secondary Literature
+
+### 经典导读 / Classic Introductions
+| 著作 | 作者 | 年份 | 评价 |
+|---|---|---|---|
+| *Rawls* | Samuel Freeman | 2007 | **最系统的英文导读**，Routledge出版 |
+| *John Rawls* | Thomas Pogge | 1989 | 简明精到，含批评性分析 |
+| *Reading Rawls* (ed.) | Norman Daniels | 1989 | 多角度经典解读文集 |
+| *The Cambridge Companion to Rawls* (ed.) | Samuel Freeman | 2003 | 剑桥导读系列，多主题 |
+| 石元康《罗尔斯》 | 石元康 | 1989 | **最佳中文入门**，东大图书 |
+
+### 批评与回应 / Critiques and Responses
+| 著作 | 作者 | 年份 | 批评方向 |
+|---|---|---|---|
+| *Anarchy, State, and Utopia* | Robert Nozick | 1974 | 自由至上主义：持有正义 vs 分配正义 |
+| *Liberalism and the Limits of Justice* | Michael Sandel | 1982/1998 | 社群主义："无负荷的自我"批评 |
+| "Equality of What?" | Amartya Sen | 1980 | 能力进路：基本善指标的不足 |
+| *Rescuing Justice and Equality* | G.A. Cohen | 2008 | 左翼：差别原则允许不当激励 |
+| "Reconciliation through the Public Use of Reason" | Jurgen Habermas | 1995 | 审议民主：独白式 vs 对话式 |
+| *Justice as Impartiality* | Brian Barry | 1995 | 中立性：斯坎伦式契约论 |
+| *Spheres of Justice* | Michael Walzer | 1983 | 社群主义：正义的地方性 |
+
+### 发展与应用 / Developments and Applications
+| 著作 | 作者 | 领域 |
+|---|---|---|
+| *Sovereign Virtue* | Ronald Dworkin | 资源平等 |
+| *Just Health Care* | Norman Daniels | 医疗伦理 |
+| *World Poverty and Human Rights* | Thomas Pogge | 全球正义 |
+| *Democracy and Disagreement* | Gutmann & Thompson | 审议民主 |
+| *What We Owe to Each Other* | T.M. Scanlon | 契约主义道德理论 |
+
+## 四、中文研究 / Chinese-Language Resources
+
+| 著作 | 作者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《罗尔斯》 | 石元康 | 东大图书 | 最佳中文入门，清晰精到 |
+| 《自由人的平等政治》 | 周保松 | 三联书店 | 中文世界的深度诠释 |
+| 《现代正义理论》 | 姚大志 | 北京大学出版社 | 系统性的理论梳理 |
+| 《政治自由主义导读》 | 李石 | 北京大学出版社 | 晚期思想的中文导引 |
+| 《正义论》导读 | 何怀宏 | 北京大学出版社 | 配合中译本的导读 |
+| 《公平的正义》 | 顾肃 | 中国人民大学出版社 | 全面的理论介绍 |
+
+## 五、罗尔斯的思想源头 / Rawls's Intellectual Sources
+
+理解罗尔斯需要阅读他的前辈（Understanding Rawls requires reading his predecessors）：
+
+| 思想家 | 著作 | 与罗尔斯的关系 |
+|---|---|---|
+| 康德 Kant | 《道德形而上学原理》*Groundwork* | 自律、人是目的 → 原初状态的哲学基础 |
+| 洛克 Locke | 《政府论》下篇 *Second Treatise* | 自然权利、同意理论 → 社会契约传统 |
+| 卢梭 Rousseau | 《社会契约论》*Social Contract* | 公意、普遍意志 → 正义原则的普遍性 |
+| 密尔 Mill | 《论自由》*On Liberty* | 个人自由的价值（批判其功利主义基础） |
+| 亚里士多德 Aristotle | 《尼各马可伦理学》*Nicomachean Ethics* | 幸福与善（批判性对话） |
+
+## 六、在线资源 / Online Resources
+
+| 资源 | 链接 | 内容 |
+|---|---|---|
+| Stanford Encyclopedia of Philosophy | "John Rawls" 条目 (Freeman) | 最权威学术综述 |
+| Stanford Encyclopedia of Philosophy | "Original Position" (Freeman) | 原初状态专题 |
+| Stanford Encyclopedia of Philosophy | "Reflective Equilibrium" (Daniels) | 反思平衡专题 |
+| Harvard University Archives | 罗尔斯手稿与通信 | 一手研究资料 |
+
+## 七、建议阅读顺序 / Suggested Reading Sequences
+
+| 目标 / Goal | 推荐顺序 / Recommended Sequence |
+|---|---|
+| 快速了解罗尔斯核心 / Quick overview | 入门2章 → 石元康 → Pogge |
+| 深入正义论 / Deep dive into *AToJ* | 全书 → Freeman → Daniels (ed.) |
+| 理解批评与论战 / Understand critiques | 诺齐克 → 桑德尔 → 森 → 哈贝马斯 → Cohen |
+| 了解政治转向 / Understand political turn | 《政治自由主义》→ 万俊人导读 → 李石 |
+| 探索全球正义 / Explore global justice | 《万民法》→ Pogge → Beitz |
+| 中文读者入门 / Chinese introduction | 石元康 → 周保松 → 姚大志 |
+| 应用伦理学 / Applied ethics | Daniels (*Just Health Care*) → Pogge (*World Poverty*) |
+| 法学方向 / Legal theory | Dworkin → Ackerman → Eisgruber |
+| 经济学方向 / Economics | Sen → Barry → Piketty |
+
+## 八、阅读建议 / Reading Tips
+
+1. **先读中文导读再读原典 / Read Chinese introductions before primary texts** — 石元康的《罗尔斯》可以帮助中文读者建立基本概念框架，再进入英文原典会更加顺畅。
+   Shek's *Rawls* helps Chinese readers establish a basic conceptual framework before engaging with the English original texts.
+
+2. **不必一次读完《正义论》/ Don't try to read *AToJ* all at once** — 该书600余页，建议分三个阶段阅读：先读第一部分（理论），再读第二部分（制度），最后读第三部分（目的）。
+   At over 600 pages, the book should be read in three stages: first Part I (Theory), then Part II (Institutions), finally Part III (Ends).
+
+3. **注意《正义论》与《政治自由主义》的区别 / Note the difference between *AToJ* and *PL*** — 这是两个不同的理论版本。前者是"整全性自由主义"，后者是"政治自由主义"。理解这一转向是理解罗尔斯的关键。
+   These are two different versions of the theory. The former is "comprehensive liberalism," the latter "political liberalism." Understanding this turn is key to understanding Rawls.
+
+4. **同时阅读批评者 / Read critics simultaneously** — 诺齐克、桑德尔、森的批评不仅帮助你理解罗尔斯的弱点，也帮助你更深刻地理解他的理论。
+   Critiques from Nozick, Sandel, and Sen help you understand not only Rawls's weaknesses but also more deeply appreciate his theory.

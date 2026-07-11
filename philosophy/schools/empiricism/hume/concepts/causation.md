@@ -1,0 +1,107 @@
+---
+id: hume-causation
+title: 因果关系 · Causation
+type: concept
+domain: philosophy
+school: empiricism
+era: early-modern
+thinker: hume
+tags:
+  - causation
+  - necessary-connection
+  - constant-conjunction
+  - habit
+  - induction
+  - empiricism
+parent: hume
+---
+
+# 因果关系 · Causation
+
+> **"因果关系的一切推断，其最终基础是习惯 (custom)，而非理性 (reason)。"**
+> *All inferences from experience suppose, as their foundation, that the future will resemble the past.*
+> — *An Enquiry Concerning Human Understanding*, Section IV
+
+## 概念定位 / Concept Overview
+
+因果关系 (causation) 是休谟哲学中最具影响力的理论贡献，也是"休谟问题" (Hume's Problem) 的核心。休谟对因果必然性 (necessary connection) 的批判不仅动摇了传统形而上学的根基，而且直接催生了归纳问题 (problem of induction)，至今仍是科学哲学 (philosophy of science) 和认识论 (epistemology) 的核心议题。
+
+## 论证结构 / Argument Structure
+
+### 第一步：因果观念的来源追问
+
+休谟的问题从摹本原则 (Copy Principle) 出发：我们关于因果关系的观念 (idea) 来自什么印象 (impression)？当我们说"A 导致了 B"，我们观察到了什么？
+
+休谟的回答是：在单个因果事例中，我们观察到的只有三个关系：
+
+1. **时空邻近 (contiguity)** — 原因与结果在时间和空间上相邻
+2. **时间先后 (priority)** — 原因先于结果
+3. **恒常结合 (constant conjunction)** — A 类事件总是跟随 B 类事件
+
+但这三者都不包含**必然联系 (necessary connection)** 的印象。我们看不到"力" (power)、"能力" (force) 或"必然性" (necessity)——这些只是心灵的投射，不是感官所给予的。
+
+### 第二步：恒常结合与习惯性联想
+
+当我们反复观察到 A 类事件之后跟随 B 类事件，心灵便形成一种**习惯 (custom/habit)**：一旦看到 A，就自然地期待 B。这种期待不是理性的推断，而是一种心理倾向 (psychological disposition)。
+
+> "习惯是人生的伟大指南 (the great guide of human life)。"
+
+休谟因此将因果推断的基础从**客观的形而上学必然性**转移到**主观的心理习惯**。这是哲学史上的一次"哥白尼式转向"——在康德之前。
+
+### 第三步：必然联系的重新定义
+
+休谟并不否认我们使用"必然联系"这个概念，而是对其进行了重新定义：必然联系不是事物之间的客观关系，而是**心灵在观察到恒常结合之后产生的内在感受 (internal impression)**——即从一个事件向另一个事件的惯性推移 (customary transition)。
+
+这种"必然性"存在于观察者的心理中，而非外部世界中。
+
+### 第四步：归纳问题 (Problem of Induction)
+
+因果推断的根基是归纳法 (induction)：我们从过去的经验推断未来的事件。但归纳法本身的合理性无法用理性来证明：
+
+- **演绎论证 (demonstrative reasoning)** 无法证明"未来将类似于过去"——因为"未来不同于过去"在逻辑上并不矛盾
+- **或然论证 (probable reasoning)** 无法证明归纳法的合理性——因为或然论证本身就预设了归纳法的有效性（循环论证 / circular reasoning）
+
+这就是著名的**归纳问题** (problem of induction)：归纳法在实践中不可或缺，但在理性上无法得到辩护 (justification)。
+
+## 核心术语 / Key Terms
+
+| 术语 | 英文 | 含义 |
+|---|---|---|
+| 恒常结合 | Constant Conjunction | A 类事件总是跟随 B 类事件的经验规律 |
+| 必然联系 | Necessary Connection | 传统因果理论认为存在于原因与结果之间的客观必然性 |
+| 习惯/习俗 | Custom / Habit | 心灵在反复经验之后形成的心理倾向，因果推断的最终基础 |
+| 归纳问题 | Problem of Induction | 无法理性地证明"未来将类似于过去" |
+| 信念 | Belief | 与印象相关联的生动观念 (lively idea)，区别于纯粹虚构 |
+
+## 与东方思想的对话 / East-West Dialogue
+
+### 唯识学 (Yogācāra)
+
+唯识学中的**种子 (bīja)** 与**熏习 (vāsanā)** 概念可以为休谟的"习惯"提供深层心理学解释。休谟说过去的经验在心灵中留下"习惯"，唯识则追问：这种习惯储存在哪里？以什么形式？答案是阿赖耶识 (ālayavijñāna)——一切种子的仓库。唯识实际上为休谟的因果心理学提供了一个"硬件"层面的补充。
+
+此外，唯识学的"因果同时" (sahakāri-hetu) 讨论——因缘和合而非线性的单向因果——与休谟对单向线性因果的批判形成有趣的对话。
+
+### 庄子
+
+庄子"物化" (the transformation of things) 的概念暗示了一种非线性的、流动的因果观。蝴蝶梦 (Zhuangzi's butterfly dream) 打破了"此"与"彼"、"因"与"果"的固定区分，与休谟对固定因果链条的怀疑有精神上的亲和力。
+
+## 当代回响 / Contemporary Echoes
+
+### 科学哲学
+
+- **卡尔·波普尔 (Karl Popper)** 的证伪主义 (falsificationism) 直接回应休谟的归纳问题——波普尔认为科学不依赖归纳，而依赖演绎性的假设检验
+- **贝叶斯主义 (Bayesianism)** 用概率更新 (probability updating) 来重新定义归纳推理，可以看作对休谟问题的概率论回应
+- **朱迪亚·珀尔 (Judea Pearl)** 的因果推断框架 (structural causal models, do-calculus) 试图在统计相关性之上建立形式化的因果语言，是休谟问题在人工智能时代的最新回应
+
+### 认知科学
+
+- 当代认知科学中的**因果学习 (causal learning)** 研究——如 Alison Gopnik 的"因果贝叶斯网络" (causal Bayes nets) 理论——重新激活了休谟关于"因果观念如何形成"的问题
+- **预测编码 (predictive coding)** 理论中，大脑通过先验期望 (prior expectations) 预测感官输入，与休谟的"习惯性期待" (customary expectation) 在结构上高度对应
+
+## 延伸阅读 / Further Reading
+
+- 返回 [休谟主页](../README.md)
+- 参见 [印象与观念](impressions-ideas.md) — 因果观念的摹本原则基础
+- 参见 [温和怀疑论](skepticism.md) — 归纳问题是怀疑论的核心支柱之一
+- *An Enquiry Concerning Human Understanding*, Sections IV-VII
+- Don Garrett, "Hume's Theory of Causation", in *The Routledge Guidebook to Hume's Enquiry*

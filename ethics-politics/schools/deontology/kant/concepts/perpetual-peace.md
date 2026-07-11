@@ -1,0 +1,28 @@
+---
+id: kant-perpetual-peace
+title: 永久和平 · Perpetual Peace · Kant
+type: concept
+domain: ethics-politics
+school: deontology
+thinker: kant
+tags: [perpetual-peace, cosmopolitanism, international-law, kant]
+cross-refs: [{id: kant, relation: thinker}, {id: rawls, relation: 继承(万民法)]
+---
+
+# 永久和平 · Perpetual Peace
+
+## 一句话定义
+永久和平是康德政治哲学的终极目标——通过共和制、国际联盟与世界公民法权，人类可以逐步实现战争的终结。
+
+## 三个条件
+1. **共和制**：每个国家的宪法必须是共和制（代议制+分权）
+2. **国际联盟**：自由国家组成和平联盟（非世界政府）
+3. **世界公民法权**：每个外国人在他国不受敌视的权利
+
+## 下游影响
+- 联合国宪章
+- 罗尔斯《万民法》
+- 国际刑事法院
+
+## 关键文本
+- *Perpetual Peace: A Philosophical Sketch* (1795)

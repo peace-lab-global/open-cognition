@@ -1,0 +1,59 @@
+---
+id: bauman-reading-list
+title: 鲍曼进阶书单 · Bauman Reading List
+type: reading-list
+domain: sociology
+thinker: bauman
+school: modernity
+---
+
+# 鲍曼系统阅读指南 / Bauman Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Zygmunt Bauman* (2004) | Peter Beilharz | 简明思想评传 |
+| *Bauman: A Biography* (2020) | Izabela Wagner & Tomasz Mazur | 最新传记 |
+| *The Bauman Reader* (2001) | Peter Beilharz (ed.) | 重要论文选集 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《现代性与大屠杀》 | 1989 | 大屠杀与现代性的关系；道德距离 |
+| 《流动现代性》 | 2000 | 液态社会理论 |
+| 《流动之爱》 | 2003 | 液态关系与认同 |
+| 《废弃的生命》 | 2004 | 全球化与废弃人口 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《现代性与矛盾性》 | 1991 | 陌生人；矛盾性 |
+| 《立法者与诠释者》 | 1987 | 知识分子角色 |
+| 《后现代伦理学》 | 1993 | 列维纳斯伦理学 |
+| 《流动的时代》 | 2007 | 不确定性 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *The Challenge of Zygmunt Bauman* (2001) | Peter Beilharz (ed.) | 鲍曼思想的学术论争 |
+| *Bauman and Ethics* | Michael Hviid Jacobsen | 鲍曼伦理学研究 |
+| *Liquid Sociology* (2013) | Mark Davis | 流动现代性的当代应用 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The Society of the Spectacle* | Guy Debord | 消费社会批判的先驱 |
+| *No Logo* (1999) | Naomi Klein | 消费主义批判 |
+| *The Age of Surveillance Capitalism* (2019) | Shoshana Zuboff | 数字监控 |
+| *Disposable People* (2004) | Kevin Bales | 当代奴役 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Beilharz评传 → 《流动现代性》→ 《流动之爱》
+**阶段二**（4-8周）: 《现代性与大屠杀》→ 《现代性与矛盾性》
+**阶段三**（8周+）: 《废弃的生命》→ 《后现代伦理学》→ 《立法者与诠释者》→ 当代发展

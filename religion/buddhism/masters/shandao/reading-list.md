@@ -1,0 +1,39 @@
+---
+id: shandao-reading-list
+title: "善导进阶阅读 Shàndǎo: Annotated Reading List"
+type: reading-list
+parent: shandao
+---
+
+# 善导进阶阅读 / Reading List for Shàndǎo
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **《观无量寿佛经疏》(观经四帖疏)** — 净土宗立宗之作（大正藏 T1753）
+- **《往生礼赞》** — 净土礼仪（大正藏 T1980）
+
+### 推荐 Recommended
+
+- **《观念法门》** — 念佛方法论
+- **《法事赞》** — 净土法事仪轨
+
+## 研究专著 / Scholarly Monographs
+
+- **释印顺**, *《净土学论集》* — 中国净土思想研究
+- **Julian Pas**, *Visions of Sukhavati: Chinese and Tibetan Accounts* (SUNY, 1998)
+  - 西方学术界关于净土的研究
+- **藤堂恭俊**, *《中国佛教史》* — 净土宗章节
+- **望月信亨**, *《中国净土教理史》* — 日本净土学研究经典
+
+## 入门读物 / Introductory
+
+- **星云大师**, *《净土思想概论》* — 现代入门
+- **慧净法师**, 善导大师思想系列讲座
+
+## 跨学科阅读 / Interdisciplinary
+
+- **昙鸾《往生论注》** — 净土思想的先驱
+- **道绰《安乐集》** — 善导的老师
+- **法然《选择本愿念佛集》** — 日本净土宗对善导的继承

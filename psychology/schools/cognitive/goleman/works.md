@@ -1,0 +1,124 @@
+---
+id: goleman-works
+title: "戈尔曼作品总览 · Works of Goleman"
+type: works
+domain: psychology
+school: cognitive
+thinker: goleman
+tags: [works, emotional-intelligence, meditation, leadership, attention, social-neuroscience]
+cross-refs:
+  - id: goleman
+    relation: thinker
+---
+
+# 戈尔曼作品总览
+
+## 冥想研究 Meditation Research
+
+### *The Varieties of the Meditative Experience* (1977)
+*The Meditative Mind: The Varieties of the Meditative Experience* (1995 重印版)
+
+Goleman 的学术处女作，基于哈佛博士期间的研究和在印度、斯里兰卡的田野考察。本书首次系统比较了不同冥想传统——印度教超觉冥想 (Transcendental Meditation)、佛教正念 (Vipassanā)、藏传观想 (Tibetan visualization)、苏菲旋转 (Sufi whirling)、基督教默观 (Christian contemplation)——的心理学差异。核心论点是：**冥想不是一种东西，不同的冥想传统训练不同的心智能力，产生不同的心理与神经效果**。这一论点在四十年后的 *Altered Traits* (2017) 中得到神经科学验证。
+
+Goleman's academic debut, based on doctoral research at Harvard and fieldwork in India and Sri Lanka. This was the first systematic comparison of meditation traditions — Hindu Transcendental Meditation, Buddhist Vipassanā, Tibetan visualization, Sufi whirling, and Christian contemplation — and their psychological differences. The central thesis: **meditation is not one thing; different traditions train different mental capacities and produce different psychological and neural effects**. This thesis received neuroscientific validation four decades later in *Altered Traits* (2017).
+
+### *The Meditative Mind* (1988, 修订版)
+
+在 1977 年版基础上增加了近十年的科学研究综述，特别是早期 EEG 研究（alpha 波、theta 波变化）和心理生理学研究（代谢率、皮肤电导）。本书确立了 Goleman 作为冥想科学研究先驱的地位。
+
+Revised edition adding a decade of scientific research, particularly early EEG studies (alpha and theta wave changes) and psychophysiological research (metabolic rate, skin conductance). This book established Goleman as a pioneer in contemplative science.
+
+### *Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body* (2017)
+与 Richard J. Davidson 合著 / Co-authored with Richard J. Davidson
+
+Goleman 学术生涯的巅峰之作。与情感神经科学奠基人 Davidson 合作，严格筛选了 6000 余篇冥想研究论文，最终纳入约 60 项方法论严格的研究进行综述。核心贡献：
+
+Goleman's magnum opus. Co-authored with affective neuroscience pioneer Davidson, rigorously screening over 6,000 meditation research papers and selecting approximately 60 methodologically rigorous studies for review. Core contributions:
+
+1. **状态 vs 特质的系统区分** — 绝大多数冥想研究记录的是状态效应，特质效应需要长期练习
+2. **冥想"剂量-反应"关系** — 累计练习时间与神经变化的关系不是线性的，存在阈值效应
+3. **不同冥想类型的差异效果** — 专注冥想、开放监控、慈心冥想产生不同的神经改变
+4. **方法论批评** — 大量冥想研究存在对照组不足、样本量小、测量工具不统一等问题
+
+## 情绪智力 Emotional Intelligence
+
+### *Emotional Intelligence: Why It Can Matter More Than IQ* (1995)
+
+全球畅销书，翻译为 40 余种语言，销量超过 500 万册。在《纽约时报》畅销书榜上停留超过一年半。核心贡献：
+
+Global bestseller, translated into over 40 languages, selling more than 5 million copies. Spent over 18 months on the *New York Times* bestseller list. Core contributions:
+
+- 将 Salovey & Mayer 的学术概念翻译为大众可理解的框架
+- 提出"杏仁核劫持" (amygdala hijack) 概念——杏仁核绕过前额叶的快速情绪反应
+- 整合了发展心理学、神经科学和教育学的证据，论证 EQ 的可培养性
+- 引发全球关于"成功到底需要什么能力"的公共讨论
+
+### *Working with Emotional Intelligence* (1998)
+
+将 EQ 框架应用于职场。核心论点是：在知识经济时代，IQ 和技术能力是"门槛能力" (threshold competencies)，而 EQ 是区分卓越表现者与普通表现者的"区分能力" (distinguishing competencies)。提出了 25 项工作场所 EQ 能力的具体描述和行为指标。
+
+Applies the EQ framework to the workplace. Core argument: in the knowledge economy, IQ and technical skills are "threshold competencies," while EQ represents the "distinguishing competencies" that differentiate outstanding performers from average ones. Provides detailed behavioral descriptions of 25 workplace EQ competencies.
+
+### *Primal Leadership: Learning to Lead with Emotional Intelligence* (2002)
+与 Richard Boyatzis 和 Annie McKee 合著 / Co-authored with Richard Boyatzis and Annie McKee
+
+将 EQ 引入领导力研究。核心概念是"共鸣型领导" (Resonant Leadership)——通过情绪感染 (emotional contagion) 在团队中创造积极的情绪基调。提出六种领导风格：愿景型 (Visionary)、教练型 (Coaching)、亲和型 (Affiliative)、民主型 (Democratic)、领跑型 (Pacesetting)、命令型 (Commanding)，其中前四种主要产生共鸣，后两种在特定情境下有用但需要谨慎使用。
+
+Brings EQ to leadership studies. Core concept: "Resonant Leadership" — creating positive emotional climate through emotional contagion. Identifies six leadership styles: Visionary, Coaching, Affiliative, Democratic, Pacesetting, and Commanding, with the first four primarily creating resonance and the latter two useful in specific situations but requiring careful deployment.
+
+## 社会智力与注意力 Social Intelligence and Attention
+
+### *Social Intelligence: The New Science of Human Relationships* (2006)
+
+将 EQ 拓展至社会神经科学领域。整合了镜像神经元、纺锤形细胞、情绪感染等社会神经科学的最新发现，提出"社会脑"概念——人类大脑进化出专门处理社会信息的神经回路。分为"社会意识"和"社会设施"两大领域，详细分析了人际互动的神经基础。
+
+Extends EQ into social neuroscience. Integrates mirror neurons, spindle cells, emotional contagion, and other social neuroscience findings, proposing the "social brain" concept — neural circuits that evolved specifically to process social information. Organized into "social awareness" and "social facility" domains.
+
+### *Focus: The Hidden Driver of Excellence* (2013)
+
+整合注意力科学研究，提出注意力的三维度模型。核心论点：**注意力是21世纪最稀缺的认知资源**。内在专注（自我觉察）、他人专注（共情）、外在专注（系统感知）三者协同构成完整的注意力。讨论了注意力在数字时代面临的挑战（持续的部分注意力、多任务处理的认知代价）以及训练注意力的方法。
+
+Synthesizes attention research and proposes the tripartite attention model. Core thesis: **attention is the scarcest cognitive resource of the 21st century**. Inner focus (self-awareness), other focus (empathy), and outer focus (systems perception) together constitute complete attention. Addresses attention challenges in the digital age and methods for training attention.
+
+## 其他重要著作 Other Notable Works
+
+### *Vital Lies, Simple Truths: The Psychology of Self-Deception* (1985)
+
+探讨自我欺骗的心理机制——人们如何通过"注意力盲点" (attentional blind spots) 回避令人不安的真相。与后来的"杏仁核劫持"概念一脉相承：自我欺骗不是有意的谎言，而是注意力和记忆的自动过滤机制。
+
+Explores the psychology of self-deception — how people avoid uncomfortable truths through "attentional blind spots." Foreshadows the later "amygdala hijack" concept: self-deception is not intentional lying but an automatic filtering mechanism of attention and memory.
+
+### *Healing Emotions: Conversations with the Dalai Lama on Mindfulness, Emotions, and Health* (1997, 编)
+
+编辑出版的跨学科对话集，记录了 Goleman 与达赖喇嘛及多位科学家关于情绪、冥想和健康的对话。是 Mind & Life Institute 系列对话的早期成果之一。
+
+Edited interdisciplinary dialogue volume, recording conversations between Goleman, the Dalai Lama, and scientists on emotions, meditation, and health. One of the early products of the Mind & Life Institute dialogue series.
+
+### *Ecological Intelligence: The Hidden Impacts of What We Buy* (2009)
+
+将 EQ 和 SI 的框架拓展至生态领域，探讨人类如何通过"生态智力"——理解消费行为的环境后果——做出更可持续的选择。讨论了"彻底透明" (radical transparency) 如何改变消费者的决策方式。
+
+Extends the EQ and SI framework to the ecological domain, exploring how humans can develop "ecological intelligence" — understanding the environmental consequences of consumption — to make more sustainable choices.
+
+### *A Force for Good: The Dalai Lama's Vision for Our World* (2015)
+
+记录达赖喇嘛关于将慈悲转化为社会变革力量的愿景。涵盖教育、环境、经济和治理四个领域的建设性行动。
+
+Documents the Dalai Lama's vision for transforming compassion into a force for social change, covering constructive action in education, environment, economy, and governance.
+
+## 作品年表 Chronological Table
+
+| 年份 | 英文标题 | 中文译本 | 核心主题 |
+|------|----------|----------|----------|
+| 1977 | *The Varieties of the Meditative Experience* | 《冥想体验的多样性》 | 冥想传统比较 |
+| 1985 | *Vital Lies, Simple Truths* | 《重要的谎言，简单的真相》 | 自我欺骗心理学 |
+| 1988 | *The Meditative Mind* (修订版) | 《冥想与心灵》 | 冥想科学研究 |
+| 1995 | *Emotional Intelligence* | 《情商》 | EQ 概念里程碑 |
+| 1997 | *Healing Emotions* (编) | 《治愈情绪》 | 情绪、冥想与健康 |
+| 1998 | *Working with Emotional Intelligence* | 《工作中的情商》 | 职场 EQ 应用 |
+| 2002 | *Primal Leadership* (合著) | 《情商领导力》 | 共鸣型领导力 |
+| 2006 | *Social Intelligence* | 《社交智力》 | 社会神经科学 |
+| 2009 | *Ecological Intelligence* | 《生态智力》 | 可持续消费 |
+| 2013 | *Focus* | 《专注》 | 注意力三维度 |
+| 2015 | *A Force for Good* | 《善的力量》 | 慈悲与社会变革 |
+| 2017 | *Altered Traits* (合著) | 《冥想正念：科学实证》 | 冥想长期效应 |

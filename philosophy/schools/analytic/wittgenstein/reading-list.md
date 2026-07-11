@@ -1,0 +1,91 @@
+---
+id: wittgenstein-reading-list
+title: 维特根斯坦进阶阅读 · Wittgenstein Reading List
+type: reading-list
+thinker: wittgenstein
+domain: philosophy
+school: analytic
+---
+
+# 维特根斯坦进阶阅读 / Wittgenstein Advanced Reading List
+
+## 原典阅读路径 / Primary Source Reading Path
+
+### 入门级 / Introductory
+1. 《哲学研究》§§1–64 — 语言游戏与奥古斯丁图像批判 / *PI* §§1–64 — Language-games and critique of the Augustinian picture
+2. 《逻辑哲学论》序言 + §§6.4–7 — 不可说者 / *Tractatus* Preface + §§6.4–7 — The unsayable
+3. 《文化与价值》选读 — 格言式的思想碎片 / *Culture and Value* selections — Aphoristic thought-fragments
+
+### 进阶级 / Intermediate
+4. 《哲学研究》§§65–108 — 家族相似与本质批判 / *PI* §§65–108 — Family resemblance and the critique of essences
+5. 《哲学研究》§§243–315 — 私人语言论证 / *PI* §§243–315 — Private language argument
+6. 《蓝皮书》— 过渡期思想 / *Blue Book* — Transitional thought
+7. 《逻辑哲学论》全文 — 系统通读 / *Tractatus* complete — Systematic reading
+
+### 高阶级 / Advanced
+8. 《哲学研究》第二部分（PPF）— "看见为"与心理学哲学 / *PI* Part II (PPF) — "Seeing-as" and philosophy of psychology
+9. 《论确定性》— 铰链命题与知识基础 / *On Certainty* — Hinge propositions and foundations of knowledge
+10. 《哲学评论》— 中期思想 / *Philosophical Remarks* — Middle-period thought
+11. 《数学基础评论》— 数学哲学 / *Remarks on the Foundations of Mathematics* — Philosophy of mathematics
+
+## 传记 / Biographies
+
+| 著作 / Work | 作者 / Author | 特点 / Feature |
+|---|---|---|
+| *Ludwig Wittgenstein: The Duty of Genius* (1990) | Ray Monk | 最佳传记，兼顾生平与思想 / Best biography, balancing life and thought |
+| *Wittgenstein: A Life* (1988) | Brian McGuinness | 前半生（至1921年）详细记录 / Detailed account of first half (to 1921) |
+| *Wittgenstein's Vienna* (1973) | Allan Janik & Stephen Toulmin | 文化背景研究 / Cultural context study |
+| *Ludwig Wittgenstein: A Memoir* (1984) | Norman Malcolm | 友人回忆，温暖而简洁 / Friend's memoir, warm and concise |
+
+## 二手研究 · 经典 / Secondary Literature — Classics
+
+| 著作 / Work | 作者 / Author | 主题 / Topic |
+|---|---|---|
+| *Wittgenstein* (1973) | Anthony Kenny | 全面导论 / Comprehensive introduction |
+| *Wittgenstein on Rules and Private Language* (1982) | Saul Kripke | 规则遵守的"怀疑论解读" / "Skeptical interpretation" of rule-following |
+| *An Analytical Commentary on PI* (1980–) | G.P. Baker & P.M.S. Hacker | 逐节注释（多卷本） / Section-by-section commentary (multi-volume) |
+| *The Realistic Spirit* (1991) | Cora Diamond | "新维特根斯坦"解读 / "New Wittgenstein" interpretation |
+| *Wittgenstein's Place in Twentieth-Century Analytic Philosophy* (1997) | P.M.S. Hacker | 思想史定位 / Intellectual-historical placement |
+| *Wittgenstein: To Follow a Rule* (1981) | S. Holtzman & C. Leich (eds.) | 规则遵守论文集 / Essays on rule-following |
+
+## 二手研究 · 当代 / Secondary Literature — Contemporary
+
+| 著作 / Work | 作者 / Author | 主题 / Topic |
+|---|---|---|
+| *Wittgenstein: A New Philosophy* (2002) | Hans-Johann Glock | 当代维特根斯坦研究概览 / Overview of contemporary Wittgenstein scholarship |
+| *The New Wittgenstein* (2000) | A. Crary & R. Read (eds.) | "治疗式"解读论文集 / "Therapeutic" interpretation essays |
+| *Wittgenstein's Philosophical Investigations* (2004) | M. McGinn | 导读 / Guide |
+| *Routledge Philosophy Guidebook to Wittgenstein's PI* (2006) | L. Stern | 学生友好型导读 / Student-friendly guide |
+
+## 中文资源 / Chinese Resources
+
+| 著作 / Work | 作者/译者 / Author/Translator | 说明 / Note |
+|---|---|---|
+| 《逻辑哲学论》韩林合译 | 商务印书馆 | 最佳中文译本 / Best Chinese translation |
+| 《哲学研究》陈嘉映译 | 上海人民出版社 | 经典中译 / Classic Chinese translation |
+| 《维特根斯坦读本》陈嘉映编 | 2015 | 精选导读 / Selected readings with guide |
+| 《维特根斯坦传》江怡 | 2003 | 中文传记 / Chinese biography |
+| 《维特根斯坦论伦理学与哲学》江怡编 | 2011 | 专题论文集 / Thematic essay collection |
+| 《〈逻辑哲学论〉研究》韩林合 | 2000 | 深度注释 / In-depth commentary |
+| 《〈哲学研究〉导读》陈嘉映 | — | 入门导读 / Introductory guide |
+
+## 专题研究 / Thematic Studies
+
+### 私人语言 / Private Language
+- P.M.S. Hacker, *Wittgenstein: Meaning and Mind* (1990), Part II
+- John McDowell, "Wittgenstein's Idealism" (1983)
+
+### 规则遵守 / Rule-Following
+- Kripke, *Wittgenstein on Rules and Private Language* (1982)
+- McDowell, "Wittgenstein on Following a Rule" (1984)
+
+### 语言游戏 / Language-Games
+- Stern, *Wittgenstein's Philosophical Investigations* (2004), Ch. 3
+
+### 前期思想 / Early Thought
+- Elizabeth Anscombe, *An Introduction to Wittgenstein's Tractatus* (1959)
+- James Conant & Cora Diamond on "resolute" reading of the *Tractatus*
+
+### 东西方比较 / East-West Comparison
+- 江怡："维特根斯坦与庄子" 相关论文 / Papers on "Wittgenstein and Zhuangzi"
+- Reinhard May, *Heidegger's Hidden Sources* (相关方法论讨论)

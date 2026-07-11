@@ -1,0 +1,132 @@
+---
+id: hegel-works
+title: 黑格尔作品总览 · Hegel Works
+type: works-catalogue
+domain: philosophy
+school: german-idealism
+thinker: hegel
+tags: [hegel, works, bibliography, phenomenology, logic, right]
+cross-refs:
+  - id: hegel
+    relation: thinker
+---
+
+# 黑格尔作品总览 · Hegel Works
+
+## 总览
+
+黑格尔的著作可分为三类:生前出版的专著(4部)、生前发表的论文和短评、以及身后由学生整理的讲演录。其写作风格以极端晦涩著称——德语哲学史上最困难的文本之一。黑格尔本人在生前就抱怨读者对其著作的误解,并多次尝试以更通俗的方式呈现其思想。
+
+## 一、生前出版的专著
+
+### 《精神现象学》(Phänomenologie des Geistes, 1807)
+
+- **黑格尔最具文学性和影响力的著作**
+- 副标题: "意识的经验的科学"(Wissenschaft der Erfahrung des Bewusstseins)
+- 描述意识从"感性确定性"到"绝对知识"的辩证上升
+- 写作背景: 拿破仑军队逼近耶拿;黑格尔在炮声中完成最后一页
+- 出版者 Goebhardt 要求预付款,黑格尔在截稿前一天仍在修改
+- 核心段落: 主奴辩证法、苦恼意识、启蒙与信仰、绝对自由与恐怖
+- 篇幅: 约 500 页(标准版)
+
+### 《逻辑学》(Wissenschaft der Logik, 1812--1816)
+
+- **黑格尔最抽象、最系统的著作**
+- 三卷:
+  - 第一卷: 存在论(Die Lehre vom Sein, 1812)
+  - 第二卷: 本质论(Die Lehre vom Wesen, 1813)
+  - 第三卷: 概念论(Die Lehre vom Begriff, 1816)
+- 从"纯存在"到"绝对理念"的辩证运动
+- 黑格尔自认为这是他最重要的著作
+- 篇幅: 约 800 页(标准版)
+
+### 《哲学全书纲要》(Enzyklopädie der philosophischen Wissenschaften im Grundrisse, 1817/1827/1830)
+
+- 黑格尔体系的**纲要**(Grundriss),供学生上课使用
+- 三个版本: 1817, 1827(大幅扩充), 1830(最后版本)
+- 三部分:
+  - 第一部分: 逻辑学("小逻辑")
+  - 第二部分: 自然哲学
+  - 第三部分: 精神哲学
+- 包含大量学生笔记(Zusätze)作为补充
+- 篇幅: 约 600 页(1830版)
+
+### 《法哲学原理》(Grundlinien der Philosophie des Rechts, 1821)
+
+- **黑格尔生前出版的最后一部重要著作**
+- 副标题: "自然法和国家学纲要"(Naturrecht und Staatswissenschaft im Grundrisse)
+- 三大部分:
+  - **抽象法** (Abstraktes Recht): 财产权、契约、不法
+  - **道德** (Moralität): 故意、意图、善与恶
+  - **伦理** (Sittlichkeit): 家庭、市民社会、国家
+- 序言包含"凡是合乎理性的东西都是现实的;凡是现实的东西都是合乎理性的"
+- 篇幅: 约 500 页(含附释)
+
+## 二、生前发表的重要论文
+
+| 年份 | 标题 | 内容 |
+|---|---|---|
+| 1801 | 《费希特与谢林哲学体系的差异》 | 比较费希特和谢林;黑格尔偏向谢林 |
+| 1802 | 《论自然法的科学处理方式》 | 批判自然法的经验主义和形式主义 |
+| 1802 | 《信仰与知识》 | 批判康德、雅可比、费希特的主观唯心论 |
+| 1807 | 《纽伦堡文科中学讲话》 | 论教育的哲学基础 |
+
+## 三、身后整理的讲演录
+
+黑格尔在柏林大学的讲演涵盖广泛领域,由学生在其身后整理出版:
+
+### 《历史哲学讲演录》(Vorlesungen über die Philosophie der Geschichte, 1837)
+
+- 整理者: Karl Hegel (黑格尔之子)和 Eduard Gans
+- 核心论点: 历史是自由意识的进步
+- 四个阶段: 东方世界(一人自由) → 希腊世界(一些自由) → 罗马世界(法权自由) → 日耳曼世界(一切人自由)
+- 包含"历史的诡计"(List der Vernunft)
+- 是黑格尔最易读、影响最广泛的著作之一
+
+### 《美学讲演录》(Vorlesungen über die Ästhetik, 1835--1838)
+
+- 整理者: H.G. Hotho
+- 三种艺术形式: 象征型(东方) → 古典型(希腊) → 浪漫型(基督教—近代)
+- "艺术终结"论题: 艺术不再是真理的最高形式,让位于宗教和哲学
+- 对后世美学和文学批评影响深远
+
+### 《宗教哲学讲演录》(Vorlesungen über die Philosophie der Religion, 1832)
+
+- 整理者: Philipp Marheineke
+- 自然宗教 → 确定的宗教(印度教、佛教、波斯教、埃及教、犹太教、希腊教) → 绝对宗教(基督教)
+- 基督教作为"天启宗教"(die offenbare Religion)在宗教形式中达到最高
+
+### 《哲学史讲演录》(Vorlesungen über die Geschichte der Philosophie, 1833--1836)
+
+- 整理者: Karl Ludwig Michelet
+- 哲学史不是"意见的博物馆",而是概念自身展开的历史
+- 每一种过去的哲学都被"扬弃"而非"驳倒"
+- 从东方哲学开始,以黑格尔自身哲学为终点
+
+## 四、早期手稿 (生前未发表)
+
+| 手稿 | 写作时间 | 内容 |
+|---|---|---|
+| 《早期神学著作》 | 1793--1800 | 基督教的实证性;爱与和解;生命统一性 |
+| 《德国宪法》 | 1799--1802 | 德意志帝国的政治分析 |
+| 《耶拿体系草稿》 | 1803--1806 | 精神现象学的预备稿 |
+
+早期手稿直到 20 世纪才被发现和出版,揭示了黑格尔思想中常被忽视的维度:对生命统一性的追求、对实证宗教的批判、对现代性的早期反思。
+
+## 五、中译本推荐
+
+| 著作 | 译者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《精神现象学》(上下卷) | 贺麟、王玖兴 | 商务印书馆 | 经典译本;注释详尽 |
+| 《逻辑学》(上下卷) | 杨一之 | 商务印书馆 | 经典译本 |
+| 《法哲学原理》 | 范扬、张企泰 | 商务印书馆 | 经典译本 |
+| 《哲学全书纲要》(三部分) | 梁志学等 | 人民出版社 | 新近翻译 |
+| 《历史哲学》 | 王造时 | 上海书店 | 经典译本 |
+| 《美学》(三卷) | 朱光潜 | 商务印书馆 | 经典译本;文学性强 |
+| 《精神现象学》 | 先刚 | 人民出版社 | 新译本;基于德文最新版 |
+
+## 六、标准版本
+
+- **科学院版** (Akademie-Ausgabe): *Gesammelte Werke*, hrsg. von der Akademie der Wissenschaften und der Literatur, Mainz (德文批评性全集,进行中)
+- **Suhrkamp版**: *Werke in 20 Bänden*, hrsg. von Eva Moldenhauer und Karl Markus Michel, Frankfurt a.M., 1969--1971 (德文通行版)
+- **剑桥版** (Cambridge Edition): *The Cambridge Hegel Edition*, 1990s-- (英文标准版,进行中)

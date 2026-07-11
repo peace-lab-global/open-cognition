@@ -1,0 +1,73 @@
+---
+id: cognitive-systems.school.cognitive-engineering.minsky.timeline
+title: 明斯基思想年表 Marvin Minsky Timeline
+type: timeline
+thinker: minsky
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 明斯基思想年表 / Marvin Minsky Timeline
+
+## 学术生涯年表
+
+### 1927 · 出生
+- 出生于纽约市，犹太裔家庭
+
+### 1950s · 学术起步
+- 1950年获哈佛大学数学学士学位
+- 1954年获普林斯顿大学数学博士学位
+- 开始关注人工智能与认知问题
+
+### 1956 · 人工智能诞生
+- 与McCarthy、Rochester、Shannon共同组织达特茅斯会议，"人工智能"学科正式诞生
+- 开始在MIT建立AI研究团队
+
+### 1959 · MIT AI实验室
+- 与McCarthy共同创建MIT AI实验室（后发展为CSAIL）
+- 开始系统性研究感知机、启发式搜索和早期AI系统
+
+### 1960s · 感知机研究
+- 深入研究感知机的数学特性
+- 与Papert合作进行理论分析
+
+### 1969 · 《Perceptrons》
+- 与Papert出版 *Perceptrons*
+- 证明单层感知机无法解决XOR问题
+- 间接导致联结主义研究低潮（AI第一次寒冬）
+- 但也推动了多层网络研究方向
+
+### 1975 · 框架理论
+- 发表 "A Framework for Representing Knowledge"
+- 提出框架作为结构化知识模板
+- 影响知识工程、面向对象编程
+
+### 1980 · K-线理论
+- 发表K-线记忆理论
+- 探索记忆的非快照式存储方式
+
+### 1985 · 《The Society of Mind》
+- 系统提出心智的多代理架构
+- 270个条目描述代理的类型和组织原则
+- 成为AI和认知科学的经典著作
+
+### 2006 · 《The Emotion Machine》
+- 拓展至情绪与高层思维
+- 论证情绪是特定的认知策略切换
+
+### 2016 · 逝世
+- 于波士顿逝世，享年88岁
+- 遗产活在CSAIL、多代理系统和知识图谱中
+
+## 思想演变关键词
+
+```
+数学基础 (1950s) → AI创建 (1956) → 感知机研究 (1960s) → 感知机批判 (1969) → 框架理论 (1975) → 心智社会 (1985) → 情绪机器 (2006)
+```
+
+## 历史背景
+
+- **1956** · 达特茅斯会议——人工智能学科诞生
+- **1969** · 感知机局限被证明——AI第一次寒冬
+- **1986** · Rumelhart & McClelland PDP——联结主义复兴
+- **2012** · 深度学习爆发——Minsky预言的多层网络成为现实

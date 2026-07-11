@@ -1,0 +1,129 @@
+---
+id: thompson-concept-embodied-cognition
+title: 4E 认知 · Embodied Cognition
+type: concept
+domain: philosophy
+school: phenomenology
+thinker: thompson
+tags: [embodied-cognition, 4E, embedded, extended, enactive, anti-brain-centrism, body-as-medium]
+cross-refs:
+  - id: thompson
+    relation: thinker
+  - id: thompson-concept-enactivism
+    relation: 核心
+  - id: thompson-concept-mind-in-life
+    relation: 基础
+  - id: thompson-concept-sense-making
+    relation: 关联
+---
+
+# 4E 认知 · Embodied Cognition / 4E Cognition
+
+> "The mind is not in the head. The mind is in the organism's active engagement with its environment."
+> -- Thompson (paraphrasing the 4E thesis)
+
+## 核心定义
+
+4E 认知 (4E cognition) 是当代认知科学中对经典计算主义 (computationalism) 的替代运动,主张认知不仅是脑内的信息处理,而是涉及四个维度的整合过程:
+
+- **具身的** (Embodied):认知依赖并涉及整个身体,而不仅仅是大脑;
+- **嵌入的** (Embedded):认知发生在一个具体的环境中,环境构成了认知过程的不可或缺的部分;
+- **延展的** (Extended):在某些条件下,认知过程可以延展到大脑和身体之外 (如工具、笔记本、智能手机);
+- **生成的** (Enactive):认知不是对预先存在的世界的表征,而是有机体通过感知-行动循环**生成**其世界。
+
+汤普森是 4E 认知运动中最激进的"生成"派 (enactivist) 代表 -- 他不仅主张认知是具身的、嵌入的、延展的,更从根本上拒绝了表征主义 (representationalism) 的框架。
+
+4E cognition is the umbrella movement in cognitive science of which Thompson's enactivism is the most radical strand. While all 4E approaches reject classical computationalism, they differ in how far they go in abandoning representationalism.
+
+## 四个 E 的辨析
+
+### 具身性 (Embodied)
+
+认知依赖**整个身体**,而非仅仅是大脑:
+- 身体的形态 (morphology) 影响认知方式 -- 人类的直立行走和双手塑造了我们的空间认知;
+- 身体的运动系统参与认知过程 -- 理解"抓取"这个概念涉及运动皮层的激活 (具身模拟 embodied simulation);
+- 身体的情感状态影响判断 -- Damasio 的"躯体标记假说" (somatic marker hypothesis) 证明了情感对决策的必要性。
+
+汤普森的独特贡献在于将具身性与**生命-心智连续性**联系起来:身体不仅是认知的"载体",而是认知的**媒介** -- 身体作为活的、自组织的系统,本身就具有认知能力。这与梅洛-庞蒂 (Merleau-Ponty) 的"身体-主体" (body-subject / corps propre) 概念一脉相承。
+
+### 嵌入性 (Embedded)
+
+认知发生在一个**具体的环境**中,环境不是被动的"背景",而是认知过程的**构成性条件**:
+- 蜘蛛网是蜘蛛认知系统的延伸 -- 蜘蛛通过网来"感知"猎物,网是蜘蛛的"外化认知器官";
+- 人类使用环境中的"认知脚手架" (cognitive scaffolding) -- 如便利贴、日历、计算器来减轻认知负荷;
+- Gibson 的"可供性" (affordance) 概念:环境中的物体不是中性的,而是提供了特定的行动可能 -- 椅子"可供"坐下,门把"可供"转动。
+
+### 延展性 (Extended)
+
+Clark 和 Chalmers (1998) 的著名论题:在某些条件下,认知过程可以**延展到**大脑和身体之外:
+- Otto 的笔记本:如果一个 Alzheimer 患者用笔记本代替记忆,那么笔记本就是他记忆系统的一部分;
+- 智能手机:如果一个人用智能手机存储和检索信息的方式与生物记忆无异,那么智能手机就是其认知系统的一部分。
+
+汤普森对延展论题持谨慎态度 -- 他认为,不是所有与认知交互的外部事物都算作认知的一部分。关键标准不是"功能等价",而是**整合度** (integration) 和**自组织** (self-organization) -- 只有当外部元素被整合进有机体的自体生成过程中时,才能算作认知的延展。
+
+### 生成性 (Enactive) -- 汤普森的核心立场
+
+生成性是 4E 中最激进的维度:
+- 它不仅主张认知涉及身体和环境,更从根本上拒绝了**表征主义**;
+- 认知不是"处理关于世界的信息",而是**生成一个世界**;
+- 这意味着"世界"不是认知的**对象**,而是认知的**产物** -- 尽管这个"产物"不是任意的建构,而是受限于有机体的生物结构和历史。
+
+## 反脑中心主义 (Against Brain-Centrism)
+
+汤普森对脑中心主义 (brain-centrism) 的批评是他最具影响力的论题之一:
+
+### 脑中心主义的假设
+
+主流神经科学和认知科学通常假设:
+1. 认知 = 脑内信息处理;
+2. 身体只是输入 (感觉) 和输出 (运动) 的通道;
+3. 环境只是认知发生的外部背景;
+4. 理解大脑 = 理解心智。
+
+### 汤普森的反驳
+
+1. **认知不等于脑活动**:脑活动是认知的必要条件,但不是充分条件 -- 认知涉及脑-身体-环境的整体动态;
+2. **身体不是通道**:身体的形态、运动能力、情感状态**构成性地**参与认知过程;
+3. **环境不是背景**:环境的结构 (包括物理环境和社会环境) 是认知过程的**构成性条件**;
+4. **理解大脑不等于理解心智**:心智是比大脑更高层次的现象 -- 它涉及整个有机体在其环境中的生活方式。
+
+The brain is necessary but not sufficient for cognition. Cognition is a property of the whole organism in its environment, not a property of the brain alone. Understanding the brain is understanding a component of the cognitive system, not understanding the mind.
+
+### "脑不是认知器官"
+
+汤普森最具挑衅性的表述是:"大脑不是认知器官" (the brain is not the organ of cognition) -- 这不是否认大脑在认知中的核心作用,而是拒绝将大脑**等同**于心智。他借用 Thomas Fuchs 的表述:大脑是**中介** (mediating organ),而非**生产者** (producing organ) -- 大脑使认知成为可能,但认知不是"发生在"大脑中的。
+
+## 4E 内部的分歧
+
+| 立场 | 代表人物 | 对表征主义的态度 |
+|------|----------|-----------------|
+| 延展心智 (Extended Mind) | Clark, Chalmers | 保留表征主义,但扩展到外部工具 |
+| 具身模拟 (Embodied Simulation) | Gallese, Lakoff | 修正表征主义,引入模拟机制 |
+| 激进生成认知 (Radical Enactivism) | Hutto, Myin | 彻底拒绝表征主义 |
+| 汤普森的生成认知 | Thompson | 拒绝表征主义,但保留意义建构的规范性 |
+
+汤普森的位置是"温和的激进派" -- 他拒绝表征主义,但不否认认知有结构性和规范性;他强调意义建构,但不退回到主观主义。
+
+## 与预测加工 (Predictive Processing) 的关系
+
+预测加工是当代认知科学中最活跃的理论之一 (Friston, Clark, Hohwy),主张大脑是一个"预测机器" -- 通过不断生成关于感觉输入的预测来理解世界。
+
+汤普森对预测加工的态度是复杂的:
+- **积极面**:预测加工强调了有机体的**主动性** -- 大脑不是被动接收信息,而是主动预测 -- 这与生成认知的精神一致;
+- **消极面**:预测加工仍然使用了"内部模型"和"推断"的表征主义语言 -- 这在汤普森看来是对生成认知的退步;
+- **可能的整合**:如果将预测加工从表征主义框架中解放出来,理解为有机体-环境耦合的**动态调节**,那么它可以成为生成认知的补充而非替代。
+
+## 与东方思想的对话
+
+4E 认知与东方思想 (特别是佛教和道教) 有深层共鸣:
+- **无我** (anatman):如果认知不是发生在封闭大脑中,而是涉及整个有机体-环境系统,那么"独立的认知主体"就是一个幻觉 -- 这与佛教的"无我"呼应;
+- **缘起**:认知的生成性 (enactive) 特征与缘起论的结构类似 -- 二者都强调过程性、关系性和依赖性;
+- **天人合一**:认知嵌入环境的论题与道教的"天人合一"有表面相似性 -- 尽管理论基础完全不同。
+
+## 返回
+
+- [汤普森主条目](../README.md)
+- [生成认知](enactivism.md) -- 4E 中最激进的维度
+- [生命-心智连续性](mind-in-life.md) -- 为什么身体对认知至关重要
+- [意义建构](sense-making.md) -- 4E 认知中的意义创造活动
+- [神经现象学](neurophenomenology.md) -- 如何研究 4E 认知

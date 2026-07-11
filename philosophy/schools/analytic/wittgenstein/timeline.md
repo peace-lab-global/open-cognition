@@ -1,0 +1,81 @@
+---
+id: wittgenstein-timeline
+title: 维特根斯坦年表 · Wittgenstein Timeline
+type: timeline
+thinker: wittgenstein
+domain: philosophy
+school: analytic
+---
+
+# 维特根斯坦年表 / Wittgenstein Timeline
+
+## 早年 / Early Life (1889–1911)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1889 | 4月26日生于维也纳，出身于欧洲最富有的工业家族之一。父亲卡尔·维特根斯坦是钢铁大王。/ Born April 26 in Vienna, into one of Europe's wealthiest industrial families. |
+| 1898–1903 | 在林茨实科中学就读，与希特勒同期（不同年级）。/ Attended Realschule in Linz, overlapping with Hitler. |
+| 1906–1908 | 在柏林学习机械工程，对螺旋桨设计产生兴趣，开始思考纯数学问题。/ Studied mechanical engineering in Berlin; interested in propeller design and pure mathematics. |
+| 1908 | 赴曼彻斯特大学研究航空工程；阅读罗素《数学原理》和弗雷格《算术基础》，转向逻辑与哲学。/ Went to Manchester University; read Russell's *Principles of Mathematics* and Frege's *Foundations of Arithmetic*, turning to logic and philosophy. |
+| 1911 | 赴耶拿拜访弗雷格，弗雷格建议他跟随罗素学习。10月到达剑桥。/ Visited Frege in Jena; Frege recommended studying with Russell. Arrived at Cambridge in October. |
+
+## 剑桥与战争 / Cambridge and War (1911–1918)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1911–1913 | 在剑桥跟随罗素学习逻辑与哲学；与罗素建立深厚的智识友谊。/ Studied logic and philosophy under Russell at Cambridge; formed deep intellectual friendship. |
+| 1912–1913 | 与罗素讨论"逻辑的形式"问题，产生关于命题本质的初步洞见。/ Discussed "the form of logic" with Russell; developed early insights into the nature of propositions. |
+| 1913 | 父亲去世，继承巨额遗产。退隐至挪威Skjolden的小木屋独自思考逻辑。/ Father died; inherited enormous fortune. Retreated to a cabin in Skjolden, Norway, to think about logic alone. |
+| 1914 | 一战爆发。维特根斯坦志愿参军（奥地利军队），在东线和南线服役。/ WWI broke out. Wittgenstein volunteered for the Austrian army, serving on Eastern and Southern fronts. |
+| 1914–1918 | 战争期间随身携带笔记，发展出《逻辑哲学论》的核心思想。多次获勋章。/ Carried notebooks throughout the war; developed core ideas of the *Tractatus*. Awarded multiple decorations. |
+| 1918 | 完成《逻辑哲学论》初稿。10月被意大利军队俘虏，关押在卡西诺山战俘营。/ Completed draft of *Tractatus*. Captured by Italian army in October; held at Monte Cassino POW camp. |
+
+## 《逻辑哲学论》与沉默期 / *Tractatus* and Silence (1919–1928)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1919 | 在战俘营中修改《逻辑哲学论》。8月获释。将全部遗产送给兄弟姐妹。/ Revised *Tractatus* in POW camp. Released in August. Gave entire fortune to siblings. |
+| 1921 | 《逻辑哲学论》以德文出版（*Logisch-philosophische Abhandlung*），附有罗素序言（维特根斯坦不满意）。/ *Tractatus* published in German, with Russell's preface (which Wittgenstein disliked). |
+| 1922 | 英文版出版（C.K. Ogden译，弗兰克·拉姆齐校对）。/ English edition published (trans. C.K. Ogden, checked by Frank Ramsey). |
+| 1920–1926 | 在奥地利乡村当小学教师。教授严苛，与村民关系紧张。为小学生编写拼写词典。/ Worked as primary school teacher in Austrian villages. Taught strictly; strained relations with villagers. Compiled a spelling dictionary for pupils. |
+| 1926 | 因体罚学生事件辞职。回维也纳为姐姐Margaret设计一座现代主义住宅（Stonborough House）。/ Resigned after corporal punishment incident. Returned to Vienna to design a modernist house for his sister Margaret. |
+| 1927–1928 | 与维也纳学圈成员（石里克、魏斯曼等）接触。逐渐意识到《逻辑哲学论》的困难。/ Contacted Vienna Circle members (Schlick, Waismann). Gradually recognized difficulties in the *Tractatus*. |
+
+## 重返哲学 / Return to Philosophy (1929–1939)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1929 | 1月重返剑桥。以《逻辑哲学论》作为博士论文答辩（考官为罗素和摩尔）。/ Returned to Cambridge in January. Defended *Tractatus* as PhD thesis (examiners: Russell and Moore). |
+| 1929–1930 | 发表"关于逻辑形式的一些Remarks"。开始批判颜色排斥问题对图像论的挑战。/ Published "Some Remarks on Logical Form." Began critiquing the color-exclusion challenge to the picture theory. |
+| 1930–1936 | 在剑桥授课，讲课笔记后编为《蓝皮书》和《棕皮书》。/ Taught at Cambridge; lecture notes later compiled as *Blue and Brown Books*. |
+| 1933–1934 | 口述《蓝皮书》给学生。语言游戏概念初步成形。/ Dictated *Blue Book* to students. Language-game concept taking shape. |
+| 1936–1937 | 再赴挪威Skjolden。写作《哲学研究》早期版本（所谓"中期稿"）。/ Returned to Skjolden, Norway. Wrote early versions of *Philosophical Investigations* (the "middle manuscript"). |
+| 1938 | 德国吞并奥地利（Anschluss）。维特根斯坦家族受纳粹种族法威胁。/ Anschluss (German annexation of Austria). Wittgenstein family threatened by Nazi racial laws. |
+| 1939 | 接替摩尔任剑桥哲学教授。入英国籍。讲授数学基础课程。/ Succeeded Moore as Cambridge Professor of Philosophy. Became British citizen. Taught foundations of mathematics. |
+
+## 战争与最后岁月 / War and Final Years (1939–1951)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1941–1943 | 二战期间在伦敦Guy's Hospital当护工。/ Worked as hospital porter at Guy's Hospital, London, during WWII. |
+| 1943–1947 | 在Newcastle的医学实验室当助理。同时持续修改《哲学研究》。/ Worked as laboratory assistant in Newcastle medical lab. Continued revising *Philosophical Investigations*. |
+| 1947 | 辞去剑桥教授职位。赴爱尔兰西海岸独居。/ Resigned from Cambridge. Moved to west coast of Ireland to live alone. |
+| 1949 | 赴美探望友人。被诊断出前列腺癌。/ Visited friends in the US. Diagnosed with prostate cancer. |
+| 1949–1951 | 在剑桥、伦敦和牛津之间辗转。写作《论确定性》——最后的手稿。/ Moved between Cambridge, London, and Oxford. Wrote *On Certainty* — the final manuscript. |
+| 1951 | 4月29日在剑桥去世。最后遗言："告诉他们我度过了美好的一生。" / Died April 29 in Cambridge. Last words: "Tell them I've had a wonderful life." |
+
+## 身后出版 / Posthumous Publications
+
+| 年份 / Year | 著作 / Work |
+|---|---|
+| 1953 | 《哲学研究》*Philosophical Investigations* |
+| 1956 | 《数学基础评论》*Remarks on the Foundations of Mathematics* |
+| 1958 | 《蓝皮书与棕皮书》*The Blue and Brown Books* |
+| 1964 | 《哲学评论》*Philosophical Remarks* |
+| 1967 | 《杂评》*Zettel* |
+| 1969 | 《论确定性》*On Certainty* |
+| 1974 | 《哲学语法》*Philosophical Grammar* |
+| 1977 | 《文化与价值》*Culture and Value* |
+| 1980 | 《关于颜色的评论》*Remarks on Colour* |
+| 1982 | 《心理学哲学最后著作》卷一 *Last Writings on the Philosophy of Psychology*, Vol. I |
+| 1992 | 《心理学哲学最后著作》卷二 *Last Writings on the Philosophy of Psychology*, Vol. II |

@@ -1,0 +1,104 @@
+---
+id: de-virtue
+title: 德 / De (Virtue / Power)
+type: concept
+domain: religion
+school: taoism
+thinker: laozi
+tags: [德, de, virtue, power, integrity, 内在力量, 本性]
+---
+
+# 德 / De (Virtue / Power)
+
+> **"上德不德，是以有德；下德不失德，是以无德。"**
+> *"The person of highest virtue does not display virtue, and therefore has virtue; the person of lower virtue clings to virtue, and therefore lacks virtue."*
+> — 《道德经》第38章 / Daodejing Ch. 38
+
+## 定义 / Definition
+
+德（dé）在老子哲学中是一个含义丰富而深邃的概念，不能简单等同于西方伦理学中的"美德"（virtue）或"道德"（morality）。德的本义是"得"——万物从道那里获得的本性和能力。道是万物的总根源，德是道在每一个具体事物中的体现和落实。"道生之，德畜之"（第51章）——道生成万物，德养育万物。可以说，道是普遍的、抽象的原则，德是特殊的、具体的显现。
+
+De in Laozi's philosophy is a richly layered concept that cannot be simply equated with Western "virtue" or "morality." The original meaning of de is "to obtain" — what each thing obtains from Dao as its innate nature and capacity. Dao is the universal source of all things; De is the embodiment of Dao in each particular thing. "Dao gives birth to them, De nurtures them" (Ch. 51). Dao is the universal, abstract principle; De is the particular, concrete manifestation.
+
+《道德经》分为"道经"和"德经"两篇——德经（第38–81章）正是将道的原理应用于人间秩序的部分。在这一层面上，德连接了形上学与伦理学、宇宙论与政治学。
+
+The *Daodejing* is divided into two parts: the "Dao Jing" and the "De Jing" — the De Jing (Ch. 38–81) is precisely the section that applies Dao's principles to human order. On this level, De bridges metaphysics and ethics, cosmology and politics.
+
+## 核心文本 / Core Texts
+
+### 上德与下德 / Higher and Lower De
+
+- "上德不德，是以有德；下德不失德，是以无德。上德无为而无以为；下德无为而有以为。"（第38章） / "The person of highest virtue does not display virtue, and therefore has virtue; the person of lower virtue clings to virtue, and therefore lacks virtue. Higher virtue is non-active and has nothing to act for; lower virtue is active and has something to act for." (Ch. 38)
+- "上德若谷"（第41章） / "The highest virtue is like a valley." (Ch. 41)
+- "含德之厚，比于赤子。"（第55章） / "One who is thick in virtue is like a newborn infant." (Ch. 55)
+
+### 德与道 / De and Dao
+
+- "道生之，德畜之，物形之，势成之。是以万物莫不尊道而贵德。"（第51章） / "Dao gives birth to them, De nurtures them, matter gives them form, circumstances bring them to completion. Therefore all things honor Dao and value De." (Ch. 51)
+- "道之尊，德之贵，夫莫之命而常自然。"（第51章） / "The reason Dao is honored and De is valued is that they never command, yet always allow things to be natural." (Ch. 51)
+
+### 德的特征 / Characteristics of De
+
+- "孔德之容，惟道是从。"（第21章） / "The form of great De follows only Dao." (Ch. 21)
+- "修之于身，其德乃真；修之于家，其德乃余；修之于乡，其德乃长；修之于邦，其德乃丰；修之于天下，其德乃普。"（第54章） / "Cultivated in the person, its virtue is genuine; cultivated in the family, its virtue overflows; cultivated in the community, its virtue endures; cultivated in the state, its virtue flourishes; cultivated in the world, its virtue becomes universal." (Ch. 54)
+
+## 德的三个层面 / Three Dimensions of De
+
+### 1. 本体论的德（Ontological De）
+
+在最根本的层面上，德是万物从道那里获得的内在本质——万物各自的"所得于道者"。每一物都有其德——其独特的本性和能力。鱼有鱼之德（游泳），鸟有鸟之德（飞翔），人有德（生活于社群中）。德不是从外部强加的道德规范，而是内在的、自然的天赋。"道之尊，德之贵，夫莫之命而常自然"——德之所以珍贵，正因为它不来自命令，而来自自然。
+
+At the most fundamental level, De is the inner essence that each thing obtains from Dao — what each particular thing "receives from Dao." Every thing has its De — its unique nature and capacity. Fish have the De of fish (swimming), birds have the De of birds (flying), humans have their De (living in community). De is not an externally imposed moral code but an internal, natural endowment. "The reason De is valued is that it never commands, yet always allows things to be natural" — De is precious precisely because it comes not from command but from spontaneity.
+
+### 2. 伦理的德（Ethical De）
+
+在伦理层面上，老子区分了"上德"和"下德"。上德是不刻意追求德行的自然之德——"上德不德，是以有德"。下德是刻意维持德行的人为之德——"下德不失德，是以无德"。这一区分与儒家的仁义观念形成直接对话：老子认为，当人们开始刻意追求"仁""义""礼"时，恰恰说明自然的道和德已经丧失了——"失道而后德，失德而后仁，失仁而后义，失义而后礼"（第38章）。
+
+On the ethical level, Laozi distinguishes "higher De" from "lower De." Higher De is the natural virtue that does not deliberately pursue virtuousness — "the person of highest virtue does not display virtue, and therefore has virtue." Lower De is the artificial virtue that clings to virtuousness — "the person of lower virtue clings to virtue, and therefore lacks virtue." This distinction directly engages with Confucian benevolence and righteousness: Laozi argues that when people begin deliberately pursuing "benevolence," "righteousness," and "ritual," it is precisely because the natural Dao and De have already been lost.
+
+### 3. 政治的德（Political De）
+
+在政治层面上，德是统治者影响人民的方式。"我无为而民自化"（第57章）——有德的统治者不通过强制手段来治理，而是通过自身的德行来感化人民。"其政闷闷，其民淳淳"（第58章）——有德的政治是宽厚包容的。这与儒家"为政以德"的理念有交叉，但老子更强调德的"无为"维度——不是主动地教化，而是自然地感化。
+
+On the political level, De is how the ruler influences the people. "I take no action and the people transform themselves" (Ch. 57) — the virtuous ruler governs not through coercion but through the influence of personal virtue. "When the government is dull, the people are honest" (Ch. 58) — virtuous politics is expansive and accommodating. This overlaps with the Confucian idea of "governing through virtue," but Laozi emphasizes the wu-wei dimension of De — not actively educating but naturally inspiring.
+
+## 德与婴儿 / De and the Infant
+
+老子反复以婴儿（赤子）作为德的典范——"含德之厚，比于赤子"（第55章）。婴儿"毒虫不螫，猛兽不据，攫鸟不搏"——不是因为婴儿有什么超自然的能力，而是因为婴儿处于最自然、最完整的状态，其德充沛到外在的伤害无法侵扰。"骨弱筋柔而握固"——婴儿虽然身体柔弱，但握力坚定——这正是德的力量。
+
+Laozi repeatedly uses the infant as the paradigm of De — "One who is thick in virtue is like a newborn infant" (Ch. 55). The infant is not stung by poisonous insects, not attacked by fierce beasts, not seized by birds of prey — not because of any supernatural power, but because the infant exists in the most natural, complete state, its De so abundant that external harm cannot disturb it. "Bones weak and sinews soft, yet its grip is firm" — though the infant's body is soft, its grasp is strong — this is the power of De.
+
+婴儿象征着未经人为扭曲的自然之德——无知无欲，却充满了生命力。修德的过程就是回归这种婴儿般的自然状态："常德不离，复归于婴儿"（第28章）。
+
+The infant symbolizes natural De undistorted by artifice — ignorant and desireless, yet full of vitality. The process of cultivating De is a return to this infant-like natural state: "Constant virtue does not depart; one returns to the state of an infant" (Ch. 28).
+
+## 德与儒家的比较 / Comparison with Confucian Virtue
+
+| 维度 / Dimension | 老子之德 / Laozi's De | 儒家之德 / Confucian Virtue |
+|------|----------|------------------------|
+| 来源 / Source | 内在的、自然的（从道获得） | 通过学习礼义培养 |
+| 修养方式 / Cultivation | 减法（损之又损） | 加法（学习、实践） |
+| 最高境界 / Highest State | 上德不德——不刻意追求 | 仁者安仁——自然践行 |
+| 与礼的关系 / Relation to Ritual | 礼是德丧失后的产物 | 礼是德的外在表现 |
+| 典范 / Paradigm | 婴儿、水、朴 | 君子、圣人 |
+
+## 德在道教的宗教化发展 / Religious Development in Daoism
+
+在道教传统中，德的概念获得了宗教性的维度。道教强调"积德"——通过善行和修炼来积累德行。"德"与"功"（功德）结合，成为修道的重要基础。道教的"德行"不仅是伦理品质，更是精神能量的积累。太上老君（老子的神化形象）被视为"道德天尊"——德上升为宇宙性的神圣力量。
+
+In the Daoist religious tradition, De acquires a religious dimension. Religious Daoism emphasizes "accumulating virtue" (ji de) — through good deeds and cultivation practices. De combines with "merit" (gong) as an important foundation for spiritual cultivation. In religious Daoism, virtuous conduct is not merely ethical quality but the accumulation of spiritual energy. Taishang Laojun (the deified Laozi) is venerated as the "Celestial Worthy of Dao and De" — De is elevated to a cosmic divine power.
+
+## 跨学科关联 / Cross-references
+
+- [道 / Dao](dao-the-way.md) — 德是道的具体显现 / De is Dao's concrete manifestation
+- [无为 / Wu-wei](wuwei.md) — 上德无为 / Higher De is wu-wei
+- [自然 / Ziran](ziran.md) — 德以自然为归 / De returns to ziran
+- [反 / Reversal](reversal.md) — 德的修习需要反向思维 / Cultivating De requires reversal thinking
+- [老子 · Laozi](../README.md) — 返回总览 / Return to overview
+
+## 进阶阅读 / Further Reading
+
+- 《老子》第21、28、38、41、51、54、55、59章 / Daodejing Ch. 21, 28, 38, 41, 51, 54, 55, 59
+- 陈鼓应《老子注译及评介》第38章注释 — 关于上德与下德的系统分析
+- A.C. Graham, *Disputers of the Tao* — 对老子之德与儒家之德的比较分析
+- Hans-Georg Moeller, *The Philosophy of the Daodejing*, Ch. 4 — "De: Virtue or Power?"

@@ -1,0 +1,35 @@
+---
+id: nagel-moral-luck
+title: 道德运气 · Moral Luck
+type: concept
+thinker: nagel
+domain: philosophy
+school: analytic
+tags: [ethics, responsibility, luck, control]
+---
+# 道德运气 · Moral Luck
+
+## 概念定位 / Conceptual Position
+道德判断受我们无法控制的因素影响——这与道德要求"只评判可控之事"的直觉冲突。
+
+Moral judgment is affected by factors beyond our control — conflicting with the intuition that we should only judge what is controllable.
+
+## 核心论述 / Core Argument
+
+### 四种道德运气 / Four Types of Moral Luck
+1. **构成运气 / Constitutive**: 你是什么样的人（性格、气质）
+2. **环境运气 / Circumstantial**: 你面临什么情境
+3. **因果运气 / Resultant**: 你的行动导致什么后果
+4. **存在运气 / Existential**: 你是谁、你存在本身
+
+### 核心悖论 / Core Paradox
+如果道德判断受运气影响，而我们只应为可控之事负责——那么几乎没有什么是可以正当地被道德评判的。这威胁到道德判断本身的可能性。
+
+If moral judgment is affected by luck, and we should only be responsible for what is controllable — then almost nothing can be legitimately morally judged.
+
+## 哲学意义 / Philosophical Significance
+影响了法律哲学（责任归属）、伦理学（道德评判的可能性）和政治哲学（公平与运气）。
+
+## 相关概念 / Related Concepts
+- [无何之见 View from Nowhere](view-from-nowhere.md)
+- [内格尔主页](../README.md)

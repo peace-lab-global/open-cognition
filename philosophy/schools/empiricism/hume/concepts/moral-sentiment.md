@@ -1,0 +1,121 @@
+---
+id: hume-moral-sentiment
+title: 道德情感论 · Moral Sentiment
+type: concept
+domain: philosophy
+school: empiricism
+era: early-modern
+thinker: hume
+tags:
+  - moral-sentiment
+  - sympathy
+  - impartial-spectator
+  - utility
+  - ethics
+  - sentimentalism
+parent: hume
+---
+
+# 道德情感论 · Moral Sentiment
+
+> **"道德与其说是被判断 (judged) 的，不如说是被感受 (felt) 的。"**
+> *Morality... is more properly felt than judg'd of.*
+> — *A Treatise of Human Nature*, Book III, Part I, Section II
+
+## 概念定位 / Concept Overview
+
+**道德情感论 (Moral Sentimentalism)** 是休谟伦理学的核心立场：道德判断的根基是**情感 (sentiment/feeling)** 而非**理性 (reason)**。善与恶不是事物的客观属性，而是旁观者在**同情 (sympathy)** 机制的作用下产生的赞许 (approbation) 或谴责 (disapprobation) 之情。这一立场使休谟成为道德情感主义 (moral sentimentalism) 传统的奠基人，直接影响了亚当·斯密 (Adam Smith) 的《道德情操论》(The Theory of Moral Sentiments) 以及后来的功利主义 (utilitarianism)。
+
+## 论证结构 / Argument Structure
+
+### 第一步：理性不能成为道德的基础
+
+休谟在《人性论》第三卷中系统地反驳了道德理性主义 (moral rationalism)——即认为道德可以通过纯粹理性推导得出的立场（如克拉克 (Clarke)、卡德沃思 (Cudworth) 等人的观点）。
+
+休谟的论证有两个层面：
+
+1. **理性不能产生行动 (reason alone cannot motivate action)**。理性关注的是"真与假" (truth and falsehood)，而道德关注的是"应当与不应当" (ought and ought not)。理性可以告诉我们事实是什么，但不能告诉我们应当做什么。这就是"理性是激情的奴隶" (reason is the slave of the passions) 的含义。
+
+2. **理性无法辨别善恶**。如果善恶是理性可以发现的客观属性（如事物之间的"关系"），那么我们应该能在非道德对象（如树木、石头）中也发现善恶——但我们显然不会说一棵树是"邪恶的"。因此善恶不是事物的属性，而是主体对事物的感受。
+
+### 第二步：道德源于情感
+
+既然道德不是理性的产物，那它来自哪里？休谟的回答是：**道德判断是一种特殊的情感反应**。
+
+当我们观察一个行为时：
+
+- 如果它引起我们的**赞许之情 (feeling of approbation)**，我们就判断它是善的 (virtuous)
+- 如果它引起我们的**谴责之情 (feeling of disapprobation)**，我们就判断它是恶的 (vicious)
+
+这些情感不是任意的——它们有其心理学规律。休谟认为，道德情感的核心机制是**同情 (sympathy)** 和对**效用 (utility)** 的认可。
+
+### 第三步：同情 (Sympathy)
+
+休谟的"同情" (sympathy) 不是当代日常用语中的"怜悯" (pity)，而是一种**情感传导机制 (mechanism of emotional communication)**：
+
+- 我们通过想象力 (imagination) 将自己置于他人的处境
+- 他人的快乐和痛苦通过同情机制在我们心中产生相应的情感
+- 因此，促进他人福祉的行为引起我们的赞许，损害他人利益的行为引起我们的谴责
+
+同情是道德判断的**心理基础**——它解释了为什么我们关心与我们无直接利害关系的他人的命运。
+
+### 第四步：公正旁观者 (The Impartial Spectator)
+
+如果道德判断基于个人情感，那它会不会沦为纯粹的主观偏好？休谟的回答是否定的。他引入了**公正旁观者 (general point of view / impartial spectator)** 的概念：
+
+- 每个人从自己的特殊立场出发会产生不同的情感反应
+- 但我们可以（而且在道德判断中必须）采取一个"一般的观点" (general point of view)——即想象自己是一个没有偏见的旁观者
+- 从这个"公正旁观者"的立场出发，我们才能达到道德判断的**主体间一致性 (intersubjective agreement)**
+
+这个概念后来被亚当·斯密发展为"公正旁观者" (impartial spectator)，也被约翰·罗尔斯 (John Rawls) 在某种程度上继承为"无知之幕" (veil of ignorance) 的前身。
+
+### 第五步：效用 (Utility)
+
+休谟指出，我们之所以赞许某些品格特征 (character traits)——如仁慈 (benevolence)、正义 (justice)、勤勉 (industry)——是因为它们具有**效用 (utility)**，即对当事人自己或社会有益。效用不是道德的唯一来源（休谟也承认某些品质如勇敢、高贵有直接的审美吸引力），但它是道德赞许的主要来源之一。
+
+这一观点直接启发了边沁 (Jeremy Bentham) 和密尔 (John Stuart Mill) 的功利主义 (utilitarianism)。
+
+## 核心术语 / Key Terms
+
+| 术语 | 英文 | 含义 |
+|---|---|---|
+| 道德情感 | Moral Sentiment | 道德判断所基于的情感反应 |
+| 同情 | Sympathy | 情感传导机制，使他人的苦乐在我们心中产生共鸣 |
+| 公正旁观者 | General Point of View | 超越个人立场的道德观察视角 |
+| 效用 | Utility | 品格特征对当事人或社会的有用性 |
+| 赞许/谴责 | Approbation / Disapprobation | 道德情感的基本极性 |
+| 道德理性主义 | Moral Rationalism | 休谟批评的对手立场 |
+
+## 与东方思想的对话 / East-West Dialogue
+
+### 儒家的"恻隐之心"
+
+孟子的"恻隐之心" (the feeling of commiseration) 与休谟的"同情" (sympathy) 有着惊人的结构相似性：
+
+- 孟子"孺子入井" (child falling into a well) 的思想实验：任何人在看到一个孩子即将掉入井中时，都会产生"怵惕恻隐之心"——不是因为认识孩子的父母，不是为了获得赞誉，而是出于一种先天的道德情感
+- 休谟的同情机制同样认为，对他人的痛苦感同身受是人性中的自然倾向，不需要理性的论证来支持
+
+两者的差异在于：孟子将恻隐之心视为人性本善 (innate goodness) 的证据，而休谟将其视为一种心理机制，不做本体论判断。
+
+### 佛学的慈悲 (Karuṇā)
+
+佛学的**慈悲 (karuṇā)** 概念与休谟的同情有深层共鸣：
+
+- 慈悲不是理性的义务，而是通过修行 (bhāvanā) 培养的情感品质
+- 大悲 (mahākaruṇā) 超越自他界限——这可以被理解为"同情"的极致形态
+- 但佛学走得更远：慈悲的根基是**空性 (śūnyatā)** 的智慧——因为自他无自性 (without inherent existence) 的分别，所以慈悲是自然的流露，而非休谟所认为的"人性中的某种特殊情感"
+
+## 当代应用 / Contemporary Applications
+
+- **道德心理学** — Jonathan Haidt 的"社会直觉主义" (social intuitionism) 模型直接继承休谟的情感主义传统，认为道德判断首先由直觉驱动，理性只是事后的合理化
+- **神经伦理学** — Joshua Greene 的 fMRI 研究表明，道德判断中情感脑区（如杏仁核、腹内侧前额叶皮层）的激活先于理性推理脑区，支持了休谟"理性是激情的奴隶"的洞见
+- **AI 伦理** — 如果道德判断的根基是情感而非理性，那么缺乏情感的 AI 系统能否做出真正的道德判断？这是 AI 伦理学中的核心问题之一
+
+## 延伸阅读 / Further Reading
+
+- 返回 [休谟主页](../README.md)
+- 参见 [是—应当问题](is-ought.md) — 道德情感论是休谟对"是—应当问题"的正面回答
+- *A Treatise of Human Nature*, Book III
+- *An Enquiry Concerning the Principles of Morals*
+- Annette Baier, *A Progress of Sentiments*, 1991
+- Adam Smith, *The Theory of Moral Sentiments* (1759)

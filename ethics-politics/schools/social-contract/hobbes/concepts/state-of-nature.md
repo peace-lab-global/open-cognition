@@ -1,0 +1,117 @@
+---
+id: hobbes-state-of-nature
+title: 自然状态 · State of Nature · Hobbes
+type: concept
+thinker: hobbes
+domain: ethics-politics
+school: social-contract
+tags: [state-of-nature, war, fear, human-nature, hobbes, 自然状态, 恐惧, 人性]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+  - id: locke
+    relation: 对比
+  - id: rousseau
+    relation: 对比
+  - id: rawls
+    relation: 思想实验改造
+---
+
+# 自然状态 · State of Nature
+
+## 概念概述 / Concept Overview
+
+自然状态是霍布斯政治哲学中最具影响力的思想实验之一——一个**没有公共权力的假设情境**。在这一状态中，人类在身心能力上大致平等，这种平等导致了对相同资源的竞争、对他人的猜疑以及对名誉的追逐，从而使人类不可避免地陷入"一切人反对一切人的战争"（bellum omnium contra omnes）。霍布斯用他最著名的语句描述了自然状态中的生命："孤独的、贫困的、肮脏的、残酷的、短暂的"（solitary, poor, nasty, brutish, and short）。
+
+The state of nature is one of the most influential thought experiments in Hobbes's political philosophy — a **hypothetical condition without public power**. In this condition, humans are roughly equal in physical and mental capacity; this equality leads to competition for the same resources, mutual suspicion, and pursuit of glory, making it inevitable that humans fall into a "war of every man against every man" (bellum omnium contra omnes). Hobbes describes life in the state of nature in his most famous phrase: "solitary, poor, nasty, brutish, and short."
+
+这一概念的意义远超政治哲学本身。它为社会契约论提供了逻辑起点，为现代国家理论提供了反面论证（为什么需要国家？），并成为国际关系理论、博弈论和演化生物学等多个领域的核心分析框架。
+
+The significance of this concept extends far beyond political philosophy itself. It provides the logical starting point for social contract theory, the negative argument for modern state theory (why do we need a state?), and has become a core analytical framework in international relations theory, game theory, and evolutionary biology.
+
+## 理论内涵 / Theoretical Content
+
+### 三种冲突根源 / Three Causes of Conflict
+
+霍布斯认为自然状态中的冲突来自三种人性因素：Hobbes identifies three sources of conflict in human nature:
+
+| 根源 / Cause | 动机 / Motive | 目标 / Goal | 结果 / Result |
+|---|---|---|---|
+| **竞争 / Competition** | 物质利益 / Material gain | 获取他人财产 / Acquiring others' goods | 暴力 / Violence |
+| **猜疑 / Diffidence** | 安全 / Security | 先发制人的自我保护 / Preemptive self-protection | 恐惧 / Fear |
+| **虚荣 / Glory** | 名誉 / Reputation | 追求他人尊重 / Seeking others' respect | 冲突 / Conflict |
+
+其中最深刻的是**猜疑**——即使没有物质利益冲突，理性的人也会出于安全的考量而先发制人地攻击他人。这构成了所谓"霍布斯陷阱"（Hobbesian trap）：相互恐惧导致的自我实现的预言。
+
+The most profound cause is **diffidence** — even without material conflicts of interest, rational individuals will attack preemptively out of security concerns. This constitutes the so-called "Hobbesian trap": a self-fulfilling prophecy driven by mutual fear.
+
+### 平等悖论 / The Equality Paradox
+
+霍布斯提出了一个反直觉的论证：自然状态中的战争恰恰源于人类的**平等**。在最弱者也能杀死最强者的条件下（通过密谋或联合），没有人强大到足以永久地确保安全。这与后来的社会达尔文主义截然不同——霍布斯认为平等不是和平的基础，而是冲突的根源。
+
+Hobbes advances a counterintuitive argument: war in the state of nature arises precisely from human **equality**. Since even the weakest can kill the strongest (through cunning or alliance), no one is powerful enough to secure permanent safety. This differs sharply from later social Darwinism — Hobbes sees equality not as the foundation of peace but as the root of conflict.
+
+### "战争状态"的精确含义 / The Precise Meaning of "State of War"
+
+霍布斯明确区分：战争状态不等于持续战斗。战争状态是指**打仗的意愿持续存在**，且没有公共权威阻止暴力。正如"坏天气不等于一直下雨，而是指下雨的倾向持续存在"。这意味着即使没有实际的暴力行为，只要暴力的**可能性**持续存在，就构成了战争状态。
+
+Hobbes draws a precise distinction: the state of war is not constant fighting. It is the **continuous disposition to fight** in the absence of public authority to prevent violence. Just as "foul weather is not constant rain but the persistent tendency toward rain." This means that even without actual violence, the mere **possibility** of violence constitutes a state of war.
+
+## 思想史脉络 / Intellectual History
+
+自然状态概念的思想渊源可追溯至古希腊。修昔底德对伯罗奔尼撒战争中国际无政府状态的描述是重要先驱。卢克莱修在《物性论》中描述了前文明状态。但霍布斯首次将自然状态提升为**系统性的分析工具**，而非仅仅是文学想象或历史叙述。
+
+The intellectual ancestry of the state of nature concept reaches back to ancient Greece. Thucydides' description of international anarchy during the Peloponnesian War was an important precursor. Lucretius described a pre-civil condition in *De Rerum Natura*. But Hobbes was the first to elevate the state of nature into a **systematic analytical tool** rather than mere literary imagination or historical narrative.
+
+后世思想家对自然状态的理解产生了深刻分歧。洛克将自然状态描绘为相对和平的状态，受自然法约束；卢梭将其想象为前道德的孤独平和；康德将其视为道德义务的场域。罗尔斯的"原初状态"可被视为自然状态在当代的改造——以"无知之幕"取代霍布斯的恐惧驱动。
+
+Later thinkers profoundly diverged in their understanding of the state of nature. Locke depicted it as relatively peaceful, constrained by natural law; Rousseau imagined it as pre-moral and solitary; Kant treated it as a field of moral obligation. Rawls's "original position" can be seen as a contemporary transformation — replacing Hobbesian fear with a "veil of ignorance."
+
+## 关键文本 / Key Passages
+
+> "In such condition [the state of nature], there is no place for industry, because the fruit thereof is uncertain: and consequently no culture of the earth; no navigation, nor use of the commodities that may be imported by sea; no commodious building; no instruments of moving and removing such things as require much force; no knowledge of the face of the earth; no account of time; no arts; no letters; no society; and which is worst of all, continual fear, and danger of violent death; and the life of man, solitary, poor, nasty, brutish, and short."
+> — *Leviathan*, Ch. 13
+
+这段文字是英语散文史上最著名的段落之一，以其节奏感和修辞力量展示了霍布斯对人类文明脆弱性的深刻理解。
+
+This passage is one of the most famous in the history of English prose, displaying through its rhythmic power and rhetoric Hobbes's profound understanding of the fragility of human civilization.
+
+> "During the time men live without a common power to keep them all in awe, they are in that condition which is called war; and such a war as is of every man against every man."
+> — *Leviathan*, Ch. 13
+
+## 当代应用 / Contemporary Applications
+
+- **国际关系 / International Relations** — 国家间的无政府状态被广泛视为自然状态的当代版。现实主义者（如摩根索、沃尔兹）直接将霍布斯的分析框架应用于国际体系。Anarchic interstate relations are widely seen as a contemporary version of the state of nature. Realists (Morgenthau, Waltz) directly apply Hobbesian analysis to the international system.
+
+- **失败国家 / Failed States** — 索马里、阿富汗等国的无政府状态在经验上验证了霍布斯的分析：当国家解体后，部落、军阀和民兵填补权力真空。Anarchic conditions in Somalia, Afghanistan, and other failed states empirically validate Hobbes's analysis: when the state dissolves, tribes, warlords, and militias fill the power vacuum.
+
+- **网络空间 / Cyberspace** — 缺乏中央权威的互联网被视为"数字自然状态"，网络犯罪和网络战类比于自然状态中的暴力。The internet, lacking central authority, is viewed as a "digital state of nature," with cybercrime and cyberwarfare analogous to violence in the natural condition.
+
+- **博弈论 / Game Theory** — 囚徒困境在结构上与霍布斯的自然状态同构：理性个体的最优选择导致了集体的最差结果。The Prisoner's Dilemma is structurally isomorphic with Hobbes's state of nature: rational individual choices produce collectively worst outcomes.
+
+## 批评与回应 / Critiques and Responses
+
+- **洛克 / Locke**：自然状态并非必然的战争状态——自然法在自然状态中已经存在并约束人。霍布斯的错误在于混淆了"自然状态"和"战争状态"。The state of nature is not necessarily a state of war — natural law already exists and binds individuals in the state of nature. Hobbes's error lies in conflating "state of nature" and "state of war."
+
+- **卢梭 / Rousseau**：霍布斯将文明社会的特征（虚荣、竞争）投射到了自然人身上。真正的自然人是孤独的、平和的、前道德的。Hobbes projected the features of civil society (vanity, competition) onto natural man. True natural man is solitary, peaceful, and pre-moral.
+
+- **女性主义 / Feminism**（Pateman）：自然状态假设忽视了家庭和性别关系，预设了一个全男性的政治主体。The state of nature hypothesis ignores family and gender relations, presupposing an all-male political subject.
+
+- **回应 / Response**：霍布斯的支持者指出，自然状态不是历史假说而是分析工具——其目的是论证国家的必要性，而非描述人类起源。Hobbes's defenders note that the state of nature is not a historical hypothesis but an analytical tool — its purpose is to argue for the necessity of the state, not to describe human origins.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+荀子的"性恶论"与霍布斯的自然状态分析形成有趣的平行。荀子认为人性本恶——"生而有好利焉""生而有疾恶焉"——如果不加约束必然导致争夺和混乱，需要"礼义法度"来"化性起伪"。这与霍布斯认为自然状态中的冲突源于人性，需要通过主权权力来约束的逻辑结构高度相似。
+
+Xunzi's "evil nature" thesis forms an interesting parallel with Hobbes's state of nature analysis. Xunzi held that human nature is inherently evil — people are "born with a love of profit" and "born with feelings of hate" — which, if unrestrained, inevitably leads to conflict and disorder, requiring ritual and law to "transform nature through artifice." This is structurally very similar to Hobbes's argument that conflict in the state of nature stems from human nature and must be restrained by sovereign power.
+
+印度思想传统中，《摩诃婆罗多》描述了"matsyanyaya"（大鱼吃小鱼法则），即无国王状态下的弱肉强食，与霍布斯的自然状态有显著的结构相似。
+
+In the Indian tradition, the *Mahabharata* describes *matsyanyaya* (the law of the fish — big fish eat small fish), depicting the condition of the strong devouring the weak without a king, which bears remarkable structural similarity to Hobbes's state of nature.
+
+## 延伸阅读 / Further Reading
+
+- Kavka, Gregory. *Hobbesian Moral and Political Theory* (1986)
+- Hampton, Jean. *Hobbes and the Social Contract Tradition* (1986)
+- Lloyd, S.A. *Ideals as Interests in Hobbes's Leviathan* (1992)
+- 赵汀阳《天下体系》中对霍布斯式国际无政府状态的批判

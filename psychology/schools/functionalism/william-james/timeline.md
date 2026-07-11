@@ -1,0 +1,73 @@
+---
+id: william-james-timeline
+title: "詹姆斯生平年表 · William James Life Timeline"
+type: timeline
+thinker: james-william
+---
+
+# 詹姆斯生平年表 · William James Life Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1842 | 1月11日出生于纽约市阿斯特广场，父亲亨利·詹姆斯 Sr. 为瑞典堡派神学家 / Born January 11 in Astor Place, New York City; father Henry James Sr. was a Swedenborgian theologian |
+| 1850s | 少年时代随家庭在欧洲游历，在日内瓦学习法语与科学 / Traveled with family in Europe; studied French and science in Geneva |
+| 1858–1860 | 在波恩和柏林接触生理学与化学 / Encountered physiology and chemistry in Bonn and Berlin |
+| 1861 | 进入哈佛大学劳伦斯科学学院（化学与生理学） / Entered Lawrence Scientific School at Harvard (chemistry and physiology) |
+| 1864 | 进入哈佛医学院 / Entered Harvard Medical School |
+| 1865–1866 | 参加阿加西斯的巴西考察（Thayer Expedition），考察期间患上重病 / Participated in the Thayer Expedition to Brazil; fell seriously ill during the expedition |
+| 1869 | 获得哈佛医学院医学博士（M.D.）学位 / Earned M.D. from Harvard Medical School |
+
+## 精神危机与学术起步 / Spiritual Crisis and Academic Beginnings
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1869–1872 | 经历严重的精神危机——深度抑郁、对决定论的恐惧、对自由意志的困惑 / Experienced severe spiritual crisis — deep depression, fear of determinism, perplexity over free will |
+| ~1870 | 阅读法国哲学家雷诺维叶（Renouvier）关于自由意志的论述后，做出"我的第一个自由意志行为将是相信自由意志"的决定 / After reading Renouvier on free will, decided "My first act of free will shall be to believe in free will" |
+| 1872 | 加入皮尔斯创立的"形而上学俱乐部"（Metaphysical Club），接触早期实用主义思想 / Joined Peirce's "Metaphysical Club," encountering early pragmatist ideas |
+| 1875 | 在哈佛开设生理学课程，将心理学引入教学 / Began teaching physiology at Harvard, introducing psychology into the curriculum |
+| 1878 | 与斯坦格合作，在哈佛建立美国最早的心理学实验室之一 / Collaborated with Stanger to establish one of the first psychology laboratories in the U.S. at Harvard |
+| 1878 | 开始写作《心理学原理》，原计划两年完成，实际耗时十二年 / Began writing *The Principles of Psychology*, originally planned for two years but taking twelve |
+
+## 中期：心理学巨著与实用主义 / Middle Period: Psychological Masterwork and Pragmatism
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1884 | 发表"What Is an Emotion?"，提出詹姆斯-兰格情绪理论 / Published "What Is an Emotion?," proposing the James-Lange theory of emotion |
+| 1890 | 《心理学原理》两卷本出版——美国心理学奠基之作 / *The Principles of Psychology* (2 vols.) published — founding work of American psychology |
+| 1892 | 出版《心理学简编》，广泛用于大学教学 / Published *Psychology: Briefer Course*, widely used in university teaching |
+| 1894 | 首次担任美国心理学会（APA）主席 / First served as president of the APA |
+| 1897 | 出版《信仰意志及其他论文》 / Published *The Will to Believe and Other Essays in Popular Philosophy* |
+| 1899 | 出版《与教师谈心理学》 / Published *Talks to Teachers on Psychology* |
+| 1901–1902 | 在爱丁堡大学讲授吉福德讲座 / Delivered Gifford Lectures at University of Edinburgh |
+| 1902 | 出版《宗教经验种种》——宗教心理学经典 / Published *The Varieties of Religious Experience* — classic of psychology of religion |
+
+## 晚期：激进经验主义与哲学综合 / Late Period: Radical Empiricism and Philosophical Synthesis
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1904 | 担任美国心理学会主席（第二届） / Served as president of the APA (second term) |
+| 1904 | 发表《"意识"存在吗？》，质疑将意识视为实体的传统观点 / Published "Does 'Consciousness' Exist?," questioning traditional view of consciousness as entity |
+| 1904– | 在一系列论文中发展"激进经验主义"，提出"纯粹经验"概念 / Developed "Radical Empiricism" in essay series, proposing "pure experience" concept |
+| 1906 | 担任美国哲学学会主席 / Served as President of the American Philosophical Association |
+| 1907 | 出版《实用主义》——生前最具公共影响力的著作 / Published *Pragmatism* — most publicly influential book during his lifetime |
+| 1909 | 出版《多元的宇宙》和《真理的意义》 / Published *A Pluralistic Universe* and *The Meaning of Truth* |
+| 1907 | 从哈佛大学正式退休 / Formally retired from Harvard University |
+
+## 逝世与遗产 / Death and Legacy
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1910 | 8月26日在新罕布什尔州乔科鲁瓦因心力衰竭去世，享年68岁 / Died August 26 in Chocorua, New Hampshire, of heart failure, aged 68 |
+| 1911 | 遗著《哲学的若干问题》出版 / Posthumous publication of *Some Problems of Philosophy* |
+| 1912 | 遗著《激进经验主义论文集》由佩里编辑出版 / Posthumous *Essays in Radical Empiricism* edited by Perry |
+
+## 影响力与认可 / Impact and Recognition
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1920s– | 意识流概念深刻影响乔伊斯、伍尔夫、福克纳等现代主义作家的叙事技术 / Stream of consciousness concept profoundly influenced Joyce, Woolf, Faulkner |
+| 1990s– | 达马西奥的躯体标记假说重新发现詹姆斯-兰格情绪理论的核心价值 / Damasio's somatic marker hypothesis rediscovered core value of James-Lange theory |
+| 2000s– | 詹姆斯的实用主义方法对当代循证心理治疗的整合取向具有方法论启发意义 / James's pragmatic method has methodological significance for integrative evidence-based psychotherapy |
+| 2010s– | "意识流"和"纯粹经验"概念在当代意识科学和现象学哲学中持续引发讨论 / "Stream of consciousness" and "pure experience" continue to inspire discussion in consciousness science and phenomenology |

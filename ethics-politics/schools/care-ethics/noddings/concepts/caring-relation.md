@@ -1,0 +1,117 @@
+---
+id: caring-relation
+title: "关怀关系 · Caring Relation"
+type: concept
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 关怀关系
+  - 关系伦理学
+  - caring relation
+  - relational ethics
+  - engrossment
+  - motivational displacement
+---
+
+# 关怀关系 · Caring Relation
+
+## 概念概述 / Concept Overview
+
+"关怀关系"（caring relation）是诺丁斯关怀伦理学的核心概念，指关怀者（one-caring）与被关怀者（cared-for）之间的一种特殊的、双向的、关系性的互动。诺丁斯认为，关怀关系不是单向的善意施予，而是需要双方共同参与的关系性事件——关怀者的接纳与回应，以及被关怀者的接受与回应，共同构成了一个完整的关怀关系。
+
+The "caring relation" is the core concept of Noddings' care ethics, referring to a distinctive, bidirectional, relational interaction between the one-caring and the cared-for. Noddings argues that a caring relation is not a one-way bestowal of goodwill but a relational event requiring both parties' participation — the carer's engrossment and response, together with the cared-for's reception and response, together constitute a complete caring relation.
+
+关怀关系的独特之处在于它的结构不对称性：关怀者承担更多的主动责任——接纳（engrossment）、动机替换（motivational displacement）和行动回应——但被关怀者并非被动的接受者，他/她的回应（如微笑、成长、认可）也是关怀关系完成的必要条件。诺丁斯强调，当被关怀者的回应表明关怀已被接收时，关怀关系才真正成立。
+
+The distinctive feature of the caring relation is its structural asymmetry: the one-caring bears greater active responsibility — engrossment, motivational displacement, and responsive action — yet the cared-for is not a passive recipient. His or her response (such as a smile, growth, or acknowledgment) is also a necessary condition for the completion of the caring relation. Noddings emphasizes that the caring relation is truly established only when the cared-for's response indicates that caring has been received.
+
+## 理论内涵 / Theoretical Content
+
+诺丁斯将关怀关系的结构分解为两个核心要素：**接纳**（engrossment）和**动机替换**（motivational displacement）。
+
+Noddings decomposes the structure of the caring relation into two core elements: **engrossment** and **motivational displacement**.
+
+**接纳**是指关怀者对被关怀者的一种开放性接受状态。它不同于同情（sympathy），因为同情意味着"我感受到你的感受"，而接纳意味着"我接受你的感受作为你的感受，并让它在我心中产生回响"。诺丁斯借用马丁·布伯的"我-你"关系概念，将接纳描述为一种"用他人的眼睛看世界"的能力。在接纳状态中，关怀者不是将被关怀者对象化，而是真正地"遇见"他/她。
+
+**Engrossment** refers to the carer's state of open receptivity toward the cared-for. It is distinct from sympathy, because sympathy means "I feel your feelings," whereas engrossment means "I receive your feelings as your feelings and allow them to resonate within me." Drawing on Martin Buber's "I-Thou" concept, Noddings describes engrossment as the capacity to "see the world through the other's eyes." In the state of engrossment, the carer does not objectify the cared-for but genuinely "encounters" him or her.
+
+**动机替换**是指在接纳的基础上，关怀者的动机能量从自身的关切流向被关怀者的需要。这并不意味着完全放弃自我，而是暂时将自我的动机中心让位给被关怀者的需要。例如，一位教师在批改作业时突然注意到一个学生情绪低落，于是放下手中的笔，走过去倾听——在这个瞬间，教师的动机能量从"完成批改任务"转向了"回应这个学生的需要"。
+
+**Motivational displacement** refers to the flow of the carer's motivational energy from their own concerns toward the needs of the cared-for, following engrossment. This does not mean complete self-abandonment but a temporary displacement of the self's motivational center toward the needs of the cared-for. For example, a teacher grading papers who suddenly notices a student's emotional distress sets down the pen and goes to listen — in that moment, the teacher's motivational energy shifts from "completing the grading task" to "responding to this student's need."
+
+关怀关系的第三个重要方面是**确认**（confirmation）。诺丁斯认为，关怀者不仅看到被关怀者的当下状态，还要看到其"更好的自我"——那个正在成长中的、潜在的最佳状态。确认不是虚假的赞美或降低期望，而是在理解被关怀者的处境的基础上，肯定其内在的成长力量。
+
+A third important aspect of the caring relation is **confirmation**. Noddings argues that the carer sees not only the current state of the cared-for but also their "better self" — the growing, potentially best state. Confirmation is neither false praise nor lowered expectations; rather, it is an affirmation of the cared-for's inner growth forces, grounded in understanding of their situation.
+
+## 思想史脉络 / Intellectual History
+
+关怀关系概念的思想渊源可以追溯到多个哲学传统。首先，马丁·布伯的"我-你"（I-Thou）关系哲学提供了直接的思想资源——布伯区分了"我-它"（将他人对象化）和"我-你"（与他人真正相遇）两种关系模式，诺丁斯的"接纳"概念明显继承了这一思路。其次，弗洛姆在《爱的艺术》中对爱的分析——爱不是一种感觉而是一种实践，涉及关心、责任、尊重和知识——也深刻影响了诺丁斯。
+
+The intellectual genealogy of the caring relation concept can be traced to several philosophical traditions. First, Martin Buber's "I-Thou" relational philosophy provided direct intellectual resources — Buber distinguished between "I-It" (objectifying the other) and "I-Thou" (genuinely encountering the other) as two modes of relation, and Noddings' concept of engrossment clearly inherits this line of thought. Second, Erich Fromm's analysis of love in *The Art of Loving* — that love is not a feeling but a practice involving care, responsibility, respect, and knowledge — also profoundly influenced Noddings.
+
+在更广泛的思想史脉络中，关怀关系概念的出现标志着20世纪后期伦理学的一次重要转向：从主体性伦理（关注道德主体的理性能力和自主性）转向关系性伦理（关注道德生活的关系性基础）。这一转向与列维纳斯的"他者伦理学"、女性主义的关系本体论以及后现代对主体性形而上学的批判形成了共振。
+
+In a broader intellectual-historical context, the emergence of the caring relation concept marks an important turn in late twentieth-century ethics: from subject-centered ethics (focused on the rational capacity and autonomy of the moral subject) to relational ethics (focused on the relational foundations of moral life). This turn resonated with Levinas' "ethics of the Other," feminist relational ontology, and the postmodern critique of the metaphysics of subjectivity.
+
+## 关键文本 / Key Passages
+
+> "Caring is not a virtue in the traditional sense. It is not a quality of character that an individual possesses independently of others. Caring is a relation."
+> — Noddings, *Caring* (1984), p. 7
+
+> "关怀不是一种传统意义上的德性。它不是一种个人独立于他人而具有的性格品质。关怀是一种关系。"
+> — 诺丁斯，《关怀》（1984）
+
+这段引文集中体现了关怀关系的反本质主义立场：关怀不是内在于个体的品质，而是产生于关系中的实践。这与亚里士多德式的德性伦理形成了鲜明对比——在德性伦理中，"勇敢"、"慷慨"等品质被视为独立于具体情境的性格特征，而诺丁斯认为关怀只有在具体的关系中才存在。
+
+This passage embodies the anti-essentialist stance of the caring relation: caring is not a quality inherent in individuals but a practice generated within relations. This stands in sharp contrast to Aristotelian virtue ethics, where qualities such as "courage" and "generosity" are seen as character traits independent of specific situations, whereas Noddings argues that caring exists only within concrete relations.
+
+> "The fundamental recognition that this other human being is like me, that I too could be in this situation, makes me ready to care. But it does not yet constitute caring. I must actually receive the other."
+> — Noddings, *Caring* (1984), p. 16
+
+诺丁斯在此区分了"准备关怀"和"实际关怀"：认识到他者与自己相似只是关怀的前提，真正的关怀需要实际的接纳和回应。
+
+Noddings here distinguishes "readiness to care" from "actual caring": recognizing that the other is like oneself is only the precondition of caring; genuine caring requires actual engrossment and response.
+
+## 当代应用 / Contemporary Applications
+
+在当代医疗保健领域，关怀关系概念已被广泛应用于护患关系研究。让·沃森的"人文关怀科学"（Human Caring Science）理论直接继承了诺丁斯的框架，强调护理不仅是技术操作，更是关怀关系的实践。研究表明，基于关怀关系的护理实践能显著提高患者满意度和治疗效果。
+
+In contemporary healthcare, the caring relation concept has been widely applied in nurse-patient relationship research. Jean Watson's "Human Caring Science" theory directly inherits Noddings' framework, emphasizing that nursing is not merely technical operation but the practice of caring relations. Research shows that caring-relation-based nursing practice significantly improves patient satisfaction and treatment outcomes.
+
+在组织管理中，"关怀型领导"（caring leadership）概念借鉴了关怀关系的结构，强调领导者对员工的真诚接纳和动机替换——不是工具性的"员工关怀项目"，而是领导者真正将注意力转向员工的个体需要。
+
+In organizational management, the concept of "caring leadership" draws on the structure of the caring relation, emphasizing leaders' genuine engrossment with and motivational displacement toward employees — not instrumental "employee wellness programs," but leaders who genuinely redirect their attention to employees' individual needs.
+
+## 批评与回应 / Critiques and Responses
+
+**批评 1 / Critique 1:** 关怀关系概念是否过于理想化？在日常生活中，人们是否有足够的心理资源持续实践接纳和动机替换？
+Is the caring relation concept overly idealistic? Do people have sufficient psychological resources to continuously practice engrossment and motivational displacement in daily life?
+
+**回应 / Response:** 诺丁斯承认关怀关系是一种伦理理想而非日常常态。她区分了自然关怀（轻松的、本能的）和伦理关怀（需要努力的），并承认持续的伦理关怀是困难的。但她认为，将关怀关系作为理想标准仍然具有重要的规范功能。
+Noddings acknowledges that the caring relation is an ethical ideal rather than a daily norm. She distinguishes between natural caring (effortless, instinctive) and ethical caring (requiring effort), and admits that sustained ethical caring is difficult. But she argues that maintaining the caring relation as an ideal standard still serves an important normative function.
+
+**批评 2 / Critique 2:** 关怀关系中的不对称性是否会强化压迫性关系？被关怀者是否可能在关怀关系中被客体化？
+Might the asymmetry in the caring relation reinforce oppressive relationships? Could the cared-for be objectified within the caring relation?
+
+**回应 / Response:** 诺丁斯强调确认（confirmation）的机制正是为了防止这一点——确认要求关怀者看到被关怀者的自主性和成长潜力，而不是将其固定在被关怀者的角色中。
+Noddings emphasizes that the mechanism of confirmation is precisely designed to prevent this — confirmation requires the carer to see the cared-for's autonomy and growth potential, rather than fixing them in the role of cared-for.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国哲学中，儒家的"仁"概念与关怀关系有着深层的结构相似性。"仁"字由"人"和"二"组成，本身就暗示了道德产生于二人之间的关系。孔子说"己欲立而立人，己欲达而达人"（《论语·雍也》），这与诺丁斯的动机替换概念有异曲同工之妙——关怀者通过自身的需要来理解被关怀者的需要，然后将注意力转向他者。
+
+In Chinese philosophy, the Confucian concept of *ren* (仁, benevolence) shares a deep structural similarity with the caring relation. The character 仁 is composed of 人 (person) and 二 (two), itself suggesting that morality arises from relations between two persons. Confucius said, "wishing to establish oneself, one establishes others; wishing to succeed oneself, one helps others succeed" (*Analects* 6:30), which resonates remarkably with Noddings' concept of motivational displacement — the carer understands the cared-for's needs through their own, then redirects attention toward the other.
+
+在日本哲学中，和辻哲郎的"间柄"（aidagara）概念同样强调人的本质是关系性的——自我不是孤立的实体，而是产生于"之间"的关系。这与诺丁斯的关系自我概念高度契合。
+
+In Japanese philosophy, Watsuji Tetsuro's concept of *aidagara* (betweenness) similarly emphasizes that the essence of human beings is relational — the self is not an isolated entity but arises from the "between" of relations. This aligns closely with Noddings' concept of the relational self.
+
+## 延伸阅读 / Further Reading
+
+- Noddings, *Caring* (1984), Ch. 1–2
+- Martin Buber, *I and Thou* (1923)
+- Erich Fromm, *The Art of Loving* (1956)
+- Emmanuel Levinas, *Totality and Infinity* (1961)
+- Jean Watson, *Human Caring Science: A Theory of Nursing* (2011)
+- 和辻哲郎《伦理》/ Watsuji Tetsuro, *Rinrigaku* (Ethics, 1937)

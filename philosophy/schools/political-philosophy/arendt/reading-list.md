@@ -1,0 +1,60 @@
+---
+id: arendt-reading-list
+title: 阿伦特进阶阅读 · Arendt Reading List
+type: reading-list
+domain: philosophy
+school: political-philosophy
+thinker: arendt
+tags: [arendt, bibliography, reading-guide]
+cross-refs:
+  - id: arendt
+    relation: thinker
+---
+
+# 阿伦特进阶阅读 · Arendt Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- *The Human Condition* (1958) — 劳动/制作/行动
+- *Eichmann in Jerusalem* (1963) — 恶的平庸性
+- *The Origins of Totalitarianism* (1951) — 极权主义分析
+
+### 重要
+- *Between Past and Future* (1961) — 政治论文集
+- *On Revolution* (1963) — 革命理论
+- *The Life of the Mind* (1978) — 思维、意志、判断
+
+## 二、经典研究 / Classic Studies
+
+- Elisabeth Young-Bruehl, *Hannah Arendt: For Love of the World* (1982) — 权威传记
+- Margaret Canovan, *Hannah Arendt: A Reinterpretation* (1992)
+- Seyla Benhabib, *The Reluctant Modernism of Hannah Arendt* (2003)
+- Dana Villa (ed.), *The Cambridge Companion to Hannah Arendt* (2000)
+- Jerome Kohn, "Thinking and Acting" (1990)
+
+## 三、当代研究 / Contemporary Studies
+
+- Peg Birmingham, *Hannah Arendt and Human Rights* (2006)
+- Richard Bernstein, *Hannah Arendt and the Jewish Question* (2018)
+- Marie Luise Knott, *Unlearning with Hannah Arendt* (2011)
+- Jonathan Schell, "The Arendt Wars Continue" (2006)
+- Shmuel Lederman, "Philosophy and Politics in Arendt" (2019)
+- Julia Kristeva, *Hannah Arendt* (2001) — 女性思想家的传记系列
+
+## 四、入门推荐 / Introductory
+
+- Dana Villa, *Politics, Philosophy, Terror: Essays on the Thought of Hannah Arendt* (1999)
+- Michael Gottsegen, *The Political Thought of Hannah Arendt* (1994)
+- "Hannah Arendt" in *Stanford Encyclopedia of Philosophy* (d'Entreves)
+- 王寅丽《阿伦特与现代政治》
+
+## 五、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | *Between Past and Future* → Young-Bruehl 传记 |
+| 研究极权主义 | *Origins of Totalitarianism* → Canovan |
+| 研究行动理论 | *The Human Condition* → Benhabib |
+| 研究道德哲学 | *Eichmann* → "Thinking and Moral Considerations" → *Life of the Mind* |
+| 研究革命理论 | *On Revolution* → Villa |

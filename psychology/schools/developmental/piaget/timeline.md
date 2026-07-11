@@ -1,0 +1,67 @@
+---
+id: piaget-timeline
+title: "皮亚杰生平年表 · Jean Piaget Life Timeline"
+type: timeline
+thinker: piaget-jean
+---
+
+# 皮亚杰生平年表 · Jean Piaget Life Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1896 | 8月9日出生于瑞士纳沙泰尔，父亲亚瑟·皮亚杰为纳沙泰尔大学中世纪史教授 / Born August 9 in Neuchâtel, Switzerland; father Arthur Piaget was professor of medieval history at University of Neuchâtel |
+| ~1906 | 10岁时在纳沙泰尔自然科学学会发表关于白化麻雀的论文 / At age 10, published a paper on an albino sparrow in the Neuchâtel natural history society |
+| ~1911 | 15岁时完成关于瓦莱州软体动物的研究论文 / At age 15, completed a study of mollusks in the Valais canton |
+| 1915 | 获得纳沙泰尔大学自然科学学士学位 / Earned B.S. in Natural Sciences from University of Neuchâtel |
+| 1918 | 以软体动物研究获得纳沙泰尔大学博士学位 / Earned Ph.D. in Malacology from University of Neuchâtel |
+| 1919 | 在苏黎世布尔格霍尔兹利精神病院工作，接触精神分析和临床心理学 / Worked at Burghölzli psychiatric hospital in Zurich; encountered psychoanalysis and clinical psychology |
+| 1920 | 移居巴黎，在阿尔弗雷德·比奈（Alfred Binet）实验室担任助理 / Moved to Paris, worked as assistant in Alfred Binet's laboratory |
+
+## 发现与早期研究 / Discovery and Early Research
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1920–1921 | 在比奈实验室标准化儿童智力测验时发现：儿童的错误答案并非随机，而是表现出系统性的逻辑模式 / While standardizing children's intelligence tests at Binet's lab, noticed children's wrong answers displayed systematic logical patterns |
+| 1921 | 回到瑞士，受聘为日内瓦卢梭研究所所长 / Returned to Switzerland, appointed director of the Institut Jean-Jacques Rousseau in Geneva |
+| 1923 | 出版《儿童的语言与思维》，开始系统发表儿童心理学研究 / Published *The Language and Thought of the Child*, beginning systematic publication of child psychology research |
+| 1920s–1930s | 对自己的三个孩子（洛朗、吕西安娜、雅克琳）进行系统观察研究 / Conducted systematic observational studies of his own three children (Laurent, Lucienne, and Jacqueline) |
+| 1924 | 出版《儿童的判断与推理》 / Published *Judgment and Reasoning in the Child* |
+| 1926 | 出版《儿童的世界观》 / Published *The Child's Conception of the World* |
+| 1932 | 出版《儿童的道德判断》，区分他律道德与自律道德 / Published *The Moral Judgment of the Child*, distinguishing heteronomous from autonomous morality |
+
+## 中期：认知发展阶段理论的系统化 / Middle Period: Systematization of Cognitive Stage Theory
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1929 | 正式担任日内瓦大学心理学教授 / Formally appointed Professor of Psychology at University of Geneva |
+| 1936 | 出版《儿童智慧的起源》，系统阐述感知运动阶段的六个亚阶段 / Published *The Origins of Intelligence in Children*, systematic exposition of six sensorimotor sub-stages |
+| 1937 | 出版《儿童实在的建构》，详述客体永久性等概念的建构 / Published *The Construction of Reality in the Child* |
+| 1941 | 与英海尔德（Bärbel Inhelder）开始长达数十年的合作 / Began decades-long collaboration with Bärbel Inhelder |
+| 1941–1950s | 共同设计守恒实验、分类任务、序列化任务等精巧实验 / Together designed conservation tasks, classification tasks, seriation tasks |
+| 1946 | 出版《儿童几何与空间概念》 / Published *The Child's Conception of Geometry* |
+| 1947 | 出版《智慧心理学》，对认知发展理论进行综合性概述 / Published *The Psychology of Intelligence*, comprehensive overview |
+| 1950 | 出版三卷本 *Introduction à l'épistémologie génétique* / Published three-volume *Introduction to Genetic Epistemology* |
+| 1955 | 创立国际发生认识论中心（Centre International d'Épistémologie Génétique） / Founded the Centre International d'Épistémologie Génétique |
+
+## 晚年与遗产 / Later Years and Legacy
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1960s | "日内瓦学派"（Geneva School）在国际心理学界确立地位 / "Geneva School" established its position in international psychology |
+| 1966 | 与英海尔德合著《儿童心理学》，对毕生研究进行总结性概述 / Co-authored *The Psychology of the Child* with Inhelder |
+| 1970 | 出版《发生认识论》，将认知发展研究上升到认识论高度 / Published *Genetic Epistemology*, elevating research to epistemological level |
+| 1970s | 回应维果茨基学派和信息加工心理学的批评，修正部分过于僵化的理论立场 / Responded to Vygotskian and information-processing criticisms, revising rigid positions |
+| 1977 | 出版《反思性抽象研究》 / Published *Studies in Reflecting Abstraction* |
+| 1980 | 9月16日在日内瓦去世，享年84岁；留下超过60部著作和数百篇论文 / Died September 16 in Geneva, aged 84; left legacy of 60+ books and hundreds of papers |
+
+## 影响力与认可 / Impact and Recognition
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1950s– | 皮亚杰的认知发展理论成为发展心理学的标准理论框架 / Piaget's cognitive development theory became the standard theoretical framework in developmental psychology |
+| 1960s– | 建构主义教育学在全球范围内产生影响 / Constructivist education influenced worldwide |
+| 1970s– | 科尔伯格的道德发展理论直接建立在皮亚杰的道德判断研究之上 / Kohlberg's moral development theory directly built on Piaget's moral judgment research |
+| 1980s– | 新皮亚杰学派（Neo-Piagetians）如凯斯（Case）、帕斯卡尔-莱昂内（Pascual-Leone）等通过整合信息加工理论发展了皮亚杰的框架 / Neo-Piagetians developed Piaget's framework by integrating information-processing theory |
+| 2000s– | 皮亚杰的建构主义方法影响了发展机器人学和建构主义AI / Piaget's constructivist approach influenced developmental robotics and constructivist AI |

@@ -1,0 +1,150 @@
+---
+id: dewey-democracy-education
+title: 民主与教育 · Democracy and Education
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - democracy
+  - education
+  - growth
+  - associated-living
+  - 民主
+  - 教育
+  - 生长
+parent: dewey
+---
+
+# 民主与教育 · Democracy and Education
+
+> "A democracy is more than a form of government; it is primarily a mode of associated living, of conjoint communicated experience."
+>
+> "民主不仅仅是一种政府形式；它首先是一种联合生活的方式，一种共同交流经验的方式。"
+>
+> — John Dewey, *Democracy and Education* (1916)
+
+---
+
+## 概述 / Overview
+
+《民主与教育》（1916）是杜威最系统、最有影响力的教育哲学著作，也是20世纪教育理论的基石之一。在这部著作中，杜威论证了民主与教育之间的内在关联：民主社会需要一种特定类型的教育来维系和发展，而这种教育本身也只能在民主社会中充分实现。教育不是外在于民主的工具，而是民主的内在构成要素。
+
+*Democracy and Education* (1916) is Dewey's most systematic and influential work in educational philosophy and a cornerstone of 20th-century educational theory. In this work, Dewey demonstrated the internal connection between democracy and education: a democratic society requires a specific type of education to sustain and develop itself, and such education can only be fully realized in a democratic society. Education is not an external instrument of democracy but its constitutive element.
+
+---
+
+## 民主作为联合生活 / Democracy as Associated Living
+
+### 民主的深层含义 / The Deep Meaning of Democracy
+
+杜威对民主的理解远超政治制度的层面。他认为民主的本质在于"联合生活"（associated living）——一种特定的社会交往方式。民主社会有两个衡量标准：
+
+Dewey's understanding of democracy extends far beyond political institutions. He held that democracy's essence lies in "associated living"—a specific mode of social interaction. A democratic society has two criteria:
+
+1. **共同利益的广泛性**：社会成员共享的利益越多、越多样，社会就越民主。
+2. **群体间交流的开放性**：不同群体之间的交流越自由、越充分，社会就越民主。
+
+1. **Breadth of shared interests**: The more numerous and varied the interests shared by social members, the more democratic the society.
+2. **Openness of inter-group communication**: The freer and fuller the communication between different groups, the more democratic the society.
+
+这两个标准的深意在于：民主的核心不是投票或选举，而是经验的共享和扩展。通过与他者的交流，个体得以超越自身经验的局限，获得更丰富、更宽广的视野。
+
+The deeper significance of these criteria is that democracy's core is not voting or elections but the sharing and expansion of experience. Through communication with others, individuals transcend the limitations of their own experience, gaining richer and broader perspectives.
+
+### 民主与共同体的关系 / Democracy and Community
+
+杜威认为，民主与共同体（community）不是对立的——真正的民主创造共同体，真正的共同体需要民主。这与自由主义传统中将民主视为个体利益博弈框架的观点形成鲜明对照。杜威的民主理想更接近社群主义，但又保持了个体自由和多样性的核心价值。
+
+Dewey held that democracy and community are not opposed—genuine democracy creates community, and genuine community requires democracy. This contrasts sharply with the liberal tradition that views democracy as a framework for negotiating individual interests. Dewey's democratic ideal is closer to communitarianism while maintaining core values of individual freedom and diversity.
+
+---
+
+## 教育作为社会过程 / Education as Social Process
+
+### 教育即社会生活的延续 / Education as the Continuation of Social Life
+
+杜威将教育定义为"社会生活的延续"（the continuation of social life）。每一个社会通过教育将其积累的经验、知识和价值传递给新一代，从而维系自身的存在和发展。但杜威强调，教育不应仅仅是传递（transmission），而应是交流（communication）——新一代不是被动地接受传统，而是在参与社会生活的过程中主动地建构和改造经验。
+
+Dewey defined education as "the continuation of social life." Every society maintains its existence and development by passing on accumulated experience, knowledge, and values to new generations through education. But Dewey emphasized that education should not be mere transmission but communication—the new generation does not passively receive tradition but actively constructs and reconstructs experience through participation in social life.
+
+### 正式教育与非正式教育 / Formal and Informal Education
+
+杜威区分了正式教育（学校教育）和非正式教育（日常社会生活中的学习）。他指出，学校教育的危险在于容易脱离生活——当知识被隔离在课堂中，它就变成了与学生经验无关的抽象符号。理想的教育应打破这种隔离：学校本身应成为一种"雏形社会"（embryonic community），让学习在真实的社会交往和问题解决中发生。
+
+Dewey distinguished formal education (schooling) from informal education (learning in everyday social life). He noted that schooling's danger lies in its tendency to disconnect from life—when knowledge is isolated in classrooms, it becomes abstract symbols disconnected from students' experience. Ideal education should break this isolation: the school itself should be an "embryonic community" where learning occurs in authentic social interaction and problem-solving.
+
+---
+
+## 生长作为教育的目的 / Growth as the Aim of Education
+
+### "教育无目的论"的真意 / The True Meaning of "Education Has No External Aim"
+
+杜威那句著名的"教育本身没有目的"（education as such has no aims）常被误读。他的意思是：教育不应有一个外在于教育过程的目的——如为未来职业做准备、服从某种意识形态、或达到某个固定的道德标准。教育的目的内在于教育过程本身，即生长（growth）。
+
+Dewey's famous claim that "education as such has no aims" is often misread. He meant that education should not have an aim external to the educational process—such as preparation for a future career, obedience to an ideology, or attainment of a fixed moral standard. Education's aim is internal to the educational process itself: growth.
+
+### 生长的含义 / The Meaning of Growth
+
+杜威所说的"生长"是一个多层次的丰富概念：
+
+Dewey's "growth" is a multi-layered, rich concept:
+
+- **经验的重建 / Reconstruction of Experience**：生长意味着经验的持续扩展、深化和重组。每一次有价值的经验都使后续经验更加丰富和有意义。
+- **能力的增长 / Increase of Capacity**：生长意味着个体应对新情境、解决新问题的能力不断增强。
+- **习惯的形成 / Formation of Habits**：生长不是随意的变化，而是通过习惯的形成获得稳定的行为能力和倾向。但杜威的"习惯"不是机械的重复，而是"积极的、有创造性的能力"。
+- **民主素养的发展 / Development of Democratic Dispositions**：在民主社会中，生长还意味着个体越来越能够参与共同生活、理解和尊重他者。
+
+- **Reconstruction of Experience**: Growth means the continuous expansion, deepening, and reorganization of experience. Each worthwhile experience makes subsequent experiences richer and more meaningful.
+- **Increase of Capacity**: Growth means the individual's ability to cope with new situations and solve new problems is continually enhanced.
+- **Formation of Habits**: Growth is not random change but the acquisition of stable behavioral capacities and dispositions through habit formation. But Dewey's "habit" is not mechanical repetition—it is an "active, creative capacity."
+- **Development of Democratic Dispositions**: In a democratic society, growth also means the individual becomes increasingly capable of participating in associated life, understanding and respecting others.
+
+### 连续性原则 / The Principle of Continuity
+
+杜威提出了"经验的连续性原则"（the principle of continuity of experience）：每一个经验都对后续经验产生影响。教育的任务是确保这种影响是建设性的——即每一个经验都促进而非阻碍后续的生长。杜威将这一原则作为评价教育经验的标准：如果一个经验激发了好奇心、增强了探究欲望、拓展了理解能力，它就是有教育意义的；如果它导致冷漠、扼杀兴趣、限制了后续经验的可能性，它就是反教育的。
+
+Dewey proposed the "principle of continuity of experience": every experience influences subsequent experience. Education's task is to ensure this influence is constructive—that each experience promotes rather than hinders subsequent growth. Dewey used this principle as the criterion for evaluating educational experience: if an experience stimulates curiosity, strengthens the desire for inquiry, and expands the capacity for understanding, it is educative; if it leads to indifference, kills interest, and limits possibilities for future experience, it is anti-educative.
+
+---
+
+## 教师与学生的关系 / The Teacher-Student Relationship
+
+### 教师的角色 / The Role of the Teacher
+
+杜威反对两种极端：一种是传统的教师中心论——教师是知识的权威传授者；另一种是极端的儿童中心论——让孩子自由决定一切。杜威认为教师是学习环境的设计者和共同体的引导者。教师需要：
+
+Dewey opposed two extremes: traditional teacher-centrism—the teacher as authoritative transmitter of knowledge—and extreme child-centrism—letting children freely decide everything. Dewey held that the teacher is a designer of learning environments and a guide for the community. The teacher must:
+
+1. **理解学生的现有经验水平**：了解学生已有的兴趣、能力和经验背景。
+2. **设计促进生长的环境**：选择和组织能够激发探究、促进经验重建的材料和活动。
+3. **引导而非控制**：帮助学生发现和解决问题，但不代替他们思考或行动。
+4. **作为共同体成员参与**：教师不是站在共同体之外的权威，而是共同体中的经验丰富的成员。
+
+1. **Understand students' current experience level**: Know their existing interests, capacities, and experiential background.
+2. **Design environments that promote growth**: Select and organize materials and activities that stimulate inquiry and promote experiential reconstruction.
+3. **Guide rather than control**: Help students discover and solve problems without thinking or acting for them.
+4. **Participate as a community member**: The teacher is not an authority standing outside the community but an experienced member within it.
+
+---
+
+## 与其他思想家的关系 / Relations to Other Thinkers
+
+- **卢梭 / Rousseau**：杜威赞同卢梭对自然教育的强调，但反对将儿童与社会对立。/ Dewey agreed with Rousseau's emphasis on natural education but opposed opposing child and society.
+- **福禄贝尔 / Froebel**：杜威继承了福禄贝尔"幼儿园"的活动中心教学法，但将其扩展到所有教育阶段。/ Dewey inherited Froebel's activity-centered pedagogy but extended it to all educational levels.
+- **杜威 vs 李普曼 / Dewey vs Lippmann**：在《公众及其问题》中，杜威回应李普曼的精英民主论，论证普通公民通过教育和参与能够形成理性的公共判断。/ In *The Public and Its Problems*, Dewey responded to Lippmann's elite-democracy theory, arguing that ordinary citizens can form rational public judgment through education and participation.
+- **弗莱雷 / Freire**：弗莱雷的"被压迫者教育学"与杜威的民主教育思想有深刻共鸣——两者都反对"银行储蓄式"教育。/ Freire's "Pedagogy of the Oppressed" deeply resonates with Dewey's democratic education—both oppose "banking" education.
+- **儒家教育 / Confucian Education**：杜威的"生长"与儒家的"修身"形成对话——见 [README 东西方对话](../#东西方对话杜威-x-儒家王阳明--east-west-dialogue-dewey-x-confucianism--wang-yangming)。/ Dewey's "growth" dialogues with Confucian "self-cultivation"—see [README East-West Dialogue](../#east-west-dialogue-dewey-x-confucianism--wang-yangming).
+
+---
+
+## 当代意义 / Contemporary Significance
+
+- **建构主义学习理论 / Constructivist Learning Theory**：皮亚杰和维果茨基的建构主义直接受杜威启发。/ Piaget and Vygotsky's constructivism was directly inspired by Dewey.
+- **项目式学习 / Project-Based Learning (PBL)**：PBL 的核心——学生在真实问题中主动探究——是杜威教育理念的实践化。/ PBL's core—students actively inquiring into real problems—is the practical realization of Dewey's educational vision.
+- **服务学习 / Service Learning**：将社区服务与学术学习结合，体现杜威"学校即社会"的理想。/ Combining community service with academic learning embodies Dewey's ideal of "school as society."
+- **民主审议教育 / Democratic Deliberation Education**：培养学生的公共讨论和理性审议能力，是杜威民主教育在当代公民教育中的核心应用。/ Cultivating students' capacity for public discussion and rational deliberation is the core contemporary application of Dewey's democratic education in civic education.
+
+---
+
+> 返回 / Back to: [杜威 Dewey](../) · [Pragmatism 实用主义](../../)

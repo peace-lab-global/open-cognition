@@ -1,0 +1,205 @@
+---
+id: psychology.cognitive.beck.reading-list
+title: "贝克进阶阅读指南 \u00b7 Reading Guide for Beck"
+type: reading-list
+domain: psychology
+school: cognitive
+thinker: beck
+tags: [reading-guide, bibliography, primary-sources, secondary-literature, CBT]
+cross-refs:
+  - id: psychology.cognitive.beck
+    relation: thinker
+---
+
+# 贝克进阶阅读指南 \u00b7 Reading Guide for Aaron T. Beck
+
+## 阅读路径 / Reading Path
+
+### 入门 (3 个文本, 1-2 周) / Beginner (3 texts, 1-2 weeks)
+
+1. **David Burns《伯恩斯新情绪疗法》** (*Feeling Good: The New Mood Therapy*, 1980/1999)\
+   最普及的 CBT 自助读物。以通俗语言介绍认知扭曲、思维日记和行为激活。全球销量超 500 万册。中译：科学技术文献出版社。适合：想要自我了解 CBT 的读者。\
+   The most accessible introduction to CBT. Explains cognitive distortions, thought records, and behavioral activation in plain language. Over 5 million copies sold worldwide.
+
+2. **Judith Beck《认知疗法：基础与进阶》第 3 版** (*Cognitive Behavior Therapy: Basics and Beyond*, 3rd ed., 2020)\
+   CBT 领域最广泛使用的教科书。从认知概念化、会谈结构到核心技术，系统而清晰。中译：中国轻工业出版社。适合：心理咨询师、心理学学生。\
+   The most widely used CBT textbook. Covers cognitive conceptualization, session structure, and core techniques systematically and clearly.
+
+3. **Stefan Hofmann《CBT 简明教程》** (*An Introduction to Modern CBT: Psychological Mechanisms of Change*, 2012)\
+   简明扼要的现代 CBT 导论，强调认知改变的心理机制。适合：需要快速了解 CBT 科学基础的专业人士。\
+   A concise modern introduction to CBT emphasizing the psychological mechanisms of cognitive change.
+
+### 进阶 (7 个文本, 1-3 月) / Intermediate (7 texts, 1-3 months)
+
+4. **贝克《认知疗法与情绪障碍》** (*Cognitive Therapy and the Emotional Disorders*, 1976)\
+   贝克本人的理论阐述，系统介绍认知层级模型、苏格拉底式提问和治疗技术。\
+   Beck's own theoretical exposition, systematically presenting the cognitive hierarchy model, Socratic questioning, and therapeutic techniques.
+
+5. **贝克等《抑郁症的认知疗法》** (*Cognitive Therapy of Depression*, 1979)\
+   第一部操作手册化治疗指南。提供逐次会谈的详细治疗协议。\
+   The first manualized treatment guide. Provides detailed session-by-session treatment protocols.
+
+6. **贝克等《焦虑障碍与恐惧症》** (*Anxiety Disorders and Phobias: A Cognitive Perspective*, 1985)\
+   认知模型在焦虑障碍中的系统应用。区分了抑郁与焦虑的认知特征。\
+   Systematic application of the cognitive model to anxiety disorders. Distinguishes cognitive features of depression vs. anxiety.
+
+7. **Robert Leahy《认知疗法技术：实践者指南》** (*Cognitive Therapy Techniques: A Practitioner's Guide*, 2nd ed., 2017)\
+   最全面的 CBT 临床技术手册，涵盖 80+ 种技术。\
+   The most comprehensive CBT technique manual, covering 80+ techniques.
+
+8. **David Clark & Aaron Beck《焦虑的认知科学》** (*Cognitive Approaches to Anxiety and Emotional Disorders*, 2011)\
+   焦虑障碍认知模型的深入学术论述。\
+   In-depth academic treatment of cognitive models for anxiety disorders.
+
+9. **Segal, Williams & Teasdale《正念认知疗法治疗抑郁症》** (*Mindfulness-Based Cognitive Therapy for Depression*, 2nd ed., 2013)\
+   MBCT 的原始教材，展示 CBT 与正念的融合。\
+   The original MBCT textbook, showing the integration of CBT with mindfulness.
+
+10. **Marsha Linehan《辩证行为疗法》** (*DBT Skills Training Manual*, 2nd ed., 2015)\
+    DBT 技术手册，CBT 第三浪潮的重要代表。\
+    DBT skills training manual, an important representative of the CBT third wave.
+
+### 深潜 (3-6 月) / Deep Dive (3-6 months)
+
+11. **贝克《人格障碍的认知疗法》** (*Cognitive Therapy of Personality Disorders*, 1990)\
+    长程图式工作的理论与技术。\
+    Theory and techniques for long-term schema work.
+
+12. **Jeffrey Young 等《图式疗法：实践者指南》** (*Schema Therapy: A Practitioner's Guide*, 2003)\
+    在贝克图式理论基础上发展的完整治疗方案。\
+    A complete treatment approach developed from Beck's schema theory.
+
+13. **贝克《囚犯之恨》** (*Prisoners of Hate*, 1999)\
+    仇恨和暴力的认知分析，超越传统临床范围。\
+    Cognitive analysis of hatred and violence, extending beyond traditional clinical scope.
+
+14. **贝克《精神分裂症》** (*Schizophrenia: Cognitive Theory, Research, and Therapy*, 2004)\
+    CBT 在精神病性障碍中的应用。\
+    Application of CBT to psychotic disorders.
+
+15. **Steven Hayes 等《接纳与承诺疗法》** (*Acceptance and Commitment Therapy*, 2nd ed., 2012)\
+    ACT 的核心教材，第三浪潮 CBT 的另一重要代表。\
+    Core ACT textbook, another major representative of the CBT third wave.
+
+16. **David Weishaar《Aaron T. Beck：他的生活与工作》** (*Aaron T. Beck: His Life and Work*, 1993)\
+    最详尽的贝克传记，追溯了从精神分析到认知疗法的思想历程。\
+    The most detailed Beck biography, tracing his intellectual journey from psychoanalysis to cognitive therapy.
+
+## 原典 / Primary Sources
+
+### 专著 / Monographs
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| *Depression: Causes and Treatment* | 1967 | 抑郁症的认知模型、认知三联征 |
+| *Cognitive Therapy and the Emotional Disorders* | 1976 | 认知疗法理论框架 |
+| *Cognitive Therapy of Depression* (with Rush, Shaw, Emery) | 1979 | 操作手册化治疗指南 |
+| *Anxiety Disorders and Phobias* (with Emery, Greenberg) | 1985 | 焦虑障碍的认知模型 |
+| *Love Is Never Enough* | 1988 | 认知取向伴侣治疗 |
+| *Cognitive Therapy of Personality Disorders* (with Freeman et al.) | 1990 | 人格障碍与图式 |
+| *Prisoners of Hate* | 1999 | 仇恨的认知基础 |
+| *Schizophrenia* | 2004 | 精神分裂症的认知疗法 |
+
+### 重要论文 / Key Articles
+
+| 论文 | 年份 | 核心贡献 |
+|---|---|---|
+| "Thinking and depression: I" (*Archives of General Psychiatry*) | 1963 | 首次描述认知扭曲 |
+| "Thinking and depression: II" (*Archives of General Psychiatry*) | 1964 | 认知疗法理论初步 |
+| "Comparative efficacy of CT and pharmacotherapy" (*CTR*) | 1977 | 里程碑性 RCT |
+| "Hopelessness and eventual suicide" (*Am J Psychiatry*) | 1985 | 无望感预测自杀 |
+| "Cognitive models of depression" (*J Cog Psychotherapy*) | 1987 | 抑郁认知模型综合 |
+| "The evolution of the cognitive model" (*Am J Psychiatry*) | 2008 | 晚年理论回顾 |
+
+## 二手研究 / Secondary Literature
+
+### 传记与思想史
+
+- **Weishaar, M. J.** *Aaron T. Beck: His Life and Work* (1993) \u2014 最详尽的传记
+- **Rosner, R. I.** "Aaron T. Beck's Drawing Together: Case Report, Memoir, and the Making of Cognitive Therapy" (*Journal of the History of the Behavioral Sciences*, 2014) \u2014 学术思想史研究
+
+### 教科书与手册
+
+- **Judith Beck.** *Cognitive Behavior Therapy: Basics and Beyond*, 3rd ed. (2020) \u2014 标准教科书
+- **Dobson, K. S. (ed.).** *Handbook of Cognitive-Behavioral Therapies* (2019) \u2014 综合手册
+- **Leahy, R. L.** *Cognitive Therapy Techniques: A Practitioner's Guide*, 2nd ed. (2017) \u2014 技术手册
+- **Hofmann, S. G.** *An Introduction to Modern CBT* (2012) \u2014 简明导论
+
+### 研究综述
+
+- **Hofmann, S. G. et al.** "The efficacy of cognitive behavioral therapy: A review of meta-analyses" (*Cognitive Therapy and Research*, 2012) \u2014 CBT 疗效的元分析综述
+- **Butler, A. C. et al.** "The empirical status of cognitive-behavioral therapy: A review of meta-analyses" (*Clinical Psychology Review*, 2006) \u2014 实证状态综述
+- **Clark, D. A.** *Cognitive-Behavioral Therapy for OCD* (2004) \u2014 OCD 专论
+
+## 中文资源 / Chinese-Language Resources
+
+### 中译本
+
+- Judith Beck《认知疗法：基础与进阶》(第 3 版) \u2014 李艳等译，中国轻工业出版社
+- David Burns《伯恩斯新情绪疗法》\u2014 科学技术文献出版社
+- 贝克等《抑郁症的认知疗法》\u2014 杨又禄等译，世界图书出版公司
+- 贝克等《人格障碍的认知治疗》\u2014 李艳等译，中国轻工业出版社
+- Leahy《认知疗法技术：心理咨询师指导手册》\u2014 中国轻工业出版社
+- Segal 等《正念认知疗法》\u2014 中国轻工业出版社
+
+### 中文研究
+
+- 王建平《认知行为疗法》\u2014 北京师范大学出版社，国内 CBT 培训教材
+- 李艳《认知行为疗法入门与实践》\u2014 适合国内临床工作者
+
+## 贝克的学术源头 / Beck's Intellectual Sources
+
+### 精神分析
+
+- **弗洛伊德 (Sigmund Freud)** \u2014 贝克最初在精神分析框架内研究抑郁症，《抑郁症》(1967) 第一章详细讨论了精神分析假说及其不足
+- **卡伦\u00b7霍妮 (Karen Horney)** \u2014 霍妮对正统精神分析的修正（强调社会文化因素、"理想化自我"概念）影响了贝克的图式理论
+
+### 认知心理学
+
+- **皮亚杰 (Jean Piaget)** \u2014 "图式" (schema) 概念的直接来源
+- **George Kelly** \u2014 个人建构理论 (Personal Construct Theory)：人作为"科学家"检验假设的隐喻
+
+### 哲学
+
+- **斯多葛学派 (Stoicism)** \u2014 爱比克泰德 (Epictetus)："困扰我们的不是事，而是对事的看法"\u2014CBT 的哲学前驱
+- **阿尔弗雷德\u00b7科尔日布斯基 (Alfred Korzybski)** \u2014 一般语义学 (General Semantics)："地图不是领土" (the map is not the territory)\u2014认知与现实的区分
+
+### 行为主义
+
+- **斯金纳 (B. F. Skinner)** \u2014 行为矫正技术（强化、消退、暴露）被整合进 CBT
+- **Joseph Wolpe** \u2014 系统脱敏和行为治疗技术
+
+## 贝克的学术下游 / Beck's Intellectual Legacy
+
+### 第二浪潮 CBT（经典）
+
+- **David Burns** \u2014 CBT 最成功的科普作家
+- **David Clark** \u2014 惊恐障碍的认知模型
+- **Arthur Freeman** \u2014 人格障碍的 CBT
+
+### 第三浪潮 CBT
+
+- **Steven Hayes** \u2014 接纳与承诺疗法 (ACT)
+- **Marsha Linehan** \u2014 辩证行为疗法 (DBT)
+- **Zindel Segal** \u2014 正念认知疗法 (MBCT)
+- **Jeffrey Young** \u2014 图式疗法 (Schema Therapy)
+
+### 数字 CBT
+
+- **Woebot** \u2014 AI 对话式 CBT 应用
+- **SilverCloud** \u2014 在线 CBT 课程平台
+- **MoodGYM** \u2014 澳大利亚国立大学开发的 CBT 自助程序
+
+### 神经科学整合
+
+- **Helen Mayberg** \u2014 抑郁症的神经环路研究，与 Beck 的认知模型互为印证
+- **Karl Friston** \u2014 预测编码理论 (Predictive Coding) 为认知图式提供了计算神经科学解释
+
+## 研究工具 / Research Tools
+
+- **PubMed** \u2014 搜索 "Beck AT" 可检索贝克的 600+ 篇论文
+- **Beck Institute for Cognitive Behavior Therapy** (beckinstitute.org) \u2014 贝克研究所官方网站，提供培训、资源和研究信息
+- **Cognitive Therapy and Research** (Springer) \u2014 贝克联合创办的学术期刊
+- **Association for Behavioral and Cognitive Therapies (ABCT)** (abct.org) \u2014 CBT 领域最大的国际学术组织
+- **Stanford Encyclopedia of Philosophy** \u2014 "Cognitive Science" 条目中讨论 CBT 的哲学基础
+- **APA PsycNet** \u2014 检索 CBT 相关实证研究的权威数据库

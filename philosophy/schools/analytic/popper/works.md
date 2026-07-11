@@ -1,0 +1,25 @@
+---
+id: popper-works
+title: 波普尔著作导读 · Popper Works Guide
+type: works
+thinker: popper
+domain: philosophy
+school: analytic
+---
+# 波普尔著作导读 / Popper Works Guide
+
+## 核心著作 / Core Works
+| 著作 / Work | 年份 / Year | 核心内容 / Core Content |
+|---|---|---|
+| *The Logic of Scientific Discovery* | 1934/1959 | 证伪主义奠基 / Foundation of falsificationism |
+| *The Open Society and Its Enemies* | 1945 | 反极权政治哲学 / Anti-totalitarian political philosophy |
+| *The Poverty of Historicism* | 1957 | 历史决定论批判 / Critique of historicism |
+| *Conjectures and Refutations* | 1963 | 科学方法论论文集 / Essays on scientific methodology |
+| *Objective Knowledge* | 1972 | 三个世界理论 / Three Worlds theory |
+| *The Self and Its Brain* (with Eccles) | 1977 | 心身问题 / Mind-body problem |
+| *Unended Quest* | 1976 | 学术自传 / Intellectual autobiography |
+
+## 推荐路径 / Recommended Paths
+1. **入门**: *Conjectures and Refutations* 第1章 → *Logic of Scientific Discovery* 第1-4章
+2. **政治哲学**: *The Open Society* 导论 → *The Poverty of Historicism*
+3. **本体论**: *Objective Knowledge* → *The Self and Its Brain*

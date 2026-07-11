@@ -1,0 +1,132 @@
+---
+id: kuiji-consciousness-only
+title: 唯识无境 / Vijnapti-matrata (Consciousness-Only Without External Objects)
+type: concept
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+tags: [vijnapti-matrata, consciousness-only, epistemology, Yogacara, representation]
+---
+
+# 唯识无境 / Vijnapti-matrata (Consciousness-Only Without External Objects)
+
+## 定义 / Definition
+
+"唯识无境"（vijnapti-matrata）是法相唯识宗最根本的认识论命题。它断言：一切我们所经验到的对象，都不是独立于心识之外的"客观实在"，而是心识自身的变现（parinama）。"唯识"不是否认外境的存在——那是唯心主义（idealism）的立场——而是说，在认识论层面上，我们永远无法越过识的结构去触及"自在之物"。
+
+Vijnapti-matrata ("consciousness-only" or "representation-only") is the most fundamental epistemological thesis of the Faxiang school. It asserts that all objects of our experience are not "objective realities" existing independently of consciousness, but rather projections (parinama) of consciousness itself. "Consciousness-only" does not deny the existence of an external world -- that would be metaphysical idealism -- but rather claims that at the epistemological level, we can never transcend the structure of consciousness to reach "things-in-themselves."
+
+## 核心论证 / Core Arguments
+
+窥基在《成唯识论述记》中系统整理了论证"唯识无境"的多种途径：
+
+Kuiji systematically organized multiple argumentative strategies for establishing vijnapti-matrata in his *Cheng Weishi Lun Shuji*:
+
+### 1. 梦喻 / The Dream Analogy
+
+梦中的山河人物在梦中确实被经验为"外在的"，但醒来后我们知道那都是心识的变现。同理，醒时所经验的世界虽看似外在，但其认识论地位与梦境并无本质区别——我们同样无法在梦中证明梦是"虚假的"。
+
+Mountains, rivers, and persons within a dream are genuinely experienced as "external" during dreaming, yet upon waking we recognize them all as projections of consciousness. Similarly, the world experienced while awake, though seemingly external, shares the same epistemological status as the dream -- we cannot prove from within the dream that the dream is "false."
+
+### 2. 同一对象的多重感知 / Multiple Perceptions of the Same Object
+
+同一河水，人见为水，饿鬼见为脓血，天人见为琉璃。如果存在独立于识的"客观对象"，它不可能同时呈现为不同的事物。因此，所感知的"对象"必然依赖于感知者的识。
+
+The same river water appears as water to humans, as pus and blood to hungry ghosts, and as lapis lazuli to celestial beings. If an "objective object" existed independently of consciousness, it could not simultaneously appear as different things. Therefore, the perceived "object" must depend on the perceiver's consciousness.
+
+### 3. 识的自证分 / Self-Awareness of Consciousness (Svasamvitti)
+
+每一个认识行为都包含自我觉知（svasamvitti，自证分）。当"看见红色"时，不仅有"红色的表象"（相分），还有"看见红色"的自我觉知（自证分）。这种自证结构表明，认识活动的完整场域就在识的内部——不需要假设外在对象。
+
+Every cognitive act includes self-awareness (svasamvitti). When "seeing red," there is not only the "representation of red" (nimitta-bhaga / xiangfen) but also the self-awareness of "seeing red" (svasamvitti-bhaga / zizhengfen). This self-reflexive structure indicates that the complete field of cognitive activity lies within consciousness -- there is no need to postulate external objects.
+
+## 唯识 vs 唯心 / Consciousness-Only vs Idealism
+
+| 维度 Dimension | 唯识无境 Vijnapti-matrata | 唯心主义 Idealism |
+|------|------|------|
+| 立场类型 Stance type | 认识论 Epistemological | 本体论 Ontological |
+| 外境存在 External objects | 不否认其存在，但不可知 Does not deny, but unknowable | 否认其存在 Denies existence |
+| 关注点 Focus | 认知结构如何运作 How cognitive structure operates | 什么是终极实在 What is ultimate reality |
+| 与康德比较 Kant comparison | 类似先验观念论 Similar to transcendental idealism | 类似贝克莱唯心论 Similar to Berkeleyan idealism |
+
+窥基特别强调，"唯识"的"唯"（matra）不是"只有"的意思，而是"不离"的意思——一切所经验者"不离识"，而非"除了识什么都没有"。
+
+Kuiji particularly emphasized that the "only" (matra) in "consciousness-only" does not mean "nothing but" but rather "inseparable from" -- all objects of experience are "inseparable from consciousness," not "nothing exists except consciousness."
+
+## 四分说 / Four-Part Theory of Cognition
+
+窥基继承护法（Dharmapala）的四分说，认为每一个识的活动包含四个层面：
+
+Following Dharmapala's four-part theory, Kuiji held that every cognitive act involves four aspects:
+
+1. **相分**（nimitta-bhaga）：表象层面，即"被认知的对象"
+2. **见分**（darsana-bhaga）：认知层面，即"认知活动本身"
+3. **自证分**（svasamvitti-bhaga）：自我觉知层面，即"知道自己正在认知"
+4. **证自证分**：对自证的再确认，确保认知的完整性
+
+1. **Object-phase** (nimitta-bhaga): the representational aspect, i.e., "the object being cognized"
+2. **Subject-phase** (darsana-bhaga): the cognitive aspect, i.e., "the cognitive act itself"
+3. **Self-awareness** (svasamvitti-bhaga): "knowing that one is cognizing"
+4. **Awareness of self-awareness**: reconfirmation of self-awareness, ensuring cognitive integrity
+
+这一四层结构表明，"唯识无境"不是说外境"不存在"，而是说我们对"外境"的一切认知都在识的四分结构内完成——我们无法跳出这个结构去验证"外境是否如其所现"。
+
+This four-part structure demonstrates that "consciousness-only without external objects" does not mean external objects "do not exist," but rather that all our cognition of "external objects" is completed within the four-part structure of consciousness -- we cannot step outside this structure to verify "whether external objects are as they appear."
+
+## 与西方哲学的对话 / Dialogue with Western Philosophy
+
+### 康德 Kant
+唯识无境与康德的"先验观念论"高度平行：两者都区分了"现象"（appearance / xiangfen）与"物自体"（thing-in-itself / 不可知的自在之物），都主张我们所经验的一切都是通过认知结构中介的。区别在于：康德关注的是先验主体性，而唯识关注的是八识的动态流转。
+
+Vijnapti-matrata closely parallels Kant's "transcendental idealism": both distinguish between "appearance" and "thing-in-itself," and both claim that everything we experience is mediated through cognitive structures. The difference: Kant focused on transcendental subjectivity, while Yogacara focuses on the dynamic flow of eight consciousnesses.
+
+### 胡塞尔 Husserl
+现象学的"意向性"（Intentionalitat）概念——意识总是"关于某物的意识"——与唯识的"见分-相分"结构惊人地相似。胡塞尔的"悬置"（epoche）方法——将关于外在世界存在的信念"搁置"——在方法论上也与唯识学的禅观修行有可比之处。两者的根本区别在于：胡塞尔追求的是"回到事物本身"的先验还原，而唯识学追求的是从根本上证悟"无我"和"转识成智"。
+
+Husserl's concept of "intentionality" -- consciousness is always "consciousness of something" -- bears a striking resemblance to Yogacara's "subject-phase/object-phase" structure. Husserl's method of "epoche" -- suspending beliefs about the existence of the external world -- also has methodological parallels with Yogacara meditative practice. The fundamental difference: Husserl pursued transcendental reduction to "return to the things themselves," while Yogacara seeks to realize "no-self" and achieve "transformation of consciousness into wisdom."
+
+### 梅洛-庞蒂 Merleau-Ponty
+梅洛-庞蒂的"身体现象学"与唯识学对"根身"（感官身体）作为阿赖耶识变现的理解形成了有趣的对话。两者都拒绝笛卡尔式的身心二元论，都主张认知是从"被嵌入世界的身体"中涌现的——区别在于唯识学认为这个"世界"本身就是识的变现。
+
+Merleau-Ponty's "phenomenology of the body" enters into interesting dialogue with Yogacara's understanding of the "sense-body" (genshen) as a projection of the storehouse consciousness. Both reject Cartesian mind-body dualism and both claim that cognition emerges from a "body embedded in the world" -- the difference being that Yogacara holds this "world" itself is a projection of consciousness.
+
+## 唯识观修行 / Yogacara Meditative Practice
+
+"唯识无境"不仅是理论命题，更是修行指导。窥基在《成唯识论述记》中描述了"唯识观"（vijnapti-matrata-bhavana）的修行次第：
+
+"Consciousness-only without external objects" is not merely a theoretical thesis but a guide to practice. Kuiji described the stages of "consciousness-only meditation" (vijnapti-matrata-bhavana) in his *Cheng Weishi Lun Shuji*:
+
+1. **遣虚存实**：遣除遍计所执的虚妄，保留依他起的真实
+2. **舍滥留纯**：舍弃对"外境"的攀缘，专注于识的内部活动
+3. **摄末归本**：将见分、相分等"末"归于自证分的"本"
+4. **隐劣显胜**：隐去心所等次要功能，显发心王的主体功能
+5. **遣相证性**：最终超越一切相，证悟圆成实性（真如）
+
+1. **Eliminating the false, preserving the real**: removing imagined projections while retaining dependent nature
+2. **Abandoning the diffuse, retaining the pure**: releasing attachment to "external objects," focusing on consciousness's internal activity
+3. **Gathering branches back to the root**: returning subject-phase and object-phase to the root of self-awareness
+4. **Concealing the inferior, revealing the superior**: setting aside secondary mental factors, revealing the primary function of mind
+5. **Transcending characteristics, realizing nature**: ultimately transcending all characteristics to realize perfected nature (suchness)
+
+这五个次第从"有"到"空"，从"相"到"性"，构成了唯识学独特的渐修路径。窥基强调，这一修行过程必须以对唯识理论的精确理解为基础——这就是为什么法相宗如此重视学术性的经论研究。
+
+These five stages progress from "existence" to "emptiness," from "characteristics" to "nature," constituting Yogacara's distinctive gradual cultivation path. Kuiji emphasized that this practice must be grounded in precise understanding of Yogacara theory -- which is why the Faxiang school places such importance on scholarly sutra study.
+
+## 当代回响：AI与生成模型 / Contemporary Echoes: AI and Generative Models
+
+"唯识无境"与当代AI生成模型（GAN、扩散模型、大语言模型）形成了跨越千年的认识论对话。这些模型生成的图像和文本并非"真实世界"的反映，而是训练数据中"种子"（bija）的"现行"（pravrtti）——模型从未"看见"过真实世界，却能产生令人信服的世界表象。这恰恰印证了唯识学的核心洞见：认知并不需要一个"外在的"对象——识可以纯粹基于自身的"种子"变现出完整的经验世界。
+
+"Consciousness-only" enters into a cross-millennia epistemological dialogue with contemporary AI generative models (GANs, diffusion models, large language models). The images and texts these models generate are not reflections of the "real world" but "manifestations" (pravrtti) of "seeds" (bija) within training data -- the models have never "seen" the real world yet produce convincing representations of it. This precisely confirms Yogacara's core insight: cognition does not require an "external" object -- consciousness can project a complete experiential world purely from its own "seeds."
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [三性三无性](three-natures.md) -- 唯识无境的三层分析框架 / Three-layer analytical framework
+- [阿赖耶识](../asanga-vasubandhu/concepts/alaya.md) -- 唯识无境的识体基础 / Consciousness basis
+- [康德先验哲学](../../../philosophy/schools/german-idealism/kant.md) -- 平行对比 / Parallel comparison
+
+## 进阶阅读 / Further Reading
+
+- 窥基《成唯识论述记》卷一至卷四
+- Kuiji, *Cheng Weishi Lun Shuji*, fascicles 1-4
+- Lusthaus, D. (2002). *Buddhist Phenomenology*, Ch. 3-5. Routledge.
+- Kochumuttom, T.A. (1982). *A Buddhist Doctrine of Experience*. Motilal Banarsidass.

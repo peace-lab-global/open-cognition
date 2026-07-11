@@ -1,0 +1,140 @@
+---
+id: dewey-reading-list
+title: 杜威进阶阅读清单 · Dewey Reading List
+type: reference
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - reading-list
+  - bibliography
+  - secondary-literature
+  - 阅读清单
+parent: dewey
+---
+
+# 杜威进阶阅读清单 · Dewey Reading List
+
+> 本清单按主题和难度组织，适合不同层次的读者。
+>
+> This list is organized by theme and difficulty level, suited for readers at different stages.
+
+---
+
+## 入门推荐 / Introductory Recommendations
+
+适合初次接触杜威思想的读者。/ For readers encountering Dewey's thought for the first time.
+
+### 原始文献选读 / Selected Primary Texts
+
+- Dewey, J. (1897). "My Pedagogic Creed." — 五页短文，教育哲学的最佳入口。/ Five-page essay, best entry point to educational philosophy.
+- Dewey, J. (1910). *How We Think*. Chapters 1–7. — 反省思维的经典论述，语言平实。/ Classic treatment of reflective thinking in accessible language.
+- Dewey, J. (1938). *Experience and Education*. — 杜威对进步教育的反思，篇幅短小精悍。/ Dewey's reflection on progressive education; concise and powerful.
+
+### 入门二手文献 / Introductory Secondary Literature
+
+- Ryan, A. (1995). *John Dewey and the High Tide of American Liberalism*. W.W. Norton. — 最佳单卷本传记与思想介绍。/ Best single-volume biography and intellectual introduction.
+- Campbell, J. (1995). *Understanding John Dewey: Nature and Cooperative Intelligence*. Open Court. — 清晰、系统的思想导论。/ Clear, systematic introduction to Dewey's thought.
+- Garrison, J., Neubert, S., & Reich, K. (2012). *John Dewey's Philosophy of Education: An Introduction and Recontextualization for Our Times*. Palgrave Macmillan. — 当代视角下的杜威教育哲学。/ Dewey's educational philosophy from a contemporary perspective.
+- 刘放川 (2004). 《杜威教育思想引论》. 湖南教育出版社. — 中文世界重要的杜威研究入门。/ Important introductory Dewey study in the Chinese-speaking world.
+
+---
+
+## 核心著作 / Core Works
+
+深入理解杜威哲学体系的必读之作。/ Essential reading for deep understanding of Dewey's philosophical system.
+
+| 著作 / Work | 年份 / Year | 主题 / Theme | 阅读建议 / Reading Advice |
+|---|---|---|---|
+| *Democracy and Education* | 1916 | 教育哲学 / Educational Philosophy | 重点阅读第1–4、7–10章 / Focus on Chapters 1–4, 7–10 |
+| *Experience and Nature* | 1925 | 形而上学 / Metaphysics | 第1、3、4章为核心 / Chapters 1, 3, 4 are core |
+| *Art as Experience* | 1934 | 美学 / Aesthetics | 第1–4章论"一个经验" / Chapters 1–4 on "an experience" |
+| *Logic: The Theory of Inquiry* | 1938 | 逻辑与认识论 / Logic & Epistemology | 第1–8章论探究模式 / Chapters 1–8 on inquiry pattern |
+| *The Public and Its Problems* | 1927 | 政治哲学 / Political Philosophy | 全书可读 / Entire book accessible |
+| *The Quest for Certainty* | 1929 | 哲学批判 / Philosophical Critique | 第1–4章最精彩 / Chapters 1–4 are finest |
+
+---
+
+## 专题深入研究 / Specialized Deep Dives
+
+### 教育哲学 / Philosophy of Education
+
+- Westbrook, R. B. (1991). *John Dewey and American Democracy*. Cornell University Press. — 杜威民主思想与教育的综合研究。/ Comprehensive study of Dewey's democratic thought and education.
+- Garrison, J. (1997). *Dewey and Eros: Wisdom and Desire in the Art of Teaching*. Teachers College Press. — 从欲望和智慧角度重新诠释杜威教育思想。/ Reinterprets Dewey's educational thought through desire and wisdom.
+- Biesta, G. (2010). *Good Education in an Age of Measurement*. Paradigm Publishers. — 在当代评估文化中重访杜威。/ Revisiting Dewey in the contemporary culture of assessment.
+- Noddings, N. (2015). *Philosophy of Education* (4th ed.). Westview Press. — 以杜威为主线的女性主义教育哲学。/ Feminist educational philosophy with Dewey as a main thread.
+
+### 民主与政治哲学 / Democracy and Political Philosophy
+
+- Festenstein, M. (1997). *Pragmatism and Political Theory*. University of Chicago Press. — 杜威政治哲学的系统研究。/ Systematic study of Dewey's political philosophy.
+- Honneth, A. (1998). "Democracy as Reflexive Cooperation." *Political Theory* 26(6). — 从承认理论角度诠释杜威民主。/ Interprets Deweyan democracy from recognition theory.
+- Knight, J., & Johnson, J. (1997). "What Sort of Political Order Does Pragmatism Require?" *Political Theory* 25(6). — 实用主义与政治秩序的讨论。/ Discussion of pragmatism and political order.
+
+### 美学与艺术 / Aesthetics and Art
+
+- Alexander, T. M. (1987). *John Dewey's Theory of Art, Experience, and Nature: The Horizons of Feeling*. SUNY Press. — 杜威美学最系统的研究。/ Most systematic study of Dewey's aesthetics.
+- Shusterman, R. (1992). *Pragmatist Aesthetics: Living Beauty, Rethinking Art*. Blackwell. — 从杜威美学出发建构"身体美学"。/ Builds "somaesthetics" from Deweyan aesthetics.
+- Jackson, P. W. (1998). *John Dewey and the Lessons of Art*. Yale University Press. — 杜威美学对教育的启示。/ Implications of Dewey's aesthetics for education.
+
+### 认识论与逻辑 / Epistemology and Logic
+
+- Hickman, L. A. (1990). *John Dewey's Pragmatic Technology*. Indiana University Press. — 将杜威认识论解读为"实用技术"理论。/ Reads Dewey's epistemology as a theory of "pragmatic technology."
+- Sleeper, R. W. (1986). *The Necessity of Pragmatism: John Dewey's Conception of Philosophy*. Yale University Press. — 杜威哲学方法论的研究。/ Study of Dewey's philosophical methodology.
+- Burke, F. T. (2009). "Pragmatism and 'First' Philosophy." *Metaphilosophy* 40(1). — 实用主义与第一哲学的关系。/ Relation between pragmatism and first philosophy.
+
+### 科学与认知 / Science and Cognition
+
+- Hacking, I. (1983). *Representing and Intervening*. Cambridge University Press. — 科学哲学中的实用主义转向，与杜威高度呼应。/ Pragmatist turn in philosophy of science, highly resonant with Dewey.
+- Godfrey-Smith, P. (2016). "John Dewey and the Role of the Scientist." *Science & Education* 25. — 杜威科学观的当代意义。/ Contemporary significance of Dewey's view of science.
+- Menary, R. (2007). *Cognitive Integration: Mind and Cognition Unbounded*. Palgrave Macmillan. — 具身认知与杜威经验理论的关联。/ Connection between embodied cognition and Dewey's experience theory.
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+- Ames, R. T., & Hall, D. L. (1987). *Thinking Through Confucius*. SUNY Press. — 儒学与实用主义的比较研究。/ Comparative study of Confucianism and pragmatism.
+- Hall, D. L., & Ames, R. T. (1998). *Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture*. SUNY Press. — 中西哲学中的自我与真理。/ Self and truth in Chinese and Western philosophy.
+- 胡适 (1919). 《实验主义》. — 胡适对杜威方法论的中国化阐释。/ Hu Shih's Chinese adaptation of Dewey's methodology.
+- 陶行知 (1927). 《中国教育改造》. — 陶行知对杜威教育理论的本土化改造。/ Tao Xingzhi's indigenization of Dewey's educational theory.
+- Tan, C. (2014). "John Dewey and Confucianism: A Comparative Analysis." *Educational Philosophy and Theory* 46(10). — 杜威与儒家的当代比较研究。/ Contemporary comparative study of Dewey and Confucianism.
+- 赵祥麟, 王承绪 (1981). 《杜威教育论著选》. 华东师范大学出版社. — 中文世界的经典选编。/ Classic selected anthology in the Chinese-speaking world.
+
+---
+
+## 在线资源 / Online Resources
+
+| 资源 / Resource | 链接 / Link | 描述 / Description |
+|---|---|---|
+| Stanford Encyclopedia of Philosophy | [SEP: Dewey](https://plato.stanford.edu/entries/dewey/) | 最权威的在线学术综述 / Most authoritative online academic overview |
+| Center for Dewey Studies | [SIU Dewey Center](https://siu.edu/dewey-center/) | 南伊利诺伊大学杜威研究中心 / Southern Illinois University Dewey research center |
+| Dewey Digital Archive | [Past Masters](https://www.nlx.com/collections/109) | 杜威全集数字版 / Digital edition of Dewey's complete works |
+| John Dewey Society | [johndeweysociety.org](http://www.johndeweysociety.org/) | 杜威教育哲学学术组织 / Academic organization for Deweyan educational philosophy |
+| Internet Encyclopedia of Philosophy | [IEP: Dewey](https://iep.utm.edu/dewey/) | 较通俗的入门综述 / More accessible introductory overview |
+
+---
+
+## 进阶阅读路径建议 / Suggested Reading Paths
+
+### 路径一：教育哲学 / Path 1: Educational Philosophy
+
+1. "My Pedagogic Creed" (1897) → 2. *How We Think* (1910, Ch.1–7) → 3. *Democracy and Education* (1916) → 4. *Experience and Education* (1938) → 5. Garrison (1997)
+
+### 路径二：美学与经验 / Path 2: Aesthetics and Experience
+
+1. *Art as Experience* (1934, Ch.1–4) → 2. *Experience and Nature* (1925, Ch.1, 4) → 3. Alexander (1987) → 4. Shusterman (1992)
+
+### 路径三：民主与政治 / Path 3: Democracy and Politics
+
+1. *The Public and Its Problems* (1927) → 2. *Democracy and Education* (1916, Ch.7–8) → 3. Westbrook (1991) → 4. Honneth (1998)
+
+### 路径四：认识论与逻辑 / Path 4: Epistemology and Logic
+
+1. *The Quest for Certainty* (1929, Ch.1–4) → 2. *Logic: The Theory of Inquiry* (1938, Ch.1–8) → 3. Hickman (1990) → 4. Sleeper (1986)
+
+### 路径五：东西方对话 / Path 5: East-West Dialogue
+
+1. 胡适《实验主义》→ 2. Ames & Hall (1987) → 3. Tan (2014) → 4. *Democracy and Education*（与《大学》《传习录》对照阅读）
+
+---
+
+> 返回 / Back to: [杜威 Dewey](./) · [Pragmatism 实用主义](../)

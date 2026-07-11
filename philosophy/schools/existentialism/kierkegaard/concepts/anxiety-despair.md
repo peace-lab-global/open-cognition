@@ -1,0 +1,152 @@
+---
+id: kierkegaard-anxiety-despair
+title: 焦虑与绝望 · Anxiety and Despair · Kierkegaard
+type: concept
+domain: philosophy
+school: existentialism
+thinker: kierkegaard
+tags: [kierkegaard, anxiety, despair, angst, dread, freedom, sin]
+cross-refs:
+  - id: kierkegaard
+    relation: thinker
+  - id: kierkegaard-leap-of-faith
+    relation: 关联(焦虑是跳跃的前奏)
+  - id: kierkegaard-subjective-truth
+    relation: 关联(绝望与真理的关系)
+  - id: heidegger
+    relation: 发展(Angst 分析)
+  - id: sartre
+    relation: 发展(存在主义焦虑)
+---
+
+# 焦虑与绝望 · Anxiety and Despair
+
+## 一句话定义
+
+**焦虑**（Angest / Anxiety）是克尔凯郭尔对人类面对自由可能性时之眩晕感（Svimmelhed / Dizziness）的现象学描述；**绝望**（Fortvivlelse / Despair）则是自我与自我关系之根本失衡的命名——两者共同构成了人类存在最深层的情感结构，是"致死的疾病"（Sygdommen til Deden / The Sickness unto Death）。
+
+## 核心要义
+
+### 一、焦虑（Angest / Dread / Anxiety）
+
+焦虑不同于恐惧（Frygt / Fear）。恐惧有**确定的对象**（怕蛇、怕高），焦虑则面对**虚无**（Intet / Nothingness）——它没有确定的对象，恰恰因为它的对象是**一切可能性**。
+
+**焦虑的定义**：焦虑是"自由的可能性的可能性"（Muligheden af Frihedens Mulighed / the possibility of the possibility of freedom）。
+
+- 当你站在悬崖边，你害怕坠落——这是**恐惧**
+- 当你站在悬崖边，你意识到**你可以跳下去**——这是**焦虑**
+- 焦虑揭示了一个可怕的事实：**你是自由的**，你的行为没有被任何必然性决定
+
+**焦虑与原罪（Arvesynd / Original Sin）**：
+
+克尔凯郭尔在《焦虑的概念》（Begrebet Angest, 1844，假名 Vigilius Haufniensis）中，将焦虑与原罪问题关联：
+
+- 亚当在伊甸园中的状态是**无知的天真**（Uskyld / Innocence）
+- 上帝的禁令"不可吃那树上的果子"唤醒了**可能性**——亚当第一次意识到"我可以不服从"
+- 这个"可以"带来了焦虑——亚当**不知道**不服从意味着什么，但他意识到**他可以**
+- 焦虑不是罪，但焦虑是罪的**心理学前提**——在焦虑中，个体第一次面对自由选择
+
+**焦虑的双重性**：
+
+| 面向 | 描述 |
+|------|------|
+| 焦虑作为**毁灭** | 焦虑可以导致逃避——个体被可能性淹没，无法做出决断 |
+| 焦虑作为**教育** | 焦虑是"最忠实的情人"——它教育个体面对自己的自由，是通往本真存在的学校 |
+
+### 二、绝望（Fortvivlelse / Despair）
+
+绝望是《致死的疾病》（Sygdommen til Deden, 1849，假名 Anti-Climacus）的核心主题。绝望被定义为**自我与自我关系的失衡**。
+
+**自我的定义**：自我不是一个实体，而是一个**关系**——"自我是一个将自身与自身关联起来的关系"（Selvet er et Forhold, der forholder sig til sig selv）。
+
+**绝望的类型学**：
+
+| 绝望类型 | 丹麦语 | 描述 | 典型形象 |
+|----------|--------|------|----------|
+| 不知道有自我的绝望 | ikke at vide at have et Selv | 最浅的绝望——人不知道自己是"自我" | 随波逐流的"众人" |
+| 不愿成为自己的绝望 | ikke at ville være sig selv | 想成为另一个人——逃避自己的独特性 | 自我否定者 |
+| 妄想成为自己的绝望 | at ville være sig selv | 想要成为"绝对的自我"——不承认任何高于自己的东西 | 骄傲的浪漫主义者 |
+| 信仰的绝望 | Fortvivlelse over det Evige | 对永恒/救赎失去信仰 | 灵性枯竭者 |
+
+**"致死的疾病"的悖论**：
+
+绝望被称为"致死的疾病"（Sygdommen til Deden），但恰恰因为它**不能致死**——绝望者无法通过死亡逃离绝望。"致死的疾病"的真正含义是：**永远活着却无法真正地活**。
+
+- 身体的疾病可以致死——死亡是终点
+- 绝望是精神的疾病——它的可怕在于**永恒性**：绝望者永远无法摆脱自我
+
+### 三、焦虑与绝望的关系
+
+焦虑和绝望是同一存在结构的两个面向：
+
+| | 焦虑（Angest） | 绝望（Fortvivlelse） |
+|--|----------------|----------------------|
+| 主要文本 | 《焦虑的概念》(1844) | 《致死的疾病》(1849) |
+| 面对的对象 | 可能性 / 虚无 | 自我 |
+| 情感特征 | 眩晕 / 吸引-排斥 | 痛苦 / 无法逃离 |
+| 存在论位置 | 自由的觉醒 | 自我关系的失衡 |
+| 出路 | 跳跃（Springet） | 信仰（Troen） |
+| 关联 | 焦虑是绝望的**前奏** | 绝望是焦虑的**深化** |
+
+### 四、忧郁（Tungsind / Melancholy）
+
+克尔凯郭尔还区分了第三种情感状态——**忧郁**（Tungsind）：
+
+- 忧郁不同于焦虑（面对可能性）和绝望（面对自我），它是面对**有限性**的沉重感
+- 忧郁是审美阶段的典型情感——审美者意识到一切新奇终将枯竭
+- 克尔凯郭尔本人的"忧郁"（Tungsind）是他传记中的核心主题——父亲的诅咒、与 Regine 的关系、哥本哈根的孤立
+
+## 克尔凯郭尔 vs 其他哲学家对照表
+
+| 哲学家 | 对焦虑/绝望的分析 | 关键分歧 |
+|--------|-------------------|----------|
+| **海德格尔** | Angst（焦虑）是此在面对"无"（Nichts）的基本情绪 | 海德格尔去基督教化——焦虑面对的是"存在"而非"上帝" |
+| **萨特** | 焦虑（angoisse）是面对绝对自由时的眩晕 | 萨特取消上帝——焦虑源于"无本质的自由" |
+| **弗洛伊德** | 焦虑是心理冲突的信号（Signalangst） | 弗洛伊德将焦虑还原为心理机制，克尔凯郭尔视为存在结构 |
+| **雅斯贝尔斯** | "边界处境"（Grenzsituationen）引发存在焦虑 | 类似但更温和——克尔凯郭尔的分析更具宗教深度 |
+| **叔本华** | 无聊与痛苦的钟摆 | 叔本华的悲观主义缺乏克尔凯郭尔的救赎维度 |
+
+## 克尔凯郭尔 vs 佛教/唯识/禅宗对照
+
+| 克尔凯郭尔 | 佛教/唯识 | 比较 |
+|------------|-----------|------|
+| 焦虑（Angest） | 忧（daurmanasya）/ 烦恼（klesa） | 克尔凯郭尔的焦虑有存在论深度（自由的可能性），佛教的烦恼更偏心理病理分类 |
+| 绝望（Fortvivlelse） | 烦恼障（klesavarana） | 两者都描述了自我关系的根本困境 |
+| "致死的疾病" | 生死轮回（samsara）的无尽性 | 绝望的可怕在于永恒性，轮回的可怕在于无尽重复 |
+| 焦虑的教育功能 | 苦谛（duhkha-satya）的觉醒功能 | 苦不仅是消极的，也是修行的起点 |
+| 自我关系的失衡 | 我执（atmagraha） | "不愿成为自己"近似于我执——将自我固定为实体 |
+| 信仰作为出路 | 般若（prajna）作为出路 | 两者都指向超越概念思维的直接体验 |
+
+## 当代应用
+
+- **存在主义心理治疗**：雅洛姆（Irvin Yalom）将死亡焦虑、自由焦虑、孤独焦虑和无意义焦虑视为四种基本存在焦虑，直接继承克尔凯郭尔。
+- **罗洛 · 梅**（Rollo May）：将焦虑区分为"正常焦虑"（与威胁成比例）和"神经症焦虑"（逃避焦虑的焦虑），将焦虑重新界定为创造力的来源。
+- **弗兰克尔**（Viktor Frankl）：意义治疗（Logotherapy）继承了绝望作为"无意义的体验"的分析。
+- **临床心理学**：焦虑障碍的"接受与承诺治疗"（ACT）在结构上呼应克尔凯郭尔——不是消除焦虑，而是**在焦虑中做出决断**。
+- **社会学**：现代社会的"选择过载"（choice overload）和"决策疲劳"可被理解为克尔凯郭尔式焦虑的社会学版本。
+
+## 常见误读
+
+1. **"焦虑是一种病"** -- 克尔凯郭尔认为焦虑是**人类存在的结构**，不是病理状态；消除焦虑等于消除自由。
+2. **"绝望就是抑郁"** -- 绝望是存在论概念，不是临床诊断；一个人可以表面快乐但深层绝望（"不知道有自我的绝望"）。
+3. **"克尔凯郭尔在美化痛苦"** -- 焦虑和绝望是**教育性的**，它们引导个体走向本真存在，但克尔凯郭尔并不主张主动制造痛苦。
+4. **"焦虑只与宗教信仰有关"** -- 焦虑是人类自由的普遍结构，无神论者同样面对"可能性的眩晕"。
+
+## 关键文本
+
+| 文本 | 假名 | 年份 | 焦虑/绝望分析的重点 |
+|------|------|------|---------------------|
+| 《焦虑的概念》Begrebet Angest | Vigilius Haufniensis | 1844 | 焦虑的现象学、焦虑与原罪 |
+| 《致死的疾病》Sygdommen til Deden | Anti-Climacus | 1849 | 绝望的类型学、自我关系的分析 |
+| 《非此即彼》"审美者的生活观" | 作者 A | 1843 | 忧郁（Tungsind）的经典描写 |
+| 《人生道路诸阶段》"有罪？无罪？" | Frater Taciturnus | 1845 | 宗教阶段的焦虑 |
+
+## 进阶阅读
+
+- Kierkegaard, S. (1844). *The Concept of Anxiety*. Trans. Reidar Thomte. Princeton University Press, 1980.
+- Kierkegaard, S. (1849). *The Sickness unto Death*. Trans. Hong & Hong. Princeton University Press, 1980.
+- May, R. (1950). *The Meaning of Anxiety*. Norton.
+- McCarthy, V. (1978). *The Ambiguity of Moral Freedom: Kierkegaard on Anxiety*. University of Toronto.
+- Grimsley, R. (1965). *Kierkegaard: The Sickness unto Death*. Macmillan.
+- 京不广（2013）译《致死的疾病》。中国社会科学出版社。
+- 林和生（2006）《克尔凯郭尔：恐惧与颤栗》。四川人民出版社。

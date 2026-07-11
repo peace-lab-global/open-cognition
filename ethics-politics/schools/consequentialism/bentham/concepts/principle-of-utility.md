@@ -1,0 +1,107 @@
+---
+id: bentham-principle-of-utility
+title: "功利原则 · Principle of Utility"
+type: concept
+thinker: bentham
+domain: ethics-politics
+school: consequentialism
+tags:
+  - 功利原则
+  - 最大幸福
+  - 道德哲学
+  - 立法理论
+---
+
+# 功利原则 · Principle of Utility
+
+## 概念概述 / Concept Overview
+
+功利原则（Principle of Utility）是边沁哲学体系的核心原则，也是整个功利主义伦理学的奠基性命题。其基本表述是：当一个行为增进有关各方幸福的倾向大于它减损幸福的倾向时，该行为便是符合功利原则的；反之，当一个行为减损幸福的倾向大于增进幸福的倾向时，该行为便违反了功利原则。
+
+The Principle of Utility is the core principle of Bentham's philosophical system and the foundational proposition of all utilitarian ethics. Its basic formulation is: an action is conformable to the principle of utility when its tendency to augment the happiness of the party concerned is greater than its tendency to diminish it; conversely, an action violates the principle when its tendency to diminish happiness exceeds its tendency to augment it.
+
+边沁将功利原则理解为一种普遍的道德和立法准则：它不仅适用于个人行为的伦理评价，也适用于公共政策和法律制度正当性的判断。在边沁看来，功利原则是唯一能够经受住理性检验的道德标准，所有其他被提出的道德原则——如自然法、社会契约、道德感——要么可以还原为功利原则，要么是缺乏理性基础的"虚构"。
+
+Bentham understood the principle of utility as a universal moral and legislative criterion: it applies both to ethical evaluation of individual conduct and to judgments of the legitimacy of public policies and legal institutions. In Bentham's view, the principle of utility is the only moral standard that can withstand rational scrutiny; all other proposed moral principles—natural law, social contract, moral sense—either reduce to the principle of utility or are "fictions" lacking rational foundation.
+
+## 理论内涵 / Theoretical Content
+
+边沁对功利原则的阐述包含了若干重要的理论要素，需要逐一分析：
+
+Bentham's articulation of the principle of utility contains several important theoretical elements that require individual analysis:
+
+**功利的定义。** 边沁将"功利"定义为"一种外在于对象的属性，凭借这种属性，对象倾向于产生利益、好处、快乐、善或幸福，或者防止损害、痛苦、恶或不幸的发生"。功利不是对象本身固有的性质，而是对象与人的苦乐感受之间的关系属性。这一定义使功利原则建立在经验主义的心理学基础之上，而非形而上学的"善"概念之上。
+
+**Definition of utility.** Bentham defined "utility" as "that property in any object, whereby it tends to produce benefit, advantage, pleasure, good or happiness, or to prevent mischief, pain, evil or unhappiness from happening." Utility is not an inherent property of objects but a relational property between objects and human experiences of pleasure and pain. This definition grounds the principle of utility on an empiricist psychological foundation rather than on a metaphysical concept of "the good."
+
+**共同体的利益。** 边沁坚持方法论个人主义：共同体是一个"虚构的实体"（fictitious body），共同体的利益只是组成共同体的个体利益的加总。这意味着功利计算的基本单位是个人，任何关于"集体利益"的讨论都必须还原为个体苦乐体验的加总。
+
+**Interest of the community.** Bentham insisted on methodological individualism: the community is a "fictitious body," and the interest of the community is merely the aggregate of the interests of the individuals who compose it. This means the basic unit of utilitarian calculation is the individual; any discussion of "collective interest" must be reducible to the aggregate of individual experiences of pleasure and pain.
+
+**平等主义原则。** "每一人计数为一，无人多于一人"（every individual tells for one; no individual for more than one）。这一原则是功利原则的重要组成部分：在进行功利计算时，所有人的利益应当被平等考量，不因地位、财富、性别、种族而有所不同。这一原则在十八世纪末具有革命性意义，因为它从根本上否定了贵族特权和奴隶制度的正当性。
+
+**The egalitarian principle.** "Every individual in the country tells for one; no individual for more than one." This principle is a crucial component of the principle of utility: in utilitarian calculation, all persons' interests must be weighed equally, regardless of rank, wealth, gender, or race. This principle was revolutionary in the late eighteenth century, fundamentally denying the legitimacy of aristocratic privilege and slavery.
+
+**功利原则的证明问题。** 边沁明确指出功利原则不能被"证明"——因为它本身就是所有证明的起点。任何试图证明某个道德原则的努力，最终都必须诉诸某些关于苦乐的事实，而这正是功利原则所依据的基础。边沁认为，即便是功利原则的反对者，在实际论证中也不得不暗中运用功利推理。
+
+**The proof problem of the principle of utility.** Bentham explicitly stated that the principle of utility cannot be "proved"—because it is itself the starting point of all proofs. Any attempt to prove a moral principle must ultimately appeal to certain facts about pleasure and pain, which is precisely the foundation on which the principle of utility rests. Bentham argued that even opponents of the principle of utility must covertly employ utilitarian reasoning in their actual arguments.
+
+## 思想史脉络 / Intellectual History
+
+"功利"概念在哲学史上有悠久的传统。早在十八世纪，哈奇森（Francis Hutcheson）就在其道德哲学中使用了"功利"概念，并提出了"最大多数人的最大幸福"这一公式。休谟将功利作为道德赞许的重要来源之一。然而，这些先驱者都将功利视为道德的诸多考量因素之一，而非唯一的、最高的道德标准。
+
+The concept of "utility" has a long tradition in the history of philosophy. As early as the eighteenth century, Francis Hutcheson employed the concept of "utility" in his moral philosophy and proposed the "greatest happiness of the greatest number" formula. Hume identified utility as one important source of moral approbation. However, these predecessors treated utility as one among several moral considerations, not as the sole, supreme moral standard.
+
+边沁的革命性贡献在于将功利原则确立为道德和立法的唯一根本原则。他不仅接受了功利的概念，还发展了一整套分析框架——苦乐计算法——来使功利原则具有可操作性。此后，密尔对功利原则进行了重要修正，引入了快乐的质量区分和"次级原则"（secondary principles）的概念。西季威克则试图在功利原则与常识道德之间寻求系统性的调和。
+
+Bentham's revolutionary contribution lay in establishing the principle of utility as the sole fundamental principle of morality and legislation. He not only accepted the concept of utility but developed a complete analytical framework—the felicific calculus—to make the principle operational. Subsequently, Mill made important revisions to the principle of utility, introducing qualitative distinctions among pleasures and the concept of "secondary principles." Sidgwick sought a systematic reconciliation between the principle of utility and common-sense morality.
+
+## 关键文本 / Key Passages
+
+> "By the principle of utility is meant that principle which approves or disapproves of every action whatsoever, according to the tendency which it appears to have to augment or diminish the happiness of the party whose interest is in question."
+>
+> — *IPML*, Chapter I, §2
+
+这是功利原则最精确的经典表述。边沁在此强调了几个关键要素：普遍性（适用于"一切行为"）、后果性（取决于"倾向"即后果）、利益相关性（"有关各方"）。
+This is the most precise classical formulation of the principle of utility. Bentham here emphasises several key elements: universality (applicable to "every action whatsoever"), consequentialism (depending on "tendency," i.e., consequences), and interest-relevance ("the party whose interest is in question").
+
+> "When one attempts to combat the principle of utility, it is with reasons drawn, without thinking, from the principle itself."
+>
+> — *IPML*, Chapter I, §13
+
+边沁在此提出了一个著名的"自败"论证：任何反对功利原则的论证都不可避免地暗中预设功利原则。这一论证的力量在于它将证明负担转移到了反对者身上。
+Bentham here proposes a famous "self-defeating" argument: any argument against the principle of utility inevitably covertly presupposes the principle itself. The strength of this argument is that it shifts the burden of proof onto the opponent.
+
+## 当代应用 / Contemporary Applications
+
+功利原则在当代仍然广泛应用于公共政策、医学伦理和环境政策等领域。在医疗资源分配中，功利原则指导决策者在有限预算下选择能够最大化"质量调整生命年"（QALY）的治疗方案。在气候政策中，功利原则要求在全球范围内进行跨代际的成本-效益分析，平等考量当代人和未来世代的利益。在刑事司法中，功利原则被用来评估不同刑罚制度的威慑效果和社会成本。
+
+The principle of utility remains widely applied in public policy, medical ethics, and environmental policy. In healthcare resource allocation, the principle guides decision-makers to select treatment options that maximise Quality-Adjusted Life Years (QALYs) within limited budgets. In climate policy, the principle demands cross-generational cost-benefit analysis on a global scale, giving equal consideration to the interests of present and future generations. In criminal justice, the principle is used to evaluate the deterrent effects and social costs of different penal systems.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一 / Critique 1:** 功利原则忽视了权利的独立性——即使侵犯某人的权利能增进总体功利，这种侵犯在道德上仍然是错误的。
+The principle of utility ignores the independence of rights—even if violating someone's rights increases overall utility, such violation remains morally wrong.
+
+**回应 / Response:** 边沁承认权利的重要性，但他认为权利最终来源于法律，而法律的正当性则来源于功利原则。因此，权利不是先于功利的独立约束，而是功利原则的制度性表达。规则功利主义进一步发展了这一思路，主张在规则层面而非个别行为层面应用功利原则。
+Bentham acknowledged the importance of rights but argued that rights ultimately derive from law, and law's legitimacy derives from the principle of utility. Rights are therefore not independent constraints prior to utility but institutional expressions of the principle. Rule utilitarianism further develops this line of thought, arguing for applying the principle at the level of rules rather than individual acts.
+
+**批评二 / Critique 2:** 功利原则要求"过于严苛"——它要求人们时刻最大化总体功利，这对普通人来说是不切实际的道德负担。
+The principle of utility is "too demanding"—it requires people to maximise overall utility at all times, an unrealistic moral burden for ordinary people.
+
+**回应 / Response:** 边沁承认功利原则是一个理想化的标准，在实践中人们依靠经验法则和习惯来指导行为。关键在于，这些经验法则和习惯本身应当在功利原则的指导下形成和修正。
+Bentham acknowledged that the principle is an idealised standard; in practice, people rely on rules of thumb and habits to guide conduct. The key is that these rules of thumb and habits should themselves be formed and revised under the guidance of the principle of utility.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在儒家传统中，"义利之辨"是核心伦理议题之一。儒家主流传统（特别是程朱理学）倾向于将"义"（道德正当性）置于"利"（功利考量）之上，主张"君子喻于义，小人喻于利"。这与边沁将"利"确立为道德的最终基础形成了鲜明的对比。然而，儒家传统中也有功利主义倾向的思想家，如南宋的陈亮和叶适，他们主张"义"不能脱离"利"而存在，强调道德理想必须通过实际的社会效益来检验。这一"事功学派"与边沁的功利原则在方法论上有显著的共鸣。
+
+In the Confucian tradition, the "distinction between righteousness and profit" (yi-li zhi bian) is a central ethical issue. The mainstream Confucian tradition (especially Cheng-Zhu Neo-Confucianism) tends to place "righteousness" (yi, moral rectitude) above "profit" (li, utilitarian considerations), holding that "the gentleman is concerned with righteousness, the petty person with profit." This stands in sharp contrast to Bentham's establishment of "benefit" as the ultimate foundation of morality. However, the Confucian tradition also includes utilitarian-leaning thinkers such as Chen Liang and Ye Shi of the Southern Song, who argued that "righteousness" cannot exist independently of "benefit," emphasising that moral ideals must be tested by actual social benefit. This "School of Practical Achievement" (shigong xuepai) resonates significantly with Bentham's principle of utility at the methodological level.
+
+## 延伸阅读 / Further Reading
+
+- Bentham, *An Introduction to the Principles of Morals and Legislation*, Chapter I
+- Mill, *Utilitarianism*, Chapter II
+- Rawls, John. "Classical Utilitarianism and the Principle of Utility" in *A Theory of Justice* (1971)
+- Williams, Bernard. "A Critique of Utilitarianism" in *Utilitarianism: For and Against* (1973)
+- 约翰·罗尔斯《正义论》，何怀宏等译 / John Rawls, *A Theory of Justice* (Chinese translation)

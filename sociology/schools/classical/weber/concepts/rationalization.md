@@ -1,0 +1,73 @@
+---
+id: weber-rationalization
+title: 理性化 · Rationalization
+type: concept
+domain: sociology
+thinker: weber
+school: classical
+tags:
+  - rationality
+  - modernity
+  - disenchantment
+  - iron-cage
+cross-refs:
+  - weber/bureaucracy
+  - weber/protestant-ethic
+  - habermas/communicative-rationality
+  - foucault/discipline
+  - bauman/liquid-modernity
+---
+
+# 理性化 · Rationalization (Rationalisierung)
+
+## 概念界定 / Concept Definition
+
+理性化（Rationalization）是韦伯社会学理论的核心概念，也是他理解现代性（Modernity）的基本分析框架。韦伯认为，现代社会的根本特征是理性化在生活的一切领域——经济、行政、法律、科学、艺术、宗教——的全面展开。理性化不是单一的线性过程，而是表现为多种形态：工具理性（Zweckrationalitat）和价值理性（Wertrationalitat）、形式理性（formale Rationalitat）和实质理性（materiale Rationalitat）。
+
+Rationalization is the core concept of Weber's sociological theory and his fundamental analytical framework for understanding modernity. Weber argued that the defining characteristic of modern society is the comprehensive unfolding of rationalization across all spheres of life—economy, administration, law, science, art, religion. Rationalization is not a single linear process but manifests in multiple forms: instrumental rationality (Zweckrationalitat) and value rationality (Wertrationalitat), formal rationality (formale Rationalitat) and substantive rationality (materiale Rationalitat).
+
+## 理性化的多面向 / Multiple Faces of Rationalization
+
+### 经济领域的理性化 / Rationalization in the Economic Sphere
+资本主义企业中的簿记制度、成本核算、利润最大化追求，构成了经济理性化的典型形式。韦伯区分了"营利冲动"（Erwerbstrieb，一切时代和文明中都存在）与"资本主义精神"（以理性化、系统化的方式追求利润）。
+
+Bookkeeping systems, cost accounting, and profit-maximization in capitalist enterprises constitute the typical form of economic rationalization. Weber distinguished between the "acquisitive drive" (Erwerbstrieb, present in all ages and civilizations) and the "capitalist spirit" (pursuit of profit in a rationalized, systematized manner).
+
+### 行政领域的理性化 / Rationalization in Administration
+官僚制（Burokratie）是行政理性化的最高形式：以规则为基础、等级制组织、专业化分工、非人格化管理。官僚制在技术效率上优于其他一切行政组织形式，但代价是人的自由和创造力的丧失。
+
+Bureaucracy (Burokratie) is the highest form of administrative rationalization: rule-based, hierarchically organized, with specialized division of labour and impersonal management. Bureaucracy is technically superior to all other forms of administrative organization, but at the cost of human freedom and creativity.
+
+### 法律领域的理性化 / Rationalization in Law
+韦伯区分了四种法律思想类型：形式非理性、实质非理性、实质理性、形式理性。现代西方法律的发展方向是"形式理性化"——法律越来越成为由专业法律人士按照逻辑规则操作的自洽体系，远离了实质性的正义考量。
+
+Weber distinguished four types of legal thought: formally irrational, substantively irrational, substantively rational, and formally rational. The developmental direction of modern Western law is toward "formal rationalization"—law increasingly becomes a self-contained system operated by legal professionals according to logical rules, distanced from substantive justice considerations.
+
+### 文化领域的理性化 / Rationalization in Culture
+"世界的祛魅"（Entzauberung der Welt）是文化理性化的核心过程。宗教改革否定了圣礼的魔力，新教将救赎从教会仪式转移到个人信仰，科学用计算取代了神秘力量的解释。最终，在"祛魅"的世界中，终极价值陷入不可调和的"诸神之争"。
+
+The "disenchantment of the world" (Entzauberung der Welt) is the core process of cultural rationalization. The Reformation denied the magic of sacraments; Protestantism transferred salvation from church rituals to individual faith; science replaced explanations by mysterious forces with calculation. Ultimately, in a "disenchanted" world, ultimate values fall into an irreconcilable "war of the gods."
+
+## 理性化的悖论 / The Paradox of Rationalization
+
+韦伯对理性化的分析充满了深刻的矛盾和悲剧性洞察。理性化创造了现代文明的巨大成就——科学技术、物质繁荣、法治秩序——但也导致了"铁笼"（stahlhartes Gehause）：一个由效率、计算和规则构成的冰冷世界，人在其中成为"没有精神的专家，没有心灵的享乐者"。
+
+Weber's analysis of rationalization is full of profound ambivalence and tragic insight. Rationalization created the enormous achievements of modern civilization—science and technology, material prosperity, rule of law—but also produced the "iron cage" (stahlhartes Gehause): a cold world of efficiency, calculation, and rules, in which humans become "specialists without spirit, sensualists without heart."
+
+## 学术争论 / Scholarly Debates
+
+### 哈贝马斯的交往理性 / Habermas' Communicative Rationality
+哈贝马斯认为韦伯将理性化等同于工具理性的扩张，忽视了"交往理性"（kommunikative Rationalitat）的可能性。交往理性不是手段-目的的计算，而是通过对话和论辩达成共识的能力。哈贝马斯主张，理性化的解放潜力在于交往理性的发展，而非对理性化本身的全盘否定。
+
+Habermas argues that Weber equated rationalization with the expansion of instrumental rationality, neglecting the possibility of "communicative rationality" (kommunikative Rationalitat). Communicative rationality is not means-ends calculation but the capacity to reach consensus through dialogue and argumentation. Habermas argues that rationalization's emancipatory potential lies in the development of communicative rationality, not in wholesale rejection of rationalization itself.
+
+### 法兰克福学派的工具理性批判 / Frankfurt School's Critique of Instrumental Reason
+霍克海默和阿多诺将韦伯的理性化悖论推向极端：启蒙理性本身已经变成了一种新的神话——工具理性全面支配自然和人。马尔库塞的"单向度的人"和"单向度的社会"进一步发展了这一批判。
+
+Horkheimer and Adorno pushed Weber's rationalization paradox to its extreme: Enlightenment rationality itself has become a new mythology—instrumental reason comprehensively dominates nature and humanity. Marcuse's "one-dimensional man" and "one-dimensional society" further developed this critique.
+
+## 当代意义 / Contemporary Significance
+
+理性化理论在数字时代获得了全新的阐释空间：算法治理是行政理性化的极致形式；量化自我（quantified self）是生活世界理性化的新维度；金融科技（fintech）是经济理性化的最新表现。韦伯的"铁笼"隐喻在算法黑箱和数据监控中获得了令人不安的新形态。
+
+Rationalization theory acquires new interpretive space in the digital age: algorithmic governance is the extreme form of administrative rationalization; the "quantified self" is a new dimension of lifeworld rationalization; fintech is the latest manifestation of economic rationalization. Weber's "iron cage" metaphor acquires disturbing new forms in algorithmic black boxes and data surveillance.

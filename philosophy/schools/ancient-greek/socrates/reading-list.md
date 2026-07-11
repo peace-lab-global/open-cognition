@@ -1,0 +1,68 @@
+---
+id: socrates-reading-list
+title: 苏格拉底推荐阅读 · Socrates Reading List
+type: reading-list
+parent: socrates
+domain: philosophy
+---
+
+# 苏格拉底推荐阅读 · Socrates Reading List
+
+---
+
+## 入门级 Beginner
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| 《苏格拉底的申辩》*Apology* | 柏拉图 Plato | 理解苏格拉底的第一文本。篇幅短，可读性强 / First text for understanding Socrates. Short and accessible |
+| *The Last Days of Socrates* (Penguin) | 柏拉图 Plato (Hugh Tredennick trans.) | 含《申辩》《克力同》《斐多》《尤西弗罗》四篇 / Includes Apology, Crito, Phaedo, Euthyphro |
+| 《苏格拉底》| 泰勒 A.E. Taylor | 经典入门读物，中译有商务印书馆版 / Classic introduction |
+| *Socrates: A Very Short Introduction* | C.C.W. Taylor | 牛津通识读本，简洁全面 / Oxford VSI, concise and comprehensive |
+
+## 进阶级 Intermediate
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| 《理想国》第一卷 *Republic* Book I | 柏拉图 Plato | 早期诘问法的典型范本 / Paradigm of early elenctic method |
+| 《美诺篇》*Meno* | 柏拉图 Plato | 德性是否可教？知识即回忆 / Is virtue teachable? Knowledge as recollection |
+| 《会饮篇》*Symposium* | 柏拉图 Plato | 爱的阶梯；苏格拉底的宗教面向 / Ladder of love; Socrates' religious dimension |
+| *Plato's Moral Theory* | Terence Irwin | 系统分析柏拉图（及苏格拉底）伦理学 / Systematic analysis of Platonic/Socratic ethics |
+| 《回忆苏格拉底》*Memorabilia* | 色诺芬 Xenophon | 与柏拉图不同的"务实"苏格拉底 / A "pragmatic" alternative to Plato's Socrates |
+
+## 研究级 Advanced
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| *Socrates: Ironist and Moral Philosopher* | Gregory Vlastos, 1991 | 最具影响力的当代苏格拉底研究 / Most influential contemporary study of Socrates |
+| *Socratic Studies* | Gregory Vlastos, 1994 | Vlastos 论文集 / Collected essays |
+| *Plato and the Socratic Dialogue* | Charles Kahn, 1996 | 挑战 Vlastos 的"发展论"解读 / Challenges Vlastos' developmentalist reading |
+| *Socrates and Hellenistic Philosophy* | A.A. Long, 2006 | 苏格拉底对希腊化哲学的影响 / Socrates' influence on Hellenistic philosophy |
+| *The Trial and Execution of Socrates* | Thomas Brickhouse & Nicholas Smith, 2002 | 审判的法律与政治分析 / Legal and political analysis of the trial |
+| *Socratic Perplexity and the Nature of Philosophy* | Roslyn Weiss, 2020 | 重新审视 aporia 的哲学意义 / Reassessing the philosophical significance of aporia |
+
+## 中文资源 Chinese Resources
+
+| 书名 Title | 作者/译者 Author/Translator | 出版 Publisher |
+|-----------|---------------------------|---------------|
+| 《柏拉图全集》 | 王晓朝 译 | 人民出版社 |
+| 《回忆苏格拉底》 | 色诺芬著，吴永泉 译 | 商务印书馆 |
+| 《柏拉图对话集》 | 王太庆 译 | 商务印书馆 |
+| 《苏格拉底——柏拉图之"自我"》 | 陈康 | 收录于《陈康论希腊哲学》 |
+| 《德性之镜：孔子与亚里士多德的伦理学》 | 余纪元 | 含论苏格拉底部分 |
+| 《古希腊哲学史》（第三卷） | 策勒 E. Zeller | 华东师范大学出版社 |
+
+## 比较哲学 Comparative Philosophy
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| *The Ethics of Confucius and Aristotle* | 余纪元 Jiyuan Yu, 2007 | 孔子与苏格拉底/亚里士多德比较 / Confucius vs. Socrates/Aristotle |
+| *Socrates and Confucius* | 多位作者 | 比较哲学视角下的苏格拉底与孔子 / Socrates and Confucius in comparative perspective |
+
+---
+
+## 相关条目 Related Entries
+
+- [苏格拉底 · 苏格拉底](README.md)
+- [著作年表 Works](works.md)
+- [柏拉图 · 推荐阅读](../plato/reading-list.md)
+- [亚里士多德 · 推荐阅读](../aristotle/reading-list.md)

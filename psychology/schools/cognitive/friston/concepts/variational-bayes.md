@@ -1,0 +1,193 @@
+---
+id: psychology.cognitive.friston.concepts.variational-bayes
+title: "变分贝叶斯 · Variational Bayes"
+type: concept
+parent: psychology.cognitive.friston
+thinker: Karl Friston
+tags: [变分推断, 贝叶斯推断, 近似推断, KL散度, 期望最大化]
+---
+
+# 变分贝叶斯 · Variational Bayes
+
+> "Variational Bayes transforms intractable inference into an optimization problem — turning the question 'what is the posterior?' into 'what is the best approximation to the posterior?'"
+> "变分贝叶斯将不可解的推断转化为优化问题——把'后验是什么'变成'后验的最佳近似是什么'。"
+
+---
+
+## 定义 / Definition
+
+变分贝叶斯（Variational Bayes, VB）是一组用于近似贝叶斯推断的数学方法，其核心思想是：**用一个简单的参数化分布族 q(θ) 来逼近真实但不可计算的后验分布 p(θ|s)，逼近的优劣由Kullback-Leibler（KL）散度衡量**。弗里斯顿将变分贝叶斯作为自由能原理和预测编码的数学基础——大脑被建模为一台执行变分贝叶斯推断的机器。
+
+Variational Bayes (VB) is a family of mathematical methods for approximate Bayesian inference, with the core idea: **use a simple parameterized distribution family q(θ) to approximate the true but intractable posterior distribution p(θ|s), with approximation quality measured by Kullback-Leibler (KL) divergence**. Friston uses variational Bayes as the mathematical foundation for the free energy principle and predictive coding — the brain is modeled as a machine performing variational Bayesian inference.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 问题：不可解的后验 / The Problem: Intractable Posterior
+
+贝叶斯推断的理想形式是：
+
+The ideal form of Bayesian inference is:
+
+```
+p(θ|s) = p(s|θ) · p(θ) / p(s)
+```
+
+其中 `p(s) = ∫ p(s|θ) · p(θ) dθ` 是模型证据（model evidence），对于复杂模型来说这个积分通常是不可计算的（intractable）。
+
+where `p(s) = ∫ p(s|θ) · p(θ) dθ` is the model evidence, and this integral is typically intractable for complex models.
+
+### 解决方案：变分近似 / The Solution: Variational Approximation
+
+变分推断将推断问题转化为优化问题：
+
+Variational inference transforms the inference problem into an optimization problem:
+
+```
+q*(θ) = argmin_{q ∈ Q} D_KL[q(θ) || p(θ|s)]
+```
+
+关键数学恒等式（弗里斯顿"自由能"的数学来源）：
+
+The key mathematical identity (the mathematical origin of Friston's "free energy"):
+
+```
+log p(s) = -D_KL[q(θ) || p(θ|s)] + F[q, s]
+
+其中 / where:
+F[q, s] = E_q[log p(s,θ)] - E_q[log q(θ)]
+        = E_q[log p(s|θ)] - D_KL[q(θ) || p(θ)]
+```
+
+由于 `D_KL ≥ 0`，所以 `F ≥ log p(s)`——**F 是模型证据的下界（Evidence Lower BOund, ELBO）**。最大化 ELBO（即最小化负 ELBO，弗里斯顿称之为"变分自由能"）等价于最小化 KL 散度，从而得到后验的最佳近似。
+
+Since `D_KL ≥ 0`, we have `F ≥ log p(s)` — **F is a lower bound on model evidence (Evidence Lower BOund, ELBO)**. Maximizing ELBO (i.e., minimizing negative ELBO, what Friston calls "variational free energy") is equivalent to minimizing KL divergence, yielding the best approximation to the posterior.
+
+### 变分自由能的分解 / Decomposition of Variational Free Energy
+
+```
+F = Complexity - Accuracy
+
+F = D_KL[q(θ) || p(θ)]     // 复杂度：后验偏离先验的代价
+  - E_q[log p(s|θ)]         // 精度：模型对数据的拟合度（取负号）
+```
+
+- **最小化复杂度**：倾向于保持先验信念不变（Occam剃刀效应）
+- **最大化精度**：倾向于让模型精确拟合数据
+
+这两个目标之间的张力就是变分推断的核心动态。
+
+- **Minimizing complexity**: Favors keeping prior beliefs unchanged (Occam's razor effect)
+- **Maximizing accuracy**: Favors fitting data precisely
+
+The tension between these two objectives is the core dynamic of variational inference.
+
+### 变分拉普拉斯近似 / Variational Laplace Approximation
+
+弗里斯顿在实践中使用的一种特殊变分方法是**变分拉普拉斯近似**：假设后验分布为高斯分布，用其均值和协方差来参数化：
+
+A specific variational method Friston uses in practice is the **variational Laplace approximation**: assume the posterior is Gaussian, parameterized by its mean and covariance:
+
+```
+q(θ) = N(μ, Σ)
+
+其中 / where:
+μ 的更新规则 ≈ 梯度上升（在F上）/ update rule for μ ≈ gradient ascent on F
+Σ = (-∂²F/∂θ²)⁻¹  // Hessian的逆 / inverse of Hessian
+```
+
+这使得推断可以在神经网络中通过局部计算实现——每一层只需要计算局部梯度和曲率。
+
+This allows inference to be implemented through local computations in neural networks — each level only needs to compute local gradients and curvatures.
+
+---
+
+## 发展脉络 / Historical Development
+
+### 前身 / Precursors
+
+- **Bayes (1763)**：贝叶斯定理的原始表述。
+- **Laplace (1774)**：拉普拉斯近似——用高斯分布近似后验。
+- **Jordan et al. (1999)**：在机器学习中系统发展变分推断方法。
+- **Beal (2003)**：变分贝叶斯方法的系统性论文（博士论文）。
+
+### 弗里斯顿的整合 / Friston's Integration
+
+- **2003–2005**：将变分贝叶斯引入脑成像数据分析（VB for DCM）。
+- **2006**：将变分自由能提升为大脑运作的基本原理。
+- **2007**："Variational free energy and the Laplace approximation"——发展变分拉普拉斯方法。
+- **2011**："DEM: A variational treatment of dynamic systems"——动态系统的变分推断框架。
+
+### Precursors
+
+- **Bayes (1763)**: Original formulation of Bayes' theorem.
+- **Laplace (1774)**: Laplace approximation — Gaussian approximation to the posterior.
+- **Jordan et al. (1999)**: Systematic development of variational inference in machine learning.
+- **Beal (2003)**: Systematic thesis on variational Bayesian methods.
+
+### Friston's Integration
+
+- **2003–2005**: Introduced variational Bayes into neuroimaging data analysis (VB for DCM).
+- **2006**: Elevated variational free energy to a fundamental principle of brain function.
+- **2007**: "Variational free energy and the Laplace approximation" — developed the variational Laplace method.
+- **2011**: "DEM: A variational treatment of dynamic systems" — variational inference framework for dynamic systems.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 贝叶斯模型比较 / Bayesian Model Comparison
+
+变分贝叶斯为临床诊断提供了严格的形式化方法：
+- **模型比较**：通过比较不同精神疾病模型的自由能（ELBO），选择最能解释患者数据的模型——即贝叶斯模型选择。
+- **个体化预测**：基于个体后验参数进行预后预测和治疗选择。
+
+### 计算精神病学中的参数估计 / Parameter Estimation in Computational Psychiatry
+
+- 使用变分贝叶斯从行为数据中估计患者的先验精确度参数
+- 通过比较正常与异常的后验推断模式来识别精神疾病的计算亚型
+
+### Clinical Applications
+
+- **Model comparison**: By comparing free energies (ELBO) of different psychiatric disease models, select the model best explaining patient data — Bayesian model selection.
+- **Individualized prediction**: Prognostic prediction and treatment selection based on individual posterior parameters.
+- **Parameter estimation in computational psychiatry**: Use variational Bayes to estimate patients' prior precision parameters from behavioral data; identify computational subtypes of psychiatric disorders by comparing normal vs. abnormal posterior inference patterns.
+
+---
+
+## 关联概念 / Related Concepts
+
+- [[free-energy-principle|自由能原理 / Free Energy Principle]]：变分自由能是其数学核心
+- [[hierarchical-inference|层级推断 / Hierarchical Inference]]：层级变分推断的实现方法
+- [[predictive-processing|预测加工 / Predictive Processing]]：预测编码是变分推断的神经实现
+- KL散度（KL Divergence）：变分近似的质量度量
+- 模型证据（Model Evidence）：变分自由能是其下界
+- EM算法（Expectation-Maximization）：变分推断的特例
+- 变分自编码器（VAE）：深度学习中变分推断的应用
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 佛学·中观 / Buddhism · Madhyamaka
+
+变分推断的核心洞见是：我们永远无法获得"真实的后验"（直接认识事物本身），只能获得其近似。这与中观学派的"一切法无自性"（所有认知都是概念建构，非对实相的直接把握）形成深层共鸣。变分近似的过程——不断修正概念模型以逼近实相——可以被解读为佛教修行中"闻思修"（study, reflection, meditation）的计算版本。
+
+The core insight of variational inference is that we can never obtain the "true posterior" (direct knowledge of things in themselves), only approximations. This resonates with the Madhyamaka school's assertion that "all phenomena lack intrinsic nature" (all cognition is conceptual construction, not direct grasping of reality). The process of variational approximation — continually refining conceptual models to approach reality — can be read as a computational version of the Buddhist practice of "hearing, thinking, meditating" (study, reflection, meditation).
+
+### 道家·知足 / Daoism · Knowing Sufficiency
+
+变分自由能中复杂度与精度的权衡反映了"知足不辱，知止不殆"（《道德经》第44章）的智慧：过度拟合（精度主导）导致模型复杂度过高而不自洽；过度简化（复杂度主导）导致精度不足而脱离现实。最优推断在两者之间找到平衡——"知止"。
+
+The complexity-accuracy tradeoff in variational free energy reflects the wisdom of "knowing sufficiency avoids disgrace, knowing when to stop avoids danger" (Daodejing ch. 44): overfitting (accuracy dominates) leads to excessive model complexity and self-contradiction; oversimplification (complexity dominates) leads to insufficient accuracy and detachment from reality. Optimal inference finds balance between the two — "knowing when to stop."
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Friston, K. et al. (2007). "Variational free energy and the Laplace approximation." *NeuroImage*, 34, 220–234.
+- Beal, M. J. (2003). *Variational Algorithms for Approximate Bayesian Inference*. PhD thesis, UCL.
+- Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer. (Chapter 10: Variational Inference)
+- Blei, D. M. et al. (2017). "Variational inference: A review for statisticians." *Journal of the American Statistical Association*, 112(518), 859–877.
+- Friston, K. (2011). "DEM: A variational treatment of dynamic systems." *NeuroImage*, 54(3), 2494–2508.

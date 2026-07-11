@@ -1,0 +1,136 @@
+---
+id: xiaoyao
+title: 逍遥游 / Free and Easy Wandering (Xiaoyao You)
+type: concept
+domain: religion
+school: taoism
+thinker: zhuangzi
+tags: [xiaoyao, freedom, wandering, wudai, 逍遥游, 自由]
+parent: ../README.md
+---
+
+# 逍遥游 / Free and Easy Wandering (Xiaoyao You)
+
+## 定义 / Definition
+
+逍遥（xiaoyao）是庄子生存论的最高理想——超越一切"有待"（依赖条件）的绝对精神自由。"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥不是地理上的远行，而是精神上的无拘无束——从名利、是非、生死、知识执着中彻底解放，与道同游。
+
+Xiaoyao — "Free and Easy Wandering" — is the supreme ideal of Zhuangzi's existential philosophy: absolute spiritual freedom that transcends all dependence (youdai). "Riding on what is true of Heaven and Earth, harnessing the alterations of the six energies, wandering in the limitless — what could such a one possibly depend on?" Xiaoyao is not geographical travel but spiritual boundlessness — total liberation from fame, profit, right-and-wrong, life-and-death, and cognitive fixation; roaming in company with the Dao.
+
+## 核心文本 / Core Passages
+
+### 《逍遥游》的层次结构 / Structural Hierarchy
+
+《逍遥游》以层层递进的方式展示"有待"到"无待"的过程：
+
+The chapter unfolds as a progressive ascent from dependence to independence:
+
+1. **鲲鹏 (Kun-Peng)**：鲲（巨鱼）化为鹏（巨鸟），"抟扶摇而上者九万里"——壮观但"有待"（依赖六月大风）
+   *The great fish Kun transforms into the great bird Peng, spiraling up ninety thousand li — magnificent yet dependent (on the sixth-month gale).*
+2. **蜩与学鸠 (Cicada and Dove)**：嘲笑鲲鹏——"我决起而飞，枪榆枋而止"——小境界的不自觉
+   *They mock the Peng — "I flap up and alight on the elm" — the unconsciousness of small horizons.*
+3. **宋荣子 (Song Rongzi)**："举世誉之而不加劝，举世非之而不加沮"——超越世俗毁誉，但"犹有未树也"
+   *The whole world may praise him but he does not try harder; the whole world may blame him but he is not discouraged — transcends worldly praise and blame, yet "there is still something he has not established."*
+4. **列子 (Liezi)**："御风而行，泠然善也"——超越物质限制，但"犹有所待者也"（依赖风）
+   *Rides the wind and goes, light and skillful — transcends material limits, yet "still depends on something" (the wind).*
+5. **至人/神人/圣人 (Perfected / Spiritual / Sage)**："乘天地之正，御六气之辩，以游无穷者"——**无待**的绝对自由
+   *Rides what is true of Heaven and Earth, harnesses the alterations of the six energies, wanders in the limitless — absolute freedom beyond all dependence.*
+
+### 至人、神人、圣人 / The Three Ideals
+
+- **至人无己** (zhiren wuji)：超越了"自我"的执着 — The Perfected Person has no self
+- **神人无功** (shenren wugong)：超越了"功业"的追求 — The Spiritual Person has no achievement
+- **圣人无名** (shengren wuming)：超越了"名声"的欲望 — The Sage has no fame
+
+## 有待与无待 / Youdai and Wudai (Dependence and Independence)
+
+这是逍遥论的核心区分：
+
+This is the central distinction of xiaoyao theory:
+
+- **有待** (youdai / dependent)：依赖某种条件——鲲鹏依赖风，列子依赖风，普通人依赖名利
+  *Depending on some condition — the Peng depends on wind; Liezi depends on wind; ordinary people depend on fame and profit.*
+- **无待** (wudai / independent)：不依赖任何外在条件——至人"游乎天地之一气"
+  *Not depending on any external condition — the Perfected Person "wanders in the single qi of Heaven and Earth."*
+
+无待不是"什么都不需要"，而是不被任何单一条件所束缚——与道合一，因此不需要依赖任何有限的事物。
+
+Wudai is not "needing nothing" but being bound to no single condition — united with the Dao, one need not depend on any finite thing.
+
+## 逍遥的寓言 / Parables of Xiaoyao
+
+### 许由拒尧让天下 / Xu You Refuses the Empire
+
+尧想把天下让给许由，许由说"鹪鹩巢于深林，不过一枝；偃鼠饮河，不过满腹"——天下对他是"无用"的负担。
+
+Emperor Yao wished to cede the empire to Xu You, who replied: "The wren nesting in the deep forest needs no more than a single branch; the mole drinking from the river fills its belly and no more." The empire was to him a "useless" burden.
+
+### 藐姑射之山的神人 / The Spirit-Person of Mount Miaogushe
+
+"肌肤若冰雪，绰约若处子。不食五谷，吸风饮露"——超越物质需求的理想形象。
+
+*"Skin like ice and snow, graceful as a maiden. Does not eat the five grains but sips the wind and drinks the dew"* — the ideal figure transcending material needs.
+
+### 惠子的瓠瓜 / Hui Shi's Giant Gourd
+
+惠子有一个巨大的瓠瓜，不知怎么用。庄子说"何不虑以为大樽而浮乎江湖"——打破惯常的使用框架。
+
+Hui Shi had an enormous gourd and didn't know what to do with it. Zhuangzi said: "Why not make it into a great vessel and float on rivers and lakes?" — breaking the conventional frame of usefulness.
+
+## 逍遥与自由 / Xiaoyao and Freedom
+
+庄子的逍遥不同于西方自由传统：
+
+Zhuangzi's xiaoyao differs from Western freedom traditions:
+
+| 维度 Dimension | 逍遥 Xiaoyao | 西方自由 Western Freedom |
+|------|------|----------|
+| 类型 Type | 精神自由 Spiritual freedom | 政治自由/意志自由 Political / free will |
+| 路径 Path | 减法（忘、损）Subtraction (forgetting, diminishing) | 加法（权利、能力）Addition (rights, capacities) |
+| 前提 Prerequisite | 放弃执着 Letting go of fixation | 获得保障 Securing guarantees |
+| 目标 Goal | 与道同游 Roaming with the Dao | 自我实现 Self-realization |
+| 对立面 Opposite | 有待（依赖）Dependence | 强制 Coercion |
+
+## 与海德格尔"本真存在"的比较 / vs Heidegger's Authenticity
+
+- **海德格尔 Heidegger**：本真存在（Eigentlichkeit）是从"常人"（das Man）的沉沦中抽身，直面"向死而在"（Sein-zum-Tode）
+  *Authenticity is withdrawing from the fallenness of "the They" (das Man) and facing being-toward-death.*
+- **庄子 Zhuangzi**：逍遥是从世俗的"是非""名利""生死"中解脱，"游乎天地之一气"
+  *Xiaoyao is liberation from worldly right-and-wrong, fame-and-profit, life-and-death.*
+- **共同点 Common ground**：都要求从日常的"非本真"状态中觉醒
+  *Both demand awakening from everyday "inauthentic" modes.*
+- **差异 Difference**：海德格尔的路径是焦虑的、个体化的；庄子的路径是从容的、宇宙化的
+  *Heidegger's path is anxious and individualized; Zhuangzi's is serene and cosmological.*
+
+## 与佛教"解脱"的比较 / vs Buddhist Liberation
+
+- **佛教 Buddhism**：解脱是转识成智——从遍计所执转向圆成实性
+  *Liberation is transforming consciousness into wisdom.*
+- **庄子 Zhuangzi**：逍遥是从"有待"到"无待"——从执着转向自在
+  *Xiaoyao is moving from dependence to independence — from fixation to ease.*
+- **共同点 Common ground**：都是从"错误的认知模式"中解放
+  *Both are liberation from mistaken cognitive patterns.*
+- **差异 Difference**：佛教有精密的心理分析和禅修次第；庄子以寓言和直觉抵达
+  *Buddhism offers precise psychological analysis and meditation stages; Zhuangzi arrives via parable and intuition.*
+
+## 当代应用 / Contemporary Applications
+
+- **心理治疗** — 逍遥游的"无待"理念与接纳承诺疗法 (ACT) 中的"认知解离"和"价值导向行动"相通
+- **心流研究** — "游"的状态与契克森米哈赖的"心流" (flow) 概念深度对应
+- **教育哲学** — 逍遥反对标准化、功利化的教育，强调自主探索和内在动机
+- **领导力** — "至人无己，神人无功，圣人无名"对仆人式领导 (servant leadership) 的启示
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [老子 · 无为](../laozi/) `[发展]` 从老子的无为到庄子的逍遥
+- [海德格尔 · 本真存在](../../../../philosophy/schools/existentialism/heidegger/) `[平行]` 从沉沦到觉醒
+- [萨特 · 自由](../../../../philosophy/schools/existentialism/sartre/) `[对照]` 绝对自由的不同面向
+- [契克森米哈赖 · 心流](../../../../psychology/schools/positive/csikszentmihalyi/) `[平行]` "游"与 flow state
+
+## 进阶阅读 / Further Reading
+
+- 《庄子·逍遥游》全文
+- Graham, A.C. (2003). *Chuang-tzu: The Inner Chapters*, "Going Rambling Without a Destination"
+- Ziporyn, B. (2020). *Zhuangzi: The Complete Writings*, Ch. 1
+- 陈鼓应《庄子今注今译》
+- Coutinho, S. (2004). *Zhuangzi and Early Chinese Philosophy*

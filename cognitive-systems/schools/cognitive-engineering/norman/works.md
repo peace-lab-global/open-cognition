@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.school.cognitive-engineering.norman.works
+title: 诺曼核心著作 Donald Norman Works
+type: works
+thinker: norman
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 诺曼核心著作 / Donald Norman Key Works
+
+## 专著 / Books
+
+| 年份 | 书名 | 出版社 | 核心贡献 |
+|------|------|--------|----------|
+| 1988 | *The Psychology of Everyday Things* (后改名 *The Design of Everyday Things*) | Basic Books | 设计心理学奠基之作 |
+| 1990 | *Human Error* | Cambridge University Press | 人为错误的系统分类 |
+| 1993 | *Things That Make Us Smart* | Addison-Wesley | 认知人工制品与思维 |
+| 1998 | *The Invisible Computer* | MIT Press | 从独立产品到整合体验的设计 |
+| 2004 | *Emotional Design* | Basic Books | 情感在设计中的三个层面 |
+| 2013 | *The Design of Everyday Things* (修订版) | Basic Books | 更新涵盖数字产品设计 |
+
+## 关键论文 / Key Papers
+
+| 年份 | 论文标题 | 期刊 | 核心贡献 |
+|------|----------|------|----------|
+| 1981 | "Categorization of Action Slips" | *Psychological Review* | 行动错误的分类学 |
+| 1986 | "User-Centered System Design" | 与 Draper 合编 | 以用户为中心的设计原则 |
+| 1991 | "Cognitive Artifacts" | 收录于 *Designing Interaction* | 认知人工制品概念 |
+
+## 商业实践 / Industry Practice
+
+- **Apple**：前Apple高级技术副总裁，将认知原则引入产品设计
+- **Nielsen Norman Group**：与Jakob Nielsen联合创建全球领先的UX咨询公司
+- **IDEO合作**：推动以人为中心设计方法论

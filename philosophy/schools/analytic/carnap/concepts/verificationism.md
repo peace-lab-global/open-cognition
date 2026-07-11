@@ -1,0 +1,67 @@
+---
+id: carnap-verificationism
+title: 可证实性 · Verificationism
+type: concept
+thinker: carnap
+domain: philosophy
+school: analytic
+tags: [meaning, empiricism, science, demarcation]
+---
+
+# 可证实性 · Verificationism
+
+## 概念定位 / Conceptual Position
+
+可证实性原则（Verificationism）是逻辑经验主义的核心信条：一个语句的认知意义在于其被经验证实的条件。卡尔纳普最初持有强可证实性立场，后来逐步放宽为"可确认性"（confirmability），承认科学定律不能被完全证实，只能被逐步确认。
+
+The verificationist principle is the core tenet of logical empiricism: a statement's cognitive meaning lies in the conditions under which it can be empirically verified. Carnap initially held a strong verificationist position, later progressively relaxing it to "confirmability," acknowledging that scientific laws cannot be fully verified, only progressively confirmed.
+
+## 核心论述 / Core Argument
+
+### 意义的验证标准 / Verification Criterion of Meaning
+
+一个命题是有认知意义的（cognitively meaningful），当且仅当它原则上可以被经验所证实或否证。这排除了：
+
+A proposition is cognitively meaningful if and only if it can in principle be verified or falsified by experience. This excludes:
+
+- 形而上学命题（如"绝对精神在自我展开"）/ Metaphysical propositions
+- 伦理判断（如"偷窃是错的"——作为情感表达而非事实断言）/ Ethical judgments
+- 神学命题（如"上帝是全善的"）/ Theological propositions
+
+### 从可证实性到可确认性 / From Verifiability to Confirmability
+
+卡尔纳普后来认识到：
+- 全称命题（如"所有金属导电"）不能被完全证实——我们不可能检验所有金属
+- 因此，更合理的标准是"可确认性"——命题可以被经验逐步确认或否证
+- 这使科学定律保持有意义，同时排除形而上学
+
+Carnap later recognized that universal propositions (e.g., "all metals conduct electricity") cannot be fully verified. A more reasonable criterion is "confirmability" — propositions can be progressively confirmed or disconfirmed by experience.
+
+### 与波普尔证伪主义的关系 / Relation to Popper's Falsificationism
+
+卡尔纳普的"可确认性"与波普尔的"可证伪性"实际上是互补的：
+- 卡尔纳普关注的是"什么使命题有意义"
+- 波普尔关注的是"什么使理论成为科学的"
+- 两者都试图划定科学与非科学的界限
+
+Carnap's "confirmability" and Popper's "falsifiability" are actually complementary — Carnap focuses on "what makes propositions meaningful," Popper on "what makes theories scientific."
+
+## 哲学意义 / Philosophical Significance
+
+1. **科学与形而上学的划界 / Demarcation between science and metaphysics**
+2. **科学统一性的基础 / Foundation for unity of science**
+3. **被批判 / Critiqued**: 蒯因的整体论挑战了逐句验证的可能性
+4. **当代影响 / Contemporary Impact**: 操作主义（operationalism）和工具主义（instrumentalism）
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与量论"现量" / With Pramana's "Direct Perception"
+佛教量论的"现量"（pratyaksa, 直接感知）可以被视为一种严格的"验证标准"——只有能被直接感知或有效推理支持的命题才是有效的认知手段（pramana）。这与可证实性原则有相似的动机：排除不可检验的断言。
+
+Buddhist Pramana's "direct perception" (pratyaksa) can be seen as a strict "verification criterion" — only propositions supported by direct perception or valid inference are valid cognitive instruments. This shares similar motivations with verificationism: excluding untestable assertions.
+
+## 相关概念 / Related Concepts
+
+- [经验意义 Empirical Meaning](empirical-meaning.md)
+- [逻辑句法 Logical Syntax](logical-syntax.md)
+- [卡尔纳普主页](../README.md)

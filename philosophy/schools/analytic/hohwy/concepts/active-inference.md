@@ -1,0 +1,132 @@
+---
+id: hohwy-active-inference
+title: 主动推理 · Active Inference
+type: concept
+thinker: hohwy
+domain: philosophy
+school: analytic
+tags:
+  - predictive-processing
+  - action
+  - active-inference
+  - free-energy
+  - agency
+---
+
+# 主动推理 · Active Inference
+
+## 概念定位 / Conceptual Position
+
+"主动推理"是 Jakob Hohwy 预测加工哲学中关于行动本质的核心概念。传统认知科学将行动视为感知之后的"输出阶段"——大脑先感知世界，然后基于感知结果做出行动决策。主动推理彻底颠覆了这一图景：行动不是感知的产物，而是感知的一部分——行动是大脑为了使感觉输入与预测一致而主动选择的策略。
+
+"Active inference" is the core concept regarding the nature of action in Jakob Hohwy's predictive processing philosophy. Traditional cognitive science treats action as the "output stage" following perception — the brain first perceives the world, then makes action decisions based on perceptual results. Active inference completely inverts this picture: action is not a product of perception but part of perception — action is a strategy actively selected by the brain to make sensory input consistent with predictions.
+
+在 Hohwy 的理论中，主动推理连接了预测加工与行动哲学，提出了一个根本性的问题：如果行动的目的是使世界符合预测，那么"agency"（能动性）的本质是什么？我们是在"回应"世界，还是在"证明"我们对世界的模型？
+
+In Hohwy's theory, active inference connects predictive processing with philosophy of action, raising a fundamental question: if the purpose of action is to make the world conform to predictions, what is the nature of "agency"? Are we "responding" to the world, or "proving" our models of the world?
+
+---
+
+## 核心论述 / Core Argument
+
+### 行动作为预测误差最小化 / Action as Prediction Error Minimization
+
+在预测加工框架中，大脑面临两种最小化预测误差的方式：
+
+In the predictive processing framework, the brain faces two ways to minimize prediction error:
+
+**感知推理（Perceptual Inference）：** 更新内部模型以匹配感觉输入。"我看到的不是我预期的苹果而是橙子——我需要更新我的预测模型。"
+**Perceptual Inference:** Updating internal models to match sensory input. "What I see is not the apple I expected but an orange — I need to update my predictive model."
+
+**主动推理（Active Inference）：** 通过行动改变感觉输入以匹配内部模型。"我预期面前有杯子——我伸出手去拿它，使我的本体感觉和触觉与预测一致。"
+**Active Inference:** Changing sensory input through action to match internal models. "I predict a cup before me — I reach out to grasp it, making my proprioception and touch consistent with predictions."
+
+Hohwy 的关键论点：这两种推理形式在计算上是统一的——它们都在最小化同一个量（预测误差或自由能）。大脑不是先感知、后行动，而是同时进行感知和行动，两者共同服务于预测误差最小化。
+
+Hohwy's key thesis: these two forms of inference are computationally unified — they both minimize the same quantity (prediction error or free energy). The brain does not first perceive then act, but simultaneously perceives and acts, both serving prediction error minimization.
+
+### 主动推理的结构 / Structure of Active Inference
+
+主动推理包含两个核心维度：
+
+Active inference encompasses two core dimensions:
+
+**认识性动机（Epistemic Motivation）：** 行动以减少不确定性为目标——"我去看，是为了确认那里是否真的有杯子。"这种探索性的行动旨在获取信息，减少关于世界状态的预测误差。有机体被驱使去探索环境，不是出于好奇心的附加属性，而是因为减少不确定性本身就是预测误差最小化的要求。
+**Epistemic Motivation:** Action aimed at reducing uncertainty — "I look in order to confirm whether there really is a cup there." This exploratory action aims to acquire information, reducing prediction error about world states. Organisms are driven to explore environments not from curiosity as an add-on attribute, but because uncertainty reduction is itself a requirement of prediction error minimization.
+
+**实用性动机（Pragmatic Motivation）：** 行动以实现预期结果为目标——"我拿起杯子喝水，使我的感觉状态与'解渴'的预测一致。"这种利用性的行动旨在将身体状态驱动到预测的状态——即有机体的偏好状态（preferred states）。
+**Pragmatic Motivation:** Action aimed at achieving expected outcomes — "I pick up the cup to drink, making my sensory state consistent with the 'thirst-quenched' prediction." This exploitative action aims to drive body states toward predicted states — the organism's preferred states.
+
+Hohwy 强调，认识性动机和实用性动机不是两个独立的过程，而是同一个主动推理过程的两个面向。每一次行动都同时包含探索和利用的成分——即使是最实用的行动也需要信息获取来指导运动，即使是最探索性的行为也服务于长期的实用目标。
+
+Hohwy emphasizes that epistemic and pragmatic motivations are not two separate processes but two facets of the same active inference process. Every action simultaneously contains exploratory and exploitative components — even the most pragmatic actions require information acquisition to guide movement; even the most exploratory behaviors serve long-term pragmatic goals.
+
+### 行动中的"自我证明" / "Self-Evidencing" in Action
+
+主动推理与 Hohwy 的"自我证明"概念密切相关。当大脑选择行动时，它不是在客观地探索世界，而是倾向于选择那些能够确认其现有模型的行动。"我去检查那扇门，是因为我的模型预测门是关着的——我的检查行动将确认这一预测。"
+
+Active inference is closely related to Hohwy's "self-evidencing" concept. When the brain selects actions, it does not objectively explore the world but tends to select actions that confirm its existing models. "I go check the door because my model predicts it is closed — my checking action will confirm this prediction."
+
+这种"自我证明"的行动选择并非总是有害的——在大多数日常情况下，世界的因果结构确实与我们的预测一致，自我证明的行动是高效的。但它也解释了为什么我们倾向于固守习惯性的行为模式——不是因为这些模式是客观最优的，而是因为它们确认了我们已有的预测模型。
+
+This "self-evidencing" action selection is not always harmful — in most everyday situations, the world's causal structure does align with our predictions, and self-evidencing actions are efficient. But it also explains why we tend to stick to habitual behavioral patterns — not because these patterns are objectively optimal, but because they confirm our existing predictive models.
+
+---
+
+## 哲学意义 / Philosophical Significance
+
+### 对行动哲学的贡献 / Contributions to Philosophy of Action
+
+主动推理对传统行动哲学提出了挑战。经典的行动理论（如 Davidson 的因果理论）认为行动是由信念和欲望引起的身体运动。但在主动推理框架中，行动不是被"引起"的——行动是被"推理"出来的，是大脑为了解决预测误差问题而选择的策略。这一框架消解了"意志行为"与"反射行为"之间的传统二分法——两者都是预测误差最小化的不同形式。
+
+Active inference challenges traditional philosophy of action. Classical action theory (such as Davidson's causal theory) holds that actions are bodily movements caused by beliefs and desires. But in the active inference framework, actions are not "caused" — they are "inferred," strategies selected by the brain to resolve prediction error. This framework dissolves the traditional dichotomy between "voluntary" and "reflexive" actions — both are different forms of prediction error minimization.
+
+### 自由意志问题 / The Free Will Problem
+
+主动推理为自由意志问题提供了一个新的视角。如果行动是由预测误差最小化所决定的，那么自由意志体现在哪里？Hohwy 提出，自由意志可以被理解为大脑在多个可能行动中选择的能力——这种选择本身就是预测模型评估不同行动方案的预期误差的结果。自由不在于"无原因的"行动，而在于复杂的预测模型能够产生灵活和适应性的行为。
+
+Active inference provides a new perspective on the free will problem. If actions are determined by prediction error minimization, where does free will reside? Hohwy suggests free will can be understood as the brain's capacity to select among multiple possible actions — this selection itself is the result of predictive models evaluating expected errors of different action plans. Freedom lies not in "uncaused" actions but in complex predictive models producing flexible and adaptive behavior.
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"业"（Karma）理论的对话 / Dialogue with Buddhist Karma Theory
+
+佛教的"业"（karma）理论认为行动（身、口、意三业）产生"业果"，影响未来的经验。在主动推理的框架中，"业"可以被理解为行动对预测模型的长期影响——每一次行动不仅产生即时的感觉结果，还更新预测模型中的先验概率。习惯性行为模式（"业习"）就是被反复强化的先验预测——我们通过重复的行动不断"证明"这些预测，使它们越来越固化。
+
+The Buddhist theory of "karma" holds that actions (body, speech, and mind karma) produce "karmic results," influencing future experience. In the active inference framework, "karma" can be understood as the long-term influence of actions on predictive models — every action not only produces immediate sensory results but also updates prior probabilities in predictive models. Habitual behavioral patterns ("karmic habits") are repeatedly reinforced prior predictions — through repeated actions, we continuously "prove" these predictions, making them increasingly fixed.
+
+佛教修行中的"正业"（right action）可以被理解为打破预测-行动的自我证明循环——选择不确认既有模型的行动，从而允许预测模型发生根本性的更新。
+
+"Right action" in Buddhist practice can be understood as breaking the prediction-action self-evidencing loop — choosing actions that do not confirm existing models, thereby allowing fundamental updating of predictive models.
+
+### 与庄子"无为"的对话 / Dialogue with Zhuangzi's "Wu Wei"
+
+庄子的"无为"不是消极的不行动，而是一种特殊的行动方式——不带有强烈的先验预测的行动。在主动推理框架中，"无为"可以被理解为减少行动中的"自我证明"成分——行动不是为了确认预测，而是更加开放地回应世界的变化。庖丁解牛的典故正体现了这种境界——庖丁的行动不是被刚性的先验预测所驱动，而是流畅地顺应牛的身体结构。
+
+Zhuangzi's "wu wei" (non-action) is not passive inaction but a special mode of action — action without strong prior predictions. In the active inference framework, "wu wei" can be understood as reducing the "self-evidencing" component of action — acting not to confirm predictions but more openly responding to the world's changes. The story of Cook Ding carving the ox exemplifies this state — Ding's actions are not driven by rigid prior predictions but flowingly accommodate the ox's bodily structure.
+
+---
+
+## 当代应用 / Contemporary Applications
+
+**机器人学：** 主动推理框架为机器人控制提供了新的范式——机器人不是被动地响应环境，而是主动地选择行动以最小化预测误差。这种方法使机器人能够同时进行探索（学习环境的模型）和利用（基于模型进行高效操作），在未知环境中表现出更强的适应性。
+**Robotics:** The active inference framework provides new paradigms for robotic control — robots respond not passively to environments but actively select actions to minimize prediction error. This approach enables robots to simultaneously explore (learn environmental models) and exploit (operate efficiently based on models), showing greater adaptability in unknown environments.
+
+**运动科学：** 运动控制可以被理解为预测性的主动推理——大脑预测身体运动的感知后果，并通过行动使实际感觉与预测一致。运动学习就是预测模型逐渐精确化的过程——从粗糙的、不准确的预测到精细的、高度准确的预测。
+**Motor Science:** Motor control can be understood as predictive active inference — the brain predicts sensory consequences of body movements and makes actual sensations consistent with predictions through action. Motor learning is the process of predictive models becoming increasingly precise — from rough, inaccurate predictions to refined, highly accurate predictions.
+
+**心理治疗：** 暴露疗法可以被理解为一种打破主动推理中自我证明循环的方法——患者被迫面对恐惧刺激，产生与恐惧预测不一致的感觉输入，从而更新预测模型。
+**Psychotherapy:** Exposure therapy can be understood as a method to break the self-evidencing loop in active inference — patients are forced to confront feared stimuli, producing sensory input inconsistent with fear predictions, thereby updating predictive models.
+
+---
+
+## 相关概念 / Related Concepts
+
+- **[预测心智 · Predictive Mind](predictive-mind.md)** — 主动推理的基础 / Foundation of active inference
+- **[精度加权 · Precision Weighting](precision-weighting.md)** — 精度对行动选择的引导 / Precision guidance of action selection
+- **[自我证明 · Self-Evidencing](self-evidencing.md)** — 行动中的自我证明 / Self-evidencing in action
+- **[颅骨封闭的心智 · Skull-Bound Mind](skull-bound-mind.md)** — 行动的认知限制 / Cognitive limits of action
+- **[[friston]]自由能原理 · Free Energy Principle** — 主动推理的计算基础 / Computational basis of active inference
+- **预期效用理论 · Expected Utility Theory** — 传统行动决策理论 / Traditional action decision theory

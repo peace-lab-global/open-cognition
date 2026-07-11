@@ -1,0 +1,137 @@
+---
+id: marcuse-reading-list
+title: "马尔库塞阅读指南 · Herbert Marcuse Reading Guide"
+type: reading-list
+thinker: marcuse
+domain: ethics-politics
+school: critical-theory
+tags:
+  - 阅读指南
+  - 进阶阅读
+  - 马尔库塞
+---
+
+# 马尔库塞阅读指南 · Herbert Marcuse Reading Guide
+
+本阅读指南按照入门、进阶、专业三个层次组织，为不同背景的读者提供系统化的阅读路径。
+This reading guide is organized at three levels — introductory, intermediate, and advanced — providing a systematic reading path for readers of different backgrounds.
+
+---
+
+## 入门级 / Introductory
+
+适合对马尔库塞思想尚无了解的读者，旨在建立基本框架。
+Suitable for readers with no prior knowledge of Marcuse's thought, aiming to establish a basic framework.
+
+### 推荐阅读序列 / Suggested Reading Sequence
+
+1. **《单向度的人》导论 + 第1章** / *One-Dimensional Man*, Introduction + Ch. 1
+   - 这是马尔库塞最核心的诊断文本。导论概述了全书的基本论点，第1章分析了单向度社会的形成机制。建议先读这两章建立整体框架，再根据需要阅读后续章节。
+   - This is Marcuse's central diagnostic text. The Introduction outlines the book's basic thesis, Ch. 1 analyzes the formation mechanism of one-dimensional society. Read these two chapters first to establish the overall framework, then read subsequent chapters as needed.
+
+2. **《压抑性宽容》（1965论文）** / "Repressive Tolerance" (1965 essay)
+   - 篇幅短小（约30页），论点鲜明，是理解马尔库塞政治立场的最佳入口。该论文对自由主义宽容概念的批判至今仍有强烈的现实意义。
+   - Short (about 30 pages), with a clear thesis, it is the best entry point for understanding Marcuse's political stance. The essay's critique of the liberal concept of tolerance remains powerfully relevant today.
+
+3. **Douglas Kellner, "Herbert Marcuse"** (Stanford Encyclopedia of Philosophy)
+   - 在线免费资源，提供了马尔库塞思想的全面概述，适合作为原典阅读前的导读。
+   - Free online resource providing a comprehensive overview of Marcuse's thought, suitable as a guide before reading primary texts.
+
+### 入门中文资源 / Introductory Chinese Resources
+
+- 陈学明《马尔库塞的哲学与消费社会批判》—— 中文世界最全面的马尔库塞研究之一
+- 刘继《单向度的人》译后记 —— 提供了重要的中译背景
+- 基恩《马尔库塞》（光明日报出版社）—— 简明扼要的思想介绍
+
+---
+
+## 进阶级 / Intermediate
+
+适合已有一定基础，希望深入理解马尔库塞理论体系的读者。
+Suitable for readers with some foundation who wish to deepen their understanding of Marcuse's theoretical system.
+
+### 推荐阅读序列 / Suggested Reading Sequence
+
+1. **《爱欲与文明》前7章** / *Eros and Civilization*, Ch. 1-7
+   - 马尔库塞对弗洛伊德理论的哲学化阐释，理解"剩余压抑"和"绩效原则"等关键概念的基础。前7章是核心，后4章可以选读。
+   - Marcuse's philosophical interpretation of Freudian theory, the foundation for understanding key concepts like "surplus-repression" and "performance principle." Chapters 1-7 are the core; chapters 8-11 are optional.
+
+2. **《单向度的人》全书** / *One-Dimensional Man*, complete
+   - 在入门阅读的基础上通读全书。特别关注第5-6章（单向度的思维）和第10章（结论）。
+   - Read the complete book building on introductory reading. Pay special attention to Ch. 5-6 (One-Dimensional Thought) and Ch. 10 (Conclusion).
+
+3. **《解放论》** / *An Essay on Liberation*
+   - 马尔库塞对解放概念的多维度展开，特别是"新感性"和"生物学维度"的讨论。篇幅不长（约100页），是理解其晚期思想的关键。
+   - Marcuse's multi-dimensional elaboration of the concept of liberation, particularly the discussions of "new sensibility" and "biological dimension." Not long (about 100 pages), key to understanding his later thought.
+
+4. **Douglas Kellner, *Herbert Marcuse and the Crisis of Marxism* (1984)**
+   - 英文世界最全面的马尔库塞研究专著。Kellner系统分析了马尔库塞思想的发展脉络和理论贡献。
+   - The most comprehensive English-language monograph on Marcuse. Kellner systematically analyzes the development and theoretical contributions of Marcuse's thought.
+
+### 进阶中文资源 / Intermediate Chinese Resources
+
+- 马尔库塞《爱欲与文明》，黄勇、薛民译，上海译文出版社
+- 马尔库塞《理性与革命》，程志民等译，重庆出版社
+- 李泽厚《美学四讲》中关于马尔库塞的讨论
+- 张一兵《回到马克思》中相关章节
+
+---
+
+## 专业级 / Advanced
+
+适合专业研究者，希望对马尔库塞思想进行深入学术探讨。
+Suitable for professional researchers who wish to conduct in-depth academic exploration of Marcuse's thought.
+
+### 推荐阅读序列 / Suggested Reading Sequence
+
+1. **《黑格尔的本体论与历史性理论》** / *Hegel's Ontology and the Theory of Historicity*
+   - 马尔库塞早期的哲学巨著，理解其存在论基础的关键。文本难度极高，建议配合二手研究阅读。
+   - Marcuse's early philosophical masterwork, key to understanding his ontological foundations. Extremely difficult text; recommended to read alongside secondary literature.
+
+2. **《审美维度》** / *The Aesthetic Dimension*
+   - 马尔库塞的最后著作，论证审美形式的颠覆力量。对于理解其美学政治学的最终形态至关重要。
+   - Marcuse's final work, arguing for the subversive power of aesthetic form. Essential for understanding the final form of his aesthetic politics.
+
+3. **"The Affirmative Character of Culture" (1937)**
+   - 早期重要论文，分析文化的"肯定性"如何维护不自由。这篇论文预示了后来《单向度的人》中的许多主题。
+   - Important early essay analyzing how culture's "affirmative character" maintains unfreedom. This essay prefigures many themes later developed in *One-Dimensional Man*.
+
+4. ***Heideggerian Marxism* (2005, ed. Wolin & Abromeit)**
+   - 收录1930年代未发表的手稿，揭示马尔库塞与海德格尔的思想关系。
+   - Collects unpublished 1930s manuscripts, revealing the intellectual relationship between Marcuse and Heidegger.
+
+5. **John Abromeit & Christopher Barber (eds.), *Herbert Marcuse: A Critical Reader* (2004)**
+   - 收录重要论文，涵盖马尔库塞思想的各个方面。
+   - Collects important essays covering all aspects of Marcuse's thought.
+
+### 比较研究 / Comparative Studies
+
+- Jürgen Habermas, "Technology and Science as 'Ideology'" (1968) —— 哈贝马斯对马尔库塞技术理性批判的回应
+- Theodor Adorno, *Negative Dialectics* (1966) —— 与马尔库塞的否定性概念的比较
+- Michel Foucault, *Discipline and Punish* (1975) —— 微观权力分析与单向度理论的对话
+- Byung-Chul Han, *The Burnout Society* (2015) —— 马尔库塞遗产在当代的延续
+
+---
+
+## 在线资源 / Online Resources
+
+- **Stanford Encyclopedia of Philosophy**: "Herbert Marcuse" — Douglas Kellner撰写，持续更新的学术参考
+- **Marxists Internet Archive**: marcuse.org — 马尔库塞在线文献库，收录大量原文和译文
+- **The Marcuse Society**: marcusesociety.org — 马尔库塞研究学会，组织学术活动和出版
+- **Radical Philosophy Review**: 发表马尔库塞研究的专题期刊
+
+---
+
+## 建议阅读路径 / Suggested Reading Paths
+
+**路径A：政治哲学方向** / Path A: Political Philosophy
+导论 → "压抑性宽容" → 《单向度的人》 → 《解放论》 → 《反革命与反叛》
+
+**路径B：精神分析方向** / Path B: Psychoanalysis
+《爱欲与文明》 → 《单向度的人》第3章 → "压抑性脱升华"相关论文
+
+**路径C：美学方向** / Path C: Aesthetics
+"文化的肯定性质" → 《审美维度》 → 《爱欲与文明》第8-11章
+
+**路径D：技术批判方向** / Path D: Technology Critique
+《单向度的人》第5-6章 → 《理性与革命》相关章节 → "Some Social Implications of Modern Technology"

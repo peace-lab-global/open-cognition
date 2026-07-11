@@ -1,0 +1,16 @@
+---
+id: macintyre-narrative-unity
+title: 叙事统一性 · Narrative Unity · MacIntyre
+type: concept
+domain: ethics-politics
+school: virtue-ethics
+thinker: macintyre
+tags: [narrative, unity-of-life, identity]
+cross-refs: [{id: macintyre, relation: thinker}]
+---
+# 叙事统一性 · Narrative Unity
+## 一句话定义
+人类行为只有在**叙事**的语境中才是可理解的——一个人的生活是一个尚未完成的故事，美德是使叙事趋向完善的品质。
+## 核心要义
+"在回答'我应该做什么'之前，必须先回答'我是什么故事的一部分'。"
+叙事不是对生活的**描述**——生活本身具有叙事结构。

@@ -1,0 +1,129 @@
+---
+id: re-authoring
+title: "重写 · Re-authoring"
+type: concept
+domain: psychology
+school: narrative-therapy
+era: contemporary
+tags: [re-authoring, narrative-therapy, alternative-stories, unique-outcomes, identity-reconstruction, michael-white]
+aliases: [重新建构, 重写对话, re-authoring conversations, 重新写作, Re-authoring]
+sources:
+  - title: "Maps of Narrative Practice"
+    author: Michael White
+    year: 2007
+  - title: "Narrative Means to Therapeutic Ends"
+    author: Michael White & David Epston
+    year: 1990
+---
+
+# 重写 · Re-authoring
+
+## 定义 · Definition
+
+重写（Re-authoring）是叙事疗法中发展替代叙事的核心治疗过程，由迈克尔·怀特系统提出。它指的是通过发现和丰富来访者生活中被"问题主导叙事"所遮蔽的"独特结果"（unique outcomes），将这些例外时刻和经验片段编织为更丰厚、更符合来访者价值取向的替代性身份叙事。重写不是"编造"一个虚假的正面故事，而是"打捞"那些真实存在但未被讲述的经验和意义。
+
+Re-authoring is the core therapeutic process in narrative therapy for developing alternative narratives, systematically proposed by Michael White. It refers to the process of discovering and enriching the "unique outcomes" in clients' lives that are obscured by problem-dominated narratives, weaving these exceptional moments and fragments of experience into richer, more value-congruent alternative identity narratives. Re-authoring is not "fabricating" a false positive story but "salvaging" real but unstoried experiences and meanings.
+
+## 核心机制 · Core Mechanisms
+
+### 独特结果：替代叙事的入口 · Unique Outcomes: Entry Points to Alternative Stories
+
+怀特从叙事心理学家布鲁纳（Jerome Bruner）的"叙事必然性"概念出发，认为人的经验中存在大量不符合主流问题故事的"例外"——那些来访者曾经抵抗了问题的影响、展现了自身力量和价值的时刻。这些"独特结果"是重写对话的种子和入口。
+
+Drawing from narrative psychologist Bruner's concept of "narrative necessity," White held that within human experience there exist numerous "exceptions" that do not fit the dominant problem story — moments when clients have resisted the problem's influence, demonstrated their own strength and values. These "unique outcomes" are the seeds and entry points for re-authoring conversations.
+
+独特结果可以是：
+Unique outcomes can be:
+
+- **行动的**：来访者曾经成功抵抗"焦虑"的一次具体经历 / **Action-based**: A specific instance when the client successfully resisted "anxiety"
+- **思想的**：来访者内心对问题叙事的一次质疑或反思 / **Thought-based**: An internal questioning or reflection on the problem narrative
+- **感受的**：与问题故事不一致的情感体验 / **Feeling-based**: An emotional experience inconsistent with the problem story
+- **关系的**：与问题叙事所描述的"孤立"不一致的人际联结 / **Relationship-based**: An interpersonal connection inconsistent with the "isolation" described in the problem narrative
+- **想象的**：来访者对未来可能性的憧憬或希望 / **Imagination-based**: The client's aspirations or hopes for future possibilities
+
+### 重写对话的双层结构 · The Dual-Layer Structure of Re-authoring Conversations
+
+怀特将重写对话描述为包含两个层面的探索：
+
+White described re-authoring conversations as involving two layers of exploration:
+
+**行动景观（Landscape of Action）**：探索独特结果的具体细节——发生了什么？在哪里？什么时候？谁参与了？你做了什么？这一层面将模糊的"例外"转化为具体的、可讲述的"事件"。
+
+**Landscape of Action**: Exploring the specific details of unique outcomes — what happened? where? when? who was involved? what did you do? This layer transforms vague "exceptions" into concrete, tellable "events."
+
+**意义景观（Landscape of Identity / Meaning）**：探索这些行动对来访者身份认同的意义——这件事说明了你看重什么？它揭示了你对生活的什么期望？如果你朋友知道这件事，他会怎么评价你？这一层面将具体事件转化为身份建构的素材。
+
+**Landscape of Identity / Meaning**: Exploring what these actions mean for the client's identity — what does this event say about what you value? What does it reveal about your aspirations for life? If your friend knew about this, what would they say about you? This layer transforms concrete events into material for identity construction.
+
+### 丰厚描述 · Thick Description
+
+怀特借用人类学家格尔茨（Clifford Geertz）的"丰厚描述"（thick description）概念，将重写的目标描述为从"单薄描述"走向"丰厚描述"。单薄描述是问题叙事所提供的简化的、标签化的身份描述（如"我是个失败者"），而丰厚描述是多层次的、多声部的、包含具体细节和关系脉络的身份叙事。
+
+White borrowed anthropologist Geertz's concept of "thick description" to describe the goal of re-authoring as moving from "thin description" to "thick description." Thin description is the simplified, labeling identity description provided by the problem narrative (e.g., "I'm a failure"), while thick description is a multi-layered, multi-voiced identity narrative containing specific details and relational contexts.
+
+## 发展脉络 · Development
+
+### 从"独特结果"到"重写对话"（1980年代–1990年代）/ From "Unique Outcomes" to "Re-authoring Conversations" (1980s–1990s)
+
+"独特结果"概念最初受叙事治疗师吉尔·弗里德曼（Jill Freedman）和吉恩·康普斯（Gene Combs）对叙事心理学的整合启发。怀特在早期实践中发现，仅仅"发现"例外是不够的——如果这些例外不被编织为一个连贯的替代叙事，它们很快就会被问题叙事所"吞没"。因此，他发展了"重写对话"的系统方法。
+
+The concept of "unique outcomes" was initially inspired by narrative therapists Jill Freedman and Gene Combs' integration of narrative psychology. White found in early practice that merely "discovering" exceptions was insufficient — if these exceptions are not woven into a coherent alternative narrative, they are quickly "swallowed" by the problem narrative. Therefore, he developed the systematic method of "re-authoring conversations."
+
+### "行动景观"与"意义景观"的提出（2000年代）/ The Proposal of "Landscape of Action" and "Landscape of Identity" (2000s)
+
+在2007年的《叙事实践的地图》中，怀特进一步精细化了重写对话的结构。他从布鲁纳的"景观"概念出发，明确区分了"行动景观"和"意义景观"两个层面，为治疗师提供了更清晰的操作框架。这一区分也回应了对叙事疗法"缺乏深度"的批评——意义景观的探索恰恰触及了身份认同、价值观和人生意义的深层。
+
+In *Maps of Narrative Practice* (2007), White further refined the structure of re-authoring conversations. Starting from Bruner's concept of "landscape," he explicitly distinguished the "landscape of action" and "landscape of identity" layers, providing therapists with a clearer operational framework. This distinction also responded to criticisms that narrative therapy "lacks depth" — the exploration of the landscape of identity precisely touches the deeper levels of identity, values, and life meaning.
+
+## 临床应用 · Clinical Applications
+
+### 重写提问的范例 · Examples of Re-authoring Questions
+
+**行动景观提问 / Landscape of Action Questions**：
+- "你当时做了什么来抵抗'恐惧'的影响？" / "What did you do at that time to resist the influence of 'fear'?"
+- "这件事发生在什么时候？在哪里？有谁在场？" / "When did this happen? Where? Who was present?"
+- "你是怎么做到的？你迈出的第一步是什么？" / "How did you manage this? What was the first step you took?"
+
+**意义景观提问 / Landscape of Identity Questions**：
+- "这件事说明了你看重什么？" / "What does this event say about what you value?"
+- "如果你最信任的朋友知道了这件事，他会怎么看待你？" / "If your most trusted friend knew about this, how would they see you?"
+- "这与你以前对自己的认识有什么不同？" / "How is this different from how you previously saw yourself?"
+
+### 重写在创伤治疗中的应用 / Re-authoring in Trauma Therapy
+
+在创伤后治疗中，重写对话需要特别谨慎。怀特强调，治疗师不应仓促地引导来访者"超越"创伤叙事，而应首先充分承认创伤的影响，然后逐步探索那些创伤未能摧毁的力量、价值和关系。重写不是"粉饰"创伤，而是帮助来访者在创伤叙事的裂缝中发现仍然存活的自我。
+
+In post-trauma therapy, re-authoring conversations require particular care. White emphasized that therapists should not hastily guide clients to "transcend" the trauma narrative but should first fully acknowledge the effects of trauma, then gradually explore the strengths, values, and relationships that trauma could not destroy. Re-authoring is not "whitewashing" trauma but helping clients discover the surviving self within the cracks of the trauma narrative.
+
+### 重写与文件的结合 / Combining Re-authoring with Documents
+
+怀特和艾普斯顿创造性地将重写与治疗性"文件"（documents）结合：
+
+White and Epston creatively combined re-authoring with therapeutic "documents":
+
+- **证书**：确认来访者对抗问题取得的成就 / **Certificates**: Confirming the client's achievements in standing up to the problem
+- **信件**：治疗师在会谈后写给来访者的信，记录和强化重写中发现的替代叙事 / **Letters**: Letters written by the therapist after sessions, recording and reinforcing alternative narratives discovered in re-authoring
+- **宣言**：来访者书写的新身份宣言 / **Declarations**: New identity declarations written by the client
+
+## 关联概念 · Related Concepts
+
+- **叙事疗法 / Narrative Therapy**：重写是叙事实践的核心治疗过程之一 → [详见](narrative-therapy.md) / Re-authoring is one of the core therapeutic processes of narrative practice
+- **外化 / Externalization**：外化为重写创造空间 → [详见](externalization.md) / Externalization creates space for re-authoring
+- **后结构主义 / Post-structuralism**：重写挑战了身份的"本质主义"理解 → [详见](post-structuralism.md) / Re-authoring challenges "essentialist" understandings of identity
+- **定义式仪式 / Definitional Ceremony**：通过社群见证来巩固重写成果 → [详见](definitional-ceremony.md) / Consolidating re-authoring outcomes through community witnessing
+- **独特结果 / Unique Outcomes**：重写对话的种子和入口 / Unique outcomes: The seeds and entry points for re-authoring conversations
+- **丰厚描述 / Thick Description**：重写的目标是从单薄描述走向丰厚描述 / Thick description: The goal of re-authoring is to move from thin to thick description
+
+## 东西方对话 · East-West Dialogue
+
+重写的理念与中国文化中"否极泰来"和"绝处逢生"的智慧有深层呼应。中国传统哲学深刻认识到事物发展中的"转机"——在最困难的时刻中蕴含着转变的种子。叙事疗法的重写对话正是帮助来访者在困境中发现这些"转机"并将其编织为新的生命故事。此外，《史记》中司马迁为众多"失败者"（如项羽、李广）书写丰厚叙事的做法，堪称一种"叙事重写"——在主流叙事（成王败寇）之外，为被忽视的生命赋予尊严和意义。
+
+The concept of re-authoring has deep resonance with the Chinese cultural wisdom of "after extreme adversity comes fortune" (否极泰来) and "finding life in desperate straits" (绝处逢生). Traditional Chinese philosophy profoundly recognizes the "turning points" in the development of things — within the most difficult moments lie the seeds of transformation. Narrative therapy's re-authoring conversations precisely help clients discover these "turning points" in adversity and weave them into new life stories. Additionally, Sima Qian's practice of writing rich narratives for numerous "losers" (such as Xiang Yu and Li Guang) in the *Records of the Grand Historian* can be seen as a form of "narrative re-authoring" — bestowing dignity and meaning on overlooked lives beyond the dominant narrative of "winners take all."
+
+## 进阶阅读 · Further Reading
+
+- Michael White, *Maps of Narrative Practice*, Chapter 2: "Re-authoring Conversations" (W.W. Norton, 2007)
+- Michael White & David Epston, *Narrative Means to Therapeutic Ends* (W.W. Norton, 1990)
+- Jill Freedman & Gene Combs, *Narrative Therapy*, Chapters 6–7 (W.W. Norton, 1996)
+- Jerome Bruner, *Acts of Meaning* (Harvard University Press, 1990)
+- Clifford Geertz, *The Interpretation of Cultures* (Basic Books, 1973)

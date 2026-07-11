@@ -1,0 +1,30 @@
+---
+id: lu-xun-aesthetics-timeline
+title: 鲁迅美学思想年表
+type: timeline
+domain: aesthetics
+school: literary-thought
+thinker: lu-xun
+tags: [lu-xun, timeline]
+cross-refs:
+  - id: lu-xun
+    relation: thinker
+---
+
+# 鲁迅美学思想年表
+
+> 完整传记年表见 [文学领域](../../../literature/schools/essayists/lu-xun/timeline.md)。
+
+## 美学思想发展
+| 年代 | 事件 | 美学意义 |
+|---|---|---|
+| 1906 | 弃医从文 | 精神救治优先于身体 |
+| 1907 | 《摩罗诗力说》 | 浪漫主义美学立场 |
+| 1918 | 《狂人日记》 | "吃人"隐喻的诞生 |
+| 1921 | 《阿Q正传》 | 精神胜利法 |
+| 1924–1926 | 《野草》写作 | 存在主义内心 |
+| 1927–1936 | 杂文时期 | 社会批判的武器 |
+
+## 进阶阅读
+- 汪晖《反抗绝望》
+- 李欧梵《铁屋中的呐喊》

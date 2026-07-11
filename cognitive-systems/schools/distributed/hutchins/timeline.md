@@ -1,0 +1,21 @@
+---
+id: cognitive-systems.school.distributed.hutchins.timeline
+title: 哈钦斯思想年表 Edwin Hutchins Timeline
+type: timeline
+thinker: hutchins
+domain: cognitive-systems
+school: distributed
+---
+
+# 哈钦斯思想年表
+
+### 1948 · 出生
+### 1970s · 海军服役，研究船舶导航
+### 1995 · 《Cognition in the Wild》
+### 2000s · 认知生态概念
+### 2010s · 物质文化与认知
+
+## 思想演变
+```
+航海导航 (1970s) → 分布式认知理论 (1995) → 认知生态 (2000s) → 物质文化 (2010s)
+```

@@ -1,0 +1,85 @@
+---
+id: ajahn-chah-timeline
+title: 阿姜查年表 · Timeline of Ajahn Chah
+type: reference
+domain: religion
+school: theravada-buddhism
+master: ajahn-chah
+tags:
+  - 年表
+  - 生平
+  - 历史
+---
+
+# 阿姜查年表 / Timeline of Ajahn Chah
+
+## 早年与出家 / Early Life and Ordination
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1918 | 0 | 6月17日，出生于泰国乌汶省瓦林县（Warin Chamrap）的一个农民家庭。/ Born June 17 into a farming family in Warin Chamrap district, Ubon Ratchathani province, Thailand. |
+| 1927 | 9 | 离开家庭，到村中寺院成为沙弥（samanera），开始学习巴利文和基础经典。/ Left home to become a samanera (novice monk) at the village monastery, beginning to study Pali and foundational texts. |
+| 1930 | 12 | 离开沙弥生活，回到家庭中帮助父母务农。/ Left novice life and returned home to help parents with farming. |
+| 1938 | 20 | 重新出家，受具足戒（upasampada），成为比丘，法名苏跋陀（Subhaddo）。/ Re-ordained, receiving upasampada (full ordination) as a bhikkhu with the Pali name Subhaddo. |
+| 1938–1946 | 20–28 | 在寺院中研习戒律（Vinaya）和巴利经典，通过了多级巴利文考试。/ Studied Vinaya (monastic discipline) and Pali scriptures at the monastery, passing multiple levels of Pali examinations. |
+
+## 头陀行与求法 / Tudong Wandering and Seeking the Path
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1946 | 28 | 放弃学院生活，开始头陀行（tudong），步行穿越泰国东北部的森林和荒野。/ Abandoned academic life and began tudong (wandering ascetic practice), walking through forests and wilderness of northeastern Thailand. |
+| 1946–1948 | 28–30 | 在多个森林道场参学，实践各种头陀行苦行。/ Visited various forest monasteries, practicing various dhutanga ascetic practices. |
+| 1948 | 30 | 遇见阿姜曼·布里达多（Ajahn Mun Bhuridatta），泰国森林传统最伟大的大师。虽然相处时间不长，但这次相遇彻底改变了他的修行方向。/ Met Ajahn Mun Bhuridatta, the greatest master of the Thai forest tradition. Though their time together was brief, this encounter completely transformed his practice direction. |
+| 1948–1953 | 30–35 | 继续在森林中独自禅修，经历各种身心考验，据传在森林中证悟。/ Continued solitary meditation in the forest, undergoing various physical and mental trials; reportedly attained realization in the forest. |
+| 1953 | 35 | 在一棵大菩提树下经历了一次深刻的禅修体验，后来被视为他修行生涯的转折点。/ Experienced a profound meditation realization under a large Bodhi tree, later considered a turning point in his practice life. |
+
+## 巴蓬寺的建立与发展 / Establishment and Growth of Wat Nong Pah Pong
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1954 | 36 | 回到乌汶省，受邀在一片偏远森林中建立修行道场。巴蓬寺（Wat Nong Pah Pong）正式创立。/ Returned to Ubon province and was invited to establish a practice center in a remote forest. Wat Nong Pah Pong was formally founded. |
+| 1954–1960 | 36–42 | 寺院逐步发展，吸引了越来越多的泰国僧人前来修行。阿姜查确立了严格的修行规范。/ The monastery gradually developed, attracting increasing numbers of Thai monks. Ajahn Chah established rigorous practice standards. |
+| 1957 | 39 | 被任命为乌汶省僧伽委员，在更广泛的僧团中获得了认可。/ Appointed to the Ubon Provincial Sangha Committee, gaining recognition in the broader monastic community. |
+| 1960s | 42–52 | 巴蓬寺成为泰国最重要的森林禅修中心之一。阿姜查开始在乌汶省各地建立分院。/ Wat Nong Pah Pong became one of Thailand's most important forest meditation centers. Ajahn Chah began establishing branch monasteries across Ubon province. |
+
+## 西方弟子的到来 / Arrival of Western Disciples
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1967 | 49 | 第一批西方求法者到达巴蓬寺，包括未来的重要弟子。/ The first Western seekers arrived at Wat Nong Pah Pong, including future important disciples. |
+| 1969 | 51 | 阿姜苏美多（Robert Jacobs）在巴蓬寺出家，成为阿姜查最重要的西方弟子之一。/ Ajahn Sumedho (Robert Jacobs) ordained at Wat Nong Pah Pong, becoming one of Ajahn Chah's most important Western disciples. |
+| 1970s | 52–62 | 越来越多的西方人来到巴蓬寺出家修行。阿姜查开始建立专门面向西方弟子的分院（International Forest Monastery）。/ Increasing numbers of Westerners came to Wat Nong Pah Pong to ordain and practice. Ajahn Chah began establishing branch monasteries specifically for Western disciples (International Forest Monastery). |
+| 1972 | 54 | 杰克·康菲尔德（Jack Kornfield）到达巴蓬寺出家修行。/ Jack Kornfield arrived at Wat Nong Pah Pong to ordain and practice. |
+| 1975 | 57 | 阿姜查首次访问西方国家（英国），受到西方佛教界的热烈欢迎。/ Ajahn Chah made his first visit to Western countries (England), warmly received by the Western Buddhist community. |
+
+## 国际弘法 / International Teaching
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1977 | 59 | 第二次访问英国，与阿姜苏美多一同前往。阿姜苏美多被请求留在英国建立禅修中心。/ Second visit to England, traveling with Ajahn Sumedho. Ajahn Sumedho was asked to stay and establish a meditation center in England. |
+| 1979 | 61 | 访问美国，在多个城市进行教学和开示。这次访问极大地推动了南传佛教在美国的传播。/ Visited the United States, teaching and giving talks in multiple cities. This visit greatly advanced the spread of Theravada Buddhism in America. |
+| 1980 | 62 | 被泰国国王赐予"菩提ญาณเถร"（Phra Bodhinyana Thera）的尊号，以表彰他对佛教的贡献。/ Bestowed the honorary title "Phra Bodhinyana Thera" by the King of Thailand, recognizing his contributions to Buddhism. |
+| 1981 | 63 | 最后一次访问西方国家，此后健康状况不允许长途旅行。/ Last visit to Western countries; thereafter, health conditions did not permit long-distance travel. |
+
+## 晚年与圆寂 / Final Years and Passing
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|---|---|---|
+| 1981–1982 | 63–64 | 健康问题开始严重，糖尿病恶化，接受了多次手术。/ Health problems became serious; diabetes worsened, underwent multiple surgeries. |
+| 1983–1991 | 65–73 | 身体状况持续恶化，行动和言语能力逐渐丧失。但仍以存在和沉默的方式教导弟子。利用自身的病痛来示范如何以平等心面对老、病、死。/ Physical condition continued to deteriorate; gradually lost ability to move and speak. Yet continued to teach disciples through his presence and silence. Used his own illness to demonstrate how to face aging, sickness, and death with equanimity. |
+| 1992 | 73 | 1月16日，在巴蓬寺安详圆寂。荼毗（火化）仪式吸引了数十万人参加，成为泰国佛教史上最盛大的葬礼之一。/ January 16, passed away peacefully at Wat Nong Pah Pong. The cremation ceremony attracted hundreds of thousands of attendees, becoming one of the most grandiose funerals in the history of Thai Buddhism. |
+
+## 遗产与传承 / Legacy and Lineage
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1992–至今 | 巴蓬寺及其国际分院网络继续运作，传承阿姜查的教学传统。/ Wat Nong Pah Pong and its international branch network continue operating, transmitting Ajahn Chah's teaching tradition. |
+| 1990s–2000s | 阿姜查的西方弟子们在各自国家建立了大量禅修中心，将森林传统传播到全球。/ Ajahn Chah's Western disciples established numerous meditation centers in their home countries, spreading the forest tradition globally. |
+| 2002 | *Food for the Heart* 英文版出版，成为最权威的阿姜查开示集。/ *Food for the Heart* published in English, becoming the most authoritative collection of Ajahn Chah's talks. |
+| 2018 | 阿姜查诞辰100周年纪念活动在全球各地举行。/ Centennial celebrations of Ajahn Chah's birth held worldwide. |
+
+## 延伸阅读 / Further Reading
+
+→ [重要著作](works.md) — 阿姜查的主要出版物
+→ [阅读清单](reading-list.md) — 完整的推荐阅读列表
+→ [README](README.md) — 返回阿姜查主页

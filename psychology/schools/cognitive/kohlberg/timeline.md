@@ -1,0 +1,53 @@
+---
+id: kohlberg-timeline
+title: "柯尔伯格生平年表 · Lawrence Kohlberg Life Timeline"
+type: timeline
+thinker: kohlberg-lawrence
+---
+
+# 柯尔伯格生平年表 · Lawrence Kohlberg Life Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1927 | 10月25日出生于纽约州Bronxville，成长于富裕的犹太家庭 / Born October 25 in Bronxville, New York; grew up in an affluent Jewish family |
+| 1940s | 就读于马萨诸塞州Andover的Phillips Academy / Attended Phillips Academy in Andover, Massachusetts |
+| 1945–1948 | 进入芝加哥大学，获文学学士学位 / Entered the University of Chicago, earned B.A. degree |
+| 1948–1958 | 在芝加哥大学攻读发展心理学博士学位，师从Robert Sears / Pursued doctoral studies in developmental psychology at the University of Chicago |
+| 1958 | 完成博士论文《10至16岁儿童道德思维与选择方式的发展》，首次提出道德推理发展的三水平六阶段理论 / Completed doctoral dissertation, first proposing the three-level, six-stage theory |
+
+## 学术生涯 / Academic Career
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1959–1961 | 担任耶鲁大学心理学助理教授 / Assistant Professor of Psychology, Yale University |
+| 1961–1967 | 担任芝加哥大学人类发展与心理学副教授/教授 / Associate Professor/Professor of Human Development and Psychology, University of Chicago |
+| 1963 | 发表"The Development of Children's Orientations toward a Moral Order"，实证验证阶段理论 / Published empirical validation of the stage theory |
+| 1967 | 转入哈佛大学教育学研究生院，担任教育学与社会心理学教授 / Moved to Harvard Graduate School of Education as Professor of Education and Social Psychology |
+| 1969 | 发表"Stage and Sequence"经典论文，标志着理论系统化成熟 / Published the classic "Stage and Sequence" paper, marking theoretical maturation |
+| 1970s | 开始在波士顿地区学校推行道德教育实验，发展"加一阶段"（+1）教学法 / Began moral education experiments in Boston-area schools, developing the "+1 stage" teaching method |
+| 1971 | 发表"From Is to Ought"，论证道德发展理论的哲学正当性 / Published "From Is to Ought," arguing philosophical legitimacy |
+| 1974 | 在哈佛大学创立道德教育中心 / Founded the Center for Moral Education at Harvard University |
+| 1975 | 发表"Moral Stages and Moralization"，区分道德判断阶段与道德行为 / Published "Moral Stages and Moralization" |
+| 1970s–1980s | 在以色列基布兹和美国学校推行"公正社群"实验 / Implemented "just community" experiments in Israeli kibbutzim and American schools |
+
+## 晚年与遗产 / Later Years and Legacy
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1981 | 出版《道德发展文集》第一卷，聚焦正义原则的哲学基础 / Published *Essays on Moral Development, Vol. 1* |
+| 1982 | 吉利根出版《不同的声音》，对柯尔伯格理论提出"男性偏见"批评 / Gilligan published *In a Different Voice*, raising "male bias" objections |
+| 1984 | 出版《道德发展文集》第二卷，聚焦心理学证据与评估方法 / Published *Essays on Moral Development, Vol. 2* |
+| 1984–1986 | 将第六阶段从MJI评分系统中移除，保留为理论理想 / Removed Stage 6 from MJI scoring, retaining as theoretical ideal |
+| 1987 | 1月19日在波士顿去世，享年59岁 / Died January 19 in Boston, aged 59 |
+| 1989 | 遗著 *Lawrence Kohlberg's Approach to Moral Education* 出版 / Posthumous publication of *Lawrence Kohlberg's Approach to Moral Education* |
+
+## 影响力与认可 / Impact and Recognition
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1980s– | 雷斯特开发DIT测验，将阶段评估改编为纸笔测验 / Rest developed the DIT test |
+| 1990s– | 道德发展阶段理论成为全球道德教育课程的核心框架 / Stage theory became the central framework for moral education worldwide |
+| 2000s– | 神经伦理学研究为道德推理的神经基础提供新证据 / Neuroethics research provided new evidence for neural basis of moral reasoning |
+| 2010s– | 柯尔伯格的框架被应用于数字伦理、AI伦理和商业伦理培训 / Framework applied to digital ethics, AI ethics, and business ethics training |

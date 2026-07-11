@@ -1,0 +1,81 @@
+---
+id: psychology.cognitive.posner.orienting
+title: "定向网络 · Orienting"
+type: concept
+thinker: posner
+school: cognitive
+tags: [定向, 空间注意, 聚光灯, 线索提示, 回返抑制, orienting, spatial attention, spotlight, cueing, inhibition of return]
+---
+
+# 定向网络 · Orienting
+
+## 定义 / Definition
+
+**定向网络**（Orienting Network）是波斯纳注意力三网络模型中负责将注意力指向特定感官信息来源或空间位置的网络。它使个体能够从复杂的感官环境中选择特定的信息源进行优先加工，是选择性注意（selective attention）的神经基础。定向网络涉及后顶叶皮层（posterior parietal cortex）、上丘（superior colliculus）、丘脑枕（pulvinar nucleus）和颞顶联合区（temporoparietal junction, TPJ），主要依赖乙酰胆碱（acetylcholine, ACh）神经递质系统。
+
+The **orienting network** in Posner's three-network model is responsible for directing attention to specific sensory information sources or spatial locations. It enables individuals to select specific information sources from complex sensory environments for priority processing, serving as the neural basis for selective attention. The orienting network involves the posterior parietal cortex, superior colliculus, pulvinar nucleus, and temporoparietal junction (TPJ), primarily relying on the acetylcholine (ACh) neurotransmitter system.
+
+## 核心机制 / Core Mechanisms
+
+### 聚光灯隐喻 / The Spotlight Metaphor
+
+波斯纳在1980年代提出的空间注意"聚光灯"（spotlight）隐喻是认知心理学中最具影响力的隐喻之一。根据这一隐喻，注意力就像一束光在空间中移动，"照亮"（即优先加工）特定空间位置的信息，而"灯光"之外的信息则被相对忽略。波斯纳通过线索提示范式（Posner Cueing Task）的实验数据支持了这一隐喻：有效线索（指向目标实际出现位置的线索）使反应时间缩短（"聚光灯"已移到正确位置），而无效线索（指向错误位置的线索）使反应时间延长（"聚光灯"需要重新移动）。
+
+The spatial attention "spotlight" metaphor proposed by Posner in the 1980s is one of the most influential metaphors in cognitive psychology. According to this metaphor, attention is like a beam of light moving through space, "illuminating" (i.e., preferentially processing) information at specific spatial locations, while information outside the "beam" is relatively ignored. Posner's cueing paradigm experimental data supported this metaphor: valid cues (pointing to where targets actually appear) speed up reaction times (the "spotlight" has moved to the correct location), while invalid cues (pointing to wrong locations) slow down reaction times (the "spotlight" needs to move again).
+
+### 定向的三个子过程 / Three Sub-processes of Orienting
+
+波斯纳将定向过程分解为三个功能性的子过程：（1）**解除**（disengaging）——将注意力从当前聚焦的位置或对象上释放；（2）**转移**（moving）——将注意力从当前位置移动到新的目标位置；（3）**重新锁定**（re-engaging）——将注意力锁定在新的目标位置或对象上。脑损伤研究支持了这三个子过程的功能分离：后顶叶损伤主要影响解除过程，上丘损伤主要影响转移过程，丘脑枕损伤主要影响重新锁定过程。
+
+Posner decomposed the orienting process into three functional sub-processes: (1) **disengaging** — releasing attention from the currently focused location or object; (2) **moving** — shifting attention from the current location to a new target location; (3) **re-engaging** — locking attention onto the new target location or object. Lesion studies support the functional dissociation of these three sub-processes: posterior parietal damage primarily affects disengaging, superior colliculus damage primarily affects moving, and pulvinar damage primarily affects re-engaging.
+
+### 波斯纳线索任务 / The Posner Cueing Task
+
+波斯纳线索任务是研究定向网络的经典实验范式。在标准版本中，被试注视屏幕中央的固定点，屏幕上呈现一个线索（如一个箭头或一个空间位置的闪光），随后在某个位置出现目标刺激，被试需要尽快检测或辨别目标。通过比较有效线索试次（线索正确预测目标位置）和无效线索试次（线索错误预测目标位置）的反应时间差异，可以量化注意力定向的收益（benefit）和代价（cost）。线索与目标之间的时间间隔（SOA, stimulus onset asynchrony）可以被操控以研究定向的时间动态特征。
+
+The Posner Cueing Task is the classic experimental paradigm for studying the orienting network. In the standard version, subjects fixate on a central point on a screen; a cue (such as an arrow or a flash at a spatial location) is presented, followed by a target stimulus at some location, and subjects must detect or discriminate the target as quickly as possible. By comparing reaction times between valid cue trials (cue correctly predicts target location) and invalid cue trials (cue incorrectly predicts target location), one can quantify the benefit and cost of attentional orienting. The stimulus onset asynchrony (SOA) between cue and target can be manipulated to study the temporal dynamics of orienting.
+
+### 回返抑制 / Inhibition of Return (IOR)
+
+波斯纳和 Cohen（1984）发现了定向网络中的一个重要现象——**回返抑制**（IOR）：当线索与目标之间的 SOA 较长（通常 > 300 ms）时，出现在线索位置的目标反而比出现在非线索位置的目标引发更慢的反应。这被解释为一种进化适应机制：当注意力已经"检查"过某一位置后，一种抑制机制阻止注意力回到该位置，从而促进对新位置的探索，防止注意力在同一位置"固着"。IOR 被认为是上丘（superior colliculus）介导的一种亚皮层机制。
+
+Posner and Cohen (1984) discovered an important phenomenon in the orienting network — **inhibition of return (IOR)**: when the SOA between cue and target is long (typically > 300 ms), targets appearing at the cued location actually elicit slower responses than targets at uncued locations. This has been interpreted as an evolutionary adaptation mechanism: after attention has already "inspected" a location, an inhibitory mechanism prevents attention from returning to that location, thereby promoting exploration of new locations and preventing attentional "sticking" at the same location. IOR is considered a subcortical mechanism mediated by the superior colliculus.
+
+### 内源性与外源性定向 / Endogenous vs. Exogenous Orienting
+
+定向网络可以被两种不同的方式激活：（1）**内源性定向**（endogenous orienting）——由自上而下的认知控制（如理解一个箭头的含义）驱动的注意定向，速度较慢但可控；（2）**外源性定向**（exogenous orienting）——由自下而上的突显刺激（如突然出现的闪光）自动捕获的注意定向，速度快但不易控制。脑成像研究表明，内源性定向更多涉及背侧注意网络（dorsal attention network），包括顶内沟（intraparietal sulcus）和额叶眼动区（frontal eye fields）；外源性定向更多涉及腹侧注意网络（ventral attention network），包括颞顶联合区（TPJ）和腹侧额叶皮层（ventral frontal cortex）。
+
+The orienting network can be activated in two different ways: (1) **endogenous orienting** — attentional orienting driven by top-down cognitive control (such as interpreting an arrow's meaning), slower but controllable; (2) **exogenous orienting** — attentional orienting automatically captured by bottom-up salient stimuli (such as a sudden flash), faster but less controllable. Neuroimaging studies show that endogenous orienting primarily involves the dorsal attention network (intraparietal sulcus and frontal eye fields), while exogenous orienting primarily involves the ventral attention network (TPJ and ventral frontal cortex).
+
+## 发展脉络 / Developmental Trajectory
+
+定向网络在婴儿期即开始发展。新生儿表现出对新异刺激的先天定向偏好，这一能力在生命最初几个月内快速精细化。4-6个月时，婴儿开始发展出更灵活的注意力解除能力，这是联合注意（joint attention）发展的前提。在整个儿童期，定向网络的效率持续提高，到青少年期接近成人水平。在老年期，定向网络的效率虽有轻微下降，但总体上比执行控制网络保持得更好。
+
+The orienting network begins developing in infancy. Newborns exhibit an innate orienting preference for novel stimuli, which rapidly becomes more refined during the first months of life. At 4-6 months, infants begin developing more flexible attention disengagement abilities, a prerequisite for joint attention development. Throughout childhood, orienting network efficiency continues to improve, approaching adult levels by adolescence. In old age, orienting network efficiency shows mild decline but is overall better preserved than the executive control network.
+
+## 临床应用 / Clinical Applications
+
+定向网络的功能异常与多种临床状况相关。在单侧空间忽视（unilateral spatial neglect）中，右半球顶叶损伤导致患者无法将注意力定向到对侧（左侧）空间，这是定向网络损伤的典型表现。在自闭症谱系障碍（ASD）中，联合注意的缺陷——本质上涉及定向网络的异常——是早期诊断的核心标志。在焦虑障碍中，定向网络对威胁性刺激表现出过度的外源性捕获（attentional bias），这已成为认知行为治疗的重要靶点。
+
+Orienting network dysfunction is associated with multiple clinical conditions. In unilateral spatial neglect, right hemisphere parietal damage prevents patients from orienting attention to the contralateral (left) space — a classic manifestation of orienting network damage. In autism spectrum disorder (ASD), joint attention deficits — essentially involving orienting network abnormalities — are core markers for early diagnosis. In anxiety disorders, the orienting network exhibits excessive exogenous capture by threatening stimuli (attentional bias), which has become an important target for cognitive-behavioral therapy.
+
+## 关联概念 / Related Concepts
+
+- **注意力网络（Attention Networks）** → [attention-networks.md](attention-networks.md) — 三网络整合框架 / Integrative three-network framework
+- **执行控制（Executive Attention）** → [executive-attention.md](executive-attention.md) — 自上而下调节定向过程 / Top-down regulation of orienting processes
+- **警觉网络（Alerting）** → [alerting.md](alerting.md) — 为定向提供觉醒基础 / Provides arousal foundation for orienting
+- **波斯纳线索任务（Posner Cueing Task）** — 定向网络的经典实验范式 / Classic experimental paradigm for the orienting network
+- **联合注意（Joint Attention）** — 社会情境中的定向过程 / Orienting processes in social contexts
+
+## 东西方对话 / East-West Dialogue
+
+定向网络的"选择性指向"功能与佛教禅修中的"所缘"（alambana，meditation object）概念有有趣的对应关系。在止观传统中，修行者需要将注意力指向特定的所缘——如呼吸、身体感受或特定的心理对象——并维持对该所缘的持续觉察。这种有意识地选择和维持注意力指向对象的训练，本质上就是对定向网络的系统性训练。佛教传统中关于"散乱"（viksepa，distraction）的分析——即注意力不受控制地从一个对象跳到另一个对象——可以被理解为定向网络缺乏执行控制网络的有效调节。
+
+The "selective direction" function of the orienting network has an interesting correspondence with the Buddhist meditation concept of "meditation object" (alambana). In the śamatha-vipaśyanā tradition, practitioners need to direct attention to specific objects — such as breath, bodily sensations, or specific mental objects — and maintain sustained awareness of that object. This conscious training of selecting and maintaining directed attention is essentially systematic training of the orienting network. The Buddhist analysis of "distraction" (viksepa) — attention uncontrollably jumping from one object to another — can be understood as the orienting network lacking effective regulation by the executive control network.
+
+## 进阶阅读 / Further Reading
+
+- Posner, M.I. (1980). "Orienting of attention." *Quarterly Journal of Experimental Psychology*, 32(1), 3-25.
+- Posner, M.I. & Cohen, Y. (1984). "Components of visual orienting." In H. Bouma & D. Bouwhuis (Eds.), *Attention and Performance X*. Hillsdale, NJ: Erlbaum.
+- Corbetta, M. & Shulman, G.L. (2002). "Control of goal-directed and stimulus-driven attention in the brain." *Nature Reviews Neuroscience*, 3(3), 201-215.
+- Klein, R.M. (2000). "Inhibition of return." *Trends in Cognitive Sciences*, 4(4), 138-147.

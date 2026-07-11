@@ -1,0 +1,16 @@
+---
+id: macintyre-tradition
+title: 传统 · Tradition · MacIntyre
+type: concept
+domain: ethics-politics
+school: virtue-ethics
+thinker: macintyre
+tags: [tradition, rationality, historical]
+cross-refs: [{id: macintyre, relation: thinker}, {id: taylor, relation: 平行}]
+---
+# 传统 · Tradition
+## 一句话定义
+传统不是保守的遗物，而是"关于争论的活着的论证"——所有理性推理都在某种传统之内进行，传统之间可以通过**理性争论**相互比较。
+## 与保守主义的区别
+保守主义：传统是不容质疑的
+麦金太尔：传统是**内在批评**的框架

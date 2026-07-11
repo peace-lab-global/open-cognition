@@ -1,0 +1,85 @@
+# 卡尔·荣格 · Carl Jung - 生平年表 / Life Timeline
+
+## 早年与教育 / Early Life and Education (1875–1900)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1875 | 7月26日出生于瑞士图尔高州凯斯威尔（Kesswil），父亲约翰·保罗·阿基里斯·荣格（Johann Paul Achilles Jung）是新教牧师，母亲艾米莉·普雷斯沃克（Emilie Preiswerk）来自巴塞尔一个有影响力的神学家族 / Born July 26 in Kesswil, Thurgau, Switzerland; father was a Protestant pastor, mother from an influential Basel theologian family |
+| 1879 | 全家迁至克莱恩-许宁根（Kleinhüningen），靠近巴塞尔 / Family moves to Kleinhüningen, near Basel |
+| 1886 | 进入巴塞尔人文中学（Gymnasium）学习 / Enters the Gymnasium (humanistic secondary school) in Basel |
+| 1895 | 进入巴塞尔大学学习医学 / Enters the University of Basel to study medicine |
+| 1896 | 父亲去世，荣格对宗教和灵性问题产生深刻思考 / Father dies; Jung develops deep reflections on religion and spiritual questions |
+| 1900 | 获得医学博士学位，博士论文为《论所谓灵媒现象的心理与病理》 / Earns medical degree; doctoral thesis: *On the Psychology and Pathology of So-Called Occult Phenomena* |
+
+## 学术生涯早期 / Early Academic Career (1900–1912)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1900 | 在苏黎世大学精神病学诊所（Burghölzli）任助理医师，师从欧根·布洛伊勒 / Appointed assistant physician at the Burghölzli psychiatric clinic, University of Zurich, under Eugen Bleuler |
+| 1902 | 前往巴黎，在皮埃尔·雅内（Pierre Janet）指导下短期学习 / Travels to Paris for brief study under Pierre Janet |
+| 1903 | 与艾玛·劳森巴赫（Emma Rauschenbach）结婚，育有五个孩子 / Marries Emma Rauschenbach; they will have five children |
+| 1904–1907 | 在布洛伊勒指导下进行词语联想实验，发现"情结"概念 / Conducts word association experiments under Bleuler, discovering the "complex" concept |
+| 1905 | 任苏黎世大学精神病学讲师 / Appointed lecturer in psychiatry at the University of Zurich |
+| 1906 | 开始与弗洛伊德通信 / Begins correspondence with Freud |
+| 1907 | 3月，首次前往维也纳与弗洛伊德会面，两人进行了长达十三小时的深入交谈 / March: First visit to Vienna to meet Freud; they talk for thirteen hours |
+| 1908 | 参加首届国际精神分析大会（萨尔茨堡） / Attends the First International Psychoanalytical Congress (Salzburg) |
+| 1909 | 首次访美，与弗洛伊德和费伦齐（Ferenczi）在克拉克大学（Clark University）演讲 / First visit to America; lectures at Clark University with Freud and Ferenczi |
+| 1910 | 任国际精神分析学会首任主席 / Elected first president of the International Psychoanalytical Association |
+| 1912 | 出版《力比多的象征与转变》，与弗洛伊德的理论分歧公开化 / Publishes *Symbols of Transformation*; theoretical differences with Freud become public |
+
+## 与弗洛伊德决裂及"创造性疾病" / Break with Freud and "Creative Illness" (1913–1918)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1913 | 与弗洛伊德正式决裂；辞去国际精神分析学会主席职务和苏黎世大学教职 / Official break with Freud; resigns as IPA president and from University of Zurich position |
+| 1913–1918 | 经历"创造性疾病"——一段深刻的心理危机和自我分析时期，记录丰富的梦境、幻象和内在体验 / Undergoes "creative illness" — a period of profound psychological crisis and self-analysis, recording dreams, visions, and inner experiences |
+| 1914 | 开始用"积极想象"技术探索无意识 / Begins exploring the unconscious using the "active imagination" technique |
+| 1915–1916 | 在军队中担任军医 / Serves as army doctor during World War I |
+| 1916 | 撰写《致死者七讲》(*Septem Sermones ad Mortuos*) / Writes *Septem Sermones ad Mortuos* |
+| 1918 | 开始在苏黎世库斯纳赫特（Küsnacht）建造自己的住宅"塔楼"旁的小屋 / Begins building his house in Küsnacht, near Zurich |
+
+## 独立发展与理论建构 / Independent Development and Theory Building (1919–1944)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1919 | 发表《本能与无意识》，首次正式使用"原型"术语 / Publishes *Instinct and the Unconscious*, first formal use of the term "archetype" |
+| 1920–1921 | 前往北非旅行（突尼斯、阿尔及利亚），接触阿拉伯文化 / Travels to North Africa (Tunisia, Algeria), encountering Arab culture |
+| 1921 | 出版《心理类型》——独立后的第一部重要理论著作 / Publishes *Psychological Types* — first major theoretical work after independence |
+| 1923 | 开始建造博林根塔楼（Bollingen Tower），作为个人 retreat 之所 / Begins building the Bollingen Tower as a personal retreat |
+| 1924–1925 | 前往美洲原住民部落（新墨西哥州普韦布洛印第安人）旅行 / Travels to Pueblo Indian tribes in New Mexico |
+| 1925–1926 | 前往东非旅行（肯尼亚、乌干达），研究当地部落心理 / Travels to East Africa (Kenya, Uganda), studying local tribal psychology |
+| 1928 | 收到卫礼贤赠送的《太乙金华宗旨》手稿，开始跨文化心理学研究 / Receives manuscript of *The Secret of the Golden Flower* from Richard Wilhelm, beginning cross-cultural psychological research |
+| 1929 | 出版《太乙金华宗旨》评论（与卫礼贤合著） / Publishes *Commentary on The Secret of the Golden Flower* (co-authored with Wilhelm) |
+| 1930 | 卫礼贤去世，荣格深受触动 / Wilhelm dies; Jung is deeply affected |
+| 1933 | 出版《现代人的心灵问题》 / Publishes *Modern Man in Search of a Soul* |
+| 1934 | 创办国际心理治疗医学会 / Founds the International Medical Society for Psychotherapy |
+| 1935 | 任苏黎世联邦理工学院（ETH）心理学教授 / Appointed Professor of Psychology at ETH Zurich |
+| 1938 | 访问印度，深入研究印度文化和宗教 / Visits India, deeply studying Indian culture and religion |
+| 1939 | 二战爆发，荣格在瑞士保持中立 / World War II begins; Jung maintains neutrality in Switzerland |
+| 1942 | 辞去ETH教职 / Resigns from ETH professorship |
+| 1944 | 出版《心理学与炼金术》；同年因心脏病住院 / Publishes *Psychology and Alchemy*; hospitalized for heart condition the same year |
+
+## 晚期与遗产 / Late Period and Legacy (1945–1961)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1945 | 获巴塞尔大学荣誉教授称号 / Receives honorary professorship from the University of Basel |
+| 1948 | 苏黎世荣格学院（C.G. Jung Institute Zurich）成立 / The C.G. Jung Institute Zurich is founded |
+| 1950 | 妻子艾玛去世 / Wife Emma dies |
+| 1951 | 出版《爱翁：自性现象学研究》 / Publishes *Aion: Researches into the Phenomenology of the Self* |
+| 1952 | 出版《共时性》和《答约伯》 / Publishes *Synchronicity* and *Answer to Job* |
+| 1955–1956 | 出版《神秘合一》——个体化理论的最高理论表达 / Publishes *Mysterium Coniunctionis* — highest theoretical expression of individuation theory |
+| 1957 | 出版《未发现的自我》 / Publishes *The Undiscovered Self* |
+| 1958 | 出版《飞碟：天空中的现代神话》 / Publishes *Flying Saucers: A Modern Myth of Things Seen in the Skies* |
+| 1959 | 获弗莱堡大学荣誉博士学位 / Receives honorary doctorate from the University of Freiburg |
+| 1960 | 获苏黎世市荣誉市民称号 / Receives honorary citizenship of the city of Zurich |
+| 1961 | 完成自传《回忆·梦·思考》 / Completes autobiography *Memories, Dreams, Reflections* |
+| 1961 | 6月6日，在苏黎世库斯纳赫特去世，享年85岁 / Dies June 6 in Küsnacht, near Zurich, at age 85 |
+
+## 死后影响 / Posthumous Influence
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1964 | 《人及其表象》出版（荣格生前策划） / *Man and His Symbols* published (planned by Jung during his lifetime) |
+| 2009 | 《红书》正式出版——荣格1913–1930年间私人记录首次公开 / *The Red Book* officially published — Jung's private records from 1913–1930 made public for the first time |
+| 2010s–2020s | 荣格思想在心理治疗、文学批评、艺术、宗教研究、游戏设计等领域持续产生广泛影响 / Jungian thought continues to exert wide influence in psychotherapy, literary criticism, art, religious studies, game design, and other fields |

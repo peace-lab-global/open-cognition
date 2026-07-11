@@ -1,0 +1,152 @@
+---
+id: religion.buddhism.masters.daoxuan.timeline
+title: "道宣生平年表 Timeline of Daoxuan"
+type: reference
+domain: religion
+school: buddhism-vinaya
+parent: [[README|道宣]]
+tags: [道宣, 年表, timeline, 唐代, 律宗]
+---
+
+# 道宣生平年表 · Timeline of Daoxuan (596–667)
+
+---
+
+## 早年时期 · Early Life (596–616)
+
+| 年份 | 事件 | 备注 |
+|------|------|------|
+| **596** | 出生于丹徒（今江苏镇江），俗姓钱。一说长城（今浙江长兴）人。 | 隋开皇十六年 |
+| **605 (约)** | 九岁，开始学习儒家经典，表现出过人的聪慧。 | |
+| **610 (约)** | 十五岁，厌世出家，依止日严寺智頵法师学习佛法。 | 智頵为当时名僧 |
+| **612 (约)** | 受具足戒（比丘戒），正式开始僧侣生涯。 | 约十六至二十岁 |
+| **614–616** | 师从大禅定寺智首律师，系统学习律学。智首为当时律学权威。 | 奠定律学基础 |
+
+| Year | Event | Notes |
+|------|-------|-------|
+| **596** | Born in Dantu (modern Zhenjiang, Jiangsu), surnamed Qian. Some sources: Changcheng (modern Changxing, Zhejiang). | 16th year of Kaihuang, Sui dynasty |
+| **c. 605** | Age 9, began studying Confucian classics, showing exceptional intelligence. | |
+| **c. 610** | Age 15, renounced the world and took refuge under Master Zhiyun at Riyan Monastery. | Zhiyun was a renowned monk |
+| **c. 612** | Received full ordination (bhikṣu precepts), formally beginning monastic life. | Aged approximately 16–20 |
+| **614–616** | Studied Vinaya systematically under Master Zhishou at the Great Meditation Monastery. Zhishou was the foremost Vinaya authority of the era. | Foundation of Vinaya scholarship laid |
+
+---
+
+## 修学与著述时期 · Study and Writing Period (617–649)
+
+| 年份 | 事件 | 备注 |
+|------|------|------|
+| **617–625** | 随智首律师深入学习律藏，精研《四分律》。期间参与各种僧团活动，积累实践经验。 | 隋末唐初，社会动荡 |
+| **624 (约)** | 智首律师示寂，道宣继承其律学事业。 | |
+| **626** | 唐太宗即位，进入贞观时代。佛教在唐代获得新的发展空间。 | |
+| **627–630** | 移居终南山丰德寺，开始潜心著述。 | 终南山位于长安以南 |
+| **630 (约)** | 完成《四分律删繁补阙行事钞》（《行事钞》），这是南山律学的奠基之作。 | 最重要的著作 |
+| **632 (约)** | 完成《四分律删补随机羯磨》（《羯磨疏》）。 | 南山三大部之一 |
+| **635 (约)** | 完成《四分律含注戒本疏》（《戒本疏》）。 | 南山三大部之一 |
+| **635–645** | 继续完善律学著作，同时开始编纂《续高僧传》和《广弘明集》。 | |
+| **645** | 《续高僧传》初稿完成（三十卷）。 | 续慧皎《高僧传》 |
+| **648 (约)** | 移住终南山净业寺。 | |
+| **649** | 唐太宗贞观二十三年。道宣的律学体系基本完成。 | |
+
+| Year | Event | Notes |
+|------|-------|-------|
+| **617–625** | Continued intensive study of the Vinaya canon under Zhishou, immersing in the *Dharmaguptaka Vinaya*. Participated in various saṅgha activities, gaining practical experience. | Late Sui/early Tang, period of social upheaval |
+| **c. 624** | Master Zhishou passed away; Daoxuan inherited his Vinaya legacy. | |
+| **626** | Emperor Taizong ascended the throne, beginning the Zhenguan era. Buddhism gained new opportunities for development. | |
+| **627–630** | Relocated to Fengde Monastery on Mount Zhongnan, began dedicated writing. | Mt. Zhongnan is south of Chang'an |
+| **c. 630** | Completed the *Xingshi Chao* (行事钞) — the foundational work of Nanshan Vinaya. | His most important work |
+| **c. 632** | Completed the *Jiemo Shu* (羯磨疏). | One of the Three Great Works |
+| **c. 635** | Completed the *Jieben Shu* (戒本疏). | One of the Three Great Works |
+| **635–645** | Continued refining Vinaya works while beginning compilation of the *Continued Biographies* and the *Expanded Collection*. | |
+| **645** | First draft of the *Continued Biographies of Eminent Monks* (30 fascicles) completed. | Continuation of Huijiao's work |
+| **c. 648** | Moved to Jingye Monastery on Mount Zhongnan. | |
+| **649** | 23rd year of Zhenguan. Daoxuan's Vinaya system essentially complete. | |
+
+---
+
+## 成熟与传播时期 · Maturity and Dissemination (650–667)
+
+| 年份 | 事件 | 备注 |
+|------|------|------|
+| **650–655** | 律学名声日隆，四方学僧前来终南山求学。南山律的影响力逐渐扩大。 | 唐高宗时期 |
+| **656 (约)** | 被召入长安，参与官方佛教事务。 | |
+| **658** | 西明寺建成，道宣被任命为首座（上座）。西明寺为唐代重要的皇家寺院。 | |
+| **660 (约)** | 增补《续高僧传》至四十卷。 | |
+| **662** | 唐高宗下令僧尼须礼拜君亲。道宣上表抗争，撰写《集古今佛道论衡》中的相关文章。 | 佛教与国家关系的典型案例 |
+| **664** | 完成《大唐内典录》（十卷）。 | 佛教经录 |
+| **665 (约)** | 完成《释迦方志》（二卷）。 | 印度佛教地理志 |
+| **667** | 示寂于终南山净业寺，世寿七十二。唐高宗下诏哀悼，敕令天下寺院图形塑像供奉。 | 乾封二年 |
+
+| Year | Event | Notes |
+|------|-------|-------|
+| **650–655** | Vinaya reputation grew; students from all directions came to study at Mount Zhongnan. Nanshan Vinaya's influence expanded. | Emperor Gaozong's reign |
+| **c. 656** | Summoned to Chang'an to participate in official Buddhist affairs. | |
+| **658** | Ximing Monastery completed; Daoxuan appointed as its senior seat (上座). Ximing was an important imperial monastery. | |
+| **c. 660** | Expanded the *Continued Biographies* to 40 fascicles. | |
+| **662** | Emperor Gaozong ordered monks and nuns to bow to the emperor and parents. Daoxuan submitted a memorial in protest, composing related texts later included in the *Collected Records of Buddhist-Daoist Debates*. | A landmark case in Buddhism-state relations |
+| **664** | Completed the *Catalogue of the Inner Canon of the Great Tang* (10 fascicles). | Buddhist bibliography |
+| **c. 665** | Completed the *Gazetteer of Śākyamuni's Lands* (2 fascicles). | Buddhist geography of India |
+| **667** | Passed away at Jingye Monastery on Mount Zhongnan, aged 72. Emperor Gaozong issued a mourning edict, ordering monasteries throughout the realm to create portraits and images for veneration. | 2nd year of Qianfeng |
+
+---
+
+## 身后影响 · Posthumous Influence
+
+| 年份 | 事件 | 备注 |
+|------|------|------|
+| **667–700** | 道宣弟子周秀等继续弘传南山律。 | 唐代传承 |
+| **753** | 鉴真（688–763）东渡日本成功，将南山律传至日本，创立日本律宗。 | 日本天平胜宝五年 |
+| **宋 (960–1279)** | 允堪（1005–1061）、元照（1048–1116）复兴南山律，撰重要注释。 | 宋代律学复兴 |
+| **明 (1368–1644)** | 如馨（1541–1615）、见月（1601–1679）等在南京宝华山传戒。 | 明清律学传承 |
+| **近代 (1880–1942)** | 弘一法师（李叔同）以弘传南山律为己任，撰《四分律比丘戒相表记》等。 | 近代律学复兴 |
+
+| Year | Event | Notes |
+|------|-------|-------|
+| **667–700** | Daoxuan's disciples, including Zhouxiu, continued propagating Nanshan Vinaya. | Tang transmission |
+| **753** | Jianzhen (688–763) successfully crossed to Japan, transmitting Nanshan Vinaya and founding the Japanese Ritsu school. | 5th year of Tenpyō-shōhō, Japan |
+| **Song (960–1279)** | Yunkan (1005–1061) and Yuanzhao (1048–1116) revived Nanshan Vinaya with important commentaries. | Song Vinaya revival |
+| **Ming (1368–1644)** | Ruxin (1541–1615), Jianyue (1601–1679) transmitted precepts at Baohua Mountain, Nanjing. | Ming-Qing Vinaya transmission |
+| **Modern (1880–1942)** | Master Hongyi (Li Shutong) dedicated himself to reviving Nanshan Vinaya, authoring the *Tabular Presentation of Bhikṣu Precepts* and other works. | Modern Vinaya revival |
+
+---
+
+## 历史背景年表 · Historical Context
+
+| 时期 | 历史事件 | 与道宣的关联 |
+|------|----------|-------------|
+| **581** | 隋朝建立 | 道宣出生前15年 |
+| **589** | 隋统一中国 | 道宣出生前7年 |
+| **596** | 道宣出生 | — |
+| **604** | 隋文帝被弑，炀帝即位 | 道宣8岁 |
+| **618** | 唐朝建立 | 道宣22岁 |
+| **626** | 玄武门之变，太宗即位 | 道宣30岁 |
+| **629–645** | 玄奘西行取经 | 道宣33–49岁（同期） |
+| **645** | 玄奘返回长安 | 道宣49岁 |
+| **649** | 太宗驾崩，高宗即位 | 道宣53岁 |
+| **662** | 僧道拜君亲之争 | 道宣66岁 |
+| **667** | 道宣示寂 | — |
+| **668** | 新罗统一朝鲜半岛 | 道宣圆寂次年 |
+
+| Period | Historical Event | Relation to Daoxuan |
+|--------|------------------|---------------------|
+| **581** | Sui dynasty established | 15 years before birth |
+| **589** | Sui reunifies China | 7 years before birth |
+| **596** | Daoxuan born | — |
+| **604** | Emperor Wen assassinated, Yangdi ascends | Age 8 |
+| **618** | Tang dynasty established | Age 22 |
+| **626** | Xuanwu Gate Incident, Taizong ascends | Age 30 |
+| **629–645** | Xuanzang's pilgrimage to India | Ages 33–49 (contemporary) |
+| **645** | Xuanzang returns to Chang'an | Age 49 |
+| **649** | Taizong dies, Gaozong ascends | Age 53 |
+| **662** | Debate on monks bowing to emperor and parents | Age 66 |
+| **667** | Daoxuan passes away | — |
+| **668** | Silla unifies Korean Peninsula | Year after passing |
+
+---
+
+## 关联页面 · Related Pages
+
+- [[README|道宣]] — 道宣主页
+- [[works|著作列表]]
+- [[reading-list|进阶阅读]]
+- [[concepts/nanshan-vinaya|南山律]]

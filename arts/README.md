@@ -36,27 +36,27 @@ arts/
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [贝多芬](schools/music/beethoven.md) | 古典/浪漫 | 近代 | 从古典主义到浪漫主义的桥梁，以音乐承载人类精神 |
-| [巴赫](schools/music/bach.md) | 巴洛克 | 近代 | 对位法建筑，宗教音乐的顶峰 |
-| [莫扎特](schools/music/mozart.md) | 古典主义 | 近代 | 古典主义的完美，歌剧与协奏曲 |
-| [瓦格纳](schools/music/wagner.md) | 浪漫主义 | 现代 | 总体艺术(Gesamtkunstwerk)，乐剧，和声革命 |
-| [肖邦](schools/music/chopin.md) | 浪漫主义 | 现代 | 钢琴诗人，浪漫主义小品 |
+| [贝多芬](schools/music/beethoven/README.md) | 古典/浪漫 | 近代 | 从古典主义到浪漫主义的桥梁，以音乐承载人类精神 |
+| [巴赫](schools/music/bach/README.md) | 巴洛克 | 近代 | 对位法建筑，宗教音乐的顶峰 |
+| [莫扎特](schools/music/mozart/README.md) | 古典主义 | 近代 | 古典主义的完美，歌剧与协奏曲 |
+| [瓦格纳](schools/music/wagner/README.md) | 浪漫主义 | 现代 | 总体艺术(Gesamtkunstwerk)，乐剧，和声革命 |
+| [肖邦](schools/music/chopin/README.md) | 浪漫主义 | 现代 | 钢琴诗人，浪漫主义小品 |
 
 ### 视觉艺术 / Visual Arts
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [达·芬奇](schools/visual-arts/leonardo-da-vinci.md) | 文艺复兴 | 近代 | 艺术与科学的统一，"全人"理想的典范 |
-| [梵高](schools/visual-arts/van-gogh.md) | 后印象派 | 现代 | 用色彩与笔触表达灵魂的燃烧，现代绘画的先驱 |
-| [米开朗基罗](schools/visual-arts/michelangelo.md) | 文艺复兴 | 近代 | 雕塑与壁画的崇高，形体的英雄主义 |
-| [毕加索](schools/visual-arts/picasso.md) | 立体主义 | 当代 | 形式革命，20 世纪艺术的枢纽 |
-| [莫奈](schools/visual-arts/monet.md) | 印象派 | 现代 | 印象派创始人，光与瞬间的捕捉 |
+| [达·芬奇](schools/visual-arts/leonardo-da-vinci/README.md) | 文艺复兴 | 近代 | 艺术与科学的统一，"全人"理想的典范 |
+| [梵高](schools/visual-arts/van-gogh/README.md) | 后印象派 | 现代 | 用色彩与笔触表达灵魂的燃烧，现代绘画的先驱 |
+| [米开朗基罗](schools/visual-arts/michelangelo/README.md) | 文艺复兴 | 近代 | 雕塑与壁画的崇高，形体的英雄主义 |
+| [毕加索](schools/visual-arts/picasso/README.md) | 立体主义 | 当代 | 形式革命，20 世纪艺术的枢纽 |
+| [莫奈](schools/visual-arts/monet/README.md) | 印象派 | 现代 | 印象派创始人，光与瞬间的捕捉 |
 
 ### 表演艺术 / Performing Arts
 
 | 条目 | 方向 | 时代 | 核心贡献 |
 |------|------|------|----------|
-| [爱森斯坦](schools/performing-arts/eisenstein.md) | 电影理论 | 当代 | 蒙太奇理论，冲突剪辑的革命 |
+| [爱森斯坦](schools/performing-arts/eisenstein/README.md) | 电影理论 | 当代 | 蒙太奇理论，冲突剪辑的革命 |
 
 ### 文学艺术 / Literary Arts
 

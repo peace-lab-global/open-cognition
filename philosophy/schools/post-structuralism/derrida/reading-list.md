@@ -1,0 +1,167 @@
+---
+id: derrida-reading-list
+title: 德里达分级阅读建议 · Derrida Tiered Reading List
+type: reading-list
+parent: derrida
+domain: philosophy
+school: post-structuralism
+tags:
+  - 阅读清单
+  - reading list
+  - 入门
+  - 进阶
+  - 研究
+---
+
+# 德里达分级阅读建议 · Derrida Tiered Reading List
+
+> 本清单按"入门 → 进阶 → 研究"三级组织，每本书注明难度、用途与阅读策略。德里达的文本以艰深著称；合理的路径比盲目的雄心更重要。
+> This reading list is organized in three tiers — Introductory / Intermediate / Advanced — with difficulty, purpose, and reading strategy noted. Derrida's texts are famously difficult; a sensible path matters more than blind ambition.
+
+---
+
+## Tier 1 · 入门 · Introductory
+
+*目标：理解解构的基本姿态，不被术语吓退。*
+*Goal: grasp the basic gesture of deconstruction without being overwhelmed by terminology.*
+
+| 书名 · Title | 作者 · Author | 说明 · Notes |
+|---|---|---|
+| **Jacques Derrida** | Christopher Norris (Routledge, 1987, 4th ed. 2019) | 最精炼的英文导论，约 200 页，覆盖所有核心概念。 / Most concise English introduction, ~200pp. |
+| **On Deconstruction: Theory and Criticism after Structuralism** | Jonathan Culler (Cornell UP, 1982, 25th anniv. ed. 2007) | 英美文学批评界的解构教科书；大量实例。 / Anglo-American literary criticism textbook; many examples. |
+| **Deconstruction: Theory and Practice** | Christopher Norris (Routledge, 1982, 3rd ed. 2002) | 比上两本稍技术，但依然是最好的二手导论。 / Slightly more technical but still the best secondary introduction. |
+| **Derrida: A Very Short Introduction** | Jacques Derrida (by Jeff Collins, Icon/Oxford, 2000) | 短小精悍的图解入门。 / Very short, illustrated intro. |
+| **Understanding Derrida** (ed. Joanne Morra et al.) | Multiple | 论文集，每位作者聚焦一个核心概念，适合按主题学习。 / Essay collection, each author on one concept. |
+| **Derrida: A Biography** | Benoît Peeters (Polity, 2013; fr. 2010) | 最佳传记；可当作入门读物阅读。 / Best biography; readable as intro. |
+
+**推荐起点**：先读 Norris 的 *Jacques Derrida* + Culler 的 *On Deconstruction*，再读 Peeters 传记。
+
+---
+
+## Tier 2 · 进阶 · Intermediate
+
+*目标：进入德里达自己的声音，但不从最难的文本开始。*
+*Goal: enter Derrida's own voice, without starting from the most difficult texts.*
+
+| 书名 · Title | 说明 · Notes |
+|---|---|
+| **Positions** (1972) | 访谈集。德里达自己用相对清晰的语言总结解构；"Letter to a Japanese Friend" 一文必读。 / Interviews; Derrida summarizes deconstruction in relatively clear language. |
+| **Writing and Difference** (1967) | 文集，每章相对独立；从"Structure, Sign, and Play"开始读。 / Essay collection; start with "Structure, Sign, and Play." |
+| **Voice and Phenomenon** (1967) | 德里达自称这是他"最珍爱"的书；篇幅短（~100页）但密度高。 / Derrida called it his "most cherished" book; short (~100pp) but dense. |
+| **Margins of Philosophy** (1972) | 文集，含 "La différance" 原文、"White Mythology"（隐喻论）、"Signature Event Context"（与 Searle 论战起点）。 / Essays including "La différance," "White Mythology," "Signature Event Context." |
+| **Acts of Literature** (ed. Attridge, 1992) | 精选集，含关键访谈与文学论文。 / Selected essays on literature with key interviews. |
+| **Acts of Religion** (ed. Anidjar, 2002) | 精选集，覆盖宗教-伦理维度。 / Selected essays on religion-ethics. |
+| **Of Grammatology** (1967) Part I | 第一部分是解构纲领的宣言；第二部分是对卢梭的细读，可分开读。 / Part I is the programmatic manifesto; Part II is Rousseau close-reading, can be read separately. |
+| **Limited Inc** (1988) | 与 Searle 论战的合集，相对可读。 / Collected debate with Searle; relatively readable. |
+
+**推荐路径**：*Positions* → *Writing and Difference* (selected essays) → *Voice and Phenomenon* → *Margins* → *Of Grammatology* Part I.
+
+---
+
+## Tier 3 · 研究 · Advanced
+
+*目标：进入德里达的深层思想与晚期政治-伦理转向。*
+*Goal: enter Derrida's deeper thought and late ethico-political turn.*
+
+| 书名 · Title | 说明 · Notes |
+|---|---|
+| **Of Grammatology** Part II (1967) | 对卢梭的细读；解构作为阅读实践的最佳范例。 / Close reading of Rousseau; best example of deconstruction as reading practice. |
+| **Dissemination** (1972) | 含 "Plato's Pharmacy" (*pharmakon* 论) 和 "The Double Session" (Mallarmé)。 / Contains "Plato's Pharmacy" and "The Double Session." |
+| **Glas** (1974) | 双栏实验：黑格尔与热内同时书写。视觉-哲学奇观。 / Double-column experiment: Hegel and Genet side-by-side. |
+| **Spurs: Nietzsche's Styles** (1978) | 对尼采"风格"的多重解读。 / Multiple readings of Nietzsche's "styles." |
+| **The Post Card** (1980) | 书信体虚构 + 弗洛伊德研究。 / Epistolary fiction + Freud study. |
+| **The Truth in Painting** (1978) | 美学、Parergon（框外）、艺术哲学。 / Aesthetics, parergon, philosophy of art. |
+| **Of Spirit** (1987) | 对海德格尔"精神"概念的解构。 / Deconstruction of Heidegger's concept of "spirit." |
+| **Given Time: I** (1991) | 对"礼物" (*don*) 之不可能性的现象学追问。 / Phenomenological inquiry into the impossibility of the gift. |
+| **Specters of Marx** (1993) | 幽灵学、弥赛亚性、政治哲学的关键文本。 / Hauntology, messianicity, key text in political philosophy. |
+| **Politics of Friendship** (1994) | 重新思考"友谊"与"民主"的可能性。 / Rethinking friendship and the possibility of democracy. |
+| **On Cosmopolitanism and Forgiveness** (1997) | 短小精悍；宽恕的 aporia。 / Short and powerful; the aporia of forgiveness. |
+| **Of Hospitality** (1997) | 与 Anne Dufourmantelle 对话；好客的不可能性。 / Dialogue with Dufourmantelle; the impossibility of hospitality. |
+| **Monolingualism of the Other** (1996) | 自传性极强；语言与归属。 / Highly autobiographical; language and belonging. |
+| **Adieu to Emmanuel Levinas** (1997) | 对列维纳斯伦理学的致敬与解构。 / Homage and deconstruction of Levinas's ethics. |
+| **Rogues: Two Essays on Reason** (2003) | "Force de loi" 扩展版；民主的 auto-immunity。 / Extended *Force de loi*; auto-immunity of democracy. |
+| **The Death Penalty** Vol. I & II (posth. 2008, 2010) | 晚期最重要的 seminar；主权与惩罚。 / Most important late seminar; sovereignty and punishment. |
+| **The Beast and the Sovereign** Vol. I & II (posth. 2010, 2011) | 动物、主权、政治哲学。 / Animal, sovereignty, political philosophy. |
+
+---
+
+## 专题研究 · Thematic Deep Dives
+
+### 文学批评 · Literary Criticism
+- Paul de Man, *Blindness and Insight* (1971) / *Allegory of Reading* (1979)
+- Geoffrey Hartman, *Saving the Text* (1981)
+- J. Hillis Miller, *The Ethics of Reading* (1987)
+- Barbara Johnson, *The Critical Difference* (1980)
+
+### 法律解构 · Legal Deconstruction
+- Jack Balkin, "Deconstructive Practice and Legal Theory" (Yale L.J., 1987)
+- Drucilla Cornell, *The Philosophy of the Limit* (1992)
+- Pierre Schlag, *Laying Down the Law* (1996)
+
+### 后殖民理论 · Post-Colonial Theory
+- Gayatri Chakravorty Spivak, *In Other Worlds* (1987) / *A Critique of Postcolonial Reason* (1999)
+- Homi Bhabha, *The Location of Culture* (1994)
+
+### 女性主义 · Feminism
+- Hélène Cixous, "The Laugh of the Medusa" (1975)
+- Judith Butler, *Gender Trouble* (1990)
+
+### 神学/宗教 · Theology/Religion
+- John D. Caputo, *The Prayers and Tears of Jacques Derrida* (1997)
+- John D. Caputo, *The Weakness of God* (2006)
+- Jean-Luc Marion, *God Without Being* (1982)
+
+### 技术哲学 · Philosophy of Technology
+- Bernard Stiegler, *Technics and Time* (3 vols, 1994–2001)
+- Geoffrey Bennington, *Not Half-Human* (2000)
+
+### 建筑 · Architecture
+- Peter Eisenman, *Written into the Void* (2007)
+- *Chora L Works* (Derrida + Eisenman, 1997)
+
+### 精神分析 · Psychoanalysis
+- *The Post Card* (Derrida, 1980)
+- Mikkel Borch-Jakobsen, *The Freudian Subject* (1982)
+
+---
+
+## 学术工具 · Scholarly Tools
+
+- **Derrida Today** (Edinburgh University Press, peer-reviewed journal, 2008–)
+- **Collège International de Philosophie** archives (Paris)
+- **UC Irvine Derrida Archive** (Langson Library)
+- **ENS Paris Derrida Fonds** (manuscripts, lecture notes)
+- **IMEC (Institut Mémoires de l'édition contemporaine)** 藏有大量德里达手稿
+
+---
+
+## 中译本推荐 · Recommended Chinese Translations
+
+| 书名 · Title | 译者 · Translator | 出版社 · Publisher |
+|---|---|---|
+| 《论文字学》 | 汪堂家 | 上海译文 |
+| 《声音与现象》 | 杜小真 | 商务印书馆 |
+| 《书写与差异》 | 张宁 | 三联书店 |
+| 《哲学的边缘》 | 尚杰 | 上海译文 |
+| 《马克思的幽灵》 | 何一 | 中国人民大学 |
+| 《论好客》 | 唐小惠 | 上海人民 |
+| 《给定的时间》 | 陈永国 | 商务印书馆 |
+| 《档案病》 | 张一兵 | 南京大学 |
+| 《野兽与主权者》I & II | 王钦 | 西北大学 |
+| 《死刑 seminar》I & II | 胡振平 | 南京大学 |
+| 《友谊政治学》 | 张宁 | 南京大学 |
+
+---
+
+## 阅读建议 · Reading Tips
+
+1. **不要一次读完**。德里达文本密度极高；每次 5–10 页比一次 50 页更有效。 / Do not read in bulk. Derrida's texts are extremely dense; 5–10 pages per session beats 50 pages.
+2. **边读边查交叉引用**。德里达的思想是网络状的；任何一篇文章都指向其他文本。 / Follow cross-references. Derrida's thought is networked; each essay points to others.
+3. **读原文 + 译本**（若可能）。法语与英语之间的微妙差异本身常常就是论题。 / Read original + translation when possible. The nuance between French and English is often itself the argument.
+4. **读二手导论与一手文本并行**。先读 Culler/Norris 对应章节，再读德里达原文。 / Read secondary introductions alongside primary texts.
+5. **不要追求"完全理解"**。德里达明确抵制"完成"的阅读；每一次重读都会产生新的理解。 / Do not aim for "complete understanding." Derrida explicitly resists completed reading; each rereading produces new understanding.
+
+---
+
+→ 返回 [README.md](README.md) · Return to [README.md](README.md)
+→ 相关 · Related: [works.md](works.md) · [timeline.md](timeline.md)

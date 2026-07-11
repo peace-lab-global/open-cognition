@@ -1,0 +1,73 @@
+---
+id: aesthetics.critical-aesthetics.adorno.reading-list
+title: 阿多诺推荐阅读 / Adorno Reading List
+type: reading-list
+parent: aesthetics.critical-aesthetics.adorno
+---
+
+# 阿多诺推荐阅读 / Adorno Reading List
+
+## 一、入门阅读 / Introductory
+
+### 中文
+1. 张一兵：《无调性的辩证幻想——阿多诺〈否定的辩证法〉研究》，三联书店，2004
+2. 赵勇：《法兰克福学派内外》，北京大学出版社，2009
+3. 赵勇：《整合与颠覆：大众文化的辩证法》，北京大学出版社，2005
+4. 王凤才：《法兰克福学派的现代性理论》，社会科学文献出版社，2013
+
+### English
+1. Jarvis, Simon. *Adorno: A Critical Introduction*. Polity Press, 1998 — 最佳入门指南
+2. O'Connor, Brian. *Adorno*. Routledge, 2013 — 清晰的哲学概述
+3. Jameson, Fredric. *Late Marxism: Adorno, or, the Persistence of the Dialectic*. Verso, 1990 — 詹明信的经典解读
+4. Rose, Gillian. *The Melancholy Science: An Introduction to the Thought of Theodor W. Adorno*. Macmillan, 1978 — 早期重要导论
+
+## 二、阿多诺原著阅读顺序 / Recommended Reading Order
+
+### 第一阶段：进入阿多诺的世界
+1. 《最低限度的道德》（选读若干格言）— 感受阿多诺的写作风格
+2. 《棱镜》中的"文化批评与社会" — 理解文化工业论的完整表述
+3. 《启蒙辩证法》"文化工业"章 — 核心论述
+
+### 第二阶段：深入美学
+4. 《新音乐哲学》— 理解阿多诺的音乐美学
+5. 《美学理论》导论部分 — 把握否定美学的框架
+6. 《文学笔记》中论贝克特和卡夫卡的文章
+
+### 第三阶段：哲学核心
+7. 《否定辩证法》导论 — 阿多诺的哲学方法
+8. 《否定辩证法》"非同一性"相关章节
+
+## 三、进阶研究 / Advanced Studies
+
+### 专著
+1. Bernstein, J.M. *Adorno: Disenchantment and Ethics*. Cambridge UP, 2001
+2. Hohendahl, Peter Uwe. *Prismatic Thought: Theodor W. Adorno*. U of Nebraska P, 1995
+3. Gibson, Nigel & Rubin, Andrew (eds.). *Adorno: A Critical Reader*. Blackwell, 2002
+4. Menke, Christoph. *The Sovereignty of Art: Aesthetic Negativity in Adorno and Derrida*. MIT Press, 1998
+5. Paddison, Max. *Adorno's Aesthetics of Music*. Cambridge UP, 1993
+6. Cook, Deborah. *Adorno on Nature*. Routledge, 2011
+
+### 论文集
+1. O'Neill, Tom (ed.). *Adorno, Culture and Feminism*. Sage, 1999
+2. Huhn, Tom (ed.). *The Cambridge Companion to Adorno*. Cambridge UP, 2004
+3. Delanty, Gerard (ed.). *Theodor W. Adorno*. Sage, 2005
+
+## 四、关联思想家的背景阅读 / Background Reading
+
+1. 霍克海默：《传统理论与批判理论》(1937) — 批判理论的纲领性文件
+2. 本雅明：《机械复制时代的艺术作品》(1936) — 理解阿多诺-本雅明论争
+3. 马尔库塞：《单向度的人》(1964) — 法兰克福学派的政治哲学维度
+4. 哈贝马斯：《公共领域的结构转型》(1962) — 第二代批判理论的起点
+5. 马克思：《1844年经济学哲学手稿》— 异化理论的原初表述
+
+## 五、当代延续 / Contemporary Extensions
+
+1. 布尔迪厄：《区分》(1979) — 文化资本理论
+2. 霍尔 (Stuart Hall)：《编码/解码》(1973) — 对文化工业论的修正
+3. 詹明信：《后现代主义，或晚期资本主义的文化逻辑》(1991)
+4. 齐泽克：《意识形态的崇高客体》(1989) — 拉康式的意识形态批判
+5. Berardi, Franco ("Bifo"). *The Soul at Work*. Semiotext(e), 2009 — 数字时代的精神政治
+
+---
+
+*另见：[[README|阿多诺]] | [[works|著作列表]] | [[timeline|年表]]*

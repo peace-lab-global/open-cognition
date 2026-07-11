@@ -1,0 +1,101 @@
+---
+id: leibniz-best-of-all-worlds
+title: 最好的可能世界 · The Best of All Possible Worlds
+type: concept
+domain: philosophy
+school: rationalism
+thinker: leibniz
+tags:
+  - 乐观主义
+  - 神义论
+  - 恶的问题
+  - 上帝
+  - optimism
+  - theodicy
+  - problem-of-evil
+  - God
+cross-refs:
+  - id: leibniz-possible-worlds
+    relation: 基础
+  - id: leibniz-sufficient-reason
+    relation: 基础
+  - id: voltaire
+    relation: 批判
+---
+
+# 最好的可能世界 · The Best of All Possible Worlds
+
+## 概念概述 / Concept Overview
+
+"这是所有可能世界中最好的一个"（le meilleur des mondes possibles）——这是莱布尼茨神义论（Theodicy）的核心主张。面对恶的问题——如果上帝是全知、全能、全善的，为什么世界上存在恶？——莱布尼茨的回答是：上帝在创世之前审视了所有逻辑上可能的世界，凭借他的无限智慧选择了最好（即最完满、最和谐）的一个来实现。我们所生活的世界，虽然在局部看来充满了苦难和不公，但在整体上已经是最优的。
+
+"This is the best of all possible worlds" (le meilleur des mondes possibles) — the central claim of Leibniz's theodicy. Facing the problem of evil — if God is omniscient, omnipotent, and omnibenevolent, why does evil exist? — Leibniz answers: God surveyed all logically possible worlds before creation, and with His infinite wisdom chose the best (most perfect, most harmonious) one to actualize. Our world, though locally filled with suffering and injustice, is globally optimal.
+
+## 三种恶的分析 / Analysis of Three Types of Evil
+
+莱布尼茨区分了三种恶：
+
+Leibniz distinguishes three types of evil:
+
+1. **形而上学的恶（Metaphysical Evil）**：受造物的有限性——任何非上帝的存在必然是不完满的，这种不完满性本身就是形而上学的恶。这不是上帝"造成"的，而是受造物本质的必然特征。
+
+2. **物理的恶（Physical Evil）**：痛苦、疾病、自然灾害——这些是形而上学恶的必然结果，因为有限的世界不可能处处完满。而且，物理的恶往往是更大善的条件——没有疾病，就没有康复的喜悦；没有痛苦，就没有对善的珍惜。
+
+3. **道德的恶（Moral Evil）**：罪、不义、邪恶——这是自由意志的必然伴随物。如果上帝创造了有自由意志的受造物，那么他们必然有可能选择恶。一个没有自由意志的世界虽然在道德恶方面更少，但在整体完满性方面也更差。
+
+1. **Metaphysical Evil**: The finitude of creatures — any non-divine being is necessarily imperfect; this imperfection is metaphysical evil. It is not "caused" by God but is a necessary feature of created nature.
+
+2. **Physical Evil**: Pain, disease, natural disasters — inevitable consequences of metaphysical evil, since a finite world cannot be perfect everywhere. Moreover, physical evil often serves greater good — without illness, no joy of recovery; without suffering, no appreciation of goodness.
+
+3. **Moral Evil**: Sin, injustice, wickedness — inevitable concomitants of free will. If God created beings with free will, they must be capable of choosing evil. A world without free will would have less moral evil but also less overall perfection.
+
+## "最好"的含义 · The Meaning of "Best"
+
+莱布尼茨的"最好"不是指"最令人愉悦"或"最少痛苦"。"最好"是指：
+
+Leibniz's "best" does not mean "most pleasant" or "least painful." It means:
+
+- **最大的多样性**（greatest variety）：世界包含尽可能多的不同事物和存在形式
+- **最大的秩序**（greatest order）：这些多样性被组织在最和谐的法则体系中
+- **最大的简洁性**（greatest simplicity）：用最简洁的法则产生最丰富的效果
+
+- **Greatest variety**: The world contains as many different things and forms of being as possible
+- **Greatest order**: This diversity is organized in the most harmonious system of laws
+- **Greatest simplicity**: The richest effects are produced by the simplest laws
+
+莱布尼茨用建筑师比喻：最好的建筑不是最大的建筑，而是在最小空间中以最优雅的方式实现最多功能的建筑。类似地，最好的世界是在最简洁的自然法则下产生最大多样性和最和谐秩序的世界。
+
+Leibniz uses an architect analogy: the best building is not the largest but the one achieving the most functions in the smallest space with the most elegant design. Similarly, the best world produces the greatest diversity and most harmonious order under the simplest natural laws.
+
+## 伏尔泰的讽刺 · Voltaire's Satire
+
+莱布尼茨的乐观主义在伏尔泰的《老实人》（*Candide*, 1759）中遭到了最辛辣的讽刺。小说中的邦格罗斯博士（Dr. Pangloss）——莱布尼茨的漫画——在面对地震、战争、瘟疫等一连串灾难时，仍然坚称"一切都是为了最好的结果"。伏尔泰通过荒诞的对比——邦格罗斯的高谈阔论和残酷的现实——揭示了哲学乐观主义在面对人类苦难时的荒谬和冷漠。
+
+Leibniz's optimism received its sharpest satirical treatment in Voltaire's *Candide* (1759). The novel's Dr. Pangloss — a caricature of Leibniz — insists "all is for the best" amid earthquakes, wars, plagues, and a cascade of disasters. Through absurd juxtaposition of Pangloss's philosophical platitudes and cruel reality, Voltaire exposed the absurdity and callousness of philosophical optimism in the face of human suffering.
+
+但公平地说，伏尔泰讽刺的是一种被简化了的莱布尼茨主义——莱布尼茨本人从未否认恶的现实性，他只是从形而上学的角度论证了这个世界在整体上是最优的。
+
+However, Voltaire was satirizing a simplified Leibnizianism — Leibniz himself never denied the reality of evil; he only argued metaphysically that the world is globally optimal.
+
+## 东西方对话 / East-West Dialogue
+
+莱布尼茨的"最好世界"理论与佛教的"世间即苦"形成了根本性的对立。佛教的四圣谛以"苦"为出发点，认为现实世界本质上是充满苦难的轮回（saṃsāra），需要通过修行来超越。而莱布尼茨则认为这个世界已经是最好的，恶只是善的必要组成部分。
+
+Leibniz's "best world" theory fundamentally opposes Buddhism's "the world is suffering." The Four Noble Truths begin with suffering, viewing the phenomenal world as saṃsāra — inherently filled with suffering, to be transcended through practice. Leibniz holds this world is already the best, with evil as a necessary component of good.
+
+然而，两者之间存在一个有趣的汇合点：莱布尼茨认为道德的恶源于自由意志，而佛教认为苦源于无明和执著——两者都将世界的"缺陷"追溯到某种认知或意志状态。
+
+Yet there is an interesting convergence: Leibniz attributes moral evil to free will; Buddhism attributes suffering to ignorance and clinging — both trace the world's "defects" to certain cognitive or volitional states.
+
+## 参考文献 / References
+
+- Leibniz, G. W. *Theodicy* (1710).
+- Leibniz, G. W. *Monadology*, §§53–55.
+- Jorati, J. (2021). *Leibniz on Free Will*. Oxford University Press.
+- Murray, M. J. (2013). "Leibniz on Divine Foreknowledge and Free Will." In *Leibniz: New Essays*.
+
+## 相关概念 / Related Concepts
+
+- [可能世界](possible-worlds.md) — 最好世界是从无限可能中选出的
+- [充足理由律](sufficient-reason.md) — 上帝选择最好世界的理由
+- [单子论](monad.md) — 最好世界的形而上学结构

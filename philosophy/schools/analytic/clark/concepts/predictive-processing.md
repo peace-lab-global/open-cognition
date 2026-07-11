@@ -1,0 +1,35 @@
+---
+id: clark-predictive-processing
+title: 预测加工 · Predictive Processing
+type: concept
+thinker: clark
+domain: philosophy
+school: analytic
+tags: [prediction, brain, perception, action]
+---
+# 预测加工 · Predictive Processing
+
+## 概念定位 / Conceptual Position
+大脑是"预测机器"——持续用内部模型预测感知输入，以最小化预测误差。Clark强调预测加工与延展认知的兼容性。
+
+The brain is a "prediction machine" — continuously predicting sensory input to minimize prediction error. Clark emphasizes compatibility with extended cognition.
+
+## 核心论述 / Core Argument
+
+### 与Hohwy的区别 / Difference from Hohwy
+Hohwy强调大脑的"隔绝性"（secluded brain），Clark则强调预测系统可以延展至外部工具和环境——预测不仅发生在大脑内部，也发生在人-工具-环境的耦合系统中。
+
+Hohwy emphasizes the "secluded brain"; Clark emphasizes that predictive systems can extend to external tools and environment.
+
+### 感知、行动与学习 / Perception, Action, and Learning
+- **感知 / Perception**: 自上而下的预测与自下而上的误差信号的整合
+- **行动 / Action**: 主动选择使感知与预测一致的行动
+- **学习 / Learning**: 更新内部模型以减少长期预测误差
+
+## 哲学意义 / Philosophical Significance
+统一了感知、行动和学习的理论框架，影响认知科学和AI。
+
+## 相关概念 / Related Concepts
+- [延展心智 Extended Mind](extended-mind.md)
+- [具身认知 Embodied Cognition](embodied-cognition.md)
+- [克拉克主页](../README.md)

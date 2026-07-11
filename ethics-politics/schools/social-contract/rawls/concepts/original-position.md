@@ -1,0 +1,152 @@
+---
+id: rawls-original-position
+title: "原初状态 · Original Position"
+type: concept
+thinker: rawls
+domain: ethics-politics
+school: social-contract
+tags: [original-position, social-contract, hypothetical, fairness, constructivism, rawls]
+cross-refs:
+  - id: rawls
+    relation: thinker
+  - id: hobbes
+    relation: 对比(自然状态)
+  - id: locke
+    relation: 对比(自然状态)
+  - id: rousseau
+    relation: 对比(自然状态)
+  - id: kant
+    relation: 哲学根源(自律)
+  - id: rawls-veil-of-ignorance
+    relation: 关联概念
+  - id: rawls-justice-as-fairness
+    relation: 上位概念
+---
+
+# 原初状态 · Original Position
+
+## 概念概述 / Concept Overview
+
+原初状态是罗尔斯构建的一个**纯粹假设性的思想实验**——在无知之幕背后，自由平等的理性人选择治理社会基本结构的原则。它的功能是替代传统社会契约论中的"自然状态"概念：不是解释国家的历史起源，而是为正义原则提供论证工具。每个公民都可以独立进入原初状态进行推理——它不是一个需要代表出席的真实会议，而是一个任何人都可以运用的理性思考程序。
+
+The Original Position is a **purely hypothetical thought experiment** constructed by Rawls — behind a veil of ignorance, free and equal rational persons choose the principles that will govern the basic structure of society. Its function is to replace the "state of nature" concept in traditional social contract theory: not to explain the historical origin of the state, but to provide a justificatory tool for principles of justice. Every citizen can independently enter the original position to reason — it is not a real assembly requiring representation, but a rational thinking procedure that anyone can employ.
+
+原初状态的设计并非任意的——每一个设计特征都对应着一个道德直觉或哲学论证。对称性反映了"人是平等的道德主体"这一信念；无知之幕反映了"自然禀赋的分配不应决定人生前景"这一直觉；最大最小规则反映了"面对极端不确定性时的理性审慎"这一判断。
+
+The design of the original position is not arbitrary — every design feature corresponds to a moral intuition or philosophical argument. Symmetry reflects the conviction that "persons are equal moral agents"; the veil of ignorance reflects the intuition that "the distribution of natural endowments should not determine life prospects"; the maximin rule reflects the judgment of "rational prudence in the face of extreme uncertainty."
+
+## 理论内涵 / Theoretical Content
+
+### 设计特征 / Design Features
+
+原初状态的设计遵循四项核心约束（The design follows four core constraints）：
+
+**1. 对称性 / Symmetry** — 各方地位平等，无人拥有更大的议价能力或威胁能力。这反映了"道德平等"的基本信念：没有人生来就应该比别人拥有更多的政治权力。
+Parties hold equal positions; no one has greater bargaining power or threat capacity. This reflects the basic conviction of "moral equality": no one is born deserving more political power than others.
+
+**2. 信息屏蔽 / Information Blocking** — 无知之幕排除偏见与特权信息。各方不知道自己的具体身份，但保留一般性知识（经济学、心理学法则）。
+The veil of ignorance excludes biased and privileged information. Parties do not know their specific identities but retain general knowledge (laws of economics, psychology).
+
+**3. 相互冷淡 / Mutual Disinterest** — 各方不关心他人利益（非利他主义假设），但也不是敌意的。这一假设是最小化的动机假设——它不预设人是自私的，只是不预设人是利他的。
+Parties are not concerned with others' interests (not an altruism assumption), but neither are they hostile. This is a minimal motivational assumption — it does not presume selfishness, only refrains from presuming altruism.
+
+**4. 一次选择 / One-time Choice** — 原则一经采纳即永久约束社会基本结构，选择者必须为自己的子孙后代负责。
+Once adopted, principles permanently bind the basic structure of society; choosers must take responsibility for their descendants.
+
+### 与自然状态的系统比较 / Systematic Comparison with the State of Nature
+
+| 要素 / Element | 霍布斯 / Hobbes | 洛克 / Locke | 卢梭 / Rousseau | 罗尔斯 / Rawls |
+|---|---|---|---|---|
+| 性质 / Nature | 历史假说 / Historical hypothesis | 半历史 / Semi-historical | 历史假说 / Historical hypothesis | 纯粹假设 / Purely hypothetical |
+| 参与者 / Participants | 有具体特征的人 / Concrete persons | 有自然权利的人 / Persons with natural rights | 自由但无知的人 / Free but ignorant persons | 抽象理性人 / Abstract rational persons |
+| 功能 / Function | 解释国家起源 / Explain state origin | 限制政府权力 / Limit government | 恢复自由平等 / Restore freedom/equality | 证成正义原则 / Justify justice principles |
+| 动机 / Motivation | 恐惧（暴力死亡）/ Fear | 保护财产 / Protect property | 克服社会异化 / Overcome alienation | 理性自利+公平 / Rational self-interest + fairness |
+| 结果 / Result | 绝对主权 / Absolute sovereignty | 有限政府 / Limited government | 公意 / General will | 正义二原则 / Two principles |
+
+### "纯粹假设性"的含义 / The Meaning of "Purely Hypothetical"
+
+罗尔斯明确强调（Rawls explicitly emphasizes）：
+
+- 原初状态**从未**在历史上存在过（The original position has **never** existed historically）
+- 它不是关于人类起源的假说（It is not a hypothesis about human origins）
+- 它是一个**论证工具**（It is a **justificatory tool**）：如果你接受设计原初状态的道德约束，你逻辑上必须接受从中导出的正义原则
+- 其功能类似数学中的"理想实验"或物理学中的"理想气体"——不真实存在，但揭示了真实世界的结构
+  Its function is analogous to "ideal experiments" in mathematics or "ideal gases" in physics — they do not actually exist, but they reveal the structure of the real world
+
+### 代表的功能 / The Function of Representation
+
+每个公民都可以**进入**原初状态进行推理——它不是一个需要代表出席的真实会议，而是一个任何人都可以独立进行的理性思考程序。这使得原初状态成为民主审议的思想工具：在公共讨论中，公民可以问自己："如果我不知道自己将处于什么位置，我会同意这个政策吗？"
+
+Every citizen can **enter** the original position to reason — it is not a real assembly requiring representation but a rational thinking procedure that anyone can independently conduct. This makes the original position a thought tool for democratic deliberation: in public discussion, citizens can ask themselves, "If I did not know what position I would occupy, would I agree to this policy?"
+
+## 思想史脉络 / Intellectual History
+
+原初状态在哲学史上的先驱包括（Precursors in philosophical history include）：
+
+**康德的道义论 / Kantian Deontology**：原初状态是康德"自律"概念的程序化实现——理性人为自己立法，不受感性欲望或社会权力的支配。但罗尔斯是康德式的**建构主义**，而非先验唯心论：原则不是"发现"的，而是在特定程序中被"建构"的。
+
+The original position is a procedural realization of Kant's "autonomy" concept — rational agents legislate for themselves, free from the dominion of sensuous desires or social power. But Rawls is a Kantian **constructivist**, not a transcendental idealist: principles are not "discovered" but "constructed" within a specific procedure.
+
+**亚当·斯密的"公正旁观者" / Adam Smith's "Impartial Spectator"**：斯密在《道德情操论》中提出的"公正旁观者"——一个能够超越个人偏见进行道德判断的理想观察者——与罗尔斯的原初状态共享"中立性"这一核心理念。
+
+Smith's "impartial spectator" in *The Theory of Moral Sentiments* — an ideal observer capable of making moral judgments beyond personal bias — shares with Rawls's original position the core idea of "impartiality."
+
+**卢梭的"公意" / Rousseau's "General Will"**：卢梭区分了"公意"（共同利益的表达）与"众意"（个人利益的加总）。原初状态的设计旨在确保选择结果反映"公意"——因为无知之幕排除了追求特殊利益的可能。
+
+Rousseau distinguished the "general will" (expression of common interest) from the "will of all" (aggregation of individual interests). The original position's design aims to ensure that chosen outcomes reflect the "general will" — because the veil of ignorance eliminates the possibility of pursuing special interests.
+
+## 关键文本 / Key Passages
+
+> "在原初状态中，各方被理解为同意……他们不知道自己在社会中的位置——他们的阶级地位或社会身份，他们在自然天赋和能力分配中的运气，他们的善的观念，或他们心理倾向的特征。"
+>
+> "In the original position, the parties are understood as agreeing... They do not know their place in society — their class position or social status, their fortune in the distribution of natural assets and abilities, their conception of the good, or the particulars of their psychological propensities."
+> — *A Theory of Justice* (1971), §3
+
+> "原初状态是这样一种状态，在其中关于正义原则的选择是在公平条件下进行的。它不是要被认为是一种实际的历史状态……它被理解为一种纯粹假设性的情境，其目的是建立一个关于正义的阿基米德点。"
+>
+> "The original position is a state in which the choice of principles of justice is made under fair conditions. It is not to be thought of as an actual historical state... It is understood as a purely hypothetical situation designed to establish an Archimedean point for justice."
+> — *A Theory of Justice* (1971), §4
+
+## 当代应用 / Contemporary Applications
+
+- **政策评估 / Policy Evaluation** — 原初状态提供了一种"公平性检测"：在评估任何政策时，决策者应当自问"如果我不知道这一政策将如何影响我自己和我所爱的人，我还会支持它吗？"
+  The original position provides a "fairness test": when evaluating any policy, decision-makers should ask, "If I did not know how this policy would affect me and those I love, would I still support it?"
+
+- **国际制度设计 / International Institutional Design** — 罗尔斯在《万民法》中将原初状态扩展到国际层面——"第二原初状态"中，各人民（而非个人）的代表在无知之幕背后选择国际正义原则。
+  In *The Law of Peoples*, Rawls extends the original position to the international level — in a "second original position," representatives of peoples (rather than individuals) choose international justice principles behind a veil of ignorance.
+
+- **企业伦理 / Business Ethics** — 企业在设计内部制度（薪酬结构、晋升标准、申诉程序）时，可以运用原初状态的思想实验——"如果你是新入职的员工，不知道自己的能力和运气，你会同意这些规则吗？"
+  When designing internal systems (compensation structures, promotion criteria, grievance procedures), businesses can employ the original position thought experiment — "If you were a newly hired employee, not knowing your own abilities and luck, would you agree to these rules?"
+
+## 批评与回应 / Critiques and Responses
+
+- **批评 / Critique**（哈贝马斯 Habermas）：原初状态是一个"独白式"的程序——一个哲学家独自设计条件并推导出结论。应改为"对话式"的公共审议程序。
+  The original position is a "monological" procedure — a single philosopher designs the conditions and derives conclusions. It should be replaced by a "dialogical" procedure of public deliberation.
+  → **回应 / Response**：罗尔斯承认这一点，但认为原初状态的设计本身可以通过公共讨论来检验和修正——它是一个开放的思想工具，而非封闭的独断。
+  Rawls acknowledged this but argued that the design of the original position can itself be tested and revised through public discussion — it is an open thought tool, not a closed dogma.
+
+- **批评 / Critique**（社群主义 Communitarian）：原初状态中的人是"无负荷的自我"——没有历史、传统和社群归属，这不是真实的人。
+  Persons in the original position are "unencumbered selves" — without history, tradition, or community attachment, which are not real persons.
+  → **回应 / Response**：原初状态中的人确实被抽象化了，但这是一种**方法论抽象**——目的是排除偏见，而非否认人在现实中具有社群归属。在《政治自由主义》中，罗尔斯更明确地将人理解为嵌入特定传统中的公民。
+  Persons in the original position are indeed abstracted, but this is a **methodological abstraction** — aimed at excluding bias, not denying that persons in reality have communal attachments. In *Political Liberalism*, Rawls more explicitly conceives persons as citizens embedded in particular traditions.
+
+- **批评 / Critique**（理性选择理论 Rational Choice Theory）：原初状态中的最大最小规则不是唯一理性的选择策略——期望效用最大化在概率未知的情况下同样合理。
+  The maximin rule in the original position is not the only rational choice strategy — expected utility maximization is equally rational when probabilities are unknown.
+  → **回应 / Response**：罗尔斯论证最大最小规则在特定条件下（一次性、不可逆、极端后果）是唯一合理的——这与日常投资决策不同，因为赌注是你的一生基本利益。
+  Rawls argues that maximin is the only reasonable rule under specific conditions (one-time, irreversible, extreme consequences) — this differs from everyday investment decisions because the stakes are your fundamental life interests.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+- **儒家"格物致知" / Confucian "Ge Wu Zhi Zhi"** — 儒家通过反省和推己及人来达到公正判断，与进入原初状态进行推理的过程在方法论上有呼应之处——两者都要求超越个人偏见以获得普遍有效的结论。
+  Confucianism achieves impartial judgment through self-reflection and extending oneself to others, which methodologically echoes the process of entering the original position to reason — both require transcending personal bias to reach universally valid conclusions.
+
+- **印度"neti neti"（非此非彼）/ Indian "Neti Neti" (Not this, not that)** — 印度哲学中通过否定特定属性来接近真理的方法，与无知之幕通过遮蔽特定信息来接近正义的逻辑在结构上相似。
+  The Indian philosophical method of approaching truth by negating specific attributes is structurally similar to the veil of ignorance's logic of approaching justice by blocking specific information.
+
+## 延伸阅读 / Further Reading
+
+- Freeman, Samuel. "Original Position" (*Stanford Encyclopedia of Philosophy*) — 最权威的学术综述
+- Habermas, Jürgen. "Reconciliation through the Public Use of Reason" (1995) — 审议民主的替代方案
+- Barry, Brian. *Theories of Justice* (1989) — 系统的比较分析
+- Scanlon, T.M. "Rawls' Theory of Justice" (1973) — 早期经典评论
+- 石元康《罗尔斯》第 3 章 — 最佳中文解读

@@ -1,0 +1,77 @@
+---
+id: peirce-timeline
+title: 皮尔士生平年表 · Peirce Biography Timeline
+type: timeline
+domain: philosophy
+school: pragmatism
+thinker: peirce
+tags: [peirce, timeline, biography]
+cross-refs:
+  - id: peirce
+    relation: thinker
+---
+
+# 皮尔士生平年表 · Peirce Biography Timeline
+
+## 早年与学术训练（1839–1869）
+
+| 年份 | 事件 |
+|------|------|
+| 1839.9.10 | 生于马萨诸塞州剑桥，父 Benjamin Peirce（哈佛数学教授） |
+| 1850s | 在父亲指导下接受严格的数学和逻辑训练 |
+| 1855 | 进入哈佛大学劳伦斯科学学院 |
+| 1859 | 获哈佛文学学士学位 |
+| 1862 | 获哈佛哲学博士学位（论文论莎士比亚发音） |
+| 1863 | 以最优成绩毕业于劳伦斯科学学院 |
+| 1864–1865 | 在哈佛讲授逻辑学 |
+| 1867 | 发表 "On a New List of Categories"——范畴表（第一性、第二性、第三性） |
+| 1868 | 发表 "On Some Consequences of Four Incapacities"——反笛卡尔主义宣言 |
+
+## 海岸测量局与形而上学俱乐部（1869–1884）
+
+| 年份 | 事件 |
+|------|------|
+| 1869 | 任职美国海岸与大地测量局（至1891），从事大地测量和重力研究 |
+| 1872 | 参与哈佛"形而上学俱乐部"（Metaphysical Club），与威廉·詹姆斯、乔姆西·赖特交流 |
+| 1877 | 发表 "The Fixation of Belief"——信念确立的四种方法 |
+| 1878 | 发表 "How to Make Our Ideas Clear"——首次陈述实用主义准则 |
+| 1879 | 受聘约翰·霍普金斯大学逻辑学讲师 |
+| 1882 | 发表 "The Law of Mind"——连续论 |
+| 1883 | 出版 *Studies in Logic*（霍普金斯逻辑研究小组论文集） |
+
+## 离开学术后的独立研究（1884–1914）
+
+| 年份 | 事件 |
+|------|------|
+| 1884 | 因个人丑闻（与第二任妻子 Juliette 的关系）被霍普金斯解聘 |
+| 1887 | 迁居宾夕法尼亚州米尔福德（Milford），在贫困中从事独立研究 |
+| 1887–1888 | 撰写 "A Guess at the Riddle"——宇宙论与符号学的综合 |
+| 1891–1893 | 在 *The Monist* 发表宇宙论系列论文 |
+| 1892 | 发表 "Evolutionary Love"——爱的宇宙论 |
+| 1893 | 发表 "The Doctrine of Necessity Examined"——反决定论 |
+| 1902 | 向卡内基研究所申请资助出版，被拒 |
+| 1903 | 在哈佛作实用主义讲演（Harvard Lectures on Pragmatism） |
+| 1904 | 写信给 Lady Welby 阐述符号学理论 |
+| 1905 | 发表 "What Pragmatism Is"，创造 "pragmaticism" 一词以区别于詹姆斯的通俗化版本 |
+| 1908 | 与 Lady Welby 的通信继续深化符号学 |
+| 1914.4.19 | 在米尔福德去世，享年74岁。大量手稿未发表 |
+
+## 死后影响
+
+| 时间 | 事件 |
+|------|------|
+| 1931–1958 | *Collected Papers* 8卷本出版（Hartshorne, Weiss, Burks 编） |
+| 1940 | *Philosophical Writings of Peirce* 出版（Buchler 编） |
+| 1950s | 符号学复兴—— Umberto Eco 等受皮尔士影响 |
+| 1976 | *The New Elements of Mathematics* 出版 |
+| 1982– | *Writings: A Chronological Edition* 开始出版（Peirce Edition Project） |
+| 1992–1998 | *The Essential Peirce* 2卷本出版 |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 学术训练与早期发表 | 1839–1869 | 范畴表、反笛卡尔 |
+| 实用主义诞生 | 1869–1884 | 形而上学俱乐部、实用主义准则 |
+| 独立研究与宇宙论 | 1884–1914 | 符号学、溯因、连续论 |
+| 死后影响 | 1931– | 全集出版、符号学复兴 |

@@ -1,0 +1,122 @@
+---
+id: cave-allegory
+title: 洞穴比喻 · Allegory of the Cave
+type: concept
+parent: plato
+domain: philosophy
+tags:
+  - epistemology
+  - education
+  - political-philosophy
+  - metaphysics
+---
+
+# 洞穴比喻 · Allegory of the Cave
+
+> "教育不是将视力放入盲眼，而是使已经能看的眼睛转向正确的方向。" — 《理想国》518b-c
+>
+> "Education is not putting sight into blind eyes, but turning the already seeing eye in the right direction." — *Republic* 518b-c
+
+---
+
+## 定义 Definition
+
+洞穴比喻（Allegory of the Cave, σπήλαιον）出自《理想国》第七卷（514a–520a），是柏拉图最著名的哲学隐喻。它描绘了一群从小被锁在洞穴中的囚徒，只能看到洞壁上的影子，并将这些影子当作真实的实在。当一位囚徒被解放、走出洞穴、最终看到太阳（善的理念）时，他的认识经历了从幻象到真理的完整转变。这个比喻综合了柏拉图的形而上学、认识论和教育哲学。
+
+The Allegory of the Cave (*spēlaion*) appears in *Republic* Book VII (514a–520a) and is Plato's most famous philosophical metaphor. It depicts prisoners chained since childhood in a cave, able to see only shadows on the wall, taking these shadows for reality. When one prisoner is freed, exits the cave, and ultimately sees the sun (the Form of the Good), his cognition undergoes a complete transformation from illusion to truth. The allegory synthesizes Plato's metaphysics, epistemology, and philosophy of education.
+
+---
+
+## 比喻的详细结构 Detailed Structure
+
+### 第一层：洞穴内部 Level 1: Inside the Cave
+囚徒从出生起被锁链束缚，面朝洞壁。身后有一堆火，火与囚徒之间有人举着各种物品走过。囚徒只能看到物品在洞壁上的影子，并将这些影子当作唯一的实在。他们为能准确预测影子的规律而互相竞争荣誉。
+
+Prisoners are chained from birth, facing the cave wall. Behind them burns a fire, and between the fire and prisoners, people carry various objects. Prisoners see only the shadows of these objects on the wall and take them for the only reality. They compete for honors based on their ability to predict shadow patterns accurately.
+
+### 第二层：解放与转向 Level 2: Liberation and Turning
+一位囚徒被解开锁链（这过程是痛苦的），被迫转身看到火和物品。起初他的眼睛因火光而刺痛，他宁愿回到影子世界。但经过适应，他认识到影子只是物品的影像，物品比影子更真实。
+
+One prisoner is unchained (a painful process) and forced to turn around to see the fire and objects. Initially, his eyes ache from the firelight; he would rather return to the shadow world. But after adjustment, he realizes the shadows are mere images of the objects, and objects are more real than shadows.
+
+### 第三层：走出洞穴 Level 3: Exiting the Cave
+囚徒被强制拖出洞穴。阳光使他暂时失明。逐渐地，他先看到水中的倒影，然后看到真实的事物，然后看到夜空中的星辰，最终看到太阳本身——善的理念。
+
+The prisoner is forcibly dragged out of the cave. Sunlight temporarily blinds him. Gradually, he first sees reflections in water, then real objects, then stars at night, and finally the sun itself—the Form of the Good.
+
+### 第四层：返回洞穴 Level 4: Return to the Cave
+解放者出于责任返回洞穴，试图解救其他囚徒。但他的眼睛已适应光明，在黑暗中看不清影子。其他囚徒嘲笑他"上去一趟把眼睛弄坏了"，并威胁说谁敢解放他们，就要杀死谁。
+
+The liberated one returns to the cave out of duty, attempting to free the other prisoners. But his eyes, now adapted to light, cannot see the shadows clearly in darkness. The other prisoners mock him—"going up ruined his eyes"—and threaten to kill anyone who tries to free them.
+
+---
+
+## 哲学解读 Philosophical Interpretation
+
+| 比喻元素 Allegorical Element | 哲学含义 Philosophical Meaning |
+|---------------------------|-------------------------------|
+| 洞穴 The Cave | 可感世界（the visible world）/ The visible realm |
+| 锁链 The Chains | 感官和习惯的束缚 / Bondage of senses and habit |
+| 影子 Shadows | 意见（doxa）；模仿品 / Opinion; imitations |
+| 火 The Fire | 太阳在可感世界中的代理 / The sun's proxy in the visible world |
+| 洞外的物品 Objects outside | 理念（Forms）/ The Forms |
+| 太阳 The Sun | 善的理念（Form of the Good）/ The Form of the Good |
+| 转身/上升 The Turning/Ascent | 教育（paideia）/ Education |
+| 返回 The Return | 哲学家的政治责任 / The philosopher's political duty |
+
+---
+
+## 与线喻和日喻的关系 Relation to the Line and Sun Analogies
+
+洞穴比喻是《理想国》第六卷中日喻（Sun Analogy）和线喻（Divided Line）的叙事化表达：
+
+The Cave allegory is the narrativized expression of the Sun Analogy and Divided Line from *Republic* Book VI:
+
+- **日喻 Sun Analogy**：太阳之于可感世界，如同善的理念之于可知世界。
+- **线喻 Divided Line**：将认知分为四个层次——想象（eikasia）→ 信念（pistis）→ 数学推理（dianoia）→ 理性直观（noēsis），对应洞穴中的影子、洞外物品、星辰和太阳。
+
+- **Sun Analogy**: As the sun is to the visible world, so the Form of the Good is to the intelligible world.
+- **Divided Line**: Four levels of cognition—imagination (*eikasia*) → belief (*pistis*) → mathematical reasoning (*dianoia*) → rational intuition (*noēsis*), corresponding to shadows, objects outside, stars, and the sun in the cave.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与佛教"无明"与"觉悟" Dialogue with Buddhist Avidyā and Awakening
+
+洞穴比喻与佛教的"无明"（avidyā）— "觉悟"（bodhi）叙事具有深刻的结构平行性。囚徒将影子当作真实，如同众生将五蕴当作"我"（ātman）——这是根本的认知错误。走出洞穴看到太阳，如同修行者破除无明、证入真如（tathatā）。返回洞穴度化众生，如同菩萨的"回向"（parināmanā）——自觉之后觉他。
+
+然而，关键差异在于：柏拉图的太阳（善的理念）是一个正面的、客观的实在，而佛教的"真如"恰恰是对所有"实在"执著的超越。柏拉图是从幻象走向真实；佛教是从执著走向空性。
+
+The Cave allegory shares deep structural parallels with the Buddhist *avidyā* (ignorance) to *bodhi* (awakening) narrative. Prisoners taking shadows for reality parallels sentient beings taking the five aggregates for a "self"—a fundamental cognitive error. Exiting the cave to see the sun parallels the practitioner breaking through ignorance to realize *tathatā*. Returning to liberate others parallels the bodhisattva's *parināmanā* (dedication)—awakening others after self-awakening.
+
+However, a key difference: Plato's sun (Form of the Good) is a positive, objective reality, while Buddhist *tathatā* is precisely the transcendence of all attachment to "reality." Plato moves from illusion to reality; Buddhism moves from attachment to emptiness (*śūnyatā*).
+
+### 与道家"坐忘"与"心斋" Dialogue with Daoist "Sitting and Forgetting" and "Fasting of the Mind"
+
+庄子描述的"坐忘"（《大宗师》）——"堕肢体，黜聪明，离形去知，同于大通"——可以被视为一种"走出洞穴"的道家版本。但道家的"洞穴之外"不是一个理念世界，而是与万物融为一体的自然状态。柏拉图的解放是"向上"的理性攀升；庄子的解放是"向内"的自然回归。
+
+Zhuangzi's "sitting and forgetting" (*Dazongshi*)—"letting fall the body, dismissing perception, leaving form and abandoning knowledge, merging with the Great Thoroughfare"—can be seen as a Daoist version of "exiting the cave." But the Daoist "outside the cave" is not a world of Forms but a natural state of unity with all things. Platonic liberation is an "upward" rational ascent; Zhuangzian liberation is an "inward" natural return.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **媒体批判 Media Criticism**：洞穴比喻被广泛用于分析媒体操控——电视、社交媒体上的"影子"是否构成了我们的"现实"？（参见 Postman《娱乐至死》、Baudrillard 的"拟像"理论）
+- **虚拟现实 Virtual Reality**：数字时代的"洞穴"——沉浸式的虚拟体验是否是更精致的锁链？
+- **教育哲学 Philosophy of Education**：Freire《被压迫者教育学》直接引用洞穴比喻，主张教育应当是"觉醒"而非"灌输"。
+- **政治哲学 Political Philosophy**：哲学家"返回洞穴"的义务——知识分子参与公共事务的道德责任。
+
+- **Media criticism**: The Cave is widely used to analyze media manipulation—do "shadows" on TV and social media constitute our "reality"? (Cf. Postman's *Amusing Ourselves to Death*, Baudrillard's "simulacra")
+- **Virtual reality**: The digital-age "cave"—are immersive virtual experiences more sophisticated chains?
+- **Philosophy of education**: Freire's *Pedagogy of the Oppressed* directly invokes the Cave, arguing education should be "awakening" not "indoctrination."
+- **Political philosophy**: The philosopher's duty to "return to the cave"—intellectuals' moral responsibility for public engagement.
+
+---
+
+## 相关条目 Related Entries
+
+- [理念论 Theory of Forms](theory-of-forms.md)
+- [哲学王 Philosopher-King](philosopher-king.md)
+- [柏拉图 · 柏拉图](../README.md)
+- [认识论 Epistemology](../../concepts/epistemology.md)

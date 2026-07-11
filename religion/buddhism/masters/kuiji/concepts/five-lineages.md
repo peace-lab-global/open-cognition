@@ -1,0 +1,98 @@
+---
+id: kuiji-five-lineages
+title: 五种姓 / Panca-gotra (Five Spiritual Lineages)
+type: concept
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+tags: [gotra, lineage, soteriology, buddha-nature, icchantika, Faxiang]
+---
+
+# 五种姓 / Panca-gotra (Five Spiritual Lineages)
+
+## 定义 / Definition
+
+五种姓（panca-gotra）是法相唯识宗关于修行者精神潜能的分类体系，将一切有情众生分为五类：声闻种姓、缘觉种姓、菩萨种姓、不定种姓、无种姓。每一种姓代表不同的解脱路径和终极归宿。这一理论在中国佛教中引发了深远的争论，因为它与"一切众生皆有佛性"的主流信念形成了尖锐的张力。
+
+The five spiritual lineages (panca-gotra) constitute the Faxiang school's classification of beings' spiritual potentials, dividing all sentient beings into five categories: the Sravaka lineage, Pratyekabuddha lineage, Bodhisattva lineage, indeterminate lineage, and the lineageless (icchantika). Each lineage represents a different soteriological path and ultimate destination. This doctrine provoked profound controversy in Chinese Buddhism because it stood in sharp tension with the mainstream conviction that "all sentient beings possess Buddha-nature."
+
+## 五种姓详解 / The Five Lineages in Detail
+
+### 1. 声闻种姓 Sravaka-gotra (Disciple Lineage)
+
+声闻种姓的修行者通过听闻佛陀教法，修习四谛（苦、集、灭、道），最终证得阿罗汉果（arhat），入无余涅盘。其目标是个人解脱，不以求无上菩提为志向。
+
+Practitioners of the Sravaka lineage achieve liberation by hearing the Buddha's teachings, practicing the Four Noble Truths (suffering, origination, cessation, path), and ultimately attaining arhat-hood, entering final nirvana. Their goal is individual liberation without aspiring to unsurpassed supreme enlightenment.
+
+### 2. 缘觉种姓 Pratyekabuddha-gotra (Solitary Realizer Lineage)
+
+缘觉种姓的修行者不依赖佛陀的直接教导，而是通过独自观察十二因缘（pratityasamutpada）而觉悟。他们证得辟支佛果（pratyekabuddha），但同样不以度化一切众生为目标。
+
+Practitioners of the Pratyekabuddha lineage attain awakening not through the Buddha's direct teaching but through solitary contemplation of the twelve links of dependent origination. They realize the fruit of a pratyekabuddha but likewise do not aim to liberate all sentient beings.
+
+### 3. 菩萨种姓 Bodhisattva-gotra (Bodhisattva Lineage)
+
+菩萨种姓的修行者发起菩提心（bodhicitta），誓愿度化一切众生，修习六波罗蜜（布施、持戒、忍辱、精进、禅定、般若），经三大阿僧只劫，最终证得无上正等正觉（anuttara-samyak-sambodhi）。这是大乘佛教的理想路径。
+
+Practitioners of the Bodhisattva lineage generate bodhicitta (the aspiration for enlightenment), vow to liberate all sentient beings, practice the six paramitas (generosity, ethics, patience, diligence, meditation, wisdom), and after three great incalculable eons ultimately attain unsurpassed supreme enlightenment. This is the ideal path of Mahayana Buddhism.
+
+### 4. 不定种姓 Aniyata-gotra (Indeterminate Lineage)
+
+不定种姓的修行者具备多种潜能，可能根据因缘而走上声闻、缘觉或菩萨的道路。其最终归宿取决于修行过程中的选择和引导。窥基认为这一类众生的存在证明了种姓不是绝对的宿命论。
+
+Practitioners of the indeterminate lineage possess multiple potentials and may follow the Sravaka, Pratyekabuddha, or Bodhisattva path depending on conditions. Their ultimate destination depends on choices and guidance during practice. Kuiji argued that the existence of this category demonstrates that lineage is not absolute fatalism.
+
+### 5. 无种姓 Agotra / Icchantika (Lineageless)
+
+无种姓（一阐提，icchantika）的众生缺乏解脱的种子，永远无法证得涅盘。他们将在六道中不断轮回。这是最具争议的一类——中国佛教主流（天台、华严、禅宗等）坚持"一切众生皆有佛性"，因此不接受"无种姓"的存在。
+
+Beings of the lineageless category (icchantika) lack the seeds of liberation and can never attain nirvana. They remain trapped in the cycle of rebirth through the six realms. This is the most controversial category -- mainstream Chinese Buddhism (Tiantai, Huayan, Chan, etc.) insists that "all sentient beings possess Buddha-nature" and therefore rejects the existence of a lineageless category.
+
+## 窥基的辩护 / Kuiji's Defense
+
+窥基在《成唯识论述记》和其他著作中为五种姓说进行了系统的辩护：
+
+Kuiji systematically defended the five-lineage doctrine in his *Cheng Weishi Lun Shuji* and other works:
+
+### 经论依据 / Scriptural Basis
+
+窥基指出，五种姓说有充分的经论依据，包括《解深密经》（Sandhinirmocana-sutra）、《瑜伽师地论》（Yogacarabhumi-sastra）和《楞伽经》（Lankavatara-sutra）。这些经典明确提到众生有不同的根器和种姓。
+
+Kuiji pointed out that the five-lineage doctrine has robust scriptural support, including the *Sandhinirmocana Sutra*, the *Yogacarabhumi Sastra*, and the *Lankavatara Sutra*. These texts explicitly state that sentient beings have different faculties and lineages.
+
+### 逻辑必要性 / Logical Necessity
+
+如果一切众生都有佛性，那么为什么现实中众生的修行意愿和能力存在如此巨大的差异？为什么有些人对佛法毫无感应？五种姓说提供了一个解释框架：差异源于无始以来的种子积累不同，而非偶然。
+
+If all sentient beings possess Buddha-nature, why do beings' willingness and capacity for practice vary so enormously in reality? Why are some people utterly unresponsive to the Dharma? The five-lineage theory provides an explanatory framework: differences stem from divergent accumulations of seeds since beginningless time, not from chance.
+
+### 与一乘思想的张力 / Tension with One-Vehicle Thought
+
+中国佛教主流受《法华经》"一乘"（ekayana）思想影响，认为一切众生最终都将成佛。窥基则区分了"理佛性"（一切众生在理体上与佛无别）和"行佛性"（实际上能否成佛取决于种姓），试图调和这一矛盾。
+
+Mainstream Chinese Buddhism, influenced by the "one vehicle" (ekayana) doctrine of the Lotus Sutra, holds that all beings will ultimately attain Buddhahood. Kuiji distinguished between "Buddha-nature in principle" (all beings are in essence no different from the Buddha) and "Buddha-nature in practice" (whether one can actually attain Buddhahood depends on lineage), attempting to reconcile this contradiction.
+
+## 历史争议 / Historical Controversy
+
+五种姓说直接导致了法相宗在中国佛教中的边缘化。华严宗法藏、天台宗智者大师等中国佛学家都认为"一切众生皆有佛性"才是究竟说。法相宗因坚持五种姓说而被判为"不了义"（neyartha，非终极教义）。
+
+The five-lineage doctrine directly contributed to the Faxiang school's marginalization within Chinese Buddhism. Chinese Buddhist thinkers such as Fazang of the Huayan school and Zhiyi of the Tiantai school held that "all sentient beings possess Buddha-nature" is the definitive teaching. The Faxiang school was classified as teaching "provisional meaning" (neyartha) rather than definitive meaning due to its insistence on five lineages.
+
+## 当代反思 / Contemporary Reflections
+
+从当代视角看，五种姓说可以被重新理解为对**个体差异**的尊重——不是"宿命论"，而是承认人们在精神发展上确实处于不同的阶段和轨道。这与当代教育学中的"差异化教学"（differentiated instruction）和心理学中的"个体差异"理论形成了有趣的对话。
+
+From a contemporary perspective, the five-lineage doctrine can be reinterpreted as respect for **individual differences** -- not "fatalism" but an acknowledgment that people genuinely occupy different stages and trajectories of spiritual development. This enters into interesting dialogue with contemporary "differentiated instruction" in education and theories of individual differences in psychology.
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [百法明门](hundred-dharmas.md) -- 种姓的种子基础 / Seed basis of lineages
+- [阿赖耶识](../asanga-vasubandhu/concepts/alaya.md) -- 种姓种子的储存处 / Storage of lineage seeds
+- [佛性论](../asanga-vasubandhu/works.md) -- 世亲对佛性的讨论 / Vasubandhu on Buddha-nature
+
+## 进阶阅读 / Further Reading
+
+- 窥基《成唯识论述记》卷九
+- 窥基《法华玄赞》卷四（五种姓与一乘的调和）
+- Kritzer, R. (1995). *Vasubandhu and the Yogacarabhumi Sastra*. Kibun.
+- Liu, M. (2005). "The Problem of Icchantika in the Chinese Buddhist Tradition." *Journal of Indian Philosophy*.

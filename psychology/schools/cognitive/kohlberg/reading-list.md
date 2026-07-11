@@ -1,0 +1,93 @@
+---
+id: kohlberg-reading-list
+title: "柯尔伯格推荐阅读 · Lawrence Kohlberg Reading List"
+type: reading-list
+thinker: kohlberg-lawrence
+---
+
+# 柯尔伯格推荐阅读 · Lawrence Kohlberg Reading List
+
+## 一、原典精读 / Primary Works (Essential Reading)
+
+### 必读 / Must-Read
+
+1. **Kohlberg, L.** *Essays on Moral Development, Vol. 1: The Philosophy of Moral Development*. San Francisco: Harper & Row, 1981.
+   - 道德发展理论哲学基础最清晰的阐述，收录了"Stage and Sequence"和"From Is to Ought"等核心论文。适合专业读者深入理解正义原则的哲学论证。
+   - Clearest articulation of the philosophical foundations of moral development theory, including core papers "Stage and Sequence" and "From Is to Ought." Essential for professional readers.
+
+2. **Kohlberg, L.** *Essays on Moral Development, Vol. 2: The Psychology of Moral Development*. San Francisco: Harper & Row, 1984.
+   - 心理学证据与评估方法的系统呈现，包含MJI评分手册、纵向研究结果和跨文化比较。
+   - Systematic presentation of psychological evidence and assessment methods, including the MJI scoring manual, longitudinal findings, and cross-cultural comparisons.
+
+3. **Kohlberg, L.** "Stage and Sequence: The Cognitive-Developmental Approach to Socialization." In T. Mischel (Ed.), *Socialization and Society*. Academic Press, 1969.
+   - 理论系统化的经典论文，是将道德发展与罗尔斯正义论深度结合的标志性文本。
+   - Classic paper of theoretical systematization, the landmark text integrating moral development with Rawls's theory of justice.
+
+### 推荐阅读 / Recommended
+
+4. **Kohlberg, L.** "From Is to Ought." In T. Mischel (Ed.), *Cognitive Development and Epistemology*. Academic Press, 1971.
+   - 系统论证道德发展理论的哲学正当性，回应"实然-应然"的经典哲学问题。
+   - Systematic argument for the philosophical legitimacy of moral development theory.
+
+5. **Power, F.C., Higgins, A., & Kohlberg, L.** *Lawrence Kohlberg's Approach to Moral Education*. New York: Columbia University Press, 1989.
+   - 公正社群教育实践的系统阐述，展示道德教育如何在真实学校环境中运作。
+   - Systematic exposition of just community educational practice.
+
+6. **Kohlberg, L.** "Moral Stages and Moralization." In T. Lickona (Ed.), *Moral Development and Behavior*. Holt, Rinehart & Winston, 1975.
+   - 道德判断阶段与道德行为的系统区分，是理解"判断-行动"关系的关键文本。
+   - Systematic distinction between moral judgment stages and moral behavior.
+
+## 二、二手研究 / Secondary Research
+
+### 核心理论发展 / Core Theoretical Developments
+
+1. **Rest, J.R.** *Moral Development: Advances in Research and Theory*. New York: Praeger, 1986.
+   - DIT测验与四成分模型的原始阐述，是理解柯尔伯格理论后续发展的重要文献。
+   - Original exposition of the DIT test and Four Component Model.
+
+2. **Lapsley, D.K.** *Moral Psychology*. Boulder, CO: Westview Press, 1996.
+   - 综合评述道德心理学的理论发展与当代进展，对柯尔伯格理论有深入分析。
+   - Comprehensive review of theoretical developments and contemporary advances in moral psychology.
+
+3. **Crain, W.C.** *Theories of Development: Concepts and Applications*. 6th ed. Upper Saddle River, NJ: Pearson, 2011.
+   - 对柯尔伯格理论有教科书级别的清晰概述，适合初学者入门。
+   - Textbook-level clear overview of Kohlberg's theory, suitable for beginners.
+
+### 批判性回应 / Critical Responses
+
+4. **Gilligan, C.** *In a Different Voice: Psychological Theory and Women's Development*. Cambridge, MA: Harvard University Press, 1982.
+   - 关怀伦理学的奠基性批评，提出"关怀取向"作为"公正取向"的补充维度。
+   - Foundational critique establishing care ethics as a complementary dimension to justice orientation.
+
+5. **Turiel, E.** *The Development of Social Knowledge: Morality and Convention*. Cambridge: Cambridge University Press, 1983.
+   - 对道德与习俗领域的区分，修正和扩展了柯尔伯格的理论框架。
+   - Distinction between moral and conventional domains, modifying and extending Kohlberg's framework.
+
+6. **Haidt, J.** "The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment." *Psychological Review*, 108(4), 814-834, 2001.
+   - 社会直觉主义模型对柯尔伯格理性主义取向的重要挑战。
+   - The social intuitionist model's important challenge to Kohlberg's rationalist orientation.
+
+## 三、中文资源 / Chinese Resources
+
+1. **郭本禹**《道德发展心理学》. 上海教育出版社. — 国内最系统的道德发展研究著作
+2. **柯尔伯格**《道德教育的哲学》. 魏贤超等译. — 《道德发展文集》第一卷部分章节中译
+3. **陈会昌**《道德发展心理学》. 北京师范大学出版社. — 面向教育学专业的教材
+
+## 四、延伸阅读 / Extended Reading
+
+### 哲学基础 / Philosophical Foundations
+
+- **Rawls, J.** *A Theory of Justice*. Cambridge, MA: Harvard University Press, 1971. — 柯尔伯格后习俗阶段的哲学基础 / Philosophical foundation of post-conventional stages
+- **Kant, I.** *Groundwork of the Metaphysics of Morals*. — 绝对命令与道德自律 / Categorical imperative and moral autonomy
+- **Habermas, J.** *Moral Consciousness and Communicative Action*. MIT Press, 1990. — 商谈伦理学 / Discourse ethics
+
+### 道德教育 / Moral Education
+
+- **Lickona, T.** *Educating for Character*. New York: Bantam Books, 1991.
+- **Noddings, N.** *Caring: A Feminine Approach to Ethics and Moral Education*. Berkeley: University of California Press, 1984.
+- **Nucci, L.** *Education in the Moral Domain*. Cambridge: Cambridge University Press, 2001.
+
+### 神经伦理学 / Neuroethics
+
+- **Greene, J.** *Moral Tribes: Emotion, Reason, and the Gap Between Us and Them*. New York: Penguin, 2013.
+- **Gazzaniga, M.** *The Ethical Brain*. New York: Dana Press, 2005.

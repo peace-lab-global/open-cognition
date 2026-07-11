@@ -1,0 +1,27 @@
+---
+id: tolstoy-aesthetics-reading-list
+title: 托尔斯泰美学进阶阅读
+type: reading-list
+domain: aesthetics
+school: literary-thought
+thinker: tolstoy
+tags: [tolstoy, bibliography]
+cross-refs:
+  - id: tolstoy
+    relation: thinker
+---
+
+# 托尔斯泰美学进阶阅读
+
+## 原典
+- *War and Peace* (1869) — 历史合力论
+- *What Is Art?* (1897) — 艺术理论
+- *The Kingdom of God Is Within You* (1894) — 非暴力哲学
+
+## 批评
+- **Berlin, Isaiah** *The Hedgehog and the Fox* (1953)
+- **Troyat, Henri** *Tolstoï* (1965)
+- 茨威格《托尔斯泰传》
+
+## 中译本
+- 草婴 译《托尔斯泰小说全集》

@@ -1,0 +1,108 @@
+---
+id: bentham-legal-reform
+title: "法律改革 · Legal Reform"
+type: concept
+thinker: bentham
+domain: ethics-politics
+school: consequentialism
+tags:
+  - 法律改革
+  - 法典编纂
+  - 刑罚改革
+  - 立法科学
+---
+
+# 法律改革 · Legal Reform
+
+## 概念概述 / Concept Overview
+
+法律改革（Legal Reform）是边沁毕生事业的核心实践领域。边沁认为，法律不应是基于传统、先例和法官个人判断的混乱集合，而应当是由立法者根据功利原则精心设计、系统编纂的理性体系。他的法律改革纲领涵盖了几乎所有法律领域——刑法、民法、证据法、宪法、国际法——并提出了法典编纂（codification）作为实现法律理性化的核心手段。
+
+Legal Reform was the core practical domain of Bentham's life's work. Bentham believed that law should not be a chaotic aggregate based on tradition, precedent, and judges' personal judgments, but should be a rational system carefully designed and systematically codified by legislators according to the principle of utility. His legal reform agenda covered virtually every domain of law—criminal law, civil law, evidence law, constitutional law, international law—and proposed codification as the central means of achieving legal rationalisation.
+
+边沁的法律改革思想可以从两个层面理解：批判层面和建设层面。在批判层面，他对英国普通法传统进行了系统性的抨击，认为普通法的不确定性、复杂性和对法官裁量权的过度依赖导致了法律的不公正和低效率。在建设层面，他提出了一整套以功利原则为指导的立法科学，旨在用清晰、明确、系统的法典取代普通法的判例积累。
+
+Bentham's legal reform thought can be understood at two levels: critical and constructive. At the critical level, he systematically attacked the English common-law tradition, arguing that its uncertainty, complexity, and excessive reliance on judicial discretion produced injustice and inefficiency. At the constructive level, he proposed a complete science of legislation guided by the principle of utility, aiming to replace common-law case accumulation with clear, explicit, and systematic codes.
+
+## 理论内涵 / Theoretical Content
+
+边沁的法律改革理论建立在几个核心命题之上：
+
+Bentham's legal reform theory rests on several core propositions:
+
+**法律的功利基础。** 法律的唯一正当目的在于增进社会的整体幸福。任何法律规则，如果不能证明其有助于增进幸福，就缺乏存在的理由。这一命题从根本上否定了"法律自主性"的观念——法律不能仅仅因为"它是法律"而获得正当性。
+
+**The utilitarian foundation of law.** The sole legitimate purpose of law is to promote the overall happiness of society. Any legal rule that cannot demonstrate its contribution to augmenting happiness lacks reason for existence. This proposition fundamentally denies the notion of "legal autonomy"—law cannot derive legitimacy merely because "it is the law."
+
+**法典编纂的必要性。** 边沁主张将所有法律规则编纂为系统化的法典，使公民能够事先知道自己的权利和义务。他认为，普通法的判例制度本质上是一种"事后法"（ex post facto law）——公民无法事先知道法院将如何裁决，这违反了法律可预见性的基本要求。法典编纂不仅是一种技术改革，更是对公民自由的保护——只有当法律是清晰、公开和可预见的，公民才能据此合理安排自己的行为。
+
+**The necessity of codification.** Bentham advocated codifying all legal rules into systematic codes, enabling citizens to know their rights and obligations in advance. He argued that the common-law case system is essentially a form of "ex post facto law"—citizens cannot know in advance how courts will rule, violating the basic requirement of legal predictability. Codification is not merely a technical reform but a protection of citizens' liberty—only when law is clear, public, and predictable can citizens rationally arrange their conduct accordingly.
+
+**刑罚的比例原则。** 边沁在刑罚改革方面的贡献尤为突出。他提出刑罚应当遵循以下原则：（1）刑罚的痛苦必须大于犯罪所得的快乐，以产生威慑效果；（2）刑罚应当与犯罪的严重程度成比例，重罪重罚、轻罪轻罚；（3）刑罚应当以最小必要的痛苦量来实现威慑目的；（4）刑罚应当具有确定性，即犯罪被发现和惩罚的概率应当尽可能高。这些原则至今仍是现代刑法理论的基础。
+
+**The proportionality principle of punishment.** Bentham's contributions to penal reform were especially prominent. He proposed that punishment should follow these principles: (1) the pain of punishment must exceed the pleasure gained from crime to produce deterrence; (2) punishment should be proportional to the severity of the crime—heavier punishment for serious crimes, lighter for minor ones; (3) punishment should inflict the minimum pain necessary to achieve deterrence; (4) punishment should be certain, i.e., the probability of detection and punishment should be as high as possible. These principles remain foundational to modern criminal law theory.
+
+**证据理论的改革。** 边沁在证据法领域也做出了开创性贡献。他主张"自然证据制度"（natural system of evidence），反对当时流行的"技术证据制度"（technical system），后者依赖形式化的证据规则来排除某些类型的证据。边沁认为，所有相关证据都应当被采纳，由事实裁判者根据经验和理性来评估其可信度。这一主张预示了现代证据法的发展趋势。
+
+**Reform of evidence theory.** Bentham also made pioneering contributions to the law of evidence. He advocated a "natural system of evidence," opposing the prevailing "technical system" that relied on formalised evidentiary rules to exclude certain types of evidence. Bentham argued that all relevant evidence should be admitted, with the fact-finder assessing its credibility based on experience and reason. This advocacy anticipated developments in modern evidence law.
+
+## 思想史脉络 / Intellectual History
+
+边沁的法律改革思想直接继承和发展了贝卡里亚（Cesare Beccaria）的刑罚改革理论。贝卡里亚在1764年的《论犯罪与刑罚》中提出了刑罚应当确定、成比例、温和的基本原则，边沁将这些原则纳入更广泛的功利主义框架中。同时，边沁的法律理论也深受爱尔维修的影响——爱尔维修主张以"利益"为道德和法律的基础，边沁将这一思路系统化为完整的立法科学。
+
+Bentham's legal reform thought directly inherits and develops Cesare Beccaria's penal reform theory. In his 1764 *On Crimes and Punishments*, Beccaria proposed the fundamental principles that punishment should be certain, proportional, and mild; Bentham integrated these principles into a broader utilitarian framework. Bentham's legal theory was also deeply influenced by Helvétius, who advocated "interest" as the foundation of morality and law; Bentham systematised this approach into a complete science of legislation.
+
+边沁的法律改革思想在其生前并未在英国本土取得显著成效，但通过杜蒙的法文翻译在欧洲大陆产生了巨大影响。十九世纪欧洲各国的法典编纂运动——包括法国《拿破仑法典》的修订和德国法律改革——都受到边沁思想的启发。在英国，边沁的批评间接推动了1832年《改革法案》和此后一系列的法律改革。在美国，边沁的法典编纂思想对路易斯安那州等大陆法系传统的州产生了直接影响。
+
+Bentham's legal reform ideas did not achieve notable success in Britain during his lifetime, but through Dumont's French translations they exerted enormous influence on the European continent. The codification movements across Europe in the nineteenth century—including revisions to the Napoleonic Code and German legal reform—were all inspired by Bentham's thought. In Britain, Bentham's criticisms indirectly propelled the 1832 Reform Act and a subsequent series of legal reforms. In the United States, Bentham's codification ideas directly influenced civil-law-tradition states such as Louisiana.
+
+## 关键文本 / Key Passages
+
+> "The power of the legislator is founded solely on the physical sanction; and the laws, to be complete, must in every case embrace the whole of this sanction."
+>
+> — *IPML*, Chapter III
+
+边沁在此强调立法者权力的基础在于实际可执行的制裁力，而非抽象的道德权威。法律的有效性取决于其背后的制裁机制。
+Bentham here emphasises that the legislator's power is founded on physically enforceable sanctions rather than abstract moral authority. Law's effectiveness depends on the sanction mechanism behind it.
+
+> "Hope not to find the law without study: it is to be learnt as a science, to be acquired by labour."
+>
+> — *A Comment on the Commentaries*
+
+这一表述体现了边沁对法律确定性的追求——法律应当是一门可以被系统学习和理解的科学，而非需要依赖律师的模糊"技艺"。
+This statement embodies Bentham's pursuit of legal certainty—law should be a science that can be systematically learned and understood, not a vague "art" requiring reliance on lawyers.
+
+## 当代应用 / Contemporary Applications
+
+边沁的法律改革思想在当代仍然具有强大的生命力。全球范围内的法典编纂运动持续进行，从民法典的制定到刑法的修订，各国都在追求法律的系统化和明确化。在法律经济学领域，波斯纳（Richard Posner）等人将边沁的功利分析方法发展为系统的法律经济分析框架。在刑罚改革方面，恢复性司法、量刑指南、替代性刑罚等现代运动都可以追溯到边沁的刑罚理论。在证据法领域，边沁的"自然证据制度"理念在当代的证据法改革中得到了越来越多的体现。
+
+Bentham's legal reform ideas remain powerfully relevant today. Codification movements continue worldwide, from civil code drafting to criminal law revision, as nations pursue the systematisation and clarification of law. In law and economics, Richard Posner and others have developed Bentham's utilitarian analytical methods into a systematic framework of economic analysis of law. In penal reform, modern movements toward restorative justice, sentencing guidelines, and alternative punishments can all be traced to Bentham's penal theory. In evidence law, Bentham's "natural system" concept is increasingly reflected in contemporary evidence law reform.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一 / Critique 1:** 普通法传统的支持者（如伯克、萨维尼）认为，法律是民族精神和历史经验的有机积累，不能被理性设计者任意改写。边沁的法典编纂方案忽视了法律的历史性和文化性。
+Defenders of the common-law tradition (such as Burke and Savigny) argue that law is an organic accumulation of national spirit and historical experience that cannot be arbitrarily rewritten by rational designers. Bentham's codification scheme ignores law's historicity and cultural embeddedness.
+
+**回应 / Response:** 边沁主义者可以指出，普通法的"有机发展"往往掩盖了保守利益对法律的控制，使法律改革变得异常困难。法典编纂并非否定历史经验，而是将经过检验的法律原则以清晰、系统的形式表达出来。
+Benthamites can point out that the "organic development" of common law often masks conservative interests' control over law, making legal reform extremely difficult. Codification does not deny historical experience but expresses tested legal principles in clear, systematic form.
+
+**批评二 / Critique 2:** 边沁的法律理论将法律完全还原为功利计算，忽视了法律内在的道德价值和正义要求。某些法律原则（如无罪推定、禁止酷刑）的价值不能仅仅通过功利计算来论证。
+Bentham's legal theory reduces law entirely to utilitarian calculation, ignoring law's intrinsic moral value and requirements of justice. The value of certain legal principles (such as presumption of innocence and prohibition of torture) cannot be justified solely through utilitarian calculation.
+
+**回应 / Response:** 边沁主义者可以论证，这些法律原则的长期功利价值恰恰是其最强有力的辩护——无罪推定和禁止酷刑从长远来看增进了社会信任和制度稳定性。
+Benthamites can argue that the long-term utilitarian value of these legal principles constitutes their most powerful justification—presumption of innocence and prohibition of torture promote social trust and institutional stability in the long run.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国法律传统中，法家思想与边沁的法律改革思想有若干显著的相似之处。法家主张"以法治国"（法治），强调法律的公开性、明确性和普遍适用性，反对儒家的"德治"和"礼治"传统。商鞅变法将秦国法律系统编纂为统一的法典，其追求法律明确化和标准化的精神与边沁的法典编纂运动如出一辙。然而，法家的"法治"本质上是"君主治民之术"，法律是君主统治的工具；而边沁的"法治"则以功利原则为约束，法律的目的在于最大化社会幸福，而非最大化君主权力。这一根本差异体现了中西法律传统在"法律为谁服务"这一核心问题上的深刻分歧。
+
+In the Chinese legal tradition, Legalist thought bears several striking similarities to Bentham's legal reform ideas. Legalism advocated "governing by law" (fazhi), emphasising law's publicness, clarity, and universal applicability, opposing the Confucian traditions of "governing by virtue" (dezhi) and "governing by ritual" (lizhi). Shang Yang's reforms systematically codified Qin state law into unified codes, a spirit of pursuing legal clarity and standardisation remarkably similar to Bentham's codification movement. However, Legalist "rule by law" is essentially "the ruler's art of governing the people," with law as a tool of monarchical rule; while Bentham's "rule of law" is constrained by the principle of utility, with law's purpose being to maximise social happiness rather than monarchical power. This fundamental difference reflects a deep divergence between Chinese and Western legal traditions on the core question of "whom law serves."
+
+## 延伸阅读 / Further Reading
+
+- Bentham, *A Fragment on Government* (1776)
+- Bentham, *Of Laws in General* (posthumous, ed. H.L.A. Hart, 1970)
+- Postema, Gerald. *Bentham and the Common Law Tradition* (1986)
+- Lobban, Michael. *The Common Law and English Jurisprudence 1760–1850* (1991)
+- 顾肃《边沁与功利主义》/ Gu Su, *Bentham and Utilitarianism*
+- 何勤华《英国法律发达史》/ He Qinhua, *History of English Legal Development*

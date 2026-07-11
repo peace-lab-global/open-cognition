@@ -1,0 +1,99 @@
+---
+id: van-der-kolk-reading-list
+title: "范德科尔克推荐阅读 · Bessel van der Kolk Reading List"
+type: reading-list
+thinker: van-der-kolk-bessel
+---
+
+# 范德科尔克推荐阅读 · Bessel van der Kolk Reading List
+
+## 一、原典精读 / Primary Works (Essential Reading)
+
+### 必读 / Must-Read
+
+1. **van der Kolk, B.A.** *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. New York: Viking, 2014.（中译本：《身体从未忘记》，机械工业出版社，2016）
+   - 将三十年创伤研究成果转化为普通读者可理解的"身心叙事"。涵盖神经科学基础、身体记忆、发展性创伤和多模式治疗。既是入门读物也是临床参考。
+   - Translates three decades of trauma research into accessible "mind-body narratives." Covers neuroscience foundations, body memory, developmental trauma, and multimodal treatment. Serves as both introduction and clinical reference.
+
+2. **van der Kolk, B.A., McFarlane, A.C., & Weisaeth, L.** (Eds.). *Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society*. New York: Guilford Press, 1996.（中译本：《创伤性应激》，中国轻工业出版社）
+   - 里程碑式教科书，系统整合创伤的神经生物学、心理学和社会学研究成果。适合专业读者深入学习。
+   - Landmark textbook systematically integrating neurobiological, psychological, and sociological research on trauma. Essential for professional readers.
+
+3. **van der Kolk, B.A.** (Ed.). *Psychological Trauma*. Washington, DC: American Psychiatric Press, 1987.
+   - 首次系统论述创伤的心理生物学框架，是理解范德科尔克早期思想的奠基文本。
+   - First systematic account of the psychobiology of trauma, foundational for understanding van der Kolk's early thinking.
+
+### 推荐阅读 / Recommended
+
+4. **van der Kolk, B.A.** "Developmental Trauma Disorder: Toward a Rational Diagnosis for Children with Multiple Trauma Exposures." *Psychiatric Annals*, 35(5), 401-408, 2005.
+   - 发展性创伤障碍概念的原始阐述，对理解儿童创伤诊断框架至关重要。
+   - Original articulation of the DTD concept, essential for understanding childhood trauma diagnostic frameworks.
+
+5. **van der Kolk, B.A.** "The Body Keeps the Score: Memory and the Evolving Psychobiology of Posttraumatic Stress." *Harvard Review of Psychiatry*, 1(5), 253-265, 1994.
+   - "身体记忆"概念的早期学术阐述，是理解范德科尔克核心命题的起点。
+   - Early academic articulation of the "body memory" concept, the starting point for understanding van der Kolk's central proposition.
+
+## 二、二手研究 / Secondary Research
+
+### 创伤理论与治疗 / Trauma Theory and Treatment
+
+1. **Herman, J.L.** *Trauma and Recovery: The Aftermath of Violence — From Domestic Abuse to Political Terror*. New York: Basic Books, 1992.（中译本：《创伤与恢复》）
+   - 创伤恢复的三阶段社会-政治框架，与范德科尔克的神经生物学取向形成互补。
+   - Socio-political three-stage recovery framework, complementing van der Kolk's neurobiological orientation.
+
+2. **Levine, P.A.** *Waking the Tiger: Healing Trauma*. Berkeley, CA: North Atlantic Books, 1997.（中译本：《唤醒老虎》）
+   - 体感体验（Somatic Experiencing）的奠基之作，与范德科尔克的"自下而上"治疗理念高度一致。
+   - Foundational work of Somatic Experiencing, highly consistent with van der Kolk's "bottom-up" treatment philosophy.
+
+3. **Porges, S.W.** *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. New York: Norton, 2011.
+   - 多迷走神经理论为理解创伤中的自主神经系统反应提供了精确的神经生理学框架。
+   - Polyvagal theory provides precise neurophysiological framework for understanding autonomic nervous system responses in trauma.
+
+4. **Siegel, D.J.** *Mindsight: The New Science of Personal Transformation*. New York: Bantam, 2010.（中译本：《第七感》）
+   - "耐受之窗"和人际神经生物学概念被范德科尔克整合进创伤治疗实践。
+   - Window of tolerance and interpersonal neurobiology concepts integrated into van der Kolk's trauma treatment practice.
+
+5. **Ogden, P., Minton, C., & Pain, C.** *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*. New York: Norton, 2006.
+   - 感觉运动心理治疗的方法论，将范德科尔克的理论洞见发展为系统化的躯体治疗技术。
+   - Sensorimotor Psychotherapy methodology, developing van der Kolk's insights into systematic somatic treatment.
+
+### 依恋与发展 / Attachment and Development
+
+6. **Bowlby, J.** *Attachment and Loss* (3 vols.). London: Hogarth Press, 1969–1980.
+   - 依恋理论为范德科尔克关于"安全关系是创伤修复核心条件"的命题提供理论基础。
+   - Attachment theory provides the foundation for van der Kolk's proposition about safe relationships as core condition for trauma recovery.
+
+7. **Schore, A.N.** *Affect Regulation and the Origin of the Self*. Mahwah, NJ: Lawrence Erlbaum, 1994.
+   - 右脑发育与情绪调节的神经科学研究，为理解发展性创伤提供了神经发育学背景。
+   - Neuroscience research on right-brain development and emotion regulation, providing neurodevelopmental context for understanding developmental trauma.
+
+### EMDR 与躯体疗法 / EMDR and Somatic Approaches
+
+8. **Shapiro, F.** *Eye Movement Desensitization and Reprocessing (EMDR)*. 3rd ed. New York: Guilford Press, 2018.
+   - EMDR的标准参考文本，范德科尔克通过实证研究为EMDR的有效性提供了重要证据。
+   - Standard EMDR reference text; van der Kolk provided important empirical evidence for EMDR's effectiveness.
+
+9. **Emerson, D., & Hopper, E.** *Overcoming Trauma through Yoga: Reclaiming Your Body*. Berkeley: North Atlantic Books, 2011.
+   - 创伤敏感瑜伽的实践指南，呼应范德科尔克关于瑜伽改善PTSD的研究。
+   - Practical guide to trauma-sensitive yoga, echoing van der Kolk's research on yoga for PTSD.
+
+## 三、中文资源 / Chinese Resources
+
+1. **范德科尔克**《身体从未忘记：心理创伤疗愈中的脑、心智和身体》. 机械工业出版社, 2016.
+   - *The Body Keeps the Score* 中文全译本。
+2. **赫曼**《创伤与恢复》. — 与范德科尔克的神经生物学取向互补的社会-政治框架。
+3. **莱文**《唤醒老虎：启动自我疗愈潜能》. — 体感体验疗法的入门著作。
+
+## 四、延伸阅读 / Extended Reading
+
+### 跨学科视野 / Interdisciplinary Perspectives
+
+- **Damasio, A.R.** *Descartes' Error: Emotion, Reason, and the Human Brain*. New York: Putnam, 1994. — 躯体标记假说为身体记忆提供认知神经科学基础
+- **Mate, G.** *The Myth of Normal: Trauma, Illness, and Healing in a Toxic Culture*. New York: Avery, 2022. — 社会层面的创伤视角
+- **Walker, P.** *Complex PTSD: From Surviving to Thriving*. Lafayette, CA: Azure Coyote, 2013. — 复杂性PTSD的自助指南
+
+### 相关资源 / Related Resources
+
+- Trauma Center at Justice Resource Institute: [www.traumacenter.org](https://www.traumacenter.org)
+- *Journal of Traumatic Stress* — 创伤研究核心期刊
+- *Psychological Trauma: Theory, Research, Practice, and Policy* — APA期刊

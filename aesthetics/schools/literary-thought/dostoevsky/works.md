@@ -1,0 +1,38 @@
+---
+id: dostoevsky-aesthetics-works
+title: 陀思妥耶夫斯基美学作品总览
+type: works-catalogue
+domain: aesthetics
+school: literary-thought
+thinker: dostoevsky
+tags: [dostoevsky, works, aesthetics, existentialism]
+cross-refs:
+  - id: dostoevsky
+    relation: thinker
+  - id: literature.novelists.dostoevsky
+    relation: full-entry
+---
+
+# 陀思妥耶夫斯基美学作品总览
+
+> 完整作品表见 [文学领域](../../../literature/schools/novelists/dostoevsky/works.md)。
+
+## 核心美学著作
+
+| 年份 | 作品 | 美学贡献 |
+|---|---|---|
+| 1864 | 《地下室手记》 | 存在主义宣言，非理性自由 |
+| 1866 | 《罪与罚》 | 超人理论的心理实验 |
+| 1869 | 《白痴》 | 绝对善良在世俗中的不可能 |
+| 1872 | 《群魔》 | 意识形态暴力的心理根源 |
+| 1880 | 《卡拉马佐夫兄弟》 | 复调美学的巅峰 |
+
+## 美学相关章节
+- 《卡拉马佐夫兄弟》"宗教大法官"传说（第二编第五章）
+- 《地下室手记》第一部分（存在主义宣言）
+- 《罪与罚》犯罪前的梦境（被鞭打的小马）
+
+## 阅读路径
+### 入门：《地下室手记》第一部分 → "宗教大法官"
+### 进阶：《罪与罚》全书
+### 深潜：《卡拉马佐夫兄弟》+ 巴赫金《陀思妥耶夫斯基诗学问题》

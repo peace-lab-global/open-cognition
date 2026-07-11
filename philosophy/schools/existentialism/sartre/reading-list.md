@@ -1,0 +1,188 @@
+---
+id: sartre-reading-list
+title: 萨特进阶阅读 · Reading Guide for Sartre
+type: reading-list
+domain: philosophy
+school: existentialism
+thinker: sartre
+tags: [reading-guide, bibliography, primary-sources, secondary-literature]
+cross-refs:
+  - id: sartre
+    relation: thinker
+---
+
+# 萨特进阶阅读指南
+
+## 阅读路径
+
+### 入门 (3 个文本, 1-2 周)
+
+1. **《存在主义是一种人道主义》** (L'existentialisme est un humanisme, 1946) -- 1 小时可读完。存在主义核心命题的通俗阐述，入门首选。中译：周煦良译，上海译文出版社
+2. **《禁闭》** (Huis clos, 1944) -- 2 小时可读完。"他人即地狱"的戏剧体验，直观展示注视 (regard) 的概念。中译：宫宝荣译，上海译文出版社
+3. **《恶心》选段** -- 公园栗子树根场景、洛根丁的日记。偶然性 (contingence) 的文学表达。中译：杜小真译，人民文学出版社
+
+### 进阶 (7 个文本, 1-3 月)
+
+4. **《存在与虚无》导论 + 第一卷第二章 (自欺) + 第三卷第一章 (注视)** (L'Être et le Néant, 1943) -- 核心哲学的精选阅读。中译：陈宣良等译，三联书店
+5. **《自由之路》第一部《理性的年代》** (L'Âge de raison, 1945) -- 自由与责任的文学展开
+6. **《词语》** (Les Mots, 1964) -- 自传，理解萨特的思想起源。中译：潘培庆译，三联书店
+7. **《苍蝇》** (Les Mouches, 1943) -- 自由的戏剧表达，占领时期的抵抗隐喻
+8. **《自我的超越》** (La Transcendance de l'Ego, 1936) -- 早期哲学论文，先验自我的批判。中译：杜小真译，商务印书馆
+9. **《什么是文学？》** (Qu'est-ce que la littérature?, 1947) -- 介入文学理论
+10. **Bakewell, Sarah. *At the Existentialist Café*** (2016) -- 最佳入门传记，生动还原萨特-波伏娃-梅洛-庞蒂的思想圈。中译：《存在主义咖啡馆》
+
+### 深潜 (3-6 月)
+
+11. **《存在与虚无》全文** -- 系统阅读四部分。建议配合 Catalano 注释本
+12. **《辩证理性批判》第一卷** (Critique de la raison dialectique, 1960) -- 存在主义与马克思主义的综合
+13. **《魔鬼与上帝》** (Le Diable et le Bon Dieu, 1951) -- 伦理思想的戏剧高峰
+14. **《肮脏的手》** (Les Mains sales, 1948) -- 政治与道德的张力
+15. **《家庭白痴》** (L'Idiot de la famille, 1971-1972) -- 对福楼拜的存在主义精神分析，三卷本
+16. **《境况》系列选读** (Situations, 1947-1976) -- 十卷本文集，涵盖政治评论、文学批评、哲学论文
+
+## 原典
+
+### 哲学
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《自我的超越》(La Transcendance de l'Ego) | 1936 | 先验自我的批判 |
+| 《想象》(L'Imaginaire) | 1940 | 想象力的现象学 |
+| 《存在与虚无》(L'Être et le Néant) | 1943 | 存在论巨著 |
+| 《存在主义是一种人道主义》 | 1946 | 面向公众的入门 |
+| 《反犹者画像》(Réflexions sur la question juive) | 1946 | 反犹主义的存在分析 |
+| 《什么是文学？》 | 1947 | 介入文学理论 |
+| 《辩证理性批判》(Critique de la raison dialectique) | 1960 | 存在主义 x 马克思主义 |
+| 《家庭白痴》(L'Idiot de la famille) | 1971-1972 | 福楼拜研究 |
+
+### 小说
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《恶心》(La Nausée) | 1938 | 偶然性的现象学小说 |
+| 《墙》(Le Mur) | 1939 | 短篇小说集 |
+| 《自由之路》三部曲 (Les Chemins de la liberté) | 1945-1949 | 自由、历史与责任 |
+
+### 戏剧
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《苍蝇》(Les Mouches) | 1943 | 自由与反抗 |
+| 《禁闭》(Huis clos) | 1944 | 注视与主体间性 |
+| 《死无葬身之地》(Morts sans sépulture) | 1946 | 极限处境中的自由 |
+| 《肮脏的手》(Les Mains sales) | 1948 | 政治与道德 |
+| 《魔鬼与上帝》(Le Diable et le Bon Dieu) | 1951 | 善恶的存在论分析 |
+| 《阿尔托纳的隐居者》(Les Séquestrés d'Altona) | 1959 | 罪责与历史 |
+
+### 自传
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《词语》(Les Mots) | 1964 | 童年自传，"文学宗教"的觉醒 |
+
+## 二手研究
+
+### 经典传记
+
+- **Cohen-Solal, Annie.** *Sartre: A Philosophic Study* (1965) -- 早期重要研究
+- **Contat, Michel & Rybalka, Michael.** *Les Écrits de Sartre* (1970) -- 萨特作品编年目录
+- **Cohen-Solal, Annie.** *Sartre: A Life* (1987) -- 重要传记
+- **Galster, Ingrid.** *Sartre, Beauvoir, et le temps des intellectuels* -- 知识分子史
+
+### 思想研究
+
+- **Catalano, Joseph.** *A Commentary on Jean-Paul Sartre's Being and Nothingness* (1985) -- 《存在与虚无》最佳注释
+- **Flynn, Thomas.** *Sartre and Marxist Existentialism* (1984) -- 萨特与马克思主义的关系
+- **Warnock, Mary.** *Being and Nothingness: An Essay on Phenomenological Ontology* (1965) -- 早期英语世界的重要介绍
+- **Aronson, Ronald.** *Jean-Paul Sartre: Philosophy in the World* (1980) -- 萨特思想的历史语境
+- **Howells, Christina (ed.).** *The Cambridge Companion to Sartre* (1992) -- 专题论文集
+- **Bakewell, Sarah.** *At the Existentialist Café* (2016) -- 最佳可读性传记
+
+## 中文资源
+
+- 陈宣良 等译《存在与虚无》(三联书店)
+- 周煦良 译《存在主义是一种人道主义》(上海译文出版社)
+- 杜小真 译《恶心》(人民文学出版社)
+- 杜小真 译《自我的超越》(商务印书馆)
+- 潘培庆 译《词语》(三联书店)
+- 宫宝荣 译《禁闭》(上海译文出版社)
+- 施康强、郭宏安 等译《自由之路》(安徽文艺出版社)
+- 柳鸣九 编《萨特研究》(中国社会科学出版社)
+- 杜小真《萨特传》(人民文学出版社)
+- 高宣扬《萨特传》(百花洲文艺出版社)
+
+## 萨特的阅读：他的源头
+
+### 现象学
+
+- **胡塞尔 (Edmund Husserl)** -- 《逻辑研究》(Logische Untersuchungen)、《观念 I》(Ideen I)：意向性、现象学还原
+- **海德格尔 (Martin Heidegger)** -- 《存在与时间》(Sein und Zeit, 1927)：此在 (Dasein)、存在论差异、向死而在
+
+### 德国哲学
+
+- **黑格尔 (G. W. F. Hegel)** -- 《精神现象学》(Phänomenologie des Geistes)：主奴辩证法、否定性、自我意识
+- **康德 (Immanuel Kant)** -- 先验主体性、自由、道德律令
+
+### 文学
+
+- **陀思妥耶夫斯基 (Fyodor Dostoevsky)** -- "如果上帝不存在，一切都是允许的" (《卡拉马佐夫兄弟》) 是萨特存在主义的文学源头
+- **卡夫卡 (Franz Kafka)** -- 荒谬、异化、无意义的处境
+- **塞利纳 (Louis-Ferdinand Céline)** -- 《恶心》的文体影响
+
+### 法国哲学
+
+- **笛卡尔 (René Descartes)** -- 意识的自明性 (cogito)，但萨特拒绝其实体化
+- **柏格森 (Henri Bergson)** -- 时间 (durée) 与自由的关系
+
+## 萨特的下游：他的影响
+
+### 存在主义运动
+
+- **波伏娃 (Simone de Beauvoir)** -- 《第二性》(Le Deuxième Sexe, 1949)：将"存在先于本质"应用于性别
+- **加缪 (Albert Camus)** -- 《西西弗神话》(Le Mythe de Sisyphe, 1942)：荒谬与反抗 (萨特与加缪后决裂)
+- **梅洛-庞蒂 (Maurice Merleau-Ponty)** -- 《知觉现象学》(Phénoménologie de la perception, 1945)：身体作为主体间的中介
+
+### 后殖民理论
+
+- **法侬 (Frantz Fanon)** -- 《黑皮肤，白面具》(Peau noire, masques blancs, 1952)、《全世界受苦的人》(Les Damnés de la terre, 1961)
+- **赛义德 (Edward Said)** -- 《东方学》(Orientalism, 1978) 间接受益于萨特的介入传统
+
+### 批判理论与后结构主义
+
+- **福柯 (Michel Foucault)** -- 从萨特的主体自由转向权力/知识分析
+- **德里达 (Jacques Derrida)** -- 解构主义对萨特人道主义的批判
+- **布迪厄 (Pierre Bourdieu)** -- 场域理论对萨特"处境"概念的社会学改造
+
+### 女性主义
+
+- **波伏娃** -- 存在主义女性主义的源头
+- **伊利加雷 (Luce Irigaray)** -- 对萨特注视理论的性别化批评
+- **巴特勒 (Judith Butler)** -- 性别表演理论 (gender performativity) 与自欺概念的对话
+
+## 跨学科阅读
+
+### 心理学
+
+- **Yalom, Irvin.** *Existential Psychotherapy* (1980) -- 存在主义心理治疗的经典，将萨特的自由/焦虑/死亡框架应用于临床
+- **Binswanger, Ludwig.** -- 此在分析 (Daseinsanalyse)，海德格尔与萨特的心理学应用
+- **Laing, R. D.** *The Divided Self* (1960) -- 精神分裂的现象学分析
+
+### 社会学与政治哲学
+
+- **阿伦特 (Hannah Arendt)** -- 《人的境况》(The Human Condition, 1958)：行动、自由与公共领域
+- **哈贝马斯 (Jürgen Habermas)** -- 交往行动理论对萨特主体间性冲突论的批评
+- **霍耐特 (Axel Honneth)** -- 承认理论 (Anerkennung) 对萨特注视理论的超越
+
+### 文学与美学
+
+- **巴特 (Roland Barthes)** -- 《写作的零度》(Le Degré zéro de l'écriture, 1953)：对萨特介入文学的回应
+- **热奈特 (Gérard Genette)** -- 叙事学对萨特文学作品的结构分析
+
+## 研究工具
+
+- **Contat & Rybalka** -- *Les Écrits de Sartre* (1970) 与后续增补：萨特作品编年目录
+- **Stanford Encyclopedia of Philosophy** -- "Jean-Paul Sartre" 条目 (Jack Reynolds 撰写)
+- **Sartre Studies International** -- 学术期刊 (Berghahn Books)
+- **UK Sartre Society** -- 学术会议与出版
+- **North American Sartre Society** -- 年度会议与论文集
+- **Gallimard 出版社** -- 萨特作品的权威法语出版方

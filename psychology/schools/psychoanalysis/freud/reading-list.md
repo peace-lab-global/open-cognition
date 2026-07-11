@@ -1,0 +1,142 @@
+# 西格蒙德·弗洛伊德 · Sigmund Freud - 推荐阅读 / Reading List
+
+## 一、弗洛伊德原典 / Primary Works
+
+### 入门推荐 / Introductory Reading
+
+| 优先级 / Priority | 著作 / Work | 说明 / Notes |
+|:---:|:---|:---|
+| ★★★ | 《精神分析引论》/ *Introductory Lectures on Psycho-Analysis* (1916–17) | 弗洛伊德本人面向一般听众的系统阐述，是进入精神分析的最佳起点 / Freud's own systematic exposition for a general audience; the best starting point for psychoanalysis |
+| ★★★ | 《梦的解析》/ *The Interpretation of Dreams* (1900) | 精神分析的奠基之作，建议先读第一、二、七章（重点章节）/ The founding work of psychoanalysis; recommended to read Chapters I, II, and VII first (key chapters) |
+| ★★★ | 《日常生活的心理病理学》/ *The Psychopathology of Everyday Life* (1901) | 最易读的弗洛伊德著作，以日常口误和遗忘为例阐述潜意识 / The most accessible of Freud's works; illustrates the unconscious through everyday slips and forgettings |
+
+### 核心理论著作 / Core Theoretical Works
+
+| 优先级 / Priority | 著作 / Work | 说明 / Notes |
+|:---:|:---|:---|
+| ★★★ | 《自我与本我》/ *The Ego and the Id* (1923) | 人格结构理论的核心文本 / Core text of personality structure theory |
+| ★★★ | 《性学三论》/ *Three Essays on the Theory of Sexuality* (1905) | 性心理发展理论的原始阐述 / Original exposition of psychosexual development theory |
+| ★★☆ | 《超越快乐原则》/ *Beyond the Pleasure Principle* (1920) | 死本能概念的引入，弗洛伊德理论的重要转折 / Introduction of the death instinct; an important turning point in Freud's theory |
+| ★★☆ | 《抑制、症状与焦虑》/ *Inhibitions, Symptoms and Anxiety* (1926) | 焦虑信号理论和防御机制理论的系统阐述 / Systematic exposition of signal anxiety theory and defense mechanism theory |
+| ★★☆ | 元心理学论文 / Metapsychological Papers (1915) | 包括《本能及其命运》《压抑》《潜意识》《哀悼与忧郁》，弗洛伊德最精炼的理论写作 / Includes *Instincts and Their Vicissitudes*, *Repression*, *The Unconscious*, *Mourning and Melancholia*; Freud's most concise theoretical writing |
+
+### 文化与哲学著作 / Cultural and Philosophical Works
+
+| 优先级 / Priority | 著作 / Work | 说明 / Notes |
+|:---:|:---|:---|
+| ★★★ | 《文明及其不满》/ *Civilization and Its Discontents* (1930) | 弗洛伊德对文明与人类本性冲突的最深刻反思 / Freud's deepest reflection on the conflict between civilization and human nature |
+| ★★☆ | 《图腾与禁忌》/ *Totem and Taboo* (1913) | 精神分析的人类学应用 / Psychoanalytic application to anthropology |
+| ★★☆ | 《一个幻觉的未来》/ *The Future of an Illusion* (1927) | 对宗教的精神分析批判 / Psychoanalytic critique of religion |
+| ★☆☆ | 《摩西与一神教》/ *Moses and Monotheism* (1939) | 弗洛伊德最后一部著作，探讨宗教起源 / Freud's last work, exploring religious origins |
+
+### 案例研究 / Case Studies
+
+| 优先级 / Priority | 案例 / Case | 说明 / Notes |
+|:---:|:---|:---|
+| ★★★ | "朵拉"案例 / "Dora" Case (1905) | 展示移情和反移情的经典案例 / Classic case demonstrating transference and countertransference |
+| ★★☆ | "小汉斯"案例 / "Little Hans" Case (1909) | 儿童精神分析和俄狄浦斯情结的经典案例 / Classic case in child psychoanalysis and the Oedipus complex |
+| ★★☆ | "鼠人"案例 / "Rat Man" Case (1909) | 强迫症的潜意识动力学分析 / Analysis of unconscious dynamics in obsessional neurosis |
+| ★☆☆ | "狼人"案例 / "Wolf Man" Case (1918) | 婴儿期神经症和原初场景的分析 / Analysis of infantile neurosis and the primal scene |
+| ★☆☆ | "施雷伯"案例 / "Schreber" Case (1911) | 偏执狂的精神分析研究 / Psychoanalytic study of paranoia |
+
+### 全集与选集 / Complete Works and Collections
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| *The Standard Edition of the Complete Psychological Works of Sigmund Freud* (24 vols., Strachey, trans.) | 英译标准版，学术研究的基础版本 / English standard edition; the foundational version for academic research |
+| *Studienausgabe* (10 Bde., Fischer) | 德文研究版 / German study edition |
+| 《弗洛伊德文集》（车文博主编，长春出版社）| 中文版主要文集 / Major Chinese collection |
+
+---
+
+## 二、二手研究 / Secondary Research
+
+### 传记 / Biographies
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| Ernest Jones, *The Life and Work of Sigmund Freud* (3 vols., 1953–57) | 最权威的弗洛伊德传记，作者是其学生和亲密合作者 / The most authoritative Freud biography; the author was his student and close collaborator |
+| Peter Gay, *Freud: A Life for Our Time* (1988) | 当代最佳弗洛伊德传记，综合了学术严谨性和可读性 / Best contemporary Freud biography, combining scholarly rigor with readability |
+| Didier Anzieu, *Freud's Self-Analysis* (1975) | 对弗洛伊德自我分析过程的详细研究 / Detailed study of Freud's self-analysis process |
+| Elisabeth Roudinesco, *Freud: In His Time and Ours* (2014) | 最新的重要弗洛伊德传记 / Most recent major Freud biography |
+
+### 理论指南与评论 / Theoretical Guides and Commentaries
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| Jean Laplanche & Jean-Bertrand Pontalis, *The Language of Psycho-Analysis* (1967) | 精神分析术语的权威词典，每个概念都有详细的文本出处 / Authoritative dictionary of psychoanalytic terms with detailed textual references |
+| Jonathan Lear, *Freud* (2005, Routledge Philosophers) | 从哲学角度解读弗洛伊德的杰出导论 / Outstanding philosophical introduction to Freud |
+| Richard Wollheim, *Freud* (2nd ed., 1991) | 经典的哲学性弗洛伊德研究 / Classic philosophical study of Freud |
+| Paul Ricoeur, *Freud and Philosophy* (1970) | 从诠释学角度解读弗洛伊德的经典著作 / Classic hermeneutic reading of Freud |
+| Juliet Mitchell, *Psychoanalysis and Feminism* (1974) | 女性主义视角下对弗洛伊德的重新评估 / Feminist reassessment of Freud |
+
+### 精神分析发展史 / History of Psychoanalytic Development
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| Henri Ellenberger, *The Discovery of the Unconscious* (1970) | 深层心理学历史的经典研究 / Classic study of the history of depth psychology |
+| Nathan Hale, *Freud and the Americans* (1971) | 精神分析在美国的传播史 / History of the spread of psychoanalysis in America |
+| Élisabeth Roudinesco, *La bataille de cent ans: Histoire de la psychanalyse en France* (1982–86) | 精神分析在法国的传播史 / History of psychoanalysis in France |
+
+---
+
+## 三、英文资源 / English Resources
+
+### 学术入门 / Academic Introductions
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| Anthony Storr, *Freud: A Very Short Introduction* (2001) | 牛津大学出版社的简明导论 / Oxford University Press concise introduction |
+| Stephen Frosh, *A Brief Introduction to Psychoanalytic Theory* (2012) | 清晰的精神分析理论导论 / Clear introduction to psychoanalytic theory |
+| Simon Boag, *Freudian Repression* (2022) | 对压抑概念的当代重新评估 / Contemporary reassessment of the concept of repression |
+
+### 当代发展 / Contemporary Developments
+
+| 著作 / Work | 说明 / Notes |
+|:---|:---|
+| Mark Solms, *The Brain and the Inner World* (2002) | 神经精神分析的代表作 / Representative work of neuropsychoanalysis |
+| Mark Solms & Oliver Turnbull, *The Brain and the Inner World* (2nd ed., 2011) | 更新版 / Updated edition |
+| Peter Fonagy, *Attachment Theory and Psychoanalysis* (2001) | 依附理论与精神分析的综合 / Integration of attachment theory and psychoanalysis |
+| Otto Kernberg, *Object Relations Theory and Clinical Psychoanalysis* (1976) | 客体关系理论的经典阐述 / Classic exposition of object relations theory |
+
+### 学术期刊 / Academic Journals
+
+| 期刊 / Journal | 说明 / Notes |
+|:---|:---|
+| *The International Journal of Psychoanalysis* | 国际精神分析协会的官方期刊 / Official journal of the IPA |
+| *Psychoanalytic Quarterly* | 美国精神分析协会期刊 / Journal of the American Psychoanalytic Association |
+| *Psychoanalytic Psychology* | APA精神分析心理学分会期刊 / Journal of APA Division of Psychoanalysis |
+| *Neuro-Psychoanalysis* | 神经精神分析期刊 / Journal of neuropsychoanalysis |
+
+---
+
+## 四、相关思想家 / Related Thinkers
+
+### 精神分析内部传统 / Within the Psychoanalytic Tradition
+
+| 思想家 / Thinker | 关系 / Relationship | 推荐阅读 / Recommended Reading |
+|:---|:---|:---|
+| [荣格 Jung](../jung/README.md) | 学生与分裂者 / Student and schismatic | *Memories, Dreams, Reflections*; *Psychological Types* |
+| [阿德勒 Adler](../adler/README.md) | 早期合作者与分裂者 / Early collaborator and schismatic | *Understanding Human Nature* |
+| [拉康 Lacan](../lacan/README.md) | "回归弗洛伊德" / "Return to Freud" | *Écrits*; *The Four Fundamental Concepts of Psycho-Analysis* |
+| [克莱因 Klein](../klein/README.md) | 儿童精神分析发展者 / Developer of child psychoanalysis | *Love, Guilt and Reparation and Other Works* |
+| [温尼科特 Winnicott](../winnicott/README.md) | 过渡客体理论 / Transitional object theory | *Playing and Reality* |
+| 安娜·弗洛伊德 Anna Freud | 自我心理学奠基人 / Founder of ego psychology | *The Ego and the Mechanisms of Defence* |
+| [科胡特 Kohut](../kohut/README.md) | 自体心理学创始人 / Founder of self psychology | *The Analysis of the Self* |
+
+### 哲学与思想背景 / Philosophical and Intellectual Background
+
+| 思想家 / Thinker | 关系 / Relationship | 推荐阅读 / Recommended Reading |
+|:---|:---|:---|
+| [尼采 Nietzsche](../../../philosophy/schools/existentialism/nietzsche/README.md) | 哲学先驱 / Philosophical precursor | *Thus Spoke Zarathustra*; *Beyond Good and Evil* |
+| 叔本华 Schopenhauer | 意志哲学先驱 / Precursor in philosophy of will | *The World as Will and Representation* |
+| 沙可 Charcot | 催眠术导师 / Hypnosis teacher | *Leçons sur les maladies du système nerveux* |
+| [马克思 Marx](../../../philosophy/schools/marxism/marx/README.md) | 法兰克福学派的综合对象 / Synthesis target of the Frankfurt School | *Capital*; *The German Ideology* |
+
+### 跨文化平行 / Cross-Cultural Parallels
+
+| 传统 / Tradition | 关系 / Relationship | 推荐阅读 / Recommended Reading |
+|:---|:---|:---|
+| [唯识学 Yogācāra](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) | 阿赖耶识与潜意识的平行 / Ālaya-vijñāna and the unconscious parallel | *成唯识论* / *Cheng Weishi Lun* |
+| [庄子 Zhuangzi](../../../philosophy/schools/daoism/zhuangzi/README.md) | 梦论与无意识的平行 / Dream philosophy and the unconscious parallel | 《庄子·齐物论》/ *Zhuangzi, "Discussion on Making All Things Equal"* |
+| [儒家 Confucianism](../../../philosophy/schools/confucianism/confucius/README.md) | 克己与超我的对照 / Self-restraint and the superego contrast | 《论语》/ *The Analerta* |

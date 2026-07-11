@@ -1,0 +1,24 @@
+---
+id: cognitive-systems.school.cybernetics.wiener.reading-list
+title: 维纳阅读指南 Norbert Wiener Reading List
+type: reading-list
+thinker: wiener
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 维纳阅读指南 / Norbert Wiener Reading List
+
+## 入门路径
+
+1. Wiener, N. (1950). *The Human Use of Human Beings*. — 可读性强的社会影响论述
+2. Wiener, N. (1948). *Cybernetics*. — 技术核心（数学密度较高）
+
+## 二手研究
+
+- Heims, S. (1991). *The Cybernetic Group*. — 控制论小组的历史
+- Pickering, A. (2010). *The Cybernetic Brain*. — 英国控制论传统
+
+## 中文资源
+
+- 维纳《人有人的用处》，商务印书馆

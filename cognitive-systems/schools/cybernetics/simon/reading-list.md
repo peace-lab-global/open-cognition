@@ -1,0 +1,31 @@
+---
+id: cognitive-systems.school.cybernetics.simon.reading-list
+title: 西蒙阅读指南 Herbert Simon Reading List
+type: reading-list
+thinker: simon
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 西蒙阅读指南 / Herbert Simon Reading List
+
+## 入门路径
+
+1. Simon, H. (1969). *The Sciences of the Artificial*. MIT Press. — 最具可读性的入门
+2. Simon, H. (1947). *Administrative Behavior*. — 有限理性原典
+
+## 原典
+
+| 年份 | 著作 | 重要程度 |
+|------|------|----------|
+| 1947 | *Administrative Behavior* | 核心 |
+| 1969 | *The Sciences of the Artificial* | 必读 |
+| 1972 | *Human Problem Solving* | 重要 |
+
+## 二手研究
+
+- Crowther-Heyck, H. (2005). *Herbert A. Simon: The Bounds of Reason*.
+
+## 中文资源
+
+- 司马贺《人工科学》，商务印书馆

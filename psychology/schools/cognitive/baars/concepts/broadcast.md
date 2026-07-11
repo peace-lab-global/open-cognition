@@ -1,0 +1,118 @@
+---
+id: psychology.cognitive.baars.broadcast
+title: "全局广播 · Global Broadcasting"
+type: concept
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+tags:
+  - broadcasting
+  - information-distribution
+  - consciousness
+  - neural-ignition
+---
+
+# 全局广播 · Global Broadcasting
+
+---
+
+## 定义 · Definition
+
+全局广播（global broadcasting）是全局工作空间理论（GWT）的核心操作机制：当信息被注意力选中并进入全局工作空间后，它被**同时**分发（distributed）到全脑所有可接收的无意识专门处理器。这一过程使得原本只被局部处理的信息变得"全局可及"（globally accessible），从而可以被语言系统命名、被记忆系统储存、被运动系统响应、被情感系统评价。全局广播是将局部信号转化为全局意识内容的关键"跃迁"。
+
+Global broadcasting is the core operational mechanism of Global Workspace Theory (GWT): once information is selected by attention and enters the global workspace, it is **simultaneously** distributed to all receptive unconscious specialized processors across the brain. This process renders locally processed information "globally accessible," enabling it to be named by the language system, stored by the memory system, responded to by the motor system, and evaluated by the emotional system. Global broadcasting is the critical "transition" that converts local signals into global conscious contents.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 1. 广播的同时性 / Simultaneity of Broadcasting
+
+全局广播的一个关键特征是**同时性**：信息不是按顺序依次传递给各个处理器（如传统的"管道"模型所暗示的），而是在进入全局工作空间的瞬间被**同时**发送到所有可接收的处理器。这种同时性解释了意识经验的一个基本特征——当我们意识到一个事件时，似乎同时"知道"它、"感受到"它、可以"说出"它、可以"指向"它。
+
+A key feature of global broadcasting is **simultaneity**: information is not sequentially passed to each processor (as traditional "pipeline" models suggest), but is **simultaneously** sent to all receptive processors the moment it enters the global workspace. This simultaneity explains a fundamental feature of conscious experience — when we become aware of an event, we seem to simultaneously "know" it, "feel" it, be able to "say" it, and be able to "point to" it.
+
+在神经层面，这种同时性对应于前额叶-顶叶网络中的"点火"（ignition）事件——一群长程投射神经元同时激活，将信息在数十毫秒内传递到广泛分布的脑区。Dehaene 等人的研究表明，这种点火发生在刺激呈现后约270-300毫秒，对应于事件相关电位中的P3b成分。
+
+At the neural level, this simultaneity corresponds to "ignition" events in the prefrontal-parietal network — a population of long-range projection neurons activating simultaneously, transmitting information to widely distributed brain regions within tens of milliseconds. Dehaene and colleagues showed that this ignition occurs approximately 270–300ms after stimulus presentation, corresponding to the P3b component in event-related potentials.
+
+### 2. 广播的选择性 / Selectivity of Broadcasting
+
+并非所有脑区都以相同方式接收广播。广播的接收取决于每个处理器的"接收准备状态"（receptivity）——即该处理器当前是否处于活跃状态、是否与全局工作空间有功能连接、以及当前的语境和目标是否使其"准备好"接收特定类型的信息。这解释了为什么同一个意识内容对不同人有不同的意义——每个人的无意识处理器的接收准备状态不同。
+
+Not all brain regions receive broadcasts in the same way. Broadcast reception depends on each processor's "receptivity" — whether it is currently active, whether it has functional connections with the global workspace, and whether current context and goals make it "ready" to receive specific types of information. This explains why the same conscious content has different meanings for different individuals — each person's unconscious processors have different receptivity states.
+
+### 3. 广播的离散性 / Discreteness of Broadcasting
+
+全局广播不是连续的流，而是以离散的"帧"（frames）为单位进行。每帧持续约100-300毫秒，每帧中一组信息被广播。帧与帧之间的间隔对应于新信息的竞争和选择过程。这种离散性与主观经验中"心理时刻"（psychological moments）的概念一致，也与注意瞬脱（attentional blink）现象相关——当一帧中的信息处理尚未完成时，新的信息无法立即进入全局工作空间。
+
+Global broadcasting is not a continuous stream but proceeds in discrete "frames." Each frame lasts approximately 100–300 milliseconds, with one set of information broadcast per frame. Intervals between frames correspond to the competition and selection of new information. This discreteness is consistent with the subjective concept of "psychological moments" and relates to the attentional blink phenomenon — when processing of information in one frame is not yet complete, new information cannot immediately enter the global workspace.
+
+### 4. 广播与报告性 / Broadcasting and Reportability
+
+Baars 提出了一个重要论据：全局广播信息的一个行为指标是**可报告性**（reportability）——如果一个人能够用语言报告一个信息，那么该信息一定已经经过了全局广播。这是因为语言生产系统本身是一个无意识专门处理器，它只能对全局广播的信息进行编码和表达。这一论据使得GWT可以通过行为实验进行检验。
+
+Baars proposed an important argument: a behavioral indicator of globally broadcast information is **reportability** — if a person can verbally report a piece of information, that information must have undergone global broadcasting. This is because the language production system is itself an unconscious specialized processor that can only encode and express globally broadcast information. This argument makes GWT testable through behavioral experiments.
+
+---
+
+## 发展脉络 · Historical Development
+
+### 1988：理论提出 / Initial Formulation
+
+Baars在《意识的认知理论》中将全局广播定义为GWT的核心机制。他使用了"黑箱公告板"（blackboard architecture）的AI概念作为灵感来源——在黑板架构中，多个专家系统通过一个共享的公告板进行通信。
+
+Baars defined global broadcasting as GWT's core mechanism in *A Cognitive Theory of Consciousness*. He drew inspiration from the AI concept of "blackboard architecture" — in blackboard systems, multiple expert systems communicate through a shared bulletin board.
+
+### 1990s：掩蔽实验验证 / Masking Experiment Validation
+
+Dehaene等人使用视觉掩蔽（visual masking）范式对广播的时间动态进行了精确测量。在掩蔽实验中，一个目标刺激被紧随其后的掩蔽刺激所"覆盖"，如果掩蔽在目标进入全局广播之前发生（约300毫秒以内），目标就不能被报告——这直接验证了广播的时间窗口假说。
+
+Dehaene and colleagues used visual masking paradigms to precisely measure the temporal dynamics of broadcasting. In masking experiments, a target stimulus is "covered" by a subsequent mask stimulus. If masking occurs before the target enters global broadcast (within ~300ms), the target cannot be reported — directly validating the temporal window hypothesis for broadcasting.
+
+### 2020s：对抗性合作实验 / Adversarial Collaboration
+
+2023年发表的大型对抗性合作实验对GWT和IIT进行了直接对比检验。结果显示，GWT关于"广播"的某些预测（如广播主要发生在前额叶-顶叶网络）获得了部分支持，但关于广播的时间特征的某些预测则需要修正。这一结果推动了广播机制理论的精细化。
+
+The large-scale adversarial collaboration experiment published in 2023 directly compared GWT and IIT. Results showed that some GWT predictions about "broadcasting" (e.g., broadcasting primarily occurring in prefrontal-parietal networks) received partial support, but predictions about temporal characteristics of broadcasting required revision. These results have driven refinement of the broadcasting mechanism theory.
+
+---
+
+## 临床应用 · Clinical Applications
+
+1. **意识恢复指标 / Consciousness Recovery Indicator**：在脑损伤患者的康复监测中，全局广播功能的恢复是意识恢复的关键指标。通过脑电图测量P3b成分和跨脑区的gamma波段同步可以评估广播是否恢复。
+2. **注意力训练 / Attention Training**：理解广播机制可以帮助设计更有效的注意力训练方案——训练的核心是增强对什么信息能够进入广播的控制能力。
+3. **心理治疗中的信息加工 / Information Processing in Psychotherapy**：在EMDR（眼动脱敏再加工）等治疗中，"双侧刺激"可能通过增强全局广播来促进创伤记忆被更广泛的认知系统重新加工。
+
+1. **Consciousness Recovery Indicator**: In rehabilitation monitoring of brain-injured patients, recovery of global broadcasting function is a key indicator of consciousness recovery. Measuring P3b components and cross-regional gamma-band synchronization via EEG can assess whether broadcasting has recovered.
+2. **Attention Training**: Understanding broadcasting mechanisms can help design more effective attention training protocols — the core training goal is enhancing control over what information can enter the broadcast.
+3. **Information Processing in Psychotherapy**: In treatments like EMDR (Eye Movement Desensitization and Reprocessing), "bilateral stimulation" may facilitate reprocessing of traumatic memories by broader cognitive systems through enhanced global broadcasting.
+
+---
+
+## 关联概念 · Related Concepts
+
+- **[全局工作空间理论](global-workspace-theory.md)** / [Global Workspace Theory](global-workspace-theory.md) — 广播所属的理论框架
+- **[意识剧场](consciousness-theater.md)** / [Consciousness Theater](consciousness-theater.md) — 舞台向观众的广播
+- **[通达意识](access-consciousness.md)** / [Access Consciousness](access-consciousness.md) — 广播产生的功能性意识状态
+- **[认知架构](cognitive-architecture.md)** / [Cognitive Architecture](cognitive-architecture.md) — 广播在整体架构中的位置
+- **Dehaene, S., & Changeux, J.-P. (2011).** "Experimental and theoretical approaches to conscious processing." *Neuron*, 70(2), 200–227.
+- **黑板架构 / Blackboard Architecture** — AI中广播概念的前驱
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+全局广播的概念与佛教因明学（Pramāṇa）中的"现量"（pratyakṣa, 直接知觉）和"比量"（anumāna, 推理）之间的区分有着有趣的联系。在因明学中，现量是直接的感觉经验，而比量是经过推理加工的知识。全局广播可以被理解为将现量（局部的感觉信息）转化为比量（可被语言和推理系统使用的全局知识）的机制——信息的"广播"就是从"直接感受"到"可以言说和思考"的跃迁。
+
+The concept of global broadcasting has interesting connections with the Buddhist epistemological (Pramāṇa) distinction between pratyakṣa (direct perception) and anumāna (inference). In Buddhist epistemology, pratyakṣa is direct sensory experience while anumāna is knowledge processed through reasoning. Global broadcasting can be understood as the mechanism that transforms pratyakṣa (local sensory information) into anumāna (global knowledge usable by language and reasoning systems) — the "broadcasting" of information is the transition from "directly felt" to "sayable and thinkable."
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press. — Ch. 3, 广播机制 / Broadcasting mechanism
+- Baars, B. J. (2002). "The conscious access hypothesis." *Trends in Cognitive Sciences*, 6(1), 47–52.
+- Dehaene, S., et al. (2006). "Conscious, preconscious, and subliminal processing." *Trends in Cognitive Sciences*, 10(5), 204–211.
+- Melloni, L., et al. (2023). "An adversarial collaboration to test theories of consciousness." *bioRxiv*.
+- Sergent, C., & Dehaene, S. (2004). "Is consciousness all-or-none? Evidence from the attentional blink." *Psychological Science*, 15(11), 720–728.

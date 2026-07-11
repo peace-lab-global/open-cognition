@@ -1,0 +1,113 @@
+---
+id: psychology.developmental.piaget.cognitive-development
+title: "认知发展 · Cognitive Development"
+type: concept
+parent: psychology.developmental.piaget
+domain: psychology
+school: developmental
+tags: [认知发展, 建构主义, 发展阶段, 儿童认知, cognitive development, constructivism, child cognition]
+---
+
+# 认知发展 · Cognitive Development
+
+## 定义 / Definition
+
+**认知发展**（Cognitive Development）在皮亚杰的理论框架中，是指儿童通过与环境的主动互动，逐步建构日益复杂的认知结构的过程。这一过程不是知识的简单累积，而是认知组织方式的一系列**质变**（qualitative changes）——每个新阶段都代表着思维方式的根本重组，而非旧有能力的量的增长。皮亚杰将认知发展视为一种生物学意义上的适应过程，是有机体（儿童）在与环境的持续互动中实现的结构化转变。
+
+**Cognitive development**, in Piaget's theoretical framework, refers to the process by which children progressively construct increasingly complex cognitive structures through active interaction with their environment. This process is not a simple accumulation of knowledge but a series of **qualitative changes** in cognitive organization — each new stage represents a fundamental reorganization of thinking modes, not merely quantitative growth of existing abilities. Piaget viewed cognitive development as a biological adaptation process, a structural transformation achieved through the organism's (child's) sustained interaction with the environment.
+
+皮亚杰的认知发展观有三个核心特征：**建构性**（知识由主体主动建构而非被动接受）、**阶段性**（发展经历质上不同的有序阶段）和**普遍性**（阶段序列在所有文化中不变，尽管到达各阶段的年龄可能有差异）。
+
+Piaget's view of cognitive development has three core features: **constructivism** (knowledge is actively constructed by the subject, not passively received), **stagelike progression** (development proceeds through qualitatively distinct ordered stages), and **universality** (the stage sequence is invariant across all cultures, although the ages at which stages are reached may vary).
+
+## 核心机制 / Core Mechanisms
+
+### 发展的驱动力：平衡化 / The Driving Force: Equilibration
+
+认知发展的根本动力来自**平衡化**（equilibration / équilibration）过程。当儿童现有的认知结构能够成功同化（assimilate）新的经验时，认知处于**平衡状态**（equilibrium）。当新经验无法被现有结构所容纳时，认知产生**失衡**（disequilibrium / déséquilibre），这种认知冲突产生不愉快的紧张感，驱使儿童修改或扩展其认知结构（即顺应 / accommodation），从而达到更高层次的平衡。
+
+The fundamental driving force of cognitive development comes from the process of **equilibration**. When a child's existing cognitive structures can successfully assimilate new experiences, cognition is in a state of **equilibrium**. When new experiences cannot be accommodated by existing structures, **disequilibrium** arises, producing an uncomfortable tension that motivates the child to modify or expand cognitive structures (accommodation), thereby reaching a higher level of equilibrium.
+
+### 发展的三个因素 / Three Factors of Development
+
+皮亚杰认为，认知发展受三个因素的共同影响：（1）**成熟**（maturation）——神经系统和内分泌系统的生理成熟为认知发展提供了必要的物质基础；（2）**经验**（experience）——包括物理经验（physical experience，直接作用于物体获取信息）和逻辑-数学经验（logico-mathematical experience，通过行动协调获得的关系知识）；（3）**社会传递**（social transmission）——通过社会互动、教育和语言获得的知识。但皮亚杰强调，这三个因素只是认知发展的必要条件，真正的充分条件是**平衡化**——即主体主动协调和整合这些因素的过程。
+
+Piaget held that cognitive development is influenced by three factors working together: (1) **maturation** — the biological maturation of the nervous and endocrine systems provides the necessary material basis; (2) **experience** — including physical experience (direct action on objects) and logico-mathematical experience (knowledge of relations acquired through coordination of actions); (3) **social transmission** — knowledge acquired through social interaction, education, and language. But Piaget emphasized that these three factors are only necessary conditions; the true sufficient condition is **equilibration** — the subject's active coordination and integration of these factors.
+
+### 从行动到思维的建构 / Construction from Action to Thought
+
+皮亚杰认知发展理论的一个核心洞见是：**思维起源于行动**。在感知运动阶段，儿童的认知完全是感觉运动的——通过看、抓、吸、推等身体行动来认识世界。随着行动的反复协调和内化（internalization），外显的行动逐渐转化为内部的**心理运算**（mental operations）。这一从行动到思维的建构过程贯穿整个发展序列：感知运动图式→符号表征→具体运算→形式运算，每一步都是前一步的内化和重组。
+
+A central insight of Piaget's cognitive development theory is that **thought originates in action**. In the sensorimotor stage, children's cognition is entirely sensorimotor — they know the world through seeing, grasping, sucking, pushing, and other bodily actions. Through repeated coordination and internalization of actions, overt actions gradually transform into internal **mental operations**. This construction from action to thought runs through the entire developmental sequence: sensorimotor schemas → symbolic representation → concrete operations → formal operations, each step being an internalization and reorganization of the preceding one.
+
+## 发展脉络 / Developmental Trajectory
+
+### 感知运动阶段（0–2岁）/ Sensorimotor Stage (0–2 years)
+
+新生儿通过先天反射（吸吮、抓握、视觉追踪）与环境互动。皮亚杰将这一阶段细分为六个亚阶段：（1）反射练习（0–1个月）；（2）初级循环反应（1–4个月）；（3）次级循环反应（4–8个月）；（4）次级图式的协调（8–12个月）；（5）三级循环反应（12–18个月）；（6）心理表征的萌芽（18–24个月）。这一阶段最重要的成就是**客体永久性**（object permanence）的获得——即理解物体即使不在感知范围内仍然存在。客体永久性的获得标志着婴儿从"此时此地"的感知世界向稳定的客体世界的根本转变。
+
+Newborns interact with the environment through innate reflexes (sucking, grasping, visual tracking). Piaget subdivided this stage into six sub-stages: (1) reflex exercise (0–1 month); (2) primary circular reactions (1–4 months); (3) secondary circular reactions (4–8 months); (4) coordination of secondary schemas (8–12 months); (5) tertiary circular reactions (12–18 months); (6) beginnings of mental representation (18–24 months). The most important achievement of this stage is the acquisition of **object permanence** — understanding that objects continue to exist even when not perceived. This marks the fundamental transition from the infant's "here and now" perceptual world to a stable world of objects.
+
+### 前运算阶段（2–7岁）/ Preoperational Stage (2–7 years)
+
+这一阶段的标志是**符号功能**（semiotic function）的出现——儿童能够使用语言、心理意象和象征性游戏来表征不在场的客体。但这一阶段的思维有几个关键局限：**自我中心主义**（egocentrism，难以从他人视角看问题）、**中心化**（centration，只关注事物的一个方面）、**不可逆性**（irreversibility，无法在心理上逆转操作）和**泛灵论**（animism，将生命属性赋予无生命物体）。皮亚杰著名的"三山实验"（Three Mountain Task）证明了前运算阶段儿童的自我中心视角。
+
+The hallmark of this stage is the emergence of the **semiotic function** — children can use language, mental imagery, and symbolic play to represent absent objects. But thinking at this stage has key limitations: **egocentrism** (difficulty seeing from others' perspectives), **centration** (focusing on only one aspect of things), **irreversibility** (inability to mentally reverse operations), and **animism** (attributing life properties to inanimate objects). Piaget's famous "Three Mountain Task" demonstrated the egocentric perspective of preoperational children.
+
+### 具体运算阶段（7–11岁）/ Concrete Operational Stage (7–11 years)
+
+这一阶段的核心成就是获得了**心理运算**（mental operations）的能力——能够在心理上对具体事物进行可逆的、有组织的操作。儿童掌握了**守恒**（conservation，包括数量、液体、质量、重量）、**分类**（classification，包含类层级关系）和**序列化**（seriation，按维度排列物体）。思维变得**去中心化**（decentered），能够同时考虑事物的多个方面。但运算仍然依赖于具体经验，无法系统地处理抽象的假设和命题。
+
+The core achievement of this stage is the acquisition of **mental operations** — the ability to perform reversible, organized operations on concrete objects mentally. Children master **conservation** (number, liquid, mass, weight), **classification** (including class hierarchy relationships), and **seriation** (ordering objects by dimension). Thinking becomes **decentered**, able to consider multiple aspects simultaneously. But operations remain dependent on concrete experience and cannot systematically handle abstract hypotheses and propositions.
+
+### 形式运算阶段（11岁以上）/ Formal Operational Stage (11+ years)
+
+这一阶段标志着**抽象思维**和**假设-演绎推理**（hypothetico-deductive reasoning）的出现。青少年能够思考不在眼前的事物，系统性地检验假设，理解抽象概念（如正义、自由），并能进行命题逻辑推理。皮亚杰和英海尔德设计了"钟摆问题"（pendulum problem）等任务来检验形式运算能力。但皮亚杰也承认，并非所有成人都能达到形式运算阶段，且形式运算的表现在不同领域可能不一致。
+
+This stage marks the emergence of **abstract thinking** and **hypothetico-deductive reasoning**. Adolescents can think about things not immediately present, systematically test hypotheses, understand abstract concepts (such as justice, freedom), and perform propositional logical reasoning. Piaget and Inhelder designed tasks such as the "pendulum problem" to test formal operational ability. However, Piaget acknowledged that not all adults reach the formal operational stage, and formal operational performance may be inconsistent across domains.
+
+## 临床应用 / Clinical Applications
+
+### 发展评估 / Developmental Assessment
+
+皮亚杰的认知发展任务被广泛应用于儿童认知发展的临床评估。**守恒任务**（conservation tasks）用于评估儿童是否达到具体运算阶段；**客体永久性测试**用于评估婴儿的认知发展水平；**三山任务**的变式用于评估去自我中心化的程度。在临床实践中，发展心理学家使用皮亚杰式访谈（clinical interview / méthode clinique）来深入了解儿童的思维过程，而不是仅仅关注正确答案或错误答案。
+
+Piaget's cognitive development tasks are widely used in clinical assessment of children's cognitive development. **Conservation tasks** assess whether children have reached the concrete operational stage; **object permanence tests** evaluate infant cognitive development; variations of the **Three Mountain Task** assess the degree of decentering from egocentrism. In clinical practice, developmental psychologists use Piagetian clinical interviews (méthode clinique) to gain deep understanding of children's thinking processes rather than merely focusing on correct or incorrect answers.
+
+### 教育应用 / Educational Applications
+
+皮亚杰的认知发展理论对教育实践产生了深远影响：（1）**发展适宜性实践**（DAP）——课程内容和教学方法应与儿童的认知发展阶段相匹配；（2）**发现学习**——创造让儿童主动探索和发现的学习环境；（3）**认知冲突策略**——通过呈现与儿童现有认知结构矛盾的材料来引发失衡，促进认知发展；（4）**合作学习**——利用同伴间的认知冲突促进去中心化和观点采择能力的发展。
+
+Piaget's cognitive development theory has profoundly influenced educational practice: (1) **Developmentally Appropriate Practice (DAP)** — curriculum content and teaching methods should match children's cognitive developmental stage; (2) **Discovery learning** — creating environments where children actively explore and discover; (3) **Cognitive conflict strategies** — presenting materials that contradict children's existing cognitive structures to induce disequilibrium and promote cognitive development; (4) **Cooperative learning** — using peer cognitive conflict to promote decentration and perspective-taking.
+
+## 关联概念 / Related Concepts
+
+- [[assimilation-accommodation|同化与顺应]] — 认知发展的基本适应机制
+- [[stages|认知发展阶段]] — 四阶段理论的详细论述
+- [[schema|图式]] — 认知结构的基本功能单位
+- [[genetic-epistemology|发生认识论]] — 知识发生学的认识论框架
+- [[../../vygotsky/README|维果茨基的最近发展区]] — 社会文化视角的互补理论
+- [[../../erikson/README|埃里克森的心理社会发展]] — 心理社会维度的平行发展理论
+
+## 东西方对话 / East-West Dialogue
+
+### 与朱熹"格物致知"的对话 / Dialogue with Zhu Xi's "Investigating Things to Extend Knowledge"
+
+皮亚杰关于儿童通过与物理世界互动来建构知识的观点，与朱熹的"格物致知"学说有结构性的呼应。朱熹认为，通过对事物的深入探究（格物），可以达到对理（宇宙原理）的认知（致知）。两者都强调知识来源于主体与客体的互动，而非纯粹的内心冥想或被动接受。但朱熹的"理"是先验存在的宇宙秩序，认知的目标是发现而非建构这一秩序；而皮亚杰的认知结构是在互动中建构的，不存在预先给定的终极目标。
+
+Piaget's view that children construct knowledge through interaction with the physical world bears a structural resonance with Zhu Xi's doctrine of "investigating things to extend knowledge" (格物致知). Zhu Xi held that through deep investigation of things (gewu), one can attain knowledge (zhizhi) of li (cosmic principles). Both emphasize that knowledge arises from subject-object interaction rather than pure inner contemplation or passive reception. However, Zhu Xi's li is a pre-existing cosmic order to be discovered, while Piaget's cognitive structures are constructed through interaction, with no pre-given ultimate goal.
+
+### 与佛教"闻思修"三学的对话 / Dialogue with Buddhist Three Learnings
+
+佛教传统中的"闻思修"（śruta-cintā-bhāvanā，hearing-thinking-meditating）三学次第，与皮亚杰从感知经验到心理运算再到反思性抽象的发展序列有形式上的平行。"闻"对应于感知运动层面的经验接收，"思"对应于概念层面的分析推理，"修"对应于对思维过程本身的反思和超越。但佛教的目标是超越概念思维达到直接觉知（般若 / prajñā），而皮亚杰将形式运算视为发展的最高阶段。
+
+The Buddhist three learnings of "hearing-thinking-meditating" (śruta-cintā-bhāvanā) bear a formal parallel to Piaget's developmental sequence from sensory experience to mental operations to reflective abstraction. "Hearing" corresponds to sensorimotor experience reception, "thinking" to conceptual analysis and reasoning, "meditating" to reflection on and transcendence of the thinking process itself. However, Buddhism aims to transcend conceptual thinking to attain direct awareness (prajñā), while Piaget regarded formal operations as the highest stage of development.
+
+## 进阶阅读 / Further Reading
+
+- Piaget, J. (1952). *The Origins of Intelligence in Children*.（中译本：《儿童智慧的起源》）
+- Piaget, J. (1970). *Genetic Epistemology*.（中译本：《发生认识论原理》）
+- Flavell, J.H. (1963). *The Developmental Psychology of Jean Piaget*.
+- Wadsworth, B.J. (2004). *Piaget's Theory of Cognitive and Affective Development* (5th ed.).
+- Lourenço, O., & Machado, A. (1996). "In defense of Piaget's theory: A reply to 10 common criticisms." *Psychological Review*, 103(1), 143–164.
+- Case, R. (1985). *Intellectual Development: Birth to Adulthood*. — 新皮亚杰学派的代表性著作 / Neo-Piagetian representative work

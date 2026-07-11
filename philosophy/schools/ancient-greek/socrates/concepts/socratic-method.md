@@ -1,0 +1,130 @@
+---
+id: socratic-method
+title: 诘问法 · Socratic Method
+type: concept
+parent: socrates
+domain: philosophy
+tags:
+  - pedagogy
+  - dialectics
+  - epistemology
+---
+
+# 诘问法 · Socratic Method
+
+> "我不是知识的助产婆，我只是一个产婆——帮别人生产思想。" — 苏格拉底（借其母职业自喻）
+>
+> "I am not a midwife of knowledge, merely a midwife — helping others give birth to ideas." — Socrates (invoking his mother's profession)
+
+---
+
+## 定义 Definition
+
+诘问法（Socratic Method），又称"苏格拉底式对话"（Socratic Dialogue），是一种通过系统性的提问与回答来揭示信念中的矛盾、澄清概念含义、并引导对话者自主发现真理的教学与哲学探究方法。其核心策略不是传授知识，而是通过"助产术"（maieutic）帮助对话者从自身已有的经验和直觉中"生产"出真知。
+
+The Socratic Method, also called "Socratic Dialogue," is a pedagogical and philosophical inquiry method that uses systematic questioning and answering to expose contradictions in beliefs, clarify conceptual meanings, and guide interlocutors to discover truth independently. Its core strategy is not to transmit knowledge but to employ "maieutics" (midwifery) to help interlocutors "give birth" to genuine knowledge from their own experience and intuitions.
+
+---
+
+## 方法论结构 Methodological Structure
+
+诘问法并非随意的问答，而是具有严格的程序性结构：
+
+The Socratic Method is not casual Q&A but follows a rigorous procedural structure:
+
+### 第一步 Step 1: 设定问题 — "什么是 X？"
+苏格拉底总是以一个定义性问题开场："什么是正义？""什么是勇气？""什么是虔敬？"这个问题要求的不只是举例，而是一个普遍的定义（universal definition）。
+
+Socrates always opens with a definitional question: "What is justice?" "What is courage?" "What is piety?" This question demands not merely examples but a universal definition.
+
+### 第二步 Step 2: 接受初步定义
+对话者提出一个初步定义——通常是基于常识、传统或自信的直觉。苏格拉底不直接反驳，而是表示愿意学习。
+
+The interlocutor offers an initial definition—usually based on common sense, tradition, or confident intuition. Socrates does not immediately refute it but expresses willingness to learn.
+
+### 第三步 Step 3: 推导隐含后果
+苏格拉底从对话者自己的定义出发，通过逻辑推导揭示其隐含的后果和推论，这些后果往往与对话者的其他信念相矛盾。
+
+From the interlocutor's own definition, Socrates derives implicit consequences and inferences through logical deduction—consequences that often contradict the interlocutor's other beliefs.
+
+### 第四步 Step 4: 承认矛盾（Aporia）
+对话者面对自身信念中的矛盾，不得不放弃最初的定义。这种"建设性的困惑"（aporia）是苏格拉底方法的关键节点——它标志着从"自以为知"到"承认无知"的转变。
+
+Confronted with contradictions in their own beliefs, the interlocutor must abandon the initial definition. This "productive perplexity" (*aporia*) is the pivotal moment of the Socratic method—it marks the transition from "thinking one knows" to "acknowledging ignorance."
+
+### 第五步 Step 5: 重新追问（可选）
+在理想的对话中，aporia 不是终点，而是新一轮追问的起点。对话者在被清空了错误信念之后，以更高的自觉重新开始探求真理。
+
+In the ideal dialogue, *aporia* is not the endpoint but the starting point for renewed inquiry. Having been emptied of false beliefs, the interlocutor begins the search for truth with heightened self-awareness.
+
+---
+
+## 与智者派方法的对比 Contrast with Sophistic Method
+
+| 维度 Dimension | 诘问法 Socratic Method | 诡辩术 Sophistic Method |
+|---------------|----------------------|------------------------|
+| **目标 Goal** | 发现真理 / Discover truth | 赢得辩论 / Win the argument |
+| **态度 Attitude** | 自承无知 / Claim ignorance | 自称博学 / Claim expertise |
+| **方法 Method** | 追问与检验 / Questioning & testing | 修辞与说服 / Rhetoric & persuasion |
+| **收费 Fee** | 免费 / Free | 高昂学费 / High fees |
+| **知识观 Epistemology** | 真理可以被发现 / Truth is discoverable | 真理是相对的 / Truth is relative |
+
+---
+
+## 哲学基础 Philosophical Foundations
+
+诘问法预设了几个重要的哲学前提：
+
+The Socratic Method presupposes several important philosophical premises:
+
+1. **知识的内在性**：真知已经以某种形式存在于每个人的灵魂中，需要被"唤醒"而非从外部灌输。这一预设后来被柏拉图发展为"回忆说"（anamnesis）。
+
+   **Innateness of knowledge**: True knowledge already exists in some form within each person's soul, needing to be "awakened" rather than implanted from outside. This premise was later developed by Plato into the theory of *anamnesis* (recollection).
+
+2. **理性的普遍性**：所有人共享理性能力，因此通过对话可以发现普遍有效的真理。
+
+   **Universality of reason**: All people share rational capacity, so universally valid truths can be discovered through dialogue.
+
+3. **矛盾的不可能性**：一个一致连贯的信念系统不能包含真正的矛盾。如果发现矛盾，说明至少有一个信念是错误的。
+
+   **Impossibility of contradiction**: A coherent belief system cannot contain genuine contradictions. If contradictions are found, at least one belief must be false.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与禅宗公案 Dialogue with Zen Kōan
+
+禅宗的公案（kōan）修行与苏格拉底诘问法存在深刻的结构相似性。两者都通过看似荒谬的提问来打破常规思维模式，迫使修行者超越概念化的理解，进入直接的体验或领悟。然而，公案的目的是超越理性（指向"悟"），而苏格拉底方法的目的是通过理性达到更高的理性认知。
+
+Zen *kōan* practice shares deep structural similarities with Socratic elenchus. Both use seemingly paradoxical questioning to break habitual thought patterns, forcing practitioners beyond conceptual understanding into direct experience or realization. However, *kōan* aim to transcend rationality (pointing toward *satori*), while the Socratic method aims through rationality to reach higher rational cognition.
+
+### 与唯识学"五重唯识观" Dialogue with Yogācāra's Fivefold Contemplation
+
+唯识学的"五重唯识观"同样是一种层层递进的追问方法——从遣虚存实（排除虚假、保存真实）到遣相证性（超越现象、证入本性），每一重观都是一个概念的"清洗"过程。这与苏格拉底逐层剥离错误定义、逼近真知的过程具有方法论上的同构性。
+
+Yogācāra's "Fivefold Contemplation of Consciousness-Only" is similarly a progressive method of inquiry—from discarding the false and preserving the real, to transcending phenomena and realizing the nature—each level constituting a conceptual "purification." This is methodologically isomorphic to Socrates' progressive stripping away of false definitions to approach genuine knowledge.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **法学教育**：哈佛、耶鲁等法学院以苏格拉底方法为核心教学法，教授通过连续追问帮助学生理解法律原则的内在逻辑。
+- **医学教育**：临床教学中使用"pimping"（一种苏格拉底式追问）来训练医学生的诊断推理能力。
+- **心理治疗**：CBT 中的"苏格拉底式提问"引导患者自主检验认知扭曲。
+- **企业管理**：行动学习法（Action Learning）中的"提问式领导"。
+
+- **Legal education**: Harvard, Yale and other law schools use the Socratic method as their core pedagogy.
+- **Medical education**: Clinical teaching uses "pimping" (Socratic-style questioning) to train diagnostic reasoning.
+- **Psychotherapy**: "Socratic questioning" in CBT guides patients to independently examine cognitive distortions.
+- **Business leadership**: "Questioning leadership" in Action Learning methodology.
+
+---
+
+## 相关条目 Related Entries
+
+- [反驳术 Elenchus](elenchus.md)
+- [审视的人生 Examined Life](examined-life.md)
+- [柏拉图 · 回忆说](../plato/concepts/anamnesis.md)
+- [辩证法 Dialectics](../../concepts/dialectics.md)
+- [苏格拉底 · 苏格拉底](../README.md)

@@ -1,0 +1,94 @@
+---
+id: leibniz-pre-established-harmony
+title: 前定和谐 · Pre-established Harmony
+type: concept
+domain: philosophy
+school: rationalism
+thinker: leibniz
+tags:
+  - 前定和谐
+  - 身心问题
+  - 上帝
+  - 协调
+  - pre-established-harmony
+  - mind-body-problem
+  - God
+  - coordination
+cross-refs:
+  - id: leibniz-monad
+    relation: 推论
+  - id: descartes-mind-body-dualism
+    relation: 替代
+  - id: spinoza-substance-monism
+    relation: 对照
+---
+
+# 前定和谐 · Pre-established Harmony
+
+## 概念概述 / Concept Overview
+
+前定和谐（Pre-established Harmony / Harmonie préétablie）是莱布尼茨解决身心问题的核心方案。由于单子是"无窗的"，它们之间不存在因果交互作用。但我们的日常经验清楚地表明，心理状态和身体状态之间存在着精确的对应关系——我决定举手，手就举起来了；针刺我的手指，我感到疼痛。莱布尼茨的解释是：这种对应关系不是由实时因果互动产生的，而是上帝在创世时就预先安排了所有单子之间的完美协调。
+
+Pre-established Harmony is Leibniz's core solution to the mind-body problem. Since monads are "windowless," there is no causal interaction between them. Yet daily experience clearly shows precise correspondence between mental and bodily states — I decide to raise my hand, it rises; a needle pricks my finger, I feel pain. Leibniz explains: this correspondence is not produced by real-time causal interaction but by God's pre-arrangement at creation of perfect coordination among all monads.
+
+## 三种身心理论的比较 / Comparing Three Mind-Body Theories
+
+莱布尼茨在《新体系》（1695）中用一个著名的"时钟比喻"来比较三种身心关系理论：
+
+In the *New System* (1695), Leibniz uses a famous "clock analogy" to compare three mind-body theories:
+
+想象有两台完美同步的时钟。有三种方式可以解释它们的同步：
+
+Imagine two perfectly synchronized clocks. There are three ways to explain their synchronization:
+
+1. **相互影响说（Influxus physicus / Physical Influx）**：两台时钟通过某种物理连接相互影响。这是"常识"观点和笛卡尔的二元论——心灵和身体通过松果体相互作用。莱布尼茨认为这不可理解：两种完全不同性质的实体如何传递因果影响？
+
+2. **偶因论（Occasionalism）**：有一个钟表匠在每一刻都手动调整两台时钟，使它们保持同步。这是马勒伯朗士的理论——上帝在每一个身心"交互"的瞬间都直接干预。莱布尼茨批评说，这把上帝变成了一个"永恒的修补匠"（deus ex machina），有损上帝的智慧和尊严。
+
+3. **前定和谐说（Pre-established Harmony）**：钟表匠在制造两台时钟时就如此精巧地设计它们，使它们从此以后自发地保持同步——无需任何物理连接或后续调整。这是莱布尼茨自己的理论。
+
+1. **Physical Influx**: The two clocks influence each other through some physical connection. This is the "commonsense" view and Cartesian dualism — mind and body interact via the pineal gland. Leibniz finds this unintelligible: how can causation transfer between entities of completely different natures?
+
+2. **Occasionalism**: A clockmaker manually adjusts both clocks at every moment to keep them synchronized. This is Malebranche's theory — God directly intervenes at every apparent mind-body "interaction." Leibniz objects that this makes God a "perpetual tinkerer" (deus ex machina), undermining divine wisdom and dignity.
+
+3. **Pre-established Harmony**: The clockmaker designs both clocks at manufacture so skillfully that they spontaneously maintain synchronization thereafter — no physical connection or subsequent adjustment needed. This is Leibniz's own theory.
+
+## 前定和谐的认识论基础 / Epistemological Basis
+
+前定和谐理论建立在莱布尼茨的"完整概念"（complete concept）学说之上。每个单子都有一个"个体概念"，包含了它从创世到世界终结将经历的所有事件和状态。因此，单子的整个历史在创世之初就被确定了——不是被外部力量"强制"确定，而是作为该单子的内在发展逻辑。
+
+Pre-established harmony is grounded in Leibniz's "complete concept" doctrine. Each monad has an "individual concept" containing all events and states it will undergo from creation to the world's end. Thus, a monad's entire history was determined at creation — not "forced" by external forces but as the monad's own internal developmental logic.
+
+这意味着我的灵魂（作为主导单子）和构成我身体的无数单子之间的对应关系，是在创世时就被安排好的。当我"决定"举手时，这个决定是我的灵魂单子的内在发展；同时，我的手臂的运动是构成手臂的物质单子的内在发展。两者之间没有因果关系，但由于上帝的预先安排，它们精确地对应。
+
+This means the correspondence between my soul (as dominant monad) and the countless monads composing my body was arranged at creation. When I "decide" to raise my hand, this decision is my soul-monad's internal development; simultaneously, my arm's movement is the internal development of the material monads composing it. No causal relation exists between them, but God's pre-arrangement ensures their precise correspondence.
+
+## 批评与当代意义 / Criticisms and Contemporary Significance
+
+前定和谐面临的主要批评包括：
+
+Key criticisms of pre-established harmony include:
+
+1. **神学负担**：前定和谐依赖于一个全知全能的上帝来预先安排一切，这对世俗哲学来说是不可接受的前提。
+2. **决定论困境**：如果一切都在创世时被预先确定，那么自由意志如何可能？莱布尼茨回应说，单子的行为是被"inclined but not necessitated"（倾向于而非必然地决定）的——但这是否真正解决了自由与决定论的矛盾，仍有争议。
+3. **解释力不足**：前定和谐只是用一个更大的谜（上帝的预先安排）来解释一个谜（身心对应），是否真正提供了"解释"？
+
+1. **Theological burden**: Pre-established harmony depends on an omniscient, omnipotent God to pre-arrange everything — an unacceptable premise for secular philosophy.
+2. **Determinism dilemma**: If everything was pre-determined at creation, how is free will possible? Leibniz responds that monadic actions are "inclined but not necessitated" — but whether this truly resolves the freedom-determinism conflict remains debatable.
+3. **Explanatory insufficiency**: Pre-established harmony explains one mystery (mind-body correspondence) with a bigger mystery (God's pre-arrangement) — does it truly provide an "explanation"?
+
+然而，前定和谐在当代获得了新的类比。在计算机科学中，分布式系统中各组件的"一致性协议"可以被视为一种"技术性前定和谐"。在神经科学中，大脑不同区域的"绑定问题"（binding problem）——如何将分散在不同脑区的神经活动整合为统一的意识体验——可以被重新表述为一种"自然的前定和谐"问题。
+
+Yet pre-established harmony has gained new analogies. In computer science, "consistency protocols" in distributed systems can be seen as "technical pre-established harmony." In neuroscience, the "binding problem" — how distributed neural activity across brain regions integrates into unified conscious experience — can be reframed as a "natural pre-established harmony" problem.
+
+## 参考文献 / References
+
+- Leibniz, G. W. *New System of the Nature and Communication of Substances* (1695).
+- Leibniz, G. W. *Monadology*, §§78–87.
+- Lodge, P. (ed.) (2004). *Leibniz's Monadology: A New Translation and Guide*. Edinburgh University Press.
+
+## 相关概念 / Related Concepts
+
+- [单子论](monad.md) — 前定和谐的形而上学基础
+- [最好的可能世界](best-of-all-worlds.md) — 上帝为何选择这个世界
+- [充足理由律](sufficient-reason.md) — 前定和谐的理由

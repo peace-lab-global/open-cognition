@@ -1,0 +1,141 @@
+---
+id: bach-timeline
+title: "巴赫生平大事记 · Johann Sebastian Bach: Biographical Timeline"
+type: timeline
+domain: arts
+school: music
+thinker: bach
+tags: [bach, timeline, biography, baroque]
+cross-refs:
+  - id: bach
+    relation: thinker
+  - id: bach-works
+    relation: works
+---
+
+# 巴赫生平大事记 · Johann Sebastian Bach: Biographical Timeline
+
+## 一、爱森纳赫与奥尔德鲁夫时期 / Eisenach and Ohrdruf (1685–1700)
+
+**1685** | 3月31日（旧历3月21日），约翰·塞巴斯蒂安·巴赫生于德国图林根地区爱森纳赫。父亲约翰·安布罗修斯·巴赫（Johann Ambrosius Bach）为城镇音乐家，母亲伊丽莎白·莱默希尔德（Elisabeth Lämmerhirt）出身面包师家庭。巴赫家族已延续七代音乐传统。
+*Born in Eisenach, Thuringia. Father Johann Ambrosius Bach was town musician. The Bach family had sustained seven generations of musical tradition.*
+
+**1692** | 七岁的巴赫进入爱森纳赫拉丁学校学习，同时接受父亲的小提琴基础训练。
+*Entered the Latin school in Eisenach; received basic violin instruction from his father.*
+
+**1694** | 母亲伊丽莎白去世。同年，父亲再婚。
+*Mother Elisabeth died. Father remarried the same year.*
+
+**1695** | 2月，父亲去世。十岁的巴赫与弟弟约翰·雅各布由长兄约翰·克里斯托夫·巴赫（奥尔德鲁夫管风琴师，约翰·帕赫贝尔的学生）抚养。在兄长指导下系统学习键盘乐器与作曲基础，并抄写研习弗罗贝格尔、帕赫贝尔等前辈乐谱。
+*Father died. Ten-year-old Bach and his brother Johann Jakob were raised by eldest brother Johann Christoph Bach, organist at Ohrdruf and a student of Pachelbel. Systematic keyboard and composition studies began, including copying scores of Froberger and Pachelbel.*
+
+## 二、吕讷堡时期 / Lüneburg (1700–1703)
+
+**1700** | 凭借优异的歌喉，获吕讷堡圣米歇尔学校奖学金。吕讷堡地处北德，接近法国文化圈和汉堡的音乐生活。在此接触北德管风琴学派（格奥尔格·伯姆 Georg Böhm 的影响）和法国音乐。
+*Won a choral scholarship to St Michael's School in Lüneburg. Encountered the North German organ school (influence of Georg Böhm) and French musical culture.*
+
+**1701** | 据传曾徒步前往汉堡聆听约翰·亚当·赖因肯（Johann Adam Reinken）的管风琴演奏。
+*Reportedly walked to Hamburg to hear Johann Adam Reinken play the organ.*
+
+## 三、阿恩施塔特与米尔豪森时期 / Arnstadt and Mühlhausen (1703–1708)
+
+**1703** | 在阿恩施塔特新教堂任管风琴师。同年，魏玛约翰·恩斯特公爵邀请其为新管风琴验收试奏。
+*Appointed organist at the New Church in Arnstadt. Invited by Duke Johann Ernst of Weimar to test a new organ.*
+
+**1705** | 获准休假，徒步约300公里前往吕贝克拜访迪特里希·布克斯特胡德（Dieterich Buxtehude）。在吕贝克逗留约四个月（超出假期，引发雇主不满），深受北德管风琴即兴幻想风格和自由和声语言影响。
+*Walked approximately 300 km to Lübeck to visit Buxtehude. Stayed about four months (exceeding leave, displeasing employers). Deeply influenced by the North German organ improvisatory fantasia style and free harmonic language.*
+
+**1707** | 转任米尔豪森圣布拉修斯教堂管风琴师。10月与表姐玛丽亚·芭芭拉·巴赫（Maria Barbara Bach）结婚。创作最早的康塔塔之一《基督躺在死亡的锁链中》（BWV 4）。
+*Transferred to organist at St Blasius Church, Mühlhausen. Married cousin Maria Barbara Bach in October. Composed one of the earliest cantatas, "Christ lag in Todes Banden" (BWV 4).*
+
+## 四、魏玛时期 / Weimar (1708–1717)
+
+**1708** | 接受萨克森-魏玛公爵威廉·恩斯特的聘请，任宫廷管风琴师。开始系统创作管风琴作品，包括《管风琴小书》（*Orgelbüchlein*）的初期构思。
+*Accepted the post of court organist to Duke Wilhelm Ernst of Saxe-Weimar. Began systematic organ composition, including early conception of the Orgelbüchlein.*
+
+**1714** | 升任 Konzertmeister（音乐会首席），开始每月创作一首宗教康塔塔。深入研究维瓦尔第的协奏曲，将若干改编为键盘作品。
+*Promoted to Konzertmeister. Began composing monthly sacred cantatas. Deeply studied Vivaldi's concertos, transcribing several for keyboard.*
+
+**1717** | 接受科滕利奥波德亲王的宫廷乐长职位。魏玛公爵拒绝放行，巴赫因此被短期监禁约一个月。12月获释后赴科滕就职。
+*Accepted the Kapellmeister position at Prince Leopold's court in Köthen. Duke Wilhelm Ernst refused release; Bach was briefly imprisoned for about a month. Released in December and moved to Köthen.*
+
+## 五、科滕时期 / Köthen (1717–1723)
+
+**1717–1721** | 利奥波德亲王信奉加尔文宗，教堂仪式不使用复杂音乐，巴赫的创作重心转向世俗器乐。这一时期诞生了众多杰出器乐作品。
+*Prince Leopold's Calvinist faith meant elaborate church music was not required. Bach's creative focus shifted to secular instrumental music, producing numerous outstanding works.*
+
+**1720** | 7月，随亲王外出旅行归来时发现妻子玛丽亚·芭芭拉已于7月7日去世（年仅35岁），已入葬。巴赫创作了《恰空》（BWV 1004，小提琴独奏组曲）——有学者认为此曲是对亡妻的哀歌。
+*Upon returning from travel with the Prince in July, discovered his wife Maria Barbara had died on July 7 (aged 35) and was already buried. Possibly composed the Chaconne (BWV 1004, solo violin partita) as a lament.*
+
+**1721** | 完成《勃兰登堡协奏曲》（BWV 1046–51），呈献给勃兰登堡-施韦特边疆伯爵。12月与宫廷女高音歌手安娜·玛格达莱娜·维尔克（Anna Magdalena Wilcke）结婚。
+*Completed the Brandenburg Concertos (BWV 1046–51), dedicated to the Margrave of Brandenburg-Schwedt. Married court soprano Anna Magdalena Wilcke in December.*
+
+**1722** | 完成《平均律钢琴曲集》第一卷（BWV 846–869），为键盘教学与调律论证而作。
+*Completed the Well-Tempered Clavier Book I (BWV 846–869), composed for keyboard pedagogy and tuning demonstration.*
+
+**1723** | 通过严格的面试与试奏，获任莱比锡圣托马斯学校乐监（Thomaskantor），负责为莱比锡四座主要教堂提供音乐，并在圣托马斯学校教授拉丁文和音乐。
+*Appointed Thomaskantor in Leipzig after rigorous interview and audition, responsible for music at Leipzig's four principal churches and teaching Latin and music at St Thomas School.*
+
+## 六、莱比锡时期 / Leipzig (1723–1750)
+
+**1723–1729** | 系统创作五个年度周期的宗教康塔塔（约300首，现存约200首），为每个礼拜日和宗教节日提供音乐。
+*Systematically composed five annual cycles of sacred cantatas (approximately 300 total, about 200 surviving), providing music for every Sunday and feast day.*
+
+**1724** | 4月7日，《约翰受难曲》（BWV 245）在莱比锡圣尼古拉教堂首演。
+*St John Passion (BWV 245) premiered at St Nicholas Church, Leipzig, on April 7.*
+
+**1727** | 4月11日（耶稣受难日），《马太受难曲》（BWV 244）在圣托马斯教堂首演。这部双合唱团、双管弦乐队的宏大作在当时反响不一——据传有贵族听众抱怨"这太像歌剧了"。
+*St Matthew Passion (BWV 244) premiered at St Thomas Church on April 11 (Good Friday). The monumental double-choir, double-orchestra work received mixed reactions — reportedly, one aristocratic listener complained "this is just like opera."*
+
+**1731** | 出版《键盘练习曲集》第一部分（Clavier-Übung I），含六首帕蒂塔（BWV 825–830）。
+*Published Clavier-Übung I, containing six partitas (BWV 825–830).*
+
+**1733** | 将《荣耀经》（Kyrie 和 Gloria）呈献给萨克森选帝侯弗里德里希·奥古斯特二世（即波兰国王奥古斯特三世），希望获得宫廷头衔。这些乐章后来被扩展为《b小调弥撒》。
+*Presented the Kyrie and Gloria to Elector Friedrich August II of Saxony (King Augustus III of Poland), seeking a court title. These movements were later expanded into the Mass in B minor.*
+
+**1735** | 出版《意大利协奏曲》（BWV 971）和《键盘练习曲集》第二部分。
+*Published the Italian Concerto (BWV 971) and Clavier-Übung II.*
+
+**1736** | 获得萨克森宫廷"皇家作曲家"（Royal Court Composer）头衔。
+*Received the title of "Royal Court Composer" from the Saxon court.*
+
+**1739** | 出版《键盘练习曲集》第三部分（BWV 552, 669–689），即"管风琴弥撒"。
+*Published Clavier-Übung III (BWV 552, 669–689), the "Organ Mass."*
+
+**1741** | 《哥德堡变奏曲》（BWV 988）出版。据传为俄国驻萨克森大使凯泽林伯爵的失眠症而作。
+*The Goldberg Variations (BWV 988) published. Reportedly composed for Count Kaiserling, Russian ambassador to Saxony, who suffered from insomnia.*
+
+**1742** | 完成《平均律钢琴曲集》第二卷（BWV 870–893）。开始创作《赋格的艺术》（BWV 1080）。
+*Completed the Well-Tempered Clavier Book II (BWV 870–893). Began work on the Art of Fugue (BWV 1080).*
+
+**1747** | 5月，访问波茨坦腓特烈大帝宫廷。腓特烈大帝给出一个复杂主题，要求巴赫即兴赋格。巴赫不仅完成了三声部赋格的即兴演奏，回莱比锡后更写成了《音乐的奉献》（BWV 1079），包括六声部赋格（Ricercar a 6）。
+*Visited Frederick the Great's court in Potsdam in May. Frederick provided a complex theme and challenged Bach to improvise a fugue. Bach accomplished a three-voice fugue improvisation and, upon returning to Leipzig, composed the Musical Offering (BWV 1079), including the six-voice Ricercar.*
+
+**1749** | 完成《b小调弥撒》（BWV 232）最终版本。健康状况开始恶化，视力下降。
+*Completed the final version of the Mass in B minor (BWV 232). Health began to decline, with deteriorating eyesight.*
+
+**1750** | 3月，接受英国眼科医生约翰·泰勒（John Taylor）的眼部手术，两次手术均未成功，导致完全失明。术后健康急剧恶化。7月28日晚8时15分逝于莱比锡，终年65岁。葬于圣约翰教堂墓地（后迁至圣托马斯教堂）。《赋格的艺术》未完成——最后的 Contrapunctus XIV 在引入"B-A-C-H"动机后中断。
+*Underwent eye surgery by English oculist John Taylor in March; both operations were unsuccessful, resulting in complete blindness. Health deteriorated rapidly. Died in Leipzig at 8:15 PM on July 28, aged 65. Buried at St John's Church cemetery (later moved to St Thomas Church). The Art of Fugue remained unfinished — the final Contrapunctus XIV breaks off at the point where the B-A-C-H motif is introduced.*
+
+## 七、身后与复兴 / Posthumous Legacy and Revival
+
+**1751** | 《赋格的艺术》由巴赫之子C.P.E.巴赫整理出版。
+*The Art of Fugue published posthumously, edited by C.P.E. Bach.*
+
+**1802** | 约翰·尼古拉·福克尔（Johann Nikolaus Forkel）出版首部巴赫传记。
+*Johann Nikolaus Forkel published the first Bach biography.*
+
+**1829** | 3月11日，20岁的菲利克斯·门德尔松（Felix Mendelssohn）在柏林指挥《马太受难曲》的复兴演出（距首演102年），标志着"巴赫复兴运动"的开始。巴赫的伟大作曲家地位由此确立。
+*On March 11, 20-year-old Felix Mendelssohn conducted a revival performance of the St Matthew Passion in Berlin (102 years after its premiere), marking the beginning of the "Bach Revival." Bach's status as a great composer was thus established.*
+
+**1850** | 巴赫学会（Bach-Gesellschaft）成立，开始出版首部学术全集版。
+*The Bach-Gesellschaft (Bach Society) was founded, beginning publication of the first scholarly complete edition.*
+
+**1950** | 沃尔夫冈·施密德编订 BWV 目录。首届莱比锡国际巴赫比赛举行。
+*Wolfgang Schmieder compiled the BWV catalogue. First Leipzig International Bach Competition held.*
+
+**1954** | 新巴赫全集（NBA）开始出版。
+*The Neue Bach-Ausgabe (NBA) began publication.*
+
+**2000** | 巴赫逝世250周年。全球举行大规模纪念活动。加德纳（John Eliot Gardiner）完成"巴赫康塔塔朝圣之旅"（Bach Cantata Pilgrimage），在52周内演出全部现存宗教康塔塔。
+*250th anniversary of Bach's death. Worldwide commemorations. Gardiner completed the "Bach Cantata Pilgrimage," performing all surviving sacred cantatas in 52 weeks.*

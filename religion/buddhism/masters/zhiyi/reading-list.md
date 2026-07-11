@@ -1,0 +1,53 @@
+---
+id: zhiyi-reading-list
+title: "智顗进阶阅读 Zhìyǐ: Annotated Reading List"
+type: reading-list
+parent: zhiyi
+---
+
+# 智顗进阶阅读 / Reading List for Zhìyǐ
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **《摩诃止观》** — 天台止观理论巅峰（大正藏 T1911）
+  - Paul Swanson & Junjirō Takasaki 编 (BDK, 2004) — 英译
+
+- **《法华玄义》** — 判教核心（大正藏 T1716）
+  - Burton Watson 部分英译
+
+- **《小止观》** — 禅修入门
+  - Bhikshu Dharmamitra 译 (Kalavinka Press)
+
+### 推荐 Recommended
+
+- **《六妙门》** — 数息观
+- **《四教义》** — 判教系统
+
+## 研究专著 / Scholarly Monographs
+
+### 必读 Essential
+
+- **Paul Swanson**, *Foundations of T'ien-T'ai Philosophy* (Asian Humanities Press, 1989)
+  - 最佳英文学术研究
+- **Brook Ziporyn**, *Evil and/or/as the Good* (SUNY, 2000)
+  - 天台"性恶"理论的哲学分析
+
+### 推荐 Recommended
+
+- **潘桂明**, *《智顗评传》* (南京大学出版社)
+- **Leon Hurvitz**, *Chih-i (538-597): An Introduction to the Life and Ideas of a Chinese Buddhist Monk* (1962)
+- **田代俊孝**, 多篇关于天台止观的论文
+
+## 入门读物 / Introductory
+
+- **圣严法师**, *《天台教典概说》* — 现代最佳入门
+- **释印顺**, *《中国禅宗史》* — 天台与禅的比较
+- **Paul Swanson**, *Understanding T'ien-T'ai Buddhism* (2004)
+
+## 跨学科阅读 / Interdisciplinary
+
+- **吉藏《大乘玄论》** — 同时代的中观学
+- **道元《正法眼藏》** — 日本天台宗的后继发展
+- **Edmund Husserl**, *Cartesian Meditations* — 现象学与止观的比较

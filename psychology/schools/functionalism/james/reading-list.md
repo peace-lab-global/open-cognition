@@ -1,0 +1,169 @@
+---
+id: james-reading-list
+title: "威廉·詹姆斯阅读清单 · William James Reading List"
+type: reading-list
+thinker: james-william-funct
+school: functionalism
+---
+
+# 威廉·詹姆斯阅读清单 · William James Reading List
+
+---
+
+## 一、原典 / Primary Sources
+
+### 核心必读 / Essential Reading
+
+| 著作 / Work | 推荐章节 / Recommended Sections | 说明 / Notes |
+|---|---|---|
+| *The Principles of Psychology* (1890) | Ch.4 "Habit"; Ch.9 "The Stream of Thought"; Ch.10 "The Consciousness of Self"; Ch.25 "The Emotions" | 心理学奠基文本。这四章涵盖了詹姆斯心理学的核心概念 |
+| *The Will to Believe and Other Essays* (1897) | "The Will to Believe"; "The Moral Philosopher and the Moral Life" | 实用主义信仰论与伦理学 |
+| *The Varieties of Religious Experience* (1902) | Lectures IV–V "The Religion of Healthy-Mindedness"; Lectures VI–VII "The Sick Soul"; Lectures IX–X "Conversion" | 宗教心理学经典 |
+| *Pragmatism* (1907) | Lecture II "What Pragmatism Means"; Lecture VI "Pragmatism's Conception of Truth" | 实用主义哲学核心 |
+
+### 进阶原典 / Advanced Primary Sources
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| *Psychology: Briefer Course* (1892) | 《心理学原理》的教学缩写本，更容易阅读 |
+| *Talks to Teachers on Psychology* (1899) | 教育心理学，通俗易懂 |
+| *A Pluralistic Universe* (1909) | 多元论哲学，反对黑格尔式一元论 |
+| *Essays in Radical Empiricism* (1912) | 晚年哲学，"纯粹经验"概念 |
+| *Some Problems of Philosophy* (1911) | 未完成的形而上学著作 |
+
+---
+
+## 二、二手研究（英文） / Secondary Literature (English)
+
+### 传记 / Biography
+
+| 作者 / Author | 著作 / Work | 年份 / Year | 说明 / Notes |
+|---|---|---|---|
+| Richardson, R. D. | *William James: In the Maelstrom of American Modernism* | 2006 | **最佳传记**。详尽、文学性强、思想深邃 |
+| Simon, L. | *Genuine Reality: A Life of William James* | 1998 | 另一部重要传记 |
+| Myers, G. E. | *William James: His Life and Thought* | 1986 | 思想传记 |
+
+### 哲学研究 / Philosophical Studies
+
+| 作者 / Author | 著作 / Work | 年份 / Year | 说明 / Notes |
+|---|---|---|---|
+| Taylor, E. | *William James on Ethics and Faith* | 2002 | 詹姆斯伦理学与信仰哲学 |
+| Pawelski, J. O. | *The Dynamic Individualism of William James* | 2007 | 个人主义与多元论 |
+| Putnam, H. | *Pragmatism: An Open Question* | 1995 | 普特南论实用主义 |
+| Misak, C. | *The American Pragmatists* | 2013 | 美国实用主义综合史 |
+| Haack, S. | *Manifesto of a Passionate Moderate* | 1998 | 包含对詹姆斯实用主义的分析 |
+| Barwich, A. K. (Ed.) | *Neuropragmatism* | 2020 | 实用主义与神经科学的结合 |
+| Seigfried, C. H. | *William James's Radical Reconstruction of Philosophy* | 1990 | 詹姆斯哲学的彻底重建 |
+| McDermott, J. J. | *The Culture of Experience* | 1976 | 美国经验哲学传统 |
+
+### 心理学研究 / Psychological Studies
+
+| 作者 / Author | 著作 / Work | 年份 / Year | 说明 / Notes |
+|---|---|---|---|
+| Taylor, E. | *William James on Exceptional Mental States* | 1996 | 詹姆斯对异常心理状态的研究 |
+| Leary, D. E. (Ed.) | *William James and a Science of Religions* | 2004 | 詹姆斯宗教心理学 |
+| Feinstein, J. S. | "William James and the Varieties of Religious Experience" | — | 论文，分析宗教经验研究 |
+
+---
+
+## 三、中文资源 / Chinese Resources
+
+### 中译原典 / Chinese Translations
+
+| 原著 / Original | 中译本 / Chinese Translation | 出版社 / Publisher | 说明 / Notes |
+|---|---|---|---|
+| *The Principles of Psychology* | 《心理学原理》（选译） | 商务印书馆 | 可选读"意识流""习惯""自我"等章 |
+| *The Varieties of Religious Experience* | 《宗教经验之种种》 | 商务印书馆 | 宗教心理学经典中译 |
+| *Pragmatism* | 《实用主义》 | 商务印书馆 | 实用主义哲学宣言 |
+| *The Will to Believe* | 《信仰意志》 | — | 可寻找文集版本 |
+| *Talks to Teachers* | 《与教师谈心理学》 | — | 教育心理学 |
+
+### 中文研究 / Chinese Secondary Literature
+
+| 作者 / Author | 著作 / Work | 出版社 / Publisher | 说明 / Notes |
+|---|---|---|---|
+| 刘放桐 | 《实用主义：美国思想的主流》 | 上海人民出版社 | 美国实用主义综合论述 |
+| 陈亚军 | 《实用主义：从皮尔士到布兰顿》 | 北京大学出版社 | 实用主义发展史 |
+| 江怡 | 《走向新实用主义》 | 社会科学文献出版社 | 当代新实用主义 |
+| 尚健在 | 《威廉·詹姆斯的宗教哲学》 | — | 詹姆斯宗教思想研究 |
+
+---
+
+## 四、关联阅读 / Related Reading
+
+### 同时代人物 / Contemporaries
+
+| 人物 / Figure | 推荐著作 / Recommended Work | 关系 / Relation |
+|---|---|---|
+| Charles Sanders Peirce | "How to Make Our Ideas Clear" (1878) | 实用主义创始人 |
+| John Dewey | *Democracy and Education* (1916) | 功能主义与实用主义的继承者 |
+| Henri Bergson | *Creative Evolution* (1907) | "绵延"与"意识流"的对话 |
+| G. Stanley Hall | *Adolescence* (1904) | 詹姆斯的学生，发展心理学先驱 |
+| Josiah Royce | *The Religious Aspect of Philosophy* (1885) | 詹姆斯的同事与哲学对手 |
+
+### 先驱人物 / Predecessors
+
+| 人物 / Figure | 推荐著作 / Recommended Work | 关系 / Relation |
+|---|---|---|
+| Hermann von Helmholtz | *Handbook of Physiological Optics* | 生理学方法论的影响 |
+| Charles Darwin | *On the Origin of Species* (1859) | 进化论对功能主义的基础性影响 |
+| David Hume | *A Treatise of Human Nature* (1739) | 经验主义传统 |
+| Herbert Spencer | *Principles of Psychology* (1855) | 进化心理学的早期尝试 |
+
+### 后继者 / Successors
+
+| 人物 / Figure | 推荐著作 / Recommended Work | 关系 / Relation |
+|---|---|---|
+| Antonio Damasio | *The Feeling of What Happens* (1999) | James-Lange情绪理论的当代继承 |
+| Lisa Feldman Barrett | *How Emotions Are Made* (2017) | 情绪构造论 |
+| Gerald Edelman | *Wider Than the Sky* (2004) | 意识科学 |
+| Richard Rorty | *Philosophy and the Mirror of Nature* (1979) | 新实用主义 |
+| Mihaly Csikszentmihalyi | *Flow* (1990) | "心流"与意识流的概念亲缘 |
+
+### 东方思想 / Eastern Thought
+
+| 领域 / Domain | 推荐著作 / Recommended Work | 关系 / Relation |
+|---|---|---|
+| 唯识学 Yogācāra | 《成唯识论》/ *Cheng Weishi Lun* | 熏习（vāsanā）与习惯理论的对话 |
+| 阿毗达磨 Abhidharma | 《清净道论》/ *Visuddhimagga* | 有分心与意识流的平行 |
+| 禅宗 Zen | 《六祖坛经》/ *Platform Sutra* | 当下意识与意识选择性的对话 |
+| 道家 Daoism | 《庄子》/ *Zhuangzi* | "心斋"与意识过渡状态的共鸣 |
+| 儒家 Confucianism | 《中庸》/ *Doctrine of the Mean* | "诚"与"信念创造事实"的呼应 |
+
+---
+
+## 五、阅读建议 / Reading Suggestions
+
+### 入门路径 / Beginner Path
+
+**中**
+
+1. 先读《心理学原理》第9章"意识流"和第4章"习惯"——这是理解詹姆斯心理学的最佳入口
+2. 然后读《实用主义》第2讲"什么是实用主义"——理解詹姆斯哲学的基本立场
+3. 再读《信仰意志》——理解詹姆斯在信仰与理性之间的平衡
+4. 最后读Richardson传记的前几章——了解詹姆斯的个人经历和思想背景
+
+**EN**
+
+1. Start with *Principles of Psychology* Ch.9 "Stream of Thought" and Ch.4 "Habit"—the best entry points to James's psychology
+2. Then read *Pragmatism* Lecture II "What Pragmatism Means"—to understand James's basic philosophical stance
+3. Then read "The Will to Believe"—to understand James's balance between faith and reason
+4. Finally read the first chapters of Richardson's biography—to understand James's personal experience and intellectual context
+
+### 进阶路径 / Advanced Path
+
+**中**
+
+1. 通读《心理学原理》全两卷——这是心理学史上最重要的文本之一
+2. 精读《宗教经验之种种》——特别是"健康灵魂"与"病态灵魂"的对比
+3. 研读《彻底经验主义论文集》——詹姆斯最晚期的哲学思考
+4. 对比阅读皮尔士、杜威、罗蒂——理解实用主义传统的演变
+5. 将詹姆斯与东方思想对照阅读——探索东西方对话的可能性
+
+**EN**
+
+1. Read the full two volumes of *The Principles of Psychology*—one of the most important texts in the history of psychology
+2. Study *The Varieties of Religious Experience* closely—especially the contrast between "healthy-minded" and "sick soul"
+3. Study *Essays in Radical Empiricism*—James's latest philosophical thinking
+4. Comparative reading with Peirce, Dewey, Rorty—to understand the evolution of the pragmatist tradition
+5. Read James alongside Eastern thought—to explore possibilities of East-West dialogue

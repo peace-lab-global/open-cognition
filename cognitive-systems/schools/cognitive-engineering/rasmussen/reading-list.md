@@ -1,0 +1,20 @@
+---
+id: cognitive-systems.school.cognitive-engineering.rasmussen.reading-list
+title: 拉斯穆森阅读指南 Jens Rasmussen Reading List
+type: reading-list
+thinker: rasmussen
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 拉斯穆森阅读指南 / Jens Rasmussen Reading List
+
+## 入门路径
+
+1. Rasmussen, J. (1983). "Skills, Rules, and Knowledge." *IEEE Trans. SMC* 13(3).
+2. Rasmussen, J. (1986). *Information Processing and Human-Machine Interaction*. North-Holland.
+
+## 二手研究
+
+- Vicente, K. (1999). *Cognitive Work Analysis*. Lawrence Erlbaum.
+- Hollnagel, E. (1998). *CREAM*. 继承Rasmussen的错误分类传统。

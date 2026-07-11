@@ -1,0 +1,93 @@
+---
+id: marx-alienation
+title: 异化 · Alienation
+type: concept
+domain: sociology
+thinker: marx
+school: classical
+tags:
+  - alienation
+  - labour
+  - philosophy
+  - humanism
+cross-refs:
+  - marx/surplus-value
+  - marx/base-superstructure
+  - goffman/self-presentation
+  - butler/performativity
+---
+
+# 异化 · Alienation (Entfremdung)
+
+## 概念界定 / Concept Definition
+
+异化（Entfremdung / Alienation）是马克思早期思想的核心概念，指在特定社会关系（特别是资本主义生产关系）中，人的活动及其产物反过来成为支配人、压迫人的异己力量。这一概念具有深厚的哲学渊源——从黑格尔的精神异化到费尔巴哈的宗教异化——但马克思将其从思辨领域转移到现实的经济生活领域，赋予其革命性的新内涵。
+
+Alienation (Entfremdung) is the core concept of Marx's early thought, referring to the process by which, under specific social relations (especially capitalist relations of production), human activity and its products become alien forces that dominate and oppress humans. This concept has deep philosophical roots—from Hegel's alienation of Spirit to Feuerbach's religious alienation—but Marx transferred it from the speculative realm to the concrete realm of economic life, endowing it with revolutionary new meaning.
+
+## 四重异化 / Fourfold Alienation
+
+在《1844年经济学哲学手稿》中，马克思系统阐述了异化劳动的四个维度：
+
+In the Economic and Philosophic Manuscripts of 1844, Marx systematically elaborated four dimensions of alienated labour:
+
+### 1. 工人与劳动产品的异化 / Worker's Alienation from the Product of Labour
+
+工人生产的产品不属于工人，而属于资本家。工人创造得越多，他自己就越贫穷。劳动产品作为一种"异己的存在物"同工人相对立，成为统治工人的力量。
+
+The product of the worker's labour does not belong to the worker but to the capitalist. The more the worker produces, the poorer he becomes. The product of labour confronts the worker as an "alien existence," a power that rules over him.
+
+### 2. 工人与劳动过程的异化 / Worker's Alienation from the Process of Labour
+
+劳动不是工人的自愿活动，而是被迫的、外在的活动。工人在劳动中不属于自己，而属于别人。劳动对工人而言是"自我牺牲、自我折磨"，他在不劳动时才感到自由。
+
+Labour is not the worker's voluntary activity but a coerced, external activity. In labour, the worker does not belong to himself but to another. Labour is for the worker "self-sacrifice, self-torment"; he feels free only when not working.
+
+### 3. 工人与类本质的异化 / Worker's Alienation from Species-Being
+
+马克思借用了费尔巴哈的"类本质"（Gattungswesen）概念，但赋予其新的含义：人的类本质是自由自觉的活动（即劳动）。在资本主义条件下，劳动从人的生命活动降格为仅仅维持肉体生存的手段，人的类本质被异化。
+
+Marx borrowed Feuerbach's concept of "species-being" (Gattungswesen) but gave it new meaning: humanity's species-being is free, conscious activity (i.e., labour). Under capitalism, labour is degraded from man's vital activity to a mere means of maintaining physical existence, and human species-being is alienated.
+
+### 4. 人与人的异化 / Alienation of Man from Man
+
+前三重异化的必然结果是人与人的异化。当人与自己的劳动产品、劳动过程和类本质相异化时，他也与他人相异化——工人与资本家之间的敌对关系正是这种异化的社会表现。
+
+The inevitable consequence of the first three forms of alienation is the alienation of man from man. When man is alienated from his product, his labour process, and his species-being, he is also alienated from other men—the antagonistic relationship between worker and capitalist is precisely the social expression of this alienation.
+
+## 理论演变 / Theoretical Evolution
+
+### 从哲学异化到经济分析 / From Philosophical Alienation to Economic Analysis
+
+虽然异化概念在马克思后期著作中较少直接出现，但其理论内核被整合进了剩余价值理论和商品拜物教理论。《资本论》中的商品拜物教——商品关系掩盖了人与人之间的社会关系——可以被视为异化理论在经济学层面的表达。
+
+Although the alienation concept appears less directly in Marx's later works, its theoretical core was integrated into the theory of surplus value and the theory of commodity fetishism. Commodity fetishism in Capital—the way commodity relations obscure social relations between people—can be read as the economic-level expression of alienation theory.
+
+### 卢卡奇的物化理论 / Lukacs' Theory of Reification
+
+卢卡奇在《历史与阶级意识》（1923）中将异化概念发展为"物化"（Verdinglichung / Reification）理论，分析了资本主义社会中人际关系如何被伪装为物与物的关系，并渗透到意识、文化和日常生活的一切领域。
+
+Lukacs in History and Class Consciousness (1923) developed the alienation concept into a theory of "reification" (Verdinglichung), analysing how interpersonal relations in capitalist society are disguised as relations between things, permeating consciousness, culture, and all spheres of everyday life.
+
+### 法兰克福学派 / Frankfurt School
+
+霍克海默和阿多诺在《启蒙辩证法》中将异化批判扩展到工具理性批判，认为启蒙理性本身已经异化为支配自然和人的工具。马尔库塞在《单向度的人》中分析了发达工业社会中人的全面异化——消费社会通过满足虚假需要来实现对人的深层控制。
+
+Horkheimer and Adorno in Dialectic of Enlightenment extended the critique of alienation to a critique of instrumental reason, arguing that Enlightenment rationality itself has become alienated into an instrument of domination over nature and humans. Marcuse in One-Dimensional Man analysed comprehensive alienation in advanced industrial society—consumer society achieves deep control through the satisfaction of false needs.
+
+## 当代阐释 / Contemporary Interpretations
+
+### 数字异化 / Digital Alienation
+社交媒体中，用户既是消费者又是内容生产者（"产消者"/ prosumer），其数据劳动被平台无偿占有，构成新型的异化。算法推荐系统通过塑造用户的注意力和欲望，实现了对人的意识和主体性的深层异化。
+
+On social media, users are simultaneously consumers and content producers ("prosumers"), whose data labour is appropriated by platforms without compensation, constituting a new form of alienation. Algorithmic recommendation systems achieve deep alienation of human consciousness and subjectivity by shaping users' attention and desires.
+
+### 心理异化 / Psychological Alienation
+当代心理学研究（如Melvin Seeman的异化量表）将异化操作化为无力感（powerlessness）、无意义感（meaninglessness）、社会孤立（social isolation）、自我疏离（self-estrangement）和文化疏离（cultural estrangement）五个维度，使这一哲学概念获得了经验研究的可能。
+
+Contemporary psychological research (e.g., Melvin Seeman's alienation scale) has operationalized alienation into five dimensions: powerlessness, meaninglessness, social isolation, self-estrangement, and cultural estrangement, making this philosophical concept amenable to empirical research.
+
+### 生态异化 / Ecological Alienation
+生态马克思主义者（如John Bellamy Foster）将异化概念扩展到人与自然的关系，认为资本主义不仅导致人与劳动产品的异化，还导致人与自然的"代谢断裂"（metabolic rift）——人类与自然界之间有机联系的异化。
+
+Eco-Marxists (e.g., John Bellamy Foster) extend the alienation concept to the human-nature relationship, arguing that capitalism causes not only alienation from the product of labour but also a "metabolic rift" between humans and nature—the alienation of the organic connection between humanity and the natural world.

@@ -1,0 +1,83 @@
+---
+id: marcuse-timeline
+title: "马尔库塞生平大事记 · Herbert Marcuse Biographical Timeline"
+type: timeline
+thinker: marcuse
+domain: ethics-politics
+school: critical-theory
+tags:
+  - 年表
+  - 生平
+  - 马尔库塞
+  - 法兰克福学派
+---
+
+# 马尔库塞生平大事记 · Herbert Marcuse Biographical Timeline
+
+## 早年时期 / Early Years (1898–1927)
+
+| 年份 / Year | 事件 / Event | 背景 / Context |
+|---|---|---|
+| 1898 | 7月19日出生于柏林一个富裕的犹太家庭 / Born July 19 in Berlin to a prosperous Jewish family | 父亲卡尔·马尔库塞（Carl Marcuse）是纺织业商人 / Father Carl Marcuse was a textile merchant |
+| 1916 | 应征入伍，参加第一次世界大战 / Drafted and served in World War I | 被派往西线战场服役 / Served on the Western Front |
+| 1917 | 德国十一月革命期间参与士兵苏维埃 / Participated in soldiers' councils during the German November Revolution | 革命失败后对社会主义运动产生深刻思考 / Revolution's failure sparked deep reflections on the socialist movement |
+| 1918 | 退伍，开始在弗莱堡大学学习哲学 / Demobilized, began studying philosophy at the University of Freiburg | 师从埃德蒙德·胡塞尔（Edmund Husserl）/ Studied under Edmund Husserl |
+| 1922 | 以《德国艺术家小说》获哲学博士学位 / Earned PhD with dissertation *Der deutsche Künstlerroman* | 导师为艺术史学家海因里希·里克特（Heinrich Rickert）/ Supervisor was art historian Heinrich Rickert |
+| 1922–28 | 在柏林从事出版业工作 / Worked in publishing in Berlin | 同时继续哲学研究，关注海德格尔的存在哲学 / Continued philosophical studies, focusing on Heidegger's existential philosophy |
+
+## 学术形成期 / Academic Formation (1928–1940)
+
+| 年份 / Year | 事件 / Event | 背景 / Context |
+|---|---|---|
+| 1928 | 重返弗莱堡，师从海德格尔研究黑格尔 / Returned to Freiburg to study Hegel under Heidegger | 发表论文《论历史唯物主义的现象学》/ Published "Contributions to a Phenomenology of Historical Materialism" |
+| 1932 | 出版《黑格尔的本体论与历史性理论》/ Published *Hegel's Ontology and the Theory of Historicity* | 海德格尔为其撰写书评，高度评价 / Heidegger wrote a favorable review |
+| 1933 | 加入法兰克福社会研究所 / Joined the Frankfurt Institute for Social Research | 希特勒上台，马尔库塞因犹太身份被迫离开德国 / Hitler came to power; Marcuse forced to leave Germany due to his Jewish identity |
+| 1934 | 流亡瑞士，后前往美国 / Fled to Switzerland, then to the United States | 先至日内瓦，后经巴黎前往纽约 / First to Geneva, then via Paris to New York |
+| 1936 | 发表《权威与家庭研究》/ Published "Studies on Authority and Family" | 研究所集体项目的一部分 / Part of the Institute's collective research project |
+| 1937 | 发表《文化的肯定性质》/ Published "The Affirmative Character of Culture" | 首次系统阐述文化批判理论 / First systematic articulation of cultural critical theory |
+| 1938 | 研究所总部从日内瓦迁至纽约哥伦比亚大学 / Institute headquarters moved from Geneva to Columbia University, New York | 马尔库塞正式成为哥伦比亚大学研究成员 / Marcuse formally became a research member at Columbia |
+| 1940 | 获得美国公民身份 / Obtained U.S. citizenship | 标志着从德国知识分子到美国公共知识分子的转变 / Marked the transition from German intellectual to American public intellectual |
+
+## 美国时期：战争与冷战 / American Period: War and Cold War (1941–1954)
+
+| 年份 / Year | 事件 / Event | 背景 / Context |
+|---|---|---|
+| 1941 | 出版《理性与革命》/ Published *Reason and Revolution* | 系统阐释黑格尔辩证法与社会理论的关系 / Systematic interpretation of the relationship between Hegelian dialectics and social theory |
+| 1942–45 | 在美国战略服务局（OSS，CIA前身）工作 / Worked for the Office of Strategic Services (OSS, predecessor of CIA) | 分析纳粹德国的社会结构，参与战后德国重建计划 / Analyzed Nazi Germany's social structure, participated in postwar German reconstruction planning |
+| 1946–51 | 在美国国务院工作 / Worked at the U.S. State Department | 继续分析德国问题 / Continued analysis of German issues |
+| 1951 | 离开政府，进入学术界 / Left government, entered academia | 开始在哥伦比亚大学和哈佛大学从事教学研究 / Began teaching and research at Columbia and Harvard |
+| 1952 | 妻子索菲（Sophie）去世 / Wife Sophie passed away | 个人生活的重大打击 / Major personal blow |
+
+## 思想成熟期 / Intellectual Maturity (1955–1967)
+
+| 年份 / Year | 事件 / Event | 背景 / Context |
+|---|---|---|
+| 1954 | 任布兰代斯大学政治学教授 / Appointed Professor of Political Science at Brandeis University | 在此任教至1958年 / Taught here until 1958 |
+| 1955 | 出版《爱欲与文明》/ Published *Eros and Civilization* | 弗洛伊德与马克思的系统综合，奠定其理论地位 / Systematic synthesis of Freud and Marx, establishing his theoretical standing |
+| 1955 | 与索菲亚·列文（Sophia Levit）再婚 / Remarried Sophia Levit | 第二次婚姻 / Second marriage |
+| 1958 | 出版《苏联马克思主义》/ Published *Soviet Marxism* | 对苏联官方意识形态的批判性分析 / Critical analysis of Soviet official ideology |
+| 1958 | 转任加州大学圣迭戈分校哲学教授 / Transferred to UC San Diego as Professor of Philosophy | 在此任教至1965年 / Taught here until 1965 |
+| 1964 | 出版《单向度的人》/ Published *One-Dimensional Man* | 成为1960年代最具影响力的社会批判著作 / Became the most influential social critique of the 1960s |
+| 1965 | 发表《压抑性宽容》/ Published "Repressive Tolerance" | 引发广泛争议和讨论 / Sparked widespread controversy and discussion |
+| 1965 | 转任加州大学圣迭戈分校 / Transferred to UC San Diego | 继续参与学生运动 / Continued participation in student movements |
+| 1967 | 在西柏林和巴黎发表演讲 / Delivered lectures in West Berlin and Paris | 与法国学生运动领袖交流 / Exchanged with French student movement leaders |
+
+## 运动年代与晚年 / Movement Era and Later Years (1968–1979)
+
+| 年份 / Year | 事件 / Event | 背景 / Context |
+|---|---|---|
+| 1968 | 巴黎五月风暴期间，马尔库塞被视为精神导师 / During Paris May events, Marcuse was regarded as an intellectual mentor | 法国学生运动引用其理论 / French student movements cited his theories |
+| 1968 | 在西柏林的德国学生运动中发表演讲 / Delivered speeches at the German student movement in West Berlin | 与鲁迪·杜奇克（Rudi Dutschke）等学生领袖交流 / Exchanged with student leaders like Rudi Dutschke |
+| 1969 | 出版《解放论》/ Published *An Essay on Liberation* | 系统阐述解放的多个维度 / Systematic elaboration of multiple dimensions of liberation |
+| 1969 | 第二任妻子索菲亚去世 / Second wife Sophia passed away | 再次遭受个人损失 / Suffered personal loss again |
+| 1970 | 与埃里卡·舍尔霍恩（Erica Sherover）再婚 / Remarried Erica Sherover | 第三次婚姻 / Third marriage |
+| 1972 | 出版《反革命与反叛》/ Published *Counterrevolution and Revolt* | 分析社会运动退潮和保守反扑 / Analysis of the ebb of social movements and conservative counterattack |
+| 1976 | 与安吉拉·戴维斯（Angela Davis）共同开设课程 / Co-taught courses with Angela Davis | 继续参与社会运动 / Continued participation in social movements |
+| 1978 | 出版《审美维度》/ Published *The Aesthetic Dimension* | 最后一部重要著作，回归美学问题 / Last major work, returning to aesthetic questions |
+| 1979 | 7月29日在西柏林访问期间去世，享年81岁 / Died July 29 during a visit to West Berlin, aged 81 | 遗体按遗嘱火化，骨灰撒入大海 / Cremated per his wishes, ashes scattered at sea |
+
+## 历史背景 / Historical Context
+
+马尔库塞的一生横跨了20世纪最重要的历史事件：两次世界大战、纳粹大屠杀、冷战、非殖民化运动和1960年代的社会革命。这些历史事件深刻塑造了他的思想——从一战后的社会主义理想主义，到纳粹时期的极权主义分析，到冷战时期的技术理性批判，再到1960年代的解放理论。马尔库塞的思想始终是对时代危机的理论回应。
+
+Marcuse's life spanned the most significant historical events of the 20th century: two world wars, the Nazi Holocaust, the Cold War, decolonization movements, and the social revolution of the 1960s. These historical events profoundly shaped his thought — from post-WWI socialist idealism, to totalitarianism analysis in the Nazi era, to technological rationality critique during the Cold War, to liberation theory in the 1960s. Marcuse's thought was always a theoretical response to the crises of the age.

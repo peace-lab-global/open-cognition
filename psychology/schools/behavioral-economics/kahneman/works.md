@@ -1,0 +1,88 @@
+---
+id: kahneman-works
+title: "卡尼曼关键著作 · Kahneman Key Works"
+type: works
+thinker: kahneman
+school: behavioral-economics
+---
+
+# 卡尼曼关键著作 · Kahneman Key Works
+
+卡尼曼一生发表了大量具有深远影响力的学术论文和著作。以下按时间顺序列出其最重要的作品。
+
+Kahneman published a large body of deeply influential academic papers and books throughout his career. Below is a chronological listing of his most important works.
+
+---
+
+## 学术论文 · Academic Papers
+
+| 年份 | 标题 | 合作者 | 期刊 | 核心贡献 |
+|---|---|---|---|---|
+| 1966 | "Decrement of the Pupillary Light Reflex at Repeated Stimulations" | — | *Science* | 早期视觉注意力研究 |
+| 1969 | "Intuitive Prediction: Biases and Corrective Procedures" | Tversky | *Management Science* | 首次提出预测中的偏差问题 |
+| 1971 | "Belief in the Law of Small Numbers" | Tversky | *Psychological Bulletin* | 揭示对小样本统计直觉的错误 |
+| 1972 | "Subjective Probability: A Judgment of Representativeness" | Tversky | *Cognitive Psychology* | 代表性启发的系统阐述 |
+| 1973 | "Availability: A Heuristic for Judging Frequency and Probability" | Tversky | *Cognitive Psychology* | 可得性启发的提出 |
+| 1973 | "On the Psychology of Prediction" | Tversky | *Psychological Review* | 预测中的代表性启发与基础率忽视 |
+| 1974 | "Judgment under Uncertainty: Heuristics and Biases" | Tversky | *Science* | 启发式与偏差研究纲领的宣言 |
+| 1977 | "Intuitive Prediction: Biases and Corrective Procedures" | Tversky | 收入 *Decision Making* | 预测偏差的系统分析 |
+| 1979 | "Prospect Theory: An Analysis of Decision under Risk" | Tversky | *Econometrica* | **前景理论**，行为经济学奠基之作 |
+| 1979 | "Intuitive Prediction of Trends and Patterns" | Tversky | *Journal of Experimental Psychology* | 趋势预测中的启发式 |
+| 1981 | "The Framing of Decisions and the Psychology of Choice" | Tversky | *Science* | 框架效应 |
+| 1982 | "The Simulation Heuristic" | Tversky | 收入 *Judgment under Uncertainty* | 模拟启发的提出 |
+| 1983 | "Extensional versus Intuitive Reasoning: The Conjunction Fallacy" | Tversky | *Psychological Review* | 合取谬误（琳达问题） |
+| 1986 | "Rational Choice and the Framing of Decisions" | Tversky | *Journal of Business* | 框架效应对理性选择理论的挑战 |
+| 1990 | "Experimental Tests of the Endowment Effect and the Coase Theorem" | Knetsch, Thaler | *Journal of Political Economy* | 禀赋效应的实验验证 |
+| 1991 | "Loss Aversion in Riskless Choice: A Reference-Dependent Model" | Tversky | *Quarterly Journal of Economics* | 参考依赖模型 |
+| 1992 | "Advances in Prospect Theory: Cumulative Representation of Uncertainty" | Tversky | *Journal of Risk and Uncertainty* | 累积前景理论 |
+| 1994 | "The Weighing of Evidence and the Determinants of Confidence" | Tversky | *Cognitive Psychology* | 信心与证据权重的不对称 |
+| 1997 | "Back to Bentham? Explorations of Experienced Utility" | — | *Quarterly Journal of Economics* | 体验效用与决策效用的区分 |
+| 2000 | "Evaluation by Moments: Past and Future" | Fredrickson | 收入 *Choices, Values, and Frames* | 峰终定律 |
+| 2003 | "Maps of Bounded Rationality: Psychology for Behavioral Economics" | — | *American Economic Review* | **诺贝尔奖演讲论文** |
+| 2003 | "A Perspective on Judgment and Choice: Mapping Bounded Rationality" | — | *American Psychologist* | 研究纲领的系统回顾 |
+| 2011 | "Noise: Internal and External Sources of Variability in Human Judgment" | — | 会议论文 | 噪声问题的早期探索 |
+
+---
+
+## 编著与专著 · Edited Volumes and Monographs
+
+| 年份 | 书名 | 合作者 | 出版商 | 说明 |
+|---|---|---|---|---|
+| 1982 | *Judgment under Uncertainty: Heuristics and Biases* | Tversky, Slovic (编) | Cambridge UP | 启发式与偏差论文集 |
+| 1999 | *Well-Being: Foundations of Hedonic Psychology* | Diener, Schwarz (编) | Russell Sage | 幸福感研究论文集 |
+| 2000 | *Choices, Values, and Frames* | Tversky (编) | Cambridge UP | 前景理论应用论文集 |
+| 2011 | *Thinking, Fast and Slow*（《思考，快与慢》）| — | Farrar, Straus & Giroux | **系统总结**，全球畅销书 |
+| 2021 | *Noise: A Flaw in Human Judgment*（《噪声》）| Sibony, Sunstein | Little, Brown | 噪声研究 |
+
+---
+
+## 最具影响力的五篇论文 · Five Most Influential Papers
+
+### 1. "Prospect Theory" (1979) — *Econometrica*
+被引用超过60,000次。直接挑战了经济学中占主导地位的期望效用理论，提出了参考点依赖、损失厌恶和概率加权等核心概念。这篇论文是行为经济学的奠基文献。
+
+Cited over 60,000 times. Directly challenged the dominant expected utility theory in economics, proposing core concepts of reference dependence, loss aversion, and probability weighting. This is the foundational document of behavioral economics.
+
+### 2. "Judgment under Uncertainty" (1974) — *Science*
+被引用超过50,000次。系统阐述了三大启发式（代表性、可得性、锚定）及其产生的偏差，确立了整个"启发式与偏差"研究纲领。
+
+Cited over 50,000 times. Systematically articulated the three major heuristics (representativeness, availability, anchoring) and their biases, establishing the entire "heuristics and biases" research program.
+
+### 3. "The Framing of Decisions" (1981) — *Science*
+被引用超过15,000次。证明了对同一决策问题的不同表述方式（框架）会系统性地改变人们的选择，对理性选择理论构成直接挑战。
+
+Cited over 15,000 times. Demonstrated that different descriptions (frames) of the same decision problem systematically alter people's choices, constituting a direct challenge to rational choice theory.
+
+### 4. "Maps of Bounded Rationality" (2003) — *American Economic Review*
+诺贝尔奖演讲论文，系统总结了将心理学融入经济学的学术旅程，是理解卡尼曼整体思想框架的最佳入口。
+
+Nobel lecture paper, systematically summarizing the academic journey of integrating psychology into economics — the best entry point for understanding Kahneman's overall intellectual framework.
+
+### 5. "Extensional versus Intuitive Reasoning" (1983) — *Psychological Review*
+提出合取谬误（conjunction fallacy），以"琳达问题"为经典案例，揭示了代表性启发如何导致违反基本概率法则的判断。
+
+Introduced the conjunction fallacy with the "Linda Problem" as the classic case, revealing how the representativeness heuristic leads to judgments that violate basic probability laws.
+
+---
+
+→ 返回 [卡尼曼主页](README.md) | 相关：[生平年表](timeline.md) | [进阶阅读](reading-list.md)

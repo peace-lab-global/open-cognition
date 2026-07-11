@@ -1,0 +1,118 @@
+---
+id: derrida-timeline
+title: 德里达生平与思想年表 · Derrida Life & Thought Timeline
+type: timeline
+parent: derrida
+domain: philosophy
+school: post-structuralism
+tags:
+  - 年表
+  - timeline
+  - 生平
+---
+
+# 德里达生平与思想年表 · Derrida Life & Thought Timeline
+
+> 本表综合传记（Benoît Peeters, *Derrida: A Biography*, 2010/2013）与思想史研究（Culler, Norris, Bennington），按时间顺序列出关键生平与思想事件。
+> This timeline synthesizes biographical events (following Benoît Peeters, *Derrida: A Biography*, 2010/2013) and intellectual milestones (Culler, Norris, Bennington).
+
+---
+
+## 阿尔及利亚与早年 · Algeria and Early Years
+
+| 年份 · Year | 事件 · Event |
+|---|---|
+| **1930** 7月15日 | 出生于阿尔及利亚（法属殖民地）埃尔比亚尔 (El-Biar)，塞法迪犹太人家庭。父母：Haïm Aaron Charles Derrida (Aimé) 与 Georgette Sultana Esther Jaar (Sultana)。排行第三（在 Rene、Jean-Paul 之后）。 / Born in El-Biar, Algeria (French colony), Sephardic Jewish family. |
+| **1940–45** | 维希政权下阿尔及利亚的反犹法令：1942年被学校开除数月，在犹太人专属学校就读。这段经历塑造了他对"归属/排斥"问题的终生敏感。 / Vichy anti-Semitic laws: expelled from school 1942; attended Jewish-only school. Lifelong sensitivity to belonging/exclusion. |
+| **1948** | 在阿尔及尔高中读黑格尔、尼采、卢梭、加缪、克尔凯郭德、柏格森；参加哲学竞赛。 / Reads Hegel, Nietzsche, Rousseau, Camus, Kierkegaard, Bergson in Algiers; enters philosophy concours. |
+| **1949** | 赴法国巴黎，进入 Louis-le-Grand 高中预备班。 / Moves to Paris; enters Louis-le-Grand khâgne. |
+| **1952** | 第二次尝试考入巴黎高等师范学院 (ENS)。同学包括 Michel Foucault, Pierre Bourdieu 等。 / Second attempt: admitted to École Normale Supérieure (ENS). Classmates: Foucault, Bourdieu. |
+| **1953–54** | 在比利时鲁汶访学，跟随胡塞尔弟子；撰写 mémoire *Le problème de la genèse dans la philosophie de Husserl*（直到1990年才出版）。 / Studies at Louvain with Husserl's disciples; writes mémoire on *genesis in Husserl* (publ. 1990). |
+| **1956** | 通过 agrégation（哲学教师资格考试），名列第四；与 Marguerite Aucouturier 相识（1957年结婚）。 / Passes agrégation; meets Marguerite Aucouturier (m. 1957). |
+| **1957–59** | 在阿尔及利亚服兵役（阿尔及利亚战争期间），担任教师；两个儿子 Pierre (1957)、Jean (1959) 出生。 / Military service in Algeria (Algerian War); sons Pierre (1957), Jean (1959) born. |
+
+---
+
+## 奠基期 · Founding Period (1960–1972)
+
+| 年份 · Year | 事件 · Event |
+|---|---|
+| **1960** | 在索邦大学任哲学助教。 / Assistant at the Sorbonne. |
+| **1962** | 出版胡塞尔《几何学的起源》的法译与长篇导论——解构思想的真正起点。 / Publishes translation of Husserl's *Origin of Geometry* with long Introduction — true starting point of deconstruction. |
+| **1964** | 开始在 ENS 任教；参与《泰凯尔》(*Tel Quel*) 圈子的早期活动（与 Philippe Sollers, Julia Kristeva, Jean-Luc Nancy）。 / Begins teaching at ENS; early involvement with *Tel Quel* circle. |
+| **1966** 10月 | 在 Johns Hopkins 大学 "The Languages of Criticism and the Sciences of Man" 国际会议上发表著名报告 *Structure, Sign, and Play in the Discourse of the Human Sciences*，宣告"结构主义时代的终结"。 / Delivers *Structure, Sign, and Play* at Johns Hopkins conference — announces the end of the structuralist era. |
+| **1967** | **三部曲年**：同时出版《论文字学》《声音与现象》《书写与差异》，解构作为一种思想姿态正式登场。 / **Trilogy year**: *Of Grammatology*, *Voice and Phenomenon*, *Writing and Difference* — deconstruction's official debut. |
+| **1967–68** | 与福柯关于"疯狂史"的公开论争延续；在《书写与差异》中的 "Cogito and the History of Madness" 一文回应福柯《疯狂史》。 / Public debate with Foucault over *History of Madness*. |
+| **1968** 1月 | 在法国哲学学会 (Société française de philosophie) 发表 *La différance* 演讲——"延异"概念首次公开。 / Delivers *La différance* lecture — first public appearance of the concept. |
+| **1968** 5月 | 五月风暴期间，参与索邦校园活动，但对革命修辞持保留态度。 / May '68 events: participates but remains skeptical of revolutionary rhetoric. |
+| **1972** | 出版《播撒》《哲学的边缘》《立场》三部作品。 / Publishes *Dissemination*, *Margins of Philosophy*, *Positions*. |
+
+---
+
+## 经典期 · Classical Period (1974–1989)
+
+| 年份 · Year | 事件 · Event |
+|---|---|
+| **1974** | 出版 *Glas*（《丧钟》），混合黑格尔与让·热内的双栏书写实验。 / Publishes *Glas* — double-column experiment mixing Hegel and Genet. |
+| **1975** | 开始在耶鲁大学长期客座，成为"耶鲁解构学派"（de Man, Hartman, Miller, Bloom）的灵魂人物。 / Begins visiting appointment at Yale; becomes central to the "Yale School" of deconstruction. |
+| **1978** | 出版《马刺：尼采的风格》《绘画中的真理》。 / Publishes *Spurs* and *The Truth in Painting*. |
+| **1979** | 在 Yale 结识保罗·德·曼 (Paul de Man)，成为终生友人。 / Meets Paul de Man at Yale. |
+| **1980** | 出版《明信片》。 / Publishes *The Post Card*. |
+| **1983** | 写作 *Letter to a Japanese Friend*，八页内精炼说明"解构是什么/不是什么"。 / Writes *Letter to a Japanese Friend* — concise 8-page statement on deconstruction. |
+| **1983** | 在巴黎创立国际哲学院 (Collège International de Philosophie)，与 Jean-Pierre Faye, François Châtelet 共同发起。 / Co-founds the Collège International de Philosophie in Paris. |
+| **1983–84** | 担任 Collège International de Philosophie 首任主席。 / First president of the Collège. |
+| **1984** | 开始在加州大学尔湾分校 (UC Irvine) 长期任教，成为其批判理论研究所的核心。 / Begins regular teaching at UC Irvine. |
+| **1987** | 出版《论精神》《普赛克》《尤利西斯留声机》。 / Publishes *Of Spirit*, *Psyche*, *Ulysses Gramophone*. |
+| **1987** | 海德格尔-纳粹事件再起（Farias 出版传记），德里达在 *Of Spirit* 中回应。 / Heidegger-Nazi controversy (Farias biography); Derrida responds in *Of Spirit*. |
+| **1988** | MoMA "解构主义建筑" 展览 (Philip Johnson, Mark Wigley 策划)，德里达直接参与建筑家（Eisenman, Tschumi）对话。 / MoMA "Deconstructivist Architecture" exhibition; Derrida directly dialogues with architects Eisenman, Tschumi. |
+| **1988** | 与 John Searle 就"言语行为理论"展开论争（收入 *Limited Inc*）。 / Debate with John Searle on speech act theory (*Limited Inc*). |
+| **1989** | 发表 *Force de loi* (*Force of Law*)，宣布"解构就是正义"。 / Delivers *Force of Law* — "deconstruction is justice." |
+
+---
+
+## 伦理-政治转向 · Ethico-Political Turn (1990–2004)
+
+| 年份 · Year | 事件 · Event |
+|---|---|
+| **1991** | 出版《给定的时间 I》。 / Publishes *Given Time: I*. |
+| **1993** | 出版《马克思的幽灵》(*Spectres de Marx*)，回应福山"历史终结"论，提出"幽灵学" (hauntology) 与"没有弥赛亚主义的弥赛亚性" (messianicity without messianism)。 / Publishes *Specters of Marx* — responds to Fukuyama's "end of history," coins *hauntology* and *messianicity without messianism*. |
+| **1994** | 与 Gadamer 进行著名的"诠释学-解构"对话。 / Famous dialogue with Gadamer (hermeneutics vs. deconstruction). |
+| **1995** | 出版《档案病》(*Mal d'archive*)；创立"国际作家议会" (Parliament of Writers) 为难民提供庇护。 / Publishes *Archive Fever*; founds Parliament of Writers for refugee sanctuary. |
+| **1996** | 出版《他者的独语》(*Monolingualism of the Other*)："我只有一种语言，它不属于我。" / Publishes *Monolingualism of the Other*: "I have only one language; it is not mine." |
+| **1997** | 出版《论好客》《告别列维纳斯》《论世界主义与宽恕》。 / Publishes *Of Hospitality*, *Adieu to Levinas*, *On Cosmopolitanism and Forgiveness*. |
+| **1998** | 在纽约与 Hélène Cixous 合作举办著名 seminar。 / Co-teaches seminar with Hélène Cixous in New York. |
+| **1999–2003** | 在巴黎主持《野兽与主权者》(*La bête et le souverain*) 讲座课程（I & II）与《死刑 seminar》(*La peine de mort*)（I & II）。 / Leads seminars *The Beast and the Sovereign* (I & II) and *The Death Penalty* (I & II) in Paris. |
+| **2000** | 出版《论触——让-吕克·南希》。 / Publishes *On Touching—Jean-Luc Nancy*. |
+| **2001** | 访问中国（上海、北京、香港），与中国学者（张隆溪、杜小真、汪堂家等）对话；《友谊政治学》中译本出版。 / Visits China (Shanghai, Beijing, Hong Kong); dialogues with Chinese scholars. |
+| **2003** | 出版《无赖》(*Voyous*)、《公羊》(*Béliers*)；公开反对美国伊拉克战争。 / Publishes *Rogues* and *Rams*; publicly opposes Iraq War. |
+| **2004** 10月9日 | 因胰腺癌在巴黎去世，享年74岁。 / Dies of pancreatic cancer in Paris, aged 74. |
+
+---
+
+## 身后 · Posthumous
+
+| 年份 · Year | 事件 · Event |
+|---|---|
+| **2005** | *The Work of Mourning* (英译合集) / 《哀悼之作》出版。 |
+| **2006** | *L'animal que donc je suis* / *The Animal That Therefore I Am* 出版。 |
+| **2008–10** | 《死刑 seminar》I & II 出版。 |
+| **2010–11** | 《野兽与主权者》I & II 出版。 |
+| **2010** | Benoît Peeters *Derrida: A Biography* 法文版出版（2013英译）。 |
+| **2013** | *Heidegger: The Question of Being and History* (1964–65 course) 出版。 |
+| **2017** | *Theory and Practice* (1975–76 course) 出版。 |
+| **2020s** | 遗稿持续整理出版中；*Les Cahiers de l'Herne* Derrida 专辑重新引起研究热潮。 |
+
+---
+
+## 关键数字 · Key Figures
+
+- 著作总数（含遗稿）· Total works (incl. posthumous): **~80+** 书/小册子
+- 文章与访谈 · Articles and interviews: **200+**
+- 翻译成语言 · Languages translated into: **40+**
+- 任教国家 · Countries of teaching: 法国、美国、英国、日本、中国、巴西、西班牙……
+- 主要讲座课程 · Major seminars (posthumous): **~27年** 的巴黎年度 seminar 档案正在陆续整理
+
+---
+
+→ 返回 [README.md](README.md) · Return to [README.md](README.md)
+→ 相关 · Related: [works.md](works.md) · [reading-list.md](reading-list.md)

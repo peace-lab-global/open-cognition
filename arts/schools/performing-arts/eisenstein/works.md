@@ -1,0 +1,95 @@
+---
+id: eisenstein-works
+title: "爱森斯坦作品总览 · Eisenstein Works Bibliography"
+type: bibliography
+thinker: eisenstein
+domain: arts
+school: performing-arts
+tags: [eisenstein, works, bibliography, filmography, montage]
+cross-refs:
+  - id: eisenstein
+    relation: thinker
+---
+
+# 爱森斯坦作品总览 · Eisenstein Works Bibliography
+
+## 电影作品 / Film Works
+
+### 完成长片 / Completed Feature Films
+
+| 年份 / Year | 原文标题 / Original | 中译 / Chinese | 出版/发行信息 / Publisher | 意义 / Significance |
+|---|---|---|---|---|
+| 1924 | Стачка (*Strike*) | 《罢工》 | Goskino, 苏联 | 杂耍蒙太奇的首次电影实践。将工厂罢工与屠宰场宰牛交叉剪辑，创造视觉隐喻。/ First cinematic application of montage of attractions; cross-cuts factory strike with abattoir slaughter to create visual metaphor. |
+| 1925 | Броненосец «Потёмкин» (*Battleship Potemkin*) | 《战舰波将金号》 | Goskino, 苏联 | 冲突蒙太奇的经典示范。"敖德萨阶梯"段落成为影史最具分析价值的段落。1958年布鲁塞尔世博被评为影史最伟大影片。/ Classic demonstration of conflict montage. "Odessa Steps" became the most analyzed sequence in cinema history. Voted greatest film at 1958 Brussels World's Fair. |
+| 1927 | Октябрь (*October*) | 《十月》 | Sovkino, 苏联 | 理性蒙太奇的最激进实验。尝试用影像直接表达抽象政治概念——宗教偶像并置、克伦斯基与拿破仑雕像交叉剪辑。/ Most radical experiment in intellectual montage. Attempts to express abstract political concepts directly through images. |
+| 1929 | Старое и новое (*The General Line*) | 《旧与新》/《总路线》 | Sovkino, 苏联 | 农业集体化主题的蒙太奇叙事。将理性蒙太奇应用于农村生产场景——奶油分离器的段落是技术与蒙太奇的结合。/ Montage narrative of agricultural collectivization. Applies intellectual montage to rural production scenes. |
+| 1938 | Александр Невский (*Alexander Nevsky*) | 《亚历山大·涅夫斯基》 | Mosfilm, 苏联 | 声画对位的首次完整实践。"冰湖大战"段落中普罗科菲耶夫的音乐与影像形成对位。获斯大林奖金。/ First complete realization of audio-visual counterpoint. Prokofiev's music in "Battle on the Ice" forms counterpoint with images. Received Stalin Prize. |
+| 1942 | Иван Грозный, Часть I (*Ivan the Terrible, Part I*) | 《伊凡雷帝》第一部 | Mosfilm, 苏联 | 历史心理史诗。以宏大形式展现伊凡四世的权力之路。获斯大林奖金。/ Historical psychological epic. Presents Ivan IV's path to power in grand form. Received Stalin Prize. |
+| 1946 | Иван Грозный, Часть II (*Ivan the Terrible, Part II*) | 《伊凡雷帝》第二部 | Mosfilm, 苏联（禁映至1958年） | 权力心理学的深刻描绘。彩色段落展现色彩心理学研究。因"歪曲历史"遭斯大林禁映，直至1958年方公映。/ Profound portrayal of the psychology of power. Color sequences demonstrate color psychology research. Banned by Stalin for "distorting history," released only in 1958. |
+
+### 未完成/部分完成项目 / Unfinished/Partially Completed Projects
+
+| 年份 / Year | 原文标题 / Original | 中译 / Chinese | 状态 / Status | 说明 / Notes |
+|---|---|---|---|---|
+| 1931–32 | ¡Que Viva México! | 《墨西哥万岁》 | 未竟 / Unfinished | 因资金断裂被迫中止。拍摄了大量素材（约8万米胶片），后来被多人多次编辑发行（Marie Seton 1939, Jay Leyda 1955等版本）。/ Halted due to funding collapse. Extensive footage shot (~80,000m of film), later edited and released by multiple editors in various versions. |
+| 1935–37 | Бежин луг (*Bezhin Meadow*) | 《别任草地》 | 销毁 / Destroyed | 因"形式主义"批评被叫停，底片在二战中损毁。仅存剧照和导演分镜本，后被重建为"纸上电影"。/ Halted for "formalism"; negatives destroyed in WWII. Only stills and storyboard survive; later reconstructed as a "paper film." |
+| 1930 | *An American Tragedy* | 《美国悲剧》 | 未拍摄 / Not filmed | 好莱坞派拉蒙项目，因审查和创作分歧取消。/ Hollywood Paramount project, cancelled due to censorship and creative differences. |
+| 1930 | *Sutter's Gold* | 《萨特的黄金》 | 未拍摄 / Not filmed | 好莱坞项目，未能实现。/ Hollywood project, unrealized. |
+| 1927–28 | *Capital* (项目构想) | 《资本论》 | 构想阶段 / Conceptual stage | 爱森斯坦梦想将马克思《资本论》拍成电影，仅留下笔记和构想。/ Eisenstein dreamed of filming Marx's *Capital*; only notes and concepts survive. |
+
+## 理论著作 / Theoretical Writings
+
+### 生前发表 / Published During Lifetime
+
+| 年份 / Year | 标题 / Title | 中译 / Chinese | 发表信息 / Publication | 核心贡献 / Core Contribution |
+|---|---|---|---|---|
+| 1923 | Монтаж аттракционов / *Montage of Attractions* | 《杂耍蒙太奇》 | *ЛЕФ* 杂志, No. 3 | 吸引力理论的首次系统提出 / First systematic articulation of attraction theory |
+| 1926 | *The Cinematographic Principles of the Japanese Kabuki Theater* | 《日本歌舞伎的电影原则》 | 期刊发表 | 从歌舞伎的"分体"原则推导出声画对位理论 / Derives audio-visual counterpoint from Kabuki's "dis-integration" principle |
+| 1928 | *Statement on Sound* (with Pudovkin & Alexandrov) | 《有声电影宣言》 | *Soviet Cinema* | 提出声画对位原则 / Proposes audio-visual counterpoint principle |
+| 1929 | *Methods of Montage* | 《蒙太奇方法》 | 期刊发表 | 五种蒙太奇类型的系统分类 / Systematic classification of five montage types |
+| 1937 | *A Statement on Color* | 《色彩声明》 | 期刊发表 | 色彩心理学的初步论述 / Preliminary discussion of color psychology |
+
+### 遗稿与汇编 / Posthumous Publications and Compilations
+
+| 年份 / Year | 标题 / Title | 中译 / Chinese | 编者 / Editor | 出版信息 / Publisher | 核心内容 / Core Content |
+|---|---|---|---|---|---|
+| 1942 | *The Film Sense* | 《电影意义》 | Jay Leyda | Harcourt, Brace, NY | 声画关系与综合感知理论 / Audio-visual relations and synthetic perception theory |
+| 1949 | *Film Form: Essays in Film Theory* | 《电影形式》 | Jay Leyda | Harcourt, Brace, NY | 英语世界最重要的爱森斯坦理论选集 / Most important Eisenstein theory anthology in English |
+| 1964–71 | Избранные произведения в 6 томах | 《六卷本选集》 | — | Искусство, 莫斯科 | 俄文六卷本全集 / Russian six-volume collected works |
+| 1986–95 | *Selected Works* (6 vols.) | 《英文六卷本选集》 | Richard Taylor et al. | BFI, London | 英文六卷本，最为完整的学术版本 / English six-volume edition, most complete scholarly edition |
+| 1988 | *Nonindifferent Nature* | 《非感伤的自然》 | Herbert Marshall | Cambridge UP | 对迪斯尼动画和格里菲斯电影的深入分析 / Deep analysis of Disney animation and Griffith's cinema |
+| 1991 | *Towards a Theory of Montage* (Vol. 2) | 《走向蒙太奇理论》 | Michael Glenny & Richard Taylor | BFI, London | 蒙太奇理论的系统论述 / Systematic discussion of montage theory |
+| 1995 | *Beyond the Shot* (Vol. 3) | 《超越镜头》 | Richard Taylor | BFI, London | 理性电影和"激情"论述 / Intellectual cinema and "pathos" discussions |
+| 1996 | *The Psychology of Art* | 《艺术心理学》 | Scripta Book Co. | — | 艺术体验的心理学分析 / Psychological analysis of artistic experience |
+
+### 重要书信与日记 / Important Correspondence and Diaries
+
+| 标题 / Title | 说明 / Notes |
+|---|---|
+| *Letters to Upton Sinclair* (1930–32) | 关于墨西哥项目的通信 / Correspondence regarding the Mexico project |
+| *Memoirs* (Автобиография) | 爱森斯坦的自传手稿，部分收入各卷本 / Autobiographical manuscript, partially included in various volumes |
+| *Drawings and Sketches* | 大量理论与情色绘画手稿，是理解其思想的重要补充 / Extensive theoretical and erotic drawings, important supplement to understanding his thought |
+
+## 关键版本与译本 / Key Editions and Translations
+
+### 英文权威版本 / Authoritative English Editions
+
+1. **BFI六卷本选集** (1986–1995) — 目前最完整的学术版本，由Richard Taylor主编，附有详尽注释和学术论文。/ The most complete scholarly edition to date, edited by Richard Taylor with extensive annotations and scholarly essays.
+2. **Jay Leyda编本** (*Film Form* + *The Film Sense*, 1942/1949) — 英语世界最早的爱森斯坦理论汇编，影响深远但译文质量参差不齐。/ Earliest English compilation, deeply influential but with uneven translation quality.
+
+### 中文译本 / Chinese Translations
+
+1. **《蒙太奇论》**，富澜译，中国电影出版社，1998 — 最完整的中译理论选集，涵盖核心论文。/ Most complete Chinese translation of theoretical writings, covering core essays.
+2. **《爱森斯坦论文选集》**，尤列涅夫编注，中国电影出版社，1962 — 早期经典译本，部分译文已过时但仍有参考价值。/ Early classic translation; some translations outdated but still of reference value.
+3. **《电影形式》**，多个中文版本 — 基于Jay Leyda英文编译本的再译。/ Multiple Chinese editions based on the Jay Leyda English compilation.
+
+## 阅读路径 / Suggested Reading Sequences
+
+**入门 / Introductory:** 《战舰波将金号》观影 → *Film Form* 选章（"Methods of Montage"） → Bordwell《爱森斯坦的电影》
+Watch *Potemkin* → Read *Film Form* selections ("Methods of Montage") → Bordwell's *Cinema of Eisenstein*
+
+**进阶 / Intermediate:** 《十月》→《亚历山大·涅夫斯基》→ 蒙太奇理论系统论文 → Nesbet *Savage Junctures*
+*October* → *Nevsky* → Systematic montage essays → Nesbet *Savage Junctures*
+
+**深潜 / Advanced:** BFI六卷本全集 → 《伊凡雷帝》两部 → 未完成项目研究 → Salazkina *In Excess*
+BFI six volumes → Both *Ivan* films → Unfinished projects → Salazkina *In Excess*

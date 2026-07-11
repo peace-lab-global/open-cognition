@@ -1,0 +1,57 @@
+---
+id: russell-sense-data
+title: 感觉材料 · Sense-Data
+type: concept
+thinker: russell
+domain: philosophy
+school: analytic
+tags: [epistemology, perception, experience, realism]
+---
+
+# 感觉材料 · Sense-Data
+
+## 概念定位 / Conceptual Position
+
+感觉材料（sense-data）是罗素认识论中的核心概念，指我们在感知中直接觉察到的东西——颜色斑块、声音、触感等——区别于我们通过推理或描述知道的物理对象。罗素在《哲学问题》（1912）中区分了"亲知知识"（knowledge by acquaintance，对感觉材料的直接觉察）和"描述知识"（knowledge by description，通过描述间接知道的事物）。
+
+Sense-data are the central concept in Russell's epistemology, referring to what we are directly aware of in perception — color patches, sounds, tactile sensations — as distinguished from physical objects we know by inference or description. In *The Problems of Philosophy* (1912), Russell distinguished "knowledge by acquaintance" (direct awareness of sense-data) from "knowledge by description" (things known indirectly through descriptions).
+
+## 核心论述 / Core Argument
+
+### 桌子的例子 / The Table Example
+
+罗素以一张桌子为例（《哲学问题》第一章）：当我们看一张桌子时，我们直接觉察的不是"桌子本身"，而是特定角度、光线条件下的颜色和形状。走近时颜色变化，移动时形状变化——这些直接给予的东西就是感觉材料。
+
+Russell uses a table as an example (Chapter 1 of *Problems*): when we look at a table, what we are directly aware of is not "the table itself" but colors and shapes under specific angles and lighting. As we approach, colors change; as we move, shapes change — these directly given things are sense-data.
+
+### 亲知与描述 / Acquaintance and Description
+
+- **亲知知识 / Knowledge by Acquaintance**: 直接觉察到的东西——感觉材料、自我（内省）、共相（universals）、逻辑真理
+- **描述知识 / Knowledge by Description**: 通过描述间接知道的——物理对象、他人心理、历史事件
+
+罗素的原则："我们所有的知识最终都建立在亲知知识之上。" / "All our knowledge is ultimately grounded in knowledge by acquaintance."
+
+### 中立一元论的转向 / Turn to Neutral Monism
+
+在后期著作（《心的分析》1921）中，罗素转向中立一元论：感觉材料既不是"主观的"（属于心灵），也不是"客观的"（属于物质），而是中立的——心和物是同一感觉材料的不同组织方式。
+
+In later work (*The Analysis of Mind*, 1921), Russell turned to neutral monism: sense-data are neither "subjective" (belonging to mind) nor "objective" (belonging to matter) but neutral — mind and matter are different organizations of the same sense-data.
+
+## 哲学意义 / Philosophical Significance
+
+1. **认识论基础 / Epistemological Foundation**: 确立了20世纪认识论中"基础主义"传统
+2. **被批判 / Critiqued**: 塞拉斯（Sellars）批评"所与神话"（Myth of the Given）；梅洛-庞蒂（Merleau-Ponty）批评感觉材料的原子主义
+3. **认知科学 / Cognitive Science**: 感知是"建构的"而非"直接给予的"——当代认知科学挑战了感觉材料概念
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与唯识学"现量" / With Yogacara's "Direct Perception" (pratyaksa)
+唯识学量论中的"现量"（pratyaksa）是直接的、无分别的感知——这与"感觉材料"有表面相似性。但唯识学强调现量是"离分别"的（kalpanapodha），即不附加概念标签的纯粹感知。罗素的感觉材料则已经预设了某种概念结构（如颜色、形状的分类）。
+
+Yogacara's "direct perception" (pratyaksa) is immediate, non-conceptual perception — superficially similar to "sense-data." But Yogacara emphasizes that direct perception is "free from conceptual construction" (kalpanapodha), pure perception without conceptual labels. Russell's sense-data already presuppose some conceptual structure (such as classification of colors and shapes).
+
+## 相关概念 / Related Concepts
+
+- [逻辑原子主义 Logical Atomism](logical-atomism.md)
+- [分析方法 Analytic Method](analytic-method.md)
+- [罗素主页](../README.md)

@@ -1,0 +1,82 @@
+---
+id: macintyre-after-virtue
+title: "追寻美德 · After Virtue"
+type: concept
+thinker: macintyre
+domain: ethics-politics
+school: virtue-ethics
+tags: [moral-crisis, virtue-revival, enlightenment-failure, aristotelianism]
+cross-refs:
+  - id: macintyre
+    relation: thinker
+  - id: macintyre-emotivism-critique
+    relation: related-concept
+  - id: macintyre-practice-narrative
+    relation: related-concept
+---
+
+# 追寻美德 · After Virtue
+
+## 概念概述 / Concept Overview
+
+"追寻美德"是麦金泰尔最核心、最具影响力的思想方案，首次系统呈现在1981年出版的同名著作中。这一概念包含两个层面：诊断层面和建构层面。在诊断层面，麦金泰尔论证现代道德话语已经陷入深刻的危机——它所使用的概念碎片来自不同的、互不相容的道德传统，已经丧失了使它们具有意义的历史语境。在建构层面，他主张通过回归亚里士多德美德伦理学传统——特别是经由托马斯·阿奎那修正的版本——来重建道德哲学的基础。这一"追寻"不是简单的历史复古，而是在现代条件下重新激活一个活着的哲学传统。
+
+"After Virtue" is MacIntyre's most central and influential intellectual project, first systematically presented in the eponymous 1981 work. The concept operates on two levels: diagnostic and constructive. On the diagnostic level, MacIntyre argues that modern moral discourse has fallen into a profound crisis — the conceptual fragments it employs come from different, mutually incompatible moral traditions and have lost the historical context that gave them meaning. On the constructive level, he advocates rebuilding the foundations of moral philosophy through a return to the Aristotelian tradition of virtue ethics — particularly the version modified by Thomas Aquinas. This "quest" is not simple historical revivalism but a re-activation of a living philosophical tradition under modern conditions.
+
+## 理论内涵 / Theoretical Content
+
+麦金泰尔的"追寻美德"方案建立在对西方道德哲学史的深刻反思之上。他首先提出一个思想实验：假如自然科学在一场大灾难中丧失了其理论框架，后人虽然保留了科学的术语和片段，但已经不理解使这些术语有意义的整体结构。麦金泰尔认为，当代道德话语正处于这种状态——我们使用"正义""权利""义务""善"等概念，但这些概念已经脱离了赋予它们意义的传统语境。
+
+MacIntyre's "After Virtue" project is grounded in a profound reflection on the history of Western moral philosophy. He begins with a thought experiment: imagine that natural science lost its theoretical framework in a great catastrophe, and later generations retained scientific terminology and fragments but no longer understood the overall structure that made these terms meaningful. MacIntyre argues that contemporary moral discourse is precisely in this condition — we use concepts like "justice," "rights," "duty," and "good," but these concepts have been severed from the traditional context that gave them meaning.
+
+"追寻美德"的建构方案包括三个关键步骤：第一，重新确立"实践"概念作为美德的基础——美德只能在具体的社会实践中获得和展现；第二，通过"叙事统一性"概念将美德与人的整体生活联系起来——美德是使生活叙事趋向完善的品质；第三，通过"传统"概念将美德实践嵌入更广阔的历史文化语境中——美德实践总是延续和发展某个特定的传统。这三个步骤构成了一个从微观（实践）到中观（个人生活叙事）再到宏观（传统）的完整理论架构。
+
+The constructive project of "After Virtue" involves three key steps: first, re-establishing the concept of "practice" as the foundation of virtue — virtues can only be acquired and displayed within concrete social practices; second, connecting virtue to the whole of human life through the concept of "narrative unity" — a virtue is a quality that enables one's life narrative to move toward completion; third, embedding virtuous practice within a broader historical and cultural context through the concept of "tradition" — virtuous practice always continues and develops a particular tradition. These three steps form a complete theoretical architecture moving from the micro (practice) through the meso (personal life narrative) to the macro (tradition).
+
+## 思想史脉络 / Intellectual History
+
+"追寻美德"出版于1981年，正值英美道德哲学由分析传统主导的时期。黑尔的普遍规定主义（universal prescriptivism）和罗尔斯的正义理论代表了两种主流的道德哲学方案，两者都试图在康德式框架内为道德找到普遍的理性基础。麦金泰尔的著作从根本上挑战了这一主流范式。该书第一版即引起巨大反响，第二版（1984）和第三版（2007）进一步修订和完善了论证。在思想史上，"追寻美德"可以被定位为安斯康姆（G. E. M. Anscombe）1958年论文《现代道德哲学》的延续——安斯康姆已经指出，现代道德哲学在不接受亚里士多德目的论的前提下使用"义务"等概念是内在矛盾的。
+
+"After Virtue" was published in 1981, when Anglo-American moral philosophy was dominated by the analytic tradition. Hare's universal prescriptivism and Rawls's theory of justice represented two mainstream approaches, both attempting to find universal rational foundations for morality within a broadly Kantian framework. MacIntyre's work fundamentally challenged this mainstream paradigm. The first edition provoked immediate and intense response; the second (1984) and third (2007) editions further refined the argument. In intellectual history, "After Virtue" can be located as a continuation of Anscombe's 1958 essay "Modern Moral Philosophy" — Anscombe had already pointed out that modern moral philosophy's use of concepts like "obligation" without accepting Aristotelian teleology was internally contradictory.
+
+## 关键文本 / Key Passages
+
+> "The truth is that we are all of us living out the moral legacy of a culture whose moral language is in a state of grave disorder." (*After Virtue*, Ch. 2)
+
+这段话概括了麦金泰尔诊断的核心：我们生活在一个道德语言严重混乱的文化中，但我们往往没有意识到这种混乱。This passage captures the heart of MacIntyre's diagnosis: we live in a culture whose moral language is in grave disorder, yet we are often unaware of this confusion.
+
+> "I want to argue that the Enlightenment project of providing a rational justification for morality not only failed but was bound to fail." (*After Virtue*, Ch. 5)
+
+麦金泰尔在此明确了对启蒙规划的核心批判：启蒙思想家试图为道德建立独立于传统的理性基础，这一努力在哲学上注定失败。MacIntyre here makes his central critique explicit: the Enlightenment project of grounding morality in reason independent of tradition was philosophically doomed.
+
+> "A virtue is an acquired human quality the possession and exercise of which tends to enable us to achieve those goods which are internal to practices." (*After Virtue*, Ch. 14)
+
+这是麦金泰尔对美德的经典定义：美德是一种获得的品质，它的拥有和实践使我们能够获得实践的内在善。This is MacIntyre's classic definition of virtue: a virtue is an acquired quality whose possession and exercise enables us to achieve the goods internal to practices.
+
+## 当代应用 / Contemporary Applications
+
+"追寻美德"方案在当代哲学和社会科学中产生了广泛影响。在商业伦理学中，学者们运用麦金泰尔的实践概念分析企业文化中的美德培育问题。在医学伦理学中，"追寻美德"为批判医疗商业化和恢复医患关系中的美德传统提供了哲学框架。在教育学中，麦金泰尔关于教育作为传统传递的观点被用于课程设计和教师培养。此外，该方案也对宗教研究产生了重要影响——特别是在天主教知识分子中引发了关于如何在现代世界中维系传统美德的深入讨论。
+
+The "After Virtue" project has had wide-ranging influence in contemporary philosophy and social science. In business ethics, scholars use MacIntyre's concept of practice to analyze virtue cultivation in corporate cultures. In medical ethics, "After Virtue" provides a philosophical framework for critiquing medical commercialization and restoring virtuous traditions in doctor-patient relationships. In education, MacIntyre's view of education as tradition-transmission has been applied to curriculum design and teacher training. The project has also significantly impacted religious studies — particularly sparking deep discussions among Catholic intellectuals about sustaining traditional virtues in the modern world.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一 / Critique 1**: 一些评论者认为麦金泰尔的诊断过于悲观，忽视了现代道德话语中的积极因素。Some commentators argue that MacIntyre's diagnosis is overly pessimistic, overlooking positive elements in modern moral discourse.
+**回应 / Response**: 麦金泰尔在第三版后记中承认，他的诊断针对的是道德哲学的理论层面而非日常道德实践，后者可能仍然保持着一定程度的秩序。MacIntyre acknowledged in the third edition postscript that his diagnosis targets the theoretical level of moral philosophy rather than everyday moral practice, which may retain a degree of order.
+
+**批评二 / Critique 2**: 自由主义者批评麦金泰尔忽视了个人自主性的价值，认为他的传统主义可能压制个人自由。Liberals criticize MacIntyre for undervaluing personal autonomy, arguing that his traditionalism may suppress individual freedom.
+**回应 / Response**: 麦金泰尔指出，传统内部的争论本身就是一种自由形式——它允许批判性思考和创造性发展，同时提供共享的意义框架。MacIntyre argues that internal debate within traditions is itself a form of freedom — it allows critical thinking and creative development while providing a shared framework of meaning.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+"追寻美德"的核心理念——通过回归古典传统来应对道德危机——与儒家的"克己复礼"形成了有趣的对应。孔子同样面对道德话语的混乱（春秋时期的"礼崩乐坏"），同样主张通过回归周礼传统来恢复道德秩序。两者的共同洞见在于：道德不能建立在抽象的原则之上，而必须植根于具体的历史传统和社会实践之中。然而，麦金泰尔回归的是亚里士多德-托马斯主义传统，而孔子回归的是周代礼乐传统，这两种传统对"善"和"美德"的理解存在重要的差异。
+
+The core idea of "After Virtue" — addressing moral crisis through a return to classical traditions — finds an intriguing parallel in the Confucian injunction of *keji fuli* (restraining the self and returning to ritual propriety). Confucius likewise faced moral disorder (the "collapse of rites and music" during the Spring and Autumn period) and likewise advocated returning to the Zhou ritual tradition to restore moral order. Their shared insight is that morality cannot be built on abstract principles but must be rooted in concrete historical traditions and social practices. However, MacIntyre returns to the Aristotelian-Thomist tradition while Confucius returns to the Zhou ritual tradition — and these traditions hold significantly different understandings of "good" and "virtue."
+
+## 延伸阅读 / Further Reading
+
+1. MacIntyre, *After Virtue*, 3rd ed. (2007), especially Chs. 1-3 and 14-15
+2. Anscombe, G. E. M., "Modern Moral Philosophy" (1958)
+3. Gregory, Peter, *MacIntyre's "After Virtue": A Critical Guide* (Cambridge, 2024)
+4. 宋继杰译《追寻美德》（译林出版社）
+5. 龚群《当代社群主义伦理学研究》，第三章

@@ -1,0 +1,135 @@
+---
+id: dignaga-apoha-exclusion
+title: "遮诠论 · Apoha (Theory of Exclusion)"
+type: concept
+domain: religion
+school: buddhism-pramana
+era: classical-india
+tags: [apoha, exclusion, meaning-theory, nominalism, semantics, Buddhist-philosophy]
+aliases: [遮诠, 遮诠论, Apoha, Anyapoha, Exclusion Theory, Negative Semantics]
+sources:
+  - title: "Pramanasamuccaya"
+    author: Dignaga
+    chapter: 5 (Apoha chapter)
+  - title: "Pramanavarttika"
+    author: Dharmakirti
+parent: dignaga
+---
+
+# 遮诠论 · Apoha (Theory of Exclusion)
+
+## 一句话定义
+
+概念和语言的意义不是通过正面指称某个实在的共相（universal）获得的，而是通过**排除其他（anyapoha）**——"牛"的意义不是指向某种实在的"牛性"，而是排除一切"非牛"。
+
+## 提出者与背景
+
+- **提出者**: [陈那 Dignaga](../README.md)（约 480-540 CE）
+- **出处**: 《集量论》Pramanasamuccaya 第五章（遮诠品/Apoha 章）
+- **历史语境**: 印度哲学中关于共相（universal/samanya）的长期争论——正理派和胜论派主张共相实在论（"牛性"是实在的），佛教坚持唯名论（共相只是概念建构）
+- **针对的问题**: 如果佛教否定了共相的实在性，那么语言和概念如何运作？"牛"这个词到底指向什么？如果既不指向个别的牛，也不指向实在的"牛性"，语言如何有意义？
+- **理论动机**: 解决佛教唯名论的最大理论困境——"无共相如何有语言"
+
+## 核心要义
+
+### 问题的严峻性
+
+佛教的基本本体论立场是：只有独特的、不可重复的个别事物（自相，svalaksana）是实在的；一般的、可重复的共相（samanyalaksana）只是心智的建构，不具有实在性。
+
+但这带来一个严峻的问题：语言显然使用一般概念——我们说"牛"时，指的是所有牛的共同特征。如果"牛性"不是实在的，"牛"这个词如何有意义？
+
+正理派和胜论派的回答是：共相是实在的——"牛性"（gotva）是一种独立于个别牛的实在实体，通过它，个别牛得以被归为"牛"。
+
+### 陈那的解答：排除性语义
+
+陈那的回答是革命性的：
+
+1. **概念不指称实在对象**: "牛"这个词不指向任何实在的"牛性"——因为"牛性"不存在
+2. **概念通过排除获得意义**: "牛"的意义是"非非牛"（anyapoha）——排除一切不是牛的东西
+3. **排除是心理操作**: 排除不是在本体论层面发生的，而是在认知层面——心智通过排除异类来建构概念
+4. **概念是实用的虚构**: 虽然概念没有本体论基础，但它们在实践中有效——就像幻象虽不真实但能产生效果
+
+### 三层结构
+
+遮诠论可以理解为三个层次：
+
+**第一层：本体论层面**
+- 实在的只有自相（个别的、独特的存在）
+- 共相不具有任何实在性
+
+**第二层：认知层面**
+- 心智通过"排除其他"（apoha）来建构概念
+- "牛"的认知 = 排除一切非牛的认知活动
+- 这一过程是自动的、前反思的
+
+**第三层：语言层面**
+- 语言通过概念间接运作
+- 词语 → 概念（排除性建构） → 指向自相（间接地）
+- 语言永远不能直接触及实在，只能通过排除性的概念中介
+
+### 与"双重否定"的关系
+
+"牛 = 非非牛"不是简单的双重否定回归肯定。陈那的意思是：
+
+- 正面表述"牛"暗示存在某种正面的"牛性"实体
+- 否定表述"非非牛"揭示意义的真正机制——排除性的、关系性的、非实体性的
+- 这不是语义上的等价，而是**哲学立场**上的根本差异
+
+### 法称的发展
+
+法称（Dharmakirti）在《量抉择论》Pramanavarttika 中进一步发展了遮诠论：
+
+- **因果效率说**: 个别事物虽各不相同，但具有相似的因果效率（arthakriya），这使得心智可以将它们归为一类
+- **自然类问题**: 排除不是任意的——它基于事物之间的因果相似性
+- **概念的实用性**: 虽然概念是建构的，但它们基于实在的因果关系，因此在实践中可靠
+
+**The apoha theory holds that words and concepts do not refer to real universals but function through the exclusion of what is other. 'Cow' does not name a real 'cow-ness' but operates by excluding everything that is not a cow. This solves the Buddhist nominalist dilemma: language works not because universals exist, but because the mind constructs categories through a process of exclusion — a negative, relational mechanism rather than a positive, referential one.**
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 遮诠 | "间接描述" | "通过排除其他来建构意义的认知机制" |
+| 共相 | "共同特征" | "被实在论者视为独立实体的普遍性质——佛教否定其实在性" |
+| 排除 | "去掉不要的" | "认知层面的否定性操作——概念的意义就是排除活动本身" |
+| 自相 | "个体" | "不可重复的、独特的、前概念的个别特征——唯一实在的存在" |
+
+## 与西方哲学的对话
+
+### vs 维特根斯坦的"家族相似"
+
+维特根斯坦在《哲学研究》中论证：不存在一个所有"游戏"的共同本质——"游戏"这个概念是通过"家族相似"（family resemblance）运作的。这与遮诠论有深刻的结构平行：
+
+- 两者都拒绝共相实在论
+- 两者都认为概念可以在没有正面定义的情况下有效运作
+- 差异：维特根斯坦强调"使用"，陈那强调"排除"
+
+### vs 索绪尔的差异语义学
+
+索绪尔主张语言中的价值（valeur）是由差异关系决定的——"语言中只有差异，没有正面项"。这与遮诠论的核心直觉极为接近：意义不是正面指称，而是关系性的区分。
+
+### vs 德里达的延异
+
+德里达的延异（differance）概念——意义永远被推迟和差异化——可以视为遮诠论的后结构主义变体。但德里达走得更远，否认任何稳定的意义基础。
+
+### vs 原型理论 Prototype Theory
+
+认知科学中的原型理论（Rosch, 1970s）主张范畴不是基于充要条件，而是基于与原型的相似度。遮诠论可以与原型理论对话——排除操作的认知基础可能涉及原型匹配。
+
+## 当代关联
+
+- **机器学习分类**: 分类器通过"排除其他类别"来确定类别——二分类中的"正类 = 非负类"在结构上等同于遮诠
+- **信息论**: 信息即排除——Shannon 信息论中，一个消息的信息量等于它排除的可能性的数量
+- **认知语言学**: George Lakoff 的范畴化理论与遮诠论对概念建构的分析可以互读
+
+## 常见误读
+
+- **"遮诠 = 什么都没说"** → 遮诠不是虚无主义。"非非牛"在实践中完全有效——它让你正确识别牛。陈那承认概念的功能性有效性，只否认其本体论基础。
+- **"遮诠是纯粹的否定"** → 遮诠不是简单的否定，而是一种建构性的否定——排除活动本身就构成了正面的概念内容。这是一个微妙的哲学观点。
+- **"佛教自相矛盾"** → 如果佛教使用语言来否定共相，那么佛教的论述本身也不具有正面意义？陈那的回应是：遮诠论本身也是遮诠性的——它的意义也是排除性的，而非指称性的。这是递归性的自我一致。
+
+## 延伸阅读
+
+- [自相与共相 Svalaksana & Samanyalaksana](particular-universal.md) — 遮诠论的本体论前提
+- [唯二量 Only Two Pramanas](only-two-pramanas.md) — 遮诠在比量中的作用
+- [集量论 Pramanasamuccaya](pramanasamuccaya.md) — 遮诠品在完整体系中的位置

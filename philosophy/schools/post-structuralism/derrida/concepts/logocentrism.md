@@ -1,0 +1,166 @@
+---
+id: logocentrism
+title: 逻各斯中心主义 · Logocentrism
+type: concept
+parent: derrida
+domain: philosophy
+school: post-structuralism
+tags:
+  - 逻各斯中心主义
+  - logocentrism
+  - 语音中心主义
+  - phonocentrism
+  - 在场形而上学
+aliases:
+  - 逻各斯中心主义
+  - Logocentrism
+  - 语音中心主义
+  - Phonocentrism
+  - 在场形而上学
+  - Metaphysics of Presence
+created: 1967
+---
+
+# 逻各斯中心主义 · Logocentrism
+
+> *"The entire history of our Western metaphysics is the history of logocentrism."*
+> *"我们整个西方形而上学史就是逻各斯中心主义的历史。"*
+> — Jacques Derrida, *Of Grammatology* / 《论文字学》 (1967)
+
+---
+
+## 一句话定义 · One-Line Definition
+
+**逻各斯中心主义是德里达用来命名整个西方形而上学传统的术语：这一传统以"逻各斯"（理性、语音、在场、真理）为终极本源，并系统性地把书写、身体、差异、偶然性等贬为次级、派生、外在。**
+
+*Logocentrism is Derrida's name for the entire Western metaphysical tradition: a tradition that posits *logos* (reason, speech, presence, truth) as the ultimate origin and systematically degrades writing, body, difference, and contingency as secondary, derivative, external.*
+
+---
+
+## 词源与谱系 · Etymology and Genealogy
+
+- **希腊语 *logos***：既有"理性"、"言说"、"话语"、"道理"、"比例"等多重含义。在希腊哲学（赫拉克利特、柏拉图、亚里士多德、斯多葛）与基督教神学（《约翰福音》"太初有道/Logos"）中，*logos* 都被赋予了**本源**与**真理**的地位。
+- **德语 *Logozentrismus***：这个词并非德里达首创。它最早由德国哲学家路德维希·克拉格斯 (Ludwig Klages, 1872–1954) 在 1920–30 年代使用，用来批评理性主义对"灵魂" (*Seele*) 的压抑。德里达借用了这个词，但赋予了新的含义。
+- **德里达的使用**：1967年《论文字学》正式把这个概念系统化，并与"语音中心主义"(*phonocentrism*) 和"在场形而上学"(*metaphysics of presence*) 并置使用。
+
+---
+
+## 逻各斯中心主义的三重结构 · The Triple Structure
+
+德里达认为，逻各斯中心主义由三个相互嵌套的预设构成：
+
+### 1. 在场形而上学 · Metaphysics of presence
+存在 = 在场。真理 = 在当下自我呈现的东西。从柏拉图的"理念" (*eidos*) 到笛卡尔的"我思" (*cogito*)，到胡塞尔的"活的当下" (*lebendige Gegenwart*)，西方哲学始终把"本源"想象为一种**自我在场的瞬间**。
+
+*Being = presence. Truth = what self-presents in the now. From Plato's *eidos* to Descartes's *cogito* to Husserl's *lebendige Gegenwart*, Western philosophy has always imagined the "origin" as a **moment of self-presence**.*
+
+### 2. 语音中心主义 · Phonocentrism
+语音优于书写。语音被视为思想的"直接外衣"、灵魂的"自然表达"；书写则被视为语音的衰败摹本、外在工具、潜在污染源。
+
+- 柏拉图《斐德若篇》：书写是"记忆的毒药"；
+- 亚里士多德《解释篇》："口语是心灵体验的符号，书写是口语的符号"；
+- 索绪尔《普通语言学教程》："语言和书写是两种不同的符号系统；后者的唯一存在理由在于表现前者。"
+
+*Speech is privileged over writing. Speech is seen as the "direct garment" of thought, the "natural expression" of the soul; writing as a degraded copy, an external tool, a potential contaminant. Plato (*Phaedrus*): writing is "a poison for memory." Aristotle (*De Interpretatione*): "spoken words are symbols of mental experience; written words are symbols of spoken words." Saussure (*Course in General Linguistics*): "language and writing are two distinct systems of signs; the only reason for the existence of the latter is to represent the former."*
+
+### 3. 理性/身体、同一/差异、内/外的等级对立 · Hierarchical oppositions
+逻各斯中心主义把一切哲学范畴组织成二元对立，其中第一项总是优先于第二项：
+
+| 优先项 · Privileged | 贬抑项 · Devalued |
+|---|---|
+| 理性 · Reason | 感性 · Sensibility |
+| 灵魂 · Soul | 身体 · Body |
+| 同一 · Identity | 差异 · Difference |
+| 内在 · Interior | 外在 · Exterior |
+| 言语 · Speech | 书写 · Writing |
+| 自然 · Nature | 文化/技术 · Culture/technique |
+| 男性 · Male | 女性 · Female |
+| 西方 · West | 非西方 · Non-West |
+
+---
+
+## 解构的姿态 · The Deconstructive Gesture
+
+德里达对逻各斯中心主义的解构采取**两步**：
+
+### 步骤一：颠倒等级 · Step 1: Reverse the hierarchy
+把被贬抑的一项抬升到优先位置。例如：论证书写（作为差异系统的代名词）比言语更"原初"——言语已经是一种书写。
+
+*Invert the hierarchy. E.g.: argue that writing (as a synonym for the differential system) is more "originary" than speech — speech is already a kind of writing.*
+
+### 步骤二：位移对立 · Step 2: Dislocate the opposition
+仅仅颠倒是不够的——等级结构本身仍然完好无损。必须引入一个**新的"非概念"**（如 *archi-écriture* 原初书写、*différance* 延异），它**既不属于两边，又让两边都成为可能**，从而让整个对立结构动摇。
+
+*Mere reversal is not enough — the hierarchical structure remains intact. A new "non-concept" must be introduced (archi-writing, différance…) that **belongs to neither side yet makes both sides possible**, dislocating the entire oppositional structure.*
+
+---
+
+## 经典文本 · Canonical Texts
+
+### 柏拉图《斐德若篇》(*Phaedrus*)
+塔穆斯王 (Thamus) 评判图提神 (Theuth) 发明的书写："这一发明将使学习者遗忘，因为他们不再使用记忆。"德里达在《播撒》(*Dissemination*, 1972) 中的 "La Pharmacie de Platon" 一章细读此段，论证书写作为 *pharmakon*（既良药又毒药）的逻辑贯穿整部柏拉图对话。
+
+### 卢梭《论语言的起源》(*Essay on the Origin of Languages*)
+卢梭声称语言起源于激情的呼喊（南方），书写则是北方寒冷理性的衰败产物。德里达在《论文字学》第二部分解构了这一叙事：卢梭自己的文本承认"补充"已经在本源处运作。
+
+### 索绪尔《普通语言学教程》(*Course in General Linguistics*, 1916)
+索绪尔把书写视为语音的图像再现，并警告"书写暴政"。德里达指出：索绪尔自己的差异原则*反过来*证明了书写比语音更彻底地体现差异——语音中心主义是索绪尔文本中**未被承认的自相矛盾**。
+
+### 胡塞尔《逻辑研究》(*Logical Investigations*, 1900–01)
+胡塞尔区分"表达" (*Ausdruck*, 有意图的、有意义的符号) 与"指号" (*Anzeichen*, 无意义的、物理的痕迹)。德里达在《声音与现象》中论证：这一区分无法成立——表达本身已经是指号的运作。
+
+---
+
+## 与其他思想家的对话 · Dialogues with Other Thinkers
+
+| 思想家 · Thinker | 关系 · Relation |
+|---|---|
+| 海德格尔 · Heidegger | 海德格尔已经质疑了"在场形而上学"，但德里达认为他仍陷于另一种"本源乡愁"。 / Heidegger already questioned the metaphysics of presence, but Derrida finds him trapped in another nostalgia for origin. |
+| 列维-斯特劳斯 · Lévi-Strauss | 列维-斯特劳斯把书写视为殖民暴力，德里达在《书写与差异》的"结构、符号与游戏"中反驳：暴力早就内在于所谓"天真的口语社会"。 / Lévi-Strauss sees writing as colonial violence; Derrida counters in *Structure, Sign, and Play* that violence is already immanent in the supposedly innocent oral society. |
+| 福柯 · Foucault | 1963年"Cogito与疯狂史"论争：德里达质疑福柯"书写一部疯狂本身的历史"是否可能，因为任何书写都已落入逻各斯中心主义的语言。 / 1963 "Cogito and the History of Madness" debate: Derrida questions whether Foucault's project is possible, since any writing has already fallen into the language of logocentrism. |
+| 尼采 · Nietzsche | 尼采对"真理"谱系的怀疑被视为逻各斯中心主义批判的先驱。 / Nietzsche's genealogical suspicion of "truth" anticipates the critique of logocentrism. |
+| 阿多诺 · Adorno | "否定辩证法"与德里达的"位移"形成平行。 / "Negative dialectics" parallels Derridean displacement. |
+
+---
+
+## 逻各斯中心主义 vs. 语音中心主义 · Logocentrism vs. Phonocentrism
+
+两个概念经常被混用，德里达本人也有意识地交叠使用，但可作如下区分：
+
+- **逻各斯中心主义**是更广义的形而上学批判：涵盖理性/真理/在场/同一性的整个谱系；
+- **语音中心主义**是其在语言哲学中的具体化：特指语音优于书写的偏见。
+
+逻各斯中心主义可以没有语音中心主义（如某些视觉哲学），但语音中心主义必然是逻各斯中心主义的一种形式。
+
+*The two concepts are often conflated, and Derrida himself uses them with deliberate overlap. A useful distinction: **logocentrism** is the broader metaphysical critique (reason/truth/presence/identity); **phonocentrism** is its linguistic-philosophical specification (the privilege of speech over writing). Logocentrism can exist without phonocentrism (e.g., in certain visual philosophies), but phonocentrism is always a form of logocentrism.*
+
+---
+
+## 当代影响 · Contemporary Impact
+
+1. **女性主义** · Feminism：Hélène Cixous "阴性书写" (*écriture féminine*) 把对语音中心主义的批判与对男权中心主义的批判结合。
+2. **后殖民理论** · Post-colonial theory：Gayatri Spivak 把逻各斯中心主义扩展为"欧洲中心主义的认识论"。
+3. **媒介理论** · Media theory：麦克卢汉 "媒介即信息" 与德里达对语音/书写等级的解构形成对话；Kittler 的技术书写论。
+4. **数字文化** · Digital culture：代码作为"不可见的书写"构成了当代数字世界的原初书写。
+
+---
+
+## 常见误读 · Common Misreadings
+
+1. **"逻各斯中心主义只是反语音"** → 它是整个在场形而上学的批判。 / "Logocentrism is just anti-speech" → It is a critique of the entire metaphysics of presence.
+2. **"解构逻各斯中心主义 = 反理性"** → 德里达不是反理性；他是追问"理性如何可能"。 / "Deconstructing logocentrism = anti-reason" → Derrida is not anti-reason; he asks how reason is possible.
+3. **"只有西方哲学是逻各斯中心主义的"** → 德里达明确质疑"东方哲学是否更不逻各斯中心"的问题；这是一个普遍结构的问题。 / "Only Western philosophy is logocentric" → Derrida explicitly questions whether "Eastern philosophy is less logocentric"; it is a question about a universal structure.
+4. **"我们只要放弃逻各斯中心主义就可以了"** → 我们没有"逻各斯中心主义之外"的语言；解构只能从内部进行。 / "We just have to abandon logocentrism" → We have no language outside logocentrism; deconstruction can only proceed from within.
+
+---
+
+## 延伸阅读 · Further Reading
+
+- Derrida, *Of Grammatology* (1967), Introduction and Part I.
+- Derrida, *Voice and Phenomenon* (1967), especially Chapter 1.
+- Derrida, *Margins of Philosophy* (1972), "Ousia and Gramme" (on Aristotle's and Heidegger's time).
+- Derrida, *Writing and Difference* (1967), "Structure, Sign, and Play in the Discourse of the Human Sciences."
+- Culler, *On Deconstruction* (1982), Chapter 1: "Logocentrism."
+
+→ 返回 [README.md](README.md) · Return to [README.md](README.md)
+→ 相关 · Related: [deconstruction.md](deconstruction.md) · [differance.md](differance.md) · [trace.md](trace.md) · [supplement.md](supplement.md)

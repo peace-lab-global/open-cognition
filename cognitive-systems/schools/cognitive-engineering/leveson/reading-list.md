@@ -1,0 +1,91 @@
+---
+id: cognitive-systems.school.cognitive-engineering.leveson.reading-list
+title: 莱文森阅读指南 Nancy Leveson Reading List
+type: reading-list
+thinker: leveson
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 南希·莱文森阅读指南 / Nancy Leveson Reading List
+
+## 入门路径 / Getting Started
+
+### 第一步：了解 STAMP/STPA 核心思想
+
+1. Leveson, N. G. (2011). *Engineering a Safer World: Systems Thinking Applied to Safety*. MIT Press.
+   - 第1-3章：STAMP 理论基础
+   - 第5-6章：STPA 方法论
+   - 第7-8章：应用案例
+   - **推荐理由**：这是莱文森最系统的著作，是理解 STAMP/STPA 的必读之作
+
+2. Leveson, N. G. (2004). "A New Accident Model for Engineering Safer Systems." *Safety Science*, 42(4), 237-270.
+   - **推荐理由**：STAMP 模型最精炼的学术表述，适合快速把握理论核心
+
+### 第二步：了解软件安全的独特性
+
+3. Leveson, N. G. (1995). *Safeware: System Safety and Computers*. Addison-Wesley.
+   - **推荐理由**：理解为什么传统安全方法在软件密集型系统中失效
+
+## 原典 / Primary Sources
+
+| 年份 | 著作 | 重要程度 | 说明 |
+|------|------|----------|------|
+| 1986 | *System Safety Engineering and Management* | 基础 | 早期系统安全论述 |
+| 1995 | *Safeware: System Safety and Computers* | 重要 | 软件安全里程碑 |
+| 2004 | "A New Accident Model for Engineering Safer Systems" | 核心 | STAMP 理论基础 |
+| 2011 | *Engineering a Safer World* | 必读 | STAMP/STPA 完整体系 |
+
+## 二手研究 / Secondary Literature
+
+| 年份 | 作者 | 著作 | 说明 |
+|------|------|------|------|
+| 2013 | Thomas, J. | "Extending and Automating a Systems-Theoretic Hazard Analysis Technique" (MIT PhD) | STPA 方法扩展 |
+| 2015 | Fleming, C. H. | "Safety Assurance in Next-Generation Transportation Systems" (MIT PhD) | STPA 在交通领域的应用 |
+| 2015 | Abdulkhaleq, A. & Wagner, S. | "Integrated Safety Analysis using STPA and Software Model Checking" (*SAFECOMP*) | STPA 与软件验证结合 |
+
+## 思想前驱 / Intellectual Precursors
+
+| 思想家 | 著作 | 与莱文森的关系 |
+|--------|------|----------------|
+| Wiener, N. | *Cybernetics* (1948) | 控制论基础，STAMP 的理论源头 |
+| Ashby, W.R. | *An Introduction to Cybernetics* (1956) | 必要多样性定律 |
+| Rasmussen, J. | *Information Processing and Human-Machine Interaction* (1986) | 系统安全传统 |
+
+## 思想对话 / Intellectual Dialogues
+
+| 思想家 | 著作 | 与莱文森的关系 |
+|--------|------|----------------|
+| Hollnagel, E. | *Safety-I and Safety-II* (2014) | Safety-II 与 STAMP 的系统视角互补 |
+| Woods, D. | *Resilience Engineering* (2006) | 韧性工程与 STAMP 的对话 |
+| Reason, J. | *Human Error* (1990) | 瑞士奶酪模型与 STAMP 的对照 |
+| Dekker, S. | *Drift into Failure* (2011) | 漂移失败与约束松动的平行概念 |
+
+## 应用研究 / Applied Research
+
+| 领域 | 推荐阅读 | 说明 |
+|------|----------|------|
+| 自动驾驶 | Fleming (2015) MIT PhD Thesis | STPA 在自动驾驶中的系统应用 |
+| 航空电子 | Leveson (2004) *Safety Science* | STAMP 在航空安全中的案例分析 |
+| 医疗设备 | FDA Guidance on STPA (2010s) | STPA 在医疗设备安全论证中的应用 |
+| AI 安全 | 待发展 | 将控制论安全观应用于 AI 系统 |
+
+## 进阶主题 / Advanced Topics
+
+### 控制论与安全
+- Wiener, N. *Cybernetics* (1948) -- 控制论原典
+- Ashby, W.R. *An Introduction to Cybernetics* (1956) -- 必要多样性定律
+
+### 系统理论
+- Checkland, P. *Systems Thinking, Systems Practice* (1999) -- 系统思维方法论
+- Senge, P. *The Fifth Discipline* (1990) -- 系统思维在组织管理中的应用
+
+### 对比阅读：其他事故模型
+- Reason, J. *Managing the Risks of Organizational Accidents* (1997) -- 瑞士奶酪模型
+- Perrow, C. *Normal Accidents* (1984) -- 常事故理论
+- Hollnagel, E. *FRAM* (2012) -- 功能共振分析方法
+
+## 中文资源
+
+- 莱文森《工程一个更安全的世界》（待出版中译本）
+- 系统安全工程相关中文教材中有关 STAMP/STPA 的介绍章节

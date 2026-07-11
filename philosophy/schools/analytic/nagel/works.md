@@ -1,0 +1,69 @@
+---
+id: nagel-works
+title: 内格尔作品总览 · Thomas Nagel Works
+type: works-catalogue
+domain: philosophy
+school: analytic
+thinker: nagel
+tags: [nagel, works, bibliography]
+cross-refs:
+  - id: nagel
+    relation: thinker
+---
+
+# 内格尔作品总览 · Thomas Nagel Works
+
+## 一、核心专著 / Major Monographs
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1970 | *The Possibility of Altruism* | 《利他主义的可能性》 | 首部专著，理性利他主义 |
+| 1979 | *Mortal Questions* | 《人的问题》 | 道德运气、荒谬、死亡 |
+| 1986 | *The View from Nowhere* | 《来自无处的视角》 | 主观-客观张力 |
+| 1991 | *Equality and Partiality* | 《平等与偏私》 | 政治哲学 |
+| 1995 | *Other Minds: Critical Essays 1969-1994* | 《他心》 | 论文集 |
+| 1997 | *The Last Word* | 《最后的话》 | 捍卫理性的客观性 |
+| 2002 | *Concealment and Exposure and Other Essays* | 《隐蔽与暴露》 | 隐私与公共性 |
+| 2010 | *Secular Philosophy and the Religious Temperament* | 《世俗哲学与宗教气质》 | 哲学与宗教 |
+| 2012 | *Mind and Cosmos* | 《心灵与宇宙》 | 目的论自然主义 |
+| 2015 | *Mind and Cosmos* (revised) | — | 回应批评 |
+
+## 二、重要论文 / Key Papers
+
+| 年份 | 论文 | 期刊/文集 | 核心主题 |
+|------|------|-----------|----------|
+| 1965 | "Physicalism" | *Philosophical Review* | 物理主义批判 |
+| 1969 | "Sexual Perversions" | *Journal of Philosophy* | 性伦理学 |
+| 1970 | "Death" | *Nous* | 死亡的坏处 |
+| 1971 | "Brain Bisection and the Unity of Consciousness" | *Synthese* | 意识的统一性 |
+| 1974 | **"What Is It Like to Be a Bat?"** | ***Philosophical Review*** | **主观经验的不可还原性** |
+| 1976 | "Moral Luck" | *Proceedings of the Aristotelian Society* | 道德运气 |
+| 1979 | "The Absurd" (in *Mortal Questions*) | — | 荒谬 |
+| 1983 | "The Objective Self" | *Knowledge and Mind* | 客观自我 |
+| 1986 | "Panpsychism" (in *The View from Nowhere*) | — | 泛灵论讨论 |
+
+## 三、合编著作 / Edited Volumes
+
+- *Reading Rawls* (contributor, 1974) — 对罗尔斯的评论
+- *Mortal Questions* (1979) — 论文集
+- *The Cambridge Companion to Thomas Nagel* (forthcoming) — 内格尔研究
+
+## 四、中译本 / Chinese Translations
+
+- 《人的问题》（万以诚等译，上海人民出版社）
+- 《来自无处的视角》（王今一译，华夏出版社）
+- 《心灵与宇宙》（张卜天译，商务印书馆）
+- 《利他主义的可能性》
+
+## 五、阅读路径
+
+### 入门
+1. "What Is It Like to Be a Bat?" (1974) — 最著名论文
+2. *Mortal Questions* — 最易读的论文集
+3. "The Absurd" (1979) — 简短而深刻
+
+### 进阶
+4. *The View from Nowhere* (1986) — 核心专著
+5. *Mind and Cosmos* (2012) — 最新著作
+6. *The Possibility of Altruism* (1970) — 早期著作
+7. *The Last Word* (1997) — 捍卫理性

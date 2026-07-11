@@ -1,0 +1,123 @@
+---
+id: kuiji-three-natures
+title: 三性三无性 / Trisvabhava-Trinihsvabhavata (Three Natures and Three Non-Natures)
+type: concept
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+tags: [trisvabhava, parikalpita, paratantra, parinispanna, middle-way, emptiness]
+---
+
+# 三性三无性 / Trisvabhava-Trinihsvabhavata (Three Natures and Three Non-Natures)
+
+## 定义 / Definition
+
+三性（trisvabhava）是唯识学分析存在方式的三层框架：遍计所执性（parikalpita，虚妄分别的投射）、依他起性（paratantra，因缘所生的存在方式）、圆成实性（parinispanna，事物的真实本性）。配合三无性（trinihsvabhavata）——相无性、生无性、胜义无性——构成法相唯识宗的"中道观"：既不落入"一切皆空"的虚无主义，也不落入"一切实有"的实在论。
+
+The three natures (trisvabhava) constitute a three-tiered framework for analyzing the mode of existence in Yogacara: the imagined nature (parikalpita, projection of false discrimination), the dependent nature (paratantra, the mode of existence arising from conditions), and the perfected nature (parinispanna, the true nature of things). Combined with the three non-natures (trinihsvabhavata) -- non-nature of characteristics, non-nature of arising, and non-nature of the ultimate -- these form the Faxiang school's "middle way": avoiding both the nihilism of "everything is empty" and the realism of "everything truly exists."
+
+---
+
+## 三性详解 / The Three Natures in Detail
+
+### 1. 遍计所执性 / Parikalpita-svabhava (Imagined Nature)
+
+遍计所执性是凡夫的错觉层面——将虚妄分别的产物执为实有。"遍计"（parikalpa）意为"普遍计度"，即心识对一切对象进行概念化投射的习惯。
+
+The imagined nature is the level of ordinary beings' delusion -- grasping the products of false discrimination as truly existent. "Parikalpa" (imaginative construction) refers to consciousness's habitual tendency to project conceptual designations onto all objects.
+
+**譬喻 / Analogy**: 黑暗中误认绳索为蛇。蛇是遍计所执——它只存在于错误的认知投射中，没有任何实际基础。
+
+In the dark, one mistakes a rope for a snake. The snake is the imagined nature -- it exists only in erroneous cognitive projection, with no actual basis.
+
+**窥基的阐释 / Kuiji's Elaboration**: 窥基强调，遍计所执性不是"没有"——它在错误认知中确实被经验到——而是"不实"（abhuta-parikalpa，非真实的构想）。修行的关键不是消灭遍计所执的对象（因为它们在胜义层面本来就不存在），而是认识到它们的虚妄性。
+
+Kuiji emphasized that the imagined nature is not "non-existent" -- it is genuinely experienced within erroneous cognition -- but rather "unreal" (abhuta-parikalpa, unreal conceptualization). The key to practice is not to eliminate the objects of imagination (since they never exist at the ultimate level) but to recognize their illusory character.
+
+### 2. 依他起性 / Paratantra-svabhava (Dependent Nature)
+
+依他起性是事物实际的存在方式——依因缘而生起，依条件而存在。"他"（para）指因缘条件；一切现象都是"依他"（依赖其他条件）而生起的，不是自有自存的。
+
+The dependent nature is how things actually exist -- arising from and depending upon conditions. "Para" (other) refers to causal conditions; all phenomena arise "depending on other" conditions and are not self-existent.
+
+**譬喻 / Analogy**: 绳索本身是依他起——它由麻丝、工匠、工具等因缘条件和合而成。绳的存在是真实的，但它是依赖性的存在。
+
+The rope itself is the dependent nature -- it is composed of hemp fibers, craftsmanship, tools, and other conditions. The rope's existence is real, but it is a dependent existence.
+
+**窥基的阐释 / Kuiji's Elaboration**: 窥基特别指出，依他起性是唯识学的核心——它是连接遍计所执和圆成实的"中间地带"。如果我们否定依他起性的存在（"恶取空"），就会落入虚无主义；如果将依他起性执为实有，就会落入实在论。正确的态度是：承认依他起性的"假有"（功能性存在），同时否定其"实有"（自性存在）。
+
+Kuiji particularly noted that the dependent nature is the core of Yogacara -- it is the "middle ground" connecting imagined and perfected natures. Denying the dependent nature ("wrongly grasping emptiness") leads to nihilism; grasping it as truly existent leads to realism. The correct approach: acknowledge the dependent nature's "provisional existence" (functional existence) while denying its "true existence" (self-nature existence).
+
+### 3. 圆成实性 / Parinispanna-svabhava (Perfected Nature)
+
+圆成实性是事物的真实本性——即"依他起性上远离遍计所执性"。它不是独立于依他起之外的另一个"实体"，而是依他起的"清净面"。
+
+The perfected nature is the true nature of things -- namely, "the dependent nature free from imagined nature." It is not a separate "entity" independent of the dependent nature but rather the "purified aspect" of dependent nature.
+
+**譬喻 / Analogy**: 认识到绳不是蛇，同时理解绳的真实组成（麻丝）——这就是圆成实。它不是在绳之外找到另一个东西，而是对绳的正确认识。
+
+Recognizing that the rope is not a snake, while understanding the rope's true composition (hemp fibers) -- this is the perfected nature. It is not finding something other than the rope but knowing the rope correctly.
+
+**窥基的阐释 / Kuiji's Elaboration**: 窥基将圆成实性等同于真如（tathata）——事物的"如实"状态。通过唯识观的修行，修行者逐步去除遍计所执，最终在佛地完全证悟圆成实性。这一过程就是"转识成智"（vijnana-paravrtti，识的转化）。
+
+Kuiji equated the perfected nature with suchness (tathata) -- the "as-it-is" state of things. Through Yogacara contemplative practice, practitioners gradually remove imagined projections and ultimately fully realize the perfected nature at the stage of Buddhahood. This process is the "transformation of consciousness into wisdom" (vijnana-paravrtti).
+
+---
+
+## 三无性 / The Three Non-Natures
+
+三无性是对三性的"空性"层面的补充说明，防止修行者将三性本身执为实有：
+
+The three non-natures supplement the three natures with their "emptiness" aspects, preventing practitioners from grasping the three natures themselves as truly existent:
+
+| 三无性 Non-Nature | 对应三性 Corresponding Nature | 含义 Meaning |
+|------|------|------|
+| 相无性 laksananihsvabhavata | 遍计所执性 Parikalpita | 遍计所执的"相"本来就没有自性 / The "characteristics" of imagined nature inherently lack self-nature |
+| 生无性 utpattinihsvabhavata | 依他起性 Paratantra | 依他起的事物没有"自然生"的自性 / Dependent things lack self-nature of "natural arising" |
+| 胜义无性 paramarthanihsvabhavata | 圆成实性 Parinispanna | 圆成实作为胜义，超越了一切"有性"的执着 / The perfected nature as ultimate transcends all grasping at "existence" |
+
+窥基特别阐释了"胜义无性"的深意：圆成实性虽然是"真实"，但它不是可以被执取的"对象"——它是超越一切概念化的如实状态。如果将圆成实性本身当作一个"实有的东西"来执着，那就又落入了遍计所执。
+
+Kuiji particularly elaborated on the deep meaning of "non-nature of the ultimate": although the perfected nature is "real," it is not an "object" that can be grasped -- it is the as-it-is state transcending all conceptualization. If one grasps at the perfected nature itself as a "truly existent thing," one falls back into imagined nature.
+
+---
+
+## 三性与中道 / Three Natures and the Middle Way
+
+三性三无性构成了唯识学独特的"中道"（madhyama-pratipad）：
+
+The three natures and three non-natures constitute Yogacara's distinctive "middle way":
+
+- **不落入"有"边**：否定遍计所执性的实有，避免实在论
+- **不落入"无"边**：承认依他起性的功能性存在，避免虚无主义
+- **中道**：在依他起性上远离遍计所执，即是圆成实——这是"非有非无"的中道
+
+- **Avoiding the extreme of "existence"**: denying the real existence of imagined nature, avoiding realism
+- **Avoiding the extreme of "non-existence"**: acknowledging the functional existence of dependent nature, avoiding nihilism
+- **The Middle Way**: freedom from imagined projections upon the dependent nature is the perfected nature -- the middle way of "neither existent nor non-existent"
+
+窥基认为，这一中道观优于中观学派的"一切法空"说，因为它不仅说"空"，还指出了"空"的具体内容（空掉的是遍计所执，而非依他起），为修行提供了更清晰的指引。
+
+Kuiji considered this middle way superior to the Madhyamaka school's "all dharmas are empty" approach, because it not only states "emptiness" but specifies the content of emptiness (what is emptied is imagined nature, not dependent nature), providing clearer guidance for practice.
+
+## 与中观学派的比较 / Comparison with Madhyamaka
+
+| 维度 Dimension | 唯识三性 Yogacara Three Natures | 中观空性 Madhyamaka Emptiness |
+|------|------|------|
+| 方法 Method | 分析性分解 Analytical decomposition | 归谬论证 Reductio ad absurdum |
+| 空什么 What is empty | 空遍计所执 Empties imagined nature | 一切法无自性 All dharmas lack self-nature |
+| 保留什么 What is preserved | 依他起和圆成实 Dependent and perfected | 世俗假名 Conventional designations |
+| 修行路径 Practice path | 渐次转化 Gradual transformation | 当下体悟 Immediate realization |
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [唯识无境](consciousness-only.md) -- 三性的认识论基础 / Epistemological basis
+- [龙树·空性](../nagarjuna/concepts/sunyata.md) -- 中观与唯识的对话 / Madhyamaka-Yogacara dialogue
+- [百法明门](hundred-dharmas.md) -- 三性的分类学基础 / Taxonomic basis
+
+## 进阶阅读 / Further Reading
+
+- 世亲《三自性论》/ Vasubandhu, *Trisvabhava-nirdesa*
+- 窥基《成唯识论述记》卷八-卷九 / Kuiji, *Cheng Weishi Lun Shuji*, fascicles 8-9
+- Williams, P. (1998). *Mahayana Buddhism*, Ch. 4. Routledge.
+- Kochumuttom, T.A. (1982). *A Buddhist Doctrine of Experience*, Ch. 5. Motilal Banarsidass.

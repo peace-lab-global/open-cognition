@@ -1,0 +1,177 @@
+---
+id: psychology.cognitive.friston.concepts.hierarchical-inference
+title: "层级推断 · Hierarchical Inference"
+type: concept
+parent: psychology.cognitive.friston
+thinker: Karl Friston
+tags: [层级结构, 贝叶斯推断, 皮层层级, 多尺度, 深度学习]
+---
+
+# 层级推断 · Hierarchical Inference
+
+> "The brain infers at multiple scales simultaneously — from milliseconds to minutes, from features to objects to scenes."
+> "大脑同时在多个尺度上进行推断——从毫秒到分钟，从特征到物体到场景。"
+
+---
+
+## 定义 / Definition
+
+层级推断（Hierarchical Inference）是弗里斯顿理论中描述大脑推断架构的核心概念：**大脑以多层级的概率生成模型进行贝叶斯推断，每一层在不同的时空尺度上表征世界的因果结构，层间通过自上而下的预测和自下而上的预测误差进行信息交换**。这一概念将大脑皮层的层级解剖结构与贝叶斯推断的计算功能直接对应。
+
+Hierarchical Inference is a core concept in Friston's theory describing the brain's inference architecture: **the brain performs Bayesian inference using a multi-level probabilistic generative model, with each level representing the causal structure of the world at different spatiotemporal scales, exchanging information between levels via top-down predictions and bottom-up prediction errors**. This concept directly maps the hierarchical anatomical structure of the cortex onto the computational function of Bayesian inference.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 层级生成模型 / Hierarchical Generative Model
+
+一个 L 层的层级生成模型定义如下：
+
+An L-level hierarchical generative model is defined as:
+
+```
+p(s, θ₁, θ₂, ..., θ_L) = p(s|θ₁) · p(θ₁|θ₂) · p(θ₂|θ₃) · ... · p(θ_{L-1}|θ_L) · p(θ_L)
+```
+
+其中：
+- `s` = 感官数据 / sensory data
+- `θ_l` = 第 l 层的隐藏状态 / hidden states at level l
+- `p(s|θ₁)` = 第1层的似然（感官映射）/ likelihood at level 1
+- `p(θ_l|θ_{l+1})` = 层间的条件先验 / conditional prior between levels
+- `p(θ_L)` = 最高层的先验 / prior at the highest level
+
+### 层间信息流 / Inter-level Information Flow
+
+每一层 l 同时维护两个方向的推断：
+
+Each level l simultaneously maintains inference in two directions:
+
+**自上而下（Top-down）**：
+- 从第 l+1 层接收对 θ_l 的先验约束
+- 向第 l-1 层发送对感官输入（或低层状态）的预测
+- "我期望在第 l-1 层看到什么"
+
+**Top-down**:
+- Receives prior constraints on θ_l from level l+1
+- Sends predictions about sensory input (or lower-level states) to level l-1
+- "What I expect to see at level l-1"
+
+**自下而上（Bottom-up）**：
+- 从第 l-1 层接收预测误差 ε_{l-1}
+- 向第 l+1 层发送预测误差 ε_l
+- "实际观察与预测的偏差"
+
+**Bottom-up**:
+- Receives prediction error ε_{l-1} from level l-1
+- Sends prediction error ε_l to level l+1
+- "How actual observations deviate from predictions"
+
+### 时空尺度的层级 / Spatiotemporal Scales
+
+层级推断的一个关键特征是不同层在不同的时空尺度上运作：
+
+A key feature of hierarchical inference is that different levels operate at different spatiotemporal scales:
+
+| 层级 / Level | 时空尺度 / Spatiotemporal Scale | 表征内容 / Content |
+|---|---|---|
+| 1（最底层）| 毫秒/局部特征 | 边缘、亮度、音调 |
+| 2 | 百毫秒/局部组合 | 形状片段、音素 |
+| 3 | 秒/对象 | 物体、面孔、单词 |
+| 4 | 数秒/场景 | 场景、句子、意图 |
+| 5（最高层）| 分钟-小时/叙事 | 叙事、目标、社会情境 |
+
+高层变化缓慢、抽象度高、接受域广；低层变化快速、具体度高、接受域窄。这使得大脑能够同时处理不同时间尺度的信息——例如，在听一段对话时，底层处理声学特征，中层处理词语识别，高层处理对话意图和社交含义。
+
+Higher levels change slowly, are more abstract, and have broader receptive fields; lower levels change rapidly, are more concrete, and have narrower receptive fields. This enables the brain to process information at multiple temporal scales simultaneously — for example, during conversation, lower levels process acoustic features, mid-levels handle word recognition, and higher levels process conversational intent and social meaning.
+
+---
+
+## 发展脉络 / Historical Development
+
+### 前身 / Precursors
+
+- **Hubel & Wiesel (1962)**：视觉皮层的层级特征检测（简单细胞→复杂细胞→超复杂细胞）。
+- **Felleman & Van Essen (1991)**：灵长类视觉系统的层级连接模式分析。
+- **Rumelhart & McClelland (1986)**：并行分布式处理中的层级表征。
+- **Lee & Mumford (2003)**：将层级视觉处理重新解释为贝叶斯推断。
+
+### 弗里斯顿的贡献 / Friston's Contributions
+
+- **2003–2005**：将层级皮层结构建模为层级变分推断——每一层执行局部贝叶斯更新，层间传递预测和误差。
+- **2008**："Hierarchical models in the brain"——系统阐述层级生成模型与大脑解剖层级的对应关系。
+- **2014**："A free energy principle for biological systems"——将层级推断扩展到非神经生物系统。
+- **2018**："Deep temporal models and active inference"——将层级推断与深度时间模型结合，处理长时程依赖。
+
+### Precursors
+
+- **Hubel & Wiesel (1962)**: Hierarchical feature detection in visual cortex (simple → complex → hypercomplex cells).
+- **Felleman & Van Essen (1991)**: Analysis of hierarchical connectivity patterns in primate visual system.
+- **Rumelhart & McClelland (1986)**: Hierarchical representations in parallel distributed processing.
+- **Lee & Mumford (2003)**: Reinterpreting hierarchical visual processing as Bayesian inference.
+
+### Friston's Contributions
+
+- **2003–2005**: Modeled hierarchical cortical structure as hierarchical variational inference — each level performs local Bayesian updates, passing predictions and errors between levels.
+- **2008**: "Hierarchical models in the brain" — systematically articulated the correspondence between hierarchical generative models and brain anatomical hierarchy.
+- **2014**: "A free energy principle for biological systems" — extended hierarchical inference to non-neural biological systems.
+- **2018**: "Deep temporal models and active inference" — combined hierarchical inference with deep temporal models to handle long-range dependencies.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 层级推断障碍 / Hierarchical Inference Disorders
+
+- **精神分裂症**：层级推断中的精确度加权异常——某些层级的预测误差被过度加权或抑制，导致跨层级的信念失调。
+- **自闭症**：层级推断的精确度分配异常——低层感官特征的精确度过高，导致"细节淹没全局"的处理模式。
+- **发展性障碍**：层级结构的发育延迟——高层抽象表征未能正常建立。
+
+### 神经影像学 / Neuroimaging
+
+层级推断框架为fMRI和EEG数据分析提供了新的理论视角：
+- **动态因果建模（DCM）**：弗里斯顿开发的DCM方法直接基于层级生成模型，用于推断脑区间的有效连接。
+- **预测编码解释**：fMRI信号中的"重复抑制"和"增强效应"被重新解释为层级预测和预测误差的表征。
+
+### Clinical Applications
+
+- **Schizophrenia**: Abnormal precision weighting in hierarchical inference — prediction errors at certain levels are over- or underweighted, leading to cross-level belief dysregulation.
+- **Autism**: Abnormal precision allocation in hierarchical inference — overly high precision for low-level sensory features, producing "details overwhelm global" processing patterns.
+- **Developmental disorders**: Delayed development of hierarchical structure — higher-level abstract representations fail to establish normally.
+- **Neuroimaging**: The hierarchical inference framework provides new theoretical perspectives for fMRI and EEG data analysis. Dynamic Causal Modeling (DCM), developed by Friston, is directly based on hierarchical generative models for inferring effective connectivity between brain regions.
+
+---
+
+## 关联概念 / Related Concepts
+
+- [[predictive-processing|预测加工 / Predictive Processing]]：层级推断是预测加工的架构基础
+- [[free-energy-principle|自由能原理 / Free Energy Principle]]：层级推断在每一层执行局部自由能最小化
+- [[variational-bayes|变分贝叶斯 / Variational Bayes]]：层级推断使用的数学工具
+- 动态因果建模（Dynamic Causal Modeling, DCM）：层级推断的神经影像应用
+- 深度生成模型（Deep Generative Models）：层级推断与深度学习中VAE/层次模型的对应
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 华严宗·法界缘起 / Huayan Buddhism · Dharma Realm Dependent Origination
+
+华严宗的"事事无碍法界"描述了一个相互含摄、层层映现的宇宙观——每一事物包含所有其他事物的映象。这与层级推断中"每一层都包含关于其他层的模型"的结构惊人地相似。华严宗的"一即一切，一切即一"可以被解读为：在最优推断状态下，每一层的后验信念在数学上等价于所有层的联合后验。
+
+Huayan Buddhism's "realm of unobstructed interpenetration" describes a cosmology of mutual inclusion, each phenomenon containing reflections of all others — strikingly similar to hierarchical inference's structure where "each level contains models of other levels." Huayan's "one is all, all is one" can be read as: in optimal inference states, each level's posterior beliefs are mathematically equivalent to the joint posterior across all levels.
+
+### 中国哲学·体用关系 / Chinese Philosophy · Ti-Yong (Substance-Function)
+
+层级推断中高层（抽象、缓慢变化）与低层（具体、快速变化）的关系可以类比于中国哲学中的"体用"关系：高层 ≈ 体（本质结构），低层 ≈ 用（具体表现）。但层级推断的独特之处在于，体用不是静态的，而是通过持续的预测-误差循环动态建构的。
+
+The relationship between higher levels (abstract, slowly changing) and lower levels (concrete, rapidly changing) in hierarchical inference can be analogized to the Chinese philosophical concept of ti-yong (substance-function): higher levels ≈ ti (essential structure), lower levels ≈ yong (concrete manifestation). The uniqueness of hierarchical inference lies in the fact that ti-yong is not static but dynamically constructed through continuous prediction-error loops.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Friston, K. (2008). "Hierarchical models in the brain." *PLoS Computational Biology*, 4(11), e1000211.
+- Friston, K. et al. (2003). "Dynamic causal modelling." *NeuroImage*, 19, 1273–1302.
+- Bastos, A. M. et al. (2012). "Canonical microcircuits for predictive coding." *Neuron*, 76(4), 695–711.
+- Friston, K. et al. (2018). "Deep temporal models and active inference." *Neuroscience & Biobehavioral Reviews*, 90, 486–501.
+- Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36, 181–204. (See especially the hierarchical inference discussion)

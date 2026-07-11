@@ -1,0 +1,87 @@
+---
+id: zahavi-timeline
+title: 扎哈维生平年表 · Zahavi Biography Timeline
+type: timeline
+domain: philosophy
+school: phenomenology
+thinker: zahavi
+tags: [zahavi, timeline, biography]
+cross-refs:
+  - id: zahavi
+    relation: thinker
+---
+
+# 扎哈维生平年表 · Zahavi Biography Timeline
+
+## 早年与学术训练
+
+| 年份 | 事件 |
+|------|------|
+| 1967 | 生于丹麦哥本哈根 |
+| 1980s | 在哥本哈根大学学习哲学 |
+| 1990–1992 | 赴德国弗莱堡大学胡塞尔档案馆研究胡塞尔手稿 |
+| 1992 | 完成博士论文 *Intentionalität, Bewusstsein und Reflexion*（德语），聚焦胡塞尔的意向性与自身意识 |
+| 1994 | 出版 *Self-Awareness and Affection*，初步建构前反思自身意识理论 |
+
+## 学术生涯早期：胡塞尔研究
+
+| 年份 | 事件 |
+|------|------|
+| 1994–1999 | 在哥本哈根大学从事博士后研究，持续深化胡塞尔时间意识分析研究 |
+| 1999 | 出版 *Self-Awareness and Alterity: A Phenomenological Investigation*——系统论证前反思自身意识的实在性 |
+| 2000 | 开始在哥本哈根大学任教 |
+| 2001 | 参与创建主体性研究中心（Center for Subjectivity Research） |
+
+## 核心理论建构期
+
+| 年份 | 事件 |
+|------|------|
+| 2003 | 出版 *Husserl's Phenomenology*——对胡塞尔思想的清晰重构，成为胡塞尔研究的重要参考 |
+| 2004 | 发表 "The Minimal Self: A Re-examination"——精炼最小自我概念 |
+| 2005 | 出版 *Subjectivity and Selfhood: Investigating the First-Person Perspective*——最小自我理论的代表作 |
+| 2005 | 与 David Woodruff Smith 合编 *Phenomenology and Philosophy of Mind* |
+
+## 跨学科对话期
+
+| 年份 | 事件 |
+|------|------|
+| 2008 | 与 Shaun Gallagher 合著 *The Phenomenological Mind*——成为现象学与认知科学对话的标准教科书 |
+| 2009 | 主体性研究中心成为国际知名研究机构 |
+| 2010 | 开始与精神病理学家 Sass、Parnas 合作，发展精神分裂症的 ipseity disturbance 模型 |
+| 2011 | 与 Siderits、Thompson 合编 *Self, No Self?*——佛教无我论与现象学的直接对话 |
+| 2012 | 主编 *The Oxford Handbook of Contemporary Phenomenology*——当代现象学全景 |
+
+## 成熟期与全球影响
+
+| 年份 | 事件 |
+|------|------|
+| 2014 | 出版 *Self and Other: Exploring Subjectivity, Empathy, and Shame*——主体间性与社会认知的现象学分析 |
+| 2015 | 合编 *The Phenomenology of Sociality* |
+| 2017 | 出版 *Husserl's Legacy: Phenomenology, Metaphysics, and Transcendental Philosophy*——重新评估胡塞尔遗产 |
+| 2018 | 主编 *The Oxford Handbook of the History of Phenomenology* |
+| 2019 | 出版 *Phenomenology: The Basics*——面向更广泛读者的入门教科书 |
+| 2020s | 持续参与意识科学、冥想研究、精神病理学的跨学科讨论；成为当代现象学的核心代言人 |
+
+## 学术荣誉与影响
+
+- 哥本哈根大学哲学教授（Professor of Philosophy）
+- 主持主体性研究中心（Center for Subjectivity Research），吸引全球研究者
+- 著作被翻译为多种语言
+- *The Phenomenological Mind* 已出至第三版，成为全球现象学-认知科学交叉领域的标准教材
+- 在 *Phenomenology and the Cognitive Sciences*、*Journal of Consciousness Studies* 等期刊发表大量论文
+- 是现象学传统与分析哲学、认知科学、佛教哲学对话的关键桥梁人物
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 胡塞尔研究奠基 | 1990–1999 | 时间意识、先验主体性、手稿研究 |
+| 自身意识理论建构 | 1999–2005 | 前反思自身意识、最小自我 |
+| 跨学科对话 | 2008–2014 | 认知科学、精神病理学、佛教哲学 |
+| 历史与系统综合 | 2017– | 胡塞尔遗产、当代现象学、全球化影响 |
+
+## 进阶阅读
+
+- Zahavi, *Subjectivity and Selfhood*（2005）
+- Gallagher & Zahavi, *The Phenomenological Mind*（2008）
+- Siderits, Thompson & Zahavi (eds.), *Self, No Self?*（2011）

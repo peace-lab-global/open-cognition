@@ -1,0 +1,84 @@
+---
+id: hume-timeline
+title: 休谟思想年表 · Timeline of David Hume
+type: timeline
+domain: philosophy
+school: empiricism
+era: early-modern
+thinker: hume
+tags:
+  - timeline
+  - biography
+  - intellectual-development
+parent: hume
+---
+
+# 休谟思想年表 · Timeline of David Hume
+
+## 早年 (1711-1734)
+
+| 年份 | 事件 |
+|---|---|
+| **1711** | 4 月 26 日 (新历 5 月 7 日) 出生于苏格兰爱丁堡 Ninewells 附近的 Chirnside。原名 David Home，后改拼为 Hume 以确保正确发音。父亲 Joseph Home 为律师，母亲 Katherine Falconer 为法官之女。 |
+| **1713** | 父亲去世 (2 岁)，由母亲独自抚养。家庭经济状况尚可但非富裕。 |
+| **1723** | 12 岁进入爱丁堡大学 (University of Edinburgh)，学习希腊语、逻辑学、形而上学和自然哲学。当时的爱丁堡大学深受牛顿物理学和洛克经验论的影响。 |
+| **1726** | 约 15 岁离开爱丁堡大学（未获学位，当时并不需要）。开始自学法律，但对法学不感兴趣。 |
+| **1729** | 约 18 岁时经历了一次"思想革命"——发现了一个"新的思维场景" (new scene of thought)，决定将"人的科学" (science of human nature) 作为毕生研究的核心。此后数年健康状况不佳，出现疑似抑郁症的症状。 |
+| **1731** | 开始系统阅读洛克 (Locke)、贝克莱 (Berkeley)、贝勒 (Bayle)、马勒伯朗士 (Malebranche) 等哲学家的著作。 |
+
+## 法国旅居与《人性论》(1734-1740)
+
+| 年份 | 事件 |
+|---|---|
+| **1734** | 前往法国，先在兰斯 (Reims) 短暂停留，后移居安茹的拉弗莱什 (La Flèche)。在耶稣会学院（笛卡尔曾就读之处）的图书馆中大量阅读，撰写《人性论》初稿。 |
+| **1737** | 完成《人性论》(A Treatise of Human Nature) 大部分内容，返回伦敦寻求出版。 |
+| **1739** | 《人性论》第一卷"论知性"和第二卷"论激情"在伦敦匿名出版 (1 月)。反响冷淡，几乎没有评论。 |
+| **1740** | 《人性论》第三卷"论道德"出版 (11 月)。同年出版《人性论摘要》(Abstract of the Treatise) 以推广此书，但仍未引起关注。休谟自述此书"从印刷机上一出生就死了" (fell dead-born from the press)。 |
+
+## 中期：散文与改写 (1741-1753)
+
+| 年份 | 事件 |
+|---|---|
+| **1741-42** | 出版《论文集》(Essays, Moral and Political) 两卷。开始获得一些文学声誉。 |
+| **1745** | 申请爱丁堡大学伦理学教授职位 (Chair of Moral Philosophy)，但因被指控为无神论者 (atheist) 而失败。同年担任安南戴尔侯爵 (Marquess of Annandale) 的家庭教师。 |
+| **1746-48** | 担任圣克莱尔将军 (General St. Clair) 的秘书，参加对法国海岸的军事远征。期间撰写《人类理解研究》。 |
+| **1748** | 出版《人类理解研究》(An Enquiry Concerning Human Understanding)，将《人性论》第一卷的核心论点以更精炼的形式重新阐述。此书首次包含"神迹批判" (Of Miracles) 一节。 |
+| **1749** | 出版《政治论》(Political Discourses) 的部分内容。 |
+| **1751** | 出版《道德原理研究》(An Enquiry Concerning the Principles of Morals)。休谟后来称此为自己最好的著作。再次申请爱丁堡大学教授职位，再次因宗教原因被拒。 |
+| **1752** | 被任命为爱丁堡律师公会图书馆 (Faculty of Advocates Library) 管理员。利用图书馆的丰富藏书开始撰写《英国史》。出版《政治论》(Political Discourses)。 |
+
+## 晚期：历史学家与怀疑论者 (1754-1776)
+
+| 年份 | 事件 |
+|---|---|
+| **1754** | 出版《英国史》(The History of England) 第一卷（涵盖斯图亚特王朝 James I 至 Charles I）。 |
+| **1756** | 出版《英国史》第二卷（涵盖 Charles I 至 1688 年革命）。因图书馆藏书限制被解职。 |
+| **1757** | 出版《论文四篇》(Four Dissertations)，包括《宗教的自然史》(The Natural History of Religion)、《论激情》(Of the Passions)、《论悲剧》(Of Tragedy)、《论趣味的标准》(Of the Standard of Taste)。 |
+| **1759** | 出版《英国史》都铎王朝 (Tudor) 卷。亚当·斯密出版《道德情操论》(The Theory of Moral Sentiments)，其中大量借鉴休谟的道德情感论。 |
+| **1761-62** | 出版《英国史》最后两卷（涵盖从凯撒到亨利七世的早期英国史）。至此六卷本《英国史》全部完成，成为当时最畅销的英国史著作。 |
+| **1763** | 应赫特福德伯爵 (Earl of Hertford) 之邀前往巴黎，担任英国驻法大使馆秘书。在巴黎的沙龙中与伏尔泰 (Voltaire)、达朗贝尔 (d'Alembert)、霍尔巴赫 (d'Holbach)、卢梭 (Rousseau) 等法国启蒙思想家交往。休谟在法国极受欢迎，被法国社交界视为"好大卫" (le bon David)。 |
+| **1766** | 返回英国，将卢梭带到英国避难。后与卢梭发生著名的争吵 (quarrel)。卢梭怀疑休谟是阴谋反对他的阴谋集团的成员，两人的关系彻底破裂。 |
+| **1767-68** | 在伦敦担任副国务大臣 (Under-Secretary of State for the Northern Department)。参与处理英国北方事务。 |
+| **1769** | 退休后返回爱丁堡，与亚当·斯密、亚当·弗格森 (Adam Ferguson) 等苏格兰启蒙思想家交往。享受富裕和声誉。 |
+| **1776** | 8 月 25 日在爱丁堡去世，享年 65 岁。临终前与亚当·斯密进行最后一次谈话，坦然面对死亡。詹姆斯·鲍斯韦尔 (James Boswell) 在休谟去世前数周拜访了他，记录了休谟面对死亡时的从容态度——这成为一个著名的启蒙轶事。 |
+
+## 遗著
+
+| 年份 | 事件 |
+|---|---|
+| **1777** | 《我的一生》(My Own Life) 出版，附有亚当·斯密的信。斯密称休谟"接近了人类脆弱本性所允许的完美的德性和智慧的理念"。 |
+| **1779** | 《自然宗教对话录》(Dialogues Concerning Natural Religion) 出版。此书写成于 1750 年代，休谟生前因宗教敏感性而不敢出版，由其侄子 David Hume the Younger 在其去世后出版。 |
+
+## 思想分期总结
+
+| 时期 | 年代 | 核心主题 | 代表著作 |
+|---|---|---|---|
+| **早期** | 1729-1740 | 建立"人的科学"，将牛顿方法应用于人类心灵 | 《人性论》 |
+| **中期** | 1741-1753 | 改写与精炼，散文写作，经济与政治思考 | 《人类理解研究》、《道德原理研究》 |
+| **晚期** | 1754-1776 | 历史写作，宗教批判，公共生活 | 《英国史》、《自然宗教对话录》 |
+
+## 延伸阅读
+
+- 返回 [休谟主页](README.md)
+- 参见 [作品总览](works.md) 了解各著作的详细内容
+- 参见 [进阶阅读指南](reading-list.md) 了解传记类阅读建议

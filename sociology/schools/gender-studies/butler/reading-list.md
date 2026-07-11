@@ -1,0 +1,58 @@
+---
+id: butler-reading-list
+title: 巴特勒进阶书单 · Butler Reading List
+type: reading-list
+domain: sociology
+thinker: butler
+school: gender-studies
+---
+
+# 巴特勒系统阅读指南 / Butler Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Judith Butler* (2002) | Sara Salih | Routledge Critical Thinkers系列 |
+| *Judith Butler: A Critical Introduction* | Sarah Lloyd | 简明批判性导论 |
+| *The Judith Butler Reader* (2004) | Sara Salih (ed.) | 重要论文选集 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《性别麻烦》（第一章+第三章） | 1990 | 性别展演；异性恋矩阵 |
+| 《身体何以重要》（导论） | 1993 | 物质性与话语 |
+| 《脆弱生命》 | 2004 | 可哀悼性；脆弱性 |
+| 《消解性别》（选读） | 2004 | 跨性别；非二元性别 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《性别麻烦》（完整阅读） | 1990 | 展演理论全文 |
+| 《权力的精神生活》 | 1997 | 主体形成 |
+| 《战争的框架》 | 2009 | 框架与生命价值 |
+| 《走向展演性集会理论》 | 2015 | 身体政治 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Feminist Contentions* (1995) | Fraser, Butler, Benhabib & Cornell | 女权主义内部论争 |
+| *Judith Butler and Political Theory* (2008) | Paulina Tambakaki | 政治哲学视角 |
+| *Butler and Ethics* (2013) | Janice McLean | 巴特勒伦理学研究 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Gender Trouble* 30周年重评 | Various | 性别理论的当代发展 |
+| *New Materialisms* (2010) | Diana Coole & Samantha Frost | 新物质主义对巴特勒的批判 |
+| *Queer Phenomenology* (2006) | Sara Ahmed | 酷儿现象学 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Salih导论 → 《性别麻烦》（第一章+第三章）→ 《消解性别》选读
+**阶段二**（4-8周）: 《性别麻烦》完整 → 《身体何以重要》（导论）→ 《脆弱生命》
+**阶段三**（8周+）: 《权力的精神生活》→ 《战争的框架》→ Fraser论争 → 新物质主义批判

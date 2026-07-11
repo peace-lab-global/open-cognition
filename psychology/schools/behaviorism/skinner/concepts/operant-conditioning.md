@@ -1,0 +1,106 @@
+---
+id: skinner.operant-conditioning
+title: "操作性条件反射 · Operant Conditioning"
+type: concept
+domain: psychology
+thinker: skinner
+tags: [操作性条件反射, 行为分析, 学习理论, operant conditioning, behavior analysis, learning theory]
+---
+
+# 操作性条件反射 · Operant Conditioning
+
+## 定义 / Definition
+
+**操作性条件反射**（Operant Conditioning）是斯金纳行为分析理论的核心概念，指有机体通过其行为后果来学习和发展行为的过程。在这一过程中，有机体自发地产生某种行为（操作性行为），如果该行为之后伴随着一个增加其未来出现概率的事件（强化物），那么该行为就会在类似情境中更频繁地出现。与之相对，如果行为之后伴随着一个减少其频率的事件（惩罚物），该行为则会减少。
+
+**Operant Conditioning** is the central concept of Skinner's behavior analysis theory, referring to the process by which an organism learns and develops behavior through the consequences of its actions. In this process, the organism spontaneously emits a behavior (operant behavior); if that behavior is followed by an event that increases its future probability (a reinforcer), the behavior will occur more frequently in similar contexts. Conversely, if the behavior is followed by an event that decreases its frequency (a punisher), the behavior will diminish.
+
+操作性条件反射与巴甫洛夫的**经典条件反射**（Classical Conditioning）有本质区别。在经典条件反射中，行为是由先前的刺激引发的（S→R）；在操作性条件反射中，行为是由其后的后果塑造的（R→S）。斯金纳将前者称为"应答性行为"（respondent behavior），后者称为"操作性行为"（operant behavior）。
+
+Operant conditioning differs fundamentally from Pavlov's **classical conditioning**. In classical conditioning, behavior is elicited by a preceding stimulus (S→R); in operant conditioning, behavior is shaped by its subsequent consequences (R→S). Skinner termed the former "respondent behavior" and the latter "operant behavior."
+
+## 核心机制 / Core Mechanism
+
+### 三项偶联 / Three-Term Contingency
+
+操作性条件反射的核心结构是**三项偶联**（three-term contingency），也称为"ABC模型"：
+
+1. **前因 / Antecedent（A）** — 辨别性刺激（Discriminative Stimulus, SD）：设定行为将被强化的环境条件。The environmental condition that sets the occasion for behavior to be reinforced.
+2. **行为 / Behavior（B）** — 操作性反应（Operant Response, R）：有机体自发产生的行为。The behavior spontaneously emitted by the organism.
+3. **后果 / Consequence（C）** — 强化或惩罚（Reinforcement or Punishment）：行为之后发生的事件，影响该行为的未来频率。The event following the behavior that affects its future frequency.
+
+这一模型可以表述为：SD → R → SR（或 SP），其中SR表示强化刺激，SP表示惩罚刺激。
+
+This model can be expressed as: SD → R → SR (or SP), where SR represents the reinforcing stimulus and SP represents the punishing stimulus.
+
+### 行为塑造 / Shaping
+
+操作性条件反射的一个关键过程是**行为塑造**（shaping），也称为"连续接近法"（method of successive approximations）。由于复杂的操作性行为很少自发出现，不能通过简单的强化来建立，训练者需要：
+
+1. 首先强化任何与目标行为略有相似的反应
+2. 然后逐步提高强化标准，只强化越来越接近目标行为的反应
+3. 最终，只有目标行为本身被强化
+
+Shaping is critical because complex operant behaviors rarely appear spontaneously and cannot be established through simple reinforcement. The trainer must: (1) first reinforce any response that slightly resembles the target behavior, (2) then progressively raise the reinforcement criterion to responses increasingly closer to the target behavior, and (3) eventually, only the target behavior itself is reinforced.
+
+### 分化与泛化 / Discrimination and Generalization
+
+**刺激分化**（stimulus discrimination）指有机体学会在特定刺激条件下才产生某一行为，而在其他条件下不产生。**刺激泛化**（stimulus generalization）指在某一刺激条件下被强化的行为出现在类似刺激条件下的倾向。分化和泛化共同构成了行为适应环境复杂性的基本机制。
+
+Stimulus discrimination refers to the organism learning to emit a behavior only under specific stimulus conditions and not under others. Stimulus generalization refers to the tendency for behavior reinforced under one stimulus condition to appear under similar conditions. Discrimination and generalization together constitute the basic mechanism by which behavior adapts to environmental complexity.
+
+### 消退与自发恢复 / Extinction and Spontaneous Recovery
+
+**消退**（extinction）指当先前被强化的行为不再获得强化时，该行为频率逐渐降低的过程。消退不是"遗忘"，而是一种新的学习——有机体学习到该行为在当前的环境条件下不再有效。消退后，行为可能在一段时间后**自发恢复**（spontaneous recovery），这表明原有的学习痕迹并未完全消失。
+
+Extinction refers to the gradual decrease in behavior frequency when previously reinforced behavior no longer receives reinforcement. Extinction is not "forgetting" but new learning — the organism learns that the behavior is no longer effective under current environmental conditions. After extinction, behavior may undergo spontaneous recovery after a period, indicating that the original learning trace has not been completely erased.
+
+## 发展脉络 / Development
+
+操作性条件反射概念的发展经历了几个关键阶段：
+
+The development of operant conditioning went through several key stages:
+
+**1930年代 / 1930s** — 斯金纳在哈佛大学研究生期间，在威廉·克罗齐尔实验室中开始研究大鼠的迷宫学习行为。他发明了斯金纳箱（operant conditioning chamber），使大鼠按压杠杆的行为可以被精确记录和量化。这一时期他还发明了累积记录器（cumulative recorder），为行为频率的连续记录提供了革命性的工具。
+
+**1938年 / 1938** — 《有机体的行为》（*The Behavior of Organisms*）出版，系统阐述了操作性条件反射的基本原理。斯金纳在这一著作中首次明确区分了应答性行为和操作性行为，提出了强化、消退、分化和泛化等核心概念，并描述了不同的强化时程表对行为模式的影响。
+
+**1940–1950年代 / 1940s–1950s** — 斯金纳将操作性条件反射从动物实验扩展到人类行为领域。在明尼苏达大学和印第安纳大学期间，他进行了大量鸽子实验，探索了更复杂的操作性行为（如连锁行为、辨别行为）和更精细的强化时程表。
+
+**1950–1970年代 / 1950s–1970s** — 操作性条件反射原理被广泛应用于教育（程序教学）、临床心理学（行为治疗）和社会管理领域。应用行为分析（Applied Behavior Analysis, ABA）作为独立学科在这一时期诞生。
+
+## 临床应用 / Clinical Applications
+
+操作性条件反射在临床领域有广泛应用：
+
+- **应用行为分析（ABA）**：用于自闭症谱系障碍（ASD）的早期干预，通过系统性的强化程序教授社交、沟通和生活技能。Applied Behavior Analysis for early intervention in autism spectrum disorder, teaching social, communication, and life skills through systematic reinforcement programs.
+- **行为激活（Behavioral Activation）**：用于治疗抑郁症，通过增加正强化活动来打破抑郁的行为循环。Used to treat depression by increasing positively reinforced activities to break the cycle of depressive behavior.
+- **暴露与反应预防（ERP）**：用于治疗强迫症（OCD），通过消除强迫行为的负强化来减少强迫症状。Used to treat OCD by eliminating the negative reinforcement maintaining compulsive behaviors.
+- **代币经济（Token Economy）**：在精神科病房和矫正机构中，用代币作为条件强化物来管理系统性的行为改变。In psychiatric wards and correctional facilities, tokens serve as conditioned reinforcers for systematic behavior change.
+- **应急管理（Contingency Management）**：用于药物滥用治疗，通过物质奖励强化药物检测阴性的行为。Used in substance abuse treatment, reinforcing drug-negative test results through material rewards.
+
+## 与其他概念的关联 / Related Concepts
+
+- **经典条件反射 / Classical Conditioning** — 巴甫洛夫提出的学习过程，涉及刺激-刺激联结。操作性条件反射与经典条件反射共同构成了行为主义学习理论的两大支柱。Pavlov's learning process involving stimulus-stimulus associations. Together with operant conditioning, they form the two pillars of behaviorist learning theory.
+- **强化 / Reinforcement** → [reinforcement.md](reinforcement.md) — 操作性条件反射的核心机制。强化物通过增加行为频率来"选择"操作性行为。The core mechanism of operant conditioning.
+- **强化时程表 / Schedules of Reinforcement** → [schedules.md](schedules.md) — 控制强化物递送模式的规则系统，对行为模式有决定性影响。Rule systems controlling reinforcement delivery patterns.
+- **桑代克效果律 / Thorndike's Law of Effect** — 操作性条件反射的直接理论先驱。桑代克发现，伴随"满意后果"的行为倾向于被重复，伴随"烦恼后果"的行为倾向于被抑制。Direct theoretical predecessor; Thorndike found that behaviors accompanied by "satisfying consequences" tend to be repeated.
+- **强化学习 / Reinforcement Learning (AI)** — 人工智能中的强化学习算法在概念上直接源于操作性条件反射。智能体通过与环境的交互和奖励信号来学习最优策略。RL algorithms in AI are conceptually derived directly from operant conditioning.
+
+## 东西方对话 / East-West Dialogue
+
+操作性条件反射与佛教的**业力**（karma）概念存在结构性平行。业力理论认为，有意的行为（身、语、意三业）会产生相应的果报（vipaka），善业带来乐果，恶业带来苦果。这与操作性条件反射中"行为后果塑造未来行为"的逻辑高度相似。但关键区别在于：业力理论假定了一个跨越多世的因果连续性，而操作性条件反射将因果关系限定在可观察的有机体-环境交互中。
+
+Operant conditioning has structural parallels with the Buddhist concept of **karma**. Karma theory holds that intentional acts (of body, speech, and mind) produce corresponding results (vipaka) — wholesome acts bring pleasant results, unwholesome acts bring suffering. This closely parallels the operant conditioning logic that "behavioral consequences shape future behavior." The key difference is that karma theory assumes causal continuity across multiple lifetimes, while operant conditioning confines causal relationships to observable organism-environment interactions.
+
+在道家思想中，"无为"强调顺应自然，反对人为的刻意控制。操作性条件反射代表了一种截然不同的立场：它主张通过科学的"有为"来理解和改善行为。但值得注意的是，斯金纳在《瓦尔登湖第二》中描绘的理想社会，在某种程度上也追求一种"不强制"的行为管理方式——通过正强化而非惩罚来塑造行为，这与道家的"无为而治"有微妙的呼应。
+
+In Daoist thought, "wuwei" emphasizes following nature and opposes deliberate artificial control. Operant conditioning represents a fundamentally different position, advocating scientific "youwei" to understand and improve behavior. However, Skinner's ideal society in *Walden Two* pursues a "non-coercive" form of behavior management — shaping behavior through positive reinforcement rather than punishment — which has subtle echoes of the Daoist ideal of "governing through non-action."
+
+## 进阶阅读 / Further Reading
+
+- Skinner, B.F. (1938). *The Behavior of Organisms*. New York: Appleton-Century.
+- Skinner, B.F. (1953). *Science and Human Behavior*. New York: Macmillan. — 第3-7章系统阐述操作性条件反射原理 / Chapters 3-7 systematically present operant conditioning principles.
+- Catania, A.C. (2013). *Learning* (5th ed.). Cornwall-on-Hudson, NY: Sloan Publishing. — 现代行为分析教科书 / Modern behavior analysis textbook.
+- Pierce, W.D. & Cheney, C.D. (2017). *Behavior Analysis and Learning* (6th ed.). New York: Routledge.
+- Ferster, C.B. & Skinner, B.F. (1957). *Schedules of Reinforcement*. New York: Appleton-Century-Crofts.

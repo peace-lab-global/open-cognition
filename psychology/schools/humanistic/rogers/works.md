@@ -1,0 +1,52 @@
+# 卡尔·罗杰斯 · Carl Rogers — 著作年表 / Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 | 书名 / Title | 出版信息 / Publisher | 核心内容 / Core Content |
+|------|-------------|---------------------|----------------------|
+| 1939 | 《问题儿童的临床治疗》 *The Clinical Treatment of the Problem Child* | Houghton Mifflin | 基于罗切斯特诊所十二年工作经验的首部著作，讨论问题儿童的诊断与治疗 |
+| 1942 | 《咨询与心理治疗：实践中的新概念》 *Counseling and Psychotherapy: Newer Concepts in Practice* | Houghton Mifflin | 提出非指导性治疗理念，标志着与精神分析权威模式的分道扬镳 |
+| 1951 | 《来访者中心疗法》 *Client-Centered Therapy: Its Current Practice, Implications, and Theory* | Houghton Mifflin | 来访者中心范式的集大成之作：完整的理论框架、治疗过程描述和实证研究方法 |
+| 1961 | 《论人的成长》 *On Becoming a Person: A Therapist's View of Psychotherapy* | Houghton Mifflin | 最具影响力的著作，将治疗思想拓展为人文哲学，涵盖教育、关系和个人成长 |
+| 1969 | 《自由学习》 *Freedom to Learn: A View of What Education Might Become* | Charles E. Merrill | 将人本主义理念应用于教育：以学生为中心、教师作为促进者、自我导向学习 |
+| 1972 | 《成为伴侣》 *Becoming Partners: Marriage and Its Alternatives* | Delacorte Press | 将个人中心理念应用于亲密关系，探讨婚姻、伴侣关系和人际沟通 |
+| 1973 | 《卡尔·罗杰斯论 Encounter Groups》 *Carl Rogers on Encounter Groups* | Harper & Row | 讨论会心团体（encounter groups）的理论和实践，团体过程中的人际关系转化 |
+| 1977 | 《卡尔·罗杰斯论个人权力》 *Carl Rogers on Personal Power: Inner Strength and Its Revolutionary Impact* | Delacorte Press | 探讨人际关系中的权力动态、个人力量和社会变革 |
+| 1980 | 《一种存在方式》 *A Way of Being* | Houghton Mifflin | 晚年思想结晶，整合毕生洞见，将个人中心取向提升为生活哲学和世界观 |
+| 1983 | 《自由学习：八十年代》 *Freedom to Learn for the 80's* | Charles E. Merrill | 教育思想的更新和深化，回应新时代的教育挑战 |
+
+## 重要论文 / Key Papers
+
+| 年份 | 论文 / Paper | 期刊 / Journal | 核心贡献 / Core Contribution |
+|------|------------|---------------|---------------------------|
+| 1946 | "Significant aspects of client-centered therapy" | *American Psychologist* | 首次系统总结来访者中心疗法的治疗过程 |
+| 1952 | "A coordinated research in psychotherapy" | *Journal of Consulting Psychology* | 开创心理治疗过程的实证研究方法 |
+| 1957 | "The necessary and sufficient conditions of therapeutic personality change" | *Journal of Consulting Psychology* | 提出治疗关系的六个充分必要条件，最具影响力的单篇论文 |
+| 1959 | "A theory of therapy, personality, and interpersonal relationships" | *Psychology: A Study of a Science* (Vol.3) | 最系统的理论阐述，提出19条命题 |
+| 1962 | "The interpersonal relationship: The core of guidance and therapy" | *Harvard Educational Review* | 将治疗关系的核心洞见应用于教育和指导领域 |
+| 1963 | "The actualizing tendency in relation to 'motives' and to consciousness" | *Nebraska Symposium on Motivation* | 深化自我实现倾向的概念，与马斯洛和动机理论对话 |
+| 1975 | "Empathic: An unappreciated way of being" | *The Counseling Psychologist* | 对共情概念最深刻的阐释，强调共情作为一种存在方式 |
+| 1980 | "The foundations of the person-centered approach" | *Person-Centered Review* | 晚年对个人中心取向理论基础的总结和反思 |
+
+## 合著与编著 / Co-authored and Edited Works
+
+| 年份 | 书名 / Title | 合著者 / Co-authors | 核心内容 / Core Content |
+|------|-------------|-------------------|----------------------|
+| 1967 | *The Therapeutic Relationship and Its Impact* | Gendlin, E.T. et al. | 威斯康星大学精神分裂症治疗的系统研究 |
+| 1974 | *Person to Person: The Problem of Being Human* | Barry Stevens | 关于人际关系和个人成长的对话录 |
+| 1985 | *Person-Centered Approach to Group Communication* | Roethlisberger, F. et al. | 个人中心方法在团体沟通和组织中的应用 |
+| 1987 | *A Client-Centered Approach to Cross-Cultural Conflict* | — | 遗著，探讨跨文化冲突中个人中心方法的应用 |
+
+## 中文译本 / Chinese Translations
+
+| 中文书名 | 对应原著 | 出版社 | 说明 |
+|---------|---------|-------|------|
+| 《来访者中心疗法》 | *Client-Centered Therapy* | 中国人民大学出版社 | 来访者中心范式的核心著作 |
+| 《论人的成长》 | *On Becoming a Person* | 世界图书出版公司 | 最具影响力的综合著作 |
+| 《自由学习》 | *Freedom to Learn* | 中国人民大学出版社 | 人本主义教育理论 |
+| 《一种存在方式》 | *A Way of Being* | — | 晚年思想集大成 |
+| 《卡尔·罗杰斯论个人权力》 | *On Personal Power* | — | 个人力量与社会变革 |
+
+---
+
+> 返回 [罗杰斯主页](README.md) / Back to [Rogers Main](README.md)

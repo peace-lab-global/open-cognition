@@ -1,0 +1,139 @@
+---
+id: peirce-pragmatism-maxim
+title: 实用主义准则 · The Pragmatic Maxim
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: peirce
+tags:
+  - pragmatic-maxim
+  - meaning
+  - clarity
+  - 实用主义准则
+  - 意义
+  - 清晰性
+parent: peirce
+---
+
+# 实用主义准则 · The Pragmatic Maxim
+
+> "Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object."
+>
+> "考虑一下我们的概念的对象可以被设想为具有什么样的、可以设想其具有实际影响的效果。那么，我们对这些效果的全部概念就是我们对对象的全部概念。"
+>
+> — C.S. Peirce, "How to Make Our Ideas Clear" (1878)
+
+---
+
+## 概述 / Overview
+
+实用主义准则（Pragmatic Maxim）是皮尔士哲学中最根本的方法论原则，也是整个实用主义运动的奠基性文本。它提供了一个操作性的标准来判断概念是否清晰、是否有意义：一个概念的全部意义在于它能够产生的可设想的实践效果。如果两个概念在所有可设想的实践后果上都相同，那么它们实际上是同一个概念——它们之间的差异只是"言辞的"（verbal），而非"实质的"（real）。
+
+The Pragmatic Maxim is the most fundamental methodological principle in Peirce's philosophy and the founding text of the entire pragmatist movement. It provides an operational criterion for determining whether a concept is clear and meaningful: the entire meaning of a concept consists in the conceivable practical effects it can produce. If two concepts have identical conceivable practical consequences, they are in fact the same concept—the difference between them is merely "verbal," not "real."
+
+---
+
+## 准则的原始语境 / Original Context of the Maxim
+
+皮尔士在〈How to Make Our Ideas Clear〉（1878）中提出这一准则，其直接动机是对笛卡尔的"清晰明了"（clarity and distinctness）标准的重新定义。笛卡尔认为，一个概念如果呈现给心灵时是"清晰的"（clear）和"明了的"（distinct），它就是可靠的。皮尔士认为这一标准过于主观和模糊——什么算"清晰"？它缺乏可操作的检验手段。
+
+皮尔士提出了三个等级的概念清晰度：
+
+Peirce proposed the maxim in "How to Make Our Ideas Clear" (1878), directly motivated by redefining Descartes's criterion of "clarity and distinctness." Descartes held that a concept is reliable if it presents itself to the mind as "clear" and "distinct." Peirce found this criterion too subjective and vague—what counts as "clear"? It lacks operational means of verification.
+
+Peirce proposed three grades of conceptual clarity:
+
+1. **第一等级：熟悉性**（First Grade: Familiarity）——能够在日常语境中识别概念的使用。/ Ability to recognize the concept's use in everyday contexts.
+2. **第二等级：抽象定义**（Second Grade: Abstract Definition）——能够给出概念的抽象定义。/ Ability to provide an abstract definition of the concept.
+3. **第三等级：实用主义清晰性**（Third Grade: Pragmatic Clarity）——能够阐明概念所蕴含的全部可设想的实践效果。/ Ability to articulate all conceivable practical effects the concept entails.
+
+只有达到第三等级，一个概念才算真正被理解了。实用主义准则就是达到第三等级清晰性的工具。
+
+Only at the third grade is a concept truly understood. The pragmatic maxim is the tool for achieving third-grade clarity.
+
+---
+
+## 意义即实践效果 / Meaning as Practical Effects
+
+皮尔士的"实践效果"（practical effects）不等同于庸俗的"有用性"或"实用性"。他的含义更为精确和严格：
+
+Peirce's "practical effects" are not equivalent to vulgar "usefulness" or "practicality." His meaning is more precise and rigorous:
+
+### 实验性含义 / Experimental Meaning
+
+对于一个科学概念（如"硬"），其实踐效果可以被理解为：如果我们进行某些实验或操作，我们可以期待观察到什么结果。"这块石头是硬的"意味着：如果我们尝试用其他物体划它，它将不会被划伤。概念的意义 = 一系列条件性的实验预测（conditional predictions）。
+
+For a scientific concept (e.g., "hard"), its practical effects can be understood as: if we perform certain experiments or operations, what results we can expect to observe. "This stone is hard" means: if we try to scratch it with other objects, it will not be scratched. The concept's meaning = a series of conditional experimental predictions.
+
+### 操作性含义 / Operational Meaning
+
+在更广泛的意义上，皮尔士的准则预示了后来布里奇曼（P.W. Bridgman）的**操作主义**（operationalism）：一个物理量的意义就是测量它的操作集。例如，"长度"的意义就是一系列测量长度的操作——用尺子量、用激光干涉仪测等。
+
+In a broader sense, Peirce's maxim anticipated Bridgman's **operationalism**: the meaning of a physical quantity is the set of operations by which it is measured. For example, the meaning of "length" is the series of operations for measuring length—using a ruler, a laser interferometer, etc.
+
+### 习惯性含义 / Habitual Meaning
+
+皮尔士晚期的表述更强调"习惯"（habit）概念：一个概念的意义在于它所决定的行为习惯（habits of action）。"相信X"不是一个纯粹的心理状态，而是一种准备以特定方式行动的习惯倾向。这将实用主义准则从单纯的实验操作扩展到了人类行为的广阔领域。
+
+Peirce's later formulations emphasized the concept of "habit" more strongly: the meaning of a concept lies in the habits of action it determines. "Believing X" is not a purely mental state but a habitual disposition to act in specific ways. This extended the pragmatic maxim from mere experimental operations to the broader domain of human conduct.
+
+---
+
+## 准则的应用：经典案例 / Applications of the Maxim: Classic Cases
+
+### 案例一："硬"的概念 / Case 1: The Concept of "Hard"
+
+皮尔士用"硬"（hard）这个概念作为准则的经典应用。如果我们想象一种物质，它从未被任何东西划过，也永远不会被任何东西划，那么说它"硬"或"不硬"就没有实际差异——这两个说法在可设想的实践效果上完全等价。因此，对于一种永远不被检验的物质，"硬"这个概念就没有意义。
+
+Peirce used "hard" as a classic application. If we imagine a substance that has never been scratched by anything and never will be, then saying it is "hard" or "not hard" makes no practical difference—the two claims have identical conceivable practical effects. Therefore, for a substance that is never tested, the concept "hard" has no meaning.
+
+### 案例二："力"的概念 / Case 2: The Concept of "Force"
+
+皮尔士分析了"力"（force）这一概念。如果我们说"力是使物体运动的原因"，这只是一个空洞的言辞。实用主义准则要求我们说明：当我们说某个物体上"有力"时，可以设想什么具体的实践效果？答案涉及加速度、质量的变化等可测量的后果。只有通过这种方式，"力"才获得了真正的清晰性。
+
+Peirce analyzed the concept of "force." Saying "force is the cause of motion" is merely empty verbiage. The pragmatic maxim demands: when we say "force acts on a body," what concrete practical effects can we conceive? The answer involves measurable consequences—acceleration, changes in mass, etc. Only through this route does "force" acquire genuine clarity.
+
+### 案例三：形而上学争论的消解 / Case 3: Dissolving Metaphysical Disputes
+
+实用主义准则最有力的应用是消解看似深刻实则空洞的形而上学争论。例如，"世界的本质是物质的还是精神的？"——如果这个问题在所有可设想的实践后果上都不产生差异，那么它就是一个伪问题。皮尔士并不否定形而上学的价值，但他认为形而上学必须接受实用主义准则的检验——有意义的形而上学主张必须能够产生可设想的实践效果差异。
+
+The maxim's most powerful application is dissolving seemingly profound but actually empty metaphysical disputes. For instance, "Is the world essentially material or spiritual?"—if this question makes no difference in all conceivable practical consequences, it is a pseudo-problem. Peirce did not deny the value of metaphysics, but he insisted it must pass the pragmatic maxim test—meaningful metaphysical claims must yield conceivable differences in practical effects.
+
+---
+
+## 皮尔士 vs 詹姆斯 vs 杜威 / Peirce vs James vs Dewey
+
+实用主义准则在三位经典实用主义者那里有不同的发展：
+
+The pragmatic maxim developed differently across the three classical pragmatists:
+
+| 思想家 / Thinker | 对准则的处理 / Treatment of the Maxim | 特点 / Characteristics |
+|---|---|---|
+| 皮尔士 / Peirce | 意义 = 可设想的实践效果 / Meaning = conceivable practical effects | 严格、逻辑性、实验导向 / Rigorous, logical, experiment-oriented |
+| 詹姆斯 / James | 真理 = 有用的、令人满意的 / Truth = useful, satisfactory | 心理化、价值导向、宽泛 / Psychologized, value-oriented, broad |
+| 杜威 / Dewey | 概念 = 解决问题的工具 / Concepts = tools for problem-solving | 功能化、教育导向、社会性 / Functionalized, education-oriented, social |
+
+皮尔士对詹姆斯的解读极为不满，认为他将严格的逻辑准则降格为心理学原则。这促使皮尔士在1905年将自己的理论改称为"pragmaticism"（实用化主义），以区别于詹姆斯的版本。
+
+Peirce was deeply dissatisfied with James's interpretation, believing he had degraded a rigorous logical maxim into a psychological principle. This led Peirce to rename his doctrine "pragmaticism" in 1905, to distinguish it from James's version.
+
+---
+
+## 当代影响 / Contemporary Influence
+
+实用主义准则在当代哲学中有多重回响：
+
+The pragmatic maxim has multiple echoes in contemporary philosophy:
+
+- **逻辑实证主义**（Logical Positivism）的"可证实性原则"（verifiability criterion of meaning）是实用主义准则的一种严格化（也是窄化）版本。/ The verifiability criterion of meaning is a strict (and narrowed) version of the pragmatic maxim.
+- **操作主义**（Operationalism）：布里奇曼将物理量的意义等同于测量操作。/ Bridgman equated the meaning of physical quantities with measurement operations.
+- **实用主义语义学**（Pragmatic Semantics）：当代语言哲学中关注语境和使用对意义的构成作用。/ Contemporary philosophy of language focusing on context and use as constitutive of meaning.
+- **新实用主义**（Neopragmatism）：罗蒂（Richard Rorty）和布兰顿（Robert Brandom）将实用主义准则重新诠释为对"表象主义"（representationalism）的批判。/ Rorty and Brandom reinterpreted the maxim as a critique of representationalism.
+
+---
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+实用主义准则与大乘佛教的**方便**（upaya, skillful means）概念之间存在结构性共鸣：一个教法（dharma teaching）的意义不在于它是否"对应"某种绝对实在，而在于它能否有效地引导修行者走向觉悟。天台宗的"权实"之辨——方便教法（权）与真实教法（实）的区分——同样可以从实用主义准则的角度理解：一切教法都是指向实践目标的工具，其价值在于实践效果。
+
+The pragmatic maxim structurally resonates with the Mahayana Buddhist concept of **upaya** (skillful means): the meaning of a dharma teaching lies not in whether it "corresponds" to some absolute reality, but in whether it effectively guides practitioners toward awakening. The Tiantai distinction between provisional and true teachings can similarly be understood through the pragmatic maxim: all teachings are tools directed at practical goals, valued by their practical effects.

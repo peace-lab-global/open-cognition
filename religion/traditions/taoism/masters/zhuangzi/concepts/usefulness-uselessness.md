@@ -1,0 +1,117 @@
+---
+id: usefulness-uselessness
+title: 无用之用 / Usefulness of Uselessness (Wuyong zhi Yong)
+type: concept
+domain: religion
+school: taoism
+thinker: zhuangzi
+tags: [uselessness, value, paradox, wuyong, 无用之用, 价值]
+parent: ../README.md
+---
+
+# 无用之用 / Usefulness of Uselessness (Wuyong zhi Yong)
+
+## 定义 / Definition
+
+无用之用（wuyong zhi yong）是庄子最精妙的价值论悖论：被世俗标准判定为"无用"的事物，恰恰因为其"无用"而保全了自身更根本的价值。无用不是缺陷，而是一种超越世俗功利标准的存在方式。庄子以此批判一切以"用"为标准的价值体系，重新发现了"无用"的尊严。
+
+The "usefulness of uselessness" is Zhuangzi's most exquisite axiological paradox: things judged "useless" by worldly standards preserve their deeper value precisely because of their uselessness. Uselessness is not a defect but a mode of existence that transcends worldly utility. Zhuangzi thereby critiques every value system that takes "use" as its criterion, and rediscovers the dignity of the useless.
+
+## 核心文本 / Core Passages
+
+### 不材之木 / The Good-for-Nothing Tree
+
+《人间世》：匠石见到一棵巨大的栎树，社稷之树，围观者如市。匠石不屑一顾："散木也。以为舟则沉，以为棺椁则速腐，以为器则速毁，以为门户则液樠，以为柱则蠹。是不材之木也，无所可用，故能若是之寿。"
+
+*"In the World of Men": Carpenter Shi encounters an enormous oak, the altar tree of the village shrine, surrounded by crowds of admirers. He disdains it: "A worthless tree. Make a boat from it and it sinks; make a coffin and it rots quickly; make a vessel and it falls apart; make a door and it seeps sap; make a pillar and it breeds worms. It is a good-for-nothing tree — and that is precisely why it has lived so long."*
+
+这棵树因为"无用"而得以长寿。
+*The tree survives because it is "useless."*
+
+### 樗树 / The Ailanthus Tree
+
+《逍遥游》：惠子说有一棵大树（樗），"其大本拥肿而不中绳墨，其小枝卷曲而不中规矩"，木匠看都不看。庄子回答："今子有大树，患其无用，何不树之于无何有之乡、广莫之野？彷徨乎无为其侧，逍遥乎寝卧其下？不夭斤斧，物无害者。无所可用，安所困苦哉！"
+
+*Hui Shi speaks of a great ailanthus tree: "Its trunk is so gnarled it cannot be measured by the carpenter's line; its branches so twisted they cannot be fitted to compass or square. No carpenter gives it a glance." Zhuangzi replies: "You have this great tree and worry it is useless — why not plant it in the village of Nothing-at-All, in the wilds of Broad-and-Boundless? Loiter in wu-wei at its side, sleep in xiaoyao beneath its shade. No axe will cut it short, nothing will harm it. When there is nothing it can be used for, what difficulty or distress could befall it?"*
+
+### 支离疏 / Zhili Shu (Broken-Body Shu)
+
+《人间世》：支离疏是一个严重的残疾者——"颐隐于脐，肩高于顶"。正因为他的"无用"，征兵时他不用上前线，发放救济时他能领到三份。"夫支离其形者，犹足以养其身、终其天年，又况支离其德者乎！"
+
+*Zhili Shu is severely disabled — "his chin hidden in his navel, his shoulders higher than his head." Precisely because of his "uselessness," he is exempt from military conscription and receives triple rations when relief is distributed. "If one who is broken in body can still nourish his life and complete his heaven-allotted years, how much more one who is broken in virtue!"*
+
+身体的无用保全了生命，道德的"无用"（不合世俗标准）保全了更高的德性。
+*Physical uselessness preserves life; moral "uselessness" (non-conformity to worldly standards) preserves higher virtue.*
+
+### 山木篇的悖论 / The Mountain Tree Paradox
+
+《山木》篇揭示了一个更深层的悖论：庄子在山中见到一棵大树因"不材"（无用）而得以存活，出了山后到友人家，友人杀了一只"不能鸣"（无用）的鹅来招待他。弟子问："昨日山中之木以不材得终其天年，今主人之鹅以不材死。先生将何处？"庄子笑答："周将处乎材与不材之间。"
+
+*In the "Mountain Tree" chapter, a deeper paradox emerges: in the mountains, a great tree survives because it is "worthless" (bucai); leaving the mountain, Zhuangzi visits a friend whose servant kills the goose that "cannot honk" (useless) for a feast. The disciple asks: "Yesterday the tree survived through worthlessness; today the goose died through worthlessness. Where will you stand, Master?" Zhuangzi laughs: "I will stand between worth and worthlessness."*
+
+这个答案本身又是一个陷阱——真正的逍遥不在于选择"无用"或"有用"，而在于超越这种二元选择本身。
+
+The answer is itself a trap — true xiaoyao lies not in choosing "useless" over "useful" but in transcending the binary altogether.
+
+## 无用之用的逻辑 / The Logic of Uselessness
+
+1. **世俗的"有用"意味着被利用**：有用的木头被砍来做器具，有用的人被征召去打仗
+   *Worldly "usefulness" means being used: useful timber is cut for tools; useful people are drafted for war.*
+2. **"无用"意味着不被利用**：不被利用的事物得以保持自身的完整性
+   *"Uselessness" means not being exploited — such things retain their wholeness.*
+3. **保持完整性是更高的"用"**：大树得以存活、荫庇众生；残疾人得以保全生命
+   *Retaining wholeness is a higher "use": the tree survives and shelters beings; the disabled person preserves life.*
+4. **因此"无用"是"大用"**：超越功利标准的更根本的价值
+   *Therefore "uselessness" is "great use" — a more fundamental value that transcends utilitarian standards.*
+
+## 与"逍遥"的关系 / Relation to Xiaoyao
+
+无用之用是逍遥的前提条件之一。要从世俗的束缚中解放（逍遥），首先要放弃世俗的"有用"标准。大树"无所可用，安所困苦哉"——正因为无用，所以不困苦。
+
+The usefulness of uselessness is a prerequisite for xiaoyao. To be liberated from worldly fetters (xiaoyao), one must first abandon the worldly standard of "usefulness." The great tree — "useless for anything, so what difficulty could it face?" — is free from distress precisely because it is useless.
+
+## 跨文化比较 / Cross-Cultural Comparisons
+
+### 与阿多诺 (Adorno) 的"无用艺术" / vs Adorno's "Useless Art"
+
+阿多诺认为艺术的本质恰恰在于它的"无用性"——艺术不服从于任何实用目的，正因为"无用"才保持了批判社会的力量。这与庄子的"无用之用"结构相同：**最有价值的东西恰恰是不能被"使用"的东西**。
+
+Adorno held that the essence of art lies precisely in its "uselessness" — art serves no practical purpose, and it is precisely this uselessness that preserves its power to critique society. This is structurally identical to Zhuangzi: **the most valuable things are those that cannot be "used."**
+
+### 与韦伯 (Weber) 的工具理性批判 / vs Weber's Critique of Instrumental Rationality
+
+| 维度 Dimension | 无用之用 Uselessness | 工具理性批判 Critique of Instrumental Reason |
+|------|----------|----------|
+| 批判对象 Target | 以"用"为标准的功利主义 Utilitarianism of "use" | 效率至上的工具理性 Efficiency-maximizing instrumental reason |
+| 核心论点 Thesis | "无用"保全了更根本的价值 Uselessness preserves deeper value | 效率遮蔽了人的尊严 Efficiency obscures human dignity |
+| 替代方案 Alternative | 逍遥（精神自由）Xiaoyao | 价值理性、人文主义 Value-rationality, humanism |
+| 实践 Practice | 支离疏式的生存智慧 Survival wisdom of Zhili Shu | 反消费主义、慢生活 Anti-consumerism, slow living |
+
+### 与佛教"无漏智"的比较 / vs Buddhist "Undefiled Wisdom"
+
+- **世俗智慧**（有漏智）：有用但有限——如同"有用之木"，终将被消耗
+  *Worldly wisdom (defiled): useful but limited — like "useful timber," eventually consumed.*
+- **无漏智** (anāsrava-jñāna)：看似"无用"（不产生世俗成果），但它是解脱的根本——如同"无用之树"，保全了最深层的价值
+  *Undefiled wisdom: seemingly "useless" (produces no worldly results), yet it is the root of liberation — like the "useless tree," preserving the deepest value.*
+
+## 当代应用 / Contemporary Applications
+
+- **生态伦理** — 不以"有用"为标准来衡量自然界的价值，承认生态系统内在的"无用之用"
+- **教育哲学** — 反对纯功利化的教育（"学这个有什么用？"），捍卫人文艺术的"无用"价值
+- **职场文化** — 反思"有用"标准对人的异化：996、绩效考核、效率至上
+- **基础科学** — 许多基础科学研究在短期内"无用"，却为长远突破奠基
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [老子 · 无为](../laozi/) `[发展]` 从无为到无用之用
+- [阿多诺 · 艺术哲学](../../../../aesthetics/schools/critical-aesthetics/adorno/) `[平行]` 无用的批判力量
+- [韦伯 · 工具理性](../../../../sociology/schools/classical/) `[对照]` 对效率崇拜的批判
+
+## 进阶阅读 / Further Reading
+
+- 《庄子·人间世》（不材之木、支离疏）
+- 《庄子·逍遥游》（樗树）
+- 《庄子·山木》（无用之木与有用之鹅的悖论）
+- Ziporyn, B. (2020). *Zhuangzi: The Complete Writings*
+- 陈鼓应《庄子今注今译》
+- Moeller, H.-G. (2006). *The Moral Fool: A Case for Immorality*

@@ -1,0 +1,101 @@
+---
+id: leibniz-monad
+title: 单子论 · Monadology
+type: concept
+domain: philosophy
+school: rationalism
+thinker: leibniz
+tags:
+  - 单子
+  - 形而上学
+  - 实体
+  - 知觉
+  - monad
+  - metaphysics
+  - substance
+  - perception
+cross-refs:
+  - id: leibniz-pre-established-harmony
+    relation: 推论
+  - id: descartes-mind-body-dualism
+    relation: 替代
+  - id: spinoza-substance-monism
+    relation: 对立
+---
+
+# 单子论 · Monadology
+
+## 概念概述 / Concept Overview
+
+"单子"（Monad，源自希腊语 monas，意为"单位"）是莱布尼茨形而上学的核心概念，指构成世界的基本单位。单子是简单的（没有部分）、不可分的（不能被分解）、无窗的（没有与其他单子的因果交互）精神实体。每个单子都拥有知觉（perception）和欲望（appetition），并从自身独特的视角映射整个宇宙。
+
+"Monad" (from Greek monas, meaning "unit") is the core concept of Leibniz's metaphysics, referring to the fundamental units composing the world. Monads are simple (without parts), indivisible (cannot be decomposed), windowless (no causal interaction with other monads) spiritual substances. Each monad possesses perception and appetition, mirroring the entire universe from its own unique perspective.
+
+## 单子的基本特征 / Basic Characteristics of Monads
+
+### 1. 简单性 · Simplicity
+
+单子"没有部分"（sans parties）——它们不是由更小的组件构成的复合体。这意味着单子不能通过自然过程被创造或毁灭（只有上帝可以直接创造或消灭单子）。它们是"实体的原子"（atoms of substance），但与物理学中的物质原子不同，单子是精神性的。
+
+Monads are "without parts" — they are not composites of smaller components. This means they cannot be naturally created or destroyed (only God can directly create or annihilate them). They are "atoms of substance," but unlike physical atoms, monads are spiritual.
+
+### 2. 无窗性 · Windowlessness
+
+"单子没有窗户，任何东西都不能从外面进入或从里面出来"——这是莱布尼茨最著名的论断之一。单子之间不存在因果相互作用。一个单子的状态变化完全来自其自身的内在原则，而非外部影响。当我们以为"外部世界"在影响我们时，实际上是我们的单子内部在按照自身的发展规律发生变化。
+
+"Monads have no windows through which anything could enter or depart" — one of Leibniz's most famous claims. There is no causal interaction between monads. A monad's state-changes come entirely from its own internal principle, not from external influence. When we think the "external world" is affecting us, our monad is actually changing according to its own internal developmental law.
+
+### 3. 知觉与欲望 · Perception and Appetition
+
+每个单子都有两种基本活动：
+
+Each monad has two basic activities:
+
+- **知觉（Perception）**：单子对外部世界的"表征"——但由于单子是"无窗的"，这种表征实际上来自单子自身的内在发展，而非来自外部世界的信息输入。知觉有程度之分：从裸单子的微弱"微知觉"到人类灵魂的清晰自我意识。
+- **欲望（Appetition）**：单子从一种知觉状态过渡到另一种知觉状态的内在倾向——这是单子内部变化的动力原则。
+
+- **Perception**: The monad's "representation" of the external world — but since monads are windowless, this representation comes from the monad's own internal development, not from information input from outside. Perception varies in degree: from the faint "petites perceptions" of bare monads to the clear self-consciousness of human souls.
+- **Appetition**: The monad's internal tendency to pass from one perceptual state to another — the dynamic principle of internal change.
+
+### 4. 个体性 · Individuality
+
+"不可分辨者的同一性"——没有两个单子是完全相同的。每个单子都有其独特的"观点"（point de vue），从这一独特视角映射整个宇宙。这意味着宇宙中有无限多个不同的"世界视角"，每个视角都是对同一宇宙的独特表达。
+
+"Identity of indiscernibles" — no two monads are completely alike. Each monad has a unique "point of view" from which it mirrors the entire universe. This means there are infinitely many different "world-perspectives" in the universe, each a unique expression of the same cosmos.
+
+## 单子的等级 / Hierarchy of Monads
+
+| 等级 | 类型 | 特征 |
+|------|------|------|
+| 最低 | 裸单子 (Bare Monads) | 只有微弱的微知觉，构成无机物 |
+| 中等 | 灵魂 (Souls) | 具有记忆和感觉，构成动物 |
+| 最高 | 精神 (Spirits/Minds) | 具有自我意识和理性，构成人类 |
+| 至高 | 上帝 (God) | 具有最完满的知觉，创造并协调一切单子 |
+
+## 单子论与物质 / Monads and Matter
+
+单子论面临的一个重要问题是：如果世界由精神性的单子构成，物质世界是怎么回事？莱布尼茨的回答是：物质世界是单子知觉的"现象"——更准确地说，是一种"良好基础的现象"（phénomène bien fondé）。物质不是纯粹的幻觉（像贝克莱所认为的），但它也不是终极实在——终极实在是单子的知觉活动。
+
+An important problem: if the world is composed of spiritual monads, what about the material world? Leibniz answers: the material world is a "phenomenon" of monadic perception — more precisely, a "well-founded phenomenon" (phénomène bien fondé). Matter is not pure illusion (as Berkeley held), but it is not ultimate reality either — ultimate reality is monadic perceptual activity.
+
+## 批评与遗产 / Criticisms and Legacy
+
+单子论的"无窗"概念一直是最受争议的部分。批评者认为，如果单子之间没有真正的交互作用，那么 intersubjectivity（主体间性）如何可能？罗素在《莱布尼茨哲学批判性阐释》中指出，单子论的逻辑推论是每个单子都应该"知道"一切，这与我们的经验不符。
+
+然而，单子论在当代获得了新的意义。在信息论中，每个信息处理系统都可以被视为一个"单子"——从自身独特的角度处理信息。在全息理论中，每个部分都包含整体的信息——这与单子"映射宇宙"的理念不谋而合。
+
+The "windowless" concept remains the most controversial. Critics ask: if there is no real interaction between monads, how is intersubjectivity possible? Russell noted in his critical exposition that monadology logically implies each monad should "know" everything, contradicting experience.
+
+Yet monadology has gained new significance. In information theory, each information-processing system can be seen as a "monad" — processing information from its unique angle. In holographic theory, each part contains information about the whole — echoing the monad's "mirroring of the universe."
+
+## 参考文献 / References
+
+- Leibniz, G. W. *Monadology* (1714).
+- Rescher, N. (1991). *G. W. Leibniz's Monadology*. University of Pittsburgh Press.
+- Russell, B. (1937). *A Critical Exposition of the Philosophy of Leibniz*. Allen & Unwin.
+
+## 相关概念 / Related Concepts
+
+- [前定和谐](pre-established-harmony.md) — 无窗单子如何协调
+- [可能世界](possible-worlds.md) — 单子映射的世界结构
+- [充足理由律](sufficient-reason.md) — 单子存在和变化的理由

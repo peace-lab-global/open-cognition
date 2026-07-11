@@ -1,0 +1,122 @@
+---
+id: hohwy-self-evidencing
+title: 自我证明 · Self-Evidencing
+type: concept
+thinker: hohwy
+domain: philosophy
+school: analytic
+tags:
+  - predictive-processing
+  - self-evidencing
+  - model-selection
+  - bayesian
+  - epistemology
+---
+
+# 自我证明 · Self-Evidencing
+
+## 概念定位 / Conceptual Position
+
+"自我证明"（self-evidencing）是 Jakob Hohwy 最具独创性和争议性的哲学概念。它超越了标准的预测加工框架，提出了一个更为激进的论点：大脑不仅被动地最小化预测误差，还通过行动主动地使感觉输入与预测一致——大脑是一个积极地寻求确认自身模型证据的系统。这一概念将预测加工从纯粹的感知理论提升为一个关于心智与世界关系的深刻哲学论点。
+
+"Self-evidencing" is Jakob Hohwy's most original and controversial philosophical concept. It transcends the standard predictive processing framework, proposing a more radical thesis: the brain not only passively minimizes prediction error but actively makes sensory input consistent with predictions through action — the brain is a system that actively seeks evidence confirming its own models. This concept elevates predictive processing from a pure theory of perception to a profound philosophical thesis about the relationship between mind and world.
+
+Hohwy 的"自我证明"概念来自贝叶斯模型选择理论中的"模型证据"（model evidence）概念。在贝叶斯框架中，一个模型的好坏不仅取决于它如何拟合数据（likelihood），还取决于它的先验预测有多准确（prior）。自我证明意味着大脑不仅优化拟合，还主动选择那些能够产生高模型证据的行动。
+
+Hohwy's "self-evidencing" concept derives from "model evidence" in Bayesian model selection theory. In the Bayesian framework, a model's quality depends not only on how well it fits data (likelihood) but also on how accurate its prior predictions are (prior). Self-evidencing means the brain optimizes not only fitting but actively selects actions that produce high model evidence.
+
+---
+
+## 核心论述 / Core Argument
+
+### 从预测误差到模型证据 / From Prediction Error to Model Evidence
+
+标准的预测加工理论告诉我们，大脑通过更新内部模型来最小化预测误差。但这里存在一个微妙的问题：最小化预测误差有两种方式——(1) 更新模型以匹配输入（学习），或 (2) 改变输入以匹配模型（行动）。在纯粹的认识论视角下，只有第一种方式是"正当的"——它使模型更好地追踪世界的真实结构。但第二种方式同样能最小化预测误差。
+
+Standard predictive processing theory tells us the brain minimizes prediction error by updating internal models. But there's a subtle problem: there are two ways to minimize prediction error — (1) updating models to match input (learning), or (2) changing input to match models (action). From a purely epistemological perspective, only the first way is "legitimate" — it makes models better track the world's true structure. But the second way equally minimizes prediction error.
+
+Hohwy 的关键洞见是：大脑并不区分这两种策略——它只关心总的预测误差最小化。这意味着，从大脑的角度来看，通过行动使世界符合预测与通过学习使预测符合世界是完全等价的策略。大脑积极地"证明"自己的模型——它选择那些能产生确认性证据的行动。
+
+Hohwy's key insight is that the brain does not distinguish between these strategies — it only cares about total prediction error minimization. This means that from the brain's perspective, making the world conform to predictions through action is a completely equivalent strategy to making predictions conform to the world through learning. The brain actively "proves" its own models — it selects actions that produce confirming evidence.
+
+### 自我证明的循环性 / The Circularity of Self-Evidencing
+
+自我证明引入了一个看似循环的结构：大脑有一个关于世界的模型 → 大脑预测某些感觉输入 → 大脑选择能产生预期感觉输入的行动 → 行动产生了预期的感觉输入 → 感觉输入"证实"了模型。这个循环看起来像是确认偏误（confirmation bias）的系统化版本。
+
+Self-evidencing introduces a seemingly circular structure: the brain has a model of the world → the brain predicts certain sensory input → the brain selects actions that produce expected sensory input → action produces expected sensory input → sensory input "confirms" the model. This loop looks like a systematized version of confirmation bias.
+
+Hohwy 承认这种循环性，但论证它并非恶性的循环。关键在于：大脑不能任意地使世界符合其预测——世界有自己的因果结构，会对不准确的预测产生"抵抗"。如果你预测面前有一堵墙并试图走过去，世界会通过疼痛（预测误差）告诉你你的模型是错的。因此，自我证明并非任意的自我确认，而是在世界约束下的模型验证过程。
+
+Hohwy acknowledges this circularity but argues it is not vicious. The crucial point: the brain cannot arbitrarily make the world conform to its predictions — the world has its own causal structure that "resists" inaccurate predictions. If you predict a wall before you and try to walk through it, the world will tell you through pain (prediction error) that your model is wrong. Therefore, self-evidencing is not arbitrary self-confirmation but a model verification process under worldly constraints.
+
+### 自我证明与存在 / Self-Evidencing and Existence
+
+Hohwy 进一步将自我证明与"存在"本身联系起来。根据自由能原理，有机体必须最小化长期平均预测误差以维持自身存在（避免与环境的热力学平衡——即死亡）。自我证明因此不仅是一个认识论概念，更是一个存在论概念：有机体通过积极地证明自身模型来维持存在。模型的存续就是有机体的存续。
+
+Hohwy further connects self-evidencing with "existence" itself. According to the free energy principle, organisms must minimize long-term average prediction error to maintain their existence (avoiding thermodynamic equilibrium with the environment — i.e., death). Self-evidencing is therefore not only an epistemological concept but an existential one: organisms maintain existence by actively proving their own models. The survival of models is the survival of organisms.
+
+---
+
+## 哲学意义 / Philosophical Significance
+
+### 对科学哲学的启示 / Implications for Philosophy of Science
+
+自我证明概念对科学哲学产生了有趣的启示。科学家也面临类似的问题：他们不仅选择理论来拟合数据，还设计实验来验证理论。如果实验设计倾向于产生确认理论的数据，这是否是一种"自我证明"？Hohwy 认为，一定程度的自我证明在科学中是不可避免的——关键是通过方法论规范（如可重复性、同行评审）来约束循环性。
+
+The self-evidencing concept offers interesting implications for philosophy of science. Scientists face similar problems: they not only select theories to fit data but design experiments to verify theories. If experimental design tends to produce theory-confirming data, is this "self-evidencing"? Hohwy argues some degree of self-evidencing is inevitable in science — the key is constraining circularity through methodological norms (replicability, peer review).
+
+### 对自我知识的启示 / Implications for Self-Knowledge
+
+自我证明还影响我们对自我知识的理解。如果大脑积极地证明自己的模型，那么我们对自身心理状态的认识也可能受到自我证明的影响——我们可能"看到"我们预期自己会感受到的东西，而非我们实际感受到的东西。这为内省的不可靠性提供了一个新的解释框架。
+
+Self-evidencing also affects our understanding of self-knowledge. If the brain actively proves its own models, then our knowledge of our own mental states may also be subject to self-evidencing — we may "see" what we expect ourselves to feel rather than what we actually feel. This provides a new explanatory framework for the unreliability of introspection.
+
+### 对认识论怀疑论的回应 / Response to Epistemological Skepticism
+
+自我证明为认识论怀疑论提供了一个独特的回应。怀疑论者问：我们怎么知道我们的感知是可靠的？Hohwy 的回答是：我们不能从外部证明感知的可靠性——因为我们用于检验感知的一切工具本身也是感知的产物。我们唯一能做的是从内部进行自我证明——信任我们的模型，同时保持对预测误差的敏感性。
+
+Self-evidencing provides a unique response to epistemological skepticism. Skeptics ask: how do we know our perception is reliable? Hohwy's answer: we cannot prove perceptual reliability from outside — because all tools we use to examine perception are themselves products of perception. All we can do is self-evidence from within — trusting our models while remaining sensitive to prediction error.
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"我执"概念的对话 / Dialogue with Buddhist "Atman-Grasping"
+
+佛教哲学中"我执"（ātma-grāha）的概念与自我证明有着深刻的对应。我执是指心识不断地确认和巩固一个虚构的自我——大脑（心识）积极地寻找证据来证明"我"的存在，通过行动、言语和思维不断地"证明"自我模型。在预测加工的框架中，我执可以被理解为自我模型（self-model）的过度自我证明——大脑过度保护关于"我"的先验预测，拒绝接受与之矛盾的预测误差。
+
+The Buddhist concept of "atman-grasping" (ātma-grāha) has profound correspondence with self-evidencing. Atman-grasping refers to consciousness continuously confirming and consolidating a fictitious self — the brain (consciousness) actively seeking evidence to prove the existence of "I," constantly "proving" the self-model through action, speech, and thought. In the predictive processing framework, atman-grasping can be understood as excessive self-evidencing of the self-model — the brain over-protects prior predictions about "self," refusing to accept contradictory prediction errors.
+
+佛教修行中的"无我"观照（anātman-vipaśyanā）可以被理解为暂停自我证明的修行——停止主动寻找确认自我模型的证据，允许与自我预测矛盾的感觉输入进入意识。
+
+The Buddhist practice of "no-self" contemplation (anātman-vipaśyanā) can be understood as the practice of suspending self-evidencing — ceasing to actively seek evidence confirming the self-model, allowing sensory input contradictory to self-predictions to enter consciousness.
+
+### 与王阳明"知行合一"的对话 / Dialogue with Wang Yangming's "Unity of Knowing and Acting"
+
+王阳明主张"知行合一"——真正的知必须体现在行动中，知而不行不是真知。在自我证明的框架中，这一思想获得了新的解读：认知（模型）和行动（证明）本质上是同一个过程——模型不是先于行动而存在的静态表征，而是通过行动不断被"证明"和更新的动态结构。"知"不是被动的心理状态，而是通过"行"来持续自我证明的活跃过程。
+
+Wang Yangming advocates "unity of knowing and acting" — true knowing must manifest in action; knowing without acting is not true knowing. In the self-evidencing framework, this thought gains new interpretation: cognition (model) and action (proving) are essentially the same process — models are not static representations existing prior to action but dynamic structures continuously "proved" and updated through action. "Knowing" is not a passive mental state but an active process of continuous self-evidencing through "acting."
+
+---
+
+## 当代应用 / Contemporary Applications
+
+**社交认知：** 我们对他人的印象形成强烈的自我证明倾向——一旦形成某人的第一印象，我们倾向于选择能确认这一印象的互动方式，忽略或淡化不一致的信息。理解自我证明可以帮助我们设计更有效的反偏误训练。
+**Social Cognition:** Our impressions of others exhibit strong self-evidencing tendencies — once we form a first impression, we tend to select interactions that confirm it, ignoring or downplaying inconsistent information. Understanding self-evidencing can help design more effective anti-bias training.
+
+**科学方法论：** 科学中的"实验者效应"和"发表偏倚"可以被视为集体层面的自我证明——科学共同体倾向于设计和发表确认既有理论的实验。开放科学运动（如预注册、数据共享）可以被理解为在制度层面约束自我证明的机制。
+**Scientific Methodology:** "Experimenter effects" and "publication bias" in science can be seen as collective-level self-evidencing — the scientific community tends to design and publish experiments confirming existing theories. The open science movement (preregistration, data sharing) can be understood as institutional mechanisms constraining self-evidencing.
+
+**成瘾行为：** 成瘾可以被理解为自我证明的病态循环——成瘾者的预测模型强烈预测物质使用的效果，行为不断产生确认这些预测的感觉输入，使模型越来越固化。打破成瘾循环需要引入能够"否定"成瘾模型的新的感觉经验。
+**Addictive Behaviors:** Addiction can be understood as a pathological self-evidencing loop — the addict's predictive model strongly predicts substance use effects; behavior continuously produces sensory input confirming these predictions, making the model increasingly fixed. Breaking the addiction cycle requires introducing new sensory experiences that can "disconfirm" the addiction model.
+
+---
+
+## 相关概念 / Related Concepts
+
+- **[预测心智 · Predictive Mind](predictive-mind.md)** — 自我证明的基础 / Foundation of self-evidencing
+- **[精度加权 · Precision Weighting](precision-weighting.md)** — 精度在自我证明中的角色 / Role of precision in self-evidencing
+- **[主动推理 · Active Inference](active-inference.md)** — 自我证明的行动维度 / Action dimension of self-evidencing
+- **[颅骨封闭的心智 · Skull-Bound Mind](skull-bound-mind.md)** — 自我证明与认知封闭 / Self-evidencing and cognitive closure
+- **模型证据 · Model Evidence** — 贝叶斯框架中的基础概念 / Foundational concept in Bayesian framework
+- **确认偏误 · Confirmation Bias** — 认知心理学中的对应概念 / Corresponding concept in cognitive psychology

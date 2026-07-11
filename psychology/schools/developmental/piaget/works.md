@@ -1,0 +1,46 @@
+---
+id: piaget-works
+title: "皮亚杰著作年表 · Jean Piaget Works Chronology"
+type: works
+thinker: piaget-jean
+---
+
+# 皮亚杰著作年表 · Jean Piaget Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 著作 / Work | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|
+| 1923 | *The Language and Thought of the Child*（《儿童的语言与思维》） | London: Kegan Paul | 揭示儿童语言的自我中心特征，提出"集体独白"概念 / Reveals egocentric features of children's language; introduces "collective monologue" |
+| 1924 | *Judgment and Reasoning in the Child*（《儿童的判断与推理》） | London: Kegan Paul | 分析儿童逻辑推理的前因果性和转导推理 / Analyzes children's precausal reasoning and transductive reasoning |
+| 1926 | *The Child's Conception of the World*（《儿童的世界观》） | London: Kegan Paul | 研究儿童对物理世界的理解，发现"泛灵论"和"人为论" / Studies children's understanding of the physical world; discovers "animism" and "artificialism" |
+| 1932 | *The Moral Judgment of the Child*（《儿童的道德判断》） | London: Kegan Paul | 区分他律道德与自律道德，开创道德发展研究 / Distinguishes heteronomous from autonomous morality; pioneering moral development research |
+| 1936 | *The Origins of Intelligence in Children*（《儿童智慧的起源》） | Paris: Delachaux & Niestlé | 系统阐述感知运动阶段的六个亚阶段 / Systematic exposition of six sub-stages of the sensorimotor period |
+| 1937 | *The Construction of Reality in the Child*（《儿童实在的建构》） | Paris: Delachaux & Niestlé | 详述客体永久性、空间、时间和因果性概念的建构 / Details construction of object permanence, space, time, and causality concepts |
+| 1941 | *The Genesis of Number in the Child*（《儿童数概念的起源》，与英海尔德合著 / with Inhelder） | Paris: Delachaux & Niestlé | 追踪数概念从行动图式中的建构过程 / Traces construction of number concepts from action schemas |
+| 1946 | *The Child's Conception of Geometry*（《儿童几何与空间概念》） | Paris: Presses Universitaires de France | 研究拓扑空间、射影空间和欧氏空间概念的依次发展 / Studies sequential development of topological, projective, and Euclidean spatial concepts |
+| 1947 | *The Psychology of Intelligence*（《智慧心理学》） | London: Routledge | 对认知发展理论的综合性概述 / Comprehensive overview of cognitive development theory |
+| 1966 | *The Psychology of the Child*（《儿童心理学》，与英海尔德合著 / with Inhelder） | Paris: Presses Universitaires de France | 对毕生研究的总结性概述 / Summary overview of lifetime research |
+| 1970 | *Genetic Epistemology*（《发生认识论》） | New York: Columbia University Press | 将认知发展研究上升到认识论高度的理论综合 / Elevates cognitive development research to epistemological-level theoretical synthesis |
+| 1977 | *Studies in Reflecting Abstraction*（《反思性抽象研究》） | London: Routledge | 阐释从行动到思维的认知提升机制 / Elucidates cognitive elevation mechanism from action to thought |
+
+## 重要论文集 / Key Collected Volumes
+
+- Piaget, J. (1950). *Introduction à l'épistémologie génétique* (3 vols.). Paris: Presses Universitaires de France. — 发生认识论的系统性巨著
+- Piaget, J. (1967). *Six Psychological Studies*. New York: Random House. — 六篇心理学研究论文合集
+- Piaget, J. (1971). *Biology and Knowledge: An Essay on the Relations between Organic Regulations and Cognitive Processes*. Chicago: University of Chicago Press. — 生物学与认识论的交叉研究
+- Piaget, J. (1972). *The Principles of Genetic Epistemology*. London: Routledge. — 发生认识论原理的简明阐述
+
+## 与英海尔德合作研究 / Collaborative Research with Inhelder
+
+- Piaget, J., & Inhelder, B. (1941). *The Genesis of Number in the Child*. — 数概念的建构
+- Piaget, J., & Inhelder, B. (1948). *The Child's Conception of Geometry*. — 空间概念的建构
+- Piaget, J., & Inhelder, B. (1958). *The Growth of Logical Thinking from Childhood to Adolescence*. — 从儿童到青少年的逻辑思维发展
+- Piaget, J., & Inhelder, B. (1966). *The Psychology of the Child*. — 对毕生研究的总结
+- Inhelder, B., & Piaget, J. (1958). *The Growth of Logical Thinking*. — 形式运算阶段的系统研究
+
+## 早期生物学著作 / Early Biological Works
+
+- Piaget, J. (1918). *Recherche* (Recherches sur les mollusques du Valais). — 博士论文（软体动物研究）
+- Piaget, J. (1924). *Le jugement et le raisonnement chez l'enfant*. — 早期法文著作
+- 1915–1918年间发表了多篇关于软体动物的学术论文 / Published multiple papers on mollusks between 1915–1918

@@ -1,0 +1,185 @@
+---
+id: existentialism-vs-yogacara
+title: 存在主义 × 唯识 · Existentialism vs Yogācāra
+type: comparative
+domain: philosophy
+schools: [existentialism, buddhism-yogacara]
+era: cross-era
+tags:
+  - 比较哲学
+  - 存在主义
+  - 唯识
+  - 自由
+  - 无我
+  - 自欺
+  - 遍计所执
+  - 京都学派
+aliases:
+  - 存在主义与唯识
+  - existentialism-yogacara
+thinkers:
+  existentialism: [sartre, heidegger, beauvoir, kierkegaard, nietzsche]
+  yogacara: [asanga-vasubandhu, dignaga, dharmapala, xuanzang]
+sources:
+  - 阿部正雄《禅与西方思想》
+  - 田边元《忏悔道作为哲学》
+  - Steven Heine, *Existentialism and Buddhist Thought*
+  - David Loy, *Nonduality: A Study in Comparative Philosophy*
+  - 济群法师《认识与存在》
+cross-refs:
+  - id: sartre
+    relation: 比较项
+  - id: heidegger
+    relation: 比较项
+  - id: beauvoir
+    relation: 比较项
+  - id: kierkegaard
+    relation: 比较项
+  - id: nietzsche
+    relation: 比较项
+  - id: religion.buddhism.school.yogacara
+    relation: 比较项
+  - id: three-natures
+    relation: 比较项
+  - id: eight-consciousness
+    relation: 比较项
+  - id: consciousness-transformation
+    relation: 比较项
+  - id: religion.buddhism.concept.vijnaptimatrata
+    relation: 比较项
+---
+
+# 存在主义 × 唯识
+
+## 一句话定位
+
+存在主义与唯识论分属 20 世纪欧陆哲学与 4–7 世纪印度—汉传佛学,却共同诊断"人以错误的方式存在",并各自给出处方——前者诉诸**自由的清醒承担**,后者诉诸**心识的认知转化**。京都学派(阿部正雄、田边元)曾系统对比二者,当代佛学与现象学对话至今延续此题。
+
+## 总览对照表
+
+| 维度 | 存在主义 | 唯识论 |
+|---|---|---|
+| 起点 | 具体生存的个体 | 心识结构与认知分析 |
+| 方法 | 现象学描述 + 文学 | 因明量论 + 禅观实证 |
+| 核心命题 | 存在先于本质 | 唯识无境(境不离识) |
+| 人的基本处境 | 被抛入自由 | 被种子与习气牵引 |
+| 苦难根源 | 自欺 / 沉沦 / 常人 | 遍计所执 / 我法二执 |
+| 解脱路径 | 本真承担 / 跳跃 | 转识成智 / 三性观修 |
+| 终点 | 无保证的清醒 | 成佛(四智圆满) |
+
+## 七项深度比较
+
+### 1. "无本质的人" vs "无我的识" — 相似
+
+- **存在主义**:没有先验的人性、天命或本质;人由选择塑造(萨特"存在先于本质")。
+- **唯识论**:没有"我"(ātman),只有**八识之流**;阿赖耶识如瀑布而非灵魂,刹那生灭、不断熏变。
+- **共识**:否定实体化的"自我"。
+- **差异**:萨特走向"**绝对自由的主体**",唯识走向"**无主体的过程**"。
+
+### 2. "被抛/情境" vs "种子/熏习" — 深层呼应
+
+- **海德格尔的被抛**(Geworfenheit):你并未选择你的历史、身体、语言。
+- **唯识的种子**(bīja)与**熏习**(vāsanā):过去经验作为潜在势力储于阿赖耶,决定当下的认知与感受。
+- **差异**:被抛是存在论事实(不可克服);种子可被**定向熏修**改写——唯识对"改变如何可能"有更精细的机制。
+
+### 3. "自欺" vs "遍计所执" — 核心对应
+
+- **萨特的自欺**(mauvaise foi):把自己当作"物",逃避自由。
+- **唯识的遍计所执**(parikalpita):在依他起的现象流上**投射实体化的自性**("此是我、此是物、此是常")。
+- **共同点**:苦难来自一种**主动却隐蔽的认知错误**。
+- **唯识更细**:区分为**分别我执**(后天概念)与**俱生我执**(先天习气),后者对应萨特未触及的"前反思结构"。
+
+### 4. "焦虑/虚无" vs "空性/二空" — 同根异果
+
+- **存在主义的焦虑**:面对**无根基**时的眩晕;虚无(néant)是意识的结构。
+- **唯识的空性**(śūnyatā):人空 + 法空,是**圆成实性**所显的真实。
+- **共同点**:承认"根基不在"。
+- **差异**:焦虑是生存情绪,需要承担;空性是**实相**,需要证入。萨特说"虚无令人不安",唯识说"空性令人解脱"。
+
+### 5. "自由" vs "转业" — 根本分歧
+
+- **存在主义**:自由是绝对的,即便在牢狱中你仍可自由选择态度。
+- **唯识**:当下的"选择"已被过去种子强烈制约;真正的自由需经**资粮位 → 加行位 → 见道 → 修道 → 究竟位**的长程转化。
+- **评判**:萨特高估当下意志,唯识给出**自由的阶梯性**。
+
+### 6. "本真" vs "转识成智" — 结构性对应
+
+| 存在主义 | 唯识 |
+|---|---|
+| 从常人(das Man)醒来 | 从遍计所执醒来 |
+| 直面死亡与有限 | 观无常与无我 |
+| 本真存在 | 依他起上现圆成实 |
+| 焦虑中的承担 | 无分别智的生起 |
+
+差异:本真是**姿态**;转识成智是**认知结构的重组**(八识 → 四智)。
+
+### 7. "他者/伦理" vs "平等性智/大悲" — 互补
+
+- **波伏娃的他者**、**列维纳斯的他者之脸**:伦理来自对他者的回应。
+- **唯识的平等性智**(末那识转):断除我见后自然生起**自他平等**的大悲。
+- **共同点**:反对自我中心的伦理。
+- **差异**:存在主义的他者是**外在的他者**;唯识的"他者平等"是**内在认知转化后的自然流现**。
+
+## 关键术语互译尝试
+
+| 存在主义 | 唯识近似对应 | 备注 |
+|---|---|---|
+| 被抛 | 异熟果 / 种子现行 | 唯识更强调跨世因果 |
+| 自欺 | 遍计所执 + 俱生我执 | 唯识区分更细 |
+| 焦虑(Angst) | 无常苦迫感 | 情绪 vs 三法印 |
+| 沉沦 | 流转(saṃsāra) | 日常 vs 轮回 |
+| 本真 | 如理作意 / 无分别智 | 姿态 vs 认知 |
+| 他者 | (大悲的所缘) | 唯识无直接对应,需借大悲补足 |
+| 责任 | 业与愿力 | 伦理 vs 因果 |
+
+## 思想家配对
+
+| 存在主义一方 | 唯识一方 | 对话主题 |
+|---|---|---|
+| 海德格尔 | 世亲 | 存在与此在、语言与名言 |
+| 萨特 | 陈那 / 法称 | 意识的自证分与自为存在的自反性 |
+| 梅洛-庞蒂 | 唯识身体观 | 身体图式 ≈ 阿赖耶的"根身器界" |
+| 波伏娃 | 平等性智 | 伦理的根据:他者 vs 大悲 |
+| 尼采 | 唯识习气说 | 权力意志 vs 种子动力(都强调动力而非实体) |
+| 克尔凯郭尔 | 信仰的跳跃 vs 见道 | 非理性的过渡与修行次第 |
+
+## 思想定位
+
+- **类型**:跨传统比较哲学
+- **历史代表**:京都学派(阿部正雄、田边元)、久松真一、西谷启治
+- **当代延续**:Steven Heine、David Loy、Evan Thompson(*Mind in Life*)
+- **上游**:海德格尔现象学 + 瑜伽行派
+- **下游**:比较哲学、佛学—认知科学对话、正念—存在心理治疗
+
+## 一句话结论
+
+> 存在主义告诉你**你是自由的**,唯识告诉你**自由是如何可能的**——前者是清醒的宣言,后者是转化的工程。
+
+## 进阶阅读
+
+### 经典对读
+- 萨特《存在与虚无》 × 世亲《唯识三十颂》
+- 海德格尔《存在与时间》 × 无著《摄大乘论》
+- 波伏娃《模糊性的伦理》 × 《成唯识论》
+
+### 比较研究
+- 阿部正雄《禅与西方思想》(Zen and Western Thought)
+- 田边元《忏悔道作为哲学》(Philosophy as Metanoetics)
+- David Loy, *Nonduality: A Study in Comparative Philosophy*
+- Steven Heine, *Existentialism and Buddhist Thought*
+- Evan Thompson, *Mind in Life* & *Waking, Dreaming, Being*
+
+### 中文资源
+- 济群法师《认识与存在》
+- 霍韬晦《佛教哲学导论》
+- 傅伟勋《从西方哲学到禅佛教》
+
+## 关联条目
+
+- [存在主义 · Existentialism](../existentialism/) (学派主页)
+- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md)
+- [三性 · Trisvabhāva](../../../religion/buddhism/concepts/cognitive-theory/three-natures.md)
+- [八识体系 · Eight Consciousnesses](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md)
+- [转识成智 · Consciousness Transformation](../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md)
+- [唯识无境 · Vijñaptimātratā](../../../religion/buddhism/concepts/foundational/vijnaptimatrata.md)
+- [萨特](../existentialism/sartre.md) · [海德格尔](../existentialism/heidegger.md) · [波伏娃](../existentialism/beauvoir.md) · [克尔凯郭尔](../existentialism/kierkegaard.md) · [尼采](../existentialism/nietzsche.md)

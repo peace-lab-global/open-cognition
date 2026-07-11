@@ -1,0 +1,43 @@
+---
+id: psychology.cognitive.posner.works
+title: "波斯纳著作年表 · Posner Chronological Works"
+type: reference
+thinker: posner
+school: cognitive
+---
+
+# 波斯纳著作年表 / Posner Chronological Works
+
+Michael I. Posner (1936–) 的核心著作，按年代排列。
+
+Core works of Michael I. Posner (1936–), arranged chronologically.
+
+| 年份 / Year | 著作 / Work | 类型 / Type | 核心贡献 / Core Contribution |
+|---|---|---|---|
+| 1964 | "Rate of quantity and information accumulation" (with Fitts, *JEP*) | 论文 / Paper | 早期信息处理研究，探讨信息累积速率 / Early information processing research on accumulation rate |
+| 1966 | "Facilitation and inhibition in the processing of signals" | 论文 / Paper | 信号处理中的促进与抑制效应 / Facilitation and inhibition effects in signal processing |
+| 1967 | "Timing signals in perception" | 论文 / Paper | 时间感知与认知处理 / Temporal perception and cognitive processing |
+| 1971 | "Psychological processes and brain mechanisms" | 论文 / Paper | 心理过程与脑机制的关联研究 / Research linking psychological processes with brain mechanisms |
+| 1974 | "The psychobiology of attention" (in *Handbook of Psychobiology*) | 章节 / Chapter | 注意力的心理生物学基础首次系统论述 / First systematic treatment of the psychobiology of attention |
+| 1978 | *Chronometric Explorations of Mind* (Erlbaum) | 专著 / Book | 心理计时学方法论的系统阐述；通过反应时间分析揭示认知处理的内部结构 / Systematic articulation of chronometric methodology; revealing internal structure of cognitive processing through reaction time analysis |
+| 1980 | "Orienting of attention" (*QJEP*, 32, 3-25) | 论文 / Paper | 提出空间注意的聚光灯隐喻；线索提示范式的经典论文 / Proposes the spotlight metaphor of spatial attention; classic paper on the cueing paradigm |
+| 1984 | "Components of visual orienting" (with Cohen, in *Attention and Performance X*) | 论文 / Paper | 将定向分解为解除、转移和重新锁定三个子过程；首次报告回返抑制（IOR） / Decomposes orienting into disengaging, moving, and re-engaging sub-processes; first report of inhibition of return (IOR) |
+| 1988 | "Localization of cognitive operations in the human brain" (with Petersen, Fox, & Mintun, *Nature*) | 论文 / Paper | 首次用 PET 成像在活体人脑中定位认知操作 / First use of PET imaging to localize cognitive operations in the living human brain |
+| 1989 | "Attention and cognitive control" (with Snyder) | 章节 / Chapter | 注意力与认知控制的关系论述 / Discussion of the relationship between attention and cognitive control |
+| 1990 | "The attention system of the human brain" (with Petersen, *Annual Review of Neuroscience*, 13, 25-42) | 论文 / Paper | **里程碑论文**：正式提出注意力三网络模型（警觉、定向、执行控制） / **Landmark paper**: formally proposes the three-network model of attention (alerting, orienting, executive control) |
+| 1994 | *Images of Mind* (with Raichle, Scientific American Library) | 专著 / Book | 脑成像技术与认知神经科学的普及读物；向公众介绍脑功能成像的发现 / Popular work on brain imaging and cognitive neuroscience; introducing brain functional imaging findings to the public |
+| 1996 | "Attention and brain function: A broader view" | 论文 / Paper | 注意力研究的综合回顾与展望 / Comprehensive review and outlook on attention research |
+| 1997 | "Parietal lobe contributions to orientation in 3D space" (with Cohen & Rafal) | 论文 / Paper | 顶叶在三维空间定向中的作用 / Role of parietal lobe in three-dimensional spatial orienting |
+| 2000 | "The development of attentional networks" (with Rothbart) | 论文 / Paper | 注意力网络在儿童期的发展轨迹 / Developmental trajectory of attention networks in childhood |
+| 2002 | "Testing the efficiency and independence of attentional networks" (Fan, McCandliss, Sommer, Raz, & Posner, *J. Cognitive Neuroscience*, 14, 340-347) | 论文 / Paper | 开发注意力网络测试（ANT），实现三网络同时评估 / Develops the Attention Network Test (ANT), enabling simultaneous assessment of three networks |
+| 2004 | "Development of attentional networks in childhood" (Rueda, Fan, McCandliss, et al., *Neuropsychologia*) | 论文 / Paper | 儿童注意力网络发展的详细研究 / Detailed study of attention network development in children |
+| 2005 | "Attention network test for adults" (Fan, McCandliss, Fossella, Flombaum, & Posner) | 论文 / Paper | ANT 在成人样本中的验证 / Validation of ANT in adult samples |
+| 2007 | *Educating the Human Brain* (with Rothbart, APA) | 专著 / Book | 将注意力网络理论应用于教育实践；探讨脑科学对教学的启示 / Applies attention network theory to educational practice; explores brain science implications for teaching |
+| 2007 | "Short-term meditation training improves attention and self-regulation" (Tang, Ma, Wang, et al., including Posner, *PNAS*) | 论文 / Paper | 短期冥想训练改善注意力和自我调节的实证研究 / Empirical study showing short-term meditation training improves attention and self-regulation |
+| 2009 | "Attention training and meditation" | 章节 / Chapter | 注意力训练与冥想的认知神经科学研究 / Cognitive neuroscience research on attention training and meditation |
+| 2012 | *Attention in a Social World* (Oxford University Press) | 专著 / Book | 系统论述注意力的社会维度：联合注意、共情、社会认知 / Systematic treatment of the social dimension of attention: joint attention, empathy, social cognition |
+| 2012 | "The attention system of the human brain: 20 years after" (with Petersen, *Annual Review of Neuroscience*, 35, 73-89) | 论文 / Paper | 三网络理论20周年的回顾与更新 / 20-year retrospective and update of the three-network theory |
+| 2015 | "The neuroscience of mindfulness meditation" (Tang, Holzel, & Posner, *Nature Reviews Neuroscience*, 16, 213-225) | 论文 / Paper | 正念冥想的神经科学综合评述 / Comprehensive review of the neuroscience of mindfulness meditation |
+| 2016 | "Meditation and self-control" | 章节 / Chapter | 冥想与自我控制的认知神经科学分析 / Cognitive neuroscience analysis of meditation and self-control |
+| 2019 | "Attention and brain function: A broader view" (*Annual Review of Psychology*) | 论文 / Paper | 半世纪注意力研究的回顾与前瞻 / Half-century retrospective and outlook on attention research |
+| 2020 | "Attention and effort revisited" | 论文 / Paper | 对 Kahneman 注意力与努力命题的重新审视 / Revisiting Kahneman's propositions on attention and effort |

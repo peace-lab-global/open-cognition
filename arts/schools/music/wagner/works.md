@@ -1,0 +1,102 @@
+---
+id: wagner-works
+title: "瓦格纳作品编年 · Wagner Works Chronology"
+type: bibliography
+thinker: wagner
+domain: arts
+school: music
+tags: [wagner, works, opera, music-drama, bibliography]
+cross-refs:
+  - wagner
+  - gesamtkunstwerk
+  - leitmotif
+  - music-drama
+  - ring-cycle
+  - chromatic-harmony
+---
+
+# 瓦格纳作品编年 · Wagner Works Chronology
+
+## 歌剧与乐剧 / Operas and Music Dramas
+
+瓦格纳的歌剧创作可分为三个阶段：早期浪漫歌剧（1832–1842）、中期乐剧探索（1843–1859）、晚期成熟乐剧（1862–1882）。他一生完成了十三部歌剧/乐剧（含《指环》四联剧）。
+
+Wagner's operatic output can be divided into three phases: early Romantic operas (1832–1842), middle-period music drama exploration (1843–1859), and late mature music dramas (1862–1882). He completed thirteen operas/music dramas in his lifetime (including the four *Ring* operas).
+
+| WWV | 年份 / Year | 原名 / Original Title | 中译 / Chinese Title | 类型 / Type | 首演 / Premiere | 意义 / Significance |
+|---|---|---|---|---|---|---|
+| 31 | 1832 | *Die Feen* | 《仙女》 | 浪漫歌剧 | 1888（遗作） | 早期习作，受韦伯影响 / Early exercise, influenced by Weber |
+| 38 | 1834–36 | *Das Liebesverbot* | 《恋爱禁令》 | 喜剧歌剧 | 1836, 马格德堡 | 受意大利歌剧影响 / Influenced by Italian opera |
+| 49 | 1837–42 | *Rienzi* | 《黎恩济》 | 大歌剧 | 1842, 德累斯顿 | 法国大歌剧风格的成功之作 / Grand opera success in the French style |
+| 51 | 1840–41 | *Der fliegende Holländer* | 《漂泊的荷兰人》 | 浪漫歌剧 | 1843, 德累斯顿 | 主导动机系统化；"救赎通过爱"主题的起点 / Systematized leitmotifs; starting point of "redemption through love" |
+| 56 | 1842–45 | *Tannhäuser* | 《汤豪舍》 | 浪漫歌剧 | 1845, 德累斯顿 | 神圣与世俗之爱的冲突 / Conflict between sacred and profane love |
+| 75 | 1845–48 | *Lohengrin* | 《罗恩格林》 | 过渡性乐剧 | 1850, 魏玛（李斯特指挥） | 向乐剧的过渡；"圣杯叙述"的先声 / Transition toward music drama; precursor to Grail narratives |
+| 86 | 1853–54 | *Das Rheingold* | 《莱茵的黄金》 | 指环·序夜 | 1869, 慕尼黑 | 世界的起源与权力的原罪 / World's origin and power's original sin |
+| 86B | 1854–56 | *Die Walküre* | 《女武神》 | 指环·第一日 | 1870, 慕尼黑 | 爱与律法的冲突；"女武神的骑行" / Love vs. law; "Ride of the Valkyries" |
+| 86C | 1856–71 | *Siegfried* | 《齐格弗里德》 | 指环·第二日 | 1876, 拜罗伊特 | "自由英雄"的诞生与天真 / Birth and naivety of the "free hero" |
+| 86D | 1869–74 | *Götterdämmerung* | 《众神的黄昏》 | 指环·第三日 | 1876, 拜罗伊特 | 世界的毁灭与救赎 / Destruction and redemption of the world |
+| 90 | 1857–59 | *Tristan und Isolde* | 《特里斯坦与伊索尔德》 | 乐剧 | 1865, 慕尼黑 | 半音化革命；调性悬置 / Chromatic revolution; tonal suspension |
+| 96 | 1862–67 | *Die Meistersinger von Nürnberg* | 《纽伦堡的名歌手》 | 喜歌剧/乐剧 | 1868, 慕尼黑 | 对德国艺术传统的赞颂与反思 / Celebration and reflection on German artistic tradition |
+| 111 | 1877–82 | *Parsifal* | 《帕西法尔》 | "舞台祭献节日剧" | 1882, 拜罗伊特 | 救赎与同情；基督教与佛教的融合 / Redemption and compassion; fusion of Christianity and Buddhism |
+
+## 管弦乐作品 / Orchestral Works
+
+| WWV | 年份 / Year | 作品 / Work | 说明 / Notes |
+|---|---|---|---|
+| 42 | 1844 | *Das Liebesmahl der Apostel* | 《使徒的爱宴》——为大型男声合唱与管弦乐队 / For large male chorus and orchestra |
+| 78 | 1857 | *Siegfried-Idyll* | 《齐格弗里德牧歌》——为科西玛生日创作的室内乐 / Chamber music composed for Cosima's birthday |
+| 87 | 1870 | *Kaisermarsch* | 《皇帝进行曲》 |
+| 105 | 1876 | *Festmarsch* | 《节日进行曲》——为美国百年博览会 / For the U.S. Centennial Exposition |
+
+## 理论著作与散文 / Theoretical Writings and Essays
+
+瓦格纳的理论著作收集在十六卷本的《著作与诗集》（*Gesammelte Schriften und Dichtungen*，简称GS）中，涵盖音乐美学、戏剧理论、政治评论、文化批评等多个领域。
+
+Wagner's theoretical writings are collected in the sixteen-volume *Gesammelte Schriften und Dichtungen* (GS), covering musical aesthetics, dramatic theory, political commentary, cultural criticism, and other fields.
+
+| 年份 / Year | 原名 / Title | 中译 / Chinese | 核心内容 / Core Content |
+|---|---|---|---|
+| 1849 | *Die Kunst und die Revolution* | 《艺术与革命》 | 艺术的社会使命；总体艺术的纲领 / Art's social mission; program of Gesamtkunstwerk |
+| 1849 | *Das Kunstwerk der Zukunft* | 《未来的艺术作品》 | 各门艺术的统一；人民性的艺术 / Unity of all arts; art for the people |
+| 1850 | *Das Judentum in der Musik* | 《音乐中的犹太性》 | 争议性反犹论文（1869年扩充再版）/ Controversial antisemitic essay (expanded reprint 1869) |
+| 1851 | *Oper und Drama* | 《歌剧与戏剧》 | 乐剧理论的体系化论述 / Systematic exposition of music drama theory |
+| 1851 | *Eine Mitteilung an meine Freunde* | 《致友人书》 | 自传性理论陈述 / Autobiographical theoretical statement |
+| 1860 | *Zukunftsmusik* | 《未来音乐》 | 致法国评论家的信，概述其美学立场 / Letter to French critic, summarizing aesthetic position |
+| 1870 | *Beethoven* | 《贝多芬论》 | 受叔本华影响的音乐形而上学 / Musical metaphysics influenced by Schopenhauer |
+| 1880 | *Religion und Kunst* | 《宗教与艺术》 | 晚年宗教沉思 / Late religious meditations |
+
+## 重要书信集 / Important Correspondence
+
+- **致李斯特的书信**（1849–1883）：涵盖《指环》与《特里斯坦》创作过程的核心通信 / Letters to Liszt covering the core creative process of the *Ring* and *Tristan*
+- **致玛蒂尔德·维森东克的书信**（1857–1859）：《特里斯坦》的情感与哲学背景 / Letters to Mathilde Wesendonck: the emotional and philosophical background of *Tristan*
+- **致汉斯·冯·彪罗与科西玛的书信**：拜罗伊特时期的家庭与艺术事务 / Letters to Hans von Bülow and Cosima: family and artistic affairs during the Bayreuth period
+
+## 遗作与未完成作品 / Posthumous and Unfinished Works
+
+- *Die Feen*（《仙女》，1832）：首演于瓦格纳逝世后的1888年 / Premiered posthumously in 1888
+- *Die Hochzeit*（《婚礼》，1832）：未完成歌剧片段 / Unfinished opera fragment
+- *Die Sarazenin*（《萨拉森女子》）：仅存草稿 / Only sketches survive
+- 多部未完成的戏剧计划，包括佛教题材的《征服者》（*Die Sieger*）/ Several unfinished drama plans, including the Buddhist-themed *Die Sieger* (The Victors)
+
+## 关键版本与译本 / Key Editions and Translations
+
+### 总谱 / Full Scores
+- *Richard Wagner: Sämtliche Werke* (SW). Mainz: Schott, 1970–.（学术评注版全集 / Scholarly critical edition of complete works）
+- Peters Edition: *Tristan und Isolde*, *Der Ring des Nibelungen*（实用版 / Practical edition）
+- G. Schirmer Edition: 各乐剧总谱与声乐谱 / Full scores and vocal scores of each music drama
+
+### 文字著作 / Writings
+- *Gesammelte Schriften und Dichtungen* (GS). 16 vols. Leipzig: E. W. Fritzsch, 1871–1883.
+- *Sämtliche Schriften und Dichtungen*. 12 vols. Leipzig, 1911–1916.
+- *Wagner's Prose Works*. Trans. William Ashton Ellis. 8 vols. London: Kegan Paul, 1892–1899.（英文全译 / Complete English translation）
+
+### 作品目录 / Works Catalogue
+- *Wagner Werk-Verzeichnis (WWV)*. Ed. John Deathridge, Martin Geck, Egon Voss. Mainz: Schott, 1986.（标准作品编号系统 / Standard works numbering system）
+
+## 阅读路径建议 / Suggested Reading Path
+
+**入门 / Introductory**：聆听《漂泊的荷兰人》序曲 → 《特里斯坦》前奏曲与"爱之死" → 了解总体艺术的基本概念 / Listen to *The Flying Dutchman* overture → *Tristan* prelude and *Liebestod* → learn basic Gesamtkunstwerk concept
+
+**进阶 / Intermediate**：完整聆听《特里斯坦与伊索尔德》→ 选听《指环》精华片段 → 阅读《未来的艺术作品》与《歌剧与戏剧》摘要 / Listen to complete *Tristan und Isolde* → selected *Ring* highlights → read excerpts from *Artwork of the Future* and *Opera and Drama*
+
+**深潜 / Advanced**：完整观看《指环》四联剧 → 完整观看《帕西法尔》→ 阅读全部理论著作 → 研究拜罗伊特演出史 / Watch complete *Ring* cycle → complete *Parsifal* → read all theoretical writings → study Bayreuth performance history

@@ -1,0 +1,124 @@
+---
+id: adler-reading-list
+title: "阿德勒进阶阅读 · Alfred Adler Reading List"
+type: reading-list
+domain: psychology
+school: individual-psychology
+thinker: adler
+---
+
+# 阿德勒进阶阅读 · Alfred Adler Reading List
+
+---
+
+## 原典 / Primary Sources
+
+### 必读 / Essential Reading
+
+| 书名 / Title | 年份 / Year | 说明 / Description |
+|---|---|---|
+| *What Life Should Mean to You*（《自卑与超越》）| 1931 | 阿德勒最广为阅读的作品。涵盖生活的意义、心灵与身体、自卑感与优越感、早期记忆、梦、学校影响、家庭星座、青春期、犯罪与预防、职业、个人与社会、爱情与婚姻等十二章。适合所有读者 / Adler's most widely read work. Twelve chapters covering life meaning, mind and body, inferiority and superiority, early memories, dreams, school influence, family constellation, adolescence, crime, occupation, the individual and society, love and marriage. Suitable for all readers |
+| *Understanding Human Nature*（《理解人性》）| 1927 | 分为两部分：第一部分论述人格的基础（灵魂、情感、目标追求、性格）；第二部分论述性格的发展（社会兴趣、生活风格、自卑与优越）。个体心理学的系统入门 / Two parts: Part I on the foundations of personality (soul, emotions, goal striving, character); Part II on character development (social interest, lifestyle, inferiority and superiority). Systematic introduction to Individual Psychology |
+| *The Neurotic Character*（《神经性格》）| 1912 | 个体心理学的第一部系统性著作。较为学术化，适合希望深入理解阿德勒理论发展脉络的研究者 / First systematic work of Individual Psychology. More academic; suited for researchers wishing to deeply understand the development of Adler's theory |
+
+### 推荐 / Recommended
+
+| 书名 / Title | 年份 / Year | 说明 / Description |
+|---|---|---|
+| *The Practice and Theory of Individual Psychology*（《个体心理学的实践与理论》）| 1920 | 临床方法论和治疗技术的系统阐述 / Systematic exposition of clinical methodology and therapeutic techniques |
+| *The Science of Living*（《生活的科学》）| 1929 | 面向大众的实践性著作，探讨自卑、教育、职业和人际关系 / Popular practical work exploring inferiority, education, occupation, and relationships |
+| *The Meaning of Life*（《生活的意义》）| 1933 | 阿德勒晚期最具哲学深度的著作 / Adler's most philosophically deep work from his late period |
+| *Problems of Neurosis*（《神经症问题》）| 1929 | 对各类神经症的个体心理学分析 / Individual Psychology analysis of various neuroses |
+| *The Case of Miss R.*（《R小姐案例》）| 1930 | 详细的临床案例研究，展示了阿德勒的治疗方法 / Detailed clinical case study demonstrating Adler's therapeutic approach |
+
+---
+
+## 二手研究 / Secondary Studies
+
+### 经典传记与综述 / Classic Biographies and Overviews
+
+| 书名 / Title | 作者 / Author | 年份 / Year | 说明 / Description |
+|---|---|---|---|
+| *The Individual Psychology of Alfred Adler*（《阿德勒个体心理学选集》）| Heinz & Rowena Ansbacher (eds.) | 1956 | **最重要的二手文献**。从阿德勒全部著作中系统选编，涵盖个体心理学所有核心主题，附有安斯巴赫尔的导读和注释 / **Most important secondary work**. Systematic selections from all of Adler's writings, covering all core themes of Individual Psychology, with Ansbacher's introductions and annotations |
+| *Superiority and Social Interest*（《优越与社会兴趣》）| Heinz & Rowena Ansbacher (eds.) | 1964 | 晚期著作选集，补充了1956年选集未涵盖的材料 / Collection of later writings, supplementing material not covered in the 1956 anthology |
+| *Alfred Adler: A Biography*（《阿德勒传》）| Hertha Orgler | 1966 | 早期的重要传记 / Important early biography |
+| *Alfred Adler: The Forgotten Prophet*（《阿德勒：被遗忘的先知》）| Henry T. Stein | 2005 | 从当代视角重新评估阿德勒的思想遗产 / Reassessment of Adler's intellectual legacy from a contemporary perspective |
+| *Alfred Adler: An Introduction to His Psychology*（《阿德勒心理学导论》）| F. J. Weymans | 1973 | 面向初学者的系统导论 / Systematic introduction for beginners |
+
+### 当代治疗实践 / Contemporary Clinical Practice
+
+| 书名 / Title | 作者 / Author | 年份 / Year | 说明 / Description |
+|---|---|---|---|
+| *Adlerian Psychotherapy: An Overview of Theory and Practice*（《阿德勒心理治疗：理论与实践概述》）| Matt Clark | 2013 | 当代阿德勒治疗的全面指南 / Comprehensive guide to contemporary Adlerian therapy |
+| *Adlerian Counseling and Psychotherapy*（《阿德勒咨询与心理治疗》）| Don Dinkmeyer, Sr. et al. | 2015 (6th ed.) | 教科书级别的治疗实践指南 / Textbook-level therapeutic practice guide |
+| *Theories and Strategies of Family Therapy*（《家庭治疗的理论与实践》）| Jon Carlson & Matt Englar-Carlson | 2017 | 家庭治疗中的阿德勒视角 / Adlerian perspectives in family therapy |
+| *Learning Theory Through Case Studies*（《通过案例学习理论》）| Jon Carlson & Matt Englar-Carlson | 2017 | 通过案例研究学习阿德勒理论 / Learning Adlerian theory through case studies |
+
+### 教育应用 / Educational Applications
+
+| 书名 / Title | 作者 / Author | 年份 / Year | 说明 / Description |
+|---|---|---|---|
+| *Positive Discipline*（《正面管教》）| Jane Nelsen | 1981 (多次修订) | 基于阿德勒和德莱库尔斯理论的教育方法，全球畅销 / Educational method based on Adler and Dreikurs, global bestseller |
+| *Children: The Challenge*（《儿童：挑战》）| Rudolf Dreikurs & Vicki Soltz | 1964 | 经典的阿德勒式亲子教育著作 / Classic Adlerian parenting book |
+| *Adlerian Play Therapy*（《阿德勒式游戏治疗》）| Terry Kottman | 2011 | 结合阿德勒理论与游戏治疗的儿童治疗方法 / Child therapy method combining Adlerian theory with play therapy |
+
+---
+
+## 中文资源 / Chinese Resources
+
+### 原典中译本 / Chinese Translations of Primary Sources
+
+| 书名 / Title | 出版社 / Publisher | 说明 / Description |
+|---|---|---|
+| 《自卑与超越》| 吉林出版集团 / 多家出版社 | *What Life Should Mean to You* 中译本，有多个版本。推荐选择注释较详尽的版本 / Chinese translation, multiple editions available. Recommend editions with thorough annotations |
+| 《理解人性》| 国际文化出版公司 / 多家出版社 | *Understanding Human Nature* 中译本 / Chinese translation |
+| 《阿德勒全集》| 多家出版社 | 部分著作已有中译，但尚无完整的学术版全集 / Some works translated; no complete scholarly edition yet |
+
+### 中文二手研究 / Chinese Secondary Studies
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《被讨厌的勇气》| 岸见一郎、古贺史健 | 以对话体通俗阐释阿德勒思想，在日本和东亚引起巨大反响。虽然并非严格的学术著作，但对理解阿德勒的人际关系哲学极有帮助 / Popular dialogue-format interpretation of Adler's thought, hugely influential in Japan and East Asia. Not strictly academic but extremely helpful for understanding Adler's interpersonal philosophy |
+| 《幸福的勇气》| 岸见一郎 | 《被讨厌的勇气》续篇，进一步深化了阿德勒关于教育、工作和爱的讨论 / Sequel to *The Courage to Be Disliked*, further deepening discussions of Adler on education, work, and love |
+| 《阿德勒心理学讲义》| 岸见一郎 | 更系统化的阿德勒思想导论 / More systematic introduction to Adler's thought |
+| 《个体心理学入门》| 多位编者 | 中文学术导论 / Chinese academic introduction |
+
+---
+
+## 英文学术资源 / English Academic Resources
+
+### 期刊 / Journals
+
+| 名称 / Name | 说明 / Description |
+|---|---|
+| *The Journal of Individual Psychology* | 北美阿德勒心理学会官方期刊 / Official journal of the North American Society of Adlerian Psychology |
+| *Journal of Adlerian Theory, Research & Practice* | 国际阿德勒心理学会关联期刊 / Journal associated with the International Association of Individual Psychology |
+
+### 学术组织 / Academic Organizations
+
+| 组织 / Organization | 网址 / Website | 说明 / Description |
+|---|---|---|
+| 北美阿德勒心理学会 (NASAP) | alfredadler.org | 北美最大的阿德勒心理学组织 / Largest North American Adlerian organization |
+| 国际阿德勒心理学会 (IAIP) | iaipwebsite.org | 国际性学术组织 / International academic organization |
+| 阿尔弗雷德·阿德勒研究生协会 (NAAAPSA) | — | 研究生学术网络 / Graduate student academic network |
+| 阿德勒研究生院 (Adler Graduate School) | alfredadler.edu | 阿德勒学派专业培训 / Adlerian professional training |
+
+---
+
+## 相关领域阅读 / Related Field Reading
+
+### 受阿德勒影响的思想家 / Thinkers Influenced by Adler
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| *Man's Search for Meaning*（《活出生命的意义》）| Viktor Frankl | 弗兰克尔的意义疗法直接受阿德勒影响 / Frankl's logotherapy directly influenced by Adler |
+| *Toward a Psychology of Being*（《存在心理学探索》）| Abraham Maslow | 马斯洛承认阿德勒对其人本主义心理学的影响 / Maslow acknowledged Adler's influence on his humanistic psychology |
+| *On Becoming a Person*（《论人的成长》）| Carl Rogers | 罗杰斯的来访者中心疗法与阿德勒的治疗关系观有诸多共鸣 / Rogers' client-centered therapy shares many resonances with Adler's view of the therapeutic relationship |
+| *Reason and Emotion in Psychotherapy*（《心理治疗中的理性与情感》）| Albert Ellis | 埃利斯的REBT大量借鉴了阿德勒的思想 / Ellis's REBT draws heavily on Adler's ideas |
+
+### 比较研究 / Comparative Studies
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| *Freud, Adler, and Jung: An Empirical Comparison*（《弗洛伊德、阿德勒与荣格：实证比较》）| — | 三大深度心理学创始人的系统比较 / Systematic comparison of the three founders of depth psychology |
+| *Adler and Freud: A Comparative Analysis*（《阿德勒与弗洛伊德：比较分析》）| — | 阿德勒与弗洛伊德理论分歧的深入分析 / In-depth analysis of Adler-Freud theoretical divergence |

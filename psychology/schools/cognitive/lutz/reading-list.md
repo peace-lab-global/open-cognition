@@ -1,0 +1,110 @@
+---
+id: lutz-reading-list
+title: "卢茨进阶阅读 / Reading Guide for Antoine Lutz"
+type: reading-list
+domain: psychology
+school: cognitive
+thinker: lutz
+---
+
+# 卢茨进阶阅读 / Reading Guide for Antoine Lutz
+
+## 阅读路径 / Reading Path
+
+### 入门（3篇）
+1. Lutz, A. et al. (2004). "Long-term meditators self-induce high-amplitude gamma synchrony during mental practice." *PNAS*, 101(46), 16369–16373. — γ 波同步的里程碑论文，冥想神经科学的必读文献
+2. Lutz, A. et al. (2008). "Attention regulation and monitoring in meditation." *Trends in Cognitive Sciences*, 12(4), 163–169. — FA/OM 区分的经典综述，该领域引用最高的论文之一
+3. Goleman, D. & Davidson, R. J. (2017). *Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body*. Avery. — 冥想神经科学最佳大众读物，大量引用 Lutz 的研究
+
+### 进阶（5篇）
+4. Lutz, A., Dunne, J. D., & Davidson, R. J. (2007). "Meditation and the neuroscience of consciousness." In P. Zelazo, M. Moscovitch, & E. Thompson (Eds.), *The Cambridge Handbook of Consciousness*. Cambridge UP. — 冥想与意识神经科学的系统综述
+5. Lutz, A. et al. (2008). "Regulation of the neural circuitry of emotion by compassion meditation." *PLoS ONE*, 3(3), e1897. — 慈悲冥想的神经机制实证研究
+6. Lutz, A. & Thompson, E. (2003). "Neurophenomenology: Integrating subjective experience and brain dynamics." *Journal of Consciousness Studies*, 10(9-10), 31–52. — 第一人称方法论的核心文献
+7. Lutz, A. et al. (2015). "Reconstructing and deconstructing the self in meditation." *Trends in Cognitive Sciences*. — 冥想与自我的最新理论分析
+8. Davidson, R. J. & Lutz, A. (2008). "Buddha's brain: Neuroplasticity and meditation." *IEEE Signal Processing Magazine*, 25(1), 176–174. — 神经可塑性视角的冥想研究
+
+### 深读（5篇）
+9. Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330–349. — 卢茨方法论的理论源头
+10. Lutz, A. et al. (2013). "Investigating the phenomenological matrix of mindfulness-related practices." *American Psychologist*. — 冥想现象学的系统分析框架
+11. Hölzel, B. K. et al. (2011). "How does mindfulness meditation work?" *Perspectives on Psychological Science*, 6(6), 537–559. — 冥想机制的综合分析
+12. Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. (2015). "The neuroscience of mindfulness meditation." *Nature Reviews Neuroscience*, 16, 213–225. — 冥想神经科学的权威综述
+13. Thompson, E. (2014). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard UP. — 神经现象学的哲学深度著作
+
+## 原典翻译 / Translations
+
+### 中文译本
+
+| 著作 | 中文书名 | 出版社 | 年份 |
+|------|----------|--------|------|
+| Goleman & Davidson, *Altered Traits* (2017) | 《改变：冥想如何重塑你的心智、大脑和身体》 | 中信出版社 | 2018 |
+| Davidson & Begley, *The Emotional Life of Your Brain* (2012) | 《大脑的情绪生活》 | 湛庐文化 | 2013 |
+| Kabat-Zinn, *Full Catastrophe Living* (1990) | 《正念：此刻是一枝花》 | 机械工业出版社 | 2015 |
+| Kabat-Zinn, *Wherever You Go, There You Are* (1994) | 《正念的奇迹》 | 中信出版社 | 2016 |
+
+### 中文综述论文
+- Lutz 相关研究的中译综述散见于《心理科学进展》《心理学报》《中国临床心理学杂志》
+- 正念冥想的神经机制研究综述可见《心理科学》和《心理与行为研究》
+
+## 英文二手研究 / English Secondary Literature
+
+### 冥想神经科学
+
+| 著作 | 作者 | 出版社/期刊 | 年份 | 说明 |
+|------|------|-------------|------|------|
+| *Altered Traits* | Goleman & Davidson | Avery | 2017 | 冥想科学最佳综述，大量引用 Lutz |
+| *The Emotional Life of Your Brain* | Davidson & Begley | Hudson Street | 2012 | Davidson 的自传性叙述 |
+| *The Embodied Mind* | Varela, Thompson & Rosch | MIT Press | 1991/2016 | 神经现象学的奠基著作 |
+| *Mind in Life* | Thompson | Harvard UP | 2007/2014 | 从现象学到生命科学的桥梁 |
+
+### 正念与冥想心理学
+
+| 著作 | 作者 | 出版社/期刊 | 年份 | 说明 |
+|------|------|-------------|------|------|
+| *Full Catastrophe Living* | Kabat-Zinn | Bantam | 1990/2013 | 正念减压创始文本 |
+| *Mindfulness-Based Cognitive Therapy for Depression* | Segal, Williams & Teasdale | Guilford | 2002/2013 | MBCT 的标准手册 |
+| *Self-Compassion* | Neff | William Morrow | 2011 | 自我慈悲研究 |
+| *The Compassionate Mind* | Gilbert | Constable | 2009 | 慈悲聚焦疗法 |
+
+### 意识与神经现象学
+
+| 著作 | 作者 | 出版社/期刊 | 年份 | 说明 |
+|------|------|-------------|------|------|
+| *The Conscious Mind* | Chalmers | Oxford UP | 1996 | 意识"难问题"的经典阐述 |
+| *Consciousness Explained* | Dennett | Little, Brown | 1991 | 意识的功能主义解释 |
+| *A Universe of Consciousness* | Edelman & Tononi | Basic Books | 2000 | 整合信息理论的前身 |
+| *Being You* | Seth | Faber | 2021 | 当代意识科学最佳读物之一 |
+
+## 相关主题 / Related Topics
+
+### 佛教哲学与禅修传统
+- 上座部阿毗达摩（Abhidhamma）——佛教最系统的心理分析
+- 唯识学（Yogācāra）——意识与认知的佛教哲学
+- 中观学（Mādhyamaka）——空性与认知的关系
+- 藏传佛教大手印（Mahāmudrā）和大圆满（Dzogchen）——高阶禅修传统
+
+### 认知科学与意识研究
+- 全局工作空间理论（Global Workspace Theory, Baars）
+- 整合信息理论（Integrated Information Theory, Tononi）
+- 预测编码理论（Predictive Coding, Friston & Clark）
+- 具身认知（Embodied Cognition, Varela, Thompson, Chemero）
+
+### 临床心理学与正念干预
+- 正念减压疗法（MBSR, Kabat-Zinn）
+- 正念认知疗法（MBCT, Segal, Williams & Teasdale）
+- 接纳承诺疗法（ACT, Hayes）
+- 辩证行为疗法（DBT, Linehan）
+- 慈悲聚焦疗法（CFT, Gilbert）
+
+### 神经科学与大脑
+- 神经可塑性的经典研究（Merzenich, Pascual-Leone）
+- 默认模式网络的发现（Raichle）
+- 情绪神经科学（Davidson, LeDoux）
+- 社会神经科学（Cacioppo, Singer）
+
+## 数字资源 / Digital Resources
+
+- **Mind & Life Institute** (mindandlife.org) — 达赖喇嘛与科学家的对话系列，Lutz 多次参与
+- **Center for Healthy Minds** (centerhealthyminds.org) — Davidson 实验室，Lutz 的前研究基地
+- **INSERM** (inserm.fr) — Lutz 当前所在的法国研究机构
+- **PubMed** — 搜索 "Lutz A meditation" 可获取 Lutz 的全部学术论文
+- **Google Scholar** — 追踪 Lutz 论文的引用情况和最新研究

@@ -1,0 +1,45 @@
+---
+id: aesthetics.literary-theory.saussure.works
+title: 索绪尔著作列表 / Saussure Works
+type: works
+parent: aesthetics.literary-theory.saussure
+---
+
+# 索绪尔著作列表 / Saussure Bibliography
+
+## 生前出版 / Published During Lifetime
+
+| 年份 | 法文标题 | 中文译名 | 核心主题 |
+|------|---------|----------|----------|
+| 1879 | *Mémoire sur le système primitif des voyelles dans les langues indo-européennes* | 《论印欧语元音的原始系统》 | 喉音理论 |
+| 1880 | *De l'emploi du génitif absolu en sanscrit* | 《论梵语中绝对属格的用法》 | 博士论文 |
+
+## 身后出版 / Posthumous Publications
+
+| 年份 | 标题 | 说明 |
+|------|------|------|
+| 1916 | *Cours de linguistique générale* / 《普通语言学教程》 | Bally & Sechehaye 编辑 |
+| 1993 | *Troisième cours de linguistique générale* / 《第三次普通语言学教程》 | Komatsu 编辑 |
+| 2002 | *Écrits de linguistique générale* / 《普通语言学手稿》 | 原始手稿 |
+| 2006 | *Writings in General Linguistics* (English) | 手稿英文版 |
+
+## 《普通语言学教程》结构 / Structure of the Course
+
+| 部分 | 内容 |
+|------|------|
+| 导言 | 语言学的对象，语言/言语区分 |
+| 第一篇 | 一般原则——符号、不变性与可变性 |
+| 第二篇 | 共时语言学——价值、关系 |
+| 第三篇 | 历时语言学——语音变化、类比 |
+| 第四篇 | 地理语言学 |
+| 第五篇 | 回顾性语言学，结论 |
+
+## 推荐中译本 / Recommended Chinese Translations
+
+- 《普通语言学教程》，高名凯译，商务印书馆，1980 — 经典权威译本
+- 《普通语言学教程》，刘丽译，九州出版社 — 较新译本
+- 《索绪尔第三次普通语言学教程》，张绍杰译，湖南教育出版社
+
+---
+
+*另见：[[README|索绪尔]] | [[reading-list|推荐阅读]]*

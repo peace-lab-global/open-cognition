@@ -1,0 +1,148 @@
+---
+id: psychology.cognitive.flavell.concepts.theory-of-mind
+title: "心理理论 · Theory of Mind"
+type: concept
+parent: psychology.cognitive.flavell
+thinker: John Flavell
+tags: [心理理论, theory of mind, 社会认知, 儿童发展, 心智化]
+---
+
+# 心理理论 · Theory of Mind
+
+> "Children's understanding of the mind is one of the most important developments of early childhood."
+>
+> "儿童对心灵的理解是早期童年最重要的发展之一。"
+> — Flavell, 2004
+
+## 定义 · Definition
+
+**中文**：**心理理论**（Theory of Mind, ToM）是指个体理解自己和他人拥有心理状态（如信念、愿望、意图、情感），并且这些心理状态会影响行为的能力。弗拉维尔是心理理论研究的重要先驱之一。他将元认知研究从"认识自己的认知过程"延伸到"理解他人的心理状态"，从而架起了认知发展与社会认知之间的桥梁。
+
+**EN**: **Theory of Mind (ToM)** refers to the ability to understand that oneself and others possess mental states (such as beliefs, desires, intentions, and emotions) that influence behavior. Flavell was one of the important pioneers of ToM research. He extended metacognitive research from "understanding one's own cognitive processes" to "understanding others' mental states," thereby building a bridge between cognitive development and social cognition.
+
+## 核心机制 · Core Mechanisms
+
+### 心理理论的层次结构 · Hierarchical Structure of ToM
+
+**中文**：弗拉维尔及其同事将心理理论的发展描述为一个渐进的、多层次的过程：
+
+1. **理解"看见"（Level 1, 约2–3岁）**：认识到他人可能与自己看到不同的东西。儿童开始理解视角的物理差异——"我能看到的，你可能看不到。"
+
+2. **理解"知道"（Level 2, 约4–5岁）**：认识到拥有不同的信息会导致不同的知识状态。儿童开始理解"如果他没看到我把球藏到新位置，他会以为球还在旧位置。"
+
+3. **理解"信念"（Level 3, 约4–5岁）**：认识到他人可能持有错误信念（false belief）——即他人可能相信与现实不符的事情。经典测试是**错误信念任务**（false-belief task）。
+
+4. **理解"表象与现实"（Level 4, 约5–6岁）**：认识到事物的外表可能与实际不同。例如，一块看起来像石头的海绵。
+
+5. **高阶心理理论（Level 5, 约6岁以后）**：理解二阶信念（"A认为B认为……"）、讽刺、隐喻、白色谎言等复杂社会认知现象。
+
+**EN**: Flavell and colleagues described ToM development as a gradual, multi-level process:
+
+1. **Understanding "seeing" (Level 1, ~2–3 years)**: Recognizing that others may see different things from oneself.
+2. **Understanding "knowing" (Level 2, ~4–5 years)**: Recognizing that different information leads to different knowledge states.
+3. **Understanding "belief" (Level 3, ~4–5 years)**: Recognizing that others may hold false beliefs — believing things inconsistent with reality. The classic test is the **false-belief task**.
+4. **Understanding "appearance vs. reality" (Level 4, ~5–6 years)**: Recognizing that things may appear different from what they are.
+5. **Advanced ToM (Level 5, ~6+ years)**: Understanding second-order beliefs ("A thinks that B thinks..."), irony, metaphor, white lies, and other complex social cognitive phenomena.
+
+### 从元认知到心理理论 · From Metacognition to ToM
+
+**中文**：弗拉维尔将心理理论视为元认知的社会延伸。元认知关注"我的认知状态是什么"，而心理理论关注"他人的认知状态是什么"。二者共享一个核心能力：**表征性理解**（representational understanding）——认识到心理状态是对现实的表征（representation），而非现实本身。
+
+这一观点深刻影响了后续研究。例如，Wellman 的"信念-愿望心理学"（belief-desire psychology）理论和 Perner 的"表征心智"（representational mind）理论都在弗拉维尔的框架上进一步发展。
+
+**EN**: Flavell viewed ToM as a social extension of metacognition. Metacognition asks "What is my cognitive state?" while ToM asks "What is another's cognitive state?" Both share a core capacity: **representational understanding** — recognizing that mental states are representations of reality, not reality itself.
+
+This perspective profoundly influenced subsequent research. For example, Wellman's "belief-desire psychology" theory and Perner's "representational mind" theory both further developed on Flavell's framework.
+
+### 心理理论与社会适应 · ToM and Social Adaptation
+
+**中文**：弗拉维尔强调，心理理论不仅是认知成就，更是社会适应的基础。能够理解他人心理状态的儿童，在以下方面表现更优：
+
+- **社会沟通**：能根据听者的知识状态调整自己的表达方式。
+- **共情能力**：能理解他人的情感体验。
+- **冲突解决**：能理解分歧背后的不同立场。
+- **欺骗与信任**：能理解欺骗的本质（让他人持有错误信念）。
+
+**EN**: Flavell emphasized that ToM is not merely a cognitive achievement but the foundation of social adaptation. Children who understand others' mental states perform better in:
+
+- **Social communication**: Adjusting expression based on the listener's knowledge state.
+- **Empathy**: Understanding others' emotional experiences.
+- **Conflict resolution**: Understanding different positions behind disagreements.
+- **Deception and trust**: Understanding the essence of deception (causing others to hold false beliefs).
+
+## 发展脉络 · Developmental Trajectory
+
+### 婴儿期的前兆 · Precursors in Infancy
+
+**中文**：近年来的研究表明，心理理论的某些成分可能在婴儿期就已出现。Onishi & Baillargeon（2005）使用违反预期范式发现，15个月大的婴儿似乎能理解他人的错误信念。但弗拉维尔对此持谨慎态度，认为这种早期"理解"可能是隐性的（implicit），不同于后来发展的显性心理理论（explicit ToM）。
+
+**EN**: Recent research suggests some components of ToM may emerge in infancy. Onishi & Baillargeon (2005) found that 15-month-old infants appear to understand others' false beliefs using violation-of-expectation paradigms. However, Flavell took a cautious stance, suggesting this early "understanding" may be implicit, different from the explicit ToM that develops later.
+
+### 错误信念的突破 · The False-Belief Breakthrough
+
+**中文**：约4–5岁时，大多数儿童能够正确通过错误信念任务——这是心理理论发展的标志性成就。弗拉维尔将这一突破与元认知发展联系起来：儿童不仅需要理解"他人可能想错了"，还需要同时维持两个相互矛盾的心理表征（"实际上球在A处，但他以为球在B处"）。这种双表征能力与元认知监控中对"我的理解可能是错的"的觉察密切相关。
+
+**EN**: Around age 4–5, most children can correctly pass false-belief tasks — a landmark achievement in ToM development. Flavell connected this breakthrough to metacognitive development: children need not only to understand "others might think wrongly" but also simultaneously maintain two contradictory mental representations ("Actually the ball is at A, but he thinks it's at B"). This dual-representation ability is closely related to the metacognitive monitoring awareness that "my understanding might be wrong."
+
+### 文化与个体差异 · Cultural and Individual Differences
+
+**中文**：心理理论的发展受文化环境影响。Flavell 及后续研究者注意到，在鼓励讨论心理状态的家庭和文化中，儿童的ToM发展更早。此外，自闭症谱系障碍（ASD）儿童在心理理论任务上表现出系统性困难——Baron-Cohen 等人的研究将这一发现与"心智盲"（mindblindness）假说联系起来。
+
+**EN**: ToM development is influenced by cultural environment. Flavell and subsequent researchers noted that children in families and cultures encouraging mental-state discussion develop ToM earlier. Additionally, children with autism spectrum disorder (ASD) show systematic difficulties on ToM tasks — Baron-Cohen et al. linked this finding to the "mindblindness" hypothesis.
+
+## 临床应用 · Clinical Applications
+
+### 自闭症谱系障碍 · Autism Spectrum Disorder
+
+**中文**：心理理论缺陷是自闭症谱系障碍的核心特征之一。基于Flavell等人建立的ToM发展阶段理论，临床心理学家开发了针对性的训练项目，帮助ASD儿童逐步发展心理理论能力——从理解"看见"到理解"信念"再到理解复杂的社会情境。
+
+**EN**: ToM deficits are one of the core features of ASD. Based on the developmental stage theory established by Flavell et al., clinical psychologists have developed targeted training programs helping ASD children progressively develop ToM abilities — from understanding "seeing" to understanding "belief" to understanding complex social situations.
+
+### 精神分裂症 · Schizophrenia
+
+**中文**：精神分裂症患者也表现出心理理论的困难，特别是在高阶ToM任务上。这可能与患者的社会功能障碍有关，为康复训练提供了干预方向。
+
+**EN**: Schizophrenia patients also show ToM difficulties, particularly on advanced ToM tasks. This may relate to patients' social dysfunction, providing intervention directions for rehabilitation training.
+
+### 正常发展评估 · Typical Development Assessment
+
+**中文**：心理理论任务已成为儿童发展评估的标准工具。临床医生使用错误信念任务、外表-现实任务等来评估儿童的社会认知发展水平，早期识别可能的发育迟缓。
+
+**EN**: ToM tasks have become standard tools in child development assessment. Clinicians use false-belief tasks, appearance-reality tasks, etc. to assess children's social cognitive development levels and identify potential developmental delays early.
+
+## 关联概念 · Related Concepts
+
+- **[[metacognition|元认知]]** — 心理理论是元认知的社会认知延伸
+- **[[metacognitive-knowledge|元认知知识]]** — 个人知识包括对他人心理状态的理解
+- **心智化**（Mentalization, Fonagy）— 精神分析传统的平行概念
+- **共情**（Empathy）— 与ToM情感维度密切相关
+- **执行功能**（Executive functions）— 与ToM共享认知抑制能力
+- **社会脑假说**（Social brain hypothesis, Dunbar）— ToM的进化背景
+
+## 东西方对话 · East-West Dialogue
+
+**中文**：心理理论与东亚思想传统中的"知心"传统有深刻呼应。孟子的"以意逆志"——通过理解对方的意图来理解其言论——正是心理理论在语言理解中的应用。庄子的"子非鱼，安知鱼之乐"则触及了心理理论的根本困难：我们能否真正理解他者的主观体验？
+
+佛教唯识学的"他心通"——能够了知他人心念的修行成就——可被视为心理理论在神秘主义维度上的投射：它承认"理解他心"的困难性，但认为通过修行可以达到。
+
+**EN**: ToM deeply resonates with the "knowing minds" tradition in East Asian thought. Mencius' "using intention to trace ambition" — understanding others' words by understanding their intentions — is ToM applied to linguistic understanding. Zhuangzi's "You are not a fish — how do you know the joy of fish?" touches the fundamental difficulty of ToM: Can we truly understand another's subjective experience?
+
+The Yogācāra Buddhist concept of "knowing other minds" (paracittajñāna) — a meditative achievement of knowing others' mental states — can be viewed as ToM projected onto a mystical dimension: it acknowledges the difficulty of "understanding other minds" while asserting that practice can achieve it.
+
+## 进阶阅读 · Further Reading
+
+**原典 · Primary**：
+- Flavell, J. H. (1999). "Cognitive development: Children's knowledge about the mind." *Annual Review of Psychology*, 50, 21–45.
+- Flavell, J. H., Green, F. L., & Flavell, E. R. (1995). "Young children's knowledge about thinking." *Monographs of the Society for Research in Child Development*, 60(1).
+
+**二手研究 · Secondary**：
+- Wellman, H. M. (1990). *The Child's Theory of Mind*. MIT Press.
+- Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
+- Premack, D., & Woodruff, G. (1978). "Does the chimpanzee have a theory of mind?" *Behavioral and Brain Sciences*, 1(4), 515–526.
+
+**中文资源 · Chinese**：
+- 张文新《儿童社会认知发展》
+- 李红、高山《儿童错误信念理解的研究》
+
+---
+返回 [[../README|弗拉维尔 · John Flavell]]

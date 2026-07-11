@@ -1,0 +1,60 @@
+---
+id: castells-reading-list
+title: 卡斯特进阶书单 · Castells Reading List
+type: reading-list
+domain: sociology
+thinker: castells
+school: network-society
+---
+
+# 卡斯特系统阅读指南 / Castells Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Manuel Castells* (2006) | Geoff Boucher | 简明思想评传 |
+| *Castells and the Media* (2007) | Judith Mariscal & Manuel Castells | 传播理论的对话式导论 |
+| *The Network Society: A Cross-Cultural Perspective* (2004) | Manuel Castells (ed.) | 多文化视角的网络社会 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《网络社会的崛起》 | 1996 | 信息资本主义；流动空间；网络企业 |
+| 《认同的力量》 | 1997 | 三种认同形式；社会运动 |
+| 《互联网星系》 | 2001 | 虚拟社区；互联网社会影响 |
+| 《愤怒与希望的网络》 | 2012 | 数字社会运动；连接性行动 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《千年终结》 | 1998 | 犯罪全球化；金融危机 |
+| 《传播权力》 | 2009 | 大众媒体权力；反权力 |
+| 《城市与草根》 | 1983 | 城市社会运动；认同 |
+| 《城市问题》 | 1972 | 马克思主义城市分析 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *The Network Society* (2005) | Jan van Dijk | 网络社会理论的比较与批判 |
+| *Digital Capital* (2000) | Dan Schiller | 数字资本主义的政治经济学批判 |
+| *Network Society and the Global Economy* | Gary Gereffi (ed.) | 全球价值链与网络社会 |
+| *Castells' The Information Age* (2003) | David Held & Anthony McGrew (eds.) | 信息时代的全球治理 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The Age of Surveillance Capitalism* (2019) | Shoshana Zuboff | 数据资本主义 |
+| *Platform Capitalism* (2017) | Nick Srnicek | 平台经济 |
+| *The Logic of Connective Action* (2013) | Bennett & Segerberg | 数字社会运动 |
+| *Smart Cities* (2013) | Antony Townsend | 智慧城市 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Boucher评传 → 《互联网星系》→ 《愤怒与希望的网络》选读
+**阶段二**（4-8周）: 《网络社会的崛起》→ 《认同的力量》（选读）
+**阶段三**（8周+）: 《传播权力》→ 《千年终结》→ 《城市与草根》→ 深度研究

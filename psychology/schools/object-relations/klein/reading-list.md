@@ -1,0 +1,121 @@
+---
+id: klein-reading-list
+title: "克莱因阅读指南 · Klein Reading Guide"
+type: reading-list
+thinker: klein-melanie
+school: object-relations
+---
+
+# 克莱因阅读指南 · Melanie Klein Reading Guide
+
+## 一、原典 / Primary Sources
+
+### 必读核心 / Essential Core
+
+| 著作 / Work | 年份 / Year | 说明 / Description |
+|------|------|------|
+| *The Psycho-Analysis of Children* | 1932 | **核心著作**。系统阐述游戏技术和儿童精神分析方法。建议从第8-9章（关于早期焦虑和超我形成）开始阅读。 Seminal work. Systematic articulation of play technique and child psychoanalysis. Recommended to start with chapters 8-9 (on early anxieties and superego formation). |
+| "Notes on Some Schizoid Mechanisms" | 1946 | **里程碑论文**。首次提出偏执-分裂位态和投射性认同。这篇论文是理解整个克莱因学派的必读之作。 Landmark paper. First formulation of paranoid-schizoid position and projective identification. Essential reading for understanding the entire Kleinian school. |
+| *Envy and Gratitude* | 1957 | **晚期重要著作**。探讨嫉羡的破坏性和感恩的治愈力量。这是克莱因最具争议也最深刻的著作之一。 Final major work. Explores the destructiveness of envy and the healing power of gratitude. One of Klein's most controversial yet profound works. |
+| *Love, Guilt and Reparation* | 1937 | 抑郁位态与修复理论的经典阐述。 Classic articulation of depressive position and reparation theory. |
+
+### 推荐进阶 / Recommended Advanced
+
+| 著作 / Work | 年份 / Year | 说明 / Description |
+|------|------|------|
+| *Narrative of a Child Analysis* | 1961 (遗著 / posthumous) | 对十岁男孩理查德的详细分析记录——展示了克莱因技术的实际操作。 Detailed record of analysis of a ten-year-old boy, Richard—demonstrates Klein's technique in practice. |
+| "Mourning and Its Relation to Manic-Depressive States" | 1940 | 哀悼过程与抑郁位态的关系——对弗洛伊德"哀悼与忧郁"的重要发展。 Relationship between mourning process and depressive position—important development of Freud's "Mourning and Melancholia." |
+| "On Identification" | 1955 | 认同机制的深入研究——包括对"项目性认同"（identificatory projection）的分析。 Advanced study of identification mechanisms—including analysis of identificatory projection. |
+| "On the Sense of Loneliness" | 1963 (遗著 / posthumous) | 克莱因最后的作品之一——探讨孤独感的起源和本质。 One of Klein's final works—exploring the origins and nature of loneliness. |
+
+## 二、二手研究 / Secondary Studies
+
+### 入门导论 / Introductory Guides
+
+| 著作 / Work | 作者 / Author | 年份 / Year | 说明 / Description |
+|------|------|------|------|
+| *Introduction to the Work of Melanie Klein* | Hanna Segal | 1964 (修订 1988) | **最佳入门书**。塞加尔是克莱因最亲密的合作者之一，她的介绍清晰、准确、富有洞见。 Best introductory book. Segal was one of Klein's closest collaborators; her introduction is clear, accurate, and insightful. |
+| *Melanie Klein* | Hanna Segal | 1979 | 更简短的入门介绍，适合初学者。 Shorter introductory guide, suitable for beginners. |
+| *Melanie Klein: Her Work in Context* | Meira Likierman | 2001 | 将克莱因的理论放在历史和文化背景中理解。 Places Klein's theories in historical and cultural context. |
+
+### 深度研究 / In-depth Studies
+
+| 著作 / Work | 作者 / Author | 年份 / Year | 说明 / Description |
+|------|------|------|------|
+| *Melanie Klein Today* (2 vols) | Elizabeth B. Spillius (ed.) | 1988 | **重要参考书**。两卷本涵盖克莱因理论的当代发展。 Vol.1：主要概念的发展；Vol.2：临床应用。 Important reference. Two volumes covering contemporary developments of Kleinian theory. Vol.1: development of main concepts; Vol.2: clinical applications. |
+| *The Selected Melanie Klein* | Juliet Mitchell (ed.) | 1986 | 精选集，包含重要论文和编者导论。 Selected works with important papers and editor's introduction. |
+| *Melanie Klein: Critical and Interdisciplinary Studies* | Adrienne Harris & Beatrice Ithier | 2022 | 当代跨学科视角下的克莱因研究。 Contemporary interdisciplinary perspectives on Klein. |
+
+### 传记 / Biography
+
+| 著作 / Work | 作者 / Author | 年份 / Year | 说明 / Description |
+|------|------|------|------|
+| *Melanie Klein: Her Life and Her Work* | Phyllis Grosskurth | 1986 | **权威传记**。详细记录了克莱因的生平和学术发展。 Authoritative biography. Detailed account of Klein's life and academic development. |
+| *Freud and the Non-European* | Edward Said | 2003 | 虽然不是克莱因传记，但涉及弗洛伊德和克莱因在文化身份问题上的比较。 Not a Klein biography, but includes comparison of Freud and Klein on cultural identity issues. |
+
+## 三、英文资源 / English Resources
+
+### 克莱因学派期刊 / Kleinian Journals
+
+- *International Journal of Psycho-Analysis* — 克莱因大部分论文的首次发表处 (Where most of Klein's papers were first published)
+- *Journal of Melanie Klein and Object Relations* — 专注于克莱因学派研究 (Focused on Kleinian studies)
+- *Psychoanalytic Inquiry* — 包含克莱因学派的当代讨论 (Includes contemporary Kleinian discussions)
+
+### 在线资源 / Online Resources
+
+- [Melanie Klein Trustees](https://melanieklein.org/) — 克莱因遗产的官方维护机构 (Official organization maintaining Klein's legacy)
+- [Psychoanalytic Electronic Publishing (PEP)](https://www.pep-web.org/) — 克莱因论文的电子版 (Electronic versions of Klein's papers)
+- [Internet Encyclopedia of Philosophy: Melanie Klein](https://iep.utm.edu/) — 哲学视角的克莱因介绍 (Philosophical perspective on Klein)
+
+## 四、相关思想家的著作 / Related Thinkers' Works
+
+### 前置阅读 / Prerequisite Reading
+
+| 著作 / Work | 作者 / Author | 说明 / Description |
+|------|------|------|
+| *Three Essays on the Theory of Sexuality* | Sigmund Freud | 弗洛伊德驱力理论——理解克莱因的理论前提 (Freud's drive theory—prerequisite for understanding Klein's theoretical starting point) |
+| "Mourning and Melancholia" | Sigmund Freud | 弗洛伊德的哀悼理论——克莱因在此基础上发展 (Freud's mourning theory—basis for Klein's development) |
+| *Beyond the Pleasure Principle* | Sigmund Freud | 死本能理论——克莱因保留了这一概念 (Death instinct theory—Klein retained this concept) |
+
+### 平行阅读 / Parallel Reading
+
+| 著作 / Work | 作者 / Author | 说明 / Description |
+|------|------|------|
+| *The Ego and the Mechanisms of Defence* | Anna Freud | 安娜·弗洛伊德的自我心理学——与克莱因的理论形成对比 (Anna Freud's ego psychology—contrasts with Klein's theory) |
+| *Playing and Reality* | D.W. Winnicott | 温尼科特的过渡空间理论——对克莱因的创造性发展 (Winnicott's transitional space theory—creative development of Klein) |
+| *Learning from Experience* | W.R. Bion | 比昂的容器理论——对克莱因投射性认同的发展 (Bion's container theory—development of Klein's projective identification) |
+| *Object Relations in Psychoanalytic Theory* | J.R. Greenberg & S.A. Mitchell | 客体关系理论的综合比较研究 (Comprehensive comparative study of object relations theory) |
+
+### 后继发展 / Subsequent Developments
+
+| 著作 / Work | 作者 / Author | 说明 / Description |
+|------|------|------|
+| *Projective Identification and Psychotherapeutic Technique* | Thomas H. Ogden | 投射性认同的当代发展 (Contemporary development of projective identification) |
+| *The Matrix of the Mind* | Thomas H. Ogden | 客体关系理论的当代阐释 (Contemporary interpretation of object relations theory) |
+| *Relational Concepts in Psychoanalysis* | Stephen A. Mitchell | 关系精神分析的发展 (Development of relational psychoanalysis) |
+| *The Interpersonal World of the Infant* | Daniel N. Stern | 婴儿心理发展的当代研究——与克莱因理论对话 (Contemporary research on infant psychological development—dialoguing with Klein) |
+
+## 五、推荐阅读顺序 / Recommended Reading Order
+
+### 初学者路径 / Beginner's Path
+
+1. Segal, *Melanie Klein* (1979) — 简短入门
+2. Klein, *Love, Guilt and Reparation* (1937) — 核心概念的原典阐述
+3. Klein, "Notes on Some Schizoid Mechanisms" (1946) — 偏执-分裂位态
+4. Segal, *Introduction to the Work of Melanie Klein* (1964) — 系统导论
+5. Klein, *Envy and Gratitude* (1957) — 晚期理论
+
+### 进阶路径 / Advanced Path
+
+1. Klein, *The Psycho-Analysis of Children* (1932) — 完整阅读
+2. Klein, "Mourning and Its Relation to Manic-Depressive States" (1940)
+3. Spillius (ed.), *Melanie Klein Today* (1988) — 当代发展
+4. Bion, *Learning from Experience* (1962) — 比昂的发展
+5. Ogden, *Projective Identification and Psychotherapeutic Technique* (1982)
+
+### 临床导向路径 / Clinically Oriented Path
+
+1. Klein, *Narrative of a Child Analysis* (1961) — 临床实践
+2. Spillius (ed.), *Melanie Klein Today*, Vol. 2 (1988) — 临床应用
+3. Scharff & Scharff, *Object Relations Couple Therapy* (1991) — 伴侣治疗
+4. Scharff, *Projective and Introjective Identification and the Use of the Therapist's Self* (1992)

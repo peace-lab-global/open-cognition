@@ -1,0 +1,77 @@
+---
+id: durkheim-social-facts
+title: 社会事实 · Social Facts
+type: concept
+domain: sociology
+thinker: durkheim
+school: classical
+tags:
+  - methodology
+  - epistemology
+  - positivism
+cross-refs:
+  - durkheim/solidarity
+  - weber/ideal-type
+  - marx/base-superstructure
+  - bourdieu/habitus
+---
+
+# 社会事实 · Social Facts (Faits Sociaux)
+
+## 概念界定 / Concept Definition
+
+社会事实（Social Facts / Faits Sociaux）是涂尔干为社会学确立的独特研究对象。在《社会学方法的准则》（1895）中，涂尔干将社会事实定义为："一切行为方式，不论它是固定的还是不固定的，凡是能从外部给予个人以约束的、或者换一句话说，普遍存在于该社会各处并具有其固有存在的，不管其在个人身上的表现如何，都叫做社会事实。"
+
+Social Facts (Faits Sociaux) are the distinctive subject matter Durkheim established for sociology. In The Rules of Sociological Method (1895), Durkheim defined social facts as: "every way of acting, fixed or not, capable of exercising on the individual an external constraint; or again, every way of acting which is general throughout a given society, while at the same time existing in its own right independent of its individual manifestations."
+
+## 两个核心特征 / Two Core Characteristics
+
+### 外在性 / Externality
+社会事实存在于个人意识之外。法律、道德规范、语言、货币制度、教育制度等都是先于任何特定个人而存在的社会事实。个人出生后进入一个已经存在的社会事实世界。
+
+Social facts exist outside individual consciousness. Laws, moral norms, language, monetary systems, and educational institutions are all social facts that pre-exist any particular individual. Individuals are born into a world of already-existing social facts.
+
+### 强制性 / Coerciveness
+社会事实对个人施加约束力。这种约束可以是正式的（法律制裁）或非正式的（社会舆论、道德谴责）。当个人试图违反社会事实时，会感受到来自社会的抵抗和惩罚。
+
+Social facts exert constraint on the individual. This constraint can be formal (legal sanctions) or informal (public opinion, moral condemnation). When individuals attempt to violate social facts, they encounter social resistance and punishment.
+
+## 方法论规则 / Methodological Rules
+
+### 1. 将社会事实当作"事物"来研究
+涂尔干主张社会学家必须摆脱"预断"（pre-notions / prenotions）——即未经检验的常识观念——以客观的态度观察社会事实。社会事实虽然不是物质性的"事物"，但具有与事物相同的客观实在性。
+
+Durkheim argued that sociologists must free themselves from "pre-notions"—unexamined commonsense notions—and observe social facts objectively. Although social facts are not material "things," they possess the same objective reality as things.
+
+### 2. 从外部指标定义社会现象
+社会学概念必须通过可观察的外部指标来定义，而非通过主观的内在体验。例如，不应通过个人的"犯罪感"来定义犯罪，而应通过法律的惩罚反应来定义。
+
+Sociological concepts must be defined through observable external indicators, not through subjective inner experience. For example, crime should not be defined by the individual's "sense of criminality" but by the legal punitive response.
+
+### 3. 用社会事实解释社会事实
+社会学解释必须停留在社会层面，禁止还原到心理学或生物学层面。自杀率不是个人心理状态的总和，而是社会整合程度和规范强度的函数。
+
+Sociological explanation must remain at the social level, prohibiting reduction to psychological or biological levels. Suicide rates are not the sum of individual psychological states but a function of the degree of social integration and normative strength.
+
+## 学术争论 / Scholarly Debates
+
+### 个体主义方法论论者的批评 / Criticism from Methodological Individualists
+韦伯和波普尔等个体主义方法论论者批评涂尔干将社会事实"实体化"（reification），认为一切社会现象最终都必须还原到个体行动者的行动和互动。涂尔干的回应是：社会事实虽然由个人的行动构成，但具有不能还原为个体属性的"涌现性"特征。
+
+Methodological individualists like Weber and Popper criticized Durkheim for "reifying" social facts, arguing that all social phenomena must ultimately be reduced to individual actors' actions and interactions. Durkheim's response: although social facts are constituted by individual actions, they possess "emergent" properties irreducible to individual attributes.
+
+### 常人方法学的批评 / Criticism from Ethnomethodology
+加芬克尔（Garfinkel）等常人方法学者批评涂尔干将社会事实视为预先给定的"事物"，忽视了社会事实是在日常互动中被持续建构和维持的。社会秩序不是外在于个人的约束，而是个人在日常实践中不断"做出来"的成就。
+
+Garfinkel and other ethnomethodologists criticized Durkheim for treating social facts as pre-given "things," neglecting how social facts are continuously constructed and maintained in everyday interaction. Social order is not an external constraint but an ongoing achievement that individuals "do" in everyday practice.
+
+### 布迪厄的综合 / Bourdieu's Synthesis
+布迪厄通过"惯习"（habitus）概念试图超越社会事实的"外在性"与"内在性"的二元对立：社会结构通过社会化过程被铭刻在身体和心智中，成为看似自然的 dispositions，同时又通过日常实践再生产社会结构。
+
+Through the "habitus" concept, Bourdieu attempted to transcend the binary of social facts' "externality" and "internality": social structures are inscribed in bodies and minds through socialization, becoming seemingly natural dispositions, while simultaneously reproducing social structures through everyday practice.
+
+## 当代意义 / Contemporary Significance
+
+在数字时代，社会事实的概念面临新的挑战和机遇：算法推荐是否构成一种新型的"社会事实"？社交媒体的点赞机制是否是一种数字化的"社会强制"？大数据时代的社会事实是否可以被直接"测量"而非通过方法论的中介？这些问题推动着涂尔干方法论传统的当代更新。
+
+In the digital age, the social facts concept faces new challenges and opportunities: do algorithmic recommendations constitute a new type of "social fact"? Is the social-media "like" mechanism a digitized form of "social constraint"? Can social facts in the big-data era be directly "measured" without methodological mediation? These questions drive the contemporary renewal of the Durkheimian methodological tradition.

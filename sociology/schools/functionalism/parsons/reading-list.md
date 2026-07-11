@@ -1,0 +1,58 @@
+---
+id: parsons-reading-list
+title: 帕森斯进阶书单 · Parsons Reading List
+type: reading-list
+domain: sociology
+thinker: parsons
+school: functionalism
+---
+
+# 帕森斯系统阅读指南 / Parsons Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Talcott Parsons: Theorist of Modernity* (1991) | Bryan Turner (ed.) | 综合评传 |
+| *Talcott Parsons* (1991) | Ian Craib | 简明批判性导论 |
+| *The Social Theory of Talcott Parsons* (1967) | J.C. Alexander | 经典研究 |
+| *Parsons and Sociology* | Philip Selznick | 社会学视角的帕森斯 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会行动的结构》（导论+结论） | 1937 | 意志论行动理论 |
+| 《社会系统》 | 1951 | 功能主义核心；AGIL；病人角色 |
+| 《走向一般行动理论》 | 1951 | 模式变量 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会》 | 1966 | 社会进化论 |
+| 《现代社会体系》 | 1971 | 系统分化与整合 |
+| 功能主义方法论论文 | 1940s-50s | 功能先决条件 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *The Sociological Imagination* (1959) | C. Wright Mills | 对"宏大理论"的经典批判 |
+| *The Coming Crisis of Western Sociology* (1970) | Alvin Gouldner | 功能主义的意识形态批判 |
+| *Theoretical Logic in Sociology* (1982) | Jeffrey Alexander | 新功能主义的尝试 |
+| *Social Systems* (1984) | Niklas Luhmann | 从帕森斯出发的超越 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Neofunctionalism* (1985) | Jeffrey Alexander | 新功能主义 |
+| *Action and Its Environments* (1988) | Jeffrey Alexander | 行动理论的当代发展 |
+| *The Differentiation of Society* (1982) | Niklas Luhmann | 自创生系统理论 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Turner评传 → 《社会系统》（核心章节）→ 《社会行动的结构》（导论）
+**阶段二**（4-8周）: Mills《社会学的想象力》→ 《社会》→ 《现代社会体系》选读
+**阶段三**（8周+）: Gouldner批判 → Alexander新功能主义 → Luhmann系统理论

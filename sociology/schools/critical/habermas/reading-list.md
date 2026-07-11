@@ -1,0 +1,61 @@
+---
+id: habermas-reading-list
+title: 哈贝马斯进阶书单 · Habermas Reading List
+type: reading-list
+domain: sociology
+thinker: habermas
+school: critical
+---
+
+# 哈贝马斯系统阅读指南 / Habermas Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Habermas: A Very Short Introduction* (2005) | James Gordon Finlayson | 牛津通识读本 |
+| *Jürgen Habermas* (2010) | Barbara Fultner | 简明思想评传 |
+| *Habermas: A Critical Introduction* (2003) | William Outhwaite | 批判性导论 |
+| *Habermas and the Unfinished Project of Modernity* (1992) | Maurizio Passerin d'Entreves & Seyla Benhabib (eds.) | 学术论文集 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《公共领域的结构转变》 | 1962 | 公共领域的兴衰 |
+| 《交往行动理论》（导论+第一卷选读） | 1981 | 交往理性；行动类型 |
+| 《现代性的哲学话语》 | 1985 | 现代性辩护 |
+| 《在事实与规范之间》 | 1992 | 协商民主；法哲学 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《知识与人类兴趣》 | 1968 | 三种认识兴趣 |
+| 《合法性危机》 | 1973 | 危机分析 |
+| 《交往行动理论》（第二卷） | 1981 | 生活世界/系统 |
+| 《后民族结构》 | 1998 | 欧洲一体化 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Habermas and the Public Sphere* (1992) | Craig Calhoun (ed.) | 公共领域理论的重评 |
+| *Communicative Action* (1991) | Axel Honneth & Hans Joas (eds.) | 交往行动理论的学术论争 |
+| *The Cambridge Companion to Habermas* (1995) | Stephen White (ed.) | 综合学术导论 |
+| *Habermas: A Critical Reader* (1998) | Peter Dews (ed.) | 重要论文和访谈 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Deliberative Democracy* (1998) | Amy Gutmann & Dennis Thompson | 协商民主理论 |
+| *Justice Interruptus* (1997) | Nancy Fraser | 女权主义对哈贝马斯的批判 |
+| *The Structural Transformation of the Public Sphere* 重评集 | Craig Calhoun | 数字公共领域 |
+| *Cosmopolitanism* (2006) | Kwame Anthony Appiah | 世界主义与后民族结构 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Finlayson导论 → 《公共领域的结构转变》→ 《现代性的哲学话语》（导论）
+**阶段二**（4-8周）: 《交往行动理论》第一卷 → 《在事实与规范之间》（选读）
+**阶段三**（8周+）: 《知识与人类兴趣》→ 《交往行动理论》第二卷 → Fraser批判 → 协商民主当代发展

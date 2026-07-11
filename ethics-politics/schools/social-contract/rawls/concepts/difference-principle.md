@@ -1,0 +1,180 @@
+---
+id: rawls-difference-principle
+title: "差别原则 · Difference Principle"
+type: concept
+thinker: rawls
+domain: ethics-politics
+school: social-contract
+tags: [difference-principle, maximin, inequality, distributive-justice, primary-goods, rawls]
+cross-refs:
+  - id: rawls
+    relation: thinker
+  - id: nozick
+    relation: 对立(持有正义)
+  - id: sen
+    relation: 批判(能力进路)
+  - id: marx
+    relation: 对话(剥削)
+  - id: rawls-justice-as-fairness
+    relation: 上位概念
+  - id: rawls-veil-of-ignorance
+    relation: 论证基础
+---
+
+# 差别原则 · Difference Principle
+
+## 概念概述 / Concept Overview
+
+差别原则是罗尔斯正义第二原则的核心部分——社会与经济不平等只有在**对最不利的社会成员最为有利**时才是被允许的。换言之，不平等的合理性不取决于它是否增加了社会总财富，而取决于它是否改善了最差群体的处境。这一原则是罗尔斯对分配正义最具原创性的贡献，也是引发最多争论的概念——从诺齐克的自由至上主义到森的平等主义，几乎所有当代分配正义理论都以差别原则为出发点或批判对象。
+
+The Difference Principle is the core component of Rawls's second principle of justice — social and economic inequalities are permissible only when they are **to the greatest benefit of the least advantaged members of society**. In other words, the justification for inequality depends not on whether it increases total social wealth, but on whether it improves the situation of the worst-off group. This principle is Rawls's most original contribution to distributive justice and has provoked the most debate — from Nozick's libertarianism to Sen's egalitarianism, virtually all contemporary theories of distributive justice take the difference principle as their starting point or target of critique.
+
+差别原则的深刻之处在于它既不是简单的平等主义（它允许不平等），也不是功利主义（它拒绝总量最大化），而是一种独特的**民主的平等观**——不平等的证成必须诉诸它对最不利者的贡献，而非它对"社会总体"的贡献。
+
+The profundity of the difference principle lies in its being neither simple egalitarianism (it permits inequalities) nor utilitarianism (it rejects aggregate maximization), but a distinctive **democratic conception of equality** — the justification of inequality must appeal to its contribution to the least advantaged, not its contribution to "society overall."
+
+## 理论内涵 / Theoretical Content
+
+### 完整表述 / Full Statement
+
+罗尔斯的正义第二原则（最终版本）：
+
+Rawls's second principle of justice (final version):
+
+> 社会与经济不平等应满足两个条件：(a) 在公平的机会平等条件下，与向所有人开放的职位和地位相联系（公平的机会平等原则）；(b) 对最不利的社会成员最为有利（差别原则）。
+>
+> Social and economic inequalities are to satisfy two conditions: (a) they are to be attached to offices and positions open to all under conditions of fair equality of opportunity (fair equality of opportunity principle); and (b) they are to be to the greatest benefit of the least advantaged members of society (difference principle).
+
+注意：公平的机会平等原则在词典序上优先于差别原则——不能为了改善最不利者的物质状况而限制机会平等。
+
+Note: the fair equality of opportunity principle is lexically prior to the difference principle — one cannot restrict equality of opportunity to improve the material situation of the least advantaged.
+
+### 与功利主义的根本区别 / Fundamental Difference from Utilitarianism
+
+| 标准 / Criterion | 功利主义 / Utilitarianism | 差别原则 / Difference Principle |
+|---|---|---|
+| 目标 / Goal | 总效用最大化 / Maximize total utility | 最不利者利益最大化 / Maximize least-advantaged interests |
+| 不平等 / Inequality | 允许，只要增加总量 / Permitted if increases total | 仅当改善最差者处境 / Only if improves worst-off |
+| 牺牲 / Sacrifice | 可能牺牲少数 / May sacrifice minority | 绝不以牺牲换取总量 / Never sacrifice for aggregate |
+| 人际比较 / Interpersonal comparison | 效用的人际加总 / Interpersonal utility summation | 基本善的指标比较 / Primary goods index comparison |
+
+### 差别原则的经济学逻辑 / Economic Logic of the Difference Principle
+
+差别原则承认**激励机制**的必要性（The difference principle acknowledges the necessity of **incentive mechanisms**）：
+
+- 如果完全平等导致所有人收入 50（包括最不利者），而允许企业家获得 80 但最不利者获得 65 → **差别原则允许后者**
+  If perfect equality yields everyone 50 (including the least advantaged), while allowing entrepreneurs to earn 80 yields the least advantaged 65 → **The difference principle permits the latter**
+- 如果企业家获得 200 但不利者仍为 50（或不降不升）→ **差别原则不允许**
+  If entrepreneurs earn 200 but the least advantaged remain at 50 (neither falling nor rising) → **The difference principle does not permit this**
+- 关键：不平等的幅度须与最不利者的改善**成比例**，且是在所有可行方案中**最大化**最不利者利益的方案。
+  The key: the magnitude of inequality must be **proportionate** to improvement for the least advantaged, and must be the scheme that **maximizes** their benefit among all feasible options.
+
+### 最不利者的界定 / Defining the Least Advantaged
+
+罗尔斯用**基本善指标**（primary goods index）界定最不利者。基本善包括：
+
+Rawls uses the **primary goods index** to define the least advantaged. Primary goods include:
+
+1. 基本权利与自由 / Basic rights and liberties
+2. 迁徙与职业选择的自由 / Freedom of movement and choice of occupation
+3. 权力与机会 / Powers and opportunities
+4. 收入与财富 / Income and wealth
+5. 自尊的社会基础 / Social bases of self-respect
+
+最不利者 = 在上述指标综合得分中处于**下半段中位数以下**的群体。罗尔斯承认这是一种简化处理，但他认为在实践中这一界定足以指导公共政策。
+
+The least advantaged = those below the **median of the lower half** in the composite score of these indicators. Rawls acknowledges this is a simplification, but considers it sufficient in practice for guiding public policy.
+
+### 财产所有民主制 / Property-Owning Democracy
+
+罗尔斯后期（《作为公平的正义：一种重申》，2001）明确区分了两种实现差别原则的制度模式：
+
+In his later work (*Justice as Fairness: A Restatement*, 2001), Rawls explicitly distinguished two institutional models for realizing the difference principle:
+
+- **福利国家资本主义 / Welfare-State Capitalism**：允许财富集中，然后通过税收和转移支付进行事后再分配。罗尔斯认为这不充分——它允许少数人掌握过多的经济和政治权力。
+  Permits wealth concentration, then redistributes ex post through taxation and transfers. Rawls considers this insufficient — it allows a minority to accumulate excessive economic and political power.
+
+- **财产所有民主制 / Property-Owning Democracy**：通过事前分散财产所有权（广泛的股票持有、小型企业支持、教育投资），防止经济权力的过度集中。这是罗尔斯理想的制度模式。
+  Disperses property ownership ex ante (widespread stock ownership, small business support, educational investment) to prevent excessive concentration of economic power. This is Rawls's ideal institutional model.
+
+## 思想史脉络 / Intellectual History
+
+差别原则在思想史上没有直接先驱——它是一个真正的理论创新。功利主义追求总量最大化，洛克式自然权利理论关注获取和转让的历史正当性，马克思主义关注剥削和剩余价值——差别原则不同于所有这些传统。
+
+The difference principle has no direct precursor in intellectual history — it is a genuine theoretical innovation. Utilitarianism pursues aggregate maximization, Lockean natural rights theory focuses on historical legitimacy of acquisition and transfer, Marxism focuses on exploitation and surplus value — the difference principle differs from all these traditions.
+
+最接近的先驱可能是卢梭的平等主义理想——卢梭在《社会契约论》中主张没有人应该富到能够购买另一个人，也没有人穷到不得不出卖自己。但卢梭追求的是严格平等，而罗尔斯的差别原则是一种**有约束的不平等**——它以最大化最不利者利益为条件允许不平等。
+
+The closest precursor may be Rousseau's egalitarian ideal — in *The Social Contract*, Rousseau advocated that no one should be rich enough to buy another, nor so poor as to be forced to sell himself. But Rousseau pursued strict equality, while Rawls's difference principle is a **constrained inequality** — it permits inequality conditional on maximizing the benefit of the least advantaged.
+
+## 关键文本 / Key Passages
+
+> "差别原则……实际上代表这样一种协议：即把自然才能的分配看作是一种公共资产，并共同分享这种分配所带来的社会和经济利益……那些得天独厚的人们——无论是谁——只有在改善那些不幸的人们的状况的条件下才可以从他们的良好命运中获益。"
+>
+> "The difference principle represents, in effect, an agreement to regard the distribution of natural talents as a common asset and to share in the social and economic benefits made possible by this distribution... Those who have been favored by nature — whoever they are — may gain from their good fortune only on terms that improve the situation of those who are less fortunate."
+> — *A Theory of Justice* (1971), §13
+
+> "社会的基本结构应该如此安排，以致使这些偶然因素（自然天赋和社会出身）有利于那些最不幸的人们的利益。"
+>
+> "The basic structure of society should be so arranged that these contingencies (natural endowments and social circumstances) work to the advantage of those who are least fortunate."
+> — *A Theory of Justice* (1971), §13
+
+## 当代应用 / Contemporary Applications
+
+- **最低工资立法 / Minimum Wage Legislation** — 差别原则要求工资底线保障最不利劳动者的体面生活，而非仅仅追求充分就业。最低工资的设定应参考"最不利劳动者的合理生活标准"。
+  The difference principle requires a wage floor that guarantees a decent life for the least advantaged workers, rather than merely pursuing full employment. Minimum wage settings should reference "reasonable living standards for the least advantaged workers."
+
+- **医疗改革 / Healthcare Reform** — 医疗资源的分配应优先惠及最不利群体——扩大医疗保险覆盖面首先应覆盖最贫困的人口，而非追求覆盖率的最大化。
+  Healthcare resource allocation should prioritize the least advantaged — expanding health insurance coverage should first cover the poorest populations, not pursue maximization of coverage rates.
+
+- **全球贫困 / Global Poverty** — 国际援助应优先流向最贫困国家的最贫困人口，而非仅仅追求全球GDP增长。差别原则为全球发展援助提供了道义论论证。
+  International aid should flow preferentially to the poorest people in the poorest countries, not merely pursue global GDP growth. The difference principle provides a deontological argument for global development aid.
+
+- **税收政策 / Tax Policy** — 累进税制的道义论论证：高税率只有在改善最不利者处境时才被证成，而非为了惩罚富人。
+  Deontological justification for progressive taxation: high tax rates are justified only when they improve the situation of the least advantaged, not to punish the wealthy.
+
+- **教育投资 / Educational Investment** — 公平的机会平等（优先于差别原则）要求对教育进行补偿性投资——社会资源应优先投入弱势群体的教育。
+  Fair equality of opportunity (prior to the difference principle) requires compensatory educational investment — social resources should prioritize education for disadvantaged groups.
+
+## 批评与回应 / Critiques and Responses
+
+- **批评 / Critique**（诺齐克 Nozick）：差别原则要求持续的再分配，侵犯了个人财产权——持有正义不关注分配模式，只关注获取与转让的历史正当性。
+  The difference principle requires continuous redistribution, violating individual property rights — entitlement justice concerns not distributional patterns but the historical legitimacy of acquisition and transfer.
+  → **回应 / Response**：罗尔斯认为自然天赋的分配是"任意的从道德观点看"的——没有人"应得"其天赋，因此社会有权通过制度安排使天赋的收益惠及所有人。
+  Rawls holds that the distribution of natural talents is "arbitrary from a moral point of view" — no one "deserves" their talents, so society has the right to arrange institutions so that the benefits of talents are shared by all.
+
+- **批评 / Critique**（森 Sen）：基本善指标忽视了人的**异质性**——同样一份基本善，对残疾人、慢性病患者、不同气候区居民的价值截然不同。应以"能力"（capability）替代"基本善"。
+  The primary goods index ignores human **heterogeneity** — the same bundle of primary goods has drastically different value for persons with disabilities, chronic illness, or in different climate zones. "Capabilities" should replace "primary goods."
+  → **回应 / Response**：罗尔斯承认基本善指标是一种简化，但认为它在制度层面是可行的——能力进路在个体层面更精确，但在制度设计层面难以操作化。
+  Rawls acknowledges the primary goods index is a simplification, but considers it workable at the institutional level — the capability approach is more precise at the individual level but difficult to operationalize at the institutional design level.
+
+- **批评 / Critique**（科恩 G.A. Cohen，左翼 Left）：差别原则允许基于"激励"的不平等，但这预设了有才能者的自私——如果他们真正接受了正义原则，就不需要额外激励来努力工作。
+  The difference principle permits incentive-based inequalities, but this presupposes the selfishness of the talented — if they truly accepted justice principles, they would not need extra incentives to work hard.
+  → **回应 / Response**：罗尔斯承认差别原则适用于制度设计而非个人动机层面——制度必须考虑到人在现实中的动机结构。
+  Rawls acknowledges that the difference principle applies to institutional design rather than individual motivation — institutions must account for realistic human motivational structures.
+
+- **批评 / Critique**（马克思主义 Marxist）：差别原则仍停留在分配层面，未触及**生产关系**的根本变革。
+  The difference principle remains at the distributive level without addressing fundamental transformation of **production relations**.
+  → **回应 / Response**：罗尔斯的"财产所有民主制"恰恰试图通过事前分散财产所有权来改变经济权力结构。
+  Rawls's "property-owning democracy" precisely attempts to transform the structure of economic power through ex ante dispersal of property ownership.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+- **儒家"损有余补不足" / Confucian "Reducing the Excess to Supplement the Insufficient"** — "天之道，损有余而补不足；人之道则不然，损不足以奉有余"（《老子》第77章）——道家的这一天道理想与差别原则在精神上高度契合：自然（正义）的分配方式是使不足者受益。
+  "The Way of Heaven reduces the excess to supplement the insufficient; the way of humans does otherwise — it reduces the insufficient to serve those with excess" (*Laozi*, Chapter 77) — this Daoist ideal aligns closely in spirit with the difference principle: the just distribution is one that benefits the insufficient.
+
+- **印度"达摩"与经济义务 / Indian "Dharma" and Economic Duty** — 印度传统中的达摩包含对弱势群体的经济义务——富裕者有责任援助贫困者，这与差别原则对"得天独厚者"施加的对最不利者的义务相呼应。
+  Dharma in Indian tradition includes economic duties toward the disadvantaged — the wealthy have a responsibility to aid the poor, which echoes the difference principle's imposition of duties on the "favored" toward the least advantaged.
+
+- **伊斯兰天课制度 / Islamic Zakat System** — 伊斯兰教的五功之一"天课"（Zakat）要求穆斯林将财产的一定比例捐赠给穷人和需要帮助者，这与差别原则的再分配逻辑有结构性相似。
+  Zakat, one of the Five Pillars of Islam, requires Muslims to donate a proportion of their wealth to the poor and needy, which bears structural similarity to the redistributive logic of the difference principle.
+
+## 延伸阅读 / Further Reading
+
+- Rawls, John. *A Theory of Justice* (1971), §13 — 差别原则的完整论证
+- Rawls, John. *Justice as Fairness: A Restatement* (2001), §38–39 — 最终修订
+- Nozick, Robert. *Anarchy, State, and Utopia* (1974), Chapter 7 — 持有正义的反驳
+- Sen, Amartya. "Equality of What?" (1980) — 能力进路的批评
+- Cohen, G.A. *Rescuing Justice and Equality* (2008) — 左翼批评经典
+- Pogge, Thomas. "On the Site of Distributive Justice" (2000) — 差别原则的适用范围
+- 汪丁丁《经济学思想史讲义》— 差别原则的经济学分析

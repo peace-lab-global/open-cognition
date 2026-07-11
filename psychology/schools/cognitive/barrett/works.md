@@ -1,0 +1,122 @@
+---
+id: barrett-works
+title: "巴雷特作品总览 · Barrett Works"
+type: works-catalogue
+domain: psychology
+school: cognitive
+thinker: barrett
+tags: [barrett, works, bibliography, emotion, constructed-emotion]
+cross-refs:
+  - id: barrett
+    relation: thinker
+---
+
+# 巴雷特作品总览 · Barrett Works
+
+## 总览 / Overview
+
+巴雷特 (Lisa Feldman Barrett) 的学术产出以**期刊论文**为主, 已发表 200 余篇同行评审论文; 面向公众的专著两部 (*How Emotions Are Made*, 2017; *Seven and a Half Lessons About the Brain*, 2020); 另主编情绪科学最权威的参考书 *Handbook of Emotions* 第 4 版 (2016)。以下按思想分期梳理其核心著作。
+
+## 一、早期: 情绪粒度与个体差异 (1990s–2005)
+
+### 必读 / Must-Read
+
+| 年份 | 著作 | 类型 | 地位 |
+|---|---|---|---|
+| 1998 | "Disrupting the experience of emotion: The effect of alexithymia on emotional experience" | 论文 | 早期对述情障碍与情绪体验的研究 |
+| 2001 | "Knowing what you're feeling and knowing what to do about it: Mapping the relation between emotion differentiation and emotion regulation" | 论文 | 首次系统提出"情绪粒度" (emotion differentiation/granularity) 概念 |
+| 2004 | Barrett, Gross, Christensen & Benvenuto, "Emotion regulation and attachment: Unpacking two constructs that involve emotion" | 论文 | 情绪粒度与情绪调节的实证关系 |
+
+### 早期核心概念
+
+- 情绪粒度 (emotional granularity / emotion differentiation)
+- 述情障碍 (alexithymia) 作为极低粒度的表现
+- 情绪体验的个体差异 (individual differences in emotional experience)
+
+## 二、中期: 基本情绪论的批判与概念行为理论 (2006–2016)
+
+### 必读 / Must-Read
+
+| 年份 | 著作 | 类型 | 地位 |
+|---|---|---|---|
+| 2006 | "Are emotions natural kinds?" *Perspectives on Psychological Science* | 论文 | **里程碑论文**, 对基本情绪论的系统批判, 引发范式危机 |
+| 2006 | "Solving the emotion paradox: Categorization and the experience of emotion" | 论文 | 提出概念在情绪体验中的核心作用 |
+| 2007 | Barrett, Lindquist, Bliss-Moreau, et al., "Of mice and men: Natural kinds of emotions in the mammalian brain?" | 论文 | 对"基本情绪脑回路"的神经科学批判 |
+| 2009 | "Variety is the spice of life: A psychological constructionist account of emotions" | 论文 | 心理建构主义的理论阐述 |
+| 2011 | "Bridging token identity theory and supervenience theory through psychological construction" | 论文 | 情绪与大脑关系的哲学分析 |
+| 2012 | Lindquist, Wager, Kober, Bliss-Moreau & Barrett, "The brain basis of emotion: A meta-analytic review" | 论文 | 大规模神经影像元分析, 否定离散情绪回路 |
+| 2014 | "The conceptual act theory: A précis" *Emotion Review* | 论文 | **概念行为理论** (Conceptual Act Theory) 的系统阐述, 构造论的直接前身 |
+
+### 编著
+
+| 年份 | 著作 | 类型 | 地位 |
+|---|---|---|---|
+| 2016 | *Handbook of Emotions* (4th ed.), co-edited with Lewis & Haviland-Jones | 编著 | 情绪科学最权威的参考书 (1000+ 页) |
+
+### 中期核心概念
+
+- 自然类批判 (natural kinds critique)
+- 概念行为理论 (Conceptual Act Theory)
+- 情绪的神经影像元分析 (meta-analytic review of emotion neuroimaging)
+- 心理建构主义 (psychological constructionism)
+
+## 三、成熟期: 情绪构造论与预测脑 (2017–至今)
+
+### 必读 / Must-Read
+
+| 年份 | 著作 | 类型 | 地位 |
+|---|---|---|---|
+| 2017 | *How Emotions Are Made: The Secret Life of the Brain* (Houghton Mifflin Harcourt) | 专著 | **核心著作**, 面向公众的情绪构造论; *New York Times* 畅销书 |
+| 2017 | "The theory of constructed emotion: an active inference account" *Social Cognitive and Affective Neuroscience* | 论文 | **学术版情绪构造论**, 与 Friston 的主动推断框架整合 |
+| 2017 | "Functionalism and the emotions" (in *Emotion Measurement*) | 论文 | 对功能主义情绪观的批判 |
+| 2018 | "Seeing fear: It's all in the eyes" (with Adolphs) | 论文 | 对面部表情与恐惧关系的再讨论 |
+| 2019 | "Emotions are real" *Emotion* | 论文 | 回应批评, 阐明构造论的实在论立场 |
+| 2019 | Hoemann, Xu & Barrett, "Emotion words as emotion schemas" | 论文 | 情绪词汇作为情绪概念的功能 |
+| 2020 | *Seven and a Half Lessons About the Brain* (Houghton Mifflin Harcourt) | 专著 | 将预测加工扩展到整个脑科学; 面向公众的神经科学入门 |
+| 2022 | "Context reconsidered: Complex signal ensembles, relational meanings, and population-level analyses" *American Psychologist* | 论文 | 深化情境在情绪构造中的角色 |
+| 2023 | "The predictive brain: A new paradigm for neuroscience" (with Simmons) | 论文 | 预测加工范式的综合阐述 |
+
+### 成熟期核心概念
+
+- 情绪构造论 (Theory of Constructed Emotion)
+- 主动推断 (active inference) 与情绪
+- 预测加工 (predictive processing) 的脑科学
+- 身体预算 (body budgeting / allostasis)
+- 情绪的社会现实 (social reality of emotions)
+
+## 四、中译本 / Chinese Translations
+
+| 年份 | 书名 | 出版社 | 说明 |
+|---|---|---|---|
+| 2018 | 《情绪是由你创建的: 关于情绪本质的神经科学新发现》 | 湛庐文化 / 浙江人民出版社 | *How Emotions Are Made* 中译本 |
+| 2021 | 《大脑七又二分之一堂课》 | 湛庐文化 | *Seven and a Half Lessons About the Brain* 中译本 |
+
+## 五、阅读路径 / Reading Paths
+
+### 入门 (3 篇, 4 小时)
+
+1. *Seven and a Half Lessons About the Brain* (2020) — 150 页, 最简洁的脑科学入门
+2. *How Emotions Are Made* (2017), Introduction + Chapters 1-3 — 构造论的核心论证
+3. "Are emotions natural kinds?" (2006) — 对基本情绪论的系统批判
+
+### 进阶 (7 篇, 20 小时)
+
+4. *How Emotions Are Made* (2017), Chapters 4-12 — 完整的构造论 + 应用
+5. "The theory of constructed emotion: an active inference account" (2017) — 学术版构造论
+6. "The conceptual act theory: A précis" (2014) — 构造论的前身
+7. Lindquist et al., "The brain basis of emotion" (2012) — 神经影像元分析
+8. "Emotions are real" (2019) — 回应批评
+9. Hoemann et al., "Emotion words as emotion schemas" (2019) — 情绪词汇的作用
+10. "Context reconsidered" (2022) — 情境的深化
+
+### 深潜 (全部论文 + 专著 + 编著)
+
+11. *Handbook of Emotions* (4th ed., 2016) — 情绪科学全景
+12. 2006 年以前的情绪粒度论文
+13. 与 Russell 合作的早期环状模型论文
+14. 跨文化研究 (Himba 人研究)
+15. 与预测加工社区的互动 (Friston, Clark, Seth)
+
+## 进阶阅读
+
+见 [reading-list.md](reading-list.md)。

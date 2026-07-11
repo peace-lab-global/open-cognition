@@ -1,0 +1,88 @@
+---
+id: bowlby-john.reading-list
+title: "约翰·鲍尔比 · John Bowlby - 推荐阅读 · Reading List"
+type: reference
+domain: psychology
+thinker: bowlby-john
+---
+
+# 约翰·鲍尔比 · John Bowlby - 推荐阅读 / Reading List
+
+## 一、原始文献 / Primary Sources
+
+### 核心著作 / Core Works
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Bowlby, J. *Attachment and Loss, Vol.1: Attachment*. New York: Basic Books, 1969 (2nd ed. 1982). | 依恋理论的完整建构，是理解鲍尔比思想的必读起点 / Complete construction of attachment theory; the essential starting point for understanding Bowlby's thought |
+| Bowlby, J. *Attachment and Loss, Vol.2: Separation: Anxiety and Anger*. New York: Basic Books, 1973. | 分离反应的深入分析，三阶段模型的系统阐述 / In-depth analysis of separation responses, systematic exposition of the three-phase model |
+| Bowlby, J. *Attachment and Loss, Vol.3: Loss: Sadness and Depression*. New York: Basic Books, 1980. | 丧失与哀伤的心理动力学，对临床工作最具指导意义的卷册 / Psychodynamics of loss and grief; the volume most directly relevant to clinical work |
+| Bowlby, J. *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books, 1988. | 依恋理论的临床应用总结，可读性最强，适合临床工作者和对理论应用感兴趣的读者 / Synthesis of clinical applications; most readable volume, ideal for clinicians and readers interested in theory application |
+
+### 早期重要论文 / Key Early Papers
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Bowlby, J. *Forty-Four Juvenile Thieves: Their Characters and Home-Life*. London: Bailliere, Tindall & Cox, 1944. | 开创性的临床研究，揭示了早期分离与反社会行为的关联 / Landmark clinical study revealing the association between early separation and antisocial behaviour |
+| Bowlby, J. *Maternal Care and Mental Health*. Geneva: World Health Organization, 1951. | WHO报告，提出"母性剥夺"假说，影响了全球社会政策 / WHO report proposing the "maternal deprivation" hypothesis, influencing global social policy |
+| Bowlby, J. "The Nature of the Child's Tie to His Mother." *International Journal of Psycho-Analysis*, 39, 1958, 350–373. | 依恋概念的首次系统阐述 / First systematic exposition of the attachment concept |
+
+## 二、权威传记与评论 / Authoritative Biography and Commentary
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Holmes, J. *John Bowlby and Attachment Theory*. London: Routledge, 1993 (2nd ed. 2014). | **最推荐的入门读物**——全面而深入的鲍尔比学术传记，既梳理了思想发展脉络，又评估了理论贡献和局限 / **Most recommended introduction** — comprehensive and in-depth Bowlby academic biography, tracing intellectual development and evaluating theoretical contributions and limitations |
+| Bretherton, I. "The Origins of Attachment Theory: John Bowlby and Mary Ainsworth." *Developmental Psychology*, 28(5), 1992, 759–775. | 依恋理论历史发展的权威概述，特别详述了鲍尔比与安斯沃思的合作关系 / Authoritative overview of attachment theory's historical development, detailing the Bowlby-Ainsworth collaboration |
+| van Dijken, S. *John Bowlby: His Early Life*. London: Free Association Books, 1998. | 对鲍尔比早期生活和学术形成的详细研究 / Detailed study of Bowlby's early life and academic formation |
+| Bretherton, I. & Waters, E., eds. "Growing Points of Attachment Theory and Research." *Monographs of the Society for Research in Child Development*, 50(1–2), 1985. | 依恋理论发展的重要里程碑文集 / Important milestone collection in attachment theory development |
+
+## 三、英文二次文献 / English Secondary Literature
+
+### 综合手册 / Comprehensive Handbooks
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Cassidy, J. & Shaver, P.R., eds. *Handbook of Attachment: Theory, Research, and Clinical Applications*. 3rd ed. New York: Guilford Press, 2016. | **依恋领域最权威的综合手册**——涵盖理论、研究方法和临床应用的各个方面，是研究生和专业人士的必备参考 / **The most authoritative comprehensive handbook** in the attachment field — covering theory, research methods, and clinical applications; essential reference for graduate students and professionals |
+| Grossmann, K.E., Grossmann, K. & Waters, E., eds. *Attachment from Infancy to Adulthood: Leading Developmentalists Speak Out*. New York: Guilford Press, 2005. | 当代依恋研究领军人物的综合论述 / Comprehensive discussions by leading contemporary attachment researchers |
+
+### 理论深化 / Theoretical Deepening
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Ainsworth, M.D.S. et al. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Erlbaum, 1978. | 陌生情境实验的完整报告，依恋类型学的实证基础 / Complete report of Strange Situation experiments, empirical foundation of attachment typology |
+| Main, M., Kaplan, N. & Cassidy, J. "Security in Infancy, Childhood, and Adulthood: A Move to the Level of Representation." *Monographs of the SRCD*, 50(1–2), 1985, 66–104. | 成人依恋访谈（AAI）的首次报告，依恋理论的代际传递研究 / First report of the Adult Attachment Interview (AAI), intergenerational transmission research |
+| Fonagy, P. et al. *Affect Regulation, Mentalization, and the Development of the Self*. New York: Other Press, 2002. | 心智化理论与依恋理论的整合，当代精神分析最具影响力的理论发展之一 / Integration of mentalization theory with attachment theory; one of the most influential developments in contemporary psychoanalysis |
+| Mikulincer, M. & Shaver, P.R. *Attachment in Adulthood: Structure, Dynamics, and Change*. 2nd ed. New York: Guilford Press, 2016. | 成人依恋研究的系统总结 / Systematic synthesis of adult attachment research |
+
+### 临床应用 / Clinical Applications
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Johnson, S. *The Practice of Emotionally Focused Couple Therapy*. 2nd ed. New York: Brunner-Routledge, 2004. | 情绪聚焦治疗的临床实践手册，以依恋理论为核心框架 / Clinical practice manual for Emotionally Focused Therapy, with attachment theory as core framework |
+| Bateman, A. & Fonagy, P. *Mentalization-Based Treatment for Borderline Personality Disorder*. Oxford: Oxford University Press, 2004. | 心智化治疗的临床手册 / Clinical manual for Mentalization-Based Treatment |
+| Wallin, D.J. *Attachment in Psychotherapy*. New York: Guilford Press, 2007. | 依恋理论在个体心理治疗中的系统应用 / Systematic application of attachment theory in individual psychotherapy |
+| Siegel, D.J. *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are*. 2nd ed. New York: Guilford Press, 2012. | 依恋理论与神经科学的整合 / Integration of attachment theory with neuroscience |
+
+## 四、中文文献 / Chinese-Language Literature
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| 鲍尔比（Bowlby, J.）著，陈会昌等译。《依恋》（*Attachment*）。北京：北京师范大学出版社。 | 三部曲第一卷的中译本 / Chinese translation of the first volume of the trilogy |
+| 鲍尔比（Bowlby, J.）著，陈会昌等译。《分离》（*Separation*）。北京：北京师范大学出版社。 | 三部曲第二卷的中译本 / Chinese translation of the second volume |
+| 鲍尔比（Bowlby, J.）著，陈会昌等译。《丧失》（*Loss*）。北京：北京师范大学出版社。 | 三部曲第三卷的中译本 / Chinese translation of the third volume |
+| 鲍尔比（Bowlby, J.）著，万娇娇译。《安全基地：依恋关系的起源》。北京：中国轻工业出版社，2020。 | 《安全基地》的中译本 / Chinese translation of *A Secure Base* |
+| 霍姆斯（Holmes, J.）著，赵旭东等译。《依恋理论与精神分析》。北京：中国轻工业出版社。 | 霍姆斯传记的中译本 / Chinese translation of Holmes' biography |
+| 吴和鸣。《依恋理论：安全感的心理学》。武汉：华中科技大学出版社。 | 国内学者撰写的依恋理论系统介绍 / Systematic introduction to attachment theory by a Chinese scholar |
+
+## 五、相关领域阅读 / Related Field Reading
+
+| 文献 / Work | 说明 / Description |
+|------|------|
+| Winnicott, D.W. *Playing and Reality*. London: Tavistock, 1971. | 温尼科特的"过渡性客体"和"足够好的母亲"概念与依恋理论的对话 / Winnicott's "transitional object" and "good-enough mother" concepts in dialogue with attachment theory |
+| Porges, S.W. *The Polyvagal Theory*. New York: Norton, 2011. | 多迷走神经理论——依恋的神经生理学扩展 / Polyvagal Theory — neurophysiological extension of attachment |
+| Schore, A.N. *Affect Regulation and the Origin of the Self*. Hillsdale, NJ: Erlbaum, 1994. | 情感调节的神经发展理论，与依恋理论深度整合 / Neurodevelopmental theory of affect regulation, deeply integrated with attachment theory |
+| Stern, D.N. *The Interpersonal World of the Infant*. New York: Basic Books, 1985. | 婴儿主体间性理论，与依恋理论形成互补 / Infant intersubjectivity theory, complementing attachment theory |
+
+---
+
+← 返回 [约翰·鲍尔比 · John Bowlby](README.md)

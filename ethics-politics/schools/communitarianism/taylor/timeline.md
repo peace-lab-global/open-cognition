@@ -1,0 +1,114 @@
+---
+id: taylor-timeline
+title: "泰勒生平大事记 · Charles Taylor Biographical Timeline"
+type: timeline
+thinker: taylor
+domain: ethics-politics
+school: communitarianism
+tags:
+  - timeline
+  - biography
+  - 生平
+  - 大事记
+---
+
+# 泰勒生平大事记 · Charles Taylor Biographical Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 | 事件 | 背景 |
+|------|------|------|
+| 1931 | 11月5日生于加拿大蒙特利尔 | 出生于英语-法语双语家庭；父亲是讲英语的新教徒，母亲是讲法语的天主教徒。这种双语双文化背景深刻影响了泰勒日后对认同和多元文化的关注 |
+| 1940s | 在蒙特利尔接受中小学教育 | 成长于魁北克"安静革命"（Révolution tranquille）前的保守天主教社会环境中 |
+| 1949–1952 | 麦吉尔大学，历史学学士 | 在麦吉尔接触到马克思主义和左翼思想；参与学生政治活动 |
+| 1952–1955 | 赴牛津大学贝利奥尔学院攻读研究生 | 获罗兹奖学金（Rhodes Scholarship）资助；师从以赛亚·伯林（Isaiah Berlin） |
+| 1955–1961 | 博士研究 | 论文题目：《行为的解释》（*The Explanation of Behaviour*），探讨行为主义心理学和行动的解释学维度 |
+
+## 早期学术生涯 / Early Academic Career (1961–1975)
+
+| 年份 | 事件 | 思想意义 |
+|------|------|---------|
+| 1961 | 返回牛津，任政治学讲师 | 开始在英语哲学界引入欧陆解释学传统 |
+| 1962 | 与Gérald Pelletier结婚 | 育有五个子女；家庭生活影响了其对社群认同的思考 |
+| 1964 | 出版博士论文 *The Explanation of Behaviour* | 系统批判行为主义；论证人类行动的目的论维度 |
+| 1967 | 发表 "Neutrality in Political Science" | 批评政治科学的"价值中立"主张；论证社会科学不可避免地涉及价值判断 |
+| 1971 | 发表 "Interpretation and the Sciences of Man" | 解释学方法论在社会科学中的应用；成为解释学传统在英语世界的标志性文本 |
+| 1975 | 出版 *Hegel* | 重新将黑格尔解读为自由与承认的哲学家；在英语哲学界重新激活黑格尔研究 |
+
+## 中期巅峰 / Middle Period Zenith (1976–1994)
+
+| 年份 | 事件 | 思想意义 |
+|------|------|---------|
+| 1976 | 任牛津大学齐切利社会与政治理论讲席教授 | 接替以赛亚·伯林的讲席；成为英语政治哲学的核心人物 |
+| 1979 | 出版 *Hegel and Modern Society* | 将黑格尔哲学与现代社会理论联系起来 |
+| 1979 | 发表 "Atomism" | 对原子论个人主义的系统批判；社群主义论争的早期关键文本 |
+| 1981–1982 | 参与"自由主义 vs 社群主义"论争 | 与罗尔斯、德沃金、诺齐克等自由主义哲学家的持续对话和批评 |
+| 1985 | 出版两卷本 *Philosophical Papers* | 汇集二十年来的重要论文；确立其在行动理论、语言哲学和道德哲学中的地位 |
+| 1985 | 发表 "What's Wrong with Negative Liberty" | 对消极自由概念的批判；论证积极自由的必要性 |
+| 1986 | 发表对福柯权力理论的批评 | 展示其与后结构主义传统的张力 |
+| 1989 | 出版 *Sources of the Self* | 逾600页的巨著；追溯现代自我认同的三重道德来源（基督教内在化、笛卡尔分解式自我、浪漫主义表达主义）；成为社群主义论争的理论基石 |
+| 1991 | 受邀发表加拿大CBC梅西讲座（Massey Lectures） | 以"现代性的隐忧"为题发表五次公开讲座；探讨本真性理想在当代的危机 |
+| 1992 | 出版 *The Ethics of Authenticity*（美国版）/ *The Malaise of Modernity*（加拿大版） | 为本真性理想辩护；区分本真性的真正内涵与其衰落形式 |
+| 1992 | 发表 "The Politics of Recognition" | 最具影响力的单篇论文；论证承认与认同的本质联系；"误认即伤害"成为认同政治的核心概念 |
+| 1994 | 出版 *Multiculturalism*（含哈贝马斯、阿皮亚等人的回应） | 承认政治理论的多方对话；展示与自由主义传统的建设性张力 |
+
+## 晚期转向 / Late Period Turn (1995–Present)
+
+| 年份 | 事件 | 思想意义 |
+|------|------|---------|
+| 1997 | 从牛津退休，返回麦吉尔大学 | 任麦吉尔大学哲学与政治学教授 |
+| 1999 | 出版 *A Catholic Modernity?* | 探讨宗教与现代性的关系；天主教传统在世俗时代的位置 |
+| 2000 | 妻子Gérald Pelletier去世 | 个人生活的重大转折 |
+| 2001 | 开始构思《世俗时代》 | 受到吉福德讲座（Gifford Lectures）邀请的推动 |
+| 2004 | 出版 *Modern Social Imaginaries* | 系统发展"社会想象"概念；分析市场经济、公共领域和人民主权三种现代社会想象 |
+| 2006 | 与Judith Butler结婚 |  Butler是当代最著名的性别理论和政治哲学学者之一 |
+| 2007 | 出版 *A Secular Age* | 近900页的巨著；重写世俗化理论；提出"内在框架"、"缓冲自我"、"新星效应"等核心概念；获Templeton Prize |
+| 2008 | 获京都奖（Kyoto Prize） | 表彰其在哲学领域的终身贡献 |
+| 2011 | 出版 *Dilemmas and Connections: Selected Essays* | 收录1990年代以来的重要论文 |
+| 2011 | 与哈贝马斯、巴特勒、韦斯特合著 *The Power of Religion in the Public Sphere* | 关于宗教在公共领域中角色的四方对话 |
+| 2015 | 获坦普尔顿奖（Templeton Prize） | 表彰其在精神生活和宗教研究方面的贡献 |
+| 2016 | 获伯格鲁恩奖（Berggruen Prize） | 表彰其对人类自我理解和现代性研究的贡献；奖金100万美元，泰勒将其捐赠给蒙特利尔的智库和学术机构 |
+| 2016 | 出版 *The Language Animal* | 回归语言哲学起点；系统发展构成性语言观 |
+| 2020 | 出版 *Cosmic Connections* | 探讨浪漫主义诗歌与表达主义；艺术在祛魅时代的作用 |
+
+## 历史背景与思想事件 / Historical Context and Intellectual Events
+
+| 时期 | 历史背景 | 泰勒的回应 |
+|------|---------|-----------|
+| 1960s | 魁北克"安静革命"；加拿大双语双文化政治 | 深入参与魁北克身份认同问题；为魁北克"独特社会"地位辩护 |
+| 1970s | 罗尔斯《正义论》（1971）出版；自由主义政治哲学复兴 | 对罗尔斯的"无负荷自我"和"原初位置"提出批评 |
+| 1980s | 里根-撒切尔时代；新自由主义兴起 | 批评原子论个人主义和工具理性；参与社群主义论争 |
+| 1989–1991 | 柏林墙倒塌；苏联解体；冷战结束 | 关注后冷战时代的认同政治和多元文化主义 |
+| 1990s | 全球化加速；文化冲突加剧 | 发展承认政治理论；探讨多元文化社会中的正义 |
+| 2001 | 9/11事件；"文明冲突"论述兴起 | 反对亨廷顿的"文明冲突论"；强调跨文明对话和承认 |
+| 2008 | 全球金融危机 | 反思市场经济的社会想象局限 |
+| 2010s | 民粹主义兴起；身份政治极化 | 分析民主危机与社会想象的崩溃；探讨"交叉压力"下的当代信仰 |
+| 2020s | AI革命；后真相政治 | 关注技术治理对道德主体性的威胁 |
+
+## 学术传承 / Academic Legacy
+
+泰勒指导了大量博士生，其中许多人成为当代重要的哲学家和政治理论家。其学术传承包括：
+
+Taylor supervised numerous doctoral students, many of whom became important contemporary philosophers and political theorists. His academic legacy includes:
+
+- 迈克尔·桑德尔（Michael Sandel）— 哈佛教授，《公正》（*Justice*）作者，社群主义重要代表
+- 威尔·金里卡（Will Kymlicka）— 女王大学教授，多元文化公民权理论家
+- 阿维赛·马加利特（Avishai Margalit）— 希伯来大学教授，记忆与宽容理论家
+- 詹姆斯·塔利（James Tully）— 维多利亚大学教授，宪政多元主义理论家
+
+## 关键论争与对话 / Key Debates and Dialogues
+
+### 自由主义 vs 社群主义论争 / Liberalism vs Communitarianism Debate (1982–1995)
+这场论争是1980–90年代英语哲学界最重要的学术争论之一。泰勒与麦金太尔、桑德尔、沃尔泽共同构成"社群主义"阵营，与罗尔斯、德沃金、诺齐克等"自由主义"阵营展开对话。泰勒在这场论争中的独特位置在于：他既是对自由主义最深刻的批评者之一，也是最温和的社群主义者——他不寻求推翻自由主义，而是寻求丰富和修正它。1989年的"Cross-Purposes"论文是泰勒对这场论争的元分析——他论证双方实际上在很多方面误解了对方。This debate was the most important academic controversy in 1980s–90s Anglophone philosophy. Taylor, along with MacIntyre, Sandel, and Walzer, formed the "communitarian" camp in dialogue with Rawls, Dworkin, Nozick and other "liberal" figures. Taylor's unique position was that he was both one of liberalism's most profound critics and one of the most moderate communitarians — seeking not to overthrow but to enrich and correct liberalism. His 1989 "Cross-Purposes" essay was a meta-analysis of the debate, arguing both sides substantially misunderstood each other.
+
+### 与哈贝马斯的对话 / Dialogue with Habermas (1992–Present)
+泰勒与哈贝马斯之间的对话是当代政治哲学中最富有成果的跨大西洋交流之一。两者共享对"对话性"和"公共领域"的重视，但在世俗主义和宗教在公共领域中的角色问题上存在分歧。2011年的 *The Power of Religion in the Public Sphere* 一书收录了两人的直接对话，展示了一种建设性的学术争论模式。Taylor's dialogue with Habermas is one of the most fruitful transatlantic exchanges in contemporary political philosophy. Both share a commitment to "dialogicality" and the "public sphere" but diverge on secularism and religion's role in the public sphere. The 2011 volume *The Power of Religion in the Public Sphere* contains their direct dialogue, exemplifying a constructive model of academic disagreement.
+
+### 世俗化理论的论争 / Secularization Theory Debates (2007–Present)
+*A Secular Age* 出版后引发了宗教社会学和宗教哲学领域的广泛讨论。主要争论焦点包括：(1) 泰勒的"建构故事"是否比"减法故事"更为准确；(2) "内在框架"概念是否过于模糊；(3) 泰勒的世俗化叙事是否过于局限于西方基督教文明。这场论争至今仍在持续，催生了"多元世俗性"（multiple secularities）研究项目。*A Secular Age* sparked extensive discussion in religious sociology and philosophy. Key debate points include: (1) whether Taylor's "construction story" is more accurate than the "subtraction story"; (2) whether the "immanent frame" concept is too vague; (3) whether Taylor's secularization narrative is too limited to Western Christian civilization. This debate continues today, spawning the "multiple secularities" research program.
+
+## 早期思想影响 / Early Intellectual Influences
+
+泰勒的思想形成受到多重智识来源的影响。在麦吉尔大学期间，他接触了马克思主义和左翼政治思想，参与学生运动，形成了对社会正义的终身关注。在牛津大学，以赛亚·伯林的"两种自由概念"对泰勒产生了深远影响——泰勒后来对消极自由概念的批判正是从伯林的框架出发的。莫里斯·梅洛-庞蒂（Maurice Merleau-Ponty）的现象学在泰勒的思想形成中扮演了关键角色——梅洛-庞蒂的"具身化"（embodiment）和"知觉的首要性"（primacy of perception）概念为泰勒反对笛卡尔式的身心二元论提供了现象学资源。此外，泰勒的天主教信仰和魁北克的双语双文化经验也深刻塑造了他对认同、社群和多元性的理解。
+
+Taylor's intellectual formation drew on multiple sources. At McGill, he encountered Marxism and leftist political thought, participated in student movements, and formed a lifelong concern with social justice. At Oxford, Isaiah Berlin's "two concepts of liberty" profoundly influenced Taylor — his later critique of negative liberty departs from Berlin's framework. Maurice Merleau-Ponty's phenomenology played a key role — the concepts of "embodiment" and "primacy of perception" provided phenomenological resources for Taylor's opposition to Cartesian mind-body dualism. Additionally, Taylor's Catholic faith and Quebec's bilingual bicultural experience profoundly shaped his understanding of identity, community, and plurality.

@@ -1,0 +1,106 @@
+---
+id: noddings-timeline
+title: "诺丁斯生平大事记 · Nel Noddings Biographical Timeline"
+type: timeline
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 生平
+  - 诺丁斯
+  - biographical
+  - Noddings
+---
+
+# 诺丁斯生平大事记 · Nel Noddings Biographical Timeline
+
+## 早年与教育 / Early Life and Education (1929–1960s)
+
+**1929** — 内尔·诺丁斯出生于美国新泽西州纽瓦克（Newark, New Jersey）。成长于一个普通家庭，早年的家庭关怀经验成为她日后"自然关怀"概念的原始经验来源。
+Born in Newark, New Jersey. Growing up in an ordinary family, early experiences of familial caring became the source of her later concept of "natural caring."
+
+**1940s–1950s** — 在蒙特克莱尔州立学院（Montclair State College）学习数学与教育，获得学士学位。这一时期美国正值战后教育扩张期，数学教师的需求急剧增加。
+Studied mathematics and education at Montclair State College, earning a bachelor's degree. This period coincided with post-war American educational expansion and sharply increased demand for mathematics teachers.
+
+**1950s–1960s** — 在新泽西州公立学校系统任教，担任中学数学教师。在教学实践中，她开始注意到传统伦理学（尤其是康德式的义务论）无法处理课堂中真实的道德情境。
+Taught in the New Jersey public school system as a high school mathematics teacher. In teaching practice, she began to notice that traditional ethics (especially Kantian deontology) could not handle real moral situations in the classroom.
+
+**1960s** — 升任中学校长（principal），在教育管理中积累了更广泛的经验。同时开始研读杜威的教育哲学和弗洛姆的人本主义精神分析，逐步形成关系性伦理学的雏形。
+Promoted to high school principal, accumulating broader experience in educational administration. Simultaneously began studying Dewey's philosophy of education and Fromm's humanistic psychoanalysis, gradually forming the outline of a relational ethics.
+
+## 学术发展 / Academic Development (1960s–1983)
+
+**1960s–1970s** — 在斯坦福大学攻读教育哲学博士学位。深入研究马丁·布伯的关系哲学、存在主义哲学和女性主义思想。
+Pursued a Ph.D. in philosophy of education at Stanford University. Deeply studied Martin Buber's relational philosophy, existentialist philosophy, and feminist thought.
+
+**1970s** — 获得斯坦福大学教育哲学博士学位，开始在斯坦福教育学院任教。在这一时期，美国女性主义运动进入高潮，卡罗尔·吉利根的研究也开始引起关注。
+Earned her Ph.D. in philosophy of education from Stanford University and began teaching at Stanford's School of Education. During this period, the American feminist movement reached its height, and Carol Gilligan's research began to attract attention.
+
+**1982** — 卡罗尔·吉利根出版《不同的声音》（*In a Different Voice*），发现女性在道德判断中使用不同于男性的"关怀"语言。这一发现为诺丁斯的哲学工作提供了重要的经验基础。
+Carol Gilligan published *In a Different Voice*, discovering that women use a different "care" language in moral judgment from men. This finding provided important empirical grounding for Noddings' philosophical work.
+
+## 开创时期 / Pioneering Period (1984–1991)
+
+**1984** — 出版《关怀：一种女性主义伦理学与道德教育》（*Caring: A Feminine Approach to Ethics and Moral Education*），由加州大学出版社出版。这部开创性著作系统阐述了关怀伦理学的核心框架，标志着关怀伦理学作为一个独立哲学传统的正式诞生。该书在学术界引起了广泛关注和激烈讨论。
+Published *Caring: A Feminine Approach to Ethics and Moral Education* with the University of California Press. This groundbreaking work systematically articulated the core framework of care ethics, marking the formal birth of care ethics as an independent philosophical tradition. The book attracted widespread attention and vigorous discussion in academic circles.
+
+**1986** — 出版《智慧信念教育》（*Educating for Intelligent Belief*），探讨教育中信念与批判性思维的关系。
+Published *Educating for Intelligent Belief*, exploring the relationship between belief and critical thinking in education.
+
+**1989** — 出版《女性与恶》（*Women and Evil*），从女性主义视角重新审视"恶"的概念，将恶定义为关怀关系的破坏。这部著作在神学和哲学界引起了争议，但也拓展了关怀伦理学的理论深度。
+Published *Women and Evil*, re-examining the concept of "evil" from a feminist perspective, defining evil as the destruction of caring relations. This work provoked controversy in theological and philosophical circles but also expanded the theoretical depth of care ethics.
+
+**1990** — 出版《母性因素：两种道德路径》（*The Maternal Factor: Two Paths to Morality*），系统阐述母性思维作为独立的道德认知路径。同年，萨拉·拉迪克的《母性思维》出版，两位学者的工作形成了重要的对话。
+Published *The Maternal Factor: Two Paths to Morality*, systematically articulating maternal thinking as an independent path of moral cognition. In the same year, Sara Ruddick's *Maternal Thinking* was published, forming an important dialogue between the two scholars' work.
+
+## 教育应用时期 / Educational Application Period (1992–1999)
+
+**1992** — 出版《学校面临的关怀挑战》（*The Challenge to Care in Schools*），将关怀伦理学应用于学校教育，提出以关怀为核心重组课程的方案。这部著作使诺丁斯的影响力从哲学界扩展到教育实践领域。
+Published *The Challenge to Care in Schools*, applying care ethics to school education and proposing a curriculum reorganized around caring. This work extended Noddings' influence from philosophy to educational practice.
+
+**1993** — 出版《教育中的智慧信念或不信》（*Educating for Intelligent Belief or Unbelief*），修订和扩展了1986年的论证。
+Published *Educating for Intelligent Belief or Unbelief*, revising and extending the 1986 argument.
+
+**1995** — 出版《教育哲学》（*Philosophy of Education*），系统介绍教育哲学的主要流派和议题。该书成为广泛使用的教材，被全球数百所大学采用。
+Published *Philosophy of Education*, systematically introducing major schools and issues in philosophy of education. The book became a widely adopted textbook, used by hundreds of universities worldwide.
+
+**1998** — 与保罗·肖尔合著《唤醒内在之眼：教育中的直觉》（*Awakening the Inner Eye: Intuition in Education*），探讨直觉在教育中的作用。
+Co-authored *Awakening the Inner Eye: Intuition in Education* with Paul Shore, exploring the role of intuition in education.
+
+**1999** — 发表《全球语境中的关怀与正义》（*Care and Justice in the Global Context*），开始将关怀伦理扩展到全球正义讨论。
+Published *Care and Justice in the Global Context*, beginning to extend care ethics to discussions of global justice.
+
+## 晚期与社会关怀 / Late Period and Social Caring (2000–2022)
+
+**2002** — 出版《从家开始：关怀与社会政策》（*Starting at Home: Caring and Social Policy*），论证家庭关怀经验为社会政策提供规范性标准。这部著作标志着诺丁斯思想从教育领域向社会政策领域的重大扩展。
+Published *Starting at Home: Caring and Social Policy*, arguing that family caring experience provides normative standards for social policy. This work marked a major extension of Noddings' thought from education to social policy.
+
+**2003** — 出版《幸福与教育》（*Happiness and Education*），提出教育的终极目的应当是幸福，而幸福的核心构成要素是关怀关系。
+Published *Happiness and Education*, proposing that the ultimate purpose of education should be happiness, with caring relations as its core constituents.
+
+**2005** — 出版《当学校改革被标准化时》（*When School Reform Is Standardized*），对美国"不让一个孩子掉队"法案提出尖锐批评，指出标准化考试和统一课程破坏了关怀关系的条件。
+Published *When School Reform Is Standardized*, offering a sharp critique of the American "No Child Left Behind" Act, arguing that standardized testing and uniform curricula undermine the conditions for caring relations.
+
+**2006** — 出版《批判性课程：我们的学校应该教什么》（*Critical Lessons: What Our Schools Should Teach*），提出学校应教授批判性课程：广告、战争、性别、环境等议题。
+Published *Critical Lessons: What Our Schools Should Teach*, proposing that schools should teach critical curricula covering advertising, war, gender, environment, and related topics.
+
+**2010** — 《母性因素》修订版出版，增加了作者对母性思维概念的新反思。
+The revised edition of *The Maternal Factor* was published, with new reflections on the maternal thinking concept.
+
+**2012** — 在《牛津教育评论》（*Oxford Review of Education*）发表重要论文《社会中的关怀关系》，探讨关怀关系在更广泛的社会层面的应用。
+Published an important article, "The Caring Relation in Society," in the *Oxford Review of Education*, exploring the application of caring relations at broader social levels.
+
+**2015** — 出版《公立学校的更丰富、更光明的愿景》（*A Richer, Brighter Vision for Public Schools*），提出将学术科目转化为教育经验的愿景。
+Published *A Richer, Brighter Vision for Public Schools*, proposing a vision for transforming academic subjects into educational experiences.
+
+**2017** — 与劳里·布鲁克斯合著《女性主义视角下的和平与社会正义》（*A Feminist Perspective on Peace and Social Justice*），将关怀伦理扩展到国际关系和全球治理领域。这是她晚年最重要的著作之一，体现了关怀伦理学在全球正义层面的应用。
+Co-authored *A Feminist Perspective on Peace and Social Justice* with Laurie Brooks, extending care ethics to international relations and global governance. This was one of her most important late-career works, embodying the application of care ethics at the global justice level.
+
+**2022** — 内尔·诺丁斯在加利福尼亚去世，享年九十三岁。她留下了一个深刻影响伦理学、教育哲学和女性主义哲学的思想遗产，关怀伦理学已成为当代最重要的伦理学传统之一。
+Nel Noddings passed away in California at the age of ninety-three. She left an intellectual legacy that profoundly influenced ethics, philosophy of education, and feminist philosophy. Care ethics has become one of the most important contemporary ethical traditions.
+
+## 历史语境 / Historical Context
+
+诺丁斯的学术生涯横跨了20世纪下半叶至21世纪初的几个重要历史阶段：二战后的教育扩张、1960–70年代的女性主义运动、1980年代对启蒙理性的反思、1990年代的教育标准化改革、以及21世纪的全球化和社会正义运动。这些历史背景深刻塑造了她的思想发展轨迹。
+
+Noddings' academic career spanned several important historical periods from the mid-twentieth century into the twenty-first: post-WWII educational expansion, the feminist movement of the 1960s–70s, the critique of Enlightenment rationality in the 1980s, education standardization reform in the 1990s, and globalization and social justice movements in the twenty-first century. These historical backgrounds profoundly shaped her intellectual trajectory.

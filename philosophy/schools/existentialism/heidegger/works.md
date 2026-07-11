@@ -1,0 +1,164 @@
+---
+id: heidegger-works
+title: 海德格尔作品总览 · Heidegger Works
+type: works-catalogue
+domain: philosophy
+school: existentialism
+thinker: heidegger
+tags: [heidegger, works, bibliography, sein-und-zeit, holzwege]
+cross-refs:
+  - id: heidegger
+    relation: thinker
+---
+
+# 海德格尔作品总览 · Heidegger Works
+
+## 总览
+
+海德格尔一生著述以**讲稿与论文**为主, 生前出版的专著数量有限, 但讲课讲稿 (Vorlesungen) 极为丰富。其全集 (Gesamtausgabe, GA) 计划出 102 卷, 至今仍在陆续出版中。以下按思想分期梳理其核心著作。
+
+## 一、早期: 基础存在论 (1915--1930)
+
+### 必读
+
+| 书名 | 德语 | 年份 | 地位 |
+|---|---|---|---|
+| 《存在与时间》 | *Sein und Zeit* | 1927 | 奠基之作, 20 世纪哲学最重要著作之一 |
+| 《康德与形而上学问题》 | *Kant und das Problem der Metaphysik* | 1929 | 对康特的存在论解读, "康德书" |
+| 《论根据的本质》 | *Vom Wesen des Grundes* | 1929 |  habilitationsschrift 的扩展 |
+
+### 早期讲稿 (马堡时期 1923--1928)
+
+- 《存在论: 此在的实际性》 (*Ontologie: Hermeneutik der Faktizität*, 1923, GA 63)
+- 《柏拉图的<智者篇>》 (*Platon: Sophistes*, 1924/25, GA 19) -- 对亚里士多德与希腊哲学的重新解读
+- 《时间概念史导论》 (*Prolegomena zur Geschichte des Zeitbegriffs*, 1925, GA 20) -- 《存在与时间》的准备
+- 《逻辑学: 真理之问》 (*Logik: Die Frage nach der Wahrheit*, 1925/26, GA 21)
+- 《现象学之基本问题》 (*Die Grundprobleme der Phanomenologie*, 1927, GA 24) -- 《存在与时间》的口头阐释
+- 《形而上学的形而上学概念》 (*Metaphysische Anfangsgründe der Logik*, 1928, GA 26)
+
+### 早期核心概念
+
+- 此在 (Dasein)、操心 (Sorge)、时间性 (Zeitlichkeit)、在世存在 (In-der-Welt-sein)
+- 上手 (Zuhandenheit) 与现成 (Vorhandenheit)
+- 前理解 (Vorverständnis) 与诠释学循环
+
+## 二、中期: 转向与存在历史 (1930--1945)
+
+### 必读
+
+| 书名 | 德语 | 年份 | 地位 |
+|---|---|---|---|
+| 《论真理的本质》 | *Vom Wesen der Wahrheit* | 1943 (讲于 1930) | 转向的标志: 真理 = Aletheia (无蔽) |
+| 《艺术作品的本源》 | *Der Ursprung des Kunstwerkes* | 1936 (出版 1950) | 艺术 = 真理自行设置入作品 |
+| 《关于人道主义的书信》 | *Brief über den Humanismus* | 1947 | 转向后的自我定位 |
+
+### 中期讲稿与论文
+
+- 《形而上学的基本概念: 世界--有限性--孤独》 (*Die Grundbegriffe der Metaphysik*, 1929/30, GA 29/30) -- 关于"深度无聊"
+- 《论根据的本质》 (*Vom Wesen des Grundes*, 1929)
+- 《真理的本质》 (*Vom Wesen der Wahrheit*, 1930 讲, 1943 出版)
+- 《荷尔德林诗的阐释》 (*Erläuterungen zur Hölderlinschen Dichtung*, 1936--1968, GA 4)
+- 《尼采》 (*Nietzsche*, 1936--1940 讲, 1961 出版, GA 6.1/6.2) -- 形而上学的终结
+- 《谢林论人类自由的本质》 (*Schellings Abhandlung über das Wesen der menschlichen Freiheit*, 1936, GA 42)
+- 《哲学论稿 (从本有而来)》 (*Beiträge zur Philosophie (Vom Ereignis)*, 1936--1938, GA 65, 1989 出版) -- 转向后最重要的手稿
+
+### 中期核心概念
+
+- 真理作为 Aletheia (无蔽/解蔽)
+- Ereignis (本有/ appropriation)
+- 存在历史 (Seinsgeschichte)
+- 大地与世界 (Erde und Welt)
+
+## 三、晚期: 语言/技术/诗意 (1945--1976)
+
+### 必读
+
+| 书名 | 德语 | 年份 | 地位 |
+|---|---|---|---|
+| 《林中路》 | *Holzwege* | 1950 | 存在历史与技术批判的汇集 |
+| 《演讲与论文集》 | *Vorträge und Aufsätze* | 1954 | 含《技术的追问》 |
+| 《在通向语言的途中》 | *Unterwegs zur Sprache* | 1959 | 语言与诗意之思 |
+| 《同一与差异》 | *Identität und Differenz* | 1957 | 存在论差异与 Ereignis |
+
+### 晚期论文与讲演
+
+- 《筑, 居, 思》 (*Bauen Wohnen Denken*, 1951) -- 栖居与四重体 (Geviert)
+- 《物》 (*Das Ding*, 1950) -- 物的聚集
+- 《技术的追问》 (*Die Frage nach der Technik*, 1954) -- Gestell 概念
+- 《泰然任之》 (*Gelassenheit*, 1959) -- 面对技术的态度
+- 《诗人的使命》 (*Wozu Dichter?*, 1946) -- 荷尔德林与里尔克
+- 《阿那克西曼德之箴言》 (*Der Spruch des Anaximander*, 1946)
+- 《黑格尔的精神现象学》 (*Hegels Phänomenologie des Geistes*, 1930/31, GA 32)
+- 《什么召唤思?》 (*Was heißt Denken?*, 1951--1952 讲, 1954 出版, GA 8)
+- 《面向思的事情》 (*Zur Sache des Denkens*, 1962--1964 讲, 1969 出版)
+- 《明镜周刊》访谈 (*Nur noch ein Gott kann uns retten*, 1966 访谈, 1976 出版) -- "只有一个神能拯救我们"
+
+### 晚期核心概念
+
+- 语言是存在之家 (Die Sprache ist das Haus des Seins)
+- 框架 (Gestell) 与持存物 (Bestand)
+- 四重体 (Geviert): 天、地、人、神
+- Gelassenheit (泰然任之/让存在)
+- Ereignis (本有)
+
+## 四、全集 (Gesamtausgabe, GA)
+
+海德格尔全集由 Vittorio Klostermann 出版社出版, 计划 102 卷, 分为四大部分:
+
+| 部分 | 内容 | 卷数 |
+|---|---|---|
+| 第一部 (Abt. I) | 已出版的著作 | 1--16 |
+| 第二部 (Abt. II) | 讲稿 (Vorlesungen) | 17--97 |
+| 第三部 (Abt. III) | 未出版手稿与笔记 | 65--97 |
+| 第四部 (Abt. IV) | 札记与记录 | 98--102 |
+
+### 重要 GA 卷
+
+- GA 2: 《存在与时间》 (Sein und Zeit)
+- GA 24: 《现象学之基本问题》 (Die Grundprobleme der Phänomenologie)
+- GA 29/30: 《形而上学的基本概念》 (Die Grundbegriffe der Metaphysik)
+- GA 65: 《哲学论稿》 (Beiträge zur Philosophie) -- 转向后最重要的手稿
+- GA 94--96: 《黑色笔记》 (Schwarze Hefte, 2014--2015 出版) -- 含反犹言论, 引发巨大争议
+
+## 五、中译本推荐
+
+| 版本 | 译者 | 出版 | 说明 |
+|---|---|---|---|
+| 《存在与时间》 | 陈嘉映、王庆节 | 三联书店, 1987/1999/2018 | 最通行的中译本 |
+| 《海德格尔文集》 (30 卷) | 孙周兴 主编 | 商务印书馆, 2015-- | 最系统的中译工程 |
+| 《林中路》 | 孙周兴 | 上海译文出版社, 2004 | |
+| 《演讲与论文集》 | 孙周兴 | 三联书店, 2005 | |
+| 《在通向语言的途中》 | 孙周兴 | 商务印书馆, 2004 | |
+| 《荷尔德林诗的阐释》 | 孙周兴 | 商务印书馆, 2000 | |
+| 《康德与形而上学问题》 | 王庆节 | 商务印书馆, 2018 | |
+| 《哲学论稿》 | 孙周兴 | 商务印书馆, 2022 | GA 65 中译 |
+
+## 六、阅读路径
+
+### 入门 (3 篇, 4 小时)
+
+1. 《关于人道主义的书信》 (30 页) -- 转向后的自白
+2. 《技术的追问》 (25 页) -- 技术批判经典
+3. 《存在与时间》导论 (30 页) -- 存在之问的提出
+
+### 进阶 (7 篇, 20 小时)
+
+4. 《存在与时间》第一篇全部 -- 此在分析
+5. 《艺术作品的本源》 -- 艺术与真理
+6. 《论真理的本质》 -- Aletheia
+7. 《筑, 居, 思》 -- 栖居与四重体
+8. 《在通向语言的途中》选篇 -- 语言之思
+9. 《同一与差异》 -- 存在论差异
+10. 《泰然任之》 -- Gelassenheit
+
+### 深潜 (全集 + 讲稿)
+
+11. 《存在与时间》全书 (含第二篇)
+12. 《哲学论稿》 (GA 65) -- 转向后的核心手稿
+13. 《形而上学的基本概念》 (GA 29/30) -- 深度无聊
+14. 《尼采》 (GA 6.1/6.2) -- 形而上学的终结
+15. 早期讲稿 (GA 19, 20, 21, 24) -- 《存在与时间》的准备
+
+## 进阶阅读
+
+见 [reading-list.md](reading-list.md)。

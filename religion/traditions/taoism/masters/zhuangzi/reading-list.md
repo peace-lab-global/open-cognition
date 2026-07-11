@@ -1,0 +1,94 @@
+---
+id: zhuangzi-reading-list
+title: 庄子进阶阅读 / Reading Guide for Zhuangzi
+type: reading-list
+domain: religion
+school: taoism
+thinker: zhuangzi
+parent: README.md
+---
+
+# 庄子进阶阅读 / Reading Guide for Zhuangzi
+
+## 阅读路径 / Reading Paths
+
+### 入门（3篇）/ Introductory (3 Chapters)
+
+1. 《逍遥游》— 庄子思想的总纲，鲲鹏寓言 / General thesis, Kun-Peng parable
+2. 《齐物论》— 蝴蝶梦、天籁、相对主义（可与逍遥游并读）/ Butterfly dream, piping of Heaven, relativism
+3. 《养生主》— 庖丁解牛，最短的内篇 / Cook Ding, shortest Inner Chapter
+
+### 进阶（内篇全读 + 秋水）/ Intermediate (All Inner Chapters + Autumn Floods)
+
+4. 《人间世》— 心斋、无用之用、支离疏 / Xinzhai, uselessness, Zhili Shu
+5. 《德充符》— 形残德全 / Wholeness of virtue despite broken bodies
+6. 《大宗师》— 坐忘与道化 / Sitting-forgetting and transformation with Dao
+7. 《应帝王》— 浑沌寓言 / The Hundun (Chaos) parable
+8. 《秋水》— 河伯与海神（外篇中最精彩者）/ River God and Sea God (best of the Outer Chapters)
+
+### 深读 / Advanced
+
+9. 外篇全读：《骈拇》《马蹄》《胠箧》《秋水》《至乐》《达生》《山木》/ All Outer Chapters
+10. 杂篇精选：《外物》《寓言》《天下》/ Selected Mixed Chapters
+11. 郭象注 — 理解魏晋玄学的庄子阐释 / Guo Xiang commentary — Wei-Jin xuanxue
+
+## 原典注释 / Annotated Editions (Chinese)
+
+| 著作 Work | 作者 Author | 出版社 Publisher | 特点 Features |
+|------|------|--------|------|
+| 《庄子今注今译》 | 陈鼓应 Chen Guying | 中华书局，2009 | 当代最佳中文注释本 |
+| 《庄子集释》 | 郭庆藩 Guo Qingfan | 中华书局，1961 | 汇集历代注释 |
+| 《庄子集解》 | 王先谦 Wang Xianqian | 中华书局，1987 | 简洁精要 |
+| 《庄子哲学及其演变》 | 刘笑敢 Liu Xiaogan | 中国人民大学出版社，2010 | 内外杂篇的作者分析 |
+| 《庄子的思想世界》 | 杨国荣 Yang Guorong | 北京大学出版社，2006 | 系统性哲学分析 |
+| 《庄子哲学》 | 王博 Wang Bo | 北京大学出版社 | 精炼的哲学入门 |
+
+## 西文译本与研究 / English Translations and Scholarship
+
+### 译本 Translations
+
+| 著作 Work | 译者 Translator | 出版社 Publisher | 年份 Year |
+|------|------|--------|------|
+| *The Complete Works of Chuang Tzu* | Burton Watson | Columbia UP | 1968 |
+| *Zhuangzi: The Complete Writings* | Brook Ziporyn | Hackett | 2020 |
+| *Chuang-tzu: The Inner Chapters* | A.C. Graham | Hackett | 2003 |
+| *Wandering on the Way* | Victor H. Mair | U of Hawaii | 1994 |
+| *The Way of Zhuangzi* | Thomas Merton | New Directions | 1965 |
+
+### 研究 Scholarship
+
+| 著作 Work | 作者 Author | 出版社 Publisher | 年份 Year |
+|------|------|--------|------|
+| *Ironies of Oneness and Difference* | Brook Ziporyn | SUNY Press | 2009 |
+| *A Companion to Angus C. Graham's Chuang Tzu* | Harold D. Roth | U of Hawaii | 2003 |
+| *Zhuangzi and Early Chinese Philosophy* | Steve Coutinho | Ashgate | 2004 |
+| *Disputers of the Tao* | A.C. Graham | Open Court | 1989 |
+| *A Daoist Theory of Chinese Thought* | Chad Hansen | Oxford UP | 1992 |
+| *Experimental Essays on Chuang-tzu* | Victor H. Mair (ed.) | U of Hawaii | 1983 |
+| *Chuang-tzu for Spiritual Transformation* | Robert E. Allinson | SUNY Press | 1989 |
+| *The Moral Fool: A Case for Immorality* | Hans-Georg Moeller | Columbia UP | 2006 |
+
+## 比较研究 / Comparative Studies
+
+| 著作 Work | 比较对象 Comparison | 特点 Features |
+|------|----------|------|
+| Ziporyn, *Being and Ambiguity* | 庄子 x 佛教 / Zhuangzi x Buddhism | 庄子与中观/唯识的比较 |
+| Connolly, *The Ethos of Pluralization* | 庄子 x 当代政治 / Zhuangzi x Politics | 庄子与多元主义 |
+| Moeller, *The Moral Fool* | 庄子 x 伦理学 / Zhuangzi x Ethics | 庄子作为"道德愚人" |
+| Parkes (ed.), *Heidegger and Asian Thought* | 庄子 x 海德格尔 / Zhuangzi x Heidegger | Gelassenheit 与无为 |
+
+## 上游思想 / Upstream Sources
+
+- **老子 Laozi**：道家哲学的本体论基础 / Ontological foundations of Daoist philosophy
+- **惠施 Hui Shi**：名家的逻辑与概念分析（庄子的对话者）/ Logician's conceptual analysis
+- **杨朱 Yang Zhu**：早期道家的个人主义倾向 / Early Daoist individualism
+
+## 下游影响 / Downstream Influence
+
+- **魏晋玄学 Wei-Jin Xuanxue**：郭象、向秀的庄子阐释 / Guo Xiang and Xiang Xiu
+- **禅宗 Chan/Zen Buddhism**：庄禅传统——直指本心、无心、顿悟 / Direct pointing, no-mind, sudden awakening
+- **文学 Literature**：陶渊明、李白、苏轼、鲁迅 / Tao Yuanming, Li Bai, Su Shi, Lu Xun
+- **海德格尔 Heidegger**：Gelassenheit（让存在）与庄子 / Releasement and Zhuangzi
+- **博尔赫斯 Borges**：梦与同一性的文学变奏 / Dreams and identity in literary variations
+- **深层生态学 Deep Ecology**：Arne Naess 引用庄子 / Naess cites Zhuangzi
+- **当代心灵哲学 Contemporary Philosophy of Mind**：蝴蝶梦、物化与自我同一性 / Butterfly dream, wuhua, and personal identity

@@ -1,0 +1,121 @@
+---
+id: anamnesis
+title: 回忆说 · Anamnesis (Recollection)
+type: concept
+parent: plato
+domain: philosophy
+tags:
+  - epistemology
+  - metaphysics
+  - philosophy-of-mind
+---
+
+# 回忆说 · Anamnesis (Recollection)
+
+> "学习就是回忆。" — 《美诺篇》81d
+>
+> "Learning is recollection." — *Meno* 81d
+
+---
+
+## 定义 Definition
+
+回忆说（Anamnesis, ἀνάμνησις）是柏拉图的认识论理论，主张：灵魂在进入身体之前就已经在理念世界中直观了所有理念；出生后，灵魂"忘记"了这些知识；学习（mathēsis）的过程实际上是通过适当的引导"回忆"（anamnesis）起灵魂前世已知的真理。因此，知识不是从外部获取的新信息，而是灵魂对自身先天知识的重新激活。
+
+Anamnesis (*ἀνάμνησις*) is Plato's epistemological theory claiming that the soul, before entering the body, contemplated all Forms in the intelligible world; upon birth, the soul "forgot" this knowledge; the process of learning (*mathēsis*) is actually "recollecting" (*anamnesis*) truths the soul knew before birth through proper guidance. Thus knowledge is not new information acquired from outside but the soul's reactivation of its innate knowledge.
+
+---
+
+## "美诺悖论"与回忆说的解决 The Meno Paradox and Anamnesis as Solution
+
+回忆说的提出是为了解决一个深刻的认识论难题——"美诺悖论"（Meno's Paradox）：
+
+Anamnesis was proposed to resolve a deep epistemological puzzle—Meno's Paradox:
+
+```
+如果你知道 X，你不需要寻找 X。
+如果你不知道 X，你无法寻找 X（因为你不知道你在找什么）。
+因此，学习 X 是不可能的。
+
+If you know X, you don't need to search for X.
+If you don't know X, you can't search for X (you don't know what you're looking for).
+Therefore, learning X is impossible.
+```
+
+柏拉图的回答：你既"知道"又"不知道" X——你的灵魂先天知道 X，但你在现世已经"忘记"了它。学习就是将遗忘的知识重新带入意识。
+
+Plato's answer: you both "know" and "don't know" X—your soul innately knows X, but you have "forgotten" it in this life. Learning is bringing forgotten knowledge back into consciousness.
+
+---
+
+## 奴隶男孩演示 The Slave Boy Demonstration
+
+在《美诺篇》82b-85b 中，苏格拉底通过对一个从未学过几何的奴隶男孩的提问，引导他独立"发现"了一个几何定理（如何构造一个面积是给定正方形两倍的正方形）。苏格拉底没有"教"他任何东西，只是通过提问引导他回忆。这一演示旨在证明：
+
+In *Meno* 82b-85b, Socrates leads an uneducated slave boy to independently "discover" a geometric theorem (how to construct a square with twice the area of a given square) through questioning alone. Socrates "teaches" nothing, only guiding through questions. This demonstration aims to prove:
+
+1. 知识可以被"引出"而非"灌入" / Knowledge can be "drawn out" rather than "poured in"
+2. 灵魂拥有先天知识 / The soul possesses innate knowledge
+3. 诘问法（elenchus）是唤醒这种先天知识的方法 / Elenchus is the method for awakening this innate knowledge
+
+---
+
+## 回忆的形而上学前提 Metaphysical Presuppositions
+
+回忆说预设了三个形而上学前提：
+
+Anamnesis presupposes three metaphysical premises:
+
+### 1. 灵魂的先存性 Pre-existence of the Soul
+灵魂在进入身体之前就已经存在，并在理念世界中直观了理念。这与柏拉图的灵魂不朽论（《斐多篇》）紧密相连。
+
+The soul existed before entering the body and contemplated Forms in the intelligible world. This is tightly linked to Plato's theory of the soul's immortality (*Phaedo*).
+
+### 2. 理念世界的存在 Existence of the Intelligible World
+存在一个独立于感官经验的、永恒不变的理念世界，灵魂可以在其中直观真理。
+
+There exists a realm of eternal, unchanging Forms independent of sensory experience, where the soul can contemplate truth.
+
+### 3. 遗忘 Lethe (Forgetting)
+灵魂进入身体时经历了"遗忘"（lēthē），如同饮下了"遗忘之河"（River Lethe，《理想国》第十卷 621a）的水。这解释了为什么我们生来并不明显地"知道"理念。
+
+Upon entering the body, the soul undergoes "forgetting" (*lēthē*), as if drinking from the River of Forgetfulness (*Republic* Book X, 621a). This explains why we are not obviously "born knowing" the Forms.
+
+---
+
+## 回忆说的当代解读 Contemporary Interpretations
+
+### 先天论解读 Nativist Reading
+将回忆说理解为一种认知先天论（cognitive nativism）——人类心智具有某些先天的概念结构（如因果性、数、空间），这些结构不是从经验中习得的，而是使经验成为可能的前提。这与乔姆斯基的"普遍语法"和康德的"先天范畴"有结构上的平行关系。
+
+Reading anamnesis as cognitive nativism—the human mind has certain innate conceptual structures (causality, number, space) not acquired from experience but making experience possible. This structurally parallels Chomsky's "Universal Grammar" and Kant's "a priori categories."
+
+### 隐喻性解读 Metaphorical Reading
+不将"前世记忆"按字面理解，而将回忆说理解为一种关于学习过程的隐喻：真正的学习不是被动的信息接收，而是主动的概念建构——学习者必须从已有的认知资源中"重新发现"真理。
+
+Reading "past-life memory" non-literally, understanding anamnesis as a metaphor for the learning process: genuine learning is not passive information reception but active concept construction—learners must "rediscover" truth from their existing cognitive resources.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与唯识学"本有种子" Dialogue with Yogācāra's "Innate Seeds"
+
+唯识学的"本有种子"（prakṛti-stha-bīja）概念与回忆说有深刻的平行关系。唯识学认为，阿赖耶识（ālaya-vijñāna）中储存着"本有"的种子——不是后天经验熏习所得，而是从无始以来就存在于识中的潜能。这些种子在适当条件下"现行"（manifest），类似于柏拉图的灵魂在诘问的引导下"回忆"起先天知识。然而，唯识学不预设一个前世的"理念世界"——种子是识自身的结构，而非来自某个外在的实在。
+
+Yogācāra's "innate seeds" (*prakṛti-stha-bīja*) deeply parallel anamnesis. Yogācāra holds that the *ālaya-vijñāna* stores "innate" seeds—not acquired through experience but existing in consciousness from beginningless time. These seeds "manifest" under appropriate conditions, similar to how Plato's soul "recollects" innate knowledge under elenctic guidance. However, Yogācāra does not presuppose a past-life "intelligible world"—seeds are consciousness's own structure, not derived from an external reality.
+
+### 与禅宗"本来面目" Dialogue with Zen "Original Face"
+
+禅宗六祖慧能的"本来面目"概念——"不思善，不思恶，正恁么时，哪个是明上座本来面目？"——暗示每个人先天拥有佛性（buddha-dhātu），只是被妄念遮蔽。修行不是获取新知识，而是"见性"——回归先天的本然状态。这与回忆说的结构几乎完全一致：知识已经在那里，只是被"遗忘"（遮蔽）了。
+
+Zen's Sixth Patriarch Huineng's "original face"—"Not thinking good, not thinking evil, at this very moment, what is your original face?"—implies everyone innately possesses Buddha-nature (*buddha-dhātu*), merely obscured by delusions. Practice is not acquiring new knowledge but "seeing one's nature"—returning to the innate original state. This is structurally nearly identical to anamnesis: knowledge is already there, merely "forgotten" (obscured).
+
+---
+
+## 相关条目 Related Entries
+
+- [理念论 Theory of Forms](theory-of-forms.md)
+- [诘问法 Socratic Method](../socrates/concepts/socratic-method.md)
+- [灵魂三分 Tripartite Soul](tripartite-soul.md)
+- [柏拉图 · 柏拉图](../README.md)

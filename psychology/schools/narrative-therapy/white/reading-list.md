@@ -1,0 +1,103 @@
+---
+id: white-reading-list
+title: "怀特推荐阅读 · Michael White Reading List"
+type: reading-list
+thinker: white-michael
+---
+
+# 怀特推荐阅读 · Michael White Reading List
+
+## 一、原典精读 / Primary Works (Essential Reading)
+
+### 必读 / Must-Read
+
+1. **White, M.** *Maps of Narrative Practice*. New York: W.W. Norton, 2007.
+   - 怀特最系统化的著作，提出六大治疗"地图"：外化对话、重写对话、说知见证、定义式仪式、悲伤地图和重建对话。整合了毕生实践智慧，是学习叙事实践的完整指南。
+   - White's most systematic work, proposing six therapeutic "maps": externalizing conversations, re-authoring conversations, re-membering conversations, definitional ceremony, grief map, and re-negotiation map. Integrates lifetime practice wisdom; a complete guide to learning narrative practice.
+
+2. **White, M. & Epston, D.** *Narrative Means to Therapeutic Ends*. New York: W.W. Norton, 1990.
+   - 叙事疗法的奠基之作。系统提出外化对话、重写和独特结果等核心概念，是理解叙事实践历史和理论的起点。
+   - Foundational text of narrative therapy. Systematically proposes core concepts of externalizing conversations, re-authoring, and unique outcomes. The starting point for understanding the history and theory of narrative practice.
+
+3. **White, M.** *Experience, Contradiction, Narrative and Imagination: Selected Papers of David Epston and Michael White*. Adelaide: Dulwich Centre Publications, 1991.
+   - 进一步拓展叙事实践的理论和临床范围，收录了怀特与艾普斯顿的重要论文。
+   - Further expands the theoretical and clinical scope of narrative practice, collecting important papers by White and Epston.
+
+### 推荐阅读 / Recommended
+
+4. **White, M.** *Reflections on Narrative Practice*. Adelaide: Dulwich Centre Publications, 2000.
+   - 对叙事实践的反思与总结，回应批评和质疑。适合有一定基础的实践者深入理解。
+   - Reflections and summaries of narrative practice, addressing criticisms. Suitable for experienced practitioners seeking deeper understanding.
+
+5. **White, M.** *Narrative Practice and Exotic Sounds: Personalities of the Inner World*. Adelaide: Dulwich Centre Publications, 2004.
+   - 关注叙事实践中的创造性和想象力维度，探讨如何在工作中保持灵活与开放。
+   - Attends to the creative and imaginative dimensions of narrative practice, exploring how to remain flexible and open in practice.
+
+6. **White, M.** *Narratives of Therapists' Lives*. Adelaide: Dulwich Centre Publications, 1997.
+   - 探讨治疗师自身身份认同的叙事建构，关注治疗师的个人成长与专业发展。
+   - Explores the narrative construction of therapists' own identities, attending to therapists' personal growth and professional development.
+
+7. **White, M. & Epston, D.** *Literate Means to Therapeutic Ends*. Adelaide: Dulwich Centre Publications, 1989.
+   - 探讨书写、信件和文件在治疗中的运用，是叙事实践中"文件化"方法的原始阐述。
+   - Explores the use of writing, letters, and documents in therapy; original exposition of "documentation" methods in narrative practice.
+
+## 二、二手研究 / Secondary Research
+
+### 叙事实践导论 / Narrative Practice Introductions
+
+1. **Freedman, J. & Combs, G.** *Narrative Therapy: The Social Construction of Preferred Realities*. New York: W.W. Norton, 1996.
+   - 叙事疗法最重要的二手研究著作之一，从社会建构论角度系统阐述叙事实践的理论基础和临床应用。
+   - One of the most important secondary works on narrative therapy, systematically articulating the theoretical foundations and clinical applications from a social constructionist perspective.
+
+2. **Payne, M.** *Narrative Therapy: An Introduction for Counsellors*. London: Sage, 2000.
+   - 面向咨询师的叙事疗法导论，以清晰的实践导向介绍核心概念和技术。
+   - Introduction to narrative therapy for counselors, presenting core concepts and techniques in a clear, practice-oriented manner.
+
+3. **Morgan, A.** *What Is Narrative Therapy? An Easy-to-Read Introduction*. Adelaide: Dulwich Centre Publications, 2000.
+   - 最易读的叙事疗法入门读物，由杜尔维奇中心出版，适合初学者。
+   - Most accessible introduction to narrative therapy, published by Dulwich Centre, suitable for beginners.
+
+### 后结构主义与叙事 / Post-structuralism and Narrative
+
+4. **Foucault, M.** *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*. New York: Pantheon, 1980.
+   - 福柯权力/知识理论的核心理论文本，是理解叙事实践批判性基础的关键。
+   - Core theoretical text of Foucault's power/knowledge theory, key to understanding the critical foundations of narrative practice.
+
+5. **Bruner, J.** *Acts of Meaning*. Cambridge, MA: Harvard University Press, 1990.
+   - 布鲁纳叙事心理学的经典文本，为叙事隐喻提供心理学支撑。
+   - Classic text of Bruner's narrative psychology, providing psychological support for the narrative metaphor.
+
+6. **Myerhoff, B.** *Number Our Days*. New York: Simon & Schuster, 1978.
+   - 迈尔霍夫的叙事人类学经典，对"说知"（re-membering）和定义式仪式的原始阐述。
+   - Myerhoff's classic narrative anthropology, original exposition of "re-membering" and definitional ceremony.
+
+### 社会建构论 / Social Constructionism
+
+7. **Gergen, K.J.** *The Saturated Self: Dilemmas of Identity in Contemporary Life*. New York: Basic Books, 1991.
+   - 社会建构论的经典文本，为叙事实践的哲学根基提供支持。
+   - Classic text of social constructionism, supporting the philosophical foundations of narrative practice.
+
+## 三、中文资源 / Chinese Resources
+
+1. **怀特**《叙事实践的地图》. — *Maps of Narrative Practice* 中译本
+2. **怀特 & 艾普斯顿**《叙事疗法》. — *Narrative Means to Therapeutic Ends* 中译本
+3. **弗里德曼 & 康普斯**《叙事疗法：偏好的现实的社会建构》. — 叙事疗法最重要的二手研究之一
+
+## 四、延伸阅读 / Extended Reading
+
+### 后现代治疗 / Postmodern Therapy
+
+- **Anderson, H.** *Conversations, Conversations, Conversations*. New York: Guilford, 1997. — 合作对话实践
+- **de Shazer, S.** *Clues: Investigating Solutions in Brief Therapy*. New York: Norton, 1988. — 焦点解决短期治疗
+- **Anderson, H. & Goolishian, H.** "Human Systems as Linguistic Systems." *Family Process*, 27(4), 371-393, 1988. — "不知"治疗立场
+
+### 社区叙事实践 / Community Narrative Practice
+
+- **Denborough, D.** (Ed.). *Collective Narrative Practice: Responding to Individuals, Groups, and Communities Who Have Experienced Trauma*. Adelaide: Dulwich Centre Publications, 2008.
+- **Ncube, N.** *Tree of Life*. Dulwich Centre Publications. — 面向非洲儿童的集体叙事实践工具
+
+### 相关资源 / Related Resources
+
+- Dulwich Centre Publications: [dulwichcentre.com.au](https://dulwichcentre.com.au) — 叙事实践国际出版与培训枢纽
+- *International Journal of Narrative Therapy and Community Work* — 国际叙事疗法与社区工作期刊
+- *Dulwich Centre Journal* — 叙事实践研究期刊

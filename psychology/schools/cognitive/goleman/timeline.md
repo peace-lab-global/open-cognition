@@ -1,0 +1,97 @@
+---
+id: goleman-timeline
+title: "戈尔曼思想年表 · Timeline of Goleman"
+type: timeline
+domain: psychology
+school: cognitive
+thinker: goleman
+tags: [timeline, biography, intellectual-history, emotional-intelligence, meditation-research]
+cross-refs:
+  - id: goleman
+    relation: thinker
+---
+
+# 戈尔曼思想年表
+
+## 早年与学术训练 (1946–1974) Early Years and Academic Training
+
+- **1946** — 3 月 7 日生于加利福尼亚州斯托克顿 (Stockton, California)。成长于犹太家庭，父亲为社区学院教授，母亲为记者
+- **1964-1968** — 就读阿默斯特学院 (Amherst College)，主修心理学。在校期间首次接触冥想——通过一位教授介绍的超觉冥想 (Transcendental Meditation)
+- **1968-1969** — 赴印度旅行，在达兰萨拉 (Dharamsala) 与藏传佛教僧侣和冥想教师接触，这段经历深刻影响了他对冥想多样性的理解
+- **1969-1974** — 哈佛大学心理学博士项目。导师为 David McClelland（动机理论先驱，"成就需求"理论提出者）。博士研究探索冥想对注意力和心理功能的影响
+- **1974** — 获哈佛大学心理学博士学位
+
+## 冥想研究早期 (1974–1984) Early Meditation Research
+
+- **1974-1976** — 在哈佛大学任教，继续冥想研究。同时开始为《Psychology Today》杂志撰写科学报道
+- **1977** — 出版首部著作 ***The Varieties of the Meditative Experience***，首次系统比较不同冥想传统（正念、超觉冥想、藏传观想、苏菲、基督教默观）的心理学差异
+- **1978-1983** — 作为自由科学记者为多家媒体撰稿，逐渐建立"将复杂科学翻译为大众语言"的能力
+- **1984** — 加入 ***《纽约时报》(The New York Times)*** 担任行为与脑科学记者，直至 1990 年代。这一职位使他接触到最前沿的心理学和神经科学研究，同时培养了将科学转化为公共叙事的技能
+- **1984** — 首次会见**达赖喇嘛**，开始科学与冥想传统之间的长期对话
+
+## EQ 革命前奏 (1985–1994) Prelude to the EQ Revolution
+
+- **1985** — 出版 ***Vital Lies, Simple Truths***，探讨自我欺骗的心理机制和"注意力盲点"概念
+- **1987** — **Mind & Life Institute** 成立（由 Francisco Varela 和 Adam Engle 创立），Goleman 作为核心参与者加入，推动佛教冥想传统与现代科学的系统对话
+- **1988** — ***The Meditative Mind*** 修订版出版，增加了近十年的科学研究综述
+- **1989** — 在 *The New York Times* 发表关于情绪脑科学的系列报道，首次接触 Joseph LeDoux 的杏仁核研究和 Antonio Damasio 的躯体标记假说
+- **1990** — Peter Salovey (耶鲁大学) 和 John Mayer (新罕布什尔大学) 在学术期刊发表 "Emotional Intelligence" 论文，提出 EQ 的正式学术定义
+- **1992** — 出版 ***The Meditative Mind*** 进一步修订，整合早期冥想神经科学发现
+
+## EQ 全球风暴 (1995–2005) The Global EQ Revolution
+
+- **1995** — 出版 ***Emotional Intelligence: Why It Can Matter More Than IQ***。该书迅速成为全球畅销书：
+  - 在《纽约时报》畅销书榜停留超过 18 个月
+  - 翻译为 40 余种语言
+  - 总销量超过 500 万册
+  - "EQ"成为公共话语中的常见词汇
+  - 《时代》(Time) 杂志封面故事专题报道
+- **1995** — 联合创立 **CASEL (Collaborative for Academic, Social, and Emotional Learning)**，推动社会情绪学习在教育系统中的制度化
+- **1997** — 编辑出版 ***Healing Emotions***，记录与达赖喇嘛及科学家关于情绪与健康的对话
+- **1998** — 出版 ***Working with Emotional Intelligence***，将 EQ 框架应用于职场
+  - 在 *Harvard Business Review* 发表 "What Makes a Leader?"，成为该刊被引用最多的文章之一
+- **2002** — 与 Boyatzis 和 McKee 合著 ***Primal Leadership***，提出"共鸣型领导"模型
+  - 该书将 EQ 从个人能力拓展为组织层面的领导力框架
+- **2003** — 参与组织达赖喇嘛与神经科学家在 MIT 的历史性对话
+- **2004** — *Harvard Business Review* 发表修订版 "What Makes a Leader?"，整合十年的 EQ 领导力研究
+
+## 社会智力与整合期 (2006–2012) Social Intelligence and Integration
+
+- **2006** — 出版 ***Social Intelligence: The New Science of Human Relationships***
+  - 整合镜像神经元、纺锤形细胞、情绪感染等社会神经科学发现
+  - 提出"社会脑"概念
+  - 将 EQ 从个体能力拓展至人际关系层面
+- **2007** — 组织达赖喇嘛与科学家在 MIT 的"冥想与科学"研讨会
+- **2009** — 出版 ***Ecological Intelligence***，将 EQ/SI 框架拓展至生态领域
+  - 探讨"彻底透明"如何改变消费者行为
+  - 提出"生态智力"概念
+
+## 注意力研究与冥想科学综合 (2013–present) Attention Research and Contemplative Science Synthesis
+
+- **2013** — 出版 ***Focus: The Hidden Driver of Excellence***
+  - 提出注意力三维度模型：内在专注、他人专注、外在专注
+  - 讨论数字时代注意力的碎片化问题
+  - 将 EQ 和冥想研究整合在"注意力"这一核心概念之下
+- **2015** — 出版 ***A Force for Good: The Dalai Lama's Vision for Our World***
+  - 记录达赖喇嘛关于慈悲驱动社会变革的愿景
+  - 涵盖教育、环境、经济、治理四个领域
+- **2017** — 与 Richard J. Davidson 合著 ***Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body***
+  - 严格筛选 6000+ 篇冥想研究，综述约 60 项方法论严格的研究
+  - 核心贡献：系统区分状态效应 (altered states) 与特质效应 (altered traits)
+  - 批评了"8 周正念课程改变大脑"的过度宣传
+  - 确立了冥想"剂量-反应"关系的证据基础
+- **2020s** — 持续关注 EQ 在 AI 时代的角色、冥想科学的方法论严格化、SEL 在全球教育中的推广
+- **2025** — 出版 ***The Source***，回归情绪与决策的基础性探讨
+
+## 关键合作网络 Key Collaborative Network
+
+| 合作者 | 关系 | 贡献 |
+|--------|------|------|
+| **David McClelland** | 哈佛导师 | 动机理论，EQ 概念的学术土壤 |
+| **Richard Davidson** | 长期合作者 | 情感神经科学，*Altered Traits* 合著 |
+| **达赖喇嘛** | 跨文化对话伙伴 | 冥想传统与科学的桥梁 |
+| **Jon Kabat-Zinn** | 同源同行 | MBSR 创始人，正念世俗化 |
+| **Peter Salovey** | 学术奠基人 | EQ 的正式学术定义 |
+| **John Mayer** | 学术奠基人 | EQ 的能力模型 |
+| **Francisco Varela** | 跨学科桥梁 | Mind & Life Institute 创始人 |
+| **Antoine Lutz** | 研究合作者 | 冥想脑电研究 |

@@ -1,0 +1,125 @@
+---
+id: taylor-social-imaginary
+title: "社会想象 · Social Imaginary"
+type: concept
+thinker: taylor
+domain: ethics-politics
+school: communitarianism
+tags:
+  - 社会想象
+  - social-imaginary
+  - modernity
+  - public-sphere
+  - market-economy
+  - popular-sovereignty
+  - moral-order
+---
+
+# 社会想象 · Social Imaginary
+
+## 概念概述 / Concept Overview
+
+"社会想象"（social imaginary）是泰勒在2004年出版的《现代社会想象》（*Modern Social Imaginaries*）中系统发展的核心概念，其思想根源可追溯到更早的著作。泰勒论证，"社会想象"不同于"社会理论"（social theory）——社会理论是知识分子和专业人士明确表述的关于社会的系统性知识，而社会想象是普通人在日常生活中理解和实践社会生活的背景方式。它是"使共同的实践成为可能、使合法性感觉广泛共享的一系列理解"。
+
+"Social imaginary" is the central concept Taylor systematically developed in his 2004 book *Modern Social Imaginaries*, with intellectual roots traceable to earlier works. Taylor argues that the "social imaginary" differs from "social theory" — social theory is intellectuals' and professionals' explicitly articulated systematic knowledge about society, while the social imaginary is ordinary people's background way of understanding and practicing social life in everyday experience. It is "the ensemble of understandings that make common practices possible and a widely shared sense of legitimacy."
+
+社会想象之所以重要，是因为它构成了社会秩序的深层基础——不是通过强制或欺骗，而是通过提供一种"理所当然"的方式使人们能够在社会中生活、行动和互动。
+
+The social imaginary matters because it constitutes the deep foundation of social order — not through coercion or deception but by providing a "taken-for-granted" way that enables people to live, act, and interact in society.
+
+## 理论内涵 / Theoretical Content
+
+### 社会想象的三个特征 / Three Features of the Social Imaginary
+
+**第一：背景性 / First: Background Character**
+社会想象不是一套明确的信念或理论，而是一种背景性的理解方式——它是如此深嵌于日常实践中，以至于人们通常不会意识到它的存在。就像鱼意识不到水一样，我们在社会想象中行动、互动和生活，却很少反思这种想象本身。这种背景性使社会想象不同于意识形态——意识形态是可以被批判和拒绝的明确主张，而社会想象是先于批判的背景条件。
+
+The social imaginary is not a set of explicit beliefs or theories but a background understanding — it is so deeply embedded in everyday practice that people usually don't notice its existence. Like fish unaware of water, we act, interact, and live within the social imaginary while rarely reflecting on the imaginary itself. This background character distinguishes the social imaginary from ideology — ideology consists of explicit claims that can be critiqued and rejected, while the social imaginary is the background condition prior to critique.
+
+**第二：实践性 / Second: Practical Character**
+社会想象不是抽象的理论，而是通过具体的实践——仪式、制度、日常行为模式——来体现和再生产的。例如，市场经济的社会想象不是亚当·斯密的理论，而是人们在超市购物、在市场上讨价还价、在职场上竞争时所共享的理解方式。社会想象存在于实践之中，通过实践被传递和改变。
+
+The social imaginary is not abstract theory but is embodied and reproduced through concrete practices — rituals, institutions, everyday behavior patterns. For example, the market economy's social imaginary is not Adam Smith's theory but the shared understanding people have when shopping at supermarkets, bargaining in markets, and competing in workplaces. The social imaginary exists in practice, transmitted and transformed through practice.
+
+**第三：规范性 / Third: Normative Character**
+社会想象不仅描述社会生活如何运作，还包含着关于社会生活应当如何运作的规范性期望——它定义了什么是"正常的"、"合理的"、"可接受的"行为。这种规范性使社会想象成为合法性的来源——当行为符合社会想象时，它被视为"自然的"；当行为偏离社会想象时，它被视为"异常的"。
+
+The social imaginary not only describes how social life operates but contains normative expectations about how social life should operate — it defines what is "normal," "reasonable," and "acceptable" behavior. This normativity makes the social imaginary a source of legitimacy — when behavior conforms to the social imaginary, it is seen as "natural"; when it deviates, it is seen as "abnormal."
+
+### 现代社会想象的三种形式 / Three Forms of Modern Social Imaginary
+
+泰勒论证，现代西方社会由三种核心的社会想象所构成：
+
+Taylor argues that modern Western society is constituted by three core social imaginaries:
+
+**1. 市场经济 / The Market Economy**
+市场经济不仅仅是一套经济制度，更是一种社会想象——它包含着一种关于人类社会如何运作的深层理解：个体通过自愿的交换来满足各自的需要，这种交换自发地产生秩序和繁荣。这种想象使得"经济"成为一个独立的、自足的领域——在前现代社会，经济活动是嵌入在社会关系和宗教义务之中的，不存在独立的"经济"领域。
+
+The market economy is not merely an economic institution but a social imaginary — it contains a deep understanding of how human society operates: individuals satisfy their needs through voluntary exchange, which spontaneously produces order and prosperity. This imaginary makes "the economy" an independent, self-sufficient domain — in pre-modern society, economic activity was embedded in social relationships and religious obligations, and no independent "economic" domain existed.
+
+**2. 公共领域 / The Public Sphere**
+公共领域是一种社会想象——它假设存在着一个独立于政治权力和经济利益的空间，在这个空间中，公民通过理性的讨论来形成公共舆论，而公共舆论应当影响政治决策。这种想象使得"舆论"（public opinion）成为一个有道德权威的概念——在专制社会中，"舆论"没有这种地位。
+
+The public sphere is a social imaginary — it presupposes the existence of a space independent of political power and economic interests, where citizens form public opinion through rational discussion, and public opinion should influence political decisions. This imaginary makes "public opinion" a morally authoritative concept — in authoritarian societies, "public opinion" lacks this status.
+
+**3. 人民主权 / Popular Sovereignty**
+人民主权是一种社会想象——它假设政治权威的最终来源是"人民"，而不是上帝、传统或强者的权力。这种想象使得"民主"成为唯一合法的政治形式——在前现代社会，政治权威的来源是多样的（神授、血统、武力），但在现代社会，即使是独裁者也必须声称自己代表"人民的意志"。
+
+Popular sovereignty is a social imaginary — it presupposes that political authority's ultimate source is "the people," not God, tradition, or the powerful's might. This imaginary makes "democracy" the only legitimate political form — in pre-modern society, political authority had diverse sources (divine right, bloodline, force), but in modern society, even dictators must claim to represent "the people's will."
+
+### 社会想象与道德秩序 / Social Imaginary and Moral Order
+
+泰勒论证，每种社会想象都预设了一种"道德秩序"（moral order）——关于人类社会应当如何组织的深层规范愿景。现代社会的道德秩序是"互利秩序"（order of mutual benefit）——社会存在的目的是为个体提供安全和繁荣，个体通过自愿的合作来实现这一目的。这种道德秩序取代了前现代的"等级秩序"（hierarchical order）——社会存在的目的是维持宇宙和社会的等级结构。
+
+Taylor argues that every social imaginary presupposes a "moral order" — a deep normative vision of how human society should be organized. Modern society's moral order is an "order of mutual benefit" — society exists to provide individuals with security and prosperity, and individuals achieve this through voluntary cooperation. This moral order replaced the pre-modern "hierarchical order" — society exists to maintain cosmic and social hierarchical structure.
+
+## 思想史脉络 / Intellectual History
+
+"社会想象"概念的思想谱系涉及多个来源。首先，卡斯托里亚迪斯（Cornelius Castoriadis）的"社会的想象制度"（imaginary institution of society）概念——社会不是由物质力量决定的，而是由社会的自我想象构成的。其次，安德森（Benedict Anderson）的"想象的共同体"（imagined communities）概念——民族不是自然存在的，而是通过共同的想象被建构的。第三，哈贝马斯（Jürgen Habermas）的"公共领域"（public sphere）概念——现代社会中存在一个独立于权力和市场的理性讨论空间。泰勒的贡献在于将这些不同的传统整合为一个统一的理论框架。
+
+The "social imaginary" concept's intellectual genealogy involves multiple sources. First, Cornelius Castoriadis's "imaginary institution of society" — society is not determined by material forces but constituted by society's self-imagination. Second, Benedict Anderson's "imagined communities" — nations are not naturally existing but constructed through shared imagination. Third, Jürgen Habermas's "public sphere" — modern society contains a rational discussion space independent of power and market. Taylor's contribution was integrating these different traditions into a unified theoretical framework.
+
+## 关键文本 / Key Passages
+
+> "By social imaginary, I mean something much broader and deeper than intellectual theory... I am thinking, rather, of the ways ordinary people 'imagine' their social surroundings, and this is often not expressed in theoretical terms, but is carried in images, stories, and legends."
+> — Taylor, *Modern Social Imaginaries* (2004), p. 23
+
+> "我所说的社会想象，是指比智识理论更广泛、更深层的东西……我想的是普通人'想象'其社会环境的方式，这通常不用理论术语来表达，而是承载在图像、故事和传说中。"
+
+> "The social imaginary is that common understanding that makes possible common practices and a widely shared sense of legitimacy."
+> — Taylor, *Modern Social Imaginaries* (2004), p. 23
+
+> "社会想象是那种使共同实践成为可能、使合法性感觉广泛共享的共同理解。"
+
+## 当代应用 / Contemporary Applications
+
+社会想象概念在当代有广泛的应用。在民主研究中，泰勒的框架帮助分析不同国家的民主实践为何如此不同——同样的选举制度在不同的社会想象中会产生不同的政治效果。例如，美国的"人民主权"想象强调个人自由和有限政府，而法国的"人民主权"想象强调公民平等和国家干预。在全球化研究中，"社会想象"概念帮助分析全球市场经济想象如何与地方性社会想象发生冲突和融合——例如，新自由主义的"华盛顿共识"如何与东亚的"发展型国家"想象发生张力。在数字时代，社会想象概念也被用于分析社交媒体如何改变了公共领域的想象结构——算法推荐、信息茧房和"后真相"（post-truth）政治如何重塑了"公共舆论"的社会想象。
+
+The social imaginary concept has broad contemporary applications. In democracy studies, Taylor's framework helps analyze why democratic practice differs so much across countries — the same electoral institutions produce different political effects in different social imaginaries. For example, American "popular sovereignty" imaginary emphasizes individual liberty and limited government, while French "popular sovereignty" imaginary emphasizes civic equality and state intervention. In globalization studies, the "social imaginary" concept helps analyze how global market economy imaginaries conflict and merge with local social imaginaries — for example, the tension between neoliberal "Washington Consensus" and East Asian "developmental state" imaginaries. In the digital age, the social imaginary concept is also used to analyze how social media changes the public sphere's imaginary structure — how algorithmic recommendations, filter bubbles, and "post-truth" politics reshape the social imaginary of "public opinion."
+
+## 批评与回应 / Critiques and Responses
+
+**批评一：概念过于宽泛 / Critique 1: Concept Too Broad**
+一些批评者认为，"社会想象"概念过于宽泛和模糊——它几乎可以指任何东西，因此缺乏分析力。Some critics argue the "social imaginary" concept is too broad and vague — it can refer to almost anything, thus lacking analytical power.
+
+**回应 / Response:** 泰勒承认这一批评，并通过区分"社会想象"与"社会理论"来增加概念的精确性——社会想象是背景性的、实践性的、非理论化的，而社会理论是明确的、系统的、专业性的。Taylor acknowledges this criticism and increases the concept's precision by distinguishing "social imaginary" from "social theory" — the social imaginary is background, practical, non-theoretical, while social theory is explicit, systematic, and professional.
+
+**批评二：忽视权力 / Critique 2: Neglect of Power**
+福柯传统的批评者认为，泰勒的社会想象概念忽视了权力（power）的作用——社会想象不是中立的"共同理解"，而是权力关系的产物。Foucauldian critics argue that Taylor's social imaginary concept neglects power — the social imaginary is not neutral "common understanding" but a product of power relations.
+
+**回应 / Response:** 泰勒不否认权力的作用，但他论证权力必须通过社会想象来运作——权力的有效性恰恰在于它能够塑造和维持特定的社会想象。Taylor does not deny power's role but argues that power must operate through social imaginaries — power's effectiveness lies precisely in its ability to shape and maintain specific social imaginaries.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+社会想象概念为中国研究提供了独特的分析框架。中国传统社会的社会想象可以被概括为"天命秩序"（Mandate of Heaven order）——社会存在是为了维持宇宙和社会的和谐（和），政治权威的来源是"天命"而非"人民意志"。近现代中国的社会想象经历了深刻的转变——从"天命秩序"到"革命想象"（revolutionary imaginary）再到"发展想象"（developmental imaginary）。当代中国的社会想象是"市场经济"、"人民主权"和"文明复兴"的复杂混合——这种混合如何与西方的三种现代社会想象相比较，是一个有待深入研究的问题。
+
+The social imaginary concept provides a unique analytical framework for China studies. Traditional Chinese society's social imaginary could be characterized as a "Mandate of Heaven order" — society exists to maintain cosmic and social harmony (he), and political authority's source is the "Mandate of Heaven" rather than "the people's will." Modern Chinese social imaginaries have undergone profound transformation — from "Mandate of Heaven order" to "revolutionary imaginary" to "developmental imaginary." Contemporary China's social imaginary is a complex mixture of "market economy," "popular sovereignty," and "civilizational renaissance" — how this mixture compares with the three modern Western social imaginaries is a question awaiting further research.
+
+## 延伸阅读 / Further Reading
+
+- Taylor, C. *Modern Social Imaginaries* (Duke UP, 2004) — 原典
+- Castoriadis, C. *The Imaginary Institution of Society* (MIT Press, 1987) — 社会想象的理论来源
+- Anderson, B. *Imagined Communities* (Verso, 1983) — 想象的共同体
+- Habermas, J. *The Structural Transformation of the Public Sphere* (MIT Press, 1989) — 公共领域
+- Strauss, M. "The Imaginary" in *Theory, Culture & Society* (2006) — 社会想象概念的理论综述
+- 赵鼎新，《国家、社会关系与八九北京学运》— 中国社会想象的经验研究

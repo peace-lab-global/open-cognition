@@ -1,0 +1,125 @@
+---
+id: ethics-of-care
+title: "关怀伦理学 · Ethics of Care"
+type: concept
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 关怀伦理学
+  - 女性主义伦理学
+  - 规范伦理学
+  - ethics of care
+  - feminist ethics
+  - normative ethics
+---
+
+# 关怀伦理学 · Ethics of Care
+
+## 概念概述 / Concept Overview
+
+关怀伦理学（Ethics of Care）是诺丁斯在1984年系统阐述的一个规范伦理学传统，它主张道德生活的基础不在于抽象的原则或普遍规则，而在于人与人之间具体的关怀实践。作为20世纪下半叶最重要的伦理学创新之一，关怀伦理学挑战了以康德道义论和功利主义为代表的主流伦理学框架，提出了一种以关系、情感和具体情境为核心的替代性伦理学路径。
+
+The Ethics of Care is a normative ethical tradition systematically articulated by Noddings in 1984, holding that the foundation of moral life lies not in abstract principles or universal rules but in concrete caring practices between persons. As one of the most important ethical innovations of the late twentieth century, care ethics challenges the dominant ethical frameworks of Kantian deontology and utilitarianism, offering an alternative ethical path centered on relations, emotion, and concrete situations.
+
+关怀伦理学的独特之处在于它将伦理学的出发点从"我应该做什么"（what should I do）转向"我应该如何回应他者"（how should I respond to the other）。在康德伦理学中，道德行为的合法性来自对普遍法则的尊重；在功利主义中，它来自对最大幸福后果的计算。而在关怀伦理学中，道德行为的合法性来自关怀关系的真实性和深度——我是否真正地接纳了他者，是否真正地回应了他者的需要。
+
+The distinctive feature of care ethics is its shift of the ethical starting point from "what should I do" to "how should I respond to the other." In Kantian ethics, the legitimacy of moral action comes from respect for universal law; in utilitarianism, it comes from calculating the consequences for maximum happiness. In care ethics, the legitimacy of moral action comes from the authenticity and depth of the caring relation — whether I have genuinely engaged with the other, whether I have genuinely responded to the other's needs.
+
+## 理论内涵 / Theoretical Content
+
+诺丁斯的关怀伦理学包含几个核心理论维度：
+
+Noddings' care ethics encompasses several core theoretical dimensions:
+
+**自然关怀与伦理关怀的区分 / The Distinction between Natural and Ethical Caring:**
+自然关怀是我们对亲近之人（如家人、朋友）的本能的、轻松的关爱。伦理关怀则需要我们有意识地努力——当我们面对陌生人或与我们有冲突的人时，我们需要调动自然关怀的记忆和理想，来驱动伦理关怀的实践。诺丁斯认为，伦理关怀的理想来自我们对自然关怀经验的回忆："我记得被关怀的感觉，所以我要关怀你。"
+
+Natural caring is the instinctive, effortless love we feel for those close to us (family, friends). Ethical caring requires conscious effort — when we encounter strangers or those with whom we are in conflict, we need to mobilize the memory and ideal of natural caring to drive ethical caring practice. Noddings argues that the ideal of ethical caring comes from our recollection of natural caring experiences: "I remember what it felt like to be cared for, so I shall care for you."
+
+**关怀与正义的关系 / The Relation between Care and Justice:**
+诺丁斯并不否认正义的重要性，但她认为正义应当以关怀为基础。在她看来，以罗尔斯为代表的正义伦理学预设了理性的、自主的道德主体，却忽视了这些主体是在关怀关系中被培育和塑造的。没有关怀关系作为基础，正义原则将缺乏情感动力和人际温暖。但关怀也需要正义——在公共领域中，关怀需要制度化的保障来确保所有人都能获得关怀。
+
+Noddings does not deny the importance of justice, but she holds that justice should be grounded in caring. In her view, justice ethics as represented by Rawls presupposes rational, autonomous moral subjects while neglecting that these subjects are nurtured and formed within caring relations. Without caring relations as a foundation, principles of justice lack emotional motivation and interpersonal warmth. Yet caring also needs justice — in the public sphere, caring requires institutional safeguards to ensure that all persons can receive care.
+
+**反对抽象主义 / Opposition to Abstractism:**
+关怀伦理学反对将道德判断还原为抽象原则的应用。诺丁斯认为，真实生活中的道德情境是复杂的、充满张力的，不能简单地用一条规则来决定。相反，道德判断需要具体情境中的感知能力——感知他者的需要、感知关系的状态、感知可能的回应方式。这种感知能力不是在抽象推理中获得的，而是在具体的关怀实践中培养的。
+
+Care ethics opposes reducing moral judgment to the application of abstract principles. Noddings argues that moral situations in real life are complex and tension-laden, and cannot be simply resolved by a single rule. Rather, moral judgment requires perceptual capacity in concrete situations — perceiving the other's needs, perceiving the state of relations, perceiving possible modes of response. This perceptual capacity is not acquired through abstract reasoning but cultivated in concrete caring practice.
+
+## 思想史脉络 / Intellectual History
+
+关怀伦理学的思想史背景涉及多个交织的传统。在心理学领域，卡罗尔·吉利根1982年的《不同的声音》（*In a Different Voice*）通过对女性道德发展的研究，发现女性在道德判断中更倾向于使用"关怀"而非"正义"的语言。这一发现为诺丁斯的哲学工作提供了经验基础。
+
+The intellectual-historical context of care ethics involves several intertwined traditions. In psychology, Carol Gilligan's *In a Different Voice* (1982), through her study of women's moral development, found that women tend to use the language of "care" rather than "justice" in moral judgment. This finding provided empirical grounding for Noddings' philosophical work.
+
+在哲学领域，关怀伦理学可以被置于更广泛的对启蒙伦理学的批判之中。黑格尔曾批评康德的道德法则过于抽象；尼采批判理性主义伦理学压抑了生命的本能力量；海德格尔的存在分析强调"在世存在"的关系性本质。关怀伦理学从女性主义的角度加入了这场批判，指出主流伦理学不仅过于抽象，而且系统性地忽视了女性经验和关怀劳动的道德价值。
+
+In philosophy, care ethics can be situated within the broader critique of Enlightenment ethics. Hegel criticized Kant's moral law as too abstract; Nietzsche critiqued rationalist ethics for suppressing life's instinctual forces; Heidegger's existential analysis emphasized the relational essence of "being-in-the-world." Care ethics joined this critique from a feminist perspective, arguing that mainstream ethics is not only too abstract but systematically neglects the moral value of women's experience and care labor.
+
+关怀伦理学的发展也受到了来自女性主义内部的批评。一些学者指出，早期关怀伦理学过于聚焦白人中产阶级女性的经验，忽视了种族、阶级和全球化背景下的关怀劳动分工问题。琼安·特朗托（Joan Tronto）和菲奥娜·罗宾逊（Fiona Robinson）等人将关怀伦理与政治理论和国际关系相结合，发展出更具政治性的关怀伦理学。
+
+The development of care ethics also faced criticism from within feminism. Some scholars argued that early care ethics focused too narrowly on white middle-class women's experience, neglecting care labor divisions shaped by race, class, and globalization. Joan Tronto and Fiona Robinson, among others, connected care ethics with political theory and international relations, developing a more politically engaged care ethics.
+
+## 关键文本 / Key Passages
+
+> "An ethic of caring is a truly moral ethic. It is not merely a description of what women do or how women feel. It describes what we should do and how we should be — not in terms of rules or principles, but in terms of the caring relation as an ideal."
+> — Noddings, *Caring* (1984), p. 5
+
+> "关怀伦理是一种真正的道德伦理。它不仅仅是对女性做什么或女性如何感受的描述。它描述了我们应当做什么和我们应当如何存在——不是根据规则或原则，而是根据关怀关系作为一种理想。"
+
+这段引文回应了最常见的批评——关怀伦理学只是描述性的，不是规范性的。诺丁斯明确宣称关怀伦理学是一种规范性理论，它告诉我们"应当"如何行动，只是这个"应当"不是来自抽象原则，而是来自关怀关系的理想。
+
+This passage responds to the most common criticism — that care ethics is merely descriptive, not normative. Noddings explicitly declares care ethics to be a normative theory that tells us how we "should" act, except this "should" derives not from abstract principles but from the ideal of the caring relation.
+
+> "We must always ask, 'How shall we meet the other?' and the answer is always to be found in the caring relation."
+> — Noddings, *Caring* (1984), p. 24
+
+## 当代应用 / Contemporary Applications
+
+在全球范围内，关怀伦理学已被应用于多个实践领域。在护理伦理学中，它为护患关系提供了理论基础；在教育中，它推动了以关怀为核心的学校改革；在政治哲学中，它为福利国家和社会政策提供了伦理依据。
+
+Globally, care ethics has been applied to multiple practice domains. In nursing ethics, it provides a theoretical foundation for the nurse-patient relationship; in education, it has propelled school reform centered on caring; in political philosophy, it offers ethical grounding for the welfare state and social policy.
+
+在当代全球危机（如新冠疫情、气候危机、难民危机）的背景下，关怀伦理学提供了独特的分析视角：这些危机不仅是技术或政治问题，更是关怀关系的危机——全球社会是否能够以关怀的方式回应最脆弱群体的需要？
+
+In the context of contemporary global crises (such as the COVID-19 pandemic, the climate crisis, and the refugee crisis), care ethics offers a unique analytical perspective: these crises are not merely technical or political problems but crises of caring relations — can global society respond to the needs of the most vulnerable in a caring manner?
+
+## 批评与回应 / Critiques and Responses
+
+**批评 1 / Critique 1:** 关怀伦理学是本质主义的，它将关怀能力绑定于女性本质。
+Care ethics is essentialist, binding caring capacity to female nature.
+
+**回应 / Response:** 诺丁斯使用"feminine approach"（女性主义路径）而非"female approach"（女性路径），明确表示关怀是人类能力而非女性特质。她关注的是历史上主要由女性承担的关怀实践，而非女性的生物学本质。
+Noddings uses "feminine approach" rather than "female approach," making clear that caring is a human capacity, not a female trait. She focuses on caring practices historically borne primarily by women, not on female biological essence.
+
+**批评 2 / Critique 2:** 关怀伦理学缺乏明确的行动指南，无法像功利主义或康德伦理学那样提供清晰的道德决策程序。
+Care ethics lacks clear action guidelines and cannot provide a clear moral decision procedure like utilitarianism or Kantian ethics.
+
+**回应 / Response:** 这恰恰是关怀伦理学的优势而非缺陷——真实生活中的道德情境是复杂的，不能被还原为简单的决策算法。关怀伦理学要求的是道德感知能力和情境判断力，而非规则应用。
+This is precisely a strength, not a weakness, of care ethics — moral situations in real life are complex and cannot be reduced to simple decision algorithms. Care ethics requires moral perceptual capacity and situational judgment rather than rule application.
+
+**批评 3 / Critique 3:** 关怀伦理学无法处理陌生人之间的道德关系，因为它依赖于面对面关系的模式。
+Care ethics cannot handle moral relations between strangers because it depends on face-to-face relational models.
+
+**回应 / Response:** 诺丁斯承认面对面关系的优先性，但也论证了关怀可以通过制度设计和公共政策来间接实现——好的制度可以创造关怀关系的条件，即使制度参与者之间没有直接的面对面关系。
+Noddings acknowledges the priority of face-to-face relations but also argues that caring can be realized indirectly through institutional design and public policy — good institutions can create conditions for caring relations even when institutional participants lack direct face-to-face relations.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+关怀伦理学与儒家伦理有着深层的结构相似性。儒家的"仁学"同样以关系而非个体为道德的基础——"仁者爱人"不是抽象原则，而是从"亲亲"（爱自己的亲人）开始，向外扩展到"仁民"（爱所有人）和"爱物"（爱万物）的关怀实践。这与诺丁斯从自然关怀到伦理关怀的扩展路径有着相似的结构。
+
+Care ethics shares deep structural similarity with Confucian ethics. Confucian *renxue* (仁学, the study of benevolence) similarly takes relations rather than individuals as the foundation of morality — "the benevolent person loves others" is not an abstract principle but a caring practice that begins with *qinqin* (loving one's kin) and extends outward to *renmin* (loving all people) and *aiwu* (loving all things). This shares a similar structure with Noddings' extension from natural to ethical caring.
+
+但二者也有重要差异：儒家伦理更强调等级秩序中的差等之爱和角色义务，而关怀伦理学更强调关系的平等性和双向性。此外，儒家伦理中的"仁"与"礼"（ritual propriety）的结合，提供了一种制度化的关怀实践路径，这是诺丁斯理论中相对薄弱的环节。
+
+Yet there are important differences: Confucian ethics emphasizes graded love and role obligations within hierarchical orders, while care ethics emphasizes the equality and bidirectionality of relations. Additionally, the Confucian integration of *ren* with *li* (礼, ritual propriety) provides a path for institutionalized caring practice, a relatively weak area in Noddings' theory.
+
+## 延伸阅读 / Further Reading
+
+- Noddings, *Caring* (1984), Ch. 1, 3–4
+- Gilligan, *In a Different Voice* (1982)
+- Held, *The Ethics of Care* (2006)
+- Tronto, *Moral Boundaries* (1993)
+- Slote, *The Ethics of Care and Empathy* (2007)
+- 肖巍《女性主义伦理学》/ Xiao Wei, *Feminist Ethics*

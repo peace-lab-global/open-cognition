@@ -1,0 +1,23 @@
+---
+id: kant-ethics-works
+title: 康德伦理学作品总览
+type: works-catalogue
+domain: ethics-politics
+school: deontology
+thinker: kant
+tags: [kant, works]
+cross-refs: [{id: kant, relation: thinker}]
+---
+
+# 康德伦理学作品总览
+
+## 核心著作
+| 书名 | 年份 | 核心 |
+|---|---|---|
+| 《道德形而上学奠基》 | 1785 | 定言命令 |
+| 《实践理性批判》 | 1788 | 自律与自由 |
+| 《道德形而上学》 | 1797 | 法权论与德性论 |
+| 《永久和平论》 | 1795 | 国际正义 |
+
+## 阅读路径
+入门：《奠基》Section I–II → 进阶：《实践理性批判》→ 深潜：《道德形而上学》

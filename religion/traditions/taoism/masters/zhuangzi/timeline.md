@@ -1,0 +1,70 @@
+---
+id: zhuangzi-timeline
+title: 庄子年表 / Timeline of Zhuangzi
+type: timeline
+domain: religion
+school: taoism
+thinker: zhuangzi
+parent: README.md
+---
+
+# 庄子年表 / Timeline of Zhuangzi
+
+## 庄子生平 / Life of Zhuangzi
+
+| 年代 Date | 事件 Event |
+|------|------|
+| 约前369年 | 生于宋国蒙（今河南商丘一带），名周，字子休 / Born in Meng, State of Song; given name Zhou |
+| — | 曾任蒙地漆园吏（低级官吏）/ Served as a minor official overseeing the lacquer garden at Meng |
+| — | 拒绝楚威王的厚聘——"宁游戏污渎之中自快" / Refused King Wei of Chu's lavish invitation — "I would rather amuse myself in a muddy ditch" |
+| — | 与惠施长期论辩（濠梁之辩等）/ Long-running debates with Hui Shi (the Hao River debate, etc.) |
+| — | 妻死，鼓盆而歌 / Upon his wife's death, drummed on a pot and sang |
+| 约前286年 | 去世 / Died |
+
+## 惠施去世 / Death of Hui Shi
+
+惠施约卒于前310年。庄子闻之，感叹："自夫子之死也，吾无以为质矣，吾无与言之矣。"（送葬经过惠施之墓）
+
+*Hui Shi died around 310 BCE. Zhuangzi lamented: "Since that man passed away, I have had no one to spar with, no one to talk to." (spoken while passing Hui Shi's grave during a funeral procession)*
+
+## 《庄子》文本形成 / Textual Formation of the Zhuangzi
+
+| 年代 Date | 事件 Event |
+|------|------|
+| 约前300年 | 内篇（1-7）成书，出自庄子本人或最亲近的弟子 / Inner Chapters (1–7) completed |
+| 约前300-前200年 | 外篇（8-22）陆续由后学添加 / Outer Chapters (8–22) added by followers |
+| 约前200-前100年 | 杂篇（23-33）陆续添加 / Mixed Chapters (23–33) added |
+| 西汉 | 刘向《别录》记载《庄子》五十二篇 / Liu Xiang's catalogue records 52 chapters |
+| 魏晋（约312年） | 郭象编定为三十三篇，确立定本 / Guo Xiang edits to 33 chapters, establishing the canonical text |
+| 唐代（742年） | 唐玄宗追封庄子为"南华真人"，《庄子》尊为《南华真经》/ Emperor Xuanzong posthumously honors Zhuangzi as "Perfected Person of Nanhua" |
+
+## 同时代人物 / Contemporaries
+
+| 人物 Figure | 年代 Dates | 关系 Relation |
+|------|------|------|
+| 孟子 Mencius | 约前372-前289 | 同时代的儒家思想家 / Contemporary Confucian thinker |
+| 惠施 Hui Shi | 约前370-前310 | 最重要的论辩对手和思想友人 / Most important debating partner |
+| 公孙龙 Gongsun Long | 约前320-前250 | 名家思想家，"白马非马" / Logician, "A white horse is not a horse" |
+| 老子（文本形成期）Laozi (text) | 约前4-前3世纪 | 《道德经》在此期成书 / Daodejing takes form in this period |
+| 亚里士多德 Aristotle | 前384-前322 | 东西方同时代的伟大思想家 / Eastern and Western contemporaries |
+
+## 影响史 / Reception History
+
+| 时代 Era | 发展 Development |
+|------|------|
+| 战国晚期 Late Warring States | 庄子后学继续发展（外篇、杂篇）/ Followers continue developing thought |
+| 西汉 Western Han | 黄老之学，庄子被部分吸收 / Huang-Lao learning partially absorbs Zhuangzi |
+| 魏晋 Wei-Jin | 玄学兴起，郭象注《庄子》——庄学鼎盛期 / Xuanxue arises; Guo Xiang commentary — golden age of Zhuangzi studies |
+| 唐代 Tang | 道教尊崇庄子；李白受庄子文学影响 / Daoism reveres Zhuangzi; Li Bai influenced |
+| 宋代 Song | 苏轼深受庄子影响；理学对庄子的批判性吸收 / Su Shi deeply influenced; Neo-Confucianism critically absorbs |
+| 明清 Ming-Qing | 文学评论（金圣叹等）中的庄子 / Zhuangzi in literary criticism (Jin Shengtan, etc.) |
+| 近现代 Modern | 学术化庄子研究（章太炎、胡适、冯友兰）/ Academic Zhuangzi scholarship (Zhang Taiyan, Hu Shi, Feng Youlan) |
+| 当代 Contemporary | 世界哲学中的庄子——比较哲学、生态哲学、心灵哲学 / Zhuangzi in world philosophy — comparative, ecological, philosophy of mind |
+
+## 思想分期 / Intellectual Periodization
+
+| 时期 Period | 核心主题 Core Themes |
+|------|----------|
+| 内篇 Inner Chapters | 齐物、逍遥、无为、物化——原创性哲学 / Qiwu, xiaoyao, wu-wei, wuhua — original philosophy |
+| 外篇 Outer Chapters | 政治哲学、社会批判——思想的延伸 / Political philosophy, social critique — extensions |
+| 杂篇 Mixed Chapters | 语言哲学、学术批评——多元发展 / Philosophy of language, scholarly criticism — diverse development |

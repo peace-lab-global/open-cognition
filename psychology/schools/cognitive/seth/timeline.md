@@ -1,0 +1,75 @@
+---
+id: seth-timeline
+title: "赛斯思想年表 · Seth Timeline"
+type: timeline
+domain: psychology
+school: cognitive
+thinker: seth
+tags: [seth, timeline, biography, consciousness-science]
+cross-refs:
+  - id: seth
+    relation: thinker
+---
+
+# 赛斯思想年表 · Seth Timeline
+
+## 早年与学术训练 (1972--2001) · Early Life and Training
+
+- **1972** 出生于印度；后移居英国
+- **1990s** 在约克大学 (University of York) 学习人工智能与计算机科学 (BSc)；接触计算神经科学与意识研究
+- **1998--2001** 在牛津大学 (University of Oxford) 完成计算神经科学博士研究 (DPhil)；研究意识的计算度量
+- **2001** 获得牛津大学博士学位；发表关于意识信息论度量的早期论文
+
+## 早期学术生涯 (2001--2007) · Early Academic Career
+
+- **2001--2003** 在 La Jolla 的神经科学研究所 (The Neurosciences Institute, San Diego) 从事博士后研究；师从 Gerald Edelman，接触神经元群选择理论 (Neural Darwinism)
+- **2002** 发表关于意识涌现与 Granger 因果的论文 (with Sporns, Tononi)
+- **2004** 回到英国，加入萨塞克斯大学 (University of Sussex)
+- **2005** 发表 "Causal density and integrated information as measures of conscious level" — 意识水平的计算度量
+- **2006** 参与 Sackler 意识科学中心 (Sackler Centre for Consciousness Science) 的建设；开始将预测加工框架引入意识研究
+
+## 预测加工与内感受时期 (2010--2018) · Predictive Processing and Interoception
+
+- **2013** 发表 **"Interoceptive inference, emotion, and the embodied self"** (*Trends in Cognitive Sciences*) — 内感受预测加工理论的核心论文；将预测加工框架系统应用于自我意识和情绪
+- **2013** 发表 "Active inference, sensory attenuation, and illusions" (with Friston, Adams) — 主动推断与感知错觉
+- **2014** 发表 "A predictive processing theory of sensorimotor consciousness" — 感觉运动意识的预测加工理论；开始使用"受控幻觉"概念
+- **2015** 发表 "Cybernetic brains and the predictive mind" — 将控制论传统与预测加工结合
+- **2016** 发表 **"The Real Problem"** (*Aeon*) — 对 Chalmers "难问题"的重构，主张关注"真问题"：意识经验的特定属性如何从大脑过程中涌现
+- **2017** 发表 **"Interoceptive Inference: From Computational Neuroscience to Clinic"** (with Garfinkel, Critchley) — 内感受预测加工的临床应用；将理论扩展到精神病学
+- **2017** **TED 演讲 "Your brain hallucinates your conscious reality"** — 超过 700 万次观看；"受控幻觉"概念进入公众视野
+- **2018** 发表 **"Being a Beast Machine: The Somatic Basis of Sensorimotor Consciousness"** (with Tsakiris) — 兽性机器理论；意识的演化连续性
+
+## 系统整合与公共传播 (2019--) · Integration and Public Engagement
+
+- **2019** Sackler 意识科学中心持续产出大量意识科学实验与理论研究
+- **2020** 发表 "Consciousness: The Last 50 Years (and the Next)" — 意识科学的历史回顾与未来方向
+- **2021** 出版 ***Being You: A New Science of Consciousness*** (Faber & Faber, UK; Dutton, US) — 意识科学的系统阐述，将受控幻觉、内感受自我、兽性机器整合为完整框架
+- **2022** *Being You* 获得 **Royal Society Insight Investment Science Book Prize** (英国皇家学会科学图书奖)
+- **2022** 参与 BBC Radio 4 "The Life Scientific" 访谈；持续推动意识科学的公众传播
+- **2023** 《做你自己》中译本由中信出版社出版
+- **2023** 参与 AI 意识评估框架的讨论 ("The Consciousness Report," with Butlin et al.)；将多维意识框架应用于人工智能
+- **2024** 持续推动意识科学的学科建制化；在动物意识、AI 意识和精神病学领域产生影响
+
+---
+
+## 学术同代人 · Academic Contemporaries
+
+- **Karl Friston** (1959--) — 自由能原理的创立者；Seth 的理论源头
+- **Andy Clark** (1957--) — 预测加工哲学的主要推动者
+- **Antonio Damasio** (1944--) — 躯体自我与情绪理论
+- **Giulio Tononi** (1960--) — 整合信息论 (IIT)
+- **Bernard Baars** (1946--) — 全局工作空间理论 (GWT)
+- **David Chalmers** (1966--) — 意识的"难问题"；Seth 的对话与批评对象
+- **Manos Tsakiris** — Seth 的合作者，兽性机器理论的共同提出者
+- **Lisa Feldman Barrett** (1963--) — 情绪建构理论；与 Seth 的内感受情绪论有平行关系
+
+---
+
+## 思想分期总结 · Period Summary
+
+| 阶段 | 年代 | 关键词 | 代表著作 |
+|---|---|---|---|
+| 早年训练 | 1972--2001 | 约克、牛津、计算神经科学 | 博士论文、早期意识度量论文 |
+| 早期学术 | 2001--2007 | Edelman、意识测量、萨塞克斯 | 意识涌现与复杂度论文 |
+| 预测加工 | 2010--2018 | 内感受、受控幻觉、真问题 | "Interoceptive inference" (2013), TED Talk (2017), "Beast Machine" (2018) |
+| 系统整合 | 2019-- | Being You、公共传播、AI 意识 | *Being You* (2021), 皇家学会科学图书奖 (2022) |

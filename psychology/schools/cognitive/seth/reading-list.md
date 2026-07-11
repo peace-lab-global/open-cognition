@@ -1,0 +1,214 @@
+---
+id: seth-reading-list
+title: "赛斯进阶阅读 · Seth Reading List"
+type: reading-list
+domain: psychology
+school: cognitive
+thinker: seth
+tags: [seth, bibliography, reading-guide, consciousness-science]
+cross-refs:
+  - id: seth
+    relation: thinker
+---
+
+# 赛斯进阶阅读 · Seth Reading List
+
+## 一、阅读路径 · Reading Path
+
+### 入门 (3 篇, 3 小时) · Introductory
+
+1. **Seth, "Your brain hallucinates your conscious reality"** (TED Talk, 2017) — 15 分钟；受控幻觉概念的最佳入口
+2. **Seth, "The Real Problem"** (Aeon, 2016) — 约 30 分钟；对意识"难问题"的重构
+3. **Seth, *Being You* (2021), Part I: The Real Problem & Controlled Hallucination** — 约 2 小时；意识科学的核心论断
+
+### 进阶 (5 篇, 12 小时) · Intermediate
+
+4. Seth, *Being You* 全书 — 意识科学的完整框架
+5. Seth, "Interoceptive inference, emotion, and the embodied self" (2013) — 内感受预测加工的核心论文
+6. Seth & Tsakiris, "Being a Beast Machine" (2018) — 兽性机器理论
+7. Clark, *Surfing Uncertainty* (2016), Ch. 1--4 — 预测加工的哲学视角
+8. Garfinkel, Seth, et al., "Interoceptive Inference: From Computational Neuroscience to Clinic" (2017) — 临床应用
+
+### 深潜 (7 篇, 30+ 小时) · Deep Dive
+
+9. Friston, "The free-energy principle: a rough guide to the brain?" (2009) — 预测加工的数学基础
+10. Hohwy, *The Predictive Mind* (2013) — 预测加工的哲学系统
+11. Clark, *Surfing Uncertainty* (2016) 全书 — 预测加工与具身认知
+12. Damasio, *The Feeling of What Happens* (1999) — 躯体自我与意识
+13. Edelman & Tononi, *A Universe of Consciousness* (2000) — 意识的整合信息理论
+14. Godfrey-Smith, *Other Minds* (2016) — 章鱼与意识演化
+15. Chalmers, *The Conscious Mind* (1996) — 意识的"难问题"；Seth 的对话对象
+
+---
+
+## 二、原典 (必读) · Primary Sources (Must-Read)
+
+### 核心著作 · Core Works
+
+- **Seth**, *Being You: A New Science of Consciousness* (2021) — 意识科学的系统阐述
+- **Seth**, "The Real Problem" (Aeon, 2016) — 对意识"难问题"的重构
+- **Seth**, "Interoceptive inference, emotion, and the embodied self" (*Trends in Cognitive Sciences*, 2013) — 内感受预测加工理论
+- **Seth & Tsakiris**, "Being a Beast Machine" (*Trends in Cognitive Sciences*, 2018) — 兽性机器理论
+
+### 重要论文 · Key Papers
+
+- **Seth**, "A predictive processing theory of sensorimotor consciousness" (*Psychology of Consciousness*, 2014)
+- **Seth**, "Active inference, sensory attenuation, and illusions" (with Friston, Adams, 2013)
+- **Garfinkel, Seth**, et al., "Interoceptive Inference: From Computational Neuroscience to Clinic" (2017)
+- **Seth**, "Consciousness: The Last 50 Years (and the Next)" (*The Neuroscientist*, 2020)
+- **Seth**, "Causal density and integrated information as measures of conscious level" (2005)
+
+### 中译本 · Chinese Translations
+
+| 版本 | 出版 | 说明 |
+|---|---|---|
+| 《做你自己：意识的新科学》 | 中信出版社，2023 | *Being You* 中译本 |
+
+---
+
+## 三、二手研究 · Secondary Sources
+
+### 预测加工 · Predictive Processing
+
+- **Andy Clark**, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* (2016) — 预测加工哲学的最佳导论
+- **Jakob Hohwy**, *The Predictive Mind* (2013) — 预测加工的哲学系统
+- **Andy Clark**, "Whatever next? Predictive brains, situated agents, and the future of cognitive science" (*Behavioral and Brain Sciences*, 2013) — 预测加工的目标论文
+- **Karl Friston**, "The free-energy principle: a rough guide to the brain?" (*Trends in Cognitive Sciences*, 2009) — 自由能原理的概述
+- **Wanja Wiese & Thomas Metzinger**, "Vanilla PP for Philosophers" (2017) — 预测加工的哲学入门
+
+### 意识科学 · Consciousness Science
+
+- **Giulio Tononi & Christof Koch**, "Consciousness: here, there and everywhere?" (*Philosophical Transactions of the Royal Society B*, 2015) — 整合信息论 (IIT)
+- **Bernard Baars**, *In the Theater of Consciousness* (1997) — 全局工作空间理论 (GWT)
+- **David Chalmers**, *The Conscious Mind: In Search of a Fundamental Theory* (1996) — 意识的"难问题"
+- **Thomas Metzinger**, *Being No One* (2003) — 自我模型理论
+- **Max Velmans**, *Understanding Consciousness* (2009) — 意识的反射性一元论
+
+### 身体与自我 · Body and Self
+
+- **Antonio Damasio**, *The Feeling of What Happens: Body, Emotion and the Making of Consciousness* (1999) — 躯体自我与核心意识
+- **Antonio Damasio**, *Descartes' Error* (1994) — 躯体标记假说
+- **Gerald Edelman & Giulio Tononi**, *A Universe of Consciousness: How Matter Becomes Imagination* (2000) — 意识的神经达尔文主义
+- **Thomas Fuchs**, *Ecology of the Brain* (2018) — 身体与意识的现象学视角
+
+### 动物意识与演化 · Animal Consciousness and Evolution
+
+- **Peter Godfrey-Smith**, *Other Minds: The Octopus and the Evolution of Intelligent Life* (2016) — 章鱼与意识演化
+- **Michael Tye**, *Tense Bees and Shell-Shocked Crabs: Are Insects Conscious?* (2017) — 昆虫意识
+- **Donald Griffin**, *Animal Minds* (2001) — 认知行为学
+- **Andrew Barron & Colin Klein**, "What insects can tell us about the origins of consciousness" (*PNAS*, 2016)
+
+### 情绪 · Emotion
+
+- **Lisa Feldman Barrett**, *How Emotions Are Made: The Secret Life of the Brain* (2017) — 情绪建构理论
+- **William James**, "What is an Emotion?" (*Mind*, 1884) — 情绪的身体理论经典
+- **Jesse Prinz**, *Gut Reactions: A Perceptual Theory of Emotion* (2004) — 情绪的感知理论
+
+---
+
+## 四、中文资源 · Chinese Resources
+
+### 专著 · Monographs
+
+- 赛斯《做你自己：意识的新科学》（中信出版社，2023）— *Being You* 中译本
+
+### 论文翻译与介绍 · Translated Papers and Introductions
+
+- 预测加工相关论文散见于《心理科学进展》《心理学报》《心理科学》
+- "受控幻觉"概念在中文意识科学讨论中的介绍
+
+### 相关中文著作 · Related Chinese Works
+
+- 赵汀阳《意识的哲学分析》— 中国哲学视角下的意识讨论
+- 认知科学与佛教哲学的比较研究散见于佛学研究期刊
+
+---
+
+## 五、赛斯的阅读源头 · Seth's Intellectual Sources
+
+Seth 自述其思想受以下人物影响最深：
+
+- **Karl Friston** — 自由能原理；预测加工的数学基础
+- **Andy Clark** — 预测加工哲学；具身认知
+- **Gerald Edelman** — 神经元群选择理论；意识的神经达尔文主义
+- **Antonio Damasio** — 躯体标记；核心意识
+- **Hermann von Helmholtz** — 无意识推理；感知的建构论
+- **William James** — 情绪的身体理论；意识流
+- **Rodolfo Llinás** — "I of the Vortex"；感知是大脑的梦境被感官约束
+- **Giulio Tononi** — 整合信息论 (IIT)
+
+---
+
+## 六、下游影响 · Downstream Influence
+
+### 意识科学
+
+- Sackler 意识科学中心的研究产出
+- 意识测量的 PCI 方法被广泛采用
+- "受控幻觉"成为意识科学的标准概念
+
+### 精神病学
+
+- 人格解体、焦虑症、精神分裂症的预测加工解释
+- 内感受在精神障碍中的角色被广泛研究
+
+### 人工智能
+
+- AI 意识评估的多维框架
+- "The Consciousness Report" (2023) 对 AI 意识的系统讨论
+
+### 动物福利
+
+- 多维意识框架影响动物福利立法
+- 非哺乳动物意识的科学讨论
+
+---
+
+## 七、跨学科阅读 · Interdisciplinary Reading
+
+### 哲学 · Philosophy
+
+- **Thomas Nagel**, "What is it like to be a bat?" (*Philosophical Review*, 1974) — 意识的主观性
+- **Daniel Dennett**, *Consciousness Explained* (1991) — 意识的多重草稿模型
+- **Evan Thompson**, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (2007) — 具身认知与现象学
+
+### 佛教哲学 · Buddhist Philosophy
+
+- 唯识学八识体系 — 与内感受预测模型的平行
+- 五蕴理论 — 与自我作为建构过程的平行
+- 《清净道论》(Visuddhimagga) — 身体觉察与内感受
+
+### 现象学 · Phenomenology
+
+- **Maurice Merleau-Ponty**, *Phenomenology of Perception* (1945) — 身体主体性
+- **Edmund Husserl**, *Ideas I* (1913) — 意识的意向性结构
+
+### 神经美学 · Neuroaesthetics
+
+- **Semir Zeki**, *Inner Vision: An Exploration of Art and the Brain* (1999) — 视觉艺术与大脑
+- **Vittorio Gallese**, "Embodied simulation" — 具身模拟与审美经验
+
+---
+
+## 八、研究工具 · Research Tools
+
+- **Sackler Centre for Consciousness Science** (University of Sussex) — Seth 的研究中心
+- **Stanford Encyclopedia of Philosophy** — "Consciousness" 词条
+- **Scholarpedia** — "Consciousness" 相关词条
+- **Association for the Scientific Study of Consciousness (ASSC)** — 年会与期刊
+- *Neuroscience of Consciousness* (Oxford University Press journal)
+- *Philosophy and the Mind Sciences* (open access journal)
+
+---
+
+## 九、阅读顺序建议 · Suggested Reading Order
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想了解 Seth 的意识科学 | TED Talk → "The Real Problem" → *Being You* Part I → 全书 |
+| 想理解预测加工 | Clark "Whatever next?" → *Surfing Uncertainty* Ch. 1--4 → Hohwy |
+| 想研究内感受 | "Interoceptive inference" (2013) → Damasio → Garfinkel et al. (2017) |
+| 想了解动物意识 | Godfrey-Smith → Seth & Tsakiris (2018) → *Being You* Ch. 10--12 |
+| 想做临床心理学应用 | Garfinkel et al. (2017) → *Being You* Ch. 8 → Friston (2009) |
+| 想做跨文化比较 | Seth (五蕴平行) → 唯识学八识 → Merleau-Ponty |
+| 想研究 AI 意识 | "Consciousness Report" (2023) → Tononi (IIT) → *Being You* Ch. 13 |

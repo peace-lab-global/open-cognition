@@ -1,0 +1,124 @@
+---
+id: daimonion
+title: 内在声音 · Daimonion
+type: concept
+parent: socrates
+domain: philosophy
+tags:
+  - philosophy-of-religion
+  - moral-psychology
+  - epistemology
+---
+
+# 内在声音 · Daimonion
+
+> "我内心有一种神性的声音（daimonion），它总是阻止我做某些事，但从不鼓励我去做什么。" — 《申辩篇》31d
+>
+> "There is a divine sign (*daimonion*) within me that always dissuades me from certain actions but never urges me to do anything." — *Apology* 31d
+
+---
+
+## 定义 Definition
+
+Daimonion（希腊文 δαιμόνιον，"神性的事物"）是苏格拉底声称从幼年起就持续听到的内在声音或神性信号。这个声音从不做正面指示——它只在苏格拉底即将做出错误行为时发出警告（"阻止"，apotrepein）。苏格拉底将其描述为一种"神性的标志"（theion sēmeion），而非完整的神谕或启示。
+
+*DDaimonion* (Greek δαιμόνιον, "divine thing") is the inner voice or divine sign that Socrates claimed to hear continuously from childhood. This voice never gives positive instructions—it only issues warnings when Socrates is about to commit an error ("dissuading," *apotrepein*). Socrates describes it as a "divine sign" (*theion sēmeion*), not a complete oracle or revelation.
+
+---
+
+## Daimonion 的特征 Characteristics
+
+### 1. 否定性 Negativity
+Daimonion 只说"不"，从不说"是"。它阻止行为，但不提供替代方案。这种纯粹的否定性功能使它与良心的概念有所重叠，但又有重要差异。
+
+The *daimonion* only says "no," never "yes." It prevents actions but offers no alternatives. This purely negative function overlaps with the concept of conscience, yet with important differences.
+
+### 2. 非理性 Irrationality
+Daimonion 不通过论证或推理来运作——它是一种直接的、非推论性的"知晓"。这与苏格拉底对理性对话的强调形成鲜明对比。
+
+The *daimonion* does not operate through argument or reasoning—it is a direct, non-inferential "knowing." This stands in striking contrast to Socrates' emphasis on rational dialogue.
+
+### 3. 不可违抗性 Infallibility
+苏格拉底从未提到他忽略 daimonion 的经历——这暗示他认为 daimonion 是不可错的（infallible），至少在实践层面。
+
+Socrates never mentions ignoring his *daimonion*—suggesting he regarded it as infallible, at least in practical terms.
+
+### 4. 私人性 Privacy
+Daimonion 只对苏格拉底个人发出信号，不具有公共性。它不是苏格拉底可以传达给他人的信息，也无法被他人验证。
+
+The *daimonion* issues signals only to Socrates personally, without public character. It is not a message Socrates can transmit to others, nor can it be verified by others.
+
+---
+
+## 学界的解释 The Scholarly Debate
+
+学界对 daimonion 的解释大致分为三派：
+
+Scholarly interpretations of the *daimonion* fall broadly into three camps:
+
+### 理性主义解释 Rationalist Interpretation
+- Vlastos（1991）：daimonion 本质上是苏格拉底高度发展的道德直觉（moral intuition），他用宗教语言来描述一种自然的心理现象。
+- McPherran（2005）：daimonion 代表一种"非推论性的认知通道"，类似于当代认知科学中的"专家直觉"。
+
+- Vlastos (1991): The *daimonion* is essentially Socrates' highly developed moral intuition, described in religious language for a natural psychological phenomenon.
+- McPherran (2005): It represents a "non-inferential cognitive channel," akin to "expert intuition" in contemporary cognitive science.
+
+### 宗教-神秘主义解释 Religious-Mystical Interpretation
+- Bussanich（2013）：daimonion 是苏格拉底宗教体验的真实记录，不应被还原为心理现象。
+- 与古希腊宗教中的守护神（daimōn）信仰相关联——每个人都有一个伴随终生的个人神灵。
+
+- Bussanich (2013): The *daimonion* is a genuine record of Socrates' religious experience and should not be reduced to psychological phenomena.
+- Connected to ancient Greek belief in a personal guardian spirit (*daimōn*) accompanying each person throughout life.
+
+### 修辞策略解释 Rhetorical Strategy Interpretation
+- Brickhouse & Smith（2000）：daimonion 是苏格拉底用来"终结辩论"的修辞装置——当理性论证无法说服对方时，他诉诸不可质疑的神性权威。
+
+- Brickhouse & Smith (2000): The *daimonion* is a rhetorical device Socrates used to "end debate"—when rational argument fails to persuade, he appeals to unquestionable divine authority.
+
+---
+
+## Daimonion 与审判 The Daimonion and the Trial
+
+在《申辩篇》中，daimonion 成为苏格拉底被控"引入新神"的主要证据。控告者 Meletus 认为苏格拉底的 daimonion 构成了对城邦传统宗教的挑战。苏格拉底的辩护策略是：daimonion 恰恰证明了他对神的信仰——一个人不可能相信"神性的事物"而不相信神。
+
+In the *Apology*, the *daimonion* becomes the primary evidence for the charge of "introducing new gods." The accuser Meletus held that Socrates' *daimonion* constituted a challenge to the city's traditional religion. Socrates' defense: the *daimonion* precisely proves his belief in gods—one cannot believe in "divine things" without believing in gods.
+
+更重要的是，苏格拉底在审判中提出了一个关键论证：**daimonion 在整个审判过程中都沉默不语**。他将此解读为神的认可——如果他的行为是错误的，daimonion 早就应该发出警告了。
+
+More significantly, Socrates offers a key argument at his trial: **the *daimonion* remained silent throughout the entire proceedings**. He interprets this as divine approval—if his conduct were wrong, the *daimonion* would have warned him long ago.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与佛教"善知识"与"内心善根" Dialogue with Buddhist "Kalyāṇamitra" and "Inner Wholesome Roots"
+
+佛教中的"善知识"（kalyāṇamitra）是外在的引导者，而苏格拉底的 daimonion 是内在的指引。然而，唯识学所说的"善根"（kuśala-mūla）——储存在阿赖耶识中的善的种子——可能在功能上与 daimonion 有相似之处：两者都代表一种先于理性推理的道德指引力量。区别在于，佛教的善根需要通过修行被"激活"，而苏格拉底的 daimonion 是自发的、不可控的。
+
+Buddhism's *kalyāṇamitra* (spiritual friend) is an external guide, while Socrates' *daimonion* is internal guidance. However, Yogācāra's *kuśala-mūla* (wholesome roots)—seeds of goodness stored in the *ālaya-vijñāna*—may functionally resemble the *daimonion*: both represent a moral guidance force prior to rational reasoning. The difference: Buddhist wholesome roots must be "activated" through practice, while Socrates' *daimonion* is spontaneous and uncontrollable.
+
+### 与儒家"良知" Dialogue with Confucian "Innate Knowing" (Liáng Zhī)
+
+王阳明的"良知"（liáng zhī）概念与 daimonion 存在深刻的平行关系。王阳明说"良知不虑而知，不学而能"——良知是一种先天的道德认知能力，不需要经过学习或推理即可运作。这与 daimonion 的非推论性、直接性特征高度一致。然而，良知可以被"致"（扩充和完善），而 daimonion 似乎是一个固定的、不可改变的声音。
+
+Wang Yangming's *liáng zhī* (innate moral knowing) deeply parallels the *daimonion*. Wang states "innate knowing knows without deliberation, can act without learning"—it is an innate moral cognitive capacity that operates without learning or reasoning. This aligns closely with the *daimonion*'s non-inferential, immediate character. However, *liáng zhī* can be "extended" (*zhì*), while the *daimonion* appears to be a fixed, unchangeable voice.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **道德直觉研究**：Haidt 的"社会直觉主义模型"认为道德判断首先由快速的直觉驱动，daimonion 可以被视为对这种直觉的古代描述。
+- **潜意识认知**：现代认知科学中"潜意识信息处理"（subliminal processing）的研究表明，大脑可以在意识之外做出复杂的道德判断——这为 daimonion 提供了可能的神经科学解释。
+- **宗教哲学**：daimonion 是讨论"宗教体验的认知地位"的经典案例——私人性的宗教体验是否可以成为知识的合法来源？
+
+- **Moral intuition research**: Haidt's "social intuitionist model" holds that moral judgments are first driven by rapid intuitions; the *daimonion* can be seen as an ancient description of such intuitions.
+- **Subconscious cognition**: Research on subliminal processing shows the brain can make complex moral judgments outside consciousness—offering a possible neuroscientific explanation for the *daimonion*.
+- **Philosophy of religion**: The *daimonion* is a classic case for discussing the "cognitive status of religious experience"—can private religious experience be a legitimate source of knowledge?
+
+---
+
+## 相关条目 Related Entries
+
+- [诘问法 Socratic Method](socratic-method.md)
+- [德性即知识 Virtue is Knowledge](virtue-knowledge.md)
+- [苏格拉底 · 苏格拉底](../README.md)

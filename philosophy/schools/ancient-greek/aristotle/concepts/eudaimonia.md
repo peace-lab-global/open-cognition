@@ -1,0 +1,149 @@
+---
+id: eudaimonia
+title: 幸福论 · Eudaimonia
+type: concept
+parent: aristotle
+domain: philosophy
+tags:
+  - ethics
+  - philosophy-of-life
+  - political-philosophy
+---
+
+# 幸福论 · Eudaimonia
+
+> "幸福是灵魂合乎完美德性的活动。" — 《尼各马可伦理学》I.7
+>
+> "Happiness is an activity of the soul in accordance with complete virtue." — *NE* I.7
+
+---
+
+## 定义 Definition
+
+Eudaimonia（εὐδαιμονία，通常译为"幸福"或"繁荣"）是亚里士多德伦理学的最高善（highest good），指一种客观意义上的"人之繁荣"（human flourishing）——灵魂合乎德性的活动（energeia），贯穿完整的一生。Eudaimonia 不是一种主观的情感状态（如快乐或满足），而是一种对人生整体质量的客观评价——一个人的生活是否实现了人之为人应有的卓越。
+
+*Eudaimonia* (εὐδαιμονία, typically translated as "happiness" or "flourishing") is Aristotle's highest good—the objective "human flourishing" consisting in virtuous activity (*energeia*) of the soul across a complete life. *Eudaimonia* is not a subjective emotional state (pleasure or satisfaction) but an objective evaluation of life quality—whether one's life realizes the excellence proper to human beings.
+
+---
+
+## 词源与含义 Etymology and Meaning
+
+Eudaimonia 由两个部分组成：
+- **eu** (εὖ) = 好的 (good/well)
+- **daimōn** (δαίμων) = 守护神/命运 (guardian spirit/fate)
+
+字面义："被善灵守护的状态"或"有好的命运"。在亚里士多德的用法中，它指的不是运气，而是一种通过自身努力可以达到的生活状态——一种人之为人应当追求的最高善。
+
+*Eu* (εὖ) = good/well; *daimōn* (δαίμων) = guardian spirit/fate. Literally: "state of being well-spirited" or "having good fortune." In Aristotle's usage, it refers not to luck but to an achievable life state—the highest good one should pursue as a human being.
+
+---
+
+## "功能论证" The Function Argument (Ergon Argument)
+
+亚里士多德通过"功能论证"（ergon argument, NE I.7）来界定 eudaimonia 的内容：
+
+Aristotle defines eudaimonia through the "function argument" (*ergon* argument, *NE* I.7):
+
+1. 每种技艺和器官都有其特有的功能（ergon）：眼睛的功能是看，刀的功能是切。
+   Every craft and organ has its proper function (*ergon*): the eye's is to see, the knife's to cut.
+
+2. 人之为人也必定有其特有的功能。
+   Humans qua humans must also have a proper function.
+
+3. 人的特有功能不能是生长（植物也有）或感觉（动物也有），只能是理性活动（logos）。
+   The uniquely human function cannot be growth (plants share it) or sensation (animals share it); it must be rational activity (*logos*).
+
+4. 事物的"善"（aretē）在于其功能的卓越发挥。
+   A thing's "good" (*aretē*) lies in the excellent performance of its function.
+
+5. 因此，人之善（eudaimonia）在于灵魂合乎理性德性的活动。
+   Therefore, the human good (*eudaimonia*) is the soul's activity in accordance with rational virtue.
+
+---
+
+## Eudaimonia 的构成 Components of Eudaimonia
+
+### 1. 道德德性的活动 Activity of Moral Virtue
+勇气、节制、慷慨、正义等道德德性的实践是 eudaimonia 的核心组成部分。一个有德性的人在面对危险时表现出勇气，在面对诱惑时表现出节制——这些活动本身就是 eudaimonia 的一部分。
+
+The practice of moral virtues—courage, temperance, liberality, justice—is a core component of eudaimonia. A virtuous person displays courage in danger and temperance in the face of temptation—these activities are themselves part of eudaimonia.
+
+### 2. 理智德性的活动 Activity of Intellectual Virtue
+亚里士多德在《尼各马可伦理学》第十卷中将沉思（theōria, contemplation）视为最高形式的 eudaimonia——理性对真理的纯粹追求。沉思是最自足的、最持续的、最接近神的活动。
+
+In *NE* Book X, Aristotle identifies contemplation (*theōria*) as the highest form of eudaimonia—reason's pure pursuit of truth. Contemplation is the most self-sufficient, most continuous, most god-like activity.
+
+### 3. 外在善 External Goods
+亚里士多德承认 eudaimonia 需要某些"外在善"——健康、友谊、适度财富、好的出身和容貌。"一个极其丑陋的人，或出身低微的孤独者，或没有孩子且孩子已死的人，或完全孤独无友的人"不太可能是 eudaimōn 的（NE I.8）。
+
+Aristotle acknowledges eudaimonia requires certain "external goods"—health, friendship, moderate wealth, good birth and appearance. "Someone extremely ugly, of low birth, solitary, childless, or entirely friendless" is unlikely to be *eudaimōn* (*NE* I.8).
+
+---
+
+## Eudaimonia vs 现代"幸福"概念 Eudaimonia vs Modern "Happiness"
+
+| 维度 Dimension | Eudaimonia | 现代幸福 Modern Happiness |
+|--------------|-----------|------------------------|
+| 性质 Nature | 客观的（一种生活方式）/ Objective (a way of life) | 主观的（一种感受）/ Subjective (a feeling) |
+| 时间跨度 Span | 整个人生 / A complete life | 当下的 / Present moment |
+| 来源 Source | 德性活动 / Virtuous activity | 欲望满足 / Desire satisfaction |
+| 可错性 Fallibility | 一个人可能自以为幸福但其实不是 / One can think oneself happy but not be | 主观报告即为最终裁决 / Self-report is final authority |
+| 评价者 Evaluator | 客观观察者 / Objective observer | 主体自己 / The subject themselves |
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与佛教"涅槃"对话 Dialogue with Buddhist Nirvāṇa
+
+Eudaimonia 与佛教的"涅槃"（nirvāṇa）都代表人类可以追求的最高善。但两者在内容上根本不同：
+- Eudaimonia 是"积极的"（灵魂的活动）——需要积极地实践德性和理性。
+- 涅槃是"消极的"（贪嗔痴的熄灭）——需要消除执着和妄想。
+- Eudaimonia 需要"外在善"（友谊、财富），涅槃则超越所有世俗条件。
+- Eudaimonia 限于"此生"（亚里士多德不讨论死后），涅槃超越生死轮回。
+
+Eudaimonia and Buddhist *nirvāṇa* both represent the highest good humans can pursue. But they differ fundamentally in content:
+- Eudaimonia is "positive" (activity of soul)—requires active practice of virtue and reason.
+- Nirvāṇa is "negative" (cessation of greed, hatred, delusion)—requires eliminating attachment and delusion.
+- Eudaimonia requires "external goods" (friendship, wealth); nirvāṇa transcends all worldly conditions.
+- Eudaimonia is limited to "this life" (Aristotle doesn't discuss afterlife); nirvāṇa transcends the cycle of birth and death.
+
+### 与唯识学"转依"对话 Dialogue with Yogācāra "Transformation of Basis"
+
+唯识学的"转依"（āśraya-parāvṛtti）——阿赖耶识中不善种子被转化为善种子的过程——可以被理解为一种"通向 eudaimonia 的内在路径"。在亚里士多德看来，eudaimonia 需要通过外在的习惯化（ethos）来培养品格；在唯识学看来，真正的转化必须在深层意识（阿赖耶识）中进行——改变"种子"的结构，而不仅仅是改变外在行为。
+
+Yogācāra's *āśraya-parāvṛtti* (transformation of basis)—the process of transforming unwholesome seeds into wholesome ones in the *ālaya-vijñāna*—can be understood as an "inner path to eudaimonia." For Aristotle, eudaimonia requires external habituation (*ethos*) to cultivate character; for Yogācāra, true transformation must occur in deep consciousness (*ālaya-vijñāna*)—changing "seed" structure, not merely external behavior.
+
+### 与儒家"至善"对话 Dialogue with Confucian "Supreme Good" (Zhì Shàn)
+
+《大学》的"止于至善"与亚里士多德的 eudaimonia 都代表了人类追求的最高善。两者的关键平行关系在于：都是客观的（不以主观感受为准）、都需要终身的修养、都涉及社会关系。差异在于：儒家的"至善"以道德关系的和谐为核心，亚里士多德的 eudaimonia 以个体理性的卓越为核心。
+
+The *Great Learning*'s "resting in the supreme good" (*zhǐ yú zhì shàn*) and Aristotle's eudaimonia both represent the highest human pursuit. Key parallels: both are objective (not measured by subjective feeling), both require lifelong cultivation, both involve social relations. Key difference: Confucian "supreme good" centers on harmonious moral relations; Aristotelian eudaimonia centers on individual rational excellence.
+
+---
+
+## 当代影响 Contemporary Influence
+
+### 积极心理学 Positive Psychology
+Martin Seligman 的 PERMA 模型（Positive emotion, Engagement, Relationships, Meaning, Accomplishment）直接受亚里士多德 eudaimonia 的启发，区分了"愉悦的生活"（pleasant life）和"有意义的生活"（meaningful life）。
+
+Martin Seligman's PERMA model directly draws from Aristotelian eudaimonia, distinguishing the "pleasant life" from the "meaningful life."
+
+### 能力方法 Capability Approach
+Amartya Sen 和 Martha Nussbaum 将 eudaimonia 发展为国际发展政策的理论框架——衡量福祉的标准不是 GDP，而是"人能够做什么和成为什么"（capabilities）。
+
+Amartya Sen and Martha Nussbaum developed eudaimonia into a framework for international development policy—measuring well-being not by GDP but by "what people can do and be" (capabilities).
+
+### 幸福研究 Happiness Research
+Daniel Kahneman 区分了"体验的自我"（experiencing self）和"记忆的自我"（remembering self），引发了关于"幸福到底应该被如何衡量"的讨论——亚里士多德的 eudaimonia 提供了一个超越主观报告的客观框架。
+
+Daniel Kahneman distinguished the "experiencing self" from the "remembering self," sparking debate about "how happiness should be measured"—Aristotle's eudaimonia provides an objective framework beyond subjective reports.
+
+---
+
+## 相关条目 Related Entries
+
+- [德性伦理 Virtue Ethics](virtue-ethics.md)
+- [中道 Golden Mean](golden-mean.md)
+- [苏格拉底 · 审视的人生](../socrates/concepts/examined-life.md)
+- [亚里士多德 · 亚里士多德](../README.md)

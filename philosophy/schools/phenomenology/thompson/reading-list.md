@@ -1,0 +1,94 @@
+---
+id: thompson-reading-list
+title: 汤普森进阶阅读 · Thompson Reading List
+type: reading-list
+domain: philosophy
+school: phenomenology
+thinker: thompson
+tags: [thompson, bibliography, reading-guide]
+cross-refs:
+  - id: thompson
+    relation: thinker
+---
+
+# 汤普森进阶阅读 · Thompson Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- Varela, Thompson & Rosch, *The Embodied Mind* (1991, rev. 2016) — 生成认知的奠基之作
+- Thompson, *Mind in Life* (2007) — 生命-心智连续性
+- Thompson, *Waking, Dreaming, Being* (2015) — 意识三态
+
+### 重要
+- Thompson, *Why I Am Not a Buddhist* (2020) — 佛教现代主义批评
+- Siderits, Thompson & Zahavi (eds.), *Self, No Self?* (2011) — 佛教与现象学对话
+- Thompson (ed.), *Between Ourselves* (2001) — 第二人称意识研究
+
+## 二、经典研究 / Classic Studies
+
+- Humberto Maturana & Francisco Varela, *Autopoiesis and Cognition* (1980) — 自组织理论
+- Francisco Varela, "Neurophenomenology: A Methodological Remedy for the Hard Problem" (1996) — 神经现象学
+- Maurice Merleau-Ponty, *Phenomenology of Perception* (1945) — 身体现象学
+- Edmund Husserl, *Ideas I* (1913) — 现象学方法
+- Francisco Varela, Evan Thompson, Eleanor Rosch, *The Embodied Mind* (1991)
+
+## 三、当代研究 / Contemporary Studies
+
+- Shaun Gallagher, *Enactivist Interventions* (2017) — 生成认知的当代发展
+- Alva Noe, *Action in Perception* (2004) — 感知与行动
+- Thomas Fuchs, *Ecology of the Brain* (2018) — 脑的生态学
+- Andy Clark & David Chalmers, "The Extended Mind" (1998) — 延展心智理论（对照）
+- Jakob Hohwy, *The Predictive Mind* (2013) — 预测加工（张力参照）
+- Daniel Hutto & Erik Myin, *Radicalizing Enactivism* (2013) — 激进的生成认知
+- Anil Seth, *Being You* (2021) — 意识的预测理论
+- B. Alan Wallace, *The Taboo of Subjectivity* (2000) — 佛教认识论
+
+## 四、入门推荐 / Introductory
+
+- Thompson, *Why I Am Not a Buddhist* (2020) — 最易读的入口
+- *The Embodied Mind* 修订版导言 — 生成认知概述
+- Daniel Hutto, *Folk Psychological Narratives* (2008) — 心智理论的替代
+- Lawrence Shapiro, *Embodied Cognition* (2011) — 具身认知导论
+- Richard Menary (ed.), *The Extended Mind* (2010) — 4E认知概览
+
+## 五、东西方哲学 / East-West Philosophy
+
+### 佛教哲学
+- 龙树《中论》— 中观哲学（汤普森的重要参照）
+- 世亲《唯识二十论》— 瑜伽行哲学
+- Jay Garfield, *Engaging Buddhism* (2015)
+- Mark Siderits, *Buddhism as Philosophy* (2007)
+
+### 印度哲学
+- 《奥义书》— 意识三态分析的来源
+- Shankara, *Brahma Sutra Bhashya* — 吠檀多不二论
+- J. N. Mohanty, *Classical Indian Philosophy* (2000)
+
+### 比较研究
+- Evan Thompson, *Waking, Dreaming, Being* (2015) — 核心比较著作
+- 阿部正雄《禅与西方思想》
+
+## 六、跨学科阅读 / Cross-disciplinary
+
+### 生物学与复杂系统
+- Stuart Kauffman, *At Home in the Universe* (1995) — 自组织
+- Humberto Maturana & Francisco Varela, *The Tree of Knowledge* (1987)
+
+### 神经科学
+- Antonio Damasio, *The Feeling of What Happens* (1999)
+- Giulio Tononi, "An Information Integration Theory of Consciousness" (2004)
+
+### 冥想科学
+- Antoine Lutz et al., "Attention Regulation and Monitoring in Meditation" (2008)
+- Willoughby Britton et al., "The Varieties of Contemplative Experience" (2017)
+
+## 七、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解汤普森 | *Why I Am Not a Buddhist* → *The Embodied Mind* 修订版导言 |
+| 研究生成认知 | *The Embodied Mind* → *Mind in Life* → Hutto & Myin |
+| 东西方对话 | *Waking, Dreaming, Being* → *Self, No Self?* → Garfield |
+| 认知科学视角 | *Mind in Life* → Clark *Surfing Uncertainty* → Hohwy |
+| 冥想研究 | Thompson 2015 → Lutz 2008 → Wallace 2000 |

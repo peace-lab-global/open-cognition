@@ -1,0 +1,72 @@
+---
+id: scotus-works
+title: 司各脱作品总览 · Duns Scotus Works
+type: works-catalogue
+domain: philosophy
+school: medieval-scholastic
+thinker: scotus
+tags: [scotus, works, bibliography]
+cross-refs:
+  - id: scotus
+    relation: thinker
+---
+
+# 司各脱作品总览 · Duns Scotus Works
+
+## 一、主要著作 / Major Works
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| c. 1291–1301 | *Ordinatio* (Opus Oxoniense) | 《牛津评注》 | 核心著作，系统阐述形而上学与神学 |
+| c. 1295–1297 | *Quaestiones super Metaphysicam Aristotelis* | 《亚里士多德形而上学问答》 | 对《形而上学》的评注 |
+| c. 1300–1305 | *Quodlibetal Questions* | 《辩论问题集》 | 公开辩论记录 |
+| c. 1301–1305 | *De Primo Principio* (On the First Principle) | 《论第一原理》 | 上帝存在的形而上学论证 |
+| c. 1302–1305 | *Reportatio Parisiensis* | 《巴黎报告》 | 巴黎教学记录 |
+| c. 1300–1305 | *Theoremata* | 《定理集》 | 论上帝属性与三位一体 |
+| c. 1298–1300 | *Quaestiones super De Anima* | 《论灵魂问答》 | 心灵哲学论述 |
+| c. 1290 | *Parva Logicalia* | 《小逻辑学》 | 早期逻辑著作 |
+
+## 二、《牛津评注》核心议题 / Key Topics in the Ordinatio
+
+- **I, d. 3**: 存在的单义性——上帝与受造物能否在同一概念下被认知
+- **I, d. 8**: 上帝作为无限存在
+- **II, d. 3**: 此性（haecceitas）——个体化原则
+- **II, d. 7**: 形式区分（distinctio formalis）
+- **III, d. 27**: 意志优先于理智
+- **IV, d. 49**: 对上帝之爱与至善
+
+## 三、重要论文选集 / Key Questions
+
+- "Is Being Univocal?" (*Ordinatio* I, d. 3, q. 1)
+- "What Is the Principle of Individuation?" (*Ordinatio* II, d. 3, q. 1)
+- "Does God Exist?" (*De Primo Principio*, ch. 3–4)
+- "Is the Will a Higher Power than the Intellect?" (*Ordinatio* IV, d. 46)
+- "Can the Will Act against Reason?" (*Ordinatio* II, d. 39)
+
+## 四、拉丁文标准版本 / Standard Latin Editions
+
+- **Vatican Edition** (1950–): *Opera Omnia* (Vatican City, ongoing critical edition)
+- **Wadding Edition** (1639, repr. 1968): *Opera Omnia* (older complete edition)
+- **Alluntis Edition**: *Questions on the Metaphysics* (English translation)
+
+## 五、英译本 / English Translations
+
+- *Duns Scotus on the Will and Morality*, trans. Allan B. Wolter (1986)
+- *On the Will and Morality: Selected and Translated* (Catholic University of America Press)
+- *Five Texts on the Mediaeval Problem of Universals*, trans. Paul Vincent Spade (1994)
+- *A Treatise on God as First Principle*, trans. Allan B. Wolter (1966, rev. 1983)
+- *Contingency and Freedom: Lectura I 39*, trans. A. Vos et al. (1994)
+- *The Examined Report of the Paris Lecture: Reportatio I-A*, trans. Allan B. Wolter & Oleg Bychkov (2004)
+
+## 六、阅读路径
+
+### 入门
+1. *A Treatise on God as First Principle* — 最紧凑的形而上学论文
+2. Wolter (ed.), *Duns Scotus on the Will and Morality* — 精选英译
+3. *Ordinatio* II, d. 3 (haecceitas) — 此性理论
+
+### 进阶
+4. *Ordinatio* I, d. 3 (univocity) — 单义性学说
+5. *Ordinatio* II, d. 3 (individuation) — 个体化理论
+6. *Reportatio Parisiensis* — 巴黎教学
+7. *Quodlibetal Questions* — 辩论性论文

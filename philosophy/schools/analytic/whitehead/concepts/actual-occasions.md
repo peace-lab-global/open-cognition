@@ -1,0 +1,41 @@
+---
+id: whitehead-actual-occasions
+title: 现实机缘 · Actual Occasions
+type: concept
+thinker: whitehead
+domain: philosophy
+school: analytic
+tags: [events, becoming, satisfaction, metaphysics]
+---
+# 现实机缘 · Actual Occasions
+
+## 概念定位 / Conceptual Position
+实在的终极单位不是"东西"，而是"事件"——一个瞬间的生成过程。每个现实机缘都摄受前身事件、整合永恒客体、然后"满足"并消亡。
+
+The ultimate units of reality are not "things" but "events" — momentary becoming processes. Each occasion prehends predecessors, integrates eternal objects, achieves "satisfaction," and perishes.
+
+## 核心论述 / Core Argument
+
+### 生成过程 / Process of Becoming
+1. **摄受阶段 / Prehension Phase**: 把握前身事件
+2. **整合阶段 / Integration Phase**: 将多种摄受整合为统一体验
+3. **满足阶段 / Satisfaction Phase**: 生成完成，成为下一个机缘的前身
+
+### 与莱布尼茨单子的关系 / Relation to Leibniz's Monads
+现实机缘类似莱布尼茨的"单子"——都是终极的、不可再分的实在单位。但单子之间没有因果互动（预定和谐），现实机缘则通过摄受直接关联。
+
+Actual occasions resemble Leibniz's "monads" — ultimate, indivisible units. But monads have no causal interaction (pre-established harmony), while occasions directly relate through prehension.
+
+## 哲学意义 / Philosophical Significance
+提供了一种事件本体论，与量子场论的"事件"视角共鸣。
+
+## 东西方对话 / East-West Dialogue
+### 与佛教"刹那" / With Buddhism's "Moment" (ksana)
+佛教的"刹那"（ksana）是时间/存在的最小单位——每一刹那生灭，前后刹那相似相续。这与"现实机缘"惊人地相似：两者都主张实在由瞬间事件构成，而非持久实体。
+
+Buddhist "moments" (ksana) are the minimal units of time/existence — each moment arises and perishes, with similar continuity. This is strikingly similar to actual occasions: both hold reality consists of momentary events, not enduring substances.
+
+## 相关概念 / Related Concepts
+- [过程哲学 Process Philosophy](process-philosophy.md)
+- [摄受 Prehension](prehension.md)
+- [怀特海主页](../README.md)

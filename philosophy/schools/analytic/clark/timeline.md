@@ -1,0 +1,64 @@
+---
+id: clark-timeline
+title: 克拉克生平年表 · Andy Clark Biography Timeline
+type: timeline
+domain: philosophy
+school: analytic
+thinker: clark
+tags: [clark, timeline, biography]
+cross-refs:
+  - id: clark
+    relation: thinker
+---
+
+# 克拉克生平年表 · Andy Clark Biography Timeline
+
+## 早年与学术训练（1957–1990）
+
+| 年份 | 事件 |
+|------|------|
+| 1957 | 生于英国 |
+| c. 1975 | 进入大学学习哲学与认知科学 |
+| c. 1983 | 获博士学位（萨塞克斯大学），研究方向为联结主义 |
+| 1985–1989 | 在萨塞克斯大学从事博士后研究 |
+| 1989 | 出版首部专著 *Microcognition*——联结主义哲学 |
+
+## 联结主义与具身认知（1990–1998）
+
+| 年份 | 事件 |
+|------|------|
+| 1990 | 赴美国印第安纳大学（Indiana University）任教 |
+| 1993 | 出版 *Associative Engines*——联结主义与概念理论 |
+| 1994 | 开始在华盛顿大学（Washington University in St. Louis）任教 |
+| 1997 | 出版 *Being There*——确立具身-嵌入认知立场 |
+| 1998 | 与David Chalmers合著 "The Extended Mind"——延展心智论题提出 |
+
+## 延展心智与4E认知（1998–2012）
+
+| 年份 | 事件 |
+|------|------|
+| 1999 | 转至爱丁堡大学（University of Edinburgh）任哲学与心理学教授 |
+| 2002 | 在爱丁堡大学创立意识研究中心 |
+| 2003 | 出版 *Natural-Born Cyborgs*——人类作为天生赛博格 |
+| 2004–2010 | 任爱丁堡大学哲学系主任 |
+| 2008 | 出版 *Supersizing the Mind*——延展心智系统辩护 |
+
+## 预测加工与当代影响（2013–至今）
+
+| 年份 | 事件 |
+|------|------|
+| 2012 | 转至萨塞克斯大学（University of Sussex）任哲学教授 |
+| 2013 | 发表 "Whatever Next?"——预测加工宣言性论文 |
+| 2015 | 发表 "Radical Predictive Processing" |
+| 2016 | 出版 *Surfing Uncertainty*——预测加工理论的系统阐述 |
+| 2023 | 出版 *The Experience Machine*——面向大众的预测加工阐述 |
+| 2024– | 继续从事预测加工、延展心智与AI哲学的研究 |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 学术训练 | 1957–1990 | 萨塞克斯、联结主义 |
+| 具身认知 | 1990–1998 | *Being There*、延展心智 |
+| 4E认知 | 1998–2012 | *Natural-Born Cyborgs*、*Supersizing* |
+| 预测加工 | 2013–至今 | *Surfing Uncertainty* |

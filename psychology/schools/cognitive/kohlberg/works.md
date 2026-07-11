@@ -1,0 +1,43 @@
+---
+id: kohlberg-works
+title: "柯尔伯格著作年表 · Lawrence Kohlberg Works Chronology"
+type: works
+thinker: kohlberg-lawrence
+---
+
+# 柯尔伯格著作年表 · Lawrence Kohlberg Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 著作 / Work | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|
+| 1958 | *The Development of Modes of Moral Thinking and Choice in the Years 10 to 16*（博士论文 / Doctoral dissertation） | University of Chicago | 首次提出道德发展阶段论；以72名男孩为样本的纵向研究 / First systematic proposal of moral development stage theory; longitudinal study of 72 boys |
+| 1963 | "The Development of Children's Orientations toward a Moral Order" | *Vita Humana* | 阶段理论的实证验证；确立三水平六阶段基本框架 / Empirical validation of stage theory; establishing the three-level, six-stage framework |
+| 1969 | "Stage and Sequence: The Cognitive-Developmental Approach to Socialization" | In T. Mischel (Ed.), *Socialization and Society*, Academic Press | 理论系统化的经典论文；将道德发展与罗尔斯正义论深度结合 / Classic paper of theoretical systematization; deeply integrating moral development with Rawls's theory of justice |
+| 1971 | "From Is to Ought: How to Commit the Naturalistic Fallacy and Get Away with It in the Study of Moral Development" | In T. Mischel (Ed.), *Cognitive Development and Epistemology*, Academic Press | 道德发展理论的哲学正当性论证；回应"实然-应然"问题 / Philosophical justification of moral development theory; addressing the "is-ought" problem |
+| 1975 | "Moral Stages and Moralization: The Cognitive-Developmental Approach" | In T. Lickona (Ed.), *Moral Development and Behavior*, Holt, Rinehart & Winston | 道德阶段与道德行为的系统区分；回应"判断-行动"关系问题 / Systematic distinction between moral stages and moral behavior; addressing the judgment-action relationship |
+| 1981 | *Essays on Moral Development, Vol. 1: The Philosophy of Moral Development* | Harper & Row | 正义原则的哲学基础；阶段理论的规范论证；收录核心理论论文 / Philosophical foundations of justice principles; normative arguments for stage theory; collects core theoretical essays |
+| 1984 | *Essays on Moral Development, Vol. 2: The Psychology of Moral Development* | Harper & Row | 阶段评定方法（MJI）；纵向研究结果；跨文化比较研究 / Stage assessment methods (MJI); longitudinal findings; cross-cultural comparative studies |
+| 1989 | *Lawrence Kohlberg's Approach to Moral Education*（与 Power, F.C. & Higgins, A. 合著 / with Power & Higgins） | Columbia University Press | 公正社群教育模式的系统阐述；道德教育的实践框架 / Systematic exposition of the just community educational model; practical framework for moral education |
+
+## 重要论文与章节 / Key Papers and Chapters
+
+- Kohlberg, L. (1958). "The Development of Modes of Moral Thinking and Choice in the Years 10 to 16." Unpublished doctoral dissertation, University of Chicago.
+- Kohlberg, L. (1963). "The Development of Children's Orientations toward a Moral Order." *Vita Humana*, 6, 11-33.
+- Kohlberg, L. (1968). "Early Education: A Cognitive-Developmental View." *Child Development*, 39(4), 1013-1048.
+- Kohlberg, L. (1969). "Stage and Sequence: The Cognitive-Developmental Approach to Socialization." In T. Mischel (Ed.), *Socialization and Society*. Academic Press.
+- Kohlberg, L. (1971). "From Is to Ought." In T. Mischel (Ed.), *Cognitive Development and Epistemology*. Academic Press.
+- Kohlberg, L. (1975). "Moral Stages and Moralization." In T. Lickona (Ed.), *Moral Development and Behavior*. Holt, Rinehart & Winston.
+- Kohlberg, L. (1981). "The Meaning and Measurement of Moral Development." In *Essays on Moral Development, Vol. 1*. Harper & Row.
+- Kohlberg, L. (1985). "The Just Community Approach to Moral Education in Theory and Practice." In M. Berkowitz & M. Oser (Eds.), *Moral Education: Theory and Application*. Lawrence Erlbaum.
+
+## 评估工具 / Assessment Instruments
+
+- **道德判断访谈（Moral Judgment Interview, MJI）**：标准化半结构化访谈工具，包含若干道德两难故事及详细的阶段评分手册。经多次修订，成为道德发展研究的标准评估方法。 / Standardized semi-structured interview instrument containing moral dilemma stories and detailed stage scoring manuals. Revised multiple times, becoming the standard assessment method in moral development research.
+- **海因茨两难（Heinz Dilemma）**及其他道德两难故事：柯尔伯格设计的十则道德两难情境，其中最著名的是"海因茨偷药"故事，被全球研究者广泛使用。 / Kohlberg designed ten moral dilemma scenarios, the most famous being the "Heinz dilemma," widely used by researchers worldwide.
+
+## 合作研究项目 / Collaborative Research Projects
+
+- **波士顿地区公正社群学校实验**（1970年代–1980年代）/ Just Community School Experiments in the Boston Area (1970s–1980s)
+- **以色列基布兹道德教育研究**（1970年代–1980年代）/ Moral Education Research in Israeli Kibbutzim (1970s–1980s)
+- **跨文化道德发展比较研究**（土耳其、墨西哥、印度、肯尼亚等）/ Cross-Cultural Comparative Studies of Moral Development (Turkey, Mexico, India, Kenya, etc.)

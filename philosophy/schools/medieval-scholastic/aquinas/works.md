@@ -1,0 +1,92 @@
+---
+id: aquinas-works
+title: 阿奎那作品总览 · Thomas Aquinas Works
+type: works-catalogue
+domain: philosophy
+school: medieval-scholastic
+thinker: aquinas
+tags: [aquinas, works, bibliography]
+cross-refs:
+  - id: aquinas
+    relation: thinker
+---
+
+# 阿奎那作品总览 · Thomas Aquinas Works
+
+## 一、核心神学著作 / Core Theological Works
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| c. 1252–1256 | *Scriptum super Sententias* | 《教父箴言集评注》 | 早期神学体系，4卷 |
+| 1256–1259 | *Quaestiones Disputatae de Veritate* | 《论真理》 | 29个问题 |
+| 1259–1265 | *Summa Contra Gentiles* | 《反异教大全》 | 4卷，面向非基督徒 |
+| 1265–1274 | *Summa Theologiae* | 《神学大全》 | 最核心著作，3部分（III未完成） |
+| 1267–1268 | *Quaestiones Disputatae de Potentia* | 《论全能》 | 论上帝的能力 |
+| 1269–1272 | *Quaestiones Disputatae de Malo* | 《论恶》 | 论恶的本质与自由意志 |
+| 1271 | *Quaestiones Disputatae de Anima* | 《论灵魂》 | 灵魂的本质与功能 |
+
+## 二、哲学论文 / Philosophical Treatises
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| c. 1256 | *De Ente et Essentia* | 《论存在与本质》 | 形而上学核心小论著 |
+| c. 1258 | *De Principiis Naturae* | 《论自然原理》 | 自然哲学基础 |
+| c. 1259 | *De Trinitate* (Super Boethium) | 《论三位一体》 | 对波爱修斯的评注 |
+| 1265–1266 | *De Potentia* | 《论能力》 | 论全能与自由 |
+| 1268 | *De Aeternitate Mundi* | 《论世界的永恒性》 | 世界是否可以无始 |
+| 1270–1271 | *De Unitate Intellectus* | 《论理智的统一性》 | 反驳阿维罗伊主义 |
+| 1271 | *De Substantiis Separatis* | 《论分离实体》 | 天使与非物质实体 |
+
+## 三、亚里士多德评注 / Aristotelian Commentaries
+
+| 年份 | 评注对象 | 备注 |
+|------|----------|------|
+| 1265–1266 | *Commentary on De Anima* | 论灵魂 |
+| 1267–1268 | *Commentary on Metaphysics* | 形而上学 |
+| 1268–1269 | *Commentary on Physics* | 自然哲学 |
+| 1270–1272 | *Commentary on Nicomachean Ethics* | 伦理学 |
+| 1270–1271 | *Commentary on Politics* | 政治学 |
+| 1271–1272 | *Commentary on De Caelo* | 天文学 |
+| 1272–1273 | *Commentary on Posterior Analytics* | 逻辑学 |
+| 1272–1273 | *Commentary on Peri Hermeneias* | 解释学/逻辑学 |
+
+## 四、圣经评注 / Biblical Commentaries
+
+| 年份 | 对象 | 备注 |
+|------|------|------|
+| 1252–1256 | *Catena Aurea* | 四福音书教父注释汇编 |
+| 1259–1265 | *Commentary on Romans* | 罗马书 |
+| 1261–1264 | *Commentary on Job* | 约伯记 |
+| 1263–1264 | *Commentary on the Gospel of John* | 约翰福音 |
+| 1269–1272 | *Commentary on Matthew* | 马太福音 |
+| 1272–1273 | *Commentary on Psalms* | 诗篇 |
+| 1272–1273 | *Commentary on Paul's Epistles* | 保罗书信 |
+
+## 五、《神学大全》结构 / Structure of the Summa Theologiae
+
+- **第一部分（Prima Pars）**：论上帝、三位一体、创造、天使、人
+- **第一部分之二（Prima Secundae）**：论幸福、激情、习惯、美德、法律、恩典
+- **第二部分之二（Secunda Secundae）**：论各种美德与罪
+- **第三部分（Tertia Pars）**：论道成肉身、圣事（未完成）
+
+## 六、英译本 / English Translations
+
+- *Summa Theologiae*, trans. Fathers of the English Dominican Province (1920, rev.) — 标准英译
+- *Summa Theologiae*, Blackfriars Edition (1964–1981, 61 vols.) — 带注释的学术版
+- *On Being and Essence*, trans. Armand Maurer (1949)
+- *On Evil*, trans. Jean Oesterle (1995)
+- *Selected Philosophical Writings*, trans. Timothy McDermott (1993)
+- *Basic Writings of Saint Thomas Aquinas*, ed. Anton Pegis (1945)
+
+## 七、阅读路径
+
+### 入门
+1. *De Ente et Essentia* — 最紧凑的形而上学论文
+2. *Summa Theologiae* I, q. 2 — 五路论证
+3. *Summa Theologiae* I-II, q. 94 — 自然法第一原则
+
+### 进阶
+4. *Summa Theologiae* I, qq. 2–26 — 上帝论
+5. *Summa Theologiae* I, qq. 75–89 — 灵魂论
+6. *Summa Contra Gentiles* — 理性神学
+7. *Quaestiones de Veritate* — 真理与知识

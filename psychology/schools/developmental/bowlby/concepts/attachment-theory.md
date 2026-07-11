@@ -1,0 +1,118 @@
+---
+id: bowlby-john.attachment-theory
+title: "依恋理论 · Attachment Theory"
+type: concept
+domain: psychology
+thinker: bowlby-john
+tags:
+  - 依恋理论
+  - 行为系统
+  - 进化心理学
+  - 依恋类型
+  - attachment-theory
+  - behavioural-system
+  - evolutionary-psychology
+  - attachment-patterns
+---
+
+# 依恋理论 · Attachment Theory
+
+## 定义 / Definition
+
+**依恋理论**（Attachment Theory）是由约翰·鲍尔比（John Bowlby）创建的发展心理学理论框架，主张人类婴儿与主要照顾者之间建立情感纽带的需求是一种进化而来的、独立的基本行为系统——其生物学功能是维持亲近以获得保护，而非衍生于喂养等生理需要的次级驱力。
+
+**Attachment Theory** is a developmental psychology framework created by John Bowlby, positing that the human infant's need to form an emotional bond with a primary caregiver constitutes an evolutionarily derived, independent basic behavioural system — whose biological function is to maintain proximity for protection, not as a secondary drive derived from feeding or other physiological needs.
+
+依恋行为（attachment behaviour）包括哭泣、呼唤、跟随、攀附、微笑等一系列行为，其共同目标是获得或维持与依恋对象（attachment figure）的身体和心理上的接近。这些行为在婴儿感到威胁（如陌生人接近、疲劳、疾病、与照顾者分离）时被激活，在获得与照顾者的亲近后被平息。
+
+Attachment behaviours — crying, calling, following, clinging, smiling — share the common goal of achieving or maintaining physical and psychological proximity to the attachment figure. These behaviours are activated when the infant perceives threat (e.g., stranger approach, fatigue, illness, separation from caregiver) and are deactivated upon achieving proximity.
+
+## 核心机制 / Core Mechanism
+
+### 依恋行为系统的运作 / Operation of the Attachment Behavioural System
+
+鲍尔比借用控制论（cybernetics）的反馈环路模型来解释依恋行为系统的动态调节。该系统的"设定目标"（set-goal）是维持与依恋对象的特定程度的接近。当婴儿感知到自己与依恋对象之间的距离超过了"设定目标"范围时，依恋行为被激活（如哭泣、寻找）；当接近程度恢复到目标范围时，依恋行为消退，探索行为取而代之。
+
+Bowlby borrowed the cybernetic feedback-loop model to explain the dynamic regulation of the attachment behavioural system. The system's "set-goal" is maintaining a certain degree of proximity to the attachment figure. When the infant perceives that the distance from the attachment figure exceeds the set-goal range, attachment behaviours are activated (crying, searching); when proximity is restored to within the goal range, attachment behaviours deactivate and exploratory behaviours resume.
+
+这一模型的关键洞见在于：依恋系统与探索系统之间存在**动态平衡关系**——安全感增加时探索行为增加，威胁感增加时依恋行为增加。这种平衡关系贯穿整个发展过程。
+
+The key insight of this model is that the attachment system and the exploratory system exist in a **dynamic balance** — exploratory behaviours increase when security increases, while attachment behaviours increase when threat increases. This balance persists throughout development.
+
+### 依恋与依赖的区分 / Distinguishing Attachment from Dependence
+
+鲍尔比明确区分了"依恋"（attachment）与"依赖"（dependence）。依赖是婴儿无法独立完成某项任务时的状态，随着能力增长而减少；依恋则是对特定个体的情感纽带，具有选择性和持久性——即使儿童在能力上不再"依赖"父母，对父母的依恋纽带仍然持续。
+
+Bowlby explicitly distinguished "attachment" from "dependence." Dependence is the state in which the infant cannot independently accomplish a task; it diminishes as competence grows. Attachment, by contrast, is an emotional bond to a specific individual, characterised by selectivity and persistence — even when children are no longer "dependent" on parents in terms of competence, the attachment bond to parents endures.
+
+### 依恋类型的形成 / Formation of Attachment Patterns
+
+鲍尔比的理论构想被玛丽·安斯沃思（Mary Ainsworth）通过"陌生情境"（Strange Situation）实验范式所实证化。安斯沃思识别出三种主要依恋类型：
+
+Bowlby's theoretical constructs were operationalised by Mary Ainsworth through the "Strange Situation" experimental paradigm. Ainsworth identified three primary attachment patterns:
+
+1. **安全型（Secure, ~60-65%）**：婴儿在母亲在场时自由探索，分离时表现出适度痛苦，重聚时积极寻求安慰并很快恢复探索。 / The infant explores freely when mother is present, shows moderate distress upon separation, actively seeks comfort upon reunion, and quickly resumes exploration.
+
+2. **回避型（Avoidant, ~20%）**：婴儿对母亲的存在和离开表现出情感上的冷淡，回避重聚时的身体接触。 / The infant shows emotional indifference to mother's presence and departure, avoiding physical contact upon reunion.
+
+3. **焦虑-矛盾型（Anxious-Ambivalent, ~10-15%）**：婴儿在母亲在场时就表现出高度警觉和有限的探索，分离时极度痛苦，重聚时同时表现出寻求亲近和愤怒抗拒。 / The infant shows high vigilance and limited exploration even when mother is present, extreme distress upon separation, and simultaneous proximity-seeking and angry resistance upon reunion.
+
+后来，玛丽·梅因（Mary Main）补充了第四种类型：**混乱型（Disorganized, ~5-15%）**——婴儿在重聚时表现出矛盾、冻结或异常行为，通常与照顾者的恐吓行为或未解决的创伤有关。
+
+Mary Main later added a fourth pattern: **Disorganized (~5-15%)** — infants display contradictory, frozen, or anomalous behaviours upon reunion, typically associated with caregiver frightening behaviour or unresolved trauma.
+
+## 发展脉络 / Development
+
+### 理论的形成历程 / Historical Formation
+
+依恋理论的形成经历了几个关键阶段。1944年的《四十四名少年小偷》研究首次揭示了早期母子分离与"无情型人格"的统计关联，为依恋理论提供了最初的临床动机。1951年的WHO报告《母性照顾与心理健康》将这一关注扩展到社会政策层面。
+
+Attachment theory's formation passed through several key stages. The 1944 *Forty-Four Juvenile Thieves* study first revealed the statistical association between early mother-child separation and the "affectionless character," providing the initial clinical motivation. The 1951 WHO report *Maternal Care and Mental Health* extended this concern to the social policy level.
+
+1957-1959年间，鲍尔比连续发表三篇奠基性论文，将依恋概念从精神分析的模糊框架中提炼为一个精确的行为系统理论，整合了行为学（洛伦茨的印记研究）、控制论（维纳的反馈环路）和认知心理学的最新成果。1969年《依恋与丧失》第一卷的出版标志着理论的完整建构。
+
+Between 1957-1959, Bowlby published three foundational papers, distilling the attachment concept from psychoanalysis's vague framework into a precise behavioural systems theory, integrating ethology (Lorenz's imprinting research), cybernetics (Wiener's feedback loops), and contemporary cognitive psychology. The 1969 publication of *Attachment and Loss* Volume 1 marked the theory's complete construction.
+
+### 当代扩展 / Contemporary Extensions
+
+依恋理论在鲍尔比之后的发展包括：安斯沃思的实证验证（1970年代）；梅因的成人依恋访谈和代际传递研究（1980年代）；哈赞和谢弗的成人浪漫依恋研究（1987）；福纳吉（Fonagy）的心智化理论与依恋的整合（1990年代至今）；以及舒尔（Shaver）等人将依恋理论扩展到社会心理学领域。
+
+Post-Bowlby developments include: Ainsworth's empirical validation (1970s); Main's Adult Attachment Interview and intergenerational transmission research (1980s); Hazan and Shaver's adult romantic attachment research (1987); Fonagy's integration of mentalization theory with attachment (1990s–present); and Shaver et al.'s extension of attachment theory into social psychology.
+
+## 临床应用 / Clinical Applications
+
+依恋理论在心理治疗中的应用已经产生了多种循证治疗模型：
+
+Attachment theory's application in psychotherapy has generated multiple evidence-based treatment models:
+
+- **情绪聚焦治疗（EFT, Sue Johnson）**：将伴侣关系困难理解为依恋不安全感的表达，治疗目标是重建伴侣间的安全联结。 / Understands couple distress as expression of attachment insecurity; treatment goal is rebuilding secure couple bonds.
+- **心智化治疗（MBT, Peter Fonagy）**：聚焦于提升患者理解自己和他人心理状态的能力——这一能力被认为植根于早期依恋关系的质量。 / Focuses on enhancing patients' capacity to understand their own and others' mental states — a capacity rooted in early attachment relationship quality.
+- **依恋为基础的家庭治疗**：将家庭互动模式理解为依恋行为系统的表达，帮助家庭成员识别和改变不安全的互动循环。 / Understands family interaction patterns as expressions of the attachment behavioural system, helping family members identify and change insecure interaction cycles.
+
+## 与其他概念的关联 / Related Concepts
+
+- [安全基地（Secure Base）](secure-base.md)：依恋理论的核心隐喻——安全基地是依恋系统健康运作的条件
+- [内部工作模型（Internal Working Models）](internal-working-models.md)：依恋经验在心理层面的组织方式
+- [分离焦虑（Separation Anxiety）](separation-anxiety.md)：依恋系统被激活时的典型反应
+- [母性剥夺（Maternal Deprivation）](maternal-deprivation.md)：依恋需求未能满足时的极端后果
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+依恋理论将依恋理解为一种先天的、生物性的需要——这与佛教对"爱欲"（tanha）的理解形成了有意义的张力。佛教并不否认人类对联结的需要，但认为对这种需要的执着（upadana）是苦的根源。依恋理论则区分了安全的联结（健康的依附）和不安全的联结（焦虑的依附），主张目标不是消除依附，而是将不安全转化为安全。
+
+Attachment theory understands attachment as an innate, biological need — creating meaningful tension with Buddhism's understanding of "tanha" (craving). Buddhism does not deny the human need for connection, but holds that clinging (upadana) to this need is the root of suffering. Attachment theory distinguishes secure connection (healthy attachment) from insecure connection (anxious attachment), arguing the goal is not eliminating attachment but transforming insecurity into security.
+
+中国儒家思想中对"五伦"（君臣、父子、夫妇、兄弟、朋友）关系的强调，可以被视为一种文化层面的"依恋安全"建构——通过明确的伦理角色和责任，为个体提供可预测的、安全的 relational framework。这与依恋理论强调照顾者的"可预测性和敏感性"有异曲同工之处。
+
+The Chinese Confucian emphasis on the "Five Relationships" (ruler-minister, father-son, husband-wife, elder-younger brother, friend-friend) can be seen as a cultural-level construction of "attachment security" — through clearly defined ethical roles and responsibilities, providing the individual with a predictable, secure relational framework. This resonates with attachment theory's emphasis on caregiver "predictability and sensitivity."
+
+## 进阶阅读 / Further Reading
+
+- Bowlby, J. *Attachment and Loss, Vol.1: Attachment*. New York: Basic Books, 1969.
+- Ainsworth, M.D.S. et al. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Erlbaum, 1978.
+- Cassidy, J. & Shaver, P.R., eds. *Handbook of Attachment*. 3rd ed. New York: Guilford Press, 2016.
+- 中文：陈会昌等译，《依恋理论》，北京：北京师范大学出版社。
+
+← 返回 [约翰·鲍尔比 · John Bowlby](../README.md)

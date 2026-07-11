@@ -1,0 +1,37 @@
+---
+id: cognitive-systems.safety-science.dekker-reading-list
+title: 德克尔Safety Differently进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: safety-science
+thinker: dekker
+tags: [dekker, reading-guide, safety-differently]
+cross-refs: [{id: dekker, relation: thinker}]
+---
+
+# 德克尔Safety Differently进阶阅读
+
+## 入门
+1. Dekker, S. (2014). *Safety Differently: People Are the Solution*. CRC Press. — Safety Differently纲领
+2. Dekker, S. (2011). *Drift into Failure*, 前三章. Ashgate. — 漂移失败理论入门
+
+## 原典
+- Dekker, S. (2006/2014). *The Field Guide to Understanding 'Human Error'*. Ashgate/CRC Press.
+- Dekker, S. (2007/2016). *Just Culture*. Ashgate/CRC Press.
+- Dekker, S. (2011). *Drift into Failure*. Ashgate.
+- Dekker, S. (2014). *Safety Differently*. CRC Press.
+- Dekker, S. (2017). *The Safety Anarchist*. Routledge.
+
+## 二手研究
+- Hollnagel, E. (2014). *Safety-I and Safety-II*. Ashgate. — Safety-II理论基础
+- Vaughan, D. (1996). *The Challenger Launch Decision*. UCP. — 偏差正常化，漂移失败的关键前驱
+- Conklin, T. (2012). *Pre-Accident Investigations*. — Safety Differently实践视角
+- Woods, D. D., et al. (2010). *Behind Human Error*. Ashgate.
+
+## 中文资源
+- 《漂移失败》相关章节中译
+- 《公正文化》相关中译
+- 安全文化与人因工程的中文综述文献
+
+## 相关概念文件
+- [漂移失败 Drift into Failure](../../concepts/drift-into-failure.md)

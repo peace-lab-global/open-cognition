@@ -1,0 +1,155 @@
+# 列夫·维果茨基 · Lev Vygotsky - 推荐阅读 / Reading List
+
+> 本阅读清单按照原著、二手研究、英文资源、相关思想家四个部分组织。
+> This reading list is organized into four sections: Primary Works, Secondary Research, English Resources, and Related Thinkers.
+
+## 一、原著 / Primary Works
+
+### 入门首选 / First Readings
+
+| 著作 | 说明 |
+|------|------|
+| Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press. | **最佳英文入门书**。包含维果茨基最重要的论文选集，涵盖ZPD、工具与符号、高级心理机能等核心概念。/ **Best English entry point**. Contains selections of Vygotsky's most important papers, covering ZPD, tool and sign, higher mental functions, and other core concepts. |
+| Vygotsky, L.S. (1986). *Thought and Language* (A. Kozulin, Trans., rev. ed.). Cambridge: Cambridge University Press. | **维果茨基最重要的成熟著作**。附科祖林的重要导言，帮助理解理论背景。/ **Vygotsky's most important mature work**. Includes Kozulin's important introduction providing theoretical context. |
+
+### 进阶原著 / Advanced Primary Works
+
+| 著作 | 说明 |
+|------|------|
+| Vygotsky, L.S. (1994). *The Vygotsky Reader* (R. van der Veer & J. Valsiner, Eds.). Oxford: Blackwell. | 包含多篇首次英文翻译的重要论文，如"工具与符号""心理学的历史意义"。/ Contains multiple important papers translated into English for the first time. |
+| Vygotsky, L.S. (1971). *The Psychology of Art*. Cambridge, MA: MIT Press. | 维果茨基的博士论文；审美反应理论和情感心理学。/ Vygotsky's doctoral dissertation; aesthetic response theory and psychology of emotion. |
+| Vygotsky, L.S. (1997). *The Collected Works of L.S. Vygotsky* (6 vols.). New York: Plenum/Springer. | 英文全集；适合深入研究。/ English complete works; for in-depth research. |
+| Vygotsky, L.S. & Luria, A.R. (1994). "Tool and Sign in the Development of the Child." In *The Vygotsky Reader*. | 工具与符号的系统区分；文化-历史理论的核心文献。/ Systematic distinction of tools and signs; core text of cultural-historical theory. |
+
+### 俄文原著（供参考）/ Russian Originals (for reference)
+
+| 著作 | 说明 |
+|------|------|
+| Выготский, Л.С. (1982–1984). *Собрание сочинений* (6 т.). Москва: Педагогика. | 俄文全集。/ Russian complete works. |
+| Выготский, Л.С. (1934). *Мышление и речь*. Москва-Ленинград: Соцэкгиз. | 《思维与语言》俄文原版。/ Russian original of *Thought and Language*. |
+
+## 二、二手研究 / Secondary Research
+
+### 传记与思想史 / Biography and Intellectual History
+
+| 著作 | 说明 |
+|------|------|
+| Kozulin, A. (1990). *Vygotsky's Psychology: A Biography of Ideas*. Cambridge, MA: Harvard University Press. | **维果茨基思想传记**。追溯其思想的演变历程，深入分析核心概念。/ **Intellectual biography of Vygotsky**. Traces the evolution of his thought with deep analysis of core concepts. |
+| van der Veer, R. & Valsiner, J. (1991). *Understanding Vygotsky: A Quest for Synthesis*. Oxford: Blackwell. | **综合分析**。详细探讨维果茨基的思想来源、发展和影响。/ **Comprehensive synthesis**. Explores Vygotsky's intellectual sources, development, and influence in detail. |
+| Yasnitsky, A. & van der Veer, R. (Eds.) (2015). *Revisionist Revolution in Vygotsky Studies*. London: Routledge. | **修正主义研究**。挑战传统"维果茨基神话"，提供更准确的历史图景。/ **Revisionist scholarship**. Challenges the traditional "Vygotsky myth," providing a more accurate historical picture. |
+| Yasnitsky, A. (2018). *Vygotsky: An Intellectual Biography*. London: Routledge. | 最新的维果茨基传记，整合了修正主义研究的成果。/ Most recent Vygotsky biography, incorporating revisionist research findings. |
+
+### 理论阐释 / Theoretical Interpretation
+
+| 著作 | 说明 |
+|------|------|
+| Wertsch, J.V. (1985). *Vygotsky and the Social Formation of Mind*. Cambridge, MA: Harvard University Press. | **经典诠释**。系统阐释维果茨基的理论，特别是中介和内化概念。/ **Classic interpretation**. Systematic exposition of Vygotsky's theory, especially mediation and internalization. |
+| Wertsch, J.V. (1991). *Voices of the Mind: A Sociocultural Approach to Mediated Action*. Cambridge, MA: Harvard University Press. | 将维果茨基理论发展为"中介行动"理论。/ Develops Vygotsky's theory into a "mediated action" framework. |
+| Kozulin, A., Gindis, B., Ageyev, V.S., & Miller, S.M. (Eds.) (2003). *Vygotsky's Educational Theory in Cultural Context*. Cambridge: Cambridge University Press. | 维果茨基教育理论在文化语境中的全面探讨。/ Comprehensive exploration of Vygotsky's educational theory in cultural context. |
+
+### 教育学应用 / Educational Applications
+
+| 著作 | 说明 |
+|------|------|
+| Daniels, H. (2001). *Vygotsky and Pedagogy*. London: RoutledgeFalmer. | 维果茨基理论与当代教育实践的桥梁。/ Bridge between Vygotsky's theory and contemporary educational practice. |
+| Moll, L.C. (Ed.) (1990). *Vygotsky and Education: Instructional Implications and Applications of Sociohistorical Psychology*. Cambridge: Cambridge University Press. | 维果茨基理论在教育中的应用论文集。/ Edited collection on Vygotsky's theory applied to education. |
+| Hedegaard, M. & Chaiklin, S. (Eds.) (2005). *Radical-Developmental Pedagogy*. Charlotte, NC: Information Age Publishing. | 基于维果茨基理论的教学方法论。/ Pedagogical methodology based on Vygotsky's theory. |
+
+### 活动理论发展 / Activity Theory Developments
+
+| 著作 | 说明 |
+|------|------|
+| Engestrom, Y. (1987). *Learning by Expanding: An Activity-Theoretical Approach to Developmental Research*. Helsinki: Orienta-Konsultit. | 将维果茨基理论发展为三代活动理论。/ Develops Vygotsky's theory into three generations of activity theory. |
+| Engestrom, Y., Miettinen, R., & Punamaki, R.-L. (Eds.) (1999). *Perspectives on Activity Theory*. Cambridge: Cambridge University Press. | 活动理论的多视角探讨。/ Multi-perspective exploration of activity theory. |
+| Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Cambridge, MA: Harvard University Press. | 在维果茨基基础上建立当代文化心理学。/ Establishes contemporary cultural psychology on Vygotsky's foundation. |
+
+## 三、英文资源 / English Resources
+
+### 学术期刊 / Academic Journals
+
+| 期刊 | 说明 |
+|------|------|
+| *Cultural-Historical Psychology* (2005–present) | 专门研究维果茨基传统和文化-历史心理学的国际期刊。/ International journal dedicated to the Vygotskian tradition and cultural-historical psychology. |
+| *Mind, Culture, and Activity* | 关注文化-历史活动理论和相关研究。/ Focuses on cultural-historical activity theory and related research. |
+| *Human Development* | 经常发表维果茨基传统的理论和实证研究。/ Regularly publishes theoretical and empirical research in the Vygotskian tradition. |
+
+### 在线资源 / Online Resources
+
+| 资源 | 说明 |
+|------|------|
+| [The Vygotsky Project](https://vygotsky.bowdoin.edu) | Bowdoin College维护的维果茨基数字化档案——包含著作、传记、研究资源。/ Digital archive maintained by Bowdoin College — includes works, biography, research resources. |
+| [ISCAR](https://www.iscarweb.org) | 国际社会文化历史活动研究协会（International Society for Cultural-Historical Activity Research）。/ International Society for Cultural-Historical Activity Research. |
+| [Marxists Internet Archive: Vygotsky](https://www.marxists.org/archive/vygotsky/) | 维果茨基多篇著作的免费在线版本。/ Free online versions of multiple Vygotsky works. |
+
+### 重要论文集 / Important Edited Collections
+
+| 著作 | 说明 |
+|------|------|
+| Daniels, H., Hedegaard, M., & Valsiner, J. (Eds.) (2007). *Vygotsky with Freud on the Left: Beyond the Classical Heritage*. Charlotte, NC: Information Age Publishing. | 探索维果茨基传统与精神分析的对话。/ Explores dialogue between the Vygotskian tradition and psychoanalysis. |
+| Fernyhough, C. (2016). *The Voices Within: The History and Science of How We Talk to Ourselves*. London: Profile Books. | 关于内部言语的当代研究经典——深受维果茨基影响。/ Contemporary classic on inner speech — deeply influenced by Vygotsky. |
+
+## 四、相关思想家 / Related Thinkers
+
+### 直接后继者 / Direct Successors
+
+| 思想家 | 关系 | 推荐阅读 |
+|--------|------|----------|
+| **Alexander Luria 卢里亚** | 维果茨基最亲密的合作者；文化神经心理学创始人 | Luria, A.R. (1976). *Cognitive Development: Its Cultural and Social Foundations*. Cambridge, MA: Harvard University Press. |
+| **Alexei Leontiev 列昂季耶夫** | 活动理论创始人；"三人组"成员 | Leontiev, A.N. (1978). *Activity, Consciousness, and Personality*. Englewood Cliffs, NJ: Prentice-Hall. |
+| **Pyotr Galperin 加尔佩林** | "阶段形成"理论——内化过程的操作化 | Galperin, P.Ya. (1969). "Stages in the Development of Mental Acts." |
+| **Vladimir Zinchenko 津琴科** | 记忆与中介研究 | Zinchenko, P.I. (1981). *Memory in Experimental Psychology*. |
+
+### 西方传播者 / Western Disseminators
+
+| 思想家 | 关系 | 推荐阅读 |
+|--------|------|----------|
+| **Jerome Bruner 布鲁纳** | 支架教学概念创始人；将维果茨基理论引入西方教育学 | Bruner, J.S. (1983). *Child's Talk: Learning to Use Language*. New York: Norton. |
+| **James Wertsch 沃茨奇** | 中介行动理论；维果茨基理论的系统阐释者 | Wertsch, J.V. (1998). *Mind as Action*. New York: Oxford University Press. |
+| **Alex Kozulin 科祖林** | 维果茨基思想传记作者；《思维与语言》修订版译者 | Kozulin, A. (2003). "Psychological Tools and Mediated Learning." |
+| **Barbara Rogoff 罗戈夫** | 引导参与理论；维果茨基理论在人类学中的应用 | Rogoff, B. (2003). *The Cultural Nature of Human Development*. New York: Oxford University Press. |
+
+### 对话者 / Dialogue Partners
+
+| 思想家 | 关系 | 推荐阅读 |
+|--------|------|----------|
+| **Jean Piaget 皮亚杰** | 发展心理学中的主要对话者（互补与对立） | Piaget, J. (1926). *The Language and Thought of the Child*. |
+| **Mikhail Bakhtin 巴赫金** | 对话理论与语言的社会性 | Bakhtin, M.M. (1981). *The Dialogic Imagination*. Austin: University of Texas Press. |
+| **John Dewey 杜威** | 实用主义教育学；"做中学" | Dewey, J. (1938). *Experience and Education*. New York: Macmillan. |
+| **Yrjo Engestrom 恩格斯托姆** | 三代活动理论 | Engestrom, Y. (2015). *Learning by Expanding* (2nd ed.). Cambridge University Press. |
+| **Edwin Hutchins 哈钦斯** | 分布式认知 | Hutchins, E. (1995). *Cognition in the Wild*. Cambridge, MA: MIT Press. |
+
+### 东方思想对话者 / Eastern Thought Dialogue Partners
+
+| 思想家 | 对话点 | 推荐阅读 |
+|--------|--------|----------|
+| **孔子 Confucius** | 因材施教；启发式教学 | 《论语》*Analects* / Lau, D.C. (Trans.) (1979). *Confucius: The Analects*. Penguin. |
+| **庄子 Zhuangzi** | 技与道；工具使用的超越 | 《庄子》*Zhuangzi* / Watson, B. (Trans.) (1968). *The Complete Works of Chuang Tzu*. Columbia University Press. |
+| **唯识学 Yogacara** | 名言种子；内化机制 | Lusthaus, D. (2002). *Buddhist Phenomenology*. London: RoutledgeCurzon. |
+
+## 推荐阅读顺序 / Suggested Reading Order
+
+### 初学者路径 / Beginner Path
+1. Vygotsky (1978) *Mind in Society* — 选读Chapters 1, 4, 6
+2. Kozulin (1990) *Vygotsky's Psychology* — 选读导言和核心章节
+3. Wertsch (1985) *Vygotsky and the Social Formation of Mind* — 系统理解
+
+### 进阶路径 / Advanced Path
+1. Vygotsky (1986) *Thought and Language* — 完整阅读
+2. van der Veer & Valsiner (1991) *Understanding Vygotsky* — 深入分析
+3. *The Vygotsky Reader* (1994) — 阅读首次翻译的论文
+
+### 教育应用路径 / Education Application Path
+1. Vygotsky (1978) *Mind in Society* — 重点Chapter 6 (ZPD)
+2. Daniels (2001) *Vygotsky and Pedagogy*
+3. Wood, Bruner & Ross (1976) — scaffolding原文
+4. Rogoff (2003) *The Cultural Nature of Human Development*
+
+### 活动理论路径 / Activity Theory Path
+1. Vygotsky (1978) *Mind in Society*
+2. Leontiev (1978) *Activity, Consciousness, and Personality*
+3. Engestrom (1987/2015) *Learning by Expanding*
+4. Cole (1996) *Cultural Psychology*
+
+---
+
+> **相关条目 / See Also**: [README.md](README.md) · [works.md](works.md) · [timeline.md](timeline.md)

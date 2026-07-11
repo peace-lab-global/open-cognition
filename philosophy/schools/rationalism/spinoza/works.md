@@ -1,0 +1,112 @@
+---
+id: spinoza-works
+title: 斯宾诺莎著作详述 · Spinoza's Major Works
+type: works
+domain: philosophy
+thinker: spinoza
+---
+
+# 斯宾诺莎著作详述 · Spinoza's Major Works
+
+## 《简论上帝、人及其幸福》 · Korte Verhandeling van God, de Mensch en deszelvs Welstand (c. 1660)
+
+斯宾诺莎最早的哲学著作，生前未出版，1862年才被发现。以荷兰文写成，分为两大部分和附录。这部著作已经包含了斯宾诺莎成熟时期哲学的核心主题——上帝/自然的一元论、决定论、情感理论和最高幸福——但论证方式不如后来的《伦理学》那样严格。它被视为《伦理学》的"初稿"或"原型"。
+
+Spinoza's earliest philosophical work, unpublished in his lifetime and discovered only in 1862. Written in Dutch, divided into two main parts and appendices. It already contains the core themes of Spinoza's mature philosophy — God/Nature monism, determinism, affect theory, and supreme happiness — but the argumentation is less rigorous than the later *Ethics*. It is regarded as the *Ethics*'s "draft" or "prototype."
+
+## 《知性改进论》 · Tractatus de Intellectus Emendatione (c. 1662)
+
+斯宾诺莎的方法论著作，生前未完成，死后出版。全书探讨如何"改进知性"——即如何净化认知能力以获得真理和最高幸福。斯宾诺莎区分了四种知觉方式：
+
+Spinoza's methodological treatise, unfinished in his lifetime, published posthumously. It explores how to "improve the understanding" — purifying cognitive capacity to attain truth and supreme happiness. Spinoza distinguishes four modes of perception:
+
+1. **从传闻或任意符号获得的知觉**：最不可靠，如"我知道我的生日"
+2. **从模糊经验获得的知觉**：不确定的经验概括，如"人终将死去"
+3. **从推理获得的知觉**：通过因果关系推理，如从太阳的大小推算其距离
+4. **从事物本质直接直观获得的知觉**：最可靠的，如"2+3=5"
+
+1. **Perception from hearsay or arbitrary signs**: Least reliable, e.g., "I know my birthday"
+2. **Perception from vague experience**: Indeterminate generalizations, e.g., "all humans die"
+3. **Perception from reasoning**: Causal inference, e.g., calculating the sun's distance from its size
+4. **Perception from direct intuition of essence**: Most reliable, e.g., "2+3=5"
+
+斯宾诺莎的目标是使第四种知觉方式成为主导——这是一种"理性的净化"，类似于笛卡尔的"方法论怀疑"，但更具建设性——不是怀疑一切，而是系统地提升认知能力。
+
+Spinoza's goal is to make the fourth mode dominant — a "purification of reason," analogous to Cartesian methodological doubt but more constructive — not doubting everything but systematically elevating cognitive capacity.
+
+## 《笛卡尔哲学原理》 · Principia Philosophiae Cartesianae (1663)
+
+斯宾诺莎唯一一部在他生前署名出版的著作。以几何学方式（定义、公理、命题、证明）系统阐述了笛卡尔的哲学——特别是《哲学原理》中的形而上学和物理学。但斯宾诺莎在阐述过程中隐含了对笛卡尔二元论的批判——他以笛卡尔自己的方法论工具来揭示笛卡尔体系的内在矛盾。
+
+Spinoza's only work published under his name during his lifetime. It systematically presents Descartes's philosophy in geometrical format (definitions, axioms, propositions, demonstrations) — especially the metaphysics and physics from the *Principles of Philosophy*. But Spinoza's presentation implicitly critiques Cartesian dualism — using Descartes's own methodological tools to reveal internal contradictions in his system.
+
+## 《神学政治论》 · Tractatus Theologico-Politicus (1670)
+
+斯宾诺莎生前出版的最重要的著作——也是近代西方思想史上最具革命性的文本之一。匿名出版于阿姆斯特丹，但很快被当局禁止。全书分为20章，涵盖了三个主题：
+
+Spinoza's most important work published in his lifetime — and one of the most revolutionary texts in modern Western intellectual history. Published anonymously in Amsterdam but soon banned. Divided into 20 chapters covering three themes:
+
+### 1. 圣经批判 (Chapters 1–15)
+
+斯宾诺莎是近代圣经批判的先驱之一。他论证了：圣经不是上帝的直接启示，而是由不同时代的人类作者编写的历史文献；应当用历史-语文学方法来解读圣经，而非将其视为科学或哲学的权威；预言不是超自然的知识，而是具有丰富想象力的先知的道德教导。
+
+Spinoza was a pioneer of modern biblical criticism. He argued: the Bible is not direct divine revelation but historical literature compiled by human authors in different eras; it should be interpreted by historical-philological methods, not treated as scientific or philosophical authority; prophecy is not supernatural knowledge but moral teaching by prophets with rich imaginations.
+
+### 2. 思想自由 (Chapters 16–19)
+
+斯宾诺莎系统论证了思想自由和言论自由的原则："在一个自由的国家中，每个人都应该被允许自由地思考和说他所想的东西。"这一主张在17世纪是极为激进的——它直接影响了后来的启蒙运动和美国宪法第一修正案的精神。
+
+Spinoza systematically argued for freedom of thought and speech: "In a free commonwealth, everyone should be allowed to think what he wishes and to say what he thinks." This claim was extremely radical in the 17th century, directly influencing the later Enlightenment and the spirit of the First Amendment to the US Constitution.
+
+### 3. 政教分离 (Chapters 16–20)
+
+斯宾诺莎论证了宗教权威和政治权威应当分离——教会不应干预国家事务，国家也不应干预宗教信仰（只要不危害公共秩序）。国家的唯一目的是保障公民的自由和安全。这一理论是近代世俗主义和自由主义政治哲学的先驱。
+
+Spinoza argued that religious and political authority should be separate — the church should not interfere in state affairs, nor the state in religious belief (provided it does not harm public order). The state's sole purpose is to secure citizens' freedom and safety. This theory is a precursor of modern secularism and liberal political philosophy.
+
+## 《伦理学》 · Ethica, ordine geometrico demonstrata (1677)
+
+斯宾诺莎的巨著和代表作，死后出版。全书以几何学方式论证，分为五个部分：
+
+Spinoza's magnum opus and masterwork, published posthumously. Demonstrated in geometrical order, divided into five parts:
+
+### 第一部分：论上帝 (De Deo)
+
+以34个命题论证了实体一元论——只有一个实体（上帝/自然），它拥有无限多的属性，万物都是它的样式。这一部分还包含了斯宾诺莎的严格决定论——"在自然中没有偶然的东西"（In rerum natura nihil contingit）。
+
+Part I: On God (De Deo) — 34 propositions demonstrating substance monism — only one substance (God/Nature) with infinitely many attributes, all things being its modes. This part also contains Spinoza's strict determinism — "In nature there is nothing contingent" (In rerum natura nihil contingit).
+
+### 第二部分：论心灵的性质和起源 (De Natura et Origine Mentis)
+
+以49个命题论证了身心平行论——心灵是身体的观念（Idea corporis），思维和广延是同一实体的两种属性。这一部分还包含了认识论——三种知识的理论和充分观念/不充分观念的区分。
+
+Part II: On the Nature and Origin of the Mind (De Natura et Origine Mentis) — 49 propositions demonstrating mind-body parallelism — the mind is the idea of the body (Idea corporis); thought and extension are two attributes of the same substance. Also contains epistemology — the three kinds of knowledge and the distinction between adequate and inadequate ideas.
+
+### 第三部分：论情感的起源和性质 (De Origine et Natura Affectuum)
+
+以59个命题系统地分析了情感——定义了48种情感，从三种基本情感（欲望、快乐、悲伤）推导出全部情感的几何学。这一部分是《伦理学》中最具原创性的部分之一。
+
+Part III: On the Origin and Nature of the Affects (De Origine et Natura Affectuum) — 59 propositions systematically analyzing affects — defining 48 affects, deriving the entire geometry of affects from three basic ones (desire, joy, sadness). One of the most original parts of the *Ethics*.
+
+### 第四部分：论人的奴役或情感的力量 (De Servitute Humana seu de Affectuum Viribus)
+
+以73个命题分析了人如何被被动情感所奴役，以及如何通过理性来获得一定程度的自由。核心命题："自由的人绝不思考死亡，他的智慧不是对死亡的沉思，而是对生命的沉思。"
+
+Part IV: On Human Bondage, or the Power of the Affects (De Servitute Humana seu de Affectuum Viribus) — 73 propositions analyzing how humans are enslaved by passive affects and how reason can attain a degree of freedom. Core proposition: "A free man never thinks about death, and his wisdom is a meditation not on death but on life."
+
+### 第五部分：论知性的力量或人的自由 (De Potentia Intellectus seu de Libertate Humana)
+
+以42个命题论证了通过第三类知识（直观知识）获得最高自由和"对神的理智之爱"的可能性。这是《伦理学》的高潮——从形而上学的必然性到伦理学的自由的完成。
+
+Part V: On the Power of the Intellect, or Human Freedom (De Potentia Intellectus seu de Libertate Humana) — 42 propositions demonstrating the possibility of attaining supreme freedom and the "intellectual love of God" through the third kind of knowledge (intuitive knowledge). This is the *Ethics*'s climax — from metaphysical necessity to the completion of ethical freedom.
+
+## 《政治论》 · Tractatus Politicus (1677, unfinished)
+
+斯宾诺莎最后的作品，去世时仍未完成。探讨了三种政体形式——君主制、贵族制和民主制——的优劣。斯宾诺莎明确倾向于民主制，认为它是"最自然的"政体形式，最能保障公民的自由。
+
+Spinoza's final work, unfinished at death. Examines three forms of government — monarchy, aristocracy, and democracy. Spinoza clearly favors democracy as the "most natural" form, best securing citizens' freedom.
+
+## 参考文献 / References
+
+- Nadler, S. (2002). *Spinoza's Heresy: Immortality and the Jewish Mind*. Oxford University Press.
+- Smith, S. B. (2003). *Spinoza's Book of Life: Freedom and Redemption in the Ethics*. Yale University Press.

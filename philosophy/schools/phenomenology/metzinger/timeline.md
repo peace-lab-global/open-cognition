@@ -1,0 +1,105 @@
+---
+id: metzinger-timeline
+title: 梅青格思想年表 · Metzinger Timeline
+type: timeline
+domain: philosophy
+school: phenomenology
+thinker: metzinger
+tags: [metzinger, timeline, biography]
+cross-refs:
+  - id: metzinger
+    relation: thinker
+---
+
+# 梅青格思想年表 · Metzinger Timeline
+
+## 早年与学术训练 · 1958–1993
+
+- **1958** 生于德国
+- **1980s** 在美因茨大学（Johannes Gutenberg-Universität Mainz）学习哲学、认知科学
+- **1980s** 接触现象学传统（胡塞尔、梅洛-庞蒂）与当代心灵哲学
+- **1980s** 开始关注佛教哲学中的"无我"概念与认知科学的交叉
+- **1993** 以 *Die Subjektivität des Geistes*（《心灵的主体性》）获哲学博士学位
+  - 探索意识的主体性结构，初步建立现象学与科学的对话框架
+
+## 早期学术发展 · 1993–2003
+
+- **1993–2000s** 在美因茨大学从事教学与研究
+- **1995** 主编 *Conscious Experience* — 早期意识哲学论文集
+- **1995** 出版 *Bewußtsein: Beiträge zu einer Theorie der Subjektivität*（德文）
+- **1990s** 持续深化对自我问题的研究，整合神经科学、AI 与现象学资源
+- **1990s** 接触 Francisco Varela 的神经现象学纲领
+- **2000s** 开始系统建构自我模型论（Self-Model Theory of Subjectivity, SMT）
+
+## 自我模型论的系统建构 · 2003–2009
+
+- **2003** 出版 ***Being No One: The Self-Model Theory of Subjectivity***（MIT Press）
+  - SMT 的完整理论建构，约 600 页
+  - 整合现象学、神经科学、AI 与心灵哲学
+  - 提出 PSM、透明性、MPS 等核心概念
+  - 引起哲学界和认知科学界的广泛关注
+- **2004** 发表 "Being No One: An Précis" (*Psyche*) — SMT 的摘要版本
+- **2005** 发表 "Out of Body Experiences as the Origin of the Concept of a 'Soul'" (*Mind and Matter*)
+- **2005** 发表 "Empirical Perspectives on Consciousness"
+- **2006** 主编 *Open MIND: Philosophy and the Mind Sciences in the 21st Century*（与 B. Edmond 合编）
+  - 推动跨学科意识研究的开放获取平台
+- **2006** 发表 "Phenomenal Transparency and Cognitive Self-Reference"
+
+## 实验合作与大众传播 · 2007–2011
+
+- **2007** Lenggenhager, Tadi, Metzinger & Blanke 发表 "Video Ergo Sum: Manipulating Bodily Self-Consciousness" (*Science*)
+  - 全身幻觉实验的重要论文，发表于 *Science*
+- **2007** Windt & Metzinger 发表 "The Philosophy of Dreaming and Self-Consciousness"
+  - 梦境中的自我意识分析
+- **2009** 出版 ***The Ego Tunnel: The Science of the Mind and the Myth of the Self***（Basic Books）
+  - SMT 的通俗化表达，面向大众读者
+  - 涵盖伦理学、冥想、出体经验等广泛议题
+- **2009** Blanke & Metzinger 发表 "Full-Body Illusions and Minimal Phenomenal Selfhood" (*Trends in Cognitive Sciences*)
+  - MPS 概念的实验验证与理论精炼
+- **2011** 主编 ***The Oxford Handbook of the Self***（Oxford University Press）
+  - 汇集哲学、心理学、神经科学、人类学对自我的多维研究
+  - 成为自我研究领域的标准参考
+
+## 跨学科整合与伦理转向 · 2011–至今
+
+- **2013** 发表 "Two Ethical Dimensions of Consciousness Research"
+  - 开始系统性地探讨意识的伦理维度
+- **2015–2017** 与 Wanja Wiese 深入合作，将 SMT 与预测加工（predictive processing）框架对接
+- **2017** 与 W. Wiese 合编 ***Philosophy and Predictive Processing***（MIND Group）
+  - "Vanilla PP for Philosophers" 成为预测加工的入门经典
+  - 探索自我模型作为大脑生成模型的一部分
+- **2018** 发表 "The Problem of Mental Action: Predictive Control without Sensory Sheets"
+- **2018** Millière, Carhart-Harris & Metzinger 关于迷幻药与自我模型的论文
+- **2020** Millière & Metzinger 发表 "The Phenomenal Self Model and Predictive Processing"
+  - SMT 与预测加工的系统整合
+- **2020s** 持续关注冥想研究、AI 自我建模、意识伦理学等前沿议题
+- **2020s** 推动 MIND Group 培养新一代意识哲学家
+
+## 学术影响与同代人
+
+| 人物 | 关系 |
+|---|---|
+| Francisco Varela (1946–2001) | 神经现象学先驱，方法论启发 |
+| Evan Thompson | 同源（Varela 传统），但生成论 vs 表征主义有分歧 |
+| Olaf Blanke | 实验合作者（全身幻觉、出体经验） |
+| Jennifer Windt | 合作者（梦境与自我意识） |
+| Wanja Wiese | 合作者（预测加工） |
+| Dan Zahavi | 理论张力（前反思自身意识 vs SMT） |
+| Daniel Dennett | 部分同盟（反对笛卡尔剧场） |
+| David Chalmers | 张力（感质的本体论地位） |
+| Ned Block | 争论（现象意识 vs 取用意识） |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|---|---|---|
+| 学术训练与早期探索 | 1958–1993 | 主体性、现象学 |
+| 理论准备 | 1993–2003 | 意识哲学、跨学科整合 |
+| 系统建构 | 2003–2009 | SMT、*Being No One*、*Ego Tunnel* |
+| 实验验证与大众传播 | 2007–2011 | 全身幻觉、MPS、*Oxford Handbook* |
+| 跨学科整合与伦理转向 | 2011–至今 | 预测加工、意识伦理、冥想研究 |
+
+## 进阶阅读
+
+- Metzinger, *Being No One* (2003), Preface & Ch. 1 — 作者自述理论动机
+- Metzinger, *The Ego Tunnel* (2009), Introduction — 面向大众的学术自传

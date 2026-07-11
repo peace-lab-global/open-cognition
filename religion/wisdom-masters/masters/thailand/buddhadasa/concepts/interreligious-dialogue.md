@@ -1,0 +1,138 @@
+---
+id: interreligious-dialogue
+title: "Interreligious Dialogue · 宗教对话"
+type: concept
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - interreligious-dialogue
+  - ecumenism
+  - comparative-religion
+  - universal-dhamma
+  - 宗教对话
+  - 普世法
+---
+
+# Interreligious Dialogue · 宗教对话
+
+> *"If you are a true Christian, you are a Buddhist. If you are a true Buddhist, you are a Christian."*
+> — Buddhadasa Bhikkhu
+>
+> *"如果你是一个真正的基督徒，你就是一个佛教徒。如果你是一个真正的佛教徒，你就是一个基督徒。"*
+> — 佛使比丘
+
+---
+
+## Overview · 概述
+
+Buddhadasa Bhikkhu was one of the most radical voices in twentieth-century interreligious dialogue. He did not approach other religions with polite tolerance — he approached them with the conviction that **at their deepest experiential core, all authentic spiritual traditions converge**. This was not syncretism (blending religions into a uniform mix) but rather a form of **contemplative ecumenism** — the recognition that the same transformative insight can be expressed in many languages and cultural forms.
+
+佛使比丘是二十世纪宗教对话中最激进的声音之一。他不是以礼貌的宽容态度对待其他宗教——他怀着这样的信念接近它们：**在所有真正的灵性传统的最深体验核心，它们汇聚为一**。这不是宗教融合主义（将宗教混合成统一混合物），而是一种**冥想大公主义**——承认同一个转化性洞见可以用多种语言和文化形式来表达。
+
+---
+
+## The Principle: One Dhamma, Many Names · 原则：一法多名
+
+Buddhadasa distinguished between **Dhamma** (法, the universal law of nature) and **religion** (the cultural institution that houses and transmits the Dhamma). In his view, the Dhamma — the truth about conditionality, impermanence, and the cessation of suffering through the dissolution of ego — is not owned by any religion. It is a law of nature that any sincere seeker can discover, regardless of whether they call themselves Buddhist, Christian, Muslim, or anything else.
+
+佛使比丘区分了**法**（Dhamma，普遍的自然法则）和**宗教**（承载和传递法的文化体制）。在他看来，法——关于缘起性、无常性和通过自我消融止息的真理——不属于任何宗教。它是任何真诚的求道者都能发现的自然法则，无论他们自称佛教徒、基督徒、穆斯林还是其他。
+
+> *"The Dhamma is not Buddhism. Buddhism is a cultural vessel that carries the Dhamma. Christianity is another vessel. Islam is another. The contents are the same — the emptying of the self."*
+>
+> *"法不是佛教。佛教是承载法的文化容器。基督教是另一个容器。伊斯兰教是又一个。内容是相同的——自我的空。"*
+
+---
+
+## Dialogues with Christianity · 与基督教的对话
+
+Buddhadasa engaged deeply with Christianity, particularly with liberal Protestant and Catholic theologians. He found striking parallels between key Buddhist concepts and Christian mystical themes:
+
+佛使比丘深入参与了与基督教的对话，特别是与自由派新教和天主教神学家的对话。他在佛教核心概念与基督教神秘主义主题之间发现了惊人的平行：
+
+| Buddhist concept | Christian parallel | Buddhadasa's reading |
+|-----------------|-------------------|---------------------|
+| *Suññatā* (emptiness / 空性) | *Kenosis* (self-emptying / 虚己) | Both point to the dissolution of the ego-self / 都指向自我自我的消融 |
+| *Anattā* (not-self / 无我) | "Thy will, not mine" (Jesus in Gethsemane / 客西马尼的耶稣) | Both release personal will to a greater reality / 都将个人意志交付更大的实相 |
+| *Nibbāna* (涅槃) | Kingdom of God (in the heart / 在心中的天国) | Both describe an inner liberation, not a place / 都描述内在解脱，而非一个地点 |
+| *Mettā* (慈) | *Agape* (unconditional love / 无条件的爱) | Both describe love without self-interest / 都描述没有自我利益的爱 |
+
+He was particularly drawn to the Christian mystics — Meister Eckhart's "Godhead beyond God," John of the Cross's "Dark Night of the Soul," and Thomas Merton's "True Self/False Self" distinction — seeing all of these as expressions of the same insight that Buddhism articulates through the language of emptiness and not-self.
+
+他特别被基督教神秘主义者所吸引——迈斯特·埃克哈特的"超越上帝的上帝"、十字若望的"灵魂暗夜"、托马斯·默顿的"真我/假我"区分——将所有这些视为佛教通过空性和无我语言阐明的同一洞见的表达。
+
+---
+
+## Dialogues with Islam · 与伊斯兰教的对话
+
+Buddhadasa found in the very word *Islam* (meaning "submission" or "surrender") a direct parallel to the Buddhist concept of letting go of self-will. He argued that genuine submission to God — as understood by the Sufi mystics — is identical in experiential content to the Buddhist practice of releasing *ahaṃkāra* (ego-making / 我执). In both cases, the practitioner stops living from the center of "I" and begins living in accordance with a greater reality (God's will / Dhamma).
+
+佛使比丘在*伊斯兰*（意为"顺从"或"臣服"）这个词本身中发现了与佛教放下自我意志概念的直接平行。他认为，真正的对真主的顺从——如苏菲神秘主义者所理解的——在体验内容上与佛教放下*ahaṃkāra*（我执）的实践是相同的。在两种情况下，修行者都停止从"我"的中心生活，开始与一个更大的实相（真主的意志/法）和谐共处。
+
+> *"What the Muslim calls 'submission to Allah' and what the Buddhist calls 'seeing things as they are' — both are the same act: the relinquishment of the 'I' that stands between the mind and reality."*
+>
+> *"穆斯林所说的'顺从真主'和佛教徒所说的'如实观照'——都是同一个行为：放弃站在心与实相之间的那个'我'。"*
+
+---
+
+## Dialogues with Hinduism · 与印度教的对话
+
+Buddhadasa's relationship with Hinduism was more complex. He respected the depth of Hindu philosophy, particularly Advaita Vedanta's concept of *Brahman* (ultimate reality / 梵), but he diverged sharply on the question of *Ātman* (the universal Self / 大我). For Buddhadasa, the Buddha's teaching of *anattā* was a direct rejection of any permanent self — even a cosmic one. He argued that Vedanta's *Ātman-Brahman* identity, however sublime, still contains a subtle clinging to a self-concept.
+
+佛使比丘与印度教的关系更为复杂。他尊重印度教哲学的深度，特别是吠檀多不二论的*梵*（Brahman，终极实相）的概念，但在*大我*（Ātman，宇宙自我）的问题上他尖锐地持不同看法。对佛使比丘而言，佛陀的无我教导是对任何永恒自我——甚至是宇宙性的——的直接拒绝。他认为吠檀多的*梵我一如*无论多么崇高，仍然包含对自我概念的微妙执取。
+
+Despite this philosophical disagreement, he found common ground in practice: the Hindu yogi's dissolution of individual ego in meditation, the Buddhist meditator's realization of not-self — both are, experientially, the same release.
+
+尽管有这一哲学分歧，他在实践中找到了共同点：印度教瑜伽修行者在冥想中对个体自我的消融，佛教禅修者对无我的证悟——在体验上，两者是相同的释放。
+
+---
+
+## The "No Religion" Teaching · "无宗教"教导
+
+One of Buddhadasa's most provocative teachings was his assertion that the highest understanding of religion is to see through all religions:
+
+佛使比丘最具挑衅性的教导之一是他断言，对宗教的最高理解是看透所有宗教：
+
+> *"There is no Buddhism, no Christianity, no Islam. There is only the teaching that empties the mind of the 'I' and the 'mine.' Call it whatever you like — or don't call it anything at all."*
+>
+> *"没有佛教，没有基督教，没有伊斯兰教。只有让心空掉'我'与'我的'的教导。随便你怎么叫它——或者根本不叫它什么。"*
+
+This was not anti-religious sentiment. It was a plea to stop fighting over labels and start practicing the substance. He saw religious conflict as a form of *upādāna* (clinging / 取) — clinging to the identity of "my religion" against "your religion," which is just another manifestation of the same ego-disease that all religions, at their best, seek to cure.
+
+这不是反宗教情绪。这是对停止为标签争吵、开始实践实质的呼吁。他将宗教冲突视为一种*取*（upādāna，执取）——执取"我的宗教"的身份以对抗"你的宗教"，这只是所有宗教在其最好状态下所寻求治愈的同一自我疾病的又一种表现。
+
+---
+
+## Practical Implications · 实践意义
+
+### For Interfaith Practitioners · 对跨信仰修行者
+
+Buddhadasa's approach offers a framework for sincere interfaith engagement:
+
+佛使比丘的方法为真诚的跨信仰参与提供了一个框架：
+
+1. **Start with practice, not doctrine** — sit together, meditate together, serve together. The experiential common ground will reveal itself. / **从实践开始，而非教义**——一起静坐，一起冥想，一起服务。体验性的共同基础会自行显现。
+2. **Don't dilute your own tradition** — deepen it. The deeper you go into your own practice, the closer you come to the shared core. / **不要稀释你自己的传统**——深化它。你在自己的修行中走得越深，你就越接近共享的核心。
+3. **Distinguish between the vessel and the content** — respect the vessel (ritual, language, culture) while recognizing the content (liberation from ego) as universal. / **区分容器和内容**——尊重容器（仪式、语言、文化），同时认识内容（从自我中解脱）是普遍的。
+
+### For Secular Practitioners · 对世俗修行者
+
+Buddhadasa also anticipated the modern "spiritual but not religious" movement. His teaching that the Dhamma belongs to no religion means that you don't need to be Buddhist to practice mindfulness, study emptiness, or cultivate compassion. The Dhamma is available to anyone who is willing to observe their own mind honestly.
+
+佛使比丘还预示了现代的"灵性但非宗教"运动。他的教导——法不属于任何宗教——意味着你不需要成为佛教徒就可以修行正念、学习空性或培养慈悲。法对任何愿意诚实观察自己内心的人都是开放的。
+
+---
+
+## Common Misunderstandings · 常见误解
+
+- **Misunderstanding 1**: Buddhadasa was trying to merge all religions into one. No — he was pointing to a shared experiential depth, not a uniform doctrine. / **误解1**：佛使比丘试图将所有宗教合并为一。不——他指向的是一个共享的体验深度，而非统一的教义。
+- **Misunderstanding 2**: Interreligious dialogue means abandoning your own tradition. No — it means going deeper into it until you find the door that opens into the universal. / **误解2**：宗教对话意味着放弃你自己的传统。不——它意味着更深入其中，直到你找到通向普世的那扇门。
+- **Misunderstanding 3**: All religions are the same. Buddhadasa never said this — he said they share a core insight about ego-dissolution, but differ significantly in method, cosmology, and ethics. / **误解3**：所有宗教都是一样的。佛使比丘从未这样说——他说它们在自我消融的核心洞见上共享，但在方法、宇宙论和伦理学上有重大差异。
+
+---
+
+## Cross-References · 关联
+
+- [[anatta-practice]] — Not-self as the universal experiential core across traditions.
+- [[dependent-origination-practice]] — Conditionality as a law of nature, not a sectarian doctrine.
+- [[nature-contemplation]] — Nature as a teacher that belongs to no religion.
+- Back to: [[buddhadasa]]

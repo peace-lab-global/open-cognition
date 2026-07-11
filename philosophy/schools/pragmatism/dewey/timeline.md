@@ -1,0 +1,97 @@
+---
+id: dewey-timeline
+title: 杜威生平时光轴 · Dewey Timeline
+type: reference
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - timeline
+  - biography
+  - 年表
+  - 生平
+parent: dewey
+---
+
+# 杜威生平时光轴 · Dewey Timeline
+
+---
+
+## 早年与求学 / Early Life and Education (1859–1884)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1859 | 10月20日出生于佛蒙特州伯灵顿。父亲经营杂货店。/ Born October 20 in Burlington, Vermont. Father ran a general store. |
+| 1875 | 进入佛蒙特大学（University of Vermont）。师从 H.A.P. Torrey 学习哲学。/ Entered University of Vermont. Studied philosophy under H.A.P. Torrey. |
+| 1879 | 以优异成绩毕业于佛蒙特大学。在宾夕法尼亚州一所中学任教两年。/ Graduated with honors from UVM. Taught at a secondary school in Pennsylvania for two years. |
+| 1882 | 进入约翰·霍普金斯大学攻读哲学博士。师从黑格尔主义者 George Sylvester Morris。/ Entered Johns Hopkins University for PhD in philosophy. Studied under Hegelian George Sylvester Morris. |
+| 1884 | 以《康德的心理学》（*The Psychology of Kant*）获博士学位。开始在密歇根大学任教。/ Received PhD with dissertation *The Psychology of Kant*. Began teaching at University of Michigan. |
+
+---
+
+## 密歇根时期 / Michigan Period (1884–1894)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1886 | 与 Alice Chipman 结婚。婚后育有六个子女。/ Married Alice Chipman. They had six children together. |
+| 1887 | 出版《心理学》（*Psychology*），试图调和黑格尔主义与实验心理学。/ Published *Psychology*, attempting reconciliation of Hegelianism with experimental psychology. |
+| 1888 | 发表 "The Ethics of Democracy"，初探民主理论。/ Published "The Ethics of Democracy," first exploration of democratic theory. |
+| 1889–1894 | 逐渐从黑格尔唯心主义转向达尔文进化论和实用主义。/ Gradually shifted from Hegelian idealism toward Darwinian evolution and pragmatism. |
+
+---
+
+## 芝加哥时期 / Chicago Period (1894–1904)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1894 | 受聘为芝加哥大学哲学、心理学与教育学系主任。/ Appointed head of the Department of Philosophy, Psychology, and Pedagogy at the University of Chicago. |
+| 1896 | 创办芝加哥大学实验学校（Laboratory School），将教育理论付诸实践。/ Founded the Laboratory School at the University of Chicago, putting educational theory into practice. |
+| 1896 | 发表 "The Reflex Arc Concept in Psychology"——心理学史上的里程碑论文。/ Published "The Reflex Arc Concept in Psychology"—a landmark essay in psychology. |
+| 1897 | 发表 "My Pedagogic Creed"——教育哲学的纲领性短文。/ Published "My Pedagogic Creed"—a programmatic essay of educational philosophy. |
+| 1899 | 出版《学校与社会》（*The School and Society*），基于实验学校经验。/ Published *The School and Society*, based on Laboratory School experience. |
+| 1904 | 因实验学校管理权争议离开芝加哥大学，转赴哥伦比亚大学。/ Left Chicago for Columbia University due to disputes over Laboratory School administration. |
+
+---
+
+## 哥伦比亚时期 / Columbia Period (1904–1930)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1904 | 就任哥伦比亚大学哲学教授。此后近三十年间在此工作。/ Appointed Professor of Philosophy at Columbia University. Worked here for nearly three decades. |
+| 1910 | 出版《我们怎样思维》（*How We Think*），系统阐述反省思维理论。/ Published *How We Think*, systematically articulating reflective thinking theory. |
+| 1915 | 与女儿 Evelyn Dewey 合著《明天的学校》（*Schools of To-Morrow*）。/ Co-authored *Schools of To-Morrow* with daughter Evelyn Dewey. |
+| 1916 | **出版《民主与教育》（*Democracy and Education*）**——其教育哲学的巅峰之作。/ **Published *Democracy and Education***—the pinnacle of his educational philosophy. |
+| 1919–1921 | **访问中国**：应北京大学之邀，在北京、南京、上海等地讲学两年余。影响中国现代教育思想走向。/ **Visited China**: Invited by Peking University, lectured in Beijing, Nanjing, Shanghai for over two years. Profoundly influenced modern Chinese educational thought. |
+| 1920 | 出版《哲学的改造》（*Reconstruction in Philosophy*）。/ Published *Reconstruction in Philosophy*. |
+| 1922 | 出版《人性与行为》（*Human Nature and Conduct*）。/ Published *Human Nature and Conduct*. |
+| 1925 | **出版《经验与自然》（*Experience and Nature*）**——其形而上学的系统阐述。/ **Published *Experience and Nature***—his systematic metaphysical articulation. |
+| 1927 | 出版《公众及其问题》（*The Public and Its Problems*），回应李普曼。/ Published *The Public and Its Problems*, responding to Lippmann. |
+| 1929 | 出版《确定性的追求》（*The Quest for Certainty*）和《教育科学的来源》。/ Published *The Quest for Certainty* and *The Sources of a Science of Education*. |
+
+---
+
+## 退休与晚年 / Retirement and Later Years (1930–1952)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1930 | 从哥伦比亚大学退休，但继续写作和公共活动。/ Retired from Columbia University but continued writing and public activities. |
+| 1934 | **出版《艺术即经验》（*Art as Experience*）**——其美学思想的巅峰之作。/ **Published *Art as Experience***—the pinnacle of his aesthetic thought. |
+| 1935 | 出版《自由主义与社会行动》（*Liberalism and Social Action*）。/ Published *Liberalism and Social Action*. |
+| 1937 | 前往墨西哥，参与托洛茨基案的调查委员会（Dewey Commission）。/ Traveled to Mexico, served on the Dewey Commission investigating charges against Trotsky. |
+| 1938 | **出版《逻辑：探究理论》（*Logic: The Theory of Inquiry*）**——其逻辑学的巅峰之作。/ **Published *Logic: The Theory of Inquiry***—the pinnacle of his logic. |
+| 1938 | 出版《经验与教育》（*Experience and Education*），反思进步教育运动。/ Published *Experience and Education*, reflecting on the progressive education movement. |
+| 1939 | 出版《自由与文化》（*Freedom and Culture*）。/ Published *Freedom and Culture*. |
+| 1946 | 与 Roberta Lowitz Grant 结婚（Alice Chipman 于1927年去世）。/ Married Roberta Lowitz Grant (Alice Chipman had died in 1927). |
+| 1952 | 6月1日在纽约去世，享年92岁。/ Died June 1 in New York City, aged 92. |
+
+---
+
+## 学术荣誉 / Academic Honors
+
+- 1905：美国哲学协会（APA）主席 / President of the American Philosophical Association
+- 1936：哈佛大学300周年校庆荣誉博士 / Honorary doctorate at Harvard's 300th anniversary
+- 多所大学荣誉学位，包括佛蒙特大学、密歇根大学、芝加哥大学、北京大学 / Honorary degrees from numerous universities including UVM, Michigan, Chicago, and Peking University
+
+---
+
+> 返回 / Back to: [杜威 Dewey](./) · [Pragmatism 实用主义](../)

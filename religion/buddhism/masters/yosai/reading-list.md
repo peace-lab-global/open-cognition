@@ -1,0 +1,145 @@
+---
+id: yosai-reading-list
+title: "荣西进阶阅读 Yōsai: Annotated Reading List"
+type: reading-list
+parent: yosai
+---
+
+# 荣西进阶阅读 / Reading List for Yōsai
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **《兴禅护国论》** *Kōzen Gokoku-ron* — 《大正藏》T80, No. 2543
+  - 荣西最重要的护教著作，系统论证禅宗正当性
+  - 日文注释本：竹内弘道编（临川书店）最为详尽
+
+- **《吃茶养生记》** *Kissa Yōjōki* — Mario A. Sollitto 英译 (1977)
+  - 完整英文翻译与学术注释
+  - 日本茶文化的元典文本
+
+- **William H. Ukers**, *All About Tea* (Tea and Coffee Trade Journal, 1935)
+  - 包含《吃茶养生记》部分英译
+  - 提供丰富的茶文化历史背景
+
+### 推荐 Recommended
+
+- **《出家大纲》** *Shukke Taikō* — 《大正藏》收录
+  - 荣西的戒律思想，理解其兼修立场的重要文献
+
+- **《一代经论总释》** *Ichidai Kyōron Sōshaku* — 《大正藏》收录
+  - 荣西的判教著作，体现其三宗并立的理论架构
+
+## 研究专著 / Scholarly Monographs
+
+### 必读 Essential
+
+- **Heinrich Dumoulin**, *Zen Buddhism: A History, Vol. 2: Japan* (Macmillan, 1990)
+  - 西方学界最权威的日本禅宗通史
+  - 对荣西的历史定位有精到分析
+  - 涵盖从荣西到近代的全部日本禅宗发展
+
+- **石井修道**, *《栄西の研究》* (春秋社)
+  - 最详尽的荣西学术研究
+  - 包含文本校勘、历史考证和思想分析
+  - 日文研究的基准文献
+
+- **竹内弘道**, *《栄西禅師の研究》* (临川书店)
+  - 对荣西思想与生涯的系统研究
+  - 特别关注建仁寺的制度设计
+
+### 推荐 Recommended
+
+- **田中良猛**, *《日本禅宗史研究》* (吉川弘文馆)
+  - 将荣西置于日本禅宗发展的宏观脉络中
+  - 对比荣西与后继者的思想差异
+
+- **Bernard Faure**, *The Rhetoric of Immediacy: A Cultural Critique of Chan/Zen Buddhism* (Princeton, 1991)
+  - 对禅宗"直指人心"修辞的文化批判
+  - 为理解荣西的"教外别传"提供批判性视角
+
+- **T. Griffith Foulk**, "The Zen Institution in Sung China" (in *Zen: Tradition and Transition*, ed. Kenneth Kraft, 1988)
+  - 宋代禅宗制度的研究
+  - 为理解荣西所继承的中国禅林传统提供背景
+
+- **Carl Bielefeldt**, "Recarving the Dragon: History and Dogma in the Study of Dōgen" (in *Dōgen Studies*, ed. William LaFleur, 1985)
+  - 虽然主要讨论道元，但对理解荣西与道元的关系极为重要
+  - 批判了将荣西简单化为"不纯粹的禅者"的偏见
+
+## 入门读物 / Introductory
+
+- **伊藤唯信**, *《日本禅宗史》* (筑摩书房)
+  - 日文入门级日本禅宗通史
+  - 对荣西有清晰的章节论述
+
+- **Mario A. Sollitto**, *The Kissa Yojoki by Zen Master Yōsai* (PhD diss., University of Arizona, 1977)
+  - 《吃茶养生记》完整英译与学术注释
+  - 包含荣西生平与思想的英文导论
+
+- **Paul Varley**, *Zen War Stories* (Routledge, 1994)
+  - 探讨禅与日本军事/政治的关系
+  - 为理解"兴禅护国"论的政治含义提供背景
+
+- **Sen Sōshitsu (千宗室)**, *Tea: Life's Elixir* (1979)
+  - 从茶道大师的视角论述茶的精神价值
+  - 追溯茶道精神源头至荣西
+
+## 专题研究 / Specialized Studies
+
+### 茶禅关系 / Tea-Zen Relations
+
+- **Kumakura Isao (熊倉功夫)**, *《日本茶の歴史》* (吉川弘文馆)
+  - 日本茶史最权威的通史著作
+  - 详细论述荣西对日本茶文化的贡献
+
+- **H. Paul Varley & Sen Sōshitsu**, *Zen and the Way of Tea* (University of Hawaii, 1989)
+  - 禅与茶道关系的专题研究
+  - 从荣西到千利休的完整脉络
+
+### 中日佛教交流 / Sino-Japanese Buddhist Exchange
+
+- **Gregory Sattler**, "Yōsai and the Introduction of Zen to Japan" (PhD diss., 2010s)
+  - 荣西入宋求法的历史研究
+  - 对荣西与中国禅林的互动有详细考证
+
+- **木田知生**, *《中世日宋文化交流》* (吉川弘文馆)
+  - 宋日佛教交流的历史背景
+  - 荣西入宋的历史语境分析
+
+### 兼修禅问题 / The Combined-Practice Question
+
+- **William Bodiford**, *Sōtō Zen in Medieval Japan* (University of Hawaii, 1993)
+  - 虽然主要讨论曹洞宗，但对"兼修禅"vs"纯粹禅"的问题有深入分析
+  - 理解荣西与道元差异的重要参考
+
+- **Steven Heine**, *Zen Skin, Zen Marrow* (Oxford, 2008)
+  - 对日本禅宗史的批判性重审
+  - 对荣西历史角色的评价有独到见解
+
+## 跨学科阅读 / Interdisciplinary
+
+- **Fritjof Capra**, *The Tao of Physics* (1975) / *The Turning Point* (1982)
+  - 东方思想（包括禅）与现代科学的对话
+  - 对茶与健康关系的科学讨论
+
+- **Robert Pirsig**, *Zen and the Art of Motorcycle Maintenance* (1974)
+  - 虽然不是佛教学术著作，但展示了禅宗思想在西方文化中的创造性接受
+  - 与荣西"茶禅一味"——将修行融入日常活动——的精神有共鸣
+
+- **Jon Kabat-Zinn**, *Full Catastrophe Living* (1990)
+  - 正念减压 (MBSR) 创始人的经典著作
+  - 看话禅的"专注"训练与正念技术的平行比较
+
+## 进阶 / Advanced
+
+- **大慧宗杲 Dahui Zonggao**, *《大慧普觉禅师语录》*
+  - 看话禅的源头文本，荣西所继承的禅法之根本
+  - 需要中文阅读能力
+
+- **虚庵怀敞相关文献**: 散见于宋代禅宗语录中
+  - 荣西之师的教导，对理解荣西禅法的直接来源至关重要
+
+- **道元 Dōgen**, *《正法眼藏》* (特别是"办道话"等篇章)
+  - 道元对"兼修禅"的批判性论述
+  - 理解荣西与道元之间张力的关键文本

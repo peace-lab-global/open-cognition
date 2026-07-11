@@ -1,0 +1,117 @@
+---
+id: seligman-reading-list
+title: "进阶阅读书目 · Reading List"
+type: reading-list
+thinker: seligman-martin
+domain: psychology
+school: positive
+---
+
+# 进阶阅读书目 · Reading List
+
+## 原典 / Primary Sources
+
+### 核心著作 / Core Works
+
+| 著作 / Work | 推荐指数 / Priority | 说明 / Notes |
+|---|---|---|
+| Seligman, M.E.P. *Flourish* (2011) | ★★★★★ | PERMA模型的完整阐述——理解塞利格曼晚期思想的核心 / Complete PERMA exposition |
+| Seligman, M.E.P. *Learned Optimism* (1990/2006) | ★★★★★ | 解释风格理论和ABCDE训练——从理论到实践的典范 / Explanatory style theory and ABCDE training |
+| Seligman, M.E.P. *Authentic Happiness* (2002) | ★★★★ | 积极心理学的全面纲领——幸福三维度 / Comprehensive positive psychology manifesto |
+| Peterson, C. & M.E.P. Seligman. *Character Strengths and Virtues* (2004) | ★★★★ | 24种优势分类——积极心理学的「DSM」/ Classification of 24 strengths |
+| Seligman, M.E.P. *Helplessness* (1975) | ★★★★ | 习得性无助原始理论——学术性强但极其重要 / Original learned helplessness theory |
+| Seligman, M.E.P. *The Hope Circuit* (2018) | ★★★ | 自传——从无助到希望的智识旅程 / Autobiography—from helplessness to hope |
+| Seligman, M.E.P. *The Optimistic Child* (1995) | ★★★ | 儿童乐观教育——家长和教育工作者的实用指南 / Children's optimism education |
+
+### 核心论文 / Core Papers
+
+| 论文 / Paper | 期刊 / Journal | 说明 / Notes |
+|---|---|---|
+| Seligman & Csikszentmihalyi. "Positive Psychology: An Introduction" (2000) | *American Psychologist* 55(1) | 积极心理学运动宣言 / Movement manifesto |
+| Seligman et al. "Positive Psychology Progress: Empirical Validation of Interventions" (2005) | *American Psychologist* 60(5) | 干预实验验证 / Intervention validation |
+| Maier & Seligman. "Learned Helplessness at 50: Insights from Neuroscience" (2016) | *Psychological Review* 123(3) | 50周年神经科学修正 / 50th anniversary neuroscience revision |
+| Abramson, Seligman & Teasdale. "Learned Helplessness in Humans: Critique and Reformulation" (1978) | *Journal of Abnormal Psychology* 87(1) | 归因修正版——解释风格 / Attributional reformulation |
+| Seligman, Railton & Gilbert. "Prospective Psychology" (2019) | *American Psychologist* | 预期作为心理学核心 / Prospection as psychology's core |
+
+---
+
+## 二手文献 / Secondary Sources
+
+### 学术专著 / Academic Monographs
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *A Primer in Positive Psychology* (2006) | Christopher Peterson | 最佳积极心理学教材——Peterson的清晰、温暖风格 / Best positive psychology textbook |
+| *Positive Psychology: The Scientific and Practical Explorations of Human Strengths* (2018) | C.R. Snyder, S.J. Lopez, L.M. Edwards & S.C. Marques | 全面的学术综述 / Comprehensive academic review |
+| *The Oxford Handbook of Positive Psychology* (2nd ed., 2009) | S.J. Lopez & C.R. Snyder (eds.) | 积极心理学权威手册 / Authoritative handbook |
+| *The How of Happiness* (2008) | Sonja Lyubomirsky | 基于实证的幸福实践指南 / Evidence-based happiness practice guide |
+| *Positivity* (2009) | Barbara Fredrickson | 积极情绪的「扩展-建构」理论 / Broaden-and-build theory of positive emotions |
+
+### 批判性视角 / Critical Perspectives
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermined America* (2009) | Barbara Ehrenreich | 对积极思维文化的尖锐批评 / Sharp critique of positive thinking culture |
+| "Second Wave Positive Psychology" (2016) | T. Lomas & I. Ivtzan | *Journal of Happiness Studies* — 整合消极体验的积极心理学 / Integrating negative experiences |
+| *The Tyranny of Positive Thinking* (2020) | various authors | 对积极心理学过度商业化的批评 / Critique of over-commercialization |
+
+---
+
+## 中译本 / Chinese Translations
+
+| 中译本 / Translation | 原版 / Original | 出版社 / Publisher |
+|---|---|---|
+| 《习得性乐观》 | *Learned Optimism* | 万卷出版公司 |
+| 《真实的幸福》 | *Authentic Happiness* | 万卷出版公司 |
+| 《持续的幸福》 | *Flourish* | 浙江人民出版社 |
+| 《教出乐观的孩子》 | *The Optimistic Child* | 万卷出版公司 |
+| 《性格优势与美德》 | *Character Strengths and Virtues* | 中国轻工业出版社 |
+| 《活出最乐观的自己》 | *Learned Optimism*（另一版本） | 北方联合出版传媒 |
+| 《希望回路》 | *The Hope Circuit* | — |
+
+---
+
+## 相关领域阅读 / Related Field Reading
+
+### 认知行为治疗 / Cognitive Behavioral Therapy
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *Feeling Good* (1980) | David Burns | CBT自助经典——认知扭曲与ABCDE技术 / CBT self-help classic |
+| *Cognitive Therapy of Depression* (1979) | A.T. Beck et al. | 贝克的认知治疗经典 / Beck's cognitive therapy classic |
+
+### 人本主义与存在主义 / Humanistic and Existential Psychology
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *Man's Search for Meaning* (1946/1984) | Viktor Frankl | 意义治疗的经典——PERMA中M（意义）的先驱 / Logotherapy classic—precursor of PERMA's M |
+| *Motivation and Personality* (1954) | Abraham Maslow | 首次使用「积极心理学」一词 / First use of "positive psychology" term |
+| *On Becoming a Person* (1961) | Carl Rogers | 来访者中心治疗——成长倾向 / Client-centered therapy—growth tendency |
+
+### 心流与最优体验 / Flow and Optimal Experience
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *Flow: The Psychology of Optimal Experience* (1990) | Mihaly Csikszentmihalyi | 心流理论经典——PERMA中E（投入）的来源 / Flow theory classic—source of PERMA's E |
+| *Finding Flow* (1997) | Mihaly Csikszentmihalyi | 心流的大众入门 / Popular flow introduction |
+
+### 东方哲学与心理学 / Eastern Philosophy and Psychology
+
+| 著作 / Work | 作者 / Author | 说明 / Notes |
+|---|---|---|
+| *Wherever You Go, There You Are* (1994) | Jon Kabat-Zinn | 正念冥想——与积极心理学的桥梁 / Mindfulness meditation—bridge to positive psychology |
+| 《庄子》/ *Zhuangzi* | 庄子 Zhuangzi | 「逍遥游」与心流的东方版本 / "Free wandering" as Eastern flow |
+| 《论语》/ *Analerta* | 孔子 Confucius | 儒家美德伦理——CSV六大美德的先驱 / Confucian virtue ethics—precursor of CSV's six virtues |
+| *The Art of Happiness* (1998) | 达赖喇嘛 Dalai Lama & Howard Cutler | 佛教幸福观与西方心理学的对话 / Buddhist happiness meets Western psychology |
+
+---
+
+## 在线资源 / Online Resources
+
+| 资源 / Resource | 链接 / Link | 说明 / Notes |
+|---|---|---|
+| Penn Positive Psychology Center | [ppc.sas.upenn.edu](https://ppc.sas.upenn.edu) | 塞利格曼的研究中心 / Seligman's research center |
+| VIA Institute on Character | [viacharacter.org](https://www.viacharacter.org) | 免费的VIA性格优势测试 / Free VIA Character Strengths Survey |
+| Authentic Happiness | [authentichappiness.sas.upenn.edu](https://www.authentichappiness.sas.upenn.edu) | 积极心理学问卷和工具 / Positive psychology questionnaires and tools |
+| IPPA (International Positive Psychology Association) | [ippanetwork.org](https://www.ippanetwork.org) | 国际积极心理学协会 / International association |
+| Seligman's TED Talk | TED.com | "The New Era of Positive Psychology" (2004) |

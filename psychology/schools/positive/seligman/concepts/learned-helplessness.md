@@ -1,0 +1,144 @@
+---
+id: seligman-learned-helplessness
+title: "习得性无助 · Learned Helplessness"
+type: concept
+thinker: seligman-martin
+domain: psychology
+school: positive
+tags:
+  - learned-helplessness
+  - 习得性无助
+  - depression
+  - 抑郁症
+  - uncontrollability
+  - 不可控性
+---
+
+# 习得性无助 · Learned Helplessness
+
+> "When people believe that nothing they do matters, they stop trying."
+> "当人们相信自己做什么都无济于事时，他们就会停止尝试。"
+> — Martin Seligman
+
+---
+
+## 定义 / Definition
+
+习得性无助（Learned Helplessness）是指有机体在反复经历不可控的负面事件后，形成「无论自己做什么都无法改变结果」的预期，从而即使环境改变、控制恢复后也不再尝试逃避或改变处境的心理现象。这一理论最初由塞利格曼与史蒂文·梅尔（Steven Maier）于1967年在动物实验中提出，后扩展为理解人类抑郁症的核心认知模型。
+
+Learned helplessness is the psychological phenomenon in which an organism, after repeatedly experiencing uncontrollable negative events, forms the expectation that "nothing I do can change the outcome," and consequently stops trying to escape or alter the situation even when the environment changes and control is restored. The theory was first proposed by Seligman and Steven Maier in 1967 through animal experiments, then extended as a core cognitive model for understanding human depression.
+
+---
+
+## 核心机制 / Core Mechanisms
+
+### 原始实验 / The Original Experiment (1967)
+
+塞利格曼与梅尔的经典实验分为两个阶段：
+
+Seligman and Maier's classic experiment had two phases:
+
+**阶段一 / Phase 1**: 将狗分为三组——
+- **可逃避组 / Escapable group**: 狗可以通过按压面板停止电击
+- **不可逃避组 / Inescapable group**: 狗与可逃避组「联锁」，接受同样的电击但无法控制停止
+- **控制组 / Control group**: 不接受电击
+
+Dogs were divided into three groups: escapable (could stop shock by pressing a panel), inescapable (yoked to escapable group, received identical shocks but couldn't control cessation), and control (no shock).
+
+**阶段二 / Phase 2**: 所有狗被放入「穿梭箱」（shuttle box）——一个可以通过跳过低矮隔板来逃避电击的装置。结果：
+- 可逃避组和控制组的狗很快学会跳过去逃避电击
+- **不可逃避组的狗大多选择「躺下哀鸣」，即使逃脱很容易也不尝试**
+
+All dogs were placed in a shuttle box—where they could escape shock by jumping over a low barrier. Results: escapable and control dogs quickly learned to jump and escape. **Inescapable dogs mostly chose to "lie down and whimper," not trying even though escape was easy.**
+
+### 认知机制 / Cognitive Mechanisms
+
+习得性无助的产生涉及三个关键认知过程：
+
+Learned helplessness involves three key cognitive processes:
+
+1. **期望的形成 / Expectancy formation**: 个体形成「行为与结果无关」的预期——「无论我做什么，结果都一样」/ The individual forms the expectation that actions and outcomes are unrelated—"No matter what I do, the result is the same."
+
+2. **归因的泛化 / Attributional generalization**: 个体将不可控性从特定情境泛化到更广泛的生活领域——「不仅这件事我无法控制，所有事情我都无能为力」/ The individual generalizes uncontrollability from specific situations to broader life domains.
+
+3. **动机和情绪的损害 / Motivational and emotional impairment**: 无助感导致行为启动困难（动机缺陷）、悲伤和抑郁情绪（情绪缺陷）以及认知障碍（难以学习新的应对方式）。
+
+   Helplessness leads to difficulty initiating behavior (motivational deficit), sadness and depression (emotional deficit), and cognitive impairment (difficulty learning new coping strategies).
+
+### 修订理论 / Revised Theory (2006)
+
+2006年，梅尔与塞利格曼基于神经科学证据修正了原始理论：无助不是「学会」的——它是哺乳动物面对长期不可控压力时的**默认大脑反应**（由中缝背核5-羟色胺神经元的持续激活介导）。真正需要学习的是**控制感**——内侧前额叶皮层（mPFC）对不可控性的「检测」会抑制中缝背核的活动，从而恢复主动应对行为。
+
+In 2006, Maier and Seligman revised the original theory based on neuroscience evidence: helplessness is not "learned"—it is the **default brain response** to prolonged uncontrollable stress in mammals (mediated by sustained activation of dorsal raphe nucleus serotonin neurons). What actually needs to be learned is **perceived control**—the medial prefrontal cortex (mPFC) "detects" controllability and inhibits dorsal raphe activity, thereby restoring active coping behavior.
+
+这一修正意味着：**乐观是「学会」的，无助是「默认」的**——与原始理论的标题恰好相反。塞利格曼在2018年自传中将此称为「希望回路」（the hope circuit）。
+
+This revision means: **optimism is "learned," helplessness is "default"**—the opposite of what the original theory's title suggests. Seligman called this the "hope circuit" in his 2018 autobiography.
+
+---
+
+## 发展脉络 / Historical Development
+
+- **1967**: 塞利格曼与梅尔发表穿梭箱实验，提出习得性无助理论 / Seligman & Maier publish shuttle-box experiment
+- **1975**: 塞利格曼《无助：论抑郁、发展与死亡》系统建构理论 / Seligman's *Helplessness* systematically constructs the theory
+- **1978**: Abramson, Seligman & Teasdale提出「归因理论修正版」——引入解释风格作为无助感的个体差异变量 / Attributional reformulation—explanatory style as individual difference variable
+- **1980s**: 大量人类研究验证习得性无助与抑郁的关系 / Extensive human research validates the helplessness-depression link
+- **2006**: 梅尔与塞利格曼基于神经科学修正原始理论 / Maier & Seligman revise theory based on neuroscience
+- **2018**: 塞利格曼自传《希望回路》重新讲述无助理论的故事 / Seligman's autobiography *The Hope Circuit* retells the story
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 抑郁症的认知模型 / Cognitive Model of Depression
+
+习得性无助是理解抑郁症的核心认知模型之一。Abramson等人的归因修正版（1978）指出，当个体将负面事件归因于**内部的**（「都是我的错」）、**稳定的**（「永远会这样」）和**普遍的**（「所有事情都完了」）因素时，最容易发展出无助感和抑郁。
+
+Learned helplessness is one of the core cognitive models for understanding depression. Abramson et al.'s attributional reformulation (1978) showed that individuals are most vulnerable to helplessness and depression when they attribute negative events to **internal** ("It's all my fault"), **stable** ("It will always be this way"), and **global** ("Everything is ruined") factors.
+
+### 治疗干预 / Therapeutic Interventions
+
+- **认知行为治疗（CBT）**: Beck的认知三角与习得性无助有结构性相似——对自我、世界和未来的消极看法就是无助感的认知表达 / Beck's cognitive triad is structurally similar to learned helplessness
+- **行为激活 / Behavioral Activation**: 通过安排小的、可控的积极活动来恢复控制感——直接对抗无助感 / Scheduling small, controllable positive activities to restore perceived control
+- **习得性乐观训练 / Learned Optimism Training**: 通过ABCDE技术改变悲观的解释风格——详见 [习得性乐观](learned-optimism.md) / ABCDE technique to modify pessimistic explanatory style
+
+### 预防应用 / Preventive Applications
+
+- **乐观儿童计划 / Penn Resiliency Program**: 在学校中教授认知技能以预防青少年抑郁——效果显著，已被多国采用 / Teaching cognitive skills in schools to prevent adolescent depression
+- **创伤后恢复 / Post-trauma recovery**: 帮助创伤幸存者重建控制感——从小的、可实现的选择开始 / Helping trauma survivors rebuild perceived control through small, achievable choices
+
+---
+
+## 关联概念 / Related Concepts
+
+- [习得性乐观 / Learned Optimism](learned-optimism.md) — 无助的「解药」：通过训练乐观解释风格来对抗无助
+- [积极心理学 / Positive Psychology](positive-psychology.md) — 从研究无助出发，走向研究繁荣
+- [PERMA模型 / PERMA Model](well-being-theory.md) — PERMA的五个维度各自独立地对抗无助感
+- [解释风格 / Explanatory Style] — 决定个体面对不可控事件时是陷入无助还是保持韧性
+- 贝克的认知三角 / Beck's Cognitive Triad — 结构性平行的抑郁认知模型
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教「无我」的对话 / Dialogue with Buddhist Anatta
+
+习得性无助的核心是「我无法控制」的信念。佛教的「无我」（anatta）教导放下「我控制」的幻觉。表面看似相似，实质截然不同：无助是对失控的被动屈服（paralysis），无我是对控制幻觉的主动超越（liberation）。佛教的路径不是恢复控制感，而是放下对控制的执着——这是一种更彻底的「解法」。
+
+Learned helplessness centers on the belief "I cannot control." Buddhism's anatta teaches releasing the illusion of "I control." Superficially similar, they differ fundamentally: helplessness is passive surrender to loss of control (paralysis), while anatta is active transcendence of the control illusion (liberation). Buddhism's path is not to restore perceived control but to release attachment to control—a more thorough "solution."
+
+### 与庄子的对话 / Dialogue with Zhuangzi
+
+庄子的「知其不可奈何而安之若命」看似是习得性无助的中国版本，但庄子强调的是一种超越性的接受——在承认不可控的同时保持精神的自由和行动的力量。这不是「躺下哀鸣」，而是「乘天地之正，御六气之辩」。
+
+Zhuangzi's "knowing what cannot be changed and accepting it as fate" might seem like a Chinese version of learned helplessness. But Zhuangzi emphasizes transcendent acceptance—maintaining spiritual freedom and power while acknowledging uncontrollability. This is not "lying down and whimpering" but "riding the correctness of heaven and earth,驾驭 the changes of the six energies."
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Seligman, M.E.P. *Helplessness: On Depression, Development, and Death*. San Francisco: W.H. Freeman, 1975.
+- Abramson, L.Y., M.E.P. Seligman & J.D. Teasdale. "Learned Helplessness in Humans: Critique and Reformulation." *Journal of Abnormal Psychology* 87(1), 1978, 49–74.
+- Maier, S.F. & M.E.P. Seligman. "Learned Helplessness: Is It Still a Thing?" *Journal of Experimental Psychology: General* 145(1), 2016, 1–8.
+- Seligman, M.E.P. *The Hope Circuit*. New York: PublicAffairs, 2018.
+- 塞利格曼《习得性乐观》，万卷出版公司（中译本）

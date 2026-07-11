@@ -1,0 +1,98 @@
+---
+id: weber-bureaucracy
+title: 官僚制 · Bureaucracy
+type: concept
+domain: sociology
+thinker: weber
+school: classical
+tags:
+  - organization
+  - administration
+  - rationality
+  - modernity
+cross-refs:
+  - weber/rationalization
+  - weber/authority-types
+  - parsons/social-systems
+  - foucault/discipline
+---
+
+# 官僚制 · Bureaucracy (Burokratie)
+
+## 概念界定 / Concept Definition
+
+官僚制（Bureaucracy / Burokratie）是韦伯法理型支配最纯粹的组织形态，也是现代社会中理性化最为集中的体现。韦伯将官僚制定义为一种基于规则、专业分工、等级制权威和非人格化管理的行政组织形式。他在《经济与社会》中构建了一个详细的官僚制"理想类型"。
+
+Bureaucracy (Burokratie) is the purest organizational form of Weber's legal-rational domination and the most concentrated expression of rationalization in modern society. Weber defined bureaucracy as an administrative organizational form based on rules, specialized division of labour, hierarchical authority, and impersonal management. He constructed a detailed "ideal type" of bureaucracy in Economy and Society.
+
+## 理想类型的构成要素 / Components of the Ideal Type
+
+### 1. 固定的权限范围 / Fixed Spheres of Competence
+每个职位有明确界定的职责范围，以规则（法律或行政规章）加以固定。
+Each position has a clearly defined sphere of competence, fixed by rules (laws or administrative regulations).
+
+### 2. 等级制权威 / Hierarchical Authority
+严格的上下级等级关系，每一级受上一级的控制和监督。
+Strict hierarchical relationships; each level subject to the control and supervision of the level above.
+
+### 3. 基于文件的行政管理 / File-Based Administration
+一切行政活动以书面文件（档案）为基础，形成"官方记录"（Akten）。
+All administrative activity is based on written documents (files), forming "official records" (Akten).
+
+### 4. 专业培训 / Expert Training
+行政人员经过专业培训，具备执行政务所需的专业知识和技术能力。
+Administrative personnel receive professional training, possessing the specialized knowledge and technical competence required for executing official duties.
+
+### 5. 全职投入 / Full-Time Commitment
+公务是行政人员的全部职业活动，而非附带事务。
+Official business is the complete professional activity of administrative personnel, not a side concern.
+
+### 6. 一般化规则 / General Rules
+行政决策遵循一般化的、可学习的规则，而非个案性的个人裁量。
+Administrative decisions follow generalised, learnable rules rather than case-by-case personal discretion.
+
+### 7. 非人格化 / Impersonality
+"公务运作不受个人好恶影响"——官僚制的核心美德。行政人员对所有人一视同仁，按照规则办事。
+"Official business operates without regard to personal likes and dislikes"—bureaucracy's core virtue. Administrative personnel treat everyone equally according to rules.
+
+### 8. 职业化 / Career Orientation
+行政人员享有固定薪酬、养老金和职业晋升通道。
+Administrative personnel enjoy fixed salaries, pensions, and career advancement pathways.
+
+## 官僚制的优势与困境 / Advantages and Dilemmas
+
+### 技术效率的优越性 / Technical Superiority
+韦伯认为官僚制在"精确性、稳定性、纪律严整性和可靠性"方面优于一切其他组织形式。它是"对人类社会行使权威的最合理手段"。
+Weber argued that bureaucracy is superior to all other organizational forms in "precision, stability, stringency of discipline, and reliability." It is "the most rational means of exercising authority over human beings."
+
+### 铁笼的悖论 / The Iron Cage Paradox
+但官僚制的效率恰恰来自其非人格化——它排除了爱、恨、情感和个性化因素。韦伯担忧的是：当官僚制渗透到社会生活的一切领域时，人类将面临一种前所未有的"去人性化"——成为庞大行政机器中的小齿轮。
+
+But bureaucracy's efficiency derives precisely from its impersonality—it excludes love, hatred, emotion, and individuality. Weber's worry: when bureaucracy permeates all spheres of social life, humanity faces an unprecedented "dehumanization"—becoming small cogs in a vast administrative machine.
+
+## 后续发展 / Subsequent Developments
+
+### 默顿的反功能分析 / Merton's Dysfunctional Analysis
+罗伯特·默顿指出官僚制存在"反功能"（dysfunctions）：规则崇拜（goal displacement）、保守主义、形式主义。官僚制中的"训练有素的无能"（trained incapacity）使组织在面对新情况时缺乏灵活性。
+
+Robert Merton identified bureaucracy's "dysfunctions": rule worship (goal displacement), conservatism, formalism. "Trained incapacity" in bureaucracy makes organizations inflexible when facing new situations.
+
+### 克罗齐耶的法国官僚制研究 / Crozier's Study of French Bureaucracy
+克罗齐耶在《官僚制现象》中分析了法国行政体制中的权力游戏和非正式结构，揭示了官僚制中非正式权力关系的重要性。
+
+Crozier in The Bureaucratic Phenomenon analysed power games and informal structures in the French administrative system, revealing the importance of informal power relations within bureaucracy.
+
+### 新公共管理运动 / New Public Management
+20世纪末的"新公共管理"（NPM）运动试图以市场机制和企业精神改造官僚制，但批评者认为这不过是用一种形式的理性化取代了另一种。
+
+The late-20th-century "New Public Management" (NPM) movement sought to reform bureaucracy through market mechanisms and entrepreneurial spirit, but critics argued this merely replaced one form of rationalization with another.
+
+## 当代意义 / Contemporary Significance
+
+韦伯的官僚制理论在数字时代面临新的挑战和机遇：
+
+Weber's bureaucracy theory faces new challenges and opportunities in the digital age:
+
+- **算法官僚制：** 自动化决策系统是否构成一种超越韦伯官僚制的新型理性化组织？ / Algorithmic bureaucracy: do automated decision-making systems constitute a new type of rationalized organization transcending Weberian bureaucracy?
+- **平台治理：** 科技平台通过算法和规则管理数十亿用户，是否构成一种"私人官僚制"？ / Platform governance: do tech platforms, managing billions of users through algorithms and rules, constitute a form of "private bureaucracy"?
+- **扁平化组织：** "去科层化"（delayering）和"自组织"（self-organization）是否真的能超越官僚制的铁笼，还是只是以新的形式重建了理性化控制？ / Flattened organizations: do "delayering" and "self-organization" truly transcend bureaucracy's iron cage, or merely reconstruct rationalized control in new forms?

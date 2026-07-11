@@ -1,0 +1,35 @@
+---
+id: clark-scaffolding
+title: 认知脚手架 · Scaffolding
+type: concept
+thinker: clark
+domain: philosophy
+school: analytic
+tags: [cognition, tools, education, environment]
+---
+# 认知脚手架 · Scaffolding
+
+## 概念定位 / Conceptual Position
+人类使用语言、工具、社会制度等"脚手架"来支撑和扩展认知能力。认知脚手架不是外在辅助，而是认知能力的构成条件。
+
+Humans use language, tools, social institutions as "scaffolding" to support and extend cognition. Scaffolding is not external aid but a constitutive condition of cognitive capacity.
+
+## 核心论述 / Core Argument
+
+### 认知卸载 / Cognitive Offloading
+将认知任务外包给环境——用便签代替记忆、用手势辅助计算、用手机存储信息。这不是"作弊"，而是人类认知的自然策略。
+
+Offloading cognitive tasks to the environment — sticky notes for memory, gestures for calculation, phones for information storage. Not "cheating" but a natural cognitive strategy.
+
+### 教育的脚手架功能 / Educational Scaffolding
+教育的本质是提供适当的认知脚手架——帮助学习者建构内部认知结构，然后逐步撤去外部支持。
+
+Education's essence is providing appropriate cognitive scaffolding — helping learners build internal cognitive structures, then gradually removing external support.
+
+## 哲学意义 / Philosophical Significance
+影响了教育哲学、人机交互设计和认知科学。
+
+## 相关概念 / Related Concepts
+- [延展心智 Extended Mind](extended-mind.md)
+- [天生赛博格 Natural-Born Cyborgs](natural-born-cyborgs.md)
+- [克拉克主页](../README.md)

@@ -1,0 +1,139 @@
+---
+id: brecht-reading-list
+title: 布莱希特进阶阅读 · Brecht Reading List
+type: reading-list
+domain: literature
+school: dramatists
+thinker: brecht
+tags: [brecht, bibliography, reading-guide, german-drama, epic-theatre]
+cross-refs:
+  - id: brecht
+    relation: thinker
+---
+
+# 布莱希特进阶阅读 · Brecht Reading List
+
+## 一、阅读路径
+
+### 入门（3 篇，6 小时）
+1. 《四川好人》-- 完整阅读（约 2 小时）
+2. 《大胆妈妈》结尾场景 -- 大胆妈妈独自拉车（约 15 分钟）
+3. 《伽利略传》伽利略的"科学的目的"演说场景
+
+### 进阶（3 部，12 小时）
+4. 《大胆妈妈和她的孩子们》全书
+5. 《伽利略传》全书（推荐美国版）
+6. 《三分钱歌剧》歌词精选
+
+### 深潜（全部流亡剧作 + 理论 + 批评）
+7. 《高加索灰阑记》+ 《阿图罗·乌伊的抵抗》
+8. 《戏剧小工具篇》+ 《买黄铜》选段
+9. 本雅明《理解布莱希特》
+10. 阿多诺--布莱希特论争文献
+
+## 二、原典（必读）
+
+### 核心剧作
+- *The Good Person of Szechwan* (1940) -- 好人在坏制度中的不可能性
+- *Mother Courage and Her Children* (1939) -- 战争经济与小人物悲剧
+- *Life of Galileo* (1938/1947) -- 真理与社会责任的辩证
+- *The Caucasian Chalk Circle* (1944) -- 所罗门式智慧与阶级正义
+- *The Threepenny Opera* (1928) -- 资本逻辑的讽刺寓言
+
+### 理论著作
+- *A Short Organum for the Theatre* (1948) -- 史诗剧理论的系统阐述
+- *The Messingkauf Dialogues* (1939--1953) -- 对话体戏剧理论
+- *On Experimental Theatre* (1939) -- 实验戏剧的定义
+- *New Technique of Acting* (1940) -- 间离效果的表演方法
+
+### 诗歌
+- "To Posterity" (*An die Nachgeborenen*) -- 20 世纪最伟大的德语诗之一
+- *Svendborg Poems* (1939) -- 流亡期间的政治诗
+- *Buckow Elegies* (1953) -- 晚年沉思
+
+### 中译本推荐
+- 高士彦等 译《布莱希特戏剧集》（人民文学出版社）
+- 丁扬忠等 译《布莱希特论戏剧》（中国戏剧出版社）
+- 黄灿然 译《布莱希特诗集》（人民文学出版社）
+- 孙凤城 译《大胆妈妈和她的孩子们》（上海译文出版社）
+
+## 三、传记
+
+### 经典传记
+- **Hayman, Ronald** *Brecht: The Man and His Work* (1983) -- 英文世界最全面的传记
+- **Parker, Stephen** *Bertolt Brecht: A Literary Life* (2014) -- 最新的学术传记，获多项奖项
+- **Mews, Siegfried** *A Brecht Handbook* (1985) -- 学术导论
+- **Schumacher, Claude** ed. *Brecht on Theatre* (1964/1992) -- 布莱希特戏剧文论选
+
+### 中文传记与介绍
+- 张黎《布莱希特与中国》
+- 丁扬忠《布莱希特戏剧观》
+
+## 四、批评与研究
+
+### 经典研究
+- **Benjamin, Walter** *Understanding Brecht* (1966/1973) -- 本雅明的布莱希特论，不可绕过
+- **Willett, John** *The Theatre of Bertolt Brecht* (1959) -- 经典导论
+- **Esslin, Martin** *Brecht: The Man and His Work* (1960) -- 早期传记研究
+- **Jameson, Fredric** *Brecht and Method* (1998) -- 詹姆逊的马克思主义文学分析
+
+### 当代研究
+- **Thomson, Peter & Glendyr Sacks** *The Cambridge Companion to Brecht* (1994/2006) -- 学术参考
+- **Brooker, Peter** *Bertolt Brecht: Dialectics, Poetry, Politics* (1988)
+- **Silberman, Marc** *Reading Brecht Reading Brecht: A Critical Anthology* (2006)
+- **Barnett, David** *Brecht in Practice* (2015) -- 实践导向
+
+### 中文研究
+- 张黎《布莱希特与中国》-- 探讨布莱希特对中国哲学和美学的兴趣
+- 《布莱希特与东方智慧》-- "墨子/易经"笔记相关研究
+
+## 五、布莱希特的思想源头
+
+- **马克思** -- 唯物史观与阶级分析
+- **俄国形式主义** -- 什克洛夫斯基的"陌生化"（ostranenie）
+- **皮斯卡托** -- 政治剧场的实践先驱
+- **卡尔·瓦伦丁** -- 荒诞喜剧与民间传统
+- **中国戏曲** -- 梅兰芳的京剧表演（1935 年莫斯科）
+- **日本能剧** -- 《说是的人》改编自能剧《谷行》
+- **墨子** -- 唯物主义与功利主义思想
+
+## 六、布莱希特的下游
+
+### 戏剧
+- **彼得·布鲁克** -- "空的空间"，间离与仪式的辩证
+- **奥古斯托·博亚尔** -- 被压迫者剧场（Theatre of the Oppressed）
+- **海纳·穆勒** -- 后布莱希特德语戏剧
+- **丘吉尔**（Caryl Churchill）-- 英国女性主义--布莱希特戏剧
+- **彼得·魏斯** -- 纪录片剧场（《马哈/萨德》）
+
+### 哲学与批评
+- **阿多诺** -- 批判布莱希特过于"介入"，维护艺术自律
+- **本雅明** -- 理论盟友，"可技术复制"与间离效果
+- **罗兰·巴特** -- "作者之死"与布莱希特的"展示"概念
+- **阿尔都塞** -- 意识形态国家机器与戏剧的批判功能
+
+### 电影
+- **让-吕克·戈达尔** -- 间离效果在电影中的应用
+- **拉斯·冯·提尔** -- "道格玛 95"与布莱希特的简约精神
+- **亚历山大·克鲁格** -- 德国新电影中的布莱希特传统
+
+### 教育学
+- **保罗·弗莱雷** -- 被压迫者教育学，共享批判性启蒙的理念
+
+## 七、研究工具
+
+- **Brecht-Jahrbuch** -- 布莱希特年刊，最重要的学术刊物
+- **Bertolt Brecht Archiv**（柏林艺术学院）-- 布莱希特档案
+- **Brecht Yearbook** (International Brecht Society) -- 英语世界的布莱希特研究
+- **The Cambridge Companion to Brecht** (ed. Thomson & Sacks) -- 学术参考
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**布莱希特的精髓** | 《四川好人》+ 《戏剧小工具篇》 |
+| 深入**史诗剧理论** | 《小工具篇》+ 《买黄铜》+ 威尔特导论 |
+| 理解**辩证戏剧** | 《大胆妈妈》+ 《伽利略传》+ 《四川好人》 |
+| 探索**中国关联** | 张黎《布莱希特与中国》+ 《四川好人》 |
+| 了解**阿多诺论争** | 阿多诺《承诺》+ 布莱希特回应 + 詹姆逊《布莱希特与方法》 |
+| **中文读者**入门 | 高士彦译《四川好人》+ 《大胆妈妈》+ 张黎 |

@@ -1,0 +1,105 @@
+---
+id: candrakirti-conventional-acceptance
+title: "名言中许有: 月称的世间共许与世俗谛理论"
+type: concept
+parent: candrakirti
+domain: religion
+school: buddhism-madhyamaka-prasangika
+tags: [conventional-truth, loka-prasiddhi, samvrti-satya, karma, causation, ethics]
+---
+
+# 名言中许有 / Conventional Acceptance (Loka-prasiddhi)
+
+## 定义 / Definition
+
+**名言中许有** (loka-prasiddhi, 世间共许) 是月称中观哲学的基石概念——在世俗名言 (vyavahara) 层面，完整承认世间共同约定的一切：因果关系存在、善恶业报存在、修道次第存在、伦理规范存在。这些世俗真理不需要"经得起胜义分析"，只需要"世间共许"即可成立。
+
+**Conventional acceptance** (loka-prasiddhi, "what the world agrees upon") is a cornerstone of Candrakirti's Madhyamaka. At the level of conventional discourse (vyavahara), everything the world consensually accepts is fully valid: causation exists, karma operates, the spiritual path is effective, and ethical norms hold. These conventional truths need not "withstand ultimate analysis" — they only need worldly consensus.
+
+## 梵文语义 / Sanskrit Semantics
+
+- **loka-prasiddhi**: 世间共许——世人共同承许的事物
+- **vyavahara**: 世俗名言——日常经验和交流的层面
+- **samvrti-satya**: 世俗谛——遮蔽性的真理（但并非因此不真实）
+- **laukika-pramana**: 世间正量——在世俗层面有效的认知工具
+
+## 核心论证 / Core Arguments
+
+### 1. 世俗谛的标准 The Standard for Conventional Truth
+
+月称对世俗谛给出了一个极简标准：凡是世间共许的，就是世俗谛。一棵树存在、火能烧、水能解渴、善业感乐果、恶业感苦果——这些都不需要中观的哲学分析来"批准"，它们自始就是有效的。
+
+**Candrakirti offers a minimalist criterion for conventional truth: whatever the world agrees upon is conventionally true. A tree exists, fire burns, water quenches thirst, wholesome karma brings happiness, unwholesome karma brings suffering — none of these require Madhyamaka's philosophical "approval." They are valid from the start.**
+
+这与清辨的自续派形成关键对比：自续派要求世俗真理也要以"自立因" (svatantra-hetu) 来成立，即需要经过逻辑论证的检验。月称认为这是不必要的——而且暗含危险，因为使用自立因意味着在名言中承许"以自相成立" (svalaksana-siddha)。
+
+### 2. 不以胜义分析破坏世俗 Not Destroying the Conventional with Ultimate Analysis
+
+月称在《入中论》中明确说：中观的分析是为了破除自性执，不是为了否定世俗现象。如果用胜义分析来否定世俗因果，就犯了"恶取空"(错误的空观) 的过失——这是比执着实有更严重的错误。
+
+**Candrakirti states in the Madhyamakavatara: Madhyamaka analysis aims to remove grasping at inherent existence, not to negate conventional phenomena. Using ultimate analysis to deny conventional causation commits the error of "wrongly grasped emptiness" — a graver error than grasping at substantiality.**
+
+《入中论》第六品 (VI.35) 的关键颂文：
+> "世俗中许有，非以分析得。"
+> "What is accepted conventionally is not obtained through [ultimate] analysis."
+
+### 3. 世间共许的限度 The Limits of Worldly Consensus
+
+月称所说的"世间共许"不是盲目的大众意见，而是**未被哲学理论污染的常识经验**。他明确排除了：
+
+- 外道的形而上学主张（如梵我论、极微论）
+- 佛教内部的阿毗达磨实体化倾向（如有部的"三世实有"）
+- 任何对现象的自性化理解
+
+**"Worldly consensus" does not mean blind popular opinion but unphilosophized common-sense experience. Candrakirti explicitly excludes: metaphysical claims of non-Buddhist schools, reifying tendencies within Buddhist Abhidharma, and any understanding that ascribes inherent existence to phenomena.**
+
+## 世俗谛与胜义谛的关系 / Relationship Between Two Truths
+
+### 世俗谛不需自性支撑 Conventional Truth Needs No Inherent Ground
+
+月称最革命性的主张是：世俗现象不需要"自性"来支撑其存在。因果运作、伦理法则、修道次第——这一切之所以有效，不是因为它们有某种"本质"，而恰恰是因为它们没有自性——正因为空，缘起才能运作。
+
+**Candrakirti's most revolutionary claim: conventional phenomena do not need "inherent existence" to ground their validity. Causation, ethics, the path — these work not because they have some "essence" but precisely because they lack inherent existence. Because things are empty, dependent origination can function.**
+
+### 世俗谛是通向胜义谛的唯一道路 The Conventional as the Only Path to the Ultimate
+
+继承龙树"不依世俗谛，不得胜义谛"(MMK 24.10) 的教导，月称强调：世俗谛不是低级真理，而是通向胜义谛的必要阶梯。否定世俗谛就是否定成佛的可能性——因为修道、禅定、智慧都是世俗谛层面的事物。
+
+**Following Nagarjuna's teaching "without relying on the conventional, the ultimate cannot be taught" (MMK 24.10), Candrakirti emphasizes: conventional truth is not an inferior truth but the necessary ladder to the ultimate. Denying the conventional means denying the possibility of Buddhahood — for the path, meditation, and wisdom are all conventional-level phenomena.**
+
+## 与其他学派的对比 / Comparison with Other Schools
+
+| 学派 School | 对世俗谛的态度 Attitude to Conventional |
+|---|---|
+| 应成派 Prasangika (月称) | 世间共许即可成立，不需自立因 Minimal: worldly consensus suffices |
+| 自续派 Svatantrika (清辨) | 需以自续因成立 Requires autonomous reasoning |
+| 唯识派 Yogacara | 世俗谛是虚妄分别，需要唯识理论支撑 Conventional truth is false discrimination |
+| 有部 Sarvastivada | 世俗谛背后有实法支撑 Behind convention lie real dharmas |
+| 中观行派 Yogacara-Madhyamaka | 综合唯识与中观，名言中需唯识理论 Integrates Yogacara analysis into convention |
+
+## 对修行的意义 / Significance for Practice
+
+### 伦理实践不被否定 Ethics Are Not Negated
+
+应成派"破而不立"的方法论绝不意味着伦理虚无主义。月称的《入中论》完整建立了六度万行的菩萨道体系：布施、持戒、忍辱、精进、禅定、智慧——这一切都在世俗名言中完全有效。
+
+**The Prasangika method of "refutation without assertion" absolutely does not entail ethical nihilism. Candrakirti's Madhyamakavatara systematically establishes the entire bodhisattva path of six perfections: generosity, ethics, patience, diligence, concentration, and wisdom — all fully valid at the conventional level.**
+
+### 空性见与伦理行的统一 Union of Emptiness View and Ethical Conduct
+
+月称的关键洞见是：通达空性不仅不损害伦理实践，反而使之更加圆满。因为通达一切法无自性，菩萨才能无执着地行六度万行——"如莲花不着水，如日月不住空"。
+
+**Candrakirti's key insight: realizing emptiness does not undermine ethical practice but perfects it. Because the bodhisattva realizes all phenomena lack inherent existence, she can practice the perfections without attachment — "like a lotus untouched by water, like sun and moon unconfined by space."**
+
+## 常见误解 / Common Misunderstandings
+
+1. **"世间共许 = 相对主义"**: 月称不是说道德只是"社会约定"，而是说伦理法则在缘起层面客观有效，不需要自性来支撑
+2. **"名言中许有 = 不认真"**: 月称对待世俗谛极其严肃——《入中论》对每一度的修行都有详尽的指导
+3. **"世俗谛是暂时的"**: 世俗谛不是"成佛后就被抛弃的东西"——佛仍然在世俗层面利益众生
+
+## 参见 / See Also
+
+- [应成法 Prasanga](prasanga-method.md)
+- [名言有与自性有](conventional-vs-inherent.md)
+- [所破事精确化](negation-target.md)
+- [月称 Candrakirti](../README.md)

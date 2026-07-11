@@ -1,0 +1,154 @@
+---
+id: shakespeare-reading-list
+title: 莎士比亚进阶阅读 · Shakespeare Reading List
+type: reading-list
+domain: literature
+school: dramatists
+thinker: shakespeare
+tags: [shakespeare, bibliography, reading-guide, english-drama, renaissance]
+cross-refs:
+  - id: shakespeare
+    relation: thinker
+---
+
+# 莎士比亚进阶阅读 · Shakespeare Reading List
+
+## 一、阅读路径
+
+### 入门（3 篇，6 小时）
+1. 《哈姆雷特》第三幕第一场 — "To be or not to be"独白及周边（约 30 分钟）
+2. 《麦克白》第五幕第五场 — "Tomorrow, and tomorrow, and tomorrow"独白（约 10 分钟）
+3. 《罗密欧与朱丽叶》第二幕第二场 — 阳台场景（约 20 分钟）
+
+### 进阶（3 部，15 小时）
+4. 《哈姆雷特》全书 — 延宕、复仇与自我意识
+5. 《李尔王》全书 — 权力的虚无与疯狂中的真理
+6. 《第十二夜》— 莎士比亚最完美的喜剧
+
+### 深潜（全部核心剧作 + 批评）
+7. 《奥赛罗》+ 《麦克白》
+8. 《亨利四世》上、下 + 《亨利五世》— 福斯塔夫三部曲
+9. 《暴风雨》+ 布鲁姆《莎士比亚：人的发明》"暴风雨"章节
+10. 十四行诗精选 + 格林布拉特《俗世威尔》
+
+## 二、原典（必读）
+
+### 四大悲剧
+- *Hamlet* (c. 1601) — 西方文学的最高峰
+- *Othello* (c. 1603) — 嫉妒与"无动机的恶"
+- *King Lear* (c. 1605) — 权力的虚无与疯狂
+- *Macbeth* (c. 1606) — 野心与时间
+
+### 核心喜剧
+- *Twelfth Night* (c. 1602) — 最完美的莎士比亚喜剧
+- *A Midsummer Night's Dream* (c. 1596) — 梦幻与戏剧自我反思
+- *The Merchant of Venice* (c. 1597) — 正义、慈悲与夏洛克
+
+### 核心历史剧
+- *Henry IV, Parts 1 & 2* (c. 1597–1598) — 福斯塔夫
+- *Henry V* (c. 1599) — 领导力与战争
+
+### 晚期杰作
+- *The Tempest* (c. 1611) — 告别与宽恕
+
+### 诗歌
+- *Sonnets* (1609) — 第 18、29、73、116、130、146 首为必读
+
+### 中译本推荐
+- 朱生豪 译《莎士比亚全集》（人民文学出版社）— 经典散文体译本
+- 梁实秋 译《莎士比亚全集》（远东图书公司）
+- 卞之琳 译《哈姆雷特》（人民文学出版社）— 诗体精选
+- 梁宗岱 译《莎士比亚十四行诗》（人民文学出版社）
+- 译林出版社《莎士比亚全集》增订本（2016）— 最新中文版
+
+## 三、传记
+
+### 经典传记
+- **Schoenbaum, S.** *William Shakespeare: A Compact Documentary Life* (1987) — 最可靠的事实性传记，摒弃臆测
+- **Ackroyd, Peter** *Shakespeare: The Biography* (2005) — 生动可读的文化传记
+- **Greenblatt, Stephen** *Will in the World: How Shakespeare Became Shakespeare* (2004) — 新历史主义视角的传记
+- **Shapiro, James** *1599: A Year in the Life of William Shakespeare* (2015) — 以一年为切口的微观传记
+- **Shapiro, James** *Contested Will: The Struggle Between Ego and Art* (2010) — 续写1599年之后的莎士比亚
+
+### 中文传记
+- 安东尼·伯吉斯《莎士比亚传》（中文译本）
+- 阿尼克斯特《莎士比亚传》（人民文学出版社）
+
+## 四、批评与研究
+
+### 经典研究
+- **Johnson, Samuel** *Preface to Shakespeare* (1765) — 18世纪批评经典
+- **Coleridge, Samuel Taylor** *Lectures on Shakespeare* (1808–1819) — 浪漫主义莎学
+- **Bradley, A.C.** *Shakespearean Tragedy* (1904) — 现代莎学的奠基之作，悲剧性格分析
+- **Empson, William** *The Structure of Complex Words* (1951) — 语言分析
+
+### 当代重要研究
+- **Bloom, Harold** *Shakespeare: The Invention of the Human* (1998) — 布鲁姆的核心论点：莎士比亚"发明了人类"
+- **Greenblatt, Stephen** *Renaissance Self-Fashioning* (1980) — 新历史主义奠基作
+- **Kermode, Frank** *Shakespeare's Language* (2000) — 莎翁语言分析
+- **Frye, Northrop** *A Natural Perspective* (1965) — 原型批评
+- **Garber, Marjorie** *Shakespeare After All* (2008) — 面向大众的哈佛讲座
+- **Nutall, A.D.** *Shakespeare the Thinker* (2007) — 作为哲学思想家的莎士比亚
+
+### 中文研究
+- 王佐良《莎士比亚绪论》
+- 朱生豪《莎士比亚译者自序》
+- 何其莘《莎士比亚与英国文艺复兴》
+
+## 五、莎士比亚的思想源头
+
+- **奥维德** — 《变形记》——莎士比亚最喜爱的古典作家
+- **塞内加** — 复仇悲剧传统
+- **蒙田** — 怀疑主义散文（弗洛里奥译本影响深远）
+- **马洛** — 《帖木儿》《浮士德博士》——英语戏剧的直接先驱
+- **马基雅维利** — 权力分析（通过间接渠道）
+- **普鲁塔克** — 《名人传》（诺斯译本）——历史剧和罗马剧的素材来源
+
+## 六、莎士比亚的下游
+
+### 文学
+- **弥尔顿** — 《失乐园》中的撒旦具有麦克白式的悲剧深度
+- **歌德** — 威廉·麦斯特与哈姆雷特的关系
+- **浪漫主义** — 济慈、雪莱、兰姆的莎学随笔
+- **乔伊斯** — 《尤利西斯》"图书馆"章中的莎学辩论
+- **艾略特** — "客观对应物"理论与对《哈姆雷特》的批评
+
+### 哲学
+- **黑格尔** — 悲剧辩证法
+- **尼采** — 《悲剧的诞生》中的狄奥尼索斯精神
+- **德里达** — 解构阅读《哈姆雷特》《李尔王》
+
+### 心理学
+- **弗洛伊德** — 哈姆雷特与弑父情结、"创作家与白日梦"
+- **荣格** — 原型理论
+- **拉康** — 欲望的辩证法
+
+### 后殖民理论
+- **法农** — 卡利班作为被殖民者的象征
+- **格林布拉特** — 新历史主义对莎士比亚与帝国关系的分析
+
+### 电影
+- **劳伦斯·奥利弗** — 《亨利五世》（1944）、《哈姆雷特》（1948）
+- **黑泽明** — 《蜘蛛巢城》（改编自《麦克白》, 1957）、《乱》（改编自《李尔王》, 1985）
+- **朱丽·泰莫** — 《暴风雨》（2010）
+
+## 七、研究工具
+
+- **Folger Shakespeare Library** (folger.edu) — 全球最大的莎士比亚研究中心
+- **Internet Shakespeare Editions** (internetshakespeare.uvic.ca) — 数字化莎翁文本
+- **Shakespeare Quarterly** — 最权威的莎学期刊
+- **The Norton Shakespeare** (ed. Stephen Greenblatt et al.) — 标准学术版本
+- **The Arden Shakespeare** — 最详细的注释系列
+- **The Oxford Shakespeare** (ed. Stanley Wells & Gary Taylor) — 学术权威版
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**莎翁的精髓** | 《哈姆雷特》第三幕 → 布鲁姆导言 |
+| 深入**四大悲剧** | 《麦克白》→《哈姆雷特》→《李尔王》→《奥赛罗》 |
+| 理解**喜剧天才** | 《第十二夜》→《仲夏夜之梦》→《皆大欢喜》 |
+| 探索**权力主题** | 《亨利四世》→《亨利五世》→《理查三世》 |
+| 了解**语言艺术** | 十四行诗精选 → Kermode *Shakespeare's Language* |
+| **后殖民视角** | 《暴风雨》→ 法农 → 格林布拉特 |
+| **中文读者**入门 | 朱生豪译《哈姆雷特》→《麦克白》→《第十二夜》 |

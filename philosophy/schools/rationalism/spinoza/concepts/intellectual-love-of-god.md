@@ -1,0 +1,102 @@
+---
+id: spinoza-intellectual-love-of-god
+title: 对神的理智之爱 · Amor Dei Intellectualis
+type: concept
+domain: philosophy
+school: rationalism
+thinker: spinoza
+tags:
+  - 对神的爱
+  - 至善
+  - 幸福
+  - 永恒
+  - intellectual-love-of-God
+  - beatitudo
+  - blessedness
+  - eternity
+cross-refs:
+  - id: spinoza-adequate-ideas
+    relation: 基础
+  - id: spinoza-god-or-nature
+    relation: 对象
+  - id: spinoza-conatus
+    relation: 最高实现
+---
+
+# 对神的理智之爱 · Amor Dei Intellectualis
+
+## 概念概述 / Concept Overview
+
+"对神的理智之爱"（Amor Dei Intellectualis）是斯宾诺莎伦理学的最高境界——它不是一种宗教性的虔诚情感，而是通过理性认识上帝/自然的必然性而获得的最高幸福（beatitudo）。当心灵以"永恒的相"（sub specie aeternitatis）理解事物时，它就产生了对上帝/自然的理智之爱——这种爱既是人类最高的快乐，也是人类最大的完满性。
+
+"Intellectual Love of God" (Amor Dei Intellectualis) is the highest state in Spinoza's ethics — not religious piety but the supreme blessedness (beatitudo) attained through rational knowledge of God/Nature's necessity. When the mind understands things "under the aspect of eternity" (sub specie aeternitatis), it produces the intellectual love of God/Nature — this love is both humanity's greatest joy and its greatest perfection.
+
+## 三种情感状态 / Three Affective States
+
+斯宾诺莎将"对神的理智之爱"置于三种情感状态的等级体系中：
+
+Spinoza places the intellectual love of God within a hierarchy of three affective states:
+
+### 1. 被动情感（Passiones）· Passive Affects
+
+被动情感是由外部原因引起的——我被外物所动而非由理性所动。快乐（laetitia）和悲伤（tristitia）是两种基本的被动情感。被动情感是"奴役"（servitus）——我是外部力量的受害者，我的幸福取决于我无法控制的外部事物。
+
+Passive affects are caused by external causes — I am moved by external things rather than by reason. Joy (laetitia) and sadness (tristitia) are the two basic passive affects. Passive affects are "bondage" (servitus) — I am a victim of external forces, my happiness depending on things I cannot control.
+
+### 2. 主动情感（Actiones）· Active Affects
+
+主动情感是由充分观念引起的——当我理解情感的因果机制时，这种情感就从"被动"转化为"主动"。主动情感增强我的行动能力（potentia agendi），使我从被动情感的奴役中解放出来。
+
+Active affects arise from adequate ideas — when I understand the causal mechanisms of affects, they transform from "passive" to "active." Active affects increase my power of acting (potentia agendi), liberating me from passive-affect bondage.
+
+### 3. 对神的理智之爱（Amor Dei Intellectualis）· Intellectual Love of God
+
+对神的理智之爱是主动情感的最高形式——它来自第三类知识（直观知识），来自以"永恒的相"理解事物的能力。当心灵通过理性认识上帝/自然的必然秩序时，它体验到一种独特的快乐——这种快乐伴随着对上帝/自然的观念。斯宾诺莎将这种快乐定义为"对神的爱"：
+
+The intellectual love of God is the highest form of active affect — it arises from the third kind of knowledge (intuitive knowledge), from the ability to understand things "under the aspect of eternity." When the mind rationally knows God/Nature's necessary order, it experiences a unique joy — this joy accompanied by the idea of God/Nature. Spinoza defines this joy as "love of God":
+
+> "心灵对上帝的理智之爱，就是上帝以之爱自身的无限的爱的一部分。"
+> "The mind's intellectual love of God is part of the infinite love by which God loves himself."
+
+这一命题是斯宾诺莎最具神秘主义色彩的论述——但它的神秘主义不是传统宗教的神秘主义（与上帝合一的超自然体验），而是一种**理性的神秘主义**：通过理性认识宇宙的必然秩序而获得的深沉的喜悦和宁静。
+
+This proposition is Spinoza's most mystical-sounding claim — but its mysticism is not traditional religious mysticism (supernatural union with God) but **rational mysticism**: the profound joy and tranquility attained through rationally knowing the universe's necessary order.
+
+## "永恒"的含义 · The Meaning of "Eternity"
+
+斯宾诺莎的"永恒"（aeternitas）不是"无限的时间延续"——那只是"持久"（sempiternity）。永恒是"从本质本身推导出来的存在"（existentia quae ex essentia sequitur）——一种超越时间的存在方式。当心灵以第三类知识理解事物时，它不是在时间中理解事物（"这件事发生在过去"），而是以必然性的方式理解事物（"这件事必然地从上帝的本质推导出来"）。
+
+Spinoza's "eternity" (aeternitas) is not "infinite temporal duration" — that is merely "sempiternity." Eternity is "existence that follows from essence itself" (existentia quae ex essentia sequitur) — a mode of existence beyond time. When the mind understands things through the third kind of knowledge, it understands them not temporally ("this event occurred in the past") but in terms of necessity ("this event necessarily follows from God's essence").
+
+在这个意义上，心灵在拥有第三类知识时是"永恒的"——不是因为它在死后继续存在（斯宾诺莎否认个人的灵魂不朽），而是因为它在理解必然性时已经超越了时间的限制。
+
+In this sense, the mind is "eternal" when possessing third-kind knowledge — not because it continues after death (Spinoza denies personal immortality) but because in understanding necessity it has already transcended temporal limitation.
+
+## 与宗教传统的对话 / Dialogue with Religious Traditions
+
+斯宾诺莎的"对神的理智之爱"在东西方宗教传统中找到了多种共鸣和对照：
+
+Spinoza's "intellectual love of God" finds multiple resonances and contrasts in Eastern and Western religious traditions:
+
+- **基督教神秘主义**：埃克哈特大师（Meister Eckhart）的"上帝之基"（Grund Gottes）——在灵魂的最深处与上帝合一。但埃克哈特的合一是超理性的，而斯宾诺莎的爱是理性的。
+- **苏菲派**：鲁米（Rumi）的"神爱"（ʿishq）——通过爱来消融自我于真主之中。斯宾诺莎的爱不是"消融自我"，而是"增强自我"——增强理性的行动能力。
+- **佛教**：对真理的"法喜"（prīti）——通过证悟真如而获得的喜悦。斯宾诺莎的"理智之爱"最接近这种"法喜"——两者的快乐都来自对终极实在的理性/智慧认识。
+- **印度教**：对梵的"bhakti"（虔爱）与"jñāna"（智慧之爱）。斯宾诺莎的爱更接近"jñāna"——通过知识（而非情感性的虔诚）来爱上帝。
+
+- **Christian mysticism**: Meister Eckhart's "ground of God" — union with God in the soul's deepest ground. But Eckhart's union is supra-rational, while Spinoza's love is rational.
+- **Sufism**: Rumi's ʿishq (divine love) — dissolving the self in God through love. Spinoza's love does not "dissolve the self" but "enhances the self" — enhancing rational power of acting.
+- **Buddhism**: "Dharma-joy" (prīti) — joy from realizing suchness. Spinoza's "intellectual love" is closest to this dharma-joy — both derive joy from rational/wisdom-based knowledge of ultimate reality.
+- **Hinduism**: "Bhakti" (devotional love) vs. "jñāna" (wisdom-love) of Brahman. Spinoza's love is closer to jñāna — loving God through knowledge rather than emotional devotion.
+
+## 参考文献 / References
+
+- Spinoza, B. *Ethics*, Part V, Props. 32–36, 38–40.
+- Nadler, S. (2006). *Spinoza's Ethics: An Introduction*. Cambridge University Press.
+- Smith, S. B. (2003). *Spinoza's Book of Life: Freedom and Redemption in the Ethics*. Yale University Press.
+
+## 相关概念 / Related Concepts
+
+- [充分观念](adequate-ideas.md) — 理智之爱的认识论前提
+- [上帝即自然](god-or-nature.md) — 理智之爱的对象
+- [实体一元论](substance-monism.md) — 理智之爱的形而上学基础
+- [Conatus](conatus.md) — 理智之爱是 conatus 的最高实现

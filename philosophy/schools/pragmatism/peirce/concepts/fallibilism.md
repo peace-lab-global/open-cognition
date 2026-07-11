@@ -1,0 +1,163 @@
+---
+id: peirce-fallibilism
+title: 可错论 · Fallibilism
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: peirce
+tags:
+  - fallibilism
+  - truth
+  - community-of-inquiry
+  - self-correction
+  - 可错论
+  - 真理
+  - 探究社区
+  - 自我纠正
+parent: peirce
+---
+
+# 可错论 · Fallibilism
+
+> "There is but one thing needful for knowing the truth, and that is a hearty and active desire to learn what is true. If you really want to learn the truth, you will of necessity bring your mind into a state in which you are prepared to drop every belief as soon as the reasons preponderate against it, however strong your inclination to retain it may be."
+>
+> "认识真理只需要一件事——一种热切而积极的渴望去认识真正的真理。如果你真的想要认识真理，你必然会使自己的心灵处于这样一种状态：一旦理由充分反对某一信念，你就准备好放弃它——无论你想保留它的倾向有多强烈。"
+>
+> — C.S. Peirce, *Collected Papers* 1.44
+
+---
+
+## 概述 / Overview
+
+可错论（fallibilism）是皮尔士认识论的核心原则：一切知识——无论看起来多么确定——都是暂时的、可修正的。没有任何命题能够免于被未来经验推翻的可能性。然而，可错论并非怀疑论或虚无主义：皮尔士坚信存在客观真理，并认为通过**探究社区**（community of inquiry）的持续自我纠正过程，人类知识能够渐近地趋近真理。
+
+Fallibilism is the central principle of Peirce's epistemology: all knowledge—however certain it may appear—is provisional and corrigible. No proposition is immune from the possibility of future refutation. Yet fallibilism is neither skepticism nor nihilism: Peirce firmly believed in objective truth and held that through the continuous self-correcting process of the **community of inquiry**, human knowledge can asymptotically approach truth.
+
+---
+
+## 可错论的理论基础 / Theoretical Foundations of Fallibilism
+
+### 对笛卡尔普遍怀疑的批判 / Critique of Cartesian Universal Doubt
+
+皮尔士的可错论建立在他对笛卡尔方法论的深刻批判之上。在〈Some Consequences of Four Incapacities〉（1868）中，皮尔士论证了四个根本命题：
+
+Peirce's fallibilism builds on his profound critique of Cartesian methodology. In "Some Consequences of Four Incapacities" (1868), Peirce argued four fundamental theses:
+
+1. **没有直觉的能力**：我们不能通过"直觉"直接获得确定知识——一切认知都通过符号中介进行。/ **No power of intuition**: we cannot obtain certain knowledge directly through "intuition"—all cognition proceeds through sign mediation.
+2. **没有直觉的自我意识**：我们对自己的认识也依赖于符号和推理。/ **No power of intuitive self-consciousness**: our self-knowledge also depends on signs and inference.
+3. **一切思维通过外在符号进行**：不存在纯粹的、不依赖符号的"内在思维"。/ **All thought is conducted through external signs**: there is no purely "internal thought" independent of signs.
+4. **因此，没有任何知识是绝对确定的**：既然一切认知都经过符号中介，它就总是可能出错的。/ **Therefore, no knowledge is absolutely certain**: since all cognition passes through sign mediation, it is always liable to error.
+
+### 反基础主义 / Anti-Foundationalism
+
+皮尔士的可错论是一种深刻的**反基础主义**（anti-foundationalism）。传统认识论追求不可动摇的"基础"——笛卡尔的"我思"、洛克的感觉数据、康德的先验范畴——从这些基础上建构知识的"大厦"。皮尔士拒绝了这一建筑隐喻：知识不是一座建在坚固地基上的大厦，而更像一张在海上漂流的网——纽拉特（Neurath）后来的著名比喻"纽拉特之船"（Neurath's boat）与皮尔士的观点高度一致。
+
+Peirce's fallibilism is a profound **anti-foundationalism**. Traditional epistemology sought unshakeable "foundations"—Descartes's *cogito*, Locke's sense data, Kant's transcendental categories—from which to construct the "edifice" of knowledge. Peirce rejected this architectural metaphor: knowledge is not an edifice built on solid foundations but rather like a net drifting at sea—Neurath's famous metaphor of "Neurath's boat" is highly consistent with Peirce's view.
+
+---
+
+## 真理的定义 / The Definition of Truth
+
+皮尔士对"真理"的定义是可错论中最具争议性也最深刻的部分：
+
+Peirce's definition of "truth" is the most controversial yet profound aspect of his fallibilism:
+
+> "The opinion which is fated to be ultimately agreed to by all who investigate, is what we mean by the truth."
+>
+> "所有从事探究的人最终注定会达成的一致意见，就是我们所说的真理。"
+>
+> — C.S. Peirce, "How to Make Our Ideas Clear" (1878)
+
+这一定义包含几个关键要素：
+
+This definition contains several key elements:
+
+### 理想探究的终点 / The Endpoint of Ideal Inquiry
+
+真理不是某种独立于认知过程的"对应"（correspondence），而是探究过程的**理想极限**。如果探究无限地持续下去，最终所有探究者都会趋于一致——这个一致意见就是真理。
+
+Truth is not some "correspondence" independent of the cognitive process, but the **ideal limit** of the inquiry process. If inquiry were to continue indefinitely, all investigators would eventually converge in agreement—this consensus is truth.
+
+### "注定"的含义 / The Meaning of "Fated"
+
+"注定"（fated）一词引发了大量争论。皮尔士的意思不是某种神秘的宿命论，而是一个基于概率论和统计学的论证：如果有足够多的独立探究者在足够长的时间内持续研究同一个问题，他们犯错误的概率将趋向于零，他们的意见将趋向一致。
+
+The word "fated" has provoked much debate. Peirce meant not some mystical fatalism but an argument based on probability and statistics: if enough independent investigators study the same question for long enough, their probability of error tends toward zero and their opinions tend toward convergence.
+
+### 当代修正 / Contemporary Refinements
+
+当代哲学家对皮尔士的真理定义进行了多种修正：
+
+Contemporary philosophers have offered various refinements of Peirce's truth definition:
+
+- **哈贝马斯**（Habermas）将其发展为"理想言说情境"（ideal speech situation）中的共识。/ Habermas developed it into consensus within the "ideal speech situation."
+- **阿皮亚**（Appiah）将其重新表述为"理想认识论条件下的断言"。/ Appiah reformulated it as "assertion under ideal epistemic conditions."
+- **米萨克**（Misak）将其解释为"探究的规范性理想"。/ Misak interpreted it as "the normative ideal of inquiry."
+
+---
+
+## 探究社区 / The Community of Inquiry
+
+可错论的认识论后果是：真理不是个人能够独自获得的——它需要一个**探究社区**（community of inquiry）。
+
+The epistemological consequence of fallibilism: truth cannot be attained by individuals alone—it requires a **community of inquiry**.
+
+### 个人 vs 社区 / Individual vs Community
+
+个体的认知总是受限于个人的偏见、有限的经验和可能的错误。只有通过持续的、开放的、跨代际的探究社区——由科学家、学者和思考者组成的共同体——的协作和自我纠正，知识才能渐进地接近真理。
+
+Individual cognition is always limited by personal biases, finite experience, and possible errors. Only through the collaboration and self-correction of a continuing, open, intergenerational community of inquiry—composed of scientists, scholars, and thinkers—can knowledge progressively approach truth.
+
+### 探究社区的特征 / Features of the Community of Inquiry
+
+1. **开放性**：任何有能力参与探究的人都可以加入。/ **Openness**: anyone capable of participating in inquiry may join.
+2. **自我纠正**：社区成员相互检验、批评和修正彼此的结论。/ **Self-correction**: community members test, criticize, and revise each other's conclusions.
+3. **跨代际**：探究不是在一代人的生命中完成的，而是跨越世代持续进行。/ **Intergenerational**: inquiry is not completed within one generation but continues across generations.
+4. **方法论共识**：成员共享基本的探究方法——特别是科学方法。/ **Methodological consensus**: members share basic methods of inquiry—especially the scientific method.
+
+### 对民主理论的启示 / Implications for Democratic Theory
+
+皮尔士的探究社区概念不仅是一个认识论模型，也对政治哲学产生了深远影响。杜威将探究社区的理念转化为民主理论的基础——民主不仅是政治制度，更是一种"协作探究"的社会形式。哈贝马斯的"公共领域"（public sphere）理论和"商谈伦理学"（discourse ethics）也直接继承了这一传统。
+
+Peirce's concept of the community of inquiry is not merely an epistemological model; it has profoundly influenced political philosophy. Dewey transformed the community of inquiry into the foundation of democratic theory—democracy is not merely a political institution but a social form of "cooperative inquiry." Habermas's theory of the "public sphere" and "discourse ethics" also directly inherits this tradition.
+
+---
+
+## 可错论的界限 / The Limits of Fallibilism
+
+### 可错论本身是否可错？ / Is Fallibilism Itself Fallible?
+
+一个经典的挑战是：如果一切知识都是可错的，那么"一切知识都是可错的"这个命题本身是否也是可错的？皮尔士的回应是：可错论不是一条不可错的教条，而是一个**规范性原则**——它指导我们如何从事探究，而非断言关于知识本质的绝对真理。
+
+A classic challenge: if all knowledge is fallible, is the proposition "all knowledge is fallible" itself fallible? Peirce's response: fallibilism is not an infallible dogma but a **normative principle**—it guides how we conduct inquiry, rather than asserting an absolute truth about the nature of knowledge.
+
+### 可错论 vs 怀疑论 / Fallibilism vs Skepticism
+
+可错论与怀疑论的根本区别在于：
+
+The fundamental difference between fallibilism and skepticism:
+
+| 维度 / Dimension | 可错论 / Fallibilism | 怀疑论 / Skepticism |
+|---|---|---|
+| 对知识的态度 / Attitude to knowledge | 知识是可能的，但总是暂时的 / Knowledge is possible but always provisional | 知识是不可能的（或极不可能）/ Knowledge is impossible (or highly unlikely) |
+| 对真理的态度 / Attitude to truth | 真理存在，我们可以渐近趋近 / Truth exists; we can asymptotically approach it | 真理不存在或不可达 / Truth does not exist or is unreachable |
+| 实践态度 / Practical attitude | 积极探究、持续修正 / Active inquiry, continuous revision | 悬搁判断 / Suspension of judgment |
+
+---
+
+## 当代影响 / Contemporary Influence
+
+- **科学哲学**：波普尔的"可证伪性"（falsifiability）原则是可错论在科学方法论中的具体化。/ Popper's "falsifiability" principle concretizes fallibilism in the philosophy of science.
+- **实用主义认识论**：苏珊·哈克（Susan Haack）的"基础融贯论"（foundherentism）和切丽·米萨克（Cheryl Misak）的"真理与探究"理论直接继承皮尔士传统。/ Susan Haack's "foundherentism" and Cheryl Misak's "truth and inquiry" theory directly inherit the Peircean tradition.
+- **教育哲学**：探究社区模型成为协作学习和批判性思维教育的理论基础。/ The community of inquiry model became the theoretical foundation for collaborative learning and critical thinking education.
+- **法律理论**：证据法中的"排除合理怀疑"（beyond reasonable doubt）标准体现了可错论精神——判决不是绝对确定的，而是在当前证据下达到的最高确信度。/ The "beyond reasonable doubt" standard in evidence law embodies the fallibilist spirit—verdicts are not absolutely certain but represent the highest confidence achievable with current evidence.
+
+---
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 可错论 vs 中观学派 / Fallibilism vs Madhyamaka
+
+龙树（Nagarjuna）的中观学派（Madhyamaka）通过系统解构一切确定性主张来展现"空性"（sunyata）。这与皮尔士的可错论有深层共鸣：两者都否定绝对确定的知识，但都不走向虚无主义。中观学派的"二谛"（世俗谛和胜义谛）结构提供了一种处理可错性的方式——在世俗层面承认知识的有效性，在胜义层面揭示其空性。皮尔士同样在两个层面运作：在日常实践中承认知识的可靠性，在哲学层面坚持其可修正性。
+
+Nagarjuna's Madhyamaka school systematically deconstructs all claims of certainty to reveal *sunyata* (emptiness). This resonates deeply with Peirce's fallibilism: both deny absolutely certain knowledge, yet neither descends into nihilism. Madhyamaka's "two truths" structure (conventional and ultimate) provides a way to handle fallibility—acknowledging the validity of knowledge at the conventional level while revealing its emptiness at the ultimate level. Peirce likewise operates on two levels: acknowledging the reliability of knowledge in everyday practice while insisting on its corrigibility at the philosophical level.

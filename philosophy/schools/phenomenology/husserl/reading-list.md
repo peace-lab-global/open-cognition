@@ -1,0 +1,162 @@
+---
+id: husserl-reading-list
+title: 胡塞尔进阶阅读 · Husserl Reading List
+type: reading-list
+domain: philosophy
+school: phenomenology
+thinker: husserl
+tags: [husserl, bibliography, reading-guide]
+cross-refs:
+  - id: husserl
+    relation: thinker
+---
+
+# 胡塞尔进阶阅读 · Husserl Reading List
+
+## 一、阅读路径
+
+### 入门(3 文本,4 小时)
+1. **《现象学的观念》**(1907 讲演,5 讲)— 最短的纲领性介绍
+2. **《观念 I》导论部分**(§§1-18)— 现象学方法
+3. **《危机》§§9-16**(伽利略部分)— 生活世界的入口
+
+### 进阶(7 文本,40 小时)
+4. 《逻辑研究》第一/五/六研究
+5. 《观念 I》§§27-87
+6. 《笛卡尔沉思》全部
+7. 《内时间意识》§§1-37
+8. 《危机》§§33-73
+9. 《经验与判断》§§86-94
+10. 《形式的与先验的逻辑》导论
+
+### 深潜(全集 + 手稿)
+11. Husserliana 全集系统阅读
+12. Bernau 手稿 + C 手稿
+13. 与海德格尔、英伽登的通信
+
+## 二、原典
+
+### 必读
+- *Logical Investigations* (1900–1901)
+- *Ideas I* (1913)
+- *Cartesian Meditations* (1931)
+- *The Crisis of European Sciences* (1936)
+
+### 重要
+- *Philosophy of Arithmetic* (1891)
+- *On the Phenomenology of Internal Time-Consciousness* (1928)
+- *Formal and Transcendental Logic* (1929)
+- *Experience and Judgment* (1939 遗稿)
+- *The Idea of Phenomenology* (1907 讲演)
+
+### 晚期手稿
+- *Bernau Manuscripts* (Hua XXXIII, 2001)
+- *C Manuscripts* (2006)
+
+### 中译本
+- 倪梁康 译《逻辑研究》(上海译文,2006)
+- 李幼蒸 译《纯粹现象学通论》(商务,1992)
+- 张宪 译《笛卡尔式的沉思》(人民,2008)
+- 王炳文 译《欧洲科学的危机》(商务,2001)
+
+## 三、二手研究
+
+### 经典传记
+- K. Schuhmann, *Husserl-Chronik* (1977)— 最权威年表
+- D. Moran, *Edmund Husserl: Founder of Phenomenology* (2005)
+- H. Spiegelberg, *The Phenomenological Movement* (1960, 2 vols)
+- R. Sokolowski, *Introduction to Phenomenology* (2000)
+
+### 思想研究
+- D. Zahavi, *Husserl's Phenomenology* (2003)
+- D. Moran, *Introduction to Phenomenology* (2000)
+- J. N. Mohanty, *Edmund Husserl: Critical Assessments* (4 vols, 1995)
+- E. Ströker, *Husserl's Transcendental Phenomenology* (1993)
+- D. Carr, *Phenomenology and the Problem of History* (1974)
+
+### 专题研究
+- J. Brough, *Husserl's Phenomenology of Time-Consciousness*
+- R. Bernet, I. Kern, E. Marbach, *An Introduction to Husserlian Phenomenology* (1993)
+- N. Ierna, "Husserl's Early Theory of Intentionality"
+- A. Aguirre, *Genetische Phänomenologie und Reduktion* (1970)
+
+### 中文研究
+- **倪梁康**《现象学及其效应——胡塞尔与当代德国哲学》(1994)
+- **倪梁康**《胡塞尔现象学概念通释》(1999)
+- **张庆熊**《胡塞尔现象学》(2001)
+- **靳希平**《胡塞尔早期现象学的出发点》
+- **方向红**《胡塞尔现象学中的时间问题》(2003)
+- **李幼蒸**《胡塞尔现象学认识论分析》
+
+## 四、胡塞尔的阅读(他的源头)
+
+- **魏尔斯特拉斯**(Karl Weierstraß)— 数学
+- **布伦塔诺**(Franz Brentano)— 意向性、描述心理学
+- **施通普夫**(Carl Stumpf)— 心理学
+- **玻尔查诺**(Bernard Bolzano)— 逻辑客观主义
+- **笛卡尔**— 先验主体性
+- **康德**— 先验哲学
+- **休谟**— 经验论的批判
+- **莱布尼茨**— 单子论
+- **洛采**(Hermann Lotze)— 有效性
+
+## 五、胡塞尔的下游(受他影响)
+
+### 哲学
+- **海德格尔**— 存在论化的现象学
+- **舍勒**(Max Scheler)— 价值现象学
+- **梅洛-庞蒂**— 身体现象学
+- **萨特**— 存在主义现象学
+- **列维纳斯**— 伦理现象学
+- **英伽登**(Roman Ingarden)— 文学现象学
+- **古尔维奇**(Aron Gurwitsch)— 心理学现象学
+- **德里达**— 解构主义(早期研究胡塞尔)
+- **马里翁**(Jean-Luc Marion)— 神学现象学
+
+### 心理学 / 精神病学
+- **雅斯贝尔斯**(Karl Jaspers)— 现象学精神病学
+- **宾斯万格**(Ludwig Binswanger)— 此在分析
+- **明科夫斯基**(Eugène Minkowski)— 时间体验
+
+### 社会学
+- **舒茨**(Alfred Schütz)— 社会现象学
+- **伯格与卢克曼**(*社会实在的建构*)
+
+### 认知科学 / AI
+- **Dreyfus**— 批评经典 AI
+- **Varela、Thompson**— 具身认知
+- **Zahavi、Gallagher**— 意识研究
+
+## 六、跨学科阅读
+
+### 认知科学
+- Varela, Thompson, Rosch, *The Embodied Mind* (1991)
+- Gallagher & Zahavi, *The Phenomenological Mind* (2008)
+- Petitot, Varela, Pachoud, Roy, *Naturalizing Phenomenology* (1999)
+
+### 心理学
+- Amedeo Giorgi, *The Descriptive Phenomenological Method*
+- Max van Manen, *Researching Lived Experience*
+
+### 神学
+- Jean-Luc Marion, *Reduction and Givenness*
+- Jean-Yves Lacoste, *From Theology to Theological Thinking*
+
+## 七、研究工具
+
+- **Husserl-Archiv Leuven**(鲁汶):手稿原件与数字化
+- **Husserl Page**(在线):英文资源聚合
+- **Husserl Studies**(Springer 期刊)
+- **Journal of the British Society for Phenomenology**
+- **Phenomenology and the Cognitive Sciences**
+- **CBETA / SAT 大正藏**(用于东西对照研究)
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想快速了解现象学 | Moran *Introduction* → Zahavi *Husserl's Phenomenology* → 《现象学的观念》 |
+| 想做严格研究 | 《逻辑研究》→ 《观念 I》→ 《沉思》→ 《危机》 |
+| 想研究时间意识 | 《时间意识讲演》→ Brough 研究 → Bernau/C 手稿 |
+| 想做东西方对照 | 《危机》→ 唯识《成唯识论》→ 阿部正雄《禅与西方思想》 |
+| 想做认知科学对话 | Varela *Embodied Mind* → Gallagher *Phenomenological Mind* |

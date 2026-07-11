@@ -1,0 +1,17 @@
+---
+id: cognitive-systems.school.ecological.clark.reading-list
+title: 克拉克阅读指南 Andy Clark Reading List
+type: reading-list
+thinker: clark
+domain: cognitive-systems
+school: ecological
+---
+
+# 克拉克阅读指南
+
+## 入门
+1. Clark, A. & Chalmers, D. (1998). "The Extended Mind." *Analysis* 58(1).
+2. Clark, A. (2016). *Surfing Uncertainty*. — 预测加工
+
+## 二手研究
+- Menary, R. (ed.) (2010). *The Extended Mind*. MIT Press.

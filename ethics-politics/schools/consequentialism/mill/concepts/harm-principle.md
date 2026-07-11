@@ -1,0 +1,39 @@
+---
+id: mill-harm-principle
+title: 伤害原则 · Harm Principle · Mill
+type: concept
+domain: ethics-politics
+school: consequentialism
+thinker: mill
+tags: [harm-principle, liberty, paternalism, mill]
+cross-refs:
+  - id: mill
+    relation: thinker
+  - id: feiberg
+    relation: 发展
+---
+
+# 伤害原则 · Harm Principle
+
+## 一句话定义
+伤害原则是密尔自由理论的核心——国家或社会对个人自由施加强制的**唯一正当理由**是防止对他人的伤害；纯粹自我伤害的行为不受干涉。
+
+## 核心要义
+
+### 原则表述
+> "文明社会的任何成员违背其意志被正当地行使权力的唯一目的，是防止对他人的伤害。"
+
+### 适用范围
+- **适用**：涉及他人的行为（other-regarding actions）
+- **不适用**：纯粹自我伤害的行为（self-regarding actions）
+- **灰色地带**：看似自我伤害但实际影响他人的行为（如吸毒后的暴力）
+
+### 与父爱主义的对立
+- **父爱主义**：国家可以为个人好而限制自由（如强制系安全带）
+- **密尔的回应**：个人是自己利益的最佳判断者
+
+## 当代应用
+- 毒品合法化、安乐死、安全带法、头盔法
+
+## 关键文本
+- *On Liberty*, Ch. 1

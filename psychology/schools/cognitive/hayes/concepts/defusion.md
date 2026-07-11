@@ -1,0 +1,117 @@
+---
+id: psychology.cognitive.hayes.defusion
+title: "认知解离 · Cognitive Defusion"
+type: concept
+thinker: hayes
+school: cognitive
+---
+
+# 认知解离 / Cognitive Defusion
+
+## 定义 / Definition
+
+**中文**：认知解离（cognitive defusion），又译"去融合"或"认知脱钩"，是Steven C. Hayes在接纳承诺疗法（ACT）中提出的核心治疗过程之一。它指的是改变个体与想法之间的关系——从"被想法融合"（fused with thoughts）的状态转变为"观察想法"（observing thoughts）的状态——而不改变想法的内容本身。在关系框架理论（RFT）的框架下，认知解离被理解为减少关系框架对行为的不适当控制，增加行为的灵活性和语境敏感性。
+
+**English**: Cognitive defusion, also translated as "de-fusion" or "cognitive deliteralization," is one of the core therapeutic processes in Steven C. Hayes's Acceptance and Commitment Therapy (ACT). It refers to changing the individual's relationship with their thoughts—moving from a state of being "fused with thoughts" to "observing thoughts"—without changing the content of the thoughts themselves. Within the Relational Frame Theory (RFT) framework, cognitive defusion is understood as reducing the inappropriate behavioral control exerted by relational frames, thereby increasing behavioral flexibility and contextual sensitivity.
+
+## 核心机制 / Core Mechanisms
+
+### 认知融合 / Cognitive Fusion（对立面）
+
+理解认知解离首先需要理解其对立面——认知融合（cognitive fusion）。认知融合是指个体的行为被想法和语言规则过度控制的状态。在融合状态下：
+- 想法被体验为"事实"而非"心理事件"（"我是一个失败者"被体验为关于现实的描述）
+- 想法被体验为需要服从的"命令"（"你必须停下来"）
+- 想法被体验为需要消除的"威胁"（"这个焦虑太可怕了，我必须摆脱它"）
+
+从RFT的角度看，认知融合是衍生性关系（derived relations）过度控制行为功能的结果——语言关系框架获得了过强的行为调节能力，以至于压过了直接的经验性接触。
+
+### 认知解离的过程
+**The Process of Cognitive Defusion**
+
+认知解离通过多种技术实现其效果：
+
+1. **命名/标注（Naming/Labeling）**："我注意到我有一个想法'我是一个失败者'"——将想法标注为"一个想法"，而非一个事实。
+
+2. **重复（Word Repetition）**：快速重复一个困扰性词语（如"失败"）30-60秒，直到它失去意义，变成纯粹的声音——这暴露了语言的"任意性"。
+
+3. **隐喻（Metaphor）**：
+   - "乘客与巴士司机"（passengers on the bus）：想法是巴士上的吵闹乘客，你可以选择继续开车而不必听从他们。
+   - "溪流上的树叶"（leaves on a stream）：将想法放在溪流上的树叶上，观察它们流过。
+   - "棋盘隐喻"（chessboard metaphor）：你是棋盘，不是棋子；想法和情绪是棋盘上的棋子，而你是容纳所有棋子的空间。
+
+4. **歌唱/变声（Singing/Voice Modification）**：用滑稽的声音或歌唱的方式说出困扰性想法——这改变了想法的"功能"（从威胁变为幽默），而不改变其"内容"。
+
+5. **感谢心智（Thanking the Mind）**："谢谢你的想法，大脑"——以幽默和温暖的方式承认想法的出现，而不必对其做出反应。
+
+6. **外化（Externalization）**：将想法写在纸上、用不同字体打印、想象想法是一个特定角色的声音——这些方法都增加了个体与想法之间的"距离"。
+
+### RFT的理论解释
+**RFT Theoretical Account**
+
+从RFT的角度看，认知解离的本质是改变关系框架的"功能"（function），而非"内容"（content）。传统认知重构（cognitive restructuring）试图通过逻辑辩论来改变想法的内容（例如，用"我不是失败者"替代"我是失败者"），这实际上可能强化关系框架——因为否定本身就是一种关系操作。认知解离则绕过内容的改变，直接减少关系框架对行为的刚性控制。
+
+具体来说，认知解离：
+- 增加了对语言事件的"语境敏感性"——认识到想法是在特定语境中产生的，而非对现实的直接描述
+- 减少了衍生性关系的"过度泛化"——一个想法不必在所有情境中都控制行为
+- 恢复了直接经验与语言之间的平衡——让个体能够根据直接后果而非语言规则来调节行为
+
+## 发展脉络 / Developmental History
+
+- **1984**：海耶斯在治疗实践中注意到，帮助来访者"改变与想法的关系"比"改变想法的内容"更有效。
+- **1980s后期**：这一过程最初被称为"距离化"（distancing），借鉴了行为治疗中的类似概念。
+- **1990s初期**：更名为"认知解离"（cognitive defusion），以更准确地反映这一过程的本质——不是制造距离，而是减少融合。
+- **1999**：在 *Acceptance and Commitment Therapy* 一书中，认知解离被确立为ACT六大核心过程之一。
+- **2000s**：大量实验研究开始验证认知解离的效果。Masuda等人（2004）发现，快速重复一个负面自我概念词（如"笨蛋"）60秒能显著减少其引发的不适感和可信度。
+- **2010s–至今**：认知解离技术被整合进多种第三代治疗方法，成为心理灵活性干预的核心工具之一。
+
+## 临床应用 / Clinical Applications
+
+### 焦虑障碍 / Anxiety Disorders
+在焦虑障碍中，患者通常与灾难性想法高度融合（"如果我在公众场合恐慌发作，那就太可怕了"）。认知解离帮助他们将这些想法视为"关于恐慌的语言事件"而非"必须回避的真实威胁"，从而减少回避行为。
+
+### 强迫症 / Obsessive-Compulsive Disorder
+OCD患者与侵入性想法高度融合——认为"想到伤害某人"等同于"想要伤害某人"（思想-行动融合/thought-action fusion）。认知解离帮助他们区分"一个想法"和"一个行为意图"。Twohig等人（2010）的RCT显示，以解离为重点的ACT干预对OCD有显著效果。
+
+### 抑郁 / Depression
+抑郁患者与负面自我概念高度融合（"我毫无价值"、"什么都不会改变"）。认知解离帮助他们将这些想法视为抑郁状态下的语言产物，而非关于自我的客观事实。
+
+### 慢性疼痛 / Chronic Pain
+慢性疼痛患者常与"这个疼痛 unbearable"、"我永远好不了"等想法融合。认知解离帮助他们减少这些想法对日常功能的控制，在疼痛存在的情况下从事有价值的活动。
+
+### 饮食障碍 / Eating Disorders
+饮食障碍患者与关于身体形象和食物的刚性规则高度融合。认知解离帮助他们灵活地看待这些想法和规则。
+
+## 关联概念 / Related Concepts
+
+- **接纳承诺疗法（ACT）**：认知解离是ACT六大核心过程之一
+- **认知融合（Cognitive Fusion）**：认知解离的对立面
+- **心理灵活性（Psychological Flexibility）**：认知解离是心理灵活性的核心组成
+- **关系框架理论（RFT）**：认知解离的基础科学
+- **正念（Mindfulness）**：正念中的"观察想法"与认知解离有概念重叠
+- **元认知（Metacognition）**：认知解离涉及对思维过程的觉察，属于元认知能力
+- **认知重构（Cognitive Restructuring）**：传统CBT的核心技术，与认知解离形成对照
+
+## 东西方对话 / East-West Dialogue
+
+### 与禅宗"不执着"的对话
+**Dialogue with Zen Non-Attachment**
+
+认知解离与禅宗的"不执着"（non-attachment/upadana的止息）有深层共鸣。禅宗认为，痛苦不在于体验本身，而在于对体验的执着——对念头的认同和追随。"看念头如浮云"的禅修练习与"溪流上的树叶"解离隐喻几乎同构。然而，禅宗将这种观察能力纳入解脱论框架（觉悟/解脱），而ACT将其纳入功能性语境主义框架（心理灵活性/有价值的生活）。
+
+### 与唯识学"如实观照"的对话
+**Dialogue with Yogacara's Direct Contemplation**
+
+唯识学的修行核心之一是"如实观照"（yathabhuta-pratyaveksana）——如其本然地观察心理现象，而不加入概念建构。这与认知解离的精神高度一致：不是改变所观察的内容，而是改变观察的方式——从"在概念中"观察转变为"观察概念"。唯识学的"三性说"特别有启发性："遍计所执性"（概念性建构）类似于认知融合，"依他起性"（缘起的实际过程）类似于解离后的观察视角。
+
+### 与庄子"坐忘"的对话
+**Dialogue with Zhuangzi's "Sitting and Forgetting"**
+
+庄子的"坐忘"——"堕肢体，黜聪明，离形去知"——可被理解为一种极致的认知解离实践。"去知"不是消灭知识，而是解除概念性认知对直接体验的控制。这与认知解离的目标——减少语言/认知对行为的过度控制——有深层的平行。庄子的"心斋"（fasting the mind）——"无听之以耳而听之以心，无听之以心而听之以气"——也可被理解为一种从概念性处理（听之以心/认知融合）向更直接的感知方式（听之以气/解离后的觉察）的转化。
+
+## 进阶阅读 / Advanced Reading
+
+- Hayes, S.C., Strosahl, K.D., & Wilson, K.G. (2011). *Acceptance and Commitment Therapy*, Ch. 8 "Cognitive Defusion." Guilford.
+- Masuda, A. et al. (2004). "Cognitive defusion and self-relevant negative thoughts." *Behavior Therapy*, 35(2), 221-239.
+- Levin, M.E. et al. (2012). "Cognitive defusion." In *Handbook of Mindfulness-Based Interventions*.
+- Torneke, N. (2010). *Learning RFT*, Ch. 7 "Defusion." New Harbinger.
+- Harris, R. (2019). *ACT Made Simple*, Ch. 9 "Defusion." New Harbinger.

@@ -1,0 +1,27 @@
+---
+id: cognitive-systems.school.cybernetics.simon.works
+title: 西蒙核心著作 Herbert Simon Works
+type: works
+thinker: simon
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 西蒙核心著作 / Herbert Simon Key Works
+
+## 核心著作
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1947 | *Administrative Behavior* | 有限理性与组织决策 |
+| 1969 | *The Sciences of the Artificial* | 人造物的设计科学 |
+| 1972 | *Human Problem Solving*（与Newell） | 问题空间与启发式搜索 |
+| 1979 | *Models of Thought* | 思维模型论文集 |
+
+## 二手研究
+
+- Crowther-Heyck, H. (2005). *Herbert A. Simon: The Bounds of Reason in Modern America*.
+
+## 中文资源
+
+- 司马贺《人工科学》，商务印书馆

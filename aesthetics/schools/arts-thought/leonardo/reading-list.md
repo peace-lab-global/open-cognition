@@ -1,0 +1,48 @@
+---
+id: leonardo-reading-list
+title: 达·芬奇进阶阅读 · Leonardo Reading List
+type: reading-list
+domain: aesthetics
+school: arts-thought
+thinker: leonardo
+tags: [leonardo, bibliography, reading-guide, renaissance-art]
+cross-refs:
+  - id: leonardo
+    relation: thinker
+---
+
+# 达·芬奇进阶阅读 · Leonardo Reading List
+
+## 一、阅读路径
+
+### 入门
+1. 欣赏《蒙娜丽莎》《最后的晚餐》的高清图像与分析
+2. Isaacson《达·芬奇传》前3章
+
+### 进阶
+3. 《绘画论》选读
+4. 笔记本选读
+5. Kemp *Leonardo da Vinci*
+
+### 深潜
+6. Kemp 全书
+7. Gombrich《艺术的故事》中达·芬奇章节
+8. 达·芬奇手稿全集
+
+## 二、原典
+- *Trattato della Pittura* — 绘画理论
+- 各手稿抄本（Codex Atlanticus, Leicester, Arundel等）
+
+## 三、传记
+- **Kemp, Martin** *Leonardo da Vinci: The Marvellous Works of Nature and Man* (2006) — 最权威学术传记
+- **Isaacson, Walter** *Leonardo da Vinci* (2017) — 畅销传记
+- **Marani, Pietro** *Leonardo da Vinci: The Complete Paintings* (2003)
+
+## 四、批评与研究
+- **Gombrich, Ernst** "Leonardo's Method of Working out Compositions" (1952)
+- **Baxandall, Michael** *Painting and Experience in Fifteenth Century Italy* (1972)
+- **Kemp, Martin** *The Science of Art* (1990) — 透视法的历史
+
+## 五、中译本
+- 《达·芬奇笔记》（戴勉译，广西师范大学出版社）
+- Isaacson《达·芬奇传》（中译本）

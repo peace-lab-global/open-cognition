@@ -1,0 +1,15 @@
+---
+id: sen-entitlement-theory
+title: 权利方法 · Entitlement Approach · Sen
+type: concept
+domain: ethics-politics
+school: capability-approach
+thinker: sen
+tags: [entitlement, famine, food-security]
+cross-refs: [{id: sen, relation: thinker}]
+---
+# 权利方法 · Entitlement Approach
+## 一句话定义
+森证明饥荒不是由食物短缺引起的——而是由**权利关系**的崩溃引起的：人们可能因失业、通胀或社会排斥而失去获取食物的权利。
+## 关键案例
+1943年孟加拉大饥荒：食物总量并未显著减少，但农村劳动力因战争通胀失去购买力，导致大规模饿死。

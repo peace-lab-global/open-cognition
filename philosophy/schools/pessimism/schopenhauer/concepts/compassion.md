@@ -1,0 +1,136 @@
+---
+id: schopenhauer-compassion
+title: 同情伦理 · Compassion Ethics
+type: concept
+parent: schopenhauer
+domain: philosophy
+tags:
+  - compassion
+  - ethics
+  - Mitleid
+  - principium-individuationis
+  - tat-tvam-asi
+  - 同情
+  - 伦理学
+  - 个体化原理
+  - 道德
+---
+
+# 同情伦理 / Compassion Ethics
+
+> "一切真正的善行，其源泉不是理性认识，而是直观的同情认识。"
+> "The source of all genuine virtue is not rational knowledge but intuitive knowledge through compassion."
+> — Schopenhauer, *Die Welt als Wille und Vorstellung*, Book IV, §67
+
+---
+
+## 概述 / Overview
+
+叔本华的伦理学是西方哲学史上最具原创性的道德理论之一。他拒绝康德的义务论（deontological ethics）和边沁/密尔的功利主义（utilitarianism），提出了以**同情**（Mitleid）为唯一道德基础的伦理学。同情的形而上学根基在于意志同一性学说：一切个体在本体论上都是同一个意志的不同显现，同情就是对这一本体论真理的直观认识。
+
+Schopenhauer's ethics is one of the most original moral theories in the history of Western philosophy. Rejecting Kant's deontological ethics and Bentham/Mill's utilitarianism, he proposes an ethics grounded solely in **compassion** (Mitleid). Compassion's metaphysical foundation lies in the doctrine of the unity of Will: all individuals are ontologically different manifestations of one and the same Will, and compassion is the intuitive recognition of this ontological truth.
+
+---
+
+## 对康德伦理学的批判 / Critique of Kantian Ethics
+
+叔本华对康德的绝对命令（kategorischer Imperativ）进行了系统的批判，主要论点是：
+
+Schopenhauer systematically critiques Kant's categorical imperative, with these main arguments:
+
+1. **绝对命令预设了理性的自主性**——但叔本华论证理性只是意志的工具，不具备独立的道德立法能力。理性告诉我们"如何做"，但不能告诉我们"应当做什么"。
+2. **绝对命令是空洞的形式主义**——"只按你同时愿意它成为普遍法则的那个准则去行动"这一公式在实际道德困境中不能提供具体指导。
+3. **义务概念是隐蔽的神学遗产**——康德试图在没有上帝的情况下保留上帝的"律令"概念，这在叔本华看来是自相矛盾的。
+
+1. **The categorical imperative presupposes reason's autonomy** — but Schopenhauer argues that reason is merely Will's instrument, lacking independent moral legislative capacity. Reason tells us "how to do" but cannot tell us "what we ought to do."
+2. **The categorical imperative is empty formalism** — the formula "act only on that maxim whereby you can at the same time will that it should become a universal law" provides no concrete guidance in actual moral dilemmas.
+3. **The concept of duty is a covert theological inheritance** — Kant attempted to retain the concept of divine "command" without God, which Schopenhauer considers self-contradictory.
+
+---
+
+## 同情（Mitleid）作为道德基础 / Mitleid as the Foundation of Morality
+
+叔本华认为，一切真正的道德行为都可以还原为**同情**（Mitleid，字面义为"共同受苦"）这一基本情感。他将人类行为的所有可能动机分为三类：
+
+Schopenhauer holds that all genuine moral action can be reduced to the basic sentiment of **compassion** (Mitleid, literally "suffering-with"). He classifies all possible motives of human action into three categories:
+
+| 动机类型 | 德语 | 特征 | 道德评价 |
+|----------|------|------|----------|
+| 利己主义 | Egoismus | 追求自身幸福 | 道德上中性（绝大多数行为的动机） |
+| 恶意 | Bosheit | 追求他者痛苦 | 道德上邪恶 |
+| **同情** | **Mitleid** | **追求他者幸福/减轻他者痛苦** | **道德上善良** |
+
+| Motive Type | German | Character | Moral Evaluation |
+|-------------|--------|-----------|-----------------|
+| Egoism | Egoismus | Pursuing one's own well-being | Morally neutral (motive of most actions) |
+| Malice | Bosheit | Pursuing others' suffering | Morally evil |
+| **Compassion** | **Mitleid** | **Pursuing others' well-being / alleviating others' suffering** | **Morally good** |
+
+同情不是理性的产物（不是"推理出"他者的痛苦而决定帮助），而是直接的、直观的**共感**——在他者的痛苦中直接感受到自己的痛苦。当同情发生时，自我与他者的界限暂时被打破："我"不再只是"我"，而是同时也在"他者"之中。
+
+Compassion is not a product of reason (not "reasoning out" that others suffer and deciding to help) but a direct, intuitive **co-feeling** — directly experiencing one's own suffering in the suffering of others. When compassion occurs, the boundary between self and other is temporarily broken: "I" am no longer merely "I" but am simultaneously "in the other."
+
+---
+
+## 个体化原理的穿透 / Penetrating the Principium Individuationis
+
+同情的形而上学基础是叔本华对**个体化原理**（principium individuationis）的分析。这个拉丁术语指的是：空间和时间——作为充足理由律的形式——使同一个意志显现为无数彼此分离的个体。在表象层面，"我"和"你"是两个不同的存在；但在本体层面，我们都是同一个意志。
+
+Compassion's metaphysical foundation is Schopenhauer's analysis of the **principium individuationis**. This Latin term means: space and time — as forms of the principle of sufficient reason — cause one and the same Will to appear as countless separate individuals. At the level of representation, "I" and "you" are distinct beings; but at the noumenal level, we are all one and the same Will.
+
+同情就是**穿透个体化原理的面纱**——在直观中认识到他者与自我在本体上的同一性。当一个人真正"看到"另一个人的痛苦时，他所看到的不仅是"那个人的痛苦"，而是**意志本身的痛苦**——而这正是他自己的痛苦。
+
+Compassion is **penetrating the veil of the principium individuationis** — recognizing in intuition the ontological identity of other and self. When one truly "sees" another's suffering, what one sees is not merely "that person's suffering" but **the suffering of the Will itself** — which is precisely one's own suffering.
+
+叔本华将这种洞见与印度教的伟大格言**"汝即彼"**（tat tvam asi，出自《歌者奥义书》Chāndogya Upaniṣad）相联系：每一个有意识的存在者都可以对另一个存在者说出这句话——因为在最深层面，"你"和"我"是同一个实在（梵/意志）的不同显现。
+
+Schopenhauer links this insight to the great Hindu formula **"tat tvam asi"** (thou art that, from the Chāndogya Upaniṣad): every conscious being can say this to every other being — because at the deepest level, "you" and "I" are different manifestations of the same reality (Brahman/Will).
+
+---
+
+## 正义与仁爱的根源 / The Roots of Justice and Benevolence
+
+叔本华从同情推导出两种基本美德：
+
+Schopenhauer derives two fundamental virtues from compassion:
+
+**正义（Gerechtigkeit / Justice）**——消极的美德：同情阻止我伤害他者。当我直观地认识到他者的痛苦与我自己的痛苦在本体上同一时，我自然不愿意增加这种痛苦。正义的格言是："不伤害任何人"（neminem laede）。
+
+**Justice (Gerechtigkeit)** — the negative virtue: compassion prevents me from harming others. When I intuitively recognize that others' suffering is ontologically identical with my own, I naturally become unwilling to increase that suffering. Justice's maxim: "harm no one" (neminem laede).
+
+**仁爱（Menschenliebe / Benevolence）**——积极的美德：同情驱使我主动减轻他者的痛苦。当我认识到他者的痛苦与我自己的痛苦同一时，我自然愿意帮助他者。仁爱的格言是："尽力帮助一切人"（omnes, quantum potes, juva）。
+
+**Benevolence (Menschenliebe)** — the positive virtue: compassion drives me to actively alleviate others' suffering. When I recognize that others' suffering is identical with my own, I naturally become willing to help others. Benevolence's maxim: "help everyone as much as you can" (omnes, quantum potes, juva).
+
+---
+
+## 同情的扩展：动物伦理 / The Extension of Compassion: Animal Ethics
+
+叔本华的同情伦理天然地扩展到动物领域。既然动物也拥有意志（虽然处于较低的客体化等级），它们的痛苦在本体论上与人类的痛苦是同一的。叔本华强烈批评了将动物排除在道德关怀之外的传统（尤其是康德的立场），并积极参与了当时德国的动物保护运动。
+
+Schopenhauer's compassion ethics naturally extends to the animal domain. Since animals also possess Will (though at a lower grade of objectification), their suffering is ontologically identical with human suffering. Schopenhauer strongly criticised the tradition of excluding animals from moral concern (especially Kant's position) and was actively involved in the German animal protection movement of his time.
+
+他论证说，一个人对待动物的方式是其道德品质的可靠指标——对动物残忍的人在根本上缺乏同情能力，因此在道德上是低劣的。这一立场使叔本华成为现代动物伦理学（尤其是彼得·辛格 Peter Singer 的工作）的重要哲学先驱。
+
+He argued that one's treatment of animals is a reliable indicator of moral character — a person cruel to animals fundamentally lacks the capacity for compassion and is therefore morally deficient. This position makes Schopenhauer an important philosophical precursor of modern animal ethics (especially Peter Singer's work).
+
+---
+
+## 与佛教慈悲（karuṇā）的平行 / Parallel with Buddhist Karuṇā
+
+叔本华的同情概念与佛教的**慈悲**（karuṇā）之间存在深刻的结构平行。佛教的慈悲是对一切众生苦难的感同身受和拔苦愿望，它是四无量心（brahmavihāra）之一，也是菩萨道的核心德性。叔本华的同情同样是对他者痛苦的直接共感，同样是道德行为的唯一源泉。
+
+A deep structural parallel exists between Schopenhauer's compassion and Buddhist **karuṇā** (compassion). Buddhist compassion is empathetic identification with the suffering of all beings and the wish to relieve it; it is one of the four brahmavihāras (sublime abodes) and a central virtue of the bodhisattva path. Schopenhauer's compassion is similarly a direct co-feeling of others' suffering and the sole source of moral action.
+
+两者的关键差异在于形而上学基础：佛教的慈悲基于缘起（pratītyasamutpāda）和无我（anātman）学说——没有一个固定的"自我"可以独占痛苦；叔本华的同情则基于意志同一性——一切个体都是同一个意志的不同显现。
+
+The key difference lies in metaphysical foundations: Buddhist compassion is based on the doctrines of dependent origination (pratītyasamutpāda) and no-self (anātman) — there is no fixed "self" that can monopolise suffering; Schopenhauer's compassion is based on the unity of Will — all individuals are different manifestations of one and the same Will.
+
+---
+
+## 相关条目 / Related Entries
+
+- [意志作为物自体 / Will as Thing-in-Itself](will-as-thing-in-itself.md) — 同情的形而上学基础
+- [悲观主义 / Pessimism](pessimism.md) — 同情所回应的普遍痛苦
+- [意志的否定 / Denial of Will](denial-of-will.md) — 同情的最高表达
+- [叔本华 · README](../README.md) — 返回总条目

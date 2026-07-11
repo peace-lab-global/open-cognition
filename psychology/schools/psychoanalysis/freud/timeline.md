@@ -1,0 +1,81 @@
+# 西格蒙德·弗洛伊德 · Sigmund Freud - 生平年表 / Life Timeline
+
+## 早年生活与教育 / Early Life and Education (1856–1885)
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1856 | 5月6日出生于摩拉维亚弗莱堡（今捷克普日博尔），父亲雅各布·弗洛伊德是犹太羊毛商人 / Born May 6 in Freiberg, Moravia (now Příbor, Czech Republic); father Jakob Freud was a Jewish wool merchant |
+| 1859 | 全家迁居莱比锡，旋即迁至维也纳 / Family moved to Leipzig, then shortly after to Vienna |
+| 1865 | 进入维也纳的利奥波德施塔特实科中学 / Entered the Leopoldstädter Kommunal-Realgymnasium in Vienna |
+| 1873 | 进入维也纳大学医学院 / Entered the University of Vienna Faculty of Medicine |
+| 1876 | 开始在恩斯特·布吕克的生理学研究实验室工作，研究鱼类脊髓神经细胞 / Began working in Ernst Brücke's physiology research laboratory, studying fish spinal cord nerve cells |
+| 1879 | 服兵役一年 / Served one year of military service |
+| 1881 | 获得医学博士学位（3月）/ Received M.D. degree (March) |
+| 1882 | 与玛尔塔·贝尔奈斯订婚；进入维也纳总医院工作，先后在多个科室轮转 / Engaged to Martha Bernays; entered Vienna General Hospital, rotating through several departments |
+| 1884 | 发表关于可卡因药理作用的论文（*Über Coca*），引发争议 / Published paper on the pharmacology of cocaine (*Über Coca*), sparking controversy |
+| 1885 | 被任命为维也纳大学神经病理学 Privatdozent（讲师）；9月赴巴黎跟随沙可学习 / Appointed Privatdozent in neuropathology at University of Vienna; September, traveled to Paris to study under Charcot |
+
+## 精神分析的创立 / Founding of Psychoanalysis (1886–1905)
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1886 | 回到维也纳，开设私人诊所治疗神经症；与玛尔塔·贝尔奈斯结婚（9月14日）/ Returned to Vienna, opened private practice treating neuroses; married Martha Bernays (September 14) |
+| 1887 | 开始与威廉·弗利斯通信；开始使用催眠术治疗患者 / Began correspondence with Wilhelm Fliess; began using hypnosis to treat patients |
+| 1889 | 长女玛蒂尔德出生 / First daughter Mathilde born |
+| 1891 | 出版《论失语症》；全家搬至贝格加瑟19号（此后居住至1938年）/ Published *On Aphasia*; family moved to Berggasse 19 (residence until 1938) |
+| 1892 | 开始放弃催眠术，转向"集中注意"技术和"按压"技术 / Began abandoning hypnosis, turning to "concentration" and "pressure" techniques |
+| 1893 | 与布洛伊尔发表关于癔症的初步通信 / Published preliminary communication on hysteria with Breuer |
+| 1895 | 出版《癔症研究》（与布洛伊尔合著）；发展出自由联想技术 / Published *Studies on Hysteria* (with Breuer); developed the free association technique |
+| 1896 | 首次使用"精神分析"（psychoanalysis / psycho-analyse）一词；父亲雅各布去世，引发弗洛伊德的自我分析 / First used the term "psychoanalysis" (psycho-analyse); father Jakob died, triggering Freud's self-analysis |
+| 1897 | 在10月15日致弗利斯的信中首次描述俄狄浦斯情结（自我分析的核心发现）/ First described the Oedipus complex in October 15 letter to Fliess (core discovery of self-analysis) |
+| 1899 | 完成《梦的解析》的写作（出版日期标注为1900年）/ Completed writing *The Interpretation of Dreams* (publication date marked as 1900) |
+| 1900 | 《梦的解析》正式出版 / *The Interpretation of Dreams* officially published |
+| 1901 | 出版《日常生活的心理病理学》/ Published *The Psychopathology of Everyday Life* |
+| 1902 | 被任命为维也纳大学 Ausserordentlicher Professor（非常任教授）；创立"心理星期三协会" / Appointed Ausserordentlicher Professor (associate professor) at University of Vienna; founded the "Psychological Wednesday Society" |
+| 1905 | 出版《性学三论》和"朵拉"案例报告 / Published *Three Essays on the Theory of Sexuality* and the "Dora" case report |
+
+## 国际运动与理论发展 / International Movement and Theoretical Development (1906–1920)
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1906 | 开始与荣格通信 / Began correspondence with Jung |
+| 1907 | 首次与荣格会面；出版《诙谐及其与潜意识的关系》/ First meeting with Jung; published *Jokes and Their Relation to the Unconscious* |
+| 1908 | 第一届国际精神分析大会在萨尔茨堡举行（"心理星期三协会"更名为"维也纳精神分析学会"）/ First International Psychoanalytic Congress held in Salzburg ("Psychological Wednesday Society" renamed "Vienna Psychoanalytic Society") |
+| 1909 | 受邀赴美国克拉克大学演讲（与荣格、费伦齐同行），精神分析获得国际认可 / Invited to lecture at Clark University, USA (with Jung and Ferenczi); psychoanalysis gained international recognition |
+| 1910 | 国际精神分析协会（IPA）成立，荣格任首任主席 / International Psychoanalytical Association (IPA) founded, Jung as first president |
+| 1911 | 阿德勒退出维也纳精神分析学会 / Adler withdrew from the Vienna Psychoanalytic Society |
+| 1912 | 创立"秘密委员会"（Das Komitee），核心成员包括琼斯、费伦齐、亚伯拉罕、萨克斯和兰克 / Founded the "Secret Committee" (Das Komitee), core members including Jones, Ferenczi, Abraham, Sachs, and Rank |
+| 1913 | 出版《图腾与禁忌》；与荣格的关系开始破裂 / Published *Totem and Taboo*; relationship with Jung began to rupture |
+| 1914 | 荣格正式退出国际精神分析协会 / Jung officially resigned from the IPA |
+| 1915 | 发表元心理学系列论文（《本能及其命运》《压抑》《潜意识》《哀悼与忧郁》等）/ Published metapsychological papers (*Instincts and Their Vicissitudes*, *Repression*, *The Unconscious*, *Mourning and Melancholia*, etc.) |
+| 1916–17 | 发表《精神分析引论》/ Published *Introductory Lectures on Psycho-Analysis* |
+| 1920 | 出版《超越快乐原则》，提出死本能概念；女儿索菲因流感去世 / Published *Beyond the Pleasure Principle*, introducing the death instinct; daughter Sophie died of influenza |
+
+## 晚期：结构模型与文化批判 / Late Period: Structural Model and Cultural Critique (1921–1939)
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1921 | 出版《群体心理学与自我分析》/ Published *Group Psychology and the Analysis of the Ego* |
+| 1923 | 出版《自我与本我》，提出人格三元结构模型；首次发现口腔癌症状 / Published *The Ego and the Id*, proposing the tripartite personality structure model; first noticed symptoms of oral cancer |
+| 1923 | 首次口腔手术 / First oral surgery |
+| 1924 | 拒绝访问苏联的邀请 / Declined invitation to visit the Soviet Union |
+| 1925 | 女儿安娜·弗洛伊德发表关于儿童精神分析的论文 / Daughter Anna Freud published papers on child psychoanalysis |
+| 1926 | 出版《抑制、症状与焦虑》/ Published *Inhibitions, Symptoms and Anxiety* |
+| 1927 | 出版《一个幻觉的未来》/ Published *The Future of an Illusion* |
+| 1928 | 出版《陀思妥耶夫斯基与弑父者》/ Published *Dostoevsky and Parricide* |
+| 1930 | 出版《文明及其不满》；获歌德奖 / Published *Civilization and Its Discontents*; received the Goethe Prize |
+| 1932 | 与爱因斯坦通信，发表《为什么有战争？》/ Corresponded with Einstein, published *Why War?* |
+| 1933 | 出版《精神分析新引论》；纳粹在德国焚毁弗洛伊德的著作 / Published *New Introductory Lectures on Psycho-Analysis*; Nazis burned Freud's books in Germany |
+| 1934 | 多次接受口腔癌放射治疗 / Underwent multiple radiation treatments for oral cancer |
+| 1936 | 安娜·弗洛伊德出版《自我与防御机制》/ Anna Freud published *The Ego and the Mechanisms of Defence* |
+| 1937 | 出版《有终与无终的分析》和《分析中的建构》/ Published *Analysis Terminable and Interminable* and *Constructions in Analysis* |
+| 1938 | 3月，纳粹德国吞并奥地利（Anschluss）；在玛丽·波拿巴公主帮助下，6月获准离开维也纳前往巴黎，随后抵达伦敦 / March, Nazi Germany annexed Austria (Anschluss); with help from Princess Marie Bonaparte, permitted to leave Vienna in June for Paris, then arrived in London |
+| 1939 | 出版《摩西与一神教》；9月21日，在医师马克斯·舒尔协助下接受致命剂量吗啡注射；9月23日于伦敦去世 / Published *Moses and Monotheism*; September 21, received a lethal dose of morphine administered by physician Max Schur; died September 23 in London |
+
+## 身后影响 / Posthumous Influence
+
+| 年份 / Year | 事件 / Event |
+|:---:|:---|
+| 1953–74 | 斯特雷奇（James Strachey）主编的《弗洛伊德标准版全集》（24卷）在伦敦出版 / *The Standard Edition of the Complete Psychological Works of Sigmund Freud* (24 vols.), edited by James Strachey, published in London |
+| 1986 | 维也纳贝格加瑟19号开设弗洛伊德博物馆 / Freud Museum opened at Berggasse 19, Vienna |
+| 2002 | 伦敦弗洛伊德博物馆重新开放（弗洛伊德最后居所，20 Maresfield Gardens）/ Freud Museum London reopened (Freud's last residence, 20 Maresfield Gardens) |

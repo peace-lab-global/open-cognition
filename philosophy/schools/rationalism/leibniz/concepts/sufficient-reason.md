@@ -1,0 +1,94 @@
+---
+id: leibniz-sufficient-reason
+title: 充足理由律 · Principle of Sufficient Reason
+type: concept
+domain: philosophy
+school: rationalism
+thinker: leibniz
+tags:
+  - 充足理由律
+  - 必然性
+  - 偶然性
+  - 因果性
+  - sufficient-reason
+  - necessity
+  - contingency
+  - causality
+cross-refs:
+  - id: leibniz-monad
+    relation: 应用
+  - id: leibniz-possible-worlds
+    relation: 推论
+  - id: leibniz-best-of-all-worlds
+    relation: 应用
+---
+
+# 充足理由律 · Principle of Sufficient Reason
+
+## 概念概述 / Concept Overview
+
+充足理由律（Principle of Sufficient Reason, PSR）是莱布尼茨哲学的两大基本原则之一（另一个是矛盾律）。它断言："没有任何事情是没有理由就发生的"（Nihil est sine ratione）——任何事实、任何事件、任何存在都有其充足的理由来解释它为什么是这样而不是那样。这一原则是莱布尼茨整个形而上学体系的基石，也是近代理性主义的核心信条。
+
+The Principle of Sufficient Reason (PSR) is one of the two fundamental principles of Leibniz's philosophy (the other being the principle of contradiction). It asserts: "Nothing happens without a sufficient reason" (Nihil est sine ratione) — every fact, event, and existence has a sufficient reason explaining why it is thus and not otherwise. This principle is the cornerstone of Leibniz's entire metaphysical system and a core tenet of modern rationalism.
+
+## 两种真理 · Two Kinds of Truths
+
+莱布尼茨基于充足理由律区分了两种真理：
+
+Leibniz distinguishes two kinds of truths based on the PSR:
+
+### 推理真理 (Vérités de raisonaison / Truths of Reasoning)
+
+推理真理是**必然的**——它们的否定包含矛盾。例如："三角形有三个角"、"2+2=4"。这些真理的理由在于矛盾律（principle of contradiction）——它们的否定是自相矛盾的。推理真理在所有可能世界中都成立。
+
+Truths of reasoning are **necessary** — their negation involves contradiction. Examples: "A triangle has three angles," "2+2=4." Their reason lies in the principle of contradiction — their negation is self-contradictory. Truths of reasoning hold in all possible worlds.
+
+### 事实真理 (Vérités de fait / Truths of Fact)
+
+事实真理是**偶然的**——它们的否定不包含矛盾。例如："凯撒渡过了卢比孔河"、"太阳今天升起了"。这些真理的理由不在于矛盾律，而在于充足理由律——虽然有充分的理由解释为什么事情是这样，但理论上它也可能是另外的样子。
+
+Truths of fact are **contingent** — their negation does not involve contradiction. Examples: "Caesar crossed the Rubicon," "The sun rose today." Their reason lies not in the principle of contradiction but in the PSR — though there are sufficient reasons why things are thus, they could theoretically be otherwise.
+
+## 充足理由链与上帝 / The Chain of Sufficient Reasons and God
+
+对于任何偶然事实，我们都可以追问它的充足理由。但这个理由链不能无限回溯——否则就没有"充足的"理由了。莱布尼茨论证说，充足理由链必须终止于一个**必然的存在者**，即上帝——上帝的存在不需要外部理由，他的充足理由在于他自身的必然性。
+
+For any contingent fact, we can ask its sufficient reason. But the chain of reasons cannot regress infinitely — otherwise there would be no "sufficient" reason. Leibniz argues the chain must terminate in a **necessary being** — God — whose existence needs no external reason; His sufficient reason lies in His own necessity.
+
+> "因此，一切偶然事物的最终理由必然在一个必然的实体中，而这个实体就是上帝。"
+> "Therefore, the ultimate reason of all contingent things must lie in a necessary substance, and this substance is God."
+
+这就是莱布尼茨版本的"宇宙论论证"——从世界的偶然性推导出上帝作为必然存在的充足理由。
+
+This is Leibniz's version of the "cosmological argument" — deriving God as the necessary being from the contingency of the world.
+
+## 与佛教缘起论的对话 / Dialogue with Buddhist Dependent Origination
+
+充足理由律与佛教的"缘起论"（pratītya-samutpāda）之间存在有趣的比较空间。缘起论同样主张一切现象都有其生起的条件（因缘），没有任何事物是无因的。但两者的根本区别在于：
+
+The PSR invites comparison with Buddhist "dependent origination" (pratītya-samutpāda). Both hold that all phenomena have conditions for their arising; nothing is uncaused. But the fundamental difference lies in:
+
+- **莱布尼茨**：充足理由链有一个终点——上帝，作为必然存在者
+- **佛教**：缘起是无始无终的循环——没有"第一因"或"必然存在者"。追问"最初的因"本身就是一种无明
+
+- **Leibniz**: The sufficient-reason chain has a terminus — God, as the necessary being
+- **Buddhism**: Dependent origination is a beginningless and endless cycle — no "first cause" or "necessary being." Asking for the "original cause" is itself ignorance (avidyā)
+
+## 当代回响 / Contemporary Echoes
+
+充足理由律在当代哲学中以多种形式延续。在科学哲学中，"解释的需求"——科学理论必须提供对现象的解释——可以视为充足理由律的方法论版本。在形而上学中，关于"为什么存在某物而非什么都没有"（Why is there something rather than nothing?）的问题——莱布尼茨称之为"最根本的问题"——至今仍是形而上学的核心议题。
+
+The PSR continues in contemporary philosophy in various forms. In philosophy of science, the "demand for explanation" — that scientific theories must explain phenomena — can be seen as a methodological version of the PSR. In metaphysics, the question "Why is there something rather than nothing?" — which Leibniz called "the most fundamental question" — remains a central metaphysical issue.
+
+## 参考文献 / References
+
+- Leibniz, G. W. *Monadology*, §§32, 36–38.
+- Leibniz, G. W. *Principles of Nature and Grace*, §7.
+- Pruss, A. (2006). *The Principle of Sufficient Reason: A Reassessment*. Cambridge University Press.
+- Della Rocca, M. (2010). "PSR." *Philosophers' Imprint*, 10(12).
+
+## 相关概念 / Related Concepts
+
+- [单子论](monad.md) — 每个单子的存在都有充足理由
+- [可能世界](possible-worlds.md) — 上帝选择这个世界的充足理由
+- [最好的可能世界](best-of-all-worlds.md) — 选择的最终理由

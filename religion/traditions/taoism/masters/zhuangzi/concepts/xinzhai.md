@@ -1,0 +1,145 @@
+---
+id: xinzhai
+title: 心斋 / Fasting of the Mind (Xinzhai)
+type: concept
+domain: religion
+school: taoism
+thinker: zhuangzi
+tags: [xinzhai, meditation, emptiness, qi, 心斋, 虚静]
+parent: ../README.md
+---
+
+# 心斋 / Fasting of the Mind (Xinzhai)
+
+## 定义 / Definition
+
+心斋（xinzhai）是庄子独特的修养工夫——通过排除心智的成见、欲望和执着，达到虚空澄明的精神状态。"唯道集虚。虚者，心斋也。"只有道聚集在虚空之中；虚空就是心斋。心斋不是身体的禁食，而是心灵的净化——让心从"有"（成见、判断、知识）回到"虚"（开放、接纳、无执），从而与道相合。
+
+Xinzhai — "fasting of the mind" — is Zhuangzi's distinctive cultivation practice: attaining a state of luminous emptiness by clearing the mind of preconceptions, desires, and fixations. "Only the Dao gathers in emptiness. Emptiness is the fasting of the mind." This is not bodily fasting but mental purification — returning the mind from "having" (opinions, judgments, knowledge) to "emptiness" (openness, receptivity, non-attachment), thereby harmonizing with the Dao.
+
+## 核心文本 / Core Passages
+
+### 颜回与孔子的对话 / Dialogue Between Yan Hui and Confucius
+
+心斋出自《人间世》中颜回与孔子的对话——庄子借用儒家人物来阐述道家修养，本身就是一种寓言策略。
+
+Xinzhai appears in the dialogue between Yan Hui and Confucius in "In the World of Men" — Zhuangzi's use of Confucian figures to expound Daoist cultivation is itself a parabolic strategy.
+
+颜回说要去卫国劝谏暴君。孔子问他打算怎么做。颜回提出了几种方案，孔子一一否定。颜回问："敢问其方？"孔子说：
+
+*Yan Hui announces his plan to go to Wei to remonstrate with its tyrannical ruler. Confucius asks how he intends to proceed. Yan Hui proposes several strategies; Confucius rejects them all. Yan Hui asks: "May I venture to ask the method?" Confucius replies:*
+
+**"斋，吾将语若。"**
+*"Fast, and I will tell you."*
+
+颜回说："回之家贫，唯有饮酒食肉可以解饥。"（他以为孔子说的是身体的斋戒。）
+
+*Yan Hui says: "My family is poor — we can only relieve hunger with wine and meat." (He assumes Confucius means bodily fasting.)*
+
+孔子说出了心斋的核心定义：
+
+*Confucius then gives the core definition of xinzhai:*
+
+> **"若一志，无听之以耳而听之以心，无听之以心而听之以气。听止于耳，心止于符。气也者，虚而待物者也。唯道集虚。虚者，心斋也。"**
+
+> *"Unify your will. Do not listen with your ears but with your mind; do not listen with your mind but with your vital energy (qi). Hearing stops at the ears; the mind stops at what fits. Qi is emptiness that waits upon things. Only the Dao gathers in emptiness. Emptiness is the fasting of the mind."*
+
+## 心斋的三层进阶 / Three Stages of Xinzhai
+
+### 第一层：无听之以耳 / Stage 1: Beyond Ear-Hearing
+
+超越感官的局限——耳朵只能接收声波，不能把握事物的本质。这一层要求从感官认知提升到心智认知。
+
+Transcend the limits of the senses — ears receive only sound waves, not the essence of things. This stage elevates cognition from sensory to mental.
+
+### 第二层：无听之以心 / Stage 2: Beyond Mind-Hearing
+
+超越心智的局限——心（思维、判断、概念）只能把握与已有认知框架"相符"（符）的东西。心被成见、概念和执着所束缚。
+
+Transcend the limits of the mind — the mind (thinking, judging, conceptualizing) grasps only what "fits" its existing conceptual framework. The mind is fettered by preconceptions, concepts, and fixations.
+
+### 第三层：听之以气 / Stage 3: Listening with Qi
+
+气（qi）在这里不是物质性的气体，而是一种虚空而开放的存在状态——"虚而待物者也"。气不预设、不判断、不执着，只是虚空地等待事物的自然呈现。
+
+Qi here is not a material gas but a state of empty, open being — "emptiness waiting upon things." Qi does not presuppose, judge, or cling; it simply waits in emptiness for things to disclose themselves.
+
+## 心斋与"虚" / Xinzhai and Emptiness (Xu)
+
+"虚"是心斋的核心概念。庄子反复强调"虚"的意义：
+
+*Emptiness (xu) is the core concept of xinzhai. Zhuangzi returns to it repeatedly:*
+
+- **"虚室生白"** — 空的房间才能生出光明。心灵只有清空成见，才能照见真实。
+  *"An empty room fills with light." Only when the mind is cleared of preconceptions can it illuminate reality.*
+- **"唯道集虚"** — 道只在虚空中聚集。如果心灵充满了成见和欲望，道就无法驻留。
+  *"Only the Dao gathers in emptiness." A mind full of opinions and desires leaves no room for the Dao.*
+- **"瞻彼阙者"** — 看看那个空虚之处——吉祥止止（吉祥止于虚静之处）。
+  *"Behold that emptiness — auspiciousness rests in stillness."*
+
+## 心斋与坐忘的关系 / Xinzhai and Sitting-Forgetting (Zuowang)
+
+心斋常与《大宗师》中的"坐忘"(zuowang) 并提。坐忘是颜回的另一段对话：
+
+Xinzhai is often paired with "sitting and forgetting" (zuowang) from the "Great Ancestral Teacher" chapter:
+
+> **"堕肢体，黜聪明，离形去知，同于大通。此谓坐忘。"**
+> *"Let fall your limbs and body, dismiss your perception and intellect, leave behind your form and abandon your knowledge, become one with the Great Thoroughfare. This is called sitting and forgetting."*
+
+| 维度 Dimension | 心斋 Xinzhai | 坐忘 Zuowang |
+|------|--------|------|
+| 核心动作 Core Act | 虚（清空）Emptying | 忘（放下）Forgetting |
+| 所弃对象 What is Released | 成见、概念 Preconceptions, concepts | 身体、知识 Body, knowledge |
+| 所达状态 State Attained | 虚而待物 Emptiness awaiting things | 同于大通 One with the Great Thoroughfare |
+| 隐喻 Metaphor | 虚室 Empty room | 遗忘 Forgetting |
+
+两者本质上是同一修养工夫的不同侧面：心斋侧重"虚"（清空），坐忘侧重"忘"（放下）。
+
+The two are essentially different facets of the same cultivation: xinzhai emphasizes "emptying" (xu); zuowang emphasizes "forgetting" (wang).
+
+## 心斋与佛教"止观"的比较 / vs Buddhist Samatha-Vipasyana
+
+| 维度 Dimension | 心斋 Xinzhai | 止观 Samatha-Vipasyana |
+|------|--------|------|
+| 方法 Method | 排除成见，以气听 Clearing preconceptions, listening with qi | 止（定）+ 观（慧）Calm abiding + insight |
+| 目标 Goal | 虚（与道合一）Emptiness (unity with Dao) | 空（证悟空性）Emptiness (realizing sunyata) |
+| 对"心"的态度 Attitude toward mind | "心止于符" — 心只停在已有框架内 Mind stops at what fits | "心无所住" — 心不执着于任何处 Mind dwells nowhere |
+| 路径 Path | 减法（损之又损）Subtraction | 分析 + 直观 Analysis + direct seeing |
+| 实践特征 Character | 非系统化，寓言式 Non-systematic, parabolic | 系统化，阶次分明 Systematic, graduated |
+
+## 与当代正念 (Mindfulness) 的比较 / vs Contemporary Mindfulness
+
+心斋与当代正念修行（如卡巴金 Kabat-Zinn 的 MBSR）有显著的共鸣，但也有重要差异：
+
+Xinzhai resonates notably with contemporary mindfulness practice (e.g., Kabat-Zinn's MBSR), but important differences remain:
+
+- **共同点 Common ground**：都强调放下评判、回到当下、不被概念框架所困
+  *Both emphasize releasing judgment, returning to the present, freeing oneself from conceptual frames.*
+- **差异 Difference**：正念有系统化的练习方法（身体扫描、呼吸觉察等），心斋更接近一种态度或精神姿态
+  *Mindfulness offers systematized techniques (body scan, breath awareness); xinzhai is closer to an attitude or spiritual posture.*
+- **差异 Difference**：正念在当代常被"工具化"（减压、提高效率），这与心斋的"无用"精神相悖
+  *Mindfulness in the contemporary context is often "instrumentalized" (stress reduction, productivity), which contradicts xinzhai's spirit of "uselessness."*
+
+## 当代应用 / Contemporary Applications
+
+- **心理治疗** — 心斋的"虚而待物"与心理治疗中的"非评判性觉察"和"开放式监控"深度对应
+- **冥想实践** — 心斋为超越技术化的冥想提供了一条更根本的路径——不是"做什么"，而是"不做什么"
+- **认知科学** — "听之以气"可以理解为从概念处理 (top-down processing) 转向更直接的感觉处理 (bottom-up processing)
+- **艺术创作** — 心斋的"虚"是中国艺术创作论的核心——"澄怀味象"（宗炳）、"虚心"（苏轼）
+- **教育** — 心斋提醒教育者：真正的学习需要清空先入之见，保持"虚"的开放状态
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [老子 · 无为](../laozi/) `[发展]` 从无为到心斋——从行动原则到修养工夫
+- [坐忘](../../) `[平行]` 同一修养工夫的另一面
+- [卡巴金 · 正念](../../../../psychology/schools/cognitive/kabat-zinn/) `[平行]` 正念减压与心斋的共鸣
+- [佛教 · 止观](../../../buddhism/) `[对照]` 不同传统中的心灵修养
+
+## 进阶阅读 / Further Reading
+
+- 《庄子·人间世》（心斋段落）
+- 《庄子·大宗师》（坐忘段落）
+- Ziporyn, B. (2020). *Zhuangzi: The Complete Writings*, Ch. 4 & Ch. 6
+- 陈鼓应《庄子今注今译》
+- Roth, H. D. (1999). *Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism*
+- Komjathy, L. (2007). *Cultivating Perfection: Mysticism and Self-Transformation in Early Daoism*

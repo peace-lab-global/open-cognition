@@ -1,0 +1,135 @@
+---
+id: bowlby-john.separation-anxiety
+title: "分离焦虑 · Separation Anxiety"
+type: concept
+domain: psychology
+thinker: bowlby-john
+tags:
+  - 分离焦虑
+  - 抗议-绝望-脱离
+  - 住院儿童
+  - 社会政策
+  - separation-anxiety
+  - protest-despair-detachment
+  - hospitalised-children
+  - social-policy
+---
+
+# 分离焦虑 · Separation Anxiety
+
+## 定义 / Definition
+
+**分离焦虑**（Separation Anxiety）是指个体（尤其是婴幼儿）与依恋对象（attachment figure）分离时所体验到的痛苦情绪和相应的行为反应。在鲍尔比的依恋理论框架中，分离焦虑不是病态的表现，而是依恋行为系统正常运作的信号——它表明依恋纽带已经形成，分离被感知为对安全的威胁。
+
+**Separation Anxiety** refers to the distress emotions and corresponding behavioural responses experienced by individuals (especially infants and young children) upon separation from their attachment figure. Within Bowlby's attachment theory framework, separation anxiety is not pathological but a signal of normal attachment behavioural system functioning — it indicates that the attachment bond has formed and separation is perceived as a threat to security.
+
+鲍尔比认为，分离焦虑具有明确的进化功能：在人类进化的"适应环境"（environment of evolutionary adaptedness, EEA）中，与照顾者分离的婴幼儿面临极高的捕食和意外风险，因此分离时的痛苦反应促使婴幼儿发出信号（哭泣）和采取行动（寻找、跟随），以恢复与照顾者的接近。
+
+Bowlby argued that separation anxiety has a clear evolutionary function: in the "environment of evolutionary adaptedness" (EEA) of human evolution, infants separated from caregivers faced extremely high risks of predation and accident. Distress responses upon separation therefore prompted infants to emit signals (crying) and take action (searching, following) to restore proximity to the caregiver.
+
+## 核心机制 / Core Mechanism
+
+### 分离反应的三阶段模型 / Three-Phase Model of Separation Response
+
+鲍尔比和他的合作者詹姆斯·罗伯逊（James Robertson）通过对住院儿童的细致观察，识别出婴幼儿在与依恋对象持续分离时表现出的三个阶段反应：
+
+Through careful observation of hospitalised children, Bowlby and his collaborator James Robertson identified three phased responses that infants and young children display during prolonged separation from their attachment figure:
+
+**第一阶段：抗议（Protest）**
+The infant cries loudly, screams, calls for the absent caregiver, actively searches for them, and rejects comfort from others. The infant is in a state of acute distress and hyper-activation of the attachment system. This phase may last from hours to days.
+
+婴儿大声哭泣、尖叫、呼唤缺席的照顾者，积极寻找他们，拒绝他人的安慰。婴儿处于急性痛苦状态，依恋系统高度激活。这一阶段可能持续数小时至数天。
+
+**第二阶段：绝望（Despair）**
+The infant's crying diminishes, activity decreases, and they become withdrawn, passive, and apparently "calm." However, this apparent calm conceals deep sadness and hopelessness. The infant may sit or lie motionless, show little interest in the environment, and display signs of depression. The attachment system remains active but is increasingly inhibited as hope of reunion diminishes.
+
+婴儿的哭泣减少，活动降低，变得退缩、被动，表面上看起来"平静"。然而，这种表面的平静掩盖着深层的悲伤和绝望。婴儿可能一动不动地坐着或躺着，对环境缺乏兴趣，表现出抑郁的迹象。依恋系统仍然活跃，但随着重聚希望的减弱而越来越受到抑制。
+
+**第三阶段：脱离（Detachment）**
+The infant appears to "recover" — they may resume playing, eating, and interacting with others. However, this recovery is superficial: the infant has emotionally disengaged from the absent attachment figure. When the caregiver returns, the infant may show indifference, avoidance, or even hostility rather than the expected joy of reunion. This "pseudo-independence" is a defensive adaptation — the infant has defensively deactivated the attachment system to protect against the unbearable pain of repeated disappointment.
+
+婴儿表面上看起来"恢复"了——他们可能重新开始玩耍、进食和与他人互动。然而，这种恢复是表面的：婴儿在情感上与缺席的依恋对象脱离了。当照顾者返回时，婴儿可能表现出冷漠、回避甚至敌意，而非预期的重聚喜悦。这种"假性独立"是一种防御性适应——婴儿防御性地关闭了依恋系统，以保护自己免受反复失望的难以承受的痛苦。
+
+### 激活条件与平息条件 / Activation and Deactivation Conditions
+
+分离焦虑的激活取决于多个因素：
+
+Activation of separation anxiety depends on multiple factors:
+
+- **年龄**：6-8个月开始出现，12-18个月达到高峰，此后逐渐减弱但不会完全消失 / Onset at 6-8 months, peak at 12-18 months, gradual decline thereafter but never complete disappearance
+- **分离的性质**：短暂可预测的分离（如父母上班）与长期不可预测的分离（如住院）的影响截然不同 / Brief predictable separations (e.g., parent going to work) have very different effects from prolonged unpredictable separations (e.g., hospitalisation)
+- **替代照顾的质量**：如果有一个熟悉的、敏感的替代照顾者在场，分离焦虑会显著减轻 / If a familiar, sensitive substitute caregiver is present, separation anxiety is significantly reduced
+- **儿童的气质**：不同气质的儿童对分离的反应强度不同 / Children of different temperaments vary in the intensity of their separation response
+- **先前的依恋经验**：安全型依恋的儿童更能忍受短暂分离 / Securely attached children tolerate brief separations better
+
+## 发展脉络 / Development
+
+### 从个人观察到理论突破 / From Personal Observation to Theoretical Breakthrough
+
+分离焦虑研究的突破源于鲍尔比与詹姆斯·罗伯逊的合作。罗伯逊是一位社会工作者，1948年加入鲍尔比在塔维斯托克诊所的研究团队。他被安排到医院和托儿所拍摄婴幼儿与父母分离时的行为反应。罗伯逊拍摄的纪录片《两岁的约翰去医院》（*A Two-Year-Old Goes to Hospital*, 1952）以令人震撼的影像记录了一个幼儿在住院期间经历的抗议、绝望和脱离三个阶段。
+
+The breakthrough in separation anxiety research originated in Bowlby's collaboration with James Robertson. Robertson, a social worker, joined Bowlby's research team at the Tavistock Clinic in 1948. He was assigned to film infants' behavioural responses to separation from parents in hospitals and nurseries. Robertson's documentary film *A Two-Year-Old Goes to Hospital* (1952) captured in powerful images the three phases of protest, despair, and detachment experienced by a young child during hospitalisation.
+
+这部纪录片在当时引起了巨大的社会反响。它直接挑战了当时英国医院普遍实行的严格限制探视政策——许多医院每周仅允许父母探视一到两次，每次一小时。鲍尔比和罗伯逊的研究为改革这些政策提供了坚实的实证基础。
+
+This documentary caused enormous social impact at the time. It directly challenged the strictly limited visiting policies then prevalent in British hospitals — many hospitals permitted parents to visit only once or twice weekly, for one hour each time. Bowlby and Robertson's research provided a solid empirical foundation for reforming these policies.
+
+### 与弗洛伊德学派的分歧 / Divergence from the Freudian School
+
+鲍尔比对分离焦虑的理解与传统精神分析存在根本分歧。弗洛伊德和安娜·弗洛伊德（Anna Freud）将分离焦虑理解为"力比多投注受阻"的结果——即性心理能量无法释放导致的紧张。鲍尔比则认为分离焦虑是对真实环境威胁的直接反应——婴儿与照顾者的分离在进化意义上确实意味着危险，焦虑是对这种危险的适应性信号。
+
+Bowlby's understanding of separation anxiety fundamentally diverged from traditional psychoanalysis. Freud and Anna Freud understood separation anxiety as the result of "blocked libido cathexis" — tension from un-discharged psychosexual energy. Bowlby held that separation anxiety is a direct response to real environmental threat — separation from the caregiver genuinely signals danger in evolutionary terms, and anxiety is an adaptive signal of this danger.
+
+这一分歧反映了鲍尔比与古典精神分析之间更深层的理论分歧：鲍尔比强调"真实的关系经验"，而古典精神分析强调"内部驱力和幻想"。
+
+This divergence reflects the deeper theoretical rift between Bowlby and classical psychoanalysis: Bowlby emphasized "real relational experience," while classical psychoanalysis emphasised "internal drives and phantasy."
+
+## 临床应用 / Clinical Applications
+
+### 对儿童医疗政策的影响 / Impact on Child Healthcare Policy
+
+鲍尔比和罗伯逊的分离焦虑研究对社会政策产生了深远影响：
+
+Bowlby and Robertson's separation anxiety research had profound social policy impact:
+
+- **医院探视政策改革**：直接推动了英国NHS和全球多国医院允许父母陪护住院儿童的政策改革 / Directly drove NHS and worldwide hospital policy reform allowing parents to stay with hospitalised children
+- **托儿所和幼儿园实践**：影响了渐进式入园（gradual admission）政策——新入园的儿童逐步增加在园时间，避免突然的长时间分离 / Influenced gradual admission policies — newly enrolled children progressively increase time in care, avoiding sudden prolonged separation
+- **寄养和收养实践**：强调尽量减少儿童的安置转换次数，维护依恋关系的连续性 / Emphasised minimising placement changes for children, maintaining continuity of attachment relationships
+
+### 对心理治疗的启示 / Implications for Psychotherapy
+
+分离焦虑的概念对心理治疗有多重启示：
+
+The concept of separation anxiety has multiple implications for psychotherapy:
+
+- **治疗结束的处理**：治疗的每一次假期和中止都可能激活来访者的分离焦虑——治疗师需要关注这些时刻的情感反应 / Each therapy break and termination may activate the client's separation anxiety — therapists need to attend to emotional responses at these moments
+- **成人分离困难**：成人在伴侣出差、朋友搬迁、子女离家等情境中体验到的强烈焦虑，可能反映了早期未处理的分离焦虑模式 / Intense anxiety adults experience when partners travel, friends relocate, or children leave home may reflect early unprocessed separation anxiety patterns
+- **治疗性分离管理**：对于有严重分离焦虑史的来访者，治疗师可能需要共同制定"分离管理计划"，帮助来访者在治疗间隙使用内在化的安全基地 / For clients with severe separation anxiety histories, therapists may need to collaboratively develop "separation management plans," helping clients use internalised secure bases during therapy gaps
+
+## 与其他概念的关联 / Related Concepts
+
+- [依恋理论（Attachment Theory）](attachment-theory.md)：分离焦虑是依恋行为系统激活的核心表现
+- [安全基地（Secure Base）](secure-base.md)：安全基地的缺失是分离焦虑的触发条件
+- [内部工作模型（Internal Working Models）](internal-working-models.md)：不安全的工作模型加剧分离焦虑
+- [母性剥夺（Maternal Deprivation）](maternal-deprivation.md)：长期分离是母性剥夺的主要形式之一
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+分离焦虑的概念与中国文化中的"离愁"传统形成了深层的共鸣。中国古典文学中大量的离别诗词——"劝君更尽一杯酒，西出阳关无故人"（王维）、"执手相看泪眼，竟无语凝噎"（柳永）——表达了分离带来的深刻情感痛苦。鲍尔比的三阶段模型为这些文学表达提供了心理学解释框架：诗人们描写的不仅是分离的瞬间痛苦，还包括从"抗议"（"莫使金樽空对月"）到"绝望"（"竟无语凝噎"）再到"脱离"（表面恢复日常但内心仍有牵挂）的完整心理过程。
+
+The concept of separation anxiety resonates deeply with the Chinese literary tradition of "parting sorrow" (li chou). Classical Chinese literature abounds with farewell poems — "Drink one more cup of wine, old friend; west of Yang Pass there'll be no old friends" (Wang Wei), "Hands clasped, gazing through tearful eyes, speechless, choking" (Liu Yong) — expressing the profound emotional pain of separation. Bowlby's three-phase model provides a psychological explanatory framework for these literary expressions: the poets describe not merely the momentary pain of separation but the complete psychological process from "protest" through "despair" to "detachment."
+
+佛教对"爱别离苦"（the suffering of separation from loved ones）的理解——这是佛教"八苦"之一——与鲍尔比的分离焦虑理论形成了有意义的对话。佛教将爱别离之苦视为存在的根本特征之一，源于对无常事物的执着。鲍尔比的贡献在于揭示了这种痛苦的发展心理学机制——分离焦虑不仅是对当下丧失的反应，还通过内部工作模型影响个体对未来关系的预期和信任能力。
+
+Buddhism's understanding of "the suffering of separation from loved ones" (ai bie li ku) — one of the Eight Sufferings — creates a meaningful dialogue with Bowlby's separation anxiety theory. Buddhism regards this suffering as one of existence's fundamental characteristics, arising from attachment to impermanent things. Bowlby's contribution lies in revealing the developmental psychology mechanism of this suffering — separation anxiety is not merely a response to present loss but influences the individual's expectations and trust capacity for future relationships through internal working models.
+
+## 进阶阅读 / Further Reading
+
+- Bowlby, J. *Attachment and Loss, Vol.2: Separation: Anxiety and Anger*. New York: Basic Books, 1973.
+- Robertson, J. & Robertson, J. "Young Children in Brief Separation: A Fresh Look." *Psychoanalytic Study of the Child*, 26, 1971, 264–315.
+- Ainsworth, M.D.S. "Object Relations, Dependency, and Attachment: Three Theoretical Approaches to the Infant-Mother Relationship." *Child Development*, 40, 1969, 969–1025.
+- Film: *A Two-Year-Old Goes to Hospital* (Robertson, 1952). Available through the Robertson Films Trust.
+
+← 返回 [约翰·鲍尔比 · John Bowlby](../README.md)

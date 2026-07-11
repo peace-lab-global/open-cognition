@@ -1,0 +1,34 @@
+---
+id: parfit-future-ethics
+title: 未来伦理 · Future Ethics
+type: concept
+thinker: parfit
+domain: philosophy
+school: analytic
+tags: [population-ethics, future-generations, non-identity]
+---
+# 未来伦理 · Future Ethics
+
+## 概念定位 / Conceptual Position
+Parfit对未来世代的伦理学研究，核心问题是"非同一性问题"（Non-Identity Problem）：某些行为改变了哪些人会出生，因此无法以"对那个人有害"来批评。
+
+Parfit's ethics of future generations, centered on the Non-Identity Problem: some actions change which people will be born, so cannot be criticized as "harming that person."
+
+## 核心论述 / Core Argument
+
+### 非同一性问题 / Non-Identity Problem
+如果我们现在采取不同的环境政策，100年后出生的人将是完全不同的个体。因此，我们不能说"我们的环境破坏伤害了那些未来的人"——因为如果我们不破坏环境，那些特定的人根本不会出生。
+
+If we adopt different environmental policies now, different individuals will be born in 100 years. So we cannot say "our environmental destruction harms those future people" — because without destruction, those specific people would never have been born.
+
+### 对代际正义的影响 / Implications for Intergenerational Justice
+这使得传统的"权利"和"伤害"框架在代际问题上失效——需要新的伦理理论来处理。
+
+This makes traditional "rights" and "harm" frameworks fail for intergenerational issues — requiring new ethical theories.
+
+## 哲学意义 / Philosophical Significance
+开创了人口伦理学领域，对气候变化伦理有直接影响。
+
+## 相关概念 / Related Concepts
+- [令人厌恶的结论 Repugnant Conclusion](repugnant-conclusion.md)
+- [帕菲特主页](../README.md)

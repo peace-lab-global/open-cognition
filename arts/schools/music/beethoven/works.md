@@ -1,0 +1,122 @@
+---
+id: beethoven-works
+title: "贝多芬作品总览 · Beethoven Works Bibliography"
+type: bibliography
+domain: arts
+school: music
+thinker: beethoven
+tags: [beethoven, works, symphony, sonata, quartet, bibliography]
+cross-refs:
+  - id: beethoven
+    relation: thinker
+---
+
+# 贝多芬作品总览 · Beethoven Works Bibliography
+
+本条目收录贝多芬的主要作品，按体裁分类、以时间顺序排列，并提供中德双语标题、出版信息和历史意义。路德维希·范·贝多芬一生创作了约722部作品（含未编号作品），其中带有作品号（Op.）的正式出版物共138部。以下选录其最具代表性和历史意义的作品。
+
+This entry catalogs Beethoven's major works, organized by genre in chronological order, with bilingual Chinese-German titles, publication information, and historical significance. Ludwig van Beethoven composed approximately 722 works (including unnumbered pieces) over his lifetime, of which 138 were formally published with opus numbers (Op.). The following selects the most representative and historically significant works.
+
+## 交响曲 / Sinfonien (Symphonies)
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 / Significance |
+|------|-------------------|------|--------|---------------------|
+| 1800 | Sinfonie Nr.1 C-Dur | 第一交响曲 | Op.21 | 继承海顿传统，但已展现独特力度 |
+| 1802 | Sinfonie Nr.2 D-Dur | 第二交响曲 | Op.36 | 规模扩大，终曲充满活力 |
+| 1804 | Sinfonie Nr.3 Es-Dur "Eroica" | 第三交响曲"英雄" | Op.55 | 打破交响曲一切惯例，宣告英雄时代 |
+| 1806 | Sinfonie Nr.4 B-Dur | 第四交响曲 | Op.60 | 较为内敛，舒曼称其为"两个北欧巨人之间的纤秀希腊少女" |
+| 1808 | Sinfonie Nr.5 c-Moll | 第五交响曲"命运" | Op.67 | 四音符动机，西方文化最广为人知的音乐符号 |
+| 1808 | Sinfonie Nr.6 F-Dur "Pastorale" | 第六交响曲"田园" | Op.68 | 标题交响曲先驱，五个乐章描绘乡村生活 |
+| 1812 | Sinfonie Nr.7 A-Dur | 第七交响曲 | Op.92 | 节奏创新杰作，瓦格纳称"舞蹈的极致" |
+| 1812 | Sinfonie Nr.8 F-Dur | 第八交响曲 | Op.93 | 紧凑幽默，回归海顿精神 |
+| 1824 | Sinfonie Nr.9 d-Moll | 第九交响曲"合唱" | Op.125 | 首次引入人声合唱（席勒《欢乐颂》） |
+
+## 钢琴奏鸣曲 / Klaviersonaten (Piano Sonatas, selected)
+
+贝多芬的32首钢琴奏鸣曲被誉为钢琴音乐的"新约圣经"（与巴赫《平均律钢琴曲集》"旧约"并称）。以下选录最重要者：
+
+Beethoven's 32 piano sonatas are known as the "New Testament" of piano music (paired with Bach's *Well-Tempered Clavier* as "Old Testament"). The most important are listed below:
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 |
+|------|-------------------|------|--------|------|
+| 1795 | Klaviersonate Nr.1 f-Moll | 第一钢琴奏鸣曲 | Op.2 Nr.1 | 向海顿致敬，已显力度变化 |
+| 1798 | Klaviersonate Nr.8 c-Moll "Pathétique" | 悲怆奏鸣曲 | Op.13 | 早期情感强度的突破 |
+| 1801 | Klaviersonate Nr.14 cis-Moll "Mondscheinsonate" | 月光奏鸣曲 | Op.27 Nr.2 | 幻想曲风奏鸣曲，模糊传统结构 |
+| 1804 | Klaviersonate Nr.21 C-Dur "Waldstein" | 华德斯坦奏鸣曲 | Op.53 | 中期英雄风格的钢琴宣言 |
+| 1806 | Klaviersonate Nr.23 f-Moll "Appassionata" | 热情奏鸣曲 | Op.57 | 情感强度达到极限 |
+| 1809 | Klaviersonate Nr.24 Fis-Dur | 第二十四钢琴奏鸣曲 | Op.78 | 精致小巧，献给特蕾泽·冯·布伦斯维克 |
+| 1810 | Klaviersonate Nr.26 Es-Dur "Les Adieux" | 告别奏鸣曲 | Op.81a | 标题性奏鸣曲，描绘离别-缺席-重逢 |
+| 1816 | Klaviersonate Nr.28 A-Dur | 第二十八钢琴奏鸣曲 | Op.101 | 晚期风格的开端 |
+| 1818 | Klaviersonate Nr.29 B-Dur "Hammerklavier" | 锤子键琴奏鸣曲 | Op.106 | 钢琴奏鸣曲的极限之作，技术难度和思想深度均达巅峰 |
+| 1820 | Klaviersonate Nr.30 E-Dur | 第三十钢琴奏鸣曲 | Op.109 | 变奏曲终乐章，晚期抒情性 |
+| 1822 | Klaviersonate Nr.31 As-Dur | 第三十一钢琴奏鸣曲 | Op.110 | 赋格与悲歌的融合 |
+| 1822 | Klaviersonate Nr.32 c-Moll | 第三十二钢琴奏鸣曲 | Op.111 | 最后奏鸣曲，两乐章结构，超越性结尾 |
+
+## 弦乐四重奏 / Streichquartette (String Quartets, selected)
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 |
+|------|-------------------|------|--------|------|
+| 1800 | Streichquartett Nr.1-6 | 六首早期弦乐四重奏 | Op.18 | 继承海顿传统，已显个性 |
+| 1806 | Streichquartett Nr.7-9 "Rasumovsky" | 拉祖莫夫斯基四重奏 | Op.59 | 中期四重奏革命，规模和深度远超前辈 |
+| 1810 | Streichquartett Nr.10 Es-Dur "Harfenquartett" | 竖琴四重奏 | Op.74 | 拨弦技法的创新运用 |
+| 1814 | Streichquartett Nr.11 f-Moll "Quartetto serioso" | 严肃四重奏 | Op.95 | 浓缩、紧张的过渡性作品 |
+| 1824 | Streichquartett Nr.12 Es-Dur | 第十二弦乐四重奏 | Op.127 | 晚期四重奏的开端 |
+| 1825 | Streichquartett Nr.13 B-Dur | 第十三弦乐四重奏 | Op.130 | 六乐章，原终曲为《大赋格》 |
+| 1826 | Große Fuge B-Dur | 大赋格 | Op.133 | 原为Op.130终曲，音乐史上最极端的赋格之一 |
+| 1825 | Streichquartett Nr.14 cis-Moll | 第十四弦乐四重奏 | Op.131 | 七个不间断乐章，贝多芬自认最完美之作 |
+| 1825 | Streichquartett Nr.15 a-Moll | 第十五弦乐四重奏 | Op.132 | 包含利底亚调式"感恩之歌" |
+| 1826 | Streichquartett Nr.16 F-Dur | 第十六弦乐四重奏 | Op.135 | 最后的四重奏，"Muss es sein? Es muss sein!" |
+
+## 协奏曲 / Konzerte (Concerti)
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 |
+|------|-------------------|------|--------|------|
+| 1795 | Klavierkonzert Nr.2 B-Dur | 第二钢琴协奏曲 | Op.19 | 实际上先于第一协奏曲创作 |
+| 1797 | Klavierkonzert Nr.1 C-Dur | 第一钢琴协奏曲 | Op.15 | 莫扎特传统的延续 |
+| 1803 | Klavierkonzert Nr.3 c-Moll | 第三钢琴协奏曲 | Op.37 | 英雄风格的萌芽 |
+| 1806 | Klavierkonzert Nr.4 G-Dur | 第四钢琴协奏曲 | Op.58 | 诗意抒情，开创新协奏曲风格 |
+| 1809 | Klavierkonzert Nr.5 Es-Dur "Emperor" | 皇帝钢琴协奏曲 | Op.73 | 协奏曲的英雄风格巅峰 |
+| 1806 | Violinkonzert D-Dur | D大调小提琴协奏曲 | Op.61 | 小提琴协奏曲的里程碑 |
+
+## 歌剧与声乐作品 / Oper und Vokalwerke
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 |
+|------|-------------------|------|--------|------|
+| 1805–14 | Fidelio | 费德里奥 | Op.72 | 唯一歌剧，自由与忠贞爱情的赞歌 |
+| 1810 | Musik zu "Egmont" | 埃格蒙特配乐 | Op.84 | 为歌德戏剧配乐 |
+| 1823 | Missa Solemnis D-Dur | 庄严弥撒 | Op.123 | 贝多芬自认最伟大之作 |
+| 1808 | Chorfantasie c-Moll | 合唱幻想曲 | Op.80 | 第九交响曲的先声 |
+
+## 室内乐与其他 / Kammermusik und Sonstiges
+
+| 年份 | 原标题 / Original | 中译 | 作品号 | 意义 |
+|------|-------------------|------|--------|------|
+| 1811 | Klaviertrio Nr.7 B-Dur "Erzherzog" | 大公三重奏 | Op.97 | 钢琴三重奏的巅峰 |
+| 1804 | Kreutzer-Sonate A-Dur | 克鲁采奏鸣曲 | Op.47 | 小提琴奏鸣曲的巅峰 |
+| 1823 | Diabelli-Variationen C-Dur | 迪亚贝利变奏曲 | Op.120 | 变奏曲形式的极限探索 |
+| 1811 | 7. Sinfonie 相关 | 韦伯《邀舞》改编 | — | 配器创新 |
+
+## 遗作与未编号作品 / Posthume und unnummerierte Werke
+
+贝多芬逝世后，其遗产中发现了大量未发表的作品和手稿，其中部分以"WoO"（Werke ohne Opuszahl, 无作品号作品）编号出版。重要的遗作包括：
+
+After Beethoven's death, a large number of unpublished works and manuscripts were discovered in his estate, some published with "WoO" (Werke ohne Opuszahl, works without opus number) designations. Important posthumous works include:
+
+- **WoO 47**：三首早期钢琴奏鸣曲（"选帝侯"奏鸣曲，1783年）
+- **WoO 59**：《致爱丽丝》(Für Elise, a-Moll, 约1810年)——最广为人知的钢琴小品
+- **WoO 110**：致"永恒的爱人"书信（1812年）——音乐史上的最大谜团之一
+- **Op.138**：《莱奥诺拉序曲》第一号（费德里奥的早期版本序曲）
+- **Hess 番号**：由Willy Hess编辑的补充目录，收录约300部未编入正式目录的作品
+
+## 关键版本 / Key Editions
+
+- **Henle Urtext**（原典版）：目前最受推崇的学术版本，由G. Henle Verlag出版，基于对手稿和首版的详细比较研究。
+- **Bärenreiter Urtext**：与Henle齐名的另一原典版本，Jonathan del Mar编辑的交响曲版本尤其受推崇。
+- **Breitkopf & Härtel Gesamtausgabe**（全集版，1862–1865）：历史上的第一个全集版本，仍具参考价值。
+- **Neue Beethoven Gesamtausgabe**（新全集版）：正在出版中的最新学术全集。
+
+## 聆听路径建议 / Suggested Listening Paths
+
+- **入门 / Introductory**：第五交响曲 → "月光"奏鸣曲 → 第九交响曲 → "热情"奏鸣曲 → 《致爱丽丝》
+- **进阶 / Intermediate**：全部交响曲 → 晚期钢琴奏鸣曲 (Op.106–111) → 中期弦乐四重奏 (Op.59)
+- **深潜 / Advanced**：晚期弦乐四重奏 → 大赋格 (Op.133) → 迪亚贝利变奏曲 (Op.120) → 庄严弥撒 (Op.123)

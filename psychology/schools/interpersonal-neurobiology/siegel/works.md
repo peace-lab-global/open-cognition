@@ -1,0 +1,46 @@
+---
+id: siegel-works
+title: "西格尔著作年表 · Daniel J. Siegel Works Chronology"
+type: works
+thinker: siegel-daniel
+---
+
+# 西格尔著作年表 · Daniel J. Siegel Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 著作 / Work | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|
+| 1999 | *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are* | Guilford Press | 人际神经生物学的奠基之作；提出心智的整合模型、耐受之窗概念 / Foundational work of IPNB; proposed the integrative model of mind and window of tolerance |
+| 2003 | *Parenting from the Inside Out*（与 Mary Hartzell 合著 / with Mary Hartzell） | TarcherPerigee | 将依恋研究与神经科学转化为父母自我反思指南 / Translated attachment research and neuroscience into a parental self-reflection guide |
+| 2007 | *The Mindful Brain*（与 Marion Solomon 合著 / with Marion Solomon） | W.W. Norton | 正念冥想与神经科学的早期对话 / Early dialogue between mindfulness meditation and neuroscience |
+| 2007 | *The Developing Mind*, 2nd ed. | Guilford Press | 扩展整合框架，纳入最新神经科学研究 / Expanded the integrative framework with latest neuroscience |
+| 2010 | *Mindsight: The New Science of Personal Transformation* | Bantam Books | "心智之眼"概念的通俗阐述与临床案例 / Popular exposition of the "mindsight" concept with clinical case studies |
+| 2011 | *The Whole-Brain Child*（与 Tina Payne Bryson 合著 / with Bryson） | Bantam Books | 基于脑科学的12条育儿策略；全球畅销书 / 12 brain-based parenting strategies; international bestseller |
+| 2012 | *The Pocket Guide to Interpersonal Neurobiology* | W.W. Norton | IPNB 的系统性专业入门；汇集20余年研究成果 / Systematic professional introduction to IPNB; synthesizing 20+ years of research |
+| 2013 | *Brainstorm: The Power and Purpose of the Teenage Brain* | TarcherPerigee | 青少年大脑的重新理解——从"问题期"到"机遇期" / Reframing the adolescent brain — from "problem period" to "opportunity period" |
+| 2014 | *No-Drama Discipline*（与 Bryson 合著 / with Bryson） | Bantam Books | 基于脑科学的纪律教育方法 / Brain-based approaches to discipline and education |
+| 2018 | *Aware: The Science and Practice of Presence* | TarcherPerigee | 正念觉知的科学基础与"觉知之轮"练习 / Scientific foundations of mindful awareness and the "Wheel of Awareness" practice |
+| 2020 | *The Yes Brain*（与 Bryson 合著 / with Bryson） | Ballantine Books | 培养儿童心理弹性与整合能力的方法 / Methods for cultivating children's resilience and integrative capacity |
+| 2020 | *The Developing Mind*, 3rd ed. | Guilford Press | 整合多迷走神经理论与表观遗传学最新成果 / Integrated polyvagal theory and epigenetics findings |
+| 2023 | *IntraConnected: MWe (Me + We) as the Foundation of Well-Being* | TarcherPerigee | MWe 概念的全面阐述；关系性自我的哲学深化 / Comprehensive exposition of MWe; philosophical deepening of the relational self |
+
+## 主编丛书 / Edited Series
+
+- **Norton Series on Interpersonal Neurobiology**（W.W. Norton, 2006至今 / 2006–present）：西格尔担任主编，汇聚了该领域最重要的学术专著，包括 Schore、Cozolino、Porges、Levine、Ogden 等学者的著作。这一丛书已成为人际神经生物学领域最具影响力的学术出版平台。 / Siegel serves as series editor, bringing together the field's most important academic monographs including works by Schore, Cozolino, Porges, Levine, Ogden, and others. This series has become the most influential academic publishing platform in interpersonal neurobiology.
+
+## 重要论文与章节 / Key Papers and Chapters
+
+- Siegel, D.J. (1999). "The developing mind and the resolution of trauma: Some ideas about a practical application of interpersonal neurobiology." In J. Solomon & C. George (Eds.), *Attachment Disorganization*. Guilford Press.
+- Siegel, D.J. (2001). "Toward an interpersonal neurobiology of the developing mind: Attachment relationships, 'mindsight,' and neural integration." *Infant Mental Health Journal*, 22(1-2), 67-94.
+- Siegel, D.J. (2006). "An interpersonal neurobiology approach to psychotherapy." *Psychiatric Annals*, 36(4), 248-256.
+- Siegel, D.J. (2007). "Mindfulness training and neural integration." *Social Cognitive and Affective Neuroscience*, 2(4), 259-263.
+- Siegel, D.J. (2012). "The developing mind: How relationships and the brain interact." *Psychoanalytic Inquiry*, 32(3).
+- Siegel, D.J. (2015). "Interpersonal neurobiology, mindsight and integration." In *Handbook of Attachment*, 3rd ed., Guilford Press.
+
+## 多媒体与教育资源 / Multimedia and Educational Resources
+
+- *The Whole-Brain Child Workbook*（2015，与 Bryson 合著 / with Bryson）：基于《全脑教养法》的实践练习册 / Practice workbook based on *The Whole-Brain Child*
+- *The Yes Brain Workbook*（2021，与 Bryson 合著 / with Bryson）：培养"是的脑"的实践指南 / Practical guide for cultivating the "Yes Brain"
+- Mindsight Institute 在线课程与工作坊系列 / Mindsight Institute online courses and workshop series
+- Wheel of Awareness 引导冥想音频（多语言版本） / Wheel of Awareness guided meditation audio (multilingual versions)

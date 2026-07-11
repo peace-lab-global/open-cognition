@@ -1,0 +1,134 @@
+---
+id: kuiji-hundred-dharmas
+title: 百法明门 / Satadharma-vidyamukha (Hundred Dharmas Gate of Clarification)
+type: concept
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+tags: [hundred-dharmas, classification, citta, caitta, rupa, Abhidharma, taxonomy]
+---
+
+# 百法明门 / Satadharma-vidyamukha (Hundred Dharmas Gate of Clarification)
+
+## 定义 / Definition
+
+百法明门是唯识学将一切存在现象（dharma，法）归纳为一百种、分为五位的分类体系。它源自世亲的《大乘百法明门论》，经窥基的详细注释（《百法明门论解》）而成为法相唯识宗的入门纲领。这一体系是佛教最精密的"存在论元素周期表"，旨在帮助修行者认识"无我"（anatman）——通过分析一切法的组成，发现其中没有任何一个成分可以被认定为"自我"。
+
+The Hundred Dharmas system classifies all phenomena (dharmas) into one hundred types across five categories (panca-sthana). Originating from Vasubandhu's *Satadharma-vidyamukha Sastra* and elaborated through Kuiji's detailed commentary (*Bai-fa-ming-men-lun-jie*), it serves as the foundational taxonomy of the Faxiang school. This system is Buddhism's most precise "ontological periodic table," designed to help practitioners realize "no-self" (anatman) -- by analyzing the composition of all phenomena, one discovers that no component can be identified as "self."
+
+## 五位百法总览 / Five Categories Overview
+
+| 五位 Five Categories | 数量 Count | 梵文 Sanskrit | 特征 Characteristics |
+|------|------|------|------|
+| 心法 Mind (citta) | 8 | citta | 认识的主体功能 / Subjective cognitive functions |
+| 心所法 Mental factors | 51 | caitta / cetasika | 伴随心理活动的功能 / Accompanying mental activities |
+| 色法 Form | 11 | rupa | 物质现象 / Material phenomena |
+| 心不相应行法 Disassociated conditionings | 24 | citta-viprayukta-samskara | 既不属心也不属色的抽象概念 / Abstract concepts neither mental nor material |
+| 无为法 Unconditioned | 6 | asamskrta | 不生不灭的真实法 / Unarisen, unceasing ultimate realities |
+
+---
+
+## 1. 心法八种 / Eight Types of Mind (Citta)
+
+心法是整个百法体系的主体，即八识：
+
+The eight minds are the subjective core of the entire system -- the eight consciousnesses:
+
+| 序号 | 名称 | 梵文 | 功能 |
+|------|------|------|------|
+| 1 | 眼识 | caksur-vijnana | 视觉认知 / Visual cognition |
+| 2 | 耳识 | srotra-vijnana | 听觉认知 / Auditory cognition |
+| 3 | 鼻识 | ghrana-vijnana | 嗅觉认知 / Olfactory cognition |
+| 4 | 舌识 | jihva-vijnana | 味觉认知 / Gustatory cognition |
+| 5 | 身识 | kaya-vijnana | 触觉认知 / Tactile cognition |
+| 6 | 意识 | mano-vijnana | 思维认知 / Conceptual cognition |
+| 7 | 末那识 | manas-vijnana | 自我执着 / Self-grasping |
+| 8 | 阿赖耶识 | alaya-vijnana | 种子仓库 / Seed storehouse |
+
+前五识负责感官认知，第六识负责概念思维和判断，第七识（末那）是深层的自我执着机制，第八识（阿赖耶）是一切种子和经验的基底。
+
+The first five consciousnesses handle sensory cognition, the sixth handles conceptual thought and judgment, the seventh (manas) is the deep self-grasping mechanism, and the eighth (alaya) is the foundation of all seeds and experience.
+
+## 2. 心所法五十一种 / Fifty-One Mental Factors (Caitta)
+
+心所法是伴随心法而生起的心理功能，分为六大类：
+
+Mental factors are psychological functions that arise accompanying the mind, classified into six groups:
+
+### 遍行心所（5种）/ Universal (5)
+触、作意、受、想、思——每一个心识活动都必然伴随的五个基本心理功能。
+
+Contact (sparsa), attention (manasikara), feeling (vedana), perception (samjna), volition (cetana) -- five basic functions accompanying every cognitive act.
+
+### 别境心所（5种）/ Particular (5)
+欲、胜解、念、定、慧——在特定条件下才会生起的心理功能。
+
+Desire (chanda), determination (adhimoksa), mindfulness (smrti), concentration (samadhi), wisdom (prajna) -- functions arising only under specific conditions.
+
+### 善心所（11种）/ Wholesome (11)
+信、惭、愧、无贪、无嗔、无痴、精进、轻安、不放逸、行舍、不害——导向解脱的积极心理因素。
+
+Faith (sraddha), shame (hri), moral dread (apatrapya), non-attachment (alobha), non-hatred (advesa), non-delusion (amoha), vigor (virya), pliancy (prasrabdhi), conscientiousness (apramada), equanimity (upeksa), non-harmfulness (ahimsa) -- positive factors leading toward liberation.
+
+### 根本烦恼（6种）/ Root Afflictions (6)
+贪、嗔、痴、慢、疑、恶见——六种根本性的负面心理。
+
+Attachment (raga), aversion (pratigha), delusion (moha), pride (mana), doubt (vicikitsa), wrong views (drsti) -- six fundamental negative psychological states.
+
+### 随烦恼（20种）/ Secondary Afflictions (20)
+忿、恨、覆、恼、嫉、悭、诳、谄、害、无惭、无愧、昏沉、掉举、不信、懈怠、放逸、失念、散乱、不正知——由根本烦恼衍生的次要烦恼。
+
+Anger, resentment, concealment, spite, envy, meanness, deceit, fraud, harmfulness, shamelessness, inconsideration, torpor, restlessness, lack of faith, laziness, heedlessness, forgetfulness, distraction, non-alertness -- secondary afflictions derived from root afflictions.
+
+### 不定心所（4种）/ Indeterminate (4)
+悔、眠、寻、伺——其道德性质取决于具体情境的心理功能。
+
+Regret (kaukrtya), sleep (middha), initial application (vitarka), sustained application (vicara) -- functions whose moral quality depends on context.
+
+## 3. 色法十一种 / Eleven Forms (Rupa)
+
+色法包括五根（眼、耳、鼻、舌、身）、五境（色、声、香、味、触）和无表色（不可见的物质现象，如戒体）。唯识学认为色法也是识的变现——物质世界并非独立于心识的客观存在。
+
+Form includes the five sense organs (eye, ear, nose, tongue, body), five sense objects (color, sound, smell, taste, touch), and unmanifest form (avijnapti-rupa, invisible material phenomena such as karmic imprints). Yogacara holds that form is also a projection of consciousness -- the material world is not an objective reality independent of mind.
+
+## 4. 心不相应行法二十四种 / Twenty-Four Disassociated Conditionings
+
+这些是既不归属于心法也不归属于色法的抽象概念，包括：得、命根、众同分、异生性、无想定、灭尽定、无想报、名身、句身、文身、生、住、老、无常、流转、定异、相应、势速、次第、时、方、数、和合性、不和合性。
+
+These are abstract concepts belonging neither to mind nor to form, including: acquisition (prapti), life-faculty (jivitendriya), group homogeneity (nikaya-sabhaga), heterogeneity (prthagjanatva), non-perception samadhi, cessation samadhi, non-perception rebirth, noun-phrase, sentence-phrase, syllable-phrase, birth, duration, aging, impermanence, continuity, distinction, correspondence, speed, sequence, time, direction, number, combination, and non-combination.
+
+窥基特别指出，这些概念虽然是"假立"的（prajnapti，施设概念），但在世俗层面上有其实用功能。
+
+Kuiji particularly noted that while these are "provisionally established" (prajnapti, conceptual designations), they serve practical functions at the conventional level.
+
+## 5. 无为法六种 / Six Unconditioned Dharmas (Asamskrta)
+
+无为法是不生不灭、不增不减的真实法：
+
+The unconditioned are ultimate realities that neither arise nor cease, neither increase nor decrease:
+
+1. **虚空无为**（akasa）：空间的无限性 / The infinity of space
+2. **择灭无为**（pratisamkhya-nirodha）：通过智慧抉择而灭除烦恼 / Cessation through analytical wisdom
+3. **非择灭无为**（apratisamkhya-nirodha）：因缘不具而自然不生 / Cessation through absence of conditions
+4. **不动无为**（aninjya）：超越苦乐的不动境界 / Immovability transcending pleasure and pain
+5. **想受灭无为**（samjna-vedayita-nirodha）：灭尽定中的寂灭 / Cessation in the absorption of neither-perception-nor-non-perception
+6. **真如无为**（tathata）：事物的真实本性 / The suchness of things
+
+## 百法与"无我" / Hundred Dharmas and No-Self
+
+百法体系的根本目的不是建构一个"存在论目录"，而是通过分析证明"无我"。当一切经验现象被分解为一百种法后，修行者发现：在这一百种法中，没有任何一个可以被认定为"我"——"我"只是一个虚假的综合概念。
+
+The fundamental purpose of the Hundred Dharmas system is not to construct an "ontological catalog" but to demonstrate "no-self" through analysis. When all experiential phenomena are decomposed into one hundred dharmas, practitioners discover: among these one hundred dharmas, none can be identified as "self" -- "self" is merely a false synthetic concept.
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [三性三无性](three-natures.md) -- 百法的存在论分析 / Ontological analysis of the dharmas
+- [阿赖耶识](../asanga-vasubandhu/concepts/alaya.md) -- 百法的心识基础 / Consciousness basis
+- [现代认知科学分类](../../../cognitive-science/) -- 百法 vs 认知功能模块 / Cognitive functional modules
+
+## 进阶阅读 / Further Reading
+
+- 世亲《大乘百法明门论》/ Vasubandhu, *Satadharma-vidyamukha Sastra*
+- 窥基《百法明门论解》/ Kuiji, *Commentary on the Hundred Dharmas*
+- 普光《百法明门论疏》/ Puguang, *Sub-commentary on the Hundred Dharmas*
+- Ronkin, N. (2005). *Early Buddhist Metaphysics*. RoutledgeCurzon.

@@ -1,0 +1,21 @@
+---
+id: sen-capability-approach
+title: 能力进路 · Capability Approach · Sen
+type: concept
+domain: ethics-politics
+school: capability-approach
+thinker: sen
+tags: [capability, functioning, freedom, equality]
+cross-refs: [{id: sen, relation: thinker}, {id: rawls, relation: 批判}, {id: nussbaum, relation: 合作}]
+---
+# 能力进路 · Capability Approach
+## 一句话定义
+能力进路以**人们实际能做什么和成为什么**（能力集）替代收入或效用作为平等的度量——关注实质自由而非资源或主观满足。
+## 核心区分
+| 概念 | 定义 | 例子 |
+|---|---|---|
+| 功能性活动（Functioning） | 实际做到/成为的事 | 接受教育 |
+| 能力（Capability） | 可选择的功能性活动集合 | 有教育机会 |
+能力 > 功能性活动：重要的不只是**做到了什么**，还有**能否选择做到什么**。
+## 对罗尔斯的批判
+基本善忽视了人的异质性：残疾人、慢性病患者、孕妇即使拥有同等基本善，实际能力也更低。

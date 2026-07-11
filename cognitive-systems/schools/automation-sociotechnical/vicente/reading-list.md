@@ -1,0 +1,17 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.vicente.reading-list
+title: 维森特阅读指南
+type: reading-list
+thinker: vicente
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 维森特阅读指南
+
+## 入门
+1. Vicente, K. (1999). *Cognitive Work Analysis*. Lawrence Erlbaum.
+
+## 延伸阅读
+- Burns & Hajdukiewicz (2004). *Ecological Interface Design*.
+- Rasmussen (1986). *Information Processing*. — CWA的前驱

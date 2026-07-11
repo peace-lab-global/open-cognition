@@ -1,0 +1,23 @@
+---
+id: bentham-works
+title: 边沁作品总览
+type: works-catalogue
+domain: ethics-politics
+school: consequentialism
+thinker: bentham
+tags: [bentham, works]
+cross-refs: [{id: bentham, relation: thinker}]
+---
+
+# 边沁作品总览
+
+## 核心著作
+| 书名 | 年份 | 核心 |
+|---|---|---|
+| 《道德与立法原理导论》 | 1789 | 功利原则 |
+| 《全景监狱》 | 1791 | 监狱改革 |
+| 《义务论》 | 1834 | 应用伦理 |
+| 《宪法典》 | 1830 | 民主制度 |
+
+## 阅读路径
+入门：《导论》Ch. 1–4 → 进阶：Ch. 7（惩罚理论）→ 深潜：《全景监狱》

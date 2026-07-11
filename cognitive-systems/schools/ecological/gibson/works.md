@@ -1,0 +1,20 @@
+---
+id: cognitive-systems.school.ecological.gibson.works
+title: 吉布森核心著作 J.J. Gibson Works
+type: works
+thinker: gibson
+domain: cognitive-systems
+school: ecological
+---
+
+# 吉布森核心著作 / J.J. Gibson Key Works
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1950 | *The Perception of the Visual World* | 运动视觉 |
+| 1966 | *The Senses Considered as Perceptual Systems* | 主动感知 |
+| 1979 | *The Ecological Approach to Visual Perception* | 生态心理学 |
+
+## 二手研究
+- Reed, E. (1988). *James J. Gibson and the Psychology of Perception*.
+- Chemero, A. (2009). *Radical Embodied Cognitive Science*.

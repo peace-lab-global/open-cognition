@@ -1,0 +1,93 @@
+---
+id: buddhadasa-timeline
+title: "Timeline of Buddhadasa Bhikkhu · 佛使比丘年表"
+type: timeline
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - timeline
+  - biography
+  - 年表
+---
+
+# Timeline of Buddhadasa Bhikkhu · 佛使比丘年表
+
+---
+
+## Early Life and Ordination · 早年与受戒 (1906–1931)
+
+| Year | Event | Chinese |
+|------|-------|---------|
+| 1906 | Born Nguam Phanit on May 27 in Phumriang village, Chaiya District, Surat Thani Province, southern Thailand. Father is a Chinese-Thai shopkeeper; mother is Thai. | 5月27日出生于泰国南部素叻他尼省柴亚区蓬里昂村，原名Nguam Phanit。父亲为华裔店主，母亲为泰人。 |
+| 1915 | Begins formal schooling at the village temple school. Shows early aptitude for reading and religious texts. | 开始在村寺学校接受正规教育。展现出对阅读和宗教文本的早期天赋。 |
+| 1921 | At age 15, ordains as a novice monk (*sāmaṇera*) at the local monastery. Begins studying Pali and basic Dhamma. | 15岁时在当地寺院受沙弥戒。开始学习巴利语和基础佛法。 |
+| 1922 | Returns to lay life briefly to help with family business after father's death. | 父亲去世后短暂回归在家生活以协助家族生意。 |
+| 1926 | At age 20, re-ordains as a fully-fledged monk (*bhikkhu*) with the Pali name Indapanno ("endowed with wisdom"). | 20岁时重新受戒为比丘（*bhikkhu*），巴利法名印潘诺（"具智慧者"）。 |
+| 1927 | Travels to Bangkok to study Pali scriptures at Wat Mahathat. Passes the first three levels of Pali examinations. | 前往曼谷在玛哈泰寺学习巴利经典。通过前三级巴利文考试。 |
+| 1928 | Becomes disillusioned with the urban monastic establishment. Finds the Bangkok monastery too focused on ritual, rank, and politics rather than genuine practice. | 对城市僧伽体制感到失望。发现曼谷寺院过于关注仪式、等级和政治，而非真正的修行。 |
+| 1930 | Returns to Surat Thani. Begins wandering the forests of southern Thailand as a *dhutanga* (ascetic) practitioner, living simply in the wilderness. | 回到素叻他尼。开始在泰国南部森林中作为头陀行修行者游方，在荒野中简朴生活。 |
+| 1931 | Intensive self-study of the Pali Canon, particularly the *Majjhima Nikāya* and the *Visuddhimagga*. Begins formulating his unique interpretation of dependent origination. | 密集自学巴利经典，特别是《中部》和《清净道论》。开始形成其对缘起法的独特诠释。 |
+
+---
+
+## Founding Suan Mokkh · 创立解脱园 (1932–1959)
+
+| Year | Event | Chinese |
+|------|-------|---------|
+| 1932 | On May 24 (Vesak day), founds **Suan Mokkhabalarama** ("The Garden of the Power of Liberation") in a tract of virgin forest near Chaiya. Lives in a simple hut with his younger brother Dhammadussa. | 5月24日（卫塞节），在柴亚附近一片原始森林中创立**解脱自在园**。与弟弟法都萨住在简朴的茅棚中。 |
+| 1933 | Begins writing and publishing Dhamma articles. Early writings focus on the practical application of dependent origination. | 开始撰写和发表法文章。早期著作聚焦于缘起法的实践应用。 |
+| 1935 | Suan Mokkh begins to attract visitors and new monks. The hermitage grows organically, with simple wooden huts built among the trees. | 解脱园开始吸引访客和新比丘。静修处有机地成长，在树林间建造简朴的木棚。 |
+| 1939 | Delivers a landmark series of lectures on **suññatā** (emptiness) that establishes his reputation as an original thinker. Controversy begins — orthodox scholars question his non-traditional readings. | 发表关于**空性**的里程碑系列讲座，确立了他作为原创思想家的声誉。争议开始——正统学者质疑他的非传统解读。 |
+| 1940s | Develops his interpretation of dependent origination as a here-and-now psychological process rather than a multi-lifetime cosmological theory. This becomes his most distinctive and controversial contribution. | 发展其对缘起法的诠释——作为当下心理过程而非跨越多世的宇宙论理论。这成为他最具特色也最具争议的贡献。 |
+| 1948 | Publishes foundational essays on the relationship between Buddhism and science, arguing that the Dhamma is compatible with the scientific method. | 发表关于佛教与科学关系的基础性论文，主张法与科学方法兼容。 |
+| 1950s | Expands his teaching to include social and political dimensions. Begins articulating his vision of **Dhammic Socialism**. | 将其教导扩展到社会和政治维度。开始阐述其**法社会主义**愿景。 |
+| 1957 | Receives the honorary ecclesiastical title **Phra Thep Wisutthimethi** from the Thai Sangha — a recognition of his scholarship, though he rarely used the title. | 获得泰国僧伽授予的荣誉教衔**Phra Thep Wisutthimethi**——对其学术成就的认可，虽然他很少使用这一头衔。 |
+
+---
+
+## National and International Influence · 国内与国际影响 (1960–1985)
+
+| Year | Event | Chinese |
+|------|-------|---------|
+| 1962 | Publishes *Handbook for Mankind* (คู่มือมนุษย์), his most comprehensive and widely read work. It becomes a standard introduction to Buddhist practice in Thailand. | 出版《人类手册》，其最全面和广泛阅读的作品。成为泰国佛教修行的标准入门。 |
+| 1964 | Publishes *Heartwood of the Bodhi Tree* — his deepest exploration of emptiness. | 出版《菩提树的心材》——对空性最深的探索。 |
+| 1965 | Begins formal interreligious dialogues, meeting with Christian missionaries and theologians in Thailand. | 开始正式的宗教间对话，与在泰国的基督教传教士和神学家会面。 |
+| 1967 | Co-publishes *Christianity and Buddhism*, a record of dialogues with Christian scholars. | 合作出版《基督教与佛教》——与基督教学者对话的记录。 |
+| 1970s | Suan Mokkh becomes an international destination. Western seekers, including future teachers of the Insight Meditation movement, begin visiting. | 解脱园成为国际目的地。西方求道者，包括未来的内观运动教师，开始来访。 |
+| 1971 | Publishes *Dependent Origination: The Buddhist Law of Nature* — his most philosophically rigorous work. | 出版《缘起法：佛教的自然法则》——其最具哲学严谨性的作品。 |
+| 1973 | Publishes essays on **Dhammic Socialism**, connecting Buddhist principles to social justice and ecological responsibility. The Thai military government views this with suspicion during the Cold War. | 发表关于**法社会主义**的论文，将佛教原则与社会正义和生态责任联系起来。泰国军事政府在冷战期间对此持怀疑态度。 |
+| 1976 | Publishes *Mindfulness with Breathing* — his systematic guide to *ānāpānasati*. | 出版《安般念——以呼吸为正念》——其对安般念的系统性指南。 |
+| 1977 | Invited to lecture internationally for the first time. Travels to the United States and Europe. | 首次受邀在国际上演讲。前往美国和欧洲。 |
+| 1980s | His influence on Thai society broadens. He becomes a moral authority consulted by politicians, intellectuals, and social activists. | 其对泰国社会的影响扩大。他成为政治家、知识分子和社会活动家咨询的道德权威。 |
+| 1984 | Receives the **Order of the White Elephant** — one of Thailand's highest civilian honors — for his contributions to Thai culture and spirituality. | 获得**白象勋章**——泰国最高平民荣誉之一——以表彰其对泰国文化和灵性的贡献。 |
+| 1985 | Publishes *The Lost Morality* — a critique of modern materialism and its impact on Thai society. | 出版《失去的道德》——对现代物质主义及其对泰国社会影响的批评。 |
+
+---
+
+## Final Years and Legacy · 晚年与遗产 (1986–1993)
+
+| Year | Event | Chinese |
+|------|-------|---------|
+| 1986 | Publishes *Me and Mine*, an autobiographical account of his life and intellectual journey. | 出版《我与我的》，自传性叙述其生命和智识之旅。 |
+| 1988 | The **International Dhamma Hermitage** is established near the original Suan Mokkh, specifically designed to host international meditation retreats. | **国际法静修处**在原始解脱园附近建立，专门为国际禅修营设计。 |
+| 1989 | Health begins to decline, but he continues to teach and write. Delivers talks on the relationship between Buddhism and ecology. | 健康开始衰退，但他继续教学和写作。发表关于佛教与生态关系的法谈。 |
+| 1990 | Publishes *No Religion* — his most radical statement on interreligious unity: the highest religion is to see beyond all religions. | 出版《无宗教》——关于宗教间统一的最激进声明：最高的宗教是看透所有宗教。 |
+| 1991 | At age 85, delivers what will be among his last major public teachings — a series on the practice of emptiness in daily life. | 85岁时发表他最后的主要公开教导之一——关于日常生活中空性实践的系列讲座。 |
+| 1992 | Health deteriorates significantly. He is hospitalized but continues to teach from his hospital bed to visiting monks and laypeople. | 健康严重恶化。住院治疗，但继续在病床上向来访的比丘和在家人教导。 |
+| 1993 | Passes away peacefully on **July 8** at Suan Mokkh, at the age of 87. His funeral is attended by tens of thousands. His body is cremated in a simple ceremony, in accordance with his wishes — no elaborate rituals, no grand monuments. | 7月8日在解脱园安详圆寂，享年87岁。数万人参加其葬礼。按照其遗愿，以简朴仪式火化——没有繁复的仪式，没有宏伟的纪念碑。 |
+
+---
+
+## Posthumous Legacy · 身后遗产
+
+| Year | Event | Chinese |
+|------|-------|---------|
+| 1994 | Suan Mokkh continues operations under the guidance of senior monks. The monthly international retreat program continues uninterrupted. | 解脱园在资深比丘指导下继续运作。每月国际禅修营项目持续不中断。 |
+| 1996 | The **Buddhadasa Indapanno Archives** project begins, digitizing thousands of hours of recorded Dhamma talks. | **佛使比丘档案**项目启动，数字化数千小时的法谈录音。 |
+| 2006 | Centennial celebrations of Buddhadasa's birth held across Thailand and internationally. UNESCO recognizes his contribution to world culture. | 佛使比丘诞辰百年庆典在泰国和国际上举行。联合国教科文组织认可其对世界文化的贡献。 |
+| 2010s | Suan Mokkh Bangkok opens, bringing Buddhadasa's teachings to urban practitioners. | 曼谷解脱园开放，将佛使比丘的教导带给城市修行者。 |
+| 2020s | His writings continue to be translated into new languages. His ecological vision gains renewed relevance in the context of the global climate crisis. | 其著作继续被翻译成新的语言。在全球气候危机的背景下，其生态愿景获得新的意义。 |
+
+---
+
+Back to: [[buddhadasa]]

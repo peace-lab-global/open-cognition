@@ -1,0 +1,156 @@
+---
+id: dewey-inquiry
+title: 探究 · Inquiry
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - inquiry
+  - logic
+  - indeterminate-situation
+  - problem-solving
+  - 探究
+  - 逻辑
+  - 问题解决
+parent: dewey
+---
+
+# 探究 · Inquiry
+
+> "Inquiry is the controlled or directed transformation of an indeterminate situation into one that is so determinate in its constituent distinctions and relations as to convert the elements of the original situation into a unified whole."
+>
+> "探究是对不确定情境的有控制的或有指导的转化——将其转化为一个在构成要素的区分和关系上如此确定的情境，以致原始情境的各要素被转化为一个统一的整体。"
+>
+> — John Dewey, *Logic: The Theory of Inquiry* (1938)
+
+---
+
+## 概述 / Overview
+
+探究（Inquiry）是杜威哲学中最核心的方法论概念。在《逻辑：探究理论》（1938）中，杜威提出了一个大胆的主张：逻辑不是形式推理的规则体系，而是探究的理论——即关于如何将不确定情境转化为确定情境的方法论。这一重新定义将逻辑从抽象的形式系统中解放出来，使之成为一种活的、实践性的方法论。
+
+Inquiry is the most central methodological concept in Dewey's philosophy. In *Logic: The Theory of Inquiry* (1938), Dewey advanced a bold claim: logic is not a system of formal reasoning rules but the theory of inquiry—a methodology of transforming indeterminate situations into determinate ones. This redefinition liberated logic from abstract formal systems, making it a living, practical methodology.
+
+---
+
+## 从不确定到确定 / From Indeterminate to Determinate
+
+### 不确定情境 / The Indeterminate Situation
+
+探究始于"不确定情境"（indeterminate situation）。杜威用这个概念描述一种特定的经验状态：环境中的关系变得混乱、模糊、充满张力，个体无法确定如何行动。这种不确定不是纯主观的"困惑感"，而是情境本身的客观特征——情境中的要素确实处于不稳定的关系之中。
+
+Inquiry begins in an "indeterminate situation." Dewey used this concept to describe a specific experiential state: relations in the environment become confused, ambiguous, and tension-laden; the individual cannot determine how to act. This indeterminacy is not a purely subjective "feeling of confusion" but an objective characteristic of the situation itself—the elements of the situation are genuinely in unstable relations.
+
+不确定情境有几个重要特征：
+
+The indeterminate situation has several important features:
+
+1. **它是前反思的**：不确定情境在任何分析之前就被感受到——一种弥漫的不安、紧张或"不对劲"的感觉。/ It is pre-reflective: the indeterminate situation is felt before any analysis—a pervasive sense of unease, tension, or "something's wrong."
+2. **它是具体的**：每一次不确定情境都是独特的，有其特定的背景、要素和关系。/ It is concrete: each indeterminate situation is unique, with its specific background, elements, and relations.
+3. **它是动力性的**：不确定情境本身包含推动探究的力量——不安和紧张促使有机体寻求解决。/ It is dynamic: the indeterminate situation itself contains the driving force of inquiry—unease and tension propel the organism to seek resolution.
+
+### 确定情境 / The Determinate Situation
+
+探究的目标是将不确定情境转化为确定情境。确定情境的特征是：
+
+The aim of inquiry is to transform the indeterminate situation into a determinate one. The characteristics of a determinate situation are:
+
+1. **关系的明确性**：情境中各要素之间的区分和关系变得清晰。/ The distinctions and relations among the situation's elements become clear.
+2. **行动的可能性**：个体能够确定如何行动——不确定情境中的瘫痪被行动方向所取代。/ The individual can determine how to act—the paralysis of the indeterminate situation is replaced by a direction for action.
+3. **整体的统一性**：原本分裂的情境被重新整合为一个连贯的整体。/ The originally fractured situation is re-integrated into a coherent whole.
+
+---
+
+## 逻辑作为探究理论 / Logic as Theory of Inquiry
+
+### 对传统逻辑的批判 / Critique of Traditional Logic
+
+杜威认为传统逻辑（从亚里士多德的三段论到现代数理逻辑）犯了一个根本错误：它将逻辑视为与具体探究过程无关的形式规则体系。三段论、演绎推理和形式证明都是抽象的——它们从已经确定的前提推导出结论，但不涉及前提如何被发现、结论如何被验证。
+
+Dewey held that traditional logic (from Aristotle's syllogism to modern mathematical logic) commits a fundamental error: it treats logic as a system of formal rules unrelated to the concrete inquiry process. Syllogisms, deductive reasoning, and formal proofs are all abstract—they derive conclusions from already-established premises but do not address how premises are discovered or conclusions verified.
+
+杜威并不是要否定形式逻辑的价值，而是要将其重新定位为探究的一个环节：形式推理是探究过程中用于检验假设的工具之一，而非探究的全部。
+
+Dewey did not intend to negate the value of formal logic but to reposition it as one phase of inquiry: formal reasoning is one tool for testing hypotheses within the inquiry process, not the whole of inquiry.
+
+### 探究的逻辑 / The Logic of Inquiry
+
+杜威的"探究逻辑"是一种实践逻辑——它描述的是真实的探究过程是如何展开的。这种逻辑不是先验的规则，而是从成功的探究实践中提炼出来的方法论原则。
+
+Dewey's "logic of inquiry" is a practical logic—it describes how real inquiry processes unfold. This logic is not a set of a priori rules but methodological principles extracted from successful inquiry practice.
+
+---
+
+## 探究的模式 / The Pattern of Inquiry
+
+杜威描述了探究的一般模式（注意：这不是线性步骤，而是动态循环）：
+
+Dewey described the general pattern of inquiry (note: these are not linear steps but a dynamic cycle):
+
+### 1. 不确定情境的出现 / Emergence of the Indeterminate Situation
+
+探究始于情境的不确定性。这不是一个明确的"问题"，而是一种弥漫的不安——"有什么地方不对劲"。在科学中，这可能是一个异常现象；在日常生活中，这可能是一个预期与现实的落差。
+
+Inquiry begins with situational indeterminacy. This is not yet a clear "problem" but a pervasive unease—"something is off." In science, this might be an anomaly; in everyday life, a gap between expectation and reality.
+
+### 2. 问题的界定 / Definition of the Problem
+
+从不确定情境中提炼出具体的、可操作的问题。这一步是探究的关键——问题的界定方式决定了探究的方向。杜威强调，问题不是预先存在的，而是在探究过程中被建构的。
+
+Extracting a specific, actionable problem from the indeterminate situation. This step is crucial—the way the problem is defined determines the direction of inquiry. Dewey emphasized that problems do not pre-exist but are constructed within the inquiry process.
+
+### 3. 观察与数据收集 / Observation and Data Collection
+
+对情境中的相关要素进行系统观察。观察不是被动的感知，而是有目的的、受问题引导的主动探究。观察的结果——"数据"——不是中立的，而是在特定问题框架下被选择和组织的。
+
+Systematically observing relevant elements of the situation. Observation is not passive perception but purposeful, problem-guided active inquiry. The results of observation—"data"—are not neutral but selected and organized within a specific problem framework.
+
+### 4. 假设的形成 / Formation of Hypotheses
+
+基于观察和已有知识，形成可能的解决方案（假设）。假设是"观念的操作内容"——它们不是对现实的猜测，而是关于"如果这样做，会发生什么"的操作性提案。
+
+Based on observation and existing knowledge, forming possible solutions (hypotheses). Hypotheses are the "operational content of ideas"—not guesses about reality but operational proposals about "what will happen if we do this."
+
+### 5. 推理 / Reasoning
+
+对假设进行逻辑推理——推演其后果、检验其一致性、评估其可能性。推理在这个阶段使用形式逻辑的工具，但其目的是服务于探究，而非取代探究。
+
+Logically reasoning about hypotheses—deducing consequences, checking consistency, evaluating likelihood. Reasoning at this stage uses formal logic tools, but its purpose is to serve inquiry, not replace it.
+
+### 6. 实验检验 / Experimental Testing
+
+将假设付诸行动——通过实验、试点、原型等方式检验假设是否有效。如果检验成功（情境从不确定变为确定），探究就完成了；如果失败，探究回到更早的阶段，重新界定问题或形成新假设。
+
+Putting hypotheses into action—testing them through experiments, pilots, prototypes, etc. If the test succeeds (the situation moves from indeterminate to determinate), inquiry is complete; if it fails, inquiry returns to an earlier stage, re-defining the problem or forming new hypotheses.
+
+---
+
+## 探究与科学 / Inquiry and Science
+
+杜威认为科学方法是探究的最成熟形式——不是因为科学方法比其他形式的探究更"真实"，而是因为它将探究的各个环节都发展到了最高的自觉性和系统性。科学方法的特点——可重复性、公共可检验性、对假设的系统检验——都是探究的一般原则在特定条件下的充分实现。
+
+Dewey held that scientific method is the most mature form of inquiry—not because it is more "true" than other forms of inquiry, but because it develops each phase of inquiry to the highest degree of self-awareness and systematicity. Scientific method's characteristics—reproducibility, public testability, systematic hypothesis testing—are all full realizations of inquiry's general principles under specific conditions.
+
+---
+
+## 与其他思想家的关系 / Relations to Other Thinkers
+
+- **皮尔士 / Peirce**：杜威的探究理论直接继承并发展了皮尔士的"怀疑-信念"模型。/ Dewey's inquiry theory directly inherits and develops Peirce's "doubt-belief" model.
+- **库恩 / Kuhn**：杜威的"不确定情境"预示了库恩的"异常"（anomaly）和"范式转换"概念。/ Dewey's "indeterminate situation" anticipated Kuhn's "anomaly" and "paradigm shift" concepts.
+- **波普尔 / Popper**：两者都强调问题在知识增长中的核心地位，但波普尔聚焦于证伪，杜威则关注更广泛的探究过程。/ Both emphasized the centrality of problems in knowledge growth, but Popper focused on falsification while Dewey attended to the broader inquiry process.
+- **舍恩 / Schön**：舍恩的"反思性实践者"（reflective practitioner）理论直接建立在杜威的探究概念之上。/ Schön's "reflective practitioner" theory is directly built on Dewey's inquiry concept.
+- **设计思维 / Design Thinking**：IDEO 和斯坦福 d.school 的设计思维流程是杜威探究模式的当代实践版本。/ IDEO and Stanford d.school's design thinking processes are contemporary practical versions of Dewey's inquiry model.
+
+---
+
+## 当代意义 / Contemporary Significance
+
+- **探究式学习 / Inquiry-Based Learning**：当代教育中的探究式学习（IBL）直接根植于杜威的探究理论。/ Inquiry-Based Learning (IBL) in contemporary education is directly rooted in Dewey's inquiry theory.
+- **敏捷开发 / Agile Development**：敏捷方法论中的迭代循环——从用户故事（不确定情境）到可工作软件（确定情境）——体现了杜威的探究模式。/ The iterative cycle in agile methodology—from user stories (indeterminate situation) to working software (determinate situation)—embodies Dewey's inquiry model.
+- **医学诊断 / Medical Diagnosis**：从症状（不确定情境）到诊断和治疗方案（确定情境）的过程是杜威探究模式的典型案例。/ The process from symptoms (indeterminate situation) to diagnosis and treatment plan (determinate situation) is a paradigmatic case of Dewey's inquiry model.
+- **法律推理 / Legal Reasoning**：从案件的复杂性（不确定情境）到判决（确定情境）的过程体现了探究的逻辑。/ The process from a case's complexity (indeterminate situation) to judgment (determinate situation) embodies the logic of inquiry.
+
+---
+
+> 返回 / Back to: [杜威 Dewey](../) · [Pragmatism 实用主义](../../)

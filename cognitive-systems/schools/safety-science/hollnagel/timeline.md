@@ -1,0 +1,33 @@
+---
+id: cognitive-systems.safety-science.hollnagel-timeline
+title: 霍纳格尔思想年表
+type: timeline
+domain: cognitive-systems
+school: safety-science
+thinker: hollnagel
+tags: [hollnagel, timeline]
+cross-refs: [{id: hollnagel, relation: thinker}]
+---
+
+# 霍纳格尔思想年表
+
+- **1941** 生于丹麦
+- **1960s** 在丹麦接受高等教育，学习工程与认知科学
+- **1970s** 在丹麦瑞索国家实验室（Riso）工作，开始人因研究
+- **1980s** 发展认知可靠性分析方法，继承Rasmussen传统
+- **1987** 开始发展CREAM方法论——认知可靠性与错误分析
+- **1991** 合著 *Coping with Computers in the ATM System*
+- **1993** 合著 *Human Reliability Analysis*
+- **1998** 出版 *CREAM* — 认知可靠性与错误分析方法的系统阐述
+- **2000** 开始在多个欧洲大学和研究机构担任访问教授
+- **2004** 出版 *Barriers and Accident Prevention* — 质疑传统屏障式安全管理
+- **2005** 与David Woods和Nancy Leveson开始共同推进韧性工程
+- **2006** 合编 *Resilience Engineering: Concepts and Precepts* — 韧性工程奠基
+- **2009** 出版 *The ETTO Principle* — 效率-彻底性权衡的系统阐述
+- **2010** 开始推广FRAM方法论
+- **2012** 出版 *FRAM: The Functional Resonance Analysis Method*
+- **2014** 出版 *Safety-I and Safety-II* — Safety-II范式转换的纲领性著作
+- **2015** Safety-II理念开始在医疗和航空领域获得实践采纳
+- **2018** 出版 *Safety-II in Practice* — 面向实践者的应用指南
+- **2020** 新冠疫情中分析公共卫生系统的韧性问题
+- **2024** 逝世——留下深远的韧性工程与Safety-II思想遗产

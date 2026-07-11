@@ -1,0 +1,148 @@
+---
+id: picasso-reading-list
+title: "毕加索阅读指南 · Pablo Picasso Reading Guide"
+type: reading-list
+thinker: picasso
+domain: arts
+school: visual-arts
+tags: [reading-guide, bibliography, primary-sources, secondary-literature, Chinese-resources, online-resources]
+---
+
+# 毕加索阅读指南 · Pablo Picasso Reading Guide
+
+本阅读指南按入门、进阶和专业三个层次组织，帮助不同背景的读者系统性地进入毕加索研究。
+
+This reading guide is organized at introductory, intermediate, and advanced levels to help readers of different backgrounds systematically enter Picasso scholarship.
+
+## 入门 / Introductory
+
+适合初次接触毕加索的读者，提供全面而易懂的概览。
+
+Suited for readers encountering Picasso for the first time, providing comprehensive and accessible overviews.
+
+1. **威尔·贡培兹 / Will Gompertz**, *What Are You Looking At? 150 Years of Modern Art in the Blink of an Eye* (2012)
+   - 以幽默流畅的文笔讲述现代艺术史，毕加索章节是全书最精彩的部分之一。适合完全不了解现代艺术的读者。
+   - Narrates modern art history with humor and fluency; the Picasso chapters are among the book's finest. Ideal for readers entirely new to modern art.
+
+2. **约翰·伯格 / John Berger**, *The Success and Failure of Picasso* (1965)
+   - 伯格的批判性视角为理解毕加索提供了一个独特的社会学框架——不仅讨论艺术成就，也分析其在资本主义艺术体制中的位置。
+   - Berger's critical perspective provides a unique sociological framework for understanding Picasso—discussing not only artistic achievement but also his position within the capitalist art system.
+
+3. **罗伯特·休斯 / Robert Hughes**, *The Shock of the New* (1980), 相关章节
+   - BBC纪录片同名书籍，以生动的叙事呈现现代艺术的诞生。关于立体主义的章节是最佳入门材料之一。
+   - Companion book to the BBC documentary, presenting the birth of modern art through vivid narrative. The Cubism chapter is among the best introductory materials available.
+
+4. **中译 / Chinese Translation**: 威尔·贡培兹，《现代艺术150年》（广西师范大学出版社）
+   - 贡培兹著作的优秀中译本，适合中文读者入门。
+   - Excellent Chinese translation of Gompertz's work, suitable for Chinese-language readers beginning their study.
+
+## 进阶 / Intermediate
+
+适合已具备基本了解、希望深入特定主题的读者。
+
+Suited for readers with basic understanding who wish to deepen knowledge of specific topics.
+
+5. **John Richardson**, *A Life of Picasso* (4 vols., 1991–2021)
+   - 目前最详尽、最具文学性的毕加索传记。理查森与毕加索本人有交往，提供了大量第一手材料。第一卷《天才的挑衅》（*The Prodigy*）涵盖1881–1906年，第二卷《立体主义时期》涵盖1907–1916年。
+   - The most detailed and literary Picasso biography available. Richardson knew Picasso personally, providing abundant first-hand material. Vol. 1 *The Prodigy* covers 1881–1906; Vol. 2 covers the Cubist period 1907–1916.
+
+6. **T. J. Clark**, *Picasso and Truth: Fifty Years in Modern Art* (2021)
+   - 从哲学与政治角度重新审视毕加索五十年间的现代主义贡献。克拉克将毕加索置于维特根斯坦、尼采等思想家的对话中，提供了超越传统艺术史的分析。
+   - Reexamines Picasso's modernist contribution over fifty years from philosophical and political perspectives. Clark places Picasso in dialogue with Wittgenstein, Nietzsche, and others, offering analysis that transcends traditional art history.
+
+7. **William Rubin (ed.)**, *Picasso and Braque: Pioneering Cubism* (MoMA, 1989)
+   - MoMA同名展览的权威图录，详细记录了立体主义创始合作的全过程。包含大量高质量彩色图版和学术性论文。
+   - Authoritative catalogue of the MoMA exhibition, detailing the full course of Cubism's founding collaboration. Contains extensive high-quality color plates and scholarly essays.
+
+8. **Roland Penrose**, *Picasso: His Life and Work* (1958, rev. 1981)
+   - 经典传记，Penrose与毕加索关系密切，提供了独特的个人视角。虽然部分材料已被后来的研究超越，但仍是重要的参考文献。
+   - Classic biography; Penrose was close to Picasso, providing unique personal perspectives. While some materials have been superseded by later research, it remains an important reference.
+
+9. **中译 / Chinese Translation**: 约翰·理查森，《毕加索传》（多卷中译本）
+   - 理查森权威传记的中文译本，是深入研究毕加索最重要的中文资源之一。
+   - Chinese translation of Richardson's authoritative biography, one of the most important Chinese-language resources for in-depth Picasso study.
+
+## 专业 / Advanced
+
+适合专业研究者和深度爱好者，涉及特定学术议题与理论框架。
+
+Suited for professional researchers and dedicated enthusiasts, engaging specific academic issues and theoretical frameworks.
+
+10. **Rosalind Krauss**, *The Originality of the Avant-Garde and Other Modernist Myths* (1985)
+    - 克劳斯对先锋派"原创性"神话的批判性分析，其中关于毕加索拼贴和挪用实践的文章是结构主义与后结构主义艺术批评的经典文本。
+    - Krauss's critical analysis of the avant-garde "originality" myth; her essays on Picasso's collage and appropriation practices are classic texts of structuralist and poststructuralist art criticism.
+
+11. **Yve-Alain Bois**, *Picasso as a Thief* (2023)
+    - 深入探讨毕加索的挪用实践与原创性之间的关系，提供了对"毕加索作为窃贼"这一挑衅性命题的严肃学术分析。
+    - Explores the relationship between Picasso's appropriation practices and originality, providing serious scholarly analysis of the provocative thesis of "Picasso as thief."
+
+12. **Leo Steinberg**, "The Resonance of Cubism," *Artforum* (1967)
+    - 立体主义艺术批评的经典文本，分析了立体主义对后来艺术运动的深远影响。
+    - Classic text of Cubist art criticism, analyzing Cubism's far-reaching influence on subsequent art movements.
+
+13. **Anna Chave**, "Picasso's Demoiselles d'Avignon: Toward a Feminist Reading," *Art Journal* (1994)
+    - 从女性主义角度重新解读《亚维农少女》，是理解毕加索作品中性别政治问题的关键文本。
+    - Feminist re-reading of *Les Demoiselles d'Avignon*; a key text for understanding gender politics in Picasso's work.
+
+14. **Hal Foster**, "The 'Primitive' Unconscious of Modern Art," *October* (1985)
+    - 从精神分析和后殖民理论角度分析现代艺术中的原始主义问题，是理解毕加索挪用实践的理论基础。
+    - Analyzes Primitivism in modern art from psychoanalytic and postcolonial perspectives; foundational for understanding Picasso's appropriation practices theoretically.
+
+15. **Daniel-Henry Kahnweiler**, *The Rise of Cubism* (1920)
+    - 立体主义核心画商兼理论家的第一手记述，至今仍是理解立体主义起源的不可替代的文献。
+    - First-hand account by Cubism's central dealer-theorist; remains an irreplaceable document for understanding Cubism's origins.
+
+## 中文资源 / Chinese-Language Resources
+
+16. **邵大箴**，《西方现代美术史》毕加索章节
+    - 中国西方美术史研究的权威教材，毕加索章节提供了扎实的中文学术框架。
+    - Authoritative textbook in Chinese Western art history studies; the Picasso chapter provides a solid Chinese-language academic framework.
+
+17. **玛里娜·毕加索 / Marina Picasso**, 《我的祖父毕加索》（*Mon grand-pere*）
+    - 毕加索孙女的个人回忆录，提供了家族视角中鲜为人知的毕加索形象。
+    - Picasso's granddaughter's personal memoir, providing a little-known portrait of Picasso from the family perspective.
+
+18. **范景中编**，《毕加索研究文集》
+    - 收录了中国学者关于毕加索的重要研究论文，是了解中文学术讨论的重要窗口。
+    - Collects important research essays by Chinese scholars on Picasso; an important window into Chinese-language scholarly discourse.
+
+19. **赵力**，《毕加索早期艺术研究》
+    - 聚焦于毕加索蓝色与玫瑰时期的专门研究，填补了中文学术界在这一领域的空白。
+    - Focused study on Picasso's Blue and Rose Periods, filling a gap in Chinese-language scholarship in this area.
+
+## 在线资源 / Online Resources
+
+20. **Musee Picasso Paris** 官方网站 (museepicasso.fr)
+    - 巴黎毕加索博物馆的数字馆藏和在线展览，包含大量高分辨率图像和研究材料。
+    - Digital collections and online exhibitions from the Paris Picasso Museum, with extensive high-resolution images and research materials.
+
+21. **Museu Picasso Barcelona** 官方网站 (museupicasso.bcn.cat)
+    - 巴塞罗那毕加索博物馆的数字资源，尤其丰富的早期作品馆藏。
+    - Digital resources from the Barcelona Picasso Museum, with particularly rich early works collections.
+
+22. **MoMA** 毕加索专页 (moma.org)
+    - 纽约现代艺术博物馆的毕加索馆藏页面，包含《亚维农少女》等核心作品的高清图像和详细解读。
+    - MoMA's Picasso collection page, with high-resolution images and detailed interpretations of core works including *Les Demoiselles d'Avignon*.
+
+23. **Picasso Online** (picasso.sh)
+    - 数字化作品目录和研究数据库，是专业研究者的重要工具。
+    - Digitized works catalogue and research database; an important tool for professional researchers.
+
+## 推荐阅读顺序 / Suggested Reading Sequence
+
+**快速入门路径（约2周）/ Quick Start Path (~2 weeks):**
+1 → 2 → 4（中文读者可从贡培兹中译本开始）
+1 → 2 → 4 (Chinese readers may start with Gompertz's Chinese translation)
+
+**系统学习路径（约3个月）/ Systematic Study Path (~3 months):**
+1 → 5（第一卷） → 7 → 6 → 10 → 12
+1 → 5 (Vol. 1) → 7 → 6 → 10 → 12
+
+**专题深入路径 / Specialized Deep-Dive Paths:**
+- **立体主义专题 / Cubism topic:** 7 → 12 → 15 → 10
+- **政治艺术专题 / Political art topic:** 6 → 14 → 13
+- **原始主义专题 / Primitivism topic:** 14 → 10 → 11
+
+→ [返回毕加索主页 / Back to Picasso main](README.md)
+→ [著作年表 / Works Bibliography](works.md)
+→ [生平大事记 / Biographical Timeline](timeline.md)

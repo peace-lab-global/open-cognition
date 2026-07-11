@@ -1,0 +1,34 @@
+---
+id: cognitive-systems.safety-science.dekker-timeline
+title: 德克尔思想年表
+type: timeline
+domain: cognitive-systems
+school: safety-science
+thinker: dekker
+tags: [dekker, timeline]
+cross-refs: [{id: dekker, relation: thinker}]
+---
+
+# 德克尔思想年表
+
+- **1971** 生于荷兰
+- **1990s初** 在荷兰接受飞行员训练，获得商业飞行执照
+- **1990s** 攻读心理学博士学位，研究方向为航空人因
+- **1990s末** 开始在航空安全领域发表人因研究论文
+- **2000** 获博士学位，开始学术研究生涯
+- **2001-2005** 在欧洲和澳大利亚从事航空安全研究
+- **2006** 出版 *The Field Guide to Understanding Human Error* 第一版
+- **2007** 出版 *Just Culture: Balancing Safety and Accountability*
+- **2008** 开始在格里菲斯大学（澳大利亚）任教
+- **2009** 深化对叙事认识论的研究——事故报告如何建构"真相"
+- **2011** 出版 *Drift into Failure* — 漂移失败理论系统阐述
+- **2012** 开始与Hollnagel密切合作，推广Safety-II理念
+- **2014** 出版 *Safety Differently* — 发起Safety Differently运动
+- **2014** 出版 *The Field Guide* 第二版 — 深化叙事认识论
+- **2015** Safety Differently理念开始在医疗行业落地
+- **2016** 出版 *Just Culture* 第三版 — 恢复性公正框架深化
+- **2017** 出版 *The Safety Anarchist* — 对安全官僚化的激进批判
+- **2018** 出版小说 *The End of Heaven* — 以航空事故为背景
+- **2020** 新冠疫情期间分析公共卫生系统的漂移失败
+- **2021** 与Conklin合著 *Do Safety Differently* — 实践指南
+- **2023-至今** 持续推动全球Safety Differently运动的扩展

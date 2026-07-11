@@ -1,0 +1,93 @@
+---
+id: nozick-works
+title: "诺齐克著作年表 · Nozick Works Bibliography"
+type: bibliography
+thinker: nozick
+domain: ethics-politics
+school: libertarianism
+tags: [著作, 文献目录, 诺齐克, bibliography, works, nozick]
+cross-refs: [nozick, nozick-entitlement-theory, nozick-experience-machine, nozick-minimal-state, nozick-anarchy-state-utopia, nozick-self-ownership]
+---
+
+# 诺齐克著作年表 · Nozick Works Bibliography
+
+## 主要著作 / Major Works
+
+| 年份 | 原著标题 | 中译标题 | 出版信息 | 意义与说明 |
+|------|----------|----------|----------|------------|
+| 1963 | *A Contribution to the Probabilistic Theory of Value* | 《对价值的概率理论之贡献》 | Ph.D. dissertation, Princeton University | 博士论文，探讨决策理论中的概率价值问题，显示诺齐克早期对理性选择的兴趣 |
+| 1974 | *Anarchy, State, and Utopia* | 《无政府、国家与乌托邦》 | New York: Basic Books | 奠基之作；提出最小国家理论、资格理论和威尔特·张伯伦论证；获1975年美国国家图书奖；被视为20世纪政治哲学最重要的著作之一 |
+| 1981 | *Philosophical Explanations* | 《哲学解释》 | Cambridge, MA: Harvard University Press | 鸿篇巨制，涵盖认识论（追踪真理论）、形而上学（存在理论）、个人同一性、自由意志、价值与意义等广泛主题；展示了"解释主义"哲学方法 |
+| 1989 | *The Examined Life: Philosophical Meditations* | 《经过省思的生活：哲学沉思录》 | New York: Simon & Schuster | 哲学随笔集，探讨爱、死亡、意义、宗教、理想等主题；语调温和内省，对早期某些立场有所保留 |
+| 1993 | *The Nature of Rationality* | 《理性的本质》 | Princeton: Princeton University Press | 重构理性决策理论；提出"符号效用"和"证据效用"等创新概念；试图超越传统期望效用理论 |
+| 1997 | *Socratic Puzzles* | 《苏格拉底之谜》 | Cambridge, MA: Harvard University Press | 论文集，收录了诺齐克关于哲学方法、知识论和伦理学的论文，包括著名的"苏格拉底问答法"研究 |
+| 2001 | *Invariances: The Structure of the Objective World* | 《恒常性：客观世界的结构》 | Cambridge, MA: Harvard University Press | 最后出版的著作；探讨客观性、真理和不变性的本质；试图建立基于对称性和不变性原则的客观性理论 |
+
+---
+
+## 重要论文 / Important Articles
+
+| 年份 | 论文标题 | 发表刊物 | 说明 |
+|------|----------|----------|------|
+| 1966 | "Decision-Value and Probability" | *Theory and Decision* | 早期决策理论研究 |
+| 1967 | "Coercion" | 收录于 *Philosophy, Science, and Method* (ed. Morgenbesser, Suppes, Tarski) | 关于强制概念的开创性分析，对政治哲学和法律哲学产生重要影响 |
+| 1969 | "Newcomb's Problem and Two Principles of Choice" | 收录于 *Essays in Honor of Carl G. Hempel* (ed. Rescher) | 对纽科姆悖论的分析，提出因果决策论与证据决策论的区别，成为决策理论的经典文献 |
+| 1971 | "Moral Complications and Linguistic Structures" | *Philosophy & Public Affairs* | 探讨道德复杂性及其与语言结构的关系 |
+| 1977 | "On the Randian Argument" | *The Personalist* | 对安·兰德（Ayn Rand）伦理学的批判性分析 |
+| 1981 | "Philosophical Explanations" (excerpts) | 多个期刊 | 关于知识、自由意志和个人同一性的核心章节先行发表 |
+| 1993 | "The Nature of Rationality" (excerpts) | 多个期刊 | 理性理论核心章节的先行发表 |
+
+---
+
+## 编辑著作 / Edited Volumes
+
+| 年份 | 标题 | 出版信息 | 说明 |
+|------|------|----------|------|
+| 1970 | *Moral Concepts* (co-edited with Joel Feinberg) | Oxford University Press | 伦理学论文集 |
+
+---
+
+## 中译版本 / Chinese Translations
+
+| 原著 | 中译标题 | 译者 | 出版信息 | 备注 |
+|------|----------|------|----------|------|
+| *Anarchy, State, and Utopia* | 《无政府、国家与乌托邦》 | 何怀宏等译 | 中国社会科学出版社，2008年 | 目前最完整的中译本 |
+| *Anarchy, State, and Utopia* | 《无政府、国家和乌托邦》 | 姚大钧译 | 台北：五南图书出版公司 | 繁体中文译本 |
+| *The Examined Life* | 《经过省察的人生》 | 欧阳绛译 | 商务印书馆 | 部分章节译本 |
+| *Philosophical Explanations* | 《哲学解释》 | — | — | 尚无完整中译本，部分章节散见于各类选集 |
+
+---
+
+## 出版史与接受 / Publication History and Reception
+
+### 《无政府、国家与乌托邦》的出版过程 / Publication of *Anarchy, State, and Utopia*
+
+该书最初的书稿在出版前经历了广泛的学术讨论。诺齐克在哈佛大学的同事——包括罗尔斯本人、约翰·邓恩（John Dunn）和斯坦利·卡维尔（Stanley Cavell）——都在不同阶段对其论证提出了反馈。Basic Books的编辑对书稿的政治敏感性有所顾虑，但该书的学术质量最终说服了出版社。
+
+The original manuscript underwent extensive academic discussion before publication. Nozick's Harvard colleagues — including Rawls himself, John Dunn, and Stanley Cavell — provided feedback at various stages. Basic Books editors had concerns about the manuscript's political sensitivity, but the academic quality ultimately convinced the publisher.
+
+该书出版后获得了褒贬不一的评价。《纽约书评》的评论称其为"对罗尔斯的毁灭性回应"，而左翼学术圈则将其视为"对不平等的美化"。然而，随着时间的推移，该书被公认为20世纪政治哲学不可或缺的文本。
+
+The book received mixed reviews upon publication. *The New York Review of Books* called it "a devastating response to Rawls," while left-wing academia viewed it as "a glorification of inequality." Over time, however, it has been recognized as an indispensable text in 20th-century political philosophy.
+
+### 《哲学解释》的方法论争议 / Methodological Controversy of *Philosophical Explanations*
+
+《哲学解释》的出版在分析哲学界引发了关于哲学方法的激烈辩论。诺齐克在该书中明确拒绝了传统分析哲学中"证明"（proof）或"强制"（coercion）的方法论理想，转而提倡一种"解释"（explanation）的方法——哲学的目标不是迫使读者接受某个结论，而是提供对现象的多种可能解释。
+
+*Philosophical Explanations* provoked intense debate about philosophical method in the analytic philosophy community. Nozick explicitly rejected the traditional analytic ideal of "proof" or "coercion," advocating instead an "explanatory" method — philosophy's goal is not to force the reader to accept a conclusion but to offer multiple possible explanations of phenomena.
+
+---
+
+## 遗著与未刊文献 / Posthumous and Unpublished Works
+
+诺齐克去世后，哈佛大学的诺齐克档案中保留了大量未刊手稿和讲课笔记。部分讲义和讨论稿在学术会议上被分享，但尚未系统出版。
+
+After Nozick's death, the Nozick archive at Harvard University preserved extensive unpublished manuscripts and lecture notes. Some lecture notes and discussion papers have been shared at academic conferences but have not been systematically published.
+
+---
+
+## 延伸阅读 / Further Reading
+
+- Bader, Ralf & Meadowcroft, John, eds. *The Cambridge Companion to Nozick*. Cambridge University Press, 2011. — 包含对诺齐克每部主要著作的详细分析
+- Wolff, Jonathan. *Robert Nozick: Property, Justice and the Minimal State*. Stanford University Press, 1991. — 聚焦于《无政府、国家与乌托邦》的全面评注
+- Schmidtz, David. "Nozick's Political Philosophy." In *The Stanford Encyclopedia of Philosophy*. — 在线学术资源

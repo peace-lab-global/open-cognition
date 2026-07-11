@@ -1,0 +1,68 @@
+---
+id: fodor-timeline
+title: 福多生平年表 · Jerry Fodor Biography Timeline
+type: timeline
+domain: philosophy
+school: analytic
+thinker: fodor
+tags: [fodor, timeline, biography]
+cross-refs:
+  - id: fodor
+    relation: thinker
+---
+
+# 福多生平年表 · Jerry Fodor Biography Timeline
+
+## 早年与学术训练（1935–1968）
+
+| 年份 | 事件 |
+|------|------|
+| 1935.4.22 | 生于美国纽约市 |
+| 1952 | 进入哥伦比亚大学学习 |
+| 1956 | 获哥伦比亚大学学士学位 |
+| 1956–1960 | 在普林斯顿大学攻读哲学博士 |
+| 1960 | 获普林斯顿大学博士学位（导师：Hilary Putnam） |
+| 1961 | 开始在麻省理工学院（MIT）任教 |
+| 1961–1986 | 在MIT任教，与乔姆斯基建立深厚思想联系 |
+
+## 思维语言与计算主义（1968–1983）
+
+| 年份 | 事件 |
+|------|------|
+| 1968 | 出版 *Psychological Explanation* |
+| 1974 | 发表 "Special Sciences"——特殊科学的自主性 |
+| 1975 | 出版 *The Language of Thought*——确立思维语言假说 |
+| 1980 | 发表 "Methodological Solipsism Considered as a Research Strategy" |
+| 1981 | 出版 *Representations*——论文集 |
+| 1983 | 出版 *The Modularity of Mind*——心智模块性理论 |
+
+## 内容理论与批评（1983–2000）
+
+| 年份 | 事件 |
+|------|------|
+| 1986 | 转至罗格斯大学（Rutgers University）任哲学教授 |
+| 1987 | 出版 *Psychosemantics*——心理语义学 |
+| 1988 | 与Pylyshyn合著 "Connectionism and Cognitive Architecture"——批评联结主义 |
+| 1990 | 出版 *A Theory of Content and Other Essays* |
+| 1994 | 出版 *The Elm and the Expert* |
+| 1998 | 出版 *Concepts: Where Cognitive Science Went Wrong* |
+| 2000 | 出版 *The Mind Doesn't Work That Way*——批评进化心理学 |
+
+## 晚年与LOT重访（2000–2017）
+
+| 年份 | 事件 |
+|------|------|
+| 2003 | 出版 *Hume Variations* |
+| 2008 | 出版 *LOT 2: The Language of Thought Revisited*——LOT假说的修订 |
+| 2010 | 与Piattelli-Palmarini出版 *What Darwin Got Wrong*——批评适应主义 |
+| 2015 | 出版 *Minds, Brains, and Science* 修订版 |
+| 2017.11.29 | 在新泽西去世，享年82岁 |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 学术训练 | 1935–1968 | 哥大、普林斯顿、MIT、乔姆斯基 |
+| LOT与模块性 | 1968–1983 | 思维语言、计算主义 |
+| 内容理论 | 1983–2000 | 心理语义学、批评联结主义 |
+| LOT重访 | 2000–2017 | LOT 2、批评适应主义 |

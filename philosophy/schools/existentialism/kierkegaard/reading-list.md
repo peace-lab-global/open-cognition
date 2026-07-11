@@ -1,0 +1,169 @@
+---
+id: kierkegaard-reading-list
+title: 克尔凯郭尔进阶阅读 · Kierkegaard Reading List
+type: reading-list
+domain: philosophy
+school: existentialism
+thinker: kierkegaard
+tags: [kierkegaard, bibliography, reading-guide]
+cross-refs:
+  - id: kierkegaard
+    relation: thinker
+---
+
+# 克尔凯郭尔进阶阅读 · Kierkegaard Reading List
+
+## 一、阅读路径
+
+### 入门（3 部，2-3 周）
+
+1. **《恐惧与颤栗》**（约 150 页）-- 最短、最震撼，亚伯拉罕的信仰悖论，理解"信仰骑士"与"荒谬"
+2. **《非此即彼》选读**（"审美者的生活观" + "威廉法官的信"）-- 审美 vs 伦理的生存态度之争
+3. **《致死的疾病》第一部分**（约 80 页）-- 绝望的类型学，理解"自我关系的失衡"
+
+### 进阶（5 部，2-3 月）
+
+4. **《焦虑的概念》** -- 焦虑的现象学，"自由的可能性的可能性"
+5. **《哲学片段》** -- 信仰认识论的浓缩表达
+6. **《最后的非科学性附言》** -- 最重要的哲学著作，"真理即主观性"
+7. **《重复》** -- 存在的时间性，重复 vs 回忆
+8. **《人生道路诸阶段》** -- 三阶段的完整呈现
+
+### 深潜（持续，6 月以上）
+
+9. **《爱的作为》** -- 基督教之爱的伦理学
+10. **《基督教的实践》** -- 仿效基督的激进性
+11. **《论反讽概念》** -- 思想起源，苏格拉底的反讽
+12. **《瞬间》+ 晚期文章** -- 对丹麦国教会的攻击
+13. **日记与手稿选**（选读 Hong 编 *Journals and Papers*）-- 私人思想的宝库
+
+## 二、原典（必读）
+
+### 假名著作
+
+- Kierkegaard, S. (1843). *Either/Or: A Fragment of Life*. 2 vols. Trans. Hong & Hong. Princeton University Press, 1987.
+- Kierkegaard, S. (1843). *Fear and Trembling / Repetition*. Trans. Hong & Hong. Princeton University Press, 1983.
+- Kierkegaard, S. (1844). *The Concept of Anxiety*. Trans. Reidar Thomte. Princeton University Press, 1980.
+- Kierkegaard, S. (1844). *Philosophical Fragments*. Trans. Hong & Hong. Princeton University Press, 1985.
+- Kierkegaard, S. (1845). *Stages on Life's Way*. Trans. Hong & Hong. Princeton University Press, 1988.
+- Kierkegaard, S. (1846). *Concluding Unscientific Postscript to Philosophical Fragments*. Trans. Hong & Hong. Princeton University Press, 1992.
+
+### 署名著作
+
+- Kierkegaard, S. (1841). *The Concept of Irony*. Trans. Hong & Hong. Princeton University Press, 1989.
+- Kierkegaard, S. (1847). *Works of Love*. Trans. Hong & Hong. Princeton University Press, 1995.
+- Kierkegaard, S. (1849). *The Sickness unto Death*. Trans. Hong & Hong. Princeton University Press, 1980.
+- Kierkegaard, S. (1850). *Practice in Christianity*. Trans. Hong & Hong. Princeton University Press, 1991.
+
+### 日记
+
+- Kierkegaard, S. *Journals and Papers*. 7 vols. Ed. Hong & Hong. Indiana University Press, 1967-1978.
+- Kierkegaard, S. *Kierkegaard's Journals and Notebooks*. 11 vols. Ed. Niels Jorgen Cappelorn et al. Princeton University Press, 2007- (ongoing). -- 新的学术版日记
+
+## 三、二手研究（必读）
+
+### 传记
+
+- Garff, J. (2005). *Soren Kierkegaard: A Biography*. Trans. Bruce Kirmmse. Princeton University Press. -- 目前最权威的传记，揭示了许多私人细节
+- Hannay, A. (2001). *Kierkegaard: A Biography*. Cambridge University Press. -- 思想传记，注重哲学分析
+- Hong, H. V. (1983). *Kierkegaard's Thought*. Princeton University Press. -- Hong 夫妇的系统研究
+- Kirmmse, B. (1990). *Kierkegaard in Golden Age Denmark*. Indiana University Press. -- 丹麦黄金时代的历史语境
+
+### 专题研究
+
+- Pattison, G. (2005). *The Philosophy of Kierkegaard*. Acumen. -- 最好的系统导论
+- Weston, M. (2001). *Kierkegaard and Modern Continental Philosophy*. Routledge.
+- Evans, C. S. (1992). *Kierkegaard on Faith and the Self*. Baylor University Press.
+- Ferreira, M. J. (1991). *Transforming Vision: Imagination and Will in Kierkegaardian Faith*. Oxford University Press.
+- Mooney, M. (1991). *Knights of Faith and Resignation: Reading Kierkegaard's Fear and Trembling*. SUNY Press.
+- Lippitt, J. (2003). *Routledge Philosophy Guidebook to Kierkegaard and Fear and Trembling*. Routledge.
+- Davenport, J. J. & Rudd, A., eds. (2001). *Kierkegaard after MacIntyre*. Open Court. -- 回应麦金太尔对克尔凯郭尔的批评
+- Green, R. M. (1992). *Kierkegaard and Kant: The Hidden Debt*. SUNY Press. -- 克尔凯郭尔与康德的关系
+
+### 论文集
+
+- Stewart, J., ed. (2011). *A Companion to Kierkegaard*. Wiley-Blackwell.
+- Hannay, A. & Marino, G. D., eds. (1998). *The Cambridge Companion to Kierkegaard*. Cambridge University Press.
+
+## 四、中文资源
+
+### 中译本
+
+- 克尔凯郭尔著，京不广译《致死的疾病》。中国社会科学出版社，2013。-- 直接译自丹麦语
+- 克尔凯郭尔著，京不广译《重复》。中国社会科学出版社，2013。
+- 克尔凯郭尔著，京不广译《爱的作为》。中国社会科学出版社，2014。
+- 克尔凯郭尔著，刘继译《恐惧与颤栗》。华夏出版社，1999。
+- 克尔凯郭尔著，汤晨溪等译《非此即彼》（上下）。中国社会科学出版社，2009。
+- 克尔凯郭尔著，翁绍军等译《哲学片段》《附言》。三联书店，2000。
+- 克尔凯郭尔著，王齐等译《焦虑的概念》。中国社会科学出版社，2013。
+
+### 中文研究
+
+- 林鸿信（2005）《祁克果》。东大图书。-- 台湾地区最系统的研究
+- 林和生（2006）《克尔凯郭尔：恐惧与颤栗》。四川人民出版社。
+- 林和生（2006）《克尔凯郭尔：信仰的骑士》。四川人民出版社。
+- 王齐（2000）《走向个体生存哲学：克尔凯郭尔研究》。中国社会科学出版社。-- 大陆最早的博士论文研究
+- 杨大春（2007）《克尔凯郭尔：审美生存的 immediacy》。上海译文出版社。
+- 张祥龙（2001）《克尔凯郭尔：宗教信仰与个体生存》。-- 现象学视角
+
+## 五、克尔凯郭尔的阅读（他的思想来源）
+
+| 思想家 | 克尔凯郭尔如何阅读 | 影响方向 |
+|--------|---------------------|----------|
+| **苏格拉底** | 博士论文主题；反讽的典范 | 间接沟通的方法论来源 |
+| **黑格尔** | 深入阅读后全面批判 | 最重要的思想对手 |
+| **亚伯拉罕** | 《恐惧与颤栗》的核心案例 | 信仰悖论的原型 |
+| **约伯** | 《重复》中的核心形象 | 苦难与重复的关系 |
+| **谢林** | 1841 年柏林听讲座 | 反黑格尔的"实证哲学" |
+| **哈曼（Hamann）** | 反讽和间接沟通的先驱 | 反对理性主义 |
+| **莱辛（Lessing）** | "丑陋的鸿沟"——历史证据不能推出永恒真理 | 跳跃的必要性 |
+| **雅可比（Jacobi）** | "致命的跳跃"（salto mortale） | 信仰跳跃的概念来源 |
+
+## 六、下游（受克尔凯郭尔影响的思想家）
+
+| 思想家 | 领域 | 克尔凯郭尔的遗产 |
+|--------|------|-------------------|
+| **海德格尔** (1889-1976) | 存在论 | "向死存在"和焦虑分析直接源于克尔凯郭尔 |
+| **萨特** (1905-1980) | 存在主义 | "存在先于本质"是"主观真理"的无神论版本 |
+| **雅斯贝尔斯** (1883-1969) | 存在哲学 | "边界处境"概念 |
+| **巴特** (1886-1968) | 新正统神学 | "无限质的差异" |
+| **蒂利希** (1886-1965) | 存在神学 | "存在的勇气" |
+| **布伯** (1878-1965) | 对话哲学 | "我-你"关系中的个体性 |
+| **列维纳斯** (1906-1995) | 他者哲学 | 个体面对绝对者的不可还原性 |
+| **弗兰克尔** (1905-1997) | 意义治疗 | 绝望作为无意义的体验 |
+| **德里达** (1930-2004) | 解构主义 | 假名写作与"延异"的结构性呼应 |
+| **罗洛 · 梅** (1909-1994) | 存在心理学 | 焦虑作为创造力的来源 |
+
+## 七、跨学科
+
+### 存在心理学
+
+- May, R. (1950). *The Meaning of Anxiety*. Norton.
+- Yalom, I. (1980). *Existential Psychotherapy*. Basic Books.
+- Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. Norton.
+
+### 神学
+
+- Barth, K. (1922). *The Epistle to the Romans*. -- 克尔凯郭尔神学遗产的最大继承者
+- Tillich, P. (1952). *The Courage to Be*. -- 焦虑与存在的勇气
+- Bultmann, R. (1951). *Theology of the New Testament*. -- 存在主义释经学
+
+### 文学
+
+- Kafka, F. -- 《审判》《城堡》中的存在焦虑与荒谬
+- Camus, A. -- 《局外人》《西西弗神话》中的荒谬（虽然否认受克尔凯郭尔影响）
+- Dostoevsky, F. -- 《地下室手记》中的存在反思（平行思想家）
+
+### 电影与流行文化
+
+- Ingmar Bergman 的电影（《第七封印》《假面》）深受克尔凯郭尔影响
+- Woody Allen 的电影中的存在焦虑主题
+
+## 八、研究工具
+
+- **Soren Kierkegaard Research Centre** (SKC), University of Copenhagen -- 克尔凯郭尔研究的全球中心
+- **Soren Kierkegaard International Bibliography** -- 在线书目数据库
+- **Kierkegaard Studies Yearbook** (De Gruyter) -- 年度研究论文集
+- **Kierkegaard Studies Monograph Series** (De Gruyter) -- 专题研究系列
+- **Howard V. Hong & Edna H. Hong 编注版** *Kierkegaard's Writings* -- Princeton University Press, 26 卷，目前最权威的英译
+- **Soren Kierkegaards Samlede Værker** -- 丹麦语全集（Digital edition: sks.dk）-- 丹麦语在线全文

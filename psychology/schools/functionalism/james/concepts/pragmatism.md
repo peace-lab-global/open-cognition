@@ -1,0 +1,155 @@
+---
+id: james-pragmatism
+title: "实用主义 · Pragmatism"
+type: concept
+thinker: james-william-funct
+school: functionalism
+tags:
+  - 实用主义
+  - 真理
+  - 意义
+  - 哲学
+---
+
+# 实用主义 · Pragmatism
+
+---
+
+## 定义 / Definition
+
+**中** 实用主义（Pragmatism）是由查尔斯·桑德斯·皮尔士（Charles Sanders Peirce）创始、威廉·詹姆斯系统发展和普及的美国哲学运动。詹姆斯版本的实用主义核心主张是：一个观念的"意义"在于其实际效果（practical consequences），一个信念的"真理"在于其在经验中被验证（verification）的能力。詹姆斯将实用主义描述为"一种解决形而上学争论的方法和一种真理理论"——它既是一种方法论原则，也是一种认识论立场。
+
+**EN** Pragmatism is an American philosophical movement founded by Charles Sanders Peirce and systematically developed and popularized by William James. The core thesis of James's version of pragmatism is that the "meaning" of an idea lies in its practical consequences, and the "truth" of a belief lies in its capacity to be verified in experience. James described pragmatism as "a method of settling metaphysical disputes and a theory of truth"—it is both a methodological principle and an epistemological stance.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 实用主义方法 / The Pragmatic Method
+
+**中** 詹姆斯在1907年的《实用主义》中提出了实用主义方法的核心原则："要发现一个观念的意义，我们只需要考察它可能产生什么实际差别。"如果两个观念在所有实际效果上没有差别，那么它们在哲学上就是等价的——争论它们是"真的"还是"假的"是无意义的。
+
+例如：关于"世界是一元的还是多元的"的争论——如果一元论和多元论在所有实际经验中产生相同的结果，那么这个争论就只是一个"词语之争"。但如果一元论导致宿命论而多元论鼓励积极行动，那么这个争论就有实际意义，应该根据其实践后果来决定。
+
+**EN** In his 1907 *Pragmatism*, James proposed the core principle of the pragmatic method: "To discover the meaning of an idea, we need only examine what practical difference it could make." If two ideas make no difference in all practical effects, they are philosophically equivalent—debating whether one is "true" or "false" is meaningless.
+
+For example: the debate over "whether the world is monistic or pluralistic"—if monism and pluralism produce identical results in all practical experience, then the debate is merely a "verbal dispute." But if monism leads to fatalism while pluralism encourages active engagement, then the debate has practical significance and should be decided according to its practical consequences.
+
+### 真理的"兑现价值" / The "Cash-Value" of Truth
+
+**中** 詹姆斯用"兑现价值"（cash-value）这一生动的比喻来描述实用主义的真理观。一个观念的"真理"不是它与实在之间的静态"对应"关系，而是它在经验中被"兑现"（cashed out）的过程——它能够引导我们有效地行动、成功地预测、整合新的经验。
+
+詹姆斯区分了两种真理：
+
+1. **已被验证的真理**：已经在经验中被充分证实的观念。
+2. **可验证的真理**：有能力在经验中被验证但尚未被验证的观念。
+
+大多数我们日常使用的"真理"都属于第二类——我们相信地图上的路线是正确的，即使我们没有亲自走过每一条路。这些真理是"信用系统"的一部分，只要不遇到"拒付"（不被经验反驳），它们就被视为真的。
+
+**EN** James used the vivid metaphor of "cash-value" to describe the pragmatist theory of truth. The "truth" of an idea is not a static "correspondence" between it and reality, but the process of its being "cashed out" in experience—its ability to guide us to act effectively, predict successfully, and integrate new experience.
+
+James distinguished two types of truth:
+
+1. **Verified Truth**: Ideas that have been fully confirmed in experience.
+2. **Verifiable Truth**: Ideas that have the capacity to be verified in experience but have not yet been verified.
+
+Most "truths" we use daily belong to the second category—we believe the routes on a map are correct even though we haven't personally walked every road. These truths are part of a "credit system"; as long as they don't encounter "dishonor" (are not contradicted by experience), they are treated as true.
+
+### 真理的生成过程 / The Process of Truth-Making
+
+**中** 詹姆斯最具争议性的主张是："真理不是静态的属性，而是一个事件。观念变成真的，它被事件使之为真。"这意味着真理不是一个固定的对应关系，而是一个动态的过程——观念在与经验的交互中被验证、修正、淘汰。
+
+这一观点被批评为"相对主义"——如果真理是"有用的"，那么对不同的人不是有不同的真理吗？詹姆斯回应说，"有用"必须在"整个经验的脉络"中被理解——一个观念不能只在短期内对某些人"有用"就称为"真"，它必须在长期的、全面的、公共的经验中被验证。
+
+**EN** James's most controversial claim was: "Truth is not a static property but an event. Ideas become true, they are made true by events." This means truth is not a fixed correspondence but a dynamic process—ideas are verified, revised, and eliminated through interaction with experience.
+
+This view has been criticized as "relativism"—if truth is "useful," don't different people have different truths? James responded that "usefulness" must be understood "within the whole context of experience"—an idea cannot be called "true" merely because it is "useful" to some people in the short term; it must be verified in long-term, comprehensive, public experience.
+
+---
+
+## 发展脉络 / Historical Development
+
+**中** 实用主义的发展脉络：
+
+- **皮尔士（Peirce, 1878）**：在"如何使我们的观念清晰"（"How to Make Our Ideas Clear"）中提出了实用主义的基本原则——"考虑我们的观念的对象可能有什么实际效果……我们对这些效果的观念就是我们对该对象的全部观念。"
+- **詹姆斯（James, 1898–1907）**：将皮尔士的原则从逻辑学扩展到哲学和心理学，发展出一套完整的实用主义真理理论。1898年在加州大学的演讲"哲学概念与实际结果"中首次公开使用"实用主义"一词。
+- **杜威（Dewey）**：将实用主义发展为"工具主义"（Instrumentalism），强调观念作为"工具"在解决问题中的功能。
+- **罗蒂（Rorty, 1979）**：新实用主义者，将实用主义与后现代哲学结合，主张放弃"镜式哲学"（哲学作为"自然之镜"）。
+- **普特南（Putnam）**：将实用主义与分析哲学结合，发展"内在实在论"（Internal Realism）。
+
+**EN** The development of pragmatism:
+
+- **Peirce (1878)**: In "How to Make Our Ideas Clear," proposed the basic principle of pragmatism—"Consider what effects, which might conceivably have practical bearings, we conceive the object of our conception to have…our conception of these effects is the whole of our conception of the object."
+- **James (1898–1907)**: Extended Peirce's principle from logic to philosophy and psychology, developing a complete pragmatist theory of truth. First publicly used the term "pragmatism" in his 1898 lecture at the University of California: "Philosophical Conceptions and Practical Results."
+- **Dewey**: Developed pragmatism into "Instrumentalism," emphasizing the function of ideas as "instruments" in problem-solving.
+- **Rorty (1979)**: Neo-pragmatist who combined pragmatism with postmodern philosophy, advocating the abandonment of "mirror philosophy" (philosophy as "mirror of nature").
+- **Putnam**: Combined pragmatism with analytic philosophy, developing "Internal Realism."
+
+---
+
+## 临床应用 / Clinical Applications
+
+**中** 实用主义对心理治疗有深刻影响：
+
+- **认知行为疗法（CBT）**：CBT的核心原则——检验信念的"功能性"而非其"真理性"——直接体现了实用主义精神。治疗师不追问来访者的信念"是否客观为真"，而是问"这个信念对你有用吗？"
+- **接纳与承诺疗法（ACT）**：ACT的"工作性"（workability）概念——评估一个行为模式是否有助于来访者朝向自己重视的价值方向前进——是实用主义在心理治疗中的直接应用。
+- **问题解决疗法（PST）**：以实用主义为指导，聚焦于具体的问题解决策略而非深层的心理动力学分析。
+- **循证实践（EBP）**：心理治疗的循证实践——"什么有效"比"什么理论上应该有效"更重要——体现了实用主义的方法论。
+
+**EN** Pragmatism has profound influence on psychotherapy:
+
+- **Cognitive Behavioral Therapy (CBT)**: CBT's core principle—examining the "functionality" of beliefs rather than their "truthfulness"—directly embodies the pragmatist spirit. Therapists don't ask whether a client's belief is "objectively true" but rather "is this belief useful to you?"
+- **Acceptance and Commitment Therapy (ACT)**: ACT's concept of "workability"—evaluating whether a behavioral pattern helps the client move toward their valued life directions—is a direct application of pragmatism in psychotherapy.
+- **Problem-Solving Therapy (PST)**: Guided by pragmatism, focusing on concrete problem-solving strategies rather than deep psychodynamic analysis.
+- **Evidence-Based Practice (EBP)**: Evidence-based practice in psychotherapy—"what works" matters more than "what should theoretically work"—embodies pragmatist methodology.
+
+---
+
+## 关联概念 / Related Concepts
+
+| 概念 / Concept | 来源 / Source | 关系 / Relation |
+|---|---|---|
+| 实用主义准则 Pragmatic Maxim | 皮尔士 Peirce | 创始原则 |
+| 工具主义 Instrumentalism | 杜威 Dewey | 发展 |
+| 新实用主义 Neo-Pragmatism | 罗蒂 Rorty | 当代继承 |
+| 内在实在论 Internal Realism | 普特南 Putnam | 分析哲学版本 |
+| 工作性 Workability | ACT | 心理治疗中的应用 |
+| 方便 Upāya | 大乘佛教 | 东方平行概念 |
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**中** 实用主义与东方思想有以下对话：
+
+- **大乘佛教的"方便"（upāya）**：大乘佛教认为，佛法教义的价值在于其"引导众生离苦"的效果，而非其"本体论正确性"。"方便法门"——根据听众的根器和情境调整教法——与实用主义"观念的价值在于其效果"高度一致。《法华经》中的"化城喻"——佛陀为疲倦的旅人幻化出一座城池作为中转站——正是"方便"的经典例证。
+- **禅宗的"不立文字"**：禅宗强调超越文字和概念的直接体验——"指月之指"不是月亮本身。这与实用主义对"概念的实际效果"的关注（而非概念本身的"正确性"）有方法论呼应。
+- **道家"无用之用"**：庄子对"有用"和"无用"的辩证——"无用之用，方为大用"——与实用主义对"有用"的宽泛理解（不只是功利计算，而是全面的生活效果）形成了有趣的对话。
+- **儒家的"经权"**：儒家"经"（常道）与"权"（变通）的辩证——在坚守原则的同时灵活应对具体情境——与实用主义在真理的稳定性和可变性之间的平衡有相似的精神。
+
+**EN** Pragmatism has the following dialogues with Eastern thought:
+
+- **Mahāyāna Buddhism's "Upāya" (Skillful Means)**: Mahāyāna Buddhism holds that the value of Dharma teachings lies in their "effectiveness in guiding beings away from suffering," not in their "ontological correctness." "Skillful means"—adapting teachings to the listener's capacity and situation—is highly consistent with pragmatism's "the value of an idea lies in its effects." The "phantom city" parable in the *Lotus Sutra*—the Buddha conjuring a city as a waystation for weary travelers—is a classic illustration of upāya.
+- **Zen's "Not Establishing Words"**: Zen emphasizes direct experience beyond words and concepts—"the finger pointing at the moon is not the moon itself." This methodologically resonates with pragmatism's focus on "the practical effects of concepts" rather than the "correctness" of concepts themselves.
+- **Daoist "Usefulness of Uselessness"**: Zhuangzi's dialectic of "useful" and "useless"—"the usefulness of uselessness is the greatest usefulness"—forms an interesting dialogue with pragmatism's broad understanding of "usefulness" (not merely utilitarian calculation but comprehensive life effects).
+- **Confucian "Jing-Quan" (Principle and Flexibility)**: The Confucian dialectic of "jing" (constant principle) and "quan" (flexible adaptation)—maintaining principles while flexibly responding to specific situations—shares a similar spirit with pragmatism's balance between the stability and mutability of truth.
+
+---
+
+## 进阶阅读 / Further Reading
+
+**中**
+
+- James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. — 原典，必读
+- Peirce, C. S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*.
+- Rorty, R. (1979). *Philosophy and the Mirror of Nature*. — 新实用主义
+- 陈亚军《实用主义：从皮尔士到布兰顿》，北京大学出版社
+- 刘放桐《实用主义：美国思想的主流》，上海人民出版社
+
+**EN**
+
+- James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. — Primary source, essential reading
+- Peirce, C. S. (1878). "How to Make Our Ideas Clear." *Popular Science Monthly*.
+- Rorty, R. (1979). *Philosophy and the Mirror of Nature*. — Neo-pragmatism
+- Misak, C. (2013). *The American Pragmatists*. — Comprehensive history
+- Haack, S. (2006). "Pragmatism, Old and New." *Contemporary Pragmatism*.

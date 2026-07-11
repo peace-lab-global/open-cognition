@@ -1,0 +1,95 @@
+---
+id: luria-timeline
+title: "卢里亚思想年表 · Timeline of Luria"
+type: timeline
+domain: psychology
+school: cognitive
+thinker: luria
+tags: [timeline, biography, intellectual-history, neuropsychology]
+cross-refs:
+  - id: luria
+    relation: thinker
+---
+
+# 卢里亚思想年表
+
+## 早年 (1902-1923)
+
+- **1902** -- 7 月 16 日生于俄罗斯帝国喀山 (Kazan)。父亲 Roman Albertovich Luria 为内科医生，母亲 Evgenia Viktorovna Luria (née Haskina) 为牙医。家庭为俄罗斯犹太知识分子家庭
+- **1902-1917** -- 在喀山成长，接受传统俄语教育。自幼对心理学和精神分析产生兴趣
+- **1917** -- 俄国革命。15 岁的卢里亚开始关注新思想，特别是弗洛伊德精神分析
+- **1917-1921** -- 就读喀山大学 (Kazan University) 社会科学系，同时自学心理学。在校期间组织"精神分析小组"
+- **1921** -- 以优异成绩毕业于喀山大学。开始在喀山的教育心理学研究所工作
+- **1922** -- 发表第一篇学术论文，关于联想法 (word association method) 的研究
+
+## 莫斯科时期与文化-历史学派 (1923-1936)
+
+- **1923** -- 转至莫斯科心理研究所 (Moscow Institute of Psychology)，在 Kornilov 指导下从事反应时间研究。开始与维果茨基 (Lev Vygotsky) 建立合作关系
+- **1924** -- 与维果茨基和列昂节夫 (Aleksei Leontiev) 共同创立"文化-历史心理学"学派。三人被称为"维果茨基-列昂节夫-卢里亚"小组 (Vygotsky-Leontiev-Luria circle)
+- **1924-1927** -- 在维果茨基指导下研究语言与智力的关系，发展"结合运动法"(combined motor method) ——通过记录被试在执行词语联想任务时的运动反应来研究"情感复合体"
+- **1925** -- 完成学位论文《心理过程与运动反应的关系》
+- **1927** -- 出版《言语与智力》(Speech and Intellect)
+- **1928** -- 开始在莫斯科医学研究所工作。与维果茨基合作研究儿童发展
+- **1930-1931** -- 进入莫斯科第一医学院 (First Moscow Medical Institute) 学习医学，为转向神经科学做准备
+- **1931** -- 与 Nina V. Lane 结婚
+
+## 中亚考察 (1931-1932)
+
+- **1931** -- 率队赴中亚乌兹别克斯坦进行民族心理学考察 (Central Asian Expedition)。考察对象包括未受教育农民、接受短期培训的农民、集体农庄管理者和师范学校学生
+- **1931-1932** -- 系统研究了不同教育水平个体在分类、推理、自我意识等认知功能上的差异。发现：未受教育者倾向于"情境性思维"(situational thinking)，受教育者倾向于"范畴性思维"(categorical thinking)
+- **1932** -- 考察结束。研究成果因政治原因 (被批评为"大国沙文主义") 未能即时发表，直到 1974 年才以英文出版
+
+## 医学训练与转向神经科学 (1933-1941)
+
+- **1933-1936** -- 在莫斯科第一医学院完成医学训练
+- **1934** -- 维果茨基因肺结核去世 (6 月 11 日)，享年 37 岁。卢里亚继承了维果茨基的学术遗产，但开始独立发展自己的研究方向
+- **1936** -- 获得医学学位。开始在莫斯科神经外科研究所 (Burdenko Institute of Neurosurgery) 工作
+- **1936-1938** -- "Pedology Decree" (1936) 批判维果茨基学派，文化-历史心理学在苏联受到压制。卢里亚低调转向临床神经学研究
+- **1937-1938** -- 在莫斯科精神病研究所 (Moscow Psychiatric Institute) 工作，研究精神分裂症患者的认知障碍
+- **1939-1941** -- 在布尔登科神经外科研究所建立神经心理学实验室，开始系统研究脑损伤患者的认知障碍
+
+## 战争年代与神经心理学奠基 (1941-1945)
+
+- **1941** -- 德国入侵苏联。卢里亚随研究所疏散至乌拉尔地区
+- **1941-1945** -- 在乌拉尔地区基谢加奇 (Kisegach) 的后方康复医院担任神经心理学实验室主任。治疗大量脑损伤伤员 (主要是头部枪伤和弹片伤)，积累了数千临床案例
+- **1942-1944** -- 发展出系统的神经心理学评估方法和康复训练程序。观察到许多被认为"不可恢复"的患者在系统训练后出现显著的功能恢复
+- **1943** -- 遇到脑损伤士兵 Lev Zasetsky，开始了长达 25 年的合作 (后来成为《破碎的世界》的主角)
+- **1944-1945** -- 回到莫斯科。开始在莫斯科大学心理学系任教
+
+## 战后发展与理论建设 (1945-1960)
+
+- **1947** -- 出版《创伤性失语症》(Traumatic Aphasia)，基于战争年代的临床经验，系统阐述失语症的分类与功能系统分析。这是卢里亚神经心理学的奠基之作
+- **1948** -- 开始在莫斯科大学心理学系建立神经心理学课程
+- **1950** -- 出版《脑损伤后心理功能的恢复》(Восстановление психических функций после мозговой травмы)
+- **1950s** -- 在布尔登科神经外科研究所继续研究脑损伤患者。发展出症候群分析 (syndrome analysis) 的系统方法
+- **1955-1956** -- 开始对记忆超常者 Solomon Shereshevsky ("S") 进行长期追踪研究 (后来成为《记忆大师的心灵》的主角)
+- **1957** -- 出版《脑的定位问题》(Проблема локализации в свете клинических данных)
+
+## 理论巅峰 (1960-1973)
+
+- **1960** -- 当选国际心理科学联盟 (IUPsyS) 执行委员会委员
+- **1962** -- 出版《人脑高级皮质功能》(Высшие корковые функции человека / Higher Cortical Functions in Man)。这是卢里亚的学术巅峰之作，系统阐述了功能系统理论、动态定位概念和症候群分析方法
+- **1963** -- 出版《脑与心理过程》(Brain and Psychological Processes) 和《脑损伤后的功能恢复》(Restoration of Function after Brain Injury)
+- **1966** -- 《人脑高级皮质功能》英译本出版 (由 Basil Haigh 翻译)，在国际学术界产生广泛影响
+- **1968** -- 出版《记忆大师的心灵》(The Mind of a Mnemonist)，对 Solomon Shereshevsky 的深度个案研究。英译本由 Jerome Bruner 作序
+- **1969** -- 开始口述《破碎的世界》的材料
+- **1971** -- 出版《破碎的世界》(Потерянный и возвращённый мир / The Man with a Shattered World)，脑损伤士兵 Zasetsky 的深度个案研究
+- **1972** -- 《破碎的世界》英译本出版，Oliver Sacks 撰写推荐语
+- **1973** -- 出版《神经心理学原理》(Fundamentals of Neuropsychology) 和《工作着的大脑》(The Working Brain)。后者提出三功能单元模型，是卢里亚一生思想的总结
+- **1973** -- 出版《语言与意识》(Language and Consciousness)
+
+## 晚年 (1974-1977)
+
+- **1974** -- 中亚考察的英文报告以 *The Nature of Human Conflicts* 为题出版 (后重编为 *Cognitive Development*, 1976)
+- **1975** -- 继续指导莫斯科大学的神经心理学研究和布尔登科研究所的临床工作
+- **1976** -- 出版《Cognitive Development: Its Cultural and Social Foundations》(中亚考察英文版)。获国际心理科学联盟杰出贡献奖
+- **1977** -- 获罗蒙诺索夫金质奖章 (Lomonosov Gold Medal)。8 月 15 日在莫斯科去世，享年 75 岁
+
+## 后世影响
+
+- **1980** -- Golden 等人出版 *Luria-Nebraska Neuropsychological Battery*，将卢里亚的评估方法标准化
+- **1982** -- *Neuropsychology Review* 创刊，成为卢里亚传统的学术阵地
+- **1990** -- Oliver Sacks 发表 "Luria and 'Romantic Science'"，使"浪漫科学"方法论受到广泛关注
+- **2001** -- Goldberg 出版 *The Executive Brain*，发展卢里亚的前额叶功能理论
+- **2005** -- Homskaya 出版 *Alexander Romanovich Luria: A Scientific Biography*，首部完整学术传记
+- **2010s** -- 网络神经科学 (network neuroscience) 和连接组学 (connectomics) 在哲学上被追溯至卢里亚的"功能系统"概念

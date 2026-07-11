@@ -1,0 +1,133 @@
+---
+id: ajahn-chah-simple-living
+title: 简单生活 · Simple Living
+type: concept
+domain: religion
+school: theravada-buddhism
+master: ajahn-chah
+tags:
+  - 简单生活
+  - 少欲知足
+  - 出离
+  - 极简主义
+---
+
+# 简单生活 · Simple Living
+
+## 概念定义 / Definition
+
+简单生活是阿姜查整个修行体系的生活方式基础。它不是一般意义上的"节约"或"节俭"，而是一种深刻的精神选择：有意识地减少对外在物质的依赖，从而为内心的觉察和成长腾出空间。阿姜查用巴利语"santutthi"（知足）来描述这种状态——不是被迫的匮乏，而是主动选择的满足。
+
+Simple living is the lifestyle foundation of Ajahn Chah's entire practice system. It is not mere "thrift" or "frugality" in the ordinary sense but a profound spiritual choice: consciously reducing dependence on external material goods to create space for inner awareness and growth. Ajahn Chah used the Pali word "santutthi" (contentment) to describe this state — not forced deprivation but actively chosen sufficiency.
+
+## 思想基础 / Philosophical Foundation
+
+### 少欲知足 / Few Wishes, Easy Contentment
+
+阿姜查的核心生活哲学可以用四个字概括：少欲知足。这一概念源自佛陀对僧团的教导——比丘应当满足于基本的四种必需品：食物、衣物、住所和医药。超出这些基本需求的追求，在阿姜查看来，都是多余的负担。
+
+Ajahn Chah's core life philosophy can be summarized in four characters: few wishes, easy contentment. This concept derives from the Buddha's teaching for the Sangha — monks should be content with the four basic requisites: food, clothing, shelter, and medicine. Pursuit beyond these basic needs was, in Ajahn Chah's view, superfluous burden.
+
+> "一个人拥有一百件东西，就需要一百份担心来守护它们。一个人只有一件袈裟和一个钵，他只需要担心这两样东西。但事实上，他连这两样东西都不需要担心——因为它们随时可以失去，而失去也不是灾难。"
+> "A person who owns a hundred things needs a hundred worries to guard them. A person who has only one robe and one bowl needs to worry about only these two things. But in truth, he doesn't even need to worry about these two — because they can be lost at any moment, and losing them is no disaster."
+
+### 执着即苦 / Attachment Is Suffering
+
+阿姜查教导说，痛苦不在于拥有或不拥有某物，而在于执着。一个人可以很富有而不痛苦，也可以很贫穷而充满痛苦——关键在于内心是否执着。简单生活的目的不是消灭物质，而是消灭执着。
+
+Ajahn Chah taught that suffering lies not in having or not having something, but in attachment. One can be wealthy without suffering, or poor yet full of suffering — the key is whether the heart is attached. The purpose of simple living is not to eliminate material things but to eliminate attachment.
+
+> "你可以享受美食，但不要执着于它。你可以住在舒适的房子里，但不要执着于它。你可以使用现代科技，但不要执着于它。问题不在于东西本身，而在于你的心是否被它绑住了。"
+> "You can enjoy good food, but don't be attached to it. You can live in a comfortable house, but don't be attached to it. You can use modern technology, but don't be attached to it. The problem is not the things themselves but whether your mind is bound by them."
+
+## 巴蓬寺的简朴生活 / Simple Life at Wat Nong Pah Pong
+
+### 物质极简 / Material Minimalism
+
+在巴蓬寺，每位僧人被允许拥有的个人物品极其有限：
+
+At Wat Nong Pah Pong, the personal items each monk was permitted to own were extremely limited:
+
+- **三件袈裟**（ticivara）：一件下衣、一件上衣、一件外衣。这些袈裟通常由废弃布料缝制，染成传统的橙黄色。
+- **一个铁钵**（patta）：用于每日托钵乞食。
+- **一个水壶**：用于饮水和日常用水。
+- **一把剃刀**：用于每半月剃头。
+- **一根针和线**：用于缝补袈裟。
+- **一块坐布**（nisidana）：用于禅坐。
+
+- **Three robes** (ticivara): a lower garment, an upper garment, and an outer robe. These robes were typically sewn from discarded fabric and dyed in the traditional saffron color.
+- **One iron alms bowl** (patta): for daily alms rounds.
+- **One water container**: for drinking and daily use.
+- **One razor**: for shaving the head every fortnight.
+- **One needle and thread**: for mending robes.
+- **One sitting cloth** (nisidana): for meditation sitting.
+
+这种极简的物质条件并非苦行主义的自我惩罚。阿姜查明确区分了"有意义的简朴"和"无意义的苦行"。他说："佛陀放弃了极端的苦行，因为他发现折磨身体并不能带来觉悟。我们选择简朴，是因为它让心更清晰，而不是因为我们认为受苦本身就是好事。"
+
+This extreme material simplicity was not ascetic self-punishment. Ajahn Chah clearly distinguished between "meaningful simplicity" and "meaningless asceticism." He said: "The Buddha abandoned extreme asceticism because he found that torturing the body does not lead to awakening. We choose simplicity because it makes the mind clearer, not because we think suffering in itself is good."
+
+### 日中一食 / One Meal a Day
+
+巴蓬寺的僧人严格遵守"过午不食"的戒律。他们每天清晨托钵乞食，午前用完一天中唯一的一餐。食物通常是简单的米饭、蔬菜和偶尔的供养品——因为僧人不能选择自己的食物，只能接受信众供养的任何东西。
+
+Monks at Wat Nong Pah Pong strictly observed the precept of "not eating after noon." They went on alms rounds each early morning and finished their single daily meal before midday. Food was typically simple rice, vegetables, and occasional offerings — since monks could not choose their food, only accepting whatever lay supporters offered.
+
+阿姜查将这种饮食方式视为修行的一部分。他说："当你只吃一餐时，你会发现食物变得格外美味。不是食物变了，而是你的心和食物的关系变了。饥饿让你对食物更加感恩，简单让你对满足更加敏感。"
+
+Ajahn Chah regarded this eating pattern as part of practice. He said: "When you eat only one meal, you'll find food becomes especially delicious. The food hasn't changed — your relationship with food has changed. Hunger makes you more grateful for food, and simplicity makes you more sensitive to satisfaction."
+
+### 没有电力的生活 / Life Without Electricity
+
+在阿姜查的时代，巴蓬寺没有电力和自来水。僧人们用煤油灯照明，从井中打水，在柴火上煮饭。这种生活方式不是由于贫困——事实上，许多来访的信众愿意捐赠现代设施——而是阿姜查有意维持的修行条件。
+
+In Ajahn Chah's era, Wat Nong Pah Pong had no electricity or running water. Monks lit kerosene lamps, drew water from wells, and cooked over wood fires. This lifestyle was not due to poverty — indeed, many visiting supporters were willing to donate modern facilities — but was a practice condition Ajahn Chah intentionally maintained.
+
+> "电力让人们的生活更方便，但也让人们的心更不安。当你可以随时开灯时，你就忘记了黑暗。当你忘记了黑暗，你也就忘记了内心的光明有多么珍贵。"
+> "Electricity makes people's lives more convenient, but also makes people's minds more restless. When you can turn on a light at any time, you forget the darkness. When you forget the darkness, you also forget how precious the light within your heart truly is."
+
+## 简单生活的精神维度 / Spiritual Dimensions of Simple Living
+
+### 从"做"到"在" / From "Doing" to "Being"
+
+阿姜查观察到，现代人的大部分活动都是"做"——追求目标、完成任务、获取成果。简单生活的核心是将重心从"做"转向"在"——不是停止行动，而是在行动中保持存在的觉知。
+
+Ajahn Chah observed that most of modern people's activities are "doing" — pursuing goals, completing tasks, acquiring results. The core of simple living is shifting the center of gravity from "doing" to "being" — not ceasing action, but maintaining the awareness of presence within action.
+
+> "你不需要做很多事。你只需要做好眼前这一件事。洗一个碗时，就只是洗一个碗。喝一杯茶时，就只是喝一杯茶。当你全心全意做好一件事时，那件事就包含了一切。"
+> "You don't need to do many things. You only need to do well the one thing before you. When washing a bowl, just wash a bowl. When drinking tea, just drink tea. When you do one thing with your whole heart, that one thing contains everything."
+
+### 内在的富足 / Inner Wealth
+
+阿姜查教导说，简单生活不是贫穷，而是一种富足——内心的富足。当一个人减少了对物质的依赖时，他会发现内心本自具足的宁静和喜悦。
+
+Ajahn Chah taught that simple living is not poverty but a form of wealth — inner wealth. When one reduces dependence on material things, one discovers the peace and joy already inherent in the heart.
+
+> "世界上最富有的人不是拥有最多的人，而是需要最少的人。一个对一杯清水感到满足的人，比一个拥有百万财富却仍然不满足的人更富有。"
+> "The wealthiest person in the world is not the one who has the most, but the one who needs the least. A person who feels satisfied with a cup of clear water is wealthier than a person who owns millions yet remains dissatisfied."
+
+## 与其他传统的对话 / Dialogue with Other Traditions
+
+- **梭罗的《瓦尔登湖》**：亨利·戴维·梭罗在瓦尔登湖畔的简朴生活实验与阿姜查的森林简朴生活有着深刻的精神共鸣。
+- **Thoreau's "Walden"**: Henry David Thoreau's experiment in simple living at Walden Pond shares a deep spiritual resonance with Ajahn Chah's forest simplicity.
+
+- **方济各的贫穷神学**：圣方济各放弃富裕家庭，选择贫穷生活，与阿姜查的物质极简主义有着跨宗教的呼应。
+- **Francis of Assisi's theology of poverty**: Saint Francis abandoned his wealthy family to choose a life of poverty, echoing Ajahn Chah's material minimalism across religious traditions.
+
+- **现代极简主义运动**：当代的极简主义生活方式运动（如Marie Kondo的"怦然心动整理法"）与阿姜查的简单生活理念有着表面的相似性，但阿姜查的深度在于他将简单生活与精神觉醒直接联系起来。
+- **Modern minimalism movement**: The contemporary minimalist lifestyle movement (such as Marie Kondo's "KonMari method") bears surface similarity to Ajahn Chah's simple living philosophy, but Ajahn Chah's depth lies in his direct connection of simple living to spiritual awakening.
+
+## 实践要点 / Practice Essentials
+
+| 要素 / Element | 说明 / Description |
+|---|---|
+| 核心原则 / Core Principle | 有意识地减少不必要的需求，而非被迫的匮乏 / Consciously reduce unnecessary wants, not forced deprivation |
+| 四大必需品 / Four Requisites | 食物、衣物、住所、医药 / Food, clothing, shelter, medicine |
+| 关键区别 / Key Distinction | 简单≠贫穷；简朴是有选择的，贫穷是被迫的 / Simple ≠ poor; simplicity is chosen, poverty is imposed |
+| 终极目标 / Ultimate Goal | 减少外物对内心的干扰，为觉察创造空间 / Reduce external distractions to the inner life, creating space for awareness |
+| 现代应用 / Modern Application | 审视消费习惯，减少不必要的购买，珍惜已有之物 / Examine consumption habits, reduce unnecessary purchases, cherish what you have |
+
+## 延伸概念 / Related Concepts
+
+- [森林禅修](forest-meditation.md) — 简单生活在森林环境中的具体实践
+- [自然观察](natural-observation.md) — 简单生活让人有更多心力投入自然观察
+- [当下觉察](present-moment.md) — 简单生活减少了干扰觉察的外在因素

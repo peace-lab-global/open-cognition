@@ -1,0 +1,53 @@
+---
+id: aesthetics.literary-theory.barthes.works
+title: 巴特著作列表 / Barthes Works
+type: works
+parent: aesthetics.literary-theory.barthes
+---
+
+# 巴特著作列表 / Barthes Bibliography
+
+## 主要专著 / Major Monographs
+
+| 年份 | 法文标题 | 中文译名 | 核心主题 |
+|------|---------|----------|----------|
+| 1953 | *Le Degré zéro de l'écriture* | 《写作的零度》 | 文学风格与意识形态 |
+| 1957 | *Mythologies* | 《神话学》 | 大众文化符号学 |
+| 1964 | *Éléments de sémiologie* | 《符号学原理》 | 系统符号学 |
+| 1970 | *S/Z* | 《S/Z》 | 巴尔扎克的解构阅读 |
+| 1970 | *L'Empire des signes* | 《符号帝国》 | 日本文化符号学 |
+| 1971 | *Sade, Fourier, Loyola* | 《萨德、傅立叶、罗耀拉》 | 文本与意识形态 |
+| 1973 | *Le Plaisir du texte* | 《文本的愉悦》 | 阅读的身体性 |
+| 1975 | *Roland Barthes par Roland Barthes* | 《罗兰·巴特自述》 | 自传书写 |
+| 1977 | *Fragments d'un discours amoureux* | 《恋人絮语》 | 爱情话语分析 |
+| 1980 | *La Chambre claire* | 《明室》 | 摄影现象学 |
+
+## 重要论文 / Key Essays
+
+| 年份 | 标题 | 核心主题 |
+|------|------|----------|
+| 1966 | *Introduction to the Structural Analysis of Narratives* | 叙事结构分析 |
+| 1967 | *The Death of the Author* / 《作者之死》 | 文本理论 |
+| 1968 | *The Reality Effect* / 《真实效果》 | 现实主义叙事学 |
+| 1971 | *From Work to Text* / 《从作品到文本》 | 文本理论 |
+
+## 英文选集 / English Collections
+
+- *Image-Music-Text* (Heath trans., 1977) — 核心论文选集
+- *The Rustle of Language* (Howard trans., 1986)
+- *The Responsibility of Forms* (Howard trans., 1985)
+
+## 推荐中译本 / Recommended Chinese Translations
+
+- 《神话学》，许蔷蔷、许绮玲译，上海人民出版社
+- 《S/Z》，屠友祥译，上海人民出版社
+- 《明室》，赵克非译，文化艺术出版社
+- 《文本的愉悦》，屠友祥译，上海人民出版社
+- 《恋人絮语》，汪耀进、武佩荣译，上海人民出版社
+- 《写作的零度》，李幼蒸译，三联书店
+- 《符号帝国》，孙乃修译，商务印书馆
+- 《罗兰·巴特自述》，怀宇译，百花文艺出版社
+
+---
+
+*另见：[[README|巴特]] | [[reading-list|推荐阅读]]*

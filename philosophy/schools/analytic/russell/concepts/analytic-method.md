@@ -1,0 +1,69 @@
+---
+id: russell-analytic-method
+title: 分析方法 · Analytic Method
+type: concept
+thinker: russell
+domain: philosophy
+school: analytic
+tags: [methodology, logic, clarity, analysis, philosophy]
+---
+
+# 分析方法 · Analytic Method
+
+## 概念定位 / Conceptual Position
+
+分析方法（Analytic Method）是罗素为分析哲学确立的核心方法论：从常识性信念出发，通过逻辑分析发现支撑这些信念的基础结构，并以更精确、更系统的概念取代模糊的日常概念。罗素认为："逻辑是哲学的本质"——哲学进步的关键在于使用形式逻辑来澄清思想和论证。
+
+The Analytic Method is the core methodology Russell established for analytic philosophy: starting from commonsense beliefs, using logical analysis to discover the underlying structures supporting these beliefs, and replacing vague everyday concepts with more precise, systematic ones. Russell held: "Logic is the essence of philosophy" — the key to philosophical progress is using formal logic to clarify thoughts and arguments.
+
+## 核心论述 / Core Argument
+
+### 方法的三个步骤 / Three Steps of the Method
+
+1. **收集数据 / Data Collection**: 从我们"确信"的日常信念出发——如"我看到一张桌子""2+2=4"
+2. **逻辑分析 / Logical Analysis**: 揭示这些信念的逻辑结构——它们预设了什么？可以如何被更精确地表述？
+3. **逻辑构造 / Logical Construction**: 用更基本的元素（感觉材料、逻辑关系）重新构造出被分析的对象——"在可能的地方用构造代替推论"（Wherever possible, substitute constructions for inferences）
+
+### 与综合方法的区别 / Distinction from Synthetic Methods
+
+罗素明确区分自己的方法与黑格尔的综合方法：
+
+Russell explicitly contrasted his method with Hegel's synthetic method:
+
+- **分析方法 / Analytic**: 从整体到部分，从复杂到简单，从模糊到精确 / From whole to parts, complex to simple, vague to precise
+- **综合方法 / Synthetic**: 从部分到整体，从简单到复杂，从抽象到具体 / From parts to whole, simple to complex, abstract to concrete
+
+罗素认为，分析方法的优势在于它保持可错性——每一步分析都可以被独立检验。
+
+Russell held that the analytic method's advantage is fallibility — each step of analysis can be independently tested.
+
+### "在可能的地方用构造代替推论" / "Substitute Constructions for Inferences"
+
+这是罗素方法论的核心格言。当我们日常假设某个实体（如"物质""自我"）的存在时，分析哲学家的任务是问：我们能否用更基本的元素（感觉材料及其关系）来"构造"出这个实体？如果能，我们就不需要假设一个额外的实体。
+
+This is Russell's central methodological maxim. When we ordinarily assume the existence of some entity (such as "matter" or "self"), the analytic philosopher's task is to ask: can we "construct" this entity from more basic elements (sense-data and their relations)? If so, we need not assume an additional entity.
+
+## 哲学意义 / Philosophical Significance
+
+1. **分析哲学的定义 / Defining Analytic Philosophy**: 罗素的方法论定义了"分析哲学"这个名称的内涵
+2. **逻辑实证主义 / Logical Positivism**: 维也纳学派将分析方法推向极致
+3. **被后期挑战 / Later Challenges**: 维特根斯坦后期、实用主义和现象学都挑战了"分析达到终极元素"的可能性
+4. **当代影响 / Contemporary Impact**: 当代分析哲学仍然以"逻辑清晰性"为核心方法论价值
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与阿毗达磨"分析法" / With Abhidharma's "Analytic Method"
+阿毗达磨（Abhidharma）使用精密的分析法将日常经验分解为"法"（dharma，终极存在要素）——色法、心法、心所法、心不相应行法。这与罗素的逻辑原子主义方法惊人地相似：两者都通过分解来达到更基本的实在层面。不同之处在于，阿毗达磨的分析最终服务于解脱（认识到无我），罗素的分析服务于知识的确定性。
+
+Abhidharma uses precise analytic methods to decompose everyday experience into "dharmas" (ultimate existents) — material, mental, mental-factor, and non-associated composite dharmas. This is strikingly similar to Russell's logical atomism: both decompose to reach a more fundamental level of reality. The difference: Abhidharma's analysis ultimately serves liberation (recognizing no-self), while Russell's analysis serves epistemic certainty.
+
+### 与庄子"齐物" / With Zhuangzi's "Equalizing Things"
+庄子质疑分析的价值——"道隐于小成"（大道被局部的成就所遮蔽）。分析越精密，越可能失去对整体的把握。这构成了对分析方法的根本挑战：清晰性是否以牺牲深度为代价？
+
+Zhuangzi questions the value of analysis — "The Way is hidden in small achievements." The more precise the analysis, the more one may lose grasp of the whole. This poses a fundamental challenge to the analytic method: does clarity come at the cost of depth?
+
+## 相关概念 / Related Concepts
+
+- [逻辑原子主义 Logical Atomism](logical-atomism.md)
+- [描述理论 Theory of Descriptions](theory-of-descriptions.md)
+- [罗素主页](../README.md)

@@ -1,0 +1,51 @@
+---
+id: bandura-works
+title: "班杜拉关键著作 · Bandura Key Works"
+type: works
+parent: bandura-albert
+school: social-learning
+domain: psychology
+---
+
+# 班杜拉关键著作 · Bandura Key Works
+
+## 专著 / Monographs
+
+| 年份 / Year | 著作 / Work | 出版信息 / Publisher | 核心贡献 / Core Contribution |
+|:---:|------|------|------|
+| 1959 | *Adolescent Aggression* (与 R.H. Walters 合著) | New York: Ronald Press | 早期攻击行为研究——家庭暴力对青少年攻击行为的影响 / Early aggression research — impact of family violence on adolescent aggression |
+| 1963 | *Social Learning and Personality Development* (与 R.H. Walters 合著) | New York: Holt, Rinehart & Winston | 观察学习理论的早期系统化；模仿作为社会学习机制 / Early systematization of observational learning; imitation as social learning mechanism |
+| 1969 | *Principles of Behavior Modification* | New York: Holt, Rinehart & Winston | 行为矫正的原则和方法——为后来的社会学习理论奠定方法论基础 / Principles and methods of behavior modification — methodological foundation for later social learning theory |
+| 1973 | *Aggression: A Social Learning Analysis* | Englewood Cliffs, NJ: Prentice Hall | 攻击行为的社会学习解释——波波玩偶实验的理论化；媒体暴力研究的基础 / Social learning explanation of aggression; theoretical foundation of Bobo Doll experiments; basis for media violence research |
+| 1977 | *Social Learning Theory* | Englewood Cliffs, NJ: Prentice Hall | 社会学习理论的经典陈述——观察学习四过程、三种强化、交互决定论 / Classic statement of social learning theory — four processes of observational learning, three reinforcement types, reciprocal determinism |
+| 1986 | *Social Foundations of Thought and Action: A Social Cognitive Theory* | Englewood Cliffs, NJ: Prentice Hall | 从社会学习到社会认知的范式转换——完整的理论体系建构 / Paradigm shift from social learning to social cognition — complete theoretical system construction |
+| 1997 | *Self-Efficacy: The Exercise of Control* | New York: W.H. Freeman | 自我效能感理论的全面阐述——横跨多个应用领域的整合 / Comprehensive treatment of self-efficacy theory — integration across multiple application domains |
+| 2016 | *Moral Disengagement: How People Do Harm and Live with Themselves* | New York: Worth Publishers | 道德脱离理论——人类残暴行为的认知机制分析 / Moral disengagement theory — cognitive mechanism analysis of human cruelty |
+
+## 关键论文 / Key Articles
+
+| 年份 / Year | 论文 / Article | 期刊 / Journal | 核心贡献 / Core Contribution |
+|:---:|------|------|------|
+| 1961 | "Transmission of Aggression Through Imitation of Aggressive Models" (与 D. Ross & S.A. Ross) | *Journal of Abnormal and Social Psychology*, 63, 575–582 | 波波玩偶实验原始报告——观察学习的里程碑 / Original Bobo Doll experiment report — milestone in observational learning |
+| 1963 | "Imitation of Film-Mediated Aggressive Models" (与 D. Ross & S.A. Ross) | *Journal of Abnormal and Social Psychology*, 66, 3–11 | 媒体暴力对儿童的示范效应——电视暴力研究的开端 / Modeling effects of media violence on children — beginning of TV violence research |
+| 1965 | "Influence of Models' Reinforcement Contingencies on the Acquisition of Imitative Responses" | *Journal of Personality and Social Psychology*, 1, 589–595 | 替代强化对观察学习的影响——学习与表现的区分 / Vicarious reinforcement effects on observational learning — learning-performance distinction |
+| 1977 | "Self-Efficacy: Toward a Unifying Theory of Behavioral Change" | *Psychological Review*, 84(2), 191–215 | 自我效能感理论的首次系统阐述——各种心理治疗的共同机制 / First systematic articulation of self-efficacy theory — common mechanism across psychotherapies |
+| 1978 | "The Self System in Reciprocal Determinism" | *American Psychologist*, 33(4), 344–358 | 交互决定论的正式提出——三元模型的完整阐述 / Formal proposal of reciprocal determinism — complete articulation of triadic model |
+| 1989 | "Human Agency in Social Cognitive Theory" | *American Psychologist*, 44(9), 1175–1184 | 代理性理论——意向性、预谋性、自我反应性、自我反思性 / Agency theory — intentionality, forethought, self-reactiveness, self-reflectiveness |
+| 1991 | "Social Cognitive Theory of Self-Regulation" | *Organizational Behavior and Human Decision Processes*, 50(2), 248–287 | 自我调节的社会认知理论——目标设定、自我监控、自我评价 / Social cognitive theory of self-regulation — goal setting, self-monitoring, self-evaluation |
+| 1999 | "Moral Disengagement in the Perpetration of Inhumanities" | *Personality and Social Psychology Review*, 3(3), 193–209 | 道德脱离的八种机制——对战争暴行和集体暴力的分析 / Eight mechanisms of moral disengagement — analysis of war atrocities and collective violence |
+| 2001 | "Social Cognitive Theory: An Agentic Perspective" | *Annual Review of Psychology*, 52, 1–26 | 社会认知理论的代理性视角——理论的综合回顾 / Agentic perspective on social cognitive theory — comprehensive theoretical review |
+| 2002 | "Selective Moral Disengagement in the Exercise of Moral Agency" | *Journal of Moral Education*, 31(2), 101–119 | 道德脱离在道德代理中的作用——选择性脱离机制 / Role of moral disengagement in moral agency — selective disengagement mechanisms |
+
+## 编著 / Edited Volumes
+
+| 年份 / Year | 著作 / Work | 出版信息 / Publisher | 说明 / Notes |
+|:---:|------|------|------|
+| 1962 | *Adolescents in a Changing Society* (编) | New York: Ronald Press | 青少年在社会变迁中的适应问题 / Adolescent adaptation in social change |
+| 1969 | *Principles of Behavior Modification* (部分编撰) | New York: Holt | 行为矫正原则的系统化 / Systematization of behavior modification principles |
+
+## 著作影响评估 / Impact Assessment
+
+- **引用量最高的论文** / Most-cited article："Self-Efficacy: Toward a Unifying Theory of Behavioral Change" (1977) — 超过50,000次引用（截至2024年），是心理学史上引用最多的论文之一。Over 50,000 citations (as of 2024), among the most-cited papers in psychology history.
+- **引用量最高的专著** / Most-cited monograph：*Self-Efficacy: The Exercise of Control* (1997) — 超过80,000次引用。Over 80,000 citations.
+- **跨领域影响** / Cross-disciplinary impact：班杜拉的著作被引用最多的领域依次为：教育心理学、健康心理学、组织行为学、临床心理学、体育心理学。Fields most citing Bandura's works: educational psychology, health psychology, organizational behavior, clinical psychology, sports psychology.

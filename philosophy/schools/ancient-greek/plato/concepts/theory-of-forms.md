@@ -1,0 +1,141 @@
+---
+id: theory-of-forms
+title: 理念论 · Theory of Forms
+type: concept
+parent: plato
+domain: philosophy
+tags:
+  - metaphysics
+  - epistemology
+  - ontology
+---
+
+# 理念论 · Theory of Forms (Ideas)
+
+> "除了那些真正热爱真理的人以外，没有人能认识到美的理念本身。" — 《会饮篇》211d
+>
+> "None but the true lover of wisdom can recognize Beauty itself." — *Symposium* 211d
+
+---
+
+## 定义 Definition
+
+理念论（Theory of Forms / Theory of Ideas）是柏拉图形而上学的核心，主张：在流变的可感事物之外，存在永恒的、不变的、完美的原型或本质——称为"理念"或"型相"（Form, eidos / idea）。具体事物之所以具有某种性质（如"美""正义""相等"），是因为它们"分有"（participate, methexis）了相应的理念。
+
+The Theory of Forms is the core of Plato's metaphysics, claiming that beyond changing sensible things, there exist eternal, unchanging, perfect prototypes or essences—called "Forms" (*eidos / idea*). Concrete things have certain properties (such as "beauty," "justice," "equality") because they "participate" (*methexis*) in the corresponding Forms.
+
+---
+
+## 理念的四个特征 Four Characteristics of Forms
+
+### 1. 永恒性 Eternality
+理念不生不灭、不在时间中变化。一朵花会凋谢，但"美的理念"永远存在。
+
+Forms neither come into being nor perish, nor change in time. A flower wilts, but "the Form of Beauty" exists eternally.
+
+### 2. 唯一性 Uniqueness
+每种性质只有一个理念。有无数张具体的桌子，但只有"桌子的理念"（the Form of Table）一个。
+
+Each property has only one Form. There are countless particular tables, but only one "Form of Table."
+
+### 3. 完美性 Perfection
+理念是其性质的完美典范。具体的圆永远不够完美，但"圆的理念"是绝对完美的圆。
+
+Forms are perfect exemplars of their properties. No concrete circle is perfectly round, but "the Form of Circle" is absolutely perfect.
+
+### 4. 分离性 Separation (Chōrismos)
+理念独立于具体事物而存在。这是理念论最具争议的方面，也是亚里士多德的核心批评对象。
+
+Forms exist independently of concrete things. This is the most controversial aspect of the Theory, and Aristotle's primary target of criticism.
+
+---
+
+## 论证结构 Arguments for the Forms
+
+### 1. "一对多"论证 One-over-Many Argument
+当我们看到许多美的事物时，我们之所以能判断它们都是"美的"，是因为我们心中有一个"美本身"的标准。如果没有这个标准，我们就无法将不同的事物归为同一类。
+
+When we see many beautiful things and judge them all "beautiful," we must have a standard of "Beauty itself" in mind. Without this standard, we could not classify different things under the same category.
+
+### 2. 知识论证 Epistemological Argument
+可感世界的事物不断变化，因此不能成为知识的对象（知识必须是关于不变事物的）。但我们确实拥有知识（如数学知识），所以必然存在不变的对象——即理念。
+
+Sensible things constantly change, so they cannot be objects of knowledge (knowledge must be about unchanging things). But we do have knowledge (e.g., mathematical knowledge), so there must be unchanging objects—namely, Forms.
+
+### 3. 不完美论证 Imperfection Argument
+我们能判断一个具体的圆"不够圆"，这意味着我们拥有一个"完美圆"的标准。这个标准不能来自经验（因为经验中没有完美的圆），所以它必须来自一个超经验的实在——即理念。
+
+We can judge a concrete circle as "not perfectly round," implying we possess a standard of "perfect roundness." This standard cannot come from experience (no perfect circles in experience), so it must come from a supra-empirical reality—the Forms.
+
+---
+
+## 分有与模仿 Participation and Imitation
+
+柏拉图用两个隐喻来解释具体事物与理念的关系：
+
+Plato uses two metaphors to explain the relation between particulars and Forms:
+
+- **分有 (Methexis)**：具体事物"分有"理念——如一张美的事物"分有"了美的理念。但"分有"的确切含义始终模糊：它是部分的分有还是整个的分有？
+- **模仿 (Mimēsis)**：具体事物"模仿"理念——如画家的画模仿了真实的理念。但这引发了"距离"问题：模仿品与原型之间的距离如何度量？
+
+- **Participation (*Methexis*)**: Concrete things "participate" in Forms—as a beautiful thing "participates" in the Form of Beauty. But the exact meaning of "participation" remains unclear: partial or whole participation?
+- **Imitation (*Mimēsis*)**: Concrete things "imitate" Forms—as a painter's work imitates the true Form. But this raises the "distance" problem: how is the distance between imitation and original measured?
+
+---
+
+## "第三人论证" The Third Man Argument
+
+《巴门尼德篇》132a-b 中提出了理念论最严重的内部挑战：
+
+*Parmenides* 132a-b presents the most serious internal challenge to the Theory:
+
+如果许多大事物之所以"大"是因为分有了"大的理念"，那么这些大事物与"大的理念"一起构成了一个新的群体，它们之所以"大"需要一个新的、更高的"大的理念"来解释。如此无限追溯（infinite regress），理念论陷入自我矛盾。
+
+If many large things are "large" because they participate in the Form of Largeness, then these large things together with the Form of Largeness constitute a new group whose "largeness" requires a new, higher Form of Largeness to explain it. This leads to infinite regress, trapping the Theory in self-contradiction.
+
+柏拉图在对话中并未给出明确解决方案。学界对这一论证的回应大致分为：
+- 放弃分离性（亚里士多德的方案）
+- 限制理念的范围（只承认某些性质有理念）
+- 重新理解"分有"关系（新柏拉图主义的方案）
+
+Plato offers no clear solution in the dialogue. Scholarly responses include:
+- Abandoning separation (Aristotle's approach)
+- Restricting the range of Forms (only certain properties have Forms)
+- Reinterpreting "participation" (Neoplatonic approach)
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与唯识学"真如" Dialogue with Yogācāra "Tathatā"
+
+唯识学的"真如"（tathatā，"如其所是"）概念在某些方面类似于柏拉图的理念——它是现象背后的真实实在，超越感官和概念的把握。然而，真如不是一个"对象"或"实体"，而是所有事物的"如是性"（suchness）。柏拉图的理念是多元的（每个性质有一个理念），而真如是"不一不异"的——既非一也非多。
+
+Yogācāra's *tathatā* ("suchness," "as-it-is-ness") resembles Plato's Forms in some respects—it is the true reality behind phenomena, transcending sensory and conceptual grasp. However, *tathatā* is not an "object" or "entity" but the "suchness" of all things. Plato's Forms are plural (one Form per property), while *tathatā* is "neither one nor many."
+
+### 与华严宗"理事无碍" Dialogue with Huayan "Non-Obstruction of Principle and Phenomena"
+
+华严宗的"理事无碍法界"主张"理"（原理、本质）与"事"（现象、事物）之间完全融通无碍，每一事相都圆满含摄一切理体。这与柏拉图的"分有"理论形成深刻对比：在柏拉图看来，具体事物"不完美地"模仿理念，理与事之间存在本体论的鸿沟；在华严宗看来，事与理之间不存在鸿沟——"一即一切，一切即一"。
+
+Huayan Buddhism's "non-obstruction of principle (*lǐ*) and phenomena (*shì*)" holds that principle and phenomena are perfectly interpenetrating—each phenomenon completely contains all principles. This profoundly contrasts with Plato's "participation": for Plato, concrete things "imperfectly" imitate Forms, creating an ontological gap between principle and phenomenon; for Huayan, no gap exists—"one is all, all is one."
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **数学哲学**：数学柏拉图主义（Penrose, Gödel）认为数学对象独立于人的思维而存在。
+- **类型论与编程**：计算机科学中的类型系统（type system）可被视为理念论的技术实现——具体数据"实例化"了抽象的类型定义。
+- **认知科学**：原型理论（prototype theory, Rosch）与柏拉图理念的结构相似性。
+
+- **Philosophy of mathematics**: Mathematical Platonism (Penrose, Gödel) holds that mathematical objects exist independently of human minds.
+- **Type theory and programming**: Type systems in CS can be seen as a technical realization of the Theory—concrete data "instantiate" abstract type definitions.
+- **Cognitive science**: Prototype theory (Rosch) shares structural similarities with Platonic Forms.
+
+---
+
+## 相关条目 Related Entries
+
+- [回忆说 Anamnesis](anamnesis.md)
+- [洞穴比喻 Cave Allegory](cave-allegory.md)
+- [亚里士多德 · 实体论](../aristotle/concepts/substance.md)
+- [柏拉图 · 柏拉图](../README.md)

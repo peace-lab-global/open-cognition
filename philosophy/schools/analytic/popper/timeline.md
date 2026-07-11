@@ -1,0 +1,28 @@
+---
+id: popper-timeline
+title: 波普尔年表 · Popper Timeline
+type: timeline
+thinker: popper
+domain: philosophy
+school: analytic
+---
+# 波普尔年表 / Popper Timeline
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1902 | 7月28日生于维也纳。/ Born July 28 in Vienna. |
+| 1919 | 短暂加入马克思主义青年组织，后因暴力事件幻灭。/ Briefly joined Marxist youth organization; disillusioned after violence. |
+| 1922 | 进入维也纳大学学习。/ Entered University of Vienna. |
+| 1928 | 获博士学位。/ Received doctorate. |
+| 1934 | 出版 *Logik der Forschung*（《科学发现的逻辑》德文版）。/ Published *Logik der Forschung*. |
+| 1937 | 因纳粹威胁移居新西兰，任坎特伯雷大学讲师。/ Emigrated to New Zealand due to Nazi threat. |
+| 1945 | 出版《开放社会及其敌人》。/ Published *The Open Society and Its Enemies*. |
+| 1946 | 赴伦敦政治经济学院（LSE）任教授。/ Appointed professor at London School of Economics. |
+| 1957 | 出版《历史决定论的贫困》。/ Published *The Poverty of Historicism*. |
+| 1959 | 《科学发现的逻辑》英文版出版。/ English edition of *Logic of Scientific Discovery* published. |
+| 1963 | 出版《猜想与反驳》。/ Published *Conjectures and Refutations*. |
+| 1965 | 与库恩在伦敦举行的国际科学哲学会议上展开著名论战。/ Famous debate with Kuhn at London conference. |
+| 1969 | 从LSE退休。/ Retired from LSE. |
+| 1972 | 出版《客观知识》。/ Published *Objective Knowledge*. |
+| 1980 | 获日本国际奖。/ Received Japan Prize. |
+| 1994 | 9月17日在伦敦去世。/ Died September 17 in London. |

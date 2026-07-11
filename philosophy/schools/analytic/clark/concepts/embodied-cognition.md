@@ -1,0 +1,35 @@
+---
+id: clark-embodied-cognition
+title: 具身认知 · Embodied Cognition
+type: concept
+thinker: clark
+domain: philosophy
+school: analytic
+tags: [body, cognition, environment, 4E]
+---
+# 具身认知 · Embodied Cognition
+
+## 概念定位 / Conceptual Position
+Clark的"温和具身"立场：承认内部表征，同时强调身体和环境在认知中的构成性角色。
+
+Clark's "moderate embodiment": acknowledging internal representations while emphasizing the constitutive role of body and environment.
+
+## 核心论述 / Core Argument
+
+### 三种路线 / Three Approaches
+1. **激进的具身 / Radical Embodied**: 否认内部表征（Chemero）
+2. **温和的具身 / Moderate**: 承认表征但强调身体
+3. **Clark的立场**: 承认表征 + 延展 + 预测 = 最具包容性
+
+### 身体作为认知工具 / Body as Cognitive Tool
+手势辅助思考、身体姿态影响情绪、空间隐喻组织抽象概念——身体不是认知的"容器"，而是认知的"参与者"。
+
+Gestures aid thinking; posture affects emotion; spatial metaphors organize abstract concepts. The body is not cognition's "container" but its "participant."
+
+## 哲学意义 / Philosophical Significance
+推动了4E认知（embodied, embedded, extended, enactive）运动。
+
+## 相关概念 / Related Concepts
+- [延展心智 Extended Mind](extended-mind.md)
+- [认知脚手架 Scaffolding](scaffolding.md)
+- [克拉克主页](../README.md)

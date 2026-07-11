@@ -1,0 +1,56 @@
+---
+id: clark-works
+title: 克拉克作品总览 · Andy Clark Works
+type: works-catalogue
+domain: philosophy
+school: analytic
+thinker: clark
+tags: [clark, works, bibliography]
+cross-refs:
+  - id: clark
+    relation: thinker
+---
+
+# 克拉克作品总览 · Andy Clark Works
+
+## 一、核心专著 / Major Monographs
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1989 | *Microcognition: Philosophy, Cognitive Science, and Parallel Distributed Processing* | 《微观认知》 | 联结主义哲学 |
+| 1993 | *Associative Engines: Connectionism, Concepts, and Representational Change* | 《联想引擎》 | 联结主义与概念 |
+| 1997 | *Being There: Putting Brain, Body, and World Together Again* | 《存在于此》 | 具身-嵌入认知 |
+| 2003 | *Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence* | 《天生赛博格》 | 人类与技术整合 |
+| 2008 | *Supersizing the Mind: Embodiment, Action, and Cognitive Extension* | 《放大心智》 | 延展心智系统辩护 |
+| 2016 | *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* | 《驾驭不确定性》 | 预测加工理论 |
+| 2023 | *The Experience Machine: How Our Minds Predict and Shape Reality* | 《体验机器》 | 面向大众的预测加工 |
+
+## 二、重要论文 / Key Papers
+
+| 年份 | 论文 | 期刊/文集 | 核心主题 |
+|------|------|-----------|----------|
+| 1998 | **"The Extended Mind"** (with D. Chalmers) | ***Analysis*** | **延展心智论题** |
+| 2001 | "Reasons, Robots and the Generality of Belief" | — | 信念的普遍性 |
+| 2002 | "Where Brain, Body and World Collide" | — | 认知整合 |
+| 2006 | "Material Symbols" | *Philosophical Psychology* | 语言与认知 |
+| 2008 | "Pressing the Flesh: A Tension in the Study of the Embodied, Embedded Mind" | *Philosophy and Phenomenological Research* | 具身认知内部张力 |
+| 2013 | "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science" | *Behavioral and Brain Sciences* | 预测加工宣言 |
+| 2015 | "Radical Predictive Processing" | *Southern Journal of Philosophy* | 激进预测加工 |
+| 2017 | "Predictions, Perceptions, and a Sense of Agency" | — | 主动推理 |
+
+## 三、合编著作 / Edited Volumes
+
+- *Philosophy and Cognitive Science* (with J. Toribio, 2010)
+- Various special issues on extended mind and predictive processing
+
+## 四、阅读路径
+
+### 入门
+1. "The Extended Mind" (with Chalmers, 1998) — 最著名论文
+2. *Natural-Born Cyborgs* (2003) — 最易读的专著
+3. *The Experience Machine* (2023) — 面向大众
+
+### 进阶
+4. *Being There* (1997) — 具身-嵌入认知
+5. *Supersizing the Mind* (2008) — 延展心智系统辩护
+6. *Surfing Uncertainty* (2016) — 预测加工理论

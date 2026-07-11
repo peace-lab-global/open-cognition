@@ -1,0 +1,157 @@
+---
+id: availability
+title: "可得性启发 · Availability Heuristic"
+type: concept
+thinker: kahneman
+school: behavioral-economics
+tags:
+  - 可得性
+  - 认知偏差
+  - 风险感知
+  - 媒体效应
+  - 判断与决策
+---
+
+# 可得性启发 · Availability Heuristic
+
+## 定义 · Definition
+
+**可得性启发**（Availability Heuristic）是人们根据某类事件或某类信息**在记忆中提取的容易程度**来估计其频率、概率或重要性的认知策略。如果某类事件的例子很容易想起来（因为它们近期发生过、情绪冲击强烈、或被媒体广泛报道），人们就会高估该类事件的频率或概率；反之则低估。
+
+The **Availability Heuristic** is a cognitive strategy in which people estimate the frequency, probability, or importance of a class of events based on how **easily examples come to mind**. If examples of a certain type of event are easy to recall (because they occurred recently, were emotionally impactful, or were widely covered by media), people overestimate the frequency or probability of such events; if examples are hard to recall, they underestimate them.
+
+这是特沃斯基与卡尼曼在1973年提出的三大启发式之一。它的核心逻辑是：**记忆的可提取性被当作频率的代理指标**——这在许多情况下是合理的（高频事件确实更容易被记住），但在特定条件下会产生系统性偏差。
+
+This is one of the three major heuristics proposed by Tversky and Kahneman in 1973. Its core logic is that **retrievability from memory is used as a proxy for frequency** — this is reasonable in many situations (high-frequency events are indeed easier to remember), but produces systematic biases under specific conditions.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 可得性偏差的产生条件 · Conditions Producing Availability Bias
+
+#### 1. 近期性（Recency）
+最近发生的事件在记忆中更加鲜活、更容易提取。因此，人们会高估近期事件的频率。例如：刚看完一场车祸的人会暂时性地高估交通事故的发生率。
+
+Recently occurred events are more vivid and easier to retrieve from memory. Therefore, people overestimate the frequency of recent events. Example: someone who just witnessed a car accident temporarily overestimates traffic accident rates.
+
+#### 2. 情绪鲜明性（Emotional Vividness）
+情绪冲击强烈的事件（如恐怖袭击、自然灾害）在记忆中留下更深的印记，更容易被提取。这导致人们对情绪鲜明但统计上罕见的事件（如空难）过度恐惧，而对情绪平淡但统计上常见的事件（如心脏病）关注不足。
+
+Emotionally impactful events (terrorist attacks, natural disasters) leave deeper memory traces and are more easily retrieved. This leads people to over-fear emotionally vivid but statistically rare events (plane crashes) while under-attending to emotionally bland but statistically common events (heart disease).
+
+#### 3. 媒体报道（Media Coverage）
+媒体的报道频率和方式极大地影响事件在记忆中的可得性。"如果流血就上头条"（If it bleeds, it leads）——媒体对暴力事件和灾难的过度报道导致公众系统性地高估暴力犯罪率和灾难风险。
+
+Media coverage frequency and style profoundly influence the availability of events in memory. "If it bleeds, it leads" — media overcoverage of violent events and disasters leads the public to systematically overestimate violent crime rates and disaster risks.
+
+#### 4. 个人经历（Personal Experience）
+亲身经历的事件比读到的统计数据更容易提取。一个医生如果最近治疗了一例某种罕见病，可能会高估该病在人群中的发病率。
+
+Personally experienced events are more retrievable than read statistics. A doctor who recently treated a case of a rare disease may overestimate its population prevalence.
+
+### 两种判断模式 · Two Judgment Modes
+
+诺伯特·施瓦茨（Norbert Schwarz）等人的研究揭示了可得性启发运作中的关键区分：
+
+Norbert Schwarz and colleagues' research revealed a critical distinction in how the availability heuristic operates:
+
+- **基于内容的判断（Content-based）**：人们根据**想起了多少个**例子来估计频率（"我能想起5个例子，所以它一定很常见"）。
+- **基于体验的判断（Experience-based）**：人们根据**想起例子的容易程度**（主观体验的流畅性）来估计频率（"想起例子很容易/很难，所以它一定很常见/罕见"）。
+
+- **Content-based judgment**: People estimate frequency based on **how many** examples they can recall ("I can think of 5 examples, so it must be common").
+- **Experience-based judgment**: People estimate frequency based on **how easily** examples come to mind (the subjective fluency of the experience) ("It was easy/hard to think of examples, so it must be common/rare").
+
+**经典实验**：施瓦茨让被试列出6个或12个自己表现果断的例子。结果，列出6个例子的人自评更果断——因为列出12个例子的困难体验让他们觉得"我大概不太果断"。
+
+**Classic experiment**: Schwarz asked subjects to list either 6 or 12 examples of their own assertive behavior. Those who listed 6 examples rated themselves as more assertive — because the difficulty of listing 12 examples made them feel "I'm probably not very assertive."
+
+---
+
+## 发展脉络 · Historical Development
+
+### 1973年：概念提出 · 1973: Concept Introduction
+
+特沃斯基与卡尼曼在论文"Availability: A Heuristic for Judging Frequency and Probability"中首次系统描述可得性启发。
+
+Tversky and Kahneman first systematically described the availability heuristic in their paper "Availability: A Heuristic for Judging Frequency and Probability."
+
+### 1978年：风险感知研究 · 1978: Risk Perception Research
+
+斯洛维奇（Slovic）、菲施霍夫（Fischhoff）和利希滕斯坦（Lichtenstein）将可得性启发应用于风险感知研究，发现公众对各种死亡原因的风险估计与实际统计数据之间存在系统性偏差——这些偏差可以用可得性启发来解释。
+
+Slovic, Fischhoff, and Lichtenstein applied the availability heuristic to risk perception research, finding systematic discrepancies between public risk estimates for various causes of death and actual statistics — discrepancies explainable by the availability heuristic.
+
+### 1991年：流畅性理论 · 1991: Fluency Theory
+
+施瓦茨等人提出"加工流畅性"（processing fluency）概念，区分了基于内容和基于体验的可得性判断，深化了对可得性启发内在机制的理解。
+
+Schwarz and colleagues introduced the "processing fluency" concept, distinguishing content-based from experience-based availability judgments, deepening understanding of the availability heuristic's internal mechanisms.
+
+### 2000年代至今：媒体与社交媒体效应 · 2000s–Present: Media and Social Media Effects
+
+互联网和社交媒体的兴起使可得性偏差的影响急剧放大。算法推荐、回音室效应和病毒式传播创造了"人为的可得性扭曲"——某些事件或观点在社交媒体上被过度呈现，导致公众对现实的感知严重偏离统计事实。
+
+The rise of the internet and social media has dramatically amplified availability bias effects. Algorithmic recommendation, echo chambers, and viral sharing create "artificial availability distortions" — certain events or viewpoints are overrepresented on social media, causing public perception of reality to deviate significantly from statistical facts.
+
+---
+
+## 临床应用 · Applications
+
+### 风险沟通 · Risk Communication
+公共卫生机构需要克服可得性偏差来有效传达真实风险。例如：通过生动、个性化的故事（而非干巴巴的统计数据）来传达心脏病等"安静杀手"的风险，使其在公众记忆中具有与恐怖袭击同等的可得性。
+
+Public health agencies need to overcome availability bias to effectively communicate real risks. For example: conveying the risk of "silent killers" like heart disease through vivid, personalized stories (rather than dry statistics), giving them equal availability in public memory as terrorist attacks.
+
+### 临床心理学 · Clinical Psychology
+焦虑障碍患者常常因为灾难性想法的高可得性而过度恐惧——容易想起坏结果就意味着坏结果更可能发生。认知行为疗法（CBT）通过系统地审视证据来纠正这种偏差。
+
+Anxiety disorder patients often over-fear due to the high availability of catastrophic thoughts — easily imagining bad outcomes means bad outcomes must be more likely. Cognitive behavioral therapy (CBT) corrects this bias by systematically examining evidence.
+
+### 组织决策 · Organizational Decision-Making
+管理者在评估员工绩效时，往往受近期事件的可得性影响（"近因效应"），而非全面考察整个评估周期。解决方案包括：频繁的绩效记录、360度反馈、结构化评估流程。
+
+Managers evaluating employee performance are often influenced by the availability of recent events ("recency effect") rather than comprehensively reviewing the entire evaluation period. Solutions include frequent performance logging, 360-degree feedback, and structured evaluation processes.
+
+### 投资决策 · Investment Decisions
+投资者因为近期市场崩盘的高可得性而过度规避风险，或因为近期牛市的鲜明记忆而过度冒险。行为金融学将这种模式称为"外推偏差"（extrapolation bias），其根源之一是可得性启发。
+
+Investors may over-avoid risk due to the high availability of recent market crashes, or over-risk due to vivid memories of recent bull markets. Behavioral finance calls this pattern "extrapolation bias," one root of which is the availability heuristic.
+
+---
+
+## 关联概念 · Related Concepts
+
+- [系统1与系统2](system-1-2.md) — 可得性启发是系统1的联想激活机制的典型表现
+- [启发式与偏差](heuristics-biases.md) — 可得性是三大经典启发式之一
+- [前景理论](prospect-theory.md) — 可得性影响人们对风险概率的感知
+- [锚定效应](anchoring.md) — 锚定通过选择性通达机制激活特定记忆，与可得性共享机制
+- 近因效应（Recency Effect）— 可得性偏差的时间维度表现
+- 显著性偏差（Salience Bias）— 可得性偏差的注意力维度表现
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+### 唯识学"遍计所执性" · Yogacara's Parikalpita-svabhava
+唯识学三性中的"遍计所执性"（parikalpita-svabhava）——意识对事物的错误概念化投射——与可得性启发有深层共鸣。唯识学认为，我们不是直接感知世界，而是通过**习气**（vasana，类似于"记忆中容易提取的模式"）来建构对世界的认知。那些习气最重的模式——即可得性最高的模式——最容易被错误地当作现实的真实反映。
+
+Yogacara's *parikalpita-svabhava* (imagined nature) — consciousness's erroneous conceptual projection onto things — resonates deeply with the availability heuristic. Yogacara teaches that we do not perceive the world directly but construct our cognition through **vasanas** (habit energies, analogous to "easily retrievable patterns in memory"). The patterns with the strongest vasanas — those with the highest availability — are most readily mistaken for true reflections of reality.
+
+### 庄子"朝三暮四" · Zhuangzi's "Three in the Morning, Four at Night"
+庄子"朝三暮四"寓言中，养猴人将橡子分配从"朝三暮四"改为"朝四暮三"，猴子们从愤怒变为欢喜——总量未变，但呈现顺序（可得性）改变了感知。这与可得性启发和框架效应的核心洞察完全一致：信息的呈现方式（而非信息本身）决定了人们的反应。
+
+In Zhuangzi's "Three in the Morning, Four at Night" parable, the monkey keeper changes acorn distribution from "three in the morning, four at night" to "four in the morning, three at night," and the monkeys shift from anger to delight — the total is unchanged, but the presentation order (availability) transforms perception. This perfectly aligns with the core insight of the availability heuristic and framing effects: the presentation of information (not the information itself) determines people's responses.
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Tversky, A., & Kahneman, D. (1973). "Availability: A Heuristic for Judging Frequency and Probability." *Cognitive Psychology*, 5(2), 207–232.
+- Schwarz, N., et al. (1991). "Ease of Retrieval as Information: Another Look at the Availability Heuristic." *Journal of Personality and Social Psychology*, 61(2), 195–202.
+- Slovic, P. (2000). *The Perception of Risk*. Earthscan.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Chapter 12: "The Science of Availability"; Chapter 13: "Availability, Emotion, and Risk."
+
+---
+
+→ 返回 [卡尼曼主页](../kahneman/README.md) | 上一个概念：[锚定效应](anchoring.md)

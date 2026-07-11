@@ -1,0 +1,73 @@
+---
+id: aristotle-reading-list
+title: 亚里士多德推荐阅读 · Aristotle Reading List
+type: reading-list
+parent: aristotle
+domain: philosophy
+---
+
+# 亚里士多德推荐阅读 · Aristotle Reading List
+
+---
+
+## 入门级 Beginner
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| 《尼各马可伦理学》I, II, X 卷 *NE* I, II, X | 亚里士多德 Aristotle | 幸福论、德性论、沉思生活 / Eudaimonia, virtue, contemplation |
+| *Aristotle: A Very Short Introduction* | Jonathan Barnes, 2000 | 牛津通识读本 / Oxford VSI |
+| *Aristotle's Way* | Edith Hall, 2018 | 面向大众的亚里士多德实践指南 / Popular guide to Aristotelian living |
+| 《亚里士多德》 | 汪子嵩等 | 中文入门读物 / Chinese introduction |
+
+## 进阶级 Intermediate
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| 《尼各马可伦理学》全本 *NE* complete | 亚里士多德 Aristotle (Irwin trans., Hackett) | 伦理学的核心文本 / Core text of ethics |
+| 《政治学》I, III 卷 *Politics* I, III | 亚里士多德 Aristotle | 政治动物；政体分类 / Political animal; constitutions |
+| 《形而上学》I, VII 卷 *Metaphysics* I, VII | 亚里士多德 Aristotle | 论智慧；论实体 / On wisdom; on substance |
+| 《诗学》*Poetics* | 亚里士多德 Aristotle | 悲剧理论 / Tragedy theory |
+| *Ethics with Aristotle* | Sarah Broadie, 1991 | 伦理学深度分析 / Deep analysis of ethics |
+| *Aristotle* | Christopher Shields, 2014 | 最全面的当代亚里士多德导论 / Most comprehensive contemporary introduction |
+
+## 研究级 Advanced
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| *The Cambridge Companion to Aristotle* | Jonathan Barnes ed., 1995 | 论文集 / Collected essays |
+| *Aristotle's First Principles* | Terence Irwin, 1988 | 形而上学和认识论 / Metaphysics and epistemology |
+| *Aristotle on Human Nature and the Foundations of Ethics* | Jean Roberts, 2023 | 人性与伦理基础 / Human nature and ethical foundations |
+| *The Fragility of Goodness* | Martha Nussbaum, 1986 | 希腊悲剧与哲学中的运气 / Luck in Greek tragedy and philosophy |
+| *Aristotle's Theory of Substance* | Michael J. Loux, 1989 | 实体论研究 / Study of substance theory |
+| "Aristotle on Learning to be Good" | Myles Burnyeat, 1980 | 德性养成的经典论文 / Classic essay on virtue cultivation |
+| *Aristotle's System of the Physical World* | Friedrich Solmsen, 1960 | 自然哲学研究 / Study of natural philosophy |
+
+## 中文资源 Chinese Resources
+
+| 书名 Title | 作者/译者 Author/Translator | 出版 Publisher |
+|-----------|---------------------------|---------------|
+| 《尼各马可伦理学》 | 廖申白 译注 | 商务印书馆 |
+| 《形而上学》 | 吴寿彭 译 | 商务印书馆 |
+| 《政治学》 | 吴寿彭 译 | 商务印书馆 |
+| 《诗学》 | 陈中梅 译 | 商务印书馆 |
+| 《论灵魂》 | 吴寿彭 译 | 商务印书馆 |
+| 《工具论》 | 余纪元等 译 | — |
+| 《德性之镜：孔子与亚里士多德的伦理学》 | 余纪元 | 比较哲学经典 |
+| 《亚里士多德伦理学》 | 余纪元 | 系统研究 |
+
+## 比较哲学 Comparative Philosophy
+
+| 书名 Title | 作者 Author | 说明 Notes |
+|-----------|-------------|-----------|
+| *The Ethics of Confucius and Aristotle* | 余纪元 Jiyuan Yu, 2007 | 孔子与亚里士多德比较 / Confucius-Aristotle comparison |
+| *Aristotle and Confucius on Virtue* | 多位作者 | 论文集 / Collected essays |
+| *Virtue Ethics and Consequentialism in Early Chinese Philosophy* | Bryan Van Norden, 2007 | 中国哲学中的德性伦理 / Virtue ethics in Chinese philosophy |
+
+---
+
+## 相关条目 Related Entries
+
+- [亚里士多德 · 亚里士多德](README.md)
+- [著作年表 Works](works.md)
+- [苏格拉底 · 推荐阅读](../socrates/reading-list.md)
+- [柏拉图 · 推荐阅读](../plato/reading-list.md)

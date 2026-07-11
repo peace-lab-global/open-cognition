@@ -1,0 +1,38 @@
+---
+id: dostoevsky-aesthetics-timeline
+title: 陀思妥耶夫斯基美学思想年表
+type: timeline
+domain: aesthetics
+school: literary-thought
+thinker: dostoevsky
+tags: [dostoevsky, timeline, aesthetics]
+cross-refs:
+  - id: dostoevsky
+    relation: thinker
+---
+
+# 陀思妥耶夫斯基美学思想年表
+
+> 完整传记年表见 [文学领域](../../../literature/schools/novelists/dostoevsky/timeline.md)。
+
+## 美学思想发展
+
+| 年代 | 事件 | 美学意义 |
+|---|---|---|
+| 1845 | 《穷人》发表 | 心理现实主义的萌芽 |
+| 1849 | 死刑未遂与流放 | 灵魂转变的决定性经历 |
+| 1850–1854 | 西伯利亚苦役 | 苦难美学的个人体验 |
+| 1864 | 《地下室手记》 | 非理性自由的发现 |
+| 1866 | 《罪与罚》 | 超人理论的心理实验 |
+| 1869 | 《白痴》 | 绝对善良的悲剧 |
+| 1872 | 《群魔》 | 意识形态批判 |
+| 1880 | 《卡拉马佐夫兄弟》 | 复调美学的巅峰 |
+
+## 美学影响下游
+
+| 年代 | 人物 | 关系 |
+|---|---|---|
+| 1887 | 尼采 | "陀氏是我唯一学到心理学的作家" |
+| 1929 | 巴赫金 | 复调小说理论 |
+| 1928 | 弗洛伊德 | 《陀思妥耶夫斯基与弑父》 |
+| 1940s | 萨特、加缪 | 存在主义的文学源头 |

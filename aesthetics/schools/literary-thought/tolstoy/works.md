@@ -1,0 +1,27 @@
+---
+id: tolstoy-aesthetics-works
+title: 托尔斯泰美学作品总览
+type: works-catalogue
+domain: aesthetics
+school: literary-thought
+thinker: tolstoy
+tags: [tolstoy, works, aesthetics]
+cross-refs:
+  - id: tolstoy
+    relation: thinker
+---
+
+# 托尔斯泰美学作品总览
+
+## 核心美学著作
+| 年份 | 作品 | 美学贡献 |
+|---|---|---|
+| 1869 | 《战争与和平》 | 历史合力论 |
+| 1877 | 《安娜·卡列尼娜》 | 道德心理学 |
+| 1897 | 《什么是艺术？》 | 艺术感染力标准 |
+| 1894 | 《天国在你们心中》 | 非暴力哲学 |
+
+## 阅读路径
+### 入门：《什么是艺术？》核心章节
+### 进阶：《战争与和平》历史哲学段落
+### 深潜：Berlin *The Hedgehog and the Fox* + 两部巨著

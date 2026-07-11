@@ -1,0 +1,58 @@
+---
+id: reid-works
+title: 里德作品总览 · Reid Works
+type: works-catalogue
+domain: philosophy
+school: scottish-common-sense
+thinker: reid
+tags: [reid, works, bibliography]
+cross-refs:
+  - id: reid
+    relation: thinker
+---
+
+# 里德作品总览 · Reid Works
+
+## 一、主要专著 / Major Works
+
+| 年份 | 书名 | 英译/中译 | 备注 |
+|------|------|-----------|------|
+| 1764 | *An Inquiry into the Human Mind, on the Principles of Common Sense* | 《人类心灵探究》 | 直接感知论与观念体系批判 |
+| 1785 | *Essays on the Intellectual Powers of Man* | 《论人类心灵的活动能力》 | 心智能力与第一原则 |
+| 1788 | *Essays on the Active Powers of Man* | 《论人类心灵的能动力量》 | 意志、自由与道德 |
+
+## 二、重要论文与讲演 / Key Papers and Lectures
+
+- "A Brief Account of Aristotle's Logic" (1774)
+- "Essays on the Powers of the Human Mind" (遗稿)
+- Glasgow 大学讲演录（道德哲学讲席，接替亚当·斯密）
+- 与休谟、普里斯特利的通信
+
+## 三、权威编辑版本 / Critical Editions
+
+| 版本 | 编者 | 年份 | 备注 |
+|------|------|------|------|
+| *The Works of Thomas Reid* | William Hamilton 编 | 1846 | 经典全集 |
+| *An Inquiry into the Human Mind* (critical ed.) | Derek Brookes 编 | 1997 | Edinburgh Edition |
+| *Essays on the Intellectual Powers* (critical ed.) | Derek Brookes 编 | 2002 | Edinburgh Edition |
+| *Essays on the Active Powers* (critical ed.) | Knud Haakonssen 编 | 2010 | Edinburgh Edition |
+| *The Correspondence of Thomas Reid* | Paul Wood 编 | 2002 | 通信集 |
+
+## 四、中译与中文资源
+
+- 《里德哲学著作选》（选译，载于《西方哲学原著选读》）
+- 周晓亮《苏格兰常识学派研究》
+- 陈嘉映关于直接实在论的论述中常引里德
+
+## 五、阅读路径
+
+### 入门
+1. *Inquiry* Chapter 1–5（感官的直接感知）
+2. *Intellectual Powers* Essay 1（论知觉）
+3. Wolterstorff, *Thomas Reid and the Story of Epistemology*
+
+### 进阶
+4. *Inquiry* 全书
+5. *Intellectual Powers* 全书
+6. *Active Powers* 论自由与道德
+7. Broadie, *The Scottish Enlightenment*

@@ -1,0 +1,146 @@
+---
+id: seth-predictive-brain
+title: "预测脑 · Predictive Brain · Seth"
+type: concept
+domain: psychology
+school: cognitive
+thinker: seth
+tags: [predictive-brain, predictive-processing, prediction-error, free-energy, bayesian-brain, seth]
+cross-refs:
+  - id: seth
+    relation: thinker
+  - id: seth-being-you
+    relation: 框架
+  - id: seth-consciousness-real-illusion
+    relation: 下游
+  - id: seth-interoception
+    relation: 下游
+  - id: friston
+    relation: 理论源头
+---
+
+# 预测脑 · Predictive Brain
+
+## 一句话定义
+
+大脑不是被动的刺激接收器，而是主动的预测机器——它持续生成关于世界和身体的"最佳猜测"，用感官输入来校正这些猜测，而非从零开始建构感知。
+
+*The brain is not a passive stimulus receiver but an active prediction machine — it continuously generates "best guesses" about the world and body, using sensory input to correct these guesses rather than building perception from scratch.*
+
+## 定义
+
+预测脑 (Predictive Brain) 是 Seth 意识科学框架的底层机制。其核心主张是：大脑的基本运作方式不是"刺激 → 加工 → 反应"的线性流水线，而是一个循环的预测-误差最小化 (prediction-error minimisation) 过程。大脑在任何时刻都基于内部模型生成对感官输入的预测，将预测与实际输入进行比较，并用预测误差 (prediction error) 信号来更新模型。
+
+*The Predictive Brain is the foundational mechanism of Seth's consciousness science framework. Its core claim is that the brain's fundamental operation is not a linear stimulus → processing → response pipeline, but a cyclical prediction-error minimisation process. At every moment the brain generates predictions of sensory input from internal models, compares predictions with actual input, and uses prediction error signals to update models.*
+
+## 核心机制
+
+### 预测加工的基本架构
+
+预测加工 (Predictive Processing, PP) 的基本架构包含三个核心组件：
+
+1. **生成模型 (Generative Model)**: 大脑维持的关于世界和身体的内部模型，包含多层级的先验信念 (prior beliefs)
+2. **自上而下的预测 (Top-down Predictions)**: 生成模型在每一层级产生的对下一层感官输入的预测
+3. **自下而上的预测误差 (Bottom-up Prediction Errors)**: 实际感官输入与预测之间的差异信号
+
+*The basic architecture of Predictive Processing comprises three core components: (1) Generative Model — internal models of world and body with multi-level prior beliefs; (2) Top-down Predictions — predictions at each hierarchical level about the next lower level's sensory input; (3) Bottom-up Prediction Errors — discrepancy signals between actual sensory input and predictions.*
+
+### 精度加权 (Precision Weighting)
+
+预测加工的关键机制是精度加权：并非所有预测误差都被平等对待。大脑根据感觉通道的可靠性（精度, precision）来决定预测误差的权重。在嘈杂的环境中，视觉输入的精度降低，大脑更依赖先验预测；在清晰环境中，感官输入精度高，预测误差获得更大权重。
+
+精度加权的异常被认为与多种精神障碍有关：
+- 精神分裂症 (Schizophrenia): 先验预测的精度过低，感官输入的精度过高，导致幻觉和妄想
+- 自闭症 (Autism): 感官输入的精度过高，先验预测的精度过低，导致对细节的过度关注
+
+*A key mechanism is precision weighting: not all prediction errors are treated equally. The brain weights prediction errors based on the reliability (precision) of sensory channels. In noisy environments, visual precision decreases and the brain relies more on prior predictions. In clear conditions, high-precision sensory input gives prediction errors greater weight. Abnormal precision weighting is implicated in psychiatric disorders: schizophrenia (weak priors, strong sensory precision → hallucinations and delusions); autism (strong sensory precision, weak priors → hyperattention to detail).*
+
+### 主动推断 (Active Inference)
+
+预测脑不仅通过更新模型来最小化预测误差，还通过行动 (action) 来改变感官输入以匹配预测。这一过程被称为主动推断 (Active Inference)——大脑通过预测性地引导身体行动来"证实"其预测。
+
+*The predictive brain minimises prediction errors not only by updating models but also by acting to change sensory input to match predictions. This is Active Inference — the brain predictively guides bodily action to "confirm" its predictions.*
+
+### 层级结构
+
+大脑的预测模型具有层级结构 (hierarchical structure)：高层模型生成抽象的、慢变的预测（如"我在一个房间里"），低层模型生成具体的、快变的预测（如"眼前有一个红色的圆形物体"）。每一层都预测下一层的活动，同时接收下一层的预测误差信号。
+
+*Predictive models have hierarchical structure: high-level models generate abstract, slow-changing predictions (e.g., "I am in a room"); low-level models generate specific, fast-changing predictions (e.g., "there is a red round object before me"). Each level predicts the level below and receives prediction error signals from it.*
+
+## 发展脉络
+
+### 思想史
+
+- **Helmholtz (1860s)**: 无意识推理 (unconscious inference) — 感知是大脑对感官数据的无意识推理
+- **Gregory (1980)**: 感知作为假设 (perceptions as hypotheses) — 感知是大脑关于世界的假设
+- **Rao & Ballard (1999)**: 视觉皮层的预测编码 (predictive coding) — 首次在计算神经科学中实现预测编码模型
+- **Friston (2005--)**: 自由能原理 — 将预测编码推广为大脑的普遍原则
+- **Clark (2013)**: 预测加工哲学 — 将预测加工从计算模型提升为认知科学范式
+- **Seth (2013--)**: 将预测加工系统应用于意识科学，提出受控幻觉论
+
+*Intellectual history: Helmholtz (1860s) unconscious inference; Gregory (1980) perceptions as hypotheses; Rao & Ballard (1999) predictive coding in visual cortex; Friston (2005--) Free Energy Principle; Clark (2013) predictive processing philosophy; Seth (2013--) systematic application to consciousness science.*
+
+### Seth 的独特贡献
+
+Seth 不是预测加工的首创者，但他做出了几个关键的推进：
+
+1. **将预测加工应用于意识**: 从"大脑如何工作"扩展到"意识如何产生"
+2. **内感受预测加工**: 将预测加工从外部感知扩展到身体内部状态的预测
+3. **受控幻觉**: 用一个直观的概念概括了预测加工对感知本质的揭示
+
+*Seth is not the originator of predictive processing, but he made several key advances: (1) Applied predictive processing to consciousness; (2) Extended predictive processing from external perception to interoception; (3) Captured the implications for perception with the intuitive concept of "controlled hallucination."*
+
+## 临床应用
+
+### 精神病学中的预测加工
+
+预测脑框架为精神障碍提供了新的解释：
+
+| 障碍 | 预测加工解释 |
+|---|---|
+| 精神分裂症 | 先验模型精度过低 + 感官输入精度过高 → 幻觉、妄想 |
+| 焦虑症 | 对威胁的预测被赋予过高权重 → 过度警觉 |
+| 抑郁症 | 先验模型过度僵化 → 负面预测无法被积极经验更新 |
+| 强迫症 | 预测误差信号持续存在 → 反复验证行为 |
+| 人格解体 | 自我模型的预测与内感受输入脱节 |
+
+*Predictive processing explanations: Schizophrenia = weak priors + strong sensory precision; Anxiety = overweighted threat predictions; Depression = rigid negative priors resistant to positive updating; OCD = persistent prediction error signals; Depersonalisation = self-model disconnected from interoceptive input.*
+
+### 意识测量
+
+基于预测加工的意识测量方法利用脑刺激的复杂性反应（PCI, 扰动复杂性指数）来评估意识水平——有意识的大脑产生复杂的、信息丰富的反应模式，无意识的大脑产生简单的、刻板化的反应。
+
+*Consciousness measurement based on predictive processing uses the complexity of brain responses to stimulation (PCI, Perturbational Complexity Index) to assess consciousness level — conscious brains produce complex, information-rich response patterns; unconscious brains produce simple, stereotyped responses.*
+
+## 关联概念
+
+| 概念 | 关联 | 说明 |
+|---|---|---|
+| [做你自己](being-you.md) | 框架 | 预测脑是 Being You 的核心机制 |
+| [受控幻觉](consciousness-real-illusion.md) | 下游 | 预测加工对感知本质的揭示 |
+| [内感受](interoception.md) | 下游 | 预测加工应用于身体内部状态 |
+| 自由能原理 (Friston) | 理论源头 | 预测加工的数学基础 |
+| 贝叶斯大脑 (Bayesian Brain) | 平行 | 概率推理视角的大脑理论 |
+
+## 东西方对话
+
+### 与佛教"唯识"的对话
+
+唯识学认为"万法唯识"——外在世界不是独立存在的，而是识的投射。预测脑同样认为我们经验的世界不是对独立实在的直接反映，而是大脑的建构。两者的差异在于：唯识学将此推向本体论（唯识无境），预测加工保持在认识论层面（大脑建构了关于世界的经验）。
+
+*Yogācāra's "all phenomena are consciousness-only" parallels the Predictive Brain's claim that the world we experience is not a direct reflection of independent reality but a brain construction. The difference: Yogācāra pushes this to ontology (consciousness only, no external objects); predictive processing stays at the epistemological level (brain constructs experience of world).*
+
+### 与康德先验哲学的对话
+
+康德的"先天综合判断"与预测脑的"先验预测"有深层结构上的相似性：两者都认为经验不是被动接收的，而是由先在的认知结构所组织。康德的"范畴"类似于预测加工中的"先验模型"。
+
+*Kant's "synthetic a priori judgments" share deep structural similarity with the Predictive Brain's "prior predictions": both hold that experience is not passively received but organised by prior cognitive structures. Kant's "categories" parallel predictive processing's "prior models."*
+
+## 进阶阅读
+
+- Clark, *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* (2016)
+- Hohwy, *The Predictive Mind* (2013)
+- Friston, "The free-energy principle: a rough guide to the brain?" (*Trends in Cognitive Sciences*, 2009)
+- Seth, "Interoceptive inference, emotion, and the embodied self" (*Trends in Cognitive Sciences*, 2013)
+- Clark, "Whatever next? Predictive brains, situated agents, and the future of cognitive science" (*Behavioral and Brain Sciences*, 2013)
+- Rao & Ballard, "Predictive coding in the visual cortex" (*Nature Neuroscience*, 1999)

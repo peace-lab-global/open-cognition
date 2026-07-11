@@ -1,0 +1,59 @@
+---
+id: aesthetics.critical-aesthetics.benjamin.reading-list
+title: 本雅明推荐阅读 / Benjamin Reading List
+type: reading-list
+parent: aesthetics.critical-aesthetics.benjamin
+---
+
+# 本雅明推荐阅读 / Benjamin Reading List
+
+## 一、入门阅读 / Introductory
+
+### 中文
+1. 刘北成：《本雅明思想肖像》，北京师范大学出版社，2012
+2. 张旭东：《发达资本主义时代的抒情诗人》导读，三联书店
+3. 阿伦特：《启迪》导言
+
+### English
+1. Gilloch, Graeme. *Walter Benjamin: Critical Constellations*. Polity, 2002
+2. Witte, Bernd. *Walter Benjamin: An Intellectual Biography*. Verso, 1997
+3. Ferris, David S. (ed.). *The Cambridge Companion to Walter Benjamin*. Cambridge UP, 2004
+
+## 二、本雅明原著阅读顺序 / Reading Order
+
+### 第一阶段
+1. 《单行道》（选读）
+2. 《摄影小史》
+3. 《机械复制时代的艺术作品》
+
+### 第二阶段
+4. 《讲故事的人》
+5. 《历史哲学论纲》
+6. 《波德莱尔的几个母题》
+
+### 第三阶段
+7. 《德国悲剧的起源》
+8. 《翻译者的任务》
+9. 《拱廊街计划》（选读）
+
+## 三、进阶研究 / Advanced
+
+1. Buck-Morss, Susan. *The Dialectics of Seeing*. MIT Press, 1989
+2. Eiland & Jennings. *Walter Benjamin: A Critical Life*. Harvard UP, 2014
+3. Nägele, Rainer. *Theater, Theory, Speculation*. Johns Hopkins UP, 1991
+
+## 四、关联背景阅读 / Background
+
+1. 朔勒姆：《犹太教神秘主义主流》
+2. 波德莱尔：《恶之花》《巴黎的忧郁》
+3. 阿多诺：《美学理论》
+
+## 五、当代延续 / Contemporary Extensions
+
+1. 桑塔格：《论摄影》(1977)
+2. 阿甘本：《剩余时间》(1995)
+3. Steyerl, Hito. *In Free Fall* (2012)
+
+---
+
+*另见：[[README|本雅明]] | [[works|著作列表]] | [[timeline|年表]]*

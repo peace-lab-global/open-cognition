@@ -1,0 +1,125 @@
+---
+id: will-to-believe
+title: "信仰意志 · Will to Believe"
+type: concept
+thinker: william-james
+school: functionalism
+domain: psychology
+tags: [信仰意志, 信仰选择, 活选项, 被迫选择, 宗教哲学, will-to-believe, belief-choice, live-hypothesis, forced-choice, philosophy-of-religion]
+---
+
+# 信仰意志 · Will to Believe
+
+## 定义 / Definition
+
+"信仰意志"（The Will to Believe）是威廉·詹姆斯在1896年发表的同名论文（最初题为"信仰的合理性"，"The Subjective Method"）中提出的认识论主张。其核心论点是：在特定条件下——即当一个假设（hypothesis）是"活的"（live）、选择是"被迫的"（forced）且具有"重大后果"（momentous）时——人有权利依据自己的"意志本性"（passional nature）而非仅仅依据理智证据来做出信仰选择。这一主张不是对理性主义的否定，而是对人类认知边界的承认。
+
+"The Will to Believe" is an epistemological thesis proposed by William James in his 1896 essay of the same title (originally titled "The Subjective Method"). Its core argument is: under specific conditions — namely, when a hypothesis is live, the choice is forced, and the stakes are momentous — individuals have the right to choose belief based on their "passional nature" rather than solely on intellectual evidence. This claim is not a rejection of rationalism but an acknowledgment of the boundaries of human cognition.
+
+詹姆斯写道："我们的意志本性——我们的情感、希望和恐惧——在决定我们的信仰方面拥有合法的权利。……在无法由理智决断的问题上，我们的意志本性不仅有权、而且不可避免地要做出选择。"（*The Will to Believe*, 1897, p. 11）
+
+James wrote: "Our passional nature — our emotions, hopes, and fears — has a legitimate right in determining our beliefs. [...] In questions that cannot be decided by the intellect, our passional nature not only may but must choose between alternatives." (*The Will to Believe*, 1897, p. 11)
+
+## 核心机制 / Core Mechanisms
+
+### 活选项、被迫选择与重大后果 / Live Options, Forced Choices, and Momentous Consequences
+
+詹姆斯设定了"信仰意志"合法运作的三个必要条件：
+
+James specified three necessary conditions for the legitimate operation of the "will to believe":
+
+**1. 活选项（Live Hypothesis）**：所考虑的假设必须是"活的"——即对当事人来说具有某种可接受性或吸引力。一个对某人完全不可能的假设（例如对非基督徒来说"穆罕默德是先知"）不构成"活选项"。只有当选项对当事人具有真实的心理现实性时，信仰选择才有意义。
+
+**Live hypothesis**: The hypothesis under consideration must be "live" — that is, it must have some acceptability or appeal to the person in question. A hypothesis that is completely impossible for someone (e.g., "Muhammad is the prophet" for a non-Muslim) does not constitute a "live hypothesis." Only when the option has genuine psychological reality for the person does the belief choice have meaning.
+
+**2. 被迫选择（Forced Choice）**：选择必须是"被迫的"——即不做选择本身就是一种选择。詹姆斯以"要么接受这个真理，要么放弃它"为例：不做决定（悬搁判断）在实际效果上等同于拒绝。如果选择不是被迫的——即可以无限期地等待更多证据——那么信仰意志不适用。
+
+**Forced choice**: The choice must be "forced" — that is, not choosing is itself a choice. James gives the example of "either accept this truth or lose it": not deciding (suspending judgment) is practically equivalent to refusal. If the choice is not forced — that is, if one can indefinitely wait for more evidence — then the will to believe does not apply.
+
+**3. 重大后果（Momentous）**：选择必须具有"重大后果"——即结果对个人生活产生深远影响。日常的、琐碎的、可逆的选择不需要信仰意志的介入。只有那些涉及人生方向、道德承诺和终极意义的重大选择，才适用这一学说。
+
+**Momentous**: The choice must have "momentous" consequences — that is, the outcome must profoundly affect one's life. Trivial, everyday, reversible choices do not require the intervention of the will to believe. Only those involving life direction, moral commitment, and ultimate meaning fall within the scope of this doctrine.
+
+### 信仰创造事实 / Belief Creates Fact
+
+詹姆斯最具争议性的论点之一是：在某些情况下，信仰本身可以成为创造真理的条件。他举了一个经典例子："如果一个登山者需要跳过一道裂缝，而他对'我能跳过去'的信念——即使这个信念在事前缺乏充分证据——恰恰是他成功跳过去的关键条件。在这里，信仰创造了它所信仰的事实。"
+
+One of James's most controversial claims is that in certain cases, belief itself can be a condition for creating truth. He gives a classic example: "If a mountaineer needs to leap a crevasse, his belief that 'I can jump it' — even if this belief lacks sufficient prior evidence — is precisely the key condition for his successfully jumping it. Here, faith helps create the very fact it believes in."
+
+这一论点的哲学意义在于：在涉及人类行动和人际关系的领域，证据往往是信仰的后果而非前提。信任一个人可能使他变得值得信任；对一段关系有信心可能使它变得更有价值。在这些领域，"先信后证"（believe first, verify later）不仅是可能的，有时还是必要的。
+
+The philosophical significance of this claim is: in domains involving human action and interpersonal relations, evidence is often a consequence rather than a prerequisite of belief. Trusting a person may make them trustworthy; having confidence in a relationship may make it more valuable. In these domains, "believe first, verify later" is not only possible but sometimes necessary.
+
+### 与克利福德的论争 / The Debate with Clifford
+
+詹姆斯的论文是对英国数学家威廉·金登·克利福德（William Kingdon Clifford）的"信仰伦理学"（"The Ethics of Belief," 1877）的直接回应。克利福德主张："在证据不充分的情况下相信任何事，在任何情况下都是错误的。"（"It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence."）
+
+James's essay was a direct response to the English mathematician William Kingdon Clifford's "The Ethics of Belief" (1877). Clifford argued: "It is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence."
+
+詹姆斯承认克利福德的原则在科学和日常事务中是合理的——在这些领域，证据通常是可以获得的。但他论证说，在宗教、道德和人生意义的领域，证据往往是不充分的或不可获得的，而选择又是被迫的和重大的——在这些情况下，悬搁判断本身就是一种具有后果的选择，而且可能是怯懦的选择。
+
+James acknowledged that Clifford's principle is reasonable in science and everyday affairs — domains where evidence is typically obtainable. But he argued that in the domains of religion, morality, and the meaning of life, evidence is often insufficient or unobtainable, while the choice is forced and momentous — in these cases, suspending judgment is itself a choice with consequences, and it may be a cowardly choice.
+
+## 发展脉络 / Historical Development
+
+### 个人背景：精神危机与自由意志 / Personal Background: Spiritual Crisis and Free Will
+
+詹姆斯的"信仰意志"学说有其深刻的个人根源。1869–1872年间，他经历了严重的精神危机——对决定论的恐惧几乎使他崩溃。正是在阅读法国哲学家雷诺维叶关于自由意志的论述后，他做出了"我的第一个自由意志行为将是相信自由意志"的决定。这一"信仰先于证据"的个人经历，成为他后来哲学的原型。
+
+James's "will to believe" doctrine has deep personal roots. During 1869–1872, he experienced a severe spiritual crisis — fear of determinism nearly caused his collapse. It was only after reading the French philosopher Renouvier on free will that he made the decision: "My first act of free will shall be to believe in free will." This personal experience of "belief preceding evidence" became the archetype for his later philosophy.
+
+### 哲学语境：与理性主义和经验主义的张力 / Philosophical Context: Tension with Rationalism and Empiricism
+
+"信仰意志"处于两大哲学传统之间的张力地带。一方面，它挑战了经验主义的"证据优先"原则（evidentialism）——即信仰必须始终由证据决定。另一方面，它也不同于宗教理性主义（如黑格尔的绝对哲学）试图用纯粹理性来证明宗教真理的做法。詹姆斯主张，在宗教和道德领域，意志和情感的参与不仅是允许的，而且是认识论上必要的。
+
+The "will to believe" occupies a zone of tension between two philosophical traditions. On one hand, it challenges the empiricist "evidentialism" — the principle that belief must always be determined by evidence. On the other hand, it differs from religious rationalism (e.g., Hegel's absolute philosophy) that attempts to prove religious truths through pure reason. James argued that in the domains of religion and morality, the participation of will and emotion is not only permitted but epistemologically necessary.
+
+### 当代影响与批评 / Contemporary Influence and Criticism
+
+在当代哲学中，"信仰意志"引发了广泛的讨论。阿尔文·普兰丁格（Alvin Plantinga）的"改革宗认识论"（Reformed Epistemology）继承了詹姆斯关于宗教信念可以不依赖证据而合理的主张。理查德·费尔德曼（Richard Feldman）等认识论者则批评詹姆斯的论证可能导致"认知放任"（epistemic permissiveness）。
+
+In contemporary philosophy, the "will to believe" has sparked extensive discussion. Alvin Plantinga's "Reformed Epistemology" inherits James's claim that religious belief can be rational without reliance on evidence. Epistemologists such as Richard Feldman have criticized James's argument as potentially leading to "epistemic permissiveness."
+
+## 临床应用 / Clinical Applications
+
+- **存在主义心理治疗（Existential Psychotherapy）**：欧文·亚隆（Irvin Yalom）等存在主义治疗师强调，在面对生命意义的根本问题时，治疗师无法保持"价值中立"——来访者必须在意义问题上做出选择，而治疗师的任务是帮助他们认识到自己选择的合法性 / Existential psychotherapists such as Irvin Yalom emphasize that when confronting fundamental questions of life's meaning, therapists cannot remain "value-neutral" — clients must choose on questions of meaning, and the therapist's task is to help them recognize the legitimacy of their choices
+- **意义治疗（Logotherapy）**：弗兰克尔（Viktor Frankl）的意义治疗主张，即使在极端苦难中，人仍然有权选择对生命的态度——这与詹姆斯关于在最困难情况下信仰意志的合法性的论证精神相通 / Frankl's logotherapy argues that even in extreme suffering, individuals retain the right to choose their attitude toward life — resonating with James's argument about the legitimacy of the will to believe in the most difficult circumstances
+- **认知行为治疗中的信念检验（Belief Testing in CBT）**：在CBT中，治疗师有时鼓励来访者"先尝试相信"某种替代性想法，然后观察其实际效果——这体现了詹姆斯关于"信仰可以创造事实"的洞见 / In CBT, therapists sometimes encourage clients to "try believing" an alternative thought first, then observe its actual effects — embodying James's insight that "belief can help create fact"
+
+## 关联概念 / Related Concepts
+
+- **实用主义心理学 / Pragmatism in Psychology**：信仰意志是实用主义认识论在宗教和道德领域的具体应用 / The will to believe is the concrete application of pragmatist epistemology in the domains of religion and morality
+- **多元论 / Pluralism**：信仰意志承认多种信仰选择的合法性，体现了詹姆斯多元论的认识论维度 / The will to believe acknowledges the legitimacy of multiple belief choices, reflecting the epistemological dimension of James's pluralism
+- **宗教经验的多样性 / Varieties of Religious Experience**：信仰意志为理解宗教经验提供了认识论基础——宗教经验虽然缺乏公共证据，但具有个人的认知价值 / The will to believe provides an epistemological foundation for understanding religious experience — religious experience, though lacking public evidence, has personal cognitive value
+- **自由意志 / Free Will**：詹姆斯的精神危机经历——"相信自由意志"作为第一个自由意志行为——是信仰意志学说的个人原型 / James's spiritual crisis experience — "believing in free will" as the first act of free will — is the personal archetype of the will-to-believe doctrine
+
+## 东西方对话 / East-West Dialogue
+
+### 与儒家"诚"的对话 / Dialogue with the Confucian "Cheng" (Sincerity)
+
+《中庸》提出的"诚者，天之道也；诚之者，人之道也"——将真诚的信念和投入视为通达天道的途径——与詹姆斯的信仰意志学说形成了有趣的对话。儒家认为，对道德真理的坚定信仰（"至诚"）不仅是道德修养的方法，而且可以"感化"现实——"至诚如神"。这与詹姆斯关于"信仰可以创造它所信仰的事实"的论点具有深层的结构平行。
+
+The *Doctrine of the Mean*'s claim that "Sincerity is the way of Heaven; to become sincere is the way of man" — treating sincere belief and commitment as the pathway to the Way of Heaven — forms an interesting dialogue with James's will-to-believe doctrine. Confucianism holds that firm belief in moral truth ("utmost sincerity," zhicheng) is not only a method of moral cultivation but can "transform" reality — "utmost sincerity is like the divine." This bears a deep structural parallel with James's claim that "belief can help create the very fact it believes in."
+
+### 与佛教"信"的对话 / Dialogue with the Buddhist "Faith" (Śraddhā)
+
+佛教中的"信"（śraddhā / 信心）概念——特别是净土宗对"他力信心"的强调——与詹姆斯的信仰意志形成了跨宗教的对话。净土宗认为，对阿弥陀佛的信仰本身就是获得救赎（往生净土）的充分条件，这种信心不需要"证据"的支持——它本身就是一种转化性力量。这与詹姆斯关于在证据不充分时信仰选择的合法性和创造力的论证形成了呼应。
+
+The Buddhist concept of "faith" (śraddhā) — particularly Pure Land Buddhism's emphasis on "other-power faith" (tariki) — enters cross-religious dialogue with James's will to believe. Pure Land Buddhism holds that faith in Amitābha Buddha is itself a sufficient condition for salvation (rebirth in the Pure Land); this faith does not require the support of "evidence" — it is itself a transformative power. This resonates with James's argument about the legitimacy and creative power of belief choice under insufficient evidence.
+
+## 进阶阅读 / Further Reading
+
+### 原典 / Primary Sources
+- James, W. "The Will to Believe." In *The Will to Believe and Other Essays in Popular Philosophy*, pp. 1–31. New York: Longmans, Green, 1897.
+- James, W. "The Sentiment of Rationality." In *The Will to Believe*, pp. 57–104.
+- Clifford, W.K. "The Ethics of Belief." *Contemporary Review* 29 (1877): 289–309.
+
+### 二手研究 / Secondary Research
+- Axtell, J. "William James's 'Will to Believe' and the Ethics of Belief." *Philosophy and Phenomenological Research* 72 (2006): 272–302.
+- Feldman, R. "The Ethics of Belief." *Philosophy and Phenomenological Research* 50 (1988): 1–24.
+- Olin, J. "The Will to Believe and Plantinga's Reformed Epistemology." *Philosophy and Theology* 7 (1992): 207–223.
+
+### 英文资源 / English Resources
+- Plantinga, A. *Warranted Christian Belief*. Oxford: Oxford University Press, 2000.
+- Pojman, L. (ed.) *The Ethics of Belief Debate*. Bowling Green, OH: Bowling Green State University Press, 1986.
+- Rorty, R. "Religious Faith, Intellectual Responsibility, and Romance." In *Philosophy and Social Hope*, pp. 148–162. London: Penguin, 1999.

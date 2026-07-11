@@ -1,0 +1,123 @@
+---
+id: feeling-of-what-happens
+title: 对发生之事的感觉 / The Feeling of What Happens
+type: concept
+domain: psychology
+school: cognitive
+thinker: damasio
+tags: [consciousness, feeling, core-self, organism, body-mapping]
+---
+
+# 对发生之事的感觉 / The Feeling of What Happens
+
+## 定义
+
+"对发生之事的感觉"（the feeling of what happens）是达玛西奥1999年同名著作的核心概念，指有机体在当下时刻对自身身体变化的原初感受。这种感受不是经过语言中介的"报告"，不是经过记忆组织的"叙事"，而是最直接的、前反思的身体自我觉察\u2014\u2014身体在此刻正在经历什么。达玛西奥认为，正是这种持续流动的身体感受构成了意识的最基本形式，即"核心意识"（core consciousness）。
+
+核心论证可以概括为：意识不是"我思"（I think），而是"我正在感受我的身体正在经历的事"（I am feeling what is happening to my body）。意识的起源不在于对外部世界的表征，而在于有机体对身体内部变化的自我映射。
+
+"The Feeling of What Happens" is the core concept of Dam\u00e1sio's 1999 book of the same title, referring to the organism's primordial feeling of its own bodily changes in the present moment. This feeling is not mediated by language, not organized by memory into narrative, but is the most direct, pre-reflective bodily self-awareness\u2014what the body is undergoing right now. Dam\u00e1sio argues that this continuously flowing feeling of bodily change constitutes the most basic form of consciousness: "core consciousness."
+
+The central argument can be summarized: consciousness is not "I think" but "I am feeling what is happening to my body." The origin of consciousness lies not in representing the external world but in the organism's self-mapping of internal bodily changes.
+
+## 核心机制
+
+### 从原我到核心意识
+
+达玛西奥将意识的建构描述为一个层级递进的过程：
+
+**第一层：原我（Protoself）**
+- 位于脑干（brainstem）和上丘脑（upper brainstem）
+- 持续地、非意识地映射身体内部状态：血液化学成分、内脏活动、肌肉张力、体温等
+- 原我是纯粹的身体状态映射，没有任何"自我"的主观体验
+- 即使在深度睡眠和昏迷中，原我也在运作（维持基本生命功能）
+- 类比：如同一台不停运行的生命体征监测仪
+
+**第二层：核心意识（Core Consciousness）**
+- 当有机体（拥有原我）与某个对象（object）交互时，对象引发了身体的变化
+- 大脑对这个变化进行"二阶映射"（second-order mapping）\u2014\u2014不仅映射身体状态，还映射"身体状态正在因为某个对象而改变"
+- 这个二阶映射产生的就是核心意识：一种短暂的、当下的、非语言的"自我感"
+- 核心意识不需要语言，不需要记忆\u2014\u2014许多动物也拥有核心意识
+- 每一次与对象的交互都会产生一个新的核心意识脉冲\u2014\u2014意识是"脉冲式"的，不是连续的流
+
+**第三层：扩展意识（Extended Consciousness）**
+- 在核心意识的基础上，大脑将当前的身体感受与过去的记忆和未来的预期整合
+- 产生"自传体自我"（autobiographical self）\u2014\u2014一个有过去、有未来、有身份的持续自我
+- 扩展意识依赖于语言和高级认知功能，是人类特有的（或至少高度发达的）
+- 扩展意识可以反过来调节核心意识\u2014\u2014我们可以通过"思考"来改变身体的情绪状态
+
+### 身体变化的"对象"
+
+在达玛西奥的理论中，触发核心意识的"对象"可以是：
+- **外部对象**：看到的脸、听到的声音、触摸到的物体
+- **内部对象**：被回忆起的场景、被想象的未来、身体的疼痛或愉悦
+- **身体状态本身**：情绪反应（如恐惧、喜悦）本身就是身体变化，可以被核心意识所感受
+
+这意味着意识不仅可以"朝向"外部世界，也可以"朝向"内部状态\u2014\u2014事实上，达玛西奥认为所有意识的底层都是对身体内部状态的感受。
+
+## 发展脉络
+
+### 与詹姆斯的承继
+
+威廉\u00b7詹姆斯（1890）提出"意识流"（stream of consciousness）概念，强调意识的流动性和连续性。达玛西奥在此基础上做了两个关键修正：
+1. 意识不是纯粹的"流"，而是"脉冲式"的\u2014\u2014每一次与对象的交互产生一个意识脉冲
+2. 意识流的内容不是抽象的思想，而是具体的身体感受
+
+### 与胡塞尔的平行
+
+胡塞尔（1900-1936）现象学中的"内时间意识"（inner time consciousness）\u2014\u2014对当下体验的前反思觉察\u2014\u2014与达玛西奥的核心意识概念有结构性的平行关系。两者都指向了反思之前的、直接的经验层面。区别在于：胡塞尔用先验方法描述意识结构，达玛西奥用神经科学揭示其生物机制。
+
+### 与瓦雷拉的对话
+
+瓦雷拉（Francisco Varela）的"生成认知"（enactive cognition）理论认为，认知不是对外部世界的表征，而是有机体在与环境互动中"生成"意义。达玛西奥的核心意识概念与这个框架高度兼容\u2014\u2014意识不是"接收"世界，而是在身体与世界的交互中"涌现"。
+
+## 临床应用
+
+### 意识障碍评估
+
+达玛西奥的理论为评估最小意识状态（Minimally Conscious State, MCS）和植物状态（Vegetative State, VS）提供了理论框架：
+- 植物状态患者可能保留了原我（基本的身体状态映射）但丧失了核心意识（无法产生二阶映射）
+- 最小意识状态患者可能间歇性地产生核心意识但不稳定
+
+### 失认症（Anosognosia）
+
+达玛西奥用"对发生之事的感觉"的框架解释了一种奇特的神经症状\u2014\u2014中风患者否认自己瘫痪（Anton-Babinski syndrome）。他的解释是：这些患者的身体状态映射受损，导致核心意识无法接收到"身体已经改变"的信号\u2014\u2014因此患者的"自我感"中不包含瘫痪的事实，他们真诚地"感觉"自己是完好的。
+
+### 解离障碍（Dissociative Disorders）
+
+解离体验\u2014\u2014"感觉不真实"、"灵魂出窍"、"人格解体"\u2014\u2014可以被理解为核心意识的暂时中断或扭曲。当身体状态映射与二阶映射之间出现脱节时，患者就会体验到"我正在经历但感觉不是我在经历"的异常感觉。
+
+### 冥想研究
+
+正念冥想中的"身体扫描"（body scan）技术\u2014\u2014系统地将注意力导向身体各部位的感觉\u2014\u2014可以被理解为对核心意识的有意识强化。冥想者通过训练增强了对原我层面身体信号的觉察，使通常处于阈下的身体感受进入意识层面。
+
+## 关联概念
+
+- [躯体标记](somatic-marker.md) \u2014 躯体标记产生的身体信号是核心意识的重要输入
+- [意识](consciousness.md) \u2014 "对发生之事的感觉"是核心意识的本质描述
+- [具身认知](embodied-cognition.md) \u2014 意识的身体基础是具身认知的核心主张
+- [情绪与理性](emotion-reason.md) \u2014 核心意识中的情绪感受是理性运作的前提
+
+## 东西方对话
+
+### 对发生之事的感觉 \u00d7 佛教正念（Mindfulness）
+
+佛教的"念"（sati / sm\u1rti）\u2014\u2014对当下体验的持续觉察\u2014\u2014与达玛西奥的核心意识概念有深层对应。四念处（satipa\u1e6d\u1e6dh\u0101na）的修行\u2014\u2014身念处、受念处、心念处、法念处\u2014\u2014系统地训练对"正在发生之事"的觉察：
+
+- **身念处**：觉察呼吸、姿势、身体动作\u2014\u2014对应原我层面的身体状态觉察
+- **受念处**：觉察苦、乐、不苦不乐的感受\u2014\u2014对应核心意识中的情绪感受
+- **心念处**：觉察心念的状态（贪、嗔、痴等）\u2014\u2014对应扩展意识中的元认知
+
+佛教修行者通过数千年的实践发展出的精细觉察技术，与达玛西奥通过神经科学揭示的意识机制，从不同方向指向了同一个事实：意识的根基在于对身体当下的感受。
+
+### 对发生之事的感觉 \u00d7 庄子"心斋"
+
+庄子借孔子之口描述"心斋"："若一志，无听之以耳而听之以心，无听之以心而听之以气。"\u2014\u2014不用耳朵听，不用心听，用"气"听。这种超越感官和思维的觉察方式，可以被理解为对原我层面的直接通达\u2014\u2014在核心意识和扩展意识都"安静下来"之后，身体最原初的感受浮现出来。
+
+## 进阶阅读
+
+- Dam\u00e1sio, A. (1999). *The Feeling of What Happens*, especially Parts II-III
+- Dam\u00e1sio, A. (2010). *Self Comes to Mind*, Ch. 4-5: "Core Consciousness" and "The Construction of the Self"
+- Panksepp, J. (1998). *Affective Neuroscience*. Oxford UP. \u2014\u2014 从比较神经科学角度支持情感意识的生物基础
+- Craig, A. D. (2009). "How Do You Feel \u2014 Now? The Anterior Insula and Human Awareness." *Nature Reviews Neuroscience*, 10, 59-70.
+- Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Faber & Faber. \u2014\u2014 当代意识科学对达玛西奥框架的最新发展

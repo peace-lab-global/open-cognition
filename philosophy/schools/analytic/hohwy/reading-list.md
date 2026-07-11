@@ -1,0 +1,152 @@
+---
+id: hohwy-reading-list
+title: 霍维进阶阅读 · Hohwy Reading List
+type: supplementary
+thinker: hohwy
+domain: philosophy
+school: analytic
+---
+
+# 霍维进阶阅读 · Hohwy Reading List
+
+## 一、Hohwy 原著（按阅读优先级排序） / I. Primary Works by Hohwy (by Reading Priority)
+
+### 必读 / Essential
+
+| # | 著作 / Work | 年份 / Year | 主题 / Topic | 难度 / Difficulty |
+|:---:|---|:---:|---|:---:|
+| 1 | *The Predictive Mind* (Oxford UP) | 2013 | 预测加工哲学全景 / PP philosophy panorama | ★★★☆☆ |
+| 2 | "The Self-Evidencing Brain" (*Noûs* 50(2)) | 2016 | 自我论证题 / Self-evidencing thesis | ★★★★☆ |
+| 3 | "The Neural Organ Explains the Mind" (*PPR*) | 2015 | 神经解释与心智 / Neural explanation and mind | ★★★★☆ |
+
+### 推荐 / Recommended
+
+| # | 著作 / Work | 年份 / Year | 主题 / Topic | 难度 / Difficulty |
+|:---:|---|:---:|---|:---:|
+| 4 | "When the Brain is Prepared to Learn" (*C&C*) | 2012 | 预测学习与意识 / Predictive learning and consciousness | ★★★☆☆ |
+| 5 | "The Noise in the Brain" (*Phil. Sci.*) | 2009 | 神经噪声 / Neural noise | ★★★☆☆ |
+| 6 | "Evidence, Explanation, and Idealism" (*OSM*) | 2010 | 认识论基础 / Epistemological foundations | ★★★★☆ |
+| 7 | "Predictive Processing and the Phenomenology of Perception" | 2017 | 现象学 / Phenomenology | ★★★★☆ |
+| 8 | "Active Inference and the Self" | 2019 | 主动推理与自我 / Active inference and self | ★★★★☆ |
+| 9 | *Philosophy and Predictive Processing* (合编) | 2019 | 论文集 / Essay collection | ★★★☆☆ |
+| 10 | "Precision and the Ethics of Belief" | 2021 | 精度与伦理 / Precision and ethics | ★★★★☆ |
+
+---
+
+## 二、核心二手文献 / II. Core Secondary Literature
+
+### 预测加工理论基础 / Predictive Processing Foundations
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 关系 / Relation to Hohwy |
+|:---:|---|---|:---:|---|
+| 1 | Friston, K. | "The free-energy principle: a unified brain theory?" (*Nature Reviews Neuroscience* 11) | 2010 | Hohwy 理论的计算基础 / Computational basis of Hohwy's theory |
+| 2 | Clark, A. | "Whatever next? Predictive brains, situated agents, and the future of cognitive science" (*BBS* 36(3)) | 2013 | 核心对比文献——外部主义 vs 内部主义 / Core comparative text — externalist vs internalist |
+| 3 | Clark, A. | *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* (Oxford UP) | 2016 | Clark 对预测加工的延展心智解读 / Clark's extended mind reading of PP |
+| 4 | Rao, R. & Ballard, D. | "Predictive coding in the visual cortex" (*Nature Neuroscience* 2) | 1999 | 预测编码的经典神经科学论文 / Classic neuroscience paper on predictive coding |
+| 5 | Friston, K. | "A theory of cortical responses" (*Phil. Trans. R. Soc. B* 360) | 2005 | 层级预测编码的数学框架 / Mathematical framework of hierarchical predictive coding |
+
+### 意识与感知 / Consciousness and Perception
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 关系 / Relation to Hohwy |
+|:---:|---|---|:---:|---|
+| 6 | Seth, A. K. | "Interoceptive inference, emotion, and the embodied self" (*Trends in Cognitive Sciences* 17) | 2013 | 内感预测与自我意识 / Interoceptive prediction and self-consciousness |
+| 7 | Seth, A. K. | *Being You: A New Science of Consciousness* (Faber) | 2021 | 意识科学中的预测加工 / PP in consciousness science |
+| 8 | Metzinger, T. | *The Ego Tunnel* (Basic Books) | 2009 | 自我模型与预测加工 / Self-model and PP |
+| 9 | Frith, C. | "Role of face in predicting action" (*Trends in Cognitive Sciences* 16) | 2012 | 预测加工与社会认知 / PP and social cognition |
+| 10 | Adams, R. et al. | "Computational psychiatry: towards a mathematically rigorous understanding of mental illness" (*Neuroscience & Biobehavioral Reviews*) | 2016 | 预测加工与精神病学 / PP and psychiatry |
+
+### 延展心智论争 / Extended Mind Debate
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 关系 / Relation to Hohwy |
+|:---:|---|---|:---:|---|
+| 11 | Clark, A. & Chalmers, D. | "The Extended Mind" (*Analysis* 58) | 1998 | 延展心智论题的原著 / Original extended mind thesis |
+| 12 | Rupert, R. | "Challenges to the hypothesis of extended cognition" (*Journal of Philosophy* 101) | 2004 | 对延展认知的批评 / Critique of extended cognition |
+| 13 | Menary, R. | *Cognitive Integration: Mind and Cognition Unbounded* (Palgrave) | 2007 | 认知整合的替代方案 / Alternative cognitive integration approach |
+| 14 | Chemero, A. | *Radical Embodied Cognitive Science* (MIT Press) | 2009 | 激进具身认知 vs 预测加工 / Radical embodied cognition vs PP |
+
+### 哲学批评与回应 / Philosophical Critiques and Responses
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 关系 / Relation to Hohwy |
+|:---:|---|---|:---:|---|
+| 15 | Klein, C. | "What do predictive coders want?" (*Philosophical Studies* 175) | 2018 | 对预测加工统一性的质疑 / Challenge to PP unity |
+| 16 | Orlandi, N. | "Bayesian perception is holistic" (*Consciousness and Cognition*) | 2016 | 贝叶斯感知的整体性 / Holistic Bayesian perception |
+| 17 | Colombo, M. & Wright, C. | "Explanatory pluralism: an unsatisfied inference from predictive coding" (*Minds and Machines*) | 2017 | 预测编码的解释多元论 / Explanatory pluralism about predictive coding |
+| 18 | Ransom, M. et al. | "Predictive processing and cognitive penetration" | 2017 | 认知渗透与预测加工 / Cognitive penetration and PP |
+| 19 | Gallagher, S. & Bower, M. | "Making enactivism even more embodied" (*Avant*) | 2014 | 生成主义对预测加工的批评 / Enactivist critique of PP |
+| 20 | Bruineberg, J. & Rietveld, E. | "Anticipating affordances" (*Phenomenology and the Cognitive Sciences*) | 2014 | 生态心理学与预测加工 / Ecological psychology and PP |
+
+---
+
+## 三、中文资源 / III. Chinese-Language Resources
+
+### 中文翻译与介绍 / Chinese Translations and Introductions
+
+| # | 标题 / Title | 来源 / Source | 备注 / Notes |
+|:---:|---|---|---|
+| 1 | 《预测心智》（中译本）/ *The Predictive Mind* (Chinese translation) | 出版社待考 / Publisher TBD | Hohwy 专著的中文翻译 / Chinese translation of Hohwy's monograph |
+| 2 | "预测加工与心灵哲学" / "Predictive Processing and Philosophy of Mind" | 《哲学研究》/ *Philosophical Research* | 中文综述性论文 / Chinese review article |
+| 3 | "自由能原理的哲学解读" / "Philosophical Interpretation of the Free Energy Principle" | 《自然辩证法通讯》/ *Communications of Dialectics of Nature* | Friston 理论的中文介绍 / Chinese introduction to Friston's theory |
+| 4 | "预测编码与意识科学" / "Predictive Coding and Consciousness Science" | 《心理科学进展》/ *Advances in Psychological Science* | 认知科学角度的介绍 / Introduction from cognitive science perspective |
+| 5 | "贝叶斯心灵与认知科学" / "Bayesian Mind and Cognitive Science" | 《哲学动态》/ *Philosophical Trends* | 贝叶斯认知科学的哲学讨论 / Philosophical discussion of Bayesian cognitive science |
+
+### 东西方比较研究 / East-West Comparative Studies
+
+| # | 标题 / Title | 来源 / Source | 备注 / Notes |
+|:---:|---|---|---|
+| 6 | "唯识学与预测加工的比较研究" / "Comparative Study of Yogacara and Predictive Processing" | 学术论文 / Academic paper | 唯识学三性与预测加工的对比 / Comparison of Yogacara three natures with PP |
+| 7 | "佛教认识论与贝叶斯认知" / "Buddhist Epistemology and Bayesian Cognition" | 学术论集 / Academic collection | 法称的认识论与贝叶斯推理 / Dharmakirti's epistemology and Bayesian inference |
+| 8 | "庄子'心斋'的认知科学解读" / "Cognitive Science Reading of Zhuangzi's 'Fasting of the Mind'" | 《中国哲学史》/ *History of Chinese Philosophy* | 从预测加工角度解读庄子 / Reading Zhuangzi from PP perspective |
+| 9 | "冥想、注意力与预测误差" / "Meditation, Attention, and Prediction Error" | 学术论文 / Academic paper | 冥想实践与精度加权的关联 / Connection between meditation practice and precision weighting |
+| 10 | "王阳明知行合一与主动推理" / "Wang Yangming's Unity of Knowing-Acting and Active Inference" | 比较哲学论集 / Comparative philosophy collection | 知行合一的预测加工解读 / PP reading of knowing-acting unity |
+
+---
+
+## 四、背景阅读 / IV. Background Reading
+
+### 认识论传统 / Epistemological Tradition
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 理由 / Reason |
+|:---:|---|---|:---:|---|
+| 1 | Kant, I. | *Critique of Pure Reason* | 1781 | Hohwy 思想的哲学根源 / Philosophical roots of Hohwy's thought |
+| 2 | Helmholtz, H. von | *Treatise on Physiological Optics* | 1867 | 无意识推理的原始来源 / Original source of unconscious inference |
+| 3 | Popper, K. | *The Logic of Scientific Discovery* | 1959 | 证伪主义与模型检验 / Falsificationism and model testing |
+
+### 认知科学基础 / Cognitive Science Foundations
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 理由 / Reason |
+|:---:|---|---|:---:|---|
+| 4 | Marr, D. | *Vision* | 1982 | 计算层级的认知科学经典 / Computational-level cognitive science classic |
+| 5 | Fodor, J. | *The Modularity of Mind* | 1983 | 模块化与认知渗透性的论争背景 / Modularity and cognitive penetration debate background |
+| 6 | Churchland, P. S. & Sejnowski, T. | *The Computational Brain* | 1992 | 计算神经科学基础 / Computational neuroscience foundations |
+| 7 | Knill, D. & Richards, W. (eds) | *Perception as Bayesian Inference* | 1996 | 贝叶斯感知研究的里程碑 / Milestone in Bayesian perception research |
+
+### 心灵哲学背景 / Philosophy of Mind Background
+
+| # | 作者 / Author | 著作 / Work | 年份 / Year | 理由 / Reason |
+|:---:|---|---|:---:|---|
+| 8 | Dennett, D. | *Consciousness Explained* | 1991 | 意识的多元草稿模型 / Multiple drafts model of consciousness |
+| 9 | Chalmers, D. | *The Conscious Mind* | 1996 | 意识的困难问题 / Hard problem of consciousness |
+| 10 | Dretske, F. | *Naturalizing the Mind* | 1995 | 自然化心灵的尝试 / Attempts to naturalize the mind |
+| 11 | Prinz, J. | *The Conscious Brain* | 2012 | 意识的当代理论 / Contemporary theories of consciousness |
+
+---
+
+## 五、学习建议 / V. Study Suggestions
+
+### 初学者路径（4周） / Beginner Path (4 weeks)
+- **第1周：** 阅读 *The Predictive Mind* 第1-3章，理解预测加工的基本框架 / Week 1: Read *The Predictive Mind* Ch.1-3, understand basic PP framework
+- **第2周：** 阅读第4-7章，理解精度加权和感知 / Week 2: Read Ch.4-7, understand precision weighting and perception
+- **第3周：** 阅读第8-10章，理解意识和行动 / Week 3: Read Ch.8-10, understand consciousness and action
+- **第4周：** 阅读 "The Self-Evidencing Brain" (2016) + Clark (2013) 对比 / Week 4: Read "Self-Evidencing Brain" (2016) + Clark (2013) for comparison
+
+### 进阶路径（8周） / Advanced Path (8 weeks)
+- **第1-2周：** 深入 *The Predictive Mind* 全书 + Friston (2010) / Weeks 1-2: Deep dive into *The Predictive Mind* + Friston (2010)
+- **第3-4周：** 阅读自我论证题论文 + Klein (2018) 批评 / Weeks 3-4: Read self-evidencing papers + Klein (2018) critique
+- **第5-6周：** 阅读 Clark (2016) *Surfing Uncertainty* + Hohwy 对 Clark 的回应 / Weeks 5-6: Read Clark (2016) + Hohwy's responses to Clark
+- **第7-8周：** 探索应用领域（精神病学、AI、美学）/ Weeks 7-8: Explore application areas (psychiatry, AI, aesthetics)
+
+### 研究者路径（12周+） / Researcher Path (12+ weeks)
+- 阅读所有 Hohwy 原著 + 核心二手文献 + 中文比较研究 / Read all Hohwy primary works + core secondary literature + Chinese comparative studies
+- 同时阅读 Friston 的技术论文，理解预测编码的数学基础 / Concurrently read Friston's technical papers to understand predictive coding's mathematical foundations
+- 探索东西方比较维度（唯识学、庄子、王阳明）/ Explore East-West comparative dimensions (Yogacara, Zhuangzi, Wang Yangming)
+- 参加预测加工哲学的学术研讨会 / Attend PP philosophy academic workshops

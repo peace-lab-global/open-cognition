@@ -1,0 +1,38 @@
+---
+id: cognitive-systems.safety-science.hollnagel-reading-list
+title: 霍纳格尔Safety-II进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: safety-science
+thinker: hollnagel
+tags: [hollnagel, reading-guide, safety-II]
+cross-refs: [{id: hollnagel, relation: thinker}]
+---
+
+# 霍纳格尔Safety-II进阶阅读
+
+## 入门
+1. Hollnagel, E. (2014). *Safety-I and Safety-II*, 第1-5章. Ashgate. — Safety-II范式入门
+2. Hollnagel, E. (2009). *The ETTO Principle*, 前两章. — ETTO原则入门
+
+## 原典
+- Hollnagel, E. (1998). *CREAM*. Pergamon.
+- Hollnagel, E. (2004). *Barriers and Accident Prevention*. Ashgate.
+- Hollnagel, E. (2009). *The ETTO Principle*. Ashgate.
+- Hollnagel, E. (2012). *FRAM*. Ashgate.
+- Hollnagel, E. (2014). *Safety-I and Safety-II*. Ashgate.
+
+## 二手研究
+- Woods, D. D., et al. (2006). *Resilience Engineering: Concepts and Precepts*. Ashgate.
+- Patriarca, R., et al. (2018). "FRAM for systemic accident analysis." *Safety Science*, 102, 1-13.
+- Hollnagel, E., et al. (2006). *Resilience Engineering*. Ashgate.
+- Nemeth, C., et al. (2008). *Resilience Engineering: Models and Analysis*. Ashgate.
+
+## 中文资源
+- Safety-II相关文献的中译与中文综述
+- 韧性工程中文研究文献
+- 人因工程与安全科学中文教材
+
+## 相关概念文件
+- [Safety-II](../../concepts/safety-II.md)
+- [韧性工程 Resilience Engineering](../../concepts/resilience-engineering.md)

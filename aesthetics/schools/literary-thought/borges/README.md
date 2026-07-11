@@ -1,0 +1,265 @@
+---
+id: borges
+title: 博尔赫斯 · Jorge Luis Borges
+type: thinker
+domain: aesthetics
+school: literary-thought
+era: contemporary
+birth: 1899
+death: 1986
+tags:
+  - infinity
+  - time
+  - identity
+  - language
+  - labyrinth
+  - metafiction
+aliases:
+  - Borges
+  - 博尔赫斯
+sources:
+  - Borges, *Ficciones* (1944)
+  - Borges, *El Aleph* (1949)
+  - Borges, *Labyrinths* (1962)
+  - Borges, *El libro de arena* (1975)
+  - Bioy Casares, *Borges* (oral biography, 2006)
+  - Emir Rodríguez Monegal, *Borges: A Biographical Essay* (1978)
+  - 陈众议《博尔赫斯的面孔》
+cross-refs:
+  - id: wittgenstein
+    relation: 平行
+  - id: leibniz
+    relation: 平行
+  - id: zhuangzi
+    relation: 同源
+  - id: kant
+    relation: 平行
+  - id: derrida
+    relation: 平行
+  - id: religion.buddhism.school.yogacara
+    relation: 平行
+children:
+  - concepts/infinity.md
+  - concepts/time.md
+  - concepts/identity.md
+  - concepts/language.md
+  - concepts/labyrinth.md
+  - works.md
+  - timeline.md
+  - reading-list.md
+related-comparative:
+  - ../../../philosophy/schools/comparative/borges-vs-yogacara.md
+  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+---
+
+# 博尔赫斯 · Jorge Luis Borges
+
+> **"天堂应该是图书馆的模样。"**
+> *Siempre imaginé que el Paraíso sería algún tipo de biblioteca.*
+
+## 基本信息
+
+- **全名**：Jorge Francisco Isidoro Luis Borges Acevedo
+- **生卒年**：1899 年 8 月 24 日 — 1986 年 6 月 14 日
+- **出生地**：阿根廷布宜诺斯艾利斯
+- **国籍 / 文化背景**：阿根廷,双语(西班牙语 / 英语)家庭
+- **学术身份**：短篇小说家、诗人、散文家、翻译家、图书馆馆长、教授
+- **学派归属**：文学思想 / 后现代主义先驱 / 思想小说
+- **代表职位**：1955 年起任阿根廷国立图书馆馆长(同年近乎全盲)
+- **荣誉**：国际福门托奖(1961,与贝克特共享)、塞万提斯奖提名(终身未获,常被视为诺奖"最大遗珠")
+
+## 一句话定位
+
+博尔赫斯是**20 世纪文学形而上学的建筑师**——以极简的短篇小说做哲学思想实验,用迷宫、图书馆、镜子、老虎、梦与无穷作为母题,把**时间、同一性、语言、虚构**的根本问题写成可阅读的叙事。
+
+## 核心命题
+
+### 1. 无穷的叙事化
+把数学的、哲学的无穷转化为**可读的故事**——图书馆包含一切可能的书(《巴别图书馆》),时间无限分叉(《小径分岔的花园》),书页无始无终(《沙之书》)。无穷不再是抽象,而是眩晕的体验。
+
+### 2. 时间是核心谜题
+时间不是线性流逝,而是**分叉、循环、可逆、层叠**的。他用故事做时间的思想实验,使时间成为文学的头号主题——比海德格尔、柏格森更凝练。
+
+### 3. 现实即虚构
+《特隆》中一个被集体虚构的世界渗透并取代了现实——博尔赫斯暗示,**我们所处的现实同样可能是被建构的文本**。这一命题领先后现代理论数十年。
+
+### 4. 同一性的迷宫
+"博尔赫斯"和"我"是两个人(《博尔赫斯和我》);同一性不是给定,而是谜题。镜像、替身、双胞胎、作者与角色——**自我是一个虚构**。
+
+### 5. 语言创造现实
+语言不是描述世界的工具,而是**建构世界的材料**。每一种语言都是一个宇宙;翻译是可能的,因为所有语言共享一个深层结构。
+
+### 6. 哲学即叙事实验
+他的每篇短制都是一个哲学思想实验,以最精炼的篇幅抵达形而上学最远的边疆。叙事即论证,小说即哲学。
+
+## 思想脉络
+
+详见 [timeline.md](timeline.md)。
+
+### 早期(1899–1930s)· 欧洲游学与极端主义
+- 1899 生于布宜诺斯艾利斯,家族有英国血统,自幼双语阅读
+- 1914 随家旅居瑞士日内瓦,学习法语、德语,阅读叔本华、卡莱尔、惠特曼
+- 1919–1921 在西班牙参与**极端主义**(Ultraísmo)运动,主张剔除修辞、追求纯粹意象
+- 1921 回到布宜诺斯艾利斯,创办《船首》(Proa)等杂志,成为阿根廷现代诗歌奠基者
+- 1920s–1930s 以诗歌与随笔为主,出版《布宜诺斯艾利斯的热情》(1923)、《面前的月亮》(1925)、《圣马丁札记》(1929)
+
+### 中期(1939–1952)· 思想小说顶峰
+- 1938 父亲去世;同年自己头部受伤,住院期间写出《皮埃尔·梅纳尔,<堂吉诃德>的作者》,标志**思想小说**诞生
+- 1941 出版《小径分岔的花园》(*El jardín de senderos que se bifurcan*)
+- 1944 出版《虚构集》(*Ficciones*),分两部分:"环形废墟"与"手工艺品"
+- 1949 出版《阿莱夫》(*El Aleph*)
+- 1952 出版《其他探讨》(*Otras inquisiciones*),随笔集
+- 此期发明"伪学术"文体——用书评、注释、参考文献的形式包装虚构,使哲学论证与叙事合一
+
+### 晚期(1955–1986)· 失明、口述与世界声誉
+- 1955 任阿根廷国立图书馆馆长;同年因遗传性眼疾近乎全盲——**"天堂赐予他八十万册书与黑暗"**
+- 1956 被庇隆政权解职,成为反独裁象征
+- 凭借口述、母亲抄写与世界巡讲,成为全球性文化偶像
+- 影响后现代文学、魔幻现实主义(马尔克斯、科塔萨尔)、科幻、网络文化
+- 失明后的诗与寓言更显凝练,主题转向**永恒、迷宫与梦**
+- 主要晚期作品:《造物主》(1960)、《布罗迪报告》(1970)、《沙之书》(1975)
+- 1986 年在日内瓦去世,与家族传统一致地远离庇隆主义的阿根廷
+
+## 五大核心母题
+
+| 母题 | 代表作 | 子条目 |
+|---|---|---|
+| **无穷** | 《巴别图书馆》《沙之书》《扎伊尔》 | [infinity.md](concepts/infinity.md) |
+| **时间** | 《小径分岔的花园》《环形废墟》《秘密奇迹》 | [time.md](concepts/time.md) |
+| **同一性** | 《博尔赫斯和我》《另一个人》《主题与背叛》 | [identity.md](concepts/identity.md) |
+| **语言** | 《特隆,乌克巴尔,第三世界》《皮埃尔·梅纳尔》 | [language.md](concepts/language.md) |
+| **迷宫** | 《阿斯特里翁之屋》《死亡与罗盘》《两位国王与两个迷宫》 | [labyrinth.md](concepts/labyrinth.md) |
+
+## 关键著作
+
+详见 [works.md](works.md)。
+
+### 三大思想小说集(必读)
+- **《虚构集》** (*Ficciones*, 1944)— 含《巴别图书馆》《小径分岔的花园》《特隆》《环形废墟》《皮埃尔·梅纳尔》
+- **《阿莱夫》** (*El Aleph*, 1949)— 含《阿莱夫》《扎伊尔》《永生者》《埃玛·宗兹》
+- **《沙之书》** (*El libro de arena*, 1975)— 晚期短制,最凝练的无穷隐喻
+
+### 其他重要作品
+- 诗集:《布宜诺斯艾利斯的热情》(1923)、《造物主》(1960)、《老虎的金黄》(1972)
+- 随笔:《探讨集》(1932)、《历史与永恒》(1936)、《其他探讨》(1952)
+- 合著:《幻象动物手册》(1957,后扩展为《幻象集》)、与比奥伊·卡萨雷斯合著的《布斯塔斯·多梅克故事集》
+
+## 重要概念速查
+
+- **巴别图书馆**(La biblioteca de Babel) — 包含一切可能字母组合的图书馆,大部分无意义,但必然包含所有真理
+- **分岔的时间**(tiempo ramificado) — 时间不是线性,每一刻都在分叉,产生无限平行宇宙
+- **特隆**(Tlön) — 一个被集体虚构的完整世界,暗示现实本身可能是建构
+- **阿莱夫**(El Aleph) — 一个包含宇宙一切点的点,空间无穷的瞬时显现
+- **扎伊尔**(El Zahir) — 一旦被看见就占据全部记忆的物,是"记得过清楚"的执念隐喻
+- **沙之书**(El libro de arena) — 一本没有首页也没有末页的书,无穷的终极隐喻
+- **环形废墟**(Las ruinas circulares) — 梦中造梦,最终发现造梦者自己也是被梦见的
+
+## 当代应用
+
+- **超文本与网络文化** — 博尔赫斯的图书馆、互文网络、分岔叙事被公认为**互联网、超文本、维基**的文学预演
+- **多世界与量子叙事** — 分岔的时间与当代多世界诠释、平行宇宙科幻(《瞬息全宇宙》等)共享同一思想源头
+- **元小说与后现代理论** — 博尔赫斯是后现代"作者之死"、互文性、虚拟与现实边界的奠基性先驱
+- **认知科学 / 预测加工** — 虚构渗透现实的主题,与预测加工中"幻觉即知觉"的当代理论形成哲学对话
+- **图书馆学 / 信息检索** — 巴别图书馆的"全部组合"成为讨论无穷信息、噪音与信号、检索不可能性的经典模型
+- **AI / 生成式模型** — 大语言模型是当代的"巴别图书馆":生成一切可能文本,信号与噪音同存
+
+## 常见误读
+
+- ❌ "博尔赫斯是纯文学,不涉哲学" → ✅ 他的每篇小说都是一个哲学思想实验,叙事即论证
+- ❌ "他的作品晦涩难读" → ✅ 他的语言极其精确简洁,复杂的是概念,不是语言
+- ❌ "博尔赫斯只玩文字游戏" → ✅ 他的虚构指向最根本的本体论问题——实在、时间、同一性的根基
+- ❌ "博尔赫斯是魔幻现实主义" → ✅ 他是**思想小说家**,与马尔克斯的现实主义—魔幻路线平行但不同源
+- ❌ "博尔赫斯悲观" → ✅ 他保持审美的距离与智性的快乐,迷宫是**可游戏的**
+
+## 跨学科关联
+
+### 哲学
+- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言的界限与博尔赫斯对语言的迷宫式探索
+- [莱布尼茨](../../../philosophy/schools/rationalism/leibniz.md) `[平行]` 可能世界理论与分岔时间
+- [康德](../../../philosophy/schools/german-idealism/kant.md) `[平行]` 现象与物自体的裂隙,现实可能是心智建构的隐喻
+- [德里达](../../../philosophy/schools/post-structuralism/derrida.md) `[平行]` 文本的无限延异与博尔赫斯的无穷图书馆
+- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 永恒轮回与《环形废墟》的循环时间
+
+### 东方思想
+- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[同源]` 梦与觉、真实与虚构的本体困惑,《特隆》与庄周梦遥相呼应
+- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 博尔赫斯是"文学的唯识"——《特隆》≈ 遍计所执、阿莱夫 ≈ 大圆镜智、巴别图书馆 ≈ 阿赖耶识
+
+### 文学
+- [卡夫卡](../literary-thought/kafka.md) `[平行]` 迷宫、悖论、官僚体系的噩梦感
+- [鲁迅](../literary-thought/lu-xun.md) `[平行]` 短制的密度与启蒙的锋利
+- [塞万提斯](../../novelists/cervantes.md) `[同源]` 《堂吉诃德》是博尔赫斯元小说的源头
+
+## 东西方对话:博尔赫斯 × 唯识
+
+博尔赫斯与 4–7 世纪的印度—汉传**唯识学**在结构上高度同构,却在目的上完全相反——**博尔赫斯是文学的唯识,唯识是修道的博尔赫斯**。
+
+- **《特隆》≈ 遍计所执** — 虚构的世界取代现实,对应唯识在依他起上通过名言投射出的实体化自性。
+- **阿莱夫 ≈ 大圆镜智** — 二者都是"全知之镜"的隐喻;但阿莱夫的目击者被压垮,大圆镜智的证得者自在解脱。
+- **巴别图书馆 ≈ 阿赖耶识** — 都是无穷信息的储存库;但前者是无因果的组合空间(让人绝望),后者是有因果的相续流(让人可修)。
+- **分岔的时间 ≈ 刹那生灭** — 都否定线性时间;但前者是扇形扩张(可能性),后者是单向相续(因果)。
+- **扎伊尔 ≈ 烦恼心所** — 意识的单点化陷阱;博尔赫斯当作命运的隐喻,唯识当作需要对治的心理机制。
+
+> 完整对照见 [博尔赫斯 × 唯识](../../../philosophy/schools/comparative/borges-vs-yogacara.md)
+
+## 语录考证
+
+### "爱上一个人,就是创造一种信仰,侍奉一个随时会陨落的神"
+
+- **西班牙语原文**:*Enamorarse es crear una religión cuyo dios es falible.*
+- **英文通行译本**:*To fall in love is to create a religion that has a fallible god.*
+- **归属**:**博尔赫斯**(广泛流传,西班牙语原文可证)
+- **出处**:未在《虚构集》《阿莱夫》等正式作品中找到;**未收录于英文 Wikiquote**;学界倾向于视为**口头语录或散佚句**,具体出处(散文 / 访谈 / 讲演)不明
+- **直译校正**:*falible* 直译为"可错的、会犯错的"(fallible),非"会陨落"。更精确的译法:
+  > 爱上一个人,就是创造一种宗教,**其神是会犯错的**。
+  "随时会陨落的神"是诗意化的再诠释,传达了"不可靠 / 会倒塌"的意味,但并非原文字义
+- **思想气质相符**:即便出处难考,这句话与博尔赫斯的主题**高度一致**——对宗教的审美化处理("宗教是文学的一种体裁")、对"有限 / 易错的神"的兴趣(《神学家》《环形废墟》)、将爱情与信仰并置的文学姿态(《恋人》《我用什么才能留住你》)
+
+### 其他经典语录
+- *Siempre imaginé que el Paraíso sería algún tipo de biblioteca.* — "我总想象天堂是某种图书馆的模样。"(《关于天赐的诗》)
+- *He cometido el peor pecado que uno puede cometer. No he sido feliz.* — "我犯了人能犯的最重的罪。我不曾快乐。"(《悔恨》)
+- *Un libro es una cosa entre las cosas, un volumen perdido entre los volúmenes que pueblan el indiferente universo; hasta que da con su lector, con el hombre destinado a sus símbolos.* — "书是万物中的一物,直到遇见它的读者。"
+
+## 进阶阅读
+
+详见 [reading-list.md](reading-list.md)。
+
+### 入门首选
+- 《虚构集》《阿莱夫》(思想小说双璧)
+- 短篇精选:《巴别图书馆》《小径分岔的花园》《特隆》《阿莱夫》《沙之书》《环形废墟》《皮埃尔·梅纳尔,<堂吉诃德>的作者》
+
+### 原典
+- 《虚构集》(1944)
+- 《阿莱夫》(1949)
+- 《其他探讨》(1952)
+- 《沙之书》(1975)
+- 《布罗迪报告》(1970)
+
+### 二手研究
+- Bioy Casares, *Borges* (oral biography, 2006)
+- Emir Rodríguez Monegal, *Borges: A Biographical Essay* (1978)
+- Jaime Alazraki, *Borges and the Cabalah* (1988)
+- Gene H. Bell-Villada, *Borges and His Fiction* (2000)
+
+### 中文资源
+- 王央成 译《博尔赫斯全集》(上海译文出版社)
+- 陈众议《博尔赫斯的面孔》
+- 格非《博尔赫斯的面孔与他的迷宫》
+- 傅伟勋《从西方哲学到禅佛教》(涉及比较)
+
+## 子条目索引
+
+| 子条目 | 内容 |
+|---|---|
+| [concepts/infinity.md](concepts/infinity.md) | 无穷 · 巴别图书馆 · 沙之书 |
+| [concepts/time.md](concepts/time.md) | 时间 · 分岔 · 循环 |
+| [concepts/identity.md](concepts/identity.md) | 同一性 · 镜像 · 替身 |
+| [concepts/language.md](concepts/language.md) | 语言 · 特隆 · 翻译 |
+| [concepts/labyrinth.md](concepts/labyrinth.md) | 迷宫 · 老虎 · 镜子 |
+| [works.md](works.md) | 作品总览 |
+| [timeline.md](timeline.md) | 思想年表 |
+| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+
+## 比较页
+
+- [博尔赫斯 × 唯识](../../../philosophy/schools/comparative/borges-vs-yogacara.md)
+- [存在主义 × 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md)(平行比较)

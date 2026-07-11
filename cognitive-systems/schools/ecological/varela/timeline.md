@@ -1,0 +1,23 @@
+---
+id: cognitive-systems.school.ecological.varela.timeline
+title: 瓦雷拉思想年表 Francisco Varela Timeline
+type: timeline
+thinker: varela
+domain: cognitive-systems
+school: ecological
+---
+
+# 瓦雷拉思想年表
+
+### 1946 · 出生于智利
+### 1970s · 自创生理论（与Maturana）
+### 1980 · 《Autopoiesis and Cognition》
+### 1991 · 《The Embodied Mind》（与Thompson & Rosch）
+### 1996 · "Neurophenomenology"
+### 1990s · 心智与生命研究所
+### 2001 · 逝世
+
+## 思想演变
+```
+自创生 (1970s) → 生成认知 (1991) → 神经现象学 (1996) → 冥想对话 (1990s)
+```

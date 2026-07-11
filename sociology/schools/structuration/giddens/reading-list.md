@@ -1,0 +1,61 @@
+---
+id: giddens-reading-list
+title: 吉登斯进阶书单 · Giddens Reading List
+type: reading-list
+domain: sociology
+thinker: giddens
+school: structuration
+---
+
+# 吉登斯系统阅读指南 / Giddens Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Anthony Giddens* (2003) | Steven Elliott & Larry Ray | 简明思想评传 |
+| *Giddens: A Critical Introduction* | Ian Craib | 批判性导论 |
+| *Giddens' Theory of Structuration: A Critical Appreciation* | Christopher Bryant & David Jary (eds.) | 结构化理论评析 |
+| *Reading Giddens* | Paul Hirst | 政治学视角的吉登斯解读 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会的构成》 | 1984 | 结构二重性；行动理论；制度分析 |
+| 《现代性的后果》 | 1990 | 现代性四维度；脱域；反思性 |
+| 《现代性与自我认同》 | 1991 | 自我工程；存在性焦虑；生活政治 |
+| 《社会学方法的新规则》 | 1976 | 方法论批判；结构化理论起源 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会理论的核心问题》 | 1979 | 行动理论；结构与系统 |
+| 《民族-国家与暴力》 | 1985 | 监控；行政权力 |
+| 《亲密关系的变革》 | 1992 | 纯粹关系；情感民主 |
+| 《第三条道路》 | 1998 | 社会民主主义更新 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Social Theory after Giddens* (2014) | Mark Haugaard | 吉登斯之后的社会理论 |
+| *Giddens, Structuration and the Duality of Structure* (2011) | Anthony King | 结构化理论的批判性分析 |
+| *Margaret Archer, Realist Social Theory* (1995) | Margaret Archer | 对"中心合并"问题的重要批判 |
+| *Strong Structuration Theory* (2011) | Rob Stones | 结构化理论的修正和发展 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Risk Society* (1992) | Ulrich Beck | 反思性现代化；风险社会 |
+| *Liquid Modernity* (2000) | Zygmunt Bauman | 流动现代性 |
+| *The Network Society* (1996) | Manuel Castells | 信息时代的结构化 |
+| *Practice Theory* (2001) | Theodore Schatzki et al. | 实践理论对结构化理论的发展 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Elliott & Ray评传 → 《现代性的后果》→ 《现代性与自我认同》选读
+**阶段二**（4-8周）: 《社会的构成》（第一部分：行动与日常社会生活）→ 《社会学方法的新规则》
+**阶段三**（8周+）: 《社会理论的核心问题》→ 《民族-国家与暴力》→ Archer批判 → Stones的强结构化理论 → 《第三条道路》

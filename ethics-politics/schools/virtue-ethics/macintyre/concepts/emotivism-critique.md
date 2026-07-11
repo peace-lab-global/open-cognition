@@ -1,0 +1,86 @@
+---
+id: macintyre-emotivism-critique
+title: "情感主义批判 · Critique of Emotivism"
+type: concept
+thinker: macintyre
+domain: ethics-politics
+school: virtue-ethics
+tags: [emotivism, moral-language, moral-disorder, modern-crisis, meta-ethics]
+cross-refs:
+  - id: macintyre
+    relation: thinker
+  - id: macintyre-after-virtue
+    relation: related-concept
+  - id: macintyre-tradition-constituted
+    relation: related-concept
+---
+
+# 情感主义批判 · Critique of Emotivism
+
+## 概念概述 / Concept Overview
+
+情感主义批判是麦金泰尔对现代道德哲学最尖锐的诊断性贡献。麦金泰尔认为，当代道德话语——表面上是关于正义、权利、义务和善的客观断言——实际上已经退化为情感主义（emotivism）：道德判断不过是个人偏好、态度和情感的表达，伪装成客观的道德命题。这一退化不是偶然的，而是启蒙运动以来道德哲学发展的必然结果。启蒙思想家试图为道德建立不依赖任何传统的普遍理性基础，但这一努力失败了，留下的是一个道德语言碎片化的世界——人们使用来自不同传统的概念，但这些概念已经丧失了赋予其意义的传统语境。
+
+The critique of emotivism is MacIntyre's sharpest diagnostic contribution to modern moral philosophy. MacIntyre argues that contemporary moral discourse — ostensibly consisting of objective assertions about justice, rights, duties, and the good — has in fact degenerated into emotivism: moral judgments are nothing more than expressions of personal preference, attitude, and feeling, disguised as objective moral propositions. This degeneration is not accidental but the inevitable result of moral-philosophical development since the Enlightenment. Enlightenment thinkers attempted to establish a universal rational foundation for morality independent of any tradition, but this effort failed, leaving a world of fragmented moral language — people use concepts drawn from different traditions, but these concepts have lost the traditional context that gave them meaning.
+
+## 理论内涵 / Theoretical Content
+
+麦金泰尔对情感主义的批判建立在对20世纪元伦理学（meta-ethics）的深入分析之上。情感主义最初由逻辑实证主义者艾耶尔（A. J. Ayer）和史蒂文森（C. L. Stevenson）提出，后来由黑尔（R. M. Hare）以"规定主义"（prescriptivism）的形式发展。其核心主张是：道德判断不是事实陈述，而是情感或态度的表达——"杀人是不对的"实质上等于"我反对杀人，你也应该反对"。麦金泰尔的独特之处在于，他不仅将情感主义视为一种元伦理学理论，更将其视为当代道德文化的实际状况。
+
+MacIntyre's critique of emotivism is grounded in a deep analysis of twentieth-century meta-ethics. Emotivism was initially proposed by logical positivists Ayer and Stevenson, and later developed by Hare in the form of "prescriptivism." Its core claim is that moral judgments are not factual statements but expressions of emotion or attitude — "killing is wrong" is essentially equivalent to "I disapprove of killing, and you should too." MacIntyre's distinctive contribution is to treat emotivism not merely as a meta-ethical theory but as the actual condition of contemporary moral culture.
+
+麦金泰尔论证说，情感主义之所以成为当代道德话语的实际状况，是因为启蒙规划的失败。启蒙思想家——从休谟到康德到功利主义者——试图在剥离传统和目的论的前提下为道德建立理性基础，但每一个这样的尝试都内在矛盾：他们试图从纯粹理性中推导出道德义务，但没有目的论框架（即没有关于人类善的共享理解），这种推导是不可能的。结果，道德语言保留了其客观性外观——我们仍然用"应当""必须""有义务"这样的词汇——但这些词汇已经丧失了其实质内容，成为情感表达的修辞装饰。
+
+MacIntyre argues that emotivism has become the actual condition of contemporary moral discourse because of the failure of the Enlightenment project. Enlightenment thinkers — from Hume to Kant to the utilitarians — attempted to establish rational foundations for morality while stripping away tradition and teleology, but each such attempt was internally contradictory: they tried to derive moral obligations from pure reason, but without a teleological framework (a shared understanding of human goods), such derivation is impossible. The result is that moral language retains its objective appearance — we still use words like "should," "must," and "ought" — but these words have lost their substantive content, becoming rhetorical ornaments for emotional expression.
+
+麦金泰尔进一步指出，情感主义文化的典型特征是道德争论的无尽性（interminability）。当道德判断只是偏好表达时，不同偏好之间就没有理性解决的可能——关于堕胎、战争、分配正义的争论会无限期地持续下去，因为参与者使用的概念来自不同的传统，而他们共享的只是情感主义的元框架。
+
+MacIntyre further notes that a characteristic feature of emotivist culture is the interminability of moral disputes. When moral judgments are merely preference-expressions, there can be no rational resolution between different preferences — debates about abortion, war, and distributive justice continue indefinitely because the participants employ concepts drawn from different traditions, while sharing only an emotivist meta-framework.
+
+## 思想史脉络 / Intellectual History
+
+情感主义批判的思想史定位可以从三条线索来理解。第一条线索是20世纪英美元伦理学的发展：从摩尔（G. E. Moore）的直觉主义，到艾耶尔的情感主义，到黑尔的规定主义，再到各种自然主义和非自然主义的元伦理学理论。麦金泰尔认为，这些理论之间的争论本身就证明了情感主义的胜利——它们争论的是道德语言的"意义"，却无法就道德判断的实质内容达成共识。第二条线索是启蒙运动以来的道德哲学史：从休谟的情感论到康德的义务论到密尔的功利主义，每一次试图为道德建立新基础的努力都产生了新的矛盾。第三条线索是安斯康姆1958年的论文《现代道德哲学》，她首次系统地论证了现代道德哲学的内在困境。
+
+The intellectual-historical positioning of the emotivism critique can be traced along three lines. The first is the development of twentieth-century Anglo-American meta-ethics: from Moore's intuitionism through Ayer's emotivism to Hare's prescriptivism and various naturalistic and non-naturalistic theories. MacIntyre argues that the debates among these theories themselves demonstrate emotivism's victory — they dispute the "meaning" of moral language without reaching consensus on the substantive content of moral judgments. The second line is the history of moral philosophy since the Enlightenment: from Hume's sentimentalism to Kant's deontology to Mill's utilitarianism, each attempt to establish new foundations for morality generated new contradictions. The third is Anscombe's 1958 essay "Modern Moral Philosophy," which first systematically articulated the internal difficulties of modern moral philosophy.
+
+## 关键文本 / Key Passages
+
+> "Emotivism is the doctrine that all evaluative judgments and more specifically all moral judgments are nothing but expressions of preference, expressions of attitude or feeling, insofar as they are moral or evaluative in character." (*After Virtue*, Ch. 3)
+
+麦金泰尔在此给出了情感主义的经典定义，为后续批判奠定了基础。MacIntyre here gives the classic definition of emotivism, laying the foundation for his subsequent critique.
+
+> "It is a central thesis of this book that... the language of morality is in... a state of grave disorder." (*After Virtue*, Ch. 2)
+
+这段话是麦金泰尔全书的核心诊断：道德语言处于严重混乱之中，而这种混乱的根源是情感主义。This passage states the book's central diagnosis: moral language is in grave disorder, and the root of this disorder is emotivism.
+
+> "We possess indeed simulacra of morality, we continue to use many of the same expressions. But we have, very largely, if not entirely, lost our comprehension, both theoretical and practical, of morality." (*After Virtue*, Ch. 1)
+
+麦金泰尔在此以惊人的方式描述了道德话语的崩溃：我们保留了道德的外壳，但丧失了其实质。MacIntyre here describes the collapse of moral discourse in striking terms: we retain the shell of morality but have lost its substance.
+
+## 当代应用 / Contemporary Applications
+
+情感主义批判对理解当代公共话语具有直接的相关性。在政治辩论中，不同立场的参与者经常使用相同的道德词汇（"正义""自由""平等"），但赋予它们完全不同的含义——这正是麦金泰尔所描述的道德语言碎片化。在社交媒体时代，情感主义进一步加剧：道德判断被简化为"点赞"和"踩"，道德争论退化为情感对抗。在文化战争中，对立双方往往无法理解对方的道德语言，因为他们的概念来自不同的传统，而他们共享的只是情感主义的元框架——"我支持/反对X"。麦金泰尔的诊断为理解这些当代困境提供了深刻的哲学工具。
+
+The emotivism critique has direct relevance to understanding contemporary public discourse. In political debates, participants from different positions frequently use the same moral vocabulary ("justice," "freedom," "equality") but assign them completely different meanings — precisely the fragmentation of moral language that MacIntyre describes. In the social media age, emotivism has been further intensified: moral judgments are reduced to "likes" and "dislikes," moral debates degenerate into emotional confrontations. In culture wars, opposing sides often cannot understand each other's moral language because their concepts come from different traditions while sharing only an emotivist meta-framework — "I support/oppose X." MacIntyre's diagnosis provides profound philosophical tools for understanding these contemporary predicaments.
+
+## 批评与回应 / Critiques and Responses
+
+**批评 / Critique**: 一些元伦理学家认为麦金泰尔误解了情感主义——情感主义是一种关于道德语言意义的语义学理论，而非关于道德文化实际状况的社会学诊断。Some meta-ethicists argue that MacIntyre misunderstands emotivism — it is a semantic theory about the meaning of moral language, not a sociological diagnosis of the actual condition of moral culture.
+**回应 / Response**: 麦金泰尔在第三版后记中回应说，他的论点恰恰是：情感主义作为一种元伦理学理论之所以被提出和广泛接受，是因为它准确描述了当代道德话语的实际状况。MacIntyre responded in the third edition postscript that his argument is precisely this: emotivism was proposed and widely accepted as a meta-ethical theory because it accurately describes the actual condition of contemporary moral discourse.
+
+**批评 / Critique**: 批评者认为麦金泰尔低估了现代道德话语中的理性元素——即使在情感主义文化中，人们仍然能够进行理性的道德论证。Critics argue that MacIntyre underestimates the rational elements in modern moral discourse — even in an emotivist culture, people can still engage in rational moral argumentation.
+**回应 / Response**: 麦金泰尔承认人们仍然能够进行道德推理，但他坚持认为，在缺乏共享的传统和目的论框架的情况下，这种推理最终会退化为偏好的对抗。MacIntyre acknowledges that people can still engage in moral reasoning, but insists that without a shared tradition and teleological framework, such reasoning ultimately degenerates into the clash of preferences.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+情感主义批判在东亚语境中引发了有趣的回应。一些中国学者指出，当代中国社会的道德话语也面临着类似的碎片化危机——传统儒家伦理、马克思主义伦理、西方自由主义伦理和市场经济伦理并存竞争，但缺乏一个整合性的传统来赋予这些概念以一致的意义。麦金泰尔的情感主义诊断为分析这种道德混乱提供了有用的框架。同时，儒家传统对"名实之辨"（distinction between name and reality）的关注也与麦金泰尔的诊断产生了共鸣——当道德概念（名）脱离了其实践基础（实）时，道德话语就会陷入虚假和混乱。
+
+The emotivism critique has provoked interesting responses in the East Asian context. Some Chinese scholars have noted that contemporary Chinese moral discourse faces a similar fragmentation crisis — traditional Confucian ethics, Marxist ethics, Western liberal ethics, and market-economy ethics coexist in competition, but lack an integrative tradition to give these concepts consistent meaning. MacIntyre's emotivist diagnosis provides a useful framework for analyzing this moral disorder. Meanwhile, the Confucian concern with the "distinction between name and reality" (*ming-shi zhi bian*) also resonates with MacIntyre's diagnosis — when moral concepts (names) are detached from their practical foundations (reality), moral discourse falls into falsity and confusion.
+
+## 延伸阅读 / Further Reading
+
+1. MacIntyre, *After Virtue*, Chs. 1-5 (the emotivism diagnosis)
+2. Ayer, A. J., *Language, Truth and Logic* (1936), Ch. 6
+3. Hare, R. M., *The Language of Morals* (1952)
+4. Anscombe, G. E. M., "Modern Moral Philosophy" (1958)
+5. 万俊人《现代西方伦理学史》上卷，第六章（情感主义）

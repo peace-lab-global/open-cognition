@@ -1,0 +1,136 @@
+---
+id: dewey-art-as-experience
+title: 艺术即经验 · Art as Experience
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - aesthetics
+  - art
+  - aesthetic-experience
+  - museum-conception
+  - 美学
+  - 艺术
+  - 审美经验
+parent: dewey
+---
+
+# 艺术即经验 · Art as Experience
+
+> "The sources of art in human experience will be understood by him who learns how to see the rudiments of the aesthetic experience in the scenes and incidents of everyday life."
+>
+> "学会在日常生活中看到审美经验的萌芽，就能理解艺术在人类经验中的根源。"
+>
+> — John Dewey, *Art as Experience* (1934)
+
+---
+
+## 概述 / Overview
+
+《艺术即经验》（1934）是杜威美学思想的巅峰之作，也是20世纪最重要的美学著作之一。杜威在其中论证了一个革命性的主张：艺术不应被理解为孤立的作品或博物馆中的藏品，而应被理解为一种特殊类型的经验——"审美经验"（aesthetic experience）。当一个日常经验达到完满、统一和强化时，它就具有了审美品质。艺术与生活之间不存在本质的鸿沟。
+
+*Art as Experience* (1934) is the pinnacle of Dewey's aesthetic thought and one of the most important aesthetic works of the 20th century. In it, Dewey advanced a revolutionary claim: art should not be understood as isolated works or museum pieces but as a special type of experience—"aesthetic experience." When an everyday experience achieves consummation, unity, and intensification, it possesses aesthetic quality. There is no essential gulf between art and life.
+
+---
+
+## "一个经验" / "An Experience"
+
+### 什么是"一个经验" / What Is "An Experience"
+
+杜威区分了普通意义上的"经验"和他所称的"一个经验"（an experience）。日常生活中我们的大多数经验是零散的、未完成的——被打断、被转移、缺乏统一性。但当一个经验具有自身的完整性、统一性和内在动力时，它就是"一个经验"。
+
+Dewey distinguished "experience" in the ordinary sense from what he called "an experience." In daily life, most of our experiences are fragmented, incomplete—interrupted, diverted, lacking unity. But when an experience possesses its own completeness, unity, and internal momentum, it is "an experience."
+
+**"一个经验"的特征 / Characteristics of "An Experience"**:
+
+1. **完整性 / Completeness**：它有明确的开始、发展和结束，是一个完整的运动过程。/ It has a clear beginning, development, and ending—a complete movement.
+2. **统一性 / Unity**：经验中的各个环节不是机械地排列，而是由一个贯穿始终的质性（quality）统一起来的。/ The phases of experience are not mechanically arranged but unified by a pervasive quality throughout.
+3. **节奏性 / Rhythmicity**：经验在紧张与放松、期待与满足之间形成动态节奏。/ Experience forms a dynamic rhythm between tension and relaxation, anticipation and fulfillment.
+4. **累积性 / Cumulativeness**：每一个阶段都在前一阶段的基础上积累和发展，最终达到 consummation（完满）。/ Each phase accumulates and develops upon the previous, ultimately reaching consummation.
+
+例如：一次完整的对话、一场投入的运动、一次成功的烹饪、一次全神贯注的阅读——这些都可以是"一个经验"。
+
+For example: a complete conversation, an engrossing athletic performance, a successful cooking session, an absorbed reading—these can all be "an experience."
+
+---
+
+## 审美经验 / Aesthetic Experience
+
+### 审美经验的定义 / Definition of Aesthetic Experience
+
+对杜威而言，审美经验是"一个经验"的典范形态——当经验的完满性和统一性达到最高程度时，它就是审美的。审美经验不是一种特殊类型的经验（与日常经验截然不同），而是经验的完满实现。
+
+For Dewey, aesthetic experience is the paradigmatic form of "an experience"—when the completeness and unity of experience reaches its highest degree, it is aesthetic. Aesthetic experience is not a special type of experience (fundamentally different from everyday experience) but the consummate realization of experience.
+
+这意味着：
+
+This means:
+
+- 审美不是精英的特权：任何人只要充分投入地经验，就能获得审美经验。/ Aesthetics is not an elite privilege: anyone who fully engages in experience can attain aesthetic experience.
+- 审美不限于艺术：工匠在精心制作器具时、科学家在发现规律时、园丁在培育花草时，都可能获得审美经验。/ Aesthetics is not limited to art: a craftsman carefully making tools, a scientist discovering patterns, a gardener cultivating plants—all may have aesthetic experience.
+- 审美与认知不矛盾：审美经验包含认知维度——对经验中关系的感知和把握本身就是审美的。/ Aesthetics does not contradict cognition: aesthetic experience includes a cognitive dimension—perceiving and grasping relations within experience is itself aesthetic.
+
+### 审美经验的质性统一 / Qualitative Unity of Aesthetic Experience
+
+杜威强调，审美经验的统一性不是由概念或主题提供的，而是由一种弥漫性的"质性"（pervasive quality）提供的。这种质性在经验之先就被感受到——它像一个"基调"（key note），引导着经验的展开方向。艺术家在创作过程中并不总是清楚最终作品会是什么样，但他们始终感受到一种质性的引导。
+
+Dewey emphasized that the unity of aesthetic experience is provided not by concepts or themes but by a "pervasive quality." This quality is felt before the experience unfolds—it acts like a "keynote" guiding the direction of the experience's development. Artists in the creative process do not always know what the final work will be like, but they always feel a qualitative guidance.
+
+---
+
+## 反博物馆概念 / Against the Museum Conception
+
+### 博物馆概念的问题 / The Problem with the Museum Conception
+
+杜威批判了他所称的"艺术的博物馆概念"（the museum conception of art）。这种概念将艺术作品从日常生活中隔离出来，放置在博物馆、画廊和音乐厅中，使之成为仅供静观的对象。杜威认为这种做法扭曲了艺术的本质：
+
+Dewey criticized what he called "the museum conception of art." This conception isolates artworks from everyday life, placing them in museums, galleries, and concert halls, making them objects for mere contemplation. Dewey held that this practice distorts the essence of art:
+
+1. **艺术脱离了其产生的语境**：一件艺术品最初是在特定的社会、文化和生活语境中创作的。将它放入博物馆就切断了它与生活经验的联系。/ Art is divorced from its originating context: an artwork was originally created in a specific social, cultural, and life context. Placing it in a museum severs its connection to lived experience.
+2. **艺术变成了身份和资本的象征**：博物馆概念使艺术成为少数人的文化资本，而非所有人的经验资源。/ Art becomes a symbol of status and capital: the museum conception makes art the cultural capital of the few rather than an experiential resource for all.
+3. **审美变成了被动的观赏**：博物馆鼓励的是静观式的审美态度，而非积极的、参与性的经验。/ Aesthetics becomes passive contemplation: the museum encourages a contemplative aesthetic attitude rather than active, participatory experience.
+
+### 艺术应回归生活 / Art Should Return to Life
+
+杜威并不主张取消博物馆，而是主张恢复艺术与生活的联系。他理想中的艺术不是一种特殊的物品类别，而是一种特殊的经验品质——任何活动、任何经验都可能具有审美品质。一个社区节日、一次手工艺制作、一场即兴音乐表演——这些都是艺术的活生生体现。
+
+Dewey did not advocate abolishing museums but restoring the connection between art and life. In his ideal, art is not a special category of objects but a special quality of experience—any activity, any experience may possess aesthetic quality. A community festival, a handicraft session, an impromptu musical performance—these are all living manifestations of art.
+
+---
+
+## 艺术的表现理论 / Expression Theory of Art
+
+### 表现即组织 / Expression as Organization
+
+杜威提出了自己独特的表现理论。他反对两种极端：一种是"自我表现"论——艺术是艺术家内心情感的直接倾泻；另一种是形式主义——艺术是纯粹的形式组合。杜威认为表现是将内在冲动与外部材料相融合的组织过程。艺术家不是简单地"表达"已有的情感，而是在与材料的交互中发现和创造新的意义。
+
+Dewey proposed a distinctive expression theory. He opposed two extremes: "self-expression" theory—art as the direct outpouring of the artist's inner emotions—and formalism—art as pure formal composition. Dewey held that expression is the organizational process of fusing inner impulse with external material. The artist does not simply "express" pre-existing emotions but discovers and creates new meanings through interaction with material.
+
+### 媒介的重要性 / The Importance of Medium
+
+杜威强调，艺术家与媒介（medium）的关系是审美经验的核心。绘画之于画家、声音之于音乐家、语言之于诗人——媒介不是被动的工具，而是主动的对话伙伴。艺术家在媒介中思考，而非仅仅用媒介来传达先在的思想。这一观点与当代设计理论中"通过材料思考"（thinking through materials）的理念高度一致。
+
+Dewey emphasized that the artist's relationship with the medium is central to aesthetic experience. Paint for the painter, sound for the musician, language for the poet—the medium is not a passive tool but an active dialogical partner. The artist thinks in the medium, not merely through it to convey pre-existing thoughts. This view aligns with the contemporary design theory concept of "thinking through materials."
+
+---
+
+## 与其他思想家的关系 / Relations to Other Thinkers
+
+- **克罗齐 / Croce**：杜威的表现理论与克罗齐的直觉主义有相似之处，但杜威更强调物质媒介和实践过程。/ Dewey's expression theory resembles Croce's intuitionism, but Dewey emphasizes material medium and practical process more.
+- **柯林伍德 / Collingwood**：两者都强调艺术中的想象和表现，但杜威更强调身体性和物质性。/ Both emphasized imagination and expression in art, but Dewey emphasizes embodiment and materiality more.
+- **舒斯特曼 / Shusterman**：舒斯特曼的"身体美学"（somaesthetics）直接建立在杜威的经验美学之上。/ Shusterman's "somaesthetics" is directly built on Dewey's experiential aesthetics.
+- **Csikszentmihalyi**：心流理论中对"最优体验"的描述与杜威对审美经验的描述高度呼应。/ Flow theory's description of "optimal experience" closely echoes Dewey's description of aesthetic experience.
+
+---
+
+## 当代意义 / Contemporary Significance
+
+- **日常美学 / Everyday Aesthetics**：当代日常美学运动直接受杜威启发，主张审美不限于艺术品。/ The contemporary everyday aesthetics movement is directly inspired by Dewey, arguing that aesthetics is not limited to art objects.
+- **参与式艺术 / Participatory Art**：社区艺术、社会参与式艺术等当代实践体现了杜威"艺术即经验"的理念。/ Community art, socially engaged art, and other contemporary practices embody Dewey's "art as experience."
+- **设计美学 / Design Aesthetics**：用户体验设计（UX Design）中对"完整体验"的追求——从 onboarding 到 consummation——体现了杜威式的审美经验理论。/ UX design's pursuit of "complete experience"—from onboarding to consummation—reflects Deweyan aesthetic experience theory.
+- **积极心理学 / Positive Psychology**：心流（flow）理论与杜威的审美经验理论互为补充，共同揭示了人类最优体验的结构。/ Flow theory and Dewey's aesthetic experience theory complement each other, jointly revealing the structure of human optimal experience.
+
+---
+
+> 返回 / Back to: [杜威 Dewey](../) · [Pragmatism 实用主义](../../)

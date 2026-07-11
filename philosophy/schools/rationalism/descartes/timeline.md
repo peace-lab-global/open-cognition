@@ -1,0 +1,107 @@
+---
+id: descartes-timeline
+title: 笛卡尔思想年表 · Descartes Intellectual Timeline
+type: timeline
+domain: philosophy
+thinker: descartes
+---
+
+# 笛卡尔思想年表 · Descartes Intellectual Timeline
+
+## 早年与教育 · Early Years and Education (1596–1618)
+
+| 年份 | 事件 |
+|------|------|
+| 1596 | 3月31日生于法国图赖讷省拉艾（La Haye en Touraine），母亲让娜·布罗沙在产后数日去世 |
+| 1607 | 进入拉弗莱什（La Flèche）的亨利四世皇家耶稣会学院 |
+| 1614 | 离开拉弗莱什，前往普瓦提埃大学 |
+| 1616 | 获得普瓦提埃大学法学学士和法学学位 |
+
+| Year | Event |
+|------|-------|
+| 1596 | Born 31 March at La Haye en Touraine; mother Jeanne Brochard dies days after childbirth |
+| 1607 | Enters the Jesuit Collège Royal Henry-Le-Grand at La Flèche |
+| 1614 | Leaves La Flèche for the University of Poitiers |
+| 1616 | Receives Baccalauréat and Licence in Canon and Civil Law from Poitiers |
+
+## 游历与思想觉醒 · Travel and Intellectual Awakening (1618–1628)
+
+| 年份 | 事件 |
+|------|------|
+| 1618 | 前往荷兰，加入莫里斯亲王的军队；结识物理学家伊萨克·贝克曼 |
+| 1619 | 11月10日"炉边之梦"——三个梦境启示，确立以理性重建知识的使命 |
+| 1620–1625 | 游历欧洲各地：丹麦、波兰、德国、意大利 |
+| 1622 | 返回巴黎，结识梅森神父和梅兰爵士 |
+| 1625 | 在巴黎的知识分子圈子中活跃，被誉为"新哲学家" |
+| 1628 | 着手撰写《指导心灵的规则》（未完成）；在与教皇特使贝吕尔的会面中被鼓励发表其哲学 |
+
+| Year | Event |
+|------|-------|
+| 1618 | Goes to the Netherlands, joins Prince Maurice's army; meets physicist Isaac Beeckman |
+| 1619 | 10 November "stove dream" — three dream visions crystallize his mission to rebuild knowledge on rational foundations |
+| 1620–1625 | Travels across Europe: Denmark, Poland, Germany, Italy |
+| 1622 | Returns to Paris; befriends Fr. Marin Mersenne and the Sieur de Mydorge |
+| 1625 | Active in Parisian intellectual circles; hailed as a "new philosopher" |
+| 1628 | Begins drafting *Rules for the Direction of the Mind* (unfinished); meeting with Cardinal Bérulle encourages him to publish his philosophy |
+
+## 荷兰时期 · The Dutch Period (1629–1649)
+
+| 年份 | 事件 |
+|------|------|
+| 1629 | 移居荷兰，此后二十年在此完成大部分著作 |
+| 1633 | 伽利略被教廷定罪，笛卡尔搁置《世界论》 |
+| 1637 | 匿名出版《谈谈方法》，附《几何学》《屈光学》《气象学》 |
+| 1641 | 《第一哲学沉思集》在巴黎以拉丁文出版，附六组反驳和答复 |
+| 1642 | 第二版《沉思集》出版，增至七组反驳 |
+| 1643 | 开始与波西米亚公主伊丽莎白的通信，讨论身心交感问题 |
+| 1644 | 出版《哲学原理》 |
+| 1647 | 获法国国王年金（但从未实际领取） |
+| 1649 | 出版《灵魂的激情》；接受瑞典女王克里斯蒂娜邀请前往斯德哥尔摩 |
+
+| Year | Event |
+|------|-------|
+| 1629 | Moves to the Netherlands; spends the next two decades completing most works there |
+| 1633 | Galileo condemned by the Inquisition; Descartes suppresses *Le Monde* |
+| 1637 | Anonymously publishes *Discourse on the Method* with three scientific essays |
+| 1641 | *Meditations on First Philosophy* published in Latin in Paris with six sets of objections and replies |
+| 1642 | Second edition of *Meditations* with seven sets of objections |
+| 1643 | Begins correspondence with Princess Elisabeth of Bohemia on mind-body interaction |
+| 1644 | Publishes *Principles of Philosophy* |
+| 1647 | Receives a royal pension from the French king (never actually collected) |
+| 1649 | Publishes *The Passions of the Soul*; accepts Queen Christina of Sweden's invitation to Stockholm |
+
+## 最后岁月 · Final Years (1649–1650)
+
+| 年份 | 事件 |
+|------|------|
+| 1649 | 10月抵达斯德哥尔摩 |
+| 1650 | 1月开始为女王克里斯蒂娜授课（凌晨五点）；2月初患肺炎；2月11日去世 |
+
+| Year | Event |
+|------|-------|
+| 1649 | Arrives in Stockholm in October |
+| 1650 | Begins teaching Queen Christina at 5 a.m. in January; contracts pneumonia in early February; dies 11 February |
+
+## 身后影响 · Posthumous Legacy
+
+| 年份 | 事件 |
+|------|------|
+| 1663 | 笛卡尔著作被天主教会列入《禁书目录》 |
+| 1667 | 遗骸从瑞典迁葬巴黎圣日耳曼德佩修道院 |
+| 1792 | 国民议会决定将遗骸迁入先贤祠（实际未执行） |
+| 1819 | 遗骸（除颅骨外）迁葬圣日耳曼德佩修道院现址 |
+| 1821 | 颅骨保存在巴黎国立自然历史博物馆 |
+
+| Year | Event |
+|------|-------|
+| 1663 | Descartes's works placed on the Catholic Index of Prohibited Books |
+| 1667 | Remains transferred from Sweden to the Abbey of Saint-Germain-des-Prés, Paris |
+| 1792 | National Convention decrees transfer to the Panthéon (never executed) |
+| 1819 | Remains (except skull) reinterred at current Saint-Germain-des-Prés location |
+| 1821 | Skull preserved at the Musée de l'Homme, Paris |
+
+## 参考文献 / References
+
+- Gaukroger, S. (1995). *Descartes: An Intellectual Biography*. Oxford University Press.
+- Rodis-Lewis, G. (1998). *Descartes: His Life and Thought*. Cornell University Press.
+- Clarke, D. (2006). *Descartes: A Biography*. Cambridge University Press.

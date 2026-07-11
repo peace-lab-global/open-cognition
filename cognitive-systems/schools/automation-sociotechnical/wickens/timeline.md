@@ -1,0 +1,16 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.wickens.timeline
+title: 威肯斯思想年表
+type: timeline
+thinker: wickens
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 威肯斯思想年表
+
+### 1943 · 出生
+### 1984 · 《Engineering Psychology》
+### 2002 · 多资源模型更新
+### 2003 · SA显示设计（与Endsley）
+### 2008 · 《Attention》

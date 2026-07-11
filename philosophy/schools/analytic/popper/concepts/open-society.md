@@ -1,0 +1,51 @@
+---
+id: popper-open-society
+title: 开放社会 · Open Society
+type: concept
+thinker: popper
+domain: philosophy
+school: analytic
+tags: [political-philosophy, democracy, totalitarianism, freedom]
+---
+
+# 开放社会 · Open Society
+
+## 概念定位 / Conceptual Position
+
+"开放社会"（Open Society）是波普尔在《开放社会及其敌人》（1945）中提出的政治哲学概念。开放社会的特征是：容忍批判和异议、接受制度的可改革性、拒绝将任何权威或传统视为不可质疑的。其对立面是"封闭社会"——以部落主义、集体主义和历史决定论为基础的社会。
+
+"Open Society," proposed in *The Open Society and Its Enemies* (1945), is a political philosophy concept characterized by: tolerating criticism and dissent, accepting institutional reformability, refusing to treat any authority or tradition as unquestionable. Its opposite is the "closed society" — based on tribalism, collectivism, and historicism.
+
+## 核心论述 / Core Argument
+
+### 开放社会的三个原则 / Three Principles
+
+1. **可错性原则 / Fallibilism**: 所有政治决策和制度都是可错的，必须接受批判和修改
+2. **渐进工程 / Piecemeal Engineering**: 社会改革应该是小步的、可逆的、可检验的——而非大规模的乌托邦工程
+3. **个人责任 / Individual Responsibility**: 个人是道德判断的最终单位，不能将责任推给"历史"或"集体"
+
+### 敌人 / The Enemies
+
+波普尔认为开放社会的三大敌人是：
+- **柏拉图**: 理想国的"哲学家国王"模式是极权主义的原型
+- **黑格尔**: 将国家视为"精神的实现"，将历史视为辩证法的展开
+- **马克思**: 历史唯物主义声称发现了历史的必然规律
+
+## 哲学意义 / Philosophical Significance
+
+1. **民主理论 / Democratic Theory**: 为自由民主提供了认识论基础
+2. **冷战影响 / Cold War Impact**: 成为反极权主义的重要思想武器
+3. **当代政治 / Contemporary Politics**: 对民粹主义和极权主义回潮的警示
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与庄子"在宥" / With Zhuangzi's "Letting Be"
+庄子在《在宥》篇中主张"闻在宥天下，不闻治天下也"——最好的治理是不强加治理方案，让万物自然发展。这与波普尔反对乌托邦工程、主张渐进改革有异曲同工之处。
+
+Zhuangzi's "Letting Be" chapter advocates that the best governance does not impose governance schemes but lets things develop naturally. This parallels Popper's opposition to utopian engineering and advocacy of piecemeal reform.
+
+## 相关概念 / Related Concepts
+
+- [证伪主义 Falsificationism](falsificationism.md)
+- [历史决定论批判 Historicism Critique](historicism-critique.md)
+- [波普尔主页](../README.md)

@@ -1,0 +1,60 @@
+---
+id: clark-reading-list
+title: 克拉克进阶阅读 · Andy Clark Reading List
+type: reading-list
+domain: philosophy
+school: analytic
+thinker: clark
+tags: [clark, bibliography, reading-guide]
+cross-refs:
+  - id: clark
+    relation: thinker
+---
+
+# 克拉克进阶阅读 · Andy Clark Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- "The Extended Mind" (with Chalmers, 1998) — 延展心智论题
+- *Natural-Born Cyborgs* (2003) — 最易读的专著
+- *Surfing Uncertainty* (2016) — 预测加工理论
+
+### 重要
+- *Being There* (1997) — 具身-嵌入认知
+- *Supersizing the Mind* (2008) — 延展心智系统辩护
+- *The Experience Machine* (2023) — 面向大众
+
+## 二、经典研究 / Classic Studies
+
+- David Chalmers, "Extended Mind and Consciousness" (2008) — 延展心智与意识
+- Robert Rupert, *Cognitive Systems and the Extended Mind* (2009) — 对延展心智的批评
+- Mark Rowlands, *Extended Cognition* (2010) — 延展认知的独立发展
+- Shaun Gallagher, *How the Body Shapes the Mind* (2005) — 具身认知
+- Francisco Varela, Evan Thompson & Eleanor Rosch, *The Embodied Mind* (1991) — 具身认知经典
+- Karl Friston, "The Free-Energy Principle" (2010) — 自由能原理（预测加工基础）
+
+## 三、当代研究 / Contemporary Studies
+
+- Jakob Hohwy, *The Predictive Mind* (2013) — 预测加工的独立阐述
+- Thomas Metzinger, *The Ego Tunnel* (2009) — 预测加工与自我
+- Richard Menary (ed.), *The Extended Mind* (2010) — 延展心智论文集
+- J. Adam Carter, *Epistemic Pluralism* (2017) — 延展认知与知识论
+
+## 四、入门推荐 / Introductory
+
+- "The Extended Mind" (1998) — 最佳入门，约15页
+- *The Experience Machine* (2023) — 面向大众
+- "Andy Clark" in *Stanford Encyclopedia of Philosophy* (various entries)
+- Menary, "Cognitive Integration and the Extended Mind" — 延展心智导论
+
+## 五、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | "Extended Mind" (1998) → *Natural-Born Cyborgs* |
+| 研究延展心智 | "Extended Mind" → *Supersizing the Mind* → Rupert → Menary |
+| 研究预测加工 | "Whatever Next?" (2013) → *Surfing Uncertainty* → Hohwy |
+| 研究具身认知 | *Being There* → Varela et al. → Gallagher |
+| AI与技术 | *Natural-Born Cyborgs* → Clark on AI → Bostrom |
+| 东方比较 | "Extended Mind" → 禅宗"万法归一" → 唯识学 |

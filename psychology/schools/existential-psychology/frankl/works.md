@@ -1,0 +1,70 @@
+---
+id: frankl-viktor.works
+title: "维克多·弗兰克尔著作年表 · Viktor Frankl Works Chronology"
+type: works
+domain: psychology
+thinker: frankl-viktor
+tags:
+  - 著作
+  - 出版物
+  - works
+  - bibliography
+---
+
+# 维克多·弗兰克尔 · Viktor Frankl - 著作年表 / Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 德文原名 / German Title | 英文译名 / English Title | 核心主题 / Core Theme |
+|---|---|---|---|
+| 1946 | *...trotzdem Ja zum Leben sagen* | *Man's Search for Meaning* (1959) | 集中营经历与意义发现；Camp experience and meaning-discovery |
+| 1946 | *Ärztliche Seelsorge* | *The Doctor and the Soul* (1955) | 意义治疗的临床基础；Clinical foundations of logotherapy |
+| 1947 | *Die Psychotherapie in der Praxis* | *Psychotherapy in Practice* | 心理治疗临床案例与方法；Clinical cases and methods in psychotherapy |
+| 1948 | *Der unbewusste Gott* | *The Unconscious God* (1975) | 意义治疗的宗教与灵性维度；Religious and spiritual dimensions of logotherapy |
+| 1950 | *Homo Patiens* | *Homo Patiens* | 苦难的人类学意义；Anthropological significance of suffering |
+| 1956 | *Von der Therapie zur Logotherapie* | — | 从心理治疗到意义治疗的发展；Development from psychotherapy to logotherapy |
+| 1967 | *Psychotherapy and Existentialism* | *Psychotherapy and Existentialism* | 意义治疗与存在主义哲学的对话；Dialogue between logotherapy and existentialist philosophy |
+| 1969 | *The Will to Meaning* | *The Will to Meaning* | 意义意志的系统理论建构；Systematic theoretical construction of the will to meaning |
+| 1973 | *Trost für die Seele* | — | 灵魂慰藉；Consolation for the soul |
+| 1975 | *The Unconscious God* | *The Unconscious God* | 潜意识中的上帝与灵性维度；God in the unconscious and the spiritual dimension |
+| 1976 | *Das Leiden am Sinnlosen* | — | 无意义的苦难；Suffering from meaninglessness |
+| 1978 | *The Unheard Cry for Meaning* | *The Unheard Cry for Meaning* | 对现代社会意义危机的批判；Critique of the meaning crisis in modern society |
+| 1984 | *Man's Search for Meaning* (第三版) | *Man's Search for Meaning* (3rd ed.) | 新增"悲剧乐观主义"后记；Added postscript on "Tragic Optimism" |
+| 1985 | *Logotherapie und Existenzanalyse* | — | 意义治疗与存在分析论文集；Collected papers on logotherapy and existential analysis |
+| 1986 | *The Doctor and the Soul* (修订版) | *The Doctor and the Soul* (revised) | 扩展临床应用；Expanded clinical applications |
+| 1988 | *Der Wille zum Sinn* | *The Will to Meaning* (German ed.) | 意义意志理论德文版；German edition of the will to meaning theory |
+| 1989 | *...trotzdem Ja zum Leben sagen* (新版) | — | 原作新版；New edition of the original work |
+| 1990 | *Der leidende Mensch* | — | 受苦的人；The suffering human being |
+| 1995 | *Man's Search for Ultimate Meaning* | *Man's Search for Ultimate Meaning* | 对终极意义的进一步探索；Further exploration of ultimate meaning |
+| 1997 | *Viktor Frankl Recollections* | *Viktor Frankl Recollections* | 自传性回忆录；Autobiographical memoir |
+
+## 重要论文 / Selected Articles and Papers
+
+| 年份 / Year | 论文 / Paper | 期刊 / Journal | 主题 / Theme |
+|---|---|---|---|
+| 1924 | "Psychotherapy and Weltanschauung" | *International Journal of Individual Psychology* | 心理治疗与世界观；Psychotherapy and worldview |
+| 1925 | "Psychotherapie und Weltanschauung" | — | 早期关于心理治疗哲学基础的论述；Early essay on philosophical foundations of psychotherapy |
+| 1933 | 关于青少年自杀预防的论文 | — | 青少年自杀的预防与意义教育；Prevention of adolescent suicide and meaning education |
+| 1938 | "Zur geistigen Problematik der Psychotherapie" | — | 心理治疗的精神问题；Spiritual problems of psychotherapy |
+| 1959 | "Logotherapy and the Existential Vacuum" | — | 存在真空的系统论述；Systematic exposition of the existential vacuum |
+| 1966 | "Self-Transcendence as a Human Phenomenon" | *Journal of Humanistic Psychology* | 自我超越作为人类现象；Self-transcendence as a human phenomenon |
+| 1970 | "The Feeling of Meaninglessness" | — | 无意义感的临床分析；Clinical analysis of the feeling of meaninglessness |
+| 1984 | "Tragic Optimism" | Third World Congress of Logotherapy | 悲剧乐观主义概念正式提出；Formal introduction of the concept of tragic optimism |
+
+## 学术影响 / Academic Impact
+
+- 《活出生命的意义》全球销量超过1600万册，被译为40余种语言
+  *Man's Search for Meaning* has sold over 16 million copies worldwide, translated into over 40 languages
+- 被美国国会图书馆评为"美国十大最具影响力书籍"之一
+  Named by the Library of Congress as one of the ten most influential books in America
+- 弗兰克尔获得29个荣誉博士学位
+  Frankl received 29 honorary doctorates
+- 意义治疗学会（Viktor Frankl Institute of Logotherapy）成立于1977年
+  Viktor Frankl Institute of Logotherapy was founded in 1977
+- 《活出生命的意义》被多次列入全球最畅销非虚构作品榜单
+  *Man's Search for Meaning* has been repeatedly listed among the world's best-selling non-fiction works
+
+---
+
+→ 返回主条目 [README](README.md)
+→ 参见 [生平年表](timeline.md) | [推荐阅读](reading-list.md)

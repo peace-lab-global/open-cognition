@@ -1,0 +1,143 @@
+---
+id: luria-reading-list
+title: "卢里亚进阶阅读 · Reading Guide for Luria"
+type: reading-list
+domain: psychology
+school: cognitive
+thinker: luria
+tags: [reading-guide, bibliography, primary-sources, secondary-literature, neuropsychology]
+cross-refs:
+  - id: luria
+    relation: thinker
+---
+
+# 卢里亚进阶阅读指南
+
+## 阅读路径
+
+### 入门 (3 个文本, 1-2 周)
+
+1. **《工作着的大脑》** (The Working Brain, 1973) -- 卢里亚最可读的著作。面向大众的清晰阐述，涵盖三功能单元模型、各功能领域和临床案例。约 300 页。中文译本：《工作着的大脑》，华东师范大学出版社
+2. **《破碎的世界》** (The Man with a Shattered World, 1971) -- 脑损伤士兵 Zasetsky 的自我叙事，卢里亚"浪漫科学"最感人的作品。约 180 页。中文译本：《破碎的世界》，华东师范大学出版社
+3. **《记忆大师的心灵》** (The Mind of a Mnemonist, 1968) -- 超常记忆者的深度个案，引人入胜。约 160 页。中文译本：《记忆大师的心灵》，华东师范大学出版社
+
+### 进阶 (5 个文本, 1-3 月)
+
+4. **《人脑高级皮质功能》** (Higher Cortical Functions in Man, 1962/1966) -- 卢里亚的理论巅峰。建议先读第一部分 (理论框架)，再选读感兴趣的功能领域。约 500 页。中文译本：《人脑的高级皮质功能》，北京大学出版社
+5. **Goldberg, Elkhonon. *The Executive Brain: Frontal Lobes and the Civilized Mind*** (2001) -- 卢里亚学生的当代发展，将前额叶功能理论推进到 21 世纪
+6. **Sacks, Oliver. "Luria and 'Romantic Science'"** (1990, in *Mind*, edited by Johnson) -- 理解卢里亚方法论的最佳二手文献
+7. **Homskaya, Evgenia. *Alexander Romanovich Luria: A Scientific Biography*** (2005) -- 首部完整的学术传记，涵盖生平、学术和时代背景
+8. **《神经心理学原理》** (Fundamentals of Neuropsychology, 1973) -- 教科书级的系统框架，适合需要完整理论训练的读者
+
+### 深潜 (3-6 月)
+
+9. **《创伤性失语症》** (Traumatic Aphasia, 1947/1970) -- 卢里亚的奠基之作，失语症的详细分析
+10. **《脑损伤后的功能恢复》** (Restoration of Function after Brain Injury, 1963) -- 康复理论的完整阐述
+11. **《Cognitive Development: Its Cultural and Social Foundations》** (1976) -- 中亚考察的完整报告
+12. **《语言与意识》** (Language and Consciousness, 1973) -- 语言在认知中的角色
+13. **Toulmin, Stephen. "The Mozart of Psychology"** *New York Review of Books* (1978) -- 对卢里亚的经典评价
+14. **Cole, Michael. "A Cultural-Historical Approach to the Study of Cognitive Development"** (多篇论文) -- 卢里亚传统的当代文化-心理学发展
+
+## 原典
+
+### 核心理论
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《言语与智力》(Speech and Intellect) | 1927 | 儿童言语发展与智力的关系 |
+| 《创伤性失语症》(Traumatic Aphasia) | 1947/1970 | 失语症的分类与功能系统分析 |
+| 《人脑高级皮质功能》(Higher Cortical Functions in Man) | 1962/1966 | 功能系统理论，动态定位，症候群分析 |
+| 《脑与心理过程》(Brain and Psychological Processes) | 1963 | 脑损伤与高级心理过程 |
+| 《脑损伤后的功能恢复》(Restoration of Function after Brain Injury) | 1963 | 功能重组与康复理论 |
+| 《神经心理学原理》(Fundamentals of Neuropsychology) | 1973 | 教科书级的系统框架 |
+| 《工作着的大脑》(The Working Brain) | 1973 | 三功能单元模型，一生思想总结 |
+| 《语言与意识》(Language and Consciousness) | 1973 | 语言在意识形成中的角色 |
+
+### 个案叙事
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| 《记忆大师的心灵》(The Mind of a Mnemonist) | 1968 | Solomon Shereshevsky 的超常记忆个案 |
+| 《破碎的世界》(The Man with a Shattered World) | 1971 | Lev Zasetsky 的脑损伤自我叙事 |
+
+### 跨文化研究
+
+| 作品 | 年份 | 核心内容 |
+|---|---|---|
+| *Cognitive Development: Its Cultural and Social Foundations* | 1976 | 中亚乌兹别克斯坦考察完整报告 |
+
+## 英文二手研究
+
+### 传记与思想史
+
+- **Homskaya, E. D.** *Alexander Romanovich Luria: A Scientific Biography* (2005) -- 首部完整学术传记，英文版由 Plenum 出版
+- **Toulmin, S.** "The Mozart of Psychology," *New York Review of Books*, September 28, 1978 -- 经典评价，将卢里亚比作心理学界的莫扎特
+- **Sacks, O.** "Luria and 'Romantic Science,'" in D. M. Johnson (ed.), *Mind* (1990) -- 从叙事医学视角评价卢里亚的方法论贡献
+- **Kotik-Friedgut, B. & Ardila, A.** "Luria's Cultural-Historical Approach to Neuropsychology," *Neuropsychology Review* (2004) -- 分析卢里亚文化-历史维度在神经心理学中的地位
+
+### 理论发展
+
+- **Goldberg, E.** *The Executive Brain: Frontal Lobes and the Civilized Mind* (2001) -- 卢里亚学生发展前额叶功能理论
+- **Goldberg, E.** *The New Executive Brain: Frontal Lobes in a Complex World* (2009) -- 更新版，纳入当代神经影像学发现
+- **Ardila, A.** *A Historical Perspective on Neuropsychology* (2018) -- 神经心理学史，重点评价卢里亚的贡献
+- **Christensen, A.-L.** *Luria's Neuropsychological Investigation* (1975/1979) -- 卢里亚评估方法的标准化手册
+
+### 临床应用
+
+- **Golden, C. J. et al.** *Luria-Nebraska Neuropsychological Battery* (1980/1985) -- 标准化评估工具
+- **Sohlberg, M. M. & Mateer, C. A.** *Cognitive Rehabilitation: An Integrative Neuropsychological Approach* (2001) -- 基于卢里亚传统的认知康复手册
+- **Wilson, B. A. et al.** *Case Studies in Neuropsychological Rehabilitation* (2009) -- 继承卢里亚个案传统
+
+## 中文资源
+
+### 卢里亚原典中译本
+
+- 鲁利亚. 《工作着的大脑》. 华东师范大学出版社
+- 鲁利亚. 《破碎的世界：一个脑损伤士兵的自我叙事》. 华东师范大学出版社
+- 鲁利亚. 《记忆大师的心灵》. 华东师范大学出版社
+- 鲁利亚. 《人脑的高级皮质功能》. 北京大学出版社
+- 鲁利亚. 《神经心理学原理》. 科学出版社
+
+### 中文二手研究
+
+- 王亚鹏. 《神经心理学导论》-- 包含卢里亚理论的系统介绍
+- 李其维. 《认知神经科学导论》-- 从认知神经科学视角评价卢里亚
+- 龚耀先. 《神经心理学的理论与方法》-- 卢里亚方法在中国的应用
+
+## 相关领域
+
+### 维果茨基与文化-历史学派
+
+- Vygotsky, L. S. *Mind in Society* (1978) -- 文化-历史理论的经典阐述
+- Vygotsky, L. S. *Thought and Language* (1962/1986) -- 语言与思维的关系
+- Leontiev, A. N. *Activity, Consciousness, and Personality* (1978) -- 活动理论
+
+### 叙事医学与个案传统
+
+- Sacks, O. *The Man Who Mistook His Wife for a Hat* (1985) -- 继承卢里亚的叙事神经心理学传统
+- Sacks, O. *An Anthropologist on Mars* (1995) -- 更多深度个案研究
+- Sacks, O. *Musicophilia* (2007) -- 音乐与大脑的关系
+
+### 当代神经可塑性与康复
+
+- Doidge, N. *The Brain That Changes Itself* (2007) -- 神经可塑性的通俗介绍
+- Pascual-Leone, A. et al. "The Plastic Human Brain Cortex," *Annual Review of Neuroscience* (2005)
+- Cramer, S. C. et al. "Harnessing Neuroplasticity for Clinical Applications," *Science* (2011)
+
+### 网络神经科学与连接组学
+
+- Sporns, O. *Networks of the Brain* (2010) -- 大脑网络的图论分析
+- Bassett, D. S. & Sporns, O. "Network Neuroscience," *Nature Neuroscience* (2017)
+- Bullmore, E. & Sporns, O. "Complex Brain Networks," *Nature Reviews Neuroscience* (2009)
+
+### 跨文化认知
+
+- Nisbett, R. *The Geography of Thought: How Asians and Westerners Think Differently* (2003) -- 东西方思维差异
+- Cole, M. *Cultural Psychology: A Once and Future Discipline* (1996) -- 文化心理学
+- Rogoff, B. *Apprenticeship in Thinking: Cognitive Development in Social Context* (1990) -- 文化学习理论
+
+### 佛教心识论比较
+
+- 唯识三十颂 (Viṃśatikā) -- 世亲 (Vasubandhu)，心识结构的基本文本
+- Lusthaus, D. *Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism* (2002) -- 唯识学的哲学分析
+- Ronkin, N. *Early Buddhist Metaphysics: The Making of a Philosophical Tradition* (2005) -- 早期佛教心识理论

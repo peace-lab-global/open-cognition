@@ -1,0 +1,75 @@
+---
+id: psychology.cognitive.kabat-zinn.works
+title: "卡巴金著作年表 · Kabat-Zinn Works Chronology"
+type: works
+parent: psychology.cognitive.kabat-zinn
+thinker: Jon Kabat-Zinn
+domain: psychology
+---
+
+# 卡巴金著作年表 · Kabat-Zinn Works Chronology
+
+---
+
+## 学术论文 · Academic Papers
+
+| 年份 / Year | 标题 / Title | 期刊 / Journal | 主题 / Topic |
+|:---|:---|:---|:---|
+| 1982 | "An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation" | *General Hospital Psychiatry*, 4(1), 33–47 | MBSR首篇论文；慢性疼痛干预 / First MBSR paper; chronic pain intervention |
+| 1985 | "The Clinical Use of Mindfulness Meditation for the Self-Regulation of Chronic Pain" (with Lipworth & Burney) | *Journal of Behavioral Medicine*, 8(2), 163–190 | MBSR用于慢性疼痛自我调节的临床研究 / Clinical study of MBSR for chronic pain self-regulation |
+| 1992 | "Effectiveness of a Meditation-Based Stress Reduction Program in the Treatment of Anxiety Disorders" (with Massion et al.) | *American Journal of Psychiatry*, 149(7), 936–943 | MBSR对焦虑障碍的治疗效果 / MBSR effectiveness for anxiety disorders |
+| 1998 | "Alterations in Brain and Immune Function Produced by Mindfulness Meditation" (with Davidson et al.) | *Psychosomatic Medicine*, 65(4), 564–570 | MBSR对大脑活动和免疫功能的影响 / MBSR effects on brain activity and immune function |
+| 2003 | "Mindfulness-Based Stress Reduction and Health-Related Quality of Life in a Heterogeneous Patient Population" (with Carlson et al.) | *General Hospital Psychiatry*, 25(6), 428–435 | MBSR在异质性患者群体中的生活质量改善 / MBSR quality-of-life improvement in heterogeneous patient populations |
+| 2003 | "Mindfulness-Based Interventions in Context: Past, Present, and Future" | *Clinical Psychology: Science and Practice*, 10(2), 144–156 | 正念干预的历史脉络与未来方向 / Historical context and future directions of mindfulness interventions |
+| 2005 | "The Mindful Way Through Depression" (with Williams, Teasdale, Segal) | Book chapter in *Mindfulness and Acceptance* | MBCT的理论基础 / Theoretical foundations of MBCT |
+| 2011 | "Some Reflections on the Origins of MBSR, Skillful Means, and the Trouble with Maps" | *Contemporary Buddhism*, 12(1), 281–306 | MBSR起源的反思；善巧方便概念 / Reflections on MBSR origins; skillful means concept |
+| 2015 | "Mindfulness" (with Dahl, Lutz & Davidson) | *Trends in Cognitive Sciences*, 19(3), 153–154 | 正念的科学定义与研究方向 / Scientific definition and research directions of mindfulness |
+
+---
+
+## 专著 · Books
+
+| 年份 / Year | 书名 / Title | 出版社 / Publisher | 中文译本 / Chinese Translation | 简述 / Description |
+|:---|:---|:---|:---|:---|
+| 1990 | *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness* | Delacorte Press | 《多舛的生命》机械工业出版社 | MBSR完整指南；正念运动的奠基之作 / Complete MBSR guide; foundational text of the mindfulness movement |
+| 1994 | *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life* | Hyperion | 《正念：此刻是一枝花》机械工业出版社 | 日常正念入门；畅销书 / Everyday mindfulness introduction; bestseller |
+| 2005 | *Coming to Our Senses: Healing Ourselves and the World Through Mindfulness* | Hyperion | 《回到我们的感官》 | 扩展正念到感官觉察与全球关怀 / Extended mindfulness to sensory awareness and global care |
+| 2012 | *Mindfulness for Beginners: Reclaiming the Present Moment and Your Life* | Sounds True | 《正念初学者》橡实文化 | 简明正念入门，面向初学者 / Concise mindfulness introduction for beginners |
+| 2013 | *Full Catastrophe Living* (Revised and Updated Edition) | Bantam Books | 《多舛的生命》（修订版） | 纳入20年来的最新神经科学和临床证据 / Incorporates 20 years of new neuroscience and clinical evidence |
+| 2016 | *Picking Up the Threads of the Present Moment* (with Myla Kabat-Zinn) | Sounds True | — | 正念育儿指南 / Mindful parenting guide |
+
+---
+
+## 合著与编辑作品 · Co-authored and Edited Works
+
+| 年份 / Year | 书名 / Title | 合作者 / Collaborators | 简述 / Description |
+|:---|:---|:---|:---|
+| 2002 | *Mindfulness-Based Cognitive Therapy for Depression* | Zindel Segal, Mark Williams, John Teasdale | MBCT创始教材 / Foundational MBCT textbook |
+| 2004 | *Mindfulness and Acceptance: Expanding the Cognitive-Behavioral Tradition* (Edited) | Steven C. Hayes, Victoria M. Follette, Marsha M. Linehan (contributors) | "第三波"CBT的综合论文集 / Comprehensive collection on "third-wave" CBT |
+| 2011 | *The Mindful Way Through Depression* | Mark Williams, John Teasdale, Zindel Segal | MBCT自助指南（附CD引导冥想）/ MBCT self-help guide (with guided meditation CD) |
+
+---
+
+## 重要演讲与访谈 · Key Talks and Interviews
+
+| 年份 / Year | 标题 / Title | 场合 / Venue | 主题 / Topic |
+|:---|:---|:---|:---|
+| 2007 | "The Mindful Revolution" | TEDx Talk (via *Time* magazine feature) | 正念运动的全球化 / Globalization of the mindfulness movement |
+| 2014 | "Mindfulness as a Love Affair with Life" | Mindfulness & Compassion Conference | 正念与慈悲的关系 / Relationship between mindfulness and compassion |
+| 2015 | Interview with Krista Tippett | *On Being* (NPR) | 正念在日常生活中的实践 / Mindfulness practice in everyday life |
+| 2017 | "Bridging Science and Contemplative Practice" | Mind & Life Institute | 科学与冥想传统的对话 / Dialogue between science and contemplative traditions |
+
+---
+
+## 影响力指标 · Impact Metrics
+
+- **被引次数**：卡巴金的学术论文累计被引超过50,000次（Google Scholar, 截至2024年）
+- **Citation Count**: Kabat-Zinn's academic papers have been cited over 50,000 times (Google Scholar, as of 2024)
+- **H-index**：约80+
+- **H-index**: approximately 80+
+- **《多舛的生命》**：全球销量超过100万册，被翻译成30多种语言
+- ***Full Catastrophe Living***: over 1 million copies sold worldwide, translated into 30+ languages
+- **《正念：此刻是一枝花》**：*New York Times* 畅销书，在榜超过20周
+- ***Wherever You Go, There You Are***: *New York Times* bestseller, over 20 weeks on the list
+- **MBSR传播**：在72个以上国家实施，720+医疗机构提供MBSR课程
+- **MBSR Reach**: implemented in 72+ countries, 720+ medical institutions offering MBSR programs

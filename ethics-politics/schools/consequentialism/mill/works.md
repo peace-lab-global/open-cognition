@@ -1,0 +1,24 @@
+---
+id: mill-works
+title: 密尔作品总览 · Mill Works
+type: works-catalogue
+domain: ethics-politics
+school: consequentialism
+thinker: mill
+tags: [mill, works]
+cross-refs: [{id: mill, relation: thinker}]
+---
+
+# 密尔作品总览 · Mill Works
+
+## 核心著作
+| 书名 | 英文 | 年份 |
+|---|---|---|
+| 《论自由》 | *On Liberty* | 1859 |
+| 《功利主义》 | *Utilitarianism* | 1861 |
+| 《代议制政府》 | *Considerations on Representative Government* | 1861 |
+| 《女性的屈从》 | *The Subjection of Women* | 1869 |
+| 《政治经济学原理》 | *Principles of Political Economy* | 1848 |
+
+## 阅读路径
+入门：《论自由》Ch. 1, 2 → 进阶：《功利主义》→ 深潜：《女性的屈从》《政治经济学原理》

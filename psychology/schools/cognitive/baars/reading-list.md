@@ -1,0 +1,128 @@
+---
+id: psychology.cognitive.baars.reading-list
+title: "巴尔斯推荐阅读 · Bernard Baars Reading List"
+type: reading-list
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+---
+
+# 巴尔斯推荐阅读 · Bernard Baars Reading List
+
+---
+
+## 一、原典（必读）· Primary Sources (Must-Read)
+
+### 入门级 / Introductory Level
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Baars, B. J. (1997). *In the Theater of Consciousness: The Workspace of the Mind*. Oxford University Press. | **最佳入门** — 以剧场隐喻面向广大读者，概念清晰，案例丰富 / **Best introduction** — theater metaphor for broad readership, clear concepts, rich examples |
+| Baars, B. J. (2002). "The conscious access hypothesis: Origins and recent evidence." *Trends in Cognitive Sciences*, 6(1), 47–52. | **高引综述** — GWT和通达意识的神经证据精华 / **Highly cited review** — essence of GWT and access consciousness neural evidence |
+
+### 理论核心 / Theoretical Core
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press. | **奠基之作** — GWT的首次系统阐述，理论深度最高 / **Foundational work** — first systematic GWT formulation, greatest theoretical depth |
+| Baars, B. J. (Ed.) (2001). *The Cognitive Neuroscience of Consciousness*. MIT Press. | **跨学科集成** — 汇集神经科学、心理学和哲学的意识研究 / **Interdisciplinary collection** — consciousness research from neuroscience, psychology, and philosophy |
+
+### 教科书 / Textbooks
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Baars, B. J. & Gage, N. M. (2007/2010). *Cognition, Brain, and Consciousness*. Academic Press. | **教科书** — 将GWT融入认知神经科学教育体系 / **Textbook** — integrating GWT into cognitive neuroscience education |
+| Baars, B. J. (2013). *The Biological Basis of Human Nature*. Academic Press. | **扩展框架** — GWT在更广阔生物学语境中的位置 / **Extended framework** — GWT in broader biological context |
+
+---
+
+## 二、重要二手文献 · Key Secondary Literature
+
+### GNW——GWT的神经科学实现 / GNW — Neuroscience Implementation of GWT
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Minds*. Viking. | **GNW经典** — Dehaene将GWT发展为全局神经元工作空间的神经科学版本 / **GNW classic** — Dehaene's neuroscience development of GWT into Global Neuronal Workspace |
+| Dehaene, S. & Changeux, J.-P. (2011). "Experimental and theoretical approaches to conscious processing." *Neuron*, 70(2), 200–227. | **核心论文** — GNW的实验和理论综述 / **Core paper** — GNW experimental and theoretical review |
+| Dehaene, S., et al. (2006). "Conscious, preconscious, and subliminal processing: A testable taxonomy." *Trends in Cognitive Sciences*, 10(5), 204–211. | **分类框架** — 意识、前意识和阈下的神经科学分类 / **Classification framework** — neuroscience taxonomy of conscious, preconscious, and subliminal |
+
+### 其他意识理论（对比阅读）· Other Consciousness Theories (Comparative Reading)
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Tononi, G. (2008). "Consciousness as integrated information: A provisional manifesto." *Biological Bulletin*, 215(3), 216–242. | **IIT** — 整合信息论，与GWT互补 / **IIT** — Integrated Information Theory, complementary to GWT |
+| Koch, C. (2012). *Consciousness: Confessions of a Romantic Reductionist*. MIT Press. | **自传性综述** — 意识研究的个人历程与科学进展 / **Autobiographical review** — personal journey and scientific advances in consciousness research |
+| Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown. | **多重草稿** — 与GWT形成重要理论对话 / **Multiple drafts** — important theoretical dialogue with GWT |
+| Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press. | **困难问题** — 对GWT功能主义进路的哲学挑战 / **Hard problem** — philosophical challenge to GWT's functionalist approach |
+| Block, N. (1995). "On a confusion about a function of consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247. | **通达vs现象** — 区分通达意识与现象意识的经典论文 / **Access vs phenomenal** — classic paper distinguishing access from phenomenal consciousness |
+
+### 对抗性合作 / Adversarial Collaboration
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Melloni, L., et al. (2023). "An adversarial collaboration to test theories of consciousness." *bioRxiv*. | **最新检验** — GWT与IIT的直接对比实验 / **Latest test** — direct comparison experiment between GWT and IIT |
+
+---
+
+## 三、AI与机器意识 · AI and Machine Consciousness
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Shanahan, M. (2010). *Embodiment and the Inner Life: Cognition and Consciousness in the Space of Possible Minds*. Oxford University Press. | **AI实现** — 将GWT架构应用于机器意识设计 / **AI implementation** — applying GWT architecture to machine consciousness design |
+| Baars, B. J. & Franklin, S. (2003). "How conscious experience and voluntary behavior interact." *Trends in Cognitive Sciences*, 7(4), 165–166. | **意识与行为** — GWT在自主系统中的讨论 / **Consciousness and behavior** — GWT discussion in autonomous systems |
+| Franklin, S., et al. (2014). "LIDA: A systems-level architecture for cognition, emotion, and learning." *IEEE Transactions on Autonomous Mental Development*, 6(1), 19–41. | **LIDA架构** — 基于GWT的AI架构实现 / **LIDA architecture** — GWT-based AI architecture implementation |
+
+---
+
+## 四、中文资源 · Chinese Resources
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Dehaene, S. 著，李恒威等译（2018）. 《意识与脑》. 机械工业出版社. | GNW的中译本 / Chinese translation of GNW |
+| 巴尔斯相关理论选编，见《意识的认知理论》相关章节中译 | GWT理论中文摘要 / Chinese summary of GWT theory |
+| Koch, C. 著，李恒威等译. 《意识：探秘意识的浪漫还原论者自白》. | Koch的自传性综述中译 / Chinese translation of Koch's autobiography |
+| 相关综述：全局工作空间理论的最新进展（*心理科学进展*等期刊） | Latest GWT developments in Chinese psychology journals |
+
+---
+
+## 五、相关领域延伸阅读 · Extended Reading in Related Fields
+
+### 认知架构 / Cognitive Architecture
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Anderson, J. R. (2007). *How Can the Mind Occur in the Physical Universe?* Oxford University Press. | ACT-R架构 / ACT-R architecture |
+| Newell, A. (1990). *Unified Theories of Cognition*. Harvard University Press. | Soar架构 / Soar architecture |
+| Fodor, J. A. (1983). *The Modularity of Mind*. MIT Press. | 心智模块性 / Modularity of mind |
+
+### 注意力与意识 / Attention and Consciousness
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Posner, M. I. (Ed.) (2012). *Cognitive Neuroscience of Attention* (2nd ed.). Guilford Press. | 注意力神经科学 / Neuroscience of attention |
+| Koch, C. & Tsuchiya, N. (2007). "Attention and consciousness: Two distinct brain processes." *Trends in Cognitive Sciences*, 11(1), 16–22. | 注意力与意识的区分 / Distinction between attention and consciousness |
+
+### 冥想与意识 / Meditation and Consciousness
+
+| 著作 / Work | 说明 / Notes |
+|---|---|
+| Lutz, A., et al. (2008). "Attention regulation and monitoring in meditation." *Trends in Cognitive Sciences*, 12(4), 163–169. | 冥想的认知神经科学 / Cognitive neuroscience of meditation |
+| Kabat-Zinn, J. (1990). *Full Catastrophe Living*. Delacorte Press. | 正念冥想经典 / Mindfulness meditation classic |
+
+---
+
+## 阅读建议 · Reading Suggestions
+
+**入门路线 / Beginner's Path**：
+1. Baars (1997) *In the Theater of Consciousness* → 直觉理解GWT / Intuitive understanding of GWT
+2. Baars (2002) "The conscious access hypothesis" → 掌握神经证据 / Master neural evidence
+3. Dehaene (2014) *Consciousness and the Brain* → GNW的神经科学版本 / Neuroscience version of GNW
+
+**进阶路线 / Advanced Path**：
+1. Baars (1988) *A Cognitive Theory of Consciousness* → 深入理论核心 / Deep dive into theoretical core
+2. Block (1995) + Dennett (1991) → 哲学对话 / Philosophical dialogue
+3. Shanahan (2010) → AI实现 / AI implementation
+4. Melloni et al. (2023) → 最新检验 / Latest testing
+
+**跨学科路线 / Interdisciplinary Path**：
+1. GWT核心文本 → AI文献 → 冥想文献 → 东方心识哲学 / GWT core → AI literature → Meditation literature → Eastern philosophy of mind

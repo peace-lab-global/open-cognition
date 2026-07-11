@@ -1,0 +1,152 @@
+---
+id: rawls-timeline
+title: "罗尔斯生平大事记 · Rawls Biographical Timeline"
+type: timeline
+domain: ethics-politics
+school: social-contract
+thinker: rawls
+tags: [rawls, timeline, biography, intellectual-history]
+cross-refs:
+  - id: rawls
+    relation: thinker
+---
+
+# 罗尔斯生平大事记 · Rawls Biographical Timeline
+
+## 早年：家庭、战争与信仰危机 / Early Years: Family, War, and Crisis of Faith (1921–1945)
+
+- **1921** — 2月21日生于马里兰州巴尔的摩。父亲 William Lee Rawls 是宪法律师，母亲 Anna Abell Stump 是女性参政运动活跃者。家庭环境培养了对法律、公正与公共事务的早期关怀。
+  Born February 21 in Baltimore, Maryland. Father William Lee Rawls was a constitutional lawyer; mother Anna Abell Stump was active in the women's suffrage movement. Family environment cultivated early concern for law, justice, and public affairs.
+
+- **1939** — 进入普林斯顿大学，初修化学，后转哲学。受 Norman Malcolm（维特根斯坦的学生）影响。
+  Entered Princeton University, initially studying chemistry, then switching to philosophy. Influenced by Norman Malcolm (a student of Wittgenstein).
+
+- **1942** — 完成本科毕业论文《论罪与信仰的意义》（*A Brief Inquiry into the Meaning of Sin and Faith*）。当时仍是虔诚的圣公会信徒，探索神正论问题。论文于2009年去世后才出版。
+  Completed undergraduate thesis *A Brief Inquiry into the Meaning of Sin and Faith*. At this time still a devout Episcopalian, exploring questions of theodicy. Published posthumously in 2009.
+
+- **1943** — 以最优异成绩从普林斯顿毕业。同年入伍参加二战。与 Margaret Fox 相识（1952年结婚，婚姻持续至2002年去世）。
+  Graduated summa cum laude from Princeton. Enlisted for World War II service the same year. Met Margaret Fox (married 1952, marriage lasting until his death in 2002).
+
+- **1944–1946** — 在太平洋战区服役：新几内亚、菲律宾。好友 Deacon Peterson 在战斗中阵亡。日本投降后参与占领军。参观广岛原子弹遗址。战争经历使其彻底丧失基督教信仰，转向世俗道德哲学。
+  Served in the Pacific theater: New Guinea, Philippines. Close friend Deacon Peterson killed in combat. Participated in occupation forces after Japan's surrender. Visited Hiroshima atomic bomb site. War experience led to complete loss of Christian faith and turn toward secular moral philosophy.
+
+## 学术奠基：方法论探索 / Academic Foundation: Methodological Exploration (1946–1960)
+
+- **1946** — 返回普林斯顿攻读博士学位。
+  Returned to Princeton for doctoral studies.
+
+- **1950** — 完成博士论文《伦理知识研究》（*A Study of the Grounds of Ethical Knowledge*），任普林斯顿讲师。
+  Completed doctoral dissertation *A Study of the Grounds of Ethical Knowledge*. Appointed instructor at Princeton.
+
+- **1951** — 发表第一篇重要论文 "Outline of a Decision Procedure for Ethics"（*Philosophical Review*）——首次展示反思平衡方法的雏形。
+  Published first important article "Outline of a Decision Procedure for Ethics" (*Philosophical Review*) — first display of the proto-form of reflective equilibrium method.
+
+- **1952–1953** — 牛津大学富布莱特访学者。结识以赛亚·柏林（Isaiah Berlin）、H.L.A. 哈特（Hart）、斯蒂芬·图尔闵（Toulmin）。深受后期维特根斯坦与日常语言学派影响。柏林关于"两种自由概念"的讲座对他产生深远影响。
+  Fulbright visiting fellow at Oxford University. Met Isaiah Berlin, H.L.A. Hart, Stephen Toulmin. Deeply influenced by later Wittgenstein and ordinary language philosophy. Berlin's lectures on "Two Concepts of Liberty" had a profound impact.
+
+- **1953** — 回美后任康奈尔大学助理教授。
+  Returned to the US and appointed assistant professor at Cornell University.
+
+- **1955** — 发表 "Two Concepts of Rules"——区分实践的证成（justification of a practice）与行为在实践中的证成（justification of an action within a practice）。这一区分对后来规则功利主义与规则道义论的讨论影响深远。
+  Published "Two Concepts of Rules" — distinguishing the justification of a practice from the justification of an action within a practice. This distinction profoundly influenced later discussions of rule utilitarianism and rule deontology.
+
+- **1958** — 发表 **"Justice as Fairness"**（*Philosophical Review*）——**首次提出原初状态与正义原则的核心框架**。这是罗尔斯毕生事业的起点。
+  Published **"Justice as Fairness"** (*Philosophical Review*) — **first presentation of the core framework of the original position and principles of justice**. This was the starting point of Rawls's life's work.
+
+- **1959** — 转至麻省理工学院任教。
+  Moved to teach at the Massachusetts Institute of Technology.
+
+## 哈佛与《正义论》/ Harvard and *A Theory of Justice* (1962–1971)
+
+- **1962** — 转至哈佛大学哲学系。此后在哈佛执教近30年，直至1991年退休。哈佛成为他思想发展的永久基地。
+  Moved to Harvard University's Department of Philosophy. Taught at Harvard for nearly 30 years until retirement in 1991. Harvard became the permanent base for his intellectual development.
+
+- **1963** — 发表 "Constitutional Liberty and the Concept of Justice"——论证基本自由的优先性。
+  Published "Constitutional Liberty and the Concept of Justice" — arguing for the priority of basic liberties.
+
+- **1966** — 成为詹姆斯·布莱恩特·柯南特大学教授（James Bryant Conant University Professor）——哈佛大学最高荣誉教席。
+  Appointed James Bryant Conant University Professor — Harvard's highest honorary chair.
+
+- **1967** — 发表 "Distributive Justice"——差别原则的经济学阐述，首次详细讨论了不平等的道德条件。
+  Published "Distributive Justice" — economic articulation of the difference principle, first detailed discussion of the moral conditions for inequality.
+
+- **1969** — 《正义论》手稿开始在学界流传。诺齐克、诺曼·丹尼尔斯等人在哈佛读书会上逐章讨论，提出大量批评性意见。
+  The *A Theory of Justice* manuscript began circulating among scholars. Nozick, Norman Daniels, and others discussed it chapter by chapter in Harvard reading groups, offering numerous critical comments.
+
+- **1971** — **出版《正义论》（*A Theory of Justice*）**——被誉为 **"二战后最重要的政治哲学著作"**。该书彻底改变了英语世界的政治哲学版图，复兴了规范性政治理论。
+  **Published *A Theory of Justice*** — hailed as **"the most important work of political philosophy since World War II."** The book completely transformed the landscape of political philosophy in the English-speaking world and revived normative political theory.
+
+## 回应与重构 / Response and Reconstruction (1971–1993)
+
+- **1972** — 罗伯特·诺齐克发表 "Rawls on Distributive Justice" 批评文章，开启自由主义内部论争。
+  Robert Nozick published critical article "Rawls on Distributive Justice," opening the internal liberal debate.
+
+- **1974** — 诺齐克出版《无政府、国家与乌托邦》（*Anarchy, State, and Utopia*）——从自由至上主义立场对差别原则进行系统批评。持有正义 vs 分配正义的根本分歧正式形成。
+  Nozick published *Anarchy, State, and Utopia* — systematic critique of the difference principle from a libertarian standpoint. The fundamental divergence between entitlement justice and distributive justice was formally established.
+
+- **1975** — 发表 "Fairness to Goodness"——回应诺齐克关于善与正义关系的质疑。
+  Published "Fairness to Goodness" — responding to Nozick's questions about the relationship between goodness and justice.
+
+- **1977** — 迈克尔·桑德尔出版《自由主义与正义的局限》（*Liberalism and the Limits of Justice*）——社群主义批评的经典之作，质疑"无负荷的自我"概念。
+  Michael Sandel published *Liberalism and the Limits of Justice* — a communitarian classic, challenging the "unencumbered self" concept.
+
+- **1980** — 发表杜威讲座 **"Kantian Constructivism in Moral Theory"**——明确转向康德式建构主义，将正义原则理解为理性建构的产物而非独立的道德事实。
+  Published the Dewey Lectures **"Kantian Constructivism in Moral Theory"** — explicit turn to Kantian constructivism, understanding justice principles as products of rational construction rather than independent moral facts.
+
+- **1982** — 发表 "Social Unity and Primary Goods"——修正基本善理论。
+  Published "Social Unity and Primary Goods" — revising the theory of primary goods.
+
+- **1985** — 发表 **"Justice as Fairness: Political not Metaphysical"**——**正式转向政治自由主义**。正义原则不再被视为道德真理，而是多元社会中各种合理学说的聚焦点。
+  Published **"Justice as Fairness: Political not Metaphysical"** — **formal turn to political liberalism**. Justice principles are no longer conceived as moral truths but as the focal point for diverse reasonable doctrines in a pluralistic society.
+
+- **1987** — 发表 "The Idea of an Overlapping Consensus"——重叠共识的首次系统阐述。
+  Published "The Idea of an Overlapping Consensus" — first systematic articulation of the overlapping consensus concept.
+
+- **1993** — **出版《政治自由主义》（*Political Liberalism*）**——以"重叠共识"、"公共理性"和"合理的多元主义事实"三大概念重构整个理论框架。标志着从《正义论》的"整全性自由主义"向"政治自由主义"的完成。
+  **Published *Political Liberalism*** — reconstructed the entire theoretical framework around "overlapping consensus," "public reason," and "the fact of reasonable pluralism." Marked the completion of the shift from the "comprehensive liberalism" of *A Theory of Justice* to "political liberalism."
+
+## 晚年 / Final Years (1993–2002)
+
+- **1995** — 与哈贝马斯在《哲学杂志》（*Journal of Philosophy*）展开著名论战——"Reconciliation through the Public Use of Reason"。这是20世纪两大政治哲学家之间最重要的一次直接对话。
+  Famous exchange with Habermas in the *Journal of Philosophy* — "Reconciliation through the Public Use of Reason." This was the most important direct dialogue between the two greatest political philosophers of the twentieth century.
+
+- **1997** — 发表 "The Idea of Public Reason Revisited"——修正公共理性理论，增加"但书条款"（proviso），允许宗教语言在满足条件后进入公共讨论。
+  Published "The Idea of Public Reason Revisited" — revised public reason theory, adding the "proviso," allowing religious language into public discussion under certain conditions.
+
+- **1999** — **出版《万民法》（*The Law of Peoples*）**——正义论的国际扩展。获**美国国家人文奖章**。同年《正义论》修订版出版。
+  **Published *The Law of Peoples*** — international extension of justice theory. Received the **National Humanities Medal**. The revised edition of *A Theory of Justice* published the same year.
+
+- **2001** — 出版《作为公平的正义：一种重申》（*Justice as Fairness: A Restatement*），与艾琳·凯利（Erin Kelly）合著——**最终修订**。
+  Published *Justice as Fairness: A Restatement*, co-authored with Erin Kelly — **final revision**.
+
+- **2002** — **11月24日在马萨诸塞州列克星敦去世**，享年81岁。
+  **Died November 24 in Lexington, Massachusetts**, aged 81.
+
+## 去世后出版 / Posthumous Publications
+
+- **2007** — *Lectures on the History of Political Philosophy* 出版（Samuel Freeman 编辑）。
+  *Lectures on the History of Political Philosophy* published (edited by Samuel Freeman).
+
+- **2009** — *A Brief Inquiry into the Meaning of Sin and Faith* 出版（Thomas Nagel 编辑）。
+  *A Brief Inquiry into the Meaning of Sin and Faith* published (edited by Thomas Nagel).
+
+## 思想分期总结 / Summary of Intellectual Periods
+
+| 阶段 / Period | 年代 / Years | 关键词 / Keywords |
+|---|---|---|
+| 早年 / Early | 1921–1958 | 战争、信仰危机、方法论探索 / War, crisis of faith, methodological exploration |
+| 建构期 / Construction | 1958–1971 | 作为公平的正义、原初状态、正义论 / Justice as Fairness, original position, Theory of Justice |
+| 回应期 / Response | 1971–1993 | 诺齐克、桑德尔、政治转向 / Nozick, Sandel, political turn |
+| 晚年 / Final | 1993–2002 | 重叠共识、万民法、最终修订 / Overlapping consensus, Law of Peoples, final restatement |
+
+## 历史同代人 / Historical Contemporaries
+
+- **论敌 / Adversaries**：诺齐克 Nozick（1938–2002）、桑德尔 Sandel（1953–）
+- **对话者 / Interlocutors**：哈贝马斯 Habermas（1929–）、森 Sen（1933–）、德沃金 Dworkin（1931–2013）
+- **学生 / Students**：斯坎伦 Scanlon、科斯嘉 Korsgaard、约书亚·科恩 Joshua Cohen、博格 Pogge
+
+## 延伸阅读 / Further Reading
+
+- Pogge, Thomas. *John Rawls* (1989) — 批评性导论
+- Freeman, Samuel. *Rawls* (2007, Routledge) — 最系统导读
+- Reid, Joshua. "John Rawls: A Biographical Sketch" — 生平概述

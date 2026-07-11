@@ -1,0 +1,167 @@
+---
+id: suan-mokkh
+title: "Suan Mokkh · 解脱园"
+type: concept
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - suan-mokkh
+  - monastery
+  - hermitage
+  - practice-center
+  - 解脱园
+  - 修行中心
+---
+
+# Suan Mokkh: The Garden of Liberation · 解脱园
+
+> *"Suan Mokkh is not a place. It is a state of mind — a mind that is free, empty, and at home in nature."*
+> — Buddhadasa Bhikkhu
+>
+> *"解脱园不是一个地方。它是一种心态——一颗自由的、空的、在自然中自在的心。"*
+> — 佛使比丘
+
+---
+
+## Overview · 概述
+
+**Suan Mokkhabalarama** (สวนโมกขพลาราม), universally known as **Suan Mokkh** (解脱园, "The Garden of the Power of Liberation"), is the forest hermitage and Dhamma center founded by Buddhadasa Bhikkhu in 1932 near his birthplace in Chaiya District, Surat Thani Province, southern Thailand. It became one of the most influential Buddhist practice centers in Southeast Asia — a place where monks, laypeople, and international visitors came to study, meditate, and live simply in the forest.
+
+**解脱自在园**（สวนโมกขพลาราม），普遍被称为**解脱园**（Suan Mokkh），是佛使比丘于1932年在泰国南部素叻他尼省柴亚区靠近其出生地创立的森林静修处和法中心。它成为东南亚最具影响力的佛教修行中心之一——比丘、居士和国际访客来到这里学习、冥想、在森林中简朴生活的地方。
+
+---
+
+## Founding Story · 创立故事
+
+In 1926, at the age of 20, Nguam Phanit ordained as a monk and received the name Indapanno. He spent the next several years studying Pali scriptures in Bangkok and wandering the forests of southern Thailand as a *dhutanga* (ascetic / 头陀行) practitioner. He became increasingly disillusioned with the urban monastic establishment — its focus on ritual, rank, and merit-making rather than genuine practice and liberation.
+
+1926年，20岁的Nguam Phanit受戒为僧，法名印潘诺（Indapanno）。此后几年，他在曼谷学习巴利经典，并在泰国南部的森林中作为*头陀行*（dhutanga，苦行）修行者游方。他对城市僧伽体制日益失望——其重心在仪式、等级和积功德，而非真正的修行和解脱。
+
+In 1932, he returned to his home district and, with his younger brother Dhammadussa (who later became a key collaborator), established a hermitage in a tract of virgin forest about two kilometers from the nearest village. He named it **Suan Mokkhabalarama** — "The Garden of the Power of Liberation." The name was both a description and an aspiration: this would be a place where the power of liberation could be cultivated and experienced.
+
+1932年，他回到家乡，与弟弟法都萨（Dhammadussa，后来成为关键合作者）一起，在距最近村庄约两公里的一片原始森林中建立了一个静修处。他将它命名为**解脱自在园**——"解脱力量之园"。这个名字既是描述也是愿望：这将是一个可以培养和体验解脱力量的地方。
+
+---
+
+## Design Philosophy · 设计哲学
+
+Suan Mokkh was designed according to principles that reflected Buddhadasa's core teachings:
+
+解脱园的设计遵循反映佛使比丘核心教导的原则：
+
+### Simplicity · 简朴
+
+There were no grand buildings, no gold-plated Buddha statues, no elaborate decorations. Monks lived in individual *kutis* (huts / 茅棚) — simple wooden structures raised on stilts, with a sleeping platform, a small desk, and a mosquito net. The meditation hall was an open-air pavilion. The library was a modest room of books. Everything was designed to minimize distraction and maximize contact with nature.
+
+没有宏伟的建筑，没有镀金的佛像，没有繁复的装饰。比丘们住在单独的*茅棚*（kutis）中——架在木桩上的简朴木结构，有一个睡觉的平台、一张小书桌和一顶蚊帐。禅堂是一个露天凉亭。图书室是一个适度的书房间。一切都旨在最大限度地减少干扰并最大限度地接触自然。
+
+### Integration with Nature · 与自然融合
+
+The hermitage was built *into* the forest, not *over* it. Trees were left standing. Paths wound between them. Animals — birds, squirrels, snakes, insects — were considered fellow residents, not pests. The sound of rain on leaves, the calls of birds, the rustling of wind — all were part of the teaching environment. Buddhadasa believed that a mind immersed in nature would naturally absorb the lessons of impermanence and not-self.
+
+静修处建*在*森林*之中*，而非*覆盖*其上。树木保留原样。小径蜿蜒其间。动物——鸟、松鼠、蛇、昆虫——被视为共同居民，而非害虫。雨打树叶的声音、鸟鸣、风的沙沙声——都是教学环境的一部分。佛使比丘相信，一颗沉浸在自然中的心会自然而然地吸收无常和无我的教训。
+
+### Equality · 平等
+
+At Suan Mokkh, all monks — regardless of seniority, educational background, or social status — lived under the same conditions. There was no hierarchy of comfort. International visitors (from the 1960s onward) were welcomed and treated with the same respect as Thai monks. This was a deliberate rejection of the rigid social hierarchies that characterized mainstream Thai Buddhism.
+
+在解脱园，所有比丘——无论资历、教育背景或社会地位如何——都生活在同样的条件下。没有舒适程度的等级。国际访客（从1960年代起）受到与泰国比丘同等的尊重和接待。这是对主流泰国佛教中严格的等级制度的刻意拒绝。
+
+### Study and Practice Combined · 学习与实践结合
+
+Unlike many forest monasteries that emphasized meditation to the exclusion of study, Suan Mokkh maintained a serious library and a culture of intellectual inquiry. Buddhadasa believed that genuine practice required both *samādhi* (concentration / 定) and *paññā* (wisdom / 慧). Monks were expected to read, discuss, and debate — but always in service of practice, never as an end in itself.
+
+与许多强调冥想而排斥学习的森林寺院不同，解脱园保持着严肃的图书馆和智识探究的文化。佛使比丘相信真正的修行需要*定*（samādhi）和*慧*（paññā）。比丘们被期望阅读、讨论和辩论——但始终服务于修行，而非作为目的本身。
+
+---
+
+## Daily Life · 日常生活
+
+Life at Suan Mokkh followed a rhythm shaped by the Vinaya (monastic code / 戒律) and the natural cycles of the forest:
+
+解脱园的生活遵循由戒律（Vinaya）和森林自然循环塑造的节奏：
+
+| Time | Activity | Chinese |
+|------|----------|---------|
+| 3:00 | Wake, morning chanting and meditation | 起床，早课诵经与禅修 |
+| 5:30 | Alms round in nearby village | 附近村庄托钵 |
+| 7:00 | Single meal of the day (eaten before noon) | 日中一食（午前用完） |
+| 8:00–11:00 | Study, reading, Dhamma discussion | 学习、阅读、法讨论 |
+| 11:00–13:00 | Rest, walking meditation | 休息、行禅 |
+| 13:00–16:00 | Manual work (sweeping, gardening, building) | 劳作（扫地、园艺、建筑） |
+| 17:00 | Evening chanting and meditation | 晚课诵经与禅修 |
+| 19:00 | Dhamma talk by Buddhadasa (when present) | 佛使比丘法谈（在场时） |
+| 20:00–22:00 | Individual meditation practice | 个人禅修 |
+
+This schedule balanced body and mind, work and contemplation, solitude and community. It was designed to prevent both laziness and burnout — the two extremes that the Middle Way avoids.
+
+这个时间表平衡身心、工作与冥想、独处与共修。它旨在防止懒惰和倦怠——中道所避免的两个极端。
+
+---
+
+## The International Meditation Center · 国际禅修中心
+
+In the 1960s, as Western interest in Buddhism grew, Suan Mokkh began hosting **ten-day meditation retreats** for international participants. These retreats became one of the most important gateways for Westerners to encounter Theravada Buddhism in its forest context. The retreats combined:
+
+1960年代，随着西方对佛教兴趣的增长，解脱园开始为国际参与者举办**十日禅修营**。这些禅修营成为西方人在森林语境中接触南传佛教的最重要门户之一。禅修营结合了：
+
+- **Silent meditation** (正念静修) — extended periods of sitting and walking meditation in the forest / 在森林中长时间的坐禅和行禅
+- **Dhamma talks** (法谈) — daily teachings by Buddhadasa, often translated into English / 佛使比丘每日教导，常译为英文
+- **Work meditation** (劳作禅) — communal chores performed mindfully / 正念进行的公共劳作
+- **Nature immersion** (自然沉浸) — time spent observing the forest, river, and sky / 花时间观察森林、河流和天空
+
+Many of the Western teachers who later established Buddhist meditation centers in Europe and North America — including figures associated with the Insight Meditation Society and Spirit Rock — studied at Suan Mokkh or were influenced by its approach.
+
+许多后来在欧洲和北美建立佛教冥想中心的西方教师——包括与内观冥想学会（IMS）和灵岩（Spirit Rock）相关的人物——曾在解脱园学习或受其方法影响。
+
+---
+
+## The Spiritual Theater · 精神剧场
+
+One of the most unique features of Suan Mokkh was the **Spiritual Theater** (โรงมหรสพทางวิญญาณ), a building designed by Buddhadasa to communicate Dhamma through visual art. The walls were covered with paintings, photographs, and diagrams — including images from other religions, scientific illustrations, and nature photography. The intent was to show that the Dhamma is not confined to Buddhist imagery but is expressed in all genuine encounters with truth, beauty, and reality.
+
+解脱园最独特的特色之一是**精神剧场**（โรงมหรสพทางวิญญาณ），这是佛使比丘设计的通过视觉艺术传达法的建筑。墙壁上覆盖着绘画、照片和图表——包括来自其他宗教的图像、科学插图和自然摄影。其目的是表明法不仅限于佛教图像，而是在所有与真理、美和实相的真正相遇中得到表达。
+
+This was perhaps the most visible expression of Buddhadasa's ecumenical vision — a physical space where Buddhist, Christian, Hindu, and scientific imagery coexisted without hierarchy, pointing to a truth that transcends all traditions.
+
+这也许是佛使比丘大公愿景最可见的表达——一个佛教、基督教、印度教和科学图像无等级地共处的物理空间，指向一个超越所有传统的真理。
+
+---
+
+## After Buddhadasa · 佛使比丘之后
+
+Buddhadasa passed away on July 8, 1993, at the age of 87. Suan Mokkh continues to operate as a living institution under the guidance of senior monks who trained under him. The original hermitage remains a place of quiet practice, while the newer **International Dhamma Hermitage** (founded in 1988 near the original site) hosts monthly ten-day retreats for international visitors.
+
+佛使比丘于1993年7月8日圆寂，享年87岁。解脱园在他训练的资深比丘的指导下继续作为一个活的机构运作。原始静修处仍然是一个安静修行的地方，而较新的**国际法静修处**（1988年建于原址附近）每月为国际访客举办十日禅修营。
+
+The **Suan Mokkh Bangkok** center, established later in the capital, brings Buddhadasa's teachings to urban practitioners, offering meditation classes, Dhamma talks, and a space for contemplation in the heart of the city.
+
+后来在首都建立的**曼谷解脱园**中心将佛使比丘的教导带给城市修行者，提供冥想课程、法谈，以及在城市中心提供冥想空间。
+
+---
+
+## Common Misunderstandings · 常见误解
+
+- **Misunderstanding 1**: Suan Mokkh is only for monks. No — laypeople, women, and international visitors have always been welcome. / **误解1**：解脱园只适合比丘。不——居士、女性和国际访客一向受到欢迎。
+- **Misunderstanding 2**: You need to be an experienced meditator to attend. No — the retreats are open to beginners. The only requirement is willingness to follow the schedule and maintain silence. / **误解2**：你需要是有经验的冥想者才能参加。不——禅修营对初学者开放。唯一的要求是愿意遵循时间表并保持静默。
+- **Misunderstanding 3**: Suan Mokkh is a tourist destination. While visitors are welcome, it is a place of practice, not sightseeing. Respect for the contemplative atmosphere is expected. / **误解3**：解脱园是旅游目的地。虽然欢迎访客，但它是修行的地方，不是观光地。期望尊重冥想氛围。
+
+---
+
+## Practical Information · 实用信息
+
+- **Location**: Chaiya District, Surat Thani Province, Thailand (about 640 km south of Bangkok) / 泰国素叻他尼省柴亚区（曼谷以南约640公里）
+- **International retreats**: Monthly ten-day retreats (advance registration required) / 每月十日禅修营（需提前注册）
+- **Language**: Thai and English / 泰语和英语
+- **Cost**: Free (donations accepted) / 免费（接受捐赠）
+- **Website**: [suanmokkh.org](https://www.suanmokkh.org)
+
+---
+
+## Cross-References · 关联
+
+- [[nature-contemplation]] — The forest as Dhamma classroom at Suan Mokkh.
+- [[dependent-origination-practice]] — Taught and practiced daily at the hermitage.
+- [[anatta-practice]] — The core realization cultivated in the retreat setting.
+- [[interreligious-dialogue]] — The Spiritual Theater as a physical expression of ecumenical vision.
+- Back to: [[buddhadasa]]

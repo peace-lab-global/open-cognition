@@ -1,0 +1,68 @@
+---
+id: leonardo-da-vinci-timeline
+title: "达·芬奇生平大事记 · Leonardo da Vinci: Biographical Timeline"
+type: timeline
+domain: arts
+school: visual-arts
+thinker: leonardo-da-vinci
+tags: [leonardo, timeline, biography, renaissance, milestones]
+cross-refs:
+  - id: leonardo-da-vinci
+    relation: thinker
+---
+
+# 达·芬奇生平大事记 · Leonardo da Vinci: Biographical Timeline
+
+> 本文件记录列奥纳多·达·芬奇（1452-1519）的生平大事、智识里程碑与历史背景。达芬奇的一生横跨了从美第奇佛罗伦萨到弗朗索瓦一世法国的整个盛期文艺复兴时代。
+>
+> This file records the major life events, intellectual milestones, and historical context of Leonardo da Vinci (1452-1519), whose life spanned the entire High Renaissance from Medici Florence to Francis I's France.
+
+## 出生与早年 / Birth and Early Years (1452–1465)
+
+- **1452年4月15日**：出生于佛罗伦萨共和国芬奇镇（Vinci），为公证员塞尔·皮耶罗·达·芬奇（Ser Piero da Vinci）与农家女卡泰丽娜（Caterina）的私生子。在祖父安东尼奥的农场度过幼年。Born in Vinci, Republic of Florence; illegitimate son of notary Ser Piero da Vinci and peasant woman Caterina. Spent early childhood on grandfather Antonio's farm.
+- **1453年**：君士坦丁堡陷落（奥斯曼帝国征服拜占庭），大量希腊学者携带古典文献涌入意大利，加速了文艺复兴的知识复兴。Fall of Constantinople; Greek scholars flooded Italy with classical texts, accelerating Renaissance knowledge revival.
+- **约1460年**：随父亲迁居佛罗伦萨城。Moved to Florence with his father.
+
+## 学徒时期 / Apprenticeship (1466–1481)
+
+- **约1466年**：进入安德烈亚·德尔·韦罗基奥（Andrea del Verrocchio）的佛罗伦萨工作室学习。韦罗基奥工作室是当时最多才多艺的艺术工坊——同时承接绘画、雕塑、金工和军事工程。这一跨媒介环境深刻塑造了达芬奇日后"艺术无边界"的认知框架。Entered Verrocchio's workshop — one of the most versatile ateliers of the era, simultaneously handling painting, sculpture, metalwork, and military engineering.
+- **1472年**：加入佛罗伦萨圣路加画家公会（Compagnia di San Luca），正式成为独立画家。Joined the Florentine painters' guild (Compagnia di San Luca), becoming an independent painter.
+- **约1472-1475年**：参与韦罗基奥《基督受洗》的创作——据瓦萨里记载，达芬奇所绘的天使如此出色，使韦罗基奥自叹不如。参与了《受胎告知》的创作。Participated in Verrocchio's *Baptism of Christ*; according to Vasari, Leonardo's angel was so superior that Verrocchio abandoned painting. Created the *Annunciation*.
+- **约1474-1478年**：绘制《吉内芙拉·德·本奇肖像》——渐隐法（sfumato）的最早实验。Painted *Ginevra de' Benci* — earliest sfumato experiments.
+- **1481年**：受佛罗伦萨斯科佩托修道院委托绘制《三王来朝》——这幅雄心勃勃的群像构图最终未完成，揭示了达芬奇"好奇心驱使他不断转向"的性情。Commissioned to paint the *Adoration of the Magi* — ambitious group composition left unfinished, revealing his restless curiosity.
+
+## 米兰时期 / Milan Period (1482–1499)
+
+- **1482年**：致信米兰公爵卢多维科·斯福尔扎（Ludovico Sforza），以军事工程师和发明家的身份自荐——列举十项工程发明，仅在信末提及绘画才能。前往米兰，开始了长达十七年的服务期。Wrote his famous letter to Ludovico Sforza, listing ten military/engineering inventions; mentioned painting only at the end. Moved to Milan.
+- **约1483-1486年**：创作《岩间圣母》（第一版，现卢浮宫）——渐隐法与地质观察的集大成之作。Created *Virgin of the Rocks* (first version, Louvre) — synthesis of sfumato and geological observation.
+- **约1487-1490年**：开始系统性的科学研究——人体解剖、飞行器设计、水力学研究。绘制了《维特鲁威人》（约1490年）——受古罗马建筑师维特鲁威启发，展示人体比例与宇宙几何的对应关系。Began systematic scientific research — anatomical studies, flying machine designs, hydraulics. Drew the *Vitruvian Man* (~1490).
+- **1490年**：参加帕维亚大教堂的建筑咨询会议，接触了帕维亚大学的学术环境。Attended architectural consultations at Pavia Cathedral, engaging with the university's academic environment.
+- **1495-1498年**：在米兰感恩圣母堂绘制《最后的晚餐》——透视法与心理戏剧的巅峰之作。使用了实验性的蛋彩-油彩混合技法（而非传统湿壁画技法），导致作品在达芬奇生前就已开始剥落。Painted *The Last Supper* at Santa Maria delle Grazie — pinnacle of perspective and psychological drama. Used experimental tempera-oil technique (not traditional fresco), causing early deterioration.
+- **1499年**：法国军队在路易十二的指挥下占领米兰，斯福尔扎家族倒台。达芬奇被迫离开米兰，辗转曼图亚（为伊莎贝拉·德斯特绘制肖像草图）和威尼斯。French forces under Louis XII occupied Milan; Sforza fell. Leonardo departed, passing through Mantua and Venice.
+
+## 佛罗伦萨回归 / Return to Florence (1500–1506)
+
+- **1500年**：返回佛罗伦萨。此时的佛罗伦萨已非达芬奇青年时代的黄金城——萨伏纳罗拉的宗教狂热刚刚被镇压，共和国政治动荡。Returned to Florence — now politically turbulent after Savonarola's religious fervor.
+- **约1501年**：绘制《圣母子与圣安妮》草图（现伦敦国家美术馆的"伯灵顿府草图"），引起佛罗伦萨艺术界的轰动。Created the *Burlington House Cartoon* (National Gallery, London), causing a sensation in Florence.
+- **1503年**：开始绘制《蒙娜丽莎》——此后十余年间持续修改和完善，直到生命终点。同时受委托为佛罗伦萨维奇奥宫绘制《安吉亚里之战》（未完成）。Began the *Mona Lisa* — continuously refined over the following decade. Commissioned to paint the *Battle of Anghiari* (unfinished) for the Palazzo Vecchio.
+- **1504年**：米开朗基罗的《大卫》揭幕——达芬奇被征询安放位置的意见。两位巨匠的竞争关系公开化。Michelangelo's *David* unveiled — Leonardo consulted on its placement. Public rivalry between the two giants.
+
+## 第二次米兰与罗马 / Second Milan Period and Rome (1506–1516)
+
+- **1506年**：返回米兰，为法国总督夏尔·德昂布瓦兹（Charles d'Amboise）服务。绘画创作减少，深入研究解剖学和水力学。Returned to Milan under French governor Charles d'Amboise. Painting output decreased; deepened anatomical and hydraulic research.
+- **约1505-1508年**：完成《岩间圣母》第二版（现伦敦国家美术馆）。Completed *Virgin of the Rocks* (second version, National Gallery London).
+- **1510-1511年**：与帕维亚大学解剖学家马尔坎托尼奥·德拉·托雷合作进行系统解剖研究，绘制约两百幅精细解剖学图谱。计划出版解剖学专著——如果实现，将使解剖学提前一个多世纪进入现代阶段。Collaborated with Pavia anatomist Marcantonio della Torre on systematic dissections, producing ~200 detailed anatomical drawings for a planned treatise.
+- **1513年**：前往罗马，受教皇利奥十世（乔瓦尼·德·美第奇）庇护。然而在罗马的三年不顺利——拉斐尔和米开朗基罗占据艺术中心。达芬奇的主要兴趣转向光学实验和水力学研究。Moved to Rome under Pope Leo X (Medici). Found himself overshadowed by Raphael and Michelangelo; focused on optical experiments and hydraulics.
+- **1514年**：研究凹面镜的光学聚光原理，设计了抛物面聚光镜。Studied concave mirror optics; designed parabolic concentrators.
+
+## 法国岁月与逝世 / French Years and Death (1516–1519)
+
+- **1516年**：应法国国王弗朗索瓦一世（Francis I）邀请，携带《蒙娜丽莎》《施洗者圣约翰》《圣母子与圣安妮》三幅画作，定居昂布瓦斯的克洛·吕斯城堡（Clos Lucé）。获封"国王第一画家、工程师和建筑师"头衔和丰厚年金。Accepted Francis I's invitation, bringing the *Mona Lisa*, *St. John the Baptist*, and *Virgin and Child with St. Anne* to Clos Lucé in Amboise. Titled "First Painter, Engineer, and Architect to the King."
+- **1517年**：据来访的红衣主教秘书安东尼奥·德·贝亚蒂斯记载，达芬奇右手已部分瘫痪，无法继续绘画，但仍在从事科学研究和设计工作。据记载右臂瘫痪，但仍思维活跃。据贝亚蒂斯记载，达芬奇自称已不再能以其满意的质量绘画。According to Cardinal d'Aragon's secretary Antonio de Beatis, Leonardo's right hand was partially paralyzed; he could no longer paint to his satisfaction but remained intellectually active.
+- **1519年5月2日**：逝于昂布瓦斯克洛·吕斯城堡，享年六十七岁。将全部手稿和笔记遗赠给忠实弟子弗朗切斯科·梅尔齐。葬于昂布瓦斯圣于贝尔教堂（Chapel of Saint-Hubert）。据传弗朗索瓦一世在他临终时陪伴在侧——虽可能是后人美化，但反映了达芬奇在欧洲心智史上的崇高地位。Died at Clos Lucé, Amboise, age sixty-seven. Bequeathed all manuscripts to disciple Francesco Melzi. Buried at the Chapel of Saint-Hubert. Legend holds Francis I was at his bedside.
+
+## 智识遗产 / Intellectual Legacy
+
+达芬奇的一生见证了文艺复兴从勃兴到鼎盛的完整过程。他的遗产不仅是二十幅传世绘画和一万三千页手稿，更是一种认知范式——通过观察、绘图和实验来认识世界的方法论。这一方法论在精神上预示了近代科学革命，在实践上奠定了跨学科创新的原型。在他去世五百年后的今天，"达芬奇式思维"已成为人类追求无限认知潜能的永恒象征。
+
+Leonardo's life witnessed the complete arc of the Renaissance from its rise to its zenith. His legacy — twenty paintings and 13,000 pages of notebooks — is not only a body of work but a cognitive paradigm: the methodology of knowing the world through observation, drawing, and experiment. This methodology anticipated the scientific revolution in spirit and established the prototype for interdisciplinary innovation. Five centuries after his death, "Leonardian thinking" remains an eternal symbol of humanity's pursuit of unlimited cognitive potential.

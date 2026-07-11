@@ -1,0 +1,123 @@
+---
+id: locke-reading-list
+title: "洛克进阶阅读指南 · Locke Annotated Reading Guide"
+type: reading-list
+domain: ethics-politics
+school: social-contract
+thinker: locke
+tags:
+  - locke
+  - bibliography
+  - reading-guide
+  - 洛克阅读指南
+cross-refs:
+  - id: locke
+    relation: thinker
+---
+
+# 洛克进阶阅读指南 · Locke Annotated Reading Guide
+
+本阅读指南按三个层级组织：**入门**（适合初次接触洛克的读者）、**进阶**（适合有一定哲学基础的读者）和**专业**（适合研究生和专业研究者）。每个层级包含原典和二手研究，并附有简要评价。
+
+This reading guide is organized into three levels: **Introductory** (for readers new to Locke), **Intermediate** (for readers with some philosophical background), and **Advanced** (for graduate students and professional researchers). Each level includes primary sources and secondary literature, with brief evaluations.
+
+## 入门级 / Introductory Level（约 15 小时阅读 / ~15 hours of reading）
+
+### 原典 / Primary Sources
+
+1. **《政府论》下篇 Ch. 2（论自然状态）和 Ch. 5（论财产）** / *Second Treatise*, Ch. 2 (State of Nature) and Ch. 5 (Property)
+   - 这是洛克政治哲学最核心的两章。Ch. 2 建立了自然权利的基本框架，Ch. 5 提出了财产权的劳动论。建议配合 Laslett 的注释版阅读。 / These are the two most central chapters of Locke's political philosophy. Ch. 2 establishes the basic framework of natural rights, Ch. 5 presents the labour theory of property. Best read with Laslett's annotated edition.
+   - 中译：叶启芳、瞿菊农译，商务印书馆 / Chinese trans.: Ye Qifang & Qu Junong, Commercial Press
+
+2. **《政府论》下篇 Ch. 8–9（论政治社会的起源和目的）** / *Second Treatise*, Ch. 8–9 (Origins and Ends of Political Society)
+   - 理解洛克的社会契约论和有限政府理论的关键。 / Key to understanding Locke's social contract theory and limited government.
+
+3. **《论宗教宽容》全文**（约50页） / *A Letter Concerning Toleration* (full text, ~50 pages)
+   - 篇幅不长，但论证极为精炼。三个论证（职能、效力、知识）的结构值得仔细分析。 / Short but extremely concentrated in argument. The structure of the three arguments (jurisdiction, efficacy, epistemology) repays careful analysis.
+   - 中译：吴云贵译，商务印书馆 / Chinese trans.: Wu Yungui, Commercial Press
+
+### 二手研究 / Secondary Literature
+
+4. **Dunn, John. *Locke: A Very Short Introduction*. Oxford: Oxford University Press, 2003.**
+   - 最佳入门读物。Dunn 是洛克研究的权威学者，这本小书以极短的篇幅提供了对洛克思想的全面而深刻的概述。 / The best introductory text. Dunn is an authoritative Locke scholar; this slim volume offers a comprehensive and penetrating overview of Locke's thought in remarkably few pages.
+
+5. **Tully, James. "Property, Self-Government, and Consent." *Canadian Journal of Political Science* 28 (1995): 105–128.**
+   - 一篇精炼的论文，清晰地阐述了洛克财产权和同意理论的内在逻辑。 / A concise paper clearly articulating the inner logic of Locke's property and consent theories.
+
+## 进阶级 / Intermediate Level（约 40 小时阅读 / ~40 hours of reading）
+
+### 原典 / Primary Sources
+
+6. **《政府论》下篇全文** / *Second Treatise* (full text)
+   - 完整阅读下篇，包括常被忽视的 Ch. 10–14（权力的形式）和 Ch. 16–18（征服、篡夺、暴政）。 / Read the entire Second Treatise, including the often-neglected Ch. 10–14 (Forms of Power) and Ch. 16–18 (Conquest, Usurpation, Tyranny).
+
+7. **《人类理解论》Book I（批判天赋观念）和 Book II（观念的来源）** / *Essay Concerning Human Understanding*, Book I (Critique of Innate Ideas) and Book II (Origin of Ideas)
+   - 理解洛克经验主义认识论的核心。Book I 的批判论证至今仍有哲学价值；Book II 的观念分类是心灵哲学的先驱性工作。 / Core of Locke's empiricist epistemology. Book I's critical arguments retain philosophical value today; Book II's classification of ideas is pioneering work in philosophy of mind.
+
+8. **《政府论》上篇** / *First Treatise*
+   - 常被忽略，但对理解洛克的政治方法论至关重要——洛克在此展示了如何系统地解构一个论证。 / Often neglected, but crucial for understanding Locke's political method — Locke demonstrates how to systematically deconstruct an argument.
+
+### 二手研究 / Secondary Literature
+
+9. **Tully, James. *An Approach to Political Philosophy: Locke in Contexts*. Cambridge: Cambridge University Press, 1993.**
+   - 将洛克置于十七世纪的知识、政治和殖民语境中加以理解，是语境主义学派（Cambridge School）的代表作。 / Situates Locke in seventeenth-century intellectual, political, and colonial contexts; a representative work of the Cambridge School of contextualism.
+
+10. **Simmons, A. John. *The Lockean Theory of Rights*. Princeton: Princeton University Press, 1992.**
+    - 以分析哲学的方法系统重建洛克的权利理论，论证清晰严密，是当代洛克研究的标准参考文献。 / Systematically reconstructs Locke's rights theory using analytical philosophy; clear and rigorous, a standard reference in contemporary Locke scholarship.
+
+11. **Ashcraft, Richard. *Locke's Two Treatises of Government*. London: Allen & Unwin, 1987.**
+    - 从激进政治的角度解读《政府论》，认为洛克是"资产阶级革命"的理论家。与 Tully 的语境主义解读形成对照。 / Interprets the *Two Treatises* from a radical political perspective, arguing Locke was a theorist of "bourgeois revolution." Contrasts with Tully's contextualist reading.
+
+12. **Waldron, Jeremy. *The Right to Private Property*. Oxford: Clarendon Press, 1988.**
+    - 对洛克财产权论的最深入的分析之一，同时考察了从洛克到诺齐克的财产权理论谱系。 / One of the most penetrating analyses of Locke's property theory, also examining the spectrum of property theories from Locke to Nozick.
+
+## 专业级 / Advanced Level（约 80+ 小时阅读 / ~80+ hours of reading）
+
+### 原典 / Primary Sources
+
+13. **《人类理解论》全文（四卷）** / *Essay Concerning Human Understanding* (all four Books)
+    - 完整阅读，特别关注 Book III（语言哲学）和 Book IV（知识论和概率论）。 / Complete reading, with special attention to Book III (philosophy of language) and Book IV (epistemology and probability).
+
+14. **洛克与 Proast 的宽容论战全部文献** / Complete Locke-Proast toleration debate documents
+    - 包括四封宽容信和 Proast 的回应。这场论战比《论宗教宽容》本身更深入地探讨了宽容的哲学基础。 / Including all four Letters and Proast's responses. This debate explores toleration's philosophical foundations more deeply than the *Letter* itself.
+
+15. **《基督教的合理性》及相关神学著作** / *Reasonableness of Christianity* and related theological works
+    - 理解洛克思想的宗教维度，对其政治哲学的深层预设有更完整的把握。 / Understanding the religious dimension of Locke's thought provides a more complete grasp of the deep presuppositions of his political philosophy.
+
+### 二手研究 / Secondary Literature
+
+16. **Yolton, John W. *John Locke and the Way of Ideas*. Oxford: Clarendon Press, 1956.**
+    - 洛克认识论研究的经典之作，详细追溯了"观念"概念在洛克及其同时代人中的演变。 / Classic study of Locke's epistemology, tracing in detail the evolution of the concept of "ideas" among Locke and his contemporaries.
+
+17. **Ashcraft, Richard. *Revolutionary Politics and Locke's Two Treatises of Government*. Princeton: Princeton University Press, 1986.**
+    - 将《政府论》置于排除法案危机的具体政治语境中，提供了最详尽的历史考证。 / Situates the *Two Treatises* in the specific political context of the Exclusion Crisis, providing the most detailed historical scholarship.
+
+18. **Arneil, Barbara. *John Locke and America: The Defence of English Colonialism*. Oxford: Clarendon Press, 1996.**
+    - 从后殖民视角审视洛克的财产权理论与殖民主义的关系，是理解洛克理论阴暗面的必读之作。 / Examines the relationship between Locke's property theory and colonialism from a postcolonial perspective; essential reading for understanding the dark side of Locke's theory.
+
+19. **Zuckert, Michael. *Launching Liberalism: Studies on John Locke and His Successors*. Lawrence: University Press of Kansas, 2002.**
+    - 从自由主义起源的角度考察洛克的政治遗产，分析了洛克与后来自由主义传统的关系。 / Examines Locke's political legacy from the perspective of liberalism's origins, analyzing the relationship between Locke and the later liberal tradition.
+
+## 中文资源 / Chinese-Language Resources
+
+- 顾肃.《自由主义基本理念》. 北京：中央编译出版社. — 系统介绍自由主义传统中的洛克地位 / Systematic introduction to Locke's place in the liberal tradition
+- 周保松.《自由人的平等政治》. 台北：台湾商务印书馆. — 以洛克和罗尔斯为线索讨论自由与平等的关系 / Discusses the relationship between liberty and equality through Locke and Rawls
+- 赵汀阳.《论可能生活》. 北京：中国人民大学出版社. — 提供了与洛克自然权利论对话的中国哲学视角 / Offers a Chinese philosophical perspective in dialogue with Locke's natural rights theory
+- 萧公权.《中国政治思想史》. 北京：商务印书馆. — 可比较中国传统政治思想与社会契约论的异同 / For comparing traditional Chinese political thought with social contract theory
+
+## 在线资源 / Online Resources
+
+- **Stanford Encyclopedia of Philosophy** — "John Locke" (William Uzgalis): 最权威的在线洛克概述 / Most authoritative online overview of Locke
+- **Stanford Encyclopedia of Philosophy** — "Locke's Political Philosophy" (A. John Simmons): 洛克政治哲学的专业概述 / Professional overview of Locke's political philosophy
+- **The Locke Newsletter** — 洛克研究的专业期刊 / Professional journal for Locke studies
+- **John Locke Society** (johnlockesociety.org) — 洛克学术社群的官方网站 / Official website of the Locke academic community
+
+## 推荐阅读顺序 / Suggested Reading Sequence
+
+| 阶段 Stage | 内容 Content | 时间 Time |
+|---|---|---|
+| **第一周** Week 1 | Dunn 入门 + 政府论下篇 Ch. 2, 5 / Dunn intro + Second Treatise Ch. 2, 5 | 8–10 小时 / hours |
+| **第二周** Week 2 | 政府论下篇 Ch. 8–9 + 论宗教宽容 / Second Treatise Ch. 8–9 + Letter | 8–10 小时 / hours |
+| **第三周** Week 3 | Tully (1993) 精选章节 + Simmons (1992) Ch. 1–3 / Selected chapters | 10–12 小时 / hours |
+| **第四周** Week 4 | 人类理解论 Book I–II + Yolton (1956) 选读 / Essay Book I–II + Yolton selections | 12–15 小时 / hours |
+| **进阶** Beyond | 根据个人兴趣深入专门领域 / Deepen into specialized areas according to interest | 持续 / ongoing |

@@ -1,0 +1,61 @@
+# 卡尔·荣格 · Carl Jung - 著作年表 / Works Chronology
+
+## 早期著作 / Early Works (1902–1913)
+
+| 年份 / Year | 书名 / Title | 核心贡献 / Core Contribution |
+|---|---|---|
+| 1902 | 《论所谓灵媒现象的心理与病理》(*On the Psychology and Pathology of So-Called Occult Phenomena*) | 博士论文，对表妹灵媒现象的科学研究，初步涉及无意识心理 |
+| 1904–1907 | 《词语联想研究》(*Studies in Word Association*) | 通过词语联想实验发现"情结"概念，为无意识研究提供实验方法论基础 |
+| 1907 | 《早发性痴呆的心理》(*The Psychology of Dementia Praecox*) | 将精神分析理论应用于精神分裂症研究，引起弗洛伊德关注 |
+| 1912 | 《力比多的象征与转变》(*Wandlungen und Symbole der Libido* / *Symbols of Transformation*) | 拓展力比多概念为普遍心理能量，标志着与弗洛伊德的理论分歧公开化 |
+
+## 独立发展期著作 / Works of Independent Development (1916–1930)
+
+| 年份 / Year | 书名 / Title | 核心贡献 / Core Contribution |
+|---|---|---|
+| 1916 | 《超越功能》(*The Transcendent Function*) | 提出超越功能概念，阐述对立面整合的心理机制 |
+| 1916 | 《无意识的结构》(*The Structure of the Unconscious*) | 初步区分个人无意识与集体无意识 |
+| 1917 | 《无意识心理学》(*The Psychology of the Unconscious*) | 面向大众的无意识心理学概论 |
+| 1921 | 《心理类型》(*Psychologische Typen* / *Psychological Types*) | 系统阐述心理类型理论：外向/内向态度与思维/情感/感觉/直觉四种功能 |
+| 1928 | 《自我与无意识的关系》(*The Relations between the Ego and the Unconscious*) | 深入探讨意识自我与无意识的动态关系 |
+| 1929 | 《太乙金华宗旨》评论 (*Commentary on The Secret of the Golden Flower*) | 与卫礼贤合作，将道教内丹修炼与个体化过程进行跨文化比较 |
+
+## 成熟期著作 / Mature Works (1931–1945)
+
+| 年份 / Year | 书名 / Title | 核心贡献 / Core Contribution |
+|---|---|---|
+| 1933 | 《现代人的心灵问题》(*Modern Man in Search of a Soul*) | 文集，涉及心理治疗、宗教、文学和人生意义等主题 |
+| 1934 | 《原型与集体无意识》论文集开始撰写 | 系统阐述集体无意识和原型理论 |
+| 1936 | 《集体无意识的概念》(*The Concept of the Collective Unconscious*) | 对集体无意识概念的经典系统阐述 |
+| 1938 | 《心理学与宗教》(*Psychology and Religion*) | 探讨宗教经验的心理学维度，分析阴影在宗教象征中的表达 |
+| 1940 | 《儿童发展的心理》(*The Development of Personality*) | 关于儿童心理发展和教育的论述 |
+| 1944 | 《心理学与炼金术》(*Psychologie und Alchemie* / *Psychology and Alchemy*) | 揭示炼金术象征过程与个体化过程的深刻对应关系 |
+
+## 晚期著作 / Late Works (1946–1961)
+
+| 年份 / Year | 书名 / Title | 核心贡献 / Core Contribution |
+|---|---|---|
+| 1946 | 《移情心理学》(*The Psychology of the Transference*) | 以炼金术隐喻分析治疗关系中的移情现象 |
+| 1951 | 《爱翁：自性现象学研究》(*Aion: Researches into the Phenomenology of the Self*) | 对自性原型的深入分析，探讨基督与反基督者的心理学意义 |
+| 1952 | 《共时性：非因果性联系原理》(*Synchronicity: An Acausal Connecting Principle*) | 系统阐述共时性概念，与物理学家泡利合作探讨心灵与物质的关系 |
+| 1952 | 《答约伯》(*Answer to Job*) | 对《约伯记》的心理学分析，探讨上帝形象中的善恶二元性 |
+| 1954 | 《心灵的根基》(*The Roots of Consciousness*) | 探讨意识的起源和进化 |
+| 1955–56 | 《神秘合一》(*Mysterium Coniunctionis*) | 对炼金术"合一"过程的终极分析，个体化理论的最高理论表达 |
+| 1957 | 《未发现的自我》(*The Undiscovered Self* / *Gegenwart und Zukunft*) | 对现代社会中个体处境和集体阴影的深刻反思 |
+| 1958 | 《飞碟：天空中的现代神话》(*Flying Saucers: A Modern Myth of Things Seen in the Skies*) | 从原型角度分析UFO现象，揭示现代人的集体焦虑 |
+| 1961 | 《回忆·梦·思考》(*Erinnerungen, Träume, Gedanken* / *Memories, Dreams, Reflections*) | 荣格自传，记录其思想发展历程和内在体验 |
+
+## 死后出版 / Posthumous Publications
+
+| 年份 / Year | 书名 / Title | 核心贡献 / Core Contribution |
+|---|---|---|
+| 1964 | 《人及其表象》(*Man and His Symbols*) | 荣格生前策划、面向大众读者的概论性著作，由荣格及其学生合著 |
+| 1973 | 《荣格书信集》(*Letters*) | 荣格的通信选集，提供了对其思想的珍贵补充 |
+| 1976–1988 | 《荣格研讨会笔记》(*Seminar Notes*) | 荣格研讨会的完整记录 |
+| 2009 | 《红书》(*The Red Book / Liber Novus*) | 荣格1913–1930年间的私人记录，展现个体化过程的原始材料，附有精美绘画 |
+
+## 全集 / Collected Works
+
+荣格全集（*The Collected Works of C.G. Jung*）由普林斯顿大学出版社出版，共20卷（加2卷补充卷），是研究荣格思想的最权威文献来源。中文版由多家出版社陆续翻译出版。
+
+The *Collected Works of C.G. Jung*, published by Princeton University Press in 20 volumes (plus 2 supplementary volumes), is the most authoritative source for studying Jung's thought. Chinese translations have been published by various presses.

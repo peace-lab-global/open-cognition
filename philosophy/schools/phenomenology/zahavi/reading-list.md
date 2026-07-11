@@ -1,0 +1,96 @@
+---
+id: zahavi-reading-list
+title: 扎哈维进阶阅读 · Zahavi Reading List
+type: reading-list
+domain: philosophy
+school: phenomenology
+thinker: zahavi
+tags: [zahavi, bibliography, reading-guide]
+cross-refs:
+  - id: zahavi
+    relation: thinker
+---
+
+# 扎哈维进阶阅读 · Zahavi Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- *Self-Awareness and Alterity: A Phenomenological Investigation* (1999) — 前反思自身意识的系统论证
+- *Subjectivity and Selfhood: Investigating the First-Person Perspective* (2005) — 最小自我理论
+- *Self and Other: Exploring Subjectivity, Empathy, and Shame* (2014) — 主体间性与社会认知
+
+### 重要
+- *Husserl's Phenomenology* (2003) — 胡塞尔思想的清晰重构
+- *The Phenomenological Mind*（与 Gallagher 合著, 2008, 第三版 2021）— 标准教科书
+- *Husserl's Legacy* (2017) — 胡塞尔先验哲学的当代评估
+- *Phenomenology: The Basics* (2019) — 现象学入门
+
+### 编著
+- *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*（与 Siderits, Thompson 合编, 2011）
+- *The Oxford Handbook of Contemporary Phenomenology* (2012)
+- *The Oxford Handbook of the History of Phenomenology* (2018)
+- *Phenomenology and Philosophy of Mind*（与 Woodruff Smith 合编, 2005）
+
+## 二、经典研究 / Classic Studies
+
+- Shaun Gallagher, *How the Body Shapes the Mind* (2005) — 身体与自我的关系
+- Evan Thompson, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (2007) — 现象学与生物学
+- Thomas Fuchs, *Ecology of the Brain* (2018) — 脑的现象学生态学
+- Josef Parnas & Louis Sass, "Self-Disorders and Schizophrenia" (2001) — ipseity disturbance 模型
+- Jean-Paul Sartre, *The Transcendence of the Ego* (1936) — 前反思意识概念的来源
+- Edmund Husserl, *On the Phenomenology of the Consciousness of Internal Time* (1928) — 时间意识分析
+
+## 三、当代研究 / Contemporary Studies
+
+- Mark Siderits, "Buddhist Reductionism and Emptiness" (2011, 收录于 *Self, No Self?*) — 佛教自我观
+- Galen Strawson, "The Self" (2011, 收录于 *Self, No Self?*) — 分析哲学自我观
+- Jesse Prinz, *The Emotional Construction of Morals* (2007) — 情感与自我
+- Matthew Ratcliffe, *Feelings of Being* (2008) — 存在感与现象学
+- Dorothée Legrand & Susanna Ravn, "Perceiving Subjectivity in Bodily Movement" (2009) — 身体运动中的主体性
+- Christopher Peacocke, *The Self* (2014) — 分析哲学自我观的对照
+- Thomas Metzinger, *The Ego Tunnel* (2009) — 自我模型论（张力参照）
+- Adrian Alsmith & Matthew Longo, "Where Exactly Am I?" (2018) — 自我定位的认知科学
+
+## 四、入门推荐 / Introductory
+
+- Zahavi, *Phenomenology: The Basics* (2019) — 最直接的入门
+- Gallagher & Zahavi, *The Phenomenological Mind* 导论章节 — 认知科学视角
+- Dermot Moran, *Introduction to Phenomenology* (2000) — 现象学历史全景
+- Robert Sokolowski, *Introduction to Phenomenology* (2000) — 清晰的胡塞尔入门
+- David Chalmers, *The Conscious Mind* (1996) — 意识难问题的分析哲学视角（对照）
+
+## 五、东西方对话 / East-West Dialogue
+
+- Siderits, Thompson & Zahavi (eds.), *Self, No Self?* (2011) — 佛教与现象学的核心对话文集
+- Evan Thompson, *Waking, Dreaming, Being* (2015) — 意识状态与佛教冥想
+- B. Alan Wallace, *The Taboo of Subjectivity* (2000) — 佛教认识论与科学
+- Jay Garfield, *Engaging Buddhism* (2015) — 佛教哲学与分析哲学的对话
+- 阿部正雄《禅与西方思想》— 东西方自我观的比较
+
+## 六、跨学科阅读 / Cross-disciplinary
+
+### 认知科学
+- Antonio Damasio, *The Feeling of What Happens* (1999) — 自身意识的神经科学
+- Antonio Damasio, *Self Comes to Mind* (2010) — 自我的脑科学
+- Anil Seth, *Being You* (2021) — 意识与预测加工
+
+### 精神病理学
+- Josef Parnas et al., "EASE: Examination of Anomalous Self-Experience" (2005) — 自身异常体验的临床评估
+- Louis Sass, *Madness and Modernism* (1992) — 精神分裂症与现代性
+- Matthew Ratcliffe, *Experiences of Depression* (2015) — 抑郁症的现象学
+
+### 冥想研究
+- Antoine Lutz et al., "Attention Regulation and Monitoring in Meditation" (2008) — 冥想的认知科学
+- Willoughby Britton et al., "The Varieties of Contemplative Experience" (2017) — 冥想经验的多样性
+
+## 七、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解扎哈维 | *Phenomenology: The Basics* → *Subjectivity and Selfhood* 导论 |
+| 研究自身意识 | *Self-Awareness and Alterity* → *Subjectivity and Selfhood* → *Self and Other* |
+| 认知科学对话 | *The Phenomenological Mind* → Thompson *Mind in Life* |
+| 东西方对话 | *Self, No Self?* → Thompson *Waking, Dreaming, Being* |
+| 精神病理学 | Parnas & Sass 论文 → Ratcliffe *Feelings of Being* |
+| 胡塞尔研究 | *Husserl's Phenomenology* → *Husserl's Legacy* → 胡塞尔原典 |

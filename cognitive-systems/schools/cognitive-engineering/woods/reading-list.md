@@ -1,0 +1,19 @@
+---
+id: cognitive-systems.school.cognitive-engineering.woods.reading-list
+title: 伍兹阅读指南 David Woods Reading List
+type: reading-list
+thinker: woods
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 伍兹阅读指南 / David Woods Reading List
+
+## 入门路径
+
+1. Hollnagel, E., Woods, D. & Leveson, N. (eds.) (2006). *Resilience Engineering*. Ashgate.
+2. Woods, D. & Dekker, S. (2002). "Anticipating the Effects of Technological Change."
+
+## 二手研究
+
+- Nemeth, C., Cook, R. & Woods, D. (eds.) (2008). *Resilience Engineering: Models and Analysis*.

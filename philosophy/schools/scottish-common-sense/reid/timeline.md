@@ -1,0 +1,65 @@
+---
+id: reid-timeline
+title: 里德生平年表 · Reid Biography Timeline
+type: timeline
+domain: philosophy
+school: scottish-common-sense
+thinker: reid
+tags: [reid, timeline, biography]
+cross-refs:
+  - id: reid
+    relation: thinker
+---
+
+# 里德生平年表 · Reid Biography Timeline
+
+## 早年与学术训练（1710–1751）
+
+| 年份 | 事件 |
+|------|------|
+| 1710.4.26 | 生于苏格兰金霍恩（Kincardineshire），父 Lewis Reid（长老会牧师） |
+| 1723 | 进入阿伯丁马修学院（Marischal College） |
+| 1728 | 获硕士学位 |
+| 1731 | 任阿伯丁附近 New Machar 教区牧师 |
+| 1730s | 阅读休谟《人性论》（1739），受到巨大冲击 |
+| 1737 | 任阿伯丁大学国王学院图书馆馆长 |
+| 1751 | 任阿伯丁大学国王学院道德哲学教授 |
+
+## 阿伯丁时期（1751–1764）
+
+| 年份 | 事件 |
+|------|------|
+| 1751–1764 | 在阿伯丁发展常识哲学 |
+| 1758 | 参与创建阿伯丁哲学学会（"Wise Club"） |
+| 1762 | 与休谟通信讨论因果关系 |
+| 1764 | 出版 *An Inquiry into the Human Mind*——直接感知论与观念体系批判 |
+| 1764 | 接替亚当·斯密任格拉斯哥大学道德哲学讲席 |
+
+## 格拉斯哥时期（1764–1796）
+
+| 年份 | 事件 |
+|------|------|
+| 1764 | 任格拉斯哥大学道德哲学教授（接替亚当·斯密） |
+| 1765–1780 | 讲授逻辑学、心灵哲学、道德哲学 |
+| 1774 | 发表 "A Brief Account of Aristotle's Logic" |
+| 1780 | 退休（emeritus），但继续研究和写作 |
+| 1785 | 出版 *Essays on the Intellectual Powers of Man*——心智能力体系化 |
+| 1788 | 出版 *Essays on the Active Powers of Man*——意志与道德 |
+| 1796.10.7 | 在格拉斯哥去世，享年86岁 |
+
+## 死后影响
+
+| 时间 | 事件 |
+|------|------|
+| 1846 | William Hamilton 编辑全集 |
+| 19世纪 | 常识哲学在美国广泛传播（普林斯顿、耶鲁） |
+| 20世纪 | 分析哲学直接实在论复兴重新发现里德 |
+| 1997–2010 | Edinburgh Edition 批判版出版 |
+
+## 思想分期总结
+
+| 阶段 | 年代 | 关键词 |
+|------|------|--------|
+| 学术训练 | 1710–1751 | 阿伯丁、休谟冲击 |
+| 常识哲学创立 | 1751–1764 | *Inquiry*、直接感知 |
+| 体系化 | 1764–1796 | 格拉斯哥、智力/能动能力 |

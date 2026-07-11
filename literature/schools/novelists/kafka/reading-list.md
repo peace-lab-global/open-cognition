@@ -1,0 +1,148 @@
+---
+id: kafka-reading-list
+title: 卡夫卡进阶阅读 · Kafka Reading List
+type: reading-list
+domain: literature
+school: novelists
+thinker: kafka
+tags: [kafka, bibliography, reading-guide, modernism]
+cross-refs:
+  - id: kafka
+    relation: thinker
+---
+
+# 卡夫卡进阶阅读 · Kafka Reading List
+
+## 一、阅读路径
+
+### 入门（2 篇，2 小时）
+1. 《变形记》— 卡夫卡最具可读性的作品
+2. 《判决》— 15 分钟读完，卡夫卡风格的诞生
+
+### 进阶（2 部，20 小时）
+3. 《审判》全书
+4. 《致父亲的信》
+
+### 深潜（全部 + 批评，60+ 小时）
+5. 《城堡》
+6. 《美国》
+7. 日记选篇
+8. 本雅明《论卡夫卡》
+9. 阿多诺《关于卡夫卡的笔记》
+
+## 二、原典（必读）
+
+### 核心长篇
+- *The Trial / Der Process* (1925) — 无名之罪与法律噩梦
+- *The Castle / Das Schloß* (1926) — 不可抵达的权威
+- *Amerika / Der Verschollene* (1927) — 现代世界的迷失
+
+### 核心短篇
+- "The Metamorphosis" / "Die Verwandlung" (1915)
+- "The Judgment" / "Das Urteil" (1912)
+- "In the Penal Colony" / "In der Strafkolonie" (1915)
+- "Before the Law" / "Vor dem Gesetz" — 《审判》中的寓言
+- "A Hunger Artist" / "Ein Hungerkünstler" (1922)
+- "A Country Doctor" / "Ein Landarzt" (1919)
+- "The Burrow" / "Der Bau" (1923–1924)
+
+### 书信与日记
+- *Letter to His Father* / "Brief an den Vater" (1919)
+- *Letters to Felice* (1912–1917)
+- *Letters to Milena* (1920–1923)
+- *Diaries* (1910–1923)
+
+### 中译本推荐
+- 叶廷芳 主编《卡夫卡全集》10 卷（河北教育出版社）— 最全面中文版
+- 李文俊 译《变形记》（上海译文出版社）
+- 孙坤荣 译《审判》（上海译文出版社）
+- 高年生 译《城堡》（上海译文出版社）
+
+## 三、传记
+
+### 经典传记
+- **Stach, Reiner** *Kafka* (3 vols.)
+  - Vol. 1: *The Early Years* (1883–1910)
+  - Vol. 2: *The Decisive Years* (1910–1915, 2005)
+  - Vol. 3: *The Years of Insight* (1916–1924, 2013)
+  — 德语世界最全面的卡夫卡传记
+- **Murray, Nicholas** *Kafka* (2004) — 简明可读的英文传记
+- **Brod, Max** *Franz Kafka: A Biography* (1937) — 最早的传记，出自挚友之手
+
+### 相关传记
+- **Diamant, Kathi** *Kafka's Last Love* (2003) — 多拉·迪亚曼特的故事
+- **Mark Harman** — 卡夫卡新译本的译者序言
+
+### 中文传记
+- 叶廷芳《卡夫卡：现代文学之父》
+- 董鼎山《卡夫卡传》
+
+## 四、批评与研究
+
+### 经典研究
+- **Benjamin, Walter** "Franz Kafka: On the Tenth Anniversary of His Death" (1934) — 卡夫卡作为现代"aggadah"的讲述者
+- **Adorno, Theodor** "Notes on Kafka" (1953) — 从批判理论角度的解读
+- **Blanchot, Maurice** *The Space of Literature* (1955) — 卡夫卡与文学空间
+- **Sokel, Walter** *Franz Kafka: Tragik und Ironie* (1964) — 悲剧与讽刺的双重解读
+
+### 当代研究
+- **Corngold, Stanley** *Franz Kafka: The Necessity of Form* (1988)
+- **Zilcosky, John** *Kafka's Travels* (2003) — 殖民主义与旅行
+- **Robertson, Ritchie** *Kafka: A Very Short Introduction* (2004) — 简明导读
+- **Northey, Anthony** *Kafka's Relatives* (1991) — 家族背景研究
+
+### 中文研究
+- 叶廷芳《论卡夫卡》（中国社会科学出版社）
+- 残雪《灵魂的城堡——理解卡夫卡》
+
+## 五、卡夫卡的思想源头
+
+- **克尔凯郭尔** — 焦虑、信仰的跳跃、个体面对无限
+- **尼采** — 上帝之死、永恒回归
+- **陀思妥耶夫斯基** — 罪感、父子关系、地下室人
+- **福楼拜** — 客观叙事、文学的完美追求
+- **克莱斯特** — 悖论叙事、法律与人性的冲突
+- **犹太传统** — 塔木德法学、aggadah 叙事
+
+## 六、卡夫卡的下游
+
+### 哲学
+- **加缪** — 《西绪福斯神话》对荒诞的哲学化
+- **阿甘本** — 法的例外状态、"法的门前"的政治哲学解读
+- **德里达** — "法的门前"的解构主义阅读
+- **齐泽克** — 拉康式的卡夫卡解读
+
+### 文学
+- **博尔赫斯** — 迷宫叙事、无限图书馆
+- **贝克特** — 荒诞戏剧、等待的不可能性
+- **品特** — 日常对话中的恐怖
+- **库切** — 《等待野蛮人》的卡夫卡式叙事
+- **石黑一雄** — 《被掩埋的巨人》中的遗忘与记忆
+- **昆德拉** — 轻与重、媚俗
+
+### 戏剧
+- **品特** — 威胁喜剧
+- **阿尔比** — 荒诞与家庭关系
+- **汉德克** — 语言的边界
+
+### 电影
+- **奥逊·威尔斯** — 《审判》（1962）
+- **迈克尔·哈内克** — 《城堡》改编（1997）
+
+## 七、研究工具
+
+- **Kafka Project** (kafkaproject.com) — 在线卡夫卡研究资源
+- **Oxford Kafka Research Centre**
+- **Kafka Society of America**
+- **Reiner Stach** 三卷本传记 — 最全面的学术资源
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**卡夫卡的精髓** | 《变形记》→ 《判决》→ 《法的门前》 |
+| 深入**审判** | 全书 → 本雅明 → 阿甘本 |
+| 理解**父子关系** | 《致父亲的信》→ 《判决》→ Stach 传记 |
+| 了解**城堡** | 全书 → Blanchot → Blanchot |
+| **中文读者**入门 | 李文俊译《变形记》→ 残雪解读 → 叶廷芳全集 |
+| 探索**荒诞哲学** | 卡夫卡短篇 → 加缪《西绪福斯神话》→ 贝克特 |

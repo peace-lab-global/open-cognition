@@ -1,0 +1,75 @@
+---
+id: thompson-works
+title: 汤普森作品总览 · Thompson Works
+type: works-catalogue
+domain: philosophy
+school: phenomenology
+thinker: thompson
+tags: [thompson, works, bibliography]
+cross-refs:
+  - id: thompson
+    relation: thinker
+---
+
+# 汤普森作品总览 · Thompson Works
+
+## 一、主要专著 / Major Monographs
+
+| 年份 | 书名 | 英译/中译 | 备注 |
+|------|------|-----------|------|
+| 1991 | *The Embodied Mind: Cognitive Science and Human Experience*（与 Varela, Rosch 合著） | 《具身心智》（浙江大学出版社） | 生成认知的奠基之作 |
+| 2007 | *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* | — | 生命-心智连续性的系统论证 |
+| 2015 | *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy* | — | 意识三态与东西方哲学对话 |
+| 2016 | *The Embodied Mind* 修订版（与 Varela, Rosch） | — | 更新导言与新反思 |
+| 2020 | *Why I Am Not a Buddhist* | — | 对佛教现代主义的批评 |
+
+## 二、重要编著 / Edited Volumes
+
+| 年份 | 书名 | 备注 |
+|------|------|------|
+| 2001 | *Between Ourselves: Second-Person Issues in the Study of Consciousness* | 第二人称视角的意识研究 |
+| 2011 | *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*（与 Siderits, Zahavi 合编） | 佛教无我论与现象学对话 |
+
+## 三、重要论文 / Key Essays
+
+- "Sensorimotor Subjectivity and the Intersubjectivity of Experience"（1996）— 主体间性
+- "Empathy and Consciousness"（2001）— 共情与意识
+- "Life and Mind: A Response to John Stewart"（2004）— 生命-心智连续性
+- "Autopoiesis, Adaptivity, Teleology, Agency"（2004）— 自组织理论
+- "Mind in Life"（同名专著的核心章节）
+- "Neurophenomenology and Contemplative Practice"（多篇）— 神经现象学方法论
+- "Waking, Dreaming, Being"（同名专著核心章节）— 意识三态分析
+- "Dreaming and the Self"（2014）— 梦中的自我结构
+- "The Problem of Color Consciousness"（与 Varela 合作）— 颜色意识
+- "Buddhist Meditation and the Consciousness of Time"（2016）— 佛教冥想与时间意识
+
+## 四、中译与中文资源
+
+- 瓦雷拉、汤普森、罗施《具身心智：认知科学与人类经验》（浙江大学出版社）
+- 相关研究论文散见于中国学术期刊
+
+## 五、阅读路径
+
+### 入门（3 文本，4 小时）
+1. *The Embodied Mind* 导论与修订版新导言
+2. *Waking, Dreaming, Being* 导论章节
+3. "Mind in Life" 概述论文
+
+### 进阶（5 文本，30 小时）
+4. *Mind in Life* 全书
+5. *Waking, Dreaming, Being* 全书
+6. *Why I Am Not a Buddhist*
+7. *Self, No Self?*（合编）
+8. 关键论文系列
+
+### 深潜
+9. Varela 的原始论文系列
+10. 佛教哲学原典（与汤普森的引用对照）
+11. 自组织理论文献
+
+## 六、研究工具
+
+- **Center for Mind, Brain, and Consciousness**（不列颠哥伦比亚大学）
+- **Phenomenology and the Cognitive Sciences**（Springer 期刊）
+- **Frontiers in Human Neuroscience**
+- **Journal of Consciousness Studies**

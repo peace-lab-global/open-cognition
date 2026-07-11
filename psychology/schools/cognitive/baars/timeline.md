@@ -1,0 +1,86 @@
+---
+id: psychology.cognitive.baars.timeline
+title: "巴尔斯生平年表 · Bernard Baars Life Timeline"
+type: timeline
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+---
+
+# 巴尔斯生平年表 · Bernard Baars Life Timeline
+
+---
+
+## 早年与教育 · Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1946 | 出生于荷兰海牙 / Born in The Hague, Netherlands |
+| 1960s | 移居美国，开始接受高等教育 / Emigrated to the United States, began higher education |
+| 1970s | 在纽约州立大学石溪分校（SUNY Stony Brook）攻读认知心理学博士学位 / Pursued Ph.D. in cognitive psychology at SUNY Stony Brook |
+| ~1978 | 获博士学位，研究方向为认知心理学与语言处理 / Received Ph.D., research focused on cognitive psychology and language processing |
+
+---
+
+## 学术生涯早期 · Early Academic Career
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1978–1983 | 在石溪分校从事博士后研究和教学工作 / Postdoctoral research and teaching at Stony Brook |
+| 1983 | 发表早期论文"Conscious contents provide ideas, values, and hypotheses"，开始系统思考意识的功能角色 / Published early paper on conscious contents, beginning systematic thinking about consciousness's functional role |
+| 1983–1987 | 发展全局工作空间理论的核心概念，受到George Miller、Donald Broadbent和Michael Posner的影响 / Developed core concepts of GWT, influenced by George Miller, Donald Broadbent, and Michael Posner |
+
+---
+
+## 理论突破 · Theoretical Breakthrough
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1988 | **出版《意识的认知理论》**（Cambridge University Press）——首次系统阐述全局工作空间理论，标志着意识科学中功能主义进路的确立 / **Published *A Cognitive Theory of Consciousness*** — first systematic formulation of GWT, establishing the functionalist approach in consciousness science |
+| 1989 | 加入赖特研究所（The Wright Institute, Berkeley），开始长期在加州湾区的学术生涯 / Joined The Wright Institute (Berkeley), beginning long-term academic career in the Bay Area |
+| 1992 | 发表关于"意识与无意识的十二个竞争假说"的论文 / Published paper on twelve competing hypotheses about consciousness and unconsciousness |
+
+---
+
+## 理论普及与影响 · Theory Popularization and Influence
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1997 | **出版《意识的剧场》**（Oxford University Press）——以剧场隐喻面向广大读者重写GWT，该书成为意识科学领域最受欢迎的入门读物之一 / **Published *In the Theater of Consciousness*** — GWT rewritten with theater metaphor for broad readership, becoming one of the most popular introductions in consciousness science |
+| 1997–2000 | GWT开始获得国际学术界的广泛认可，成为意识科学领域引用最多的理论之一 / GWT begins gaining widespread international recognition, becoming one of the most cited theories in consciousness science |
+| 2001 | **编辑出版《意识的认知神经科学》**（MIT Press）——汇集当时最新的脑成像和电生理证据，推动GWT与神经科学的跨学科对话 / **Edited *The Cognitive Neuroscience of Consciousness*** — assembled latest neuroimaging and electrophysiological evidence, promoting interdisciplinary dialogue between GWT and neuroscience |
+| 2002 | 发表高引论文"The conscious access hypothesis: Origins and recent evidence"于*Trends in Cognitive Sciences* / Published highly cited paper on the conscious access hypothesis in *Trends in Cognitive Sciences* |
+
+---
+
+## 神经科学汇合 · Neuroscience Convergence
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2001–2005 | 与 Stanislas Dehaene 和 Jean-Pierre Changeux 展开持续对话，Dehaene的"全局神经元工作空间"（GNW）为GWT提供了强有力的神经科学支持 / Ongoing dialogue with Stanislas Dehaene and Jean-Pierre Changeux; Dehaene's "Global Neuronal Workspace" (GNW) provided strong neuroscience support for GWT |
+| 2003 | 在*Science*发表关于脑成像与意识研究的评论 / Published commentary on brain imaging and consciousness research in *Science* |
+| 2005 | 发表"Global workspace theory: What is it and where is it going?"对GWT进行方向性反思 / Published reflective assessment of GWT's direction |
+| 2007 | **与Nicole Gage合著教科书《认知、脑与意识》**（Academic Press）——将GWT融入标准的认知神经科学教育体系 / **Co-authored textbook *Cognition, Brain, and Consciousness* with Nicole Gage** — integrating GWT into standard cognitive neuroscience education |
+| 2010 | 教科书第二版出版，更新最新神经科学证据 / Second edition of textbook published with updated neuroscience evidence |
+
+---
+
+## 近期活动 · Recent Activities
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2013 | 出版《人类本性的生物学基础》，将GWT置于更广阔的生物学框架 / Published *The Biological Basis of Human Nature*, placing GWT in broader biological framework |
+| 2013 | 在《剑桥意识手册》（第二版）中发表GWT最新总结 / Published latest GWT summary in *The Cambridge Handbook of Consciousness* (2nd ed.) |
+| 2015–2019 | 继续关注意识与冥想、意识与教育等交叉议题 / Continued attention to cross-cutting topics: consciousness and meditation, consciousness and education |
+| 2019 | 发表"The function of consciousness: The global workspace theory"于*Frontiers in Psychology* / Published on GWT's functionalist argumentation in *Frontiers in Psychology* |
+| 2020s | 持续关注GWT在人工智能和对抗性合作实验中的最新发展 / Continued engagement with GWT's latest developments in AI and adversarial collaboration experiments |
+| 2023 | 大型对抗性合作实验发表结果，部分支持、部分挑战GWT预测——Baars参与学术回应 / Large-scale adversarial collaboration experiment results published, partially supporting and partially challenging GWT predictions — Baars engaged in academic response |
+
+---
+
+## 学术影响 · Academic Impact
+
+- **引用次数 / Citation Count**: 著作和论文累计引用超过 15,000 次 / Cumulative citations exceeding 15,000
+- **关键影响 / Key Influence**: GWT是当代意识科学领域引用最多的功能主义理论之一 / GWT is one of the most cited functionalist theories in contemporary consciousness science
+- **学术传承 / Academic Legacy**: 直接影响 Stanislas Dehaene、Jean-Pierre Changeux、Murray Shanahan 等学者 / Directly influenced Stanislas Dehaene, Jean-Pierre Changeux, Murray Shanahan and others
+- **跨学科影响 / Interdisciplinary Impact**: 影响了认知心理学、神经科学、人工智能、临床神经学、教育学和冥想研究等多个领域 / Influenced multiple fields including cognitive psychology, neuroscience, AI, clinical neurology, education, and meditation research

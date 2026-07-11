@@ -1,0 +1,54 @@
+---
+id: aesthetics.german-aesthetics.hegel-aesthetics.works
+title: 黑格尔美学著作列表 / Hegel Aesthetics Works
+type: works
+parent: aesthetics.german-aesthetics.hegel-aesthetics
+---
+
+# 黑格尔美学著作列表 / Hegel Aesthetics Bibliography
+
+## 美学核心著作 / Core Aesthetic Works
+
+| 年份 | 德文标题 | 中文译名 | 核心主题 |
+|------|---------|----------|----------|
+| 1835 | *Vorlesungen über die Ästhetik* (Hotho 编) | 《美学讲演录》/《美学》 | 艺术哲学完整体系 |
+
+## 体系著作 / Systematic Works
+
+| 年份 | 德文标题 | 中文译名 | 核心主题 |
+|------|---------|----------|----------|
+| 1807 | *Phänomenologie des Geistes* | 《精神现象学》 | 辩证法、意识的自我发展 |
+| 1812-16 | *Wissenschaft der Logik* | 《逻辑学》 | 存在论、本质论、概念论 |
+| 1817 | *Enzyklopädie der philosophischen Wissenschaften* | 《哲学百科全书》 | 体系总纲，含美学纲要 |
+| 1821 | *Grundlinien der Philosophie des Rechts* | 《法哲学原理》 | 伦理生活、国家哲学 |
+
+## 讲演录 / Lecture Series (posthumous)
+
+| 年份 | 标题 | 说明 |
+|------|------|------|
+| 1832 | *Vorlesungen über die Philosophie der Geschichte* | 《历史哲学讲演录》 |
+| 1835 | *Vorlesungen über die Ästhetik* | 《美学讲演录》（Hotho 编） |
+| 1837 | *Vorlesungen über die Philosophie der Religion* | 《宗教哲学讲演录》 |
+| 1836 | *Vorlesungen über die Geschichte der Philosophie* | 《哲学史讲演录》 |
+
+## 《美学讲演录》结构 / Structure of Lectures on Aesthetics
+
+| 部分 | 内容 |
+|------|------|
+| 导论 | 美学的对象与方法，艺术美的概念 |
+| 第一部分 | 艺术美的理念——美的理念的普遍性 |
+| 第二部分 | 特殊艺术类型——象征型、古典型、浪漫型 |
+| 第三部分 | 各门艺术的体系——建筑、雕塑、绘画、音乐、诗歌 |
+
+## 推荐中译本 / Recommended Chinese Translations
+
+- 《美学》（三卷），朱光潜译，商务印书馆 — 经典权威译本
+- 《精神现象学》（上下卷），贺麟、王玖兴译，商务印书馆
+- 《逻辑学》（上下卷），杨一之译，商务印书馆
+- 《小逻辑》，贺麟译，商务印书馆
+- 《法哲学原理》，范扬、张企泰译，商务印书馆
+- 《历史哲学》，王造时译，上海书店出版社
+
+---
+
+*另见：[[README|黑格尔美学]] | [[reading-list|推荐阅读]]*

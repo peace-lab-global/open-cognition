@@ -1,0 +1,105 @@
+---
+id: marx-reading-list
+title: 马克思进阶书单 · Marx Reading List
+type: reading-list
+domain: sociology
+thinker: marx
+school: classical
+---
+
+# 马克思系统阅读指南 / Marx Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+### 传记 / Biographies
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Karl Marx: A Biography* (2006) | David McLellan | 最权威的英文传记，资料翔实 |
+| *Karl Marx: A Nineteenth-Century Life* (2013) | Jonathan Sperber | 将马克思置于19世纪历史语境中 |
+| *Karl Marx: Greatness and Illusion* (2016) | Gareth Stedman Jones | 思想传记，区分马克思原意与"马克思主义" |
+| 马克思传 | 戴维·麦克莱伦 | 中译本最完整的马克思传记 |
+
+### 入门读物 / Introductions
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Why Read Marx Today?* (2002) | Jonathan Wolff | 简洁精当的哲学入门 |
+| *Marx: A Very Short Introduction* (2001) | Peter Singer | 牛津通识读本，侧重哲学维度 |
+| *Why Marx Was Right* (2011) | Terry Eagleton | 逐条反驳对马克思的十大常见批判 |
+| *Marx's Concept of the Alternative to Capitalism* (2014) | Peter Hudis | 马克思解放思想的当代阐释 |
+
+---
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《共产党宣言》/ Communist Manifesto | 1848 | 阶级斗争学说；历史唯物主义概要 |
+| 《1844年经济学哲学手稿》/ Economic and Philosophic Manuscripts | 1844 | 异化劳动四重论；人的解放 |
+| 《关于费尔巴哈的提纲》/ Theses on Feuerbach | 1845 | 实践哲学；"改变世界" |
+| 《资本论》第一卷 / Capital, Volume I | 1867 | 商品拜物教；剩余价值；原始积累 |
+| 《路易·波拿巴的雾月十八日》/ Eighteenth Brumaire | 1852 | 历史唯物主义的政治分析示范 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《德意志意识形态》/ German Ideology（第一篇） | 1846 | 历史唯物主义的系统阐述 |
+| 《政治经济学批判大纲》/ Grundrisse（"资本主义生产以前的各种形式"） | 1857-58 | 前资本主义社会形态；一般智力 |
+| 《资本论》第三卷 / Capital, Volume III（第23-25章） | 1894 | 利润率下降趋势；信用与虚拟资本 |
+| 《哥达纲领批判》/ Critique of the Gotha Programme | 1875 | 共产主义两阶段理论 |
+| 《法兰西内战》/ Civil War in France | 1871 | 无产阶级国家理论 |
+
+### 第三层：专门研究 / Tier 3: Specialist Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《黑格尔法哲学批判》/ Critique of Hegel's Philosophy of Right | 1843 | 马克思与黑格尔的思想关系 |
+| 《剩余价值理论》/ Theories of Surplus Value | 1862-63 | 政治经济学批判史 |
+| 《人类学笔记》/ Ethnological Notebooks | 1879-82 | 马克思晚年思想；非西方社会 |
+
+---
+
+## 三、深度研究 / Advanced Scholarship
+
+### 哲学与方法论 / Philosophy and Method
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Karl Marx's Theory of History: A Defence* (1978) | G.A. Cohen | 分析马克思主义奠基之作；以分析哲学重建历史唯物主义 |
+| *History and Class Consciousness* (1923) | Georg Lukacs | 物化理论；总体性范畴；西方马克思主义起点 |
+| *For Marx* (1965) | Louis Althusser | "认识论断裂"论；结构主义马克思主义 |
+| *Reason and Revolution* (1941) | Herbert Marcuse | 黑格尔与马克思的思想关系 |
+| 《资本论的哲学》/ 广松涉 | 广松涉 | 日本马克思主义独特的"物象化"解读 |
+
+### 政治经济学 / Political Economy
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *A Companion to Marx's Capital* (2010) | David Harvey | 最佳《资本论》导读 |
+| *Marx's Capital* (2016) | Ben Fine & Alfred Saad-Filho | 简洁的经济学解读 |
+| *The Limits to Capital* (1982) | David Harvey | 空间政治经济学；"空间修复"概念 |
+
+### 文化与社会理论 / Culture and Social Theory
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Selections from the Prison Notebooks* | Antonio Gramsci | 文化霸权理论；有机知识分子 |
+| *Dialectic of Enlightenment* (1944) | Horkheimer & Adorno | 工具理性批判；文化工业 |
+| *One-Dimensional Man* (1964) | Herbert Marcuse | 发达工业社会的全面异化 |
+
+---
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Platform Capitalism* (2016) | Nick Srnicek | 数字资本主义批判 |
+| *Accumulation by Dispossession* | David Harvey | 新自由主义时代的原始积累 |
+| *Marx's Ecology* (2000) | John Bellamy Foster | 生态马克思主义 |
+| *The Production of Money* (2016) | Riccardo Bellofiore | 金融化与货币理论 |
+| *Capital in the Twenty-First Century* (2013) | Thomas Piketty | 不平等的当代分析（非马克思主义但回应马克思） |
+
+---
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Singer → Wolff → 《共产党宣言》→ 《费尔巴哈提纲》
+**阶段二**（4-8周）: 《1844年手稿》→ McLellan传记 → Harvey *Companion*
+**阶段三**（8-16周）: 《资本论》第一卷（配合Harvey导读）→ 《雾月十八日》
+**阶段四**（16周+）: Cohen → Lukacs → Althusser → Gramsci → 按兴趣方向深入

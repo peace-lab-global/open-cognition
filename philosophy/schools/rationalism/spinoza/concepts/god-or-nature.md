@@ -1,0 +1,94 @@
+---
+id: spinoza-god-or-nature
+title: 上帝即自然 · Deus sive Natura
+type: concept
+domain: philosophy
+school: rationalism
+thinker: spinoza
+tags:
+  - 上帝
+  - 自然
+  - 泛神论
+  - 内在性
+  - God
+  - Nature
+  - pantheism
+  - immanence
+cross-refs:
+  - id: spinoza-substance-monism
+    relation: 核心
+  - id: spinoza-intellectual-love-of-god
+    relation: 推论
+---
+
+# 上帝即自然 · Deus sive Natura
+
+## 概念概述 / Concept Overview
+
+"上帝即自然"（Deus sive Natura）是斯宾诺莎哲学最具革命性和争议性的命题。它断言上帝（Deus）和自然（Natura）是同一个东西——上帝不是超越于自然之上的造物主，上帝就是自然本身；自然不是上帝创造的"受造物"，自然就是上帝的自我表达。这一命题彻底颠覆了犹太-基督教传统的人格化上帝观念，也颠覆了笛卡尔将上帝视为"最高实体"的二元论框架。
+
+"God or Nature" (Deus sive Natura) is Spinoza's most revolutionary and controversial proposition. It asserts that God (Deus) and Nature (Natura) are the same thing — God is not a creator above nature; God is nature itself; nature is not God's "creation" but God's self-expression. This proposition completely overturns the Judaeo-Christian tradition's personal God concept and Descartes's dualistic framework of God as the "supreme substance."
+
+## 两种"自然" · Two Kinds of "Nature"
+
+斯宾诺莎的"自然"不是我们通常理解的"物理世界"或"自然界"。他区分了两个层面：
+
+Spinoza's "Nature" is not the "physical world" or "natural environment" we typically mean. He distinguishes two aspects:
+
+### 能生的自然 · Natura Naturans (Nature Naturing)
+
+"能生的自然"是指上帝/自然作为**主动的、创造性的力量**——即实体本身及其无限多的属性。它是"生产性的自然"，是一切事物的原因（causa sui，自因）。在这个意义上，上帝/自然是超越任何特定事物的——它是一切可能性的源泉，是无限的创造性力量。
+
+"Natura naturans" refers to God/Nature as **active, creative power** — substance itself and its infinitely many attributes. It is "productive nature," the cause of all things (causa sui, self-caused). In this sense, God/Nature transcends any particular thing — it is the source of all possibilities, infinite creative power.
+
+### 所生的自然 · Natura Naturata (Nature Natured)
+
+"所生的自然"是指上帝/自然作为**被产生的结果**——即一切样式（modes）和有限事物的总和。这是"被生产的自然"——一切具体的事物、事件和状态。在这个意义上，上帝/自然就是我们所经验到的一切——每一棵树、每一个想法、每一个事件都是上帝/自然的样式。
+
+"Natura naturata" refers to God/Nature as **produced effect** — the totality of all modes and finite things. This is "produced nature" — all concrete things, events, and states. In this sense, God/Nature is everything we experience — every tree, every thought, every event is a mode of God/Nature.
+
+## 与传统上帝观念的对比 / Comparison with Traditional God Concepts
+
+| 维度 | 传统有神论 | 笛卡尔 | 斯宾诺莎 |
+|------|-----------|--------|---------|
+| 上帝的位置 | 超越于世界之上 | 超越于世界之上 | 内在于世界之中 |
+| 上帝的意志 | 有自由意志，可选择 | 有自由意志 | 没有意志，只有必然性 |
+| 上帝与世界的关系 | 创造者-受造物 | 创造者-受造物 | 实体-样式 |
+| 人格化 | 人格化的上帝 | 人格化的上帝 | 非人格化的力量 |
+| 目的性 | 有目的的计划 | 有目的的计划 | 没有目的（自然无为） |
+
+## 斯宾诺莎的"上帝"是泛神论吗？/ Is Spinoza's "God" Pantheism?
+
+这个问题在学术界长期争论。主要有三种解读：
+
+This question has long been debated in scholarship. There are three main interpretations:
+
+1. **泛神论（Pantheism）**：上帝等同于自然整体。这是最常见的解读，也是斯宾诺莎被指控为"无神论者"的原因。
+2. **万有在神论（Panentheism）**：上帝包含自然但超越自然——"能生的自然"超越"所生的自然"。这种解读认为斯宾诺莎的上帝不仅仅是物理世界的总和。
+3. **无神论（Atheism）**：斯宾诺莎实际上否认了上帝的存在，只是用"上帝"这个词来指代自然。这种解读主要来自批评者。
+
+1. **Pantheism**: God equals the whole of nature. Most common reading; why Spinoza was accused of being an "atheist."
+2. **Panentheism**: God encompasses nature but transcends it — "natura naturans" transcends "natura naturata." This reading holds Spinoza's God is more than the physical world's sum.
+3. **Atheism**: Spinoza actually denies God's existence, merely using the word "God" for nature. This reading comes mainly from critics.
+
+爱因斯坦对他的信仰做了最精确的描述："我信仰斯宾诺莎的上帝——那个在一切存在物的和谐有序中显现自身的上帝，而不是那个关心人类命运和行为的上帝。"
+
+Einstein provided the most precise description of this faith: "I believe in Spinoza's God — who reveals himself in the harmonious order of all that exists, not in a God who concerns himself with the fate and doings of mankind."
+
+## 东西方对话 / East-West Dialogue
+
+"上帝即自然"在东方传统中找到了多种回响。道家的"道"（Dao）既是超越的又是内在的——"道在万物"（庄子）。佛教的"法身"（Dharmakāya）被认为遍满一切——"青青翠竹尽是法身，郁郁黄花无非般若"。印度教的"梵"（Brahman）既是超越的绝对，又在一切现象中显现。但斯宾诺莎与这些传统的关键区别在于：他坚持严格的理性主义方法——上帝/自然的必然性可以通过几何学式的推理来认识，而非通过神秘体验。
+
+"God or Nature" finds multiple echoes in Eastern traditions. The Daoist "Dao" is both transcendent and immanent — "the Dao is in all things" (Zhuangzi). Buddhism's Dharmakāya (Dharma-body) pervades everything — "green bamboos are all Dharma-body; yellow flowers are nothing but prajñā." Hindu Brahman is both transcendent absolute and manifest in all phenomena. But Spinoza's key difference: he insists on rigorous rationalist method — God/Nature's necessity is knowable through geometrical reasoning, not through mystical experience.
+
+## 参考文献 / References
+
+- Spinoza, B. *Ethics*, Part I, Props. 15, 18, 29; Part IV, Preface.
+- Nadler, S. (2006). *Spinoza's Heresy: Immortality and the Jewish Mind*. Oxford University Press.
+- Fraenkel, C. (2012). *Philosophical Religions from Plato to Spinoza*. Cambridge University Press.
+
+## 相关概念 / Related Concepts
+
+- [实体一元论](substance-monism.md) — 上帝即自然是一元论的核心命题
+- [对神的理智之爱](intellectual-love-of-god.md) — 认识上帝即自然后的最高情感
+- [充分观念](adequate-ideas.md) — 认识上帝/自然必然性的途径

@@ -1,0 +1,97 @@
+---
+id: buddhadasa-works
+title: "Works of Buddhadasa Bhikkhu · 佛使比丘著作"
+type: bibliography
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - bibliography
+  - works
+  - 著作
+---
+
+# Works of Buddhadasa Bhikkhu · 佛使比丘著作
+
+Buddhadasa was a prolific writer and speaker. Over his lifetime he produced hundreds of Dhamma talks (many recorded), dozens of books in Thai, and a growing body of English translations. Below is a curated bibliography of his most important and accessible works.
+
+佛使比丘是一位多产的作家和演说家。在其一生中，他创作了数百次法谈（许多被录音）、数十本泰语著作，以及越来越多的英文翻译。以下是他最重要和最容易获取的作品的策划书目。
+
+---
+
+## Major Works in English · 英文主要著作
+
+### Core Teachings · 核心教导
+
+| Title | Year | Description | Chinese |
+|-------|------|-------------|---------|
+| *Handbook for Mankind* | 1962 | Buddhadasa's most comprehensive introduction to Buddhist practice. Covers the entire path from morality to concentration to wisdom. | 《人类手册》——佛使比丘最全面的佛教修行入门，涵盖从戒到定到慧的完整道路 |
+| *Heartwood of the Bodhi Tree* | 1964 | A deep exploration of emptiness (*suññatā*) as the core of Buddhist teaching. Argues that emptiness is the "heartwood" — the essential substance — of the Buddha's enlightenment. | 《菩提树的心材》——深入探索空性（*suññatā*）作为佛教教导的核心 |
+| *Mindfulness with Breathing* | 1976 | A systematic guide to *ānāpānasati* (mindfulness of breathing), based on the *Ānāpānasati Sutta*. Considered one of the finest practical guides to breath meditation ever written. | 《安般念——以呼吸为正念》——基于《安般念经》的系统性呼吸冥想指南 |
+| *Dependent Origination: The Buddhist Law of Nature* | 1971 | Buddhadasa's radical re-reading of the twelve links as a here-and-now psychological process rather than a cosmological theory. | 《缘起法：佛教的自然法则》——佛使比丘将十二支重新解读为当下心理过程的激进之作 |
+| *Me and Mine: The Life Story of Buddhadasa Bhikkhu* | 1986 | An autobiographical account, told in conversation with Swearer and others, tracing his intellectual and spiritual development. | 《我与我的：佛使比丘的生命故事》——自传性叙述，追溯其智识和灵性发展 |
+
+### Social and Interreligious Writings · 社会与跨宗教著作
+
+| Title | Year | Description | Chinese |
+|-------|------|-------------|---------|
+| *Dhammic Socialism* | 1973 | Buddhadasa's vision of a society organized around Dhamma principles — sharing, balance, and absence of excess. | 《法社会主义》——围绕法的原则组织的社会的愿景 |
+| *Christianity and Buddhism* | 1967 | A series of dialogues with Christian theologians, exploring convergences between the two traditions. | 《基督教与佛教》——与基督教神学家的一系列对话 |
+| *No Religion* | 1990 | The mature expression of Buddhadasa's ecumenical vision: the highest understanding of religion is to see through all religions. | 《无宗教》——佛使比丘大公愿景的成熟表达 |
+
+---
+
+## Major Works in Thai (Selected) · 泰语主要著作（选）
+
+- **คู่มือมนุษย์** (*Khu Mue Manut*, Handbook for Mankind, 1962) — 佛使比丘最广为人知的泰语著作
+- **แก่นพุทธศาสน์** (*Kaen Phutthasat*, The Core of Buddhism, 1969) — 对佛教核心教义的简洁阐述
+- **ปฏิจจสมุปบาท** (*Paticca-samuppada*, Dependent Origination, 1971) — 缘起法详解
+- **ปรมัตथธรรม** (*Paramatthadhamma*, Ultimate Truth, 1975) — 对究竟法的探讨
+- **พุทธธรรม** (*Phutthatham*, Buddha-Dhamma, 1978) — 对佛法整体的系统阐述
+- **ธรรมชาติของธรรมชาติ** (*Thammachat Khong Thammachat*, Nature of Nature, 1982) — 对自然与法关系的沉思
+- **ศีลธรรมที่หายไป** (*Silatham Thi Hai Pai*, The Lost Morality, 1985) — 对现代社会道德危机的反思
+
+---
+
+## Audio Recordings · 音频记录
+
+Buddhadasa delivered thousands of Dhamma talks over his lifetime. Many were recorded and are available through the Suan Mokkh archive and online:
+
+佛使比丘一生进行了数千次法谈。许多被录音并可通过解脱园档案和在线获取：
+
+- **Suan Mokkh Archive** — The original recordings, in Thai, housed at the hermitage. / 解脱园档案——原始录音，泰语，保存在静修处。
+- **Buddhadasa Indapanno Archives** (buddhadasa.org) — Digital archive with hundreds of talks in Thai and selected English translations. / 佛使比丘档案——数字档案，数百次泰语法谈和精选英文翻译。
+- **Liberation Park** (liberationpark.org) — English-language resource with translated talks and writings. / 解脱公园——英语资源，有翻译的法谈和著作。
+
+---
+
+## Key Themes Across His Works · 著作中的核心主题
+
+Across all of Buddhadasa's writings, several themes recur with remarkable consistency:
+
+在佛使比丘的所有著作中，几个主题以显著的一致性反复出现：
+
+1. **The primacy of direct experience** — The Dhamma must be seen, not believed. / **直接体验的首要性**——法必须被看见，而非被信仰。
+2. **The here-and-now** — Liberation is available in this moment, not in some future life. / **当下此刻**——解脱在此刻可用，而非在某个未来的生命中。
+3. **The emptiness of all categories** — Including the category "Buddhist." / **一切范畴的空性**——包括"佛教"这个范畴。
+4. **Nature as teacher** — The natural world is the greatest Dhamma text. / **自然为师**——自然世界是最伟大的法文本。
+5. **Compassion as the fruit of wisdom** — Seeing emptiness naturally leads to acting with compassion. / **慈悲是智慧的果实**——见空性自然而然地导向以慈悲行动。
+
+---
+
+## Where to Start · 从哪里开始
+
+If you are new to Buddhadasa, the recommended reading order is:
+
+如果你是佛使比丘的新读者，推荐的阅读顺序是：
+
+1. **Handbook for Mankind** — for a comprehensive overview / 《人类手册》——全面概述
+2. **Mindfulness with Breathing** — for a practical meditation guide / 《安般念》——实用冥想指南
+3. **Heartwood of the Bodhi Tree** — for a deep dive into emptiness / 《菩提树的心材》——深入空性
+4. **Dependent Origination** — for his most original philosophical contribution / 《缘起法》——他最原创的哲学贡献
+5. **Me and Mine** — for biographical context / 《我与我的》——传记背景
+
+---
+
+*See also: [[reading-list]] for an extended annotated reading list.*
+
+Back to: [[buddhadasa]]

@@ -1,0 +1,149 @@
+---
+id: hegel-reading-list
+title: 黑格尔进阶阅读 · Hegel Reading List
+type: reading-list
+domain: philosophy
+school: german-idealism
+thinker: hegel
+tags: [hegel, bibliography, reading-guide]
+cross-refs:
+  - id: hegel
+    relation: thinker
+---
+
+# 黑格尔进阶阅读 · Hegel Reading List
+
+## 一、阅读路径
+
+### 入门 (选读 3 篇,约 6 小时)
+
+1. **《精神现象学》序言** (约 50 页) -- 黑格尔哲学纲领的最佳表述;"实体即主体"
+2. **《精神现象学》"自我意识"章** (约 30 页) -- 主奴辩证法;黑格尔最著名的段落
+3. **《法哲学原理》导论** (约 20 页) -- 自由意志;抽象法、道德、伦理的基本框架
+
+### 进阶 (5 本,约 60 小时)
+
+4. 《精神现象学》全书 -- 意识的辩证上升;意识—自我意识—理性—精神—宗教—绝对知识
+5. 《法哲学原理》"伦理"部分(家庭—市民社会—国家) -- 政治哲学核心
+6. 《哲学全书》"小逻辑"(逻辑学部分) -- 辩证法的系统展示
+7. 《历史哲学讲演录》导论 + "世界历史的民族" -- 最易读的黑格尔
+8. 《美学讲演录》导论 -- 艺术哲学;三种艺术形式
+
+### 深潜 (全集 + 研究)
+
+9. 《逻辑学》全书 -- 黑格尔最抽象的著作;存在论—本质论—概念论
+10. 《精神哲学》(哲学全书第三部分) -- 主观精神—客观精神—绝对精神
+11. 早期神学手稿 -- 黑格尔思想的起源
+12. Taylor / Pippin / Kojève 等学者的研究专著
+
+## 二、原典 (必读)
+
+### 生前出版
+
+- 《精神现象学》(Phänomenologie des Geistes, 1807)
+- 《逻辑学》(Wissenschaft der Logik, 1812--1816)
+- 《哲学全书纲要》(Enzyklopädie, 1817/1827/1830)
+- 《法哲学原理》(Grundlinien der Philosophie des Rechts, 1821)
+
+### 身后整理的讲演录
+
+- 《历史哲学讲演录》(Vorlesungen über die Philosophie der Geschichte, 1837)
+- 《美学讲演录》(Vorlesungen über die Ästhetik, 1835--1838)
+- 《宗教哲学讲演录》(Vorlesungen über die Philosophie der Religion, 1832)
+- 《哲学史讲演录》(Vorlesungen über die Geschichte der Philosophie, 1833--1836)
+
+### 早期手稿
+
+- 《早期神学著作》(Frühe theologische Schriften, 1907年出版)
+- 《耶拿体系草稿》(Jenaer Systementwürfe, 1803--1806)
+
+### 中译本推荐
+
+| 著作 | 译者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《精神现象学》(上下卷) | 贺麟、王玖兴 | 商务印书馆 | 经典译本;注释详尽;基于Suhrkamp版 |
+| 《精神现象学》 | 先刚 | 人民出版社 | 新译本;基于科学院版;术语更新 |
+| 《逻辑学》(上下卷) | 杨一之 | 商务印书馆 | 经典译本 |
+| 《法哲学原理》 | 范扬、张企泰 | 商务印书馆 | 经典译本 |
+| 《小逻辑》 | 贺麟 | 商务印书馆 | 哲学全书逻辑学部分 |
+| 《历史哲学》 | 王造时 | 上海书店 | 经典译本 |
+| 《美学》(三卷) | 朱光潜 | 商务印书馆 | 经典译本;文学性强 |
+| 《哲学史讲演录》(四卷) | 贺麟、王太庆 | 商务印书馆 | 经典译本 |
+
+## 三、二手研究
+
+### 经典传记
+
+- Terry Pinkard, *Hegel: A Biography*, Cambridge, 2000 -- 英文最佳传记;学术性与可读性兼备
+- Klaus Vieweg, *Hegel: Der Philosoph der Freiheit*, München, 2019 -- 德文最新传记
+- Stephen Houlgate, *The Opening of Hegel's Logic*, Purdue, 2006 -- 聚焦逻辑学开篇
+
+### 经典导论
+
+- Peter Singer, *Hegel: A Very Short Introduction*, Oxford, 1983 -- 极简入门
+- Stephen Houlgate, *An Introduction to Hegel: Freedom, Truth and History*, Blackwell, 2005 -- 最佳英语导论
+- Frederick Beiser, *Hegel*, Routledge, 2005 -- 全面导论
+- 张世英《黑格尔辞典》-- 中文黑格尔术语详解
+
+### 全面研究
+
+- Charles Taylor, *Hegel*, Cambridge, 1975 -- 全面而深入的黑格尔研究;形而上学解读
+- Robert Pippin, *Hegel's Idealism: The Satisfactions of Self-Consciousness*, Cambridge, 1989 -- 非形而上学解读的代表作
+- Terry Pinkard, *Hegel's Phenomenology: The Sociality of Reason*, Cambridge, 1994 -- 社会性解读
+- Stephen Houlgate, *The Opening of Hegel's Logic: From Being to Infinity*, Purdue, 2006 -- 逻辑学开端分析
+
+### 精神现象学专论
+
+- Alexandre Kojève, *Introduction to the Reading of Hegel*, Cornell, 1969 -- 科耶夫的著名讲座;影响了萨特和拉康;存在主义—马克思主义解读
+- Robert Pippin, *Hegel on Self-Consciousness: Desire and Death in the Phenomenology of Spirit*, Princeton, 2011 -- 自我意识章的精细分析
+- Michael Forster, *Hegel's Idea of a Phenomenology of Spirit*, Chicago, 1998 -- 全面的现象学解读
+- Jon Stewart, *A Phenomenology of Spirit Reader*, Northwestern, 2004 -- 论文选集
+
+### 政治哲学专论
+
+- Shlomo Avineri, *Hegel's Theory of the Modern State*, Cambridge, 1972 -- 黑格尔政治哲学的经典研究
+- Allen Wood, *Hegel's Ethical Thought*, Cambridge, 1990 -- 伦理思想的深入分析
+- Robert Williams, *Hegel's Ethics of Recognition*, California, 1998 -- 承认伦理学
+
+### 逻辑学专论
+
+- Dieter Henrich, *Hegel im Kontext*, Frankfurt, 1967 -- 黑格尔的逻辑学和形而上学
+- Stephen Houlgate, *The Opening of Hegel's Logic*, 2006
+- Richard Dien Winfield, *Hegel's Science of Logic: A Critical Rethinking*, Rowman & Littlefield, 2012
+
+### 当代分析哲学的黑格尔
+
+- Robert Brandom, *Tales of the Mighty Dead: Historical Essays in the Metaphysics of Intentionality*, Harvard, 2002 -- 从布兰顿的推论主义视角读黑格尔
+- Robert Brandom, *A Spirit of Trust: A Reading of Hegel's Phenomenology*, Harvard, 2019 -- 当代分析哲学的黑格尔巨著
+- John McDowell, *Mind and World*, Harvard, 1994 -- 受黑格尔影响的当代认识论
+
+### 比较哲学 (东西方对话)
+
+- 张世英《黑格尔〈精神现象学〉解读》-- 中文最佳导读之一
+- 邓晓芒《黑格尔辩证法与西方哲学》-- 比较研究
+- 贺麟《黑格尔哲学讲演集》-- 中文黑格尔研究的经典
+
+## 四、在线资源
+
+- [Hegel.net](http://www.hegel.net/) -- 黑格尔研究国际网络
+- [Hegel by HyperText](https://www.marxists.org/reference/archive/hegel/) -- 马克思主义互联网档案中的黑格尔文本(英文)
+- Stanford Encyclopedia of Philosophy, "Hegel" -- 持续更新的哲学百科
+- [Suhrkamp版德文原文](https://hegel.de/) -- 德文在线文本
+
+## 五、阅读建议
+
+### 对于哲学初学者
+
+黑格尔是哲学史上最困难的作者之一。建议:
+
+1. **先读导论**: Singer 或 Houlgate 的导论,了解黑格尔的基本问题和术语
+2. **从《精神现象学》序言开始**: 虽然序言本身就很困难,但它提供了最好的入口
+3. **配合导读**: 张世英的《解读》或 Pinkard 的传记可以提供上下文
+4. **不要追求一次性理解**: 黑格尔的概念只有在整个体系中才有意义;反复阅读是必要的
+
+### 对于有基础的读者
+
+1. **《精神现象学》全书**: 建议至少读两遍;第一遍了解整体结构,第二遍精读
+2. **《逻辑学》**: 黑格尔自认为最重要的著作;需要耐心和反复
+3. **《法哲学原理》**: 相对最易读;政治哲学的核心文本
+4. **讲演录**: 比专著更易读;历史哲学和美学讲演录是很好的补充

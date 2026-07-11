@@ -1,0 +1,41 @@
+---
+id: nagel-consciousness-problem
+title: 意识难题 · Consciousness Problem
+type: concept
+thinker: nagel
+domain: philosophy
+school: analytic
+tags: [consciousness, explanation, physicalism, hard-problem]
+---
+# 意识难题 · Consciousness Problem
+
+## 概念定位 / Conceptual Position
+Nagel论证我们目前缺乏将主观经验与物理过程联系起来的概念框架——意识可能是需要全新概念工具才能理解的结构性难题。
+
+Nagel argues we currently lack a conceptual framework connecting subjective experience to physical processes — consciousness may be a structural puzzle requiring entirely new conceptual tools.
+
+## 核心论述 / Core Argument
+
+### 与McGinn的区别 / Difference from McGinn
+Nagel不像McGinn那样认为意识对人类"认知闭合"——他认为可能存在我们尚未发现的概念框架来解释意识。但现有物理主义概念是不够的。
+
+Unlike McGinn, Nagel does not claim consciousness is "cognitively closed" to humans — he believes there may exist conceptual frameworks we haven't yet discovered. But current physicalist concepts are insufficient.
+
+### *Mind and Cosmos* (2012)的论点 / The *Mind and Cosmos* Thesis
+物质主义进化论无法解释：1) 意识如何从物质中产生；2) 理性如何从无理性的物质中产生；3) 价值如何从无价值的物质中产生。我们需要一种新的自然主义——承认宇宙中已经蕴含了产生心智的可能性。
+
+Materialist evolution cannot explain: 1) how consciousness arises from matter; 2) how reason arises from non-rational matter; 3) how value arises from valueless matter. We need a new naturalism acknowledging the universe already harbors the potential for mind.
+
+## 哲学意义 / Philosophical Significance
+推动了心灵哲学对物理主义限度的反思，影响了泛心论和新自然主义的复兴。
+
+## 东西方对话 / East-West Dialogue
+### 与唯识学"识" / With Yogacara's "Consciousness" (vijnana)
+唯识学认为意识不是物质的产物，而是与物质并行的基本存在维度。这与Nagel认为意识不能从物质"产生"的论点形成共鸣。
+
+Yogacara holds consciousness is not a product of matter but a parallel fundamental dimension of existence. This resonates with Nagel's view that consciousness cannot "arise" from matter.
+
+## 相关概念 / Related Concepts
+- [蝙蝠论证 Bat Argument](bat-argument.md)
+- ["成为X是什么感觉" What It Is Like](what-is-it-like.md)
+- [内格尔主页](../README.md)

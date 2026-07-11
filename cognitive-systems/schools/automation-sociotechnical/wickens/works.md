@@ -1,0 +1,17 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.wickens.works
+title: 威肯斯核心著作
+type: works
+thinker: wickens
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 威肯斯核心著作
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1984 | *Engineering Psychology* | 标准教科书 |
+| 2002 | "Multiple Resources" | 模型更新 |
+| 2003 | *Designing for SA*（与Endsley） | SA显示设计 |
+| 2008 | *Attention* | 注意力理论 |

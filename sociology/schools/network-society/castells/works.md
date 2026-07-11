@@ -1,0 +1,54 @@
+---
+id: castells-works
+title: 卡斯特主要著作 · Castells Major Works
+type: works
+domain: sociology
+thinker: castells
+school: network-society
+---
+
+# 卡斯特主要著作详述 / Castells Major Works: Detailed Survey
+
+## 一、城市社会学时期（1972—1983）/ Urban Sociology Period (1972-1983)
+
+### 1. 《城市问题》（1972）/ *The Urban Question: A Marxist Approach*
+卡斯特的首部重要著作，将马克思主义政治经济学引入城市研究。核心论证：城市不是独立的社会实体，而是资本主义生产关系中"集体消费"（collective consumption）——住房、交通、教育、医疗等公共服务——的组织场所。城市问题的根源不在于城市本身，而在于资本主义生产方式的内在矛盾。
+
+### 2. 《城市与草根》（1983）/ *The City and the Grassroots: A Cross-Cultural Theory of Urban Social Movements*
+城市社会运动的比较研究。卡斯特从巴黎、旧金山、马德里到拉丁美洲城市的案例研究中发现，城市社会运动的核心动力是认同——居民对城市空间和生活质量的认同在面对国家和资本的侵蚀时被激发。此书标志着卡斯特从正统马克思主义向认同政治分析的转向。
+
+---
+
+## 二、信息时代三部曲（1996—1998）/ The Information Age Trilogy (1996-1998)
+
+### 3. 《网络社会的崛起》（1996）/ *The Rise of the Network Society*
+三部曲第一卷，信息社会理论的奠基之作。卡斯特论证了信息技术革命催生了一种新的社会形态——网络社会，其中网络成为社会组织的基本形态。核心概念包括：信息资本主义（以知识和信息为核心的新型资本主义）、流动空间（全球信息网络构成的虚拟空间）、无时间的时间（信息技术对时间序列的消除）。此书的分析覆盖全球经济、劳动市场、企业组织和文化产业。
+
+### 4. 《认同的力量》（1997）/ *The Power of Identity*
+三部曲第二卷，探讨全球化冲击下的认同政治。卡斯特区分了三种认同形式：合法性认同（由支配性制度建构，如公民身份）、抗拒性认同（被边缘化群体的防御性反应，如宗教原教旨主义）和规划性认同（旨在社会转型的建构，如女权主义和环境运动）。案例研究包括美国的民兵运动、墨西哥萨帕塔运动、伊斯兰原教旨主义和全球环境运动。
+
+### 5. 《千年终结》（1998）/ *End of Millennium*
+三部曲第三卷，分析全球化进程中的危机和矛盾。卡斯特讨论了犯罪经济的全球化（毒品贸易、洗钱）、金融危机的传播机制、国家的危机（主权让渡与治理赤字）、以及全球性社会排斥现象（"第四世界"——被排除在网络社会之外的群体）。
+
+---
+
+## 三、互联网与传播研究（2001—2009）/ Internet and Communication Studies (2001-2009)
+
+### 6. 《互联网星系》（2001）/ *The Internet Galaxy: Reflections on the Internet, Business, and Society*
+互联网的社会学分析。卡斯特论证了互联网不是简单的技术工具，而是一种新的社会组织的基础设施。互联网创造了一种新的社会互动形式——基于共享兴趣和价值的"虚拟社区"，而非基于物理接近性的传统社区。
+
+### 7. 《传播权力》（2009）/ *Communication Power*
+媒体权力的系统分析。卡斯特论证了在多媒体时代，传播权力成为社会权力的核心形式。他分析了大众媒体（电视）和互联网在政治传播中的不同作用，以及"反权力"（counter-power）如何通过替代性媒体和社交网络来挑战主流叙事。
+
+---
+
+## 四、社会运动与当代分析（2012—至今）/ Social Movements and Contemporary Analysis (2012-present)
+
+### 8. 《愤怒与希望的网络》（2012）/ *Networks of Outrage and Hope: Social Movements in the Internet Age*
+数字时代社会运动的比较研究。卡斯特分析了阿拉伯之春、西班牙"愤怒者运动"（indignados）、占领华尔街等运动，论证了互联网创造了一种新的社会运动形态——以去中心化网络为组织形式，以共享的情感和希望为动力。
+
+### 9. 《另一个我：网络文化与社会的对话》（2013）/ *Another Self in Conversation: The Social and Cultural Implications of the Internet*（与他人合编）
+网络文化的多维度分析。
+
+### 10. 《欧洲的梦魇》（2018）/ *Rupture: The Crisis of European Liberal Democracy*
+分析欧洲自由民主的危机——民粹主义兴起、欧盟治理困境和身份政治的激化。

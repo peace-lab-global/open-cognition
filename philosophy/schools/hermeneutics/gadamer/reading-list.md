@@ -1,0 +1,217 @@
+---
+id: gadamer-reading-list
+title: 伽达默尔进阶阅读 · Gadamer Reading List
+type: reading-list
+domain: philosophy
+school: hermeneutics
+thinker: gadamer
+tags: [gadamer, bibliography, reading-guide, hermeneutics]
+cross-refs:
+  - id: gadamer
+    relation: thinker
+---
+
+# 伽达默尔进阶阅读 · Gadamer Reading List
+
+## 一、阅读路径
+
+### 入门（选读 3 篇，约 5 小时）
+
+1. **《哲学诠释学》"诠释学问题的普遍性"** -- 最精炼的伽达默尔思想概述
+2. **《真理与方法》"导言"** -- 问题意识与整体规划
+3. **《真理与方法》第二部分第一章** -- 前见与理解的条件（核心段落）
+
+### 进阶（约 60 小时）
+
+4. 《真理与方法》全书 -- 三部分依次阅读
+5. 《哲学诠释学》其他论文 -- 补充与展开
+6. 《赞美理论》 -- 实践哲学的深化
+7. 《谁是谁：哲学学徒期》 -- 智识自传
+8. 与哈贝马斯的论争文本 -- Hermeneutikstreit 的核心文本
+
+### 深潜（全集 + 研究）
+
+9. Gesammelte Werke（10 卷）-- 德文全集
+10. 柏拉图研究的早期著作
+11. 晚期医学人文与诗歌诠释学
+12. Grondin 传记 + 二手研究文献
+
+## 二、原典（必读）
+
+### 核心著作
+
+- **《真理与方法》**（Wahrheit und Methode, 1960; 1986 第二版）
+- **《哲学诠释学》**（Philosophische Hermeneutik, 1967）-- 论文集
+
+### 重要著作
+
+- 《柏拉图的辩证伦理学》（Platos dialektische Ethik, 1931）
+- 《谁是谁：哲学学徒期》（Philosophische Lehrjahre, 1977）
+- 《赞美理论》（Lob der Theorie, 1983）
+- 《美的现实性》（Die Aktualitat des Schonen, 1977/1982）
+- 《诗歌与对话》（Gedicht und Gesprach, 1990）
+- 《健康之谜》（Uber die Verborgenheit der Gesundheit, 1993）
+
+### 中译本推荐
+
+| 版本 | 译者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《真理与方法》 | 洪汉鼎 | 上海译文出版社 / 商务印书馆 | 权威中译本，注释详尽 |
+| 《哲学诠释学》 | 夏镇平、宋建平 | 上海译文出版社 | 论文集 |
+| 《赞美理论》 | 夏镇平 | 上海译文出版社 | 晚期著作 |
+| 《诠释学 II》 | 洪汉鼎 | 商务印书馆 | 补编文集 |
+| 《伽达默尔论柏拉图》 | 余纪元 | 光明日报出版社 | 柏拉图研究 |
+
+## 三、二手研究
+
+### 传记与导论
+
+- **Jean Grondin**, *Hans-Georg Gadamer: A Biography* (2003) -- 最权威传记，详尽的生平与思想分析
+- **Jean Grondin**, *Gadamer and His Works* (1999) -- 简明的思想导论
+- **Richard Palmer**, *Hermeneutics* (1969) -- 诠释学通论，含伽达默尔专章
+- **Georgia Warnke**, *Gadamer: Philosophical Hermeneutics* (1987) -- 清晰的分析性导论
+- **Joel Weinsheimer**, *Gadamer's Hermeneutics* (1985) -- 对《真理与方法》的逐章解读
+- **Fred Lawrence (ed.)**, *The Cambridge Companion to Gadamer* (2002) -- 剑桥指南
+
+### 思想研究
+
+- **David Hoy**, *The Critical Circle* (1978) -- 诠释学循环与批判理论的经典研究
+- **Richard Bernstein (ed.)**, *Hermeneutics and Modern Philosophy* (1983) -- 重要论文集
+- **P. Christopher Smith**, *The Hermeneutics of Original Assertion* (1981) -- 伽达默尔与海德格尔
+- **Brice Wachterhauser (ed.)**, *Hermeneutics and Truth* (1994) -- 真理与诠释学
+- **Nicholas Davey**, *Unquiet Understanding* (2006) -- 伽达默尔的实践哲学
+
+### 论争研究
+
+- **Fred Dallmayr (ed.)**, *Dialogue and Deconstruction: The Gadamer-Derrida Encounter* (1989) -- 伽达默尔-德里达辩论的完整文献
+- **Habermas / Gadamer**, *Hermeneutik und Dialektik* (1971) -- 诠释学论争的核心文本集
+- **Mendelson (ed.)**, *The Hermeneutic Tradition from Ast to Ricoeur* (1982) -- 诠释学传统通史
+
+### 海德格尔与伽达默尔
+
+- **Hans-Helmuth Gander**, *Gadamer und Heidegger* (1991) -- 德语研究
+- **Richard Polt**, *Heidegger: An Introduction* (1999) -- 理解伽达默尔的海德格尔背景
+
+## 四、中文资源
+
+### 传记与导读
+
+- **洪汉鼎**《理解的真理：解读伽达默尔〈真理与方法〉》（2002）-- 中文伽达默尔研究的核心著作
+- **洪汉鼎**《诠释学：它的历史和当代发展》（2003）-- 诠释学通史
+- **严平**《走向解释学的真理》（1998）-- 伽达默尔哲学研究
+- **何卫平**《通向解释学辩证法之途》（2001）-- 效果历史与辩证法
+- **张汝伦**《意义的探究》（1986）-- 中国早期诠释学研究
+- **彭刚** -- 历史哲学与诠释学
+
+### 学术研究
+
+- 《哲学研究》《哲学动态》等期刊中的伽达默尔研究论文
+- 洪汉鼎主编的诠释学丛书
+- 台湾学界对伽达默尔的接受与研究
+
+## 五、伽达默尔的哲学谱系（他的源头）
+
+### 直接上游
+
+- **海德格尔** -- 存在论诠释学、此在分析、前结构（Vorstruktur）、语言哲学
+- **胡塞尔** -- 现象学方法、视域（Horizon）概念、生活世界（Lebenswelt）
+- **狄尔泰** -- 精神科学方法论、历史意识、生命哲学
+
+### 间接上游
+
+- **施莱尔马赫** -- 现代诠释学之父、心理学-语法双重诠释学
+- **黑格尔** -- 辩证法、历史性概念、精神的现象学
+- **亚里士多德** -- phronesis（实践智慧）、伦理学、修辞学
+- **柏拉图** -- 对话（dialogos）、辩证法、善的理念
+
+### 同时代对话者
+
+- **哈贝马斯** -- 批判理论、意识形态批判
+- **德里达** -- 解构主义、延异（differance）
+- **里科** -- "怀疑的诠释学"、叙事理论
+- **布伯** -- 对话哲学（Ich und Du）
+
+## 六、伽达默尔的下游（受他影响）
+
+### 哲学
+
+- **里科** -- 批判性地发展伽达默尔，提出"怀疑的诠释学"与叙事身份理论
+- **泰勒** -- 诠释学政治哲学、承认的政治
+- **伯恩斯坦** -- 实践哲学与新实用主义
+- **麦金太尔** -- 传统与德性伦理学
+- **瓦尔登费尔斯（Bernhard Waldenfels）** -- 回应性现象学
+
+### 文学理论
+
+- **姚斯** -- 接受美学（Rezeptionsästhetik），直接受伽达默尔视域融合影响
+- **伊瑟尔** -- 读者反应理论
+- **布鲁姆** -- "影响的焦虑"与诠释学传统的对话
+
+### 法学
+
+- **埃塞尔（Josef Esser）** -- 法律诠释学
+- **拉伦茨（Karl Larenz）** -- 法学方法论
+
+### 神学
+
+- **艾伯林（Gerhard Ebeling）** -- 新诠释学
+- **福克斯（Ernst Fuchs）** -- 语言与信仰
+- **特雷西（David Tracy）** -- 公共神学与诠释学
+
+### 社会科学
+
+- **吉登斯** -- 双重诠释学（double hermeneutic）
+- **格尔茨（Clifford Geertz）** -- 解释人类学（thick description 与诠释学平行）
+
+### 教育学
+
+- **加拉格尔（Shaun Gallagher）** -- 教育诠释学
+
+## 七、跨学科阅读
+
+### 翻译研究
+
+- **斯坦纳（George Steiner）**, *After Babel* (1975) -- 翻译作为诠释行为
+- **韦努蒂（Lawrence Venuti）** -- 翻译的伦理与政治
+
+### 医学人文
+
+- **克莱曼（Arthur Kleinman）** -- 叙事医学与疾病的解释
+- **图姆斯（S. Kay Toombs）** -- 病患的现象学
+
+### AI 与认知科学
+
+- **德雷福斯（Hubert Dreyfus）** -- 海德格尔/伽达默尔对 AI 的启示
+- **温诺格拉德（Terry Winograd）** -- 诠释学与 AI 设计
+
+## 八、研究工具
+
+### 学术版本
+
+- **Gesammelte Werke** (10 vols, Mohr Siebeck) -- 德文全集
+- **Truth and Method**, trans. Weinsheimer & Marshall (Continuum, 2nd ed. 1989) -- 英文标准译本
+
+### 期刊与学会
+
+- *Journal of the British Society for Phenomenology* -- 含伽达默尔研究
+- *Philosophy Today* -- 诠释学与大陆哲学
+- *Continental Philosophy Review* -- 大陆哲学核心期刊
+- Internationale Gesellschaft fur Hermeneutik -- 国际诠释学学会
+
+### 在线资源
+
+- **Stanford Encyclopedia of Philosophy** -- "Hans-Georg Gadamer" 条目（定期更新）
+- **Internet Encyclopedia of Philosophy** -- "Hans-Georg Gadamer" 条目
+- 洪汉鼎教授主持的诠释学研究中心
+
+## 九、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想理解**哲学诠释学核心** | 《哲学诠释学》导论论文 -> 《真理与方法》第二部分 -> 全书 |
+| 想了解**伽达默尔生平** | Grondin 传记 -> 《哲学学徒期》 -> 晚年对话录 |
+| 想做**哲学研究** | Warnke 导论 -> Weinsheimer -> Hoy -> 论争文本 |
+| 想做**跨文化比较** | 张汝伦《意义的探究》 -> 洪汉鼎《理解的真理》 -> 中国经学注疏传统研究 |
+| 想了解**诠释学论争** | 哈贝马斯论文 -> 伽达默尔回应 -> Bernstein 编论文集 |
+| 想了解**伽达默尔与德里达** | Dallmayr 编 *Dialogue and Deconstruction* -> 双方原文 |
+| 想读**中文入门** | 洪汉鼎《理解的真理》 -> 严平《走向解释学的真理》 |

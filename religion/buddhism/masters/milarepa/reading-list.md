@@ -1,0 +1,168 @@
+---
+id: religion.buddhism.masters.milarepa.reading-list
+title: 密勒日巴阅读书目 Milarepa Reading List
+type: reference
+domain: religion
+school: buddhism-vajrayana
+parent: religion.buddhism.masters.milarepa
+tags: [密勒日巴, 阅读书目, reading list, bibliography, 噶举派]
+---
+
+# 密勒日巴阅读书目 Milarepa Reading List
+
+> 按类别组织的推荐阅读材料，从入门到深入研究。
+>
+> Reading materials organized by category, from introductory to advanced.
+
+## 一、原典译本 Primary Sources in Translation
+
+### 传记 Biography
+
+1. **The Life of Milarepa** — trans. Andrew Quintman (Penguin Classics, 2010)
+   - 最新学术译本，注释详尽，附地图和藏文对照。推荐给学术读者。
+   - Most recent scholarly translation with detailed annotations, maps, and Tibetan parallels.
+
+2. **The Life of Milarepa** — trans. Lobsang P. Lhalungpa (Shambhala, 1977/1997)
+   - 流畅可读的英译本，长期以来是最受欢迎的版本。
+   - Fluent and readable; long the most popular English version.
+
+3. **Tibet's Great Yogi Milarepa** — ed. W.Y. Evans-Wentz, trans. Kazi Dawa-Samdup (Oxford, 1928)
+   - 开创性的首部英译，具有历史价值，但有不准确之处。
+   - Pioneering first English translation; historically significant but contains inaccuracies.
+
+4. **《密勒日巴尊者传》** — 刘立千 译注
+   - 中文译注本，注释丰富，适合中文读者深入研究。最佳中文入门读物。
+   - Chinese annotated translation with rich commentary. Best introductory Chinese text.
+
+### 道歌集 Songs
+
+5. **The Hundred Thousand Songs of Milarepa** — trans. Garma C.C. Chang (张澄基) (University Books, 1962; Shambhala reprints)
+   - 道歌集的全译本，两卷本。张澄基是著名的华裔佛教学者，本人亦是噶举派修行者。
+   - Complete translation, two volumes. Chang was a renowned Chinese-American Buddhist scholar and Kagyu practitioner.
+
+6. **Drinking the Mountain Stream: Songs of Tibet's Beloved Saint** — ed. Brian Cutillo (WisdOm, 1978/1995)
+   - 道歌精选译本，附有实修指引。
+   - Selected songs translation with practice guidance.
+
+7. **《密勒日巴大师歌集》** — 张澄基 译
+   - 道歌集中文译本，三册。
+   - Chinese translation of the song collection, three volumes.
+
+## 二、密续修持 Tantric Practice
+
+### 那洛六法 Six Yogas of Naropa
+
+8. **The Six Lamps: Secret Tibetan Buddhist Illuminations** — trans. David Templeman (2009)
+   - 关于六法修持的藏文注释文献译本。
+   - Translation of Tibetan commentary literature on the Six Yogas.
+
+9. **The Practice of the Six Yogas of Naropa** — Glenn Mullin (Snow Lion, 2006)
+   - 六法实修的综合指南，基于噶举和格鲁传承。
+   - Comprehensive guide to Six Yogas practice based on Kagyu and Gelug lineages.
+
+10. **Readings on the Six Yogas of Naropa** — trans. Glenn Mullin (Snow Lion, 1997)
+    - 历代上师对六法的注释选集。
+    - Selected commentaries on the Six Yogas by successive masters.
+
+### 大手印 Mahamudra
+
+11. **Mahamudra: The Moonlight — Quintessence of Mind and Meditation** — Dakpo Tashi Namgyal, trans. Lobsang P. Lhalungpa (WisdOm, 2006)
+    - 噶举传统最权威的大手印论著之一。
+    - One of the most authoritative Mahamudra treatises in the Kagyu tradition.
+
+12. **Clarifying the Natural State** — Dakpo Tashi Namgyal, trans. Erik Pema Kunsang (Rangjung Yeshe, 2004)
+    - 大手印实修指引的精简版本。
+    - Condensed Mahamudra practice instructions.
+
+13. **Pointing Out the Dharmakaya** — Thrangu Rinpoche (Snow Lion, 2003)
+    - 当代噶举上师对大手印"直指"教授的阐释。
+    - Contemporary Kagyu master's exposition of Mahamudra pointing-out instructions.
+
+14. **Essentials of Mahamudra** — Khenchen Thrangu Rinpoche (WisdOm, 2004)
+    - 大手印修持要点的清晰概述。
+    - Clear overview of Mahamudra practice essentials.
+
+## 三、噶举传承 Kagyu Lineage
+
+15. **The Jewel Ornament of Liberation** — Gampopa, trans. Khenpo Konchog Gyaltsen (Snow Lion, 1998)
+    - 冈波巴的核心教法著作，系统阐述从皈依到成佛的修行道路。密勒日巴传承的直接延伸。
+    - Gampopa's core teaching, systematically outlining the path from refuge to Buddhahood.
+
+16. **The Life of Marpa the Translator** — trans. Nalanda Translation Committee / Chögyam Trungpa (Shambhala, 1982/1999)
+    - 密勒日巴上师玛尔巴的传记。理解密勒日巴上师背景的重要文本。
+    - Biography of Marpa. Essential for understanding Milarepa's teacher.
+
+17. **The Rain of Wisdom** — Chögyam Trungpa Rinpoche (Shambhala, 1980)
+    - 噶举传承上师道歌集，包含密勒日巴、冈波巴等人的道歌。
+    - Collection of Kagyu lineage masters' songs.
+
+## 四、学术研究 Scholarly Studies
+
+18. **Religions of Tibet in Practice** — Donald S. Lopez Jr. (Princeton, 1997)
+    - 包含密勒日巴传记章节和学术分析，提供后弘期的历史语境。
+    - Contains Milarepa biographical chapters and scholarly analysis.
+
+19. **The Foundation of Buddhist Practice** — Ulrich Timme Kragh (2017)
+    - 对噶举传承的系统学术研究。
+    - Systematic scholarly study of the Kagyu lineage.
+
+20. **Apparitions of the Self** — Janet Gyatso (Princeton, 1998)
+    - 藏传佛教传记文学研究，包含密勒日巴分析。
+    - Study of Tibetan Buddhist biographical literature, including Milarepa.
+
+21. **Buddhist Saints in India and Tibet** — Reginald Ray (Oxford, 1994)
+    - 对佛教圣人传统的比较研究，包含密勒日巴的分析。
+    - Comparative study of Buddhist saint traditions.
+
+22. **India's Buddhist Tantric Traditions** — David Snellgrove (2002)
+    - 印度密续传统的权威研究，提供密勒日巴修法的印度背景。
+    - Authoritative study of Indian tantric traditions.
+
+23. **The Nepalese Legacy in Tibetan Painting** — David Jackson (2011)
+    - 密勒日巴在唐卡艺术中的表现。
+    - Milarepa's representation in thangka art.
+
+## 五、入门推荐 Recommended for Beginners
+
+按以下顺序阅读 / Suggested reading order:
+
+1. **《密勒日巴传》**（刘立千译）或 **The Life of Milarepa** (Quintman trans.)
+   - 先了解密勒日巴的生平故事。 / First understand Milarepa's life story.
+
+2. **《密勒日巴大师歌集》**（张澄基译）或 **The Hundred Thousand Songs** (Chang trans.)
+   - 选读若干道歌，感受其精神力量。 / Read selected songs to experience their spiritual power.
+
+3. **《解脱庄严宝论》**（冈波巴著）或 **The Jewel Ornament of Liberation** (Gampopa)
+   - 了解噶举传承的系统教法框架。 / Understand the Kagyu teaching framework.
+
+4. **《大手印精要》** 或 **Essentials of Mahamudra** (Thrangu Rinpoche)
+   - 深入大手印修持的核心指引。 / Core guidance for deeper Mahamudra practice.
+
+5. **Music of Joy** — Khenpo Tsultrim Gyamtso (2006)
+   - 道歌精选的现代注释。 / Modern commentary on selected songs.
+
+## 六、进阶实修 Advanced Practice
+
+24. **The Great Path of Awakening** — Jamgön Kongtrül, trans. Ken McLeod (Shambhala, 2005)
+    - 噶举"修心七要"的注释，实修性极强。
+    - Commentary on the Kagyu "Seven Points of Mind Training."
+
+25. **Mahamudra and Related Instructions** — Thrangu Rinpoche (Zhyisil Chokyi Ghatsal, 2005)
+    - 大手印及相关教法的高级实修指引。
+    - Advanced practice instructions on Mahamudra and related teachings.
+
+26. **The Treasury of Knowledge** — Jamgön Kongtrül, various translators (Snow Lion, multi-volume)
+    - 藏传佛教知识的百科全书，包含那洛六法和大手印的系统阐述。
+    - Encyclopedia of Tibetan Buddhist knowledge, including Six Yogas and Mahamudra.
+
+## 七、跨学科阅读 Interdisciplinary
+
+- **Rumi**, *The Masnavi* (Penguin) — 苏菲派神秘主义诗歌的对照阅读 / Sufi mystical poetry for comparison
+- **Carl Jung**, *Memories, Dreams, Reflections* — 阴影整合与个体化的心理学框架 / Shadow integration and individuation
+- **Huston Smith**, *The World's Religions* — 比较宗教语境中的密勒日巴 / Milarepa in comparative religion
+- **St. John of the Cross**, *Dark Night of the Soul* — 基督教神秘主义的精神暗夜 / Christian mystical dark night
+
+## 进阶导航 Navigation
+
+- **返回**: [密勒日巴 Milarepa](README.md)
+- **相关**: [著作 Works](works.md) | [年表 Timeline](timeline.md)

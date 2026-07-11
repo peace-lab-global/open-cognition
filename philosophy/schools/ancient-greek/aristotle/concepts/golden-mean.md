@@ -1,0 +1,154 @@
+---
+id: golden-mean
+title: 中道 · Golden Mean (Mesotēs)
+type: concept
+parent: aristotle
+domain: philosophy
+tags:
+  - ethics
+  - practical-reason
+  - moral-psychology
+---
+
+# 中道 · Golden Mean (Mesotēs)
+
+> "在一切可分的事物中，都有过度和不及，也有中间。" — 《尼各马可伦理学》II.6
+>
+> "In everything that is continuous and divisible, there is more and less, and an intermediate." — *NE* II.6
+
+---
+
+## 定义 Definition
+
+中道（mesotēs, the mean）是亚里士多德伦理学的核心概念，指道德德性存在于两个极端——过度（hyperbolē）和不及（elleipsis）——之间的"合宜状态"。中道不是一个固定的数学中点，而是相对于具体处境（pros hēmas, "相对于我们"）的最佳点，需要实践智慧（phronēsis）来判断。
+
+The Mean (*mesotēs*) is the core concept of Aristotle's ethics, referring to the "appropriate state" of moral virtue between two extremes—excess (*hyperbolē*) and deficiency (*elleipsis*). The mean is not a fixed mathematical midpoint but the optimal point relative to the situation (*pros hēmas*, "relative to us"), requiring practical wisdom (*phronēsis*) to judge.
+
+---
+
+## 两种中道 Two Kinds of Mean
+
+### 事物本身的中道 Mean in the Object (to meson tou pragmatos)
+这是数学意义上的中点——6 和 10 的中道是 8。这对所有人和所有情况都一样。
+
+The mathematical midpoint—the mean of 6 and 10 is 8. This is the same for everyone and every situation.
+
+### 相对于我们的中道 Mean Relative to Us (to meson pros hēmas)
+这是伦理学意义上的中道——"吃多少是合宜的"因人而异（一个运动员和一个久坐者的"合宜"量不同）。这需要实践智慧的判断。
+
+The ethical mean—"how much to eat" varies by person (the "appropriate" amount differs for an athlete and a sedentary person). This requires *phronēsis* to judge.
+
+亚里士多德明确指出，道德德性追求的是第二种中道。
+
+Aristotle explicitly states moral virtue pursues the second kind of mean.
+
+---
+
+## 完整的中道表 Complete Table of Means
+
+| 情感/行为 Domain | 过度 Excess | **中道 Mean (德性 Virtue)** | 不及 Deficiency |
+|-----------------|------------|--------------------------|----------------|
+| 恐惧与自信 Fear/Confidence | 鲁莽 Rashness | **勇气 Courage** | 怯懦 Cowardice |
+| 快乐与痛苦 Pleasure/Pain | 放纵 Licentiousness | **节制 Temperance** | 麻木 Insensibility |
+| 给予与接受 Giving/Taking | 挥霍 Prodigality | **慷慨 Liberality** | 吝啬 Stinginess |
+| 大量财富的给予 Large Giving | 庸俗 Vulgarity | **大方 Magnificence** | 小气 Pettiness |
+| 自我评价 Self-Assessment | 自大 Vanity | **自尊 Proper Pride** | 自卑 Undue Humility |
+| 荣誉（小事）Honor (small) | 好名 Ambition | **适当的爱荣誉** | 无荣誉感 |
+| 愤怒 Anger | 暴躁 Irascibility | **温和 Good Temper** | 无脾气 Inirascibility |
+| 社交 Social | 谄媚 Obsequiousness | **友善 Friendliness** | 粗鲁 Surliness |
+| 真话 Truth | 自夸 Boastfulness | **真诚 Truthfulness** | 自卑 Self-deprecation |
+| 幽默 Wit | 滑稽 Buffoonery | **机智 Wittiness** | 呆板 Boorishness |
+| 羞耻 Shame | 羞怯 Bashfulness | **适当的羞耻 Modesty** | 无耻 Shamelessness |
+
+---
+
+## 中道并非处处适用 The Mean Does Not Apply Universally
+
+亚里士多德特别指出，某些行为和情感本身就不存在"中道"——它们本身就是恶的：
+
+Aristotle specifically notes that some actions and emotions have no "mean"—they are inherently vicious:
+
+- **通奸 Adultery**：不存在"适度的通奸"。
+- **偷窃 Theft**：不存在"适度的偷窃"。
+- **谋杀 Murder**：不存在"适度的谋杀"。
+- **嫉妒 Envy**：嫉妒本身就是恶的。
+- **无耻 Shamelessness**：不存在"适度的无耻"。
+
+这些行为不是"过度"的某种中道，而是本身就应当被避免。
+
+These are not "excessive" versions of some mean—they should be avoided entirely.
+
+---
+
+## 如何找到中道 How to Find the Mean
+
+亚里士多德承认找到中道是困难的。他提供了几条实践性建议：
+
+Aristotle acknowledges that finding the mean is difficult. He offers practical advice:
+
+### 1. 避开与德性更对立的那个极端 Avoid the Extreme More Opposed to Virtue
+"在两个极端中，一个是更大的错误，另一个是较小的错误。如果我们不能精确地命中中道，就应该选择较小的错误。"（NE II.9）
+
+"Of the two extremes, one is a greater error, the other a lesser one. If we cannot hit the mean exactly, we should choose the lesser error." (*NE* II.9)
+
+### 2. 注意自己的自然倾向 Notice Your Natural Tendencies
+"每个人都有自己的自然倾向——你必须将自己拉向相反的方向，就像校正弯曲的木板一样。"（NE II.9）
+
+"Each person has their own natural tendency—you must drag yourself in the opposite direction, like straightening a warped board." (*NE* II.9)
+
+### 3. 警惕快乐 Be Wary of Pleasure
+"在所有事情中，我们最应当警惕的是快乐及其来源，因为我们在判断快乐时不是公正的裁判者。"（NE II.9）
+
+"In all things, we must be most on guard against pleasure and its sources, for we are not impartial judges of pleasure." (*NE* II.9)
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与儒家"中庸"深度对话 Deep Dialogue with Confucian "Doctrine of the Mean"
+
+亚里士多德的 mesotēs 与儒家的"中庸"（zhōng yōng）之间存在惊人的平行关系，但也有微妙的差异：
+
+Aristotle's *mesotēs* and the Confucian "Doctrine of the Mean" (*zhōng yōng*) share striking parallels with subtle differences:
+
+| 维度 Dimension | 亚里士多德 Aristotle | 儒家 Confucianism |
+|--------------|-------------------|------------------|
+| 核心概念 Core | mesotēs（中道） | 中庸 (zhōng yōng) |
+| 判断标准 Standard | 实践智慧 (phronēsis) | 权 (quán, situational discretion) |
+| 养成方法 Method | 习惯化 (ethos) | 礼 (lǐ, ritualized practice) |
+| 本体论基础 Ontology | 灵魂的形式 (form of soul) | 天道与人道的合一 (unity of heavenly and human Way) |
+| 目的 End | eudaimonia（人之繁荣） | 至善 (zhì shàn) / 和 (hé, harmony) |
+| 社会维度 Social | 公民友谊 (civic friendship) | 五伦 (wǔ lún, five bonds) |
+
+《中庸》第一章的经典表述："喜怒哀乐之未发谓之中，发而皆中节谓之和"可以被重新诠释为亚里士多德式的："未发之中"相当于拥有德性的品格状态（hexis），"发而中节"相当于在具体行动中命中中道（mesotēs）。
+
+The *Doctrine of the Mean*'s classic formulation: "When joy, anger, sorrow, and pleasure have not yet arisen, it is called 'the Mean'; when they arise and all hit the proper measure, it is called 'Harmony'" can be reinterpreted Aristotelianly: "the Mean before arousal" corresponds to the virtuous character state (*hexis*), "hitting the proper measure upon arousal" corresponds to hitting the mean (*mesotēs*) in concrete action.
+
+### 与佛教"中道"对话 Dialogue with Buddhist "Middle Way" (Madhyamā Pratipad)
+
+佛教的"中道"（madhyamā pratipad）——释迦牟尼在苦行与纵欲之间发现的修行道路——在表面上与亚里士多德的 mesotēs 相似。但佛教的"中道"有更深一层的含义：它不仅是行为上的适度，更是对"有"与"无"两个形而上学极端的超越（龙树的中观哲学）。亚里士多德的中道是伦理学概念，佛教的中道既是伦理学概念也是形而上学概念。
+
+Buddhism's "Middle Way" (*madhyamā pratipad*)—the path the Buddha discovered between asceticism and indulgence—superficially resembles Aristotle's *mesotēs*. But Buddhist "Middle Way" has a deeper meaning: it transcends not only behavioral extremes but also the metaphysical extremes of "existence" and "non-existence" (Nāgārjuna's Madhyamaka philosophy). Aristotle's mean is an ethical concept; Buddhism's Middle Way is both ethical and metaphysical.
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **心理治疗 Psychotherapy**：辩证行为疗法（DBT）中的"辩证"概念——在接纳和改变之间寻找平衡——可以被理解为中道的心理治疗应用。
+- **领导力 Leadership**："果断而不鲁莽，灵活而不优柔寡断"——现代领导力培训中的平衡艺术。
+- **工作生活平衡 Work-Life Balance**：在过劳（过度）和懒散（不及）之间寻找中道。
+- **投资 Investing**：在过度冒险（投机）和过度保守之间找到适当的风险水平。
+
+- **Psychotherapy**: Dialectical Behavior Therapy's "dialectic"—finding balance between acceptance and change—can be understood as a therapeutic application of the mean.
+- **Leadership**: "Decisive without being rash, flexible without being indecisive"—the art of balance in modern leadership training.
+- **Work-life balance**: Finding the mean between burnout (excess) and sloth (deficiency).
+- **Investing**: Finding the appropriate risk level between reckless speculation and excessive conservatism.
+
+---
+
+## 相关条目 Related Entries
+
+- [德性伦理 Virtue Ethics](virtue-ethics.md)
+- [幸福论 Eudaimonia](eudaimonia.md)
+- [四因说 Four Causes](four-causes.md)
+- [亚里士多德 · 亚里士多德](../README.md)

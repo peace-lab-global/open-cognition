@@ -1,0 +1,52 @@
+# 西格蒙德·弗洛伊德 · Sigmund Freud - 著作年表 / Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 德语书名 / German Title | 英文书名 / English Title | 中文书名 | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|:---|
+| 1891 | *Zur Auffassung der Aphasien* | *On Aphasia* | 《论失语症》 | 批判局部定位理论，提出功能系统概念 / Critiqued localization theory, proposed functional system concept |
+| 1895 | *Wissenschaftliche Psychologie* (Projekt) | *Project for a Scientific Psychology* | 《科学心理学计划》 | 试图将心理学建立在神经科学基础上（生前未发表）/ Attempted to ground psychology in neuroscience (unpublished in lifetime) |
+| 1895 | *Studien über Hysterie* (mit Breuer) | *Studies on Hysteria* | 《癔症研究》 | 提出谈话疗法和宣泄理论 / Introduced the talking cure and cathartic theory |
+| 1899/1900 | *Die Traumdeutung* | *The Interpretation of Dreams* | 《梦的解析》 | 精神分析的奠基之作：梦的工作理论、潜意识地形学 / Founding work of psychoanalysis: dream-work theory, unconscious topography |
+| 1901 | *Zur Psychopathologie des Alltagslebens* | *The Psychopathology of Everyday Life* | 《日常生活的心理病理学》 | 分析口误、遗忘和失误行为的潜意识意义 / Analyzed the unconscious significance of slips, forgetting, and bungled actions |
+| 1905 | *Drei Abhandlungen zur Sexualtheorie* | *Three Essays on the Theory of Sexuality* | 《性学三论》 | 提出性心理发展阶段理论和婴儿性欲概念 / Proposed psychosexual stage theory and infantile sexuality |
+| 1905 | *Bruchstück einer Hysterie-Analyse* | *Fragment of an Analysis of a Case of Hysteria* | 《癔症分析片段》（"朵拉"案例） | 第一个完整的精神分析案例报告，展示移情分析 / First complete psychoanalytic case report, demonstrating transference analysis |
+| 1907 | *Der Wahn und die Träume in W. Jensens "Gradiva"* | *Delusions and Dreams in Jensen's "Gradiva"* | 《延森〈格拉迪瓦〉中的妄想与梦》 | 精神分析文学批评的开创性尝试 / Pioneering attempt at psychoanalytic literary criticism |
+| 1907 | *Der Witz und seine Beziehung zum Unbewussten* | *Jokes and Their Relation to the Unconscious* | 《诙谐及其与潜意识的关系》 | 揭示幽默作为潜意识表达的机制 / Revealed humor as a mechanism of unconscious expression |
+| 1908 | *"Kulturelle" Sexualmoral und die moderne Nervosität* | *"Civilized" Sexual Morality and Modern Nervousness* | 《"文明的"性道德与现代神经症》 | 论述性压抑与神经症的社会根源 / Discussed the social roots of sexual repression and neurosis |
+| 1909 | *Analyse der Phobie eines fünfjährigen Knaben* | *Analysis of a Phobia in a Five-Year-Old Boy* | 《五岁男孩恐惧症分析》（"小汉斯"案例） | 儿童精神分析的开创性工作，论证俄狄浦斯情结 / Pioneering work in child psychoanalysis, demonstrating the Oedipus complex |
+| 1909 | *Bemerkungen über einen Fall von Zwangsneurose* | *Notes upon a Case of Obsessional Neurosis* | 《强迫症案例笔记》（"鼠人"案例） | 展示强迫症的潜意识机制和矛盾情感 / Demonstrated unconscious mechanisms and ambivalence in obsessional neurosis |
+| 1910 | *Eine Kindheitserinnerung des Leonardo da Vinci* | *Leonardo da Vinci and a Memory of His Childhood* | 《列奥纳多·达·芬奇的童年记忆》 | 将精神分析应用于艺术家人格研究 / Applied psychoanalysis to the study of artistic personality |
+| 1911 | *Psychoanalytische Bemerkungen über einen autobiographisch beschriebenen Fall von Paranoia* | *Psycho-Analytic Notes on an Autobiographical Account of a Case of Paranoia* | 《偏执狂案例的精神分析笔记》（"施雷伯"案例） | 分析偏执狂与同性恋冲突的关系 / Analyzed the relationship between paranoia and homosexual conflict |
+| 1913 | *Totem und Tabu* | *Totem and Taboo* | 《图腾与禁忌》 | 将精神分析应用于原始文化和人类学 / Applied psychoanalysis to primitive culture and anthropology |
+| 1914 | *Zur Einführung des Narzissmus* | *On Narcissism: An Introduction* | 《论自恋》 | 引入自恋概念，修正力比多理论 / Introduced the concept of narcissism, revising libido theory |
+| 1914 | *Erinnern, Wiederholen und Durcharbeiten* | *Remembering, Repeating and Working Through* | 《记忆、重复与修通》 | 提出"修通"概念 / Introduced the concept of "working through" |
+| 1915 | *Triebe und Triebschicksale* | *Instincts and Their Vicissitudes* | 《本能及其命运》 | 系统论述驱力理论 / Systematic discussion of drive theory |
+| 1915 | *Die Verdrängung* | *Repression* | 《压抑》 | 对压抑最系统的元心理学阐述 / Most systematic metapsychological exposition of repression |
+| 1915 | *Das Unbewusste* | *The Unconscious* | 《潜意识》 | 对潜意识概念最集中的理论论述 / Most concentrated theoretical discussion of the unconscious |
+| 1915 | *Trauer und Melancholie* | *Mourning and Melancholia* | 《哀悼与忧郁》 | 区分正常哀悼与病理性忧郁，为抑郁理论奠基 / Distinguished normal mourning from pathological melancholia, founding depression theory |
+| 1916–17 | *Vorlesungen zur Einführung in die Psychoanalyse* | *Introductory Lectures on Psycho-Analysis* | 《精神分析引论》 | 系统阐述精神分析理论与方法 / Systematic exposition of psychoanalytic theory and method |
+| 1918 | *Aus der Geschichte einer infantilen Neurose* | *From the History of an Infantile Neurosis* | 《一例婴儿期神经症病史》（"狼人"案例） | 展示婴儿期神经症和原初场景幻想 / Demonstrated infantile neurosis and primal scene fantasies |
+| 1920 | *Jenseits des Lustprinzips* | *Beyond the Pleasure Principle* | 《超越快乐原则》 | 引入死本能（Thanatos）和重复强迫概念 / Introduced the death instinct (Thanatos) and repetition compulsion |
+| 1921 | *Massenpsychologie und Ich-Analyse* | *Group Psychology and the Analysis of the Ego* | 《群体心理学与自我分析》 | 探讨群体心理中的认同和力比多投注 / Explored identification and libidinal cathexis in group psychology |
+| 1923 | *Das Ich und das Es* | *The Ego and the Id* | 《自我与本我》 | 正式提出人格三元结构模型（本我-自我-超我）/ Formally proposed the tripartite personality structure model (id-ego-superego) |
+| 1924 | *Das ökonomische Problem des Masochismus* | *The Economic Problem of Masochism* | 《受虐狂的经济问题》 | 提出道德受虐狂概念 / Introduced the concept of moral masochism |
+| 1925 | *Selbstdarstellung* | *An Autobiographical Study* | 《自传》 | 弗洛伊德的自述 / Freud's autobiographical account |
+| 1925 | *Einige psychische Folgen des anatomischen Geschlechtsunterschieds* | *Some Psychical Consequences of the Anatomical Distinction between the Sexes* | 《两性间解剖差异的一些心理后果》 | 修正女性心理发展理论 / Revised theory of female psychological development |
+| 1926 | *Hemmung, Symptom und Angst* | *Inhibitions, Symptoms and Anxiety* | 《抑制、症状与焦虑》 | 提出焦虑信号理论 / Proposed the signal theory of anxiety |
+| 1926 | *Die Frage der Laienanalyse* | *The Question of Lay Analysis* | 《非医学精神分析的问题》 | 论述非医学人士从事精神分析的合法性 / Discussed the legitimacy of non-medical psychoanalysis |
+| 1927 | *Die Zukunft einer Illusion* | *The Future of an Illusion* | 《一个幻觉的未来》 | 将宗教视为人类愿望的幻觉性满足 / Analyzed religion as illusory fulfillment of human wishes |
+| 1930 | *Das Unbehagen in der Kultur* | *Civilization and Its Discontents* | 《文明及其不满》 | 论述文明与本能的根本冲突 / Examined the fundamental conflict between civilization and instinct |
+| 1933 | *Neue Folge der Vorlesungen zur Einführung in die Psychoanalyse* | *New Introductory Lectures on Psycho-Analysis* | 《精神分析新引论》 | 更新精神分析理论，讨论女性性欲和焦虑 / Updated psychoanalytic theory, discussed female sexuality and anxiety |
+| 1937 | *Die endliche und die unendliche Analyse* | *Analysis Terminable and Interminable* | 《有终与无终的分析》 | 讨论精神分析的限度和不可能性 / Discussed the limits and impossibility of psychoanalysis |
+| 1937 | *Konstruktionen in der Analyse* | *Constructions in Analysis* | 《分析中的建构》 | 论述精神分析中重构早期经验的方法 / Discussed methods of reconstructing early experience in psychoanalysis |
+| 1939 | *Der Mann Moses und die monotheistische Religion* | *Moses and Monotheism* | 《摩西与一神教》 | 将精神分析应用于宗教起源研究 / Applied psychoanalysis to the study of religious origins |
+
+## 重要书信集 / Important Correspondence
+
+| 年份 / Year | 书信集 / Correspondence | 说明 / Notes |
+|:---:|:---|:---|
+| 1887–1904 | *The Complete Letters of Sigmund Freud to Wilhelm Fliess* | 《弗洛伊德与弗利斯通信全集》——包含俄狄浦斯情结的首次描述和精神分析创立过程 / Contains the first description of the Oedipus complex and the founding process of psychoanalysis |
+| 1906–1913 | *The Freud/Jung Letters* | 《弗洛伊德/荣格书信集》——记录了两人关系的发展和破裂 / Records the development and rupture of their relationship |
+| 1912–1936 | *The Correspondence of Sigmund Freud and Sándor Ferenczi* | 《弗洛伊德与费伦齐通信集》（三卷）/ Three volumes |
+| 1908–1939 | *The Correspondence of Sigmund Freud and Ernest Jones* | 《弗洛伊德与琼斯通信集》 |

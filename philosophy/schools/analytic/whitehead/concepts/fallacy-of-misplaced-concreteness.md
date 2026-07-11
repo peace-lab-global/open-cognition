@@ -1,0 +1,41 @@
+---
+id: whitehead-fallacy-of-misplaced-concreteness
+title: 错置具体性的谬误 · Fallacy of Misplaced Concreteness
+type: concept
+thinker: whitehead
+domain: philosophy
+school: analytic
+tags: [abstraction, reductionism, science, metaphysics]
+---
+# 错置具体性的谬误 · Fallacy of Misplaced Concreteness
+
+## 概念定位 / Conceptual Position
+把抽象概念误当作具体实在——这是怀特海对还原论科学的核心批评。
+
+Mistaking abstract concepts for concrete reality — Whitehead's core criticism of reductionist science.
+
+## 核心论述 / Core Argument
+
+### 科学模型的抽象性 / Abstraction of Scientific Models
+物理学的"质点""场""力"是抽象模型——它们描述实在的某些方面，但不是实在本身。将模型等同于实在是"错置具体性"。
+
+Physics' "point masses," "fields," "forces" are abstract models — they describe aspects of reality, not reality itself. Equating models with reality is "misplaced concreteness."
+
+### 例子 / Examples
+- 将"GDP"等同于"经济"
+- 将"IQ分数"等同于"智力"
+- 将"神经元放电"等同于"思维"
+
+## 哲学意义 / Philosophical Significance
+对科学还原论的最深刻批评之一，影响了生态哲学和复杂性科学。
+
+## 东西方对话 / East-West Dialogue
+### 与唯识学"遍计所执" / With Yogacara's "Conceptual Projection" (parikalpita)
+唯识学的"遍计所执性"——将概念投射误当作客观实在——与"错置具体性的谬误"惊人地相似。两者都警告我们不要把心智建构当作独立存在的实在。
+
+Yogacara's "conceptual projection" (parikalpita) — mistaking conceptual projections for objective reality — is strikingly similar to the fallacy of misplaced concreteness. Both warn against treating mental constructions as independently existing reality.
+
+## 相关概念 / Related Concepts
+- [过程哲学 Process Philosophy](process-philosophy.md)
+- [创造性 Creativity](creativity.md)
+- [怀特海主页](../README.md)

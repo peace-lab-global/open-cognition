@@ -1,0 +1,21 @@
+---
+id: tsongkhapa-reading-list
+title: "宗喀巴进阶阅读 Tsongkhapa: Reading List"
+type: reading-list
+parent: tsongkhapa
+---
+
+# 宗喀巴进阶阅读 / Reading List for Tsongkhapa
+
+## 原典
+- 《菩提道次第广论》(法尊法师译)
+- Tsongkhapa, *The Great Treatise on the Stages of the Path* (Snow Lion, 3 vols)
+
+## 研究
+- Gareth Sparham, *The Illumination of the Hidden Meaning*
+- 土观·洛桑却吉尼玛《土观宗派源流》
+- Thupten Jinpa, *Self, Reality and Awareness in the Context of Tsongkhapa's Philosophy*
+
+## 入门
+- 第十四世达赖喇嘛《藏传佛教入门》《道次第讲授》
+- Guy Newland, *Introduction to Emptiness*

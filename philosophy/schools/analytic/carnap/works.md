@@ -1,0 +1,30 @@
+---
+id: carnap-works
+title: 卡尔纳普著作导读 · Carnap Works Guide
+type: works
+thinker: carnap
+domain: philosophy
+school: analytic
+---
+
+# 卡尔纳普著作导读 / Carnap Works Guide
+
+## 核心著作 / Core Works
+
+| 著作 / Work | 年份 / Year | 核心内容 / Core Content |
+|---|---|---|
+| *Der logische Aufbau der Welt* | 1928 | 从经验基础建构全部科学概念 / Constructing all scientific concepts from experiential base |
+| *Scheinprobleme in der Philosophie* | 1928 | 哲学伪问题批判 / Critique of philosophical pseudo-problems |
+| *The Logical Syntax of Language* | 1934 | 容忍原则与形式语言分析 / Tolerance principle and formal language analysis |
+| *Introduction to Semantics* | 1942 | 语义学方法论 / Semantic methodology |
+| *Formalization of Logic* | 1943 | 逻辑形式化 / Logical formalization |
+| *Meaning and Necessity* | 1947/1956 | 模态语义学 / Modal semantics |
+| *Logical Foundations of Probability* | 1950 | 归纳逻辑与概率 / Inductive logic and probability |
+| *Empiricism, Semantics, and Ontology* | 1950 | 内部/外部问题 / Internal/external questions |
+
+## 推荐入门路径 / Recommended Entry Paths
+
+1. **初学者**: *Empiricism, Semantics, and Ontology* → *Aufbau* 导论
+2. **逻辑与语言**: *Logical Syntax* → *Meaning and Necessity*
+3. **科学哲学**: *Aufbau* → *Empiricism, Semantics, and Ontology*
+4. **概率与归纳**: *Logical Foundations of Probability* → *The Continuum of Inductive Methods*

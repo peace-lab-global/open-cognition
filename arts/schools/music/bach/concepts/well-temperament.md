@@ -1,0 +1,90 @@
+---
+id: bach-well-temperament
+title: "平均律 · Well-Temperament"
+type: concept
+thinker: bach
+domain: arts
+school: music
+tags: [temperament, tuning, well-temperament, equal-temperament, tonality, keyboard, bach]
+cross-refs:
+  - id: bach-counterpoint
+    relation: related
+  - id: bach-fugue-art
+    relation: related
+---
+
+# 平均律 · Well-Temperament
+
+## 概念概述 / Concept Overview
+
+平均律（Well-temperament，德语 *Wohltemperierte Stimmung*）是17至18世纪发展起来的一类键盘调律体系，其核心目标是使所有24个大小调都能在键盘上自由使用，而不产生不可接受的音准问题。巴赫以《平均律钢琴曲集》（*Das Wohltemperierte Klavier*，两卷各24首前奏曲与赋格，涵盖全部大小调）为这一调律体系进行了最有力的"音乐论证"——他以作品证明，在适当的调律下，每一个调性领域都是平等的、可表达的、具有独特音乐性格的。
+
+Well-temperament (German: *Wohltemperierte Stimmung*) is a class of keyboard tuning systems developed in the 17th and 18th centuries, whose core objective is to make all twenty-four major and minor keys freely usable on a keyboard without producing unacceptable intonation problems. Bach provided the most powerful "musical demonstration" of this tuning system with the *Well-Tempered Clavier* (two books of twenty-four preludes and fugues each, covering all major and minor keys) — he proved through composition that, under appropriate tuning, every tonal region is equal, expressible, and possesses a unique musical character.
+
+需要特别澄清的是，巴赫的"平均律"（well-temperament）并非现代钢琴上使用的"十二平均律"（equal temperament）。在十二平均律中，所有半音间隔完全相等，所有调性的音色特征完全一致；而在18世纪的各种"良律"（well-temperament）方案中——如韦克迈斯特（Werckmeister）、基恩贝格尔（Kirnberger）和瓦洛蒂（Vallotti）的调律法——各调性保留了微妙的音色差异：C大调最为纯净，升号调逐渐变得更加明亮和紧张，降号调则趋于柔和和温暖。这种"调性色彩"的差异是巴洛克和古典时期作曲家选择调性时的重要考量。
+
+It is crucial to clarify that Bach's "well-temperament" is not the same as the modern "equal temperament" used on contemporary pianos. In equal temperament, all semitone intervals are exactly equal and all keys share identical tonal characteristics; in the various 18th-century "well-temperament" schemes — such as Werckmeister, Kirnberger, and Vallotti tunings — each key retains subtle tonal color differences: C major is the purest, sharp keys become progressively brighter and more tense, and flat keys tend toward warmth and softness. These "key color" differences were important considerations for Baroque and Classical composers when choosing keys.
+
+## 理论内涵 / Theoretical Content
+
+调律问题的根源在于一个基本的声学矛盾：**纯五度**（频率比3:2）和**纯大三度**（频率比5:4）在数学上无法同时完美地存在于一个固定的十二音音阶中。如果将十二个纯五度叠加，理论上应回到起始音的七个八度之上，但实际上十二个纯五度（3:2^12 ≈ 129.746）比七个纯八度（2^7 = 128）略高——这个差值被称为"毕达哥拉斯逗号"（Pythagorean comma，约23.46音分）。同样，纯律大三度与毕达哥拉斯大三度之间存在"普通逗号"（syntonic comma，约21.51音分）。
+
+The root of the tuning problem lies in a fundamental acoustic contradiction: **pure fifths** (frequency ratio 3:2) and **pure major thirds** (frequency ratio 5:4) cannot both exist perfectly within a fixed twelve-note scale. If twelve pure fifths are stacked, they should theoretically return to the starting pitch seven octaves above, but in fact twelve pure fifths (3:2^12 ≈ 129.746) slightly exceed seven pure octaves (2^7 = 128) — this discrepancy is called the "Pythagorean comma" (about 23.46 cents). Similarly, a pure major third and a Pythagorean major third differ by the "syntonic comma" (about 21.51 cents).
+
+**中庸全音律**（meantone temperament）通过将五度略微缩窄来改善大三度的纯度，但代价是某些五度（特别是"狼音五度" wolf fifth）变得严重走调，使得远关系调无法使用。**良律**（well-temperament）的解决方案是在各五度之间不均匀地分配逗号——某些五度被缩窄得更多，某些较少——使得所有调都可以使用，但保留了各调之间的微妙音色差异。**十二平均律**则将所有逗号均匀分配到十二个五度中，使每个半音间隔完全相等，所有调性在音程结构上完全一致，但失去了调性色彩的区别。
+
+**Meantone temperament** narrows fifths slightly to improve major third purity, but at the cost of making certain fifths (especially the "wolf fifth") severely out of tune, rendering distant keys unusable. **Well-temperament** distributes the comma unevenly among the fifths — some narrowed more, some less — making all keys usable while preserving subtle tonal color differences between them. **Equal temperament** distributes the comma equally across all twelve fifths, making every semitone interval exactly equal and all keys structurally identical, but losing key-color distinctions.
+
+巴赫的《平均律钢琴曲集》在理论上的意义远超其音乐价值：它是一次**实验论证**——通过在所有24个调上写出同等质量的前奏曲与赋格，巴赫证明了一种调律体系的实用可行性。这是一种以**实践**回应**理论**的方式：当时的调律理论家（如韦克迈斯特）已经提出了数学方案，但巴赫用音乐作品证明了这些方案在艺术上的可能性。
+
+The theoretical significance of Bach's *Well-Tempered Clavier* far exceeds its musical value: it was an **experimental demonstration** — by writing preludes and fugues of equal quality in all twenty-four keys, Bach proved the practical viability of a tuning system. This was practice responding to theory: the tuning theorists of his time (such as Werckmeister) had already proposed mathematical schemes, but Bach proved their artistic possibility through musical works.
+
+## 思想史脉络 / Intellectual History
+
+调律问题是西方音乐史上最古老的技术与哲学问题之一。毕达哥拉斯学派发现的"逗号"问题揭示了数学理想与物理现实之间的永恒张力。中世纪和文艺复兴时期，各种调律方案被提出和实践，但都面临某些调性"不可用"的限制。17世纪末，韦克迈斯特（Andreas Werckmeister）在其《音乐的数学》（*Musicae mathematicae*, 1687）中首次系统提出了良律方案。
+
+The tuning problem is one of the oldest technical and philosophical issues in Western music history. The Pythagorean school's discovery of the "comma" revealed an eternal tension between mathematical ideal and physical reality. Throughout the medieval and Renaissance periods, various tuning schemes were proposed and practiced, but all faced the limitation that certain keys were "unusable." In the late 17th century, Andreas Werckmeister first systematically proposed well-temperament schemes in his *Musicae mathematicae* (1687).
+
+巴赫的《平均律钢琴曲集》第一卷完成于1722年，其标题页明确写道："平均律钢琴曲集，或：在全部全音和半音上的前奏曲和赋格……为热爱和学习音乐的青年而作，也为已掌握此道者的消遣而作。"这段题词表明，巴赫将自己的作品视为既是**教学工具**，也是**理论声明**——他要向世人展示，在良律调律下，键盘音乐的调性空间是完整统一的。
+
+Bach completed the *Well-Tempered Clavier* Book I in 1722, its title page explicitly stating: "The Well-Tempered Clavier, or Preludes and Fugues through all the tones and semitones... for the profit and use of musical youth desirous of learning as well as for the pastime of those already skilled in this study." This inscription reveals that Bach conceived his work as both a **pedagogical tool** and a **theoretical statement** — he aimed to demonstrate that, under well-temperament, the tonal space of keyboard music is complete and unified.
+
+## 关键文本 / Key Passages
+
+**《平均律钢琴曲集》第一卷，C大调前奏曲（BWV 846）**: 全书开篇的C大调前奏曲以分解和弦织体写成，看似简单，实则暗含精密的和声进行——它如同一份"调律宣言"，以最纯净的C大调开始这个穿越全部调性的旅程。
+
+**The *Well-Tempered Clavier* Book I, Prelude in C major (BWV 846)**: The opening prelude is written in arpeggiated texture, seemingly simple yet containing sophisticated harmonic progressions — it serves as a "tuning manifesto," beginning the journey through all keys in the purest C major.
+
+**《平均律钢琴曲集》第一卷，升C大调赋格（BWV 848）**: 五个升号的升C大调在中庸全音律下几乎无法演奏，巴赫选择在这个"最困难"的调上写出最活泼欢快的赋格之一，是对良律可行性的最有力的音乐论证。
+
+**The *Well-Tempered Clavier* Book I, Fugue in C-sharp major (BWV 848)**: C-sharp major with five sharps was nearly unplayable under meantone temperament; Bach chose to write one of the most lively and joyful fugues in this "most difficult" key — the most powerful musical argument for well-temperament's viability.
+
+## 当代应用 / Contemporary Applications
+
+十二平均律已成为现代钢琴和几乎所有西方乐器的标准调律体系。然而，20世纪末以来，"历史知情演奏"（Historically Informed Performance, HIP）运动推动了对巴洛克良律的复兴——许多古钢琴演奏家使用韦克迈斯特或瓦洛蒂良律来演奏巴赫，以恢复各调性之间的色彩差异。当代作曲家如本·约翰斯顿（Ben Johnston）和拉蒙特·扬（La Monte Young）探索了纯律和其他微分音调律体系，延续了调律问题的探索传统。
+
+Equal temperament has become the standard tuning system for modern pianos and virtually all Western instruments. However, since the late 20th century, the Historically Informed Performance (HIP) movement has promoted the revival of Baroque well-temperaments — many harpsichordists use Werckmeister or Vallotti tunings to perform Bach, restoring the color differences between keys. Contemporary composers such as Ben Johnston and La Monte Young have explored just intonation and other microtonal tuning systems, continuing the tradition of tuning inquiry.
+
+## 批评与回应 / Critiques and Responses
+
+**批评**: 一些学者质疑巴赫的"平均律"究竟指哪一种具体调律方案——是否真的使所有调"平等"，还是保留了调性色彩差异。还有学者指出，现代钢琴上的十二平均律演奏实际上抹杀了巴赫时代各调性的独特性格。
+
+**Critique**: Some scholars question which specific tuning scheme Bach's "well-temperament" referred to — whether it truly made all keys "equal" or retained key-color differences. Others note that performance on modern pianos in equal temperament actually erases the distinctive character of each key in Bach's time.
+
+**回应**: 学术界目前倾向于认为巴赫使用的是一种保留调性色彩差异的良律，而非完全的十二平均律。这一讨论本身就说明，调律问题不仅是技术问题，更是美学问题——它涉及"平等"与"差异"之间的永恒辩证。
+
+**Response**: Current scholarship tends to favor the view that Bach used a well-temperament that retained key-color differences, rather than full equal temperament. This discussion itself demonstrates that tuning is not merely a technical issue but an aesthetic one — it involves the eternal dialectic between "equality" and "difference."
+
+## 跨文化回响 / Cross-cultural Echoes
+
+调律问题与中国古代乐律学有着深刻的平行关系。中国传统的**三分损益法**（即"管律"，类似于毕达哥拉斯的五度相生法）同样面临"黄钟不能还原"的逗号问题——经过十二次三分损益后，不能精确回到起始音。明代朱载堉（1536–1611）在1584年独立提出了十二平均律的数学方案，比欧洲的同等发现早了约半个世纪。这使得调律问题成为东西方科学与音乐交流的绝佳案例。
+
+The tuning problem has profound parallels with ancient Chinese music theory. The traditional Chinese **sanfen sunyi** method (analogous to Pythagorean fifth-generation) faces the same comma problem — after twelve iterations, one cannot precisely return to the starting pitch. The Ming dynasty scholar Zhu Zaiyu (1536–1611) independently proposed a mathematical scheme for equal temperament in 1584, approximately half a century before the equivalent European discovery. This makes the tuning problem an excellent case study for East-West scientific and musical exchange.
+
+## 延伸阅读 / Further Reading
+
+- Werckmeister, Andreas. *Musicae mathematicae* (1687) — 良律方案的早期理论著作
+- Barbour, J. Murray. *Tuning and Temperament: A Historical Survey* — 调律与律制的历史概观
+- Lindley, Mark. *Tuning, Tempering and Tonality* — 调律、律制与调性研究
+- Barnes, John. "Bach's Keyboard Temperament" — 关于巴赫使用的具体调律方案的学术研究
+- 朱载堉《乐律全书》— 中国十二平均律的原始文献

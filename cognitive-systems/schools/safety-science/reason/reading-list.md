@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.safety-science.reason-reading-list
+title: 里森瑞士奶酪模型进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: safety-science
+thinker: reason
+tags: [reason, reading-guide, swiss-cheese-model]
+cross-refs: [{id: reason, relation: thinker}]
+---
+
+# 里森瑞士奶酪模型进阶阅读
+
+## 入门
+1. Reason, J. (2000). "Human error: models and management." *BMJ*, 320. — 面向非专家的通俗阐述
+2. Reason, J. (1997). *Managing the Risks of Organizational Accidents*, 第1-4章. Ashgate. — 瑞士奶酪模型入门
+
+## 原典
+- Reason, J. (1990). *Human Error*. Cambridge University Press.
+- Reason, J. (1997). *Managing the Risks of Organizational Accidents*. Ashgate.
+- Reason, J. (2008). *The Human Contribution*. Ashgate.
+
+## 二手研究
+- Dekker, S. (2006/2014). *The Field Guide to Understanding Human Error*. — 使用并扩展Reason框架
+- Shorrock, S. (2020). *Human Factors and Ergonomics in Practice*. — 人因实践指南
+- Woods, D. D., et al. (2010). *Behind Human Error*. Ashgate.
+- Leape, L. L. (1994). "Error in medicine." *JAMA*. — 医疗安全领域应用
+
+## 中文资源
+- 《人因错误》相关中译
+- 航空安全管理中的瑞士奶酪模型中文应用文献
+- 医疗安全与组织事故分析的中文综述
+
+## 相关概念文件
+- [瑞士奶酪模型 Swiss Cheese Model](../../concepts/swiss-cheese-model.md)

@@ -1,0 +1,138 @@
+---
+id: religion.buddhism.masters.milarepa.works
+title: 密勒日巴著作 Works of Milarepa
+type: reference
+domain: religion
+school: buddhism-vajrayana
+parent: religion.buddhism.masters.milarepa
+tags: [密勒日巴, 著作, works, 道歌集, 传记]
+---
+
+# 密勒日巴著作 Works of Milarepa
+
+> 密勒日巴本人没有留下书面著作。他的教言通过口传方式保存，由弟子和后来的编纂者整理成文。
+>
+> Milarepa himself left no written works. His teachings were preserved orally and compiled by disciples and later editors.
+
+## 核心文本 Core Texts
+
+### 1.《密勒日巴十万道歌集》 The Hundred Thousand Songs of Milarepa
+
+**藏文标题**：མི་ལ་རས་པའི་མགུར་འབུམ་（Mi la ras pa'i mgur 'bum）
+
+这是密勒日巴最重要的遗产，收录了他在不同时期、不同地点、面对不同听众时所唱的道歌。传统上说包含十万首，现存版本约收录了数百首代表性道歌。
+
+The most important legacy of Milarepa, collecting songs he sang at different times, places, and to different audiences. Traditionally said to contain a hundred thousand songs; the surviving version includes several hundred representative songs.
+
+**编纂者 Compiler**：桑杰坚赞（Tsangnyön Heruka, 1452–1507），又称"藏地疯圣"，在密勒日巴去世三百多年后编纂了此书。
+
+**Compiled by**: Tsangnyön Heruka (1452–1507), also known as the "Mad Saint of Tibet," who compiled the text over three centuries after Milarepa's death.
+
+**结构 Structure**：分为六十一章（不同版本分法略有差异），每章包含多首道歌，通常附有叙述性的背景说明，记录了道歌产生的情境。
+
+**Structure**: Divided into sixty-one chapters (varying slightly by edition), each containing multiple songs, usually accompanied by narrative context describing the circumstances of each song's arising.
+
+**内容范围 Scope**：
+- 大手印直指教授 / Direct Mahamudra pointing-out instructions
+- 拙火修行体验 / Tummo practice experiences
+- 对弟子的劝诫 / Admonitions to disciples
+- 与外道的辩论 / Debates with non-Buddhists
+- 对自然和修行的赞歌 / Songs praising nature and practice
+- 对施主的感恩歌 / Songs of gratitude to patrons
+
+**重要道歌 Notable Songs**：
+  - 《七支供养歌》— 修行入门 / Seven-Limb Offering — entry practice
+  - 《山居歌》— 出离心与自然 / Mountain Dwelling Song — renunciation and nature
+  - 《证悟歌》— 大手印见地 / Song of Realization — Mahamudra view
+  - 《中阴歌》— 死后过渡状态的教导 / Bardo Song — teachings on the intermediate state
+
+### 2.《密勒日巴传》 The Life of Milarepa
+
+**藏文标题**：མི་ལ་རས་པའི་རྣམ་ཐར་（Mi la ras pa'i rnam thar）
+
+密勒日巴的传记，同样由桑杰坚赞编纂，以第一人称自述的形式写成。这是藏文文学中最受欢迎的作品之一，也是西方世界最广为人知的西藏文本之一。
+
+Milarepa's biography, also compiled by Tsangnyön Heruka, written in first-person autobiographical form. One of the most beloved works of Tibetan literature and one of the most widely known Tibetan texts in the Western world.
+
+**结构 Structure**：
+- 家族历史和早年生活 / Family history and early life
+- 学习黑咒术和复仇 / Learning black magic and revenge
+- 遇见玛尔巴和接受考验 / Meeting Marpa and undergoing trials
+- 接受灌顶和密法 / Receiving empowerments and secret teachings
+- 山洞苦修 / Cave meditation
+- 证悟和传法 / Realization and teaching
+- 圆寂 / Parinirvana
+
+## 重要译本 Important Translations
+
+### 英文译本 English Translations
+
+| 译本 Translation | 译者 Translator | 年份 Year | 特点 Features |
+|---|---|---|---|
+| *Tibet's Great Yogi Milarepa* | W.Y. Evans-Wentz & Kazi Dawa-Samdup | 1928 | 最早英译，开创性但有不准确处 |
+| *The Life of Milarepa* | Lobsang P. Lhalungpa | 1977 | 传记译本，流畅可读 |
+| *The Hundred Thousand Songs of Milarepa* | Garma C.C. Chang (张澄基) | 1962 | 道歌集全译，两卷本 |
+| *The Life of Milarepa* | Andrew Quintman | 2010 | 最新传记译本，学术性强 |
+| *Drinking the Mountain Stream* | Brian Cutillo (ed.) | 1978, 1995 | 道歌选译 |
+
+### 中文译本 Chinese Translations
+
+| 译本 Translation | 译者 Translator | 特点 Features |
+|---|---|---|
+| 《密勒日巴尊者传》 | 刘立千 | 传记，学术注释丰富 |
+| 《密勒日巴大师歌集》 | 张澄基 | 道歌集，三册 |
+| 《密勒日巴传》 | 释寂凡 | 传记，通俗易读 |
+| 《密勒日巴全集》 | 张澄基 | 含传记和道歌集 |
+
+## 归名作品 Attributed Works
+
+密勒日巴的教导主要通过口传方式保存，由弟子记忆和传诵。除上述两大核心文献外，部分短篇教言散见于噶举派各种文集中。
+
+Milarepa's teachings were primarily preserved orally, memorized and transmitted by disciples. Beyond the two core texts above, some shorter teachings are scattered across various Kagyu collections.
+
+## 相关文献 Related Texts
+
+### 噶举传承文献 Kagyu Lineage Texts
+
+- **《玛尔巴传》**（Mar pa'i rnam thar）：记录了密勒日巴上师玛尔巴的生平。
+  *The Life of Marpa*: Records the life of Milarepa's guru Marpa.
+
+- **《冈波巴传》及《解脱庄严宝论》**（Dwags po lha rje'i rnam thar; *Jewel Ornament of Liberation*）：密勒日巴最重要的弟子冈波巴的传记和教法著作。
+  *Gampopa's biography and Jewel Ornament of Liberation*: The biography and teaching work of Milarepa's most important disciple.
+
+- **《帝洛巴与那不洛巴传》**：追溯噶举法脉的印度源头。
+  *Lives of Tilopa and Naropa*: Tracing the Indian origins of the Kagyu lineage.
+
+### 密续修持文献 Tantric Practice Texts
+
+- **《那洛六法》相关注释文献**：历代噶举上师对六法的注释和实修指引。
+  *Commentaries on the Six Yogas of Naropa*: Commentaries and practice instructions by successive Kagyu masters.
+
+- **《大手印五支》**（Phyag chen ga ldan）：冈波巴对大手印修法的系统阐述。
+  *Fivefold Mahamudra*: Gampopa's systematic exposition of Mahamudra practice.
+
+## 著作分类索引 Thematic Index
+
+| 主题 Theme | 内容 Content |
+|------|------|
+| 出离心 Renunciation | 厌离轮回、追求解脱的道歌 |
+| 菩提心 Bodhichitta | 利益众生的发心与修行 |
+| 大手印见地 Mahamudra View | 直指心性的教导歌 |
+| 密续修持 Tantric Practice | 拙火、梦境等那洛六法修行指导 |
+| 日常教导 Daily Instruction | 针对在家众的伦理与修行指导 |
+| 传记叙事 Biographical | 生平故事的文学记录 |
+
+## 口传传统 Oral Tradition
+
+值得注意的是，密勒日巴的教言最初完全通过口传方式传承。道歌的旋律、节奏和吟唱方式本身就是教法的一部分。直到桑杰坚赞的时代（15世纪），这些口传材料才被系统地编纂成书面文本。
+
+It is important to note that Milarepa's teachings were originally transmitted entirely orally. The melody, rhythm, and manner of singing were themselves part of the teaching. It was not until Tsangnyön Heruka's era (15th century) that these oral materials were systematically compiled into written texts.
+
+这意味着我们今天所读的文本与原始的口头表演之间存在一定的距离。道歌的文字只是冰山一角——完整的传承还包括旋律、手势、面部表情和师徒之间的人格化传递。
+
+This means there is a certain distance between the texts we read today and the original oral performance. The words of the songs are just the tip of the iceberg — the complete transmission also includes melody, gesture, facial expression, and the personal transmission between guru and disciple.
+
+## 进阶导航 Navigation
+
+- **返回**: [密勒日巴 Milarepa](README.md)
+- **相关**: [阅读书目 Reading List](reading-list.md) | [年表 Timeline](timeline.md)

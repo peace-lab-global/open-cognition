@@ -1,0 +1,82 @@
+---
+id: plato-works
+title: 柏拉图著作年表 · Plato Works Chronology
+type: works
+parent: plato
+domain: philosophy
+---
+
+# 柏拉图著作年表 · Plato Works Chronology
+
+柏拉图的全部著作以对话录（dialogues）和书信（letters）的形式流传。以下按传统分期排列：
+
+Plato's complete works survive as dialogues and letters. Below is the traditional chronological ordering:
+
+---
+
+## 早期对话（"苏格拉底式"）Early Dialogues ("Socratic"), c. 399–387 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《申辩篇》*Apology* | c. 399 | 苏格拉底的审判 / Socrates' trial |
+| 《克力同篇》*Crito* | c. 399 | 公民义务 / Civic duty |
+| 《尤西弗罗篇》*Euthyphro* | early | 虔敬的定义 / Definition of piety |
+| 《拉凯斯篇》*Laches* | early | 勇气 / Courage |
+| 《卡尔米德篇》*Charmides* | early | 节制 / Temperance |
+| 《大希庇亚斯篇》*Hippias Major* | early | 美 / Beauty |
+| 《小希庇亚斯篇》*Hippias Minor* | early | 自愿与不自愿作恶 / Voluntary vs involuntary wrong |
+| 《吕西斯篇》*Lysis* | early | 友谊 / Friendship |
+| 《伊翁篇》*Ion* | early | 诗的灵感 / Poetic inspiration |
+| 《普罗泰戈拉篇》*Protagoras* | early-trans. | 德性的统一 / Unity of virtue |
+
+## 过渡期对话 Transitional, c. 387–375 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《美诺篇》*Meno* | c. 385 | 德性是否可教；回忆说 / Is virtue teachable? Recollection |
+| 《高尔吉亚篇》*Gorgias* | c. 380 | 修辞术与正义 / Rhetoric and justice |
+| 《克拉底鲁篇》*Cratylus* | c. 380 | 语言与自然 / Language and nature |
+
+## 中期对话 Middle Dialogues, c. 375–360 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《斐多篇》*Phaedo* | c. 387 | 灵魂不朽 / Immortality of soul |
+| 《会饮篇》*Symposium* | c. 385 | 爱的阶梯 / Ladder of love |
+| 《理想国》*Republic* (I-X) | c. 380 | 正义；理念论 / Justice; Forms |
+| 《斐德若篇》*Phaedrus* | c. 370 | 灵魂；爱；修辞 / Soul; love; rhetoric |
+
+## 晚期对话 Late Dialogues, c. 360–348 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《泰阿泰德篇》*Theaetetus* | c. 369 | 知识的定义 / Definition of knowledge |
+| 《巴门尼德篇》*Parmenides* | c. 370 | 理念论的自我批评 / Self-critique of Forms |
+| 《智者篇》*Sophist* | c. 360 | 存在与非存在 / Being and non-being |
+| 《政治家篇》*Statesman* | c. 360 | 政治技艺 / Political art |
+| 《斐利布斯篇》*Philebus* | c. 350 | 快乐与善 / Pleasure and the good |
+| 《蒂迈欧篇》*Timaeus* | c. 360 | 宇宙论 / Cosmology |
+| 《克里蒂亚斯篇》*Critias* | c. 360 | 亚特兰蒂斯传说 / Atlantis legend (incomplete) |
+| 《法篇》*Laws* | c. 348 | 法治（最长对话录）/ Rule of law (longest dialogue) |
+
+## 书信 Letters
+
+| 书信 Letter | 真伪 Authenticity | 要点 Key Points |
+|-----------|------------------|-----------------|
+| 第七封信 *Seventh Letter* | 有争议 Disputed | "哲学自白"；西西里之旅；"未成文学说" / "Philosophical autobiography"; Sicily visits; "unwritten doctrines" |
+
+---
+
+## "未成文学说" The "Unwritten Doctrines"
+
+亚里士多德和其他古代作者提到柏拉图有一些"未成文的学说"（agrapha dogmata），主要在学园内部口头传授，包括关于"一"（the One）和"不定之二"（the Indefinite Dyad）的形而上学原理。第七封信中也暗示柏拉图认为最高的哲学真理不适合书写。
+
+Aristotle and other ancient authors mention Plato's "unwritten doctrines" (*agrapha dogmata*), transmitted orally within the Academy, including metaphysical principles about "the One" and "the Indefinite Dyad." The *Seventh Letter* also suggests Plato believed the highest philosophical truths are unsuitable for writing.
+
+---
+
+## 相关条目 Related Entries
+
+- [柏拉图 · 柏拉图](README.md)
+- [苏格拉底 · 著作年表](../socrates/works.md)
+- [亚里士多德 · 著作年表](../aristotle/works.md)

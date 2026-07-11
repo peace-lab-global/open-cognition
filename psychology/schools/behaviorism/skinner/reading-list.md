@@ -1,0 +1,172 @@
+# B.F.斯金纳 · B.F. Skinner - 推荐阅读 / Reading List
+
+## 一、原典 / Primary Works
+
+### 核心著作（按推荐阅读顺序） / Core Works (in recommended reading order)
+
+1. **Skinner, B.F. (1953). *Science and Human Behavior*. New York: Macmillan.**
+   - 最佳入门读物。系统、清晰、全面地阐述行为分析的基本原理及其在个人和社会层面的应用。
+   - Best introductory work. Systematic, clear, and comprehensive treatment of behavior analysis principles and applications.
+
+2. **Skinner, B.F. (1974). *About Behaviorism*. New York: Knopf.**
+   - 斯金纳对其哲学立场最完整的阐述。以对话体写成，生动地回应了各方批评。
+   - Skinner's most complete philosophical statement. Written in dialogue form, vividly responding to critics.
+
+3. **Skinner, B.F. (1971). *Beyond Freedom and Dignity*. New York: Knopf.**
+   - 最具争议也最具影响力的著作。对自由意志和尊严的行为分析批判。
+   - Most controversial and influential work. Behavioral analysis critique of free will and dignity.
+
+4. **Skinner, B.F. (1938). *The Behavior of Organisms: An Experimental Analysis*. New York: Appleton-Century.**
+   - 学术奠基之作。详细的实验报告和基本原理阐述。适合有一定行为分析基础的读者。
+   - Academic foundational work. Detailed experimental reports and basic principles. Best for readers with some behavior analysis background.
+
+5. **Skinner, B.F. (1957). *Verbal Behavior*. New York: Appleton-Century-Crofts.**
+   - 用操作性条件反射分析语言行为。提出了语言的操作性分类系统（mand, tact, echoic, intraverbal等）。
+   - Operant conditioning analysis of verbal behavior. Proposes operant classification system of language.
+
+6. **Skinner, B.F. (1948). *Walden Two*. New York: Macmillan.**
+   - 乌托邦小说，以文学形式展示行为科学设计的理想社会。易于阅读，适合非专业读者。
+   - Utopian novel demonstrating ideal society designed by behavioral science. Accessible for non-specialist readers.
+
+7. **Ferster, C.B. & Skinner, B.F. (1957). *Schedules of Reinforcement*. New York: Appleton-Century-Crofts.**
+   - 强化时程表的权威实证研究。近800页的详细实验数据和累积记录图。
+   - Authoritative empirical study of reinforcement schedules. Nearly 800 pages of detailed experimental data.
+
+8. **Skinner, B.F. (1968). *The Technology of Teaching*. New York: Appleton-Century-Crofts.**
+   - 程序教学的原理和方法。对教育技术有深远影响。
+   - Principles and methods of programmed instruction. Profound influence on educational technology.
+
+9. **Skinner, B.F. (1969). *Contingencies of Reinforcement: A Theoretical Analysis*. New York: Appleton-Century-Crofts.**
+   - 对强化偶联的深入理论分析，讨论规则支配行为。
+   - In-depth theoretical analysis of reinforcement contingencies, discussing rule-governed behavior.
+
+### 中译本 / Chinese Translations
+
+10. **斯金纳 (1989).《科学与人类行为》. 谭力海等译. 北京：华夏出版社.**
+11. **斯金纳 (1989).《超越自由与尊严》. 陈维纲等译. 贵阳：贵州人民出版社.**
+12. **斯金纳 (2018).《瓦尔登湖第二》. 李伯黍等译. 北京：商务印书馆.**
+13. **斯金纳 (2018).《有机体的行为》. 北京：中国社会科学出版社.**
+14. **斯金纳 (2019).《言语行为》. 北京：中国社会科学出版社.**
+
+## 二、二手研究 / Secondary Research
+
+### 传记 / Biographies
+
+15. **Bjork, D.W. (1993). *B.F. Skinner: A Life*. Washington, DC: American Psychological Association.**
+    - 最权威的学术传记，基于斯金纳的个人档案和访谈。
+    - Most authoritative academic biography, based on Skinner's personal archives and interviews.
+
+16. **Epstein, R. (1997). *Skinner as Creative Man: The Scientific and Technological Development of a Radical Behaviorist*. Westport, CT: Greenwood Press.**
+    - 关注斯金纳作为创造性科学家的一面。
+    - Focuses on Skinner as a creative scientist.
+
+### 理论分析与评论 / Theoretical Analysis and Commentary
+
+17. **Catania, A.C. (Ed.). (1992). *Freedom and Dignity: A Reassessment*. Lanham, MD: University Press of America.**
+    - 《超越自由与尊严》出版20年后的学术重新评估。
+    - Academic reassessment 20 years after publication of *Beyond Freedom and Dignity*.
+
+18. **Chiesa, M. (1994). *Radical Behaviorism: The Philosophy and the Science*. Boston: Authors Cooperative.**
+    - 对激进行为主义哲学立场的深入分析。
+    - In-depth analysis of the radical behaviorist philosophical position.
+
+19. **Moore, J. (2008). *Conceptual Foundations of Radical Behaviorism*. Cornwall-on-Hudson, NY: Sloan Publishing.**
+    - 激进行为主义概念基础的系统论述。
+    - Systematic treatment of radical behaviorism's conceptual foundations.
+
+20. **Zuriff, G.E. (1985). *Behaviorism: A Conceptual Reconstruction*. New York: Columbia University Press.**
+    - 对行为主义的概念重建，深入讨论了斯金纳的理论。
+    - Conceptual reconstruction of behaviorism with deep discussion of Skinner's theory.
+
+### 中文二手研究 / Chinese Secondary Research
+
+21. **郭本禹 (2003).《当代心理学的新进展》. 济南：山东教育出版社.**
+    - 包含行为主义和斯金纳理论的详细讨论。
+22. **彭聃龄主编 (2001).《普通心理学》. 北京：北京师范大学出版社.**
+    - 行为主义章节提供了斯金纳理论的中文系统介绍。
+23. **高峰强 (2000).《现代心理学范式的困境与出路》. 北京：人民出版社.**
+    - 从科学哲学角度分析行为主义的困境和出路。
+
+## 三、英文资源 / English Resources
+
+### 教科书 / Textbooks
+
+24. **Cooper, J.O., Heron, T.E., & Heward, W.L. (2020). *Applied Behavior Analysis* (3rd ed.). Upper Saddle River, NJ: Pearson.**
+    - 应用行为分析领域的标准教科书。包含斯金纳理论的现代应用。
+    - Standard ABA textbook. Includes modern applications of Skinner's theory.
+
+25. **Catania, A.C. (2013). *Learning* (5th ed.). Cornwall-on-Hudson, NY: Sloan Publishing.**
+    - 行为分析取向的学习教科书，对操作性条件反射有系统论述。
+    - Behavior analysis-oriented learning textbook with systematic treatment of operant conditioning.
+
+26. **Pierce, W.D. & Cheney, C.D. (2017). *Behavior Analysis and Learning: A Biobehavioral Approach* (6th ed.). New York: Routledge.**
+    - 生物行为学取向的行为分析教科书。
+    - Biobehavioral approach to behavior analysis textbook.
+
+27. **Mazur, J.E. (2013). *Learning and Behavior* (7th ed.). Upper Saddle River, NJ: Pearson.**
+    - 学习理论的广泛概览，包含斯金纳理论的详细讨论。
+    - Broad overview of learning theory with detailed discussion of Skinner's theory.
+
+### 学术期刊 / Academic Journals
+
+28. ***Journal of the Experimental Analysis of Behavior* (JEAB)** — 行为实验分析领域的核心期刊，创刊于1958年。/ Core journal in experimental analysis of behavior, founded 1958.
+
+29. ***Journal of Applied Behavior Analysis* (JABA)** — 应用行为分析领域的核心期刊，创刊于1968年。/ Core journal in applied behavior analysis, founded 1968.
+
+30. ***The Behavior Analyst*** — 行为分析领域的理论和哲学讨论期刊。/ Journal for theoretical and philosophical discussions in behavior analysis.
+
+31. ***Behavior and Philosophy*** — 行为科学与哲学的交叉讨论期刊。/ Journal for discussions at the intersection of behavioral science and philosophy.
+
+### 在线资源 / Online Resources
+
+32. **B.F. Skinner Foundation** — [https://www.bfskinner.org](https://www.bfskinner.org)
+    - 斯金纳基金会官方网站，提供斯金纳著作、视频和学术资源。
+    - Official website of the B.F. Skinner Foundation, providing access to Skinner's works, videos, and academic resources.
+
+33. **Association for Behavior Analysis International (ABAI)** — [https://www.abainternational.org](https://www.abainternational.org)
+    - 国际行为分析协会，行为分析领域最大的学术组织。
+    - International association for behavior analysis, the largest academic organization in the field.
+
+34. **Cambridge Center for Behavioral Studies** — [https://behavior.org](https://behavior.org)
+    - 行为研究中心，提供行为分析的教育和公众资源。
+    - Center for behavioral studies providing education and public resources.
+
+## 四、相关思想家 / Related Thinkers
+
+### 先驱与传承 / Predecessors and Heritage
+
+35. **Watson, J.B. (1913). "Psychology as the behaviorist views it." *Psychological Review*, 20, 158-177.**
+    - 行为主义宣言，斯金纳思想的直接先驱。
+    - The behaviorist manifesto, direct predecessor of Skinner's thought.
+
+36. **Thorndike, E.L. (1898). "Animal intelligence: An experimental study of the associative processes." *Psychological Review Monograph Supplements*, 2(4).**
+    - 效果律的提出，操作性条件反射的理论先驱。
+    - Law of Effect, theoretical predecessor of operant conditioning.
+
+37. **Pavlov, I.P. (1927). *Conditioned Reflexes*. London: Oxford University Press.**
+    - 经典条件反射理论的奠基之作。
+    - Foundational work of classical conditioning theory.
+
+### 批评与发展 / Critics and Developers
+
+38. **Chomsky, N. (1959). "A review of B.F. Skinner's Verbal Behavior." *Language*, 35(1), 26-58.**
+    - 对《言语行为》的著名批评，认知革命的重要催化剂。
+    - Famous critique of *Verbal Behavior*, important catalyst for the cognitive revolution.
+
+39. **Bandura, A. (1977). *Social Learning Theory*. Englewood Cliffs, NJ: Prentice-Hall.**
+    - 在行为主义框架内引入认知和观察学习概念。
+    - Introduced cognitive and observational learning concepts within behaviorist framework.
+
+40. **Hayes, S.C., Barnes-Holmes, D., & Roche, B. (Eds.). (2001). *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*. New York: Springer.**
+    - 关系框架理论，21世纪行为分析中最重要的理论发展。
+    - Relational Frame Theory, the most important theoretical development in 21st-century behavior analysis.
+
+### 跨学科关联 / Interdisciplinary Connections
+
+41. **Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). Cambridge, MA: MIT Press.**
+    - 人工智能中强化学习的标准教科书，在概念上源于斯金纳的操作性条件反射。
+    - Standard textbook for reinforcement learning in AI, conceptually derived from Skinner's operant conditioning.
+
+42. **Schultz, W. (1998). "Predictive reward signal of dopamine neurons." *Journal of Neurophysiology*, 80(1), 1-27.**
+    - 多巴胺奖赏预测误差理论，与斯金纳强化概念的神经生物学对应。
+    - Dopamine reward prediction error theory, neurobiological correspondence with Skinner's reinforcement concept.

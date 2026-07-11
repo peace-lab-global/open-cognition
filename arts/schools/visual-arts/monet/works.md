@@ -1,0 +1,96 @@
+---
+id: monet-works
+title: "莫奈作品编年 · Monet Works Bibliography"
+type: bibliography
+domain: arts
+school: visual-arts
+thinker: monet
+tags: [monet, works, impressionism, bibliography, paintings]
+cross-refs:
+  - id: monet
+    relation: "主条目 / main-entry"
+---
+
+# 莫奈作品编年 · Monet Works Bibliography
+
+## 概述 / Overview
+
+克劳德·莫奈一生创作了约2000幅油画、500余幅素描及大量粉彩画。以下编年表收录其最重要的作品与系列，按创作年代排列，标注中英文名称、收藏地与艺术史意义。莫奈的作品主要收藏于巴黎橘园美术馆、马摩丹莫奈美术馆、奥赛博物馆，以及芝加哥艺术学院、波士顿美术馆等机构。
+
+Claude Monet produced approximately 2,000 oil paintings, over 500 drawings, and numerous pastels during his lifetime. The following chronological bibliography catalogs his most important works and series, arranged by creation date, with Chinese and English titles, collection locations, and art-historical significance. Monet's works are primarily held at the Musée de l'Orangerie, Musée Marmottan Monet, and Musée d'Orsay in Paris, as well as the Art Institute of Chicago, Museum of Fine Arts Boston, and other institutions.
+
+## 早期作品 / Early Works (1858–1870)
+
+| 年份 / Year | 原名 / Original Title | 中译 | 收藏地 / Location | 意义 / Significance |
+|---|---|---|---|---|
+| 1858 | *View at Rouelles* | 《鲁埃勒风景》 | 私人收藏 / Private | 现存最早的户外写生作品 / Earliest surviving plein-air work |
+| 1865 | *Le Déjeuner sur l'herbe* (study) | 《草地上的午餐》(习作) | 巴黎奥赛博物馆 / Musée d'Orsay | 对马奈同名画的回应 / Response to Manet's painting of the same name |
+| 1866 | *Women in the Garden* | 《花园中的女人》 | 巴黎奥赛博物馆 / Musée d'Orsay | 早期户外大作，确立对自然光的追求 / Early outdoor masterwork establishing pursuit of natural light |
+| 1867 | *Women in the Garden* (variant) | 《花园中的女人》变体 | 巴黎奥赛博物馆 | 光色实验的深化 / Deepening of light-color experimentation |
+| 1868 | *On the Bank of the Seine, Bennecourt* | 《塞纳河畔，贝讷库尔》 | 芝加哥艺术学院 / Art Institute of Chicago | 对水面反射的早期探索 / Early exploration of water reflections |
+| 1869 | *La Grenouillère* | 《蛙塘》 | 伦敦国家美术馆 / National Gallery, London | 与雷诺阿并肩作画，破碎笔触成形 / Painted alongside Renoir, broken brushwork taking form |
+
+## 印象派形成期 / Impressionism Formation (1870–1880)
+
+| 年份 / Year | 原名 / Original Title | 中译 | 收藏地 / Location | 意义 / Significance |
+|---|---|---|---|---|
+| 1871 | *The Thames below Westminster* | 《威斯敏斯特下的泰晤士河》 | 伦敦国家美术馆 | 流亡伦敦期间对透纳的研究 / Study of Turner during London exile |
+| 1872 | *Impression, Sunrise* | 《日出·印象》 | 巴黎马摩丹美术馆 / Musée Marmottan | 印象派得名之作 / The painting that gave Impressionism its name |
+| 1873 | *The Poppy Field near Argenteuil* | 《阿让特伊附近的罂粟花田》 | 巴黎奥赛博物馆 | 户外色彩实验的典范 / Exemplar of outdoor color experimentation |
+| 1874 | *The Boulevard des Capucines* | 《卡普辛大道》 | 莫斯科普希金博物馆 / Pushkin Museum | 首届印象派展展品 / Exhibited at first Impressionist exhibition |
+| 1875 | *Woman with a Parasol* | 《撑阳伞的女人》 | 华盛顿国家美术馆 / NGA Washington | 光与人物关系的经典 / Classic study of light and human figure |
+| 1875 | *The Japanese Costume* | 《穿日本和服的莫奈夫人》 | 波士顿美术馆 / MFA Boston | 日本主义影响的直接体现 / Direct evidence of Japonisme influence |
+| 1876 | *Le Jardin de Monet* | 《莫奈花园》 | — | 阿让特伊时期的花园描绘 / Garden depiction from Argenteuil period |
+| 1877 | *Gare Saint-Lazare* series (12 works) | 《圣拉扎尔车站》系列 | 多处收藏 / Multiple locations | 现代工业主题的印象派处理 / Impressionist treatment of modern industrial subject |
+| 1878 | *Rue Montorgueil, Paris, Celebration of 30 June 1878* | 《蒙托格伊街》 | 巴黎奥赛博物馆 | 城市节庆的光色记录 / Light-color record of urban celebration |
+| 1880 | *The Ice Floes on the Seine* | 《塞纳河上的浮冰》 | 巴黎小皇宫 / Petit Palais | 韦特伊时期的冬季光色 / Winter light-color from Vétheuil period |
+
+## 系列绘画成熟期 / Series Painting Maturity (1880–1900)
+
+| 年份 / Year | 原名 / Original Title | 中译 | 收藏地 / Location | 意义 / Significance |
+|---|---|---|---|---|
+| 1886 | *Rocks near Belle-Île* | 《贝勒岛附近的岩石》 | 芝加哥艺术学院 | 布列塔尼海岸的壮美光色 / Sublime light-color of Brittany coast |
+| 1888 | *Antibes* series | 《昂蒂布》系列 | 多处收藏 | 地中海光色的强烈对比 / Strong contrasts of Mediterranean light |
+| 1890–1891 | *Haystacks* series (~25 works) | 《干草堆》系列 | 芝加哥艺术学院、奥赛博物馆等 | 系列方法的系统化 / Systematization of the series method |
+| 1891 | *Poplars* series (~24 works) | 《白杨树》系列 | 多处收藏 | 季节变化的线性研究 / Linear study of seasonal change |
+| 1892–1894 | *Rouen Cathedral* series (~30 works) | 《鲁昂大教堂》系列 | 奥赛博物馆、鲁昂美术馆等 | 同一建筑三十余幅变奏 / Thirty-plus variations on a single building |
+| 1897 | *Morning on the Seine* series | 《塞纳河的早晨》系列 | 多处收藏 | 水面光影的黎明研究 / Dawn study of water surface light |
+| 1899–1900 | *Water Lilies* (early phase) | 《睡莲》(早期) | 多处收藏 | 睡莲系列的开端 / Beginning of the Water Lilies series |
+
+## 晚期巨制 / Late Masterworks (1900–1926)
+
+| 年份 / Year | 原名 / Original Title | 中译 | 收藏地 / Location | 意义 / Significance |
+|---|---|---|---|---|
+| 1900–1912 | *London Parliament* series (~100 works) | 《伦敦国会大厦》系列 | 多处收藏 | 雾与光的跨国研究 / Cross-national study of fog and light |
+| 1903–1908 | *Water Lilies* (middle phase) | 《睡莲》(中期) | 多处收藏 | 地平线逐渐消解 / Gradual dissolution of the horizon |
+| 1908–1912 | *Venice* series (~37 works) | 《威尼斯》系列 | 多处收藏 | 水城光色的晚期探索 / Late exploration of aquatic city light |
+| 1914–1926 | *Grandes Décorations* (8 panels) | 《大睡莲》(橘园巨制) | 巴黎橘园美术馆 / Musée de l'Orangerie | 沉浸式巨幅装饰面板，"和平的港湾" / Immersive monumental panels, "haven of peace" |
+| 1914–1926 | *Water Lilies* (late phase, ~200 works) | 《睡莲》(晚期) | 全球多处收藏 | 从印象主义走向抽象 / From Impressionism toward abstraction |
+| 1922–1924 | *The Artist's House from the Rose Garden* | 《从玫瑰花园看艺术家之家》 | 巴黎马摩丹美术馆 | 白内障影响下的色彩变化 / Color changes under cataract influence |
+
+## 重要收藏机构 / Major Collections
+
+- **巴黎橘园美术馆 (Musée de l'Orangerie, Paris)** — 《大睡莲》椭圆厅八幅巨制 / The eight monumental *Water Lilies* panels in oval rooms
+- **巴黎马摩丹莫奈美术馆 (Musée Marmottan Monet, Paris)** — 《日出·印象》及大量早期作品 / *Impression, Sunrise* and extensive early works
+- **巴黎奥赛博物馆 (Musée d'Orsay, Paris)** — 《花园中的女人》《撑阳伞的女人》等 / *Women in the Garden*, *Woman with a Parasol*, etc.
+- **芝加哥艺术学院 (Art Institute of Chicago)** — 《干草堆》系列重要藏件 / Important *Haystacks* holdings
+- **波士顿美术馆 (Museum of Fine Arts, Boston)** — 多幅系列作品 / Multiple series works
+- **伦敦国家美术馆 (National Gallery, London)** — 《蛙塘》《泰晤士河》 / *La Grenouillère*, *The Thames*
+
+## 重要版本与翻译 / Key Editions and Translations
+
+莫奈本人未出版系统性的理论著作，其思想主要通过以下途径传播：
+
+Monet himself did not publish systematic theoretical writings; his thoughts were transmitted primarily through the following channels:
+
+- **书信集** / **Correspondence**: 莫奈致经销商杜朗-鲁耶（Durand-Ruel）、友人克莱蒙梭（Georges Clemenceau）、画家同行的通信，是理解其创作思想的最直接文本。散见于各展览图录与传记中。Letters to dealer Durand-Ruel, friend Clemenceau, and fellow painters are the most direct texts for understanding his creative thought, scattered across exhibition catalogues and biographies.
+
+- **展览图录** / **Exhibition Catalogues**: 1891年杜朗-鲁耶画廊《干草堆》展、1900年《鲁昂大教堂》展等重要展览的图录包含莫奈的创作说明。Catalogues of important exhibitions such as the 1891 Durand-Ruel *Haystacks* show and the 1900 *Rouen Cathedral* exhibition contain Monet's creative statements.
+
+- **传记与回忆录** / **Biographies and Memoirs**: Georges Clemenceau, *Claude Monet: Cinquante années d'amitié* (1928); Gustave Geffroy, *Claude Monet, sa vie, son oeuvre* (1922). 同时代人的记录提供了宝贵的第一手资料。Contemporary accounts provide valuable primary source material.
+
+## 阅读路径 / Reading Paths
+
+- **入门 / Introductory**: 《日出·印象》 → 《干草堆》系列精选 → 橘园美术馆《大睡莲》 / *Impression, Sunrise* → selected *Haystacks* → Orangerie *Grandes Décorations*
+- **进阶 / Intermediate**: 《鲁昂大教堂》全部变体 → 《伦敦国会大厦》系列精选 → 早期塞纳河系列 / Complete *Rouen Cathedral* variants → selected *London Parliament* → early Seine series
+- **深潜 / Advanced**: 全系列绘画比较研究 → 晚期《睡莲》的色彩分析 → 书信中的创作自述 / Comparative study of all series → late *Water Lilies* color analysis → creative statements in correspondence

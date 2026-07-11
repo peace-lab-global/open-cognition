@@ -1,0 +1,73 @@
+---
+id: klein-timeline
+title: "克莱因生平年表 · Klein Life Timeline"
+type: timeline
+thinker: klein-melanie
+school: object-relations
+---
+
+# 克莱因生平年表 · Melanie Klein Life Timeline
+
+## 早年生活 / Early Life (1882-1913)
+
+| 年份 / Year | 事件 / Event |
+|------|------|
+| 1882 | 3月30日生于维也纳。原名梅兰妮·赖齐斯（Melanie Reizes），是家中四个孩子中最小的。父亲莫里茨·赖齐斯是一名犹太医生，母亲利布莎·多伊奇是店主。 Born March 30 in Vienna. Originally Melanie Reizes, the youngest of four children. Father Moriz Reizes was a Jewish physician, mother Libussa Deutsch was a shopkeeper. |
+| 1892 | 父亲莫里茨去世，家庭经济陷入困境。克莱因的哥哥西格蒙德（Sigismund）是她最亲密的伴侣，后来也去世了。Father Moriz died, family fell into financial difficulties. Klein's brother Sigismund was her closest companion; he later died. |
+| 1900 | 与化学工程师阿图尔·克莱因（Arthur Klein）订婚。Engaged to Arthur Klein, a chemical engineer. |
+| 1902 | 母亲利布莎去世。这一丧失对克莱因产生了深远影响——她后来在论文中多次探讨丧失与哀悼的主题。Mother Libussa died. This loss had a profound impact on Klein—she later explored the themes of loss and mourning repeatedly in her papers. |
+| 1903 | 与阿图尔·克莱因结婚。婚后在布达佩斯生活。Married Arthur Klein. Lived in Budapest after marriage. |
+| 1904 | 长子梅利塔（Melitta）出生。First child, Melitta, born. |
+| 1907 | 次子汉斯（Hans）出生（后改名 Erich）。Second son, Hans, born (later renamed Erich). |
+| 1910 | 女儿格蕾特（Grete）出生。克莱因在此时期经历了严重的抑郁。Daughter Grete born. Klein experienced severe depression during this period. |
+
+## 精神分析的起点 / Beginnings in Psychoanalysis (1914-1925)
+
+| 年份 / Year | 事件 / Event |
+|------|------|
+| 1914 | 在布达佩斯开始接受桑多尔·费伦齐（Sándor Ferenczi）的精神分析。这一经历激发了她对精神分析的兴趣。Began psychoanalysis with Sándor Ferenczi in Budapest. This experience sparked her interest in psychoanalysis. |
+| 1916 | 费伦齐鼓励克莱因分析儿童。她开始分析自己的孩子——这在当时是一个大胆的创新。Ferenczi encouraged Klein to analyze children. She began analyzing her own children—this was a bold innovation at the time. |
+| 1918 | 在匈牙利精神分析学会上发表第一篇论文。Presented first paper at the Hungarian Psychoanalytic Society. |
+| 1919 | 发表第一篇正式论文"Der Familienroman in statu nascendi"。与丈夫分居。Published first formal paper "Der Familienroman in statu nascendi." Separated from husband. |
+| 1920 | 与卡尔·亚伯拉罕（Karl Abraham）建立联系，受邀到柏林工作。Established contact with Karl Abraham, invited to work in Berlin. |
+| 1921 | 移居柏林，加入柏林精神分析研究所。开始系统地进行儿童精神分析。Moved to Berlin, joined the Berlin Psychoanalytic Institute. Began systematic child psychoanalysis. |
+| 1924 | 亚伯拉罕对克莱因的工作表示支持，但他在1925年突然去世，这使克莱因在柏林失去了重要的支持者。Abraham expressed support for Klein's work, but he died suddenly in 1925, leaving Klein without an important supporter in Berlin. |
+| 1925 | 受邀到伦敦进行一系列讲座。厄内斯特·琼斯（Ernest Jones）邀请她在伦敦工作。Invited to London for a series of lectures. Ernest Jones invited her to work in London. |
+
+## 伦敦时期：理论发展 / London Period: Theoretical Development (1926-1945)
+
+| 年份 / Year | 事件 / Event |
+|------|------|
+| 1926 | 正式移居伦敦，加入英国精神分析学会。Formally moved to London, joined the British Psychoanalytical Society. |
+| 1927 | 在"儿童分析座谈会"（Symposium on Child Analysis）上与安娜·弗洛伊德公开辩论。At the "Symposium on Child Analysis," publicly debated with Anna Freud. |
+| 1932 | 出版《儿童精神分析》（*The Psycho-Analysis of Children*），系统阐述游戏技术和儿童精神分析理论。Published *The Psycho-Analysis of Children*, systematically articulating play technique and child psychoanalysis theory. |
+| 1933 | 女儿梅利塔（Melitta Schmideberg）接受分析训练后公开反对母亲的理论——这给克莱因带来了巨大的个人痛苦。Daughter Melitta (Schmideberg), after completing analytic training, publicly opposed her mother's theories—this caused Klein immense personal pain. |
+| 1935 | 首次系统阐述抑郁位态概念。First systematic articulation of the depressive position concept. |
+| 1937 | 出版《爱、内疚与修复》（*Love, Guilt and Reparation*）。Published *Love, Guilt and Reparation*. |
+| 1939 | 弗洛伊德在伦敦去世。克莱因的理论地位逐渐上升。Freud died in London. Klein's theoretical standing gradually rose. |
+| 1940 | 发表"哀悼及其与躁狂-抑郁状态的关系"。Published "Mourning and Its Relation to Manic-Depressive States." |
+| 1941 | 儿子汉斯（Erich）在二战中去世。这一丧失深刻影响了克莱因后来的理论思考。Son Erich (Hans) died in World War II. This loss profoundly influenced Klein's later theoretical thinking. |
+| 1942-1944 | 英国精神分析学会的"大论争"（Controversial Discussions）。克莱因学派与安娜·弗洛伊德学派进行激烈的理论和实践辩论。"Controversial Discussions" in the British Psychoanalytical Society. Intense theoretical and practical debates between the Kleinian school and Anna Freud school. |
+| 1944 | 大论争结束。英国精神分析学会分裂为三个团体：克莱因学派、安娜·弗洛伊德学派和中间派（独立学派）。Controversial Discussions ended. British Psychoanalytical Society split into three groups: Kleinian school, Anna Freud school, and Middle Group (Independent school). |
+| 1945 | 发表"俄狄浦斯情结在早期焦虑中的光照"。Published "The Oedipus Complex in the Light of Early Anxieties." |
+
+## 晚期：理论成熟 / Late Period: Theoretical Maturity (1946-1960)
+
+| 年份 / Year | 事件 / Event |
+|------|------|
+| 1946 | 发表"关于分裂样机制的若干说明"——首次提出偏执-分裂位态和投射性认同。Published "Notes on Some Schizoid Mechanisms"—first formulation of paranoid-schizoid position and projective identification. |
+| 1952 | 与同事合著《精神分析的发展》（*Developments in Psycho-Analysis*）。Co-authored *Developments in Psycho-Analysis* with colleagues. |
+| 1955 | 发表"精神分析游戏技术的历史和意义"以及"论认同"。Published "The Psycho-Analytic Play Technique" and "On Identification." |
+| 1957 | 出版《嫉羡与感恩》（*Envy and Gratitude*）——这是她最后的重要理论贡献，探讨了嫉羡的破坏性和感恩的治愈力量。Published *Envy and Gratitude*—her final major theoretical contribution, exploring the destructiveness of envy and the healing power of gratitude. |
+| 1958 | 发表"论力比多理论的发展"。Published "On the Development of Libido Theory." |
+| 1959 | 发表"我们的成人世界及其在婴儿期的根源"。Published "Our Adult World and Its Roots in Infancy." |
+| 1960 | 9月22日在伦敦去世，享年78岁。Died September 22 in London, aged 78. |
+| 1961 | 遗著《一个儿童分析的叙述》（*Narrative of a Child Analysis*）出版——记录了对十岁男孩理查德的分析。Posthumous publication of *Narrative of a Child Analysis*—record of the analysis of a ten-year-old boy, Richard. |
+| 1963 | 遗著"论孤独感"（"On the Sense of Loneliness"）发表。Posthumous publication of "On the Sense of Loneliness." |
+
+## 遗产 / Legacy
+
+- 克莱因学派成为英国精神分析的重要力量，延续至今。 The Kleinian school became an important force in British psychoanalysis, continuing to this day.
+- 投射性认同概念被比昂、奥格登等后继者发展为当代精神分析的核心概念。 The concept of projective identification was developed by successors like Bion and Ogden into a core concept of contemporary psychoanalysis.
+- 克莱因的游戏技术至今仍是儿童心理治疗的重要方法。 Klein's play technique remains an important method in child psychotherapy.
+- 梅兰妮·克莱因信托基金（Melanie Klein Trustees）继续维护和推广她的学术遗产。 The Melanie Klein Trustees continue to maintain and promote her academic legacy.

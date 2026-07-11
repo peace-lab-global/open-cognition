@@ -1,0 +1,37 @@
+---
+id: cognitive-systems.naturalistic-decision.endsley-reading-list
+title: 恩兹利态势感知进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: endsley
+tags: [endsley, reading-guide, situation-awareness]
+cross-refs: [{id: endsley, relation: thinker}]
+---
+
+# 恩兹利态势感知进阶阅读
+
+## 入门
+1. Endsley, M. R. (1995). "Toward a Theory of Situation Awareness in Dynamic Systems." *Human Factors*, 37(1), 32-64. — SA三级模型奠基论文
+2. Endsley, M. R. (2012). *Designing for Situation Awareness*, 第1-3章. — SA导向设计入门
+3. Durso, F. T., & Gronlund, S. D. (1999). "Situation Awareness." In *Handbook of Applied Cognition*. Wiley. — SA概念综述
+
+## 原典
+- Endsley, M. R. (1995). "Toward a Theory of Situation Awareness in Dynamic Systems." *Human Factors*, 37(1), 32-64.
+- Endsley, M. R., & Garland, D. J. (Eds.). (2000). *Situation Awareness Analysis and Measurement*. Lawrence Erlbaum Associates.
+- Endsley, M. R. (2012). *Designing for Situation Awareness: An Approach to User-Centered Design* (2nd ed.). CRC Press.
+
+## 二手研究
+- Stanton, N. A., et al. (2006). "Distributed Situation Awareness in Dynamic Systems." *Ergonomics*, 49(12-13), 1288-1311.
+- Salmon, P. M., et al. (2008). "What Really Is Going On? Review of Situation Awareness Models for Individuals and Teams." *Theoretical Issues in Ergonomics Science*, 9(4), 297-323.
+- Parasuraman, R., Sheridan, T. B., & Wickens, C. D. (2000). "A Model for Types and Levels of Human Interaction with Automation." *IEEE Transactions on SMC*, 30(3), 286-297.
+
+## 中文资源
+- 恩兹利相关章节见《人因工程学》教材（多版本中译本）
+- 《态势感知：测量、分析与应用》（相关中译章节）
+- 国内航空人因研究中对SA三级模型的应用文献
+
+## 相关概念文件
+- [态势感知 Situation Awareness](../../concepts/situation-awareness.md)
+- [认知负荷 Cognitive Load](../../concepts/cognitive-load.md)
+- [脱环问题 Out-of-the-Loop](../../concepts/out-of-the-loop.md)

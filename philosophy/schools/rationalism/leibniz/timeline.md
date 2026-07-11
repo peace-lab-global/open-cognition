@@ -1,0 +1,104 @@
+---
+id: leibniz-timeline
+title: 莱布尼茨思想年表 · Leibniz Intellectual Timeline
+type: timeline
+domain: philosophy
+thinker: leibniz
+---
+
+# 莱布尼茨思想年表 · Leibniz Intellectual Timeline
+
+## 早年与教育 · Early Years and Education (1646–1672)
+
+| 年份 | 事件 |
+|------|------|
+| 1646 | 7月1日生于莱比锡，父亲为莱比锡大学道德哲学教授 |
+| 1652 | 父亲去世，留下丰富的藏书，小莱布尼茨开始自学 |
+| 1661 | 进入莱比锡大学学习哲学和法律（年仅15岁） |
+| 1663 | 获哲学学士学位 |
+| 1666 | 完成博士论文《论组合术》，莱比锡大学拒绝授予博士学位（因过于年轻）；在阿尔特多夫大学获得法学博士 |
+| 1667 | 拒绝阿尔特多夫大学教授职位，选择投身公共服务 |
+
+| Year | Event |
+|------|-------|
+| 1646 | Born 1 July in Leipzig; father is professor of moral philosophy at Leipzig University |
+| 1652 | Father dies, leaving a rich library; young Gottfried begins self-education |
+| 1661 | Enters Leipzig University to study philosophy and law (aged 15) |
+| 1663 | Receives Bachelor of Philosophy |
+| 1666 | Completes doctoral dissertation *De Arte Combinatoria*; Leipzig refuses doctorate (too young); obtains law doctorate from Altdorf |
+| 1667 | Declines professorship at Altdorf, choosing public service |
+
+## 巴黎时期 · The Paris Period (1672–1676)
+
+| 年份 | 事件 |
+|------|------|
+| 1672 | 受美因茨选帝侯派遣出使巴黎，结识惠更斯、阿尔诺等学者 |
+| 1673 | 访问伦敦，会见英国皇家学会成员；展示机械计算器 |
+| 1674 | 在惠更斯指导下深入研究数学，开始发展微积分 |
+| 1675 | 微积分基本方法形成，创造dx、dy、∫等符号 |
+| 1676 | 巴黎使命结束；途经海牙，与斯宾诺莎进行数日深入交谈 |
+
+| Year | Event |
+|------|-------|
+| 1672 | Sent to Paris by the Elector of Mainz; meets Huygens, Arnauld, and other scholars |
+| 1673 | Visits London, meets Royal Society members; demonstrates mechanical calculator |
+| 1674 | Studies mathematics intensively under Huygens; begins developing calculus |
+| 1675 | Basic calculus methods formed; creates dx, dy, ∫ notation |
+| 1676 | Paris mission ends; travels via The Hague, spending several days in deep conversation with Spinoza |
+
+## 汉诺威时期 · The Hanover Period (1676–1716)
+
+| 年份 | 事件 |
+|------|------|
+| 1676 | 就任汉诺威不伦瑞克-吕讷堡公爵的图书馆长和顾问 |
+| 1684 | 发表微积分论文《一种新方法》（Nova Methodus） |
+| 1686 | 完成《形而上学谈》（生前未出版）；开始与阿尔诺的通信 |
+| 1695 | 在公开出版物中首次使用"前定和谐体系"术语 |
+| 1698 | 发表《自然的新体系》（Système nouveau） |
+| 1700 | 参与创建柏林科学院（现柏林-勃兰登堡科学院），担任首任院长 |
+| 1703 | 在《学者杂志》上发表二进制算术论文，提到与《易经》卦象的相似性 |
+| 1704 | 完成《人类理智新论》（生前未出版，1765年才出版） |
+| 1710 | 出版《神义论》——生前唯一出版的哲学专著 |
+| 1714 | 撰写《单子论》和《自然与神恩原理》 |
+| 1715–1716 | 与克拉克就空间和时间的本质进行著名通信 |
+| 1716 | 11月14日在汉诺威去世，葬礼极为简朴 |
+
+| Year | Event |
+|------|-------|
+| 1676 | Appointed librarian and counselor to the Duke of Brunswick-Lüneburg in Hanover |
+| 1684 | Publishes calculus paper *Nova Methodus* |
+| 1686 | Completes *Discourse on Metaphysics* (unpublished in his lifetime); begins Arnauld correspondence |
+| 1695 | First uses "system of pre-established harmony" in a public publication |
+| 1698 | Publishes *New System of Nature* (*Système nouveau*) |
+| 1700 | Helps found the Berlin Academy of Sciences; serves as first president |
+| 1703 | Publishes binary arithmetic paper in *Journal des sçavants*, noting similarity to *Yijing* hexagrams |
+| 1704 | Completes *New Essays on Human Understanding* (unpublished until 1765) |
+| 1710 | Publishes *Theodicy* — only philosophy book published in his lifetime |
+| 1714 | Writes *Monadology* and *Principles of Nature and Grace* |
+| 1715–1716 | Famous correspondence with Clarke on space and time |
+| 1716 | Dies 14 November in Hanover; funeral notably sparse |
+
+## 身后影响 · Posthumous Legacy
+
+| 年份 | 事件 |
+|------|------|
+| 1759 | 伏尔泰出版《老实人》，讽刺莱布尼茨的乐观主义 |
+| 1765 | 《人类理智新论》首次出版 |
+| 1846 | 《形而上学谈》被发现并出版 |
+| 1875–1890 | 格哈特编辑出版莱布尼茨哲学著作集（7卷） |
+| 1923– | 普鲁士科学院开始出版莱布尼茨全集（Sämtliche Schriften und Briefe），至今仍在进行 |
+| 1960s | 克里普克在模态逻辑中重新引入"可能世界"语义学 |
+
+| Year | Event |
+|------|-------|
+| 1759 | Voltaire publishes *Candide*, satirizing Leibnizian optimism |
+| 1765 | *New Essays on Human Understanding* first published |
+| 1846 | *Discourse on Metaphysics* discovered and published |
+| 1875–1890 | Gerhardt edits Leibniz's philosophical works (7 volumes) |
+| 1923– | Prussian Academy begins publishing complete works (*Sämtliche Schriften und Briefe*), still ongoing |
+| 1960s | Kripke reintroduces "possible worlds" semantics in modal logic |
+
+## 参考文献 / References
+
+- Aiton, E. J. (1985). *Leibniz: A Biography*. Adam Hilger.
+- Jolley, N. (1995). *The Cambridge Companion to Leibniz*. Cambridge University Press.

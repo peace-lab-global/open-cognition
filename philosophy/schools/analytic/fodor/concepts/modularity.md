@@ -1,0 +1,45 @@
+---
+id: fodor-modularity
+title: 心智模块 · Modularity of Mind
+type: concept
+thinker: fodor
+domain: philosophy
+school: analytic
+tags: [modularity, encapsulation, perception, cognition]
+---
+# 心智模块 · Modularity of Mind
+
+## 概念定位 / Conceptual Position
+输入系统（感知、语言理解）是模块化的——信息封装、领域特异、强制性。中央系统（思维、决策）不是模块化的。
+
+Input systems are modular — informationally encapsulated, domain-specific, mandatory. Central systems are not modular.
+
+## 核心论述 / Core Argument
+
+### 模块的特征 / Module Features
+1. 领域特异性（domain specificity）
+2. 信息封装（informational encapsulation）
+3. 强制性（mandatory operation）
+4. 快速处理
+5. 浅层输出（shallow outputs）
+6. 固定神经结构
+7. 特定的故障模式
+
+### 信息封装 / Informational Encapsulation
+模块不被高层认知状态（信念、期望）影响。证据：视觉错觉即使知道原理仍然有效。
+
+Modules are not influenced by higher-level cognitive states. Evidence: visual illusions persist even when you know how they work.
+
+## 哲学意义 / Philosophical Significance
+认知科学的核心范式之一，影响认知架构设计和心理语言学。
+
+## 东西方对话 / East-West Dialogue
+### 与阿毗达磨"心所" / With Abhidharma's "Mental Factors"
+阿毗达磨的"心所"（caitta）是伴随主识的心理因素——可被视为某种"心理功能模块"，但心所不是信息封装的，而是与主识同时运作。
+
+Abhidharma's "mental factors" could be seen as psychological "modules" but they are not informationally encapsulated.
+
+## 相关概念 / Related Concepts
+- [思维语言 Language of Thought](language-of-thought.md)
+- [计算主义 Computationalism](computationalism.md)
+- [福多主页](../README.md)

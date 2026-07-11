@@ -1,0 +1,91 @@
+---
+id: thompson-concept-enactivism
+title: 生成认知 · Enactivism
+type: concept
+domain: philosophy
+school: phenomenology
+thinker: thompson
+tags: [enactivism, enaction, structural-coupling, bringing-forth, perception-action]
+cross-refs:
+  - id: thompson
+    relation: thinker
+  - id: thompson-concept-mind-in-life
+    relation: 基础
+  - id: thompson-concept-sense-making
+    relation: 关联
+---
+
+# 生成认知 · Enactivism
+
+> "Cognition is not the representation of a pre-given world by a pre-given mind but rather the enactment of a world and a mind on the basis of a history of the variety of actions that a being in the world performs."
+> -- Varela, Thompson & Rosch, *The Embodied Mind* (1991)
+
+## 核心定义
+
+生成认知 (enactivism / enaction) 是汤普森与 Varela、Rosch 在 *The Embodied Mind* (1991) 中提出的认知理论范式。其核心主张是:**认知不是大脑对预先存在的世界的被动表征 (representation),而是有机体通过其感知-行动的历史主动"生成" (enact) 一个世界的过程。** 世界不是被发现的 (discovered),而是被"活出来的" (brought forth)。
+
+Enactivism holds that cognition is not the brain's mirror of a ready-made world but the organism's active **bringing-forth** of a world through its history of perception-action coupling.
+
+## 反表征主义 (Anti-Representationalism)
+
+生成认知的第一个也是最激进的论点是**反表征主义**。主流认知科学 (计算主义 computationalism) 将认知理解为:
+
+1. 存在一个独立于认知者的客观世界;
+2. 认知者在大脑中建构这个世界的内部表征 (internal representation);
+3. 认知的成功在于表征与世界的准确对应 (correspondence)。
+
+汤普森认为这个框架有三个根本问题:
+- **预先给予的世界** (pre-given world):世界并非独立于认知者而存在 -- 有机体的感知能力决定了什么样的"世界"对它显现。蝙蝠的超声波世界和人类的可见光世界是不同的"生成"。
+- **预先给予的心智** (pre-given mind):心智也不是一个固定的"处理器" -- 它是在与环境的耦合中不断变化的。
+- **框架问题** (frame problem):表征主义无法解释有机体如何从无穷的环境信息中选择"相关的"信息 -- 因为"相关性"本身就是由有机体的生存需要决定的。
+
+## 结构耦合 (Structural Coupling)
+
+生成认知的核心机制是**结构耦合** (structural coupling),这一概念来自 Maturana 和 Varela 的生物学:
+
+- 有机体不是被动地接收环境的"输入",也不是主动地向环境"输出";
+- 有机体与环境之间是一种**互相触发的动态关系** -- 环境的变化触发有机体内部的结构性变化,有机体的行动也改变环境;
+- 这种耦合是**历史性的** -- 有机体与环境的耦合方式是在其个体发生史 (ontogeny) 和种系发生史 (phylogeny) 中逐渐形成的;
+- 结构耦合的结果是:有机体和环境**共同决定**了彼此 -- 不存在独立的"有机体"和"环境",只有"有机体-环境耦合系统"。
+
+Structural coupling is the mechanism by which organism and environment reciprocally specify each other through a history of interactions. Neither exists independently of this coupling.
+
+## "带出一个世界" (Bringing-Forth a World)
+
+汤普森用"bringing-forth" (带出、生成) 来描述认知活动:
+
+- **不是建构主义** (constructivism):建构主义仍然预设一个"原材料"被心智加工 -- 生成认知拒绝这种二元;
+- **不是实在论** (realism):实在论认为世界独立于认知者 -- 生成认知认为"世界"总是对某个有机体显现的世界;
+- **是中道** (middle way):汤普森明确将生成认知与佛教中观 (Madhyamaka) 的"中道" (madhyama pratipad) 联系起来 -- 既不执取独立的世界,也不执取独立的心智,二者是互相依存的。
+
+这就是 *The Embodied Mind* 中著名的"空" (emptiness / sunyata) 与生成认知的联结:世界和心智都是"空"的 -- 不是不存在,而是没有独立自存的本性,只有在关系性过程中才能被理解。
+
+## 生成认知的三个层次
+
+| 层次 | 描述 | 例子 |
+|------|------|------|
+| 生物层次 | 最基本的感知-行动耦合 | 细菌趋化性、免疫系统 |
+| 感知-运动层次 | 身体作为认知媒介 | 颜色感知依赖运动;触觉依赖探索 |
+| 主体间层次 | 认知在社会互动中生成 | 语言、文化、共享意义 |
+
+## 与预测加工的张力
+
+生成认知与预测加工 (predictive processing, Friston/Clark) 之间存在核心方法论分歧:
+- 预测加工仍然保留了"内部模型" (internal model) 和"推断" (inference) 的表征主义语言;
+- 生成认知认为,即使使用"预测"这一概念,也需要从**非表征主义**的角度理解 -- 预测不是脑内的"假设",而是有机体-环境耦合的动态调节;
+- 汤普森主张,真正的生成认知应该**激进地**放弃一切表征主义概念,而非将其重新包装。
+
+## 与佛教中观的对话
+
+生成认知与龙树中观的结构呼应是 *The Embodied Mind* 最具原创性的贡献之一:
+
+- **缘起 (pratityasamutpada)**:一切现象依缘而生,无独立自性 -- 生成认知同样主张认知和世界都是在耦合过程中生成的;
+- **中道**:既不执取实在论,也不执取消除论 -- 生成认知拒绝"预先给予的世界"和"纯粹的建构主义";
+- **空 (sunyata)**:不是虚无,而是无独立自存性 -- 世界和心智都是关系性的、过程性的。
+
+## 返回
+
+- [汤普森主条目](../README.md)
+- [生命-心智连续性](mind-in-life.md) -- 生成认知的生物学根基
+- [意义建构](sense-making.md) -- 生成认知中的意义创造活动
+- [4E 认知](embodied-cognition.md) -- 生成认知在更广泛的具身认知运动中的位置

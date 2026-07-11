@@ -1,0 +1,115 @@
+---
+id: locke-toleration
+title: "宗教宽容 · Toleration"
+type: concept
+thinker: locke
+domain: ethics-politics
+school: social-contract
+tags:
+  - toleration
+  - 宗教宽容
+  - religious-freedom
+  - 宗教自由
+  - separation
+  - locke
+cross-refs:
+  - id: locke
+    relation: thinker
+  - id: rawls
+    relation: 发展
+  - id: bayle
+    relation: 平行
+---
+
+# 宗教宽容 · Toleration
+
+## 概念概述 / Concept Overview
+
+洛克的宗教宽容理论是他最 enduring 的政治哲学遗产之一。洛克主张：国家不应干涉个人的宗教信仰与实践——政府的职责限于保护**世俗权利**（生命、自由、财产），灵魂救赎（salvation）属于教会的领域，不在国家的管辖范围之内。这一理论构成了现代**宗教自由**和**政教分离**原则的哲学基础，深刻影响了美国宪法第一修正案和西方自由民主制度的构建。
+
+Locke's theory of religious toleration is among his most enduring contributions to political philosophy. Locke argues: the state should not interfere with individual religious belief or practice — government's role is limited to protecting **civil interests** (life, liberty, property), while the care of souls (salvation) belongs to the domain of the church, outside the state's jurisdiction. This theory constitutes the philosophical foundation of modern **religious freedom** and **church-state separation**, profoundly influencing the First Amendment of the U.S. Constitution and the construction of Western liberal democracy.
+
+然而，洛克的宽容并非无限的——他将天主教徒、无神论者和"不宽容者"排除在宽容的范围之外。这些排除既反映了十七世纪的历史局限，也提出了至今仍然困扰自由主义的核心问题：宽容的边界在哪里？一个宽容的社会是否应当宽容那些不宽容的人？
+
+However, Locke's toleration was not unlimited — he excluded Catholics, atheists, and "the intolerant" from its scope. These exclusions reflect seventeenth-century historical limitations while raising core questions that continue to trouble liberalism today: where are the boundaries of toleration? Should a tolerant society tolerate those who are intolerant?
+
+## 理论内涵 / Theoretical Content
+
+### 政教分离的三个论证 / Three Arguments for Church-State Separation
+
+洛克为宗教宽容提出了三个独立但相互支持的论证：
+
+Locke offered three independent but mutually reinforcing arguments for religious toleration:
+
+**职能论证**（Jurisdictional Argument）：国家（commonwealth）是一个人们为了保护世俗利益而自愿组成的社会。它的权力仅限于"外在的力量"（outward force）——即法律、武力和惩罚。灵魂救赎不在这个职能范围之内——"真正的宗教的一切生命和力量存在于心灵内在的说服中"。 / A commonwealth is a society voluntarily constituted for the protection of civil interests. Its power extends only to "outward force" — laws, arms, and punishment. The care of souls falls outside this jurisdiction — "all the life and power of true religion consists in the inward persuasion of the mind."
+
+**效力论证**（Efficacy Argument）：强制不能产生真正的信仰。信仰的本质是**内在的说服**——你可以通过暴力强迫人们做出宗教行为（参加弥撒、跪拜），但你无法强迫他们真正**相信**什么。因此，宗教迫害不仅是不道德的，而且是**无效的**——它无法实现其宣称的目标（灵魂救赎）。 / Coercion cannot produce genuine belief. Belief is essentially an **inward persuasion** — you can force people through violence to perform religious acts (attend mass, kneel), but you cannot force them to genuinely **believe** anything. Therefore, religious persecution is not only immoral but **ineffective** — it cannot achieve its stated goal (salvation).
+
+**知识论证**（Epistemic Argument）：没有人能确知哪条宗教道路是真正正确的。世界上有众多的宗教和教派，每个君主都声称自己拥有真理——但他们不可能全都正确。如果只有一个人拥有真理，那么由君主决定宗教的结果是：正确的概率微乎其微。因此，让每个人自己判断自己的灵魂救赎之路，是更合理的选择。 / No one can know with certainty which religious path is truly correct. There are many religions and sects in the world, each monarch claiming to possess the truth — but they cannot all be right. If only one has the truth, then having monarchs decide religion yields vanishingly small odds of correctness. Therefore, letting each person judge their own path to salvation is the more rational choice.
+
+### 宽容的边界 / The Limits of Toleration
+
+洛克的宽容有其明确的边界，这些边界在今天看来充满争议：
+
+Locke's toleration has explicit boundaries that remain controversial today:
+
+**不宽容天主教徒**：洛克认为天主教徒对教皇的效忠构成了对世俗主权的威胁——一个同时效忠两个主权者的人是政治上的危险分子。此外，天主教教义中的"异端分子不受信仰约束"（fides non est servanda cum haereticis）原则本身就否定了宽容的基础。 / Locke held that Catholics' allegiance to the Pope constituted a threat to civil sovereignty — one who owes allegiance to two sovereigns is politically dangerous. Moreover, the Catholic doctrine that "faith need not be kept with heretics" itself undermines the foundation of toleration.
+
+**不宽容无神论者**：洛克认为无神论者否认上帝的存在，因此无法被誓言和承诺所约束——在一个依赖誓言作为社会信任基础的时代，无神论者被视为社会契约的潜在破坏者。 / Locke held that atheists, denying God's existence, could not be bound by oaths and promises — in an era dependent on oaths as the foundation of social trust, atheists were seen as potential destroyers of the social contract.
+
+**不宽容"不宽容者"**：主张宗教迫害的教派不应被宽容——因为他们一旦获得权力就会消灭宽容本身。这可以被视为"宽容悖论"（paradox of toleration）的早期表述。 / Sects that advocate religious persecution should not be tolerated — because once in power they would destroy toleration itself. This can be seen as an early formulation of the "paradox of toleration."
+
+### 教会作为自愿团体 / The Church as a Voluntary Society
+
+洛克将教会定义为一种**自愿团体**（voluntary society）——人们基于自己的信仰自由地加入或退出。教会没有强制权力，其最严厉的惩罚只是开除教籍（excommunication），不得涉及任何世俗的惩罚（剥夺财产、自由或生命）。这一观点在当时极具革命性——它将教会从国家机器中剥离出来，使之成为纯粹的公民社会组织。
+
+Locke defined the church as a **voluntary society** — people freely join or leave based on their own beliefs. The church has no coercive power; its severest punishment is merely excommunication, which must not entail any civil penalties (deprivation of property, liberty, or life). This view was highly revolutionary at the time — it separated the church from the state apparatus, making it a purely civil social organization.
+
+## 思想史脉络 / Intellectual History
+
+洛克的宽容思想是在欧洲宗教战争的废墟上诞生的。十六至十七世纪的宗教战争（法国的胡格诺战争、三十年战争）造成了巨大的人员伤亡和社会破坏，迫使思想家们重新思考宗教与政治的关系。在洛克之前，伊拉斯谟（Erasmus）和卡斯泰利奥（Castellio）已提出了宽容的早期论证。与洛克同时代的皮埃尔·贝尔（Pierre Bayle）也从怀疑主义的角度论证了宽容。但洛克的独特贡献在于：他将宽容建立在**权利**的基础之上，而非仅仅建立在**实用**的考量之上——宽容不是因为宗教冲突太 costly 而不得不采取的权宜之计，而是因为每个人拥有不可剥夺的信仰自由的权利。
+
+Locke's toleration thought was born from the ruins of Europe's religious wars. The religious wars of the sixteenth and seventeenth centuries (French Wars of Religion, Thirty Years' War) caused enormous casualties and social destruction, compelling thinkers to reconsider the relationship between religion and politics. Before Locke, Erasmus and Castellio had offered early arguments for toleration. Locke's contemporary Pierre Bayle also argued for toleration from a skeptical perspective. But Locke's unique contribution was grounding toleration in **rights** rather than merely **pragmatic** considerations — toleration was not an expedient adopted because religious conflict was too costly, but because every person possesses an inalienable right to freedom of belief.
+
+洛克的宽容理论直接影响了美国宪法第一修正案（1791）和弗吉尼亚宗教自由法令（1786，杰斐逊起草）。在当代，罗尔斯在《政治自由主义》中提出的"重叠共识"（overlapping consensus）概念可以被看作洛克宽容理论在多元主义条件下的哲学重构：在一个宗教和哲学多元的社会中，不同的综合性学说如何能够在政治正义的原则上达成共识？
+
+Locke's toleration theory directly influenced the First Amendment (1791) and the Virginia Statute for Religious Freedom (1786, drafted by Jefferson). In contemporary thought, Rawls's "overlapping consensus" in *Political Liberalism* can be seen as a philosophical reconstruction of Lockean toleration under pluralistic conditions: in a society of religious and philosophical pluralism, how can different comprehensive doctrines reach consensus on principles of political justice?
+
+## 关键文本 / Key Passages
+
+> "The commonwealth seems to me to be a society of men constituted only for the procuring, preserving, and advancing their own civil interests. Civil interests I call life, liberty, health, and indolency of body; and the possession of outward things, such as money, lands, houses, furniture, and the like."
+> — *A Letter Concerning Toleration*
+
+> "在我看来，国家是由人们组成的一个社会，其目的仅仅是获取、保存和促进他们自己的世俗利益。我所说的世俗利益是指生命、自由、健康和身体的安逸，以及对外在事物的占有，如金钱、土地、房屋、家具等。"
+
+这段引文是洛克将国家职能严格限定于世俗领域的核心声明。注意其中对"世俗利益"的具体列举——这与宗教利益的对照构成了政教分离论证的基础。
+
+This passage is the core statement of Locke's strict limitation of state function to the civil domain. Note the specific enumeration of "civil interests" — its contrast with religious interests constitutes the foundation of the church-state separation argument.
+
+## 当代应用 / Contemporary Applications
+
+洛克的宽容理论在当代面临三个核心挑战。在**多元文化主义**辩论中，洛克的宽容边界问题重新浮现：自由民主社会是否应当宽容那些在其内部实行不宽容政策的社群（例如限制女性权利或儿童教育的宗教社群）？在**世俗国家**的模式争论中，法国的"laïcité"（世俗主义）与洛克的模式存在重要差异：洛克的模式是"国家不干涉宗教"（消极宽容），法国的模式则要求"宗教退出公共领域"（积极世俗化）。在**仇恨言论**的辩论中，洛克关于"不宽容不宽容者"的立场被重新审视：当代社会是否应当宽容仇恨言论？宽容的边界是否应当由言论自由原则而非宗教原则来划定？
+
+Locke's toleration theory faces three core challenges today. In **multiculturalism** debates, the question of toleration's limits resurfaces: should liberal democratic societies tolerate communities that practice intolerance internally (e.g., restricting women's rights or children's education)? In disputes over the **secular state** model, France's "laïcité" differs significantly from Locke's approach: Locke's model is "state non-interference in religion" (negative toleration), while the French model demands "religion's withdrawal from the public sphere" (active secularization). In **hate speech** debates, Locke's position on "not tolerating the intolerant" is re-examined: should contemporary societies tolerate hate speech? Should toleration's boundaries be drawn by free speech principles rather than religious principles?
+
+## 批评与回应 / Critiques and Responses
+
+**当代自由主义批评**：洛克将天主教徒和无神论者排除在宽容之外是前后矛盾的——如果宽容的论证基础是职能、效力和知识论证，那么这些论证同样适用于天主教徒和无神论者。洛克排除他们是出于**政治恐惧**而非哲学一致性。 / Excluding Catholics and atheists is inconsistent — if toleration's arguments rest on jurisdiction, efficacy, and epistemology, these apply equally to Catholics and atheists. Locke excluded them out of **political fear** rather than philosophical consistency.
+
+**施特劳斯学派批评**：洛克的宽容表面上是中立的，实质上预设了新教个人主义的宗教观——将信仰视为个人内在事务本身就是新教偏见的体现。 / Locke's toleration is ostensibly neutral but substantively presupposes Protestant individualism — viewing faith as an inward personal matter is itself a Protestant bias.
+
+**后殖民批评**：洛克的宽容理论诞生于殖民时代——他本人参与了殖民地政策制定。宽容的"普遍主义"外衣下是否隐藏着文明等级论？ / Locke's toleration was born in the colonial era — he himself participated in colonial policy-making. Does the "universalist" veneer of toleration conceal a civilizational hierarchy?
+
+## 跨文化回响 / Cross-cultural Echoes
+
+洛克的宗教宽容理论与中国传统思想中的"三教合一"实践形成了有趣的对话。在中国历史上，儒、道、佛三教长期共存，形成了一种独特的宗教宽容模式——但这种宽容不是基于**权利论证**（如洛克），而是基于**互补性**（三教各有其功能领域）。这与洛克的"职能论证"有着结构上的相似性：每种宗教在社会中承担不同的功能，因此不应相互排斥。然而，中国传统的宽容模式也有其边界——"邪教"（如白莲教）被视为政治威胁而受到镇压，这与洛克排除"不宽容者"的逻辑如出一辙。
+
+Locke's theory of religious toleration invites interesting dialogue with the Chinese historical practice of "harmony of three teachings." In Chinese history, Confucianism, Daoism, and Buddhism long coexisted, forming a distinctive model of religious toleration — but this toleration was grounded not in **rights arguments** (as in Locke) but in **complementarity** (each teaching has its functional domain). This structurally parallels Locke's "jurisdictional argument": each religion serves different social functions and should therefore not exclude others. However, the traditional Chinese model of toleration also had limits — "heterodox sects" (such as the White Lotus Society) were viewed as political threats and suppressed, paralleling Locke's logic of excluding "the intolerant."
+
+## 延伸阅读 / Further Reading
+
+- Waldron, Jeremy. "Locke: Toleration and the Rationality of Persecution." In *Justifying Toleration*, ed. Susan Mendus. Cambridge: Cambridge University Press, 1988.
+- Creppell, Ingrid. *Toleration and Identity: Foundations in Early Modern Thought*. New York: Routledge, 2003.
+- Rawls, John. *Political Liberalism*. New York: Columbia University Press, 1993.
+- Mendus, Susan. *Toleration and the Limits of Liberalism*. Atlantic Highlands: Humanities Press, 1989.
+- 张灏.《梁启超与中国思想的过度》. 北京：新星出版社.

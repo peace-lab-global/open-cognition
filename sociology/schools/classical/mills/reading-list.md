@@ -1,0 +1,45 @@
+---
+id: mills-reading-list
+title: 米尔斯进阶书单 · Mills Reading List
+type: reading-list
+domain: sociology
+thinker: mills
+school: classical
+---
+
+# 米尔斯系统阅读指南 / Mills Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *C. Wright Mills: Letters and Autobiographical Writings* (2000) | Kathryn Mills & Pamela Mills (eds.) | 书信与自传材料 |
+| *Radical Ambition: C. Wright Mills, the Left, and American Social Thought* (2012) | Daniel Geary | 最新思想传记 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《社会学的想象力》 | 1959 | 两大范式批判；社会学想象力；附录 |
+| 《权力精英》 | 1956 | 军事-企业-政治精英交织 |
+| 《白领》（选读） | 1951 | 新中产阶级；地位恐慌 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《听着，美国佬》 | 1960 | 拉美革命；美国帝国主义 |
+| 韦伯选集（与格特合编导论） | 1946 | 韦伯在美国的接受史 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *The New Power Elite* (2013) | G. William Domhoff | 更新权力精英分析 |
+| *Sociology for Publics* | Michael Burawoy | 公共社会学与米尔斯传统 |
+
+## 四、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: 《社会学的想象力》（含附录）→ Geary传记
+**阶段二**（4-8周）: 《权力精英》→ 《白领》选读
+**阶段三**（8周+）: 政治介入著作 → 与当代权力分析的对话

@@ -1,0 +1,70 @@
+---
+id: psychology.cognitive.posner.executive-attention
+title: "执行控制 · Executive Attention"
+type: concept
+thinker: posner
+school: cognitive
+tags: [执行控制, 冲突监测, 前扣带回, 前额叶, 抑制控制, executive attention, conflict monitoring, ACC, prefrontal, inhibitory control]
+---
+
+# 执行控制 · Executive Attention
+
+## 定义 / Definition
+
+**执行控制**（Executive Attention），又称执行注意网络（Executive Control Network），是波斯纳注意力三网络模型中最"高级"的网络，负责在认知冲突、竞争或需要抑制优势反应的情境中进行监测和调节。它使个体能够在多种信息源或反应倾向之间进行选择，抑制不相关的干扰信息，并保持任务目标的激活状态。执行控制网络的核心脑区包括前扣带回皮层（ACC）和外侧前额叶皮层（lateral PFC），主要依赖多巴胺（dopamine）神经递质系统。
+
+**Executive Attention**, also known as the Executive Control Network, is the most "higher-order" network in Posner's three-network model of attention. It is responsible for monitoring and regulating cognitive conflict, competition, or situations requiring suppression of dominant responses. It enables individuals to select among multiple information sources or response tendencies, suppress irrelevant interfering information, and maintain task goal activation. The core brain regions of the executive control network include the anterior cingulate cortex (ACC) and lateral prefrontal cortex (lateral PFC), primarily relying on the dopamine neurotransmitter system.
+
+## 核心机制 / Core Mechanisms
+
+### 冲突监测理论 / Conflict Monitoring Theory
+
+执行控制的核心机制是**冲突监测**（conflict monitoring）。Botvinick 等（2001）在波斯纳理论的基础上发展了冲突监测理论，提出前扣带回（ACC）充当认知冲突的"探测器"：当多个反应倾向同时被激活时（如在 Stroop 任务中，词语的语义含义与墨色的命名反应相互竞争），ACC 检测到冲突信号，并将这一信号传递给前额叶皮层，后者通过增强任务相关信息的加工和抑制不相关信息的加工来解决冲突。
+
+The core mechanism of executive control is **conflict monitoring**. Botvinick et al. (2001) developed conflict monitoring theory based on Posner's framework, proposing that the ACC serves as a "detector" of cognitive conflict: when multiple response tendencies are simultaneously activated (as in the Stroop task, where word meaning competes with ink color naming responses), the ACC detects the conflict signal and transmits it to the prefrontal cortex, which resolves conflict by enhancing processing of task-relevant information and suppressing processing of irrelevant information.
+
+### 抑制控制 / Inhibitory Control
+
+执行控制的一个重要维度是**抑制控制**（inhibitory control），即抑制优势反应或习惯性反应的能力。这在以下经典范式中得到体现：Stroop 任务（抑制词语含义以报告墨色）、Flanker 任务（抑制侧面干扰刺激）、Go/No-Go 任务（抑制预置的"Go"反应）和 Stop-Signal 任务（取消已启动的运动反应）。抑制控制的效率是执行控制网络功能的重要指标，也是 ADHD 研究中的核心关注点。
+
+An important dimension of executive control is **inhibitory control** — the ability to suppress dominant or habitual responses. This is demonstrated in classic paradigms: the Stroop task (suppressing word meaning to report ink color), the Flanker task (suppressing flanking distractor stimuli), the Go/No-Go task (suppressing a prepotent "Go" response), and the Stop-Signal task (canceling an initiated motor response). Inhibitory control efficiency is an important indicator of executive control network function and a central focus in ADHD research.
+
+### 错误监测与调节 / Error Monitoring and Adjustment
+
+执行控制网络还负责**错误监测**（error monitoring）和随后的行为调节。当个体犯错时，ACC 会产生一个称为错误相关负电位（error-related negativity, ERN）的事件相关电位成分，这一信号触发前额叶进行认知调整，表现为犯错后的反应减慢（post-error slowing）——这被视为一种适应性的认知调节策略，旨在提高后续试次的准确性。
+
+The executive control network is also responsible for **error monitoring** and subsequent behavioral adjustment. When individuals make errors, the ACC generates an event-related potential component called error-related negativity (ERN), which triggers prefrontal cognitive adjustment, manifested as post-error slowing — considered an adaptive cognitive regulation strategy aimed at improving accuracy on subsequent trials.
+
+## 发展脉络 / Developmental Trajectory
+
+执行控制网络的发展（development）在儿童期经历了漫长的成熟过程。研究表明，执行控制效率在4-7岁之间快速提高，在青少年期继续缓慢改善，直到20多岁才达到成人水平。这与前额叶皮层的延迟成熟（myelination）密切相关。Rueda 等（2004）使用儿童版 ANT 的研究发现，执行控制网络的发展轨迹最为缓慢，明显晚于警觉和定向网络。在老年期，执行控制效率是三个网络中下降最为显著的，与前额叶多巴胺系统的退化相关。
+
+The development of the executive control network undergoes a protracted maturation process during childhood. Research shows that executive control efficiency increases rapidly between ages 4-7, continues to improve slowly during adolescence, and does not reach adult levels until the twenties. This is closely related to the delayed maturation (myelination) of the prefrontal cortex. Rueda et al. (2004), using the child version of the ANT, found that the developmental trajectory of the executive control network is the slowest, clearly lagging behind the alerting and orienting networks. In old age, executive control efficiency shows the most significant decline among the three networks, associated with degeneration of the prefrontal dopamine system.
+
+## 临床应用 / Clinical Applications
+
+执行控制网络的功能障碍与多种临床状况密切相关。在 ADHD 中，执行控制效率不足是核心缺陷之一，表现为抑制控制差、冲突解决慢和注意力容易分散。在成瘾行为中，药物依赖者的执行控制网络效率显著降低，导致对药物渴求的抑制能力不足。在强迫症（OCD）中，ACC 的过度活跃导致过度的冲突监测和错误检测，产生持续的"出错了"感觉。在抑郁症中，执行控制网络的效率降低与反刍思维（rumination）和认知僵化相关。在中风后认知障碍中，前额叶或 ACC 损伤直接导致执行控制功能的损害。基于执行控制训练的干预方案已在 ADHD、成瘾和焦虑障碍等领域展示了初步的积极效果。
+
+Executive control network dysfunction is closely associated with multiple clinical conditions. In ADHD, insufficient executive control efficiency is one of the core deficits, manifested as poor inhibitory control, slow conflict resolution, and easy distractibility. In addictive behaviors, substance-dependent individuals show significantly reduced executive control network efficiency, leading to insufficient ability to suppress drug cravings. In OCD, overactivity of the ACC leads to excessive conflict monitoring and error detection, producing persistent "something is wrong" feelings. In depression, reduced executive control network efficiency is associated with rumination and cognitive rigidity. In post-stroke cognitive impairment, prefrontal or ACC damage directly impairs executive control function. Intervention programs based on executive control training have shown preliminary positive results in ADHD, addiction, and anxiety disorders.
+
+## 关联概念 / Related Concepts
+
+- **注意力网络（Attention Networks）** → [attention-networks.md](attention-networks.md) — 三网络的整合框架 / Integrative framework of three networks
+- **认知控制（Cognitive Control）** → [cognitive-control.md](cognitive-control.md) — 执行控制的广义功能表达 / Broader functional expression of executive control
+- **警觉网络（Alerting）** → [alerting.md](alerting.md) — 为执行控制提供觉醒基础 / Provides arousal foundation for executive control
+- **定向网络（Orienting）** → [orienting.md](orienting.md) — 受执行控制的自上而下调节 / Subject to top-down modulation by executive control
+- **Stroop 效应** — 冲突监测的经典行为指标 / Classic behavioral indicator of conflict monitoring
+- **工作记忆（Working Memory）** — 与执行控制密切相关的认知功能 / Cognitive function closely related to executive control
+
+## 东西方对话 / East-West Dialogue
+
+执行控制中的"冲突解决"与佛教心理学中的"抉择"（viniścaya）概念有深刻的平行关系。在阿毗达磨传统中，慧（prajna）的功能正是在面对多重心理倾向时进行分辨和抉择——这与前扣带回在冲突情境中的功能描述高度对应。禅修传统中强调的"不执著"（non-attachment）——即不固着于任何单一的心理倾向或反应模式——可以被理解为一种训练有素的执行控制能力：在面对竞争性反应倾向时，灵活地抑制优势反应，选择与当前目标一致的反应。
+
+The "conflict resolution" in executive control has a profound parallel with the Buddhist psychology concept of "discernment" (viniścaya). In the Abhidharma tradition, the function of wisdom (prajna) is precisely to discriminate and discern among multiple mental tendencies — highly corresponding to the ACC's function in conflict situations. The "non-attachment" emphasized in meditation traditions — not fixating on any single mental tendency or response pattern — can be understood as a well-trained executive control capacity: flexibly suppressing dominant responses and selecting responses consistent with current goals when facing competing response tendencies.
+
+## 进阶阅读 / Further Reading
+
+- Botvinick, M.M., Braver, T.S., Barch, D.M., Carter, C.S., & Cohen, J.D. (2001). "Conflict monitoring and cognitive control." *Psychological Review*, 108(3), 624-652.
+- Posner, M.I. & Rothbart, M.K. (2007). *Educating the Human Brain*. Washington, DC: APA.
+- Rueda, M.R., Fan, J., McCandliss, B.D., et al. (2004). "Development of attentional networks in childhood." *Neuropsychologia*, 42(8), 1029-1040.
+- Tang, Y.Y., Holzel, B.K., & Posner, M.I. (2015). "The neuroscience of mindfulness meditation." *Nature Reviews Neuroscience*, 16(4), 213-225.

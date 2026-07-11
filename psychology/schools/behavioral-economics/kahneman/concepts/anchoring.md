@@ -1,0 +1,140 @@
+---
+id: anchoring
+title: "锚定效应 · Anchoring Effect"
+type: concept
+thinker: kahneman
+school: behavioral-economics
+tags:
+  - 锚定
+  - 认知偏差
+  - 判断与决策
+  - 谈判
+---
+
+# 锚定效应 · Anchoring Effect
+
+## 定义 · Definition
+
+**锚定效应**（Anchoring Effect）是指人们在进行数值估计或判断时，过度依赖最先接收到的信息（即"锚"），后续的判断和调整都围绕这个锚展开，且调整通常不充分。即使锚本身与判断任务毫无关系，锚定效应依然显著。这是卡尼曼与特沃斯基发现的最稳健、最具影响力的认知偏差之一。
+
+The **Anchoring Effect** refers to people's tendency to rely excessively on the first piece of information received (the "anchor") when making numerical estimates or judgments, with subsequent adjustments revolving around this anchor and typically being insufficient. Even when the anchor is completely irrelevant to the judgment task, the anchoring effect remains significant. This is one of the most robust and influential cognitive biases discovered by Kahneman and Tversky.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 两种锚定过程 · Two Anchoring Processes
+
+卡尼曼与特沃斯基最初认为锚定是一种**调整不足**（insufficient adjustment）：人们从锚出发进行调整，但由于认知惰性，调整幅度不够。后来的研究揭示了两种不同的锚定机制：
+
+Kahneman and Tversky originally attributed anchoring to **insufficient adjustment**: people start from the anchor and adjust, but due to cognitive inertia, the adjustment magnitude is insufficient. Later research revealed two distinct anchoring mechanisms:
+
+#### 1. 锚定-调整（Anchoring-and-Adjustment）
+当锚是人们**自己生成的**估计值时，他们有意识地从锚出发进行调整。但由于调整是费力的认知过程（系统2），调整通常不充分。
+
+When the anchor is a **self-generated** estimate, people consciously adjust from it. But since adjustment is an effortful cognitive process (System 2), the adjustment is typically insufficient.
+
+#### 2. 选择性通达（Selective Accessibility）
+当锚是**外部给定的**信息时，锚会激活与之一致的记忆和知识，使人们倾向于确认锚的合理性。这是一种启动效应（priming），属于系统1的自动加工。
+
+When the anchor is **externally provided** information, it activates memories and knowledge consistent with it, making people tend to confirm the anchor's plausibility. This is a priming effect, belonging to System 1's automatic processing.
+
+### 锚定效应的强度 · Strength of the Anchoring Effect
+
+研究者们用"锚定指数"（anchoring index）来量化效应大小，通常在0到1之间：0表示完全没有锚定，1表示完全被锚决定。大多数实验中，锚定指数在**0.3到0.6**之间——意味着锚解释了30%到60%的判断变异。这是一个巨大的效应量。
+
+Researchers use the "anchoring index" to quantify effect size, typically ranging from 0 to 1: 0 means no anchoring at all, 1 means the anchor completely determines the judgment. In most experiments, the anchoring index falls between **0.3 and 0.6** — meaning the anchor explains 30% to 60% of judgment variance. This is an enormous effect size.
+
+### 经典实验 · Classic Experiments
+
+**特沃斯基与卡尼曼（1974）的轮盘实验**：被试先看到一个随机转动的轮盘停在10或65上，然后被要求估计联合国中非洲国家所占的百分比。看到10的被试平均估计25%，看到65的被试平均估计45%——一个完全随机的数字显著影响了专家级的政治判断。
+
+**Tversky and Kahneman (1974) roulette experiment**: Subjects first saw a rigged roulette wheel stop at 10 or 65, then estimated the percentage of African nations in the United Nations. Those who saw 10 estimated an average of 25%; those who saw 65 estimated an average of 45% — a completely random number significantly influenced expert-level political judgments.
+
+**"甘地去世年龄"实验**：被试先被问"甘地去世时是否大于/小于114岁"（或35岁），然后估计甘地的实际去世年龄（83岁）。高锚组估计显著高于低锚组。
+
+**"Gandhi's age at death" experiment**: Subjects were first asked whether Gandhi died before or after age 114 (or 35), then estimated his actual age at death (83). The high-anchor group's estimates were significantly higher than the low-anchor group's.
+
+---
+
+## 发展脉络 · Historical Development
+
+### 1974年：锚定的发现 · 1974: Discovery of Anchoring
+
+特沃斯基与卡尼曼在《科学》杂志论文中首次系统描述锚定效应，将其列为三大启发式之一（与代表性、可得性并列）。
+
+Tversky and Kahneman first systematically described the anchoring effect in their *Science* paper, listing it as one of three major heuristics (alongside representativeness and availability).
+
+### 1990年代：机制深化 · 1990s: Mechanistic Deepening
+
+弗里茨·斯特拉克（Fritz Strack）和托马斯·穆斯韦勒（Thomas Mussweiler）提出"选择性通达模型"（Selective Accessibility Model），揭示了锚定的启动效应机制。这与早期的"调整不足"解释形成互补。
+
+Fritz Strack and Thomas Mussweiler proposed the Selective Accessibility Model, revealing anchoring's priming mechanism. This complemented the earlier "insufficient adjustment" explanation.
+
+### 2000年代至今：现实世界应用 · 2000s–Present: Real-World Applications
+
+锚定研究从实验室走向真实世界场景：价格谈判、法庭量刑、房地产估价、慈善捐款等领域都发现了显著的锚定效应。
+
+Anchoring research moved from the laboratory to real-world settings: price negotiation, courtroom sentencing, real estate appraisal, and charitable donations all show significant anchoring effects.
+
+---
+
+## 临床应用 · Applications
+
+### 商业谈判 · Business Negotiation
+率先报价的一方设定了锚——这就是为什么谈判专家通常建议"先出价"。初始报价成为整个谈判的参考框架。研究表明，即使对方是经验丰富的采购经理，锚定效应依然显著。
+
+The party who quotes first sets the anchor — this is why negotiation experts typically advise "making the first offer." The initial bid becomes the reference frame for the entire negotiation. Research shows anchoring effects remain significant even when the counterpart is an experienced procurement manager.
+
+### 房地产定价 · Real Estate Pricing
+房产的挂牌价格充当锚。实验显示，给房地产经纪人看同一套房子，但附上不同的挂牌价格（高锚 vs. 低锚），经纪人对该房产的估价会显著受到挂牌价格影响——即使他们声称自己没有受到锚的影响。
+
+A property's listing price serves as an anchor. Experiments show that when real estate agents are shown the same house with different listing prices (high anchor vs. low anchor), their appraisals are significantly influenced by the listing price — even though they claim they were not affected by the anchor.
+
+### 法律判决 · Legal Judgment
+检察官的求刑年限对法官的量刑判决产生显著锚定效应。德国的一项实验显示，经验丰富的法官在看到高求刑（12个月）时判处的刑期显著长于看到低求刑（3个月）时的刑期——差异可达数月。
+
+Prosecutors' sentencing recommendations significantly anchor judges' sentencing decisions. A German experiment showed that experienced judges imposed significantly longer sentences when exposed to high prosecution recommendations (12 months) than low ones (3 months) — with differences of several months.
+
+### 慈善捐款 · Charitable Giving
+捐款请求中提供的"建议金额"（如"每月$50"）充当锚。高锚导致更高的平均捐款额——即使大多数人最终捐的少于建议金额，也比没有锚时的平均捐款高得多。
+
+"Suggested amounts" in donation requests (e.g., "$50/month") serve as anchors. High anchors lead to higher average donations — even though most people ultimately give less than the suggested amount, the average is much higher than when no anchor is provided.
+
+---
+
+## 关联概念 · Related Concepts
+
+- [系统1与系统2](system-1-2.md) — 锚定涉及两种机制：系统1的启动效应和系统2的调整不足
+- [启发式与偏差](heuristics-biases.md) — 锚定是最稳健的启发式偏差之一
+- [前景理论](prospect-theory.md) — 锚可被视为一种特殊的参考点
+- [可得性启发](availability.md) — 锚通过选择性通达机制激活特定记忆
+- 启动效应（Priming Effect）— 选择性通达锚定的核心机制
+- 框架效应（Framing Effect）— 与锚定共享信息呈现影响判断的基本原理
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+### 禅宗"初心"· Zen Buddhism's "Beginner's Mind"
+禅宗强调"初心"（beginner's mind / 初心 shoshin）——以不带先入之见的心态面对每一个情境。铃木俊隆（Shunryu Suzuki）说："初心之中有无限可能，专家之心中只有寥寥数种。"这本质上是一种**反锚定的认知训练**：通过有意识地放下已有的"锚"（预期、成见、概念框架），恢复对当下经验的开放性。
+
+Zen Buddhism emphasizes "beginner's mind" (*shoshin*) — approaching each situation without preconceptions. Shunryu Suzuki said: "In the beginner's mind there are many possibilities, but in the expert's there are few." This is essentially an **anti-anchoring cognitive training**: by consciously releasing existing "anchors" (expectations, prejudices, conceptual frameworks), one restores openness to present experience.
+
+### 庄子"心斋"· Zhuangzi's "Fasting of the Mind"
+庄子提出"心斋"——"无听之以耳而听之以心，无听之以心而听之以气"。这是一种超越感官认知和概念思维的**深层感知状态**，本质上是通过"清空"已有的认知锚点（概念、成见、预期），达到对事物的直接领会。
+
+Zhuangzi proposed "fasting of the mind" (*xinzhai*) — "do not listen with the ears but listen with the mind; do not listen with the mind but listen with the qi." This is a **deep perceptual state** that transcends sensory cognition and conceptual thinking, essentially achieving direct apprehension of things by "emptying" existing cognitive anchors (concepts, prejudices, expectations).
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124–1131.
+- Strack, F., & Mussweiler, T. (1997). "Explaining the Enigmatic Anchoring Effect: Mechanisms of Selective Accessibility." *Journal of Personality and Social Psychology*, 73(3), 437–446.
+- Epley, N., & Gilovich, T. (2006). "The Anchoring-and-Adjustment Heuristic: Why the Adjustments Are Insufficient." *Psychological Science*, 17(4), 311–318.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Chapter 11: "Anchors."
+
+---
+
+→ 返回 [卡尼曼主页](../kahneman/README.md) | 上一个概念：[前景理论](prospect-theory.md) | 下一个概念：[可得性启发](availability.md)

@@ -1,0 +1,122 @@
+---
+id: natural-caring
+title: "自然关怀 · Natural Caring"
+type: concept
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 自然关怀
+  - 伦理关怀
+  - 道德心理学
+  - natural caring
+  - ethical caring
+  - moral psychology
+---
+
+# 自然关怀 · Natural Caring
+
+## 概念概述 / Concept Overview
+
+"自然关怀"（natural caring）是诺丁斯关怀伦理学中一个基础性的区分性概念，指的是那种出于本能、无需刻意努力就会自然发生的关怀——如母亲对孩子的爱、朋友之间的关切、恋人之中的深情。与之相对的是"伦理关怀"（ethical caring），即当我们面对不那么容易关怀的对象（如陌生人、与我们有冲突的人）时，需要有意识地调动内在的关怀理想来驱动的关怀实践。
+
+"Natural caring" is a foundational, distinguishing concept in Noddings' care ethics, referring to caring that occurs instinctively, without deliberate effort — such as a mother's love for her child, concern between friends, or deep affection between lovers. Its counterpart is "ethical caring," the caring practice that requires conscious mobilization of one's inner caring ideal when facing those who are not easily cared for (such as strangers or those with whom we are in conflict).
+
+诺丁斯认为，自然关怀是人类道德生活的原始经验和原型。我们在自然关怀中体验到"被关怀的感觉"和"关怀他人的感觉"，这些体验构成了我们理解伦理关怀的基础。当我们面对一个需要关怀但我们并不本能地想要关怀的人时，我们回忆自然关怀的理想——"我记得被关怀的感觉，所以我应当关怀你"——并将这种记忆转化为伦理行动的动力。
+
+Noddings holds that natural caring is the primal experience and prototype of human moral life. In natural caring, we experience "the feeling of being cared for" and "the feeling of caring for another"; these experiences form the foundation for understanding ethical caring. When we encounter someone who needs our care but whom we do not instinctively wish to care for, we recall the ideal of natural caring — "I remember what it felt like to be cared for, so I should care for you" — and transform this memory into the motivation for ethical action.
+
+## 理论内涵 / Theoretical Content
+
+自然关怀与伦理关怀的区分是理解诺丁斯伦理学的关键：
+
+The distinction between natural caring and ethical caring is key to understanding Noddings' ethics:
+
+**自然关怀的特征 / Features of Natural Caring:**
+自然关怀是轻松的、本能的、充满情感的。它不需要"我应当"的道德命令来驱动——母亲喂养饥饿的孩子不是因为道德义务，而是因为爱。在自然关怀中，关怀者的动机能量自然地流向被关怀者，接纳和动机替换几乎是自动发生的。诺丁斯强调，自然关怀是"善"的原始经验——它是我们生命中最早、最深刻的道德经验。
+
+Natural caring is effortless, instinctive, and emotionally full. It does not require a moral command of "I should" to motivate — a mother feeds her hungry child not out of moral obligation but out of love. In natural caring, the carer's motivational energy flows naturally toward the cared-for; engrossment and motivational displacement occur almost automatically. Noddings emphasizes that natural caring is the primal experience of "good" — it is the earliest and most profound moral experience in our lives.
+
+**伦理关怀的特征 / Features of Ethical Caring:**
+伦理关怀则需要努力。当我们面对一个我们并不本能地想要关怀的人时（如一个难以相处的学生、一个与我们有利益冲突的同事、一个来自不同文化的陌生人），我们不能仅仅依赖本能，而需要"召唤"自然关怀的理想来驱动自己。伦理关怀涉及一个关键的内在过程："我必须"（I must）的伦理命令——这个命令不是来自抽象的道德法则，而是来自对自然关怀理想的忠诚。
+
+Ethical caring, by contrast, requires effort. When we face someone we do not instinctively wish to care for (such as a difficult student, a colleague with conflicting interests, a stranger from a different culture), we cannot rely solely on instinct but must "summon" the ideal of natural caring to motivate ourselves. Ethical caring involves a crucial inner process: the ethical imperative "I must" — an imperative that comes not from abstract moral law but from fidelity to the ideal of natural caring.
+
+**"我必须"的伦理命令 / The Ethical Imperative "I Must":**
+诺丁斯对"我必须"这一伦理命令的分析是她理论中最具原创性的部分之一。在康德那里，"我应当"（I ought）来自理性对普遍法则的尊重；在诺丁斯这里，"我必须"来自对自然关怀理想的忠诚。这不是一个理性的计算或义务的履行，而是一种深层的、存在性的承诺——"如果我背叛了关怀的理想，我将无法与自己相处。"
+
+Noddings' analysis of the ethical imperative "I must" is one of the most original aspects of her theory. In Kant, "I ought" comes from reason's respect for universal law; in Noddings, "I must" comes from fidelity to the ideal of natural caring. This is not a rational calculation or fulfillment of obligation but a deep, existential commitment — "if I betray the ideal of caring, I shall not be able to live with myself."
+
+**自然关怀的优先性 / The Priority of Natural Caring:**
+诺丁斯赋予自然关怀一种特殊的优先性：自然关怀是伦理关怀的基础、标准和目的。伦理关怀之所以有意义，是因为它试图在更广泛的领域中复制和扩展自然关怀的经验。最终，伦理关怀的理想状态是使自然关怀的范围不断扩大——使我们能够自然关怀越来越多的人和事物。
+
+Noddings grants natural caring a special priority: natural caring is the foundation, standard, and purpose of ethical caring. Ethical caring is meaningful because it attempts to replicate and extend the experience of natural caring across broader domains. Ultimately, the ideal state of ethical caring is the continuous expansion of natural caring's scope — enabling us to naturally care for more and more people and things.
+
+## 思想史脉络 / Intellectual History
+
+自然关怀与伦理关怀的区分在伦理学史上有着深远的先声。亚里士多德区分了"自然德性"（natural virtue）和"完全德性"（full virtue），认为自然德性是本能的倾向，而完全德性需要通过理性和习惯来完善。休谟区分了"自然之爱"（natural affection）和"人为之德"（artificial virtue），认为自然情感是道德的基础。诺丁斯的区分继承了这些思想线索，但从关系性的角度重新组织了这个框架。
+
+The distinction between natural and ethical caring has deep antecedents in the history of ethics. Aristotle distinguished between "natural virtue" and "full virtue," holding that natural virtue is an instinctive tendency while full virtue requires refinement through reason and habit. Hume distinguished between "natural affection" and "artificial virtue," holding that natural sentiment is the foundation of morality. Noddings' distinction inherits these intellectual threads but reorganizes the framework from a relational perspective.
+
+在20世纪的道德心理学中，这一区分也与迈克尔·斯洛特（Michael Slote）的"移情伦理学"（ethics of empathy）产生了对话。斯洛特认为移情（empathy）是道德判断的基础，这与诺丁斯的自然关怀概念有着相似的功能——都是将一种自然的心理能力作为伦理学的基础。
+
+In twentieth-century moral psychology, this distinction also entered dialogue with Michael Slote's "ethics of empathy." Slote holds that empathy is the foundation of moral judgment, which has a similar function to Noddings' natural caring concept — both employ a natural psychological capacity as the foundation of ethics.
+
+## 关键文本 / Key Passages
+
+> "The first caring is natural caring. It is that form of caring that arises spontaneously, without our having to summon an ethical ideal. The mother caring for her infant is the paradigm case."
+> — Noddings, *Caring* (1984), p. 23
+
+> "第一种关怀是自然关怀。它是那种自发产生的关怀形式，无需我们召唤伦理理想。母亲关怀她的婴儿是典型的情形。"
+
+> "Ethical caring arises from our memory of natural caring. We remember the feeling of being cared for and the feeling of caring, and we summon this memory as an ideal."
+> — Noddings, *Caring* (1984), p. 25
+
+> "伦理关怀产生于我们对自然关怀的记忆。我们回忆被关怀的感觉和关怀的感觉，并将这种记忆作为理想来召唤。"
+
+这两段引文清晰地呈现了自然关怀与伦理关怀的关系：自然关怀是原初经验，伦理关怀是对这种经验的回忆和延伸。伦理关怀不是对自然关怀的否定或超越，而是其扩展——它试图将自然关怀的温暖带到那些自然关怀尚未到达的地方。
+
+These two passages clearly present the relationship between natural and ethical caring: natural caring is the primal experience, ethical caring is the recollection and extension of this experience. Ethical caring is not a negation or transcendence of natural caring but its extension — it seeks to bring the warmth of natural caring to places where it has not yet reached.
+
+## 当代应用 / Contemporary Applications
+
+自然关怀与伦理关怀的区分在当代具有多个实践意义。在社会政策领域，它为"关怀友好型"政策提供了理论基础——好的社会政策应当创造条件，使自然关怀能够自发地发生（如带薪育儿假、社区建设、老年关怀服务），而不仅仅是通过制度化的伦理关怀来弥补自然关怀的缺失。
+
+The distinction between natural and ethical caring has multiple practical implications today. In social policy, it provides a theoretical foundation for "care-friendly" policies — good social policy should create conditions in which natural caring can occur spontaneously (such as paid parental leave, community building, and elder care services), rather than merely compensating for the absence of natural caring through institutionalized ethical caring.
+
+在全球化语境中，自然关怀的扩展成为跨文化伦理的重要议题：如何将自然关怀从"我的部落"扩展到"全人类"，是当代全球伦理的核心挑战之一。诺丁斯认为，这种扩展不是通过抽象的普遍主义原则实现的，而是通过具体的跨文化相遇和关怀实践来实现的。
+
+In the context of globalization, the expansion of natural caring has become an important issue in cross-cultural ethics: how to extend natural caring from "my tribe" to "all humanity" is one of the core challenges of contemporary global ethics. Noddings argues that this expansion is achieved not through abstract universalist principles but through concrete cross-cultural encounters and caring practices.
+
+## 批评与回应 / Critiques and Responses
+
+**批评 / Critique:** 自然关怀的概念是否过于理想化？现实中的自然关怀（如亲子关系）是否真的如诺丁斯所描述的那样纯粹和无私？
+Is the concept of natural caring overly idealistic? Is natural caring in reality (such as parent-child relations) truly as pure and selfless as Noddings describes?
+
+**回应 / Response:** 诺丁斯承认自然关怀中也可能包含控制和自私的成分。但她认为，自然关怀的"理想类型"仍然具有重要的规范功能——即使现实中的自然关怀不完美，我们对自然关怀的理想记忆仍然是伦理关怀的动力来源。
+Noddings acknowledges that natural caring may also contain elements of control and selfishness. But she argues that the "ideal type" of natural caring still serves an important normative function — even if natural caring in reality is imperfect, our ideal memory of natural caring remains the motivational source for ethical caring.
+
+**批评 / Critique:** 自然关怀与伦理关怀的二分法是否过于简单？在现实中，这两种关怀是否总是清晰可分的？
+Is the binary of natural and ethical caring too simplistic? Are these two forms of caring always clearly distinguishable in reality?
+
+**回应 / Response:** 诺丁斯承认这两种关怀之间存在连续性而非截然对立。在一段长期的关怀关系中，伦理关怀可能逐渐转化为自然关怀——例如，一位教师最初需要伦理努力来关怀一个"难相处"的学生，但随着关系的深化，这种关怀变得越来越自然。
+Noddings acknowledges that there is continuity rather than a sharp dichotomy between these two forms. In a long-term caring relation, ethical caring may gradually transform into natural caring — for example, a teacher who initially needs ethical effort to care for a "difficult" student may find that caring becomes increasingly natural as the relation deepens.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在儒家传统中，"亲亲"（爱自己的亲人）与"仁民"（爱所有人）之间的关系与诺丁斯的自然关怀和伦理关怀的区分有着显著的结构相似性。孟子说"老吾老以及人之老，幼吾幼以及人之幼"（《孟子·梁惠王上》），正是描述了从自然关怀（对自己的老人和孩子的爱）向伦理关怀（对所有人的老人和孩子的爱）的扩展过程。
+
+In the Confucian tradition, the relationship between *qinqin* (亲亲, loving one's kin) and *renmin* (仁民, loving all people) bears a remarkable structural similarity to Noddings' distinction between natural and ethical caring. Mencius said, "Respect your own elders as you would have them respected, and care for your own young as you would have them cared for" (*Mencius*, Liang Huiwang I), precisely describing the process of extending natural caring (love for one's own elders and children) to ethical caring (love for all elders and children).
+
+在佛教传统中，"慈"（maitri/metta，给予快乐）和"悲"（karuna，拔除痛苦）的修行同样涉及从自然关怀到伦理关怀的扩展——修行者被要求将对亲人的爱扩展到一切众生，"如母爱独子"般关怀所有人。这与诺丁斯的自然关怀理想作为伦理关怀的动力来源有着深刻的呼应。
+
+In the Buddhist tradition, the cultivation of *maitri/metta* (loving-kindness, giving happiness) and *karuna* (compassion, removing suffering) similarly involves extending natural caring to ethical caring — practitioners are asked to extend the love for their kin to all sentient beings, caring for all "as a mother loves her only child." This resonates deeply with Noddings' ideal of natural caring as the motivational source for ethical caring.
+
+## 延伸阅读 / Further Reading
+
+- Noddings, *Caring* (1984), Ch. 1–2
+- Noddings, *Starting at Home* (2002), Part I
+- Slote, *The Ethics of Care and Empathy* (2007)
+- Aristotle, *Nicomachean Ethics*, Book VI
+- Hume, *A Treatise of Human Nature*, Book III
+- 孟子 / Mencius, 梁惠王上 / Liang Huiwang I

@@ -1,0 +1,213 @@
+---
+id: heidegger-reading-list
+title: 海德格尔进阶阅读 · Heidegger Reading List
+type: reading-list
+domain: philosophy
+school: existentialism
+thinker: heidegger
+tags: [heidegger, bibliography, reading-guide]
+cross-refs:
+  - id: heidegger
+    relation: thinker
+---
+
+# 海德格尔进阶阅读 · Heidegger Reading List
+
+## 一、阅读路径
+
+### 入门 (3 篇, 4 小时)
+
+1. **《关于人道主义的书信》** (Brief über den Humanismus, 30 页) -- 转向后的自我定位, 澄清此在概念
+2. **《技术的追问》** (Die Frage nach der Technik, 25 页) -- 技术批判经典, Gestell 概念
+3. **《存在与时间》导论** (Sein und Zeit, Einleitung, 30 页) -- 存在之问的提出
+
+### 进阶 (7 篇, 20 小时)
+
+4. 《存在与时间》第一篇全部 -- 此在分析的核心
+5. 《艺术作品的本源》 (Der Ursprung des Kunstwerkes) -- 艺术、大地与世界
+6. 《论真理的本质》 (Vom Wesen der Wahrheit) -- Aletheia (无蔽)
+7. 《筑, 居, 思》 (Bauen Wohnen Denken) -- 栖居与四重体
+8. 《在通向语言的途中》选篇 -- 语言是存在之家
+9. 《同一与差异》 (Identität und Differenz) -- 存在论差异与 Ereignis
+10. 《泰然任之》 (Gelassenheit) -- 面对技术的态度
+
+### 深潜 (全集 + 讲稿 + 哲学论稿)
+
+11. 《存在与时间》全书 (含第二篇: 时间性与此在)
+12. 《哲学论稿 (从本有而来)》 (Beiträge zur Philosophie, GA 65) -- 转向后核心手稿
+13. 《形而上学的基本概念》 (Die Grundbegriffe der Metaphysik, GA 29/30) -- 深度无聊
+14. 《尼采》 (GA 6.1/6.2) -- 形而上学的终结
+15. 早期讲稿 (GA 19, 20, 21, 24) -- 《存在与时间》的准备
+16. 《什么召唤思?》 (Was heißt Denken?) -- 晚期对"思"的追问
+
+## 二、原典 (必读)
+
+### 核心著作
+
+- 《存在与时间》 (*Sein und Zeit*, 1927)
+- 《关于人道主义的书信》 (*Brief über den Humanismus*, 1947)
+- 《林中路》 (*Holzwege*, 1950)
+- 《演讲与论文集》 (*Vorträge und Aufsätze*, 1954)
+- 《在通向语言的途中》 (*Unterwegs zur Sprache*, 1959)
+
+### 重要讲稿
+
+- 《时间概念史导论》 (*Prolegomena zur Geschichte des Zeitbegriffs*, GA 20, 1925)
+- 《现象学之基本问题》 (*Die Grundprobleme der Phänomenologie*, GA 24, 1927)
+- 《形而上学的基本概念》 (*Die Grundbegriffe der Metaphysik*, GA 29/30, 1929/30)
+- 《哲学论稿》 (*Beiträge zur Philosophie*, GA 65, 1936--1938)
+
+### 中译本推荐
+
+| 版本 | 译者 | 出版 | 说明 |
+|---|---|---|---|
+| 《存在与时间》 | 陈嘉映、王庆节 | 三联书店 | 最通行, 经多次修订 |
+| 《海德格尔文集》 (30 卷) | 孙周兴 主编 | 商务印书馆, 2015-- | 最系统的中译工程 |
+| 《林中路》 | 孙周兴 | 上海译文, 2004 | |
+| 《演讲与论文集》 | 孙周兴 | 三联书店, 2005 | |
+| 《在通向语言的途中》 | 孙周兴 | 商务印书馆, 2004 | |
+| 《哲学论稿》 | 孙周兴 | 商务印书馆, 2022 | GA 65 |
+
+## 三、二手研究
+
+### 经典传记
+
+- **Rüdiger Safranski**, *Ein Meister aus Deutschland: Heidegger und seine Zeit* (1994) -- 最完整、最平衡的传记; 中译: 《来自德国的大师: 海德格尔和他的时代》
+- **Hugo Ott**, *Martin Heidegger: A Political Life* (1993) -- 聚焦纳粹争议
+- **Rüdiger Safranski**, *Heidegger: An Introduction to His Thought* (2018) -- 较新的导论
+
+### 思想研究
+
+- **Otto Pöggeler**, *Der Denkweg Martin Heideggers* (1963) -- 最早系统阐述海德格尔思想道路的著作; 含"转向"概念的提出
+- **Otto Pöggeler**, *Heidegger's Perspective on His Philosophy* (1987) -- Pöggeler 后期的自我修正
+- **Hubert Dreyfus**, *Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I* (1991) -- 英语世界最有影响力的《存在与时间》评论
+- **Stephen Mulhall**, *Heidegger and Being and Time* (1996) -- 清晰的导论
+- **Taylor Carman**, *Heidegger's Analytic* (2003) -- 此在分析的精细解读
+- **Richard Polt**, *Heidegger: An Introduction* (1999) -- 最佳英文导论之一
+- **Iain Thomson**, *Heidegger on Ontotheology* (2005) -- 技术与教育的政治哲学
+
+### 专题研究
+
+- **Julian Young**, *Heidegger's Philosophy of Art* (2001) -- 海德格尔美学
+- **Albert Borgmann**, *Technology and the Character of Contemporary Life* (1984) -- 技术哲学
+- **Don Ihde**, *Technology and the Lifeworld* (1990) -- 后现象学
+- **Bernard Stiegler**, *Technics and Time* (三卷, 1994--2001) -- 技术与时间
+
+### 批评性研究
+
+- **Emmanuel Faye**, *Heidegger: The Introduction of Nazism into Philosophy* (2009) -- 最严厉的批评
+- **Richard Wolin** (ed.), *The Heidegger Controversy* (1993) -- 纳粹争议文献集
+- **Jürgen Habermas**, *The Philosophical Discourse of Modernity* (1985) -- 含对海德格尔的批评
+- **Theodor Adorno**, *The Jargon of Authenticity* (1964) -- 对本真性概念的批判
+
+## 四、中文资源
+
+### 专著
+
+- **孙周兴**《海德格尔晚期哲学研究》-- 国内海德格尔研究先驱
+- **张祥龙**《海德格尔思想与中国天道》(1996) -- 开创性的中西比较
+- **张祥龙**《海德格尔传》(2007) -- 最佳中文传记
+- **陈嘉映**《海德格尔哲学概论》(1995) -- 最佳中文导论
+- **靳希平**《海德格尔早期思想研究》-- 早期思想的精细分析
+- **倪梁康**《胡塞尔现象学概念通释》-- 含海德格尔与胡塞尔关系
+
+### 翻译
+
+- 陈嘉映、王庆节 译《存在与时间》(三联书店, 多次修订)
+- 孙周兴 主编《海德格尔文集》30 卷 (商务印书馆, 2015--)
+- 孙周兴 译《林中路》《在通向语言的途中》《荷尔德林诗的阐释》《哲学论稿》
+- 王庆节 译《康德与形而上学问题》
+
+### 期刊与集刊
+
+- 《世界哲学》-- 常刊海德格尔研究
+- 《哲学研究》-- 含海德格尔专题
+- 孙周兴 主编《海德格尔研究》集刊
+
+## 五、海德格尔的阅读 (他的源头)
+
+海德格尔自述其思想受以下人物影响最深:
+
+- **亚里士多德** -- 实践智慧 (phronesis)、存在者的多重意义; 此在分析的源头
+- **胡塞尔** -- 现象学方法; "回到事情本身" (Zu den Sachen selbst)
+- **克尔凯郭尔** -- 存在 (Existenz)、焦虑 (Angst)、单独的个体
+- **尼采** -- 虚无主义、权力意志、永恒轮回; "最后一个形而上学家"
+- **荷尔德林** -- 诗意语言; 晚期思想最重要的对话者
+- **赫拉克利特与巴门尼德** -- 前苏格拉底的 Logos 与 Aletheia; "另一开端"的资源
+- **康德** -- 先验想象力; 时间图型; "康德书"的创造性误读
+- **路德** -- 实际性 (Faktizität); 对经院哲学的反叛
+- **老子与庄子** -- 海德格尔曾尝试与萧师毅合译《道德经》; "道" (Tao) 与 Ereignis 的对话
+
+## 六、下游 (受他影响)
+
+### 哲学
+
+- **萨特** -- 存在主义; 将海德格尔此在分析改造为"存在先于本质"
+- **梅洛-庞蒂** -- 身体现象学; 将"在世存在"发展为身体主体性
+- **列维纳斯** -- 伦理学; 批判海德格尔的存在论优先于伦理学
+- **伽达默尔** -- 哲学诠释学; 将前理解与诠释学循环发展为效果历史意识
+- **德里达** -- 解构主义; 将存在论差异激进化为延异 (différance)
+- **阿伦特** -- 政治哲学; 将"共在" (Mitsein) 发展为公共领域理论
+- **马尔库塞** -- 批判理论; 早期将海德格尔与马克思结合
+- **罗蒂** -- 新实用主义; 将海德格尔的哲学终结论实用主义化
+
+### 其他领域
+
+- **Dreyfus** -- AI 哲学; 以海德格尔批评 GOFAI
+- **Borgmann** -- 技术哲学; 设备范式
+- **Norberg-Schulz** -- 建筑现象学; 场所精神
+- **Boss / Binswanger** -- 心理治疗; Daseinsanalyse
+- **Yalom** -- 存在主义心理治疗
+
+## 七、跨学科阅读
+
+### 建筑与空间
+
+- **Christian Norberg-Schulz**, *Genius Loci: Towards a Phenomenology of Architecture* (1980)
+- **Peter Zumthor**, *Thinking Architecture* (1998)
+- **Juhani Pallasmaa**, *The Eyes of the Skin* (1996)
+
+### 生态哲学
+
+- **Michael Zimmerman**, *Heidegger's Confrontation with Modernity* (1990)
+- **David Abram**, *The Spell of the Sensuous* (1996) -- 海德格尔与深层生态学
+- **Freya Mathews**, *For Love of Matter* (2003)
+
+### 技术哲学
+
+- **Albert Borgmann**, *Technology and the Character of Contemporary Life* (1984)
+- **Don Ihde**, *Technology and the Lifeworld* (1990)
+- **Bernard Stiegler**, *Technics and Time* (三卷)
+- **Yuk Hui (许煜)**, *The Question Concerning Technics in China* (2016) -- 海德格尔技术批判与中国技术思想
+
+### 神学
+
+- **John Caputo**, *The Prayers and Tears of Jacques Derrida* (1997) -- 含海德格尔与神学
+- **Jean-Luc Marion**, *God Without Being* (1991) -- 超越存在论的神学
+- **Reiner Schürmann**, *Heidegger on Being and Acting* (1990)
+
+### AI 与认知科学
+
+- **Hubert Dreyfus**, *What Computers Can't Do* (1972) / *What Computers Still Can't Do* (1992)
+- **Terry Winograd & Fernando Flores**, *Understanding Computers and Cognition* (1986)
+- **Evan Thompson**, *Mind in Life* (2007) -- 具身认知与海德格尔
+
+## 八、研究工具
+
+- **Heidegger Circle** (北美海德格尔学会) -- 年会与期刊
+- **Heidegger Studies** (国际期刊, Duncker & Humblot)
+- **Martin-Heidegger-Gesellschaft** -- 德国海德格尔学会
+- **Vittorio Klostermann 出版社** -- 全集 (GA) 出版者
+- **Stanford Encyclopedia of Philosophy** -- "Martin Heidegger" 词条 (Michael Wheeler)
+- **孙周兴 海德格尔网** -- 中文资源汇集
+
+## 九、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想理解《存在与时间》 | 陈嘉映《概论》-> Dreyfus -> 导论与第一篇 -> Mulhall |
+| 想了解晚期海德格尔 | 《关于人道主义的书信》-> 《技术的追问》-> Safranski 传记 -> Pöggeler |
+| 想写研究论文 | Pöggeler -> Dreyfus -> 孙周兴 -> 张祥龙 |
+| 想做跨文化比较 | 张祥龙《天道》-> [存在主义 x 唯识](../comparative/existentialism-vs-yogacara.md) -> 庄子 |
+| 想理解海德格尔与政治 | Safranski -> Ott -> Faye -> Arendt |
+| 想做跨学科应用 | Dreyfus (AI) -> Borgmann (技术) -> Norberg-Schulz (建筑) -> Yalom (心理) |

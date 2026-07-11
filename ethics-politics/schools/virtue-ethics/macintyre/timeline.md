@@ -1,0 +1,61 @@
+---
+id: macintyre-timeline
+title: "麦金泰尔生平大事记 · MacIntyre Biographical Timeline"
+type: timeline
+thinker: macintyre
+domain: ethics-politics
+school: virtue-ethics
+tags: [macintyre, timeline, biography, intellectual-history]
+cross-refs:
+  - id: macintyre
+    relation: thinker
+---
+
+# 麦金泰尔生平大事记 · MacIntyre Biographical Timeline
+
+## 早年 / Early Life (1929-1950s)
+
+- **1929** — 1月12日生于苏格兰格拉斯哥。出生于中产阶级家庭，父亲为医生。/ Born January 12 in Glasgow, Scotland, into a middle-class family; father was a doctor.
+- **1945-1949** — 就读于格拉斯哥大学，主修哲学，获硕士学位。受到亚里士多德和苏格兰启蒙传统的初步影响。/ Studied philosophy at the University of Glasgow, earning an MA. Received initial influence from Aristotle and the Scottish Enlightenment tradition.
+- **1949-1951** — 在牛津大学进修研究生课程。开始接触马克思主义，并加入英国共产党左翼知识分子圈子。/ Pursued postgraduate studies at Oxford. Began engaging with Marxism and joined left-wing intellectual circles associated with the British Communist Party.
+
+## 马克思主义阶段 / Marxist Phase (1950s-1960s)
+
+- **1951-1956** — 在曼彻斯特大学任教。同时作为《新理性者》（*New Reasoner*）等左翼刊物的撰稿人积极参与政治讨论。/ Taught at the University of Manchester while actively participating in political discussions as a contributor to left-wing journals like *New Reasoner*.
+- **1953** — 出版《马克思主义：一种阐释》（*Marxism: An Interpretation*），试图将马克思主义与人道主义基督教传统相融合。/ Published *Marxism: An Interpretation*, attempting to fuse Marxism with humanistic Christian traditions.
+- **1956** — 匈牙利事件后对苏联模式的马克思主义产生深刻不满，逐步退出共产党。但仍保持对阶级分析和社会主义价值的承诺。/ Became deeply disillusioned with Soviet Marxism after the Hungarian Revolution; gradually withdrew from the Communist Party while maintaining commitment to class analysis and socialist values.
+- **1958** — 出版《基督教信仰的困难》，探索基督教哲学问题。/ Published *Difficulties in Christian Belief*, exploring Christian philosophical problems.
+- **1961-1966** — 在利兹大学任教。开始深入研究存在主义（萨特、海德格尔）和基督教神学（巴特、蒂利希）。/ Taught at the University of Leeds. Began deep engagement with existentialism (Sartre, Heidegger) and Christian theology (Barth, Tillich).
+- **1966** — 出版《伦理学简史》（*A Short History of Ethics*），展示了对伦理学历史的广阔视野，标志着从马克思主义向更广泛哲学传统的转变。/ Published *A Short History of Ethics*, displaying a broad vision of the history of ethics and marking the transition from Marxism toward broader philosophical traditions.
+
+## 转向与探索 / Turn and Exploration (1970s)
+
+- **1970** — 移居美国，在布兰迪斯大学任教。这一决定标志着其思想从英国左翼知识分子传统向美国学术界的转变。/ Moved to the United States to teach at Brandeis University. This decision marked a shift from British left-intellectual traditions to American academia.
+- **1970-1972** — 在布兰迪斯大学期间，开始系统研究亚里士多德伦理学和托马斯主义传统。/ During his time at Brandeis, began systematic study of Aristotelian ethics and the Thomist tradition.
+- **1972** — 转入波士顿大学任教。开始发展对分析哲学传统的批判性立场。/ Moved to Boston University. Began developing a critical stance toward the analytic philosophy tradition.
+- **1978-1980** — 在威尔斯利学院（Wellesley College）任教。开始撰写《追寻美德》。/ Taught at Wellesley College. Began writing *After Virtue*.
+
+## 美德复兴 / Virtue Revival (1980s-1990s)
+
+- **1981** — 出版《追寻美德》（*After Virtue*），成为20世纪伦理学最具影响力的著作之一。该书诊断现代道德话语为情感主义，并主张回归亚里士多德美德传统。/ Published *After Virtue*, becoming one of the most influential works of twentieth-century ethics. The book diagnoses modern moral discourse as emotivist and advocates a return to the Aristotelian virtue tradition.
+- **1982** — 《追寻美德》引起广泛讨论和批评。麦金泰尔开始在范德堡大学任教（后转至杜克大学、圣母大学）。/ *After Virtue* provoked widespread discussion and criticism. MacIntyre began teaching at Vanderbilt University (later moving to Duke, then Notre Dame).
+- **1984** — 出版《追寻美德》第二版，增加后记回应批评。/ Published second edition of *After Virtue* with a postscript responding to critics.
+- **1985** — 受洗为天主教徒。这一宗教皈依标志着其思想从"世俗"转向更明确的托马斯主义立场。/ Baptized as a Catholic. This religious conversion marked a shift from "secular" to a more explicitly Thomist position.
+- **1988** — 出版《谁之正义？何种合理性？》（*Whose Justice? Which Rationality?*），系统发展"传统构成的合理性"概念。/ Published *Whose Justice? Which Rationality?*, systematically developing the concept of "tradition-constituted rationality."
+- **1990** — 出版《三种对立的道德探究》（*Three Rival Versions of Moral Enquiry*），区分百科全书派、谱系学和传统三种道德探究模式。/ Published *Three Rival Versions of Moral Enquiry*, distinguishing encyclopaedic, genealogical, and traditional modes of moral enquiry.
+- **1995** — 开始在圣母大学（University of Notre Dame）担任高级研究教授。/ Began serving as Senior Research Professor at the University of Notre Dame.
+
+## 晚期发展 / Late Development (1999-present)
+
+- **1999** — 出版《依赖性的理性动物》（*Dependent Rational Animals*），将关注焦点转向人类脆弱性和依赖性，提出"承认依赖的美德"。/ Published *Dependent Rational Animals*, shifting focus to human vulnerability and dependence, proposing "virtues of acknowledged dependence."
+- **2006** — 出版两卷本论文集：《哲学的任务》（Vol. 1）和《伦理学与政治学》（Vol. 2），由剑桥大学出版社出版。/ Published two-volume essay collections: *The Tasks of Philosophy* (Vol. 1) and *Ethics and Politics* (Vol. 2), Cambridge University Press.
+- **2007** — 出版《追寻美德》第三版，增加新后记回顾25年来的学术反响。/ Published third edition of *After Virtue* with new postscript reflecting on 25 years of scholarly response.
+- **2009** — 获美国天主教大学联合会（ACCU）颁发的教宗奖章，表彰其对天主教思想传统的贡献。/ Received the Pope Medal from the Association of Catholic Colleges and Universities for contributions to Catholic intellectual tradition.
+- **2016** — 出版《现代性冲突中的伦理学》（*Ethics in the Conflicts of Modernity*），探讨亚里士多德主义与当代社会实践之间的张力。/ Published *Ethics in the Conflicts of Modernity*, exploring tensions between Aristotelianism and contemporary social practice.
+- **至今 / Present** — 继续写作和演讲。近年来关注教育哲学、制度批判和地方性政治实践。/ Continues to write and lecture. In recent years, focusing on philosophy of education, institutional critique, and local political practice.
+
+## 历史语境 / Historical Context
+
+麦金泰尔的思想发展与20世纪的重大历史事件密切相关：冷战的政治对立塑造了他早期的马克思主义关怀；1960年代的民权运动和反战运动强化了他对自由主义的批判；1980年代新自由主义的兴起使他更加关注市场逻辑对实践的腐蚀；1990年代全球化加速推动了他对传统间理性争论的深入思考。理解这些历史背景对于把握麦金泰尔思想的演变至关重要。
+
+MacIntyre's intellectual development is closely linked to major twentieth-century historical events: Cold War political confrontation shaped his early Marxist concerns; the civil rights and anti-war movements of the 1960s intensified his critique of liberalism; the rise of neoliberalism in the 1980s deepened his concern with market logic's corruption of practices; the acceleration of globalization in the 1990s drove his deeper reflection on rational dispute between traditions. Understanding this historical context is essential for grasping the evolution of MacIntyre's thought.

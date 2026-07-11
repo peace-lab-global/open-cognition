@@ -1,0 +1,39 @@
+---
+id: aryadeva-reading-list
+title: "提婆进阶阅读 Āryadeva: Annotated Reading List"
+type: reading-list
+parent: aryadeva
+---
+
+# 提婆进阶阅读 / Reading List for Āryadeva
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **Āryadeva**, *Catuḥśataka* (四百论)
+  - Ruth Sonam 译, *Yogic Deeds of Bodhisattvas: Āryadeva on Bodhisattva Practice* (Snow Lion, 1998)
+  - 法尊法师译《四百论》— 中文全译
+
+- **鸠摩罗什译《百论》** — 汉文经典 (大正藏 T1569)
+
+### 推荐 Recommended
+
+- **月称《四百论释》** (Yogācāra-catuhśataka-ṭīkā) — 最重要的注释
+- **《百字论》** — 精炼论证
+
+## 研究专著 / Scholarly Monographs
+
+- **Karen Lang**, *Āryadeva's Catuḥśataka* (1986) — 文本学研究
+- **Tom Tillemans**, *Materials for the Study of Āryadeva, Dharmapāla and Candrakīrti* (1990)
+- **Ruth Sonam**, 多篇关于提婆哲学的论文
+
+## 入门读物 / Introductory
+
+- **宗萨蒋扬钦哲仁波切**, 《中观讲义》— 包含提婆思想
+- **印顺法师《中观今论》** — 中观学导论
+
+## 跨学科阅读 / Interdisciplinary
+
+- **龙树《中论》** — 提婆思想的源头
+- **月称《入中论》** — 提婆思想的继承和发展

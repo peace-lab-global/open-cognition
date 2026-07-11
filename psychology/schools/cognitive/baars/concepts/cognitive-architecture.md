@@ -1,0 +1,166 @@
+---
+id: psychology.cognitive.baars.cognitive-architecture
+title: "认知架构 · Cognitive Architecture"
+type: concept
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+tags:
+  - cognitive-architecture
+  - functional-organization
+  - modularity
+  - consciousness
+---
+
+# 认知架构 · Cognitive Architecture
+
+---
+
+## 定义 · Definition
+
+在巴尔斯的全局工作空间理论（GWT）框架中，"认知架构"（cognitive architecture）指的是心智系统的整体功能组织方式——即大脑中各种认知过程如何被结构化、如何相互连接、以及如何协同运作以产生有意识和无意识的心理活动。GWT提出了一种特定的认知架构：一个由大量并行的无意识专门处理器和一个串行的全局工作空间（及其广播机制）组成的双层架构。
+
+In Bernard Baars's Global Workspace Theory (GWT) framework, "cognitive architecture" refers to the overall functional organization of the mind system — how various cognitive processes in the brain are structured, interconnected, and coordinated to produce conscious and unconscious mental activity. GWT proposes a specific cognitive architecture: a two-tier system composed of numerous parallel unconscious specialized processors and a serial global workspace (with its broadcasting mechanism).
+
+这个概念的重要性在于，它不同于将心智视为均质的信息处理器的传统观点，也不同于将心智完全拆解为独立模块的极端模块化观点。GWT的认知架构承认模块化的存在，但通过全局工作空间提供了模块间协调的机制。
+
+This concept is important because it differs from traditional views of the mind as a homogeneous information processor, as well as from extreme modularist views that decompose the mind entirely into independent modules. GWT's cognitive architecture acknowledges modularity while providing a mechanism for inter-module coordination through the global workspace.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 1. 双层架构 / Two-Tier Architecture
+
+GWT的认知架构包含两个基本层次：
+
+GWT's cognitive architecture comprises two fundamental tiers:
+
+**第一层：无意识专门处理器（Unconscious Specialized Processors）**
+
+这一层由大量高度专门化的认知模块组成，每个模块负责特定领域的信息处理。这些处理器具有以下特征：
+- **高效性**：处理速度极快（毫秒级）
+- **并行性**：多个处理器同时运作
+- **领域特异性**：每个处理器只处理特定类型的信息
+- **不透明性**：其内部运作对意识不可见
+
+This tier consists of numerous highly specialized cognitive modules, each responsible for domain-specific information processing. These processors exhibit:
+- **Efficiency**: Extremely fast processing (millisecond level)
+- **Parallelism**: Multiple processors operating simultaneously
+- **Domain specificity**: Each processor handles only specific types of information
+- **Opacity**: Internal operations are invisible to consciousness
+
+例如，视觉皮层的V1-V5区域分别处理颜色、运动、深度等不同视觉属性；语言系统中的布罗卡区和韦尼克区分别负责语言生产和理解；运动皮层负责运动规划。这些处理器在正常情况下都不需要意识的参与。
+
+For example, visual cortex areas V1–V5 process color, motion, depth, and other visual attributes respectively; Broca's and Wernicke's areas in the language system handle language production and comprehension respectively; the motor cortex handles movement planning. Under normal conditions, none of these processors require conscious involvement.
+
+**第二层：全局工作空间（Global Workspace）**
+
+全局工作空间是一个容量有限的中央信息交换系统。它的特征与第一层恰好相反：
+- **低速性**：每次只能处理少量信息
+- **串行的**：信息按顺序进入和退出
+- **跨域整合**：可以接收和整合来自任何处理器的信息
+- **全局可见性**：其内容对全脑所有处理器可见
+
+The global workspace is a limited-capacity central information exchange system. Its characteristics are precisely opposite to the first tier:
+- **Slow speed**: Can process only limited information at a time
+- **Serial**: Information enters and exits sequentially
+- **Cross-domain integration**: Can receive and integrate information from any processor
+- **Global visibility**: Its contents are visible to all processors brain-wide
+
+### 2. 控制结构 / Control Architecture
+
+GWT的认知架构还包括多层控制结构：
+
+GWT's cognitive architecture also includes a multi-layered control structure:
+
+- **注意力系统（Attentional System）**：控制什么信息进入全局工作空间。包括自上而下的执行注意（由前额叶驱动）和自下而上的刺激驱动注意（由显著刺激自动触发）。
+- **目标层级（Goal Hierarchy）**：当前的目标系统影响注意力系统的选择，形成"自上而下"的控制链。目标本身存储在无意识的语境系统中。
+- **语境系统（Context Systems）**：包括知觉框架、信念系统和情感基调等背景性知识结构，它们塑造全局工作空间中信息的解释方式。
+
+- **Attentional System**: Controls what information enters the global workspace. Includes top-down executive attention (driven by prefrontal cortex) and bottom-up stimulus-driven attention (automatically triggered by salient stimuli).
+- **Goal Hierarchy**: Current goal systems influence attentional selection, forming a "top-down" control chain. Goals themselves are stored in unconscious context systems.
+- **Context Systems**: Include perceptual frameworks, belief systems, and emotional tones — background knowledge structures that shape how information in the global workspace is interpreted.
+
+### 3. 信息流动态 / Information Flow Dynamics
+
+GWT架构中的信息流遵循以下模式：
+
+Information flow in the GWT architecture follows this pattern:
+
+1. **感觉输入** → 专门处理器进行初步加工
+2. **竞争** → 多个处理器的输出竞争全局广播权
+3. **选择** → 注意力机制选出"赢家"进入全局工作空间
+4. **广播** → 信息被同时发送到所有可接收的处理器
+5. **处理** → 各处理器根据广播信息调整自身运作
+6. **输出** → 处理器的输出再次参与下一轮竞争
+
+1. **Sensory input** → specialized processors perform initial processing
+2. **Competition** → outputs of multiple processors compete for global broadcast rights
+3. **Selection** → attentional mechanisms select the "winner" for entry into the global workspace
+4. **Broadcasting** → information is simultaneously sent to all receptive processors
+5. **Processing** → each processor adjusts operations based on broadcast information
+6. **Output** → processor outputs re-enter the next round of competition
+
+---
+
+## 发展脉络 · Historical Development
+
+### 前驱：模块化传统 / Precursors: The Modular Tradition
+
+GWT的认知架构建立在多个学术传统之上：Fodor（1983）的心智模块性理论提供了专门处理器的概念基础；Broadbent（1958）的注意力过滤器模型提供了信息选择的机制；Miller（1956）的工作记忆容量研究提供了全局工作空间容量限制的根据。
+
+GWT's cognitive architecture builds on multiple academic traditions: Fodor's (1983) modularity of mind provided the conceptual foundation for specialized processors; Broadbent's (1958) attention filter model provided mechanisms for information selection; Miller's (1956) working memory capacity research provided the basis for global workspace capacity limits.
+
+### 与ACT-R和Soar的比较 / Comparison with ACT-R and Soar
+
+认知科学中有多个"认知架构"理论。Anderson的ACT-R强调生产系统和陈述性记忆的交互；Newell的Soar强调问题空间和问题解决。GWT的独特之处在于它专门聚焦于意识的功能角色，将意识整合到一个更大的认知架构中，而非将意识视为附属现象。
+
+Cognitive science contains multiple "cognitive architecture" theories. Anderson's ACT-R emphasizes the interaction between production systems and declarative memory; Newell's Soar emphasizes problem spaces and problem solving. GWT's distinctiveness lies in its specific focus on the functional role of consciousness, integrating consciousness into a larger cognitive architecture rather than treating it as an epiphenomenon.
+
+### 当代发展：Shanahan的机器意识 / Contemporary Development: Shanahan's Machine Consciousness
+
+Murray Shanahan 在2010年的《Embodiment and the Inner Life》中将GWT的认知架构应用于人工智能系统设计，创建了具有全局广播功能的AI架构。这一工作展示了GWT认知架构的工程可实现性。
+
+Murray Shanahan applied GWT's cognitive architecture to AI system design in his 2010 *Embodiment and the Inner Life*, creating AI architectures with global broadcasting capabilities. This work demonstrated the engineering realizability of GWT's cognitive architecture.
+
+---
+
+## 临床应用 · Clinical Applications
+
+1. **认知障碍的理解 / Understanding Cognitive Disorders**：GWT的认知架构为理解各种认知障碍提供了统一框架。例如，精神分裂症可以被理解为全局工作空间的门控功能失调——不相关的信息过多地进入全局广播，导致思维紊乱。
+2. **脑损伤评估 / Brain Damage Assessment**：不同类型的脑损伤可以被理解为对认知架构不同组件的破坏——前额叶损伤影响执行控制（"导演"），顶叶损伤影响工作记忆的容量（"舞台"大小），丘脑损伤影响感觉门控（"舞台入口"）。
+3. **人工智能设计 / AI Design**：GWT的认知架构为设计具有"类意识"信息整合能力的AI系统提供了蓝图——通过构建具有全局广播功能的模块化架构来实现跨模态的信息整合。
+
+1. **Understanding Cognitive Disorders**: GWT's cognitive architecture provides a unified framework for understanding various cognitive disorders. For example, schizophrenia can be understood as dysfunctional gating of the global workspace — excessive irrelevant information entering global broadcast, leading to thought disorder.
+2. **Brain Damage Assessment**: Different types of brain damage can be understood as disruption of different cognitive architecture components — prefrontal damage affects executive control (the "director"), parietal damage affects working memory capacity ("stage" size), thalamic damage affects sensory gating ("stage entrance").
+3. **AI Design**: GWT's cognitive architecture provides a blueprint for designing AI systems with "consciousness-like" information integration capabilities — achieving cross-modal information integration by constructing modular architectures with global broadcasting functions.
+
+---
+
+## 关联概念 · Related Concepts
+
+- **[全局工作空间理论](global-workspace-theory.md)** / [Global Workspace Theory](global-workspace-theory.md) — 认知架构所属的理论
+- **[意识剧场](consciousness-theater.md)** / [Consciousness Theater](consciousness-theater.md) — 架构的隐喻表达
+- **[全局广播](broadcast.md)** / [Broadcast](broadcast.md) — 架构中的核心信息流机制
+- **Fodor, J. A. (1983).** *The Modularity of Mind*. MIT Press.
+- **Newell, A. (1990).** *Unified Theories of Cognition*. Harvard University Press.
+- **Shanahan, M. (2010).** *Embodiment and the Inner Life*. Oxford University Press.
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+GWT的认知架构与中国传统医学中的"君臣佐使"药物配伍理论有着结构性的平行。在中医理论中，"君药"主导治疗方向（类似于全局工作空间的中央广播），"臣药"辅助君药（类似于注意力系统的支持），"佐使药"引导药物到达特定部位（类似于语境系统的导向功能）。这种层级化的功能组织模式反映了东方传统思维对复杂系统协调机制的类似理解。
+
+GWT's cognitive architecture has a structural parallel with the "sovereign, minister, assistant, envoy" (jūn chén zuǒ shǐ) drug compounding theory in traditional Chinese medicine. In TCM theory, the "sovereign drug" directs the treatment (analogous to the central broadcast of the global workspace), the "minister drug" assists (analogous to attentional system support), and the "assistant and envoy drugs" guide medication to specific sites (analogous to context system guidance). This hierarchical functional organization pattern reflects a similar Eastern understanding of coordination mechanisms in complex systems.
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press. — Ch. 2–4, 架构阐述 / Architecture formulation
+- Baars, B. J. & Gage, N. M. (2007). *Cognition, Brain, and Consciousness*. Academic Press. — 教科书级综合 / Textbook-level synthesis
+- Shanahan, M. (2010). *Embodiment and the Inner Life*. Oxford University Press. — AI实现 / AI implementation
+- Anderson, J. R. (2007). *How Can the Mind Occur in the Physical Universe?* Oxford University Press. — 对比架构 / Contrasting architecture
+- Fodor, J. A. (1983). *The Modularity of Mind*. MIT Press. — 模块化基础 / Modularity foundation

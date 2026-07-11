@@ -1,0 +1,82 @@
+---
+id: zhuangzi-reading-list
+title: 庄子进阶阅读 / Reading Guide for Zhuangzi
+type: reading-list
+domain: philosophy
+school: daoist
+thinker: zhuangzi
+---
+
+# 庄子进阶阅读 / Reading Guide for Zhuangzi
+
+## 阅读路径
+
+### 入门（3篇）
+1. 《逍遥游》— 庄子思想的总纲，鲲鹏寓言
+2. 《齐物论》— 蝴蝶梦、天籁、相对主义（可与逍遥游并读）
+3. 《养生主》— 庖丁解牛，最短的内篇
+
+### 进阶（内篇全读 + 秋水）
+4. 《人间世》— 无用之用、支离疏
+5. 《德充符》— 形残德全
+6. 《大宗师》— 坐忘与道化
+7. 《应帝王》— 浑沌寓言
+8. 《秋水》— 河伯与海神（外篇中最精彩者）
+
+### 深读
+9. 外篇全读：《骈拇》《马蹄》《胠箧》《秋水》《至乐》《达生》《山木》
+10. 杂篇精选：《外物》《寓言》《天下》
+11. 郭象注 — 理解魏晋玄学的庄子阐释
+
+## 原典注释
+
+| 著作 | 作者 | 出版社 | 特点 |
+|------|------|--------|------|
+| 《庄子今注今译》 | 陈鼓应 | 中华书局，2009 | 当代最佳中文注释本 |
+| 《庄子集释》 | 郭庆藩 | 中华书局，1961 | 汇集历代注释 |
+| 《庄子集解》 | 王先谦 | 中华书局，1987 | 简洁精要 |
+| 《庄子哲学及其演变》 | 刘笑敢 | 中国人民大学出版社，2010 | 内外杂篇的作者分析 |
+| 《庄子的思想世界》 | 杨国荣 | 北京大学出版社，2006 | 系统性哲学分析 |
+
+## 西文译本与研究
+
+### 译本
+| 著作 | 译者 | 出版社 | 年份 |
+|------|------|--------|------|
+| *The Complete Works of Chuang Tzu* | Burton Watson | Columbia UP | 1968 |
+| *Zhuangzi: The Complete Writings* | Brook Ziporyn | Hackett | 2020 |
+| *Chuang-tzu: The Inner Chapters* | A.C. Graham | Hackett | 2003 |
+| *Wandering on the Way* | Victor H. Mair | U of Hawaii | 1994 |
+
+### 研究
+| 著作 | 作者 | 出版社 | 年份 |
+|------|------|--------|------|
+| *Ironies of Oneness and Difference* | Brook Ziporyn | SUNY Press | 2009 |
+| *A Companion to Angus C. Graham's Chuang Tzu* | Harold D. Roth | U of Hawaii | 2003 |
+| *Zhuangzi and Early Chinese Philosophy* | Steve Coutinho | Ashgate | 2004 |
+| *Disputers of the Tao* | A.C. Graham | Open Court | 1989 |
+| *A Daoist Theory of Chinese Thought* | Chad Hansen | Oxford UP | 1992 |
+| *Experimental Essays on Chuang-tzu* | Victor H. Mair (ed.) | U of Hawaii | 1983 |
+
+## 比较研究
+
+| 著作 | 比较对象 | 特点 |
+|------|----------|------|
+| Ziporyn, *Being and Ambiguity* | 庄子 × 佛教 | 庄子与中观/唯识的比较 |
+| Connolly, *The Ethos of Pluralization* | 庄子 × 当代政治 | 庄子与多元主义 |
+| Moeller, *The Moral Fool* | 庄子 × 伦理学 | 庄子作为"道德愚人" |
+
+## 上游思想
+
+- **老子**：道家哲学的本体论基础
+- **惠施**：名家的逻辑与概念分析（庄子的对话者）
+- **杨朱**：早期道家的个人主义倾向
+
+## 下游影响
+
+- **魏晋玄学**：郭象、向秀的庄子阐释
+- **禅宗**：庄禅传统——直指本心、无心、顿悟
+- **文学**：陶渊明、李白、苏轼、鲁迅
+- **海德格尔**：Gelassenheit（让存在）与庄子
+- **博尔赫斯**：梦与同一性的文学变奏
+- **深层生态学**：Arne Naess 引用庄子

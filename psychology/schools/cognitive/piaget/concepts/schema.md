@@ -1,0 +1,189 @@
+---
+id: psychology.cognitive.piaget.schema
+title: "图式 · Schema"
+type: concept
+domain: psychology
+thinker: psychology.cognitive.piaget
+tags: [图式, 认知结构, 心理表征, schema, cognitive-structure, mental-representation, knowledge-organization]
+---
+
+# 图式 · Schema
+
+## 定义 / Definition
+
+**中文：** **图式（Schema，复数 Schemata）** 是皮亚杰理论中的基本认知单元——一种行动或思维的**可重复的、有组织的结构**。图式不是静态的"知识存储"，而是动态的"行动-思维模式"。从婴儿的吸吮反射（一个简单的动作图式）到成人对"民主政治"的理解（一个复杂的概念图式），都是不同层次的图式。
+
+皮亚杰将图式定义为"一种行动或运算的结构，它可以在相同或类似的情境中被重复或概括化"。图式是认知的基本"积木"——一切认知活动都是图式的运作，一切认知发展都是图式的分化、整合和层级化。
+
+**English:** **Schema (plural: schemata)** is the fundamental cognitive unit in Piaget's theory — a **repeatable, organized structure** of action or thought. Schemas are not static "knowledge storage" but dynamic "action-thought patterns." From an infant's sucking reflex (a simple action schema) to an adult's understanding of "democratic politics" (a complex conceptual schema), all are schemas at different levels.
+
+Piaget defined a schema as "a structure of action or operation that can be repeated or generalized in identical or similar situations." Schemas are the basic "building blocks" of cognition — all cognitive activity is the operation of schemas, and all cognitive development is the differentiation, integration, and hierarchization of schemas.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 图式的层次结构 / Hierarchical Structure of Schemas
+
+**中文：** 皮亚杰区分了不同层次的图式：
+
+1. **感觉运动图式（Sensorimotor schemas）**：嵌入在身体动作中的认知结构。例如抓握（grasping）、吸吮（sucking）、视觉追踪（visual tracking）。这些是婴儿最初的认知工具——"知道"就是通过动作来"做"。
+2. **符号图式（Symbolic schemas）**：以语言和符号为基础的心理表征。例如用"狗"这个词来代表所有犬类动物。符号图式使儿童能够脱离当前感知进行思维。
+3. **运算图式（Operational schemas）**：可逆的、逻辑性的思维结构。例如"分类"运算、"序列化"运算、"守恒"运算。运算图式是具体运算期的核心成就。
+4. **形式图式（Formal schemas）**：处理抽象关系和命题逻辑的思维结构。例如"组合"运算（combinatorial operations）、"比例"推理（proportional reasoning）。形式图式是形式运算期的核心成就。
+
+每一层次的图式都是在整合前一层次的基础上建构的——形式图式整合了运算图式，运算图式整合了符号图式，符号图式整合了感觉运动图式。
+
+**English:** Piaget distinguished schemas at different levels:
+
+1. **Sensorimotor schemas**: Cognitive structures embedded in bodily actions. For example, grasping, sucking, visual tracking. These are the infant's first cognitive tools — "knowing" is "doing" through action.
+2. **Symbolic schemas**: Mental representations based on language and symbols. For example, using the word "dog" to represent all canine animals. Symbolic schemas enable children to think beyond immediate perception.
+3. **Operational schemas**: Reversible, logical thought structures. For example, "classification" operations, "seriation" operations, "conservation" operations. Operational schemas are the core achievement of the concrete operational period.
+4. **Formal schemas**: Thought structures for handling abstract relations and propositional logic. For example, combinatorial operations, proportional reasoning. Formal schemas are the core achievement of the formal operational period.
+
+Each level of schemas is constructed upon integration of the preceding level — formal schemas integrate operational schemas, operational schemas integrate symbolic schemas, symbolic schemas integrate sensorimotor schemas.
+
+### 图式的运作方式 / How Schemas Operate
+
+**中文：** 图式的运作包括三种基本方式：
+
+1. **同化运作（Assimilatory operation）**：图式被应用于新的刺激。一个已经形成"抓握"图式的婴儿，看到任何新物体都试图去抓。
+2. **顺应运作（Accommodative operation）**：图式被修改以适应无法同化的刺激。当物体太大而无法用一只手抓握时，"抓握"图式必须被修改为"双手抱"图式。
+3. **整合运作（Integrative operation）**：多个图式被组合成更复杂的图式结构。"分类"图式整合了"比较"、"匹配"、"排序"等多个子图式。
+
+**English:** Schema operations include three basic modes:
+
+1. **Assimilatory operation**: A schema is applied to new stimuli. An infant who has formed a "grasping" schema attempts to grasp any new object they see.
+2. **Accommodative operation**: A schema is modified to fit stimuli that cannot be assimilated. When an object is too large to grasp with one hand, the "grasping" schema must be modified into a "two-handed holding" schema.
+3. **Integrative operation**: Multiple schemas are combined into more complex schema structures. The "classification" schema integrates multiple sub-schemas such as "comparison," "matching," and "ordering."
+
+### 图式的发展路径 / Developmental Path of Schemas
+
+**中文：** 图式的发展遵循从简单到复杂、从具体到抽象的路径：
+
+- **分化（Differentiation）**：一个笼统的图式分化为多个更精细的子图式。"动物"图式分化为"哺乳动物"、"鸟类"、"鱼类"等。
+- **整合（Integration）**：多个分散的图式被整合为统一的更高层次图式。"加法"和"减法"图式被整合为"数的逆运算"图式。
+- **层级化（Hierarchization）**：图式形成上下层次关系。"哺乳动物"图式包含"狗"、"猫"等子图式，又被包含在更高层的"动物"图式中。
+- **抽象化（Abstraction）**：图式逐渐脱离具体情境，能够处理抽象关系。"分类"运算从"对实物分类"发展为"对概念分类"。
+
+**English:** Schema development follows a path from simple to complex, from concrete to abstract:
+
+- **Differentiation**: A general schema differentiates into multiple more refined sub-schemas. The "animal" schema differentiates into "mammals," "birds," "fish," etc.
+- **Integration**: Multiple dispersed schemas are integrated into a unified higher-level schema. "Addition" and "subtraction" schemas are integrated into a "inverse number operations" schema.
+- **Hierarchization**: Schemas form hierarchical relationships. The "mammal" schema contains "dog," "cat" sub-schemas, and is itself contained in the higher-level "animal" schema.
+- **Abstraction**: Schemas gradually detach from concrete situations, able to handle abstract relations. The "classification" operation develops from "classifying real objects" to "classifying concepts."
+
+---
+
+## 发展脉络 / Development
+
+**中文：** "图式"概念在皮亚杰思想中的演变：
+
+- **生物学起源**：皮亚杰最初从生物学中借用了"图式"概念。在动物行为学中，"固定动作模式"（fixed action pattern）是动物天生的行为图式。
+- **心理学转换**：在心理学研究中，皮亚杰将图式从先天的、固定的行为模式发展为可建构的、可修改的认知结构。
+- **逻辑学扩展**：晚期皮亚杰将图式概念与逻辑结构联系起来——认知图式具有类似于数学"群"（group）结构的性质（闭合性、结合律、恒等元素、逆元素），这就是他所谓的"运算群"（grouping）。
+- **跨学科影响**：图式概念后来被广泛借用到其他学科：
+  - **认知心理学**：Frederic Bartlett 的"图式"概念（独立发展）影响了记忆研究——记忆不是精确复制，而是基于图式的重构。
+  - **认知行为疗法（CBT）**：Aaron Beck 借用图式概念来描述核心信念结构——"我是不可爱的"、"世界是危险的"等深层图式。
+  - **人工智能**：Marvin Minsky 的"框架"（frame）、Roger Schank 的"脚本"（script）都受到图式概念的影响。
+
+**English:** The evolution of the "schema" concept in Piaget's thought:
+
+- **Biological origin**: Piaget initially borrowed the "schema" concept from biology. In ethology, "fixed action patterns" are innate behavioral schemas in animals.
+- **Psychological transition**: In psychological research, Piaget developed schemas from innate, fixed behavioral patterns into constructable, modifiable cognitive structures.
+- **Logical extension**: Late Piaget connected the schema concept with logical structures — cognitive schemas have properties analogous to mathematical "group" structures (closure, associativity, identity elements, inverse elements), which he called "groupings."
+- **Interdisciplinary influence**: The schema concept was later widely borrowed by other fields:
+  - **Cognitive psychology**: Frederic Bartlett's "schema" concept (independently developed) influenced memory research — memory is not exact copying but schema-based reconstruction.
+  - **Cognitive Behavioral Therapy (CBT)**: Aaron Beck borrowed the schema concept to describe core belief structures — deep schemas like "I am unlovable," "the world is dangerous."
+  - **Artificial Intelligence**: Marvin Minsky's "frames," Roger Schank's "scripts" were all influenced by the schema concept.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### CBT 中的图式疗法 / Schema Therapy in CBT
+
+**中文：** Jeffrey Young 的**图式疗法（Schema Therapy）**直接继承了皮亚杰的图式概念，将其应用于人格障碍和长期心理问题的治疗。图式疗法识别 18 种"早期适应不良图式"（early maladaptive schemas），如"被抛弃"、"情感剥夺"、"缺陷/羞耻"等。这些图式通常在童年期形成，成为个体终身的认知-情感模式。
+
+治疗目标是：
+1. **识别**激活的图式及其触发情境。
+2. **理解**图式的起源（通常与童年未满足的需求有关）。
+3. **修改**适应不良的图式，建构更健康的替代图式。
+
+**English:** Jeffrey Young's **Schema Therapy** directly inherits Piaget's schema concept, applying it to the treatment of personality disorders and chronic psychological problems. Schema therapy identifies 18 "early maladaptive schemas," such as "abandonment," "emotional deprivation," "defectiveness/shame," etc. These schemas typically form in childhood, becoming lifelong cognitive-emotional patterns.
+
+Treatment goals are:
+1. **Identify** activated schemas and their triggering situations.
+2. **Understand** schema origins (usually related to unmet childhood needs).
+3. **Modify** maladaptive schemas, constructing healthier replacement schemas.
+
+### 教育中的图式激活 / Schema Activation in Education
+
+**中文：** 现代教育学中的"先备知识激活"（prior knowledge activation）策略本质上是图式激活。教师在教授新内容前，通过提问、讨论或"概念图"（concept map）活动来激活学生已有的相关图式，为新信息的同化创造认知条件。
+
+"图式冲突"策略——有意提供与学生已有图式矛盾的信息——则是通过触发顺应过程来推动认知发展。
+
+**English:** The "prior knowledge activation" strategy in modern education is essentially schema activation. Before teaching new content, teachers activate students' existing relevant schemas through questioning, discussion, or "concept map" activities, creating cognitive conditions for assimilating new information.
+
+"Schema conflict" strategies — deliberately providing information that contradicts students' existing schemas — promote cognitive development by triggering the accommodation process.
+
+---
+
+## 与其他概念的关联 / Related Concepts
+
+### 内部关联 / Internal Connections
+
+- **同化与顺应（Assimilation and Accommodation）**：图式是同化和顺应操作的对象。
+- **认知发展阶段（Stages）**：每个阶段对应一套整合的图式系统。
+- **平衡化（Equilibration）**：图式系统内部的平衡调节过程。
+- **认知发展理论（Cognitive Development）**：图式是其基本建构单元。
+- **发生认识论（Genetic Epistemology）**：图式的发生学——追踪图式从动作到逻辑的建构过程。
+
+### 外部关联 / External Connections
+
+- **Bartlett 的记忆图式**：记忆是基于图式的重构，而非精确复制。
+- **Beck 的认知图式**：CBT 中的核心信念结构。
+- **Minsky 的框架 / Schank 的脚本**：AI 中的知识表示结构。
+- **Lakoff & Johnson 的意象图式（Image Schema）**：认知语言学中，身体经验形成的基本认知结构（如"容器"、"路径"、"力量"图式）。
+- **康德的范畴（Kant's Categories）**：图式是康德先验范畴的发生学版本——范畴不是天赋的，而是建构的。
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 与唯识学"种子"（bīja）的对话 / Dialogue with Yogācāra's "Seeds" (bīja)
+
+**中文：** 唯识学中的"种子"（bīja）概念与皮亚杰的图式有深层共鸣。种子是储存在阿赖耶识（ālaya-vijñāna）中的潜在功能，当因缘和合时，种子"现行"（manifest），产生相应的经验。这与图式作为"潜伏的认知结构，在适当情境下被激活"的运作方式非常相似。
+
+关键差异在于：
+- **起源**：皮亚杰认为图式是在个体发展中建构的；唯识学认为种子是无始以来的积累（包括前世熏习）。
+- **目标**：皮亚杰追求图式的不断丰富和精细化；唯识学最终追求"转识成智"——超越一切虚妄的种子/图式。
+- **价值判断**：皮亚杰的图式是价值中立的认知工具；唯识学的种子有"有漏"（导致痛苦）和"无漏"（导向解脱）之分。
+
+**English:** The Yogācāra concept of "seeds" (bīja) resonates deeply with Piaget's schemas. Seeds are latent potentials stored in the storehouse consciousness (ālaya-vijñāna); when conditions converge, seeds "manifest" (present activity), producing corresponding experiences. This is remarkably similar to schemas as "latent cognitive structures activated in appropriate situations."
+
+Key differences:
+- **Origin**: Piaget holds that schemas are constructed during individual development; Yogācāra holds that seeds are accumulated since beginningless time (including conditioning from previous lives).
+- **Goal**: Piaget pursues ever-richer and more refined schemas; Yogācāra ultimately pursues "transforming consciousness into wisdom" — transcending all delusional seeds/schemas.
+- **Value judgment**: Piaget's schemas are value-neutral cognitive tools; Yogācāra's seeds are divided into "tainted" (leading to suffering) and "untainted" (leading to liberation).
+
+### 与庄子"成心"的对话 / Dialogue with Zhuangzi's "Formed Mind"
+
+**中文：** 庄子批评"成心"（成见之心）——固化了的认知图式使人执着于特定的判断框架，丧失了对事物本然面貌的开放性。"未成乎心而有是非，是犹今日适越而昔至也。"
+
+这与皮亚杰对"过度同化"的警告形成呼应——当图式变得过于固化，认知就失去了对新经验的适应性。但两者的应对方式不同：皮亚杰主张通过"顺应"来修改图式（建构新的图式）；庄子则暗示一种超越图式本身的可能性——"心斋"（fasting of the mind）、"坐忘"（sitting and forgetting），达到一种不被任何图式所束缚的"逍遥"状态。
+
+**English:** Zhuangzi criticizes the "formed mind" (成心, chéng xīn) — solidified cognitive schemas that make one cling to specific judgmental frameworks, losing openness to the original nature of things. "To have right and wrong before the mind is formed is like saying 'I set out for Yue today and arrived yesterday.'"
+
+This echoes Piaget's warning against "excessive assimilation" — when schemas become too rigid, cognition loses adaptability to new experiences. But their responses differ: Piaget advocates modifying schemas through "accommodation" (constructing new schemas); Zhuangzi suggests the possibility of transcending schemas altogether — "fasting of the mind" (心斋), "sitting and forgetting" (坐忘), reaching a state of "free wandering" (逍遥, xiāo yáo) unbound by any schema.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Piaget, J. (1952). *The Origins of Intelligence in Children* — 图式的最初建构 / Initial construction of schemas
+- Piaget, J. (1970). *Genetic Epistemology* — 图式的逻辑结构 / Logical structure of schemas
+- Bartlett, F. C. (1932). *Remembering* — 记忆图式 / Memory schemas
+- Young, J. E. et al. (2003). *Schema Therapy: A Practitioner's Guide* — 图式疗法 / Schema therapy
+- Lakoff, G., & Johnson, M. (1999). *Philosophy in the Flesh* — 意象图式 / Image schemas
+- Rumelhart, D. E. (1980). "Schemata: The Building Blocks of Cognition" — 认知心理学中的图式 / Schemas in cognitive psychology

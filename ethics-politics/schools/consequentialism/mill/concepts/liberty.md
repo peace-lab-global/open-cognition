@@ -1,0 +1,100 @@
+---
+id: mill-liberty
+title: "自由 · Liberty"
+type: concept
+thinker: mill
+domain: ethics-politics
+school: consequentialism
+tags:
+  - liberty
+  - 自由
+  - individuality
+  - 个性
+  - freedom-of-speech
+  - 言论自由
+  - self-regarding
+  - 自我关涉
+---
+
+# 自由 · Liberty
+
+## 概念概述 / Concept Overview
+
+密尔的自由概念是西方政治哲学中最具影响力的自由理论之一。与以赛亚·伯林后来区分的"消极自由"（免于干涉的自由）和"积极自由"（自我主宰的自由）不同，密尔的自由概念融合了两种维度：它既是消极的——要求社会和国家不得干涉个人的自我关涉行为；又包含积极的面向——将自由视为人类品格发展和个性实现的必要条件。
+
+Mill's concept of liberty is one of the most influential theories of freedom in Western political philosophy. Unlike Isaiah Berlin's later distinction between "negative liberty" (freedom from interference) and "positive liberty" (freedom as self-mastery), Mill's concept fuses both dimensions: it is negative—requiring society and the state not to interfere in self-regarding conduct—yet also contains a positive dimension, treating liberty as a necessary condition for character development and the realization of individuality.
+
+密尔的自由涵盖三个核心领域：思想与言论自由（freedom of thought and discussion）、趣味与志趣自由（freedom of tastes and pursuits）、以及联合自由（freedom of combination among individuals）。这三者构成了一个从内在精神到外在行为再到社会交往的完整自由体系。
+
+Mill's liberty encompasses three core domains: freedom of thought and discussion, freedom of tastes and pursuits, and freedom of combination among individuals. These three constitute a complete system of liberty extending from inner spirit to external conduct to social association.
+
+## 理论内涵 / Theoretical Content
+
+密尔对自由的论证采取了一种独特的功利主义策略：他并不诉诸抽象的自然权利或先验的道德原则，而是论证自由对人类的长远利益和进步最为有利。他写道："我所依据的一切论证，都可以归结为一个原则——功利。但必须是最高意义上的功利，这种功利以人作为进步性存在的永久利益为根据。"
+
+Mill's argument for liberty adopts a distinctive utilitarian strategy: he appeals not to abstract natural rights or a priori moral principles but argues that liberty is most conducive to humanity's long-term interests and progress. He wrote: "I regard utility as the ultimate appeal on all ethical questions; but it must be utility in the largest sense, grounded on the permanent interests of man as a progressive being."
+
+这一论证策略的独创性在于：它既拒绝了自然权利论的非经验主义基础（如洛克的"上帝赋予"的权利），也拒绝了纯粹契约论的程序主义（如卢梭的社会契约）。密尔论证说，自由之所以有价值，是因为经验表明自由社会中的人类更加幸福、更有创造力、更能实现自身的潜能。
+
+The originality of this argumentative strategy lies in its rejection of both the non-empirical foundations of natural rights theory (such as Locke's "God-given" rights) and the proceduralism of pure contract theory (such as Rousseau's social contract). Mill argues that liberty is valuable because experience shows that humans in free societies are happier, more creative, and better able to realize their potential.
+
+言论自由是密尔自由理论中最著名的组成部分。他的论证可以概括为三个层次：第一，被压制的意见可能是正确的——压制正确意见意味着人类丧失了从错误走向真理的机会。第二，被压制的意见可能包含部分真理——因为大多数意见既非完全正确也非完全错误，只有通过自由讨论才能拼合出更完整的真理图景。第三，即便被压制的意见完全错误，压制它仍然有害——因为真理若不经过与谬误的碰撞就会退化为教条和偏见，丧失其指导生活的活力。
+
+Free speech is the most famous component of Mill's liberty theory. His argument can be summarized in three tiers: first, the suppressed opinion may be correct—suppressing true opinions means humanity forfeits the opportunity to exchange error for truth. Second, the suppressed opinion may contain partial truth—since most opinions are neither wholly right nor wholly wrong, only free discussion can assemble a more complete picture of truth. Third, even if the suppressed opinion is entirely false, its suppression remains harmful—because truth that never collides with error degenerates into dogma and prejudice, losing its vitality as a guide to life.
+
+## 思想史脉络 / Intellectual History
+
+密尔的自由理论综合了英国经验主义传统和德国唯心主义传统。从洛克那里，他继承了个人权利和政府权力有限性的思想；从洪堡那里，他借取了个性发展（individuality）作为人类最高目的的论题；从柯勒律治和卡莱尔那里，他获得了对中世纪社会秩序和有机体理论的同情性理解，这使他的自由主义比边沁的版本更具历史深度。
+
+Mill's liberty theory synthesized the British empiricist and German idealist traditions. From Locke he inherited the idea of individual rights and limited government power; from Humboldt he borrowed the thesis of individuality as humanity's highest end; from Coleridge and Carlyle he gained sympathetic understanding of medieval social order and organic theory, giving his liberalism greater historical depth than Bentham's version.
+
+在密尔之后，自由理论的发展呈现两条主要线索。一条是"消极自由"传统，从格林（T.H. Green）到伯林（Isaiah Berlin），关注的是"免于……的自由"。另一条是"积极自由"传统，从格林到罗尔斯，关注自由的社会条件和实现自由的制度保障。密尔的原创性在于他试图将两者统一于功利主义框架之中。
+
+After Mill, liberty theory developed along two main lines. One is the "negative liberty" tradition, from T.H. Green to Isaiah Berlin, focusing on "freedom from." The other is the "positive liberty" tradition, from Green to Rawls, focusing on social conditions and institutional guarantees for freedom. Mill's originality lies in his attempt to unify both within a utilitarian framework.
+
+## 关键文本 / Key Passages
+
+> "If all mankind minus one were of one opinion, and only one person were of the contrary opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind."
+>
+> ——密尔，《论自由》第二章
+
+这段论述是言论自由论证中最为雄辩的表述之一。密尔在此论证的不仅是多数压制少数的不正义，更是对称性的权力关系——即使一个人拥有压制全人类的力量，他这样做同样不正当。
+
+> "He who knows only his own side of the case knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side, if he does not so much as know what they are, he has no ground for preferring either opinion."
+>
+> ——密尔，《论自由》第二章
+
+密尔在此提出了"知彼知己"的认知要求：真正的信念不仅需要正面论证的支持，还需要能够回应反面论证的挑战。
+
+## 当代应用 / Contemporary Applications
+
+密尔的自由理论在当代的应用极为广泛。在大学校园中，它构成了学术自由和"观点多元化"辩论的理论基础。在社交媒体治理中，它为平台是否应该封禁极端言论提供了分析框架。在文化多元主义社会中，它引导我们思考宗教自由与反歧视法律之间的张力。在科学领域，它支持"开放科学"运动和学术出版自由。
+
+Mill's liberty theory has extremely wide contemporary applications. On university campuses, it constitutes the theoretical basis for academic freedom and "viewpoint diversity" debates. In social media governance, it provides an analytical framework for whether platforms should ban extreme speech. In culturally pluralistic societies, it guides reflection on tensions between religious freedom and anti-discrimination law. In science, it supports the "open science" movement and freedom of academic publication.
+
+## 批评与回应 / Critiques and Responses
+
+**批评一**：密尔的自由论证存在内在张力——功利主义的论证可能为了总体幸福而牺牲某些自由。回应：密尔论证说，对自由的保护本身就是功利的组成部分，因为自由构成了人类最高层次的幸福。
+*Critique 1*: Mill's liberty argument contains internal tension—utilitarian reasoning may sacrifice some liberties for overall happiness. *Response*: Mill argued that protecting liberty is itself part of utility, since liberty constitutes humanity's highest form of happiness.
+
+**批评二**：密尔忽视了经济权力对自由的实质限制。回应：这一批评促使后来的自由主义者（如格林和罗尔斯）发展"积极自由"概念，但密尔本人在晚年也承认了社会主义某些诉求的合理性。
+*Critique 2*: Mill neglected economic power's substantive constraints on liberty. *Response*: This critique led later liberals (Green, Rawls) to develop "positive liberty," though Mill himself in later life acknowledged the legitimacy of some socialist claims.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+中国近代思想家严复在翻译《论自由》时，将书名译为"群己权界论"——即"群体与个人权利之界限"的讨论。这一翻译策略本身就揭示了一个深刻的跨文化问题：在中文语境中，"自由"一词往往带有"放纵"的负面含义（如"自由散漫"），而密尔的自由概念恰恰要与这种误解相区分。
+
+When the modern Chinese thinker Yan Fu translated *On Liberty*, he rendered the title as *Qun Ji Quan Jie Lun*—"On the Boundary between Group and Individual Rights." This translation strategy itself reveals a profound cross-cultural issue: in Chinese contexts, "ziyou" (liberty) often carried negative connotations of "licentiousness" (as in "ziyou sanman"—free and undisciplined), and Mill's concept of liberty precisely sought to distinguish itself from this misunderstanding.
+
+在日本明治时代，中村正直翻译密尔的《论自由》为《自由之理》，对日本自由民权运动产生了重要影响。这一东亚接受史表明，密尔的自由理论在非西方文化中同样具有启发意义，但其移植需要进行语境化的调适。
+
+In Meiji Japan, Nakamura Masanao's translation of *On Liberty* as *Jiyū no Ri* (The Principle of Liberty) significantly influenced the Japanese Freedom and People's Rights Movement. This East Asian reception history shows that Mill's liberty theory has inspirational significance in non-Western cultures, though its transplantation requires contextual adaptation.
+
+## 延伸阅读 / Further Reading
+
+- Mill, J.S. *On Liberty*, Chapters II & III (1859)
+- Berlin, Isaiah. "Two Concepts of Liberty" (1958)
+- Ten, C.L. *Mill on Liberty* (Oxford, 1980)
+- Gray, John. *Mill on Liberty: A Defence* (Routledge, 1996)
+- Riley, Jonathan. *Mill on Liberty* (Routledge, 1998)
+- 严复译《群己权界论》，商务印书馆

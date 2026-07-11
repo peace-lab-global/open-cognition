@@ -1,0 +1,21 @@
+---
+id: cognitive-systems.school.cybernetics.ashby.works
+title: 阿什比核心著作 W.R. Ashby Works
+type: works
+thinker: ashby
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 阿什比核心著作 / W.R. Ashby Key Works
+
+## 核心著作
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1952 | *Design for a Brain* | 自适应行为机制 |
+| 1956 | *An Introduction to Cybernetics* | 控制论数学形式化 |
+
+## 二手研究
+
+- Pickering, A. (2010). *The Cybernetic Brain*. University of Chicago Press.

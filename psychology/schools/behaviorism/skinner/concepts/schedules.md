@@ -1,0 +1,141 @@
+---
+id: skinner.schedules
+title: "强化时程表 · Schedules of Reinforcement"
+type: concept
+domain: psychology
+thinker: skinner
+tags: [强化时程表, 固定比率, 可变比率, 固定时距, 可变时距, schedules of reinforcement, fixed ratio, variable ratio, fixed interval, variable interval]
+---
+
+# 强化时程表 · Schedules of Reinforcement
+
+## 定义 / Definition
+
+**强化时程表**（Schedules of Reinforcement）是控制强化物递送的规则和程序的系统性安排。斯金纳与查尔斯·费斯特（Charles Ferster）在1957年的经典著作《强化时程表》（*Schedules of Reinforcement*）中系统地描述了各种时程表及其对行为模式的影响。强化时程表是操作性条件反射理论中最精确、最具预测力的组成部分之一。
+
+**Schedules of Reinforcement** are the systematic arrangements of rules and procedures governing reinforcer delivery. Skinner and Charles Ferster systematically described various schedules and their effects on behavior patterns in their classic 1957 work *Schedules of Reinforcement*. Schedules of reinforcement constitute one of the most precise and predictive components of operant conditioning theory.
+
+强化时程表分为两大类：**连续强化**（Continuous Reinforcement, CRF）和**间歇强化**（Intermittent Reinforcement, INT）。连续强化指每一次目标行为都获得强化；间歇强化指只有部分目标行为获得强化。间歇强化又可进一步分为**比率时程表**（ratio schedules，基于反应次数）和**时距时程表**（interval schedules，基于时间间隔），每种又可分为**固定**（fixed）和**可变**（variable）两种。
+
+Schedules fall into two broad categories: **Continuous Reinforcement** (CRF), where every target response is reinforced; and **Intermittent Reinforcement** (INT), where only some target responses are reinforced. Intermittent schedules are further divided into **ratio schedules** (based on number of responses) and **interval schedules** (based on time intervals), each subdivided into **fixed** and **variable** types.
+
+## 核心机制 / Core Mechanism
+
+### 四种基本间歇强化时程表 / Four Basic Intermittent Schedules
+
+#### 1. 固定比率时程表（FR） / Fixed-Ratio Schedule (FR)
+
+在固定比率时程表中，强化物在固定数量的反应之后递送。例如，FR-10意味着每做出10次反应就获得一次强化。
+
+In a fixed-ratio schedule, reinforcement is delivered after a fixed number of responses. For example, FR-10 means reinforcement is delivered after every 10 responses.
+
+**典型行为模式**："休息后爆发"（post-reinforcement pause, PRP）——获得强化后出现短暂的休息期，然后快速恢复到高速率反应，直至下一次强化。FR值越高，休息时间越长。
+
+**Typical behavior pattern**: "Post-reinforcement pause" (PRP) — a brief pause after reinforcement, followed by rapid resumption of high-rate responding until the next reinforcement. Higher FR values produce longer pause durations.
+
+**现实例子**：计件工资（每完成N件产品获得报酬）、游戏中的经验值积累（每杀死N个怪物升级）。Piece-rate pay (payment after completing N products), game experience point accumulation (leveling up after killing N monsters).
+
+#### 2. 可变比率时程表（VR） / Variable-Ratio Schedule (VR)
+
+在可变比率时程表中，强化物在平均一定数量但不固定次数的反应之后递送。例如，VR-10意味着平均10次反应获得一次强化，但实际次数在5到15次之间随机变化。
+
+In a variable-ratio schedule, reinforcement is delivered after an average but non-fixed number of responses. For example, VR-10 means reinforcement after an average of 10 responses, but actual counts vary randomly between 5 and 15.
+
+**典型行为模式**：稳定的高速率反应，几乎没有休息。这是所有时程表中产生最高反应速率和最抗消退的时程表。
+
+**Typical behavior pattern**: Steady high-rate responding with virtually no pauses. This schedule produces the highest response rates and greatest resistance to extinction of all schedules.
+
+**现实例子**：赌博（老虎机）、社交媒体通知（不定时获得点赞或评论）、游戏中的随机掉落物品（loot drops）。Gambling (slot machines), social media notifications (unpredictable likes or comments), game random loot drops.
+
+#### 3. 固定时距时程表（FI） / Fixed-Interval Schedule (FI)
+
+在固定时距时程表中，强化物在固定时间间隔后的第一次反应时递送。例如，FI-60s意味着每隔60秒，第一次反应获得强化。
+
+In a fixed-interval schedule, reinforcement is delivered for the first response after a fixed time interval. For example, FI-60s means every 60 seconds, the first response is reinforced.
+
+**典型行为模式**："扇贝形"（scallop）反应模式——强化后长时间无反应，接近下一次强化可用时间时反应速率急剧上升。
+
+**Typical behavior pattern**: "Scalloped" response pattern — long pause after reinforcement, followed by rapidly accelerating response rate as the next reinforcement becomes available.
+
+**现实例子**：定期发放工资（每月固定日期）、检查邮箱等待特定时间的邮件、定时器倒计时。Regular paycheck (fixed monthly date), checking email for expected time-specific messages, countdown timers.
+
+#### 4. 可变时距时程表（VI） / Variable-Interval Schedule (VI)
+
+在可变时距时程表中，强化物在平均一定时间但不固定间隔后的第一次反应时递送。例如，VI-60s意味着平均每60秒（实际间隔在30-90秒之间变化）后的第一次反应获得强化。
+
+In a variable-interval schedule, reinforcement is delivered for the first response after an average but non-fixed time interval. For example, VI-60s means the first response after an average of 60 seconds (actual intervals varying from 30-90s) is reinforced.
+
+**典型行为模式**：中等但稳定的反应速率，几乎没有休息。比固定时距时程表产生更一致的反应模式。
+
+**Typical behavior pattern**: Moderate but steady response rate with virtually no pauses. Produces more consistent response patterns than fixed-interval schedules.
+
+**现实例子**：等待公交车（不确定的到达时间）、查看手机消息、钓鱼（不确定何时会有鱼上钩）。Waiting for a bus (uncertain arrival time), checking phone messages, fishing (uncertain when fish will bite).
+
+### 消退与抗消退性 / Extinction and Resistance to Extinction
+
+强化时程表对行为消退的速度有决定性影响。一般规律是：**间歇强化比连续强化产生更强的抗消退性**（resistance to extinction）。这就是所谓的"部分强化消退效应"（Partial Reinforcement Extinction Effect, PREE）。
+
+Schedules have a decisive impact on the speed of behavior extinction. The general rule is: **intermittent reinforcement produces greater resistance to extinction** than continuous reinforcement. This is known as the "Partial Reinforcement Extinction Effect" (PREE).
+
+在四种基本时程表中，**可变比率（VR）**时程表产生最强的抗消退性，这解释了为什么赌博行为如此难以消除——赌徒在长时间无回报后仍持续下注，因为下一次回报可能在任何时候到来。
+
+Among the four basic schedules, the **variable-ratio** (VR) schedule produces the strongest resistance to extinction, explaining why gambling behavior is so difficult to eliminate — gamblers persist in betting after long periods without reward because the next reward could come at any time.
+
+### 复合时程表 / Complex Schedules
+
+斯金纳还描述了多种复合时程表：
+
+Skinner also described several complex schedules:
+
+- **并发时程表（Concurrent Schedules） / Concurrent Schedules** — 两个或多个时程表同时可用，有机体可以选择在不同行为之间分配反应。Concurrent schedules involve two or more schedules simultaneously available, allowing the organism to distribute responses among different behaviors.
+- **多重时程表（Multiple Schedules） / Multiple Schedules** — 不同的时程表在不同的辨别性刺激条件下交替呈现。Different schedules alternate under different discriminative stimulus conditions.
+- **链锁时程表（Chain Schedules） / Chain Schedules** — 完成一个时程表的要求后进入下一个时程表，通常伴随刺激变化。Completing one schedule requirement leads to the next, typically with stimulus changes.
+- **渐进时程表（Progressive Schedules） / Progressive Schedules** — 强化要求随时间系统地增加（如递增比率或递增时距）。Reinforcement requirements systematically increase over time (e.g., progressive ratio or progressive interval).
+
+## 发展脉络 / Development
+
+**1930年代 / 1930s** — 斯金纳在哈佛大学研究生期间开始系统研究不同强化模式对大鼠行为的影响。他最初的实验使用了简单的固定比率程序。
+
+**1938年** — 《有机体的行为》首次描述了多种强化时程表的基本特征，包括固定比率和消退程序。
+
+**1950年代 / 1950s** — 在明尼苏达大学和印第安纳大学期间，斯金纳和费斯特使用鸽子作为被试，进行了大规模、系统性的强化时程表实验。他们的研究使用了精密的程序化设备和累积记录器，产生了大量高分辨率的行为数据。
+
+**1957年** — 《强化时程表》（*Schedules of Reinforcement*）出版，这部近800页的巨著详细记录了各种时程表对鸽子啄键行为的影响，成为行为分析领域最重要的实证研究之一。该书以其精确的数据和清晰的累积记录图而闻名。
+
+**1960年代至今 / 1960s–Present** — 强化时程表的研究从动物实验扩展到人类行为研究，并被广泛应用于教育、临床、组织管理和游戏设计等领域。现代研究还探索了强化时程表与神经科学的关系，发现多巴胺神经元的发放模式与可变时程表的预测误差信号高度对应。
+
+## 临床应用 / Clinical Applications
+
+- **教育中的强化安排 / Reinforcement Arrangement in Education** — 在学习初期使用连续强化（CRF）来快速建立新行为，然后逐步过渡到间歇强化来维持行为。教学中常用的"渐减强化"（thinning reinforcement）程序就是基于时程表研究。Continuous reinforcement for establishing new behavior, then thinning to intermittent reinforcement for maintenance.
+
+- **赌博成瘾的理解与治疗 / Understanding and Treating Gambling Addiction** — 可变比率时程表产生最强抗消退性这一发现，为理解赌博行为的顽固性提供了理论基础。治疗中可以通过"消退"程序（移除强化偶联）和"差异化强化"来减少赌博行为。The VR schedule's strong resistance to extinction provides theoretical basis for understanding gambling persistence.
+
+- **注意力维持与社交媒体设计 / Attention Maintenance and Social Media Design** — 社交媒体平台的通知系统（点赞、评论、新消息）本质上是可变时距/可变比率时程表，这解释了其令人上瘾的特性。理解时程表原理有助于设计更健康的数字产品。Social media notification systems are essentially VI/VR schedules, explaining their addictive properties.
+
+- **行为维持 / Behavior Maintenance** — 在临床干预中，当目标行为已经建立后，从连续强化过渡到间歇强化，以确保行为在治疗结束后仍然维持。Transitioning from continuous to intermittent reinforcement after target behavior is established to ensure maintenance post-treatment.
+
+## 与其他概念的关联 / Related Concepts
+
+- **操作性条件反射 / Operant Conditioning** → [operant-conditioning.md](operant-conditioning.md) — 强化时程表是操作性条件反射的精细化操作系统。Schedules are the refined operational system of operant conditioning.
+- **强化 / Reinforcement** → [reinforcement.md](reinforcement.md) — 强化时程表控制着强化物的递送模式。Schedules control the delivery pattern of reinforcers.
+- **消退 / Extinction** — 消退可以被视为"强化时程表为零"（EXT），即不再递送任何强化物。Extinction can be viewed as a "zero schedule" where no reinforcers are delivered.
+- **游戏化设计 / Gamification Design** — 现代游戏设计大量借鉴了强化时程表研究，特别是可变比率时程表在奖励系统设计中的应用。Modern game design draws heavily from schedule research.
+- **匹配定律 / Matching Law** — 在并发时程表条件下，有机体在不同替代行为之间分配反应的比例大致匹配各替代行为获得的强化比例。Under concurrent schedules, organisms distribute responses among alternatives roughly proportional to reinforcement obtained from each.
+
+## 东西方对话 / East-West Dialogue
+
+强化时程表与佛教中的**不定果报**（aniyata-vipaka）概念有有趣对应。佛教认为，某些行为的果报时间是不确定的——有些果报在此生成熟，有些在来世，有些在更远的未来。这种"不确定性"恰恰类似于可变时程表的效果：由于回报时间的不可预测性，行为变得更加持久和抗消退。这或许可以解释为什么宗教信仰和道德行为能够在缺乏即时回报的情况下持续维持。
+
+Schedules of reinforcement have interesting parallels with the Buddhist concept of **indeterminate results** (aniyata-vipaka). Buddhism holds that the timing of some karmic results is uncertain — some mature in this life, some in future lives, some in more distant futures. This "uncertainty" closely parallels variable-interval schedules: due to the unpredictability of reward timing, behavior becomes more persistent and resistant to extinction. This may explain why religious faith and moral behavior can persist despite lack of immediate rewards.
+
+在道家的修炼传统中，"渐修"（逐步修行）与"顿悟"（突然开悟）的关系，也可以从时程表角度理解：渐修类似于固定比率时程表——每积累一定量的修行就获得一定的进步；而顿悟则类似于可变比率时程表——不可预测的突破性体验，因其不可预测性而具有强大的维持修行动力的效果。
+
+In Daoist cultivation traditions, the relationship between "gradual cultivation" and "sudden enlightenment" can be understood through schedule perspectives: gradual cultivation resembles fixed-ratio schedules — each accumulated amount of practice yields progress; while sudden enlightenment resembles variable-ratio schedules — unpredictable breakthrough experiences whose unpredictability powerfully maintains motivation for practice.
+
+## 进阶阅读 / Further Reading
+
+- Ferster, C.B. & Skinner, B.F. (1957). *Schedules of Reinforcement*. New York: Appleton-Century-Crofts. — 该领域奠基之作 / Foundational work in the field.
+- Zeiler, M.D. (1984). "The sleeping giant: Reinforcement schedules." *Journal of the Experimental Analysis of Behavior*, 42(3), 485-493.
+- Catania, A.C. (2013). *Learning* (5th ed.), Chapters 8-10. Cornwall-on-Hudson, NY: Sloan Publishing. — 强化时程表的现代教科书讨论 / Modern textbook treatment of schedules.
+- Mazur, J.E. (2013). *Learning and Behavior* (7th ed.), Chapter 6. Upper Saddle River, NJ: Pearson.
+- Nevin, J.A. (1998). "Theoretical developments in the study of reinforcement schedules." In W.T. Timberlake & J.E.R. Staddon (Eds.), *Handbook of Behaviorism*. San Diego: Academic Press.

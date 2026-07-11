@@ -1,0 +1,78 @@
+---
+id: marx-class-struggle
+title: 阶级斗争 · Class Struggle
+type: concept
+domain: sociology
+thinker: marx
+school: classical
+tags:
+  - class
+  - conflict-theory
+  - revolution
+  - political-sociology
+cross-refs:
+  - marx/historical-materialism
+  - marx/surplus-value
+  - bourdieu/social-class
+  - du-bois/race-and-class
+---
+
+# 阶级斗争 · Class Struggle
+
+## 概念界定 / Concept Definition
+
+阶级斗争（Class Struggle / Klassenkampf）是马克思历史理论中最具动力性的概念。《共产党宣言》开篇即宣告："至今一切社会的历史都是阶级斗争的历史。"马克思的阶级概念不是简单的收入分层，而是基于人们在生产关系中所处的结构性位置——特别是对生产资料的占有关系——而界定的社会集团。
+
+Class Struggle (Klassenkampf) is the most dynamic concept in Marx's historical theory. The Communist Manifesto opens with the declaration: "The history of all hitherto existing society is the history of class struggles." Marx's concept of class is not mere income stratification but a social grouping defined by people's structural position in the relations of production—especially their relation to the ownership of the means of production.
+
+## 阶级的构成 / Class Composition
+
+### 自在阶级与自为阶级 / Class-in-Itself and Class-for-Itself
+
+马克思在《哲学的贫困》中区分了"自在阶级"（classe en soi）与"自为阶级"（classe pour soi）。自在阶级是客观存在的、由共同经济地位联结的群体；自为阶级则是通过阶级意识的觉醒、阶级组织的建立和阶级斗争的实践而成为自觉历史主体的群体。这一从"自在"到"自为"的转化是革命过程的核心。
+
+Marx distinguished in The Poverty of Philosophy between "class-in-itself" (classe en soi) and "class-for-itself" (classe pour soi). Class-in-itself is an objectively existing group united by common economic position; class-for-itself is a group that, through the awakening of class consciousness, the establishment of class organization, and the practice of class struggle, becomes a self-conscious historical subject. This transformation from "in-itself" to "for-itself" is the core of the revolutionary process.
+
+### 资本主义社会的两大阶级 / Two Great Classes of Capitalist Society
+
+马克思认为资本主义社会的阶级对立趋于简化和两极化：资产阶级（占有生产资料的资本家阶级）和无产阶级（除自身劳动力外一无所有的雇佣劳动者阶级）。中间阶层（小资产阶级、农民）将在资本主义发展中逐渐被分化和吸纳。
+
+Marx argued that class antagonism in capitalist society tends toward simplification and polarization: the bourgeoisie (the capitalist class owning the means of production) and the proletariat (the wage-labouring class owning nothing but their labour-power). Intermediate strata (petite bourgeoisie, peasants) would be gradually differentiated and absorbed in the course of capitalist development.
+
+## 阶级斗争的形式 / Forms of Class Struggle
+
+阶级斗争采取多种形式：经济斗争（罢工、工资谈判）、政治斗争（议会斗争、政党建设、革命）、意识形态斗争（理论批判、宣传教育）。马克思认为政治斗争是阶级斗争的最高形式，因为只有通过夺取政治权力，无产阶级才能实现根本的社会变革。
+
+Class struggle takes multiple forms: economic struggle (strikes, wage negotiations), political struggle (parliamentary action, party-building, revolution), and ideological struggle (theoretical critique, propaganda, education). Marx considered political struggle the highest form of class struggle, since only through the seizure of political power can the proletariat achieve fundamental social transformation.
+
+## 理论的后续发展 / Subsequent Development
+
+### 列宁 / Lenin
+列宁发展了先锋队理论，认为无产阶级的阶级意识需要从外部（由革命知识分子）灌输，这为布尔什维克政党模式奠定了理论基础。
+Lenin developed the vanguard-party theory, arguing that proletarian class consciousness must be introduced "from without" (by revolutionary intellectuals), laying the theoretical foundation for the Bolshevik party model.
+
+### 葛兰西 / Gramsci
+葛兰西将阶级斗争理论从经济领域扩展到文化领域，提出"文化霸权"（hegemony）概念，强调资产阶级统治不仅依靠暴力，更依靠被统治者的"同意"——即文化和意识形态的领导权。
+Gramsci extended class-struggle theory from the economic to the cultural sphere, proposing the concept of "hegemony," emphasizing that bourgeois rule relies not merely on coercion but on the "consent" of the ruled—i.e., cultural and ideological leadership.
+
+### E.P. 汤普森 / E.P. Thompson
+汤普森在《英国工人阶级的形成》中将阶级理解为一种"历史现象"和"关系"，而非固定的"结构"或"范畴"，强调阶级形成过程中文化、传统和能动性的作用。
+Thompson in The Making of the English Working Class understood class as a "historical phenomenon" and a "relationship" rather than a fixed "structure" or "category," emphasizing the role of culture, tradition, and agency in class formation.
+
+### 当代阶级分析 / Contemporary Class Analysis
+埃里克·奥林·赖特（Erik Olin Wright）发展了"矛盾的阶级位置"概念；布迪厄（Bourdieu）将阶级分析从经济资本扩展到文化资本和社会资本；新马克思主义者探讨了"新中间阶级"和"专业-管理阶级"问题。
+Erik Olin Wright developed the concept of "contradictory class locations"; Bourdieu extended class analysis from economic capital to cultural and social capital; neo-Marxists explored the "new middle class" and the "professional-managerial class."
+
+## 批评与回应 / Criticisms and Responses
+
+**批评：** 阶级简化论——马克思将一切社会冲突还原为阶级对立，忽略了种族、性别、民族等其他支配形式。
+Criticism: Class reductionism—Marx reduces all social conflict to class antagonism, ignoring other forms of domination such as race, gender, and ethnicity.
+
+**回应：** 马克思本人承认多种压迫形式的存在（如对爱尔兰民族问题的分析），但认为阶级关系构成了资本主义社会中其他压迫形式得以再生产的结构性基础。当代交叉性（intersectionality）理论可以被视为对这一问题的推进。
+Response: Marx himself acknowledged multiple forms of oppression (e.g., his analysis of the Irish national question), but argued that class relations constitute the structural basis on which other forms of oppression are reproduced in capitalist society. Contemporary intersectionality theory can be seen as an advance on this problematic.
+
+## 当代应用 / Contemporary Applications
+
+阶级斗争理论在21世纪面临新的挑战和机遇：全球价值链中的"跨国阶级"（transnational class）问题、平台经济中的"不稳定无产者"（precariat）、全球金融精英（"1%"）与大众的新的两极化。盖伊·斯坦丁（Guy Standing）的"不稳定无产者"（precariat）概念、托马斯·皮凯蒂（Thomas Piketty）的财富不平等研究、以及"占领华尔街"运动的口号，都表明阶级分析在当代仍然具有强大的解释力。
+
+Class-struggle theory faces new challenges and opportunities in the 21st century: the question of "transnational classes" in global value chains, the "precariat" in the platform economy, and the new polarization between the global financial elite ("the 1%") and the masses. Guy Standing's "precariat" concept, Thomas Piketty's research on wealth inequality, and the slogans of the "Occupy Wall Street" movement all demonstrate that class analysis retains powerful explanatory force today.

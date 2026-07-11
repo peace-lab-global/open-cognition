@@ -1,0 +1,99 @@
+# 埃里克·埃里克森 · Erik Erikson - 推荐阅读 / Reading List
+
+## 一、原典（按阅读优先级排序） / Primary Sources (by Reading Priority)
+
+### 入门级 / Introductory
+
+| 著作 / Work | 推荐理由 / Why Read It | 难度 / Level |
+|------|------|:---:|
+| *The Life Cycle Completed* (1982)《生命周期的完成》 | 八阶段理论的最成熟、最简洁的表述。适合作为了解埃里克森思想的第一本书。/ Most mature and concise statement of the eight-stage theory. Ideal as the first book for understanding Erikson's thought. | ★★☆ |
+| *Identity and the Life Cycle* (1959)《同一性与生命周期》 | 同一性概念的核心文本。比《童年与社会》更聚焦，更容易入手。/ Core text of the identity concept. More focused and accessible than *Childhood and Society*. | ★★☆ |
+
+### 进阶级 / Intermediate
+
+| 著作 / Work | 推荐理由 / Why Read It | 难度 / Level |
+|------|------|:---:|
+| *Childhood and Society* (1950)《童年与社会》 | 心理社会发展理论的奠基之作。融合了精神分析、人类学和发展心理学。内容广泛，需要一定的知识基础。/ Foundational work of psychosocial development theory. Integrates psychoanalysis, anthropology, and developmental psychology. Broad in scope, requires some background. | ★★★ |
+| *Identity: Youth and Crisis* (1968)《同一性：青年与危机》 | 同一性理论的深化与扩展。对理解1960年代青年运动和当代身份认同问题有重要参考价值。/ Deepening and expansion of identity theory. Important reference for understanding the 1960s youth movement and contemporary identity issues. | ★★★ |
+| *Young Man Luther* (1958)《青年路德》 | 心理历史学的开创性应用。展示如何将精神分析理论应用于历史人物的研究。/ Pioneering application of psychohistory. Demonstrates how psychoanalytic theory can be applied to the study of historical figures. | ★★★ |
+
+### 高阶级 / Advanced
+
+| 著作 / Work | 推荐理由 / Why Read It | 难度 / Level |
+|------|------|:---:|
+| *Gandhi's Truth* (1969)《甘地的真理》 | 心理传记研究的巅峰之作（普利策奖）。需要一定的印度历史和文化背景知识。/ Pinnacle of psychobiographical research (Pulitzer Prize). Requires some background knowledge of Indian history and culture. | ★★★★ |
+| *Life History and the Historical Moment* (1975)《生命历史与历史时刻》 | 心理历史学方法论的系统反思。对方法论感兴趣的读者尤为重要。/ Systematic methodological reflection on psychohistory. Especially important for readers interested in methodology. | ★★★★ |
+| *Insight and Responsibility* (1964)《洞见与责任》 | 探讨精神分析的伦理维度。对治疗师和研究者有重要的启发意义。/ Explores ethical dimensions of psychoanalysis. Important insights for therapists and researchers. | ★★★ |
+
+## 二、二手研究（英文） / Secondary Sources (English)
+
+### 传记 / Biographies
+
+| 著作 / Work | 说明 / Description |
+|------|------|
+| Coles, R. *Erik Erikson: The Growth of His Work*. Boston: Little, Brown, 1970. | 第一部系统性的学术传记。科尔斯本人是著名的儿童精神病学家，对埃里克森的工作有深刻的理解。/ First systematic academic biography. Coles was himself a renowned child psychiatrist with deep understanding of Erikson's work. |
+| Friedman, L.J. *Identity's Architect: A Biography of Erik H. Erikson*. New York: Scribner, 1999. | 最权威的全传。基于大量档案材料和对埃里克森家人的访谈。/ Most authoritative full biography. Based on extensive archival materials and interviews with Erikson's family. |
+
+### 理论分析 / Theoretical Analyses
+
+| 著作 / Work | 说明 / Description |
+|------|------|
+| Hoare, C.H. *Erikson on Development in Adulthood: New Directions in Theory and Research*. Oxford University Press, 2002. | 对成人阶段（第六到第八阶段）的深入分析，包括最新的实证研究。/ In-depth analysis of adult stages (sixth through eighth), including latest empirical research. |
+| Kegan, R. *The Evolving Self: Problem and Process in Human Development*. Harvard University Press, 1982. | 凯根在埃里克森的基础上发展了"建构-发展"理论，是对埃里克森思想的重要继承和发展。/ Kegan's "constructive-developmental" theory builds on Erikson, representing an important inheritance and development. |
+| McAdams, D.P. *The Redemptive Self: Stories Americans Live By*. Oxford University Press, 2006. | 麦克亚当斯将生成性概念与叙事心理学结合，是埃里克森思想在当代的重要发展。/ McAdams integrates generativity with narrative psychology, representing an important contemporary development of Erikson's thought. |
+| Marcia, J.E. "Identity in Adolescence." In *Handbook of Adolescent Psychology*, edited by J. Adelson. Wiley, 1980. | 马西亚的同一性状态范式的核心论文。/ Core paper on Marcia's Identity Status Paradigm. |
+
+### 当代评论 / Contemporary Commentary
+
+| 著作 / Work | 说明 / Description |
+|------|------|
+| Kroger, J. *Identity in Adolescence: The Balance Between Self and Other*. 4th ed. Routledge, 2017. | 同一性研究的最新综述，涵盖数字时代的身份认同问题。/ Latest comprehensive review of identity research, covering identity in the digital age. |
+| Vaillant, G.E. *Aging Well: Surprising Guideposts to a Happier Life from the Landmark Study of Adult Development*. Little, Brown, 2002. | 哈佛成人发展研究（Grant Study）的发现，与埃里克森的成人发展阶段理论高度相关。/ Findings from the Harvard Grant Study of Adult Development, highly relevant to Erikson's adult developmental stages. |
+| Slater, C.L. "Generativity Versus Stagnation: An Elaboration of Erikson's Adult Stage of Human Development." *Journal of Adult Development* 10, no. 1 (2003): 53–65. | 对生成性概念的深入理论分析。/ In-depth theoretical analysis of the generativity concept. |
+
+## 三、中文资源 / Chinese Resources
+
+### 中译本 / Chinese Translations
+
+| 著作 / Work | 出版社 / Publisher | 说明 / Notes |
+|------|------|------|
+| 《童年与社会》 | 世界图书出版公司 | 埃里克森的奠基之作 / Erikson's foundational work |
+| 《同一性：青少年与危机》 | 中央编译出版社 | 同一性理论的核心文本 / Core text of identity theory |
+| 《生命周期的完成》 | 中国人民大学出版社 | 八阶段理论的最终表述 / Final statement of the eight-stage theory |
+| 《甘地的真理》 | 多个版本 | 普利策奖获奖作品 / Pulitzer Prize winner |
+
+### 中文研究 / Chinese Studies
+
+| 著作 / Work | 说明 / Description |
+|------|------|
+| 叶浩生.《理论心理学》. 广州: 广东教育出版社. | 包含对埃里克森理论的系统介绍 / Includes systematic introduction to Erikson's theory |
+| 林崇德.《发展心理学》. 北京: 人民教育出版社. | 在中文发展心理学框架下讨论埃里克森 / Discusses Erikson within Chinese developmental psychology framework |
+| 陈永明 等.《现代心理学》. 上海: 上海人民出版社. | 对埃里克森心理社会发展理论的综述 / Overview of Erikson's psychosocial development theory |
+
+## 四、相关资源 / Related Resources
+
+### 相关思想家 / Related Thinkers
+
+- [弗洛伊德 Freud](../../psychoanalysis/freud/) — 埃里克森的理论基础 / Foundation of Erikson's theory
+- [安娜·弗洛伊德 Anna Freud](../../psychoanalysis/anna-freud/) — 埃里克森的老师 / Erikson's teacher
+- [皮亚杰 Piaget](../piaget/) — 认知发展的互补视角 / Complementary perspective on cognitive development
+- [鲍尔比 Bowlby](../bowlby/) — 依恋理论与早期发展 / Attachment theory and early development
+- [弗兰克尔 Frankl](../../existential-psychology/frankl/) — 意义与同一性 / Meaning and identity
+- [马斯洛 Maslow](../../humanistic/maslow/) — 自我实现与超越 / Self-actualization and transcendence
+- [科尔伯格 Kohlberg](../kohlberg/) — 道德发展阶段 / Moral developmental stages
+
+### 在线资源 / Online Resources
+
+- Erikson Institute (erikson.edu) — 埃里克森研究基金会 / Erikson research foundation
+- The Erik H. and Joan M. Erikson Papers, Harvard University Archives — 哈佛大学档案馆藏 / Harvard University Archives
+- Dan P. McAdams's Generativity Research Page (Northwestern University) — 麦克亚当斯的生成性研究 / McAdams's generativity research
+
+### 相关概念页面 / Related Concept Pages
+
+- → [心理社会发展八阶段](concepts/psychosocial-stages.md) / [Eight Stages of Psychosocial Development](concepts/psychosocial-stages.md)
+- → [同一性危机](concepts/identity-crisis.md) / [Identity Crisis](concepts/identity-crisis.md)
+- → [自我整合](concepts/ego-integrity.md) / [Ego Integrity](concepts/ego-integrity.md)
+- → [生命周期](concepts/life-cycle.md) / [Life Cycle](concepts/life-cycle.md)
+- → [生成性](concepts/generativity.md) / [Generativity](concepts/generativity.md)
+- → [著作年表](works.md) / [Works Chronology](works.md)
+- → [生平年表](timeline.md) / [Life Timeline](timeline.md)

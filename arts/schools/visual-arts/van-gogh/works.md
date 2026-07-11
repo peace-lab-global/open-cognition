@@ -1,0 +1,152 @@
+---
+id: van-gogh-works
+title: "梵高作品年表 · Van Gogh Works Bibliography"
+type: bibliography
+thinker: van-gogh
+domain: arts
+school: visual-arts
+cross-refs:
+  - van-gogh
+  - post-impressionism
+sub-entries:
+  - concepts/post-impressionism
+  - concepts/expressive-color
+  - concepts/impasto-technique
+  - concepts/suffering-creativity
+  - concepts/starry-night
+---
+
+# 梵高作品年表与书目 / Van Gogh Works Bibliography
+
+## 一、荷兰时期（1880—1886）/ Dutch Period
+
+### 1. 《吃土豆的人》（1885）/ *The Potato Eaters*
+梵高的第一幅重要作品，创作于荷兰纽南（Nuenen）。以阴暗的色调和粗犷的笔触描绘了一群荷兰农民围坐在油灯下吃土豆的场景。梵高在给提奥的信中解释了他的意图："我想让人觉得这些在灯光下吃土豆的人，是用他们伸向盘子的那同一双手挖掘土地的。"这幅画受米勒的农民画和荷兰黄金时代暗色调的影响，但已经展现了梵高特有的粗犷笔触和对劳动者尊严的深切敬意。阿姆斯特丹梵高博物馆藏。 / Van Gogh's first major work, created in Nuenen, Netherlands. Dark tones and rough brushwork depict Dutch peasants around an oil lamp eating potatoes. Influenced by Millet's peasant paintings and the Dutch Golden Age, yet already displaying Van Gogh's characteristic rough brushwork. Van Gogh Museum, Amsterdam.
+
+### 2. 《骷髅头与香烟》（1885-86）/ *Skull with Burning Cigarette*
+一幅小型但极具力量的作品——一个骷髅头叼着一根燃烧的香烟。这幅画可能受到解剖学课程和当时关于吸烟的辩论的启发，但其黑色幽默和对死亡的直面态度预示了梵高日后作品中的精神强度。 / A small but powerful work — a skull with a burning cigarette. Its black humor and direct confrontation with death foreshadowed the spiritual intensity of Van Gogh's later works.
+
+## 二、巴黎时期（1886—1888）/ Paris Period
+
+### 3. 自画像系列（1886-88）/ Self-Portraits
+梵高在巴黎期间创作了约25幅自画像——因为无力聘请模特，他将自己作为最方便的模特。这些自画像记录了他从荷兰时期阴暗色调向印象派明亮色彩的转变：早期自画像色调暗淡，后期自画像色彩鲜明、笔触碎裂。阿姆斯特丹梵高博物馆、奥赛博物馆等藏。 / Approximately 25 self-portraits during the Paris period — unable to afford models, he used himself. These document his transformation from Dutch-period dark tones to Impressionist brightness.
+
+### 4. 《唐吉老爹肖像》（1887）/ *Portrait of Père Tanguy*
+描绘巴黎画商唐吉（Julien-François Tanguy）的肖像。背景中直接粘贴了日本浮世绘版画——这是梵高对日本艺术热爱的直接表达。色彩明亮，笔触已具有点彩法的影响。 / Portrait of Paris art dealer Tanguy with ukiyo-e prints pasted directly into the background — a direct expression of Van Gogh's love for Japanese art.
+
+### 5. 《意大利女子》（1887）/ *Italian Woman*
+受浮世绘和点彩法影响的肖像画——色彩平面化，轮廓大胆，体现了梵高对多种风格的综合吸收。 / Portrait influenced by ukiyo-e and pointillism — flattened color, bold outlines, embodying Van Gogh's synthetic absorption of multiple styles.
+
+## 三、阿尔勒时期（1888—1889）/ Arles Period
+
+### 6. 《向日葵》系列（1888-89）/ *Sunflowers*
+梵高最具标志性的作品系列。1888年8月，梵高为迎接高更的到来，创作了四幅向日葵静物画来装饰他在阿尔勒的"黄房子"。这些画以浓烈的黄色调——从淡黄到橙黄到深赭——表达了他对友谊和温暖的渴望。"向日葵是我的"——梵高将这一花卉确立为个人标志。系列中最著名的两幅分别藏于伦敦国家美术馆和慕尼黑新绘画陈列馆。 / Van Gogh's most iconic series. Created in August 1888 to welcome Gauguin. Intense yellow tones — from pale yellow to orange-yellow to deep ochre — express longing for friendship and warmth. National Gallery London and Neue Pinakothek Munich.
+
+### 7. 《夜间咖啡馆》（1888）/ *The Night Café*
+以红、绿互补色的强烈对比描绘阿尔勒一家通宵营业的咖啡馆内部。梵高在信中写道："我试图用红色和绿色来表达人类可怕的激情。"纽黑文耶鲁大学美术馆藏。 / Intense red-green complementary contrast depicting an all-night café in Arles. "I have tried to express the terrible passions of humanity by means of red and green." Yale University Art Gallery.
+
+### 8. 《阿尔勒的卧室》（1888）/ *Bedroom in Arles*
+以平面化的色彩和故意扭曲的透视描绘梵高在阿尔勒的简朴卧室。梵高说这幅画表达的是"绝对的宁静"。三个版本分别藏于阿姆斯特丹梵高博物馆、芝加哥艺术学院和奥赛博物馆。 / Flattened color and deliberately distorted perspective depicting Van Gogh's simple bedroom. "Absolute rest." Three versions: Van Gogh Museum, Art Institute of Chicago, Musée d'Orsay.
+
+### 9. 《罗纳河上的星夜》（1888）/ *Starry Night Over the Rhône*
+梵高首次探索星空主题的作品——描绘阿尔勒罗纳河上的夜空和城市灯光在水面上的倒影。蓝色和黄色的对比、星光的颤动。奥赛博物馆藏。 / First exploration of the starry night theme — night sky over the Rhône with city light reflections. Blue-yellow contrast and trembling starlight. Musée d'Orsay.
+
+### 10. 《播种者》（1888）/ *The Sower*
+以米勒的同名作品为基础，但用大胆的色彩重新演绎——巨大的黄色太阳和紫蓝色的田野形成了强烈的互补色对比。梵高一生创作了约30幅"播种者"主题的变体画。 / Based on Millet's composition but reimagined with bold color — enormous yellow sun against purple-blue fields in strong complementary contrast. Van Gogh created approximately 30 variations on the "sower" theme.
+
+### 11. 《黄房子》（1888）/ *The Yellow House*
+描绘梵高在阿尔勒的住所——"黄房子"是他梦想建立"南方工作室"的地方。画面以温暖的黄色调为主，表达了对归属感的渴望。 / Depicts Van Gogh's residence in Arles — the "Yellow House" where he dreamed of establishing a "Studio of the South." Warm yellow tones expressing longing for belonging.
+
+## 四、圣雷米时期（1889—1890）/ Saint-Rémy Period
+
+### 12. 《星夜》（1889）/ *The Starry Night*
+梵高最著名的作品。在圣保罗精神病院的窗户前创作（结合记忆和想象）。巨大的旋涡状星云占据了画面的上半部分——天空似乎在流动和旋转。前景的丝柏如火焰般向上伸展。纽约现代艺术博物馆藏。 / Van Gogh's most famous work. Created from the asylum window (combining memory and imagination). Enormous swirling nebulae dominate the upper half — sky appears to flow and rotate. Museum of Modern Art, New York.
+
+### 13. 《鸢尾花》（1889）/ *Irises*
+在圣雷米疗养院花园中创作。以浓烈的蓝紫色和绿色描绘鸢尾花——每一朵花的姿态都不同，充满了生命力。评论家奥里耶称其为"充满空气感和生命力的杰作"。洛杉矶保罗·盖蒂博物馆藏。 / Created in the asylum garden. Intense blue-purple and green irises — each flower unique in posture, full of vitality. J. Paul Getty Museum, Los Angeles.
+
+### 14. 《丝柏》系列（1889）/ *Cypresses*
+梵高将普罗旺斯的丝柏树发展为个人标志——"像埃及方尖碑一样美丽"。丝柏的深绿色在明亮的天空下形成了强烈的对比，其向上伸展的姿态被赋予了一种精神性的力量。纽约大都会艺术博物馆等藏。 / Van Gogh developed Provençal cypresses into a personal symbol — "beautiful like Egyptian obelisks." Deep green against bright sky, upward-reaching forms imbued with spiritual force. Metropolitan Museum of Art, New York and others.
+
+### 15. 《橄榄树》系列（1889）/ *Olive Trees*
+梵高在圣雷米期间创作了约18幅橄榄树主题的作品——将橄榄树的扭曲形态和银绿色叶片转化为充满精神能量的风景。他称橄榄树"像柳树一样具有普罗旺斯特色的典型形象"。 / Approximately 18 olive tree works during the Saint-Rémy period — transforming the gnarled forms and silver-green leaves into landscapes charged with spiritual energy.
+
+## 五、奥维尔时期（1890年5-7月）/ Auvers Period
+
+### 16. 《加歇医生肖像》（1890）/ *Portrait of Dr. Gachet*
+描绘照顾梵高的加歇医生——他忧郁地靠在手臂上。梵高说："他的表情是我们这个时代的忧郁表情。"1990年以8250万美元拍出，创下当时艺术品拍卖纪录。两个版本分别藏于奥赛博物馆和私人收藏。 / Depicts Dr. Gachet leaning melancholically on his arm. "His expression is the melancholy expression of our time." Sold for $82.5 million in 1990, setting the art auction record at the time.
+
+### 17. 《奥维尔教堂》（1890）/ *The Church at Auvers*
+以扭曲的线条和浓烈的色彩描绘奥维尔小镇的罗马式教堂——建筑的直线被弯曲，天空的深蓝与教堂的蓝绿色形成了统一而又紧张的色彩关系。奥赛博物馆藏。 / Twisted lines and intense colors depicting Auvers' Romanesque church — architectural straight lines bent, deep blue sky in tense color relationship with the church's blue-green. Musée d'Orsay.
+
+### 18. 《麦田群鸦》（1890）/ *Wheatfield with Crows*
+梵高最后的作品之一。三条岔路从画面中央延伸出去，没有尽头；金色的麦田上方是翻涌的黑色乌云和飞散的乌鸦。画面充满了不祥的预感和壮美。阿姆斯特丹梵高博物馆藏。 / One of Van Gogh's last works. Three diverging paths extend from center with no end; golden wheat field beneath churning black clouds and scattered crows. Full of ominous premonition and grandeur. Van Gogh Museum, Amsterdam.
+
+### 19. 《杏花》（1890）/ *Almond Blossom*
+为庆祝弟弟提奥和乔的儿子（也取名文森特）的出生而创作。以日本浮世绘风格的蓝色天空为背景，白色杏花枝条舒展——这是梵高作品中罕见的宁静与喜悦的表达。阿姆斯特丹梵高博物馆藏。 / Created to celebrate the birth of Theo and Jo's son (also named Vincent). White almond blossom branches against ukiyo-e-influenced blue sky — a rare expression of tranquility and joy in Van Gogh's oeuvre. Van Gogh Museum, Amsterdam.
+
+## 六、书信 / The Letters
+
+### 20. 《梵高书信集》/ *The Letters of Vincent van Gogh*
+梵高一生写了约900封书信，其中约650封是写给弟弟提奥的。这些书信不仅是个人情感的记录，更是一部关于艺术创作的系统反思——涉及色彩理论、构图原则、对其他画家的评价、文学阅读（左拉、狄更斯、莎士比亚）和精神状态。书信集是理解梵高艺术思想的最重要第一手文献，其文学价值可与达·芬奇笔记本和歌德通信集媲美。 / Approximately 900 letters, about 650 to brother Theo. Not merely personal records but systematic reflections on artistic creation — covering color theory, compositional principles, evaluations of other painters, literary reading, and mental states. The most important first-person document for understanding Van Gogh's artistic thought.
+
+## 七、创作统计 / Creative Statistics
+
+| 类别 / Category | 数量 / Count | 说明 / Notes |
+|------|------|------|
+| 油画 / Oil paintings | 约860幅 / ~860 | 包括自画像、风景、静物和肖像 / Including self-portraits, landscapes, still lifes, and portraits |
+| 素描与水彩 / Drawings and watercolors | 约1,100幅 / ~1,100 | 包括习作、速写和完整素描 / Including studies, sketches, and finished drawings |
+| 版画 / Prints | 10幅 / 10 | 石版画 / Lithographs |
+| 书信 / Letters | 约900封 / ~900 | 主要为与提奥的通信 / Primarily correspondence with Theo |
+
+## 八、身后出版与传播 / Posthumous Publications and Dissemination
+
+梵高于1890年7月29日去世后，其作品和遗产由弟弟提奥接管。提奥在六个月后（1891年1月25日）也因悲伤和疾病去世。此后，提奥的遗孀乔安娜·梵高-邦格（Johanna van Gogh-Bonger）成为梵高遗产的守护者和推广者——她被认为是梵高声名建构的关键人物。
+
+After Van Gogh's death on July 29, 1890, his works and estate passed to his brother Theo, who died six months later (January 25, 1891). Thereafter, Theo's widow Johanna van Gogh-Bonger became the guardian and promoter of Van Gogh's legacy — the key figure in constructing Van Gogh's posthumous fame.
+
+| 年份 / Year | 事件 / Event | 意义 / Significance |
+|------|------|------|
+| 1891-1925 | 乔安娜系统整理、展出和推广梵高作品 / Johanna systematically organized, exhibited, and promoted Van Gogh's works | 梵高遗产的建构 / Construction of Van Gogh's legacy |
+| 1905 | 阿姆斯特丹市立博物馆举办大型回顾展 / Amsterdam Stedelijk Museum major retrospective | 荷兰首次全面展示 / First comprehensive Dutch exhibition |
+| 1914 | 乔安娜出版《梵高书信集》第一版（三卷）/ Johanna published first edition of *Letters* (3 vols.) | 最重要的第一手文献面世 / Most important first-person document published |
+| 1928 | 德·拉·法耶出版全作品目录 / De la Faille published complete works catalogue | 梵高作品的系统编目（F编号系统）/ Systematic cataloguing (F-number system) |
+| 1958 | 许尔斯克修订全作品目录 / Hulsker revised complete works catalogue | 更新的编目标准（JH编号系统）/ Updated cataloguing standard (JH-number system) |
+| 2009 | 六卷本学术版书信全集出版 / 6-volume scholarly edition of letters published | 最新权威学术版 / Latest authoritative scholarly edition |
+
+## 九、重要版本与翻译 / Key Editions and Translations
+
+### 书信集版本 / Letter Editions
+
+| 版本 / Edition | 年份 / Year | 语言 / Language | 说明 / Notes |
+|------|------|------|------|
+| *Brieven aan zijn broeder*（乔安娜编辑）| 1914 | 荷兰文 / Dutch | 第一版书信选 / First published selection |
+| *Verzamelde Brieven*（四卷）| 1952-54 | 荷兰文 / Dutch | 较完整的荷兰文版 / More complete Dutch edition |
+| *The Complete Letters of Vincent van Gogh*（三卷）| 1958 | 英文 / English | 首个完整英文版 / First complete English edition |
+| *The Letters of Vincent van Gogh*（Penguin Classics, Ronald de Leeuw ed.）| 1996 | 英文 / English | 面向一般读者的精选版 / Selected edition for general readers |
+| *Vincent van Gogh: The Letters*（六卷）| 2009 | 荷兰文/英文 / Dutch/English | 最新学术版，含原信影印和详细注释 / Latest scholarly edition with facsimiles and annotations |
+
+### 中译版本 / Chinese Translations
+
+| 版本 / Edition | 出版社 / Publisher | 说明 / Notes |
+|------|------|------|
+| 《亲爱的提奥：梵高书信选》| 多家出版社 / Various | 面向一般读者的书信精选 / General reader selected letters |
+| 《梵高艺术书简》| — | 书信的另一中译版本 / Alternative Chinese translation |
+| 《梵高书信全集》| 上海人民出版社 | 较完整的中文书信翻译 / More complete Chinese translation |
+
+### 作品图录 / Catalogues
+
+| 版本 / Edition | 年份 / Year | 说明 / Notes |
+|------|------|------|
+| De la Faille, *L'Oeuvre de Vincent van Gogh* | 1928 | 首版全作品目录（F编号系统）/ First complete catalogue (F-number system) |
+| Hulsker, *The Complete Van Gogh* | 1980 | 修订版（JH编号系统）/ Revised catalogue (JH-number system) |
+| Walther & Metzger, *Van Gogh: The Complete Paintings* | 1997 | 面向一般读者的全作品概览 / General reader complete paintings overview |
+| Van Gogh Museum online collection | — | 最大藏品与研究中心 / Largest collection and research center |
+
+## 十、相关概念 / Related Concepts
+
+- [后印象主义](concepts/post-impressionism.md) — 梵高所代表的艺术运动
+- [表现性色彩](concepts/expressive-color.md) — 《向日葵》《夜间咖啡馆》中的色彩革命
+- [厚涂技法](concepts/impasto-technique.md) — 《星夜》《麦田群鸦》中的笔触物质性
+- [苦难与创造力](concepts/suffering-creativity.md) — 圣雷米时期的创作背景
+- [星夜](concepts/starry-night.md) — 梵高最著名作品的深层解读

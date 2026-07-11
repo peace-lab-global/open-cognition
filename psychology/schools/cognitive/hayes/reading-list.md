@@ -1,0 +1,180 @@
+---
+id: psychology.cognitive.hayes.reading-list
+title: "海耶斯进阶阅读清单 · Steven Hayes Reading List"
+type: reading-list
+thinker: hayes
+school: cognitive
+---
+
+# 海耶斯进阶阅读清单 / Steven Hayes Reading List
+
+## 一、海耶斯原著（按难度递进） / Primary Works by Hayes (By Difficulty)
+
+### 入门级 / Introductory
+
+| 著作 | 年份 | 说明 |
+|------|------|------|
+| *Get Out of Your Mind and Into Your Life* (with Smith) | 2005 | 面向大众的ACT自助手册，包含大量练习，是理解ACT最易入门的读物 |
+| *A Liberated Mind: How to Pivot Toward What Matters* | 2019 | 海耶斯的个人叙事与科学整合，面向大众，全面阐述心理灵活性 |
+| *The Happiness Trap* (Russ Harris) | 2008 | Harris的ACT通俗读物，虽然不是海耶斯原著，但是ACT最受欢迎的入门书 |
+
+### 中级 / Intermediate
+
+| 著作 | 年份 | 说明 |
+|------|------|------|
+| *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (with Strosahl & Wilson) | 1999 | ACT奠基之作，临床从业者必读 |
+| *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change* (2nd ed., with Strosahl & Wilson) | 2011 | **ACT第二版教科书**，整合RFT和CBS最新进展，系统阐述六大核心过程 |
+| *A Practical Guide to Acceptance and Commitment Therapy* (with Follette, Eds.) | 2004 | ACT临床实践指南，包含各种临床问题的ACT干预方案 |
+| *ACT Made Simple* (Russ Harris, 2nd ed.) | 2019 | Harris的临床从业者指南，是ACT第二版教科书的最佳伴侣 |
+
+### 高级 / Advanced
+
+| 著作 | 年份 | 说明 |
+|------|------|------|
+| *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (with Barnes-Holmes & Roche, Eds.) | 2001 | **RFT系统阐述**，理论深度大，需要行为分析基础 |
+| *Process-Based CBT: The Science and Core Clinical Competencies of Cognitive Behavioral Therapy* (with Hofmann, Eds.) | 2018 | 过程导向CBT的纲领性著作，推动从方案到过程的范式转换 |
+| *Advances in Relational Frame Theory* (Dymond & Roche, Eds.) | 2013 | RFT第二个十年的进展文集 |
+| *Prosocial: Using Evolutionary Science to Build Productive, Equitable, and Collaborative Groups* (with Atkins & Wilson) | 2022 | 将CBS扩展到组织和社会层面 |
+
+### 关键论文 / Key Papers
+
+| 论文 | 期刊 | 年份 |
+|------|------|------|
+| "Verbal behavior and equivalence relations" | *JEAB* | 1984 |
+| "Acceptance and Commitment Therapy: Model, processes and outcomes" | *Behaviour Research and Therapy* | 2006 |
+| "Experiential avoidance and behavioral disorders: A functional dimensional approach" | *JCCP* | 2002 |
+| "Contextual behavioral science: Creating a science more adequate to the challenge of the human condition" | *JCBS* | 2015 |
+| "The third wave of cognitive behavioral therapy and the rise of process-based care" | *World Psychiatry* | 2019 |
+
+---
+
+## 二、二手研究 / Secondary Literature
+
+### ACT的实证支持 / Empirical Support for ACT
+
+| 著作/论文 | 作者 | 年份 | 说明 |
+|----------|------|------|------|
+| "A meta-analysis of ACT for anxiety disorders" | Ruiz | 2012 | ACT治疗焦虑障碍的元分析 |
+| "Acceptance and commitment therapy versus traditional CBT for anxiety and depression" | Arch et al. | 2012 | ACT与传统CBT的对比研究 |
+| "The empirical status of ACT: A review of meta-analyses" | Gloster et al. | 2020 | 涵盖64项元分析的伞状综述 |
+| "Acceptance and commitment therapy for the treatment of posttraumatic stress" | Thompson & Waltz | 2010 | ACT治疗PTSD的研究综述 |
+| "ACT for chronic pain: A systematic review and meta-analysis" | Veehof et al. | 2011 | ACT治疗慢性疼痛的系统综述 |
+
+### RFT的实证研究 / Empirical Research on RFT
+
+| 著作/论文 | 作者 | 年份 | 说明 |
+|----------|------|------|------|
+| *Learning RFT: An Introduction to Relational Frame Theory and Its Clinical Application* | Torneke | 2010 | RFT最佳入门教科书 |
+| "A relational frame skills training intervention to increase general intellectual functioning" | Cassidy, Roche & Hayes | 2011 | RFT训练提升智力分数的开创性研究 |
+| "Derived relational responding and human psychopathology" | Dymond & Roche | 2009 | RFT与心理病理学的关联研究 |
+| "Relational frame theory, axiom of the empirical" | Barnes-Holmes et al. | 2001 | RFT的理论基础 |
+
+### 心理灵活性研究 / Research on Psychological Flexibility
+
+| 著作/论文 | 作者 | 年份 | 说明 |
+|----------|------|------|------|
+| "Psychological flexibility as a fundamental aspect of health" | Kashdan & Rottenberg | 2010 | 心理灵活性作为健康核心指标的经典综述 |
+| "Preliminary psychometric properties of the AAQ-II" | Bond et al. | 2011 | AAQ-II量表的信效度研究 |
+| "Psychological inflexibility and psychopathology" | Levin et al. | 2012 | 心理僵化与心理病理的关联元分析 |
+
+---
+
+## 三、英文资源 / English Resources
+
+### 学术组织 / Academic Organizations
+
+- **Association for Contextual Behavioral Science (ACBS)**: [contextualpsychology.org](https://www.contextualpsychology.org) — ACT和RFT研究者的全球学术社区，提供培训资源、研究数据库和年会信息。
+- **APA Division 12 (Clinical Psychology)**: 提供ACT的循证治疗状态更新。
+
+### 学术期刊 / Academic Journals
+
+- *Journal of Contextual Behavioral Science* (JCBS): 语境行为科学的官方期刊
+- *The Behavior Analyst*: 行为分析领域的理论和综述
+- *Journal of the Experimental Analysis of Behavior* (JEAB): 实验行为分析
+- *Behavior Therapy*: ACT和CBT临床研究
+
+### 在线课程 / Online Courses
+
+- ACT-immersion.com: ACT临床培训
+- Praxis CET: Steven Hayes参与的ACT培训平台
+- ACBS网络研讨会: 定期的ACT和RFT学术研讨
+
+### 测量工具 / Assessment Tools
+
+- **AAQ-II (Acceptance and Action Questionnaire-II)**: 心理灵活性测量
+- **VLQ (Valued Living Questionnaire)**: 价值践行测量
+- **CFQ (Cognitive Fusion Questionnaire)**: 认知融合测量
+- **MPFI (Multidimensional Psychological Flexibility Inventory)**: 多维心理灵活性测量
+
+---
+
+## 四、中文资源 / Chinese Resources
+
+### 海耶斯著作中译本 / Chinese Translations
+
+| 著作 | 译者 | 出版社 | 说明 |
+|------|------|--------|------|
+| 《接纳承诺疗法》（ACT第二版） | 祝卓宏等 | — | ACT核心教科书的中译本 |
+| 《走出思维的陷阱》（Get Out of Your Mind…） | — | — | 面向大众的ACT自助书中译本 |
+
+### 中文研究者 / Chinese Researchers
+
+- **祝卓宏**：中国科学院心理研究所教授，中国ACT培训和推广的主要推动者
+- 中国接纳承诺疗法（ACT）学组和培训工作坊
+
+### 相关中文文献 / Related Chinese Literature
+
+- 祝卓宏等.《接纳与承诺疗法在心理治疗中的应用》
+- 海耶斯ACT培训工作坊的中文材料和录像
+- 中国心理学 journals 中关于ACT和正念的中文研究论文
+
+---
+
+## 五、跨学科关联阅读 / Interdisciplinary Related Reading
+
+### 第三代CBT / Third-Wave CBT
+
+| 著作 | 作者 | 年份 | 说明 |
+|------|------|------|------|
+| *Mindfulness-Based Cognitive Therapy for Depression* | Segal, Williams & Teasdale | 2013 | 正念认知疗法（MBCT），第三代CBT的另一重要方法 |
+| *Dialectical Behavior Therapy* | Linehan | 1993 | 辩证行为疗法（DBT），第三代CBT的先驱 |
+| *Mindfulness and Acceptance in CBT* | Herbert & Forman (Eds.) | 2011 | 第三代CBT的综合比较 |
+
+### 正念与冥想 / Mindfulness and Meditation
+
+| 著作 | 作者 | 年份 | 说明 |
+|------|------|------|------|
+| *Wherever You Go, There You Are* | Kabat-Zinn | 1994 | 正念减压疗法（MBSR）创始人的经典入门书 |
+| *The Miracle of Mindfulness* | Thich Nhat Hanh | 1976 | 一行禅师的正念经典 |
+
+### 存在主义心理学 / Existential Psychology
+
+| 著作 | 作者 | 年份 | 说明 |
+|------|------|------|------|
+| *Man's Search for Meaning* | Viktor Frankl | 1946 | 意义治疗的奠基之作，与ACT的价值概念深度共鸣 |
+| *The Denial of Death* | Ernest Becker | 1973 | 对死亡焦虑的深刻分析 |
+
+### 行为分析 / Behavior Analysis
+
+| 著作 | 作者 | 年份 | 说明 |
+|------|------|------|------|
+| *Verbal Behavior* | B.F. Skinner | 1957 | 斯金纳的言语行为理论，RFT的理论前身 |
+| *Science and Human Behavior* | B.F. Skinner | 1953 | 斯金纳的行为科学纲领 |
+| *About Behaviorism* | B.F. Skinner | 1974 | 行为主义的哲学基础 |
+
+### 哲学 / Philosophy
+
+| 著作 | 作者 | 年份 | 说明 |
+|------|------|------|------|
+| *Pragmatism: A New Name for Some Old Ways of Thinking* | William James | 1907 | 实用主义哲学，功能性语境主义的理论根源 |
+| *How to Make Our Ideas Clear* | Charles Sanders Peirce | 1878 | 实用主义的经典论文 |
+| *Experience and Nature* | John Dewey | 1925 | 杜威的自然主义经验哲学 |
+
+### 东方哲学 / Eastern Philosophy
+
+| 著作 | 作者 | 说明 |
+|------|------|------|
+| 《庄子》 | 庄周 | "心斋"、"坐忘"、"齐物论"与认知解离的深度对话 |
+| 《唯识三十颂》 | 世亲 | 唯识学的核心文本，"遍计所执性"与认知融合的对照 |
+| 《坛经》 | 惠能 | 禅宗"不立文字、直指人心"与ACT的隐喻治疗风格 |
+| 《传习录》 | 王阳明 | "知行合一"与ACT的"价值+承诺行动" |

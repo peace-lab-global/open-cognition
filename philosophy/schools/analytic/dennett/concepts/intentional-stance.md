@@ -1,0 +1,36 @@
+---
+id: dennett-intentional-stance
+title: 意向立场 · Intentional Stance
+type: concept
+thinker: dennett
+domain: philosophy
+school: analytic
+tags: [intentionality, prediction, agency]
+---
+# 意向立场 · Intentional Stance
+
+## 概念定位 / Conceptual Position
+我们可以通过把系统当作"有信念和欲望的主体"来预测其行为。这不要求系统真有内在状态——是一种实用的解释策略。三种立场：物理立场、设计立场、意向立场。
+
+We can predict a system's behavior by treating it as "an agent with beliefs and desires." Three stances: physical, design, intentional.
+
+## 核心论述 / Core Argument
+- **物理立场 / Physical Stance**: 用物理定律预测（精确但计算昂贵）
+- **设计立场 / Design Stance**: 用设计目的预测（适用于人造物）
+- **意向立场 / Intentional Stance**: 用信念和欲望预测（对复杂系统最有效）
+
+对复杂系统（人、AI、甚至恒温器），采用意向立场最有效——但这不承诺系统真有"内在状态"。
+
+## 哲学意义 / Philosophical Significance
+为AI的"理解"问题提供实用框架；挑战了传统意向性理论。
+
+## 东西方对话 / East-West Dialogue
+### 与唯识学"遍计所执" / With Yogacara's "Conceptual Projection"
+采用意向立场是一种"遍计所执"（概念投射）——我们把"信念""欲望"等概念投射到系统上。唯识学追问这种投射的认知地位，Dennett则主张它是实用的而非本体论的。
+
+Adopting the intentional stance is a kind of "conceptual projection" — we project "beliefs" and "desires" onto systems. Yogacara questions this projection's cognitive status; Dennett holds it is pragmatic, not ontological.
+
+## 相关概念 / Related Concepts
+- [多重草稿 Multiple Drafts](multiple-drafts.md)
+- [模因 Memes](memes.md)
+- [丹尼特主页](../README.md)

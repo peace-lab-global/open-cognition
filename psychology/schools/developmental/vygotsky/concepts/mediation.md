@@ -1,0 +1,219 @@
+---
+id: vygotsky-lev.mediation
+title: "中介 · Mediation"
+type: concept
+domain: psychology
+thinker: vygotsky-lev
+tags: [中介, 心理工具, 符号中介, 文化工具, mediation, psychological-tools, sign-mediation, cultural-tools]
+---
+
+# 中介 · Mediation
+
+## 定义 / Definition
+
+中介（Mediation）是维果茨基文化-历史心理学的核心概念，指文化工具（尤其是语言、符号、数字系统）在刺激与反应之间、个体与世界之间插入的"中介环节"。通过中介，人类心理活动从"直接的"（direct，如动物的条件反射）转变为"间接的"（indirect，如人类的抽象思维）。中介是将"自然的"低级心理机能改造为"文化的"高级心理机能的根本机制。
+
+Mediation is the core concept of Vygotsky's cultural-historical psychology, referring to the "mediating link" inserted by cultural tools (especially language, signs, and number systems) between stimulus and response, between individual and world. Through mediation, human psychological activity transforms from "direct" (as in animal conditioned reflexes) to "indirect" (as in human abstract thinking). Mediation is the fundamental mechanism that transforms "natural" lower mental functions into "cultural" higher mental functions.
+
+维果茨基用以下对比来说明中介的本质：
+
+Vygotsky used the following contrast to illustrate the essence of mediation:
+
+- **直接记忆 / Direct Memory**：对刺激的自动、无意识的记忆（如记住突然的响声）。
+- **中介记忆 / Mediated Memory**：使用记忆术、笔记、标签等工具辅助的记忆——工具在这里充当了"中介"。
+
+- **Direct memory**: automatic, unconscious retention of stimuli (e.g., remembering a sudden loud noise).
+- **Mediated memory**: memory aided by mnemonics, notes, labels, etc. — tools serve as "mediators" here.
+
+## 核心机制 / Core Mechanism
+
+### 三角模型 / The Triangular Model
+
+维果茨基提出了一个关键的"三角模型"来说明中介的结构：
+
+Vygotsky proposed a key "triangular model" to illustrate the structure of mediation:
+
+**低级心理机能（自然过程）/ Lower Mental Functions (Natural Process)**：
+刺激（S）——→ 反应（R）
+Stimulus (S) ——→ Response (R)
+
+**高级心理机能（文化过程）/ Higher Mental Functions (Cultural Process)**：
+刺激（S）——→ 中介工具（X）——→ 反应（R）
+Stimulus (S) ——→ Mediating Tool (X) ——→ Response (R)
+
+在高级心理机能中，中介工具（X）——如词语、符号、图表、数字——插入在刺激和反应之间，从根本上改变了心理过程的性质。这不再是简单的"刺激-反应"，而是"刺激-工具中介-反应"。
+
+In higher mental functions, the mediating tool (X) — such as words, signs, diagrams, numbers — is inserted between stimulus and response, fundamentally altering the nature of the psychological process. This is no longer simple "stimulus-response" but "stimulus-tool mediation-response."
+
+### 两类工具 / Two Types of Tools
+
+维果茨基区分了两类中介工具：
+
+Vygotsky distinguished two types of mediating tools:
+
+#### 1. 技术工具 / Technical Tools
+技术工具指向外部世界，改变物质对象：
+Technical tools are directed outward, transforming material objects:
+
+- 锤子、犁、机器等物质工具。
+- Hammers, plows, machines, and other material tools.
+
+#### 2. 心理工具（符号工具）/ Psychological Tools (Sign Tools)
+心理工具指向内部世界，改变心理过程：
+Psychological tools are directed inward, transforming psychological processes:
+
+- **语言 / Language**：最核心的心理工具，是思维、交流、自我调节的基础。
+- **数字系统 / Number Systems**：使计数、计算和抽象数学思维成为可能。
+- **记忆术 / Mnemonic Devices**：扩展和改造自然记忆。
+- **图表与地图 / Diagrams and Maps**：空间思维和信息组织的工具。
+- **艺术作品 / Art Works**：情感和审美经验的中介。
+- **书写系统 / Writing Systems**：将思维外化和持久化。
+
+### 中介的关键特征 / Key Characteristics of Mediation
+
+1. **文化性 / Cultural Nature**：心理工具是文化产物，不是生物学给定的。不同文化使用不同的心理工具（如不同的数字系统、不同的书写系统），这导致了不同的认知模式。
+
+   Psychological tools are cultural products, not biological givens. Different cultures use different psychological tools (e.g., different number systems, different writing systems), leading to different cognitive patterns.
+
+2. **社会传递性 / Social Transmission**：心理工具通过社会互动（尤其是教育）从一代人传递给下一代人。
+
+   Psychological tools are transmitted from one generation to the next through social interaction (especially education).
+
+3. **双向转化 / Bidirectional Transformation**：心理工具不仅被个体使用，在使用过程中也改造了使用者的心理结构。使用心理工具的过程同时是"工具改变人"和"人改变工具"的双向过程。
+
+   Psychological tools are not merely used by individuals; in use, they also transform the user's psychological structure. The process of using psychological tools is simultaneously a bidirectional process of "tools transforming people" and "people transforming tools."
+
+4. **历史性 / Historical Nature**：心理工具是历史发展的产物——随着文化的发展，新的心理工具（如计算机、互联网）不断产生，旧的工具也在演化。
+
+   Psychological tools are products of historical development — as culture develops, new psychological tools (e.g., computers, the Internet) continually emerge, and old tools also evolve.
+
+## 发展脉络 / Development
+
+### 概念的马克思根源 / Marxian Roots of the Concept
+
+维果茨基的中介概念直接来源于马克思关于"劳动工具"的分析。马克思认为，工具的使用是人类区别于动物的根本标志——工具中介了人与自然的关系，同时也中介了人与人的社会关系。维果茨基将这一洞见从物质生产领域推广到心理活动领域：正如物质工具中介了人类的劳动过程，心理工具（符号、语言）中介了人类的认知过程。
+
+Vygotsky's mediation concept derives directly from Marx's analysis of "tools of labor." Marx argued that tool use is the fundamental marker distinguishing humans from animals — tools mediate the human-nature relationship and also mediate human social relations. Vygotsky extended this insight from the domain of material production to psychological activity: just as material tools mediate human labor processes, psychological tools (signs, language) mediate human cognitive processes.
+
+### 从"工具"到"符号"的拓展 / Extension from "Tools" to "Signs"
+
+在1929–1930年的著作中，维果茨基明确区分了"工具"（tools）和"符号"（signs），但强调两者在功能上的平行性：
+
+In his 1929–1930 writings, Vygotsky explicitly distinguished "tools" and "signs" while emphasizing their functional parallelism:
+
+- **工具向外 / Tools are outward-directed**：改变物质世界。
+- **符号向内 / Signs are inward-directed**：改变心理过程。
+
+两者都是"中介手段"（means of mediation），都是文化产物，都通过社会传递。
+
+Both are "means of mediation," both are cultural products, both are socially transmitted.
+
+### 晚期的深化：意义作为中介 / Late Deepening: Meaning as Mediation
+
+在《思维与语言》（1934）中，维果茨基将中介概念深化到"意义"（meaning）层面。词的意义本身成为最重要的中介工具——它不仅是外部世界事物的标签，更是概念思维的操作单元。意义中介了思维的过程和内容。
+
+In *Thought and Language* (1934), Vygotsky deepened the mediation concept to the level of "meaning." Word meaning itself becomes the most important mediating tool — not merely a label for things in the external world but the operational unit of conceptual thinking. Meaning mediates both the process and content of thought.
+
+### 后继发展 / Subsequent Developments
+
+- **Wertsch 的"中介行动" / Wertsch's "Mediated Action"**：Wertsch (1998) 将中介概念发展为"中介行动"理论，强调行动者（agent）与文化工具之间的不可分割关系。
+- **Engestrom 的"活动三角" / Engestrom's "Activity Triangle"**：Engestrom (1987) 将维果茨基的中介概念拓展为包含主体、客体、工具、规则、共同体和分工的完整活动系统模型。
+- **当代认知科学 / Contemporary Cognitive Science**：分布式认知（Distributed Cognition）和延展心智（Extended Mind）理论继承了中介概念的核心洞见。
+
+## 临床应用 / Clinical Applications
+
+### 1. 教育实践 / Educational Practice
+
+中介概念为教育实践提供了核心理论框架：
+
+The mediation concept provides a core theoretical framework for educational practice:
+
+- **教学设计 / Instructional Design**：教师的核心任务是选择和提供适当的中介工具，帮助学生建构知识。
+- **概念图 / Concept Mapping**：可视化的中介工具，帮助学生组织和关联知识。
+- **数学 manipulatives / Math Manipulatives**：物理中介工具（积木、算珠），帮助学生理解抽象数学概念。
+- **思维可视化工具 / Thinking Visualization Tools**：思维导图、流程图等帮助学生外化和组织思维。
+
+### 2. 认知康复 / Cognitive Rehabilitation
+
+在脑损伤患者的认知康复中，中介工具（如记忆辅助装置、日程管理系统、数字提醒工具）被用来补偿受损的认知功能：
+
+In cognitive rehabilitation for brain-injured patients, mediating tools (e.g., memory aids, schedule management systems, digital reminder tools) are used to compensate for impaired cognitive functions:
+
+- **外部记忆辅助 / External Memory Aids**：笔记本、手机提醒、照片日记。
+- **认知策略训练 / Cognitive Strategy Training**：教授患者使用内部言语和意象等中介工具。
+- **环境改造 / Environmental Modification**：调整环境以减少认知负荷。
+
+### 3. 文化敏感的心理治疗 / Culturally Sensitive Psychotherapy
+
+中介概念提醒治疗师注意文化工具在心理过程中的作用。不同文化背景的患者可能使用不同的中介工具来理解和处理心理困扰：
+
+The mediation concept reminds therapists to attend to the role of cultural tools in psychological processes. Patients from different cultural backgrounds may use different mediating tools to understand and process psychological distress:
+
+- **叙事中介 / Narrative Mediation**：利用故事和文化叙事作为理解和重组经验的中介工具。
+- **隐喻治疗 / Metaphor Therapy**：利用文化特定的隐喻作为情感处理的中介。
+- **仪式和象征 / Ritual and Symbol**：利用文化仪式和象征符号作为心理整合的中介。
+
+### 4. 技术辅助学习 / Technology-Assisted Learning
+
+当代数字技术提供了新型的中介工具：
+
+Contemporary digital technologies provide new types of mediating tools:
+
+- **认知工具 / Cognitive Tools**：Jonassen (1999) 将计算机视为"用之思考"（mindtools）的中介工具。
+- **增强现实 / Augmented Reality**：AR 技术在感知和认知之间插入数字信息层。
+- **人工智能 / Artificial Intelligence**：AI 作为"认知伙伴"提供个性化的中介支持。
+
+## 与其他概念的关联 / Related Concepts
+
+### 维果茨基体系内 / Within Vygotsky's System
+
+- **文化-历史理论 / Cultural-Historical Theory**：中介是文化-历史理论的核心机制。→ [cultural-historical.md](cultural-historical.md)
+- **内化 / Internalization**：通过中介工具进行的社会互动被内化为个体心理过程。
+- **高级心理机能 / Higher Mental Functions**：中介是将低级机能改造为高级机能的机制。
+- **最近发展区 / ZPD**：在ZPD中，中介工具从"有能力的他者"传递给学习者。→ [zone-proximal-development.md](zone-proximal-development.md)
+- **内部言语 / Inner Speech**：内部言语是最重要的中介工具——语言——的内化形式。→ [inner-speech.md](inner-speech.md)
+
+### 相关理论 / Related Theories
+
+- **Wertsch 的中介行动 / Wertsch's Mediated Action**：将中介概念发展为行动理论。
+- **Engestrom 的活动三角 / Engestrom's Activity Triangle**：中介在活动系统中的位置。
+- **Hutchins 的分布式认知 / Hutchins's Distributed Cognition**：认知分布在人、工具和环境之间。
+- **Clark & Chalmers 的延展心智 / Clark & Chalmers's Extended Mind**：认知延伸到身体和大脑之外的工具中。
+- **Latour 的行动者网络理论 / Latour's Actor-Network Theory**：非人类行动者（包括工具）在社会网络中的能动性。
+
+## 东西方对话 / East-West Dialogue
+
+### 与庄子"得心应手"的对话 / Dialogue with Zhuangzi's "Mind-Hand Resonance"
+
+庄子笔下的工匠故事——庖丁解牛、轮扁斫轮——展示了工具使用从"外在手段"到"身心延伸"的转化。庖丁说"臣之所好者道也，进乎技矣"——工具的中介作用已经超越了"技术"层面，上升到"道"的境界。这与维果茨基关于心理工具如何被内化并重塑认知结构的论述有深层共鸣：两者都认为工具不仅是外在的辅助，更是认知本身的一部分。
+
+Zhuangzi's craftsman stories — Cook Ding carving the ox, Wheelwright Bian carving wheels — demonstrate the transformation of tool use from "external means" to "mind-body extension." Cook Ding says "What I care about is the Way, which goes beyond skill" — the mediating role of the tool has transcended the level of "technique" and risen to the level of "Way." This resonates deeply with Vygotsky's account of how psychological tools are internalized and reshape cognitive structure: both hold that tools are not merely external aids but integral parts of cognition itself.
+
+### 与唯识学"名言种子"的对话 / Dialogue with Yogacara "Name-Concept Seeds"
+
+唯识学中的"名言种子"（nama-bija）概念与心理工具的中介功能有深层对应。唯识学认为，我们对外部世界的认知不是"直接"的，而是通过"名言"（概念、名称、标签）的中介进行的——这些名言概念储存在阿赖耶识中作为"种子"，在条件成熟时显现为认知经验。这与维果茨基关于语言作为核心中介工具、塑造认知结构的观点高度平行。
+
+The Yogacara concept of "name-concept seeds" (名言种子, nama-bija) corresponds deeply to the mediating function of psychological tools. Yogacara holds that our cognition of the external world is not "direct" but mediated by "names and concepts" — these name-concepts are stored in the alaya-vijnana as "seeds," manifesting as cognitive experience when conditions mature. This parallels closely Vygotsky's view of language as the core mediating tool shaping cognitive structure.
+
+### 与《易经》"象"的对话 / Dialogue with the Yijing's "Images"
+
+《易经》的"象"（image/symbol）系统是中介概念的一个精彩实例。"圣人立象以尽意"——通过建立象征系统（卦象、爻象），来表达和传递无法直接言说的"意"。这些"象"作为中介工具，中介了人的认知和世界的复杂性之间的关系。这与维果茨基关于"符号中介"使人类能够超越直接感知、进行抽象思维的观点完全一致。
+
+The Yijing's "image" (象) system is a brilliant instantiation of the mediation concept. "The sage established images to exhaust meaning" — through establishing symbolic systems (trigram images, line images), to express and transmit "meaning" that cannot be directly articulated. These "images" as mediating tools mediate the relationship between human cognition and the complexity of the world. This is entirely consistent with Vygotsky's view that "sign mediation" enables humans to transcend direct perception and engage in abstract thinking.
+
+## 进阶阅读 / Further Reading
+
+### 原著 / Primary Works
+- Vygotsky, L.S. (1978). *Mind in Society*, Chapter 4: "Tool and Symbol in Child Development." Cambridge, MA: Harvard University Press.
+- Vygotsky, L.S. (1994). "The Instrumental Method in Psychology." In *The Vygotsky Reader*. Oxford: Blackwell.
+- Vygotsky, L.S. & Luria, A.R. (1994). "Tool and Symbol in Child Development." In *The Vygotsky Reader*. Oxford: Blackwell.
+
+### 重要二手文献 / Key Secondary Literature
+- Wertsch, J.V. (1998). *Mind as Action*. New York: Oxford University Press. — 中介行动理论
+- Kozulin, A. (2003). "Psychological Tools and Mediated Learning." In A. Kozulin et al. (Eds.), *Vygotsky's Educational Theory in Cultural Context*. Cambridge University Press.
+- Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Cambridge, MA: Harvard University Press. — 文化心理学中的中介研究
+
+### 当代应用 / Contemporary Applications
+- Jonassen, D.H. (1999). "Designing Constructivist Learning Environments." In C.M. Reigeluth (Ed.), *Instructional-Design Theories and Models*. Mahwah, NJ: Erlbaum.
+- Hutchins, E. (1995). *Cognition in the Wild*. Cambridge, MA: MIT Press. — 分布式认知
+- Clark, A. & Chalmers, D. (1998). "The Extended Mind." *Analysis*, 58(1), 7-19. — 延展心智论文

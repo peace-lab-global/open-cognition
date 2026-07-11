@@ -1,0 +1,33 @@
+---
+id: dennett-heterophenomenology
+title: 异现象学 · Heterophenomenology
+type: concept
+thinker: dennett
+domain: philosophy
+school: analytic
+tags: [methodology, consciousness, first-person, third-person]
+---
+# 异现象学 · Heterophenomenology
+
+## 概念定位 / Conceptual Position
+研究他人意识的方法：收集主体的自我报告和行为数据，将其视为"文本"来分析，不预设第一人称报告的权威性。
+
+Method for studying consciousness: collect self-reports and behavioral data, treat as "texts" for analysis, without presupposing first-person authority.
+
+## 核心论述 / Core Argument
+### 方法步骤 / Method Steps
+1. 收集主体的言语和行为报告
+2. 将其翻译为"信念世界"的描述
+3. 分析这个世界中的实体和事件
+4. 将其与大脑的物理状态关联
+
+关键：不预设报告者的权威性——报告本身是需要解释的数据，不是不可质疑的事实。
+
+Key: don't presuppose the reporter's authority — reports are data needing explanation, not unquestionable facts.
+
+## 哲学意义 / Philosophical Significance
+为意识科学提供了方法论基础，但被现象学家批评为忽视了第一人称维度。
+
+## 相关概念 / Related Concepts
+- [多重草稿 Multiple Drafts](multiple-drafts.md)
+- [丹尼特主页](../README.md)

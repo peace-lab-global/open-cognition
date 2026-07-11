@@ -1,0 +1,137 @@
+---
+id: schopenhauer-reading-list
+title: 叔本华进阶阅读 · Schopenhauer Reading List
+type: reading-list
+parent: schopenhauer
+domain: philosophy
+tags:
+  - reading-list
+  - bibliography
+  - 阅读书目
+  - 进阶阅读
+---
+
+# 叔本华进阶阅读书目 / Schopenhauer Reading List
+
+---
+
+## 原典（推荐版本）/ Primary Sources (Recommended Editions)
+
+### 德语原典 / German Originals
+
+- Schopenhauer, A. *Die Welt als Wille und Vorstellung*. 2 Bände. Hrsg. von Ludger Lütkehaus. Zürich: Diogenes, 1979. (基于1844年第二版)
+- Schopenhauer, A. *Parerga und Paralipomena*. 2 Bände. Hrsg. von Ludger Lütkehaus. Zürich: Diogenes, 1979.
+- Schopenhauer, A. *Über die vierfache Wurzel des Satzes vom zureichenden Grunde*. Hrsg. von Ludger Lütkehaus. Zürich: Diogenes, 1979.
+
+### 英文译本 / English Translations
+
+- Schopenhauer, A. (1818/1844). *The World as Will and Representation*. 2 vols. Trans. E. F. J. Payne. New York: Dover, 1969. **[标准英译本 / Standard English translation]**
+- Schopenhauer, A. (1818/1844). *The World as Will and Representation*. Trans. Judith Norman, Alistair Welchman, and Christopher Janaway. Cambridge: Cambridge University Press, 2010–2018. **[最新学术译本 / Latest scholarly translation]**
+- Schopenhauer, A. (1851). *Parerga and Paralipomena*. 2 vols. Trans. E. F. J. Payne. Oxford: Oxford University Press, 2000.
+- Schopenhauer, A. (1813). *On the Fourfold Root of the Principle of Sufficient Reason*. Trans. E. F. J. Payne. La Salle, IL: Open Court, 1974.
+- Schopenhauer, A. (1836). *On the Will in Nature*. Trans. E. F. J. Payne. Ed. David E. Cartwright. Oxford: Berg, 1992.
+- Schopenhauer, A. (1839/1840). *The Two Fundamental Problems of Ethics*. Trans. E. F. J. Payne. Ed. David E. Cartwright and Edward E. Erdmann. Oxford: Oxford University Press, 2009.
+
+### 中文译本 / Chinese Translations
+
+- 叔本华著，石冲白译《作为意志和表象的世界》（北京：商务印书馆，1982）。**[中文标准译本 / Standard Chinese translation]**
+- 叔本华著，韦启昌译《人生的智慧》（上海：上海人民出版社，2001）。**[最畅销中文版本 / Most popular Chinese edition]**
+- 叔本华著，韦启昌译《叔本华论道德与自由》（上海：上海人民出版社，2006）。
+- 叔本华著，任立译《附录与补遗》（上海：上海人民出版社，2003）。
+- 叔本华著，韦启昌译《叔本华美学随笔》（上海：上海人民出版社，2004）。
+- 叔本华著，刘大悲译《充足理由律的四重根》（北京：商务印书馆，1997）。
+
+---
+
+## 二手研究文献 / Secondary Literature
+
+### 传记 / Biographies
+
+- Safranski, R. (1990). *Schopenhauer and the Wild Years of Philosophy*. Trans. Ewald Osers. Cambridge, MA: Harvard University Press. **[最生动的传记 / Most vivid biography]**
+- Cartwright, D. (2010). *Schopenhauer: A Biography*. Cambridge: Cambridge University Press. **[最全面的学术传记 / Most comprehensive scholarly biography]**
+- Magee, B. (1997). *The Philosophy of Schopenhauer*. Revised ed. Oxford: Oxford University Press. **[哲学传记 / Philosophical biography]**
+- Janaway, C. (1989). *Self and World in Schopenhauer's Philosophy*. Oxford: Clarendon Press.
+
+### 哲学研究 / Philosophical Studies
+
+- Janaway, C. (1994). *Schopenhauer*. Oxford: Oxford University Press. **[最佳入门研究 / Best introductory study]**
+- Janaway, C. (ed.) (1998). *Willing and Nothingness: Schopenhauer as Nietzsche's Educator*. Oxford: Oxford University Press.
+- Janaway, C. (2007). *Schopenhauer: A Very Short Introduction*. Oxford: Oxford University Press.
+- Young, J. (2005). *Schopenhauer*. London: Routledge.
+- Malter, R. (1991). *Arthur Schopenhauer: Transzendentalphilosophie und Metaphysik des Willens*. Mainz: Matthias Grünewald.
+- Atkinson, T. (1973). *A Philosophical Investigation of Schopenhauer's Ethics*. Ph.D. dissertation, University of London.
+
+### 同情伦理专题 / Studies on Compassion Ethics
+
+- Cartwright, D. E. (2012). *Schopenhauer's Compassion*. In *The Palgrave Schopenhauer Handbook*, ed. Sandra Shapshay. London: Palgrave Macmillan.
+- Marshall, C. (2019). "Schopenhauer on the Ethics of Compassion." *Kantian Review* 24(3).
+
+### 美学专题 / Studies on Aesthetics
+
+- Budd, M. (1992). "Schopenhauer's Aesthetics." In *Music and the Arts: Philosophical Perspectives*, ed. Peter Kivy.
+- Young, J. (1992). "Schopenhauer's Aesthetic Achievement." *Journal of the History of Philosophy* 30(4): 553–578.
+- Vandenabeele, B. (2015). *The Sublime in Schopenhauer's Philosophy*. Basingstoke: Palgrave Macmillan.
+
+### 与东方哲学比较 / Comparative Studies with Eastern Philosophy
+
+- Nicholls, M. (1998). "The Influences of Eastern Thought on Schopenhauer's Doctrine of the Things-in-Themselves." In *Schopenhauer, Philosophy and the Arts*, ed. Dale Jacquette. Cambridge: Cambridge University Press.
+- Abelson, P. (1993). "Schopenhauer and Buddhism." *Philosophy East and West* 43(2): 255–278.
+- Cross, S. (2014). *Schopenhauer's Encounter with Indian Thought: Representation and Will and Their Indic Parallels*. Honolulu: University of Hawai'i Press. **[最系统的比较研究 / Most systematic comparative study]**
+- App, U. (2014). "Schopenhauer's Initial Encounter with Indian Thought." In *Schopenhauer and Indian Philosophy*, ed. Gerhard J. Bellinger and Ugo Spirito.
+- Versluis, A. (2014). "Schopenhauer and the Upanishads." *Journal of Indian Philosophy* 42(5): 575–591.
+
+---
+
+## 延伸读物 / Extended Reading
+
+### 受叔本华影响的哲学传统 / Philosophical Traditions Influenced by Schopenhauer
+
+- Nietzsche, F. (1872). *The Birth of Tragedy* / *Die Geburt der Tragödie*. **[直接受叔本华影响 / Directly influenced by Schopenhauer]**
+- Nietzsche, F. (1886). *Beyond Good and Evil* / *Jenseits von Gut und Böse*. **[对叔本华的深刻批判 / Profound critique of Schopenhauer]**
+- Nietzsche, F. (1887). *On the Genealogy of Morals*, Essay III: "What do Ascetic Ideals Mean?" / *Zur Genealogie der Moral*, Dritte Abhandlung.
+- Bergson, H. (1907). *Creative Evolution* / *L'Évolution créatrice*. **[生命冲动（élan vital）继承并转化意志概念 / Élan vital inherits and transforms the Will concept]**
+- Freud, S. (1920). *Beyond the Pleasure Principle* / *Jenseits des Lustprinzips*. **[死亡本能与叔本华的呼应 / Death drive echoes Schopenhauer]**
+- Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*. **["可说/不可说"与叔本华的呼应 / Sayable/unsayable echoes Schopenhauer]**
+- Mainländer, P. (1876). *Die Philosophie der Erlösung*. **[叔本华悲观主义的极端发展 / Radical development of Schopenhauerian pessimism]**
+
+### 受叔本华影响的文学作品 / Literary Works Influenced by Schopenhauer
+
+- Wagner, R. (1859). *Tristan und Isolde*. **[直接受叔本华美学启发的歌剧 / Opera directly inspired by Schopenhauer's aesthetics]**
+- Mann, T. (1901). *Buddenbrooks*. **[小说中大量引用叔本华 / Novel extensively references Schopenhauer]**
+- Mann, T. (1924). *The Magic Mountain* / *Der Zauberberg*.
+- Proust, M. (1913–1927). *In Search of Lost Time* / *À la recherche du temps perdu*.
+- Tolstoy, L. (1886). *The Death of Ivan Ilyich* / *Смерть Ивана Ильича*.
+- Hardy, T. (1895). *Jude the Obscure*.
+- Borges, J. L. Various short stories. **[多次引用叔本华 / Frequently cites Schopenhauer]**
+- Beckett, S. (1930). "Proust" (essay). **[明确讨论叔本华对普鲁斯特和贝克特本人的影响 / Explicitly discusses Schopenhauer's influence on Proust and Beckett himself]**
+
+### 当代相关研究 / Contemporary Relevant Studies
+
+- Shapshay, S. (ed.) (2017). *The Palgrave Schopenhauer Handbook*. London: Palgrave Macmillan. **[最新综合手册 / Latest comprehensive handbook]**
+- Jacquette, D. (ed.) (1998). *Schopenhauer, Philosophy and the Arts*. Cambridge: Cambridge University Press.
+- Koßler, M. (2008). "Schopenhauer and the Empirical Sciences." In *A Companion to Schopenhauer*, ed. Bart Vandenabeele.
+- Vandenabeele, B. (ed.) (2012). *A Companion to Schopenhauer*. Oxford: Wiley-Blackwell. **[最全面的当代研究文集 / Most comprehensive contemporary collection]**
+
+### 中文二手研究 / Chinese Secondary Literature
+
+- 赵敦华《西方哲学简史》（北京：北京大学出版社，2001）——叔本华章节。
+- 邓晓芒《思辨的张力——黑格尔辩证法新探》（长沙：湖南教育出版社，1992）——涉及叔本华对黑格尔的批判。
+- 孙正聿《哲学通论》（沈阳：辽宁人民出版社，1998）——意志哲学部分。
+- 张汝伦《现代西方哲学十五讲》（北京：北京大学出版社，2003）——叔本华与尼采章节。
+
+---
+
+## 在线资源 / Online Resources
+
+- [Stanford Encyclopedia of Philosophy: Arthur Schopenhauer](https://plato.stanford.edu/entries/schopenhauer/) — 最权威的在线学术概述
+- [Internet Encyclopedia of Philosophy: Arthur Schopenhauer](https://iep.utm.edu/schopenh/) — 入门级哲学百科
+- [Schopenhauer Society (Arthur Schopenhauer Gesellschaft)](http://www.schopenhauer-gesellschaft.de/) — 德国叔本华学会官方网站
+- [Schopenhauer-Jahrbuch](https://www.schopenhauer-gesellschaft.de/schopenhauer-jahrbuch/) — 《叔本华年鉴》
+
+---
+
+## 相关条目 / Related Entries
+
+- [叔本华 · README](README.md) — 返回总条目
+- [著作总览](works.md) — 主要著作详述
+- [年表](timeline.md) — 生平与思想大事记

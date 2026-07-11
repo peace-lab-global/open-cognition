@@ -1,0 +1,24 @@
+---
+id: cognitive-systems.school.cybernetics.ashby.reading-list
+title: 阿什比阅读指南 W.R. Ashby Reading List
+type: reading-list
+thinker: ashby
+domain: cognitive-systems
+school: cybernetics
+---
+
+# 阿什比阅读指南 / W.R. Ashby Reading List
+
+## 入门路径
+
+1. Ashby, W.R. (1956). *An Introduction to Cybernetics*. Chapman & Hall. — 控制论的系统阐述
+2. Ashby, W.R. (1952). *Design for a Brain*. Chapman & Hall. — 自适应行为
+
+## 二手研究
+
+- Pickering, A. (2010). *The Cybernetic Brain*. — 控制论的历史与思想
+
+## 思想对话
+
+- Wiener, N. *Cybernetics* (1948) — 控制论原典
+- Beer, S. *Brain of the Firm* (1972) — 可行系统模型

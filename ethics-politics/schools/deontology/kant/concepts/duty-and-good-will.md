@@ -1,0 +1,23 @@
+---
+id: kant-duty-good-will
+title: 义务与善良意志 · Duty and Good Will · Kant
+type: concept
+domain: ethics-politics
+school: deontology
+thinker: kant
+tags: [duty, good-will, moral-worth, kant]
+cross-refs: [{id: kant, relation: thinker}]
+---
+
+# 义务与善良意志
+
+## 一句话定义
+善良意志是唯一**无条件善**的东西——行为的道德价值不取决于结果、才能或幸福，而取决于是否**出于义务**（from duty）。
+
+## 核心要义
+- 出于义务 vs 合乎义务：商人诚实经营为了利润 = 合乎义务但无道德价值
+- 善良意志的无条件性：即使结果不好，善良意志本身也是善的
+- 理性、才能、幸福等都是**有条件**的善——只有在善良意志指导下才有价值
+
+## 关键文本
+- *Groundwork*, Section I

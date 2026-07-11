@@ -1,0 +1,75 @@
+---
+id: cognitive-systems.school.cognitive-engineering.leveson.timeline
+title: 莱文森思想年表 Nancy Leveson Timeline
+type: timeline
+thinker: leveson
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 南希·莱文森思想年表 / Nancy Leveson Timeline
+
+## 学术生涯年表
+
+### 1970s-1980s · 早期学术生涯
+
+- 在航空航天与计算机科学交叉领域建立学术身份
+- 关注计算机系统（尤其软件）在安全关键系统中的角色
+- 继承 Rasmussen 的系统安全传统，同时认识到传统方法在软件密集型系统中的局限
+
+### 1986 · 《System Safety Engineering and Management》
+
+- 与 J.D. Reese 合著出版系统安全工程专著
+- 系统阐述安全工程的理论基础与实践方法
+- 奠定莱文森在安全工程领域的学术地位
+
+### 1995 · 《Safeware: System Safety and Computers》
+
+- 系统阐述计算机软件在安全关键系统中的独特角色
+- 挑战用硬件可靠性方法处理软件安全的传统做法
+- 提出软件不会"随机失效"但会以未预见方式与环境交互的洞见
+
+### 2000s · STAMP 理论构建期
+
+- 提出 STAMP（Systems-Theoretic Accident Model and Processes）
+- 将控制论（cybernetics）系统性地引入安全分析
+- 继承 Wiener 控制论和 Ashby 必要多样性定律
+- 将安全问题重新定义为控制约束问题
+
+### 2004 · "A New Accident Model for Engineering Safer Systems"
+
+- 在 *Safety Science* 发表 STAMP 事故模型的系统阐述
+- 提出事故是控制结构中约束不充分的结果
+- 挑战传统"事故链"因果模型
+
+### 2011 · 《Engineering a Safer World》
+
+- 由 MIT Press 出版，标志 STAMP/STPA 方法的成熟
+- STPA 作为基于 STAMP 的危险分析工具被系统阐述
+- 提供大量工业应用案例
+
+### 2010s · 工业应用扩展
+
+- STPA 被 NASA 纳入航天系统安全分析流程
+- FDA 接受 STPA 作为医疗设备安全论证方法
+- 美国国防部采纳 STAMP/STPA 作为系统安全工程方法
+- 自动驾驶公司（Waymo、GM Cruise）采用 STPA 进行安全分析
+
+### 2015+ · AI 安全与前沿应用
+
+- 将 STAMP 控制论视角应用于 AI 系统安全约束设计
+- 推动系统思维在安全工程教育中的普及
+- STPA 方法持续扩展至新兴技术领域
+
+## 思想演变关键词
+
+```
+软件安全 (1980s) → 系统安全批判 (1990s) → 控制论安全观 (2000s) → STPA 工程实践 (2010s) → AI 安全 (2020s)
+```
+
+## 历史背景
+
+- **1986** · 挑战者号航天飞机事故——推动系统安全思维
+- **1999** · Mars Climate Orbiter 失联——软件-系统集成问题
+- **2009** · 法航 AF447 空难——人-自动化交互失效
+- **2018** · Uber 自动驾驶致死事故——AI 安全约束问题

@@ -1,0 +1,103 @@
+---
+id: ziran
+title: 自然 / Ziran (Self-so / Spontaneity)
+type: concept
+domain: religion
+school: taoism
+thinker: laozi
+tags: [自然, ziran, spontaneity, nature, self-so, 本然, 自然而然]
+---
+
+# 自然 / Ziran (Self-so / Spontaneity)
+
+> **"人法地，地法天，天法道，道法自然。"**
+> *"Humans follow the earth, the earth follows heaven, heaven follows Dao, Dao follows its own nature."*
+> — 《道德经》第25章 / Daodejing Ch. 25
+
+## 定义 / Definition
+
+自然（zìrán）是老子哲学中的最高价值概念。它不是指现代意义上的"自然界"（nature），而是"自己如此"（self-so）、"自然而然"（spontaneous）的状态。"自"是自己，"然"是如此——自然是万物不受外力扭曲、顺其本性而存在的本然状态。在老子的价值序列中，自然居于最高位置：道本身也以自然为法则——"道法自然"。
+
+Ziran is the supreme value concept in Laozi's philosophy. It does not mean "nature" in the modern environmental sense, but rather "self-so," "so of itself," or "spontaneity." The character 自 (zi) means "self" and 然 (ran) means "so" or "thus" — ziran is the state in which all things exist according to their own nature, free from external distortion. In Laozi's hierarchy of values, ziran occupies the highest position: even Dao itself takes ziran as its law — "Dao follows its own nature."
+
+这一概念常被误解为"回归大自然"或"原始的野蛮状态"。实际上，老子所说的自然是存在论层面的——它是万物（包括人、社会、政治秩序）的最佳存在方式：不被异化、不被强制、不被扭曲。
+
+This concept is often misread as "return to nature" in the environmental sense or "primitive barbarism." In fact, Laozi's ziran is ontological — it is the optimal mode of existence for all things (including humans, society, and political order): free from alienation, coercion, and distortion.
+
+## 核心文本 / Core Texts
+
+### 道法自然 / Dao Follows Ziran
+
+- "人法地，地法天，天法道，道法自然。"（第25章） / "Humans follow the earth, the earth follows heaven, heaven follows Dao, Dao follows its own nature." (Ch. 25)
+
+### 自然与无为 / Ziran and Wu-wei
+
+- "功成事遂，百姓皆谓：我自然。"（第17章） / "When the work is done and affairs are settled, the people all say: 'We did it ourselves (ziran).'" (Ch. 17)
+- "道之尊，德之贵，夫莫之命而常自然。"（第51章） / "The reason Dao is honored and De is valued is that they never command, yet always allow things to be natural (ziran)." (Ch. 25)
+
+### 自然与返璞归真 / Ziran and Return to Simplicity
+
+- "常德乃足，复归于朴。"（第28章） / "When constant virtue is sufficient, one returns to the uncarved block." (Ch. 28)
+- "见素抱朴，少私寡欲。"（第19章） / "Manifest plainness, embrace simplicity; reduce selfishness, diminish desires." (Ch. 19)
+- "甘其食，美其服，安其居，乐其俗。"（第80章） / "They find their food sweet, their clothes fine, their homes peaceful, their customs joyful." (Ch. 80)
+
+## 自然的三个层面 / Three Dimensions of Ziran
+
+### 1. 宇宙论的自然（Cosmological Ziran）
+
+万物的自然就是道的运作方式。道"莫之命而常自然"（第51章）——道不命令万物如何做，万物自然而然地按照自身的规律运行。"万物将自化"（第37章）——万物自我化育、自我生成。这与神创论形成根本对比：在老子的宇宙中，没有一个外在的造物主来安排一切，万物的秩序是自发的、内在的。
+
+The naturalness of all things is the mode of Dao's operation. Dao "never commands, yet always allows things to be natural" (Ch. 51) — it does not dictate how things should be; things naturally follow their own patterns. "All things will transform themselves" (Ch. 37). This stands in fundamental contrast to creationism: in Laozi's cosmos, no external creator arranges everything; the order of all things is spontaneous and immanent.
+
+### 2. 政治的自然（Political Ziran）
+
+老子理想中的政治秩序是自然的延伸——"我无为而民自化"（第57章）。最好的政治不是通过法令和刑罚来维持，而是让人民自然地生活、自然地组织。"其政闷闷，其民淳淳；其政察察，其民缺缺"（第58章）——政治越是宽松，人民越是淳朴；政治越是严苛，人民越是狡诈。
+
+Laozi's ideal political order is an extension of nature — "I take no action and the people transform themselves" (Ch. 57). The best governance is maintained not through laws and punishments but by allowing people to live and organize naturally. "When the government is dull, the people are honest; when the government is sharp, the people are cunning" (Ch. 58) — the more relaxed the politics, the more genuine the people.
+
+### 3. 修养的自然（Cultivational Ziran）
+
+个体的修养也应以自然为目标——"复归于朴"（第28章）、"见素抱朴"（第19章）。修养不是学习更多的知识和技能，而是"损之又损"，去除人为的造作，回归到本然的状态。"常德不离，复归于婴儿"（第28章）——最终的境界是回到婴儿般的自然纯真。
+
+Individual cultivation should also take ziran as its goal — "return to the uncarved block" (Ch. 28), "manifest plainness, embrace simplicity" (Ch. 19). Cultivation is not about acquiring more knowledge and skills, but "letting go more and more," removing artificial contrivance, returning to the original state. "Constant virtue does not depart; one returns to the state of an infant" (Ch. 28) — the ultimate attainment is a return to infant-like natural innocence.
+
+## 自然与异化 / Ziran and Alienation
+
+老子对文明异化的批判是其自然思想的重要维度。"五色令人目盲，五音令人耳聋，五味令人口爽"（第12章）——过度的感官刺激扭曲了人的自然感知。"天下多忌讳而民弥贫"（第57章）——过多的禁忌和限制反而制造了更多问题。"大道废，有仁义"（第18章）——当自然的大道被废弃，人们才需要人为的道德规范。
+
+Laozi's critique of civilizational alienation is a crucial dimension of his ziran thought. "The five colors blind the eye; the five tones deafen the ear; the five flavors spoil the palate" (Ch. 12) — excessive sensory stimulation distorts natural perception. "The more taboos in the world, the poorer the people become" (Ch. 57) — excessive restrictions create more problems. "When the Great Dao is abandoned, benevolence and righteousness appear" (Ch. 18) — when the natural way is forsaken, artificial moral codes become necessary.
+
+这不是对文明的全面否定，而是对文明异化的警惕。老子所期望的不是回到原始社会，而是建立一种不被异化的文明——"甘其食，美其服，安其居，乐其俗"（第80章）描绘的正是一种简朴而充实的文明生活。
+
+This is not a wholesale rejection of civilization but a vigilance against its alienation. What Laozi envisions is not a return to primitivism but a civilization free from alienation — "they find their food sweet, their clothes fine, their homes peaceful, their customs joyful" (Ch. 80) depicts a simple yet fulfilling civilizational life.
+
+## 自然与当代生态思想 / Ziran and Contemporary Ecological Thought
+
+"道法自然"与当代深层生态学（deep ecology）有着深层的呼应。阿恩·奈斯（Arne Naess）的"生态自我"（ecological self）概念——将自我认同扩展到整个生态系统——与老子"天地与我并生，而万物与我为一"的精神方向一致。老子的自然观为生态伦理提供了独特的东方视角：人不是自然的主宰者，而是自然的一部分；人对自然的态度应该是"辅万物之自然而不敢为"（第64章）——辅助万物按照自身的规律发展，而不是强行改造。
+
+"Dao follows ziran" resonates deeply with contemporary deep ecology. Arne Naess's concept of the "ecological self" — expanding self-identification to the entire ecosystem — aligns with the spirit of "heaven and earth were born with me, and all things and I are one." Laozi's vision of ziran offers a distinctive Eastern perspective for ecological ethics: humans are not masters of nature but part of it; the proper human attitude toward nature is to "assist the naturalness of all things and not presume to act" (Ch. 64) — to assist things in developing according to their own patterns, not to forcibly reshape them.
+
+## 与西方"自然"概念的比较 / Comparison with Western "Nature"
+
+| 维度 / Dimension | 老子之自然 / Laozi's Ziran | 西方"自然" / Western "Nature" |
+|------|----------|------------------------|
+| 含义 / Meaning | 自己如此，本然状态 | 物理世界、自然界 |
+| 与人类 / Relation to Humans | 人应法自然 | 人与自然常被视为对立 |
+| 价值地位 / Value Status | 最高价值 | 工具价值或内在价值（有争议） |
+| 政治含义 / Political Sense | 无为而治，最小干预 | "自然状态"（霍布斯/洛克）：需要被超越的前政治状态 |
+
+## 跨学科关联 / Cross-references
+
+- [道 / Dao](dao-the-way.md) — 道法自然：自然是最高的法则 / Dao follows ziran: ziran is the highest law
+- [无为 / Wu-wei](wuwei.md) — 无为是实现自然的方法 / Wu-wei is the method for achieving ziran
+- [德 / De-Virtue](de-virtue.md) — 德是自然在万物中的显现 / De is ziran manifested in all things
+- [反 / Reversal](reversal.md) — 自然是反的归宿 / Ziran is the destination of reversal
+- [老子 · Laozi](../README.md) — 返回总览 / Return to overview
+
+## 进阶阅读 / Further Reading
+
+- 《老子》第17、18、19、25、28、37、51、57、64、80章 / Daodejing Ch. 17, 18, 19, 25, 28, 37, 51, 57, 64, 80
+- 刘笑敢《老子古今》中关于"自然"概念的分析
+- Chung-ying Cheng, "The Dao and Daoist Philosophy," in *A Companion to World Philosophies*
+- Arne Naess, *Ecology, Community and Lifestyle* — 深层生态学与老子自然的对话
+- Roger T. Ames & David L. Hall, *Daodejing: A Philosophical Translation* — 对"自然"的哲学性诠释

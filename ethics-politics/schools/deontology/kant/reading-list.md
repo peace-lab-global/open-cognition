@@ -1,0 +1,30 @@
+---
+id: kant-ethics-reading-list
+title: 康德伦理学进阶阅读
+type: reading-list
+domain: ethics-politics
+school: deontology
+thinker: kant
+tags: [kant, reading-guide]
+cross-refs: [{id: kant, relation: thinker}]
+---
+
+# 康德伦理学进阶阅读
+
+## 入门
+1. 《道德形而上学奠基》Section I–II
+2. 邓晓芒《康德道德哲学讲演录》
+
+## 原典
+- *Groundwork* (1785)
+- *Critique of Practical Reason* (1788)
+- *Metaphysics of Morals* (1797)
+
+## 二手研究
+- Korsgaard, Christine. *Creating the Kingdom of Ends* (1996)
+- Allison, Henry. *Kant's Theory of Freedom* (1990)
+- Guyer, Paul. *Kant on Freedom, Law, and Happiness* (2000)
+
+## 中文
+- 邓晓芒《康德道德哲学讲演录》
+- 李秋零 主编《康德著作全集》

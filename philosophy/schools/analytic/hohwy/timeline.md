@@ -1,0 +1,68 @@
+---
+id: hohwy-timeline
+title: 霍维生平年表 · Hohwy Timeline
+type: supplementary
+thinker: hohwy
+domain: philosophy
+school: analytic
+---
+
+# 霍维生平年表 · Hohwy Timeline
+
+## 年表 / Chronological Timeline
+
+| 年份 / Year | 事件 / Event | 备注 / Notes |
+|:---:|---|---|
+| 1968 | 出生于丹麦 / Born in Denmark | — |
+| ~1986-1990 | 在奥胡斯大学学习哲学 / Studied philosophy at Aarhus University | 本科阶段 / Undergraduate |
+| ~1990-1995 | 奥胡斯大学哲学硕士 / MA in Philosophy, Aarhus University | 研究方向涉及认识论与认知科学 / Research in epistemology and cognitive science |
+| ~1995-2000 | 奥胡斯大学哲学博士 / PhD in Philosophy, Aarhus University | 博士论文涉及康德认识论与当代认知科学的比较 / Dissertation comparing Kantian epistemology with contemporary cognitive science |
+| ~2000-2002 | 爱丁堡大学博士后研究 / Postdoctoral research at University of Edinburgh | 接触英国分析哲学传统和心灵哲学前沿 / Exposed to British analytic philosophy tradition and philosophy of mind frontiers |
+| 2002 | 返回丹麦，开始独立研究 / Returned to Denmark, began independent research | 开始关注预测编码和贝叶斯认知 / Began focusing on predictive coding and Bayesian cognition |
+| ~2004 | 加入澳大利亚蒙纳士大学 / Joined Monash University, Australia | 开始在澳大利亚的学术生涯 / Began academic career in Australia |
+| 2007 | 发表 "Is There Progress in Philosophy?" (*Metaphilosophy*) | 对哲学方法论的早期思考 / Early reflections on philosophical methodology |
+| 2009 | 发表 "The Noise in the Brain" (*Philosophy of Science*) | 探讨神经噪声对认知的影响 / Exploring neural noise effects on cognition |
+| 2010 | 发表 "Evidence, Explanation, and Idealism" (*Oxford Studies in Metaphysics*) | 连接认识论与观念论传统 / Connecting epistemology with idealist tradition |
+| 2010 | Karl Friston 发表自由能原理综述 / Friston publishes free energy principle review | Hohwy 开始系统研究 Friston 的工作 / Hohwy begins systematic study of Friston's work |
+| 2012 | 发表 "When the Brain is Prepared to Learn" (*Consciousness and Cognition*) | 预测加工与意识的早期探讨 / Early exploration of PP and consciousness |
+| 2013 | 出版 *The Predictive Mind* (Oxford University Press) | **标志性著作**：预测加工哲学的奠基之作 / **Landmark work**: founding monograph of PP philosophy |
+| 2013 | Andy Clark 发表 "Whatever next?" (*BBS*) | Clark 对预测加工的外部主义解读，Hohwy 是该文的目标评论者之一 / Clark's externalist reading of PP; Hohwy one of the target commentators |
+| 2014 | 发表 "The Self-Evidencing Brain" (*Philosophy and Phenomenological Research*) | 首次提出自我论证题 / First formulation of self-evidencing thesis |
+| 2015 | 发表 "The Neural Organ Explains the Mind" (*PPR*) | 探讨神经解释与心智的关系 / Exploring neural explanation and mind |
+| 2016 | 发表 "The Self-Evidencing Brain" (*Noûs* 50(2)) | 自我论证题的成熟版本 / Mature version of self-evidencing thesis |
+| 2017 | 发表 "Predictive Processing and the Phenomenology of Perception" | 预测加工与现象学的交叉 / Intersection of PP and phenomenology |
+| 2019 | 合编 *Philosophy and Predictive Processing* (with Metzinger & Wiese) | 编辑预测加工哲学论文集 / Edited PP philosophy essay collection |
+| 2019 | 发表 "Active Inference and the Self" | 主动推理与自我概念 / Active inference and self concept |
+| 2020 | 发表关于预测加工范式的文章 / Published on PP paradigm | 继续深化预测加工的哲学分析 / Continued deepening of PP philosophical analysis |
+| 2021 | 发表 "Precision and the Ethics of Belief" | 精度加权与伦理学的交叉 / Intersection of precision weighting and ethics |
+| 2023 | 出版 *The Self-Evidencing Brain* 修订版 / Published revised edition | 整合批评回应，发展自我论证题 / Integrated critical responses, developed self-evidencing thesis |
+| 至今 / Present | 蒙纳士大学哲学教授 / Professor of Philosophy, Monash University | 继续推进预测加工哲学研究 / Continues advancing PP philosophy research |
+
+## 思想发展阶段 / Intellectual Development Phases
+
+### 第一阶段：认识论根基（~1990-2005） / Phase 1: Epistemological Foundations (~1990-2005)
+**中文：** 这一阶段的核心是建立哲学基础——Hohwy 深入研究了康德的认识论传统、赫尔姆霍茨的无意识推理概念以及当代贝叶斯认识论。他对"知识如何可能"这一经典问题产生了持久兴趣。
+**English:** This phase centered on establishing philosophical foundations — Hohwy deeply studied Kant's epistemological tradition, Helmholtz's unconscious inference concept, and contemporary Bayesian epistemology. He developed a lasting interest in the classical question "how is knowledge possible?"
+
+### 第二阶段：预测加工的哲学发现（2005-2013） / Phase 2: Philosophical Discovery of Predictive Processing (2005-2013)
+**中文：** 接触 Friston 的自由能原理和预测编码理论后，Hohwy 意识到这一计算框架可以实现他从认识论传统到认知科学的桥梁梦想。这一阶段的成果是2013年的《预测心智》。
+**English:** After encountering Friston's free energy principle and predictive coding theory, Hohwy realized this computational framework could realize his dream of bridging epistemological tradition and cognitive science. This phase culminated in the 2013 *Predictive Mind*.
+
+### 第三阶段：自我论证题的发展（2013-2020） / Phase 3: Development of Self-Evidencing Thesis (2013-2020)
+**中文：** 《预测心智》出版后，Hohwy 进一步发展了他最具独创性的论点——自我论证题。他将预测加工与贝叶斯模型选择理论联系起来，论证大脑不仅是推断机器，更是"自我证明"的系统。
+**English:** After *The Predictive Mind*, Hohwy further developed his most original thesis — self-evidencing. He connected predictive processing with Bayesian model selection theory, arguing the brain is not merely an inference machine but a "self-evidencing" system.
+
+### 第四阶段：整合与拓展（2020至今） / Phase 4: Integration and Expansion (2020-present)
+**中文：** 近年 Hohwy 将预测加工框架拓展到更多哲学领域——包括伦理学（精度与信念伦理）、美学（审美经验与预测误差）、以及社会认识论（集体层面的预测加工）。
+**English:** In recent years Hohwy has extended the predictive processing framework to more philosophical domains — including ethics (precision and ethics of belief), aesthetics (aesthetic experience and prediction error), and social epistemology (collective-level predictive processing).
+
+## 关键学术关系 / Key Academic Relationships
+
+| 人物 / Person | 关系 / Relationship | 描述 / Description |
+|---|---|---|
+| Karl Friston | 理论来源 / Theoretical source | 自由能原理和预测编码的创立者，为 Hohwy 提供了计算基础 / Creator of FEP and predictive coding, providing Hohwy's computational foundation |
+| Andy Clark | 核心论争对手 / Core debate opponent | 预测加工的外部主义解读 vs Hohwy 的内部主义解读 / Externalist vs internalist readings of PP |
+| Thomas Metzinger | 合作者 / Collaborator | 自我模型理论与预测加工的交叉研究 / Intersection of self-model theory and PP |
+| Anil Seth | 同行对话者 / Peer interlocutor | 意识科学中的预测加工应用 / PP applications in consciousness science |
+| Colin Klein | 批评者 / Critic | 对预测加工统一性论题的质疑 / Challenges to PP unity thesis |
+| Jakob Hohwy 的学生们 / Students | 学术传承 / Academic lineage | 在蒙纳士大学培养的下一代预测加工哲学家 / Next generation PP philosophers trained at Monash |

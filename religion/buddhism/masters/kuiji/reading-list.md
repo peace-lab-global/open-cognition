@@ -1,0 +1,115 @@
+---
+id: kuiji-reading-list
+title: 窥基进阶阅读 / Reading Guide for Kuiji
+type: reading-list
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+---
+
+# 窥基进阶阅读 / Reading Guide for Kuiji
+
+## 阅读路径 / Reading Path
+
+### 入门 Introductory
+
+1. **世亲《唯识三十颂》** / Vasubandhu, *Trimsika* (Thirty Verses on Consciousness-Only)
+   — 唯识学最精炼的纲要，30颂 / The most concise Yogacara summary, 30 verses
+
+2. **济群法师《唯识三十论讲记》** / Master Jiqun, *Lectures on the Thirty Verses*
+   — 当代最佳中文入门讲解 / Best contemporary Chinese introductory lectures
+
+3. **窥基《百法明门论解》** / Kuiji, *Commentary on the Hundred Dharmas*
+   — 百法分类系统的入门 / Entry to the Hundred Dharmas classification
+
+4. **Tagawa Shun'ei, *Living Yogacara*** / Wisdom Publications, 2009
+   — 最佳英文入门读物 / Best English introductory book
+
+### 进阶 Intermediate
+
+5. **窥基《成唯识论掌中枢要》** / Kuiji, *Cheng Weishi Lun Zhang Zhong Shuyao*
+   — 唯识纲要的精炼提取 / Refined extraction of Yogacara essentials
+
+6. **世亲《唯识二十论》** / Vasubandhu, *Vimsatika* (Twenty Verses)
+   — 辩论式的唯识论证 / Dialectical argumentation for consciousness-only
+
+7. **Lusthaus, D., *Buddhist Phenomenology*** / Routledge, 2002
+   — 最佳英文系统研究 / Best systematic English study
+
+8. **窥基《法华玄赞》** / Kuiji, *Fahua Xuanzan*
+   — 法华经的唯识解读 / Yogacara reading of the Lotus Sutra
+
+### 深读 Advanced
+
+9. **窥基《成唯识论述记》** / Kuiji, *Cheng Weishi Lun Shuji* (20 fascicles)
+   — 最权威的中国唯识学注释 / The most authoritative Chinese Yogacara commentary
+
+10. **玄奘译《成唯识论》** / Xuanzang (trans.), *Cheng Weishi Lun*
+    — 唯识学的集大成之作 / The culminating work of Yogacara philosophy
+
+11. **窥基《大乘法苑义林章》** / Kuiji, *Dacheng Fayuan Yilin Zhang*
+    — 唯识学教义的系统化整理 / Systematic organization of Yogacara doctrine
+
+12. **窥基《因明入正理论疏》** / Kuiji, *Yinming Ru Zhengli Lun Shu*
+    — 汉传因明学的核心文献 / Core text of Chinese Buddhist logic
+
+## 原典（中译）/ Primary Sources (Chinese Translations)
+
+| 著作 Work | 作者 Author | 译者/编纂者 Translator | 特点 Features |
+|------|------|------|------|
+| 《成唯识论》 | 护法等十师 | 玄奘编译 | 唯识学集大成 / Culminating Yogacara work |
+| 《成唯识论述记》 | 窥基 | — | 权威注释 / Authoritative commentary |
+| 《成唯识论掌中枢要》 | 窥基 | — | 纲要精炼 / Essential summary |
+| 《百法明门论》 | 世亲 | 玄奘译 | 百法分类 / Hundred Dharmas classification |
+| 《百法明门论解》 | 窥基 | — | 百法详解 / Detailed Hundred Dharmas |
+| 《因明入正理论》 | 商羯罗主 | 玄奘译 | 因明标准教科书 / Standard logic textbook |
+| 《因明入正理论疏》 | 窥基 | — | 因明核心注释 / Core logic commentary |
+| 《瑜伽师地论》 | 弥勒/无著 | 玄奘译 | 瑜伽行派百科全书 / Yogacara encyclopedia |
+| 《法华玄赞》 | 窥基 | — | 法华的唯识解读 / Yogacara Lotus reading |
+
+## 中文研究 / Chinese-Language Studies
+
+| 著作 Work | 作者 Author | 出版社 Publisher | 年份 Year |
+|------|------|------|------|
+| 《中国唯识宗通史》 | 杨维中 Yang Weizhong | 凤凰出版社 | 2008 |
+| 《唯识学探源》 | 释印顺 Yinshun | 正闻出版社 | 1968 |
+| 《唯识与了别》 | 周贵华 Zhou Guihua | 中国社会科学出版社 | 2008 |
+| 《唯识三十论讲记》 | 济群法师 Jiqun | 上海古籍出版社 | 2007 |
+| 《唐代佛教》 | 郭朋 Guo Peng | 齐鲁书社 | 1982 |
+| 《法相唯识学》 | 高振农 Gao Zhennong | 中华书局 | 2005 |
+
+## 英文研究 / English-Language Studies
+
+| 著作 Work | 作者 Author | 出版社 Publisher | 年份 Year |
+|------|------|------|------|
+| *Buddhist Phenomenology* | Dan Lusthaus | Routledge | 2002 |
+| *Living Yogacara* | Tagawa Shun'ei | Wisdom | 2009 |
+| *A Buddhist Doctrine of Experience* | Thomas A. Kochumuttom | Motilal Banarsidass | 1982/1999 |
+| *Mahayana Buddhism* | Paul Williams | Routledge | 1998/2008 |
+| *Seven Works of Vasubandhu* | Stefan Anacker (trans.) | Motilal Banarsidass | 1984/2005 |
+| *The Buddhist Unconscious* | William S. Waldron | Routledge | 2003 |
+| *Consciousness and Its Place in Nature* | B. Alan Wallace | Columbia UP | 2007 |
+| *Recognizing Reality* | Georges Dreyfus | SUNY Press | 1997 |
+
+## 专题论文 / Specialized Articles
+
+| 论文 Paper | 作者 Author | 期刊 Journal | 年份 Year |
+|------|------|------|------|
+| "The Faxiang School of Buddhist Thought" | Liu Ming-Wood | *Encyclopedia of Buddhism* | 2004 |
+| "The Problem of Icchantika" | Liu Ming-Wood | *Journal of Indian Philosophy* | 2005 |
+| "Kuiji's Commentary on the Vimsatika" | Dan Lusthaus | *Journal of Indian Philosophy* | 2003 |
+| "Chinese Buddhist Logic" | Shoryu Katsura | *Encyclopedia of Buddhism* | 2004 |
+
+## 跨学科阅读 / Cross-Disciplinary Reading
+
+### 哲学 Philosophy
+- Kant, I. *Critique of Pure Reason* — 与唯识学的先验观念论比较 / Compare with Yogacara transcendental idealism
+- Husserl, E. *Ideas I* — 现象学与唯识学对话 / Phenomenology-Yogacara dialogue
+
+### 认知科学 Cognitive Science
+- Metzinger, T. *Being No One* (2003) — "无我"的认知科学视角 / Cognitive science perspective on no-self
+- Clark, A. *Surfing Uncertainty* (2016) — 预测编码与唯识种子理论 / Predictive coding and Yogacara seed theory
+
+### 心理学 Psychology
+- Wallace, B.A. *The Taboo of Subjectivity* (2000) — 唯识学与意识研究 / Yogacara and consciousness studies
+- Epstein, M. *Thoughts Without a Thinker* (1995) — 佛教心理学与心理治疗 / Buddhist psychology and psychotherapy

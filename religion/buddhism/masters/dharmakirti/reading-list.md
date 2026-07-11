@@ -1,0 +1,159 @@
+---
+id: dharmakirti-reading-list
+title: "法称进阶阅读 Dharmakīrti: Annotated Reading List"
+type: reading-list
+parent: dharmakirti
+---
+
+# 法称进阶阅读 / Reading List for Dharmakīrti
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **法尊法师译《正理一滴》Nyāyabindu**
+  - 最佳中文译本；语言精确，附有注释
+  - 量论入门首选
+
+- **Th. Stcherbatsky**, *Buddhist Logic* (2 vols., 1930-32; Dover reprint)
+  - Vol. II 包含《正理一滴》完整英译及法上注疏的翻译
+  - 经典研究，虽然部分解读已被后续研究修正，但仍不可替代
+
+- **John Dunne**, *Foundations of Dharmakīrti's Philosophy* (Wisdom, 2004)
+  - 最佳哲学导论；包含《量抉择论》关键段落的英译
+  - 从经量部视角解读法称，引发重要学术争论
+
+### 推荐 Recommended
+
+- **Tom Tillemans**, *Persons of Authority: The sTon pa tshad ma'i skyes bur sgrub pa'i gtam of A lag sha Ngag dbang bstan dar* (Franz Steiner, 1993)
+  - 讨论法称论佛陀为"量士夫"的论证
+  - 适合对认识论与宗教权威关系感兴趣的读者
+
+- **Ernst Steinkellner** (ed.), *Dharmakīrti's Pramāṇaviniścaya* (Verlag der Österreichischen Akademie der Wissenschaften, 2007)
+  - 完整梵文本编辑；文本学研究的里程碑
+  - 需要梵文阅读能力
+
+- **Masatoshi Nagatomi**, *A Study of Dharmakīrti's Pramāṇavārttika* (Harvard PhD, 1957; 后续修订出版)
+  - 早期梵藏对照研究；对《量抉择论》的逐品分析
+  - 文本学基础扎实
+
+- **Prabhācandra** (ed.), *Pramāṇavārttika* (梵文本, 1930s 发现)
+  - 基于 Sankrtyayana 在西藏发现的梵文写本
+  - 原始文本研究的基础
+
+## 研究专著 / Scholarly Monographs
+
+### 必读 Essential
+
+- **Georges Dreyfus**, *Recognizing Reality: Dharmakīrti's Philosophy and Its Tibetan Interpretations* (SUNY, 1997)
+  - 最全面的法称研究；涵盖哲学分析与藏传注释传统
+  - 对比萨迦派与格鲁派对法称的不同解读
+  - 长达 600+ 页，适合有基础的进阶读者
+
+- **舍尔巴茨基 Th. Stcherbatsky**, *《佛教逻辑》Buddhist Logic* (商务印书馆中译本)
+  - 经典研究；将法称置于整个印度逻辑传统中
+  - 虽有过度诠释之处，但仍是理解法称的必经之路
+
+### 推荐 Recommended
+
+- **Birgit Kellner**, *Studies in the Pramāṇaviniścaya* (2003-2009)
+  - 对《量决定论》的精细文本学研究
+  - 注重梵藏对照和哲学分析
+
+- **Brendan S. Gillon & Marie-Hélène Gorisse** (eds.), *Classical Indian Philosophy* (OUP)
+  - 包含法称在印度哲学整体中的定位
+  - 适合想了解法称与印度其他学派关系的读者
+
+- **Richard Hayes**, *Dignāga on the Interpretation of Signs* (Springer, 1988)
+  - 虽然以陈那为主，但对理解法称的前史不可或缺
+  - 对 Apoha 理论的早期系统分析
+
+- **Shoryu Katsura**, "Dharmakīrti's Theory of Inference" (*Journal of Indian Philosophy*, various)
+  - 一系列重要论文；对法称推理理论的精细分析
+  - 适合对逻辑学细节感兴趣的读者
+
+- **Dan Arnold**, *Buddhists, Brahmins, and Belief: Epistemology in South Asian Philosophy of Religion* (Columbia UP, 2005)
+  - 法称与 Kumārila 的认识论争论
+  - 将佛教量论与婆罗门认识论的对话置于更广阔的哲学语境中
+
+## 入门读物 / Introductory
+
+- **Birgit Kellner**, "Dharmakīrti," *Stanford Encyclopedia of Philosophy*
+  - 最佳在线学术导论；准确、简洁
+  - 适合哲学背景的入门读者
+
+- **Georges Dreyfus**, "Dharmakīrti," *Routledge Encyclopedia of Philosophy*
+  - 另一篇权威导论；侧重藏传诠释视角
+
+- **法尊法师**, *《量理庄严论》相关著述*
+  - 中文语境下了解法称的重要途径
+
+- **梶山雄一**, *《佛教认识论研究》* (法藏馆)
+  - 日本学者的系统研究；注重印度哲学语境
+
+- **桂绍隆**, *《印度佛教认识论研究》*
+  - 中文学术界对佛教量论的重要研究
+
+## 专题研究 / Topical Studies
+
+### Apoha 理论
+
+- **Brendan S. Gillon**, "Apoha and the Problem of Universals"
+- **Mark Siderits**, "Apoha Nominalism" (*Philosophy East and West*)
+- **Pascale Hugon**, "Dharmakīrti on the Double Nature of Inference" (涉及 Apoha 与推理的关系)
+
+### 刹那灭
+
+- **Ernst Steinkellner**, "The Development of Kṣaṇikavāda"
+- **Alex Watson**, "The Self's Natural History: Dharmakīrti on Awareness and the Moment"
+
+### 因三相与逻辑
+
+- **Tom Tillemans**, *Scripture, Logic, Language* (Wisdom, 1999)
+  - 佛教逻辑与语言哲学的交叉研究
+- **Bimal Krishna Matilal**, *The Character of Logic in India* (SUNY, 1998)
+  - 印度逻辑的整体导论，法称占有重要位置
+
+### 心灵哲学
+
+- **Christian Coseru**, *Perceiving Reality: Consciousness, Intentionality, and Cognition in Yogācāra Buddhist Philosophy* (OUP, 2012)
+  - 从现象学角度解读法称和寂护的认识论
+  - 与当代心灵哲学的深度对话
+
+### 藏传诠释
+
+- **Georges Dreyfus**, *Recognizing Reality* (同上)
+- **Tom Tillemans**, "How Far Will a Mādhyamika Go?" (涉及中观派对法称的批判性吸收)
+- **José Cabezón**, *A Dose of Emptiness* (涉及格鲁派对量论的运用)
+
+## 跨学科阅读 / Interdisciplinary
+
+- **Evan Thompson**, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (Harvard UP, 2007)
+  - 将佛教认识论（包括法称）与认知科学和现象学结合
+  - 对"自证" (svasaṃvedana) 的当代讨论
+
+- **Jay Garfield**, *Engaging Buddhism: Why It Matters to Philosophy* (OUP, 2015)
+  - 论证佛教哲学（包括量论）对当代哲学的意义
+  - 适合想了解佛教哲学整体定位的读者
+
+- **Mark Siderits**, *Personal Identity and Buddhist Philosophy* (Ashgate, 2003)
+  - 从分析哲学角度讨论佛教的自我观与认识论
+  - 法称的刹那灭理论是重要讨论对象
+
+- **Jonardon Ganeri**, *The Concealed Art of the Soul* (OUP, 2007)
+  - 印度自我理论的哲学分析
+  - 涉及法称在自我争论中的位置
+
+## 进阶 / Advanced (需要梵文或藏文能力)
+
+- **法上 Dharmottara**, *Pramāṇavārttika-ṭīkā* (梵文/藏译)
+  - 最重要的法称注释；对理解法称原意至关重要
+
+- **萨迦班智达 Sa-skya Paṇḍita**, *《量理宝藏论》Tshad-ma rigs-gter* (藏文)
+  - 藏传量论传统的集大成；独特的"自空"解读
+
+- **宗喀巴 Tsongkhapa** 及其弟子的量论著述 (藏文)
+  - 格鲁派量论教育的理论基础
+
+- **智藏智 Jñānaśrīmitra**, *Apohaprakaraṇa* (梵文残本/藏译)
+  - 晚期 Apoha 理论的精细发展

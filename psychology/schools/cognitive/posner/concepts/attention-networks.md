@@ -1,0 +1,76 @@
+---
+id: psychology.cognitive.posner.attention-networks
+title: "注意力网络 · Attention Networks"
+type: concept
+thinker: posner
+school: cognitive
+tags: [注意力, 三网络模型, 警觉, 定向, 执行控制, attention, three-network model, alerting, orienting, executive control]
+---
+
+# 注意力网络 · Attention Networks
+
+## 定义 / Definition
+
+**注意力网络**（Attention Networks）是波斯纳（Michael I. Posner）与彼得森（Steven E. Petersen）在1990年正式提出的理论框架，认为注意力不是一个单一的、统一的心理系统或资源池，而是由三个在解剖学上独立、在神经化学上各具特征、但在功能上协同运作的脑网络组成：警觉网络（alerting network）、定向网络（orienting network）和执行控制网络（executive control network）。这一理论是当代认知神经科学中关于注意力最具影响力的整合性框架。
+
+**Attention Networks** is the theoretical framework formally proposed by Michael I. Posner and Steven E. Petersen in 1990, arguing that attention is not a single, unified psychological system or resource pool, but rather consists of three brain networks that are anatomically independent, neurochemically distinct, yet functionally coordinated: the alerting network, the orienting network, and the executive control network. This theory represents the most influential integrative framework for attention in contemporary cognitive neuroscience.
+
+## 核心机制 / Core Mechanisms
+
+### 三网络的结构与功能 / Structure and Function of Three Networks
+
+注意力三网络模型的核心主张是：每个网络都有独立的（1）功能定义、（2）解剖学基底（脑区）、和（3）神经递质系统。
+
+The core claim of the three-network model is that each network has independent (1) functional definitions, (2) anatomical substrates (brain regions), and (3) neurotransmitter systems.
+
+**警觉网络（Alerting Network）** 负责维持和调节觉醒水平与警觉状态。该网络主要涉及右额叶（right frontal lobe）和右顶叶（right parietal lobe），依赖去甲肾上腺素（norepinephrine, NE）神经递质系统，特别是蓝斑核（locus coeruleus）的去甲肾上腺素投射。警觉又可分为两种成分：位相性警觉（phasic alerting），即由警告信号引发的短暂警觉增强；和持续性警觉（tonic alerting），即维持较长时间内的一般觉醒水平。
+
+The **alerting network** is responsible for maintaining and modulating arousal level and vigilance. It primarily involves the right frontal and right parietal lobes, relying on the norepinephrine (NE) neurotransmitter system, particularly the noradrenergic projections from the locus coeruleus. Alerting can be further divided into two components: phasic alerting, a transient increase in alertness triggered by warning signals; and tonic alerting, the maintenance of general arousal over extended periods.
+
+**定向网络（Orienting Network）** 负责将注意力指向特定的感官信息来源或空间位置。该网络涉及后顶叶皮层（posterior parietal cortex）、上丘（superior colliculus）、丘脑枕（pulvinar nucleus of the thalamus）和颞顶联合区（temporoparietal junction），主要依赖乙酰胆碱（acetylcholine, ACh）神经递质系统。定向过程包括注意力的解除（disengaging）、转移（moving）和重新锁定（re-engaging）三个子过程。
+
+The **orienting network** is responsible for directing attention to specific sensory sources or spatial locations. It involves the posterior parietal cortex, superior colliculus, pulvinar nucleus of the thalamus, and temporoparietal junction, primarily relying on the acetylcholine (ACh) neurotransmitter system. The orienting process includes three sub-processes: disengaging attention, moving attention, and re-engaging attention.
+
+**执行控制网络（Executive Control Network）** 负责在认知冲突情境中进行监测和调节，抑制优势反应，实现认知灵活性。该网络主要涉及前扣带回皮层（anterior cingulate cortex, ACC）、外侧前额叶皮层（lateral prefrontal cortex）和基底神经节（basal ganglia），依赖多巴胺（dopamine, DA）神经递质系统。
+
+The **executive control network** is responsible for monitoring and regulating cognitive conflict, suppressing dominant responses, and achieving cognitive flexibility. It primarily involves the anterior cingulate cortex (ACC), lateral prefrontal cortex, and basal ganglia, relying on the dopamine (DA) neurotransmitter system.
+
+### 网络的独立性与交互 / Network Independence and Interaction
+
+三网络理论的关键论点是三个网络在解剖学和功能上相对独立。Fan 等（2002）开发的注意力网络测试（ANT）在单一任务中同时测量三个网络的效率，结果发现三个网络的效率得分之间相关很低，支持了独立性假设。然而，独立性不是绝对的：三个网络在实际认知活动中存在交互作用。例如，警觉水平的提高可以改善定向网络的效率（高警觉状态下，注意力的空间转移更快）；执行控制网络可以在自上而下的方向上调节定向网络的选择过程。
+
+The key argument of the three-network theory is that the three networks are relatively independent anatomically and functionally. The ANT developed by Fan et al. (2002) simultaneously measures all three networks' efficiency in a single task, and results showed low correlations between network efficiency scores, supporting the independence hypothesis. However, independence is not absolute: the three networks interact during actual cognitive activity. For example, increased alerting can improve orienting network efficiency (spatial attention shifts are faster under high alertness); the executive control network can modulate the orienting network's selection processes in a top-down manner.
+
+## 发展脉络 / Developmental Trajectory
+
+注意力网络理论的形成经历了多个阶段。1970年代，波斯纳在心理计时学研究中发现了不同注意操作的时间差异，暗示了多个独立处理系统的存在。1980年代，空间注意研究（线索提示范式）和脑成像研究（PET 扫描）为注意力的脑区定位提供了直接证据。1990年，波斯纳与彼得森在整合了行为实验、脑损伤研究和神经影像证据后，正式发表了三网络模型。2002年，Fan 等开发的 ANT 测试使三网络的标准化测量成为可能，极大地推动了理论验证和临床应用。此后，该理论不断得到来自发展心理学、遗传学、药理学和跨文化研究的证据支持。
+
+The formation of attention network theory went through several stages. In the 1970s, Posner discovered temporal differences among different attention operations in chronometric research, suggesting the existence of multiple independent processing systems. In the 1980s, spatial attention research (cueing paradigms) and brain imaging studies (PET scans) provided direct evidence for the brain localization of attention. In 1990, Posner and Petersen formally published the three-network model after integrating behavioral experiments, lesion studies, and neuroimaging evidence. In 2002, the ANT developed by Fan et al. enabled standardized measurement of all three networks, greatly advancing theory validation and clinical application. Since then, the theory has been continually supported by evidence from developmental psychology, genetics, pharmacology, and cross-cultural research.
+
+## 临床应用 / Clinical Applications
+
+注意力网络理论在临床领域的应用日益广泛。在 ADHD 研究中，三网络模型提供了比传统的"注意力不集中"描述更精确的诊断框架：不同 ADHD 亚型表现出不同网络的效率缺陷模式。在中风康复中，特定脑区的损伤可以导致特定网络的效率障碍，针对性的网络训练可以改善康复效果。在阿尔茨海默病和其他神经退行性疾病中，注意力网络的早期变化可以作为认知衰退的早期标志。在精神疾病研究中，精神分裂症患者的执行控制网络效率显著降低，焦虑症患者的定向网络表现出对威胁性刺激的过度敏感。
+
+The clinical applications of attention network theory are increasingly widespread. In ADHD research, the three-network model provides a more precise diagnostic framework than traditional "inattention" descriptions: different ADHD subtypes exhibit different patterns of network efficiency deficits. In stroke rehabilitation, damage to specific brain regions can lead to efficiency impairments in specific networks, and targeted network training can improve rehabilitation outcomes. In Alzheimer's disease and other neurodegenerative conditions, early changes in attention networks can serve as early markers of cognitive decline. In psychiatric research, schizophrenia patients show significantly reduced executive control network efficiency, and anxiety disorder patients' orienting networks exhibit hypersensitivity to threatening stimuli.
+
+## 关联概念 / Related Concepts
+
+- **执行控制（Executive Attention）** → [executive-attention.md](executive-attention.md) — 三网络中最"高级"的网络 / The most "higher-order" of the three networks
+- **定向网络（Orienting）** → [orienting.md](orienting.md) — 注意力的空间选择机制 / Spatial selection mechanism of attention
+- **警觉网络（Alerting）** → [alerting.md](alerting.md) — 觉醒维持系统 / Arousal maintenance system
+- **认知控制（Cognitive Control）** → [cognitive-control.md](cognitive-control.md) — 执行控制网络的核心功能体现 / Core functional expression of the executive control network
+- **注意力网络测试（ANT）** — 三网络同时评估的标准化工具 / Standardized tool for simultaneous assessment of three networks
+- **Baars 全局工作空间理论** — 注意力作为全局工作空间的"门户" / Attention as the "gateway" to the global workspace
+
+## 东西方对话 / East-West Dialogue
+
+注意力三网络模型与东方冥想传统对注意力的多层次理解存在深刻的平行关系。在佛教心理学（阿毗达磨）中，注意力被分析为多个心所（caitta）的协同运作：作意（manaskara，将心转向对象）对应于定向网络；念（smrti，持续觉察）对应于警觉网络；慧（prajna，分辨和抉择）对应于执行控制网络。这种将注意力视为多成分协同系统的观点，与波斯纳的三网络模型形成了跨越两千年的理论对话。
+
+The three-network model has profound parallels with Eastern meditation traditions' multi-layered understanding of attention. In Buddhist psychology (Abhidharma), attention is analyzed as the coordinated operation of multiple mental factors (caitta): manaskara (directing mind toward object) corresponds to the orienting network; smrti (sustained awareness) corresponds to the alerting network; and prajna (discrimination and discernment) corresponds to the executive control network. This view of attention as a multi-component coordinated system forms a theoretical dialogue spanning two millennia with Posner's three-network model.
+
+## 进阶阅读 / Further Reading
+
+- Posner, M.I. & Petersen, S.E. (1990). "The attention system of the human brain." *Annual Review of Neuroscience*, 13, 25-42.
+- Fan, J., McCandliss, B.D., Sommer, T., Raz, A., & Posner, M.I. (2002). "Testing the efficiency and independence of attentional networks." *Journal of Cognitive Neuroscience*, 14(3), 340-347.
+- Raz, A. & Buhle, J. (2006). "Typologies of attentional networks." *Nature Reviews Neuroscience*, 7(5), 367-379.
+- Petersen, S.E. & Posner, M.I. (2012). "The attention system of the human brain: 20 years after." *Annual Review of Neuroscience*, 35, 73-89.

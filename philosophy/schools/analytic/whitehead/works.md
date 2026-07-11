@@ -1,0 +1,75 @@
+---
+id: whitehead-works
+title: 怀特海作品总览 · A.N. Whitehead Works
+type: works-catalogue
+domain: philosophy
+school: analytic
+thinker: whitehead
+tags: [whitehead, works, bibliography]
+cross-refs:
+  - id: whitehead
+    relation: thinker
+---
+
+# 怀特海作品总览 · A.N. Whitehead Works
+
+## 一、数学与逻辑学著作 / Mathematics and Logic
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1898 | *A Treatise on Universal Algebra* | 《泛代数论》 | 首部专著 |
+| 1906 | *The Axioms of Projective Geometry* | 《射影几何公理》 | 几何学基础研究 |
+| 1907 | *The Axioms of Descriptive Geometry* | 《描述几何公理》 | 几何学基础研究 |
+| 1910–1913 | *Principia Mathematica* (3 vols., with Russell) | 《数学原理》 | 数理逻辑奠基巨著 |
+| 1911 | *An Introduction to Mathematics* | 《数学导论》 | 面向大众的数学概述 |
+
+## 二、自然哲学著作 / Philosophy of Nature
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1917 | *The Organisation of Thought, Educational and Scientific* | 《思想的组织》 | 教育与科学思想 |
+| 1919 | *An Enquiry Concerning the Principles of Natural Knowledge* | 《自然知识原理探究》 | 自然认识论 |
+| 1920 | *The Concept of Nature* | 《自然的概念》 | 自然哲学核心著作 |
+| 1922 | *The Principle of Relativity with Applications to Physical Science* | 《相对论原理》 | 相对论的哲学阐释 |
+
+## 三、形而上学与哲学著作 / Metaphysics and Philosophy
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1925 | *Science and the Modern World* | 《科学与现代世界》 | 科学思想史，洛威尔讲演 |
+| 1926 | *Religion in the Making* | 《形成中的宗教》 | 宗教哲学 |
+| 1927 | *Symbolism: Its Meaning and Effect* | 《象征主义：意义与效果》 | 符号与感知 |
+| 1929 | *Process and Reality* | 《过程与实在》 | **核心巨著：过程形而上学体系** |
+| 1929 | *The Function of Reason* | 《理性的功能》 | 理性与实践 |
+| 1929 | *The Aims of Education and Other Essays* | 《教育的目的》 | 教育哲学 |
+| 1933 | *Adventures of Ideas* | 《观念的探险》 | 文明与观念 |
+| 1934 | *Nature and Life* | 《自然与生命》 | 自然哲学补充 |
+| 1938 | *Modes of Thought* | 《思维模式》 | 最后的方法论反思 |
+
+## 四、《过程与实在》结构 / Structure of Process and Reality
+
+- **第一部分**：创造性范畴（Category of the Ultimate）——创造性、实际存在物、永恒客体、摄入
+- **第二部分**：讨论与适用（Discussions and Applications）——将范畴论应用到广泛问题
+- **第三部分**：扩展的摄入理论（Theory of Prehensions）——正面摄入与负面摄入
+- **第四部分**：外延连续体理论（Theory of Extension）——时空的哲学分析
+- **第五部分**：终极范畴的最终讨论（Final Interpretation）——上帝、创造性、过程
+
+## 五、英译/中译本 / Translations
+
+- *Process and Reality*, corrected edition, eds. David Ray Griffin & Donald W. Sherburne (1978) — 标准校正版
+- 《过程与实在》（杨富斌译，2012，中国社会科学出版社）
+- 《科学与现代世界》（傅佩荣译）
+- 《教育的本质》（陈玉联译）
+
+## 六、阅读路径
+
+### 入门
+1. *The Aims of Education* — 最易读，教育哲学
+2. *Science and the Modern World* ch. 1-3 — 科学史与具体性误置谬误
+3. *Religion in the Making* — 宗教哲学短著
+
+### 进阶
+4. *Process and Reality* Part I — 范畴论
+5. *Process and Reality* Part V — 上帝与创造性
+6. *Adventures of Ideas* — 文明与观念
+7. *Modes of Thought* — 方法论反思

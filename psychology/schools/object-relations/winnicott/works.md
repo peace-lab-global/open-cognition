@@ -1,0 +1,76 @@
+---
+id: winnicott-works
+title: "温尼科特关键著作 · Key Works of Donald Winnicott"
+type: reference
+thinker: winnicott-donald
+school: object-relations
+---
+
+# 温尼科特关键著作 · Key Works of Donald Winnicott
+
+## 著作年表 / Chronological Table of Major Works
+
+| 年份 / Year | 著作 / Work | 出版信息 / Publication | 核心主题 / Core Themes |
+|:---:|------|------|------|
+| 1946 | "The Development of the Capacity for Concern" | 收录于 *The Maturational Processes* (1965) | 关切能力的发展；抑郁位 / Development of concern; depressive position |
+| 1947 | "Hate in the Counter-Transference" | *IJP* 28, 收录于 *Through Paediatrics* (1958) | 反移情中的恨；困难患者的治疗 / Hate in countertransference; treatment of difficult patients |
+| 1949 | "Mind and Its Relation to the Psyche-Soma" | *BJMP* 22, 收录于 *Through Paediatrics* (1958) | 心身关系；心智的起源 / Mind-body relationship; origins of mind |
+| 1953 | "Transitional Objects and Transitional Phenomena" | *IJP* 34, pp. 89–97 | 过渡客体；过渡现象；第三领域 / Transitional objects; transitional phenomena; third area |
+| 1954 | "Metapsychological and Clinical Aspects of Regression within the Psycho-Analytical Set-Up" | 收录于 *Through Paediatrics* (1958) | 退行的治疗价值 / Therapeutic value of regression |
+| 1955 | "Primary Maternal Preoccupation" | 收录于 *Through Paediatrics* (1958) | 原初母性专注 / Primary maternal preoccupation |
+| 1956 | "The Antisocial Tendency" | 收录于 *Deprivation and Delinquency* (1984) | 反社会行为作为希望的表达 / Antisocial behaviour as expression of hope |
+| 1958 | *Through Paediatrics to Psycho-Analysis* | London: Tavistock Publications | **首部论文集**：整合20年儿科观察与精神分析 / **First collected papers**: integrating 20 years of paediatric observation with psychoanalysis |
+| 1958 | "The Capacity to Be Alone" | *IJP* 39, 收录于 *The Maturational Processes* (1965) | 独处能力；情感成熟的标志 / Capacity to be alone; marker of emotional maturity |
+| 1960 | "Ego Distortion in Terms of True and False Self" | 收录于 *The Maturational Processes* (1965), pp. 140–152 | 真自体/假自体；自发性与顺从 / True/false self; spontaneity and compliance |
+| 1960 | "The Theory of the Parent-Infant Relationship" | *IJP* 41, 收录于 *The Maturational Processes* (1965) | 亲子关系理论；抱持环境 / Parent-infant relationship theory; holding environment |
+| 1962 | "The Integration of the Self in Early Childhood" | 收录于 *The Maturational Processes* (1965) | 自我的整合 / Integration of the self |
+| 1963 | "Communicating and Not Communicating" | 收录于 *The Maturational Processes* (1965), pp. 179–192 | 沟通与不沟通；真自体的隐私权 / Communicating and not communicating; the true self's right to privacy |
+| 1964 | *The Child, the Family, and the Outside World* | London: Pelican Books | **面向大众**的育儿著作 / **Popular audience** parenting book |
+| 1965 | *The Maturational Processes and the Facilitating Environment* | London: Hogarth Press | **里程碑论文集**：成熟过程；促进性环境；抱持 / **Landmark collection**: maturational processes; facilitating environment; holding |
+| 1966 | *The Family and Individual Development* | London: Tavistock Publications | 家庭动力学 / Family dynamics and individual development |
+| 1968 | "The Use of an Object and Relating through Identifications" | 收录于 *Playing and Reality* (1971), pp. 86–94 | 客体使用；客体的存活 / Use of an object; survival of the object |
+| 1969 | "The Use of an Object" | *IJP* 50, pp. 711–716 | 客体使用（期刊版本） / Use of an object (journal version) |
+| 1970 | "The Place Where We Live" | 收录于 *Home Is Where We Start From* (1986) | 家的概念；空间与归属感 / Concept of home; space and belonging |
+| 1971 | *Playing and Reality* | London: Tavistock Publications | **代表作**：过渡客体；潜在空间；游戏；创造性 / **Magnum opus**: transitional objects; potential space; play; creativity |
+| 1971 | *Therapeutic Consultations in Child Psychiatry* | London: Hogarth Press / Basic Books | 儿童精神科的治疗性会谈 / Therapeutic consultations in child psychiatry |
+| 1984 | *Deprivation and Delinquency* (posthumous, ed. C. Winnicott et al.) | London: Tavistock | 剥夺与反社会行为 / Deprivation and delinquency |
+| 1986 | *Holding and Interpretation: Fragment of an Analysis* (posthumous) | London: Hogarth Press | 精神分裂症患者的治疗记录 / Treatment record of a schizophrenic patient |
+| 1986 | *Home Is Where We Start From* (posthumous, ed. C. Bollas et al.) | London: Penguin | 后期论文选集 / Selected later papers |
+| 1989 | *Baby and Child* (posthumous, with C. Winnicott) | London: Penguin | 婴幼儿照护指南 / Infant care guide |
+
+---
+
+## 核心著作详述 / Detailed Notes on Core Works
+
+### *Through Paediatrics to Psycho-Analysis* (1958)
+
+温尼科特的首部论文集，收录了1936年至1956年间的重要论文。这部著作展示了温尼科特如何从儿科医生逐步发展为精神分析师的思想轨迹。关键论文包括："反移情中的恨"（1947）、"心智及其与心身的关系"（1949）和"退行的精神分析设置"（1954）。
+
+Winnicott's first collection of papers, spanning 1936 to 1956. This volume demonstrates Winnicott's intellectual trajectory from paediatrician to psychoanalyst. Key papers include: "Hate in the Counter-Transference" (1947), "Mind and Its Relation to the Psyche-Soma" (1949), and "Metapsychological and Clinical Aspects of Regression" (1954).
+
+### *The Maturational Processes and the Facilitating Environment* (1965)
+
+温尼科特理论成熟的标志性著作。系统阐述了成熟过程（maturational processes）与促进性环境（facilitating environment）之间的辩证关系。收录了"真自体与假自体"（1960）、"独处的能力"（1958）和"亲子关系理论"（1960）等核心论文。
+
+The landmark of Winnicott's mature theory. Systematically articulates the dialectic between maturational processes and the facilitating environment. Includes core papers: "True and False Self" (1960), "The Capacity to Be Alone" (1958), and "The Theory of the Parent-Infant Relationship" (1960).
+
+### *Playing and Reality* (1971)
+
+温尼科特的代表作和最具影响力的著作。在本书中，他将"过渡客体"的概念扩展为"潜在空间"和"游戏"的完整理论，将精神分析的洞察力与人类文化经验的广阔视野融为一体。关键章节包括：第1章"过渡客体与过渡现象"、第4章"创造性及其起源"、第7章"文化经验的位置"。
+
+Winnicott's magnum opus and most influential work. Here he expanded the transitional object concept into a complete theory of potential space and play, integrating psychoanalytic insight with the broad vista of human cultural experience. Key chapters: Ch.1 "Transitional Objects and Transitional Phenomena," Ch.4 "Creativity and Its Origins," Ch.7 "The Place Where We Live."
+
+---
+
+## 论文选集 / Selected Paper Collections (Posthumous)
+
+温尼科特去世后，大量论文被编辑出版：
+
+After Winnicott's death, extensive papers were edited and published:
+
+- *Deprivation and Delinquency* (1984) — 关于反社会行为与早期剥夺的关系 / On antisocial behaviour and early deprivation
+- *Holding and Interpretation* (1986) — 一位精神分裂症患者的分析片段 / Fragment of an analysis of a schizophrenic patient
+- *Home Is Where We Start From* (1986) — 后期论文选集 / Selected later papers
+- *Human Nature* (1988, ed. C. Bollas et al.) — 1940年代的讲稿 / Lecture notes from the 1940s
+- *Psycho-Analytic Explorations* (1989, ed. C. Winnicott et al.) — 论文与书评 / Papers and book reviews
+- *The Piggle* (1977, ed. I. Ramzy) — 一个女孩的治疗记录 / Record of treatment of a little girl

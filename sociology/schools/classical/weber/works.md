@@ -1,0 +1,49 @@
+---
+id: weber-works
+title: 韦伯主要著作 · Weber Major Works
+type: works
+domain: sociology
+thinker: weber
+school: classical
+---
+
+# 韦伯主要著作详述 / Weber Major Works: Detailed Survey
+
+## 一、方法论著作 / Methodological Works
+
+### 1. 《社会科学认识中的"客观性"》（1904）/ *Die "Objektivität" sozialwissenschaftlicher Erkenntnis*
+韦伯方法论的奠基文献。在此文中韦伯提出了"理想类型"概念，区分了"价值关联"（Wertbeziehung，指导问题选择）与"价值中立"（Wertfreiheit，规范研究过程），论证了社会科学不可能也不应当是"价值无涉"的——因为研究问题的选择总是由价值关切驱动——但研究过程必须遵循客观性准则。
+
+### 2. 《社会科学和社会政策中的"价值中立"》（1917）/ *Der Sinn der "Wertfreiheit"*
+进一步阐发价值中立原则。韦伯论证了大学讲台不应成为政治宣传或道德说教的场所，学者应当在课堂上克制个人价值判断，将价值表达留给公共领域。
+
+## 二、宗教社会学 / Sociology of Religion
+
+### 3. 《新教伦理与资本主义精神》（1904-05）/ *Die protestantische Ethik und der Geist des Kapitalismus*
+韦伯最具影响力的著作。核心论证：加尔文教的预定论教义导致信徒产生深刻的"内在孤独"和得救焦虑，这种焦虑通过在世俗职业中纪律化的、系统化的劳动来缓解——即"入世苦行"（innerweltliche Askese）。这种宗教伦理无意中催生了一种理性化的营利态度，构成了现代资本主义精神的文化基础。韦伯使用"选择性亲和"（Wahlverwandtschaft）而非因果关系来描述宗教伦理与经济理性主义之间的关系。
+
+### 4. 《儒教与道教》（1915）/ *Konfuzianismus und Taoismus*
+世界宗教比较研究的中国部分。韦伯论证儒教是一种"适应世界的理性主义"——强调对现世秩序的适应和调和——而非"改造世界的理性主义"。这种伦理取向与清教"改造世界"的紧张性形成对比，韦伯以此解释中国为何没有自发产生理性资本主义。
+
+### 5. 《印度教与佛教》（1916）/ *Hinduismus und Buddhismus*
+分析印度种姓制度的宗教基础及其对经济理性化的阻碍。种姓制度的仪式性隔离和"业报"（Karma）教义构成了一种反理性主义的社会结构。
+
+### 6. 《古犹太教》（1917-19）/ *Das antike Judentum*
+分析犹太教的"贱民民族"（pariah people）地位和先知传统，论证了犹太伦理一神教对西方理性主义的独特贡献。
+
+### 7. 《世界宗教的经济伦理》（1915）/ *Die Wirtschaftsethik der Weltreligionen*
+宗教比较研究的总论，提出了"世界的图像合理化"（rationalization of world-images）概念和"选择性亲和"方法论原则。
+
+## 三、政治与社会理论 / Political and Social Theory
+
+### 8. 《经济与社会》（1922，遗著）/ *Wirtschaft und Gesellschaft*
+韦伯最庞大的著作，死后由妻子玛丽安娜编辑出版。涵盖社会学基本概念（社会行动、社会关系、共同体与联合体）、经济社会学、法律社会学、宗教社会学、支配社会学（传统型/克里斯玛型/法理型）、城市社会学等领域。其中关于官僚制、支配类型和社会行动类型的论述是社会学理论的经典文本。
+
+### 9. 《以学术为业》（1917）/ *Wissenschaft als Beruf*
+面向大学生的演讲。韦伯论证了现代学术的职业化特征和内在限度：学术进步意味着不断被超越；学术不能回答终极意义问题；"世界的祛魅"意味着人必须自己面对意义选择。"在学术上取得成就的条件是，他必须能够承受这种状况：他周围的人没有一个会达到他这样的水平。"
+
+### 10. 《以政治为业》（1919）/ *Politik als Beruf*
+面向政治学学生的演讲。韦伯区分了"信念伦理"（Gesinnungsethik，不计后果地坚持原则）和"责任伦理"（Verantwortungsethik，对行动后果负责），认为成熟的政治家应当将两者结合但以责任伦理为主。政治的三种品质：热情、责任感和判断力。
+
+### 11. 《作为职业的政治》（1919）/ Parlament und Regierung im neugeordneten Deutschland
+关于议会制和民主制的论文，分析了魏玛共和国的政治制度设计。

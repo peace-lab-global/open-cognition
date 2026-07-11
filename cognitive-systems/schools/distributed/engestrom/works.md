@@ -1,0 +1,19 @@
+---
+id: cognitive-systems.school.distributed.engestrom.works
+title: 恩格斯托姆核心著作 Yrjö Engeström Works
+type: works
+thinker: engestrom
+domain: cognitive-systems
+school: distributed
+---
+
+# 恩格斯托姆核心著作 / Yrjö Engeström Key Works
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1987/2015 | *Learning by Expanding* | 扩展学习理论 |
+| 1999 | *Perspectives on Activity Theory* | 活动理论视角集 |
+| 2001 | "Expansive Learning at Work" | 扩展学习应用 |
+
+## 二手研究
+- Sannino, A., Daniels, H. & Gutiérrez, K. (eds.) (2009). *Learning and Collective Transformations*.

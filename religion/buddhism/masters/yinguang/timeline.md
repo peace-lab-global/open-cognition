@@ -1,0 +1,124 @@
+---
+id: yinguang-timeline
+title: "印光年表 Yinguang: Historical Timeline"
+type: timeline
+parent: yinguang
+---
+
+# 印光年表 / Timeline of Master Yinguang
+
+## 历史语境 / Historical Context
+
+### 时代背景 / Era Background
+
+- **晚清 (1861-1911)**: 列强入侵、太平天国运动、洋务运动、戊戌变法、义和团——中国社会剧烈动荡
+- **民国初期 (1912-1927)**: 北洋政府、新文化运动、科学主义思潮、庙产兴学运动——传统宗教受到严重冲击
+- **民国中后期 (1927-1940)**: 国民政府、日本侵华战争——社会持续动荡
+
+Late Qing (1861-1911): foreign invasion, Taiping Rebellion, Self-Strengthening Movement, Hundred Days' Reform, Boxer Rebellion — extreme social upheaval. Early Republic (1912-1927): Beiyang government, New Culture Movement, scientism, temple property confiscation — traditional religion under severe assault. Mid-late Republic (1927-1940): Nationalist government, Japanese invasion — continued turmoil.
+
+### 佛教环境 / Buddhist Environment
+
+- **太平天国运动** (1851-1864): 大规模破坏佛寺和佛教文化
+- **庙产兴学** (1898 起): 政府征用寺庙财产办学校，佛教面临存亡危机
+- **佛教复兴运动**: 杨文会、太虚大师等推动佛教现代化和复兴
+- **净土宗衰落**: 自明代蕅益大师后，净土宗缺乏有影响力的领袖
+
+Taiping Rebellion (1851-1864): massive destruction of Buddhist temples and culture. Temple property confiscation (from 1898): government seized temple assets for schools, threatening Buddhist survival. Buddhist revival movement: Yang Wenhui, Master Taixu and others promoted Buddhist modernization. Pure Land decline: since Ming Dynasty Master Ouyi, the Pure Land school lacked influential leaders.
+
+---
+
+## 生平年表 / Biographical Timeline
+
+| 年份 Year | 事件 Event | 备注 Notes |
+|-----------|------|------|
+| 1861 | 生于陕西郃阳，俗姓赵，名绍伊 | Born in Heyang, Shaanxi; secular name Zhao Shaoyi |
+| ~1867 | 开始读儒书，接受传统儒学教育 | Began Confucian education |
+| ~1877 | 因眼疾读佛经，对佛法生起信心 | Eye illness led to reading Buddhist sutras; faith arose |
+| 1881 (21岁) | 于终南山莲花洞寺出家，礼道纯和尚为师 | Ordained at Lianhua Cave Temple on Zhongnan Mountain |
+| 1882 | 于陕西兴安县双溪寺受具足戒 | Received full precepts at Shuangxi Temple |
+| ~1883 | 读《龙舒净土文》，确立净土信仰 | Read Longshu's Pure Land text; established Pure Land faith |
+| ~1886 | 朝礼五台山，后至北京龙泉寺 | Pilgrimage to Wutai Mountain; then to Longquan Temple, Beijing |
+| 1887 | 至浙江普陀山法雨寺，开始闭关修行 | Arrived at Fayu Temple, Mount Putuo; began retreat |
+| 1887-1893 | 前期闭关，精修念佛，博览大藏经 | Early retreat: intensive recitation practice, extensive canon study |
+| ~1893 | 曾短暂离山，后又返回继续闭关 | Brief departure from mountain; returned to continue retreat |
+| 1893-1917 | 持续闭关，约三十年不问世事 | Continued retreat, ~30 years of withdrawal from worldly affairs |
+| ~1908 | 开始有信众通过书信求教 | Laypeople began seeking guidance through letters |
+| 1912 | 民国成立，佛教面临庙产兴学等新威胁 | Republic established; Buddhism faces new threats |
+| 1917 | 结束闭关，但仍以书信方式弘法 | Ended formal retreat; continued teaching through letters |
+| 1918 | 《印光法师文钞》正编初版（徐蔚如编纂） | Main Collection of Collected Writings first published (Xu Weiru, ed.) |
+| ~1919 | 开始大量印刷流通因果教育读本 | Began mass printing of karma education texts |
+| 1920s | 大力推广《了凡四训》《感应篇》《安士全书》 | Vigorously promoted Liaofan's Four Lessons, Response of the Tao, Works of Anshi |
+| ~1923 | 与弘一法师（李叔同）建立深厚的师徒因缘 | Deep teacher-student bond with Master Hongyi (Li Shutong) |
+| 1924 | 文钞续编开始编纂 | Continuation of Collected Writings began compilation |
+| 1930 | 移居苏州灵岩山寺 | Moved to Lingyan Mountain Temple, Suzhou |
+| 1930s | 在灵岩山建立净土道场，制定修行规约 | Established Pure Land practice center with practice regulations |
+| 1933 | 灵岩山寺正式成为净土宗专修念佛道场 | Lingyan Mountain Temple officially became a Pure Land recitation center |
+| 1936 | 应邀至上海参加护国息灾法会，公开开示 | Invited to Shanghai Peace Dharma Assembly; public teaching |
+| 1937 | 抗日战争爆发，印光呼吁和平念佛 | War of Resistance began; Yinguang called for peace and recitation |
+| 1939 | 《文钞》续编出版 | Continuation of Collected Writings published |
+| 1940.11.4 | 于苏州灵岩山寺圆寂，世寿八十 | Passed away at Lingyan Mountain Temple, Suzhou, age 80 |
+| 1941 | 四众弟子尊奉为净土宗第十三祖 | Disciples honored him as Thirteenth Patriarch of Pure Land |
+
+---
+
+## 思想发展阶段 / Intellectual Development Stages
+
+### 第一阶段：儒学根基期 (1861-1881) / Stage One: Confucian Foundation (1861-1881)
+
+少年时期接受传统儒学教育，走科举之路。这一时期奠定了他一生"儒佛合一"思想的儒家基础。
+
+Received traditional Confucian education as a youth, pursuing the examination path. This period laid the Confucian foundation for his lifelong "Confucian-Buddhist synthesis."
+
+### 第二阶段：出家求学期 (1881-1887) / Stage Two: Ordination and Seeking (1881-1887)
+
+出家后游历各地，参访善知识，最终确立净土信仰。读《龙舒净土文》是关键转折点。
+
+After ordination, traveled widely, visited teachers, ultimately established Pure Land faith. Reading Longshu's Pure Land text was the key turning point.
+
+### 第三阶段：闭关修行期 (1887-1917) / Stage Three: Retreat and Cultivation (1887-1917)
+
+在普陀山法雨寺闭关约三十年，精修念佛，博览经藏。这一时期是他思想和证量的积累期。
+
+~30 years of retreat at Fayu Temple, Mount Putuo: intensive recitation practice, extensive canonical study. This was his period of intellectual and experiential accumulation.
+
+### 第四阶段：弘法利生期 (1917-1940) / Stage Four: Teaching and Benefiting Beings (1917-1940)
+
+以书信方式指导全国信众，印刷流通善书，建立灵岩山净土道场。这是他影响力爆发的时期。
+
+Guided followers nationwide through letters, printed and distributed moral texts, established the Lingyan Mountain Pure Land center. This was the period of explosive influence.
+
+---
+
+## 同时代重要人物 / Important Contemporaries
+
+| 人物 Figure | 生卒年 Years | 与印光的关系 Relationship with Yinguang |
+|---|---|---|
+| 杨文会 Yang Wenhui | 1837-1911 | 近代佛教复兴先驱，创办金陵刻经处 / Pioneer of modern Buddhist revival; founded Jinling Sutra Press |
+| 太虚大师 Master Taixu | 1890-1947 | 佛教改革领袖，与印光走不同路线但互相尊重 / Buddhist reform leader; different path but mutual respect |
+| 弘一法师 Master Hongyi | 1880-1942 | 印光最重要的弟子/追随者，编纂《嘉言录》 / Yinguang's most important disciple; compiled Selected Sayings |
+| 圆瑛法师 Master Yuanying | 1878-1953 | 近代佛教领袖，与印光同期弘法 / Modern Buddhist leader; taught concurrently with Yinguang |
+| 虚云老和尚 Master Xuyun | 1840-1959 | 禅宗泰斗，与印光为同时代两大高僧 / Chan patriarch; one of two great monks of the era alongside Yinguang |
+| 欧阳竟无 Ouyang Jingwu | 1871-1943 | 唯识学家，支那内学院创始人 / Yogacara scholar; founder of China Inner Studies Academy |
+
+---
+
+## 后世影响 / Legacy
+
+### 灵岩山传承 / Lingyan Mountain Lineage
+
+印光圆寂后，灵岩山寺继续作为净土宗重要道场运作。他制定的修行规约影响了后来的净土宗道场建设。
+
+After Yinguang's passing, Lingyan Mountain Temple continued as an important Pure Land center. His practice regulations influenced subsequent Pure Land center construction.
+
+### 文钞的持续影响 / Enduring Influence of the Collected Writings
+
+《印光法师文钞》至今仍是华人佛教圈最常阅读的佛教文献之一。其深入浅出的风格使其对初学者和资深修行者都具有重要价值。
+
+The Collected Writings remains one of the most-read Buddhist texts in the Chinese Buddhist world. Its accessible style makes it valuable for both beginners and advanced practitioners.
+
+### 净土宗第十三祖的历史地位 / Historical Status as Thirteenth Patriarch
+
+作为净土宗的最后一位祖师，印光代表了中国净土宗传统的总结和完善。他的思想既是对善导等前代祖师的继承，也是对近代佛教挑战的回应。
+
+As the final Patriarch of the Pure Land school, Yinguang represents the culmination and completion of the Chinese Pure Land tradition. His thought both inherited predecessors like Shandao and responded to modern Buddhist challenges.

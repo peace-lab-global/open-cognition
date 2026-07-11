@@ -1,0 +1,165 @@
+---
+id: buddhadasa-reading-list
+title: "Reading List: Buddhadasa Bhikkhu · 佛使比丘推荐阅读"
+type: reading-list
+parent: buddhadasa
+school: theravada-buddhism
+tags:
+  - reading-list
+  - bibliography
+  - resources
+  - 推荐阅读
+---
+
+# Reading List: Buddhadasa Bhikkhu · 佛使比丘推荐阅读
+
+A curated reading list for those who wish to go deeper into Buddhadasa's thought, practice, and legacy. Organized by level of engagement.
+
+为希望深入了解佛使比丘思想、修行和遗产的人士策划的书单。按参与深度组织。
+
+---
+
+## Level 1: Getting Started · 入门
+
+For readers new to Buddhadasa or to Buddhism in general.
+适合佛使比丘或佛教的新读者。
+
+### Primary Sources · 原典
+
+1. **Handbook for Mankind** (1962)
+   - *The single best starting point.* A clear, comprehensive introduction to Buddhist practice — covering morality, concentration, and wisdom — written in Buddhadasa's characteristically direct and humorous style.
+   - **中文参考**：《人类手册》——最佳起点。清晰、全面的佛教修行入门。
+   - Publisher: Dhamma Study and Publication Foundation
+
+2. **Mindfulness with Breathing** (1976)
+   - A practical, step-by-step guide to breath meditation based on the *Ānāpānasati Sutta*. Essential for anyone who wants to begin a meditation practice.
+   - **中文参考**：《安般念——以呼吸为正念》——基于《安般念经》的实用呼吸冥想指南。
+   - Publisher: Wisdom Publications
+
+### Secondary Sources · 二手研究
+
+3. **Donald K. Swearer, *Me and Mine: The Life Story of Buddhadasa Bhikkhu*** (1989)
+   - The most accessible biographical introduction, told partly in Buddhadasa's own voice. Provides essential context for understanding his thought.
+   - **中文参考**：《我与我的：佛使比丘的生命故事》——最易懂的传记入门。
+
+---
+
+## Level 2: Deepening · 深入
+
+For readers who have some familiarity with Buddhism and want to engage with Buddhadasa's more original ideas.
+适合对佛教有一定了解并希望深入佛使比丘更具原创性思想的读者。
+
+### Primary Sources · 原典
+
+4. **Heartwood of the Bodhi Tree** (1964)
+   - Buddhadasa's deepest exploration of emptiness (*suññatā*). More philosophically demanding than the *Handbook*, but rewards careful reading.
+   - **中文参考**：《菩提树的心材》——对空性最深的探索。
+   - Publisher: Wisdom Publications
+
+5. **Dependent Origination: The Buddhist Law of Nature** (1971)
+   - His most philosophically original contribution — a re-reading of the twelve links of dependent origination as a moment-to-moment psychological process.
+   - **中文参考**：《缘起法：佛教的自然法则》——最具哲学原创性的贡献。
+
+6. **No Religion** (1990)
+   - The mature expression of his interreligious vision. Short, provocative, and deeply challenging to anyone attached to religious identity.
+   - **中文参考**：《无宗教》——其宗教间愿景的成熟表达。
+
+### Secondary Sources · 二手研究
+
+7. **Donald K. Swearer, *Buddhadasa: Thailand's Mahāyāna-inclined Theravāda Monk*** (1991)
+   - The definitive scholarly study of Buddhadasa's thought and its place in Thai Buddhism and global Buddhist studies.
+   - 佛使比丘思想和其在泰国佛教及全球佛学研究中的地位的最权威学术研究。
+
+8. **Peter A. Jackson, *Buddhadasa: A Buddhist Thinker for the Modern World*** (1993)
+   - Examines Buddhadasa's engagement with modernity, science, and social change in the Thai context.
+   - 审视佛使比丘在泰国语境中对现代性、科学和社会变革的参与。
+
+9. **Sulak Sivaraksa (ed.), *Buddhadasa Bhikkhu: In Commemoration*** (1994)
+   - A collection of essays by Thai and international scholars, reflecting on his legacy after his passing.
+   - 泰国和国际学者的论文合集，反思其身后的遗产。
+
+---
+
+## Level 3: Practice · 实修
+
+For practitioners who want to integrate Buddhadasa's teachings into their daily meditation and life practice.
+适合希望将佛使比丘的教导融入日常冥想和生活实践的修行者。
+
+10. **Mindfulness with Breathing** (re-read at this level)
+    - At the practice level, this text becomes a meditation manual rather than a book to be read. Work through it step by step on the cushion.
+    - 在实践层面，这本文本成为冥想手册而非阅读的书籍。在坐垫上逐步实践。
+
+11. **Buddhadasa, *Anapanasati: The Method of Developing Samadhi*** (talks, various dates)
+    - Recorded Dhamma talks specifically focused on breath meditation. Available through the Suan Mokkh archive.
+    - 专门聚焦呼吸冥想的法谈录音。可通过解脱园档案获取。
+
+12. **Suan Mokkh Ten-Day Retreat** (in person)
+    - The most direct way to encounter Buddhadasa's teaching is to attend a retreat at Suan Mokkh itself. Monthly retreats for international visitors.
+    - 最直接体验佛使比丘教导的方式是参加解脱园的禅修营。每月为国际访客举办。
+
+---
+
+## Level 4: Context · 语境
+
+For readers who want to understand Buddhadasa within broader Buddhist, philosophical, and interreligious contexts.
+适合希望在更广泛的佛教、哲学和宗教间语境中理解佛使比丘的读者。
+
+### Buddhist Context · 佛教语境
+
+13. **Ñāṇavīra Thera, *Notes on Dhamma*** (1963/1987)
+    - A rigorous existential reading of the Pali Canon that parallels Buddhadasa's emphasis on the here-and-now, though with a more austere philosophical style.
+    - 对巴利经典的严谨存在主义解读，与佛使比丘对当下的强调平行。
+
+14. **Ajahn Chah, *Food for the Heart*** (2002, posthumous)
+    - Collected talks of Ajahn Chah, Buddhadasa's contemporary and parallel in the Thai forest tradition. Less systematic but equally profound.
+    - 佛使比丘的同代人和平行者阿姜查的法谈集。不那么系统但同样深刻。
+
+15. **Thich Nhat Hanh, *The Heart of the Buddha's Teaching*** (1998)
+    - A Vietnamese Zen master's presentation of core Buddhist concepts, offering useful cross-traditional comparison with Buddhadasa's Theravada perspective.
+    - 越南禅宗大师对佛教核心概念的呈现，提供与佛使比丘南传视角的有益跨传统比较。
+
+### Philosophical Context · 哲学语境
+
+16. **Nagarjuna, *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way)**
+    - The foundational Mahayana text on emptiness, for comparison with Buddhadasa's Theravada-inflected understanding of *suññatā*.
+    - 关于空性的基础北传文本，用于与佛使比丘的南传空性理解比较。
+
+17. **David Loy, *Nonduality: A Study in Comparative Philosophy*** (1988)
+    - A philosophical study of nondual thinking across Buddhist, Hindu, and Western traditions — useful for understanding what Buddhadasa was pointing toward in his interreligious work.
+    - 跨佛教、印度教和西方传统的非二元思想的哲学研究。
+
+### Interreligious Context · 宗教间语境
+
+18. **Thomas Merton, *Zen and the Birds of Appetite*** (1968)
+    - A Christian contemplative's engagement with Zen Buddhism, paralleling Buddhadasa's interreligious openness.
+    - 基督教冥想者与禅宗的相遇，与佛使比丘的宗教间开放性平行。
+
+19. **Raimon Panikkar, *The Silence of God: The Answer of the Buddha*** (1989)
+    - A profound exploration of the Buddhist-Christian encounter from a philosopher who, like Buddhadasa, lived between traditions.
+    - 从一位像佛使比丘一样生活在传统之间的哲学家出发的佛教-基督教相遇的深刻探索。
+
+---
+
+## Online Resources · 在线资源
+
+| Resource | URL | Description |
+|----------|-----|-------------|
+| Suan Mokkh Official | [suanmokkh.org](https://www.suanmokkh.org) | Official website of Suan Mokkh, with retreat information and teachings |
+| Buddhadasa Indapanno Archives | [buddhadasa.org](http://www.buddhadasa.org) | Digital archive of writings, talks, and photographs |
+| Liberation Park | [liberationpark.org](https://www.liberationpark.org) | English-language resource with translated teachings |
+| Access to Insight | [accesstoinsight.org](https://www.accesstoinsight.org) | Pali Canon translations relevant to Buddhadasa's teachings |
+| Suan Mokkh Bangkok | [suanmokkhbangkok.org](https://suanmokkhbangkok.org) | Urban Dhamma center in Bangkok |
+
+---
+
+## Audio and Video · 音频和视频
+
+- **Dhamma Talks Archive** — Hundreds of recorded talks in Thai, with selected English translations, available through buddhadasa.org. / 法谈档案——数百次泰语法谈录音，有精选英文翻译。
+- **YouTube: Buddhadasa Bhikkhu** — Selected talks and documentary materials. / YouTube精选法谈和纪录片材料。
+- **Suan Mokkh Retreat Recordings** — Audio from international retreats, available on request. / 国际禅修营录音，可要求获取。
+
+---
+
+*See also: [[works]] for a complete annotated bibliography.*
+
+Back to: [[buddhadasa]]

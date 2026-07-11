@@ -1,0 +1,64 @@
+---
+id: parfit-reading-list
+title: 帕菲特进阶阅读 · Derek Parfit Reading List
+type: reading-list
+domain: philosophy
+school: analytic
+thinker: parfit
+tags: [parfit, bibliography, reading-guide]
+cross-refs:
+  - id: parfit
+    relation: thinker
+---
+
+# 帕菲特进阶阅读 · Derek Parfit Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- *Reasons and Persons* (1984) Part III — 个人同一性
+- "Personal Identity" (1971) — 开创性论文
+- *On What Matters* Vol. 1 (2011) — 三重理论
+
+### 重要
+- *Reasons and Persons* 全书（尤其是 Part I 和 Part IV）
+- "Reasons and Motivation" (1997) — 客观理由论
+- *On What Matters* Vols. 2-3 — 批评回应
+
+## 二、经典研究 / Classic Studies
+
+- Jonathan Glover, *Causing Death and Saving Lives* (1977) — 与帕菲特人口伦理学的对话
+- Thomas Nagel, *The View from Nowhere* (1986) — 客观视角与帕菲特的对话
+- Christine Korsgaard, *The Sources of Normativity* (1996) — 康德主义回应
+- Samuel Scheffler, *The Rejection of Consequentialism* (1982) — 对后果主义的批评
+- John Rawls, *A Theory of Justice* (1971) — 帕菲特评论的对象
+- Henry Sidgwick, *The Methods of Ethics* (1874) — 帕菲特思想的重要来源
+
+## 三、当代研究 / Contemporary Studies
+
+- Jens Timmermann (ed.), *Parfit's On What Matters* (2018) — 帕菲特研究论文集
+- Jeff McMahan, *The Ethics of Killing* (2002) — 个人同一性与生命伦理
+- David Edmonds, *Would You Kill the Fat Man?* (2013) — 含帕菲特思想实验
+- Larry Temkin, *Rethinking the Good* (2012) — 人口伦理学
+- John Broome, *Weighing Goods* (1991) — 人口伦理学与福利经济学
+- Shelly Kagan, *The Limits of Consequentialism* (1989) — 后果主义的批评
+- David Edmonds & Nigel Warburton (eds.), *Philosophy Bites* — 含帕菲特访谈
+
+## 四、入门推荐 / Introductory
+
+- *Reasons and Persons* Part III (Personal Identity) — 最佳入门
+- "Derek Parfit" in *Stanford Encyclopedia of Philosophy* (Tollefsen)
+- David Edmonds, "Derek Parfit and the Non-Identity Problem" (*Philosophy Bites*)
+- Scheffler (ed.), *Personal Identity* (1982) — 含帕菲特论文与批评
+- Peter Singer, *The Life You Can Save* (2009) — 有效利他主义（受帕菲特影响）
+
+## 五、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | "Personal Identity" (1971) → SEP article |
+| 研究个人同一性 | *Reasons and Persons* Part III → Scheffler → McMahan |
+| 研究伦理学 | *Reasons and Persons* Part I → *On What Matters* Vol. 1 |
+| 研究人口伦理 | *Reasons and Persons* Part IV → Temkin → Broome |
+| 研究自由意志 | *Reasons and Persons* Part II → Kane → O'Connor |
+| 比较佛教 | *Reasons and Persons* Part III → 佛陀无我论 → Siderits |

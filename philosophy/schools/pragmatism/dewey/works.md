@@ -1,0 +1,99 @@
+---
+id: dewey-works
+title: 杜威著作详表 · Dewey Works
+type: reference
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - bibliography
+  - works
+  - 著作
+parent: dewey
+---
+
+# 杜威著作详表 · Dewey Works
+
+> 杜威一生著述极为丰富，出版专著40余部，发表论文700余篇。以下按时期列出核心著作。
+>
+> Dewey was extraordinarily prolific, publishing over 40 books and 700 articles. Core works are listed below by period.
+
+---
+
+## 早期著作 / Early Works (1880s–1894)
+
+| 年份 / Year | 著作 / Work | 要点 / Key Points |
+|---|---|---|
+| 1887 | *Psychology* | 试图调和黑格尔主义与实验心理学 / Attempted reconciliation of Hegelianism with experimental psychology |
+| 1888 | "The Ethics of Democracy" | 早期民主理论的雏形 / Early sketch of democratic theory |
+| 1894 | *The Study of Ethics: A Syllabus* | 伦理学教学大纲，含实用主义伦理学萌芽 / Ethics syllabus with pragmatist ethics germination |
+
+---
+
+## 中期著作 / Middle Works (1894–1916)
+
+| 年份 / Year | 著作 / Work | 要点 / Key Points |
+|---|---|---|
+| 1897 | "My Pedagogic Creed" | 教育哲学的宣言性短文 / Declarative essay of educational philosophy |
+| 1899 | *The School and Society* | 基于实验学校经验的早期教育理论 / Early educational theory based on Laboratory School experience |
+| 1902 | *The Child and the Curriculum* | 儿童中心与学科知识的辩证关系 / Dialectical relation between child-centered approach and subject knowledge |
+| 1910 | *How We Think* | 反省思维（reflective thinking）的经典论述 / Classic treatment of reflective thinking |
+| 1915 | *Schools of To-Morrow*（与 Evelyn Dewey 合著） | 进步教育学校的调查报告 / Survey of progressive education schools |
+| 1916 | ***Democracy and Education*** | 教育哲学的巅峰之作；民主与教育的内在关联 / Pinnacle of educational philosophy; internal link between democracy and education |
+
+---
+
+## 晚期著作 / Late Works (1916–1952)
+
+| 年份 / Year | 著作 / Work | 要点 / Key Points |
+|---|---|---|
+| 1920 | *Reconstruction in Philosophy* | 哲学应从实际问题出发进行改造 / Philosophy should be reconstructed from practical problems |
+| 1922 | *Human Nature and Conduct* | 习惯、冲动与智力的社会心理学分析 / Social-psychological analysis of habit, impulse, and intelligence |
+| 1925 | ***Experience and Nature*** | 经验自然主义的形而上学系统阐述 / Systematic metaphysical articulation of experiential naturalism |
+| 1927 | *The Public and Its Problems* | 回应李普曼的精英民主论；论证公民参与 / Response to Lippmann's elite democracy; argument for citizen participation |
+| 1929 | *The Quest for Certainty* | 批判哲学传统对确定性的执着追求 / Critique of philosophy's traditional obsession with certainty |
+| 1929 | *The Sources of a Science of Education* | 教育科学的哲学基础 / Philosophical foundations of educational science |
+| 1930 | *Individualism, Old and New* | 对个人主义的批判与重构 / Critique and reconstruction of individualism |
+| 1932 | *Ethics*（与 James H. Tufts 合著，修订版） | 实用主义伦理学的系统阐述 / Systematic pragmatist ethics |
+| 1934 | ***Art as Experience*** | 审美经验理论的巅峰；反博物馆概念 / Pinnacle of aesthetic experience theory; against museum conception |
+| 1934 | *A Common Faith* | 宗教经验的自然主义诠释 / Naturalistic interpretation of religious experience |
+| 1935 | *Liberalism and Social Action* | 自由主义的改造：从消极自由到积极自由 / Reconstruction of liberalism: from negative to positive freedom |
+| 1938 | ***Logic: The Theory of Inquiry*** | 逻辑学重建为探究理论；有理由的断定性 / Reconstruction of logic as theory of inquiry; warranted assertibility |
+| 1938 | *Experience and Education* | 对进步教育的反思与修正 / Reflection and correction of progressive education |
+| 1939 | *Freedom and Culture* | 自由与文化的关系；对极权主义的批判 / Relation between freedom and culture; critique of totalitarianism |
+| 1946 | *The Problems of Men* | 哲学论文集 / Collection of philosophical essays |
+
+---
+
+## 关于中国的著作 / Works on China
+
+| 年份 / Year | 著作 / Work | 要点 / Key Points |
+|---|---|---|
+| 1920 | *Lectures in China, 1919–1920* | 在中国的系列演讲集 / Series of lectures delivered in China |
+| 1922 | "As the Chinese Think"（收入 *Human Nature and Conduct*） | 对中国思维方式的分析 / Analysis of Chinese modes of thought |
+
+---
+
+## 重要论文选 / Selected Important Essays
+
+| 年份 / Year | 论文 / Essay | 要点 / Key Points |
+|---|---|---|
+| 1896 | "The Reflex Arc Concept in Psychology" | 批判刺激-反应的机械二元论；对行为主义心理学的先驱批判 / Critique of stimulus-response mechanical dualism; precursor critique of behaviorism |
+| 1905 | "The Postulate of Immediate Empiricism" | 直接经验的哲学立场 / Philosophical stance on immediate experience |
+| 1917 | "The Need for a Recovery of Philosophy" | 呼吁哲学回归实际问题 / Call for philosophy to return to practical problems |
+| 1931 | "Philosophy and Civilization" | 哲学与文明的关系 / Relation between philosophy and civilization |
+
+---
+
+## 中文版重要译本 / Important Chinese Translations
+
+- 《民主主义与教育》，王承绪译，人民教育出版社
+- 《经验与自然》，傅统先、陆有铨译，江苏教育出版社
+- 《艺术即经验》，高建平译，商务印书馆
+- 《确定性的追求》，傅统先译，上海人民出版社
+- 《我们怎样思维》，姜文闵译，人民教育出版社
+- 《人的问题》，傅统先、邱椿译，上海人民出版社
+
+---
+
+> 返回 / Back to: [杜威 Dewey](./) · [Pragmatism 实用主义](../)

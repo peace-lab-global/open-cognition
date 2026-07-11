@@ -1,0 +1,139 @@
+---
+id: van-gogh-reading-list
+title: "梵高进阶书单 · Van Gogh Reading List"
+type: reading-list
+thinker: van-gogh
+domain: arts
+school: visual-arts
+cross-refs:
+  - van-gogh
+  - monet
+sub-entries:
+  - concepts/post-impressionism
+  - concepts/expressive-color
+  - concepts/impasto-technique
+  - concepts/suffering-creativity
+  - concepts/starry-night
+---
+
+# 梵高系统阅读指南 / Van Gogh Systematic Reading Guide
+
+## 一、入门导读 / Introductory Level (入门)
+
+适合对梵高有初步兴趣的读者。以下书目提供了可接近的、叙事性强的梵高入门——从传记故事到作品概览。
+
+Suitable for readers with an initial interest in Van Gogh. The following books provide accessible, narrative-driven introductions — from biographical stories to work overviews.
+
+| 书目 / Title | 作者 / Author | 类型 / Type | 说明 / Notes |
+|------|------|------|------|
+| *Van Gogh: A Life* (2011) | Steven Naifeh & Gregory White Smith | 传记 / Biography | 最新权威传记（近1000页），修正了诸多旧说 / Latest authoritative biography (~1000 pp.), correcting many earlier accounts |
+| 《渴望生活》/ *Lust for Life* (1934) | Irving Stone | 小说化传记 / Fictionalized biography | 经典小说化传记，文学性强但部分细节不够准确 / Classic fictionalized biography, literary but some details inaccurate |
+| *Van Gogh* (Thames & Hudson World of Art) | Melissa McQuillan | 简明入门 / Concise introduction | 简明扼要的艺术史入门 / Concise art-historical introduction |
+| *Van Gogh: The Complete Paintings* | Ingo F. Walther & Rainer Metzger | 作品概览 / Works overview | 全作品彩图概览，适合视觉学习 / Complete color plates overview, good for visual study |
+| 贡布里希《艺术的故事》后印象派章 / Gombrich *Story of Art*, Post-Impressionism ch. | E.H. Gombrich | 艺术史 / Art history | 提供梵高在艺术史中的位置 / Contextualizes Van Gogh in art history |
+
+## 二、核心文献 / Core Primary Sources (进阶)
+
+梵高的书信是理解其艺术思想的最重要第一手文献。以下版本按学术深度递进排列。
+
+Van Gogh's letters are the most important first-person document for understanding his artistic thought. The following editions are arranged by increasing scholarly depth.
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+
+| 著作 / Title | 年份 / Year | 编辑 / Editor | 阅读重点 / Focus |
+|------|------|------|------|
+| 《亲爱的提奥》/ *Dear Theo* | various | various editors | 面向一般读者的精选书信——情感线索 / Selected letters for general readers — emotional narrative |
+| *The Letters of Vincent van Gogh* (Penguin Classics) | 1996 | Ronald de Leeuw | 精选书信，附有出色的导言和注释 / Selected letters with excellent introduction and notes |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+
+| 著作 / Title | 年份 / Year | 编辑 / Editor | 阅读重点 / Focus |
+|------|------|------|------|
+| *Vincent van Gogh: The Letters* (6 vols.) | 2009 | Leo Jansen, Hans Luijten, Nienke Bakker | 最新学术版书信全集——含全部原信和注释 / Latest scholarly edition with all letters and annotations |
+| 书信集中的阿尔勒时期书信 / Arles period letters | 1888-89 | — | 色彩爆发；向日葵；与高更的关系 / Color explosion; Sunflowers; relationship with Gauguin |
+| 书信集中的圣雷米时期书信 / Saint-Rémy period letters | 1889-90 | — | 《星夜》创作；精神状态与艺术的关系 / Starry Night creation; relationship between mental state and art |
+
+### 第三层：专题阅读 / Tier 3: Thematic Reading
+
+| 著作 / Title | 年份 / Year | 阅读重点 / Focus |
+|------|------|------|
+| 书信集中关于色彩理论的段落 / Passages on color theory | 1885-90 | 梵高的色彩思想体系 / Van Gogh's color thought system |
+| 书信集中关于日本浮世绘的讨论 / Discussions of ukiyo-e | 1887-89 | 东方艺术对梵高的影响 / Eastern art's influence on Van Gogh |
+| 书信集中关于文学和哲学的引述 / Literary and philosophical references | throughout | 梵高的知识世界 / Van Gogh's intellectual world |
+
+## 三、深度研究 / Advanced Scholarship (专业)
+
+| 书目 / Title | 作者 / Author | 年份 / Year | 说明 / Notes |
+|------|------|------|------|
+| *Van Gogh: The Life* | Naifeh & Smith | 2011 | 最新权威传记，修正了自杀说等多个旧说 / Latest authoritative biography, correcting suicide narrative and other earlier accounts |
+| *Van Gogh and Japan* | Louis van Tilborgh et al. | 2018 | 浮世绘对梵高的影响——阿姆斯特丹展览图录 / Ukiyo-e's influence — Amsterdam exhibition catalogue |
+| *Van Gogh and the Colors of the Night* | various | 2008 | 夜间主题与色彩研究 / Night themes and color studies |
+| *Van Gogh's Studio Practice* | various | 2012 | 技法与材料研究 / Technique and materials research |
+| *Becoming Van Gogh* | various | 2012 | 梵高早期发展研究 / Van Gogh's early development |
+| *Van Gogh's Ear: The True Story* | Bernadette Murphy | 2016 | 割耳事件的最新考证，揭示了许多此前未知的细节 / Latest investigation of the ear-cutting incident |
+| *Post-Impressionism: From Van Gogh to Gauguin* | John Rewald | 1956 | 后印象派经典学术史 / Classic scholarly history of Post-Impressionism |
+
+## 四、比较与语境 / Comparative and Contextual Studies
+
+| 书目 / Title | 作者 / Author | 领域 / Field | 说明 / Notes |
+|------|------|------|------|
+| *Post-Impressionism* | John Rewald | 艺术史 / Art history | 后印象派运动的历史 / History of the Post-Impressionist movement |
+| *Gauguin: A Biography* | David Sweetman | 比较研究 / Comparative | 高更——与梵高的对比 / Gauguin — comparison with Van Gogh |
+| *Color and Culture: Practice and Meaning from Antiquity to Abstraction* | John Gage | 色彩学 / Color science | 色彩理论的文化史 / Cultural history of color theory |
+| *Van Gogh and Millet* | various | 影响研究 / Influence | 米勒对梵高的影响 / Millet's influence on Van Gogh |
+| *Madness and Modernism* | Louis Sass | 精神病学/艺术 / Psychiatry/Art | 现代主义与精神疾病的深层关系 / Deep relationship between modernism and mental illness |
+| *Touched with Fire* | Kay Redfield Jamison | 心理学 / Psychology | 创造力与心境障碍的经典研究 / Classic study of creativity and mood disorders |
+| *The Letters of Paul Gauguin to Georges-Daniel de Monfreid* | Paul Gauguin | 第一手文献 / Primary source | 高更视角的阿尔勒合作 / Gauguin's perspective on the Arles collaboration |
+
+## 五、中文资源 / Chinese Resources
+
+| 书目 / Title | 作者/译者 / Author/Translator | 说明 / Notes |
+|------|------|------|
+| 《梵高传》/ *Lust for Life* (中译) | 欧文·斯通 / Irving Stone | 经典小说化传记中译，可读性强 / Classic fictionalized biography in Chinese, highly readable |
+| 《亲爱的提奥：梵高书信选》 | 多人编译 | 书信精选中译——适合入门 / Selected letters in Chinese — good for beginners |
+| 《梵高艺术书简》 | — | 书信的另一中译版本 / Alternative Chinese translation |
+| 《梵高：磨难中的热情》 | — | 专题研究 / Monographic study |
+| 贡布里希《艺术的故事》后印象派章 | E.H. Gombrich / 范景中译 | 艺术史语境 / Art-historical context |
+| 《梵高书信全集》 | — | 较完整的中文书信翻译 / More complete Chinese translation |
+
+## 六、在线资源 / Online Resources
+
+| 资源 / Resource | 链接 / URL | 说明 / Notes |
+|------|------|------|
+| 梵高博物馆在线馆藏 / Van Gogh Museum Online Collection | vangoghmuseum.nl | 最大藏品与研究中心 / Largest collection and research center |
+| *Vincent van Gogh: The Letters* 在线版 | vangoghletters.org | 全部书信的在线学术版 / Online scholarly edition of all letters |
+| MoMA《星夜》专题页 / MoMA *Starry Night* Page | moma.org | 《星夜》的详细分析和多媒体资源 / Detailed analysis and multimedia resources |
+| Wikiart.org 梵高页面 | wikiart.org | 全作品在线浏览 / Browse complete works online |
+| 库勒-穆勒博物馆 / Kröller-Müller Museum | krollermuller.nl | 第二大梵高藏品机构 / Second-largest Van Gogh collection |
+| Google Arts & Culture: Van Gogh | artsandculture.google.com | 高清图像和虚拟展览 / High-resolution images and virtual exhibitions |
+
+## 七、建议阅读顺序 / Suggested Reading Sequences
+
+### 快速入门路线（2-3周）/ Quick Start Path (2-3 weeks)
+1. Naifeh & Smith 传记精选 → 了解梵高的人生故事 / Selected biography chapters → understand Van Gogh's life story
+2. 《亲爱的提奥》书信选读 → 感受梵高的思想和情感 / Selected letters → feel Van Gogh's thoughts and emotions
+3. 浏览梵高博物馆在线馆藏 → 视觉学习 / Browse Van Gogh Museum online → visual learning
+4. 观看沉浸式"梵高体验"展览或纪录片 → 多感官体验 / Attend immersive "Van Gogh Experience" or documentary → multi-sensory engagement
+
+### 系统进阶路线（3-6周）/ Systematic Intermediate Path (3-6 weeks)
+1. 完整阅读 Naifeh & Smith 传记 / Complete Naifeh & Smith biography
+2. 阿尔勒时期书信 → 理解色彩爆发的思想基础 / Arles period letters → understand the intellectual basis of color explosion
+3. *Van Gogh and Japan* → 理解东方艺术的影响 / Understand Eastern art's influence
+4. 《向日葵》《星夜》等标志性作品细读 → 将理论应用于具体作品 / Close reading of iconic works → apply theory to specific works
+5. *Color and Culture* (Gage) 相关章节 → 色彩理论的学术基础 / Relevant chapters → academic foundations of color theory
+
+### 深度专业路线（6周+）/ Advanced Professional Path (6+ weeks)
+1. 完整版书信集（6卷本或 Penguin Classics 版）/ Complete letters (6-volume or Penguin Classics)
+2. Rewald *Post-Impressionism* → 运动的历史语境 / Historical context of the movement
+3. Murphy *Van Gogh's Ear* → 最新考证 / Latest investigation
+4. Jamison *Touched with Fire* → 创造力与精神疾病的学术研究 / Academic study of creativity and mental illness
+5. 比较研究（高更、米勒、塞尚）/ Comparative studies (Gauguin, Millet, Cézanne)
+6. Sass *Madness and Modernism* → 现代主义与精神疾病的哲学维度 / Philosophical dimensions of modernism and mental illness
+
+## 八、相关概念 / Related Concepts
+
+- [后印象主义](concepts/post-impressionism.md) — 梵高所代表的艺术运动
+- [表现性色彩](concepts/expressive-color.md) — 梵高的色彩革命
+- [厚涂技法](concepts/impasto-technique.md) — 笔触的物质性
+- [苦难与创造力](concepts/suffering-creativity.md) — 精神疾病与艺术创造
+- [星夜](concepts/starry-night.md) — 梵高最著名作品的深层解读

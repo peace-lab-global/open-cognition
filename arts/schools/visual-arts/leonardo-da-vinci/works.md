@@ -1,0 +1,93 @@
+---
+id: leonardo-da-vinci-works
+title: "达·芬奇著作与作品编年 · Leonardo da Vinci: Works Bibliography"
+type: bibliography
+domain: arts
+school: visual-arts
+thinker: leonardo-da-vinci
+tags: [leonardo, works, paintings, notebooks, renaissance, bibliography]
+cross-refs:
+  - id: leonardo-da-vinci
+    relation: thinker
+---
+
+# 达·芬奇著作与作品编年 · Leonardo da Vinci: Works Bibliography
+
+> 本文件为列奥纳多·达·芬奇（1452-1519）主要绘画作品、手稿与遗著的系统编年。达芬奇存世绘画不足二十幅，但每一幅均为西方艺术史里程碑；其手稿约一万三千页散存于世界各大博物馆和图书馆。
+>
+> This document is a systematic chronology of Leonardo da Vinci's major paintings, manuscripts, and posthumous publications. Fewer than twenty paintings survive, each a milestone in Western art history; approximately 13,000 pages of manuscripts are dispersed across major museums and libraries worldwide.
+
+## 绘画作品编年 / Paintings Chronology
+
+| 年份 / Year | 原标题 / Original Title | 中译 / Chinese Title | 现藏地 / Current Location | 意义与说明 / Significance & Notes |
+|------|------|------|------|------|
+| 约1472-1475 | *Annunciazione* | 《受胎告知》 | 佛罗伦萨乌菲兹美术馆 | 达芬奇最早的独立作品之一。天使翅膀的鸟类解剖学精确性和远景的大气透视已展示其科学与艺术统一的方法。One of Leonardo's earliest independent works; angel wings show ornithological precision, background reveals early atmospheric perspective. |
+| 约1474-1478 | *Ritratto di Ginevra de' Benci* | 《吉内芙拉·德·本奇肖像》 | 华盛顿国家美术馆 | 达芬奇最早的肖像画之一，面部渐隐法（sfumato）的初期实验。背景杜松丛的植物学精确观察。Earliest sfumato experiments in portraiture; botanically precise juniper background. |
+| 约1478 | *Madonna Benois* | 《伯努瓦圣母》 | 圣彼得堡艾尔米塔什博物馆 | 早期圣母像，光影实验的先声。Early Madonna; foreshadowing light-shadow experimentation. |
+| 约1480 | *San Girolamo* | 《圣杰罗姆》（未完成） | 梵蒂冈博物馆 | 未完成的木板油画，但展示了达芬奇对人体肌肉和表情的深入研究。Unfinished panel showing deep anatomical and expressive research. |
+| 约1481-1482 | *Adorazione dei Magi* | 《三王来朝》（未完成） | 佛罗伦萨乌菲兹美术馆 | 雄心勃勃的群像构图，数十个动态人物与复杂建筑透视。揭示了达芬奇的构图思维过程。Ambitious group composition revealing Leonardo's compositional thinking process. |
+| 约1483-1486 | *Vergine delle Rocce* (prima versione) | 《岩间圣母》（第一版） | 巴黎卢浮宫 | 渐隐法与地质观察的集大成。岩洞中多方向的光线渗透、精确的地质构造与宗教叙事的完美融合。Synthesis of sfumato and geological observation; multi-directional cave lighting. |
+| 约1485 | *Dama con l'ermellino* | 《抱银貂的女子》 | 克拉科夫恰尔托雷斯基博物馆 | 肖像画杰作，银貂的象征意义与渐隐法的精妙运用。Portrait masterpiece with symbolic ermine and refined sfumato. |
+| 约1490 | *Uomo Vitruviano* | 《维特鲁威人》 | 威尼斯学院美术馆 | 人体比例的视觉宣言——展开双臂和双腿时恰好内切于圆和正方形。受维特鲁威《建筑十书》启发。Visual manifesto of human proportion; inspired by Vitruvius's *De Architectura*. |
+| 1495-1498 | *Ultima Cena* | 《最后的晚餐》 | 米兰感恩圣母堂 | 透视法与心理戏剧的巅峰。所有透视线汇聚于基督头部。十二使徒的情感反应构成人类情感全景图。实验性壁画技法导致早期剥落。Pinnacle of perspective and psychological drama; experimental technique caused early deterioration. |
+| 约1495-1508 | *Ritratto di musico* | 《音乐家肖像》 | 米兰安布罗西亚纳图书馆 | 达芬奇在米兰时期唯一的男性肖像画。The only male portrait from Leonardo's Milan period. |
+| 约1503-1519 | *La Gioconda (Mona Lisa)* | 《蒙娜丽莎》 | 巴黎卢浮宫 | 西方艺术史最具标志性的形象。渐隐法极致运用，表情处于永恒的不确定中。达芬奇将此画随身携带至死。Most iconic image in Western art; sfumato perfected, expression perpetually indeterminate. |
+| 约1505-1508 | *Vergine delle Rocce* (seconda versione) | 《岩间圣母》（第二版） | 伦敦国家美术馆 | 第一版的深化实验，光影更加柔和。Deepened light-shadow experimentation with softer illumination. |
+| 约1506-1513 | *Sant'Anna, la Vergine e il Bambino con l'agnellino* | 《圣母子与圣安妮》 | 巴黎卢浮宫 | 复杂的金字塔构图，三人与羔羊的动态平衡。Complex pyramidal composition with dynamic balance. |
+| 约1510-1515 | *San Giovanni Battista* | 《施洗者圣约翰》 | 巴黎卢浮宫 | 晚期神秘风格，人物从黑暗中浮现，微笑暧昧不明。Late mysterious style; figure emerging from darkness with enigmatic smile. |
+| 约1512-1515 | *Bacco* | 《巴克斯》 | 巴黎卢浮宫 | 晚期作品，归属有争议。Late work with disputed attribution. |
+
+## 手稿与科学文献 / Manuscripts and Scientific Documents
+
+| 名称 / Name | 藏地 / Location | 页数 / Pages | 年代 / Period | 主要内容 / Main Content |
+|------|------|------|------|------|
+| 大西洋抄本 *Codex Atlanticus* | 米兰安布罗西亚纳图书馆 | 约1,119页 | 1478-1519 | 工程学、数学、飞行器、军事设计的最大单册集合。Largest single collection of engineering, mathematics, flying machines, and military designs. |
+| 莱斯特抄本 *Codex Leicester* | 私人收藏（比尔·盖茨，1994年以3,080万美元购得） | 72页 | 约1506-1510 | 水力学、天文学、地质学。主要论述水的运动。Hydraulics, astronomy, geology; focused on water movement. |
+| 阿伦德尔抄本 *Codex Arundel* | 大英图书馆 | 283页 | 1478-1518 | 物理学、力学、几何学、建筑学。Physics, mechanics, geometry, architecture. |
+| 马德里抄本 I & II *Codex Madrid I & II* | 马德里国家图书馆 | 约700页 | 约1490-1505 | 力学、几何学、军事工程。1965年重新发现。Mechanics, geometry, military engineering; rediscovered 1965. |
+| 鸟类飞行抄本 *Codex on the Flight of Birds* | 都灵皇家图书馆 | 18页 | 约1505 | 鸟类飞行的详细观察与飞行器设计。Detailed observations of bird flight and flying machine designs. |
+| 温莎收藏 *Royal Collection, Windsor* | 温莎城堡 | 约600页 | 约1487-1518 | 解剖学、绘画研究、马匹研究。包含约200幅精细的解剖学图谱。Anatomy, painting studies, horse studies; includes ~200 detailed anatomical drawings. |
+| 福斯特抄本 I, II, III *Codex Forster I, II, III* | 伦敦维多利亚与阿尔伯特博物馆 | 约350页 | 约1487-1505 | 几何学、水力学、物理学。Geometry, hydraulics, physics. |
+
+## 遗著 / Posthumous Publications
+
+| 年份 / Year | 书名 / Title | 说明 / Notes |
+|------|------|------|
+| 1651 | *Trattato della Pittura*（《论绘画》） | 由弟子弗朗切斯科·梅尔齐从手稿中编辑整理，在巴黎首次出版。首版为法语译本（*Traité de la peinture*），意大利语原版于同年稍后出版。Compiled by disciple Francesco Melzi from notebooks; first published in Paris, French edition followed by Italian. |
+| 1883 | *The Literary Works of Leonardo da Vinci* | 让·保罗·里希特（Jean Paul Richter）编辑的英文选编，首次系统向英语世界介绍达芬奇的科学思想。Richter's English anthology, first systematic introduction of Leonardo's scientific thought to the English-speaking world. |
+| 1952 | *The Notebooks of Leonardo da Vinci* | 爱德华·麦克柯迪（Edward MacCurdy）编辑的两卷本英文选编。MacCurdy's two-volume English selection. |
+| 1938-1960 | *I manoscritti di Leonardo da Vinci* | 意大利国家版手稿全集。Italian national edition of complete manuscripts. |
+| 2019 | *Codex Leicester* 数字化 | 比尔·盖茨委托进行的完整数字化，向公众免费开放。Complete digitization commissioned by Bill Gates, freely available to the public. |
+
+## 关键版本与翻译 / Key Editions and Translations
+
+### 绘画研究 / Painting Studies
+- **《岩间圣母》比较研究**：卢浮宫版与伦敦版的对比分析是理解达芬奇方法演变的关键文献。
+- **《最后的晚餐》修复报告**：1999年完成的二十年修复工程报告，揭示了原始色彩和达芬奇实验性技法的真实面貌。
+
+### 手稿研究 / Manuscript Studies
+- Carlo Pedretti (ed.), *The Literary Works of Leonardo da Vinci* (2 vols, 1977) — 最权威的文学性手稿编辑
+- Martin Kemp (ed.), *Leonardo on Painting* (Yale UP, 1989) — 从《论绘画》手稿中精选的理论文本
+- Kenneth Clark, *The Drawings of Leonardo da Vinci in the Collection of Her Majesty the Queen at Windsor Castle* (3 vols, 1968-69) — 温莎收藏的系统编目
+
+### 中文译本 / Chinese Translations
+- 《达芬奇论绘画》，人民美术出版社 — 绘画理论选编中译
+- 《达芬奇手稿》选编，多种中译版本 — 涵盖科学、工程和艺术笔记
+- 《达芬奇笔记》，戴勉编译 — 较为完整的手稿选编
+
+## 阅读路径 / Reading Sequences
+
+**入门路径 / Introductory Path**：
+1. 从最具标志性的作品开始：《蒙娜丽莎》→《最后的晚餐》→《维特鲁威人》
+2. 阅读 Isaacson 传记中的作品分析章节
+
+**进阶路径 / Intermediate Path**：
+1. 比较两幅《岩间圣母》（卢浮宫版 vs 伦敦版）
+2. 阅读《论绘画》选段
+3. 浏览温莎解剖学图谱选编
+
+**深潜路径 / Advanced Path**：
+1. 系统研究大西洋抄本或莱斯特抄本
+2. 对比《最后的晚餐》修复前后图像
+3. 研究达芬奇飞行器设计的空气动力学原理
+4. 将手稿中的光学观察与现代光学理论对照

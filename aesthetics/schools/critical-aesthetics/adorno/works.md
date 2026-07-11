@@ -1,0 +1,54 @@
+---
+id: aesthetics.critical-aesthetics.adorno.works
+title: 阿多诺著作列表 / Adorno Works
+type: works
+parent: aesthetics.critical-aesthetics.adorno
+---
+
+# 阿多诺著作列表 / Adorno Bibliography
+
+## 主要专著 / Major Monographs
+
+| 年份 | 德文/英文标题 | 中文译名 | 核心主题 |
+|------|-------------|----------|----------|
+| 1933 | *Kierkegaard: Konstruktion des Ästhetischen* | 《克尔凯郭尔：审美阶段的建构》 | 存在主义美学批判 |
+| 1944 | *Dialektik der Aufklärung* (mit Horkheimer) | 《启蒙辩证法》 | 启蒙自我毁灭、文化工业 |
+| 1949 | *Philosophie der neuen Musik* | 《新音乐哲学》 | 勋伯格 vs 斯特拉文斯基 |
+| 1951 | *Minima Moralia: Reflexionen aus dem beschädigten Leben* | 《最低限度的道德》 | 被损害生活的格言反思 |
+| 1955 | *Prismen: Kulturkritik und Gesellschaft* | 《棱镜》 | 文化批评文集 |
+| 1958 | *Noten zur Literatur I* | 《文学笔记 I》 | 文学批评文集 |
+| 1961 | *Noten zur Literatur II* | 《文学笔记 II》 | 文学批评文集 |
+| 1963 | *Eingriffe: Neun kritische Modelle* | 《介入：九篇批判模型》 | 社会与文化评论 |
+| 1966 | *Negative Dialektik* | 《否定辩证法》 | 非同一性哲学 |
+| 1970 | *Ästhetische Theorie* (posth.) | 《美学理论》 | 否定美学体系 |
+
+## 重要文集与讲演 / Important Collections & Lectures
+
+| 年份 | 标题 | 说明 |
+|------|------|------|
+| 1956 | *Zur Metakritik der Erkenntnistheorie* | 《认识论的元批判》——对胡塞尔的批判 |
+| 1960 | *Mahler: Eine musikalische Physiognomik* | 《马勒：一种音乐面相学》 |
+| 1962 | *Einleitung in die Musiksoziologie* | 《音乐社会学导论》 |
+| 1965 | *Noten zur Literatur III* | 《文学笔记 III》 |
+| 1969 | *Der Positivismusstreit in der deutschen Soziologie* | 《德国社会学中的实证主义论争》 |
+| 1970 | *Gesammelte Schriften* (20 Bände) | 《全集》（20卷，Tiedemann 编） |
+
+## 音乐理论著作 / Music Theory Works
+
+- *Versuch über Wagner* (1952) — 《论瓦格纳》
+- *Dissonanzen: Musik in der verwalteten Welt* (1956) — 《不协和音：管理世界中的音乐》
+- *Einleitung in die Musiksoziologie* (1962) — 《音乐社会学导论》
+- *Moments musicaux* (1964) — 《音乐瞬间》
+
+## 推荐中译本 / Recommended Chinese Translations
+
+- 《启蒙辩证法》，渠敬东、曹卫东译，上海人民出版社
+- 《美学理论》，王柯平译，四川人民出版社
+- 《否定辩证法》，王凤才译，商务印书馆
+- 《最低限度的道德》，张丛丛译，上海人民出版社
+- 《棱镜》，朱雁冰译，北京师范大学出版社
+- 《新音乐哲学》，高乐田译，北京大学出版社
+
+---
+
+*另见：[[README|阿多诺]] | [[reading-list|推荐阅读]]*

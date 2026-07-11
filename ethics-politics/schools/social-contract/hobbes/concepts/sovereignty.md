@@ -1,0 +1,135 @@
+---
+id: hobbes-sovereignty
+title: 主权 · Sovereignty · Hobbes
+type: concept
+thinker: hobbes
+domain: ethics-politics
+school: social-contract
+tags: [sovereignty, absolute-power, indivisibility, authority, hobbes, 主权, 绝对权力, 不可分割]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+  - id: bodin
+    relation: 继承
+  - id: locke
+    relation: 对立(分权)
+  - id: schmitt
+    relation: 继承(决断)
+  - id: rousseau
+    relation: 改造(人民主权)
+---
+
+# 主权 · Sovereignty · Hobbes
+
+## 概念概述 / Concept Overview
+
+霍布斯的主权是**绝对的、不可分割的、不可挑战的公共权力**——主权者是利维坦的"灵魂"，拥有制定法律、裁决争议、执行决定的全部权力，且不受臣民的合法挑战。这一概念将博丹的主权理论推向了逻辑极限，同时为现代国家理论奠定了基础。
+
+Hobbesian sovereignty is **absolute, indivisible, and unchallengeable public power** — the sovereign is the "soul" of Leviathan, possessing all power to make laws, adjudicate disputes, and execute decisions, and is not subject to legitimate challenge by subjects. This concept pushes Bodin's sovereignty theory to its logical extreme while laying the foundation for modern state theory.
+
+霍布斯的主权概念具有六个核心特征：绝对性、不可分割性、不可挑战性、授权性、目的性和可消亡性。这六个特征构成了一个内在一致的体系，但其中也包含着深刻的张力——尤其是绝对权力与个人自我保存权利之间的张力，这一张力成为后世自由主义政治理论的出发点。
+
+Hobbesian sovereignty has six core features: absoluteness, indivisibility, unchallengeability, authorization, purposiveness, and mortality. These six features form an internally consistent system, yet contain profound tensions — especially the tension between absolute power and the individual right of self-preservation, which became the starting point for later liberal political theory.
+
+## 理论内涵 / Theoretical Content
+
+### 主权的六项特征 / Six Features of Sovereignty
+
+1. **绝对性 / Absoluteness** — 主权者不受任何上位法律约束。不存在高于主权者的法律权威。The sovereign is not bound by any higher law. There is no legal authority above the sovereign.
+
+2. **不可分割性 / Indivisibility** — 立法、司法、行政权力必须统一于同一主体。分权等于主权的死亡。Legislative, judicial, and executive powers must be unified in the same subject. Separation of powers equals the death of sovereignty.
+
+3. **不可挑战性 / Unchallengeability** — 臣民不能正当地反抗主权者。因为主权者的行为是臣民自己授权的。Subjects cannot legitimately resist the sovereign, because the sovereign's actions are authorized by the subjects themselves.
+
+4. **授权性 / Authorization** — 主权者的权力不是来自上帝或自然，而是来自**臣民的授权**。主权者代表臣民行动。Sovereign power derives not from God or nature but from **subjects' authorization**. The sovereign acts as representative of the subjects.
+
+5. **目的性 / Purposiveness** — 主权的唯一正当目的是**和平与安全**（pax et securitas），不包括灵魂救赎或道德完善。The sole legitimate purpose of sovereignty is **peace and security** (pax et securitas), not salvation or moral perfection.
+
+6. **可消亡性 / Mortality** — 当主权者无法维持和平时，利维坦死亡，臣民可以寻求新的保护者。When the sovereign cannot maintain peace, Leviathan dies, and subjects may seek a new protector.
+
+### 与博丹的对比 / Comparison with Bodin
+
+博丹（Jean Bodin, 1530–1596）首次在现代意义上使用"主权"概念，定义为"国家绝对且永恒的权力"。但博丹保留了重要的限制：Jean Bodin (1530–1596) first used "sovereignty" in the modern sense, defining it as "the absolute and perpetual power of a commonwealth." But Bodin retained important limitations:
+
+| 要素 / Element | 博丹 / Bodin | 霍布斯 / Hobbes |
+|---|---|---|
+| 神法约束 / Divine law constraint | 主权者受神法约束 / Sovereign bound by divine law | 主权者**定义**何为神法 / Sovereign **defines** divine law |
+| 自然法约束 / Natural law constraint | 主权者受自然法约束 / Sovereign bound by natural law | 主权者通过民事法**定义**自然法 / Sovereign **defines** natural law through civil law |
+| 财产权 / Property rights | 主权者不可未经同意征税 / Sovereign cannot tax without consent | 财产权由主权者赋予 / Property rights granted by sovereign |
+| 教会权力 / Church power | 教会有独立精神权力 / Church has independent spiritual power | 教会完全服从主权者 / Church wholly subordinate to sovereign |
+
+霍布斯将主权推向**逻辑极限**：主权者本身**定义**什么是法律和正义，因此不受法律的外在约束。这不是道德上的赞美，而是逻辑上的必然——如果主权者受某个更高的法律约束，那么谁是那个更高法律的执行者？如果存在执行者，那才是真正的"主权者"。
+
+Hobbes pushes sovereignty to its **logical limit**: the sovereign itself **defines** what law and justice are, and therefore cannot be externally bound by law. This is not moral praise but logical necessity — if the sovereign were bound by some higher law, who would be the enforcer of that higher law? If an enforcer exists, that entity would be the true "sovereign."
+
+### 抵抗权问题 / The Problem of the Right of Resistance
+
+霍布斯对抵抗权的立场是复杂而精微的：Hobbes's position on the right of resistance is complex and nuanced:
+
+- **一般规则 / General rule**：臣民无权反抗主权者。Subjects have no right to resist the sovereign.
+- **自我保存例外 / Self-preservation exception**：当主权者命令臣民自杀、不自卫或自认有罪时，臣民有权拒绝——因为自我保存是不可让渡的自然权利。When the sovereign commands a subject to kill themselves, not defend themselves, or confess to a crime, the subject may refuse — because self-preservation is an inalienable natural right.
+- **集体抵抗 / Collective resistance**：当主权者**已经无法维持和平**时（如被征服或内战），臣民可以集体寻求新的保护者——这不是"反抗"，而是因为旧主权者已经死亡。When the sovereign **can no longer maintain peace** (as in conquest or civil war), subjects may collectively seek a new protector — this is not "resistance" but recognition that the old sovereign is dead.
+- **保护与服从的互反 / The reciprocity of protection and obedience**：霍布斯的名言"保护与服从互为条件"（Protection and Obedience are reciprocal）——如果主权者无法提供保护，臣民的服从义务也随之终止。Hobbes's dictum that "Protection and Obedience are reciprocal" — if the sovereign cannot provide protection, the subject's obligation of obedience ceases accordingly.
+
+### 施密特的继承 / Schmitt's Inheritance
+
+卡尔·施密特（Carl Schmitt, 1888–1985）将霍布斯的主权理论发展为**决断主义**，提出了20世纪最具争议的政治理论命题之一：Carl Schmitt (1888–1985) developed Hobbes's sovereignty theory into **decisionism**, producing one of the most controversial propositions of 20th-century political theory:
+
+> "Souverän ist, wer über den Ausnahmezustand entscheidet."
+> "主权者即决断例外状态者。"
+> "Sovereign is he who decides on the exception."
+
+施密特认为霍布斯的利维坦本质上是一个**决断机器**——其核心不在于法律的常规运作，而在于在紧急状态下做出谁也无法代替的决断。这一解读深刻影响了20世纪对主权、紧急权力和例外状态的理论讨论。
+
+Schmitt argued that Hobbes's Leviathan is essentially a **decision machine** — its core lies not in the regular operation of law but in making decisions that no one else can make in the state of exception. This interpretation profoundly influenced 20th-century theoretical discussions of sovereignty, emergency powers, and states of exception.
+
+## 思想史脉络 / Intellectual History
+
+主权概念的历史从博丹经霍布斯到当代经历了深刻的演变。博丹的主权受神法和自然法约束；霍布斯的主权在逻辑上不受任何外在约束；洛克以分权制约主权；卢梭将主权转交给人民（公意不可代表）；奥斯丁将主权者定义为"习惯性被服从而不服从他人的确定人"。
+
+The history of sovereignty from Bodin through Hobbes to the present has undergone profound evolution. Bodin's sovereignty was constrained by divine and natural law; Hobbes's sovereignty is logically unconstrained by anything external; Locke constrains sovereignty through separation of powers; Rousseau transfers sovereignty to the people (the general will cannot be represented); Austin defines the sovereign as "a determinate human superior who receives habitual obedience from the bulk of a given society but does not render habitual obedience to any other."
+
+20世纪以来，主权概念面临多重挑战：全球化中国家的主权是否正在被侵蚀？欧盟的超国家主权是否可能？数字空间中"数据主权"的新形态如何理解？霍布斯会坚持认为：如果权力被分割或共享，那就不再是真正的主权。
+
+Since the 20th century, sovereignty has faced multiple challenges: is state sovereignty being eroded by globalization? Is supranational sovereignty in the EU possible? How to understand new forms of "data sovereignty" in digital space? Hobbes would insist: if power is divided or shared, it is no longer true sovereignty.
+
+## 关键文本 / Key Passages
+
+> "The sovereign power is [...] as great as possibly men can be imagined to make it. And though of so unlimited a power many may foresee sinister consequences, yet the consequences of the want of it, which is perpetual war of every man against his neighbour, are much worse."
+> — *Leviathan*, Ch. 20
+
+> "Protection and Obedience are reciprocal."
+> — *Leviathan*, Review and Conclusion
+
+## 当代应用 / Contemporary Applications
+
+- **宪法危机 / Constitutional Crises** — 当行政与立法冲突时，"谁是主权者"的问题重新浮现。美国宪法中的"紧急权力"条款可被视为霍布斯式主权者的制度残留。When executive and legislature conflict, the question "who is sovereign?" resurfaces. "Emergency powers" clauses in the US Constitution can be seen as institutional remnants of Hobbesian sovereignty.
+
+- **欧盟主权 / EU Sovereignty** — 超国家主权是否可能？霍布斯会说不可能——如果欧盟不能垄断暴力的合法使用，它就不是真正的主权者。Is supranational sovereignty possible? Hobbes would say no — if the EU cannot monopolize the legitimate use of violence, it is not a true sovereign.
+
+- **数字主权 / Digital Sovereignty** — 国家对网络空间的主权要求、数据本地化政策和互联网治理中的主权博弈。State claims to sovereignty over cyberspace, data localization policies, and sovereignty games in internet governance.
+
+- **全球治理 / Global Governance** — 是否存在"全球主权者"？联合国安理会是否是接近全球主权者的机构？霍布斯框架下的回答是：没有全球利维坦，国际秩序本质上仍处于自然状态。Does a "global sovereign" exist? Is the UN Security Council close to being a global sovereign? The Hobbesian answer is: without a global Leviathan, international order essentially remains in a state of nature.
+
+## 批评与回应 / Critiques and Responses
+
+- **洛克 / Locke**：绝对主权比自然状态更糟——至少在自然状态中人人平等，在绝对主权下只有一人是自由的。Absolute sovereignty is worse than the state of nature — at least in the state of nature all are equal; under absolute sovereignty only one is free.
+
+- **卢梭 / Rousseau**：主权不可代表——霍布斯的"授权"理论是对人民意志的窃取。真正的主权只能通过公意直接行使。Sovereignty cannot be represented — Hobbes's "authorization" theory is a theft of popular will. True sovereignty can only be exercised directly through the general will.
+
+- **自由主义 / Liberalism**：分权制衡是防止绝对权力滥用的唯一保障。孟德斯鸠的三权分立直接回应了霍布斯的不可分割性论证。Separation of powers is the only safeguard against abuse of absolute power. Montesquieu's separation of powers directly responds to Hobbes's indivisibility argument.
+
+- **回应 / Response**：霍布斯的支持者指出，分权在实践中经常导致僵局和内战（如魏玛共和国的崩溃），主权必须有一个最终的决断者。Hobbes's defenders argue that separation of powers in practice often leads to deadlock and civil war (as in the collapse of the Weimar Republic); sovereignty must have a final decision-maker.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+中国传统中的"皇权"概念在某些方面接近霍布斯的主权。秦始皇统一后"天下之事无小大皆决于上"，与霍布斯的绝对主权有形式上的相似。然而中国政治传统中，皇权受"天命"和"天道"的道德约束——皇帝如果失德，天命可以转移（革命），这与霍布斯主权者不受外在道德约束的立场根本不同。
+
+The Chinese traditional concept of "imperial power" (*huangquan*) approximates Hobbesian sovereignty in certain respects. After Qin Shi Huang's unification, "all affairs great and small were decided by the emperor" — formally similar to Hobbesian absolute sovereignty. Yet in Chinese political tradition, imperial power was morally constrained by the "Mandate of Heaven" and the "Way of Heaven" — if the emperor lost virtue, the mandate could be transferred (revolution), fundamentally different from Hobbes's position that the sovereign is not externally constrained by morality.
+
+## 延伸阅读 / Further Reading
+
+- Schmitt, Carl. *The Leviathan in the State Theory of Thomas Hobbes* (1938)
+- Dyson, Kenneth. *The State Tradition in Western Europe* (1980)
+- Philpott, Daniel. *Revolutions in Sovereignty* (2001)
+- Krasner, Stephen. *Sovereignty: Organized Hypocrisy* (1999)

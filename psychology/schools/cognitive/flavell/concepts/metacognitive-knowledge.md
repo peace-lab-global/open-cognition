@@ -1,0 +1,167 @@
+---
+id: psychology.cognitive.flavell.concepts.metacognitive-knowledge
+title: "元认知知识 · Metacognitive Knowledge"
+type: concept
+parent: psychology.cognitive.flavell
+thinker: John Flavell
+tags: [元认知知识, metacognitive knowledge, 认知发展, 学习策略]
+---
+
+# 元认知知识 · Metacognitive Knowledge
+
+> "Metacognitive knowledge consists of acquired knowledge about cognition — knowledge that can be applied in a variety of situations."
+>
+> "元认知知识由习得的认知知识构成——可在多种情境中应用的知识。"
+> — Flavell, 1979
+
+## 定义 · Definition
+
+**中文**：**元认知知识**（metacognitive knowledge）是存储在长时记忆中的、关于认知现象的相对稳定的知识和信念。不同于元认知体验（metacognitive experience）的即时性和情境性，元认知知识是跨情境的、可陈述的、相对持久的。弗拉维尔将其分为三大子类：个人知识（person knowledge）、任务知识（task knowledge）和策略知识（strategy knowledge）。
+
+**EN**: **Metacognitive knowledge** is relatively stable knowledge and beliefs about cognitive phenomena stored in long-term memory. Unlike the immediacy and situatedness of metacognitive experience, metacognitive knowledge is cross-situational, declarable, and relatively enduring. Flavell divided it into three major subcategories: person knowledge, task knowledge, and strategy knowledge.
+
+## 核心机制 · Core Mechanisms
+
+### 三类元认知知识 · Three Categories
+
+#### 个人知识 · Person Knowledge
+
+**中文**：个人知识是关于自身及他人认知能力的知识和信念。它包括三个层面：
+
+- **个体内差异**（intraindividual differences）：了解自己不同认知领域的相对强项与弱项。例如，"我的视觉记忆比听觉记忆好""我记不住人名但能记住面孔"。
+- **个体间差异**（interindividual differences）：了解自己与他人认知能力的比较。例如，"张老师的记忆力比我好""班上大多数同学比我算得快"。
+- **认知普遍性**（universal cognition）：关于人类认知一般特征的认识。例如，"人的短时记忆容量有限""注意力会随时间衰减""理解比记忆更难"。
+
+个人知识的准确性对学习和决策至关重要。过度自信（overconfidence）和低度自信（underconfidence）都是个人知识不准确的表现，都会导致策略选择失误。
+
+**EN**: Person knowledge is knowledge and beliefs about one's own and others' cognitive abilities. It includes three levels:
+
+- **Intraindividual differences**: Understanding relative strengths and weaknesses across one's own cognitive domains (e.g., "My visual memory is better than my auditory memory").
+- **Interindividual differences**: Comparing one's cognitive abilities with others (e.g., "Teacher Zhang has better memory than me").
+- **Universal cognition**: Knowledge about general characteristics of human cognition (e.g., "Short-term memory capacity is limited," "Attention decays over time").
+
+Accuracy of person knowledge is crucial for learning and decision-making. Both overconfidence and underconfidence reflect inaccurate person knowledge and lead to suboptimal strategy selection.
+
+#### 任务知识 · Task Knowledge
+
+**中文**：任务知识是关于不同认知任务的性质、难度和要求的认识。它包括：
+
+- **任务特征识别**：了解任务的类型和结构（"这是一道开放性问题还是封闭性问题？"）。
+- **任务难度评估**：判断任务对自己而言有多难（"这篇论文比那篇难读"）。
+- **任务需求分析**：识别完成任务所需的信息和步骤（"要解决这个问题，我首先需要理解题意"）。
+
+**EN**: Task knowledge concerns the nature, difficulty, and requirements of different cognitive tasks. It includes:
+
+- **Task feature identification**: Understanding task type and structure.
+- **Task difficulty assessment**: Judging how difficult a task is for oneself.
+- **Task demand analysis**: Identifying the information and steps needed to complete a task.
+
+#### 策略知识 · Strategy Knowledge
+
+**中文**：策略知识是关于认知策略及其适用条件的认识。它不仅包括知道有哪些策略（陈述性知识），还包括知道何时、如何使用这些策略（程序性知识和条件性知识）。
+
+例如：
+- **陈述性策略知识**："复述有助于记忆"
+- **程序性策略知识**：知道如何执行复述（如逐词重复、分组复述）
+- **条件性策略知识**："当材料很抽象时，精加工比简单复述更有效"
+
+弗拉维尔强调，策略知识的核心不在于知道策略本身，而在于知道策略与任务之间的匹配关系——这正是元认知控制的基础。
+
+**EN**: Strategy knowledge concerns cognitive strategies and their conditions of application. It includes not only knowing what strategies exist (declarative knowledge) but also knowing when and how to use them (procedural and conditional knowledge).
+
+For example:
+- **Declarative strategy knowledge**: "Rehearsal aids memory"
+- **Procedural strategy knowledge**: Knowing how to execute rehearsal
+- **Conditional strategy knowledge**: "When material is abstract, elaboration is more effective than simple rehearsal"
+
+Flavell emphasized that the core of strategy knowledge lies not in knowing strategies per se but in knowing the matching relationship between strategies and tasks — the very foundation of metacognitive control.
+
+### 三类知识的交互 · Interaction Among Categories
+
+**中文**：弗拉维尔指出，三类元认知知识在实际认知活动中是高度交互的。一个学生在准备考试时的元认知监控过程可能是："我知道自己数学不好（个人知识），这道几何题比代数题更难（任务知识），所以我需要用画图策略而不只是默读公式（策略知识）。"这种三者的整合运用才是元认知知识的真正力量。
+
+**EN**: Flavell noted that the three categories of metacognitive knowledge are highly interactive during actual cognitive activity. A student preparing for an exam might engage: "I know I'm bad at math (person knowledge), this geometry problem is harder than algebra (task knowledge), so I need to use a diagramming strategy rather than just silently reading formulas (strategy knowledge)." The integrated application of all three is the true power of metacognitive knowledge.
+
+## 发展脉络 · Developmental Trajectory
+
+### 儿童元认知知识的发展 · Development in Children
+
+**中文**：弗拉维尔及其同事的长期研究表明，元认知知识的发展呈现清晰的年龄趋势：
+
+- **学前期（3–5岁）**：初步认识到"知道"和"不知道"的区别，但理解粗糙，常高估自己的知识。
+- **学龄初期（6–8岁）**：开始区分不同任务的难度，认识到某些策略比其他策略更有效。
+- **学龄中期（9–12岁）**：对个人知识、任务知识和策略知识的理解更为精确和细致，能更准确地评估自身认知能力。
+- **青春期及以后**：元认知知识继续精细化，特别是在特定领域内发展出更复杂的策略知识。
+
+**EN**: Flavell and colleagues' longitudinal research shows clear age trends in metacognitive knowledge development:
+
+- **Preschool (3–5)**: Preliminary recognition of "knowing" vs. "not knowing," though understanding is crude with frequent overestimation of own knowledge.
+- **Early school age (6–8)**: Begin distinguishing task difficulty and recognizing that some strategies are more effective than others.
+- **Middle school age (9–12)**: More precise and nuanced understanding of person, task, and strategy knowledge; more accurate self-assessment of cognitive abilities.
+- **Adolescence and beyond**: Metacognitive knowledge continues to refine, especially developing more complex strategy knowledge within specific domains.
+
+### 影响元认知知识发展的因素 · Influencing Factors
+
+**中文**：元认知知识的发展受多种因素影响：家庭对话中涉及心理状态的频率、学校教育中对学习策略的显性教学、同伴互动中的认知冲突、以及个体自身的认知经验积累。Flavell 发现，经常与成人讨论"如何思考"问题的儿童，其元认知知识发展更快。
+
+**EN**: Metacognitive knowledge development is influenced by multiple factors: frequency of mental-state talk in family conversations, explicit instruction on learning strategies in school, cognitive conflict in peer interactions, and individual accumulation of cognitive experience. Flavell found that children who frequently discuss "how to think" with adults develop metacognitive knowledge more rapidly.
+
+## 临床应用 · Clinical Applications
+
+### 元认知知识在教育中的应用 · Educational Applications
+
+**中文**：现代教育实践越来越重视显性地培养学生的元认知知识。具体策略包括：
+
+- **元认知问卷**：帮助学生评估自身在不同学科中的认知强项与弱项。
+- **任务分析训练**：教学生如何拆解任务、评估难度、选择合适的策略。
+- **策略教学**：不仅教授策略本身，还教授策略的适用条件和局限。
+- **反思日志**：引导学生反思学习过程，积累元认知经验。
+
+**EN**: Modern educational practice increasingly emphasizes explicitly cultivating students' metacognitive knowledge. Specific strategies include:
+
+- **Metacognitive questionnaires**: Helping students assess cognitive strengths and weaknesses across subjects.
+- **Task analysis training**: Teaching students how to decompose tasks, assess difficulty, and select appropriate strategies.
+- **Strategy instruction**: Teaching not only strategies themselves but also their conditions and limitations.
+- **Reflective journals**: Guiding students to reflect on learning processes and accumulate metacognitive experience.
+
+### 元认知知识的测量 · Measurement
+
+**中文**：弗拉维尔开创性地使用了多种方法测量元认知知识：结构化访谈、思考报告法（think-aloud）、判断-表现范式（judgment-performance paradigm，如让学生预测自己记住了多少词然后与实际表现比较）。后来的研究者发展了更多标准化工具，如元认知意识量表（MAI, Schraw & Dennison, 1994）。
+
+**EN**: Flavell pioneered multiple methods for measuring metacognitive knowledge: structured interviews, think-aloud protocols, and judgment-performance paradigms (e.g., having students predict how many words they remembered and comparing with actual performance). Later researchers developed more standardized tools, such as the Metacognitive Awareness Inventory (MAI, Schraw & Dennison, 1994).
+
+## 关联概念 · Related Concepts
+
+- **[[metacognition|元认知]]** — 上位概念，元认知知识是其核心成分
+- **[[cognitive-monitoring|认知监控]]** — 元认知知识为监控提供参照标准
+- **知道感**（Feeling of Knowing）— 元认知知识影响FOK判断
+- **自我效能感**（Self-efficacy, Bandura）— 个人知识与自我效能感高度重叠
+- **条件性知识**（Conditional knowledge）— 策略知识的核心层面
+- **[[developmental|认知发展]]** — 元认知知识的发展轨迹
+
+## 东西方对话 · East-West Dialogue
+
+**中文**：中国传统教育思想中蕴含丰富的元认知知识观念。孔子"因材施教"的前提是对学生认知特点的准确了解——这正是个人知识的运用。《学记》中"学然后知不足，教然后知困"揭示了通过实践积累元认知知识的过程。荀子的"知之不若行之"暗示了元认知知识需要通过实际行动来验证和深化。
+
+在比较视域中，弗拉维尔的元认知知识框架提供了一个结构化的现代概念工具，使得这些散见于古典文献中的教育智慧可以被系统地理解和操作化。
+
+**EN**: Chinese traditional educational thought contains rich metacognitive knowledge concepts. Confucius' "teaching according to aptitude" presupposes accurate understanding of students' cognitive characteristics — precisely the application of person knowledge. The *Xueji*'s "Through learning one knows one's insufficiency; through teaching one knows one's difficulties" reveals the process of accumulating metacognitive knowledge through practice. Xunzi's "knowing is inferior to doing" implies that metacognitive knowledge needs validation and deepening through actual action.
+
+Comparatively, Flavell's metacognitive knowledge framework provides a structured modern conceptual tool that enables systematic understanding and operationalization of these educational insights scattered throughout classical texts.
+
+## 进阶阅读 · Further Reading
+
+**原典 · Primary**：
+- Flavell, J. H. (1979). "Metacognition and cognitive monitoring." *American Psychologist*, 34(10), 906–911.
+- Flavell, J. H. (1987). "Speculations about the nature and development of metacognition." In F. E. Weinert & R. H. Kluwe (Eds.), *Metacognition, Motivation, and Understanding*.
+
+**二手研究 · Secondary**：
+- Schraw, G., & Dennison, R. S. (1994). "Assessing metacognitive awareness." *Journal of Educational Psychology*, 86(4), 460–475.
+- Pintrich, P. R. (2002). "The role of metacognitive knowledge in learning, studying, and self-regulated learning." *Educational Psychologist*, 37(4), 215–225.
+
+**中文资源 · Chinese**：
+- 董奇、周勇《论元认知》
+- 汪玲、郭德俊《元认知知识的三维结构》
+
+---
+返回 [[../README|弗拉维尔 · John Flavell]]

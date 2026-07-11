@@ -1,0 +1,17 @@
+---
+id: macintyre-emotivism
+title: 情感主义 · Emotivism · MacIntyre
+type: concept
+domain: ethics-politics
+school: virtue-ethics
+thinker: macintyre
+tags: [emotivism, moral-language, crisis]
+cross-refs: [{id: macintyre, relation: thinker}]
+---
+# 情感主义 · Emotivism
+## 一句话定义
+麦金太尔诊断现代道德话语为**情感主义**——道德判断不再是理性论证，而不过是个人偏好的表达（"我赞同 X"伪装成"X 是对的"）。
+## 三种现代道德人格
+1. **管理者** — 把效率当作道德
+2. **治疗师** — 把感觉当作道德
+3. **审美者** — 把品味当作道德

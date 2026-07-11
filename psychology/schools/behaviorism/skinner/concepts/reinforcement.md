@@ -1,0 +1,112 @@
+---
+id: skinner.reinforcement
+title: "强化 · Reinforcement"
+type: concept
+domain: psychology
+thinker: skinner
+tags: [强化, 正强化, 负强化, 强化物, reinforcement, positive reinforcement, negative reinforcement, reinforcer]
+---
+
+# 强化 · Reinforcement
+
+## 定义 / Definition
+
+**强化**（Reinforcement）是斯金纳操作性条件反射理论中最核心的概念，指任何能够增加行为在未来出现概率的后果事件。斯金纳将强化定义为一种功能性概念：一个事件是否是"强化物"，取决于它是否在事实上增加了行为频率，而非取决于该事件是否被个体主观体验为"愉快"或"奖赏"。
+
+**Reinforcement** is the most central concept in Skinner's operant conditioning theory, referring to any consequence event that increases the probability of a behavior occurring in the future. Skinner defined reinforcement as a functional concept: whether an event is a "reinforcer" depends on whether it actually increases behavior frequency, not on whether the individual subjectively experiences it as "pleasant" or "rewarding."
+
+强化分为两种基本类型：**正强化**（Positive Reinforcement）和**负强化**（Negative Reinforcement）。正强化指在行为之后呈现一个刺激（正强化物），使行为频率增加；负强化指在行为之后移除一个刺激（厌恶刺激），使行为频率增加。两者的共同特征是都增加行为频率，区别在于正强化是"增加"一个刺激，负强化是"移除"一个刺激。
+
+Reinforcement has two basic types: **Positive Reinforcement** and **Negative Reinforcement**. Positive reinforcement involves presenting a stimulus (positive reinforcer) after behavior to increase its frequency; negative reinforcement involves removing a stimulus (aversive stimulus) after behavior to increase its frequency. Both share the common feature of increasing behavior frequency, but differ in that positive reinforcement "adds" a stimulus while negative reinforcement "removes" one.
+
+## 核心机制 / Core Mechanism
+
+### 正强化 / Positive Reinforcement
+
+正强化是指在行为之后呈现一个刺激，使该行为在未来出现的概率增加。常见的正强化物包括：
+
+Positive reinforcement involves presenting a stimulus after behavior that increases the probability of that behavior occurring in the future. Common positive reinforcers include:
+
+- **初级强化物 / Primary Reinforcers** — 不需要学习就具有强化作用的刺激，如食物、水、适宜温度等，满足有机体的基本生理需求。Stimuli that are reinforcing without learning, such as food, water, and appropriate temperature.
+- **次级强化物（条件强化物） / Secondary (Conditioned) Reinforcers** — 通过与初级强化物的反复配对而获得强化作用的刺激，如金钱、社会赞许、分数、代币等。Stimuli that acquire reinforcing properties through repeated pairing with primary reinforcers, such as money, social approval, grades, and tokens.
+- **泛化条件强化物 / Generalized Conditioned Reinforcers** — 与多种初级强化物配对过的条件强化物，如金钱可以交换几乎任何初级强化物。Conditioned reinforcers paired with multiple primary reinforcers, such as money which can be exchanged for almost any primary reinforcer.
+
+### 负强化 / Negative Reinforcement
+
+负强化是指在行为之后移除一个厌恶刺激，使该行为在未来出现的概率增加。常见的负强化情境包括：
+
+Negative reinforcement involves removing an aversive stimulus after behavior, increasing the probability of that behavior in the future. Common negative reinforcement situations include:
+
+- **逃避学习 / Escape Learning** — 有机体学会产生一种行为来终止正在进行的厌恶刺激，如在炎热时打开空调。The organism learns to emit behavior that terminates an ongoing aversive stimulus.
+- **回避学习 / Avoidance Learning** — 有机体学会产生一种行为来预防厌恶刺激的出现，如在看到乌云时带伞。The organism learns to emit behavior that prevents the onset of an aversive stimulus.
+
+**重要区分**：负强化不等于惩罚。负强化**增加**行为频率（通过移除厌恶刺激），而惩罚**减少**行为频率（通过呈现厌恶刺激或移除愉快刺激）。这是行为分析中最常被误解的概念区分之一。
+
+**Critical distinction**: Negative reinforcement is not punishment. Negative reinforcement **increases** behavior frequency (by removing an aversive stimulus), while punishment **decreases** behavior frequency (by presenting an aversive stimulus or removing a pleasant one). This is one of the most commonly misunderstood conceptual distinctions in behavior analysis.
+
+### 强化物的有效性 / Reinforcer Effectiveness
+
+强化物的有效性受多种因素影响：
+
+Reinforcer effectiveness is influenced by multiple factors:
+
+- **剥夺-满足状态 / Deprivation-Satiation State** — 有机体对某一强化物的"饥饿程度"决定其有效性。食物对饥饿个体的强化效果远大于对饱足个体。The organism's "hunger level" for a particular reinforcer determines its effectiveness.
+- **即时性 / Immediacy** — 强化物与行为之间的时间间隔越短，强化效果越强。延迟强化大大削弱学习效果。The shorter the interval between behavior and reinforcer, the stronger the effect.
+- **一致性 / Consistency** — 在建立新行为时，每次行为都给予强化（连续强化）效果最佳；在维持行为时，间歇性强化更有效。Continuous reinforcement is best for establishing new behavior; intermittent reinforcement is more effective for maintenance.
+- **数量与质量 / Magnitude and Quality** — 较大或较高质量的强化物通常更有效，但存在边际递减效应。Larger or higher quality reinforcers are generally more effective, but with diminishing returns.
+
+### 普雷马克原理 / Premack Principle
+
+普雷马克原理（Premack Principle）指出，高频行为可以作为低频行为的强化物。例如，如果儿童更喜欢看电视（高频行为）而不是做作业（低频行为），那么"做完作业后可以看电视"就可以用看电视来强化做作业的行为。这一原理扩展了强化物的概念，表明任何行为（而不仅是刺激）都可以作为强化物。
+
+The Premack Principle states that high-probability behavior can serve as a reinforcer for low-probability behavior. For example, if a child prefers watching television (high-probability behavior) to doing homework (low-probability behavior), then "you can watch TV after finishing homework" uses television watching to reinforce homework behavior. This principle extends the concept of reinforcer, showing that any behavior (not just stimuli) can serve as a reinforcer.
+
+## 发展脉络 / Development
+
+斯金纳的强化概念直接继承了爱德华·桑代克（Edward Thorndike）的**效果律**（Law of Effect, 1898）。桑代克通过"迷笼"实验发现，猫在成功逃出迷笼后（获得食物），逃出行为的速度会逐渐加快。他将此概括为："在特定情境中伴随满意后果的反应与该情境之间的联结会加强。"
+
+Skinner's reinforcement concept directly inherits from Edward Thorndike's **Law of Effect** (1898). Thorndike found through "puzzle box" experiments that cats' escape behavior gradually sped up after successful escapes (which yielded food). He generalized: "responses accompanied by satisfying consequences in a given situation become strengthened in their connection to that situation."
+
+斯金纳在1938年的《有机体的行为》中系统发展了强化概念。他不仅区分了正强化和负强化，还探索了强化时程表（schedules of reinforcement）——即强化物递送的时间和频率规则——对行为模式的深刻影响。他发现，不同的强化时程表会产生截然不同的行为模式：固定比率时程表产生"休息后爆发"（post-reinforcement pause）模式，可变比率时程表产生稳定的高速率反应。
+
+Skinner systematically developed the reinforcement concept in his 1938 *Behavior of Organisms*. He not only distinguished positive from negative reinforcement but also explored how schedules of reinforcement — the temporal and frequency rules governing reinforcer delivery — profoundly influence behavior patterns. He discovered that different schedules produce dramatically different behavioral patterns: fixed-ratio schedules produce "post-reinforcement pause" patterns, while variable-ratio schedules produce steady high-rate responding.
+
+1950–1960年代，强化概念被广泛应用于人类行为领域。查尔斯·费斯特（Charles Ferster）和所罗门等人对负强化和回避学习进行了深入研究。肯尼斯·麦克劳德（Kenneth MacLeod）等人探索了条件强化物的建立和维持机制。
+
+During the 1950s–1960s, reinforcement concepts were widely applied to human behavior. Charles Ferster and others conducted in-depth research on negative reinforcement and avoidance learning. Researchers explored the establishment and maintenance mechanisms of conditioned reinforcers.
+
+## 临床应用 / Clinical Applications
+
+- **差异化强化（DRA/DRO/DRL） / Differential Reinforcement** — 在应用行为分析中，治疗师使用差异化强化来减少问题行为并增加替代性行为。DRA（替代行为的差异化强化）强化与问题行为不兼容的替代行为；DRO（其他行为的差异化强化）在问题行为未出现的时段给予强化；DRL（低频率行为的差异化强化）当行为频率降低到某一标准时给予强化。
+
+- **行为契约 / Behavioral Contracts** — 明确约定目标行为及其强化物的书面协议，广泛应用于学校和临床设置。Written agreements specifying target behaviors and their reinforcers.
+
+- **自我管理 / Self-Management** — 个体学会为自己的目标行为安排强化物，如完成任务后给予自己奖励。Individuals learn to arrange their own reinforcers for target behaviors.
+
+- **偏好评估 / Preference Assessment** — 系统地评估个体对不同刺激的偏好程度，以确定最有效的强化物。常见方法包括成对选择评估（paired-stimulus assessment）和多重刺激评估（multiple-stimulus assessment）。Systematic evaluation of individual stimulus preferences to identify the most effective reinforcers.
+
+## 与其他概念的关联 / Related Concepts
+
+- **操作性条件反射 / Operant Conditioning** → [operant-conditioning.md](operant-conditioning.md) — 强化是操作性条件反射的核心机制。Reinforcement is the core mechanism of operant conditioning.
+- **惩罚 / Punishment** — 与强化相对的过程：减少行为频率的后果事件。斯金纳强烈反对将惩罚作为行为改变的主要手段。The opposite process: consequence events that decrease behavior frequency.
+- **强化时程表 / Schedules of Reinforcement** → [schedules.md](schedules.md) — 控制强化物递送模式的规则系统。Rule systems controlling reinforcement delivery.
+- **消退 / Extinction** — 当强化终止时行为频率降低的过程。The process of behavior frequency decrease when reinforcement ceases.
+- **多巴胺与奖赏预测误差 / Dopamine and Reward Prediction Error** — 神经科学研究发现，中脑多巴胺神经元的发放模式与斯金纳的强化概念高度对应：多巴胺信号编码的不是"奖赏"本身，而是奖赏与预期之间的差异（预测误差）。Neuroscience research shows that midbrain dopamine neuron firing patterns closely correspond to Skinner's reinforcement concept.
+
+## 东西方对话 / East-West Dialogue
+
+强化理论与佛教的**业报**（karma-vipaka）概念有深层对应。在佛教因果律中，善的行为（kusala-kamma）会带来愉快的果报（sukha-vipaka），不善的行为（akusala-kamma）会带来痛苦的果报（dukkha-vipaka）。这种"行为-果报"的关系结构与斯金纳的"行为-强化"关系结构高度相似。但佛教的业力系统包含了道德维度（善恶之分），而斯金纳的强化概念是价值中立的（强化物的定义不依赖于道德判断）。
+
+Reinforcement theory has deep correspondences with the Buddhist **karma-vipaka** (act-result) concept. In Buddhist causality, wholesome acts bring pleasant results and unwholesome acts bring suffering. This "behavior-result" structure closely mirrors Skinner's "behavior-reinforcement" structure. However, the Buddhist karma system includes a moral dimension (good-evil distinction), while Skinner's reinforcement concept is value-neutral (reinforcer definition does not depend on moral judgment).
+
+儒家的"赏罚"传统（奖赏善行、惩罚恶行）与斯金纳的"强化-惩罚"框架有表面相似性。但儒家将赏罚视为维护社会秩序和道德教化的工具，具有明确的伦理目的；而斯金纳的强化理论是一种描述性的科学框架，不预设道德价值。
+
+The Confucian tradition of "rewards and punishments" has surface similarity to Skinner's "reinforcement-punishment" framework. However, Confucianism views rewards and punishments as tools for maintaining social order and moral education with explicit ethical purposes, while Skinner's reinforcement theory is a descriptive scientific framework without presupposed moral values.
+
+## 进阶阅读 / Further Reading
+
+- Skinner, B.F. (1953). *Science and Human Behavior*, Chapters 5-7. New York: Macmillan.
+- Ferster, C.B. & Skinner, B.F. (1957). *Schedules of Reinforcement*. New York: Appleton-Century-Crofts.
+- Premack, D. (1965). "Reinforcement Theory." In D. Levine (Ed.), *Nebraska Symposium on Motivation*, Vol. 13. Lincoln: University of Nebraska Press.
+- Mazur, J.E. (2013). *Learning and Behavior* (7th ed.). Upper Saddle River, NJ: Pearson. — 强化章节详细讨论 / Detailed discussion of reinforcement.
+- Domjan, M. (2015). *The Principles of Learning and Behavior* (7th ed.). Stamford, CT: Cengage.

@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.naturalistic-decision.klein-timeline
+title: 克莱因思想年表
+type: timeline
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: klein
+tags: [klein, timeline]
+cross-refs: [{id: klein, relation: thinker}]
+---
+
+# 克莱因思想年表
+
+- **1944** 生于美国
+- **1960s** 本科就读于城市学院（City College of New York），主修心理学
+- **1969** 获匹兹堡大学实验心理学博士学位
+- **1970s** 在空军研究实验室（AFRL）开始研究人类决策过程
+- **1978** 加入Klein Associates公司（后为Applied Research Associates一部分），开始独立研究
+- **1985** 受军方委托开始研究消防指挥官的火场决策
+- **1986-1988** 通过关键事件访谈收集消防指挥官决策数据，发现"不做选项比较"的现象
+- **1989** 首次提出识别启动决策（RPD）模型
+- **1993** 发表RPD模型系统论文，与Orasanu等人共同发起NDM研究运动
+- **1993** 首届自然决策会议（NDM Conference）召开
+- **1995** 将RPD模型扩展至护理、军事指挥等多个领域
+- **1998** 出版 *Sources of Power*，将研究发现呈现给更广泛读者
+- **1999** RPD模型被美国陆军纳入指挥官训练条令
+- **2001** RPD研究扩展至海军陆战队和海岸警卫队
+- **2003** 出版 *The Power of Intuition*，面向管理者群体
+- **2007** 合编 *Working Minds*，系统化认知任务分析方法论
+- **2009** 与Kahneman合作发表"Conditions for Intuitive Expertise"，达成直觉可靠性的条件共识
+- **2011** 出版 *Streetlights and Shadows*，总结十条适应性决策洞见
+- **2013** 出版 *Seeing What Others Don't*，从决策研究转向洞察力研究
+- **2017** Klein Associates并入Applied Research Associates (ARA)
+- **2020s** 持续关注AI时代的专家培养与人机协作问题
+- **2023** 获人因与人体工程学学会（HFES）终身成就奖相关荣誉

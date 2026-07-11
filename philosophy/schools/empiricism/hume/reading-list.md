@@ -1,0 +1,150 @@
+---
+id: hume-reading-list
+title: 休谟进阶阅读指南 · Hume Reading Guide
+type: reading-list
+domain: philosophy
+school: empiricism
+era: early-modern
+thinker: hume
+tags:
+  - reading-guide
+  - bibliography
+  - study-path
+parent: hume
+---
+
+# 休谟进阶阅读指南 · Hume Reading Guide
+
+## 入门路径 / Entry Level
+
+适合第一次接触休谟的读者。建议按以下顺序阅读：
+
+### 第一步：感受休谟的风格
+
+- **《人类理解研究》** (An Enquiry Concerning Human Understanding, 1748)
+  - 休谟认识论的精华浓缩版，约 200 页，英语哲学中最优雅的文本之一
+  - 重点阅读：Section II (印象与观念)、Section IV (怀疑论论证)、Section V (怀疑论解答)、Section VII (必然联系)
+  - 推荐英文版本：Oxford World's Classics (ed. Peter Millican) 或 Hackett (ed. Eric Steinberg)
+  - 推荐中译本：关文运译（商务印书馆），或王健译（北京大学出版社）
+
+- **《道德原理研究》** (An Enquiry Concerning the Principles of Morals, 1751)
+  - 休谟自认为最好的著作，道德情感论的成熟表述
+  - 推荐英文版本：Hackett (ed. J.B. Schneewind)
+  - 推荐中译本：陈修斋等译（商务印书馆）
+
+### 第二步：传记入门
+
+- **James Harris, *Hume: An Intellectual Biography*** (Cambridge, 2015)
+  - 目前最全面、最新的休谟智识传记，约 600 页。将休谟的哲学、历史学、经济学和政治思想统一在一个连贯的叙事中
+
+- **Roderick Graham, *The Great Infidel: A Life of David Hume*** (1950)
+  - 经典传记，生动地呈现了休谟的性格和时代
+
+## 进阶路径 / Intermediate
+
+适合已经读过入门文本、希望深入理解休谟哲学的读者。
+
+### 原典深读
+
+- **《人性论》第一卷"论知性"** (A Treatise of Human Nature, Book I, 1739)
+  - 休谟认识论的完整版，比《人类理解研究》更详尽（也更难读）
+  - 推荐英文版本：Oxford Clarendon Edition (ed. L.A. Selby-Bigge, revised by P.H. Nidditch)
+  - 推荐中译本：关文运译（商务印书馆）
+  - 重点章节：Part I (印象与观念)、Part III (因果推断)、Part IV, Section II (外部世界)、Section V (非物质实体/自我)、Section VII (结论)
+
+- **《人性论》第三卷"论道德"** (Book III, 1740)
+  - 道德情感论的完整版，比《道德原理研究》更包含形而上学讨论
+  - 重点章节：Part I (道德非理性主义论证)、Part II (正义的起源)、Part III (道德情感的其他来源)
+
+- **《自然宗教对话录》** (Dialogues Concerning Natural Religion, 1779)
+  - 对设计论证的毁灭性批判，对话体形式使其格外引人入胜
+  - 推荐英文版本：Hackett (ed. Richard Popkin) 或 Cambridge (ed. Dorothy Coleman)
+
+### 二手研究核心
+
+- **Don Garrett, *The Routledge Guidebook to Hume's Enquiry Concerning Human Understanding*** (Routledge, 2015)
+  - 对《人类理解研究》逐节分析的最佳导读，适合与原典并行阅读
+
+- **Barry Stroud, *Hume*** (Routledge, 1977)
+  - 关于休谟认识论的经典研究，深入分析怀疑论与自然主义之间的张力。被认为是 20 世纪休谟研究中最重要的著作之一
+
+- **Annette Baier, *A Progress of Sentiments: Reflections on Hume's Treatise*** (Harvard, 1991)
+  - 以独特的视角重新阅读《人性论》，强调休谟作为"情感哲学家"而非"怀疑论者"的一面。对理解休谟的道德理论和情感理论尤其重要
+
+## 深研路径 / Deep Dive
+
+适合希望进入休谟研究前沿的专业读者。
+
+### 认识论与形而上学
+
+- **Edward Craig, *The Mind of God and the Works of Man*** (Oxford, 1987)
+  - 探讨休谟的意义理论 (theory of meaning) 及其与上帝观念的关系
+
+- **David Owen, *Hume's Reason*** (Oxford, 1999)
+  - 重新审视休谟对理性 (reason) 的理解，挑战传统的"非理性主义"解读
+
+- **Peter Millican (ed.), *Reading Hume on Human Understanding*** (Oxford, 2002)
+  - 论文集，对《人类理解研究》各节进行深入的学术分析
+
+### 道德哲学
+
+- **Rachel Cohon, *Hume's Morality: Feeling and Fabrication*** (Oxford, 2008)
+  - 对休谟道德哲学的最新全面研究，强调"人为德性" (artificial virtues) 的重要性
+
+- **Kate Abramson, "Hume on Cultural Conflicts of Values" (*Philosophical Studies*, 2008)
+  - 探讨休谟道德普遍主义 (moral universalism) 与文化相对主义之间的张力
+
+### 宗教哲学
+
+- **Dorothy Coleman (ed.), *Dialogues Concerning Natural Religion*** (Cambridge, 2007)
+  - 带有详尽注释和学术导言的版本
+
+- **Peter Kail, *Projection and Realism in Hume's Philosophy*** (Oxford, 2007)
+  - 探讨休谟的投射主义 (projectionism) 在因果、道德和宗教领域的应用
+
+### 历史与政治
+
+- **Donald Livingston, *Hume's Philosophy of Common Life*** (Chicago, 1984)
+  - 强调休谟作为"常识哲学家"的一面，探讨其历史著作与哲学的统一
+
+- **Mark Spencer, *David Hume and Eighteenth-Century America*** (Rochester, 2005)
+  - 休谟思想在美洲的传播与影响
+
+## 中文资源 / Chinese Resources
+
+### 原典中译
+
+| 著作 | 译者 | 出版社 |
+|---|---|---|
+| 《人性论》 | 关文运 | 商务印书馆 |
+| 《人类理解研究》 | 关文运 | 商务印书馆 |
+| 《道德原理研究》 | 陈修斋 等 | 商务印书馆 |
+| 《自然宗教对话录》 | 陈修斋 等 | 商务印书馆 |
+| 《英国史》 | 刘厚爵 等 | 商务印书馆（部分卷次） |
+| 《休谟经济论文选》 | 陈玮 等 | 商务印书馆 |
+
+### 中文研究
+
+- **周晓亮《休谟哲学研究》** — 中文世界最系统的休谟哲学研究专著
+- **周晓亮《休谟及其人性论》** — 对《人性论》的逐章分析
+- **赵敦华《西方哲学简史》** 休谟章节 — 简明扼要的入门介绍
+- **陈嘉映《哲学·科学·常识》** — 从休谟的因果问题出发讨论科学与常识的关系
+- **赵汀阳《一个或所有问题》** — 在元伦理学框架中讨论休谟的"是—应当问题"
+
+### 英文二手研究入门
+
+- **Simon Blackburn, *Hume: A Very Short Introduction*** (Oxford, 2008) — 极短的入门读物，约 100 页
+- **A.J. Ayer, *Hume: A Very Short Introduction*** (Oxford, 1980) — 逻辑实证主义者的休谟解读
+
+## 阅读建议
+
+1. **不要跳过《人性论》**。虽然《人类理解研究》更精炼，但《人性论》中有一些在改写中被省略的重要论证（特别是关于自我、外部世界的讨论）
+2. **休谟的散文值得一读**。他的历史散文和政治散文（如"论党派"、"论新闻自由"、"论趣味标准"）展示了他作为公共知识分子的面向
+3. **关注"休谟问题"的当代回响**。归纳问题、因果推断、道德情感主义等主题在当代哲学和认知科学中仍然是前沿话题
+4. **不要忽视历史著作**。《英国史》虽然是历史著作，但体现了休谟的哲学立场在政治和历史分析中的应用
+
+## 延伸阅读
+
+- 返回 [休谟主页](README.md)
+- 参见 [作品总览](works.md) 了解各著作的详细内容
+- 参见 [思想年表](timeline.md) 了解休谟思想的分期

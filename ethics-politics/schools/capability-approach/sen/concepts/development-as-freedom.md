@@ -1,0 +1,16 @@
+---
+id: sen-development-as-freedom
+title: 以自由看待发展 · Development as Freedom · Sen
+type: concept
+domain: ethics-politics
+school: capability-approach
+thinker: sen
+tags: [development, freedom, HDI]
+cross-refs: [{id: sen, relation: thinker}]
+---
+# 以自由看待发展 · Development as Freedom
+## 一句话定义
+发展的本质是**扩展人的实质自由**——自由既是发展的目的也是发展的手段。
+## 五种工具性自由
+1. 政治自由 2. 经济设施 3. 社会机会 4. 透明性保障 5. 防护性保障
+五种自由相互促进而非相互替代。

@@ -1,0 +1,118 @@
+---
+id: skinner.behavior-modification
+title: "行为矫正 · Behavior Modification"
+type: concept
+domain: psychology
+thinker: skinner
+tags: [行为矫正, 应用行为分析, 行为治疗, 代币经济, behavior modification, applied behavior analysis, behavior therapy, token economy]
+---
+
+# 行为矫正 · Behavior Modification
+
+## 定义 / Definition
+
+**行为矫正**（Behavior Modification）是指运用操作性条件反射和行为分析的原理，系统地改变人类行为的技术和方法的总称。其核心理念是：问题行为（problem behavior）不是由内在的病理机制产生的，而是由环境中的强化偶联（reinforcement contingencies）维持的。因此，通过改变这些环境偶联——增加期望行为的强化、减少问题行为的强化、教授替代性行为——就可以有效地改变行为。
+
+**Behavior Modification** refers to the systematic application of operant conditioning and behavior analysis principles to change human behavior. Its core premise is that problem behaviors are not produced by internal pathological mechanisms but are maintained by reinforcement contingencies in the environment. Therefore, by modifying these environmental contingencies — increasing reinforcement for desired behavior, reducing reinforcement for problem behavior, teaching replacement behaviors — behavior can be effectively changed.
+
+行为矫正是斯金纳的理论从实验室走向临床实践的关键桥梁。它将操作性条件反射的基本原理——强化、消退、惩罚、塑造、刺激控制——转化为一套可操作的治疗程序。1960–1970年代，行为矫正运动蓬勃发展，催生了**应用行为分析**（Applied Behavior Analysis, ABA）作为一门独立学科。
+
+Behavior modification is the critical bridge from Skinner's laboratory theory to clinical practice. It translates the basic principles of operant conditioning — reinforcement, extinction, punishment, shaping, stimulus control — into operational treatment procedures. During the 1960s–1970s, the behavior modification movement flourished, giving rise to **Applied Behavior Analysis** (ABA) as an independent discipline.
+
+## 核心机制 / Core Mechanism
+
+### 功能行为评估 / Functional Behavior Assessment (FBA)
+
+行为矫正的第一步是**功能行为评估**：系统地分析问题行为的功能——即该行为被什么后果维持。行为的功能通常归为四类：
+
+The first step in behavior modification is **Functional Behavior Assessment**: systematically analyzing the function of problem behavior — what consequences maintain it. Behavioral functions typically fall into four categories:
+
+1. **获取关注 / Social Attention** — 行为因他人的关注（即使是负面关注）而被强化。Behavior reinforced by others' attention (even negative attention).
+2. **获取物品或活动 / Access to Tangibles or Activities** — 行为因获得有形物品或参与某项活动而被强化。Behavior reinforced by obtaining tangible items or access to activities.
+3. **逃避或回避 / Escape or Avoidance** — 行为因终止或避免厌恶刺激而被负强化。Behavior negatively reinforced by terminating or avoiding aversive stimuli.
+4. **自动强化 / Automatic Reinforcement** — 行为因产生内在的感觉刺激而被强化，无需他人参与。Behavior reinforced by internally produced sensory stimulation.
+
+### 行为干预策略 / Behavioral Intervention Strategies
+
+基于功能评估的结果，行为矫正使用多种干预策略：
+
+Based on functional assessment results, behavior modification employs multiple intervention strategies:
+
+**前因策略 / Antecedent Strategies**
+- **环境调整 / Environmental Modification** — 改变引发问题行为的环境条件。Modify environmental conditions that trigger problem behavior.
+- **非依从性强化（NCR） / Noncontingent Reinforcement** — 按时间而非行为来递送强化物，减少问题行为的动机。Deliver reinforcers on a time-based rather than behavior-based schedule.
+- **高概率请求序列 / High-Probability Request Sequence** — 在提出低概率请求之前，先提出并强化几个高概率请求。Present and reinforce several high-probability requests before a low-probability request.
+
+**后果策略 / Consequence Strategies**
+- **差异化强化 / Differential Reinforcement** — 强化期望行为，对问题行为不予强化（消退）。包括DRA（替代行为）、DRO（其他行为）和DRL（低频率行为）三种形式。Reinforce desired behavior while withholding reinforcement for problem behavior.
+- **消退 / Extinction** — 终止维持问题行为的强化偶联。Terminate the reinforcement contingency maintaining problem behavior.
+- **反应代价 / Response Cost** — 在问题行为之后移除特定数量的强化物（如扣除代币）。Remove a specific amount of reinforcers after problem behavior.
+- **暂停（Time-Out） / Time-Out from Reinforcement** — 在问题行为之后暂时移除获得强化的机会。Temporarily remove access to reinforcement following problem behavior.
+
+**教授替代行为 / Teaching Replacement Behaviors**
+- **功能性沟通训练（FCT） / Functional Communication Training** — 教授与问题行为具有相同功能的沟通行为来替代问题行为。Teach communicative behavior serving the same function as the problem behavior.
+- **行为塑造 / Shaping** — 通过连续接近法逐步建立复杂的替代行为。Gradually establish complex replacement behaviors through successive approximations.
+- **连锁（Chaining） / Chaining** — 将复杂的替代行为分解为一系列步骤，按顺序教授。Break complex replacement behaviors into sequential steps.
+
+### 代币经济 / Token Economy
+
+**代币经济**（Token Economy）是行为矫正中最系统化的方法之一。在这一系统中：
+
+Token economy is one of the most systematized behavior modification methods:
+
+- **目标行为**被明确定义并可观察地测量
+- **代币**（如筹码、星星、积分）作为条件强化物，在目标行为后立即给予
+- 代币可以在特定时间**兑换**（exchange）为后备强化物（backup reinforcers），如食物、特权或活动
+- 代币经济的规则对所有参与者**透明**和**一致**
+
+Target behaviors are clearly defined and observable; tokens (chips, stars, points) serve as conditioned reinforcers given immediately after target behavior; tokens can be exchanged for backup reinforcers (food, privileges, activities) at specified times; rules are transparent and consistent for all participants.
+
+## 发展脉络 / Development
+
+行为矫正的发展与斯金纳理论的传播和应用密切相关：
+
+The development of behavior modification is closely tied to the dissemination and application of Skinner's theory:
+
+**1940年代 / 1940s** — 斯金纳在第二次世界大战期间参与了军事人员的行为训练项目，首次将操作性条件反射原理应用于大规模的人类行为改变。Fuller (1949) 报告了用操作性条件反射方法成功治疗一名慢性精神病人的案例。
+
+**1950–1960年代 / 1950s–1960s** — Ayllon和Michael（1958）在精神病院中实施了第一个系统的代币经济项目。Lindsley（1960）将操作性条件反射原理引入心理治疗，提出了"行为治疗"（behavior therapy）的概念。这一时期，行为矫正方法开始取代传统的心理动力学方法，成为精神科住院治疗的主要干预手段。
+
+**1970年代 / 1970s** — 应用行为分析（ABA）作为独立学科正式诞生。1968年创刊的《应用行为分析杂志》（*Journal of Applied Behavior Analysis*）标志着这一新学科的成立。Baer、Wolf和Risley（1968）提出了ABA的七个核心维度：应用性、行为性、分析性、技术性、概念系统性、有效性和可泛化性。
+
+**1980年代至今 / 1980s–Present** — Lovaas（1987）发表了开创性研究，证明强化密集的早期行为干预可以显著改善自闭症儿童的发展结果。这一研究奠定了ABA作为自闭症循证干预基础。21世纪以来，ABA持续发展，整合了正行为支持（Positive Behavior Support, PBS）、自然情境教学（Naturalistic Teaching Strategies）等新方法。
+
+## 临床应用 / Clinical Applications
+
+- **自闭症谱系障碍干预 / Autism Spectrum Disorder Intervention** — ABA是ASD干预中证据最充分的方法之一。包括离散试验训练（DTT）、自然情境教学（NET）、关键反应训练（PRT）和早期强化行为干预（EIBI）。ABA is one of the most evidence-based interventions for ASD.
+- **智力与发展障碍 / Intellectual and Developmental Disabilities** — 行为矫正被广泛用于教授生活技能、减少自我伤害行为和攻击行为、提高社会适应能力。Widely used for teaching life skills, reducing self-injury and aggression, and improving social adaptation.
+- **精神科康复 / Psychiatric Rehabilitation** — 代币经济和其他行为矫正方法在精神分裂症等严重精神障碍的康复中有重要应用。Token economies and other behavior modification methods are important in rehabilitation of severe mental disorders.
+- **学校行为管理 / School Behavior Management** — 全校性的积极行为支持（School-Wide Positive Behavior Support, SWPBS）系统运用行为矫正原理管理学生行为。School-wide PBS systems apply behavior modification principles to student behavior management.
+- **组织行为管理 / Organizational Behavior Management** — 在工作场所中运用行为矫正原理提高员工绩效、促进安全行为和改善组织文化。Applying behavior modification in workplaces to improve performance, promote safety behavior, and enhance organizational culture.
+- **成瘾治疗 / Addiction Treatment** — 应急管理（Contingency Management）是药物滥用治疗中效果最明确的循证干预之一，通过物质奖励强化药物检测阴性的结果。Contingency management is one of the most clearly effective evidence-based interventions for substance abuse treatment.
+
+## 与其他概念的关联 / Related Concepts
+
+- **操作性条件反射 / Operant Conditioning** → [operant-conditioning.md](operant-conditioning.md) — 行为矫正的理论基础。Theoretical foundation of behavior modification.
+- **强化 / Reinforcement** → [reinforcement.md](reinforcement.md) — 行为矫正的核心操作机制。Core operational mechanism of behavior modification.
+- **强化时程表 / Schedules of Reinforcement** → [schedules.md](schedules.md) — 控制行为矫正中强化递送的时间模式。Controls temporal patterns of reinforcement delivery in behavior modification.
+- **激进行为主义 / Radical Behaviorism** → [radical-behaviorism.md](radical-behaviorism.md) — 行为矫正的哲学基础。Philosophical foundation of behavior modification.
+- **认知行为治疗（CBT） / Cognitive Behavioral Therapy** — CBT在行为矫正的基础上整合了认知重建技术，代表了行为治疗与认知治疗的融合。CBT integrates cognitive restructuring techniques on top of behavior modification.
+- **积极行为支持（PBS） / Positive Behavior Support** — PBS是行为矫正在教育和社区环境中的发展形态，强调预防、功能评估和系统性的环境改变。PBS is the evolution of behavior modification in educational and community settings.
+
+## 东西方对话 / East-West Dialogue
+
+行为矫正的方法论与儒家的"礼乐教化"传统有有趣的对话空间。儒家认为，通过礼（外在行为规范）和乐（内在情感熏陶）的系统性训练，个体可以逐步内化道德品质。这与行为矫正中通过系统性的环境安排和强化程序来塑造期望行为的思路有结构上的相似性。荀子的"化性起伪"学说——即通过后天的人为教化来转化先天的自然本性——与行为矫正的核心理念尤为接近。
+
+Behavior modification methodology has interesting dialogue space with the Confucian tradition of "ritual-musical education" (liyue jiaohua). Confucianism holds that through systematic training in ritual (external behavioral norms) and music (internal emotional cultivation), individuals can gradually internalize moral qualities. This is structurally similar to behavior modification's approach of shaping desired behavior through systematic environmental arrangement and reinforcement. Xunzi's doctrine of "transforming nature through artifice" (hua xing qi wei) — transforming innate nature through acquired cultivation — is particularly close to the core idea of behavior modification.
+
+在佛教修行传统中，"戒律"（sila）系统也可以被视为一种行为矫正程序：通过明确定义目标行为（持戒）、提供社会支持（僧团共修）、安排强化（功德回向、果报信念），系统地塑造和维持期望的道德行为。
+
+In Buddhist practice traditions, the "precepts" (sila) system can also be viewed as a behavior modification procedure: clearly defining target behaviors (precept observance), providing social support (community practice), and arranging reinforcement (merit dedication, karmic result beliefs) to systematically shape and maintain desired moral behavior.
+
+## 进阶阅读 / Further Reading
+
+- Kazdin, A.E. (2012). *Behavior Modification in Applied Settings* (7th ed.). Long Grove, IL: Waveland Press.
+- Cooper, J.O., Heron, T.E., & Heward, W.L. (2020). *Applied Behavior Analysis* (3rd ed.). Upper Saddle River, NJ: Pearson. — ABA领域标准教科书 / Standard ABA textbook.
+- Miltenberger, R.G. (2016). *Behavior Modification: Principles and Procedures* (6th ed.). Boston: Cengage.
+- Baer, D.M., Wolf, M.M., & Risley, T.R. (1968). "Some current dimensions of applied behavior analysis." *Journal of Applied Behavior Analysis*, 1(1), 91-97.
+- Ayllon, T. & Azrin, N.H. (1968). *The Token Economy: A Motivational System for Therapy and Rehabilitation*. New York: Appleton-Century-Crofts.

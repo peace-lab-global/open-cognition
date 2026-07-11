@@ -1,0 +1,70 @@
+---
+id: dennett-works
+title: 丹尼特作品总览 · Daniel Dennett Works
+type: works-catalogue
+domain: philosophy
+school: analytic
+thinker: dennett
+tags: [dennett, works, bibliography]
+cross-refs:
+  - id: dennett
+    relation: thinker
+---
+
+# 丹尼特作品总览 · Daniel Dennett Works
+
+## 一、核心专著 / Major Monographs
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1969 | *Content and Consciousness* | 《内容与意识》 | 首部专著 |
+| 1978 | *Brainstorms: Philosophical Essays on Mind and Psychology* | 《头脑风暴》 | 意向立场、心灵哲学 |
+| 1984 | *Elbow Room: The Varieties of Free Will Worth Wanting* | 《肘部空间》 | 自由意志相容论 |
+| 1987 | *The Intentional Stance* | 《意向立场》 | 系统阐述意向立场 |
+| 1991 | *Consciousness Explained* | 《意识的解释》 | 多重草稿模型 |
+| 1995 | *Darwin's Dangerous Idea* | 《达尔文的危险观念》 | 进化作为万能酸 |
+| 1996 | *Kinds of Minds: Toward an Understanding of Consciousness* | 《心智的种类》 | 意识的层次 |
+| 2003 | *Freedom Evolves* | 《自由的进化》 | 进化论与自由意志 |
+| 2006 | *Breaking the Spell: Religion as a Natural Phenomenon* | 《破除魔咒》 | 宗教的自然主义解释 |
+| 2013 | *Intuition Pumps and Other Tools for Thinking* | 《直觉泵》 | 哲学方法论 |
+| 2017 | *From Bacteria to Bach and Back* | 《从细菌到巴赫》 | 文化进化与理解 |
+| 2023 | *I've Been Thinking* | 《我一直在思考》 | 回忆录 |
+
+## 二、重要论文 / Key Papers
+
+- "Intentional Systems" (1971) — 意向立场的最初阐述
+- "Where Am I?" (1978) — 个人同一性的思想实验
+- "Real Patterns" (1991) — 本体论与模式
+- "Facing Backward on the Problem of Consciousness" (1995) — 回应查尔默斯
+- "The Unimagined Preposterousness of Zombies" (1998) — 反驳哲学僵尸
+- "Are We Explaining Consciousness Yet?" (2001) — 意识研究的自我评估
+- "The Zombic Hunch: The Myth of Dualism" (2005) — 反二元论
+- "Postmodernism and Truth" (2004) — 后现代主义批判
+
+## 三、合编与对话 / Edited Volumes and Dialogues
+
+- *The Mind's I* (with D.R. Hofstadter, 1981) — 心智哲学经典文集
+- *Consciousness in Modern Science* (with A. Marcel & E. Bisiach, 1988)
+- *The Oxford Handbook of Philosophy of Religion* (contributor, 2005)
+- *Science and Religion: Are They Compatible?* (with A. Plantinga, 2011) — 辩论集
+
+## 四、中译本 / Chinese Translations
+
+- 《意识的解释》（李恒威等译，北京理工大学出版社）
+- 《达尔文的危险观念》（李恒威等译）
+- 《自由的进化》（苏珊译）
+- 《直觉泵和其他思考工具》（冯文婧等译，浙江教育出版社）
+- 《从细菌到巴赫再回来》
+
+## 五、阅读路径
+
+### 入门
+1. *Intuition Pumps* (2013) — 最佳方法论入门
+2. *Kinds of Minds* (1996) — 意识层次，简短可读
+3. "Where Am I?" (1978) — 个人同一性思想实验
+
+### 进阶
+4. *Consciousness Explained* (1991) — 意识理论核心
+5. *The Intentional Stance* (1987) — 系统阐述
+6. *Darwin's Dangerous Idea* (1995) — 进化哲学
+7. *From Bacteria to Bach and Back* (2017) — 最新综合

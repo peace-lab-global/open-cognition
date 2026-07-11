@@ -1,0 +1,99 @@
+---
+id: frankl-viktor.timeline
+title: "维克多·弗兰克尔生平年表 · Viktor Frankl Life Timeline"
+type: timeline
+domain: psychology
+thinker: frankl-viktor
+tags:
+  - 生平
+  - 年表
+  - biography
+  - timeline
+---
+
+# 维克多·弗兰克尔 · Viktor Frankl - 生平年表 / Life Timeline
+
+## 早年与学术形成（1905–1938）/ Early Years and Academic Formation
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1905 | 3月26日生于维也纳，父亲为公务员加布里埃尔·弗兰克尔（Gabriel Frankl），母亲为艾尔莎（Elsa）。/ Born March 26 in Vienna; father Gabriel Frankl was a civil servant, mother Elsa. |
+| 1921 | 16岁时致信弗洛伊德，弗洛伊德将其信发表于《国际精神分析杂志》。/ At 16, wrote to Freud, who published his letter in the *International Journal of Psychoanalysis*. |
+| 1923 | 高中毕业，进入维也纳大学攻读医学。/ Graduated from high school, enrolled at the University of Vienna to study medicine. |
+| 1925 | 在维也纳大学发表关于意义治疗早期理念的演讲；开始与阿德勒学派接触。/ Delivered early lectures on logotherapy ideas at the University of Vienna; began engaging with the Adlerian school. |
+| 1928–1930 | 在维也纳大学完成医学博士学位。/ Completed medical doctorate at the University of Vienna. |
+| 1930 | 开始在维也纳综合医院精神科工作。/ Began working in the psychiatric department of Vienna General Hospital. |
+| 1930–1933 | 为维也纳中学生建立免费咨询中心，开展自杀预防工作。/ Established free counseling centers for Viennese students; conducted suicide prevention work. |
+| 1933–1937 | 在维也纳Steinhof精神病院任女性自杀患者科室主任，治疗约3000名有自杀倾向的女性患者。/ Directed the women's suicide pavilion at Vienna's Steinhof Psychiatric Hospital, treating approximately 3,000 suicidal female patients. |
+| 1937 | 开设私人神经学与精神病学诊所。/ Opened a private practice in neurology and psychiatry. |
+| 1938 | 纳粹德国吞并奥地利（Anschluss）。弗兰克尔被禁止治疗雅利安患者。/ Nazi Germany annexes Austria (Anschluss). Frankl is barred from treating Aryan patients. |
+| 1939 | 获美国签证但选择留在维也纳陪伴父母。将意义治疗手稿缝入大衣衬里。/ Obtains a US visa but chooses to remain in Vienna with his parents. Sewed his logotherapy manuscript into his coat lining. |
+
+## 集中营经历（1942–1945）/ Concentration Camp Years
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1941 | 与第一任妻子蒂莉·格罗瑟（Tilly Grosser）结婚。/ Married his first wife, Tilly Grosser. |
+| 1942 | 9月，弗兰克尔夫妇及其父母被逮捕，送往特莱西恩施塔特（Theresienstadt）集中营。/ In September, Frankl, his wife, and parents were arrested and sent to the Theresienstadt concentration camp. |
+| 1942 | 父亲加布里埃尔在特莱西恩施塔特死于饥饿和肺炎。/ Father Gabriel dies of starvation and pneumonia in Theresienstadt. |
+| 1943 | 在特莱西恩施塔特为囚犯提供心理援助，并组织讲座和讨论小组。/ Provided psychological support to prisoners in Theresienstadt; organized lectures and discussion groups. |
+| 1944 | 10月，弗兰克尔与妻子被送往奥斯维辛。手稿被没收销毁。妻子蒂莉后被转至贝尔根-贝尔森集中营并在那里去世。/ In October, Frankl and his wife were sent to Auschwitz. Manuscript was confiscated and destroyed. Wife Tilly was later transferred to Bergen-Belsen, where she died. |
+| 1944 | 弗兰克尔被转至考费林（Kaufering）和蒂克海姆（Türkheim）集中营——达豪集中营的附属营。/ Frankl was transferred to Kaufering and Türkheim — subcamps of Dachau. |
+| 1945 | 4月27日，被美军第289步兵团解放。母亲艾尔莎在奥斯维辛遇难。兄弟瓦尔特也在集中营中丧生。/ Liberated by the US 289th Infantry Regiment on April 27. Mother Elsa was murdered in Auschwitz. Brother Walter also perished in the camps. |
+
+## 战后重建与理论发展（1945–1969）/ Post-War Reconstruction and Theory Development
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1945 | 返回维也纳，仅用9天凭记忆重写了被销毁的意义治疗手稿——即《...trotzdem Ja zum Leben sagen》。/ Returned to Vienna; rewrote the destroyed logotherapy manuscript from memory in just 9 days — becoming *...trotzdem Ja zum Leben sagen*. |
+| 1945 | 发现妻子、父母和兄弟均已遇难——全家仅他和一个移居澳大利亚的姐姐幸存。/ Discovered that his wife, parents, and brother had all perished — only he and a sister who had emigrated to Australia survived. |
+| 1946 | 出版《...trotzdem Ja zum Leben sagen》和《Ärztliche Seelsorge》两部核心著作。/ Published two core works: *...trotzdem Ja zum Leben sagen* and *Ärztliche Seelsorge*. |
+| 1946 | 任维也纳综合医院（Policlinic）神经科主任——任职长达25年（至1971年）。/ Appointed Head of the Neurological Department at the Vienna Polyclinic Hospital — a position held for 25 years (until 1971). |
+| 1947 | 与第二任妻子埃莱奥诺尔·辛德特纳（Eleonore Schindler）结婚。/ Married his second wife, Eleonore Schindler. |
+| 1948 | 出版《Der unbewusste Gott》（英译：*The Unconscious God*）。/ Published *Der unbewusste Gott* (English: *The Unconscious God*). |
+| 1949 | 获维也纳大学哲学博士学位。/ Received a doctorate in philosophy from the University of Vienna. |
+| 1950 | 创办奥地利医学心理治疗学会（Austrian Medical Society for Psychotherapy）；出版《Homo Patiens》。/ Founded the Austrian Medical Society for Psychotherapy; published *Homo Patiens*. |
+| 1955 | 被任命为维也纳大学神经学与精神病学副教授。/ Appointed Associate Professor of Neurology and Psychiatry at the University of Vienna. |
+| 1959 | 英文译本《Man's Search for Meaning》出版——意义治疗首次系统进入英语世界。/ English translation *Man's Search for Meaning* published — logotherapy's first systematic entry into the English-speaking world. |
+| 1961 | 赴哈佛大学担任客座教授。/ Served as visiting professor at Harvard University. |
+| 1966 | 赴达拉斯南方卫理公会大学担任客座教授。/ Served as visiting professor at Southern Methodist University, Dallas. |
+| 1967 | 出版《Psychotherapy and Existentialism》。/ Published *Psychotherapy and Existentialism*. |
+| 1969 | 出版《The Will to Meaning》——意义意志的系统理论论述。/ Published *The Will to Meaning* — systematic theoretical exposition of the will to meaning. |
+
+## 国际影响与晚年（1970–1997）/ International Influence and Later Years
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1970 | 美国国际大学（圣迭戈）设立弗兰克尔讲席教授职位。/ United States International University (San Diego) established a Frankl Chair Professorship. |
+| 1971 | 从维也纳综合医院退休。/ Retired from the Vienna Polyclinic Hospital. |
+| 1972 | 任杜肯大学（Duquesne University）客座教授。/ Served as visiting professor at Duquesne University. |
+| 1975 | 英文版《The Unconscious God》出版。/ English edition of *The Unconscious God* published. |
+| 1977 | 美国意义治疗学会（Viktor Frankl Institute of Logotherapy）在加利福尼亚成立。/ Viktor Frankl Institute of Logotherapy founded in California. |
+| 1978 | 出版《The Unheard Cry for Meaning》——对现代社会意义危机的深刻批判。/ Published *The Unheard Cry for Meaning* — a profound critique of the modern meaning crisis. |
+| 1983 | 获奥地利共和国科学与艺术一等荣誉十字勋章。/ Received the Grand Decoration of Honour in Gold for Services to the Republic of Austria. |
+| 1984 | 在第三届世界意义治疗大会上发表"悲剧乐观主义"演讲。/ Delivered the "Tragic Optimism" lecture at the Third World Congress of Logotherapy. |
+| 1985 | 《Man's Search for Meaning》被美国国会图书馆评为"美国十大最具影响力书籍"之一。/ *Man's Search for Meaning* named by the Library of Congress as one of the ten most influential books in America. |
+| 1988 | 获教皇授予的圣格雷戈里骑士团十字勋章。/ Received the Cross of Honour of the Order of St. Gregory the Great from the Pope. |
+| 1991 | 《Man's Search for Meaning》全球销量突破900万册。/ *Man's Search for Meaning* surpassed 9 million copies in global sales. |
+| 1992 | 维克多·弗兰克尔研究所（欧洲）在维也纳成立。/ Viktor Frankl Institute (Europe) established in Vienna. |
+| 1995 | 出版《Man's Search for Ultimate Meaning》。/ Published *Man's Search for Ultimate Meaning*. |
+| 1997 | 出版自传性回忆录《Viktor Frankl Recollections》。/ Published autobiographical memoir *Viktor Frankl Recollections*. |
+| 1997 | 9月2日在维也纳因心力衰竭去世，享年92岁。葬于维也纳中央公墓。/ Died September 2 in Vienna of heart failure, aged 92. Buried in the Vienna Central Cemetery. |
+
+## 遗产 / Legacy
+
+- 全球超过150个意义治疗培训和认证机构
+  Over 150 logotherapy training and certification institutes worldwide
+- 《活出生命的意义》全球销量超过1600万册，被译为40余种语言
+  *Man's Search for Meaning* sold over 16 million copies worldwide, translated into over 40 languages
+- 弗兰克尔获29个荣誉博士学位
+  Frankl received 29 honorary doctorates
+- 意义意志量表（PIL等）成为积极心理学和存在心理学的标准测量工具
+  Will to meaning scales (PIL, etc.) became standard measurement tools in positive and existential psychology
+- 弗兰克尔的思想影响了创伤后成长研究、姑息治疗、积极心理学和教育学等多个领域
+  Frankl's thought influenced multiple fields including post-traumatic growth research, palliative care, positive psychology, and education
+
+---
+
+→ 返回主条目 [README](README.md)
+→ 参见 [著作年表](works.md) | [推荐阅读](reading-list.md)

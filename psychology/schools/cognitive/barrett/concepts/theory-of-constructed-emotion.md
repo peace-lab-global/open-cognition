@@ -1,0 +1,144 @@
+---
+id: barrett-theory-of-constructed-emotion
+title: "情绪构造论 · Theory of Constructed Emotion"
+type: concept
+domain: psychology
+school: cognitive
+thinker: barrett
+tags:
+  - constructed-emotion
+  - emotion-construction
+  - psychological-constructionism
+  - active-inference
+  - prediction
+cross-refs:
+  - id: barrett
+    relation: thinker
+  - id: barrett-affective-realism
+    relation: 批判对象
+  - id: barrett-emotional-granularity
+    relation: 应用
+  - id: barrett-prediction
+    relation: 机制基础
+  - id: barrett-affect
+    relation: 原材料
+  - id: friston
+    relation: 平行
+  - id: religion.buddhism.concepts.abhidharma-mind
+    relation: 平行
+---
+
+# 情绪构造论 · Theory of Constructed Emotion
+
+## 一句话定义 / One-Line Definition
+
+情绪构造论 (Theory of Constructed Emotion) 是巴雷特提出的情绪科学理论, 主张**每次情绪体验都是大脑在当下即时构造的产物**, 而非预存的"情绪回路"被外部刺激触发。构造的原材料包括内感受信号 (interoception)、过去经验形成的概念库 (conceptual knowledge) 和当下的社会物理情境 (context)。
+
+## 核心机制 / Core Mechanism
+
+### 情绪构造的三要素 / Three Ingredients of Construction
+
+巴雷特将情绪构造描述为大脑在每一个瞬间进行的一场"推断" (inference):
+
+**1. 内感受信号 (Interoceptive Signals)**
+身体持续向大脑发送关于内脏状态、心率、血压、血糖、激素水平等的信号。这些信号构成**身体预算** (body budget) 的底层数据 — 即 affect (愉悦-不愉悦 × 激活-平静)。这是情绪构造的**原材料**。
+
+**2. 概念库 (Conceptual Knowledge)**
+你过去的所有经验 — 尤其是你在特定文化中学习到的**情绪概念** (emotion concepts) — 形成一个庞大的预测模板库。当你面对一个新的情境时, 大脑利用这些概念来"分类" (categorize) 内感受信号。你学到过"愤怒"的概念, 你的大脑才能将某种身体状态构造为"愤怒"。
+
+**3. 当下情境 (Immediate Context)**
+同一个身体状态在不同的情境中被构造为不同的情绪。心跳加速在过山车上是"兴奋", 在黑暗的小巷中是"恐惧", 在与对手对峙时是"愤怒"。情境决定了大脑选择哪个概念来构造体验。
+
+### 构造过程 / The Construction Process
+
+构造不是有意识的"思考", 而是大脑自动的、瞬间的预测过程:
+
+1. 大脑接收内感受信号 (例如: 心跳加速、胃部紧缩)
+2. 大脑利用过去经验进行**预测** (prediction): "在当前情境下, 这种身体状态最可能意味着什么?"
+3. 预测与感官输入进行比较, 产生**预测误差** (prediction error)
+4. 大脑选择最能解释预测误差的**情绪概念** (emotion concept)
+5. 一个情绪实例被**构造** (constructed) — 你"感到"愤怒、恐惧或兴奋
+
+这个过程发生在你意识到它之前。你不是先"感到"一个模糊的情绪然后再"想"它是什么; 你的大脑在你有意识的体验之前就已经完成了构造。
+
+## 发展脉络 / Development
+
+### 前身: 心理建构主义传统 / Predecessors
+
+情绪构造论不是凭空出现的, 它属于一个更大的**心理建构主义** (psychological constructionism) 传统:
+
+- **William James (1884)**: "情绪是对身体变化的感知" — 身体优先于情绪体验
+- **Stanley Schachter & Jerome Singer (1962)**: 情绪二因素理论 (Two-Factor Theory) — 生理唤醒 + 认知标注 = 情绪
+- **James Russell (1980s)**: 情感的环状模型 (Circumplex Model) — affect 的二维空间 (valence × arousal)
+- **Kristen Lindquist & Barrett (2000s)**: 概念行为理论 (Conceptual Act Theory) — 构造论的直接前身
+
+### 从批判到建构 / From Critique to Construction
+
+- **2006**: Barrett 发表 "Are emotions natural kinds?" — 对基本情绪论的系统批判
+- **2011**: Barrett 发表 "Bridging token identity theory and supervenience theory" — 情绪与大脑的哲学分析
+- **2014**: Barrett 发表 "The conceptual act theory: A précis" — 构造论的早期系统表述
+- **2017**: *How Emotions Are Made* 与 "The theory of constructed emotion" 同步发表 — 构造论的完整框架
+
+### 与预测加工的整合 / Integration with Predictive Processing
+
+2017 年的论文副标题是 "an active inference account", 表明构造论已经与 Friston 的**主动推断** (active inference) 框架整合。在这一框架中:
+
+- 大脑是一台预测机器, 其核心目标是**最小化预测误差** (minimize prediction error)
+- 情绪是大脑对内感受信号的**最佳推断** (best inference) — 即最能解释当前身体状态的情境模型
+- 情绪调节是**主动推断** (active inference) — 通过改变行为来改变感官输入, 从而改变预测
+
+## 临床应用 / Clinical Applications
+
+### 1. 情绪障碍的重新理解 / Rethinking Emotional Disorders
+
+构造论为情绪障碍提供了新的解释框架: 焦虑症、抑郁症等不是"恐惧回路"或"悲伤回路"的过度激活, 而是**情绪构造过程的系统性偏差** (systematic bias in the construction process):
+
+- **焦虑症**: 大脑过度预测威胁, 将模糊的内感受信号系统性地构造为"危险"
+- **抑郁症**: 身体预算长期透支 (低激活-不愉悦), 概念库偏向消极, 导致大脑系统性地将体验构造为"无望"
+- **边缘型人格障碍**: 情绪粒度极低, 无法区分不同的负面情绪, 导致情绪体验的"洪水" (flooding)
+
+### 2. 治疗方向 / Therapeutic Directions
+
+- **提升情绪粒度**: 教患者更精细的情绪词汇和概念, 扩展其概念库
+- **概念库的重新校准**: 通过认知重评 (cognitive reappraisal) 引入新的情绪概念来重新构造体验
+- **身体预算的修复**: 通过改善睡眠、运动、营养来修复 affect 的底层状态
+- **预测误差的训练**: 通过正念练习增强对预测误差的觉察, 从而在构造过程中拥有更多的"选择空间"
+
+## 关联概念 / Related Concepts
+
+- [情感实在论批判](affective-realism.md) — 构造论的批判对象
+- [情绪粒度](emotional-granularity.md) — 构造论的核心应用指标
+- [预测与主动推断](prediction.md) — 构造论的计算机制
+- [情感/身体预算](affect.md) — 构造论的原材料
+
+## 东西方对话 / East-West Dialogue
+
+### 与阿毗达磨的深层平行 / Deep Parallel with Abhidharma
+
+阿毗达磨 (Abhidharma) 将心识事件 (citta) 分析为心王与心所的组合, 认为没有一个固定的"贪心"或"嗔心"实体, 只有**特定心所组合**在特定因缘条件下的暂时呈现。这与情绪构造论的核心主张惊人地一致:
+
+| 阿毗达磨 | 情绪构造论 |
+|---|---|
+| 心王 (citta) = 基本觉知 | 大脑的基本预测活动 |
+| 心所 (caitta) = 心理因素 | 内感受、概念、情境的组合要素 |
+| 因缘 (pratyaya) = 条件 | 当下情境 (context) |
+| 无常 (anitya) = 非固定性 | 情绪是事件 (event), 非实体 (entity) |
+| 受蕴 (vedanā) = 感受 | affect (身体预算) |
+
+### 与禅宗"念念不住"的对话 / Dialogue with Zen "Non-abiding"
+
+禅宗强调"应无所住而生其心" — 不执着于任何一个心念。从构造论看, 每一个"情绪"都是一个瞬间的构造, 本身没有固定的本质。当你能觉察到情绪的构造性 — 它是如何被内感受、概念和情境所构造的 — 你就获得了一种**不执着** (non-attachment) 的认知自由。
+
+## 常见误读 / Common Misreadings
+
+- **误读**: "构造论否认情绪的存在" → **正解**: 情绪是真实的体验事件, 但不是预存的自然类。构造论改变的是情绪的本体论地位, 不是否认其现象学真实性。
+- **误读**: "构造论意味着我们可以随意'选择'情绪" → **正解**: 构造是自动的无意识过程。但通过扩展概念库和修复身体预算, 我们可以**间接地**影响构造的方向。
+- **误读**: "所有情绪都是'文化建构的', 与生物学无关" → **正解**: 构造论承认大脑和身体的生物学基础, 但否认情绪**类别** (categories) 的生物学固定性。
+
+## 进阶阅读 / Further Reading
+
+- Barrett, L. F., *How Emotions Are Made* (2017), Chapters 1-5
+- Barrett, L. F., "The theory of constructed emotion: an active inference account" (2017)
+- Barrett, L. F., "The conceptual act theory: A précis" (2014)
+- Lindquist, K. A., et al., "The brain basis of emotion: A meta-analytic review" (2012)
+- Seth, A., *Being You* (2021), Chapter 7 — 从预测加工视角看情绪

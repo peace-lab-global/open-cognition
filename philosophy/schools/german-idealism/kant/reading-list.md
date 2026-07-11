@@ -1,0 +1,144 @@
+---
+id: kant-reading-list
+title: 康德进阶阅读 · Kant Reading List
+type: reading-list
+domain: philosophy
+school: german-idealism
+thinker: kant
+tags: [kant, bibliography, reading-guide]
+cross-refs:
+  - id: kant
+    relation: thinker
+---
+
+# 康德进阶阅读 · Kant Reading List
+
+## 一、阅读路径
+
+### 入门 (选读 3 篇,约 5 小时)
+
+1. **《道德形而上学奠基》** 全文(约 100 页) -- 伦理学入门首选;定言命令的最佳展示
+2. **《什么是启蒙?》** (约 10 页) -- 启蒙精神的经典表述
+3. **《永久和平论》** (约 30 页) -- 政治哲学短文;直接可感
+
+### 进阶 (4 本,约 50 小时)
+
+4. 《纯粹理性批判》先验感性论 + 先验分析论(A版演绎和B版演绎对照) -- 认识论核心
+5. 《实践理性批判》第一部分 -- 道德法则与自由
+6. 《判断力批判》"审美判断力批判"的"美的分析" -- 美学经典
+7. 《单纯理性限度内的宗教》第一篇 -- 根本恶
+
+### 深潜 (全集 + 研究)
+
+8. 《纯粹理性批判》全书(含先验辩证论和先验方法论)
+9. 《道德形而上学》(法权论 + 德性论)
+10. 遗稿选读(Opus postumum)
+11. 讲演录选读(伦理学、逻辑学、人类学)
+12. Allison / Guyer / Ameriks 等学者的研究专著
+
+## 二、原典 (必读)
+
+### 前批判期
+
+- 《自然通史和天体论》(1755)
+- 就职论文(1770)
+
+### 批判期: 认识论
+
+- 《纯粹理性批判》A版(1781)和B版(1787)
+- 《未来形而上学导论》(1783)
+
+### 批判期: 伦理学
+
+- 《道德形而上学奠基》(1785)
+- 《实践理性批判》(1788)
+- 《道德形而上学》(1797)
+
+### 批判期: 美学与目的论
+
+- 《判断力批判》(1790)
+
+### 批判期: 宗教与政治
+
+- 《单纯理性限度内的宗教》(1793)
+- 《永久和平论》(1795)
+- 《学科之争》(1798)
+
+### 中译本推荐
+
+| 著作 | 译者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《纯粹理性批判》 | 邓晓芒 | 人民出版社,2004 | 注释详尽,学术性强;附有逐节导读 |
+| 《纯粹理性批判》 | 李秋零 | 中国人民大学出版社 | 基于科学院版,全集本 |
+| 《实践理性批判》 | 邓晓芒 | 人民出版社,2003 | 注释详尽 |
+| 《判断力批判》 | 邓晓芒 | 人民出版社,2002 | 注释详尽 |
+| 《道德形而上学奠基》 | 杨云飞 | 人民出版社 | 新近翻译,注释完善 |
+| 《康德著作全集》(9卷) | 李秋零 | 中国人民大学出版社 | 基于科学院版的全集中译 |
+| 《永久和平论》 | 何兆武 | 商务印书馆 | 经典译本,流畅可读 |
+| 《未来形而上学导论》 | 庞景仁 | 商务印书馆 | 经典译本 |
+
+## 三、二手研究
+
+### 经典导论
+
+- Paul Guyer, *Kant*, Routledge, 2006 -- 全面导论,涵盖三大批判
+- Roger Scruton, *Kant: A Very Short Introduction*, Oxford, 2001 -- 极简入门
+- Sebastian Gardner, *Kant and the Critique of Pure Reason*, Routledge, 1999 -- 聚焦第一批判
+- Ralph C.S. Walker, *Kant*, Routledge, 1978 -- 经典导论
+
+### 专论
+
+- Henry Allison, *Kant's Transcendental Idealism: An Interpretation and Defense*, Yale, 2004 (rev. ed.) -- 先验唯心论的最佳辩护;两个层面论的倡导者
+- Norman Kemp Smith, *A Commentary to Kant's 'Critique of Pure Reason'*, 1918 -- 经典逐节注释
+- Karl Ameriks, *Kant's Theory of Mind*, Oxford, 1982 -- 康德心灵哲学
+- Dieter Henrich, *The Unity of Reason: Essays on Kant's Philosophy*, Harvard, 1994 -- 体系性问题
+- Béatrice Longuenesse, *Kant on the Human Standpoint*, Cambridge, 2005 -- 康德的人的立场
+
+### 伦理学专论
+
+- Christine Korsgaard, *The Sources of Normativity*, Cambridge, 1996 -- 康德伦理学的当代建构主义发展
+- Christine Korsgaard, *Creating the Kingdom of Ends*, Cambridge, 1996 -- 论文集
+- Onora O'Neill, *Acting on Principle: An Essay on Kant's Ethics*, Columbia, 1975 -- 定言命令的分析
+- Onora O'Neill, *Constructions of Reason*, Cambridge, 1989 -- 康德实践哲学的政治维度
+- Allen Wood, *Kant's Ethical Thought*, Cambridge, 1999 -- 康德伦理思想的历史语境
+- Barbara Herman, *The Practice of Moral Judgment*, Harvard, 1993 -- 定言命令的实际运用
+
+### 美学与目的论
+
+- Paul Guyer, *Kant and the Claims of Taste*, Harvard, 1979 -- 康德美学的经典研究
+- Henry Allison, *Kant's Theory of Taste*, Cambridge, 2001 -- 审美判断力的诠释
+- Rachel Zuckert, *Kant on Beauty and Biology*, Cambridge, 2007 -- 美学与生物学的关联
+
+### 政治哲学
+
+- Onora O'Neill, *Constructions of Reason*, Cambridge, 1989
+- Katrin Flikschuh, *Kant and Modern Political Philosophy*, Cambridge, 2000
+- Pauline Kleingeld, *Kant and Cosmopolitanism*, Cambridge, 2012
+
+### 比较哲学 (东西方对话)
+
+- 牟宗三《智的直觉与中国哲学》-- 以中国哲学视角重读康德;核心论点:中国哲学(儒释道)具有康德所否认的"智的直觉"
+- 牟宗三《圆善论》-- 将康德的至善论与儒学的圆善观比较
+- 李明辉《儒家与康德》-- 儒学伦理学与康德伦理学的系统比较
+- Stephen Palmquist, *Kant and the Unity of Reason*, 2000 -- 康德哲学与宗教的关联
+
+## 四、传记
+
+- Manfred Kuehn, *Kant: A Biography*, Cambridge, 2001 -- 英文最佳传记;学术性与可读性兼备
+- Karl Vorländer, *Immanuel Kant: Der Mann und das Werk*, 1924 -- 德文经典传记
+- 韩水法《康德传》-- 中文最佳传记;商务印书馆
+- Thomas de Quincey, *The Last Days of Immanuel Kant*, 1827 -- 康德晚年生活的生动记录
+
+## 五、参考工具
+
+- *The Cambridge Companion to Kant*, ed. Paul Guyer, 1992 -- 剑桥指南;涵盖三大批判
+- *The Cambridge Companion to Kant and Modern Philosophy*, ed. Paul Guyer, 2006 -- 康德与现代哲学
+- *Kant-Lexikon*, ed. Rudolf Eisler, 1930 (reprint) -- 康德术语辞典(德文)
+- Stanford Encyclopedia of Philosophy, "Immanuel Kant" -- 在线哲学百科全书;持续更新
+- Kant-Studien (Zeitschrift) -- 康德研究专业期刊
+
+## 六、网络资源
+
+- [Kant on the Web](https://www.hkbu.edu.hk/~ppp/) -- Stephen Palmquist 的康德资源网站
+- [Kant's Writings (Akademie-Ausgabe)](https://korpora.zim.uni-duisburg-essen.de/kant/) -- 科学院版德文原文在线
+- [Cambridge Edition (online)](https://www.cambridge.org/core/series/cambridge-edition-of-the-works-of-immanuel-kant) -- 剑桥版英文翻译

@@ -1,0 +1,71 @@
+---
+id: psychology.cognitive.beeman.works
+title: "比曼著作年表 · Mark Beeman Works"
+type: works
+parent: psychology.cognitive.beeman
+tags: [著作, works, bibliography, 顿悟, 创造性认知]
+---
+
+# 比曼著作年表 · Mark Beeman Works
+
+> 按时间顺序列出 Mark Beeman 的主要学术著作与论文。
+>
+> A chronological listing of Mark Beeman's major academic works and publications.
+
+---
+
+## 期刊论文 / Journal Articles
+
+| 年份 / Year | 标题 / Title | 期刊 / Journal | 合著者 / Co-authors | 意义 / Significance |
+|---|---|---|---|---|
+| 1993 | "Right hemisphere semantic processing" | *Brain and Language* | — | 确立右脑语义处理的研究方向 / Established right hemisphere semantic processing research direction |
+| 1994 | "Right hemisphere contributions to lexical semantic processing" | *Brain and Language* | — | 右脑在词汇语义处理中的角色 / Role of right hemisphere in lexical semantic processing |
+| 1998 | "Coarse semantic coding" | *Brain and Language* | E.M. Bowden | 提出右脑粗编码理论的核心论文 / Core paper proposing the right hemisphere coarse coding theory |
+| 1998 | "Getting the right idea: Semantic activation in the right hemisphere may help solve insight problems" | *Psychological Science* | E.M. Bowden | 首次将右脑语义理论与顿悟问题解决联系 / First link between right hemisphere semantics and insight problem-solving |
+| 2004 | "Neural activity when people solve verbal problems with insight" | *PLoS Biology* | M. Jung-Beeman, E.M. Bowden, J. Kounios, et al. | 首次报告顿悟时刻的 γ 波信号 / First report of gamma wave signal during insight |
+| 2006 | "The prepared mind: Neural activity prior to problem insight" | *Psychological Science* | J. Kounios, et al. | 揭示顿悟前的大脑准备状态 / Revealed the brain's preparatory state before insight |
+| 2008 | "The creative brain" | *Scientific American Mind* | J. Kounios | 面向公众的创造性大脑科普 / Popular science on the creative brain |
+| 2009 | "The Aha! Moment: The cognitive neuroscience of insight" | *Current Directions in Psychological Science* | J. Kounios | 系统总结顿悟的神经科学研究 / Systematic summary of insight neuroscience |
+| 2011 | "Insight and the right hemisphere: Evidence from behavioral and electrophysiological data" | *Cognitive, Affective, & Behavioral Neuroscience* | — | 行为与电生理证据的整合 / Integration of behavioral and electrophysiological evidence |
+
+---
+
+## 专著 / Monographs
+
+| 年份 / Year | 标题 / Title | 出版社 / Publisher | 合著者 / Co-authors | 意义 / Significance |
+|---|---|---|---|---|
+| 1998 | *Right Hemisphere Language Comprehension: Perspectives from Cognitive Neuroscience* (编著) | Lawrence Erlbaum Associates | C. Chiarello (co-editor) | 右脑语言理解的研究文集 / Research anthology on right hemisphere language comprehension |
+| 2015 | *The Eureka Factor: Aha! Moments, Creative Insight, and the Brain* | Random House | J. Kounios | 面向公众的顿悟科学专著 / Popular science monograph on insight science |
+
+---
+
+## 书章 / Book Chapters
+
+| 年份 / Year | 标题 / Title | 收录于 / In | 意义 / Significance |
+|---|---|---|---|
+| 1998 | "Coarse semantic coding" | *Right Hemisphere Language Comprehension* (Beeman & Chiarello, Eds.) | 粗编码理论的详细阐述 / Detailed exposition of coarse coding theory |
+| 2003 | "Hemispheric asymmetry and the creative process" | *The International Handbook of Creativity* | 半球不对称与创造力 / Hemispheric asymmetry and creativity |
+
+---
+
+## 重要演讲 / Key Presentations
+
+| 年份 / Year | 场合 / Venue | 主题 / Topic |
+|---|---|---|
+| 2006 | Cognitive Neuroscience Society | 顿悟的神经机制前沿 / Frontiers in neural mechanisms of insight |
+| 2010 | Association for Psychological Science | 创造性思维的双路径 / Dual pathways of creative thinking |
+| 2016 | Various (book tour) | *The Eureka Factor* 公众讲座 / Public lectures on *The Eureka Factor* |
+
+---
+
+## 备注 / Notes
+
+- Beeman 早期以 "Mark Jung-Beeman" 发表论文（Jung 为其母姓），后期统一使用 "Mark Beeman"。检索文献时需注意两个名字。
+- Beeman published under "Mark Jung-Beeman" in his early career (Jung being his mother's maiden name), later unifying to "Mark Beeman." Both names should be used when searching the literature.
+
+- 其 h-index 和引用数据可通过 Google Scholar 或 Web of Science 查询。
+- Citation metrics (h-index, etc.) can be found via Google Scholar or Web of Science.
+
+---
+
+**相关条目 / See Also**: [README](README.md) · [年谱](timeline.md) · [进阶阅读](reading-list.md)

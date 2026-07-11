@@ -1,0 +1,48 @@
+---
+id: russell-works
+title: 罗素著作导读 · Russell Works Guide
+type: works
+thinker: russell
+domain: philosophy
+school: analytic
+---
+
+# 罗素著作导读 / Russell Works Guide
+
+## 逻辑与数学基础 / Logic and Mathematical Foundations
+
+| 著作 / Work | 年份 / Year | 核心内容 / Core Content |
+|---|---|---|
+| *The Principles of Mathematics* | 1903 | 逻辑主义纲领的首次阐述 / First exposition of logicist program |
+| *Principia Mathematica* (与怀特海) | 1910–1913 | 从逻辑公理推导数学 / Deriving mathematics from logical axioms |
+| "On Denoting" | 1905 | 描述理论 / Theory of descriptions |
+| *Introduction to Mathematical Philosophy* | 1919 | 《数学原理》的通俗导读 / Popular guide to *Principia* |
+
+## 哲学核心著作 / Core Philosophical Works
+
+| 著作 / Work | 年份 / Year | 核心内容 / Core Content |
+|---|---|---|
+| *The Problems of Philosophy* | 1912 | 认识论导论 / Introduction to epistemology |
+| *Our Knowledge of the External World* | 1914 | 逻辑构造方法 / Method of logical construction |
+| *The Philosophy of Logical Atomism* | 1918 | 逻辑原子主义系统阐述 / Systematic exposition of logical atomism |
+| *The Analysis of Mind* | 1921 | 中立一元论 / Neutral monism |
+| *The Analysis of Matter* | 1927 | 物理学与认识论 / Physics and epistemology |
+| *An Inquiry into Meaning and Truth* | 1940 | 语言与经验的关系 / Language and experience |
+| *Human Knowledge: Its Scope and Limits* | 1948 | 知识的范围 / Scope of knowledge |
+
+## 通俗哲学与社会著作 / Popular Philosophy and Social Works
+
+| 著作 / Work | 年份 / Year | 核心内容 / Core Content |
+|---|---|---|
+| *History of Western Philosophy* | 1945 | 西方哲学通史 / General history of Western philosophy |
+| *The Conquest of Happiness* | 1930 | 幸福的哲学 / Philosophy of happiness |
+| *Marriage and Morals* | 1929 | 性伦理 / Sexual ethics |
+| *Power: A New Social Analysis* | 1938 | 权力分析 / Analysis of power |
+| *The Autobiography of Bertrand Russell* | 1967–69 | 三卷自传 / Three-volume autobiography |
+
+## 推荐入门路径 / Recommended Entry Paths
+
+1. **初学者 / Beginners**: 《哲学问题》→ "On Denoting" → 《逻辑原子主义哲学》
+2. **逻辑学 / Logic**: *Principles of Mathematics* → "On Denoting" → *Principia Mathematica* 导论
+3. **社会思想 / Social Thought**: 《幸福之路》→ 《西方哲学史》→ 自传
+4. **认识论 / Epistemology**: 《哲学问题》→ *Our Knowledge* → *Human Knowledge*

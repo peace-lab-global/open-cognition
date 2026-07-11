@@ -1,0 +1,156 @@
+---
+id: trace
+title: 踪迹 · Trace
+type: concept
+parent: derrida
+domain: philosophy
+school: post-structuralism
+tags:
+  - 踪迹
+  - trace
+  - archi-trace
+  - 擦除
+  - sous-rature
+aliases:
+  - 踪迹
+  - Trace
+  - Archi-trace
+  - 原初踪迹
+created: 1967
+---
+
+# 踪迹 · Trace
+
+> *"The trace is not a presence but the simulacrum of a presence that dislocates, displaces, and refers."*
+> *"踪迹不是在场，而是一种在场的拟像——它错位、位移并指涉。"*
+> — Jacques Derrida, *Speech and Phenomena* / *声音与现象* (1967)
+
+---
+
+## 一句话定义 · One-Line Definition
+
+**踪迹是每一个符号内部所携带的、它所不是之物的痕迹；它既是意义得以可能的条件，也是"纯粹在场"永远不可能的原因。**
+
+*The trace is the mark carried within every sign of what it is not; it is the condition that makes meaning possible, and the reason "pure presence" is forever impossible.*
+
+---
+
+## 核心命题 · Core Proposition
+
+不存在纯粹的"当下"。任何看似自足在场的元素——一个语音、一个概念、一个"我"——都已经被**它所不是之物的痕迹**所渗透。
+
+- "现在" 已经携带着 "刚刚" 的残留，以及 "即将" 的提前；
+- "我" 已经携带着他者的语言、他者的记忆、他者的欲望；
+- "这个词" 已经携带着它没有被说出的所有其他词的回声。
+
+这种"携带"就是踪迹。踪迹**不是一个实体**，它是一种"运动"：既**铭刻**又**擦除**自己。
+
+*There is no pure "present." Any element that appears self-sufficiently present — a speech-sound, a concept, an "I" — is already penetrated by **the mark of what it is not**. The "now" carries the residue of the "just-past" and the anticipation of the "about-to-be"; the "I" carries the language, memory, and desire of others; "this word" carries the echo of all the words not spoken. This "carrying" is the trace. The trace is **not a substance** but a movement: it inscribes and erases itself at once.*
+
+---
+
+## 踪迹 vs. 在场形而上学 · Trace vs. Metaphysics of Presence
+
+西方哲学传统（亚里士多德 → 笛卡尔 → 胡塞尔）预设：
+- 有一个"活的当下" (*lebendige Gegenwart*)；
+- 在这个当下里，主体可以与自己**完全在场**；
+- 思想、意义、真理在此刻"自我呈现"。
+
+德里达在《声音与现象》(*Voice and Phenomenon*, 1967) 中细读胡塞尔的"内在时间意识"后论证：
+
+> 即使在最纯粹的"内在独白"中，主体也无法与自己完全在场——因为"当下"本身已经是一个**延异的效应**，已经是由"滞留" (*retention*) 与"前摄" (*protention*) 所构成的差异网络。
+
+因此：**在场不是本源，在场是踪迹的效应**。踪迹比在场更"原初"——虽然"原初"这个词本身必须被划掉（*sous rature*）。
+
+*Western philosophy (Aristotle → Descartes → Husserl) presupposes a "living present" where the subject is fully present to itself; thought, meaning, truth self-present themselves in that instant. In *Voice and Phenomenon* (1967), Derrida reads Husserl's "inner time-consciousness" and argues: even in the most intimate "inner monologue," the subject cannot be fully present to itself — because the "present" is already an **effect of différance**, already constituted by the differential network of retention and protention. Hence: **presence is not originary; presence is an effect of the trace.** The trace is more "originary" than presence — although "originary" itself must be placed under erasure (*sous rature*).*
+
+---
+
+## 原初踪迹 · Archi-Trace (*Archi-trace*)
+
+德里达有时用"原初踪迹"来指称踪迹的最激进形态：**不是某个具体踪迹，而是让一切踪迹成为可能的踪迹性结构本身**。
+
+- 它不是"第一个踪迹"（那会预设一个起源）；
+- 它是"踪迹的踪迹"——踪迹性本身；
+- 它**没有起源**，因为起源本身已经是原初踪迹的效应。
+
+原初踪迹与延异几乎是同义词：它们都指称那个**让本源成为可能又使之不可能**的运动。
+
+*Derrida sometimes uses "archi-trace" to name the most radical form of trace: **not a particular trace but the trace-structure that makes any trace possible**. It is not the "first trace" (that would presuppose an origin); it is the "trace of the trace" — trace-icity itself. It has **no origin**, because origin is already an effect of the archi-trace. Archi-trace is nearly synonymous with différance: both name the movement that **makes origin possible while also making it impossible**.*
+
+---
+
+## 擦除 · Erasure (*Sous Rature*)
+
+踪迹的逻辑导致一个书写实践：**划掉** (*sous rature*)。这是德里达从海德格尔那里继承并改造的技术：
+
+- 写下某个词（如"存在"、"本源"、"真理"）；
+- 然后划掉它——但仍然让它可读。
+
+例如：~~本源~~、~~存在~~。
+
+为什么？因为这些词无法被丢弃（我们没有别的语言），但它们也不能被直接肯定（它们承载着形而上学的遗产）。划掉，就是在**既使用又质疑**同一个词。
+
+踪迹本身就是"被划掉的在场"：它既在那里，又不在那里；既铭刻，又擦除。
+
+*The logic of the trace leads to a writing practice: **erasure** (*sous rature*), a technique Derrida inherits from Heidegger and transforms. Write a word (e.g., "Being," "origin," "truth"); cross it out; yet leave it legible. Why? Because these words cannot be discarded (we have no other language) but cannot be affirmed directly (they carry the metaphysical heritage). Erasure is to **use and question the same word at once**. The trace itself is "presence under erasure": both there and not there, inscribed and erased.*
+
+---
+
+## 踪迹 vs. 索引/征兆 · Trace vs. Index/Symptom
+
+不要把德里达的"踪迹"等同于日常语言的"痕迹"：
+
+| 概念 · Concept | 特征 · Feature |
+|---|---|
+| 普通痕迹 · ordinary trace | 指向一个过去在场过的东西（脚印指向曾经走过的人） / Points to a past presence (footprint points to the person who walked). |
+| 征兆 · symptom | 指向一个隐藏的在场（疾病） / Points to a hidden presence (illness). |
+| 德里达的踪迹 · Derridean trace | **不指向任何在场的东西**；它本身就是"不在场之在"的结构。 / **Points to no presence**; it is itself the structure of "absence-in-presence." |
+
+踪迹不是"某个东西留下的印记"；踪迹是"让'留下印记'这件事成为可能的结构"。
+
+*The Derridean trace is not "the imprint left by something"; it is "the structure that makes 'leaving an imprint' possible at all."*
+
+---
+
+## 与相关思想家的关系 · Relations to Other Thinkers
+
+| 思想家 · Thinker | 关系 · Relation |
+|---|---|
+| 海德格尔 · Heidegger | "存在的踪迹"（*Spur des Seins*）；划掉书写。 / "Trace of Being"; erasure writing. |
+| 列维纳斯 · Levinas | "他者的踪迹"作为伦理的起点。 / "Trace of the Other" as ethical starting point. |
+| 弗洛伊德 · Freud | 1925年《神奇书写板札记》(*A Note upon the Mystic Writing-Pad*) —— 德里达在《书写与差异》中细读此文，把弗洛伊德的记忆模型解构为踪迹理论。 / Freud's *Note upon the Mystic Writing-Pad* (1925) — Derrida reads it in *Writing and Difference* and deconstructs Freud's memory model into the trace theory. |
+| 本雅明 · Benjamin | "光晕" (*aura*) 与"踪迹"的平行：对象回望我们的能力。 / Parallel between aura and trace: the object's capacity to look back. |
+| 南希 · Nancy | "世界的踪迹"：南希在《世界的意义》中发展了德里达的踪迹论。 / "Trace of the world": Nancy develops Derrida's trace theory in *The Sense of the World*. |
+
+---
+
+## 当代应用 · Contemporary Applications
+
+1. **文学理论** · Literary theory：文本中的"沉默"、"空白"、"未说出"被读作踪迹；Paul de Man 的修辞阅读。
+2. **档案理论** · Archive theory：德里达 1995 年《档案病》(*Mal d'archive* / *Archive Fever*) 把踪迹概念扩展到制度层面。
+3. **数字媒体** · Digital media：超文本链接、元数据、cookie —— 踪迹概念在技术层面的字面化；George Landow 直接把 hypertext 等同于踪迹网络。
+4. **创伤研究** · Trauma studies：Cathy Caruth (*Unclaimed Experience*, 1996) 用踪迹概念分析创伤的"延迟到达"。
+5. **动物研究** · Animal studies：德里达晚年 *L'animal que donc je suis* (2006, posth.) 把踪迹概念延伸到"动物的凝视"。
+
+---
+
+## 常见误读 · Common Misreadings
+
+1. **"踪迹 = 一种神秘主义"** → 踪迹是一个严格的结构性概念，不是神秘体验。 / "Trace = a mysticism" → Trace is a rigorous structural concept, not a mystical experience.
+2. **"踪迹可以被找到"** → 踪迹永远已经被擦除；我们能找到的只是踪迹的踪迹。 / "The trace can be found" → The trace is already erased; what we find is the trace of the trace.
+3. **"踪迹是对在场的否定"** → 踪迹既不是在场也不是不在场；它超越这对立。 / "Trace is the negation of presence" → Trace is neither presence nor absence; it exceeds the opposition.
+4. **"踪迹理论 = 否认历史"** → 恰恰相反：踪迹理论让历史（作为延迟与回返）变得可能。 / "Trace theory = denial of history" → On the contrary: trace theory makes history (as deferral and return) possible.
+
+---
+
+## 延伸阅读 · Further Reading
+
+- Derrida, *Speech and Phenomena* / *声音与现象* (1967), Chapter 4: "The Trace and the Supplement."
+- Derrida, *Of Grammatology* (1967), Part I: "The Written Being / the Being Written."
+- Derrida, *Writing and Difference* (1967), "Freud and the Scene of Writing."
+- Derrida, *Archive Fever* / *档案病* (1995).
+- Wood (ed.), *Derrida: A Critical Reader* (1992), chapter on trace.
+
+→ 返回 [README.md](README.md) · Return to [README.md](README.md)
+→ 相关 · Related: [deconstruction.md](deconstruction.md) · [differance.md](differance.md) · [logocentrism.md](logocentrism.md)

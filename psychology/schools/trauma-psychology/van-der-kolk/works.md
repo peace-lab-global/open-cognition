@@ -1,0 +1,43 @@
+---
+id: van-der-kolk-works
+title: "范德科尔克著作年表 · Bessel van der Kolk Works Chronology"
+type: works
+thinker: van-der-kolk-bessel
+---
+
+# 范德科尔克著作年表 · Bessel van der Kolk Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 著作 / Work | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|
+| 1987 | *Psychological Trauma*（主编 / Editor） | American Psychiatric Press | 首次系统论述创伤的心理生物学框架 / First systematic account of the psychobiology of trauma |
+| 1993 | *Posttraumatic Therapy and Victims of Violence*（主编 / Editor） | Brunner/Mazel | 整合创伤治疗的多种临床取向 / Integrates multiple clinical approaches to trauma treatment |
+| 1996 | *Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society*（与 McFarlane & Weisaeth 合编 / with McFarlane & Weisaeth） | Guilford Press | 里程碑式教科书，确立创伤研究的独立学科地位 / Landmark textbook establishing trauma research as an independent discipline |
+| 2000 | "The Black Hole of Trauma" | *New England Journal of Medicine* | 对创伤记忆本质的重要理论阐述 / Important theoretical statement on the nature of traumatic memory |
+| 2005 | "Developmental Trauma Disorder: Toward a Rational Diagnosis for Children with Multiple Trauma Exposures" | *Psychiatric Annals*, 35(5), 401-408 | 提出儿童创伤的独立诊断框架（DTD） / Proposes independent diagnostic framework for childhood trauma (DTD) |
+| 2014 | *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* | Viking (Penguin) | 全球畅销书，将创伤心理学带入公共话语；售出逾三百万册，翻译为三十余种语言 / Global bestseller bringing trauma psychology into public discourse; sold over 3 million copies, translated into 30+ languages |
+| 2015 | "The Body Keeps the Score: Toward a Neurobiology of PTSD" | *Harvard Review of Psychiatry* | 对PTSD神经生物学的系统性学术综述 / Systematic academic review of PTSD neurobiology |
+| 2015 | 为赫曼《创伤与恢复》新版撰写序言 / Foreword for new edition of Herman's *Trauma and Recovery* | Basic Books | 为赫曼经典著作的新版撰写导言 / Wrote foreword for new edition of Herman's classic |
+
+## 重要论文与章节 / Key Papers and Chapters
+
+- van der Kolk, B.A. (1994). "The Body Keeps the Score: Memory and the Evolving Psychobiology of Posttraumatic Stress." *Harvard Review of Psychiatry*, 1(5), 253-265.
+- van der Kolk, B.A. (1996). "The Body Keeps the Score: Approaches to the Psychobiology of Posttraumatic Stress Disorder." In *Traumatic Stress*. Guilford Press.
+- van der Kolk, B.A. (1998). "Psychopharmacology and Trauma." *Journal of Traumatic Stress*, 11(3).
+- van der Kolk, B.A. (2002). "Beyond the Talking Cure: Somatic Experience and Subcortical Imprints in the Treatment of Trauma." In F. Shapiro (Ed.), *EMDR as an Integrative Psychotherapy Approach*. APA.
+- van der Kolk, B.A. (2006). "When the Body Keeps the Score: The Neurobiology of Traumatic Adaptations." In *Trauma and Recovery*.
+- van der Kolk, B.A., et al. (2007). "Yoga as an Adjunctive Treatment for PTSD." *Journal of Clinical Psychiatry*.
+- van der Kolk, B.A., et al. (2016). "Yoga for PTSD: A Randomized Controlled Trial." *Journal of Traumatic Stress*.
+
+## 评估工具与临床方案 / Assessment Tools and Clinical Protocols
+
+- **发展性创伤障碍（DTD）提案**（2005）：向DSM-V工作组提交的独立诊断框架，虽未最终采纳但深刻影响了DSM-5对PTSD标准的修订和ICD-11对复杂性PTSD的收录。 / Developmental Trauma Disorder (DTD) proposal (2005): independent diagnostic framework submitted to DSM-V task force, profoundly influencing DSM-5 PTSD criteria revision and ICD-11 Complex PTSD inclusion.
+- **创伤中心附属网络培训方案**：在全球培训了数千名创伤治疗师的标准化培训体系。 / Trauma Center Affiliates training program: standardized training system that has trained thousands of trauma therapists worldwide.
+
+## 多媒体与公共传播 / Multimedia and Public Communication
+
+- 多部纪录片与TEDx演讲 / Multiple documentaries and TEDx talks
+- *The Body Keeps the Score* 有声书（2014）/ Audiobook edition (2014)
+- 在线课程与工作坊系列（Trauma Center at Justice Resource Institute）/ Online courses and workshop series
+- 播客访谈（与 Tim Ferriss, Brené Brown, Rich Roll 等对话）/ Podcast interviews (with Tim Ferriss, Brené Brown, Rich Roll, etc.)

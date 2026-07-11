@@ -1,0 +1,87 @@
+---
+id: durkheim-sacred-profane
+title: 神圣与世俗 · Sacred and Profane
+type: concept
+domain: sociology
+thinker: durkheim
+school: classical
+tags:
+  - religion
+  - classification
+  - ritual
+  - collective-effervescence
+cross-refs:
+  - durkheim/solidarity
+  - durkheim/social-facts
+  - weber/protestant-ethic
+  - elias/civilizing-process
+---
+
+# 神圣与世俗 · Sacred and Profane (Sacre et Profane)
+
+## 概念界定 / Concept Definition
+
+在《宗教生活的基本形式》（1912）中，涂尔干提出：一切宗教信仰的共同特征是将世界分为两个根本对立的范畴——"神圣"（sacre / sacred）与"世俗"（profane / profane）。这一二元分类不是宗教的附属特征，而是宗教的本质特征。
+
+In The Elementary Forms of Religious Life (1912), Durkheim proposed: the common feature of all religious beliefs is the division of the world into two fundamentally opposed categories—the "sacred" (sacre) and the "profane" (profane). This binary classification is not an ancillary feature of religion but its essential characteristic.
+
+## 神圣与世俗的特征 / Characteristics of Sacred and Profane
+
+### 神圣事物 / Sacred Things
+- 被禁忌（taboo）所隔离和保护 / Isolated and protected by taboos
+- 引发敬畏、崇敬和恐惧 / Elicit awe, reverence, and fear
+- 只能通过特定仪式接触 / Accessible only through specific rituals
+- 具有超越日常经验的力量 / Possess power transcending everyday experience
+
+### 世俗事物 / Profane Things
+- 日常生活的普通领域 / The ordinary domain of everyday life
+- 不受禁忌保护 / Not protected by taboos
+- 与神圣事物必须严格分离 / Must be strictly separated from sacred things
+
+关键洞见：神圣与世俗的对立不是自然的（任何事物都可以被赋予神圣性），而是社会的——是社会通过集体仪式将某些事物标记为"神圣"的。
+
+Key insight: the sacred/profane opposition is not natural (anything can be endowed with sacrality) but social—it is society that marks certain things as "sacred" through collective rituals.
+
+## 图腾制度分析 / Analysis of Totemism
+
+涂尔干选择澳大利亚部落的图腾制度作为"宗教生活的基本形式"，因为图腾制度是最简单、最原始的宗教形态。在图腾制度中：
+
+Durkheim chose Australian tribal totemism as "the elementary form of religious life" because totemism is the simplest and most primitive form of religion. In totemism:
+
+- **图腾**（动物或植物）是神圣的象征 / The totem (animal or plant) is the sacred symbol
+- **图腾仪式**（集会、舞蹈、献祭）创造和维持神圣性 / Totemic rituals (gatherings, dances, sacrifices) create and maintain sacrality
+- **图腾群体**（氏族）通过共享的图腾认同凝聚为一个道德共同体 / The totemic group (clan) is bound into a moral community through shared totemic identity
+
+涂尔干的惊人结论是：图腾所代表的神圣力量实际上就是社会本身的力量——"神即社会"。当氏族成员在仪式中感受到超越个人的强大力量时，他们体验到的是集体的力量。
+
+Durkheim's startling conclusion: the sacred force represented by the totem is in fact the force of society itself—"God is society." When clan members feel a powerful force transcending the individual in ritual, they are experiencing the force of the collective.
+
+## 集体亢奋 / Collective Effervescence (Effervescence Collective)
+
+涂尔干认为宗教情感的根本源泉是"集体亢奋"——社会成员在集体仪式（集会、舞蹈、歌唱）中体验到的一种强烈的情感高潮。在这种状态下，个人感到自己被一种超越自身的力量所支配，产生敬畏、狂喜和自我超越的体验。
+
+Durkheim argued that the fundamental source of religious sentiment is "collective effervescence"—an intense emotional climax experienced by social members in collective rituals (gatherings, dances, singing). In this state, individuals feel dominated by a force transcending themselves, experiencing awe, ecstasy, and self-transcendence.
+
+集体亢奋不仅产生宗教情感，还是社会创造新概念、新范畴和新价值的时刻。涂尔干甚至认为，人类的基本认知范畴（时间、空间、因果、类别等）都是在集体亢奋的仪式时刻中被创造出来的。
+
+Collective effervescence produces not only religious sentiment but is also the moment when society creates new concepts, new categories, and new values. Durkheim even argued that humanity's basic cognitive categories (time, space, causality, class, etc.) were created in moments of collective effervescence during rituals.
+
+## 学术争论 / Scholarly Debates
+
+### 人类学批评 / Anthropological Criticism
+人类学家批评涂尔干对澳大利亚民族志材料的使用存在偏差和简化。Evans-Pritchard指出涂尔干忽视了大量与图腾制度不相符的民族志证据。然而涂尔干的辩护者指出，他的目标不是人类学的准确性，而是通过"基本形式"揭示宗教的社会本质。
+
+Anthropologists have criticized Durkheim's use of Australian ethnographic materials as biased and oversimplified. Evans-Pritchard noted that Durkheim ignored substantial ethnographic evidence inconsistent with totemism. However, Durkheim's defenders note that his goal was not anthropological accuracy but revealing the social essence of religion through "elementary forms."
+
+### 世俗化理论的挑战 / Challenge of Secularization Theory
+涂尔干的"神即社会"论题暗示宗教将随着社会变迁而改变形式而非消失。这与经典世俗化理论（宗教将随着现代化而消亡）形成了张力。当代"后世俗化"理论（如Casanova的"公共宗教"）更接近涂尔干的立场。
+
+Durkheim's "God is society" thesis implies that religion will change form rather than disappear with social transformation. This creates tension with classical secularization theory (religion will disappear with modernization). Contemporary "post-secularization" theory (e.g., Casanova's "public religion") is closer to Durkheim's position.
+
+## 当代意义 / Contemporary Significance
+
+涂尔干的神圣/世俗二元论和集体亢奋理论在当代仍然具有强大的解释力：
+- **公民宗教：** 国旗、国歌、国家纪念日等现代社会的"神圣事物" / Civil religion: national flags, anthems, memorial days as modern "sacred things"
+- **粉丝文化：** 偶像崇拜中的神圣化过程和粉丝群体的集体亢奋 / Fan culture: sacralization in idol worship and collective effervescence in fan communities
+- **网络仪式：** 网络悼念、"刷屏"现象中的集体情感体验 / Online rituals: collective emotional experiences in online mourning and "viral" phenomena
+- **品牌宗教化：** 苹果、特斯拉等品牌的神圣化过程 / Brand sacralization: the sacralization process of brands like Apple and Tesla

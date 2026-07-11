@@ -1,0 +1,90 @@
+---
+id: socrates-works
+title: 苏格拉底著作年表 · Socrates Works Chronology
+type: works
+parent: socrates
+domain: philosophy
+---
+
+# 苏格拉底著作年表 · Socrates Works Chronology
+
+苏格拉底本人未留下任何著作。以下是记录其思想的主要文献及其年代：
+
+Socrates left no writings of his own. Below are the primary sources documenting his thought, with approximate dates:
+
+---
+
+## 柏拉图的苏格拉底对话录 Plato's Socratic Dialogues
+
+### 早期对话（"苏格拉底式"对话）Early ("Socratic") Dialogues, c. 399–387 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme | 中译 Chinese Translation |
+|----------------|-------------|-----------|------------------------|
+| 《申辩篇》*Apology* | c. 399 | 审判演说；审视的人生 / Trial speech | 王晓朝译《柏拉图全集》 |
+| 《克力同篇》*Crito* | c. 399 | 公民义务 / Civic obligation | 同上 |
+| 《尤西弗罗篇》*Euthyphro* | early | 虔敬的定义 / Definition of piety | 同上 |
+| 《拉凯斯篇》*Laches* | early | 勇气的定义 / Definition of courage | 同上 |
+| 《卡尔米德篇》*Charmides* | early | 节制的定义 / Definition of temperance | 同上 |
+| 《大希庇亚斯篇》*Hippias Major* | early | 美的定义 / Definition of beauty | 同上 |
+| 《小希庇亚斯篇》*Hippias Minor* | early | 有意与无意作恶 / Voluntary vs involuntary wrongdoing | 同上 |
+| 《伊翁篇》*Ion* | early | 诗人的灵感与知识 / Poetic inspiration and knowledge | 同上 |
+| 《普罗泰戈拉篇》*Protagoras* | early-trans. | 德性是否可教 / Is virtue teachable? | 同上 |
+
+### 过渡期对话 Transitional Dialogues, c. 387–375 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《美诺篇》*Meno* | c. 385 | 德性的本质；知识即回忆 / Nature of virtue; knowledge as recollection |
+| 《高尔吉亚篇》*Gorgias* | c. 380 | 修辞术与正义 / Rhetoric and justice |
+| 《克拉底鲁篇》*Cratylus* | c. 380 | 语言与自然 / Language and nature |
+
+### 中期对话（柏拉图的声音渐强）Middle Dialogues (Plato's voice strengthens), c. 375–360 BCE
+
+| 对话录 Dialogue | 约年代 Date | 主题 Theme |
+|----------------|-------------|-----------|
+| 《斐多篇》*Phaedo* | c. 387 | 灵魂不朽 / Immortality of the soul |
+| 《会饮篇》*Symposium* | c. 385 | 爱与美 / Love and beauty |
+| 《理想国》*Republic* | c. 380 | 正义；理念论；哲学王 / Justice; Forms; philosopher-king |
+| 《斐德若篇》*Phaedrus* | c. 370 | 灵魂；修辞术；爱 / Soul; rhetoric; love |
+
+---
+
+## 色诺芬的苏格拉底著作 Xenophon's Socratic Writings
+
+| 著作 Work | 约年代 Date | 特点 Characteristics |
+|-----------|-------------|---------------------|
+| 《回忆苏格拉底》*Memorabilia* | c. 371 | 更务实、更"日常"的苏格拉底 / More pragmatic, everyday Socrates |
+| 《经济论》*Oeconomicus* | c. 362 | 苏格拉底论家政管理 / Socrates on household management |
+| 《会饮篇》*Symposium* | c. 370 | 色诺芬版本的宴会对话 / Xenophon's version of the banquet dialogue |
+| 《苏格拉底的申辩》*Apology* | c. 393 | 色诺芬版本的审判记录 / Xenophon's version of the trial record |
+
+---
+
+## 阿里斯托芬的苏格拉底 Aristophanes' Socrates
+
+| 著作 Work | 年代 Date | 特点 Characteristics |
+|-----------|-----------|---------------------|
+| 《云》*Clouds* | 423 BCE | 喜剧讽刺：苏格拉底被描绘为诡辩家和自然哲学家 / Comic satire: Socrates as sophist and natural philosopher |
+
+---
+
+## "苏格拉底问题" The Socratic Problem
+
+由于苏格拉底本人未留下著作，我们只能通过三位同时代人的记录来了解他——柏拉图、色诺芬和阿里斯托芬。这三位的描述差异巨大，形成了所谓的"苏格拉底问题"（Socratic Problem）：哪一个才是"真正的"苏格拉底？
+
+Since Socrates left no writings, we know him only through three contemporaries—Plato, Xenophon, and Aristophanes. Their portraits differ greatly, creating the "Socratic Problem": which is the "real" Socrates?
+
+- **柏拉图**的苏格拉底是深刻的哲学家 / Plato's Socrates: a profound philosopher
+- **色诺芬**的苏格拉底是务实的道德家 / Xenophon's Socrates: a pragmatic moralist
+- **阿里斯托芬**的苏格拉底是滑稽的诡辩家 / Aristophanes' Socrates: a comic sophist
+
+学界主流倾向于以柏拉图的早期对话录为最可靠的苏格拉底形象，但 Vlastos 等人也指出柏拉图中期对话中的"苏格拉底"实际上已经是柏拉图自己的代言人。
+
+Scholarly consensus favors Plato's early dialogues as the most reliable portrait, but Vlastos and others note that the "Socrates" of Plato's middle dialogues is already Plato's own mouthpiece.
+
+---
+
+## 相关条目 Related Entries
+
+- [苏格拉底 · 苏格拉底](README.md)
+- [柏拉图 · 著作年表](../plato/works.md)

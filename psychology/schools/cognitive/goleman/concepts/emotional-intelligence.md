@@ -1,0 +1,137 @@
+---
+id: goleman-emotional-intelligence
+title: "情绪智力 · Emotional Intelligence · Goleman"
+type: concept
+domain: psychology
+school: cognitive
+thinker: goleman
+tags: [emotional-intelligence, EQ, self-awareness, self-management, social-awareness, relationship-management, amygdala-hijack]
+cross-refs:
+  - id: goleman
+    relation: thinker
+  - id: goleman-social-intelligence
+    relation: 延伸
+  - id: goleman-self-regulation
+    relation: 组成
+  - id: goleman-empathy
+    relation: 组成
+  - id: damasio
+    relation: 平行
+  - id: religion.buddhism.concepts.abhidharma-mind
+    relation: 对照
+---
+
+# 情绪智力 · Emotional Intelligence
+
+## 定义 Definition
+
+**情绪智力** (Emotional Intelligence, EI / EQ) is the capacity to recognize, understand, and manage one's own emotions and those of others, encompassing four interlocking domains: self-awareness, self-management, social awareness, and relationship management. Goleman argues that EQ, more than IQ, determines life success across personal relationships, career advancement, and leadership effectiveness.
+
+**情绪智力**（情商，EQ）是识别、理解和管理自身及他人情绪的能力，涵盖四个相互关联的领域：自我意识、自我管理、社会意识、关系管理。Goleman 主张，EQ 比 IQ 更能预测个人在关系、职业和领导力方面的成功。
+
+## 核心机制 Core Mechanisms
+
+### 1. 四维模型 The Four-Domain Model
+
+Goleman 的 EQ 模型由四个维度构成，每个维度包含若干核心能力：
+
+Goleman's EQ model consists of four domains, each containing several core competencies:
+
+| 维度 Domain | 核心能力 Core Competencies |
+|---|---|
+| **自我意识 Self-Awareness** | 情绪觉察 (Emotional self-awareness)、准确自我评估 (Accurate self-assessment)、自信 (Self-confidence) |
+| **自我管理 Self-Management** | 情绪自控 (Emotional self-control)、适应性 (Adaptability)、成就驱动 (Achievement drive)、乐观 (Optimism)、主动性 (Initiative) |
+| **社会意识 Social Awareness** | 共情 (Empathy)、组织意识 (Organizational awareness)、服务导向 (Service orientation) |
+| **关系管理 Relationship Management** | 影响力 (Influence)、教练与指导 (Coaching)、冲突管理 (Conflict management)、团队协作 (Teamwork)、变革催化 (Change catalyst) |
+
+这四个维度形成一个层级结构：自我意识是基础，自我管理建立在其上；社会意识需要共情能力，关系管理则需要前三者的协同。
+
+These four domains form a hierarchical structure: self-awareness is the foundation, self-management builds upon it; social awareness requires empathic capacity, and relationship management demands the integration of all three preceding domains.
+
+### 2. 杏仁核劫持 Amygdala Hijack
+
+Goleman 提出的标志性概念之一。杏仁核 (amygdala) 是大脑中负责情绪快速反应的古老结构。当杏仁核接收到威胁信号时，它可以在前额叶皮层 (prefrontal cortex) 完成理性分析之前劫持神经系统，触发"战斗-逃跑-冻结"反应。
+
+One of Goleman's signature concepts. The amygdala is an ancient brain structure responsible for rapid emotional response. When the amygdala receives a threat signal, it can hijack the nervous system before the prefrontal cortex completes rational analysis, triggering "fight-flight-freeze" responses.
+
+The key insight is that **the amygdala's information pathway is faster than the cortical pathway** — LeDoux's research showed that sensory signals reach the amygdala via a "low road" (thalamus → amygdala) approximately 40 milliseconds before they reach the cortex via the "high road" (thalamus → cortex → amygdala). This explains why we sometimes react emotionally before we know why.
+
+关键洞见在于：**杏仁核的信息通路快于皮层通路**——LeDoux 的研究表明，感觉信号通过"低通道"（丘脑→杏仁核）到达杏仁核的时间，比通过"高通道"（丘脑→皮层→杏仁核）到达皮层的时间快约 40 毫秒。这解释了为什么我们有时在知道原因之前就已经做出了情绪反应。
+
+### 3. 情绪感染 Emotional Contagion
+
+在 *Primal Leadership* (2002) 中，Goleman 展示了情绪如何在群体中传播——领导者的情绪状态会通过镜像神经元系统"感染"团队成员。一个焦虑的领导者会制造焦虑的团队，一个乐观的领导者会激发团队的积极能量。这种现象被称为"情绪感染" (emotional contagion)，是社会智力的神经基础之一。
+
+In *Primal Leadership* (2002), Goleman demonstrated how emotions spread through groups — a leader's emotional state "infects" team members via the mirror neuron system. An anxious leader creates an anxious team; an optimistic leader energizes the group. This phenomenon, termed "emotional contagion," is one of the neural foundations of social intelligence.
+
+## 发展脉络 Developmental Trajectory
+
+The concept of emotional intelligence has a layered history:
+
+1. **1964** — Michael Beldoch first used the term "emotional intelligence" in a paper on sensitivity to emotional expression
+2. **1990** — Peter Salovey (Yale) and John Mayer (University of New Hampshire) published the first formal academic definition: "the ability to monitor one's own and others' feelings and emotions, to discriminate among them and to use this information to guide one's thinking and actions"
+3. **1995** — Goleman published *Emotional Intelligence*, bringing the concept to mass audiences; the book spent over a year on the *New York Times* bestseller list
+4. **1997** — Reuven Bar-On published the EQ-i (Emotional Quotient Inventory), the first validated psychometric measure of EQ
+5. **2000s-present** — CASEL (co-founded by Goleman) institutionalized EQ in education through SEL programs; EQ assessment became standard in corporate leadership development
+
+情绪智力的概念有分层的历史：
+
+1. **1964** — Michael Beldoch 首次在关于情绪表达敏感性的论文中使用"情绪智力"一词
+2. **1990** — Salovey (耶鲁) 与 Mayer (新罕布什尔大学) 发表了首个正式学术定义
+3. **1995** — Goleman 出版《情绪智力》，将概念带入大众视野；该书在《纽约时报》畅销书榜上停留超过一年
+4. **1997** — Bar-On 发表 EQ-i 量表，首个经过效度验证的 EQ 心理测量工具
+5. **2000s至今** — CASEL（Goleman 联合创始）通过 SEL 项目将 EQ 制度化于教育领域
+
+## 临床应用 Clinical Applications
+
+### 心理治疗 Psychotherapy
+- EQ 训练被整合进认知行为治疗 (CBT) 和辩证行为治疗 (DBT)，帮助患者提高情绪觉察和调节能力
+- "情绪粒度" (emotional granularity) 训练——帮助患者用更精确的词汇描述情绪（不是"不好"，而是"沮丧""无助""被背叛"）
+
+### 教育 Education
+- CASEL 的 SEL 框架覆盖五个核心能力：自我意识、自我管理、社会意识、关系技能、负责任决策
+- Meta 分析 (Durlak et al., 2011) 显示 SEL 参与者学业成绩提升 11 个百分点，社会情绪技能显著改善
+
+### 企业 Corporate
+- EQ 360 度评估被用于高管选拔和领导力发展
+- Google 的"Search Inside Yourself"项目将 EQ 和正念训练整合进工程师培训
+
+## 关联概念 Related Concepts
+
+- [社会智力 Social Intelligence](social-intelligence.md) — EQ 的社会维度延伸
+- [自我调节 Self-Regulation](self-regulation.md) — EQ 自我管理的核心机制
+- [共情 Empathy](empathy.md) — EQ 社会意识维度的核心能力
+- [正念 Mindfulness](mindfulness.md) — 提升情绪觉察的训练方法
+
+## 东西方对话 East-West Dialogue
+
+### EQ x 阿毗达磨心所论 Abhidharma Cetasikas
+
+Abhidharma 将 52 种心所 (cetasikas) 分为遍一切心所 (13)、杂心所 (14)、不善心所 (14) 和美心所 (25)。这种对心理状态的精细分类与 Goleman 对"情绪粒度"的强调深层对应。两者的共同主张是：**更精确地识别心理状态 = 更好地管理心理状态**。阿毗达磨是 EQ 自我意识维度的古典先驱。
+
+The Abhidharma classifies 52 mental factors (cetasikas) into universals (13), occasionals (14), unwholesome factors (14), and beautiful factors (25). This fine-grained classification of mental states parallels Goleman's emphasis on "emotional granularity." Both assert that **more precise identification of mental states = better management of mental states**. The Abhidharma is a classical precursor to the self-awareness dimension of EQ.
+
+### EQ x 儒家"诚意正心"
+
+《大学》八条目中"诚意正心"要求对自身的愤怒、恐惧、好乐、忧患等情绪保持觉察，不被其左右——这正是 Goleman "自我管理"能力的古典表达。"身有所忿懥，则不得其正"：当人被愤怒劫持（Goleman 会说"杏仁核劫持"），心就不正了。
+
+The *Great Learning*'s eight steps include "sincerity of will" and "rectification of mind," which require awareness of one's anger, fear, desire, and worry — not being dominated by them. This is precisely the classical expression of Goleman's "self-management" competency. "When one is affected by anger, the mind will not be correct" — when one is hijacked by anger (Goleman would say "amygdala hijack"), the mind is no longer properly aligned.
+
+## 进阶阅读 Further Reading
+
+### 必读 Primary
+- Goleman, D. *Emotional Intelligence* (1995) — 概念全景
+- Goleman, D. *Working with Emotional Intelligence* (1998) — 职场应用
+
+### 学术原版 Academic Original
+- Salovey, P. & Mayer, J. D. "Emotional Intelligence." *Imagination, Cognition and Personality* 9 (1990): 185-211
+- Mayer, J. D., Salovey, P. & Caruso, D. R. "Emotional Intelligence: Theory, Findings, and Implications." *Psychological Inquiry* 15 (2004): 197-215
+
+### 测量与评估 Measurement
+- Bar-On, R. *The Handbook of Emotional Intelligence* (2000)
+- Goleman, D. "What Makes a Leader?" *Harvard Business Review* (1998, 2004 revised)
+
+### 中文资源
+- 戈尔曼《情商》（中信出版社）
+- 戈尔曼《情商2：影响你一生的社交力》（中信出版社）
+- 萨尔维与梅耶《情绪智力：理论与实践》（华东师范大学出版社）

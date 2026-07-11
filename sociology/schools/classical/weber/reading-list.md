@@ -1,0 +1,60 @@
+---
+id: weber-reading-list
+title: 韦伯进阶书单 · Weber Reading List
+type: reading-list
+domain: sociology
+thinker: weber
+school: classical
+---
+
+# 韦伯系统阅读指南 / Weber Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Max Weber: A Biography* (1975) | Marianne Weber | 妻子所写的经典传记 |
+| *Max Weber: An Intellectual Portrait* (1960) | Reinhard Bendix | 经典思想评传 |
+| *Max Weber* (2019) | Joshua Derman | 最新简明评传 |
+| *Weber: A Very Short Introduction* | Frank Parkin | 牛津通识读本 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《新教伦理与资本主义精神》 | 1905 | 选择性亲和；入世苦行；铁笼 |
+| 《以学术为业》 | 1917 | 祛魅；价值中立；学术使命 |
+| 《以政治为业》 | 1919 | 信念伦理 vs. 责任伦理 |
+| 《经济与社会》基本概念章 | 1922 | 社会行动类型；支配类型 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《经济与社会》支配社会学章 | 1922 | 官僚制；三种支配类型 |
+| 《世界宗教的经济伦理》（导论） | 1915 | 选择性亲和；合理化 |
+| 《儒教与道教》 | 1915 | 中国比较研究 |
+| 方法论论文 | 1904/1917 | 理想类型；价值中立 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *The Protestant Ethic and the Spirit of Capitalism* (批判版, 2011) | Stephen Kalberg (trans.) | 最佳英译本，含详尽导言 |
+| *Max Weber: A Biography* (2005) | Joachim Radkau | 最新权威传记 |
+| *Max Weber's Comparative-Historical Sociology* | Reinhard Bendix | 比较历史方法论 |
+| *Weber's Protestant Ethic: Origins, Evidence, Effects* (1993) | Hartmut Lehmann & Guenther Roth (eds.) | 学术论争汇编 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The McDonaldization of Society* (1993) | George Ritzer | 理性化理论的当代延伸 |
+| *Iron Cage or Spider Web?* | Stephen Kalberg | 韦伯合理化理论新解读 |
+| *Max Weber Readings* (2016) | Sung Ho Kim (ed.) | 韦伯研究最新文集 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Bendix评传 → 《新教伦理》→ 《以学术为业》
+**阶段二**（4-8周）: 《以政治为业》→ 《经济与社会》选读（基本概念、支配社会学）
+**阶段三**（8周+）: 方法论论文 → 世界宗教比较研究 → Radkau传记 → 深度研究

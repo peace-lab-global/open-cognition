@@ -1,0 +1,130 @@
+---
+id: psychology.cognitive.beck.works
+title: "贝克作品总览 \u00b7 Works of Beck"
+type: works
+domain: psychology
+school: cognitive
+thinker: beck
+tags: [works, cognitive-therapy, CBT, depression, anxiety, personality-disorders]
+cross-refs:
+  - id: psychology.cognitive.beck
+    relation: thinker
+---
+
+# 贝克作品总览 \u00b7 Works of Aaron T. Beck
+
+## 学术专著 / Academic Monographs
+
+### 《抑郁症》(1967)
+
+**英文原名**：*Depression: Causes and Treatment*\
+**出版社**：University of Pennsylvania Press\
+**核心贡献**：首次系统阐述抑郁症的认知模型，提出认知三联征 (Cognitive Triad) 概念，将抑郁症从精神分析的"内向愤怒"框架中解放出来，建立以认知为核心的理解路径。本书基于贝克对抑郁症患者梦境和清醒时思维的实证研究，发现支持精神分析假说的证据不足，转而关注系统性的负面自动思维。
+
+### 《认知疗法与情绪障碍》(1976)
+
+**英文原名**：*Cognitive Therapy and the Emotional Disorders*\
+**出版社**：International Universities Press (后转 Basic Books)\
+**核心贡献**：将认知模型从抑郁症扩展至更广泛的情绪障碍（焦虑、恐惧、愤怒等）。系统阐述了认知层级模型（核心信念 \u2192 中间信念 \u2192 自动思维），发展了苏格拉底式提问和引导式发现等核心治疗技术。本书是认知疗法理论框架的成熟之作。
+
+### 《抑郁症的认知疗法》(1979)
+
+**英文原名**：*Cognitive Therapy of Depression*\
+**合著者**：A. John Rush, Brian F. Shaw, Gary Emery\
+**出版社**：Guilford Press\
+**核心贡献**：心理治疗史上第一部**操作手册化**的治疗指南。提供了详细的逐次会谈 (session-by-session) 治疗协议，使认知疗法可以被标准化教授、复制和实证检验。1977 年发表的关键 RCT（Beck et al., 发表于 *Cognitive Therapy and Research*）证明认知疗法对抑郁症的疗效与丙咪嗪 (imipramine) 等效，且在预防复发方面优于药物。本书奠定了 CBT 作为循证治疗的地位。
+
+### 《焦虑障碍与恐惧症：认知视角》(1985)
+
+**英文原名**：*Anxiety Disorders and Phobias: A Cognitive Perspective*\
+**合著者**：Gary Emery, Ruth L. Greenberg\
+**出版社**：Basic Books\
+**核心贡献**：将认知模型系统应用于焦虑障碍。区分了抑郁和焦虑的认知特征差异：抑郁以丧失和失败为主题，焦虑以威胁和脆弱为主题。发展了针对特定焦虑障碍（惊恐障碍、社交焦虑、广泛性焦虑、特定恐惧症）的认知概念化方案。
+
+### 《爱的永不满足：为什么爱会变质》(1988)
+
+**英文原名**：*Love Is Never Enough: How Couples Can Overcome Misunderstandings, Resolve Conflicts, and Solve Relationship Problems Through Cognitive Therapy*\
+**出版社**：Harper & Row\
+**核心贡献**：将认知疗法应用于夫妻和关系问题。识别了伴侣关系中的典型认知扭曲（如读心术、全或无思维、个人化），发展了认知取向的伴侣治疗框架。
+
+### 《人格障碍的认知疗法》(1990)
+
+**英文原名**：*Cognitive Therapy of Personality Disorders*\
+**合著者**：Arthur Freeman 等\
+**出版社**：Guilford Press\
+**核心贡献**：将认知模型延伸至人格障碍的长程治疗。系统阐述了人格障碍中的适应不良图式 (maladaptive schemas)，提出了针对边缘型、回避型、依赖型、自恋型等人格障碍的认知概念化与治疗策略。本书为 Jeffrey Young 后来发展图式疗法 (Schema Therapy) 奠定了基础。
+
+### 《囚犯之恨：仇恨的起源》(1999)
+
+**英文原名**：*Prisoners of Hate: The Cognitive Basis of Anger, Hostility, and Violence*\
+**出版社**：HarperCollins\
+**核心贡献**：将认知模型应用于仇恨和暴力行为的分析。识别了仇恨思维的认知特征（去人性化、绝对化、道德化），探讨了群体仇恨（种族冲突、恐怖主义）的认知机制。
+
+### 《精神分裂症的认知疗法》(2004)
+
+**英文原名**：*Schizophrenia: Cognitive Theory, Research, and Therapy*\
+**出版社**：Guilford Press\
+**核心贡献**：将认知疗法扩展至精神分裂症。针对幻觉和妄想中的认知成分提出认知模型，发展了帮助患者检验信念证据基础的临床技术。为 CBT for Psychosis (CBTp) 提供了理论和操作基础。
+
+## 评估工具 / Assessment Instruments
+
+贝克及其团队开发了多种被广泛使用的标准化评估工具：
+
+| 工具 | 英文缩写 | 年份 | 用途 |
+|---|---|---|---|
+| Beck 抑郁量表 | BDI / BDI-II | 1961/1996 | 评估抑郁症状严重程度 |
+| Beck 无望感量表 | BHS | 1974 | 评估无望感与自杀风险 |
+| Beck 自杀意念量表 | BSS | 1991 | 评估自杀意念强度 |
+| Beck 焦虑量表 | BAI | 1988 | 评估焦虑症状严重程度 |
+| 自动思维问卷 | ATQ | 1980 | 测量负面自动思维的频率 |
+| 认知量表 | CTI | 1986 | 评估认知三联征的三个维度 |
+| 功能障碍态度问卷 | DAS | 1978 | 测量功能失调性态度（中间信念） |
+| 人格信念问卷 | PBQ | 1995 | 评估人格障碍相关的核心信念 |
+
+## 重要论文 / Key Journal Articles
+
+- Beck, A. T. (1963). "Thinking and depression: I. Idiosyncratic content and cognitive distortions." *Archives of General Psychiatry*, 9, 324-333. \u2014 首次描述抑郁症患者的认知扭曲
+- Beck, A. T. (1964). "Thinking and depression: II. Theory and therapy." *Archives of General Psychiatry*, 10, 561-571. \u2014 认知疗法理论的早期阐述
+- Beck, A. T. et al. (1977). "Comparative efficacy of cognitive therapy and pharmacotherapy in the treatment of depressed outpatients." *Cognitive Therapy and Research*, 1(1), 17-37. \u2014 里程碑性 RCT
+- Rush, A. J. et al. (1977). "Comparative efficacy of cognitive therapy and pharmacotherapy in the treatment of depressed outpatients: II. Cognitive therapy." *Cognitive Therapy and Research*, 1(1), 39-53.
+- Beck, A. T. et al. (1985). "Hopelessness and eventual suicide: A 10-year prospective study of patients hospitalized with suicidal ideation." *American Journal of Psychiatry*, 142(5), 559-563. \u2014 无望感预测自杀的经典研究
+- Beck, A. T. (1987). "Cognitive models of depression." *Journal of Cognitive Psychotherapy*, 1(1), 5-37. \u2014 抑郁认知模型的综合论述
+- Beck, A. T. (2008). "The evolution of the cognitive model of depression and its neurobiological correlates." *American Journal of Psychiatry*, 165(8), 969-977. \u2014 晚年的理论回顾与神经科学整合
+
+## Judith Beck 的贡献 / Contributions of Judith S. Beck
+
+贝克的女儿 Judith S. Beck 博士是 CBT 领域的重要贡献者，其教科书已成为全球标准：
+
+Beck's daughter, Judith S. Beck, PhD, is a major contributor to CBT whose textbook has become the global standard:
+
+- **《认知疗法：基础与进阶》** (*Cognitive Behavior Therapy: Basics and Beyond*, 1st ed. 1995, 2nd ed. 2011, 3rd ed. 2020) \u2014 CBT 最广泛使用的教科书，系统介绍了认知概念化、会谈结构、治疗技术和治疗关系
+- **《认知行为疗法治疗复杂病例》** (*Cognitive Behavior Therapy for Challenging Problems*, 2005) \u2014 处理治疗阻抗、人格障碍等复杂情况
+- 现任贝克认知行为疗法研究所 (Beck Institute) 主席
+
+## 中译本推荐 / Recommended Chinese Translations
+
+| 作品 | 中译书名 | 译者 / 出版社 |
+|---|---|---|
+| *Cognitive Behavior Therapy: Basics and Beyond* (Judith Beck) | 《认知疗法：基础与进阶》 | 李艳等译 / 中国轻工业出版社 |
+| *Feeling Good* (David Burns) | 《伯恩斯新情绪疗法》 | 李亚飞译 / 科学技术文献出版社 |
+| *Cognitive Therapy of Depression* | 《抑郁症的认知疗法》 | 杨又禄等译 / 世界图书出版公司 |
+| *Cognitive Therapy of Personality Disorders* | 《人格障碍的认知治疗》 | 李艳等译 / 中国轻工业出版社 |
+
+## 阅读路径 / Reading Path
+
+### 入门 (1-2 周)
+
+1. David Burns *Feeling Good* 第 1-5 章 \u2014 认知扭曲的通俗阐述
+2. Judith Beck *CBT: Basics and Beyond* 第 1-4 章 \u2014 CBT 基础框架
+
+### 进阶 (1-3 月)
+
+3. Beck *Cognitive Therapy and the Emotional Disorders* (1976) \u2014 理论核心
+4. Beck et al. *Cognitive Therapy of Depression* (1979) \u2014 操作手册
+
+### 深潜 (3-6 月)
+
+5. Beck *Anxiety Disorders and Phobias* (1985)
+6. Beck *Cognitive Therapy of Personality Disorders* (1990)
+7. Judith Beck *CBT for Challenging Problems* (2005)
+8. 贝克论文精选（见上文"重要论文"部分）

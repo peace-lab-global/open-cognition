@@ -1,0 +1,114 @@
+---
+id: mozart-works
+title: "莫扎特作品年表 · Mozart Works Bibliography"
+type: bibliography
+domain: arts
+school: music
+thinker: mozart
+tags: [mozart, works, classical, opera, symphony, concerto, chamber-music, sacred-music]
+cross-refs: [{id: mozart, relation: thinker}]
+---
+
+# 莫扎特作品年表 / Mozart Works Bibliography
+
+莫扎特一生创作了超过六百部作品，由 Köchel 目录（K. 编号）系统编目。以下按体裁分类，列出其主要作品的年表、标题与意义。Mozart composed over six hundred works in his lifetime, systematically catalogued by the Köchel catalogue (K. numbers). Below are his major works organized by genre, with chronological tables, titles, and significance.
+
+## 歌剧 / Operas
+
+| 年份 / Year | 原标题 / Original Title | K. 编号 | 中译 | 类型 / Type | 意义 / Significance |
+|---|---|---|---|---|---|
+| 1767 | *Die Schuldigkeit des ersten Gebots* | K. 35 | 第一条诫命的义务 | 宗教歌唱剧 | 十一岁的第一部舞台作品 / First stage work at age 11 |
+| 1768 | *La finta semplice* | K. 51 | 装傻姑娘 | 喜歌剧 | 十二岁的第一部意大利喜歌剧 / First Italian opera buffa at age 12 |
+| 1770 | *Mitridate, re di Ponto* | K. 87 | 米特里达特 | 正歌剧 | 十四岁在米兰首演的意大利正歌剧 / Italian opera seria premiered in Milan at 14 |
+| 1772 | *Lucio Silla* | K. 135 | 卢乔·西拉 | 正歌剧 | 少年时期最后一部意大利歌剧 / Final Italian opera of youth period |
+| 1775 | *La finta giardiniera* | K. 196 | 假园丁姑娘 | 戏剧喜剧 | 喜歌剧与正歌剧风格的融合 / Fusion of buffa and seria styles |
+| 1781 | *Idomeneo, re di Creta* | K. 366 | 伊多梅纽斯 | 正歌剧 | 成熟期风格的预示，管弦乐的创新 / Foreshadows mature style, orchestral innovation |
+| 1782 | *Die Entführung aus dem Serail* | K. 384 | 后宫诱逃 | 歌唱剧 | 德语歌唱剧的里程碑，"土耳其风格"的融入 / Milestone of German Singspiel, incorporation of "Turkish style" |
+| 1786 | *Der Schauspieldirektor* | K. 486 | 剧院经理 | 歌唱剧 | 关于歌剧界的讽刺喜剧 / Satirical comedy about the opera world |
+| 1786 | *Le nozze di Figaro* | K. 492 | 费加罗的婚礼 | 喜歌剧 | 达·蓬特三部曲之一，重唱即戏剧的典范 / Da Ponte trilogy I, ensemble-as-drama paradigm |
+| 1787 | *Don Giovanni* | K. 527 | 唐·乔瓦尼 | 戏剧喜剧 | 达·蓬特三部曲之二，喜悲剧边界的消融 / Da Ponte trilogy II, dissolution of comic-tragic boundary |
+| 1790 | *Così fan tutte* | K. 588 | 女人心 | 喜歌剧 | 达·蓬特三部曲之三，音乐结构的心理深度 / Da Ponte trilogy III, psychological depth through structure |
+| 1791 | *La clemenza di Tito* | K. 621 | 狄托的仁慈 | 正歌剧 | 晚期对正歌剧的回归与革新 / Late return to and renovation of opera seria |
+| 1791 | *Die Zauberflöte* | K. 620 | 魔笛 | 歌唱剧 | 德语歌剧的哲学升华，共济会寓意的童话 / Philosophical elevation of German opera, Masonic fairy tale |
+
+## 交响曲 / Symphonies
+
+莫扎特创作了四十一首编号交响曲（另有多首未编号）。以下列出最重要的成熟期交响曲。Mozart composed forty-one numbered symphonies (plus several unnumbered). The most important mature symphonies are listed below.
+
+| 年份 / Year | 调性 / Key | K. 编号 | 编号 / No. | 中译 | 意义 / Significance |
+|---|---|---|---|---|---|
+| 1774 | G大调 | K. 201 | No. 27 | 第二十七交响曲 | 萨尔茨堡时期的杰作 / Masterpiece of the Salzburg period |
+| 1778 | D大调 | K. 297 | No. 31 | "巴黎"交响曲 | 为巴黎管弦乐团创作 / Composed for the Paris orchestra |
+| 1782 | D大调 | K. 385 | No. 35 | "哈夫纳"交响曲 | 为萨尔茨堡市长家族创作 / Composed for Salzburg mayor's family |
+| 1783 | C大调 | K. 425 | No. 36 | "林茨"交响曲 | 四天内即兴创作完成 / Composed in just four days |
+| 1786 | D大调 | K. 504 | No. 38 | "布拉格"交响曲 | 为布拉格演出而作 / Composed for Prague performances |
+| 1788 | 降E大调 | K. 543 | No. 39 | 第三十九交响曲 | 最后三首交响曲之一，温暖与庄严 / Final three I: warmth and majesty |
+| 1788 | g小调 | K. 550 | No. 40 | 第四十交响曲 | 最后三首交响曲之二，忧郁与平衡 / Final three II: melancholy and balance |
+| 1788 | C大调 | K. 551 | No. 41 | "朱庇特"交响曲 | 最后三首交响曲之三，赋格终章的对位巅峰 / Final three III: contrapuntal apex with fugal finale |
+
+## 钢琴协奏曲 / Piano Concertos
+
+莫扎特创作了二十七首钢琴协奏曲，其中第14至27号（K. 449–K. 595）被视为其最成熟的协奏曲作品。Mozart composed twenty-seven piano concertos, of which Nos. 14–27 (K. 449–K. 595) are regarded as his most mature concerto works.
+
+| 年份 / Year | 调性 / Key | K. 编号 | 编号 / No. | 中译 | 意义 / Significance |
+|---|---|---|---|---|---|
+| 1777 | 降E大调 | K. 271 | No. 9 | "Jeunehomme"协奏曲 | 第一个成熟的个人声音 / First mature personal voice |
+| 1784 | 降E大调 | K. 449 | No. 14 | 第十四钢琴协奏曲 | 维也纳成熟期的开始 / Beginning of Vienna mature period |
+| 1784 | G大调 | K. 453 | No. 17 | 第十七钢琴协奏曲 | 终乐章变奏曲的杰作 / Masterpiece of finale variations |
+| 1785 | d小调 | K. 466 | No. 20 | 第二十钢琴协奏曲 | 悲剧性的紧张，贝多芬深为赞赏 / Tragic urgency, deeply admired by Beethoven |
+| 1785 | C大调 | K. 467 | No. 21 | 第二十一钢琴协奏曲 | 著名的"埃尔维拉·麦迪根"行板 / Famous "Elvira Madigan" andante |
+| 1786 | A大调 | K. 488 | No. 23 | 第二十三钢琴协奏曲 | 最动人的慢乐章之一 / One of the most moving slow movements |
+| 1786 | c小调 | K. 491 | No. 24 | 第二十四钢琴协奏曲 | 莫扎特最戏剧性的协奏曲 / Mozart's most dramatic concerto |
+| 1786 | C大调 | K. 503 | No. 25 | 第二十五钢琴协奏曲 | 交响性的规模与庄严 / Symphonic scale and grandeur |
+| 1791 | 降B大调 | K. 595 | No. 27 | 第二十七钢琴协奏曲 | 最后一首钢琴协奏曲，内省与告别 / Final piano concerto, introspective and valedictory |
+
+## 室内乐 / Chamber Music
+
+| 年份 / Year | 原标题 / Title | K. 编号 | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1773 | String Quartets K. 168–173 | K. 168–173 | "维也纳"弦乐四重奏 | 早期对海顿四重奏的回应 / Early response to Haydn quartets |
+| 1782–85 | "Haydn" Quartets K. 387–465 | K. 387–465 | "海顿"弦乐四重奏 | 向海顿致敬，对位杰作 / Tribute to Haydn, contrapuntal masterworks |
+| 1785 | String Quartet K. 465 | K. 465 | "不协和"四重奏 | 以大胆的和声引子著称 / Famous for its daring harmonic introduction |
+| 1787 | String Quintet K. 515 | K. 515 | C大调弦乐五重奏 | 室内乐的至高典范之一 / One of the supreme paradigms of chamber music |
+| 1787 | String Quintet K. 516 | K. 516 | g小调弦乐五重奏 | 小调室内乐的杰作 / Masterpiece of minor-key chamber music |
+| 1787 | *Eine kleine Nachtmusik* K. 525 | K. 525 | 弦乐小夜曲 | 最广为人知的室内乐作品 / Most widely known chamber work |
+| 1789 | Clarinet Quintet K. 581 | K. 581 | 单簧管五重奏 | 管乐室内乐的巅峰 / Pinnacle of wind chamber music |
+
+## 其他器乐作品 / Other Instrumental Works
+
+| 年份 / Year | 原标题 / Title | K. 编号 | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1775 | Violin Concertos K. 207–219 | K. 207–219 | 五首小提琴协奏曲 | 萨尔茨堡时期的成熟作品 / Mature works of Salzburg period |
+| 1778 | Flute and Harp Concerto K. 299 | K. 299 | 长笛与竖琴协奏曲 | 巴黎时期的优雅之作 / Elegant work of the Paris period |
+| 1791 | Clarinet Concerto K. 622 | K. 622 | 单簧管协奏曲 | 最后的协奏曲杰作，慢乐章超凡宁静 / Final concerto masterpiece, transcendent slow movement |
+
+## 宗教音乐 / Sacred Music
+
+| 年份 / Year | 原标题 / Title | K. 编号 | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1768 | *Missa brevis* K. 49 | K. 49 | 短弥撒 | 十二岁的第一部弥撒曲 / First mass at age 12 |
+| 1779 | *Krönungsmesse* K. 317 | K. 317 | 加冕弥撒 | 萨尔茨堡时期最辉煌的弥撒曲 / Most brilliant mass of the Salzburg period |
+| 1783 | *Große Messe* K. 427 | K. 427 | 大弥撒（未完成） | 宏大的宗教作品，受巴赫与亨德尔影响 / Grand sacred work, influenced by Bach and Handel |
+| 1791 | *Ave verum corpus* K. 618 | K. 618 | 圣体颂 | 简短而深刻的经文歌 / Brief yet profound motet |
+| 1791 | *Requiem* K. 626 | K. 626 | 安魂曲（未完成） | 未竟的天鹅之歌，由叙斯迈尔补写 / Unfinished swan song, completed by Süssmayr |
+
+## 重要的版本与出版 / Key Editions and Publications
+
+- **Neue Mozart-Ausgabe (NMA)**：Bärenreiter 出版社，1955–2007年，120卷。权威的学术评注版全集，包含详细的考证报告和替代版本。/ Bärenreiter, 1955–2007, 120 volumes. Authoritative scholarly critical edition with detailed editorial reports and alternative versions.
+- **Alte Mozart-Ausgabe (AMA)**：Breitkopf & Härtel，1877–1910年。早期的全集版本，已被NMA取代但仍具历史价值。/ Early complete edition, superseded by NMA but historically valuable.
+- **Köchel-Verzeichnis**：第六版（1964），由 Franz Giegling 等修订。莫扎特作品的标准编目系统。/ 6th edition (1964), revised by Franz Giegling et al. Standard catalogue system for Mozart's works.
+- **Mozart: Briefe und Aufzeichnungen**：International Foundation Mozarteum 编辑。七卷本书信集。/ Edited by International Foundation Mozarteum. Seven-volume letter collection.
+
+## 遗作与争议作品 / Posthumous and Disputed Works
+
+莫扎特去世后，部分作品由叙斯迈尔和其他学生完成。《安魂曲》（K. 626）的补写问题至今仍是学术争论的焦点——现代出现了多个替代叙斯迈尔版本的学术补写版（如 Richard Maunder、H.C. Robbins Landon 和 Robert Levin 的版本）。此外，一些归属莫扎特的作品在近年的学术研究中被重新评估，部分被认为可能出自其父列奥波德或其他同时代作曲家之手。
+
+After Mozart's death, some works were completed by Süssmayr and other students. The completion of the *Requiem* (K. 626) remains a subject of scholarly debate—multiple alternative scholarly completions have been produced in modern times (by Richard Maunder, H.C. Robbins Landon, and Robert Levin, among others). Additionally, some works attributed to Mozart have been reassessed in recent scholarship, with some now considered possibly by his father Leopold or other contemporaries.
+
+## 聆听路径 / Listening Paths
+
+**入门 / Introductory**：《费加罗的婚礼》序曲 → 《弦乐小夜曲》K. 525 → 第21钢琴协奏曲 K. 467 行板 → 第40交响曲 K. 550 / *Figaro* Overture → *Eine kleine Nachtmusik* K. 525 → Piano Concerto No. 21 K. 467 Andante → Symphony No. 40 K. 550
+
+**进阶 / Intermediate**：达·蓬特歌剧三部曲 → 晚期钢琴协奏曲（K. 466, 488, 491） → 晚期交响曲 → 弦乐五重奏 K. 515, 516 / Da Ponte opera trilogy → Late piano concertos (K. 466, 488, 491) → Late symphonies → String Quintets K. 515, 516
+
+**深潜 / Advanced**：*Neue Mozart-Ausgabe* 全集 → 歌剧全剧录音（推荐 John Eliot Gardiner 或 Nikolaus Harnoncourt 指挥版）→ 手稿研究与草稿分析 → 早期作品全集 / *NMA* complete edition → Complete opera recordings (recommended: John Eliot Gardiner or Nikolaus Harnoncourt) → Manuscript study and sketch analysis → Complete early works

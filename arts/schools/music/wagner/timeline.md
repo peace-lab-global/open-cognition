@@ -1,0 +1,153 @@
+---
+id: wagner-timeline
+title: "瓦格纳生平大事记 · Wagner Biographical Timeline"
+type: timeline
+thinker: wagner
+domain: arts
+school: music
+tags: [wagner, timeline, biography, bayreuth, dresden, zurich]
+cross-refs:
+  - wagner
+  - gesamtkunstwerk
+  - leitmotif
+  - ring-cycle
+  - chromatic-harmony
+---
+
+# 瓦格纳生平大事记 · Wagner Biographical Timeline
+
+## 早年与学徒期（1813–1839）/ Youth and Apprenticeship
+
+- **1813年5月22日**：生于莱比锡（Leipzig），父亲弗里德里希·瓦格纳是警察书记，生父在其出生后数月去世，母亲约翰娜改嫁演员兼画家路德维希·盖尔。瓦格纳自幼浸润于戏剧环境。
+
+  *22 May 1813*: Born in Leipzig. Father Friedrich Wagner, a police clerk, died months after his birth; mother Johanna remarried actor and painter Ludwig Geyer. Wagner grew up immersed in a theatrical environment.
+
+- **1828–1831**：在莱比锡托马斯学校就读，接触贝多芬第九交响曲，深受震撼。1831年入莱比锡大学学习音乐理论与作曲。
+
+  *1828–1831*: Attended the Thomasschule in Leipzig; profoundly moved by Beethoven's Ninth Symphony. Entered Leipzig University in 1831 to study music theory and composition.
+
+- **1833**：首份专业职位——维尔茨堡剧院合唱指挥。开始创作第一部歌剧《仙女》（*Die Feen*）。
+
+  *1833*: First professional post — chorus master at Würzburg Theatre. Began composing his first opera, *Die Feen*.
+
+- **1834–1836**：在马格德堡剧院任音乐总监。创作《恋爱禁令》（*Das Liebesverbot*），1836年首演但反响平平。与女演员敏娜·普拉纳结婚。
+
+  *1834–1836*: Music director at Magdeburg Theatre. Composed *Das Liebesverbot*, premiered 1836 with lukewarm reception. Married actress Minna Planer.
+
+- **1837–1839**：在柯尼斯堡与里加歌剧院任职，经济困难日益严重。
+
+  *1837–1839*: Positions at Königsberg and Riga opera houses; financial difficulties intensified.
+
+## 流亡与突破（1839–1849）/ Exile and Breakthrough
+
+- **1839**：因债务逃离里加，乘"忒提斯号"穿越风暴中的北海赴巴黎。在巴黎两年间接触梅耶贝尔的法国大歌剧，生活困窘，曾为《黎恩济》求售于柏林。
+
+  *1839*: Fled Riga due to debt; sailed the stormy North Sea to Paris aboard the *Thetis*. Spent two years in Paris encountering Meyerbeer's grand opera; lived in poverty, once tried to sell *Rienzi* to Berlin.
+
+- **1842**：《黎恩济》在德累斯顿宫廷剧院大获成功。瓦格纳被任命为萨克森皇家宫廷乐长（Kapellmeister）。
+
+  *1842*: *Rienzi* scored a great success at the Dresden Court Theatre. Wagner was appointed Kapellmeister to the Royal Saxon Court.
+
+- **1843**：《漂泊的荷兰人》在德累斯顿首演。瓦格纳开始系统使用主导动机，标志其歌剧革新的起点。阅读北欧神话与中世纪传说。
+
+  *1843*: *Der fliegende Holländer* premiered in Dresden. Wagner began systematic use of leitmotifs, marking the start of his operatic reform. Read Norse mythology and medieval legends.
+
+- **1845**：《汤豪舍》在德累斯顿首演。探索神圣与世俗之爱的冲突主题。
+
+  *1845*: *Tannhäuser* premiered in Dresden. Explored the conflict between sacred and profane love.
+
+- **1848**：完成《罗恩格林》。开始构思《尼伯龙根的指环》，撰写散文草稿。接触费尔巴哈哲学，思想左转。
+
+  *1848*: Completed *Lohengrin*. Began conceiving the *Ring of the Nibelung*, writing prose drafts. Encountered Feuerbach's philosophy; political views shifted leftward.
+
+- **1849年5月**：参与德累斯顿五月起义，与无政府主义者巴库宁并肩站在街垒上。起义失败后，萨克森政府发出通缉令。瓦格纳经李斯特帮助逃往瑞士苏黎世，开始了长达十二年的流亡。
+
+  *May 1849*: Participated in the Dresden May Uprising, standing on the barricades alongside the anarchist Bakunin. After the uprising's failure, the Saxon government issued a warrant. With Liszt's help, Wagner fled to Zurich, Switzerland, beginning twelve years of exile.
+
+- **1849**：发表《艺术与革命》和《未来的艺术作品》，系统阐述总体艺术理念与艺术的社会使命。
+
+  *1849*: Published *Art and Revolution* and *The Artwork of the Future*, systematically articulating the Gesamtkunstwerk concept and art's social mission.
+
+## 流亡苏黎世与理论成熟（1850–1864）/ Zurich Exile and Theoretical Maturation
+
+- **1850**：《罗恩格林》在魏玛由李斯特指挥首演（瓦格纳本人未能到场）。发表争议性论文《音乐中的犹太性》。
+
+  *1850*: *Lohengrin* premiered in Weimar under Liszt's baton (Wagner could not attend). Published the controversial essay *Das Judentum in der Musik*.
+
+- **1851**：完成最重要的理论著作《歌剧与戏剧》（三卷），系统论述乐剧的原则、主导动机的功能以及诗与音乐的关系。同年撰写《致友人书》，总结其艺术立场。
+
+  *1851*: Completed his most important theoretical work, *Opera and Drama* (three volumes), systematically expounding the principles of music drama, the function of leitmotifs, and the relationship between poetry and music. Also wrote *A Communication to My Friends*, summarizing his artistic position.
+
+- **1854**：接触叔本华的《作为意志和表象的世界》，深受震动。叔本华将音乐视为"意志本身的直接写照"，这一命题修正了瓦格纳早期将音乐视为"服务于戏剧的手段"的立场。
+
+  *1854*: Encountered Schopenhauer's *The World as Will and Representation*, deeply shaken. Schopenhauer's elevation of music as the "direct copy of the will itself" modified Wagner's earlier position of treating music as "a means serving drama."
+
+- **1857**：移居苏黎世郊外韦森东克别墅（由赞助人奥托·维森东克提供）。与奥托之妻玛蒂尔德·维森东克产生热烈而无望的爱情，成为《特里斯坦与伊索尔德》的情感催化剂。开始创作《特里斯坦》。
+
+  *1857*: Moved to the Wesendonck villa in suburban Zurich (provided by patron Otto Wesendonck). Developed a passionate and hopeless love for Otto's wife Mathilde, which became the emotional catalyst for *Tristan und Isolde*. Began composing *Tristan*.
+
+- **1859**：完成《特里斯坦与伊索尔德》。与敏娜分居。开始在欧洲各地（威尼斯、巴黎、维也纳）流浪。
+
+  *1859*: Completed *Tristan und Isolde*. Separated from Minna. Began wandering across Europe (Venice, Paris, Vienna).
+
+- **1861**：萨克森政府赦免瓦格纳。他短暂回到德国，试图在维也纳上演《特里斯坦》，但未能成功。
+
+  *1861*: Saxon government pardoned Wagner. He briefly returned to Germany, attempting to stage *Tristan* in Vienna, but was unsuccessful.
+
+## 路德维希二世与慕尼黑（1864–1872）/ Ludwig II and Munich
+
+- **1864**：刚登基的巴伐利亚国王路德维希二世（18岁）成为瓦格纳的赞助人，将他接到慕尼黑。路德维希是瓦格纳最热情的崇拜者，承诺支持其全部艺术计划。瓦格纳与科西玛·冯·彪罗（李斯特之女、指挥家彪罗之妻）开始秘密恋情。
+
+  *1864*: The newly crowned King Ludwig II of Bavaria (age 18) became Wagner's patron, bringing him to Munich. Ludwig was Wagner's most ardent admirer, promising to support all his artistic plans. Wagner began a secret romance with Cosima von Bülow (Liszt's daughter, conductor Bülow's wife).
+
+- **1865年6月10日**：《特里斯坦与伊索尔德》在慕尼黑宫廷剧院首演，汉斯·冯·彪罗指挥。此剧彻底改变了西方音乐的和声语法。
+
+  *10 June 1865*: *Tristan und Isolde* premiered at the Munich Court Theatre under Hans von Bülow. This work permanently altered the harmonic grammar of Western music.
+
+- **1867**：完成《纽伦堡的名歌手》。
+
+  *1867*: Completed *Die Meistersinger von Nürnberg*.
+
+- **1868年6月21日**：《纽伦堡的名歌手》在慕尼黑首演。这是瓦格纳唯一一部喜歌剧，也是对德国艺术传统的赞颂与反思。
+
+  *21 June 1868*: *Die Meistersinger* premiered in Munich. Wagner's only comic opera, also a celebration and reflection on German artistic tradition.
+
+- **1870**：敏娜去世。瓦格纳与科西玛正式结婚。创作《齐格弗里德牧歌》作为科西玛的生日礼物。普法战争爆发。
+
+  *1870*: Minna died. Wagner married Cosima. Composed the *Siegfried Idyll* as Cosima's birthday gift. Franco-Prussian War broke out.
+
+- **1872**：拜罗伊特节日剧院奠基。瓦格纳亲自监督建设，包括革命性的下沉乐池设计。
+
+  *1872*: Foundation stone laid for the Bayreuth Festival Theatre. Wagner personally supervised construction, including the revolutionary sunken orchestra pit design.
+
+## 拜罗伊特与晚年（1876–1883）/ Bayreuth and Final Years
+
+- **1876年8月13–17日**：第一届拜罗伊特音乐节。《尼伯龙根的指环》全本首次上演，连续四个夜晚。欧洲各国的王公贵族、艺术家与知识分子齐聚拜罗伊特。尼采出席但已开始对瓦格纳产生怀疑。音乐节在财务上严重亏损。
+
+  *13–17 August 1876*: First Bayreuth Festival. The complete *Ring of the Nibelung* performed for the first time over four consecutive evenings. Royalty, artists, and intellectuals from across Europe gathered at Bayreuth. Nietzsche attended but had already begun to doubt Wagner. The festival was a severe financial loss.
+
+- **1877–1882**：创作最后一部作品《帕西法尔》，被他称为"舞台祭献节日剧"（Bühnenweihfestspiel）。受佛教思想与叔本华悲观主义的深层影响，将基督教的圣杯传说与"通过慈悲获得救赎"的主题融合。
+
+  *1877–1882*: Composed his final work, *Parsifal*, which he called a "stage-consecrating festival play" (*Bühnenweihfestspiel*). Deeply influenced by Buddhist thought and Schopenhauerian pessimism, fusing the Christian Holy Grail legend with the theme of "redemption through compassion."
+
+- **1882年7月26日**：《帕西法尔》在拜罗伊特首演。瓦格纳在最后一场演出中亲自指挥了第三幕的部分段落。
+
+  *26 July 1882*: *Parsifal* premiered at Bayreuth. Wagner personally conducted part of the third act in the final performance.
+
+- **1883年2月13日**：瓦格纳在威尼斯的温德拉敏宫因心脏病发作去世，享年69岁。遗体运回拜罗伊特安葬于旺弗里德别墅花园。科西玛此后数十年守护拜罗伊特的遗产。
+
+  *13 February 1883*: Wagner died of a heart attack at the Palazzo Vendramin in Venice, aged 69. His body was transported back to Bayreuth and buried in the garden of Haus Wahnfried. Cosima guarded the Bayreuth legacy for decades afterward.
+
+## 后续影响 / Subsequent Influence
+
+- **1886–1930**：科西玛主导拜罗伊特音乐节，逐渐将瓦格纳遗产与德国民族主义和反犹主义联系起来。其女婿休斯顿·斯图尔特·张伯伦成为种族主义理论家。
+
+  *1886–1930*: Cosima directed the Bayreuth Festival, gradually linking Wagner's legacy with German nationalism and antisemitism. Her son-in-law Houston Stewart Chamberlain became a racialist theorist.
+
+- **1930–1945**：纳粹政权利用瓦格纳音乐与拜罗伊特传统。希特勒是拜罗伊特的常客。
+
+  *1930–1945*: Nazi regime exploited Wagner's music and Bayreuth tradition. Hitler was a frequent visitor to Bayreuth.
+
+- **1951至今**：战后拜罗伊特音乐节由瓦格纳之孙维兰德与沃尔夫冈重新开创，以"新拜罗伊特风格"（极简舞台、心理化解读）使音乐节重获国际声誉。至今仍是全球最重要的歌剧节之一。
+
+  *1951–present*: Post-war Bayreuth Festival re-established by Wagner's grandsons Wieland and Wolfgang with "New Bayreuth style" (minimalist staging, psychological interpretation), restoring international prestige. Remains one of the world's most important opera festivals.

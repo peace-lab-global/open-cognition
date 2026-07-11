@@ -1,0 +1,23 @@
+---
+id: cognitive-systems.school.ecological.varela.works
+title: 瓦雷拉核心著作 Francisco Varela Works
+type: works
+thinker: varela
+domain: cognitive-systems
+school: ecological
+---
+
+# 瓦雷拉核心著作 / Francisco Varela Key Works
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1980 | *Autopoiesis and Cognition*（与Maturana） | 自创生理论 |
+| 1991 | *The Embodied Mind*（与Thompson & Rosch） | 生成认知 |
+| 1996 | "Neurophenomenology" | 神经现象学 |
+
+## 二手研究
+- Thompson, E. (2007). *Mind in Life*. Harvard University Press.
+- Stewart, J. et al. (eds.) (2010). *Enaction: Toward a New Paradigm*. MIT Press.
+
+## 中文资源
+- 瓦雷拉等《具身心智：认知科学和人类经验》，浙江大学出版社

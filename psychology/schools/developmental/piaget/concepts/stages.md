@@ -1,0 +1,143 @@
+---
+id: psychology.developmental.piaget.stages
+title: "认知发展阶段 · Cognitive Developmental Stages"
+type: concept
+parent: psychology.developmental.piaget
+domain: psychology
+school: developmental
+tags: [发展阶段, 感知运动, 前运算, 具体运算, 形式运算, developmental stages, sensorimotor, preoperational, concrete operational, formal operational]
+---
+
+# 认知发展阶段 · Cognitive Developmental Stages
+
+## 定义 / Definition
+
+**认知发展阶段**（Cognitive Developmental Stages）是皮亚杰理论的核心架构，描述了儿童从出生到成年期间认知能力经历的四个质上不同的有序阶段：**感知运动阶段**（Sensorimotor Stage）、**前运算阶段**（Preoperational Stage）、**具体运算阶段**（Concrete Operational Stage）和**形式运算阶段**（Formal Operational Stage）。每个阶段代表一种整体性的认知组织方式（structure d'ensemble），阶段之间的过渡涉及认知结构的根本性重组，而非知识的简单累积。
+
+**Cognitive Developmental Stages** are the central architecture of Piaget's theory, describing four qualitatively distinct ordered stages of cognitive ability from birth to adulthood: the **Sensorimotor Stage**, the **Preoperational Stage**, the **Concrete Operational Stage**, and the **Formal Operational Stage**. Each stage represents a holistic mode of cognitive organization (structure d'ensemble), and transitions between stages involve fundamental reorganization of cognitive structures rather than simple accumulation of knowledge.
+
+皮亚杰的阶段理论有四个关键特征：**（1）不变序列**（invariant sequence）——阶段必须以固定顺序出现，不能跳过；**（2）整体性**（holistic structure）——每个阶段是一个完整的认知组织系统，而非孤立能力的集合；**（3）质的差异**（qualitative difference）——相邻阶段之间的差异是质的而非量的；**（4）普遍性**（universality）——阶段序列在所有文化中保持不变，但达到各阶段的年龄可能有差异。
+
+Piaget's stage theory has four key features: **(1) invariant sequence** — stages must occur in fixed order and cannot be skipped; **(2) holistic structure** — each stage is an integrated cognitive organization system, not a collection of isolated abilities; **(3) qualitative difference** — differences between adjacent stages are qualitative, not quantitative; **(4) universality** — the stage sequence remains invariant across all cultures, though the ages at which stages are reached may vary.
+
+## 核心机制 / Core Mechanisms
+
+### 感知运动阶段（0–2岁）/ Sensorimotor Stage (0–2 years)
+
+这一阶段是认知的起点，婴儿通过感觉和运动行动来认识世界。皮亚杰将其细分为六个亚阶段：
+
+This stage is the starting point of cognition, where infants know the world through sensation and motor action. Piaget subdivided it into six sub-stages:
+
+| 亚阶段 / Sub-stage | 年龄 / Age | 特征 / Characteristics |
+|:---|:---|:---|
+| 1. 反射练习 / Reflex Exercise | 0–1月 / 0–1 month | 先天反射（吸吮、抓握）的练习和初步协调 / Practice and initial coordination of innate reflexes |
+| 2. 初级循环反应 / Primary Circular Reactions | 1–4月 / 1–4 months | 以自身身体为中心的重复性行动 / Repetitive actions centered on own body |
+| 3. 次级循环反应 / Secondary Circular Reactions | 4–8月 / 4–8 months | 以外部客体为中心的重复性行动 / Repetitive actions centered on external objects |
+| 4. 次级图式的协调 / Coordination of Secondary Schemas | 8–12月 / 8–12 months | 有目的的行动和手段-目的分化；客体永久性开始出现 / Goal-directed action and means-end differentiation; object permanence begins |
+| 5. 三级循环反应 / Tertiary Circular Reactions | 12–18月 / 12–18 months | "小科学家"——通过试验发现新的行动方式 / "Little scientist" — discovering new action patterns through experimentation |
+| 6. 心理表征的萌芽 / Beginnings of Mental Representation | 18–24月 / 18–24 months | 延迟模仿、符号游戏和心理意象出现 / Deferred imitation, symbolic play, and mental imagery emerge |
+
+这一阶段最重要的成就是**客体永久性**（object permanence）的获得——理解物体即使脱离感知范围仍然存在。这一成就标志着婴儿从纯粹的感觉运动世界向客体世界的根本转变，也为下一个阶段的符号思维奠定了基础。
+
+The most important achievement of this stage is the acquisition of **object permanence** — understanding that objects continue to exist even when removed from perception. This achievement marks the fundamental transition from a purely sensorimotor world to a world of objects, also laying the foundation for symbolic thinking in the next stage.
+
+### 前运算阶段（2–7岁）/ Preoperational Stage (2–7 years)
+
+前运算阶段的标志是**符号功能**（semiotic function / fonction sémiotique）的出现——儿童能够使用语言、心理意象、绘画和象征性游戏来表征不在场的客体和事件。皮亚杰将这一阶段分为两个子阶段：**象征思维子阶段**（symbolic thought substage, 2–4岁）和**直觉思维子阶段**（intuitive thought substage, 4–7岁）。
+
+The hallmark of the preoperational stage is the emergence of the **semiotic function** — children can use language, mental imagery, drawing, and symbolic play to represent absent objects and events. Piaget divided this stage into two sub-stages: the **symbolic thought substage** (2–4 years) and the **intuitive thought substage** (4–7 years).
+
+前运算思维的关键局限包括：
+
+Key limitations of preoperational thinking include:
+
+- **自我中心主义（Egocentrism）**：难以从他人视角看问题。皮亚杰的"三山实验"（Three Mountain Task）表明，前运算儿童倾向于认为他人看到的与自己看到的完全相同。Difficulty seeing from others' perspectives.
+- **中心化（Centration）**：倾向于只关注事物的一个显著方面而忽视其他方面。例如在守恒任务中，只关注容器的高度而忽略宽度。Tendency to focus on only one salient aspect.
+- **不可逆性（Irreversibility）**：无法在心理上逆转一个操作过程。例如无法理解如果3+4=7，则7-4=3。Inability to mentally reverse an operational process.
+- **泛灵论（Animism）**：将生命和意识属性赋予无生命物体，如认为太阳"跟着自己走"。Attributing life and consciousness to inanimate objects.
+- **人为论（Artificialism）**：认为自然现象是人为创造的，如"湖是人挖的"。Believing natural phenomena are human-made.
+- **转导推理（Transductive reasoning）**：从个别到个别的推理，缺乏一般性原则。Reasoning from particular to particular without general principles.
+
+### 具体运算阶段（7–11岁）/ Concrete Operational Stage (7–11 years)
+
+具体运算阶段的核心成就是获得了**心理运算**（mental operations）的能力。心理运算具有两个关键特征：**可逆性**（reversibility，可以在心理上逆转操作）和**去中心化**（decentration，可以同时考虑事物的多个方面）。但运算仍然局限于具体经验，无法系统地处理纯抽象的假设。
+
+The core achievement of the concrete operational stage is the acquisition of **mental operations**. Mental operations have two key features: **reversibility** (ability to mentally reverse operations) and **decentration** (ability to consider multiple aspects simultaneously). But operations remain limited to concrete experience and cannot systematically handle purely abstract hypotheses.
+
+具体运算阶段的主要认知成就包括：
+
+Main cognitive achievements include:
+
+- **守恒（Conservation）**：理解物质在外观变化后仍保持某些不变属性。守恒的获得有一个序列：数量守恒（约6–7岁）→质量/液体守恒（约7–8岁）→重量守恒（约9–10岁）→体积守恒（约11–12岁）。Understanding that substances maintain invariant properties despite appearance changes.
+- **分类（Classification）**：理解类的包含关系，如"所有的玫瑰都是花，但不是所有的花都是玫瑰"。Understanding class inclusion relationships.
+- **序列化（Seriation）**：按某一维度（如长度、重量）将物体有序排列。Ordering objects by a dimension.
+- **传递推理（Transitive inference）**：如果A>B且B>C，则A>C。If A>B and B>C, then A>C.
+
+### 形式运算阶段（11岁以上）/ Formal Operational Stage (11+ years)
+
+形式运算阶段标志着**抽象思维**和**命题逻辑**能力的出现。青少年能够进行**假设-演绎推理**（hypothetico-deductive reasoning）——先提出假设，然后系统地检验假设。他们能够理解**命题逻辑**（propositional logic），即对不依赖具体内容的抽象命题进行推理。此外，他们发展了**组合思维**（combinatorial thinking）——系统地考虑所有可能的变量组合。
+
+The formal operational stage marks the emergence of **abstract thinking** and **propositional logic** ability. Adolescents can perform **hypothetico-deductive reasoning** — first formulating hypotheses, then systematically testing them. They can understand **propositional logic**, reasoning about abstract propositions independent of concrete content. Additionally, they develop **combinatorial thinking** — systematically considering all possible variable combinations.
+
+皮亚杰和英海尔德使用了多个任务来检验形式运算能力，其中最著名的是**钟摆问题**（pendulum problem）：给定不同长度的绳子、不同重量的物体和不同高度的释放点，要求找出影响钟摆摆动速度的因素。只有达到形式运算阶段的青少年才能系统地控制变量，逐一检验每个因素的影响。
+
+Piaget and Inhelder used several tasks to test formal operational ability, most famously the **pendulum problem**: given strings of different lengths, objects of different weights, and release points at different heights, determine what affects pendulum swing speed. Only adolescents who have reached formal operations can systematically control variables, testing each factor's effect individually.
+
+## 发展脉络 / Developmental Trajectory
+
+### 对阶段理论的修正 / Revisions of Stage Theory
+
+自皮亚杰提出阶段理论以来，发展心理学的研究对其进行了多方面的修正：
+
+Since Piaget proposed the stage theory, developmental psychology research has revised it in multiple ways:
+
+**（1）婴儿认知能力被低估**：现代研究使用更精密的方法（如习惯化-去习惯化范式、眼动追踪、违反预期范式）发现，婴儿的认知能力远超皮亚杰的估计。例如，Baillargeon（1987）的研究表明，3.5个月大的婴儿就具有客体永久性的初步理解。Modern research using more sophisticated methods (habituation-dishabituation paradigms, eye-tracking, violation-of-expectation paradigms) has found that infant cognitive abilities far exceed Piaget's estimates.
+
+**（2）发展的领域特殊性**：新皮亚杰学派（Neo-Piagetians）如凯斯（Case）、帕斯卡尔-莱昂内（Pascual-Leone）等人提出，认知发展在不同领域（domain）可能是不同步的，而非像皮亚杰假设的那样是整体的。Neo-Piagetians have proposed that cognitive development may be asynchronous across domains rather than holistic as Piaget assumed.
+
+**（3）形式运算的普遍性问题**：跨文化研究表明，形式运算并非在所有文化中都能达到，即使在接受过正式教育的西方社会中，也有相当比例的成人未能稳定地展示形式运算能力。Cross-cultural studies show that formal operations are not achieved in all cultures, and even in educated Western societies, a significant proportion of adults do not consistently demonstrate formal operational abilities.
+
+**（4）"水平滞差"（horizontal décalage）问题**：皮亚杰发现，同一阶段内的不同认知任务（如不同类型的守恒）的掌握时间存在差异，他称之为"水平滞差"。这一现象对阶段理论的整体性假设构成挑战。Piaget found that mastery of different cognitive tasks within the same stage occurs at different times, which he called "horizontal décalage." This challenges the holistic assumption of stage theory.
+
+## 临床应用 / Clinical Applications
+
+### 教育设计 / Educational Design
+
+认知发展阶段理论为教育设计提供了基本框架。课程设计应遵循"从具体到抽象"的原则：小学阶段的数学教学应使用具体操作材料（如计数棒、积木），中学阶段可逐步引入抽象概念。"发展适宜性实践"（Developmentally Appropriate Practice, DAP）直接源于皮亚杰的阶段理论。
+
+Cognitive stage theory provides a basic framework for educational design. Curriculum design should follow the principle of "from concrete to abstract": elementary mathematics should use concrete manipulatives (counting rods, blocks), while secondary education can gradually introduce abstract concepts. "Developmentally Appropriate Practice" (DAP) derives directly from Piaget's stage theory.
+
+### 发展障碍评估 / Developmental Disorder Assessment
+
+认知发展阶段评估可以帮助识别发展迟缓和学习障碍。例如，如果一个8岁儿童仍然无法通过守恒任务，可能表明其认知发展存在滞后，需要进一步的评估和干预。皮亚杰式评估工具（如守恒任务组、分类任务组）在特殊教育领域仍被广泛使用。
+
+Cognitive stage assessment can help identify developmental delays and learning disabilities. For example, if an 8-year-old still cannot pass conservation tasks, it may indicate cognitive developmental delay requiring further assessment and intervention. Piagetian assessment tools remain widely used in special education.
+
+## 关联概念 / Related Concepts
+
+- [[cognitive-development|认知发展]] — 阶段理论所属的整体框架
+- [[assimilation-accommodation|同化与顺应]] — 推动阶段过渡的适应机制
+- [[schema|图式]] — 每个阶段的认知结构基本单位
+- [[../../erikson/README|埃里克森的心理社会发展阶段]] — 心理社会维度的平行阶段理论
+
+## 东西方对话 / East-West Dialogue
+
+### 与印度教"人生四行期"的对话 / Dialogue with Hindu Āśrama System
+
+印度教的"人生四行期"（Āśrama）制度将人生分为梵行期（学生）、家居期（家庭责任）、林栖期（退隐）和遁世期（放弃世俗），与皮亚杰的四阶段理论有结构上的平行——两者都认为发展经历质上不同的有序阶段，每个阶段有独特的任务和能力。但印度教的阶段是由社会规范规定的生命阶段，而皮亚杰的阶段是认知能力的发展阶段。
+
+The Hindu āśrama system divides life into brahmacharya (student), grihastha (householder), vanaprastha (forest dweller), and sannyasa (renunciant), structurally paralleling Piaget's four stages — both hold that development proceeds through qualitatively distinct ordered stages, each with unique tasks and capacities. But the Hindu stages are socially prescribed life phases, while Piaget's are stages of cognitive ability development.
+
+### 与庄子"逍遥"的对话 / Dialogue with Zhuangzi's "Free and Easy Wandering"
+
+皮亚杰将形式运算视为认知发展的最高阶段——能够超越具体经验进行抽象思维。但庄子的"逍遥游"暗示了一种超越所有概念框架的更高层次的"认知"——不是更复杂的逻辑推理，而是放下概念执着、与道合一的直觉智慧。这提示了皮亚杰阶段理论可能遗漏了一种超越形式运算的认知可能性。
+
+Piaget regarded formal operations as the highest stage — the ability to transcend concrete experience through abstract thinking. But Zhuangzi's "free and easy wandering" implies a higher level of "cognition" transcending all conceptual frameworks — not more complex logical reasoning but intuitive wisdom that releases conceptual attachment and merges with the Dao. This suggests Piaget's stage theory may have overlooked a cognitive possibility that transcends formal operations.
+
+## 进阶阅读 / Further Reading
+
+- Piaget, J. (1952). *The Origins of Intelligence in Children*. — 感知运动阶段的经典论述
+- Piaget, J., & Inhelder, B. (1958). *The Growth of Logical Thinking from Childhood to Adolescence*. — 具体运算和形式运算的系统研究
+- Piaget, J., & Inhelder, B. (1969). *The Psychology of the Child*. — 全阶段的综合性概述
+- Case, R. (1985). *Intellectual Development: Birth to Adulthood*. — 新皮亚杰学派的重要修正
+- Dasen, P.R. (1972). "Piagetian cross-cultural research." — 阶段理论的跨文化检验

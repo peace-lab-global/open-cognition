@@ -1,0 +1,105 @@
+---
+id: descartes-works
+title: 笛卡尔著作详述 · Descartes's Major Works
+type: works
+domain: philosophy
+thinker: descartes
+---
+
+# 笛卡尔著作详述 · Descartes's Major Works
+
+## 《指导心灵的规则》 · Regulae ad Directionem Ingenii (c. 1628)
+
+这部未完成的方法论著作是笛卡尔哲学方法的雏形。全书包含36条规则（原计划更多），分为三组：第一组（规则1-12）讨论获得知识的一般方法，强调直观（intuitus）和演绎（deductio）是获得确定知识的唯一途径；第二组（规则13-24）讨论"完全确定的问题"的解决方法；第三组（规则25-36）讨论"不完全确定的问题"。这部著作最重要的贡献是确立了"简单性质"（simple natures）理论——一切复杂知识都可以分解为最简单的、不可再分解的观念。
+
+This unfinished methodological work is the prototype of Descartes's philosophical method. It contains 36 rules (originally planned to be more), divided into three groups: the first (Rules 1–12) discusses general methods for acquiring knowledge, emphasizing intuition (intuitus) and deduction (deductio) as the only routes to certain knowledge; the second (Rules 13–24) addresses "perfectly determined problems"; the third (Rules 25–36) addresses "imperfectly determined problems." Its most important contribution is the theory of "simple natures" — all complex knowledge can be decomposed into simplest, irreducible ideas.
+
+## 《谈谈方法》 · Discours de la méthode (1637)
+
+笛卡尔第一部出版的哲学著作，也是近代哲学的宣言。以法文（而非学术惯用的拉丁文）写成，面向受过教育的普通读者。全书分为六部分：
+
+Descartes's first published philosophical work and the manifesto of modern philosophy. Written in French (rather than academic Latin) for educated general readers. Divided into six parts:
+
+1. **对各种学问的考察**：对经院教育的批判性回顾
+2. **方法的主要规则**：四条方法论规则——（1）不接受任何未经验证的东西；（2）将难题分解为最简单的部分；（3）从最简单到最复杂有序地思考；（4）做全面的列举和检查
+3. **从该方法引出的几条道德准则**：临时的行为规则——遵守法律习俗、坚定果断、改变自己而非世界秩序、追求真理
+4. **上帝和灵魂的证明**：首次提出"我思故我在"和上帝存在证明
+5. **物理学和医学**：自然哲学和生物学的概述
+6. **继续研究的计划**：对未来科学研究的展望
+
+1. **Survey of various branches of learning**: Critical review of scholastic education
+2. **Principal rules of the method**: Four methodological rules — (1) accept nothing unverified; (2) divide problems into simplest parts; (3) think in order from simplest to most complex; (4) make comprehensive enumerations and reviews
+3. **Moral maxims derived from the method**: Provisional behavioral rules
+4. **Proofs of God and the soul**: First presentation of the cogito and God-existence proofs
+5. **Physics and medicine**: Overview of natural philosophy and biology
+6. **Plans for further research**: Prospects for future scientific inquiry
+
+## 《几何学》 · La Géométrie (1637)
+
+作为《谈谈方法》的附录发表，这部著作创立了解析几何——用代数方程表示几何图形，从而统一了代数和几何学。笛卡尔引入了用字母表示已知量和未知量的惯例，以及用x、y表示坐标轴的惯例（虽然他的坐标系统与现代有所不同）。这一发明使几何问题可以通过代数计算来解决，深刻影响了此后整个数学和物理学的发展。
+
+Published as an appendix to the *Discourse*, this work founded analytic geometry — representing geometric figures with algebraic equations, thereby unifying algebra and geometry. Descartes introduced the convention of using letters for knowns and unknowns, and x, y for coordinate axes (though his coordinate system differs somewhat from the modern one). This invention enabled geometric problems to be solved through algebraic calculation, profoundly influencing all subsequent mathematics and physics.
+
+## 《第一哲学沉思集》 · Meditationes de Prima Philosophia (1641)
+
+笛卡尔最重要的哲学著作，也是整个西方哲学史上最具影响力的文本之一。以拉丁文写成，分为六个沉思：
+
+Descartes's most important philosophical work and one of the most influential texts in the entire history of Western philosophy. Written in Latin, divided into six meditations:
+
+1. **第一沉思：论可以引起怀疑的事物**：执行三层怀疑——感官怀疑、梦境论证、恶魔假说
+2. **第二沉思：论人的心灵的本性以及心灵比物体更容易被认识**：发现"我思故我在"，确立思维实体，蜡块论证
+3. **第三沉思：论上帝及其存在**：天赋观念理论，上帝存在的"商标论证"
+4. **第四沉思：论真与假**：错误的原因——意志的范围超过了理解的范围
+5. **第五沉思：论物质性东西的本质以及再论上帝存在**：本质与存在，上帝存在的本体论论证
+6. **第六沉思：论物质性东西的存在以及论人的心灵和身体的实在区别**：物质世界的存在，身心二元论的正式论证
+
+1. **Meditation I: Concerning Those Things That Can Be Called into Doubt**: Three-level doubt — sensory, dream, evil genius
+2. **Meditation II: Concerning the Nature of the Human Mind, and That It Is Better Known Than the Body**: Discovery of the cogito, establishment of res cogitans, wax argument
+3. **Meditation III: Concerning God, That He Exists**: Innate ideas theory, "Trademark Argument" for God
+4. **Meditation IV: Concerning the True and the False**: Cause of error — will exceeds understanding
+5. **Meditation V: Concerning the Essence of Material Things, and Again Concerning God**: Essence and existence, ontological argument
+6. **Meditation VI: Concerning the Existence of Material Things, and the Real Distinction of Mind from Body**: Material world's existence, formal mind-body dualism argument
+
+本书附有来自阿尔诺、伽桑狄、霍布斯等人的六组反驳及笛卡尔的详细答复，构成了近代哲学史上最重要的哲学论辩之一。
+
+The book includes six sets of objections from Arnauld, Gassendi, Hobbes, and others, with Descartes's detailed replies, constituting one of the most important philosophical debates in modern philosophy.
+
+## 《哲学原理》 · Principia Philosophiae (1644)
+
+笛卡尔最系统的哲学著作，以教科书的形式写成，分为四个部分：
+
+Descartes's most systematic philosophical work, written in textbook form, divided into four parts:
+
+1. **人类知识原理**：认识论和形而上学——"我思"、上帝证明、清楚分明标准
+2. **物质事物的原理**：物理学——运动定律、碰撞规则、漩涡理论
+3. **可见的世界**：宇宙学——太阳系、恒星、彗星
+4. **地球**：地球科学——地质学、气象学、矿物学
+
+1. **Principles of Human Knowledge**: Epistemology and metaphysics
+2. **Principles of Material Things**: Physics — laws of motion, collision rules, vortex theory
+3. **The Visible World**: Cosmology — solar system, stars, comets
+4. **The Earth**: Earth sciences — geology, meteorology, mineralogy
+
+## 《灵魂的激情》 · Les Passions de l'âme (1649)
+
+笛卡尔最后的重要著作，探讨身心交感问题和情感的心理学。全书分为三部分：
+
+Descartes's last major work, exploring the mind-body interaction problem and the psychology of emotions. Divided into three parts:
+
+1. **一般地论激情**：激情的定义、松果体的功能、身心交互作用的一般理论
+2. **激情的数量和秩序**：对六种基本激情（惊奇、爱、恨、欲望、快乐、悲伤）的详细分析
+3. **特殊的激情**：对其他具体情感（如慷慨、嫉妒、怜悯等）的分析
+
+1. **On the Passions in General**: Definition of passions, pineal gland function, general theory of mind-body interaction
+2. **The Number and Order of the Passions**: Detailed analysis of six basic passions (wonder, love, hatred, desire, joy, sadness)
+3. **Particular Passions**: Analysis of specific emotions (generosity, jealousy, pity, etc.)
+
+这部著作是笛卡尔哲学中最具"现代性"的部分之一——它的情感分析直接影响了当代情感心理学和神经科学。
+
+This work is among the most "modern" parts of Cartesian philosophy — its emotion analysis directly influenced contemporary emotion psychology and neuroscience.
+
+## 参考文献 / References
+
+- Cottingham, J. (ed.) (1992). *The Cambridge Companion to Descartes*. Cambridge University Press.
+- Gaukroger, S. (1995). *Descartes: An Intellectual Biography*. Oxford University Press.
+- Rodis-Lewis, G. (1998). *Descartes: His Life and Thought*. Cornell University Press.

@@ -1,0 +1,66 @@
+---
+id: parfit-works
+title: 帕菲特作品总览 · Derek Parfit Works
+type: works-catalogue
+domain: philosophy
+school: analytic
+thinker: parfit
+tags: [parfit, works, bibliography]
+cross-refs:
+  - id: parfit
+    relation: thinker
+---
+
+# 帕菲特作品总览 · Derek Parfit Works
+
+## 一、核心专著 / Major Monographs
+
+| 年份 | 书名 | 中译 | 备注 |
+|------|------|------|------|
+| 1984 | *Reasons and Persons* | 《理由与人格》 | 核心巨著，4部分 |
+| 2011 | *On What Matters* (Vols. 1-2) | 《论重要之事》 | 三重理论、伦理学综合 |
+| 2017 | *On What Matters* (Vol. 3) | 《论重要之事》卷三 | 进一步辩护与回应 |
+
+## 二、重要论文 / Key Papers
+
+| 年份 | 论文 | 期刊/文集 | 核心主题 |
+|------|------|-----------|----------|
+| 1971 | "Personal Identity" | *Philosophical Review* | 个人同一性还原论 |
+| 1973 | "Later Selves and Moral Principles" | *Philosophy and Personal Relations* | 同一性与道德 |
+| 1982 | "Future People, the Non-Identity Problem, and a New Theory" | 会议论文 | 非同一性问题 |
+| 1986 | "Comments" (on Rawls) | *Ethics* | 对罗尔斯的评论 |
+| 1997 | "Reasons and Motivation" | *Proceedings of the Aristotelian Society* | 客观理由论 |
+| 2001 | "Rationality and Reasons" | *Exploring Practical Rationality* | 理性与理由 |
+| 2004 | "Overpopulation and the Quality of Life" | *The Repugnant Conclusion* | 人口伦理学 |
+| 2006 | "Normativity" | *Oxford Studies in Metaethics* | 规范性 |
+| 2011 | "On What Matters" (reply to critics) | *On What Matters* Vol. 3 | 回应批评 |
+
+## 三、《理由与人格》结构 / Structure of Reasons and Persons
+
+- **第一部分**：自我挫败的理论（Self-Defeating Theories）——理性利己主义为何自我挫败
+- **第二部分**：理性与时间（Rationality and Time）——对未来和过去的理性态度
+- **第三部分**：个人同一性（Personal Identity）——还原论论证及其伦理后果
+- **第四部分**：未来世代（Future Generations）——非同一性问题与人口伦理学
+
+## 四、《论重要之事》结构 / Structure of On What Matters
+
+- **卷一**：六种反对意见、康德主义、契约主义——三种理论的阐述
+- **卷二**：后果主义、三重理论——理论的趋同
+- **卷三**：回应批评、进一步论证、元伦理学
+
+## 五、中译本 / Chinese Translations
+
+- 《理与人》（王新生译，上海译文出版社）— *Reasons and Persons*
+- 《论重要之事》（阮航、葛四友译，上海译文出版社）
+
+## 六、阅读路径
+
+### 入门
+1. *Reasons and Persons* Part III (Personal Identity) — 最引人入胜
+2. "Personal Identity" (1971) — 原始论文
+3. Scheffler (ed.), *Personal Identity* (1982) — 含帕菲特与批评
+
+### 进阶
+4. *Reasons and Persons* 全书
+5. *On What Matters* Vol. 1 — 三重理论
+6. *On What Matters* Vol. 3 — 回应批评

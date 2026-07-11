@@ -1,0 +1,125 @@
+---
+id: cognitive-closure
+title: "认知闭合 · Cognitive Closure"
+type: concept
+thinker: mcginn
+domain: philosophy
+school: analytic
+tags:
+  - cognitive-closure
+  - epistemology
+  - evolution
+  - limits-of-knowledge
+  - mind
+---
+
+# 认知闭合 · Cognitive Closure
+
+## 概念定位 / Conceptual Position
+
+认知闭合（Cognitive Closure）是McGinn哲学体系中最核心的理论概念——它是新神秘主义和先验自然主义的认识论基础。McGinn用"认知闭合"来描述一种特殊的认知状态：**一个问题对于特定的认知主体来说，在原则上（in principle）是不可理解或不可解决的**。
+
+Cognitive Closure is the most central theoretical concept in McGinn's philosophical system — it is the epistemological foundation of New Mysterianism and Transcendental Naturalism. McGinn uses "cognitive closure" to describe a special cognitive state: **a problem is in principle incomprehensible or unsolvable for a particular cognitive agent**.
+
+"认知闭合"不同于普通的"不知道"（ignorance）。McGinn区分了三种认知状态：
+
+"Cognitive closure" differs from ordinary "ignorance." McGinn distinguishes three cognitive states:
+
+1. **已知（Known）：** 问题已被解决。/ Problem solved.
+2. **暂时未知（Temporarily Unknown）：** 问题尚未被解决，但在原则上可以被解决——例如，在牛顿时代，电磁现象暂时未知。/ Problem not yet solved but solvable in principle — e.g., electromagnetic phenomena were temporarily unknown in Newton's time.
+3. **认知闭合（Cognitively Closed）：** 问题在原则上不可解决——不是因为我们缺乏数据或技术，而是因为我们的认知结构本身不适合处理这类问题。/ Problem unsolvable in principle — not because we lack data or technology, but because our cognitive structure itself is ill-suited to this type of problem.
+
+McGinn的核心主张是：心身问题对人类来说属于第三类——认知闭合。
+
+McGinn's central claim: the mind-body problem belongs to the third category for humans — cognitively closed.
+
+---
+
+## 核心论述 / Core Argument
+
+McGinn对认知闭合概念的论证建立在几个关键要素之上：
+
+McGinn's argument for cognitive closure rests on several key elements:
+
+### 物种相对性原则 / Species-Relativity Principle
+
+认知能力不是全有或全无的——它是分层的、物种特异性的。McGinn通过一系列例子来说明这一点：
+
+Cognitive capacity is not all-or-nothing — it is stratified and species-specific. McGinn illustrates this through a series of examples:
+
+- 蜜蜂可以感知紫外线，但不能理解量子力学 / Bees can perceive ultraviolet light but cannot understand quantum mechanics
+- 狗可以理解简单的因果关系，但不能理解莎士比亚 / Dogs can understand simple causation but cannot understand Shakespeare
+- 黑猩猩可以使用工具，但不能理解相对论 / Chimpanzees can use tools but cannot understand relativity
+
+在每个案例中，特定物种的认知能力被其进化历史和神经结构所限定。McGinn认为，没有理由假设人类是例外——我们的心智也被进化所塑造，具有特定的认知能力和特定的认知盲区。
+
+In each case, a species' cognitive capacity is constrained by its evolutionary history and neural structure. McGinn argues there is no reason to assume humans are exceptions — our minds too are shaped by evolution, with specific cognitive capacities and specific cognitive blind spots.
+
+### 闭合的"原则上"性质 / The "In Principle" Nature of Closure
+
+McGinn特别强调"原则上"（in principle）这个词的重要性。认知闭合不是暂时的限制——不是"我们还没想到"，而是"我们的认知结构不允许我们想到"。这可以通过类比来理解：无论给一只狗多少时间和多少训练材料，它都永远不会理解微积分。这不是狗不够努力的问题，而是狗的认知结构在原则上不适合处理微积分所需的抽象概念。
+
+McGinn especially emphasizes the importance of "in principle." Cognitive closure is not a temporary limitation — not "we haven't thought of it yet" but "our cognitive structure does not permit us to think of it." This can be understood through analogy: no matter how much time or training materials you give a dog, it will never understand calculus. This is not a matter of the dog not trying hard enough, but of the dog's cognitive structure being in principle unsuited to the abstract concepts calculus requires.
+
+### 进化论证 / The Evolutionary Argument
+
+McGinn的认知闭合论有进化论的基础。人类大脑是自然选择的产物，它的功能是解决对生存和繁殖有利的问题。McGinn论证说：
+
+McGinn's cognitive closure has an evolutionary foundation. The human brain is a product of natural selection; its function is to solve problems beneficial for survival and reproduction. McGinn argues:
+
+1. 进化选择压力塑造了人类特定的认知能力 / Evolutionary selection pressures shaped humans' specific cognitive capacities
+2. 这些认知能力是针对特定生态环境中的生存问题优化的 / These capacities were optimized for survival problems in specific ecological environments
+3. 理解意识的形而上学本质不在这些适应性问题之列 / Understanding consciousness's metaphysical nature was not among these adaptive problems
+4. 因此，没有理由假设人类大脑具有解决心身问题的能力 / Therefore, there is no reason to assume human brains have the capacity to solve the mind-body problem
+
+### 概念系统的限制 / Limitations of the Conceptual System
+
+McGinn还从概念层面论证认知闭合。他认为，人类的认知依赖于特定的概念系统——空间、时间、因果、物质等基本概念。这些概念是在与宏观物理世界的互动中发展出来的。但意识的本质可能涉及到超越这些基本概念的性质——我们的概念系统可能从根本上不适合把握意识的内在结构。
+
+McGinn also argues for cognitive closure at the conceptual level. He holds that human cognition depends on specific conceptual systems — basic concepts of space, time, causation, matter, etc. These concepts developed through interaction with the macroscopic physical world. But consciousness's nature may involve properties that transcend these basic concepts — our conceptual system may be fundamentally unsuited to grasping consciousness's internal structure.
+
+---
+
+## 哲学意义 / Philosophical Significance
+
+**对启蒙理性主义的挑战 / Challenge to Enlightenment Rationalism:** 启蒙运动以来的西方知识传统假设人类理性是理解世界的充分工具。McGinn的认知闭合概念直接挑战了这一假设：理性是强大的，但不是万能的。某些问题——尤其是心身问题——超出了理性的范围。
+
+Western intellectual tradition since the Enlightenment assumes human reason is an adequate tool for understanding the world. McGinn's cognitive closure concept directly challenges this assumption: reason is powerful but not omnipotent. Certain problems — especially the mind-body problem — lie beyond reason's scope.
+
+**哲学问题的重新分类 / Reclassification of Philosophical Problems:** McGinn的认知闭合概念暗示了一种对哲学问题的全新分类方式：（1）对人类认知开放的问题（如逻辑学、数学、大部分科学）；（2）对人类认知闭合的问题（如心身问题、可能还有自由意志、意义的本质等）。
+
+McGinn's cognitive closure concept implies a novel classification of philosophical problems: (1) problems cognitively open to humans (like logic, mathematics, most of science); (2) problems cognitively closed to humans (like the mind-body problem, and possibly free will, the nature of meaning, etc.).
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**与佛教"所知障"的对话 / Dialogue with Buddhism's "Cognitive Obscuration" (jñeyavarana):** 大乘佛教区分了两种障碍：烦恼障（klesavarana，情感障碍）和所知障（jñeyavarana，认知障碍）。所知障指的是阻碍我们正确认识实在本质的认知结构——包括概念执着、二元分别等。McGinn所说的"认知闭合"与"所知障"有惊人的相似性：两者都主张人类的认知结构本身阻碍了对某种重要真理的把握。区别在于：佛教认为所知障可以通过修行消除；McGinn认为认知闭合是生物性的、不可消除的。
+
+Mahayana Buddhism distinguishes two obscurations: afflictive obscurations (klesavarana, emotional obstacles) and cognitive obscurations (jñeyavarana, cognitive obstacles). Cognitive obscurations refer to cognitive structures that prevent correct apprehension of reality's nature — including conceptual clinging, dualistic discrimination, etc. McGinn's "cognitive closure" bears striking similarity to "cognitive obscuration": both claim human cognitive structure itself obstructs grasping an important truth. The difference: Buddhism holds cognitive obscurations can be eliminated through practice; McGinn holds cognitive closure is biological and ineradicable.
+
+**与老子"知不知"的对话 / Dialogue with Laozi's "Knowing Not-Knowing":** 《道德经》第七十一章说："知不知，上；不知知，病。"——知道自己有所不知是最高境界；不知道自己所不知的是病态。McGinn的哲学恰恰体现了"知不知"——认识到心身问题是我们不能知的。
+
+The *Daodejing* Chapter 71 says: "To know that you do not know is the highest; not to know that you do not know is a disease." McGinn's philosophy embodies precisely "knowing not-knowing" — recognizing the mind-body problem is something we cannot know.
+
+---
+
+## 当代应用 / Contemporary Applications
+
+**科学界限研究 / Research on Science's Limits:** 认知闭合概念已被引入科学哲学的讨论中。一些哲学家（如Nicholas Rescher）主张，存在人类永远无法解决的科学问题——不仅仅是因为技术限制，而是因为认知限制。McGinn的认知闭合概念为这类讨论提供了重要的理论框架。
+
+The cognitive closure concept has been introduced into philosophy of science discussions. Some philosophers (like Nicholas Rescher) argue there exist scientific problems humans can never solve — not merely due to technological limits but due to cognitive limits. McGinn's cognitive closure concept provides an important theoretical framework for such discussions.
+
+**跨物种认知比较 / Cross-Species Cognitive Comparison:** McGinn的认知闭合概念促使认知科学家更认真地思考不同物种之间的认知差异。如果我们能更好地理解其他物种的认知闭合在哪里，我们也许能更好地理解自己的认知闭合在哪里。
+
+McGinn's cognitive closure concept prompts cognitive scientists to think more seriously about cognitive differences between species. If we can better understand where other species' cognitive closure lies, we might better understand where our own cognitive closure lies.
+
+---
+
+## 相关概念 / Related Concepts
+
+- [[new-mysterianism|新神秘主义 New Mysterianism]] — 认知闭合的理论应用
+- [[transcendental-naturalism|先验自然主义 Transcendental Naturalism]] — 认知闭合的本体论框架
+- [[consciousness-inexplicability|意识不可解释性 Consciousness Inexplicability]] — 认知闭合在意识领域的具体体现
+- [[hard-problem|硬问题回应 Hard Problem Response]] — 认知闭合与硬问题的关系
+- [[../README|麦金总条目 McGinn Main Entry]]

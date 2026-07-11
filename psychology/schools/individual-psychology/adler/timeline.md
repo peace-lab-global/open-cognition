@@ -1,0 +1,89 @@
+---
+id: adler-timeline
+title: "阿德勒生平年表 · Alfred Adler Life Timeline"
+type: timeline
+domain: psychology
+school: individual-psychology
+thinker: adler
+---
+
+# 阿德勒生平年表 · Alfred Adler Life Timeline
+
+---
+
+## 早年与家庭 / Early Life and Family (1870–1895)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1870 | 2月7日，出生于奥地利维也纳近郊鲁道夫斯海姆（Rudolfsheim）。父母为犹太谷物商人利奥波德·阿德勒（Leopold Adler）和保利娜·比尔（Pauline Beer）。阿德勒是家中六个孩子中的次子 / Born February 7 in Rudolfsheim, near Vienna, Austria. Parents: Jewish grain merchant Leopold Adler and Pauline Beer. Second of six children |
+| 约1873 / c.1873 | 弟弟在旁边的婴儿床上去世，给阿德勒留下了深刻印象 / Younger brother dies in the cot next to him, leaving a deep impression on Adler |
+| 约1874 / c.1874 | 患有佝偻病（rickets），直到四岁才能走路。一次严重的肺炎几乎夺去他的生命，这激发了他学医的志向 / Suffers from rickets, unable to walk until age four. A severe bout of pneumonia nearly kills him, sparking his desire to study medicine |
+| 约1880s / c.1880s | 在维也纳接受中学教育，成绩平平。与长兄西格蒙德（Sigmund）关系紧张，形成了强烈的竞争意识 / Receives secondary education in Vienna with mediocre grades. Tense relationship with older brother Sigmund, forming strong competitive drive |
+| 1888 | 进入维也纳大学医学院 / Enters the University of Vienna Medical School |
+| 1895 | 获得维也纳大学医学博士学位 / Receives M.D. from the University of Vienna |
+
+---
+
+## 医学实践与弗洛伊德时期 / Medical Practice and the Freud Period (1896–1911)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1897 | 与俄罗斯女学生拉伊莎·爱泼斯坦（Raissa Epstein）结婚，育有四个孩子：亚历山德拉（Alexandra, 1901）、库尔特（Kurt, 1904）、瓦伦蒂娜（Valentina, 1907）和科妮莉亚（Cornelia, 1910，后夭折）/ Marries Russian student Raissa Epstein; four children: Alexandra (1901), Kurt (1904), Valentina (1907), and Cornelia (1910, later deceased) |
+| 1897–1902 | 先后从事眼科和全科医学实践。在诊疗中注意到身体疾病与心理因素之间的关联 / Practices ophthalmology, then general medicine. Notices connections between physical illness and psychological factors |
+| 1902 | 受邀加入弗洛伊德的"心理星期三协会"（Psychologische Mittwoch-Gesellschaft），成为精神分析运动的早期核心成员 / Invited to join Freud's "Psychological Wednesday Society," becoming a core early member of the psychoanalytic movement |
+| 1907 | 出版《器官自卑研究》（*Studie über Minderwertigkeit von Organen*），提出器官自卑与心理补偿理论。弗洛伊德对此表示赞赏 / Publishes *Study of Organ Inferiority*, proposing organ inferiority and psychological compensation theory. Freud praises the work |
+| 1910 | 当选维也纳精神分析学会主席 / Elected president of the Vienna Psychoanalytic Society |
+| 1911 | 在学会会议上公开与弗洛伊德产生理论分歧。辞去主席职务，带领九名追随者离开，创立"自由精神分析协会"（后更名为"个体心理学协会"）/ Openly diverges from Freud at society meetings. Resigns presidency, leaves with nine followers to found the "Society for Free Psychoanalysis" (later renamed "Society for Individual Psychology") |
+
+---
+
+## 个体心理学的建立 / Building Individual Psychology (1912–1918)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1912 | 出版《神经性格》（*Über den nervösen Charakter*），系统阐述个体心理学的理论框架。创办《个体心理学中央期刊》/ Publishes *The Neurotic Character*, systematically articulating the Individual Psychology framework. Founds the *Central Journal for Individual Psychology* |
+| 1914 | 《个体心理学国际期刊》创刊 / *International Journal of Individual Psychology* launched |
+| 1914–1918 | 第一次世界大战期间在奥地利军队担任神经精神科医生，在前线医院治疗战争神经症 / Serves as neuropsychiatrist in the Austrian army during World War I, treating war neuroses in frontline hospitals |
+
+---
+
+## 维也纳黄金时期 / Vienna Golden Period (1919–1932)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1919 | 受维也纳社会主义市政府邀请，参与教育改革运动。在维也纳师范学校任教 / Invited by Vienna's socialist municipal government to participate in educational reform. Teaches at the Vienna Pedagogical Institute |
+| 1920 | 开始在维也纳建立儿童指导诊所（Erziehungsberatungsstellen），最终建立了30多所 / Begins establishing child guidance clinics (*Erziehungsberatungsstellen*) in Vienna, eventually building over 30 |
+| 1920s | 个体心理学运动迅速发展，吸引了大量学生和合作者，包括鲁道夫·德莱库尔斯（Rudolf Dreikurs）、亚历山大·缪勒（Alexander Müller）、奥斯卡·施皮尔（Oskar Spiel）等 / Individual Psychology movement grows rapidly, attracting many students and collaborators including Rudolf Dreikurs, Alexander Müller, Oskar Spiel |
+| 1922 | 在维也纳举办首次公开讲座系列 / Holds first public lecture series in Vienna |
+| 1926 | 首次访问美国，在哥伦比亚大学等地讲学 / First visit to the United States, lecturing at Columbia University and elsewhere |
+| 1927 | 出版《理解人性》（*Menschenkenntnis*），系统阐述人格理论和性格发展 / Publishes *Understanding Human Nature*, systematic exposition of personality theory and character development |
+| 1928 | 开始在美国多所大学进行定期讲座 / Begins regular lecture tours at multiple American universities |
+| 1930 | 出版《难教儿童的心理》/ Publishes *Guiding the Child* |
+| 1931 | 出版《自卑与超越》（*What Life Should Mean to You*），成为其最广为阅读的作品 / Publishes *What Life Should Mean to You*, becoming his most widely read work |
+| 1932 | 受聘为长岛医学院（Long Island College of Medicine）医学心理学教授 / Appointed professor of medical psychology at Long Island College of Medicine |
+
+---
+
+## 美国岁月与全球影响 / American Years and Global Influence (1933–1937)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1933 | 正式移居美国。出版《生活的意义》（*Der Sinn des Lebens* / *The Meaning of Life*）/ Officially emigrates to the United States. Publishes *The Meaning of Life* |
+| 1934 | 在美国各大城市进行密集讲座，推广个体心理学 / Conducts intensive lectures across major American cities, promoting Individual Psychology |
+| 1935 | 创办《国际个体心理学杂志》（*International Journal of Individual Psychology*）的美国版 / Launches the American edition of the *International Journal of Individual Psychology* |
+| 1936 | 发表"宗教与个体心理学"（Religion and Individual Psychology），探讨宗教经验的心理层面 / Publishes "Religion and Individual Psychology," exploring the psychological dimensions of religious experience |
+| 1937 | 5月28日，在苏格兰阿伯丁进行讲座巡回途中因心脏病突发去世，享年67岁。据传当时他走在阿伯丁的街道上，突然倒下。他的遗体被火化 / May 28: Dies suddenly of a heart attack in Aberdeen, Scotland, during a lecture tour, aged 67. Reportedly collapsed while walking on an Aberdeen street. His remains were cremated |
+
+---
+
+## 思想遗产 / Intellectual Legacy (1937–present)
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1937–1956 | 女儿亚历山德拉·阿德勒（Alexandra Adler）和儿子库尔特·阿德勒（Kurt Adler）继续推广个体心理学 / Daughter Alexandra Adler and son Kurt Adler continue promoting Individual Psychology |
+| 1952 | 北美阿德勒心理学会（NASAP）成立 / North American Society of Adlerian Psychology (NASAP) founded |
+| 1956 | 安斯巴赫尔夫妇编辑出版《阿德勒个体心理学选集》，成为标准参考文献 / Ansbachers edit *The Individual Psychology of Alfred Adler*, becoming the standard reference |
+| 1970s | 国际阿德勒心理学会（IAIP）成立 / International Association of Individual Psychology (IAIP) founded |
+| 1980s | 正面管教（Positive Discipline）运动由Jane Nelsen创立，基于阿德勒和德莱库尔斯的理论 / Positive Discipline movement founded by Jane Nelsen, based on Adler and Dreikurs' theories |
+| 2002–present | Henry Stein 主持的阿德勒全集学术版编辑工作持续进行 / Henry Stein's scholarly edition of Adler's complete works continues |
+| 2013 | 《被讨厌的勇气》（岸见一郎、古贺史健）在日本出版，后成为全球畅销书，使阿德勒思想在东亚获得广泛关注 / *The Courage to Be Disliked* (Kishimi & Koga) published in Japan, later becoming a global bestseller, bringing Adler's thought widespread attention in East Asia |

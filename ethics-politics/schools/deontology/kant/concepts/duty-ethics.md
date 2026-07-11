@@ -1,0 +1,113 @@
+---
+id: kant-duty-ethics
+title: "义务伦理 · Duty Ethics"
+type: concept
+thinker: kant
+domain: ethics-politics
+school: deontology
+tags:
+  - duty
+  - obligation
+  - moral-worth
+  - good-will
+  - deontology
+cross-refs:
+  - categorical-imperative
+  - autonomy
+  - practical-reason
+  - kingdom-of-ends
+---
+
+# 义务伦理 · Duty Ethics
+
+## 概念概述 / Concept Overview
+
+义务伦理（Pflichtethik）是康德道德哲学的核心特征，指以"义务"（Pflicht）而非后果作为道德判断和行为评价之基础的伦理学理论。在康德看来，一个行为的道德价值不在于它产生的结果——无论这些结果多么有益——而在于行为者的动机是否"出于义务"（aus Pflicht）。出于义务的行动意味着行为者的意志直接被道德法则所决定，而非被任何感性偏好、利益计算或情感冲动所驱动。
+
+Duty ethics (Pflichtethik) is the defining feature of Kantian moral philosophy—an ethical theory that takes "duty" (Pflicht) rather than consequences as the foundation of moral judgment and action evaluation. For Kant, the moral worth of an action lies not in the results it produces—however beneficial—but in whether the agent's motive is "from duty" (aus Pflicht). Acting from duty means the agent's will is directly determined by the moral law, not driven by any sensible inclination, interest calculation, or emotional impulse.
+
+这一立场使康德伦理学与后果主义（consequentialism）形成了根本性的对立。功利主义问"这个行为产生了多少幸福？"，而康德的义务伦理问"这个行为是否出于对道德法则的尊重？"前者关注行为的后果，后者关注行为的动机。
+
+This position sets Kantian ethics in fundamental opposition to consequentialism. Utilitarianism asks "how much happiness does this action produce?" while Kantian duty ethics asks "is this action done from respect for the moral law?" The former focuses on consequences, the latter on motives.
+
+## 理论内涵 / Theoretical Content
+
+### 善良意志 / Good Will
+
+义务伦理的出发点是"善良意志"（guter Wille）的概念。康德在《道德形而上学奠基》开篇即声明："在世界之内，甚至在世界之外，除了善良意志，不可能设想任何东西能被无限制地视为善的。"智慧、勇气、财富甚至幸福，如果没有善良意志的引导，都可能被滥用而成为恶的。善良意志之所以善，不是因为它所达成的效果，而是因为它的意愿本身——"它如同一颗宝石，自身发光"。
+
+The starting point of duty ethics is the concept of the "good will" (guter Wille). Kant opens the Groundwork with the declaration: "There is nothing it is possible to take as good without limitation, in the world or even out of it, except a good will." Intelligence, courage, wealth, and even happiness can all be misused and become evil without the guidance of a good will. The good will is good not because of what it accomplishes but because of its willing itself—"like a jewel, it shines in itself."
+
+### 出于义务 vs 合乎义务 / From Duty vs In Accordance with Duty
+
+康德做了一个至关重要的区分：行为可以是"合乎义务的"（pflichtmäßig），即外在表现与义务一致，但不一定是"出于义务的"（aus Pflicht），即被义务所驱动。一个商人童叟无欺，如果是因为诚实有利于商誉（合乎义务），他的行为虽然正确但没有道德价值；只有当他因为"诚实是义务"而选择诚实（出于义务），他的行为才具有道德价值。
+
+Kant draws a crucial distinction: actions can be "in accordance with duty" (pflichtmäßig)—outwardly conforming to duty—without being "from duty" (aus Pflicht)—motivated by duty. A merchant who does not cheat customers, if motivated by the benefit to reputation (in accordance with duty), acts correctly but without moral worth; only when choosing honesty because "honesty is a duty" (from duty) does the action have moral worth.
+
+### 完全义务与不完全义务 / Perfect and Imperfect Duties
+
+康德将义务分为两类。完全义务（vollkommene Pflichten）是严格的、不可违反的消极义务（如不说谎、不自杀），对应定言命令普遍化测试中的"逻辑矛盾"。不完全义务（unvollkommene Pflichten）是积极的、有自由裁量余地的义务（如发展自身才能、帮助他人），对应"意志矛盾"。完全义务告诉我们"绝不能做什么"，不完全义务告诉我们"应当追求什么"——但后者在何时、以何种方式履行，留有一定的判断空间。
+
+Kant divides duties into two categories. Perfect duties (vollkommene Pflichten) are strict, inviolable negative duties (e.g., not lying, not committing suicide), corresponding to "contradictions in conception" in the universalization test. Imperfect duties (unvollkommene Pflichten) are positive duties with discretionary latitude (e.g., developing one's talents, helping others), corresponding to "contradictions in the will." Perfect duties tell us "what we must never do," while imperfect duties tell us "what we should pursue"—but when and how to fulfill the latter leaves room for judgment.
+
+### 对道德法则的敬重 / Respect for the Moral Law
+
+康德认为，"出于义务"的行动需要一个特殊的动机——即对道德法则的"敬重"（Achtung）。敬重是一种独特的道德情感：它不是先于理性判断的自然情感，而是由理性自身产生的情感。当我们意识到道德法则的要求时，理性会"贬抑"我们的自负（感性偏好），同时"提升"我们对道德法则的敬重。这种既痛苦又崇高的情感体验，是道德行动的主观动力。
+
+Kant holds that action "from duty" requires a special motive—namely, "respect" (Achtung) for the moral law. Respect is a unique moral feeling: not a natural emotion prior to rational judgment, but a feeling produced by reason itself. When we become aware of the demands of the moral law, reason "humbles" our self-conceit (sensible inclinations) while "elevating" our respect for the moral law. This experience, at once painful and sublime, is the subjective incentive for moral action.
+
+## 思想史脉络 / Intellectual History
+
+义务伦理的思想根源可以追溯到斯多葛学派，后者主张道德善在于意志的正确状态（virtus），而非外在的命运或后果。康德的创新在于将义务概念建立在纯粹理性的基础上，而非神学或自然法的基础上。在近代，普芬道夫和沃尔夫的自然法义务论对康德有直接影响，但康德将其义务概念从经验性的"自然"基础转移到了先验的"理性"基础。
+
+The intellectual roots of duty ethics can be traced to Stoicism, which held that moral goodness lies in the right state of the will (virtus), not in external fortune or consequences. Kant's innovation was to ground the concept of duty in pure reason rather than theology or natural law. In the modern period, the natural law duty theories of Pufendorf and Wolff directly influenced Kant, but Kant shifted the concept of duty from an empirical "natural" foundation to a transcendental "rational" one.
+
+在后世，义务伦理遭到了多方面的批评。席勒在一首讽刺诗中嘲讽康德的义务概念，暗示按照康德的理论，只有带着不情愿去做的善行才真正有道德价值。黑格尔批评义务伦理的形式主义无法产生具体的义务内容。然而，二十世纪的道义论复兴——特别是罗斯（W.D. Ross）的"初步义务"（prima facie duties）理论——证明了义务伦理传统仍然具有强大的理论生命力。
+
+Subsequently, duty ethics faced criticism from many directions. Schiller mocked Kant's concept of duty in a satirical poem, implying that on Kant's theory only reluctant good deeds have genuine moral worth. Hegel criticized the formalism of duty ethics as unable to generate specific duty content. However, the twentieth-century deontological revival—especially W.D. Ross's theory of "prima facie duties"—demonstrated that the duty ethics tradition retains strong theoretical vitality.
+
+## 关键文本 / Key Passages
+
+> "义务的概念，如果是善良意志的概念，虽然受到主观限制，却正因此而具有其庄严性。"
+> —《道德形而上学奠基》，第一章
+
+> "The concept of duty, if it is the concept of a good will, though subjectively limited, has precisely thereby its dignity."
+> —*Groundwork*, Chapter I
+
+> "出于义务而行动——这就是实践理性的核心要义。"
+> —《实践理性批判》
+
+> "To act from duty—this is the central imperative of practical reason."
+> —*Critique of Practical Reason*
+
+## 当代应用 / Contemporary Applications
+
+义务伦理在当代有着广泛的实际应用。在法律伦理中，律师的保密义务不因后果好坏而改变——即使保密可能导致不利后果，律师仍有义务保护客户信息。在新闻伦理中，记者有义务如实报道，即使真实报道可能带来负面社会影响。在企业社会责任领域，义务伦理要求企业不仅追求利润，还要履行对所有利益相关者的义务——员工、消费者、社区和环境。
+
+Duty ethics has wide practical applications today. In legal ethics, a lawyer's duty of confidentiality does not change based on consequences—even if confidentiality may lead to adverse outcomes, the lawyer is duty-bound to protect client information. In journalism ethics, reporters have a duty to report truthfully even if truthful reporting may cause negative social effects. In corporate social responsibility, duty ethics requires businesses to fulfill obligations not only to profit-seeking but to all stakeholders—employees, consumers, communities, and the environment.
+
+## 批评与回应 / Critiques and Responses
+
+**"冷酷无情"批评 / The "Cold and Unfeeling" Critique**: 批评者认为义务伦理贬低了同情、爱心等自然情感在道德生活中的价值。回应：康德并不否认自然情感的价值，他否认的是将其作为道德的根据。他在《道德形而上学》中明确指出，培养同情心是一项间接的道德义务——虽然同情本身没有直接的道德价值，但它有助于促进道德行动。
+
+Critics argue that duty ethics devalues natural emotions like sympathy and love in moral life. Response: Kant does not deny the value of natural emotions; he denies their role as the ground of morality. In the Metaphysics of Morals, he explicitly states that cultivating sympathy is an indirect moral duty—though sympathy has no direct moral worth, it helps promote moral action.
+
+**义务的刚性问题 / The Rigidity Problem**: 康德似乎要求无论后果多么灾难性都必须履行义务（如他著名的"绝不说谎"立场）。回应：当代康德主义者如科尔斯戈德论证，定言命令的正确应用可以处理看似极端的案例；而且康德的"完全义务"与"不完全义务"的区分本身就允许在义务之间进行权衡。
+
+Kant seems to require fulfilling duty regardless of how catastrophic the consequences (e.g., his famous "never lie" position). Response: Contemporary Kantians like Korsgaard argue that correct application of the categorical imperative can handle seemingly extreme cases; moreover, Kant's distinction between "perfect" and "imperfect" duties itself allows for balancing between duties.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+义务伦理与儒家的"义利之辨"有着深刻的共鸣。孔子说"君子喻于义，小人喻于利"，孟子说"生，亦我所欲也；义，亦我所欲也。二者不可得兼，舍生而取义者也"——这些论述与康德的义务伦理在精神结构上高度相似：两者都主张道德价值在于动机而非利益，都强调在义与利的冲突中选择义。然而差异也值得注意：儒家的"义"嵌入在具体的人际关系中（义是对特定关系中的义务），而康德的"义务"是普遍的、对所有理性存在者同等有效的。
+
+Duty ethics resonates deeply with the Confucian "distinction between righteousness and profit" (义利之辨). Confucius said "the gentleman understands righteousness; the petty person understands profit," and Mencius said "life is what I want; righteousness is also what I want. If I cannot have both, I shall choose righteousness"—these statements are structurally highly similar to Kantian duty ethics: both hold that moral value lies in motive rather than interest, and both emphasize choosing righteousness in conflicts between duty and benefit. However, a key difference deserves attention: Confucian "righteousness" (yi/义) is embedded in concrete interpersonal relationships (duty within specific relations), while Kantian "duty" is universal, equally valid for all rational beings.
+
+## 延伸阅读 / Further Reading
+
+- Kant, *Groundwork of the Metaphysics of Morals*, Chapter I (1785)
+- Kant, *The Metaphysics of Morals*, "Doctrine of Virtue" (1797)
+- Marcia Baron, *Kantian Ethics Almost without Apology* (1995)
+- Barbara Herman, *The Practice of Moral Judgment* (1993)
+- W.D. Ross, *The Right and the Good* (1930)
+- 李秋零译《道德形而上学奠基》第一章（中国人民大学出版社）
+- 李明辉，《康德与儒家伦理学的对话》中关于义务与义的讨论

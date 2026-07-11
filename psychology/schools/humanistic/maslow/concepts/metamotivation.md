@@ -1,0 +1,168 @@
+---
+id: psychology.humanistic.maslow.metamotivation
+title: "元动机 · Metamotivation"
+type: concept
+domain: psychology
+thinker: psychology.humanistic.maslow
+tags: [元动机, 存在性价值, 成长性动机, 自我超越, 人本主义]
+---
+
+# 元动机 · Metamotivation
+
+> "自我实现者是由元动机驱动的——他们追求的不是缺失的东西，而是存在性价值。"
+> "Self-actualizers are metamotivated — they pursue not what is missing but Being-values."
+
+> "元动机受挫不是导致神经症，而是导致存在性疾病——虚无感、犬儒主义和绝望。"
+> "Frustration of metamotivation leads not to neurosis but to existential illness — emptiness, cynicism, and despair."
+
+---
+
+## 定义 / Definition
+
+**元动机**（Metamotivation）是马斯洛晚期理论中的关键概念，描述一种超越匮乏性驱动力的成长性动机模式。与匮乏性动机（D-motivation）不同，元动机不源于缺失或不足，而源于对存在性价值（Being-values / B-values）的自发追求——真、善、美、完整、正义、秩序等终极价值的内在吸引。
+
+**Metamotivation** is a key concept in Maslow's later theory, describing a growth-oriented motivation pattern that transcends deficiency-driven impulses. Unlike D-motivation, metamotivation does not arise from lack or insufficiency but from spontaneous pursuit of Being-values (B-values) — the intrinsic attraction of ultimate values such as truth, goodness, beauty, wholeness, justice, and order.
+
+马斯洛在1962年《存在心理学探索》中首次系统阐述元动机概念，并在1960年代末进一步发展。他认为，当匮乏性需求得到基本满足后，人的行为不再被"缺乏"所驱动，而是被"成长"所牵引——这种更高层次的驱动力就是元动机。
+
+Maslow first systematically elaborated metamotivation in *Toward a Psychology of Being* (1962) and further developed it in the late 1960s. He argued that when deficiency-needs are substantially satisfied, behavior is no longer driven by "lack" but pulled by "growth" — and this higher-order motivational force is metamotivation.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 元动机的特征 / Characteristics of Metamotivation
+
+元动机具有以下区别于匮乏性动机的核心特征：
+
+Metamotivation has the following core characteristics distinguishing it from deficiency-motivation:
+
+1. **非匮乏性 / Non-deficiency based**：不源于"我缺少什么"的感知，而源于"什么是值得追求的"的直觉。
+2. **目标导向而非张力降低 / Goal-directed rather than tension-reducing**：匮乏性动机追求张力的消除（如饥饿感的消除），元动机追求有意义的张力（如创造性工作带来的挑战和紧张）。
+3. **自我增强 / Self-reinforcing**：越追求存在性价值，元动机越强——一首好音乐听得越多越想听，一个科学问题探索得越深越想探索。
+4. **自主性 / Autonomous**：较少受外部奖惩影响，更多由内在价值和使命感驱动。
+5. **整合性 / Integrative**：元动机追求的不是单一目标的达成，而是人格的整合和生命的完整。
+6. **超越个体性 / Trans-individual**：元动机最终导向对大于自身之事业的投身——使命、真理、正义、美。
+
+### 存在性价值 / Being-Values
+
+元动机所追求的存在性价值包括（马斯洛在不同时期列举了14-17项）：
+
+The Being-Values pursued by metamotivation include (Maslow listed 14–17 at different times):
+
+| 价值 / Value | 描述 / Description |
+|:---|:---|
+| 真 / Truth | 对实相的如实感知 / Perception of reality as it is |
+| 善 / Goodness | 道德正直与善良 / Moral rectitude and kindness |
+| 美 / Beauty | 形式与内容的和谐 / Harmony of form and content |
+| 完整 / Wholeness | 超越部分之和的统一 / Unity transcending the sum of parts |
+| 活泼 / Aliveness | 自发性、充实、流动 / Spontaneity, fullness, flow |
+| 独特 / Uniqueness | 个体性和不可替代性 / Individuality and irreplaceability |
+| 完善 / Perfection | 恰如其分、不多不少 / Just-rightness, nothing superfluous |
+| 必然 / Necessity | 事物本然如此、不可更改 / Things being just as they must be |
+| 完成 / Completion | 事情的圆满终结 / Fulfillment and closure |
+| 正义 / Justice | 公平、法律与秩序 / Fairness, law, and order |
+| 秩序 / Order | 内在与外在的和谐安排 / Harmonious arrangement, inner and outer |
+| 单纯 / Simplicity | 本质的、不矫饰的 / Essential, unadorned |
+| 丰富 / Richness | 复杂性中的多样统一 / Differentiated complexity |
+| 轻松 / Effortlessness | 不费力的优雅 / Grace without strain |
+| 幽默 / Playfulness | 轻松、欢乐、趣味 / Lightness, joy, fun |
+| 自足 / Self-Sufficiency | 自主、独立、自我决定 / Autonomy, independence, self-determination |
+
+### 元动机受挫与元病理 / Metamotivation Frustration and Metapathology
+
+马斯洛提出了一个重要的临床概念——**元病理**（Metapathology）：当存在性价值长期受挫时，人不会像匮乏性需求受挫那样产生神经症症状（焦虑、抑郁、恐惧），而是产生一种独特的"存在性疾病"：
+
+Maslow proposed an important clinical concept — **Metapathology**: when Being-values are chronically frustrated, one does not develop neurotic symptoms (anxiety, depression, phobia) as with D-need frustration, but a distinctive "existential illness":
+
+- **虚无感 / Emptiness**："什么都不缺，但感觉一切都没有意义。"
+- **犬儒主义 / Cynicism**："真善美都是假的，一切不过是权力和利益的伪装。"
+- **存在性无聊 / Existential Boredom**：对一切都提不起兴趣，丧失了惊奇和敬畏的能力。
+- **绝望 / Despair**：感到人的存在从根本上是荒谬和无望的。
+- **价值冷漠 / Value Apathy**：对真善美等终极价值丧失感知和追求能力。
+
+---
+
+## 发展脉络 / Development
+
+### 从"第三需要"到"元动机" / From "Third Need" to "Metamotivation"
+
+马斯洛最初将动机简单地分为匮乏性动机和成长性动机。随着研究深入，他意识到成长性动机具有独特的结构和动态——它不是匮乏性动机的简单"延伸"，而是一种质上不同的驱动力。"元"（meta-）前缀表示"超越"——元动机是超越了匮乏层面的动机。
+
+Maslow initially divided motivation simply into deficiency-motivation and growth-motivation. With deepening research, he recognized that growth motivation has unique structure and dynamics — it is not a simple "extension" of deficiency-motivation but a qualitatively different force. The prefix "meta-" denotes "beyond" — metamotivation is motivation that has transcended the deficiency level.
+
+### 与超个人心理学的交汇 / Convergence with Transpersonal Psychology
+
+在1960年代末，马斯洛的元动机概念逐渐与超个人心理学（Transpersonal Psychology）的研究领域交汇。他认识到，元动机的最高表达是**自我超越**（Self-transcendence）——个体不再仅仅追求自身潜能的实现，而是投身于大于自身的使命、事业或宇宙性统一感。
+
+In the late 1960s, Maslow's metamotivation concept gradually converged with Transpersonal Psychology. He recognized that the highest expression of metamotivation is **Self-transcendence** — the individual no longer merely pursues personal potential but commits to a calling, cause, or cosmic unity greater than the self.
+
+### 对Z理论的启发 / Influence on Theory Z
+
+元动机概念直接启发了马斯洛对麦格雷戈（Douglas McGregor）X/Y理论的超越——他提出**Z理论**（Theory Z）：在Y理论假设员工有自我实现动机之上，Z理论进一步假设人可以由元动机驱动——追求超越性的意义和使命。Z理论型组织不仅满足员工的归属和尊重需求，还为其提供追求存在性价值和自我超越的环境。
+
+Metamotivation directly inspired Maslow's transcendence of McGregor's Theory X/Y — he proposed **Theory Z**: beyond Y-theory's assumption that employees have self-actualization motivation, Z-theory further assumes that people can be driven by metamotivation — pursuing transcendent meaning and calling. Theory Z organizations not only satisfy employees' belongingness and esteem needs but provide environments for pursuing Being-values and self-transcendence.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 存在性空虚的治疗 / Treatment of Existential Emptiness
+
+元动机和元病理概念为治疗"成功人士的危机"提供了理论框架——当来访者已实现物质成功和社会认可，却感到深层的空虚和无意义感时，治疗师需要帮助其识别和重新激活元动机：
+
+The metamotivation and metapathology concepts provide a theoretical framework for treating "successful people's crisis" — when clients who have achieved material success and social recognition yet feel deep emptiness and meaninglessness, therapists help them identify and reactivate metamotivation:
+
+- 探索被压抑的存在性价值追求
+- 帮助来访者重新接触能激发敬畏、惊奇和意义感的体验
+- 鼓励参与创造性活动、志愿服务或精神修行
+- 从"消费模式"（被动接受满足）转向"创造模式"（主动追求价值）
+
+### 元动机的发展性评估 / Developmental Assessment of Metamotivation
+
+在治疗评估中，可以通过以下指标判断来访者的元动机水平：
+- 是否有"使命"（calling）或"天职"（vocation）感？
+- 是否能被美、真理或正义等价值深深感动？
+- 是否拥有高峰体验或类高峰体验？
+- 是否在创造性活动或服务他人中找到深层满足？
+- 是否能超越个人利益来思考和行动？
+
+### 与意义疗法的整合 / Integration with Logotherapy
+
+元动机概念与弗兰克尔（Viktor Frankl）的"意义意志"（will to meaning）形成深层共鸣。两者都强调，人的最高动机不是快乐（弗洛伊德）或权力（阿德勒），而是对意义的追求。存在-人本治疗可以整合这两个传统，帮助来访者在个人成长和意义追求两个维度上同时发展。
+
+---
+
+## 与其他概念的关联 / Related Concepts
+
+- **匮乏与存在需求 / D-Needs & B-Needs**：元动机是B-needs的驱动力表达。→ [deficiency-being-needs.md](deficiency-being-needs.md)
+- **自我实现 / Self-Actualization**：元动机是自我实现者的核心驱动力模式。→ [self-actualization.md](self-actualization.md)
+- **高峰体验 / Peak Experience**：高峰体验是元动机的巅峰表达时刻。→ [peak-experience.md](peak-experience.md)
+- **需求层次 / Hierarchy of Needs**：元动机位于层次顶端的自我实现和自我超越层。→ [hierarchy-of-needs.md](hierarchy-of-needs.md)
+- **存在性价值 / Being-Values**：元动机的具体内容。
+- **元病理 / Metapathology**：元动机受挫的病理学后果。
+- **Z理论 / Theory Z**：元动机在管理学中的应用。
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+元动机概念与大乘佛教的**菩提心**（bodhicitta）——"为利一切众生而追求无上正等正觉"的誓愿——形成精妙对应。菩提心不是源于匮乏（我不够好，所以要修行），而是源于对一切众生本具佛性的觉悟（我本自具足，但为众生故精进修行）。这与元动机的"非匮乏性"和"超越个体性"特征高度一致。
+
+Metamotivation corresponds precisely to the Mahāyāna Buddhist concept of **bodhicitta** — the vow to pursue unsurpassable awakening for the benefit of all beings. Bodhicitta does not arise from deficiency ("I'm not good enough, so I must practice") but from the realization that all beings possess buddha-nature ("I am already complete, yet I practice diligently for all beings' sake"). This aligns with metamotivation's "non-deficiency" and "trans-individual" characteristics.
+
+在儒家传统中，"仁"（rén）的概念——对他人和世界的无条件关爱——可以被视为一种元动机。《大学》中的"明明德"（使内在光明之德显发）和"亲民"（使人民革新）不是出于匮乏性驱动（如追求个人利益），而是出于存在性价值的自然流露。王阳明的"致良知"更是直接表达了元动机的自发性——良知之知善知恶、为善去恶，不是被外部奖惩驱动的，而是内在光明的自然发挥。
+
+In the Confucian tradition, the concept of *rén* (benevolence) — unconditional care for others and the world — can be seen as a form of metamotivation. The *Great Learning*'s "illuminating luminous virtue" and "renewing the people" are not driven by deficiency (pursuing personal benefit) but by the natural expression of Being-values. Wang Yangming's "extending innate knowing" (*zhì liángzhī*) directly expresses metamotivation's spontaneity — the innate knowing of good and evil, and doing good and removing evil, is not driven by external rewards and punishments but is the natural functioning of inner luminosity.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Maslow, A. H. (1962). *Toward a Psychology of Being*, Chs. 1–2, 4. Van Nostrand.
+- Maslow, A. H. (1971). *The Farther Reaches of Human Nature*, Chs. 6–7, 9. Viking Press.
+- Maslow, A. H. (1965). *Eupsychian Management*, Part II. Richard D. Irwin. — Z理论
+- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press. — 意义意志
+- Koltko-Rivera, M. E. (2006). "Rediscovering the Later Version of Maslow's Hierarchy of Needs." *Review of General Psychology*, 10(4), 302–317.
+- Garcia-Romeu, A. (2010). "Self-Transcendence." *Transpersonal Psychology Review*, 13(1), 23–38.
+- McGregor, D. (1960). *The Human Side of Enterprise*. McGraw-Hill. — X/Y理论原典

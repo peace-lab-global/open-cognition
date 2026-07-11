@@ -1,0 +1,160 @@
+---
+id: barrett-prediction
+title: "预测与主动推断 · Prediction and Active Inference"
+type: concept
+domain: psychology
+school: cognitive
+thinker: barrett
+tags:
+  - prediction
+  - predictive-processing
+  - active-inference
+  - prediction-error
+  - free-energy
+  - brain
+cross-refs:
+  - id: barrett
+    relation: thinker
+  - id: barrett-theory-of-constructed-emotion
+    relation: 应用
+  - id: barrett-affect
+    relation: 预测对象
+  - id: friston
+    relation: 平行
+  - id: seth
+    relation: 平行
+---
+
+# 预测与主动推断 · Prediction and Active Inference
+
+## 一句话定义 / One-Line Definition
+
+在巴雷特的框架中, **预测** (prediction) 是大脑的核心运作方式: 大脑不是被动接收感官输入再做出反应的"反射机器", 而是一台持续进行**猜测** (guessing) 的**预测引擎** (prediction engine) — 它利用过去经验对未来进行预测, 感官输入的主要功能是**修正预测误差** (correct prediction errors), 而非启动反应。情绪不是"对刺激的反应", 而是"对世界的推断"。
+
+## 核心机制 / Core Mechanism
+
+### 预测 vs 反应: 两种脑模型 / Prediction vs Reaction: Two Models of the Brain
+
+**传统模型 (刺激-反应)**:
+```
+外部刺激 → 感官接收 → 大脑加工 → 情绪/行为反应
+(Stimulus → Sensation → Processing → Response)
+```
+
+**巴雷特/预测加工模型**:
+```
+大脑预测 → 感官输入 → 预测误差 → 修正预测 (或修正行动)
+(Prediction → Sensory Input → Prediction Error → Update or Act)
+```
+
+关键区别在于: 在预测模型中, **感官输入不是起点, 而是校正器** (corrector)。大脑在感官信号到达之前就已经"猜"到了它可能是什么, 感官信号只是告诉大脑猜对了多少。
+
+### 预测加工的三个核心环节 / Three Core Operations
+
+**1. 预测 (Prediction)**
+大脑基于过去经验 (prior knowledge) 持续生成对即将发生的感官输入的**预测** (prediction)。这些预测发生在所有模态 — 视觉、听觉、触觉, 以及最重要的**内感受** (interoception)。你对自己身体内部状态的预测, 是情绪体验的基础。
+
+预测不是有意识的"猜想", 而是自动的、无意识的神经活动。你的大脑在你意识到之前就已经完成了预测。
+
+**2. 预测误差 (Prediction Error)**
+实际感官输入与预测之间的差异就是**预测误差** (prediction error)。预测误差是学习的驱动力: 当大脑的预测与实际输入不匹配时, 它必须做出调整。
+
+**3. 预测误差最小化 (Prediction Error Minimization)**
+大脑有两种方式来最小化预测误差:
+- **修改预测** (Updating predictions): 大脑更新其内部模型, 使其更好地匹配感官输入 — 这就是**学习** (learning)
+- **修改行动** (Changing actions): 大脑通过行动改变感官输入, 使输入更好地匹配预测 — 这就是**主动推断** (active inference)
+
+### 预测与情绪 / Prediction and Emotion
+
+从预测加工的视角看, 情绪构造是一个预测过程:
+
+1. 大脑预测: "在当前情境下, 我的身体应该处于什么状态?" (这是基于过去经验的预测)
+2. 内感受信号到达: 实际的身体状态数据
+3. 预测误差计算: 预测的身体状态 vs 实际的身体状态
+4. 情绪构造: 大脑选择最能解释预测误差的**概念** (concept) 来"分类" (categorize) 当前的内感受状态
+5. 结果: 一个情绪体验被构造出来
+
+**关键洞见**: 当你"感到"某种情绪时, 你不是在被动地体验一个预存的状态; 你的大脑正在**主动推断** (actively inferring) 你的身体状态意味着什么。"愤怒"不是一个被检测到的信号, 而是一个被推断出来的解释。
+
+### 主动推断 (Active Inference) / Active Inference
+
+Friston 的**主动推断** (active inference) 是预测加工框架中最重要的发展。其核心主张是:
+
+- 大脑的终极目标是**最小化长期预测误差** (minimize long-term prediction error), 即最小化"惊喜" (surprise)
+- 实现这一目标的方式不仅是修改预测 (被动学习), 还包括**主动行动**来改变感官输入 (主动推断)
+- 所有行为 — 从眼球运动到复杂的社交互动 — 都可以被理解为主动推断
+
+从情绪的角度看: 当你"感到愤怒"时, 你的大脑不仅在做被动的推断 (我的身体状态意味着什么), 还在做主动的推断 (我应该做什么来使我的预测与实际状态匹配)。愤怒不仅是体验, 也是**行动倾向** (action tendency) — 它驱使你去做某些事 (例如对抗) 来"验证"你的愤怒预测。
+
+## 发展脉络 / Development
+
+### 预测加工的思想谱系 / Intellectual Genealogy
+
+- **Helmholtz (1860s)**: 无意识推断 (unconscious inference) — 感知是推断, 不是直接接收
+- **Gregory (1970s)**: 感知作为假说检验 (perception as hypothesis testing)
+- **Rao & Ballard (1999)**: 预测编码 (predictive coding) 的计算模型
+- **Friston (2005–)**: 自由能原理 (Free Energy Principle) 与主动推断 (Active Inference)
+- **Clark (2013–2016)**: *Surfing Uncertainty* — 预测加工的哲学阐释
+- **Barrett (2017)**: 将预测加工整合入情绪构造论
+- **Seth (2021)**: *Being You* — 将预测加工扩展到意识理论
+
+### Barrett 的独特贡献 / Barrett's Unique Contribution
+
+Barrett 的独特贡献在于将预测加工**专门应用于情绪领域**:
+
+- Friston 的自由能原理是通用的认知理论, 没有特别关注情绪
+- Clark 的预测加工是哲学框架, 没有详细的情绪分析
+- Barrett 表明: **情绪本身就是预测** — 不是预测的结果, 而是预测的过程。每一次情绪体验都是大脑对内感受信号的一次推断。
+
+## 临床应用 / Clinical Applications
+
+### 1. 焦虑的预测模型 / Predictive Model of Anxiety
+
+焦虑可以被理解为**预测系统的过度警觉**: 大脑过度预测威胁 (高先验概率的威胁预测), 导致即使感官输入并不支持威胁, 预测误差也被解释为"可能存在危险"。治疗方向: 通过暴露疗法 (exposure therapy) 创造大量的"安全"感官输入, 逐步修正威胁预测。
+
+### 2. 创伤后应激障碍 (PTSD) / PTSD
+
+PTSD 可以被理解为**预测系统的创伤性固化**: 过去的创伤经验形成了极其强烈的威胁预测, 以至于即使在安全环境中, 大脑也在持续预测创伤的重演。治疗方向: 创造新的、安全的身体体验来逐步修正创伤预测。
+
+### 3. 正念与预测误差 / Mindfulness and Prediction Error
+
+正念练习可以被理解为一种**增强预测误差觉察**的训练: 通过精细地觉察内感受信号, 正念修习者增强了对预测误差的觉察能力, 从而在预测过程中拥有更多的"修正空间"。正念不是在"消除预测", 而是在让预测变得更加**灵活** (flexible) 和**可更新** (updatable)。
+
+## 关联概念 / Related Concepts
+
+- [情绪构造论](theory-of-constructed-emotion.md) — 预测是构造的核心机制
+- [情感/身体预算](affect.md) — 内感受预测的对象
+- [情绪粒度](emotional-granularity.md) — 高粒度 = 更精细的预测模板
+
+## 东西方对话 / East-West Dialogue
+
+### 与瑜伽行派"种子" (bīja) 理论的平行
+
+瑜伽行派 (Yogācāra) 的阿赖耶识 (ālayavijñāna) 理论中, **种子** (bīja) 是过去经验的"印迹", 它们在因缘条件具足时**现行** (manifest) — 生成当前的体验。这与预测加工的核心机制惊人地相似:
+
+| 瑜伽行派 | 预测加工 |
+|---|---|
+| 种子 (bīja) | 先验概率 / 预测模板 (prior probabilities / prediction templates) |
+| 现行 (manifestation) | 预测生成 (prediction generation) |
+| 因缘 (pratyaya) | 感官输入 / 情境 (sensory input / context) |
+| 熏习 (vāsanā) | 预测误差驱动的学习 (prediction error-driven learning) |
+| 转识成智 | 更新预测模型 (updating prediction models) |
+
+### 与庄子"心斋"的对话
+
+庄子的"心斋" (fasting of the mind) — "无听之以耳而听之以心, 无听之以心而听之以气" — 可以被理解为一种**放松预测执取**的训练: 不是停止预测 (那是不可能的), 而是不执着于任何一个预测, 让预测保持流动和开放。
+
+## 常见误读 / Common Misreadings
+
+- **误读**: "预测加工 = 大脑只是在'幻想', 不接触现实" → **正解**: 预测加工完全承认感官输入的现实性。预测误差是不可忽视的 — 它强制大脑修正错误的预测。预测加工不是唯心主义, 而是一种**贝叶斯认识论** (Bayesian epistemology)。
+- **误读**: "预测是有意识的'期待'" → **正解**: 绝大多数预测是无意识的、自动的。你不是"期待"心跳加速, 而是你的大脑在亚个人水平上已经预测了心跳加速。
+- **误读**: "如果一切都是预测, 那就没有'真实的情绪'" → **正解**: 预测生成的情绪体验是真实的。"真实"不等于"预存" — 一个被构造出来的体验仍然是真实的体验。
+
+## 进阶阅读 / Further Reading
+
+- Clark, A., *Surfing Uncertainty: Prediction, Action, and the Embodied Mind* (2016)
+- Friston, K., "The free-energy principle: A rough guide to the brain?" (2009)
+- Barrett, L. F., "The theory of constructed emotion: an active inference account" (2017)
+- Seth, A., *Being You: A New Science of Consciousness* (2021)
+- Hohwy, J., *The Predictive Mind* (2013)
+- Keller, G. B., & Mrsic-Flogel, T. D., "Predictive processing: A canonical theory of sensory computation" (2018)

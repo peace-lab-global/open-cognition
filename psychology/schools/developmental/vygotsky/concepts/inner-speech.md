@@ -1,0 +1,184 @@
+---
+id: vygotsky-lev.inner-speech
+title: "内部言语 · Inner Speech"
+type: concept
+domain: psychology
+thinker: vygotsky-lev
+tags: [内部言语, 自我中心言语, 自我调节, 思维工具, inner-speech, egocentric-speech, self-regulation, thinking-tool]
+---
+
+# 内部言语 · Inner Speech
+
+## 定义 / Definition
+
+内部言语（Inner Speech）是维果茨基提出的核心概念，指从外部社会言语经由自我中心言语（egocentric speech）内化而成的内部思维工具。它不是"无声的外部言语"——它有自己独特的结构特征：省略性（abbreviated）、谓语化（predicative）和语义优先（semantic dominance）。内部言语是自我调节（self-regulation）——计划、反思、问题解决——的核心认知工具。
+
+Inner Speech is a core concept proposed by Vygotsky, referring to the internal thinking tool internalized from external social speech via egocentric speech. It is not "silent external speech" — it has its own unique structural characteristics: abbreviation, predication, and semantic dominance. Inner speech is the central cognitive tool for self-regulation — planning, reflection, and problem-solving.
+
+> "Inner speech is not the internal aspect of external speech — it is in itself a function. It still remains speech, i.e., thought in words. But in inner speech, a word's [meaning] is more important than the word itself."
+> — Vygotsky, *Thought and Language* (1986, p. 143)
+
+## 核心机制 / Core Mechanism
+
+### 发展路径：从外部到内部 / Developmental Path: From External to Internal
+
+维果茨基描述了言语发展的三个阶段：
+
+Vygotsky described three stages of speech development:
+
+**阶段一：社会言语 / Stage 1: Social Speech**（出生–约3岁）
+儿童使用言语与他人交流，言语是"人际间"的（interpersonal），功能是沟通和社会互动。
+
+Children use speech to communicate with others; speech is "interpersonal," with the function of communication and social interaction.
+
+**阶段二：自我中心言语 / Stage 2: Egocentric Speech**（约3–7岁）
+儿童开始出声地"对自己说话"——这看起来像是在与自己对话，但实际上是从社会言语向内部言语的过渡形式。维果茨基与皮亚杰的关键分歧在于：皮亚杰认为自我中心言语是"社会性不足"的表现，会逐渐消失；维果茨基则认为它是认知发展的关键工具，不会消失，而是转化为内部言语。
+
+Children begin to "talk to themselves" aloud — this appears as self-dialogue but is actually a transitional form from social speech to inner speech. The key divergence between Vygotsky and Piaget: Piaget viewed egocentric speech as a sign of "insufficient socialization" that would gradually disappear; Vygotsky argued it is a crucial tool of cognitive development that doesn't disappear but transforms into inner speech.
+
+**阶段三：内部言语 / Stage 3: Inner Speech**（约7岁以后）
+自我中心言语"沉入内部"，转化为不出声的内部言语。内部言语成为思维的工具——计划、反思、自我对话、问题解决。
+
+Egocentric speech "goes underground," transforming into silent inner speech. Inner speech becomes the tool of thought — planning, reflection, self-dialogue, problem-solving.
+
+### 内部言语的结构特征 / Structural Characteristics of Inner Speech
+
+#### 1. 省略性 / Abbreviation
+内部言语极度省略——一个完整的句子在内部言语中可能只剩下一两个词。这是因为内部言语的"说话者"和"听者"是同一个人，大量上下文信息是共享的。
+
+Inner speech is extremely abbreviated — a complete sentence may be reduced to one or two words. This is because the "speaker" and "listener" in inner speech are the same person, and a large amount of contextual information is shared.
+
+#### 2. 谓语化 / Predication
+内部言语倾向于只保留"新信息"（述位/rheme），省略"已知信息"（主位/theme）。结果是内部言语呈现出高度"谓语化"的结构——几乎只有谓语，缺少主语和修饰成分。
+
+Inner speech tends to retain only "new information" (rheme), omitting "given information" (theme). The result is a highly "predicative" structure — almost all predicate, lacking subject and modifiers.
+
+#### 3. 语义优先 / Semantic Dominance
+在内部言语中，词的"意义"（sense, smysl）优先于词的"含义"（meaning, znachenie）。"意义"比"含义"更丰富、更个人化、更具情感色彩——它是词在特定心理语境中的全部联想和关联的总和。
+
+In inner speech, a word's "sense" (smysl) takes priority over its "meaning" (znachenie). "Sense" is richer, more personal, more emotionally charged than "meaning" — it is the sum total of all associations and connections a word has in a particular psychological context.
+
+### 内部言语的认知功能 / Cognitive Functions of Inner Speech
+
+1. **自我调节 / Self-Regulation**：内部言语是自我控制和自我引导的核心工具——"告诉自己该做什么"。
+2. **计划 / Planning**：在行动之前通过内部言语预演行动方案。
+3. **反思 / Reflection**：对过去行为和经验的内部回顾和评价。
+4. **问题解决 / Problem-Solving**：通过内部言语操作和组织信息。
+5. **情感调节 / Emotion Regulation**：通过内部言语管理情绪反应——"别紧张""我可以做到"。
+6. **自我认同 / Self-Identity**：内部言语构成自我叙述（self-narrative）的基础。
+
+## 发展脉络 / Development
+
+### 概念的哲学根源 / Philosophical Roots of the Concept
+
+维果茨基的内部言语理论受到多位思想家的影响：
+
+Vygotsky's inner speech theory was influenced by several thinkers:
+
+- **洪堡（Humboldt）**：语言的"内在形式"（innere Sprachform）概念。
+- **波铁布尼亚（Potebnya）**：内部言语与思维的关系。
+- **索绪尔（Saussure）**：语言与言语的区分（虽然维果茨基对索绪尔有重要批判）。
+
+### 实证研究基础 / Empirical Research Basis
+
+维果茨基及其同事进行了一系列实验研究，验证了内部言语理论：
+
+Vygotsky and his colleagues conducted a series of experimental studies to validate inner speech theory:
+
+- **自我中心言语的增加 / Increase in Egocentric Speech**：当儿童面临困难任务时，自我中心言语的比例显著增加——这表明自我中心言语具有认知功能（而非皮亚杰所说的"社会性不足"）。
+- **自我中心言语的"沉没" / "Submerging" of Egocentric Speech**：随年龄增长，自我中心言语的出声程度逐渐降低，最终转化为无声的内部言语。
+
+### 当代神经科学验证 / Contemporary Neuroscience Validation
+
+当代神经影像学研究为内部言语理论提供了重要支持：
+
+Contemporary neuroimaging research provides important support for inner speech theory:
+
+- **fMRI研究 / fMRI Studies**：内部言语激活了与外部言语相同的脑区（Broca区、Wernicke区），但激活模式有差异，支持了"内部言语不是无声的外部言语"的观点。
+- **内部言语与执行功能 / Inner Speech and Executive Function**：内部言语的抑制（如通过articulatory suppression任务）会损害执行功能表现，验证了内部言语的自我调节功能。
+
+## 临床应用 / Clinical Applications
+
+### 1. 认知行为治疗 / Cognitive Behavioral Therapy (CBT)
+
+CBT的核心技术——认知重构（Cognitive Restructuring）——直接涉及内部言语的改造。治疗师帮助来访者识别和改变"自动思维"（automatic thoughts），本质上是在重塑内部言语的内容和结构。
+
+The core technique of CBT — Cognitive Restructuring — directly involves the transformation of inner speech. Therapists help clients identify and modify "automatic thoughts," essentially reshaping the content and structure of inner speech.
+
+- **思维记录 / Thought Records**：将内部言语外化为书面文字，使其可以被检验和挑战。
+- **应对陈述 / Coping Statements**：用适应性内部言语替代功能不良的内部言语。
+
+### 2. 注意力缺陷多动障碍 / ADHD
+
+ADHD的核心症状——冲动控制和执行功能困难——与内部言语发展延迟有关。Barkley (1997) 提出，ADHD儿童的内部言语未能充分发展，导致自我调节能力不足。治疗干预着重于通过外化策略（如自我指导训练）补偿内部言语的不足。
+
+ADHD's core symptoms — impulse control and executive function difficulties — are related to delayed inner speech development. Barkley (1997) proposed that children with ADHD have insufficiently developed inner speech, leading to inadequate self-regulation. Therapeutic interventions focus on compensating through externalized strategies (e.g., self-instruction training).
+
+### 3. 抑郁症 / Depression
+
+抑郁症中的"反刍思维"（rumination）可以被视为一种功能失调的内部言语——反复的、消极的内部对话。治疗目标是将这种反刍性内部言语转化为更具建设性的内部言语。
+
+"Rumination" in depression can be viewed as dysfunctional inner speech — repetitive, negative internal dialogue. Treatment aims to transform this ruminative inner speech into more constructive internal speech.
+
+### 4. 教育干预 / Educational Intervention
+
+- **自我指导训练 / Self-Instruction Training**：教儿童使用积极的内部言语来引导行为——"先看看题目，然后想一想，再做"。
+- **元认知训练 / Metacognitive Training**：培养儿童对自身思维过程的意识——即对内部言语的"元认知"。
+- **出声思维 / Think-Aloud Protocol**：让儿童出声地表达思维过程，使内部言语外化，便于教师诊断和指导。
+
+### 5. 精神分裂症 / Schizophrenia
+
+精神分裂症中的"幻听"（auditory hallucinations）可能与内部言语的"外部化"（externalization）异常有关——内部言语被错误地归因为外部声音。理解这一机制有助于开发新的治疗方法。
+
+"Auditory hallucinations" in schizophrenia may be related to abnormal "externalization" of inner speech — inner speech is erroneously attributed to external voices. Understanding this mechanism aids in developing new treatment approaches.
+
+## 与其他概念的关联 / Related Concepts
+
+### 维果茨基体系内 / Within Vygotsky's System
+
+- **思维与语言 / Thought and Language**：内部言语是思维与语言合流的产物。
+- **内化 / Internalization**：内部言语是内化过程的典型范例——外部言语转化为内部工具。
+- **自我调节 / Self-Regulation**：内部言语是实现自我调节的核心机制。
+- **词义 / Word Meaning**：在内部言语中，词义的"个人意义"（sense）维度优先于"社会意义"（meaning）。
+
+### 相关理论 / Related Theories
+
+- **Luria 的语言与行为调节 / Luria's Language and Behavioral Regulation**：卢里亚研究了语言（包括内部言语）在行为调节中的作用。
+- **Flavell 的元认知 / Flavell's Metacognition**：对"思维的思维"——即对内部言语过程的元认知意识。
+- **Morin 的内部言语量表 / Morin's Inner Speech Scale**：对内部言语频率和内容的量化测量。
+- **Fernyhough 的内部言语对话模型 / Fernyhough's Dialogic Model of Inner Speech**：将内部言语视为内部的"对话"而非"独白"。
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"默照禅"的对话 / Dialogue with Buddhist "Silent Illumination" Meditation
+
+禅宗的"默照禅"（Silent Illumination）实践——通过静坐观察心的活动——与维果茨基的内部言语概念形成了深刻的对话。默照禅要求修行者观察内部言语（"念头"）的生起和消逝，但不与之认同。这种"观察内部言语"的实践本质上是对内部言语过程的元认知觉察——将通常作为"思维工具"的内部言语变成"被观察的对象"。
+
+Chan Buddhism's "Silent Illumination" (默照禅) practice — observing the mind's activity through sitting meditation — forms a profound dialogue with Vygotsky's inner speech concept. Silent Illumination requires practitioners to observe the arising and passing of inner speech ("thoughts") without identifying with them. This practice of "observing inner speech" is essentially metacognitive awareness of the inner speech process — transforming inner speech from a "thinking tool" into an "object of observation."
+
+### 与儒家"慎独"的对话 / Dialogue with Confucian "Vigilance in Solitude"
+
+儒家的"慎独"概念——在独处时保持内心的道德警觉——涉及一种特殊的内部言语功能：道德自我对话。《中庸》说"莫见乎隐，莫显乎微，故君子慎其独也"——在无人监督时仍通过内部言语进行道德反思和自我约束。这与维果茨基关于内部言语作为"自我调节"工具的观点高度契合，但增加了道德维度。
+
+The Confucian concept of "vigilance in solitude" (慎独) — maintaining moral vigilance of the mind when alone — involves a special function of inner speech: moral self-dialogue. The *Doctrine of the Mean* states "Nothing is more visible than what is hidden, nothing is more manifest than what is subtle, therefore the superior person is vigilant in solitude" — maintaining moral reflection and self-restraint through inner speech even when unsupervised. This aligns closely with Vygotsky's view of inner speech as a "self-regulation" tool, but adds a moral dimension.
+
+### 与唯识学"独头意识"的对话 / Dialogue with Yogacara "Solitary Mind-Consciousness"
+
+唯识学中"独头意识"（不与五识俱起的独立意识活动）与内部言语有结构性对应。独头意识包括"散位独头"（散乱时的内部思维）、"梦中独头"（梦境中的意识活动）和"定中独头"（禅定中的微细意识）——这些分类揭示了内部言语在不同意识状态下的运作模式。
+
+Yogacara Buddhism's "solitary mind-consciousness" (独头意识, independent consciousness activity not accompanied by the five sense consciousnesses) has structural correspondence with inner speech. Solitary mind-consciousness includes "scattered solitary" (internal thinking during distraction), "dreaming solitary" (consciousness activity during dreams), and "meditative solitary" (subtle consciousness during meditation) — these classifications reveal the operating modes of inner speech in different states of consciousness.
+
+## 进阶阅读 / Further Reading
+
+### 原著 / Primary Works
+- Vygotsky, L.S. (1986). *Thought and Language*, Chapter 7: "Thought and Word." Cambridge: Cambridge University Press.
+- Luria, A.R. (1961). *The Role of Speech in the Regulation of Normal and Abnormal Behavior*. Oxford: Pergamon Press.
+
+### 当代研究 / Contemporary Research
+- Fernyhough, C. (2016). *The Voices Within: The History and Science of How We Talk to Ourselves*. London: Profile Books. — 当代内部言语研究的经典著作
+- Alderson-Day, B. & Fernyhough, C. (2015). "Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology." *Psychological Bulletin*, 141(5), 931-965.
+- Morin, A. (2012). "Inner Speech." In *Encyclopedia of Human Behavior* (2nd ed.). Elsevier.
+
+### 临床应用 / Clinical Applications
+- Barkley, R.A. (1997). "Behavioral Inhibition, Sustained Attention, and Executive Functions: Constructing a Unifying Theory of ADHD." *Psychological Bulletin*, 121(1), 65-94.
+- Bentall, R.P. (1990). "The Illusion of Reality: A Review and Integration of Psychological Research on Hallucinations." *Psychological Bulletin*, 107(1), 82-95.

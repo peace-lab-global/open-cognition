@@ -1,0 +1,13 @@
+---
+id: sen-social-choice
+title: 社会选择理论 · Social Choice · Sen
+type: concept
+domain: ethics-politics
+school: capability-approach
+thinker: sen
+tags: [social-choice, interpersonal-comparison, welfare]
+cross-refs: [{id: sen, relation: thinker}, {id: arrow, relation: 继承}]
+---
+# 社会选择理论 · Social Choice
+## 一句话定义
+森在阿罗不可能定理的基础上证明：在信息充分的条件下，**人际比较**是可能的，从而为福利经济学奠定了新的理论基础。

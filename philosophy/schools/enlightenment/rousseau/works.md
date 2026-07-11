@@ -1,0 +1,157 @@
+---
+id: rousseau-works
+title: 卢梭著作概览 · Works of Rousseau
+type: works
+domain: philosophy
+parent: rousseau
+tags:
+  - 卢梭著作
+  - Rousseau works
+  - 社会契约论
+  - 爱弥儿
+  - 忏悔录
+---
+
+# 卢梭著作概览 · Works of Rousseau
+
+## 论文与论著 / Discourses and Treatises
+
+### 《论科学与艺术》（1750）/ *Discourse on the Arts and Sciences* (1750)
+
+**全称**：*Discours sur les sciences et les arts*（《论科学与艺术的复兴是否有助于使风俗日趋纯厚》）
+
+**背景**：第戎科学院征文比赛，题目为"科学与艺术的复兴是否有助于使风俗日趋纯厚？"卢梭给出了否定的回答，获得一等奖，一夜成名。
+
+**核心论点**：科学与艺术的进步非但没有改善人类的道德，反而使之堕落。每一个伟大的文明在达到文化巅峰时都伴随着道德的衰败。埃及、希腊、罗马和中国的例子都表明，知识和艺术的繁荣与军事美德和公民德性的衰落同步发生。科学产生于恶习——天文学产生于迷信，雄辩术产生于野心，几何学产生于贪婪。
+
+**意义**：这是卢梭对文明的第一次公开控诉，确立了他作为启蒙运动内部批判者的身份。但也因其极端立场而受到伏尔泰的讽刺（"读了你的书，让人想用四条腿走路"）。
+
+**Full title**: *Discourse on the Moral Effects of the Arts and Sciences*
+
+**Context**: Dijon Academy essay competition, asking "Has the restoration of the arts and sciences contributed to the purification of morals?" Rousseau answered negatively, winning first prize and instant fame.
+
+**Core argument**: Progress in arts and sciences has not improved human morals but corrupted them. Every great civilization at its cultural peak was accompanied by moral decline. Egypt, Greece, Rome, and China all show that intellectual and artistic flourishing coincided with the decay of military virtue and civic morality. Sciences arise from vices — astronomy from superstition, eloquence from ambition, geometry from avarice.
+
+**Significance**: Rousseau's first public indictment of civilization, establishing him as the Enlightenment's internal critic. Voltaire mocked it: "Reading your book makes one want to walk on all fours."
+
+---
+
+### 《论人类不平等的起源和基础》（1755）/ *Discourse on the Origin and Basis of Inequality Among Men* (1755)
+
+**全称**：*Discours sur l'origine et les fondements de l'inégalité parmi les hommes*
+
+**背景**：第二次第戎科学院征文，但此次未获奖。卢梭自己认为这是他最重要的哲学著作。
+
+**核心论点**：
+1. **第一部分**（自然状态）：描绘了自然人——孤独的、自足的、和平的、受自爱和怜悯驱动的前理性存在。自然人之间的不平等（体力差异等）微不足道，因为不存在使之产生社会后果的制度。
+2. **第二部分**（社会的形成与不平等的加剧）：描述了从自然状态到公民社会的逐步堕落。关键转折点是私有财产的确立。不平等的三个递进阶段：财产差异 → 权力差异 → 人身支配（专制）。
+
+**意义**：卢梭的哲学宣言，确立了自然状态、自然善良、amour-propre、完善能力等核心概念。马克思将其视为私有财产批判的先驱。
+
+**Full title**: *Discourse on the Origin and Foundations of Inequality Among Men*
+
+**Context**: Second Dijon Academy essay competition; not awarded a prize. Rousseau himself considered it his most important philosophical work.
+
+**Core argument**:
+1. **Part I** (State of nature): Depicts natural humans — solitary, self-sufficient, peaceful, pre-rational beings driven by self-love and pity. Inequalities among natural humans (physical differences) are negligible because no institutions exist to give them social consequences.
+2. **Part II** (Society's formation and inequality's escalation): Describes the gradual fall from nature to civil society. The pivotal moment is the establishment of private property. Three progressive stages of inequality: wealth difference → power difference → personal domination (despotism).
+
+**Significance**: Rousseau's philosophical manifesto, establishing the state of nature, natural goodness, amour-propre, and perfectibility. Marx saw it as a precursor to the critique of private property.
+
+---
+
+### 《社会契约论》（1762）/ *The Social Contract* (1762)
+
+**全称**：*Du contrat social; ou, Principes du droit politique*
+
+**核心论点**：合法的政治权威源于全体公民将自身权利整体让渡给共同体的契约行为。公意（volonté générale）是主权的唯一来源，主权不可转让、不可代表、不可分割。法律是公意的表达，必须普遍适用于所有人。
+
+**结构**：四卷，分别讨论社会契约的基本原理、立法、政府和特殊制度。
+
+**意义**：现代民主理论的奠基之作。直接影响了法国大革命的《人权宣言》、康德的道德哲学、黑格尔的国家理论。同时也是自由主义批评的靶子（"强迫自由"的悖论）。
+
+**Full title**: *On the Social Contract; or, Principles of Political Right*
+
+**Core argument**: Legitimate political authority derives from all citizens' total alienation of rights to the community. The general will (volonté générale) is the sole source of sovereignty, which is inalienable, unrepresentable, and indivisible. Laws are expressions of the general will and must apply universally.
+
+**Structure**: Four books: fundamental principles, legislation, government, and particular institutions.
+
+**Significance**: Foundational text of modern democratic theory. Directly influenced the French Revolution's Declaration of the Rights of Man, Kant's moral philosophy, and Hegel's theory of the state. Also a target of liberal criticism (the "forced to be free" paradox).
+
+---
+
+### 《爱弥儿，或论教育》（1762）/ *Emile, or On Education* (1762)
+
+**核心论点**：教育应当顺应儿童的自然发展，以"消极教育"保护其免受社会偏见的腐蚀。五个发展阶段从婴儿期的身体发展到成年期的道德自由。
+
+**结构**：五卷，对应五个发展阶段。第四卷包含"萨瓦牧师的信仰告白"——一种基于理性和良知的自然宗教。
+
+**意义**：现代教育哲学的奠基之作。"萨瓦牧师"部分导致了该书被查禁和焚毁——因为它否定了启示宗教的权威。深刻影响了裴斯泰洛齐、福禄培尔、蒙台梭利和杜威。
+
+**Core argument**: Education should follow the child's natural development, using "negative education" to protect against social prejudice. Five developmental stages from infant physical development to adult moral freedom.
+
+**Structure**: Five books corresponding to five developmental stages. Book IV contains the "Profession of Faith of the Savoyard Vicar" — a natural religion based on reason and conscience.
+
+**Significance**: Foundational text of modern educational philosophy. The "Savoyard Vicar" section caused the book's condemnation and burning — it denied the authority of revealed religion. Profoundly influenced Pestalozzi, Froebel, Montessori, and Dewey.
+
+---
+
+## 小说与文学作品 / Novels and Literary Works
+
+### 《新爱洛伊斯》（1761）/ *Julie, or the New Heloise* (1761)
+
+**全称**：*Julie, ou la nouvelle Héloïse*
+
+18世纪最畅销的小说之一。以书信体讲述了朱莉（贵族女性）与圣普乐（平民家庭教师）之间的爱情故事，探讨了自然感情与社会等级制度之间的冲突。小说中对阿尔卑斯山风景的感性描写深刻影响了浪漫主义文学。
+
+One of the 18th century's bestselling novels. Written in epistolary form, it tells the love story between Julie (an aristocratic woman) and Saint-Preux (a commoner tutor), exploring the conflict between natural sentiment and social hierarchy. Its sensuous descriptions of Alpine landscapes profoundly influenced Romantic literature.
+
+---
+
+## 自传与晚年著作 / Autobiographical and Late Works
+
+### 《忏悔录》（1782，遗著）/ *Confessions* (1782, posthumous)
+
+现代自传文学的开创之作。卢梭以惊人的坦诚叙述了自己的一生——包括他遗弃五个孩子的事实、偷窃一条丝带却诬陷女仆的耻辱、以及与华伦夫人的复杂关系。开篇的宣言——"我要做一件前所未有的事"——宣告了一种全新的文学形式和一种全新的人性自我理解。卢梭的目标不是辩护，而是展示"一个完全真实的人"。
+
+The pioneering work of modern autobiography. Rousseau narrates his life with astonishing candor — including abandoning his five children, the shame of stealing a ribbon and blaming a servant girl, and his complex relationship with Madame de Warens. His opening declaration — "I am undertaking a task which has no precedent" — announced a new literary form and a new self-understanding of humanity. Rousseau's goal was not self-defense but displaying "a man in all the truth of nature."
+
+---
+
+### 《卢梭评判让-雅克：对话录》（1776）/ *Rousseau, Judge of Jean-Jacques: Dialogues* (1776)
+
+一部奇特的自我辩护之作，以三个对话者的形式展开——"卢梭"审判"让-雅克"（即作者自己）。写于被害妄想最严重的时期，这部作品展示了卢梭精神状态的痛苦，但也包含了对公众舆论和自我认同的深刻反思。
+
+A peculiar self-defense in the form of three interlocutors — "Rousseau" judges "Jean-Jacques" (the author himself). Written during his most paranoid period, it reveals Rousseau's anguished mental state while containing profound reflections on public opinion and self-identity.
+
+---
+
+### 《一个孤独漫步者的遐想》（1782，遗著）/ *Reveries of a Solitary Walker* (1782, posthumous)
+
+卢梭的最后一部作品，由十次"漫步"组成——在孤独中的哲学沉思。第五次漫步描述了在圣皮埃尔岛上漂浮于湖面的"存在的感受"（sentiment de l'existence）——一种纯粹的、无内容的意识状态，其中自我的全部丰富性在宁静中展现。这部作品预示了存在主义、现象学和浪漫主义的某些主题。
+
+Rousseau's final work, composed of ten "walks" — philosophical meditations in solitude. The Fifth Walk describes the "sentiment of existence" while floating on a lake on the Île de Saint-Pierre — a pure, contentless state of consciousness where the self's full richness unfolds in tranquility. This work anticipates themes of existentialism, phenomenology, and Romanticism.
+
+---
+
+## 其他重要著作 / Other Significant Works
+
+| 著作 | 年份 | 主题 |
+|------|------|------|
+| 《论政治经济学》*Discourse on Political Economy* | 1755 | 为《百科全书》撰写；公意在经济领域的应用 |
+| 《致达朗贝尔的信》*Letter to d'Alembert* | 1758 | 反对在日内瓦建立剧院 |
+| 《萨瓦牧师的信仰告白》*Profession of Faith of the Savoyard Vicar* | 1762 | 自然宗教；内含于《爱弥儿》第四卷 |
+| 《山中来信》*Letters from the Mountain* | 1764 | 回应日内瓦当局对《社会契约论》的指控 |
+| 《论波兰政府》*Considerations on the Government of Poland* | 1772 | 为波兰宪法改革提供建议 |
+
+| Work | Year | Theme |
+|------|------|-------|
+| *Discourse on Political Economy* | 1755 | Written for the *Encyclopédie*; applying the general will to economics |
+| *Letter to d'Alembert* | 1758 | Against establishing a theater in Geneva |
+| *Profession of Faith of the Savoyard Vicar* | 1762 | Natural religion; contained within *Emile* Book IV |
+| *Letters from the Mountain* | 1764 | Response to Genevan authorities' condemnation of *The Social Contract* |
+| *Considerations on the Government of Poland* | 1772 | Advice for Polish constitutional reform |
+
+---
+
+→ 返回 [卢梭主页 / Rousseau Main](README.md) | 参见 [年表 / Timeline](timeline.md) | [阅读指南 / Reading List](reading-list.md)

@@ -1,0 +1,114 @@
+---
+id: huiyuan-buddhanusmrti-samadhi
+title: "念佛三昧: 慧远的观想念佛禅法"
+type: concept
+parent: huiyuan
+domain: religion
+tags: [buddhanusmrti, samadhi, visualization, meditation, Pure-Land, Amitabha, 念佛, 三昧, 禅定]
+---
+
+# 念佛三昧 / Buddhanusmrti-Samadhi
+
+## 定义 / Definition
+
+**念佛三昧**是慧远提倡的以观想阿弥陀佛 (Amitabha) 相好庄严为核心的禅修方法。梵文 buddhanusmrti 意为"忆念佛"或"念佛"——不是后世净土宗的口称佛号，而是以心观想佛的形相、功德与净土，通过专注忆念达到三昧 (samadhi，正定) 的境界。
+
+**Buddhanusmrti-samadhi** is contemplative recollection of the Buddha — not vocal recitation of the Buddha's name (as in later Pure Land practice), but mental visualization of Amitabha's attributes, qualities, and Pure Land, concentrating the mind until samadhi (meditative absorption) is attained.
+
+## 印度源流 / Indian Sources
+
+### Buddhanusmrti 的早期形态
+
+"忆念佛" (buddhanusmrti) 是印度佛教最古老的修行方法之一，在原始佛教"六念"（念佛、念法、念僧、念戒、念施、念天）中居于首位。其最初形态是对佛陀功德的虔敬忆念，后来逐渐发展为系统化的观想禅法。
+
+### 《般舟三昧经》的影响
+
+支谶 (Lokaksema, 约 2 世纪) 翻译的《般舟三昧经》(Pratyutpanna-samadhi-sutra) 是慧远念佛三昧的最重要经典依据。此经描述了一种通过持续观想阿弥陀佛而在定中亲见佛身的禅修方法：
+
+> "菩萨在所问佛，即自见其身在前住。……当念阿弥陀如来，如是念佛，即得见佛。"
+
+**The Pratyutpanna-samadhi-sutra describes a meditative practice in which sustained visualization of Amitabha Buddha enables the practitioner to behold the Buddha directly within samadhi.**
+
+## 慧远的念佛三昧理论 / Huiyuan's Theory
+
+### 《念佛三昧诗集序》
+
+慧远为庐山弟子刘遗民等人的念佛诗集所作序文是其念佛理论的集中表达。在序中，慧远论证了念佛三昧在诸种三昧中的优越地位：
+
+> "夫称三昧者何？专思寂想之谓也。思专则志一不分，想寂则气虚神朗。……又诸三昧，其名甚众，功高易进，念佛为先。"
+
+**"Among all the various samadhis, their names are many; but the one of highest efficacy and easiest entry is buddhanusmrti — recollection of the Buddha — foremost among them."**
+
+### 观想方法 / Visualization Method
+
+慧远的念佛三昧包含以下观想层次：
+
+1. **观佛相好**: 忆念阿弥陀佛三十二相、八十种好的庄严形相
+2. **观佛功德**: 忆念佛的智慧、慈悲、神通等超越性品质
+3. **观佛净土**: 忆念西方极乐世界的种种庄严
+4. **观法身**: 从色身观想提升至对佛之法身 (dharmakaya) 的领悟
+
+这一从"有相"到"无相"的提升过程体现了慧远将般若空观与净土信仰综合的思想特征。
+
+### 三昧中的见佛体验
+
+慧远认为，通过持续精进的观想修行，行者可以在三昧中亲见阿弥陀佛。这种"定中见佛"的体验不仅是修行成就的标志，更是对往生西方净土的信心保证。
+
+这一主张引发了慧远与鸠摩罗什之间的重要通信——鸠摩罗什对"定中所见佛"的本体论地位持更为审慎的立场，认为定中所见可能是心识所造，未必是佛的真实显现。
+
+## 与后世净土修行的区别 / Difference from Later Pure Land Practice
+
+### 观想念佛 vs 称名念佛
+
+| 维度 | 慧远的观想念佛 | 后世称名念佛 (善导传统) |
+|------|----------------|------------------------|
+| 方法 | 以心观想佛的形相与功德 | 口称"南无阿弥陀佛"名号 |
+| 难度 | 较高，需要禅定训练 | 较低，人人可修 |
+| 理论 | 般若空观与观想禅法的结合 | 他力信仰——仰仗阿弥陀佛本愿 |
+| 主体性 | 自力修行色彩浓厚 | 他力救济色彩浓厚 |
+| 经典依据 | 《般舟三昧经》《观无量寿经》 | 《无量寿经》阿弥陀佛四十八愿 |
+| 受众 | 精英修行者 | 广大信众 |
+
+这一区别反映了净土信仰从精英化到大众化的历史演变。慧远的念佛三昧本质上仍是一种禅修方法，而后世净土宗的称名念佛则发展为信仰主义的救赎论。
+
+## 哲学分析 / Philosophical Analysis
+
+### 观想与认知的关系
+
+念佛三昧的核心问题是：观想 (visualization) 与认知 (cognition) 的关系如何？
+
+- **建构主义解读**: 观想是一种主动建构——心识构造出佛的形象，这一形象是心理产物而非外部实存
+- **现象学解读**: 观想是一种意向性活动——观想中的佛不是心理产物，而是意识指向的超越性对象的显现
+- **实在论解读**: 定中所见是佛的真实显现——佛以神通力回应行者的忆念，在定中示现
+
+鸠摩罗什倾向于建构主义立场，慧远则游移于现象学与实在论之间。
+
+### 与现代心理学的对话
+
+**意象训练 (Mental Imagery)**: 运动心理学广泛使用意象训练技术——通过心理意象提升运动表现。念佛三昧的观想方法与这一技术在结构上具有相似性：都是通过持续的心理意象建构来改变认知-身体状态。
+
+**正念与忆念**: 巴利文 sati（念）与 buddhanusmrti（念佛）共享"忆念"的语义核心。当代正念 (mindfulness) 练习中的"忆念"维度与念佛三昧在方法论上具有亲缘性。
+
+**心流状态 (Flow State)**: 念佛三昧达到的"专思寂想"状态与米哈里·契克森米哈赖 (Mihaly Csikszentmihalyi) 描述的心流状态具有结构平行：高度专注、自我消融、时间感变化。
+
+## 历史影响 / Historical Impact
+
+### 净土修行的源头
+
+慧远的念佛三昧是中国净土修行传统的最早形态。此后，净土修行方法经历了从观想到称名的演变：
+
+1. **慧远**: 观想念佛（4-5 世纪）
+2. **昙鸾**: 称名与观想并重（5-6 世纪）
+3. **善导**: 称名念佛为主（7 世纪）
+4. **法照**: 五会念佛（8 世纪）
+5. **印光**: 回归简易称名（19-20 世纪）
+
+### 禅净合流的先声
+
+慧远将禅修（三昧）与净土信仰（念佛）结合的做法，预示了后世中国佛教"禅净合流"的基本走向。这一综合成为中国佛教的主流修行模式。
+
+## 参见 / See Also
+
+- [白莲社](white-lotus-society.md) — 念佛三昧的集体修行载体
+- [神不灭论](spirit-non-extinction.md) — 观想主体的哲学论证
+- [慧远 Huiyuan](../README.md)

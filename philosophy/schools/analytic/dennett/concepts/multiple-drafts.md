@@ -1,0 +1,41 @@
+---
+id: dennett-multiple-drafts
+title: 多重草稿 · Multiple Drafts Model
+type: concept
+thinker: dennett
+domain: philosophy
+school: analytic
+tags: [consciousness, parallel-processing, cartesian-theater]
+---
+# 多重草稿 · Multiple Drafts Model
+
+## 概念定位 / Conceptual Position
+反对"笛卡尔剧场"——不存在一个"内部舞台"上意识被呈现给"内在观察者"。大脑中有多条并行信息流，"意识"只是赢得竞争的信息流。
+
+Against the "Cartesian Theater" — no "internal stage" where consciousness is presented to an "inner observer." Multiple parallel streams; "consciousness" is just the winning stream.
+
+## 核心论述 / Core Argument
+
+### 笛卡尔剧场 / Cartesian Theater
+传统直觉：大脑中有一个"中央舞台"，信息在这里被"呈现"给"自我"。Dennett论证这是一种幻觉——没有中央剧场，没有内在观察者。
+
+Traditional intuition: there's a "central stage" in the brain where information is "presented" to "the self." Dennett argues this is an illusion.
+
+### 多重草稿 / Multiple Drafts
+大脑中有多条并行的信息处理流（"草稿"），它们在竞争中争取全局影响——"意识"不是某个特定的草稿，而是草稿赢得竞争的动态过程。
+
+The brain has multiple parallel processing streams ("drafts") competing for global influence. "Consciousness" is the dynamic process of drafts winning competition.
+
+## 哲学意义 / Philosophical Significance
+彻底改变了意识研究的范式，推动了全局工作空间理论的发展。
+
+## 东西方对话 / East-West Dialogue
+### 与五蕴"无主" / With Five Aggregates' "No Master"
+佛教五蕴分析展示认知是多个过程的协作，没有"主控者"。Dennett的多重草稿类似——没有一个"中央观察者"，只有多条流的竞争与协作。
+
+Buddhist five-aggregate analysis shows cognition as multi-process cooperation without a "master." Dennett's multiple drafts are similar — no "central observer," only competition and cooperation among streams.
+
+## 相关概念 / Related Concepts
+- [意向立场 Intentional Stance](intentional-stance.md)
+- [意识的解释 Consciousness Explained](consciousness-explained.md)
+- [丹尼特主页](../README.md)

@@ -1,0 +1,18 @@
+---
+id: cognitive-systems.school.distributed.engestrom.reading-list
+title: 恩格斯托姆阅读指南 Yrjö Engeström Reading List
+type: reading-list
+thinker: engestrom
+domain: cognitive-systems
+school: distributed
+---
+
+# 恩格斯托姆阅读指南
+
+## 入门
+1. Engeström, Y. (1987/2015). *Learning by Expanding*. — 扩展学习理论
+2. Engeström, Y. (2001). "Expansive Learning at Work." — 应用论文
+
+## 前驱阅读
+- Vygotsky, L.S. *Mind in Society* (1978)
+- Leontiev, A.N. *Activity, Consciousness, and Personality* (1978)

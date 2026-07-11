@@ -1,0 +1,145 @@
+---
+id: leonardo-da-vinci-reading-list
+title: "达·芬奇进阶阅读指南 · Leonardo da Vinci: Annotated Reading Guide"
+type: reading-list
+domain: arts
+school: visual-arts
+thinker: leonardo-da-vinci
+tags: [leonardo, reading-guide, bibliography, renaissance, annotated]
+cross-refs:
+  - id: leonardo-da-vinci
+    relation: thinker
+---
+
+# 达·芬奇进阶阅读指南 · Leonardo da Vinci: Annotated Reading Guide
+
+> 本指南按入门、进阶、专业三个层级组织，涵盖原典/手稿、二手研究和中文资源，为不同背景的读者提供系统化的阅读路径。
+>
+> This guide is organized at three levels — Introductory, Intermediate, and Advanced — covering primary sources/notebooks, secondary literature, and Chinese-language resources, providing systematic reading paths for readers of different backgrounds.
+
+## 一、入门级 / Level 1: Introductory
+
+适合对达芬奇有基本了解、希望建立整体认知的读者。Recommended for readers with basic familiarity seeking a comprehensive overview.
+
+### 传记 / Biography
+
+1. **Walter Isaacson, *Leonardo da Vinci* (Simon & Schuster, 2017)**
+   - 评价：当代最佳通俗传记。以达芬奇的笔记本为主线，将艺术创作与科学研究编织为统一的叙事。可读性极强，适合所有背景的读者。中译本由中信出版社出版。
+   - The definitive modern popular biography. Weaves art and science into a unified narrative through the notebooks. Accessible to all backgrounds. Available in Chinese translation (CITIC Press).
+
+2. **Martin Kemp, *Leonardo da Vinci: A Very Short Introduction* (Oxford UP, 2004)**
+   - 评价：牛津"极简"系列中的达芬奇卷，篇幅精炼但学术水准一流。由当代最权威的达芬奇学者之一撰写。
+   - Oxford's "Very Short Introduction" series; concise but academically rigorous, by one of the foremost Leonardo scholars.
+
+3. **Serge Bramly, *Leonardo: The Artist and the Man* (HarperCollins, 1992)**
+   - 评价：心理传记学角度的达芬奇传记，对达芬奇的内在动机和人格有深入探索。法语原版 *Léonard de Vinci* (1988)。
+   - Psychological biography exploring Leonardo's inner motivations and personality.
+
+### 图像入门 / Visual Introduction
+
+4. **Frank Zöllner & Johannes Nathan, *Leonardo da Vinci: The Complete Paintings and Drawings* (Taschen, 2019)**
+   - 评价：最完整的达芬奇绘画与素描图录。大尺幅高质量图像，配有详尽的作品分析。是视觉学习的必备参考。
+   - The most complete catalogue of Leonardo's paintings and drawings; large-format, high-quality images with detailed analyses.
+
+## 二、进阶级 / Level 2: Intermediate
+
+适合已读过通俗传记、希望深入理解达芬奇思想和方法的读者。For readers who have read popular biographies and wish to deepen their understanding of Leonardo's thought and methods.
+
+### 原典/手稿选编 / Primary Sources: Notebook Selections
+
+5. **Irma Richter (ed.), *Leonardo da Vinci: Notebooks* (Oxford World's Classics, 2008 [1952])**
+   - 评价：最经典的英文手稿选编，由达芬奇研究先驱里希特家族编辑。选文涵盖科学、艺术和哲学，编排清晰。
+   - The classic English notebook selection, edited by the pioneering Richter family. Covers science, art, and philosophy with clear organization.
+
+6. **Martin Kemp (ed.), *Leonardo on Painting* (Yale UP, 1989)**
+   - 评价：从达芬奇绘画理论手稿中精选的核心文本，附有学术性的导论和注释。是理解《论绘画》（*Trattato della Pittura*）的最佳英文入口。
+   - Core texts from Leonardo's painting theory manuscripts, with scholarly introduction and notes. Best English entry point for the *Treatise on Painting*.
+
+7. **Edward MacCurdy (ed.), *The Notebooks of Leonardo da Vinci* (2 vols, Reynal & Hitchcock, 1938)**
+   - 评价：两卷本大型英文选编，按主题分类编排。虽然编辑年代较早，但内容覆盖面广，仍是重要参考。
+   - Two-volume thematic English selection; though dated, its breadth of coverage makes it a lasting reference.
+
+### 专题研究 / Thematic Studies
+
+8. **Fritjof Capra, *The Science of Leonardo: Inside the Mind of the Great Genius of the Renaissance* (Doubleday, 2007)**
+   - 评价：从系统科学（systems science）和复杂性理论角度解读达芬奇的科学思想。将达芬奇定位为"系统思维"的先驱——他关注的是关系和模式而非孤立的对象。
+   - Interprets Leonardo's science through systems thinking and complexity theory, positioning him as a pioneer of relational, pattern-based cognition.
+
+9. **Martin Kemp, *The Marvellous Works of Nature and Man* (Oxford UP, 2006 [1981])**
+   - 评价：学术性最强的达芬奇综合研究之一，尤其深入探讨了达芬奇的视觉理论和光学研究。
+   - Among the most scholarly comprehensive studies, especially deep on Leonardo's visual theory and optical research.
+
+10. **Carlo Pedretti, *Leonardo da Vinci: A Life in Drawing* (Thames & Hudson, 1973)**
+    - 评价：以素描/绘图为主线组织达芬奇的生平叙事，揭示了"绘图即思考"的核心方法论。
+    - Organizes Leonardo's biography around drawing, revealing the "drawing as thinking" methodology.
+
+## 三、专业级 / Level 3: Advanced
+
+适合从事学术研究或希望深入特定专题的读者。For academic researchers or readers seeking deep engagement with specific topics.
+
+### 手稿全集研究 / Complete Manuscript Studies
+
+11. **Carlo Pedretti (ed.), *The Literary Works of Leonardo da Vinci* (2 vols, University of California Press, 1977)**
+    - 评价：最权威的达芬奇文学性手稿编辑版本。附有详尽的学术注释和文献学考证。
+    - The most authoritative edition of Leonardo's literary manuscripts, with exhaustive scholarly annotations.
+
+12. **Kenneth Clark, *The Drawings of Leonardo da Vinci in the Collection of Her Majesty the Queen at Windsor Castle* (3 vols, Phaidon, 1968-69)**
+    - 评价：温莎城堡皇家收藏达芬奇素描的系统编目，附有详细的图像学分析和风格评论。
+    - Systematic catalogue of the Royal Collection's Leonardo drawings with detailed iconographic and stylistic analysis.
+
+### 专题深度研究 / Advanced Thematic Studies
+
+13. **Martin Kemp, *The Science of Art: Optical Themes in Western Art from Brunelleschi to Seurat* (Yale UP, 1990)**
+    - 评价：从光学角度贯通文艺复兴至印象派的视觉艺术史，达芬奇的透视和光学研究占据核心章节。
+    - Traces optical themes across art history from Brunelleschi to Seurat, with Leonardo's perspective and optics research in central chapters.
+
+14. **Francesca Fiorani, *The Marvelous Works of Nature: Leonardo da Vinci and the Body of Art* (2021)**
+    - 评价：最新学术成果，重新审视达芬奇如何通过绘画来理解和表现自然。
+    - Recent scholarship re-examining how Leonardo understood and represented nature through painting.
+
+15. **Michael Desmond & Carlo Pedretti, *Leonardo da Vinci: Codex Leicester* (University of California Press, 2000)**
+    - 评价：莱斯特抄本的学术编辑版本，附有详尽的水力学和地质学分析。
+    - Scholarly edition of the Codex Leicester with detailed hydraulic and geological analysis.
+
+### 透视与光学 / Perspective and Optics
+
+16. **Erwin Panofsky, *Perspective as Symbolic Form* (Zone Books, 1991 [1927])**
+    - 评价：透视法研究的经典之作，将线性透视置于西方认识论传统中考察。达芬奇的"自然透视"与"人工透视"区分是本书的关键案例。
+    - Classic perspective study placing linear perspective within Western epistemological tradition. Leonardo's natural/artificial perspective distinction is a key case study.
+
+## 四、中文资源 / Chinese-Language Resources
+
+### 传记与通论 / Biography and General Studies
+
+- **《达芬奇传》**（沃尔特·艾萨克森著，中信出版社） — Isaacson 传记的中文译本，可读性强，适合入门。Chinese translation of Isaacson's biography; accessible introductory reading.
+- **《达芬奇与他的时代》** — 以文艺复兴为背景的通俗读物。Popular reading set against the Renaissance background.
+
+### 原典中译 / Primary Sources in Chinese
+
+- **《达芬奇论绘画》**（人民美术出版社） — 从《论绘画》手稿中精选的绘画理论文本中译。Chinese translation of selected painting theory from the *Treatise on Painting*.
+- **《达芬奇笔记》**（戴勉编译） — 较为完整的手稿选编中译。Relatively comprehensive Chinese selection of notebook entries.
+- **《达芬奇手稿解密》** — 科普导向的手稿导读。Popular science-oriented notebook guide.
+
+### 艺术史著作中译 / Art History in Chinese
+
+- **贡布里希（E.H. Gombrich）《艺术的故事》** — 文艺复兴章节对达芬奇有精彩的分析。Gombrich's *Story of Art*; Renaissance chapters contain excellent Leonardo analysis.
+- **瓦萨里（Giorgio Vasari）《艺苑名人传》** — 达芬奇传记是最早的系统评论。Vasari's *Lives*; the Leonardo biography is the earliest systematic commentary.
+- **丹纳（Hippolyte Taine）《艺术哲学》** — 关于意大利文艺复兴的论述中有达芬奇的定位分析。Taine's *Philosophy of Art*; Italian Renaissance section includes Leonardo positioning.
+
+## 五、在线资源 / Online Resources
+
+- **Leonardo da Vinci 官方数字档案**（e-Leo） — 由芬奇镇达芬奇博物馆运营的数字化手稿数据库。Digital manuscript database operated by the Museo Leonardiano in Vinci.
+- **温莎城堡皇家收藏在线**（Royal Collection Trust） — 达芬奇手稿和素描的高清数字化。High-resolution digitization of Leonardo manuscripts and drawings.
+- **Universal Leonardo**（universal-leonardo.org） — 马丁·坎普主持的达芬奇研究网站。Martin Kemp's Leonardo research website.
+- **莱斯特抄本数字化** — 比尔·盖茨委托的完整数字化版本，免费公开。Complete digitization of the Codex Leicester, freely available.
+
+## 六、建议阅读序列 / Suggested Reading Sequences
+
+**序列一：艺术为主 / Art-Focused Path**：
+1. Isaacson 传记 → 2. Zöllner & Nathan 图录 → 3. Kemp *Leonardo on Painting* → 4. Pedretti *A Life in Drawing*
+
+**序列二：科学为主 / Science-Focused Path**：
+1. Isaacson 传记 → 2. Capra *The Science of Leonardo* → 3. Richter *Notebooks* → 4. Kemp *Marvellous Works of Nature and Man*
+
+**序列三：跨学科 / Interdisciplinary Path**：
+1. Isaacson 传记 → 2. Bramly 心理传记 → 3. MacCurdy *Notebooks* → 4. Kemp *The Science of Art* → 5. Panofsky *Perspective as Symbolic Form*

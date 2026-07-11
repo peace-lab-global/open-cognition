@@ -1,0 +1,34 @@
+---
+id: fodor-computationalism
+title: 计算主义 · Computationalism
+type: concept
+thinker: fodor
+domain: philosophy
+school: analytic
+tags: [computation, mind, symbols, AI]
+---
+# 计算主义 · Computationalism
+
+## 概念定位 / Conceptual Position
+心理过程是对内在符号的计算操作——心灵是一台符号处理机器。
+
+Mental processes are computational operations on internal symbols — the mind is a symbol-processing machine.
+
+## 核心论述 / Core Argument
+
+### 计算理论的心智观 / Computational Theory of Mind (CTM)
+思维 = 对mentalese符号的形式操作。这些操作由符号的形式属性（而非语义属性）驱动——类似计算机处理0和1。
+
+Thinking = formal operations on mentalese symbols, driven by formal (not semantic) properties — like computers processing 0s and 1s.
+
+### 与联结主义的对立 / Opposition to Connectionism
+Fodor批评联结主义（神经网络模型）无法解释思维的系统性和生产性——分布式表征缺乏组合结构。
+
+Fodor argues connectionism cannot explain systematicity and productivity — distributed representations lack combinatorial structure.
+
+## 哲学意义 / Philosophical Significance
+为AI和认知科学提供了"经典"（符号主义）路线的哲学基础。
+
+## 相关概念 / Related Concepts
+- [思维语言 Language of Thought](language-of-thought.md)
+- [福多主页](../README.md)

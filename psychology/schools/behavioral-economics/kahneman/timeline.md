@@ -1,0 +1,127 @@
+---
+id: kahneman-timeline
+title: "卡尼曼生平年表 · Kahneman Life Timeline"
+type: timeline
+thinker: kahneman
+school: behavioral-economics
+---
+
+# 卡尼曼生平年表 · Kahneman Life Timeline
+
+---
+
+## 早年与教育 · Early Life and Education
+
+| 年份 | 事件 |
+|---|---|
+| 1934 | 3月5日出生于巴勒斯坦托管地特拉维夫（今以色列），父母为立陶宛犹太移民 |
+| 1934–1946 | 在巴黎度过部分童年（父母曾移居法国） |
+| 1946 | 随家庭返回巴勒斯坦 |
+| 1948 | 以色列建国；父亲去世 |
+| 1951 | 进入希伯来大学学习心理学与数学 |
+| 1954 | 获希伯来大学心理学与数学学士学位 |
+| 1954–1956 | 在以色列国防军心理学部门服役，开发军官选拔测试 |
+| 1956 | 获希伯来大学心理学硕士学位 |
+| 1958 | 赴美国加州大学伯克利分校攻读博士 |
+| 1961 | 获加州大学伯克利分校心理学博士学位，导师为Egon Brunswik的学术传人 |
+
+---
+
+## 学术生涯早期 · Early Academic Career
+
+| 年份 | 事件 |
+|---|---|
+| 1961 | 回到希伯来大学任心理学讲师 |
+| 1966 | 在《科学》发表论文，研究视觉注意力的瞳孔反射 |
+| 1967–1968 | 在密歇根大学人类认知研究中心访学 |
+| 1969 | **与阿莫斯·特沃斯基开始合作**——两人在希伯来大学的一场研讨会上相识，开始了持续近30年的学术合作 |
+| 1969 | 合作发表第一篇论文"Intuitive Prediction: Biases and Corrective Procedures" |
+| 1971 | 发表"Belief in the Law of Small Numbers" |
+
+---
+
+## 开创性研究时期 · Groundbreaking Research Period
+
+| 年份 | 事件 |
+|---|---|
+| 1972 | 发表"Subjective Probability: A Judgment of Representativeness"，提出代表性启发 |
+| 1973 | 发表可得性启发论文和预测心理学论文 |
+| 1974 | 在《科学》发表"Judgment under Uncertainty: Heuristics and Biases"——启发式与偏差研究纲领的宣言 |
+| 1977 | 离开希伯来大学，赴不列颠哥伦比亚大学（加拿大）任教 |
+| 1979 | **发表"前景理论"**（Prospect Theory），在《Econometrica》——行为经济学的奠基之作 |
+| 1981 | 发表"框架效应"论文 |
+| 1982 | 合编《Judgment under Uncertainty: Heuristics and Biases》论文集 |
+| 1983 | 发表合取谬误论文（琳达问题） |
+| 1986 | 离开不列颠哥伦比亚大学，赴加州大学伯克利分校任教 |
+
+---
+
+## 普林斯顿时期 · Princeton Period
+
+| 年份 | 事件 |
+|---|---|
+| 1990 | 发表禀赋效应实验验证论文（与Knetsch、Thaler合作）|
+| 1993 | 赴普林斯顿大学任心理学教授 |
+| 1993 | 任普林斯顿大学Woodrow Wilson学院Eugene Higgins心理学教授 |
+| 1996 | **特沃斯基因黑色素瘤去世**，享年59岁。卡尼曼失去了最重要的学术伙伴 |
+| 1997 | 发表"Back to Bentham?"——开始关注体验效用与决策效用的区分 |
+| 1999 | 合编《Well-Being: Foundations of Hedonic Psychology》 |
+| 2000 | 合编《Choices, Values, and Frames》 |
+| 2000 | 提出峰终定律（Peak-End Rule） |
+
+---
+
+## 诺贝尔奖与公众影响力 · Nobel Prize and Public Influence
+
+| 年份 | 事件 |
+|---|---|
+| 2001 | 当选美国国家科学院院士 |
+| 2002 | **获诺贝尔经济学奖**（与弗农·史密斯共享），表彰"将心理学研究的洞见融入经济学科学" |
+| 2003 | 发表诺贝尔奖演讲论文"Maps of Bounded Rationality" |
+| 2007 | 获美国心理学会（APA）终身成就奖 |
+| 2011 | **出版《思考，快与慢》（*Thinking, Fast and Slow*）**——系统总结数十年研究成果的全球畅销书 |
+| 2013 | 获美国总统奥巴马颁发的**总统自由勋章** |
+| 2015 | 被《经济学人》评为在世最有影响力的经济学家之一 |
+| 2016 | Michael Lewis出版《The Undoing Project》，讲述卡尼曼与特沃斯基的合作故事 |
+| 2019 | 获美国心理学会（APA）杰出科学贡献金奖 |
+
+---
+
+## 晚年与遗产 · Later Years and Legacy
+
+| 年份 | 事件 |
+|---|---|
+| 2021 | **出版《噪声》（*Noise: A Flaw in Human Judgment*）**，与奥利维耶·西博尼、卡斯·桑斯坦合著 |
+| 2021 | 在《科学》发表关于噪声与偏差的综合分析 |
+| 2022 | 接受多次访谈，回顾学术生涯和与特沃斯基的合作 |
+| 2024 | **3月27日逝世**，享年90岁。全球学术界和公众领域致以广泛哀悼 |
+
+---
+
+## 重要里程碑总结 · Key Milestones Summary
+
+```
+1934 ─── 出生 (Birth)
+  │
+1961 ─── 博士毕业 (PhD)
+  │
+1969 ─── 与特沃斯基合作开始 (Collaboration with Tversky begins)
+  │
+1974 ─── 《科学》启发式论文 (Science heuristics paper)
+  │
+1979 ─── 前景理论 (Prospect Theory)
+  │
+1996 ─── 特沃斯基去世 (Tversky passes away)
+  │
+2002 ─── 诺贝尔奖 (Nobel Prize)
+  │
+2011 ─── 《思考，快与慢》(Thinking, Fast and Slow)
+  │
+2021 ─── 《噪声》(Noise)
+  │
+2024 ─── 逝世 (Passing)
+```
+
+---
+
+→ 返回 [卡尼曼主页](README.md) | 相关：[关键著作](works.md) | [进阶阅读](reading-list.md)

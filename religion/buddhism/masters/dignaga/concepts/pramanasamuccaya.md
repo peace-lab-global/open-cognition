@@ -1,0 +1,171 @@
+---
+id: dignaga-pramanasamuccaya
+title: "集量论 · Pramanasamuccaya (Compendium of Valid Cognition)"
+type: concept
+domain: religion
+school: buddhism-pramana
+era: classical-india
+tags: [Pramanasamuccaya, epistemology, Buddhist-logic, Dignaga, pramana]
+aliases: [集量论, Pramanasamuccaya, Compendium of Valid Cognition, Collection of Pramanas]
+sources:
+  - title: "Pramanasamuccaya"
+    author: Dignaga
+  - title: "Pramanasamuccaya-tika"
+    author: Jinendrabuddhi
+parent: dignaga
+---
+
+# 集量论 · Pramanasamuccaya
+
+## 一句话定义
+
+《集量论》是陈那最重要的哲学著作，六品结构涵盖感知、推理、论证、例证、意义理论和反驳——构成佛教历史上第一部系统性的认识论专著，奠定了此后整个佛教量论传统的基础。
+
+## 基本信息
+
+- **作者**: [陈那 Dignaga](../README.md)（约 480-540 CE）
+- **梵文名**: Pramanasamuccaya（pramana = 量/有效认识 + samuccaya = 集/汇编）
+- **藏译名**: Tshad ma kun las btus pa
+- **汉译**: 无完整古代汉译。法尊法师（20世纪）从藏译转译为汉文
+- **结构**: 六品（pariccheda），以偈颂（karika）体裁写成，附自注（vrtti）
+- **现存**: 梵文原本已失（仅存残片）；藏译完整（两种译本）；法尊法师汉译
+- **注疏**: 最最重要的是慧藏（Jinendrabuddhi，约 8 世纪）的《集量论释》（Pramanasamuccayatika）
+
+## 六品结构
+
+### 第一品：现量品 Pratyaksapariccheda
+
+**主题**: 感知论——什么构成有效的直接感知？
+
+**核心内容**:
+- 定义现量为"离分别"（kalpanapodha）——不含概念化操作的纯粹觉知
+- 四种现量：五根现量（感官感知）、意识现量（心智感知）、自证现量（自我意识）、瑜伽现量（瑜伽修行者的特殊感知）
+- 自证（svasamvitti/svasamvedana）理论：每一个认识都同时认识自身——看到蓝色的同时意识到"我在看"
+- 对正理派感知理论的批判
+
+**哲学重要性**: 这是佛教认识论中对"纯粹感知"最精细的分析。"离分别"的定义成为此后所有佛教认识论讨论的出发点。自证理论影响了后来法称和藏传量论对意识本质的讨论。
+
+### 第二品：为自比量品 Svarthanumanapariccheda
+
+**主题**: 自我推理——个体内在的推理过程如何运作？
+
+**核心内容**:
+- 定义比量为"依因而知"——基于逻辑标记（hetu）的推理认识
+- 因三相（trairupya）的完整表述：遍是宗法性、同品定有性、异品遍无性
+- 九句因（hetucakra）的分类系统
+- 因的类型：自性因（svabhava-hetu）、果性因（karya-hetu）、不可得因（anupalabdhi-hetu）
+
+**哲学重要性**: 因三相的提出是印度逻辑史上最重要的范式转换。从"五支论式"到"三支论式"的转变不仅是形式简化，更是对推理本质的深层理解——有效推理的关键在于"因"（中项）的属性，而非论证的形式结构。
+
+### 第三品：为他比量品 Pararthanumanapariccheda
+
+**主题**: 公共论证——如何向他人有效地表达推理？
+
+**核心内容**:
+- 三支论式（宗、因、喻）的完整规范
+- 论证的有效条件与无效条件（过，hetvabhasa）
+- 语言在论证中的角色
+- 从内在推理到公共表达的转换问题
+
+**哲学重要性**: 这一品将逻辑从纯粹的认识论问题（"我如何知道"）扩展到社会-语言问题（"我如何让别人知道"）。陈那对论证"过"（fallacies）的分析比正理派更系统。
+
+### 第四品：喻品 Drstantapariccheda
+
+**主题**: 例证——普遍命题如何通过具体例子建立？
+
+**核心内容**:
+- 例证（drstanta）在推理中的功能
+- 同喻与异喻的运用
+- 例证与普遍关系（vyapti）的建立
+
+**哲学重要性**: 例证不是简单的"举例说明"，而是普遍命题（"凡有烟处皆有火"）的认识论基础——我们如何通过有限观察建立普遍命题？这个问题至今仍是归纳逻辑的核心问题。
+
+### 第五品：遮诠品 Apohapariccheda
+
+**主题**: 意义理论——语言如何获得意义？
+
+**核心内容**:
+- 遮诠论（apoha）的完整论证：概念的意义通过"排除其他"获得
+- 对正理派和胜论派共相实在论的系统批判
+- 否定性语义学的建构
+- 语言与实在的关系分析
+
+**哲学重要性**: 这是整个《集量论》中最具哲学原创性的部分。遮诠论不仅解决了佛教唯名论的理论困境，也提出了极具现代性的意义理论——与20世纪的结构主义语义学和维特根斯坦的语言哲学形成深刻呼应。
+
+### 第六品：反论品 Japariccheda (或反论/观过类品)
+
+**主题**: 回应批评——处理来自其他学派的反对意见
+
+**核心内容**:
+- 回应正理派对因三相的批评
+- 回应弥曼差派对圣教量地位的质疑
+- 回应胜论派对共相实在论的辩护
+- 处理各种"过类"（jati，无效的反对）
+
+**哲学重要性**: 这一品展示了陈那作为论辩家的技巧和作为哲学家的系统性——他不仅建构了自己的理论，也预见并回应了所有可能的反对意见。
+
+## 文本传承
+
+### 梵文传统
+
+- 原本已失，仅存少量残片（发现于尼泊尔和西藏）
+- 20 世纪以来的梵文残片研究（Steinkellner 等）不断推进文本复原
+
+### 藏译传统
+
+- **两种藏译本**:
+  1. 旧译（约 8 世纪）：可能由法明（Dharmaloka）等翻译
+  2. 新译（约 11 世纪）：更精确的修订本
+- **最重要的注疏**: 慧藏 Jinendrabuddhi 的《集量论释》（Pramanasamuccayatika），现存藏译，是理解陈那原意的最重要二手文献
+- 藏传佛教将《集量论》视为"量论"（tshad ma）传统的根本经典
+
+### 汉译传统
+
+- **古代**: 无完整汉译（这是汉传因明的一个遗憾——汉传因明主要依赖《因明正理门论》）
+- **现代**: 法尊法师（1902-1980）从藏译转译为汉文，是中文世界理解《集量论》的主要途径
+- 法尊法师另著有《集量论略解》，提供逐颂注释
+
+## 在佛教思想史中的地位
+
+### 前驱文本
+
+- 世亲《论轨》Vadavidhi — 陈那逻辑思想的直接来源
+- 无著《瑜伽师地论》中的因明部分
+- 正理派《正理经》及注释 — 批判对象
+
+### 后续影响
+
+- **法称**的《量抉择论》Pramanavarttika 是对《集量论》的系统性注释和深化
+- **藏传量论**: 以法称为中心的藏传认识论传统，将《集量论》-《量抉择论》视为核心文本
+- **汉传因明**: 虽未直接翻译《集量论》，但通过《因明正理门论》继承了陈那的逻辑思想
+- **现代学术**: 20 世纪以来，以维也纳学派（Steinkellner, Krasser 等）为中心的研究推进了梵藏比较文本学
+
+**The Pramanasamuccaya is the founding text of Buddhist epistemology. Its six-chapter structure — perception, inference for oneself, inference for others, examples, exclusion theory, and responses to objections — provides a complete epistemological system. Though the Sanskrit original is lost, the Tibetan translation and Jinendrabuddhi's commentary preserve Dignaga's revolutionary synthesis of perception theory, logic, and philosophy of language.**
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 集量论 | "收集认识方法的论著" | "对一切有效认识来源的系统性汇编与哲学论证" |
+| 品 | "章" | "pariccheda——系统的主题单元，每品涵盖一个核心认识论问题" |
+| 偈颂 | "诗歌" | "karika——精炼的哲学论断，每个偈颂承载一个精确的哲学命题" |
+| 自注 | "作者的解释" | "vrtti——作者对自己偈颂的详细阐释，有时包含对反对意见的回应" |
+
+## 当代关联
+
+- **认识论系统化**: 《集量论》的六品结构可与当代认识论教科书的结构比较——从感知到推理到语言
+- **跨文化哲学**: 《集量论》为东西方认识论的比较提供了最系统的佛教文本基础
+- **文本学与数字人文**: 梵文残片的复原工作（Steinkellner 等）是数字人文方法在古典文本研究中的前沿应用
+
+## 常见误读
+
+- **"《集量论》= 逻辑学教材"** → 《集量论》不是单纯的逻辑学教材。它是一部完整的认识论哲学著作，涵盖感知论、逻辑学、语言哲学和论辩术。将它简化为"逻辑学"会失去其哲学深度。
+- **"梵文原本完全失传"** → 虽然完整梵文本已失，但 20 世纪以来发现了大量梵文残片（特别是在西藏），学者们正在逐步复原梵文原貌。
+- **"法尊法师的汉译 = 原始文本"** → 法尊法师的汉译是从藏译转译的，不是从梵文直译。由于藏译本身可能有偏差，使用时需要对照藏文原本。
+
+## 延伸阅读
+
+- [唯二量 Only Two Pramanas](only-two-pramanas.md) — 第一品的核心论题
+- [因三相 Trairupya](trairupya.md) — 第二品的核心论题
+- [遮诠论 Apoha](apoha-exclusion.md) — 第五品的核心论题
+- [自相与共相 Svalaksana & Samanyalaksana](particular-universal.md) — 贯穿全书的本体论基础

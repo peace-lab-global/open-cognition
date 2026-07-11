@@ -1,0 +1,149 @@
+---
+id: psychology.humanistic.maslow.hierarchy-of-needs
+title: "需求层次 · Hierarchy of Needs"
+type: concept
+domain: psychology
+thinker: psychology.humanistic.maslow
+tags: [需求层次, 动机理论, 自我实现, 自我超越, 人本主义]
+---
+
+# 需求层次 · Hierarchy of Needs
+
+> "人的需要本身就形成一个层次系统。"
+> "Human needs themselves form a hierarchical system."
+
+---
+
+## 定义 / Definition
+
+**需求层次理论**（Hierarchy of Needs）是马斯洛提出的多层动机模型，描述了人类需求从基本生存到精神超越的递进结构。该理论最初在1943年论文《人类动机理论》（A Theory of Human Motivation）中提出，后在1954年《动机与人格》中系统阐述。
+
+The **Hierarchy of Needs** is Maslow's multi-level motivation model describing the progressive structure of human needs from basic survival to spiritual transcendence. Originally proposed in his 1943 paper "A Theory of Human Motivation" and systematically elaborated in *Motivation and Personality* (1954).
+
+经典五层模型如下 / The classic five-level model:
+
+| 层次 / Level | 需求类型 / Need Type | 典型内容 / Typical Content |
+|:---|:---|:---|
+| 1 | 生理需求 / Physiological | 食物、水、空气、睡眠、性 / Food, water, air, sleep, sex |
+| 2 | 安全需求 / Safety | 人身安全、健康、财产、秩序 / Personal safety, health, property, order |
+| 3 | 归属与爱 / Belongingness & Love | 友谊、家庭、亲密关系、社群 / Friendship, family, intimacy, community |
+| 4 | 尊重 / Esteem | 自尊、成就感、被认可、地位 / Self-respect, achievement, recognition, status |
+| 5 | 自我实现 / Self-Actualization | 创造力、道德感、问题解决、潜能发挥 / Creativity, morality, problem-solving, potential |
+
+马斯洛后来扩展了该模型，加入认知需求（cognitive needs）和审美需求（aesthetic needs），并在最高处加入自我超越（self-transcendence）层，形成八层模型。
+
+Maslow later expanded the model to include cognitive needs and aesthetic needs, and added self-transcendence at the apex, forming an eight-level model.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 优势需求原则 / Principle of Prepotency
+
+马斯洛提出"优势需求"（prepotent need）概念：在任何时刻，对行为最具驱动力的需求是尚未得到基本满足的最低层需求。当低位需求获得"相对满足"（relative satisfaction）后，下一层需求开始浮现并成为主导动机。
+
+Maslow proposed the concept of "prepotent need": at any given moment, the most behavior-driving need is the lowest-level need that remains substantially unsatisfied. When lower needs achieve "relative satisfaction," the next level emerges and becomes the dominant motivator.
+
+### 动态交叠而非刚性阶梯 / Dynamic Overlap, Not a Rigid Ladder
+
+马斯洛明确反对将该模型理解为固定阶梯。他指出：
+- 大多数人在大多数时候，所有需求都是"部分满足、部分未满足"的状态
+- 需求之间可以逆向影响——例如创造性表达（自我实现层）可以帮助人忍受物质匮乏（生理层）
+- 层级顺序因人而异——有些人的尊重需求可能先于归属需求
+- 某些需求（如创造性冲动）可以跨越多个层次
+
+Maslow explicitly rejected treating the model as a fixed ladder:
+- Most people most of the time have all needs "partially satisfied and partially unsatisfied"
+- Needs can influence each other in reverse — e.g., creative expression (self-actualization) can help one endure material deprivation (physiological)
+- The order varies by individual — for some, esteem needs precede belongingness
+- Some drives (e.g., creative impulse) can span multiple levels
+
+### 匮乏性需求与成长性需求 / Deficiency-Needs vs. Growth-Needs
+
+前四层（生理、安全、归属、尊重）被归为**匮乏性需求**（Deficiency-needs / D-needs）——它们源于缺乏，满足后驱动力消退。自我实现和自我超越则属于**成长性需求**（Growth-needs / Being-needs / B-needs）——它们不因满足而消退，反而因追求而增强。
+
+The first four levels (physiological, safety, belongingness, esteem) are classified as **Deficiency-needs** (D-needs) — they arise from lack, and motivation diminishes upon satisfaction. Self-actualization and self-transcendence belong to **Growth-needs** (Being-needs / B-needs) — they do not diminish upon satisfaction but rather intensify through pursuit.
+
+---
+
+## 发展脉络 / Development
+
+### 1943年原始论文 / 1943 Original Paper
+
+在《人类动机理论》中，马斯洛首次提出五层需求模型，明确将其定位为对当时主流驱力理论（drive theory）的替代方案。他批评了将所有动机还原为单一驱力（如弗洛伊德的性驱力或赫尔的内驱力）的做法。
+
+In "A Theory of Human Motivation," Maslow first proposed the five-level model, explicitly positioning it as an alternative to the then-dominant drive theory. He criticized reducing all motivation to a single drive (such as Freud's libido or Hull's drive reduction).
+
+### 1954年系统阐述 / 1954 Systematic Elaboration
+
+《动机与人格》对层次理论进行了系统展开，加入了自我实现者的特征描述和实证研究。
+
+*Motivation and Personality* systematically expanded the hierarchy theory, adding descriptions of self-actualizer characteristics and empirical research.
+
+### 1960s–1970年扩展 / 1960s–1970 Extensions
+
+马斯洛加入认知需求和审美需求，并在最高处加入自我超越层。他开始将需求层次与存在性价值（B-values）概念整合，提出存在性价值的挫折（metapathology）可能导致精神层面的疾病。
+
+Maslow added cognitive and aesthetic needs and the self-transcendence level at the apex. He began integrating the hierarchy with Being-values, proposing that frustration of B-values can lead to "metapathology" — illness of the spirit.
+
+### 当代修订 / Contemporary Revisions
+
+Kenrick等人（2010）从进化心理学角度修订了需求层次，将自我实现拆解为多个进化适应功能（如配偶获取、亲代抚育），引发了广泛讨论。Kaufman（2020）则试图以当代实证研究重新验证和拓展马斯洛的原始洞见。
+
+Kenrick et al. (2010) revised the hierarchy from an evolutionary psychology perspective, decomposing self-actualization into multiple evolutionary adaptive functions (mate acquisition, parenting, etc.), sparking wide debate. Kaufman (2020) sought to re-validate and extend Maslow's original insights with contemporary empirical research.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 需求评估 / Needs Assessment
+
+在临床和咨询实践中，需求层次提供了一个快速评估来访者当前"需求受挫"状态的框架。治疗师可以据此识别来访者在哪些层面存在未被满足的需求，从而确定治疗目标。
+
+In clinical and counseling practice, the hierarchy provides a framework for rapidly assessing a client's current state of "need frustration." Therapists can identify which levels contain unmet needs and thereby determine treatment goals.
+
+### 发展性视角 / Developmental Perspective
+
+需求层次帮助治疗师理解来访者的"发展性卡点"（developmental stuck points）：当某一层面需求长期受挫时，个体可能固着于该层面，表现出过度追求安全、过度依赖关系或过度寻求认可等行为模式。
+
+The hierarchy helps therapists understand clients' "developmental stuck points": when needs at a particular level are chronically frustrated, the individual may become fixated at that level, exhibiting excessive security-seeking, over-dependence on relationships, or compulsive approval-seeking.
+
+### 整合积极资源 / Integrating Positive Resources
+
+需求层次不仅关注病态，还帮助来访者识别和激活自身的成长性资源。即使低位需求尚未完全满足，来访者也可以在创造性活动、精神追求和利他行为中找到意义感和力量感。
+
+The hierarchy attends not only to pathology but also helps clients identify and activate growth resources. Even when lower needs are not fully met, clients can find meaning and strength through creative activity, spiritual pursuit, and altruistic behavior.
+
+---
+
+## 与其他概念的关联 / Related Concepts
+
+- **匮乏与存在需求 / D-Needs & B-Needs**：需求层次的内在二元结构。→ [deficiency-being-needs.md](deficiency-being-needs.md)
+- **自我实现 / Self-Actualization**：第五层（后扩展为第七层）需求的核心概念。→ [self-actualization.md](self-actualization.md)
+- **元动机 / Metamotivation**：高位需求的驱动力机制。→ [metamotivation.md](metamotivation.md)
+- **高峰体验 / Peak Experience**：高位需求得到追求时的巅峰意识状态。→ [peak-experience.md](peak-experience.md)
+- **心流 / Flow**：Csikszentmihalyi的心流概念与自我实现层面的创造性投入密切相关。
+- **自我决定理论 / Self-Determination Theory**：Deci & Ryan的自主性、胜任感、关系性三大基本心理需求可以视为对需求层次的精简和实证化重构。
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+需求层次理论与东方修行传统中的"次第"（stages of practice）概念形成有趣对照。佛教的"道次第"（lam rim）将修行分为从出离心到菩提心的递进阶段，与需求层次从匮乏性需求到成长性需求的递进有结构性相似。道家的"养生→养性→养神"同样呈现出从物质到精神的层次递进。
+
+然而，东方传统通常认为这些层次之间不是线性递进而是相互渗透的——禅宗强调"平常心是道"，在日常饮食起居（生理层面）中即可体验最高觉悟（超越层面）。这与马斯洛晚年的"高原体验"概念——在日常生活中持续保持存在性意识——形成对话。
+
+The hierarchy resonates with Eastern "stages of practice" concepts. Buddhism's *lam rim* (stages of the path) progresses from renunciation to bodhicitta, structurally paralleling the D-needs to B-needs progression. Daoism's progression from "nourishing life → nourishing nature → nourishing spirit" similarly moves from material to spiritual levels.
+
+However, Eastern traditions typically view these levels as mutually permeating rather than linearly progressive — Zen emphasizes "ordinary mind is the Way," where highest awakening can be found in daily eating and sleeping. This dialogues with Maslow's late "plateau experience" concept — sustaining Being-consciousness in everyday life.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Maslow, A. H. (1943). "A Theory of Human Motivation." *Psychological Review*, 50(4), 370–396.
+- Maslow, A. H. (1954). *Motivation and Personality*, Chs. 3–7. Harper & Row.
+- Kenrick, D. T., et al. (2010). "Renovating the Pyramid of Needs." *Perspectives on Psychological Science*, 5(3), 292–314.
+- Kaufman, S. B. (2020). *Transcend: The New Science of Self-Actualization*, Part I. TarcherPerigee.
+- Tay, L., & Diener, E. (2011). "Needs and Subjective Well-Being Around the World." *Journal of Personality and Social Psychology*, 101(2), 354–365. — 跨文化实证检验
+- Wahba, M. A., & Bridwell, L. G. (1976). "Maslow Reconsidered." *Organizational Behavior and Human Performance*, 15(2), 212–240. — 经典批评性综述

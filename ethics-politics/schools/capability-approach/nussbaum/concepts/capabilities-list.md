@@ -1,0 +1,89 @@
+---
+id: nussbaum-capabilities-list
+title: "能力清单 · Central Capabilities List"
+type: concept
+thinker: nussbaum
+domain: ethics-politics
+school: capability-approach
+tags: [capabilities, justice, threshold, human-development, incommensurability, normative-list]
+---
+
+# 能力清单 · Central Capabilities List
+
+## 概念概述 / Concept Overview
+
+"中央能力清单"（Central Capabilities List）是玛莎·纳斯鲍姆对能力进路（Capability Approach）最具辨识度的贡献。与阿马蒂亚·森主张保持能力的开放性、由公共审议来确定具体清单不同，纳斯鲍姆提出了一个由十项能力组成的规范性清单，主张这些能力是"真正人类生活"的必要条件，构成正义社会的最低门槛（threshold level）。
+
+The "Central Capabilities List" is Martha Nussbaum's most distinctive contribution to the Capability Approach. While Amartya Sen advocates keeping capabilities open-ended for public deliberation to determine, Nussbaum proposes a normative list of ten capabilities she considers necessary conditions for a "truly human life," constituting the minimum threshold of a just society.
+
+十项能力分别是：（1）生命；（2）身体健康；（3）身体完整；（4）感觉、想象与思维；（5）情感；（6）实践理性；（7）归属；（8）与其他物种的关系；（9）游戏；（10）对环境的控制（政治与物质）。每项能力都具有不可通约性（incommensurability）——即一项能力的超额实现不能补偿另一项能力的缺失。
+
+The ten capabilities are: (1) Life; (2) Bodily Health; (3) Bodily Integrity; (4) Senses, Imagination, and Thought; (5) Emotions; (6) Practical Reason; (7) Affiliation; (8) Relations with Other Species; (9) Play; (10) Control over One's Environment (political and material). Each capability is incommensurable — meaning overachievement in one cannot compensate for deficiency in another.
+
+## 理论内涵 / Theoretical Content
+
+能力清单的哲学基础植根于亚里士多德的"功能论证"（ergon argument）和马克思的"真正人类功能"概念。纳斯鲍姆认为，存在一些基本的人类能力（capabilities），它们不仅仅是"功能发挥"（functionings）——后者是实际做了什么，前者是有真实的自由去选择和实现这些功能。这一区分至关重要：一个选择禁食的人和一个挨饿的人，在"营养充足"这项能力上的处境截然不同——前者拥有该能力但选择不行使，后者则根本缺乏该能力。
+
+The philosophical foundation of the capabilities list is rooted in Aristotle's "ergon argument" and Marx's concept of "truly human functioning." Nussbaum argues there exist basic human capabilities that are distinct from "functionings" — the latter is what one actually does, the former is having genuine freedom to choose and realize those functionings. This distinction is crucial: a person choosing to fast and a person starving have entirely different situations regarding the "adequate nutrition" capability — the former possesses the capability but chooses not to exercise it, while the latter fundamentally lacks it.
+
+清单的规范性力量体现在三个层面：第一，它为正义设定了一个明确的"底线"——任何社会，如果其公民在任一项能力上低于门槛水平，就是不正义的。第二，它提供了一个跨文化评估框架——无论一个社会的文化传统如何，都不能以此为借口系统性地剥夺某些群体的能力。第三，它要求政策制定者从多维视角评估发展成果，而非仅仅依赖GDP或效用指标。
+
+The normative power of the list operates on three levels: First, it sets a clear "floor" for justice — any society where citizens fall below the threshold level on any capability is unjust. Second, it provides a cross-cultural evaluation framework — no society can invoke cultural tradition as justification for systematically depriving certain groups of capabilities. Third, it requires policymakers to assess development outcomes from a multidimensional perspective rather than relying solely on GDP or utility metrics.
+
+纳斯鲍姆特别强调清单的"政治自由主义"属性：它不规定人们应该追求什么样的善的观念（conception of the good），而只是确保每个人都有真实的自由去追求自己选择的善的观念。这使得能力清单在尊重多元性的同时，仍能设定不可妥协的基本标准。
+
+Nussbaum particularly emphasizes the list's "political liberal" character: it does not prescribe what conception of the good people should pursue, but only ensures that everyone has genuine freedom to pursue their own chosen conception of the good. This allows the list to set non-negotiable basic standards while respecting pluralism.
+
+## 思想史脉络 / Intellectual History
+
+能力清单的起源可以追溯到1986年纳斯鲍姆与阿马蒂亚·森在世界发展经济学研究所（WIDER）的合作。当时，森已经在发展经济学中提出了"能力"概念作为对功利主义和资源主义的替代，但森明确拒绝提供具体清单。纳斯鲍姆认为这种开放性虽然在理论上优雅，但在实践中可能导致对弱势群体的能力剥夺缺乏具体的批判标准。
+
+The capabilities list traces its origins to the 1986 collaboration between Nussbaum and Amartya Sen at the World Institute for Development Economics Research (WIDER). While Sen had already proposed "capabilities" as an alternative to utilitarianism and resourcism in development economics, he explicitly refused to provide a concrete list. Nussbaum argued this openness, though theoretically elegant, could leave the approach without concrete criteria for criticizing capability deprivation of vulnerable groups.
+
+1993年的《生活质量》标志着能力进路作为一个独立研究纲领的诞生，但此时清单尚未定型。直到2000年的《妇女与人类发展》，纳斯鲍姆才系统阐述了十项中央能力的完整版本，并将其与政治自由主义框架相结合。此后的著作中，她不断回应批评并微调清单的表述，但十项能力的基本架构保持稳定。
+
+The 1993 volume The Quality of Life marked the birth of the capability approach as an independent research program, but the list was not yet finalized. Not until Women and Human Development (2000) did Nussbaum systematically articulate the complete version of ten central capabilities, integrating it with a political liberal framework. In subsequent works she continually responded to critiques and fine-tuned the list's formulation, but the basic architecture of ten capabilities remained stable.
+
+## 关键文本 / Key Passages
+
+> "I want to insist that any society that does not guarantee these capabilities to all its citizens at a threshold level is not a fully just society."
+> — Nussbaum, *Women and Human Development* (2000), p. 75
+>
+> "我坚持认为，任何不能以门槛水平保障其所有公民这些能力的社会，都不是一个完全正义的社会。"
+
+> "Each item on the list is distinct and irreducible to any other. The items are heterogeneous, and no single metric can capture them all."
+> — Nussbaum, *Creating Capabilities* (2011), p. 34
+>
+> "清单上的每一项都是独特的，不可归约为其他任何项。这些项目是异质的，没有单一指标能够涵盖全部。"
+
+## 当代应用 / Contemporary Applications
+
+能力清单已被广泛应用于多个政策领域。联合国开发计划署（UNDP）的人类发展报告（HDR）虽然不直接采用十项清单，但其多维评估框架深受其影响。南非宪法法院在Grootboom案等社会经济权利案件中，借鉴了能力清单的"门槛"概念。欧盟的"能力进路社会包容"项目（CHALLENGE）将能力清单转化为可操作的社会政策指标。在性别平等方面，联合国妇女署（UN Women）的多个项目以能力清单为评估框架，特别关注"身体完整"和"对环境的控制"两项能力。
+
+The capabilities list has been widely applied across multiple policy domains. While the UNDP's Human Development Reports do not directly adopt the ten-item list, their multidimensional assessment framework is deeply influenced by it. South Africa's Constitutional Court has drawn on the capability list's "threshold" concept in socioeconomic rights cases like Grootboom. The EU's "Capability Approach to Social Inclusion" project (CHALLENGE) translated the list into operational social policy indicators. On gender equality, UN Women's multiple projects use the capabilities list as an evaluation framework, paying special attention to "Bodily Integrity" and "Control over One's Environment."
+
+## 批评与回应 / Critiques and Responses
+
+**批评一：** 清单的普遍性声称是否忽视了文化差异？ / Does the list's claim to universality ignore cultural differences?
+**纳斯鲍姆的回应：** 清单通过"重叠共识"方法形成，其核心项目可以在多种文化传统中找到对应物。清单只设定门槛，不规定具体实现方式。 / The list emerges through an "overlapping consensus" method; its core items find counterparts in multiple cultural traditions. The list sets only thresholds without prescribing specific implementation methods.
+
+**批评二：** 十项能力是否遗漏了重要维度，如"数字能力"或"环境可持续性"？ / Does the ten-capability list miss important dimensions like "digital capability" or "environmental sustainability"?
+**纳斯鲍姆的回应：** 清单是开放的，可以在充分论证后修正。"环境可持续性"可通过现有能力项（如"与其他物种的关系"）的重新诠释来纳入。 / The list is open and revisable with sufficient argumentation. "Environmental sustainability" can be incorporated through reinterpretation of existing items like "Relations with Other Species."
+
+**批评三：** 森的批评——固定清单与民主审议之间存在张力。 / Sen's critique — tension exists between a fixed list and democratic deliberation.
+**纳斯鲍姆的回应：** 清单本身需要通过民主审议来具体化和实施；清单提供的是规范性方向，而非具体政策处方。 / The list itself needs democratic deliberation for its specification and implementation; the list provides normative direction, not specific policy prescriptions.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+能力清单与中国"小康社会"的发展理念存在有趣的对话空间。"小康"概念强调的是多维度的基本生活保障——"老有所养、病有所医、学有所教、住有所居"——这与能力清单的多维门槛理念异曲同工。两者的差异在于："小康"更侧重家庭和社区层面的保障，而能力清单以个体权利为基础单位。此外，儒家对"五常"（仁、义、礼、智、信）的强调，可以被理解为一种东方的"核心人类能力"清单——虽然两者的哲学基础和政治意涵存在根本差异。
+
+The capabilities list creates an interesting dialogue space with China's "xiaokang" (moderately prosperous society) development concept. "Xiaokang" emphasizes multidimensional basic life security — care for the elderly, healthcare for the sick, education for learners, housing for residents — echoing the multidimensional threshold concept of the capabilities list. The difference lies in "xiaokang" emphasizing family and community-level security while the capabilities list takes individual rights as its basic unit. Moreover, Confucian emphasis on the "Five Constants" (ren, yi, li, zhi, xin) can be understood as an Eastern "core human capabilities" list — though the philosophical foundations and political implications differ fundamentally.
+
+## 延伸阅读 / Further Reading
+
+- Nussbaum, M.C. (2000). *Women and Human Development*, Ch. 1 — 清单的系统阐述
+- Nussbaum, M.C. (2011). *Creating Capabilities*, Ch. 2 — 最简洁的清单介绍
+- Sen, A. (2004). "Capabilities, Lists, and Public Reason" — 森对固定清单的批评
+- Robeyns, I. (2005). "The Capability Approach: A Theoretical Survey" — 学术综述
+- Clark, D.A. (2006). *The Elgar Companion to the Capability Approach* — 多学科手册
+- Qizilbash, M. (2023). "Nussbaum's List and Sen's Open-Endedness" — 两人分歧的最新讨论

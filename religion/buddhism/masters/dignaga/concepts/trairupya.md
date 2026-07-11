@@ -1,0 +1,132 @@
+---
+id: dignaga-trairupya
+title: "因三相 · Trairupya (Three Conditions of Valid Reason)"
+type: concept
+domain: religion
+school: buddhism-pramana
+era: classical-india
+tags: [trairupya, hetu, logical-reason, anumana, Buddhist-logic, syllogism]
+aliases: [因三相, 三相, Trairupya, Three Characteristics of Valid Reason]
+sources:
+  - title: "Pramanasamuccaya"
+    author: Dignaga
+    chapter: 2-3
+  - title: "Nyayamukha"
+    author: Dignaga
+parent: dignaga
+---
+
+# 因三相 · Trairupya
+
+## 一句话定义
+
+有效的推理因（hetu）必须满足三个条件：存在于论证主体中、存在于至少某些同品中、完全不存在于异品中——三者缺一不可。
+
+## 提出者与背景
+
+- **提出者**: [陈那 Dignaga](../README.md)（约 480-540 CE）
+- **出处**: 《集量论》Pramanasamuccaya 第二、三品；《因明正理门论》Nyayamukha
+- **历史语境**: 古因明使用"五支论式"（宗、因、喻、合、结），源自正理派传统，缺乏对"因"之有效性的严格规定
+- **针对的问题**: 什么使一个"因"（理由、中项）成为有效的推理基础？如何系统地区分有效因与无效因？
+- **前人基础**: 世亲（Vasubandhu）在《论轨》（Vadavidhi）中已有"三相"概念的雏形，但陈那将其系统化和严格化
+
+## 核心要义
+
+### 三相的具体内容
+
+**第一相：遍是宗法性（paksadharmata / paksa-dharmata）**
+
+因（hetu）必须存在于宗（paksam，论证的主体/小词）中。即：所论证的对象确实具有"因"的属性。
+
+- 例：论证"此山有火"时，"因"是"有烟"；第一相要求"此山确实有烟"
+- 逻辑形式：H(s)，其中 s 是宗（主体），H 是因（中项）
+
+**第二相：同品定有性（sapaksasattva / sapaksa-sattva）**
+
+因（hetu）必须至少存在于某些同品（sapaksa，具有所论证属性的事物）中。即：在具有"所立法"（sadhya，大词）的事物中，至少有一些具有"因"。
+
+- 例：在"有火"的事物中（如厨房），至少有些是"有烟"的
+- 逻辑形式：∃x (S(x) ∧ H(x))，其中 S 是所立法（大词）
+- 注意：不要求所有同品都有因——这是"定有"（必定存在），而非"遍有"（普遍存在）
+
+**第三相：异品遍无性（vipaksavyavrtti / vipaksa-vyavrtti）**
+
+因（hetu）必须完全不存在于异品（vipaksa，不具有所论证属性的事物）中。即：在所有不具有"所立法"的事物中，没有一个具有"因"。
+
+- 例：在"无火"的事物中（如湖泊），没有一个"有烟"的
+- 逻辑形式：∀x (¬S(x) → ¬H(x))
+- 这是最强的条件——要求全称否定
+
+### 九句因 Hetucakra（因轮）
+
+陈那在《因轮抉择论》Hetucakradamaru 中，将因在同品和异品中的存在/不存在进行系统分类，得出九种可能：
+
+| | 同品遍有 | 同品部分有 | 同品遍无 |
+|---|---|---|---|
+| **异品遍无** | 正因 ✓ | 正因 ✓ | 不定因 ✗ |
+| **异品部分有** | 不定因 ✗ | 不定因 ✗ | 不定因 ✗ |
+| **异品遍有** | 相违因 ✗ | 相违因 ✗ | 相违因 ✗ |
+
+只有当异品遍无（第三相满足）且同品至少有（第二相满足）时，因才是正因。九句因是印度逻辑史上第一次以穷尽方式系统分类推理因的有效性。
+
+### 三支论式
+
+陈那用"三支论式"取代了古因明的"五支论式"：
+
+**三支（新因明）**:
+1. **宗 Pratijna**: 此山有火（命题）
+2. **因 Hetu**: 以有烟故（理由）
+3. **喻 Drstanta**: 诸有烟者皆有火，如厨房（例证+普遍命题）
+
+**五支（古因明/正理派）**:
+1. 宗：此山有火
+2. 因：以有烟故
+3. 喻：如厨房
+4. 合：此山亦如是（有烟）
+5. 结：故此山有火
+
+陈那的简化去掉了冗余的"合"和"结"，使论证结构更紧凑。
+
+**A valid logical reason (hetu) must be: (1) present in the subject of inference, (2) present in at least some instances that possess the property to be proved, and (3) entirely absent from all instances that lack that property. The nine-membered wheel of reasons (hetucakra) systematically classifies all possible combinations, showing that only two of nine yield valid inference.**
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 因 | "理由" | "推理的中项（middle term），连接小词与大词的逻辑标记" |
+| 遍是宗法性 | "这个理由在这里成立" | "因必须确实存在于论证主体中（小词必须具有中项属性）" |
+| 同品定有性 | "类似的情况也有这个理由" | "在所立法（大词）成立的实例中，至少有一些具有因（中项）" |
+| 异品遍无性 | "相反的情况绝对没有这个理由" | "在所立法（大词）不成立的一切实例中，因（中项）完全不存在" |
+
+## 与西方逻辑的比较
+
+### vs 亚里士多德三段论
+
+| 陈那因三相 | 亚里士多德三段论 | 比较 |
+|---|---|---|
+| 遍是宗法性 | 小前提（S 是 M） | 两者都要求中项与小项的关系 |
+| 同品定有性 | 大前提（M 是 P）的弱化版 | 亚里士多德要求全称，陈那只要求存在 |
+| 异品遍无性 | 大前提的换质位 | 陈那强调全称否定，亚里士多德通过肯定表达 |
+
+关键差异：陈那的因三相更注重**因（中项）本身的属性**，而亚里士多德更注重**前提之间的形式关系**。陈那的框架更适合分析"什么使一个好的理由"，亚里士多德的框架更适合分析"什么使一个有效的论证形式"。
+
+### 与德摩根定律的关系
+
+异品遍无性 ∀x (¬S(x) → ¬H(x)) 等价于 ∀x (H(x) → S(x))——即"所有具有因的事物都具有所立法"。这与现代逻辑中全称条件句的换质位（contraposition）完全等价。
+
+## 当代关联
+
+- **科学推理**: 异品遍无性相当于科学方法中的"控制变量"——在不存在结果的情况下，原因也必须不存在
+- **因果推理 Causal inference**: 陈那的因三相与现代因果推理中的"必要性"和"充分性"条件有结构平行
+- **贝叶斯推理**: 同品定有性和异品遍无性可理解为对似然比（likelihood ratio）的约束
+
+## 常见误读
+
+- **"因三相 = 三段论的翻译"** → 因三相不是三段论的简单翻译。陈那的框架有独立的理论动机（分析"因"的有效性），结构也有根本差异（如第二相只要求"定有"而非"遍有"）。
+- **"第二相多余"** → 有学者认为只需要第一相和第三相。但第二相排除了"因"在同品中完全不存在的情况——如果没有第二相，一个在异品中不存在但在同品中也不存在的属性可能成为"因"，这显然是无效的。
+
+## 延伸阅读
+
+- [唯二量 Only Two Pramanas](only-two-pramanas.md) — 比量的认识论地位
+- [遮诠论 Apoha](apoha-exclusion.md) — 因的语言学基础
+- [集量论 Pramanasamuccaya](pramanasamuccaya.md) — 因三相在完整体系中的位置

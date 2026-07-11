@@ -1,0 +1,20 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.parasuraman.timeline
+title: 帕拉苏拉曼思想年表
+type: timeline
+thinker: parasuraman
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 帕拉苏拉曼思想年表
+
+### 1953 · 出生
+### 2000 · 四阶段模型（与Sheridan）
+### 2010 · 自动化自满与偏见
+### 2015 · 逝世
+
+## 思想演变
+```
+自动化悖论继承 → 四阶段模型 (2000) → 信任校准 (2010s)
+```

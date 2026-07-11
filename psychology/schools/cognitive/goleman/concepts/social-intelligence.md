@@ -1,0 +1,128 @@
+---
+id: goleman-social-intelligence
+title: "社会智力 · Social Intelligence · Goleman"
+type: concept
+domain: psychology
+school: cognitive
+thinker: goleman
+tags: [social-intelligence, mirror-neurons, social-brain, emotional-contagion, interpersonal-neuroscience]
+cross-refs:
+  - id: goleman
+    relation: thinker
+  - id: goleman-emotional-intelligence
+    relation: 基础
+  - id: goleman-empathy
+    relation: 组成
+  - id: damasio
+    relation: 平行
+---
+
+# 社会智力 · Social Intelligence
+
+## 定义 Definition
+
+**社会智力** (Social Intelligence, SI) is the capacity to navigate social environments effectively, encompassing two broad domains: **social awareness** (what we sense about others) and **social facility** (what we do with that awareness). Goleman argues that SI is not merely a set of learned social skills but is rooted in dedicated neural circuits — the "social brain" — that evolved to enable humans to cooperate, compete, and connect.
+
+**社会智力** (SI) 是有效导航社会环境的能力，涵盖两大领域：**社会意识**（我们对他人的感知）和**社会设施**（我们对这些感知所采取的行动）。Goleman 主张，SI 不仅仅是一组习得的社交技巧，而是根植于专门化的神经回路——"社会脑"——这些回路进化而来，使人类能够合作、竞争和建立连接。
+
+## 核心机制 Core Mechanisms
+
+### 1. 社会脑 The Social Brain
+
+Goleman 在 *Social Intelligence* (2006) 中整合了社会神经科学的核心发现，描绘了一幅"人天生是社会性生物"的神经图景：
+
+In *Social Intelligence* (2006), Goleman synthesized core findings from social neuroscience, painting a neural portrait of humans as inherently social beings:
+
+- **镜像神经元 Mirror Neurons** — 发现于 1990 年代意大利帕尔马大学（Rizzolatti 等人）。当我们观察他人执行某个动作或体验某种情绪时，大脑中的镜像神经元会自动激活，仿佛我们自己正在执行同样的动作或体验同样的情绪。这构成了共情的"底层硬件"。
+  
+  Discovered in the 1990s at the University of Parma (Rizzolatti et al.). When we observe another person performing an action or experiencing an emotion, mirror neurons in our brain automatically activate as if we were performing the same action or experiencing the same emotion. This constitutes the "neural hardware" of empathy.
+
+- **纺锤形细胞 Spindle Cells (von Economo neurons)** — 一种大型神经元，大量分布于前扣带回和前脑岛。人类拥有的纺锤形细胞数量远超其他灵长类动物，这些细胞被认为是快速社会直觉——瞬间判断社交情境中的"感觉"——的神经基础。
+  
+  Large neurons distributed abundantly in the anterior cingulate cortex and anterior insula. Humans possess far more spindle cells than other primates; these cells are believed to be the neural substrate of rapid social intuition — the instantaneous "gut feeling" about social situations.
+
+- **杏仁核-前额叶回路 Amygdala-Prefrontal Circuit** — 杏仁核快速评估社会信号（尤其是恐惧和威胁表情），前额叶皮层调节社会行为的适当性。两者的协同运作构成了社会判断的"快通道"与"慢通道"。
+
+### 2. 社会意识的四维度 Four Dimensions of Social Awareness
+
+| 维度 Dimension | 内容 Content |
+|---|---|
+| **原始共情 Primal Empathy** | 自动感知他人情绪状态，基于镜像神经元系统 |
+| **调谐 Attunement** | 全神贯注地倾听，进入他人的主观世界 |
+| **共情准确 Empathic Accuracy** | 准确理解他人的想法、感受和意图 |
+| **社会认知 Social Cognition** | 理解社会系统的运作规则、权力结构和文化规范 |
+
+### 3. 社会设施的四维度 Four Dimensions of Social Facility
+
+| 维度 Dimension | 内容 Content |
+|---|---|
+| **同步 Synchrony** | 非言语层面的互动协调——节奏、姿态、表情的匹配 |
+| **自我呈现 Self-Presentation** | 有效地展示自己，管理社交印象 |
+| **影响力 Influence** | 塑造社会互动的走向和结果 |
+| **关怀 Concern** | 关心他人的需求，采取建设性行动 |
+
+### 4. 情绪感染 Emotional Contagion
+
+社会智力的一个核心机制是情绪感染——情绪在人际间无意识地传播。Goleman 援引 Hatfield 等人的研究，展示情绪感染可以在毫秒级别发生：当我们看到他人的面部表情时，我们的面部肌肉会下意识地模仿，然后通过面部反馈机制体验到相应的情绪。
+
+A core mechanism of social intelligence is emotional contagion — the unconscious spread of emotions between people. Drawing on Hatfield et al.'s research, Goleman shows that emotional contagion can occur at the millisecond level: when we see another person's facial expression, our facial muscles subconsciously mimic it, and through facial feedback mechanisms, we begin to experience the corresponding emotion.
+
+在群体层面，这产生了 Goleman 所称的"情绪基调" (emotional climate)——一个团队或组织的集体情绪状态，主要由领导者通过情绪感染来塑造。
+
+At the group level, this produces what Goleman calls the "emotional climate" — the collective emotional state of a team or organization, primarily shaped by leaders through emotional contagion.
+
+## 发展脉络 Developmental Trajectory
+
+- **1920** — Edward Thorndike first identified "social intelligence" as distinct from academic intelligence, defining it as "the ability to understand and manage men and women, boys and girls — to act wisely in human relations"
+- **1983** — Howard Gardner proposed "interpersonal intelligence" and "intrapersonal intelligence" as distinct intelligences in *Frames of Mind*
+- **1995** — Goleman's *Emotional Intelligence* brought social-emotional competence to mainstream attention
+- **2006** — Goleman published *Social Intelligence*, integrating a decade of social neuroscience findings
+- **2010s** — Research on the "social brain" expanded rapidly, with discoveries about oxytocin, vagal tone, and the default mode network's role in social cognition
+
+## 临床应用 Clinical Applications
+
+### 组织心理学 Organizational Psychology
+- 团队情绪基调的诊断与干预——领导者的情绪状态对团队绩效的影响被量化研究
+- "毒性"组织文化的识别——缺乏社会智力的领导者制造的慢性压力和情绪耗竭
+
+### 教育 Education
+- 社会技能训练项目的设计——基于社会意识的四维度模型
+- 校园欺凌预防——培养"调谐"和"共情准确"能力
+
+### 心理治疗 Psychotherapy
+- 治疗师的社会智力是治疗效果的关键预测因子——"治疗联盟" (therapeutic alliance) 的质量取决于治疗师的社会意识和社会设施
+- 自闭症谱系障碍 (ASD) 的社会认知训练
+
+## 关联概念 Related Concepts
+
+- [情绪智力 Emotional Intelligence](emotional-intelligence.md) — SI 的基础框架
+- [共情 Empathy](empathy.md) — 社会意识的核心机制
+- [正念 Mindfulness](mindfulness.md) — 提升社会觉察的训练方法
+
+## 东西方对话 East-West Dialogue
+
+### SI x 儒家"仁"与关系伦理
+
+儒家的核心概念"仁"——在人际关系中展现的美德——与社会智力在结构上高度对应。"仁"不是孤立的个人品质，而是在关系中生成的：父子之仁、君臣之义、朋友之信。Goleman 的社会脑理论为儒家的关系伦理提供了神经科学注解：**人类大脑在进化中被设计为在关系中运作**，"仁"是社会脑的最高表达。
+
+The Confucian core concept of *ren* (仁) — virtue manifested in interpersonal relationships — is structurally analogous to social intelligence. *Ren* is not an isolated personal quality but is generated within relationships: filial *ren*, loyal *yi*, friendly *xin*. Goleman's social brain theory provides a neuroscientific annotation for Confucian relational ethics: **the human brain evolved to operate within relationships**, and *ren* is the social brain's highest expression.
+
+### SI x 佛教"缘起"与社会存在
+
+佛教的缘起 (pratītyasamutpāda) 主张一切现象（包括自我）都是在关系中生成的，没有独立存在的自性 (svabhāva)。Goleman 的社会脑研究为这一哲学命题提供了经验证据：大脑中不存在独立的"自我中心"，自我感本身是在社会互动中建构的。
+
+Buddhist dependent origination (pratītyasamutpāda) asserts that all phenomena — including the self — arise in relation, with no independently existing self-nature (svabhāva). Goleman's social brain research provides empirical evidence for this philosophical proposition: there is no independent "self-center" in the brain; the sense of self is itself constructed through social interaction.
+
+## 进阶阅读 Further Reading
+
+### 必读 Primary
+- Goleman, D. *Social Intelligence: The New Science of Human Relationships* (2006)
+
+### 社会神经科学 Social Neuroscience
+- Cacioppo, J. T. & Patrick, W. *Loneliness: Human Nature and the Need for Social Connection* (2008)
+- Lieberman, M. D. *Social: Why Our Brains Are Wired to Connect* (2013)
+- Iacoboni, M. *Mirroring People: The New Science of How We Connect with Others* (2008)
+
+### 中文资源
+- 戈尔曼《情商2：影响你一生的社交力》（中信出版社）
+- 利伯曼《社交天性》（浙江人民出版社）

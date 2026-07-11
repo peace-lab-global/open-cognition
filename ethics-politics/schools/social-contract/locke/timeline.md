@@ -1,0 +1,86 @@
+---
+id: locke-timeline
+title: "洛克生平与思想年表 · Locke Biographical Timeline"
+type: timeline
+domain: ethics-politics
+school: social-contract
+thinker: locke
+tags:
+  - locke
+  - timeline
+  - biography
+  - 洛克年表
+cross-refs:
+  - id: locke
+    relation: thinker
+  - id: hobbes
+    relation: 同时代人
+---
+
+# 洛克生平与思想年表 · Locke Biographical Timeline
+
+## 早年：求学与知识积累 / Early Years: Education and Intellectual Formation (1632–1667)
+
+| 年份 Year | 事件 Event | 思想/历史语境 Intellectual/Historical Context |
+|---|---|---|
+| **1632** | 8月29日生于萨默塞特郡林顿（Wrington），清教家庭。父亲老约翰·洛克为乡村律师，在内战中为议会军效力。 / Born 29 August at Wrington, Somerset, Puritan family. Father a country lawyer who served in the Parliamentary army during the Civil War. | 英国内战前夜（1642年内战爆发）；霍布斯正在撰写其政治著作 / Eve of the English Civil War (war began 1642); Hobbes writing his political works |
+| **1646** | 入读威斯敏斯特学校（Westminster School） / Entered Westminster School | 内战期间；查理一世于1649年被处决 / During Civil War; Charles I executed 1649 |
+| **1652** | 入牛津大学基督教堂学院（Christ Church, Oxford） / Entered Christ Church, Oxford | 克伦威尔共和时期 / Cromwell's Commonwealth period |
+| **1656** | 获学士学位（BA） / Received BA | 学习亚里士多德逻辑学和经院哲学 / Studying Aristotelian logic and scholastic philosophy |
+| **1658** | 获硕士学位（MA） / Received MA | 开始接触笛卡尔哲学和新兴自然科学 / Beginning to encounter Descartes and the new natural science |
+| **1660** | 开始在牛津讲授希腊语；担任道德哲学讲师 / Began lecturing in Greek at Oxford; served as lecturer in moral philosophy | 查理二世复辟 / Restoration of Charles II |
+| **1660–64** | 结识罗伯特·波义耳（Robert Boyle），参与其科学实验；接触新兴经验主义方法论 / Met Robert Boyle, participated in his scientific experiments; encountered emerging empiricist methodology | 皇家学会（Royal Society）成立在即（1660年正式建立）/ Royal Society being formed (formally established 1660) |
+| **1663–64** | 撰写《自然法论文集》（*Essays on the Law of Nature*），生前未刊 / Wrote *Essays on the Law of Nature*, unpublished during lifetime | 已显示出经验主义倾向和对道德知识基础的追问 / Already displaying empiricist leanings and inquiry into foundations of moral knowledge |
+| **1666** | 结识阿什利·库珀（Ashley Cooper，后来的沙夫茨伯里伯爵） / Met Ashley Cooper (later Earl of Shaftesbury) | 命运的转折点 / Turning point of destiny |
+
+## 中期：政治实践与思想成熟 / Middle Period: Political Practice and Intellectual Maturation (1667–1689)
+
+| 年份 Year | 事件 Event | 思想/历史语境 Intellectual/Historical Context |
+|---|---|---|
+| **1667** | 成为沙夫茨伯里伯爵的家庭医生，入住埃克塞特宫（Exeter House） / Became personal physician to the Earl of Shaftesbury, moved into Exeter House | 进入英国政治核心 / Entered the heart of English politics |
+| **1668** | 成功为沙夫茨伯里进行肝脏手术，赢得深厚信任 / Successfully performed liver surgery on Shaftesbury, earning deep trust | |
+| **1669** | 参与起草《卡罗来纳基本宪法》（*Fundamental Constitutions of Carolina*） / Participated in drafting *Fundamental Constitutions of Carolina* | 殖民地宪政实践——包含争议性的奴隶制条款 / Colonial constitutional practice — includes controversial slavery provisions |
+| **1671** | 开始撰写《人类理解论》草稿（Draft A and Draft B） / Began drafting *Essay Concerning Human Understanding* (Draft A and Draft B) | 认识论问题的系统思考开始 / Systematic thinking on epistemological questions begins |
+| **1672** | 担任教会任命委员会秘书 / Served as Secretary to the Board of Church Appointments | 深入了解国教与不从国教者的冲突 / Deepened understanding of Anglican-Dissenter conflicts |
+| **1673** | 沙夫茨伯里被解除大法官职务 / Shaftesbury dismissed as Lord Chancellor | 政治环境开始恶化 / Political climate begins to deteriorate |
+| **1675** | 获医学学士学位（MB）；因健康原因赴法国旅行 / Received MB degree; travelled to France for health reasons | 接触法国新教和笛卡尔学派 / Encountered French Protestantism and Cartesian circles |
+| **1679** | 沙夫茨伯里短暂复权后又失势；排除法案（Exclusion Bill）辩论激烈 / Shaftesbury briefly returned to power then fell again; fierce Exclusion Bill debates | 英国政治危机加深 / Deepening English political crisis |
+| **1679–81** | 《政府论》主要部分实际撰写时间（Laslett 考证） / Main writing period of *Two Treatises* (Laslett's dating) | 为抵抗派（排除派）提供哲学论证 / Providing philosophical arguments for the resistance (exclusion) faction |
+| **1683** | 沙夫茨伯里在荷兰去世；洛克随后也流亡荷兰 / Shaftesbury died in the Netherlands; Locke followed into exile in Holland | 政治迫害的高潮 / Height of political persecution |
+| **1683–89** | 在荷兰的五年：完成《人类理解论》和《政府论》的主要修订；撰写《论宗教宽容》拉丁文初稿 / Five years in Holland: completed *Essay* and *Two Treatises* revisions; drafted *Letter Concerning Toleration* in Latin | 创作最丰盛的时期；与荷兰知识分子圈子交往 / Most productive creative period; engagement with Dutch intellectual circles |
+| **1688** | 光荣革命（Glorious Revolution）：威廉三世和玛丽二世取代詹姆斯二世 / Glorious Revolution: William III and Mary II replaced James II | 洛克的政治主张获得历史性胜利 / Locke's political positions achieved historic vindication |
+| **1689** | 返回英国；一年内出版三部划时代著作：《论宗教宽容》、《政府论》、《人类理解论》 / Returned to England; published three epoch-making works in one year: *Letter Concerning Toleration*, *Two Treatises*, *Essay Concerning Human Understanding* | 洛克一生的"奇迹之年" / Locke's *annus mirabilis* |
+
+## 晚期：出版、论战与遗产 / Late Period: Publication, Debate, and Legacy (1689–1704)
+
+| 年份 Year | 事件 Event | 思想/历史语境 Intellectual/Historical Context |
+|---|---|---|
+| **1690** | 出版《论宗教宽容的第二封信》；与 Jonas Proast 的宽容论战开始 / Published *Second Letter Concerning Toleration*; toleration debate with Jonas Proast begins | 宽容理论的深化 / Deepening of toleration theory |
+| **1691** | 出版关于货币和利率的经济论文 / Published economic essays on money and interest rates | 介入货币政策辩论 / Intervening in monetary policy debates |
+| **1692** | 出版《论宗教宽容的第三封信》 / Published *Third Letter Concerning Toleration* | 继续与 Proast 的论战 / Continuing debate with Proast |
+| **1693** | 出版《教育漫话》（*Some Thoughts Concerning Education*） / Published *Some Thoughts Concerning Education* | 绅士教育理论；对后世教育影响深远 / Gentleman's education theory; profound influence on later education |
+| **1695** | 出版《基督教的合理性》（*The Reasonableness of Christianity*） / Published *The Reasonableness of Christianity* | 试图调和理性主义与正统基督教；引发神学争议 / Attempting to reconcile rationalism with orthodox Christianity; provoked theological controversy |
+| **1696** | 被任命为贸易和殖民地委员会（Board of Trade）委员 / Appointed to the Board of Trade | 参与经济政策制定 / Participating in economic policy-making |
+| **1697** | John Edwards 指控洛克为索齐尼派（Socinian）异端 / John Edwards accused Locke of Socinian heresy | 洛克为《基督教的合理性》进行辩护 / Locke defended *Reasonableness of Christianity* |
+| **1700** | 辞去贸易委员会职务；《人类理解论》第四版出版（增加了"同一性"等重要章节） / Resigned from Board of Trade; fourth edition of *Essay* published (adding important chapters on "identity") | 晚年健康状况恶化 / Declining health in later years |
+| **1704** | 10月28日在埃塞克斯郡奥特斯庄园（Oates）去世，享年72岁。在友人达默里斯·马沙姆（Damaris Masham）陪伴下辞世。 / Died 28 October at Oates, Essex, aged 72. Passed away in the company of friend Damaris Masham. | 遗嘱中安排出版遗著 / Arranged posthumous publications in his will |
+
+## 思想分期总结 / Summary of Intellectual Periods
+
+| 阶段 Period | 年代 Dates | 关键词 Keywords | 主要成果 Main Achievements |
+|---|---|---|---|
+| 早年 Early | 1632–1667 | 求学、医学、自然科学 Education, medicine, natural science | 《自然法论文集》草稿 / *Law of Nature* drafts |
+| 中期 Middle | 1667–1689 | 政治、流亡、写作 Politics, exile, writing | 《政府论》《人类理解论》《论宗教宽容》/ *Two Treatises*, *Essay*, *Letter* |
+| 晚期 Late | 1689–1704 | 出版、论战、教育 Publication, debate, education | 《教育漫话》《基督教的合理性》/ *Education*, *Reasonableness* |
+
+## 历史语境大事记 / Key Events in Historical Context
+
+- **1642–1651** 英国内战 English Civil War
+- **1649** 查理一世被处决 Execution of Charles I
+- **1660** 查理二世复辟 Restoration of Charles II
+- **1678** "天主教阴谋" Popish Plot
+- **1679–81** 排除法案危机 Exclusion Crisis
+- **1685** 詹姆斯二世即位 Accession of James II
+- **1688** 光荣革命 Glorious Revolution
+- **1689** 《权利法案》通过 Passage of the Bill of Rights
+- **1701** 《王位继承法》 Act of Settlement

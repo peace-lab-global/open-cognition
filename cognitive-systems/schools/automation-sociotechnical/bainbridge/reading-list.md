@@ -1,0 +1,17 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.bainbridge.reading-list
+title: 班布里奇reading-list Lisanne Bainbridge reading-list
+type: reading-list
+thinker: bainbridge
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 班布里奇阅读指南
+
+## 入门
+1. Bainbridge, L. (1983). "The Ironies of Automation." — 必读经典
+
+## 延伸阅读
+- Parasuraman & Riley (1997). "Humans and Automation: Use, Misuse, Disuse, Abuse."
+- Endsley (2017). "From Here to Autonomy."

@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.naturalistic-decision.weick-reading-list
+title: 维克意义建构进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: weick
+tags: [weick, reading-guide, sensemaking]
+cross-refs: [{id: weick, relation: thinker}]
+---
+
+# 维克意义建构进阶阅读
+
+## 入门
+1. Weick, K. (1993). "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster." *ASQ*, 38(4). — 叙事精彩的经典案例研究
+2. Weick, K. & Sutcliffe, K. (2015). *Managing the Unexpected*, 前三章. — HRO原则的易读指南
+
+## 原典
+- Weick, K. (1979). *The Social Psychology of Organizing* (2nd ed.). McGraw-Hill.
+- Weick, K. (1995). *Sensemaking in Organizations*. Sage.
+- Weick, K. & Sutcliffe, K. (2015). *Managing the Unexpected* (3rd ed.). Jossey-Bass.
+
+## 二手研究
+- Brown, A. D., Colville, I. & Pye, A. (2015). "Making Sense of Sensemaking in Organization Studies." *Organization Studies*, 36(2).
+- Maitlis, S. & Christianson, M. (2014). "Sensemaking in Organizations: Taking Stock and Moving Forward." *Academy of Management Annals*, 8(1).
+- Sutcliffe, K. & Vogus, T. (2003). "Organizing for Reliability." *Organization Science*.
+- Sandberg, J. & Tsoukas, H. (2015). "Making Sense of the Sensemaking Perspective." *Academy of Management Review*.
+
+## 中文资源
+- 《意义建构》相关章节中译
+- 组织行为学教材中的意义建构章节
+- 高可靠性组织研究的中文综述文献
+
+## 相关概念文件
+- [意义建构 Sensemaking](../../concepts/sensemaking.md)

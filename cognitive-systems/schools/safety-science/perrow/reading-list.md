@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.safety-science.perrow-reading-list
+title: 佩罗常事故理论进阶阅读
+type: reading-list
+domain: cognitive-systems
+school: safety-science
+thinker: perrow
+tags: [perrow, reading-guide, normal-accidents]
+cross-refs: [{id: perrow, relation: thinker}]
+---
+
+# 佩罗常事故理论进阶阅读
+
+## 入门
+1. Perrow, C. (1984). *Normal Accidents*, 第1-3章. — 理论框架入门
+2. Perrow, C. (2011). "Fukushima and the Inevitability of Accidents." *Bulletin of the Atomic Scientists*. — 最新案例
+
+## 原典
+- Perrow, C. (1984/1999). *Normal Accidents: Living with High-Risk Technologies*. Basic Books / Princeton UP.
+- Perrow, C. (2007). *The Next Catastrophe*. Princeton University Press.
+- Perrow, C. (1986). *Complex Organizations: A Critical Essay*. McGraw-Hill.
+
+## 二手研究
+- Sagan, S. D. (1993). *The Limits of Safety: Organizations, Accidents, and Nuclear Weapons*. Princeton UP.
+- Hopkins, A. (2005). "Thinking about Process Safety Indicators." *Safety Science*, 43(8).
+- Woods, D. D., et al. (2010). *Behind Human Error*. Ashgate. — 与Perrow理论的对话
+- Vaughan, D. (1996). *The Challenger Launch Decision*. University of Chicago Press. — 偏差正常化研究
+
+## 中文资源
+- 《正常事故》相关章节中译
+- 技术风险与安全社会学中文研究文献
+- 核安全与组织分析的中文综述
+
+## 相关概念文件
+- [常事故 Normal Accidents](../../concepts/normal-accidents.md)

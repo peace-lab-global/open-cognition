@@ -1,0 +1,105 @@
+---
+id: ajahn-chah-works
+title: 阿姜查著作 · Works of Ajahn Chah
+type: reference
+domain: religion
+school: theravada-buddhism
+master: ajahn-chah
+tags:
+  - 著作
+  - 开示
+  - 法谈
+---
+
+# 阿姜查著作 / Works of Ajahn Chah
+
+## 说明 / Note
+
+阿姜查本人并未撰写过系统性的著作。他的教法主要通过口头开示（Dhamma talks）传递，由弟子记录和整理成文字。因此，他的大部分"著作"实际上是弟子编纂的开示集。以下是主要的出版物。
+
+Ajahn Chah himself did not write systematic works. His teachings were transmitted primarily through oral Dhamma talks, recorded and compiled into text by his disciples. Therefore, most of his "works" are actually collections of talks compiled by disciples. The following are the major publications.
+
+## 英文主要出版物 / Major English Publications
+
+### 核心文集 / Core Collections
+
+| 书名 / Title | 编者 / Editor | 出版信息 / Publication | 说明 / Description |
+|---|---|---|---|
+| *Food for the Heart: The Collected Teachings of Ajahn Chah* | Ajahn Amaro 编 | Wisdom Publications, 2002 | 最全面的英文开示集，收录了33篇重要开示。/ The most comprehensive English collection of talks, containing 33 important Dhamma talks. |
+| *A Still Forest Pool: The Heart of Buddhist Meditation* | Jack Kornfield & Paul Breiter 编 | Quest Books, 1985 | 从禅修角度整理的核心教导，适合初学者。/ Core teachings organized from a meditation perspective, suitable for beginners. |
+| *Everything Is Teaching Us* | — | Wat Nong Pah Pong 出版 | 巴蓬寺直接出版的开示集，包含许多珍贵的原始录音转录。/ Published directly by Wat Nong Pah Pong, containing many precious original audio transcriptions. |
+
+### 专题开示集 / Thematic Talk Collections
+
+| 书名 / Title | 主题 / Theme | 说明 / Description |
+|---|---|---|
+| *Living Dhamma* | 在家修行 | 面向在家居士的教导，涵盖日常生活修行的方方面面。/ Teachings for laypeople, covering all aspects of daily life practice. |
+| *The Path to Peace* | 内心和平 | 关于如何通过禅修和正念达到内心安宁的教导。/ Teachings on how to achieve inner peace through meditation and mindfulness. |
+| *Clarity of Insight* | 智慧洞见 | 深入探讨无常、苦、无我三法印的开示。/ Talks deeply exploring the three marks of existence: impermanence, suffering, non-self. |
+| *The Key to Liberation* | 解脱之道 | 关于修行方法和解脱道路的系统教导。/ Systematic teachings on practice methods and the path to liberation. |
+
+## 中文主要出版物 / Major Chinese Publications
+
+| 书名 | 出版信息 | 说明 |
+|---|---|---|
+| 《关于这颗心》 | 橡树林文化出版 | 阿姜查核心教导的中文译本，涵盖戒定慧三学。 |
+| 《宁静的森林水池》 | 橡树林文化出版 | *A Still Forest Pool* 的中译本，禅修入门指导。 |
+| 《我们真正的家》 | 橡树林文化出版 | 关于无常、死亡和生命意义的深刻开示。 |
+| 《解脱之道》 | — | 修行方法的系统讲解。 |
+| 《静止的流水》 | — | 日常生活修行的教导。 |
+| 《见道》 | — | 关于智慧洞见和证悟的开示。 |
+
+## 重要单篇开示 / Important Individual Talks
+
+### "一颗破碎的玻璃杯" / "A Broken Glass"
+
+这是阿姜查最著名的比喻之一，也是他最具代表性的教导。他将玻璃杯视为已经破碎的——当我们接受一切事物的无常本质时，就不会因为失去而痛苦。这个开示被广泛收录在各种开示集中。
+
+This is one of Ajahn Chah's most famous metaphors and his most representative teaching. He regarded a glass as already broken — when we accept the impermanent nature of all things, we won't suffer from loss. This talk has been widely included in various talk collections.
+
+### "我们的真正之家" / "Our Real Home"
+
+这篇开示是阿姜查为一位即将去世的在家居士所做的，后来成为关于死亡和临终的经典教导。他教导说，我们真正的家不是这个身体——身体只是暂时的住所，真正的家是内心的平静和觉醒。
+
+This talk was given by Ajahn Chah for a dying layperson, later becoming a classic teaching on death and dying. He taught that our real home is not this body — the body is only a temporary dwelling; our real home is the peace and awakening of the heart.
+
+### "静止的流水" / "Still, Flowing Water"
+
+在这篇开示中，阿姜查用水的比喻来解释心的本质——心的自然状态就像静止的水，念头和情绪就像风吹过水面产生的波纹。禅修不是消除波纹，而是认识到水的本质始终是静止的。
+
+In this talk, Ajahn Chah used the metaphor of water to explain the nature of mind — the mind's natural state is like still water; thoughts and emotions are like ripples created by wind on the water's surface. Meditation is not about eliminating ripples but recognizing that the water's essence is always still.
+
+### "毒蛇" / "The Poisonous Snake"
+
+这篇开示用抓住毒蛇的比喻来解释如何正确地对待佛法教导——如果你抓住蛇的尾巴，它会转身咬你；同样，如果你错误地理解佛法，它会伤害你而不是帮助你。正确的方法是抓住蛇的头部——正确理解教导的核心。
+
+This talk used the metaphor of grasping a poisonous snake to explain how to properly relate to Dhamma teachings — if you grab the snake by the tail, it will turn and bite you; similarly, if you misunderstand the Dhamma, it will harm you rather than help you. The correct approach is to grasp the snake by the head — to correctly understand the essence of the teaching.
+
+## 录音与影像 / Audio and Video Recordings
+
+阿姜查留下了大量的泰语开示录音，这些录音由巴蓬寺和国际森林僧团保存并数字化。部分重要录音已被翻译成英文和其他语言。
+
+Ajahn Chah left a large collection of Thai-language Dhamma talk recordings, preserved and digitized by Wat Nong Pah Pong and the international forest sangha. Some important recordings have been translated into English and other languages.
+
+### 在线资源 / Online Resources
+
+| 资源 / Resource | 网址 / URL | 说明 / Description |
+|---|---|---|
+| Forest Sangha Publications | forestsanghapublications.org | 免费英文法本下载 / Free English Dhamma texts for download |
+| Wat Nong Pah Pong | watnongpahpong.org | 巴蓬寺官方网站，含原始泰语录音 / Official monastery website with original Thai recordings |
+| Amaravati Monastery | amaravati.org | 英国阿玛拉瓦蒂寺，含大量教学资源 / UK Amaravati Monastery with extensive teaching resources |
+| Abhayagiri Monastery | abhayagiri.org | 美国阿巴亚吉里寺，含法谈录音和文字 / US Abhayagiri Monastery with talk recordings and texts |
+
+## 传记类著作 / Biographical Works
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| *Venerable Father: A Life with Ajahn Chah* | Paul Breiter | 一位长期西方弟子的亲身回忆录。/ Personal memoir by a long-term Western disciple. |
+| *Still Forest Pool* (传记部分) | Jack Kornfield | 包含关于阿姜查生平的珍贵记述。/ Contains precious accounts of Ajahn Chah's life. |
+| 《阿姜查的修行世界》 | — | 中文传记资料。/ Chinese biographical material. |
+| *Ajahn Chah: A Biographical Sketch* | Wat Nong Pah Pong | 巴蓬寺出版的官方传记概要。/ Official biographical sketch published by Wat Nong Pah Pong. |
+
+## 延伸阅读 / Further Reading
+
+→ [阅读清单](reading-list.md) — 完整的推荐阅读列表
+→ [README](README.md) — 返回阿姜查主页

@@ -1,0 +1,46 @@
+---
+id: dewey-works
+title: 杜威美学作品总览 · Dewey Aesthetic Works
+type: works-catalogue
+domain: aesthetics
+school: pragmatist-aesthetics
+thinker: dewey
+tags: [dewey, works, bibliography, pragmatism, aesthetics]
+cross-refs:
+  - id: dewey
+    relation: thinker
+---
+
+# 杜威美学作品总览 · Dewey Aesthetic Works
+
+## 一、美学核心著作
+
+| 书名 | 年份 | 特色 |
+|---|---|---|
+| 《艺术即经验》*Art as Experience* | 1934 | 美学代表作，审美经验的重新定义 |
+| 《经验与自然》第九章 | 1925 | "经验"概念的哲学基础 |
+| 《民主与教育》相关章节 | 1916 | 审美教育的民主化 |
+
+## 二、相关哲学著作
+
+| 书名 | 年份 | 与美学的关联 |
+|---|---|---|
+| 《我的教育信条》 | 1897 | 教育中的审美维度 |
+| 《学校与社会》 | 1899 | 经验学习理论 |
+| 《我们如何思维》 | 1910 | 探究理论与创造性思维 |
+| 《公众及其问题》 | 1927 | 民主与审美共同体 |
+| 《自由与文化》 | 1935 | 文化与审美的关系 |
+| 《经验与教育》 | 1938 | 经验哲学的教育应用 |
+
+## 三、中译本推荐
+
+| 版本 | 译者 | 出版 |
+|---|---|---|
+| 《艺术即经验》 | 高建平 | 商务印书馆 |
+| 《经验与自然》 | 傅统先等 | 商务印书馆 |
+| 《民主与教育》 | 王承绪等 | 人民教育出版社 |
+
+## 四、阅读路径
+### 入门：《艺术即经验》第1–3章
+### 进阶：《艺术即经验》全书 + 《经验与自然》第九章
+### 深潜：Shusterman *Pragmatist Aesthetics* + Alexander *John Dewey's Theory*

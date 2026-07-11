@@ -1,0 +1,81 @@
+---
+id: kuiji-timeline
+title: 窥基年表 / Timeline of Kuiji
+type: timeline
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+---
+
+# 窥基年表 / Timeline of Kuiji
+
+## 编年 / Chronology
+
+| 年代 Year | 事件 Event |
+|------|------|
+| 632 CE | 窥基生于长安，俗姓尉迟，为唐初名将尉迟敬德之侄 / Born in Chang'an, lay surname Yuchi, nephew of the Tang general Yuchi Jingde |
+| 约645 CE | 玄奘自印度归国，携大量梵文经典回到长安 / Xuanzang returns from India to Chang'an with extensive Sanskrit manuscripts |
+| 约648-649 CE | 玄奘选中窥基，劝其出家。窥基入大慈恩寺，成为玄奘弟子（约17岁）/ Xuanzang selects Kuiji for ordination; Kuiji enters the Great Cien Temple as Xuanzang's disciple (approximately age 17) |
+| 649-660 CE | 随玄奘学习瑜伽行派教义，精通梵文，参与译经工作 / Studies Yogacara doctrine under Xuanzang, masters Sanskrit, participates in translation work |
+| 约656-659 CE | 参与《成唯识论》的编译工作。窥基建议玄奘将十家注释"糅译"为一部，而非分别翻译 / Participates in compiling the *Cheng Weishi Lun*. Kuiji advises Xuanzang to blend ten commentaries into one unified work |
+| 660-664 CE | 继续随玄奘翻译经典，深入学习护法一系的唯识思想和因明学 / Continues translating with Xuanzang, deeply studying Dharmapala's Yogacara thought and hetuvidya |
+| 664 CE | 玄奘圆寂。窥基承担起独立传播唯识学的重任 / Xuanzang passes away. Kuiji assumes responsibility for independently propagating Yogacara |
+| 664-680 CE | 以大慈恩寺为基地，大量撰述注释和论著。撰写《成唯识论述记》《法华玄赞》《因明入正理论疏》等核心著作 / Based at the Great Cien Temple, produces a massive body of commentaries and treatises, including the *Shuji*, *Fahua Xuanzan*, and *Yinming Shu* |
+| 约670s CE | 法相唯识宗初步形成，以大慈恩寺为中心，窥基为宗派领袖。弟子慧沼等开始继承法脉 / The Faxiang school begins to take shape, centered at the Great Cien Temple with Kuiji as leader. Disciples including Huizhao begin inheriting the lineage |
+| 682 CE | 窥基圆寂于长安大慈恩寺，享年五十岁 / Kuiji passes away at the Great Cien Temple in Chang'an, aged fifty |
+
+## 思想发展分期 / Periods of Intellectual Development
+
+### 早期：学习与传承 (632-664) / Early Period: Study and Transmission (632-664)
+
+| 方面 Aspect | 核心内容 Core Content |
+|------|------|
+| 师承 Teacher | 玄奘（602-664），中国最伟大的译经师和求法僧 / Xuanzang, China's greatest translator and pilgrim |
+| 学习重点 Focus | 瑜伽行派教义、护法唯识、因明学 / Yogacara doctrine, Dharmapala's consciousness-only, hetuvidya |
+| 核心工作 Work | 参与译经，编纂《成唯识论》/ Participating in translation, compiling the *Cheng Weishi Lun* |
+| 角色 Role | 玄奘的助手和继承人 / Xuanzang's assistant and successor |
+
+### 晚期：独立创立与系统化 (664-682) / Late Period: Independent Founding and Systematization (664-682)
+
+| 方面 Aspect | 核心内容 Core Content |
+|------|------|
+| 身份 Identity | 法相唯识宗创立者 / Founder of the Faxiang school |
+| 核心工作 Work | 大量独立著述，系统化唯识学教义 / Extensive independent writing, systematizing Yogacara doctrine |
+| 代表著作 Key works | 《成唯识论述记》《法华玄赞》《大乘法苑义林章》/ *Shuji*, *Fahua Xuanzan*, *Yiyi Linzhang* |
+| 思想贡献 Contribution | 坚持五种姓说，建立判教体系，整合因明学 / Insisting on five-lineage doctrine, establishing doctrinal classification, integrating hetuvidya |
+
+## 同时代重要人物 / Key Contemporaries
+
+| 人物 Person | 年代 Dates | 与窥基的关系 Relationship |
+|------|------|------|
+| 玄奘 Xuanzang | 602-664 | 师父，唯识学的主要传入者 / Teacher, principal transmitter of Yogacara to China |
+| 尉迟敬德 Yuchi Jingde | 585-658 | 叔父，唐初名将 / Uncle, early Tang general |
+| 唐太宗 Emperor Taizong | 599-649 | 支持玄奘译经事业 / Supported Xuanzang's translation enterprise |
+| 唐高宗 Emperor Gaozong | 628-683 | 继续支持大慈恩寺 / Continued support of the Great Cien Temple |
+| 道宣 Daoxuan | 596-667 | 同时代高僧，律宗创立者 / Contemporary eminent monk, founder of the Vinaya school |
+| 法藏 Fazang | 643-712 | 华严宗创立者，后与法相宗形成学派竞争 / Founder of the Huayan school, later competing with the Faxiang school |
+
+## 法相宗传承谱系 / Faxiang School Lineage
+
+| 世代 Generation | 人物 Person | 年代 Dates | 贡献 Contribution |
+|------|------|------|------|
+| 传入 Transmitter | 玄奘 Xuanzang | 602-664 | 从印度带回并翻译瑜伽行派经典 / Brought and translated Yogacara texts from India |
+| 第一代 First | **窥基 Kuiji** | 632-682 | 创立法相唯识宗，系统注释 / Founded the Faxiang school, systematic commentaries |
+| 第二代 Second | 慧沼 Huizhao | 650-714 | 继承并捍卫窥基学说 / Inherited and defended Kuiji's doctrines |
+| 第三代 Third | 智周 Zhizhou | 668-723 | 法相宗最后的系统性学者 / Last systematic scholar of the Faxiang school |
+| 传播 Propagation | 道昭 Dosho | 629-700 | 将法相宗传入日本 / Transmitted the Faxiang school to Japan (as Hosso school) |
+| 传播 Propagation | 玄昉 Genbo | d. 746 | 将法相宗进一步传播至日本 / Further propagated the Faxiang school in Japan |
+
+## 历史背景 / Historical Context
+
+| 年份 Year | 历史事件 Historical Event |
+|------|------|
+| 618 | 唐朝建立 / Tang dynasty established |
+| 629-645 | 玄奘西行印度 / Xuanzang's pilgrimage to India |
+| 632 | 窥基出生 / Kuiji born |
+| 645 | 玄奘归国 / Xuanzang returns to China |
+| 649 | 唐太宗去世 / Emperor Taizong dies |
+| 664 | 玄奘圆寂 / Xuanzang passes away |
+| 682 | 窥基圆寂 / Kuiji passes away |
+| 710s-720s | 法相宗开始衰落，慧沼、智周之后无重要学者 / Faxiang school begins to decline; no major scholars after Huizhao and Zhizhou |
+| 740s | 法相宗传入日本，成为南都六宗之一（法相宗/Hosso）/ Faxiang school transmitted to Japan, becoming one of the Six Nara Schools (Hosso) |

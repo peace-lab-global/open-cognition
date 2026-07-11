@@ -1,0 +1,143 @@
+---
+id: goethe-reading-list
+title: 歌德进阶阅读 · Goethe Reading List
+type: reading-list
+domain: literature
+school: poets
+thinker: goethe
+tags: [goethe, bibliography, reading-guide, german-literature]
+cross-refs:
+  - id: goethe
+    relation: thinker
+---
+
+# 歌德进阶阅读 · Goethe Reading List
+
+## 一、阅读路径
+
+### 入门（1 部小说 + 关键场景，10 小时）
+1. 《少年维特的烦恼》（第一部）
+2. 《浮士德》第一部（书斋场景 + 格蕾辛悲剧）
+3. 《魔王》《漫游者夜歌》
+
+### 进阶（核心长篇，60 小时）
+4. 《浮士德》第一部全文
+5. 《威廉·迈斯特的学习时代》
+6. 《歌德谈话录》选章（世界文学部分）
+7. 《亲和力》
+
+### 深潜（全集 + 批评，200+ 小时）
+8. 《浮士德》第二部
+9. 《诗与真》全四卷
+10. 《西东合集》
+11. 《意大利游记》
+12. 《植物变形记》+《颜色论》摘要
+
+## 二、原典（必读）
+
+### 核心著作
+- *Faust, Part I* (1808) — 浮士德与梅菲斯特的赌约，格蕾辛悲剧
+- *Faust, Part II* (1832) — 人类文明的终极寓言
+- *Die Leiden des jungen Werthers* (1774) — 狂飙突进经典
+- *Wilhelm Meisters Lehrjahre* (1795–1796) — 成长小说的开创
+- *West-östlicher Divan* (1819) — 东西方诗歌对话
+
+### 重要辅助
+- *Dichtung und Wahrheit* (1811–1833) — 自传
+- *Italienische Reise* (1816–1817) — 意大利旅行记录
+- *Zur Farbenlehre* (1810) — 颜色理论
+- *Gespräche mit Goethe* (Eckermann, 1836–1848) — 晚年谈话录
+
+### 中译本推荐
+- 绿原 译《浮士德》（人民文学出版社）— 当代最佳中文译本
+- 郭沫若 译《浮士德》（人民文学出版社）— 经典旧译
+- 杨武能 译《少年维特的烦恼》（译林出版社）
+- 朱光潜 译《歌德谈话录》（人民文学出版社）— 在中国影响极大
+- 冯至、姚可崑 译《威廉·迈斯特的学习时代》
+- 卫茂平 译《亲和力》（上海译文出版社）
+
+### 英译本推荐
+- David Luke trans. *Faust, Parts I and II* (Oxford World's Classics)
+- Victor Lange & Judith Ryan eds. *Goethe: The Collected Works* (12 vols., Princeton/Suhrkamp)
+- John R. Williams trans. *Faust* (Wordsworth Classics)
+
+## 三、传记
+
+### 经典传记
+- **Boyle, Nicholas** *Goethe: The Poet and the Age* (2 vols., 1991–2000) — 英语世界最详尽的歌德传记
+- **Safranski, Rüdiger** *Goethe: Life as a Work of Art* (*Goethe: Kunstwerk des Lebens*, 2013; English trans. 2017) — 21 世纪最重要的德语新传记
+
+### 简明传记
+- **Williams, John R.** *The Life of Goethe* (1998) — 简明可靠的入门传记
+- **Robertson, Ritchie** *Goethe: A Very Short Introduction* (2022) — 牛津简明导论
+
+### 中文传记
+- 吕迪格尔·萨弗兰斯基《歌德——生命的杰作》（中译本）
+
+## 四、批评与研究
+
+### 经典研究
+- **Korff, H.A.** *Geist der Goethezeit* (5 vols., 1923–1953) — 歌德时代精神的经典研究
+- **Staiger, Emil** *Goethe* (3 vols., 1952–1959) — 分期研究（早年/古典/晚年）
+- **Borchmeyer, Dieter** *Goethe* (2017) — 当代最重要的综合性歌德研究
+
+### 当代研究
+- **Tantillo, Astrida Orle** *Goethe's Elective Affinities and the Critics* (2001)
+- **Koch, Gerhart von** *Goethe's Science: An Alternative View* (2008) — 歌德科学观的当代重新评价
+- **Purdy, Daniel** ed. *The Cambridge Companion to Goethe* (2022)
+- **Bersier, Gabrielle** *Goethe's Faust: A Cultural History* (2018)
+
+### 中文研究
+- 杨武能《歌德与中国》
+- 冯至《歌德论》
+- 叶廷芳《歌德与席勒》
+
+## 五、歌德的思想源头
+
+- **莎士比亚** — 天才崇拜和戏剧自由（赫尔德的影响）
+- **斯宾诺莎** — 泛神论和自然统一观
+- **赫尔德** — 民间文学、文化民族主义、语言起源论
+- **康德** — 美学判断力、自然目的论
+- **温克尔曼** — 古典艺术的理想美（"高贵的单纯，静穆的伟大"）
+- **波斯诗人哈菲兹** — 《西东合集》的东方灵感
+
+## 六、歌德的下游
+
+### 文学
+- **浪漫派** — 诺瓦利斯、荷尔德林、蒂克（歌德批评其为"病态"但无法否认其受惠）
+- **尼采** — 酒神精神与浮士德精神的深层关联
+- **托马斯·曼** — 《浮士德博士》（*Doktor Faustus*, 1947）直接回应歌德
+- **里尔克** — 内在经验和诗歌的使命意识
+- **卡夫卡** — 异化的另一面；《美国》中的成长叙事
+- **黑塞** — 《玻璃球游戏》对 Bildung 的延续
+- **博尔赫斯** — 翻译歌德诗歌，受其世界文学观影响
+
+### 哲学与理论
+- **黑格尔** — 辩证法与歌德的"极性"和"升华"（Steigerung）概念
+- **达尔文** — 进化论与歌德的形态学
+- **荣格** — 原型理论与歌德的 Urphänomen
+- **斯宾格勒** — 《西方的没落》以"浮士德精神"为西方文明形态
+
+### 科学
+- **格式塔心理学** — 整体感知理论源于歌德科学观
+- **鲁道夫·斯坦纳** — 人智学对歌德世界观的发展
+- **现象学科学** — "歌德式科学"（Goethean science）作为一种替代性科学范式
+
+## 七、研究工具
+
+- **Goethe- und Schiller-Archiv** (Weimar) — 歌德手稿档案
+- **Weimarer Ausgabe** (Sophienausgabe) — 标准全集版（143 卷）
+- **Goethe-Wörterbuch** — 歌德语言词典
+- **Goethe-Gesellschaft** (Weimar) — 歌德学会
+- **Goethe House** (Frankfurt) — 歌德出生地博物馆
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**歌德的精髓** | 《维特》第一部 → 《浮士德》I 书斋场景 → 爱克曼谈话录选 |
+| 深入**《浮士德》** | 第一部全文 → 第二部选幕 → 萨弗兰斯基传记 |
+| 理解**Bildung 理念** | 《学习时代》→ 《漫游时代》→ 黑塞《玻璃球游戏》 |
+| 了解**科学思想** | 《植物变形记》→ 《颜色论》摘要 → 格式塔心理学 |
+| **中文读者**入门 | 杨武能译《维特》→ 绿原译《浮士德》I → 朱光潜译《谈话录》 |
+| 探索**世界文学** | 《西东合集》→ 爱克曼谈话录（1827 年 1 月 31 日条目）→ 达姆罗什 *What Is World Literature?* |

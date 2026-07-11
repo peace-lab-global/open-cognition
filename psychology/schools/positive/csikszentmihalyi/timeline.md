@@ -1,0 +1,65 @@
+---
+id: psychology.positive.csikszentmihalyi.timeline
+title: "米哈里生平年表 · Csikszentmihalyi Timeline"
+type: reference
+parent: psychology.positive.csikszentmihalyi
+---
+
+# 米哈里生平年表 · Csikszentmihalyi Life Timeline
+
+## 早年与流亡（1934–1956）/ Early Life and Exile (1934–1956)
+
+| 年份 / Year | 事件 / Event |
+|:---:|---|
+| 1934 | 9月29日出生于意大利菲乌梅（Fiume，今克罗地亚里耶卡 Rijeka），父亲为匈牙利外交官。/ Born September 29 in Fiume, Italy (now Rijeka, Croatia); father was a Hungarian diplomat. |
+| 1938 | 父亲被召回匈牙利，全家迁回布达佩斯。/ Father recalled to Hungary; family returns to Budapest. |
+| 1939–1945 | 第二次世界大战期间，家庭颠沛流离。米哈里曾在意大利的战俘营中被短暂关押，亲睹战争的残酷。/ During WWII, family displaced. Mihaly briefly held in Italian POW camp, witnessing war's brutality. |
+| 1948 | 14岁时偶然在苏黎世一家书店读到卡尔·荣格的著作，对心理学产生浓厚兴趣。/ At age 14, accidentally reads Carl Jung in a Zurich bookstore, sparking deep interest in psychology. |
+| 1950 | 进入布达佩斯的中学就读。/ Enters secondary school in Budapest. |
+| 1956 | 匈牙利革命爆发。米哈里随家人离开匈牙利，先至瑞士，后移居美国。/ Hungarian Revolution erupts. Mihaly leaves Hungary with family, first to Switzerland, then emigrates to the United States. |
+
+## 学术训练与心流研究的萌芽（1957–1969）/ Academic Training and Seeds of Flow Research (1957–1969)
+
+| 年份 / Year | 事件 / Event |
+|:---:|---|
+| 1957 | 进入美国伊利诺伊州森林湖学院（Lake Forest College）就读本科，主修心理学。/ Enrolls at Lake Forest College, Illinois, majoring in psychology. |
+| 1959 | 进入芝加哥大学研究生院。/ Enters graduate school at the University of Chicago. |
+| 1960 | 获芝加哥大学文学硕士学位。/ Receives M.A. from the University of Chicago. |
+| 1962–1965 | 博士研究期间，观察画家在创作中进入"出神"（trance-like）状态：全神贯注、忘记时间、忘记饥饿。这成为心流研究的原初灵感。/ During doctoral research, observes painters entering a "trance-like" state while creating: fully absorbed, forgetting time and hunger. This becomes the original inspiration for flow research. |
+| 1965 | 获芝加哥大学哲学博士学位（Ph.D.），博士论文题为《艺术家与他的受众》（*The Artist and His Audience*）。/ Receives Ph.D. from the University of Chicago; dissertation titled *The Artist and His Audience*. |
+| 1966 | 与 Getzels 合著出版 *The Artist and His Audience*。/ Co-authors *The Artist and His Audience* with Getzels. |
+| 1969 | 发表"Toward a Psychology of Optimal Experience"，首次系统阐述最优体验研究纲领。/ Publishes "Toward a Psychology of Optimal Experience," first systematic articulation of the optimal experience research program. |
+
+## 心流理论的形成与验证（1970–1998）/ Formation and Validation of Flow Theory (1970–1998)
+
+| 年份 / Year | 事件 / Event |
+|:---:|---|
+| 1970 | 开始在芝加哥大学系统研究攀岩者、棋手、外科医生、舞蹈家等人群的最优体验。/ Begins systematic study of optimal experience among rock climbers, chess players, surgeons, dancers at the University of Chicago. |
+| 1975 | 出版 *Beyond Boredom and Anxiety*，首次正式提出"Flow"（心流）概念。/ Publishes *Beyond Boredom and Anxiety*, formally introducing the concept of "Flow." |
+| 1977 | 在 *American Behavioral Scientist* 发表心流概念的详细阐释。/ Publishes detailed exposition of flow concept in *American Behavioral Scientist*. |
+| 1980s | 与团队合作发展**经验取样法**（ESM），用传呼机随机取样记录受试者的即时体验，为心流研究提供坚实的实证基础。/ Collaborates with team to develop **Experience Sampling Method (ESM)**, using pagers for random sampling of subjects' immediate experience, providing solid empirical foundation for flow research. |
+| 1988 | 与 I.S. Csikszentmihalyi 合编 *Optimal Experience*，汇集跨文化心流研究。/ Co-edits *Optimal Experience* with I.S. Csikszentmihalyi, compiling cross-cultural flow research. |
+| 1990 | 出版 **《心流：最优体验心理学》**（*Flow: The Psychology of Optimal Experience*）。此书被译为三十余种语言，成为全球畅销书，使"心流"进入大众话语。/ Publishes ***Flow: The Psychology of Optimal Experience***. Translated into 30+ languages, becomes a global bestseller, bringing "flow" into popular discourse. |
+| 1993 | 与 Jerome L. Singer 合著 *The Evolving Self*，从进化心理学视角探讨自我发展。/ Co-authors *The Evolving Self* with Jerome L. Singer, exploring self-development from evolutionary psychology. |
+| 1996 | 出版 **《创造力》**（*Creativity: Flow and the Psychology of Discovery and Invention*），基于对91位杰出人物（包括多位诺贝尔奖得主）的深度访谈，提出创造力的系统模型。/ Publishes ***Creativity***, based on in-depth interviews with 91 eminent individuals (including multiple Nobel laureates), proposing the systems model of creativity. |
+| 1997 | 出版 *Finding Flow*（《发现心流》），面向大众读者的心流入门读物。/ Publishes *Finding Flow*, a popular introduction to flow for general readers. |
+
+## 积极心理学与晚年（1999–2021）/ Positive Psychology and Late Career (1999–2021)
+
+| 年份 / Year | 事件 / Event |
+|:---:|---|
+| 1999 | 从芝加哥大学转至**克莱蒙特研究大学**（Claremont Graduate University），任心理学与管理学杰出教授。/ Moves from University of Chicago to **Claremont Graduate University** as Distinguished Professor of Psychology and Management. |
+| 2000 | 与 Martin Seligman 合著"Positive Psychology: An Introduction"，发表于 *American Psychologist* 55(1)，标志着**积极心理学**正式诞生。/ Co-authors "Positive Psychology: An Introduction" with Martin Seligman in *American Psychologist* 55(1), marking the **formal birth of positive psychology**. |
+| 2002 | 与 Nakamura 合著"The Concept of Flow"，收入《积极心理学手册》（*Handbook of Positive Psychology*），成为心流研究的权威学术综述。/ Co-authors "The Concept of Flow" with Nakamura for the *Handbook of Positive Psychology*, becoming the authoritative academic review of flow research. |
+| 2003 | 出版 *Good Business: Leadership, Flow, and the Making of Meaning*，将心流理论应用于组织管理和商业领导。/ Publishes *Good Business*, applying flow theory to organizational management and business leadership. |
+| 2006 | 编著 *A Life Worth Living: Contributions to Positive Psychology*。/ Edits *A Life Worth Living: Contributions to Positive Psychology*. |
+| 2011 | 获**克利夫顿优势奖**（Clifton Strengths Prize），表彰其对积极心理学的贡献。/ Receives the **Clifton Strengths Prize** for contributions to positive psychology. |
+| 2014 | Springer出版其论文集系列：*The Systems Model of Creativity* 和 *Applications of Flow in Human Development and Education*。/ Springer publishes collected works series: *The Systems Model of Creativity* and *Applications of Flow in Human Development and Education*. |
+| 2015 | 获**匈牙利大十字勋章**（Grand Cross of the Order of Merit of the Republic of Hungary），祖国最高荣誉之一。/ Receives the **Grand Cross of the Order of Merit of the Republic of Hungary**, one of Hungary's highest honors. |
+| 2021 | **10月20日**在加利福尼亚克莱蒙特逝世，享年87岁。其思想遗产在全球教育、管理、心理治疗、游戏设计等领域持续产生影响。/ **October 20** — passes away in Claremont, California, at age 87. His intellectual legacy continues to influence education, management, psychotherapy, game design, and beyond worldwide. |
+
+---
+
+> 米哈里一生跨越了两个大洲、两种文化、三种语言（匈牙利语、意大利语、英语），经历了战争、流亡、移民和学术巅峰。他对"什么让生活值得活"这一根本问题的追问，从少年时代的创伤开始，延续到了生命的最后一天。
+
+> Csikszentmihalyi's life spanned two continents, two cultures, and three languages (Hungarian, Italian, English), encompassing war, exile, immigration, and academic heights. His lifelong inquiry into the fundamental question "what makes life worth living" — which began with childhood trauma — continued until his very last day.

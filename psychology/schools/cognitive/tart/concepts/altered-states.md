@@ -1,0 +1,126 @@
+---
+id: psychology.cognitive.tart.concepts.altered-states
+title: "变异意识状态 · Altered States of Consciousness"
+type: concept
+domain: psychology
+school: cognitive
+thinker: tart
+tags: [ASC, altered-states, consciousness, hypnosis, meditation, dreams, psychedelics]
+---
+
+# 变异意识状态 · Altered States of Consciousness (ASC)
+
+## 定义 / Definition
+
+**中文：** 变异意识状态（Altered States of Consciousness, ASC）是指与个体的**基准清醒意识**（baseline waking consciousness）在整体结构和组织方式上存在质的差异的意识状态。塔特（Charles Tart）在 1969 年编辑出版的里程碑式文集 *Altered States of Consciousness* 中首次系统定义了 ASC 的概念框架，将其从边缘话题带入了心理学的学术主流。
+
+ASC 不是"意识程度的增减"（如"更清醒"或"更迷糊"），而是**意识结构的质变**。做梦时，你进入了一个在逻辑、时间和空间感上根本不同于清醒状态的意识模式；深度催眠中，暗示可以产生真实感知体验（如"闻到不存在的玫瑰花香"），这种体验的结构性特征与清醒时的想象有着本质差异。
+
+**English:** Altered States of Consciousness (ASC) refers to states of consciousness that differ qualitatively from an individual's **baseline waking consciousness** in their overall structure and organizational pattern. Charles Tart, in his landmark 1969 edited volume *Altered States of Consciousness*, first systematically defined the ASC conceptual framework, bringing it from marginal discourse into mainstream psychological scholarship.
+
+ASC is not a matter of "more or less consciousness" (e.g., "more awake" or "more drowsy") but a **qualitative change in the structure of consciousness**. During dreaming, one enters a mode of consciousness fundamentally different from waking in its logic, temporality, and spatial sense; in deep hypnosis, suggestions can produce genuine perceptual experiences (e.g., "smelling roses that aren't there") whose structural characteristics differ fundamentally from waking imagination.
+
+---
+
+## 核心机制 / Core Mechanisms
+
+### ASC 的分类系统 / Taxonomy of ASC
+
+**中文：** 塔特提出了 ASC 的多维分类框架，根据诱发方式和结构特征将主要的 ASC 类型分为以下几类：
+
+1. **药物诱发的 ASC（Drug-Induced ASC）**：包括大麻、LSD、裸盖菇素（psilocybin）、MDMA 等致幻剂/精神活性物质诱发的状态。特征包括感知增强、时间扭曲、自我边界溶解、联觉（synesthesia）等。
+2. **催眠状态（Hypnotic State）**：通过暗示程序诱发的状态，特征包括暗示感受性增强、现实检验能力改变、疼痛控制能力增强。
+3. **冥想状态（Meditative States）**：通过注意力训练和觉知培养达成的状态，包括止（śamatha）的安定状态和观（vipaśyanā）的洞察状态。
+4. **梦境状态（Dreaming States）**：包括普通梦境和清醒梦（lucid dreaming），后者是做梦者在梦中意识到自己在做梦。
+5. **感觉剥夺/超载状态（Sensory Deprivation/Overload）**：通过极端的感觉输入变化诱发的状态。
+6. **高峰体验与神秘体验（Peak/Mystical Experiences）**：马斯洛所描述的高峰体验和宗教传统中的神秘合一体验。
+7. **濒死体验（Near-Death Experiences, NDE）**：临近死亡时报告的意识体验，包括离体体验、隧道光、生命回顾等。
+
+**English:** Tart proposed a multidimensional taxonomy of ASC, categorizing major types based on induction method and structural characteristics:
+
+1. **Drug-Induced ASC**: Including cannabis, LSD, psilocybin, MDMA, and other psychedelic/psychoactive substances. Characteristics include perceptual enhancement, time distortion, ego boundary dissolution, and synesthesia.
+2. **Hypnotic State**: Induced through suggestion procedures, characterized by heightened suggestibility, altered reality testing, and enhanced pain control.
+3. **Meditative States**: Achieved through attention training and awareness cultivation, including the calm of śamatha and the insight of vipaśyanā.
+4. **Dreaming States**: Including ordinary dreams and lucid dreaming (awareness within the dream).
+5. **Sensory Deprivation/Overload**: States induced by extreme changes in sensory input.
+6. **Peak/Mystical Experiences**: Maslow's peak experiences and mystical unity experiences from religious traditions.
+7. **Near-Death Experiences (NDE)**: Consciousness experiences reported near death, including out-of-body experiences, tunnel light, and life review.
+
+### 状态转换的机制 / Mechanisms of State Transition
+
+**中文：** 塔特认为，从一种意识状态向另一种状态的转换涉及**三个关键过程**：（1）**去稳定化**（destabilization）——当前状态的维持条件被打破；（2）**过渡期**（transition period）——意识结构在旧状态和新状态之间"漂移"；（3）**再稳定化**（restabilization）——新的状态结构建立并稳定。
+
+这些转换机制可以在技术层面被操控：催眠诱导通过放松和暗示来促进转换；冥想通过持续的注意力训练来渐进性地改变意识结构；药物通过神经化学途径直接改变大脑的状态参数。
+
+**English:** Tart argued that transitions from one consciousness state to another involve **three key processes**: (1) **Destabilization** — the maintenance conditions of the current state are disrupted; (2) **Transition period** — the consciousness structure "drifts" between old and new states; (3) **Restabilization** — the new state structure is established and stabilized.
+
+These transition mechanisms can be technologically manipulated: hypnotic induction facilitates transition through relaxation and suggestion; meditation progressively changes consciousness structure through sustained attention training; drugs directly alter brain state parameters via neurochemical pathways.
+
+---
+
+## 发展脉络 / Developmental Trajectory
+
+**中文：** ASC 研究的学术历史可以追溯到 19 世纪的催眠研究和詹姆斯的宗教经验研究。然而，在 20 世纪中叶之前，ASC 研究一直处于心理学的边缘——行为主义范式对"主观体验"持根本怀疑态度。
+
+1960 年代的"致幻剂革命"和反文化运动为 ASC 研究创造了社会条件。塔特的 1969 年文集恰逢其时：它将催眠、冥想、梦境、药物状态等分散的研究领域整合在一个统一的理论框架下。此后，ASC 研究经历了几个阶段：
+
+- **1960s–1970s**：探索期——广泛的经验描述和分类工作
+- **1980s–1990s**：低谷期——"禁毒战争"限制了致幻剂研究，ASC 研究的学术声誉受损
+- **2000s–至今**：复兴期——"致幻剂复兴"（psychedelic renaissance），fMRI 和 EEG 等神经影像技术为 ASC 提供了客观测量工具
+
+**English:** The academic history of ASC research traces back to 19th-century hypnosis studies and James's research on religious experience. However, before the mid-20th century, ASC research remained at psychology's margins — the behaviorist paradigm was fundamentally skeptical of "subjective experience."
+
+The 1960s "psychedelic revolution" and countercultural movement created social conditions for ASC research. Tart's 1969 anthology was timely: it integrated scattered research domains — hypnosis, meditation, dreams, drug states — into a unified theoretical framework. Subsequently, ASC research underwent several phases:
+
+- **1960s–1970s**: Exploration — extensive empirical description and classification work
+- **1980s–1990s**: Low period — the "War on Drugs" restricted psychedelic research; academic reputation of ASC research suffered
+- **2000s–present**: Renaissance — the "psychedelic renaissance," with fMRI and EEG neuroimaging providing objective measurement tools for ASC
+
+---
+
+## 临床应用 / Clinical Applications
+
+**中文：** ASC 的临床应用是塔特理论遗产中最具实践价值的部分：
+
+1. **致幻剂辅助心理治疗**：MDMA 辅助治疗创伤后应激障碍（PTSD）、裸盖菇素辅助治疗抑郁症和临终焦虑——这些治疗本质上是在受控环境中有意诱发 ASC，以促进创伤处理和认知重构。
+2. **催眠治疗**：利用催眠状态的高暗示感受性来处理恐惧症、慢性疼痛、习惯障碍（如戒烟）。
+3. **正念干预**：正念减压（MBSR）和正念认知疗法（MBCT）利用冥想状态来增强情绪调节和减少反刍思维。
+4. **梦境工作**：在心理治疗中使用梦境分析来探索无意识内容，清醒梦训练用于噩梦干预。
+
+**English:** The clinical applications of ASC represent the most practically valuable aspect of Tart's theoretical legacy:
+
+1. **Psychedelic-Assisted Psychotherapy**: MDMA-assisted treatment for PTSD, psilocybin-assisted treatment for depression and end-of-life anxiety — these treatments essentially involve deliberately inducing ASC in controlled environments to facilitate trauma processing and cognitive restructuring.
+2. **Hypnotherapy**: Utilizing the heightened suggestibility of hypnotic states for phobias, chronic pain, and habit disorders (e.g., smoking cessation).
+3. **Mindfulness-Based Interventions**: Mindfulness-Based Stress Reduction (MBSR) and Mindfulness-Based Cognitive Therapy (MBCT) utilize meditative states to enhance emotional regulation and reduce rumination.
+4. **Dream Work**: Using dream analysis in psychotherapy to explore unconscious content; lucid dreaming training for nightmare intervention.
+
+---
+
+## 关联概念 / Related Concepts
+
+- **离散意识状态（d-SoC）** → [consciousness-states.md](consciousness-states.md)
+- **状态特异性科学（SSS）** → [state-specific-science.md](state-specific-science.md)
+- **共识恍惚（Consensus Trance）** → 见 [README.md](../README.md)
+- **正念与觉知训练** → [mindfulness.md](mindfulness.md)
+- **超个人心理学** → [transpersonal.md](transpersonal.md)
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**中文：** ASC 的概念在东方传统中有深厚的根基。佛教的"三昧"（samādhi，定）本身就是一种高度结构化的 ASC——在定中，意识呈现出与清醒状态截然不同的特征：极度稳定、极度清明、极度喜悦。道家的"入静"和"坐忘"也是特定的 ASC。藏传佛教的"中阴"（bardo）理论更是系统地描述了死亡、死后和转世过程中的多种意识状态。
+
+有趣的是，东方传统通常不将这些状态视为"变异的"（altered），而是视为"更真实的"或"更深层的"。塔特敏锐地注意到了这一文化差异，并提出了"共识恍惚"的概念来解释为什么西方文化倾向于将非普通意识状态视为"偏离正常"。
+
+**English:** The concept of ASC has deep roots in Eastern traditions. Buddhist samādhi (absorption) is itself a highly structured ASC — in samādhi, consciousness exhibits characteristics fundamentally different from waking: extreme stability, extreme clarity, extreme bliss. Daoist "entering stillness" (入静) and "sitting and forgetting" (坐忘) are also specific ASCs. Tibetan Buddhism's bardo theory systematically describes multiple consciousness states during death, post-death, and rebirth processes.
+
+Interestingly, Eastern traditions typically do not view these states as "altered" but as "more real" or "deeper." Tart astutely noted this cultural difference and proposed the concept of "consensus trance" to explain why Western cultures tend to view non-ordinary consciousness states as "deviations from normal."
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Tart, C. T. (ed.). *Altered States of Consciousness* (1969/1990)
+- Grof, S. *Realms of the Human Unconscious* (1975)
+- Cardeña, E. & Winkelman, M. (eds.). *Altering Consciousness: Multidisciplinary Perspectives* (2011)
+- Pollan, M. *How to Change Your Mind* (2018) — 致幻剂研究的当代记述 / Contemporary account of psychedelic research

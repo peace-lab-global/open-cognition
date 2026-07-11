@@ -1,0 +1,63 @@
+---
+id: nagel-reading-list
+title: 内格尔进阶阅读 · Thomas Nagel Reading List
+type: reading-list
+domain: philosophy
+school: analytic
+thinker: nagel
+tags: [nagel, bibliography, reading-guide]
+cross-refs:
+  - id: nagel
+    relation: thinker
+---
+
+# 内格尔进阶阅读 · Thomas Nagel Reading List
+
+## 一、原典 / Primary Sources
+
+### 必读
+- "What Is It Like to Be a Bat?" (1974) — 20世纪最著名的哲学论文
+- *Mortal Questions* (1979) — 最易读的论文集
+- *The View from Nowhere* (1986) — 核心专著
+
+### 重要
+- *Mind and Cosmos* (2012) — 目的论自然主义
+- *The Possibility of Altruism* (1970) — 理性利他主义
+- *The Last Word* (1997) — 捍卫理性
+- "Moral Luck" (1976) — 道德运气理论
+
+## 二、经典研究 / Classic Studies
+
+- David Chalmers, *The Conscious Mind* (1996) — 硬问题（受Nagel启发）
+- Colin McGinn, *The Problem of Consciousness* (1991) — 认知闭合（受Nagel启发）
+- Daniel Dennett, *Consciousness Explained* (1991) — 取消主义（Nagel的论敌）
+- Frank Jackson, "Epiphenomenal Qualia" (1982) — 知识论证
+- Thomas Nagel (回应集) in *Thomas Nagel* (ed. Alan Thomas, 2008) — 批评与回应
+
+## 三、当代研究 / Contemporary Studies
+
+- Alan Thomas (ed.), *Thomas Nagel* (2008, Contemporary Philosophy in Focus) — 最佳研究论文集
+- Johannes Roessler & Naomi Eilan (eds.), *Agency and Self-Awareness* (2003) — 含Nagel论文
+- Joseph Levine, *Purple Haze* (2001) — 解释鸿沟（受Nagel影响）
+- David Chalmers, *The Character of Consciousness* (2010) — 意识的进一步发展
+- Simon Thomas, *Nagel's The View from Nowhere* (2022) — 专著研究
+- Sophie-Grace Chappell, *Seeing Beauty, Sensing Art in the Beauty of Nature* — 受Nagel影响
+
+## 四、入门推荐 / Introductory
+
+- "What Is It Like to Be a Bat?" (1974) — 最佳入门，约20页
+- *Mortal Questions* — 最易读的论文集
+- "Thomas Nagel" in *Stanford Encyclopedia of Philosophy* (Various)
+- "The Mind-Body Problem" in *Internet Encyclopedia of Philosophy*
+- *The View from Nowhere* Introduction — 清晰的概述
+
+## 五、阅读路径建议
+
+| 目标 | 推荐顺序 |
+|------|----------|
+| 快速了解 | "Bat" paper → *Mortal Questions* selected essays |
+| 研究意识 | "Bat" → *View from Nowhere* ch. 2-3 → Chalmers → McGinn |
+| 研究道德哲学 | *Mortal Questions* → *Possibility of Altruism* → "Moral Luck" |
+| 研究客观性 | *View from Nowhere* → *The Last Word* |
+| 研究自然主义 | *Mind and Cosmos* → Chalmers *Panpsychism* → Strawson |
+| 比较东方 | "Bat" → 庄子《齐物论》→ 禅宗"本来面目" |

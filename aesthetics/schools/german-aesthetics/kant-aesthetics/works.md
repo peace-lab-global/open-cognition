@@ -1,0 +1,58 @@
+---
+id: aesthetics.german-aesthetics.kant-aesthetics.works
+title: 康德美学著作列表 / Kant Aesthetics Works
+type: works
+parent: aesthetics.german-aesthetics.kant-aesthetics
+---
+
+# 康德美学著作列表 / Kant Aesthetics Bibliography
+
+## 美学核心著作 / Core Aesthetic Works
+
+| 年份 | 德文标题 | 中文译名 | 核心主题 |
+|------|---------|----------|----------|
+| 1764 | *Beobachtungen über das Gefühl des Schönen und Erhabenen* | 《对美感和崇高感的观察》 | 早期美学，经验主义影响 |
+| 1790 | *Kritik der Urteilskraft* | 《判断力批判》 | 审美判断的先验分析 |
+
+## 三大批判 / Three Critiques
+
+| 年份 | 标题 | 核心贡献 |
+|------|------|----------|
+| 1781 (rev. 1787) | *Kritik der reinen Vernunft* / 《纯粹理性批判》 | 认识论革命，先验唯心论 |
+| 1788 | *Kritik der praktischen Vernunft* / 《实践理性批判》 | 道德哲学，定言命令 |
+| 1790 | *Kritik der Urteilskraft* / 《判断力批判》 | 美学与目的论 |
+
+## 其他重要著作 / Other Major Works
+
+| 年份 | 标题 | 与美学的关联 |
+|------|------|-------------|
+| 1755 | 《自然通史和天体论》 | 自然哲学，宇宙秩序 |
+| 1763 | 《论证上帝存在的唯一可能论据》 | 目的论思想的早期形态 |
+| 1784 | 《世界公民观点之下的普遍历史观念》 | 历史目的论 |
+| 1785 | 《道德形而上学原理》 | 道德哲学基础 |
+| 1793 | 《单纯理性限度内的宗教》 | 宗教哲学 |
+| 1795 | 《永久和平论》 | 政治哲学 |
+| 1797 | 《道德形而上学》 | 法权哲学与德性论 |
+| 1798 | 《实用人类学》 | 人类学、审美人类学 |
+
+## 《判断力批判》结构 / Structure of the Critique of Judgment
+
+| 部分 | 内容 |
+|------|------|
+| 导言 | 判断力作为自然与自由的中介 |
+| 美的分析 (1-22节) | 审美判断的四个契机 |
+| 崇高的分析 (23-29节) | 数学崇高与力学崇高 |
+| 纯粹审美判断的演绎 (30-60节) | 审美判断的先验演绎 |
+| 目的论判断力批判 (61-91节) | 自然目的论、有机体 |
+
+## 推荐中译本 / Recommended Chinese Translations
+
+- 《判断力批判》，邓晓芒译，人民出版社，2002 — 目前最权威的中译本
+- 《判断力批判》，宗白华译，商务印书馆 — 经典旧译
+- 《纯粹理性批判》，邓晓芒译，人民出版社
+- 《实践理性批判》，邓晓芒译，人民出版社
+- 《对美感和崇高感的观察》，何兆武译，商务印书馆
+
+---
+
+*另见：[[README|康德美学]] | [[reading-list|推荐阅读]]*

@@ -1,0 +1,98 @@
+---
+id: laozi-works-religion
+title: 老子著作与版本 / Works and Editions of Laozi
+type: catalogue
+domain: religion
+school: taoism
+thinker: laozi
+tags: [道德经, 版本, 注疏, editions, translations, 文本]
+---
+
+# 老子著作与版本 / Works and Editions of Laozi
+
+## 核心文本 / Core Text
+
+《老子》（又称《道德经》），约五千言，分上下两篇：道经（第1–37章）与德经（第38–81章），共81章。是中国思想史上最具影响力的经典之一，也是世界上被翻译次数最多的中文著作之一——英语译本超过250种。
+
+The *Laozi* (also known as the *Daodejing*, "Classic of the Way and Virtue") is approximately five thousand characters in length, divided into two sections: the Dao Jing (Chapters 1–37) and the De Jing (Chapters 38–81), totaling 81 chapters. It is one of the most influential classics in Chinese intellectual history and one of the most translated Chinese texts in the world — with over 250 English translations alone.
+
+## 出土文献 / Excavated Manuscripts
+
+按年代排序 / Ordered chronologically:
+
+| 版本 / Version | 出土时间/地点 / Discovery | 年代 / Date | 特征 / Features |
+|------|-------------|------|------|
+| 郭店楚简本（甲、乙、丙三组） | 1993，湖北荆门郭店 | 约公元前300年 | 最早已知《老子》文本，约2000字（今本五分之二），无分章，无道经/德经之分 |
+| 马王堆帛书甲本 | 1973，湖南长沙马王堆 | 约公元前200年 | 篆隶混合体，德经在前道经在后 |
+| 马王堆帛书乙本 | 1973，湖南长沙马王堆 | 约公元前200年 | 隶书，德经在前道经在后，较甲本完整 |
+| 北大汉简本 | 2009入藏北京大学 | 约西汉中期 | 77章，介于帛书与通行本之间 |
+
+郭店楚简本的发现彻底改变了老子研究的面貌——它证明《道德经》并非一次性成书，而是在漫长岁月中逐渐编纂、扩充的文本。郭店本篇幅仅为今本五分之二，章序与今本大不相同，且不包含某些被认为属于后期的反儒内容。
+
+The discovery of the Guodian bamboo slips revolutionized Laozi studies — it demonstrated that the *Daodejing* was not composed at a single moment but was gradually compiled and expanded over a long period. The Guodian text is only two-fifths the length of the received text, with a substantially different chapter order, and lacks certain anti-Confucian passages thought to be later additions.
+
+## 传世本 / Received Editions
+
+| 版本 / Version | 年代 / Date | 特征 / Features |
+|------|------|------|
+| 河上公注本 | 汉代（约公元前2世纪） | 偏养生和政治的实用阐释，分81章 |
+| 王弼注本 | 魏晋（约249年） | 玄学化的哲学阐释，影响最大，通行本基础 |
+| 严遵《道德指归》 | 西汉 | 以易解老，独特的阐释传统 |
+| 傅奕校本 | 唐代 | 参校多种版本的校勘本 |
+| 唐玄宗御注本 | 唐代 | 帝王视角的政治阐释 |
+
+## 重要注疏 / Major Commentaries
+
+| 注疏 / Commentary | 作者 / Author | 年代 / Date | 特点 / Features |
+|------|------|------|------|
+| 《老子注》 | 王弼 | 魏晋 | "以无为本"的玄学阐释，哲学性最强 |
+| 《老子道德经注》 | 河上公 | 汉代 | 养生化、政治化，影响最广 |
+| 《老子想尔注》 | 张道陵（传） | 东汉 | 道教化的宗教阐释 |
+| 《道德真经注》 | 苏辙 | 宋代 | 融合儒释道三教 |
+| 《老子衍》 | 王夫之 | 明清 | 唯物主义视角的批判性阐释 |
+| 《老子校释》 | 马叙伦 | 现代 | 现代学术校勘 |
+| 《帛书老子校注》 | 高明 | 1996 | 帛书本的权威校注 |
+
+### 王弼注的重要性 / Importance of Wang Bi's Commentary
+
+王弼（226–249）的《老子注》是中国哲学史上最重要的注释之一。王弼以"以无为本"为核心，将《老子》从养生、政治的实用阐释提升到本体论的哲学高度。他的"贵无论"思想深刻影响了魏晋玄学，并成为后世理解《老子》的基础框架。王弼注的关键贡献包括：将"道"等同于"无"；强调"崇本息末"的修养方法；以及对语言和概念之局限性的自觉认识。
+
+Wang Bi's (226–249) *Commentary on the Laozi* is one of the most important commentaries in Chinese philosophical history. With "taking non-being as the root" as its core, Wang Bi elevated the *Laozi* from practical interpretations of health cultivation and politics to the ontological height of philosophy. His thought of "privileging non-being" profoundly influenced Wei-Jin metaphysics and became the foundational framework for subsequent understanding of the *Laozi*.
+
+### 河上公注与道教 / Heshanggong Commentary and Religious Daoism
+
+河上公注本将《老子》的哲学概念转化为养生修炼和政治指导。"道"被理解为生命之气（精气），"无为"被理解为呼吸吐纳的修炼方法。这一注释传统深刻影响了道教对《老子》的理解——老子从哲学家变为神仙（太上老君），《道德经》从哲学文本变为宗教经典。
+
+The Heshanggong commentary transforms Laozi's philosophical concepts into guidance for health cultivation and political practice. "Dao" is understood as vital energy (jing qi); "wu-wei" is understood as breathing exercises. This commentary tradition profoundly influenced religious Daoism's understanding of the *Laozi* — Laozi transformed from philosopher to deity (Taishang Laojun), and the *Daodejing* from philosophical text to religious scripture.
+
+## 重要西文译本 / Major Western Translations
+
+| 译本 / Translation | 译者 / Translator | 出版社 / Publisher | 年份 / Year | 特点 / Features |
+|------|------|--------|------|------|
+| *Tao Te Ching* | Arthur Waley | Allen & Unwin | 1934 | 经典英译，文学性强 |
+| *Tao Te Ching* | D.C. Lau | Penguin | 1963 | 学术性英译，附有研究导论 |
+| *Tao Te Ching* | Stephen Addiss & Stanley Lombardo | Hackett | 1993 | 简洁流畅 |
+| *Lao Tzu: Tao Te Ching* | Ursula K. Le Guin | Shambhala | 1997 | 诗人译本，文学性最强 |
+| *Daodejing* | Roger T. Ames & David L. Hall | Ballantine | 2003 | 哲学性英译，含出土文献 |
+| *Le Livre de la Voie et de la Vertu* | D.C. Lau | Gallimard | 2004 | 法语权威译本 |
+
+## 推荐版本 / Recommended Editions
+
+### 初学者 / Beginner
+- 陈鼓应《老子今注今译》（商务印书馆）— 最佳入门注释本 / Best introductory annotated edition
+- D.C. Lau, *Tao Te Ching* (Penguin) — 经典英译 / Classic English translation
+
+### 进阶 / Intermediate
+- 高明《帛书老子校注》（中华书局，1996）— 出土文献研究 / Study of excavated manuscripts
+- 刘笑敢《老子古今：五种对勘与析评引论》— 多版本对勘 / Multi-version collation
+- Ames & Hall, *Daodejing: A Philosophical Translation* (Ballantine, 2003) — 含出土文献 / Includes excavated texts
+
+### 深读 / Advanced
+- 楼宇烈《王弼集校释》（中华书局）— 理解玄学化的老子阐释 / Understanding xuanxue Laozi interpretation
+- 丁四新《郭店楚竹书〈老子〉校注》— 最早文本的研究 / Study of the earliest text
+
+## 关联页面 / Related Pages
+
+- [老子 · Laozi](README.md) — 返回总览 / Return to overview
+- [进阶阅读](reading-list.md) — 系统阅读指南 / Systematic reading guide
+- [年表](timeline.md) — 文本形成史 / History of text formation

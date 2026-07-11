@@ -1,0 +1,113 @@
+---
+id: barrett-timeline
+title: "巴雷特思想年表 · Barrett Timeline"
+type: timeline
+domain: psychology
+school: cognitive
+thinker: barrett
+tags: [barrett, timeline, biography, emotion-science]
+cross-refs:
+  - id: barrett
+    relation: thinker
+---
+
+# 巴雷特思想年表 · Barrett Timeline
+
+## 早年与教育 (1963–1990) — 多伦多与临床心理学
+
+- **1963** 生于加拿大多伦多 (Toronto, Canada)
+- **1980s** 就读多伦多大学 (University of Toronto), 主修心理学
+- **1986** 获多伦多大学心理学学士学位
+- **1986–1990** 在多伦多大学攻读临床心理学研究生; 在临床实践中注意到情绪体验的巨大个体差异 — 不同来访者描述"愤怒"或"焦虑"时体验差异极大
+- **1990** 获多伦多大学临床心理学博士学位; 博士论文聚焦情绪体验的个体差异
+
+## 早期学术生涯 (1990–2005) — 波士顿学院、情绪粒度
+
+- **1990–1996** 任波士顿学院 (Boston College) 心理学助理教授; 开始系统研究情绪体验的个体差异
+- **1996** 转任波士顿大学 (Boston University) 心理学助理教授
+- **1998** 发表关于述情障碍 (alexithymia) 与情绪体验的研究
+- **2000** 获波士顿大学终身教职 (tenure)
+- **2001** 发表里程碑论文 "Knowing what you're feeling and knowing what to do about it" — 首次系统提出**情绪粒度** (emotion differentiation) 概念, 证明高粒度与更好的情绪调节相关
+- **2002** 与 James Russell 合作, 深化对 affect 环状模型的理解
+- **2004** 发表情绪粒度与情绪调节的实证研究 (与 Gross 等合作)
+- **2005** 转任 Northeastern University (东北大学), 任心理学教授
+
+## 范式批判期 (2006–2016) — "Are emotions natural kinds?"
+
+- **2006** 发表 "Are emotions natural kinds?" — **对基本情绪论的系统批判**, 指出 Ekman 等人的方法论循环和证据不足; 这篇论文引发情绪科学领域的"范式危机" (paradigm crisis)
+- **2006** 发表 "Solving the emotion paradox" — 提出概念 (concept) 在情绪体验中的核心作用
+- **2007** 获 **NIH Director's Pioneer Award** — 美国国立卫生研究院最具声望的个人研究资助
+- **2007** 发表 "Of mice and men: Natural kinds of emotions in the mammalian brain?" — 对 Panksepp 的基本情绪脑回路理论的批判
+- **2009** 发表 "Variety is the spice of life" — 心理建构主义的理论阐述
+- **2010** 当选美国心理科学协会 (Association for Psychological Science, APS) **Fellow**
+- **2011** 发表 "Bridging token identity theory and supervenience theory" — 情绪与大脑关系的哲学分析
+- **2012** Lindquist, Wager, Kober, Bliss-Moreau & Barrett 发表 "The brain basis of emotion: A meta-analytic review" — 大规模神经影像元分析, 否定离散情绪回路的存在
+- **2012** 发表 Himba 人跨文化研究 — 证明"普遍面部表情"的假设在跨文化检验下不成立
+- **2013** 当选美国艺术与科学学院 (American Academy of Arts and Sciences) **院士**
+- **2014** 发表 "The conceptual act theory: A précis" — **概念行为理论** (Conceptual Act Theory) 的系统阐述, 情绪构造论的直接前身
+- **2015** 获 **Guggenheim Fellowship** — 约翰·西蒙·古根海姆基金会学术奖
+- **2016** 与 Lewis & Haviland-Jones 合编 *Handbook of Emotions* 第 4 版 — 情绪科学最权威的参考书 (1000+ 页)
+
+## 成熟期 (2017–至今) — 情绪构造论与预测脑
+
+- **2017** 出版 *How Emotions Are Made: The Secret Life of the Brain* (Houghton Mifflin Harcourt) — **核心著作**, 面向公众的情绪构造论; 成为 *New York Times* 畅销书; 被翻译为 20 余种语言
+- **2017** 发表 "The theory of constructed emotion: an active inference account" — **学术版情绪构造论**, 与 Friston 的主动推断 (active inference) 框架正式整合
+- **2017** 获 APS **William James Fellow Award** (终身成就奖)
+- **2018** 当选美国心理学协会 (APA) Division 1 (General Psychology) **主席**
+- **2018** 与 Adolphs 合作发表 "Seeing fear" — 对恐惧面部表情的再讨论
+- **2019** 发表 "Emotions are real" (*Emotion*) — 回应基本情绪论者的批评, 阐明构造论的实在论立场: 情绪是真实的社会现实, 但不是自然类
+- **2019** Hoemann, Xu & Barrett 发表 "Emotion words as emotion schemas" — 情绪词汇作为情绪构造的概念工具
+- **2020** 出版 *Seven and a Half Lessons About the Brain* (Houghton Mifflin Harcourt) — 将预测加工扩展到整个脑科学; 面向公众的神经科学入门; 被 *New York Times* 评为年度好书
+- **2020–2021** COVID-19 大流行期间, 在媒体上广泛讨论"身体预算" (body budget) 的公共卫生意义; 强调睡眠、运动和社会连接对心理健康的基础作用
+- **2022** 发表 "Context reconsidered" (*American Psychologist*) — 深化情境在情绪构造中的角色; 提出"复杂信号集合" (complex signal ensembles) 的概念
+- **2023** 继续活跃研究; 关注情绪与文化、社会行为的关系; 推动预测加工范式在情绪科学中的应用
+- **2024** 被 Thomson Reuters / Clarivate 列为**高被引研究者** (Highly Cited Researcher), H-index 超过 100
+
+## 学术影响与争议 / Academic Impact and Controversy
+
+### 支持者 / Supporters
+
+- **Friston** (Karl Friston): 自由能原理创始人, 认为构造论是主动推断在情绪领域的自然延伸
+- **Clark** (Andy Clark): 预测加工哲学家, 将 Barrett 的工作视为预测加工理论的重要应用
+- **Seth** (Anil Seth): 意识科学家, 在 *Being You* (2021) 中大量引用 Barrett
+- **Hoemann, Wormwood, Wilson-Mendenhall**: Barrett 实验室的核心成员, 发展情绪构造论的实证研究
+
+### 批评者 / Critics
+
+- **Ekman** (Paul Ekman): 基本情绪论创始人, 坚持面部表情的跨文化普遍性
+- **Panksepp** (Jaak Panksepp, 2017 逝世): 情感神经科学创始人, 坚持基本情绪脑系统的存在
+- **LeDoux** (Joseph LeDoux): 早期坚持"恐惧回路", 后期部分修正立场
+- **Celeghin, Bagnis, Viola, Tamietto**: 发表对构造论的批评, 主张基本情绪的亚皮质回路
+
+### 争论的核心 / Core of the Debate
+
+争论的焦点不是"情绪是否存在" (双方都承认情绪体验的真实性), 而是:
+
+1. **情绪的本体论地位**: 情绪是预存的"自然类" (natural kinds) 还是构造的"社会现实" (social reality)?
+2. **面部表情的角色**: 面部表情是情绪的"信号" (signal) 还是"行为" (behavior)?
+3. **脑回路的特异性**: 是否存在专门负责特定情绪的脑回路?
+
+## 历史同代人 / Historical Contemporaries
+
+- **Ekman** (1934–): 基本情绪论的主要对手
+- **Damasio** (1944–): 躯体标记假说, 与 Barrett 在身体角色上有对话与分歧
+- **Friston** (1959–): 自由能原理, 预测加工的盟友
+- **Russell** (James A. Russell): Barrett 的早期合作者, 环状模型的提出者
+- **Gross** (James J. Gross): 情绪调节研究先驱
+- **Seth** (Anil Seth, 1972–): 意识的预测理论, 平行发展
+- **Clark** (Andy Clark, 1957–): 预测加工哲学
+- **Lindquist** (Kristen A. Lindquist): Barrett 的核心合作者
+
+## 思想分期总结 / Summary of Intellectual Periods
+
+| 阶段 | 年代 | 关键词 | 代表著作 |
+|---|---|---|---|
+| 早期 | 1990–2005 | 临床心理学, 情绪粒度, 个体差异 | "Knowing what you're feeling" (2001) |
+| 批判期 | 2006–2016 | 自然类批判, 概念行为理论, 元分析 | "Are emotions natural kinds?" (2006), *Handbook of Emotions* (2016) |
+| 成熟期 | 2017–至今 | 情绪构造论, 预测脑, 身体预算 | *How Emotions Are Made* (2017), *Seven and a Half Lessons* (2020) |
+
+## 进阶阅读 / Further Reading
+
+- Barrett, L. F., *How Emotions Are Made* (2017), Introduction — 巴雷特的自述性学术旅程
+- Barrett, L. F., "The theory of constructed emotion" (2017) — 理论的综合阐述
+- 关于 Barrett 的学术传记与访谈, 见 APS 网站 "William James Fellow Award" 页面

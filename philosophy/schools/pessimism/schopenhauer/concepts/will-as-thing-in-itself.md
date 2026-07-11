@@ -1,0 +1,126 @@
+---
+id: will-as-thing-in-itself
+title: 意志作为物自体 · Will as Thing-in-Itself
+type: concept
+parent: schopenhauer
+domain: philosophy
+tags:
+  - will
+  - metaphysics
+  - thing-in-itself
+  - objectification
+  - 意志
+  - 形而上学
+  - 物自体
+  - 客体化
+---
+
+# 意志作为物自体 / Will as Thing-in-Itself
+
+> "意志是一切事物的内在本质。"
+> "Will is the inner essence of everything."
+> — Schopenhauer, *Die Welt als Wille und Vorstellung*, Book II
+
+---
+
+## 概述 / Overview
+
+叔本华哲学中最具原创性和影响力的洞见是：世界的本体实在——康德所称为"物自体"（Ding an sich）的东西——不是理性、精神或理念，而是**意志**（Wille）。这一主张标志着西方形而上学传统的一次根本性转向：从理性主义（将实在等同于理性或逻辑结构）转向意志主义（将实在等同于前理性的欲求力量）。
+
+The most original and influential insight of Schopenhauer's philosophy is that the world's noumenal reality — what Kant called the "thing-in-itself" (Ding an sich) — is not reason, spirit, or idea, but **Will** (Wille). This marks a fundamental turn in the Western metaphysical tradition: from rationalism (equating reality with reason or logical structure) to voluntarism (equating reality with a pre-rational striving force).
+
+---
+
+## 从康德到叔本华 / From Kant to Schopenhauer
+
+康德在《纯粹理性批判》中严格区分了**现象**（Erscheinung）与**物自体**（Ding an sich）：我们所能认识的只是事物对我们的显现（经过时空直观形式和知性范畴的组织），而非事物本身。物自体是认识的界限概念——它存在，但原则上不可被认识。
+
+Kant's *Critique of Pure Reason* drew a strict distinction between **appearance** (Erscheinung) and the **thing-in-itself** (Ding an sich): we can know only how things appear to us (organized through the forms of space and time and the categories of understanding), not things as they are in themselves. The thing-in-itself is a limiting concept of knowledge — it exists but is in principle unknowable.
+
+叔本华接受了现象/物自体的区分，但认为康德将物自体留为不可知是一个不彻底的错误。他论证道，存在一条从内部通达物自体的路径：我们每个人不仅是外部世界中的一个客体（现象），同时也是从内部体验自身存在的主体。当我们从内部审视自己时，我们发现自身的本质不是思维或理性，而是**意志**——一种盲目的、非理性的欲求和冲动力量。
+
+Schopenhauer accepted the appearance/thing-in-itself distinction but held that Kant's leaving the thing-in-itself unknowable was an inconsistency. He argued that there exists a path to the thing-in-itself from within: each of us is not merely an object (appearance) in the external world but also a subject experiencing our own existence from the inside. When we examine ourselves from within, we discover that our essence is not thought or reason but **Will** — a blind, irrational force of striving and impulse.
+
+---
+
+## 身体作为意志的直接客体 / The Body as Direct Object of Will
+
+叔本华认识论的关键环节是**身体的双重性**：我的身体既是表象世界中的一个客体（服从物理因果律），又是从内部直接体验的意志行为。当我举起手臂时，这既是一个物理事件（肌肉收缩、神经传导），也是一个意志行为（我"意愿"举起手臂）。这两个描述不是因果关系（意志导致运动），而是同一事件的内外两面。
+
+The crucial link in Schopenhauer's epistemology is the **duality of the body**: my body is both an object in the world of representation (subject to physical causality) and an act of will experienced directly from within. When I raise my arm, this is both a physical event (muscle contraction, nerve conduction) and an act of will (I "will" to raise my arm). These two descriptions are not causally related (will causing movement) but are the inner and outer aspects of the same event.
+
+由此，叔本华进行了一个大胆的类比推广：如果我的身体的内在本质是意志，那么一切客体（一切自然现象）的内在本质也应当是意志——只是这些客体没有"内部"可以直接观察。意志因此是万物的本体实在，而表象世界（受时空和因果性支配的世界）是意志的"客体化"或"外化"。
+
+From this, Schopenhauer makes a bold analogical extension: if the inner essence of my body is Will, then the inner essence of all objects (all natural phenomena) must also be Will — it is only that these objects lack an "inside" available to direct observation. Will is therefore the noumenal reality of all things, while the world of representation (the world governed by space, time, and causality) is the Will's "objectification" or "externalization."
+
+---
+
+## 意志的客体化等级 / Grades of the Will's Objectification
+
+意志不是一个统一的力量，而是通过不同的**客体化等级**（Stufen der Objektivation）显现自身。从最低级到最高级，这些等级包括：
+
+Will is not a uniform force but manifests itself through different **grades of objectification** (Stufen der Objektivation). From lowest to highest, these grades include:
+
+| 等级 / Grade | 显现形式 / Manifestation | 对应的柏拉图理念 / Corresponding Platonic Idea |
+|---|---|---|
+| 最低级 / Lowest | 普遍自然力（引力、磁力、化学力） / Universal forces (gravity, magnetism, chemistry) | 最低级理念 / Lowest Ideas |
+| 低级 / Low | 无生命物质的一般属性 / General properties of inorganic matter | 矿物理念 / Mineral Ideas |
+| 中级 / Middle | 植物生命（盲目的生长和繁殖冲动） / Plant life (blind growth and reproductive impulse) | 植物理念 / Vegetal Ideas |
+| 高级 / High | 动物本能、欲望、知觉 / Animal instinct, desire, perception | 动物理念 / Animal Ideas |
+| 最高级 / Highest | 人类理性、自我意识、反思能力 / Human reason, self-consciousness, reflective capacity | 人的理念 / Human Idea |
+
+在每一个等级上，意志都表现出相同的基本特征：**盲目的、无目的的、永不满足的欲求**。即使在人类理性的最高等级上，理性也不过是意志的工具——服务于意志的目的，而非相反。叔本华的名言"意志是主人，理性是仆人"概括了这一关系。
+
+At every grade, Will exhibits the same fundamental character: **blind, purposeless, insatiable striving**. Even at the highest grade of human reason, reason is merely Will's instrument — serving Will's ends, not the reverse. Schopenhauer's dictum "Will is the master, intellect the servant" captures this relationship.
+
+---
+
+## 意志的根本特征 / Fundamental Characteristics of Will
+
+### 非理性 / Non-Rationality
+
+意志不是理性的产物，也不服从理性法则。它先于一切认识和表象，是认识的前提条件而非认识的结果。叔本华以此反对黑格尔将理性或"绝对精神"（Absoluter Geist）视为世界本质的理性主义立场。
+
+Will is not a product of reason, nor does it obey rational laws. It precedes all cognition and representation; it is the precondition of knowledge, not its result. Schopenhauer thus opposes Hegel's rationalist position that reason or "Absolute Spirit" (Absoluter Geist) is the world's essence.
+
+### 无目的性 / Purposelessness
+
+意志不追求任何终极目的或善。与亚里士多德的"目的因"（telos）或基督教的"神意"（providentia）不同，叔本华的意志是盲目的——它欲求，但不"为了"什么而欲求。自然界中看似有目的的现象（生物的适应性、器官的功能性）只是意志在特定客体化等级上的表现方式，而非意志的目的性安排。
+
+Will pursues no ultimate purpose or good. Unlike Aristotle's telos or Christian providence, Schopenhauer's Will is blind — it wills, but not "for" anything. Seemingly purposeful phenomena in nature (biological adaptation, organ functionality) are merely the manner of Will's manifestation at particular grades of objectification, not evidence of Will's purposive arrangement.
+
+### 不可分割的统一性 / Indivisible Unity
+
+意志是一（eine），而非多。表象世界中的个体多样性是时空（个体化原理）造成的幻觉；在本体层面，一切存在者都是同一个意志的不同显现。这一主张与印度吠檀多哲学中的"梵我一如"（Brahman-Ātman identity）形成深刻的呼应。
+
+Will is one (eine), not many. The multiplicity of individuals in the world of representation is an illusion produced by space and time (the principium individuationis); at the noumenal level, all beings are different manifestations of one and the same Will. This claim deeply resonates with the Vedānta doctrine of Brahman-Ātman identity in Indian philosophy.
+
+---
+
+## 意志与自由 / Will and Freedom
+
+在本体层面，意志是自由的——因为它不受充足理由律的约束（充足理由律只适用于表象世界）。但在经验层面，一切现象（包括人类行为）都严格服从因果必然性——因此经验中不存在自由意志。这一看似矛盾的立场被叔本华概括为："一个人在经验上是完全决定的，但在本体上是完全自由的。"
+
+At the noumenal level, Will is free — because it is not constrained by the principle of sufficient reason (which applies only to the world of representation). But at the empirical level, all phenomena (including human behaviour) are strictly subject to causal necessity — so there is no free will in experience. Schopenhauer summarizes this apparently paradoxical position: "A person is entirely determined empirically, but entirely free noumenally."
+
+---
+
+## 批评与遗产 / Criticism and Legacy
+
+叔本华的意志形而上学面临的主要批评包括：（1）类比推广的问题——从人类内在经验推广到万物本质是否合法？（2）意志概念的模糊性——叔本华的"意志"是否过于宽泛，以至于丧失了分析力？（3）尼采的批判——意志不应被否定，而应被肯定为创造力量的源泉（权力意志）。
+
+Major criticisms of Schopenhauer's Will metaphysics include: (1) the problem of analogical extension — is it legitimate to extend from human inner experience to the essence of all things? (2) the vagueness of the concept of Will — is Schopenhauer's "Will" so broad that it loses analytical power? (3) Nietzsche's critique — Will should not be denied but affirmed as the source of creative power (will to power).
+
+尽管如此，叔本华的意志形而上学深刻影响了后来的哲学、心理学、文学和艺术。它为非理性力量在人类存在中的核心地位提供了第一个系统性的哲学论证，开创了从尼采到弗洛伊德、从柏格森到海德格尔的整个思想谱系。
+
+Nevertheless, Schopenhauer's Will metaphysics profoundly influenced subsequent philosophy, psychology, literature, and art. It provided the first systematic philosophical argument for the centrality of irrational forces in human existence, inaugurating an intellectual lineage from Nietzsche to Freud, from Bergson to Heidegger.
+
+---
+
+## 相关条目 / Related Entries
+
+- [悲观主义 / Pessimism](pessimism.md) — 意志的无尽欲求导致永恒痛苦
+- [审美沉思 / Aesthetic Contemplation](aesthetic-contemplation.md) — 暂时从意志中解脱
+- [同情伦理 / Compassion](compassion.md) — 意志同一性的伦理后果
+- [意志的否定 / Denial of Will](denial-of-will.md) — 意志的自我超越
+- [叔本华 · README](../README.md) — 返回总条目

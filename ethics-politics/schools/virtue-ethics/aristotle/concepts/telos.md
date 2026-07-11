@@ -1,0 +1,140 @@
+---
+id: aristotle-telos
+title: "目的 · Telos"
+type: concept
+thinker: aristotle
+domain: ethics-politics
+school: virtue-ethics
+tags: [telos, teleology, final-cause, purpose, ergon, entelecheia]
+cross-refs:
+  - id: aristotle
+    relation: thinker
+  - id: nussbaum
+    relation: 能力进路
+  - id: macintyre
+    relation: 叙事目的
+---
+
+# 目的 · Telos
+
+## 概念概述 / Concept Overview
+
+目的（telos, τέλος）是亚里士多德哲学中最为根本的概念之一，指事物的**最终目的、终点或内在趋向**。在伦理学中，telos 指的是人类生活的最高目的——eudaimonia（幸福），一切人类行为和追求都指向这一终极善。在自然哲学中，telos 是事物发展的内在趋向——橡果的 telos 是长成橡树，幼犬的 telos 是长成成年犬。亚里士多德的目的论（teleology）主张：**自然不做无用之事**（he physis ouden poiei maten），万物都趋向于实现其内在的形式和功能。
+
+Telos (τέλος) is one of the most fundamental concepts in Aristotle's philosophy, referring to a thing's **ultimate end, goal, or inherent tendency**. In ethics, telos refers to the highest purpose of human life — eudaimonia (happiness), toward which all human actions and pursuits aim. In natural philosophy, telos is the inherent tendency of a thing's development — an acorn's telos is to become an oak tree, a puppy's telos is to become an adult dog. Aristotle's teleology holds: **nature does nothing in vain** (he physis ouden poiei maten); all things tend toward realizing their inherent forms and functions.
+
+目的论是亚里士多德哲学与现代科学最为紧张的领域。现代科学自达尔文以来拒绝目的论解释——进化是盲目的自然选择过程，不具有内在目的。然而，亚里士多德式的目的论在当代哲学中获得了新的生命：在功能生物学中，"器官的功能"这一概念本身就隐含着目的论；在伦理学中，纳斯鲍姆的"能力进路"重新引入了"人类核心功能"的目的论框架；在麦金太尔的叙事理论中，人类生活具有叙事统一性（narrative unity），生活的 telos 不是一个固定的终点，而是一个通过叙事不断展开的整体方向。
+
+Teleology is the area of greatest tension between Aristotle's philosophy and modern science. Since Darwin, modern science rejects teleological explanation — evolution is a blind process of natural selection without inherent purpose. However, Aristotelian teleology has found new life in contemporary philosophy: in functional biology, the very concept of "organ function" implies teleology; in ethics, Nussbaum's "Capability Approach" reintroduces a teleological framework of "core human functions"; in MacIntyre's narrative theory, human life possesses narrative unity, and life's telos is not a fixed endpoint but an overall direction continuously unfolding through narrative.
+
+## 理论内涵 / Theoretical Content
+
+### 目的因与四因说 / Final Cause and the Four Causes
+
+亚里士多德在《物理学》II.3 和《形而上学》V.2 中提出了著名的四因说——解释任何事物的四种原则：
+
+Aristotle proposes the four causes in *Physics* II.3 and *Metaphysics* V.2 — four principles for explaining any thing:
+
+| 因果类型 | 定义 / Definition | 青铜雕像示例 | 伦理学含义 |
+|---|---|---|---|
+| 质料因 (Material) | 由什么构成 / What it's made of | 青铜 | 人的身体和灵魂的非理性部分 |
+| 形式因 (Formal) | 是什么形式 / What form | 雕像的造型 | 灵魂的形式——理性的结构 |
+| 动力因 (Efficient) | 由谁制造 / Who made it | 雕塑家 | 父母和教育者 |
+| 目的因 (Final/Telos) | 为了什么 / For what end | 祭祀或纪念 | **Eudaimonia** — 人的功能的完善实现 |
+
+在亚里士多德看来，**目的因在四种原因中最为重要**，因为它决定了其他三种原因的意义。一座雕像的质料（青铜）、形式（造型）和动力（雕塑家）都服务于其目的（祭祀）。同样，人的身体（质料）、理性灵魂（形式）和教育（动力）都服务于人的终极目的——eudaimonia。
+
+For Aristotle, the **final cause is most important** among the four, as it determines the meaning of the other three. A statue's material (bronze), form (shape), and efficient cause (sculptor) all serve its purpose (worship). Similarly, a person's body (material), rational soul (formal), and education (efficient) all serve the human ultimate end — eudaimonia.
+
+### 潜能与实现 / Potentiality and Actuality
+
+目的论在亚里士多德的形而上学中通过**潜能**（dynamis）与**实现**（energeia/entelecheia）这对概念得到了更深刻的表达。一颗种子具有长成树的**潜能**，而树是这一潜能的**实现**。亚里士多德认为，整个自然是一个从潜能到实现的过程——万物都趋向于实现其特有的形式和功能。
+
+Teleology finds deeper expression in Aristotle's metaphysics through the concepts of **potentiality** (dynamis) and **actuality** (energeia/entelecheia). A seed has the **potential** to become a tree; the tree is the **actualization** of that potential. Aristotle holds that all of nature is a process from potentiality to actuality — all things tend toward realizing their distinctive forms and functions.
+
+"Entelecheia"（ἐντελέχεια）是一个亚里士多德独创的术语，字面意思是"在目的中持有"（having the end within）。这个概念暗示了亚里士多德目的论的一个关键特征：**目的不是外在的、遥远的目标，而是内在于事物本身的发展趋向**。橡果的 telos（成为橡树）不是在橡果之外的某个地方等着它；它是橡果内在的发展潜能。同样，人类的 telos（eudaimonia）不是外在的奖赏，而是人的理性能力的充分实现——一种在人的生活中**内在的**完善趋向。
+
+"Entelecheia" (ἐντελέχεια) is an Aristotelian coinage meaning literally "having the end within." This concept reveals a key feature of Aristotle's teleology: **the end is not an external, distant target but an inherent developmental tendency within the thing itself**. An acorn's telos (becoming an oak) is not somewhere outside the acorn waiting for it; it is the acorn's inherent developmental potential. Similarly, humanity's telos (eudaimonia) is not an external reward but the full realization of human rational capacity — an **inherent** perfection tendency within human life.
+
+### 等级化的善 / Hierarchical Goods
+
+亚里士多德在《尼各马可伦理学》开篇确立了一个**善的等级结构**：
+
+Aristotle establishes a **hierarchy of goods** at the opening of the *Nicomachean Ethics*:
+
+> "每一种技艺和探究，每一种行动和追求，都被认为以某种善为目的。"（EN I.1, 1094a）
+
+> "Every art and inquiry, every action and pursuit, is thought to aim at some good." (EN I.1, 1094a)
+
+在这一等级结构中，低级的善服务于高级的善——骑术的善服务于军事的善，军事的善服务于政治的善（城邦的共同善），而政治的善最终服务于**最高善**——eudaimonia。这一结构不是外在的命令等级，而是基于事物本身的内在目的关系——正如身体的各部分服务于整个有机体的功能，人类的各种活动服务于整个生活的完善。
+
+In this hierarchy, lower goods serve higher ones — horsemanship serves military art, military art serves political good (the common good of the polis), and political good ultimately serves the **highest good** — eudaimonia. This structure is not an externally imposed hierarchy but based on the inherent purposive relations among things — just as body parts serve the whole organism's function, human activities serve the perfection of life as a whole.
+
+## 思想史脉络 / Intellectual History
+
+目的论在古代世界几乎是所有哲学家的共识——柏拉图在《蒂迈欧篇》中提出宇宙由善的理念引导，斯多葛学派认为宇宙由神圣理性（logos）支配。亚里士多德的独特之处在于，他的目的论是**内在的**（immanent）而非**超越的**（transcendent）——事物的目的不在事物之外（如柏拉图的理念），而在事物本身的发展之中。
+
+Teleology was nearly universal among ancient philosophers — Plato's *Timaeus* holds the cosmos is guided by the Form of the Good; Stoics believed the universe governed by divine reason (logos). Aristotle's distinctive contribution is that his teleology is **immanent** rather than **transcendent** — a thing's purpose lies not outside it (like Plato's Forms) but within its own development.
+
+中世纪的阿奎那将亚里士多德的目的论与基督教神学结合——万物的最终目的是上帝，这是超越的 telos。近代科学革命从根本上挑战了目的论：伽利略和牛顿的力学不需要"目的因"来解释运动；达尔文的自然选择理论则提供了无需目的论的生物进化解释。康德在《判断力批判》中承认，虽然目的论不能作为科学的构成性原则，但它作为**调节性原则**（regulative principle）在生物学研究中是不可或缺的。
+
+Medieval Aquinas combined Aristotelian teleology with Christian theology — all things' ultimate end is God, a transcendent telos. The modern scientific revolution fundamentally challenged teleology: Galileo's and Newton's mechanics require no "final cause" to explain motion; Darwin's natural selection provides biological evolution without teleology. Kant acknowledged in the *Critique of Judgment* that while teleology cannot serve as a constitutive principle of science, it functions as an indispensable **regulative principle** in biological research.
+
+20世纪见证了亚里士多德目的论的哲学复兴。汉斯·约纳斯（Hans Jonas）在《生命的现象》中论证了有机体本身就具有目的性；汉斯·凯尔森（Hans Kelsen）之外，许多生物哲学家承认功能生物学的概念框架本质上隐含着亚里士多德式的目的论。在伦理学领域，麦金太尔将 telos 重新定义为**叙事性的**——人类生活的 telos 不是一个固定的目标，而是一个通过叙事不断展开的整体方向。
+
+The 20th century witnessed a philosophical revival of Aristotelian teleology. Hans Jonas argued in *The Phenomenon of Life* that organisms themselves possess purposiveness; many philosophers of biology acknowledge that functional biology's conceptual framework essentially implies Aristotelian teleology. In ethics, MacIntyre redefined telos as **narrative** — human life's telos is not a fixed goal but an overall direction continuously unfolding through narrative.
+
+## 关键文本 / Key Passages
+
+> "自然不做无用之事。"
+> — 《论天》II.11, 291b13
+
+> "Nature does nothing in vain."
+> — *On the Heavens* II.11, 291b13
+
+**分析**: 这一简洁的命题概括了亚里士多德目的论的核心——自然界的一切都有其内在的目的和功能。/ **Analysis**: This concise proposition summarizes the core of Aristotle's teleology — everything in nature has its inherent purpose and function.
+
+> "如果有一种最终极的（teleion）东西是我们追求的，而其他一切都为了它……那么它显然就是善——即最高善。"
+> — EN I.2, 1094a18–22
+
+> "If there is some end that is final (teleion) of what we do, and everything else is for its sake... then clearly this is the good — the chief good."
+> — EN I.2, 1094a18–22
+
+> "每一种自然事物中都有某种目的因。"
+> — 《物理学》II.8, 199a32
+
+> "In everything that comes about by nature, there is a final cause."
+> — *Physics* II.8, 199a32
+
+## 当代应用 / Contemporary Applications
+
+**功能生物学**: 现代生物学虽然拒绝形而上学的目的论，但在实践中无法避免目的论语言——"心脏的功能是泵血""眼睛的功能是看"。许多生物哲学家（如 Ernst Mayr）区分了"目的论"（teleology）和"目的性"（teleonomy）——后者指由自然选择塑造的看似有目的的功能特征。/ **Functional Biology**: Though modern biology rejects metaphysical teleology, it cannot avoid teleological language in practice — "the heart's function is to pump blood," "the eye's function is to see." Many philosophers of biology (like Ernst Mayr) distinguish "teleology" from "teleonomy" — the latter referring to seemingly purposive functional features shaped by natural selection.
+
+**可持续发展**: 可持续发展目标（SDGs）在结构上具有亚里士多德式目的论的特征——它们设定了一个人类发展的"最高善"（可持续的繁荣），而各种具体目标（消除贫困、气候行动）都服务于这一最高善。/ **Sustainable Development**: The Sustainable Development Goals (SDGs) are structurally Aristotelian-teleological — they set a "highest good" for human development (sustainable prosperity), with specific goals (poverty elimination, climate action) serving this highest good.
+
+**人生意义与存在主义**: 存在主义（萨特："存在先于本质"）否认人类有先天的 telos——人没有预定的本质或目的。亚里士多德式的回应是：虽然人类的 telos 不是由神或自然预先规定的，但**人类作为一种具有特定能力和需求的物种**，其繁荣（flourishing）确实有客观的条件和形式。/ **Life Meaning and Existentialism**: Existentialism (Sartre: "existence precedes essence") denies humans have an innate telos — no predetermined essence or purpose. The Aristotelian response: while humanity's telos is not pre-ordained by god or nature, **humans as a species with specific capacities and needs** do have objective conditions and forms for flourishing.
+
+## 批评与回应 / Critiques and Responses
+
+**批评: 目的论与进化论的冲突** / **Critique: Teleology vs. evolution**
+达尔文的自然选择理论表明，生物的适应性特征是盲目的变异和选择过程的产物，不需要"目的"来解释。亚里士多德的目的论因此被许多现代科学家视为过时的形而上学。/ Darwin's natural selection shows that adaptive biological features are products of blind variation and selection, requiring no "purpose." Aristotle's teleology is thus viewed by many modern scientists as outdated metaphysics.
+
+**回应**: 当代亚里士多德主义者做出了两个层次的回应：（1）在生物学层面，可以接受自然选择的机制，同时承认"功能"概念在实践中不可或缺——这是一种弱化的目的论（teleonomy）；（2）在伦理学层面，人类的 telos 可以基于人类的**典型生活形式**（life form）来界定——正如 Philippa Foot 和 Rosalind Hursthouse 的"自然善"（natural goodness）论证所示，而不需要形而上学的目的论承诺。/ **Response**: Contemporary Aristotelians respond at two levels: (1) at the biological level, one can accept natural selection while acknowledging the indispensability of "function" concepts in practice — a weakened teleology (teleonomy); (2) at the ethical level, humanity's telos can be defined based on humanity's **typical life form** — as Philippa Foot's and Rosalind Hursthouse's "natural goodness" argument shows, without metaphysical teleological commitments.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+道家的"**道**"（Dao）概念提供了一种非目的论的自然哲学——"道法自然"意味着万物按照其本性自发地运行，而不是趋向某个预定的目的。这与亚里士多德的内在目的论有微妙的差异：亚里士多德的目的论仍然暗示了一个从潜能到实现的"向上"运动，而道家的"自然"更强调无方向性的自发（ziran, 自然）。
+
+The Daoist concept of "**Dao**" offers a non-teleological natural philosophy — "Dao follows nature" means all things operate spontaneously according to their nature, not tending toward a predetermined end. This subtly differs from Aristotle's immanent teleology: Aristotle's teleology still implies an "upward" movement from potentiality to actuality, while Daoist "ziran" (naturalness) emphasizes directionless spontaneity.
+
+印度哲学中的"**法**"（dharma）概念与 telos 有结构性的相似——万物都有其内在的法（本质法则），人的善在于实现其法。但 dharma 同时具有宇宙秩序和道德法则的双重含义，比亚里士多德的 telos 更加广泛和形而上学。
+
+The Indian concept of "**dharma**" shares structural similarities with telos — all things have their inherent dharma (essential law), and human good lies in realizing one's dharma. But dharma simultaneously carries cosmic order and moral law meanings, broader and more metaphysical than Aristotle's telos.
+
+## 延伸阅读 / Further Reading
+
+- Johnson, Monte R. *Aristotle on Teleology* (Oxford, 2005) — 亚里士多德目的论的系统研究 / Systematic study of Aristotelian teleology
+- Gotthelf, Allan. *Teleology, First Principles, and Scientific Method in Aristotle's Biology* (Oxford, 2012)
+- Foot, Philippa. *Natural Goodness* (Oxford, 2001) — 自然善论证 / Natural goodness argument
+- MacIntyre, Alasdair. *After Virtue* (1981) — 叙事性 telos / Narrative telos
+- Jonas, Hans. *The Phenomenon of Life* (1966) — 有机体目的性 / Organismic purposiveness

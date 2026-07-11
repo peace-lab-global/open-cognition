@@ -1,0 +1,153 @@
+---
+id: psychology.positive.csikszentmihalyi.concept.intrinsic-motivation
+title: "内在动机 · Intrinsic Motivation"
+type: concept
+parent: psychology.positive.csikszentmihalyi
+tags: [intrinsic-motivation, self-determination, autonomy, engagement, reward]
+---
+
+# 内在动机 · Intrinsic Motivation
+
+> "The most intrinsically motivating activities are those that are self-rewarding — that is, the reward lies in the activity itself."
+> "最具内在激励性的活动，是那些自带奖赏的活动——即奖赏存在于活动本身之中。"
+> —— Mihaly Csikszentmihalyi
+
+---
+
+## 定义 / Definition
+
+**内在动机**（Intrinsic Motivation）指个体从事某一活动的驱动力来自活动本身的乐趣、满足和挑战，而非外在的报酬、奖赏或惩罚。在米哈里的理论中，内在动机是心流体验的动机基础——正是因为个体被活动本身所吸引，才会全情投入，进而可能进入心流状态。
+
+**Intrinsic Motivation** refers to the drive to engage in an activity that originates from the activity's inherent pleasure, satisfaction, and challenge, rather than from external rewards, compensation, or punishment. In Csikszentmihalyi's theory, intrinsic motivation is the motivational foundation of flow — it is precisely because the individual is drawn to the activity itself that they engage wholeheartedly, potentially entering a flow state.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 内在动机与外在动机的光谱 / The Spectrum from Intrinsic to Extrinsic Motivation
+
+米哈里并不将动机视为简单的二元对立，而是一个从纯内在到纯外在的光谱：
+
+Csikszentmihalyi does not treat motivation as a simple binary but as a spectrum from purely intrinsic to purely extrinsic:
+
+```
+纯内在 ←————————————————→ 纯外在
+Purely Intrinsic               Purely Extrinsic
+
+活动本身的   活动带来的   社会认可、   金钱报酬、
+乐趣和挑战   个人成长     地位、名望   避免惩罚
+(Pleasure    (Personal    (Social      (Monetary
+ of the       growth       recognition,  reward,
+ activity)     from the    status,      avoiding
+               activity)    fame)        punishment)
+```
+
+### 内在动机的三大心理需求 / Three Psychological Needs for Intrinsic Motivation
+
+虽然米哈里的研究重心在心流体验本身，但他的工作深深受惠于并呼应了德西和瑞安的**自我决定理论**（Self-Determination Theory, SDT）。SDT提出内在动机依赖三种基本心理需求的满足：
+
+While Csikszentmihalyi's research centered on the flow experience itself, his work deeply resonates with Deci and Ryan's **Self-Determination Theory (SDT)**. SDT proposes that intrinsic motivation depends on satisfying three basic psychological needs:
+
+1. **自主性（Autonomy）**：感到行为是自愿选择的，而非被强迫的。心流活动的首要条件就是个体自愿选择投入。
+2. **胜任感（Competence）**：感到自己能够有效应对挑战。心流中"技能与挑战匹配"直接满足这一需求。
+3. **归属感（Relatedness）**：感到与他人有意义的联结。虽然心流中个体暂时"失去自我意识"，但事后的分享和社会认同强化了归属需求。
+
+1. **Autonomy**: Feeling that behavior is voluntarily chosen, not coerced. The primary condition for flow is the individual's voluntary choice to engage.
+2. **Competence**: Feeling capable of effectively meeting challenges. The "skill-challenge balance" in flow directly satisfies this need.
+3. **Relatedness**: Feeling meaningfully connected to others. Although individuals temporarily "lose self-consciousness" during flow, subsequent sharing and social recognition reinforce the relatedness need.
+
+### 外在奖赏的"挤出效应" / The "Crowding Out" Effect of External Rewards
+
+米哈里的一个关键洞见是：**过度的外在奖赏会削弱内在动机**。当一个原本因热爱而从事的活动被附加了外在奖赏（如金钱、排名），个体的注意力会从活动本身转移到奖赏上，心流条件被破坏。
+
+这一现象在心理学中被称为"过度合理化效应"（overjustification effect, Lepper, Greene & Nisbett, 1973）：当外在理由足以解释行为时，个体会减少对内在理由的归因。
+
+A key insight from Csikszentmihalyi: **excessive external rewards can undermine intrinsic motivation**. When an activity originally pursued for love is attached to external rewards (money, rankings), the individual's attention shifts from the activity to the reward, disrupting flow conditions.
+
+This phenomenon is known in psychology as the "overjustification effect" (Lepper, Greene & Nisbett, 1973): when external reasons sufficiently explain behavior, individuals reduce their attribution to intrinsic reasons.
+
+---
+
+## 发展脉络 / Development
+
+### 动机心理学的演变 / Evolution of Motivational Psychology
+
+内在动机概念的发展经历了几个重要阶段：
+
+The development of the intrinsic motivation concept has gone through several important stages:
+
+- **1940s-50s 驱力理论**（Drive Theory, Hull）：行为由生理驱力（饥、渴、性）驱动。无法解释"为什么人攀岩、下棋"这类没有明显生理回报的行为。
+- **1950s 内在动机萌芽**：White（1959）提出"效能动机"（effectance motivation）——人天生有与环境有效互动的需要。Berlyne（1960）提出"认识性好奇心"（epistemic curiosity）。
+- **1960s-70s 认知评价理论**：Deci（1971）的实验证明外在奖赏可以削弱内在动机。Csikszentmihalyi（1975）通过"自带目的活动"概念丰富了内在动机的体验描述。
+- **1980s-90s 自我决定理论整合**：Deci & Ryan（1985）提出SDT，将内在动机纳入更广泛的人类动机理论框架。
+- **2000s至今**：内在动机研究扩展到教育、组织、体育、游戏化等领域。
+
+- **1940s-50s Drive Theory** (Hull): Behavior driven by physiological drives (hunger, thirst, sex). Cannot explain "why people climb rocks, play chess" — behaviors without obvious physiological returns.
+- **1950s Intrinsic Motivation Emergence**: White (1959) proposed "effectance motivation" — humans have an innate need to interact effectively with their environment. Berlyne (1960) proposed "epistemic curiosity."
+- **1960s-70s Cognitive Evaluation Theory**: Deci (1971) experimentally demonstrated that external rewards can undermine intrinsic motivation. Csikszentmihalyi (1975) enriched the experiential description of intrinsic motivation through "autotelic activities."
+- **1980s-90s SDT Integration**: Deci & Ryan (1985) proposed SDT, embedding intrinsic motivation in a broader human motivation framework.
+- **2000s-present**: Intrinsic motivation research expanded to education, organizations, sports, gamification, and beyond.
+
+### 米哈里的独特贡献 / Csikszentmihalyi's Unique Contribution
+
+与SDT侧重于动机的认知评价机制不同，米哈里的贡献在于揭示了内在动机的**现象学体验**——即当内在动机得到充分满足时，个体在主观上经历的是什么。心流理论提供了内在动机的"目标状态"描述，使动机研究从"为什么做"扩展到"做的时候感觉如何"。
+
+Unlike SDT's focus on cognitive evaluation mechanisms of motivation, Csikszentmihalyi's contribution lies in revealing the **phenomenological experience** of intrinsic motivation — what the individual subjectively experiences when intrinsic motivation is fully satisfied. Flow theory provides a description of intrinsic motivation's "target state," expanding motivation research from "why we do" to "how it feels while doing."
+
+---
+
+## 临床应用 / Applications
+
+### 教育 / Education
+- **减少外在奖赏依赖**：避免过度使用分数、排名、物质奖赏来驱动学习，转而设计本身就有吸引力的学习任务。
+- **提供选择权**：让学生在一定范围内选择学习内容和方式，增强自主性。
+- **搭建脚手架**：通过适当的帮助使学生保持在心流通道中，维持胜任感。
+
+- **Reducing External Reward Dependence**: Avoid overusing grades, rankings, and material rewards to drive learning; instead, design inherently engaging tasks.
+- **Providing Choice**: Let students choose learning content and methods within bounds, enhancing autonomy.
+- **Scaffolding**: Provide appropriate support to keep students in the flow channel, maintaining competence.
+
+### 组织管理 / Organizational Management
+- **工作丰富化**（Job Enrichment）：增加工作的自主性、完整性和反馈性。
+- **内在激励文化**：强调工作意义和成长机会，而非仅仅依赖绩效奖金。
+- **20%时间政策**：如Google允许员工用20%的工作时间从事自选项目，本质上是保护内在动机的制度设计。
+
+- **Job Enrichment**: Increasing work autonomy, task identity, and feedback.
+- **Intrinsic Motivation Culture**: Emphasizing work meaning and growth opportunities rather than solely relying on performance bonuses.
+- **20% Time Policies**: Like Google allowing employees to spend 20% of work time on self-chosen projects — essentially institutional designs protecting intrinsic motivation.
+
+### 游戏化设计 / Gamification Design
+游戏化的核心挑战是如何在不破坏内在动机的前提下，使用外在激励（积分、徽章、排行榜）引导新手参与。最佳实践是让外在激励作为"脚手架"，随着用户技能提升和内在动机增强，逐步淡出。
+
+The core challenge of gamification is how to use extrinsic incentives (points, badges, leaderboards) to guide novice engagement without undermining intrinsic motivation. Best practice treats extrinsic incentives as "scaffolding," gradually fading as user skills improve and intrinsic motivation strengthens.
+
+---
+
+## 关联概念 / Related Concepts
+
+- [心流 Flow](flow.md) — 内在动机充分满足时的体验状态 / The experiential state when intrinsic motivation is fully satisfied
+- [自带目的人格 Autotelic Personality](autotelic-personality.md) — 强内在动机倾向的人格特质 / Personality trait of strong intrinsic motivation tendency
+- [最优体验 Optimal Experience](optimal-experience.md) — 内在动机驱动的行为所追求的体验 / The experience pursued by intrinsically motivated behavior
+- [创造力 Creativity](creativity.md) — 内在动机是创造力的关键预测因子 / Intrinsic motivation is a key predictor of creativity
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**庄子"无用之用"**：庄子笔下的栎社树因为"无用"而得以保全生命，暗示真正的价值不在外在功用而在内在生命力。这与内在动机的核心洞见一致：最持久的力量来自活动本身的自足性，而非外在目的的驱动。
+
+**Zhuangzi's "Usefulness of the Useless"**: The oak tree in Zhuangzi's parable preserves its life precisely because of its "uselessness," suggesting that true value lies not in external utility but in intrinsic vitality. This aligns with intrinsic motivation's core insight: the most enduring force comes from the activity's self-sufficiency, not from external purpose.
+
+**印度教"无执行动"**（Nishkama Karma）：《薄伽梵歌》中克里希那教导阿周那"行动而不执取结果"——做应该做的事，但不被果报所驱动。这与内在动机有深层的哲学共鸣：两者都主张将注意力从结果转回到行动本身。不同之处在于，《薄伽梵歌》的框架是宇宙论和义务论的，而米哈里的框架是心理学的。
+
+**Hindu "Action without Attachment"** (Nishkama Karma): In the *Bhagavad Gita*, Krishna teaches Arjuna to "act without attachment to results" — do what should be done, but not driven by rewards. This shares deep philosophical resonance with intrinsic motivation: both advocate shifting attention from results back to the action itself. The difference lies in the framework: the Gita's is cosmological and deontological, while Csikszentmihalyi's is psychological.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Csikszentmihalyi, M. (1975). *Beyond Boredom and Anxiety*. Jossey-Bass. — 自带目的活动与内在动机的原始研究
+- Deci, E.L. & Ryan, R.M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum. — SDT的经典著作
+- Ryan, R.M. & Deci, E.L. (2000). "Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions." *Contemporary Educational Psychology*. — 动机理论的当代综述
+- Lepper, M.R., Greene, D. & Nisbett, R.E. (1973). "Undermining Children's Intrinsic Interest with Extrinsic Reward." *Journal of Personality and Social Psychology*. — 过度合理化效应的经典实验
+- Pink, D.H. (2009). *Drive: The Surprising Truth About What Motivates Us*. Riverhead Books. — 内在动机的大众读物

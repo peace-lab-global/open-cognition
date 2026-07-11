@@ -1,0 +1,73 @@
+---
+id: gandhi-reading-list
+title: 甘地进阶书单 · Gandhi Reading List
+type: reading-list
+domain: ethics-politics
+thinker: gandhi
+school: nonviolent-resistance
+---
+
+# 甘地系统阅读指南 / Gandhi Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Gandhi: A Very Short Introduction* (2001) | Bhikhu Parekh | 牛津通识读本，简明精要 |
+| *Mahatma Gandhi: A Biography* (2007) | B.R. Nanda | 学术性传记 |
+| *Gandhi Before India* (2013) | Ramachandra Guha | 聚焦南非时期 |
+| *Gandhi: The Years That Changed the World* (2018) | Ramachandra Guha | 印度时期传记 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《印度自治》（Hind Swaraj） | 1909 | 西方文明批判；手段与目的；精神自治 |
+| 《自传》（An Autobiography） | 1927-29 | 真理实验；精神成长；brahmacharya |
+| 《建设性纲领》 | 1941 | 社会重建蓝图；khadi；教育 |
+| 《食盐进军演讲》 | 1930 | 公民不服从的原则和实践 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《南非萨提亚格拉哈史》 | 1928 | 非暴力抗争的策略分析 |
+| 《退出印度演讲》 | 1942 | 最强硬的政治立场 |
+| 《致希特勒的信》 | 1939/1940 | 非暴力原则的极限考验 |
+| 与泰戈尔的通信 | 1920s | 关于民族主义和精神自由的辩论 |
+| 与阿姆倍德卡尔的辩论 | 1932 | 种姓制度与"不可接触者"权利 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Gandhi: Prisoner of Hope* (1989) | Judith M. Brown | 甘地的精神世界 |
+| *Gandhi's Passion* (2001) | Stanley Wolpert | 心理传记学角度 |
+| *Great Soul: Mahatma Gandhi and His Struggle with India* (2011) | Joseph Lelyveld | 基于最新档案的传记 |
+| *The Cambridge Companion to Gandhi* (2012) | Judith M. Brown & Anthony Parel (eds.) | 学术论文集 |
+| *Gandhi: A Political and Spiritual Journey* (2017) | Anthony Parel | 精神与政治的统一 |
+
+## 四、比较与非暴力理论 / Comparative Studies and Nonviolence Theory
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *The Politics of Nonviolent Action* (1973) | Gene Sharp | 非暴力抗争的系统理论 |
+| *Mahatma Gandhi: Nonviolent Power in Action* (1993) | Dennis Dalton | 甘地非暴力策略的政治分析 |
+| *A Force More Powerful* (2000) | Peter Ackerman & Jack DuVall | 非暴力运动的全球史 |
+| *Stride Toward Freedom* (1958) | Martin Luther King Jr. | Satyagraha在美国的应用 |
+| *Why Civil Resistance Works* (2011) | Erica Chenoweth & Maria J. Stephan | 非暴力抗争有效性的实证研究 |
+
+## 五、中文资源 / Chinese Resources
+
+| 书目 | 说明 |
+|------|------|
+| 《甘地自传》（多种中译本） | 精神自传的经典 |
+| 《圣雄甘地》（苏莱斯特著） | 较早的中文传记 |
+| 《甘地文集》（部分中译） | 书信和演讲选编 |
+| 《非暴力抗争》相关中译 | 甘地政治理论 |
+
+## 六、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-3周）: Parekh通识读本 → 《印度自治》→ 《自传》精选章节
+**阶段二**（3-6周）: Guha传记 → 《建设性纲领》→ 食盐进军演讲 → 与泰戈尔通信
+**阶段三**（6周+）: 深度研究 → 比较研究（Sharp, Chenoweth）→ King自传 → 《甘地全集》选读

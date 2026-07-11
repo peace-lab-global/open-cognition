@@ -1,0 +1,76 @@
+# 列夫·维果茨基 · Lev Vygotsky - 生平年表 / Life Timeline
+
+> 维果茨基短暂而丰富的一生（1896–1934），按时间顺序排列。
+> Vygotsky's brief but rich life (1896–1934), arranged chronologically.
+
+## 早年生活与教育 / Early Life and Education
+
+| 年份 | 事件 |
+|------|------|
+| 1896年11月17日 | 出生于白俄罗斯奥尔沙（Orsha）一个中产阶级犹太家庭。父亲西蒙·维果茨基（Semyon Vygotsky）是银行经理，母亲塞西莉亚（Cecilia）受过良好教育。 / Born in Orsha, Belarus, into a middle-class Jewish family. Father Semyon Vygotsky was a bank manager; mother Cecilia was well-educated. |
+| 1897 | 全家迁往戈梅利（Gomel），维果茨基在此度过童年和青年时期。 / Family moved to Gomel, where Vygotsky spent his childhood and youth. |
+| 1903–1913 | 在戈梅利的男子中学就读，学业优异，对文学、戏剧和哲学表现出浓厚兴趣。 / Attended the boys' gymnasium in Gomel, excelling academically with strong interests in literature, theater, and philosophy. |
+| 1913 | 进入莫斯科大学。因犹太人入学配额限制（仅3%），通过抽签被录取。同时选修法律和历史-哲学两个专业。 / Entered Moscow University. Due to the Jewish enrollment quota (only 3%), admitted by lottery. Simultaneously studied law and history-philosophy. |
+| 1914 | 同时在莫斯科城市人民大学（Shanyavsky University）选修文学课程，接受更自由的学术教育。 / Simultaneously enrolled in literature courses at Shanyavsky University (Moscow City People's University), receiving a more liberal academic education. |
+
+## 学术起步 / Early Academic Career
+
+| 年份 | 事件 |
+|------|------|
+| 1916 | 完成关于莎士比亚《哈姆雷特》的心理分析论文——这是他对文学心理学的首次重要贡献。 / Completed psychological analysis of Shakespeare's *Hamlet* — his first significant contribution to literary psychology. |
+| 1917 | 从莫斯科大学法律系毕业。同年俄国爆发十月革命。维果茨基返回戈梅利，在中学教授文学和俄语。 / Graduated from Moscow University's law faculty. The October Revolution occurred the same year. Vygotsky returned to Gomel, teaching literature and Russian at a secondary school. |
+| 1917–1923 | 在戈梅利从事教学工作，同时广泛阅读心理学、哲学和文学批评著作。创办文学工作室和戏剧评论刊物。 / Taught in Gomel while extensively reading psychology, philosophy, and literary criticism. Founded a literary studio and theater criticism publication. |
+| 1919 | 罹患肺结核（但未因此停止工作），此病最终导致其37岁时去世。 / Contracted tuberculosis (though he did not stop working because of it), the disease that would ultimately cause his death at age 37. |
+| 1922 | 开始在戈梅利的教师培训学院讲授心理学和文学。 / Began lecturing on psychology and literature at the Gomel Teacher Training Institute. |
+
+## 转向心理学 / Turning to Psychology
+
+| 年份 | 事件 |
+|------|------|
+| 1923 | 在第二届全俄精神神经学大会上发表题为"反射学和心理学研究方法"的演讲，引起学界注意。 / Delivered a speech titled "Reflexology and Psychological Research Methods" at the Second All-Russian Psychoneurological Congress, attracting scholarly attention. |
+| 1924 | **关键转折**：在同一大会上发表关于意识问题的演讲，深刻批判当时心理学的方法论危机。科尔尼洛夫（Konstantin Kornilov）邀请他加入莫斯科心理研究所。 / **Pivotal moment**: Delivered a speech on the problem of consciousness at the same congress, deeply critiquing the methodological crisis in contemporary psychology. Konstantin Kornilov invited him to join the Moscow Institute of Psychology. |
+| 1924 | 迁往莫斯科，开始在莫斯科心理研究所工作。同时开始在多个机构任教（莫斯科第二国立大学、教育人民委员部等）。 / Moved to Moscow, began working at the Moscow Institute of Psychology. Simultaneously began teaching at multiple institutions (Moscow Second State University, People's Commissariat for Education, etc.). |
+| 1924 | 与亚历山大·卢里亚（Alexander Luria）和阿列克谢·列昂季耶夫（Alexei Leontiev）开始合作，形成日后著名的"三人组"（the troika）。 / Began collaborating with Alexander Luria and Alexei Leontiev, forming what would become the famous "troika." |
+| 1925 | 完成博士论文《艺术心理学》（*Psychology of Art*），但因肺结核住院未能按时答辩。 / Completed doctoral dissertation *Psychology of Art*, but could not defend it on time due to tuberculosis hospitalization. |
+| 1925 | 被正式授予博士学位（无需答辩，基于已有学术贡献）。同年，女儿吉塔（Gita）出生。 / Officially awarded doctoral degree (without defense, based on existing scholarly contributions). Daughter Gita born the same year. |
+
+## 理论建构的黄金期 / Golden Period of Theory Construction
+
+| 年份 | 事件 |
+|------|------|
+| 1926 | 出版《教育心理学》（*Pedagogical Psychology*），系统探讨教学与发展的关系。 / Published *Pedagogical Psychology*, systematically exploring the relationship between teaching and development. |
+| 1927 | 撰写重要论文《心理学的历史意义》（*The Historical Meaning of the Crisis in Psychology*），系统诊断心理学的根本危机并提出文化-历史方案。 / Wrote the important essay *The Historical Meaning of the Crisis in Psychology*, systematically diagnosing psychology's fundamental crisis and proposing the cultural-historical program. |
+| 1928 | 发表《儿童的文化发展问题》（*The Problem of the Cultural Development of the Child*），首次系统阐述文化-历史理论的核心命题。 / Published *The Problem of the Cultural Development of the Child*, first systematic articulation of cultural-historical theory's core propositions. |
+| 1929 | 发表《心理学中的工具方法》（*The Instrumental Method in Psychology*）和《具体的人类心理学》（*Concrete Human Psychology*），系统发展中介理论。 / Published *The Instrumental Method in Psychology* and *Concrete Human Psychology*, systematically developing mediation theory. |
+| 1929 | 开始在列宁格勒赫尔岑师范学院建立研究实验室。 / Began establishing a research laboratory at the Herzen Pedagogical Institute in Leningrad. |
+| 1930 | 与卢里亚合著《行为历史研究》（*Studies on the History of Behavior*），从进化角度探讨人类行为的发展。 / Co-authored *Studies on the History of Behavior* with Luria, exploring human behavioral development from an evolutionary perspective. |
+| 1930 | 发表《工具与符号》（*Tool and Sign in the Development of the Child*），系统区分技术工具和心理工具。 / Published *Tool and Sign in the Development of the Child*, systematically distinguishing technical and psychological tools. |
+| 1931 | 出版重要著作《高级心理机能发展史》（*The History of the Development of Higher Mental Functions*），系统建立文化-历史心理学的理论体系。 / Published the major work *The History of the Development of Higher Mental Functions*, systematically establishing the theoretical framework of cultural-historical psychology. |
+| 1931 | 卢里亚前往中亚进行文化比较研究（乌兹别克远征），为文化-历史理论提供了关键的跨文化实证证据。 / Luria traveled to Central Asia for cultural comparative research (the Uzbek Expedition), providing key cross-cultural empirical evidence for cultural-historical theory. |
+
+## 晚期深化与去世 / Late Deepening and Death
+
+| 年份 | 事件 |
+|------|------|
+| 1932 | 研究心理机能的病理学——语言障碍、精神分裂症中的思维紊乱。发表关于高级心理机能发展与衰退的论文。 / Researched pathology of mental functions — speech disorders, thought disturbances in schizophrenia. Published papers on development and disintegration of higher mental functions. |
+| 1933 | 发表关于游戏的著名演讲《游戏及其在儿童心理发展中的角色》（*Play and Its Role in the Mental Development of the Child*），提出游戏是幼儿ZPD的核心活动场所。 / Delivered the famous lecture *Play and Its Role in the Mental Development of the Child*, proposing that play is the core activity space for children's ZPD. |
+| 1933 | 肺结核病情恶化，但仍坚持高强度工作。 / Tuberculosis worsened, but continued intensive work. |
+| 1934年初 | 完成《思维与语言》（*Мышление и речь*）——他最重要、最成熟的著作。系统阐述了思维与语言的关系、内部言语、ZPD、概念形成等核心理论。 / Completed *Thought and Language* — his most important and mature work. Systematically articulated the relationship between thought and language, inner speech, ZPD, concept formation, and other core theories. |
+| 1934年6月11日 | 因肺结核在莫斯科去世，年仅37岁。《思维与语言》在其去世后不久出版。 / Died of tuberculosis in Moscow at the age of 37. *Thought and Language* was published shortly after his death. |
+
+## 身后影响 / Posthumous Legacy
+
+| 年份 | 事件 |
+|------|------|
+| 1936 | 苏联教育学决议批判"儿童学"（pedology），维果茨基的著作被禁止出版。 / Soviet education decree criticized "pedology," banning publication of Vygotsky's works. |
+| 1936–1956 | **"沉默的二十年"**：维果茨基的学说在苏联被压制。 / **"The Silent Twenty Years"**: Vygotsky's theories suppressed in the Soviet Union. |
+| 1953 | 斯大林去世，政治环境开始松动。 / Stalin died; political climate began to thaw. |
+| 1956 | 赫鲁晓夫"解冻"，维果茨基选集（*Избранные психологические исследования*）出版。 / Khrushchev "Thaw"; Vygotsky's *Selected Psychological Studies* published. |
+| 1962 | 《思维与语言》英文版（E. Hanfmann & G. Vakar, Trans.）由MIT Press出版。维果茨基的思想开始进入西方学界。 / English translation of *Thought and Language* published by MIT Press. Vygotsky's ideas began entering Western scholarship. |
+| 1978 | *Mind in Society* 英文版出版（M. Cole et al., Eds.），引发西方教育心理学的"维果茨基复兴"。 / English edition of *Mind in Society* published, triggering the "Vygotsky Revival" in Western educational psychology. |
+| 1980s–1990s | 英文版全集（*The Collected Works*）陆续出版（6卷）。维果茨基成为教育心理学和文化心理学领域最有影响力的思想家之一。 / English *Collected Works* published in stages (6 volumes). Vygotsky became one of the most influential thinkers in educational psychology and cultural psychology. |
+| 2000s至今 | 文化-历史活动理论（CHAT）在组织研究、人机交互、教育技术等领域持续发展。"维果茨基研究"成为一个国际性学术领域。 / Cultural-Historical Activity Theory (CHAT) continues to develop in organizational research, HCI, educational technology, and other fields. "Vygotsky Studies" has become an international academic field. |
+
+---
+
+> **相关条目 / See Also**: [README.md](README.md) · [works.md](works.md) · [reading-list.md](reading-list.md)

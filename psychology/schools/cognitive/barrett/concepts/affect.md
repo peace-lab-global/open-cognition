@@ -1,0 +1,189 @@
+---
+id: barrett-affect
+title: "情感 / 身体预算 · Affect / Body Budget"
+type: concept
+domain: psychology
+school: cognitive
+thinker: barrett
+tags:
+  - affect
+  - body-budget
+  - allostasis
+  - interoception
+  - valence
+  - arousal
+  - circumplex-model
+cross-refs:
+  - id: barrett
+    relation: thinker
+  - id: barrett-theory-of-constructed-emotion
+    relation: 理论基础
+  - id: barrett-emotional-granularity
+    relation: 应用
+  - id: barrett-prediction
+    relation: 预测对象
+  - id: damasio
+    relation: 对话
+---
+
+# 情感 / 身体预算 · Affect / Body Budget
+
+## 一句话定义 / One-Line Definition
+
+**Affect** (情感 / 身体预算) 在巴雷特的框架中指的是身体**内感受基调** (interoceptive tone) 的持续状态 — 它存在于一个由**愉悦-不愉悦** (valence) 和**激活-平静** (arousal) 构成的二维空间中。Affect 是情绪构造的**原材料**, 但它本身**不是情绪**。它是身体这个"会计系统"对能量收支 (energy deposits and withdrawals) 的持续记录, 巴雷特因此称之为**身体预算** (body budget)。
+
+## 核心机制 / Core Mechanism
+
+### Affect 的二维空间 / The Two-Dimensional Space of Affect
+
+巴雷特继承了 James Russell 的**环状模型** (Circumplex Model), 将 affect 定位为两个基本维度的组合:
+
+**维度一: 愉悦-不愉悦 (Valence / Pleasantness)**
+- 从极度愉悦 (极度舒适、满足) 到极度不愉悦 (极度痛苦、不适)
+- 这个维度反映的是身体的**整体能量状态**: 当身体的能量需求得到满足时, 你感到愉悦; 当能量需求未被满足时, 你感到不愉悦
+
+**维度二: 激活-平静 (Arousal / Activation)**
+- 从高度激活 (兴奋、警觉、躁动) 到极度平静 (放松、困倦、无力)
+- 这个维度反映的是身体的**准备状态**: 高激活意味着身体正在调动资源准备行动; 低激活意味着身体正在保存能量
+
+这两个维度的组合产生了四个象限的基本 affect 状态:
+
+| | 高激活 | 低激活 |
+|---|---|---|
+| **愉悦** | 兴奋、热情、活力 | 平静、满足、安详 |
+| **不愉悦** | 焦虑、愤怒、恐惧 | 沮丧、疲惫、无力 |
+
+### Affect ≠ Emotion / Affect 不等于情绪
+
+这是巴雷特理论中最关键的区别之一:
+
+| | Affect (身体预算) | Emotion (情绪) |
+|---|---|---|
+| **本体论地位** | 身体的持续状态 (ongoing bodily state) | 大脑构造的事件 (constructed event) |
+| **跨文化性** | 普遍的生物基础 (universal biological basis) | 文化依赖的构造 (culture-dependent construction) |
+| **意识水平** | 通常在前意识层面 (pre-conscious) | 通常被有意识地体验 (conscious experience) |
+| **分化程度** | 连续的二维空间 (continuous 2D space) | 离散的类别 (discrete categories) |
+| **例子** | "不愉悦 + 高激活" | "愤怒" "恐惧" "兴奋" (取决于情境和概念) |
+
+同一个 affect 状态 (如 "不愉悦 + 高激活") 可以被构造为不同的情绪:
+- 在与对手对峙的情境中 → **愤怒**
+- 在面临威胁的情境中 → **恐惧**
+- 在等待重要消息的情境中 → **焦虑**
+
+Affect 是原材料, 情绪是用原材料建造的房屋。
+
+### 身体预算 (Body Budgeting) / Body Budget (Allostasis)
+
+巴雷特将 affect 理解为大脑对**身体预算** (body budget) 的"读取"。身体预算是一个比喻, 其科学基础是**稳态预期** (allostasis):
+
+**稳态 (Homeostasis)**: 身体维持内部环境的稳定 (如体温、血糖) — 在偏离后进行**反应性**调节
+
+**稳态预期 (Allostasis)**: 身体**预测性地**调节内部环境 — 在偏离发生**之前**就提前调配资源。大脑不等待血糖下降才释放能量, 而是预测到即将到来的能量需求并提前准备。
+
+**身体预算 = allostasis 的"会计系统"**:
+- **存款 (Deposits)**: 睡眠、营养、运动、社会支持、积极体验 — 补充身体资源
+- **取款 (Withdrawals)**: 压力、工作、社交冲突、身体疾病、睡眠不足 — 消耗身体资源
+- **透支 (Overdraft)**: 当取款持续超过存款, 身体预算透支, affect 偏向不愉悦-低激活 (疲惫、沮丧)
+
+### 内感受 (Interoception) / Interoception
+
+内感受是大脑对身体内部状态的感知, 是 affect 的**神经基础**。内感受信号来自:
+
+- **心血管系统**: 心率、血压
+- **呼吸系统**: 呼吸频率和深度
+- **消化系统**: 胃部感觉、肠道状态
+- **内分泌系统**: 激素水平 (cortisol, adrenaline, etc.)
+- **免疫系统**: 炎症状态
+- **肌肉骨骼系统**: 肌肉张力
+
+大脑中的**内感受网络** (interoceptive network) — 包括脑岛 (insula)、前扣带回 (anterior cingulate cortex, ACC)、内侧前额叶皮层 (medial prefrontal cortex) — 持续接收和处理这些信号, 生成 affect 的持续"流"。
+
+## 发展脉络 / Development
+
+### Affect 概念的思想谱系 / Intellectual Genealogy
+
+- **Wilhelm Wundt (1896)**: 提出情感的三维理论 (愉快-不愉快、紧张-松弛、兴奋-平静)
+- **William James (1884)**: 情绪是身体变化的感知 — 身体先于情绪
+- **James Russell (1980)**: 环状模型 (Circumplex Model) — affect 的二维空间
+- **Antonio Damasio (1999)**: 躯体标记假说 (Somatic Marker Hypothesis) — 身体信号指导决策
+- **Barrett & Russell (1999)**: 将 affect 定位为情绪构造的底层维度
+- **Barrett (2017)**: 将 affect 发展为"身体预算"概念, 强调 allostasis 的作用
+
+### Barrett vs Damasio / Barrett vs Damasio
+
+两者都强调身体在情绪中的核心作用, 但有关键分歧:
+
+| | Barrett | Damasio |
+|---|---|---|
+| **身体信号的作用** | 原材料 (需要被概念构造才能成为情绪) | 直接驱动 (躯体标记直接引导决策和情绪) |
+| **情绪的本体论** | 构造的事件 (constructed events) | 身体的反应模式 (bodily response patterns) |
+| **概念的必要性** | 情绪概念是构造情绪的必要条件 | 概念不是必要的, 身体反应本身就可以构成情绪 |
+| **与基本情绪论的关系** | 彻底否定 | 部分兼容 |
+
+## 临床应用 / Clinical Applications
+
+### 1. 身体预算与心理健康 / Body Budget and Mental Health
+
+身体预算的长期透支是多种心理问题的**底层原因**:
+
+- **慢性压力**: 持续的身体预算取款 (高皮质醇、低睡眠质量), 导致 affect 持续偏向不愉悦
+- **倦怠 (Burnout)**: 身体预算的极端透支, affect 进入"不愉悦 + 低激活"象限 (疲惫、无力、绝望)
+- **失眠**: 身体预算最重要的"存款"机制被破坏, 形成恶性循环
+
+### 2. 修复身体预算的实践 / Practices for Repairing Body Budget
+
+巴雷特在 *Seven and a Half Lessons About the Brain* 中强调的身体预算修复策略:
+
+- **睡眠**: 最强大的"存款" — 睡眠不足一晚就可以显著改变 affect 基调
+- **营养**: 均衡饮食维持血糖稳定, 血糖波动直接影响 affect 的激活维度
+- **运动**: 短期增加激活 (可能不愉悦), 但长期提升身体预算的"总额"
+- **社会连接**: 积极的社会互动是强大的"存款" — 催产素释放降低皮质醇
+- **自然环境**: 在自然环境中度过时间被证明可以降低皮质醇和改善 affect
+- **正念/冥想**: 通过增强内感受觉察, 可以更早地检测到身体预算的透支
+
+### 3. Affect 在心理治疗中的作用 / Affect in Psychotherapy
+
+- **躯体心理治疗 (Somatic Psychotherapy)**: 直接关注身体感觉和 affect 状态, 而非只关注情绪标签
+- **情绪聚焦疗法 (Emotion-Focused Therapy)**: 帮助患者觉察底层 affect 的微妙变化, 从而在情绪构造过程中拥有更多的选择空间
+- **身体预算审计**: 帮助患者系统地评估自己的"存款"和"取款", 识别透支的来源
+
+## 关联概念 / Related Concepts
+
+- [情绪构造论](theory-of-constructed-emotion.md) — affect 是构造的原材料
+- [情绪粒度](emotional-granularity.md) — 高粒度 = 对 affect 更精细的分化
+- [预测与主动推断](prediction.md) — 大脑对内感受 (affect 的基础) 的预测是情绪构造的核心
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教受蕴 (Vedanā) 的深层平行
+
+佛教五蕴 (pañca-skandha) 中的**受蕴** (vedanā) 与 affect 概念高度对应:
+
+| 受蕴 (Vedanā) | Affect (身体预算) |
+|---|---|
+| 乐受 (sukha-vedanā) | 愉悦 affect |
+| 苦受 (duḥkha-vedanā) | 不愉悦 affect |
+| 不苦不乐受 (adukkham-asukha-vedanā) | 中性 affect |
+| 受蕴是心所之一, 伴随一切心识 | affect 是持续的背景状态, 伴随一切体验 |
+| 受缘爱 (vedanā-paccayā taṇhā) | affect 驱趋行为 (趋乐避苦) |
+
+关键区别: 佛教将受蕴视为**需要被超越**的对象 (通过正念觉察其无常性而不再执着); 巴雷特将 affect 视为**需要被管理**的资源 (通过身体预算的修复来改善心理健康)。
+
+### 与中医"气"的对话
+
+中医的"气"概念 — 作为身体能量流通的基础 — 可以与"身体预算"进行有趣的对话: 气的充盈与亏虚 ≈ 身体预算的存款与透支; 气的调畅与郁滞 ≈ affect 的激活维度的高低。但中医的气是一个更加整体性和功能性的概念, 不完全等同于西方的内感受信号。
+
+## 常见误读 / Common Misreadings
+
+- **误读**: "Affect = 情绪" → **正解**: Affect 是情绪构造的**原材料**, 但本身不是情绪。Affect 是连续的、维度性的、跨文化普遍的; 情绪是离散的、类别性的、文化依赖的。
+- **误读**: "身体预算 = 简单的'吃好睡好'" → **正解**: 身体预算是一个复杂的**预测性调节系统** (allostasis), 涉及大脑对身体能量需求的持续预测和提前调配。它不仅是"生活方式建议", 而是理解心理健康的神经生物学框架。
+- **误读**: "Affect 完全由身体决定, 与认知无关" → **正解**: Affect 虽然是身体的内感受基调, 但大脑的**预测**会调节内感受信号的处理。你的信念、期待和情境评估会影响你的 affect 状态。Affect 是身体和大脑预测的**交互产物**。
+
+## 进阶阅读 / Further Reading
+
+- Barrett, L. F., & Russell, J. A., "The structure of current affect" (1999)
+- Barrett, L. F., *Seven and a Half Lessons About the Brain* (2020), Lesson 3
+- Russell, J. A., "A circumplex model of affect" (1980)
+- Sterling, P., *Allostasis: A Theory of Predictive Regulation* (2012)
+- Craig, A. D., "How do you feel? Interoception: The sense of the physiological condition of the body" (2002)
+- Damasio, A., *The Feeling of What Happens* (1999) — 对照阅读: 躯体标记假说

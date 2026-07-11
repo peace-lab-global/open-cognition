@@ -1,0 +1,43 @@
+---
+id: clark-extended-mind
+title: 延展心智 · Extended Mind
+type: concept
+thinker: clark
+domain: philosophy
+school: analytic
+tags: [extended-cognition, environment, tools, 4E]
+---
+# 延展心智 · Extended Mind
+
+## 概念定位 / Conceptual Position
+与Chalmers合著的经典论文（1998）论证：认知过程不限于大脑内部——笔记本、手机、环境结构都可以是认知的组成部分。
+
+Classic 1998 paper with Chalmers: cognitive processes are not limited to the brain — notebooks, phones, environmental structures can be cognitive components.
+
+## 核心论述 / Core Argument
+
+### Otto与Inga / Otto and Inga
+- Inga从生物记忆中获取博物馆地址（内部认知）
+- Otto从笔记本中获取博物馆地址（外部认知）
+- 如果Otto的笔记本满足耦合、信任、可用性条件，它与Inga的生物记忆在功能上等价
+
+If Otto's notebook satisfies coupling, trust, and accessibility conditions, it is functionally equivalent to Inga's biological memory.
+
+### 耦合-信任标准 / Coupling-Trust Criteria
+外部过程是认知的一部分，当它：1) 被可靠地使用；2) 信息被自动信任；3) 信息容易获取。
+
+External processes are cognitive when: 1) reliably used; 2) automatically trusted; 3) easily accessible.
+
+## 哲学意义 / Philosophical Significance
+当代心灵哲学引用率最高的论文之一，开创了4E认知运动。
+
+## 东西方对话 / East-West Dialogue
+### 与华严"心不分离于境" / With Huayan's "Mind Not Separate from Environment"
+华严宗主张"心佛众生三无差别"——心不能脱离环境被理解。延展心智论同样主张心智不能脱离身体和环境。但Clark从功能主义论证，华严从缘起观论证。
+
+Huayan Buddhism holds mind cannot be understood apart from environment. Extended mind similarly argues mind cannot be understood apart from body and environment. Difference: Clark argues from functionalism; Huayan from dependent origination.
+
+## 相关概念 / Related Concepts
+- [预测加工 Predictive Processing](predictive-processing.md)
+- [认知脚手架 Scaffolding](scaffolding.md)
+- [克拉克主页](../README.md)

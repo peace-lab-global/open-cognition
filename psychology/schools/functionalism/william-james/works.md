@@ -1,0 +1,43 @@
+---
+id: william-james-works
+title: "詹姆斯著作年表 · William James Works Chronology"
+type: works
+thinker: james-william
+---
+
+# 詹姆斯著作年表 · William James Works Chronology
+
+## 主要著作 / Major Works
+
+| 年份 / Year | 著作 / Work | 出版社 / Publisher | 核心贡献 / Core Contribution |
+|:---:|:---|:---|:---|
+| 1890 | *The Principles of Psychology*（《心理学原理》，两卷本） | Henry Holt | 美国心理学奠基之作；系统阐述意识流、自我、习惯、情绪、意志等核心概念 / Founding work of American psychology; systematic exposition of stream of consciousness, self, habit, emotion, will |
+| 1892 | *Psychology: Briefer Course*（《心理学简编》） | Henry Holt | 《心理学原理》的精简版，广泛用于大学教学 / Condensed version of *The Principles*, widely used in university teaching |
+| 1897 | *The Will to Believe and Other Essays in Popular Philosophy*（《信仰意志》） | Longmans, Green | 阐述在证据不足时信仰选择的合法性；实用主义认识论的早期表述 / Legitimacy of belief choice when evidence is insufficient; early pragmatist epistemology |
+| 1899 | *Talks to Teachers on Psychology and to Students on Some of Life's Ideals*（《与教师谈心理学》） | Henry Holt | 将心理学原理应用于教育实践；论述习惯培养与注意力训练 / Applied psychological principles to education; discussed habit cultivation and attention training |
+| 1902 | *The Varieties of Religious Experience*（《宗教经验种种》） | Longmans, Green | 宗教心理学经典；区分健康心灵与病态灵魂；分析神秘经验的四个特征 / Classic of psychology of religion; distinguished healthy-minded from sick soul |
+| 1907 | *Pragmatism: A New Name for Some Old Ways of Thinking*（《实用主义》） | Longmans, Green | 实用主义哲学的系统阐述；提出实用主义方法与真理的兑现价值 / Systematic exposition of pragmatism; proposed the pragmatic method and cash-value of truth |
+| 1909 | *A Pluralistic Universe*（《多元的宇宙》） | Longmans, Green | 多元论形而上学的系统阐述；反对黑格尔式绝对唯心论 / Systematic exposition of pluralistic metaphysics; opposing Hegelian absolute idealism |
+| 1909 | *The Meaning of Truth: A Sequel to "Pragmatism"*（《真理的意义》） | Longmans, Green | 回应实用主义真理观的批评；发展实用主义的实在论立场 / Responded to criticisms of pragmatist theory of truth |
+| 1911 | *Some Problems of Philosophy*（《哲学的若干问题》） | Longmans, Green | 遗著；探讨知觉、变化、一元论与多元论等哲学问题 / Posthumous; exploring perception, change, monism, and pluralism |
+| 1912 | *Essays in Radical Empiricism*（《激进经验主义论文集》） | Longmans, Green | 遗著（由R.B. Perry编辑）；以"纯粹经验"超越主客二元论 / Posthumous (edited by R.B. Perry); transcending dualism through "pure experience" |
+
+## 重要论文 / Key Essays
+
+- James, W. (1884). "What Is an Emotion?" *Mind*, 9(34), 188-205. — 詹姆斯-兰格情绪理论的原始阐述
+- James, W. (1884). "On Some Omissions of Introspective Psychology." *Mind*, 9(33), 1-26. — "意识流"概念的早期表述
+- James, W. (1896). "The Will to Believe." — 同名文集的核心论文
+- James, W. (1904). "Does 'Consciousness' Exist?" *Journal of Philosophy, Psychology and Scientific Methods*, 1(18), 477-491. — 质疑将意识视为实体的传统观点
+- James, W. (1904). "A World of Pure Experience." *Journal of Philosophy, Psychology and Scientific Methods*, 1(20), 533-543. — 激进经验主义的核心论文
+- James, W. (1905). "The Place of Affectional Facts in a Flatly Spiritualistic Universe." — 宇宙论与经验主义
+
+## 吉福德讲座 / Gifford Lectures
+
+- 1901–1902年在爱丁堡大学讲授吉福德讲座，后整理出版为 *The Varieties of Religious Experience*（1902）。这一系列讲座奠定了宗教心理学作为独立学科的基础。 / Delivered Gifford Lectures at the University of Edinburgh, later published as *The Varieties of Religious Experience* (1902). These lectures established the psychology of religion as an independent discipline.
+
+## 编辑与合集 / Editions and Collections
+
+- McDermott, J.J. (Ed.). *The Writings of William James: A Comprehensive Edition*. Chicago: University of Chicago Press, 1977. — 最全面的文集
+- Burkhardt, F., Bowers, F., & Skrupskelis, I.K. (Eds.). *The Works of William James* (19 vols.). Cambridge, MA: Harvard University Press, 1975–1988. — 学术标准版
+- Myers, G.E. (Ed.). *William James: Writings 1878–1899*. New York: Library of America, 1992.
+- McDermott, J.J. (Ed.). *William James: Writings 1902–1910*. New York: Library of America, 1992.

@@ -1,0 +1,41 @@
+---
+id: santideva-reading-list
+title: "寂天进阶阅读 Śāntideva: Annotated Reading List"
+type: reading-list
+parent: santideva
+---
+
+# 寂天进阶阅读 / Reading List for Śāntideva
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **Śāntideva**, *Bodhicaryāvatāra*
+  - Stephen Batchelor 译, *A Guide to the Bodhisattva's Way of Life* (Tharpa, 1979)
+  - Kate Crosby & Andrew Skilton 译, *The Bodhicaryāvatāra* (OUP, 1995) — 学术性最佳
+  - 如石法师译《入菩萨行论》— 中文最佳译本
+
+- **Paul Williams**, *The Bodhicaryāvatāra: A Guide* (OUP, 2024)
+  - 最新、最全面的哲学导读
+
+### 推荐 Recommended
+
+- **Dalai Lama**, *Practicing Wisdom: The Perfection of Shantideva's Bodhisattva Way* (Wisdom, 2004)
+  - 达赖喇嘛对第九品的讲授
+
+## 研究专著 / Scholarly Monographs
+
+- **Paul Williams**, *Altruism and Reality* (Routledge, 1998) — 对寂天利他主义的哲学分析
+- **Jay Garfield**, *Engaging Buddhism* (OUP, 2015) — 寂天与当代哲学的对话
+- **Charles Goodman**, *Consequences of Compassion* (OUP, 2009) — 佛教伦理学与功利主义比较
+
+## 入门读物 / Introductory
+
+- **达赖喇嘛**, *《入菩萨行论讲授》* — 现代最权威讲授
+- **Tenzin Wangyal Rinpoche**, *Awakening the Sacred Body* — 密法修行视角
+
+## 跨学科阅读 / Interdisciplinary
+
+- **Peter Singer**, *The Expanding Circle* — 利他主义哲学与寂天的对话
+- **Martha Nussbaum**, *Upheavals of Thought* — 情感哲学与忍辱波罗蜜

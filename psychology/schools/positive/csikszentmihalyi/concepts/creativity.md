@@ -1,0 +1,155 @@
+---
+id: psychology.positive.csikszentmihalyi.concept.creativity
+title: "创造力 · Creativity"
+type: concept
+parent: psychology.positive.csikszentmihalyi
+tags: [creativity, systems-model, domain, field, innovation]
+---
+
+# 创造力 · Creativity
+
+> "Creativity is any act, idea, or product that changes an existing domain, or that transforms an existing domain into a new one."
+> "创造力是任何改变现有领域、或将现有领域转化为新领域的行动、思想或产品。"
+> —— Mihaly Csikszentmihalyi
+
+---
+
+## 定义 / Definition
+
+在米哈里的理论中，**创造力**不是纯粹的个人天赋或灵光乍现，而是一个由三个子系统构成的**社会-认知系统**的产物。只有当**个人**（person）在某一**领域**（domain）中产生新的变异，并被该领域的**学界/业界**（field）所认可和采纳时，创造力才真正成立。
+
+In Csikszentmihalyi's theory, **creativity** is not pure individual talent or a sudden flash of insight, but the product of a **socio-cognitive system** composed of three subsystems. Creativity truly occurs only when a **person** generates a novel variation within a **domain**, and that variation is recognized and adopted by the **field** of that domain.
+
+---
+
+## 系统模型的三要素 / Three Elements of the Systems Model
+
+### 1. 领域（Domain）/ The Domain
+领域是一套有组织的符号规则和程序——如数学、音乐、物理学、绘画等。它为个人提供可以学习和操作的知识基础。没有领域，创造力就没有材料可以操作。
+
+A domain is an organized set of symbolic rules and procedures — such as mathematics, music, physics, or painting. It provides the individual with a knowledge base to learn and manipulate. Without a domain, creativity has no material to operate on.
+
+### 2. 学界/业界（Field）/ The Field
+学界是由该领域的专家、评审者、编辑、策展人等"守门人"组成的社会群体。他们决定哪些新变异值得被纳入领域。学界既可以是创新的推动者，也可以是保守的阻碍者。
+
+The field is the social group of "gatekeepers" — experts, reviewers, editors, curators — in the domain. They decide which novel variations are worth incorporating. The field can be either a promoter of innovation or a conservative obstacle.
+
+### 3. 个人（Person）/ The Person
+个人利用领域中的知识产生变异（variation），这些变异可能是对现有规则的新组合、突破或重构。个人特质——包括智力、人格、动机、以及成长环境——都影响变异的产生。
+
+The person uses knowledge from the domain to generate variations, which may be new combinations, breakthroughs, or reconstructions of existing rules. Personal traits — including intelligence, personality, motivation, and developmental environment — all influence the generation of variations.
+
+```
+         个人 (Person)
+        产生变异 / generates variation
+         ↓                  ↑
+      领域 (Domain) ←── 学界 (Field)
+    提供知识 /       筛选采纳 /
+    provides knowledge    selects and adopts
+```
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 创造力的五个阶段 / Five Stages of the Creative Process
+
+米哈里基于对91位杰出人物的深度访谈，归纳出创造性过程的五个阶段，与沃拉斯（Wallas, 1926）的经典模型有继承关系：
+
+Based on in-depth interviews with 91 eminent individuals, Csikszentmihalyi identified five stages of the creative process, with lineage from Wallas's (1926) classic model:
+
+1. **准备期（Preparation）**：在领域中积累大量知识和经验，沉浸于问题之中。
+2. **酝酿期（Incubation）**：意识层面暂时放下问题，潜意识继续加工。
+3. **顿悟期（Insight / "Aha!"）**：新的联结突然浮现，"灵光一闪"。
+4. **评估期（Evaluation）**：判断这个想法是否真正有价值，是否值得继续。
+5. **精修期（Elaboration）**：将想法具体化、完善化——"创造力99%是汗水"。
+
+1. **Preparation**: Accumulating extensive knowledge and experience in the domain, immersing in the problem.
+2. **Incubation**: Consciously setting aside the problem temporarily while the unconscious continues processing.
+3. **Insight ("Aha!")**: New connections suddenly emerge — "flash of inspiration."
+4. **Evaluation**: Judging whether the idea is truly valuable and worth pursuing.
+5. **Elaboration**: Making the idea concrete and refined — "creativity is 99% perspiration."
+
+### 心流与创造力的关系 / The Relationship Between Flow and Creativity
+
+米哈里的核心发现之一是：**心流是创造性活动中最常见的伴随状态**。当创造性工作者进入心流时，他们的思维更灵活、联结更丰富、产出质量更高。创造力研究中的受访者反复描述"心流高峰"——在这些时刻，最好的想法和最流畅的表达同时涌现。
+
+One of Csikszentmihalyi's core findings: **flow is the most common accompanying state in creative activity**. When creative workers enter flow, their thinking becomes more flexible, connections richer, and output quality higher. Interviewees in creativity research repeatedly described "flow peaks" — moments when the best ideas and most fluent expression emerged simultaneously.
+
+---
+
+## 发展脉络 / Development
+
+### 从"天才论"到"系统论" / From "Genius Theory" to "Systems Theory"
+
+传统创造力研究倾向于将创造力视为少数天才的个人特质——高智商、发散思维、开放性等。米哈里的系统模型是一次范式转换：
+
+- **大C创造力（Big-C Creativity）**：改变领域的历史性贡献（如爱因斯坦的相对论）。
+- **小c创造力（little-c Creativity）**：日常生活中的创造性行为（如用新方式做饭）。
+- 后来的研究者还提出了**专业级创造力（Pro-c）**（Kaufman & Beghetto, 2009）。
+
+Traditional creativity research tended to view creativity as a personal trait of a few geniuses — high IQ, divergent thinking, openness. Csikszentmihalyi's systems model was a paradigm shift:
+
+- **Big-C Creativity**: Domain-changing historical contributions (e.g., Einstein's relativity).
+- **little-c Creativity**: Creative acts in everyday life (e.g., cooking in a new way).
+- Later researchers also proposed **Pro-c Creativity** (Kaufman & Beghetto, 2009).
+
+---
+
+## 临床应用 / Applications
+
+### 教育 / Education
+- 设计"领域沉浸式"课程：让学生深入某一领域的符号系统
+- 建立"模拟学界"：让学生体验同行评审、展览、发表等学界机制
+- 鼓励跨领域学习：创造性突破往往发生在领域边界
+
+- Designing "domain-immersion" curricula: letting students deeply engage with a domain's symbolic system
+- Building "simulated fields": letting students experience peer review, exhibitions, publication
+- Encouraging cross-domain learning: creative breakthroughs often occur at domain boundaries
+
+### 组织管理 / Organizational Management
+- 创造"心理安全"的学界环境，降低守门人的保守倾向
+- 为员工提供充分的"准备期"——即持续学习和技能发展的空间
+- 将心流条件（明确目标、即时反馈、挑战匹配）嵌入日常工作流程
+
+- Creating psychologically safe "field" environments to reduce gatekeepers' conservative tendencies
+- Providing employees with ample "preparation time" — space for continuous learning and skill development
+- Embedding flow conditions (clear goals, immediate feedback, challenge matching) into daily workflows
+
+### 个人发展 / Personal Development
+- 选择一个领域深入投入，而非浅尝辄止
+- 主动寻求学界反馈——同行评审、社区参与
+- 在心流状态下进行创造性工作，在评估期进行理性判断
+
+- Choosing a domain for deep investment rather than superficial exploration
+- Actively seeking field feedback — peer review, community participation
+- Doing creative work in flow states, making rational judgments during evaluation phases
+
+---
+
+## 关联概念 / Related Concepts
+
+- [心流 Flow](flow.md) — 创造性活动中的核心体验状态 / The core experiential state in creative activities
+- [内在动机 Intrinsic Motivation](intrinsic-motivation.md) — 持久创造力的动机来源 / The motivational source of sustained creativity
+- [最优体验 Optimal Experience](optimal-experience.md) — 创造过程中的最佳心理状态 / The optimal psychological state during creation
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**禅宗与创造力**：禅宗的"无心"（no-mind）状态——不刻意追求、任运自然——与创造力的"酝酿期"和"顿悟期"高度呼应。许多禅修者报告，最好的想法不在刻意追求时出现，而在放下执着后自然浮现。
+
+**Zen and Creativity**: Zen's "no-mind" (mushin) state — non-deliberate, naturally spontaneous — closely parallels creativity's "incubation" and "insight" stages. Many meditation practitioners report that the best ideas emerge not during deliberate pursuit but after releasing attachment.
+
+**中国传统的"传承与创新"**：儒家"述而不作"强调在充分继承中自然生发创新，这与米哈里的"领域→个人变异→学界认可"路径暗合。中国文化中的"集大成"理想——先博后约、先继承后突破——正是系统模型的文化表达。
+
+**Chinese Tradition of "Inheritance and Innovation"**: Confucian emphasis on "transmitting but not creating" underscores that innovation naturally emerges from thorough inheritance — which aligns with Csikszentmihalyi's "domain → personal variation → field recognition" pathway. The Chinese ideal of "synthesizing the great achievements" — breadth before depth, inheritance before breakthrough — is a cultural expression of the systems model.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Csikszentmihalyi, M. (1996). *Creativity: Flow and the Psychology of Discovery and Invention*. HarperCollins. — 基于91位杰出人物的核心研究
+- Csikszentmihalyi, M. (2014). *The Systems Model of Creativity*. Springer. — 系统模型的完整论文集
+- Sawyer, K. (2012). *Explaining Creativity: The Science of Human Innovation*. Oxford University Press. — 当代创造力研究综述
+- Amabile, T.M. (1996). *Creativity in Context*. Westview Press. — 创造力成分模型

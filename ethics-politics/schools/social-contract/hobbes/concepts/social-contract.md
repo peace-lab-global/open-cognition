@@ -1,0 +1,125 @@
+---
+id: hobbes-social-contract
+title: 社会契约 · Social Contract · Hobbes
+type: concept
+thinker: hobbes
+domain: ethics-politics
+school: social-contract
+tags: [social-contract, covenant, authorization, alienation, hobbes, 社会契约, 权利让渡, 授权]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+  - id: locke
+    relation: 对比(部分让渡)
+  - id: rousseau
+    relation: 对比(公意)
+  - id: rawls
+    relation: 发展(原初状态)
+  - id: kant
+    relation: 批判继承
+---
+
+# 社会契约 · Social Contract · Hobbes
+
+## 概念概述 / Concept Overview
+
+霍布斯的社会契约是自然状态中的个体为摆脱恐惧而达成的**绝对权利让渡协议**——所有人相互约定将全部自然权利授予一个第三方（主权者），且这一契约**不可撤回**。这是现代社会契约论的第一个完整版本，其逻辑严密性至今仍是政治哲学的参照标准。
+
+Hobbes's social contract is an **absolute rights-transfer agreement** among individuals in the state of nature to escape fear — all mutually agree to confer all their natural rights upon a third party (the sovereign), and this covenant is **irrevocable**. This is the first complete version of modern social contract theory, and its logical rigor remains a benchmark for political philosophy to this day.
+
+霍布斯的契约论与后来的洛克、卢梭、康德和罗尔斯的版本有根本区别：它是**绝对的**（让渡全部权利而非部分）、**不可撤回的**（没有革命权）、**非互惠的**（主权者不受契约约束）。这些特征使霍布斯的契约论在思想史上独树一帜——既是最彻底的秩序论证，也是最容易被自由主义者攻击的靶子。
+
+Hobbesian contract theory differs fundamentally from later versions by Locke, Rousseau, Kant, and Rawls: it is **absolute** (transferring all rights, not some), **irrevocable** (no right of revolution), and **non-reciprocal** (the sovereign is not bound by the contract). These features make Hobbesian contract theory unique in intellectual history — both the most thorough argument for order and the easiest target for liberal critics.
+
+## 理论内涵 / Theoretical Content
+
+### 契约的逻辑 / The Logic of the Covenant
+
+霍布斯的契约推理遵循以下步骤：Hobbesian contract reasoning follows these steps:
+
+1. **自然权利的冲突 / Conflict of natural rights** — 在自然状态中，人人拥有对一切事物的自然权利（jus naturale），这种无限权利的交叉必然导致冲突。In the state of nature, everyone has a natural right to everything; the intersection of unlimited rights inevitably produces conflict.
+
+2. **理性的发现 / Discovery of reason** — 理性发现第二自然法：当他人也愿意时，一个人应当放弃对一切事物的权利，满足于与他人同等程度的自由。Reason discovers the second law of nature: when others are willing too, a person should lay down the right to everything and be content with as much liberty against others as they would allow others against themselves.
+
+3. **权利的让渡 / Alienation of right** — 放弃权利的方式有两种：放弃（renunciation）和转让（transfer）。社会契约采取转让的形式，即将权利转让给同一个主权者。There are two ways to lay down a right: renunciation or transfer. The social contract takes the form of transfer — transferring rights to a single sovereign.
+
+4. **授权的完成 / Completion of authorization** — "我授权并放弃我统治自己的权利给这个人或这群人，条件是你也将你的权利让渡给他，并以同样的方式授权他的一切行为。""I authorise and give up my right of governing myself, to this man, or to this assembly of men, on this condition, that thou give up thy right to him, and authorise all his actions in like manner."
+
+### 与洛克版本的对比 / Comparison with Locke
+
+| 要素 / Element | 霍布斯 / Hobbes | 洛克 / Locke |
+|---|---|---|
+| 让渡程度 / Degree of transfer | **全部**自然权利 / **All** natural rights | **部分**自然权利 / **Partial** natural rights |
+| 可撤回性 / Revocability | **不可撤回** / **Irrevocable** | 可撤回（暴政时可革命）/ Revocable (revolution against tyranny) |
+| 主权者地位 / Sovereign's position | 契约之外（不受约束）/ Outside contract (unbound) | 契约之内（受自然法约束）/ Within contract (bound by natural law) |
+| 革命权 / Right of revolution | **无**（除自我保存外）/ **None** (except self-preservation) | **有**（当政府违背信托时）/ **Yes** (when government violates trust) |
+| 财产权 / Property rights | 主权者赋予 / Granted by sovereign | 自然权利，先于国家 / Natural right, prior to state |
+
+### 授权理论 / Authorization Theory
+
+霍布斯发展了独特的**授权理论**（authorization）——这是其契约论最原创的贡献之一：Hobbes developed a distinctive **authorization theory** — one of the most original contributions of his contract theory:
+
+- 臣民不只是服从主权者——他们**授权**主权者的行为。Subjects don't merely obey the sovereign — they **authorize** the sovereign's actions.
+- 主权者的每一个行为都是**臣民自己的行为**。Every action of the sovereign is **the subjects' own action**.
+- 因此臣民**不能正当地抱怨**主权者——抱怨等于抱怨自己。Hence subjects **cannot legitimately complain** about the sovereign — to complain is to complain about oneself.
+
+这一理论在逻辑上极为精巧，但也导致了霍布斯面临的一个著名难题：如果主权者的一切行为都是臣民自己授权的，那么主权者惩罚臣民是否等于臣民惩罚自己？霍布斯的回答是：主权者的惩罚在逻辑上等同于臣民对自己施加的自我惩罚——这在直觉上令人不安，但在逻辑上自洽。
+
+This theory is logically elegant but creates a famous difficulty for Hobbes: if all of the sovereign's actions are authorized by subjects, does the sovereign's punishment of subjects amount to subjects punishing themselves? Hobbes's answer is that the sovereign's punishment is logically equivalent to self-inflicted punishment — intuitively unsettling but logically consistent.
+
+### "剑与契约" / "The Sword and the Covenant"
+
+霍布斯的名言："没有剑的契约不过是一纸空文"（Covenants, without the sword, are but words, and of no strength to secure a man at all）。这一命题包含深刻的洞见：契约本身不具有自我执行的力量——只有主权者的强制力才能使契约有效。这一洞见预见了现代制度经济学中关于"契约执行"问题的核心讨论。
+
+Hobbes's famous dictum: "Covenants, without the sword, are but words, and of no strength to secure a man at all." This proposition contains a profound insight: covenants lack self-enforcing power — only the sovereign's coercive force makes them effective. This insight anticipates the core discussion in modern institutional economics about "contract enforcement."
+
+## 思想史脉络 / Intellectual History
+
+社会契约思想在霍布斯之前已有先声。中世纪的契约论（如马西利乌斯）认为统治者的权力来自人民的同意。格劳秀斯讨论了权利的让渡，但保留了自然法的约束。霍布斯的创新在于将契约论与**绝对让渡**和**不可撤回性**结合，从而推导出绝对主权的结论。
+
+Social contract ideas predate Hobbes. Medieval contractarians (such as Marsilius of Padua) held that rulers' power derives from popular consent. Grotius discussed the alienation of rights while retaining the constraint of natural law. Hobbes's innovation was combining contract theory with **absolute alienation** and **irrevocability** to derive absolute sovereignty.
+
+后世的社会契约论者都在不同程度上修正或反对霍布斯。洛克保留了部分不可让渡的权利；卢梭以"公意"取代了主权者；康德将契约论改造为道德律令的思想实验；罗尔斯以"原初状态"和"无知之幕"重新启动了契约论传统。可以说，整个现代社会契约论传统都是对霍布斯的不同回应。
+
+Later social contract theorists all modified or opposed Hobbes to varying degrees. Locke retained some inalienable rights; Rousseau replaced the sovereign with the "general will"; Kant transformed contract theory into a thought experiment of the moral law; Rawls restarted the contract tradition with the "original position" and "veil of ignorance." In a sense, the entire modern social contract tradition consists of different responses to Hobbes.
+
+## 关键文本 / Key Passages
+
+> "The final cause, end, or design of men (who naturally love liberty, and dominion over others) in the introduction of that restraint upon themselves, in which we see them live in Commonwealths, is the foresight of their own preservation, and of a more contented life thereby."
+> — *Leviathan*, Ch. 17
+
+> "Covenants, without the sword, are but words, and of no strength to secure a man at all."
+> — *Leviathan*, Ch. 17
+
+## 当代应用 / Contemporary Applications
+
+- **宪法设计 / Constitutional Design** — 现代宪法是否可被视为"社会契约"的制度化？制宪权与社会契约的关系是当代宪政理论的核心议题。Can modern constitutions be seen as the institutionalization of "social contract"? The relationship between constituent power and social contract is a core issue in contemporary constitutional theory.
+
+- **数字平台条款 / Digital Platform Terms of Service** — 用户协议（Terms of Service）是否构成一种"数字社会契约"？用户让渡了哪些权利，平台获得了哪些权力？Do Terms of Service constitute a kind of "digital social contract"? What rights do users alienate, what powers do platforms acquire?
+
+- **企业社会责任 / Corporate Social Responsibility** — 企业与社会之间是否存在隐含的"社会契约"？企业的利润是否以放弃某些社会责任为代价？Is there an implicit "social contract" between corporations and society? Is corporate profit achieved at the cost of abdicating social responsibility?
+
+- **国际协议 / International Agreements** — 巴黎气候协定等国际协议缺乏"剑"（强制执行力），是否验证了霍布斯"没有剑的契约是一纸空文"的命题？International agreements like the Paris Climate Accord lack "the sword" (enforcement power) — does this validate Hobbes's dictum that "covenants without the sword are but words"?
+
+## 批评与回应 / Critiques and Responses
+
+- **洛克 / Locke**：不可撤回的绝对让渡使臣民沦为奴隶。"认为一个人应该与自己订立契约，使自己成为另一个人的绝对臣民，这等于说一个人有权放弃自己的自由。"Irrevocable absolute alienation reduces subjects to slaves. "To suppose that anyone should make a compact with himself to become the absolute subject of another is to say that one has the right to give up one's own liberty."
+
+- **卢梭 / Rousseau**：把一切权利交给主人等于放弃人格。"放弃自己的自由就是放弃自己做人的资格。"Alienating all rights to a master equals renouncing one's personhood. "To renounce one's liberty is to renounce one's quality as a man."
+
+- **女性主义 / Feminism**（Pateman）：社会契约预设了"性契约"——对女性的结构性支配先于政治契约。The social contract presupposes a "sexual contract" — structural domination of women precedes the political contract.
+
+- **回应 / Response**：霍布斯的支持者指出，契约的绝对性恰恰来自对自然状态恐怖的深刻认知——只有不可撤回的契约才能防止社会退回自然状态。Hobbes's defenders argue that the absoluteness of the covenant stems precisely from a profound awareness of the horrors of the state of nature — only an irrevocable covenant can prevent society from reverting to the state of nature.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+中国传统政治思想中缺乏严格意义上的"社会契约"概念，但"天命"观念具有某种功能上的相似性。孟子认为"民为贵，社稷次之，君为轻"，暗示政治权力的合法性取决于其对民众的效用——这与霍布斯认为主权者的权力目的是"和平与安全"有形式上的呼应。然而"天命"可以撤回（"汤武革命"），而霍布斯的契约不可撤回，这是根本差异。
+
+Chinese traditional political thought lacks a strict "social contract" concept, but the "Mandate of Heaven" (*tianming*) doctrine bears a functional similarity. Mencius held that "the people are most important; the state comes next; the ruler counts least," implying that political legitimacy depends on utility for the people — formally echoing Hobbes's claim that sovereign power exists for "peace and security." Yet the Mandate of Heaven can be withdrawn ("the revolutions of Tang and Wu"), whereas Hobbes's covenant is irrevocable — a fundamental difference.
+
+## 延伸阅读 / Further Reading
+
+- Hampton, Jean. *Hobbes and the Social Contract Tradition* (1986)
+- Pateman, Carole. *The Sexual Contract* (1988)
+- Gauthier, David. *The Logic of Leviathan* (1969)
+- Mills, Charles. *The Racial Contract* (1997)

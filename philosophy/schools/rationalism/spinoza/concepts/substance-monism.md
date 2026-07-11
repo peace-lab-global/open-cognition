@@ -1,0 +1,122 @@
+---
+id: spinoza-substance-monism
+title: 实体一元论 · Substance Monism
+type: concept
+domain: philosophy
+school: rationalism
+thinker: spinoza
+tags:
+  - 实体
+  - 一元论
+  - 属性
+  - 样式
+  - substance
+  - monism
+  - attribute
+  - mode
+cross-refs:
+  - id: descartes-mind-body-dualism
+    relation: 批判
+  - id: leibniz-monad
+    relation: 对立
+  - id: spinoza-god-or-nature
+    relation: 核心
+---
+
+# 实体一元论 · Substance Monism
+
+## 概念概述 / Concept Overview
+
+实体一元论是斯宾诺莎形而上学的基石，也是他最激进、最具革命性的哲学主张。它断言：只有一个实体（Substance）存在，这个实体就是上帝或自然（Deus sive Natura）。一切存在的事物都是这一唯一实体的"样式"（modes），一切可理解的本质都是这一实体的"属性"（attributes）。这一学说彻底颠覆了笛卡尔的二元论和传统有神论的上帝观念。
+
+Substance monism is the cornerstone of Spinoza's metaphysics and his most radical, revolutionary philosophical claim. It asserts: only one Substance exists, and this substance is God or Nature (Deus sive Natura). Everything that exists is a "mode" of this unique substance; every intelligible essence is an "attribute" of this substance. This doctrine completely overturns Cartesian dualism and the traditional theistic concept of God.
+
+## 论证结构 / Argumentative Structure
+
+斯宾诺莎在《伦理学》第一部分中以严格的几何学方式论证了实体一元论。论证从定义和公理出发，经过一系列命题，最终得出结论。核心论证可以简化如下：
+
+Spinoza demonstrates substance monism in the geometrical order of *Ethics* Part I. The argument proceeds from definitions and axioms through a series of propositions to its conclusion. The core argument can be simplified as follows:
+
+1. **实体的定义**：实体是"在自身中并通过自身被认识的东西"（in se est et per se concipitur）——即不需要借助其他事物就能被理解的存在。
+2. **实体的自因性**：实体是自因的（causa sui）——它的本质必然包含存在。
+3. **实体的无限性**：实体必然是无限的——因为如果它是有限的，就必须有另一个同类的实体来限制它，但两个同属性质的实体不可能共存。
+4. **实体的唯一性**：不可能有两个或多个同属性质的实体——因为如果存在两个，它们就必须通过彼此的属性来区分，但同属性质的实体没有区分的原则。因此，只有一个实体。
+5. **结论**：这个唯一的、无限的、自因的实体就是上帝（Deus），也就是自然（Natura）。
+
+1. **Definition of substance**: Substance is "that which is in itself and is conceived through itself" — a being understandable without reference to anything else.
+2. **Substance is self-caused**: Substance is causa sui — its essence necessarily involves existence.
+3. **Substance is infinite**: Substance must be infinite — if finite, another substance of the same kind would limit it, but two substances of the same nature cannot coexist.
+4. **Substance is unique**: There cannot be two or more substances of the same nature — for two to exist, they must be distinguished by their attributes, but substances of the same nature have no principle of distinction. Therefore, only one substance exists.
+5. **Conclusion**: This unique, infinite, self-caused substance is God (Deus), which is Nature (Natura).
+
+## 属性与样式 / Attributes and Modes
+
+### 属性 (Attributes)
+
+属性是"知性所认识的构成实体本质的东西"——即实体被理解的方式。斯宾诺莎认为实体拥有**无限多的属性**，但人类只能认识其中两种：
+
+Attributes are "what the intellect perceives of substance as constituting its essence" — the ways substance is understood. Spinoza holds that substance has **infinitely many attributes**, but humans can know only two:
+
+- **思维（Cogitatio / Thought）**：一切实体状态的观念方面
+- **广延（Extensio / Extension）**：一切实体状态的物质方面
+
+- **Thought (Cogitatio)**: The ideational aspect of all substance-states
+- **Extension (Extensio)**: The material aspect of all substance-states
+
+这就解决了笛卡尔的身心问题：思维和广延不是两个不同实体的属性，而是同一实体的两种属性。当我"思考"时和我"伸展"时，这是同一个事件的两种表达——如同同一枚硬币的两面。
+
+This resolves the Cartesian mind-body problem: thought and extension are not attributes of two different substances but of the same substance. When I "think" and when I "extend," these are two expressions of the same event — like two sides of one coin.
+
+### 样式 (Modes)
+
+样式是"实体的特殊状态"（affectiones substantiae）——即实体在特定条件下的具体表现。一切有限的事物——一棵树、一个人、一个想法——都是唯一实体的样式。样式不是独立存在的实体，而是实体的暂时性表现，如同波浪不是独立于海洋的存在，而是海洋的暂时性波动。
+
+Modes are "affections of substance" — substance's concrete expressions under specific conditions. All finite things — a tree, a person, an idea — are modes of the unique substance. Modes are not independently existing substances but temporary expressions of substance, like waves are not independent of the ocean but its temporary undulations.
+
+## 能生的自然与所生的自然 / Natura Naturans and Natura Naturata
+
+斯宾诺莎区分了"上帝/自然"的两个方面：
+
+Spinoza distinguishes two aspects of God/Nature:
+
+- **能生的自然（Natura naturans）**：上帝/自然作为主动的、创造性的力量——即实体及其属性本身。这是"生产性的自然"。
+- **所生的自然（Natura naturata）**：上帝/自然作为被产生的结果——即一切样式和有限事物的总和。这是"被生产的自然"。
+
+- **Natura naturans** (nature naturing): God/Nature as active, creative power — substance and its attributes. This is "productive nature."
+- **Natura naturata** (nature natured): God/Nature as produced effect — the totality of all modes and finite things. This is "produced nature."
+
+这一区分使斯宾诺莎能够同时肯定上帝/自然的"超越性"（作为能生的自然，它超越任何特定的样式）和"内在性"（作为所生的自然，它就是一切样式本身）。
+
+This distinction enables Spinoza to affirm both the "transcendence" of God/Nature (as natura naturans, it transcends any particular mode) and its "immanence" (as natura naturata, it is all modes themselves).
+
+## 批评与遗产 / Criticisms and Legacy
+
+实体一元论面临的主要批评：
+
+Key criticisms of substance monism:
+
+1. **"实体"概念的空洞性**：如果实体不是任何具体的东西（它是一切东西的基础），那么"实体"这个概念是否只是一个空洞的形而上学构造？康德后来批评说，我们无法认识"自在之物"，只能认识现象。
+2. **个体性的消失**：如果一切事物都只是唯一实体的样式，那么个体的独立性和尊严何在？
+3. **决定论的困境**：如果一切样式都必然地从实体的本质推导出来，那么自由如何可能？
+
+1. **Emptiness of "substance"**: If substance is not any specific thing (it is the basis of all things), is "substance" merely an empty metaphysical construct? Kant later argued we cannot know "things in themselves," only phenomena.
+2. **Loss of individuality**: If all things are merely modes of one substance, where is the independence and dignity of individuals?
+3. **Determinism dilemma**: If all modes necessarily follow from substance's essence, how is freedom possible?
+
+## 东西方回响 / East-West Echoes
+
+实体一元论与华严宗的"法界"概念之间存在深层共鸣。华严宗认为，一切现象都是法界（dharmadhātu）的表现——"一即一切，一切即一"。这与斯宾诺莎的"一切样式都是唯一实体的表现"异曲同工。但华严宗强调的是现象之间的"互摄互入"（相即相入），而斯宾诺莎的样式之间更多是平行关系——思维和广延的样式之间没有因果互动，只有结构上的对应。
+
+Substance monism resonates deeply with Huayan Buddhism's "dharma-realm" (dharmadhātu) concept. Huayan holds all phenomena are expressions of the dharma-realm — "one is all, all is one." This parallels Spinoza's "all modes are expressions of one substance." But Huayan emphasizes dynamic interpenetration among phenomena, while Spinozist modes relate more in parallel — no causal interaction between thought-modes and extension-modes, only structural correspondence.
+
+## 参考文献 / References
+
+- Spinoza, B. *Ethics*, Part I.
+- Della Rocca, M. (2008). *Spinoza*. Routledge.
+- Melamed, Y. (2013). *Spinoza's Metaphysics: Substance and Thought*. Oxford University Press.
+
+## 相关概念 / Related Concepts
+
+- [上帝即自然](god-or-nature.md) — 唯一实体的名字
+- [Conatus](conatus.md) — 样式保持存在的努力
+- [充分观念](adequate-ideas.md) — 理解实体的认识论途径

@@ -1,0 +1,47 @@
+---
+id: latour-works
+title: 拉图尔主要著作 · Latour Major Works
+type: works
+domain: sociology
+thinker: latour
+school: actor-network
+---
+
+# 拉图尔主要著作详述 / Latour Major Works: Detailed Survey
+
+## 一、实验室研究与ANT奠基（1979—1988）/ Laboratory Studies and ANT Foundations (1979-1988)
+
+### 1. 《实验室生活》（1979）/ *Laboratory Life: The Construction of Scientific Facts*（与伍尔加合著）
+科学社会学领域的开创性民族志。拉图尔在加州索尔克研究所的内分泌实验室进行了两年的人类学观察，记录科学家如何通过日常的物质实践（操作仪器、撰写论文、社交互动）来"建构"科学事实。核心洞察：科学事实不是"被发现"的，而是在实验室的社会技术网络中被"制造"出来的。
+
+### 2. 《法国的巴斯德化》（1984）/ *The Pasteurization of France*
+以路易·巴斯德的微生物学研究为案例，展示了一个科学网络如何从实验室扩展到整个社会。巴斯德的成功不仅在于科学发现，更在于他创建了一个将科学家、医生、农民、兽医和政府官员都纳入其中的行动者网络。"巴斯德化"成为一种社会网络扩展的隐喻。
+
+### 3. 《科学在行动》（1987）/ *Science in Action: How to Follow Scientists and Engineers through Society*
+ANT方法论的系统阐述。拉图尔在此提出了跟随科学家和工程师穿越社会网络的研究策略。核心概念包括：黑箱（black box）、不可移动物（immutable mobiles）、转译（translation）和"强力"与"弱力"的区分——当网络稳固时科学显得客观（强力），当网络松散时争议浮现（弱力）。
+
+---
+
+## 二、现代性批判（1991—2004）/ Critique of Modernity (1991-2004)
+
+### 4. 《我们从未现代过》（1991）/ *We Have Never Been Modern*
+拉图尔最具哲学雄心的著作。核心论证：现代性的自我形象建立在自然/社会的"纯化"（purification）之上——将自然和社会视为两个独立的领域。然而在实践中，现代人一直在制造跨越这一界限的"杂合体"（hybrids）——臭氧层空洞、冷冻胚胎、卫星网络等。现代性的悖论在于：纯化工作越努力，杂合体越多。
+
+### 5. 《政治生态学》（1999）/ *Politics of Nature: How to Bring the Sciences into Democracy*
+重新思考"自然"在政治理论中的地位。拉图尔论证了传统的"自然"概念是一个政治障碍——它将非人类物排除在政治讨论之外。他主张建立一种新的政治生态学，在其中科学和政治不再是分离的领域，而是共同决定什么（和谁）被允许进入"集合体"（collective）的过程。
+
+### 6. 《战争的终结》（2004）/ *Why Has Critique Run Out of Steam?*
+一篇影响深远的论文。拉图尔反思了社会建构主义批判的后果——当科学事实被揭示为社会建构时，这种批判方法被气候变化否认者所利用。他呼吁一种新的批判模式——不是"揭露"科学的社会建构性，而是"追踪"科学网络的联结过程。
+
+---
+
+## 三、存在模式与生态转向（2013—2022）/ Modes of Existence and Ecological Turn (2013-2022)
+
+### 7. 《存在模式探究》（2013）/ *An Inquiry into Modes of Existence (AIME)*
+拉图尔最宏大的哲学工程。他区分了十五种不同的"存在模式"——包括繁殖（REP）、变形（MET）、习惯（HAB）、技术（TEC）、虚构（FIC）、参照（REF，即科学）、宗教（REL）、政治（POL）、法律（LAW）等。每种存在模式都有自己独特的真理条件、存在方式和失败模式。此书既是哲学著作，也是一个协作性的数字研究项目。
+
+### 8. 《面对盖娅》（2017）/ *Facing Gaia: Eight Lectures on the New Climatic Regime*
+基于2013年吉福德讲座的生态哲学著作。拉图尔重新解读了拉夫洛克的盖娅假说，将盖娅理解为一个不是统一有机体、而是由无数异质性行动者构成的复杂网络。人类不是站在自然之外的观察者，而是盖娅网络中的参与者。
+
+### 9. 《落地》（2018）/ *Down to Earth: Politics in the New Climatic Regime*
+拉图尔面向公众的政治哲学著作。核心论证：现代性建立在"无限地球"的假设之上——一个可以无限开发和增长的地球。气候变化证明这一假设已经破产。我们需要放弃"全球化"的叙事（无处可去的逃逸），转向"地球化"——学会在有限的地球上共同居住。

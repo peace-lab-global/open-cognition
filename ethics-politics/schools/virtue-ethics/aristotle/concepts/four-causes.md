@@ -1,0 +1,23 @@
+---
+id: aristotle-four-causes
+title: 四因说 · Four Causes · Aristotle
+type: concept
+domain: ethics-politics
+school: virtue-ethics
+thinker: aristotle
+tags: [four-causes, telos, formal-cause, material-cause]
+cross-refs: [{id: aristotle, relation: thinker}]
+---
+# 四因说 · Four Causes
+## 一句话定义
+亚里士多德提出解释事物的四种原因：质料因、形式因、动力因、目的因。**目的因**（telos）在伦理学中最为关键。
+## 四因
+| 因 | 定义 | 雕像示例 |
+|---|---|---|
+| 质料因 | 构成材料 | 大理石 |
+| 形式因 | 结构/形式 | 人的形状 |
+| 动力因 | 制造者 | 雕塑家 |
+| 目的因 | 目的/功能 | 纪念 |
+## 关键文本
+- *Physics*, Book II
+- *Metaphysics*, Book V

@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.naturalistic-decision.sweller-timeline
+title: 斯威勒思想年表
+type: timeline
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: sweller
+tags: [sweller, timeline]
+cross-refs: [{id: sweller, relation: thinker}]
+---
+
+# 斯威勒思想年表
+
+- **1946** 生于南非
+- **1960s** 本科就读于南非大学，主修心理学
+- **1970s** 移民澳大利亚，在新南威尔士大学继续学术研究
+- **1972** 获博士学位，开始研究问题解决与认知过程
+- **1980s初** 在数学问题解决研究中观察到"问题解决反而阻碍学习"的反直觉现象
+- **1988** 发表里程碑论文"Cognitive Load During Problem Solving"于 *Cognitive Science*
+- **1989** 提出样例学习（worked example）效应的实验证据
+- **1990** 系统化样例学习研究，证明对新手而言学习样例优于自行解题
+- **1994** 发表CLT作为教学设计框架的系统阐述论文
+- **1996** 识别并命名"冗余效应"（redundancy effect）——同时呈现相同内容的多种格式增加外在负荷
+- **1998** 与Van Merrienboer、Paas合著"Cognitive Architecture and Instructional Design"
+- **1999** 识别"分裂注意效应"（split-attention effect）——分离的图文呈现增加外在负荷
+- **2001** 识别"专家反转效应"（expertise reversal effect）——同一方法对新手和专家效果相反
+- **2003** CLT理论开始被医学教育领域广泛采纳
+- **2006** 发表样例效应的认知机制深入分析
+- **2007** 与David Geary合作，将CLT与进化认识论结合
+- **2010** 发表"Element Interactivity"论文，严格界定三类认知负荷
+- **2011** 出版专著 *Cognitive Load Theory* (Springer)
+- **2012** 合著 *Efficiency in Learning*，面向教学设计实践者
+- **2015** CLT框架被大规模在线教育（MOOC）设计采纳
+- **2019** 发表"Cognitive Architecture and Instructional Design: 20 Years Later"回顾论文
+- **2020s** 持续关注AI辅助学习中的认知负荷管理和个性化教学设计

@@ -1,0 +1,116 @@
+---
+id: caring-education
+title: "关怀教育 · Caring Education"
+type: concept
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 关怀教育
+  - 教育哲学
+  - 学校改革
+  - caring education
+  - philosophy of education
+  - school reform
+---
+
+# 关怀教育 · Caring Education
+
+## 概念概述 / Concept Overview
+
+"关怀教育"（caring education）是诺丁斯将关怀伦理学应用于教育领域的核心理念。她认为，教育不应仅仅追求学术知识的传递和认知技能的培养，而应以关怀关系为核心组织整个教育实践——课程、教学方法、师生关系、学校文化和评价体系都应当以关怀为导向进行重新设计。
+
+"Caring education" is the core concept through which Noddings applies care ethics to education. She holds that education should not merely pursue the transmission of academic knowledge and cultivation of cognitive skills but should organize the entire educational practice around caring relations — curriculum, teaching methods, teacher-student relations, school culture, and assessment systems should all be redesigned with caring as the guiding principle.
+
+诺丁斯在《学校面临的关怀挑战》（*The Challenge to Care in Schools*, 1992）和后续著作中系统阐述了关怀教育的理论框架。她提出，当前教育系统最大的问题不在于学术标准的下降，而在于关怀关系的缺失——当学校变成标准化考试的工厂时，教师和学生之间的真实关怀关系被系统性地破坏了。学生不是被当作独特的个体来关怀，而是被当作数据点来管理和评估。
+
+In *The Challenge to Care in Schools* (1992) and subsequent works, Noddings systematically articulated the theoretical framework of caring education. She proposed that the greatest problem in current education systems lies not in declining academic standards but in the absence of caring relations — when schools become standardized testing factories, the genuine caring relation between teachers and students is systematically destroyed. Students are treated not as unique individuals to be cared for but as data points to be managed and assessed.
+
+## 理论内涵 / Theoretical Content
+
+关怀教育的核心主张可以从以下几个维度来理解：
+
+The core claims of caring education can be understood through the following dimensions:
+
+**1. 以关怀为核心组织课程 / Organizing Curriculum around Caring:**
+诺丁斯提出了一种革命性的课程组织方式：不是以传统学科（数学、科学、历史）为核心，而是以关怀的不同领域为核心组织课程。她建议的课程主题包括：关怀自己（caring for self）、关怀身边的人（caring for intimate others）、关怀陌生人和远方的人（caring for strangers and distant others）、关怀非人类动物（caring for animals）、关怀植物和自然环境（caring for plants and the natural environment）、关怀人造世界（caring for the human-made world）、以及关怀知识和思想（caring for knowledge and ideas）。
+
+Noddings proposed a revolutionary approach to curriculum organization: instead of organizing around traditional subjects (mathematics, science, history), organize around different domains of caring. Her suggested curriculum themes include: caring for self, caring for intimate others, caring for strangers and distant others, caring for animals, caring for plants and the natural environment, caring for the human-made world, and caring for knowledge and ideas.
+
+**2. 连续性原则 / The Principle of Continuity:**
+关怀教育要求保持关系的连续性（continuity of relationship）。诺丁斯认为，关怀关系需要时间来建立和深化，因此教师应当与学生保持多年的关系（如"looping"——同一教师跟随同一批学生多年），学校应当保持稳定的人员配置和组织结构。频繁的教师轮换和班级重组破坏了关怀关系的形成条件。
+
+Caring education requires continuity of relationship. Noddings argues that caring relations need time to develop and deepen; therefore, teachers should maintain multi-year relationships with students (such as "looping" — the same teacher following the same cohort for multiple years), and schools should maintain stable staffing and organizational structures. Frequent teacher rotation and class reorganization destroy the conditions for forming caring relations.
+
+**3. 对话、实践与确认 / Dialogue, Practice, and Confirmation:**
+诺丁斯提出了关怀教育的三种核心方法。**对话**（dialogue）是指师生之间真诚的、开放的交流，不是教师向学生的单向传递，而是双方的互相倾听。**实践**（practice）是指为学生提供真实的关怀机会——让他们在学校中练习关怀他人，而不是仅仅学习关于关怀的知识。**确认**（confirmation）是指教师看到并肯定学生的"更好的自我"，帮助学生认识和发展自己的潜力。
+
+Noddings proposed three core methods of caring education. **Dialogue** refers to genuine, open communication between teachers and students — not one-way transmission from teacher to student, but mutual listening. **Practice** refers to providing students with genuine caring opportunities — letting them practice caring for others in school rather than merely learning about caring. **Confirmation** refers to teachers seeing and affirming students' "better selves," helping students recognize and develop their potential.
+
+**4. 反对标准化 / Opposition to Standardization:**
+诺丁斯在《当学校改革被标准化时》（*When School Reform Is Standardized*, 2005）中对美国"不让一个孩子掉队"（No Child Left Behind）法案提出了尖锐批评。她认为，标准化考试和统一课程不仅无法提高教育质量，而且从根本上破坏了关怀关系的条件——教师被迫将注意力从学生的个体需要转向考试分数，学生被迫将注意力从真实学习转向应试技巧。
+
+In *When School Reform Is Standardized* (2005), Noddings offered a sharp critique of the American "No Child Left Behind" Act. She argued that standardized testing and uniform curricula not only fail to improve educational quality but fundamentally destroy the conditions for caring relations — teachers are forced to shift attention from students' individual needs to test scores, and students from genuine learning to test-taking skills.
+
+## 思想史脉络 / Intellectual History
+
+关怀教育的思想渊源可以追溯到多个教育改革传统。约翰·杜威的进步教育思想强调经验、民主和教育的关系，为诺丁斯提供了重要的思想资源——教育不是为未来生活做准备，教育本身就是生活。保罗·弗莱雷的批判教育学同样强调师生关系的对话性和平等性，这与诺丁斯的关怀教育形成了重要的对话。
+
+The intellectual genealogy of caring education traces to several educational reform traditions. John Dewey's progressive education thought, emphasizing the relationship between experience, democracy, and education, provided important intellectual resources for Noddings — education is not preparation for future life but life itself. Paulo Freire's critical pedagogy similarly emphasizes the dialogical and egalitarian nature of teacher-student relations, forming an important dialogue with Noddings' caring education.
+
+在教育哲学的历史中，诺丁斯的关怀教育可以被视为对两种主导教育范式的批判性回应：一种是以赫尔巴特为代表的"知识传递"范式，强调系统知识的灌输；另一种是以皮亚杰和布鲁纳为代表的"认知发展"范式，强调思维能力的培养。诺丁斯认为这两种范式都忽视了教育中最根本的要素——关系。
+
+In the history of educational philosophy, Noddings' caring education can be seen as a critical response to two dominant educational paradigms: the "knowledge transmission" paradigm represented by Herbart, emphasizing systematic knowledge inculcation; and the "cognitive development" paradigm represented by Piaget and Bruner, emphasizing the cultivation of thinking abilities. Noddings holds that both paradigms neglect the most fundamental element in education — the relation.
+
+## 关键文本 / Key Passages
+
+> "We have assumed that the primary aim of schooling is intellectual development. What if, instead, we said that the primary aim of every school at every level is to maintain and enhance caring relations?"
+> — Noddings, *The Challenge to Care in Schools* (1992), p. xiv
+
+> "我们一直假设学校教育的首要目的是智力发展。如果我们说，每一层级的每一所学校的首要目的是维系和增强关怀关系呢？"
+
+这段引文集中体现了诺丁斯对教育目的的颠覆性重新定义：不是智力发展，而是关怀关系。这并不意味着她否定知识学习的重要性，而是主张知识学习应当在关怀关系的框架中进行，因为关怀关系本身就具有教育意义。
+
+This passage embodies Noddings' subversive redefinition of educational purpose: not intellectual development but caring relations. This does not mean she denies the importance of knowledge acquisition; rather, she argues that knowledge acquisition should occur within the framework of caring relations, because caring relations are themselves educationally meaningful.
+
+> "Students who feel cared for are more likely to care about their own learning, about their teachers, and about the school community."
+> — Noddings, *The Challenge to Care in Schools* (1992), p. 27
+
+## 当代应用 / Contemporary Applications
+
+关怀教育理念在全球范围内已被广泛采纳。在美国，许多学校实施了"looping"制度（教师跟随学生多年），建立了顾问制（advisory programs），并在课程中融入社会情感学习（SEL）。在中国，"情感教育"研究与实践（如朱小蔓的工作）与诺丁斯的关怀教育理念形成了重要对话，一些学校尝试将关怀关系作为课堂教学的核心组织原则。
+
+Caring education principles have been widely adopted globally. In the United States, many schools have implemented "looping" (teachers following students for multiple years), established advisory programs, and integrated social-emotional learning (SEL) into curricula. In China, "emotional education" research and practice (such as Zhu Xiaoman's work) has formed an important dialogue with Noddings' caring education principles, with some schools experimenting with caring relations as the core organizing principle of classroom teaching.
+
+在高等教育中，关怀教育理念被应用于医学院和护理学院的教学改革，强调医学和护理教育不仅应培养技术能力，还应培养关怀能力和关系性感知力。
+
+In higher education, caring education principles have been applied to teaching reform in medical and nursing schools, emphasizing that medical and nursing education should cultivate not only technical competence but also caring capacity and relational sensitivity.
+
+## 批评与回应 / Critiques and Responses
+
+**批评 / Critique:** 关怀教育是否会降低学术标准？如果学校以关怀为首要目的，学生的认知发展是否会受到影响？
+Will caring education lower academic standards? If schools prioritize caring, will students' cognitive development suffer?
+
+**回应 / Response:** 诺丁斯认为这是一个错误的二分法。大量研究表明，在关怀关系中，学生的学习动机和学术表现实际上会提高。关怀不是学术的对立面，而是学术成就的条件。
+Noddings considers this a false dichotomy. Extensive research shows that within caring relations, students' learning motivation and academic performance actually improve. Caring is not the opposite of academic achievement but a condition for it.
+
+**批评 / Critique:** 关怀教育对教师的要求是否过高？在大规模班级和繁重的教学任务下，教师是否有条件实践关怀教育？
+Are the demands of caring education on teachers excessive? Can teachers practice caring education in large classes with heavy teaching loads?
+
+**回应 / Response:** 诺丁斯承认这需要系统性的教育改革——缩小班级规模、减轻教师负担、改变教师培训方式、改革评价体系。关怀教育不仅是对教师的要求，更是对整个教育制度的要求。
+Noddings acknowledges that this requires systemic educational reform — reducing class sizes, lightening teacher loads, changing teacher training, and reforming assessment systems. Caring education is a demand not only on teachers but on the entire educational system.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国教育传统中，"有教无类"（孔子）和"因材施教"的理念与关怀教育有着深层的共鸣。孔子对不同弟子给予不同的教导，正是基于对每个学生独特性的关怀性感知。儒家的师生关系传统也强调教师不仅是知识的传递者，更是道德的引导者和关怀者——"一日为师，终身为父"的说法虽然包含了等级观念，但也体现了对师生关系深度和持续性的重视。
+
+In the Chinese educational tradition, the principles of "teaching without discrimination" (有教无类, Confucius) and "teaching according to aptitude" (因材施教) share deep resonance with caring education. Confucius' different instruction for different disciples was precisely based on caring perception of each student's uniqueness. The Confucian teacher-student relationship tradition also emphasizes that the teacher is not merely a knowledge transmitter but a moral guide and carer — the saying "a teacher for a day, a father for life" (一日为师，终身为父), while containing hierarchical assumptions, also reflects the value placed on the depth and continuity of the teacher-student relationship.
+
+## 延伸阅读 / Further Reading
+
+- Noddings, *The Challenge to Care in Schools* (1992)
+- Noddings, *When School Reform Is Standardized* (2005)
+- Noddings, *Happiness and Education* (2003)
+- Dewey, *Democracy and Education* (1916)
+- Freire, *Pedagogy of the Oppressed* (1970)
+- 朱小蔓《情感教育论纲》/ Zhu Xiaoman, *Emotional Education*

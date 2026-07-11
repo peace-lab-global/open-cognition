@@ -1,0 +1,100 @@
+---
+id: eisenstein-timeline
+title: "爱森斯坦生平大事记 · Eisenstein Biographical Timeline"
+type: timeline
+thinker: eisenstein
+domain: arts
+school: performing-arts
+tags: [eisenstein, timeline, biography, soviet-cinema, revolution]
+cross-refs:
+  - id: eisenstein
+    relation: thinker
+---
+
+# 爱森斯坦生平大事记 · Eisenstein Biographical Timeline
+
+## 早年：教育与革命 / Early Years: Education and Revolution (1898–1920)
+
+**1898** — 1月22日生于拉脱维亚里加（当时属俄罗斯帝国）。父亲米哈伊尔·爱森施泰因为犹太裔土木工程师，母亲尤利娅·科涅茨卡娅为俄罗斯东正教商人家庭出身。父母的文化和宗教差异为他的"冲突"思维提供了最初的生命经验。
+Born January 22 in Riga, Latvia (then Russian Empire). Father Mikhail Eisenstein was a Jewish civil engineer; mother Yulia Konetskaya came from a Russian Orthodox merchant family. The cultural and religious difference between his parents provided the earliest life experience of "conflict" thinking.
+
+**1905–15** — 在里加接受中等教育。1905年革命浪潮波及里加，少年爱森斯坦亲历了社会动荡。他广泛阅读，对绘画和戏剧产生浓厚兴趣。
+Received secondary education in Riga. The 1905 revolutionary wave reached Riga; young Eisenstein experienced social upheaval firsthand. He read widely and developed strong interests in drawing and theater.
+
+**1915** — 入圣彼得堡（彼得格勒）土木工程学院学习建筑与工程。这一训练培养了他对空间构成和结构关系的敏锐感知，为日后蒙太奇理论的空间思维奠定基础。
+Enrolled in the Petrograd Institute of Civil Engineering to study architecture and engineering. This training cultivated his sensitivity to spatial composition and structural relationships, laying the foundation for the spatial thinking of his later montage theory.
+
+**1917** — 亲历十月革命。加入红军，参与内战时期的戏剧宣传和鼓动工作。在军事工程部队中担任舞台设计师，为前线部队组织演出。
+Witnessed the October Revolution. Joined the Red Army and participated in theatrical propaganda and agitation during the Civil War. Served as a stage designer in military engineering units, organizing performances for frontline troops.
+
+**1920** — 复员后进入无产阶级文化剧团（Proletkult）工作，从事舞台设计和导演。在莫斯科接触到构成主义和前卫艺术的活跃氛围。
+After demobilization, entered the Proletkult (Proletarian Culture) theater to work on stage design and direction. Encountered the vibrant atmosphere of Constructivism and avant-garde art in Moscow.
+
+## 戏剧时期与理论萌芽 / Theater Period and Theoretical Germination (1920–1925)
+
+**1921** — 在梅耶霍德（Vsevolod Meyerhold）指导下学习戏剧导演。梅耶霍德的"生物力学"（biomechanics）训练体系——将演员身体视为精确机械装置——深刻影响了爱森斯坦对艺术"工程"性质的理解。
+Studied theatrical direction under Vsevolod Meyerhold. Meyerhold's "biomechanics" training system — treating the actor's body as a precise mechanical device — profoundly influenced Eisenstein's understanding of art's "engineering" nature.
+
+**1922** — 在Proletkult剧院导演了《智者千虑必有一失》（*Enough Simplicity in Every Wise Man*），首次实践了杂耍蒙太奇的戏剧版本——将不相关的场景和特技按效果逻辑自由组合。
+Directed *Enough Simplicity in Every Wise Man* at the Proletkult Theater, first practicing the theatrical version of montage of attractions — freely combining unrelated scenes and特技 according to effect logic.
+
+**1923** — 发表标志性论文《杂耍蒙太奇》（*Montazh attraktsionov*），首次系统提出"吸引力"概念。同年为Proletkult导演《你能听见吗，莫斯科？》（*Can You Hear, Moscow?*）。
+Published the landmark essay "Montage of Attractions," first systematically proposing the "attraction" concept. Same year directed *Can You Hear, Moscow?* for Proletkult.
+
+**1924** — 导演首部长片《罢工》（*Strike*）。将杂耍蒙太奇理论从戏剧扩展到电影——工厂屠杀与屠宰场宰牛的交叉剪辑创造了影史上最早的视觉隐喻之一。
+Directed first feature film *Strike*. Extended montage of attractions theory from theater to cinema — cross-cutting factory massacre with abattoir slaughter created one of cinema's earliest visual metaphors.
+
+**1925** — 完成《战舰波将金号》（*Battleship Potemkin*），纪念1905年波将金号起义二十周年。"敖德萨阶梯"段落成为蒙太奇运动的代表，影片震动苏联和欧洲影坛。
+Completed *Battleship Potemkin*, commemorating the 20th anniversary of the 1905 Potemkin mutiny. The "Odessa Steps" sequence became the hallmark of the montage movement; the film stunned Soviet and European cinema.
+
+## 理性蒙太奇与国际流动 / Intellectual Montage and International Movement (1925–1937)
+
+**1927** — 完成《十月》（*October*），纪念十月革命十周年。将理性蒙太奇推向最激进的边界——宗教偶像并置、克伦斯基与拿破仑雕像交叉剪辑。观众反馈表明过度抽象的蒙太奇超出普通观众的理解能力。
+Completed *October*, commemorating the 10th anniversary of the October Revolution. Pushed intellectual montage to its most radical boundary. Audience feedback revealed excessively abstract montage exceeded ordinary spectators' comprehension.
+
+**1928** — 与普多夫金（Pudovkin）和亚历山德罗夫（Alexandrov）联合发表《有声电影宣言》（*Statement on Sound*），提出声画对位原则——声音应与画面形成独立而平行的对位关系，而非简单同步。
+Co-published *Statement on Sound* with Pudovkin and Alexandrov, proposing the audio-visual counterpoint principle — sound should form an independent parallel contrapuntal relation with the image, not simple synchronization.
+
+**1929** — 完成《旧与新》（*The General Line*）。赴欧洲讲学，在柏林和巴黎举行放映和讲座。发表《蒙太奇方法》（"Methods of Montage"），系统阐述五种蒙太奇类型。
+Completed *The General Line*. Traveled to Europe for lectures, holding screenings and talks in Berlin and Paris. Published "Methods of Montage," systematically articulating five montage types.
+
+**1930** — 抵达好莱坞，与派拉蒙签订导演合约。计划拍摄德莱塞《美国悲剧》和布莱恩《萨特的黄金》，但因审查和创作分歧均未实现。与查理·卓别林、沃尔特·迪斯尼等人交往。
+Arrived in Hollywood, signed a director's contract with Paramount. Planned to film Dreiser's *An American Tragedy* and Bryne's *Sutter's Gold*, but neither materialized due to censorship and creative differences. Socialized with Charlie Chaplin, Walt Disney, and others.
+
+**1931–32** — 赴墨西哥拍摄《墨西哥万岁》（*¡Que Viva México!*），由美国作家厄普顿·辛克莱（Upton Sinclair）资助。拍摄了大量素材但因资金断裂被迫中止。墨西哥的视觉经验深刻影响了他对色彩、空间和跨文化蒙太奇的思考。
+Traveled to Mexico to film *¡Que Viva México!*, funded by American writer Upton Sinclair. Shot extensive footage but was forced to halt due to funding collapse. The Mexican visual experience profoundly influenced his thinking on color, space, and cross-cultural montage.
+
+**1933** — 返回苏联。在莫斯科电影学院（VGIK）任教，开始系统培养新一代苏联电影人。
+Returned to the Soviet Union. Began teaching at the Moscow Film Institute (VGIK), systematically training a new generation of Soviet filmmakers.
+
+**1935–37** — 拍摄《别任草地》（*Bezhin Meadow*），因被批评为"形式主义"而被迫中止。底片在二战中损毁，仅存剧照和分镜本。这一打击对爱森斯坦的理论和创作信心造成了深刻影响。
+Filmed *Bezhin Meadow*, halted after criticism for "formalism." Negatives destroyed in WWII; only stills and storyboards survive. This blow profoundly affected Eisenstein's theoretical and creative confidence.
+
+## 晚期：声画对位、历史史诗与理论深化 / Late Period: Counterpoint, Historical Epics, and Theoretical Deepening (1937–1948)
+
+**1938** — 完成《亚历山大·涅夫斯基》（*Alexander Nevsky*）。这是声画对位理论的首次完整实践——"冰湖大战"段落中普罗科菲耶夫的音乐与影像形成对位。影片获得巨大成功，获斯大林奖金一等奖。
+Completed *Alexander Nevsky*. First complete realization of audio-visual counterpoint theory — Prokofiev's music in "Battle on the Ice" forms counterpoint with images. Enormous success; received first-class Stalin Prize.
+
+**1939–41** — 密集进行理论写作。撰写了《蒙太奇论》系列论文、《非感伤的自然》（*Nonindifferent Nature*）以及对迪斯尼动画的深入分析。这些文本构成了他晚年思想的核心。
+Intensive theoretical writing. Composed the *On the Montage* essay series, *Nonindifferent Nature*, and deep analyses of Disney animation. These texts constitute the core of his late thought.
+
+**1942** — 完成《伊凡雷帝》第一部（*Ivan the Terrible, Part I*）。以宏大的历史叙事和精湛的视觉构图获得斯大林奖金。同年，Jay Leyda编译的 *The Film Sense* 在纽约出版。
+Completed *Ivan the Terrible, Part I*. Received Stalin Prize for grand historical narrative and masterful visual composition. Same year, Jay Leyda's English compilation *The Film Sense* was published in New York.
+
+**1944–46** — 拍摄《伊凡雷帝》第二部（*Ivan the Terrible, Part II*）。影片以令人不安的心理深度描绘了权力对人的腐蚀。1946年斯大林亲自观看后，以"歪曲历史人物"为由下令禁映。此片直至1958年赫鲁晓夫解冻时期才公映。
+Filmed *Ivan the Terrible, Part II*. The film portrayed the corruption of power with disturbing psychological depth. After Stalin personally viewed it in 1946, he ordered it banned for "distorting historical figures." Not released until 1958 during the Khrushchev thaw.
+
+**1946** — 遭受心脏病的打击，健康状况急剧恶化。尽管如此，仍坚持理论写作和教学。
+Suffered a heart attack; health deteriorated rapidly. Nevertheless, continued theoretical writing and teaching.
+
+**1948** — 2月11日因中风逝于莫斯科，年仅50岁。他的理论手稿——卷宗、绘画、日记——在其逝世后陆续整理出版，构成了20世纪最为深广的电影思想遗产之一。
+Died of a stroke in Moscow on February 11, aged only 50. His theoretical manuscripts — dossiers, drawings, diaries — were posthumously compiled and published, constituting one of the most profound and expansive legacies of cinematic thought in the twentieth century.
+
+**1949** — Jay Leyda编译的 *Film Form: Essays in Film Theory* 在纽约出版，使爱森斯坦的理论在英语世界获得广泛传播，深刻影响了此后数十年全球电影理论和实践。
+Jay Leyda's compilation *Film Form: Essays in Film Theory* published in New York, giving Eisenstein's theory wide dissemination in the English-speaking world and profoundly influencing global film theory and practice for decades to come.
+
+## 历史语境 / Historical Context
+
+爱森斯坦的一生贯穿了20世纪上半叶最为剧烈的历史变革：从帝俄的崩溃到苏联的建立，从内战的混乱到斯大林时代的极权化，从国际革命热情的高涨到意识形态控制的收紧。他的蒙太奇理论诞生于革命的乌托邦激情之中，在政治高压中经历了反复的挫折和调整，最终在历史史诗的宏大形式中找到了妥协与抵抗的复杂结合。理解爱森斯坦，不能脱离这个充满暴力、理想、希望和背叛的时代。
+
+Eisenstein's life spanned the most dramatic historical transformations of the first half of the twentieth century: from the collapse of Imperial Russia to the establishment of the Soviet Union, from Civil War chaos to Stalin-era totalitarianism, from the high tide of international revolutionary enthusiasm to the tightening of ideological control. His montage theory was born in the utopian passion of revolution, underwent repeated setbacks and adjustments under political pressure, and ultimately found a complex combination of compromise and resistance in the grand form of historical epics. Understanding Eisenstein is inseparable from this era of violence, idealism, hope, and betrayal.

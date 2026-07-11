@@ -1,0 +1,111 @@
+---
+id: traumatic-stress
+title: "创伤性应激 · Traumatic Stress"
+type: concept
+domain: psychology
+school: trauma-psychology
+thinker: van-der-kolk
+tags: [PTSD, 创伤类型学, 神经生物学, 应激反应, 闪回, 解离, trauma typology, neurobiology]
+cross-refs: [body-keeps-score.md, developmental-trauma.md, emdr-somatic.md, trauma-informed-care.md]
+---
+
+# 创伤性应激 · Traumatic Stress
+
+## 定义 / Definition
+
+**创伤性应激**（Traumatic Stress）是指个体暴露于超出正常人类经验范围、足以引发压倒性恐惧和无助感的极端事件后，所产生的一系列神经生物学、心理学和行为的适应性反应。范德科尔克在其1996年主编的同名教科书中，将创伤性应激定义为一个连续谱系（spectrum），从急性应激反应（acute stress response）到创伤后应激障碍（PTSD），再到复杂性 PTSD（Complex PTSD）和极端应激障碍（Disorders of Extreme Stress Not Otherwise Specified, DESNOS），涵盖了人类面对压倒性体验时的全部适应与失适应反应。
+
+**Traumatic Stress** refers to the series of neurobiological, psychological, and behavioral adaptive responses that arise when an individual is exposed to extreme events beyond the range of normal human experience, sufficient to evoke overwhelming fear and helplessness. In his 1996 edited textbook of the same name, van der Kolk defined traumatic stress as a spectrum ranging from acute stress response to post-traumatic stress disorder (PTSD), Complex PTSD, and Disorders of Extreme Stress Not Otherwise Specified (DESNOS), encompassing the full range of human adaptive and maladaptive responses to overwhelming experience.
+
+## 核心机制 / Core Mechanisms
+
+### 1. 创伤的类型学 / Typology of Trauma
+
+范德科尔克在 Lenore Terr 的基础上发展了创伤的类型学框架：
+
+Van der Kolk developed the trauma typology framework building on Lenore Terr's work:
+
+| 类型 / Type | 特征 / Characteristics | 典型来源 / Typical Sources |
+|---|---|---|
+| **I 型创伤 / Type I** | 单次事件、突然发生、成人期更常见 / Single event, sudden onset, more common in adulthood | 自然灾害、交通事故、抢劫、单次性侵害 / Natural disasters, accidents, robbery, single sexual assault |
+| **II 型创伤 / Type II** | 反复发生、长期持续、可预测性 / Repeated, chronic, predictability | 长期虐待、家庭暴力、战俘营、集中营 / Chronic abuse, domestic violence, POW camps, concentration camps |
+| **复杂性创伤 / Complex Trauma** | 早期开始、人际性质、多重施害者、在依恋关系中发生 / Early onset, interpersonal nature, multiple perpetrators, within attachment relationships | 儿童期长期虐待/忽视、人口贩卖、长期家暴 / Chronic childhood abuse/neglect, trafficking, chronic domestic violence |
+
+### 2. 创伤性应激的神经生物学级联 / Neurobiological Cascade of Traumatic Stress
+
+范德科尔克系统描述了创伤性应激的神经生物学级联反应：
+
+Van der Kolk systematically described the neurobiological cascade of traumatic stress:
+
+**即时反应 / Immediate Response**：当大脑的威胁检测系统（杏仁核-下丘脑-脑干轴）检测到压倒性威胁时，交感神经系统被全面激活，释放大量儿茶酚胺（肾上腺素和去甲肾上腺素），引发"战斗-逃跑-冻结"（fight-flight-freeze）反应。同时，下丘脑-垂体-肾上腺（HPA）轴被激活，释放皮质醇（cortisol）以动员能量。在正常应激中，当威胁消退后，HPA 轴会通过负反馈机制自行关闭；但在创伤性应激中，这一反馈机制被破坏。
+
+**Immediate Response**: When the brain's threat detection system (amygdala-hypothalamus-brainstem axis) detects an overwhelming threat, the sympathetic nervous system is fully activated, releasing large amounts of catecholamines (epinephrine and norepinephrine), triggering the "fight-flight-freeze" response. Simultaneously, the hypothalamic-pituitary-adrenal (HPA) axis is activated, releasing cortisol to mobilize energy. In normal stress, the HPA axis self-terminates through negative feedback when the threat subsides; in traumatic stress, this feedback mechanism is disrupted.
+
+**慢性化过程 / Chronicity Process**：如果创伤持续或反复发生，大脑会进入一种"永久性应激准备"状态——杏仁核持续高敏、前额叶调节功能被抑制、海马体因长期皮质醇暴露而受损。这种慢性化导致了一系列 PTSD 的核心症状：入侵性症状（闪回、噩梦、侵入性思维）、回避症状（回避创伤相关线索、情感麻木）、认知和情绪的负性改变（持续的恐惧/愤怒/羞耻/内疚、疏离感、兴趣丧失）以及唤醒和反应性的显著改变（易怒、高警觉、睡眠障碍、过度惊跳反应）。
+
+**Chronicity Process**: If trauma persists or recurs, the brain enters a state of "permanent stress readiness" — the amygdala remains hypersensitive, prefrontal regulation is inhibited, and the hippocampus is damaged by chronic cortisol exposure. This chronicity produces core PTSD symptoms: intrusion symptoms (flashbacks, nightmares, intrusive thoughts), avoidance symptoms (avoiding trauma-related cues, emotional numbing), negative alterations in cognition and mood (persistent fear/anger/shame/guilt, detachment, loss of interest), and marked alterations in arousal and reactivity (irritability, hypervigilance, sleep disturbance, exaggerated startle response).
+
+### 3. 冻结反应与解离 / Freeze Response and Dissociation
+
+当战斗和逃跑都不可行时（这在儿童创伤和长期虐待中极为常见），身体会进入"冻结"状态——这是一种由背侧迷走神经（dorsal vagal nerve）介导的极端防御反应，表现为身体僵硬、疼痛感降低、时间感扭曲和"灵魂出窍"般的解离体验。范德科尔克特别强调了冻结反应在创伤病理中的核心地位：许多创伤幸存者报告，在创伤发生时他们"无法动弹"、"喊不出来"、"感觉不真实"——这些不是"软弱"或"配合"的证据，而是大脑进化出来的最后防线。然而，如果这种冻结-解离模式被固化，患者可能会在日常生活中频繁"解离"——突然"飘走"、失去时间感、感觉周围的世界不真实（现实解体，derealization）或感觉自己不是自己（人格解体，depersonalization）。
+
+When neither fighting nor fleeing is feasible (extremely common in childhood trauma and chronic abuse), the body enters a "freeze" state — an extreme defensive response mediated by the dorsal vagal nerve, manifesting as bodily rigidity, reduced pain perception, distorted time sense, and "out-of-body" dissociative experience. Van der Kolk particularly emphasizes the central role of the freeze response in trauma pathology: many survivors report that during trauma they "couldn't move," "couldn't scream," "it didn't feel real" — these are not evidence of "weakness" or "compliance" but the brain's evolutionary last line of defense. However, if this freeze-dissociation pattern becomes entrenched, patients may frequently "dissociate" in daily life — suddenly "floating away," losing sense of time, feeling the surrounding world is unreal (derealization), or feeling they are not themselves (depersonalization).
+
+## 发展脉络 / Developmental Trajectory
+
+创伤性应激概念的演化经历了四个阶段：
+
+The evolution of the traumatic stress concept has progressed through four stages:
+
+**前科学时期（19世纪末–1970s）**：从"铁路脊柱"（railway spine，19世纪）到"弹震症"（shell shock，一战）到"战斗疲劳"（combat fatigue，二战），创伤反应长期被误解为身体损伤、性格弱点或"模拟疾病"。夏科（Charcot）、让内（Janet）和弗洛伊德（Freud）的研究开始将创伤反应理解为心理机制，但这一领域的科学地位仍不稳定。
+
+**Pre-scientific era (late 19th century–1970s)**: From "railway spine" (19th century) to "shell shock" (WWI) to "combat fatigue" (WWII), trauma responses were long mischaracterized as physical injury, character weakness, or "simulated illness." The research of Charcot, Janet, and Freud began to understand trauma responses as psychological mechanisms, but the field's scientific status remained unstable.
+
+**PTSD 的确立（1980）**：越南战争的创伤后果和女权运动对性暴力问题的揭露共同推动了 PTSD 在 1980 年被正式纳入 DSM-III。这标志着创伤性应激作为合法临床实体的承认。
+
+**Establishment of PTSD (1980)**: The traumatic consequences of the Vietnam War and the feminist movement's exposure of sexual violence jointly drove PTSD's formal inclusion in DSM-III in 1980, marking recognition of traumatic stress as a legitimate clinical entity.
+
+**神经生物学革命（1990s–2000s）**：范德科尔克等人将神经影像学和神经内分泌学引入创伤研究，彻底改变了人们对创伤性应激的理解——从"心理冲突"到"大脑改变"。
+
+**Neurobiological revolution (1990s–2000s)**: Van der Kolk and others introduced neuroimaging and neuroendocrinology into trauma research, fundamentally transforming understanding of traumatic stress — from "psychological conflict" to "brain alteration."
+
+**复杂性创伤的扩展（2010s–至今）**：ICD-11 正式收录复杂性 PTSD，承认了范德科尔克等人长期倡导的观点：长期人际创伤的影响远超 DSM-PTSD 的狭义定义。
+
+**Expansion of Complex Trauma (2010s–present)**: ICD-11 formally included Complex PTSD, acknowledging what van der Kolk and others long advocated: the effects of chronic interpersonal trauma far exceed the narrow DSM-PTSD definition.
+
+## 临床应用 / Clinical Applications
+
+### 创伤性应激的评估 / Assessment of Traumatic Stress
+
+范德科尔克主张多维度的创伤评估框架，包括：（1）创伤暴露史（类型、频率、持续时间、发展时期）；（2）症状评估（PTSD 症状、解离症状、躯体化症状、情感调节困难）；（3）功能评估（人际关系、工作/学习能力、自我照顾能力）；（4）资源评估（社会支持、经济安全、文化资源）；（5）身体评估（自主神经失调的体征、慢性疼痛、免疫/内分泌异常）。这种综合评估超越了 DSM 的症状清单，能够捕捉创伤对个体生活的全面影响。
+
+Van der Kolk advocates a multidimensional trauma assessment framework including: (1) trauma exposure history (type, frequency, duration, developmental timing); (2) symptom assessment (PTSD symptoms, dissociation symptoms, somatization, affect regulation difficulties); (3) functional assessment (interpersonal relationships, work/study capacity, self-care ability); (4) resource assessment (social support, economic security, cultural resources); (5) body assessment (signs of autonomic dysregulation, chronic pain, immune/endocrine abnormalities). This comprehensive assessment goes beyond DSM symptom checklists to capture trauma's full impact on individual life.
+
+### 稳定化与安全建设 / Stabilization and Safety Building
+
+在范德科尔克的治疗框架中，创伤性应激的治疗必须首先建立"安全与稳定化"（safety and stabilization）的基础。这包括：（1）外部安全——确保患者不再暴露于持续的创伤源（如家暴、虐待）；（2）内部安全——帮助患者发展情感调节技能（如呼吸练习、地面化技术、安全意象练习）；（3）关系安全——在治疗关系中建立信任、可预测性和边界感。只有在安全的基础上，才能进入第二阶段——创伤记忆的深入处理。
+
+In van der Kolk's treatment framework, traumatic stress treatment must first establish "safety and stabilization." This includes: (1) external safety — ensuring the patient is no longer exposed to ongoing trauma sources (e.g., domestic violence, abuse); (2) internal safety — helping patients develop emotional regulation skills (breathing exercises, grounding techniques, safe imagery); (3) relational safety — building trust, predictability, and boundary awareness in the therapeutic relationship. Only on this foundation of safety can the second phase — deep processing of traumatic memories — begin.
+
+## 关联概念 / Related Concepts
+
+- **身体从未忘记 / Body Keeps the Score** → [body-keeps-score.md](body-keeps-score.md) — 创伤性应激的身体层面 / The somatic dimension of traumatic stress
+- **发展性创伤 / Developmental Trauma** → [developmental-trauma.md](developmental-trauma.md) — 发展性创伤是创伤性应激的特殊形式 / Developmental trauma as a special form of traumatic stress
+- **窗格容忍度 / Window of Tolerance** — 西格尔的概念，描述个体能有效处理刺激的最佳唤醒区间 / Siegel's concept describing the optimal arousal zone for effective stimulus processing
+- **多迷走神经理论 / Polyvagal Theory** — 波吉斯的自主神经系统三层级模型 / Porges's three-level autonomic nervous system model
+
+## 东西方对话 / East-West Dialogue
+
+### 与佛教"苦"论的对话 / Dialogue with Buddhist Dukkha
+
+佛教四圣谛的第一谛——"苦"（dukkha）——可以被理解为对人类面对压倒性体验时的存在性描述。范德科尔克的创伤性应激概念与佛教对"苦"的分析在多个层面呼应：（1）两者都承认痛苦是人类经验的固有组成部分，而非需要消除的"异常"；（2）两者都描述了痛苦如何通过身体、感受和认知的相互作用而持续存在；（3）两者都指向"解脱"的可能性——佛教通过八正道，范德科尔克通过多模式创伤治疗。关键区别在于：佛教将"苦"视为普遍的生存条件，而范德科尔克将创伤性应激视为可预防、可治疗的具体临床问题。
+
+Buddhism's first Noble Truth — dukkha — can be understood as an existential description of human experience facing overwhelming conditions. Van der Kolk's traumatic stress concept resonates with Buddhist analysis of dukkha on multiple levels: (1) both acknowledge suffering as an inherent part of human experience, not an "abnormality" to be eliminated; (2) both describe how suffering persists through the interaction of body, sensation, and cognition; (3) both point toward the possibility of "liberation" — Buddhism through the Eightfold Path, van der Kolk through multimodal trauma treatment. The key distinction: Buddhism views dukkha as a universal existential condition, while van der Kolk views traumatic stress as a preventable, treatable clinical problem.
+
+## 进阶阅读 / Further Reading
+
+- van der Kolk, B.A., McFarlane, A.C., & Weisaeth, L. (Eds.). (1996). *Traumatic Stress*. New York: Guilford Press.
+- Herman, J.L. (1992). *Trauma and Recovery*. New York: Basic Books.（中译本：《创伤与恢复》）
+- American Psychiatric Association. (2013). *DSM-5: Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). PTSD criteria.
+- World Health Organization. (2019). *ICD-11: International Classification of Diseases* (11th ed.). Complex PTSD criteria.
+- Porges, S.W. (2011). *The Polyvagal Theory*. New York: Norton.

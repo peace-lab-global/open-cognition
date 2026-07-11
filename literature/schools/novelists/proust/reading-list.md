@@ -1,0 +1,155 @@
+---
+id: proust-reading-list
+title: 普鲁斯特进阶阅读 · Proust Reading List
+type: reading-list
+domain: literature
+school: novelists
+thinker: proust
+tags: [proust, bibliography, reading-guide, french-literature]
+cross-refs:
+  - id: proust
+    relation: thinker
+---
+
+# 普鲁斯特进阶阅读 · Proust Reading List
+
+## 一、阅读路径
+
+### 入门（关键场景，10 小时）
+1. 《在斯万家那边》第一部"贡布雷"——小玛德琳蛋糕场景
+2. 《在斯万家那边》第二部"斯万之恋"
+3. 《重现的时光》最后 50 页——"文学启示"
+
+### 进阶（前三卷精读，80 小时）
+4. 《在斯万家那边》全书
+5. 《在少女花影下》
+6. 《盖尔芒特家那边》
+
+### 深潜（全书 + 批评，300+ 小时）
+7. 七卷全书完整阅读
+8. 《驳圣伯夫》
+9. 热奈特《叙事话语》
+10. 德勒兹《普鲁斯特与符号》
+11. 《让·桑特伊》
+
+## 二、原典（必读）
+
+### 核心著作
+- *À la recherche du temps perdu* (1913–1927) — 七卷巨著
+  - *Du côté de chez Swann* (1913)
+  - *À l'ombre des jeunes filles en fleurs* (1919)
+  - *Le Côté de Guermantes* (1920)
+  - *Sodome et Gomorrhe* (1921–1922)
+  - *La Prisonnière* (1923)
+  - *Albertine disparue* / *La Fugitive* (1925)
+  - *Le Temps retrouvé* (1927)
+
+### 重要辅助
+- *Contre Sainte-Beuve* (1952, posthumous) — 批评文集
+- *Jean Santeuil* (1952, posthumous) — 未完成的自传性小说
+- *Les Plaisirs et les Jours* (1896) — 早期作品集
+- *Correspondance* (21 vols., Philip Kolb ed.) — 书信集
+
+### 法文标准版
+- *À la recherche du temps perdu* (Gallimard, Bibliothèque de la Pléiade, 4 vols., 1987–1989) — 标准学术版
+- *À la recherche du temps perdu* (Gallimard, Folio, 7 vols.) — 普及版
+
+### 中译本推荐
+- 李恒基、徐和瑾等 译《追忆似水年华》（七卷全译本，译林出版社，1989–1991）— 中文世界首部全译本
+- 修订版（译林出版社，2012）— 多人参与修订
+- 王道乾 译《驳圣伯夫》（上海译文出版社）
+
+### 英译本推荐
+- **Moncrieff, C.K. Scott** trans. *Remembrance of Things Past* (1922–1931) — 经典英译
+- **Enright, D.J.** revised *In Search of Lost Time* (Modern Library, 1992) — Moncrieff 的修订版
+- **Prendergast, Christopher** ed. *In Search of Lost Time* (Penguin, 7 vols., 2003–2005) — 21 世纪新译本（多位译者）
+
+## 三、传记
+
+### 经典传记
+- **Tadié, Jean-Yves** *Marcel Proust: A Life* (*Marcel Proust: Biographie*, 1996; English trans. 2000) — 最权威、最详尽的普鲁斯特传记
+- **Painter, George D.** *Marcel Proust: A Biography* (2 vols., 1959–1965) — 经典英语传记
+
+### 当代传记
+- **Carter, William C.** *Marcel Proust: A Life* (2000) — 重要的 21 世纪英语新传记
+- **Compagnon, Antoine** *Proust Between Two Centuries* (1992) — 思想传记
+
+### 第一手回忆
+- **Albaret, Céleste** *Monsieur Proust* (1973) — 女管家塞莱斯特·阿尔巴雷的回忆录——普鲁斯特晚年生活最亲密的第一手记录
+- **Mauriac, François** *Du côté de chez Proust* (1947) — 同时代人的回忆
+
+### 中文传记
+- 让—伊夫·塔迪耶《普鲁斯特传》（中译本）
+
+## 四、批评与研究
+
+### 经典研究
+- **Genette, Gérard** *Narrative Discourse* (*Discours du récit*, 1972) — 以普鲁斯特为核心案例的叙事时间理论
+- **Deleuze, Gilles** *Proust and Signs* (*Marcel Proust et les signes*, 1964/1970) — 将《追忆》解读为"符号的学习"——一种差异哲学
+- **Blanchot, Maurice** *The Space of Literature* (*L'Espace littéraire*, 1955) — 含关于普鲁斯特的重要章节
+- **Bersani, Leo** *Marcel Proust: The Fictions of Life and Art* (1965)
+
+### 当代研究
+- **Bowie, Malcolm** *Proust Among the Stars* (1998) — 普鲁斯特与政治、历史的关系
+- **Landy, Joshua** *Philosophy as Fiction: Self, Deception, and Knowledge in Proust* (2004)
+- **Landy** *How to Do Things with Fictions* (2012) — 含普鲁斯特章节
+- **Compagnon, Antoine** *Proust Between Two Centuries* (1992)
+- **Karin, Cristina** *Proust and the Visual Arts* (2019)
+- **Watt, Adam** ed. *Marcel Proust in Context* (2022) — 剑桥指南
+
+### 中文研究
+- 涂卫群《普鲁斯特学术史研究》
+- 罗芃《二十世纪法国文学史》（普鲁斯特章节）
+- 许钧《追忆似水年华》的翻译研究
+
+## 五、普鲁斯特的思想源头
+
+- **柏格森** — 绵延（durée）与内在时间的哲学
+- **叔本华** — 意志与表象、艺术作为解脱、音乐的最高地位
+- **罗斯金** — 艺术与感知、建筑的记忆
+- **波德莱尔** — "应和"（correspondances）——感官之间的神秘联结
+- **福楼拜** — 客观叙事与风格的自主性
+- **陀思妥耶夫斯基** — 嫉妒与心理深度的探索
+
+## 六、普鲁斯特的下游
+
+### 文学
+- **[乔伊斯](../novelists/joyce/README.md)** — 意识流的另一路径——空间化的时间 vs 时间化的空间
+- **伍尔夫** — 《达洛维夫人》《到灯塔去》的内在时间与日常时刻
+- **贝克特** — 语言的极限与沉默（贝克特早期论文研究普鲁斯特）
+- **纳博科夫** — 记忆的艺术化、细节的狂热
+- **罗伯—格里耶** — 新小说对普鲁斯特的反叛与继承
+- **莫迪亚诺** — 记忆与遗忘的主题（2014 年诺贝尔文学奖）
+- **塞巴尔德** — 记忆、摄影与历史的交织
+
+### 哲学与理论
+- **德勒兹** — 《普鲁斯特与符号》——差异与重复的哲学
+- **热奈特** — 叙事学以普鲁斯特为核心案例
+- **梅洛—庞蒂** — 身体知觉的现象学
+- **利科** — 《时间与叙事》——时间与叙事的关系
+
+### 科学
+- **赫兹（Rachel Herz）** — "普鲁斯特效应"（Proust Phenomenon）——嗅觉—记忆的神经科学
+- **图尔文（Endel Tulving）** — 情景记忆理论
+- **达马西奥** — 躯体标记假设
+
+## 七、研究工具
+
+- **Kolb-Proust Archive** (online) — 普鲁斯特书信数字档案
+- **Bulletin d'informations proustiennes** — 主要学术期刊（法国）
+- **Revue d'études proustiennes** — 普鲁斯特研究专刊
+- **Musée Carnavalet** (Paris) — 复原的普鲁斯特卧室
+- **Maison de Tante Léonie** (Illiers-Combray) — "贡布雷"的原型故居
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**普鲁斯特的精髓** | "贡布雷"（小玛德琳）→ "斯万之恋" → 《重现的时光》最后 50 页 |
+| 深入**记忆与时间** | 全书 → 柏格森《论意识的直接材料》→ 热奈特《叙事话语》 |
+| 理解**艺术哲学** | 《驳圣伯夫》→ 《重现的时光》"文学启示" → 德勒兹《普鲁斯特与符号》 |
+| 了解**嫉妒与认识** | "斯万之恋" → 《女囚》→ 《失踪的阿尔贝蒂娜》 |
+| **中文读者**入门 | 李恒基译《在斯万家那边》→ 涂卫群《普鲁斯特学术史研究》 |
+| **英文读者**入门 | Prendergast ed. *Swann's Way* → Tadié biography → Carter biography |
+| 探索**同性欲望** | 《索多姆与戈摩尔》→ 《女囚》→ Bowie *Proust Among the Stars* |
+| 了解**社交世界** | 《盖尔芒特家那边》→ 《重现的时光》午后聚会 |

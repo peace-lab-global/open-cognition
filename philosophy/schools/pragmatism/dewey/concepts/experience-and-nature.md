@@ -1,0 +1,141 @@
+---
+id: dewey-experience-and-nature
+title: 经验与自然 · Experience and Nature
+type: concept
+domain: philosophy
+school: pragmatism
+thinker: dewey
+tags:
+  - experience
+  - naturalism
+  - organism-environment
+  - spectator-theory
+  - 经验
+  - 自然主义
+parent: dewey
+---
+
+# 经验与自然 · Experience and Nature
+
+> "Experience is the result, the sign, and the reward of that interaction of organism and environment which, when it is carried to the full, is a transformation of interaction into participation and communication."
+>
+> "经验是有机体与环境交互作用的结果、标志和回报——当这种交互充分实现时，它就转化为参与和交流。"
+>
+> — John Dewey, *Experience and Nature* (1925)
+
+---
+
+## 概述 / Overview
+
+《经验与自然》（1925）是杜威最具形而上学雄心的著作，也是其实用主义哲学体系的基石。在这部著作中，杜威试图重新定义"经验"概念，使之摆脱传统认识论中"主观感知"的狭隘含义，成为一个涵盖有机体与环境完整交互过程的自然主义概念。这一重构同时批判了经验主义和理性主义，开辟了所谓的"第三条道路"。
+
+*Experience and Nature* (1925) is Dewey's most metaphysically ambitious work and the cornerstone of his pragmatist philosophical system. In this book, Dewey sought to redefine the concept of "experience," liberating it from the narrow meaning of "subjective perception" in traditional epistemology and establishing it as a naturalistic concept encompassing the complete organism-environment interaction. This reconstruction simultaneously criticizes empiricism and rationalism, opening what has been called a "third way."
+
+---
+
+## 经验作为有机体-环境交互 / Experience as Organism-Environment Transaction
+
+### "经验"的双重含义 / The Dual Meaning of "Experience"
+
+杜威指出，英语中"experience"一词保留了两个看似矛盾的含义：一方面，它指"经历"或"遭遇"（undergoing）——有机体被动地受到环境的影响；另一方面，它指"实验"或"尝试"（experimenting）——有机体主动地对环境采取行动。杜威认为，这两个方面不是分离的，而是同一过程的两面：
+
+Dewey noted that the English word "experience" retains two seemingly contradictory meanings: on one hand, it refers to "undergoing"—the organism being passively affected by its environment; on the other, to "experimenting"—the organism actively acting upon its environment. Dewey argued these two aspects are not separate but two sides of the same process:
+
+**做（doing）与受（undergoing）的统一**：一个生物在环境中行动（做），环境对此给予回应（受），生物又根据这一回应调整后续行动。这个完整的循环——行动、回应、调整——就是"经验"。
+
+**The unity of doing and undergoing**: An organism acts in its environment (doing), the environment responds (undergoing), and the organism adjusts subsequent actions based on this response. This complete cycle—action, response, adjustment—is "experience."
+
+### 与达尔文主义的关联 / Connection to Darwinism
+
+杜威的经验理论深植于达尔文进化论。在达尔文的框架中，有机体不是独立于环境的存在，而是与环境共同进化的。"适应"不是被动的匹配，而是主动的交互过程。杜威将这一洞见引入认识论：认知不是心灵对世界的"镜像"，而是有机体在与环境交互中发展出来的生存能力。
+
+Dewey's experience theory is deeply rooted in Darwinian evolution. In Darwin's framework, organisms are not independent of their environment but co-evolve with it. "Adaptation" is not passive matching but an active interaction process. Dewey imported this insight into epistemology: cognition is not the mind's "mirror" of the world but a survival capacity developed through organism-environment interaction.
+
+---
+
+## 反旁观者理论 / Against Spectator Theory
+
+### 什么是旁观者理论 / What Is Spectator Theory
+
+杜威在《经验与自然》和《确定性的追求》中反复批判的是他所谓的"旁观者知识论"（spectator theory of knowledge）。这种理论将认知者设想为一个"旁观者"——站在世界之外，客观地"观看"世界。从柏拉图的洞穴喻到笛卡尔的"我思"，再到洛克的白板说，西方认识论的主流传统都预设了主体与客体、心灵与世界的分离。
+
+What Dewey repeatedly criticized in *Experience and Nature* and *The Quest for Certainty* is what he called the "spectator theory of knowledge." This theory conceives the knower as a "spectator"—standing outside the world, objectively "watching" it. From Plato's cave allegory to Descartes's "cogito" to Locke's tabula rasa, the mainstream tradition of Western epistemology presupposes the separation of subject and object, mind and world.
+
+### 杜威的批判 / Dewey's Critique
+
+杜威认为旁观者理论犯了根本性的错误：
+
+Dewey held that spectator theory commits a fundamental error:
+
+1. **它忽视了认知本身是一种自然过程**：认知者不是站在自然之外的旁观者，而是自然的一部分。认知本身就是一种自然事件，发生在有机体与环境的交互之中。
+2. **它制造了虚假的二元对立**：主体/客体、心灵/身体、理论/实践、事实/价值的二元对立都源于旁观者框架。一旦放弃这一框架，这些对立就失去了根基。
+3. **它贬低了实践和身体**：旁观者理论将纯粹的"看"（理论）置于"做"（实践）之上，导致了对身体、情感和行动的哲学贬低。
+
+1. **It ignores that cognition is itself a natural process**: The knower is not a spectator standing outside nature but a part of nature. Cognition itself is a natural event occurring within organism-environment interaction.
+2. **It creates false dichotomies**: The subject/object, mind/body, theory/practice, fact/value dichotomies all originate from the spectator framework. Once this framework is abandoned, these dichotomies lose their foundation.
+3. **It devalues practice and the body**: Spectator theory places pure "seeing" (theory) above "doing" (practice), leading to the philosophical devaluation of body, emotion, and action.
+
+---
+
+## 质性思维 / Qualitative Thought
+
+### 直接经验的质性整体 / The Qualitative Wholeness of Direct Experience
+
+杜威在《经验与自然》中特别强调了"质性"（quality）在经验中的核心地位。他指出，在我们对经验进行分析、分类和概念化之前，每一个经验情境都具有一个统一的质性整体（qualitative whole）。这个质性整体不是各种感觉的集合，而是一种弥漫性的"氛围"或"调性"——它使得一个特定的情境具有独特的"味道"。
+
+Dewey particularly emphasized the centrality of "quality" in experience in *Experience and Nature*. He pointed out that before we analyze, classify, and conceptualize experience, every experiential situation possesses a unified qualitative whole. This qualitative whole is not an aggregate of sensations but a pervasive "atmosphere" or "tonality"—it gives a particular situation its distinctive "feel."
+
+例如，走进一个房间时，我们在注意到具体物件之前就感受到了一种"氛围"——温馨、压抑、冷漠或欢快。这种前反思的质性感知构成了所有后续分析和判断的基础。
+
+For example, when entering a room, we feel an "atmosphere"—warm, oppressive, indifferent, or joyful—before noticing specific objects. This pre-reflective qualitative perception constitutes the foundation for all subsequent analysis and judgment.
+
+### 质性思维与理性分析的关系 / Qualitative Thought and Rational Analysis
+
+杜威并不是要否定理性分析，而是要指出：理性分析始终在质性经验的背景中运作。科学探究的每一个步骤——从问题的提出到假设的检验——都受到研究者对情境的质性把握的引导。质性不是理性的对立面，而是理性运作的地基。
+
+Dewey did not intend to negate rational analysis but to demonstrate that rational analysis always operates within the background of qualitative experience. Every step of scientific inquiry—from problem formulation to hypothesis testing—is guided by the researcher's qualitative grasp of the situation. Quality is not the opposite of rationality but the ground on which rationality operates.
+
+---
+
+## 自然的连续性 / Continuity of Nature
+
+### 反对二元论 / Against Dualism
+
+《经验与自然》的核心论题之一是自然与经验的连续性。杜威反对将"经验"和"自然"视为两个分离的领域——仿佛经验是主观的"内"，自然是客观的"外"。他认为经验本身就是自然的一部分，是自然在有机体-环境交互中的显现方式。
+
+One of the central theses of *Experience and Nature* is the continuity of nature and experience. Dewey opposed treating "experience" and "nature" as two separate domains—as if experience is the subjective "inside" and nature the objective "outside." He held that experience is itself part of nature—nature's mode of manifestation in organism-environment interaction.
+
+这意味着：
+
+This means:
+
+- 心灵不是与身体分离的实体，而是有机体行为的一种组织方式。/ Mind is not an entity separate from the body but an organizational mode of organismic behavior.
+- 意识不是与物质分离的实体，而是经验达到特定复杂程度时出现的属性。/ Consciousness is not an entity separate from matter but a property that emerges when experience reaches a certain degree of complexity.
+- 价值不是与事实分离的领域，而是在有机体与环境的交互中产生的。/ Values are not a domain separate from facts but arise within organism-environment interaction.
+
+### 与过程哲学的关联 / Connection to Process Philosophy
+
+杜威的自然观与怀特海的过程哲学有显著的亲和性。两者都主张过程和关系优先于实体和属性，都拒绝静态的形而上学。但杜威更强调经验和实践维度，而怀特海更偏向宇宙论和数学化的表达。
+
+Dewey's view of nature has notable affinities with Whitehead's process philosophy. Both privilege process and relation over substance and attribute, both reject static metaphysics. But Dewey emphasizes the experiential and practical dimension more, while Whitehead leans toward cosmological and mathematicized expression.
+
+---
+
+## 与其他思想家的关系 / Relations to Other Thinkers
+
+- **洛克 / Locke**：杜威反对洛克将经验视为被动的感觉印象。/ Dewey opposed Locke's treatment of experience as passive sense impressions.
+- **康德 / Kant**：杜威接受康德对主动性的强调，但拒绝先验框架。/ Dewey accepted Kant's emphasis on activity but rejected the transcendental framework.
+- **梅洛-庞蒂 / Merleau-Ponty**：两者都强调身体性和前反思经验；梅洛-庞蒂的现象学方法与杜威的自然主义方法殊途同归。/ Both emphasized embodiment and pre-reflective experience; Merleau-Ponty's phenomenological method and Dewey's naturalist method converge from different directions.
+- **王阳明 / Wang Yangming**：两者的"经验"概念都包含行动维度——知行合一 vs 做与受的统一。/ Both concepts of "experience" include an action dimension—unity of knowledge and action vs unity of doing and undergoing.
+
+---
+
+## 当代意义 / Contemporary Significance
+
+- **具身认知 / Embodied Cognition**：杜威的经验理论是4E认知（embodied, embedded, enacted, extended）的哲学先驱。/ Dewey's experience theory is a philosophical precursor to 4E cognition.
+- **生态心理学 / Ecological Psychology**：Gibson 的"可供性"（affordance）理论直接呼应了杜威的有机体-环境交互概念。/ Gibson's "affordance" theory directly echoes Dewey's organism-environment interaction concept.
+- **环境美学 / Environmental Aesthetics**：Arnold Berleant 的"参与美学"直接建立在杜威的经验理论之上。/ Arnold Berleant's "engagement aesthetics" is directly built on Dewey's experience theory.
+
+---
+
+> 返回 / Back to: [杜威 Dewey](../) · [Pragmatism 实用主义](../../)

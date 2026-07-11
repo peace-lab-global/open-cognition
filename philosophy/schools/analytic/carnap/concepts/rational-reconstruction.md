@@ -1,0 +1,62 @@
+---
+id: carnap-rational-reconstruction
+title: 理性重构 · Rational Reconstruction
+type: concept
+thinker: carnap
+domain: philosophy
+school: analytic
+tags: [epistemology, construction, logic, Aufbau]
+---
+
+# 理性重构 · Rational Reconstruction
+
+## 概念定位 / Conceptual Position
+
+"理性重构"（Rational Reconstruction）是卡尔纳普在《世界的逻辑构造》（*Aufbau*, 1928）中提出的核心方法论概念。它指的是：不描述知识实际上如何在心理上被获得，而是重构知识的逻辑结构——展示如何从最基本的元素通过逻辑运算层层建构出全部科学概念。
+
+"Rational Reconstruction," the core methodological concept in Carnap's *Der logische Aufbau der Welt* (1928), refers to: not describing how knowledge is actually acquired psychologically, but reconstructing the logical structure of knowledge — showing how all scientific concepts can be logically constructed from the most basic elements through logical operations.
+
+## 核心论述 / Core Argument
+
+### 构造系统的目标 / Goal of the Construction System
+
+卡尔纳普的目标是从"基本体验"（Elementarerlebnisse）出发，用逻辑关系和运算层层建构出：
+
+Carnap's goal was to construct from "elementary experiences" through logical relations and operations:
+
+1. **自我心理对象 / Autopsychological Objects**: 个人的感觉、情绪、意愿
+2. **物理对象 / Physical Objects**: 空间中的物质实体
+3. **他人心灵对象 / Heteropsychological Objects**: 他人的心理状态
+4. **文化对象 / Cultural Objects**: 社会制度、价值、艺术品
+
+每一步建构都使用"准分析"（quasi-analysis）方法——从原始体验的关系结构中"抽象"出更高层次的对象。
+
+Each construction step uses "quasi-analysis" — "abstracting" higher-level objects from the relational structure of primitive experiences.
+
+### 与心理学的区分 / Distinction from Psychology
+
+理性重构不是心理学——它不关心知识实际上如何被获得（这是发生学问题），而关心知识如何被逻辑地证明是正当的（这是认识论问题）。这继承了康德式的"正当性"问题，但用逻辑方法取代了先验方法。
+
+Rational reconstruction is not psychology — it does not concern how knowledge is actually acquired (a genetic question) but how knowledge can be logically justified (an epistemological question). This inherits the Kantian "justification" question but replaces transcendental methods with logical ones.
+
+### 构造的失败与遗产 / Failure and Legacy
+
+卡尔纳普的*Aufbau*计划最终被认为失败了——无法从基本体验逻辑地建构出全部科学概念。但其方法论遗产深远：
+- 影响了后来的概念分析和还原论
+- 启发了计算机科学的"自底向上"构建方法
+- 为当代形式本体论提供了方法论模型
+
+Carnap's *Aufbau* project was ultimately considered a failure — unable to logically construct all scientific concepts from basic experiences. But its methodological legacy was profound.
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与唯识学"唯识所变" / With Yogacara's "Consciousness-Only Transformation"
+唯识学描述宇宙万法如何从阿赖耶识中的种子"变现"而来——这是一种"心理建构论"。与卡尔纳普的"理性重构"相比，唯识学的建构是存在论层面的（种子生现行），卡尔纳普的建构是认识论层面的（从体验到概念的逻辑推导）。但两者共享一种"建构主义"的方法论精神。
+
+Yogacara describes how all phenomena "manifest" from seeds in the storehouse consciousness — a kind of "psychological constructionism." Compared to Carnap's "rational reconstruction," Yogacara's construction is ontological (seeds producing actual phenomena), while Carnap's is epistemological (logical derivation from experience to concepts). But both share a "constructionist" methodological spirit.
+
+## 相关概念 / Related Concepts
+
+- [逻辑句法 Logical Syntax](logical-syntax.md)
+- [经验意义 Empirical Meaning](empirical-meaning.md)
+- [卡尔纳普主页](../README.md)

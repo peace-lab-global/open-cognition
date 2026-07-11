@@ -1,0 +1,37 @@
+---
+id: cognitive-systems.naturalistic-decision.endsley-works
+title: 恩兹利作品总览
+type: works-catalogue
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: endsley
+tags: [endsley, works, situation-awareness]
+cross-refs: [{id: endsley, relation: thinker}]
+---
+
+# 恩兹利作品总览
+
+## 核心学术论文
+| 年份 | 论文 | 期刊/出处 | 核心贡献 |
+|------|------|-----------|----------|
+| 1988 | "Design and Evaluation for Situation Awareness" | *Proceedings of the Human Factors Society* | 早期SA概念界定与测量构想 |
+| 1995 | "Toward a Theory of Situation Awareness in Dynamic Systems" | *Human Factors* 37(1) | SA三级模型奠基论文 |
+| 1995 | "Measurement of Situation Awareness in Dynamic Systems" | *Human Factors* 37(1) | SAGAT方法论系统阐述 |
+| 1997 | "The Role of Situation Awareness in Naturalistic Decision Making" | *Naturalistic Decision Making* (Zsambok & Klein eds.) | SA与NDM的理论联结 |
+| 2000 | "Direct Measurement of Situation Awareness: Validity and Use of SAGAT" | *SA Analysis and Measurement* | SAGAT效度验证 |
+| 2001 | "Information Fusion and Situation Awareness" | *IEEE Conference on Information Fusion* | 信息融合与SA的关系 |
+| 2003 | "Situation Awareness: State of the Art" | *Digital Avionics Systems Conference* | SA研究综述 |
+| 2010 | "Situation Awareness: Future Directions" | *Journal of Cognitive Engineering and Decision Making* | SA前沿方向 |
+| 2015 | "Automation and Situation Awareness" | *Handbook of Human Factors* | 自动化对SA影响的系统综述 |
+
+## 核心著作
+| 年份 | 书名 | 出版社 | 核心贡献 |
+|------|------|--------|----------|
+| 2000 | *Situation Awareness Analysis and Measurement* (与Garland合编) | Lawrence Erlbaum Associates | 汇集多种SA测量方法的学术文集 |
+| 2003 | *Designing for Situation Awareness* (第一版) | CRC Press | SA导向设计的50条实用原则 |
+| 2012 | *Designing for Situation Awareness* (第二版) | CRC Press | 扩展至网络安全、医疗等新兴领域 |
+
+## 阅读路径
+**入门**: "Toward a Theory of Situation Awareness" (1995) → *Designing for SA* 第1-3章
+**进阶**: *SA Analysis and Measurement* (2000) → *Designing for SA* 完整
+**深潜**: 近年论文（2010s）关于AI与人机协作中的SA问题

@@ -1,0 +1,49 @@
+---
+id: cognitive-systems.school.cognitive-engineering.minsky.reading-list
+title: 明斯基阅读指南 Marvin Minsky Reading List
+type: reading-list
+thinker: minsky
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 明斯基阅读指南 / Marvin Minsky Reading List
+
+## 入门路径 / Getting Started
+
+1. Minsky, M. (1985). *The Society of Mind*. Simon & Schuster.
+   - **推荐理由**：明斯基最具影响力的著作，270个短章描述心智的多代理架构
+
+2. Minsky, M. (2006). *The Emotion Machine*. Simon & Schuster.
+   - **推荐理由**：拓展到情绪和高层思维，可读性强
+
+## 原典 / Primary Sources
+
+| 年份 | 著作 | 重要程度 | 说明 |
+|------|------|----------|------|
+| 1969 | *Perceptrons*（与 Papert） | 重要 | 神经网络能力的数学分析 |
+| 1975 | "A Framework for Representing Knowledge" | 核心 | 框架理论奠基论文 |
+| 1985 | *The Society of Mind* | 必读 | 心智的多代理架构 |
+| 2006 | *The Emotion Machine* | 推荐 | 情绪与高层思维 |
+
+## 二手研究 / Secondary Literature
+
+| 年份 | 作者 | 著作 | 说明 |
+|------|------|------|------|
+| 1993 | Crevier, D. | *AI: The Tumultuous History* | AI历史的经典叙述，含Minsky章节 |
+| 2006 | Boden, M. | *Mind as Machine* | 认知科学史中的Minsky定位 |
+| 2019 | Crevier, D. | *AI: The Tumultuous Search for Artificial Intelligence*（更新版） | AI历史更新 |
+
+## 思想对话 / Intellectual Dialogues
+
+| 思想家 | 著作 | 与明斯基的关系 |
+|--------|------|----------------|
+| Rumelhart & McClelland | *Parallel Distributed Processing* (1986) | 联结主义对符号主义的回应 |
+| Simon & Newell | *Human Problem Solving* (1972) | 信息加工心理学传统 |
+| McCarthy, J. | 多篇论文 | AI共创人，符号AI传统 |
+
+## 中文资源
+
+- 明斯基《心智社会》（湛庐文化）
+- 明斯基《情感机器》（浙江人民出版社）
+- AI史相关中文教材中对Minsky工作的介绍

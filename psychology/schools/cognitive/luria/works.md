@@ -1,0 +1,105 @@
+---
+id: luria-works
+title: "卢里亚作品总览 · Works of Luria"
+type: works
+domain: psychology
+school: cognitive
+thinker: luria
+tags: [works, neuropsychology, case-study, functional-systems, clinical-psychology]
+cross-refs:
+  - id: luria
+    relation: thinker
+---
+
+# 卢里亚作品总览
+
+## 早期文化-历史心理学 (1920s-1930s)
+
+### 《言语与智力》(Речь и интеллект / Speech and Intellect, 1927)
+
+卢里亚早期的重要著作，研究儿童言语发展与智力之间的关系。继承维果茨基的思路，探讨语言在认知发展中的中介角色。这是他后来"符号中介"理论的早期实证基础。
+
+### 《中亚的心理发展问题》(Problems of Central Asian Psychological Development, 1931-1932 考察报告)
+
+卢里亚 1931-1932 年中亚乌兹别克斯坦考察的研究成果。报告展示了不同教育水平的个体在分类、推理、自我意识等认知功能上的系统性差异，为文化-历史理论提供了跨文化证据。因政治原因延迟出版，直到 1974 年才以英文出版为 *Cognitive Development: Its Cultural and Social Foundations* (1976)。
+
+Reports the findings of Luria's 1931-1932 Central Asian expedition, showing systematic differences in classification, reasoning, and self-awareness across individuals with different education levels. Delayed for political reasons; published in English as *Cognitive Development: Its Cultural and Social Foundations* (1976).
+
+### 《一个孪生子的心理发展》(Psychological Development of Twins, 1930s)
+
+对同卵双胞胎的研究，探讨遗传与环境在心理发展中的相对贡献。属于文化-历史学派早期关于"社会环境如何塑造认知"的实证工作。
+
+## 战争年代与神经心理学奠基 (1940s-1950s)
+
+### 《创伤性失语症》(Травматическая афазия / Traumatic Aphasia, 1947)
+
+卢里亚神经心理学的奠基之作。基于二战期间在乌拉尔地区治疗的大量脑损伤伤员案例，系统分析了创伤性失语症的分类、机制与康复。提出功能系统分析的方法来理解不同类型的语言障碍。英译本 1970 年出版。
+
+Luria's founding work of neuropsychology. Based on extensive case material from WWII brain-injured soldiers treated in the Ural region, it systematically analyzed the classification, mechanisms, and rehabilitation of traumatic aphasia. English translation 1970.
+
+### 《脑与心理过程》(Мозг и психические процессы / Brain and Psychological Processes, 1963)
+
+将脑损伤研究与心理学理论系统结合的著作。阐述了脑损伤如何改变记忆、思维、语言等高级心理过程，提出功能系统理论的理论框架。
+
+### 《脑损伤后的功能恢复》(Восстановление функций после мозговой травмы / Restoration of Function after Brain Injury, 1963)
+
+系统阐述脑损伤后功能恢复的理论与实践。提出"系统内重组"和"系统间重组"两种康复模式，奠定了当代脑损伤康复训练的科学基础。
+
+## 理论巅峰 (1960s)
+
+### 《人脑高级皮质功能》(Высшие корковые функции человека / Higher Cortical Functions in Man, 1962/1966)
+
+卢里亚的学术巅峰之作，也是 20 世纪神经心理学最重要的理论著作。系统阐述了功能系统理论、动态定位概念、症候群分析方法，以及各高级皮质功能 (语言、记忆、思维、书写、阅读、计算、随意运动) 的脑机制。1966 年英译本使其在国际学术界产生广泛影响。
+
+Luria's academic masterpiece and the most important theoretical work of 20th-century neuropsychology. Systematically elaborates the functional system theory, dynamic localization concept, syndrome analysis method, and the brain mechanisms of each higher cortical function (language, memory, thinking, writing, reading, calculation, voluntary movement). The 1966 English translation brought it widespread international influence.
+
+### 《记忆大师的心灵》(Маленькая книжка о большой памяти / The Mind of a Mnemonist, 1968)
+
+对超常记忆者 Solomon Shereshevsky ("S") 长达 30 年的追踪研究。S 拥有近乎无限的记忆力，但这种超常能力同时带来了严重的问题——他难以抽象思维，因为每一个概念都会唤起大量具体的感官意象。卢里亚以深度的个案叙事展示了"记忆的双刃剑"本质，是"浪漫科学"方法的典范之作。英译本 1968 年由 Jerome Bruner 作序。
+
+A 30-year longitudinal study of the mnemonist Solomon Shereshevsky ("S"), who possessed near-limitless memory. But this extraordinary ability brought serious problems — he found abstract thinking difficult because every concept evoked vivid sensory imagery. Luria's deep case narrative reveals the "double-edged sword" of memory, a masterpiece of "romantic science." English translation 1968, with a foreword by Jerome Bruner.
+
+## 成熟期 (1970s)
+
+### 《破碎的世界》(Потерянный и возвращённый мир / The Man with a Shattered World, 1971)
+
+对脑损伤士兵 Lev Zasetsky 的深度个案研究。Zasetsky 在 1943 年头部中弹，左顶-枕叶严重受损，丧失了阅读、书写、空间定向和记忆等多种功能。在卢里亚 25 年的帮助下，Zasetsky 通过写作来重建自己的世界。这本书以 Zasetsky 自己的文字为主体，结合卢里亚的临床分析，是"浪漫科学"最感人的作品。英译本 1972 年由 Oliver Sacks 撰写推荐语。
+
+A deep case study of the brain-injured soldier Lev Zasetsky, who suffered a bullet wound to the left parieto-occipital region in 1943, losing reading, writing, spatial orientation, and memory functions. Over 25 years with Luria's help, Zasetsky used writing to rebuild his world. The book centers on Zasetsky's own words combined with Luria's clinical analysis — the most moving work of "romantic science." English translation 1972.
+
+### 《神经心理学原理》(Основы нейропсихологии / Fundamentals of Neuropsychology, 1973)
+
+教科书级的神经心理学系统框架。涵盖了神经心理学的理论基础、评估方法、各功能领域的分析以及康复原则。至今仍是俄语世界最重要的神经心理学教材。
+
+A textbook-level systematic framework for neuropsychology, covering theoretical foundations, assessment methods, analysis of each functional domain, and rehabilitation principles. It remains the most important neuropsychology textbook in the Russian-speaking world.
+
+### 《工作着的大脑》(Работающий мозг / The Working Brain, 1973)
+
+卢里亚一生思想的总结，也是他最可读性的著作。面向受过教育的普通读者，以清晰的笔触阐述了大脑的结构与功能、三功能单元模型、各高级皮质功能的脑机制、脑损伤的临床案例以及康复的可能性。是理解卢里亚思想的最佳入门读物。
+
+The summation of Luria's lifetime of thought and his most readable work. Written for educated general readers, it covers brain structure and function, the three functional units model, brain mechanisms of higher cortical functions, clinical cases, and possibilities for rehabilitation. The best entry point for understanding Luria's thought.
+
+### 《语言与意识》(Язык и сознание / Language and Consciousness, 1973)
+
+探讨语言在意识形成中的角色，继承维果茨基关于语言与思维关系的讨论。
+
+### 《亚历山大·鲁利亚选集》(Selected Works / Избранные труды, 多卷本)
+
+卢里亚晚年编辑的多卷本选集，汇集了其一生最重要的论文和专著。
+
+## 完整年表
+
+| 年份 | 著作 | 类型 | 核心贡献 |
+|---|---|---|---|
+| 1927 | *Speech and Intellect* (言语与智力) | 专著 | 儿童言语与智力的关系 |
+| 1932 | 中亚考察 (Central Asian Expedition) | 田野研究 | 文化对认知的影响 |
+| 1947 | *Traumatic Aphasia* (创伤性失语症) | 专著 | 失语症的分类与功能系统分析 |
+| 1962 | *Higher Cortical Functions in Man* (人脑高级皮质功能) | 专著 | 功能系统理论，动态定位，症候群分析 |
+| 1963 | *Brain and Psychological Processes* (脑与心理过程) | 专著 | 脑损伤与高级心理过程 |
+| 1963 | *Restoration of Function after Brain Injury* (脑损伤后的功能恢复) | 专著 | 功能重组与康复理论 |
+| 1968 | *The Mind of a Mnemonist* (记忆大师的心灵) | 个案研究 | 超常记忆的浪漫科学叙事 |
+| 1971 | *The Man with a Shattered World* (破碎的世界) | 个案研究 | 脑损伤士兵的自我叙事 |
+| 1973 | *Fundamentals of Neuropsychology* (神经心理学原理) | 教材 | 神经心理学系统框架 |
+| 1973 | *The Working Brain* (工作着的大脑) | 普及读物 | 三功能单元模型，一生思想总结 |
+| 1973 | *Language and Consciousness* (语言与意识) | 专著 | 语言在意识形成中的角色 |
+| 1976 | *Cognitive Development: Its Cultural and Social Foundations* | 英文版 | 中亚考察完整报告 (追记出版) |

@@ -1,0 +1,64 @@
+---
+id: psychology.cognitive.tart.timeline
+title: "塔特生平年表 · Charles Tart Timeline"
+type: timeline
+thinker: tart
+---
+
+# 塔特生平年表 · Charles Tart Life Timeline
+
+## 早年与学术训练 / Early Life and Academic Training
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1937 | 出生于美国新泽西州特伦顿市 / Born in Trenton, New Jersey, USA |
+| 1955–1959 | 在杜克大学（Duke University）学习电气工程，获学士学位 / Studied electrical engineering at Duke University, earned B.S. |
+| 1959–1963 | 转入心理学，在斯坦福大学（Stanford University）师从 Ernest Hilgard 研究催眠，获心理学博士学位 / Switched to psychology, studied hypnosis under Ernest Hilgard at Stanford University, earned PhD |
+
+## 开创期 / Pioneering Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1963 | 获斯坦福大学博士学位；开始在斯坦福研究所（SRI）从事研究 / Received PhD from Stanford; began research at Stanford Research Institute (SRI) |
+| 1963–1965 | 在 SRI 研究催眠和大麻诱发的意识状态 / Researched hypnosis and cannabis-induced consciousness states at SRI |
+| 1965 | 加入加州大学戴维斯分校（UC Davis）心理学系 / Joined UC Davis psychology department |
+| 1966 | 发表 "Hypnosis as Altered State of Consciousness"——催眠作为独立意识状态的早期论证 / Published "Hypnosis as Altered State of Consciousness" — early argument for hypnosis as an independent consciousness state |
+| 1967 | 参与马斯洛、萨蒂奇、格罗夫等人的"超人本主义心理学"讨论 / Participated in Maslow, Sutich, Grof et al.'s "trans-humanistic psychology" discussions |
+| 1969 | 编辑出版 *Altered States of Consciousness*——ASC 研究的里程碑文集；参与创立超个人心理学协会（ATP）；*Journal of Transpersonal Psychology* 创刊 / Edited and published *Altered States of Consciousness* — landmark anthology of ASC research; co-founded the Association for Transpersonal Psychology (ATP); *Journal of Transpersonal Psychology* launched |
+
+## 理论建构期 / Theoretical Construction Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1970 | 发表 "Transpersonal Potentialities of Drugs and Psychedelics" / Published "Transpersonal Potentialities of Drugs and Psychedelics" |
+| 1971 | 在 *Scientific American* 发表大麻心理效应研究 / Published marijuana psychological effects research in *Scientific American* |
+| 1972 | 出版 *On Being Stoned*——大麻意识状态的系统研究；发表 "States of Consciousness and State-Specific Sciences"（SSS 概念的早期阐述） / Published *On Being Stoned* — systematic study of marijuana consciousness states; published "States of Consciousness and State-Specific Sciences" (early articulation of SSS concept) |
+| 1975 | 出版 *States of Consciousness*——意识状态理论的系统巨著 / Published *States of Consciousness* — systematic magnum opus of consciousness states theory |
+| 1977 | 开发 *Learning ESP with Charles Tart*——用计算机辅助训练超感知觉的实验项目 / Developed *Learning ESP with Charles Tart* — experimental computer-assisted ESP training project |
+| 1979 | 发表 "The State-Specific Study of Consciousness"（*American Psychologist*）——SSS 方法论的正式提出 / Published "The State-Specific Study of Consciousness" (*American Psychologist*) — formal proposal of SSS methodology |
+
+## 整合与深化期 / Integration and Deepening Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1983 | 编辑出版 *High Times and Altered States of Consciousness*（修订版） / Edited and published *High Times and Altered States of Consciousness* (revised edition) |
+| 1984 | 发表 "Acknowledging the Dismissal of Psi"——对学术排斥 psi 现象的批评 / Published "Acknowledging the Dismissal of Psi" — critique of academic exclusion of psi phenomena |
+| 1986 | 出版 *Waking Up: Overcoming the Obstacles to Human Potential*——整合东方冥想与西方心理学 / Published *Waking Up: Overcoming the Obstacles to Human Potential* — integrating Eastern meditation with Western psychology |
+| 1989 | 出版 *Open Mind, Discriminating Mind* / Published *Open Mind, Discriminating Mind* |
+| 1990 | 出版 *Altered States of Consciousness* 第三版 / Published third edition of *Altered States of Consciousness* |
+| 1994 | 出版 *Living the Mindful Life*——正念日常实践指南 / Published *Living the Mindful Life* — practical guide to everyday mindfulness |
+| 1995 | 发表 "The Consensus Trance"——共识恍惚概念的深化 / Published "The Consensus Trance" — deepening of the consensus trance concept |
+
+## 晚期 / Late Career
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1999 | 出版 *Body Mind Spirit: Exploring the Parapsychological Ecosystem* / Published *Body Mind Spirit: Exploring the Parapsychological Ecosystem* |
+| 2000s | 从 UC Davis 荣休，担任加州整合研究学院（CIIS）荣誉教授 / Retired from UC Davis, served as professor emeritus at California Institute of Integral Studies (CIIS) |
+| 2009 | 出版 *The End of Materialism*——对科学唯物主义的最具争议性挑战 / Published *The End of Materialism* — most controversial challenge to scientific materialism |
+| 2010s | 持续参与超个人心理学和意识研究的学术活动；推动 psi 研究的科学合法性 / Continued academic activities in transpersonal psychology and consciousness research; promoted scientific legitimacy of psi research |
+| 2024 | 去世 / Died |
+
+---
+
+> **返回 / Return:** [README.md](README.md) · [works.md](works.md) · [reading-list.md](reading-list.md)

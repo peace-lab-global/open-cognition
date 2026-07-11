@@ -1,0 +1,48 @@
+---
+id: parfit-personal-identity
+title: 人格同一性 · Personal Identity
+type: concept
+thinker: parfit
+domain: philosophy
+school: analytic
+tags: [identity, psychology, continuity, reductionism]
+---
+# 人格同一性 · Personal Identity
+
+## 概念定位 / Conceptual Position
+Parfit论证人格同一性是可还原的：不是"进一步的事实"，而是心理连续性与连接性（R-关系）的程度问题。
+
+Parfit argues personal identity is reducible: not a "further fact" but a matter of degree of psychological continuity and connectedness.
+
+## 核心论述 / Core Argument
+
+### 心理连续性与连接性 / Psychological Continuity and Connectedness
+- **连接性（connectedness）**: 两个时间点的心理状态之间有直接因果关系（如记忆、意图传递）
+- **连续性（continuity）**: 通过重叠的连接链相连（A连B，B连C → A与C连续但不一定连接）
+- **R-关系**: 心理连续性与连接性的组合
+
+### 传输器思维实验 / Teletransporter
+你的身体被扫描后摧毁，在火星上完美重建。这是"你"吗？Parfit说：重要的不是"是否是你"，而是心理连续性是否保持。
+
+Your body is scanned, destroyed, and perfectly reconstructed on Mars. Is this "you"? Parfit says: what matters is not "whether it is you" but whether psychological continuity is maintained.
+
+### 分裂思维实验 / Fission
+你的大脑被分成两半，分别植入两个身体。两人都与你心理连续——"同一性"在这里崩溃了，但"连续性"仍然有效。这证明同一性不是真正重要的。
+
+Your brain is split, each half implanted in a different body. Both are psychologically continuous with you — "identity" breaks down here, but "continuity" remains. This proves identity is not what truly matters.
+
+## 哲学意义 / Philosophical Significance
+1. 颠覆了常识的同一性概念 / Overthrew commonsense identity
+2. 影响生命伦理学（堕胎、安乐死、AI人格）
+3. 与佛教"无我"形成跨文化共鸣
+
+## 东西方对话 / East-West Dialogue
+### 与唯识学"相似相续" / With Yogacara's "Similar Continuity"
+唯识学用"相似相续"描述自我：前一刹那的识与后一刹那的识不是"同一个"，但也不是"完全不同的"——通过种子的传递形成连续性。这与Parfit的R-关系惊人地相似。
+
+Yogacara's "similar continuity" describes the self: consciousness at t1 and t2 are neither "the same" nor "completely different" — continuity formed through seed transmission. This is strikingly similar to Parfit's R-relation.
+
+## 相关概念 / Related Concepts
+- [还原论 Reductionism](reductionism.md)
+- [未来伦理 Future Ethics](future-ethics.md)
+- [帕菲特主页](../README.md)

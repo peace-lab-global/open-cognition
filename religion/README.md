@@ -79,22 +79,25 @@
 - [临济宗 Rinzai](buddhism/schools/rinzai.md) · [曹洞宗 Sōtō](buddhism/schools/soto.md) · [净土真宗 Jōdo-Shinshū](buddhism/schools/jodo-shinshu.md) · [宁玛派 Nyingma](buddhism/schools/nyingma.md)
 
 **高僧 Masters**（buddhism/masters/）
-- [龙树 Nāgārjuna](buddhism/masters/nagarjuna.md) · [无著·世亲](buddhism/masters/asanga-vasubandhu.md)
-- [智顗 Zhìyǐ](buddhism/masters/zhiyi.md) · [法藏 Fǎzàng](buddhism/masters/fazang.md)
-- [慧能 Huìnéng](buddhism/masters/huineng.md) · [莲花生](buddhism/masters/padmasambhava.md)
-- [宗喀巴 Tsongkhapa](buddhism/masters/tsongkhapa.md) · [道元 Dōgen](buddhism/masters/dogen.md)
-- [阿底峡 Atiśa](buddhism/masters/atisha.md) · [密勒日巴 Milarepa](buddhism/masters/milarepa.md)
-- [马鸣 Aśvaghoṣa](buddhism/masters/ashvaghosha.md) · [法称 Dharmakīrti](buddhism/masters/dharmakirti.md)
-- [空海 Kūkai](buddhism/masters/kukai.md) · [荣西 Yōsai](buddhism/masters/yosai.md)
-- [僧肇 Sēngzhào](buddhism/masters/sengzhao.md) · [道宣 Dàoxuān](buddhism/masters/daoxuan.md)
-- [吉藏 Jízàng](buddhism/masters/jizang.md) · [窥基 Kuījī](buddhism/masters/kuiji.md)
-- [善导 Shàndǎo](buddhism/masters/shandao.md) · [印光 Yìnguāng](buddhism/masters/yinguang.md)
-- [鸠摩罗什 Kumārajīva](buddhism/masters/kumarajiva.md) · [菩提达摩 Bodhidharma](buddhism/masters/bodhidharma.md)
-- [慧远 Huìyuǎn](buddhism/masters/huiyuan.md) · [法显 Fǎxiǎn](buddhism/masters/faxian.md)
-- [提婆 Āryadeva](buddhism/masters/aryadeva.md) · [陈那 Dignāga](buddhism/masters/dignaga.md)
-- [月称 Candrakīrti](buddhism/masters/candrakirti.md) · [寂天 Śāntideva](buddhism/masters/santideva.md)
-- [真谛 Paramārtha](buddhism/masters/paramartha.md) · [隆钦巴 Longchenpa](buddhism/masters/longchenpa.md)
-- [白隐慧鹤 Hakuin](buddhism/masters/hakuin.md) · [太虚 Tàixū](buddhism/masters/taixu.md)
+
+> 每位高僧已展开为独立专题文件夹（README + 5 概念子页 + works/timeline/reading-list）。
+
+- [龙树 Nāgārjuna](buddhism/masters/nagarjuna/README.md) · [无著·世亲](buddhism/masters/asanga-vasubandhu/README.md)
+- [智顗 Zhìyǐ](buddhism/masters/zhiyi/README.md) · [法藏 Fǎzàng](buddhism/masters/fazang/README.md)
+- [慧能 Huìnéng](buddhism/masters/huineng/README.md) · [莲花生](buddhism/masters/padmasambhava/README.md)
+- [宗喀巴 Tsongkhapa](buddhism/masters/tsongkhapa/README.md) · [道元 Dōgen](buddhism/masters/dogen/README.md)
+- [阿底峡 Atiśa](buddhism/masters/atisha/README.md) · [密勒日巴 Milarepa](buddhism/masters/milarepa/README.md)
+- [马鸣 Aśvaghoṣa](buddhism/masters/ashvaghosha/README.md) · [法称 Dharmakīrti](buddhism/masters/dharmakirti/README.md)
+- [空海 Kūkai](buddhism/masters/kukai/README.md) · [荣西 Yōsai](buddhism/masters/yosai/README.md)
+- [僧肇 Sēngzhào](buddhism/masters/sengzhao/README.md) · [道宣 Dàoxuān](buddhism/masters/daoxuan/README.md)
+- [吉藏 Jízàng](buddhism/masters/jizang/README.md) · [窥基 Kuījī](buddhism/masters/kuiji/README.md)
+- [善导 Shàndǎo](buddhism/masters/shandao/README.md) · [印光 Yìnguāng](buddhism/masters/yinguang/README.md)
+- [鸠摩罗什 Kumārajīva](buddhism/masters/kumarajiva/README.md) · [菩提达摩 Bodhidharma](buddhism/masters/bodhidharma/README.md)
+- [慧远 Huìyuǎn](buddhism/masters/huiyuan/README.md) · [法显 Fǎxiǎn](buddhism/masters/faxian/README.md)
+- [提婆 Āryadeva](buddhism/masters/aryadeva/README.md) · [陈那 Dignāga](buddhism/masters/dignaga/README.md)
+- [月称 Candrakīrti](buddhism/masters/candrakirti/README.md) · [寂天 Śāntideva](buddhism/masters/santideva/README.md)
+- [真谛 Paramārtha](buddhism/masters/paramartha/README.md) · [隆钦巴 Longchenpa](buddhism/masters/longchenpa/README.md)
+- [白隐慧鹤 Hakuin](buddhism/masters/hakuin/README.md) · [太虚 Tàixū](buddhism/masters/taixu/README.md)
 
 **基础概念 Core Concepts**（buddhism/concepts/foundational/）
 - [三宝](buddhism/concepts/foundational/three-jewels.md) · [三法印](buddhism/concepts/foundational/three-marks.md) · [缘起](buddhism/concepts/foundational/dependent-origination.md) · [中道](buddhism/concepts/foundational/middle-way.md)
@@ -130,8 +133,13 @@
 
 ### 道教 taoism
 - [无为 Wu-wei](traditions/taoism/wuwei.md)
-- [老子 Laozi](traditions/taoism/masters/laozi.md)
-- [庄子 Zhuangzi](traditions/taoism/masters/zhuangzi.md)
+- [老子 Laozi](traditions/taoism/masters/laozi/README.md)
+- [庄子 Zhuangzi](traditions/taoism/masters/zhuangzi/README.md)
+
+### 智慧大师 wisdom-masters
+- [佛使比丘 Buddhadasa](wisdom-masters/masters/thailand/buddhadasa/README.md)
+- [阿姜查 Ajahn Chah](wisdom-masters/masters/thailand/ajahn-chah/README.md)
+- [马祖道一 Mazu Daoyi](wisdom-masters/masters/china/mazu-daoyi/README.md)
 
 ### 印度教 hinduism
 - [业与轮回 Karma & Saṃsāra](traditions/hinduism/karma-samsara.md)

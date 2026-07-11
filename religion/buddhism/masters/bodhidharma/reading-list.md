@@ -1,0 +1,140 @@
+---
+id: religion.buddhism.masters.bodhidharma.reading-list
+title: 菩提达摩进阶阅读清单 Bodhidharma Reading List
+type: reference
+domain: religion
+school: buddhism-chan
+era: ancient
+tags: [达摩阅读, 禅宗文献, 佛学研究, Bodhidharma Bibliography]
+parent: README.md
+---
+
+# 菩提达摩进阶阅读清单 / Bodhidharma Reading List
+
+本清单按层次和主题组织，适合从入门到深度研究的不同需求。
+
+This reading list is organized by level and theme, suitable for needs ranging from introductory to advanced research.
+
+---
+
+## 一、入门级 / Introductory Level
+
+适合对达摩和禅宗感兴趣的初学者，语言通俗，概念清晰。
+
+Suitable for beginners interested in Bodhidharma and Chan Buddhism; accessible language, clear concepts.
+
+### 中文 / Chinese
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《禅门》 | 圣严法师 Master Sheng Yen | 系统介绍禅宗修行方法，含达摩禅精神 / Systematic introduction to Chan practice methods, including the spirit of Bodhidharma's Chan |
+| 《禅的体验·禅的开示》 | 圣严法师 Master Sheng Yen | 禅修指导与禅宗思想普及 / Chan meditation guidance and popularization of Chan thought |
+| 《禅宗思想的形成与发展》 | 洪修平 | 学术性入门，系统梳理禅宗思想史 / Scholarly introduction, systematic overview of Chan intellectual history |
+| 《中国禅宗史》 | 印顺法师 Venerable Yin Shun | 权威性禅宗通史，可读性强 / Authoritative comprehensive history of Chinese Chan, highly readable |
+| 《菩提达摩》 | 杨曾文 | 达摩专题研究，简明扼要 / Bodhidharma monograph, concise and clear |
+
+### 英文 / English
+
+| Title | Author | Description |
+|---|---|---|
+| *The Zen Teaching of Bodhidharma* | Red Pine (Bill Porter), trans. | 达摩著作英译及注释，最佳入门原典翻译 / English translation of Bodhidharma's works with commentary; best introductory primary text translation |
+| *The Miracle of Mindfulness* | Thich Nhat Hanh | 含达摩禅精神的正念修习指导 / Mindfulness practice guide incorporating the spirit of Bodhidharma's Chan |
+| *Zen Buddhism: A History*, Vol. 1: India and China | Heinrich Dumoulin | 西方禅宗史标准入门著作 / Standard Western introductory work on Zen history |
+| *Zen Flesh, Zen Bones* | Paul Reps, comp. | 禅宗故事与公案集，生动活泼 / Collection of Zen stories and koans, vivid and lively |
+| *An Introduction to Zen Buddhism* | D.T. Suzuki | 铃木大拙的经典入门著作 / D.T. Suzuki's classic introductory work |
+
+---
+
+## 二、进阶级 / Intermediate Level
+
+适合已有一定禅宗基础，希望深入理解达摩思想的读者。
+
+Suitable for readers with some Chan Buddhism background who wish to deepen their understanding of Bodhidharma's thought.
+
+### 中文 / Chinese
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《菩提达摩考》 | 胡适 Hu Shih | 开创性的历史考证研究，重新审视达摩的历史与传说 / Pioneering historical-critical study, reassessing Bodhidharma's history and legends |
+| 《禅的思想》 | 柳田圣山 Yanagida Seizan（日） | 日本禅思想史研究的里程碑，对达摩禅有深入分析 / Milestone in Japanese Zen intellectual history, with deep analysis of Bodhidharma's Chan |
+| 《禅宗大意》 | 正果法师 | 传统视角的禅宗概论 / Traditional perspective overview of Chan Buddhism |
+| 《楞伽经》（求那跋陀罗译） | — | 达摩传心经典，理解达摩思想的必读原典 / Bodhidharma's mind-transmission scripture; essential primary text for understanding his thought |
+| 《达摩禅学思想研究》 | 葛兆光 | 深入分析达摩禅学的思想结构和历史定位 / In-depth analysis of the intellectual structure and historical positioning of Bodhidharma's Chan |
+
+### 英文 / English
+
+| Title | Author | Description |
+|---|---|---|
+| *The Northern School and the Formation of Early Ch'an Buddhism* | John R. McRae | 重新评估北宗禅，深入分析早期禅宗的形成 / Reassessment of Northern School Chan, deep analysis of early Chan formation |
+| *Seeing through Zen: Rules and History in the Study of Early Chan* | John R. McRae | 对早期禅宗史的新方法论审视 / New methodological examination of early Chan history |
+| *Zen and the Ways* | Julien Da Costa | 禅与日本武道的关系研究 / Study of the relationship between Zen and Japanese martial arts |
+| *The Lankavatara Sutra* | D.T. Suzuki, trans. | 达摩传心经典的英译 / English translation of Bodhidharma's mind-transmission scripture |
+| *Records of the Transmission of the Lamp* (excerpts) | Various translators | 《景德传灯录》部分英译 / Partial English translations of the *Jingde Record of the Transmission of the Lamp* |
+
+---
+
+## 三、深度研究 / Advanced Research
+
+适合学术研究者或希望对达摩进行深度专题研究的读者。
+
+Suitable for academic researchers or readers seeking in-depth thematic study of Bodhidharma.
+
+### 中文 / Chinese
+
+| 书名 / Title | 作者 / Author | 说明 / Description |
+|---|---|---|
+| 《中国禅宗通史》 | 杜继文、魏道儒 | 最全面的中国禅宗通史 / Most comprehensive history of Chinese Chan Buddhism |
+| 《禅宗哲学》 | 吴汝钧 | 禅宗哲学思想的系统分析 / Systematic analysis of Chan philosophical thought |
+| 《中国禅宗与诗歌》 | 孙昌武 | 禅宗与文学的交叉研究 / Cross-disciplinary study of Chan and literature |
+| 《敦煌禅宗文献》 | 杨曾文等 | 敦煌出土禅宗文献的整理与研究 / Compilation and study of Dunhuang Chan manuscripts |
+| 《唐五代禅宗史》 | 杨曾文 | 达摩到慧能时期的详细历史研究 / Detailed historical study from Bodhidharma to Huineng period |
+
+### 英文 / English
+
+| Title | Author | Description |
+|---|---|---|
+| *Ch'an Insights and Oversights: A Hermeneutical Approach to Early Ch'an Texts* | Bernard Faure | 对早期禅宗文献的解释学分析 / Hermeneutical analysis of early Chan texts |
+| *The Rhetoric of Immediacy: A Cultural Critique of Chan/Zen Buddhism* | Bernard Faure | 对禅宗"直接性"修辞的文化批评 / Cultural critique of Chan's rhetoric of "immediacy" |
+| *Sudden and Gradual: Approaches to Enlightenment in Chinese Thought* | Peter N. Gregory, ed. | 顿渐思想的多角度研究 / Multi-perspective study of sudden and gradual thought |
+| *Original Enlightenment and the Transformation of Medieval Japanese Buddhism* | Jacqueline Stone | 本觉思想与达摩佛性论的关联 / Connection between original-enlightenment thought and Bodhidharma's Buddha-nature theory |
+| *How Zen Became Zen: The Dispute over Enlightenment and the Formation of Chan Buddhism in Song-Dynasty China* | Morten Schlütter | 宋代禅宗的形成与达摩禅的转型 / Formation of Song-dynasty Chan and transformation of Bodhidharma's Chan |
+
+---
+
+## 四、跨学科阅读 / Interdisciplinary Reading
+
+将达摩思想与其他学科领域联系起来的阅读。
+
+Readings that connect Bodhidharma's thought with other disciplinary fields.
+
+| 书名 / Title | 作者 / Author | 学科 / Discipline | 说明 / Description |
+|---|---|---|---|
+| 《存在与时间》 *Being and Time* | 海德格尔 Heidegger | 哲学 Philosophy | "直面存在"与壁观的精神共鸣 / "Facing Being" resonates with wall-gazing |
+| 《禅与脑》 *Zen and the Brain* | James H. Austin | 神经科学 Neuroscience | 禅修的神经科学基础研究 / Foundational neuroscience research on meditation |
+| *Altered Traits* | Daniel Goleman & Richard Davidson | 心理学 Psychology | 冥想对身心长期影响的科学研究 / Scientific research on meditation's long-term physical and mental effects |
+| 《艺术的法则》 *The Rules of Art* | 布迪厄 Bourdieu | 社会学 Sociology | 可用于分析禅宗"法脉传承"的社会学理论 / Sociological theory applicable to analyzing Chan "lineage transmission" |
+| *The Tacit Dimension* | Michael Polanyi | 认识论 Epistemology | "默会知识"与"教外别传"的深度对话 / Deep dialogue between "tacit knowledge" and "transmission outside scriptures" |
+
+---
+
+## 五、原典文献索引 / Primary Source Index
+
+| 原典 / Primary Text | 时代 / Period | 与达摩关系 / Relation to Bodhidharma |
+|---|---|---|
+| 《二入四行论》（敦煌本） | 6世纪 / 6th c. | 最接近达摩本人 / Closest to Bodhidharma himself |
+| 《楞伽经》四卷（求那跋陀罗译） | 443 CE | 达摩传心经典 / Mind-transmission scripture |
+| 《续高僧传》卷十六（道宣） | 约 645 / c. 645 | 最可靠的早期传记 / Most reliable early biography |
+| 《洛阳伽蓝记》（杨衒之） | 约 547 / c. 547 | 最早提及达摩的文献之一 / One of the earliest mentions of Bodhidharma |
+| 《历代法宝记》 | 约 780 / c. 780 | 早期禅宗史传，含达摩传说 / Early Chan historical record with Bodhidharma legends |
+| 《祖堂集》 | 952 | 南唐时期禅宗史传 / Southern Tang period Chan historical record |
+| 《景德传灯录》 | 1004 | 达摩传说的集大成 / Compilation of Bodhidharma legends |
+| 《碧岩录》 | 1125 | 含达摩相关公案 / Contains Bodhidharma-related koans |
+| 《无门关》 | 1229 | 含达摩相关公案 / Contains Bodhidharma-related koans |
+
+---
+
+## 参见 / See Also
+
+- [菩提达摩 Bodhidharma](README.md)
+- [著作](works.md)
+- [年表](timeline.md)

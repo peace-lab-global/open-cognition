@@ -1,0 +1,125 @@
+---
+id: new-mysterianism
+title: "新神秘主义 · New Mysterianism"
+type: concept
+thinker: mcginn
+domain: philosophy
+school: analytic
+tags:
+  - mysterianism
+  - consciousness
+  - cognitive-closure
+  - limits-of-knowledge
+---
+
+# 新神秘主义 · New Mysterianism
+
+## 概念定位 / Conceptual Position
+
+新神秘主义（New Mysterianism）是Colin McGinn在1989年的开创性论文"Can We Solve the Mind-Body Problem?"中首次系统阐述的哲学立场。这一立场的核心主张是：**心身问题（意识如何从大脑中产生）对于人类的认知能力来说，在原则上是不可解的**。
+
+New Mysterianism is the philosophical position first systematically articulated by Colin McGinn in his groundbreaking 1989 paper "Can We Solve the Mind-Body Problem?" Its core claim is: **the mind-body problem (how consciousness arises from the brain) is in principle unsolvable for human cognitive capacities**.
+
+"新神秘主义"这一名称中的"新"字至关重要。传统的神秘主义（mysterianism）通常诉诸超自然因素——灵魂、上帝或某种不可言说的精神实体——来解释意识的奥秘。McGinn的新神秘主义则完全不同：他是一位坚定的自然主义者，坚信意识有纯粹自然主义的解释。他只是认为这个自然主义解释超出了人类的理解能力。
+
+The "new" in "New Mysterianism" is crucial. Traditional mysterianism typically invokes supernatural factors — souls, God, or some ineffable spiritual entity — to explain the mystery of consciousness. McGinn's New Mysterianism is entirely different: he is a committed naturalist who firmly believes consciousness has a purely naturalistic explanation. He merely argues this naturalistic explanation exceeds human comprehension.
+
+这一立场在当代心灵哲学的光谱中占据了一个独特的位置：它既拒绝了物理主义的还原论（如Dennett），也拒绝了二元论（如Chalmers的某种倾向），也拒绝了取消论（如Churchland夫妇）。它提出了一种第四种可能性：**问题存在、答案存在（在自然中），但我们无法获取这个答案**。
+
+This position occupies a unique location in the spectrum of contemporary philosophy of mind: it rejects physicalist reductionism (like Dennett), dualism (like Chalmers' leanings), and eliminativism (like the Churchlands). It proposes a fourth possibility: **the problem exists, the answer exists (in nature), but we cannot access that answer**.
+
+---
+
+## 核心论述 / Core Argument
+
+McGinn对新神秘主义的论证可以重构为以下步骤：
+
+McGinn's argument for New Mysterianism can be reconstructed in the following steps:
+
+**第一步：认知能力的物种相对性 / Step 1: Species-Relativity of Cognitive Capacity**
+
+每种认知主体都有其固有的认知能力边界，这些边界由该物种的进化历史和神经结构决定。老鼠不能理解质数，狗不能理解莎士比亚，黑猩猩不能理解相对论——这些不是暂时的无知，而是原则上（in principle）的不可能。
+
+Every cognitive agent has inherent cognitive capacity boundaries determined by the species' evolutionary history and neural structure. Mice cannot understand prime numbers, dogs cannot understand Shakespeare, chimpanzees cannot understand relativity — these are not temporary ignorance but in-principle impossibilities.
+
+**第二步：人类也是有限的认知主体 / Step 2: Humans Are Also Finite Cognitive Agents**
+
+人类是进化过程的产物，我们的大脑被设计来解决特定的生存问题——觅食、社交、逃避捕食者、繁衍后代。没有理由假设我们的大脑具有无限的认知能力，或者恰好能够解决所有哲学和科学问题。
+
+Humans are products of evolutionary processes; our brains were designed to solve specific survival problems — foraging, socializing, evading predators, reproducing. There is no reason to assume our brains have unlimited cognitive capacity or happen to be able to solve all philosophical and scientific problems.
+
+**第三步：心身问题的特殊困难性 / Step 3: The Special Difficulty of the Mind-Body Problem**
+
+心身问题不同于其他科学难题。当我们试图理解意识如何从大脑中产生时，我们面临一个独特的困境：我们试图用意识来理解意识的产生。这就像试图用一把尺子来测量它自己的长度。传统的科学方法（观察、实验、建模）在这个问题上似乎系统性地失败。
+
+The mind-body problem differs from other scientific puzzles. When we try to understand how consciousness arises from the brain, we face a unique predicament: we are trying to use consciousness to understand the production of consciousness. This is like trying to measure a ruler's own length with that ruler. Traditional scientific methods (observation, experiment, modeling) seem to systematically fail on this problem.
+
+**第四步：归纳论证 / Step 4: The Inductive Argument**
+
+数千年来的哲学反思和数百年来的科学研究都没有解决心身问题。所有尝试过的策略——二元论、行为主义、同一论、功能主义、涌现论——都面临无法克服的困难。McGinn认为，最合理的解释不是我们的理论还不够好，而是这个问题对我们的认知能力是闭合的。
+
+Thousands of years of philosophical reflection and hundreds of years of scientific research have not solved the mind-body problem. Every strategy attempted — dualism, behaviorism, identity theory, functionalism, emergentism — faces insuperable difficulties. McGinn argues the best explanation is not that our theories are inadequate but that this problem is closed to our cognitive capacities.
+
+**结论：认知闭合 / Conclusion: Cognitive Closure**
+
+因此，心身问题对人类认知闭合（cognitively closed）。这并不意味着意识是超自然的——它只是意味着意识的自然主义解释超出了我们的理解范围。
+
+Therefore, the mind-body problem is cognitively closed to humans. This does not mean consciousness is supernatural — it merely means consciousness's naturalistic explanation falls beyond our comprehension.
+
+---
+
+## 哲学意义 / Philosophical Significance
+
+新神秘主义在当代心灵哲学中具有深远的意义：
+
+New Mysterianism has profound significance in contemporary philosophy of mind:
+
+**对哲学乐观主义的挑战 / Challenge to Philosophical Optimism:** 西方哲学传统——从柏拉图到笛卡尔到康德——普遍假设人类理性具有解决核心哲学问题的潜力。McGinn挑战了这一基本假设，主张哲学的核心问题可能恰恰是那些超出人类认知能力的问题。
+
+The Western philosophical tradition — from Plato to Descartes to Kant — generally assumes human reason has the potential to solve core philosophical problems. McGinn challenges this fundamental assumption, arguing that philosophy's central problems may be precisely those that exceed human cognitive capacity.
+
+**对科学万能的反驳 / Rebuttal of Scientific Omnicompetence:** 在当代知识文化中，科学被视为解决一切问题的终极工具。McGinn的新神秘主义指出科学有其固有的认知界限——这不是反对科学，而是对科学本质的更深刻理解。
+
+In contemporary intellectual culture, science is regarded as the ultimate tool for solving all problems. McGinn's New Mysterianism points out science has inherent cognitive limits — this is not anti-science but a deeper understanding of science's nature.
+
+**元哲学的贡献 / Meta-Philosophical Contribution:** McGinn不仅在回答心身问题，更在追问：为什么这个问题如此持久地被讨论却从未被解决？他的回答——因为它对人类认知闭合——本身就是一种重要的元哲学洞见。
+
+McGinn is not only addressing the mind-body problem but asking: why has this problem been so persistently discussed yet never solved? His answer — because it is cognitively closed to humans — is itself an important meta-philosophical insight.
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+新神秘主义与东方传统中的"不可言说"观念有深刻的共鸣。
+
+New Mysterianism resonates deeply with Eastern traditions' notions of the "ineffable."
+
+**与道家"道可道，非常道"的对话 / Dialogue with Daoist "The Dao that can be spoken is not the eternal Dao":** 老子《道德经》开篇即说："道可道，非常道；名可名，非常名。"这与McGinn的立场有结构上的相似性：终极实在（道/意识的本质）超出了人类概念和语言的把握能力。但两者的方向不同——老子认为通过"无为"和直觉可以"体道"；McGinn认为没有任何方法可以把握意识的本质。
+
+Laozi's *Daodejing* opens with "The Dao that can be spoken is not the eternal Dao; the name that can be named is not the eternal name." This is structurally similar to McGinn: ultimate reality (the Dao / the nature of consciousness) exceeds human conceptual and linguistic grasp. But the directions differ — Laozi holds that through non-action (wuwei) and intuition one can "embody the Dao"; McGinn holds there is no method to grasp consciousness's nature.
+
+**与维特根斯坦"不可说的"对话 / Dialogue with Wittgenstein's "The Unsayable":** McGinn深受后期维特根斯坦的影响。《逻辑哲学论》结尾的名言"对于不可说的，必须保持沉默"与McGinn的认知闭合有相似的精神气质。两者都在划定可思与不可思的边界。
+
+McGinn is deeply influenced by later Wittgenstein. The *Tractatus*'s famous closing — "Whereof one cannot speak, thereof one must be silent" — shares a spiritual temperament with McGinn's cognitive closure. Both are engaged in delineating the boundary between the thinkable and the unthinkable.
+
+---
+
+## 当代应用 / Contemporary Applications
+
+**意识的科学标准 / Scientific Standards for Consciousness:** 在动物意识和AI意识的讨论中，新神秘主义提醒我们：我们可能永远无法确定其他实体是否有意识，因为我们对意识本身的理解就是不完整的。
+
+In discussions of animal consciousness and AI consciousness, New Mysterianism reminds us: we may never be able to determine whether other entities are conscious, because our understanding of consciousness itself is incomplete.
+
+**哲学方法论的反思 / Reflection on Philosophical Methodology:** 新神秘主义促使哲学家反思自己的事业：如果某些哲学问题在原则上不可解，那么在这些领域继续投入智识资源是否合理？
+
+New Mysterianism prompts philosophers to reflect on their own enterprise: if certain philosophical problems are in principle unsolvable, is it rational to continue investing intellectual resources in these domains?
+
+---
+
+## 相关概念 / Related Concepts
+
+- [[cognitive-closure|认知闭合 Cognitive Closure]] — 新神秘主义的理论基础
+- [[transcendental-naturalism|先验自然主义 Transcendental Naturalism]] — 新神秘主义的本体论承诺
+- [[consciousness-inexplicability|意识不可解释性 Consciousness Inexplicability]] — 新神秘主义的核心论证
+- [[hard-problem|硬问题回应 Hard Problem Response]] — 新神秘主义对Chalmers的回应
+- [[../README|麦金总条目 McGinn Main Entry]]

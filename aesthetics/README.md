@@ -20,28 +20,57 @@ entries:
 
 ```
 aesthetics/
-├── german-aesthetics（德国古典美学）
+├── german-aesthetics(德国古典美学)
 │   ├── kant-aesthetics.md — 康德美学
 │   └── hegel-aesthetics.md — 黑格尔美学
-├── nietzschean-aesthetics（尼采美学）
+├── nietzschean-aesthetics(尼采美学)
 │   └── nietzsche-aesthetics.md — 尼采美学
-├── pragmatist-aesthetics（实用主义美学）
+├── pragmatist-aesthetics(实用主义美学)
 │   └── dewey-aesthetics.md — 杜威美学
-└── chinese-aesthetics（中国美学）
-    └── zhu-guangqian.md — 朱光潜美学
+├── chinese-aesthetics(中国美学)
+│   └── zhu-guangqian.md — 朱光潜美学
+└── literary-thought(文学思想)
+    ├── kafka.md — 卡夫卡
+    ├── lu-xun.md — 鲁迅
+    └── borges/ — 博尔赫斯(专题文件夹)
+        ├── README.md — 主思想家页
+        ├── concepts/{infinity,time,identity,language,labyrinth}.md — 五大核心母题
+        ├── works.md — 作品总览
+        ├── timeline.md — 思想年表
+        └── reading-list.md — 进阶阅读
 ```
 
 ## 条目索引 / Entries
 
 ### 思想家条目
 
+> 每位思想家已展开为独立专题文件夹（README + 5 概念子页 + works/timeline/reading-list）。
+
 | 条目 | 学派 | 时代 | 核心主张 |
 |------|------|------|----------|
-| [康德美学](schools/german-aesthetics/kant-aesthetics.md) | 德国古典美学 | 近代 | 审美判断力批判，美是无目的的合目的性 |
-| [黑格尔美学](schools/german-aesthetics/hegel-aesthetics.md) | 德国古典美学 | 近代 | 艺术是理念的感性显现，三种艺术形式 |
-| [尼采美学](schools/nietzschean-aesthetics/nietzsche-aesthetics.md) | 尼采美学 | 现代 | 日神与酒神精神，艺术作为存在的辩护 |
-| [杜威美学](schools/pragmatist-aesthetics/dewey-aesthetics.md) | 实用主义美学 | 现代/当代 | 艺术即经验，审美经验的日常性 |
-| [朱光潜美学](schools/chinese-aesthetics/zhu-guangqian.md) | 中国美学 | 现代 | 主客统一的美，意象理论 |
+| [康德美学](schools/german-aesthetics/kant-aesthetics/README.md) | 德国古典美学 | 近代 | 审美判断力批判，美是无目的的合目的性 |
+| [黑格尔美学](schools/german-aesthetics/hegel-aesthetics/README.md) | 德国古典美学 | 近代 | 艺术是理念的感性显现，三种艺术形式 |
+| [尼采美学](schools/nietzschean-aesthetics/nietzsche-aesthetics/README.md) | 尼采美学 | 现代 | 日神与酒神精神，艺术作为存在的辩护 |
+| [杜威美学](schools/pragmatist-aesthetics/dewey-aesthetics/README.md) | 实用主义美学 | 现代/当代 | 艺术即经验，审美经验的日常性 |
+| [朱光潜美学](schools/chinese-aesthetics/zhu-guangqian/README.md) | 中国美学 | 现代 | 主客统一的美，意象理论 |
+| [卡夫卡](schools/literary-thought/kafka/README.md) | 文学思想 | 现代 | 荒诞、异化、法律寓言 |
+| [鲁迅](schools/literary-thought/lu-xun/README.md) | 文学思想 | 现代 | 国民性批判的美学表达 |
+| [博尔赫斯](schools/literary-thought/borges/README.md) | 文学思想 | 现代 | 无穷/时间/同一性/语言/迷宫 |
+| [陀思妥耶夫斯基](schools/literary-thought/dostoevsky/README.md) | 文学思想 | 19 世纪 | 复调小说、苦难与救赎 |
+| [泰戈尔](schools/literary-thought/tagore/README.md) | 文学思想 | 现代 | 泛神论美学、自然与人的统一 |
+| [托尔斯泰](schools/literary-thought/tolstoy/README.md) | 文学思想 | 19 世纪 | 艺术即情感传达、道德美学 |
+| [弗莱](schools/literary-theory/frye/README.md) | 文学理论 | 现代 | 原型批评、神话批评 |
+| [索绪尔](schools/literary-theory/saussure/README.md) | 文学理论 | 现代 | 结构语言学、能指/所指 |
+| [巴特](schools/literary-theory/barthes/README.md) | 文学理论 | 现代/后现代 | 作者之死、神话学、文本快感 |
+| [巴赫金](schools/literary-theory/bakhtin/README.md) | 文学理论 | 现代 | 对话性、狂欢、复调 |
+| [本雅明](schools/critical-aesthetics/benjamin/README.md) | 批判美学 | 现代 | 机械复制、灵韵、都市漫游者 |
+| [阿多诺](schools/critical-aesthetics/adorno/README.md) | 批判美学 | 现代 | 否定辩证法、文化工业、新音乐哲学 |
+| [但丁](schools/poetic-thought/dante/README.md) | 诗学思想 | 中世纪 | 神学诗学、寓言四义 |
+| [李白](schools/poetic-thought/li-bai/README.md) | 诗学思想 | 唐代 | 浪漫主义诗歌、天人合一 |
+| [鲁米](schools/poetic-thought/rumi/README.md) | 诗学思想 | 中世纪 | 苏菲诗歌、神圣之爱 |
+| [达·芬奇](schools/arts-thought/leonardo/README.md) | 艺术思想 | 文艺复兴 | 艺术与科学的统一 |
+| [凯奇](schools/arts-thought/cage/README.md) | 艺术思想 | 现代/当代 | 偶然性音乐、沉默、禅与艺术 |
+| [爱森斯坦](schools/arts-thought/eisenstein/README.md) | 艺术思想 | 现代 | 蒙太奇理论、冲突剪辑 |
 
 ### 概念条目
 

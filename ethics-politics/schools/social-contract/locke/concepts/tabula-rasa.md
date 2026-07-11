@@ -1,0 +1,130 @@
+---
+id: locke-tabula-rasa
+title: "白板论 · Tabula Rasa"
+type: concept
+thinker: locke
+domain: ethics-politics
+school: social-contract
+tags:
+  - tabula-rasa
+  - 白板论
+  - empiricism
+  - 经验主义
+  - ideas
+  - locke
+cross-refs:
+  - id: locke
+    relation: thinker
+  - id: descartes
+    relation: 批判
+  - id: hume
+    relation: 继承
+  - id: kant
+    relation: 批判发展
+---
+
+# 白板论 · Tabula Rasa
+
+## 概念概述 / Concept Overview
+
+"白板论"（Tabula Rasa）是洛克认识论的核心命题：人的心灵在出生时如同一张**白纸**（white paper）或一块**白板**（tabula rasa），没有任何先天铭刻的观念或原则。一切知识和观念都来源于**经验**（experience），而经验有两个来源——**感觉**（sensation）和**反省**（reflection）。这一理论构成了对笛卡尔和经院哲学"天赋观念论"（doctrine of innate ideas）的系统性批判，为整个英国经验主义传统——从洛克经贝克莱到休谟——奠定了基石。
+
+"Tabula Rasa" is the central thesis of Locke's epistemology: the human mind at birth is like **white paper** or a **blank slate**, devoid of any innately inscribed ideas or principles. All knowledge and ideas derive from **experience**, which has two sources — **sensation** and **reflection**. This theory constituted a systematic critique of the "doctrine of innate ideas" held by Descartes and scholastic philosophy, laying the cornerstone for the entire British empiricist tradition — from Locke through Berkeley to Hume.
+
+白板论不仅是一个认识论命题，它具有深远的**政治和伦理含义**：如果心灵初始是空白的，那么所有人出生时在知识上是平等的——没有人生来就拥有比别人更多的道德真理或政治权威。这为洛克的平等主义政治哲学提供了认识论基础。
+
+Tabula rasa is not merely an epistemological thesis; it carries profound **political and ethical implications**: if the mind is initially blank, all persons are epistemically equal at birth — no one is born possessing more moral truth or political authority than another. This provides an epistemological foundation for Locke's egalitarian political philosophy.
+
+## 理论内涵 / Theoretical Content
+
+### 对天赋观念论的批判 / Critique of Innate Ideas
+
+洛克在《人类理解论》**第一卷**中对天赋观念论发动了全面攻击。他针对的是当时广泛接受的观点——认为某些逻辑原则（如"同一事物不可能同时存在又不存在"）和道德原则是先天铭刻在人类心灵上的。洛克提出了三个主要反驳：
+
+In **Book I** of *An Essay Concerning Human Understanding*, Locke launched a comprehensive assault on the doctrine of innate ideas. He targeted the widely held view that certain logical principles (such as "the same thing cannot simultaneously exist and not exist") and moral principles are innately inscribed on the human mind. Locke offered three principal rebuttals:
+
+**普遍同意论证的失败**：天赋观念论者以"普遍同意"（universal consent）作为先天观念的证据。洛克指出：（1）事实上并不存在真正的普遍同意——儿童和白痴不知道这些所谓的天赋原则；（2）即使存在普遍同意，也不能证明观念是天赋的——完全可能来自共同的经验。
+
+**Failure of the universal consent argument**: Proponents of innate ideas cited "universal consent" as evidence for innateness. Locke demonstrated that: (1) genuine universal consent does not in fact exist — children and "idiots" are unaware of these supposedly innate principles; (2) even if universal consent existed, it would not prove innateness — it could equally derive from shared experience.
+
+**实践原则的多样性**：如果道德原则是天赋的，它们应当在所有文化中一致。但人类学观察表明，不同社会的道德实践存在巨大差异——有些社会弃婴，有些社会食人。这种多样性恰恰否定了先天道德原则的存在。
+
+**Diversity of practical principles**: If moral principles were innate, they should be consistent across all cultures. But anthropological observation reveals enormous variation in moral practices across societies — some abandon infants, others practice cannibalism. This diversity directly negates the existence of innate moral principles.
+
+**隐含知识的荒谬性**：天赋观念论者辩称，某些观念虽然不被意识到，但仍然"隐含地"存在于心灵中。洛克认为这是自相矛盾的——一个存在于心灵中的观念怎么可能不被心灵所意识？
+
+**The absurdity of implicit knowledge**: Proponents of innate ideas argued that some ideas, though not consciously held, exist "implicitly" in the mind. Locke deemed this self-contradictory — how can an idea exist in the mind without the mind being conscious of it?
+
+### 经验的两种来源 / Two Sources of Experience
+
+洛克在批判天赋观念之后，在《人类理解论》**第二卷**中正面阐述了自己的认识论：
+
+After demolishing innate ideas, Locke positively articulated his own epistemology in **Book II** of the *Essay*:
+
+| 来源 Source | 名称 Name | 对象 Object | 例子 Examples |
+|---|---|---|---|
+| 外部 External | 感觉 Sensation | 外部可感物 External sensible objects | 黄色、热度、硬度 Yellow, heat, hardness |
+| 内部 Internal | 反省 Reflection | 心灵自身运作 Operations of the mind | 知觉、思维、怀疑、意愿 Perception, thinking, doubting, willing |
+
+感觉提供了关于外部世界的观念，反省提供了关于心灵自身活动的观念。两者缺一不可：没有感觉，心灵就没有加工的原材料；没有反省，心灵就无法认识自己的运作方式。洛克特别强调，反省不是被动的——它是心灵对自身活动的**主动观察**。
+
+Sensation furnishes ideas of the external world; reflection furnishes ideas of the mind's own activities. Neither suffices alone: without sensation, the mind lacks raw material to process; without reflection, the mind cannot apprehend its own operations. Locke especially emphasized that reflection is not passive — it is the mind's **active observation** of its own activities.
+
+### 简单观念与复杂观念 / Simple and Complex Ideas
+
+洛克将观念分为两大类。**简单观念**（simple ideas）是经验的基本单位，不可再分——例如"红色"、"甜味"、"硬度"。心灵在接收简单观念时是**被动的**——它无法创造或毁灭一个简单观念。**复杂观念**（complex ideas）是心灵通过组合、比较和抽象等操作，将简单观念加工而成——例如"苹果"就是红、圆、硬、甜等简单观念的组合。心灵在构建复杂观念时是**主动的**。
+
+Locke divided ideas into two broad categories. **Simple ideas** are the basic units of experience, irreducible — for example, "red," "sweet," "hard." The mind is **passive** in receiving simple ideas — it cannot create or destroy one. **Complex ideas** are produced by the mind's operations of combining, comparing, and abstracting simple ideas — for example, "apple" is a combination of the simple ideas of red, round, hard, and sweet. The mind is **active** in constructing complex ideas.
+
+复杂观念又分为三类：**样式**（modes，如"感恩"、"三角形"）、**实体**（substances，如"金子"、"人"）和**关系**（relations，如"因果"、"同一性"）。洛克关于实体观念的分析尤其深刻：他承认我们永远无法认识事物的"实在本质"（real essence），只能认识其"名义本质"（nominal essence）——即我们用来归类和命名的可观察属性的集合。
+
+Complex ideas fall into three types: **modes** (e.g., "gratitude," "triangle"), **substances** (e.g., "gold," "man"), and **relations** (e.g., "causation," "identity"). Locke's analysis of substance ideas is especially penetrating: he acknowledged that we can never know the "real essence" of things, only their "nominal essence" — the collection of observable properties we use for classification and naming.
+
+## 思想史脉络 / Intellectual History
+
+白板论在思想史上占据着枢纽位置。它直接继承了亚里士多德的经验主义传统（"心灵中没有不被感觉所触及的东西"），同时与中世纪经院哲学的理性主义形成对抗。洛克的同时代人莱布尼茨（Leibniz）在《人类理解新论》（*New Essays on Human Understanding*）中对白板论提出了最著名的反驳：心灵并非白板，而是像一块有纹路的大理石——先天结构决定了它能够被雕刻成某些形状而非另一些。
+
+Tabula rasa occupies a pivotal position in intellectual history. It directly inherited the Aristotelian empiricist tradition ("nothing in the intellect that was not first in the senses") while opposing medieval scholastic rationalism. Leibniz, Locke's contemporary, offered the most famous rebuttal in his *New Essays on Human Understanding*: the mind is not a blank slate but like veined marble — innate structure determines which shapes it can be carved into and which it cannot.
+
+康德（Kant）后来在《纯粹理性批判》中试图调和洛克的经验主义和莱布尼茨的理性主义：他同意一切知识**始于**经验，但否认一切知识**来自**经验——心灵具有先天的认知结构（时间、空间和十二范畴），这些结构使经验成为可能。二十世纪的语言学家乔姆斯基（Chomsky）进一步论证了语言习得需要先天的普遍语法结构，当代认知科学中的"核心知识"（core knowledge）理论也发现了某些先天认知模块的存在。
+
+Kant later attempted in the *Critique of Pure Reason* to reconcile Locke's empiricism with Leibniz's rationalism: he agreed that all knowledge **begins with** experience, but denied that all knowledge **arises from** experience — the mind possesses innate cognitive structures (time, space, and twelve categories) that make experience possible. In the twentieth century, linguist Chomsky further argued that language acquisition requires an innate universal grammar, and contemporary cognitive science's "core knowledge" theory has identified certain innate cognitive modules.
+
+## 关键文本 / Key Passages
+
+> "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas: how comes it to be furnished? Whence comes it by that vast store which the busy and boundless fancy of man has painted on it with an almost endless variety? Whence has it all the materials of reason and knowledge? To this I answer, in one word, from EXPERIENCE."
+> — *An Essay Concerning Human Understanding*, Book II, Chapter 1, §2
+
+> "让我们假定心灵如人们所说的那样，是一张白纸，没有任何文字，没有任何观念：它是怎样被装填的呢？人的忙碌而无限的想象力在它上面描绘了几乎无穷无尽的多样性——这些是从哪里来的？它从哪里获得了理性和知识的全部材料？对此我的回答是一个词：经验。"
+
+这段引文是洛克白板论最经典的表述。注意"suppose"一词——洛克并非断言心灵在字面意义上是空白的，而是将其作为一个方法论假说：让我们从经验出发来解释一切知识，看看能够走多远。
+
+This passage is the most classic statement of tabula rasa. Note the word "suppose" — Locke is not asserting that the mind is literally blank, but proposing it as a methodological hypothesis: let us start from experience to explain all knowledge and see how far we can go.
+
+## 当代应用 / Contemporary Applications
+
+白板论在当代有着广泛而多样的应用。在**教育学**领域，白板论是行为主义教育思想的哲学基础——如果心灵初始是空白的，那么通过适当的奖惩机制（刺激—反应），几乎任何知识和技能都可以通过训练习得。这深刻影响了二十世纪的标准化教育模式。在**人工智能**领域，经验主义是机器学习的根本哲学：模型从数据（经验）中学习，而非依赖预编程的规则——这与白板论的精神一脉相承。在**先天-后天之争**（nature-nurture debate）中，白板论代表了"后天"一端的极端立场。当代研究（如Steven Pinker的*The Blank Slate*）认为洛克走得太远——人类确实拥有某些先天的认知倾向和情感结构。
+
+Tabula rasa has broad and diverse contemporary applications. In **education**, it is the philosophical foundation of behaviorist pedagogy — if the mind is initially blank, virtually any knowledge or skill can be acquired through appropriate reward-punishment mechanisms (stimulus-response). This profoundly influenced twentieth-century standardized education models. In **artificial intelligence**, empiricism is the fundamental philosophy of machine learning: models learn from data (experience) rather than relying on pre-programmed rules — a direct descendant of tabula rasa. In the **nature-nurture debate**, tabula rasa represents the extreme "nurture" position. Contemporary research (such as Steven Pinker's *The Blank Slate*) suggests Locke went too far — humans do possess certain innate cognitive dispositions and emotional structures.
+
+## 批评与回应 / Critiques and Responses
+
+**莱布尼茨（Leibniz）**：心灵像有纹路的大理石，先天结构限制了可学习的范围。洛克回应：即使存在某些倾向，这不等于存在先天**观念**——倾向是能力（faculty），观念是内容（content）。 / The mind is like veined marble; innate structure constrains what can be learned. Locke's response: even if certain dispositions exist, this does not equal innate **ideas** — dispositions are faculties, ideas are contents.
+
+**康德（Kant）**：经验本身需要先天范畴（因果、实体等）来组织，否则只是一堆混沌的感觉。洛克回应：反省作为一种先天能力，已经提供了组织经验的机制。 / Experience itself requires innate categories (causation, substance, etc.) for organization; otherwise it is merely chaotic sensation. Locke's response: reflection as an innate faculty already provides the mechanism for organizing experience.
+
+**乔姆斯基（Chomsky）**：语言习得的"刺激贫乏"论证——儿童接触到的语言数据远不足以解释他们能生成的语法规则的复杂性。洛克回应：反省和组合的能力可能足以从有限经验中提取规则。 / The "poverty of stimulus" argument — the linguistic data children encounter is far too impoverished to explain the complexity of grammatical rules they generate. Locke's response: the powers of reflection and combination may suffice to extract rules from limited experience.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+白板论与中国哲学中的荀子"性恶论"有着有趣的平行关系：两者都否认先天道德知识的存在，认为道德品质是后天教育和修养的结果。荀子说"人之性恶，其善者伪也"——善不是天生的，而是"人为"（伪）的产物。这与洛克的白板论在结构上一致：心灵初始没有道德内容，道德是经验和教育的产物。然而，荀子的"性恶"预设了某种先天的负面倾向，而洛克的白板论更为彻底——心灵既不善也不恶，只是空白。
+
+Tabula rasa finds an interesting parallel with Xunzi's doctrine of "human nature as evil" in Chinese philosophy: both deny innate moral knowledge, holding that moral character is the product of education and cultivation. Xunzi wrote that "human nature is evil; its goodness is the result of artifice" — goodness is not innate but produced by conscious effort. This structurally mirrors Locke: the mind initially lacks moral content; morality is the product of experience and education. However, Xunzi's "evil nature" presupposes some innate negative tendency, whereas Locke's tabula rasa is more thoroughgoing — the mind is neither good nor evil, merely blank.
+
+## 延伸阅读 / Further Reading
+
+- Yolton, John W. *John Locke and the Way of Ideas*. Oxford: Clarendon Press, 1956.
+- Lowe, E. J. *Locke on Human Understanding*. London: Routledge, 1995.
+- Pinker, Steven. *The Blank Slate: The Modern Denial of Human Nature*. New York: Viking, 2002.
+- Leibniz, G. W. *New Essays on Human Understanding*. Trans. Peter Remnant and Jonathan Bennett. Cambridge: Cambridge University Press, 1996.
+- 陈嘉映.《哲学·科学·常识》. 北京：中信出版社.

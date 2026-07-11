@@ -1,0 +1,73 @@
+---
+id: bandura-timeline
+title: "班杜拉生平大事年表 · Bandura Life Timeline"
+type: timeline
+parent: bandura-albert
+school: social-learning
+domain: psychology
+---
+
+# 班杜拉生平大事年表 · Bandura Life Timeline
+
+## 早年生活与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|:---:|------|
+| 1925 | 12月4日出生于加拿大艾伯塔省曼达尔（Mundare），父母为波兰和乌克兰移民。父亲在当地铁路工作，母亲在商店工作。Born December 4 in Mundare, Alberta, Canada, to Polish and Ukrainian immigrant parents. Father worked on the local railroad; mother worked in a store. |
+| 1946 | 获不列颠哥伦比亚大学心理学学士学位。在温哥华做木工和家具制造期间，对心理学产生兴趣。Received B.A. in Psychology from the University of British Columbia. Developed interest in psychology while working as a carpenter and furniture maker in Vancouver. |
+| 1951 | 获爱荷华大学心理学硕士学位。在赫尔-斯彭斯传统下接受严格的行为主义训练。Received M.A. in Psychology from the University of Iowa. Received rigorous behaviorist training in the Hull-Spence tradition. |
+| 1952 | 获爱荷华大学临床心理学博士学位。博士论文研究公路建设中的驾驶行为。在爱荷华大学期间接触到Kenneth Spence的研究方法。Received Ph.D. in Clinical Psychology from the University of Iowa. Doctoral dissertation on driving behavior in highway construction. Exposed to Kenneth Spence's research methodology during Iowa years. |
+| 1952–53 | 在堪萨斯州威奇托指导中心担任临床心理学实习生。Gained clinical experience as psychology intern at the Wichita Guidance Center, Kansas. |
+
+## 斯坦福时期 / Stanford Years
+
+| 年份 / Year | 事件 / Event |
+|:---:|------|
+| 1953 | 加入斯坦福大学心理学系，担任助理教授。此后在斯坦福度过了整个学术生涯。Joined Stanford University Department of Psychology as Assistant Professor. Remained at Stanford for his entire academic career. |
+| 1956 | 与 Richard H. Walters 开始合作研究青少年攻击行为——这项研究后来催生了社会学习理论。Began collaborating with Richard H. Walters on adolescent aggression research — this collaboration would eventually give rise to social learning theory. |
+| 1958 | 获斯坦福大学终身教职（Associate Professor with tenure）。Awarded tenure at Stanford (Associate Professor). |
+| 1959 | 出版 *Adolescent Aggression*（与 Walters 合著）——第一部专著，探讨家庭暴力对青少年攻击行为的影响。Published *Adolescent Aggression* (with Walters) — first monograph, examining impact of family violence on adolescent aggression. |
+
+## 波波玩偶实验与社会学习理论 / Bobo Doll Experiments and Social Learning Theory
+
+| 年份 / Year | 事件 / Event |
+|:---:|------|
+| 1961 | 与 Dorothea Ross 和 Sheila Ross 进行波波玩偶实验——儿童通过观察成人攻击充气玩偶而学习攻击行为。Conducted the Bobo Doll experiment with Dorothea Ross and Sheila Ross — children learned aggressive behavior through observing adults attacking an inflatable doll. |
+| 1963 | 发表波波玩偶实验的电影媒体版本——证明通过电视观看攻击行为也会增加儿童的模仿行为。这一研究开启了媒体暴力研究的先河。Published the filmed-media version of the Bobo Doll experiment — demonstrated that watching aggressive behavior on television also increases children's imitation. This study launched media violence research. |
+| 1963 | 出版 *Social Learning and Personality Development*（与 Walters 合著）——观察学习理论的早期系统化。Published *Social Learning and Personality Development* (with Walters) — early systematization of observational learning theory. |
+| 1965 | 发表关于替代强化的关键论文——证明当模型被奖赏时观察者的模仿增加，被惩罚时减少，但**学习本身不依赖强化**。Published key paper on vicarious reinforcement — demonstrated that observers imitate more when models are rewarded and less when punished, but **learning itself does not depend on reinforcement**. |
+| 1969 | 出版 *Principles of Behavior Modification*——行为矫正的方法论著作。Published *Principles of Behavior Modification* — methodological work on behavior modification. |
+
+## 理论的成熟与扩展 / Theory Maturation and Expansion
+
+| 年份 / Year | 事件 / Event |
+|:---:|------|
+| 1973 | 出版 *Aggression: A Social Learning Analysis*——攻击行为的完整社会学习理论，包括波波玩偶实验的理论化。Published *Aggression: A Social Learning Analysis* — complete social learning theory of aggression, including theoretical framework for Bobo Doll experiments. |
+| 1974 | 当选美国心理学会（APA）主席（任期1974年）。Elected President of the American Psychological Association (APA) (term: 1974). |
+| 1977 | 出版 *Social Learning Theory*——社会学习理论的经典陈述，系统阐述观察学习四过程、三种强化类型和交互决定论。同年发表 "Self-Efficacy: Toward a Unifying Theory of Behavioral Change"——自我效能感理论的诞生。Published *Social Learning Theory* — classic statement of social learning theory, systematically articulating four processes of observational learning, three reinforcement types, and reciprocal determinism. Same year published "Self-Efficacy: Toward a Unifying Theory of Behavioral Change" — birth of self-efficacy theory. |
+| 1978 | 发表 "The Self System in Reciprocal Determinism"——交互决定论的正式提出和完整阐述。Published "The Self System in Reciprocal Determinism" — formal proposal and complete articulation of reciprocal determinism. |
+| 1980 | 当选西方心理学会（WPA）主席。Elected President of the Western Psychological Association (WPA). |
+| 1986 | 出版 *Social Foundations of Thought and Action: A Social Cognitive Theory*——范式转换之作，将「社会学习理论」更名为「社会认知理论」，建构完整的理论体系。Published *Social Foundations of Thought and Action: A Social Cognitive Theory* — paradigm-shifting work, renaming "social learning theory" to "social cognitive theory" and constructing a complete theoretical system. |
+
+## 自我效能感与晚年 / Self-Efficacy and Later Years
+
+| 年份 / Year | 事件 / Event |
+|:---:|------|
+| 1989 | 发表 "Human Agency in Social Cognitive Theory"——代理性理论的系统阐述。Published "Human Agency in Social Cognitive Theory" — systematic articulation of agency theory. |
+| 1991 | 发表 "Social Cognitive Theory of Self-Regulation"——自我调节的社会认知理论。Published "Social Cognitive Theory of Self-Regulation" — social cognitive theory of self-regulation. |
+| 1997 | 出版 *Self-Efficacy: The Exercise of Control*——学术生涯的巅峰之作，自我效能感理论的全面阐述。Published *Self-Efficacy: The Exercise of Control* — crowning achievement of academic career, comprehensive treatment of self-efficacy theory. |
+| 1999 | 发表 "Moral Disengagement in the Perpetration of Inhumanities"——道德脱离理论的重要论文。Published "Moral Disengagement in the Perpetration of Inhumanities" — key paper on moral disengagement theory. |
+| 2001 | 发表 "Social Cognitive Theory: An Agentic Perspective"——社会认知理论的综合回顾。Published "Social Cognitive Theory: An Agentic Perspective" — comprehensive review of social cognitive theory. |
+| 2002 | 获APA「杰出科学贡献奖」(Award for Distinguished Scientific Contributions)。Received APA Award for Distinguished Scientific Contributions. |
+| 2004 | 获Grawemeyer心理学奖。Received the Grawemeyer Award in Psychology. |
+| 2008 | 获APA「心理科学终身成就奖」。Received APA Award for Lifetime Achievement in Psychological Science. |
+| 2014 | 获奥巴马总统颁发的国家科学奖章（National Medal of Science）——美国科学家的最高荣誉。Received the National Medal of Science from President Obama — the highest scientific honor in the United States. |
+| 2016 | 出版 *Moral Disengagement: How People Do Harm and Live with Themselves*——最后一部专著，系统分析道德脱离的八种机制。Published *Moral Disengagement* — final monograph, systematically analyzing eight mechanisms of moral disengagement. |
+| 2021 | 7月26日在加利福尼亚州斯坦福去世，享年95岁。Died July 26 in Stanford, California, at age 95. |
+
+## 学术遗产 / Academic Legacy
+
+- **引用量** / Citation count：截至2024年，班杜拉的著作被引用超过300,000次，是心理学史上被引用最多的在世心理学家（去世时为有史以来被引用最多的心理学家之一）。As of 2024, Bandura's works have been cited over 300,000 times, making him among the most-cited psychologists in history.
+- **H指数** / H-index：超过150——在社会科学领域极为罕见。Over 150 — extremely rare in social sciences.
+- **学生** / Students：培养了一批杰出的心理学家，包括 Daniel Cervone、Gian Vittorio Caprara、Karen Oates 等。Mentored a generation of distinguished psychologists including Daniel Cervone, Gian Vittorio Caprara, and Karen Oates.
+- **跨领域影响** / Cross-disciplinary influence：社会认知理论被应用于教育学、健康科学、传播学、管理学、体育科学、公共卫生等数十个领域。Social cognitive theory has been applied across dozens of fields including education, health sciences, communication, management, sports science, and public health.

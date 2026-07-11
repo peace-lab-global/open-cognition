@@ -1,0 +1,41 @@
+---
+id: mazu-daoyi-reading-list
+title: "马祖道一进阶阅读 Mazu Daoyi: Annotated Reading List"
+type: reading-list
+parent: mazu-daoyi
+---
+
+# 马祖道一进阶阅读 / Reading List for Mazu Daoyi
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **《马祖道一禅师广录》** — 大正藏 T1981
+  - Cheng Chien Bhikshu 译, *Sun-Face Buddha: The Teachings of Ma-tsu* (Asian Humanities Press, 1992)
+
+- **《五灯会元》** 卷三 — 马祖及其弟子的公案记录
+
+### 推荐 Recommended
+
+- **《古尊宿语录》** 卷一 — 马祖语录
+- **大珠慧海《顿悟入道要门论》** — 洪州宗思想
+
+## 研究专著 / Scholarly Monographs
+
+- **John McRae**, *The Northern School and the Formation of Early Ch'an Buddhism* (1986)
+- **Yanagida Seizan**, 多篇关于洪州宗的论文
+- **Mario Poceski**, *Ordinary Mind as the Way* (OUP, 2007)
+  - 洪州宗思想的核心研究
+
+## 入门读物 / Introductory
+
+- **释印顺**, *《中国禅宗史》* — 马祖与洪州宗
+- **铃木大拙**, *《禅学入门》* — 包含马祖教导的讨论
+- **Red Pine (Bill Porter)**, *The Zen Teaching of Bodhidharma* — 禅宗源头
+
+## 跨学科阅读 / Interdisciplinary
+
+- **百丈怀海《百丈清规》** — 禅宗制度的建立
+- **《临济录》** — 马祖思想的后续发展
+- **John Dewey**, *Art as Experience* — "平常心"与实用主义经验哲学

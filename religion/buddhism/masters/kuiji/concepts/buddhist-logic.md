@@ -1,0 +1,142 @@
+---
+id: kuiji-buddhist-logic
+title: 因明 / Hetuvidya (Buddhist Logic and Epistemology)
+type: concept
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+tags: [hetuvidya, logic, epistemology, pramana, syllogism, Dignaga, inference]
+---
+
+# 因明 / Hetuvidya (Buddhist Logic and Epistemology)
+
+## 定义 / Definition
+
+因明（hetuvidya，直译"关于理由的学问"）是佛教的逻辑学和认识论体系。它研究"正确的认知来源"（pramana，量）和"有效的论证形式"，旨在为佛教教义提供理性的辩护工具，同时检验其他学派的论证是否有效。窥基是汉传佛教因明学的核心传承者，其《因明入正理论疏》是研究佛教逻辑学的关键汉文文献。
+
+Hetuvidya (literally "the science of reasons") is the Buddhist system of logic and epistemology. It investigates "valid sources of cognition" (pramana) and "valid forms of argumentation," aiming both to provide rational defense of Buddhist doctrines and to examine whether other schools' arguments are valid. Kuiji was the central transmitter of hetuvidya in Chinese Buddhism; his *Commentary on the Nyayapravesa-tarka Sastra* (*Yinming-ru-zhengli-lun-shu*) is a key Chinese-language source for studying Buddhist logic.
+
+## 因明的历史 / Historical Development
+
+### 陈那 Dignaga (约 480-540 CE)
+因明学的真正创立者。他将此前散乱的辩论规则系统化为严格的逻辑体系，提出了"三支论法"（宗、因、喻）和"九句因"等核心理论。陈那还建立了"自相"（svalaksana，个别特征）和"共相"（samanyalaksana，普遍特征）的认识论区分。
+
+The true founder of Buddhist logic. He systematized previously scattered rules of debate into a rigorous logical system, proposing core theories such as the "three-part syllogism" (thesis, reason, example) and the "nine-reason schema." Dignaga also established the epistemological distinction between "particular characteristics" (svalaksana) and "universal characteristics" (samanyalaksana).
+
+### 商羯罗主 Sankarasvamin
+著《因明入正理论》（Nyayapravesa-tarka-sastra），是因明学的标准教科书。玄奘将其译为汉文，窥基为其作疏。
+
+Author of the *Nyayapravesa-tarka Sastra* (Introduction to Logic), the standard textbook of Buddhist logic. Xuanzang translated it into Chinese, and Kuiji composed his commentary on it.
+
+### 法称 Dharmakirti (约 600-660 CE)
+因明学的集大成者，进一步发展了陈那的体系，强化了认识论基础。其《量评释论》（Pramanavarttika）是佛教逻辑学的巅峰之作。但在汉传佛教中，法称的著作未被翻译，因此窥基传承的主要是陈那-商羯罗主一系的因明学。
+
+The culmination of Buddhist logic, further developing Dignaga's system and strengthening its epistemological foundations. His *Pramanavarttika* (Commentary on Valid Cognition) is the pinnacle of Buddhist logical scholarship. However, in Chinese Buddhism, Dharmakirti's works were not translated, so Kuiji's transmission primarily reflects the Dignaga-Sankarasvamin lineage.
+
+## 核心概念 / Core Concepts
+
+### 量（pramana，认知来源）/ Valid Sources of Cognition
+
+因明学承认两种有效的认知来源：
+
+Hetuvidya recognizes two valid sources of cognition:
+
+1. **现量**（pratyaksa，直接感知）：无概念化的直接经验——如纯粹的色彩感知，尚未被命名为"红色"之前的感知。这是最基础、最可靠的认知。
+
+   **Direct perception**: non-conceptualized immediate experience -- such as pure color perception before it is labeled "red." This is the most basic and reliable form of cognition.
+
+2. **比量**（anumana，推理）：基于已知事实进行的逻辑推理——如"见烟知火"。比量依赖于"因"（hetu，理由）与"所立"（sadhya，待证命题）之间的必然联系（vyapti，遍充）。
+
+   **Inference**: logical reasoning based on known facts -- such as "seeing smoke, knowing fire." Inference depends on the necessary connection (vyapti, pervasion) between the "reason" (hetu) and the "property to be established" (sadhya).
+
+### 三支论法 / Three-Part Syllogism
+
+因明的标准论证形式包含三个部分：
+
+The standard argumentative form in hetuvidya consists of three parts:
+
+| 支分 Part | 梵文 Sanskrit | 示例 Example |
+|------|------|------|
+| 宗 Thesis (pratijna) | pratijna | 此山有火 / This mountain has fire |
+| 因 Reason (hetu) | hetu | 因为有烟 / Because it has smoke |
+| 喻 Example (drstanta) | drstanta | 如厨房 / As in a kitchen |
+
+窥基在注释中详细分析了"因"的三种类型（正因、似因、不定因）和"喻"的两种类型（同喻、异喻），以及论证失败的各种情况（"过失"，nigrahasthana）。
+
+In his commentary, Kuiji analyzed in detail the three types of "reason" (valid reason, pseudo-reason, indeterminate reason), the two types of "example" (positive example, negative example), and the various cases of argumentative failure ("fallacies," nigrahasthana).
+
+### 九句因 / Nine-Reason Schema
+
+陈那提出的九句因是对"因"与"所立"之间关系的穷尽分析。窥基的注释使得这一精密的逻辑分类在汉文中得到了清晰的表述：
+
+Dignaga's nine-reason schema is an exhaustive analysis of the relationship between "reason" and "property to be established." Kuiji's commentary rendered this precise logical classification clearly in Chinese:
+
+| | 同品有 Present in similar | 同品无 Absent in similar | 同品俱 Both |
+|------|------|------|------|
+| 异品有 Present in dissimilar | 不定 Indeterminate | 相违 Contradictory | 不定 Indeterminate |
+| 异品无 Absent in dissimilar | **正因 Valid** | 不定 Indeterminate | 不定 Indeterminate |
+| 异品俱 Both | 不定 Indeterminate | 不定 Indeterminate | 不定 Indeterminate |
+
+只有"同品有、异品无"才是正因——即"因"必须存在于所有具有"所立"属性的事物中，且不存在于不具有"所立"属性的事物中。
+
+Only "present in similar cases, absent in dissimilar cases" constitutes a valid reason -- the "reason" must be present in all things possessing the "property to be established" and absent from all things lacking it.
+
+### 因三相 / Triple Character of the Reason (Trairupya)
+
+有效的"因"必须满足三个条件（因三相）：
+
+A valid "reason" must satisfy three conditions:
+
+1. **遍是宗法性**（paksa-dharmata）：因必须存在于"有法"（论证主体）上
+   The reason must be present in the subject (paksa) of the argument
+
+2. **同品定有性**（sapaksa-sattva）：因必须存在于至少某些具有"所立"属性的事物中
+   The reason must be present in at least some instances that possess the property to be established
+
+3. **异品遍无性**（vipaksa-vyavrtti）：因必须不存在于任何不具有"所立"属性的事物中
+   The reason must be absent from all instances that lack the property to be established
+
+## 窥基的因明贡献 / Kuiji's Contributions to Hetuvidya
+
+窥基对因明学的贡献主要体现在三个方面：
+
+Kuiji's contributions to hetuvidya are manifested in three main aspects:
+
+### 1. 系统注释 / Systematic Commentary
+《因明入正理论疏》对商羯罗主的因明体系进行了逐句的注释，使得这一印度逻辑学体系在汉文中获得了清晰的表达。他不仅解释了概念的含义，还举出大量汉文化中熟悉的例子来阐明逻辑原理。
+
+His *Commentary on the Nyayapravesa-tarka Sastra* provided line-by-line annotation of Sankarasvamin's logical system, rendering this Indian logical system clearly in Chinese. He not only explained conceptual meanings but also provided examples familiar to Chinese culture to elucidate logical principles.
+
+### 2. 辩论实践 / Debating Practice
+窥基在注释中展示了如何将因明应用于实际的佛学辩论——不仅用于反驳外道和小乘的观点，也用于回应中国佛教内部的质疑（特别是关于五种姓说的争议）。
+
+Kuiji demonstrated in his commentary how to apply hetuvidya to actual Buddhist debates -- not only for refuting non-Buddhist and Hinayana positions but also for responding to internal Chinese Buddhist challenges (particularly regarding the controversy over five-lineage doctrine).
+
+### 3. 与唯识学的整合 / Integration with Yogacara
+窥基将因明学整合进唯识学的整体框架：因明的"现量"和"比量"对应于唯识学的认识论，而因明的论证方法则被用于捍卫唯识学的核心命题（如唯识无境）。
+
+Kuiji integrated hetuvidya into the overall Yogacara framework: hetuvidya's "direct perception" and "inference" correspond to Yogacara epistemology, while its argumentative methods were deployed to defend Yogacara's core theses (such as consciousness-only without external objects).
+
+## 与西方逻辑的比较 / Comparison with Western Logic
+
+| 维度 Dimension | 因明 Hetuvidya | 亚里士多德逻辑 Aristotelian Logic |
+|------|------|------|
+| 论证形式 Form | 三支（宗因喻）/ Three-part | 三段论 / Syllogism |
+| 认知基础 Basis | 现量与比量 / Perception & inference | 公理与演绎 / Axioms & deduction |
+| 关注点 Focus | 认识论+辩论术 / Epistemology + debate | 形式有效性 / Formal validity |
+| 归纳问题 Induction | 遍充（vyapti）/ Pervasion | 归纳法 / Induction |
+| 错误分析 Error | 似因（hetvabhasa）/ Pseudo-reasons | 谬论 / Fallacies |
+
+## 跨学科关联 / Cross-Disciplinary Links
+
+- [唯识无境](consciousness-only.md) -- 因明论证的认识论目标 / Epistemological target of hetuvidya
+- [陈那 Dignaga](../dignaga.md) -- 因明学的创立者 / Founder of Buddhist logic
+- [法称 Dharmakirti](../dharmakirti.md) -- 因明学的集大成者 / Culmination of Buddhist logic
+
+## 进阶阅读 / Further Reading
+
+- 窥基《因明入正理论疏》/ Kuiji, *Commentary on the Nyayapravesa*
+- 商羯罗主《因明入正理论》/ Sankarasvamin, *Nyayapravesa-tarka Sastra*
+- Katsura, S. (1999). "Nagarjuna and the Philosophy of Language." In *Buddhist Philosophy*.
+- Matilal, B.K. (1998). *The Character of Logic in India*. SUNY Press.
+- Dreyfus, G. (1997). *Recognizing Reality: Dharmakirti's Philosophy and Its Tibetan Interpretations*. SUNY Press.

@@ -1,7 +1,8 @@
 ---
 id: derrida
 title: 雅克·德里达 · Jacques Derrida
-type: thinker
+type: pointer
+redirect: derrida/README.md
 domain: philosophy
 school: post-structuralism
 era: contemporary
@@ -15,81 +16,40 @@ tags:
 aliases:
   - 德里达
   - Derrida
-sources:
-  - 《论文字学》
-  - 《声音与现象》
-  - 《书写与差异》
-  - 《马克思的幽灵》
-cross-refs:
-  - id: saussure
-    relation: 批判
-  - id: husserl
-    relation: 发展
-  - id: foucault
-    relation: 平行
-  - id: wittgenstein
-    relation: 平行
+  - 雅克·德里达
 ---
 
-# 雅克·德里达
+# 雅克·德里达 · Jacques Derrida
 
-## 基本信息
+> ⤷ 此条目已扩展为完整子目录。请访问：
+> ⤷ *This entry has been expanded into a full subfolder. Please visit:*
 
-- **生卒年**：1930年—2004年
-- **国籍/文化背景**：法裔阿尔及利亚裔哲学家
-- **学术身份**：解构主义创始人，后结构主义核心人物
-- **学派归属**：后结构主义
+## 👉 [derrida/README.md](derrida/README.md)
 
-## 核心命题
+---
 
-1. **解构（Déconstruction）**：不是摧毁，而是揭示文本内部的自我矛盾与等级结构，暴露意义的不稳定性。
-2. **延异（Différance）**：兼具"差异"与"延宕"双重含义，意义永远在延宕和差异中生成，永远无法到达"在场"。
-3. **逻各斯中心主义（Logocentrism）**：西方形而上学传统以"在场"、"语音"、"理性"为中心，压抑书写与差异。
-4. **踪迹（Trace）**：每个符号都携带着它所不是之物的踪迹，意义在踪迹网络中浮现。
-5. **幽灵学（Hauntology）**：过去与未来以幽灵方式"纠缠"当下，存在总被不在场所困扰。
+## 子条目 · Sub-entries
 
-## 思想脉络
+- 📘 [README.md](derrida/README.md) — 主页：六大核心命题、思想脉络、跨学科关联 / Main entry: 6 core theses, trajectory, cross-disciplinary links
+- 🧩 核心概念子条目 · Core concept sub-entries:
+  - [concepts/deconstruction.md](derrida/concepts/deconstruction.md) — 解构 · Deconstruction
+  - [concepts/differance.md](derrida/concepts/differance.md) — 延异 · Différance
+  - [concepts/trace.md](derrida/concepts/trace.md) — 踪迹 · Trace
+  - [concepts/logocentrism.md](derrida/concepts/logocentrism.md) — 逻各斯中心主义 · Logocentrism
+  - [concepts/supplement.md](derrida/concepts/supplement.md) — 补充 / 药 · Supplement / Pharmakon
+- 📚 [works.md](derrida/works.md) — 完整著作年表 · Complete chronological works
+- 🗓️ [timeline.md](derrida/timeline.md) — 生平与思想事件年表 · Life and thought timeline
+- 📖 [reading-list.md](derrida/reading-list.md) — 分级阅读建议 · Tiered reading list
 
-### 早期
-- 出生于阿尔及利亚埃尔比亚尔，犹太裔家庭
-- 就读巴黎高等师范学院，师从胡塞尔现象学
-- 早期翻译胡塞尔《几何学的起源》
+---
 
-### 中期
-- 1967年出版三部奠基之作：《论文字学》《声音与现象》《书写与差异》
-- 提出解构策略，批判索绪尔的语音中心主义
-- 与福柯产生著名的"疯狂史"论争
+## 一句话定位 · One-Line Positioning
 
-### 晚期
-- 思想转向政治伦理：友谊、好客、宽恕、幽灵学
-- 《马克思的幽灵》开创幽灵学概念
-- 持续在耶鲁、欧洲多所大学任教
+**德里达是解构主义的创始人，二十世纪后半叶最具影响力的后结构主义哲学家；他以"延异"为支点，改写了西方关于语言、意义、在场、伦理与政治的全部基本假设。**
 
-## 核心概念
+*Jacques Derrida is the founder of deconstruction and the most consequential post-structuralist philosopher of the late twentieth century: pivoting on the concept of différance, he rewrote every foundational Western assumption about language, meaning, presence, ethics, and the political.*
 
-| 概念 | 说明 |
-|------|------|
-| 解构 | 拆解文本等级对立，揭示意义的不稳定性 |
-| 延异 | 差异+延宕，意义永远不在场 |
-| 逻各斯中心主义 | 以在场/语音/理性为中心的形而上学传统 |
-| 踪迹 | 符号中所不是之物的痕迹 |
-| 幽灵学 | 存在被不在场/过去所纠缠 |
+---
 
-## 跨领域影响
-
-- **思想渊源**：德里达的解构直接继承[海德格尔](../existentialism/heidegger.md)的"存在论差异"与[胡塞尔](../phenomenology/husserl.md)的符号现象学，并把[索绪尔](../../../aesthetics/schools/literary-theory/saussure.md)的能指/所指差异推向极致
-- **文学批评**：耶鲁解构学派，文本意义的无限开放
-- **政治哲学**：正义、好客、宽恕的伦理思考——与[福柯](../../../sociology/schools/structuralism/foucault.md)的权力分析构成法国后结构论的双轴
-- **语言学转向**：德里达重写了[语言](../../concepts/language.md)的"在场形而上学"，把言语/文字的等级颠倒过来
-- **法学**：解构与法律解释
-- **建筑**：解构主义建筑运动
-
-## 跨学科关联
-
-- [公案与话头的认知机制 · Kōan and Huàtóu Cognitive Mechanics](../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行]` 概念框架的现场解构
-
-## 推荐阅读
-
-- 《论文字学》
-- 《书写与差异》
-- 《马克思的幽灵》
+> 本文件保留作为向后兼容指针，便于已有外部链接继续指向。所有详细内容请进入 `derrida/` 子目录。
+> *This file is kept as a back-compatibility pointer so existing external links continue to resolve. All detailed content lives inside the `derrida/` subfolder.*

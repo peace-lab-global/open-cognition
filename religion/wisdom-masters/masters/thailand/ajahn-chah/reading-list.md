@@ -1,0 +1,117 @@
+---
+id: ajahn-chah-reading-list
+title: 阿姜查阅读清单 · Reading List for Ajahn Chah
+type: reference
+domain: religion
+school: theravada-buddhism
+master: ajahn-chah
+tags:
+  - 阅读
+  - 推荐书目
+  - 学习资源
+---
+
+# 阿姜查阅读清单 / Reading List for Ajahn Chah
+
+本清单按照推荐阅读顺序编排，从入门到深入。所有英文出版物均可在 Forest Sangha Publications (forestsanghapublications.org) 免费下载。
+
+This list is organized in recommended reading order, from introductory to in-depth. All English publications are available for free download at Forest Sangha Publications (forestsanghapublications.org).
+
+## 第一阶梯：入门 / Level 1: Introduction
+
+### 必读 / Essential
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *A Still Forest Pool* | Jack Kornfield & Paul Breiter 编 | EN | 最佳的阿姜查入门书。精选开示，编排清晰，适合从未接触过南传佛教的读者。/ The best introduction to Ajahn Chah. Selected talks, clearly organized, suitable for readers with no prior exposure to Theravada Buddhism. |
+| 《关于这颗心》 | 阿姜查 | 中文 | 中文版核心开示集，涵盖戒定慧三学的基本教导。/ Core Chinese talk collection covering the fundamental teachings of sila, samadhi, and panna. |
+| *Venerable Father: A Life with Ajahn Chah* | Paul Breiter | EN | 一位长期西方弟子的亲身回忆录，生动地描绘了阿姜查的人格和日常教学。/ Personal memoir by a long-term Western disciple, vividly portraying Ajahn Chah's personality and daily teaching. |
+
+### 推荐 / Recommended
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| 《宁静的森林水池》 | 阿姜查 | 中文 | *A Still Forest Pool* 的中译本，禅修入门的实操指导。/ Chinese translation of *A Still Forest Pool*; practical guidance for meditation beginners. |
+| *Living Dhamma* | Ajahn Chah | EN | 面向在家居士的教导，特别适合想要将佛法融入日常生活的读者。/ Teachings for laypeople, especially suitable for readers wanting to integrate Dhamma into daily life. |
+
+## 第二阶梯：深入 / Level 2: Deepening
+
+### 必读 / Essential
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *Food for the Heart: The Collected Teachings of Ajahn Chah* | Ajahn Amaro 编 | EN | 最全面的阿姜查英文开示集，包含33篇重要开示。适合已有一定基础的读者。/ The most comprehensive English collection of Ajahn Chah's talks, containing 33 important Dhamma talks. Suitable for readers with some foundation. |
+| *Everything Is Teaching Us* | — | EN | 巴蓬寺直接出版，包含许多未在其他文集中收录的珍贵开示。/ Published directly by Wat Nong Pah Pong, containing many precious talks not included in other collections. |
+| 《我们真正的家》 | 阿姜查 | 中文 | 关于无常和死亡的深刻开示，是阿姜查最具震撼力的教导之一。/ Profound talks on impermanence and death, one of Ajahn Chah's most powerful teachings. |
+
+### 推荐 / Recommended
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *Clarity of Insight* | Ajahn Chah | EN | 深入探讨三法印的开示集，适合想要深入理解佛法核心教义的读者。/ Talk collection deeply exploring the three marks of existence, suitable for readers wanting deeper understanding of core Buddhist doctrine. |
+| *The Path to Peace* | Ajahn Chah | EN | 关于通过禅修达到内心安宁的系统教导。/ Systematic teachings on achieving inner peace through meditation. |
+| 《解脱之道》 | 阿姜查 | 中文 | 修行方法的系统讲解，适合有一定禅修经验的修行者。/ Systematic exposition of practice methods, suitable for practitioners with some meditation experience. |
+
+## 第三阶梯：背景与传承 / Level 3: Context and Lineage
+
+### 森林传统背景 / Forest Tradition Context
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *The Buddhist Monks of the Forest Tradition in Thailand* | Kamala Tiyavanich | EN | 泰国森林传统僧人的历史和社会研究，提供了理解阿姜查的重要历史背景。/ Historical and social study of Thai forest tradition monks, providing important historical context for understanding Ajahn Chah. |
+| *Forest Recollections: Wandering Monks in Twentieth-Century Thailand* | Kamala Tiyavanich | EN | 二十世纪泰国行脚僧人的回忆录汇编，展现了阿姜查所处时代的精神面貌。/ Memoir compilation of twentieth-century Thai wandering monks, revealing the spiritual landscape of Ajahn Chah's era. |
+| *Mun: The Life and Teachings of Ajahn Mun* | Ajahn Maha Boowa | EN | 阿姜曼的传记和教导，是理解阿姜查师承的重要参考。/ Biography and teachings of Ajahn Mun, an important reference for understanding Ajahn Chah's lineage. |
+
+### 西方弟子的传承 / Western Disciples' Lineage
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *The Wise Heart: A Guide to the Universal Teachings of Buddhist Psychology* | Jack Kornfield | EN | 康菲尔德将阿姜查的教导与西方心理学整合的经典著作。/ Kornfield's classic work integrating Ajahn Chah's teachings with Western psychology. |
+| *Happiness, Peace, and Freedom* | Ajahn Sumedho | EN | 阿姜苏美多的开示集，忠实传承了阿姜查的教学风格。/ Ajahn Sumedho's talk collection, faithfully transmitting Ajahn Chah's teaching style. |
+| *Intuitive Awareness* | Ajahn Sumedho | EN | 关于直觉觉察的深入教导，发展了阿姜查"觉知者"的概念。/ Deep teachings on intuitive awareness, developing Ajahn Chah's "knower" concept. |
+| *Mindfulness, Bliss, and Beyond* | Ajahn Brahm | EN | 阿姜布拉姆的禅修指南，融合了阿姜查的教导和现代语境。/ Ajahn Brahm's meditation guide, blending Ajahn Chah's teachings with modern context. |
+
+## 第四阶梯：比较与扩展 / Level 4: Comparison and Extension
+
+### 比较研究 / Comparative Studies
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *The Miracle of Mindfulness* | Thich Nhat Hanh | EN | 一行禅师的正念教导，与阿姜查的当下觉察有着深刻的呼应。/ Thich Nhat Hanh's mindfulness teachings, deeply resonating with Ajahn Chah's present-moment awareness. |
+| *Zen Mind, Beginner's Mind* | Shunryu Suzuki | EN | 铃木俊隆的禅宗经典，其"初学者之心"的理念与阿姜查的"只是知道"异曲同工。/ Suzuki's Zen classic; its "beginner's mind" philosophy parallels Ajahn Chah's "just knowing." |
+| *Wherever You Go, There You Are* | Jon Kabat-Zinn | EN | 正念减压创始人的著作，可以帮助理解阿姜查的教导如何影响了现代正念运动。/ MBSR founder's book; helps understand how Ajahn Chah's teachings influenced the modern mindfulness movement. |
+
+### 心理学整合 / Psychology Integration
+
+| 书名 / Title | 作者 / Author | 语言 / Language | 推荐理由 / Why Read |
+|---|---|---|---|
+| *Seeking the Heart of Wisdom* | Joseph Goldstein & Jack Kornfield | EN | 将内观传统与西方心理学整合的经典著作。/ Classic work integrating insight meditation tradition with Western psychology. |
+| *Radical Acceptance* | Tara Brach | EN | 将佛教教导与心理治疗结合，与阿姜查的"接纳当下"教导深度呼应。/ Combines Buddhist teachings with psychotherapy, deeply resonating with Ajahn Chah's "accept the present" teaching. |
+
+## 在线资源 / Online Resources
+
+| 资源 / Resource | 网址 / URL | 说明 / Description |
+|---|---|---|
+| Forest Sangha Publications | forestsanghapublications.org | 所有阿姜查英文出版物的免费下载源 / Free download source for all of Ajahn Chah's English publications |
+| Wat Nong Pah Pong | watnongpahpong.org | 巴蓬寺官方网站，含泰语原始录音和文献 / Official monastery website with original Thai recordings and documents |
+| Amaravati Buddhist Monastery | amaravati.org | 英国阿玛拉瓦蒂寺，含大量在线教学资源 / UK Amaravati Monastery with extensive online teaching resources |
+| Abhayagiri Buddhist Monastery | abhayagiri.org | 美国阿巴亚吉里寺，含法谈音频、文字和视频 / US Abhayagiri Monastery with talk audio, texts, and video |
+| Access to Insight | accesstoinsight.org | 巴利经典和南传佛教教导的综合资源 / Comprehensive resource for Pali Canon and Theravada Buddhist teachings |
+| Dhamma Talks | dhammatalks.org | Thanissaro Bhikkhu 的教导和翻译，提供南传佛教的广泛视角 / Thanissaro Bhikkhu's teachings and translations, providing broad Theravada perspective |
+
+## 阅读建议 / Reading Suggestions
+
+1. **从传记开始**：先读 *Venerable Father* 了解阿姜查的人格和生活，再读他的开示，会更有亲切感。
+2. **不要贪多**：阿姜查的教导看似简单，实则深奥。每次读一篇开示，然后去禅修中体验它。
+3. **中英文对照**：如果英文能力允许，建议对照阅读中英文版本，因为翻译本身也是一种理解的过程。
+4. **结合实修**：阿姜查最反对的就是只读不修。每读一段教导，就去坐禅或行禅中实践。
+
+1. **Start with biography**: Read *Venerable Father* first to understand Ajahn Chah's personality and life, then read his talks — it will feel more intimate.
+2. **Don't read too much**: Ajahn Chah's teachings appear simple but are actually profound. Read one talk at a time, then experience it in meditation.
+3. **Read bilingual if possible**: If your English permits, read Chinese and English versions side by side — translation itself is a process of understanding.
+4. **Combine with practice**: What Ajahn Chah most opposed was reading without practicing. For every passage you read, go practice it in sitting or walking meditation.
+
+## 延伸阅读 / Further Reading
+
+→ [重要著作](works.md) — 阿姜查的完整著作列表
+→ [README](README.md) — 返回阿姜查主页

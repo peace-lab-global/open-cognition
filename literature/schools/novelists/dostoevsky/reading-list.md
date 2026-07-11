@@ -1,0 +1,144 @@
+---
+id: dostoevsky-reading-list
+title: 陀思妥耶夫斯基进阶阅读 · Dostoevsky Reading List
+type: reading-list
+domain: literature
+school: novelists
+thinker: dostoevsky
+tags: [dostoevsky, bibliography, reading-guide, russian-literature]
+cross-refs:
+  - id: dostoevsky
+    relation: thinker
+---
+
+# 陀思妥耶夫斯基进阶阅读 · Dostoevsky Reading List
+
+## 一、阅读路径
+
+### 入门（3 篇，8 小时）
+1. 《地下室手记》第一部分 — 存在主义宣言（60 页）
+2. 《白夜》— 浪漫主义中篇（40 页）
+3. 《罪与罚》第一部前六章 — 犯罪前的心理状态（100 页）
+
+### 进阶（2 部，40 小时）
+4. 《罪与罚》全书 — 犯罪与救赎的完整历程
+5. 《卡拉马佐夫兄弟》第一编 + 第二编第五章（"宗教大法官"）
+
+### 深潜（全部大长篇 + 批评）
+6. 《白痴》
+7. 《群魔》
+8. 《卡拉马佐夫兄弟》全书
+9. 《少年》
+10. 巴赫金《陀思妥耶夫斯基诗学问题》
+
+## 二、原典（必读）
+
+### 核心著作
+- *Notes from Underground* (1864) — 现代文学的转折点
+- *Crime and Punishment* (1866) — 超人理论与基督教救赎
+- *The Idiot* (1869) — 绝对善良者的悲剧
+- *Demons* (1872) — 政治虚无主义的预言
+- *The Brothers Karamazov* (1880) — 巅峰之作
+
+### 重要中短篇
+- "The Double" (1846) — 分裂人格
+- "White Nights" (1848) — 浪漫主义
+- *The House of the Dead* (1862) — 监狱纪实
+- "The Meek One" (1876) — 丈夫的独白
+- "The Dream of a Ridiculous Man" (1877) — 乌托邦寓言
+
+### 中译本推荐
+- 朱海观、王汶 译《罪与罚》（人民文学出版社）— 经典译本
+- 耿济之 译《卡拉马佐夫兄弟》（人民文学出版社）
+- 臧仲伦 译《群魔》（译林出版社）
+- 南江 译《白痴》（人民文学出版社）
+- 河北教育出版社《陀思妥耶夫斯基全集》（2010）— 最全中文版
+
+## 三、传记
+
+### 经典传记
+- **Frank, Joseph** *Dostoevsky* (5 vols., 1976–2002) — 英文世界最全面、最权威的传记
+  - Vol. 1: *Seeds of Revolt* (1821–1849)
+  - Vol. 2: *Years of Ordeal* (1850–1859)
+  - Vol. 3: *Stirrings of Revolt* (1859–1865)
+  - Vol. 4: *The Miraculous Years* (1865–1871)
+  - Vol. 5: *The Mantle of the Prophet* (1871–1881)
+- **Mochulsky, Konstantin** *Dostoevsky: His Life and Work* (1967) — 俄裔学者的经典传记
+- **Dostoevskaya, Anna** *Reminiscences* (1975) — 妻子的回忆录，珍贵的第一手材料
+
+### 中文传记
+- 费·维·叶尔米洛夫《陀思妥耶夫斯基传》（人民文学出版社）
+- 赵秋长《陀思妥耶夫斯基》（河北人民出版社）
+
+## 四、批评与研究
+
+### 经典研究
+- **Bakhtin, Mikhail** *Problems of Dostoevsky's Poetics* (1929/1963) — 复调小说理论的奠基之作，陀氏研究不可绕过
+- **Freud, Sigmund** "Dostoevsky and Parricide" (1928) — 精神分析视角的陀氏解读
+- **Berdyaev, Nikolai** *Dostoevsky* (1923) — 从东正教存在主义角度的哲学解读
+- **Shestov, Lev** *Dostoevsky and Nietzsche: The Philosophy of Tragedy* (1903) — 绝望哲学
+
+### 当代研究
+- **Bloom, Harold** ed. *Fyodor Dostoevsky: Modern Critical Views* (1988)
+- **Scanlan, James** *Dostoevsky the Thinker* (2002) — 陀氏哲学思想的系统分析
+- **Pattison, George & Diane Oenning Thompson** eds. *The Oxford Handbook of Dostoevsky* (2019)
+- **Dalton-Brown, Sally** *Dostoevsky and Dialectical Thought* (2020)
+
+### 中文研究
+- 王志耕《陀思妥耶夫斯基与俄国文化精神》
+- 何云波《陀思妥耶夫斯基与俄罗斯文化》
+- 张变革主编《当代中国陀思妥耶夫斯基研究》
+
+## 五、陀氏的思想源头
+
+- **果戈理** — 《外套》《鼻子》的"小人物"传统与怪诞现实主义
+- **普希金** — 《叶甫盖尼·奥涅金》的"多余人"传统
+- **席勒** — 浪漫主义的理想与激情
+- **霍夫曼** — 怪诞与双重人格
+- **福音书** — 尤其是《约翰福音》中拉撒路复活的故事
+- **别林斯基** — 社会批评传统（后被陀氏扬弃）
+
+## 六、陀氏的下游
+
+### 哲学
+- **尼采** — "陀思妥耶夫斯基是我唯一真正学到东西的心理学家"
+- **萨特** — 存在主义的自由概念
+- **加缪** — 荒诞与反抗
+- **舍斯托夫** — 信仰的跳跃
+- **别尔嘉耶夫** — 自由与创造性精神
+
+### 文学
+- **卡夫卡** — 荒诞、罪感与审判
+- **加缪** — 《局外人》中的莫尔索
+- **博尔赫斯** — 短篇小说的哲学深度
+- **库切** — 《彼得堡的主人》以陀氏为主角
+- **麦卡锡** — 《血色子午线》的暴力哲学
+- **大卫·福斯特·华莱士** — 《无尽的玩笑》中的成瘾与自我
+
+### 心理学
+- **弗洛伊德** — 弑父情结、陀氏论文
+- **荣格** — 阴影原型
+- **拉康** — 大他者与主体
+
+### 神学
+- **卡尔·巴特** — 危机神学
+- **布尔加科夫** — 索菲亚智慧学
+- **东正教新神学** — 自由与神人合一
+
+## 七、研究工具
+
+- **Dostoevsky Research Center** (dostoevsky-studies.org)
+- **North American Dostoevsky Society**
+- **Slavic and East European Journal** — 定期发表陀氏研究论文
+- **Joseph Frank** 五卷本传记 — 不可绕过的学术资源
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**陀氏的精髓** | 《地下室手记》→ 弗兰克传记摘要 |
+| 深入**《罪与罚》** | 全书 → 巴赫金第 2 章 → 弗洛伊德论文 |
+| 理解**宗教维度** | "宗教大法官"→ 别尔嘉耶夫 → 卡尔·巴特 |
+| 了解**政治预见** | 《群魔》→ 以赛亚·柏林 |
+| 探索**复调理论** | 巴赫金全书 → 任选两大长篇验证 |
+| **中文读者**入门 | 朱海观译《罪与罚》→ 赵秋长传 → 王志耕 |

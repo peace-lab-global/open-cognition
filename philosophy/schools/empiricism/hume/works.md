@@ -1,0 +1,113 @@
+---
+id: hume-works
+title: 休谟作品总览 · Works of David Hume
+type: works
+domain: philosophy
+school: empiricism
+era: early-modern
+thinker: hume
+tags:
+  - works
+  - bibliography
+  - treatise
+  - enquiry
+  - dialogues
+parent: hume
+---
+
+# 休谟作品总览 · Works of David Hume
+
+## 哲学核心著作
+
+### 《人性论》 *A Treatise of Human Nature* (1739-1740)
+
+休谟的哲学巨著，全名《人性论：试图将实验推理方法引入道德主题的尝试》(A Treatise of Human Nature: Being an Attempt to Introduce the Experimental Method of Reasoning into Moral Subjects)。全书分三卷：
+
+- **第一卷"论知性" (Of the Understanding)** — 阐述印象与观念的区分、摹本原则、因果关系理论、归纳问题、外部世界怀疑论、自我束论。这是休谟认识论 (epistemology) 的核心文本，也是整部著作中最具哲学深度的部分。
+- **第二卷"论激情" (Of the Passions)** — 分析人类情感 (passions) 的分类与运作机制。休谟将激情分为直接激情 (direct passions，如欲望、厌恶、喜悦、悲伤) 和间接激情 (indirect passions，如骄傲、谦卑、爱、恨)，并提出"理性是激情的奴隶"的著名论断。
+- **第三卷"论道德" (Of Morals)** — 论证道德判断源于情感而非理性，提出"是—应当问题"、同情机制、人为德性 (artificial virtues，如正义) 与自然德性 (natural virtues，如仁慈) 的区分。
+
+此书出版时反响冷淡，休谟自述"从印刷机上一出生就死了" (fell dead-born from the press)。但后世将其视为英语哲学史上最伟大的著作之一。
+
+### 《人类理解研究》 *An Enquiry Concerning Human Understanding* (1748)
+
+休谟将《人性论》第一卷的核心论点改写为更精炼、更易读的哲学散文。全书 12 节，涵盖：
+
+- 印象与观念的区分 (Section II)
+- 观念的联结原则 (Section III)
+- 因果推断的怀疑论论证 (Sections IV-V)
+- 对怀疑论的怀疑论解答 (Section V)：习惯是因果推断的最终基础
+- 必然联系的重新定义 (Section VII)
+- 自由与必然的调和 (Section VIII)
+- 动物理性 (Section IX)
+- 神迹批判 (Section X)
+- 天意与来世批判 (Section XI)
+- 学院哲学/怀疑论哲学 (Section XII)
+
+这是休谟认识论的最佳入门文本，也是英语哲学教学中使用最广泛的文本之一。
+
+### 《道德原理研究》 *An Enquiry Concerning the Principles of Morals* (1751)
+
+休谟自称这是自己所有著作中最好的一部 (his "incomparably the best")。将《人性论》第三卷的道德理论以更清晰的方式重新阐述，强调：
+
+- 道德判断源于情感 (sentiment) 而非理性
+- 效用 (utility) 是道德赞许的主要来源之一
+- 正义 (justice) 是一种"人为的德性" (artificial virtue)，源于人类社会的需要
+- 仁爱 (benevolence) 是自然德性的典范
+
+## 宗教哲学
+
+### 《自然宗教对话录》 *Dialogues Concerning Natural Religion* (1779, 遗著)
+
+以对话体讨论上帝存在的理性论证。三个角色代表三种立场：
+
+- **Cleanthes** — 捍卫设计论证 (design argument)，代表自然神学 (natural theology)
+- **Demea** — 捍卫信仰主义 (fideism)，强调理性的局限性
+- **Philo** — 怀疑论者，通常被认为最接近休谟本人的立场
+
+Philo 对设计论证的批判至今仍是宗教哲学中最有力的反驳之一：
+
+- 类比论证的弱点：宇宙与人工制品的类比是否成立？
+- 恶的问题 (problem of evil)：如果设计者是全能全善的，为什么世界上存在恶？
+- 多元设计者：为什么不是一群神，而不是一个神？
+
+此书因涉及宗教问题，休谟生前不敢出版，直到去世后 (1779) 才由其侄子出版。
+
+### 《宗教的自然史》 *The Natural History of Religion* (1757)
+
+从人类学和历史学角度研究宗教的起源和发展。休谟认为宗教起源于人类的恐惧 (fear) 和无知 (ignorance)，而非理性。多神教 (polytheism) 先于一神教 (monotheism)，一神教的出现是因为人们倾向于将越来越大的权力归于某一个神灵。
+
+## 历史著作
+
+### 《英国史》 *The History of England* (1754-1762)
+
+六卷本历史巨著，从凯撒入侵 (Julius Caesar's invasion) 写到 1688 年光荣革命 (Glorious Revolution)。这是休谟生前最畅销、最赚钱的著作，使他获得了经济独立。休谟在书中展示了温和的政治立场，既批评保皇党 (Tories) 也批评辉格党 (Whigs) 的极端立场。
+
+## 经济与政治散文
+
+### 《政治论》 *Political Discourses* (1752)
+
+收录了一系列关于贸易、货币、利息、人口等经济问题的散文。主要贡献包括：
+
+- **自由贸易论**：反对重商主义 (mercantilism)，主张自由贸易对各方有利。直接影响亚当·斯密。
+- **货币理论**：提出货币数量论 (quantity theory of money) 的早期版本，以及"价格-铸币流动机制" (price-specie flow mechanism) 的雏形。
+- **利息理论**：反对将低利率归因于货币量增加，认为低利率源于商业的繁荣和储蓄的增加。
+
+### 《论文集》 *Essays, Moral and Political* (1741-1742)
+
+收录了关于政治、文学、社会等话题的散文，包括"论党派" (Of Parties)、"论新闻自由" (Of the Liberty of the Press) 等。
+
+## 自传
+
+### 《我的一生》 *My Own Life* (1777)
+
+休谟在去世前数周撰写的简短自传。以坦然、幽默的笔调回顾了自己的一生，包括对《人性论》出版失败的自嘲、对法国旅居时光的回忆，以及面对死亡时的从容态度。亚当·斯密在此文后附有致出版商的信，称休谟"在他的天性和行为中，几乎接近了人类脆弱本性所允许的完美的德性和智慧的理念"。
+
+## 通信
+
+休谟与同时代大量知识分子的通信也是重要的思想史料，特别是与亚当·斯密 (Adam Smith)、伏尔泰 (Voltaire)、卢梭 (Rousseau, 后两人交恶)、孟德斯鸠 (Montesquieu) 等人的通信。
+
+## 延伸阅读
+
+- 返回 [休谟主页](README.md)
+- 参见 [进阶阅读指南](reading-list.md) 了解各著作的阅读建议

@@ -1,0 +1,144 @@
+---
+id: whitman-reading-list
+title: 惠特曼进阶阅读 · Whitman Reading List
+type: reading-list
+domain: literature
+school: poets
+thinker: whitman
+tags: [whitman, bibliography, reading-guide, american-poetry]
+cross-refs:
+  - id: whitman
+    relation: thinker
+---
+
+# 惠特曼进阶阅读 · Whitman Reading List
+
+## 一、阅读路径
+
+### 入门（3 首诗 + 1 篇散文，4 小时）
+1. 《自我之歌》第 1、5、24、52 节
+2. 《啊，船长！我的船长！》
+3. 《我歌唱带电的肉体》
+4. 《民主远景》摘要
+
+### 进阶（完整诗篇 + 战争诗，20 小时）
+5. 《自我之歌》全文
+6. 《渡过布鲁克林渡口》
+7. 《桴鼓集》选篇（《裹伤者》《和解》《紫丁香》）
+8. 《芦笛集》选篇
+
+### 深潜（全书 + 批评，100+ 小时）
+9. 《草叶集》1855 年初版完整阅读（含序言）
+10. 《草叶集》临终版完整阅读
+11. 《典型的日子》
+12. 《通向印度之路》
+13. 《民主远景》全文
+
+## 二、原典（必读）
+
+### 核心著作
+- *Leaves of Grass* (1855–1892) — 终生修订的诗总集
+  - *Song of Myself* — 核心长诗
+  - *Calamus* — 同志情谊诗组
+  - *Drum-Taps* — 战争诗篇
+- *Democratic Vistas* (1871) — 民主文化反思
+- *Specimen Days* (1882) — 散文集
+
+### 重要版本
+- *Leaves of Grass: 150th Anniversary Edition* (ed. David S. Reynolds, Oxford, 2005) — 含 1855 年初版全文 + 注释
+- *The Complete Poems* (ed. Francis Murphy, Penguin, 1996) — 含临终版全文
+
+### 中译本推荐
+- 楚图南、李野光 译《草叶集》（人民文学出版社）— 中文世界最完整译本
+- 邹绛 译《草叶集》（选译本）
+- 赵萝蕤 译《自我之歌》（多种选集收录）
+
+## 三、传记
+
+### 经典传记
+- **Reynolds, David S.** *Walt Whitman's America: A Cultural Biography* (1995) — 最权威的文化传记，将惠特曼置于 19 世纪美国文化的全面语境中
+- **Traubel, Horace** *With Walt Whitman in Camden* (9 vols., 1906–1996) — 惠特曼晚年最详尽的第一手对话记录
+- **Loving, Jerome** *Walt Whitman: The Song of Himself* (1999) — 21 世纪最重要的新传记
+- **Carpenter, Gay Wilson** *Walt Whitman: A Critical Biography* (1979) — 经典学术传记
+
+### 相关传记
+- **Katz, Jonathan Ned** *Love Stories: Sex between Men before Homosexuality* (2001) — 惠特曼与彼得·道尔的关系研究
+- **Folsom, Ed** *Walt Whitman's Native Representations* (1997)
+
+### 中文传记
+- 布鲁斯《沃尔特·惠特曼》（中译本）
+
+## 四、批评与研究
+
+### 经典研究
+- **Matthiessen, F.O.** *American Renaissance* (1941) — 将惠特曼置于"美国文艺复兴"的核心，与爱默生、梭罗、霍桑、梅尔维尔并列
+- **Allen, Gay Wilson** *A Reader's Guide to Walt Whitman* (1970) — 面向普通读者的精彩导读
+- **Bloom, Harold** ed. *Walt Whitman: Modern Critical Views* (1984) — 经典论文集
+- **Greenspan, Ezra** *Walt Whitman and the American Reader* (1990)
+
+### 当代研究
+- **Reynolds, David S.** *Walt Whitman's America* (1995) — 文化传记兼批评
+- **Folsom, Ed & Kenneth M. Price** *Re Scripting Walt Whitman* (2005) — 数字时代的惠特曼研究
+- **Erkkila, Betsy** *Whitman the Political Poet* (1989) — 惠特曼的政治维度
+- **Hutchinson, George B.** *The Ecstatic Whitman* (1983) — 惠特曼的神秘主义与宗教体验
+- **Loving, Jerome** *Walt Whitman's Champion: The Life of William Douglas O'Connor* (1978)
+
+### 中文研究
+- 张子清《二十世纪美国诗歌史》（惠特曼章节）
+- 赵萝蕤《我的读书生涯》（惠特曼译介回忆）
+- 李野光《惠特曼评传》
+
+## 五、惠特曼的思想源头
+
+- **爱默生** — 《论自然》《论美国学者》的超验主义
+- **《圣经》** — 尤其是《诗篇》《以赛亚书》的平行句式和先知语气
+- **《薄伽梵歌》** — 宇宙一体的东方哲学
+- **荷马** — 史诗的宏大视野
+- **莎士比亚** — 人物的多样性和语言的丰富性
+- **但丁** — 《神曲》的宇宙结构
+- **颅相学** — "黏合性"（adhesiveness）概念的来源
+
+## 六、惠特曼的下游
+
+### 美国诗歌
+- **庞德** — "我是惠特曼的继承人"（"I make pact with you"）；《诗章》的美国史诗抱负
+- **威廉斯** — "不观念不事物"（No ideas but in things）；美国口语的诗学
+- **哈特·克莱恩** — 《桥》（*The Bridge*）的美国史诗
+- **金斯伯格** — 《嚎叫》（*Howl*）的自由诗、身体性和 catalogs 技术
+- **兰斯顿·休斯** — 非裔美国诗歌与惠特曼的民主精神
+- **阿什贝里** — 意识流与美国经验的延续
+
+### 世界诗歌
+- **聂鲁达** — 《漫歌》（*Canto General*）的美洲史诗
+- **洛尔卡** — 《诗人在纽约》的惠特曼颂歌
+- **博尔赫斯** — 惠特曼西班牙语翻译者
+- **马雅可夫斯基** — 苏维埃诗歌中的惠特曼影响
+
+### 中国文学
+- **郭沫若** — 《女神》（1921）直接受惠于惠特曼的自由诗精神和 catalogs 技术
+- **艾青** — 自由诗传统在中国现代诗歌中的延续
+- **贺敬之** — 新诗运动中的惠特曼影响
+
+### 哲学与理论
+- **威廉·詹姆斯** — 实用主义与多元主义
+- **杜威** — "民主即生活方式"
+- **阿伦特** — 公共领域与诗歌作为政治行动
+
+## 七、研究工具
+
+- **The Walt Whitman Archive** (whitmanarchive.org) — 最全面的惠特曼数字档案馆，含所有版本的手稿和文本
+- **Walt Whitman Quarterly Review** — 主要学术期刊
+- **Walt Whitman Birthplace Association** (Huntington, NY)
+- **Walt Whitman House** (Camden, NJ) — 惠特曼晚年故居
+- **The Charles E. Feinberg Collection** (Library of Congress) — 最大的惠特曼手稿收藏
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**惠特曼的精髓** | 《自我之歌》第 1+24+52 节 → 《民主远景》摘要 |
+| 深入**自由诗技法** | 《自我之歌》全文 → 《渡过布鲁克林渡口》→ 《草叶集》序言 |
+| 理解**民主诗学** | 《民主远景》→ 《自我之歌》第 15 节 → 《芦笛集》 |
+| 了解**战争与死亡** | 《桴鼓集》选篇 → 《紫丁香》→ 《典型的日子》战争章节 |
+| **中文读者**入门 | 楚图南译《草叶集》选 → 李野光《惠特曼评传》→ 赵萝蕤《自我之歌》 |
+| 探索**身体与酷儿维度** | 《我歌唱带电的肉体》→ 《芦笛集》→ Katz *Love Stories* |

@@ -1,0 +1,155 @@
+---
+id: supplement
+title: 补充 · Supplement
+type: concept
+parent: derrida
+domain: philosophy
+school: post-structuralism
+tags:
+  - 补充
+  - supplement
+  - pharmakon
+  - 药
+  - 危险补充
+aliases:
+  - 补充
+  - Supplement
+  - Pharmakon
+  - 药
+  - 危险补充
+  - Dangerous supplement
+created: 1967
+---
+
+# 补充 · Supplement
+
+> *"The supplement is an inessential extra, a dangerous addition, something added to something in order to complete it — yet it turns out that the 'complete' thing could never have been complete without this 'extra.'"*
+> *"补充是一种非本质的附加、一种危险的添加、为了完成某物而加上的东西——但事实表明，那个'完整'的东西若没有这个'附加'，从来就不可能完整。"*
+> — Jacques Derrida, *Of Grammatology* / 《论文字学》 (1967)
+
+---
+
+## 一句话定义 · One-Line Definition
+
+**补充（supplément）是一种看似外在、次要、可有可无的"附加"，但它实际上填补了所谓"本源"所固有的缺失，并最终替代了本源本身。这一逻辑在"药"(*pharmakon*) 与"危险补充"两个经典形象中得到充分展示。**
+
+*The supplement is a seemingly external, secondary, dispensable "addition" that actually fills a lack inherent to the so-called "origin" and ends up replacing the origin itself. This logic is fully dramatized by two classic figures: the *pharmakon* (remedy/poison) and the "dangerous supplement."*
+
+---
+
+## 法语 *supplément* 的双重含义 · The Double Meaning of *Supplément*
+
+法语词典给 *supplément* 的两个定义——德里达在《论文字学》中刻意抓住的歧义：
+
+1. **附加 / 增加** (*addition*)：在本已完整的东西上再加一点；外在的、非必需的。
+2. **替代 / 补充** (*substitution*)：填补某个缺失；替代某物使其得以成立。
+
+这两种含义**表面上相互矛盾**：
+- 如果东西已经完整，为什么还需要"附加"？
+- 如果东西需要"替代"，说明它从一开始就不完整。
+
+德里达论证：正是这个矛盾揭示了"本源"的真相——**本源从来不是完整的**，它从一开始就需要补充；补充既暴露了本源的缺失，又让本源得以"看起来"完整。
+
+*The French dictionary gives *supplément* two definitions — an ambiguity Derrida exploits in *Of Grammatology*:*
+
+1. *Addition: something added to what is already complete; external, non-essential.*
+2. *Substitution: something that fills a lack; replaces something to make it work.*
+
+*These two meanings are **apparently contradictory**: if a thing is already complete, why add? if it needs a substitute, it was never complete to begin with. Derrida argues: this contradiction reveals the truth of "origin" — **origin is never complete**, it always already requires a supplement; the supplement both exposes the origin's lack and makes the origin "appear" complete.*
+
+---
+
+## 经典案例：卢梭的"危险补充" · Rousseau's "Dangerous Supplement"
+
+在《忏悔录》(*Confessions*) 中，卢梭谈及自己早年的手淫习惯：
+
+> "我找到了这种危险的补充 (*ce dangereux supplément*)，它欺骗了自然，拯救了我的贞洁，却损害了我的健康。"
+
+卢梭把自慰视为自然的"补充"——败坏自然、替代自然的性活动。但德里达在《论文字学》第二部分追问：
+- 为什么自然需要一个"补充"？
+- 如果性是自然的、完整的，为什么会有这种"败坏"的可能？
+- 答案：**自然从来不是完整的**。卢梭自己的文本已经承认：欲望本身就包含缺失，补充正是揭示这种缺失的东西。
+
+同样，在《爱弥儿》(*Émile*) 中，卢梭把书写视为言语的"补充"，把代理情人（即卢梭自己作为家庭教师的情人代理）视为真正情人的"补充"。所有这些补充都遵循同一逻辑：**看似次要的附加实际上暴露了本源的根本性缺失**。
+
+*In the *Confessions*, Rousseau writes of his early masturbation: "I found this dangerous supplement which deceived nature, saved my decency, yet impaired my health." Rousseau treats masturbation as nature's "supplement" — corrupting nature, substituting for natural sexual activity. But Derrida asks in *Of Grammatology*: why does nature need a supplement? If sexuality is natural and complete, how is this "corruption" possible? Answer: **nature was never complete**. Rousseau's own text admits that desire itself contains lack; the supplement reveals this lack. Likewise in *Émile*: writing supplements speech, the surrogate lover supplements the real lover. All these supplements obey the same logic: **the apparently secondary addition exposes the origin's fundamental lack**.*
+
+---
+
+## *Pharmakon*：毒药与良药的暧昧 · *Pharmakon*: The Ambivalence of Remedy and Poison
+
+在柏拉图《斐德若篇》(*Phaedrus*) 中，埃及神祗图提 (Theuth) 向法老塔穆斯 (Thamus) 献上书写的发明，称之为"记忆与智慧的 *pharmakon*"。塔穆斯回答："你带来的不是记忆的药，而是遗忘的药。"
+
+**关键点**：希腊语 *pharmakon* 同时指称：
+- 良药 / remedy
+- 毒药 / poison
+- 药物 / drug (既可是药物也可是毒品)
+- 祭品、咒语、化妆品……
+
+柏拉图在对话中试图把这个词**单一化**：书写是毒药、不是良药。但德里达在《播撒》(*Dissemination*, 1972) 的 "La Pharmacie de Platon" 一章论证：
+
+> 柏拉图自己的文本让 *pharmakon* 的暧昧性无法消除——书写同时是记忆的支撑和记忆的败坏，既是良方也是毒药；柏拉图试图把这种暧昧性排除出去，但他的文本不断重新引入它。
+
+*Pharmakon* 因此成为**补充逻辑的原型**：补充看似可以被区分为"好的"和"坏的"，但它的本质正是**在两者之间不可决断**。
+
+*In Plato's *Phaedrus*, the Egyptian god Theuth offers king Thamus the invention of writing as "a *pharmakon* of memory and wisdom." Thamus replies: "You bring not a remedy for memory but for forgetfulness." **Key point**: Greek *pharmakon* means simultaneously remedy, poison, drug, philter, spell, cosmetic… Plato tries to **stabilize** the word: writing is poison, not remedy. But Derrida in "La Pharmacie de Platon" (*Dissemination*, 1972) argues: Plato's own text cannot eliminate the ambivalence of *pharmakon* — writing is at once memory's support and memory's corruption, remedy and poison; Plato attempts to exclude this ambivalence, but his text constantly reintroduces it. *Pharmakon* thus becomes **the archetype of supplement logic**: the supplement seems separable into "good" and "bad," but its essence is precisely **the undecidability between the two**.*
+
+---
+
+## 补充链 · The Chain of Supplements
+
+德里达描述了一个**补充链**：
+
+> 本源 → 补充₁ → 补充₂ → 补充₃ → ……
+
+每一个补充都声称要填补上一个位置的缺失，但每一个补充本身又产生了新的缺失，需要下一个补充。这条链**没有尽头**：不存在最终的"本源"，因为本源本身已经是补充链的一个效应。
+
+例子（卢梭）：
+- 自然 → 教育 → 书写 → 代理情人 → 自慰 → 音乐 → 忏悔文字……
+
+每一个"补充"都同时**遮蔽**和**揭示**了本源的缺失。
+
+*Derrida describes a **chain of supplements**: Origin → Supplement₁ → Supplement₂ → Supplement₃ → … Each supplement claims to fill the lack of the previous position, but each supplement in turn produces a new lack, requiring the next supplement. The chain **has no end**: there is no ultimate "origin," because origin is itself an effect of the supplement chain. Example (Rousseau): Nature → Education → Writing → Surrogate lover → Masturbation → Music → Confessional text… Each supplement at once **conceals** and **reveals** the origin's lack.*
+
+---
+
+## 与相关概念的区分 · Distinctions from Related Concepts
+
+| 概念 · Concept | 区分 · Distinction |
+|---|---|
+| 延异 · *Différance* | 延异是更广义的差异+延宕运动；补充是其在"本源"问题上的具体表现。 / Différance is the broader movement; supplement is its specification in the problem of origin. |
+| 踪迹 · Trace | 踪迹是符号携带的"所不是之物"的痕迹；补充是填补本源缺失的"附加"。 / Trace is the mark of what the sign is not; supplement is the addition that fills the origin's lack. |
+| 替补 · Substitution | 日常"替补"预设一个完整的本源；德里达的补充恰恰瓦解这一预设。 / Ordinary "substitution" presupposes a complete origin; Derrida's supplement undoes that presupposition. |
+| *Pharmakon* | *Pharmakon* 是补充的原型之一；补充是更广泛的概念，涵盖书写、手淫、代理情人等。 / *Pharmakon* is one archetype of supplement; supplement is broader, covering writing, masturbation, surrogate lover, etc. |
+
+---
+
+## 当代应用 · Contemporary Applications
+
+1. **技术哲学** · Philosophy of technology：Bernard Stiegler 在《技术与时间》(*Technics and Time*) 中把"技术"重新定义为人类本质的"原初补充"——人类没有自然本质，技术从一开始就是人类的补充性构成。
+2. **后人类研究** · Posthuman studies：Donna Haraway 的"赛博格"(*cyborg*) 可被读作"人类的补充"——暴露了"自然人"概念的虚构性。
+3. **翻译理论** · Translation theory：翻译是原文的"补充"——既败坏原文、又让原文在另一个语言中继续生存。
+4. **建筑** · Architecture：Peter Eisenman 用"补充"概念设计"寄生"于现有建筑上的扩建。
+5. **法学** · Legal theory：判例是对法典的"补充"——既填补法典的空白，又改变法典的意义。
+
+---
+
+## 常见误读 · Common Misreadings
+
+1. **"补充只是修辞手法"** → 补充是本体论层面的结构，不是修辞装饰。 / "Supplement is just a rhetorical figure" → Supplement is an ontological structure, not a rhetorical ornament.
+2. **"补充是坏的，应该去除"** → 补充不可避免；它的暧昧性无法被简单排除。 / "Supplement is bad and should be removed" → Supplement is unavoidable; its ambivalence cannot simply be excluded.
+3. **"补充 = 后现代相对主义"** → 补充是对"本源"概念的结构性分析，不是相对主义口号。 / "Supplement = postmodern relativism" → Supplement is a structural analysis of the concept of origin, not a relativist slogan.
+4. **"卢梭只是个案"** → 卢梭代表了整个西方本源观的结构；同样的逻辑可以在柏拉图、黑格尔、胡塞尔处发现。 / "Rousseau is just a case" → Rousseau represents the structure of the entire Western concept of origin; the same logic appears in Plato, Hegel, Husserl.
+
+---
+
+## 延伸阅读 · Further Reading
+
+- Derrida, *Of Grammatology* (1967), Part II, Chapter 2: "…That Dangerous Supplement…"
+- Derrida, *Dissemination* (1972), "Plato's Pharmacy" / "La Pharmacie de Platon."
+- Derrida, *Margins of Philosophy* (1972), "The Pit and the Pyramid" (on Hegel's semiotics).
+- Stiegler, *Technics and Time* (1994) —— 技术作为原初补充 / Technics as originary supplement.
+- Culler, *On Deconstruction* (1982), pp. 105–111.
+
+→ 返回 [README.md](README.md) · Return to [README.md](README.md)
+→ 相关 · Related: [deconstruction.md](deconstruction.md) · [differance.md](differance.md) · [trace.md](trace.md) · [logocentrism.md](logocentrism.md)

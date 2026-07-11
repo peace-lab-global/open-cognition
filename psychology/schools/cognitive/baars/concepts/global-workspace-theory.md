@@ -1,0 +1,124 @@
+---
+id: psychology.cognitive.baars.global-workspace-theory
+title: "全局工作空间理论 · Global Workspace Theory"
+type: concept
+parent: psychology.cognitive.baars
+domain: psychology
+school: cognitive
+tags:
+  - consciousness
+  - global-workspace
+  - functional-architecture
+  - information-integration
+---
+
+# 全局工作空间理论 · Global Workspace Theory (GWT)
+
+---
+
+## 定义 · Definition
+
+全局工作空间理论（Global Workspace Theory, GWT）是由 Bernard Baars 于1988年提出的意识功能架构理论。其核心主张是：大脑中存在一个容量有限的全局信息交换系统——"全局工作空间"——其功能是将来自不同无意识专门处理器的信息在全脑范围内进行广播、整合和分发。意识的内容就是在任一时刻占据全局工作空间并被成功广播的信息。
+
+Global Workspace Theory (GWT) is a consciousness functional architecture theory proposed by Bernard Baars in 1988. Its core claim is that the brain contains a limited-capacity global information exchange system — the "global workspace" — whose function is to broadcast, integrate, and distribute information from various unconscious specialized processors across the entire brain. The contents of consciousness at any given moment are precisely the information that occupies the global workspace and is successfully broadcast.
+
+GWT的关键创新在于将意识从一个难以捉摸的"主观体验"问题转化为一个可以用信息处理语言精确描述的功能架构问题。它不试图回答"为什么存在主观体验"这一哲学"困难问题"（hard problem），而是集中回答"意识在认知系统中扮演什么功能角色"这一"功能问题"。
+
+GWT's key innovation lies in transforming consciousness from an elusive "subjective experience" problem into a functional architecture problem that can be precisely described in information-processing language. Rather than attempting to answer the philosophical "hard problem" of why subjective experience exists, it focuses on the "functional problem" of what role consciousness plays in the cognitive system.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 1. 全局工作空间的架构 / Architecture of the Global Workspace
+
+GWT描述了一个三层架构：
+
+GWT describes a three-layer architecture:
+
+- **输入层（Input Layer）**：大量的无意识专门处理器——视觉、听觉、语言、记忆、运动等系统——各自并行地处理信息。这些处理器是高度专门化的、高效的、领域特异的。
+- **中间层（Global Workspace Layer）**：容量有限的全局工作空间，通常只能容纳一个或少数几个信息"块"（chunks）。这一层由注意力机制（attentional mechanisms）控制，决定哪些信息被"推入"全局工作空间。
+- **输出层（Output Layer）**：一旦信息进入全局工作空间，就被同时广播（broadcast）到所有可接收的无意识处理器。这些处理器根据接收到的全局信息调整自身运作。
+
+- **Input Layer**: Numerous unconscious specialized processors — visual, auditory, linguistic, memory, motor systems — each processing information in parallel. These processors are highly specialized, efficient, and domain-specific.
+- **Global Workspace Layer**: A limited-capacity global workspace that can typically hold only one or a few information "chunks" at a time. This layer is controlled by attentional mechanisms that determine which information is "pushed" into the workspace.
+- **Output Layer**: Once information enters the global workspace, it is simultaneously broadcast to all receptive unconscious processors. These processors adjust their operations based on the globally received information.
+
+### 2. 竞争与联盟 / Competition and Coalitions
+
+多个信息源同时竞争进入全局工作空间的"席位"。这种竞争通过两种机制解决：（1）**自下而上的竞争**——信号强度更高的信息自动获得优先权；（2）**自上而下的控制**——目标系统和语境系统通过注意力机制偏袒某些信息源。此外，多个信息源可以形成"联盟"（coalitions），联合起来共同竞争全局广播权——这解释了为什么多模态信息（如同时具有视觉和听觉成分的事件）更容易进入意识。
+
+Multiple information sources simultaneously compete for access to the global workspace "seat." This competition is resolved through two mechanisms: (1) **bottom-up competition** — stronger signals automatically gain priority; (2) **top-down control** — goal systems and context systems bias attention toward certain information sources. Additionally, multiple sources can form "coalitions," jointly competing for global broadcast rights — explaining why multimodal information (events with both visual and auditory components) more readily enters consciousness.
+
+### 3. 时间动态 / Temporal Dynamics
+
+全局工作空间的广播不是连续的，而是以约100-300毫秒为单位的离散"帧"。每一帧中，一组信息被广播到全脑；下一帧中，新的信息取代旧信息。这种时间动态对应于"心理时刻"（psychological moment）的概念，与脑电图中的P300波和gamma波段振荡有密切关系。
+
+Global workspace broadcasting is not continuous but occurs in discrete "frames" of approximately 100–300 milliseconds. In each frame, a set of information is broadcast brain-wide; in the next frame, new information replaces old. This temporal dynamics corresponds to the concept of the "psychological moment" and is closely related to the P300 wave and gamma-band oscillations observed in EEG recordings.
+
+---
+
+## 发展脉络 · Historical Development
+
+### 1983–1988：理论雏形 / Theoretical Formation
+
+Baars 最初在认知心理学的信息处理框架内思考意识问题，受到 Broadbent 的注意力过滤器模型和 Miller 的工作记忆容量限制的启发。1983年开始形成全局工作空间的核心概念，1988年在《意识的认知理论》中完成了首次系统阐述。
+
+Baars initially contemplated consciousness within cognitive psychology's information-processing framework, inspired by Broadbent's attention filter model and Miller's working memory capacity limits. The core concept of the global workspace began forming around 1983, culminating in the first systematic formulation in *A Cognitive Theory of Consciousness* (1988).
+
+### 1997–2001：剧场隐喻与神经科学验证 / Theater Metaphor and Neuroscience Validation
+
+1997年的《意识的剧场》使GWT获得了广泛传播。2001年，Baars编辑的《意识的认知神经科学》汇集了脑成像和事件相关电位（ERP）证据，初步验证了全局广播的神经基础。
+
+The 1997 *Theater of Consciousness* brought GWT widespread dissemination. In 2001, Baars's edited *Cognitive Neuroscience of Consciousness* assembled neuroimaging and event-related potential (ERP) evidence, providing initial validation of the neural basis for global broadcasting.
+
+### 2001–至今：GNW 与对抗性合作 / GNW and Adversarial Collaboration
+
+Dehaene 和 Changeux 将 GWT 发展为全局神经元工作空间（GNW），用前额叶-顶叶长程神经元的点火（ignition）现象来具体化全局广播。2020年代的大型对抗性合作实验对GWT/GNW进行了严格检验，部分预测得到支持，部分需要修正，推动了理论的持续精细化。
+
+Dehaene and Changeux developed GWT into the Global Neuronal Workspace (GNW), concretizing global broadcasting through prefrontal-parietal long-range neuronal "ignition" phenomena. Large-scale adversarial collaboration experiments in the 2020s rigorously tested GWT/GNW — some predictions were supported, others required revision, driving ongoing theoretical refinement.
+
+---
+
+## 临床应用 · Clinical Applications
+
+1. **意识障碍评估 / Assessment of Disorders of Consciousness**：GWT为区分植物状态（VS）、最小意识状态（MCS）和完全意识状态提供了理论框架。关键是检测全局广播是否恢复——通过测量跨脑区的长程同步（long-range synchronization）来判断。
+2. **麻醉监测 / Anesthesia Monitoring**：全身麻醉被认为通过破坏全局广播来消除意识。GWT指导下的麻醉监测关注全局信息整合的实时状态。
+3. **注意力缺陷 / Attention Deficits**：ADHD等注意力障碍可以从GWT角度理解为全局工作空间的"门控"（gating）功能异常——不相关信息过多地进入全局广播。
+
+1. **Assessment of Disorders of Consciousness**: GWT provides a theoretical framework for distinguishing vegetative state (VS), minimally conscious state (MCS), and full consciousness. The key is detecting whether global broadcasting has recovered — measured through cross-regional long-range synchronization.
+2. **Anesthesia Monitoring**: General anesthesia is understood as eliminating consciousness by disrupting global broadcasting. GWT-guided monitoring focuses on the real-time state of global information integration.
+3. **Attention Deficits**: ADHD and related attention disorders can be understood from the GWT perspective as abnormal "gating" of the global workspace — too much irrelevant information enters global broadcast.
+
+---
+
+## 关联概念 · Related Concepts
+
+- **[意识剧场](consciousness-theater.md)** / [Consciousness Theater](consciousness-theater.md) — GWT的直观隐喻表达
+- **[全局广播](broadcast.md)** / [Broadcast](broadcast.md) — GWT的核心操作机制
+- **[通达意识](access-consciousness.md)** / [Access Consciousness](access-consciousness.md) — 全局广播产生的功能性意识状态
+- **[认知架构](cognitive-architecture.md)** / [Cognitive Architecture](cognitive-architecture.md) — GWT作为心智的整体功能组织
+- **整合信息论（IIT）** / Integrated Information Theory — Tononi 的互补理论
+- **全局神经元工作空间（GNW）** / Global Neuronal Workspace — Dehaene 的神经科学实现
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+GWT与佛教唯识学（Yogācāra）的"阿赖耶识"概念存在有趣的对话空间。阿赖耶识作为一切种子的储存库和意识活动的基础层面，可以类比为GWT中无意识处理器的集合体。而"转识成智"的修行过程，从GWT角度看，可以被理解为重新配置全局工作空间的广播模式——从散乱的、被动的广播转变为自主的、有选择的广播。
+
+GWT offers interesting dialogue with Buddhist Yogācāra's concept of ālayavijñāna (storehouse consciousness). As the repository of all seeds and the foundational level of conscious activity, ālayavijñāna can be analogized to the aggregate of unconscious processors in GWT. The cultivation process of "transforming consciousness into wisdom" (zhuǎn shí chéng zhì) can be understood from the GWT perspective as reconfiguring the broadcasting mode of the global workspace — from scattered, passive broadcasting to autonomous, selective broadcasting.
+
+在道家传统中，"无为"（wú wéi）的认知状态可以被理解为全局工作空间的一种特殊运作模式：不是没有全局广播，而是全局广播不再由刻意的目标系统驱动，而是由情境自然触发的最优反应模式。
+
+In the Daoist tradition, the cognitive state of wú wéi (non-action) can be understood as a special operational mode of the global workspace: not the absence of global broadcasting, but broadcasting no longer driven by deliberate goal systems — rather, optimal response patterns naturally triggered by the situation.
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press. — 原始阐述 / Original formulation
+- Baars, B. J. (1997). *In the Theater of Consciousness*. Oxford University Press. — 通俗版 / Popular version
+- Dehaene, S. (2014). *Consciousness and the Brain*. Viking. — GNW版本 / GNW version
+- Baars, B. J. (2002). "The conscious access hypothesis: Origins and recent evidence." *Trends in Cognitive Sciences*, 6(1), 47–52.
+- Melloni, L., et al. (2023). "An adversarial collaboration to test theories of consciousness." *bioRxiv*. — 最新检验 / Latest test

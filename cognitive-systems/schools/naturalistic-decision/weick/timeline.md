@@ -1,0 +1,35 @@
+---
+id: cognitive-systems.naturalistic-decision.weick-timeline
+title: 维克思想年表
+type: timeline
+domain: cognitive-systems
+school: naturalistic-decision
+thinker: weick
+tags: [weick, timeline]
+cross-refs: [{id: weick, relation: thinker}]
+---
+
+# 维克思想年表
+
+- **1936** 生于美国俄亥俄州
+- **1958** 获俄亥俄州立大学学士学位
+- **1962** 获普渡大学博士学位（心理学/组织行为）
+- **1962-1965** 在普渡大学开始组织理论研究生涯
+- **1965-1969** 在密歇根大学任教，开始形成"组织即过程"的核心观点
+- **1969** 出版 *The Social Psychology of Organizing* 第一版
+- **1973** 发表"The Social Psychology of Organizing"修订理论框架
+- **1979** 出版 *The Social Psychology of Organizing* 第二版——引入"双重交互"概念
+- **1985** 开始研究组织崩溃案例，探索极端情境下的意义建构失败
+- **1988** 发表"Enacted Sensemaking in Crisis Situations"——首次将"制定"与意义建构关联
+- **1993** 发表Mann Gulch论文——以1949年火灾案例分析意义崩溃
+- **1995** 出版 *Sensemaking in Organizations*——意义建构理论系统化
+- **1996** 获美国管理学会（AOM）杰出学术贡献奖
+- **1999** 与Sutcliffe合著"Organizing for High Reliability"——HRO五特征框架
+- **2001** 出版 *Managing the Unexpected* 第一版——HRO管理者指南
+- **2005** 发表"Organizing and the Process of Sensemaking"——意义建构七特征
+- **2006** 探讨信仰、证据与行动的关系——不确定条件下的行动逻辑
+- **2007** 获组织传播学会终身成就奖
+- **2009** *Managing the Unexpected* 第二版出版
+- **2012** 继续探讨正念组织概念——将HRO与佛教正念传统建立对话
+- **2015** *Managing the Unexpected* 第三版出版——更新案例与框架
+- **2025** 逝世——留下深远的组织理论遗产

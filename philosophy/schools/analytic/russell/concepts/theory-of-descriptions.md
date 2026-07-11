@@ -1,0 +1,71 @@
+---
+id: russell-theory-of-descriptions
+title: 描述理论 · Theory of Descriptions
+type: concept
+thinker: russell
+domain: philosophy
+school: analytic
+tags: [language, logic, reference, meaning, existence]
+---
+
+# 描述理论 · Theory of Descriptions
+
+## 概念定位 / Conceptual Position
+
+描述理论（Theory of Descriptions）是罗素在1905年论文"On Denoting"中提出的理论，被弗兰克·拉姆齐（Frank Ramsey）誉为"哲学的范式"（the paradigm of philosophy）。它解决了一个看似简单却困扰哲学家的问题：我们如何能有意义地谈论不存在的事物？"法国现任国王是秃头"这句话有意义吗？如果法国没有国王，这句话是假的还是无意义的？
+
+The Theory of Descriptions, proposed in Russell's 1905 paper "On Denoting," was called by Frank Ramsey "the paradigm of philosophy." It solves a seemingly simple yet philosophically troubling problem: how can we meaningfully talk about non-existent things? Is "The present King of France is bald" meaningful? If France has no king, is this sentence false or meaningless?
+
+## 核心论述 / Core Argument
+
+### 问题的来源 / Origin of the Problem
+
+迈农（Meinong）认为，任何可以被有意义提及的对象都必须在某种意义上"存在"——即使是"圆的方"也有某种存在状态。罗素拒绝这种膨胀的本体论，提出描述理论作为替代方案。
+
+Meinong held that any object that can be meaningfully mentioned must in some sense "exist" — even "the round square" has some kind of being. Russell rejected this inflated ontology and proposed the theory of descriptions as an alternative.
+
+### 限定描述的逻辑分析 / Logical Analysis of Definite Descriptions
+
+罗素将"法国现任国王是秃头"分析为：
+
+Russell analyzes "The present King of France is bald" as:
+
+∃x(Kx ∧ ∀y(Ky → y=x) ∧ Bx)
+
+即："存在恰好一个x是法国国王，且x是秃头。"这个分析包含三个成分：
+
+Meaning: "There exists exactly one x that is King of France, and x is bald." Three components:
+
+1. **存在性 / Existence**: 至少有一个法国国王 / At least one King of France exists
+2. **唯一性 / Uniqueness**: 至多有一个法国国王 / At most one King of France exists
+3. **属性归属 / Predication**: 那个国王是秃头 / That king is bald
+
+由于法国没有国王（条件1不满足），整个命题是**假的**（而非无意义的）。
+
+Since France has no king (condition 1 fails), the whole proposition is **false** (not meaningless).
+
+### 三种描述问题 / Three Description Problems Solved
+
+1. **不存在的事物 / Non-existent Objects**: "法国现任国王是秃头"为假——不需要假设"法国国王"有某种存在
+2. **排中律问题 / Excluded Middle**: "法国现任国王是秃头"和"法国现任国王不是秃头"——两者的否定（wide scope negation）都是真的，因为法国没有国王
+3. **同一性问题 / Identity**: "乔治四世想知道Scott是否是《威弗利》的作者"——"Scott"和"《威弗利》的作者"在描述分析中可以有不同的认知地位
+
+## 哲学意义 / Philosophical Significance
+
+1. **分析哲学的范式 / Paradigm of Analytic Philosophy**: 示范了如何用逻辑工具解决传统哲学问题
+2. **本体论节俭 / Ontological Parsimony**: 不需要假设不存在的事物有"存在"
+3. **影响 / Influence**: 斯特劳森（Strawson）的预设理论；唐纳兰（Donnellan）的指称性与归属性区分；克里普克（Kripke）的专名理论
+4. **语言学 / Linguistics**: 形式语义学中限定描述的量化分析
+
+## 与东方思想的对话 / Dialogue with Eastern Thought
+
+### 与唯识学"假名" / With Yogacara's "Designations"
+唯识学区分"假名有"（prajnapti-sat, 约定存在）和"实有"（dravya-sat, 实体存在）。"龟毛兔角"是假名有——可以被谈论但不实有。这与罗素的描述理论惊人地相似：描述词是"不完全符号"，看似指称实体，实则可被分析消除。
+
+Yogacara distinguishes "designation-existence" (prajnapti-sat) and "substantial existence" (dravya-sat). "Turtle fur and rabbit horns" are designation-existent — they can be discussed but are not substantially real. This is strikingly similar to Russell's theory: descriptions are "incomplete symbols" that seem to refer to entities but are actually eliminable by analysis.
+
+## 相关概念 / Related Concepts
+
+- [逻辑原子主义 Logical Atomism](logical-atomism.md)
+- [分析方法 Analytic Method](analytic-method.md)
+- [罗素主页](../README.md)

@@ -1,0 +1,130 @@
+---
+id: laozi-reading-list-religion
+title: 老子进阶阅读 / Reading Guide for Laozi
+type: reading-list
+domain: religion
+school: taoism
+thinker: laozi
+tags: [阅读, reading, 书目, bibliography, 老子, 道德经]
+---
+
+# 老子进阶阅读 / Reading Guide for Laozi
+
+## 阅读路径 / Reading Path
+
+### 入门 / Beginner
+
+1. **《老子》第1、11、25、37、40、42、78章** — 最具代表性的核心章节 / The most representative core chapters
+   - 第1章：道可道——道与名、有与无 / Ch. 1: The Dao that can be told — Dao and naming, being and non-being
+   - 第11章：有无之用——车轮、陶器、房屋 / Ch. 11: The use of non-being — wheels, vessels, houses
+   - 第25章：道法自然——道的描述 / Ch. 25: Dao follows nature — description of Dao
+   - 第37章：道常无为——无为的政治哲学 / Ch. 37: Dao is ever non-active — political philosophy of wu-wei
+   - 第40章：反者道之动——辩证法核心 / Ch. 40: Reversal is the movement of Dao — dialectics
+   - 第42章：道生一——宇宙生成论 / Ch. 42: Dao gives birth to One — cosmogony
+   - 第78章：柔弱胜刚强——水的哲学 / Ch. 78: Softness overcomes hardness — philosophy of water
+
+2. **陈鼓应《老子今注今译》（商务印书馆）** — 最佳入门注释本 / Best introductory annotated edition
+
+3. **D.C. Lau, *Tao Te Ching* (Penguin, 1963)** — 经典英译，附有研究导论 / Classic English translation with scholarly introduction
+
+4. **Ursula K. Le Guin, *Lao Tzu: Tao Te Ching* (Shambhala, 1997)** — 诗人译本，文学性最强 / Poet's translation, most literary
+
+### 进阶 / Intermediate
+
+5. **通读全书81章，参照王弼注理解玄学化阐释** / Read all 81 chapters with Wang Bi's commentary for xuanxue interpretation
+
+6. **帛书本与通行本对照阅读**（高明《帛书老子校注》）/ Read Mawangdui silk text alongside received text (Gao Ming)
+
+7. **A.C. Graham, *Disputers of the Tao* (Open Court, 1989), Ch. 10** — 先秦哲学的全面论述，老子章节尤为精彩 / Comprehensive treatment of pre-Qin philosophy; the Laozi chapter is outstanding
+
+8. **Edward Slingerland, *Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China* (Oxford UP, 2003)** — 无为概念的系统研究 / Systematic study of the wu-wei concept
+
+9. **王中江《道家形而上学》** — 道家本体论的系统研究 / Systematic study of Daoist ontology
+
+### 深读 / Advanced
+
+10. **郭店楚简本与今本对照**（丁四新《郭店楚竹书〈老子〉校注》）/ Compare Guodian bamboo slips with received text (Ding Sixin)
+
+11. **王弼《老子注》全文** — 理解魏晋玄学的老子阐释 / Full text of Wang Bi's commentary — understanding Wei-Jin xuanxue interpretation
+
+12. **刘笑敢《老子古今》** — 五种版本对勘 / Five-version collation
+
+13. **Hans-Georg Moeller, *The Philosophy of the Daodejing* (Columbia UP, 2006)** — 系统的哲学分析 / Systematic philosophical analysis
+
+14. **Chad Hansen, *A Daoist Theory of Chinese Thought* (Oxford UP, 1992)** — 语言哲学视角 / Language philosophy perspective
+
+## 核心章节主题索引 / Chapter Theme Index
+
+| 章节 / Chapter | 主题 / Theme |
+|------|------|
+| 第1章 | 道可道——道与名、有与无 / Dao and naming, being and non-being |
+| 第2章 | 对立相生——美丑、善恶、有无 / Opposites generating each other |
+| 第5章 | 天地不仁——虚空的宇宙论 / Heaven and earth are not benevolent — cosmology of emptiness |
+| 第8章 | 上善若水——水的哲学 / The highest good is like water |
+| 第11章 | 有无之用——车轮、陶器、房屋 / The use of non-being |
+| 第16章 | 致虚极——归根与复命 / Attain emptiness — return to root and destiny |
+| 第17章 | 太上不知有之——无为的政治 / The best ruler is barely known |
+| 第19章 | 见素抱朴——返璞归真 / Manifest plainness, embrace simplicity |
+| 第25章 | 道法自然——道的描述 / Dao follows nature |
+| 第36章 | 将欲歙之——反向策略 / To shrink, first stretch — reversal strategy |
+| 第37章 | 道常无为——无为的政治哲学 / Dao is ever non-active |
+| 第38章 | 上德不德——德与仁义礼的关系 / Higher virtue does not display virtue |
+| 第40章 | 反者道之动——辩证法核心 / Reversal is the movement of Dao |
+| 第42章 | 道生一——宇宙生成论 / Dao gives birth to One |
+| 第51章 | 道生之德畜之——道与德的关系 / Dao generates, De nurtures |
+| 第58章 | 祸福相依——对立面的转化 / Fortune and disaster depend on each other |
+| 第76章 | 柔弱胜刚强——生与死的辩证 / Softness overcomes hardness |
+| 第78章 | 天下莫柔弱于水——水的哲学 / Nothing is softer than water |
+| 第80章 | 小国寡民——政治理想 / Small state, few people — political ideal |
+| 第81章 | 信言不美——道的言说 / True words are not beautiful — speaking of Dao |
+
+## 中译与注释 / Chinese Commentaries
+
+| 著作 / Work | 作者 / Author | 出版社 / Publisher | 特点 / Features |
+|------|------|--------|------|
+| 《老子今注今译》 | 陈鼓应 | 商务印书馆 | 最佳入门 / Best introductory |
+| 《老子注译及评介》 | 陈鼓应 | 中华书局 | 全面注释 / Comprehensive annotation |
+| 《帛书老子校注》 | 高明 | 中华书局，1996 | 帛书研究权威 / Authoritative silk text study |
+| 《王弼集校释》 | 楼宇烈 | 中华书局 | 玄学化阐释 / Xuanxue interpretation |
+| 《老子古今》 | 刘笑敢 | 中文大学出版社 | 五版本对勘 / Five-version collation |
+| 《郭店楚竹书〈老子〉校注》 | 丁四新 | 武汉大学出版社 | 最早文本 / Earliest text |
+| 《道家形而上学》 | 王中江 | — | 本体论研究 / Ontological study |
+| 《老子绎读》 | 任继愈 | — | 大家小书，深入浅出 / Accessible masterwork |
+
+## 西文研究 / Western Scholarship
+
+| 著作 / Work | 作者 / Author | 出版社 / Publisher | 年份 / Year | 特点 / Features |
+|------|------|--------|------|------|
+| *Disputers of the Tao* | A.C. Graham | Open Court | 1989 | 先秦哲学全面论述 / Comprehensive pre-Qin philosophy |
+| *A Daoist Theory of Chinese Thought* | Chad Hansen | Oxford UP | 1992 | 语言哲学视角 / Language philosophy perspective |
+| *Daoism Handbook* | Liu Xiaogan (ed.) | Brill | 2000 | 道教研究百科全书 / Encyclopedia of Daoist studies |
+| *Daodejing: A Philosophical Translation* | Ames & Hall | Ballantine | 2003 | 含出土文献 / Includes excavated texts |
+| *Effortless Action* | Edward Slingerland | Oxford UP | 2003 | 无为概念系统研究 / Systematic wu-wei study |
+| *The Philosophy of the Daodejing* | Hans-Georg Moeller | Columbia UP | 2006 | 系统哲学分析 / Systematic philosophical analysis |
+| *Lao Tzu and the Tao-Te-Ching* | Livia Kohn & Michael LaFargue (eds.) | SUNY | 1998 | 多视角研究 / Multi-perspective study |
+| *The Art of Rulership* | Roger T. Ames | SUNY | 1994 | 古代中国政治思想 / Ancient Chinese political thought |
+
+## 上游思想 / Upstream Influences
+
+- **上古巫史传统 (Shaman-Historian Tradition)**：商周之际的天命观转变 / The shift in the concept of Heaven's Mandate during the Shang-Zhou transition
+- **早期阴阳观念 (Early Yin-Yang Thought)**：《易经》传统、五行思想 / The *Yijing* tradition, Five Elements thought
+- **楚文化 (Chu Culture)**：南方文化的神秘主义倾向 / Southern culture's mystical tendencies
+
+## 下游影响 / Downstream Influence
+
+- **庄子 Zhuangzi**：将老子之道激进化为逍遥与齐物 / Radicalized Laozi's Dao into freedom and equalization
+- **黄老之学 Huang-Lao School**：汉初治国理念 / Early Han governing philosophy
+- **魏晋玄学 Wei-Jin Xuanxue**：王弼、何晏、嵇康、阮籍 / Ontologized Laozi
+- **道教 Religious Daoism**：宗教化的老子传统 / Religionized Laozi tradition
+- **禅宗 Chan (Zen) Buddhism**：佛教与道家融合的产物 / Product of Buddhist-Daoist synthesis
+- **宋明理学 Song-Ming Neo-Confucianism**：本体论思维的吸收 / Absorbed ontological thinking
+- **海德格尔 Heidegger**：晚年对老子的兴趣 / Late-career engagement with Laozi
+- **深层生态学 Deep Ecology**：Arne Naess 引用老子 / Arne Naess cites Laozi
+- **当代管理学 Contemporary Management**：无为与仆人式领导 / Wu-wei and servant leadership
+- **心理治疗 Psychotherapy**：来访者中心疗法与无为的结构相通 / Client-centered therapy structurally parallels wu-wei
+
+## 关联页面 / Related Pages
+
+- [老子 · Laozi](README.md) — 返回总览 / Return to overview
+- [著作与版本](works.md) — 文本与翻译 / Texts and translations
+- [年表](timeline.md) — 思想年表 / Intellectual timeline

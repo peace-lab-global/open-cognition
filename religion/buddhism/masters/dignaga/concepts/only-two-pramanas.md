@@ -1,0 +1,100 @@
+---
+id: dignaga-only-two-pramanas
+title: "唯二量 · Only Two Pramanas"
+type: concept
+domain: religion
+school: buddhism-pramana
+era: classical-india
+tags: [pramana, pratyaksa, anumana, epistemology, Buddhist-logic]
+aliases: [唯二量, 二量, Only Two Pramanas, Two Means of Valid Cognition]
+sources:
+  - title: "Pramanasamuccaya"
+    author: Dignaga
+    chapter: 1
+parent: dignaga
+---
+
+# 唯二量 · Only Two Pramanas
+
+## 一句话定义
+
+认识的有效来源（量，pramana）只有两种：**现量（pratyaksa，直接感知）**与**比量（anumana，推理）**——不存在第三种独立的认识来源。
+
+## 提出者与背景
+
+- **提出者**: [陈那 Dignaga](../README.md)（约 480-540 CE）
+- **出处**: 《集量论》Pramanasamuccaya 第一章
+- **历史语境**: 印度哲学传统中，各学派对"量"的数量长期争论——正理派主张四量（现量、比量、比喻量、圣教量），弥曼差派主张六量，佛教内部也有多种说法
+- **针对的问题**: 如何确定什么构成有效的认识来源？是否需要无限多种认识方式？能否简化为最基本的几种？
+
+## 核心要义
+
+### 关键论证
+
+1. **穷尽性论证**: 认识的对象只有两种——**自相（svalaksana）**与**共相（samanyalaksana）**。自相是独特的、不可重复的个别特征，只能通过现量（直接感知）认识；共相是一般的、可重复的抽象特征，只能通过比量（推理）认识。既然对象只有两种，认识来源也只能有两种。
+
+2. **不可还原性论证**: 现量与比量彼此不可还原——你不能通过推理获得纯粹感知（如看到红色的直接经验），也不能通过感知获得推理结论（如"此山有火"的推论）。因此二者是独立的认识来源。
+
+3. **其他量的还原**:
+   - **圣教量 Sabda**（权威言教）→ 可还原为比量：先推理说话者的可信度，再接受其言教
+   - **比喻量 Aupamya**（类比推理）→ 可还原为比量：基于相似性的推理
+   - **义准量 Arthapatti**（蕴含推理）→ 可还原为比量：基于逻辑蕴含的推理
+   - **无体量 Anupalabdhi**（否定认识）→ 可还原为比量或现量
+
+### 现量的四个条件
+
+陈那将现量定义为"离分别"（kalpanapodha），即不含概念化操作的纯粹觉知。严格来说，现量需满足：
+
+1. **离分别**: 不含名称、种类等概念标签
+2. **无错乱**: 不是幻觉、错觉或感官损坏的产物
+3. **当下性**: 对当下对象的直接觉知
+4. **确定性**: 不是犹疑不定的模糊感觉
+
+### 比量的结构
+
+比量基于"因"（hetu，逻辑标记）进行推论。陈那将比量分为：
+
+- **为自比量 Svarthanumana**: 为自己进行的内在推理过程
+- **为他比量 Pararthanumana**: 向他人表达和论证的推理形式
+
+**The core argument is that valid cognition can only be of two kinds because objects of knowledge are only of two kinds: particulars (grasped by perception) and universals (grasped by inference). All other supposed means of knowledge — testimony, analogy, presumption, non-apprehension — reduce to one of these two.**
+
+## 通俗用法 vs 学术原义
+
+| 维度 | 通俗用法 | 学术原义 |
+|---|---|---|
+| 现量 | "亲眼看到的" | "离分别、无错乱的前概念纯粹觉知" |
+| 比量 | "猜出来的" | "基于有效因（满足三相）的逻辑推论" |
+| 量 | "方法/手段" | "产生新的有效认识（apurna-graha）的认知过程" |
+| 圣教量 | "经典说的" | "可还原为推理的权威言教——先验证可信度" |
+
+## 与印度各派的争论
+
+### vs 正理派 Nyaya
+
+正理派主张四量：现量、比量、比喻量（aupamya）、圣教量（sabda）。陈那的核心回应是：比喻量和圣教量都不是独立的认识来源，可以还原为比量。正理派的回应（如乌地约多卡拉 Uddyotakara）批评陈那的还原论过于激进。
+
+### vs 弥曼差派 Mimamsa
+
+弥曼差派（特别是鸠摩利罗 Kumarila）主张六量，包括义准量（arthapatti）和无体量（anupalabdhi）。陈那的立场是：这些都是比量的变体。弥曼差派认为吠陀经典是"无作者"（apauruseya）的，因此圣教量不可还原——这与陈那的立场根本对立。
+
+### vs 佛教内部
+
+佛教内部部分学派（如某些唯识论师）承认瑜伽现量（yogipratyaksa）为独立的认识来源。陈那将其纳入现量的一种特殊形式，而非独立量。
+
+## 当代关联
+
+- **认识论基础主义**: 陈那的唯二量是一种认识论的基础主义——将一切知识还原到最少数的基础来源
+- **经验主义 vs 理性主义**: 现量类似于经验主义的"感官经验"，比量类似于理性主义的"推理"——但陈那的独特之处在于二者的严格分野
+- **认知科学的双过程理论**: 系统1（快速、直觉）vs 系统2（缓慢、推理）与现量 vs 比量有结构性平行，但陈那的框架更精细
+
+## 常见误读
+
+- **"唯二量 = 只有两种认识"** → 陈那不是说人类只有两种认知活动，而是说只有两种**有效的、不可还原的**认识来源。记忆、想象、梦境等不构成独立量。
+- **"圣教量被完全否定"** → 陈那不是否定佛经的权威，而是为其提供更严格的认识论基础——佛经的权威需要通过推理来验证。
+
+## 延伸阅读
+
+- [因三相 Trairupya](trairupya.md) — 比量的逻辑条件
+- [自相与共相 Svalaksana & Samanyalaksana](particular-universal.md) — 二量的对象论基础
+- [集量论 Pramanasamuccaya](pramanasamuccaya.md) — 完整的体系呈现

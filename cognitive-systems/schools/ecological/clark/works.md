@@ -1,0 +1,21 @@
+---
+id: cognitive-systems.school.ecological.clark.works
+title: 克拉克核心著作 Andy Clark Works
+type: works
+thinker: clark
+domain: cognitive-systems
+school: ecological
+---
+
+# 克拉克核心著作 / Andy Clark Key Works
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| 1997 | *Being There* | 具身嵌入延展认知 |
+| 1998 | "The Extended Mind"（与Chalmers） | 延展心智论文 |
+| 2003 | *Natural-Born Cyborgs* | 人类作为赛博格 |
+| 2008 | *Supersizing the Mind* | 延展心智系统论述 |
+| 2016 | *Surfing Uncertainty* | 预测加工框架 |
+
+## 二手研究
+- Menary, R. (ed.) (2010). *The Extended Mind*. MIT Press.

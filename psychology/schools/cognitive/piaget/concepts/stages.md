@@ -1,0 +1,204 @@
+---
+id: psychology.cognitive.piaget.stages
+title: "认知发展四阶段 · Four Stages of Cognitive Development"
+type: concept
+domain: psychology
+thinker: psychology.cognitive.piaget
+tags: [阶段理论, 感知运动期, 前运算期, 具体运算期, 形式运算期, stage-theory, sensorimotor, preoperational, concrete-operational, formal-operational]
+---
+
+# 认知发展四阶段 · Four Stages of Cognitive Development
+
+## 定义 / Definition
+
+**中文：** 皮亚杰将人类认知发展划分为四个依次出现的质性阶段：感知运动期（sensorimotor stage）、前运算期（preoperational stage）、具体运算期（concrete operational stage）和形式运算期（formal operational stage）。每个阶段构成一个**整体结构（structure d'ensemble）**——一组内在一致、相互关联的认知能力。阶段之间的转换是不可逆的质变，新阶段在整合前一阶段成就的基础上增加新的认知维度。阶段的**顺序**对所有人类是不变的，但达到的**年龄**因个体差异和文化背景而异。
+
+**English:** Piaget divided human cognitive development into four sequential qualitative stages: the sensorimotor stage, preoperational stage, concrete operational stage, and formal operational stage. Each stage constitutes a **structure d'ensemble** — a set of internally consistent, interrelated cognitive abilities. Transitions between stages are irreversible qualitative transformations, with each new stage integrating the achievements of the preceding stage while adding new cognitive dimensions. The **sequence** of stages is invariant for all humans, but the **ages** of attainment vary across individual differences and cultural backgrounds.
+
+---
+
+## 核心机制 / Core Mechanism
+
+### 第一阶段：感知运动期 / Stage 1: Sensorimotor Period (0–2 years)
+
+**中文：** 在出生后的头两年，婴儿通过感觉（视觉、听觉、触觉）和运动动作来认识世界。这一时期没有语言，没有符号表征——知识完全嵌入在动作中。皮亚杰识别出六个亚阶段（substage）：
+
+1. **反射活动**（0–1 个月）：先天反射（吸吮、抓握）是唯一的认知工具。
+2. **初级循环反应**（1–4 个月）：重复偶然发现的愉快动作（如吸吮拇指）。
+3. **次级循环反应**（4–8 个月）：重复能产生有趣外部结果的动作（如摇晃拨浪鼓）。
+4. **次级图式协调**（8–12 个月）：将不同的行动图式组合起来实现目标（如移开障碍物以获取玩具）。**客体永久性**在这一亚阶段初步出现。
+5. **三级循环反应**（12–18 个月）："小科学家"——通过试错探索新方式（如用不同力度扔东西观察结果）。
+6. **心理表征的出现**（18–24 个月）：能够进行延迟模仿（deferred imitation）和符号游戏，标志着向下一阶段的过渡。
+
+**里程碑成就**：客体永久性（object permanence）——理解物体在不可见时仍然存在。这一成就在 8–12 个月时初步出现（"A-not-B 错误"表明理解尚不完整），在 18–24 个月时完全建立。
+
+**English:** In the first two years of life, infants know the world through sensation (vision, hearing, touch) and motor action. There is no language, no symbolic representation — knowledge is entirely embedded in action. Piaget identified six substages:
+
+1. **Reflexive activity** (0–1 month): Innate reflexes (sucking, grasping) are the only cognitive tools.
+2. **Primary circular reactions** (1–4 months): Repeating accidentally discovered pleasurable actions (e.g., thumb sucking).
+3. **Secondary circular reactions** (4–8 months): Repeating actions that produce interesting external results (e.g., shaking a rattle).
+4. **Coordination of secondary schemas** (8–12 months): Combining different action schemas to achieve goals (e.g., moving an obstacle to obtain a toy). **Object permanence** first appears in this substage.
+5. **Tertiary circular reactions** (12–18 months): "Little scientists" — exploring new ways through trial and error (e.g., dropping objects with different forces to observe results).
+6. **Emergence of mental representation** (18–24 months): Ability for deferred imitation and symbolic play, marking the transition to the next stage.
+
+**Milestone achievement**: Object permanence — understanding that objects continue to exist when out of sight. This achievement first appears around 8–12 months (the "A-not-B error" indicates incomplete understanding), fully established by 18–24 months.
+
+### 第二阶段：前运算期 / Stage 2: Preoperational Period (2–7 years)
+
+**中文：** 随着语言和象征能力的出现，儿童开始使用符号（语言、绘画、假装游戏）来表征世界。然而，这一阶段的思维虽然具有象征性，但尚未获得真正的逻辑运算能力。其特征包括：
+
+- **自我中心主义（Egocentrism）**：无法从他人的角度思考。经典的"三山实验"（Three Mountains Task）显示，前运算期儿童倾向于认为他人看到的与自己相同。
+- **不可逆性（Irreversibility）**：无法在心理上逆转操作。例如，知道 3+2=5，但不能推出 5-2=3。
+- **中心化（Centration）**：注意力集中在事物的单一维度上，忽视其他维度。
+- **不能守恒（Lack of Conservation）**：不理解物体在外观变化时其本质属性不变。经典守恒实验中，将等量液体倒入不同形状的容器，前运算期儿童会认为高而窄的容器中液体"更多"。
+- **泛灵论（Animism）**：将生命和意图赋予无生命物体——"太阳跟着我走"、"椅子故意绊倒我"。
+- **人造论（Artificialism）**：认为自然现象是人类或神灵创造的——"云是人造的"。
+
+**里程碑成就**：符号表征能力的建立——语言、假装游戏、绘画。这是从"动作智慧"向"符号智慧"的过渡。
+
+**English:** With the emergence of language and symbolic abilities, children begin using symbols (language, drawings, pretend play) to represent the world. However, while thinking in this stage is symbolic, it has not yet acquired true logical operational abilities. Its characteristics include:
+
+- **Egocentrism**: Inability to think from others' perspectives. The classic "Three Mountains Task" shows that preoperational children tend to assume others see the same view as themselves.
+- **Irreversibility**: Inability to mentally reverse operations. For example, knowing 3+2=5 but unable to derive 5-2=3.
+- **Centration**: Attention focused on a single dimension of things, ignoring other dimensions.
+- **Lack of Conservation**: Failure to understand that essential properties remain constant despite changes in appearance. In classic conservation experiments, when equal amounts of liquid are poured into differently shaped containers, preoperational children judge the tall narrow container as having "more."
+- **Animism**: Attributing life and intention to inanimate objects — "the sun follows me," "the chair deliberately tripped me."
+- **Artificialism**: Believing natural phenomena are created by humans or deities — "clouds are man-made."
+
+**Milestone achievement**: Establishment of symbolic representation ability — language, pretend play, drawing. This marks the transition from "intelligence in action" to "intelligence in symbols."
+
+### 第三阶段：具体运算期 / Stage 3: Concrete Operational Period (7–11 years)
+
+**中文：** 儿童开始能够进行真正的逻辑运算（logical operations），但仅限于具体事物和可感知的现实。核心成就包括：
+
+- **守恒（Conservation）**：理解数量、质量、长度、面积、体积在外观变化时保持不变。守恒的获得顺序是：数量（约 6–7 岁）→ 质量（约 7–8 岁）→ 重量（约 9–10 岁）→ 体积（约 11–12 岁），这一现象被称为**"水平滞差"（horizontal décalage）**。
+- **分类（Classification）**：能够理解层级分类关系（如"所有狗都是动物，但不是所有动物都是狗"）。
+- **序列化（Seriation）**：能够按照某一维度（如长度）将物体排列成序列。
+- **去中心化（Decentration）**：能够同时考虑多个维度。
+- **可逆性（Reversibility）**：能够在心理上逆转操作。
+- **传递推理（Transitive Inference）**：如果 A>B 且 B>C，则能推出 A>C。
+
+**里程碑成就**：逻辑运算能力的获得——但局限于具体事物。儿童能够进行系统性的分类、排序和推理，但尚不能处理纯抽象的假设性问题。
+
+**English:** Children begin to perform true logical operations, but only on concrete objects and perceivable reality. Core achievements include:
+
+- **Conservation**: Understanding that quantity, mass, length, area, and volume remain constant despite changes in appearance. Conservation is acquired in order: number (about 6–7 years) → mass (about 7–8) → weight (about 9–10) → volume (about 11–12), a phenomenon called **"horizontal décalage."**
+- **Classification**: Understanding hierarchical classification relationships (e.g., "all dogs are animals, but not all animals are dogs").
+- **Seriation**: Arranging objects in sequence along a dimension (e.g., length).
+- **Decentration**: Considering multiple dimensions simultaneously.
+- **Reversibility**: Mentally reversing operations.
+- **Transitive inference**: If A>B and B>C, then A>C.
+
+**Milestone achievement**: Acquisition of logical operational ability — but limited to concrete things. Children can perform systematic classification, ordering, and reasoning, but cannot yet handle purely abstract hypothetical problems.
+
+### 第四阶段：形式运算期 / Stage 4: Formal Operational Period (11+ years)
+
+**中文：** 青少年开始能够进行抽象的、假设-演绎的推理。核心特征包括：
+
+- **抽象思维（Abstract Thinking）**：能够处理没有具体对应物的抽象概念（如正义、无限、可能性）。
+- **假设-演绎推理（Hypothetico-Deductive Reasoning）**：能够系统性地生成和检验假设。例如，"如果所有天鹅都是白色的，那么在南方应该也能找到白色天鹅"——并能设计实验来检验。
+- **命题逻辑（Propositional Logic）**：能够理解"如果…那么…"、"或者…或者…"等逻辑关系，不依赖具体内容。
+- **系统性思维（Systematic Thinking）**：能够考虑所有可能的变量组合。经典的"钟摆问题"中，形式运算阶段的青少年能系统性地检验长度、重量、推力等变量的影响。
+- **反思性思维（Reflective Thinking）**：能够反思自己的思维过程——元认知（metacognition）的出现。
+- **理想主义（Idealism）**：开始思考"世界应该是什么样的"——对现实的批判性思考。
+
+**里程碑成就**：抽象推理能力的获得——使个体能够处理哲学、数学和科学中的形式问题。但需注意，并非所有成年人都达到完整的形式运算水平——跨文化研究显示，形式运算的充分发展依赖于特定的教育和文化条件。
+
+**English:** Adolescents begin to perform abstract, hypothetico-deductive reasoning. Core features include:
+
+- **Abstract thinking**: Handling abstract concepts without concrete referents (e.g., justice, infinity, possibility).
+- **Hypothetico-deductive reasoning**: Systematically generating and testing hypotheses. For example, "if all swans are white, then white swans should also be found in the south" — and designing experiments to test this.
+- **Propositional logic**: Understanding "if...then," "either...or" logical relations without relying on specific content.
+- **Systematic thinking**: Considering all possible variable combinations. In the classic "pendulum problem," formal operational adolescents systematically test the effects of length, weight, and force variables.
+- **Reflective thinking**: Reflecting on one's own thinking processes — the emergence of metacognition.
+- **Idealism**: Beginning to think about "what the world should be like" — critical thinking about reality.
+
+**Milestone achievement**: Acquisition of abstract reasoning ability — enabling individuals to handle formal problems in philosophy, mathematics, and science. However, note that not all adults reach full formal operational level — cross-cultural research shows that full development of formal operations depends on specific educational and cultural conditions.
+
+---
+
+## 发展脉络 / Development
+
+**中文：** 四阶段理论的形成过程：
+
+- **1920s**：最初通过临床访谈法研究前运算期儿童的思维特征（自我中心、泛灵论等）。
+- **1930s–40s**：通过对自己子女的观察，建立了感知运动期的完整理论。
+- **1950s–60s**：与 Inhelder 合作，通过守恒实验等标准化方法系统研究具体运算期。
+- **1958**：Inhelder & Piaget 出版《形式推理的成长》（*The Growth of Logical Thinking*），正式提出形式运算阶段。
+- **1970s–80s**：后皮亚杰学派开始对阶段理论进行修正——引入信息加工、工作记忆、领域特异性等概念。
+
+**English:** The formation process of four-stage theory:
+
+- **1920s**: Initially studied preoperational children's thinking features (egocentrism, animism, etc.) through clinical interview methods.
+- **1930s–40s**: Built a complete theory of the sensorimotor period through observation of his own children.
+- **1950s–60s**: Collaborated with Inhelder, systematically studying the concrete operational period through standardized methods such as conservation experiments.
+- **1958**: Inhelder & Piaget published *The Growth of Logical Thinking*, formally proposing the formal operational stage.
+- **1970s–80s**: Post-Piagetian schools began revising stage theory — introducing concepts of information processing, working memory, and domain specificity.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 教育阶段匹配 / Educational Stage Matching
+
+**中文：** 教师需要了解学生所处的认知发展阶段来设计教学。具体运算期的儿童需要通过具体操作来理解数学概念（如用积木理解加法），不能直接教授抽象代数。形式运算期的学生则可以处理假设性问题和抽象推理。
+
+**English:** Teachers need to understand students' cognitive developmental stages to design instruction. Concrete operational children need to understand mathematical concepts through concrete manipulation (e.g., using blocks to understand addition), and cannot be directly taught abstract algebra. Formal operational students can handle hypothetical problems and abstract reasoning.
+
+### 认知发展评估 / Cognitive Development Assessment
+
+**中文：** 守恒任务、分类任务、三山任务等经典实验被广泛用作认知发展评估工具，帮助心理学家和教育工作者识别儿童的认知发展水平。
+
+**English:** Conservation tasks, classification tasks, the Three Mountains Task, and other classic experiments are widely used as cognitive development assessment tools, helping psychologists and educators identify children's cognitive development levels.
+
+### 水平滞差与教学策略 / Horizontal Décalage and Teaching Strategies
+
+**中文：** "水平滞差"现象（同一逻辑能力在不同领域的不同时间出现）提醒教育者，认知发展不是"一刀切"的。一个儿童可能在数量守恒上已经成熟，但在体积守恒上还未达到。教学设计需要考虑领域特异性的发展节奏。
+
+**English:** The "horizontal décalage" phenomenon (the same logical ability appearing at different times across domains) reminds educators that cognitive development is not "one-size-fits-all." A child may be mature in number conservation but not yet in volume conservation. Instructional design needs to consider domain-specific developmental rhythms.
+
+---
+
+## 与其他概念的关联 / Related Concepts
+
+### 内部关联 / Internal Connections
+
+- **同化与顺应（Assimilation and Accommodation）**：阶段转换是大规模顺应过程的结果。
+- **平衡化（Equilibration）**：推动阶段转换的根本动力。
+- **图式（Schema）**：每个阶段对应一套整合的图式系统。
+- **发生认识论（Genetic Epistemology）**：四阶段是发生认识论在心理学层面的核心表达。
+
+### 外部关联 / External Connections
+
+- **埃里克森的心理社会发展阶段（Erikson）**：认知发展阶段与心理社会发展阶段是平行的——两者从不同维度描述人的发展。
+- **科尔伯格的道德发展阶段（Kohlberg）**：基于皮亚杰的道德判断研究，发展出六阶段道德发展理论。
+- **科尔伯格的道德发展阶段（Kohlberg）**：基于皮亚杰的道德判断研究，发展出六阶段道德发展理论。
+- **信息加工理论（Information Processing, Case & Fischer）**：新皮亚杰学派用工作记忆容量和加工速度的变化来解释阶段转换。
+- **维果茨基的最近发展区（Vygotsky's ZPD）**：阶段理论强调"发展引领学习"，ZPD 强调"学习引领发展"——两种不同的教育哲学。
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+### 与印度教的阿什拉姆（Ashrama）生命阶段论 / Dialogue with Hindu Ashrama Life Stages
+
+**中文：** 印度教传统将人生分为四个阶段（Ashrama）：梵行期（学生）、家住期（家庭）、林栖期（退隐）、遁世期（解脱）。虽然这些阶段关注的是精神和社会生活而非认知发展，但它们与皮亚杰的阶段理论共享一个重要洞见：人的发展是阶段性的，每个阶段有其独特的任务和成就，阶段之间的转换是质变而非量变。
+
+**English:** The Hindu tradition divides life into four stages (Ashrama): Brahmacharya (student), Grihastha (householder), Vanaprastha (forest dweller), Sannyasa (renunciation). While these stages concern spiritual and social life rather than cognitive development, they share with Piaget's stage theory an important insight: human development is stagelike, each stage has its unique tasks and achievements, and transitions between stages are qualitative rather than quantitative.
+
+### 与《大学》"格物-致知-诚意-正心-修身-齐家-治国-平天下"的序列 / Dialogue with The Great Learning's Developmental Sequence
+
+**中文：** 《大学》提出了一个从"格物"到"平天下"的渐进修养序列。这个序列可以被视为一种认知-道德发展的阶段理论——从对事物的探究（类似"具体运算"）逐步发展到对社会和天下的治理（类似"形式运算"的抽象推理在道德领域的应用）。两者都强调发展的顺序性和阶段间的累积关系。
+
+**English:** *The Great Learning* proposes a progressive cultivation sequence from "investigating things" to "bringing peace to the world." This sequence can be seen as a cognitive-moral developmental stage theory — from investigation of things (analogous to "concrete operations") progressively developing to governance of society and the world (analogous to the application of "formal operational" abstract reasoning in the moral domain). Both emphasize the sequential nature and cumulative relationships between stages of development.
+
+---
+
+## 进阶阅读 / Further Reading
+
+- Piaget, J. (1952). *The Origins of Intelligence in Children* — 感知运动期完整理论
+- Inhelder, B., & Piaget, J. (1958). *The Growth of Logical Thinking from Childhood to Adolescence* — 形式运算阶段
+- Piaget, J., & Inhelder, B. (1966). *The Psychology of the Child* — 四阶段综合阐述
+- Dasen, P. R. (1972). "Piagetian Research in a Cross-Cultural Perspective" — 跨文化检验
+- Siegler, R. S. (1998). *Children's Thinking* (2nd ed.) — 对阶段理论的现代审视
+- Commons, M. L. et al. (1998). "The Existence of Adult Postformal Stages" — 后形式运算阶段的探讨

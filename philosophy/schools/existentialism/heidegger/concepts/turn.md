@@ -1,0 +1,147 @@
+---
+id: heidegger-turn
+title: 转向 · die Kehre · Heidegger
+type: concept
+domain: philosophy
+school: existentialism
+thinker: heidegger
+tags: [turn, kehre, ereignis, language, technology, gestell, heidegger, later-heidegger]
+cross-refs:
+  - id: heidegger
+    relation: thinker
+  - id: heidegger-dasein
+    relation: 起点
+  - id: heidegger-being-in-the-world
+    relation: 深化
+  - id: derrida
+    relation: 下游
+  - id: gadamer
+    relation: 下游
+  - id: religion.buddhism.school.yogacara
+    relation: 对照
+  - id: zhuangzi
+    relation: 对照
+---
+
+# 转向 · die Kehre
+
+## 一句话定义
+
+转向 (die Kehre) 是海德格尔 1930 年代后思想的根本转变 -- 从"此在对存在的理解"转向"存在本身的自行发生" (Ereignis), 从基础存在论转向**存在历史 (Seinsgeschichte)、语言 (Sprache) 与技术 (Technik) 之思**。
+
+## 核心要义
+
+### 1. 转向的含义: 不是断裂, 而是翻转
+
+海德格尔本人强调: 转向不是"早期海德格尔"与"晚期海德格尔"的断裂, 而是**同一思想的翻转** (Kehre im Ereignis)。他从两个方向描述这一翻转:
+
+- **从此在到存在** -- 早期: 此在通过时间性理解存在; 晚期: 存在自行发生 (sich ereignen), 此在只是存在的"牧羊人" (Hirt des Seins)
+- **从投射到回应** -- 早期: 此在"筹划"存在的可能性; 晚期: 此在"回应"存在的召唤 (Zuspruch)
+- **从分析到思 (Denken)** -- 早期: 存在论分析; 晚期: 思 (Denken) 与诗 (Dichtung) 的对话
+
+转向不是放弃《存在与时间》的问题, 而是以不同的方式追问同一问题: **存在的意义是什么?**
+
+### 2.  Ereignis (本有 / 事件 /  appropriation)
+
+转向的核心概念是 Ereignis -- 这个词在德语中通常意为"事件", 但海德格尔取其词根 er-eignen (使之成为自己的): Ereignis 是**存在与人相互归属、相互召唤的原初事件**。
+
+- 存在不是此在的投射, 而是自行发生的赠与 (Es gibt Sein, "它给予存在")
+- 此在不是存在的主人, 而是存在的"牧羊人" -- 守护存在的敞开
+- Ereignis 比存在与此在的二元更原初: 它是二者的"互属" (Zusammengehören)
+
+Ereignis 是不可翻译的 -- 中文译为"本有""自有""事件"" appropriation"等, 皆不能穷尽其义。海德格尔晚年说 Ereignis 是"思的引导词" (das Leitwort des Denkens)。
+
+### 3. 语言是存在之家 (Die Sprache ist das Haus des Seins)
+
+转向后, 语言取代时间性成为海德格尔思想的核心:
+
+- **语言不是交流工具** -- 语言不是人"使用"的符号系统, 而是存在自行显现与遮蔽的场所
+- **诗意语言 (Dichtung) 优先于日常语言** -- 诗人的命名 (荷尔德林、里尔克、特拉克尔) 比日常闲谈更接近存在的原初发生
+- **沉默 (Schweigen)** -- 真正的言说包含沉默; 最深刻的真理往往在沉默中显现
+- **语言说 (Die Sprache spricht)** -- 不是"人说语言", 而是"语言说", 人只是回应语言的言说
+
+这一思想对伽达默尔的"能被理解的存在就是语言"、德里达的"文本之外无一物"产生了直接影响。
+
+### 4. 技术之问 (Die Frage nach der Technik)
+
+转向后海德格尔对现代技术的批判是其最持久的思想遗产之一:
+
+- **技术的本质不是工具** -- 流行的理解将技术视为"达到目的的手段"; 海德格尔追问: 技术作为一种存在方式, 它如何改变了存在者的显现?
+- **框架 (Gestell)** -- 现代技术的本质是"框架": 它将一切存在者 (包括人) 还原为"持存物" (Bestand), 即随时待命的资源。河流不再是河流, 而是"水力发电的储备"; 人不再是人, 而是"人力资源"。
+- **危险与拯救** -- "哪里有危险, 哪里也有拯救" (Wo aber Gefahr ist, wächst das Rettende auch)。技术既是最大的危险 (对存在的彻底遮蔽), 也内含拯救的可能 (通过追问技术的本质, 我们开始看到被遮蔽的东西)。
+- **Gelassenheit (泰然任之 / 让存在)** -- 面对技术的危险, 海德格尔提出的态度不是"反对技术"或"拥抱技术", 而是"泰然任之": 使用技术, 但不被技术的框架所支配; 保持对存在的敞开。
+
+### 5. 存在历史 (Seinsgeschichte) 与"另一开端"
+
+转向后海德格尔将西方哲学史理解为**存在遗忘的历史** (Geschichte der Seinsvergessenheit):
+
+- **第一开端 (der erste Anfang)** -- 从前苏格拉底 (阿那克西曼德、赫拉克利特、巴门尼德) 到柏拉图: 存在最初显现, 然后被遮蔽 (柏拉图将存在还原为"理念")
+- **存在遗忘** -- 从亚里士多德到尼采: 存在被还原为实体、上帝、主体、意志; 形而上学完成了
+- **另一开端 (der andere Anfang)** -- 海德格尔呼唤的: 不是回到前苏格拉底, 而是重新追问存在的意义, 以 Ereignis 取代实体, 以 Gelassenheit 取代控制
+
+这一历史叙事被批评为过于简化, 但它深刻影响了后结构主义 (德里达的"在场形而上学"批判) 与后现代主义 (利奥塔的"大叙事终结")。
+
+## 海德格尔 vs 其他哲学家对照表
+
+| 哲学家 | 与转向的关系 | 评价 |
+|---|---|---|
+| 胡塞尔 | 转向的反面: 从存在论到先验主体性 | 海德格尔认为胡塞尔从未追问存在的历史 |
+| 萨特 | 早期海德格尔的追随者, 忽视转向 | 萨特的存在主义建立在《存在与时间》上, 未接受转向 |
+| 德里达 | 转向的激进化: 解构"在场形而上学" | 德里达认为海德格尔的转向仍然预设了某种"原初" |
+| 伽达默尔 | 转向的诠释学化: "能被理解的存在就是语言" | 伽达默尔将语言之思发展为哲学诠释学 |
+| 罗蒂 | 转向的实用主义化: 哲学作为文学 | 罗蒂将"存在历史"解读为"哲学史的终结" |
+
+## 海德格尔 vs 佛教/唯识/庄子对照
+
+### 转向 vs 唯识
+
+- **Ereignis vs 缘起 (pratityasamutpada)** -- 二者都描述"原初的发生", 不是某个实体的行动; 但 Ereignis 是存在与人的互属, 缘起是一切法的相互依存。
+- **语言是存在之家 vs 名言遍计所执** -- 海德格尔: 诗意语言是存在的原初命名; 唯识: 名言 (vikalpa) 是对依他起的实体化投射。二者的分歧在于: 语言是遮蔽还是显现?
+- **Gestell vs 所知障** -- 框架 (Gestell) 将一切还原为资源; 所知障将一切法视为有自性。二者都是深层的遮蔽, 都需要被觉察。
+- **Gelassenheit vs 舍 (upeksa)** -- 二者都是"放下执着"的态度; 但 Gelassenheit 是对存在的敞开, upeksa 是对一切法的平等心。
+
+### 转向 vs 庄子
+
+- **Ereignis vs "道"** -- 二者都是不可言说的"原初发生"; 但 Ereignis 是存在论的, 道是超越存在论与非存在论的。
+- **语言是存在之家 vs "得意忘言"** -- 海德格尔赋予语言至高地位; 庄子认为语言是"筌" (工具), 得到"意"后应当忘掉语言。二者的张力指向语言与真理的根本关系。
+- **Gelassenheit vs "逍遥"** -- 二者都是"放下控制"的自在状态; 但 Gelassenheit 仍然面对技术的危险, 逍遥则超越一切危险 (因为超越了有用/无用的分别)。
+- **存在遗忘 vs "道隐于小成"** -- 海德格尔: 存在被形而上学遮蔽; 庄子: 道被局部的成功所遮蔽。二者都描述了"真理被遮蔽"的历史。
+
+### 转向 vs 禅宗
+
+- **语言说 (Die Sprache spricht) vs "不立文字"** -- 海德格尔: 语言是存在的家, 诗人的言说是最高形式的语言; 禅宗: "不立文字, 教外别传", 真正的真理超越语言。
+- **Gestell vs "执着"** -- 框架将一切还原为资源; 禅宗的执着将一切还原为对象。二者都是需要被"看破"的遮蔽。
+
+## 当代应用
+
+- **技术哲学** -- Borgmann 的"设备范式" (Device Paradigm)、Stiegler 的"技术与时间"、Flusser 的"技术图像"皆建立在 Gestell 概念之上
+- **媒介理论** -- McLuhan "媒介即信息"与海德格尔"语言是存在之家"平行: 媒介不是工具, 而是塑造存在方式的框架
+- **生态哲学** -- Gelassenheit 被援引为生态伦理: 不是"管理自然", 而是"让自然存在"
+- **AI 伦理** -- 海德格尔的技术批判预示了"算法治理" (algorithmic governance) 的问题: 当人被还原为数据点 (Bestand), 人性何在?
+- **后殖民理论** -- Gestell 概念被用于分析殖民主义如何将人与土地还原为"资源"
+- **建筑与艺术** -- 晚期海德格尔对"栖居" (Wohnen) 与"场所" (Ort) 的思考直接影响了现象学建筑
+
+## 常见误读
+
+- **误读 1**: 把"转向"理解为思想的断裂 -- 海德格尔本人强调: 转向是"同一思想的翻转", 从《存在与时间》到晚期并非放弃, 而是深化
+- **误读 2**: 把 Ereignis 理解为神秘体验 -- Ereignis 是存在论的概念, 不是宗教或神秘主义的; 海德格尔明确区分"思"与"信仰"
+- **误读 3**: 把 Gelassenheit 理解为消极无为 -- 泰然任之不是"什么都不做", 而是"不以控制的方式做"; 它是一种更高层次的行动
+- **误读 4**: 把 Gestell 等同于具体的技术 -- 框架 (Gestell) 不是某种技术 (如核能或互联网), 而是技术的本质, 是存在者整体的显现方式
+- **误读 5**: 认为晚期海德格尔放弃了政治 -- 他对技术的批判包含了对现代政治 (无论左翼右翼) 的根本质疑: 二者都是 Gestell 的变体
+
+## 关键文本
+
+- 《关于人道主义的书信》 (Brief uber den Humanismus, 1947) -- 转向后的自我定位
+- 《技术的追问》 (Die Frage nach der Technik, 1954) -- Gestell 概念的经典阐述
+- 《同一与差异》 (Identitat und Differenz, 1957) -- Ereignis 与存在论差异
+- 《在通向语言的途中》 (Unterwegs zur Sprache, 1959) -- 语言之思
+- 《泰然任之》 (Gelassenheit, 1959) -- 面对技术的态度
+- 《面向思的事情》 (Zur Sache des Denkens, 1969) -- 晚期的自我阐释
+
+## 进阶阅读
+
+- Pöggeler, *Der Denkweg Martin Heideggers* (1963) -- 最早系统阐述"转向"的著作
+- Safranski, *Ein Meister aus Deutschland* (1994) -- 含转向时期的历史语境
+- Zimmerman, *Heidegger's Confrontation with Modernity, Technology, Politics, and Art* (1990)
+- Thomson, *Heidegger on Ontotheology: Technology and the Politics of Education* (2005)
+- 孙周兴《海德格尔晚期哲学研究》

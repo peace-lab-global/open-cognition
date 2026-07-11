@@ -1,0 +1,222 @@
+---
+id: nietzsche-reading-list
+title: 尼采进阶阅读 · Nietzsche Reading List
+type: reading-list
+domain: philosophy
+school: existentialism
+thinker: nietzsche
+tags: [nietzsche, bibliography, reading-guide]
+cross-refs:
+  - id: nietzsche
+    relation: thinker
+---
+
+# 尼采进阶阅读 · Nietzsche Reading List
+
+## 一、阅读路径
+
+### 入门(选读 3 篇,约 4 小时)
+
+1. **《道德的谱系》** 第一篇论文 -- 主人道德 vs 奴隶道德,系谱学方法的最佳展示
+2. **《偶像的黄昏》** 全文(约 80 页) -- 晚期最精炼的总结
+3. **《查拉图斯特拉如是说》** 序言 + "论三种变形" -- 诗体哲学的体验
+
+### 进阶(7 本,约 40 小时)
+
+4. 《善恶的彼岸》-- 未来哲学的序曲
+5. 《快乐的科学》-- 中期精华,上帝已死与永恒轮回首次出现
+6. 《查拉图斯特拉如是说》全书-- 尼采的核心著作
+7. 《悲剧的诞生》-- 理解美学起点
+8. 《反基督》-- 最激烈的论战
+9. 《瞧这个人》-- 尼采的自我诠释
+10. 《不合时宜的沉思》-- 早期文化批评
+
+### 深潜(全集 + 遗稿 + 研究)
+
+11. Colli-Montinari 版批评性全集(德文/中文孙周兴版)
+12. 遗稿选读(Nachlass 1885--1888)
+13. 书信选(特别是与瓦格纳、罗德、布克哈特的通信)
+14. Kaufmann / Safranski 传记
+
+## 二、原典(必读)
+
+### 早期
+
+- 《悲剧的诞生》(Die Geburt der Tragodie, 1872)
+- 《不合时宜的沉思》(Unzeitgemasse Betrachtungen, 1873--1876)
+- 《希腊悲剧时代的哲学》(Die Philosophie im tragischen Zeitalter der Griechen, 1873, 遗稿)
+
+### 中期
+
+- 《人性的,太人性的》(Menschliches, Allzumenschliches, 1878--1880)
+- 《朝霞》(Morgenrothe, 1881)
+- 《快乐的科学》(Die frohliche Wissenschaft, 1882; 1887 扩充版)
+
+### 晚期
+
+- 《查拉图斯特拉如是说》(Also sprach Zarathustra, 1883--1885)
+- 《善恶的彼岸》(Jenseits von Gut und Bose, 1886)
+- 《道德的谱系》(Zur Genealogie der Moral, 1887)
+- 《偶像的黄昏》(Gotzen-Dammerung, 1888)
+- 《反基督》(Der Antichrist, 1888)
+- 《瞧这个人》(Ecce Homo, 1888; 1908 年出版)
+- 《瓦格纳事件》(Der Fall Wagner, 1888)
+- 《尼采 contra 瓦格纳》(Nietzsche contra Wagner, 1888)
+
+### 中译本推荐
+
+| 版本 | 译者 | 出版社 | 特点 |
+|---|---|---|---|
+| 《尼采著作全集》 | 孙周兴 主编 | 商务印书馆 | 基于 Colli-Montinari 版,最权威 |
+| 《查拉图斯特拉如是说》 | 钱春绮 | 三联书店 | 经典文学性译本 |
+| 《查拉图斯特拉如是说》 | 孙周兴 | 商务印书馆 | 学术性强,注释详尽 |
+| 《善恶的彼岸》 | 魏育青 | 华东师大出版社 | 流畅可读 |
+| 《道德的谱系》 | 梁锡江 | 华东师大出版社 | 注释详尽 |
+| 《悲剧的诞生》 | 周国平 | 三联书店 | 早期经典译本 |
+
+## 三、二手研究
+
+### 经典传记
+
+- **Curt Paul Janz**, *Nietzsche* (2 vols, 1978) -- 德语权威传记
+- **Walter Kaufmann**, *Nietzsche: Philosopher, Psychologist, Antichrist* (1950; 4th ed. 1974) -- 战后澄清纳粹误读的奠基之作
+- **Rudiger Safranski**, *Nietzsche: A Philosophical Biography* (Nietzsche. Biographie seines Denkens, 2002) -- 以思想为主线的传记
+- **Julian Young**, *Friedrich Nietzsche: A Philosophical Biography* (2010) -- 最新英文传记
+- **Sue Prideaux**, *I Am Dynamite! A Life of Nietzsche* (2018) -- 可读性最强的英文传记
+
+### 思想研究
+
+- **Alexander Nehamas**, *Nietzsche: Life as Literature* (1985) -- 将尼采思想解读为"将人生当作文学作品"
+- **Brian Leiter**, *Nietzsche on Morality* (2002) -- 自然主义解读
+- **Bernard Reginster**, *The Affirmation of Life* (2006) -- 虚无主义与生命肯定
+- **Maudemarie Clark**, *Nietzsche on Truth and Philosophy* (1990) -- 真理与视角主义
+- **John Richardson**, *Nietzsche's New Darwinism* (2004) -- 尼采与生物学
+- **Arthur Danto**, *Nietzsche as Philosopher* (1965) -- 分析哲学视角
+
+### 海德格尔的尼采解读
+
+- **Martin Heidegger**, *Nietzsche* (2 vols, 1961) -- 视尼采为西方形而上学终结者;争议极大但影响深远
+- Heidegger, "The Word of Nietzsche: 'God Is Dead'" (1943) -- 对"上帝已死"的存在论解读
+
+### 德勒兹的尼采解读
+
+- **Gilles Deleuze**, *Nietzsche and Philosophy* (1962) -- 肯定性、差异性的解读;反黑格尔
+- Deleuze, *Nietzsche* (1965) -- 短篇导论
+
+## 四、中文资源
+
+### 传记与导读
+
+- **周国平**《尼采: 在世纪的转折点上》(1986) -- 80 年代中国尼采热的标志性著作
+- **周国平**《尼采与形而上学》-- 更学术化的研究
+- **刘小枫**《拯救与逍遥》-- 含尼采专章,放在中西对话的框架中
+- **陈鼓应**《悲剧哲学家尼采》-- 早期中文尼采研究
+
+### 学术研究
+
+- **孙周兴** -- 商务印书馆《尼采著作全集》主编,中国尼采研究的核心人物
+- **汪民安** 等编《尼采在中国》-- 尼采在中国的接受史
+- **彭刚** -- 尼采与历史哲学
+
+## 五、尼采的阅读(他的源头)
+
+尼采自述的哲学谱系和阅读史:
+
+- **叔本华** -- 《作为意志和表象的世界》是尼采哲学的起点;后翻转其悲观主义为肯定主义
+- **瓦格纳** -- 音乐戏剧的美学理想;后因文化政治分歧决裂
+- **古希腊** -- 前苏格拉底哲学家(赫拉克利特、恩培多克勒);荷马史诗;希腊悲剧(埃斯库罗斯、索福克勒斯)
+- **爱默生** -- 尼采承认爱默生(Ralph Waldo Emerson)对其独立精神的影响
+- **蒙田** -- 随笔传统
+- **斯宾诺莎** -- 部分继承(对目的论的批判)、部分对立(斯宾诺莎的理性主义)
+- **法国道德家** -- 拉罗什富科(La Rochefoucauld)、尚福尔(Chamfort)的格言传统
+- **司汤达** -- 心理分析的文学先驱
+- **陀思妥耶夫斯基** -- 尼采称陀氏为"唯一教我心理学的作家"
+
+## 六、尼采的下游(受他影响)
+
+### 哲学
+
+- **海德格尔** -- 视尼采为西方形而上学的终结者,但自身走向不同的"开端"
+- **萨特** -- "存在先于本质"继承尼采的无神前提
+- **福柯** -- 系谱学方法直接来自尼采;《词与物》开篇引用博尔赫斯,但方法是尼采的
+- **德勒兹** -- 差异哲学、肯定思想、反辩证法
+- **德里达** -- 解构主义以尼采的视角主义为基础
+- **巴塔耶** -- 耗费(depense)、越界(transgression)与尼采的酒神精神
+
+### 心理学
+
+- **弗洛伊德** -- 承认尼采的自我洞察力惊人;无意识驱力理论平行
+- **荣格** -- 阴影(shadow)、个体化(individuation);《查拉图斯特拉》研讨班
+- **阿德勒** -- 自卑-超越与权力意志结构相似
+- **罗洛-梅(Rollo May)** -- 存在主义心理学
+- **欧文-亚隆(Irvin Yalom)** -- 存在主义心理治疗大量引用尼采
+
+### 文学
+
+- **托马斯-曼** -- 《浮士德博士》中的尼采主题
+- **纪德** -- 自由精神
+- **卡夫卡** -- 格言体传统
+- **黑塞** -- 《荒原狼》中的自我分裂
+- **巴塔耶** -- 越界文学
+- **鲁迅** -- 早期受尼采"超人"思想影响
+
+### 神学
+
+- **蒂利希(Paul Tillich)** -- "上帝之上的上帝"
+- **朋霍费尔(Dietrich Bonhoeffer)** -- "成年的世界"(mundige Welt)
+- **激进正统派(Radical Orthodoxy)** -- 对尼采的批判性回应
+
+## 七、跨学科阅读
+
+### 美学
+
+- **本雅明** -- 机械复制时代的艺术(与尼采的艺术论平行)
+- **阿多诺** -- 对尼采的辩证回应
+- **巴塔耶** -- 耗费美学
+
+### 政治哲学
+
+- **施特劳斯(Leo Strauss)** -- 尼采与政治哲学的危机
+- **罗尔斯** -- 与尼采的价值创造论形成对照
+- **阿甘本** -- 例外状态与尼采的主权者
+
+### 后殖民
+
+- **法农(Fanon)** -- 怨恨与殖民暴力
+- **萨义德** -- 东方主义中的权力/知识(福柯-尼采谱系)
+
+### 女性主义
+
+- **朱迪斯-巴特勒(Judith Butler)** -- 系谱学方法在性别研究中的应用
+- **露-安德烈亚斯-莎乐美** -- 尼采的学生与友人,自身是重要的思想家
+
+## 八、研究工具
+
+### 学术版本
+
+- **Colli-Montinari Kritische Gesamtausgabe** (KGW / KGB) -- 德文批评性全集,学术标准版本
+- **Nietzsche Source** (www.nietzschesource.org) -- 在线数字化版本,包含 Colli-Montinari 版全文和手稿图像
+
+### 期刊与学会
+
+- *Nietzsche-Studien* (年刊) -- 国际尼采研究核心期刊
+- *The Journal of Nietzsche Studies* -- 英文尼采研究期刊
+- Friedrich Nietzsche Society (英国)
+- North American Nietzsche Society
+
+### 在线资源
+
+- **Stanford Encyclopedia of Philosophy** -- "Friedrich Nietzsche" 条目(定期更新)
+- **Nietzsche Source** -- 原文数字化全文
+- **The Nietzsche Circle** -- 国际尼采研究网络
+
+## 九、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 想读尼采的**核心哲学** | 《道德的谱系》 -> 《善恶的彼岸》 -> 《查拉图斯特拉如是说》 |
+| 想了解**尼采的生平** | Safranski 传记 -> Prideaux 传记 -> 《瞧这个人》 |
+| 想做**哲学研究** | Kaufmann -> Nehamas -> Leiter -> Colli-Montinari 遗稿 |
+| 想做**跨文化比较** | [存在主义 x 唯识](../../comparative/existentialism-vs-yogacara.md) -> 刘小枫 -> 周国平 |
+| 想了解**尼采的下游影响** | 福柯《尼采、系谱学、历史》 -> 德勒兹《尼采与哲学》 -> 海德格尔《尼采》 |
+| 想读**中文入门** | 周国平《尼采: 在世纪的转折点上》 -> 钱春绮译《查拉图斯特拉如是说》 |

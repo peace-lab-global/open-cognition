@@ -1,0 +1,17 @@
+---
+id: cognitive-systems.school.distributed.leontiev.reading-list
+title: 列昂捷夫阅读指南 A.N. Leontiev Reading List
+type: reading-list
+thinker: leontiev
+domain: cognitive-systems
+school: distributed
+---
+
+# 列昂捷夫阅读指南
+
+## 入门
+1. Leontiev, A.N. (1978). *Activity, Consciousness, and Personality*. Prentice-Hall.（英译本）
+
+## 二手研究
+- Kaptelinin, V. & Nardi, B. (2006). *Acting with Technology*. MIT Press.
+- Engeström, Y. (1987). *Learning by Expanding*. — 列昂捷夫理论的发展

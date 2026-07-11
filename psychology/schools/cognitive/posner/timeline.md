@@ -1,0 +1,64 @@
+---
+id: psychology.cognitive.posner.timeline
+title: "波斯纳生平年表 · Posner Life Timeline"
+type: reference
+thinker: posner
+school: cognitive
+---
+
+# 波斯纳生平年表 / Posner Life Timeline
+
+Michael I. Posner (1936–) 的生平关键事件，按年代排列。
+
+Key life events of Michael I. Posner (1936–), arranged chronologically.
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1936 | 9月12日出生于美国密歇根州底特律市 / Born September 12 in Detroit, Michigan, USA |
+| 1954 | 高中毕业，进入韦恩州立大学 / Graduated high school, entered Wayne State University |
+| 1957 | 获得韦恩州立大学心理学学士学位 / Received B.A. in Psychology from Wayne State University |
+| 1959 | 获得密歇根大学心理学硕士学位 / Received M.A. in Psychology from the University of Michigan |
+| 1962 | 在密歇根大学获得心理学博士学位，导师为 Paul Fitts，博士论文聚焦信息处理中的决策时间 / Received Ph.D. in Psychology from the University of Michigan, advisor Paul Fitts, dissertation on decision time in information processing |
+
+## 学术生涯早期 / Early Academic Career
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1962-1964 | 在密歇根大学担任博士后研究员 / Postdoctoral researcher at the University of Michigan |
+| 1964 | 加入俄勒冈大学心理学系，开始独立研究 / Joined the University of Oregon Psychology Department, beginning independent research |
+| 1966 | 发表信号处理中的促进与抑制研究，开始引起学界关注 / Published research on facilitation and inhibition in signal processing, beginning to attract scholarly attention |
+| 1968 | 获得美国空军科学研究办公室的资助，建立认知心理学实验室 / Received funding from the Air Force Office of Scientific Research, establishing a cognitive psychology laboratory |
+| 1974 | 在《心理生物学手册》中首次系统论述注意力的心理生物学基础 / First systematic treatment of the psychobiology of attention in the *Handbook of Psychobiology* |
+| 1978 | 出版 *Chronometric Explorations of Mind*，系统阐述心理计时学方法论 / Published *Chronometric Explorations of Mind*, systematically articulating chronometric methodology |
+
+## 学术成熟期 / Academic Maturity
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1980 | 获得美国心理学会杰出科学贡献奖；发表经典论文"Orienting of Attention" / Received APA Distinguished Scientific Contribution Award; published classic paper "Orienting of Attention" |
+| 1984 | 与 Cohen 发表论文，首次报告回返抑制（IOR）现象 / Published paper with Cohen, first reporting the inhibition of return (IOR) phenomenon |
+| 1988 | 与 Petersen 等合作，首次用 PET 成像在人脑中定位认知操作 / Collaborated with Petersen et al., first using PET imaging to localize cognitive operations in the human brain |
+| 1989 | 兼任威尔康奈尔医学院萨克勒研究所主任 / Appointed Director of the Sackler Institute at Weill Cornell Medical College |
+| 1990 | 与 Petersen 在《年度神经科学评论》发表里程碑论文"The Attention System of the Human Brain"，正式提出三网络模型 / Published landmark paper "The Attention System of the Human Brain" with Petersen in *Annual Review of Neuroscience*, formally proposing the three-network model |
+| 1993 | 结束萨克勒研究所主任职务，回到俄勒冈大学全职任教 / Concluded Sackler Institute directorship, returned to full-time teaching at the University of Oregon |
+| 1994 | 与 Raichle 合著 *Images of Mind*，向公众介绍认知神经科学 / Co-authored *Images of Mind* with Raichle, introducing cognitive neuroscience to the public |
+
+## 当代与荣誉 / Contemporary Period and Honors
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1999 | 当选美国国家科学院院士 / Elected to the National Academy of Sciences |
+| 2000 | 与 Rothbart 合作发表注意力网络发展研究 / Published attention network developmental research with Rothbart |
+| 2001 | 获得美国心理学会威廉·詹姆斯奖 / Received APA William James Award |
+| 2002 | 与 Jin Fan 等合作开发注意力网络测试（ANT） / Developed the Attention Network Test (ANT) with Jin Fan et al. |
+| 2004 | 与 Rueda 等发表儿童注意力网络发展的详细研究 / Published detailed study of children's attention network development with Rueda et al. |
+| 2007 | 与 Rothbart 合著 *Educating the Human Brain*；参与发表短期冥想训练改善注意力的 PNAS 论文 / Co-authored *Educating the Human Brain* with Rothbart; participated in PNAS paper on short-term meditation training improving attention |
+| 2008 | 获得美国心理学会基础科学终身成就奖 / Received APA Award for Lifetime Achievement in Basic Science |
+| 2009 | 获得美国国家科学奖章（由奥巴马总统颁发） / Received the National Medal of Science (awarded by President Obama) |
+| 2012 | 出版 *Attention in a Social World*；与 Petersen 发表三网络理论20周年回顾论文 / Published *Attention in a Social World*; published 20-year retrospective paper with Petersen |
+| 2012 | 获得格鲁伯神经科学奖 / Received the Gruber Neuroscience Prize |
+| 2015 | 与 Tang 和 Holzel 在 *Nature Reviews Neuroscience* 发表正念冥想的神经科学综述 / Published neuroscience of mindfulness meditation review with Tang and Holzel in *Nature Reviews Neuroscience* |
+| 2019 | 在 *Annual Review of Psychology* 发表半世纪研究回顾 / Published half-century research retrospective in *Annual Review of Psychology* |
+| 2020s | 继续在俄勒冈大学从事研究工作，关注注意力训练和冥想对大脑的影响 / Continued research at the University of Oregon, focusing on attention training and meditation effects on the brain |

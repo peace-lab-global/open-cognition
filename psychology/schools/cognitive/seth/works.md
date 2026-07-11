@@ -1,0 +1,102 @@
+---
+id: seth-works
+title: "赛斯作品总览 · Seth Works"
+type: works-catalogue
+domain: psychology
+school: cognitive
+thinker: seth
+tags: [seth, works, bibliography, being-you, consciousness-science]
+cross-refs:
+  - id: seth
+    relation: thinker
+---
+
+# 赛斯作品总览 · Seth Works
+
+## 总览 · Overview
+
+Anil Seth 的学术产出以**同行评审论文**为主，同时包含一部极具影响力的科普专著 *Being You* (2021) 和多篇面向公众的评论文章。以下按年代梳理其核心著作。
+
+*Anil Seth's academic output consists primarily of peer-reviewed papers, alongside one highly influential popular science monograph, *Being You* (2021), and several public-facing essays. The following catalogues his core works chronologically.*
+
+---
+
+## 一、专著 · Monograph
+
+| 书名 | 年份 | 出版 | 说明 |
+|---|---|---|---|
+| *Being You: A New Science of Consciousness* | 2021 | Faber & Faber (UK); Dutton (US) | 意识科学的系统阐述；2022 年 Royal Society Insight Investment Science Book Prize 获奖作品 |
+| 《做你自己》(中译本) | 2023 | 中信出版社 | *Being You* 中文版 |
+
+---
+
+## 二、核心论文 · Key Papers
+
+### 早期：意识测量 (1998--2006) · Early: Measures of Consciousness
+
+| 论文 | 年份 | 期刊 | 核心贡献 |
+|---|---|---|---|
+| "Measuring autonomy and emergence via Granger causality" (with Sporns, Tononi) | 2002 | *Complexity* | 意识涌现的计算度量 |
+| "An information-theoretic measure of neural complexity" (with Tononi, Edelman) | 2002 | *Neural Computation* | 神经复杂度的信息论度量 |
+| "Causal density and integrated information as measures of conscious level" | 2005 | *Philosophical Transactions of the Royal Society B* | 意识水平的因果密度度量 |
+| "The major emergence of consciousness: A complexity-based approach" | 2004 | *Brain Research Reviews* | 意识涌现的复杂性方法 |
+
+### 中期：预测加工与内感受 (2010--2018) · Middle: Predictive Processing and Interoception
+
+| 论文 | 年份 | 期刊 | 核心贡献 |
+|---|---|---|---|
+| "Interoceptive inference, emotion, and the embodied self" | 2013 | *Trends in Cognitive Sciences* | 内感受预测加工理论的核心论文 |
+| "Active inference, sensory attenuation, and illusions" (with Friston, Adams) | 2013 | *Biological Cybernetics* | 主动推断与感知错觉 |
+| "A predictive processing theory of sensorimotor consciousness" | 2014 | *Psychology of Consciousness* | 感觉运动意识的预测加工理论 |
+| "Cybernetic brains and the predictive mind" | 2015 | *Cognitive Processing* | 控制论大脑与预测心灵 |
+| "The cybernetic Bayesian brain" | 2015 | *Open MIND* | 控制论贝叶斯大脑 |
+| "The Real Problem" | 2016 | *Aeon* | 重新定义意识研究的"真问题" |
+| "Interoceptive Inference: From Computational Neuroscience to Clinic" (with Garfinkel, Critchley) | 2017 | *Neuroscience & Biobehavioral Reviews* | 内感受预测加工的临床应用 |
+| "Being a Beast Machine: The Somatic Basis of Sensorimotor Consciousness" (with Tsakiris) | 2018 | *Trends in Cognitive Sciences* | 兽性机器理论 |
+
+### 近期：系统整合与公共传播 (2019--) · Recent: Integration and Public Engagement
+
+| 论文/著作 | 年份 | 期刊/出版 | 核心贡献 |
+|---|---|---|---|
+| "Consciousness: The Last 50 Years (and the Next)" | 2020 | *The Neuroscientist* | 意识科学的历史回顾与未来方向 |
+| *Being You: A New Science of Consciousness* | 2021 | Faber & Faber | 意识科学的系统阐述 |
+| "Being a Beast Machine: A Somatosensory Theory of Consciousness" | 2021 | *Nature Reviews Neuroscience* (Perspective) | 意识的躯体感觉理论 |
+| "The Consciousness Report" (with Butlin et al.) | 2023 | arXiv | AI 意识的评估框架 |
+
+---
+
+## 三、科普与评论 · Popular Science and Commentary
+
+| 标题 | 年份 | 平台 | 说明 |
+|---|---|---|---|
+| "The Real Problem" | 2016 | *Aeon* | 对意识"难问题"的重构，被广泛引用 |
+| "Your brain hallucinates your conscious reality" | 2017 | TED Talk | TED 演讲，超过 700 万次观看 |
+| "The science of consciousness: How far have we come?" | 2020 | *The Guardian* | 意识科学的公众传播 |
+| "Being You" (book) | 2021 | Faber & Faber | 国际畅销科普著作 |
+| BBC Radio 4 "The Life Scientific" 访谈 | 2021 | BBC | 面向公众的意识科学讨论 |
+
+---
+
+## 四、中译本 · Chinese Translations
+
+| 版本 | 译者 | 出版 | 说明 |
+|---|---|---|---|
+| 《做你自己：意识的新科学》 | — | 中信出版社，2023 | *Being You* 中译本 |
+
+---
+
+## 五、核心概念索引 · Key Concept Index
+
+| 概念 | 主要著作 | 说明 |
+|---|---|---|
+| 受控幻觉 (Controlled Hallucination) | *Being You* (2021), "A predictive processing theory" (2014) | 感知是大脑的预测性建构 |
+| 内感受预测加工 (Interoceptive Inference) | "Interoceptive inference" (2013), (2017) | 身体内部状态的预测理论 |
+| 真问题 (The Real Problem) | "The Real Problem" (2016) | 重新定义意识研究的问题框架 |
+| 兽性机器 (Beast Machine) | "Being a Beast Machine" (2018), *Being You* (2021) | 意识的生物连续谱 |
+| 意识测量 (Measures of Consciousness) | 早期论文 (2001--2005) | 意识水平的计算度量 |
+
+---
+
+## 进阶阅读 · Further Reading
+
+见 [reading-list.md](reading-list.md)。

@@ -1,0 +1,67 @@
+---
+id: chopin-timeline
+title: "肖邦生平大事记 · Chopin Biographical Timeline"
+type: timeline
+thinker: chopin
+domain: arts
+school: music
+tags: [chopin, timeline, biography, romanticism]
+cross-refs: [chopin]
+---
+
+# 肖邦生平大事记 · Chopin Biographical Timeline
+
+## 华沙时期 / The Warsaw Period (1810--1830)
+
+| 年份 / Year | 事件 / Event | 历史语境 / Historical Context |
+|---|---|---|
+| **1810** | 3月1日生于波兰热拉佐瓦·沃拉（Żelazowa Wola）。父亲尼古拉·肖邦（Nicolas Chopin）为法裔波兰教师，母亲尤斯蒂娜·克日扎诺夫斯卡出身波兰没落贵族。 / Born March 1 in Żelazowa Wola, Poland. Father Nicolas was a French-born teacher; mother Justyna from impoverished Polish nobility. | 华沙大公国成立，拿破仑控制下的波兰半自治状态 / Duchy of Warsaw established, semi-autonomous under Napoleon |
+| **1817** | 七岁出版第一部作品《g小调波兰舞曲》。 / Published first work, Polonaise in G minor, at age seven. | 华沙重建为俄国控制下的波兰王国 / Warsaw reconstituted as Congress Poland under Russian control |
+| **1818** | 八岁首次公开登台演出。 / First public performance at age eight. | |
+| **1822** | 开始跟随约瑟夫·埃尔斯纳（Józef Elsner）学习作曲。 / Began composition studies with Józef Elsner. | |
+| **1826--29** | 入华沙音乐学院（Lyceum/Conservatory），系统学习和声、对位与作曲。 / Entered Warsaw Conservatory, systematic study of harmony, counterpoint, and composition. | |
+| **1829** | 赴维也纳首次海外演出，获得好评。创作《f小调第二钢琴协奏曲》。 / Traveled to Vienna for first foreign performances, well received. Composed Piano Concerto No. 2 in F minor. | |
+| **1830** | 11月，离华沙赴维也纳。不久后华沙爆发十一月起义反抗俄国统治。 / November: left Warsaw for Vienna. Shortly after, the November Uprising against Russian rule erupted in Warsaw. | 波兰十一月起义 / Polish November Uprising |
+
+## 流亡初期 / Early Exile (1831--1838)
+
+| 年份 / Year | 事件 / Event | 历史语境 / Historical Context |
+|---|---|---|
+| **1831** | 得知华沙起义失败、俄军攻陷华沙的消息，创作《革命练习曲》（op.10 No.12）。9月抵达巴黎。 / Learned of the fall of Warsaw and Russian victory; composed the "Revolutionary Étude" (op. 10 No. 12). Arrived in Paris in September. | 华沙陷落，波兰亡国 / Fall of Warsaw, Poland extinguished as a state |
+| **1832** | 2月26日在巴黎举行首场音乐会，获李斯特、舒曼等人高度赞赏。迅速融入巴黎沙龙文化。 / First Paris concert on February 26, highly praised by Liszt, Schumann, and others. Rapidly integrated into Paris salon culture. | |
+| **1833** | 结识柏辽兹、门德尔松等巴黎音乐界核心人物。出版练习曲op.10。 / Met Berlioz, Mendelssohn, and other core Parisian musicians. Published Études op. 10. | |
+| **1835** | 与父母在卡尔斯巴德最后一次会面。创作g小调第一叙事曲（op.23）。 / Last meeting with parents in Karlsbad. Composed Ballade No. 1 in G minor (op. 23). | |
+| **1836** | 初识女作家乔治·桑（George Sand），对她的外貌和行为举止感到震惊。创作f小调第二钢琴协奏曲的出版。 / First met writer George Sand, shocked by her appearance and manner. | |
+| **1837** | 与乔治·桑关系逐渐亲密。创作降b小调第二谐谑曲（op.31）和练习曲op.25。 / Growing intimacy with George Sand. Composed Scherzo No. 2 (op. 31) and Études op. 25. | |
+| **1838** | 与乔治·桑正式同居。冬季前往地中海马略卡岛（Majorca）越冬。 / Formally began cohabiting with George Sand. Winter trip to Majorca. | |
+
+## 诺昂黄金年代 / The Nohant Golden Age (1839--1846)
+
+| 年份 / Year | 事件 / Event | 历史语境 / Historical Context |
+|---|---|---|
+| **1839** | 在马略卡岛完成《二十四首前奏曲》（op.28）。返回法国后，开始在乔治·桑的诺昂（Nohant）乡间别墅度夏。创作降b小调第二奏鸣曲（op.35, 含《葬礼进行曲》）。 / Completed Twenty-Four Preludes (op. 28) in Majorca. Returned to France and began spending summers at George Sand's Nohant estate. Composed Piano Sonata No. 2 (op. 35, including Funeral March). | |
+| **1840** | 诺昂创作期：大量夜曲、马祖卡与练习曲在此期间诞生。 / Nohant creative period: numerous nocturnes, mazurkas, and études produced during these years. | |
+| **1841** | 在巴黎举行最后几场公开音乐会之一。创作升A大调第三叙事曲（op.47）。 / One of his last public concerts in Paris. Composed Ballade No. 3 in A-flat major (op. 47). | |
+| **1842** | 完成f小调第四叙事曲（op.52）和第四谐谑曲（op.54）。这是创作力最旺盛的年份之一。 / Completed Ballade No. 4 (op. 52) and Scherzo No. 4 (op. 54). One of the most productive years. | |
+| **1843--44** | 创作b小调第三钢琴奏鸣曲（op.58）和摇篮曲（op.57）。 / Composed Piano Sonata No. 3 in B minor (op. 58) and Berceuse (op. 57). | |
+| **1844** | 父亲尼古拉·肖邦去世，精神上受到重大打击。 / Father Nicolas died; Chopin suffered a severe emotional blow. | |
+| **1845--46** | 创作船歌（op.60）、幻想波兰舞曲（op.61）和最后几首夜曲（op.62）。与乔治·桑的关系因家庭矛盾逐渐恶化。 / Composed Barcarolle (op. 60), Polonaise-Fantaisie (op. 61), and final nocturnes (op. 62). Relationship with Sand deteriorated due to family conflicts. | |
+
+## 晚期与辞世 / Late Period and Death (1847--1849)
+
+| 年份 / Year | 事件 / Event | 历史语境 / Historical Context |
+|---|---|---|
+| **1847** | 与乔治·桑关系正式破裂。创作急剧减少。 / Formal rupture with George Sand. Creative output sharply declined. | |
+| **1848** | 2月，巴黎爆发革命。肖邦的贵族庇护者纷纷逃离。4月赴英国，在伦敦和爱丁堡举办音乐会并教授私人课程。健康状况急剧恶化。最后一次公开演奏：11月16日伦敦市政厅为波兰难民举办的慈善音乐会。 / February: revolution in Paris. Aristocratic patrons fled. April: traveled to Britain, giving concerts and private lessons in London and Edinburgh. Health deteriorated rapidly. Last public performance: November 16, London Guildhall, charity concert for Polish refugees. | 1848年欧洲革命 / European Revolutions of 1848 |
+| **1849** | 返回巴黎，病势垂危。仍创作《大提琴奏鸣曲》（op.65）和最后几首马祖卡（op.67, op.68）。10月17日在姐姐路易莎和友人的陪伴下辞世，年仅39岁。 / Returned to Paris, gravely ill. Still composed Cello Sonata (op. 65) and final mazurkas (op. 67, op. 68). Died October 17, surrounded by sister Ludwika and friends, aged 39. | |
+| **1850** | 遗体葬于巴黎拉雪兹神父公墓（Père Lachaise）。心脏被姐姐路易莎带回华沙，保存在圣十字教堂。 / Body interred at Père Lachaise Cemetery, Paris. Heart taken back to Warsaw by sister Ludwika, preserved in the Holy Cross Church. | |
+
+## 死后影响 / Posthumous Legacy
+
+- **1855** — 丰塔那编辑出版遗作op.66--op.74 / Fontana edited and published posthumous works op. 66--op. 74
+- **1927** — 第一届华沙肖邦国际钢琴比赛举行（冠军：列夫·奥博林 Lev Oborin）/ First International Chopin Piano Competition in Warsaw (winner: Lev Oborin)
+- **1955** — 第五届肖邦比赛，弗拉基米尔·阿什肯纳齐获亚军 / Fifth Chopin Competition; Vladimir Ashkenazy placed second
+- **2000** — 第十四届肖邦比赛，李云迪获冠军（最年轻获奖者）/ Fourteenth Chopin Competition; Yundi Li won (youngest winner)
+- **2010** — 肖邦诞辰200周年，全球纪念活动 / Chopin bicentenary, worldwide commemorative events
+- **2015** — 第十七届肖邦比赛，赵成珍获冠军 / Seventeenth Chopin Competition; Seong-Jin Cho won
+- **2021** — 第十八届肖邦比赛，藤田 Bruce（Bruce Liu）获冠军 / Eighteenth Chopin Competition; Bruce Liu won

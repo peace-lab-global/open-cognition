@@ -1,0 +1,56 @@
+---
+id: elias-reading-list
+title: 埃利亚斯进阶书单 · Elias Reading List
+type: reading-list
+domain: sociology
+thinker: elias
+school: figurational
+---
+
+# 埃利亚斯系统阅读指南 / Elias Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Norbert Elias: An Introduction* (1997) | Stephen Mennell | 经典导论 |
+| *Norbert Elias: A Biography* (1998) | Steven J. Loyal & Stephen Quilley | 传记与思想 |
+| *Norbert Elias and Modern Social Theory* (2001) | Dennis Smith | 社会学视角 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《文明的进程》（第一卷选读+第二卷核心章节） | 1939 | 文明化过程；羞耻门槛 |
+| 《什么是社会学》 | 1970 | 构型概念；方法论 |
+| 《局内人与局外人》 | 1965 | 群体权力关系 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《宫廷社会》 | 1969 | 宫廷构型分析 |
+| 《卷入与超脱》 | 1987 | 社会学认识论 |
+| 《临终者的孤独》 | 1982 | 死亡社会学 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Norbert Elias and Human Interdependence* (2012) | Thomas Salumets | 最新学术评传 |
+| *The Civilizing Process* 50周年论文集 | Various | 文明化过程的重评 |
+| *Figurational Sociology* | Kevin Dunning | 构型社会学的发展 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Quest for Excitement* (1986) | Norbert Elias & Eric Dunning | 运动社会学 |
+| *The History of Emotions* (2012) | Jan Plamper | 情感史学 |
+| *Discipline and Punish* (1975) | Michel Foucault | 身体与权力（比较阅读） |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Mennell导论 → 《什么是社会学》→ 《文明的进程》（选读）
+**阶段二**（4-8周）: 《文明的进程》（完整阅读）→ 《局内人与局外人》
+**阶段三**（8周+）: 《宫廷社会》→ 《卷入与超脱》→ Foucault比较 → 运动社会学

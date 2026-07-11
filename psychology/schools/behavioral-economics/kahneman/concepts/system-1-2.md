@@ -1,0 +1,136 @@
+---
+id: system-1-2
+title: "系统1与系统2 · System 1 and System 2"
+type: concept
+thinker: kahneman
+school: behavioral-economics
+tags:
+  - 双系统理论
+  - 认知心理学
+  - 快思考
+  - 慢思考
+---
+
+# 系统1与系统2 · System 1 and System 2
+
+## 定义 · Definition
+
+系统1与系统2是丹尼尔·卡尼曼用来描述人类思维两种模式的理论框架。**系统1**是快速、自动化、直觉性、情绪化的思维模式——它在无意识中运作，几乎不消耗认知资源。**系统2**是缓慢、刻意、分析性、费力的思维模式——它需要集中注意力，消耗大量认知资源，且容易疲劳。
+
+System 1 and System 2 is Daniel Kahneman's theoretical framework for describing two modes of human thinking. **System 1** is the fast, automatic, intuitive, emotional mode — it operates unconsciously and consumes virtually no cognitive resources. **System 2** is the slow, deliberate, analytical, effortful mode — it requires focused attention, consumes significant cognitive resources, and fatigues easily.
+
+这一术语最初由心理学家基思·斯坦诺维奇（Keith Stanovich）和理查德·韦斯特（Richard West）在2000年提出，卡尼曼在《思考，快与慢》（2011）中将其推广为公众概念，并赋予更丰富的经验内涵。
+
+The terminology was originally coined by psychologists Keith Stanovich and Richard West in 2000. Kahneman popularized it as a public concept in *Thinking, Fast and Slow* (2011), giving it richer empirical content.
+
+---
+
+## 核心机制 · Core Mechanisms
+
+### 系统1的特征 · Characteristics of System 1
+
+- **自动化运作**：无需刻意启动，始终在线。例如：看到"2+2"自动想到"4"；感知他人的情绪表情。
+- **模式识别**：基于过往经验快速匹配情境模式。例如：熟练的棋手一眼看出棋局走势。
+- **联想激活**：一个概念自动激活相关概念网络（启动效应/priming）。
+- **情绪驱动**：与情绪系统紧密耦合，对威胁性刺激反应极快（如蛇、愤怒的面孔）。
+- **连贯性偏好**：倾向于构建连贯的叙事，即使证据不充分（"所见即所有"/ WYSIATI — What You See Is All There Is）。
+
+- **Automatic operation**: No deliberate initiation needed; always online. Example: seeing "2+2" automatically evokes "4"; perceiving others' emotional expressions.
+- **Pattern recognition**: Rapidly matches situational patterns based on past experience. Example: an expert chess player immediately sees the direction of a game.
+- **Associative activation**: One concept automatically activates a network of related concepts (priming effects).
+- **Emotion-driven**: Tightly coupled with the emotional system; responds extremely rapidly to threatening stimuli (snakes, angry faces).
+- **Coherence preference**: Tends to construct coherent narratives even with insufficient evidence (WYSIATI — What You See Is All There Is).
+
+### 系统2的特征 · Characteristics of System 2
+
+- **刻意控制**：需要有意识地投入注意力。例如：计算"17×24"。
+- **规则遵循**：能执行逻辑推理、数学运算和假设检验。
+- **容量有限**：同时处理的信息量受工作记忆容量约束（约4个信息组块）。
+- **自我损耗**：持续的认知努力导致"自我损耗"（ego depletion），后续自控力下降。
+- **懒惰倾向**：当系统1提供看似合理的答案时，系统2倾向于接受而非检验。
+
+- **Deliberate control**: Requires conscious investment of attention. Example: computing "17×24."
+- **Rule following**: Can execute logical reasoning, mathematical computation, and hypothesis testing.
+- **Limited capacity**: The amount of information processed simultaneously is constrained by working memory capacity (approximately 4 chunks).
+- **Ego depletion**: Sustained cognitive effort leads to ego depletion, reducing subsequent self-control.
+- **Lazy tendency**: When System 1 provides a seemingly plausible answer, System 2 tends to accept it rather than verify it.
+
+### 两系统的交互 · Interaction Between the Two Systems
+
+在日常生活中，系统1持续运行，不断向系统2提供印象、直觉和感受。当系统1遇到"意外"——即当前情境不符合既有模式时——系统2被唤醒以处理异常。但系统2是"懒惰的监督者"：它往往不加批判地接受系统1的建议，只有在高动机、高能力条件下才进行深度审查。
+
+In everyday life, System 1 runs continuously, constantly feeding impressions, intuitions, and feelings to System 2. System 2 is activated when System 1 encounters a "surprise" — when the current situation doesn't match existing patterns. But System 2 is a "lazy overseer": it often uncritically accepts System 1's suggestions, conducting deep scrutiny only under conditions of high motivation and high ability.
+
+---
+
+## 发展脉络 · Historical Development
+
+双系统思想可以追溯到威廉·詹姆斯（William James）对"联想思维"与"努力思维"的区分，以及弗洛伊德（Freud）的初级过程/次级过程理论。现代版本的关键里程碑包括：
+
+The dual-system idea traces back to William James's distinction between "associative thinking" and "effortful thinking," and Freud's primary/secondary process theory. Key milestones in the modern version include:
+
+| 年份 | 里程碑 |
+|---|---|
+| 1970s | 卡尼曼与特沃斯基的启发式与偏差研究揭示系统1的系统性错误 |
+| 1980s | 理查德·尼斯贝特（Nisbett）和罗斯（Ross）的社会推理研究 |
+| 1990s | 安东尼奥·达马西奥（Damasio）的躯体标记假说 |
+| 2000 | 斯坦诺维奇与韦斯特正式命名"系统1/系统2" |
+| 2003 | 乔纳森·海特（Haidt）的"大象与骑象人"隐喻 |
+| 2011 | 卡尼曼《思考，快与慢》将框架推向公众 |
+
+---
+
+## 临床应用 · Applications
+
+### 认知偏差训练 · Cognitive Bias Training
+军事、航空和医疗领域开发"去偏差"训练，帮助专业人员识别系统1的常见错误模式（如确认偏误、过度自信），并在关键决策点激活系统2进行核查。
+
+Military, aviation, and medical fields develop "debiasing" training to help professionals recognize common System 1 error patterns (confirmation bias, overconfidence) and engage System 2 for verification at critical decision points.
+
+### 选择架构设计 · Choice Architecture Design
+理解双系统运作后，政策设计者可以设计"助推"（nudge）——在系统1层面引导人们做出更好选择，而非依赖系统2的理性分析。例如：将健康食品放在食堂最显眼的位置。
+
+Understanding dual-system operation allows policy designers to create "nudges" — guiding people toward better choices at the System 1 level rather than relying on System 2's rational analysis. Example: placing healthy food in the most visible positions in cafeterias.
+
+### 正念与元认知 · Mindfulness and Metacognition
+正念修行可被理解为一种"系统2对系统1的元认知训练"——通过长期冥想练习，增强对系统1自动反应的觉察能力，在刺激与反应之间创造选择空间。
+
+Mindfulness practice can be understood as "System 2 metacognitive training over System 1" — through sustained meditation practice, one enhances awareness of System 1's automatic reactions and creates a choice space between stimulus and response.
+
+---
+
+## 关联概念 · Related Concepts
+
+- [启发式与偏差](heuristics-biases.md) — 系统1产生启发式判断及其系统性偏差
+- [前景理论](prospect-theory.md) — 系统1驱动的损失厌恶与参考点依赖
+- [锚定效应](anchoring.md) — 系统1自动加工的典型表现
+- [可得性启发](availability.md) — 系统1基于记忆易提取性做出判断
+- 启动效应（Priming）— 系统1的联想激活机制
+- 自我损耗（Ego Depletion）— 系统2资源有限性的证据
+
+---
+
+## 东西方对话 · East-West Dialogue
+
+### 唯识学 · Yogacara
+唯识学的"八识"体系可被重新解读为一种精密的双系统模型：前五识（感官识）和第六识（意识）的快速自动加工类似系统1；第七识（末那识）的自我执著是一种深层自动化过程；而通过修行培养的观察能力则类似被高度训练的系统2。
+
+Yogacara's "eight consciousnesses" system can be reinterpreted as a sophisticated dual-system model: the rapid automatic processing of the first five consciousnesses (sensory) and the sixth consciousness (mental) resembles System 1; the seventh consciousness (manas) and its self-grasping is a deep automatic process; while the observational capacity cultivated through practice resembles a highly trained System 2.
+
+### 庄子 · Zhuangzi
+庄子区分了"小知"（fragmented, analytical knowledge — 类似系统2的概念化思维）和"大知"（comprehensive, intuitive knowing — 类似经过训练的系统1或超越二者的"第三模式"）。"庖丁解牛"寓言中，庖丁从初期的刻意分析（系统2）发展到后来的"以神遇而不以目视"——一种超越双系统对立的境界。
+
+Zhuangzi distinguishes "small knowledge" (fragmented, analytical — resembling System 2's conceptual thinking) from "great knowledge" (comprehensive, intuitive — resembling a trained System 1 or a "third mode" transcending both). In the "Cook Ding" parable, Ding progresses from initial deliberate analysis (System 2) to "meeting with the spirit rather than looking with the eyes" — a state that transcends the dual-system opposition.
+
+---
+
+## 进阶阅读 · Further Reading
+
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.（Part I: Two Systems）
+- Stanovich, K. E., & West, R. F. (2000). "Individual differences in reasoning: Implications for the rationality debate?" *Behavioral and Brain Sciences*, 23(5), 645–665.
+- Evans, J. St. B. T., & Stanovich, K. E. (2013). "Dual-process theories of higher cognition: Advancing the debate." *Perspectives on Psychological Science*, 8(3), 223–241.
+- Haidt, J. (2006). *The Happiness Hypothesis*. Basic Books.（"大象与骑象人"隐喻）
+
+---
+
+→ 返回 [卡尼曼主页](../kahneman/README.md) | 下一个概念：[启发式与偏差](heuristics-biases.md)

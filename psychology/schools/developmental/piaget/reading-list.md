@@ -1,0 +1,103 @@
+---
+id: piaget-reading-list
+title: "皮亚杰推荐阅读 · Jean Piaget Reading List"
+type: reading-list
+thinker: piaget-jean
+---
+
+# 皮亚杰推荐阅读 · Jean Piaget Reading List
+
+## 一、原典精读 / Primary Works (Essential Reading)
+
+### 必读 / Must-Read
+
+1. **Piaget, J.** *The Origins of Intelligence in Children*. New York: International Universities Press, 1952.（中译本：《儿童智慧的起源》，教育科学出版社）
+   - 系统阐述感知运动阶段的六个亚阶段，详述客体永久性的逐步获得过程。是理解皮亚杰认知发展理论的起点。
+   - Systematic exposition of the six sub-stages of the sensorimotor period, detailing gradual acquisition of object permanence. Starting point for understanding Piaget's cognitive development theory.
+
+2. **Piaget, J.** *The Construction of Reality in the Child*. New York: Basic Books, 1954.（中译本：《儿童实在的建构》）
+   - 详述客体永久性、空间、时间和因果性概念在儿童心智中的建构过程。展示了建构主义方法论的核心逻辑。
+   - Details the construction of object permanence, space, time, and causality concepts in the child's mind. Demonstrates the core logic of the constructivist methodology.
+
+3. **Piaget, J.** *Genetic Epistemology*. New York: Columbia University Press, 1970.（中译本：《发生认识论原理》，商务印书馆）
+   - 将认知发展研究上升到认识论高度的理论综合。论证了逻辑范畴和数学概念是在主体-客体互动中逐步建构的。
+   - Elevates cognitive development research to epistemological-level theoretical synthesis. Argues that logical categories and mathematical concepts are progressively constructed through subject-object interaction.
+
+4. **Piaget, J., & Inhelder, B.** *The Psychology of the Child*. New York: Basic Books, 1969.（中译本：《儿童心理学》，商务印书馆）
+   - 对毕生研究的总结性概述，以精炼的方式呈现认知发展阶段理论的完整框架。适合作为专业入门读物。
+   - Summary overview of lifetime research, presenting the complete framework of cognitive stage theory concisely. Suitable as professional introduction.
+
+### 推荐阅读 / Recommended
+
+5. **Piaget, J.** *The Moral Judgment of the Child*. London: Kegan Paul, 1932.
+   - 区分他律道德与自律道德，开创道德发展研究。是科尔伯格道德发展理论的直接先驱。
+   - Distinguishes heteronomous from autonomous morality, pioneering moral development research. Direct precursor to Kohlberg's moral development theory.
+
+6. **Piaget, J.** *The Psychology of Intelligence*. London: Routledge, 1947.
+   - 对认知发展理论的综合性概述，适合快速了解皮亚杰思想的整体框架。
+   - Comprehensive overview of cognitive development theory, suitable for quickly grasping the overall framework of Piaget's thought.
+
+7. **Piaget, J.** *The Language and Thought of the Child*. London: Kegan Paul, 1923.
+   - 揭示儿童语言的自我中心特征，提出"集体独白"概念。是皮亚杰最早发表的儿童心理学研究之一。
+   - Reveals egocentric features of children's language, introduces "collective monologue." One of Piaget's earliest published child psychology studies.
+
+8. **Piaget, J.** *Studies in Reflecting Abstraction*. London: Routledge, 1977.
+   - 阐释从行动到思维的认知提升机制——"反思性抽象"概念。是理解皮亚杰晚期思想的关键文本。
+   - Elucidates the cognitive elevation mechanism from action to thought — the "reflective abstraction" concept. Key text for understanding Piaget's later thought.
+
+## 二、二手研究 / Secondary Research
+
+### 导论与概述 / Introductions and Overviews
+
+1. **Flavell, J.H.** *The Developmental Psychology of Jean Piaget*. Princeton, NJ: Van Nostrand, 1963.
+   - 对皮亚杰理论最早也最重要的英文学术导论，至今仍是经典参考。
+   - Earliest and most important English-language academic introduction to Piaget's theory, still a classic reference.
+
+2. **Wadsworth, B.J.** *Piaget's Theory of Cognitive and Affective Development*. 5th ed. Boston: Longman, 2004.
+   - 对皮亚杰理论最全面的教学性阐述，涵盖认知与情感两个维度。
+   - Most comprehensive pedagogical exposition of Piaget's theory, covering both cognitive and affective dimensions.
+
+3. **Ginsburg, H.P., & Opper, S.** *Piaget's Theory of Intellectual Development*. 3rd ed. Englewood Cliffs, NJ: Prentice-Hall, 1988.
+   - 对智力发展理论的精炼阐述，特别关注临床访谈方法。
+   - Concise exposition of the theory of intellectual development, with particular attention to the clinical interview method.
+
+### 批评与发展 / Critiques and Developments
+
+4. **Lourenço, O., & Machado, A.** "In defense of Piaget's theory: A reply to 10 common criticisms." *Psychological Review*, 103(1), 143-164, 1996.
+   - 对十种常见批评的系统性回应，为皮亚杰理论进行了有力的学术辩护。
+   - Systematic response to ten common criticisms, providing a strong academic defense of Piaget's theory.
+
+5. **Case, R.** *The Mind's Staircase: Exploring the Conceptual Underpinnings of Children's Thought and Knowledge*. Hillsdale, NJ: Lawrence Erlbaum, 1991.
+   - 新皮亚杰学派的代表性著作，通过整合信息加工理论发展了皮亚杰的阶段框架。
+   - Representative work of the Neo-Piagetian school, developing Piaget's stage framework by integrating information-processing theory.
+
+6. **Vygotsky, L.S.** *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press, 1978.
+   - 维果茨基对皮亚杰理论最重要的互补性批评，提出社会文化中介和最近发展区概念。
+   - Vygotsky's most important complementary critique of Piaget, proposing sociocultural mediation and the zone of proximal development.
+
+## 三、中文资源 / Chinese Resources
+
+1. **卢濬**（1984）.《皮亚杰教育论著选》. 人民教育出版社. — 皮亚杰教育相关著作的中文选编
+2. **左任侠**（1991）.《发生认识论》. 华东师范大学出版社. — 国内发生认识论研究重要著作
+3. **皮亚杰**《儿童心理学》. 商务印书馆. — 与英海尔德合著的中文译本
+4. **皮亚杰**《发生认识论原理》. 商务印书馆. — 发生认识论的中译本
+
+## 四、延伸阅读 / Extended Reading
+
+### 建构主义教育学 / Constructivist Education
+
+- **Bruner, J.** *The Process of Education*. Cambridge, MA: Harvard University Press, 1960. — 发现学习与螺旋课程
+- **Duckworth, E.** *The Having of Wonderful Ideas*. New York: Teachers College Press, 1987. — 皮亚杰思想在课堂中的应用
+- **Kamii, C., & DeVries, R.** *Physical Knowledge in Preschool Education*. Englewood Cliffs, NJ: Prentice-Hall, 1978. — 学前教育中的建构主义方法
+
+### 相关思想家 / Related Thinkers
+
+- **Vygotsky, L.S.** *Thought and Language*. Cambridge, MA: MIT Press, 1962. — 社会文化理论对认知发展的阐释
+- **Kohlberg, L.** *Essays on Moral Development, Vol. 1*. San Francisco: Harper & Row, 1981. — 直接继承皮亚杰的道德发展研究
+- **Bruner, J.** *Acts of Meaning*. Cambridge, MA: Harvard University Press, 1990. — 叙事认知与建构主义的对话
+
+### 当代发展 / Contemporary Developments
+
+- *Human Development* — 发展心理学领域核心期刊，常刊发皮亚杰理论研究
+- *Developmental Psychology* (APA) — 美国心理学会发展心理学刊物
+- *Cognitive Development* — 认知发展研究专刊

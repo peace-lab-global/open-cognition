@@ -1,0 +1,103 @@
+---
+id: leibniz-possible-worlds
+title: 可能世界 · Possible Worlds
+type: concept
+domain: philosophy
+school: rationalism
+thinker: leibniz
+tags:
+  - 可能世界
+  - 模态逻辑
+  - 形而上学
+  - 上帝
+  - possible-worlds
+  - modal-logic
+  - metaphysics
+  - God
+cross-refs:
+  - id: leibniz-best-of-all-worlds
+    relation: 推论
+  - id: leibniz-sufficient-reason
+    relation: 基础
+---
+
+# 可能世界 · Possible Worlds
+
+## 概念概述 / Concept Overview
+
+"可能世界"（Possible Worlds）是莱布尼茨最具持久影响力的哲学概念之一。莱布尼茨认为，在上帝的理智中存在着无限多个"可能世界"——每个可能世界都是一个逻辑上自洽的、完整的事物状态集合。上帝在创世之前审视了所有这些可能世界，然后选择了最好的一个来实现——这就是我们所生活的现实世界。
+
+"Possible Worlds" is one of Leibniz's most enduring philosophical concepts. Leibniz held that in God's intellect there exist infinitely many "possible worlds" — each a logically consistent, complete collection of states of affairs. Before creation, God surveyed all these possible worlds and chose the best one to actualize — the world we actually inhabit.
+
+## 概念结构 / Conceptual Structure
+
+### 可能性的定义 · Definition of Possibility
+
+对莱布尼茨来说，"可能"意味着"不自相矛盾"。一个可能世界就是一组互不矛盾的事物的完整集合。例如：
+
+For Leibniz, "possible" means "not self-contradictory." A possible world is a complete collection of mutually non-contradictory things. For example:
+
+- 一个"没有引力的世界"是可能的（它不自相矛盾），虽然它不是现实的
+- 一个"圆的方形存在的世界"是不可能的（它自相矛盾）
+- 一个"凯撒没有渡过卢比孔河的世界"是可能的——凯撒的"完整概念"包含了渡河这一谓词，但上帝可以选择一个不包含这个凯撒的可能世界
+
+- A "world without gravity" is possible (not self-contradictory), though not actual
+- A "world where round squares exist" is impossible (self-contradictory)
+- A "world where Caesar did not cross the Rubicon" is possible — Caesar's "complete concept" includes crossing, but God could choose a possible world without this Caesar
+
+### 可能世界与现实世界 · Possible Worlds and the Actual World
+
+所有可能世界在逻辑上都是平等的——它们都具有同等的可能性。但只有一个世界能被实现为现实世界，因为"不可能同时存在两个完全相同的事物"。上帝选择实现哪个世界，取决于他的智慧、善和权力：
+
+All possible worlds are logically equal — they all have equal possibility. But only one can be actualized, since "it is impossible for two identical things to exist simultaneously." Which world God chooses to actualize depends on His wisdom, goodness, and power:
+
+- **智慧**使上帝能够认识到所有可能世界
+- **善**使上帝倾向于选择最好的世界
+- **权力**使上帝能够实现这个世界
+
+- **Wisdom** enables God to recognize all possible worlds
+- **Goodness** inclines God to choose the best world
+- **Power** enables God to actualize it
+
+### 跨界同一性问题 · Transworld Identity
+
+莱布尼茨的可能世界理论面临一个棘手的问题："跨界同一性"（transworld identity）。如果凯撒在另一个可能世界中没有渡过卢比孔河，他还是"凯撒"吗？莱布尼茨的回答是：严格来说，每个可能世界中的个体都有其独特的"完整概念"。如果改变了凯撒的一个谓词（如"渡过了卢比孔河"），那就不是一个不同的凯撒，而是一个完全不同的个体概念。
+
+Leibniz's possible-worlds theory faces a thorny problem: transworld identity. If Caesar did not cross the Rubicon in another possible world, is he still "Caesar"? Leibniz answers: strictly speaking, each individual in each possible world has its own unique "complete concept." Changing one predicate of Caesar (such as "crossed the Rubicon") does not yield a different Caesar but an entirely different individual concept.
+
+## 当代发展：从莱布尼茨到克里普克 / Contemporary Development: From Leibniz to Kripke
+
+莱布尼茨的可能世界概念在20世纪经历了戏剧性的复兴。索尔·克里普克（Saul Kripke）在其模态逻辑的语义学中重新引入了"可能世界"作为形式工具——用"可及关系"（accessibility relation）定义必然性和可能性：
+
+Leibniz's possible-worlds concept underwent a dramatic 20th-century revival. Saul Kripke reintroduced "possible worlds" as formal tools in his modal logic semantics — defining necessity and possibility via "accessibility relations":
+
+- **必然真理**：在所有可能世界中都为真的命题
+- **可能真理**：在至少一个可能世界中为真的命题
+- **偶然真理**：在现实世界中为真但在某些可能世界中为假的命题
+
+- **Necessary truth**: True in all possible worlds
+- **Possible truth**: True in at least one possible world
+- **Contingent truth**: True in the actual world but false in some possible worlds
+
+大卫·刘易斯（David Lewis）的"模态实在论"（Modal Realism）则走得更远——他主张所有可能世界都是同样真实的，"现实"只是相对于我们所处世界的索引词。这与莱布尼茨形成鲜明对比：莱布尼茨认为只有被上帝选择实现的那个世界才是真实的。
+
+David Lewis's "Modal Realism" goes further — all possible worlds are equally real; "actual" is merely an indexical relative to our world. This sharply contrasts with Leibniz, who held that only the world God chose to actualize is real.
+
+## 东方回响 / Eastern Echoes
+
+莱布尼茨的可能世界概念与印度哲学中的"多重宇宙"观念存在有趣的平行。印度教的宇宙观认为，梵天（Brahma）在其漫长的生命中创造了无数的宇宙，每个宇宙都有其独特的结构和历史。佛教华严宗的"一尘含法界"也暗示了无限多的世界维度的共存。
+
+Leibniz's possible-worlds concept parallels Indian philosophy's "multiverse" ideas. Hindu cosmology holds that Brahma creates countless universes in his vast lifespan, each with unique structure and history. Huayan Buddhism's "one dust mote contains the dharma-realm" also suggests coexistence of infinitely many world-dimensions.
+
+## 参考文献 / References
+
+- Leibniz, G. W. *Theodicy*, §§8, 209, 241.
+- Leibniz, G. W. *Monadology*, §§53–55.
+- Kripke, S. (1980). *Naming and Necessity*. Harvard University Press.
+- Lewis, D. (1986). *On the Plurality of Worlds*. Blackwell.
+
+## 相关概念 / Related Concepts
+
+- [单子论](monad.md) — 每个单子从独特视角映射所有可能世界
+- [最好的可能世界](best-of-all-worlds.md) — 上帝对可能世界的选择
+- [充足理由律](sufficient-reason.md) — 为何选择这个世界而非其他

@@ -1,0 +1,27 @@
+---
+id: bentham-timeline
+title: 边沁思想年表
+type: timeline
+domain: ethics-politics
+school: consequentialism
+thinker: bentham
+tags: [bentham, timeline]
+cross-refs: [{id: bentham, relation: thinker}]
+---
+
+# 边沁思想年表
+
+## 早年
+- **1748** 生于伦敦律师家庭
+- **1760** 入牛津大学
+- **1763** 学法律但从未执业
+
+## 中期
+- **1776** 出版《政府片论》批判布莱克斯通
+- **1789** 出版《道德与立法原理导论》
+- **1791** 提出全景监狱设计
+
+## 晚期
+- **1802** 杜蒙整理出版法文版著作，影响欧陆
+- **1823** 创立伦敦大学学院（UCL）
+- **1832** 去世；遗体按遗嘱制成"自体圣像"保存在UCL

@@ -1,0 +1,115 @@
+---
+id: marcuse-one-dimensional-man
+title: "单向度的人 · One-Dimensional Man"
+type: concept
+thinker: marcuse
+domain: ethics-politics
+school: critical-theory
+tags:
+  - 单向度
+  - 发达工业社会
+  - 消费社会批判
+  - 否定性思维
+  - 技术理性
+---
+
+# 单向度的人 · One-Dimensional Man
+
+## 概念概述 / Concept Overview
+
+"单向度的人"（One-Dimensional Man）是马尔库塞最核心、最具影响力的概念，首次在其1964年同名著作中得到系统阐述。这个概念描述了发达工业社会中一种新型的主体形态：个体在技术理性和消费主义的双重作用下，丧失了否定性、批判性和超越性的思维维度，被完全整合进现存社会秩序之中。"单向度"不仅指个体心理状态的扁平化，更指整个社会的思想封闭——在这个社会中，"对立面被整合，替代方案被消除"，人们甚至无法想象一种根本不同的生活方式。
+
+"One-Dimensional Man" is Marcuse's most central and influential concept, systematically articulated in his 1964 book of the same title. The concept describes a new form of subjectivity in advanced industrial society: individuals who, under the dual influence of technological rationality and consumerism, have lost the dimension of negative, critical, and transcendent thinking, becoming fully integrated into the existing social order. "One-dimensionality" refers not only to the flattening of individual psychology but to the intellectual closure of an entire society — in which "oppositions are integrated, alternatives are eliminated," and people cannot even imagine a fundamentally different way of life.
+
+马尔库塞的关键洞见在于，这种整合不是通过暴力或强制实现的，而是通过物质满足和意识形态的微妙运作。发达工业社会"交付货物"（delivers the goods），使大多数人在物质上获得满足，从而消解了反抗的动力。这种"舒适的、顺畅的、合理的、民主的不自由"比任何公开的压迫都更加有效。
+
+Marcuse's key insight is that this integration is achieved not through violence or coercion, but through material satisfaction and subtle ideological operations. Advanced industrial society "delivers the goods," materially satisfying the majority and thereby dissolving the motivation for resistance. This "comfortable, smooth, reasonable, democratic unfreedom" is more effective than any overt oppression.
+
+## 理论内涵 / Theoretical Content
+
+### 单向度的社会 / One-Dimensional Society
+
+马尔库塞认为，发达工业社会在生产力和技术发展的推动下，成功地将一切社会矛盾转化为技术管理问题。政治领域的对立被"去政治化"——左派和右派的差异被缩小为管理风格的差异；经济领域的矛盾被"去经济化"——工人阶级通过消费参与分享了资本主义的繁荣；文化领域的超越性被"去超越化"——高雅文化被大众文化吸收，成为消费品的一部分。
+
+Marcuse argues that advanced industrial society, driven by productive forces and technological development, has successfully transformed all social contradictions into problems of technical management. Political oppositions are "depoliticized" — the differences between left and right are reduced to differences in management style; economic contradictions are "de-economicized" — the working class shares in capitalist prosperity through consumer participation; cultural transcendence is "de-transcendentalized" — high culture is absorbed into mass culture, becoming part of the commodity world.
+
+这种整合的机制包括：（1）"虚假需求"的制造与满足——广告、媒体和消费文化创造了一套虚假的需求体系，使人们将消费等同于自由；（2）语言的封闭——操作主义（operationalism）将概念等同于其操作定义，消除了超越性的语义空间；（3）思维的封闭——实证主义和语言分析哲学将哲学问题还原为技术问题，取消了批判性反思。
+
+The mechanisms of this integration include: (1) the creation and satisfaction of "false needs" — advertising, media, and consumer culture create a system of false needs, equating consumption with freedom; (2) linguistic closure — operationalism equates concepts with their operational definitions, eliminating transcendent semantic space; (3) intellectual closure — positivism and linguistic analysis reduce philosophical problems to technical problems, canceling critical reflection.
+
+### 单向度的思维 / One-Dimensional Thought
+
+马尔库塞特别关注哲学和科学领域的单向度化。他批判了实证主义的"事实崇拜"——将"是"（is）与"应当"（ought）的区分消除，将一切价值判断排斥为"非科学的"。他也批判了语言分析哲学——将哲学问题还原为语言使用问题，认为对日常语言的精确分析就能解决哲学困惑。在马尔库塞看来，这些哲学潮流共同构成了一种"思想的封闭"，消解了辩证法中"是"与"应当"之间的张力——而正是这种张力构成了批判的基础。
+
+Marcuse pays special attention to the one-dimensionalization of philosophy and science. He critiques positivism's "cult of facts" — eliminating the distinction between "is" and "ought," dismissing all value judgments as "unscientific." He also critiques linguistic analytic philosophy — reducing philosophical problems to problems of language use, claiming that precise analysis of ordinary language can resolve philosophical perplexities. In Marcuse's view, these philosophical trends together constitute a "closure of thought," dissolving the dialectical tension between "is" and "ought" — which is precisely the tension that constitutes the foundation of critique.
+
+### 单向度的主体 / One-Dimensional Subject
+
+单向度社会的最终效果是生产出单向度的主体：他们的欲望被广告塑造，他们的意见被民意测验测量，他们的选择被限定在体系允许的范围内。马尔库塞强调，这种主体不是被外力"压迫"的结果，而是内在"整合"的产物——主体自愿地认同现存秩序，因为现存秩序满足了他们的（虚假）需求。这是比外部压迫更深层次的不自由：主体甚至不知道自己不自由。
+
+The ultimate effect of one-dimensional society is the production of one-dimensional subjects: their desires shaped by advertising, their opinions measured by polls, their choices confined within system-permitted boundaries. Marcuse emphasizes that this subject is not the result of external "oppression" but the product of internal "integration" — subjects voluntarily identify with the existing order because it satisfies their (false) needs. This is a deeper unfreedom than external oppression: subjects don't even know they are unfree.
+
+## 思想史脉络 / Intellectual History
+
+"单向度的人"概念的哲学根源可以追溯到黑格尔的辩证法——特别是"否定性"（Negativität）的概念。在黑格尔看来，现实不是给定的，而是通过否定性的运动不断超越自身的过程。马尔库塞继承了这一传统，认为单向度社会的根本危险在于消除了否定性——即消除了对现存事物的批判性超越能力。
+
+The philosophical roots of "One-Dimensional Man" trace back to Hegel's dialectics — particularly the concept of "negativity" (*Negativität*). For Hegel, reality is not given but a process of constant self-transcendence through the movement of negation. Marcuse inherits this tradition, arguing that the fundamental danger of one-dimensional society lies in the elimination of negativity — the elimination of the capacity for critical transcendence of what exists.
+
+同时，这个概念也继承了马克思的异化理论和卢卡奇（Georg Lukács）的物化理论。卢卡奇在《历史与阶级意识》（1923）中分析了资本主义如何将社会关系转化为"物"的关系，马尔库塞则将这一分析推进到消费文化和心理层面。阿多诺和霍克海默在《启蒙辩证法》（1947）中对"文化工业"的批判也为马尔库塞的分析提供了直接基础。
+
+The concept also inherits Marx's theory of alienation and Georg Lukács's theory of reification. Lukács analyzed in *History and Class Consciousness* (1923) how capitalism transforms social relations into relations between "things"; Marcuse advances this analysis to the level of consumer culture and psychology. Adorno and Horkheimer's critique of the "culture industry" in *Dialectic of Enlightenment* (1947) also provided a direct foundation for Marcuse's analysis.
+
+## 关键文本 / Key Passages
+
+> "人们是否能够在各种产品和服务中认出自己，并在这种认同中感到幸福？……如果个体在商品中找到了自己的灵魂，那么异化就不再是异化了。"
+> "Can one distinguish between the mass of material needs and the genuine needs? … If the individual finds himself in his commodities, then alienation ceases to be alienation."
+
+这段引文揭示了马尔库塞的核心诊断：当人们在消费品中认同自己时，异化并没有消失，而是变得更加隐蔽——人们与商品认同，以为这就是自我实现。
+This passage reveals Marcuse's central diagnosis: when people identify themselves in consumer goods, alienation does not disappear but becomes more insidious — people identify with commodities, believing this to be self-realization.
+
+> "发达工业社会的极权主义不是恐怖的极权主义，而是'舒适的、顺畅的、合理的、民主的不自由'。"
+> "The totalitarianism of advanced industrial society is not a terrorism, but a 'comfortable, smooth, reasonable, democratic unfreedom.'"
+
+这段引文概括了马尔库塞对发达工业社会的根本判断：其控制形式不是公开的暴力，而是隐蔽的物质满足和意识形态操控。
+This passage encapsulates Marcuse's fundamental judgment of advanced industrial society: its form of control is not overt violence but covert material satisfaction and ideological manipulation.
+
+## 当代应用 / Contemporary Applications
+
+在数字时代，"单向度的人"概念获得了新的紧迫性。社交媒体算法通过个性化推荐创造"信息茧房"（filter bubbles），将个体限制在已有的偏好和观点之内，消除了接触异质信息的可能性。平台资本主义将用户的每一个点击、每一次浏览都转化为数据商品，使消费行为渗透到日常生活的每一个瞬间。智能手机不仅是工具，更是塑造欲望、注意力和社会关系的全方位装置。
+
+In the digital age, the concept of "One-Dimensional Man" has acquired new urgency. Social media algorithms create "filter bubbles" through personalized recommendations, confining individuals within existing preferences and viewpoints, eliminating the possibility of encountering heterogeneous information. Platform capitalism transforms every click and every browse into data commodities, permeating consumer behavior into every moment of daily life. Smartphones are not merely tools but comprehensive apparatuses shaping desires, attention, and social relations.
+
+当代的"取消文化"（cancel culture）和政治极化也可以从马尔库塞的视角理解：表面上的激烈对立实际上发生在同一个话语框架之内——争论双方都接受了同样的前提（如个人主义、市场逻辑、技术效率），真正的替代方案被排除在讨论之外。
+
+Contemporary "cancel culture" and political polarization can also be understood from Marcuse's perspective: seemingly intense opposition actually occurs within the same discursive framework — both sides of debates accept the same premises (such as individualism, market logic, technological efficiency), while genuine alternatives are excluded from discussion.
+
+## 批评与回应 / Critiques and Responses
+
+**批评1 / Critique 1**: 哈贝马斯（Jürgen Habermas）认为马尔库塞过于悲观，忽视了公共领域中仍然存在的理性辩论和民主潜力。
+Habermas argues that Marcuse is overly pessimistic, neglecting the rational deliberation and democratic potential that still exists in the public sphere.
+
+**回应 / Response**: 马尔库塞可能会回应说，哈贝马斯对"交往理性"的信念本身就是一种单向度的思维——它假设在现存制度框架内就能实现理性共识，忽视了权力关系对沟通的结构性扭曲。
+Marcuse might respond that Habermas's faith in "communicative rationality" is itself a form of one-dimensional thinking — it assumes that rational consensus can be achieved within existing institutional frameworks, ignoring the structural distortion of communication by power relations.
+
+**批评2 / Critique 2**: 后现代主义者认为马尔库塞仍然预设了一种"本真的"主体性，忽视了主体本身就是在话语实践中建构的。
+Postmodernists argue that Marcuse still presupposes an "authentic" subjectivity, ignoring that the subject itself is constructed in discursive practices.
+
+**回应 / Response**: 马尔库塞的"真实需求"概念可以被重新解读为不是先验给定的，而是在历史斗争中不断被发现和定义的——这种解读使其与后现代主义的洞见兼容。
+Marcuse's concept of "true needs" can be reinterpreted as not a priori given but constantly discovered and defined in historical struggles — an interpretation compatible with postmodernist insights.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国语境中，"单向度的人"概念与改革开放以来的消费主义浪潮形成强烈对话。从1990年代的市场化改革到当代的"内卷"（involution）和"躺平"（lying flat）现象，中国社会正在经历马尔库塞所描述的那种单向度化过程。"内卷"现象——个体在高度竞争的系统中不断投入却无法获得实质性改善——可以被理解为单向度社会的中国版本：系统通过竞争机制将所有参与者锁定在同一个评价框架内，使"退出"成为唯一的反抗方式。
+
+In the Chinese context, "One-Dimensional Man" resonates powerfully with the consumerist wave since reform and opening up. From the marketization reforms of the 1990s to contemporary phenomena of "involution" (*nei juan*) and "lying flat" (*tang ping*), Chinese society is undergoing the one-dimensionalization process Marcuse described. The "involution" phenomenon — individuals constantly investing in a highly competitive system without achieving substantive improvement — can be understood as the Chinese version of one-dimensional society: the system locks all participants into the same evaluative framework through competitive mechanisms, making "exit" the only form of resistance.
+
+日本的"蛰居族"（hikikomori）和韩国的"N抛世代"（N-po generation，放弃恋爱、结婚、生育等的年轻一代）也是单向度社会的东亚变体——当系统的整合力量过于强大，退出本身就成为一种消极的"大拒绝"。
+
+Japan's *hikikomori* (social recluses) and South Korea's "N-po generation" (young people giving up romance, marriage, childbearing, etc.) are also East Asian variants of one-dimensional society — when the system's integrative power is overwhelming, withdrawal itself becomes a passive "Great Refusal."
+
+## 延伸阅读 / Further Reading
+
+- Herbert Marcuse, *One-Dimensional Man* (1964), 全书，特别是导论和第1章 / Entire book, especially Introduction and Ch. 1
+- Douglas Kellner, "Marcuse's One-Dimensional Man and its Legacy," *Radical Philosophy Review* (2018)
+- 刘继，《单向度的人》译后记 / Translator's afterword to the Chinese edition
+- Christian Fuchs, *Digital Labour and Karl Marx* (2014) — 数字时代的单向度性分析 / Analysis of one-dimensionality in the digital age

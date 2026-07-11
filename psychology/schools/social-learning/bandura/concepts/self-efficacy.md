@@ -1,0 +1,136 @@
+---
+id: self-efficacy
+title: "自我效能感 · Self-Efficacy"
+type: concept
+parent: bandura-albert
+school: social-learning
+domain: psychology
+tags:
+  - self-efficacy
+  - 自我效能感
+  - agency
+  - motivation
+  - behavioral-change
+---
+
+# 自我效能感 · Self-Efficacy
+
+## 定义 / Definition
+
+**自我效能感**（Self-Efficacy）是指个体对自己在特定情境中能否成功执行某一行为以达成预期结果的信念。它不是对自己价值的总体评价（那是自尊），也不是泛泛的自信感，而是针对**具体任务和具体情境**的能力判断。
+
+**Self-efficacy** refers to an individual's belief in their capability to successfully execute a specific behavior in a given situation to achieve a desired outcome. It is not a global evaluation of self-worth (that is self-esteem), nor a general sense of confidence, but a **task-specific and situation-specific** judgment of capability.
+
+> "People's beliefs about their abilities have a profound effect on those abilities. Ability is not a fixed property; there is huge variability in how you perform."
+> — Albert Bandura, *Self-Efficacy: The Exercise of Control* (1997)
+
+自我效能感的核心区分在于：它关注的不是「我有什么技能」（技能本身），而是「我能在多大程度上运用这些技能」（对技能的运用信心）。两个人可能拥有完全相同的技能水平，但因为自我效能感不同，其表现可能截然不同。
+
+The core distinction of self-efficacy is: it concerns not "what skills I have" (skills themselves), but "to what extent I can deploy those skills" (confidence in skill deployment). Two people may possess identical skill levels, yet perform very differently because of different self-efficacy levels.
+
+## 核心机制 / Core Mechanisms
+
+### 四大信息源 / Four Sources of Efficacy Information
+
+**1. 亲历成功 / Mastery Experiences (Performance Accomplishments)**
+
+最强大、最可靠的效能信息来源。成功经验提升自我效能感，失败经验降低之——但影响取决于个体如何归因。如果成功被归因为能力和努力（而非运气），效能感提升更显著；如果失败被归因为努力不足（而非能力缺陷），效能感损害较小。
+
+The most powerful and reliable source of efficacy information. Successful experiences raise self-efficacy; failures lower it — but the impact depends on how the individual attributes outcomes. Success attributed to ability and effort (rather than luck) produces stronger efficacy gains; failure attributed to insufficient effort (rather than ability deficits) causes less efficacy damage.
+
+**2. 替代经验 / Vicarious Experiences**
+
+通过观察与自己相似的人成功完成某任务，个体推断「如果他能做到，我也能做到」。替代经验对效能感的影响程度取决于观察者与模型之间的感知相似性——越相似，影响越大。
+
+By observing people similar to oneself successfully completing a task, individuals infer "if they can do it, I can too." The impact of vicarious experience depends on perceived similarity between observer and model — the more similar, the greater the impact.
+
+**3. 言语说服 / Verbal Persuasion**
+
+来自他人的鼓励和积极反馈可以暂时提升自我效能感——但其效果通常不如亲历成功持久。如果说服与个体的实际能力严重脱节（如过度赞美），可能导致失败后的效能感急剧下降。
+
+Encouragement and positive feedback from others can temporarily boost self-efficacy — but the effect is typically less durable than mastery experiences. If persuasion is seriously disconnected from actual ability (e.g., excessive praise), it may lead to sharp efficacy drops after failure.
+
+**4. 生理与情绪状态 / Physiological and Affective States**
+
+个体在评估自身能力时会参考生理和情绪线索——焦虑、疲劳、疼痛等负面状态会降低效能判断，而兴奋、放松等积极状态会提升之。关键在于个体如何**解读**这些状态——同样的心跳加速可以被解读为「兴奋」或「恐惧」。
+
+Individuals reference physiological and emotional cues when assessing their capabilities — anxiety, fatigue, and pain lower efficacy judgments, while excitement and relaxation raise them. The key is how individuals **interpret** these states — the same elevated heart rate can be construed as "excitement" or "fear."
+
+### 效能感对行为的影响路径 / How Efficacy Influences Behavior
+
+自我效能感通过四条路径影响行为：
+
+Self-efficacy influences behavior through four pathways:
+
+| 路径 / Pathway | 高效能感 / High Efficacy | 低效能感 / Low Efficacy |
+|:---:|------|------|
+| **选择** / Choice | 选择挑战性任务 / Chooses challenging tasks | 回避困难任务 / Avoids difficult tasks |
+| **努力** / Effort | 投入更多精力 / Invests more effort | 投入不足 / Insufficient investment |
+| **坚持** / Persistence | 面对困难坚持更久 / Persists longer through difficulty | 轻易放弃 / Gives up easily |
+| **情绪** / Affect | 面对威胁保持冷静 / Remains calm facing threats | 焦虑、预期失败 / Anxious, anticipates failure |
+
+### 集体效能感 / Collective Efficacy
+
+班杜拉将自我效能感从个体层面扩展到群体层面——**集体效能感**（collective efficacy）是群体成员对群体共同能力的信念。它不是个体效能感的简单加总，而是一种涌现性的群体属性。集体效能感对社会运动、社区组织和团队绩效有重要预测作用。
+
+Bandura extended self-efficacy from the individual to the group level — **collective efficacy** is group members' belief in their collective capability. It is not a simple aggregation of individual efficacy but an emergent group property. Collective efficacy has important predictive power for social movements, community organizations, and team performance.
+
+## 发展脉络 / Development
+
+自我效能感概念最早出现在班杜拉1977年的论文"Self-Efficacy: Toward a Unifying Theory of Behavioral Change"中。该论文提出自我效能感是各种心理治疗（包括系统脱敏、参与式建模、认知疗法）产生行为改变的**共同中介机制**——即不同治疗方法之所以有效，是因为它们都通过不同路径提升了患者的自我效能感。
+
+The self-efficacy concept first appeared in Bandura's 1977 paper "Self-Efficacy: Toward a Unifying Theory of Behavioral Change." The paper proposed that self-efficacy is the **common mediating mechanism** through which various psychotherapies (including systematic desensitization, participant modeling, and cognitive therapy) produce behavioral change — different treatments work because they all enhance patients' self-efficacy through different pathways.
+
+1997年的专著《自我效能感：控制的行使》是该理论的集大成之作，系统阐述了自我效能感在教育、健康行为、职业发展、运动表现、政治参与等领域的应用。
+
+The 1997 monograph *Self-Efficacy: The Exercise of Control* was the theory's magnum opus, systematically articulating self-efficacy's applications in education, health behavior, career development, athletic performance, and political participation.
+
+21世纪以来，自我效能感研究出现了几个重要方向：领域特异性研究（如数学自我效能感、创业自我效能感）、发展轨迹研究（自我效能感如何随年龄变化）、跨文化比较研究（集体主义vs.个人主义文化中的效能感差异）。
+
+Since the 21st century, self-efficacy research has developed several important directions: domain-specific studies (e.g., mathematics self-efficacy, entrepreneurial self-efficacy), developmental trajectory research (how self-efficacy changes with age), and cross-cultural comparisons (efficacy differences between collectivist and individualist cultures).
+
+## 临床应用 / Clinical Applications
+
+### 恐惧症治疗 / Phobia Treatment
+
+班杜拉发现「引导式掌握经验」（guided mastery therapy）是治疗恐惧症的最有效方法——治疗师通过渐进式的成功体验帮助患者重建自我效能感。关键是确保早期体验的成功——治疗师会提供足够的支持，使患者在面对恐惧刺激时能够成功应对，然后逐渐撤除支持。
+
+Bandura found that "guided mastery therapy" is the most effective method for treating phobias — therapists help patients rebuild self-efficacy through progressive success experiences. The key is ensuring early success — therapists provide sufficient support so patients can successfully cope with feared stimuli, then gradually withdraw support.
+
+### 疼痛管理 / Pain Management
+
+自我效能感对慢性疼痛管理至关重要。高疼痛自我效能感的患者更能忍受疼痛、坚持日常活动并减少对止痛药的依赖。认知行为疼痛干预的核心目标就是提升患者的疼痛管理自我效能感。
+
+Self-efficacy is crucial for chronic pain management. Patients with high pain self-efficacy better tolerate pain, maintain daily activities, and reduce reliance on painkillers. The core goal of cognitive-behavioral pain interventions is to enhance patients' pain management self-efficacy.
+
+### 成瘾行为 / Addiction
+
+戒烟自我效能感（smoking cessation self-efficacy）是预测戒烟成功率的最强心理变量之一。复发预防（relapse prevention）干预的核心策略之一就是帮助成瘾者在高风险情境中建立拒绝物质使用的自我效能感。
+
+Smoking cessation self-efficacy is among the strongest psychological predictors of cessation success. A core strategy of relapse prevention interventions is helping addicts build self-efficacy for refusing substances in high-risk situations.
+
+## 关联概念 / Related Concepts
+
+- **[交互决定论 / Reciprocal Determinism](reciprocal-determinism.md)**：自我效能感是个体因素（P）的核心组成，通过交互决定论影响行为和环境。Self-efficacy is a core component of personal factors (P), influencing behavior and environment through reciprocal determinism.
+- **[观察学习 / Observational Learning](observational-learning.md)**：替代经验是自我效能感的第二大来源——观察他人的成功和失败直接影响观察者的效能判断。Vicarious experience is the second strongest source of self-efficacy — observing others' successes and failures directly affects observers' efficacy judgments.
+- **[社会学习 / Social Learning](social-learning.md)**：自我效能感是社会认知理论的核心构念，嵌入在更广泛的社会学习框架中。Self-efficacy is a core construct of social cognitive theory, embedded in the broader social learning framework.
+- **自尊 / Self-Esteem**：自尊是对自身价值的总体评价；自我效能感是对自身能力的具体判断——两者相关但概念不同。Self-esteem is a global evaluation of self-worth; self-efficacy is a specific judgment of capability — correlated but conceptually distinct.
+- **控制点 / Locus of Control**：内控者倾向于将结果归因于自身行为，外控者倾向于归因于外部力量。自我效能感与内控倾向正相关，但前者更具体、更具预测力。Internals attribute outcomes to their own behavior; externals to external forces. Self-efficacy correlates positively with internality but is more specific and predictive.
+
+## 东西方对话 / East-West Dialogue
+
+**与唯识学的「信」心所 / Yogacara's Mental Factor of Faith (śraddhā)**：唯识学将「信」列为善心所之首——它是对佛法僧三宝和自身修行能力的确信，是精进的前提。这与班杜拉将自我效能感视为行为改变的引擎高度对应。两者的差异在于：班杜拉的效能感指向世俗任务的完成，唯识学的「信」指向解脱的证悟。
+
+Yogacara lists "faith" (śraddhā) among the foremost wholesome mental factors — conviction in the Triple Gem and one's own capacity for practice, prerequisite for diligence. This closely parallels Bandura's positioning of self-efficacy as the engine of behavioral change. The difference: Bandura's efficacy targets secular task completion; Yogacara's faith targets liberation.
+
+**与孟子「性善」论 / Mencius on Innate Goodness**：孟子认为人天生具有仁义礼智的「善端」，关键在于是否「扩而充之」——这与自我效能感中「亲历成功」的培养逻辑相通：通过不断实践和扩展已有的成功经验来建立对自身能力的信心。
+
+Mencius held that humans innately possess the "sprouts" of benevolence, righteousness, propriety, and wisdom — the key is to "extend and cultivate" them. This resonates with the mastery experience logic in self-efficacy: building confidence in one's capability through continuous practice and expansion of prior successes.
+
+## 进阶阅读 / Further Reading
+
+- Bandura, A. (1977). "Self-Efficacy: Toward a Unifying Theory of Behavioral Change." *Psychological Review*, 84(2), 191–215.
+- Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. New York: W.H. Freeman.
+- Maddux, J.E. (Ed.) (1995). *Self-Efficacy, Adaptation, and Adjustment*. New York: Plenum.
+- Schunk, D.H. & Pajares, F. (2009). "Self-Efficacy Theory." In *Motivation in Education* (3rd ed.). Upper Saddle River, NJ: Pearson.
+- Pajares, F. (1997). "Current Directions in Self-Efficacy Research." In M. Maehr & P.R. Pintrich (Eds.), *Advances in Motivation and Achievement*, Vol. 10. Greenwich, CT: JAI Press.

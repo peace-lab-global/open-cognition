@@ -1,0 +1,173 @@
+---
+id: seth-interoception
+title: "内感受 · Interoception · Seth"
+type: concept
+domain: psychology
+school: cognitive
+thinker: seth
+tags: [interoception, interoceptive-inference, bodily-self, emotion, heartbeat, seth]
+cross-refs:
+  - id: seth
+    relation: thinker
+  - id: seth-being-you
+    relation: 框架
+  - id: seth-predictive-brain
+    relation: 机制
+  - id: seth-consciousness-real-illusion
+    relation: 平行
+  - id: seth-beast-machine
+    relation: 下游
+  - id: damasio
+    relation: 承接
+---
+
+# 内感受 · Interoception
+
+## 一句话定义
+
+内感受 (Interoception) 是大脑对身体内部状态（心跳、呼吸、消化、血压等）的感知——在 Seth 的框架中，内感受预测加工构成了自我意识的根基，"我"首先是一个身体性的存在。
+
+*Interoception is the brain's perception of internal bodily states (heartbeat, respiration, digestion, blood pressure). In Seth's framework, interoceptive predictive processing constitutes the ground of self-consciousness — "I" am first and foremost a bodily being.*
+
+## 定义
+
+内感受 (Interoception) 是与外感受 (exteroception, 对视觉、听觉等外部刺激的感知) 和本体感受 (proprioception, 对身体位置和运动的感知) 并列的第三种感知通道。它涉及对身体内部状态的感知，包括：
+
+- 心跳 (cardiac signals)
+- 呼吸 (respiratory signals)
+- 消化/肠蠕动 (gastric signals)
+- 血压 (blood pressure)
+- 体温 (body temperature)
+- 内脏感觉 (visceral sensations)
+
+Seth 的核心主张是：内感受不仅仅是身体状态的被动监测，而是大脑对身体内部状态的主动预测——内感受预测加工 (Interoceptive Predictive Processing) 构成了自我意识的最基本层面。
+
+*Interoception is the third perceptual channel alongside exteroception and proprioception. It encompasses perception of heartbeat, respiration, digestion, blood pressure, body temperature, and visceral sensations. Seth's core claim: interoception is not passive monitoring of body states but active prediction of internal states — Interoceptive Predictive Processing constitutes the most basic layer of self-consciousness.*
+
+## 核心机制
+
+### 内感受预测加工
+
+与外部感知遵循预测加工原则一样，内感受也遵循预测加工原则：
+
+1. **大脑生成内感受预测**: 基于先验模型，大脑预测当前和即将出现的身体内部状态
+2. **内感受信号到达**: 来自心脏、肺、胃肠道等内脏器官的信号通过迷走神经 (vagus nerve) 和脊神经到达大脑（特别是岛叶皮层, insular cortex）
+3. **内感受预测误差**: 大脑将预测与实际内感受信号进行比较
+4. **模型更新或行动**: 预测误差驱动模型更新，或驱动行动（如心率调节、呼吸调节）来改变身体状态以匹配预测
+
+*Like exteroception, interoception follows predictive processing: (1) Brain generates interoceptive predictions from prior models; (2) Interoceptive signals arrive via vagus nerve and spinal nerves to the brain (especially insular cortex); (3) Interoceptive prediction errors are computed; (4) Prediction errors drive model updating or action (e.g., heart rate regulation) to change body states to match predictions.*
+
+### 内感受与情绪
+
+Seth 追随 James-Lange 情绪理论和 Damasio 的躯体标记假说，主张情绪 (emotion) 本质上是对身体状态变化的感知——或者更准确地说，是对内感受预测误差的感知。
+
+- **恐惧** = 对心跳加速、肌肉紧张等身体变化的预测误差
+- **焦虑** = 对内感受预测误差的过度权重（即，对心跳加速的微小变化过度敏感）
+- **平静** = 内感受预测与实际信号高度匹配
+- **欣快** = 正向的内感受预测误差（身体状态比预测的更好）
+
+*Seth follows James-Lange emotion theory and Damasio's somatic marker hypothesis: emotion is fundamentally perception of body-state changes — more precisely, perception of interoceptive prediction errors. Fear = prediction errors from heartbeat acceleration and muscle tension; Anxiety = overweighted interoceptive prediction errors; Calm = close match between interoceptive predictions and signals; Euphoria = positive interoceptive prediction errors.*
+
+### 内感受精度 (Interoceptive Accuracy)
+
+个体在内感受精度上存在差异。一些人对心跳信号高度敏感（高内感受精度），另一些人则不那么敏感。研究表明：
+
+- 高内感受精度与更强的情绪体验相关
+- 高内感受精度与更强的直觉决策能力相关
+- 内感受精度异常与焦虑症、人格解体等精神障碍相关
+
+*Individuals vary in interoceptive accuracy. High interoceptive accuracy correlates with stronger emotional experience and better intuitive decision-making. Abnormal interoceptive accuracy correlates with anxiety disorders, depersonalisation, and other psychiatric conditions.*
+
+### 岛叶皮层 (Insular Cortex) 的角色
+
+岛叶皮层是内感受加工的核心脑区。它接收来自内脏器官的信号，并参与内感受预测的生成和预测误差的计算。前岛叶 (anterior insula) 特别与内感受意识 (interoceptive awareness) 相关——即我们"意识到"自己心跳、呼吸等身体状态的能力。
+
+*The insular cortex is the core brain region for interoceptive processing. It receives visceral signals and participates in generating interoceptive predictions and computing prediction errors. The anterior insula is particularly associated with interoceptive awareness — our ability to "notice" our heartbeat, respiration, and other body states.*
+
+## 发展脉络
+
+### 思想史
+
+- **James-Lange 理论 (1884)**: 情绪是对身体变化的感知——"我们因为哭泣而悲伤，因为逃跑而恐惧"
+- **Damasio (1994)**: 躯体标记假说——身体状态在决策中的核心角色
+- **Craig (2002)**: 岛叶皮层作为内感受整合中枢
+- **Critchley (2005)**: 内感受精度的个体差异与情绪调节
+- **Seth (2013)**: 内感受预测加工——将预测加工框架应用于内感受
+
+*Intellectual history: James-Lange theory (1884) emotion as perception of body changes; Damasio (1994) somatic marker hypothesis; Craig (2002) insular cortex as interoceptive integration hub; Critchley (2005) individual differences in interoceptive accuracy; Seth (2013) interoceptive predictive processing.*
+
+### Seth 的独特贡献
+
+Seth 的原创性在于将内感受与预测加工结合，提出：
+
+1. **自我意识的内感受基底**: "我"首先是一个身体性的存在——自我感根植于内感受预测模型
+2. **情绪的内感受预测理论**: 情绪不是对身体变化的被动反映，而是对内感受预测误差的主动感知
+3. **精神障碍的内感受解释**: 焦虑、人格解体等障碍可以从内感受预测加工的异常来理解
+
+*Seth's originality lies in combining interoception with predictive processing: (1) Interoceptive basis of self-consciousness; (2) Interoceptive prediction theory of emotion; (3) Interoceptive explanation of psychiatric disorders.*
+
+## 临床应用
+
+### 焦虑症
+
+在 Seth 的框架中，焦虑症可以被理解为内感受预测误差的过度权重：大脑对身体内部状态（如心跳加速）的微小变化过度敏感，将这些变化预测为威胁信号，产生焦虑情绪。
+
+*In Seth's framework, anxiety disorders can be understood as overweighted interoceptive prediction errors: the brain is hyper-sensitive to small changes in internal body states (e.g., heartbeat acceleration), predicting these changes as threat signals and generating anxiety.*
+
+### 人格解体 (Depersonalisation)
+
+人格解体是一种"感觉自己不真实"或"感觉与自己的身体分离"的体验。在 Seth 的框架中，这被理解为内感受自我模型的预测与实际内感受输入之间的脱节——大脑的"自我预测"不再能匹配身体信号。
+
+*Depersonalisation — feeling unreal or disconnected from one's body — is understood as a disconnection between the interoceptive self-model's predictions and actual interoceptive input — the brain's "self-predictions" no longer match body signals.*
+
+### 冥想与内感受训练
+
+冥想（特别是内观冥想, vipassanā）可以被理解为对内感受预测模型的训练——通过系统地关注身体内部感觉，冥想者可能调节内感受预测的精度，从而改变自我体验和情绪调节。
+
+*Meditation (especially vipassanā) can be understood as training of interoceptive predictive models — by systematically attending to internal body sensations, meditators may modulate interoceptive prediction precision, altering self-experience and emotion regulation.*
+
+### 心脏感知实验 (Heartbeat Detection Task)
+
+Seth 团队使用心脏感知任务（让被试计数自己的心跳而不触摸脉搏）来测量内感受精度，并探索其与自我意识、情绪调节和精神障碍的关系。
+
+*Seth's team uses heartbeat detection tasks (counting one's own heartbeat without touching the pulse) to measure interoceptive accuracy and explore its relationship with self-consciousness, emotion regulation, and psychiatric disorders.*
+
+## 关联概念
+
+| 概念 | 关联 | 说明 |
+|---|---|---|
+| [预测脑](predictive-brain.md) | 机制 | 内感受遵循预测加工原则 |
+| [做你自己](being-you.md) | 框架 | 内感受自我是 Being You 的核心 |
+| [受控幻觉](consciousness-real-illusion.md) | 平行 | 内感受也是一种"受控幻觉" |
+| [兽性机器](beast-machine.md) | 下游 | 内感受是兽性机器的核心特征 |
+| 躯体标记 (Damasio) | 承接 | 身体状态在认知中的角色 |
+| 情绪建构 (Barrett) | 平行 | 情绪作为建构过程 |
+
+## 东西方对话
+
+### 与佛教"身受"(Vedanā) 的对话
+
+佛教五蕴中的"受蕴"(Vedanā, 感受) 与 Seth 的内感受概念有深层共鸣。受蕴包括身体的苦乐感受和心灵的忧喜感受——这与 Seth 将情绪理解为对身体状态变化的感知一致。佛教修行中的"身受念住"(kāyānupassanā, 身体觉察) 也可以被理解为内感受预测模型的精细训练。
+
+*Buddhist Vedanā (feeling-tone) in the Five Aggregates resonates with Seth's interoception. Vedanā includes bodily pleasant/unpleasant and mental joyful/sorrowful feelings — consistent with Seth's understanding of emotion as perception of body-state changes. Buddhist kāyānupassanā (body contemplation) can be understood as fine-tuning of interoceptive predictive models.*
+
+### 与道家"气感"的对话
+
+道家修炼中的"气感"（对体内气流运动的感知）可以被理解为一种高度发展的内感受能力——修炼者通过长期训练，提高了对身体内部微弱信号的感知精度。这与 Seth 的内感受精度概念相呼应。
+
+*Daoist "qi sensation" (perception of qi flow within the body) can be understood as a highly developed interoceptive capacity — practitioners enhance their precision for subtle internal signals through long-term training, resonating with Seth's interoceptive accuracy concept.*
+
+### 与瑜伽"身体觉察"的对话
+
+瑜伽的身体觉察实践 (body awareness practices) 与内感受研究有直接联系：瑜伽通过系统地关注身体内部感觉来训练内感受能力，研究表明长期瑜伽练习者的内感受精度显著高于一般人群。
+
+*Yoga body awareness practices are directly linked to interoception research: yoga trains interoceptive capacity through systematic attention to internal sensations, and studies show that long-term yoga practitioners have significantly higher interoceptive accuracy than general populations.*
+
+## 进阶阅读
+
+- Seth, "Interoceptive inference, emotion, and the embodied self" (*Trends in Cognitive Sciences*, 2013)
+- Seth, *Being You* (2021), Ch. 5--7
+- Garfinkel, Seth, et al., "Interoceptive Inference: From Computational Neuroscience to Clinic" (*Neuroscience & Biobehavioral Reviews*, 2017)
+- Damasio, *The Feeling of What Happens* (1999)
+- Craig, "How do you feel? Interoception: the sense of the physiological condition of the body" (*Nature Reviews Neuroscience*, 2002)
+- Critchley, "Neural mechanisms of autonomic, affective, and cognitive integration" (*Journal of Comparative Neurology*, 2005)

@@ -1,0 +1,234 @@
+---
+id: husserl
+title: 胡塞尔 · Edmund Husserl
+type: thinker
+domain: philosophy
+school: phenomenology
+era: modern
+birth: 1859
+death: 1938
+tags: [phenomenology, intentionality, epoche, lifeworld, transcendental, consciousness]
+aliases: [Husserl, 埃德蒙·胡塞尔]
+sources:
+  - Husserl, *Logical Investigations* (1900–1901)
+  - Husserl, *Ideas I* (1913)
+  - Husserl, *Cartesian Meditations* (1931)
+  - Husserl, *The Crisis of European Sciences* (1936)
+  - Husserl, *On the Phenomenology of Internal Time-Consciousness* (1928)
+cross-refs:
+  - id: heidegger
+    relation: 学生/发展
+  - id: merleau-ponty
+    relation: 发展
+  - id: sartre
+    relation: 发展
+  - id: kant
+    relation: 平行
+  - id: religion.buddhism.concept.pramana
+    relation: 平行
+children:
+  - concepts/intentionality.md
+  - concepts/phenomenological-reduction.md
+  - concepts/lifeworld.md
+  - concepts/time-consciousness.md
+  - concepts/eidetic-reduction.md
+  - works.md
+  - timeline.md
+  - reading-list.md
+related-comparative:
+  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+---
+
+# 胡塞尔 · Edmund Husserl
+
+> **"回到事情本身!"**(Zu den Sachen selbst!)
+
+## 基本信息
+
+- **全名**:Edmund Gustav Albrecht Husserl
+- **生卒年**:1859 年 4 月 8 日 — 1938 年 4 月 27 日
+- **国籍**:德裔犹太(生于奥匈帝国摩拉维亚,今捷克)
+- **学术身份**:数学家出身的哲学家,哥廷根/弗莱堡大学教授
+- **学派归属**:**现象学之父**
+- **师承**:布伦塔诺(Franz Brentano)、魏尔斯特拉斯(数学)、施通普夫
+- **学生**:海德格尔、舍勒、列维纳斯(间接)、梅洛-庞蒂(间接)
+- **遗稿**:约 40,000 页速记手稿,存于鲁汶胡塞尔档案馆
+
+## 一句话定位
+
+胡塞尔是**20 世纪欧陆哲学的枢纽建筑师**——以"回到事情本身"为口号,创立现象学方法,把**意向性、还原、生活世界**作为哲学的根本工具,下游辐射海德格尔、萨特、梅洛-庞蒂、德里达,并与当代认知科学持续对话。
+
+## 核心命题
+
+### 1. 意向性(Intentionalität)
+意识总是**"关于某物的意识"**——不是封闭容器,而是指向对象的活动结构。每一种意识行为(noesis)都有其意向对象(noema)。
+
+### 2. 现象学方法
+**"回到事情本身"**(Zu den Sachen selbst):通过描述意识中呈现的现象来揭示本质结构,而非依赖理论预设。
+
+### 3. 悬置 / 括号(Epoché)
+将关于外部世界存在性的**自然态度**"悬置"起来——不是否认世界存在,而是**暂时中止判断**,以便聚焦于意识体验本身。
+
+### 4. 生活世界(Lebenswelt)
+科学的客观世界建立在一个**前科学的、主体间共享的日常经验世界**之上;现代科学的危机正在于遗忘了这个世界。
+
+### 5. 先验自我(Transzendentales Ego)
+一切意向活动的统一来源,是意识经验得以可能的**先验条件**。
+
+### 6. 主体间性(Intersubjektivität)
+通过**类比统觉**和**移情**(Einfühlung),先验自我构造出"他者"的存在,从而建立客观世界的可能性。
+
+## 思想脉络
+
+详见 [timeline.md](timeline.md)。
+
+### 早期:逻辑学与心理主义批判(1887–1901)
+- 数学家出身,师从魏尔斯特拉斯
+- 师从布伦塔诺,接受意向性概念
+- 《算术哲学》(1891)被弗雷格批评 → 放弃心理主义
+- 《逻辑研究》(1900–1901):批判心理主义,开创**描述现象学**(实在论阶段)
+
+### 中期:先验转向(1913–1928)
+- 《观念 I》(1913):先验现象学纲领——悬置、还原、构造
+- 转向引发哥廷根学派(舍勒)和慕尼黑学派分裂
+- 《内时间意识现象学》(1928 出版):时间意识的原初结构分析
+- 1916 年继任弗莱堡教席,海德格尔成为助手
+
+### 晚期:生活世界与欧洲科学危机(1928–1938)
+- 《形式的与先验逻辑》(1929)
+- 《笛卡尔沉思》(1931):先验自我与主体间性
+- 《欧洲科学的危机与先验现象学》(1936):生活世界的宣言
+- 1933 年被纳粹剥夺教学资格,在孤独中工作直至去世
+
+## 五大核心母题
+
+| 母题 | 代表作 | 子条目 |
+|---|---|---|
+| **意向性** | 《逻辑研究》第五/六研究 | [intentionality.md](concepts/intentionality.md) |
+| **现象学还原** | 《观念 I》 | [phenomenological-reduction.md](concepts/phenomenological-reduction.md) |
+| **生活世界** | 《危机》 | [lifeworld.md](concepts/lifeworld.md) |
+| **内时间意识** | 《时间意识讲演》 | [time-consciousness.md](concepts/time-consciousness.md) |
+| **本质还原** | 《经验与判断》 | [eidetic-reduction.md](concepts/eidetic-reduction.md) |
+
+## 关键著作
+
+详见 [works.md](works.md)。
+
+### 必读四书
+- **《逻辑研究》**(1900–1901)— 批判心理主义,开创描述现象学
+- **《观念 I》**(1913)— 先验现象学纲领
+- **《笛卡尔沉思》**(1931)— 先验自我、主体间性
+- **《欧洲科学的危机》**(1936)— 生活世界、伽利略遗产
+
+### 其他重要著作
+- 《算术哲学》(1891)
+- 《内时间意识现象学》(1928 出版)
+- 《形式的与先验逻辑》(1929)
+- 《经验与判断》(1939 遗稿)
+
+## 重要概念速查
+
+- **意向性**(Intentionalität)— 意识指向对象的结构
+- **Noesis / Noema** — 意识行为 / 意向对象
+- **悬置**(Epoché)— 中止自然态度
+- **现象学还原**(phänomenologische Reduktion)— 从自然态度转向先验态度
+- **构造**(Konstitution)— 意识赋予对象意义的过程(非因果创造)
+- **生活世界**(Lebenswelt)— 前科学的日常经验世界
+- **明证性**(Evidenz)— 现象学的自明性标准
+- **本质直观**(Wesensschau)— 通过变更多样性把握不变本质
+- **主体间性**(Intersubjektivität)— 他者的先验构造
+
+## 当代应用
+
+- **认知科学**:认知主义与具身认知的辩论直接源于胡塞尔-梅洛-庞蒂传统
+- **心灵哲学**:Dan Zahavi 等将现象学引入意识研究,回应"困难问题"
+- **精神病理学**:现象学方法在精神分裂症、抑郁症的临床描述中广泛应用(雅斯贝尔斯、宾斯万格)
+- **人工智能**:Hubert Dreyfus 运用海德格尔化的胡塞尔批评经典 AI
+- **社会学**:Alfred Schütz 将生活世界概念引入社会学,影响 Berger & Luckmann
+- **教育学**:Max van Manen 的现象学教育研究
+
+## 常见误读
+
+- ❌ "现象学就是主观唯心论,否认外部世界存在" → ✅ 悬置不是否认,而是方法论的中止判断
+- ❌ "胡塞尔的哲学是纯理论的,与现实无关" → ✅ 《危机》直接回应欧洲文明危机
+- ❌ "现象学已被分析哲学取代" → ✅ 现象学在认知科学、心灵哲学、临床心理学持续活跃
+- ❌ "构造意味着意识创造世界" → ✅ 构造是意义赋予(Sinngebung),不是因果生产
+
+## 跨学科关联
+
+### 哲学
+- [海德格尔](../existentialism/heidegger/README.md) `[发展]` 以此在分析论取代先验主体性
+- [梅洛-庞蒂](../phenomenology/merleau-ponty/README.md) `[发展]` 以身体-主体取代纯粹意识
+- [萨特](../existentialism/sartre/README.md) `[发展]` 将意向性激进化为"意识即虚无"
+- [康德](../german-idealism/kant.md) `[平行]` 先验哲学传统
+- [德里达](../post-structuralism/derrida.md) `[发展]` 解构在场形而上学
+- [维特根斯坦](../analytic/wittgenstein.md) `[对照]` 语言哲学路径的分歧
+
+### 东方思想
+- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
+- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 现象学直观与瑜伽现量
+
+### 认知科学
+- [具身认知](../../../psychology/concepts/embodied-cognition.md) `[发展]` 现象学作为哲学基础
+- [预测加工](../../../cognitive-systems/concepts/predictive-processing.md) `[平行]` Noema 与预测模型的对话
+
+## 东西方对话:胡塞尔 × 唯识
+
+胡塞尔与 4–7 世纪的印度—汉传**唯识学**在方法论上高度呼应——都是**对意识结构的严密描述性分析**,但理论框架不同。
+
+- **意向性 vs 四分说** — 胡塞尔的 noesis/noema 对应唯识的**见分**(darśana-bhāga)与**相分**(nimitta-bhāga);二者都揭示"意识总是有对象的意识"。
+- **悬置(Epoché)vs 止观(śamatha-vipaśyanā)** — 悬置中止自然态度,类似于禅修的**止**(专注)与**观**(洞察);二者都要求暂时脱离日常认知惯性。
+- **本质直观(Wesensschau)vs 无分别智(nirvikalpa-jñāna)** — 二者都试图把握**概念之前的真实**;但前者是方法,后者是修道证入。
+- **内时间意识 vs 刹那相续(kṣaṇa-santāna)** — 胡塞尔分析"滞留-原印象-前摄"三重结构;唯识分析**种子—现行互熏**的刹那流。
+- **先验自我 vs 末那识** — 胡塞尔的先验自我是意识统一的条件;唯识的末那识是**我执**的根源,需转为平等性智。
+- **生活世界 vs 世间(laukika)** — 二者都强调前科学的日常世界是理论的根基。
+
+> 完整对照见 [存在主义 × 唯识](../../comparative/existentialism-vs-yogacara.md)
+
+## 进阶阅读
+
+详见 [reading-list.md](reading-list.md)。
+
+### 入门首选
+- 《观念 I》导论部分
+- 《笛卡尔沉思》第一、二沉思
+- 《欧洲科学的危机》§§9-16(伽利略部分)
+
+### 原典
+- 《逻辑研究》(1900–1901)
+- 《观念 I》(1913)
+- 《内时间意识现象学》(1928)
+- 《形式的与先验逻辑》(1929)
+- 《笛卡尔沉思》(1931)
+- 《危机》(1936)
+
+### 二手研究
+- Dermot Moran, *Edmund Husserl: Founder of Phenomenology* (2005)
+- Dan Zahavi, *Husserl's Phenomenology* (2003)
+- Robert Sokolowski, *Introduction to Phenomenology* (2000)
+- David Carr, *Phenomenology and the Problem of History* (1974)
+
+### 中文资源
+- 倪梁康《现象学及其效应》(1994)
+- 倪梁康 译《逻辑研究》(2006)
+- 张庆熊《胡塞尔现象学》(2001)
+- 靳希平《胡塞尔早期现象学的出发点》
+- 方向红《胡塞尔现象学中的时间问题》
+
+## 子条目索引
+
+| 子条目 | 内容 |
+|---|---|
+| [concepts/intentionality.md](concepts/intentionality.md) | 意向性 · noesis / noema |
+| [concepts/phenomenological-reduction.md](concepts/phenomenological-reduction.md) | 现象学还原 · 悬置 |
+| [concepts/lifeworld.md](concepts/lifeworld.md) | 生活世界 · 科学危机 |
+| [concepts/time-consciousness.md](concepts/time-consciousness.md) | 内时间意识 · 滞留/前摄 |
+| [concepts/eidetic-reduction.md](concepts/eidetic-reduction.md) | 本质还原 · 变更 |
+| [works.md](works.md) | 作品总览 |
+| [timeline.md](timeline.md) | 思想年表 |
+| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+
+## 比较页
+
+- [存在主义 × 唯识](../../comparative/existentialism-vs-yogacara.md)(平行比较)
+- [博尔赫斯 × 唯识](../../../aesthetics/schools/comparative/borges-vs-yogacara.md)(平行比较)

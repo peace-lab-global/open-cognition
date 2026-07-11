@@ -1,0 +1,134 @@
+---
+id: chopin-works
+title: "肖邦作品总览 · Chopin Works Bibliography"
+type: bibliography
+thinker: chopin
+domain: arts
+school: music
+tags: [chopin, works, bibliography, romanticism, piano]
+cross-refs: [chopin]
+---
+
+# 肖邦作品总览 · Chopin Works Bibliography
+
+## 概述 / Overview
+
+肖邦一生创作约230首作品，几乎全部为钢琴独奏或钢琴参与的体裁。其中生前出版的作品编号至op.65，另有大量遗作由友人丰塔那（Julian Fontana）和姐姐路易莎（Ludwika）整理出版。以下按体裁分类，依时间排列，涵盖全部主要作品。
+
+Chopin composed approximately 230 works in his lifetime, almost entirely for solo piano or piano-involved genres. Works published during his lifetime carry opus numbers up to op. 65; many posthumous works were edited by his friend Julian Fontana and sister Ludwika. The following is organized by genre and chronologically arranged, covering all major works.
+
+## 一、协奏曲与管弦乐 / Concertos and Orchestral Works
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 出版信息 / Publisher | 意义 / Significance |
+|---|---|---|---|---|---|
+| 1829 | Concerto No. 2 in f-moll | op. 21 | f小调第二钢琴协奏曲 | Kistner, 1836 | 实际先于第一协奏曲创作，展示抒情天赋 / Actually composed before No. 1, showcasing lyrical gift |
+| 1830 | Concerto No. 1 in e-moll | op. 11 | e小调第一钢琴协奏曲 | Schlesinger, 1833 | 早期杰作的顶峰 / Peak of early masterworks |
+| 1828 | Rondo à la Krakowiak | op. 14 | 克拉科维亚克回旋曲 | Schlesinger, 1834 | 波兰民间风格的华丽展示 / Brilliant display of Polish folk style |
+| 1831 | Andante spianato et Grande Polonaise | op. 22 | 平静的行板与大波兰舞曲 | Schlesinger, 1836 | 波兰舞曲与管弦乐的结合 / Combining polonaise with orchestra |
+
+## 二、练习曲 / Études
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1829--32 | Études, Livre I | op. 10 | 练习曲集第一册（12首） | 技术训练的艺术化升华 / Artistic sublimation of technical training |
+| 1832--36 | Études, Livre II | op. 25 | 练习曲集第二册（12首） | 和声与织体的进一步革新 / Further harmonic and textural innovation |
+| 1839 | 3 Nouvelles Études | — | 三首新练习曲 | 为莫谢勒斯方法而作 / Composed for Moscheles' method book |
+
+**重要单曲**: op.10 No.3（"离别" Tristesse）、op.10 No.12（"革命" Revolutionary）、op.25 No.11（"冬风" Winter Wind）、op.25 No.12（"大海" Ocean）
+
+**Notable individual pieces**: op. 10 No. 3 ("Tristesse"), op. 10 No. 12 ("Revolutionary"), op. 25 No. 11 ("Winter Wind"), op. 25 No. 12 ("Ocean")
+
+## 三、夜曲 / Nocturnes
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1830--32 | Nocturnes | op. 9 | 夜曲三首（含著名的No.2 降E大调） | 菲尔德传统的诗意升华 / Poetic elevation of Field tradition |
+| 1830--33 | Nocturnes | op. 15 | 夜曲三首 | 开始超越菲尔德模式 / Beginning to transcend Field model |
+| 1835--36 | Nocturnes | op. 27 | 夜曲二首 | 成熟的戏剧性张力 / Mature dramatic tension |
+| 1836--37 | Nocturnes | op. 32 | 夜曲二首 | 形式自由度的增加 / Increasing formal freedom |
+| 1838--39 | Nocturnes | op. 37 | 夜曲二首 | 诺昂时期的内省之作 / Nohant-period introspection |
+| 1840--41 | Nocturnes | op. 48 | 夜曲二首（含史诗性No.1 c小调） | 夜曲体裁的巅峰 / Pinnacle of the nocturne genre |
+| 1843--44 | Nocturnes | op. 55 | 夜曲二首 | 晚期风格的开端 / Beginning of late style |
+| 1846 | Nocturnes | op. 62 | 夜曲二首 | 最后出版的夜曲，极度内省 / Last published nocturnes, extreme introspection |
+| 1827--30 | Nocturne in e-moll | op. 72 No. 1 | e小调夜曲（遗作） | 最早的夜曲习作 / Earliest nocturne essay |
+| 1830--37 | Nocturnes (posthumous) | — | 升c小调夜曲等（遗作） | 含电影《钢琴家》使用的升c小调夜曲 / Includes C-sharp minor Nocturne used in film *The Pianist* |
+
+## 四、叙事曲与谐谑曲 / Ballades and Scherzos
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1831--35 | Ballade No. 1 in g-moll | op. 23 | g小调第一叙事曲 | 首创器乐叙事曲 / Invented the instrumental ballade |
+| 1836--39 | Ballade No. 2 in F-dur | op. 38 | F大调第二叙事曲 | 宁静的田园与暴风雨的对比 / Pastoral calm vs. stormy violence |
+| 1840--41 | Ballade No. 3 in As-dur | op. 47 | 降A大调第三叙事曲 | 水波般的流畅与优雅 / Water-like fluency and elegance |
+| 1842 | Ballade No. 4 in f-moll | op. 52 | f小调第四叙事曲 | 四首叙事曲的巅峰 / Culmination of all four Ballades |
+| 1831--32 | Scherzo No. 1 in h-moll | op. 20 | b小调第一谐谑曲 | 将谐谑曲从乐章独立为大曲 / Independent dramatic form |
+| 1837 | Scherzo No. 2 in b-moll | op. 31 | 降b小调第二谐谑曲 | 最常被演奏的谐谑曲 / Most frequently performed scherzo |
+| 1839 | Scherzo No. 3 in cis-moll | op. 39 | 升c小调第三谐谑曲 | 暴风雨般的激情 / Stormy passion |
+| 1842 | Scherzo No. 4 in E-dur | op. 54 | E大调第四谐谑曲 | 轻快而内省的独特性格 / Light and introspective, unique character |
+
+## 五、奏鸣曲 / Sonatas
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1828 | Sonate No. 1 in c-moll | op. 4 | c小调第一钢琴奏鸣曲 | 学生时代的习作 / Student-era essay |
+| 1837--39 | Sonate No. 2 in b-moll | op. 35 | 降b小调第二奏鸣曲（"葬礼"） | 含著名的《葬礼进行曲》/ Contains famous Funeral March |
+| 1844 | Sonate No. 3 in h-moll | op. 58 | b小调第三奏鸣曲 | 交响性规模与高度统一 / Symphonic scope and high unity |
+| 1845--46 | Sonate pour violoncelle et piano | op. 65 | 大提琴奏鸣曲 | 唯一的晚期室内乐杰作 / Only late chamber music masterpiece |
+
+## 六、前奏曲 / Preludes
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1835--39 | 24 Préludes | op. 28 | 二十四首前奏曲 | 走遍全部大小调的微型情感百科 / Miniature encyclopedia across all keys |
+| 1841 | Prélude in cis-moll | op. 45 | 升c小调前奏曲 | 独立的晚期前奏曲 / Independent late prelude |
+| 1834 | Prélude in As-dur | — | 降A大调前奏曲（遗作） | 未出版的早期作品 / Unpublished early work |
+
+## 七、波兰舞曲 / Polonaises
+
+| 年份 / Year | 作品 / Work | Op. | 中译 | 意义 / Significance |
+|---|---|---|---|---|
+| 1833--35 | Polonaises | op. 26 | 波兰舞曲二首 | 成熟波兰舞曲的开始 / Beginning of mature polonaises |
+| 1838--39 | Polonaises | op. 40 | 波兰舞曲二首（含"军队"） | 英雄性与悲剧性的并列 / Heroism and tragedy side by side |
+| 1840--41 | Polonaise in fis-moll | op. 44 | 升f小调波兰舞曲 | 壮丽外表下的深切哀伤 / Deep sorrow beneath magnificent exterior |
+| 1842 | Polonaise in As-dur | op. 53 | 降A大调波兰舞曲（"英雄"） | 波兰民族精神的最强音 / Strongest voice of Polish national spirit |
+| 1845--46 | Polonaise-Fantaisie | op. 61 | 幻想波兰舞曲 | 波兰精神与自由幻想的最终融合 / Ultimate fusion of Polish spirit and free fantasy |
+
+## 八、马祖卡 / Mazurkas
+
+肖邦一生创作约60首马祖卡，分属op.6、op.7、op.17、op.24、op.30、op.33、op.41、op.50、op.56、op.59、op.63、op.67、op.68等作品号。马祖卡是贯穿肖邦全部创作生涯的体裁——从少年习作到临终遗作——是其民族身份最持续的抒情编码。晚期马祖卡（op.59、op.63、op.68）趋向极度的和声模糊与织体精简，被视为肖邦晚期风格的最高成就之一。
+
+Chopin composed approximately 60 mazurkas throughout his life, distributed across op. 6, op. 7, op. 17, op. 24, op. 30, op. 33, op. 41, op. 50, op. 56, op. 59, op. 63, op. 67, op. 68, and others. Mazurkas are the genre spanning Chopin's entire creative career -- from student essays to deathbed works -- and constitute the most sustained lyrical encoding of his national identity. Late mazurkas (op. 59, op. 63, op. 68) tend toward extreme harmonic ambiguity and textural spareness, considered among the highest achievements of Chopin's late style.
+
+## 九、其他重要体裁 / Other Important Genres
+
+- **圆舞曲 (Waltzes)**: 17首，含著名的op.64 No.1"小狗圆舞曲"（Minute Waltz）和op.64 No.2（升c小调）/ 17 total, including famous op. 64 No. 1 "Minute Waltz" and op. 64 No. 2 (C-sharp minor)
+- **即兴曲 (Impromptus)**: 4首，含著名的《幻想即兴曲》op.66（遗作）/ 4 total, including famous Fantaisie-Impromptu op. 66 (posthumous)
+- **船歌 (Barcarolle)**: op.60（1845--46），晚期音色的极致 / op. 60 (1845--46), extreme late sonority
+- **摇篮曲 (Berceuse)**: op.57（1843--44），固定低音上的变奏杰作 / op. 57 (1843--44), masterpiece of variations over ground bass
+- **回旋曲 (Rondos)**: op.1, op.5, op.16 — 早期华丽风格的代表 / op. 1, op. 5, op. 16 -- early brilliant style representatives
+
+## 十、遗作与重要版本 / Posthumous Publications and Key Editions
+
+肖邦去世后，大量手稿由丰塔那编辑为op.66--op.74（1855年出版）。此后陆续发现并出版的遗作包括早期波兰舞曲、歌曲（Pieśni）和室内乐。
+
+**重要版本**:
+- **Paderewski版（PWM, 1949--）**：波兰国家版，由帕德雷夫斯基基金会主持，是目前最权威的全集版本 / Polish National Edition, most authoritative complete works edition
+- **Henle版（G. Henle Verlag）**：德国学术版，注重手稿比较 / German scholarly edition, emphasizing manuscript comparison
+- **Peters版**：历史版本，十九世纪广泛使用 / Historical edition, widely used in the nineteenth century
+- **Chopin Institute版（华沙肖邦研究所, 2006--）**：最新学术版，基于最新手稿研究 / Latest scholarly edition, based on newest manuscript research
+
+After Chopin's death, many manuscripts were edited by Fontana as op. 66--op. 74 (published 1855). Subsequently discovered and published posthumous works include early polonaises, songs (Pieśni), and chamber music.
+
+**Key editions**:
+- **Paderewski Edition (PWM, 1949--)**: Polish National Edition, most authoritative complete works
+- **Henle Edition (G. Henle Verlag)**: German scholarly edition emphasizing manuscript comparison
+- **Peters Edition**: Historical edition widely used in the nineteenth century
+- **Chopin Institute Edition (Warsaw, 2006--)**: Latest scholarly edition based on newest manuscript research
+
+## 聆听路径 / Suggested Listening Paths
+
+**入门 / Introductory**: 夜曲op.9 No.2 → 前奏曲op.28 No.4 & No.15 → 练习曲op.10 No.3 → 圆舞曲op.64 No.1
+
+**进阶 / Intermediate**: 叙事曲No.1 (op.23) → 练习曲op.10全套 → 谐谑曲No.2 (op.31) → 奏鸣曲No.2 (op.35) → 波兰舞曲op.53
+
+**深潜 / Advanced**: 全部马祖卡 → 晚期夜曲 (op.55, op.62) → 船歌op.60 → 幻想波兰舞曲op.61 → 大提琴奏鸣曲op.65

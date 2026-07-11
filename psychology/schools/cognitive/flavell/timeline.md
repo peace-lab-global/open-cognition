@@ -1,0 +1,76 @@
+---
+id: psychology.cognitive.flavell.timeline
+title: "弗拉维尔生平年表 · Flavell Life Timeline"
+type: timeline
+parent: psychology.cognitive.flavell
+thinker: John Flavell
+---
+
+# 弗拉维尔生平年表 · Flavell Life Timeline
+
+> 约翰·弗拉维尔（John H. Flavell）生平与学术大事记。
+>
+> Life and academic milestones of John H. Flavell.
+
+## 早年与教育 · Early Life & Education
+
+| 年份 | 事件 |
+|------|------|
+| 1928 | 出生于美国。John Hurley Flavell 在一个普通家庭中成长。 |
+| ~1950 | 获得学士学位（具体院校待考）。 |
+| 1950s | 进入研究生阶段，受皮亚杰认知发展理论吸引。 |
+| 1956 | 获博士学位（PhD），研究方向为儿童认知发展。 |
+
+## 学术生涯 · Academic Career
+
+| 年份 | 事件 |
+|------|------|
+| 1950s末–1960s初 | 加入斯坦福大学心理学系，开始研究儿童记忆策略。 |
+| 1963 | 出版 *The Developmental Psychology of Jean Piaget*——首部系统介绍皮亚杰理论的英文专著，使皮亚杰的思想在英语世界广泛传播。 |
+| 1966 | 发表关于儿童记忆行为纵向变化的论文，首次系统记录"产出不足"（production deficiency）现象。 |
+| 1970 | 发表问题解决中介过程的研究，为后续元认知概念的形成奠定基础。 |
+| 1976 | 在 Resnick 主编的 *The Nature of Intelligence* 中发表 **"Metacognitive aspects of problem solving"**——首次系统提出"metacognition"（元认知）一词，定义其为"关于认知现象的知识和信念"。 |
+| 1977 | 出版《认知发展》教材第一版，成为发展心理学标准教材。 |
+| 1978 | 与 Wellman 合著 *The Development of Memory*，系统论述记忆发展。 |
+| 1979 | **发表奠基论文 "Metacognition and cognitive monitoring"**（*American Psychologist*, 34(10), 906–911），提出完整的元认知四要素模型。此论文成为认知科学史上引用最多的文献之一。 |
+| 1980s | 持续深化元认知理论研究，发表多篇关于认知监控、元认知发展的论文和章节。 |
+| 1985 | 在 Chapman & Dixon 主编的书中发表 "Metacognitive development" 综述章节。 |
+| 1987 | 在 Weinert & Kluwe 主编的 *Metacognition, Motivation, and Understanding* 中发表 "Speculations about the nature and development of metacognition"——对元认知概念的理论反思。 |
+| 1993 | 与 Frances Flavell 和 Green 发表关于儿童对自身思维意识发展的系统研究（*SRCD Monographs*）。《认知发展》第三版出版。 |
+| 1995 | 与 Green 和 Flavell 合作发表 "Young children's knowledge about thinking"（*SRCD Monographs*）——关于儿童心理知识的综合性专著。 |
+| 1998 | 《认知发展》第四版出版（与 Miller 合著），成为该领域至今仍在引用的标准教材。 |
+| 1999 | 在 *Annual Review of Psychology* 发表 "Cognitive development: Children's knowledge about the mind"——关于元认知和心理理论的权威综述。 |
+| 2004 | 在 *Handbook of Child Psychology* 中发表 "Theory of mind" 章节——心理理论的系统论述。 |
+| 2000s | 继续与同事研究儿童的元认知意识、意识流理解和心理理论。 |
+
+## 学术荣誉 · Academic Honors
+
+- 斯坦福大学心理学系荣休教授（Professor Emeritus）
+- 美国心理学会（APA）杰出科学贡献奖
+- 发展心理学与认知科学领域的终身成就认可
+- 其1979年论文被公认为认知科学经典文献
+
+## 学术传承 · Academic Legacy
+
+弗拉维尔培养和指导了众多后来在认知发展领域卓有建树的研究者。他的学术影响延伸至：
+
+- **教育心理学**：元认知教学策略的全球推广
+- **学习科学**：自我调节学习（self-regulated learning）的理论基础
+- **临床心理学**：元认知疗法（MCT, Adrian Wells）的理论源头
+- **认知科学**：对认知意识和自我监控的持续研究兴趣
+- **发展心理学**：认知发展教材的标准框架
+
+## 历史背景 · Historical Context
+
+| 时代事件 | 与弗拉维尔学术的关联 |
+|----------|----------------------|
+| 1956 认知革命（达特茅斯会议） | 弗拉维尔的学术成长与认知革命同步 |
+| 1960s 皮亚杰理论在英语世界的传播 | 弗拉维尔1963年专著是关键推动力 |
+| 1970s 信息加工心理学的兴起 | 元认知概念在信息加工框架中形成 |
+| 1980s 教育改革浪潮 | 元认知成为教育实践的核心概念 |
+| 1990s 脑科学与认知科学整合 | 元认知研究获得神经科学支持 |
+| 2000s 正念与冥想的科学化 | 元认知体验概念与正念研究交叉 |
+| 2010s–present AI与自适应学习 | 元认知框架为智能辅导系统提供心理学原型 |
+
+---
+返回 [[README|弗拉维尔 · John Flavell]]

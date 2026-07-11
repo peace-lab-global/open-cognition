@@ -1,0 +1,59 @@
+---
+id: beck-reading-list
+title: 贝克进阶书单 · Beck Reading List
+type: reading-list
+domain: sociology
+thinker: beck
+school: modernity
+---
+
+# 贝克系统阅读指南 / Beck Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Ulrich Beck: A Critical Introduction* (2007) | Bronislaw Szerszynski & Claire Levy | 简明批判性导论 |
+| *Beck, Giddens and Reflexive Modernity* (1999) | Alan Scott | 反思性现代化比较研究 |
+| *Risk Society Revisited* (2009) | Dan Ritzer | 风险社会理论重评 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《风险社会》 | 1986 | 风险分配；飞去来器效应 |
+| 《反思性现代化》（贝克部分） | 1994 | 第二现代性 |
+| 《世界风险社会》 | 1999 | 全球风险 |
+| 《世界主义视角》 | 2004 | 方法论创新 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《全球化是什么》 | 1997 | 方法论民族主义批判 |
+| 《正常性的混乱》 | 1996 | 个体化与爱情 |
+| 《解毒剂》 | 1988 | 有组织的无责任 |
+| 《德国的欧洲》 | 2013 | 欧洲政治 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Risk, Environment and Modernity* (1996) | Scott Lash, Bronislaw Szerszynski & Brian Wynne (eds.) | 风险社会理论的重评 |
+| *The Risk Society and Beyond* (2000) | Barbara Adam, Ulrich Beck & Joost Van Loon (eds.) | 风险理论的当代发展 |
+| *Globalization and the European Integration* | Beck & Grande | 全球治理 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *Risk Society* 重评集 | Various | 风险理论的当代应用 |
+| *Climate Change and Society* (2010) | Giddens | 气候政治 |
+| *The Age of Disruption* (2019) | Bernard Stiegler | 技术风险 |
+| *The Pandemic and Social Theory* | Various | 新冠疫情与风险社会 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-4周）: Szerszynski导论 → 《风险社会》→ 《反思性现代化》（贝克部分）
+**阶段二**（4-8周）: 《世界风险社会》→ 《全球化是什么》→ 《世界主义视角》
+**阶段三**（8周+）: 《正常性的混乱》→ 《德国的欧洲》→ 当代风险研究 → 气候政治

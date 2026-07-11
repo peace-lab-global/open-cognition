@@ -1,0 +1,116 @@
+---
+id: michelangelo-works
+title: "米开朗基罗作品总览 · Complete Works Bibliography"
+type: bibliography
+thinker: michelangelo
+domain: arts
+school: visual-arts
+tags: [michelangelo, works, sculpture, painting, architecture, poetry, bibliography]
+cross-refs:
+  - michelangelo
+  - terribilita
+  - sistine-ceiling
+---
+
+# 米开朗基罗作品总览 / Complete Works Bibliography
+
+米开朗基罗的创作生涯横跨雕塑、绘画、建筑和诗歌四大领域，时间跨度近七十年（约1490–1564）。他是西方艺术史上极少数在所有主要视觉艺术媒介中均达到最高成就的创造者。以下按时间顺序列出其主要作品，标注中英文名称、创作年份、所在地和核心意义。值得注意的是，米开朗基罗的作品总量相对有限——与同时代的拉斐尔或提香相比，他的"产出率"极低，因为每一件作品都经过了漫长而痛苦的内在挣扎。这种"少而精"的创作模式本身就是其艺术哲学的体现：每一件作品都是从理念到物质的艰难转化。
+
+Michelangelo's creative career spanned sculpture, painting, architecture, and poetry across nearly seventy years (c. 1490–1564). He is one of the very few creators in Western art history to achieve the highest accomplishments across all major visual media. The following chronological catalog lists major works with Chinese and English titles, dates, locations, and core significance. Notably, Michelangelo's total output was relatively limited — compared to contemporaries like Raphael or Titian, his "productivity" was extremely low, because every work underwent a long and agonizing internal struggle. This "few but refined" creative mode itself embodies his artistic philosophy: each work is an arduous transformation from idea to matter.
+
+## 雕塑 / Sculpture
+
+| 年份 / Year | 原名 / Title | 中译 / Chinese | 所在地 / Location | 意义 / Significance |
+|-------------|-------------|---------------|-------------------|-------------------|
+| 1490–1492 | *Madonna of the Stairs* | 《阶梯圣母》 | Casa Buonarroti, 佛罗伦萨 | 最早的大理石浮雕；致敬多纳泰罗的stiacciato（压浮雕）技法；圣母形象的沉思性预示了晚期风格 |
+| 1490–1492 | *Battle of the Centaurs* | 《半人马之战》 | Casa Buonarroti, 佛罗伦萨 | 最早的多人体雕塑尝试；充满动态和力量的未完成状态 |
+| 1494–1495 | *St. Proclus* & *St. Petronius* | 《圣普罗库洛》《圣佩特罗尼乌斯》 | 圣多梅尼科教堂, 博洛尼亚 | 早期委托作品；显示了对人体解剖的关注 |
+| 1496–1497 | *Bacchus* | 《酒神巴库斯》 | Museo Nazionale del Bargello, 佛罗伦萨 | 首次赴罗马的作品；古典题材与真人尺度；展示了精湛的大理石抛光技艺 |
+| 1498–1499 | *Pietà* | 《圣母怜子》 | 圣彼得大教堂, 梵蒂冈 | 确立盛期文艺复兴的均衡理想；圣母面容的安详与基督身体的柔和达到了古典式的完美统一；唯一署名作品 |
+| 1501–1504 | *David* | 《大卫》 | 学院美术馆, 佛罗伦萨 | 5.17米大理石；公民自由与理想人体的合一；文艺复兴公民精神的最高象征 |
+| 1503–1505 | *Taddei Tondo* | 《塔代圆形浮雕》 | Royal Academy, 伦敦 | 圆形构图中的圣母与圣婴；探索浮雕与圆雕的边界 |
+| 1505–1506 | *St. Matthew* | 《圣马太》（未完成） | 学院美术馆, 佛罗伦萨 | "未完成"的经典范例；人物挣扎着从石料中显现 |
+| 1506 | *Pitti Tondo* | 《皮蒂圆形浮雕》 | Museo Nazionale del Bargello, 佛罗伦萨 | 圣母形象的另一种变体 |
+| 1513–1515 | *Moses* | 《摩西》 | 圣彼得锁链教堂 (San Pietro in Vincoli), 罗马 | 朱利叶斯二世陵墓的核心雕塑；力量、愤怒与神圣律法的身体化；"角"（光芒）的传统表现 |
+| 1513–1516 | *Dying Slave* | 《垂死的奴隶》 | 卢浮宫, 巴黎 | 身体与束缚的母题；"死亡"与"解脱"的模糊边界 |
+| 1513–1516 | *Rebellious Slave* | 《反叛的奴隶》 | 卢浮宫, 巴黎 | 挣扎与束缚的极端表达；身体作为精神困境的寓言 |
+| 1519–1534 | *Day, Night, Dawn, Dusk* | 《昼》《夜》《晨》《暮》 | 美第奇礼拜堂, 佛罗伦萨 | 时间寓言四像；《夜》的沉思姿态成为巴洛克雕塑的先声 |
+| 1520–1534 | *Medici Madonna* | 《美第奇圣母》 | 美第奇礼拜堂, 佛罗伦萨 | 圣母背对圣婴的非传统构图；表达疏离与内省 |
+| 1532–1536 | *Atlas Slave* / *Young Slave* / *Bearded Slave* / *Awakening Slave* | 四件"奴隶"雕塑 | 学院美术馆, 佛罗伦萨 | 原为朱利叶斯二世陵墓设计；人体从石料中挣扎显现的"未完成"系列 |
+| 1540–1545 | *Brutus* | 《布鲁图斯》 | Museo Nazionale del Bargello, 佛罗伦萨 | 政治雕塑；纪念佛罗伦萨共和理想 |
+| 1547–1555 | *Florentine Pietà* (Bandini Pietà) | 《佛罗伦萨圣母怜子》 | Museo dell'Opera del Duomo, 佛罗伦萨 | 据传其中尼哥底母的面孔是米开朗基罗的自画像；他曾试图打碎此作 |
+| 1552–1564 | *Rondanini Pietà* | 《隆达尼尼圣母怜子》 | Castello Sforzesco, 米兰 | 未完成的极简与剥离；面对死亡的精神遗嘱；去世前数日仍在雕刻 |
+
+## 绘画 / Painting
+
+| 年份 / Year | 原名 / Title | 中译 / Chinese | 所在地 / Location | 意义 / Significance |
+|-------------|-------------|---------------|-------------------|-------------------|
+| 1504–1506 | *Doni Tondo* | 《多尼圆形画》 | 乌菲兹美术馆, 佛罗伦萨 | 唯一完成的架上绘画；雕塑性绘画的范例；背景中的裸体青年预示了西斯廷天顶 |
+| 1504–1505 | *Battle of Cascina*（草图） | 《卡西纳之战》（草图） | 已失传（仅存复制品和素描） | 与达·芬奇《安吉亚里之战》的竞赛；人体动态的百科全书 |
+| 1508–1512 | *Sistine Chapel Ceiling* | 《西斯廷天顶·创世纪》 | 西斯廷礼拜堂, 梵蒂冈 | 约500平方米的湿壁画史诗；以《创世纪》为核心的神学-宇宙论图像程序；三百多个人物 |
+| 1536–1541 | *The Last Judgment* | 《最后的审判》 | 西斯廷礼拜堂, 梵蒂冈 | 祭坛墙壁画；漩涡般的末日场景；末世焦虑与崇高的融合；引发裸体争议 |
+| 1542–1550 | *Conversion of Saul* | 《扫罗的归信》 | 保利纳礼拜堂 (Cappella Paolina), 梵蒂冈 | 最后的壁画作品；风格更加内省和不安 |
+| 1542–1550 | *Crucifixion of St. Peter* | 《圣彼得的十字架受难》 | 保利纳礼拜堂, 梵蒂冈 | 与《扫罗的归信》配对；构图的实验性 |
+
+## 建筑 / Architecture
+
+| 年份 / Year | 原名 / Title | 中译 / Chinese | 所在地 / Location | 意义 / Significance |
+|-------------|-------------|---------------|-------------------|-------------------|
+| 1516–1534 | *Medici Chapel (New Sacristy)* | 《美第奇礼拜堂》 | 圣洛伦佐教堂, 佛罗伦萨 | 建筑与雕塑的完美统一；时间寓言四像的建筑框架 |
+| 1524–1534 | *Laurentian Library* | 《劳伦齐亚纳图书馆》 | 圣洛伦佐教堂, 佛罗伦萨 | 前厅的"流动"柱子是矫饰主义建筑的先声；楼梯设计极具雕塑感 |
+| 1538–1550 | *Piazza del Campidoglio* | 《卡比托利欧广场》 | 卡比托利欧山, 罗马 | 椭圆形地面图案和梯形空间透视；城市设计的经典案例 |
+| 1538–1550 | *Palazzo Farnese* (上层) | 《法尔内塞宫》（上层） | 罗马 | 上层立面和檐部的设计；古典秩序的庄严表达 |
+| 1546–1564 | *St. Peter's Basilica Dome* | 《圣彼得大教堂穹顶》 | 梵蒂冈 | 以肋拱结构和垂直动势创造罗马天际线的永恒标志；米开朗基罗去世后续建完成 |
+| 1547–1555 | *Florentine Pietà Chapel* (未建成) | 《圣母怜子礼拜堂》（未建成） | — | 原计划放置《佛罗伦萨圣母怜子》的专用礼拜堂 |
+| 1550s | *Porta Pia* | 《皮亚门》 | 罗马 | 城门建筑的创新设计 |
+
+## 诗歌 / Poetry
+
+| 年份 / Year | 原名 / Title | 中译 / Chinese | 说明 / Notes |
+|-------------|-------------|---------------|-------------|
+| 约1504–1560 | *Rime* | 《诗集》 | 约300首十四行诗和牧歌；涵盖对托马索·卡瓦利埃里（Tommaso de' Cavalieri）的新柏拉图式爱恋、对维多利亚·科隆纳（Vittoria Colonna）的精神之爱、对艺术和信仰的深刻反思 |
+| 约1509–1510 | Sonnet to Giovanni da Pistoia | 《致乔瓦尼·达·皮斯托亚》 | 描述绘制西斯廷天顶时的身体痛苦；配有讽刺性素描 |
+| 约1530s–1540s | "Crucifixion Poems" | 《十字架诗》组 | 晚年的宗教内省；"绘画和雕塑已无法平息我的灵魂" |
+| 约1550s | Sonnets to Vittoria Colonna | 《致维多利亚·科隆纳》 | 精神之爱的表达；信仰与艺术创作的张力 |
+
+## 身后出版与遗作 / Posthumous Publications and Legacy Works
+
+米开朗基罗去世后，其文学遗产的整理和出版经历了漫长的过程。他的侄孙小米开朗基罗（Michelangelo Buonarroti il Giovane，1568–1646）在1623年首次出版了诗集选集，但对原文进行了大量修改——不仅"纠正"了语法，还将许多致男性对象（尤其是托马索·卡瓦利埃里）的情诗中的男性代词改为女性，以符合当时的社会规范。这一篡改持续了近三百年，直到19世纪末学者们才开始恢复原文。
+
+After Michelangelo's death, the editing and publication of his literary legacy underwent a long process. His grand-nephew Michelangelo Buonarroti il Giovane (1568–1646) first published a selection of poems in 1623, but made extensive alterations — not only "correcting" grammar but changing male pronouns to female in many love poems addressed to male recipients (especially Tommaso de' Cavalieri) to conform to social norms. This alteration persisted for nearly three centuries, until late 19th-century scholars began restoring the original texts.
+
+他的书信在生前从未出版，但被家族后代小心保存。这些书信是理解米开朗基罗个人性格和社会关系的关键材料——它们揭示了一个与"孤独天才"神话截然不同的形象：一个深度参与家族事务、与教皇激烈博弈、对助手和朋友充满温情的复杂人物。
+
+His letters were never published during his lifetime but were carefully preserved by descendants. These letters are key materials for understanding Michelangelo's personality and social relationships — they reveal a figure far removed from the "lonely genius" myth: a complex person deeply engaged in family affairs, fiercely negotiating with popes, and showing warmth toward assistants and friends.
+
+## 归属争议 / Attribution Debates
+
+米开朗基罗作品的归属问题一直是学术争论的焦点。由于他在世时即有大量模仿者和助手，加之许多作品处于"未完成"状态，区分真迹、工作室作品和后人之作极为困难。20世纪最重要的归属争议包括：《曼彻斯特圣母》（Manchester Madonna，现藏伦敦国家美术馆）是否为米开朗基罗早期的架上绘画？《耶稣受难像》（Crucifix，现藏佛罗伦萨圣十字教堂）的木制小雕塑是否出自其手？这些问题至今没有定论。
+
+Attribution of Michelangelo's works has been a persistent scholarly debate. Given the numerous imitators and assistants active during his lifetime, plus many works in "unfinished" states, distinguishing autograph works from studio productions and later additions is extremely difficult. Major 20th-century attribution debates include: Is the Manchester Madonna (National Gallery, London) an early panel painting by Michelangelo? Is the wooden Crucifix (Santa Croce, Florence) by his hand? These questions remain unresolved.
+
+## 重要版本与翻译 / Key Editions and Translations
+
+### 书信集 / Letters
+- *The Letters of Michelangelo*, ed. E. Sedgwick Wickham (Oxford, 1963) — 英文书信集标准版
+- *Il Carteggio di Michelangelo*, ed. P. Barocchi & R. Ristori (5 vols, Florence, 1965–1983) — 意大利文全集
+- 米开朗基罗书信选中译本（散见于各类中文传记和文集中）
+
+### 诗集 / Poetry
+- *Rime*, ed. Enzo Noè Girardi (Bari, 1960) — 意大利文标准学术版
+- *The Poetry of Michelangelo*, trans. James M. Saslow (Yale UP, 1993) — 英文全译本
+- 米开朗基罗诗选中译（散见于傅雷译《米开朗基罗传》附录等）
+
+### 作品图录 / Catalogues
+- Charles de Tolnay, *Michelangelo* (5 vols, Princeton UP, 1943–1960) — 百科全书式图录
+- Frederick Hartt, *Michelangelo* (Abrams, 1968; revised editions) — 标准单卷图录
+- Michael Hirst, *Michelangelo and His Drawings* (Yale UP, 1988) — 素描研究权威
+- William E. Wallace, *Michelangelo: The Complete Sculpture, Painting, Architecture* (1998) — 最新综合图录
+
+## 阅读路径 / Reading Paths
+
+**入门 / Introductory**: 《大卫》→ 西斯廷天顶《创造亚当》→《圣母怜子》→ 贡布里希《艺术的故事》相关章节
+
+**进阶 / Intermediate**: 西斯廷天顶全幅 →《最后的审判》→ 奴隶系列（未完成）→ Hibbard传记
+
+**深潜 / Advanced**: 晚期未完成雕塑 → 保利纳礼拜堂壁画 → 建筑项目 → 诗集全集 → de Tolnay五卷本

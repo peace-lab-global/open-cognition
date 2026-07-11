@@ -1,0 +1,138 @@
+---
+id: four-causes
+title: 四因说 · Four Causes
+type: concept
+parent: aristotle
+domain: philosophy
+tags:
+  - metaphysics
+  - causation
+  - natural-philosophy
+---
+
+# 四因说 · Four Causes (Aitia)
+
+> "我们必须探究原因——有多少种，它们是什么性质。" — 《物理学》II.3
+>
+> "We must inquire into causes—how many there are and what their nature is." — *Physics* II.3
+
+---
+
+## 定义 Definition
+
+四因说（Four Causes, aitia）是亚里士多德解释事物存在和变化的核心框架。"原因"（aitia）在亚里士多德的用法中比现代"cause"的含义更广——它指任何"解释"（explanation）一个事物之所以如此的因素。亚里士多德区分了四种原因：质料因、形式因、动力因和目的因。
+
+The Four Causes (*aitia*) is Aristotle's core framework for explaining the existence and change of things. "Cause" (*aitia*) in Aristotle's usage is broader than the modern "cause"—it refers to any "explanation" of why a thing is as it is. Aristotle distinguishes four causes: material, formal, efficient, and final.
+
+---
+
+## 四种原因 The Four Causes
+
+### 1. 质料因 Material Cause (causa materialis)
+**定义**：事物所由构成的材料。
+**Definition**: That from which a thing comes to be.
+**例子**：雕像的质料因是青铜（bronze）；房屋的质料因是砖石。
+**Example**: The material cause of a statue is bronze; of a house, bricks and stone.
+
+### 2. 形式因 Formal Cause (causa formalis)
+**定义**：事物的本质定义或结构模式（logos）。
+**Definition**: The essential definition or structural pattern (*logos*) of a thing.
+**例子**：雕像的形式因是雕塑家心中的设计方案（the plan）；八度的形式因是 2:1 的数学比例。
+**Example**: The formal cause of a statue is the sculptor's design plan; of an octave, the 2:1 mathematical ratio.
+
+### 3. 动力因 Efficient Cause (causa efficiens)
+**定义**：使事物开始存在或发生变化的推动者。
+**Definition**: The agent that initiates the change or coming-to-be of a thing.
+**例子**：雕像的动力因是雕塑家本人；孩子的动力因是父亲。
+**Example**: The efficient cause of a statue is the sculptor; of a child, the father.
+
+### 4. 目的因 Final Cause (causa finalis / telos)
+**定义**：事物存在的目的、终点或"为了什么"（hou heneka）。
+**Definition**: The end, purpose, or "that for the sake of which" (*hou heneka*) a thing exists.
+**例子**：雕像的目的因是装饰（decoration）；散步的目的因是健康（health）。
+**Example**: The final cause of a statue is decoration; of walking, health.
+
+---
+
+## 四因的完整示例 Complete Examples
+
+### 示例一：一座房屋 A House
+
+| 原因 Cause | 内容 Content |
+|-----------|-------------|
+| 质料因 Material | 砖石、木材、灰泥 / Bricks, wood, mortar |
+| 形式因 Formal | 房屋的设计图纸（遮蔽所的结构）/ Blueprint (structure of a shelter) |
+| 动力因 Efficient | 建筑师和工人 / Architect and builders |
+| 目的因 Final | 提供遮蔽和居住 / To provide shelter and habitation |
+
+### 示例二：一个人 A Human Being
+
+| 原因 Cause | 内容 Content |
+|-----------|-------------|
+| 质料因 Material | 血肉骨骼 / Flesh, blood, bones |
+| 形式因 Formal | 灵魂（理性动物的本质定义）/ Soul (essential definition: rational animal) |
+| 动力因 Efficient | 父亲（提供形式原则）/ Father (providing the formal principle) |
+| 目的因 Final | 实现理性活动与幸福（eudaimonia）/ To realize rational activity and eudaimonia |
+
+---
+
+## 自然目的论 vs 机械因果 Natural Teleology vs Mechanical Causation
+
+亚里士多德的四因说特别强调目的因在自然界中的角色，这使他与现代科学方法论产生了根本的分歧：
+
+Aristotle's four causes particularly emphasize the role of the final cause in nature, creating a fundamental divergence with modern scientific methodology:
+
+### 亚里士多德的立场 Aristotle's Position
+自然界的每个过程都有其内在目的（telos）。雨落下是"为了"滋养植物（虽然他也承认有些自然现象是偶然发生的）。生物学中的器官是"为了"实现特定功能而存在的。眼睛是"为了"看而存在的。
+
+Every natural process has an inherent *telos*. Rain falls "for the sake of" nourishing plants (though he acknowledges some natural events are coincidental). Biological organs exist "for the sake of" specific functions. The eye exists "for the sake of" seeing.
+
+### 现代科学的立场 Modern Science's Position
+自培根和笛卡尔以来，现代科学倾向于只接受动力因和质料因（机械因果），排斥目的因。达尔文的自然选择理论提供了不需要"目的"的生物学解释——器官是自然选择的副产品，不是"为了"某个目的而被设计的。
+
+Since Bacon and Descartes, modern science tends to accept only efficient and material causes (mechanical causation), rejecting final causes. Darwin's natural selection provides biological explanations without "purpose"—organs are byproducts of natural selection, not designed "for" any end.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与佛教"缘起"对话 Dialogue with Buddhist "Pratītyasamutpāda" (Dependent Origination)
+
+佛教的"缘起"（pratītyasamutpāda）理论对亚里士多德的四因说构成了一种根本性挑战。缘起论主张一切现象都是因缘条件的聚合，不存在独立的"实体"。在这一框架下：
+- 亚里士多德的"形式因"和"目的因"可能被视为概念的投射（parikalpita），而非客观存在的因果原则。
+- 佛教只承认类似"动力因"的因果关系（因缘生果），但否认事物有内在的"目的"或"本质"。
+
+然而，唯识学的"种子"理论可以被视为对四因说的一种重新诠释——种子（bīja）同时承担了"动力因"（产生结果的力量）和部分"形式因"（决定结果的性质）的功能。
+
+Buddhist *pratītyasamutpāda* (dependent origination) poses a fundamental challenge to Aristotle's four causes. Dependent origination holds that all phenomena are aggregates of conditions, with no independent "substance." In this framework:
+- Aristotle's "formal cause" and "final cause" may be seen as conceptual projections (*parikalpita*), not objective causal principles.
+- Buddhism accepts only efficient-cause-like relations (conditions producing effects) but denies inherent "purpose" or "essence."
+
+However, Yogācāra's "seed" (*bīja*) theory can be seen as a reinterpretation of the four causes—seeds simultaneously serve as "efficient cause" (the force producing effects) and partial "formal cause" (determining the nature of effects).
+
+### 与道家"无为"对话 Dialogue with Daoist "Non-Action"
+
+道家可能质疑亚里士多德目的因中暗含的"有为"倾向——如果万物自然发展（"道法自然"），那么人为设定"目的"是否是一种对自然的干扰？然而，亚里士多德的内在目的论（事物依其本性自然实现其 telos）与道家的"自然"（zìrán）有着深层的共鸣。
+
+Daoism might question the implicit "forcing" (*yǒu wéi*) in Aristotle's final cause—if all things develop naturally ("Dao follows nature"), is human imposition of "purpose" an interference with nature? However, Aristotle's immanent teleology (things naturally realizing their *telos* according to their nature) deeply resonates with Daoist *zìrán* ("self-so").
+
+---
+
+## 当代应用 Contemporary Applications
+
+- **系统论 Systems Theory**：亚里士多德的四因说被重新解读为系统论的早期形态——系统由组件（质料因）、结构（形式因）、过程（动力因）和功能（目的因）构成。
+- **生物学哲学 Philosophy of Biology**：对"功能"（function）概念的讨论中，亚里士多德的目的因被重新审视——器官的"功能"是否隐含了目的论？
+- **AI 可解释性 AI Explainability**：四因说被提议为 AI 决策的"解释框架"——一个 AI 决策可以被从数据（质料因）、算法（形式因）、训练过程（动力因）和目标（目的因）四个维度来解释。
+
+- **Systems theory**: Four causes reinterpreted as early systems theory—system composed of components (material), structure (formal), processes (efficient), function (final).
+- **Philosophy of biology**: Discussion of "function" concept revisits final cause—does an organ's "function" implicitly involve teleology?
+- **AI explainability**: Four causes proposed as an "explanation framework" for AI decisions—explainable from data (material), algorithm (formal), training process (efficient), and objective (final) dimensions.
+
+---
+
+## 相关条目 Related Entries
+
+- [实体论 Substance (Ousia)](substance.md)
+- [幸福论 Eudaimonia](eudaimonia.md)
+- [柏拉图 · 理念论](../plato/concepts/theory-of-forms.md)
+- [亚里士多德 · 亚里士多德](../README.md)

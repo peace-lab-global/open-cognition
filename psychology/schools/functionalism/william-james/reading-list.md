@@ -1,0 +1,99 @@
+---
+id: william-james-reading-list
+title: "詹姆斯推荐阅读 · William James Reading List"
+type: reading-list
+thinker: james-william
+---
+
+# 詹姆斯推荐阅读 · William James Reading List
+
+## 一、原典精读 / Primary Works (Essential Reading)
+
+### 必读 / Must-Read
+
+1. **James, W.** *The Principles of Psychology* (2 vols.). New York: Henry Holt, 1890.（中译本：《心理学原理》，商务印书馆）
+   - 美国心理学奠基之作。意识流、自我的多重层次、习惯的神经基础、情绪的身体理论等核心主题的系统阐述。文学品质极高，至今仍有阅读价值。
+   - Founding work of American psychology. Systematic exposition of stream of consciousness, multiple layers of self, neural basis of habit, bodily theory of emotion. Exceptional literary quality, still readable today.
+
+2. **James, W.** *The Varieties of Religious Experience*. New York: Longmans, Green, 1902.（中译本：《宗教经验种种》，三联书店）
+   - 宗教心理学经典。区分"健康心灵型"与"病态灵魂型"宗教气质，分析神秘经验的四个特征。对当代灵性研究仍有深远影响。
+   - Classic of psychology of religion. Distinguishes "healthy-minded" from "sick soul" temperaments, analyzes four characteristics of mystical experience. Still profoundly influential in contemporary spirituality studies.
+
+3. **James, W.** *Pragmatism: A New Name for Some Old Ways of Thinking*. New York: Longmans, Green, 1907.（中译本：《实用主义》，商务印书馆）
+   - 实用主义哲学的系统阐述。"实用主义方法"和"真理的兑现价值"成为二十世纪美国哲学的标志性话语。
+   - Systematic exposition of pragmatist philosophy. The "pragmatic method" and "cash-value of truth" became signature discourses of twentieth-century American philosophy.
+
+### 推荐阅读 / Recommended
+
+4. **James, W.** *The Will to Believe and Other Essays in Popular Philosophy*. New York: Longmans, Green, 1897.（中译本：《信仰意志》，九州出版社）
+   - 阐述在证据不足时信仰选择的合法性，是理解詹姆斯认识论的关键文本。
+   - Articulates the legitimacy of belief choice when evidence is insufficient; key to understanding James's epistemology.
+
+5. **James, W.** *Essays in Radical Empiricism*. New York: Longmans, Green, 1912.
+   - 遗著。系统阐述激进经验主义，以"纯粹经验"超越主客二元论。预示了现象学和过程哲学的许多主题。
+   - Posthumous. Systematically articulates radical empiricism, transcending dualism through "pure experience." Anticipates many themes in phenomenology and process philosophy.
+
+6. **James, W.** *Talks to Teachers on Psychology and to Students on Some of Life's Ideals*. New York: Henry Holt, 1899.
+   - 将心理学原理应用于教育实践，论述习惯培养与注意力训练。对杜威的教育哲学有直接影响。
+   - Applies psychological principles to education, discussing habit cultivation and attention training. Directly influenced Dewey's educational philosophy.
+
+7. **James, W.** *A Pluralistic Universe*. New York: Longmans, Green, 1909.
+   - 多元论形而上学的系统阐述，反对黑格尔式的一元论和绝对唯心论。
+   - Systematic exposition of pluralistic metaphysics, opposing Hegelian monism and absolute idealism.
+
+## 二、二手研究 / Secondary Research
+
+### 传记与思想研究 / Biography and Intellectual Studies
+
+1. **Richardson, R.D.** *William James: In the Maelstrom of American Modernism*. Boston: Houghton Mifflin, 2006.
+   - 最详尽的现代詹姆斯传记，将思想发展置于美国现代主义的文化语境中。
+   - Most detailed modern James biography, situating intellectual development within the cultural context of American modernism.
+
+2. **Myers, G.E.** *William James: His Life and Thought*. New Haven: Yale University Press, 1986.
+   - 对詹姆斯生平与思想的学术性传记，兼顾心理学与哲学两个维度。
+   - Academic biography of James's life and thought, balancing psychology and philosophy dimensions.
+
+3. **Pawelski, J.O.** *The Dynamic Individualism of William James*. Albany: SUNY Press, 2007.
+   - 探讨詹姆斯个人主义思想的动态特征及其对当代文化的意义。
+   - Explores the dynamic character of James's individualism and its significance for contemporary culture.
+
+### 哲学研究 / Philosophical Studies
+
+4. **Gale, R.M.** *The Philosophy of William James: An Introduction*. Cambridge: Cambridge University Press, 2004.
+   - 对詹姆斯哲学的系统性学术导论，适合哲学专业读者。
+   - Systematic academic introduction to James's philosophy, suitable for philosophy readers.
+
+5. **Putnam, H.** *Pragmatism: An Open Question*. Oxford: Blackwell, 1995.
+   - 普特南对实用主义传统的当代阐释，包含对詹姆斯思想的重要分析。
+   - Putnam's contemporary interpretation of the pragmatist tradition, including important analysis of James's thought.
+
+6. **Seigfried, C.H.** (Ed.). *Feminist Interpretations of William James*. University Park: Penn State University Press, 2001.
+   - 女性主义视角下的詹姆斯思想研究，开辟了新的解读维度。
+   - Feminist perspectives on James's thought, opening new interpretive dimensions.
+
+## 三、中文资源 / Chinese Resources
+
+1. **詹姆斯**《心理学原理》（上下卷）. 商务印书馆. — 中文全译本
+2. **詹姆斯**《宗教经验种种》. 三联书店. — 宗教心理学经典中译
+3. **詹姆斯**《实用主义》. 商务印书馆. — 实用主义哲学系统阐述中译
+4. **刘放桐**《实用主义：从皮尔斯到罗蒂》. 上海人民出版社. — 国内实用主义研究重要著作
+
+## 四、延伸阅读 / Extended Reading
+
+### 实用主义传统 / Pragmatist Tradition
+
+- **Peirce, C.S.** *The Essential Peirce* (2 vols.). Bloomington: Indiana University Press, 1992–1998.
+- **Dewey, J.** *Experience and Nature*. Chicago: Open Court, 1925.
+- **Rorty, R.** *Consequences of Pragmatism*. Minneapolis: University of Minnesota Press, 1982.
+
+### 意识科学与具身认知 / Consciousness Science and Embodied Cognition
+
+- **Damasio, A.R.** *Descartes' Error: Emotion, Reason, and the Human Brain*. New York: Putnam, 1994. — 躯体标记假说继承詹姆斯-兰格理论
+- **Varela, F.J., Thompson, E., & Rosch, E.** *The Embodied Mind: Cognitive Science and Human Experience*. Cambridge, MA: MIT Press, 1991. — 具身认知与现象学的对话
+- **Csikszentmihalyi, M.** *Flow: The Psychology of Optimal Experience*. New York: Harper & Row, 1990. — 心流理论与詹姆斯注意力研究的对话
+
+### 现象学与过程哲学 / Phenomenology and Process Philosophy
+
+- **Merleau-Ponty, M.** *Phenomenology of Perception*. London: Routledge, 1962. — 身体现象学受詹姆斯影响
+- **Whitehead, A.N.** *Process and Reality*. Cambridge: Cambridge University Press, 1929. — 过程哲学与"纯粹经验"的对话
+- **Bergson, H.** *Creative Evolution*. New York: Henry Holt, 1911. — "绵延"与意识流的对话

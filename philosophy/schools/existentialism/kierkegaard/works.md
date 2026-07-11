@@ -1,0 +1,119 @@
+---
+id: kierkegaard-works
+title: 克尔凯郭尔作品总览 · Kierkegaard Works
+type: works-catalogue
+domain: philosophy
+school: existentialism
+thinker: kierkegaard
+tags: [kierkegaard, works, bibliography, pseudonymous, signed]
+cross-refs:
+  - id: kierkegaard
+    relation: thinker
+---
+
+# 克尔凯郭尔作品总览 · Kierkegaard Works
+
+## 总览
+
+克尔凯郭尔在短短十余年的写作生涯中出版了约 20 部著作和大量期刊文章。其著作的核心特征是**假名写作**（Pseudonymitet）：他用不同的假名发表哲学-文学著作，以本名发表宗教著作。这种策略不是伪装，而是**间接沟通**（indirekte Meddelelse）的方法论要求——每个假名代表一种生存立场，读者必须在它们之间做出选择。
+
+## 一、假名著作（Pseudonymous Works）
+
+### 必读五书
+
+| 书名 | 丹麦语 | 假名 | 年份 | 地位 |
+|------|--------|------|------|------|
+| 《非此即彼》 | Enten-Eller | 维克多 · 埃雷米塔编 | 1843 | 存在主义文学的开山之作 |
+| 《恐惧与颤栗》 | Frygt og Baeven | Johannes de Silentio | 1843 | 最短最震撼——亚伯拉罕的信仰悖论 |
+| 《焦虑的概念》 | Begrebet Angest | Vigilius Haufniensis | 1844 | 焦虑的现象学与原罪的心理分析 |
+| 《哲学片段》 | Philosophiske Smuler | Johannes Climacus | 1844 | 信仰认识论的浓缩表达 |
+| 《最后的非科学性附言》 | Afsluttende uvidenskabelig Efterskrift | Johannes Climacus | 1846 | 最重要的哲学著作 |
+
+### 全部假名著作
+
+| 书名 | 丹麦语 | 假名 | 年份 | 主题 |
+|------|--------|------|------|------|
+| 《非此即彼》（两卷） | Enten-Eller | Victor Eremita (编者) | 1843 | 审美者 vs 伦理者 |
+| 《恐惧与颤栗》 | Frygt og Baeven | Johannes de Silentio | 1843 | 信仰的悖论，亚伯拉罕 |
+| 《重复》 | Gjentagelsen | Constantin Constantius | 1843 | 重复 vs 回忆，存在的时间性 |
+| 《哲学片段》 | Philosophiske Smuler | Johannes Climacus | 1844 | 信仰与理性，"教师"的悖论 |
+| 《焦虑的概念》 | Begrebet Angest | Vigilius Haufniensis | 1844 | 焦虑作为自由的可能性 |
+| 《序言》 | Forord | Nicolaus Notabene | 1844 | 讽刺性小品文 |
+| 《人生道路诸阶段》 | Stadier paa Livets Vei | 各种假名 | 1845 | 三阶段的完整呈现 |
+| 《最后的非科学性附言》 | Afsluttende uvidenskabelig Efterskrift | Johannes Climacus | 1846 | "真理即主观性"的系统阐述 |
+| 《危机与女演员生活中的危机》 | Krisen og en Krise i en Skuespillerindes Liv | Inter et Inter | 1848 | 时间性与审美持续 |
+| 《致死的疾病》 | Sygdommen til Deden | Anti-Climacus | 1849 | 绝望的类型学 |
+| 《基督教的实践》 | Indovelse i Christendom | Anti-Climacus | 1850 | 仿效基督的激进性 |
+
+### 假名体系
+
+克尔凯郭尔的假名不是随意的笔名，而是精心设计的**存在立场代言人**：
+
+| 假名 | 丹麦语含义 | 代表的立场 |
+|------|------------|------------|
+| Johannes de Silentio | "沉默的约翰" | 无法理解信仰的旁观者 |
+| Johannes Climacus | "攀登者约翰" | 哲学反思者，非信仰者 |
+| Anti-Climacus | "反攀登者" | 理想化的基督徒（比 Climacus 更高） |
+| Vigilius Haufniensis | "哥本哈根的守望者" | 心理学观察者 |
+| Constantin Constantius | "恒定的康斯坦丁" | 追求重复的审美者 |
+| Victor Eremita | "胜利的隐士" | 编辑者，非参与者 |
+
+## 二、署名著作（Signed Works）
+
+| 书名 | 丹麦语 | 年份 | 主题 |
+|------|--------|------|------|
+| 《论反讽概念》 | Om Begrebet Ironi | 1841 | 博士论文：苏格拉底式反讽 vs 黑格尔 |
+| 《两篇伦理-宗教论文》 | To ethisk-religieuse Smaa-Afhandlinger | 1849 | 有罪？无罪？ / 论天才与使徒的差异 |
+| 《爱的作为》 | Kjerlighedens Gjerninger | 1847 | 基督教之爱（Kjerlighed）vs 情爱（Elskov） |
+| 《基督教讲演集》 | Christelige Taler | 1848 | 直接宗教讲演 |
+| 《百合与飞鸟》 | Lilien paa Marken og Fuglen under Himlen | 1849 | 福音书讲演 |
+| 《大祭司--税吏--女罪人》 | Ypperstepræsten--Tolderen--Synderinden | 1849 | 三篇讲演 |
+| 《自我审察》 | Til Selvprovelse | 1851 | 当代基督教的要求 |
+| 《关于我的作家活动》 | Om min Forfatter-Virksomhed | 1851 | 克尔凯郭尔对自己著作的解释 |
+| 《对基督教的攻击》 | Angreb paa Christendommen | 1854-1855 | 对丹麦国教会的公开批判 |
+
+## 三、期刊 / 论文
+
+| 名称 | 丹麦语 | 年份 | 说明 |
+|------|--------|------|------|
+| 《瞬间》 | Oieblikket | 1855 | 共 10 期——克尔凯郭尔对丹麦国教会的直接攻击；他在发行第 10 期前倒下 |
+| 《祖国报》文章 | Artikler i Fædrelandet | 1854-1855 | 对主教明斯特（Mynster）的批判文章 |
+
+## 四、中译本推荐表
+
+| 著作 | 译者 | 出版社 | 年份 | 评价 |
+|------|------|--------|------|------|
+| 《恐惧与颤栗》 | 刘继 | 华夏出版社 | 1999 | 早期经典译本 |
+| 《非此即彼》（上下） | 汤晨溪 等 | 中国社会科学出版社 | 2009 | 较完整的中译 |
+| 《致死的疾病》 | 京不广 | 中国社会科学出版社 | 2013 | 直接译自丹麦语 |
+| 《哲学片段》《附言》 | 翁绍军 等 | 三联书店 | 2000 | 学术性较强 |
+| 《重复》 | 京不广 | 中国社会科学出版社 | 2013 | 直接译自丹麦语 |
+| 《爱的作为》 | 京不广 | 中国社会科学出版社 | 2014 | 直接译自丹麦语 |
+| 《焦虑的概念》 | 王齐 等 | 中国社会科学出版社 | 2013 | 学术注释较详 |
+
+**英译推荐**：Hong & Hong 编注的 *Kierkegaard's Writings*（Princeton University Press, 26 卷）是目前最权威最完整的英译本。Alastair Hannay 的 Penguin 译本可读性更强，适合入门。
+
+## 五、阅读路径
+
+### 入门路径（2-3 周）
+1. **《恐惧与颤栗》** -- 最短最震撼，理解信仰悖论
+2. **《非此即彼》"审美者的生活观" + "威廉法官的答复"** -- 审美 vs 伦理
+3. **《致死的疾病》第一部分** -- 绝望的类型学
+
+### 系统路径（3-6 月）
+4. **《焦虑的概念》** -- 焦虑与原罪
+5. **《哲学片段》+ 《附言》** -- 信仰认识论
+6. **《重复》** -- 存在的时间性
+7. **《人生道路诸阶段》** -- 三阶段完整呈现
+
+### 深潜路径（持续）
+8. **《爱的作为》** -- 基督教伦理
+9. **《基督教的实践》** -- 仿效基督
+10. **《论反讽概念》** -- 思想起源
+11. **《瞬间》** + 晚期文章 -- 教会批判
+
+### 专题路径
+- **心理学方向**：《焦虑的概念》- 《致死的疾病》- 《非此即彼》"审美者"
+- **神学方向**：《恐惧与颤栗》- 《哲学片段》- 《爱的作为》- 《基督教的实践》
+- **哲学方向**：《论反讽概念》- 《哲学片段》- 《附言》- 《重复》
+- **文学方向**：《非此即彼》"勾引者日记"- 《重复》- 《人生道路诸阶段》

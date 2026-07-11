@@ -1,0 +1,106 @@
+---
+id: mill-higher-lower-pleasures
+title: "高级快乐与低级快乐 · Higher and Lower Pleasures"
+type: concept
+thinker: mill
+domain: ethics-politics
+school: consequentialism
+tags:
+  - higher-pleasures
+  - 高级快乐
+  - lower-pleasures
+  - 低级快乐
+  - quality-of-pleasure
+  - 快乐质量
+  - utilitarianism
+  - 功利主义
+  - eudaimonia
+  - 幸福
+---
+
+# 高级快乐与低级快乐 · Higher and Lower Pleasures
+
+## 概念概述 / Concept Overview
+
+高级快乐与低级快乐的区分是密尔对功利主义伦理学最重要的修正之一。边沁的功利主义将所有快乐视为同质的——它们之间的差别仅在于强度、持续时间、确定性和广度等量的维度。密尔则主张，快乐不仅有量的差异，更有质的区分：某些快乐（如智识的愉悦、审美的享受和道德情感）在本质上高于其他快乐（如感官的满足），这种质的优越性不取决于它们带来的愉悦量。
+
+The distinction between higher and lower pleasures is one of Mill's most important revisions of utilitarian ethics. Bentham's utilitarianism treated all pleasures as homogeneous—differing only in quantitative dimensions like intensity, duration, certainty, and extent. Mill argued that pleasures differ not merely in quantity but in quality: certain pleasures (intellectual delight, aesthetic enjoyment, moral sentiment) are inherently higher than others (bodily satisfactions), and this qualitative superiority does not depend on the quantity of pleasure they produce.
+
+这一区分的哲学意义是深远的：它使功利主义能够回应"猪的哲学"的批评——即功利主义将人类幸福降格为动物性的感官满足。密尔通过引入质的区分，使功利主义能够容纳人类生活中最崇高的价值追求——哲学沉思、艺术创造和道德奉献——同时保持其以幸福为最终标准的功利主义特征。
+
+The philosophical significance of this distinction is profound: it enables utilitarianism to respond to the "philosophy of swine" objection—that utilitarianism reduces human happiness to animalistic sensory gratification. By introducing qualitative distinction, Mill enabled utilitarianism to accommodate humanity's most elevated value pursuits—philosophical contemplation, artistic creation, moral devotion—while maintaining its utilitarian character of taking happiness as the ultimate standard.
+
+## 理论内涵 / Theoretical Content
+
+密尔关于高级与低级快乐区分的核心论证基于"有能力的判断者"（competent judges）标准。他认为，判断两种快乐孰高孰低的标准不是抽象的推理，而是那些同时体验过两种快乐的人的实际偏好。如果绝大多数同时体验过智识快乐和感官快乐的人都偏好前者，那么智识快乐就是在质上更高的快乐。
+
+Mill's core argument for the higher-lower distinction rests on the "competent judges" standard. He held that the criterion for judging which pleasure is higher is not abstract reasoning but the actual preference of those who have experienced both. If the vast majority of those who have experienced both intellectual and sensory pleasures prefer the former, then intellectual pleasures are qualitatively higher.
+
+密尔的经典表述如下："做一个不满足的人胜过做一头满足的猪；做不满足的苏格拉底胜过做一个满足的傻瓜。如果傻瓜或猪认为不然，那是因为他们只知道自己那一面的问题。"这段话包含三个层次的论证：第一，人类的尊严和自我尊重是高级快乐的核心组成部分；第二，高级快乐的价值不仅在于其带来的愉悦感，更在于它塑造了人类特有的品格和生活方式；第三，判断快乐的等级需要具备充分的信息——只有了解两方面的人才有资格做出判断。
+
+Mill's classic formulation runs: "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied. If the fool, or the pig, are of a different opinion, it is because they only know their own side of the question." This passage contains three levels of argument: first, human dignity and self-respect are core components of higher pleasures; second, higher pleasures' value lies not only in the pleasure they produce but in their shaping of distinctively human character and ways of life; third, judging the ranking of pleasures requires adequate information—only those acquainted with both sides are qualified to judge.
+
+然而，这一理论也面临内在的张力。如果"有能力的判断者"偏好某种快乐仅仅是因为它带来更多的满足感，那么质的区分似乎可以还原为量的区分。如果判断者的偏好不仅仅基于满足感，那么密尔似乎在快乐之外引入了独立的价值标准——这又威胁到功利主义以幸福为唯一终极标准的基本主张。
+
+However, this theory faces internal tensions. If "competent judges" prefer a pleasure merely because it produces more satisfaction, the qualitative distinction seems reducible to a quantitative one. If judges' preference is not based solely on satisfaction, Mill seems to introduce an independent value standard beyond pleasure—threatening utilitarianism's basic claim that happiness is the sole ultimate standard.
+
+## 思想史脉络 / Intellectual History
+
+高级与低级快乐的区分并非密尔的独创。柏拉图在《理想国》第九卷中便论证了哲学沉思的快乐高于感官快乐。亚里士多德将理论生活（bios theoretikos）视为最高形式的人类幸福。伊壁鸠鲁虽然被视为享乐主义者，但他同样区分了精神的宁静（ataraxia）和身体的满足（aponia），认为前者更为可贵。
+
+The higher-lower pleasure distinction was not Mill's invention. Plato in *Republic* Book IX argued that philosophical contemplation surpasses sensory pleasure. Aristotle regarded the theoretical life (bios theoretikos) as the highest form of human happiness. Epicurus, though regarded as a hedonist, similarly distinguished mental tranquility (ataraxia) from bodily satisfaction (aponia), considering the former more valuable.
+
+密尔的创新在于将这一古老的等级秩序纳入功利主义框架之中。他试图在坚持"幸福是唯一值得追求的终极目的"这一功利主义基本原则的同时，赋予幸福概念以内在的质的层次性。这一尝试在伦理学史上具有里程碑意义——它展示了功利主义不是必然还原为粗糙的享乐主义。
+
+Mill's innovation was incorporating this ancient hierarchy into a utilitarian framework. He sought to maintain the fundamental utilitarian principle that "happiness is the sole ultimate end worthy of pursuit" while endowing the concept of happiness with internal qualitative hierarchy. This attempt was a milestone in ethical history—demonstrating that utilitarianism need not reduce to crude hedonism.
+
+## 关键文本 / Key Passages
+
+> "Few human creatures would consent to be changed into any of the lower animals for a promise of the fullest allowance of a beast's pleasures; no intelligent human being would consent to be a fool, no instructed person would be an ignoramus, no person of feeling and conscience would be selfish and base."
+>
+> ——密尔，《功利主义》第二章
+> — Mill, *Utilitarianism*, Chapter II
+
+密尔在此论证了人类对"更高等的存在"的内在偏好：即使低级存在可能获得更多的满足感，人类也不会愿意放弃其高级能力。
+
+Mill here argues for humans' inherent preference for "higher existence": even if lower beings might experience more satisfaction, humans would not willingly surrender their higher faculties.
+
+> "A being of higher faculties requires more to make him happy, is capable probably of more acute suffering, and is certainly accessible to it at more points, than one of an inferior type; but in spite of these liabilities, he can never really wish to sink into what he feels to be a lower grade of existence."
+>
+> ——密尔，《功利主义》第二章
+
+这段论述承认了高级能力带来的代价——更高的痛苦敏感性和更多的不满足感——但同时论证了高级存在者不会真正愿意降低其存在的等级。
+
+This passage acknowledges the costs of higher faculties—greater susceptibility to suffering and more points of dissatisfaction—while arguing that higher beings would never truly wish to descend to a lower grade of existence.
+
+## 当代应用 / Contemporary Applications
+
+高级与低级快乐的区分在当代的应用包括：教育政策中对人文教育的辩护（论证阅读莎士比亚比消费娱乐节目更有价值）；文化政策中对高雅艺术的公共资助（论证支持博物馆和交响乐团的社会价值）；发展经济学中对人类发展指数的哲学基础（论证发展不仅仅是物质增长，还包括精神能力的提升）；以及心理学中对"幸福"（happiness）与"意义"（meaning）的区分研究。
+
+Contemporary applications include: justifying liberal arts education in education policy (arguing reading Shakespeare is more valuable than consuming entertainment); supporting public funding for high culture in cultural policy (arguing for the social value of museums and orchestras); providing philosophical foundations for the Human Development Index in development economics (arguing development is not merely material growth but includes elevation of spiritual capacities); and psychological research distinguishing "happiness" from "meaning."
+
+## 批评与回应 / Critiques and Responses
+
+**批评一**：质的区分与功利主义的基本前提不一致——如果快乐是唯一的善，那么判断快乐价值的标准只能是快乐本身，即量的维度。回应：密尔可能主张"快乐"本身是一个异质性概念，包含内在的质的差异，正如"颜色"概念包含内在的色调差异。
+*Critique 1*: Qualitative distinction is inconsistent with utilitarianism's basic premise—if pleasure is the sole good, the standard for valuing pleasure can only be pleasure itself, i.e., quantitative dimensions. *Response*: Mill may argue that "pleasure" is itself a heterogeneous concept containing intrinsic qualitative differences, just as "color" contains intrinsic hue differences.
+
+**批评二**："有能力的判断者"标准是循环论证——我们如何确定谁是"有能力的"？如果标准是他们偏好高级快乐，那就预设了高级快乐的存在。回应：可以通过经验调查（而非规范预设）来识别有能力的判断者。
+*Critique 2*: The "competent judges" standard is circular—how do we identify who is "competent"? If the criterion is their preference for higher pleasures, that presupposes higher pleasures' existence. *Response*: Competent judges may be identified through empirical investigation rather than normative presupposition.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国哲学中，孟子对人禽之辨的论述与密尔的高级/低级快乐区分存在有趣的对应。孟子说："人之所以异于禽兽者几希，庶民去之，君子存之。"他认为人之所以为人，在于其仁义之心——这与密尔所说的"更高等的能力"颇为接近。然而，孟子将这种能力视为道德性的基础，而密尔将其视为快乐的一种形式——这一差异揭示了东西方对人类尊严基础的不同理解。
+
+In Chinese philosophy, Mencius' discussion of the distinction between humans and animals offers an interesting counterpart to Mill's higher/lower distinction. Mencius said: "That by which humans differ from animals is slight; the common people lose it, the noble person preserves it." He held that what makes humans human is their heart of benevolence and righteousness—closely paralleling Mill's "higher faculties." However, Mencius grounded this capacity in morality, while Mill treated it as a form of pleasure—revealing Eastern and Western differences in understanding the basis of human dignity.
+
+佛教对欲乐（kāma-sukha）与法乐（dharma-sukha）的区分也提供了一个有意义的比较维度。佛教认为脱离感官欲望所获得的精神宁静是一种更高层次的幸福，这与密尔对精神快乐的推崇异曲同工。
+
+Buddhism's distinction between sensual pleasure (kāma-sukha) and Dharma-happiness (dharma-sukha) provides another meaningful comparison. Buddhism holds that the mental tranquility achieved by transcending sensory desire constitutes a higher form of happiness, resonating with Mill's elevation of mental pleasures.
+
+## 延伸阅读 / Further Reading
+
+- Mill, J.S. *Utilitarianism*, Chapter II (1863)
+- Crisp, Roger. *Mill on Utilitarianism*, Chapter 3 (Routledge, 1997)
+- Schmidt-Petri, Christoph. "Mill's 'Quality of Pleasures'" in *Utilitas* 17.3 (2005)
+- Riley, Jonathan. "Mill's Qualitative Hedonism" in *Utilitas* 5.2 (1993)
+- 赵敦华《西方哲学简史》中对密尔快乐质量论的分析

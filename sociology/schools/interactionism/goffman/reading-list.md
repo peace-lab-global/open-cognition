@@ -1,0 +1,64 @@
+---
+id: goffman-reading-list
+title: 戈夫曼进阶书单 · Goffman Reading List
+type: reading-list
+domain: sociology
+thinker: goffman
+school: interactionism
+---
+
+# 戈夫曼系统阅读指南 / Goffman Systematic Reading Guide
+
+## 一、入门导读 / Introductory Guides
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Erving Goffman* (1990) | Greg Smith | 简明评传，适合初学者 |
+| *The Goffman Reader* (2008) | Greg Smith (ed.) | 精选文集，含导读 |
+| *Erving Goffman and Modern Sociology* (2016) | Greg Smith | 最新评传 |
+| *Goffman's Legacy* (2006) | Charles Lemert & Ann Branaman (eds.) | 学术遗产评估 |
+
+## 二、原典精读 / Primary Texts
+
+### 第一层：必读文本 / Tier 1: Essential Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《日常生活中的自我呈现》 | 1959 | 拟剧论；前台/后台；印象管理；表演失误 |
+| 《收容所》"On the Characteristics of Total Institutions" 章 | 1961 | 全控机构概念；入院过程；自我之死 |
+| "On Face-Work"（收入《互动仪式》） | 1967 | 面子工作；面子维护与修复策略 |
+| "The Interaction Order"（ASA主席演讲） | 1983 | 戈夫曼理论遗产的总结 |
+
+### 第二层：进阶文本 / Tier 2: Advanced Reading
+| 著作 | 年份 | 阅读重点 |
+|------|------|----------|
+| 《污名》 | 1963 | 污名类型；信息控制；虚拟身份与实际身份 |
+| 《公共场所行为》 | 1963 | 公民不关注；共处规则 |
+| 《框架分析》 | 1974 | 关键化；框架嵌套；经验的组织 |
+| 《性别广告》 | 1979 | 视觉方法；性别仪式化；身体语言 |
+| 《谈话的形式》"Footing" 章 | 1981 | 说话者的脚架；参与框架 |
+
+## 三、深度研究 / Advanced Scholarship
+
+| 书目 | 作者 | 说明 |
+|------|------|------|
+| *Erving Goffman: A Biographical Introduction* (1989) | William S.F. Pickering | 早期传记研究 |
+| *The Sociology of Erving Goffman* (2021) | François Dubet (ed.) | 最新学术评估 |
+| *Framing Theory* (1997) | David Snow & Robert Benford | 框架理论在社会运动中的发展 |
+| *Gender Advertisements Revisited* | various | 《性别广告》的当代重读与延伸 |
+| *The Managed Heart* (1983) | Arlie Hochschild | 情感劳动——戈夫曼印象管理的制度化延伸 |
+
+## 四、当代发展 / Contemporary Developments
+
+| 书目 | 作者 | 领域 |
+|------|------|------|
+| *No Sense of Place* (1985) | Joshua Meyrowitz | 电子媒介如何改变前台/后台边界 |
+| *Context Collapse* (various, 2010s) | danah boyd, Alice Marwick 等 | 社交媒体中的语境崩塌——戈夫曼理论的数字化延伸 |
+| *The Presentation of Self in the Age of Social Media* (2019) | various | 数字自我呈现研究 |
+| *Stigma Revisited* | various | 污名理论在当代身份政治中的应用 |
+| *Erving Goffman: Developing a Modern Perspective* (2020) | Greg Smith | 戈夫曼理论的当代意义 |
+
+## 五、建议阅读顺序 / Suggested Reading Order
+
+**阶段一**（2-3周）: Smith评传 → 《日常生活中的自我呈现》→ "On Face-Work"
+**阶段二**（3-6周）: 《收容所》→ 《污名》→ 《公共场所行为》选读
+**阶段三**（6周+）: 《框架分析》→ 《性别广告》→ 《谈话的形式》"Footing" → "The Interaction Order" → 深度研究

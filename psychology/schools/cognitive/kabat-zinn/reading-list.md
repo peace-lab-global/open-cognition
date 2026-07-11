@@ -1,0 +1,143 @@
+---
+id: psychology.cognitive.kabat-zinn.reading-list
+title: "卡巴金进阶阅读 · Kabat-Zinn Reading List"
+type: reading-list
+parent: psychology.cognitive.kabat-zinn
+thinker: Jon Kabat-Zinn
+domain: psychology
+---
+
+# 卡巴金进阶阅读 · Kabat-Zinn Reading List
+
+---
+
+## 一、原典（卡巴金本人著作） · Primary Sources (Kabat-Zinn's Own Works)
+
+### 必读 · Essential
+
+| 书名 / Title | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|
+| *Full Catastrophe Living* (Revised Edition) | 2013 [1990] | MBSR完整指南，正念运动奠基之作。修订版纳入20年神经科学证据。建议从第2、3、5章开始阅读。 / Complete MBSR guide; foundational text. Revised edition includes 20 years of neuroscience. Start with chapters 2, 3, 5. |
+| *Wherever You Go, There You Are* | 1994 | 日常正念入门，文笔优美，适合所有读者。以短章形式写成，可随时翻阅。 / Everyday mindfulness introduction; beautifully written; accessible for all readers. Short chapters, perfect for intermittent reading. |
+
+### 推荐 · Recommended
+
+| 书名 / Title | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|
+| *Coming to Our Senses* | 2005 | 将正念扩展到感官觉察和全球关怀，视野更为宏大。 / Extended mindfulness to sensory awareness and global care; broader vision. |
+| *Mindfulness for Beginners* | 2012 | 简明正念入门，特别面向初学者。附有引导冥想CD。 / Concise mindfulness introduction for beginners. Includes guided meditation CD. |
+| "Some Reflections on the Origins of MBSR, Skillful Means, and the Trouble with Maps" | 2011 | 卡巴金对MBSR与佛教传统关系的深度反思，回应"McMindfulness"批评。发表于 *Contemporary Buddhism*, 12(1)。 / Kabat-Zinn's deep reflection on MBSR's relationship with Buddhist tradition; responds to "McMindfulness" critiques. Published in *Contemporary Buddhism*, 12(1). |
+| "Mindfulness-Based Interventions in Context: Past, Present, and Future" | 2003 | 正念干预领域的权威综述，发表于 *Clinical Psychology: Science and Practice*, 10(2)。 / Authoritative review of mindfulness-based interventions. *Clinical Psychology: Science and Practice*, 10(2). |
+
+---
+
+## 二、关键学术论文 · Key Academic Papers
+
+| 作者 / Authors | 标题 / Title | 期刊 / Journal | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|:---|
+| Kabat-Zinn, J. | "An outpatient program in behavioral medicine for chronic pain patients..." | *General Hospital Psychiatry* | 1982 | MBSR首篇学术论文 / First MBSR academic paper |
+| Kabat-Zinn, J., Lipworth, L., & Burney, R. | "The clinical use of mindfulness meditation for the self-regulation of chronic pain" | *Journal of Behavioral Medicine* | 1985 | MBSR慢性疼痛临床研究 / MBSR chronic pain clinical study |
+| Kabat-Zinn, J. et al. | "Effectiveness of a meditation-based stress reduction program in the treatment of anxiety disorders" | *American Journal of Psychiatry* | 1992 | MBSR焦虑障碍治疗研究 / MBSR anxiety disorder treatment study |
+| Davidson, R. J. et al. | "Alterations in brain and immune function produced by mindfulness meditation" | *Psychosomatic Medicine* | 2003 | MBSR神经免疫学研究里程碑 / MBSR neuroimmunology milestone |
+| Hölzel, B. K. et al. | "How does mindfulness meditation work? Proposing mechanisms of action from a conceptual and neural perspective" | *Perspectives on Psychological Science* | 2011 | 正念作用机制的理论框架 / Theoretical framework of mindfulness mechanisms |
+| Keng, S.-L., Smoski, M. J., & Robins, C. J. | "Effects of mindfulness on psychological health: A review of empirical studies" | *Clinical Psychology Review* | 2011 | 正念对心理健康效果的实证综述 / Empirical review of mindfulness effects on psychological health |
+| Goyal, M. et al. | "Meditation programs for psychological stress and well-being: A systematic review and meta-analysis" | *JAMA Internal Medicine* | 2014 | 冥想对心理压力的荟萃分析 / Meta-analysis of meditation for psychological stress |
+| Khoury, B. et al. | "Mindfulness-based therapy: A comprehensive meta-analysis" | *Clinical Psychology Review* | 2013 | 正念治疗的综合荟萃分析 / Comprehensive meta-analysis of mindfulness-based therapy |
+
+---
+
+## 三、二手研究与衍生著作 · Secondary Research and Derivative Works
+
+### MBCT与"第三波"CBT · MBCT and "Third-Wave" CBT
+
+| 书名 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.) | Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. | 2013 | MBCT创始教材，将MBSR与CBT融合 / Foundational MBCT textbook; fuses MBSR with CBT |
+| *Mindfulness: A Practical Guide to Finding Peace in a Frantic World* | Williams, M. & Penman, D. | 2011 | MBCT创始人Mark Williams写的正念入门书，附有引导冥想 / MBCT founder Mark Williams's mindfulness introduction with guided meditations |
+| *The Mindful Way Through Depression* | Williams, M., Teasdale, J., Segal, Z., & Kabat-Zinn, J. | 2007 | MBCT自助指南 / MBCT self-help guide |
+
+### 冥想科学 · Contemplative Science
+
+| 书名 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| *Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body* | Goleman, D. & Davidson, R. J. | 2017 | 冥想科学最全面的综述，区分"改变的状态"与"改变的特质" / Most comprehensive review of contemplative science; distinguishes "altered states" from "altered traits" |
+| *The Emotional Life of Your Brain* | Davidson, R. J. & Begley, S. | 2012 | 情绪神经科学与冥想的交集 / Intersection of affective neuroscience and meditation |
+| *Buddha's Brain: The Practical Neuroscience of Happiness, Love, and Wisdom* | Hanson, R. | 2009 | 冥想与神经可塑性的通俗阐述 / Accessible presentation of meditation and neuroplasticity |
+
+### 正念与其他领域 · Mindfulness Across Fields
+
+| 书名 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| *Full Catastrophe Parenting* | Myla & Jon Kabat-Zinn | 2016 | 正念育儿 / Mindful parenting |
+| *Search Inside Yourself* | Tan, C.-M. | 2012 | Google正念项目的创始教材 / Foundational text of Google's mindfulness program |
+| *The Miracle of Mindfulness* | Thich Nhat Hanh（一行禅师） | 1975 | 以诗意语言阐述正念，卡巴金常引用 / Poetic exposition of mindfulness, frequently cited by Kabat-Zinn |
+
+---
+
+## 四、英文资源 · English Resources
+
+### 网站与在线资源 · Websites and Online Resources
+
+| 资源 / Resource | 链接 / Link | 说明 / Notes |
+|:---|:---|:---|
+| Center for Mindfulness (CFM) | umassmemorial.org/center-for-mindfulness | 麻省大学正念中心官方网站，MBSR教师培训信息 / UMass Center for Mindfulness official site; MBSR teacher training info |
+| Mindfulness-Based Intervention Teaching Assessment Criteria (MBI:TAC) | mindfulnessteachersassociation.org.uk | MBSR/MBCT教师能力评估标准 / MBSR/MBCT teacher competency assessment criteria |
+| Oxford Mindfulness Centre | oxfordmindfulness.org | 牛津大学正念研究中心 / Oxford Mindfulness Research Centre |
+| Mindfulness in Schools Project | mindfulnessinschools.org | 学校正念项目资源 / School mindfulness program resources |
+| Mindful Nation UK | themindfulnessinitiative.org | 英国正念国度倡议 / UK Mindful Nation initiative |
+
+### 播客与音频 · Podcasts and Audio
+
+| 资源 / Resource | 说明 / Notes |
+|:---|:---|
+| *On Being* with Krista Tippett — Kabat-Zinn episodes | 多次深度访谈，探讨正念的哲学和科学 / Multiple in-depth interviews on philosophy and science of mindfulness |
+| Sounds True — Kabat-Zinn guided meditations | 卡巴金引导冥想音频 / Kabat-Zinn guided meditation audio recordings |
+| *Ten Percent Happier* podcast — Kabat-Zinn episodes | Dan Harris与卡巴金的对话 / Conversations with Dan Harris |
+
+---
+
+## 五、中文资源 · Chinese Resources
+
+### 译著 · Translated Works
+
+| 书名 / Title | 译者 / Translator | 出版社 / Publisher | 说明 / Notes |
+|:---|:---|:---|:---|
+| 《多舛的生命》(*Full Catastrophe Living*) | 童慧琦 等 | 机械工业出版社 | MBSR完整指南中译本 / Chinese translation of complete MBSR guide |
+| 《正念：此刻是一枝花》(*Wherever You Go, There You Are*) | 雷叔云 | 机械工业出版社 | 日常正念入门中译本 / Chinese translation of everyday mindfulness introduction |
+| 《正念初学者》(*Mindfulness for Beginners*) | — | 橡实文化 | 繁体中文版 / Traditional Chinese edition |
+| 《回到我们的感官》(*Coming to Our Senses*) | — | 橡实文化 | 繁体中文版 / Traditional Chinese edition |
+
+### 中文研究 · Chinese Research Resources
+
+| 书名/文章 / Title | 作者 / Authors | 说明 / Notes |
+|:---|:---|:---|
+| 《正念减压疗法：MBSR理论与实践》 | 温宗堃 等 | 华语圈MBSR教学参考资料 / MBSR teaching reference for Chinese-speaking communities |
+| 《正念：八周静心计划》 | Williams, M. & Penman（中译本） | MBCT入门中文读物 / MBCT introduction in Chinese |
+
+---
+
+## 六、相关领域阅读 · Related Reading
+
+### 佛教正念传统 · Buddhist Mindfulness Traditions
+
+| 书名 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| *Satipaṭṭhāna: The Direct Path to Realization* | Anālayo, B. | 2003 | 四念处的学术性分析 / Scholarly analysis of the Four Foundations of Mindfulness |
+| *The Heart of Buddhist Meditation* | Nyanaponika Thera | 1965 | 上座部正念修行的经典入门 / Classic introduction to Theravāda mindfulness practice |
+| *Mindfulness in Plain English* | Gunaratana, B. H. | 1992 | 内观冥想的通俗指南 / Accessible guide to vipassanā meditation |
+
+### 心理学与哲学背景 · Psychology and Philosophy Background
+
+| 书名 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| *The Relaxation Response* | Benson, H. | 1975 | 放松反应研究，冥想科学研究的先驱 / Relaxation response research; pioneer in meditation science |
+| *Acceptance and Commitment Therapy* | Hayes, S. C., Strosahl, K., & Wilson, K. | 1999 | ACT创始教材，正念与CBT的另一融合路径 / Foundational ACT textbook; another fusion of mindfulness and CBT |
+| *Phenomenology of Perception* | Merleau-Ponty, M. | 1945 | 身体现象学，与身体扫描概念的哲学对话 / Phenomenology of the body; philosophical dialogue with body scan concept |
+
+### 批评与反思 · Critiques and Reflections
+
+| 书名/文章 / Title | 作者 / Authors | 年份 / Year | 说明 / Notes |
+|:---|:---|:---|:---|
+| "McMindfulness" | Purser, R. & Loy, D. | 2013 | 对正念商业化的批评，发表于 *Huffington Post* / Critique of mindfulness commercialization |
+| *McMindfulness: How Mindfulness Became the New Capitalist Spirituality* | Purser, R. | 2019 | 正念商业化批评的系统性阐述 / Systematic critique of mindfulness commercialization |
+| "Is mindfulness research methodology improving (with the science) or getting worse (without the art)?" | Grossman, P. | 2011 | 对正念研究方法论的批评性反思 / Critical reflection on mindfulness research methodology |

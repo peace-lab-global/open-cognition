@@ -1,0 +1,122 @@
+---
+id: hobbes-works
+title: 霍布斯著作总览 · Hobbes Works Bibliography
+type: bibliography
+thinker: hobbes
+domain: ethics-politics
+school: social-contract
+tags: [hobbes, works, bibliography, leviathan, 霍布斯, 著作]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+---
+
+# 霍布斯著作总览 · Hobbes Works Bibliography
+
+## 概述 / Overview
+
+霍布斯一生著述丰富，涵盖政治哲学、自然哲学、数学、光学和古典翻译。其政治著作以《利维坦》为顶峰，构成系统性的国家理论；哲学三部曲（《论体》《论人》《论公民》）则试图以唯物主义为基础重建整个知识体系。以下按时间顺序列出全部重要著作。
+
+Hobbes was a prolific writer whose works span political philosophy, natural philosophy, mathematics, optics, and classical translation. His political writings culminate in *Leviathan*, forming a systematic theory of the state; the philosophical trilogy (*De Corpore*, *De Homine*, *De Cive*) attempts to rebuild all knowledge on a materialist foundation. All major works are listed below in chronological order.
+
+## 一、核心政治著作 / Core Political Works
+
+| 年份 / Year | 原文书名 / Original Title | 中译 / Chinese Translation | 出版信息 / Publisher Info | 意义 / Significance |
+|---|---|---|---|---|
+| 1640 | *The Elements of Law, Natural and Politic* | 《法律原理》 | 手稿流传；1889年首次出版（ed. Ferdinand Tönnies） | 首次阐述自然状态与社会契约概念；因政治敏感而以手稿形式流通。First articulation of state of nature and social contract; circulated as manuscript due to political sensitivity. |
+| 1642 | *Elementa Philosophica de Cive* | 《论公民》 | Paris: apud Matthaeum Dupuis | 首次系统阐述政治理论；拉丁文写作，面向欧洲学术读者。First systematic political theory; written in Latin for European scholarly audience. |
+| 1647 | *De Cive* (2nd edition) | 《论公民》（第二版） | Amsterdam: Elzevir | 增补注释，回应批评。Expanded with notes responding to critics. |
+| 1650 | *Human Nature: or, the Fundamental Elements of Policy* | 《人性论》 | London: printed for Humphrey Moseley | 《法律原理》第一部分的分拆出版（未经霍布斯授权）。First part of *Elements of Law* published separately (without Hobbes's authorization). |
+| 1650 | *De Corpore Politico* | 《论政治体》 | London: printed for Humphrey Moseley | 《法律原理》第二部分的分拆出版。Second part of *Elements of Law* published separately. |
+| 1651 | *Leviathan, or The Matter, Forme and Power of a Common-Wealth Ecclesiasticall and Civil* | 《利维坦》 | London: printed for Andrew Crooke | **英语政治哲学史上最重要的著作**。系统论证自然状态、社会契约和绝对主权。The **most important work in the history of English political philosophy**. Systematic argument for state of nature, social contract, and absolute sovereignty. |
+| 1668 | *Leviathan* (Latin edition) | 《利维坦》（拉丁文版） | Amsterdam: apud Johannem Blaeu | 拉丁文修订版，增加了"附录"回应批评，修改了部分措辞。Revised Latin edition, added "Appendix" responding to critics, modified some phrasing. |
+| 1668 | *Behemoth, or The Long Parliament* | 《比希莫特》 | 手稿；1889年首次出版（ed. Ferdinand Tönnies） | 以对话形式分析英国内战的宗教-政治根源。生前被查理二世禁止出版。Analyzes religio-political roots of the English Civil War in dialogue form. Suppressed by Charles II during Hobbes's lifetime. |
+
+## 二、哲学三部曲 / Philosophical Trilogy
+
+| 年份 / Year | 原文书名 / Original Title | 中译 / Chinese Translation | 主题 / Subject |
+|---|---|---|---|
+| 1642 | *De Cive* | 《论公民》 | 政治哲学 / Political philosophy |
+| 1655 | *De Corpore* | 《论物体》 | 唯物主义形而上学、物理学、几何学 / Materialist metaphysics, physics, geometry |
+| 1658 | *De Homine* | 《论人》 | 光学、感知、人性 / Optics, perception, human nature |
+
+霍布斯原计划先完成《论体》再出版《论公民》，但政治动荡使他提前发表了政治卷。三部曲构成了从物质运动到人类感知再到政治秩序的完整演绎。
+
+Hobbes originally planned to complete *De Corpore* before publishing *De Cive*, but political turmoil led him to publish the political volume first. The trilogy constitutes a complete deductive progression from material motion to human perception to political order.
+
+## 三、《利维坦》结构详解 / Detailed Structure of Leviathan
+
+### 第一部分：论人 / Part I: Of Man (Ch. 1–16)
+- **Ch. 1–5**：感觉、想象、语言的后果、思想的序列、推理 / Sense, Imagination, Consequences of Speech, Train of Thoughts, Reason
+- **Ch. 6–12**：激情、宗教的自然种子、知识、权力 / Passions, Natural Seeds of Religion, Knowledge, Power
+- **Ch. 13**：论人类幸福与苦难的自然状况（自然状态）/ Of the Natural Condition of Mankind (State of Nature)
+- **Ch. 14**：论第一与第二自然法及契约 / Of the First and Second Natural Laws, and of Contracts
+- **Ch. 15**：论其他自然法 / Of Other Laws of Nature
+- **Ch. 16**：论人格、作者与被人代表的事物 / Of Persons, Authors, and Things Personated
+
+### 第二部分：论国家 / Part II: Of Commonwealth (Ch. 17–31)
+- **Ch. 17**：论国家的成因、生成与定义 / Of the Causes, Generation, and Definition of a Commonwealth
+- **Ch. 18**：论主权者的权利 / Of the Rights of Sovereigns
+- **Ch. 19–22**：论政体形式、臣民的自由、政治团体 / Forms of Government, Liberty of Subjects, Political Corporations
+- **Ch. 23–28**：论主权者的顾问、赏罚、国家的疾病 / Counsellors, Rewards and Punishments, Diseases of a Commonwealth
+- **Ch. 29–31**：论国家衰弱或解体的原因、论上帝的自然王国 / Causes of Weakening and Dissolution, Kingdom of God by Nature
+
+### 第三部分：论基督教国家的宗教 / Part III: Of a Christian Commonwealth (Ch. 32–47)
+- 讨论圣经权威、先知、教会权力与国家权力的关系 / Biblical authority, prophets, church power vs. state power
+
+### 第四部分：论黑暗王国 / Part IV: Of the Kingdom of Darkness (Ch. 44–47)
+- 批判天主教会的精神权力主张以及"无稽的哲学" / Critique of Catholic Church's spiritual power claims and "insignificant philosophy"
+
+## 四、翻译作品 / Translations
+
+| 年份 / Year | 原著 / Original | 翻译 / Translation | 备注 / Notes |
+|---|---|---|---|
+| 1628 | 修昔底德《伯罗奔尼撒战争史》 | *Eight Books of the Peloponnesian Warre* | 从希腊文译为英文；深刻影响其政治现实主义思想。Translated from Greek; profoundly influenced his political realism. |
+| 1673 | 荷马《伊利亚特》 | *The Iliads of Homer* | 晚年翻译 / Translated in old age |
+| 1675 | 荷马《奥德赛》 | *The Odysseys of Homer* | 晚年翻译 / Translated in old age |
+
+## 五、其他重要著作 / Other Important Works
+
+| 年份 / Year | 书名 / Title | 主题 / Subject |
+|---|---|---|
+| 1654 | *Of Liberty and Necessity* | 《论自由与必然》——与布拉姆霍尔主教的论战 / Debate with Bishop Bramhall on free will |
+| 1655 | *Six Lessons to the Professors of the Mathematics* | 《数学教授六课》——与沃利斯的数学论战 / Mathematical dispute with Wallis |
+| 1660 | *Considerations upon the Reputation, Loyalty, Manners, and Religion of Thomas Hobbes* | 自我辩护 / Self-defense against critics |
+| 1666 | *A Dialogue between a Philosopher and a Student of the Common Laws of England* | 法哲学对话 / Dialogue on legal philosophy |
+| 1672 | *The History of the Grecian War* (revised) | 修昔底德译本修订 / Revised Thucydides translation |
+| 1681 | *Historia Ecclesiastica* | 教会史（去世后出版）/ Ecclesiastical history (posthumous) |
+
+## 六、中译本推荐 / Recommended Chinese Translations
+
+| 原著 / Original | 中译 / Chinese Translation | 译者 / Translator | 出版 / Publisher |
+|---|---|---|---|
+| *Leviathan* | 《利维坦》 | 黎思复、黎廷弼 | 商务印书馆, 1985 |
+| *De Cive* | 《论公民》 | 徐志栋 | 华东师范大学出版社 |
+| *Leviathan* (selections) | 《利维坦》（选译） | 多种 | 各类选集 / Various anthologies |
+
+## 七、推荐学术版本 / Recommended Scholarly Editions
+
+| 著作 / Work | 推荐版本 / Recommended Edition | 备注 / Notes |
+|---|---|---|
+| *Leviathan* | C.B. Macpherson ed., Penguin Classics (1985) | 最广泛使用的英文版本 / Most widely used English edition |
+| *Leviathan* | Noel Malcolm ed., Clarendon Edition (2012) | 三卷本学术权威版 / Three-volume authoritative scholarly edition |
+| *De Cive* | Richard Tuck ed., Cambridge (1998) | 附有重要导言和注释 / With important introduction and notes |
+| *The Elements of Law* | J.C.A. Gaskin ed., Oxford World's Classics (1994) | 最佳现代版本 / Best modern edition |
+| *Behemoth* | Ferdinand Tönnies ed., revised by M.M. Goldsmith (1969) | 标准学术版 / Standard scholarly edition |
+
+## 八、阅读路径 / Reading Paths
+
+### 入门 / Introductory
+1. 《利维坦》Ch. 13（自然状态）+ Ch. 14（契约与自然法）
+2. 《利维坦》Ch. 17–18（国家的生成与主权者）
+
+### 进阶 / Intermediate
+3. 《利维坦》Ch. 1–12（人性论基础）
+4. 《利维坦》Ch. 21（臣民的自由）
+5. 《利维坦》Ch. 29–31（国家解体）
+
+### 深潜 / Advanced
+6. 《利维坦》全书 / *Leviathan* complete
+7. 《论公民》/ *De Cive*
+8. 《比希莫特》/ *Behemoth*
+9. 《法律原理》/ *The Elements of Law*

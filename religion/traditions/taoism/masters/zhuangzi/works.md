@@ -1,0 +1,91 @@
+---
+id: zhuangzi-works
+title: 庄子作品总览 / Works of Zhuangzi
+type: catalogue
+domain: religion
+school: taoism
+thinker: zhuangzi
+parent: README.md
+---
+
+# 庄子作品总览 / Works of Zhuangzi
+
+## 《庄子》三十三篇 / The Thirty-Three Chapters
+
+### 内篇（7篇，核心）/ Inner Chapters (7, Core)
+
+| 篇名 Chapter | 拼音 Pinyin | 英译 English | 核心主题 Theme |
+|------|------|------|----------|
+| 逍遥游 | Xiaoyao You | Free and Easy Wandering | 从鲲鹏到无待——绝对自由的哲学 |
+| 齐物论 | Qi Wu Lun | On the Equality of Things | 相对主义、蝴蝶梦、天籁 |
+| 养生主 | Yang Sheng Zhu | The Secret of Caring for Life | 庖丁解牛——技艺与无为 |
+| 人间世 | Ren Jian Shi | In the World of Men | 乱世中的处世智慧——心斋、无用之用 |
+| 德充符 | De Chong Fu | Signs of Virtue Complete | 形残而德全的"畸人" |
+| 大宗师 | Da Zong Shi | The Great Ancestral Teacher | 道为万物之宗，坐忘与道化 |
+| 应帝王 | Ying Di Wang | Responding to Kings | 无为而治——浑沌寓言 |
+
+### 外篇（15篇）/ Outer Chapters (15)
+
+| 篇名 Chapter | 核心主题 Theme |
+|------|----------|
+| 骈拇 | 批判儒家仁义的"多余" — Critiquing Confucian benevolence as "superfluous" |
+| 马蹄 | 自然状态与人为干预 — Natural state vs. human interference |
+| 胠箧 | "绝圣弃知"——政治激进主义 — "Abandon sagacity, discard cleverness" |
+| 在宥 | "无为"政治哲学 — Wu-wei as political philosophy |
+| 天地 | 道的宇宙论 — Cosmology of the Dao |
+| 天道 | 天道与人道 — Heavenly Dao and Human Dao |
+| 天运 | 命运的哲学 — Philosophy of fate |
+| 刻意 | 批判刻意修行 — Critique of deliberate cultivation |
+| 缮性 | 修养与自然 — Cultivation and naturalness |
+| 秋水 | 河伯与海神——知识的相对性 — The River God and the Sea God |
+| 至乐 | 鼓盆而歌——生死观 — Ultimate happiness: views on life and death |
+| 达生 | 通达生命之道 — Penetrating the way of life |
+| 山木 | 无用与有用的悖论 — The paradox of usefulness and uselessness |
+| 田子方 | 艺术与自然 — Art and nature |
+| 知北游 | "道"不可知——气化论 — The unknowability of the Dao |
+
+### 杂篇（11篇）/ Mixed Chapters (11)
+
+| 篇名 Chapter | 核心主题 Theme |
+|------|----------|
+| 庚桑楚 | 道德修养 — Moral cultivation |
+| 徐无鬼 | 无为政治 — Wu-wei governance |
+| 则阳 | 自然哲学 — Natural philosophy |
+| 外物 | "得意忘言"——语言哲学 — Getting the meaning and forgetting the words |
+| 寓言 | 寓言、卮言、重言的言说策略 — Parables, goblet-words, borrowed words |
+| 让王 | 辞让天下的故事集 — Stories of declining the throne |
+| 盗跖 | 批判儒家的"伪善" — Critique of Confucian hypocrisy |
+| 说剑 | 政治寓言 — Political parable |
+| 渔父 | 道家与儒家的对照 — Daoist and Confucian contrast |
+| 列御寇 | 修养与境界 — Cultivation and attainment |
+| 天下 | 中国最早的学术史综述 — China's earliest survey of intellectual history |
+
+## 重要注疏 / Major Commentaries
+
+| 注疏 Commentary | 作者 Author | 年代 Date | 特点 Features |
+|------|------|------|------|
+| 《庄子注》 | 郭象 Guo Xiang | 魏晋 (d. 312) | 确立三十三篇定本，"独化"论阐释 |
+| 《庄子疏》 | 成玄英 Cheng Xuanying | 唐代 Tang | 道教化的注释 |
+| 《庄子集释》 | 郭庆藩 Guo Qingfan | 清代 Qing | 汇集历代注释 |
+| 《庄子集解》 | 王先谦 Wang Xianqian | 清代 Qing | 简洁精要 |
+| 《庄子今注今译》 | 陈鼓应 Chen Guying | 1983/2009 | 当代最佳注释本 |
+
+## 重要译本 / Major English Translations
+
+| 译本 Translation | 译者 Translator | 出版社 Publisher | 年份 Year | 特点 Features |
+|------|------|--------|------|------|
+| *The Complete Works of Chuang Tzu* | Burton Watson | Columbia UP | 1968 | 经典全译 Classic complete |
+| *Chuang-tzu: The Inner Chapters* | A.C. Graham | Hackett | 2003 | 内篇翻译，学术性强 |
+| *Zhuangzi: The Complete Writings* | Brook Ziporyn | Hackett | 2020 | 最新全译，注释丰富 |
+| *The Way of Zhuangzi* | Thomas Merton | New Directions | 1965 | 诗人译本（非学术）|
+| *Wandering on the Way* | Victor H. Mair | U of Hawaii | 1994 | 流畅可读 |
+
+## 推荐入门顺序 / Recommended Reading Order
+
+1. 《逍遥游》— 庄子思想的总纲 / The general thesis of Zhuangzi's thought
+2. 《齐物论》— 蝴蝶梦、天籁、相对主义 / Butterfly dream, piping of Heaven, relativism
+3. 《养生主》— 庖丁解牛（最短）/ Cook Ding (shortest chapter)
+4. 《人间世》— 心斋、无用之用 / Fasting of the mind, usefulness of uselessness
+5. 《秋水》— 河伯与海神 / River God and Sea God
+6. 《大宗师》— 坐忘与道化 / Sitting-forgetting and transformation with the Dao
+7. 《山木》— 材与不材之间 / Between worth and worthlessness

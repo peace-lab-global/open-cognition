@@ -1,0 +1,89 @@
+---
+id: seligman-timeline
+title: "生平大事年表 · Life Timeline"
+type: timeline
+thinker: seligman-martin
+domain: psychology
+school: positive
+---
+
+# 生平大事年表 · Life Timeline
+
+## 早年与教育 / Early Life and Education
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1942 | 8月12日出生于美国纽约州奥尔巴尼（Albany, New York）/ Born in Albany, New York |
+| 1950s | 在纽约州成长，就读公立学校 / Grew up in New York State, attended public schools |
+| 1960 | 进入普林斯顿大学（Princeton University），主修哲学 / Entered Princeton, majored in philosophy |
+| 1964 | 获普林斯顿大学文学士学位（A.B.），以优异成绩毕业 / Received A.B. from Princeton, graduated with honors |
+| 1964 | 进入宾夕法尼亚大学攻读心理学博士 / Entered University of Pennsylvania for PhD in psychology |
+
+## 学术突破 / Academic Breakthroughs
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1967 | 与Steven Maier完成「穿梭箱实验」，首次证明习得性无助 / Completed shuttle-box experiment with Steven Maier, first demonstration of learned helplessness |
+| 1970 | 获宾夕法尼亚大学心理学博士学位 / Received PhD in psychology from University of Pennsylvania |
+| 1970–1972 | 在宾夕法尼亚大学进行博士后研究，将习得性无助扩展到人类 / Postdoctoral research at Penn, extending learned helplessness to humans |
+| 1975 | 出版《无助：论抑郁、发展与死亡》（*Helplessness*）——习得性无助理论的系统著作 / Published *Helplessness*—systematic treatise on learned helplessness theory |
+| 1976 | 被任命为宾夕法尼亚大学心理学系教授 / Appointed professor at University of Pennsylvania Psychology Department |
+| 1978 | 与Abramson和Teasdale发表归因修正版论文——引入「解释风格」概念 / Published attributional reformulation paper with Abramson and Teasdale—introducing "explanatory style" |
+
+## 从无助到乐观 / From Helplessness to Optimism
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1984 | 开发CAVE方法——通过分析自然语言评估解释风格 / Developed CAVE method—assessing explanatory style through natural language analysis |
+| 1990 | 出版《习得性乐观》（*Learned Optimism*）——将认知训练技术带给大众 / Published *Learned Optimism*—bringing cognitive training techniques to the public |
+| 1991 | 出版《乐观儿童》（*The Optimistic Child*）——儿童乐观教育和抑郁预防 / Published *The Optimistic Child*—children's optimism education and depression prevention |
+| 1995 | 出版《什么能改变什么不能改变》（*What You Can Change and What You Can't*）/ Published *What You Can Change and What You Can't* |
+| 1995 | 启动Penn Resiliency Program（宾州韧性计划）——在学校中教授乐观技能 / Launched Penn Resiliency Program—teaching optimism skills in schools |
+
+## 积极心理学运动 / The Positive Psychology Movement
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1998 | 当选美国心理学会（APA）主席——任期一年（1998–1999）/ Elected president of APA—one-year term |
+| 1998 | 在APA主席就职演说中提出「心理学需要研究优势和美德」/ Presidential address calling for psychology to study strengths and virtues |
+| 1999 | Akumal会议（墨西哥）——与Csikszentmihalyi达成共识，规划积极心理学 / Akumal conference (Mexico)—reached consensus with Csikszentmihalyi on positive psychology |
+| 2000 | 与Csikszentmihalyi在《美国心理学家》发表联合宣言「Positive Psychology: An Introduction」/ Published joint manifesto with Csikszentmihalyi in *American Psychologist* |
+| 2002 | 出版《真实幸福》（*Authentic Happiness*）——提出幸福三维度模型 / Published *Authentic Happiness*—proposing three-dimensional happiness model |
+| 2003 | 创立宾夕法尼亚大学积极心理学中心（Penn Positive Psychology Center）/ Founded Penn Positive Psychology Center |
+| 2004 | 与Christopher Peterson出版《性格优势与美德》（CSV）——积极心理学的「DSM」/ Published *Character Strengths and Virtues* with Peterson—the "DSM" of positive psychology |
+| 2005 | 首届世界积极心理学大会在华盛顿特区召开 / First World Congress on Positive Psychology in Washington, D.C. |
+| 2006 | 《积极心理学杂志》（*Journal of Positive Psychology*）创刊 / *Journal of Positive Psychology* launched |
+| 2009 | 国际积极心理学协会（IPPA）成立 / International Positive Psychology Association (IPPA) founded |
+
+## 蓬勃发展与后期 / Flourishing and Later Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 2009–2011 | 与美国军方合作开发「全面士兵健康」（Comprehensive Soldier Fitness）项目 / Co-developed Comprehensive Soldier Fitness program with U.S. military |
+| 2011 | 出版《蓬勃发展》（*Flourish*）——提出PERMA模型，从「幸福」转向「蓬勃发展」/ Published *Flourish*—proposing PERMA model, shifting from "happiness" to "flourishing" |
+| 2012 | Christopher Peterson去世——塞利格曼最重要的合作者 / Christopher Peterson passed away—Seligman's most important collaborator |
+| 2013 | 发布PERMA-Profiler——标准化的幸福测量工具 / Released PERMA-Profiler—standardized well-being measurement tool |
+| 2014– | 推动「积极教育」在全球学校中的实施 / Promoting positive education in schools worldwide |
+| 2016 | 与Maier发表50周年回顾论文——基于神经科学修正习得性无助理论 / Published 50th anniversary review with Maier—revising learned helplessness based on neuroscience |
+| 2018 | 出版自传《希望回路》（*The Hope Circuit*）/ Published autobiography *The Hope Circuit* |
+| 2019 | 与Railton和Gilbert发表「Prospective Psychology」——将「预期」作为心理学核心 / Published "Prospective Psychology" with Railton and Gilbert |
+| 2020s | 探索大数据和AI在测量和促进蓬勃发展中的应用 / Exploring big data and AI applications in measuring and promoting flourishing |
+
+## 个人生活 / Personal Life
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1969 | 第一次婚姻（后离婚）/ First marriage (later divorced) |
+| 1993 | 与Mandy McCarthy结婚——育有五个孩子 / Married Mandy McCarthy—five children |
+| — | 业余爱好：桥牌（曾是世界级的桥牌选手）/ Hobby: bridge (was a world-class bridge player) |
+| — | 居住在宾夕法尼亚州和纽约市 / Resides in Pennsylvania and New York City |
+
+## 学术荣誉 / Academic Honors
+
+| 年份 / Year | 荣誉 / Honor |
+|---|---|
+| — | 美国心理学会（APA）终身成就奖 / APA Lifetime Achievement Award |
+| — | 美国心理科学协会（APS）William James Fellow Award |
+| — | 宾夕法尼亚大学 Zellerbach Family Professor of Psychology |
+| — | 著作被引超过100,000次，h-index > 100 / Citations exceeding 100,000, h-index > 100 |
+| — | 当选美国国家医学院院士 / Elected to the National Academy of Medicine |

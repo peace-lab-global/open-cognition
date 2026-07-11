@@ -1,0 +1,130 @@
+---
+id: joyce-reading-list
+title: 乔伊斯进阶阅读 · Joyce Reading List
+type: reading-list
+domain: literature
+school: novelists
+thinker: joyce
+tags: [joyce, bibliography, reading-guide, modernism]
+cross-refs:
+  - id: joyce
+    relation: thinker
+---
+
+# 乔伊斯进阶阅读 · Joyce Reading List
+
+## 一、阅读路径
+
+### 入门（3 篇 + 1 章，6 小时）
+1. 《都柏林人》：《阿拉比》《伊芙琳》《死者》
+2. 《画像》第 4 章 — 显灵场景
+
+### 进阶（全书精读，50 小时）
+3. 《都柏林人》全书
+4. 《一个青年艺术家的画像》全书
+5. 《尤利西斯》第 1、4、6、12、18 章
+
+### 深潜（全书 + 批评，200+ 小时）
+6. 《尤利西斯》全书（配合吉尔伯特指南）
+7. 《芬尼根的守灵夜》选章 + 坎贝尔导读
+8. 艾柯《乔伊斯的诗学》
+9. 艾略特《尤利西斯、秩序与神话》
+
+## 二、原典（必读）
+
+### 核心著作
+- *Dubliners* (1914) — 15 篇短篇小说，瘫痪主题
+- *A Portrait of the Artist as a Young Man* (1916) — 成长小说，意识演化
+- *Ulysses* (1922) — 现代主义史诗
+- *Finnegans Wake* (1939) — 语言实验的极限
+
+### 重要辅助
+- *Stephen Hero* (1944) — 《画像》前身，包含"显灵"理论
+- *Exiles* (1918) — 唯一剧本
+- *Chamber Music* (1907) — 早期诗歌
+
+### 中译本推荐
+- 萧乾、文洁若 译《尤利西斯》（译林出版社）— 中文世界最通行译本
+- 金隄 译《尤利西斯》（人民文学出版社）— 另一种风格
+- 戴从容 译《芬尼根的守灵夜》（上海人民出版社）— 中文首部全译本
+- 王逢振 译《都柏林人》（上海译文出版社）
+
+## 三、传记
+
+### 经典传记
+- **Ellmann, Richard** *James Joyce* (1959/1982 revised) — 最权威的乔伊斯传记，现代传记学的典范
+- **Bowker, Gordon** *James Joyce: A New Biography* (2011) — 21 世纪新传记
+
+### 相关传记
+- **Maddox, Brenda** *Nora: A Biography of Nora Joyce* (1988) — 诺拉的传记
+- **Shloss, Carol Loeb** *Lucia Joyce: To Dance in the Wake* (2003) — 女儿的传记
+
+### 中文传记
+- 理查德·艾尔曼《詹姆斯·乔伊斯》（中译本）
+
+## 四、批评与研究
+
+### 经典研究
+- **Gilbert, Stuart** *James Joyce's Ulysses* (1930) — 最早的《尤利西斯》系统研究，含荷马对应表
+- **Eco, Umberto** *The Aesthetics of Chaosmos* (1962/1989) — 从美学和符号学角度分析乔伊斯
+- **Campbell, Joseph & Henry Morton Robinson** *A Skeleton Key to Finnegans Wake* (1944) — 《芬尼根》最早的导读
+
+### 当代研究
+- **Kiberd, Declan** *Ulysses and Us* (2009) — 面向普通读者的精彩导读
+- **Norris, Margot & Vincent Sherry** eds. *A Companion to James Joyce* (2012)
+- **Attridge, Derek** *Joyce Effects: On Language, Theory, and History* (2000)
+- **Gottfried, Roy** *Joyce's Misreading* (2020)
+
+### 中文研究
+- 袁德成《乔伊斯：叙述他的民族——从一种民族主义到另一种民族主义》
+- 刘象愚《乔伊斯与〈尤利西斯〉》
+
+## 五、乔伊斯的思想源头
+
+- **易卜生** — 戏剧革新、个人反抗社会
+- **阿奎那** — 经院哲学的美学（integritas, consonantia, claritas）
+- **荷马** — 《奥德赛》的叙事结构
+- **但丁** — 《神曲》的结构与贝雅特丽齐的形象
+- **莎士比亚** — 哈姆雷特、斯蒂芬的莎士比亚论文
+- **维科** — 《新科学》的历史循环论
+- **布鲁诺** — "对立面的一致"
+
+## 六、乔伊斯的下游
+
+### 文学
+- **福克纳** — 《喧哗与骚动》的意识流和神话结构
+- **贝克特** — 语言的极限与沉默（乔伊斯的文学助手和弟子）
+- **纳博科夫** — 语言游戏与迷宫叙事
+- **博尔赫斯** — 迷宫式叙事、百科全书式小说
+- **品钦** — 《万有引力之虹》的百科全书式叙事
+- **拉什迪** — 《午夜之子》的神话方法
+- **德里罗** — 《地下世界》的当代史诗
+
+### 哲学与理论
+- **德里达** — 解构主义与《芬尼根》的多义性
+- **艾略特** — "神话方法"的命名与《荒原》的结构
+- **巴赫金** — 对话理论与狂欢化
+
+### 音乐与艺术
+- **塞缪尔·巴伯** — 以乔伊斯诗歌创作的音乐
+- **约翰·凯奇** — 实验音乐与语言的声音性
+- **毕加索** — 曾为《芬尼根》作插画
+
+## 七、研究工具
+
+- **James Joyce Centre** (dublin) — 都柏林的乔伊斯中心
+- **James Joyce Quarterly** — 主要学术期刊
+- **International James Joyce Foundation**
+- **The Joyce Project** (online annotated Ulysses)
+- **Finnegans Wake Notebooks** — 乔伊斯的手稿笔记本
+
+## 八、阅读顺序建议
+
+| 目标 | 推荐顺序 |
+|---|---|
+| 快速了解**乔伊斯的精髓** | 《死者》→ 《画像》第 4 章 → 艾略特论文 |
+| 深入**《尤利西斯》** | Kiberd 导读 → 全书 → Gilbert |
+| 理解**语言实验** | 《画像》→ 《尤利西斯》第 14 章 → 《芬尼根》选章 |
+| 了解**爱尔兰背景** | 《都柏林人》全书 → Kiberd → 叶芝 |
+| **中文读者**入门 | 萧乾译《尤利西斯》选章 → 刘象愚 → 袁德成 |
+| 探索**神话方法** | 荷马《奥德赛》→ 《尤利西斯》→ 艾略特《荒原》 |

@@ -1,0 +1,38 @@
+---
+id: tagore-aesthetics-reading-list
+title: 泰戈尔进阶阅读
+type: reading-list
+domain: aesthetics
+school: literary-thought
+thinker: tagore
+tags: [tagore, bibliography, reading-guide]
+cross-refs:
+  - id: tagore
+    relation: thinker
+---
+
+# 泰戈尔进阶阅读
+
+## 原典
+- *Gitanjali* (1912) — 灵性诗歌
+- *Nationalism* (1917) — 民族主义批判
+- *The Religion of Man* (1931) — 人文宗教
+
+## 传记
+- **Dutta & Robinson** *Rabindranath Tagore: The Myriad-Minded Man* (1995)
+
+## 批评与研究
+- **Sen, Amartya** *The Argumentative Indian* (2005)
+- **Bhattacharya, Sabyasachi** *Rabindranath Tagore: An Interpretation* (2011)
+
+## 中译本
+- 冰心 译《吉檀迦利》《飞鸟集》
+- 阿马蒂亚·森《泰戈尔与他的印度》
+
+## 阅读顺序
+| 目标 | 推荐 |
+|---|---|
+| 灵性诗歌 | 《吉檀迦利》 |
+| 社会批判 | 《民族主义》 |
+| 哲学思想 | 《人的宗教》 |
+| 全面了解 | Dutta & Robinson 传记 |

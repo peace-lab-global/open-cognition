@@ -1,0 +1,166 @@
+---
+id: jizang-emptying-emptiness
+title: "重空 / Emptying Emptiness: 空亦复空的递归否定"
+type: concept
+parent: jizang
+domain: religion
+school: buddhism-sanlun
+tags: [emptiness-of-emptiness, sunyata-sunyata, recursive-negation, Sanlun, anti-essentialism, double-negation]
+---
+
+# 重空 / Emptying Emptiness
+
+## 定义 / Definition
+
+**重空**（空亦复空，梵文 sunyata-sunyata）是吉藏三论宗对空性最深刻的洞见：空性本身也是空的。"空"不是一个终极实体，不是替代"有"的另一种本体论——它只是对"自性" (svabhava) 的否定。如果将"空"理解为某种实有的状态或终极的真实，那么"空"本身就成为需要被空掉的对象。吉藏将这一递归否定称为"重空"或"空空"——对空性的再次空化。
+
+**Double Emptiness** (Chinese: chongkong; Sanskrit: sunyata-sunyata) is Jizang's most profound insight regarding emptiness: emptiness itself is empty. "Emptiness" is not an ultimate entity, not an alternative ontology replacing "existence" — it is merely the negation of self-nature (svabhava). If "emptiness" is understood as some kind of real state or ultimate truth, then "emptiness" itself becomes an object that needs to be emptied. Jizang terms this recursive negation "double emptiness" or "emptiness of emptiness" — the re-emptying of emptiness itself.
+
+## 文本来源 / Textual Sources
+
+### 龙树的"空空"
+
+龙树在《中论》中明确提出空亦复空的原则：
+
+**《中论》24.11**: "若人见有空，诸佛所不化。"（Those who see emptiness [as a thing] are incurable according to all Buddhas.）
+
+**《中论》13.7**: "大圣说空法，为离诸见故；若复见有空，诸佛所不化。"
+
+龙树的警告是明确的：空性是一剂"药"，用来治疗"有见"的"病"——病好了之后，如果还执着于"药"（空），那"药"本身就成了新的"病"。
+
+### 般若经典中的"空空"
+
+《大般若经》列出"十八空"，其中"空空" (sunyata-sunyata) 是重要的一种——对空性的空化。这一传统为吉藏的"重空"提供了经典依据。
+
+### 吉藏的阐发
+
+吉藏在《中观论疏》和《大乘玄论》中系统阐发了"重空"的思想：
+
+- **空**: 破除"有"的执着
+- **空空**: 破除对"空"的执着
+- **重空**: 空与空空的双重否定，达到"言忘虑绝"的超越状态
+
+## 重空的逻辑结构 / Logical Structure of Double Emptiness
+
+### 递归否定的三阶段
+
+吉藏的"重空"可以分析为三个逻辑阶段：
+
+**阶段一：执有 → 说空**
+- 众生执着诸法实有
+- 以"空"来破除"有"的执着
+- "空"是对治"有"的药方
+
+**阶段二：执空 → 空空**
+- 修行者开始执着于"空"
+- 将"空"视为某种真实的境界或终极真理
+- 以"空空"来破除对"空"的执着
+- "空空"是对治"空执"的药方
+
+**阶段三：空亦复空 → 中道**
+- 超越"空"与"有"的对立
+- 也超越"空空"与"空"的对立
+- 达到"重空"——连"空空"也不执着
+- 这是真正的中道：不住有，不住空，不住非有非空
+
+### 与药喻的关系
+
+吉藏沿用佛教经典的"药喻"来解释重空：
+
+| 比喻 | 对应 |
+|------|------|
+| 病 (disease) | 对"有"的执着 |
+| 药 (medicine) | "空"的教说 |
+| 药病 (medicine-disease) | 对"空"的执着（药变成了新的病） |
+| 新药 (new medicine) | "空空"——对空执的破除 |
+| 病愈药弃 (recovery) | 病好了，药也要舍弃 |
+
+关键洞见：**空是药，不是病；但执着于空，药就变成了病。空空是新药，但如果执着于空空，新药又变成了病。** 如此层层超越，直到一切执着消除——这就是"重空"的真义。
+
+## 重空与言教二谛的关系 / Relationship to Pedagogical Two Truths
+
+重空与吉藏的言教二谛密切相关：
+
+- **第一重二谛**: 有（世俗）→ 空（胜义）——破除"有"的执着
+- **第二重二谛**: 有空（世俗）→ 非有非空（胜义）——破除对"空"的执着（重空）
+- **第三重二谛**: 二与不二（世俗）→ 非二非不二（胜义）——破除对"中道"的执着
+- **第四重二谛**: 一切言说（世俗）→ 言忘虑绝（胜义）——超越一切教说
+
+重空发生在第二重二谛——它是从第一重（空）到第三重（非有非空）的过渡环节。在四重二谛的框架中，重空是层层超越过程中的关键一步。
+
+## 与各哲学传统的对话 / Dialogue with Philosophical Traditions
+
+### 德里达的"在擦除下写作" Writing Under Erasure
+
+德里达的"sous rature"（在擦除下写作）策略与重空有深刻的方法论平行：
+
+- **德里达**: 使用一个概念（如"存在"、"真理"），然后在它上面画一个叉——表示这个概念既不可用也不可不用
+- **吉藏**: 使用"空"这个概念来破除"有"，然后"空掉"空——表示空本身也不是终极的
+
+**相同点**: 二者都意识到语言的不充分性，同时承认语言的不可回避性
+**差异**: 德里达的"sous rature"是一种书写策略，吉藏的重空是一种修行论和方法论
+
+### 自指悖论 Self-Reference Paradoxes
+
+重空涉及一种特殊的自指 (self-reference) 结构：
+
+- **说谎者悖论**: "这句话是假的"——如果为真则假，如果为假则真
+- **重空**: "空也是空的"——如果空性是终极真理，那空性本身也要被空掉
+
+这一自指结构在逻辑上产生了类似悖论的效果。但吉藏的处理方式不同于西方逻辑：他不试图解决悖论，而是将悖论本身作为超越概念思维的入口。
+
+### 罗素类型论 Russell's Theory of Types
+
+罗素为了解决自指悖论，提出了类型论 (Theory of Types)——禁止一个集合包含自身。吉藏的重空走了相反的路径：他不回避自指，而是利用自指来展示概念系统的极限。
+
+- **罗素**: 通过禁止自指来解决悖论
+- **吉藏**: 通过拥抱自指来超越概念
+
+### 海德格尔对"存在"的解构
+
+海德格尔批评西方形而上学将"存在" (Sein) 遗忘或实体化——这与吉藏批评将"空"实体化有结构性平行：
+
+- **海德格尔**: "存在"不是"存在者" (Sein ist kein Seiendes)——存在不能被对象化
+- **吉藏**: "空"不是"空的东西"——空不能被对象化
+
+差异：海德格尔在存在论差异 (ontologische Differenz) 的框架中运作，吉藏则在缘起性空的框架中运作。
+
+## 重空的实践意义 / Practical Significance
+
+### 防止"恶取空"
+
+"重空"的最重要的实践功能是防止"恶取空"（错误地理解空性）：
+
+| 错误理解 | 表现 | 重空的纠正 |
+|----------|------|-----------|
+| 虚无主义 | "一切皆空，所以什么都不用做" | 空不是虚无，是对自性的否定 |
+| 空性崇拜 | "空是终极真理" | 空亦复空——空也不是终极的 |
+| 修行消极 | "既然无所得，就不用修行了" | 无所得恰恰是最精进的修行 |
+| 教条空性 | 以"空"来否定一切，包括善法 | 空在世俗谛层面不否定善法 |
+
+### 重空与自由
+
+重空的终极效果是**自由**——不被任何概念束缚的自由：
+
+- 不被"有"束缚——超越常见
+- 不被"空"束缚——超越断见
+- 不被"中道"束缚——超越对"中"的执着
+- 不被"自由"束缚——超越对自由本身的执着
+
+这种自由不是放纵，而是真正的自在——在一切境缘中不被任何概念和执着所转。
+
+## 重空在后世的影响 / Later Influence
+
+- **天台宗**: 智顗批评三论宗的"重空"可能导致"偏空"，主张"即空即假即中"的三谛圆融
+- **华严宗**: 法藏在《华严一乘教义分齐章》中吸收重空的方法，但将其整合入法界缘起的框架
+- **禅宗**: "佛之一字，我不喜闻"的精神与重空一脉相承——连"佛"的概念也要空掉
+- **日本三论宗**: 重空成为日本三论宗判教的核心依据之一
+
+## 参见 / See Also
+
+- [龙树·空性](../nagarjuna/concepts/sunyata.md) — 重空的印度源头
+- [言教二谛](two-truths-pedagogical.md) — 重空在二谛框架中的位置
+- [破邪显正](refute-reveal.md) — 重空作为破邪的最深层操作
+- [无所得](non-attainment.md) — 重空的修行论意涵
+- [八不中道](eight-negations.md) — 重空与八不的关系
+- [吉藏](../README.md) — 总论

@@ -1,0 +1,22 @@
+---
+id: cognitive-systems.school.ecological.gibson.timeline
+title: 吉布森思想年表 J.J. Gibson Timeline
+type: timeline
+thinker: gibson
+domain: cognitive-systems
+school: ecological
+---
+
+# 吉布森思想年表
+
+### 1904 · 出生
+### 1940s · 二战飞行员视觉研究
+### 1950 · 《The Perception of the Visual World》
+### 1966 · 《The Senses Considered as Perceptual Systems》
+### 1979 · 《The Ecological Approach to Visual Perception》
+### 1979 · 逝世
+
+## 思想演变
+```
+飞行员视觉 (1940s) → 运动视觉 (1950) → 主动感知 (1966) → 生态心理学 (1979)
+```

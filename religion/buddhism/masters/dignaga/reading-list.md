@@ -1,0 +1,167 @@
+---
+id: dignaga-reading-list
+title: "陈那进阶阅读 Dignaga: Annotated Reading List"
+type: reading-list
+parent: dignaga
+---
+
+# 陈那进阶阅读 / Reading List for Dignaga
+
+## 原典与译注 / Primary Sources & Translations
+
+### 必读 Essential
+
+- **法尊法师译《集量论》**(从藏译转译，20 世纪)
+  - 中文世界理解《集量论》的主要途径
+  - 建议配合法尊法师《集量论略解》阅读
+  - 局限：从藏译转译，非梵文直译
+
+- **Masaaki Hattori**, *Dignaga on Perception: Being the Pratyaksapariccheda of Dignaga's Pramanasamuccaya* (Harvard, 1968)
+  - 现量品的梵藏英翻译 + 详细注释
+  - 对理解陈那感知论的必读之作
+  - 学术精度极高
+
+- **玄奘译《因明正理门论》**(649 CE)
+  - 汉传因明的核心文本
+  - 建议配合窥基《因明入正理论疏》阅读
+
+### 推荐 Recommended
+
+- **Ernst Steinkellner** 系列论文 (1990s-2010s)
+  - 梵文残片的复原与比较文本学研究
+  - 维也纳学派的核心贡献
+  - 适合有梵藏文能力的研究者
+
+- **Richard P. Hayes**, *Dignaga on the Interpretation of Signs* (Kluwer, 1988)
+  - 对陈那语言哲学（特别是遮诠论）的系统研究
+  - 包含大量原典翻译
+  - 适合对语言哲学感兴趣的读者
+
+- **Giuseppe Tucci**, *The Nyayamukha of Dignaga* (1930)
+  - 《因明正理门论》的早期西方学术研究
+  - 包含梵文重构和翻译
+
+## 研究专著 / Scholarly Monographs
+
+### 必读 Essential
+
+- **梶山雄一**, *インドにおける論理と知識の思想* (印度哲学中的逻辑与认识思想)
+  - 日本佛教学者对陈那认识论的经典研究
+  - 结合印度哲学整体背景
+  - 有中译本
+
+- **Tom J.F. Tillemans**, *Scripture, Logic, Language: Essays on Determining What the Buddha Taught* (Wisdom, 1999)
+  - 讨论佛教逻辑（因明）与佛教诠释学的关系
+  - 涵盖陈那、法称以及藏传量论传统
+  - 适合对"量论与佛教教义"关系感兴趣的读者
+
+- **Birgit Kellner**, *Buddhist Pramana Theory* (2024)
+  - 最新的佛教量论研究
+  - 涵盖陈那到晚期量论传统的完整发展
+  - 反映了当前学术界的前沿讨论
+
+### 推荐 Recommended
+
+- **Th. Stcherbatsky**, *Buddhist Logic* (2 vols., 1930-1932)
+  - 西方佛教逻辑研究的开创性著作
+  - 虽有部分过时的解读，但仍是重要的历史文献
+  - 涵盖陈那与法称
+
+- **Shoryu Katsura**, *Buddhist Logic and Epistemology* (多篇论文)
+  - 日本学者对佛教因明的精细文本学研究
+  - 注重梵藏比较
+
+- **Bimal Krishna Matilal**, *Epistemology, Logic, and Grammar in Indian Philosophical Literature* (Mouton, 1971; OUP 2005)
+  - 印度哲学中的认识论、逻辑与语法交叉研究
+  - 涵盖陈那的因明在印度哲学中的位置
+  - 比较哲学的视角极为丰富
+
+- **John Taber**, *Reason, Revelation and Idealism in Sankara's Vedanta* (1981)
+  - 虽以商羯罗为主题，但对陈那与吠檀多的认识论比较极为精到
+  - 适合比较哲学研究者
+
+## 入门读物 / Introductory
+
+- **法尊法师**, *《集量论略解》*
+  - 逐颂注释，清晰准确
+  - 中文世界最佳的《集量论》入门导读
+  - 适合有一定佛学基础的读者
+
+- **郑伟宏**, *《佛家逻辑通论》*
+  - 系统介绍佛教因明的中文专著
+  - 涵盖陈那与窥基的因明传统
+  - 适合中国哲学背景读者
+
+- **Matthew Kapstein**, *Reason's Traces: Identity and Interpretation in Indian and Tibetan Buddhist Thought* (Wisdom, 2001)
+  - 面向西方读者的佛教认识论导论
+  - 涵盖陈那、法称与藏传量论
+  - 注重哲学分析而非文本学
+
+- **Brendan S. Gillon**, *Logic in Classical Indian Philosophy* (Stanford Encyclopedia of Philosophy)
+  - 免费在线资源，印度古典逻辑的精炼概述
+  - 涵盖陈那在印度逻辑史中的位置
+
+## 专题研究 / Specialized Studies
+
+### 遮诠论 Apoha
+
+- **Bimal Krishna Matilal**, *The Word and the World: India's Contribution to the Study of Language* (OUP, 1990)
+  - 对印度语言哲学（包括遮诠论）的出色分析
+- **Mark Siderits, Tom Tillemans, Arindam Chakrabarti** (eds.), *Apoha: Buddhist Nominalism and Human Cognition* (Columbia UP, 2011)
+  - 遮诠论的专题论文集
+  - 涵盖哲学分析、认知科学对话和比较哲学
+  - 当前关于 apoha 的最重要英文学术著作
+
+### 因明逻辑 Buddhist Logic
+
+- **Frits Staal**, *Advaita and Indian Logic* (1961)
+  - 印度逻辑的哲学分析
+- **J.F. Staal** (ed.), *A Reader on the Sanskrit Sciences* — 包含因明逻辑的章节
+
+### 量论与唯识 Epistemology and Yogacara
+
+- **Dan Lusthaus**, *Buddhist Phenomenology* (Routledge, 2002)
+  - 唯识学的系统研究，涵盖认识论面向
+  - 对理解陈那的唯识背景有帮助
+
+### 藏传量论 Tibetan Pramana (tshad ma)
+
+- **Georges Dreyfus**, *Recognizing Reality: Dharmakirti's Philosophy and Its Tibetan Interpretations* (SUNY, 1997)
+  - 法称哲学在藏传佛教中的接受与诠释
+  - 对理解陈那-法称体系的藏传继承极为重要
+  - 包含格鲁派量论教育的详细描述
+
+## 跨学科阅读 / Interdisciplinary
+
+- **Jonardon Ganeri** (ed.), *Indian Logic: A Reader* (Curzon, 2001)
+  - 印度逻辑学的经典论文选集
+  - 涵盖从正理派到佛教因明的完整光谱
+
+- **J.N. Mohanty**, *Classical Indian Philosophy* (OUP, 2000)
+  - 印度古典哲学的全面概述
+  - 对理解陈那在印度哲学中的位置有帮助
+
+- **Jay Garfield**, *Engaging Buddhism: Why It Matters to Philosophy* (OUP, 2015)
+  - 论证佛教哲学（包括认识论）对当代西方哲学的贡献
+  - 遮诠论与当代语言哲学的对话
+
+- **Evan Thompson**, *Mind in Life: Biology, Phenomenology, and the Sciences of Mind* (Harvard UP, 2007)
+  - 从现象学和认知科学角度讨论佛教认识论
+  - 自证（svasamvitti）理论与当代意识研究的对话
+
+## 进阶 / Advanced
+
+- **慧藏 Jinendrabuddhi**, *《集量论释》Pramanasamuccayatika* (藏译)
+  - 最重要的《集量论》注释
+  - 需要藏文阅读能力
+  - 对理解陈那原意不可或缺
+
+- **法称 Dharmakirti**, *《量抉择论》Pramanavarttika*
+  - 对《集量论》的系统性深化和修正
+  - 有多种藏译和梵文残片
+  - Eli Franco 的 *Dharmakirti on Perception* (1986) 提供了现量品的翻译和注释
+
+- **窥基**, *《因明入正理论疏》*
+  - 汉传因明的最重要注释
+  - 基于玄奘口授，窥基笔录
+  - 对理解汉传因明传统不可或缺

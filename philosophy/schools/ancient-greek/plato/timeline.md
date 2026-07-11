@@ -1,0 +1,47 @@
+---
+id: plato-timeline
+title: 柏拉图生平年表 · Plato Timeline
+type: timeline
+parent: plato
+domain: philosophy
+---
+
+# 柏拉图生平年表 · Plato Timeline
+
+| 年份 Year | 事件 Event | 背景 Context |
+|-----------|-----------|-------------|
+| c. 428/427 BCE | 出生于雅典（或埃伊纳岛），本名阿里斯托克勒斯 | 伯罗奔尼撒战争期间 / Born in Athens (or Aegina) during Peloponnesian War |
+| c. 410s | 师从克拉底鲁（赫拉克利特派哲学家），后转向苏格拉底 | 雅典政治动荡 / Studied under Cratylus (Heraclitean), then turned to Socrates |
+| c. 408 | 开始跟随苏格拉底学习 | 约 20 岁 / Began studying with Socrates, age ~20 |
+| 399 | 苏格拉底被判处死刑并饮鸩 | 柏拉图约 29 岁；这一事件深刻影响了他的哲学方向 / Socrates' trial and execution; Plato ~29; profoundly shaped his philosophy |
+| 399–387 | 游历：麦加拉（Euclides）、埃及、南意大利（毕达哥拉斯学派）、西西里 | 广泛接触不同哲学传统 / Travels: Megara, Egypt, Southern Italy (Pythagoreans), Sicily |
+| c. 387 | 返回雅典，创办雅典学园（Academy） | 西方第一所持续运作的哲学学校（至 529 CE 被查士丁尼关闭）/ Founded the Academy—Western world's first enduring philosophical school |
+| c. 387–360 | 中期对话录创作期：《斐多》《会饮》《理想国》《斐德若》 | 理念论成熟期 / Middle dialogues: *Phaedo*, *Symposium*, *Republic*, *Phaedrus* |
+| 367 | 第一次西西里之旅：与叙拉古僭主狄奥尼修斯二世的宫廷互动 | 试图实现"哲学王"理想（失败）/ First Sicily visit: engagement with Dionysius II's court at Syracuse. Attempt to realize philosopher-king ideal (failed) |
+| 366 | 返回雅典 | 狄奥尼修斯二世与柏拉图关系破裂 / Returned to Athens; relationship with Dionysius II deteriorated |
+| 361 | 第二次西西里之旅 | 再次试图教育狄奥尼修斯二世（失败）/ Second Sicily visit: another failed attempt to educate Dionysius II |
+| c. 360–348 | 晚期对话录创作期：《巴门尼德》《智者》《政治家》《蒂迈欧》《法篇》 | 自我批评与体系完善 / Late dialogues: *Parmenides*, *Sophist*, *Statesman*, *Timaeus*, *Laws* |
+| 348/347 | 在雅典去世，享年约 80 岁 | 葬于学园 / Died in Athens, aged ~80. Buried at the Academy |
+
+---
+
+## 学园的影响 Legacy of the Academy
+
+| 年份 Year | 事件 Event |
+|-----------|-----------|
+| 384 | 亚里士多德出生 / Aristotle born |
+| 367 | 亚里士多德（17 岁）入读雅典学园 / Aristotle (age 17) enters the Academy |
+| 348 | 亚里士多德离开雅典（柏拉图去世后）/ Aristotle leaves Athens after Plato's death |
+| 335 | 亚里士多德创办吕克昂学园 / Aristotle founds the Lyceum |
+| c. 265 | 学园进入"中期学园"（怀疑主义转向）/ Academy enters "Middle Academy" (skeptical turn) |
+| c. 90 BCE | 学园进入"新学园"（温和怀疑主义）/ Academy enters "New Academy" (moderate skepticism) |
+| 529 CE | 查士丁尼皇帝关闭学园 / Emperor Justinian closes the Academy |
+
+---
+
+## 相关条目 Related Entries
+
+- [柏拉图 · 柏拉图](README.md)
+- [著作年表 Works](works.md)
+- [苏格拉底 · 年表](../socrates/timeline.md)
+- [亚里士多德 · 年表](../aristotle/timeline.md)

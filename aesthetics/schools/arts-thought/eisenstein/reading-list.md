@@ -1,0 +1,24 @@
+---
+id: aesthetics.arts-thought.eisenstein.reading-list
+title: 爱森斯坦推荐阅读 / Eisenstein Reading List
+type: reading-list
+parent: aesthetics.arts-thought.eisenstein
+---
+
+# 爱森斯坦推荐阅读 / Eisenstein Reading List
+
+## 入门 / Introductory
+1. 李恒基、杨远婴主编《外国电影理论文选》
+2. Aumont, Jacques. *Montage Eisenstein*. Indiana UP, 1987
+
+## 进阶 / Intermediate
+1. Bordwell, David. *The Cinema of Eisenstein*. Harvard UP, 1993
+2. Leyda, Jay (ed.). *Film Form / The Film Sense*
+
+## 关联背景 / Background
+1. 黑格尔：《美学讲演录》（辩证法维度）
+2. 梅耶荷德：戏剧理论与实践
+
+---
+
+*另见：[[README|爱森斯坦]] | [[works|著作列表]] | [[timeline|年表]]*

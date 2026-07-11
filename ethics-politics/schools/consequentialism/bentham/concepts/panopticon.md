@@ -1,0 +1,32 @@
+---
+id: bentham-panopticon
+title: 全景监狱 · Panopticon · Bentham
+type: concept
+domain: ethics-politics
+school: consequentialism
+thinker: bentham
+tags: [panopticon, surveillance, discipline, bentham]
+cross-refs: [{id: bentham, relation: thinker}, {id: foucault, relation: 发展}]
+---
+
+# 全景监狱 · Panopticon
+
+## 一句话定义
+全景监狱是边沁设计的**环形监狱**——囚犯不知道自己是否被监视，从而产生持续的自我规训。福柯将其发展为现代社会权力运作的核心隐喻。
+
+## 核心要义
+- 中央塔楼可看到所有囚室，但囚犯看不到塔楼内部
+- 不确定是否被监视 → 假设始终被监视 → 自我规训
+- 边沁视之为**人道的**改革：替代体罚与肉刑
+
+## 福柯的发展
+福柯将全景监狱发展为"规训社会"的隐喻——学校、工厂、医院、军营都采用类似的持续监视与规范化权力。
+
+## 当代应用
+- 数字监控（摄像头、数据追踪）
+- 社交媒体（自我审查与表演）
+- 工作场所监控
+
+## 关键文本
+- *Panopticon; or, The Inspection-House* (1791)
+- Foucault, *Discipline and Punish* (1975)

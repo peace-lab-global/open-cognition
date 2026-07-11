@@ -1,0 +1,119 @@
+---
+id: luria-functional-systems
+title: "功能系统 · Functional Systems · Luria"
+type: concept
+domain: psychology
+school: cognitive
+thinker: luria
+tags: [functional-systems, dynamic-networks, brain-organization, reorganization, cross-regional-collaboration]
+cross-refs:
+  - id: luria
+    relation: thinker
+  - id: luria-neuropsychology
+    relation: 学科背景
+  - id: luria-higher-cortical-functions
+    relation: 应用对象
+  - id: luria-recovery
+    relation: 临床延伸
+  - id: anokhin
+    relation: 承接(生理功能系统理论)
+---
+
+# 功能系统 · Functional Systems
+
+## 定义
+
+**功能系统 (functional system)** 是卢里亚神经心理学理论的核心概念——指任何心理功能都不是由单一脑区独立完成的，而是由多个脑区组成的动态协作网络共同实现的。同一脑区可以参与多个功能系统，同一功能系统可以涉及多个脑区。功能系统的概念彻底超越了"一个功能对应一个脑区"的经典定位主义。
+
+The **functional system** is the central concept of Luria's neuropsychological theory — any psychological function is not accomplished by a single brain region independently, but is jointly realized by a dynamic collaborative network of multiple brain regions. The same brain region can participate in multiple functional systems, and the same functional system can involve multiple brain regions. This concept definitively transcends the classical localizationist notion of "one function, one brain area."
+
+## 核心机制
+
+### 1. 因素分析 (Factor Analysis of Brain Functions)
+
+卢里亚认为，每个脑区对功能系统贡献特定的"因素"(factor)——即该区域特有的信息加工能力。例如：
+
+- **枕叶** 贡献视觉空间分析的因素
+- **颞叶** 贡献听觉信息加工的因素
+- **顶叶** 贡献空间整合的因素
+- **前额叶** 贡献计划与监控的因素
+
+一个复杂功能——如"书写"——需要多个因素的协同：视觉字形 (枕叶) + 听觉语音 (颞叶) + 空间布局 (顶叶) + 运动执行 (额叶) + 计划监控 (前额叶)。脑损伤破坏的不是"书写功能"本身，而是书写功能系统中某个特定因素的贡献。
+
+Luria held that each brain region contributes specific "factors" to the functional system — its characteristic information-processing capacity. A complex function like "writing" requires the collaboration of multiple factors: visual letter forms (occipital) + auditory phonology (temporal) + spatial layout (parietal) + motor execution (frontal) + planning and monitoring (prefrontal). Brain damage destroys not the "writing function" itself, but the contribution of a specific factor within the writing functional system.
+
+### 2. 系统的层级组织 (Hierarchical Organization)
+
+功能系统内部具有层级结构。卢里亚继承 Jackson 的神经系统层级理论，认为功能系统由低层级的"自动化组件"和高层级的"控制组件"组成：
+
+- **低级组件**：执行具体的感觉-运动操作 (如手指的精细运动)
+- **中级组件**：整合信息并协调低级组件 (如空间关系的表征)
+- **高级组件**：设定目标、编制程序、监控执行 (如解决问题的策略)
+
+损伤在不同层级产生不同类型的缺陷：低级损伤导致具体感觉-运动障碍，高级损伤导致策略和组织障碍。
+
+### 3. 系统的动态性 (Dynamic Nature)
+
+功能系统不是固定不变的线路图，而是**随任务需求、学习过程和损伤后重组而动态变化的**。卢里亚用"动态定位"(dynamic localization) 来描述这一性质：
+
+- **发展中的变化**：儿童学习阅读时，功能系统从依赖语音分析逐渐转向直接的字形识别
+- **学习中的变化**：专家与新手的同一功能可能依赖不同的脑区组合
+- **损伤后的重组**：脑损伤后，功能系统可以通过训练重组，让其他脑区接管受损因素的贡献
+
+This dynamism means that functional systems are not fixed circuit diagrams, but **change dynamically with task demands, learning processes, and post-lesional reorganization**. Luria described this property as "dynamic localization": during development, a child's reading functional system shifts from phonological analysis to direct orthographic recognition; during learning, experts and novices may recruit different brain regions for the same function; after damage, functional systems can reorganize through training.
+
+## 发展脉络
+
+### 生理学先驱：阿诺欣 (Anokhin)
+
+功能系统概念最早由苏联生理学家阿诺欣 (Pyotr Anokhin, 1898-1974) 在 1930 年代提出。阿诺欣在研究条件反射时发现，复杂的适应性行为不是由单一反射弧完成的，而是由多个神经系统组件——包括传入信息、中枢加工、效应输出和反馈回路——组成的"功能系统"协同实现的。卢里亚将这一概念从生理学扩展到心理学领域。
+
+The functional system concept was first proposed by the Soviet physiologist Pyotr Anokhin in the 1930s. Anokhin found that complex adaptive behaviors are not accomplished by single reflex arcs, but by "functional systems" comprising afferent information, central processing, effector output, and feedback loops. Luria extended this concept from physiology to psychology.
+
+### 卢里亚的系统化
+
+卢里亚在 1940-1970 年代将功能系统概念发展为完整的神经心理学理论框架：
+
+- 在《创伤性失语症》(1947) 中，他用功能系统分析解释不同类型的失语症
+- 在《人脑高级皮质功能》(1962) 中，他系统阐述了功能系统理论
+- 在《工作着的大脑》(1973) 中，他提出三功能单元模型作为功能系统的宏观架构
+
+### 当代神经科学的验证
+
+21 世纪的脑成像研究在实证层面验证了卢里亚的核心预见：
+
+- **静息态网络 (Resting-State Networks)**：fMRI 研究显示大脑存在多个内在连接网络 (default mode, salience, executive control 等)，与卢里亚"功能系统"的概念高度对应
+- **连接组学 (Connectomics)**：图论分析显示大脑具有"小世界"(small-world) 拓扑结构，支持功能系统的跨区协作模型
+- **多体素模式分析 (MVPA)**：同一认知功能涉及分布式脑区的激活模式，而非单一脑区的激活
+
+21st-century neuroimaging has empirically validated Luria's core predictions: resting-state networks correspond to his "functional systems"; connectomics reveals small-world topology supporting cross-regional collaboration; multivoxel pattern analysis shows that cognitive functions involve distributed activation patterns rather than single-region activation.
+
+## 临床应用
+
+功能系统理论在临床上具有直接的指导意义：
+
+1. **诊断**：通过症候群分析确定受损的因素，推断损伤在功能系统中的位置
+2. **预后**：根据功能系统的可塑性评估康复潜力
+3. **治疗设计**：针对受损因素设计训练程序，促进功能系统的重组
+4. **评估**：用功能系统的完整性作为康复效果的评价标准
+
+## 关联概念
+
+- [神经心理学](neuropsychology.md) -- 功能系统是神经心理学的核心理论框架
+- [高级皮质功能](higher-cortical-functions.md) -- 功能系统分析的主要应用对象
+- [功能重组与康复](recovery.md) -- 功能系统的动态重组是康复的机制
+- [文化-历史神经心理学](cultural-historical-neuro.md) -- 文化环境如何塑造功能系统的组织方式
+
+## 东西方对话
+
+- **功能系统 vs 缘起 (pratītyasamutpāda)**：佛教的缘起论主张一切现象都是多因素和合而生，不存在独立的"自性"；卢里亚的功能系统论主张一切心理功能都是多脑区和合而成，不存在孤立的"功能中枢"。两者在结构上高度对应——都反对实体化的单一因果论，主张关系性的多因素网络观。
+
+- **动态定位 vs 无我 (anātman)**：佛教"无我"的核心洞察是：不存在一个固定的、不变的"自我"实体；卢里亚的"动态定位"的核心洞察是：不存在一个固定的、不变的功能-脑区对应。两者都指向同一方向——从实体论走向过程论。
+
+## 进阶阅读
+
+- Luria, A. R. *Higher Cortical Functions in Man* (1966), Chapters 1-3
+- Luria, A. R. *The Working Brain* (1973), Chapter 3
+- Anokhin, P. K. *Biology and Neurophysiology of the Conditioned Reflex* (1974)
+- Bassett, D. S. & Sporns, O. "Network Neuroscience" *Nature Neuroscience* (2017)
+- Sporns, O. *Networks of the Brain* (2010)

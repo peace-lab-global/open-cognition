@@ -1,0 +1,63 @@
+---
+id: aesthetics.literary-theory.frye.reading-list
+title: 弗莱推荐阅读 / Frye Reading List
+type: reading-list
+parent: aesthetics.literary-theory.frye
+---
+
+# 弗莱推荐阅读 / Frye Reading List
+
+## 一、入门阅读 / Introductory
+
+### 中文
+1. 张隆溪：《道与逻各斯》，四川人民出版社 — 含对弗莱方法的讨论
+2. 王宁：《弗莱研究：中国与西方》，中国社会科学出版社
+3. 叶舒宪：《中国神话哲学》，陕西人民出版社 — 原型批评的中国运用
+
+### English
+1. Hart, Jonathan. *Northrop Frye: The Theoretical Imagination*. Routledge, 1994 — 系统导论
+2. Cotter, Sean & Cook, David (eds.). *Northrop Frye: A Comprehensive Bibliography*. U of Toronto P
+3. Denham, Robert. *Northrop Frye: An Annotated Bibliography of Primary and Secondary Sources*. U of Toronto P
+
+## 二、弗莱原著阅读顺序 / Recommended Reading Order
+
+### 第一阶段：进入弗莱的世界
+1. 《受过教育的想象力》— 最平易近人的弗莱入门
+2. 《批评的剖析》"引言" — 弗莱方法论的总论
+3. 《批评的剖析》第一篇"历史批评" — 模式理论
+
+### 第二阶段：深入理论
+4. 《批评的剖析》第三篇"原型批评" — 核心方法论
+5. 《身份的寓言》— 文学想象力的具体运用
+6. 《批评之路》— 方法论的自我反思
+
+### 第三阶段：晚期研究
+7. 《伟大代码》— 圣经与文学
+8. 《世俗经文》— 罗曼司叙事
+
+## 三、进阶研究 / Advanced Studies
+
+1. Bloom, Harold (ed.). *Northrop Frye*. Chelsea House, 1987
+2. Hamilton, A.C. *Northrop Frye: Anatomy of His Criticism*. Princeton UP, 1990
+3. Adamson, Joseph. *Northrop Frye: A Visionary Life*. ECW Press, 1993 — 传记
+4. Lee, Alvin. *Northrop Frye and Critical Method*. Penn State UP, 1978
+
+## 四、关联思想家的背景阅读 / Background Reading
+
+1. 亚里士多德：《诗学》— 弗莱的理论先驱
+2. 弗雷泽：《金枝》— 神话循环的来源
+3. 荣格：《原型与集体无意识》— 原型理论的心理学基础
+4. 布莱克：《天堂与地狱的婚姻》— 弗莱的核心研究对象
+5. 弗洛伊德：《梦的解析》— 文学想象与无意识
+
+## 五、当代延续 / Contemporary Extensions
+
+1. 坎贝尔：《千面英雄》(1949) — 原型叙事与英雄之旅
+2. 托多罗夫：《叙事语法》(1969) — 结构主义叙事学
+3. Genette, Gérard. *Narrative Discourse* (1972) — 叙事学
+4. White, Hayden. *Metahistory* (1973) — 历史叙事的文学模式
+5. Booker, Christopher. *The Seven Basic Plots* (2004) — 弗莱原型方法的当代延续
+
+---
+
+*另见：[[README|弗莱]] | [[works|著作列表]] | [[timeline|年表]]*

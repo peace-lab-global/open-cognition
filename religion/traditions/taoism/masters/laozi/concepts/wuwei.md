@@ -1,0 +1,102 @@
+---
+id: wuwei
+title: 无为 / Wu-wei (Non-action)
+type: concept
+domain: religion
+school: taoism
+thinker: laozi
+tags: [无为, wu-wei, non-action, effortless, governance, 行动哲学, governance]
+---
+
+# 无为 / Wu-wei (Non-action)
+
+> **"道常无为而无不为。"**
+> *"The Dao is ever non-active, yet nothing is left undone."*
+> — 《道德经》第37章 / Daodejing Ch. 37
+
+## 定义 / Definition
+
+无为（wú-wéi）是老子哲学中最核心也最常被误读的概念。它不是"不作为"（inaction），而是"不妄为"（non-interference）——不强加人为的秩序于事物的自然趋势之上。无为是一种最高效的行动方式：以最小的干预达到最大的效果，如同水顺地势而流却无坚不摧。
+
+Wu-wei is the most central and most frequently misunderstood concept in Laozi's philosophy. It does not mean "inaction" or passivity, but rather "non-interference" — not imposing artificial order upon the natural tendencies of things. Wu-wei is a supremely efficient mode of action: achieving maximum effect with minimal intervention, like water flowing along the terrain yet wearing away the hardest stone.
+
+"为无为，事无事，味无味"（第63章）——以无为的方式去行动，以无事的方式去做事，以无味的方式去品味。这三句话揭示了无为不是消极的虚无，而是一种行动的态度和品质。
+
+"Practice non-action; attend to non-affairs; taste the flavorless" (Ch. 63) — these three phrases reveal that wu-wei is not passive nihilism but a quality and attitude of action.
+
+## 核心文本 / Core Texts
+
+- "道常无为而无不为。"（第37章） / "The Dao is ever non-active, yet nothing is left undone." (Ch. 37)
+- "天下之至柔，驰骋天下之至坚。无有入无间，吾是以知无为之有益。"（第43章） / "The softest thing in the world rides roughshod over the hardest. What has no form enters where there is no space. From this I know the benefit of non-action." (Ch. 43)
+- "太上，不知有之……功成事遂，百姓皆谓：我自然。"（第17章） / "The best ruler is one whose existence is barely known... When the work is done and affairs are settled, the people all say: 'We did it ourselves.'" (Ch. 17)
+- "我无为而民自化，我好静而民自正，我无事而民自富，我无欲而民自朴。"（第57章） / "I take no action and the people transform themselves; I love stillness and the people correct themselves; I engage in no affairs and the people prosper; I have no desires and the people return to simplicity." (Ch. 57)
+- "为学日益，为道日损。损之又损，以至于无为。无为而无不为。"（第48章） / "In the pursuit of learning, one knows more every day; in the pursuit of Dao, one lets go more every day. Letting go and yet letting go more, until one arrives at non-action. Non-action, yet nothing is left undone." (Ch. 48)
+
+## 无为的三个层面 / Three Dimensions of Wu-wei
+
+### 1. 宇宙论的无为（Cosmological Wu-wei）
+
+道本身是无为的——"道常无为而无不为"（第37章）。道不是有意识地创造万物，而是让万物自然而然地生成。道的"无为"恰恰是万物生成的条件——正因为道不干预，万物才能自由地"自化""自正""自富""自朴"。道如同天地之间的"橐龠"（风箱）——"虚而不屈，动而愈出"（第5章）——空虚却永不枯竭，越动越生发。
+
+Dao itself is wu-wei — "The Dao is ever non-active, yet nothing is left undone" (Ch. 37). Dao does not consciously create all things but lets them arise spontaneously. The "non-action" of Dao is precisely the condition for the generation of all things — precisely because Dao does not interfere, all things can freely "self-transform," "self-correct," "self-prosper," "self-simplify." Dao is like the bellows between heaven and earth — "empty yet inexhaustible; the more it is worked, the more comes forth" (Ch. 5).
+
+### 2. 政治的无为（Political Wu-wei）
+
+最好的统治者是无为的——"太上，不知有之"（第17章）。人民甚至感觉不到统治者的存在。"治大国若烹小鲜"（第60章）——治理大国如同煎小鱼，翻动太多反而破碎。"我无为而民自化"（第57章）——最好的治理不是管制越多越好，而是减少干预，让人民自我组织。这是最早的"最小政府"思想，也是当代"仆人式领导"（servant leadership）理念的东方原型。
+
+The best ruler practices wu-wei — "The best ruler is one whose existence is barely known" (Ch. 17). The people are scarcely aware of the ruler's presence. "Governing a large state is like cooking a small fish" (Ch. 60) — too much turning breaks it apart. "I take no action and the people transform themselves" (Ch. 57) — the best governance does not multiply regulations but reduces interference, allowing people to self-organize. This is the earliest articulation of "minimal government" and the Eastern prototype of "servant leadership."
+
+### 3. 修养的无为（Cultivational Wu-wei）
+
+"为学日益，为道日损。损之又损，以至于无为。"（第48章）——修道的过程是"减法"——去掉人为的造作、知识的累积、欲望的膨胀，回归本然状态。无为不是学到的，而是"放下"的。这与儒家的"加法"修养（学习礼义、培养德行）形成鲜明对照。
+
+"In the pursuit of learning, one knows more every day; in the pursuit of Dao, one lets go more every day. Letting go and yet letting go more, until one arrives at non-action" (Ch. 48). The process of cultivating Dao is "subtraction" — removing artificial contrivance, accumulated knowledge, inflated desires — returning to the original state. Wu-wei is not learned but "unlearned." This contrasts sharply with the Confucian "additive" cultivation of learning ritual propriety and nurturing virtue.
+
+## 无为的隐喻 / Metaphors of Wu-wei
+
+老子通过一系列精妙的隐喻来传达无为的含义：
+
+Laozi conveys the meaning of wu-wei through a series of exquisite metaphors:
+
+- **水 (Water)**："天下莫柔弱于水，而攻坚强者莫之能胜"（第78章）——水是无为的最佳隐喻：至柔而克刚，居下而不争。Water is the supreme metaphor for wu-wei: the softest yet most powerful substance, always settling in the low places others despise.
+- **婴儿 (Infant)**："专气致柔，能婴儿乎？"（第10章）——婴儿无意识地行动，却充满生机与活力。婴儿是"无为"的典范——不刻意、不造作。The infant acts without conscious calculation yet is full of vitality — a paradigm of effortless being.
+- **山谷 (Valley)**："上德若谷"（第41章）——空虚的山谷容纳一切，"知其雄，守其雌，为天下谿"（第28章）。The empty valley receives and holds everything — knowing strength yet keeping to softness.
+- **朴（未雕刻的木头）(Uncarved Block)**："道常无名，朴"（第32章）——未被人为加工的自然状态。朴代表未经人为干预的本然。"朴虽小，天下莫能臣也"——朴看似微不足道，却是天下最有力量的。The uncarved block represents the natural state before human processing — seemingly insignificant, yet nothing in the world can subordinate it.
+
+## 与"有为"的对比 / Wu-wei versus You-wei (Deliberate Action)
+
+| 维度 / Dimension | 无为 / Wu-wei | 有为 / You-wei |
+|------|------|------|
+| 行动方式 / Mode | 顺势而为，不妄加干预 | 强力推行，逆自然之势 |
+| 政治理念 / Politics | "我无为而民自化" | 法令滋彰，盗贼多有 |
+| 知识态度 / Knowledge | "为道日损" | "为学日益" |
+| 人际关系 / Relations | "上善若水" | 争强好胜 |
+| 效果 / Outcome | "无为而无不为" | "为者败之，执者失之" |
+
+## 与西方行动哲学的比较 / Comparison with Western Action Philosophy
+
+- **亚里士多德的"实践智慧"（phronesis）**：两者都强调在具体情境中的灵活应对，而非机械遵循规则。但phronesis仍然需要理性判断（logos），而无为恰恰要求放下理性控制。Aristotle's phronesis emphasizes situational flexibility rather than rigid rule-following — yet it still requires rational judgment, whereas wu-wei demands releasing rational control.
+
+- **海德格尔的"泰然任之"（Gelassenheit）**：晚年海德格尔主张"让事物如其所是"——与无为哲学高度平行。两者都批判技术文明对自然的强制。Heidegger's late concept of "releasement" (Gelassenheit) — letting things be as they are — is highly parallel to wu-wei. Both critique technological civilization's forcing of nature.
+
+- **心流（Flow State）**：契克森米哈赖（Csikszentmihalyi）描述的心流状态——"不费力气的专注"、自我意识的消融——是无为的心理学版本。Csikszentmihalyi's flow state — effortless concentration, dissolution of self-consciousness — is the psychological version of wu-wei.
+
+## 无为在道教的宗教化发展 / Religious Development in Daoism
+
+在道教传统中，无为从一种行动哲学发展为修行实践。内丹修炼强调"炼精化气、炼气化神、炼神还虚"——整个过程的核心是"无为"：不是强行搬运精气，而是顺应身体的自然节律。道教养生术中的"导引"和"吐纳"都体现了无为的原则——顺应而非强制。
+
+In the Daoist religious tradition, wu-wei evolved from a philosophy of action into a spiritual practice. Internal alchemy (neidan) emphasizes "refining essence into qi, refining qi into spirit, refining spirit into emptiness" — the entire process hinges on wu-wei: not forcibly moving vital energies but following the body's natural rhythms. The Daoist health practices of "guiding and pulling" (daoyin) and "breathing exercises" (tuna) all embody the principle of wu-wei — following rather than forcing.
+
+## 跨学科关联 / Cross-references
+
+- [道 / Dao](dao-the-way.md) — 无为是道的运作方式 / Wu-wei is the mode of Dao's operation
+- [自然 / Ziran](ziran.md) — 无为以自然为目标 / Wu-wei takes ziran as its aim
+- [德 / De-Virtue](de-virtue.md) — 无为是最高之德的体现 / Wu-wei embodies the highest De
+- [老子 · Laozi](../README.md) — 返回总览 / Return to overview
+
+## 进阶阅读 / Further Reading
+
+- 《老子》第17、37、43、48、57、63、78章 / Daodejing Ch. 17, 37, 43, 48, 57, 63, 78
+- Slingerland, E. (2003). *Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China*. Oxford University Press.
+- 陈鼓应《老子注译及评介》相关章节
+- Edward Slingerland, "Wu-wei: The Art of Effortless Action" — 系统分析无为的隐喻结构

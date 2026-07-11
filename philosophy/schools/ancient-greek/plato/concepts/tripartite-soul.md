@@ -1,0 +1,120 @@
+---
+id: tripartite-soul
+title: 灵魂三分 · Tripartite Soul
+type: concept
+parent: plato
+domain: philosophy
+tags:
+  - philosophy-of-mind
+  - ethics
+  - political-philosophy
+  - moral-psychology
+---
+
+# 灵魂三分 · Tripartite Soul
+
+> "灵魂有三个部分，各自有其特有的快乐、欲望和统治原则。" — 《理想国》580d
+>
+> "The soul has three parts, each with its own peculiar pleasure, desire, and governing principle." — *Republic* 580d
+
+---
+
+## 定义 Definition
+
+灵魂三分说（Tripartite Soul, tripartite division of the soul）是柏拉图在《理想国》第四卷中提出的心理学模型，主张人的灵魂（psychē）由三个部分组成：理性（logistikon）、激情（thymoeides）和欲望（epithymētikon）。灵魂的正义（dikaiosynē）在于三者各守其位，由理性统帅、激情辅助、欲望服从。这一模型是柏拉图伦理学和政治哲学的心理学基础。
+
+The Tripartite Soul is Plato's psychological model in *Republic* Book IV, claiming the human soul (*psychē*) consists of three parts: reason (*logistikon*), spirit (*thymoeides*), and appetite (*epithymētikon*). Justice (*dikaiosynē*) in the soul consists in each part performing its proper function—reason leading, spirit assisting, appetite obeying. This model grounds Plato's ethics and political philosophy.
+
+---
+
+## 三个部分 The Three Parts
+
+### 理性 Logistikon (Reason)
+- **功能 Function**：思考、计算、推理、追求真理 / Thinking, calculating, reasoning, pursuing truth
+- **欲望 Desire**：求知、理解 / Knowledge, understanding
+- **德性 Virtue**：智慧 (sophia, wisdom)
+- **对应城邦阶层 Corresponding Class**：统治者（哲学王）/ Rulers (Philosopher-Kings)
+- **身体位置 Location**：头部 / Head
+
+### 激情 Thymoeides (Spirit)
+- **功能 Function**：荣誉感、愤怒、羞耻、竞争 / Sense of honor, anger, shame, competitiveness
+- **欲望 Desire**：荣誉、胜利、认可 / Honor, victory, recognition
+- **德性 Virtue**：勇气 (andreia, courage)
+- **对应城邦阶层 Corresponding Class**：辅助者（武士）/ Auxiliaries (Warriors)
+- **身体位置 Location**：胸部 / Chest
+
+### 欲望 Epithymētikon (Appetite)
+- **功能 Function**：食欲、性欲、对金钱和物质享受的渴望 / Hunger, sexual desire, craving for money and material pleasure
+- **欲望 Desire**：食物、饮料、性、财富 / Food, drink, sex, wealth
+- **德性 Virtue**：节制 (sōphrosynē, temperance)
+- **对应城邦阶层 Corresponding Class**：生产者 / Producers
+- **身体位置 Location**：腹部 / Belly
+
+---
+
+## 柏拉图的论证 Plato's Arguments
+
+### 冲突论证 The Conflict Argument
+柏拉图论证说，当同一个人同时被相反的力量驱动时（如口渴但理性判断不应喝水），必然存在不同的灵魂部分来承载这些冲突。"同一事物的同一部分不可能同时以相反的方式行动或被作用。"（《理想国》436b）
+
+Plato argues that when the same person is simultaneously pulled in opposite directions (e.g., thirsty but reason judges one should not drink), there must be different soul-parts to bear these conflicts. "The same thing cannot act or be acted upon in opposite ways at the same time, in the same part." (*Republic* 436b)
+
+### Leontius 的故事 The Story of Leontius
+柏拉图用一个生动的故事说明激情与欲望的区分：Leontius 既想看刑场上的尸体（欲望），又对此感到羞耻和愤怒（激情）。最终欲望战胜了激情，但激情在此过程中表现为一种独立的力量。（439e-440a）
+
+Plato uses a vivid story to illustrate the distinction between spirit and appetite: Leontius both wants to look at corpses at an execution site (appetite) and feels ashamed and angry about this desire (spirit). Appetite ultimately overcomes spirit, but spirit manifests as an independent force throughout. (439e-440a)
+
+---
+
+## 灵魂正义与城邦正义 Soul Justice and City Justice
+
+柏拉图的核心洞见是：城邦的结构与灵魂的结构是同构的（isomorphic）。
+
+Plato's core insight: the city's structure is isomorphic to the soul's structure.
+
+| 城邦 City | 灵魂 Soul | 正义 Justice |
+|----------|----------|------------|
+| 统治者 Rulers | 理性 Reason | 智慧统治 Wisdom rules |
+| 武士 Warriors | 激情 Spirit | 勇气辅助 Courage assists |
+| 生产者 Producers | 欲望 Appetite | 欲望服从 Appetite obeys |
+
+当灵魂（或城邦）的三个部分各守其位时，就实现了正义（dikaiosynē）——这不是外在的行为规范，而是内在的秩序与和谐。
+
+When the three parts of the soul (or city) each perform their proper function, justice (*dikaiosynē*) is achieved—not an external behavioral norm but an inner order and harmony.
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与唯识学"八识"模型 Dialogue with Yogācāra's Eight Consciousnesses Model
+
+唯识学的"八识"模型（前五识 + 第六意识 + 第七末那识 + 第八阿赖耶识）提供了一个比柏拉图三分法更为精细的心灵分析。粗略地说，柏拉图的"欲望"对应前五识（感官知觉），"理性"对应第六意识（分别识），"激情"对应第七末那识（自我意识/我执）。但唯识学的第八阿赖耶识——储存所有"种子"的深层意识——在柏拉图的三分法中没有对应项。这暗示柏拉图的模型可能遗漏了心灵的"深层储存"维度。
+
+Yogācāra's "eight consciousnesses" model (five sense consciousnesses + sixth consciousness + seventh *manas* + eighth *ālaya-vijñāna*) offers a more refined psychological analysis than Plato's tripartition. Roughly: Plato's "appetite" corresponds to the first five consciousnesses (sensory perception), "reason" to the sixth consciousness (discriminating consciousness), "spirit" to the seventh *manas* (self-consciousness/ego-clinging). But Yogācāra's eighth *ālaya*—the deep consciousness storing all "seeds"—has no counterpart in Plato's tripartition, suggesting Plato's model may miss the "deep storage" dimension of mind.
+
+### 与儒家"心性情"三分 Dialogue with Confucian "Mind-Nature-Feeling" Triad
+
+宋明理学的"心统性情"说（张载提出，朱熹发展）将心灵分为"性"（本性/理性原则）和"情"（情感/欲望），由"心"来统摄。这与柏拉图的三分法有结构平行性，但关键差异在于：儒家认为"性"是善的（孟子），"情"本身不是恶的（只有"过"或"不及"才是恶的），而柏拉图对"欲望"持更为警惕的态度。
+
+Neo-Confucian "mind governs nature and feeling" (*xīn tǒng xìng qíng*, proposed by Zhang Zai, developed by Zhu Xi) divides the mind into "nature" (*xìng*, innate nature/rational principle) and "feeling" (*qíng*, emotion/desire), unified by "mind" (*xīn*). This parallels Plato's tripartition, but a key difference: Confucians hold "nature" is good (Mencius) and "feeling" is not inherently bad (only "excess" or "deficiency" is bad), while Plato is more suspicious of "appetite."
+
+---
+
+## 对后世的影响 Influence on Later Thought
+
+- **弗洛伊德 Freud**：本我（Id）≈ 欲望，自我（Ego）≈ 理性，超我（Superego）≈ 激情（内化的社会规范）
+- **当代道德心理学 Moral Psychology**：Haidt 的"象与骑象人"隐喻——情感（象）与理性（骑象人）的关系
+- **Kahneman 的双系统理论**：系统1（快速直觉）≈ 欲望/激情，系统2（缓慢理性）≈ 理性
+
+- **Freud**: Id ≈ appetite, Ego ≈ reason, Superego ≈ spirit (internalized social norms)
+- **Contemporary moral psychology**: Haidt's "elephant and rider" metaphor—emotion (elephant) and reason (rider)
+- **Kahneman's dual-process theory**: System 1 (fast intuition) ≈ appetite/spirit, System 2 (slow deliberation) ≈ reason
+
+---
+
+## 相关条目 Related Entries
+
+- [哲学王 Philosopher-King](philosopher-king.md)
+- [理念论 Theory of Forms](theory-of-forms.md)
+- [亚里士多德 · 德性伦理](../aristotle/concepts/virtue-ethics.md)
+- [柏拉图 · 柏拉图](../README.md)

@@ -1,0 +1,170 @@
+---
+id: virtue-ethics
+title: 德性伦理 · Virtue Ethics
+type: concept
+parent: aristotle
+domain: philosophy
+tags:
+  - ethics
+  - moral-psychology
+  - practical-reason
+---
+
+# 德性伦理 · Virtue Ethics
+
+> "德性是一种选择的品质，存在于相对于我们的中道之中，由理性界定，即具有实践智慧的人所界定的那种理性。" — 《尼各马可伦理学》II.6
+>
+> "Virtue is a state of character concerned with choice, lying in a mean relative to us, defined by reason—that reason by which the practically wise person would define it." — *NE* II.6
+
+---
+
+## 定义 Definition
+
+亚里士多德的德性伦理（Virtue Ethics）是一种以品格（character）而非行为规则为中心的伦理学传统。它追问的核心问题不是"我应该做什么？"（义务论）或"什么结果最好？"（功利主义），而是"我应该成为什么样的人？"和"什么是好的生活？"。德性（aretē）是一种稳定的品格状态（hexis），通过反复的实践（习惯化）养成，使人能够在各种处境中做出合宜的反应。
+
+Aristotle's Virtue Ethics is an ethical tradition centered on character rather than rules of conduct. Its core question is not "What should I do?" (deontology) or "What outcome is best?" (utilitarianism) but "What kind of person should I become?" and "What is the good life?" Virtue (*aretē*) is a stable character state (*hexis*), cultivated through repeated practice (habituation), enabling a person to respond appropriately in various situations.
+
+---
+
+## 德性的本质 Nature of Virtue
+
+### 德性不是天生的，也不是违反自然的 Virtue is Neither Natural nor Contrary to Nature
+
+亚里士多德区分了三种获得品格状态的途径：
+
+Aristotle distinguishes three ways of acquiring character states:
+
+1. **天生的能力 Natural capacities**：如视觉——我们天生就能看，不需要练习。
+2. **德性 Virtue**：不是天生的，但我们是"天然适合"接受德性的——通过习惯化来完善。
+3. **技艺 Technē**：如建筑——通过学习和练习获得。
+
+德性介于天生能力和技艺之间——我们天生有接受德性的"潜能"（dynamis），但必须通过实践将其实现（energeia）。
+
+Virtue lies between natural capacities and arts—we are naturally suited to receive virtue but must actualize it through practice.
+
+### 德性作为"中道" Virtue as "The Mean"
+
+道德德性是在两个极端——过度（excess）和不及（deficiency）——之间的"中道"（mesotēs）。这不是数学的中点，而是相对于具体处境的"恰当"。
+
+Moral virtue is the "mean" (*mesotēs*) between two extremes—excess and deficiency. This is not a mathematical midpoint but "the appropriate" relative to the situation.
+
+| 过度 Excess | 德性 Virtue (中道 Mean) | 不及 Deficiency |
+|------------|----------------------|----------------|
+| 鲁莽 Rashness | 勇气 Courage | 怯懦 Cowardice |
+| 放纵 Licentiousness | 节制 Temperance | 麻木 Insensibility |
+| 挥霍 Prodigality | 慷慨 Liberality | 吝啬 Stinginess |
+| 自大 Vanity | 自尊 Proper Pride | 自卑 False Modesty |
+| 谄媚 Obsequiousness | 友善 Friendliness | 粗鲁 Surliness |
+| 羞耻心过强 Bashfulness | 适当的羞耻 Proper Shame | 无耻 Shamelessness |
+
+### 理智德性与道德德性 Intellectual vs Moral Virtue
+
+亚里士多德区分了两类德性：
+
+Aristotle distinguishes two kinds of virtue:
+
+**道德德性 Moral Virtues (ēthikai aretai)**：
+- 通过习惯化养成 / Acquired through habituation
+- 涉及情感和行为的适当调节 / Concern proper regulation of emotions and actions
+- 如勇气、节制、慷慨、正义 / E.g., courage, temperance, liberality, justice
+
+**理智德性 Intellectual Virtues (dianoētikai aretai)**：
+- 通过教导和学习获得 / Acquired through teaching and learning
+- 如智慧（sophia）、实践智慧（phronēsis）、理解力（nous）/ E.g., wisdom (*sophia*), practical wisdom (*phronēsis*), understanding (*nous*)
+
+---
+
+## 实践智慧 Phronēsis (Practical Wisdom)
+
+实践智慧（phronēsis）是德性伦理的关键概念。它不是理论知识（epistēmē），也不是技术知识（technē），而是在具体情境中判断"什么是合宜的行动"的能力。
+
+*Phronēsis* (practical wisdom) is the key concept of virtue ethics. It is not theoretical knowledge (*epistēmē*) or technical knowledge (*technē*), but the capacity to judge "what is the appropriate action" in concrete situations.
+
+### 实践智慧的特征 Characteristics of Phronēsis
+
+1. **情境敏感性**：每个道德情境都是独特的，不能简单地套用普遍规则。
+   **Situational sensitivity**: Each moral situation is unique and cannot simply be subsumed under universal rules.
+
+2. **经验的依赖性**：实践智慧需要丰富的生活经验——年轻人可以精通数学，但通常缺乏实践智慧。
+   **Experience-dependence**: Practical wisdom requires rich life experience—young people can master mathematics but typically lack *phronēsis*.
+
+3. **与德性的相互依存**：没有实践智慧，就没有真正的德性（只有"自然德性"）；没有德性，实践智慧也无法正确运作。
+   **Mutual dependence with virtue**: Without *phronēsis*, there is no true virtue (only "natural virtue"); without virtue, *phronēsis* cannot function correctly.
+
+---
+
+## 德性的养成：习惯化 Cultivation of Virtue: Habituation
+
+亚里士多德强调德性通过反复练习养成：
+
+Aristotle emphasizes virtue is cultivated through repeated practice:
+
+> "我们做正义的事就成为正义的人，做节制的事就成为节制的人，做勇敢的事就成为勇敢的人。" — NE II.1
+>
+> "We become just by doing just actions, temperate by doing temperate actions, brave by doing brave actions." — *NE* II.1
+
+这一过程包含三个要素：
+1. **模仿榜样**：观察和学习有德性的人的行为。
+2. **反复实践**：在具体情境中反复练习正确的行为。
+3. **情感培养**：不仅做正确的事，还要对正确的事感到快乐（"一个在危险面前不退缩但内心恐惧的人，只是'有自制力'的人，而非真正'勇敢'的人"）。
+
+This process involves three elements:
+1. **Modeling**: Observing and learning from virtuous people.
+2. **Repeated practice**: Practicing right action in concrete situations.
+3. **Emotional cultivation**: Not only doing the right thing but taking pleasure in it ("one who stands firm in danger but feels fear has 'self-control,' not true 'courage'").
+
+---
+
+## 东西方对话 East-West Dialogue
+
+### 与儒家"修身"对话 Dialogue with Confucian "Self-Cultivation"
+
+亚里士多德的德性伦理与儒家的"修身"传统之间存在深层共鸣：
+
+Aristotle's virtue ethics deeply resonates with Confucian "self-cultivation":
+
+| 亚里士多德 Aristotle | 儒家 Confucianism |
+|-------------------|------------------|
+| 德性 Aretē | 德 Dé |
+| 中道 Mesotēs | 中庸 Zhōngyōng |
+| 实践智慧 Phronēsis | 权 Quán（权变） |
+| 习惯化 Habituation | 礼 Lǐ（礼仪化的行为训练） |
+| 幸福 Eudaimonia | 至善 Zhìshàn |
+| 有德性的人 phronimos | 君子 Jūnzǐ |
+
+关键差异在于：儒家的德性以关系为本位（"仁"必须在人际关系中实现），亚里士多德的德性以个体为本位（eudaimonia 是个体灵魂的繁荣）。
+
+Key difference: Confucian virtue is relationally based (*rén* must be realized in interpersonal relations); Aristotelian virtue is individually based (*eudaimonia* is the individual soul's flourishing).
+
+### 与唯识学"善心所"对话 Dialogue with Yogācāra "Wholesome Mental Factors"
+
+唯识学的"善心所"（kuśala-caitta）——如信、惭、愧、无贪、无嗔、无痴等——可以被视为一种更精细的"德性"分类。唯识学认为，善的行为不仅需要外在的"习惯化"，还需要在深层意识（阿赖耶识）中培养"善种子"（kuśala-bīja）。这补充了亚里士多德的习惯化理论——习惯化之所以有效，是因为它在深层意识中改变了"种子"的结构。
+
+Yogācāra's "wholesome mental factors" (*kuśala-caitta*)—faith, shame, conscience, non-greed, non-hatred, non-delusion—can be seen as a more refined "virtue" taxonomy. Yogācāra holds that virtuous action requires not only external "habituation" but also cultivating "wholesome seeds" (*kuśala-bīja*) in deep consciousness (*ālaya-vijñāna*). This supplements Aristotle's habituation theory—habituation works because it changes "seed" structure in deep consciousness.
+
+---
+
+## 当代复兴 Contemporary Revival
+
+自 Elizabeth Anscombe 1958 年的论文"Modern Moral Philosophy"以来，德性伦理学经历了强劲的复兴：
+
+Since Elizabeth Anscombe's 1958 paper "Modern Moral Philosophy," virtue ethics has undergone a powerful revival:
+
+- **Anscombe (1958)**：现代道德哲学（功利主义和义务论）依赖于已经不被接受的"神圣法律"概念；应回归亚里士多德式的品格伦理。
+- **MacIntyre (1981, *After Virtue*)**：启蒙运动试图为道德建立理性基础的努力失败了；应回归以"传统"和"叙事"为基础的德性伦理。
+- **Foot (1978, *Virtues and Vices*)**：德性与人类的自然需求和社会生活有内在联系。
+- **Hursthouse (1999)**：系统发展了"新亚里士多德主义"的德性伦理学。
+
+- **Anscombe (1958)**: Modern moral philosophy relies on the defunct concept of "divine law"; we should return to Aristotelian character ethics.
+- **MacIntyre (1981)**: The Enlightenment project to found morality on reason failed; we should return to tradition-and-narrative-based virtue ethics.
+- **Foot (1978)**: Virtues are internally connected to natural human needs and social life.
+- **Hursthouse (1999)**: Systematically developed "neo-Aristotelian" virtue ethics.
+
+---
+
+## 相关条目 Related Entries
+
+- [中道 Golden Mean](golden-mean.md)
+- [幸福论 Eudaimonia](eudaimonia.md)
+- [苏格拉底 · 德性即知识](../socrates/concepts/virtue-knowledge.md)
+- [亚里士多德 · 亚里士多德](../README.md)

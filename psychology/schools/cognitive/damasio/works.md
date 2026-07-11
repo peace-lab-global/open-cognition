@@ -1,0 +1,55 @@
+---
+id: damasio-works
+title: 达玛西奥著作目录 / Works of Damásio
+type: catalogue
+domain: psychology
+school: cognitive
+thinker: damasio
+---
+
+# 达玛西奥著作目录 / Works of Damásio
+
+## 主要专著 / Major Books
+
+| 著作 | 英文标题 | 年份 | 出版社 | 要点 |
+|------|----------|------|--------|------|
+| 《笛卡尔的错误》 | Descartes' Error: Emotion, Reason, and the Human Brain | 1994 | Putnam | 躯体标记假说；身心二元论批判；艾略特案例；爱荷华博弈任务 |
+| 《感受发生的一切》 | The Feeling of What Happens: Body and Emotion in the Making of Consciousness | 1999 | Harcourt | 核心意识与扩展意识；原我理论；意识的身体基础 |
+| 《寻找斯宾诺莎》 | Looking for Spinoza: Joy, Sorrow, and the Feeling Brain | 2003 | Harcourt | 情感理论与斯宾诺莎哲学对接；情绪教育；社会情感 |
+| 《自我的建构》 | Self Comes to Mind: Constructing the Conscious Brain | 2010 | Pantheon | 原我-核心自我-自传体自我三阶段模型；意识的完整理论 |
+| 《万物的奇异秩序》 | The Strange Order of Things: Life, Feeling, and the Making of Cultures | 2018 | Pantheon | 感受作为文化创造的生物根源；稳态与文化演化 |
+| 《感觉与认知》 | Feeling & Knowing: Making Minds Conscious | 2021 | Pantheon | 意识理论的最新综合；回应批评与新发展 |
+
+## 重要学术论文 / Key Academic Papers
+
+| 论文 | 合作者 | 期刊 | 年份 | 要点 |
+|------|--------|------|------|------|
+| "Insensitivity to future consequences following damage to human prefrontal cortex" | Bechara, A., Damásio, H., Tranel, D. | *Cognition* | 1994 | 爱荷华博弈任务的原始报告 |
+| "Deciding advantageously before knowing the advantageous strategy" | Bechara, A., Damásio, H., Tranel, D. | *Science* | 1997 | 躯体标记在意识之前运作的证据（SCR研究） |
+| "Emotion, decision making, and the orbitofrontal cortex" | Bechara, A., Damásio, H., Damásio, A. | *Cerebral Cortex* | 2000 | vmPFC 与决策的神经机制 |
+| "Subcortical and cortical brain activity during the feeling of self-generated emotions" | Damásio, A. et al. | *Nature Neuroscience* | 2000 | 情绪感受的神经影像证据 |
+| "A neural basis for social behavior" | Rilling, J., Damásio, A. | *Neuron* | 2002 | 社会行为的神经基础 |
+| "Investigating the neural basis of social behavior" | Damásio, A. et al. | *Science* | 2002 | 社会决策的fMRI研究 |
+| "Neural correlates of consciousness in humans" | Damásio, A. | *Nature Reviews Neuroscience* | 2004 | 人类意识的神经基质综述 |
+
+## 编辑与合作著作 / Edited and Collaborative Works
+
+- Damásio, H. & Damásio, A. (1989). *Lesion Analysis in Neuropsychology*. Oxford UP. — 神经心理学中的病变分析方法论
+- Damásio, A. (ed.). Various contributions to *Cognition* special issues on emotion and decision-making
+- 与妻子汉娜·达玛西奥（Hanna Damásio）长期合作神经影像学研究
+
+## 推荐入门顺序 / Recommended Reading Order
+
+### 通识读者 / General Readers
+1. 《笛卡尔的错误》（Descartes' Error, 1994）— 核心论点最清晰，叙事性最强，适合所有读者
+2. 《寻找斯宾诺莎》（Looking for Spinoza, 2003）— 将科学理论与哲学传统连接，文笔优美
+3. 《万物的奇异秩序》（The Strange Order of Things, 2018）— 从个体到文化，视野最宏阔
+
+### 专业读者 / Academic Readers
+4. 《感受发生的一切》（The Feeling of What Happens, 1999）— 意识理论的第一次完整阐述
+5. 《自我的建构》（Self Comes to Mind, 2010）— 最系统的意识理论，含详细的神经解剖讨论
+6. 《感觉与认知》（Feeling & Knowing, 2021）— 最新综合，回应了学界的批评和新发展
+
+### 论文精读 / Essential Papers
+7. Bechara et al. (1997), "Deciding Advantageously Before Knowing the Advantageous Strategy," *Science* — 躯体标记假说的关键实验证据
+8. Damásio et al. (2000), "Subcortical and cortical brain activity during the feeling of self-generated emotions," *Nature Neuroscience* — 情绪感受的神经影像学

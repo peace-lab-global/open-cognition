@@ -1,0 +1,75 @@
+# 埃里克·埃里克森 · Erik Erikson - 生平年表 / Life Timeline
+
+## 早年生活 / Early Life（1902–1927）
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|:---:|:---:|------|
+| 1902 | 0 | 6月15日出生于德国法兰克福。母亲卡拉·阿布raham森（Karla Abrahamsen）是丹麦犹太人，生父身份不明（据研究可能是丹麦非犹太裔人）。出生名 Erik Salomonsen。/ Born June 15 in Frankfurt, Germany. Mother Karla Abrahamsen was a Danish Jew; biological father's identity unknown (research suggests a Danish non-Jewish man). Birth name: Erik Salomonsen. |
+| 1904 | 2 | 母亲与犹太儿科医生西奥多·霍姆伯格（Theodor Homburger）再婚。Erik 改姓为 Homburger。/ Mother remarried Jewish pediatrician Theodor Homburger. Erik's surname changed to Homburger. |
+| 1905–1920 | 3–18 | 在卡尔斯鲁厄（Karlsruhe）长大。在学校因犹太身份受到排斥，在犹太社区中又因北欧外貌而格格不入——这种"双重外来者"的体验深刻影响了他后来的同一性研究。/ Grew up in Karlsruhe. Excluded at school for being Jewish; stood out in the Jewish community for his Nordic appearance — this "double outsider" experience profoundly influenced his later identity research. |
+| 1920 | 18 | 完成中学教育，拒绝进入大学（对当时的学术体制持怀疑态度）。开始在欧洲游历——访问意大利、法国南部，对艺术产生浓厚兴趣。/ Completed secondary education; refused to enter university (skeptical of the academic establishment). Began traveling Europe — visiting Italy and southern France, developing a strong interest in art. |
+| 1923–1927 | 21–25 | 在维也纳学习艺术，同时接触精神分析圈子。开始接受安娜·弗洛伊德（Anna Freud）的精神分析训练。在维也纳的Rosenfeld学校任教，接触心理分析儿童治疗的实践。/ Studied art in Vienna while engaging with the psychoanalytic circle. Began psychoanalytic training under Anna Freud. Taught at the Rosenfeld school in Vienna, encountering child psychoanalytic treatment in practice. |
+
+## 精神分析训练与移民 / Psychoanalytic Training and Emigration（1927–1939）
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|:---:|:---:|------|
+| 1927 | 25 | 正式进入维也纳精神分析研究所（Vienna Psychoanalytic Institute），在安娜·弗洛伊德指导下接受儿童精神分析训练。/ Formally entered the Vienna Psychoanalytic Institute, training in child psychoanalysis under Anna Freud. |
+| 1930 | 28 | 与加拿大裔舞蹈教师琼·塞尔森（Joan Serson）结婚。/ Married Joan Serson, a Canadian-born dance teacher. |
+| 1930 | 28 | 成为维也纳精神分析学会（Vienna Psychoanalytic Society）的正式会员。/ Became a formal member of the Vienna Psychoanalytic Society. |
+| 1933 | 31 | 纳粹上台后，埃里克森一家移民美国。最初定居波士顿，开始儿童精神分析的私人执业。/ After the Nazi rise to power, the Eriksons emigrated to the United States. Initially settled in Boston, beginning private practice in child psychoanalysis. |
+| 1933–1936 | 31–34 | 在波士顿的精神分析实践中接触了大量儿童患者，积累了临床经验。开始在哈佛大学医学院任教。/ In Boston psychoanalytic practice, treating numerous child patients and accumulating clinical experience. Began teaching at Harvard Medical School. |
+| 1936 | 34 | 接受耶鲁大学的职位，加入人类关系研究所（Institute of Human Relations）。开始与人类学家合作，接触跨文化研究。/ Accepted a position at Yale University, joining the Institute of Human Relations. Began collaborating with anthropologists, engaging with cross-cultural research. |
+| 1937 | 35 | 应玛格丽特·米德（Margaret Mead）之邀，前往南达科他州的松岭保留地（Pine Ridge Reservation），对苏族（Sioux/Oglala Lakota）印第安人进行田野调查。这是他首次系统性的跨文化研究。/ At Margaret Mead's invitation, traveled to the Pine Ridge Reservation in South Dakota for fieldwork among the Sioux (Oglala Lakota). This was his first systematic cross-cultural study. |
+| 1938 | 36 | 在加利福尼亚北部对尤罗克族（Yurok）印第安人进行田野调查。两次田野调查的成果后来被纳入《童年与社会》（1950）。/ Conducted fieldwork among the Yurok people in northern California. Findings from both field studies were later incorporated into *Childhood and Society* (1950). |
+
+## 理论建构期 / Theoretical Construction Period（1939–1960）
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|:---:|:---:|------|
+| 1939 | 37 | 加入加利福尼亚大学伯克利分校（UC Berkeley），参与儿童福利研究所（Institute of Child Welfare Research）。/ Joined UC Berkeley, participating in the Institute of Child Welfare Research. |
+| 1942 | 40 | 在伯克利期间，开始对二战退伍军人进行临床工作，观察到"战斗疲劳"中的同一性问题——这一观察成为"同一性危机"概念的起源之一。/ During his Berkeley years, began clinical work with WWII veterans, observing identity problems in "combat fatigue" — an observation that became one of the origins of the "identity crisis" concept. |
+| 1944 | 42 | 离开伯克利，加入旧金山精神分析研究所（San Francisco Psychoanalytic Institute）。/ Left Berkeley to join the San Francisco Psychoanalytic Institute. |
+| 1950 | 48 | 出版《童年与社会》（*Childhood and Society*）——心理社会发展八阶段理论的首次系统阐述。将姓氏正式改为 Erikson（意为"埃里克之子"）。/ Published *Childhood and Society* — first systematic articulation of the eight psychosocial stages. Formally changed surname to Erikson ("son of Erik"). |
+| 1951 | 49 | 加入匹兹堡大学（University of Pittsburgh）精神病学系。/ Joined the psychiatry department at the University of Pittsburgh. |
+| 1953 | 51 | 前往印度，在马哈特玛·甘地的出生地和相关地点进行研究旅行。这次访问为后来的《甘地的真理》（1969）奠定了基础。/ Traveled to India for research at sites associated with Mahatma Gandhi. This visit laid the foundation for *Gandhi's Truth* (1969). |
+| 1958 | 58 | 出版《青年路德》（*Young Man Luther*）——心理历史学方法的开创性应用。/ Published *Young Man Luther* — pioneering application of the psychohistorical method. |
+| 1959 | 59 | 出版《同一性与生命周期》（*Identity and the Life Cycle*）——同一性概念的系统提出。/ Published *Identity and the Life Cycle* — systematic formulation of the identity concept. |
+
+## 成熟期与公共影响 / Mature Period and Public Influence（1960–1980）
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|:---:|:---:|------|
+| 1960 | 58 | 加入哈佛大学教育学研究生院，担任人类发展教授。/ Joined Harvard Graduate School of Education as Professor of Human Development. |
+| 1963 | 61 | 《童年与社会》修订版出版，增加了对自我整合与绝望阶段的更深入论述。/ Revised edition of *Childhood and Society* published, with deeper treatment of the ego integrity vs. despair stage. |
+| 1964 | 62 | 出版《洞见与责任》（*Insight and Responsibility*），探讨精神分析的伦理维度。/ Published *Insight and Responsibility*, exploring ethical dimensions of psychoanalysis. |
+| 1968 | 66 | 出版《同一性：青年与危机》（*Identity: Youth and Crisis*）——同一性理论的深化与扩展。本书在1960年代的青年运动背景下产生了广泛的公共影响。/ Published *Identity: Youth and Crisis* — deepening and expansion of identity theory. The book had wide public impact in the context of the 1960s youth movement. |
+| 1969 | 67 | 出版《甘地的真理》（*Gandhi's Truth*）。/ Published *Gandhi's Truth*. |
+| 1970 | 68 | 从哈佛大学退休。罗伯特·科尔斯（Robert Coles）出版《埃里克·埃里克森：其工作的成长》（*Erik Erikson: The Growth of His Work*）——第一部系统性的学术传记。/ Retired from Harvard. Robert Coles published *Erik Erikson: The Growth of His Work* — the first systematic academic biography. |
+| 1970–1972 | 68–70 | 《甘地的真理》获普利策奖（一般非小说类）和美国国家图书奖。/ *Gandhi's Truth* awarded the Pulitzer Prize (General Nonfiction) and the National Book Award. |
+| 1973 | 71 | 获美国国家科学奖章（National Medal of Science），由尼克松总统颁发。/ Awarded the National Medal of Science by President Nixon. |
+| 1975 | 73 | 出版《生命历史与历史时刻》（*Life History and the Historical Moment*），系统反思心理历史学方法论。/ Published *Life History and the Historical Moment*, systematic methodological reflection on psychohistory. |
+| 1977 | 75 | 加入斯坦福大学行为科学高等研究中心（Center for Advanced Study in the Behavioral Sciences），成为研究员。/ Joined Stanford's Center for Advanced Study in the Behavioral Sciences as a fellow. |
+
+## 晚年 / Late Years（1980–1994）
+
+| 年份 / Year | 年龄 / Age | 事件 / Event |
+|:---:|:---:|------|
+| 1980 | 78 | 在哈佛的威廉·詹姆斯讲座（William James Lectures）上发表演讲，题为"同一性与内在生活"。/ Delivered the William James Lectures at Harvard, titled "Identity and the Inner Life." |
+| 1982 | 80 | 出版《生命周期的完成》（*The Life Cycle Completed*）——与妻子琼·埃里克森合作，为八阶段理论提供最终阐述。/ Published *The Life Cycle Completed* — collaboration with wife Joan Erikson, providing the final statement of the eight-stage theory. |
+| 1984 | 82 | 发表"对最后一个阶段——也是第一个阶段——的反思"（"Reflections on the Last Stage—and the First"），深入探讨老年期的发展任务。/ Published "Reflections on the Last Stage—and the First," exploring developmental tasks of old age. |
+| 1986 | 84 | 从马萨诸塞州坎布里奇（Cambridge）搬到马萨诸塞州哈维奇（Harwich），过着更加安静的生活。/ Moved from Cambridge, Massachusetts, to Harwich, Massachusetts, living a quieter life. |
+| 1987 | 85 | 论文集《一种看待事物的方式》（*A Way of Looking at Things*）出版，由 Stephen Schlein 编辑。/ Collected papers *A Way of Looking at Things* published, edited by Stephen Schlein. |
+| 1994 | 91 | 5月12日在马萨诸塞州哈维奇去世。/ Died May 12 in Harwich, Massachusetts. |
+| 1997 | — | 琼·埃里克森出版《生命周期的完成：扩展版》，增加第九阶段。/ Joan Erikson published *The Life Cycle Completed: Extended Version*, adding the ninth stage. |
+
+---
+
+## 荣誉与奖项 / Honors and Awards
+
+- **1970** 普利策奖（一般非小说类）/ Pulitzer Prize for General Nonfiction — *Gandhi's Truth*
+- **1970** 美国国家图书奖 / National Book Award — *Gandhi's Truth*
+- **1973** 美国国家科学奖章 / National Medal of Science
+- **1978** 美国艺术与科学学院院士 / Fellow of the American Academy of Arts and Sciences
+- **1978** 西格蒙德·弗洛伊德奖 / Sigmund Freud Prize (German Academy for Language and Poetry)
+- **1982** 美国心理学会杰出科学贡献奖 / APA Award for Distinguished Scientific Contributions

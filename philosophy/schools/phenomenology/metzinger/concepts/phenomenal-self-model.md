@@ -1,0 +1,128 @@
+---
+id: metzinger-phenomenal-self-model
+title: 现象自我模型 · Phenomenal Self-Model (PSM) · Metzinger
+type: concept
+domain: philosophy
+school: phenomenology
+thinker: metzinger
+tags: [PSM, self-model, body-schema, autobiographical-self, minimal-phenomenal-self, self-reference]
+cross-refs:
+  - id: metzinger
+    relation: thinker
+  - id: metzinger-transparency
+    relation: 核心特性
+  - id: metzinger-ego-tunnel
+    relation: 隧道之内容
+  - id: five-aggregates-cognitive
+    relation: 平行(五蕴)
+---
+
+# 现象自我模型 · Phenomenal Self-Model (PSM)
+
+## 一句话定义
+
+**现象自我模型**（Phenomenal Self-Model, PSM）是梅青格自我模型论的核心概念——大脑在每一刻**实时构建**的关于"自我"的表征系统，包含身体图式（body schema）、自传式记忆（autobiographical memory）、行动规划（action planning）等多个层次；我们不是自我，我们是**自我模型**。
+
+## 核心要义
+
+### 什么是"模型"？
+
+在梅青格的用法中，"模型"（model）不是对现实的粗糙模仿，而是一个**功能性表征系统**——它执行特定的认知任务（自我定位、行动规划、社会互动），同时对其使用者**遮蔽自身的建构性质**（透明性）。模型不是一个静态的图像，而是一个**动态的、实时更新的**过程——大脑在每一刻都在重新构建"自我"。
+
+### PSM 的多层架构
+
+梅青格将 PSM 分析为多个功能层次，每一层都对应特定的认知过程和神经基质：
+
+#### 1. 身体图式（Body Schema / Body Model）
+
+PSM 的最底层是**身体自我模型**——大脑对身体位置、形态、边界和运动能力的实时表征。
+
+- **功能**：为行动提供身体框架（"我的手在哪里？它能伸多远？"）
+- **神经基质**：顶叶皮层（parietal cortex）、体感皮层（somatosensory cortex）
+- **实验证据**：橡皮手幻觉（rubber hand illusion）、全身幻觉（full-body illusion）——身体图式可以被实验操控
+- **哲学含义**：身体自我不是一个固定的给定物，而是一个**可塑的模型**——它可以被扩展（工具使用）、缩小（截肢后的幻肢）、甚至替换（VR 中的虚拟身体）
+
+#### 2. 自传式自我（Autobiographical Self）
+
+PSM 的中间层是**自传式自我**——对个人历史、身份、性格特征、社会关系的长期表征。
+
+- **功能**：维持跨时间的自我同一性（"我是那个在 2010 年毕业的人"）
+- **神经基质**：内侧前额叶皮层（medial prefrontal cortex）、海马体（hippocampus）、后扣带回（posterior cingulate）
+- **脆弱性**：阿尔茨海默病患者丧失自传式自我，但最小自我感（MPS）可能保留——这说明 PSM 的不同层次可以独立受损
+- **哲学含义**：我们以为"自我"是跨时间同一的实体；实际上，自传式自我是一个**持续讲述中的叙事**——一个由记忆系统不断重写的故事
+
+#### 3. 行动-意志系统（Action-Planning & Volition）
+
+PSM 的一个关键层次是**行动规划与意志感**——"我在做这件事"的感觉。
+
+- **功能**：将行动表征为"我的"行动，产生主动感（sense of agency）
+- **神经基质**：前运动皮层（premotor cortex）、辅助运动区（SMA）、前扣带回（ACC）
+- **实验证据**：Libet 实验、Wegner 的"意志幻觉"（illusion of conscious will）——意志感可以被解构为后归因（post-hoc attribution）
+- **哲学含义**："我在行动"的感觉不是行动的原因，而是行动的**伴随表征**——自我模型将因果链条标记为"我的"
+
+#### 4. 自我指涉标记（Self-Referential Marker）
+
+PSM 中最微妙的一层是**自我指涉**——模型内部对"此处有自我"的标记。
+
+- **功能**：将所有经验统一标记为"我的"经验
+- **机制**：不是第二个自我在标记第一个自我，而是系统的**内在索引功能**
+- **哲学含义**：这解决了"谁在经验？"的问题——没有独立的经验者，只有经验系统**对自身的索引**
+
+#### 5. 最小现象自我（Minimal Phenomenal Self, MPS）
+
+PSM 的**最低配置**——即使所有高层结构（自传、身体感、意志感）都消退，仍然残留的最小自我感。
+
+- **功能**：提供最基本的"此处/此在"（here-ness）定向
+- **出现条件**：深度冥想、全感官剥夺、某些出神状态
+- **与 Blanke 的合作**：通过出体经验实验展示 MPS 可以从身体自我模型中部分剥离
+- **哲学含义**：即使"无我"经验也可能包含一个最小自我——完全消除自我感可能比佛教传统所假设的更为困难
+
+### PSM 的实时建构性
+
+PSM 不是一个存储在大脑中的**固定结构**——它是每一刻都在被**重新构建**的动态过程。这一观点与预测加工（predictive processing）框架高度吻合：
+
+- **预测加工视角**：PSM 是大脑的**生成模型**（generative model）的一部分——大脑预测"自我应该是什么"，然后用感觉输入来校正这个预测
+- **更新机制**：当感觉输入与预测不匹配时（如橡皮手幻觉中的视觉-触觉冲突），PSM 会被更新
+- **持续性幻觉**：PSM 的建构是如此连续和无缝，以至于我们感觉不到任何"建构"发生——这就是透明性的运作
+
+## PSM 与佛教五蕴的对照
+
+| PSM 层次 | 五蕴 | 平行含义 |
+|---|---|---|
+| 身体图式 | 色蕴（rūpa） | 物质性身体表征 |
+| 情绪-评价 | 受蕴（vedanā） | 苦乐感受 |
+| 概念分类 | 想蕴（saṃjñā） | 认知标记 |
+| 行动意志 | 行蕴（saṃskāra） | 行为倾向 |
+| 自我指涉 | 识蕴（vijñāna） | 了别认知 |
+
+**关键差异**：五蕴分析的目的是**实践性的**——帮助禅修者识别"这不是我，这不是我的，这不是我的自我"（n'etaṃ mama, n'eso hamasmi）；PSM 分析的目的是**理论性的**——提供自我意识的科学解释。
+
+## PSM 的哲学地位
+
+### 对笛卡尔的回应
+
+笛卡尔认为"我思故我在"（cogito ergo sum）证明了一个思维主体（res cogitans）的存在。梅青格的回应：
+
+- "我思"（cogito）是真实的——有思维在发生
+- "我在"（sum）是模型的产物——"我"是思维系统**对自身**的表征
+- 不存在独立于思维的思维者——只有**思维过程中的自我指涉**
+
+### 对扎哈维的张力
+
+扎哈维认为存在一个**前反思自身意识**（pre-reflective self-awareness）——在反思之前，意识就已经隐含地"知道"自己在经验。梅青格的回应：
+
+- 前反思自身意识可以被重新解读为 PSM 的**自我指涉层次**
+- 它不是独立于模型的"纯粹"自身意识，而是模型的一个**功能属性**
+- 这场争论是当代意识哲学中**自我实在论 vs 自我幻觉论**的核心分歧
+
+## 关键文本
+
+- Metzinger, *Being No One* (2003), Ch. 3 "The Self-Model Theory" & Ch. 4 "The Phenomenal Self"
+- Blanke & Metzinger, "Full-Body Illusions and Minimal Phenomenal Selfhood" (2009)
+- Wiese & Metzinger, "Predictive Processing and the Phenomenal Self" (2017)
+
+## 进阶阅读
+
+- Metzinger, *The Ego Tunnel* (2009), Ch. 3 "Dreams and Out-of-Body Experiences"
+- Millière & Metzinger, "The Phenomenal Self Model and Predictive Processing" (2020)
+- Gallagher, *How the Body Shapes the Mind* (2005) — 身体图式的独立研究

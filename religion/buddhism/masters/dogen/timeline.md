@@ -1,0 +1,79 @@
+---
+id: religion.buddhism.masters.dogen.timeline
+title: 道元年表 / Timeline of Dōgen
+type: reference
+domain: religion
+parent: README.md
+tags: [道元, Dogen, 年表, timeline, 传记, biography]
+---
+
+# 道元年表 / Timeline of Dōgen
+
+## 早年 (1200-1222) / Early Years
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1200 | 出生于京都，父亲为内大臣源通亲 / Born in Kyoto; father was Minister of the Interior Minamoto Michichika |
+| 1202 | 父亲去世 / Father dies |
+| 1207 | 母亲去世；由叔父抚养 / Mother dies; raised by uncle |
+| 1212 | 受叔父良观法眼影响，产生出家意愿 / Influenced by uncle Ryōkan Hōgen, develops aspiration to ordain |
+| 1213 | 在比睿山横川的般若谷剃度出家，法名道元 / Ordained on Mount Hiei at Yokawa's Hannya-dani; dharma name Dōgen |
+| 1214 | 在比睿山受具足戒 / Receives full precepts on Mount Hiei |
+| 1215-1222 | 在比睿山学习天台宗哲学，对"本觉思想"产生深刻疑问 / Studies Tendai philosophy on Mount Hiei; develops profound doubt about "original enlightenment" doctrine |
+
+## 入宋求法 (1223-1227) / Journey to China
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1223 | 与明全一起入宋（中国南宋）/ Departs for Song China with Myōzen |
+| 1223-1224 | 参访天童寺无际了派禅师 / Visits Master Wuji Liaopai at Tiantong |
+| 1224 | 参访径山如琰禅师 / Visits Master Ruyan at Jingshan |
+| 1224-1225 | 遍访天台山、育王山等名刹 / Visits renowned monasteries at Tiantai, Ayuwang |
+| 1225 | 明全于天童去世 / Myōzen dies at Tiantong |
+| 1225 | 遇天童如净禅师，在其指导下坐禅 / Meets Master Rujing at Tiantong; practices zazen under his guidance |
+| 1225 | 获得"身心脱落"的开悟体验 / Experiences the awakening of "dropping off body and mind" (*shinjin datsuraku*) |
+| 1226 | 如净印可道元的开悟，传以曹洞宗法脉 / Rujing confirms Dōgen's awakening and transmits the Caodong lineage |
+| 1227 | 携带如净的袈裟与传法文书归日 / Returns to Japan carrying Rujing's robe and dharma transmission documents |
+
+## 京都时期 (1227-1243) / Kyoto Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1227 | 归日后暂住建仁寺 / Returns to Japan; stays temporarily at Kennin-ji |
+| 1227 | 撰写《普劝坐禅仪》/ Writes *Fukan Zazengi* |
+| 1230-1233 | 在深草建立兴圣寺 / Establishes Kōshō-ji in Fukakusa |
+| 1231 | 开始撰写《正法眼藏》/ Begins composing *Shōbōgenzō* |
+| 1233 | 撰写《现成公案》/ Writes *Genjōkōan* |
+| 1234 | 撰写《学道用心集》/ Writes *Gakudō Yōjinshū* |
+| 1235 | 弟子怀记录《正法眼藏随闻记》/ Disciple Ejō records *Shōbōgenzō Zuimonki* |
+| 1236 | 兴圣寺正式落成 / Kōshō-ji formally established |
+| 1236-1243 | 在兴圣寺弘法，但因严格作风招致比睿山天台宗的反对 / Teaches at Kōshō-ji; strict approach provokes opposition from Mount Hiei's Tendai establishment |
+| 1241 | 撰写《有时》卷 / Writes *Uji* fascicle |
+| 1243 | 天台宗势力加强迫害 / Tendai forces intensify persecution |
+
+## 越前永平寺时期 (1243-1253) / Echizen-Eihei-ji Period
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1243 | 在波多野义重的庇护下退居越前 / Relocates to Echizen under patronage of Hatano Yoshishige |
+| 1244 | 建立大佛寺（后改名永平寺）/ Establishes Daibutsu-ji (later renamed Eihei-ji) |
+| 1246 | 撰写《永平清规》《办道法》/ Writes *Eihei Shingi*, *Bendōhō* |
+| 1246 | 寺名改为"永平寺" / Temple renamed "Eihei-ji" |
+| 1247 | 受幕府执权北条时赖邀请赴镰仓 / Invited to Kamakura by regent Hōjō Tokiyori |
+| 1248 | 在镰仓弘法后返回永平寺 / Returns to Eihei-ji after teaching in Kamakura |
+| 1249 | 撰写《知事清规》《众寮箴规》/ Writes *Chiji Shingi*, *Shuryō Shingi* |
+| 1249-1252 | 继续撰写《正法眼藏》/ Continues composing *Shōbōgenzō* |
+| 1253 | 因病赴京都医治 / Departs for Kyoto for medical treatment |
+| 1253 | 9月22日，在京都圆寂，享年53岁 / Dies in Kyoto on September 22, aged 53 |
+
+## 身后 / Posthumous
+
+| 年份 / Year | 事件 / Event |
+|---|---|
+| 1878 | 明治天皇授予"承阳大师"号 / Emperor Meiji grants the title "Jōyō Daishi" (Master Who Carries the Light) |
+| 20世纪 | 道元哲学被西方学术界"发现"，引发大量比较哲学研究 / Dōgen's philosophy "discovered" by Western academia, sparking extensive comparative philosophy research |
+
+## 相关条目 / Related Entries
+
+- [道元主页](README.md)
+- [著作列表](works.md)

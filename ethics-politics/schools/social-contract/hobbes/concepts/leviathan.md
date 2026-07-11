@@ -1,0 +1,130 @@
+---
+id: hobbes-leviathan
+title: 利维坦 · Leviathan · Hobbes
+type: concept
+thinker: hobbes
+domain: ethics-politics
+school: social-contract
+tags: [leviathan, state, sovereignty, artificial-person, hobbes, 利维坦, 国家, 人造人]
+cross-refs:
+  - id: hobbes
+    relation: thinker
+  - id: locke
+    relation: 对比(有限政府)
+  - id: schmitt
+    relation: 继承(决断主义)
+  - id: spinoza
+    relation: 批判继承
+---
+
+# 利维坦 · Leviathan
+
+## 概念概述 / Concept Overview
+
+利维坦是霍布斯构想的**人造国家**——通过社会契约创造的拥有绝对权力的主权者，其功能是以恐惧取代暴力，以法律取代自然权利。霍布斯称之为"会死的上帝"（mortal god），这一名称取自《圣经·约伯记》中的海中巨兽，象征国家不可抵抗的力量。利维坦不仅是霍布斯政治哲学的核心概念，也是西方政治思想史上关于国家本质最具影响力的隐喻之一。
+
+Leviathan is Hobbes's conception of the **artificial state** — a sovereign endowed with absolute power, created through social contract, whose function is to replace violence with fear and natural right with law. Hobbes calls it the "mortal god," borrowing the name from the sea monster of the Book of Job, symbolizing the irresistible power of the state. Leviathan is not only the core concept of Hobbesian political philosophy but also one of the most influential metaphors for the nature of the state in Western political thought.
+
+《利维坦》一书的卷首插图（由亚伯拉罕·博斯创作）是政治图像学的经典：一个巨大的巨人手持宝剑与权杖，其身体由无数微小的臣民组成。这幅画完美表达了霍布斯的核心思想——国家是一个**人造的人格**，由臣民的授权和代表关系构成。
+
+The frontispiece of *Leviathan* (by Abraham Bosse) is a classic of political iconography: a colossal giant wielding sword and crozier, whose body is composed of countless tiny subjects. This image perfectly expresses Hobbes's core idea — the state is an **artificial person**, constituted by the authorization and representation of subjects.
+
+## 理论内涵 / Theoretical Content
+
+### 名称来源与象征 / Etymology and Symbolism
+
+"利维坦"出自《圣经·约伯记》41章——海中巨兽，"在地上没有像他造的那样无所惧怕"（41:33）。霍布斯选择此名具有深刻的讽刺意味：一个世俗国家借用了宗教意象来象征自身的绝对性。这暗示了**国家的绝对权力**如同上帝的造物般不可挑战——但利维坦是"会死的"，它有诞生和消亡。
+
+"Leviathan" derives from Job 41 — the sea beast "upon earth there is not his like, who is made without fear" (41:33). Hobbes's choice of this name carries deep irony: a secular state borrows religious imagery to symbolize its own absoluteness. This implies that the **absolute power of the state** is as unchallengeable as God's creation — yet Leviathan is "mortal," with a birth and a death.
+
+### 利维坦的生成 / Genesis of Leviathan
+
+利维坦的生成遵循严格的逻辑推演：The genesis of Leviathan follows strict logical deduction:
+
+1. **自然状态的恐惧 / Fear of the state of nature** — 持续的暴力威胁使理性个体寻求出路
+2. **理性的计算 / Rational calculation** — 自然法指引人们放弃自然权利以换取和平
+3. **社会契约 / Social contract** — 所有人相互约定将权利转让给一个共同的主权者
+4. **授权与代表 / Authorization and representation** — 臣民授权主权者代表自己行动
+5. **利维坦诞生 / Birth of Leviathan** — 主权者成为"人造的会死的上帝"
+
+### 利维坦的权力 / Powers of Leviathan
+
+主权者拥有以下**不可分割、不可挑战**的权力：The sovereign possesses the following **indivisible, unchallengeable** powers:
+
+- **立法权 / Legislative** — 制定一切法律 / Making all laws
+- **司法权 / Judicial** — 裁决一切争议 / Adjudicating all disputes
+- **行政权 / Executive** — 执行一切决定 / Executing all decisions
+- **战争权 / War-making** — 宣战与媾和 / Declaring war and making peace
+- **教义权 / Doctrinal** — 规定公共宗教教义 / Prescribing public religious doctrine
+- **审查权 / Censorship** — 审查出版物与言论 / Censoring publications and speech
+- **人事权 / Appointments** — 任命一切官员 / Appointing all officials
+
+### 利维坦的限制 / Limits of Leviathan
+
+尽管权力绝对，利维坦仍有内在限制：Despite absolute power, Leviathan has inherent limits:
+
+- **目的限制 / Teleological limit** — 主权者的权力**仅为和平与安全**，不为灵魂救赎。Sovereign power exists **only for peace and security**, not for salvation.
+- **自我保存 / Self-preservation** — 臣民保留不可转让的自我保存权利。若主权者命令臣民自杀或不自卫，臣民有权拒绝。Subjects retain the inalienable right of self-preservation. If the sovereign commands a subject to kill themselves or not defend themselves, the subject may refuse.
+- **法律沉默 / Silence of the law** — 在主权者未制定法律的领域，臣民享有自由。In areas where the sovereign has not legislated, subjects enjoy liberty.
+- **物理限制 / Physical limit** — 主权者的命令必须具有可执行性。The sovereign's commands must be executable.
+
+### 利维坦的解体 / Dissolution of Leviathan
+
+利维坦不是永生的。当以下情况发生时，利维坦死亡：Leviathan is not immortal. It dies when:
+
+- 外敌征服 / Foreign conquest
+- 内战导致主权瓦解 / Civil war dissolves sovereignty
+- 主权者放弃权力 / The sovereign abdicates power
+- 臣民普遍不服从而主权者无力执行 / Widespread disobedience the sovereign cannot enforce
+- 主权权力被分割 / Sovereign power is divided
+
+## 思想史脉络 / Intellectual History
+
+利维坦概念在思想史中经历了复杂的演变。博丹的主权理论为利维坦提供了概念基础，但保留了神法的限制。施密特在1938年的《霍布斯国家理论中的利维坦》中将利维坦重新解读为"机器国家"，认为霍布斯的主权概念预设了一个能够在紧急状态下做出决断的主体。
+
+The Leviathan concept has undergone complex evolution in intellectual history. Bodin's theory of sovereignty provided a conceptual foundation but retained the limitation of divine law. Carl Schmitt in his 1938 *The Leviathan in the State Theory of Thomas Hobbes* reinterpreted Leviathan as a "machine state," arguing that Hobbes's concept of sovereignty presupposes a subject capable of decision in the state of exception.
+
+20世纪以来，利维坦的隐喻被扩展到多个领域。在经济学中，诺齐克的"超最小国家"论证了对利维坦的限制；在技术哲学中，大型科技平台被视为"私人利维坦"；在全球治理中，联合国等国际组织被视为不完整的"国际利维坦"。
+
+Since the 20th century, the Leviathan metaphor has expanded into multiple domains. In economics, Nozick's "ultra-minimal state" argues for limits on Leviathan; in technology philosophy, large tech platforms are seen as "private Leviathans"; in global governance, international organizations like the UN are viewed as incomplete "international Leviathans."
+
+## 关键文本 / Key Passages
+
+> "The only way to erect such a common power, as may be able to defend them from the invasion of foreigners, and the injuries of one another, and thereby to secure them in such sort, as that they may nourish themselves and their children, is, to confer all their power and strength upon one man, or upon one assembly of men, that may reduce all their wills, by plurality of voices, unto one will."
+> — *Leviathan*, Ch. 17
+
+> "This is more than consent, or concord; it is a real unity of them all, in one and the same person, made by covenant of every man with every man... This done, the multitude so united in one person, is called a COMMONWEALTH."
+> — *Leviathan*, Ch. 17
+
+## 当代应用 / Contemporary Applications
+
+- **威权现代化 / Authoritarian Modernization** — 新加坡模式常被视为"温和利维坦"的成功实践：以有限的政治自由换取经济繁荣和社会秩序。The Singapore model is often seen as a successful practice of "mild Leviathan": trading limited political liberty for economic prosperity and social order.
+
+- **国家安全 / National Security** — 反恐时代的"利维坦"逻辑：以监控和安全措施换取公民自由，体现了霍布斯式的安全优先原则。The "Leviathan logic" of the counter-terrorism era: trading civil liberties for surveillance and security measures embodies the Hobbesian priority of security.
+
+- **平台治理 / Platform Governance** — 大型科技平台（如Meta、Google）作为"私人利维坦"：在各自平台上行使类似主权的规则制定、裁决和执行权力。Large tech platforms (Meta, Google) as "private Leviathans": exercising quasi-sovereign rule-making, adjudication, and enforcement power within their platforms.
+
+- **全球治理 / Global Governance** — 国际利维坦的可能与不可能：气候变化和AI治理是否需要一个全球性利维坦？现有国际组织的"利维坦赤字"如何弥补？The possibility and impossibility of an international Leviathan: do climate change and AI governance require a global Leviathan? How to address the "Leviathan deficit" of existing international organizations?
+
+## 批评与回应 / Critiques and Responses
+
+- **洛克 / Locke**：绝对主权与臣民自由不可调和。洛克主张分权制衡，认为不受约束的权力本身就是暴政。Absolute sovereignty is irreconcilable with subjects' liberty. Locke advocates separation of powers, arguing that unconstrained power is tyranny by definition.
+
+- **卢梭 / Rousseau**：利维坦将主权从人民手中夺走。真正的主权应属于人民，通过公意行使。Leviathan takes sovereignty from the people. True sovereignty belongs to the people, exercised through the general will.
+
+- **施密特 / Schmitt**：利维坦的"机器"隐喻恰恰暴露了霍布斯理论的弱点——当主权者变成中立的机器而非能够做出决断的人格时，利维坦就已经死亡。Leviathan's "machine" metaphor exposes the weakness of Hobbes's theory — when the sovereign becomes a neutral machine rather than a person capable of decision, Leviathan is already dead.
+
+- **回应 / Response**：利维坦是**会死的**（mortal），有内在限制，且其权力源于人造契约而非自然或神意。在法律沉默之处，臣民享有自由。Leviathan is **mortal**, has inherent limits, and its power derives from artificial contract, not nature or divine will. In the silence of the law, subjects enjoy liberty.
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在中国传统中，法家的"势治"概念与利维坦有结构相似。韩非子认为君主的权力来自"势"（权力位置），而非道德品质，这与霍布斯强调主权的功能性而非统治者的道德优越性高度一致。然而法家缺乏霍布斯式的"授权"和"代表"概念——利维坦的权力在逻辑上来自臣民的同意（尽管不可撤回），而法家的权力纯粹自上而下。
+
+In the Chinese tradition, the Legalist concept of *shi-zhi* (rule by power-position) is structurally similar to Leviathan. Han Feizi held that a ruler's power derives from *shi* (power-position), not moral virtue, which is highly consistent with Hobbes's emphasis on the functional nature of sovereignty rather than the moral superiority of the ruler. Yet Legalism lacks the Hobbesian concepts of "authorization" and "representation" — Leviathan's power logically derives from subjects' consent (albeit irrevocable), while Legalist power is purely top-down.
+
+## 延伸阅读 / Further Reading
+
+- Skinner, Quentin. *Hobbes and Republican Liberty* (2008)
+- Tuck, Richard. *Hobbes: A Very Short Introduction* (2000)
+- Schmitt, Carl. *The Leviathan in the State Theory of Thomas Hobbes* (1938)
+- Prokhovnik, Raia. *Hobbes: Philosophies, Politics, Polemics* (2007)

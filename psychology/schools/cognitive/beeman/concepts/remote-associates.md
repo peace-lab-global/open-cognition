@@ -1,0 +1,138 @@
+---
+id: psychology.cognitive.beeman.concepts.remote-associates
+title: "远距离联想 · Remote Associates"
+type: concept
+parent: psychology.cognitive.beeman
+tags: [远距离联想, remote-associates, RAT, 语义网络, 创造性思维]
+---
+
+# 远距离联想 · Remote Associates
+
+> "创造性思维的秘诀不在于找到最近的联系，而在于发现那些看似无关的事物之间的隐秘纽带。"
+>
+> "The secret of creative thinking lies not in finding the closest connections, but in discovering the hidden bonds between seemingly unrelated things."
+
+---
+
+## 定义 / Definition
+
+**远距离联想**（remote association）是指在语义网络中激活和连接远距离、弱关联节点的能力。与近距离联想（如"医生"→"护士"，强关联、高频共现）不同，远距离联想涉及语义距离较大、日常经验中较少同时出现的概念之间的连接（如"医生"→"天使"→"白色"→"翅膀"）。Beeman 的研究表明，远距离联想能力是创造性思维的核心认知操作，其神经基础主要在右半球的粗语义编码系统。
+
+**Remote association** refers to the ability to activate and connect remote, weakly associated nodes in the semantic network. Unlike close association (such as "doctor" → "nurse," strongly associated and frequently co-occurring), remote association involves connections between concepts with greater semantic distance that rarely appear together in everyday experience (such as "doctor" → "angel" → "white" → "wings"). Beeman's research demonstrates that remote association ability is the core cognitive operation of creative thinking, with its neural basis primarily in the right hemisphere's coarse semantic coding system.
+
+---
+
+## 核心机制 / Core Mechanisms
+
+### 语义网络的拓扑结构 / Topology of Semantic Networks
+
+人脑的语义知识可以概念化为一个巨大的网络，其中节点代表概念，边代表概念之间的关联强度。近距离联想对应网络中的强连接边（高权重、短路径），远距离联想则需要跨越多个中间节点，激活那些在通常条件下不会被同时激活的概念。
+
+Human semantic knowledge can be conceptualized as a vast network where nodes represent concepts and edges represent association strength between concepts. Close association corresponds to strong connection edges in the network (high weight, short path), while remote association requires traversing multiple intermediate nodes to activate concepts that would not normally be co-activated.
+
+### 粗编码与精细编码 / Coarse Coding and Fine Coding
+
+Beeman (1998) 提出的粗编码理论区分了左右半球的语义处理策略：
+
+Beeman's (1998) coarse coding theory distinguishes the semantic processing strategies of the left and right hemispheres:
+
+| 维度 / Dimension | 左半球（精细编码）/ Left (Fine Coding) | 右半球（粗编码）/ Right (Coarse Coding) |
+|---|---|---|
+| 激活范围 / Activation scope | 窄、集中 / Narrow, focused | 宽、弥散 / Broad, diffuse |
+| 优势 / Advantage | 精确选择最佳语义匹配 / Precisely selecting the best semantic match | 同时激活多个弱候选 / Simultaneously activating multiple weak candidates |
+| 处理速度 / Processing speed | 快速衰减 / Rapid decay | 缓慢累积 / Slow accumulation |
+| 适合任务 / Suited tasks | 常规语言理解 / Routine language comprehension | 远距离联想、隐喻理解 / Remote association, metaphor comprehension |
+
+右半球的粗编码意味着一个概念的激活会弥散地扩散到语义网络中较远的节点。当需要找到远距离概念之间的共同点时（如 RAT 任务中"cottage, swiss, cake"的正确答案"cheese"），右脑的宽泛激活使得这些看似无关的弱关联节点能够同时达到激活阈限。
+
+The right hemisphere's coarse coding means that activation of a concept diffusely spreads to more distant nodes in the semantic network. When finding commonalities between distant concepts is required (such as in the RAT task where "cottage, swiss, cake" has the correct answer "cheese"), the right hemisphere's broad activation enables these seemingly unrelated weakly associated nodes to simultaneously reach the activation threshold.
+
+### 远距离联想测验 / Remote Associates Test (RAT)
+
+Mednick (1962) 开发的 RAT 是测量远距离联想能力的经典工具。被试需要找到一个词，使之分别与给定的三个词形成有意义的组合。Beeman 和 Bowden (1998) 在此基础上发展了复合远距离联想（Compound Remote Associates, CRA）任务，使用更多样的刺激材料，并区分了"顿悟解决"和"分析解决"两种解题方式。
+
+The RAT, developed by Mednick (1962), is the classic tool for measuring remote association ability. Participants must find a word that forms meaningful compounds with each of three given words. Beeman and Bowden (1998) built on this to develop the Compound Remote Associates (CRA) task, using more diverse stimulus materials and distinguishing between "insight solutions" and "analytic solutions."
+
+**示例 / Example**：
+- 提示词 / Cue words: **cottage, swiss, cake**
+- 答案 / Answer: **cheese** (cottage cheese, swiss cheese, cheesecake)
+
+---
+
+## 发展脉络 / Development
+
+- **Mednick (1962)**：提出远距离联想理论，认为创造力是将远距离概念元素组合成新组合的能力。开发了 RAT 测验。
+
+  Mednick proposed the remote association theory, defining creativity as the ability to combine remote conceptual elements into new combinations. Developed the RAT.
+
+- **Beeman & Bowden (1998)**：将远距离联想与右半球的粗编码理论联系起来，提出右脑在远距离联想中有优势的神经机制解释。
+
+  Beeman & Bowden connected remote association with the right hemisphere's coarse coding theory, proposing a neural mechanism explanation for the right hemisphere's advantage in remote association.
+
+- **Jung-Beeman et al. (2004)**：使用 fMRI 和 EEG 记录 RAT 任务解决过程中的脑活动，发现顿悟解决伴随着右 aSTG 的 γ 波爆发。
+
+  Jung-Beeman et al. used fMRI and EEG to record brain activity during RAT solving, finding that insight solutions are accompanied by gamma bursts in the right aSTG.
+
+- **Subrahmanyam et al. (2013)**：发展了多语言版本的 RAT，验证了远距离联想的跨文化一致性。
+
+  Subrahmanyam et al. developed multilingual versions of the RAT, validating the cross-cultural consistency of remote association.
+
+- **Olteţeanu & Falomir (2015)**：将 RAT 的计算模型化，用算法模拟远距离联想过程，为创造力的人工智能研究提供参考。
+
+  Olteţeanu & Falomir computationally modeled the RAT, using algorithms to simulate the remote association process, providing references for AI creativity research.
+
+---
+
+## 临床应用 / Clinical Applications
+
+### 创造力评估 / Creativity Assessment
+
+RAT 及其变体被广泛用于创造力研究和教育评估。远距离联想能力与发散思维（divergent thinking）、开放性人格特质（Openness to Experience）正相关，是预测个体创造力水平的重要指标。
+
+The RAT and its variants are widely used in creativity research and educational assessment. Remote association ability is positively correlated with divergent thinking and the personality trait of Openness to Experience, serving as an important predictor of individual creativity levels.
+
+### 认知训练 / Cognitive Training
+
+基于 RAT 范式的认知训练可以提升远距离联想能力。训练形式包括：(1) 经典 RAT 练习；(2) 语义发散训练（给定一个概念，尽可能多地产生远距离关联）；(3) 隐喻理解训练（发现不同领域之间的结构性相似性）。
+
+Cognitive training based on the RAT paradigm can enhance remote association ability. Training formats include: (1) classic RAT practice; (2) semantic divergence training (given a concept, generating as many remote associations as possible); (3) metaphor comprehension training (discovering structural similarities between different domains).
+
+### 精神分裂症研究 / Schizophrenia Research
+
+有趣的是，精神分裂症患者有时表现出"过度"的远距离联想——语义激活过于弥散，导致思维松散（loose associations）和妄想性联想。这提示远距离联想能力存在一个最优区间：过窄则缺乏创造力，过宽则可能导致思维障碍。
+
+Interestingly, patients with schizophrenia sometimes exhibit "excessive" remote association — semantic activation that is too diffuse, leading to loose associations and delusional thinking. This suggests an optimal range for remote association ability: too narrow results in lack of creativity, while too broad may lead to thought disorders.
+
+---
+
+## 关联概念 / Related Concepts
+
+- [[insight · 顿悟]] — 远距离联想的结果常常以顿悟的形式进入意识
+- [[right-hemisphere · 右半球]] — 远距离联想的神经基础
+- [[creative-cognition · 创造性认知]] — 远距离联想是创造性认知的核心操作
+- [[guilford · 发散思维]] — 发散思维与远距离联想在概念上交叉
+
+---
+
+## 东西方对话 / East-West Dialogue
+
+**中国古代的"比兴"传统与远距离联想**：中国古典诗歌中的"比兴"手法——通过自然意象（如"关关雎鸠"）引发对人类情感和伦理的联想——本质上是一种文化编码的远距离联想训练。诗人需要在"鸟鸣"与"爱情"、"流水"与"时间"之间建立远距离的语义连接。
+
+**Chinese "Bixing" Tradition and Remote Association**: The "bixing" (comparison and evocation) technique in classical Chinese poetry — evoking associations with human emotion and ethics through natural imagery (such as "guan guan, the ospreys cry") — is essentially a culturally encoded form of remote association training. Poets needed to establish remote semantic connections between "birdsong" and "love," "flowing water" and "time."
+
+**因明学中的"喻"与类比推理**：印度因明学（Hetu-vidyā）中的"喻"（dṛṣṭānta, 例证）要求在不同领域之间建立类比联系，这与远距离联想的认知操作有结构性相似。
+
+**"Dṛṣṭānta" in Indian Hetu-vidyā and Analogical Reasoning**: The "dṛṣṭānta" (example/analogy) in Indian Hetu-vidyā (logic) requires establishing analogical connections between different domains, which bears a structural similarity to the cognitive operation of remote association.
+
+---
+
+## 进阶阅读 / Further Reading
+
+### 原典 / Primary
+- Mednick, S.A. (1962). "The associative basis of the creative process." *Psychological Review*, 69(3), 220–232.
+- Bowden, E.M. & Beeman, M. (1998). "Getting the right idea." *Psychological Science*, 9(6), 435–440.
+- Beeman, M. (1998). "Coarse semantic coding." *Brain and Language*.
+
+### 二手 / Secondary
+- Kounios, J. & Beeman, M. (2015). *The Eureka Factor*. Chapter 3.
+- Runco, M.A. (2014). *Creativity: Theories and Themes*. Academic Press.

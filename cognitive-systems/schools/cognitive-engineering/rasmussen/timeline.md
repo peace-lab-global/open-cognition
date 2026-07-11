@@ -1,0 +1,36 @@
+---
+id: cognitive-systems.school.cognitive-engineering.rasmussen.timeline
+title: 拉斯穆森思想年表 Jens Rasmussen Timeline
+type: timeline
+thinker: rasmussen
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 拉斯穆森思想年表 / Jens Rasmussen Timeline
+
+### 1926 · 出生
+- 出生于丹麦
+
+### 1950s-1970s · 核安全研究
+- 在Risø国家实验室研究核电厂安全
+- 发现传统可靠性工程无法解释操作员认知行为
+
+### 1983 · "Skills, Rules, and Knowledge"
+- 发表里程碑论文，提出SRK三层次行为模型
+- 成为认知系统工程的基础性框架
+
+### 1986 · 《Information Processing and Human-Machine Interaction》
+- 系统阐述认知工作分析方法论
+- 将认知心理学与人因工程深度融合
+
+### 1990s · AcciMap与韧性思想
+- 提出事故因果的层级模型
+- 关注系统层面的安全分析
+
+### 2018 · 逝世
+
+## 思想演变关键词
+```
+核安全 (1950s-70s) → SRK模型 (1983) → CWA方法论 (1986) → AcciMap (1990s) → 遗产 (2018)
+```

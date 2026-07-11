@@ -1,0 +1,133 @@
+---
+id: rousseau-timeline
+title: 卢梭年表 · Timeline of Rousseau
+type: timeline
+domain: philosophy
+parent: rousseau
+tags:
+  - 卢梭年表
+  - Rousseau timeline
+  - 启蒙运动编年
+---
+
+# 卢梭年表 · Timeline of Rousseau
+
+## 早年与流浪（1712–1749）/ Early Years and Wandering (1712–1749)
+
+| 年份 | 事件 | 意义 |
+|------|------|------|
+| **1712** | 6月28日生于日内瓦。母亲苏珊·贝尔纳在分娩后第九天去世。 | 母亲的缺席成为卢梭终生的创伤 |
+| **1722** | 父亲伊萨克因斗殴纠纷逃离日内瓦。卢梭被送往舅舅家。 | 父亲的缺席加深了孤独感 |
+| **1725** | 在雕刻匠杜克洛处做学徒。卢梭后来描述这是"奴隶般的奴役"。 | 早期体验权威与压迫 |
+| **1728** | 逃离日内瓦，到达萨伏依的安纳西。遇见华伦夫人（Madame de Warens），开始接受天主教教育。 | 人生的第一次重大转折 |
+| **1730–36** | 在华伦夫人的"魅力庄园"（Les Charmettes）度过，广泛自学音乐、哲学、数学和植物学。 | 自学的黄金时期 |
+| **1742** | 移居巴黎，提出新的数字音乐记谱法，被科学院拒绝。 | 巴黎生涯的开始 |
+| **1743** | 担任法国驻威尼斯大使蒙泰居伯爵的秘书。 | 短暂的外交经验；对政治产生了兴趣 |
+| **1745** | 与女仆泰蕾兹·勒瓦瑟（Thérèse Levasseur）同居。此后育有五个孩子，全部送入育婴堂。 | 终生争议：教育哲学家遗弃了自己的孩子 |
+| **1747** | 结识狄德罗、孔狄亚克等百科全书派学者。 | 进入巴黎知识分子核心圈 |
+
+| Year | Event | Significance |
+|------|-------|-------------|
+| **1712** | Born June 28 in Geneva. Mother Suzanne Bernard died nine days after childbirth. | Maternal absence as lifelong wound |
+| **1722** | Father Isaac fled Geneva after a brawl dispute. Rousseau sent to his uncle's. | Paternal absence deepened isolation |
+| **1725** | Apprenticed to engraver Ducommun. Rousseau later described it as "slavish servitude." | Early experience of authority and oppression |
+| **1728** | Fled Geneva; arrived in Annecy, Savoy. Met Madame de Warens; began Catholic education. | First major turning point |
+| **1730–36** | Spent time at Les Charmettes with Madame de Warens; extensive self-study in music, philosophy, mathematics, botany. | Golden period of self-education |
+| **1742** | Moved to Paris; proposed new numerical music notation; rejected by the Academy of Sciences. | Beginning of Paris career |
+| **1743** | Served as secretary to the French ambassador to Venice, Comte de Montaigu. | Brief diplomatic experience; sparked political interest |
+| **1745** | Began cohabitation with Thérèse Levasseur. Five children born, all sent to foundling hospital. | Lifelong controversy: the education philosopher abandoned his own children |
+| **1747** | Met Diderot, Condillac, and other Encyclopedists. | Entered Paris intellectual circles |
+
+---
+
+## 哲学突破（1749–1762）/ Philosophical Breakthrough (1749–1762)
+
+| 年份 | 事件 | 意义 |
+|------|------|------|
+| **1749** | 在探望被囚于文森堡的狄德罗途中获得**"文森启示"**——顿悟文明的进步不增进幸福反而制造奴役。 | 卢梭全部思想的原点 |
+| **1750** | 《论科学与艺术》出版，获第戎科学院一等奖。 | 一举成名；与伏尔泰的第一次交锋 |
+| **1752** | 歌剧《乡村占卜师》（*Le Devin du village*）在枫丹白露为国王演出，大获成功。 | 卢梭作为作曲家的巅峰时刻 |
+| **1754** | 回到日内瓦，重新皈依新教（加尔文宗），恢复日内瓦公民身份。 | 政治身份的选择 |
+| **1755** | 《论人类不平等的起源和基础》出版。《百科全书》词条"论政治经济学"发表。 | 哲学宣言；确立自然状态和不平等理论 |
+| **1756** | 移居蒙莫朗西的"隐庐"（l'Hermitage），由埃皮奈夫人提供。开始写《新爱洛伊斯》。 | 隐退时期；与狄德罗决裂 |
+| **1757** | 与埃皮奈夫人和乌德托夫人发生感情纠葛，被迫离开隐庐。 | 个人关系的危机 |
+| **1761** | 《新爱洛伊斯》出版，成为18世纪最畅销小说之一。 | 文学成功；浪漫主义的先驱 |
+| **1762** | **《社会契约论》出版**（4月）。**《爱弥儿》出版**（5月）。巴黎索邦大学和日内瓦当局分别查禁并焚毁两书。签发逮捕令。 | 卢梭思想的高峰；被迫流亡的起点 |
+
+| Year | Event | Significance |
+|------|-------|-------------|
+| **1749** | **"Illumination de Vincennes"** while visiting Diderot in prison — sudden insight that civilization's progress creates servitude, not happiness. | Generative origin of all Rousseau's thought |
+| **1750** | *Discourse on the Arts and Sciences* published; won first prize from the Dijon Academy. | Instant fame; first clash with Voltaire |
+| **1752** | Opera *Le Devin du village* performed at Fontainebleau for the king; great success. | Peak of Rousseau's career as composer |
+| **1754** | Returned to Geneva; reconverted to Calvinism; restored Genevan citizenship. | Political identity choice |
+| **1755** | *Discourse on Inequality* published. *Encyclopédie* article "On Political Economy" published. | Philosophical manifesto; established state of nature and inequality theory |
+| **1756** | Moved to l'Hermitage at Montmorency, provided by Madame d'Épinay. Began writing *Julie*. | Period of retreat; rupture with Diderot |
+| **1757** | Romantic entanglements with Madame d'Épinay and Madame d'Houdetot; forced to leave l'Hermitage. | Personal relationship crisis |
+| **1761** | *Julie, or the New Heloise* published; became one of the 18th century's bestselling novels. | Literary success; precursor of Romanticism |
+| **1762** | ***The Social Contract*** published (April). ***Emile*** published (May). Both condemned and burned by the Paris Sorbonne and Genevan authorities. Arrest warrant issued. | Peak of Rousseau's thought; beginning of forced exile |
+
+---
+
+## 流亡与晚年（1762–1778）/ Exile and Final Years (1762–1778)
+
+| 年份 | 事件 | 意义 |
+|------|------|------|
+| **1762** | 逃往瑞士的伊弗东（Yverdon），继而莫蒂埃（Môtiers）。日内瓦焚毁其著作。 | 流亡的开始 |
+| **1763** | 放弃日内瓦公民身份。 | 与故乡的决裂 |
+| **1764** | 《山中来信》出版，回应日内瓦当局。伏尔泰发表匿名小册子揭露卢梭遗弃孩子的事实。 | 公开论战加剧 |
+| **1765** | 莫蒂埃的住所被暴民投掷石块。卢梭逃往圣皮埃尔岛（Île de Saint-Pierre），后被驱逐。 | 被迫不断迁移 |
+| **1766** | 接受大卫·休谟的邀请前往英国。 | 短暂的不列颠庇护 |
+| **1766–67** | 与休谟发生激烈争吵（卢梭怀疑休谟参与了反对他的阴谋）。返回法国。 | 被害妄想症的公开爆发 |
+| **1767** | 在法国各地隐姓埋名地游荡。 | 最痛苦的精神危机期 |
+| **1768** | 与泰蕾兹正式结婚。 | 迟来的婚姻 |
+| **1770** | 获准返回巴黎，条件是不再出版争议性著作。 | 流亡的结束 |
+| **1770–76** | 撰写《忏悔录》和《对话录》。在巴黎街头分发手稿，试图向路人诉说自己的清白。 | 自我辩护的执着与痛苦 |
+| **1776–78** | 撰写《一个孤独漫步者的遐想》。收集植物标本。 | 晚年的宁静与存在主义沉思 |
+| **1778** | 7月2日卒于埃尔蒙维尔（Ermenonville），葬于杨树岛（Île des Peupliers）。 | 终年66岁 |
+| **1794** | 法国大革命期间，遗骸迁入巴黎先贤祠，与伏尔泰相邻。 | 死后荣耀；革命者将其视为精神导师 |
+
+| Year | Event | Significance |
+|------|-------|-------------|
+| **1762** | Fled to Yverdon, then Môtiers, Switzerland. Geneva burned his books. | Beginning of exile |
+| **1763** | Renounced Genevan citizenship. | Rupture with homeland |
+| **1764** | *Letters from the Mountain* published. Voltaire anonymously exposed Rousseau's abandonment of his children. | Intensification of public polemics |
+| **1765** | Mob stoned his residence in Môtiers. Fled to Île de Saint-Pierre, then expelled. | Forced to relocate repeatedly |
+| **1766** | Accepted David Hume's invitation to England. | Brief British refuge |
+| **1766–67** | Violent quarrel with Hume (Rousseau suspected a conspiracy). Returned to France. | Public eruption of persecutory delusions |
+| **1767** | Wandered incognito across France. | Period of deepest spiritual crisis |
+| **1768** | Formally married Thérèse. | Long-delayed marriage |
+| **1770** | Permitted to return to Paris on condition of not publishing controversial works. | End of exile |
+| **1770–76** | Wrote *Confessions* and *Dialogues*. Distributed manuscripts to passersby on Paris streets, attempting to plead his innocence. | Obsessive and anguished self-defense |
+| **1776–78** | Wrote *Reveries of a Solitary Walker*. Collected botanical specimens. | Final years' tranquility and existentialist meditation |
+| **1778** | Died July 2 at Ermenonville; buried on Île des Peupliers. | Aged 66 |
+| **1794** | During the French Revolution, remains transferred to the Panthéon, beside Voltaire. | Posthumous glory; revolutionaries claimed him as spiritual guide |
+
+---
+
+## 思想影响年表 / Timeline of Intellectual Influence
+
+| 时期 | 影响 |
+|------|------|
+| **1789–94** | 法国大革命：罗伯斯庇尔、圣茹斯特以卢梭为师。《人权宣言》深受《社会契约论》影响。 |
+| **1780s–1800s** | 康德：将公意转化为道德自律（定言命令）。"卢梭教会了我尊重人。" |
+| **1800s–30s** | 浪漫主义运动：华兹华斯、歌德、夏多布里昂以卢梭为情感自然主义的先驱。 |
+| **1800s–1900s** | 黑格尔：将公意发展为伦理生活（Sittlichkeit）。马克思：将不平等批判发展为历史唯物主义。 |
+| **1900s–50s** | 教育运动：裴斯泰洛齐、福禄培尔、蒙台梭利、杜威继承自然教育理念。 |
+| **1950s–70s** | 塔尔蒙《极权主义民主的起源》（1952）：将卢梭与极权主义关联。伯林"两种自由概念"（1958）。 |
+| **1971–** | 罗尔斯《正义论》（1971）：原初状态作为卢梭自然状态的现代重构。 |
+| **2000s–** | 数字时代的amour-propre研究、参与式民主复兴、环境运动中的卢梭遗产。 |
+
+| Period | Influence |
+|--------|-----------|
+| **1789–94** | French Revolution: Robespierre and Saint-Just modeled on Rousseau. *Declaration of the Rights of Man* deeply influenced by *The Social Contract*. |
+| **1780s–1800s** | Kant: transformed the general will into moral autonomy (categorical imperative). "Rousseau set me right." |
+| **1800s–30s** | Romanticism: Wordsworth, Goethe, Chateaubriand claimed Rousseau as precursor of sentimental naturalism. |
+| **1800s–1900s** | Hegel: developed the general will into Sittlichkeit. Marx: developed the inequality critique into historical materialism. |
+| **1900s–50s** | Education movement: Pestalozzi, Froebel, Montessori, Dewey carried forward natural education. |
+| **1950s–70s** | Talmon's *Origins of Totalitarian Democracy* (1952): linked Rousseau to totalitarianism. Berlin's "Two Concepts of Liberty" (1958). |
+| **1971–** | Rawls's *A Theory of Justice* (1971): original position as modern reconstruction of Rousseau's state of nature. |
+| **2000s–** | Digital-age amour-propre research, participatory democracy revival, Rousseau's legacy in environmental movements. |
+
+---
+
+→ 返回 [卢梭主页 / Rousseau Main](README.md) | 参见 [著作概览 / Works](works.md) | [阅读指南 / Reading List](reading-list.md)

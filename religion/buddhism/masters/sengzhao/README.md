@@ -1,0 +1,127 @@
+---
+id: religion.buddhism-madhyamaka.sengzhao
+title: 僧肇 · Sengzhao
+type: thinker
+domain: religion
+school: buddhism-madhyamaka
+era: classical
+birth: 384
+death: 414
+tags: [madhyamaka, emptiness, prajna, chinese-buddhism, non-duality]
+aliases: [僧肇, Sengzhao, 释僧肇]
+sources:
+  - 僧肇, *肇论* (*Zhao Lun*)
+  - 僧肇, *物不迁论* (*The Immutability of Things*)
+  - 僧肇, *不真空论* (*The Emptiness of the Unreal*)
+  - 僧肇, *般若无知论* (*Prajna Is Without Knowing*)
+  - 僧肇, *涅槃无名论* (*Nirvana Is Nameless*)
+children:
+  - works.md
+  - timeline.md
+  - reading-list.md
+cross-refs:
+  - id: kumarajiva
+    relation: 师承
+  - id: nagarjuna
+    relation: 思想传承
+  - id: huiyuan
+    relation: 同时代对话
+---
+
+# 僧肇 / Sengzhao
+
+> **学派**: 中观学派（Madhyamaka / 佛教中观）
+> **时期**: 古典（Classical, 4th-5th Century CE）
+> **生卒**: 384–414
+> **国籍**: 中国（后秦，Chinese - Later Qin Dynasty）
+
+## 一、思想概要
+
+僧肇（384–414）是中国佛教史上最杰出的哲学家之一，被誉为"解空第一"——即对般若空性理解最为透彻的中国僧人。他生于京兆（今陕西西安），少年时即好老庄玄学，后从鸠摩罗什学般若中观，成为罗什门下"四圣"或"十哲"之一。僧肇年仅31岁即被后秦主姚兴下令处死（一说因政治牵连，一说因罗什入长安后僧团纷争），可谓英年早逝。
+
+僧肇的思想核心集中体现于《肇论》四论：《物不迁论》论证事物的"不迁"——过去之物不去，未来之物不来，看似运动的事物实则如如不动；《不真空论》论证"有"与"无"皆非究竟，事物既非实有亦非虚无，而是"不真"——因缘假有，体性本空；《般若无知论》论证真正的般若智慧超越一切概念分别，是"无知而无不知"的超越认知。
+
+僧肇是中国佛教思想史上第一位以中观般若学系统回应中国传统哲学（尤其是老庄玄学）问题的思想家。他巧妙地运用了玄学的语言框架来阐述佛教中观义理，开创了中国化的般若学传统，对后来的三论宗、天台宗乃至禅宗都产生了深远影响。
+
+Sengzhao (384–414) is one of the most brilliant philosophers in Chinese Buddhist history, renowned as the foremost Chinese interpreter of Madhyamaka emptiness. A disciple of Kumarajiva, he synthesized Indian Madhyamaka philosophy with Chinese philosophical language in his masterwork *Zhao Lun* (Treatises of Zhao). Despite dying at age 31, his work profoundly shaped Chinese Buddhist thought.
+
+## 二、核心命题
+
+1. **物不迁（The Immutability of Things）**：过去之物不去、未来之物不来——事物的"运动"只是假象。因果相续不等于事物的迁移，而是每一刹那的事物各住其位。
+
+2. **不真空（The Emptiness of the Unreal）**：事物既非"真有"也非"真无"——它们因缘假有，体性本空。"有"与"无"的概念对立本身就是戏论（prapañca）。
+
+3. **般若无知（Prajna Is Without Knowing）**：真正的般若智慧不是概念性的认知，而是"无知而无不知"——超越了主客对立的直接直观。
+
+4. **涅槃无名（Nirvana Is Nameless）**：涅槃超越一切名言概念——不可言说、不可思议。对涅槃的一切正面描述都是方便说。
+
+5. **即体即用（Identity of Substance and Function）**：体（空性）与用（现象）不是两个层面——现象即是空性的显现，空性即在现象之中。
+
+6. **中道不落两边（Middle Way, Neither Extreme）**：有与无、动与静、生与灭——一切对立都是分别心的戏论，实相超越一切二元对立。
+
+## 三、思想脉络
+
+### 第一阶段：玄学少年与道家修养（384–401）
+生于京兆（今西安），少年时好老庄，深通玄学。据传早年即以抄书为业，精通《老子》《庄子》。约17岁时接触佛教经典，产生浓厚兴趣。
+
+### 第二阶段：从学鸠摩罗什（401–413）
+401年鸠摩罗什入长安，僧肇随即投其门下。在罗什指导下系统学习中观般若学——包括龙树《中论》、提婆《百论》、《十二门论》等。罗什称僧肇为"秦人解空第一"。
+
+### 第三阶段：著述与英年早逝（404–414）
+404–413年间撰写《肇论》四论，系统以中观般若学回应中国哲学传统问题。414年被后秦主姚兴下令处死（一说因政治牵连），年仅31岁。
+
+## 四、核心著作
+
+| 年份 | 著作 | 核心贡献 |
+|------|------|----------|
+| c. 404 | *物不迁论* | 事物的"不迁"——过去不去、未来不来 |
+| c. 406 | *不真空论* | "有"与"无"皆非究竟，因缘假有 |
+| c. 408 | *般若无知论* | 般若智慧超越概念认知 |
+| c. 410 | *涅槃无名论* | 涅槃超越一切名言概念 |
+| c. 404–410 | *肇论*（四论合集） | 上述四论的合集 |
+| c. 406 | *维摩诘经注* | 对《维摩诘经》的注释（参与罗什译场） |
+
+## 五、重要概念
+
+- **不真空（Unreality of the Empty）**：事物因缘假有、体性本空——非真有非真无。
+- **物不迁（Immutability of Things）**：每一刹那的事物各住其位——看似运动实则如如不动。
+- **般若无知（Prajna Without Knowing）**：超越概念分别的直觉智慧——"无知而无不知"。
+- **涅槃无名（Nirvana Is Nameless）**：涅槃超越一切名言概念——不可言说。
+- **即体即用（Substance-Function Identity）**：空性与现象不二——体用一如。
+
+## 六、思想坐标
+
+**承接**：龙树（中观学派）；鸠摩罗什（师承，中观经典的汉译）；老庄玄学（语言框架与问题意识）。
+
+**批判**：六家七宗（对般若学的误解）；本无宗（偏于"无"）；心无宗（偏于"有"）；即色宗（不彻底的中道观）。
+
+**影响**：三论宗（吉藏）；天台宗（智顗）；禅宗（般若无知对禅悟的影响）；华严宗；宋明理学（体用论）。
+
+## 七、当代应用
+
+- **中观哲学的中国化**：僧肇的般若学是印度中观与中国玄学的创造性融合——为跨文化哲学提供范例。
+- **认知科学与冥想研究**：般若无知论对当代"无概念性认知"（non-conceptual awareness）研究有启发意义。
+- **时间哲学**：物不迁论与当代时间哲学中的"块宇宙"（block universe）理论和"现时论"（presentism）有对话空间。
+- **语言哲学**：涅槃无名论与维特根斯坦的"不可言说"和麦金的"认知闭合"形成跨文化对话。
+- **生态哲学**：即体即用思想对当代生态整体论有启发。
+
+## 八、常见误读
+
+- **"僧肇的'物不迁'否认运动。"** → 他并非否认经验层面的运动，而是论证运动的"实在性"——每一刹那的事物各住其位，所谓"运动"只是概念的假名。
+- **"般若无知意味着愚痴。"** → 恰恰相反，般若是最高形态的智慧——它超越了概念认知（分别知），达到了对实相的直接把握。
+- **"僧肇只是翻译了龙树的思想。"** → 僧肇创造性地将龙树的中观思想与中国老庄哲学融合——他的"即体即用"和"物不迁"具有独特的中国哲学特色。
+- **"不真空论是虚无主义。"** → 僧肇明确反对虚无主义——"不真空"说的是因缘假有、体性本空，既否定实有也否定虚无，是中道的立场。
+
+## 九、跨学科关联
+
+- **中观哲学**：空性、二谛、中道。
+- **老庄哲学**：道体论、自然、无为。
+- **时间哲学**：时间的刹那性、块宇宙论。
+- **认知科学**：非概念性认知、冥想与意识。
+- **语言哲学**：不可言说性、名言与实相。
+
+## 十、关联条目
+
+- [鸠摩罗什 Kumarajiva](../translators/kumarajiva/README.md) `[师承]` 中观经典的汉译与教授
+- [龙树 Nagarjuna](../madhyamaka/nagarjuna/README.md) `[思想传承]` 中观学派的印度根源
+- [吉藏 Jizang](../three-treatises/jizang/README.md) `[继承]` 三论宗的系统化

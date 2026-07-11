@@ -1,0 +1,58 @@
+---
+id: cognitive-systems.school.cognitive-engineering.norman.timeline
+title: 诺曼思想年表 Donald Norman Timeline
+type: timeline
+thinker: norman
+domain: cognitive-systems
+school: cognitive-engineering
+---
+
+# 诺曼思想年表 / Donald Norman Timeline
+
+## 学术生涯年表
+
+### 1935 · 出生
+- 出生于美国纽约
+
+### 1960s · 认知心理学研究
+- 在哈佛大学获心理学博士
+- 在加州大学圣迭戈分校（UCSD）任教
+- 研究人类记忆和信息加工
+
+### 1981 · "Categorization of Action Slips"
+- 在 *Psychological Review* 发表行动错误分类学
+- 区分slip（执行错误）和mistake（意图错误）
+- 奠定人为错误研究的认知心理学基础
+
+### 1988 · 《设计心理学》
+- *The Psychology of Everyday Things* (POET) 出版
+- 将认知心理学原则引入日常产品设计
+- 提出affordance、mapping、constraints等核心概念
+
+### 1990 · 《Human Error》
+- 系统阐述人为错误的分类与设计对策
+- 基于Rasmussen的SRK模型发展错误分类
+- 成为人因工程和安全领域的经典参考
+
+### 1993-1997 · Apple 时期
+- 担任Apple高级技术副总裁
+- 将认知设计原则引入技术产品设计
+- 体验了学术理论与工业实践的张力
+
+### 1998 · Nielsen Norman Group
+- 与Jakob Nielsen联合创建UX咨询公司
+- 推动以人为中心设计成为全球标准
+
+### 2004 · 《Emotional Design》
+- 将情感纳入设计框架
+- 提出设计的三个层面：本能层、行为层、反思层
+
+### 2013 · 《设计心理学》修订版
+- 更新以涵盖数字产品、智能设备设计
+- 反思affordance概念在数字界面中的应用
+
+## 思想演变关键词
+
+```
+记忆研究 (1960s) → 错误分类 (1981) → 设计心理学 (1988) → 人为错误 (1990) → 产业实践 (1993) → 情感设计 (2004) → 修订更新 (2013)
+```

@@ -1,0 +1,30 @@
+---
+id: bentham-reading-list
+title: 边沁进阶阅读
+type: reading-list
+domain: ethics-politics
+school: consequentialism
+thinker: bentham
+tags: [bentham, reading-guide]
+cross-refs: [{id: bentham, relation: thinker}]
+---
+
+# 边沁进阶阅读
+
+## 入门
+1. 《道德与立法原理导论》Ch. 1–4
+
+## 原典
+- *An Introduction to the Principles of Morals and Legislation* (1789)
+- *Panopticon* (1791)
+
+## 二手研究
+- Hart, H.L.A. *Essays on Bentham* (1982)
+- Harrison, Ross. *Bentham* (1983)
+
+## 阅读顺序
+| 目标 | 推荐 |
+|---|---|
+| 功利主义 | 《导论》→ Hart |
+| 法律哲学 | 《论法一般》→ Hart |
+| 监狱改革 | 《全景监狱》→ Foucault |

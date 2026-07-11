@@ -1,0 +1,174 @@
+---
+id: psychology.cognitive.friston.reading-list
+title: "弗里斯顿进阶阅读清单 · Friston Reading List"
+type: reading-list
+parent: psychology.cognitive.friston
+thinker: Karl Friston
+---
+
+# 弗里斯顿进阶阅读清单 · Friston Reading List
+
+> 分级阅读指南：从入门到深入，涵盖原典、二手研究、英文学术著作及相关领域资源。
+> Graded reading guide: from introductory to advanced, covering primary sources, secondary literature, English academic works, and related field resources.
+
+---
+
+## 一、入门级 / Level 1: Introductory
+
+> 适合初次接触弗里斯顿理论的读者，建立基本概念框架。
+> For readers new to Friston's theory, building basic conceptual framework.
+
+### 中文 / Chinese
+
+| 资源 / Resource | 类型 / Type | 说明 / Description |
+|---|---|---|
+| 《心理科学进展》中的弗里斯顿自由能原理综述 | 中文期刊综述 | 以中文视角系统介绍自由能原理与预测编码的基本概念 |
+| 《认知科学》期刊中的预测加工理论综述 | 中文期刊综述 | 预测加工在认知科学中的定位与应用 |
+| Andy Clark《冲浪不确定性》（中译本，如已出版）| 中文翻译 | 从哲学角度通俗阐述预测加工 |
+
+### English
+
+| Resource | Type | Description |
+|---|---|---|
+| Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *BBS*, 36, 181–204 | Review article | Accessible overview of predictive processing with wide-ranging commentary |
+| Seth, A. K. (2021). *Being You: A New Science of Consciousness*. Faber & Faber | Popular science | Chapter on predictive processing and consciousness, very readable |
+| Corlett, P. R. et al. (2019). "Why do delusions persist?" *Cognitive Neuropsychiatry* | Clinical intro | Introduction to predictive coding in psychiatry |
+
+---
+
+## 二、进阶级 / Level 2: Intermediate
+
+> 适合有一定基础的读者，深入核心理论与技术细节。
+> For readers with some background, delving into core theory and technical details.
+
+### 原典核心论文 / Core Primary Papers
+
+| 论文 / Paper | 年份 / Year | 主题 / Topic |
+|---|---|---|
+| Friston, K. "A free energy principle for the brain." *Nat Rev Neurosci* | 2006 | 自由能原理的原始阐述 |
+| Friston, K. "The free-energy principle: A rough guide to the brain?" *TICS* | 2009 | 对批评的回应，阐明约束性特征 |
+| Friston, K. et al. "A theory of cortical responses." *Phil Trans R Soc B* | 2005 | 预测编码的系统理论 |
+| Friston, K. et al. "Action and behavior: A free-energy formulation." *Biol Cybern* | 2010 | 主动推理的奠基论文 |
+| Friston, K. et al. "Active inference: A process theory." *Neural Comput* | 2017 | 主动推理的完整过程理论 |
+
+### 英文专著 / English Monographs
+
+| Book | Author | Year | Focus |
+|---|---|---|---|
+| *Surfing Uncertainty* | Andy Clark | 2016 | 预测加工的哲学阐述 |
+| *The Predictive Mind* | Jakob Hohwy | 2013 | 预测加工的哲学分析 |
+| *Active Inference: A Process Theory* | Parr, Pezzulo & Friston | 2022 | 主动推理的系统教科书（MIT Press） |
+| *Being You* | Anil Seth | 2021 | 意识的预测理论 |
+
+### 二手研究 / Secondary Literature
+
+| Paper | Author | Year | Focus |
+|---|---|---|---|
+| "The free energy principle for action and perception: A mathematical review" | Buckley, Kim et al. | 2017 | 数学综述，适合技术背景读者 |
+| "Predictive processing and the representation wars" | Williams | 2018 | 预测加工的表征哲学争论 |
+| "Active inference in biology and medicine" | Parr & Friston | 2019 | 生物学与医学中的主动推理应用 |
+
+---
+
+## 三、深入级 / Level 3: Advanced
+
+> 适合希望深入数学基础或前沿研究的读者。
+> For readers seeking deep mathematical foundations or frontier research.
+
+### 数学基础 / Mathematical Foundations
+
+| Resource | Author | Focus |
+|---|---|---|
+| *Pattern Recognition and Machine Learning* (Ch. 10) | Bishop | 变分推断的标准教科书 |
+| "Variational inference: A review for statisticians" | Blei et al. | 变分推断的统计学家视角 |
+| Friston et al. "Variational free energy and the Laplace approximation" | Friston et al. | 变分拉普拉斯方法 |
+| Friston, K. "DEM: A variational treatment of dynamic systems" | Friston | 动态系统变分推断 |
+
+### 前沿论文 / Frontier Papers
+
+| Paper | Year | Topic |
+|---|---|---|
+| "Generalised free energy and active inference" (Parr & Friston) | 2019 | POMDP中的主动推理 |
+| "Deep temporal models and active inference" | 2018 | 长时程层级推断 |
+| "Active inference, the free energy principle, and deep generative models" | 2020 | 与深度学习的交叉 |
+| "A free energy principle for representation learning" | 2020 | 自由能与表征学习 |
+| "Answering Schrödinger's question: A free-energy formulation" (Ramstead et al.) | 2018 | 生命系统的自由能原理 |
+
+### 技术教程 / Technical Tutorials
+
+| Resource | Author | Description |
+|---|---|---|
+| "A step-by-step tutorial on active inference" | Parr & Friston | 面向编程实现的逐步教程 |
+| SPM software documentation | Friston et al. | SPM统计参数映射的官方文档 |
+| pymdp / inferactively (开源库) | 社区开发 | 主动推理的Python实现库 |
+
+---
+
+## 四、相关领域 / Level 4: Related Fields
+
+> 适合希望从相关领域切入的读者。
+> For readers approaching from related fields.
+
+### 贝叶斯认知科学 / Bayesian Cognitive Science
+
+| Resource | Author | Year |
+|---|---|---|
+| *Bayesian Rationality* | Oaksford & Chater | 2007 |
+| "Probabilistic cognition" | Tenenbaum et al. | 2011 |
+| *The Rational Brain* | Gershman | 2023 |
+
+### 计算精神病学 / Computational Psychiatry
+
+| Resource | Author | Year |
+|---|---|---|
+| "Computational psychiatry: Towards mechanistic accounts of mental disorders" | Huys et al. | 2016 |
+| "A computational anatomy of psychosis" | Adams et al. | 2013 |
+| "Schizophrenia and the free energy principle" | Friston et al. | 2014 |
+
+### 心灵哲学 / Philosophy of Mind
+
+| Resource | Author | Year |
+|---|---|---|
+| *Surfing Uncertainty* | Clark | 2016 |
+| *The Predictive Mind* | Hohwy | 2013 |
+| "Predictive processing and the representation wars" | Williams | 2018 |
+| "The free energy principle and its implications for philosophy" | Klein | 2016 |
+
+### 东方哲学与冥想 / Eastern Philosophy and Meditation
+
+| Resource | Author | Year |
+|---|---|---|
+| *The Embodied Mind* (revised edition) | Varela, Thompson & Rosch | 2016 |
+| "Mindfulness and the free energy principle" | Lutz et al. | 2019 |
+| "Predictive processing and Buddhist epistemology" | 当代学术讨论 | ongoing |
+
+---
+
+## 五、数字资源 / Digital Resources
+
+| 资源 / Resource | 类型 / Type | 链接 / Link |
+|---|---|---|
+| SPM官方网站 | 软件/文档 | https://www.fil.ion.ucl.ac.uk/spm/ |
+| Wellcome Trust Centre for Neuroimaging | 研究机构 | https://www.fil.ion.ucl.ac.uk/ |
+| Active Inference Podcast | 播客 | 搜索"Active Inference Podcast" |
+| pymdp | Python库 | https://github.com/infer-actively/pymdp |
+| Karl Friston on YouTube | 讲座视频 | 多个学术会议演讲视频 |
+| Google Scholar: Karl Friston | 学术引用 | h-index追踪 |
+
+---
+
+## 阅读建议 / Reading Suggestions
+
+1. **从零开始**：先读Clark (2013)的BBS论文或Seth的通俗著作建立直觉。
+2. **核心理论**：再读Friston (2006)和(2009)理解自由能原理。
+3. **深入行动**：阅读Friston et al. (2010)和(2017)理解主动推理。
+4. **数学基础**：如果需要技术深度，阅读Bishop (Ch. 10)和Buckley et al. (2017)。
+5. **系统学习**：Parr et al. (2022)的MIT教科书是目前最全面的系统性文本。
+6. **持续追踪**：关注Friston和Parr的Google Scholar页面获取最新论文。
+
+1. **Starting from zero**: Begin with Clark (2013) BBS paper or Seth's popular science book to build intuition.
+2. **Core theory**: Then read Friston (2006) and (2009) to understand the free energy principle.
+3. **Deeper into action**: Read Friston et al. (2010) and (2017) to understand active inference.
+4. **Mathematical foundations**: For technical depth, read Bishop (Ch. 10) and Buckley et al. (2017).
+5. **Systematic study**: Parr et al. (2022) MIT textbook is currently the most comprehensive systematic text.
+6. **Stay current**: Follow Friston and Parr's Google Scholar pages for latest publications.

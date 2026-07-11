@@ -1,0 +1,135 @@
+---
+id: candrakirti-conventional-vs-inherent
+title: "名言有与自性有: 月称对存在概念的精确区分"
+type: concept
+parent: candrakirti
+domain: religion
+school: buddhism-madhyamaka-prasangika
+tags: [conventional-existence, inherent-existence, svabhava, prajnapti, two-truths, Madhyamaka]
+---
+
+# 名言有与自性有 / Conventional Existence vs Inherent Existence
+
+## 定义 / Definition
+
+**名言有 (vyavahara-sat / samvrti-sat)** 与**自性有 (svabhava-sat)** 的区分是月称哲学最精微的贡献。"有" (existence/bhava) 不是单一含义的概念——同一事物可以在不同意义上"有"或"无"。月称的核心主张是：一切法**名言中有** (conventionally exist) 但**自性中无** (do not inherently exist)。"有"不等于"实有"；否定自性不等于否定存在。
+
+**The distinction between conventional existence** (vyavahara-sat) **and inherent existence** (svabhava-sat) **is Candrakirti's most subtle philosophical contribution.** "Existence" (bhava) is not univocal — the same thing can "exist" or "not exist" in different senses. Candrakirti's central claim: all phenomena **exist conventionally** but **do not exist inherently**. "Existing" does not mean "existing inherently"; negating inherent existence does not mean negating existence.
+
+## 梵文语义 / Sanskrit Semantics
+
+- **vyavahara-sat**: 名言有——在世俗话语中成立的存在
+- **samvrti-sat**: 世俗有——在遮蔽层面成立的存在
+- **svabhava-sat**: 自性有——以固有本质成立的存在
+- **paramartha-sat**: 胜义有——在终极分析层面成立的存在
+- **prajnapti-matra**: 唯假名——纯粹是概念安立
+- **svalaksana-siddha**: 以自相成立——以事物自身固有特征成立
+
+## 三种"有"的层次 / Three Levels of "Existence"
+
+月称的分析实际上区分了三种"有"的层次：
+
+### 1. 名言有 Conventional Existence (vyavahara-sat)
+
+在日常经验和交流的层面，一切事物都存在：桌子存在、火焰存在、因果关系存在、善恶业报存在、修道成佛的可能性存在。这种存在是**功能性的** (arthakriya-karita)——事物能够产生效果、发挥作用。
+
+**At the level of everyday experience and communication, everything exists: tables, flames, causation, karma, the possibility of Buddhahood. This existence is functional (arthakriya-karita) — things produce effects and perform functions.**
+
+关键特征：
+- 不需要经得起胜义分析
+- 以"世间共许" (loka-prasiddhi) 为标准
+- 是缘起的、依赖性的
+- 具有功能性效力
+
+### 2. 自性有 Inherent Existence (svabhava-sat)
+
+以固有的、独立的、不依他缘的本质而存在。这种"有"是中观所否定的——因为如果事物有自性，就不能变化、不能生灭、不能与他物关联。自性有是**所破事** (dgag bya)。
+
+**Existing by way of a fixed, independent, non-dependent essence. This mode of existence is what Madhyamaka negates — because if things had svabhava, they could not change, arise, perish, or relate to other things. Inherent existence is the object of negation (dgag bya).**
+
+### 3. 胜义有 Ultimate Existence (paramartha-sat)
+
+在终极分析层面成立的存在。月称的立场是：**没有任何事物经得起胜义分析**——因为胜义分析会揭示一切事物的无自性。所以"胜义有"在月称的体系中是空的——没有事物是胜义有的。
+
+**Existence that withstands ultimate analysis. Candrakirti's position: nothing withstands ultimate analysis — such analysis reveals the non-inherent nature of all things. So "ultimate existence" is empty in Candrakirti's system — nothing exists ultimately.**
+
+## 核心论证 / Core Arguments
+
+### 月称对"有"的语义澄清 Candrakirti's Semantic Clarification
+
+月称在《入中论》中反复强调：当我们说"一切法空"时，不是在说"一切法不存在"。"空" (sunya) 否定的是"自性" (svabhava)，不是"存在" (bhava)。把"无自性"等同于"不存在"是对中观最大的误解。
+
+**Candrakirti repeatedly emphasizes: "all phenomena are empty" does not mean "all phenomena do not exist." "Empty" (sunya) negates "inherent existence" (svabhava), not "existence" (bhava). Equating "lacking inherent existence" with "non-existence" is the gravest misunderstanding of Madhyamaka.**
+
+### "有"与"实有"的区分 "Existing" vs "Substantially Existing"
+
+月称的精细之处在于：
+
+- "这张桌子**有**" — 正确（名言有）
+- "这张桌子**实有**" — 错误（自性有）
+- "这张桌子**不存在**" — 错误（否定名言有，堕入断见）
+
+**"This table exists" — correct (conventional existence). "This table substantially exists" — incorrect (inherent existence). "This table does not exist" — incorrect (denying conventional existence, falling into nihilism).**
+
+### 七相推求与"车"的譬喻 Seven-fold Analysis and the Chariot Metaphor
+
+月称在《入中论》第六品中以"车"为喻，分析"车"与"零件"的七种可能关系：
+
+1. 车不即是零件 (车 ≠ 零件)
+2. 车不离于零件 (车不离开零件而存在)
+3. 车不拥有零件 (车不是零件的"拥有者")
+4. 车不在零件中
+5. 零件不在车中
+6. 车不是零件的集合
+7. 车不是零件的形状
+
+穷尽七种关系后，"车"的自性不可得。但这不否定名言中的"车"——车作为假名安立 (prajnapti) 而存在，能运载、能使用。同样，"我"作为五蕴的假名安立而存在，但"我"的自性不可得。
+
+**Candrakirti analyzes seven possible relations between "chariot" and "parts": chariot is not identical to parts, not separate from parts, not the possessor of parts, not in the parts, parts not in the chariot, not the collection, not the shape. Having exhausted all possibilities, inherent chariot-hood is unobtainable. Yet conventionally, "chariot" exists as a conceptual designation (prajnapti) — it functions, it carries. Similarly, "self" exists as a designation upon the five aggregates, but inherent selfhood is unobtainable.**
+
+## 与西方哲学的对话 / Dialogue with Western Philosophy
+
+### 与奎因的本体论承诺 Quine's Ontological Commitment
+
+奎因 (W.V.O. Quine) 提出"存在就是成为变量的值" (to be is to be the value of a variable)——存在是通过量化逻辑来界定的。月称的区分提供了一个更精细的框架：即使我们在量化逻辑中承认"有桌子"，这也不意味着桌子具有独立的"本体论地位"。名言有与自性有的区分，使得我们可以在不承诺"自性"的前提下使用存在量化。
+
+**Quine's "to be is to be the value of a variable" defines existence via quantified logic. Candrakirti's distinction offers a subtler framework: even if we accept "there is a table" in quantified logic, this does not mean the table has independent "ontological status." The conventional/inherent distinction allows existential quantification without commitment to inherent existence.**
+
+### 与虚构主义 Fictionalism
+
+当代分析哲学中的虚构主义 (fictionalism) 认为：某些话语虽然在表面上做出存在承诺，但实际上只是在"假装"——如同文学虚构。月称的"名言有"与此有结构性相似，但关键差异在于：月称认为名言有是**真实有效的** (不是"假装")——因果业报在名言层面确实运作，不是虚构。
+
+**Fictionalism holds that certain discourses merely "pretend" to make ontological commitments. Candrakirti's "conventional existence" is structurally similar but crucially different: conventional existence is genuinely efficacious (not pretense) — karma genuinely operates at the conventional level.**
+
+## 对修行的意义 / Significance for Practice
+
+### 中道 Madhyamaka as Middle Way
+
+名言有与自性有的区分正是"中道"的核心：
+
+- **常见 (eternalism)**: 执着自性有 → 事物永恒不变
+- **断见 (nihilism)**: 否定名言有 → 否定因果业报
+- **中道**: 承许名言有 + 否定自性有 → 既不常也不断
+
+**The conventional/inherent distinction is the heart of the Middle Way: eternalism (grasping at inherent existence) and nihilism (denying conventional existence) are both avoided. The Middle Way accepts conventional existence while negating inherent existence — neither permanent nor annihilated.**
+
+### 修证次第 Stages of Realization
+
+1. **闻慧**: 理解名言有与自性有的概念区分
+2. **思慧**: 通过逻辑论证确认一切法无自性
+3. **修慧**: 在禅定中直接体验无自性
+4. **证悟**: 彻底断除自性执，但名言中的一切仍然有效运作
+
+## 常见误解 / Common Misunderstandings
+
+1. **"名言有 = 不真实"**: 月称不是说名言有是"幻觉"——名言有是功能有效的，火确实能烧，善业确实感乐果
+2. **"否定自性 = 否定一切"**: 否定自性恰恰是让缘起运作的前提——正因为无自性，一切才能变化、生灭、相互作用
+3. **"名言有与自性有是两种不同的东西"**: 不是——是同一个事物的两种存在方式。桌子只有一个，但可以"名言有"地存在，也可以被错误地执着为"自性有"地存在
+
+## 参见 / See Also
+
+- [名言中许有](conventional-acceptance.md)
+- [所破事精确化](negation-target.md)
+- [应成 vs 自续](prasangika-vs-svatantrika.md)
+- [应成法 Prasanga](prasanga-method.md)
+- [月称 Candrakirti](../README.md)

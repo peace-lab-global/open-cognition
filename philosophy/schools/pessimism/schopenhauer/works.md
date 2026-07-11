@@ -1,0 +1,189 @@
+---
+id: schopenhauer-works
+title: 叔本华著作总览 · Schopenhauer's Works
+type: works
+parent: schopenhauer
+domain: philosophy
+tags:
+  - works
+  - bibliography
+  - 著作
+  - 书目
+---
+
+# 叔本华著作总览 / Schopenhauer's Major Works
+
+---
+
+## 核心体系著作 / Core Systematic Works
+
+### 《充足理由律的四重根》/ *Über die vierfache Wurzel des Satzes vom zureichenden Grunde* (1813)
+
+**德语全名**：*Ueber die vierfache Wurzel des Satzes vom zureichenden Grunde. Eine philosophische Abhandlung.*
+
+**内容概要**：叔本华的博士论文，奠定了其整个哲学体系的认识论基础。该书论证了充足理由律（Principle of Sufficient Reason）有四种不同的形式，分别对应四种不同的认识对象：
+
+**Overview**: Schopenhauer's doctoral dissertation, laying the epistemological foundations of his entire philosophical system. The book argues that the principle of sufficient reason has four distinct forms, each corresponding to a different class of objects:
+
+| 理由律形式 / Form | 对象类型 / Object Type | 说明 / Description |
+|---|---|---|
+| 生成理由律 / Law of Becoming | 物理变化 / Physical changes | 因果律：每个变化都有其原因 / Causality: every change has its cause |
+| 认识理由律 / Law of Knowing | 判断 / Judgments | 逻辑推理：每个判断都有前提 / Logic: every judgment has premises |
+| 存在理由律 / Law of Being | 时空关系 / Spatiotemporal relations | 数学真理：几何和算术的基础 / Mathematics: foundations of geometry and arithmetic |
+| 行动理由律 / Law of Acting | 人类行为 / Human actions | 动机律：每个行为都有动机 / Motivation: every action has a motive |
+
+**意义**：该书是对康德范畴表的简化和重组，也是叔本华后来批判黑格尔"逻辑混淆"的武器——他认为黑格尔错误地将不同种类的理由律混为一谈。
+
+**Significance**: This work simplifies and reorganizes Kant's table of categories, and serves as Schopenhauer's later weapon against Hegel's "logical confusions" — he believed Hegel erroneously conflated different kinds of sufficient reason.
+
+---
+
+### 《作为意志和表象的世界》/ *Die Welt als Wille und Vorstellung* (1818, 第二版 1844)
+
+**德语全名**：*Die Welt als Wille und Vorstellung.*
+
+**内容概要**：叔本华的核心著作，也是西方哲学史上最重要的哲学著作之一。全书分为四卷（Books），各有明确的哲学分工：
+
+**Overview**: Schopenhauer's central work and one of the most important philosophical texts in the history of Western philosophy. The work is divided into four books, each with a clear philosophical domain:
+
+**第一卷：世界作为表象（受充足理由律支配）/ Book I: The World as Representation (subject to the principle of sufficient reason)**
+
+这一卷处理认识论问题。叔本华从"世界是我的表象"（Die Welt ist meine Vorstellung）这一命题出发，分析了表象世界的结构——即受时空、因果性和充足理由律支配的经验世界。他特别批判了康德的范畴演绎和先验辩证论。
+
+Book I addresses epistemology. Starting from "the world is my representation," Schopenhauer analyses the structure of the representational world — the empirical world governed by space, time, causality, and the principle of sufficient reason. He particularly critiques Kant's deduction of categories and transcendental dialectic.
+
+**第二卷：世界作为意志 / Book II: The World as Will**
+
+这一卷处理形而上学。叔本华论证世界的本体实在是"意志"——一种盲目的、非理性的欲求力量。他通过分析身体的双重性（作为表象的客体和作为意志的主体）来揭示意志作为物自体的地位，然后将其类比推广到一切自然现象。第二卷（1844）大幅扩充了对自然科学、本能、性欲的形而上学分析。
+
+Book II addresses metaphysics. Schopenhauer argues that the world's noumenal reality is "Will" — a blind, irrational striving force. He analyses the body's duality (as object of representation and subject of Will) to reveal Will as thing-in-itself, then extends this analogy to all natural phenomena. The 1844 second volume greatly expands the metaphysical analysis of natural science, instinct, and sexual love.
+
+**第三卷：世界作为表象（与理念相关）/ Book III: The World as Representation (in relation to Ideas)**
+
+这一卷处理美学。叔本华引入柏拉图的理念概念，将其定义为意志的直接客体化。审美沉思使主体成为纯粹无意志的认识主体，以理念为对象。艺术的等级体系和音乐的崇高地位在这一卷中得到系统阐述。
+
+Book III addresses aesthetics. Schopenhauer introduces the Platonic concept of Ideas, defining them as the Will's direct objectification. Aesthetic contemplation transforms the subject into a pure, will-less knowing subject, with Ideas as its object. The hierarchy of arts and the exalted position of music are systematically expounded here.
+
+**第四卷：世界作为意志（与伦理学相关）/ Book IV: The World as Will (in relation to ethics)**
+
+这一卷处理伦理学和解脱论。叔本华论证同情（Mitleid）是道德的唯一基础，分析了正义和仁爱的根源，讨论了悲观主义（痛苦与无聊的钟摆），最终达到意志的自我否定——通过禁欲主义实现从生命意志中的解脱。
+
+Book IV addresses ethics and soteriology. Schopenhauer argues that compassion (Mitleid) is the sole foundation of morality, analyses the roots of justice and benevolence, discusses pessimism (the pendulum of pain and boredom), and ultimately arrives at the Will's self-negation — achieving redemption from the will-to-live through asceticism.
+
+**第二版（1844）的扩充**：1844年的第二版增加了50章补充材料（Supplements），涵盖了自然科学中的意志、性欲的形而上学、论死亡、论个体化原理等重要主题。
+
+**The 1844 Second Edition**: The second edition adds 50 chapters of supplementary material (Supplements), covering important topics including Will in natural science, the metaphysics of sexual love, on death, and the principium individuationis.
+
+---
+
+## 专题著作 / Topical Works
+
+### 《论自然中的意志》/ *Über den Willen in der Natur* (1836)
+
+**内容概要**：叔本华试图用当时最新的自然科学成果（生理学、比较解剖学、动物学、植物学、物理学、化学）来验证和支持其意志形而上学。该书论证：自然科学所揭示的各种力量——引力、化学亲和力、植物的向光性、动物的本能——都是意志在不同等级上的客体化。
+
+**Overview**: Schopenhauer attempts to verify and support his Will metaphysics using the latest natural science of his time (physiology, comparative anatomy, zoology, botany, physics, chemistry). The book argues that the various forces revealed by natural science — gravity, chemical affinity, plant phototropism, animal instinct — are all grades of the Will's objectification.
+
+**意义**：这是叔本华体系中最具"经验主义"色彩的著作，也是他回应"意志概念过于宽泛"批评的尝试。
+
+**Significance**: This is the most "empirical" work in Schopenhauer's system and his attempt to address the criticism that the concept of Will is too broad.
+
+---
+
+### 《论意志自由》/ *Über die Freiheit des Willens* (1839)
+
+**内容概要**：该书是为回应挪威皇家科学学会的征文而作（获金奖）。叔本华区分了两种自由：**经验自由**（freedom of action）和**意志自由**（freedom of will）。他论证：在经验层面，人的行为严格服从因果必然性（动机律），因此经验中不存在自由意志；但在本体层面，人的"悟知性格"（intelligibler Charakter）——即作为物自体的意志本身——是自由的，因为它不受充足理由律的约束。
+
+**Overview**: Written in response to a prize competition of the Royal Norwegian Society of Sciences (awarded the gold medal). Schopenhauer distinguishes two kinds of freedom: **freedom of action** and **freedom of will**. He argues: at the empirical level, human behaviour is strictly subject to causal necessity (the law of motivation), so there is no free will in experience; but at the noumenal level, one's "intelligible character" (intelligibler Charakter) — the Will itself as thing-in-itself — is free, because it is not constrained by the principle of sufficient reason.
+
+**核心论证**：自由不在选择（因为我们总是选择我们认为最好的），而在存在（我们的意志性格在本体上是自由的）。"人能其所愿，但不能愿其所愿。"（Man can do what he wills, but he cannot will what he wills.）
+
+**Core argument**: Freedom lies not in choosing (for we always choose what we consider best) but in being (our intelligible character is noumenally free). "Man can do what he wills, but he cannot will what he wills."
+
+---
+
+### 《论道德的基础》/ *Über die Grundlage der Moral* (1840)
+
+**内容概要**：该书是《论意志自由》的姊妹篇，为回应丹麦皇家科学学会的征文而作（虽未获奖）。叔本华在其中系统阐述了自己的伦理学，并对康德的道德哲学进行了最详细的批判。核心论题：道德的唯一基础是同情（Mitleid），而非康德的绝对命令或功利主义的计算。
+
+**Overview**: A companion piece to *On the Freedom of the Will*, written for the Royal Danish Society of Sciences prize competition (though not awarded the prize). Schopenhauer systematically expounds his own ethics and provides his most detailed critique of Kant's moral philosophy. Core thesis: the sole foundation of morality is compassion (Mitleid), not Kant's categorical imperative or utilitarian calculation.
+
+---
+
+## 随笔集 / Essay Collections
+
+### 《附录与补遗》/ *Parerga und Paralipomena* (1851)
+
+**内容概要**：两卷本的哲学随笔集，是叔本华生前最后出版的著作，也是使他获得大众声誉的作品。"Parerga"（附录）指与主体系相关的补充性讨论，"Paralipomena"（补遗）指在主体系中遗漏的话题。
+
+**Overview**: A two-volume collection of philosophical essays, Schopenhauer's last published work and the book that finally brought him popular recognition. "Parerga" (appendices) refers to supplementary discussions related to the main system; "Paralipomena" (omissions) refers to topics left out of the main system.
+
+**重要篇章 / Notable essays**:
+
+| 篇章 | 内容 |
+|------|------|
+| 《人生的智慧》*Aphorismen zur Lebensweisheit* | 论幸福、性格、财富、名声的实用哲学 |
+| 《论哲学与科学的关系》 | 哲学方法论讨论 |
+| 《论宗教》 | 对基督教和其他宗教的批判性分析 |
+| 《论阅读与书籍》 | 阅读方法论和对当时出版文化的批判 |
+| 《论女人》 | 叔本华最具争议的文章之一 |
+| 《论噪音》 | 对城市噪音的抱怨和对安静思考的呼吁 |
+| 《论表象世界的幻象》 | 关于梦、视觉和疯狂的讨论 |
+
+| Essay | Content |
+|-------|---------|
+| *Aphorismen zur Lebensweisheit* | Practical philosophy on happiness, character, wealth, fame |
+| On Philosophy and Science | Discussion of philosophical methodology |
+| On Religion | Critical analysis of Christianity and other religions |
+| On Reading and Books | Reading methodology and critique of contemporary publishing |
+| On Women | One of Schopenhauer's most controversial essays |
+| On Noise | Complaints about urban noise and a plea for quiet thinking |
+| On the Illusion of the World of Representation | Discussion of dreams, visions, and madness |
+
+---
+
+### 《论充足理由律的四重根》第二版 / *Über die vierfache Wurzel*, 2nd edition (1847)
+
+修订扩充版，增加了大量注释和对第一版论证的修正。
+
+Revised and expanded edition with extensive notes and corrections to the first edition's arguments.
+
+---
+
+### 遗稿 / Posthumous Works
+
+### 《论充足理由律的四重根》手稿补遗 / Manuscript Remains
+
+叔本华留下的大量手稿和笔记，包含了对主要著作的补充思考、读书笔记和个人反思。
+
+Extensive manuscripts and notes left by Schopenhauer, containing supplementary thoughts on his major works, reading notes, and personal reflections.
+
+### 《对话录》/ *Dialogues* (遗稿)
+
+以对话形式探讨哲学问题的未发表手稿。
+
+Unpublished manuscripts exploring philosophical problems in dialogue form.
+
+---
+
+## 著作年表 / Chronological Bibliography
+
+| 年份 | 德语书名 | 中文 | 英文 |
+|------|---------|------|------|
+| 1813 | *Über die vierfache Wurzel des Satzes vom zureichenden Grunde* | 充足理由律的四重根 | On the Fourfold Root of the Principle of Sufficient Reason |
+| 1816 | *Über das Sehn und die Farben* | 论视觉和颜色 | On Vision and Colours |
+| 1818 | *Die Welt als Wille und Vorstellung* (第一版) | 作为意志和表象的世界（第一版） | The World as Will and Representation (1st ed.) |
+| 1836 | *Über den Willen in der Natur* | 论自然中的意志 | On the Will in Nature |
+| 1839 | *Über die Freiheit des Willens* | 论意志自由 | On the Freedom of the Will |
+| 1840 | *Über die Grundlage der Moral* | 论道德的基础 | On the Basis of Morality |
+| 1844 | *Die Welt als Wille und Vorstellung* (第二版，含补充卷) | 作为意志和表象的世界（第二版） | The World as Will and Representation (2nd ed.) |
+| 1847 | *Über die vierfache Wurzel* (第二版) | 充足理由律的四重根（第二版） | On the Fourfold Root (2nd ed.) |
+| 1851 | *Parerga und Paralipomena* | 附录与补遗 | Parerga and Paralipomena |
+
+---
+
+## 相关条目 / Related Entries
+
+- [叔本华 · README](README.md) — 返回总条目
+- [年表](timeline.md) — 生平与思想大事记
+- [阅读书目](reading-list.md) — 原典版本与二手文献

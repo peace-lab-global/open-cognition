@@ -1,0 +1,99 @@
+---
+id: schopenhauer-timeline
+title: 叔本华年表 · Schopenhauer Timeline
+type: timeline
+parent: schopenhauer
+domain: philosophy
+tags:
+  - timeline
+  - biography
+  - 年表
+  - 生平
+---
+
+# 叔本华生平与思想年表 / Schopenhauer's Life and Intellectual Timeline
+
+---
+
+## 早年（1788–1813）/ Early Years (1788–1813)
+
+| 年份 | 事件 | Event |
+|------|------|-------|
+| 1788 | 2月22日，出生于但泽（Danzig，今波兰格但斯克），一个富裕的波罗的海德意志商人家庭 | Born 22 February in Danzig (now Gdańsk, Poland) into a wealthy Baltic German merchant family |
+| 1793 | 但泽被普鲁士吞并，全家迁往汉堡 | Danzig annexed by Prussia; family relocates to Hamburg |
+| 1797 | 被送往法国勒阿弗尔（Le Havre）的友人家庭学习法语和社交礼仪 | Sent to a friend's family in Le Havre, France, to learn French and social graces |
+| 1799 | 返回汉堡，进入文科学校（Gymnasium）学习 | Returns to Hamburg, enters the Gymnasium |
+| 1804 | 父亲海因里希·弗洛里斯·叔本华疑似自杀身亡（在运河中溺死），对叔本华造成深刻影响 | Father Heinrich Floris Schopenhauer dies (drowned in canal), likely by suicide; profoundly affects Arthur |
+| 1805 | 遵从父亲遗愿在但泽和汉堡从事商业学徒，后放弃商业转向学术 | Following father's wishes, begins commercial apprenticeship in Danzig and Hamburg; later abandons commerce for academics |
+| 1807 | 进入魏玛的文科学校，与歌德有了初步接触 | Enters the Gymnasium in Weimar; initial contact with Goethe |
+| 1809 | 进入哥廷根大学学习哲学，师从舒尔策（G. E. Schulze），后者引导他阅读柏拉图和康德 | Enters the University of Göttingen to study philosophy under G. E. Schulze, who guides him to read Plato and Kant |
+| 1811 | 转入柏林大学，师从费希特（J. G. Fichte），参加费希特的讲座 | Transfers to the University of Berlin; attends Fichte's lectures |
+| 1813 | 在鲁多尔施塔特完成博士论文《充足理由律的四重根》，获耶拿大学博士学位 | Completes doctoral dissertation *On the Fourfold Root of the Principle of Sufficient Reason* in Rudolstadt; awarded doctorate by the University of Jena |
+| 1813 | 母亲约翰娜在魏玛举办文学沙龙，叔本华与歌德建立个人关系，讨论色彩理论 | Mother Johanna hosts a literary salon in Weimar; Arthur establishes personal relationship with Goethe, discussing colour theory |
+
+---
+
+## 核心创作期（1814–1820）/ Core Creative Period (1814–1820)
+
+| 年份 | 事件 | Event |
+|------|------|-------|
+| 1814 | 与母亲彻底决裂（此前关系已日趋紧张），此后两人再未见面 | Complete break with his mother (relations had been strained); the two never meet again |
+| 1814–18 | 在德累斯顿独立研究和写作，深入研究柏拉图、康德和印度哲学（通过拉丁文翻译的《奥义书》） | Independent study and writing in Dresden; deep study of Plato, Kant, and Indian philosophy (via Latin translations of the Upanishads) |
+| 1816 | 出版《论视觉和颜色》（*Über das Sehn und die Farben*），发展歌德色彩理论 | Publishes *On Vision and Colours*, developing Goethe's colour theory |
+| 1818 | 完成《作为意志和表象的世界》第一版，由柏林的勃洛克豪斯出版社出版 | Completes *The World as Will and Representation* (first edition), published by Brockhaus in Berlin |
+| 1819 | 前往意大利旅行（佛罗伦萨、威尼斯），返回后在法兰克福定居 | Travels to Italy (Florence, Venice); returns and settles in Frankfurt |
+| 1820 | 《作为意志和表象的世界》出版后几乎无人问津；出版商报告销量极低 | *WWR* goes almost entirely unnoticed; publisher reports minimal sales |
+
+---
+
+## 柏林时期（1820–1831）/ Berlin Period (1820–1831)
+
+| 年份 | 事件 | Event |
+|------|------|-------|
+| 1820 | 在柏林大学获得讲师职位（Privatdozent） | Obtains position as Privatdozent (unsalaried lecturer) at the University of Berlin |
+| 1820 | 刻意将课程安排在与黑格尔同一时间段——结果黑格尔吸引了大批学生，叔本华只有寥寥数人 | Deliberately schedules lectures at the same time as Hegel — Hegel attracts large audiences, Schopenhauer has only a handful of students |
+| 1821 | 与柏林一位女裁缝卡罗琳·雅格特（Caroline Jager）发生关系，后者怀孕但孩子夭折 | Relationship with Berlin seamstress Caroline Jager; she becomes pregnant but the child dies |
+| 1826 | 再次开设讲座，但学生更少（据记载只有5名学生，后来减至3名） | Offers lectures again with even fewer students (reportedly only 5, later reduced to 3) |
+| 1831 | 因霍乱疫情（黑格尔在同一年死于霍乱）离开柏林 | Leaves Berlin due to cholera epidemic (Hegel dies of cholera the same year) |
+
+---
+
+## 法兰克福时期与声誉确立（1833–1860）/ Frankfurt Period and Recognition (1833–1860)
+
+| 年份 | 事件 | Event |
+|------|------|-------|
+| 1833 | 定居法兰克福美因河畔，此后在此度过余生 | Settles in Frankfurt am Main, where he remains for the rest of his life |
+| 1836 | 出版《论自然中的意志》，试图用自然科学支持其意志形而上学 | Publishes *On the Will in Nature*, attempting to support his Will metaphysics with natural science |
+| 1839 | 完成《论意志自由》（为挪威皇家科学学会征文而作，获金奖） | Completes *On the Freedom of the Will* (for Royal Norwegian Society of Sciences prize; awarded gold medal) |
+| 1840 | 完成《论道德的基础》（为丹麦皇家科学学会征文而作，未获奖——评委认为他对黑格尔的批评"不当"） | Completes *On the Basis of Morality* (for Royal Danish Society of Sciences; not awarded — judges found his criticism of Hegel "inappropriate") |
+| 1841 | 将两篇伦理学论文合编为《伦理学的两个基本问题》（*Die beiden Grundprobleme der Ethik*）出版 | Combines both ethics essays into *The Two Fundamental Problems of Ethics* |
+| 1844 | 出版《作为意志和表象的世界》第二版（两卷），增加大量补充材料 | Publishes second edition of *WWR* (two volumes) with extensive supplementary material |
+| 1847 | 出版《充足理由律的四重根》修订第二版 | Publishes revised second edition of *On the Fourfold Root* |
+| 1851 | 出版《附录与补遗》（*Parerga und Paralipomena*）——终于获得大众声誉 | Publishes *Parerga and Paralipomena* — finally achieves popular recognition |
+| 1854 | 弗劳恩施塔特（Julius Frauenstädt）出版《论叔本华哲学的书信》（*Briefe über die Schopenhauer'sche Philosophie*），标志着"叔本华学派"的兴起 | Julius Frauenstädt publishes *Letters on Schopenhauer's Philosophy*, marking the rise of a "Schopenhauer school" |
+| 1857 | 伊丽莎白·里格蒙特（Elisabeth Rieger）出版了第一部叔本华研究专著 | Elisabeth Rieger publishes the first scholarly monograph on Schopenhauer |
+| 1860 | 9月9日因肺炎发作；9月21日去世，享年72岁。葬于法兰克福市公墓 | Falls ill with pneumonia on 9 September; dies 21 September, aged 72. Buried in Frankfurt city cemetery |
+
+---
+
+## 身后影响 / Posthumous Influence
+
+| 年份 | 事件 | Event |
+|------|------|-------|
+| 1862 | 尼采在莱比锡大学发现叔本华的《作为意志和表象的世界》，深受震撼 | Nietzsche discovers *WWR* at Leipzig University; deeply affected |
+| 1872 | 尼采出版《悲剧的诞生》，明显受叔本华影响 | Nietzsche publishes *The Birth of Tragedy*, clearly influenced by Schopenhauer |
+| 1876 | 瓦格纳的《尼伯龙根的指环》（*Der Ring des Nibelungen*）首演，深受叔本华美学影响 | Wagner's *Der Ring des Nibelungen* premieres, deeply influenced by Schopenhauer's aesthetics |
+| 1886 | 尼采在《善恶的彼岸》中对叔本华进行了深刻的批判 | Nietzsche offers profound critique of Schopenhauer in *Beyond Good and Evil* |
+| 1895 | 弗洛伊德开始形成无意识理论，后承认与叔本华意志哲学的关联 | Freud begins developing unconscious theory; later acknowledges connection to Schopenhauer's Will philosophy |
+| 1916 | 托马斯·曼出版《对叔本华的沉思》（*Schopenhauer*），将其定位为现代文学的哲学先驱 | Thomas Mann publishes *Schopenhauer*, positioning him as philosophical precursor of modern literature |
+| 1930 | 维特根斯坦在《逻辑哲学论》中体现了与叔本华的呼应（"可说/不可说"的二分法） | Wittgenstein's *Tractatus* echoes Schopenhauer (sayable/unsayable dichotomy) |
+| 1960s | 叔本华对佛教和印度哲学的引介在比较哲学领域获得系统研究 | Schopenhauer's introduction of Buddhist and Indian philosophy receives systematic study in comparative philosophy |
+| 2000s | 动物伦理学和深层生态学领域重新发现叔本华的同情伦理和万物意志同一性 | Animal ethics and deep ecology rediscover Schopenhauer's compassion ethics and the ontological unity of all Will |
+
+---
+
+## 相关条目 / Related Entries
+
+- [叔本华 · README](README.md) — 返回总条目
+- [著作总览](works.md) — 主要著作详述
+- [阅读书目](reading-list.md) — 原典版本与二手文献

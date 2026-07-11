@@ -1,0 +1,155 @@
+---
+id: noddings-reading-list
+title: "诺丁斯阅读指南 · Nel Noddings Annotated Reading List"
+type: reading-list
+thinker: noddings
+domain: ethics-politics
+school: care-ethics
+tags:
+  - 阅读指南
+  - 诺丁斯
+  - reading list
+  - Noddings
+---
+
+# 诺丁斯阅读指南 · Nel Noddings Annotated Reading List
+
+## 入门级 / Introductory Level
+
+### 原典 / Primary Sources
+
+**1. *Caring: A Feminine Approach to Ethics and Moral Education* (1984), Ch. 1–2**
+这是理解诺丁斯思想的最佳起点。第1章阐述关怀关系的结构（关怀者与被关怀者），第2章区分自然关怀与伦理关怀。这两章共约50页，可以在一个下午读完，但包含了诺丁斯全部理论的核心框架。
+This is the best starting point for understanding Noddings' thought. Chapter 1 articulates the structure of the caring relation (the one-caring and the cared-for); Chapter 2 distinguishes natural from ethical caring. Together these two chapters total about 50 pages, readable in an afternoon, yet contain the core framework of Noddings' entire theory.
+
+**2. *The Challenge to Care in Schools* (1992), Ch. 1, 3**
+第1章概述了关怀教育的核心理念，第3章详细阐述了以关怀为核心组织课程的具体方案。对于教育从业者特别有帮助。
+Chapter 1 outlines the core principles of caring education; Chapter 3 details the specific plan for organizing curriculum around caring. Especially helpful for education practitioners.
+
+**3. 《关怀》中译本（侯晶晶译，北京师范大学出版社），全书**
+中文版翻译质量较高，适合英文阅读有困难的读者。建议对照英文版阅读以把握关键术语的精确含义。
+The Chinese translation is of relatively high quality, suitable for readers who find English challenging. Reading alongside the English edition is recommended for precise understanding of key terms.
+
+### 二手导读 / Secondary Introductions
+
+**4. Virginia Held, *The Ethics of Care* (2006), Ch. 1–3**
+弗吉尼亚·赫尔德是关怀伦理学的另一位重要代表。她在这本书的前三章提供了对关怀伦理学最清晰、最系统的哲学概述，包括对诺丁斯、吉利根和特朗托的比较分析。
+Virginia Held is another important representative of care ethics. In the first three chapters, she provides the clearest and most systematic philosophical overview of care ethics, including comparative analysis of Noddings, Gilligan, and Tronto.
+
+**5. 肖巍《女性主义伦理学》（商务印书馆），相关章节**
+中国学者对女性主义伦理学（包括关怀伦理学）的系统研究，提供了中文语境下的理论框架和背景知识。
+A Chinese scholar's systematic study of feminist ethics (including care ethics), providing theoretical frameworks and background knowledge in the Chinese context.
+
+## 进阶级 / Intermediate Level
+
+### 原典 / Primary Sources
+
+**6. *Caring* (1984), Ch. 3–6**
+第3–4章讨论关怀与正义的关系，第5–6章探讨关怀伦理学在教育中的应用。这些章节将核心理论扩展到更广泛的社会和教育领域。
+Chapters 3–4 discuss the relation between care and justice; Chapters 5–6 explore care ethics in education. These chapters extend the core theory to broader social and educational domains.
+
+**7. *Women and Evil* (1989)**
+诺丁斯最具争议性的著作。她从女性主义视角重新定义"恶"为关怀关系的破坏（分离、抛弃、冷漠），挑战了传统的"恶即善的缺失"定义。对于理解关怀伦理学的形而上学维度很重要。
+Noddings' most controversial work. She redefines "evil" from a feminist perspective as the destruction of caring relations (separation, abandonment, indifference), challenging the traditional definition of evil as the absence of good. Important for understanding the metaphysical dimension of care ethics.
+
+**8. *The Maternal Factor* (1990)**
+阐述母性思维作为独立的道德认知路径。这本书将关怀伦理学与认识论联系起来，论证了关怀不仅是一种伦理立场，也是一种认知方式。
+Articulates maternal thinking as an independent path of moral cognition. This book connects care ethics with epistemology, arguing that caring is not only an ethical stance but also a cognitive mode.
+
+**9. *Starting at Home* (2002), Part I–II**
+将关怀伦理学从教育领域扩展到社会政策领域。第一部分论证家庭关怀经验的规范意义，第二部分将关怀伦理应用于具体的社会政策议题。
+Extends care ethics from education to social policy. Part I argues for the normative significance of family caring experience; Part II applies care ethics to specific social policy issues.
+
+### 二手研究 / Secondary Literature
+
+**10. Joan Tronto, *Moral Boundaries* (1993)**
+琼安·特朗托将关怀伦理学发展为一种民主政治理论，补充了诺丁斯理论中相对薄弱的政治维度。她将关怀分为五个阶段（caring about, caring for, care-giving, care-receiving, caring with），提供了一个更精细的分析框架。
+Joan Tronto develops care ethics into a democratic political theory, complementing the relatively weak political dimension in Noddings' theory. She divides caring into five phases (caring about, caring for, care-giving, care-receiving, caring with), providing a more refined analytical framework.
+
+**11. Michael Slote, *The Ethics of Care and Empathy* (2007)**
+斯洛特从道德心理学的角度发展了关怀伦理学，将"移情"（empathy）作为关怀的心理基础。他的工作为关怀伦理学提供了更坚实的道德心理学支持。
+Slote develops care ethics from the perspective of moral psychology, positioning "empathy" as the psychological foundation of caring. His work provides more solid moral-psychological support for care ethics.
+
+**12. Selina Sevenhuijsen, *Citizenship and the Ethics of Care* (1998)**
+探讨关怀伦理与公民身份的关系，论证关怀应被视为公民德性的组成部分。
+Explores the relationship between care ethics and citizenship, arguing that caring should be considered a component of civic virtue.
+
+**13. 吉利根《不同的声音》（中央编译出版社）**
+关怀伦理学的心理学源头。吉利根通过对女性道德判断的实证研究，发现了不同于柯尔伯格"正义阶段"的"关怀"道德声音。
+The psychological origin of care ethics. Through empirical research on women's moral judgment, Gilligan discovered a "care" moral voice distinct from Kohlberg's "justice stages."
+
+## 专业级 / Advanced Level
+
+### 原典 / Primary Sources
+
+**14. *Happiness and Education* (2003)**
+诺丁斯最具哲学深度的著作之一。她论证幸福（而非知识或技能）是教育的终极目的，并分析了幸福的构成要素：关怀关系、地方感、与自然的关系等。
+One of Noddings' most philosophically deep works. She argues that happiness (rather than knowledge or skill) is the ultimate purpose of education, analyzing its constituents: caring relations, sense of place, relation with nature, etc.
+
+**15. *When School Reform Is Standardized* (2005)**
+对美国教育标准化改革的系统性批判。诺丁斯不仅批判了"不让一个孩子掉队"法案，还论证了标准化如何从根本上破坏了教育的关怀条件。对于理解教育政策批判很重要。
+A systematic critique of American education standardization reform. Noddings critiques not only the "No Child Left Behind" Act but also argues how standardization fundamentally undermines the caring conditions of education. Important for understanding education policy critique.
+
+**16. *A Feminist Perspective on Peace and Social Justice* (2017, with Laurie Brooks)**
+诺丁斯的最后一部重要著作，将关怀伦理扩展到国际关系和全球治理。讨论了战争、贫困、移民和全球正义等议题。
+Noddings' last major work, extending care ethics to international relations and global governance. Discusses war, poverty, migration, and global justice.
+
+### 二手研究 / Secondary Literature
+
+**17. Fiona Robinson, *Globalizing Care: Ethics, Feminist Theory, and International Relations* (1999)**
+将关怀伦理学应用于国际关系理论，论证了全球正义的关怀路径。
+Applies care ethics to international relations theory, arguing for a caring approach to global justice.
+
+**18. Eva Feder Kittay, *Love's Labor: Essays on Women, Equality, and Dependency* (1999)**
+探讨了依赖关系（dependency relations）在政治哲学中的地位，补充了诺丁斯对脆弱性和依赖性的分析。
+Explores the place of dependency relations in political philosophy, complementing Noddings' analysis of vulnerability and dependency.
+
+**19. Daniel Engster, *The Heart of Justice: Care Ethics and Political Theory* (2007)**
+将关怀伦理学发展为系统的政治理论，论证了关怀正义（caring justice）的可能性。
+Develops care ethics into a systematic political theory, arguing for the possibility of "caring justice."
+
+**20. Maurice Hamington & Dorothy C. Miller (eds.), *Socializing Care: Feminist Ethics and Public Issues* (2006)**
+关于关怀伦理学在公共议题中应用的论文集，涵盖了医疗、教育、环境和国际关系等领域。
+An edited collection on care ethics applications in public issues, covering healthcare, education, environment, and international relations.
+
+## 中文资源 / Chinese Resources
+
+**21. 侯晶晶《关怀伦理学的哲学底蕴》（北京师范大学出版社）**
+诺丁斯思想的深度分析，作者曾翻译诺丁斯多部著作，对诺丁斯理论有深入理解。
+In-depth analysis of Noddings' thought; the author translated several of Noddings' works and has deep understanding of her theory.
+
+**22. 朱小蔓《情感教育论纲》（人民出版社）**
+将关怀伦理应用于中国情感教育实践的重要著作，为诺丁斯思想在中国教育语境中的落地提供了桥梁。
+An important work applying care ethics to Chinese emotional education practice, providing a bridge for the landing of Noddings' thought in the Chinese educational context.
+
+**23. 肖巍《女性主义伦理学》（商务印书馆）**
+中国学者对女性主义伦理学的系统研究，提供了诺丁斯思想在中文学术语境中的定位。
+A Chinese scholar's systematic study of feminist ethics, positioning Noddings' thought within the Chinese academic context.
+
+**24. 刘小枫《现代性社会理论绪论》（相关章节）**
+从中国社会理论的角度审视关怀伦理学，提供了跨文化的理论对话。
+Examines care ethics from the perspective of Chinese social theory, providing cross-cultural theoretical dialogue.
+
+## 在线资源 / Online Resources
+
+**25. Stanford Encyclopedia of Philosophy, "Care Ethics"**
+提供了对关怀伦理学的综合性学术概述，包括诺丁斯、吉利根、赫尔德和特朗托的比较分析。
+Provides a comprehensive academic overview of care ethics, including comparative analysis of Noddings, Gilligan, Held, and Tronto.
+
+**26. Internet Encyclopedia of Philosophy, "Care Ethics"**
+提供了更易接近的入门性概述，适合初学者。
+Provides a more accessible introductory overview, suitable for beginners.
+
+## 建议阅读顺序 / Suggested Reading Sequence
+
+**路径 A：哲学路径 / Path A: Philosophical Path**
+1. *Caring* Ch. 1–2 → 2. Held, *Ethics of Care* Ch. 1–3 → 3. *Caring* Ch. 3–6 → 4. *The Maternal Factor* → 5. Tronto, *Moral Boundaries* → 6. *Women and Evil*
+
+**路径 B：教育路径 / Path B: Educational Path**
+1. *Caring* Ch. 1–2 → 2. *The Challenge to Care in Schools* Ch. 1, 3 → 3. *Happiness and Education* → 4. *When School Reform Is Standardized* → 5. *Critical Lessons*
+
+**路径 C：政治路径 / Path C: Political Path**
+1. Held, *Ethics of Care* Ch. 1–3 → 2. *Starting at Home* Part I → 3. Tronto, *Moral Boundaries* → 4. *Care and Justice in the Global Context* → 5. *A Feminist Perspective on Peace and Social Justice*
+
+**路径 D：中文读者路径 / Path D: Chinese Reader Path**
+1. 《关怀》（侯晶晶译）第1–2章 → 2. 肖巍《女性主义伦理学》相关章节 → 3. 《关怀》第3–6章 → 4. 侯晶晶《关怀伦理学的哲学底蕴》→ 5. 《学校会伤人吗》→ 6. 吉利根《不同的声音》

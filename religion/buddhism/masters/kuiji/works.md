@@ -1,0 +1,76 @@
+---
+id: kuiji-works
+title: 窥基著作目录 / Works of Kuiji
+type: catalogue
+domain: religion
+school: buddhism-faxiang
+thinker: kuiji
+---
+
+# 窥基著作目录 / Works of Kuiji
+
+窥基一生著述逾百部，被誉为"百部疏主"。以下按类别整理其主要著作。
+
+Kuiji authored over one hundred works in his lifetime, earning the epithet "Master of a Hundred Commentaries." His major works are organized below by category.
+
+## 唯识学核心注释 / Core Yogacara Commentaries
+
+| 著作 | 注释对象 | 卷数 | 要点 |
+|------|----------|------|------|
+| 《成唯识论述记》 | 《成唯识论》 | 20卷（或60卷） | **最重要著作**。对《成唯识论》的权威注释，是理解护法-玄奘唯识学的基础文献 |
+| 《成唯识论掌中枢要》 | 《成唯识论》 | 4卷 | 唯识纲要的精炼提取，与《述记》互补 |
+| 《成唯识论料简》 | 《成唯识论》 | 2卷 | 唯识疑难问题的辨析 |
+| 《唯识二十论述记》 | 世亲《唯识二十论》 | 2卷 | 对"唯识无境"论证的详细注释 |
+| 《百法明门论解》 | 世亲《百法明门论》 | 2卷 | 百法分类系统的详解 |
+
+## 大乘经典注释 / Mahayana Sutra Commentaries
+
+| 著作 | 注释对象 | 卷数 | 要点 |
+|------|----------|------|------|
+| 《法华玄赞》 | 《法华经》 | 10卷 | 以唯识视角解读法华经，调和唯识与一乘思想 |
+| 《般若心经幽赞》 | 《心经》 | 2卷 | 般若经的唯识解读 |
+| 《金刚般若经赞述》 | 《金刚经》 | 2卷 | 金刚经的注释 |
+| 《阿弥陀经通赞疏》 | 《阿弥陀经》 | 3卷 | 净土经典的唯识解读 |
+| 《弥勒上生经疏》 | 《弥勒上生经》 | 2卷 | 弥勒信仰的注释 |
+| 《胜鬘经述记》 | 《胜鬘经》 | 2卷 | 如来藏经典的注释 |
+| 《维摩经略赞》 | 《维摩经》 | — | 维摩诘经的注释 |
+
+## 因明学著作 / Hetuvidya (Buddhist Logic) Works
+
+| 著作 | 注释对象 | 卷数 | 要点 |
+|------|----------|------|------|
+| 《因明入正理论疏》 | 商羯罗主《因明入正理论》 | 3卷 | 因明学的核心注释，汉传因明学的基础 |
+| 《因明正理门论疏》 | 陈那《因明正理门论》 | — | 对陈那因明体系的注释（部分佚失） |
+
+## 论典注释 / Sastra Commentaries
+
+| 著作 | 注释对象 | 卷数 | 要点 |
+|------|----------|------|------|
+| 《瑜伽师地论略纂》 | 《瑜伽师地论》 | 16卷 | 瑜伽行派根本论的纲要提取 |
+| 《大乘阿毗达磨杂集论述记》 | 《杂集论》 | 10卷 | 大乘阿毗达磨的注释 |
+| 《辨中边论述记》 | 《辨中边论》 | 3卷 | 中道思想的辨析 |
+| 《摄大乘论抄》 | 《摄大乘论》 | — | 唯识纲领性著作的摘要 |
+
+## 其他著作 / Other Works
+
+| 著作 | 要点 |
+|------|------|
+| 《大乘法苑义林章》 | 唯识学教义的系统化整理，共7卷，涵盖唯识学各方面 |
+| 《异部宗轮论述记》 | 部派佛教思想的注释 |
+| 《说无垢称经赞疏》 | 维摩诘经的另一注释 |
+| 《观所缘缘论释记》 | 陈那认识论著作的注释 |
+
+## 著作的传承与保存 / Transmission and Preservation
+
+窥基的著作主要保存在《大正新修大藏经》中。部分著作在唐代以后散佚，近代以来通过日本保存的写本和刻本得以恢复。《成唯识论述记》在近代唯识学复兴中扮演了核心角色——杨仁山、欧阳渐等近代佛学家通过重新发现和研究窥基的注释，推动了唯识学的现代复兴。
+
+Kuiji's works are primarily preserved in the Taisho edition of the Chinese Buddhist Canon (Taisho Shinshu Daizokyo). Some works were lost after the Tang dynasty and recovered in modern times through manuscripts and printed editions preserved in Japan. The *Cheng Weishi Lun Shuji* played a central role in the modern Yogacara revival -- modern Buddhist scholars such as Yang Renshan and Ouyang Jingnan promoted the contemporary resurgence of Yogacara through rediscovering and studying Kuiji's commentaries.
+
+## 推荐阅读顺序 / Recommended Reading Order
+
+1. 《百法明门论解》— 百法入门 / Entry to the Hundred Dharmas
+2. 《成唯识论掌中枢要》— 唯识纲要 / Yogacara essentials
+3. 《成唯识论述记》— 核心注释 / Core commentary
+4. 《法华玄赞》— 唯识与法华的对话 / Yogacara-Lotus dialogue
+5. 《因明入正理论疏》— 因明学 / Buddhist logic
+6. 《大乘法苑义林章》— 全面系统化 / Comprehensive systematization

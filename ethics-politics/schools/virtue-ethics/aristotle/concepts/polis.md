@@ -1,0 +1,18 @@
+---
+id: aristotle-polis
+title: 城邦 · Polis · Aristotle
+type: concept
+domain: ethics-politics
+school: virtue-ethics
+thinker: aristotle
+tags: [polis, political-animal, community]
+cross-refs: [{id: aristotle, relation: thinker}, {id: hobbes, relation: 批判}]
+---
+# 城邦 · Polis
+## 一句话定义
+"人天生是政治的动物"——亚里士多德主张个体只有在城邦中才能充分实现其人性功能，伦理学与政治学不可分离。
+## 与霍布斯的对比
+亚里士多德：政治是自然的（人天生需要共同体）
+霍布斯：政治是人为的（自然状态是战争）
+## 关键文本
+- *Politics*, Book I

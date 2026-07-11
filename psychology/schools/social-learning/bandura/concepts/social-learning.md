@@ -1,0 +1,139 @@
+---
+id: social-learning
+title: "社会学习 · Social Learning"
+type: concept
+parent: bandura-albert
+school: social-learning
+domain: psychology
+tags:
+  - social-learning
+  - 社会学习
+  - vicarious-learning
+  - social-cognitive-theory
+---
+
+# 社会学习 · Social Learning
+
+## 定义 / Definition
+
+**社会学习**（Social Learning）是指个体通过观察他人的行为及其后果而获得新知识、新技能和新行为模式的学习方式。它区别于传统的「亲历学习」（enactive learning）——后者依赖直接的试错和强化，前者则通过替代性经验（vicarious experience）实现学习。
+
+**Social learning** refers to the process by which individuals acquire new knowledge, skills, and behavioral patterns through observing the behavior and its consequences of others. It differs from traditional "enactive learning" — the latter relies on direct trial-and-error and reinforcement, while the former achieves learning through vicarious experience.
+
+班杜拉的社会学习理论的核心论点是：人类绝大部分学习不是通过直接经验发生的，而是通过观察他人——即通过社会过程发生的。这一理论将学习从个体的封闭系统扩展到了社会的开放系统。
+
+The core thesis of Bandura's social learning theory is: the vast majority of human learning occurs not through direct experience, but through observing others — that is, through social processes. This theory expanded learning from an individual closed system to a social open system.
+
+> "If actions were determined solely by direct reinforcement, it would be difficult to explain how people acquire new behavior patterns when no such reinforcement is available."
+> — Albert Bandura, *Social Learning Theory* (1977)
+
+## 核心机制 / Core Mechanisms
+
+### 三种学习模式 / Three Modes of Learning
+
+班杜拉区分了三种学习模式：
+
+Bandura distinguished three modes of learning:
+
+**1. 亲历学习 / Enactive Learning**
+通过直接行动和亲身经历的后果来学习——这是传统行为主义所描述的学习方式。个体执行行为→获得结果→根据结果的积极或消极性质调整未来行为。
+
+Learning through direct action and personally experienced consequences — this is the learning mode described by traditional behaviorism. Individual performs behavior → receives outcome → adjusts future behavior based on whether the outcome is positive or negative.
+
+**2. 替代学习 / Vicarious Learning**
+通过观察他人的行为及其后果来学习——观察者看到模型执行某行为后获得奖赏，会增加自己执行该行为的倾向；看到模型受到惩罚，会减少该倾向。关键是：**学习本身不需要观察者亲自执行行为**。
+
+Learning by observing others' behavior and its consequences — observers who see a model rewarded for a behavior increase their tendency to perform it; seeing a model punished decreases that tendency. Crucially: **learning itself does not require the observer to perform the behavior**.
+
+**3. 自我调节学习 / Self-Regulated Learning**
+个体通过设定内在标准、自我监控和自我反应来管理自身的学习过程——不依赖外部强化，而是依赖内在标准。这是社会学习理论中最体现「代理性」的学习模式。
+
+Individuals manage their own learning process by setting internal standards, self-monitoring, and applying self-reactions — relying not on external reinforcement but on internal standards. This is the learning mode that most embodies "agency" in social learning theory.
+
+### 三种强化类型 / Three Types of Reinforcement
+
+与传统行为主义只承认直接强化不同，班杜拉提出了三种强化类型：
+
+Unlike traditional behaviorism which recognizes only direct reinforcement, Bandura proposed three types:
+
+| 类型 / Type | 机制 / Mechanism | 示例 / Example |
+|:---:|------|------|
+| **直接强化** / Direct | 个体行为直接产生的外部奖赏或惩罚 / External rewards/punishments directly produced by individual's behavior | 学生因好成绩获得表扬 / Student praised for good grades |
+| **替代强化** / Vicarious | 观察到他人因某行为获得奖赏或惩罚 / Observing others receiving rewards/punishments for a behavior | 学生看到同学因举手发言获得表扬 / Student sees classmate praised for raising hand |
+| **自我强化** / Self-reinforcement | 个体根据自身标准对自己行为的内在奖赏或惩罚 / Internal rewards/punishments based on personal standards | 完成困难任务后的自我满足感 / Self-satisfaction after completing a difficult task |
+
+### 学习的社会化情境 / Social Contexts of Learning
+
+社会学习不仅发生在面对面的观察中，还通过多种社会渠道发生：
+
+Social learning occurs not only in face-to-face observation but through multiple social channels:
+
+- **家庭 / Family**：父母是最早的榜样——儿童通过观察父母的言行学习社会规范、情绪调节和问题解决策略。Parents are the earliest models — children learn social norms, emotion regulation, and problem-solving strategies by observing parents.
+- **同伴 / Peers**：同伴群体的行为模式通过替代强化和规范性影响塑造个体的学习。Peer group behavioral patterns shape individual learning through vicarious reinforcement and normative influence.
+- **媒体 / Media**：电视、电影、社交媒体中的符号化榜样（symbolic models）对态度和行为的影响可能超过现实中的榜样。Symbolic models in television, film, and social media may influence attitudes and behaviors more than real-life models.
+- **文化 / Culture**：文化实践、仪式和叙事本身就是社会学习的载体——每一代人通过观察上一代人习得文化知识。Cultural practices, rituals, and narratives are themselves vehicles of social learning — each generation acquires cultural knowledge by observing the preceding generation.
+
+## 发展脉络 / Development
+
+### 理论前史 / Theoretical Precursors
+
+社会学习的思想并非班杜拉独创。Neal Miller和John Dollard在1941年的《社会学习与模仿》中已经提出了模仿学习的概念。但Miller和Dollard仍然将模仿视为一种习得的驱动力（learned drive），本质上没有脱离行为主义框架。
+
+The idea of social learning was not Bandura's alone. Neal Miller and John Dollard's 1941 *Social Learning and Imitation* already proposed the concept of imitation learning. However, Miller and Dollard still treated imitation as a learned drive, essentially remaining within the behaviorist framework.
+
+### 班杜拉的突破 / Bandura's Breakthrough
+
+班杜拉的核心突破在于两点：（1）观察学习可以在没有任何强化（直接或间接）的情况下发生——学习（acquisition）和表现（performance）是不同的过程；（2）观察学习涉及复杂的认知过程——不是简单的刺激-反应联结。
+
+Bandura's core breakthrough was twofold: (1) observational learning can occur without any reinforcement (direct or vicarious) — acquisition and performance are distinct processes; (2) observational learning involves complex cognitive processes — not simple stimulus-response associations.
+
+### 从社会学习到社会认知 / From Social Learning to Social Cognition
+
+1986年，班杜拉将「社会学习理论」更名为「社会认知理论」（Social Cognitive Theory）。这一更名反映了理论重心的转变：从关注「学习如何发生」转向关注「人如何通过认知过程主动调节自身行为和发展」。社会认知理论不仅包括学习理论，还包括动机、情感调节、自我调节和代理性的完整理论体系。
+
+In 1986, Bandura renamed "social learning theory" to "Social Cognitive Theory." This renaming reflected a shift in theoretical emphasis: from "how learning occurs" to "how people actively regulate their behavior and development through cognitive processes." Social cognitive theory encompasses not only learning theory but a complete theoretical system including motivation, affect regulation, self-regulation, and agency.
+
+## 临床应用 / Clinical Applications
+
+### 参与式建模 / Participant Modeling
+
+一种用于治疗恐惧症的技术——治疗师先示范与恐惧刺激的互动（如触摸蛇），然后引导患者逐步参与同样的活动。这一技术的核心机制是通过替代学习和亲历学习的结合来提升自我效能感。
+
+A technique for treating phobias — the therapist first models interaction with the feared stimulus (e.g., touching a snake), then guides the patient through progressive participation. The core mechanism is enhancing self-efficacy through the combination of vicarious and enactive learning.
+
+### 行为技能训练 / Behavioral Skills Training (BST)
+
+广泛应用于社交技能训练、育儿训练和职业培训的结构化方法，包含四个步骤：示范（instruction）→ 建模（modeling）→ 练习（rehearsal）→ 反馈（feedback）。这一方法直接源自社会学习理论。
+
+A structured method widely used in social skills training, parenting programs, and vocational training, comprising four steps: instruction → modeling → rehearsal → feedback. This method derives directly from social learning theory.
+
+### 媒体素养教育 / Media Literacy Education
+
+基于社会学习理论对媒体效果的深刻理解，媒体素养教育帮助儿童和青少年批判性地分析媒体信息，减少有害媒体内容（如暴力、物质使用、身体形象理想）的负面影响。
+
+Based on social learning theory's deep understanding of media effects, media literacy education helps children and adolescents critically analyze media messages, reducing negative influences of harmful media content (e.g., violence, substance use, body image ideals).
+
+## 关联概念 / Related Concepts
+
+- **[观察学习 / Observational Learning](observational-learning.md)**：社会学习的具体过程——四个子过程（注意、保持、再现、动机）。The specific process of social learning — four subprocesses.
+- **[榜样示范 / Modeling](modeling.md)**：社会学习的核心传递机制。The core transmission mechanism of social learning.
+- **[自我效能感 / Self-Efficacy](self-efficacy.md)**：社会学习过程中个体对自己能力的信念——影响观察学习的效果。Individual beliefs about capability during social learning — affects observational learning outcomes.
+- **[交互决定论 / Reciprocal Determinism](reciprocal-determinism.md)**：社会学习发生的三元框架。The triadic framework in which social learning occurs.
+
+## 东西方对话 / East-West Dialogue
+
+**与儒家师承传统 / Confucian Master-Disciple Tradition**：儒家的核心教育模式——弟子观察老师的言行并效仿——本质上就是社会学习。孔子强调「身教重于言教」（「其身正，不令而行；其身不正，虽令不从」），这与班杜拉强调榜样示范优于言语说服高度一致。
+
+The core Confucian educational model — disciples observing and emulating the master's words and deeds — is essentially social learning. Confucius emphasized "teaching by example over teaching by words" ("When one's conduct is correct, one may give orders without them being heeded; when one's conduct is not correct, one may issue orders but they will not be obeyed"). This aligns closely with Bandura's emphasis on modeling over verbal persuasion.
+
+**与佛教「善知识」概念 / Buddhist "Good Friend" (kalyāṇamitra)**：佛教修行中，「善知识」（kalyāṇamitra）是修行者的重要助缘——通过观察有德者的言行，修行者获得正见和正行。这与社会学习理论中「高质量榜样促进学习效果」的原理相通。
+
+In Buddhist practice, the "good friend" (kalyāṇamitra) is a crucial support — practitioners acquire right view and right conduct by observing the words and deeds of virtuous individuals. This resonates with the social learning principle that high-quality models enhance learning outcomes.
+
+## 进阶阅读 / Further Reading
+
+- Bandura, A. (1977). *Social Learning Theory*. Englewood Cliffs, NJ: Prentice Hall.
+- Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Englewood Cliffs, NJ: Prentice Hall.
+- Miller, N.E. & Dollard, J. (1941). *Social Learning and Imitation*. New Haven: Yale University Press.
+- Bandura, A. & Walters, R.H. (1963). *Social Learning and Personality Development*. New York: Holt, Rinehart & Winston.
+- Grusec, J.E. & Lytton, H. (1988). *Social Development: History, Theory, and Research*. New York: Springer.

@@ -1,0 +1,126 @@
+---
+id: nozick-experience-machine
+title: "经验机 · Experience Machine"
+type: concept
+thinker: nozick
+domain: ethics-politics
+school: libertarianism
+tags: [经验机, 享乐主义, 思想实验, 价值理论, experience-machine, hedonism, thought-experiment, value-theory]
+cross-refs: [nozick-entitlement-theory, nozick-self-ownership]
+---
+
+# 经验机 · Experience Machine
+
+## 概念概述 / Concept Overview
+
+经验机（Experience Machine）是罗伯特·诺齐克在《无政府、国家与乌托邦》（1974）中提出的著名思想实验，旨在反驳享乐主义（hedonism）——即认为快乐（pleasure）或幸福（happiness）是唯一内在善的伦理理论。这一思想实验后来在《哲学解释》（1981）和《经过省思的生活》（1989）中得到了进一步的发展和完善。
+
+The Experience Machine is Robert Nozick's famous thought experiment, introduced in *Anarchy, State, and Utopia* (1974), designed to refute hedonism — the ethical theory that pleasure or happiness is the sole intrinsic good. This thought experiment was further developed in *Philosophical Explanations* (1981) and *The Examined Life* (1989).
+
+思想实验的设定如下：假设有一台机器，能够刺激你的大脑以产生任何你想要的体验。你可以预先设定一系列体验——写出伟大小说、结交挚友、阅读有趣书籍——然后漂浮在机器中，完全无法区分这些体验与"真实"经历的区别。问题很简单：你会选择接入这台机器吗？
+
+The thought experiment is set up as follows: suppose there is a machine that could stimulate your brain to produce any experience you desire. You could pre-program a series of experiences — writing a great novel, making close friends, reading interesting books — and then float in the machine, unable to distinguish these experiences from "real" ones. The question is simple: would you choose to plug in?
+
+---
+
+## 理论内涵 / Theoretical Content
+
+诺齐克论证，大多数人直觉上会拒绝接入经验机，而这一直觉揭示了享乐主义的根本缺陷。我们之所以拒绝，是因为我们不仅关心"体验"本身，还关心以下三个方面：
+
+Nozick argues that most people would intuitively refuse to plug into the Experience Machine, and this intuition reveals the fundamental flaw of hedonism. We refuse because we care not only about "experiences" themselves but also about three further dimensions:
+
+**1. 做而非仅仅体验 / Doing, Not Merely Experiencing**
+我们不仅想要有写小说的体验，我们想要真正地写小说。行动本身——而不仅仅是行动的主观感受——具有内在价值。这暗示了人类对能动性和真实成就的深层渴望。
+We want not merely the experience of writing a novel; we want actually to write a novel. Action itself — not just the subjective feeling of action — has intrinsic value. This implies a deep human desire for agency and genuine accomplishment.
+
+**2. 成为某种人 / Being a Certain Kind of Person**
+我们想要成为勇敢、善良、有创造力的人，而不仅仅是有勇敢、善良或有创造力的体验的人。品格的塑造需要真实的道德选择和行动，而不是预设的神经刺激。
+We want to be courageous, kind, creative people, not merely people who have experiences of courage, kindness, or creativity. Character formation requires real moral choices and actions, not pre-programmed neural stimulation.
+
+**3. 与更深层现实的联系 / Contact with Deeper Reality**
+我们渴望与超越主观体验的现实建立真实联系——与他人、与世界、与真理的联系。接入经验机意味着生活在一个精心设计的幻觉中，而人类对真实性有着根本的追求。
+We desire genuine contact with reality beyond subjective experience — with others, with the world, with truth. Plugging into the Experience Machine means living in a carefully designed illusion, and humans have a fundamental aspiration to authenticity.
+
+诺齐克由此得出结论：如果除了体验之外还有其他对我们重要的东西，那么享乐主义就是错误的——快乐不是唯一的内在善。
+
+Nozick concludes: if there are things that matter to us besides experience, then hedonism is false — pleasure is not the only intrinsic good.
+
+---
+
+## 思想史脉络 / Intellectual History
+
+经验机思想实验直接针对的是功利主义传统中的享乐主义版本。边沁（Jeremy Bentham）认为人类受"痛苦与快乐"两位主人支配，密尔（J.S. Mill）虽然区分了高级快乐和低级快乐，但仍然坚持快乐是最终价值标准。诺齐克的经验机论证为反对这一悠久传统提供了最为直观有力的武器。
+
+The Experience Machine thought experiment directly targets the hedonistic version of the utilitarian tradition. Bentham held that humans are governed by "pain and pleasure" as their two sovereign masters; Mill, while distinguishing higher from lower pleasures, still maintained that pleasure is the ultimate standard of value. Nozick's Experience Machine provides the most vivid and powerful weapon against this venerable tradition.
+
+在更广泛的思想史中，经验机与柏拉图的洞穴比喻形成了有趣的呼应——柏拉图认为洞穴中的囚徒满足于影子般的幻觉，而哲学家的任务是追求真实的理念世界。诺齐克的思想实验以现代的方式重申了这一古老的哲学直觉：真实性高于舒适的幻觉。
+
+In broader intellectual history, the Experience Machine echoes Plato's cave allegory — Plato held that prisoners in the cave are content with shadow-like illusions, while the philosopher's task is to pursue the real world of Forms. Nozick's thought experiment restates this ancient philosophical intuition in modern terms: authenticity is superior to comfortable illusion.
+
+在当代哲学中，经验机思想实验引发了大量的后续讨论。罗伯特·布兰姆（Robert Bramble）等哲学家质疑人们对思想实验的直觉反应是否可靠；费利西亚·莱昂纳德（Felicia Leonard）等则探讨了"改良版"经验机是否能改变人们的直觉。
+
+In contemporary philosophy, the Experience Machine has generated extensive follow-up discussion. Philosophers like Robert Bramble question whether people's intuitive reactions to the thought experiment are reliable; others like Felicia Leonard explore whether "improved" versions of the Experience Machine might alter people's intuitions.
+
+---
+
+## 关键文本 / Key Passages
+
+> "我们关心做某些事，而不仅仅是有做这些事的体验。……我们想要成为某种人，而不仅仅是有某种体验的存在物。"
+> "We care about doing certain things, and not just having the experience of doing them. ... We want to be a certain kind of person, and not just an indeterminate blob of experience."
+
+这段引文浓缩了诺齐克对享乐主义的核心反驳：人类的欲望超越了主观体验，涵盖了行动、品格和真实性。
+
+This passage distills Nozick's core refutation of hedonism: human desires extend beyond subjective experience to encompass action, character, and authenticity.
+
+> "有人会愿意在余生中接入这台机器，提前为自己的一生设定一套体验程序吗？……我们想要做某些事，而不仅仅是有做过它们的体验。"
+> "Would you plug in for life, pre-programming all your life's experiences? ... We want to do certain things, not just have the experience of doing them."
+
+---
+
+## 当代应用 / Contemporary Applications
+
+经验机思想实验在当代技术社会中具有前所未有的相关性。虚拟现实（VR）、增强现实（AR）和沉浸式游戏技术的发展使得"经验机"不再是纯粹的哲学虚构，而成为一种日益逼近现实的技术可能性。当元宇宙（metaverse）承诺提供比现实生活更加丰富和令人满足的体验时，诺齐克的问题变得更加尖锐：如果虚拟体验在所有可感知的方面都优于现实体验，我们是否应该"接入"？
+
+The Experience Machine has unprecedented relevance in contemporary technological society. The development of virtual reality (VR), augmented reality (AR), and immersive gaming makes the "Experience Machine" not merely a philosophical fiction but an increasingly plausible technological possibility. When the metaverse promises experiences richer and more satisfying than real life, Nozick's question becomes sharper: if virtual experiences surpass real ones in every perceptible dimension, should we "plug in"?
+
+在心理学领域，经验机思想实验被用来研究人类的幸福概念——实证研究发现，人们对经验机的反应受到个体差异的影响，但大多数受试者仍然倾向于拒绝接入，这为诺齐克的哲学直觉提供了部分经验支持。
+
+In psychology, the Experience Machine has been used to study human conceptions of well-being — empirical research finds that people's reactions to the machine are influenced by individual differences, but most subjects still tend to refuse to plug in, providing partial empirical support for Nozick's philosophical intuitions.
+
+---
+
+## 批评与回应 / Critiques and Responses
+
+**批评一：直觉的可靠性 / Reliability of Intuitions**
+一些哲学家指出，人们对经验机的拒绝可能源于认知偏差——例如，对新技术的恐惧（现状偏见，status quo bias）或对"虚假"的本能厌恶，而非理性的道德判断。如果我们被设定为已经在机器中，是否大多数人会选择"退出"？
+Some philosophers argue that people's rejection of the Experience Machine may stem from cognitive biases — for instance, fear of new technology (status quo bias) or visceral aversion to the "fake" — rather than rational moral judgment. If we were already in the machine, would most people choose to "unplug"?
+
+**批评二：改良版经验机 / The Improved Experience Machine**
+如果经验机可以不仅模拟体验，还模拟真实的因果关系和与外部世界的联系呢？一些批评者认为，一个足够精密的经验机可以回应诺齐克的所有反对理由，从而使得"真实性"变得多余。
+What if the machine simulates not just experiences but real causal relations and contact with the external world? Some critics argue that a sufficiently sophisticated machine could address all of Nozick's objections, rendering "authenticity" redundant.
+
+**批评三：享乐主义的弹性 / The Resilience of Hedonism**
+精巧的享乐主义者可以论证：人们拒绝经验机的真正原因恰恰是因为他们认为真实行动会带来更多的快乐——即人们对经验机的拒绝本身就是享乐主义计算的产物。
+Sophisticated hedonists can argue that the real reason people refuse the machine is precisely that they believe real action produces more pleasure — that the refusal itself is a product of hedonistic calculation.
+
+---
+
+## 跨文化回响 / Cross-cultural Echoes
+
+在佛教传统中，经验机可以被视为一种极致的"摩耶"（maya，幻象）。佛教认为整个世俗世界在某种意义上就是一台"经验机"——一个由无明和执着创造的幻象世界。然而，佛教的解脱（nirvana）并非简单地"拔掉插头"，而是对幻象本质的深层觉悟。
+
+In Buddhist tradition, the Experience Machine can be seen as an ultimate form of *maya* (illusion). Buddhism regards the entire mundane world as, in a sense, an "Experience Machine" — an illusory world created by ignorance and attachment. However, Buddhist liberation (*nirvana*) is not simply "unplugging" but a deep awakening to the nature of illusion.
+
+在庄子的思想中，"庄周梦蝶"的寓言提出了类似的真实与幻象的问题：当我们无法区分梦境与现实时，什么才是"真实"的？庄子的回答与诺齐克不同——他不是追求区分真假，而是超越真假之分，达到"物化"的境界。
+
+In Zhuangzi's thought, the "Butterfly Dream" parable raises similar questions about reality and illusion: when we cannot distinguish dream from reality, what is "real"? Zhuangzi's answer differs from Nozick's — rather than pursuing the distinction between true and false, he seeks to transcend it, reaching the state of "transformation of things" (*wuhua*).
+
+---
+
+## 延伸阅读 / Further Reading
+
+- Nozick, Robert. *Anarchy, State, and Utopia*, pp. 42–45. Basic Books, 1974.
+- Nozick, Robert. *The Examined Life*, Chapter 8: "The Experience Machine." Simon & Schuster, 1989.
+- Bramble, Ben. "The Experience Machine." *Philosophy Compass* 11, no. 3 (2016): 136–145.
+- Kawall, Jason. "The Experience Machine and Mental State Theories of Value." *Journal of Value Inquiry* 33 (1999): 385–390.
+- Felcher, Dan. "The Experience Machine: A Philosophical and Empirical Investigation." PhD diss., University of California, 2018.

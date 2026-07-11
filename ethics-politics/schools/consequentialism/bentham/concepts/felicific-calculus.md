@@ -1,0 +1,32 @@
+---
+id: bentham-felicific-calculus
+title: 快乐计算 · Felicific Calculus · Bentham
+type: concept
+domain: ethics-politics
+school: consequentialism
+thinker: bentham
+tags: [felicific-calculus, hedonic-calculus, quantification, bentham]
+cross-refs: [{id: bentham, relation: thinker}]
+---
+
+# 快乐计算 · Felicific Calculus
+
+## 一句话定义
+快乐计算是边沁提出的将快乐与痛苦**量化**的方法——用七个维度（强度、持续时间、确定性、接近性、繁殖性、纯粹性、范围）来衡量行为的道德价值。
+
+## 七个维度
+| 维度 | 内容 |
+|---|---|
+| 强度（Intensity） | 快乐/痛苦的强弱 |
+| 持续时间（Duration） | 延续多久 |
+| 确定性（Certainty） | 发生的概率 |
+| 接近性（Propinquity） | 距离现在多远 |
+| 繁殖性（Fecundity） | 引发更多同类感受的可能 |
+| 纯粹性（Purity） | 不引发相反感受的可能 |
+| 范围（Extent） | 影响多少人 |
+
+## 批评
+密尔：质的差别被忽视；实际操作不可行
+
+## 关键文本
+- *Introduction*, Ch. 4（"价值估算"）

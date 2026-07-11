@@ -1,0 +1,14 @@
+---
+id: cognitive-systems.school.automation-sociotechnical.wickens.reading-list
+title: 威肯斯阅读指南
+type: reading-list
+thinker: wickens
+domain: cognitive-systems
+school: automation-sociotechnical
+---
+
+# 威肯斯阅读指南
+
+## 入门
+1. Wickens, C.D. (2002). "Multiple Resources and Performance Prediction."
+2. Wickens & McCarley (2008). *Applied Attention Theory*.

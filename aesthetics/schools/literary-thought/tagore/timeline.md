@@ -1,0 +1,34 @@
+---
+id: tagore-aesthetics-timeline
+title: 泰戈尔思想年表
+type: timeline
+domain: aesthetics
+school: literary-thought
+thinker: tagore
+tags: [tagore, timeline, biography]
+cross-refs:
+  - id: tagore
+    relation: thinker
+---
+
+# 泰戈尔思想年表
+
+- **1861** 生于加尔各答名门
+- **1878** 赴英国学习法律，一年后返回
+- **1883** 与穆里纳莉妮结婚
+- **1890–1901** 管理家族庄园，接触乡村生活
+- **1901** 在桑蒂尼盖坦创办学校
+- **1910** 出版孟加拉语《吉檀迦利》
+- **1912** 自译《吉檀迦利》英文版
+- **1913** 获诺贝尔文学奖（亚洲首位）
+- **1915** 获英国爵士头衔
+- **1917** 出版《民族主义》
+- **1919** 退还爵士头衔（抗议阿姆利则惨案）
+- **1921** 维斯瓦-巴拉蒂大学正式成立
+- **1924** 访华，与中国知识界交流
+- **1931** 出版《人的宗教》
+- **1941** 8月7日在加尔各答去世
+
+## 进阶阅读
+- Dutta & Robinson, *Rabindranath Tagore: The Myriad-Minded Man* (1995)
+- Sen, Amartya, *The Argumentative Indian* (2005)

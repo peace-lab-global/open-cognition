@@ -1,0 +1,13 @@
+---
+id: nussbaum-central-capabilities
+title: 十项核心能力 · Nussbaum
+type: concept
+domain: ethics-politics
+school: capability-approach
+thinker: nussbaum
+tags: [central-capabilities, nussbaum]
+cross-refs: [{id: nussbaum, relation: thinker}]
+---
+# 十项核心能力
+## 一句话定义
+每个正义社会必须保障公民达到最低门槛的十项基本能力——生命、健康、身体完整、感觉想象思维、情感、实践理性、归属、与其他物种关系、游戏、环境控制
