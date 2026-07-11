@@ -35,15 +35,15 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 | Domain | Thinkers | Concepts | Skills | Entry point |
 |---|:---:|:---:|:---:|---|
-| Philosophy | 42 | 8 | 19 | [哲学](哲学/README.md) |
-| Religion | 34 | 127 | 39 | [宗教](宗教/README.md) |
-| Sociology | 18 | 7 | 15 | [社会学](社会学/README.md) |
-| Psychology | 42 | 8 | 16 | [心理学](心理学/README.md) |
-| Ethics & Politics | 15 | 11 | 10 | [伦理政治](伦理政治/README.md) |
-| Aesthetics | 23 | 9 | 3 | [美学](美学/README.md) |
-| Literature | 5 | 8 | 5 | [文学](文学/README.md) |
-| Arts | 3 | 8 | 3 | [艺术](艺术/README.md) |
-| Cognitive Systems Engineering | 28 | 27 | 16 | [认知系统](认知系统/README.md) |
+| Philosophy | 42 | 8 | 19 | [哲学 (Philosophy)](哲学/README.md) |
+| Religion | 34 | 127 | 39 | [宗教 (Religion)](宗教/README.md) |
+| Sociology | 18 | 7 | 15 | [社会学 (Sociology)](社会学/README.md) |
+| Psychology | 42 | 8 | 16 | [心理学 (Psychology)](心理学/README.md) |
+| Ethics & Politics | 15 | 11 | 10 | [伦理政治 (Ethics & Political Philosophy)](伦理政治/README.md) |
+| Aesthetics | 23 | 9 | 3 | [美学 (Aesthetics)](美学/README.md) |
+| Literature | 5 | 8 | 5 | [文学 (Literature)](文学/README.md) |
+| Arts | 3 | 8 | 3 | [艺术 (Arts)](艺术/README.md) |
+| Cognitive Systems Engineering | 28 | 27 | 16 | [认知系统 (Cognitive Systems Engineering)](认知系统/README.md) |
 
 Full index: [INDEX.md](INDEX.md) | Tag taxonomy: [TAGS.md](TAGS.md)
 

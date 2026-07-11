@@ -206,7 +206,7 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 | 五蕴解构 | 把实体化"我"解构为过程束 | [five-aggregates-deconstruction](宗教/佛教/技能/以五蕴/SKILL.md) |
 | 缘起链追溯 | 逆向追溯困境的 12 支生成链 | [dependent-origination-tracing](宗教/佛教/技能/定位关键断点/SKILL.md) |
 
-完整列表见 [佛教认知专题 README](宗教/佛教/概念/cognitive-theory/README.md) 的"认知地图"表。
+完整列表见 [佛教认知专题 README (Buddhist Cognitive Theory)](宗教/佛教/概念/cognitive-theory/README.md) 的"认知地图"表。
 
 ---
 

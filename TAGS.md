@@ -16,19 +16,19 @@
 
 ## 维度 2：流派 School
 
-### 哲学
+### 哲学 (Philosophy)
 `presocratic` `classical-greek` `hellenistic` `medieval-scholastic` `rationalism` `empiricism` `scottish-common-sense` `german-idealism` `existentialism` `phenomenology` `analytic` `pragmatism` `critical-theory` `confucian` `daoist` `buddhist-philosophy`
 
-### 宗教
+### 宗教 (Religion)
 `buddhism-theravada` `buddhism-mahayana` `buddhism-zen` `christianity-catholic` `christianity-protestant` `christianity-orthodox` `christianity-mysticism` `islam-sunni` `islam-shia` `sufism` `judaism-rabbinic` `judaism-kabbalah` `hinduism-vedanta` `taoism-religious` `taoism-philosophical`
 
-### 社会学
+### 社会学 (Sociology)
 `functionalism` `conflict-theory` `symbolic-interactionism` `structuralism` `post-structuralism` `critical-theory` `phenomenological-sociology` `network-theory` `world-systems`
 
-### 心理学
+### 心理学 (Psychology)
 `psychoanalysis` `analytical-psychology` `individual-psychology` `behaviorism` `cognitive` `humanistic` `existential-psychology` `positive-psychology` `cognitive-behavioral` `developmental` `social-psychology`
 
-### 认知系统工程
+### 认知系统工程 (Cognitive Systems Engineering)
 `cybernetics` `ecological-psychology` `distributed-cognition` `activity-theory` `cognitive-engineering` `naturalistic-decision` `resilience-engineering` `cognitive-ergonomics` `embodied-cognition` `4E-cognition` `safety-science` `safety-II` `automation-sociotechnical` `sociotechnical-systems` `human-automation-interaction` `perrow` `leveson` `endsley` `sheridan` `wickens`
 
 ## 维度 3：时代 Era
