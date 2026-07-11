@@ -3,7 +3,7 @@ id: taixu-three-level-classification
 title: "三级判教 Three-Level Doctrinal Classification: 太虚的佛法判释体系"
 type: concept
 parent: taixu
-domain: religion
+domain: 宗教
 tags: [panjiao, doctrinal-classification, five-vehicles, three-vehicles, mahayana, Buddhist-hermeneutics]
 ---
 

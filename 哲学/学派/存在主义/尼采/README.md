@@ -2,7 +2,7 @@
 id: nietzsche
 title: 尼采 · Friedrich Nietzsche
 type: thinker
-domain: philosophy
+domain: 哲学
 school: existentialism
 era: modern
 birth: 1844
@@ -14,7 +14,7 @@ tags:
   - self
   - genealogy
   - nihilism
-  - aesthetics
+  - 美学
 aliases:
   - Nietzsche
   - 尼采
@@ -38,7 +38,7 @@ cross-refs:
     relation: 承接(意志哲学)
   - id: wagner
     relation: 承接后决裂
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行(唯识)
 children:
   - concepts/will-to-power.md
@@ -50,7 +50,7 @@ children:
   - timeline.md
   - reading-list.md
 related-comparative:
-  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+  - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
 
 # 尼采 · Friedrich Nietzsche
@@ -184,19 +184,19 @@ related-comparative:
 ### 哲学
 
 - [海德格尔](../../german-idealism/heidegger.md) `[下游]` 视尼采为西方形而上学的终结者,尼采的"权力意志"是存在者之存在的最后命名
-- [福柯](../../../sociology/schools/structuralism/foucault.md) `[下游]` 系谱学方法直接继承尼采,权力分析、规训理论皆源于此
+- [福柯](../../../社会学/学派/结构主义/福柯.md) `[下游]` 系谱学方法直接继承尼采,权力分析、规训理论皆源于此
 - [德勒兹](../../post-structuralism/deleuze.md) `[下游]` 以尼采的差异哲学和肯定思想为基础,反对黑格尔辩证法
-- [弗洛伊德](../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 无意识驱力理论与权力意志平行;弗洛伊德承认尼采的自我洞察力惊人
+- [弗洛伊德](../../../心理学/学派/精神分析/西格蒙德.md) `[平行]` 无意识驱力理论与权力意志平行;弗洛伊德承认尼采的自我洞察力惊人
 
 ### 东方思想
 
-- [唯识 Yogacara](../../../religion/traditions/buddhism/schools/yogacara.md) `[对话]` 权力意志 vs 种子习气、价值重估 vs 转识成智
-- [佛教苦谛](../../../religion/traditions/buddhism/four-noble-truths.md) `[对立]` 尼采视佛教为"被动虚无主义"(此评价基于二手了解,并不全面)
+- [唯识 Yogacara](../../../宗教/传统/佛教/schools/yogacara.md) `[对话]` 权力意志 vs 种子习气、价值重估 vs 转识成智
+- [佛教苦谛](../../../宗教/传统/佛教/四圣谛与八正道.md) `[对立]` 尼采视佛教为"被动虚无主义"(此评价基于二手了解,并不全面)
 
 ### 心理学
 
-- [阿德勒](../../../psychology/schools/individual-psychology/adler.md) `[平行]` 自卑超越与权力意志的结构相似
-- [荣格](../../../psychology/schools/analytical-psychology/jung.md) `[下游]` 阴影、个体化过程受尼采影响;《查拉图斯特拉》研讨班是荣格学派经典
+- [阿德勒](../../../心理学/学派/个体心理学/阿尔弗雷德.md) `[平行]` 自卑超越与权力意志的结构相似
+- [荣格](../../../心理学/学派/分析心理学/卡尔.md) `[下游]` 阴影、个体化过程受尼采影响;《查拉图斯特拉》研讨班是荣格学派经典
 
 ## 东西方对话: 尼采 x 唯识
 

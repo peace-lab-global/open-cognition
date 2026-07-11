@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin.concepts.mechanical-reproduction
+id: 美学.critical-aesthetics.benjamin.concepts.mechanical-reproduction
 title: 机械复制 Mechanical Reproduction
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.benjamin
+domain: 美学
+parent: 美学.critical-aesthetics.benjamin
 tags: [机械复制, 技术复制, 电影, 摄影, 艺术政治化]
 ---
 

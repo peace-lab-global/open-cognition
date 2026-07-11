@@ -47,7 +47,7 @@
 
 ### P1 - 一致性修复
 - ✓ 4 个心理学 SKILL.md 的 frontmatter 从 `linked:` 统一为 `linked_thinker`/`linked_concepts`
-- ✓ ethics-politics/README.md Skills 部分从一行链接扩展为 5 Skill 完整表格
+- ✓ 伦理政治/README.md Skills 部分从一行链接扩展为 5 Skill 完整表格
 
 ### P2 - 内容补全
 - ✓ meta/sources.md 新增 Wisdom Masters 来源（禅宗/藏传/日本禅/入世佛教）

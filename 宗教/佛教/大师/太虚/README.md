@@ -2,7 +2,7 @@
 id: taixu
 title: "太虚 Taixu: 近代佛教改革之父与人生佛教倡导者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-modern
 era: modern
 birth: 1890
@@ -82,7 +82,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 太虚以"真现实"立场重建佛法——佛法不是超现实的玄想，而是对现实的最真实认知。"真现实"既反对唯物论的还原主义，也反对唯心论的观念主义，主张以佛法的如实观照来认识现实。
 
-**Taixu reconstructed Buddhist philosophy from a "True Realism" standpoint — the Dharma is neither materialist reductionism nor idealist abstraction, but the most authentic cognition of reality as-it-is.**
+**Taixu reconstructed Buddhist 哲学 from a "True Realism" standpoint — the Dharma is neither materialist reductionism nor idealist abstraction, but the most authentic cognition of reality as-it-is.**
 
 ---
 
@@ -227,8 +227,8 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 - **佛教内部**: [印光](yinguang.md) — 净土传统的对照；[智顗](zhiyi.md) — 判教传统的先驱；[惠能](huineng.md) — 禅宗的人间化方向
 - **佛教改革**: [印顺](../scholars/yinshun.md) — 人间佛教的理论深化者；[星云](../scholars/hsingyun.md) — 人间佛教的实践者
-- **社会学**: [韦伯](../../../sociology/schools/classical/weber.md) — 新教伦理与宗教改革的现代化动力
-- **哲学**: [梁漱溟](../../../philosophy/chinese-modern/liang-shuming.md) — 现代新儒家的宗教关怀
+- **社会学**: [韦伯](../../../社会学/学派/古典社会学/韦伯.md) — 新教伦理与宗教改革的现代化动力
+- **哲学**: [梁漱溟](../../../哲学/chinese-modern/liang-shuming.md) — 现代新儒家的宗教关怀
 - **教育学**: 现代佛教教育体系的奠基者
 
 ---

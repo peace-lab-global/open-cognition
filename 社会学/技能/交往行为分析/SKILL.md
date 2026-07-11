@@ -1,11 +1,11 @@
 ---
 name: communicative-action-analysis
 description: Triggers on requests to 交往理性、公共领域、沟通行动，如公共讨论、民主协商、冲突解决等。Apply this skill to analyze communicative action and rational discourse, promoting mutual understanding and consensus.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/critical/habermas.md
 linked_concepts:
-  - ../../sociology/concepts/communicative-action.md
-  - ../../sociology/concepts/public-sphere.md
+  - ../../社会学/概念/communicative-action.md
+  - ../../社会学/概念/public-sphere.md
 tags:
   - 交往理性
   - 公共领域

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.middle-way
+id: 宗教.buddhism.core.middle-way
 title: 中道 Middle Way
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [中道, Middle Way, madhyamā-pratipad]
@@ -62,8 +62,8 @@ sources: [巴利三藏, 《中论》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 中庸](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 德性中庸
-- [黑格尔 · 辩证法](../../../philosophy/schools/german-idealism/hegel.md) — [平行] 正反合
+- [亚里士多德 · 中庸](../../../哲学/学派/古希腊/亚里士多德.md) — [平行] 德性中庸
+- [黑格尔 · 辩证法](../../../哲学/学派/德国唯心论/黑格尔.md) — [平行] 正反合
 - [辩证行为治疗 DBT] — [继承] 接纳与改变的平衡
 
 ## 进阶阅读

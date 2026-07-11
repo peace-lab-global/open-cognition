@@ -1,8 +1,8 @@
 ---
-id: literature.poets.goethe
+id: 文学.poets.goethe
 title: 歌德 · Johann Wolfgang von Goethe
 type: thinker
-domain: literature
+domain: 文学
 school: poets
 era: early-modern
 birth: 1749
@@ -48,7 +48,7 @@ children:
 
 歌德不仅是文学家，还是严肃的自然科学家——他的颜色理论（*Zur Farbenlehre*）挑战了牛顿的光学，他的形态学（Morphologie）研究了植物变形的规律，他的自然哲学强调有机整体性和人与自然的和谐统一。这种将艺术与科学、感性与理性、个体与世界融为一体的追求，使歌德成为启蒙运动以来"完人"（Universalgenie）理想的最完美体现。
 
-Johann Wolfgang von Goethe (1749–1832) stands at the pinnacle of German literature and is one of the last true "universal geniuses" of Western civilization. His sixty-year career encompasses the Sturm und Drang movement, Weimar Classicism, and the visionary concept of Weltliteratur (world literature). His masterwork *Faust* — the greatest dramatic poem in German — explores the eternal human drive for knowledge, experience, and transcendence. His novel *Wilhelm Meister's Apprenticeship* invented the Bildungsroman genre. His scientific writings on morphology and color theory reveal a mind that sought to unify art and science. His late-life conversations with Johann Peter Eckermann, published as *Conversations with Goethe*, contain the seminal formulation of world literature as a cosmopolitan project of cross-cultural exchange.
+Johann Wolfgang von Goethe (1749–1832) stands at the pinnacle of German 文学 and is one of the last true "universal geniuses" of Western civilization. His sixty-year career encompasses the Sturm und Drang movement, Weimar Classicism, and the visionary concept of Weltliteratur (world 文学). His masterwork *Faust* — the greatest dramatic poem in German — explores the eternal human drive for knowledge, experience, and transcendence. His novel *Wilhelm Meister's Apprenticeship* invented the Bildungsroman genre. His scientific writings on morphology and color theory reveal a mind that sought to unify art and science. His late-life conversations with Johann Peter Eckermann, published as *Conversations with Goethe*, contain the seminal formulation of world 文学 as a cosmopolitan project of cross-cultural exchange.
 
 ## 二、核心命题 / Core Theses
 

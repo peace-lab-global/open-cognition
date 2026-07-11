@@ -2,7 +2,7 @@
 id: <thinker-slug>
 title: <思想家中文名 · 英文名>
 type: thinker
-domain: <philosophy | religion | sociology | psychology>
+domain: <philosophy | 宗教 | 社会学 | psychology>
 school: <学派标签，参见 TAGS.md>
 era: <ancient | medieval | early-modern | modern | contemporary>
 birth: <YYYY 或 YYYY BCE>

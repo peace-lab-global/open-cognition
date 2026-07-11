@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.leonardo
+id: 美学.arts-thought.leonardo
 title: 达·芬奇 Leonardo da Vinci
 type: thinker
-domain: aesthetics
+domain: 美学
 school: arts-thought
 era: early-modern
 birth: 1452
@@ -14,9 +14,9 @@ sources:
   - "Walter Isaacson, Leonardo da Vinci (2017)"
   - "Martin Kemp, Leonardo da Vinci: The Marvellous Works of Nature and Man (1981)"
 cross-refs:
-  - aesthetics.german-aesthetics.kant-aesthetics
-  - aesthetics.arts-thought.cage
-  - aesthetics.pragmatist-aesthetics.dewey-aesthetics
+  - 美学.german-aesthetics.kant-aesthetics
+  - 美学.arts-thought.cage
+  - 美学.pragmatist-aesthetics.dewey-aesthetics
 sub-entries:
   - concepts/sfumato
   - concepts/art-as-science
@@ -75,13 +75,13 @@ Leonardo found common patterns in water flow, hair, plant growth, rock textures 
 1466年起在韦罗基奥工坊做学徒，习得绘画、雕塑、金属工艺与透视法。这一阶段他掌握的不只是技法，而是一套以手艺驱动的经验研究方法。
 
 **Early Period (1466–1482): Florentine Apprenticeship**
-From 1466 apprenticed in Verrocchio's workshop, learning painting, sculpture, metalwork, and perspective. He mastered not just technique but a craftsman-driven empirical research method.
+From 1466 apprenticed in Verrocchio's workshop, learning painting, sculpture, metalwork, and perspective. He mastered not just technique but a craftsman-driven empirical 研究 method.
 
 ### 中期（1482–1499）：米兰宫廷——艺术-科学-工程合一
 服务于米兰公爵期间完成《最后的晚餐》并大规模开展解剖、水利、军事工程研究。笔记开始系统化——他相信绘画建立在数学（透视、比例）之上，是一门理性科学。
 
 **Middle Period (1482–1499): Milan Court — Art-Science-Engineering Unity**
-Serving the Duke of Milan, he completed *The Last Supper* while conducting extensive anatomy, hydraulics, and military engineering research. Notebooks became systematic — he believed painting was built on mathematics (perspective, proportion), making it a rational science.
+Serving the Duke of Milan, he completed *The Last Supper* while conducting extensive anatomy, hydraulics, and military engineering 研究. Notebooks became systematic — he believed painting was built on mathematics (perspective, proportion), making it a rational science.
 
 ### 晚期（1499–1519）：移动生涯与笔记的成熟
 辗转威尼斯、佛罗伦萨、罗马，最终赴法国。《蒙娜丽莎》持续修改近15年，渐隐法趋于极致；解剖手稿达到前所未有的精确度。

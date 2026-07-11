@@ -1,7 +1,7 @@
 ---
 name: tragic-spirit-assessment
 description: 基于尼采日神与酒神精神的创造力与生活处境评估框架
-domain: aesthetics
+domain: 美学
 linked_thinker: ../../schools/nietzschean-aesthetics/nietzsche-aesthetics.md
 linked_concepts:
   - ../../concepts/aesthetic-experience.md

@@ -1,8 +1,8 @@
 ---
-id: sociology.network-society.castells
+id: 社会学.network-society.castells
 title: 卡斯特 · Manuel Castells
 type: thinker
-domain: sociology
+domain: 社会学
 school: network-society
 era: 20th-21st century
 birth: 1942

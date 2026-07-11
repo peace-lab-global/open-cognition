@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.four-seals
+id: 宗教.buddhism.concept.four-seals
 title: 四法印 Catvāri Dharma-mudrāni
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [四法印, 三法印, 诸行无常, 诸行皆苦, 诸法无我, 涅槃寂静]

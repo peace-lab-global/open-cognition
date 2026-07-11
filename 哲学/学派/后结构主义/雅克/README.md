@@ -2,7 +2,7 @@
 id: derrida
 title: 雅克·德里达 · Jacques Derrida
 type: thinker
-domain: philosophy
+domain: 哲学
 school: post-structuralism
 era: contemporary
 birth: 1930

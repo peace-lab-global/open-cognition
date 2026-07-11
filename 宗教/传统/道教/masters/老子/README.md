@@ -2,7 +2,7 @@
 id: laozi-religion
 title: 老子 · Laozi
 type: thinker
-domain: religion
+domain: 宗教
 school: taoism
 era: ancient
 birth: 601 BCE
@@ -55,7 +55,7 @@ sub-entries:
 
 老子，传为春秋末期楚国苦县厉乡曲仁里（今河南鹿邑）人，姓李名耳，字聃（dān）。道家哲学的奠基者，中国思想史上最具深远影响的人物之一。传统记载其生卒年约为公元前601年至前531年，但自司马迁《史记·老子韩非列传》以来，关于老子的历史身份即存在争议——司马迁本人已列举三种可能人选：老聃、老莱子（楚人，与孔子同时）、太史儋（周太史，孔子后百余年）。
 
-Laozi (traditionally c. 601–531 BCE) is the foundational figure of Daoist philosophy and one of the most profoundly influential thinkers in Chinese intellectual history. According to tradition, he was born in Qurenli village, Li township, Ku County in the state of Chu (present-day Luyi, Henan). His surname was Li, his given name Er, and his courtesy name Dan. His historical identity has been debated since Sima Qian's *Records of the Grand Historian*, which already listed three possible candidates. Modern scholarship tends to view the *Daodejing* as a gradually compiled text, reaching its final form in the mid-to-late Warring States period, rather than the work of a single author.
+Laozi (traditionally c. 601–531 BCE) is the foundational figure of Daoist 哲学 and one of the most profoundly influential thinkers in Chinese intellectual history. According to tradition, he was born in Qurenli village, Li township, Ku County in the state of Chu (present-day Luyi, Henan). His surname was Li, his given name Er, and his courtesy name Dan. His historical identity has been debated since Sima Qian's *Records of the Grand Historian*, which already listed three possible candidates. Modern scholarship tends to view the *Daodejing* as a gradually compiled text, reaching its final form in the mid-to-late Warring States period, rather than the work of a single author.
 
 老子曾任周朝守藏室史（相当于国家图书馆馆长），博览群书，深谙周礼与上古典籍。目睹周室衰微、礼崩乐坏，老子开始对文明异化进行深刻反思，最终形成了以"道"为核心的哲学体系。传说孔子曾问礼于老子，老子以"去子之骄气与多欲，态色与淫志"回应，批评儒家仁义礼智的局限性。
 
@@ -69,7 +69,7 @@ The discovery of Mawangdui silk manuscripts (1973) and Guodian bamboo slips (199
 
 老子是**中国古代第一位系统追问宇宙本源与人类行动之关系的哲学家**——以五千言构建了以"道"为核心、以"无为"为方法、以"自然"为价值、以"反"为运动规律的完整哲学体系，深刻影响了此后两千五百年的东亚文明和世界哲学。
 
-Laozi is **the first Chinese thinker to systematically interrogate the relationship between the origin of the cosmos and human action** — constructing in five thousand characters a complete philosophical system centered on Dao as origin, wu-wei as method, ziran as value, and reversal as the law of movement, profoundly shaping East Asian civilization and world philosophy for twenty-five centuries.
+Laozi is **the first Chinese thinker to systematically interrogate the relationship between the origin of the cosmos and human action** — constructing in five thousand characters a complete philosophical system centered on Dao as origin, wu-wei as method, ziran as value, and reversal as the law of movement, profoundly shaping East Asian civilization and world 哲学 for twenty-five centuries.
 
 ## 核心命题 / Core Theses
 
@@ -83,7 +83,7 @@ Laozi is **the first Chinese thinker to systematically interrogate the relations
 
 "道常无为而无不为。"（第37章）——最高的行动方式是不强为、不妄为，顺应事物的自然趋势，反而能成就一切。无为不是消极怠惰，而是以最小干预达到最大效果的最高行动哲学。详见 [无为 / Wu-wei](concepts/wuwei.md)。
 
-"The Dao is ever non-active, yet nothing is left undone" (Ch. 37) — The highest form of action is non-interference with natural tendencies. Wu-wei is not passivity but the most efficient philosophy of action. See [Wu-wei](concepts/wuwei.md).
+"The Dao is ever non-active, yet nothing is left undone" (Ch. 37) — The highest form of action is non-interference with natural tendencies. Wu-wei is not passivity but the most efficient 哲学 of action. See [Wu-wei](concepts/wuwei.md).
 
 ### 3. 反者道之动（Reversal is the Movement of Dao）
 
@@ -156,7 +156,7 @@ Laozi stands alongside Confucius as one of the two foundational pillars of Chine
 
 老子直接影响了庄子，经庄子发展为更激进的精神自由哲学。汉代黄老之学将老子政治化，成为文景之治的治国理念；魏晋玄学（王弼、何晏）将老子本体论化；道教将老子宗教化，尊为太上老君。在东亚思想史上，老子与佛教的相遇催生了禅宗——中国化的佛教。
 
-Laozi directly influenced Zhuangzi, who radicalized the tradition into a philosophy of spiritual freedom. The Huang-Lao school of the early Han politicized Laozi's thought, making it the governing philosophy of the Wen-Jing era. Wei-Jin metaphysics (Wang Bi, He Yan) ontologized Laozi. Religious Daoism deified him as Taishang Laojun (the Most High Lord Lao). In East Asian intellectual history, the encounter of Daoism with Buddhism produced Chan (Zen) Buddhism.
+Laozi directly influenced Zhuangzi, who radicalized the tradition into a 哲学 of spiritual freedom. The Huang-Lao school of the early Han politicized Laozi's thought, making it the governing 哲学 of the Wen-Jing era. Wei-Jin metaphysics (Wang Bi, He Yan) ontologized Laozi. Religious Daoism deified him as Taishang Laojun (the Most High Lord Lao). In East Asian intellectual history, the encounter of Daoism with Buddhism produced Chan (Zen) Buddhism.
 
 ## 当代应用 / Contemporary Applications
 
@@ -182,9 +182,9 @@ Laozi directly influenced Zhuangzi, who radicalized the tradition into a philoso
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [庄子 · Zhuāngzǐ](../zhuangzi.md) `[继承/发展]` 将老子之道激进化为逍遥与齐物
-- [孔子 · Confucius](../../../../philosophy/schools/eastern/confucius.md) `[对立/对话]` 自然与礼乐、无为与有为的永恒张力
-- [海德格尔 · Heidegger](../../../../philosophy/schools/existentialism/heidegger/) `[平行]` 存在追问与技术批判；"让存在"（Gelassenheit）与无为
-- [赫拉克利特 · Heraclitus](../../../../philosophy/schools/ancient-greek/) `[平行]` "万物皆流"与老子辩证法；"逻各斯"与"道"的比较
+- [孔子 · Confucius](../../../../哲学/学派/东方哲学/孔子.md) `[对立/对话]` 自然与礼乐、无为与有为的永恒张力
+- [海德格尔 · Heidegger](../../../../哲学/学派/存在主义/海德格尔/) `[平行]` 存在追问与技术批判；"让存在"（Gelassenheit）与无为
+- [赫拉克利特 · Heraclitus](../../../../哲学/学派/古希腊/) `[平行]` "万物皆流"与老子辩证法；"逻各斯"与"道"的比较
 - [释迦牟尼 · Buddha](../../../buddhism/) `[平行]` 轴心时代的东西方精神突破；缘起与道生万物的比较
 
 ## 东西方对话 / East-West Dialogue

@@ -2,7 +2,7 @@
 id: kierkegaard
 title: 索伦 · 克尔凯郭尔 · Soren Kierkegaard
 type: thinker
-domain: philosophy
+domain: 哲学
 school: existentialism
 era: modern
 birth: 1813
@@ -47,7 +47,7 @@ cross-refs:
     relation: 发展
   - id: barth
     relation: 神学继承
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行
 children:
   - concepts/three-stages.md
@@ -190,8 +190,8 @@ related-comparative:
 
 ### 与东方思想
 
-- [唯识学派 · Yogacara](../../../religion/traditions/buddhism/schools/yogacara.md) `[平行]` 焦虑/绝望 vs 烦恼/二障；跳跃 vs 见道；主观真理 vs 无分别智；骑士 vs 菩萨。
-- [禅宗 · Chan/Zen](../../../religion/traditions/buddhism/schools/chan.md) `[平行]` 间接沟通 vs 公案的"不立文字"；跳跃 vs 顿悟的非连续性。
+- [唯识学派 · Yogacara](../../../宗教/传统/佛教/schools/yogacara.md) `[平行]` 焦虑/绝望 vs 烦恼/二障；跳跃 vs 见道；主观真理 vs 无分别智；骑士 vs 菩萨。
+- [禅宗 · Chan/Zen](../../../宗教/传统/佛教/schools/chan.md) `[平行]` 间接沟通 vs 公案的"不立文字"；跳跃 vs 顿悟的非连续性。
 
 ## 东西方对话：克尔凯郭尔 x 唯识
 

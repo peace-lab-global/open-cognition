@@ -3,7 +3,7 @@ id: santideva-wisdom-means-unity
 title: "智慧与方便统一 Prajna-upaya-yuganaddha: 寂天第九品的哲学顶峰"
 type: concept
 parent: santideva
-domain: religion
+domain: 宗教
 tags: [prajna, upaya, wisdom, means, sunyata, Madhyamaka, ninth-chapter, two-truths]
 ---
 

@@ -2,7 +2,7 @@
 id: russell
 title: 伯特兰·罗素 · Bertrand Russell
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: modern
 birth: 1872
@@ -51,7 +51,7 @@ sub-entries:
 - **生卒年 / Lifespan**: 1872年5月18日 – 1970年2月2日
 - **国籍 / Nationality**: 英国 / British
 - **学术身份 / Academic Position**: 剑桥大学三一学院；历任多所大学访问教授 / Trinity College, Cambridge; visiting professor at numerous universities
-- **学派 / School**: 分析哲学联合创始人 / Co-founder of analytic philosophy
+- **学派 / School**: 分析哲学联合创始人 / Co-founder of analytic 哲学
 - **荣誉 / Honors**: 1950年诺贝尔文学奖 / Nobel Prize in Literature, 1950; 功绩勋章（Order of Merit）
 
 ## 核心命题 / Core Theses
@@ -82,7 +82,7 @@ sub-entries:
 - 与怀特海合著《数学原理》（Principia Mathematica, 1910–1913），试图从逻辑推导全部数学。
 - Co-authored *Principia Mathematica* with Whitehead (1910–1913), attempting to derive all mathematics from logic.
 - 1905年发表"On Denoting"，提出描述理论——被称为"哲学的范式论文"。
-- 1905: Published "On Denoting" with the theory of descriptions — called "the paradigm of philosophy."
+- 1905: Published "On Denoting" with the theory of descriptions — called "the paradigm of 哲学."
 - 发展逻辑原子主义哲学，深刻影响维特根斯坦的《逻辑哲学论》。
 - Developed logical atomism philosophy, profoundly influencing Wittgenstein's *Tractatus*.
 - 一战期间因和平主义活动入狱6个月。
@@ -90,7 +90,7 @@ sub-entries:
 
 ### 晚期：社会参与与通俗哲学 / Late: Social Engagement and Popular Philosophy
 - 转向通俗哲学写作，《西方哲学史》（1945）成为畅销书。
-- Turned to popular philosophy writing; *History of Western Philosophy* (1945) became a bestseller.
+- Turned to popular 哲学 writing; *History of Western Philosophy* (1945) became a bestseller.
 - 积极参与反核、反战社会运动。与爱因斯坦共同发表反核宣言（Russell-Einstein Manifesto, 1955）。
 - Actively engaged in anti-nuclear and anti-war movements. Co-authored Russell-Einstein Manifesto (1955).
 - 1950年获诺贝尔文学奖，表彰其"倡导人道主义理想与思想自由"的多样著述。
@@ -106,7 +106,7 @@ sub-entries:
 | 《逻辑原子主义哲学》*The Philosophy of Logical Atomism* | 1918 | 逻辑原子主义的系统阐述 / Systematic exposition of logical atomism |
 | 《心的分析》*The Analysis of Mind* | 1921 | 中立一元论 / Neutral monism |
 | 《物的分析》*The Analysis of Matter* | 1927 | 物理学与认识论 / Physics and epistemology |
-| 《西方哲学史》*History of Western Philosophy* | 1945 | 通俗哲学史经典 / Classic popular history of philosophy |
+| 《西方哲学史》*History of Western Philosophy* | 1945 | 通俗哲学史经典 / Classic popular history of 哲学 |
 | 《人类的知识》*Human Knowledge: Its Scope and Limits* | 1948 | 知识的范围与限度 / Scope and limits of knowledge |
 
 ## 重要概念 / Key Concepts
@@ -144,7 +144,7 @@ sub-entries:
 
 2. **误读**: "描述理论只是技术性的逻辑技巧。"
    **澄清**: 描述理论是分析哲学"范式"的确立——它示范了如何通过逻辑分析解决传统哲学问题。
-   *The theory of descriptions established the "paradigm" of analytic philosophy — demonstrating how logical analysis solves traditional philosophical problems.*
+   *The theory of descriptions established the "paradigm" of analytic 哲学 — demonstrating how logical analysis solves traditional philosophical problems.*
 
 3. **误读**: "罗素是纯粹的技术哲学家，不关心社会。"
    **澄清**: 罗素一生深度参与社会运动——反战、反核、教育改革、性解放倡导。他的哲学与社会实践是一体的。
@@ -171,8 +171,8 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 - [怀特海 Whitehead](../whitehead/README.md) `[合作/collaboration]` 《数学原理》的共同作者
 - [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[师承/student]` 逻辑原子主义的分歧
 - [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 描述理论对逻辑经验主义的影响
-- [量论 · Pramana](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照/contrast]` 知识的来源与有效性
-- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行/parallel]` 逻辑分析层面 vs 日常理解层面
+- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 知识的来源与有效性
+- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 逻辑分析层面 vs 日常理解层面
 
 ## 进阶阅读 / Further Reading
 

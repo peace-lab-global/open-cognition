@@ -1,7 +1,7 @@
 ---
 name: cognitive-work-analysis
 description: 分析复杂工作领域中人的认知需求和系统约束，基于 Rasmussen 的抽象层级和 SRK 模型。Triggers on requests to analyze work systems, design interfaces, or understand cognitive demands in complex environments.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/cognitive-engineering/rasmussen.md
 linked_concepts:
   - ../../concepts/joint-cognitive-system.md

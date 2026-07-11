@@ -1,10 +1,10 @@
 ---
 name: biguan-meditation
 description: Triggers on requests to 壁观、禅修、心如墙壁，如禅修指导、心灵成长、压力管理等。Apply this skill to guide users in the practice of wall-gazing meditation, cultivating a mind like a wall that does not arise deluded thoughts.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/china/bodhidharma.md
 linked_concepts:
-  - ../../religion/concepts/biguan.md
+  - ../../宗教/概念/biguan.md
 tags:
   - 壁观
   - 禅修

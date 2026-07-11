@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.readme
+id: 宗教.buddhism.masters.bodhidharma.readme
 title: 菩提达摩 Bodhidharma — Wiki Entry
 type: thinker-profile
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 birth: ~470
@@ -167,7 +167,7 @@ Bodhidharma stands at a pivotal juncture in the Sinicization of Indian Buddhism.
 Bodhidharma's thought holds multidimensional contemporary relevance:
 
 - **心理学与冥想研究 Psychology & Meditation Research**："壁观"可视为最早的"感官剥夺"冥想实验之一，与现代感知隔离研究（如 John Lilly 的隔离舱实验）形成有趣对照。当代正念冥想（MBSR）的核心理念——觉察而不执著——与达摩的"无所求行"高度契合。
-  "Wall-gazing" can be viewed as one of the earliest "sensory deprivation" meditation experiments, offering interesting parallels with modern perceptual isolation research (such as John Lilly's isolation tank experiments). The core principle of contemporary mindfulness meditation (MBSR) — awareness without attachment — strongly aligns with Bodhidharma's "non-striving practice."
+  "Wall-gazing" can be viewed as one of the earliest "sensory deprivation" meditation experiments, offering interesting parallels with modern perceptual isolation 研究 (such as John Lilly's isolation tank experiments). The core principle of contemporary mindfulness meditation (MBSR) — awareness without attachment — strongly aligns with Bodhidharma's "non-striving practice."
 
 - **领导力与管理 Leadership & Management**："无所求行"对当代功利主义文化构成深刻批判。在结果导向的管理哲学之外，达摩提供了一种"无为而无不为"的替代视角。
   "Non-striving practice" offers a profound critique of contemporary utilitarian culture. Beyond results-oriented management philosophy, Bodhidharma provides an alternative perspective of "non-action yet nothing left undone."
@@ -176,7 +176,7 @@ Bodhidharma's thought holds multidimensional contemporary relevance:
   "Accepting karmic retribution" closely mirrors the acceptance principle in Acceptance and Commitment Therapy (ACT). Bodhidharma's attitude toward suffering — not resistance but awareness and acceptance — aligns with the core spirit of third-generation cognitive behavioral therapies.
 
 - **教育哲学 Educational Philosophy**："不立文字"启发了一种超越知识灌输的教育观——真正的学习不是积累信息，而是转变认知方式。这与建构主义学习理论和批判性教育学形成共鸣。
-  "Not establishing words" inspires an educational philosophy that transcends knowledge transmission — true learning is not accumulating information but transforming one's mode of cognition. This resonates with constructivist learning theory and critical pedagogy.
+  "Not establishing words" inspires an educational 哲学 that transcends knowledge transmission — true learning is not accumulating information but transforming one's mode of cognition. This resonates with constructivist learning theory and critical pedagogy.
 
 ---
 
@@ -188,7 +188,7 @@ Bodhidharma's thought holds multidimensional contemporary relevance:
 Bodhidharma created Shaolin martial arts; the *Yi Jin Jing* (Muscle-Tendon Change Classic) and *Xi Sui Jing* (Marrow Washing Classic) were authored by him.
 
 ✅ **澄清 Clarification**：武术传统是后世附会。达摩禅的核心是壁观安心，与武术无关。"易筋经"最早见于明代文献，距离达摩时代已逾千年。将达摩与武术联系起来是文化建构的产物，而非历史事实。
-The martial arts tradition is a later attribution. The core of Bodhidharma's Chan is wall-gazing to pacify the mind, entirely unrelated to martial arts. The *Yi Jin Jing* first appears in Ming dynasty texts, over a millennium after Bodhidharma. Linking him to martial arts is a product of cultural construction, not historical fact.
+The martial 艺术 tradition is a later attribution. The core of Bodhidharma's Chan is wall-gazing to pacify the mind, entirely unrelated to martial 艺术. The *Yi Jin Jing* first appears in Ming dynasty texts, over a millennium after Bodhidharma. Linking him to martial 艺术 is a product of cultural construction, not historical fact.
 
 ### 2. "不立文字 = 不读经典" / "Not establishing words = Don't read scriptures"
 

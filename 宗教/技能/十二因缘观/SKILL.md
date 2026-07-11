@@ -1,7 +1,7 @@
 ---
 name: twelve-links-contemplation
-description: Triggers when a user reports feeling trapped in recurring life patterns, fatalistic thinking, or wants to meditate on the chain of causation. Apply this skill to guide the user through a contemplative reverse-visualization of the twelve links of dependent origination, turning abstract philosophy into an experiential practice of finding freedom within the chain.
-domain: religion
+description: Triggers when a user reports feeling trapped in recurring life patterns, fatalistic thinking, or wants to meditate on the chain of causation. Apply this skill to guide the user through a contemplative reverse-visualization of the twelve links of dependent origination, turning abstract 哲学 into an experiential practice of finding freedom within the chain.
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/dependent-origination.md
   - ../../buddhism/concepts/foundational/karma-rebirth.md

@@ -1,10 +1,10 @@
 ---
 name: qiwu-analysis
 description: Triggers on requests to 齐物论、相对主义、超越对立，如哲学争论、价值判断、认知偏差等。Apply this skill to help users transcend binary thinking and see the equality of opposites.
-domain: philosophy
-linked_thinker: ../../../religion/traditions/taoism/masters/zhuangzi.md
+domain: 哲学
+linked_thinker: ../../../宗教/传统/道教/masters/庄子.md
 linked_concepts:
-  - ../../religion/traditions/taoism/qiwu.md
+  - ../../宗教/传统/道教/qiwu.md
 tags:
   - 齐物论
   - 相对主义
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[庄子](../../../religion/traditions/taoism/masters/zhuangzi.md)
-- 来源概念：[齐物论](../../religion/traditions/taoism/qiwu.md)
+- 来源思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 来源概念：[齐物论](../../宗教/传统/道教/qiwu.md)
 - 关键文献：《庄子·齐物论》
 
 ## 操作流程
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[庄子](../../../religion/traditions/taoism/masters/zhuangzi.md)
-- 概念：[齐物论](../../religion/traditions/taoism/qiwu.md)
+- 思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 概念：[齐物论](../../宗教/传统/道教/qiwu.md)
 - 相关 Skill：[dialectical-analysis](./dialectical-analysis/SKILL.md)、[socratic-questioning](./socratic-questioning/SKILL.md)

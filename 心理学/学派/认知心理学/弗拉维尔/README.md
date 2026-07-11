@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.flavell
+id: 心理学.cognitive.flavell
 title: "弗拉维尔 · John Flavell"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1928
@@ -60,7 +60,7 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 
 **中文**：弗拉维尔对**知道感**（Feeling of Knowing, FOK）的研究揭示了元认知的直觉维度：人在无法回忆某信息时，对"自己能否识别该信息"做出快速判断。FOK 虽非完全准确，却具有适应性功能，能指导搜索与学习决策。
 
-**EN**: Flavell's research on **Feeling of Knowing (FOK)** revealed the intuitive dimension of metacognition: when unable to recall information, individuals make rapid judgments about whether they would recognize it. FOK, though imperfect, serves an adaptive function by guiding search and learning decisions.
+**EN**: Flavell's 研究 on **Feeling of Knowing (FOK)** revealed the intuitive dimension of metacognition: when unable to recall information, individuals make rapid judgments about whether they would recognize it. FOK, though imperfect, serves an adaptive function by guiding search and learning decisions.
 
 ### 6. 认知策略的元认知控制 · Metacognitive Control of Cognitive Strategies
 
@@ -86,7 +86,7 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 
 **中文**：此后数十年，弗拉维尔与夫人 Frances Flavell 及同事持续深化元认知理论，特别关注：元认知的发展轨迹、元记忆（metamemory）的年龄差异、儿童对自身思维过程的意识发展。他与 Patricia Miller 合著的教材《认知发展》（*Cognitive Development*）成为该领域标准参考书。弗拉维尔还涉猎心理理论（Theory of Mind）领域，探讨儿童如何理解他人的心理状态，将元认知研究从"认识自己"延伸到"理解他人"。
 
-**EN**: Over subsequent decades, Flavell and his wife Frances Flavell continued deepening metacognitive theory, focusing on: developmental trajectories of metacognition, age differences in metamemory, and children's developing awareness of their own thought processes. His textbook *Cognitive Development* (co-authored with Patricia Miller) became the standard reference in the field. Flavell also ventured into Theory of Mind research, exploring how children understand others' mental states, extending metacognitive research from "knowing oneself" to "understanding others."
+**EN**: Over subsequent decades, Flavell and his wife Frances Flavell continued deepening metacognitive theory, focusing on: developmental trajectories of metacognition, age differences in metamemory, and children's developing awareness of their own thought processes. His textbook *Cognitive Development* (co-authored with Patricia Miller) became the standard reference in the field. Flavell also ventured into Theory of Mind research, exploring how children understand others' mental states, extending metacognitive 研究 from "knowing oneself" to "understanding others."
 
 ## 关键著作 · Key Works
 
@@ -180,7 +180,7 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 
 **中文**：元认知研究为老年认知训练提供了理论基础。通过强化元认知监控策略，可以在一定程度上补偿记忆力和注意力的年龄相关衰退。
 
-**EN**: Metacognitive research provides theoretical foundations for elderly cognitive training. Strengthening metacognitive monitoring strategies can partially compensate for age-related decline in memory and attention.
+**EN**: Metacognitive 研究 provides theoretical foundations for elderly cognitive training. Strengthening metacognitive monitoring strategies can partially compensate for age-related decline in memory and attention.
 
 ## 常见误读 · Common Misreadings
 
@@ -206,7 +206,7 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 
 **✅ 纠正**：弗拉维尔的学术生涯横跨多个领域：他早期研究记忆发展，提出了"产出不足"等关键概念；中期建立元认知理论；晚期涉足心理理论、意识流研究、儿童对思维过程的理解。他的贡献不仅是一个概念（元认知），更是一种视角——用认知主体对自身认知过程的觉察来理解智能。
 
-**EN**: Flavell's career spanned multiple domains: early research on memory development (introducing "production deficiency"); mid-career establishment of metacognitive theory; late-career ventures into Theory of Mind, stream of consciousness research, and children's understanding of thought processes. His contribution is not merely a concept (metacognition) but a perspective — understanding intelligence through the cognitive subject's awareness of their own cognitive processes.
+**EN**: Flavell's career spanned multiple domains: early 研究 on memory development (introducing "production deficiency"); mid-career establishment of metacognitive theory; late-career ventures into Theory of Mind, stream of consciousness research, and children's understanding of thought processes. His contribution is not merely a concept (metacognition) but a perspective — understanding intelligence through the cognitive subject's awareness of their own cognitive processes.
 
 ## 东西方对话 · East-West Dialogue
 

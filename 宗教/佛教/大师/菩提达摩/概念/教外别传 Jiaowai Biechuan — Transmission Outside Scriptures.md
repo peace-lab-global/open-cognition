@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.concepts.transmission-outside-scriptures
+id: 宗教.buddhism.masters.bodhidharma.concepts.transmission-outside-scriptures
 title: 教外别传 Jiaowai Biechuan — Transmission Outside Scriptures
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 tags: [教外别传, 不立文字, 以心传心, 法脉传承, 达摩禅法, Bodhidharma]

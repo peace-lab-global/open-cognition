@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein
+id: 美学.arts-thought.eisenstein
 title: 爱森斯坦 Sergei Eisenstein
 type: thinker
-domain: aesthetics
+domain: 美学
 school: arts-thought
 era: modern
 birth: 1898
@@ -14,9 +14,9 @@ sources:
   - "Eisenstein, Film Form (1949)"
   - "David Bordwell, The Cinema of Eisenstein (1993)"
 cross-refs:
-  - aesthetics.critical-aesthetics.benjamin
-  - aesthetics.critical-aesthetics.adorno
-  - aesthetics.german-aesthetics.hegel-aesthetics
+  - 美学.critical-aesthetics.benjamin
+  - 美学.critical-aesthetics.adorno
+  - 美学.german-aesthetics.hegel-aesthetics
 sub-entries:
   - concepts/montage
   - concepts/attraction-montage
@@ -87,7 +87,7 @@ Directing in Proletkult theater in early 1920s, publishing "Montage of Attractio
 游学欧美后，吸收格式塔心理学、能剧与日本绘画，理论趋于综合。《电影形式》《电影感觉》系统整合黑格尔辩证法与感知心理学。
 
 **Late Period (1930s–1948): Theoretical Synthesis & Psychology**
-After traveling Europe and America, absorbing Gestalt psychology, Noh theater, Japanese painting, theory became comprehensive. *Film Form* and *The Film Sense* systematically integrated Hegelian dialectics with perceptual psychology.
+After traveling Europe and America, absorbing Gestalt psychology, Noh theater, Japanese painting, theory became comprehensive. *Film Form* and *The Film Sense* systematically integrated Hegelian dialectics with perceptual 心理学.
 
 ---
 

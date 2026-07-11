@@ -2,7 +2,7 @@
 id: <school-slug>
 title: <学派中文名 · 英文名>
 type: school
-domain: <philosophy | religion | sociology | psychology>
+domain: <philosophy | 宗教 | 社会学 | psychology>
 era: <主要兴盛时代>
 tags:
   - <学派标签>

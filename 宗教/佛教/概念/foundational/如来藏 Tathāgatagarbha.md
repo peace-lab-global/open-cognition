@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.tathagatagarbha
+id: 宗教.buddhism.core.tathagatagarbha
 title: 如来藏 Tathāgatagarbha
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [如来藏, 佛性, 真常唯心, 一乘, 三乘]
@@ -104,9 +104,9 @@ sources: [《如来藏经》, 《胜鬘经》, 《楞伽经》, 《宝性论》]
 
 ## 跨学科关联
 
-- [柏拉图 · 理念论](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 如来藏 vs 理念世界
-- [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 如来藏 vs 存在的澄明
-- [荣格 · 自性](../../../psychology/schools/analytical-psychology/jung.md) — [平行] 如来藏 vs 自性原型
+- [柏拉图 · 理念论](../../../哲学/学派/古希腊/柏拉图.md) — [平行] 如来藏 vs 理念世界
+- [海德格尔 · 存在](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 如来藏 vs 存在的澄明
+- [荣格 · 自性](../../../心理学/学派/分析心理学/卡尔.md) — [平行] 如来藏 vs 自性原型
 
 ## 进阶阅读
 

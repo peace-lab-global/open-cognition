@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.nagarjuna.concepts.middle-way
+id: 宗教.buddhism.master.nagarjuna.concepts.middle-way
 title: "中道 Madhyamaka: 八不与中道哲学"
 type: concept
 thinker: nagarjuna
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 tags: [middle-way, madhyamaka, asta-nisedha, eight-negations, anti-extremism, Madhyamaka]
 ---

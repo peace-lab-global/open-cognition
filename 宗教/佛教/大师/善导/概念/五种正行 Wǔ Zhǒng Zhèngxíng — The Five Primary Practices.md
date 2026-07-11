@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.master.shandao.concepts.five-primary-practices
+id: 宗教.buddhism.master.shandao.concepts.five-primary-practices
 title: 五种正行 Wǔ Zhǒng Zhèngxíng — The Five Primary Practices
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
-parent: religion.buddhism.master.shandao.readme
+parent: 宗教.buddhism.master.shandao.readme
 tags: [五种正行, Five Primary Practices, 正行, 杂行, 正定业, Pure Land]
 ---
 

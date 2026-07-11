@@ -1,7 +1,7 @@
 ---
 name: sacred-profane-analysis
-description: Triggers when a user analyzes a community ritual, brand culture, political ceremony, or modern phenomenon (sport, celebrity, technology) using the religion/secular dichotomy. Apply this skill to surface the sacred-profane structure and avoid both naive secularism and naive sacralization.
-domain: religion
+description: Triggers when a user analyzes a community ritual, brand culture, political ceremony, or modern phenomenon (sport, celebrity, technology) using the 宗教/secular dichotomy. Apply this skill to surface the sacred-profane structure and avoid both naive secularism and naive sacralization.
+domain: 宗教
 linked_concepts:
   - ../../concepts/sacred.md
   - ../../concepts/salvation.md
@@ -10,7 +10,7 @@ tags:
   - community
   - meaning
   - power
-  - sociology
+  - 社会学
 ---
 
 # 神圣-世俗辨析 · Sacred / Profane Analysis
@@ -117,5 +117,5 @@ tags:
 ## 关联条目
 
 - 概念：[神圣 The Sacred](../../concepts/sacred.md)、[救赎](../../concepts/salvation.md)
-- 跨学科：[涂尔干 · 集体良心](../../../sociology/schools/classical/durkheim.md)
+- 跨学科：[涂尔干 · 集体良心](../../../社会学/学派/古典社会学/涂尔干.md)
 - 相关 Skill：[四圣谛框架分析](../four-noble-truths-framework/SKILL.md)、[经文诠释学](../scriptural-hermeneutics/SKILL.md)

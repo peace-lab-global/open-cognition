@@ -2,7 +2,7 @@
 id: huiyuan
 title: "慧远 Huiyuan: 庐山隐僧与净土先驱、政教分离的东方先声"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
 era: ancient
 birth: 334

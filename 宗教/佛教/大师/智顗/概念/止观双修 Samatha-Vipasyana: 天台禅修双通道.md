@@ -3,7 +3,7 @@ id: zhiyi-samatha-vipasyana
 title: "止观双修 Samatha-Vipasyana: 天台禅修双通道"
 type: concept
 parent: zhiyi
-domain: religion
+domain: 宗教
 tags: [samatha, vipasyana, calm-abiding, insight, Tiantai]
 ---
 

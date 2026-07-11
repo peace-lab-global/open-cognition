@@ -1,8 +1,8 @@
 ---
-id: philosophy.scottish-common-sense.reid
+id: 哲学.scottish-common-sense.reid
 title: 里德 · Thomas Reid
 type: thinker
-domain: philosophy
+domain: 哲学
 school: scottish-common-sense
 era: early-modern
 birth: 1710
@@ -39,7 +39,7 @@ cross-refs:
 
 里德的核心贡献在于系统的"直接性多元论"——不仅感知是直接的，记忆、意识、作证信任（testimony）、归纳也都是直接的心智能力，各自独立运作，不可还原为彼此。这是西方思想中首次将"直接认知"从感官扩展到全部心智能力，预示了当代认知科学的认知能力研究。
 
-Thomas Reid is the true founder of modern direct realism and founder of the Scottish Common Sense School. His entire philosophy is a counter-revolution against the "veil of ideas" — the assumption shared by Descartes through Hume that the mind can only directly perceive its own ideas. Reid argued that this "ideal system" is the root cause of all skepticism and idealism.
+Thomas Reid is the true founder of modern direct realism and founder of the Scottish Common Sense School. His entire 哲学 is a counter-revolution against the "veil of ideas" — the assumption shared by Descartes through Hume that the mind can only directly perceive its own ideas. Reid argued that this "ideal system" is the root cause of all skepticism and idealism.
 
 ## 二、核心命题
 
@@ -114,4 +114,4 @@ Thomas Reid is the true founder of modern direct realism and founder of the Scot
 
 - [亚里士多德 Aristotle](../ancient-greek/aristotle/README.md) `[同源]` 朴素直接实在论
 - [休谟 Hume](../empiricism/hume/README.md) `[对立]` 观念体系的批判对象
-- [吉布森 Gibson](../../../cognitive-systems/schools/ecological/gibson/README.md) `[平行]` 直接知觉
+- [吉布森 Gibson](../../../认知系统/学派/生态认知/吉布森/README.md) `[平行]` 直接知觉

@@ -2,7 +2,7 @@
 id: ooda-loop
 title: OODA 循环 · OODA Loop
 type: concept
-domain: cognitive-systems
+domain: 认知系统
 school: decision-science
 era: 1950–1980年代（John Boyd）
 tags:

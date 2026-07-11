@@ -3,7 +3,7 @@ id: huineng-zixing
 title: "自性 Zixing: 慧能的本自具足心性论"
 type: concept
 parent: huineng
-domain: religion
+domain: 宗教
 tags: [self-nature, zixing, Buddha-nature, tathagatagarbha, innate-enlightenment, Chan]
 ---
 

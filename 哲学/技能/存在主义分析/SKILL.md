@@ -1,11 +1,11 @@
 ---
 name: existentialism-analysis
 description: Triggers on requests to 存在先于本质、自由、责任，如人生意义探索、道德决策、自我认同等。Apply this skill to analyze situations using Sartre's existentialist philosophy, emphasizing radical freedom and responsibility.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/existentialism/sartre.md
 linked_concepts:
-  - ../../philosophy/concepts/existence-precedes-essence.md
-  - ../../philosophy/concepts/freedom.md
+  - ../../哲学/概念/existence-precedes-essence.md
+  - ../../哲学/概念/freedom.md
 tags:
   - 存在主义
   - 自由

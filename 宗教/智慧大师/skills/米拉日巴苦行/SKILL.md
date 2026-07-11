@@ -144,4 +144,4 @@ tags:
 - 祖师：[米拉日巴](../../masters/tibet/milarepa.md)
 - 概念：[苦行](./concepts/asceticism.md)（待建）
 - 相关Skill：[米拉日巴裸见觉性](./milarepa-naked-awareness/SKILL.md)
-- 跨传统：[尼采·永恒轮回](../../philosophy/schools/existentialism/nietzsche.md)（平行）——"热爱命运"的炼金术
+- 跨传统：[尼采·永恒轮回](../../哲学/学派/存在主义/尼采.md)（平行）——"热爱命运"的炼金术

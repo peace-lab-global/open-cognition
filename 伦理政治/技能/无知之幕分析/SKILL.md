@@ -1,7 +1,7 @@
 ---
 name: veil-of-ignorance-analysis
 description: 无知之幕分析用于检验政治原则或社会安排的公正性。在假设参与者不知道自身社会地位、天赋、价值观的条件下，推断哪些原则会被理性个体选择。Triggers on 需要论证某项政策是否公正、检验社会安排的合法性、或进行制度设计的问题。
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/social-contract/rawls.md
 linked_concepts:
   - ../../concepts/veil-of-ignorance.md

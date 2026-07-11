@@ -3,7 +3,7 @@ id: atisha-kadam
 title: "噶当派 Kadam: 以佛语教授为本"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [Kadam, Tibetan-Buddhism, reform]
 ---
 # 噶当派 / Kadam School

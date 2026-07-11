@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.sanlun
+id: 宗教.buddhism.school.sanlun
 title: 三论宗 Sanlun School
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 era: medieval
 tags: [三论宗, 中论, 百论, 十二门论, 吉藏, 汉传中观]
@@ -96,8 +96,8 @@ sources: [《中论》, 《百论》, 《十二门论》, 《中观论疏》]
 ## 跨学科关联
 
 - [龙树](../masters/nagarjuna.md) — [继承] 中观正见
-- [德里达 · 解构](../../../philosophy/schools/post-structuralism/derrida.md) — [平行] 破邪显正 vs 解构
-- [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] 言教二谛 vs 语言游戏
+- [德里达 · 解构](../../../哲学/学派/后结构主义/雅克.md) — [平行] 破邪显正 vs 解构
+- [维特根斯坦 · 语言游戏](../../../哲学/学派/分析哲学/维特根斯坦.md) — [平行] 言教二谛 vs 语言游戏
 
 ## 进阶阅读
 

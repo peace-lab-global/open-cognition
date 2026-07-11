@@ -1,11 +1,11 @@
 ---
 name: dependent-origination-analysis
 description: Triggers on requests to 缘起法、因缘和合、无我，如哲学思考、心理分析、因果关系分析等。Apply this skill to analyze phenomena through the lens of dependent origination, understanding how everything arises from conditions.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/thailand/buddhadasa.md
 linked_concepts:
-  - ../../religion/concepts/dependent-origination.md
-  - ../../religion/concepts/anatta.md
+  - ../../宗教/概念/dependent-origination.md
+  - ../../宗教/概念/anatta.md
 tags:
   - 缘起法
   - 因缘和合

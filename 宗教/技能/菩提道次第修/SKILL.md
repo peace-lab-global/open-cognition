@@ -1,10 +1,10 @@
 ---
 name: lamrim-stages
 description: Triggers on requests to 修行次第、菩提道次第、成佛道路，如修行指导、心灵成长、宗教实践等。Apply this skill to guide users through the gradual path to enlightenment, from initial motivation to final realization.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/tibet/tsongkhapa.md
 linked_concepts:
-  - ../../religion/concepts/lamrim.md
+  - ../../宗教/概念/lamrim.md
 tags:
   - 菩提道次第
   - 修行

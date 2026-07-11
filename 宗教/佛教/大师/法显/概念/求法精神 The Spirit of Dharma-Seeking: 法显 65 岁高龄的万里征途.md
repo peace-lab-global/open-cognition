@@ -3,7 +3,7 @@ id: faxian-pilgrimage-spirit
 title: "求法精神 The Spirit of Dharma-Seeking: 法显 65 岁高龄的万里征途"
 type: concept
 parent: faxian
-domain: religion
+domain: 宗教
 tags: [pilgrimage, 求法, Dharma-seeking, religious-travel, perseverance, spiritual-motivation]
 ---
 
@@ -77,7 +77,7 @@ Faxian's spiritual strength derived first from deep Buddhist faith. In Buddhist 
 
 法显的行为体现了中国佛教的一种深层文化心理：对知识**完整性**的执着追求。在法显看来，中国佛教缺少完整的律藏，就如同一个有机体缺少了关键的器官——僧团无法在缺乏完整戒律的情况下健康发展。这种对"完整"的追求驱动了一代又一代的求法僧。
 
-Faxian's actions embodied a deep cultural psychology within Chinese Buddhism: an unwavering pursuit of **knowledge completeness**. In Faxian's view, Chinese Buddhism lacking a complete Vinaya was like an organism missing a vital organ — the monastic community could not develop healthily without complete monastic discipline. This pursuit of "completeness" drove generation after generation of Dharma-seeking monks.
+Faxian's actions embodied a deep cultural 心理学 within Chinese Buddhism: an unwavering pursuit of **knowledge completeness**. In Faxian's view, Chinese Buddhism lacking a complete Vinaya was like an organism missing a vital organ — the monastic community could not develop healthily without complete monastic discipline. This pursuit of "completeness" drove generation after generation of Dharma-seeking monks.
 
 ### 大乘菩萨精神
 

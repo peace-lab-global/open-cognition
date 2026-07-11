@@ -1,8 +1,8 @@
 ---
-id: sociology.critical.habermas
+id: 社会学.critical.habermas
 title: 哈贝马斯 · Jürgen Habermas
 type: thinker
-domain: sociology
+domain: 社会学
 school: critical
 era: 20th-21st century
 birth: 1929

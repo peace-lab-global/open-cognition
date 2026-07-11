@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin
+id: 宗教.buddhism.masters.hakuin
 title: 白隐慧鹤 Hakuin Ekaku (1686-1769)
 type: thinker-hub
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 era: early-modern
 birth: 1686

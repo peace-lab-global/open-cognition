@@ -2,7 +2,7 @@
 id: frankl-viktor
 title: "维克多·弗兰克尔 · Viktor Frankl"
 type: thinker
-domain: psychology
+domain: 心理学
 school: existential-psychology
 era: modern
 birth: 1905
@@ -65,7 +65,7 @@ Psychiatrist, neurologist, founder of Logotherapy and Existential Analysis, pion
 - 哈佛大学、斯坦福大学、达拉斯大学客座教授（Visiting Professor at Harvard, Stanford, and the University of Dallas）
 
 **学派定位 / School Positioning**：「第三维也纳心理治疗学派」——继弗洛伊德的精神分析（第一学派）和阿德勒的个体心理学（第二学派）之后。
-The "Third Viennese School of Psychotherapy" — following Freud's psychoanalysis (First School) and Adler's individual psychology (Second School).
+The "Third Viennese School of Psychotherapy" — following Freud's psychoanalysis (First School) and Adler's individual 心理学 (Second School).
 
 ---
 
@@ -103,7 +103,7 @@ Facing the tragic triad — pain, guilt, and death — one can practice "tragic 
 
 弗兰克尔1905年生于维也纳一个公务员家庭。少年时代即展现出对心理学的浓厚兴趣——16岁时与弗洛伊德通信，弗洛伊德将其一封来信发表于《国际精神分析杂志》。在维也纳大学攻读医学期间，弗兰克尔一度接近阿德勒的个体心理学，但在1920年代末逐渐与之疏离，开始发展以「意义」为核心的独立理论框架。
 
-Frankl was born in 1905 in Vienna to a civil servant family. He showed keen interest in psychology from an early age — at 16, he corresponded with Freud, who published one of his letters in the *International Journal of Psychoanalysis*. While studying medicine at the University of Vienna, Frankl briefly aligned with Adler's individual psychology but gradually distanced himself in the late 1920s, beginning to develop his own theoretical framework centered on "meaning."
+Frankl was born in 1905 in Vienna to a civil servant family. He showed keen interest in 心理学 from an early age — at 16, he corresponded with Freud, who published one of his letters in the *International Journal of Psychoanalysis*. While studying medicine at the University of Vienna, Frankl briefly aligned with Adler's individual 心理学 but gradually distanced himself in the late 1920s, beginning to develop his own theoretical framework centered on "meaning."
 
 1930年代，弗兰克尔在维也纳为青少年提供免费心理咨询——在实践中验证了「意义」作为核心治疗要素的理念。他组织了面向中学生的免费咨询中心，并在自杀预防方面发表了重要论文。至1938年纳粹吞并奥地利前，弗兰克尔已经建构了意义治疗的基本理论框架。
 
@@ -138,7 +138,7 @@ In the 1960s–1980s, Frankl lectured extensively in North America, establishing
 | 1946 | *...trotzdem Ja zum Leben sagen*（英译：*Man's Search for Meaning*） | 集中营经历的现象学叙述与意义治疗导论；Phenomenological account of camp experience and introduction to logotherapy |
 | 1946 | *Ärztliche Seelsorge*（英译：*The Doctor and the Soul*） | 意义治疗的临床基础与系统化论述；Clinical foundations and systematic exposition of logotherapy |
 | 1959 | *From Death-Camp to Existentialism*（*Man's Search for Meaning* 英文版） | 英文世界首次系统接触意义治疗；First systematic English-language exposure to logotherapy |
-| 1967 | *Psychotherapy and Existentialism* | 意义治疗与存在主义哲学的对话；Dialogue between logotherapy and existentialist philosophy |
+| 1967 | *Psychotherapy and Existentialism* | 意义治疗与存在主义哲学的对话；Dialogue between logotherapy and existentialist 哲学 |
 | 1969 | *The Will to Meaning* | 意义意志的系统理论建构；Systematic theoretical construction of the will to meaning |
 | 1975 | *The Unconscious God*（德文：*Der unbewusste Gott*） | 意义治疗的宗教与灵性维度；Religious and spiritual dimensions of logotherapy |
 | 1978 | *The Unheard Cry for Meaning* | 对存在真空与现代社会意义危机的批判；Critique of existential vacuum and the meaning crisis in modern society |
@@ -219,7 +219,7 @@ The highest-level discovery in Frankl's value system: when creative and experien
    Frankl's meaning framework is a core theory for understanding PTG — finding meaning in suffering is the key transformational mechanism. Tedeschi and Calhoun's PTG model directly benefits from Frankl's insights.
 
 2. **积极心理学（Positive Psychology）**：塞利格曼的PERMA模型中"M"（Meaning）维度直接继承自弗兰克尔。Wong的积极存在心理学（Positive Existential Psychology）进一步整合了意义治疗与积极心理学。
-   The "M" (Meaning) dimension in Seligman's PERMA model directly inherits from Frankl. Wong's Positive Existential Psychology further integrates logotherapy with positive psychology.
+   The "M" (Meaning) dimension in Seligman's PERMA model directly inherits from Frankl. Wong's Positive Existential Psychology further integrates logotherapy with positive 心理学.
 
 3. **姑息治疗与临终关怀（Palliative and End-of-Life Care）**：意义治疗在姑息医学中广泛应用——帮助临终者回顾生命、发现意义、面对死亡焦虑。Chochinov的「尊严疗法」（Dignity Therapy）深受弗兰克尔影响。
    Logotherapy is widely applied in palliative medicine — helping the dying review their lives, find meaning, and confront death anxiety. Chochinov's "Dignity Therapy" is deeply influenced by Frankl.
@@ -228,7 +228,7 @@ The highest-level discovery in Frankl's value system: when creative and experien
    The existential vacuum is highly correlated with addictive behavior — meaning-centered intervention programs are increasingly valued in addiction recovery.
 
 5. **组织管理与工作意义（Organizational Management and Meaningful Work）**：「有意义的工作」（Meaningful Work）研究——员工的内在动机、组织使命感和工作场所的存在真空。Steger等人的工作意义量表直接源自弗兰克尔的理论。
-   "Meaningful Work" research — employee intrinsic motivation, organizational mission, and workplace existential vacuum. Steger et al.'s Work and Meaning Inventory derives directly from Frankl's theory.
+   "Meaningful Work" 研究 — employee intrinsic motivation, organizational mission, and workplace existential vacuum. Steger et al.'s Work and Meaning Inventory derives directly from Frankl's theory.
 
 6. **教育领域（Education）**：意义导向的教育——帮助学生发现学习的个人意义而非仅追求外在成绩。对"空心病"（existential frustration in students）的理解和干预。
    Meaning-oriented education — helping students discover personal meaning in learning rather than merely pursuing external grades. Understanding and intervening in "existential frustration" among students.
@@ -250,7 +250,7 @@ Frankl insisted that meaning is **objective** — it exists within concrete life
 
 **❌ 误读三 / Misreading 3**："意义治疗缺乏科学基础，只是心灵鸡汤。" / "Logotherapy lacks scientific foundation; it's just inspirational鸡汤."
 ✅ **纠正 / Correction**：意义治疗拥有系统的临床技术（矛盾意向法有对照实验支持、去反省有临床研究基础），并且意义意志量表（Purpose in Life Test, Life Regard Index等）提供了实证研究工具。近年来的元分析确认了意义感与心理健康的显著正相关。
-Logotherapy possesses systematic clinical techniques (paradoxical intention has controlled trial support; dereflection has clinical research foundations), and the will to meaning is measured by validated instruments (Purpose in Life Test, Life Regard Index, etc.). Recent meta-analyses confirm significant positive correlations between meaning and psychological well-being.
+Logotherapy possesses systematic clinical techniques (paradoxical intention has controlled trial support; dereflection has clinical 研究 foundations), and the will to meaning is measured by validated instruments (Purpose in Life Test, Life Regard Index, etc.). Recent meta-analyses confirm significant positive correlations between meaning and psychological well-being.
 
 **❌ 误读四 / Misreading 4**："弗兰克尔的理论只是集中营哲学，只适用于极端情境。" / "Frankl's theory is merely concentration camp philosophy, applicable only to extreme situations."
 ✅ **纠正 / Correction**：意义治疗的基本框架在集中营经历之前就已建构。集中营经历是理论的**检验**而非**起源**。其适用范围涵盖日常生活的全部领域——职业倦怠、关系困境、中年危机、存在空虚等普通人的意义问题。
@@ -279,13 +279,13 @@ Zhuangzi's "Free and Easy Wandering" (xiaoyao you) and Frankl's "self-transcende
 - **哲学 / Philosophy**：与海德格尔的「此在」与「向死而生」、萨特的「绝对自由与责任」、加缪的「荒谬与反抗」、列维纳斯的「对他者的责任」的存在主义对话。
   Existential dialogue with Heidegger's "Dasein" and "Being-toward-death," Sartre's "absolute freedom and responsibility," Camus's "absurdity and revolt," and Levinas's "responsibility to the Other."
 - **神经科学 / Neuroscience**：意义感与大脑默认模式网络（DMN）、自我参照加工、前额叶-边缘系统回路的神经机制研究。Stillman等人的研究确认了意义感与神经可塑性的关联。
-  Research on neural mechanisms linking meaning to the default mode network (DMN), self-referential processing, and prefrontal-limbic circuits. Stillman et al.'s research confirms links between meaning and neural plasticity.
+  Research on neural mechanisms linking meaning to the default mode network (DMN), self-referential processing, and prefrontal-limbic circuits. Stillman et al.'s 研究 confirms links between meaning and neural plasticity.
 - **宗教学 / Religious Studies**：意义治疗的世俗精神性维度——与佛教的苦谛、基督教的十字架神学（theologia crucis）、犹太教的Kiddush HaShem（圣化上帝之名）有深层共鸣。
   The secular spirituality of logotherapy — deep resonance with Buddhism's truth of suffering, Christianity's theologia crucis (theology of the cross), and Judaism's Kiddush HaShem (sanctification of God's name).
 - **社会学 / Sociology**：存在真空与韦伯的「祛魅」（Entzauberung）、涂尔干的「失范」（anomie）、鲍曼的「液态现代性」的关联——现代性条件下意义危机的社会根源。
   Connections between the existential vacuum and Weber's "disenchantment," Durkheim's "anomie," and Bauman's "liquid modernity" — social roots of the meaning crisis under modernity.
 - **文学 / Literature**：《活出生命的意义》是20世纪最具影响力的非虚构作品之一——其叙事结构将个人受难与普遍人性洞察融为一体，开创了"见证文学"的心理学范式。
-  *Man's Search for Meaning* is one of the most influential non-fiction works of the 20th century — its narrative structure integrates personal suffering with universal human insight, pioneering a psychological paradigm of "witness literature."
+  *Man's Search for Meaning* is one of the most influential non-fiction works of the 20th century — its narrative structure integrates personal suffering with universal human insight, pioneering a psychological paradigm of "witness 文学."
 - **教育学 / Education**：意义导向教学（Meaning-Centered Pedagogy）——将弗兰克尔的意义发现理念融入课程设计，帮助学生在学习中建立个人意义联结。
   Meaning-Centered Pedagogy — integrating Frankl's meaning-discovery approach into curriculum design, helping students build personal meaning connections in their learning.
 

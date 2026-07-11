@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan.concepts.quarter-vinaya
+id: 宗教.buddhism.masters.daoxuan.concepts.quarter-vinaya
 title: "四分通大乘 The Dharmaguptaka Vinaya as a Mahāyāna Path"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
 tags: [四分律, 大乘, Dharmaguptaka, Mahāyāna, 菩萨戒]

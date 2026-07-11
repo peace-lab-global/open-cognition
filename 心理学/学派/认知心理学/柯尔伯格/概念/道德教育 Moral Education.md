@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kohlberg.moral-education
+id: 心理学.cognitive.kohlberg.moral-education
 title: 道德教育 Moral Education
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 tags: [道德教育, 加一阶段, 公正社群, 道德两难讨论, moral-education, plus-one-stage, just-community, moral-dilemma-discussion]
@@ -135,7 +135,7 @@ Professional ethics courses in medical ethics, business ethics, engineering ethi
 
 在少年管教机构和监狱中，道德两难讨论项目被用于促进犯罪者的道德推理发展。Meta分析研究表明，基于柯尔伯格理论的道德教育项目可以将再犯率降低约15-30%。关键在于"加一阶段"策略——管教人员需要识别犯罪者的道德阶段，然后呈现适当层次的道德论证。
 
-In juvenile correctional facilities and prisons, moral dilemma discussion programs have been used to promote offenders' moral reasoning development. Meta-analytic research shows that moral education programs based on Kohlberg's theory can reduce recidivism rates by approximately 15–30%. The key is the "+1 stage" strategy — correctional staff need to identify offenders' moral stages, then present appropriate levels of moral arguments.
+In juvenile correctional facilities and prisons, moral dilemma discussion programs have been used to promote offenders' moral reasoning development. Meta-analytic 研究 shows that moral education programs based on Kohlberg's theory can reduce recidivism rates by approximately 15–30%. The key is the "+1 stage" strategy — correctional staff need to identify offenders' moral stages, then present appropriate levels of moral arguments.
 
 ## 关联概念 / Related Concepts
 

@@ -1,11 +1,11 @@
 ---
 name: discipline-analysis
 description: Triggers on requests to 规训、权力/知识、生命政治，如社会控制分析、机构批判、身份政治等。Apply this skill to analyze disciplinary power and its effects on individuals and society, based on Foucault's theories.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/structuralism/foucault.md
 linked_concepts:
   - ../../concepts/discipline.md
-  - ../../sociology/concepts/power-knowledge.md
+  - ../../社会学/概念/power-knowledge.md
 tags:
   - 规训
   - 权力/知识

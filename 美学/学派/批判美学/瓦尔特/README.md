@@ -1,8 +1,8 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin
+id: 美学.critical-aesthetics.benjamin
 title: 瓦尔特·本雅明 Walter Benjamin
 type: thinker
-domain: aesthetics
+domain: 美学
 school: critical-aesthetics
 era: modern
 birth: 1892
@@ -15,9 +15,9 @@ sources:
   - "Illuminations (essays, 1920s-1930s)"
   - "The Arcades Project (unfinished, pub. 1982)"
 cross-refs:
-  - aesthetics.critical-aesthetics.adorno
-  - aesthetics.german-aesthetics.kant-aesthetics
-  - aesthetics.literary-theory.bakhtin
+  - 美学.critical-aesthetics.adorno
+  - 美学.german-aesthetics.kant-aesthetics
+  - 美学.literary-theory.bakhtin
 sub-entries:
   - concepts/aura
   - concepts/mechanical-reproduction
@@ -66,7 +66,7 @@ The flâneur of 19th-century Paris is the paradigmatic subject of modern urban e
 
 ### 5. 弥赛亚时间 / Messianic Time
 本雅明的历史哲学拒绝进步主义的历史观。真正的革命不是沿着历史的连续线前进，而是在特定瞬间"拉下紧急刹车"——弥赛亚时间打断了同质化、空洞的历史时间，让被压迫者的过去重新获得救赎的可能。
-Benjamin's philosophy of history rejects progressivist historiography. True revolution is not advancing along history's continuum but "pulling the emergency brake" at specific moments — Messianic time interrupts homogeneous, empty historical time, making the past of the oppressed available for redemption.
+Benjamin's 哲学 of history rejects progressivist historiography. True revolution is not advancing along history's continuum but "pulling the emergency brake" at specific moments — Messianic time interrupts homogeneous, empty historical time, making the past of the oppressed available for redemption.
 
 ### 6. 翻译的纯粹语言 / Pure Language in Translation
 翻译的目标不是忠实再现原文的意义，而是通过不同语言之间的互补，逼近一种超越任何单一语言的"纯粹语言"。翻译使原作在来世生命（afterlife）中继续存活和变形。
@@ -80,7 +80,7 @@ Translation aims not at faithfully reproducing the original's meaning but at app
 本雅明早年在柏林、弗莱堡、慕尼黑和伯尔尼学习哲学，积极参与德国青年运动。他的早期写作关注语言哲学（《论语言本身和人的语言》，1916）和儿童教育。1919年以《德国浪漫派的艺术批评概念》获博士学位。1928年的《德国悲剧的起源》被法兰克福大学拒绝作为授课资格论文，成为学术史上著名的拒稿事件。
 
 **Early Period (1910s–1920s): Language Philosophy and Youth Movement**
-Benjamin studied philosophy in Berlin, Freiburg, Munich, and Bern, actively participating in the German Youth Movement. His early writings focused on language philosophy ("On Language as Such and on the Language of Man," 1916) and children's education. He earned his doctorate in 1919 with *The Concept of Criticism in German Romanticism*. His *Origin of German Tragic Drama* (1928) was rejected as a Habilitation thesis by Frankfurt University, becoming one of academic history's most famous rejections.
+Benjamin studied 哲学 in Berlin, Freiburg, Munich, and Bern, actively participating in the German Youth Movement. His early writings focused on language 哲学 ("On Language as Such and on the Language of Man," 1916) and children's education. He earned his doctorate in 1919 with *The Concept of Criticism in German Romanticism*. His *Origin of German Tragic Drama* (1928) was rejected as a Habilitation thesis by Frankfurt University, becoming one of academic history's most famous rejections.
 
 ### 中期（1920s–1930s）：城市文化与马克思主义转向
 1920年代中期本雅明游历莫斯科，受拉西斯和阿多诺等人影响开始接触马克思主义。他大量撰写关于巴黎都市文化、波德莱尔、摄影和电影的文章。1936年发表的《机械复制时代的艺术作品》成为20世纪最具影响力的美学论文之一。此期他还与布莱希特建立了深厚的友谊，受其史诗剧理论影响。

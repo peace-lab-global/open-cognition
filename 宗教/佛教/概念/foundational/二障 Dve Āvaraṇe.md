@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.two-obstacles
+id: 宗教.buddhism.concept.two-obstacles
 title: 二障 Dve Āvaraṇe
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 tags: [二障, 烦恼障, 所知障, 断障, 成佛]

@@ -2,7 +2,7 @@
 id: plato
 title: 柏拉图 · Plato
 type: thinker
-domain: philosophy
+domain: 哲学
 school: classical-greek
 era: ancient
 birth: -428
@@ -12,7 +12,7 @@ tags:
   - epistemology
   - ethics
   - political
-  - aesthetics
+  - 美学
 aliases:
   - Plátōn
   - Πλάτων
@@ -45,7 +45,7 @@ sources:
 
 柏拉图是西方哲学史上最系统化、最全面的哲学家之一。他将苏格拉底的伦理追问与巴门尼德的存在论、毕达哥拉斯的数学哲学融合，建构了一个涵盖形而上学、认识论、伦理学、政治哲学、美学、心理学和宇宙论的宏大体系。他的对话录是西方文学与哲学的双重经典。
 
-Plato is one of the most systematic and comprehensive philosophers in Western intellectual history. He fused Socrates' ethical inquiry with Parmenides' ontology and Pythagorean mathematical philosophy, constructing a grand system encompassing metaphysics, epistemology, ethics, political philosophy, aesthetics, psychology, and cosmology. His dialogues are classics of both Western literature and philosophy.
+Plato is one of the most systematic and comprehensive philosophers in Western intellectual history. He fused Socrates' ethical inquiry with Parmenides' ontology and Pythagorean mathematical philosophy, constructing a grand system encompassing metaphysics, epistemology, ethics, political philosophy, aesthetics, psychology, and cosmology. His dialogues are classics of both Western 文学 and 哲学.
 
 ---
 
@@ -73,7 +73,7 @@ The soul knew the Forms before entering the body; learning is not acquiring new 
 
 人的灵魂（psychē）由三个部分组成：理性（logistikon）、激情（thymoeides）和欲望（epithymētikon）。正义在于三者各守其位、各尽其职，由理性统帅。这一心理学模型是柏拉图政治哲学和伦理学的基础。
 
-The human soul (*psychē*) consists of three parts: reason (*logistikon*), spirit (*thymoeides*), and appetite (*epithymētikon*). Justice consists in each part performing its proper function under the leadership of reason. This psychological model grounds Plato's political philosophy and ethics.
+The human soul (*psychē*) consists of three parts: reason (*logistikon*), spirit (*thymoeides*), and appetite (*epithymētikon*). Justice consists in each part performing its proper function under the leadership of reason. This psychological model grounds Plato's political 哲学 and ethics.
 
 ### 命题五 Thesis 5: 哲学王 The Philosopher-King
 
@@ -107,7 +107,7 @@ Middle dialogues (*Phaedo*, *Symposium*, *Republic*, *Phaedrus*, etc.) systemati
 
 晚期对话录展现出深刻的自我批判精神。《巴门尼德篇》中的"第三人论证"（Third Man Argument）对理念论提出了严峻的内部挑战。《智者篇》《政治家篇》《法篇》转向更精细的逻辑分析和更具操作性的政治哲学。《蒂迈欧篇》提出宇宙论模型，影响了整个中世纪的自然哲学。
 
-Late dialogues display profound self-critical spirit. The "Third Man Argument" in *Parmenides* poses a severe internal challenge to the Theory of Forms. *Sophist*, *Statesman*, and *Laws* turn to more precise logical analysis and more operational political philosophy. *Timaeus* presents a cosmological model that influenced all of medieval natural philosophy.
+Late dialogues display profound self-critical spirit. The "Third Man Argument" in *Parmenides* poses a severe internal challenge to the Theory of Forms. *Sophist*, *Statesman*, and *Laws* turn to more precise logical analysis and more operational political 哲学. *Timaeus* presents a cosmological model that influenced all of medieval natural 哲学.
 
 ---
 
@@ -120,7 +120,7 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 | 《斐多篇》*Phaedo* | c. 387 | 灵魂不朽；回忆说 / Immortality; recollection | 同上 |
 | 《巴门尼德篇》*Parmenides* | c. 370 | 理念论的自我批评 / Self-criticism of the Theory of Forms | 陈康译注 |
 | 《蒂迈欧篇》*Timaeus* | c. 360 | 宇宙论；造物主 / Cosmology; Demiurge | 王晓朝译《柏拉图全集》 |
-| 《法篇》*Laws* | c. 348 | 法治；晚期政治哲学 / Rule of law; late political philosophy | 同上 |
+| 《法篇》*Laws* | c. 348 | 法治；晚期政治哲学 / Rule of law; late political 哲学 | 同上 |
 | 《智者篇》*Sophist* | c. 360 | 存在与非存在；"通种论" / Being and non-being; "greatest kinds" | 同上 |
 | 《泰阿泰德篇》*Theaetetus* | c. 369 | 知识的定义（未获结论）/ Definition of knowledge (inconclusive) | 同上 |
 
@@ -173,7 +173,7 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 
 4. **教育哲学 Philosophy of Education**：洞穴比喻和"教育即灵魂转向"的理念被广泛应用于教育改革的理论讨论。
 
-5. **心理学 Psychology**：灵魂三分模型被视为弗洛伊德本我/自我/超我理论的古代先驱（→ [弗洛伊德](../../../psychology/schools/psychoanalysis/freud.md)）。
+5. **心理学 Psychology**：灵魂三分模型被视为弗洛伊德本我/自我/超我理论的古代先驱（→ [弗洛伊德](../../../心理学/学派/精神分析/西格蒙德.md)）。
 
 6. **虚拟现实与认识论 VR and Epistemology**：洞穴比喻在数字时代被重新解读——虚拟世界是否是新的"洞穴"？（参见 "Simulation Hypothesis"。）
 
@@ -239,10 +239,10 @@ Zhu Xi's concept of *lǐ* (Principle)—each thing has its own *lǐ*, and all *l
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [荣格 · 集体无意识 Jung's Collective Unconscious](../../../psychology/schools/analytical-psychology/jung.md) `[平行 Parallel]` — 原型（archetype）概念与柏拉图理念的结构相似 / Archetypes structurally resemble Forms
-- [弗洛伊德 · 精神分析 Freud's Psychoanalysis](../../../psychology/schools/psychoanalysis/freud.md) `[同源 Derived]` — 本我/自我/超我与灵魂三分 / Id/Ego/Superego and tripartite soul
-- [基督教 · 神秘主义 Christian Mysticism](../../../religion/traditions/christianity/mysticism.md) `[同源 Derived]` — 新柏拉图主义经奥古斯丁进入基督教神学 / Neoplatonism via Augustine into Christian theology
-- [怀特海 · 过程哲学 Whitehead's Process Philosophy](../../../philosophy/schools/continental/whitehead.md) `[引用 Cited]` — "柏拉图脚注"名言的出处 / Source of the "footnotes to Plato" quote
+- [荣格 · 集体无意识 Jung's Collective Unconscious](../../../心理学/学派/分析心理学/卡尔.md) `[平行 Parallel]` — 原型（archetype）概念与柏拉图理念的结构相似 / Archetypes structurally resemble Forms
+- [弗洛伊德 · 精神分析 Freud's Psychoanalysis](../../../心理学/学派/精神分析/西格蒙德.md) `[同源 Derived]` — 本我/自我/超我与灵魂三分 / Id/Ego/Superego and tripartite soul
+- [基督教 · 神秘主义 Christian Mysticism](../../../宗教/传统/基督教/mysticism.md) `[同源 Derived]` — 新柏拉图主义经奥古斯丁进入基督教神学 / Neoplatonism via Augustine into Christian theology
+- [怀特海 · 过程哲学 Whitehead's Process Philosophy](../../../哲学/schools/continental/whitehead.md) `[引用 Cited]` — "柏拉图脚注"名言的出处 / Source of the "footnotes to Plato" quote
 - [哥德尔 · 数学柏拉图主义 Gödel's Mathematical Platonism](../../../mathematics/) `[应用 Applied]` — 数学对象的独立存在性 / Independent existence of mathematical objects
 
 ---

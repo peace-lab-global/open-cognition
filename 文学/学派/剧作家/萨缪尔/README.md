@@ -1,8 +1,8 @@
 ---
-id: literature.dramatists.beckett
+id: 文学.dramatists.beckett
 title: 萨缪尔·贝克特 · Samuel Beckett
 type: thinker
-domain: literature
+domain: 文学
 school: dramatists
 era: 20th-century
 birth: 1906
@@ -49,7 +49,7 @@ children:
 
 贝克特的影响远远超出了戏剧领域。他的小说"三部曲"（《莫洛伊》《马隆之死》《无名之人》）对叙事本身的解构预示了后现代主义；他的极简主义美学深刻影响了当代视觉艺术、音乐（菲利普·格拉斯、约翰·凯奇）和舞蹈（皮娜·鲍什）；他对语言的极限实验与维特根斯坦的"不可言说之物"形成了深刻的哲学共振。在数字时代，他对"无聊"和"等待"的正面呈现被重新发现为一种存在论方法——在即时满足文化的反面，贝克特教导我们：**等待不是浪费，而是存在的基本形式**。
 
-Samuel Beckett (1906–1989) is one of the most original literary artists of the 20th century and the defining figure of the Theatre of the Absurd. His works strip away plot, character, setting, and even language itself to reveal the naked core of human existence: the condition of waiting without resolution, speaking without meaning, persisting without purpose. *Waiting for Godot* (1953) transformed theatre from the art of storytelling into the ritual of waiting. His novel trilogy (*Molloy*, *Malone Dies*, *The Unnamable*) deconstructed narrative itself, anticipating postmodernism. His minimalist aesthetic — "less is more" taken to its metaphysical extreme — profoundly influenced contemporary art, music, dance, and philosophy. The closing line of *The Unnamable* — "I can't go on, I'll go on" — is the distillation of Beckett's entire project: not despair, not hope, but the impossible courage of continuing.
+Samuel Beckett (1906–1989) is one of the most original literary artists of the 20th century and the defining figure of the Theatre of the Absurd. His works strip away plot, character, setting, and even language itself to reveal the naked core of human existence: the condition of waiting without resolution, speaking without meaning, persisting without purpose. *Waiting for Godot* (1953) transformed theatre from the art of storytelling into the ritual of waiting. His novel trilogy (*Molloy*, *Malone Dies*, *The Unnamable*) deconstructed narrative itself, anticipating postmodernism. His minimalist aesthetic — "less is more" taken to its metaphysical extreme — profoundly influenced contemporary art, music, dance, and 哲学. The closing line of *The Unnamable* — "I can't go on, I'll go on" — is the distillation of Beckett's entire project: not despair, not hope, but the impossible courage of continuing.
 
 ## 二、核心命题 / Core Theses
 

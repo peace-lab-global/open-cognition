@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.rasmussen
+id: 认知系统.school.cognitive-engineering.rasmussen
 title: 拉斯穆森 Jens Rasmussen
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: modern
 birth: 1926

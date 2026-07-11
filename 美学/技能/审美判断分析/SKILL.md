@@ -1,7 +1,7 @@
 ---
 name: aesthetic-judgment-analysis
 description: 基于康德审美判断四契机的审美判断分析框架
-domain: aesthetics
+domain: 美学
 linked_thinker: ../../schools/german-aesthetics/kant-aesthetics.md
 linked_concepts:
   - ../../concepts/beauty.md

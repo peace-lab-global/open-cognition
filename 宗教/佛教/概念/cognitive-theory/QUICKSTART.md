@@ -141,7 +141,7 @@
 ### 按宗派分流
 
 - **唯识**：八识 → 三性 → 种子 → 转识成智 → [解深密经](../sutras/sandhinirmocana-sutra.md)
-- **中观**：中观·空 → 二谛 → 量论 → [中论](../../../../../philosophy/schools/analytic/nagarjuna.md) 研究
+- **中观**：中观·空 → 二谛 → 量论 → [中论](../../../../../哲学/学派/分析哲学/nagarjuna.md) 研究
 - **天台**：八识 → 三性 → [天台](../schools/tiantai.md) 的三谛圆融
 - **华严**：心物一元 → [华严](../schools/huayan.md) 的法界四层
 - **禅**：七处征心 → 公案 → 默照 → [六祖坛经](../sutras/platform-sutra.md)

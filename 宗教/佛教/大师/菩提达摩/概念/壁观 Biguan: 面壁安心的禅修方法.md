@@ -3,7 +3,7 @@ id: bodhidharma-biguan
 title: "壁观 Biguan: 面壁安心的禅修方法"
 type: concept
 parent: bodhidharma
-domain: religion
+domain: 宗教
 tags: [wall-gazing, meditation, Chan, sensory-deprivation, Biguan]
 ---
 

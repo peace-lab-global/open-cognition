@@ -3,7 +3,7 @@ id: hakuin-gozen-ho
 title: "软酥法 Nansuho: 身心调养法"
 type: concept
 parent: hakuin
-domain: religion
+domain: 宗教
 tags: [nansuho, body-mind, somatic, Hakuin]
 ---
 # 软酥法 / Nansuho / Soft Butter Method

@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.cage.concepts.chance-operations
+id: 美学.arts-thought.cage.concepts.chance-operations
 title: 偶然性操作 Chance Operations
 type: concept
-parent: aesthetics.arts-thought.cage
+parent: 美学.arts-thought.cage
 tags: [chance, I-Ching, randomness, composition, ego-dissolution]
 ---
 
@@ -32,7 +32,7 @@ Cage received an I Ching copy in 1950. He developed the 64-hexagram system as a 
 - 凯奇用偶然操作消解了作曲家的创造意志
 - 两者都质疑了"艺术家作为创造者"的传统观念
 
-Cage's chance operations connect deeply with Duchamp's "readymades": Duchamp claimed "indifference" to aesthetics in selecting readymades — dissolving artist's aesthetic judgment; Cage used chance to dissolve composer's creative will; both questioned "artist as creator" traditional conception.
+Cage's chance operations connect deeply with Duchamp's "readymades": Duchamp claimed "indifference" to 美学 in selecting readymades — dissolving artist's aesthetic judgment; Cage used chance to dissolve composer's creative will; both questioned "artist as creator" traditional conception.
 
 ## 批评与争论 / Criticisms and Debates
 

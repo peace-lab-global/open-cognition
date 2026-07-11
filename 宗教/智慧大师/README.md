@@ -15,7 +15,7 @@
 ## 目录结构
 
 ```
-religion/wisdom-masters/
+宗教/智慧大师/
 ├── masters/              # 高僧条目（人物文档）
 │   ├── china/            # 中国
 │   ├── india/            # 印度

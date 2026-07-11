@@ -1,17 +1,17 @@
 ---
 name: east-west-ethics-comparison
 description: Triggers on requests to 东西方伦理对比、伦理学比较、道德哲学，如伦理决策、文化对话、道德教育等。Apply this skill to compare Eastern and Western ethical traditions, finding common ground and differences.
-domain: philosophy
+domain: 哲学
 linked_thinker: 
   - ../../schools/german-idealism/kant.md
   - ../../schools/ancient-greek/aristotle.md
   - ../../schools/eastern/confucius.md
-  - ../../../religion/traditions/taoism/masters/laozi.md
+  - ../../../宗教/传统/道教/masters/老子.md
 linked_concepts:
-  - ../../philosophy/concepts/categorical-imperative.md
-  - ../../philosophy/concepts/virtue-ethics.md
-  - ../../philosophy/concepts/benevolence.md
-  - ../../../religion/traditions/taoism/wuwei.md
+  - ../../哲学/概念/categorical-imperative.md
+  - ../../哲学/概念/virtue-ethics.md
+  - ../../哲学/概念/benevolence.md
+  - ../../../宗教/传统/道教/无为.md
 tags:
   - 东西方伦理
   - 伦理学比较
@@ -41,8 +41,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[康德](../../schools/german-idealism/kant.md)、[亚里士多德](../../schools/ancient-greek/aristotle.md)、[孔子](../../schools/eastern/confucius.md)、[老子](../../../religion/traditions/taoism/masters/laozi.md)
-- 来源概念：[绝对命令](../../concepts/categorical-imperative.md)、[德性伦理](../../concepts/virtue-ethics.md)、[仁](../../concepts/benevolence.md)、[无为](../../../religion/traditions/taoism/wuwei.md)
+- 来源思想家：[康德](../../schools/german-idealism/kant.md)、[亚里士多德](../../schools/ancient-greek/aristotle.md)、[孔子](../../schools/eastern/confucius.md)、[老子](../../../宗教/传统/道教/masters/老子.md)
+- 来源概念：[绝对命令](../../concepts/categorical-imperative.md)、[德性伦理](../../concepts/virtue-ethics.md)、[仁](../../concepts/benevolence.md)、[无为](../../../宗教/传统/道教/无为.md)
 - 关键文献：《道德形而上学奠基》、《尼各马可伦理学》、《论语》、《道德经》
 
 ## 操作流程
@@ -105,6 +105,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[康德](../../schools/german-idealism/kant.md)、[亚里士多德](../../schools/ancient-greek/aristotle.md)、[孔子](../../schools/eastern/confucius.md)、[老子](../../../religion/traditions/taoism/masters/laozi.md)
-- 概念：[绝对命令](../../concepts/categorical-imperative.md)、[德性伦理](../../concepts/virtue-ethics.md)、[仁](../../concepts/benevolence.md)、[无为](../../../religion/traditions/taoism/wuwei.md)
+- 思想家：[康德](../../schools/german-idealism/kant.md)、[亚里士多德](../../schools/ancient-greek/aristotle.md)、[孔子](../../schools/eastern/confucius.md)、[老子](../../../宗教/传统/道教/masters/老子.md)
+- 概念：[绝对命令](../../concepts/categorical-imperative.md)、[德性伦理](../../concepts/virtue-ethics.md)、[仁](../../concepts/benevolence.md)、[无为](../../../宗教/传统/道教/无为.md)
 - 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[golden-mean-analysis](./golden-mean-analysis/SKILL.md)

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.thirty-seven-factors
+id: 宗教.buddhism.concept.thirty-seven-factors
 title: 三十七道品 Bodhipakkhiyā-dhammā
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三十七道品, 菩提分法, 四念处, 七觉支, 修道框架]

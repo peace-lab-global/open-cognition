@@ -3,7 +3,7 @@ id: dharmakirti-triple-character-reason
 title: "因三相 Trirūpaliṅga: 法称的有效推理理论"
 type: concept
 parent: dharmakirti
-domain: religion
+domain: 宗教
 tags: [trirupalinga, hetu, inference, logic, reason, vyapti, pervasion]
 ---
 

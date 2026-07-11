@@ -3,7 +3,7 @@ id: kukai-dainichi
 title: "大日如来 Mahavairocana: 法身佛"
 type: concept
 parent: kukai
-domain: religion
+domain: 宗教
 tags: [Mahavairocana, dharma-body, Shingon]
 ---
 # 大日如来 / Mahavairocana

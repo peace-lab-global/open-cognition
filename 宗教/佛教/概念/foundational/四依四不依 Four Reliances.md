@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.four-reliances
+id: 宗教.buddhism.core.four-reliances
 title: 四依四不依 Four Reliances
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [四依四不依, 依法不依人, 依义不依语, 依智不依识, 依了义不依不了义]
@@ -81,8 +81,8 @@ sources: [《大般涅槃经》, 《维摩诘经》, 《大智度论》]
 
 ## 跨学科关联
 
-- [波普尔 · 证伪主义](../../../philosophy/schools/analytic/popper.md) — [平行] 依法不依人 vs 可证伪性
-- [伽达默尔 · 诠释学](../../../philosophy/schools/hermeneutics/gadamer.md) — [平行] 依义不依语 vs 诠释学
+- [波普尔 · 证伪主义](../../../哲学/学派/分析哲学/波普尔.md) — [平行] 依法不依人 vs 可证伪性
+- [伽达默尔 · 诠释学](../../../哲学/学派/诠释学/伽达默尔.md) — [平行] 依义不依语 vs 诠释学
 
 ## 进阶阅读
 

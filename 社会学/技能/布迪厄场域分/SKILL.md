@@ -1,7 +1,7 @@
 ---
 name: bourdieu-field-analysis
 description: Triggers when a user wants to analyze why people in a particular profession, scene, or community behave in seemingly irrational but consistent ways (academia, art world, startup scene, fashion, online communities). Apply this skill to map the field's positions, capitals, and stakes rather than judging individuals as "weird" or "snobbish".
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/structuralism/bourdieu.md
 linked_concepts:
   - ../../concepts/cultural-capital.md

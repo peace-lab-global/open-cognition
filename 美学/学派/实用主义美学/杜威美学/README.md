@@ -1,8 +1,8 @@
 ---
-id: aesthetics.pragmatist-aesthetics.dewey
+id: 美学.pragmatist-aesthetics.dewey
 title: 杜威 · John Dewey
 type: thinker
-domain: aesthetics
+domain: 美学
 school: pragmatist-aesthetics
 era: modern
 birth: 1859
@@ -47,7 +47,7 @@ children:
 
 杜威美学的政治维度同样不可忽视：他论证了**审美的民主化**——审美不是精英专属，每个人在日常生活中都可能拥有审美经验。烹饪、园艺、手工、甚至科学探究中的优雅证明，都可以成为审美经验的载体。这种将美学从"高雅艺术"的垄断中解放出来的努力，使他成为日常生活美学、参与式艺术和体验设计的理论先驱。
 
-John Dewey (1859–1952) revolutionized aesthetics by breaking down the wall between "art" and "everyday life." His central thesis in *Art as Experience* (1934) is that art's essence lies not in museum objects but in the lived process of experience itself. When experience achieves organic unity and self-sufficiency — what he called "consummatory experience" — it becomes aesthetic. This democratizing vision made aesthetics accessible to everyone: cooking, gardening, and even elegant scientific proofs can be aesthetic experiences. Dewey's work profoundly influenced everyday aesthetics, participatory art, experience design, and progressive education.
+John Dewey (1859–1952) revolutionized 美学 by breaking down the wall between "art" and "everyday life." His central thesis in *Art as Experience* (1934) is that art's essence lies not in museum objects but in the lived process of experience itself. When experience achieves organic unity and self-sufficiency — what he called "consummatory experience" — it becomes aesthetic. This democratizing vision made 美学 accessible to everyone: cooking, gardening, and even elegant scientific proofs can be aesthetic experiences. Dewey's work profoundly influenced everyday aesthetics, participatory art, experience design, and progressive education.
 
 ## 二、核心命题
 

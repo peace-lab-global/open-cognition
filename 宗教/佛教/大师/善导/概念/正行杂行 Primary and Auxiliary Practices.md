@@ -3,7 +3,7 @@ id: shandao-zhengxing-zaxing
 title: "正行杂行 Primary and Auxiliary Practices"
 type: concept
 parent: shandao
-domain: religion
+domain: 宗教
 tags: [primary-practice, Pure-Land]
 ---
 # 正行杂行 / Primary and Auxiliary Practices

@@ -2,7 +2,7 @@
 id: zhuangzi
 title: 庄子 · Zhuangzi
 type: thinker
-domain: philosophy
+domain: 哲学
 school: eastern/daoism
 era: ancient
 birth: -369
@@ -45,7 +45,7 @@ cross-refs:
     relation: 平行
   - id: nietzsche
     relation: 平行
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 对照
 children:
   - concepts/qiwu.md
@@ -58,7 +58,7 @@ children:
   - reading-list.md
 related-comparative:
   - ../comparative/daoism-vs-yogacara.md
-  - ../../../../aesthetics/schools/literary-thought/borges/
+  - ../../../../美学/学派/文学思想/博尔赫斯/
 ---
 
 # 庄子 · Zhuangzi
@@ -177,14 +177,14 @@ related-comparative:
 - [老子 · Laozi](../laozi.md) `[同源]` 道家共同传统——老子重"道"的本体论，庄子重"游"的生存论
 - [孔子 · Confucius](../confucius.md) `[对话/批判]` 庄子以寓言解构儒家的仁义礼智，但并非简单否定，而是追问其根基
 - [惠施 · Hui Shi] `[论辩]` 名家的逻辑分析与庄子的超越立场构成互补
-- [禅宗 · Zen Buddhism](../../../religion/traditions/buddhism/zen.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
+- [禅宗 · Zen Buddhism](../../../宗教/传统/佛教/禅宗.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
 
 ### 西方哲学
 
 - [海德格尔 · Martin Heidegger](../../existentialism/heidegger/) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)；本真存在与逍遥
 - [德里达 · Jacques Derrida] `[平行]` 卮言与延异 (différance)；对逻各斯中心主义的解构
 - [尼采 · Friedrich Nietzsche](../../existentialism/nietzsche/) `[平行]` 重估一切价值与齐物论的相对主义；酒神精神与逍遥游的超越性
-- [博尔赫斯 · Jorge Luis Borges](../../../../aesthetics/schools/literary-thought/borges/) `[平行]` 梦与虚构、同一性的流动、分岔的时间
+- [博尔赫斯 · Jorge Luis Borges](../../../../美学/学派/文学思想/博尔赫斯/) `[平行]` 梦与虚构、同一性的流动、分岔的时间
 
 ## 东西方对话
 
@@ -246,4 +246,4 @@ related-comparative:
 ## 比较页
 
 - [道家 x 唯识](../comparative/daoism-vs-yogacara.md)
-- [博尔赫斯 x 庄子](../../../../aesthetics/schools/literary-thought/borges/) (平行比较)
+- [博尔赫斯 x 庄子](../../../../美学/学派/文学思想/博尔赫斯/) (平行比较)

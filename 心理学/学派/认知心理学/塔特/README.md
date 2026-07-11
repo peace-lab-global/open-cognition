@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.tart
+id: 心理学.cognitive.tart
 title: "塔特 · Charles Tart"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1937
@@ -10,7 +10,7 @@ death: 2024
 tags: [意识状态, 变异意识, 超个人心理学, 冥想研究, 科学方法论, altered-states, state-specific-science, consciousness-studies, transpersonal-psychology, mindfulness]
 aliases: [Charles Tart, 查尔斯·塔特, Charles T. Tart, Charles Theodore Tart]
 sources: [Altered States of Consciousness (1969), States of Consciousness (1975), Waking Up (1986), The End of Materialism (2009), Body Mind Spirit (1999)]
-cross-refs: [psychology.cognitive.kabat-zinn, psychology.cognitive.goleman, psychology.humanistic.maslow, psychology.humanistic.grof, religion.buddhism.satipatthana]
+cross-refs: [心理学.cognitive.kabat-zinn, 心理学.cognitive.goleman, 心理学.humanistic.maslow, 心理学.humanistic.grof, 宗教.buddhism.satipatthana]
 sub-entries: [altered-states.md, state-specific-science.md, mindfulness.md, transpersonal.md, consciousness-states.md]
 ---
 
@@ -25,9 +25,9 @@ sub-entries: [altered-states.md, state-specific-science.md, mindfulness.md, tran
 
 塔特的核心贡献在于：他将变异意识状态——包括冥想、催眠、梦境、药物诱发状态等——从边缘研究领域带入了主流心理学的学术视野，并以严谨的科学方法论为其建立了理论框架。他提出的"共识恍惚"（consensus trance）概念和"状态特异性科学"（state-specific science）方法论，对意识研究、冥想科学、超个人心理学和跨文化心理学产生了深远影响。
 
-**English:** Charles Tart (1937–2024) was an American psychologist and a pioneering figure in the study of **Altered States of Consciousness (ASC)**, as well as one of the foundational architects of Transpersonal Psychology. Born in Trenton, New Jersey, he initially earned a bachelor's degree in electrical engineering from Duke University before pivoting to psychology, completing his PhD at Stanford University under the supervision of Ernest Hilgard, a leading figure in hypnosis research. He served as a long-term professor of psychology at the University of California, Davis (UC Davis), and held research affiliations with the Stanford Research Institute (SRI) and the California Institute of Integral Studies (CIIS).
+**English:** Charles Tart (1937–2024) was an American psychologist and a pioneering figure in the study of **Altered States of Consciousness (ASC)**, as well as one of the foundational architects of Transpersonal Psychology. Born in Trenton, New Jersey, he initially earned a bachelor's degree in electrical engineering from Duke University before pivoting to psychology, completing his PhD at Stanford University under the supervision of Ernest Hilgard, a leading figure in hypnosis 研究. He served as a long-term professor of 心理学 at the University of California, Davis (UC Davis), and held 研究 affiliations with the Stanford Research Institute (SRI) and the California Institute of Integral Studies (CIIS).
 
-Tart's central contribution was bringing altered states of consciousness — including meditation, hypnosis, dreaming, and drug-induced states — from the margins of psychological research into mainstream academic discourse, establishing a rigorous scientific and theoretical framework for their study. His concepts of "consensus trance" and "state-specific science" as methodological innovations have profoundly influenced consciousness studies, contemplative science, transpersonal psychology, and cross-cultural psychology.
+Tart's central contribution was bringing altered states of consciousness — including meditation, hypnosis, dreaming, and drug-induced states — from the margins of psychological 研究 into mainstream academic discourse, establishing a rigorous scientific and theoretical framework for their study. His concepts of "consensus trance" and "state-specific science" as methodological innovations have profoundly influenced consciousness studies, contemplative science, transpersonal psychology, and cross-cultural 心理学.
 
 ---
 
@@ -49,7 +49,7 @@ Tart's central contribution was bringing altered states of consciousness — inc
 
 **中文：** "状态特异性"（state-specificity）是塔特方法论的核心。他认为：冥想中获得的"无我"体验，在清醒状态中无法被完整还原；催眠中回忆起的创伤细节，在清醒后可能被遗忘。更激进的是，他提出了**状态特异性科学（State-Specific Science, SSS）**——主张不同意识状态可能需要不同的研究方法论，而非将清醒状态的科学标准强加于所有其他状态之上。
 
-**English:** "State-specificity" is central to Tart's methodology. He argued that the "no-self" experience accessed in meditation cannot be fully reproduced in ordinary waking consciousness; traumatic details recalled during hypnosis may be forgotten upon awakening. More radically, he proposed **State-Specific Science (SSS)** — the idea that different states of consciousness may require different research methodologies, rather than imposing the scientific standards of the waking state upon all other states.
+**English:** "State-specificity" is central to Tart's methodology. He argued that the "no-self" experience accessed in meditation cannot be fully reproduced in ordinary waking consciousness; traumatic details recalled during hypnosis may be forgotten upon awakening. More radically, he proposed **State-Specific Science (SSS)** — the idea that different states of consciousness may require different 研究 methodologies, rather than imposing the scientific standards of the waking state upon all other states.
 
 ### 4. 超个人现象需要严格的科学方法 / Transpersonal Phenomena Require Rigorous Scientific Methods
 
@@ -61,13 +61,13 @@ Tart's central contribution was bringing altered states of consciousness — inc
 
 **中文：** 塔特认为，科学研究的质量取决于观察者的能力。而传统的科学训练只培养了外在感官的精密度，却忽略了**内在观察者**的训练。通过冥想（特别是佛教的内观传统），科学家可以训练出更稳定、更精微的觉知能力，从而观察到目前被忽略的心理和意识现象。这相当于扩展了科学研究的"仪器"——观察者本身就是最精密的仪器。
 
-**English:** Tart argued that the quality of scientific research depends on the observer's capabilities. Traditional scientific training develops precision in external sensory observation but neglects the training of the **inner observer**. Through meditation (particularly Buddhist insight traditions), scientists can develop more stable and subtle awareness capacities, enabling observation of psychological and consciousness phenomena that are currently overlooked. This is equivalent to upgrading the "instrument" of scientific research — the observer herself is the most precise instrument.
+**English:** Tart argued that the quality of scientific 研究 depends on the observer's capabilities. Traditional scientific training develops precision in external sensory observation but neglects the training of the **inner observer**. Through meditation (particularly Buddhist insight traditions), scientists can develop more stable and subtle awareness capacities, enabling observation of psychological and consciousness phenomena that are currently overlooked. This is equivalent to upgrading the "instrument" of scientific 研究 — the observer herself is the most precise instrument.
 
 ### 6. 从"共识恍惚"中觉醒是人类潜能的核心 / Awakening from the "Consensus Trance" Is Central to Human Potential
 
 **中文：** 塔特的终极关怀不仅在于学术理论，更在于人类的解放潜能。他认为，意识到自己身处共识恍惚之中，是觉醒的第一步。通过冥想、自我探索、心理治疗等途径，人类可以逐步从条件化的知觉模式中解脱出来，实现马斯洛所说的"自我实现"乃至"自我超越"。他将东方智慧传统的修行路径与现代心理学的实证方法进行了系统整合。
 
-**English:** Tart's ultimate concern extended beyond academic theory to human liberation potential. He held that recognizing one's existence within a consensus trance is the first step toward awakening. Through meditation, self-inquiry, and psychotherapy, humans can progressively free themselves from conditioned perceptual modes, achieving what Maslow termed "self-actualization" and even "self-transcendence." He systematically integrated the contemplative paths of Eastern wisdom traditions with the empirical methods of modern psychology.
+**English:** Tart's ultimate concern extended beyond academic theory to human liberation potential. He held that recognizing one's existence within a consensus trance is the first step toward awakening. Through meditation, self-inquiry, and psychotherapy, humans can progressively free themselves from conditioned perceptual modes, achieving what Maslow termed "self-actualization" and even "self-transcendence." He systematically integrated the contemplative paths of Eastern wisdom traditions with the empirical methods of modern 心理学.
 
 ---
 
@@ -83,13 +83,13 @@ Tart's central contribution was bringing altered states of consciousness — inc
 
 **中文：** 1969 年，塔特编辑出版了里程碑式的文集《变异意识状态》（*Altered States of Consciousness*），首次系统整理了来自催眠、冥想、梦境、药物、感觉剥夺等多个领域的 ASC 研究，为该领域建立了统一的学术话语框架。1975 年，他出版了理论巨著《意识状态》（*States of Consciousness*），提出了离散意识状态（d-SoC）的完整理论框架，包括状态的结构分析、状态转换的机制、状态特异性的认识论含义等。这一时期，他参与创立了超个人心理学协会（Association for Transpersonal Psychology），并长期担任《超个人心理学杂志》（*Journal of Transpersonal Psychology*）编委。1986 年，*Waking Up: Overcoming the Obstacles to Human Potential* 出版，整合了东方冥想传统与西方心理学的实践智慧，成为将正念带入主流文化的重要著作。
 
-**English:** In 1969, Tart edited and published the landmark anthology *Altered States of Consciousness*, which for the first time systematically organized ASC research from hypnosis, meditation, dreaming, drugs, sensory deprivation, and other fields, establishing a unified academic discourse framework for the field. In 1975, he published the theoretical magnum opus *States of Consciousness*, proposing a complete theoretical framework for discrete states of consciousness (d-SoC), including structural analysis of states, mechanisms of state transitions, and epistemological implications of state-specificity. During this period, he co-founded the Association for Transpersonal Psychology and served as a long-term editorial board member of the *Journal of Transpersonal Psychology*. In 1986, *Waking Up: Overcoming the Obstacles to Human Potential* was published, integrating Eastern meditative traditions with Western psychological practice wisdom, becoming an important work in bringing mindfulness into mainstream culture.
+**English:** In 1969, Tart edited and published the landmark anthology *Altered States of Consciousness*, which for the first time systematically organized ASC 研究 from hypnosis, meditation, dreaming, drugs, sensory deprivation, and other fields, establishing a unified academic discourse framework for the field. In 1975, he published the theoretical magnum opus *States of Consciousness*, proposing a complete theoretical framework for discrete states of consciousness (d-SoC), including structural analysis of states, mechanisms of state transitions, and epistemological implications of state-specificity. During this period, he co-founded the Association for Transpersonal Psychology and served as a long-term editorial board member of the *Journal of Transpersonal Psychology*. In 1986, *Waking Up: Overcoming the Obstacles to Human Potential* was published, integrating Eastern meditative traditions with Western psychological practice wisdom, becoming an important work in bringing mindfulness into mainstream culture.
 
 ### 第三阶段：整合、批判与晚年深化（1990s–2024） / Phase 3: Integration, Critique, and Late-Career Deepening
 
 **中文：** 1990 年代以后，塔特的研究兴趣进一步扩展到身心整合、超感知觉（psi phenomena）的科学研究，以及对科学唯物主义的哲学批判。1999 年出版的 *Body Mind Spirit* 提供了身心整合的实践指南。2009 年的《唯物主义的终结》（*The End of Materialism*）是他最具争议性的著作——他在书中论证： psi 现象（如遥视、预知）的实证证据已经足够强，足以挑战唯物主义意识观的基本假设。这一立场使他在主流心理学界面临边缘化压力，但他始终坚持"以证据说话"的科学原则。他晚年担任加州整合研究学院（CIIS）的荣誉教授，持续推动意识研究的跨文化和跨范式对话，直到 2024 年去世。
 
-**English:** From the 1990s onward, Tart's research interests expanded further into mind-body integration, the scientific study of psi phenomena, and philosophical critique of scientific materialism. *Body Mind Spirit* (1999) offered a practical guide to mind-body integration. *The End of Materialism* (2009) was his most controversial work — arguing that empirical evidence for psi phenomena (such as remote viewing and precognition) was strong enough to challenge the fundamental assumptions of the materialist view of consciousness. This position subjected him to marginalization pressures within mainstream psychology, yet he consistently upheld the scientific principle of "following the evidence." In his later years, he served as a professor emeritus at the California Institute of Integral Studies (CIIS), continuing to promote cross-cultural and cross-paradigm dialogue in consciousness research until his death in 2024.
+**English:** From the 1990s onward, Tart's 研究 interests expanded further into mind-body integration, the scientific study of psi phenomena, and philosophical critique of scientific materialism. *Body Mind Spirit* (1999) offered a practical guide to mind-body integration. *The End of Materialism* (2009) was his most controversial work — arguing that empirical evidence for psi phenomena (such as remote viewing and precognition) was strong enough to challenge the fundamental assumptions of the materialist view of consciousness. This position subjected him to marginalization pressures within mainstream psychology, yet he consistently upheld the scientific principle of "following the evidence." In his later years, he served as a professor emeritus at the California Institute of Integral Studies (CIIS), continuing to promote cross-cultural and cross-paradigm dialogue in consciousness 研究 until his death in 2024.
 
 ---
 
@@ -97,13 +97,13 @@ Tart's central contribution was bringing altered states of consciousness — inc
 
 | 年份 / Year | 著作 / Title | 核心贡献 / Core Contribution |
 |---|---|---|
-| 1969 | *Altered States of Consciousness*（编 / ed.） | ASC 研究的里程碑文集，首次系统整理变异意识领域的多学科研究 / Landmark anthology, first systematic organization of multidisciplinary ASC research |
+| 1969 | *Altered States of Consciousness*（编 / ed.） | ASC 研究的里程碑文集，首次系统整理变异意识领域的多学科研究 / Landmark anthology, first systematic organization of multidisciplinary ASC 研究 |
 | 1972 | *On Being Stoned: A Psychological Study of Marijuana Intoxication* | 大麻意识状态的系统心理学研究 / Systematic psychological study of marijuana-induced consciousness states |
 | 1975 | *States of Consciousness* | 意识状态理论的系统阐述，提出 d-SoC 框架 / Systematic exposition of consciousness state theory; proposed the d-SoC framework |
 | 1977 | *Learning ESP with Charles Tart*（软件 / software） | 用计算机辅助训练超感知觉的实验性项目 / Experimental project using computer-assisted ESP training |
-| 1983 | *High Times and Altered States of Consciousness*（编 / ed.） | ASC 研究文选的更新版 / Updated anthology of ASC research |
+| 1983 | *High Times and Altered States of Consciousness*（编 / ed.） | ASC 研究文选的更新版 / Updated anthology of ASC 研究 |
 | 1986 | *Waking Up: Overcoming the Obstacles to Human Potential* | 整合东方冥想与西方心理学，提出从共识恍惚中觉醒的路径 / Integrating Eastern meditation with Western psychology; proposing paths to awaken from consensus trance |
-| 1989 | *Open Mind, Discriminating Mind* | 对意识研究的反思与方法论探讨 / Reflections on consciousness research and methodological discussions |
+| 1989 | *Open Mind, Discriminating Mind* | 对意识研究的反思与方法论探讨 / Reflections on consciousness 研究 and methodological discussions |
 | 1994 | *Living the Mindful Life* | 正念日常实践指南 / Practical guide to everyday mindfulness |
 | 1999 | *Body Mind Spirit: Exploring the Parapsychological Ecosystem* | 身心整合与超心理学的系统探索 / Systematic exploration of mind-body integration and parapsychology |
 | 2009 | *The End of Materialism: How Evidence of the Paranormal Is Breaking the Scientific Paradigm* | 对科学唯物主义的哲学挑战 / Philosophical challenge to scientific materialism |
@@ -239,11 +239,11 @@ The difference lies in the fact that Buddhist awakening is an ultimate transform
 | 正念减压 / MBSR | [卡巴金 Kabat-Zinn](../kabat-zinn.md) | 同源 / Cognate | 冥想的科学化研究 / Scientific study of meditation |
 | 情商研究 / Emotional Intelligence | [戈尔曼 Goleman](../goleman.md) | 同源 / Cognate | 冥想与意识的神经科学研究 / Neuroscience of meditation and consciousness |
 | 人本主义心理学 / Humanistic Psychology | [马斯洛 Maslow](../../humanistic/maslow.md) | 继承 / Inheritance | 高峰体验与自我超越的理论基础 / Theoretical foundation of peak experience and self-transcendence |
-| 意识图谱 / Consciousness Cartography | [格罗夫 Grof](../../humanistic/grof.md) | 平行 / Parallel | LSD 研究与非普通意识状态的系统描述 / LSD research and systematic description of non-ordinary states |
+| 意识图谱 / Consciousness Cartography | [格罗夫 Grof](../../humanistic/grof.md) | 平行 / Parallel | LSD 研究与非普通意识状态的系统描述 / LSD 研究 and systematic description of non-ordinary states |
 | 全局工作空间 / Global Workspace | [巴尔斯 Baars](../baars.md) | 平行/互补 / Parallel/Complementary | 意识的认知架构研究 / Cognitive architecture of consciousness |
 | 宗教经验 / Religious Experience | [詹姆斯 James](../../functionalism/james.md) | 继承 / Inheritance | 意识多元性与宗教经验的心理学研究 / Psychological study of consciousness plurality and religious experience |
-| 佛教心理学 / Buddhist Psychology | [四念处 Satipaṭṭhāna](../../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) | 平行 / Parallel | 正念训练作为从共识恍惚中觉醒的方法 / Mindfulness training as method of awakening from consensus trance |
-| 止观研究 / Śamatha-Vipaśyanā | [止观的认知分工](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) | 平行 / Parallel | 冥想定境作为独立的意识状态 / Meditative absorption as an independent state of consciousness |
+| 佛教心理学 / Buddhist Psychology | [四念处 Satipaṭṭhāna](../../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) | 平行 / Parallel | 正念训练作为从共识恍惚中觉醒的方法 / Mindfulness training as method of awakening from consensus trance |
+| 止观研究 / Śamatha-Vipaśyanā | [止观的认知分工](../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) | 平行 / Parallel | 冥想定境作为独立的意识状态 / Meditative absorption as an independent state of consciousness |
 
 ---
 
@@ -281,10 +281,10 @@ The difference lies in the fact that Buddhist awakening is an ultimate transform
 
 | 子条目 / Sub-entry | 说明 / Description |
 |---|---|
-| [altered-states.md](concepts/altered-states.md) | 变异意识状态 — ASC 研究的理论框架与分类系统 / Altered States of Consciousness — theoretical framework and taxonomy of ASC research |
+| [altered-states.md](concepts/altered-states.md) | 变异意识状态 — ASC 研究的理论框架与分类系统 / Altered States of Consciousness — theoretical framework and taxonomy of ASC 研究 |
 | [state-specific-science.md](concepts/state-specific-science.md) | 状态特异性科学 — 不同意识状态的方法论含义 / State-Specific Science — methodological implications of different consciousness states |
 | [mindfulness.md](concepts/mindfulness.md) | 正念与觉知训练 — 冥想传统的心理学转化 / Mindfulness and Awareness Training — psychological transformation of contemplative traditions |
-| [transpersonal.md](concepts/transpersonal.md) | 超个人心理学 — 心理学的"第四势力" / Transpersonal Psychology — the "fourth force" in psychology |
+| [transpersonal.md](concepts/transpersonal.md) | 超个人心理学 — 心理学的"第四势力" / Transpersonal Psychology — the "fourth force" in 心理学 |
 | [consciousness-states.md](concepts/consciousness-states.md) | 意识状态理论 — 离散状态的结构分析与转换机制 / Consciousness States Theory — structural analysis and transition mechanisms of discrete states |
 
 ---

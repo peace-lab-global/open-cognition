@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.baars
+id: 心理学.cognitive.baars
 title: "巴尔斯 · Bernard Baars"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1946
@@ -89,7 +89,7 @@ Global Workspace Theory can explain not only everyday waking consciousness but a
 
 巴尔斯在纽约州立大学石溪分校接受认知心理学训练，深受 George Miller 关于工作记忆容量限制（7±2）和 Ulric Neisser 认知心理学范式的影响。他对行为主义忽视意识问题的做法深感不满，但也不满足于内省主义的主观方法。他开始思考：能否用信息处理的语言来描述意识的功能角色？在这一时期，他发展了对"认知架构"（cognitive architecture）的深刻理解，为后来的理论突破奠定了基础。
 
-Baars received his cognitive psychology training at SUNY Stony Brook, deeply influenced by George Miller's work on working memory capacity limits (7±2) and Ulric Neisser's cognitive psychology paradigm. Dissatisfied with behaviorism's neglect of consciousness yet unconvinced by introspectionist subjective methods, he began asking: could the functional role of consciousness be described in the language of information processing? During this period, he developed a deep understanding of cognitive architecture that laid the groundwork for his later theoretical breakthrough.
+Baars received his cognitive 心理学 training at SUNY Stony Brook, deeply influenced by George Miller's work on working memory capacity limits (7±2) and Ulric Neisser's cognitive 心理学 paradigm. Dissatisfied with behaviorism's neglect of consciousness yet unconvinced by introspectionist subjective methods, he began asking: could the functional role of consciousness be described in the language of information processing? During this period, he developed a deep understanding of cognitive architecture that laid the groundwork for his later theoretical breakthrough.
 
 ### 第二阶段：全局工作空间理论的系统阐述（1988–2000）/ Phase 2: Systematic Formulation of GWT
 
@@ -226,7 +226,7 @@ GWT has not been superseded; rather, it has gained increasingly strong neuroscie
 - **正念（sati）与注意力聚光灯**：正念训练可以被理解为对注意力聚光灯的自主控制训练——禅修者学会选择什么进入全局工作空间，以及何时清空工作空间以产生"无内容觉知"。
 - **空（śūnyatā）与清空的全局工作空间**：深度禅定中"空"的体验，在GWT框架下可以被理解为全局工作空间被彻底清空但保持运作准备的状态——意识剧场仍然"开着灯"，但舞台上没有演员。
 
-There are deep structural parallels between GWT and Buddhist Abhidharma philosophy of mind:
+There are deep structural parallels between GWT and Buddhist Abhidharma 哲学 of mind:
 
 - **Javana (impulsion) and global broadcasting**: In the Abhidharma citta-vīthi (cognitive process), the javana phase is the critical moment when information is fully processed and ethical valuations arise. This parallels information entering the global workspace and being broadcast — information "upgraded" from local sensory processing to globally accessible conscious content.
 - **Five aggregates and specialized processors**: The parallel operation of form (rūpa), feeling (vedanā), perception (saññā), formations (saṅkhāra), and consciousness (viññāṇa) resembles the division of labor among GWT's unconscious specialized processors.
@@ -244,11 +244,11 @@ Zhuangzi's "fasting of the mind" (xīn zhāi) resonates with GWT's concept of "c
 ## 跨学科关联 · Interdisciplinary Connections
 
 - **[Dehaene 德汉纳](../../cognitive/dehaene.md)**：GNW——GWT的神经科学实现 / GNW — the neuroscience implementation of GWT
-- **[Dennett 丹尼特](../../../philosophy/schools/analytic/dennett.md)**：多重草稿 vs 全局广播的对话 / Multiple drafts vs global broadcast dialogue
+- **[Dennett 丹尼特](../../../哲学/学派/分析哲学/丹尼特.md)**：多重草稿 vs 全局广播的对话 / Multiple drafts vs global broadcast dialogue
 - **[Tononi 托诺尼](../../cognitive/tononi.md)**：IIT与GWT的互补关系 / IIT and GWT complementary relationship
 - **[Friston 弗里斯顿](../cognitive/friston.md)**：预测编码与全局广播的兼容 / Predictive coding compatible with global broadcast
-- **[Minsky 明斯基](../../../cognitive-systems/schools/cognitive-engineering/minsky.md)**：心智社会 ≈ 无意识处理器的集合 / Society of Mind ≈ collection of unconscious processors
-- **[Shanahan 沙纳汉](../../../cognitive-systems/schools/ai/shanahan.md)**：GWT在机器意识中的实现 / GWT implementation in machine consciousness
+- **[Minsky 明斯基](../../../认知系统/学派/认知工程/明斯基.md)**：心智社会 ≈ 无意识处理器的集合 / Society of Mind ≈ collection of unconscious processors
+- **[Shanahan 沙纳汉](../../../认知系统/schools/ai/shanahan.md)**：GWT在机器意识中的实现 / GWT implementation in machine consciousness
 - **[Posner 波斯纳](../../cognitive/posner.md)**：注意力网络与GWT聚光灯机制 / Attention networks and GWT spotlight mechanism
 - **阿毗达磨 Abhidharma**：心路过程与全局广播的平行 / Cognitive process parallels with global broadcast
 

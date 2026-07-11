@@ -1,8 +1,8 @@
 ---
-id: aesthetics.critical-aesthetics.adorno
+id: 美学.critical-aesthetics.adorno
 title: 西奥多·阿多诺 Theodor W. Adorno
 type: thinker
-domain: aesthetics
+domain: 美学
 school: critical-aesthetics
 era: modern
 birth: 1903
@@ -15,10 +15,10 @@ sources:
   - "Negative Dialectics (1966)"
   - "Aesthetic Theory (1970)"
 cross-refs:
-  - aesthetics.critical-aesthetics.benjamin
-  - aesthetics.german-aesthetics.hegel-aesthetics
-  - aesthetics.german-aesthetics.kant-aesthetics
-  - aesthetics.nietzschean-aesthetics.nietzsche-aesthetics
+  - 美学.critical-aesthetics.benjamin
+  - 美学.german-aesthetics.hegel-aesthetics
+  - 美学.german-aesthetics.kant-aesthetics
+  - 美学.nietzschean-aesthetics.nietzsche-aesthetics
 sub-entries:
   - concepts/culture-industry
   - concepts/negative-dialectics
@@ -43,7 +43,7 @@ sub-entries:
 
 西奥多·阿多诺（Theodor W. Adorno, 1903–1969）是20世纪最具影响力的德国哲学家、社会学家和音乐理论家，法兰克福学派第一代核心成员。他的思想以深刻的否定性为特征，对启蒙理性、资本主义文化、传统形而上学进行了系统而彻底的批判。阿多诺的批判美学不仅重新定义了艺术与社会的关系，更揭示了现代性中文化与野蛮的深层共谋。
 
-Theodor W. Adorno (1903–1969) was one of the 20th century's most influential German philosophers, sociologists, and music theorists, a core member of the first generation of the Frankfurt School. His thought is characterized by a profound negativity — a systematic and radical critique of Enlightenment reason, capitalist culture, and traditional metaphysics. Adorno's critical aesthetics redefined the relationship between art and society, revealing the deep complicity between culture and barbarism within modernity.
+Theodor W. Adorno (1903–1969) was one of the 20th century's most influential German philosophers, sociologists, and music theorists, a core member of the first generation of the Frankfurt School. His thought is characterized by a profound negativity — a systematic and radical critique of Enlightenment reason, capitalist culture, and traditional metaphysics. Adorno's critical 美学 redefined the relationship between art and society, revealing the deep complicity between culture and barbarism within modernity.
 
 ---
 
@@ -81,7 +81,7 @@ Genuine thought cannot be subsumed into a closed system. Adorno counters Hegelia
 阿多诺早年在法兰克福和维也纳学习哲学与音乐，师从 Alban Berg 学习作曲。这一时期他深入研究了胡塞尔现象学、克尔凯郭尔存在主义，并在霍克海默邀请下加入社会研究所。他的音乐批评已经展现出将美学分析与社会批判结合的独特风格。
 
 **Early Period (1920s–1930s): Foundations in Music and Aesthetics**
-Adorno studied philosophy and music in Frankfurt and Vienna, studying composition with Alban Berg. He immersed himself in Husserl's phenomenology and Kierkegaard's existentialism, joining the Institute for Social Research at Horkheimer's invitation. His early music criticism already displayed his distinctive style of combining aesthetic analysis with social critique.
+Adorno studied 哲学 and music in Frankfurt and Vienna, studying composition with Alban Berg. He immersed himself in Husserl's phenomenology and Kierkegaard's existentialism, joining the Institute for Social Research at Horkheimer's invitation. His early music criticism already displayed his distinctive style of combining aesthetic analysis with social critique.
 
 ### 中期（1940s–1950s）：流亡与批判理论的成熟
 纳粹上台后阿多诺流亡英美，在纽约和洛杉矶期间完成了最重要的合作著作《启蒙辩证法》（1944），并独立写作了《新音乐哲学》（1949）和《最低限度的道德》（1951）。这一时期他的批判理论达到成熟，文化工业论、权威人格研究等核心思想均在此期形成。
@@ -176,7 +176,7 @@ Adorno's insistence on aesthetic autonomy provides an important reference for co
 
 ### 5. 生态批判 / Ecological Critique
 阿多诺对"自然统治"的批判为生态哲学提供了重要思想资源——对自然的工具化支配不仅导致生态危机，也反映了人类自身的异化。
-Adorno's critique of "domination of nature" provides important resources for ecological philosophy — instrumental domination of nature not only causes ecological crises but reflects human self-alienation.
+Adorno's critique of "domination of nature" provides important resources for ecological 哲学 — instrumental domination of nature not only causes ecological crises but reflects human self-alienation.
 
 ### 6. 后真相时代的批判 / Post-Truth Era Critique
 在信息过载和"后真相"时代，阿多诺对工具理性和同一性思维的批判具有新的紧迫性——当事实被叙事框架吞噬，否定性思维成为抵抗的最后堡垒。
@@ -208,7 +208,7 @@ In the era of information overload and "post-truth," Adorno's critique of instru
 **✅ 澄清**：虽然合作密切，但两人在美学（阿多诺更坚持现代主义）和政治（霍克海默晚年趋于保守）等核心问题上有显著分歧。
 
 **❌ Misreading 4: Adorno and Horkheimer are completely aligned in thought.**
-**✅ Clarification**: Despite close collaboration, they diverged significantly on aesthetics (Adorno insisted more on modernism) and politics (Horkheimer grew conservative in later years).
+**✅ Clarification**: Despite close collaboration, they diverged significantly on 美学 (Adorno insisted more on modernism) and politics (Horkheimer grew conservative in later years).
 
 ---
 

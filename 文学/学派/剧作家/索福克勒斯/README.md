@@ -1,8 +1,8 @@
 ---
-id: literature.dramatists.sophocles
+id: 文学.dramatists.sophocles
 title: 索福克勒斯 · Sophocles
 type: thinker
-domain: literature
+domain: 文学
 school: dramatists
 era: ancient
 birth: -496

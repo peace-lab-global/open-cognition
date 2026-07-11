@@ -1,11 +1,11 @@
 ---
 name: forest-meditation-guidance
 description: Triggers on requests to 森林禅修、自然观察、当下觉察，如禅修指导、压力管理、心灵成长等。Apply this skill to guide users in forest meditation practice as taught by Ajahn Chah, emphasizing natural observation and present-moment awareness.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/thailand/ajahn-chah.md
 linked_concepts:
-  - ../../religion/concepts/natural-observation.md
-  - ../../religion/concepts/forest-meditation.md
+  - ../../宗教/概念/natural-observation.md
+  - ../../宗教/概念/forest-meditation.md
 tags:
   - 森林禅修
   - 自然观察

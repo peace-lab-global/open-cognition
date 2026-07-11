@@ -2,7 +2,7 @@
 id: adler
 title: "阿尔弗雷德·阿德勒 · Alfred Adler"
 type: thinker
-domain: psychology
+domain: 心理学
 school: individual-psychology
 era: modern
 birth: 1870
@@ -41,7 +41,7 @@ concepts:
 | 学术身份 / Academic Identity | 个体心理学创始人 / Founder of Individual Psychology |
 | 教育背景 / Education | 维也纳大学医学博士（1895）/ M.D., University of Vienna (1895) |
 | 核心贡献 / Core Contribution | 创立个体心理学体系，提出自卑与超越、社会兴趣、生活风格等理论 / Established Individual Psychology; theories of inferiority and compensation, social interest, and lifestyle |
-| 主要影响 / Major Influence | 人本主义心理学、积极心理学、认知行为疗法、教育心理学 / Humanistic psychology, positive psychology, CBT, educational psychology |
+| 主要影响 / Major Influence | 人本主义心理学、积极心理学、认知行为疗法、教育心理学 / Humanistic psychology, positive psychology, CBT, educational 心理学 |
 
 ---
 
@@ -115,7 +115,7 @@ In the early 1930s, Adler emigrated to the United States, teaching at Long Islan
 | 1912 | *Über den nervösen Charakter*（神经性格）/ *The Neurotic Character* | 个体心理学系统框架 / Systematic framework of Individual Psychology |
 | 1927 | *Menschenkenntnis*（理解人性）/ *Understanding Human Nature* | 人格理论与社会应用 / Personality theory and social application |
 | 1929 | *Die Technik der Individualpsychologie*（个体心理学的实践）/ *The Practice and Theory of Individual Psychology* | 治疗方法论 / Therapeutic methodology |
-| 1930 | *Die Seele des schwererziehbaren Kindes*（问题儿童的心理）/ *The Education of Children* | 教育心理学 / Educational psychology |
+| 1930 | *Die Seele des schwererziehbaren Kindes*（问题儿童的心理）/ *The Education of Children* | 教育心理学 / Educational 心理学 |
 | 1931 | *What Life Should Mean to You*（自卑与超越）| 生活意义与生活风格 / Life meaning and lifestyle |
 | 1933 | *Der Sinn des Lebens*（生活的意义）/ *The Meaning of Life* | 哲学人类学 / Philosophical anthropology |
 | 1956 (posth.) | *Ansbacher & Ansbacher (eds.), The Individual Psychology of Alfred Adler* | 综合选集 / Comprehensive anthology |
@@ -147,16 +147,16 @@ In the early 1930s, Adler emigrated to the United States, teaching at Long Islan
 
 **批判 / Critiques:**
 - 弗洛伊德的泛性论与生物决定论 / Freud's pan-sexualism and biological determinism
-- 机械因果论在心理学中的应用 / Mechanical causalism in psychology
+- 机械因果论在心理学中的应用 / Mechanical causalism in 心理学
 - 将心理问题还原为本能冲突的倾向 / Reduction of psychological problems to instinctual conflicts
 
 **影响 / Influences:**
-- 马斯洛的人本主义心理学 / Maslow's humanistic psychology
+- 马斯洛的人本主义心理学 / Maslow's humanistic 心理学
 - 罗杰斯的来访者中心疗法 / Rogers' client-centered therapy
 - 埃利斯的理性情绪行为疗法（REBT）/ Ellis's Rational Emotive Behavior Therapy
 - 正面管教（Jane Nelsen）与阿德勒式教育 / Positive Discipline (Jane Nelsen) and Adlerian education
 - 维克多·弗兰克尔的意义疗法 / Viktor Frankl's logotherapy
-- 当代积极心理学 / Contemporary positive psychology
+- 当代积极心理学 / Contemporary positive 心理学
 
 ---
 
@@ -187,7 +187,7 @@ In the early 1930s, Adler emigrated to the United States, teaching at Long Islan
 
 ✅ **事实 / Fact:** 阿德勒从来不是弗洛伊德的"弟子"。他是与弗洛伊德、荣格并列的深度心理学三大创始人之一。阿德勒与弗洛伊德的分歧不是细枝末节的，而是关于人性本质的根本分歧：弗洛伊德强调过去和驱力，阿德勒强调未来和社会。阿德勒的许多思想（如自卑感、追求意义）后来被主流心理学广泛吸收，以至于人们常常忘记这些概念的原创者是谁。
 
-Adler was never Freud's "disciple." He stands alongside Freud and Jung as one of the three founding figures of depth psychology. The divergence between Adler and Freud was not over minor points but over fundamental questions about human nature: Freud emphasized the past and drives, Adler emphasized the future and society. Many of Adler's ideas (such as inferiority feelings and the pursuit of meaning) were so widely absorbed into mainstream psychology that their originator is often forgotten.
+Adler was never Freud's "disciple." He stands alongside Freud and Jung as one of the three founding figures of depth 心理学. The divergence between Adler and Freud was not over minor points but over fundamental questions about human nature: Freud emphasized the past and drives, Adler emphasized the future and society. Many of Adler's ideas (such as inferiority feelings and the pursuit of meaning) were so widely absorbed into mainstream 心理学 that their originator is often forgotten.
 
 ### ❌ 误读2 / Misconception 2
 **"自卑感是负面的、病态的心理状态" / "Inferiority feelings are negative and pathological"**
@@ -208,7 +208,7 @@ Social interest is not altruism that sacrifices self-interest. Adler understood 
 
 ✅ **事实 / Fact:** 阿德勒的出生顺序理论远比流行心理学中的简化版本复杂。他强调的不是出生的时间顺序本身，而是"心理出生顺序"——即个体如何主观地诠释自己在家庭中的位置。家庭氛围、父母态度、兄弟姐妹间的动态关系都会影响个体的心理定位。阿德勒使用出生顺序作为理解个体生活风格的一个线索，而非决定性的预测工具。
 
-Adler's birth order theory is far more nuanced than the simplified versions found in popular psychology. He emphasized not the chronological order of birth itself, but "psychological birth order" — how the individual subjectively interprets their position in the family. Family atmosphere, parental attitudes, and sibling dynamics all influence the individual's psychological positioning. Adler used birth order as one clue for understanding an individual's lifestyle, not as a deterministic predictive tool.
+Adler's birth order theory is far more nuanced than the simplified versions found in popular 心理学. He emphasized not the chronological order of birth itself, but "psychological birth order" — how the individual subjectively interprets their position in the family. Family atmosphere, parental attitudes, and sibling dynamics all influence the individual's psychological positioning. Adler used birth order as one clue for understanding an individual's lifestyle, not as a deterministic predictive tool.
 
 ---
 
@@ -238,14 +238,14 @@ Adler's teleology and Zhuangzi's ideal of "free and easy wandering" (*xiāoyáo 
 
 | 学科 / Discipline | 关联 / Connection |
 |---|---|
-| 精神分析 / Psychoanalysis | 与 [弗洛伊德](../psychoanalysis/freud.md) 的分歧定义了深度心理学的两条路径 / Divergence with [Freud](../psychoanalysis/freud.md) defined two paths of depth psychology |
+| 精神分析 / Psychoanalysis | 与 [弗洛伊德](../psychoanalysis/freud.md) 的分歧定义了深度心理学的两条路径 / Divergence with [Freud](../psychoanalysis/freud.md) defined two paths of depth 心理学 |
 | 人本主义心理学 / Humanistic Psychology | 马斯洛 [马斯洛](../humanistic/maslow.md) 和罗杰斯 [罗杰斯](../humanistic/rogers.md) 深受阿德勒影响 / [Maslow](../humanistic/maslow.md) and [Rogers](../humanistic/rogers.md) were deeply influenced by Adler |
 | 发展心理学 / Developmental Psychology | 埃里克森 [埃里克森](../developmental/erikson.md) 的心理社会发展理论与阿德勒的社会发展观呼应 / [Erikson](../developmental/erikson.md)'s psychosocial development theory echoes Adler's social development view |
 | 认知心理学 / Cognitive Psychology | 阿德勒的"图式"概念预示了认知疗法的核心概念 / Adler's "schema" concept anticipated core concepts in cognitive therapy |
-| 积极心理学 / Positive Psychology | 塞利格曼 [塞利格曼](../positive/seligman.md) 的幸福研究继承了阿德勒对社会兴趣和生命意义的关注 / [Seligman](../positive/seligman.md)'s well-being research inherits Adler's focus on social interest and life meaning |
+| 积极心理学 / Positive Psychology | 塞利格曼 [塞利格曼](../positive/seligman.md) 的幸福研究继承了阿德勒对社会兴趣和生命意义的关注 / [Seligman](../positive/seligman.md)'s well-being 研究 inherits Adler's focus on social interest and life meaning |
 | 存在心理学 / Existential Psychology | 弗兰克尔 [弗兰克尔](../existential-psychology/frankl.md) 的意义疗法直接受阿德勒影响 / [Frankl](../existential-psychology/frankl.md)'s logotherapy was directly influenced by Adler |
 | 教育心理学 / Educational Psychology | 德莱库尔斯的课堂管理方法和正面管教运动 / Dreikurs' classroom management and the Positive Discipline movement |
-| 社会学 / Sociology | 阿德勒对社会因素的重视预见了社会心理学的许多发展 / Adler's emphasis on social factors anticipated many developments in social psychology |
+| 社会学 / Sociology | 阿德勒对社会因素的重视预见了社会心理学的许多发展 / Adler's emphasis on social factors anticipated many developments in social 心理学 |
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: arts.visual-arts.picasso
+id: 艺术.visual-arts.picasso
 title: 毕加索 Pablo Picasso
 type: thinker
-domain: arts
+domain: 艺术
 school: visual-arts
 era: modern
 birth: 1881

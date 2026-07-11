@@ -2,7 +2,7 @@
 id: sen
 title: 森 · Amartya Sen
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: capability-approach
 era: contemporary
 birth: 1933

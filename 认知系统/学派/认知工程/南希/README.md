@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.leveson
+id: 认知系统.school.cognitive-engineering.leveson
 title: 南希·莱文森 Nancy Leveson
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: modern
 birth: 1944

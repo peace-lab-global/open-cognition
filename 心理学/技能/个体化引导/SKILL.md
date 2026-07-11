@@ -1,11 +1,11 @@
 ---
 name: individuation-guidance
 description: Triggers on requests to 个体化、人格整合、自我实现，如心理成长、自我探索、人格发展等。Apply this skill to guide users through the individuation process, integrating conscious and unconscious aspects of personality.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/analytical-psychology/jung.md
 linked_concepts:
-  - ../../psychology/concepts/individuation.md
-  - ../../psychology/concepts/archetypes.md
+  - ../../心理学/概念/individuation.md
+  - ../../心理学/概念/archetypes.md
 tags:
   - 个体化
   - 人格整合

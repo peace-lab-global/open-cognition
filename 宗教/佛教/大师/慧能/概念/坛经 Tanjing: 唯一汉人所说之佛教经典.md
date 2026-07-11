@@ -3,7 +3,7 @@ id: huineng-tanjing
 title: "坛经 Tanjing: 唯一汉人所说之佛教经典"
 type: concept
 parent: huineng
-domain: religion
+domain: 宗教
 tags: [Platform-Sutra, Tanjing, Chan-literature, Dunhuang-manuscript, Chinese-Buddhism]
 ---
 

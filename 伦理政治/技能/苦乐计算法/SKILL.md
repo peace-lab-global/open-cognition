@@ -1,7 +1,7 @@
 ---
 name: pleasure-calculus
 description: 苦乐计算法（hedonic calculus）用于量化选项的道德价值。通过七个维度评估不同行动的快乐/痛苦产出，判断何者符合功利原则。Triggers on 需要在多个选项间做道德权衡、评估政策/行为的成本效益、或分析功利主义论证的场景。
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/consequentialism/bentham.md
 linked_concepts:
   - ../../concepts/pleasure.md

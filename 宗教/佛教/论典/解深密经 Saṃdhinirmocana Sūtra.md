@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.sandhinirmocana
+id: 宗教.buddhism.sutra.sandhinirmocana
 title: 解深密经 Saṃdhinirmocana Sūtra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 tags: [解深密经, 三性, 八识, 唯识, 瑜伽行, 三无性]
@@ -125,11 +125,11 @@ sources: [《解深密经》（玄奘译）, 梵文残本 Saṃdhinirmocana]
 
 ## 跨学科关联
 
-- [康德 · 先验哲学](../../../philosophy/schools/german-idealism/kant.md) — [平行] 唯识 vs 先验观念论
-- [胡塞尔 · 意向性](../../../philosophy/schools/phenomenology/husserl.md) — [平行] 识的见分/相分 vs 意向结构
-- [弗洛伊德 · 潜意识](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 阿赖耶识 vs 无意识
-- [皮亚杰 · 图式](../../../psychology/schools/cognitive/piaget.md) — [平行] 种子/熏习 vs 认知图式
-- [丹尼特 · 多重草稿](../../cognitive-systems/concepts/dennett-multiple-drafts.md) — [平行] 唯识无境 vs 计算心智
+- [康德 · 先验哲学](../../../哲学/学派/德国唯心论/康德.md) — [平行] 唯识 vs 先验观念论
+- [胡塞尔 · 意向性](../../../哲学/学派/现象学/胡塞尔.md) — [平行] 识的见分/相分 vs 意向结构
+- [弗洛伊德 · 潜意识](../../../心理学/学派/精神分析/西格蒙德.md) — [平行] 阿赖耶识 vs 无意识
+- [皮亚杰 · 图式](../../../心理学/学派/认知心理学/皮亚杰.md) — [平行] 种子/熏习 vs 认知图式
+- [丹尼特 · 多重草稿](../../认知系统/概念/dennett-multiple-drafts.md) — [平行] 唯识无境 vs 计算心智
 
 ## 进阶阅读
 

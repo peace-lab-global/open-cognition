@@ -1,11 +1,11 @@
 ---
 name: logotherapy
 description: Triggers on requests to 意义疗法、生命意义、存在主义心理治疗，如人生意义探索、苦难应对、心理成长等。Apply this skill to help users find meaning in life using Frankl's logotherapy, understanding that meaning can be found even in suffering.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/existential-psychology/frankl.md
 linked_concepts:
-  - ../../psychology/concepts/logotherapy.md
-  - ../../psychology/concepts/will-to-meaning.md
+  - ../../心理学/概念/logotherapy.md
+  - ../../心理学/概念/will-to-meaning.md
 tags:
   - 意义疗法
   - 生命意义
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[维克多·弗兰克尔](../../schools/existential-psychology/frankl.md)
 - 概念：[意义疗法](../../concepts/logotherapy.md)、[意义意志](../../concepts/will-to-meaning.md)
-- 相关 Skill：[existentialism-analysis](../../philosophy/skills/existentialism-analysis/SKILL.md)、[inferiority-transcendence](./inferiority-transcendence/SKILL.md)
+- 相关 Skill：[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)、[inferiority-transcendence](./inferiority-transcendence/SKILL.md)

@@ -2,7 +2,7 @@
 id: bandura-albert
 title: "阿尔伯特·班杜拉 · Albert Bandura"
 type: thinker
-domain: psychology
+domain: 心理学
 school: social-learning
 era: contemporary
 birth: 1925
@@ -71,7 +71,7 @@ aliases:
 
 班杜拉在爱荷华大学接受了赫尔-斯彭斯（Hull-Spence）传统的严格行为主义训练。他的博士论文研究公路建设中的驾驶行为，但很快对纯粹的刺激-反应模型产生不满。1953年加入斯坦福大学后，他在与Richard Walters合作研究青少年攻击行为时发现：儿童的攻击行为更多来自观察家庭中的攻击模型，而非直接强化。
 
-Bandura received rigorous behaviorist training in the Hull-Spence tradition at the University of Iowa. His doctoral research examined driving behavior in highway construction, but he quickly grew dissatisfied with pure stimulus-response models. After joining Stanford in 1953, his collaboration with Richard Walters on adolescent aggression revealed that children's aggressive behavior stemmed more from observing aggressive models in the family than from direct reinforcement.
+Bandura received rigorous behaviorist training in the Hull-Spence tradition at the University of Iowa. His doctoral 研究 examined driving behavior in highway construction, but he quickly grew dissatisfied with pure stimulus-response models. After joining Stanford in 1953, his collaboration with Richard Walters on adolescent aggression revealed that children's aggressive behavior stemmed more from observing aggressive models in the family than from direct reinforcement.
 
 1961年的波波玩偶实验（Bobo Doll experiment）成为心理学史上的里程碑：儿童观看成人攻击充气玩偶后，即使没有任何强化，也会自发模仿攻击行为。这一发现直接挑战了斯金纳的核心假设——学习必须依赖直接强化。
 
@@ -91,11 +91,11 @@ In 1986, Bandura made a significant decision — renaming "social learning theor
 
 1997年的《自我效能感：控制的行使》是班杜拉学术生涯的巅峰之作。他将自我效能感从临床心理学的一个概念发展为横跨教育、健康、组织管理、体育等领域的通用理论框架。
 
-The 1997 *Self-Efficacy: The Exercise of Control* represented the pinnacle of Bandura's career. He transformed self-efficacy from a clinical psychology concept into a universal theoretical framework spanning education, health, organizational management, and sports.
+The 1997 *Self-Efficacy: The Exercise of Control* represented the pinnacle of Bandura's career. He transformed self-efficacy from a clinical 心理学 concept into a universal theoretical framework spanning education, health, organizational management, and sports.
 
 晚年，班杜拉将注意力转向道德心理学——2016年出版的《道德脱离》系统分析了人类如何通过认知机制为自己的残暴行为辩护。这部著作将社会认知理论的应用推向了人类行为中最黑暗、最令人不安的领域。
 
-In his later years, Bandura turned his attention to moral psychology — the 2016 *Moral Disengagement* systematically analyzed how humans justify their cruel behavior through cognitive mechanisms. This work pushed the application of social cognitive theory into the darkest and most troubling domains of human behavior.
+In his later years, Bandura turned his attention to moral 心理学 — the 2016 *Moral Disengagement* systematically analyzed how humans justify their cruel behavior through cognitive mechanisms. This work pushed the application of social cognitive theory into the darkest and most troubling domains of human behavior.
 
 ## 关键著作 / Key Works
 

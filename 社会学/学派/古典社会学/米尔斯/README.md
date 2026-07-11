@@ -1,8 +1,8 @@
 ---
-id: sociology.classical.mills
+id: 社会学.classical.mills
 title: 米尔斯 C. Wright Mills
 type: thinker
-domain: sociology
+domain: 社会学
 school: classical
 era: 20th century
 birth: 1916
@@ -40,7 +40,7 @@ sources:
 
 米尔斯的核心关切是"社会学的想象力"（sociological imagination）——一种将个体困扰（personal troubles）与公共议题（public issues）联系起来的能力。他批判美国社会学主流——帕森斯的结构功能主义是脱离现实的抽象理论，拉扎斯菲尔德的抽象经验主义沦为技术性的数据收集——主张社会学应当承担公共批判的使命。他的"权力三部曲"（《新的人物》《权力精英》《社会学的想象力》）系统分析了战后美国社会的权力结构和个体命运。
 
-Mills is the most influential critical sociologist and public intellectual in 20th-century America. His central concern is the "sociological imagination"—the ability to connect personal troubles with public issues. He critiqued both Parsons' abstract theorizing and Lazarsfeld's abstract empiricism, arguing that sociology should serve as public critique. His "power trilogy" systematically analyzed the power structure and individual fate in post-war American society.
+Mills is the most influential critical sociologist and public intellectual in 20th-century America. His central concern is the "sociological imagination"—the ability to connect personal troubles with public issues. He critiqued both Parsons' abstract theorizing and Lazarsfeld's abstract empiricism, arguing that 社会学 should serve as public critique. His "power trilogy" systematically analyzed the power structure and individual fate in post-war American society.
 
 ## 二、核心命题
 

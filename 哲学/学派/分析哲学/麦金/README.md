@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.mcginn
+id: 哲学.analytic.mcginn
 title: 麦金 · Colin McGinn
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1950

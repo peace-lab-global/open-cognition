@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.distributed.leontiev
+id: 认知系统.school.distributed.leontiev
 title: 列昂捷夫 A.N. Leontiev
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: distributed
 era: modern
 birth: 1903
@@ -27,7 +27,7 @@ sources: [Activity Consciousness and Personality (1975), Problems of the Develop
 
 列昂捷夫的核心洞见是：意识不是预先存在的，而是在主体与客体的交互活动中历史地形成的。同一个行动在不同活动中具有不同意义——这一区分对理解工作中的认知行为具有重要意义。
 
-A.N. Leontiev founded activity theory, establishing activity as the central category of psychology. His three-level analysis (Activity-Action-Operation, corresponding to Motive-Goal-Conditions) provides a framework for understanding how consciousness emerges from practical engagement with the world.
+A.N. Leontiev founded activity theory, establishing activity as the central category of 心理学. His three-level analysis (Activity-Action-Operation, corresponding to Motive-Goal-Conditions) provides a framework for understanding how consciousness emerges from practical engagement with the world.
 
 ## 二、核心命题
 

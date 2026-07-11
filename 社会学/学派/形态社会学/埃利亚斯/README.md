@@ -1,8 +1,8 @@
 ---
-id: sociology.figurational.elias
+id: 社会学.figurational.elias
 title: 埃利亚斯 · Norbert Elias
 type: thinker
-domain: sociology
+domain: 社会学
 school: figurational
 era: 20th century
 birth: 1897
@@ -52,7 +52,7 @@ sub-entries:
 
 埃利亚斯拒绝"个体"与"社会"的二元对立。他提出了"构型"（figuration）概念——一种不断变化的人际关系网络——来取代静态的"社会结构"概念。社会不是超越个体的实体，个体也不是独立的原子，两者都在不断变化的关系网络中相互构成。
 
-Elias is one of the most original sociologists of the 20th century, the founder of figurational or process sociology. His magnum opus *The Civilizing Process* demonstrates the structural connection between long-term changes in manners, body control, and emotional management, and the formation of the state and the monopoly of violence. His concept of "figuration" transcends the individual-society dualism that has long troubled sociology.
+Elias is one of the most original sociologists of the 20th century, the founder of figurational or process 社会学. His magnum opus *The Civilizing Process* demonstrates the structural connection between long-term changes in manners, body control, and emotional management, and the formation of the state and the monopoly of violence. His concept of "figuration" transcends the individual-society dualism that has long troubled 社会学.
 
 ## 二、核心命题
 

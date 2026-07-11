@@ -1,7 +1,7 @@
 ---
 name: sastra-structure-analysis
 description: Triggers when a user encounters a Buddhist śāstra (treatise/commentary) and needs to unpack its argumentative structure — identifying the thesis (宗), reason (因), example (喻), synthesis (合), and conclusion (结), or mapping how a treatise engages opposing views. Guides a seven-step structural analysis process.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/treatises/abhidharmakosa.md
   - ../../buddhism/treatises/awakening-of-faith.md

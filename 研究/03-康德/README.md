@@ -1,6 +1,6 @@
 ---
 title: 康德专题 · Immanuel Kant
-type: research
+type: 研究
 status: draft
 created: 2026-07-02
 tags:
@@ -15,9 +15,9 @@ tags:
   - 定言命令
   - 无目的的合目的性
 domains:
-  - philosophy
-  - ethics-politics
-  - aesthetics
+  - 哲学
+  - 伦理政治
+  - 美学
 ---
 
 # 康德专题：理性的三问与批判的统一
@@ -32,9 +32,9 @@ domains:
 
 | 批判 | 年份 | 核心问题 | 人类能力 | 领域条目 |
 |---|---|---|---|---|
-| 《纯粹理性批判》 | 1781 | 我能知道什么？ | 认识（知性） | [哲学·康德](../../philosophy/schools/german-idealism/kant.md) |
-| 《实践理性批判》 | 1788 | 我应当做什么？ | 意欲（理性） | [伦理·康德](../../ethics-politics/schools/deontology/kant.md) |
-| 《判断力批判》 | 1790 | 我可以希望什么？ | 情感（判断力） | [美学·康德](../../aesthetics/schools/german-aesthetics/kant-aesthetics.md) |
+| 《纯粹理性批判》 | 1781 | 我能知道什么？ | 认识（知性） | [哲学·康德](../../哲学/学派/德国唯心论/康德.md) |
+| 《实践理性批判》 | 1788 | 我应当做什么？ | 意欲（理性） | [伦理·康德](../../伦理政治/学派/道义论/康德.md) |
+| 《判断力批判》 | 1790 | 我可以希望什么？ | 情感（判断力） | [美学·康德](../../美学/学派/德国美学/康德美学.md) |
 
 本专题的独特视角在于：**不把康德拆成"认识论者""伦理学家""美学家"三个孤立身份，而是揭示三大批判如何共享同一个建筑术——"批判"（Kritik）即对理性能力的合法边界进行先验勘定。** 认识论为伦理学腾出空间（物自体领域留给自由），伦理学为美学提供目的论桥梁，美学最终回扣认识与道德的统一。
 
@@ -105,7 +105,7 @@ domains:
 
 > **本研究的判断**：第一批判最重要的遗产不是任何具体结论，而是"**划定边界**"这一方法论姿态本身。它确立了现代认识论的基本语法：先问"我们能合法地问什么"，再问"答案是什么"。
 
-**相关条目**：[康德·哲学](../../philosophy/schools/german-idealism/kant.md) · [认识论](../../philosophy/concepts/epistemology.md) · [休谟](../../philosophy/schools/empiricism/hume.md)
+**相关条目**：[康德·哲学](../../哲学/学派/德国唯心论/康德.md) · [认识论](../../哲学/概念/认识论.md) · [休谟](../../哲学/学派/经验主义/休谟.md)
 
 ---
 
@@ -133,7 +133,7 @@ domains:
 
 > **本研究的判断**：第二批判的遗产是**"自律即尊严"**这一等式。它直接孕育了现代人权哲学（罗尔斯、《世界人权宣言》）、医学伦理的"尊重自主性"原则、以及康德式自由主义的全部政治哲学。
 
-**相关条目**：[康德·道义论](../../ethics-politics/schools/deontology/kant.md) · [定言命令](../../ethics-politics/concepts/categorical-imperative.md) · [罗尔斯·正义论](../../ethics-politics/schools/social-contract/rawls.md)
+**相关条目**：[康德·道义论](../../伦理政治/学派/道义论/康德.md) · [定言命令](../../伦理政治/概念/定言命令.md) · [罗尔斯·正义论](../../伦理政治/学派/社会契约论/约翰-rawls.md)
 
 ---
 
@@ -175,7 +175,7 @@ domains:
 
 > **本研究的判断**：第三批判的遗产是**"桥梁意识"**——它拒绝让自然与自由永远隔绝，而坚持在"判断力"这一中间能力中寻找两者的交汇。这种"既不取消差异、又坚持统一"的姿态，是康德哲学最深邃的部分。
 
-**相关条目**：[康德美学](../../aesthetics/schools/german-aesthetics/kant-aesthetics.md) · [美](../../aesthetics/concepts/beauty.md) · [崇高](../../aesthetics/concepts/sublime.md) · [审美判断分析 Skill](../../aesthetics/skills/aesthetic-judgment-analysis/SKILL.md)
+**相关条目**：[康德美学](../../美学/学派/德国美学/康德美学.md) · [美](../../美学/概念/美.md) · [崇高](../../美学/概念/崇高.md) · [审美判断分析 Skill](../../美学/技能/审美判断分析/SKILL.md)
 
 ---
 
@@ -324,17 +324,17 @@ domains:
 
 ### 可操作 Skill
 
-- [绝对命令检验](../../philosophy/skills/categorical-imperative-test/SKILL.md) — 康德道德律令的可普遍化测试
-- [审美判断分析](../../aesthetics/skills/aesthetic-judgment-analysis/SKILL.md) — 康德四契机检验
+- [绝对命令检验](../../哲学/技能/绝对命令检验/SKILL.md) — 康德道德律令的可普遍化测试
+- [审美判断分析](../../美学/技能/审美判断分析/SKILL.md) — 康德四契机检验
 
 ### 散见条目汇总
 
 康德在本库中分散于以下领域，本专题为它们的整合枢纽：
 
-- **认识论**：[康德·哲学](../../philosophy/schools/german-idealism/kant.md)
-- **伦理学**：[康德·道义论](../../ethics-politics/schools/deontology/kant.md)
-- **美学**：[康德美学](../../aesthetics/schools/german-aesthetics/kant-aesthetics.md)
-- **概念**：[定言命令](../../ethics-politics/concepts/categorical-imperative.md) · [美](../../aesthetics/concepts/beauty.md) · [崇高](../../aesthetics/concepts/sublime.md) · [审美经验](../../aesthetics/concepts/aesthetic-experience.md)
+- **认识论**：[康德·哲学](../../哲学/学派/德国唯心论/康德.md)
+- **伦理学**：[康德·道义论](../../伦理政治/学派/道义论/康德.md)
+- **美学**：[康德美学](../../美学/学派/德国美学/康德美学.md)
+- **概念**：[定言命令](../../伦理政治/概念/定言命令.md) · [美](../../美学/概念/美.md) · [崇高](../../美学/概念/崇高.md) · [审美经验](../../美学/概念/审美经验.md)
 
 ---
 

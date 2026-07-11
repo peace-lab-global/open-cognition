@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.eighteen-dhatu
+id: 宗教.buddhism.concept.eighteen-dhatu
 title: 十八界 Aṣṭādaśa Dhātu
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [十八界, 十二处, 六根六尘六识, 认知分析]

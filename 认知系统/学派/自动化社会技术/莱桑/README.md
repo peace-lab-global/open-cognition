@@ -2,7 +2,7 @@
 id: bainbridge
 title: "丽萨娜·班布里奇 · Lisanne Bainbridge"
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: automation-sociotechnical
 era: contemporary
 birth: 1939
@@ -58,7 +58,7 @@ Lisanne Bainbridge (1939–) is a British psychologist and human factors researc
 
 班布里奇的学术背景横跨实验心理学与系统工程。她早期关注人类认知过程的实验研究，随后将注意力转向复杂技术系统中的人因问题。她长期活跃于英国和欧洲的人因研究社区，参与多项工业自动化安全评估项目。她的核心贡献在于揭示了一个深刻的工程哲学问题：自动化的初衷是消除人为错误，但其设计逻辑本身却不可避免地制造了新的错误来源。
 
-Bainbridge's academic background spans experimental psychology and systems engineering. She began her career investigating human cognitive processes experimentally, then turned her attention to human factors in complex technological systems. Active in the British and European human factors research community for decades, she contributed to numerous industrial automation safety assessments. Her central contribution reveals a profound engineering-philosophical problem: automation is designed to eliminate human error, yet its design logic inevitably creates new sources of error.
+Bainbridge's academic background spans experimental 心理学 and systems engineering. She began her career investigating human cognitive processes experimentally, then turned her attention to human factors in complex technological systems. Active in the British and European human factors 研究 community for decades, she contributed to numerous industrial automation safety assessments. Her central contribution reveals a profound engineering-philosophical problem: automation is designed to eliminate human error, yet its design logic inevitably creates new sources of error.
 
 ## 核心命题 / Core Theses
 
@@ -104,7 +104,7 @@ Automation designers assume that "if a machine can do it, the machine should do 
 
 班布里奇早年的学术训练扎根于实验心理学传统。她在1960至1970年代接受了严格的人类认知与行为实验训练，对注意力、反应时间、信息处理等经典课题有深入的研究经验。这一时期的心理学研究正经历"认知革命"，从行为主义转向对人类内部认知过程的系统研究。
 
-Bainbridge's early academic training was rooted in the experimental psychology tradition. During the 1960s and 1970s, she received rigorous training in human cognition and behavioral experimentation, developing deep expertise in classic topics such as attention, reaction time, and information processing. This period witnessed the "cognitive revolution" in psychology, shifting from behaviorism to systematic investigation of internal cognitive processes.
+Bainbridge's early academic training was rooted in the experimental 心理学 tradition. During the 1960s and 1970s, she received rigorous training in human cognition and behavioral experimentation, developing deep expertise in classic topics such as attention, reaction time, and information processing. This period witnessed the "cognitive revolution" in psychology, shifting from behaviorism to systematic investigation of internal cognitive processes.
 
 在这一背景下，班布里奇开始关注复杂技术系统中的操作者行为问题。随着工业自动化的快速发展——特别是在核电、航空和化工领域——操作者的角色正在发生根本性转变：从直接操控机器转变为监控自动化系统的运行。班布里奇敏锐地注意到，这一转变带来了深刻的认知挑战。
 
@@ -132,11 +132,11 @@ This insight provoked strong reactions in the human factors engineering communit
 
 在1983年论文之后，班布里奇继续深化她对自动化人机关系的研究。她在1987年的Automatica专刊中进一步阐述了自动化系统中人类角色的变化，并在多个国际会议和学术项目中推广她的分析框架。她的影响逐渐从学术论文扩展到工程实践和安全教育领域。
 
-After her 1983 paper, Bainbridge continued to deepen her research on human-machine relationships in automation. She further elaborated on the changing human role in automated systems in a 1987 *Automatica* special issue and promoted her analytical framework through various international conferences and academic programs. Her influence gradually extended from academic papers to engineering practice and safety education.
+After her 1983 paper, Bainbridge continued to deepen her 研究 on human-machine relationships in automation. She further elaborated on the changing human role in automated systems in a 1987 *Automatica* special issue and promoted her analytical framework through various international conferences and academic programs. Her influence gradually extended from academic papers to engineering practice and safety education.
 
 进入21世纪，随着信息技术的飞速发展和人工智能的崛起，班布里奇的洞见获得了新的生命力。她的论文被频繁引用在关于自动驾驶、AI辅助决策、人机协作等新兴领域的研究中。2004年，她的经典论文被重新收录于 Norman、Hollnagel 和 Woods 编辑的著作中，进一步确认了其持久的重要性。
 
-Entering the 21st century, with the rapid development of information technology and the rise of artificial intelligence, Bainbridge's insights gained new vitality. Her paper was frequently cited in research on autonomous driving, AI-assisted decision-making, human-machine collaboration, and other emerging fields. In 2004, her classic paper was republished in a volume edited by Norman, Hollnagel, and Woods, further confirming its enduring importance.
+Entering the 21st century, with the rapid development of information technology and the rise of artificial intelligence, Bainbridge's insights gained new vitality. Her paper was frequently cited in 研究 on autonomous driving, AI-assisted decision-making, human-machine collaboration, and other emerging fields. In 2004, her classic paper was republished in a volume edited by Norman, Hollnagel, and Woods, further confirming its enduring importance.
 
 班布里奇的影响不仅限于学术领域。她的分析框架被广泛应用于核能安全、航空安全、交通安全和医疗安全等高风险行业的安全管理和系统设计标准中。她的思想成为"以人为中心的自动化"（Human-Centered Automation）运动的重要理论基础。
 
@@ -186,7 +186,7 @@ Bainbridge's influence extends beyond academia. Her analytical framework has bee
 
 - **承接 / Inherits**:
   - Jens Rasmussen `[理论继承]` — SRK分层模型为班布里奇提供了认知分析框架 / SRK hierarchical model provided the cognitive analysis framework
-  - 认知心理学传统 `[方法论继承]` — 注意力、警觉性、信息处理的实验研究传统 / Experimental research tradition on attention, vigilance, and information processing
+  - 认知心理学传统 `[方法论继承]` — 注意力、警觉性、信息处理的实验研究传统 / Experimental 研究 tradition on attention, vigilance, and information processing
   - 系统工程思想 `[问题域]` — 复杂技术系统中的人机交互问题 / Human-machine interaction in complex technical systems
 
 - **批判 / Critiques**:
@@ -196,9 +196,9 @@ Bainbridge's influence extends beyond academia. Her analytical framework has bee
 
 - **影响 / Influences**:
   - Raja Parasuraman `[直接影响]` — 自动化四阶段模型（感知、分析、决策、行动）直接建立在班布里奇的问题框架上 / Four-stage automation model directly built on Bainbridge's problem framework
-  - Donald Norman `[间接影响]` — 设计心理学中对自动化设计缺陷的关注 / Attention to automation design flaws in design psychology
-  - David Woods & Richard Cook `[直接影响]` — "自动化意外"研究路线 / "Automation surprises" research program
-  - Thomas Sheridan `[平行发展]` — 远程操作与人机监控研究 / Teleoperation and human-machine monitoring research
+  - Donald Norman `[间接影响]` — 设计心理学中对自动化设计缺陷的关注 / Attention to automation design flaws in design 心理学
+  - David Woods & Richard Cook `[直接影响]` — "自动化意外"研究路线 / "Automation surprises" 研究 program
+  - Thomas Sheridan `[平行发展]` — 远程操作与人机监控研究 / Teleoperation and human-machine monitoring 研究
   - Mica Endsley `[间接影响]` — 情境意识理论中对自动化影响的分析 / Analysis of automation effects in situation awareness theory
   - Erik Hollnagel `[共同发展]` — 认知系统工程与弹性工程 / Cognitive systems engineering and resilience engineering
 
@@ -306,7 +306,7 @@ The Buddhist concept of "avidya" refers to ignorance of the true state of affair
 
 ### 中文资源 / Chinese Resources
 - 唐纳德·诺曼 (2015).《设计心理学》. 中信出版社. — 包含对自动化设计问题的讨论 / Includes discussion of automation design issues
-- 关于"自动化的讽刺"的中文综述可见于人机交互和航空安全领域的研究论文 / Chinese overviews of "ironies of automation" can be found in HCI and aviation safety research papers
+- 关于"自动化的讽刺"的中文综述可见于人机交互和航空安全领域的研究论文 / Chinese overviews of "ironies of automation" can be found in HCI and aviation safety 研究 papers
 - 赵廷刚, 王以群 等. 人因工程学相关中文教材中对自动化悖论的引述 / Citations of automation ironies in Chinese human factors engineering textbooks
 
 ## 子条目索引 / Sub-entry Index

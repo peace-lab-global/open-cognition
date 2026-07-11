@@ -3,7 +3,7 @@ id: padmasambhava-dzogchen
 title: "大圆满 Dzogchen: 一切法本自清净圆满"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [Dzogchen, great-perfection, rigpa, Nyingma]
 ---
 # 大圆满 / Dzogchen / Great Perfection

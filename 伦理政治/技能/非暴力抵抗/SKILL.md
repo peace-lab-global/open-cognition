@@ -1,11 +1,11 @@
 ---
 name: nonviolent-resistance
-description: Triggers on requests to 非暴力抵抗、真理之力、和平抗争，如社会运动、冲突解决、道德勇气等。Apply this skill to analyze and practice nonviolent resistance using Gandhi's philosophy of satyagraha, understanding how truth and love can overcome injustice.
-domain: ethics-politics
+description: Triggers on requests to 非暴力抵抗、真理之力、和平抗争，如社会运动、冲突解决、道德勇气等。Apply this skill to analyze and practice nonviolent resistance using Gandhi's 哲学 of satyagraha, understanding how truth and love can overcome injustice.
+domain: 伦理政治
 linked_thinker: ../../schools/nonviolent-resistance/gandhi.md
 linked_concepts:
-  - ../../ethics-politics/concepts/satyagraha.md
-  - ../../ethics-politics/concepts/nonviolence.md
+  - ../../伦理政治/概念/satyagraha.md
+  - ../../伦理政治/概念/nonviolence.md
 tags:
   - 非暴力抵抗
   - 真理之力
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[圣雄甘地](../../schools/nonviolent-resistance/gandhi.md)
 - 概念：[真理之力](../../concepts/satyagraha.md)、[非暴力](../../concepts/nonviolence.md)
-- 相关 Skill：[justice-principle-test](./justice-principle-test/SKILL.md)、[social-contract-analysis](../../philosophy/skills/social-contract-analysis/SKILL.md)
+- 相关 Skill：[justice-principle-test](./justice-principle-test/SKILL.md)、[social-contract-analysis](../../哲学/技能/社会契约分析/SKILL.md)

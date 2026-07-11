@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.three-jewels
+id: 宗教.buddhism.core.three-jewels
 title: 三宝 Three Jewels
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三宝, 皈依, 佛法僧, Buddha-Dharma-Sangha]
@@ -64,7 +64,7 @@ sources: [巴利三藏, 《大智度论》]
 
 ## 跨学科关联
 
-- [涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) — [互补] 僧团作为集体
+- [涂尔干 · 集体意识](../../../社会学/学派/古典社会学/涂尔干.md) — [互补] 僧团作为集体
 - [基督教三位一体](../../traditions/christianity/grace-redemption.md) — [张力] 三一论对照
 - [社会心理学] — [互补] 共同体认同
 

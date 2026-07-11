@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein.concepts.montage
+id: 美学.arts-thought.eisenstein.concepts.montage
 title: 蒙太奇 Montage
 type: concept
-parent: aesthetics.arts-thought.eisenstein
+parent: 美学.arts-thought.eisenstein
 tags: [montage, dialectics, collision, meaning-creation, cinema]
 ---
 

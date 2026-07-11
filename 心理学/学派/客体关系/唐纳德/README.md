@@ -2,7 +2,7 @@
 id: winnicott-donald
 title: "唐纳德·温尼科特 · Donald Winnicott"
 type: thinker
-domain: psychology
+domain: 心理学
 school: object-relations
 era: contemporary
 birth: 1897
@@ -46,7 +46,7 @@ aliases:
 
 **命题二 / Thesis 2**：足够好的母亲（good-enough mother）不追求完美，而是提供一个"容错"的环境——婴儿的"真自体"在这个环境中得以涌现，游戏与创造力得以生长。The good-enough mother does not pursue perfection but provides a "fault-tolerant" environment in which the infant's true self can emerge and play and creativity can flourish.
 
-**命题三 / Thesis 3**：过渡客体与过渡空间是人类文化经验的根基——艺术、宗教、哲学都是内在现实与外在现实之间"第三领域"的延伸。Transitional objects and transitional space are the foundation of human cultural experience — art, religion, and philosophy are extensions of the "third area" between inner and outer reality.
+**命题三 / Thesis 3**：过渡客体与过渡空间是人类文化经验的根基——艺术、宗教、哲学都是内在现实与外在现实之间"第三领域"的延伸。Transitional objects and transitional space are the foundation of human cultural experience — art, religion, and 哲学 are extensions of the "third area" between inner and outer reality.
 
 **命题四 / Thesis 4**：真自体（true self）源自婴儿最初的自发性姿态得到回应；假自体（false self）源自婴儿被迫顺应环境的要求——病理性的假自体导致"空虚感"与"不真实感"。The true self originates in the infant's spontaneous gestures being met; the false self arises when the infant is forced to comply with environmental demands — a pathological false self produces feelings of emptiness and unreality.
 
@@ -118,7 +118,7 @@ The physical and psychological "container" provided by the mother (or therapist)
 
 ### 5. 潜在空间 / Potential Space
 内在现实与外在现实之间的"第三领域"——游戏、艺术、宗教、哲学在此发生。它不是被发现的，而是被创造的；它不是确定的，而是在确定与不确定之间"游戏"。详见 [潜在空间](concepts/potential-space.md)。
-The "third area" between inner and outer reality — where play, art, religion, and philosophy take place. It is not discovered but created; not fixed but "played" between certainty and uncertainty. See [Potential Space](concepts/potential-space.md).
+The "third area" between inner and outer reality — where play, art, religion, and 哲学 take place. It is not discovered but created; not fixed but "played" between certainty and uncertainty. See [Potential Space](concepts/potential-space.md).
 
 ### 6. 独处的能力 / The Capacity to Be Alone
 在母亲在场的情况下独处的经验——婴儿在母亲身边安心地玩耍，不需要主动寻求互动。这种经验被内化后，个体获得了在没有外部支持时仍保持真自体存在的能力。
@@ -153,7 +153,7 @@ Freud    ←—————————— Winnicott —————————
       安娜·弗洛伊德                    人本主义
       Anna Freud                      Humanism
       （自我心理学）                    （罗杰斯 Rogers）
-      (Ego psychology)               (Person-centred)
+      (Ego 心理学)               (Person-centred)
 ```
 
 - **继承 / Inherited from**：弗洛伊德的"客体"概念与无意识理论 / Freud's object concept and unconscious theory；克莱因的"内在客体"与"投射性认同" / Klein's internal object and projective identification；费尔贝恩的"内在客体关系" / Fairbairn's internal object relations
@@ -171,7 +171,7 @@ Freud    ←—————————— Winnicott —————————
 温尼科特的理论直接影响了婴儿心理健康（infant mental health）领域——评估母婴互动质量、识别早期发展风险、发展干预方案。他的"原初母性专注"概念为围产期心理健康提供了理论框架。His theory directly influenced the infant mental health field — assessing mother-infant interaction quality, identifying early developmental risks, and developing intervention programmes.
 
 ### 3. 发展心理学 / Developmental Psychology
-过渡客体的研究推动了象征化（symbolisation）、假装游戏（pretend play）和心智化（mentalisation）的发展心理学研究。温尼科特的工作为福纳吉（Peter Fonagy）等人的心智化理论提供了重要思想资源。Transitional object research propelled developmental psychology research on symbolisation, pretend play, and mentalisation.
+过渡客体的研究推动了象征化（symbolisation）、假装游戏（pretend play）和心智化（mentalisation）的发展心理学研究。温尼科特的工作为福纳吉（Peter Fonagy）等人的心智化理论提供了重要思想资源。Transitional object 研究 propelled developmental 心理学 研究 on symbolisation, pretend play, and mentalisation.
 
 ### 4. 教育理论 / Educational Theory
 温尼科特对"游戏"和"创造性"的强调深刻影响了"游戏本位学习"（play-based learning）和"以学生为中心"的教育实践。他的"创造性领悟"概念为理解学习的内在动力提供了心理学基础。His emphasis on play and creativity profoundly influenced play-based learning and student-centred educational practice.

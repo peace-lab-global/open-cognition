@@ -2,7 +2,7 @@
 id: nozick
 title: "罗伯特·诺齐克 · Robert Nozick"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: libertarianism
 era: contemporary
 birth: 1938
@@ -32,11 +32,11 @@ Robert Nozick (1938–2002) was one of the most important American political phi
 
 1969年，诺齐克受聘于哈佛大学哲学系，此后一直在哈佛任教直至去世。1974年，他出版了奠定其学术地位的经典之作《无政府、国家与乌托邦》（*Anarchy, State, and Utopia*），该书直接回应了约翰·罗尔斯1971年出版的《正义论》，被视为当代政治哲学最重要的论争之一的开端。此书为他赢得了美国国家图书奖（1975），并确立了他在政治哲学领域的核心地位。
 
-In 1969, Nozick joined the philosophy department at Harvard University, where he remained until his death. In 1974, he published his landmark work *Anarchy, State, and Utopia*, which directly responded to John Rawls's *A Theory of Justice* (1971) and inaugurated one of the most important debates in contemporary political philosophy. The book won the National Book Award (1975) and established Nozick's central position in political philosophy.
+In 1969, Nozick joined the 哲学 department at Harvard University, where he remained until his death. In 1974, he published his landmark work *Anarchy, State, and Utopia*, which directly responded to John Rawls's *A Theory of Justice* (1971) and inaugurated one of the most important debates in contemporary political 哲学. The book won the National Book Award (1975) and established Nozick's central position in political 哲学.
 
 诺齐克的后期著作涵盖了认识论、形而上学、理性决策理论和人生哲学等领域，展示了一位不满足于单一领域建树的哲学家的广泛兴趣。他于2002年1月23日因胃癌在波士顿去世，享年63岁。
 
-Nozick's later works spanned epistemology, metaphysics, rational decision theory, and the philosophy of life, reflecting the broad interests of a philosopher unwilling to confine himself to a single domain. He died of stomach cancer in Boston on January 23, 2002, at the age of 63.
+Nozick's later works spanned epistemology, metaphysics, rational decision theory, and the 哲学 of life, reflecting the broad interests of a philosopher unwilling to confine himself to a single domain. He died of stomach cancer in Boston on January 23, 2002, at the age of 63.
 
 ---
 
@@ -74,7 +74,7 @@ If a machine could provide any experience you desired, you would still refuse to
 
 诺齐克的学术生涯起步于分析哲学传统，早期专注于决策理论和价值理论的技术性问题。在普林斯顿攻读博士期间，他深受逻辑实证主义和科学哲学的影响。然而，20世纪60年代末美国社会的剧烈动荡——越战、民权运动、反文化浪潮——促使他开始思考更根本的政治和道德问题。
 
-Nozick's academic career began in the analytic philosophy tradition, focusing on technical problems in decision theory and value theory. During his doctoral studies at Princeton, he was deeply influenced by logical positivism and the philosophy of science. However, the social upheavals of the late 1960s — the Vietnam War, the civil rights movement, the counterculture — drove him to grapple with more fundamental political and moral questions.
+Nozick's academic career began in the analytic 哲学 tradition, focusing on technical problems in decision theory and value theory. During his doctoral studies at Princeton, he was deeply influenced by logical positivism and the 哲学 of science. However, the social upheavals of the late 1960s — the Vietnam War, the civil rights movement, the counterculture — drove him to grapple with more fundamental political and moral questions.
 
 值得注意的是，诺齐克在学生时代曾是一个温和的社会主义者。据他自己回忆，正是在哈佛大学与自由市场思想家——包括经济学家弗里德里希·哈耶克和米尔顿·弗里德曼的著作——的接触中，他的政治观点逐渐发生了根本性转变。他开始确信，对经济自由的限制本质上是对个人自由的侵犯。这一转变为《无政府、国家与乌托邦》奠定了思想基础。
 
@@ -88,7 +88,7 @@ The publication of *Anarchy, State, and Utopia* made Nozick famous but provoked 
 
 1981年出版的《哲学解释》标志着他思想的重大转向。这部鸿篇巨制涵盖了知识论（他提出了著名的"追踪真理"认识论）、形而上学（包括关于"存在"的原创理论）、个人同一性、自由意志以及价值与意义等广泛主题。该书展示了一种不同于分析哲学主流的方法论——诺齐克称之为"解释主义"（explanatory）而非"证明主义"（coercive）的哲学风格。
 
-The publication of *Philosophical Explanations* in 1981 marked a significant intellectual turn. This magisterial work covered epistemology (introducing his famous "tracking" theory of knowledge), metaphysics (including an original theory of existence), personal identity, free will, value, and meaning. The book exhibited a methodology distinct from mainstream analytic philosophy — what Nozick called an "explanatory" rather than "coercive" philosophical style.
+The publication of *Philosophical Explanations* in 1981 marked a significant intellectual turn. This magisterial work covered epistemology (introducing his famous "tracking" theory of knowledge), metaphysics (including an original theory of existence), personal identity, free will, value, and meaning. The book exhibited a methodology distinct from mainstream analytic 哲学 — what Nozick called an "explanatory" rather than "coercive" philosophical style.
 
 ### 晚期 / Late Period (1989–2002)
 
@@ -130,7 +130,7 @@ Nozick's late-period works reveal an increasingly reflective thinker engaged in 
    Nozick's most influential work and its core argumentative structure: deriving the legitimacy of the minimal state from the state of nature, while refuting both anarchism and utopianism.
 
 5. **[自我所有权 / Self-Ownership](concepts/self-ownership.md)** — 每个人对自己的身体、才能和劳动拥有完整权利的原则，是诺齐克整个政治哲学的基石。
-   The principle that each person has full rights over their own body, talents, and labor — the cornerstone of Nozick's entire political philosophy.
+   The principle that each person has full rights over their own body, talents, and labor — the cornerstone of Nozick's entire political 哲学.
 
 6. **权利作为边际约束 / Rights as Side Constraints** — 个人权利是对行为的绝对限制，而非可以为了更大利益而被权衡或牺牲的目标。
    Individual rights are absolute limits on action, not goals to be weighed or sacrificed for greater benefit.

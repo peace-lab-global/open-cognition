@@ -1,11 +1,11 @@
 ---
 name: social-forms-analysis
 description: Triggers on requests to 社会形式、陌生人、社会互动，如社会关系分析、文化研究、城市社会学等。Apply this skill to analyze social interactions using Simmel's concept of social forms, understanding the patterns of social life.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/classical/simmel.md
 linked_concepts:
-  - ../../sociology/concepts/social-forms.md
-  - ../../sociology/concepts/the-stranger.md
+  - ../../社会学/概念/social-forms.md
+  - ../../社会学/概念/the-stranger.md
 tags:
   - 社会形式
   - 陌生人

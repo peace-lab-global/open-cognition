@@ -3,7 +3,7 @@ id: atisha-bodhicitta
 title: "菩提心 Bodhicitta: 阿底峡的核心教导"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [bodhicitta, Kadam, Mahayana]
 ---
 # 菩提心 / Bodhicitta

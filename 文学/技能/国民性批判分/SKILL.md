@@ -1,11 +1,11 @@
 ---
 name: national-character-criticism
 description: Triggers on requests to 国民性批判、文化反思、社会批判，如文化分析、社会问题、自我反思等。Apply this skill to analyze national character using Lu Xun's critical insights, understanding the deep-rooted cultural problems and the need for awakening.
-domain: literature
+domain: 文学
 linked_thinker: ../../schools/essayists/lu-xun.md
 linked_concepts:
-  - ../../literature/concepts/national-character-criticism.md
-  - ../../literature/concepts/enlightenment.md
+  - ../../文学/概念/national-character-criticism.md
+  - ../../文学/概念/enlightenment.md
 tags:
   - 国民性批判
   - 文化反思
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[鲁迅](../../schools/essayists/lu-xun.md)
 - 概念：[国民性批判](../../concepts/national-character-criticism.md)、[启蒙](../../concepts/enlightenment.md)
-- 相关 Skill：[social-fact-analysis](../../sociology/skills/social-fact-analysis/SKILL.md)、[discipline-analysis](../../sociology/skills/discipline-analysis/SKILL.md)
+- 相关 Skill：[social-fact-analysis](../../社会学/技能/社会事实分析/SKILL.md)、[discipline-analysis](../../社会学/技能/规训分析/SKILL.md)

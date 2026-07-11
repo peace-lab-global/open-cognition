@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.distributed.hutchins
+id: 认知系统.school.distributed.hutchins
 title: 哈钦斯 Edwin Hutchins
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: distributed
 era: contemporary
 birth: 1948

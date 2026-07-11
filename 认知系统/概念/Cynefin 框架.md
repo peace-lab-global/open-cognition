@@ -2,7 +2,7 @@
 id: cynefin-framework
 title: Cynefin 框架 · Cynefin Framework
 type: concept
-domain: cognitive-systems
+domain: 认知系统
 school: complexity-science
 era: 1999年（Dave Snowden）
 tags:

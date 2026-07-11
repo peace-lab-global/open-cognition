@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.nagarjuna.concepts.sunyata-emptiness
+id: 宗教.buddhism.master.nagarjuna.concepts.sunyata-emptiness
 title: "空性 Sunyata: 无自性的哲学分析"
 type: concept
 thinker: nagarjuna
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 tags: [emptiness, sunyata, svabhava, anti-essentialism, Madhyamaka, nihsvabhava, sunyata-sunyata]
 ---

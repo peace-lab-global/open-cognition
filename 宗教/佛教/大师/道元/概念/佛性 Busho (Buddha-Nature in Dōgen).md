@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen.concepts.buddha-nature-dogen
+id: 宗教.buddhism.masters.dogen.concepts.buddha-nature-dogen
 title: 佛性 Busho (Buddha-Nature in Dōgen)
 type: concept
-domain: religion
+domain: 宗教
 parent: ../README.md
 tags: [道元, Dogen, 佛性, busho, Buddha-nature, 一切众生悉有佛性]
 ---

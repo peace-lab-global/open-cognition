@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.nagarjuna.concepts.dependent-origination
+id: 宗教.buddhism.master.nagarjuna.concepts.dependent-origination
 title: "缘起 Pratityasamutpada: 相依缘起与空性"
 type: concept
 thinker: nagarjuna
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 tags: [dependent-origination, pratityasamutpada, interdependence, causation, emptiness, conditionality, Madhyamaka]
 ---
@@ -20,7 +20,7 @@ tags: [dependent-origination, pratityasamutpada, interdependence, causation, emp
 
 **缘起 (Pratityasamutpada)** 是佛教最核心的哲学概念之一，意为"依缘而起"或"相依而生"——一切现象都依赖于条件和关系而生起、存在和消亡，没有任何事物具有独立自存的实体性。龙树将缘起与空性等同：缘起即空，空即缘起。这一等式是他对整个佛教哲学最深刻的贡献。
 
-**Dependent Origination (Pratityasamutpada)** is one of Buddhism's most central philosophical concepts, meaning "arising in dependence upon conditions" — all phenomena arise, persist, and cease in dependence upon conditions and relations; nothing possesses independent, self-sufficient substantiality. Nagarjuna equated dependent origination with emptiness: dependent origination is emptiness, emptiness is dependent origination. This equation is his most profound contribution to Buddhist philosophy.
+**Dependent Origination (Pratityasamutpada)** is one of Buddhism's most central philosophical concepts, meaning "arising in dependence upon conditions" — all phenomena arise, persist, and cease in dependence upon conditions and relations; nothing possesses independent, self-sufficient substantiality. Nagarjuna equated dependent origination with emptiness: dependent origination is emptiness, emptiness is dependent origination. This equation is his most profound contribution to Buddhist 哲学.
 
 梵文语义分析 / Sanskrit semantic analysis:
 - **pratitya** (不变词): 依赖于、基于 / depending on, based on

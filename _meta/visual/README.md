@@ -34,7 +34,7 @@ visual/
 
 每个领域一张 Notion 风格信息图 HTML：
 
-aesthetics · arts · cognitive-systems · ethics-politics · literature · philosophy · psychology · religion · sociology
+美学 · 艺术 · 认知系统 · 伦理政治 · 文学 · 哲学 · 心理学 · 宗教 · 社会学
 
 ## general/ — 综合可视化
 

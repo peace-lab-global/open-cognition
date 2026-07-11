@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.adorno.concepts.after-auschwitz
+id: 美学.critical-aesthetics.adorno.concepts.after-auschwitz
 title: 奥斯维辛之后 After Auschwitz
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.adorno
+domain: 美学
+parent: 美学.critical-aesthetics.adorno
 tags: [奥斯维辛, 大屠杀, 文化批判, 诗歌, 野蛮]
 ---
 
@@ -30,12 +30,12 @@ Adorno's full statement: "To write poetry after Auschwitz is barbaric. And this 
 ### 文化的失败 / Culture's Failure
 阿多诺的核心洞见是：奥斯维辛不是文明的例外或倒退，而是文明本身的产物。启蒙理性、科学技术、官僚管理——这些"文明"的要素恰恰是种族灭绝得以系统化执行的条件。文化——歌德的诗歌、贝多芬的交响曲、康德的哲学——未能阻止野蛮，甚至在某种程度上为野蛮提供了合法性外衣。
 
-Adorno's core insight: Auschwitz was not civilization's exception or regression but civilization's own product. Enlightenment reason, science and technology, bureaucratic management — these "civilized" elements were precisely the conditions enabling systematic genocide. Culture — Goethe's poetry, Beethoven's symphonies, Kant's philosophy — failed to prevent barbarism and even provided legitimacy's veneer.
+Adorno's core insight: Auschwitz was not civilization's exception or regression but civilization's own product. Enlightenment reason, science and technology, bureaucratic management — these "civilized" elements were precisely the conditions enabling systematic genocide. Culture — Goethe's poetry, Beethoven's symphonies, Kant's 哲学 — failed to prevent barbarism and even provided legitimacy's veneer.
 
 ### "被文化喂养的野蛮人" / "The Barbarian Fed by Culture"
 阿多诺揭示了一个令人不安的事实：纳粹集中营的管理者中不乏受过良好教育、热爱古典音乐和文学的人。文化修养与野蛮行为可以共存——这暴露了传统人文主义教育的根本盲点：相信文化能自动使人变得更好。
 
-Adorno reveals a disturbing fact: Nazi camp administrators included well-educated people who loved classical music and literature. Cultural cultivation and barbaric behavior can coexist — this exposes traditional humanist education's fundamental blind spot: believing culture automatically makes people better.
+Adorno reveals a disturbing fact: Nazi camp administrators included well-educated people who loved classical music and 文学. Cultural cultivation and barbaric behavior can coexist — this exposes traditional humanist education's fundamental blind spot: believing culture automatically makes people better.
 
 ## 阿多诺的自我修正 / Adorno's Self-Correction
 

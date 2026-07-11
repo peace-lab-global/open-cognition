@@ -3,7 +3,7 @@ id: zhiyi-one-thought-three-thousand
 title: "一念三千 One Thought Contains Three Thousand Realms"
 type: concept
 parent: zhiyi
-domain: religion
+domain: 宗教
 tags: [ichinen-sanzen, three-thousand-realms, Tiantai, holistic]
 ---
 

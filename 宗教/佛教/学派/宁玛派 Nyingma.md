@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.nyingma
+id: 宗教.buddhism.school.nyingma
 title: 宁玛派 Nyingma
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-nyingma
 era: ancient-modern
 tags: [宁玛派, 大圆满, 莲花生, 伏藏, 九乘判教, 藏传佛教]

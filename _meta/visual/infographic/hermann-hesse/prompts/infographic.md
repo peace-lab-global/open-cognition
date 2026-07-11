@@ -11,7 +11,7 @@
 ## Core Principles
 
 - Follow the bento-grid layout precisely: modular grid with varied cell sizes (1x1, 2x1, 1x2, 2x2), hero cell for main point, supporting cells around it
-- Apply storybook-watercolor aesthetics consistently: soft watercolor washes in muted blues, greens, warm earth tones; visible brushstrokes; soft color bleeds; white space as design element; delicate line work; natural organic shapes; dreamy atmospheric quality
+- Apply storybook-watercolor 美学 consistently: soft watercolor washes in muted blues, greens, warm earth tones; visible brushstrokes; soft color bleeds; white space as design element; delicate line work; natural organic shapes; dreamy atmospheric quality
 - If content involves sensitive or copyrighted figures, create stylistically similar alternatives
 - Keep information concise, highlight keywords and core concepts
 - Use ample whitespace for visual clarity within each cell

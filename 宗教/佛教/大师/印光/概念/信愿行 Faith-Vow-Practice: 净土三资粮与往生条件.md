@@ -3,7 +3,7 @@ id: yinguang-faith-vow-practice
 title: "信愿行 Faith-Vow-Practice: 净土三资粮与往生条件"
 type: concept
 parent: yinguang
-domain: religion
+domain: 宗教
 tags: [信愿行, 净土, 念佛, 往生, faith, vow, practice, nianfo, Pure Land requisites]
 ---
 

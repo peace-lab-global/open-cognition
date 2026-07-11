@@ -3,7 +3,7 @@ id: ashvaghosha-tathagatagarbha
 title: "如来藏 Tathagatagarbha: 众生本具佛性"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [Tathagatagarbha, buddha-nature]
 ---
 # 如来藏 / Tathagatagarbha

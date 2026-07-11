@@ -2,7 +2,7 @@
 id: james-william-funct
 title: "威廉·詹姆斯 · William James (功能主义)"
 type: thinker
-domain: psychology
+domain: 心理学
 school: functionalism
 era: modern
 birth: 1842
@@ -65,7 +65,7 @@ sources:
 
 **中** 心理学的研究对象不应是意识的"结构"——像冯特（Wundt）的内省主义所追求的那样，试图将意识分解为基本元素——而应是意识的"功能"，即心智如何帮助有机体适应环境。这一方法论转向使心理学从实验室物理学模型中解放出来，赋予其生物学意义和现实应用价值。
 
-**EN** The subject matter of psychology should not be the "structure" of consciousness—as Wundt's introspectionism pursued—but the "function" of consciousness: how mind helps the organism adapt to its environment. This methodological shift liberated psychology from the laboratory-physics model and endowed it with biological significance and practical application value.
+**EN** The subject matter of 心理学 should not be the "structure" of consciousness—as Wundt's introspectionism pursued—but the "function" of consciousness: how mind helps the organism adapt to its environment. This methodological shift liberated 心理学 from the laboratory-physics model and endowed it with biological significance and practical application value.
 
 ### 命题三：自我的二重性 / Thesis 3: Duality of the Self
 
@@ -105,13 +105,13 @@ sources:
 
 **中** 1875年，詹姆斯开始在哈佛大学教授生理学，随后开设美国第一个心理学课程"生理学与心理学的关系"。他建立了一个非正式的心理学实验室（略晚于冯特在莱比锡的实验室）。1878年与Alice Howe Gibbens结婚，此后心理状态趋于稳定。1890年出版两卷本《心理学原理》（The Principles of Psychology），这部著作耗时十二年完成，成为心理学史上最重要的文本之一。书中系统阐述了意识流、习惯、自我、情绪、意志等核心概念，奠定了功能主义心理学的基础。
 
-**EN** In 1875, James began teaching physiology at Harvard and subsequently offered the first psychology course in the United States: "The Relations between Physiology and Psychology." He established an informal psychology laboratory (slightly after Wundt's lab in Leipzig). He married Alice Howe Gibbens in 1878, after which his psychological state stabilized. In 1890, he published the two-volume *The Principles of Psychology*, a work that took twelve years to complete and became one of the most important texts in the history of psychology. The book systematically elaborated the core concepts of stream of consciousness, habit, self, emotion, and will, laying the foundation for functionalist psychology.
+**EN** In 1875, James began teaching physiology at Harvard and subsequently offered the first 心理学 course in the United States: "The Relations between Physiology and Psychology." He established an informal 心理学 laboratory (slightly after Wundt's lab in Leipzig). He married Alice Howe Gibbens in 1878, after which his psychological state stabilized. In 1890, he published the two-volume *The Principles of Psychology*, a work that took twelve years to complete and became one of the most important texts in the history of 心理学. The book systematically elaborated the core concepts of stream of consciousness, habit, self, emotion, and will, laying the foundation for functionalist 心理学.
 
 ### 第三阶段：哲学转向与晚年（1890–1910） / Phase 3: Philosophical Turn and Later Years (1890–1910)
 
 **中** 1890年代起，詹姆斯的兴趣从心理学逐渐转向哲学和宗教研究。1897年出版《信仰意志及其他论文》（The Will to Believe），1902年出版《宗教经验之种种》（The Varieties of Religious Experience），这是他在爱丁堡大学吉福德讲座（Gifford Lectures）的讲稿，成为宗教心理学的经典。1907年出版《实用主义》（Pragmatism），系统阐述实用主义哲学。1909年出版《多元的宇宙》（A Pluralistic Universe）。詹姆斯于1910年8月26日在新罕布什尔州乔科鲁阿去世，享年68岁。
 
-**EN** From the 1890s onward, James's interests gradually shifted from psychology to philosophy and religious studies. In 1897 he published *The Will to Believe and Other Essays*; in 1902, *The Varieties of Religious Experience*, based on his Gifford Lectures at the University of Edinburgh, which became a classic in the psychology of religion. In 1907 he published *Pragmatism*, a systematic statement of pragmatist philosophy. In 1909, *A Pluralistic Universe*. James died on August 26, 1910, in Chocorua, New Hampshire, at the age of 68.
+**EN** From the 1890s onward, James's interests gradually shifted from 心理学 to 哲学 and religious studies. In 1897 he published *The Will to Believe and Other Essays*; in 1902, *The Varieties of Religious Experience*, based on his Gifford Lectures at the University of Edinburgh, which became a classic in the 心理学 of 宗教. In 1907 he published *Pragmatism*, a systematic statement of pragmatist 哲学. In 1909, *A Pluralistic Universe*. James died on August 26, 1910, in Chocorua, New Hampshire, at the age of 68.
 
 ---
 
@@ -119,13 +119,13 @@ sources:
 
 | 年份 / Year | 著作 / Work | 主题 / Theme | 影响 / Impact |
 |---|---|---|---|
-| 1890 | *The Principles of Psychology* | 心理学全面论述 / Comprehensive treatise on psychology | 奠定美国心理学基础，意识流、自我、习惯、情绪理论的源头 |
+| 1890 | *The Principles of Psychology* | 心理学全面论述 / Comprehensive treatise on 心理学 | 奠定美国心理学基础，意识流、自我、习惯、情绪理论的源头 |
 | 1892 | *Psychology: Briefer Course* | 《心理学原理》缩写本 / Abridged version of Principles | 广泛用于教学，普及功能主义心理学 |
 | 1897 | *The Will to Believe and Other Essays* | 信仰、意志与实用主义 / Belief, will, and pragmatism | 提出信仰意志论，挑战证据主义的绝对权威 |
-| 1899 | *Talks to Teachers on Psychology* | 教育心理学 / Educational psychology | 将心理学原理应用于教学实践 |
-| 1902 | *The Varieties of Religious Experience* | 宗教心理学 / Psychology of religion | 宗教经验研究的奠基文本，区分"健康灵魂"与"病态灵魂" |
-| 1907 | *Pragmatism: A New Name for Some Old Ways of Thinking* | 实用主义哲学 / Pragmatist philosophy | 美国实用主义哲学的宣言书 |
-| 1909 | *A Pluralistic Universe* | 多元论哲学 / Pluralistic philosophy | 反对一元论，主张实在的多元性和开放性 |
+| 1899 | *Talks to Teachers on Psychology* | 教育心理学 / Educational 心理学 | 将心理学原理应用于教学实践 |
+| 1902 | *The Varieties of Religious Experience* | 宗教心理学 / Psychology of 宗教 | 宗教经验研究的奠基文本，区分"健康灵魂"与"病态灵魂" |
+| 1907 | *Pragmatism: A New Name for Some Old Ways of Thinking* | 实用主义哲学 / Pragmatist 哲学 | 美国实用主义哲学的宣言书 |
+| 1909 | *A Pluralistic Universe* | 多元论哲学 / Pluralistic 哲学 | 反对一元论，主张实在的多元性和开放性 |
 | 1911 | *Some Problems of Philosophy*（遗著） | 形而上学与认识论 / Metaphysics and epistemology | 晚年哲学思考的总结 |
 | 1912 | *Essays in Radical Empiricism*（遗著） | 彻底经验主义 / Radical empiricism | 提出"纯粹经验"概念，超越主客二分 |
 
@@ -137,13 +137,13 @@ sources:
 
 **中** 意识是连续的河流，而非离散的元素集合。这一概念彻底颠覆了冯特的结构主义心理学，使心理学从"分析意识的成分"转向"理解意识的功能"。详见 → [stream-of-consciousness](concepts/stream-of-consciousness.md)
 
-**EN** Consciousness is a continuous river, not a collection of discrete elements. This concept fundamentally overturned Wundt's structuralist psychology, redirecting psychology from "analyzing the components of consciousness" to "understanding the function of consciousness." See → [stream-of-consciousness](concepts/stream-of-consciousness.md)
+**EN** Consciousness is a continuous river, not a collection of discrete elements. This concept fundamentally overturned Wundt's structuralist psychology, redirecting 心理学 from "analyzing the components of consciousness" to "understanding the function of consciousness." See → [stream-of-consciousness](concepts/stream-of-consciousness.md)
 
 ### 2. 功能主义 / Functionalism
 
 **中** 心理学的核心问题不是"意识是什么"（结构），而是"意识做什么"（功能）。心智是有机体适应环境的工具。详见 → [functionalism](concepts/functionalism.md)
 
-**EN** The central question of psychology is not "what is consciousness" (structure) but "what does consciousness do" (function). Mind is an instrument for the organism's adaptation to its environment. See → [functionalism](concepts/functionalism.md)
+**EN** The central question of 心理学 is not "what is consciousness" (structure) but "what does consciousness do" (function). Mind is an instrument for the organism's adaptation to its environment. See → [functionalism](concepts/functionalism.md)
 
 ### 3. 信仰意志 / Will to Believe
 
@@ -185,13 +185,13 @@ sources:
 
 **中** 詹姆斯区分了"健康的灵魂"（healthy-minded，天生乐观，直接体验善）和"病态的灵魂"（sick soul，经历存在危机后的皈依与重生），强调宗教经验的多样性和个人性，反对将宗教简化为教义或制度。
 
-**EN** James distinguished between the "healthy-minded" (naturally optimistic, directly experiencing goodness) and the "sick soul" (conversion and rebirth after existential crisis), emphasizing the diversity and individuality of religious experience and opposing the reduction of religion to doctrine or institution.
+**EN** James distinguished between the "healthy-minded" (naturally optimistic, directly experiencing goodness) and the "sick soul" (conversion and rebirth after existential crisis), emphasizing the diversity and individuality of religious experience and opposing the reduction of 宗教 to doctrine or institution.
 
 ### 10. 注意力的自愿努力 / Voluntary Effort of Attention
 
 **中** 注意力的核心是"自愿的、有目的的努力"——选择关注什么就是选择成为什么样的人。詹姆斯认为注意力的训练是教育的根本，这一观点与当代正念研究和执行功能研究高度契合。
 
-**EN** The core of attention is "voluntary, purposeful effort"—choosing what to attend to is choosing what kind of person to become. James considered the training of attention to be the foundation of education, a view highly consonant with contemporary mindfulness research and executive function studies.
+**EN** The core of attention is "voluntary, purposeful effort"—choosing what to attend to is choosing what kind of person to become. James considered the training of attention to be the foundation of education, a view highly consonant with contemporary mindfulness 研究 and executive function studies.
 
 ---
 
@@ -207,9 +207,9 @@ sources:
 
 **EN** James occupies a unique pivotal position in American intellectual history and the history of psychology:
 
-- **Father of American Psychology**: Liberated psychology from the European experimental tradition and gave it an American character—focused on function, adaptation, and practice.
-- **Functionalism vs Structuralism**: Opposed Wundt's and Titchener's elementism, advocating the study of mental function rather than structure. This position directly influenced later behaviorism and cognitive psychology.
-- **Pragmatist Philosophy**: Together with Peirce and Dewey, established the American pragmatist tradition—one of America's most important contributions to world philosophy.
+- **Father of American Psychology**: Liberated 心理学 from the European experimental tradition and gave it an American character—focused on function, adaptation, and practice.
+- **Functionalism vs Structuralism**: Opposed Wundt's and Titchener's elementism, advocating the study of mental function rather than structure. This position directly influenced later behaviorism and cognitive 心理学.
+- **Pragmatist Philosophy**: Together with Peirce and Dewey, established the American pragmatist tradition—one of America's most important contributions to world 哲学.
 - **Interdisciplinarity**: Simultaneously a psychologist, philosopher, religious scholar, and physiologist—a rare truly interdisciplinary thinker.
 - **East-West Bridge**: His descriptions of the continuity of consciousness and his exploration of pure experience form deep dialogues with Eastern intellectual traditions.
 
@@ -227,25 +227,25 @@ sources:
 
 **中** 詹姆斯对"自我"的层次分析影响了叙事疗法（Narrative Therapy）和自我认同研究。他对"信仰意志"的论述为存在主义治疗和人本主义治疗提供了哲学基础。
 
-**EN** James's layered analysis of the self has influenced Narrative Therapy and self-identity research. His writings on the "will to believe" have provided philosophical foundations for existentialist and humanistic therapy.
+**EN** James's layered analysis of the self has influenced Narrative Therapy and self-identity 研究. His writings on the "will to believe" have provided philosophical foundations for existentialist and humanistic therapy.
 
 ### 3. 教育心理学 / Educational Psychology
 
 **中** 功能主义强调学习的适应性价值，詹姆斯的《与教师谈心理学》（Talks to Teachers）是最早将心理学系统应用于教育的文本之一。他的习惯理论对行为养成和教育设计有直接指导意义。
 
-**EN** Functionalism emphasizes the adaptive value of learning. James's *Talks to Teachers on Psychology* was among the earliest texts to systematically apply psychology to education. His habit theory has direct implications for behavior formation and instructional design.
+**EN** Functionalism emphasizes the adaptive value of learning. James's *Talks to Teachers on Psychology* was among the earliest texts to systematically apply 心理学 to education. His habit theory has direct implications for behavior formation and instructional design.
 
 ### 4. 宗教心理学 / Psychology of Religion
 
 **中** 《宗教经验之种种》仍是宗教心理学领域的奠基文本。詹姆斯对"皈依经验"的现象学描述影响了后来的宗教研究和灵性研究。
 
-**EN** *The Varieties of Religious Experience* remains the foundational text in the psychology of religion. James's phenomenological descriptions of "conversion experience" have influenced subsequent religious studies and spirituality research.
+**EN** *The Varieties of Religious Experience* remains the foundational text in the 心理学 of 宗教. James's phenomenological descriptions of "conversion experience" have influenced subsequent religious studies and spirituality 研究.
 
 ### 5. 正念与注意力研究 / Mindfulness and Attention Research
 
 **中** 詹姆斯对"注意力的自愿努力"的描述与当代正念训练和执行功能研究高度契合。他将注意力视为"判断、品格与意志的基础"，这一观点在正念干预（MBSR, MBCT）中得到了实证验证。
 
-**EN** James's description of the "voluntary effort of attention" is highly consonant with contemporary mindfulness training and executive function research. He regarded attention as the "foundation of judgment, character, and will," a view that has received empirical validation in mindfulness interventions (MBSR, MBCT).
+**EN** James's description of the "voluntary effort of attention" is highly consonant with contemporary mindfulness training and executive function 研究. He regarded attention as the "foundation of judgment, character, and will," a view that has received empirical validation in mindfulness interventions (MBSR, MBCT).
 
 ### 6. 具身认知 / Embodied Cognition
 
@@ -325,7 +325,7 @@ sources:
 | 心理学·行为主义 / Psychology·Behaviorism | 华生 Watson、斯金纳 Skinner | 间接影响 / Indirect influence |
 | 心理学·认知科学 / Psychology·Cognitive Science | 达马西奥 Damasio、巴雷特 Barrett | 继承发展 / Inheritance and development |
 | 文学·现代主义 / Literature·Modernism | 乔伊斯 Joyce、伍尔夫 Woolf | 概念借用 / Conceptual borrowing |
-| 神经科学 / Neuroscience | 埃德尔曼 Edelman | 意识研究的延续 / Continuation of consciousness research |
+| 神经科学 / Neuroscience | 埃德尔曼 Edelman | 意识研究的延续 / Continuation of consciousness 研究 |
 | 教育学 / Education | 杜威 Dewey | 功能主义教育观 / Functionalist educational views |
 | 宗教学 / Religious Studies | 奥托 Otto | 宗教经验研究 / Study of religious experience |
 | 佛教哲学 / Buddhist Philosophy | 唯识学 Yogācāra、阿毗达磨 Abhidharma | 东西方平行 / East-West parallels |

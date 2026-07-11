@@ -2,7 +2,7 @@
 id: spinoza
 title: 巴鲁赫·斯宾诺莎 · Baruch Spinoza
 type: thinker
-domain: philosophy
+domain: 哲学
 school: rationalism
 era: early-modern
 birth: 1632
@@ -64,11 +64,11 @@ sub-entries:
 
 巴鲁赫·斯宾诺莎（1632年11月24日–1677年2月21日），荷兰犹太裔哲学家，近代早期理性主义三大代表之一（与笛卡尔、莱布尼茨并称），也是西方哲学史上最激进、最具争议性的思想家之一。他以严格的几何学方法建构了一个包罗万象的形而上学-伦理学体系，以"上帝即自然"（Deus sive Natura）的一元论取代了笛卡尔的身心二元论，并以对情感、自由和幸福的深刻分析影响了从黑格尔到德勒兹的整个哲学传统。
 
-Baruch Spinoza (24 November 1632 – 21 February 1677) was a Dutch-Jewish philosopher and one of the three great early-modern rationalists alongside Descartes and Leibniz. He was also one of the most radical and controversial thinkers in Western philosophy. Using a rigorous geometrical method, he constructed an all-encompassing metaphysical-ethical system, replacing Cartesian mind-body dualism with the monism of "God or Nature" (Deus sive Natura), and profoundly influencing the entire philosophical tradition from Hegel to Deleuze through his deep analysis of affects, freedom, and happiness.
+Baruch Spinoza (24 November 1632 – 21 February 1677) was a Dutch-Jewish philosopher and one of the three great early-modern rationalists alongside Descartes and Leibniz. He was also one of the most radical and controversial thinkers in Western 哲学. Using a rigorous geometrical method, he constructed an all-encompassing metaphysical-ethical system, replacing Cartesian mind-body dualism with the monism of "God or Nature" (Deus sive Natura), and profoundly influencing the entire philosophical tradition from Hegel to Deleuze through his deep analysis of affects, freedom, and happiness.
 
 斯宾诺莎出生于阿姆斯特丹的一个塞法迪犹太移民家庭——他的家族在宗教迫害下从葡萄牙逃往荷兰。他在阿姆斯特丹的犹太社区中接受了传统的犹太教育，学习了《塔纳赫》（希伯来圣经）、《塔木德》和中世纪犹太哲学（尤其是迈蒙尼德的著作）。然而，他早年就开始接触笛卡尔哲学和近代科学思想，这些新的思想资源使他逐渐发展出与正统犹太教义格格不入的哲学观点。
 
-Spinoza was born in Amsterdam to a Sephardic Jewish family — his ancestors fled Portugal for the Netherlands under religious persecution. He received traditional Jewish education in Amsterdam's Jewish community, studying the Tanakh (Hebrew Bible), Talmud, and medieval Jewish philosophy (especially Maimonides). However, he encountered Descartes's philosophy and modern scientific thought early on, and these new intellectual resources gradually led him to develop philosophical views incompatible with orthodox Judaism.
+Spinoza was born in Amsterdam to a Sephardic Jewish family — his ancestors fled Portugal for the Netherlands under religious persecution. He received traditional Jewish education in Amsterdam's Jewish community, studying the Tanakh (Hebrew Bible), Talmud, and medieval Jewish 哲学 (especially Maimonides). However, he encountered Descartes's 哲学 and modern scientific thought early on, and these new intellectual resources gradually led him to develop philosophical views incompatible with orthodox Judaism.
 
 1656年7月27日，阿姆斯特丹的犹太社区对斯宾诺莎颁布了最严厉的革除教门令（cherem）——"以天使和圣徒的名义……将他逐出教会、诅咒他、开除他、驱除他"。这份革除教门令的措辞之严厉在犹太历史上几乎是无与伦比的，而且从未被撤销。被逐出社区后，斯宾诺莎将名字从"巴鲁赫"（Baruch，希伯来语，意为"受祝福的"）改为"本尼迪克特"（Benedictus，拉丁语，同义）。
 
@@ -80,7 +80,7 @@ After his expulsion, Spinoza earned his living grinding lenses — a profession 
 
 斯宾诺莎在海牙度过了生命的最后岁月，住在斯皮克（Spui）运河旁的一座房子里（现在是斯宾诺莎博物馆）。1677年2月21日，他因肺部疾病去世，年仅44岁。他的遗物极为简朴——几件衣服、一些书籍、一架显微镜、几封信件。他的朋友和学生在同年出版了他的遗著《伦理学》（*Ethica*），这部以几何学方式论证的哲学巨著成为整个西方哲学史上最重要的文本之一。
 
-Spinoza spent his final years in The Hague, in a house by the Spui canal (now the Spinoza Museum). He died of lung disease on 21 February 1677, aged only 44. His possessions were meager — a few clothes, some books, a microscope, some letters. His friends and students published his posthumous *Ethics* (*Ethica*) the same year, a philosophical masterpiece demonstrated in geometrical order that became one of the most important texts in Western philosophy.
+Spinoza spent his final years in The Hague, in a house by the Spui canal (now the Spinoza Museum). He died of lung disease on 21 February 1677, aged only 44. His possessions were meager — a few clothes, some books, a microscope, some letters. His friends and students published his posthumous *Ethics* (*Ethica*) the same year, a philosophical masterpiece demonstrated in geometrical order that became one of the most important texts in Western 哲学.
 
 ## 核心命题 / Core Theses
 
@@ -118,7 +118,7 @@ Spinoza is a strict determinist — nothing in the universe is contingent; every
 
 斯宾诺莎在《神学政治论》（1670）中系统论证了政教分离和思想自由的原则。他认为，国家的目的是保障公民的自由和安全，而非拯救灵魂；宗教权威不应干预政治和哲学探究；圣经应当作为历史文献来解读，而非作为科学和哲学的权威。这些观点在17世纪是极为激进的，直接影响了后来的启蒙运动和自由主义政治哲学。
 
-In the *Theological-Political Treatise* (1670), Spinoza systematically argued for separation of religion and state and freedom of thought. He held that the state's purpose is to secure citizens' freedom and safety, not to save souls; religious authority should not interfere with politics and philosophical inquiry; the Bible should be read as a historical document, not as an authority in science and philosophy. These views were extremely radical in the 17th century, directly influencing the later Enlightenment and liberal political philosophy.
+In the *Theological-Political Treatise* (1670), Spinoza systematically argued for separation of 宗教 and state and freedom of thought. He held that the state's purpose is to secure citizens' freedom and safety, not to save souls; religious authority should not interfere with politics and philosophical inquiry; the Bible should be read as a historical document, not as an authority in science and 哲学. These views were extremely radical in the 17th century, directly influencing the later Enlightenment and liberal political 哲学.
 
 ## 思想脉络 / Intellectual Development
 
@@ -126,19 +126,19 @@ In the *Theological-Political Treatise* (1670), Spinoza systematically argued fo
 
 斯宾诺莎的思想发展深深扎根于两个传统：犹太哲学传统（迈蒙尼德、克雷斯卡斯、伊本·以斯拉）和近代理性主义传统（笛卡尔、培根、伽利略）。他在犹太社区中接受了扎实的希伯来文和圣经训练，同时通过弗朗西斯·范·登·恩德（Franciscus van den Enden）等导师接触了笛卡尔哲学和新科学。这种独特的双重背景使他能够以全新的视角审视传统的上帝、自然和人的关系。
 
-Spinoza's intellectual development was deeply rooted in two traditions: Jewish philosophy (Maimonides, Crescas, Ibn Ezra) and modern rationalism (Descartes, Bacon, Galileo). He received solid training in Hebrew and biblical studies in the Jewish community while encountering Cartesian philosophy and the new science through teachers like Franciscus van den Enden. This unique dual background enabled him to examine the traditional relationships between God, nature, and humanity from a completely fresh perspective.
+Spinoza's intellectual development was deeply rooted in two traditions: Jewish 哲学 (Maimonides, Crescas, Ibn Ezra) and modern rationalism (Descartes, Bacon, Galileo). He received solid training in Hebrew and biblical studies in the Jewish community while encountering Cartesian 哲学 and the new science through teachers like Franciscus van den Enden. This unique dual background enabled him to examine the traditional relationships between God, nature, and humanity from a completely fresh perspective.
 
 ### 中期：体系的建构 · Middle Period: Building the System (1660–1670)
 
 被逐出社区后，斯宾诺莎全身心投入哲学研究。他的早期著作《简论上帝、人及其幸福》（约1660年，生前未出版）已经包含了一元论和决定论的核心思想。《知性改进论》（约1662年，未完成）探讨了获得真理和最高幸福的方法论。1663年出版的《笛卡尔哲学原理》以几何学方式阐述了笛卡尔的哲学，同时隐含了对笛卡尔二元论的批判。1670年，《神学政治论》匿名出版——这是斯宾诺莎生前唯一出版的重要著作，引起了巨大的争议，被犹太教和基督教两方谴责。
 
-After his expulsion, Spinoza devoted himself entirely to philosophy. His early work *Short Treatise on God, Man, and His Well-Being* (c. 1660, unpublished in his lifetime) already contained the core ideas of monism and determinism. The *Treatise on the Improvement of the Understanding* (c. 1662, unfinished) explored methodology for attaining truth and supreme happiness. *Principles of Cartesian Philosophy* (1663) presented Descartes's philosophy in geometrical order while implicitly critiquing Cartesian dualism. The *Theological-Political Treatise* (1670), published anonymously, was Spinoza's only major work published in his lifetime — it provoked enormous controversy, condemned by both Jewish and Christian authorities.
+After his expulsion, Spinoza devoted himself entirely to 哲学. His early work *Short Treatise on God, Man, and His Well-Being* (c. 1660, unpublished in his lifetime) already contained the core ideas of monism and determinism. The *Treatise on the Improvement of the Understanding* (c. 1662, unfinished) explored methodology for attaining truth and supreme happiness. *Principles of Cartesian Philosophy* (1663) presented Descartes's 哲学 in geometrical order while implicitly critiquing Cartesian dualism. The *Theological-Political Treatise* (1670), published anonymously, was Spinoza's only major work published in his lifetime — it provoked enormous controversy, condemned by both Jewish and Christian authorities.
 
 ### 晚期：《伦理学》的完成 · Late Period: Completing the Ethics (1670–1677)
 
 斯宾诺莎的最后七年几乎全部用于完成他的巨著《以几何学方式证明的伦理学》（*Ethica, ordine geometrico demonstrata*）。这部著作分为五个部分，以定义、公理、命题、证明和附释的严格几何学形式，建构了从形而上学到伦理学的完整哲学体系。由于《神学政治论》引起的争议，斯宾诺莎不敢在生前出版《伦理学》——他将手稿锁在一个上锁的抽屉里，嘱咐友人在他死后出版。1677年，《伦理学》在他的遗著集（*Opera Posthuma*）中首次面世，从此改变了西方哲学的面貌。
 
-Spinoza's final seven years were devoted almost entirely to completing his magnum opus, *Ethics, Demonstrated in Geometrical Order* (*Ethica, ordine geometrico demonstrata*). Divided into five parts, in the strict geometrical format of definitions, axioms, propositions, demonstrations, and scholia, it constructs a complete philosophical system from metaphysics to ethics. Due to the controversy generated by the *Theological-Political Treatise*, Spinoza dared not publish the *Ethics* in his lifetime — he locked the manuscript in a desk drawer, instructing friends to publish it after his death. In 1677, the *Ethics* appeared for the first time in his *Opera Posthuma*, forever changing the face of Western philosophy.
+Spinoza's final seven years were devoted almost entirely to completing his magnum opus, *Ethics, Demonstrated in Geometrical Order* (*Ethica, ordine geometrico demonstrata*). Divided into five parts, in the strict geometrical format of definitions, axioms, propositions, demonstrations, and scholia, it constructs a complete philosophical system from metaphysics to ethics. Due to the controversy generated by the *Theological-Political Treatise*, Spinoza dared not publish the *Ethics* in his lifetime — he locked the manuscript in a desk drawer, instructing friends to publish it after his death. In 1677, the *Ethics* appeared for the first time in his *Opera Posthuma*, forever changing the face of Western 哲学.
 
 ## 关键著作 / Major Works
 
@@ -174,11 +174,11 @@ Spinoza was notorious in his lifetime, labeled an "atheist" and "Jewish apostate
 
 德国诗人和哲学家赫尔德（Herder）称他为"高贵的斯宾诺莎"（der edle Spinoza）。歌德宣称斯宾诺莎的哲学是他的"精神家园"。黑格尔甚至断言："要成为哲学家，首先必须成为斯宾诺莎主义者"（Um Philosoph zu sein, muss man erst ein Spinozist gewesen sein）。爱因斯坦被问及是否信仰上帝时回答："我信仰斯宾诺莎的上帝——那个在一切存在物的和谐中显现自身的上帝。"
 
-German poet and philosopher Herder called him "the noble Spinoza" (der edle Spinoza). Goethe declared Spinoza's philosophy his "spiritual home." Hegel even asserted: "To be a philosopher, one must first have been a Spinozist." When asked if he believed in God, Einstein replied: "I believe in Spinoza's God — who reveals himself in the harmony of all that exists."
+German poet and philosopher Herder called him "the noble Spinoza" (der edle Spinoza). Goethe declared Spinoza's 哲学 his "spiritual home." Hegel even asserted: "To be a philosopher, one must first have been a Spinozist." When asked if he believed in God, Einstein replied: "I believe in Spinoza's God — who reveals himself in the harmony of all that exists."
 
 在当代哲学中，斯宾诺莎通过德勒兹（Gilles Deleuze）的创造性诠释——《斯宾诺莎与表达问题》（1968）和《斯宾诺莎：实践哲学》（1981）——重新成为哲学焦点。德勒兹将斯宾诺莎解读为"哲学家的基督"（the Christ of philosophers），将他的伦理学解读为一种"快乐的科学"（gay science），一种肯定生命、增强行动能力的实践哲学。内格里（Antonio Negri）则将斯宾诺莎的政治哲学发展为"诸众"（multitude）理论，成为当代激进政治思想的重要资源。
 
-In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creative interpretation — *Spinoza and the Problem of Expression* (1968) and *Spinoza: Practical Philosophy* (1981). Deleuze read Spinoza as "the Christ of philosophers," interpreting his ethics as a "gay science" — an affirmative, power-enhancing practical philosophy. Antonio Negri developed Spinoza's political philosophy into the "multitude" theory, a key resource for contemporary radical political thought.
+In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creative interpretation — *Spinoza and the Problem of Expression* (1968) and *Spinoza: Practical Philosophy* (1981). Deleuze read Spinoza as "the Christ of philosophers," interpreting his ethics as a "gay science" — an affirmative, power-enhancing practical 哲学. Antonio Negri developed Spinoza's political 哲学 into the "multitude" theory, a key resource for contemporary radical political thought.
 
 ## 当代应用 / Contemporary Applications
 
@@ -198,7 +198,7 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 5. **AI Ethics**: Spinoza's determinism dialogues anew with discussions of AI decision-making and algorithmic bias — if all decisions result from necessary causal chains, what does "responsibility" mean?
 6. **Psychotherapy**: Spinoza's method of "rationally understanding affects to gain freedom" resonates in Cognitive Behavioral Therapy (CBT) — changing thoughts and affects by understanding their causal mechanisms.
 7. **Jewish Philosophy & Identity**: Spinoza as the "expelled Jewish thinker" makes him an iconic figure for Jewish modernity and secular Jewish identity.
-8. **Political Theology**: The *Theological-Political Treatise*'s arguments for separation of religion and state and biblical criticism are precursors of contemporary secularism and liberal political philosophy.
+8. **Political Theology**: The *Theological-Political Treatise*'s arguments for separation of 宗教 and state and biblical criticism are precursors of contemporary secularism and liberal political 哲学.
 
 ## 常见误读 / Common Misunderstandings
 
@@ -232,7 +232,7 @@ In contemporary philosophy, Spinoza was revived through Gilles Deleuze's creativ
 - **心灵哲学** → 泛心论的当代复兴 → [当代泛心论](../../concepts/panpsychism.md)
 - **政治哲学** → 内格里的"诸众"理论 → [Multitude](../../political-philosophy/concepts/multitude.md)
 - **生态哲学** → 深层生态学的形而上学基础 → [Deep Ecology](../../ecology/concepts/deep-ecology.md)
-- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../literature/goethe.md)
+- **文学** → 歌德的自然哲学、艾略特的"客观对应物" → [Goethe](../../文学/goethe.md)
 
 ## 进阶阅读 / Further Reading
 

@@ -1,8 +1,8 @@
 ---
-id: sociology.classical.simmel
+id: 社会学.classical.simmel
 title: 齐美尔 Georg Simmel
 type: thinker
-domain: sociology
+domain: 社会学
 school: classical
 era: 19th-20th century
 birth: 1858
@@ -41,7 +41,7 @@ sources:
 
 齐美尔的写作风格独特——随笔式的、印象主义的、充满洞见而非系统化的。这种风格使他在世时被批评为"不够科学"，但在当代却被重新评价为一种深刻的社会学美学。
 
-Simmel is the founder of formal sociology and one of the most literarily gifted thinkers in modern sociology. His central concern was not macro social structures but the "forms of sociation" (Formen der Vergesellschaftung)—the basic forms of social interaction such as domination, competition, conflict, intimacy, and estrangement. His impressionistic writing style and focus on micro-interactions made him a precursor of micro-sociology, symbolic interactionism, and network analysis.
+Simmel is the founder of formal 社会学 and one of the most literarily gifted thinkers in modern 社会学. His central concern was not macro social structures but the "forms of sociation" (Formen der Vergesellschaftung)—the basic forms of social interaction such as domination, competition, conflict, intimacy, and estrangement. His impressionistic writing style and focus on micro-interactions made him a precursor of micro-sociology, symbolic interactionism, and network analysis.
 
 ## 二、核心命题
 

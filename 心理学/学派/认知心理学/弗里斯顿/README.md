@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.friston
+id: 心理学.cognitive.friston
 title: "弗里斯顿 · Karl Friston"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1959
@@ -206,7 +206,7 @@ The concept of shared priors provides a framework for understanding culture, lan
 **✅ 正确理解**：自由能原理和预测编码获得了大量间接实验支持（重复抑制、失配负波、贝叶斯最优行为），但该框架的高度抽象性使得直接证伪仍然困难。当前研究前沿正在开发更精确的实验检验方法，特别是在精神病学计算模型和神经影像数据分析方面。
 
 **Misconception 4**: "Friston's theory has been experimentally confirmed."
-**Correction**: The free energy principle and predictive coding have received substantial indirect experimental support (repetition suppression, mismatch negativity, Bayes-optimal behavior), but the framework's high level of abstraction makes direct falsification still challenging. Current research frontiers are developing more precise experimental tests, particularly in computational models of psychiatry and neuroimaging data analysis.
+**Correction**: The free energy principle and predictive coding have received substantial indirect experimental support (repetition suppression, mismatch negativity, Bayes-optimal behavior), but the framework's high level of abstraction makes direct falsification still challenging. Current 研究 frontiers are developing more precise experimental tests, particularly in computational models of psychiatry and neuroimaging data analysis.
 
 ---
 

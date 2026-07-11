@@ -2,7 +2,7 @@
 id: wittgenstein
 title: 维特根斯坦 · Ludwig Wittgenstein
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1889
@@ -75,7 +75,7 @@ The *Tractatus* (1921), written in numbered aphorisms, is one of the most revolu
 
 维特根斯坦认为《逻辑哲学论》已解决了一切哲学问题，退出哲学界。他回奥地利当小学教师、修道院园丁，并为其妹设计了一座极简主义住宅。然而，阅读弗雷格与罗素对其思想的回应，以及与维也纳学圈的接触，使他逐步意识到前期理论的困难，于1929年重返剑桥。
 
-Believing the *Tractatus* had solved all philosophical problems, Wittgenstein left philosophy. He returned to Austria to work as a primary school teacher and monastery gardener, and designed a minimalist house for his sister. However, reading responses from Frege and Russell, and contact with the Vienna Circle, led him to recognize difficulties in his early theory. He returned to Cambridge in 1929.
+Believing the *Tractatus* had solved all philosophical problems, Wittgenstein left 哲学. He returned to Austria to work as a primary school teacher and monastery gardener, and designed a minimalist house for his sister. However, reading responses from Frege and Russell, and contact with the Vienna Circle, led him to recognize difficulties in his early theory. He returned to Cambridge in 1929.
 
 ### 后期：《哲学研究》/ Late Period: *Philosophical Investigations*
 
@@ -117,7 +117,7 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 - **心灵哲学 / Philosophy of Mind**: 私人语言论证用于反驳笛卡尔主义内在论 / Private language argument counters Cartesian internalism
 - **语言学 / Linguistics**: 语用学的哲学基础；"意义即使用"影响功能语言学 / Philosophical foundations of pragmatics
 - **人工智能 / AI**: 语言游戏概念启发语境敏感的NLP方法 / Language-game concept inspires context-sensitive NLP
-- **心理治疗 / Psychotherapy**: 治疗式哲学与叙事疗法的共鸣 / Resonance between therapeutic philosophy and narrative therapy
+- **心理治疗 / Psychotherapy**: 治疗式哲学与叙事疗法的共鸣 / Resonance between therapeutic 哲学 and narrative therapy
 - **法学 / Legal Theory**: 规则遵守问题对法律解释理论的启示 / Rule-following implications for legal interpretation
 
 ## 常见误读 / Common Misreadings
@@ -136,7 +136,7 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 4. **误读**: 以为维特根斯坦是"反哲学"的。
    **澄清**: 他反对的是产生伪问题的传统哲学方式，但《哲学研究》本身就是一部哲学巨著。他的目标是让哲学变得更清明，而非取消哲学。
-   *He opposed the traditional philosophical method that generates pseudo-problems, not philosophy itself.*
+   *He opposed the traditional philosophical method that generates pseudo-problems, not 哲学 itself.*
 
 ## 东西方对话 / East-West Dialogue
 
@@ -151,11 +151,11 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../religion/buddhism/concepts/cognitive-theory/diamond-sutra-non-attachment.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
-- [公案与话头的认知机制 · Koan Mechanics](../../../religion/buddhism/concepts/cognitive-theory/koan-mechanics.md) `[平行/parallel]` "不可说"的呈现方式
-- [量论 · Pramana](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
-- [七处征心 · Seven Places of Mind-Seeking](../../../religion/buddhism/concepts/cognitive-theory/qichu-zhengxin.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
-- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行/parallel]` "用完即弃"与"不执二谛"
+- [金刚经·无相 · Diamond Sutra: Non-Attachment](../../../宗教/佛教/概念/cognitive-theory/金刚经.md) `[平行/parallel]` 意义在于使用中，不住于固定的"意义"
+- [公案与话头的认知机制 · Koan Mechanics](../../../宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md) `[平行/parallel]` "不可说"的呈现方式
+- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[张力/tension]` 自证的"不可说性"与私人语言论证
+- [七处征心 · Seven Places of Mind-Seeking](../../../宗教/佛教/概念/cognitive-theory/七处征心.md) `[平行/parallel]` 语言不能表达的，可以通过行动指向
+- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` "用完即弃"与"不执二谛"
 - [罗素 Russell](../russell/README.md) `[同源/kindred]` 逻辑原子主义的分歧
 - [卡尔纳普 Carnap](../carnap/README.md) `[影响/influence]` 语言批判的两种路线
 

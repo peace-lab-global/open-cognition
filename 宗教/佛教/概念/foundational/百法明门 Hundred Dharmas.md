@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.hundred-dharmas
+id: 宗教.buddhism.core.hundred-dharmas
 title: 百法明门 Hundred Dharmas
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 tags: [百法明门, 唯识百法, 心法, 心所法, 色法]
@@ -88,8 +88,8 @@ sources: [《大乘百法明门论》（世亲著，玄奘译）]
 
 ## 跨学科关联
 
-- [康德 · 范畴表](../../../philosophy/schools/german-idealism/kant.md) — [平行] 百法 vs 十二范畴
-- [皮亚杰 · 认知结构](../../../psychology/schools/cognitive/piaget.md) — [平行] 心所法 vs 认知图式
+- [康德 · 范畴表](../../../哲学/学派/德国唯心论/康德.md) — [平行] 百法 vs 十二范畴
+- [皮亚杰 · 认知结构](../../../心理学/学派/认知心理学/皮亚杰.md) — [平行] 心所法 vs 认知图式
 
 ## 进阶阅读
 

@@ -3,7 +3,7 @@ id: taixu-humanistic-buddhism
 title: "人生佛教 Humanistic Buddhism: 太虚的佛教人本主义纲领"
 type: concept
 parent: taixu
-domain: religion
+domain: 宗教
 tags: [humanistic-buddhism, renjian-fojiao, rensheng-fojiao, buddhist-humanism, engaged-buddhism, modern-buddhism]
 ---
 

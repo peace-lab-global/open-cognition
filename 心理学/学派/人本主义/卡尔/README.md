@@ -2,7 +2,7 @@
 id: rogers
 title: "卡尔·罗杰斯 · Carl Rogers"
 type: thinker
-domain: psychology
+domain: 心理学
 school: humanistic
 era: modern
 birth: 1902
@@ -63,7 +63,7 @@ sub-entries:
 
 卡尔·罗杰斯（Carl Ransom Rogers, 1902–1987）是二十世纪最具影响力的美国心理学家之一，与亚伯拉罕·马斯洛（Abraham Maslow）共同奠定了人本主义心理学的理论基础。他创立的来访者中心疗法（Client-Centered Therapy）从根本上改变了心理治疗的面貌，将治疗关系从权威—服从的模式转变为平等—合作的伙伴关系。他的思想远远超出了心理治疗的范畴，深刻影响了教育、管理、冲突调解、跨文化交流等多个领域。
 
-Carl Ransom Rogers (1902–1987) was one of the most influential American psychologists of the twentieth century. Together with Abraham Maslow, he laid the theoretical foundations of humanistic psychology. His Client-Centered Therapy fundamentally transformed the landscape of psychotherapy, shifting the therapeutic relationship from an authority-compliance model to an egalitarian partnership. His ideas extended far beyond the consulting room, profoundly influencing education, management, conflict resolution, and cross-cultural communication.
+Carl Ransom Rogers (1902–1987) was one of the most influential American psychologists of the twentieth century. Together with Abraham Maslow, he laid the theoretical foundations of humanistic 心理学. His Client-Centered Therapy fundamentally transformed the landscape of psychotherapy, shifting the therapeutic relationship from an authority-compliance model to an egalitarian partnership. His ideas extended far beyond the consulting room, profoundly influencing education, management, conflict resolution, and cross-cultural communication.
 
 ---
 
@@ -113,7 +113,7 @@ Genuine interpersonal relationships possess profound transformative power. When 
 
 罗杰斯出生于伊利诺伊州奥克帕克一个严格的基督教家庭，童年在威斯康星州农场度过。他就读威斯康星大学时最初学习农业，但在参加基督教青年会活动后转向历史学。1922年赴中国旅行六个月，这段跨文化经历深刻动摇了他的宗教基要主义信仰。之后进入纽约协和神学院，最终转入哥伦比亚大学师范学院攻读临床与教育心理学。
 
-Rogers was born into a strict Protestant family in Oak Park, Illinois, and spent his childhood on a Wisconsin farm. He initially studied agriculture at the University of Wisconsin before turning to history after involvement with YMCA activities. A six-month trip to China in 1922 profoundly shook his fundamentalist religious beliefs. He then entered Union Theological Seminary in New York before transferring to Teachers College, Columbia University, to study clinical and educational psychology.
+Rogers was born into a strict Protestant family in Oak Park, Illinois, and spent his childhood on a Wisconsin farm. He initially studied agriculture at the University of Wisconsin before turning to history after involvement with YMCA activities. A six-month trip to China in 1922 profoundly shook his fundamentalist religious beliefs. He then entered Union Theological Seminary in New York before transferring to Teachers College, Columbia University, to study clinical and educational 心理学.
 
 1928年，他在罗切斯特儿童指导诊所开始职业生涯。十二年与受虐儿童和家庭的工作经历让他逐渐对传统精神分析的权威模式产生质疑。他发现，当他放弃专家姿态、真正倾听来访者时，治疗效果反而显著提升。这一时期的结晶是1939年出版的《问题儿童的临床治疗》（*The Clinical Treatment of the Problem Child*）。
 
@@ -123,21 +123,21 @@ In 1928 he began his career at the Rochester Child Guidance Clinic. Twelve years
 
 1940年代，罗杰斯在俄亥俄州立大学和芝加哥大学系统阐述了他的治疗方法。1942年出版的《咨询与心理治疗》（*Counseling and Psychotherapy: Newer Concepts in Practice*）首次提出了非指导性治疗的理念，标志着与精神分析和行为主义的分道扬镳。1951年的《来访者中心疗法》（*Client-Centered Therapy*）则是这一范式的集大成之作，完整阐述了理论框架、治疗过程和实证研究方法。
 
-In the 1940s, Rogers systematically articulated his therapeutic approach at Ohio State University and the University of Chicago. *Counseling and Psychotherapy* (1942) first introduced the concept of nondirective therapy, marking a break with psychoanalysis and behaviorism. *Client-Centered Therapy* (1951) was the culminating work, presenting a complete theoretical framework, therapeutic process, and empirical research methodology.
+In the 1940s, Rogers systematically articulated his therapeutic approach at Ohio State University and the University of Chicago. *Counseling and Psychotherapy* (1942) first introduced the concept of nondirective therapy, marking a break with psychoanalysis and behaviorism. *Client-Centered Therapy* (1951) was the culminating work, presenting a complete theoretical framework, therapeutic process, and empirical 研究 methodology.
 
 这一时期他最重要的贡献是将治疗过程纳入科学研究的视野。他在芝加哥大学建立了咨询中心，系统录制和分析治疗会话，开创了心理治疗过程研究的先河。他的研究生团队发展出了Q分类法等研究工具，使来访者的主观经验变化可以被量化测量。
 
-His most important contribution during this period was bringing the therapeutic process under scientific investigation. He established a counseling center at the University of Chicago, systematically recording and analyzing therapy sessions, pioneering psychotherapy process research. His graduate team developed research tools such as the Q-sort technique, enabling quantitative measurement of changes in clients' subjective experience.
+His most important contribution during this period was bringing the therapeutic process under scientific investigation. He established a counseling center at the University of Chicago, systematically recording and analyzing therapy sessions, pioneering psychotherapy process 研究. His graduate team developed 研究 tools such as the Q-sort technique, enabling quantitative measurement of changes in clients' subjective experience.
 
 ### 第三期：从治疗到人的哲学（1963–1987）/ Phase 3: From Therapy to a Philosophy of Persons
 
 1961年出版的《论人的成长》（*On Becoming a Person*）标志着罗杰斯思想从心理治疗向更广阔的人文哲学的转变。他将治疗中的发现应用于教育（《自由学习》，*Freedom to Learn*, 1969）、团体过程（encounter groups）、管理咨询和国际冲突调解。
 
-*On Becoming a Person* (1961) marked a shift from psychotherapy to a broader humanistic philosophy. He applied his therapeutic discoveries to education (*Freedom to Learn*, 1969), encounter groups, management consulting, and international conflict mediation.
+*On Becoming a Person* (1961) marked a shift from psychotherapy to a broader humanistic 哲学. He applied his therapeutic discoveries to education (*Freedom to Learn*, 1969), encounter groups, management consulting, and international conflict mediation.
 
 1964年移居加州拉霍亚后，他的工作进一步拓展到跨文化和国际领域。他主持了多次国际冲突调解工作坊，包括北爱尔兰天主教与新教社区之间的对话、南非种族和解进程。1980年的《一种存在方式》（*A Way of Being*）是他晚年思想的结晶，将毕生的洞见提炼为一种以人为本的生活哲学。他在生命的最后几年获得诺贝尔和平奖提名，以表彰其在促进人类理解与和平方面的贡献。
 
-After moving to La Jolla, California in 1964, his work expanded into cross-cultural and international domains. He facilitated international conflict resolution workshops, including dialogues between Catholic and Protestant communities in Northern Ireland and racial reconciliation processes in South Africa. *A Way of Being* (1980) was the crystallization of his late thought, distilling lifelong insights into a person-centered philosophy of living. In his final years he was nominated for the Nobel Peace Prize in recognition of his contributions to human understanding and peace.
+After moving to La Jolla, California in 1964, his work expanded into cross-cultural and international domains. He facilitated international conflict resolution workshops, including dialogues between Catholic and Protestant communities in Northern Ireland and racial reconciliation processes in South Africa. *A Way of Being* (1980) was the crystallization of his late thought, distilling lifelong insights into a person-centered 哲学 of living. In his final years he was nominated for the Nobel Peace Prize in recognition of his contributions to human understanding and peace.
 
 ---
 
@@ -252,7 +252,7 @@ In an era where social media and AI increasingly permeate interpersonal relation
 
 ### ❌ Misreading 2: "Rogers neglected technique and method, focusing only on attitudes and feelings"
 
-**✅ Correction**: Rogers did not reject technique but regarded the relationship itself as the most fundamental "technique." His approach was highly systematic, with precisely defined therapeutic conditions, process stage descriptions, and measurable outcome variables. His systematic recording and quantitative analysis of therapy sessions pioneered empirical psychotherapy research.
+**✅ Correction**: Rogers did not reject technique but regarded the relationship itself as the most fundamental "technique." His approach was highly systematic, with precisely defined therapeutic conditions, process stage descriptions, and measurable outcome variables. His systematic recording and quantitative analysis of therapy sessions pioneered empirical psychotherapy 研究.
 
 ### ❌ 误读三："罗杰斯认为人天生善良，不需要社会化"
 

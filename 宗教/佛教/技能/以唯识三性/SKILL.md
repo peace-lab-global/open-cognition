@@ -1,7 +1,7 @@
 ---
 name: three-natures-diagnosis
 description: 以唯识三性（遍计所执、依他起、圆成实）为诊断框架，识别当前经验在哪一性上运作，以及如何从遍计所执回归依他起、照见圆成实。Triggers on 经验被概念、叙事、投射严重扭曲；或需要在"实有"与"虚无"之间找到中道认知。
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 linked_concepts:
   - ../../concepts/cognitive-theory/three-natures.md
@@ -161,5 +161,5 @@ tags:
 
 - 概念：[三性](../../concepts/cognitive-theory/three-natures.md)
 - 相关 Skill：[种子模式分析](../bija-pattern-analysis/SKILL.md)
-- 跨传统：[贝克 · 认知歪曲](../../../../psychology/schools/cognitive/beck.md)（平行）——遍计所执 ≈ 认知歪曲
-- 跨传统：[胡塞尔 · 现象学还原](../../../../philosophy/schools/phenomenology/husserl.md)（平行）——悬置 ≈ 中止遍计
+- 跨传统：[贝克 · 认知歪曲](../../../../心理学/学派/认知心理学/贝克.md)（平行）——遍计所执 ≈ 认知歪曲
+- 跨传统：[胡塞尔 · 现象学还原](../../../../哲学/学派/现象学/胡塞尔.md)（平行）——悬置 ≈ 中止遍计

@@ -13,8 +13,8 @@
 |---|---|
 | 总 `.md` 文件 | **790** |
 | 被索引条目（index.json） | **431 条目 + 126 Skills = 557** |
-| 领域 | 9 个（philosophy / religion / sociology / psychology / ethics-politics / aesthetics / literature / arts / cognitive-systems） |
-| 内容分布 | religion 193 文件（最重）、cognitive-systems 58、philosophy/psychology 各 51 |
+| 领域 | 9 个（philosophy / 宗教 / 社会学 / 心理学 / 伦理政治 / 美学 / 文学 / 艺术 / cognitive-systems） |
+| 内容分布 | 宗教 193 文件（最重）、cognitive-systems 58、philosophy/psychology 各 51 |
 | 工程基建 | ✅ lint 脚本、✅ CI（Lint + GitHub Pages 双 workflow）、✅ index 构建器、✅ 模板、✅ 质量标准、✅ 贡献指南、✅ CC BY-SA 4.0 License |
 
 **架构设计是本项目的强项**：思想家/概念/Skill 三类条目有固定 schema，frontmatter 规范统一，跨学科关联有显式标注（`[同源]/[互补]/[对立]…`），Skill 可被 Agent 直接调用。这是少见的高完成度"知识库即软件"工程。
@@ -101,8 +101,8 @@ README 徽章和表格宣称：
 | **P0** | 更新 README 徽章/表格数字至 208/210/126 | 对外信息准确 |
 | **P1** | 删除 `scripts/lint 2.py`；修 `build-index --check` 误报 | 仓库卫生 + CI 不误判 |
 | **P1** | 处理 `eight-consciousness` 等重复文件（合并或重定向） | 消除链接歧义 |
-| **P2** | 补齐 sociology 概念文件的 `school` 字段和缺失章节 | 提升 W004/E002 集中区质量 |
-| **P2** | 推进路线图 v0.10：英文版 + 可视化关联图谱 | 平衡 religion 一家独大 |
+| **P2** | 补齐 社会学 概念文件的 `school` 字段和缺失章节 | 提升 W004/E002 集中区质量 |
+| **P2** | 推进路线图 v0.10：英文版 + 可视化关联图谱 | 平衡 宗教 一家独大 |
 
 ---
 

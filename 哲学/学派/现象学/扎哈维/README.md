@@ -1,8 +1,8 @@
 ---
-id: philosophy.phenomenology.zahavi
+id: 哲学.phenomenology.zahavi
 title: 扎哈维 · Dan Zahavi
 type: thinker
-domain: philosophy
+domain: 哲学
 school: phenomenology
 era: contemporary
 birth: 1967

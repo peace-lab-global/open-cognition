@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sastra.madhyamakavatara
+id: 宗教.buddhism.sastra.madhyamakavatara
 title: 入中论 Madhyamakāvatāra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: ancient
 tags: [入中论, 月称, 应成中观, 十地, 六度, 藏传中观]

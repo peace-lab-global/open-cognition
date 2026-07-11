@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.beeman
+id: 心理学.cognitive.beeman
 title: "比曼 · Mark Beeman"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1960
@@ -69,7 +69,7 @@ Insight is more likely to occur during states of diffuse attention rather than h
 
 积极情绪（positive mood）有利于顿悟型问题解决，而焦虑和压力则倾向于窄化注意力、抑制右脑的远距离联想。Beeman 的研究表明，心情好的被试在远距离联想测验（Remote Associates Test, RAT）上的表现显著优于心情差的被试。这为"快乐促进创造力"提供了直接的神经证据。
 
-Positive mood facilitates insight problem-solving, while anxiety and stress tend to narrow attention and inhibit the right hemisphere's remote associations. Beeman's research showed that participants in a positive mood performed significantly better on the Remote Associates Test (RAT) than those in a negative mood. This provides direct neural evidence that "happiness promotes creativity."
+Positive mood facilitates insight problem-solving, while anxiety and stress tend to narrow attention and inhibit the right hemisphere's remote associations. Beeman's 研究 showed that participants in a positive mood performed significantly better on the Remote Associates Test (RAT) than those in a negative mood. This provides direct neural evidence that "happiness promotes creativity."
 
 ---
 
@@ -79,19 +79,19 @@ Positive mood facilitates insight problem-solving, while anxiety and stress tend
 
 Beeman 的早期研究集中在右半球在语言理解中的角色。他在 1998 年提出的"粗语义编码"（coarse semantic coding）理论指出，右脑并非"语言缺陷"的半球，而是拥有与左脑互补的语义处理策略——左脑进行精细、选择性的语义激活，右脑维持宽泛、弥散的语义场。这一理论为后来解释右脑在创造性思维中的优势奠定了基础。
 
-Beeman's early research focused on the right hemisphere's role in language comprehension. His 1998 "coarse semantic coding" theory proposed that the right hemisphere is not a "language-deficient" hemisphere but rather possesses a semantic processing strategy complementary to the left — the left hemisphere performs fine-grained, selective semantic activation while the right maintains a broad, diffuse semantic field. This theory laid the foundation for later explaining the right hemisphere's advantage in creative thinking.
+Beeman's early 研究 focused on the right hemisphere's role in language comprehension. His 1998 "coarse semantic coding" theory proposed that the right hemisphere is not a "language-deficient" hemisphere but rather possesses a semantic processing strategy complementary to the left — the left hemisphere performs fine-grained, selective semantic activation while the right maintains a broad, diffuse semantic field. This theory laid the foundation for later explaining the right hemisphere's advantage in creative thinking.
 
 ### 第二阶段：顿悟的神经机制研究（2004–2011）/ Phase 2: Neural Mechanisms of Insight (2004–2011)
 
 与 Drexel 大学的 John Kounios 合作，Beeman 将研究焦点转向顿悟的神经机制。这一时期使用 EEG 和 fMRI 双模态技术，在远距离联想测验（RAT）和复合远距离联想（compound remote associates, CRA）任务中系统研究了顿悟与分析两种问题解决方式的神经差异。2004 年发表于 *PLoS Biology* 的论文首次报告了顿悟时刻右 aSTG 的 γ 波爆发，2006 年进一步揭示了顿悟前的 α 波变化模式。2009 年发表于 *Current Directions in Psychological Science* 的综述 "The Aha! Moment" 系统总结了这一阶段的研究成果。
 
-Collaborating with John Kounios at Drexel University, Beeman shifted his research focus to the neural mechanisms of insight. During this period, using dual-modality EEG and fMRI techniques, they systematically studied the neural differences between insight and analytic problem-solving in the Remote Associates Test (RAT) and Compound Remote Associates (CRA) tasks. Their 2004 paper in *PLoS Biology* first reported the gamma burst in the right aSTG during the insight moment, and a 2006 study further revealed pre-insight alpha wave changes. The 2009 review "The Aha! Moment" in *Current Directions in Psychological Science* systematically summarized the research findings of this phase.
+Collaborating with John Kounios at Drexel University, Beeman shifted his 研究 focus to the neural mechanisms of insight. During this period, using dual-modality EEG and fMRI techniques, they systematically studied the neural differences between insight and analytic problem-solving in the Remote Associates Test (RAT) and Compound Remote Associates (CRA) tasks. Their 2004 paper in *PLoS Biology* first reported the gamma burst in the right aSTG during the insight moment, and a 2006 study further revealed pre-insight alpha wave changes. The 2009 review "The Aha! Moment" in *Current Directions in Psychological Science* systematically summarized the 研究 findings of this phase.
 
 ### 第三阶段：整合与公众传播（2012–至今）/ Phase 3: Integration and Public Engagement (2012–present)
 
 2015 年，Beeman 与 Kounios 合著 *The Eureka Factor: Aha! Moments, Creative Insight, and the Brain*，将实验室发现转化为面向公众的科普著作。书中不仅总结了顿悟的神经科学，还探讨了如何在日常生活中培养创造性思维——包括环境设计、情绪调节、注意力管理等实践策略。近年来，Beeman 的研究进一步扩展到顿悟的个体差异、顿悟与心理健康的关系等领域。
 
-In 2015, Beeman and Kounios co-authored *The Eureka Factor: Aha! Moments, Creative Insight, and the Brain*, translating laboratory findings into a popular science book. The book not only summarizes the neuroscience of insight but also explores how to cultivate creative thinking in daily life — including environmental design, mood regulation, and attention management strategies. In recent years, Beeman's research has further expanded to individual differences in insight and the relationship between insight and mental health.
+In 2015, Beeman and Kounios co-authored *The Eureka Factor: Aha! Moments, Creative Insight, and the Brain*, translating laboratory findings into a popular science book. The book not only summarizes the neuroscience of insight but also explores how to cultivate creative thinking in daily life — including environmental design, mood regulation, and attention management strategies. In recent years, Beeman's 研究 has further expanded to individual differences in insight and the relationship between insight and mental health.
 
 ---
 
@@ -99,7 +99,7 @@ In 2015, Beeman and Kounios co-authored *The Eureka Factor: Aha! Moments, Creati
 
 | 年份 / Year | 著作 / Work | 类型 / Type | 意义 / Significance |
 |---|---|---|---|
-| 1993 | "Right hemisphere semantic processing" | 期刊论文 / Journal Article | 早期右脑语义研究奠基 / Foundation for early right hemisphere semantic research |
+| 1993 | "Right hemisphere semantic processing" | 期刊论文 / Journal Article | 早期右脑语义研究奠基 / Foundation for early right hemisphere semantic 研究 |
 | 1998 | "Coarse semantic coding" (with Bowden) | 期刊论文 / Journal Article | 提出右脑粗编码理论 / Proposed right hemisphere coarse coding theory |
 | 1998 | "Getting the right idea" (Bowden & Beeman) | 期刊论文 / Journal Article | 首次将右脑语义理论与问题解决联系 / First link between right hemisphere semantics and problem-solving |
 | 2004 | "Insight and the right hemisphere" (*PLoS Biology*) | 期刊论文 / Journal Article | 首次报告顿悟的 γ 波信号 / First report of insight gamma signal |
@@ -113,7 +113,7 @@ In 2015, Beeman and Kounios co-authored *The Eureka Factor: Aha! Moments, Creati
 
 Beeman 的研究围绕以下核心概念展开，每个概念均有独立条目：
 
-Beeman's research revolves around the following core concepts, each with its own dedicated entry:
+Beeman's 研究 revolves around the following core concepts, each with its own dedicated entry:
 
 1. **顿悟 / Insight** — 一种突然意识到问题解决方案的认知事件，具有跃迁性、不可追溯性和强烈确定感。→ [insight](concepts/insight.md)
 
@@ -171,7 +171,7 @@ Beeman's research revolves around the following core concepts, each with its own
 
 - **神经美学与创造力的桥梁**：Beeman 的顿悟研究为神经美学（neuroaesthetics）和创造力的神经科学搭建了桥梁——理解"灵感如何产生"是理解"美如何被创造"的前提。
 
-  **Bridge Between Neuroaesthetics and Creativity**: Beeman's insight research bridges neuroaesthetics and the neuroscience of creativity — understanding "how inspiration arises" is a prerequisite for understanding "how beauty is created."
+  **Bridge Between Neuroaesthetics and Creativity**: Beeman's insight 研究 bridges neuroaesthetics and the neuroscience of creativity — understanding "how inspiration arises" is a prerequisite for understanding "how beauty is created."
 
 ---
 
@@ -218,7 +218,7 @@ Beeman's research revolves around the following core concepts, each with its own
 
 ✅ **纠正**：这是流行心理学对 Beeman 研究的过度简化。顿悟需要左右脑的协同——右脑在远距离联想上有优势，但分析和创造性思维都需要双侧半球的参与。Beeman 本人多次强调，左右脑的区分不是"创造性 vs 逻辑性"，而是"粗编码 vs 精细编码"的语义处理策略差异。
 
-✅ **Correction**: This is pop psychology's oversimplification of Beeman's research. Insight requires coordination between both hemispheres — the right hemisphere has an advantage in remote association, but both analytic and creative thinking require bilateral participation. Beeman himself has repeatedly emphasized that the left-right distinction is not "creative vs logical" but rather a difference in semantic processing strategies: "coarse coding vs fine coding."
+✅ **Correction**: This is pop psychology's oversimplification of Beeman's 研究. Insight requires coordination between both hemispheres — the right hemisphere has an advantage in remote association, but both analytic and creative thinking require bilateral participation. Beeman himself has repeatedly emphasized that the left-right distinction is not "creative vs logical" but rather a difference in semantic processing strategies: "coarse coding vs fine coding."
 
 ### ❌ 误读 2："顿悟比分析更高级"
 ### ❌ Misreading 2: "Insight is superior to analysis"
@@ -239,7 +239,7 @@ Beeman's research revolves around the following core concepts, each with its own
 
 ✅ **纠正**：放松的注意力状态有利于顿悟，但并非充分条件。顿悟还需要充分的知识储备（领域专长）、有效的问题表征和足够的前期分析（"准备期"）。Beeman 的研究表明，顿悟是"有准备的头脑"在放松状态下完成远距离联想的结果，而非纯粹的"灵光乍现"。
 
-✅ **Correction**: A relaxed attentional state facilitates insight but is not a sufficient condition. Insight also requires adequate knowledge (domain expertise), effective problem representation, and sufficient prior analysis (the "preparation period"). Beeman's research shows that insight is the result of a "prepared mind" completing remote associations in a relaxed state, not a pure "flash of inspiration."
+✅ **Correction**: A relaxed attentional state facilitates insight but is not a sufficient condition. Insight also requires adequate knowledge (domain expertise), effective problem representation, and sufficient prior analysis (the "preparation period"). Beeman's 研究 shows that insight is the result of a "prepared mind" completing remote associations in a relaxed state, not a pure "flash of inspiration."
 
 ---
 
@@ -247,15 +247,15 @@ Beeman's research revolves around the following core concepts, each with its own
 
 Beeman 的顿悟研究与东方传统中的"悟"的概念形成了深刻的跨文化对话。
 
-Beeman's insight research forms a profound cross-cultural dialogue with the concept of "awakening" (wu) in Eastern traditions.
+Beeman's insight 研究 forms a profound cross-cultural dialogue with the concept of "awakening" (wu) in Eastern traditions.
 
 **禅宗顿悟（satori）与 Aha! 时刻**：禅宗修行者通过公案（koan）参究追求"顿悟"——对自性和实相的直接领悟。Beeman 的神经科学发现，顿悟涉及远距离语义节点的突然整合和右脑 γ 波的爆发。禅宗的公案设计——用非逻辑的悖论性问题（如"什么是佛祖西来意"）迫使思维突破常规——与现代心理学中的远距离联想任务有结构性相似。
 
-**Zen Satori and the Aha! Moment**: Zen practitioners pursue "sudden awakening" through koan contemplation — a direct apprehension of self-nature and reality. Beeman's neuroscience findings show that insight involves the sudden integration of remote semantic nodes and gamma bursts in the right hemisphere. The design of Zen koans — using non-logical paradoxical questions (such as "What is the meaning of the Patriarch's coming from the West?") to force thinking beyond conventional patterns — bears a structural similarity to remote association tasks in modern psychology.
+**Zen Satori and the Aha! Moment**: Zen practitioners pursue "sudden awakening" through koan contemplation — a direct apprehension of self-nature and reality. Beeman's neuroscience findings show that insight involves the sudden integration of remote semantic nodes and gamma bursts in the right hemisphere. The design of Zen koans — using non-logical paradoxical questions (such as "What is the meaning of the Patriarch's coming from the West?") to force thinking beyond conventional patterns — bears a structural similarity to remote association tasks in modern 心理学.
 
 **道家的"无为"与扩散注意力**：道家"无为"（wu wei）的哲学——不刻意追求而自然达成——与 Beeman 发现的"扩散注意力有利于顿悟"形成了有趣的平行。"为学日益，为道日损"（《道德经》第四十八章）暗示，在知识积累之后的"放下"阶段恰恰是洞见产生的条件。
 
-**Daoist Wu Wei and Diffuse Attention**: The Daoist philosophy of "wu wei" (effortless action) — achieving naturally without deliberate pursuit — forms an interesting parallel with Beeman's finding that diffuse attention facilitates insight. "In the pursuit of learning, every day something is gained; in the pursuit of the Dao, every day something is let go" (Daodejing, Chapter 48) suggests that the "letting go" phase after knowledge accumulation is precisely the condition for insight to emerge.
+**Daoist Wu Wei and Diffuse Attention**: The Daoist 哲学 of "wu wei" (effortless action) — achieving naturally without deliberate pursuit — forms an interesting parallel with Beeman's finding that diffuse attention facilitates insight. "In the pursuit of learning, every day something is gained; in the pursuit of the Dao, every day something is let go" (Daodejing, Chapter 48) suggests that the "letting go" phase after knowledge accumulation is precisely the condition for insight to emerge.
 
 **儒家"格物致知"与分析-顿悟互补**：朱熹的"格物致知"强调通过对事物的深入研究而达到领悟，这与 Beeman 的"准备期→孵化期→顿悟"模型形成呼应——充分的分析准备是顿悟的前提。
 

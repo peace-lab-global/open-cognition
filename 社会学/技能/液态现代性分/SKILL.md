@@ -1,11 +1,11 @@
 ---
 name: liquid-modernity-analysis
 description: Triggers on requests to 液态现代性、消费社会、全球化，如社会变迁分析、文化研究、个人身份认同等。Apply this skill to analyze the characteristics of liquid modernity, including fluidity, uncertainty, and individualization.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/modernity/bauman.md
 linked_concepts:
-  - ../../sociology/concepts/liquid-modernity.md
-  - ../../sociology/concepts/consumer-society.md
+  - ../../社会学/概念/liquid-modernity.md
+  - ../../社会学/概念/consumer-society.md
 tags:
   - 液态现代性
   - 消费社会

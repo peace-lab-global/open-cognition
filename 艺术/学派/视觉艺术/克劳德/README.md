@@ -2,7 +2,7 @@
 id: monet
 title: "克劳德·莫奈 · Claude Monet"
 type: thinker
-domain: arts
+domain: 艺术
 school: visual-arts
 era: modern
 birth: 1840
@@ -81,7 +81,7 @@ Leaving the studio and entering nature is Impressionism's most fundamental metho
 
 **6. 花园即作品 / The Garden as Artwork**
 莫奈晚年将吉维尼的花园本身视为创作——他设计水面、种植花卉、安排色彩，使花园成为一件活的绘画。这模糊了"描绘自然"与"创造自然"的边界，预示了当代环境艺术与生态美学。
-In his later years, Monet treated the Giverny garden itself as a creation — he designed the water surfaces, planted flowers, and arranged colors, making the garden a living painting. This blurred the boundary between "depicting nature" and "creating nature," prefiguring contemporary environmental art and ecological aesthetics.
+In his later years, Monet treated the Giverny garden itself as a creation — he designed the water surfaces, planted flowers, and arranged colors, making the garden a living painting. This blurred the boundary between "depicting nature" and "creating nature," prefiguring contemporary environmental art and ecological 美学.
 
 ## 思想脉络 / Intellectual Development
 
@@ -138,7 +138,7 @@ In his later years, Monet devoted all his energy to the water-lily pond at Giver
 
 2. **户外写生 / [Plein-air](concepts/plein-air.md)** — 离开画室、在自然光下直接作画的方法论与认识论立场。The methodological and epistemological stance of painting directly from nature, outside the studio.
 
-3. **系列绘画 / [Series Paintings](concepts/series-paintings.md)** — 对同一母题在不同光、季、时下反复绘制的研究方法与视觉认识论。The research method and visual epistemology of painting the same motif repeatedly under varying conditions.
+3. **系列绘画 / [Series Paintings](concepts/series-paintings.md)** — 对同一母题在不同光、季、时下反复绘制的研究方法与视觉认识论。The 研究 method and visual epistemology of painting the same motif repeatedly under varying conditions.
 
 4. **光与知觉 / [Light and Perception](concepts/light-perception.md)** — 莫奈以绘画探究人类视觉机制与知觉条件性的核心命题。Monet's central thesis of using painting to investigate human visual mechanisms and the conditionality of perception.
 
@@ -156,15 +156,15 @@ In his later years, Monet devoted all his energy to the water-lily pond at Giver
 
 ## 思想坐标 / Intellectual Coordinates
 
-- **承接 / Inherits**: 布丹的户外写生传统 (Boudin's plein-air tradition); 柯罗与巴比松画派对自然的直接面对 (Corot and the Barbizon school's direct confrontation with nature); 透纳的大气与光效研究 (Turner's studies of atmosphere and light effects); 日本浮世绘的平面化美学 (Japanese ukiyo-e's flattened aesthetics); 谢弗勒尔与鲁德的色彩科学 (Chevreul's and Rood's color science).
+- **承接 / Inherits**: 布丹的户外写生传统 (Boudin's plein-air tradition); 柯罗与巴比松画派对自然的直接面对 (Corot and the Barbizon school's direct confrontation with nature); 透纳的大气与光效研究 (Turner's studies of atmosphere and light effects); 日本浮世绘的平面化美学 (Japanese ukiyo-e's flattened 美学); 谢弗勒尔与鲁德的色彩科学 (Chevreul's and Rood's color science).
 - **批判 / Critiques**: 学院派沙龙的程式化暗调与"完成度"标准 (Academic Salon's formulaic dark tonality and "finish" standards); 古典主义的理想化构图与色彩 (Classicism's idealized composition and coloring); 写实主义对"客观真实"的天真信念 (Realism's naive faith in "objective truth").
-- **影响 / Influences**: 后印象派——梵高、塞尚、修拉 (Post-Impressionism: Van Gogh, Cézanne, Seurat); 抽象表现主义——波洛克、罗斯科 (Abstract Expressionism: Pollock, Rothko); 当代色彩科学与视觉心理学 (Contemporary color science and visual psychology); 沉浸式艺术与数字媒体 (Immersive art and digital media); 环境艺术与生态美学 (Environmental art and ecological aesthetics).
+- **影响 / Influences**: 后印象派——梵高、塞尚、修拉 (Post-Impressionism: Van Gogh, Cézanne, Seurat); 抽象表现主义——波洛克、罗斯科 (Abstract Expressionism: Pollock, Rothko); 当代色彩科学与视觉心理学 (Contemporary color science and visual 心理学); 沉浸式艺术与数字媒体 (Immersive art and digital media); 环境艺术与生态美学 (Environmental art and ecological 美学).
 
 ## 当代应用 / Contemporary Applications
 
 1. **色彩科学与视觉生理学 / Color Science and Visual Physiology**
 印象派的色彩并置与当代色彩恒常性（color constancy）、视觉混色（optical mixing）和神经美学研究形成持续对话。莫奈的经验性发现已被实验心理学验证和理论化。
-Impressionist color juxtaposition maintains ongoing dialogue with contemporary color constancy, optical mixing, and neuroaesthetics research. Monet's empirical discoveries have been validated and theorized by experimental psychology.
+Impressionist color juxtaposition maintains ongoing dialogue with contemporary color constancy, optical mixing, and neuroaesthetics 研究. Monet's empirical discoveries have been validated and theorized by experimental 心理学.
 
 2. **沉浸式展览 / Immersive Exhibitions**
 数字投影的"莫奈沉浸展"（如 *Monet & Friends Immersive*）在全球巡回，成为艺术大众化的新范式，同时引发关于原作灵光（aura）与复制体验之间关系的讨论。
@@ -202,7 +202,7 @@ Broken brushwork is a highly self-conscious technique backed by rigorous color t
 
 **❌ "莫奈只画漂亮风景，与思想无关。" / "Monet only painted pretty landscapes, nothing to do with ideas."**
 **✅** 莫奈以系列方法把绘画变成关于"看"的实验，是一种认识论层面的视觉革命。他追问的不是"世界是什么"，而是"我们如何看见世界"——这与现象学、知觉心理学形成深刻的思想共振。
-Monet transformed painting into an experiment about "seeing" through his series method — an epistemological visual revolution. His question was not "what is the world" but "how do we see the world" — resonating profoundly with phenomenology and perceptual psychology.
+Monet transformed painting into an experiment about "seeing" through his series method — an epistemological visual revolution. His question was not "what is the world" but "how do we see the world" — resonating profoundly with phenomenology and perceptual 心理学.
 
 **❌ "《睡莲》晚年是因为他看不清才画得抽象。" / "The late *Water Lilies* became abstract because his eyesight failed."**
 **✅** 白内障确实影响了莫奈的色彩感知（画作偏红黄），但抽象化是主动的形式探索——消解地平线、融合水天——是他数十年光色研究的逻辑延伸，非视力衰退的偶然。
@@ -227,7 +227,7 @@ The fusion of reflections and reality in the *Water Lilies* can be placed in dia
 **日本浮世绘的直接影响 / Direct Influence of Japanese Ukiyo-e**
 莫奈是19世纪"日本主义"（*Japonisme*）运动中最积极的参与者之一。他收藏了大量浮世绘版画，并在构图中直接借鉴了其不对称布局、截断式取景（画面边缘截断物体）与平面化色彩。吉维尼花园中的日本桥更是他对日本美学的实体致敬。这种跨太平洋的艺术对话，使印象派在某种意义上成为东西方视觉传统融合的产物。
 
-Monet was one of the most active participants in the nineteenth-century *Japonisme* movement. He collected numerous ukiyo-e prints and directly borrowed their asymmetrical compositions, truncated framing (objects cut off at canvas edges), and flattened color areas. The Japanese bridge in the Giverny garden was his physical homage to Japanese aesthetics. This trans-Pacific artistic dialogue makes Impressionism, in a sense, a product of the fusion between Eastern and Western visual traditions.
+Monet was one of the most active participants in the nineteenth-century *Japonisme* movement. He collected numerous ukiyo-e prints and directly borrowed their asymmetrical compositions, truncated framing (objects cut off at canvas edges), and flattened color areas. The Japanese bridge in the Giverny garden was his physical homage to Japanese 美学. This trans-Pacific artistic dialogue makes Impressionism, in a sense, a product of the fusion between Eastern and Western visual traditions.
 
 ## 跨学科关联 / Interdisciplinary Connections
 
@@ -241,7 +241,7 @@ Monet was one of the most active participants in the nineteenth-century *Japonis
 
 - **[发展 / development] 修拉 / 新印象派** — 修拉将莫奈的经验性色彩并置理论化，以点彩法（*pointillisme*）将其推向科学化极端。Seurat theorized Monet's empirical color juxtaposition, pushing it to a scientific extreme with pointillism.
 
-- **[影响 / influence] 色彩科学** — 视觉混色与色彩恒常性的实验基础，莫奈的经验性发现已被视觉心理学验证。Visual mixing and color constancy's experimental foundation; Monet's empirical findings have been validated by visual psychology.
+- **[影响 / influence] 色彩科学** — 视觉混色与色彩恒常性的实验基础，莫奈的经验性发现已被视觉心理学验证。Visual mixing and color constancy's experimental foundation; Monet's empirical findings have been validated by visual 心理学.
 
 ## 进阶阅读 / Further Reading
 

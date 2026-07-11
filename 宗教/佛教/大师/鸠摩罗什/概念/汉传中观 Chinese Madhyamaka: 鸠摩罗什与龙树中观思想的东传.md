@@ -3,7 +3,7 @@ id: kumarajiva-madhyamaka-chinese
 title: "汉传中观 Chinese Madhyamaka: 鸠摩罗什与龙树中观思想的东传"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [Madhyamaka, 中观, Chinese Madhyamaka, 汉传中观, Sanlun, 三论宗, Nagarjuna, 龙树, Aryadeva, 提婆, emptiness in China]
 ---
 

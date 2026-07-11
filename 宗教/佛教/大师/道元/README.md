@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen
+id: 宗教.buddhism.masters.dogen
 title: 道元 Dōgen (1200-1253)
 type: thinker-hub
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: medieval
 birth: 1200
@@ -25,7 +25,7 @@ children: [concepts/being-time-uji, concepts/shikantaza, concepts/buddha-nature-
 
 **道元**（1200年1月19日—1253年9月22日），日本镰仓时代僧人、哲学家、宗教改革者，日本曹洞宗创立者。出身京都贵族久我家，父亲为内大臣源通亲，母亲为关白藤原基房之女。双亲早逝后由叔父良观法眼抚养。少年出家，曾于1223年入宋（中国南宋）求法，从天童如净禅师得法归日，后创越前永平寺。其巨著《正法眼藏》（95卷）是日本佛教哲学的巅峰文本，也是东亚思想史上最具原创性的哲学体系之一。道元不仅是一位宗教实践者，更是一位深刻的存在论思想家——他以独特的语言策略和现象学方法，重新定义了时间、存在、修行与证悟之间的关系。后世明治天皇追赠"承阳大师"号。
 
-**Dōgen** (January 19, 1200 – September 22, 1253) was a monk, philosopher, and religious reformer of Japan's Kamakura period, founder of the Japanese Sōtō Zen school. Born into the aristocratic Kuga family of Kyoto — his father was Minister of the Interior Minamoto Michichika, his mother a daughter of Regent Fujiwara no Motofusa — he lost both parents early and was raised by his uncle Ryōkan Hōgen. Ordained young, he traveled to Song China in 1223, where he received dharma transmission from Master Rujing (如净) of Tiantong Monastery. Upon returning to Japan he established Eihei-ji in Echizen province. His magnum opus *Shōbōgenzō* (95 fascicles) stands as the apex of Japanese Buddhist philosophy and one of the most original philosophical systems in East Asian intellectual history. Dōgen was not merely a religious practitioner but a profound ontological thinker who redefined the relationships among time, being, practice, and realization through unique linguistic strategies and phenomenological methods. He was posthumously awarded the title *Jōyō Daishi* (Master Who Carries the Light) by Emperor Meiji.
+**Dōgen** (January 19, 1200 – September 22, 1253) was a monk, philosopher, and religious reformer of Japan's Kamakura period, founder of the Japanese Sōtō Zen school. Born into the aristocratic Kuga family of Kyoto — his father was Minister of the Interior Minamoto Michichika, his mother a daughter of Regent Fujiwara no Motofusa — he lost both parents early and was raised by his uncle Ryōkan Hōgen. Ordained young, he traveled to Song China in 1223, where he received dharma transmission from Master Rujing (如净) of Tiantong Monastery. Upon returning to Japan he established Eihei-ji in Echizen province. His magnum opus *Shōbōgenzō* (95 fascicles) stands as the apex of Japanese Buddhist 哲学 and one of the most original philosophical systems in East Asian intellectual history. Dōgen was not merely a religious practitioner but a profound ontological thinker who redefined the relationships among time, being, practice, and realization through unique linguistic strategies and phenomenological methods. He was posthumously awarded the title *Jōyō Daishi* (Master Who Carries the Light) by Emperor Meiji.
 
 ---
 
@@ -149,16 +149,16 @@ Dōgen occupies a unique position in the intellectual landscape:
 ## 当代应用 / Contemporary Applications
 
 - **哲学 Philosophy**：与海德格尔 (Heidegger) 的时间-存在论对话是最活跃的研究领域之一。Joan Stambaugh 的比较研究开辟了道元-海德格尔平行研究的新路径。梅洛-庞蒂 (Merleau-Ponty) 的身体现象学与"身心脱落"和"只管打坐"形成深度共鸣——两者都以身体为认知的原点，而非心灵的附属品。怀特海 (Whitehead) 的过程哲学与"无常佛性"有天然的亲和力。
-  Dialogue with Heidegger's being-time ontology is among the most active research areas. Joan Stambaugh's comparative work opened a new path for Dōgen-Heidegger parallel studies. Merleau-Ponty's body phenomenology resonates deeply with *shinjin datsuraku* and *shikantaza* — both take the body as the origin of cognition, not the mind's appendage. Whitehead's process philosophy has natural affinity with impermanence-Buddha-nature.
+  Dialogue with Heidegger's being-time ontology is among the most active 研究 areas. Joan Stambaugh's comparative work opened a new path for Dōgen-Heidegger parallel studies. Merleau-Ponty's body phenomenology resonates deeply with *shinjin datsuraku* and *shikantaza* — both take the body as the origin of cognition, not the mind's appendage. Whitehead's process 哲学 has natural affinity with impermanence-Buddha-nature.
 
 - **心理学 Psychology**：正念 (mindfulness) 运动的哲学根源可以追溯到道元的坐禅理论，尽管当代正念实践做了大量简化。"临在"(presence) 的概念——全然地活在当下——是"有时"思想在心理治疗领域的应用。具身认知 (embodied cognition) 的研究为"只管打坐"提供了科学验证的框架。
-  The philosophical roots of the mindfulness movement can be traced to Dōgen's zazen theory, though contemporary mindfulness practice is heavily simplified. The concept of "presence" — fully inhabiting the present — is an application of *uji* thought in psychotherapy. Embodied cognition research provides a scientific validation framework for *shikantaza*.
+  The philosophical roots of the mindfulness movement can be traced to Dōgen's zazen theory, though contemporary mindfulness practice is heavily simplified. The concept of "presence" — fully inhabiting the present — is an application of *uji* thought in psychotherapy. Embodied cognition 研究 provides a scientific validation framework for *shikantaza*.
 
 - **生态哲学 Eco-Philosophy**：无常佛性与生态整体论的共振是当代最引人注目的应用之一。"一切存在即佛性"的主张为深层生态学 (deep ecology) 提供了存在论基础。万物互即的存在论——草木瓦石皆为佛性——挑战了人类中心主义和主客二元的生态观。道元的"山水经"为当代自然哲学提供了"自然是主体"的思想资源。
-  The resonance of impermanence-Buddha-nature with ecological holism is among the most compelling contemporary applications. The claim "all being is Buddha-nature" provides ontological grounding for deep ecology. The ontology of mutual interpenetration — grass, trees, tiles, stones as Buddha-nature — challenges anthropocentrism and subject-object duality in ecological thinking. Dōgen's *Sansuikyō* provides the resource of "nature as subject" for contemporary natural philosophy.
+  The resonance of impermanence-Buddha-nature with ecological holism is among the most compelling contemporary applications. The claim "all being is Buddha-nature" provides ontological grounding for deep ecology. The ontology of mutual interpenetration — grass, trees, tiles, stones as Buddha-nature — challenges anthropocentrism and subject-object duality in ecological thinking. Dōgen's *Sansuikyō* provides the resource of "nature as subject" for contemporary natural 哲学.
 
 - **艺术 Arts**：禅意美学——极简主义、当下性、物我两忘的创作状态——深受道元影响。日本传统艺术（茶道、花道、庭园设计、书法）中的"当下"美学与"有时"思想直接相关。当代极简主义艺术和设计哲学中，"减到本质"的理念与"身心脱落"形成呼应。
-  Zen aesthetics — minimalism, presentness, the creative state of self-world dissolution — is deeply influenced by Dōgen. The aesthetics of "the present" in Japanese traditional arts (tea ceremony, flower arrangement, garden design, calligraphy) relates directly to *uji* thought. In contemporary minimalist art and design philosophy, the principle of "reducing to essence" echoes *shinjin datsuraku*.
+  Zen 美学 — minimalism, presentness, the creative state of self-world dissolution — is deeply influenced by Dōgen. The 美学 of "the present" in Japanese traditional 艺术 (tea ceremony, flower arrangement, garden design, calligraphy) relates directly to *uji* thought. In contemporary minimalist art and design philosophy, the principle of "reducing to essence" echoes *shinjin datsuraku*.
 
 - **教育学 Education**：以"办道"为核心的全身心学习理念——学习不是获取知识的工具性行为，而是存在的转化方式。"修证一等"在教育中的应用意味着：学习过程本身就是教育目标的实现，而非仅仅通向未来结果的手段。
   A whole-body learning approach centered on *bendō* — learning is not instrumental knowledge-acquisition but a mode of existential transformation. Applied to education, *shushō-ittō* means: the learning process itself realizes educational aims, not merely as a means to future outcomes.
@@ -191,7 +191,7 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 |---|---|---|---|
 | 有时 Uji | 海德格尔 Zeitlichkeit | 时间-存在的非二元 / Time-being non-duality | 两者都拒绝将时间视为独立于存在的"流"，主张存在本身就是时间性的。但海德格尔以此在为中心，道元推广到万物。/ Both reject time as an independent stream, holding that being itself is temporal. But Heidegger centers on Dasein, Dōgen extends to all phenomena. |
 | 身心脱落 Shinjin Datsuraku | 梅洛-庞蒂 身体现象学 / Merleau-Ponty body phenomenology | 身体主体性 / Embodied subjectivity | 两者都消解了身心二元论，以身体为经验和认知的原点。梅洛-庞蒂的"身体-主体"与道元的"只管打坐"深度呼应。/ Both dissolve body-mind dualism, taking the body as origin of experience and cognition. Merleau-Ponty's "body-subject" echoes *shikantaza* deeply. |
-| 无常佛性 Mujō-Bushō | 怀特海 过程哲学 / Whitehead process philosophy | 生成即实在 / Becoming as reality | 怀特海的"现实实有"(actual entities) 和道元的"有时"都以事件/过程而非实体为存在论基础。/ Whitehead's "actual entities" and Dōgen's *uji* both ground ontology in events/processes rather than substances. |
+| 无常佛性 Mujō-Bushō | 怀特海 过程哲学 / Whitehead process 哲学 | 生成即实在 / Becoming as reality | 怀特海的"现实实有"(actual entities) 和道元的"有时"都以事件/过程而非实体为存在论基础。/ Whitehead's "actual entities" and Dōgen's *uji* both ground ontology in events/processes rather than substances. |
 | 现成公案 Genjōkōan | 现象学 "回到事物本身" / Phenomenology "back to the things themselves" | 直接经验的优先性 / Primacy of direct experience | 胡塞尔的"现象学还原"悬搁自然态度以回到纯粹现象；道元的"现成公案"主张日常经验本身即是完整启示。/ Husserl's "phenomenological reduction" suspends the natural attitude to return to pure phenomena; Dōgen's *genjōkōan* holds everyday experience itself as complete revelation. |
 | 非思量 Hishiryō | 胡塞尔 现象学还原 / Husserl epoché | 悬搁自然态度 / Suspending the natural attitude | "非思量"不是停止思考，而是悬搁对思维的执着——这与胡塞尔的"悬搁"(epoché) 在方法上有深刻平行。/ *Hishiryō* is not stopping thought but suspending attachment to thinking — methodologically parallel to Husserl's *epoché*. |
 | 修证一等 Shushō-Ittō | 杜威 知行合一 / Dewey pragmatism | 实践与认识的统一 / Unity of practice and knowing | 杜威拒绝知行二元论，主张知识在行动中生成；道元的"修证一等"同样否定手段-目的的二元结构。/ Dewey rejects the knowing-doing binary, holding that knowledge arises in action; Dōgen's *shushō-ittō* similarly denies the means-ends binary structure. |
@@ -200,9 +200,9 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [海德格尔 Heidegger](../../../philosophy/schools/existentialism/heidegger.md) — [平行 parallel] 时间-存在
-- [梅洛-庞蒂 Merleau-Ponty](../../../philosophy/schools/phenomenology/merleau-ponty.md) — [平行 parallel] 身体现象学
-- [怀特海 Whitehead](../../../philosophy/schools/process/whitehead.md) — [平行 parallel] 过程哲学
+- [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 时间-存在
+- [梅洛-庞蒂 Merleau-Ponty](../../../哲学/学派/现象学/梅洛庞蒂.md) — [平行 parallel] 身体现象学
+- [怀特海 Whitehead](../../../哲学/schools/process/whitehead.md) — [平行 parallel] 过程哲学
 - [禅宗 Chan/Zen](../schools/chan-zen.md) — [日本传承 Japanese transmission]
 - [龙树 Nagarjuna](../masters/nagarjuna.md) — [思想渊源 philosophical source] 空性思想
 - [天台宗 Tiantai](../schools/tiantai.md) — [思想渊源] 本觉思想的批判继承

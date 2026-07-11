@@ -3,7 +3,7 @@ id: kukai-sokushin-jobutsu
 title: "即身成佛 Buddhahood in This Body"
 type: concept
 parent: kukai
-domain: religion
+domain: 宗教
 tags: [sokushin-jobutsu, instant-enlightenment, Shingon]
 ---
 # 即身成佛 / Buddhahood in This Very Body

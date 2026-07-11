@@ -1,8 +1,8 @@
 ---
-id: literature.novelists.dostoevsky
+id: 文学.novelists.dostoevsky
 title: 陀思妥耶夫斯基 · Fyodor Dostoevsky
 type: thinker
-domain: literature
+domain: 文学
 school: novelists
 era: 19th-century
 birth: 1821
@@ -49,7 +49,7 @@ children:
 
 他的五部大长篇——《罪与罚》《白痴》《群魔》《少年》《卡拉马佐夫兄弟》——构成了一个关于俄国精神危机的宏大叙事。从拉斯柯尔尼科夫的"超人理论"到伊万·卡拉马佐夫的"如果上帝不存在，一切都被允许"，陀思妥耶夫斯基始终在追问同一个问题：**当旧信仰崩塌、理性无法提供终极意义时，人如何面对自己的自由与罪恶？**
 
-Fyodor Dostoevsky (1821–1881) is the creator of the polyphonic novel and one of the deepest explorers of the human soul in world literature. His five great novels — *Crime and Punishment*, *The Idiot*, *Demons*, *The Adolescent*, and *The Brothers Karamazov* — constitute a monumental inquiry into freedom, evil, and redemption. Bakhtin identified his revolutionary contribution: each character is an independent consciousness, and the novel becomes a space where multiple voices coexist without authorial domination. His discovery of the "underground man" — the person who chooses irrationality over rational self-interest — made him a precursor to existentialism and profoundly influenced Nietzsche, Sartre, and Freud.
+Fyodor Dostoevsky (1821–1881) is the creator of the polyphonic novel and one of the deepest explorers of the human soul in world 文学. His five great novels — *Crime and Punishment*, *The Idiot*, *Demons*, *The Adolescent*, and *The Brothers Karamazov* — constitute a monumental inquiry into freedom, evil, and redemption. Bakhtin identified his revolutionary contribution: each character is an independent consciousness, and the novel becomes a space where multiple voices coexist without authorial domination. His discovery of the "underground man" — the person who chooses irrationality over rational self-interest — made him a precursor to existentialism and profoundly influenced Nietzsche, Sartre, and Freud.
 
 ## 二、核心命题 / Core Theses
 

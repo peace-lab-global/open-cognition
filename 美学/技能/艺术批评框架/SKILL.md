@@ -1,7 +1,7 @@
 ---
 name: art-criticism-framework
 description: 基于杜威经验美学的四层艺术批评框架
-domain: aesthetics
+domain: 美学
 linked_thinker: ../../schools/pragmatist-aesthetics/dewey-aesthetics.md
 linked_concepts:
   - ../../concepts/beauty.md

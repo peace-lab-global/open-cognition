@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.paramartha
+id: 宗教.buddhism.master.paramartha
 title: 真谛 Paramārtha (499–569)
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 birth: 499
@@ -36,7 +36,7 @@ Paramārtha's Yogācāra differs profoundly from the system later transmitted by
 
 真谛生于西印度优禅尼国（今印度中央邦乌贾因），这是一个历史悠久的婆罗门文化中心。他出身婆罗门种姓，自幼受过良好的传统教育，后皈依佛教并深入唯识学的修学。在印度，他继承了无著（Asaṅga）与世亲（Vasubandhu）的瑜伽行派传统，并广泛研习经论。据《续高僧传》记载，真谛"博通内外，尤精大乘"，在印度佛教界已有相当声望。
 
-Born in Ujjain—a longstanding center of Brahmanical learning in western India—Paramārtha received a thorough traditional education before converting to Buddhism and immersing himself in Yogācāra studies. He inherited the lineage of Asaṅga and Vasubandhu and was widely read in both Buddhist and non-Buddhist literature. According to the *Continued Biographies of Eminent Monks* (*Xù Gāosēng Zhuàn*), he was "conversant with inner and outer learning, and especially proficient in the Mahāyāna."
+Born in Ujjain—a longstanding center of Brahmanical learning in western India—Paramārtha received a thorough traditional education before converting to Buddhism and immersing himself in Yogācāra studies. He inherited the lineage of Asaṅga and Vasubandhu and was widely read in both Buddhist and non-Buddhist 文学. According to the *Continued Biographies of Eminent Monks* (*Xù Gāosēng Zhuàn*), he was "conversant with inner and outer learning, and especially proficient in the Mahāyāna."
 
 ### 来华历程 / Journey to China (c.546)
 

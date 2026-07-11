@@ -2,7 +2,7 @@
 id: macintyre
 title: "阿拉斯戴尔·麦金泰尔 · Alasdair MacIntyre"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: virtue-ethics
 era: contemporary
 birth: 1929
@@ -77,7 +77,7 @@ Alasdair Chalmers MacIntyre, born January 12, 1929, in Glasgow, Scotland, is one
 
 麦金泰尔先后执教于普林斯顿大学、波士顿大学、范德堡大学、杜克大学和圣母大学（University of Notre Dame），目前为圣母大学荣休高级研究教授。他被广泛认为是20世纪美德伦理学复兴运动的核心人物，其代表作《追寻美德》（*After Virtue*, 1981）被誉为"二战后最重要的伦理学著作之一"。他的思想横跨道德哲学、政治哲学、宗教哲学、教育哲学等多个领域，并对社群主义、叙事伦理学和实践哲学产生了深远影响。值得注意的是，尽管常被归为"社群主义者"，麦金泰尔本人一直拒绝这一标签。
 
-MacIntyre has held positions at Princeton University, Boston University, Vanderbilt University, Duke University, and the University of Notre Dame, where he is currently Senior Research Professor Emeritus. He is widely regarded as the central figure in the late-twentieth-century revival of virtue ethics. His landmark work *After Virtue* (1981) has been called "one of the most important works of ethics written since World War II." His thought spans moral philosophy, political philosophy, philosophy of religion, and philosophy of education, and has had a profound impact on communitarianism, narrative ethics, and practical philosophy. Notably, although often classified as a "communitarian," MacIntyre himself has consistently rejected this label.
+MacIntyre has held positions at Princeton University, Boston University, Vanderbilt University, Duke University, and the University of Notre Dame, where he is currently Senior Research Professor Emeritus. He is widely regarded as the central figure in the late-twentieth-century revival of virtue ethics. His landmark work *After Virtue* (1981) has been called "one of the most important works of ethics written since World War II." His thought spans moral philosophy, political philosophy, 哲学 of religion, and 哲学 of education, and has had a profound impact on communitarianism, narrative ethics, and practical 哲学. Notably, although often classified as a "communitarian," MacIntyre himself has consistently rejected this label.
 
 ## 核心命题 / Core Theses
 
@@ -111,13 +111,13 @@ MacIntyre's intellectual career began at the intersection of Marxism and Christi
 
 1970年代，麦金泰尔移居美国，在波士顿大学和布兰迪斯大学任教。他越来越多地投入到分析哲学传统中的道德哲学争论——特别是通过对黑尔（R. M. Hare）和罗尔斯（John Rawls）的批判来发展自己的立场。1981年出版的《追寻美德》是他思想的转折点。该书提出了一个大胆的诊断：现代道德话语已经崩溃，而解决之道在于复兴亚里士多德的美德伦理学传统。此后，他在《谁之正义？何种合理性？》（1988）中进一步发展了"传统构成的合理性"概念，论证了不同传统之间的理性争论是可能的。1990年的《三种对立的道德探究》则区分了三种道德探究模式——百科全书派（启蒙理性主义）、谱系学（尼采式后现代主义）和传统（亚里士多德-托马斯主义），并将传统视为最具哲学说服力的方案。
 
-In the 1970s, MacIntyre moved to the United States, teaching at Boston University and Brandeis University. He became increasingly engaged with moral philosophy debates within the analytic tradition — particularly through critiques of R. M. Hare and John Rawls. The publication of *After Virtue* in 1981 was the watershed of his thought. The book offered a bold diagnosis: modern moral discourse had collapsed, and the solution lay in reviving the Aristotelian tradition of virtue ethics. Subsequently, in *Whose Justice? Which Rationality?* (1988), he further developed the concept of "tradition-constituted rationality," arguing that rational dispute between traditions is possible. *Three Rival Versions of Moral Enquiry* (1990) distinguished three modes of moral inquiry — encyclopaedic (Enlightenment rationalism), genealogical (Nietzschean postmodernism), and traditional (Aristotelian-Thomist) — and argued that the tradition-based approach is the most philosophically compelling.
+In the 1970s, MacIntyre moved to the United States, teaching at Boston University and Brandeis University. He became increasingly engaged with moral 哲学 debates within the analytic tradition — particularly through critiques of R. M. Hare and John Rawls. The publication of *After Virtue* in 1981 was the watershed of his thought. The book offered a bold diagnosis: modern moral discourse had collapsed, and the solution lay in reviving the Aristotelian tradition of virtue ethics. Subsequently, in *Whose Justice? Which Rationality?* (1988), he further developed the concept of "tradition-constituted rationality," arguing that rational dispute between traditions is possible. *Three Rival Versions of Moral Enquiry* (1990) distinguished three modes of moral inquiry — encyclopaedic (Enlightenment rationalism), genealogical (Nietzschean postmodernism), and traditional (Aristotelian-Thomist) — and argued that the tradition-based approach is the most philosophically compelling.
 
 ### 晚期 / Late Period (1999-present)
 
 1999年的《依赖性的理性动物》标志着麦金泰尔思想的一个重要转向：他将焦点从自主的理性行为者转向人类的脆弱性、依赖性和残疾。他指出，西方哲学传统——包括亚里士多德本人——长期忽视了人类作为动物性存在的现实，而美德伦理学必须正视人类生命中不可避免的依赖关系。他提出"承认依赖的美德"（virtues of acknowledged dependence）——包括感恩、慷慨和同情——作为对传统美德范畴的重要补充。2016年的《伦理学之后》（*Ethics in the Conflicts of Modernity*）进一步探讨了亚里士多德主义与当代社会实践之间的张力，审视了道德推理在具体社会冲突中的运作。近年来，麦金泰尔还越来越多地关注教育哲学和制度批判，探讨如何在现代大学中保存和传递传统。
 
-The 1999 publication of *Dependent Rational Animals* marked an important turn in MacIntyre's thought: he shifted focus from the autonomous rational agent to human vulnerability, dependency, and disability. He argued that the Western philosophical tradition — including Aristotle himself — had long neglected the reality of humans as animal beings, and that virtue ethics must confront the inescapable dependencies of human life. He proposed "virtues of acknowledged dependence" — including gratitude, generosity, and compassion — as essential supplements to the traditional catalogue of virtues. *Ethics in the Conflicts of Modernity* (2016) further explored the tensions between Aristotelianism and contemporary social practices, examining how moral reasoning operates in concrete social conflicts. In recent years, MacIntyre has also turned increasingly to philosophy of education and institutional critique, exploring how traditions can be preserved and transmitted within modern universities.
+The 1999 publication of *Dependent Rational Animals* marked an important turn in MacIntyre's thought: he shifted focus from the autonomous rational agent to human vulnerability, dependency, and disability. He argued that the Western philosophical tradition — including Aristotle himself — had long neglected the reality of humans as animal beings, and that virtue ethics must confront the inescapable dependencies of human life. He proposed "virtues of acknowledged dependence" — including gratitude, generosity, and compassion — as essential supplements to the traditional catalogue of virtues. *Ethics in the Conflicts of Modernity* (2016) further explored the tensions between Aristotelianism and contemporary social practices, examining how moral reasoning operates in concrete social conflicts. In recent years, MacIntyre has also turned increasingly to 哲学 of education and institutional critique, exploring how traditions can be preserved and transmitted within modern universities.
 
 ## 关键著作 / Key Works
 
@@ -141,7 +141,7 @@ The 1999 publication of *Dependent Rational Animals* marked an important turn in
 
 4. **内在善与外在善 / Internal Goods and External Goods** — 内在善是只有通过参与实践本身才能获得的卓越品质；外在善（金钱、权力、名誉）则可以通过多种途径获得。美德实践追求内在善而非外在善。Internal goods are excellences attainable only through participation in a practice itself; external goods (money, power, fame) can be achieved through many avenues. Virtuous practice pursues internal goods over external goods. [→ concepts/internal-goods.md](concepts/internal-goods.md)
 
-5. **情感主义批判 / Critique of Emotivism** — 当代道德话语表面上是客观的道德断言，实质上是情感主义——道德判断不过是个人偏好和情感的表达，这是现代道德哲学的核心危机。Contemporary moral discourse appears to consist of objective moral assertions but is in substance emotivist — moral judgments are nothing more than expressions of personal preference and feeling, and this constitutes the core crisis of modern moral philosophy. [→ concepts/emotivism-critique.md](concepts/emotivism-critique.md)
+5. **情感主义批判 / Critique of Emotivism** — 当代道德话语表面上是客观的道德断言，实质上是情感主义——道德判断不过是个人偏好和情感的表达，这是现代道德哲学的核心危机。Contemporary moral discourse appears to consist of objective moral assertions but is in substance emotivist — moral judgments are nothing more than expressions of personal preference and feeling, and this constitutes the core crisis of modern moral 哲学. [→ concepts/emotivism-critique.md](concepts/emotivism-critique.md)
 
 6. **承认依赖的美德 / Virtues of Acknowledged Dependence** — 人类本质上是脆弱的、依赖性的动物；真正的美德伦理学必须承认这一现实，并将感恩、同情和慷慨等"承认依赖的美德"纳入核心范畴。Human beings are essentially vulnerable and dependent animals; genuine virtue ethics must acknowledge this reality and incorporate the "virtues of acknowledged dependence" — gratitude, compassion, and generosity — into its central catalogue.
 

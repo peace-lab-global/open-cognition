@@ -3,7 +3,7 @@ id: ashvaghosha-buddhacarita
 title: "佛所行赞 Buddhacarita: 佛教梵语史诗"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [Buddhacarita, epic-poetry, Sanskrit]
 ---
 # 佛所行赞 / Buddhacarita

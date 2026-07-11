@@ -2,7 +2,7 @@
 id: zhuangzi
 title: 庄子 · Zhuangzi
 type: thinker
-domain: religion
+domain: 宗教
 school: taoism
 era: ancient
 birth: 369 BCE
@@ -89,7 +89,7 @@ All distinctions — great and small, beautiful and ugly, right and wrong, life 
 
 "乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。
 
-"Riding on what is true of Heaven and Earth, harnessing the alterations of the six energies, wandering in the limitless — what could such a one possibly depend on?" Xiaoyao is spiritual freedom beyond all dependence, the supreme ideal of Zhuangzi's existential philosophy.
+"Riding on what is true of Heaven and Earth, harnessing the alterations of the six energies, wandering in the limitless — what could such a one possibly depend on?" Xiaoyao is spiritual freedom beyond all dependence, the supreme ideal of Zhuangzi's existential 哲学.
 
 详见 [concepts/xiaoyao.md](concepts/xiaoyao.md)。
 
@@ -127,7 +127,7 @@ Zhuangzi opposes not knowledge itself but its absolutization. "My life has limit
 
 庄子的语言策略本身即是哲学。《寓言》篇自述：
 
-Zhuangzi's linguistic strategy is itself philosophy. The "Parables" chapter declares:
+Zhuangzi's linguistic strategy is itself 哲学. The "Parables" chapter declares:
 
 - **卮言** (zhiyan / goblet-words)："卮言日出，和以天倪" — 无心之言，随物而变，如酒器倾注、不拘一格。这是庄子最根本的言说方式——不固守任何立场的流动之言。
   *Goblet-words come forth daily, harmonizing with Heaven's patterns — words without fixed intent, shifting with things, like a vessel that pours without prejudice. This is Zhuangzi's most fundamental mode: fluid speech that clings to no position.*
@@ -287,10 +287,10 @@ These parables share a common structure: (1) Forgetting — letting go of self, 
 
 ### 西方哲学 / Western Philosophy
 
-- [海德格尔 · Heidegger](../../../../philosophy/schools/existentialism/heidegger/) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)
-- [德里达 · Derrida](../../../../philosophy/schools/post-structuralism/derrida/) `[平行]` 卮言与延异 (différance)
-- [尼采 · Nietzsche](../../../../philosophy/schools/existentialism/nietzsche/) `[平行]` 重估一切价值与齐物论的相对主义
-- [博尔赫斯 · Borges](../../../../aesthetics/schools/literary-thought/borges/) `[平行]` 梦与虚构、同一性的流动
+- [海德格尔 · Heidegger](../../../../哲学/学派/存在主义/海德格尔/) `[平行]` "让存在" (Gelassenheit) 与无为；庖丁解牛与上手状态 (Zuhandenheit)
+- [德里达 · Derrida](../../../../哲学/学派/后结构主义/雅克/) `[平行]` 卮言与延异 (différance)
+- [尼采 · Nietzsche](../../../../哲学/学派/存在主义/尼采/) `[平行]` 重估一切价值与齐物论的相对主义
+- [博尔赫斯 · Borges](../../../../美学/学派/文学思想/博尔赫斯/) `[平行]` 梦与虚构、同一性的流动
 
 ## 东西方对话 / East-West Dialogue
 

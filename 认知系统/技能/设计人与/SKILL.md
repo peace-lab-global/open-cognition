@@ -1,7 +1,7 @@
 ---
 name: human-ai-teaming
 description: 设计人与 AI Agent 的协作认知系统，优化功能分配、信任校准和交接机制。Triggers on human-AI collaboration design, AI agent integration, or joint cognitive system design.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/automation-sociotechnical/bainbridge.md
 linked_concepts:
   - ../../concepts/joint-cognitive-system.md

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen.concepts.practice-enlightenment
+id: 宗教.buddhism.masters.dogen.concepts.practice-enlightenment
 title: 修证一等 Shushō-Ittō (Practice-Enlightenment Identity)
 type: concept
-domain: religion
+domain: 宗教
 parent: ../README.md
 tags: [道元, Dogen, 修证一等, shushō-ittō, 修行, practice, 证悟, enlightenment]
 ---

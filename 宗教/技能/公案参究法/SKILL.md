@@ -1,11 +1,11 @@
 ---
 name: koan-practice
 description: Triggers when a user engages with Zen/Chan Buddhist koans (公案) and needs an operationalized method for contemplation — guiding the process from intellectual reading through hwadu (话头) raising, great doubt (疑情) cultivation, to breakthrough (破参). Provides a five-step structured approach to koan practice.
-domain: religion
+domain: 宗教
 linked_concepts:
-  - ../../../religion/buddhism/schools/chan.md
+  - ../../../宗教/佛教/学派/chan.md
   - ../../buddhism/masters/bodhidharma.md
-  - ../../../religion/buddhism/concepts/foundational/zhi-guan.md
+  - ../../../宗教/佛教/概念/foundational/zhi-guan.md
   - ../../buddhism/treatises/lankavatara.md
 tags:
   - chan

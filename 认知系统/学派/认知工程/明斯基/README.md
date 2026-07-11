@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.minsky
+id: 认知系统.school.cognitive-engineering.minsky
 title: 明斯基 Marvin Minsky
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: modern
 birth: 1927

@@ -3,7 +3,7 @@ id: padmasambhava-bardo
 title: "中阴 Bardo: 死后49天的过渡状态"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [bardo, intermediate-state, death, Tibetan]
 ---
 # 中阴 / Bardo / Intermediate State

@@ -1,7 +1,7 @@
 ---
 name: cognitive-load-assessment
 description: 评估信息呈现或教学设计是否导致认知过载，基于 Sweller 的认知负荷理论。Triggers on requests to evaluate instructional materials, interface designs, or information presentations for cognitive overload.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/naturalistic-decision/sweller.md
 linked_concepts:
   - ../../concepts/cognitive-load.md

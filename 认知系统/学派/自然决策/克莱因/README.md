@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.naturalistic-decision.klein
+id: 认知系统.naturalistic-decision.klein
 title: 加里·克莱因 Gary Klein
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: naturalistic-decision
 era: contemporary
 birth: 1944

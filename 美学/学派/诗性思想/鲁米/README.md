@@ -1,8 +1,8 @@
 ---
-id: aesthetics.poetic-thought.rumi
+id: 美学.poetic-thought.rumi
 title: 鲁米 · Jalal ad-Din Rumi
 type: thinker
-domain: aesthetics
+domain: 美学
 school: poetic-thought
 era: medieval
 birth: 1207
@@ -48,7 +48,7 @@ children:
 
 在美学史上，鲁米的独特贡献在于他创造了一种**身体化的灵性美学**——旋转舞（Sama）不是表演，而是身体的冥想，通过旋转消融自我界限，与神圣合一。这种将身体、诗歌和灵性统一的实践，使他成为跨文化灵性传统中最具影响力的声音之一，至今仍在全球范围内激发着诗人、舞者和灵性求索者。
 
-Jalal ad-Din Rumi (1207–1273) is the greatest mystical poet in Persian literature and one of the most profound voices in human spiritual history to elevate love to an ontological principle. His core insight is that love is not a human attribute but the very structure of existence — the universe's separation from its divine source is like the reed torn from its bed, and its mournful cry is poetry, music, and all longing for return. His encounter with the wandering dervish Shams of Tabriz triggered a spiritual explosion that transformed him from a respected religious scholar into a whirling poet, creating the *Divan-e Shams-e Tabrizi* as literature's most intense expression of loss and union. His practice of whirling meditation (Sama) unified body, poetry, and spirit, making him one of the most influential voices in cross-cultural spiritual traditions.
+Jalal ad-Din Rumi (1207–1273) is the greatest mystical poet in Persian 文学 and one of the most profound voices in human spiritual history to elevate love to an ontological principle. His core insight is that love is not a human attribute but the very structure of existence — the universe's separation from its divine source is like the reed torn from its bed, and its mournful cry is poetry, music, and all longing for return. His encounter with the wandering dervish Shams of Tabriz triggered a spiritual explosion that transformed him from a respected religious scholar into a whirling poet, creating the *Divan-e Shams-e Tabrizi* as literature's most intense expression of loss and union. His practice of whirling meditation (Sama) unified body, poetry, and spirit, making him one of the most influential voices in cross-cultural spiritual traditions.
 
 ## 二、核心命题
 

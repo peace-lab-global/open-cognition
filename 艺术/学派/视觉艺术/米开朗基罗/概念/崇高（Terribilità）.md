@@ -3,9 +3,9 @@ id: michelangelo-terribilita
 title: "崇高（Terribilità） · Terribilita"
 type: concept
 thinker: michelangelo
-domain: arts
+domain: 艺术
 school: visual-arts
-tags: [terribilita, sublime, awe, renaissance, aesthetics]
+tags: [terribilita, sublime, awe, renaissance, 美学]
 cross-refs:
   - michelangelo
   - human-form-divine
@@ -76,11 +76,11 @@ This statement reveals terribilità's material basis: the sublime is not only vi
 
 Terribilità的概念在当代美学和文化批评中持续发挥作用。在电影中，"崇高体验"的场景——如《2001太空漫游》中黑石的出现——直接继承了terribilità的传统：以压倒性的尺度和沉默的力量使观者进入敬畏状态。在当代建筑中，安藤忠雄（Tadao Ando）的清水混凝土空间和卒姆托（Peter Zumthor）的热浴场都通过材料的"重量感"和空间的"压迫感"追求一种当代的terribilità。
 
-Terribilità continues to function in contemporary aesthetics and cultural criticism. In cinema, scenes of "sublime experience" — such as the monolith's appearance in 2001: A Space Odyssey — directly inherit terribilità's tradition: overwhelming scale and silent power plunging the viewer into awe. In contemporary architecture, Tadao Ando's exposed concrete spaces and Peter Zumthor's Therme Vals pursue a contemporary terribilità through material "heaviness" and spatial "oppression."
+Terribilità continues to function in contemporary 美学 and cultural criticism. In cinema, scenes of "sublime experience" — such as the monolith's appearance in 2001: A Space Odyssey — directly inherit terribilità's tradition: overwhelming scale and silent power plunging the viewer into awe. In contemporary architecture, Tadao Ando's exposed concrete spaces and Peter Zumthor's Therme Vals pursue a contemporary terribilità through material "heaviness" and spatial "oppression."
 
 在游戏设计中，"boss战"的美学逻辑——玩家面对一个远超自身力量的巨大存在——本质上是terribilità的互动化实现。游戏设计师通过尺度、音效和视觉效果的组合，在虚拟空间中重现了米开朗基罗在大理石和灰泥中创造的敬畏体验。
 
-In game design, "boss battle" aesthetics — the player confronting an entity vastly exceeding their own power — essentially realizes terribilità interactively. Game designers recreate through scale, sound, and visual effects the awe experience Michelangelo created in marble and plaster.
+In game design, "boss battle" 美学 — the player confronting an entity vastly exceeding their own power — essentially realizes terribilità interactively. Game designers recreate through scale, sound, and visual effects the awe experience Michelangelo created in marble and plaster.
 
 ## 批评与回应 / Critiques and Responses
 
@@ -98,7 +98,7 @@ In Chinese aesthetics, "sublime" can dialogue with "气势" (vital momentum) and
 
 日本美学中的"物の怪"（mononoke，超自然的可怕力量）和"幽玄"（yūgen，深邃的不可言说之美）也与terribilità形成有趣的对照——它们同样追求超越日常经验的美学震撼，但路径是通过"隐"而非"显"，通过"空"而非"满"。
 
-Japanese aesthetics of "mononoke" (supernatural terrifying force) and "yūgen" (profound ineffable beauty) also form interesting counterpoints to terribilità — they similarly pursue aesthetic shock transcending ordinary experience, but through concealment rather than display, through emptiness rather than fullness.
+Japanese 美学 of "mononoke" (supernatural terrifying force) and "yūgen" (profound ineffable beauty) also form interesting counterpoints to terribilità — they similarly pursue aesthetic shock transcending ordinary experience, but through concealment rather than display, through emptiness rather than fullness.
 
 ## 延伸阅读 / Further Reading
 

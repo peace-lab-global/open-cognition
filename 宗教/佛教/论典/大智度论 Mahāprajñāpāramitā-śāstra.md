@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sastra.mahaprajnaparamita-sastra
+id: 宗教.buddhism.sastra.mahaprajnaparamita-sastra
 title: 大智度论 Mahāprajñāpāramitā-śāstra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: ancient
 tags: [大智度论, 龙树, 般若, 鸠摩罗什, 六度, 百科全书]

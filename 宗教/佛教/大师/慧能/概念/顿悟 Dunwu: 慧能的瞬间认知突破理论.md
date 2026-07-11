@@ -3,7 +3,7 @@ id: huineng-dunwu
 title: "顿悟 Dunwu: 慧能的瞬间认知突破理论"
 type: concept
 parent: huineng
-domain: religion
+domain: 宗教
 tags: [sudden-enlightenment, dunwu, Gestalt-switch, Chan, Zen, cognitive-restructuring]
 ---
 

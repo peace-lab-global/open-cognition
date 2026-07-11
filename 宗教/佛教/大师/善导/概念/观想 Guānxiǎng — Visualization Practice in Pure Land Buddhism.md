@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.master.shandao.concepts.visualization
+id: 宗教.buddhism.master.shandao.concepts.visualization
 title: 观想 Guānxiǎng — Visualization Practice in Pure Land Buddhism
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
-parent: religion.buddhism.master.shandao.readme
+parent: 宗教.buddhism.master.shandao.readme
 tags: [观想, Visualization, 十六观, Sixteen Contemplations, 观经, Contemplation Sūtra]
 ---
 

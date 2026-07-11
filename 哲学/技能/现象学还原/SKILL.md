@@ -1,7 +1,7 @@
 ---
 name: phenomenological-reduction
 description: Triggers when a topic is over-saturated by theory, jargon, or pre-judgments and the user needs to return to the experience itself. Apply this skill to bracket assumptions and describe phenomena as they show themselves to consciousness, before any explanation or causal account.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/existentialism/heidegger.md
 linked_concepts:
   - ../../concepts/being.md
@@ -96,4 +96,4 @@ tags:
 
 - 思想家：[海德格尔](../../schools/existentialism/heidegger.md)
 - 概念：[存在](../../concepts/being.md)
-- 相关 Skill：[语言游戏分析](../language-game-analysis/SKILL.md)、[CBT 认知扭曲识别](../../../psychology/skills/cbt-cognitive-distortion/SKILL.md)（互补：CBT 用于识别想法，现象学还原用于描述体验）
+- 相关 Skill：[语言游戏分析](../language-game-analysis/SKILL.md)、[CBT 认知扭曲识别](../../../心理学/技能/认知扭曲识别/SKILL.md)（互补：CBT 用于识别想法，现象学还原用于描述体验）

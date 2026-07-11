@@ -1,21 +1,21 @@
 ---
-id: psychology.cognitive.beck.automatic-thoughts
+id: 心理学.cognitive.beck.automatic-thoughts
 title: "自动思维 \u00b7 Automatic Thoughts \u00b7 Beck"
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 thinker: beck
 tags: [automatic-thoughts, inner-dialogue, cognitive-stream, thought-record, metacognition]
 cross-refs:
-  - id: psychology.cognitive.beck
+  - id: 心理学.cognitive.beck
     relation: thinker
-  - id: psychology.cognitive.beck.cognitive-distortions
+  - id: 心理学.cognitive.beck.cognitive-distortions
     relation: 内容
-  - id: psychology.cognitive.beck.schemas
+  - id: 心理学.cognitive.beck.schemas
     relation: 生成来源
-  - id: psychology.cognitive.beck.cognitive-triad
+  - id: 心理学.cognitive.beck.cognitive-triad
     relation: 表达
-  - id: religion.buddhism.concepts.mindfulness
+  - id: 宗教.buddhism.concepts.mindfulness
     relation: 对照(正念觉察)
 ---
 

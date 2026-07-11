@@ -1,8 +1,8 @@
 ---
-id: aesthetics.nietzschean-aesthetics.nietzsche
+id: 美学.nietzschean-aesthetics.nietzsche
 title: 尼采 · Friedrich Nietzsche
 type: thinker
-domain: aesthetics
+domain: 美学
 school: nietzschean-aesthetics
 era: modern
 birth: 1844
@@ -47,7 +47,7 @@ children:
 
 在美学史上，尼采的核心贡献在于他将美学从认识论的附庸提升为**本体论的核心**。艺术不是对现实的模仿（柏拉图），不是绝对精神的感性显现（黑格尔），而是**权力意志的直接表达**——创造本身就是生命的最高形式，艺术家是权力意志最纯粹的载体。这一思想深刻影响了20世纪的存在主义、后现代主义和当代艺术理论。
 
-Friedrich Nietzsche (1844–1900) is the philosopher who elevated aesthetics to the core of ontology. His central thesis — "only as an aesthetic phenomenon is existence and the world eternally justified" — reversed the Western philosophical hierarchy that placed truth above art. His Apollonian-Dionysian duality in *The Birth of Tragedy* provided a new framework for understanding art as the interplay of form and ecstasy, while his later concept of the "will to power" made artistic creation the paradigm of all life-affirming activity. Nietzsche's aesthetics profoundly influenced Heidegger, Deleuze, Foucault, and contemporary art theory.
+Friedrich Nietzsche (1844–1900) is the philosopher who elevated 美学 to the core of ontology. His central thesis — "only as an aesthetic phenomenon is existence and the world eternally justified" — reversed the Western philosophical hierarchy that placed truth above art. His Apollonian-Dionysian duality in *The Birth of Tragedy* provided a new framework for understanding art as the interplay of form and ecstasy, while his later concept of the "will to power" made artistic creation the paradigm of all life-affirming activity. Nietzsche's 美学 profoundly influenced Heidegger, Deleuze, Foucault, and contemporary art theory.
 
 ## 二、核心命题
 

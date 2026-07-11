@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.bodhisattva-path
+id: 宗教.buddhism.core.bodhisattva-path
 title: 菩萨道 Bodhisattva Path
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [菩萨道, 菩提心, 四弘誓愿, 大乘]
@@ -71,7 +71,7 @@ sources: [《大般若经》, 《大智度论》, 《瑜伽师地论》]
 - [利他主义伦理学] — [继承] 利他作为伦理
 - [马丁·路德·金 · 社会正义] — [平行] 菩萨的社会承诺
 - [关怀伦理学] — [继承] 慈悲为核心
-- [涂尔干 · 社会团结](../../../sociology/schools/classical/durkheim.md) — [互补] 菩萨的社会整合
+- [涂尔干 · 社会团结](../../../社会学/学派/古典社会学/涂尔干.md) — [互补] 菩萨的社会整合
 
 ## 进阶阅读
 

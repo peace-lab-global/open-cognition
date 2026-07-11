@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan.concepts.nanshan-vinaya
+id: 宗教.buddhism.masters.daoxuan.concepts.nanshan-vinaya
 title: "南山律 The Nanshan Vinaya Tradition"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
 tags: [南山律, 律宗, Vinaya, Nanshan, 终南山]
@@ -188,7 +188,7 @@ Contemporary Chinese Buddhist ordination rituals and saṅgha management still l
 
 台湾佛教界对南山律的传承尤为重视。当代多位法师致力于南山律的研究和弘传，包括日常法师、果清律师等。
 
-The Taiwanese Buddhist community places particular emphasis on the Nanshan tradition. Several contemporary masters have dedicated themselves to Nanshan Vinaya research and propagation.
+The Taiwanese Buddhist community places particular emphasis on the Nanshan tradition. Several contemporary masters have dedicated themselves to Nanshan Vinaya 研究 and propagation.
 
 ### 6.3 学术研究 · Academic Research
 
@@ -201,7 +201,7 @@ In international scholarship, Nanshan Vinaya studies have gained increasing atte
 ## 七、南山律的独特贡献 · Unique Contributions of Nanshan Vinaya
 
 1. **第一次系统化了中国律学**：道宣是第一个将散乱的律学研究整合为完整体系的思想家。
-   **First systematization of Chinese Vinaya studies**: Daoxuan was the first thinker to integrate scattered Vinaya research into a comprehensive system.
+   **First systematization of Chinese Vinaya studies**: Daoxuan was the first thinker to integrate scattered Vinaya 研究 into a comprehensive system.
 
 2. **实现了声闻律的大乘化**：通过"四分通大乘"的论证，使声闻律获得了大乘的合法性。
    **Achieved the Mahāyāna-ization of Śrāvaka Vinaya**: Through the Dharmaguptaka-as-Mahāyāna thesis, Śrāvaka Vinaya gained Mahāyāna legitimacy.

@@ -1,11 +1,11 @@
 ---
 name: allegory-of-cave-analysis
 description: Triggers on requests to 洞穴寓言、理型论、真理与幻象，如哲学思考、教育理念、社会批判等。Apply this skill to analyze situations using Plato's Allegory of the Cave, understanding the journey from ignorance to enlightenment.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/ancient-greek/plato.md
 linked_concepts:
-  - ../../philosophy/concepts/forms.md
-  - ../../philosophy/concepts/allegory-of-cave.md
+  - ../../哲学/概念/forms.md
+  - ../../哲学/概念/allegory-of-cave.md
 tags:
   - 洞穴寓言
   - 理型论

@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-thought.kafka
+id: 美学.literary-thought.kafka
 title: 卡夫卡 · Franz Kafka
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: modern
 birth: 1883
@@ -38,7 +38,7 @@ children:
 > **生卒**: 1883–1924
 > **国籍**: 奥匈帝国（布拉格）
 >
-> 本条目聚焦卡夫卡对**美学/哲学**的贡献。完整传记见 [文学领域 · 卡夫卡](../../../literature/schools/novelists/kafka/README.md)。
+> 本条目聚焦卡夫卡对**美学/哲学**的贡献。完整传记见 [文学领域 · 卡夫卡](../../../文学/学派/小说家/弗兰茨/README.md)。
 
 ## 一、思想概要
 

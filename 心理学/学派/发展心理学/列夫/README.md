@@ -2,7 +2,7 @@
 id: vygotsky-lev
 title: "列夫·维果茨基 · Lev Vygotsky"
 type: thinker
-domain: psychology
+domain: 心理学
 school: developmental
 era: modern
 birth: 1896
@@ -48,7 +48,7 @@ All higher mental functions are internalized social relations. Individual cognit
 
 人类心理活动与动物的根本区别在于"心理工具"（psychological tools）的使用。符号、语言、数字系统、艺术形式等文化工具不仅是认知的辅助手段，更是认知结构本身的塑造者——它们将"自然的"低级心理机能改造为"文化的"高级心理机能。
 
-The fundamental distinction between human and animal psychology lies in the use of psychological tools. Cultural tools such as signs, language, number systems, and art forms are not merely aids to cognition but are the very shapers of cognitive structure — they transform "natural" lower mental functions into "cultural" higher mental functions.
+The fundamental distinction between human and animal 心理学 lies in the use of psychological tools. Cultural tools such as signs, language, number systems, and art forms are not merely aids to cognition but are the very shapers of cognitive structure — they transform "natural" lower mental functions into "cultural" higher mental functions.
 
 ### 命题三：内化转化论 / Proposition 3: Internalization
 
@@ -80,7 +80,7 @@ The evolution of mental functions must be understood across three temporal dimen
 
 维果茨基在莫斯科大学同时学习法律和历史-哲学（1913–1917），同时对文学、戏剧和艺术怀有深厚的兴趣。他的早期学术工作集中在文学心理学——1916年完成的《哈姆雷特》心理分析展现了他对"意义"（meaning）问题的持久关注。这一时期的跨学科训练为他后来的心理学理论奠定了方法论基础：他始终将心理过程视为文化的、符号中介的过程，而非纯生物学的现象。
 
-Vygotsky studied law and history-philosophy simultaneously at Moscow University (1913–1917), while maintaining deep interests in literature, theater, and art. His early scholarly work focused on literary psychology — his 1916 psychological analysis of *Hamlet* revealed his enduring preoccupation with the problem of "meaning." The interdisciplinary training of this period laid the methodological foundation for his later psychological theory: he always conceived psychological processes as cultural, sign-mediated phenomena rather than purely biological events.
+Vygotsky studied law and history-philosophy simultaneously at Moscow University (1913–1917), while maintaining deep interests in literature, theater, and art. His early scholarly work focused on literary 心理学 — his 1916 psychological analysis of *Hamlet* revealed his enduring preoccupation with the problem of "meaning." The interdisciplinary training of this period laid the methodological foundation for his later psychological theory: he always conceived psychological processes as cultural, sign-mediated phenomena rather than purely biological events.
 
 ### 中期：文化-历史心理学的体系建构（1924–1931）/ Middle Period: Building the Cultural-Historical Psychology System (1924–1931)
 
@@ -97,7 +97,7 @@ In 1924, Vygotsky delivered a pivotal speech on consciousness at the Second All-
 
 维果茨基在生命的最后三年，将研究重心从"工具"转向"意义"和"概念形成"。《思维与语言》（1934）是其成熟著作，系统阐述了思维与语言的关系、内部言语的结构和功能、概念形成的发展阶段，以及"日常概念"（everyday concepts）与"科学概念"（scientific concepts）的辩证关系。
 
-In the final three years of his life, Vygotsky shifted his research focus from "tools" to "meaning" and "concept formation." *Thought and Language* (1934) is his mature masterwork, systematically articulating the relationship between thought and language, the structure and function of inner speech, developmental stages of concept formation, and the dialectical relationship between "everyday concepts" and "scientific concepts."
+In the final three years of his life, Vygotsky shifted his 研究 focus from "tools" to "meaning" and "concept formation." *Thought and Language* (1934) is his mature masterwork, systematically articulating the relationship between thought and language, the structure and function of inner speech, developmental stages of concept formation, and the dialectical relationship between "everyday concepts" and "scientific concepts."
 
 1934年6月11日，维果茨基因肺结核去世，年仅37岁。他的学说在斯大林时期遭到压制，被批判为"唯心主义"和"资产阶级心理学"，直到1956年赫鲁晓夫"解冻"之后才在苏联重新获得认可。1962年《思维与语言》英文版出版后，维果茨基的思想逐渐在西方学界产生了深远影响。
 
@@ -185,7 +185,7 @@ The totality of specific social relationships and cultural conditions a child fa
 - **反射学**：将复杂心理过程还原为生理反射的还原论倾向 / Reflexology: the reductive tendency to reduce complex psychological processes to physiological reflexes
 - **皮亚杰的"自然主义"**：将认知发展视为独立于社会文化环境的自然成熟过程 / Piaget's "naturalism": viewing cognitive development as natural maturation independent of sociocultural environment
 - **机械唯物主义心理学**：试图在纯粹自然科学框架内解释意识问题的做法 / Mechanistic materialist psychology: attempts to explain consciousness within a purely natural-scientific framework
-- **内省主义**：将意识研究局限于主观自我报告的方法论缺陷 / Introspectionism: the methodological limitation of confining consciousness research to subjective self-report
+- **内省主义**：将意识研究局限于主观自我报告的方法论缺陷 / Introspectionism: the methodological limitation of confining consciousness 研究 to subjective self-report
 
 ### 影响了什么 / What He Influenced
 
@@ -226,7 +226,7 @@ Lave and Wenger's (1991) "Communities of Practice" theory directly inherits Vygo
 ### 6. 文化神经科学 / Cultural Neuroscience
 当代神经科学研究为维果茨基关于文化工具塑造认知的理论提供了实证支持。大脑的可塑性研究表明，阅读、算术等文化工具的使用确实改变了大脑的神经结构，印证了"心理工具改造认知"的核心命题。
 
-Contemporary neuroscience research provides empirical support for Vygotsky's theory of cultural tools shaping cognition. Brain plasticity studies demonstrate that the use of cultural tools such as literacy and numeracy genuinely alters neural structure, confirming the core proposition that "psychological tools transform cognition."
+Contemporary neuroscience 研究 provides empirical support for Vygotsky's theory of cultural tools shaping cognition. Brain plasticity studies demonstrate that the use of cultural tools such as literacy and numeracy genuinely alters neural structure, confirming the core proposition that "psychological tools transform cognition."
 
 ### 7. 动态评估 / Dynamic Assessment
 受ZPD启发的评估方法，通过"测试-介入-再测试"的程序评估学习者的学习潜力，在跨文化评估和弱势群体教育中具有特殊价值。
@@ -262,7 +262,7 @@ Vygotsky's theory that "social interaction is the source of cognitive developmen
 ✅ 两者有重要互补之处。维果茨基认同皮亚杰关于"建构"的基本立场——儿童是主动的认知建构者，但他强调建构的社会维度。皮亚杰晚年也承认社会因素（特别是"同伴互动"）在认知发展中的重要作用。当代发展心理学倾向于将两者视为互补视角。
 
 ❌ "Vygotsky and Piaget represent two completely incompatible developmental pathways."
-✅ The two have important complementary aspects. Vygotsky agreed with Piaget's fundamental stance on "construction" — children are active cognitive constructors — but emphasized the social dimension of construction. Piaget in his later years also acknowledged the important role of social factors (especially "peer interaction") in cognitive development. Contemporary developmental psychology tends to view the two as complementary perspectives.
+✅ The two have important complementary aspects. Vygotsky agreed with Piaget's fundamental stance on "construction" — children are active cognitive constructors — but emphasized the social dimension of construction. Piaget in his later years also acknowledged the important role of social factors (especially "peer interaction") in cognitive development. Contemporary developmental 心理学 tends to view the two as complementary perspectives.
 
 ### 误读四：维果茨基忽视情感 / Misreading 4: Vygotsky Neglected Emotion
 
@@ -270,7 +270,7 @@ Vygotsky's theory that "social interaction is the source of cognitive developmen
 ✅ 《思维与语言》最后一章专门讨论了情感与思维的关系；维果茨基早期的艺术心理学著作以情感为核心研究对象。他提出了"情感与理智的统一"（unity of affect and intellect）的观点，认为两者不应被割裂。他的未完成著作《情感论》（*On Emotions*）显示他正在发展一套完整的情感理论。
 
 ❌ "Vygotsky focused only on cognition and neglected emotion and motivation."
-✅ The final chapter of *Thought and Language* specifically addresses the relationship between emotion and thought; Vygotsky's early works on psychology of art took emotion as their core subject. He proposed the "unity of affect and intellect," arguing the two should not be separated. His unfinished work *On Emotions* shows he was developing a comprehensive theory of emotion.
+✅ The final chapter of *Thought and Language* specifically addresses the relationship between emotion and thought; Vygotsky's early works on 心理学 of art took emotion as their core subject. He proposed the "unity of affect and intellect," arguing the two should not be separated. His unfinished work *On Emotions* shows he was developing a comprehensive theory of emotion.
 
 ## 东西方对话 / East-West Dialogue
 
@@ -323,7 +323,7 @@ Vygotsky is a theoretical pioneer of constructivist pedagogy. Contemporary educa
 ### 神经科学 / Neuroscience
 当代文化神经科学（Cultural Neuroscience）的研究为维果茨基的核心命题提供了实证支持：大脑的可塑性研究表明，文化工具（如文字、数字系统）的使用确实重塑了大脑的神经连接。"神经可塑性"（neural plasticity）概念与维果茨基关于"高级心理机能改造大脑功能组织"的预见高度一致。
 
-Contemporary Cultural Neuroscience research provides empirical support for Vygotsky's core propositions: brain plasticity studies demonstrate that the use of cultural tools (e.g., literacy, numeracy systems) genuinely reshapes neural connections. The concept of "neural plasticity" aligns closely with Vygotsky's prescient insight that "higher mental functions reorganize the functional architecture of the brain."
+Contemporary Cultural Neuroscience 研究 provides empirical support for Vygotsky's core propositions: brain plasticity studies demonstrate that the use of cultural tools (e.g., literacy, numeracy systems) genuinely reshapes neural connections. The concept of "neural plasticity" aligns closely with Vygotsky's prescient insight that "higher mental functions reorganize the functional architecture of the brain."
 
 ## 进阶阅读 / Further Reading
 

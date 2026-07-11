@@ -3,7 +3,7 @@ id: hakuin-sekishu
 title: "只手之声 Sound of One Hand"
 type: concept
 parent: hakuin
-domain: religion
+domain: 宗教
 tags: [one-hand, koan, Rinzai, Hakuin]
 ---
 # 只手之声 / Sound of One Hand Clapping

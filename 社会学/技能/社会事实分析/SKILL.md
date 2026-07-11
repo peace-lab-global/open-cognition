@@ -1,11 +1,11 @@
 ---
 name: social-fact-analysis
 description: Triggers on requests to 社会事实、集体意识、社会整合，如社会问题分析、文化研究、社会政策评估等。Apply this skill to analyze social phenomena as social facts, understanding how they constrain and shape individual behavior.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/classical/durkheim.md
 linked_concepts:
   - ../../concepts/social-fact.md
-  - ../../sociology/concepts/collective-consciousness.md
+  - ../../社会学/概念/collective-consciousness.md
 tags:
   - 社会事实
   - 集体意识

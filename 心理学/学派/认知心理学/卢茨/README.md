@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.lutz
+id: 心理学.cognitive.lutz
 title: "卢茨 · Antoine Lutz"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1971
@@ -47,7 +47,7 @@ sub-entries:
 
 安托万·卢茨（Antoine Lutz，1971–），法国认知神经科学家，冥想神经科学（contemplative neuroscience）领域的领军人物。卢茨在法国里昂大学接受哲学与认知科学训练，对意识研究产生浓厚兴趣，随后远赴美国威斯康星大学麦迪逊分校，加入理查德·戴维森（Richard Davidson）的情感神经科学实验室。2004年，他与 Davidson 等人在《美国国家科学院院刊》（PNAS）发表了一篇里程碑式的论文，首次以严格的脑电图（EEG）数据证明：长期禅修者（累计修行超过10,000小时）能够在慈悲冥想中自主诱发前所未有的高振幅 γ 波同步（high-amplitude gamma synchrony）。这一发现为"冥想能够改变大脑功能与结构"提供了迄今最有力的神经科学证据，彻底改变了科学界对冥想的态度——从边缘课题转为主流神经科学研究的合法对象。2010年代起，卢茨回到法国，在法国国家健康与医学研究院（INSERM）领导独立的冥想神经科学研究项目，继续深入探索冥想训练的神经机制及其临床应用前景。卢茨的独特贡献在于：他本人精通佛教哲学与禅修实践，能够有效沟通东方禅修传统与西方科学话语，是冥想科学化进程中不可替代的桥梁人物。
 
-Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure in contemplative neuroscience. Trained in philosophy and cognitive science at the University of Lyon, he developed an early interest in consciousness studies before joining Richard Davidson's affective neuroscience laboratory at the University of Wisconsin–Madison. In 2004, Lutz and colleagues published a landmark paper in *PNAS* demonstrating for the first time, with rigorous EEG data, that long-term meditators (with over 10,000 hours of practice) could self-induce unprecedented high-amplitude gamma-band synchrony during compassion meditation. This finding provided the most compelling neuroscience evidence to date that meditation can alter brain function and structure, fundamentally shifting the scientific establishment's attitude toward meditation — from a fringe topic to a legitimate object of mainstream neuroscience research. Since the 2010s, Lutz has returned to France to lead an independent contemplative neuroscience research program at INSERM (Institut national de la santé et de la recherche médicale), continuing to explore the neural mechanisms and clinical applications of meditative training. Lutz's unique contribution lies in his deep knowledge of Buddhist philosophy and contemplative practice, enabling him to bridge Eastern contemplative traditions and Western scientific discourse — making him an irreplaceable figure in the scientification of meditation.
+Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure in contemplative neuroscience. Trained in 哲学 and cognitive science at the University of Lyon, he developed an early interest in consciousness studies before joining Richard Davidson's affective neuroscience laboratory at the University of Wisconsin–Madison. In 2004, Lutz and colleagues published a landmark paper in *PNAS* demonstrating for the first time, with rigorous EEG data, that long-term meditators (with over 10,000 hours of practice) could self-induce unprecedented high-amplitude gamma-band synchrony during compassion meditation. This finding provided the most compelling neuroscience evidence to date that meditation can alter brain function and structure, fundamentally shifting the scientific establishment's attitude toward meditation — from a fringe topic to a legitimate object of mainstream neuroscience 研究. Since the 2010s, Lutz has returned to France to lead an independent contemplative neuroscience 研究 program at INSERM (Institut national de la santé et de la recherche médicale), continuing to explore the neural mechanisms and clinical applications of meditative training. Lutz's unique contribution lies in his deep knowledge of Buddhist 哲学 and contemplative practice, enabling him to bridge Eastern contemplative traditions and Western scientific discourse — making him an irreplaceable figure in the scientification of meditation.
 
 ## 核心命题 / Core Theses
 
@@ -161,8 +161,8 @@ Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure
 - [Damasio · 躯体标记](./damasio.md) — `[平行]` 内感受（interoception）在意识和情绪中的作用
 - [Goleman · 情商与冥想科学](./goleman.md) — `[传播]` Goleman 将 Lutz 的研究发现推广至大众读者
 - [Varela · 神经现象学] — `[继承]` 第一人称方法与第三人称方法的整合路径
-- [默照禅的认知结构 · Silent Illumination](../../../religion/buddhism/concepts/cognitive-theory/silent-illumination.md) — `[平行]` OM 冥想与默照禅的神经对应
-- [止观的认知分工 · Śamatha-Vipaśyanā](../../../religion/buddhism/concepts/cognitive-theory/samadhi-vipasyana.md) — `[平行]` FA/OM 区分的佛教传统根源
+- [默照禅的认知结构 · Silent Illumination](../../../宗教/佛教/概念/cognitive-theory/默照的认知结构.md) — `[平行]` OM 冥想与默照禅的神经对应
+- [止观的认知分工 · Śamatha-Vipaśyanā](../../../宗教/佛教/概念/cognitive-theory/止观的认知分工.md) — `[平行]` FA/OM 区分的佛教传统根源
 
 ## 进阶阅读 / Further Reading
 

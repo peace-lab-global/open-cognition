@@ -1,7 +1,7 @@
 ---
 name: bija-pattern-analysis
 description: 以唯识种子与熏习理论为框架，识别当下认知或行为模式背后的种子类型（名言/业）、其熏习来源（过去经验的固化）、以及转化路径（定向熏习以弱化旧种子、强化新种子）。Triggers on 重复出现的模式、难以改变的习惯、"我总是..."类的自我陈述、或希望重塑认知习惯。
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 linked_concepts:
   - ../../concepts/cognitive-theory/bija-vasana.md
@@ -162,5 +162,5 @@ tags:
 
 - 概念：[种子与熏习](../../concepts/cognitive-theory/bija-vasana.md)
 - 相关 Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
-- 跨传统：[弗洛伊德 · 潜意识印记](../../../../psychology/schools/psychoanalysis/freud.md)（平行）
-- 跨传统：[Duhigg · 习惯回路](../../../../psychology/schools/behaviorism/skinner.md)（平行）——cue/routine/reward ≈ 种子/现行/熏习
+- 跨传统：[弗洛伊德 · 潜意识印记](../../../../心理学/学派/精神分析/西格蒙德.md)（平行）
+- 跨传统：[Duhigg · 习惯回路](../../../../心理学/学派/行为主义/斯金纳.md)（平行）——cue/routine/reward ≈ 种子/现行/熏习

@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.adorno.concepts.aesthetic-autonomy
+id: 美学.critical-aesthetics.adorno.concepts.aesthetic-autonomy
 title: 审美自律 Aesthetic Autonomy
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.adorno
+domain: 美学
+parent: 美学.critical-aesthetics.adorno
 tags: [审美自律, 艺术自律, 形式, 现代主义, 否定美学]
 ---
 
@@ -35,7 +35,7 @@ Autonomous art pursues formal self-perfection. Schoenberg's atonal music, Becket
 ### 承诺艺术 / Committed Art
 承诺艺术（或"介入"艺术）追求直接的政治效果。布莱希特的戏剧、萨特的存在主义文学是承诺艺术的代表。阿多诺对承诺艺术持深刻的怀疑态度——他认为，当艺术试图直接传达政治信息时，它容易沦为宣传，丧失艺术特有的批判力量。
 
-Committed art pursues direct political effects. Brecht's theater and Sartre's existentialist literature represent committed art. Adorno is deeply skeptical of committed art — when art tries to directly convey political messages, it risks becoming propaganda, losing art's distinctive critical power.
+Committed art pursues direct political effects. Brecht's theater and Sartre's existentialist 文学 represent committed art. Adorno is deeply skeptical of committed art — when art tries to directly convey political messages, it risks becoming propaganda, losing art's distinctive critical power.
 
 ### 阿多诺的辩证立场 / Adorno's Dialectical Position
 阿多诺并非简单地将两者对立。他认为最伟大的艺术实现了自律与社会的辩证统一：贝克特的《终局》没有直接讨论任何政治问题，但它通过形式本身揭示了现代存在的荒诞性，比任何政治宣言都更有力量。
@@ -49,7 +49,7 @@ Adorno doesn't simply oppose the two. He believes the greatest art achieves a di
 - **改造**：康德将审美自律视为普遍有效的，阿多诺将其历史化——艺术的自律是在与社会的关系中获得的
 - **超越**：康德美学是静态的，阿多诺美学是辩证的——艺术的自律性和社会性处于动态张力中
 
-Adorno's aesthetic autonomy inherits and transforms Kant's "purposiveness without purpose": inheriting that art shouldn't serve external purposes; historicizing Kant's universal aesthetic autonomy — art's autonomy is gained in relation to society; transcending Kant's static aesthetics with dialectical tension between art's autonomy and sociality.
+Adorno's aesthetic autonomy inherits and transforms Kant's "purposiveness without purpose": inheriting that art shouldn't serve external purposes; historicizing Kant's universal aesthetic autonomy — art's autonomy is gained in relation to society; transcending Kant's static 美学 with dialectical tension between art's autonomy and sociality.
 
 ## 现代主义作为自律艺术的典范 / Modernism as Paradigm of Autonomous Art
 

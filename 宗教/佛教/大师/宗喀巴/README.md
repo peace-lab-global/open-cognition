@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa
+id: 宗教.buddhism.master.tsongkhapa
 title: 宗喀巴 Tsongkhapa
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 era: medieval
 birth: 1357
@@ -110,7 +110,7 @@ In 1402, Tsongkhapa completed his epoch-making magnum opus, *The Great Treatise 
 |---|---|---|---|
 | 《菩提道次第广论》 *The Great Treatise on the Stages of the Path* | Lam-rim chen-mo | 显教修行完整路径 Complete sutra path | 1402 |
 | 《密宗道次第广论》 *The Great Treatise on the Stages of Mantra* | sNgag-rim chen-mo | 密教体系系统阐述 Systematic tantra | 1406 |
-| 《入中论善显密意疏》 *Illumination of the Thought* | dBu-ma la 'jug-pa'i rgya-cher bshad-pa dgongs-pa rab-gsal | 中观哲学 Madhyamaka philosophy | c. 1418 |
+| 《入中论善显密意疏》 *Illumination of the Thought* | dBu-ma la 'jug-pa'i rgya-cher bshad-pa dgongs-pa rab-gsal | 中观哲学 Madhyamaka 哲学 | c. 1418 |
 | 《辩了不了义善说藏论》 *Essence of Eloquence* | Legs-bshad snying-po | 了义与不了义之辨 Definitive vs. interpretable meaning | c. 1407 |
 | 《三主要道论》 *Three Principal Aspects of the Path* | Lam-gtso rnam-gsum | 出离心·菩提心·空性见 Renunciation, bodhicitta, emptiness | — |
 | 《胜集密教王五次第教授善显炬论》 *Illuminating Lamp* | bSrim-lnga gsal-sgron | 五次第密法 Five stages of completion | c. 1419 |
@@ -207,7 +207,7 @@ Tsongkhapa's reform was radical in its time—he restored vinaya standards that 
 
 宗喀巴是中观哲学史上最深刻的思想家之一。他对空性的阐释——尤其是"缘起与空性的不二"——被西方学者（如 Jeffrey Hopkins、Guy Newland、Jay Garfield）认为是中观哲学发展的高峰。他的《入中论善显密意疏》至今仍是中观研究的必读文献。
 
-Tsongkhapa is among the most profound thinkers in the history of Madhyamaka philosophy. His interpretation of emptiness—especially the non-duality of dependent arising and emptiness—is regarded by Western scholars (such as Jeffrey Hopkins, Guy Newland, and Jay Garfield) as a pinnacle of Madhyamaka development. His *Illumination of the Thought* remains essential reading for Madhyamaka studies.
+Tsongkhapa is among the most profound thinkers in the history of Madhyamaka 哲学. His interpretation of emptiness—especially the non-duality of dependent arising and emptiness—is regarded by Western scholars (such as Jeffrey Hopkins, Guy Newland, and Jay Garfield) as a pinnacle of Madhyamaka development. His *Illumination of the Thought* remains essential reading for Madhyamaka studies.
 
 ### 误读 3："格鲁派排斥其他宗派" / Misreading 3: "Gelug Excludes Other Schools"
 

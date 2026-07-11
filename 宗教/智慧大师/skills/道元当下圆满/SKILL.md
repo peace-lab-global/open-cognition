@@ -135,4 +135,4 @@ tags:
 - 祖师：[道元](../../masters/japan/dogen.md)
 - 概念：[当下圆满](./concepts/presence-completeness.md)（待建）
 - 相关Skill：[道元只管打坐](./dogen-shikantaza/SKILL.md)
-- 跨传统：[马斯洛·自我实现](../../psychology/schools/humanistic/maslow.md)（平行）——但马斯洛是"成为"，道元是"已经是"；两种不同的成长观
+- 跨传统：[马斯洛·自我实现](../../心理学/学派/人本主义/马斯洛.md)（平行）——但马斯洛是"成为"，道元是"已经是"；两种不同的成长观

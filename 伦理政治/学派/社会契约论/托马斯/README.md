@@ -2,7 +2,7 @@
 id: hobbes
 title: "托马斯·霍布斯 · Thomas Hobbes"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: social-contract
 era: early-modern
 birth: 1588
@@ -76,13 +76,13 @@ Thomas Hobbes (1588–1679) was an English political philosopher and natural phi
 
 英国内战（1642–1651）深刻塑造了霍布斯的思想。1640年他因保王立场流亡巴黎，在流亡期间完成了《论公民》（1642）和《利维坦》（1651）。后者被公认为英语世界最重要的政治哲学著作，以唯物主义人性论为基础，论证了自然状态下"一切人对一切人的战争"之必然性，从而推导出绝对主权的必要性。霍布斯享年91岁，其思想横跨政治哲学、自然哲学、数学和古典翻译，对后世的政治理论、国际关系、法学和哲学产生了深远影响。
 
-The English Civil War (1642–1651) profoundly shaped Hobbes's thought. In 1640 he fled to Paris due to his royalist sympathies, where he completed *De Cive* (1642) and *Leviathan* (1651). The latter is widely considered the most important work of political philosophy in the English language, grounding the necessity of absolute sovereignty in a materialist account of human nature and the inevitability of the "war of all against all" in the state of nature. Living to the age of 91, Hobbes's thought spanned political philosophy, natural philosophy, mathematics, and classical translation, leaving a profound legacy for political theory, international relations, jurisprudence, and philosophy.
+The English Civil War (1642–1651) profoundly shaped Hobbes's thought. In 1640 he fled to Paris due to his royalist sympathies, where he completed *De Cive* (1642) and *Leviathan* (1651). The latter is widely considered the most important work of political 哲学 in the English language, grounding the necessity of absolute sovereignty in a materialist account of human nature and the inevitability of the "war of all against all" in the state of nature. Living to the age of 91, Hobbes's thought spanned political philosophy, natural philosophy, mathematics, and classical translation, leaving a profound legacy for political theory, international relations, jurisprudence, and 哲学.
 
 ### 方法论 / Methodology
 
 霍布斯的哲学方法论深受欧几里得几何学和伽利略力学的影响。他主张哲学应当以严格的演绎方式进行——从最基本的定义和公理出发，通过逻辑推理得出结论。这种方法论使他拒绝亚里士多德的目的论传统，代之以机械论的世界观：宇宙是由物质的运动构成的一切，一切现象都可以用运动和力学来解释。在政治哲学中，这意味着从最基本的人性事实（感觉、激情、理性）出发，推导出政治秩序的必要性。
 
-Hobbes's philosophical methodology was deeply influenced by Euclidean geometry and Galilean mechanics. He held that philosophy should proceed by strict deduction — from the most basic definitions and axioms to conclusions through logical reasoning. This methodology led him to reject the Aristotelian teleological tradition in favor of a mechanistic worldview: the universe consists entirely of matter in motion, and all phenomena can be explained by motion and mechanics. In political philosophy, this means deriving the necessity of political order from the most basic facts of human nature (sense, passions, reason).
+Hobbes's philosophical methodology was deeply influenced by Euclidean geometry and Galilean mechanics. He held that 哲学 should proceed by strict deduction — from the most basic definitions and axioms to conclusions through logical reasoning. This methodology led him to reject the Aristotelian teleological tradition in favor of a mechanistic worldview: the universe consists entirely of matter in motion, and all phenomena can be explained by motion and mechanics. In political philosophy, this means deriving the necessity of political order from the most basic facts of human nature (sense, passions, reason).
 
 ## 核心命题 / Core Theses
 
@@ -90,7 +90,7 @@ Hobbes's philosophical methodology was deeply influenced by Euclidean geometry a
 在没有公共权力约束的条件下，人类出于竞争、猜疑和虚荣，必然陷入"一切人对一切人的战争"（bellum omnium contra omnes）。在自然状态中，生活是"孤独的、贫困的、肮脏的、残酷的、短暂的"。In the absence of a common power, humans are driven by competition, diffidence, and glory into a condition of "war of every man against every man." In such a state, life is "solitary, poor, nasty, brutish, and short."
 
 ### 2. 自然法与自然权利 / Natural Law and Natural Right
-理性发现的自然法要求人们追求和平、信守契约、感恩、宽恕等。但自然法仅在"良知的法庭"上约束人，在没有强制力的自然状态中无法保证执行。霍布斯首次明确区分了自然权利（jus，自由）与自然法（lex，义务），这一区分构成了现代政治哲学的基础。Reason discovers laws of nature commanding peace-keeping, covenant-keeping, gratitude, and forgiveness. Yet these laws bind only *in foro interno* and cannot be enforced without coercive power. Hobbes was the first to sharply distinguish natural right (jus, liberty) from natural law (lex, obligation) — a distinction that became foundational for modern political philosophy.
+理性发现的自然法要求人们追求和平、信守契约、感恩、宽恕等。但自然法仅在"良知的法庭"上约束人，在没有强制力的自然状态中无法保证执行。霍布斯首次明确区分了自然权利（jus，自由）与自然法（lex，义务），这一区分构成了现代政治哲学的基础。Reason discovers laws of nature commanding peace-keeping, covenant-keeping, gratitude, and forgiveness. Yet these laws bind only *in foro interno* and cannot be enforced without coercive power. Hobbes was the first to sharply distinguish natural right (jus, liberty) from natural law (lex, obligation) — a distinction that became foundational for modern political 哲学.
 
 ### 3. 社会契约 / Social Contract
 为了摆脱自然状态的恐怖，人们彼此订立契约，将全部自然权利转让给一个主权者（sovereign），由其代表全体行使强制权力。契约是人与人之间订立的，而非人与主权者之间订立的——因此主权者不受契约约束，契约不可撤回。To escape the horrors of the state of nature, individuals covenant with one another to transfer all their natural rights to a sovereign who represents them all and wields coercive power. The covenant is between individuals, not between individuals and the sovereign — hence the sovereign is not bound by it, and the contract is irrevocable.
@@ -110,13 +110,13 @@ Hobbes's philosophical methodology was deeply influenced by Euclidean geometry a
 
 霍布斯的早期生涯以人文主义教育和政治觉醒为特征。在牛津学习经院哲学后，他长期服务于卡文迪许家族，借此接触了英国知识精英圈。1628年翻译修昔底德的《伯罗奔尼撒战争史》是思想形成的关键事件——修昔底德的政治现实主义深刻影响了霍布斯对人性与权力的理解。1629年偶然读到欧几里得《几何原本》使他确信演绎方法的优越性，此后他立志以几何学式的严格性重建整个哲学体系。1636年在佛罗伦萨拜访伽利略后，机械论世界观基本确立。1640年完成的《法律原理》已包含自然状态与社会契约的雏形，但因政治动荡被迫流亡巴黎。
 
-Hobbes's early period was marked by humanist education and political awakening. After studying scholastic philosophy at Oxford, he served the Cavendish family long-term, gaining access to England's intellectual elite. His 1628 translation of Thucydides' *History of the Peloponnesian War* was a formative event — Thucydidean political realism deeply shaped his understanding of human nature and power. An accidental encounter with Euclid's *Elements* in 1629 convinced him of the superiority of the deductive method, and he resolved to reconstruct all philosophy with geometrical rigor. After visiting Galileo in Florence in 1636, his mechanistic worldview was essentially complete. *The Elements of Law* (1640) already contained the germ of the state of nature and social contract, but political turmoil forced his exile to Paris.
+Hobbes's early period was marked by humanist education and political awakening. After studying scholastic 哲学 at Oxford, he served the Cavendish family long-term, gaining access to England's intellectual elite. His 1628 translation of Thucydides' *History of the Peloponnesian War* was a formative event — Thucydidean political realism deeply shaped his understanding of human nature and power. An accidental encounter with Euclid's *Elements* in 1629 convinced him of the superiority of the deductive method, and he resolved to reconstruct all 哲学 with geometrical rigor. After visiting Galileo in Florence in 1636, his mechanistic worldview was essentially complete. *The Elements of Law* (1640) already contained the germ of the state of nature and social contract, but political turmoil forced his exile to Paris.
 
 ### 中期 / Middle Period (1640–1651)
 
 流亡巴黎期间，霍布斯进入了梅森（Marin Mersenne）的学术圈，与笛卡尔、伽桑狄等一流思想家交锋。1642年出版的《论公民》首次系统阐述了其政治理论，确立了他在欧洲知识界的地位。英国内战的进程——尤其是1649年查理一世被处决——坚定了他对政治秩序之必要性的信念。1646至1648年间他担任流亡的威尔士亲王（未来的查理二世）的数学教师，但因《利维坦》中对教会权力的否定而失去保皇派信任。1651年《利维坦》的出版是英语政治哲学史上的里程碑事件——该书同时激怒了保皇派（因否定君权神授）和教会（因否定教会独立权力），迫使霍布斯逃回克伦威尔治下的英国。
 
-During his Parisian exile, Hobbes entered the intellectual circle of Marin Mersenne, engaging with Descartes, Gassendi, and other leading thinkers. *De Cive* (1642) was the first systematic statement of his political theory, establishing his reputation in European intellectual circles. The course of the English Civil War — especially Charles I's execution in 1649 — reinforced his conviction of the necessity of political order. From 1646 to 1648 he tutored the exiled Prince of Wales (future Charles II) in mathematics, but lost the royalists' trust due to *Leviathan*'s denial of ecclesiastical power. The publication of *Leviathan* in 1651 was a landmark event in the history of political philosophy — the book simultaneously enraged royalists (for denying divine right) and the clergy (for denying ecclesiastical independence), forcing Hobbes to flee back to Cromwell's England.
+During his Parisian exile, Hobbes entered the intellectual circle of Marin Mersenne, engaging with Descartes, Gassendi, and other leading thinkers. *De Cive* (1642) was the first systematic statement of his political theory, establishing his reputation in European intellectual circles. The course of the English Civil War — especially Charles I's execution in 1649 — reinforced his conviction of the necessity of political order. From 1646 to 1648 he tutored the exiled Prince of Wales (future Charles II) in mathematics, but lost the royalists' trust due to *Leviathan*'s denial of ecclesiastical power. The publication of *Leviathan* in 1651 was a landmark event in the history of political 哲学 — the book simultaneously enraged royalists (for denying divine right) and the clergy (for denying ecclesiastical independence), forcing Hobbes to flee back to Cromwell's England.
 
 ### 晚期 / Late Period (1651–1679)
 
@@ -132,7 +132,7 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 | 1640 | *The Elements of Law, Natural and Politic* | 《法律原理》 | 自然状态与社会契约的雏形 / First draft of state of nature and social contract |
 | 1642 | *De Cive* | 《论公民》 | 首次系统阐述政治理论 / First systematic political theory |
 | 1650 | *Human Nature* / *De Corpore Politico* | 《人性论》/《论政治体》 | 《法律原理》的分拆出版 / Split publication of Elements |
-| 1651 | *Leviathan* | 《利维坦》 | 英语政治哲学的顶峰之作 / Pinnacle of English political philosophy |
+| 1651 | *Leviathan* | 《利维坦》 | 英语政治哲学的顶峰之作 / Pinnacle of English political 哲学 |
 | 1655 | *De Corpore* | 《论物体》 | 唯物主义形而上学 / Materialist metaphysics |
 | 1658 | *De Homine* | 《论人》 | 光学与感知理论 / Optics and perception |
 | 1668 | *Leviathan* (Latin edition) | 《利维坦》（拉丁文版） | 修订与补充 / Revised and supplemented |
@@ -175,7 +175,7 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 
 7. **AI 治理 / AI Governance** — 人工智能领域的"自然状态"——缺乏统一监管框架的技术竞赛，是否需要全球性"数字利维坦"？The "state of nature" in AI — unregulated technological competition lacking a unified regulatory framework. Does a global "digital Leviathan" need to emerge?
 
-8. **法律实证主义 / Legal Positivism** — 霍布斯的法律观——"法律不是因正确而被制定，而是因制定而正确"（auctoritas, non veritas, facit legem）——预见了奥斯丁和哈特的法律实证主义传统，成为当代法哲学的核心议题之一。Hobbes's legal view — "law is made not by being true but by being made" (*auctoritas, non veritas, facit legem*) — anticipated the legal positivism tradition of Austin and Hart, becoming one of the core issues in contemporary philosophy of law.
+8. **法律实证主义 / Legal Positivism** — 霍布斯的法律观——"法律不是因正确而被制定，而是因制定而正确"（auctoritas, non veritas, facit legem）——预见了奥斯丁和哈特的法律实证主义传统，成为当代法哲学的核心议题之一。Hobbes's legal view — "law is made not by being true but by being made" (*auctoritas, non veritas, facit legem*) — anticipated the legal positivism tradition of Austin and Hart, becoming one of the core issues in contemporary 哲学 of law.
 
 ## 常见误读 / Common Misreadings
 
@@ -195,7 +195,7 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 
 霍布斯的思想与中国传统思想存在有趣的对话可能。荀子主张"人之性恶，其善者伪也"，与霍布斯对人性的现实主义分析形成平行。荀子同样认为需要"礼义"（规范体系）来约束人性中的冲突倾向，这与霍布斯以主权权力约束自然状态中的冲突逻辑结构相似。然而根本区别在于：荀子的"礼"根植于宇宙秩序与儒家的道德传统，而霍布斯的主权完全来自人造契约。
 
-Hobbes's thought invites productive dialogue with the Xunzian tradition in Chinese philosophy. Xunzi's claim that "human nature is evil; goodness is artifice" parallels Hobbes's realistic analysis of human nature. Xunzi likewise held that ritual and propriety (*li-yi*) are needed to restrain humanity's conflictual tendencies, which is structurally similar to Hobbes's argument that sovereign power must restrain conflict in the state of nature. The crucial difference is that Xunzi's *li* is rooted in a cosmic Confucian moral order, whereas Hobbes's sovereignty derives entirely from an artificial contract.
+Hobbes's thought invites productive dialogue with the Xunzian tradition in Chinese 哲学. Xunzi's claim that "human nature is evil; goodness is artifice" parallels Hobbes's realistic analysis of human nature. Xunzi likewise held that ritual and propriety (*li-yi*) are needed to restrain humanity's conflictual tendencies, which is structurally similar to Hobbes's argument that sovereign power must restrain conflict in the state of nature. The crucial difference is that Xunzi's *li* is rooted in a cosmic Confucian moral order, whereas Hobbes's sovereignty derives entirely from an artificial contract.
 
 韩非子的法家思想与霍布斯更为接近：两者都强调"势"（权力位置）和"法"（成文法律）作为政治秩序基础的重要性，都从人性自利的假设出发进行政治分析，都否定道德说教可以替代制度约束的有效性。然而根本区别在于：韩非子纯粹服务于君主的利益，而霍布斯的理论（虽然倾向绝对主义）包含着自我保存的普遍权利这一自由主义种子。
 

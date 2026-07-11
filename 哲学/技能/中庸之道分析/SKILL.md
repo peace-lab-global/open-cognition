@@ -1,11 +1,11 @@
 ---
 name: golden-mean-analysis
 description: Triggers on requests to 中庸之道、德性伦理、实践智慧，如道德决策、品格培养、生活方式选择等。Apply this skill to analyze situations using Aristotle's concept of the golden mean, finding the balance between extremes.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/ancient-greek/aristotle.md
 linked_concepts:
-  - ../../philosophy/concepts/virtue-ethics.md
-  - ../../philosophy/concepts/golden-mean.md
+  - ../../哲学/概念/virtue-ethics.md
+  - ../../哲学/概念/golden-mean.md
 tags:
   - 中庸之道
   - 德性伦理
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[亚里士多德](../../schools/ancient-greek/aristotle.md)
 - 概念：[德性伦理](../../concepts/virtue-ethics.md)、[中庸](../../concepts/golden-mean.md)
-- 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[aristotle-virtue-test](../../ethics-politics/skills/aristotle-virtue-test/SKILL.md)
+- 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[aristotle-virtue-test](../../伦理政治/技能/亚里士多德德/SKILL.md)

@@ -2,7 +2,7 @@
 id: eisenstein
 title: "谢尔盖·爱森斯坦 · Sergei Eisenstein"
 type: thinker
-domain: arts
+domain: 艺术
 school: performing-arts
 era: modern
 birth: 1898
@@ -126,11 +126,11 @@ Between 1929 and 1932, Eisenstein left the Soviet Union, lecturing in Europe, br
 
 返回苏联后，爱森斯坦面临日益收紧的政治控制和"社会主义现实主义"美学的官方要求。然而，他并未简单地妥协，而是在晚期作品中发展出了一套更为复杂的表达体系。1938年的《亚历山大·涅夫斯基》是他声画对位理论的首次完整实践——在著名的"冰湖大战"段落中，普罗科菲耶夫的音乐不是简单地为画面配乐，而是作为独立的声线与影像形成对位关系，两者在平行运动中产生超越各自内容的意义整体。
 
-Upon returning to the Soviet Union, Eisenstein faced tightening political control and official demands for "socialist realist" aesthetics. However, rather than simply compromising, he developed a more complex expressive system in his late works. The 1938 *Alexander Nevsky* was the first complete realization of his audio-visual counterpoint theory — in the famous "Battle on the Ice" sequence, Prokofiev's music does not merely accompany the image but operates as an independent line in contrapuntal relation with the visual, the two producing a holistic meaning that transcends their individual content in parallel movement.
+Upon returning to the Soviet Union, Eisenstein faced tightening political control and official demands for "socialist realist" 美学. However, rather than simply compromising, he developed a more complex expressive system in his late works. The 1938 *Alexander Nevsky* was the first complete realization of his audio-visual counterpoint theory — in the famous "Battle on the Ice" sequence, Prokofiev's music does not merely accompany the image but operates as an independent line in contrapuntal relation with the visual, the two producing a holistic meaning that transcends their individual content in parallel movement.
 
 《伊凡雷帝》（1942–1946）是他最后的也是最具心理深度的作品。第一部以其宏大的历史叙事获得了斯大林奖金，但第二部因对权力心理学的过于真实的描绘而遭到禁映（直到1958年才公映）。第二部中的彩色段落——尤其是伊凡加冕的场面——展现了爱森斯坦对色彩心理学的深入研究，他试图建立一套色彩与情感之间的系统对应关系。
 
-*Ivan the Terrible* (1942–1946) was his final and most psychologically profound work. Part I received the Stalin Prize for its grand historical narrative, but Part II was banned (not released until 1958) for its uncomfortably truthful portrayal of the psychology of power. The color sequences in Part II — especially the coronation scene — revealed Eisenstein's deep research into color psychology, as he attempted to establish a systematic correspondence between color and emotion.
+*Ivan the Terrible* (1942–1946) was his final and most psychologically profound work. Part I received the Stalin Prize for its grand historical narrative, but Part II was banned (not released until 1958) for its uncomfortably truthful portrayal of the 心理学 of power. The color sequences in Part II — especially the coronation scene — revealed Eisenstein's deep 研究 into color psychology, as he attempted to establish a systematic correspondence between color and emotion.
 
 他晚年的理论写作——包括对蒙太奇的重新思考、对"激情"（pathos）与"狂喜"（ecstasy）的系统论述、以及对迪斯尼动画和格里菲斯电影的深入分析——在他1948年因中风逝世后陆续整理出版，构成了20世纪最为深广的电影思想遗产。这些手稿表明，爱森斯坦的思想远未被穷尽——他对感官认知、身体反应和审美经验的思考预示了后来认知科学和神经美学的许多核心问题。
 
@@ -297,7 +297,7 @@ The Chinese aesthetic concept of "yijing" (意境, artistic conception) — prod
 
 - 爱森斯坦：《蒙太奇论》，富澜译，中国电影出版社，1998. — 最完整的中译理论选集 / Most complete Chinese translation of theoretical writings
 - 爱森斯坦：《爱森斯坦论文选集》，尤列涅夫编注，中国电影出版社，1962. — 早期经典译本 / Early classic translation
-- 安德烈·巴赞：《电影是什么？》，崔君衍译，中国电影出版社，1987. — 包含对蒙太奇美学的重要批评 / Includes important critiques of montage aesthetics
+- 安德烈·巴赞：《电影是什么？》，崔君衍译，中国电影出版社，1987. — 包含对蒙太奇美学的重要批评 / Includes important critiques of montage 美学
 - 大卫·波德维尔：《电影艺术：形式与风格》，曾伟祯译 — 包含对爱森斯坦的详细分析 / Includes detailed analysis of Eisenstein
 - 《伊凡雷帝》与《战舰波将金号》中文字幕版 — 配合阅读使用 / Chinese-subtitled versions for use alongside reading
 

@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kabat-zinn
+id: 心理学.cognitive.kabat-zinn
 title: "卡巴金 · Jon Kabat-Zinn"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1944
@@ -86,7 +86,7 @@ MBSR helps people shift from "doing mode" (constantly problem-solving, goal-purs
 
 卡巴金1982年发表的首篇论文"An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation"开启了正念的科学研究时代。他坚持MBSR必须经受科学检验——不是因为它有效所以研究它，而是通过研究来验证它是否真的有效。截至2020年代，已有数千篇同行评审论文探讨正念干预的效果。
 
-Kabat-Zinn's 1982 paper "An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation" launched the scientific research era of mindfulness. He insisted that MBSR must withstand scientific scrutiny — not because it was assumed effective, but to verify whether it truly was. By the 2020s, thousands of peer-reviewed papers have examined mindfulness-based interventions.
+Kabat-Zinn's 1982 paper "An Outpatient Program in Behavioral Medicine for Chronic Pain Patients Based on the Practice of Mindfulness Meditation" launched the scientific 研究 era of mindfulness. He insisted that MBSR must withstand scientific scrutiny — not because it was assumed effective, but to verify whether it truly was. By the 2020s, thousands of peer-reviewed papers have examined mindfulness-based interventions.
 
 ---
 
@@ -121,7 +121,7 @@ In 1995, Kabat-Zinn founded the Center for Mindfulness in Medicine, Health Care,
 | 1994 | *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*（《正念：此刻是一枝花》） | 日常正念入门读物，使正念走出临床环境 / Accessible introduction to everyday mindfulness; brought mindfulness beyond clinical settings |
 | 2005 | *Coming to Our Senses: Healing Ourselves and the World Through Mindfulness* | 扩展正念到感官觉察与全球关怀 / Extended mindfulness to sensory awareness and global care |
 | 2012 | *Mindfulness for Beginners: Reclaiming the Present Moment and Your Life* | 简明正念入门，面向初学者 / Concise mindfulness introduction for beginners |
-| 2013 | *Full Catastrophe Living* (Revised Edition) | 纳入最新神经科学研究证据 / Incorporated latest neuroscience research evidence |
+| 2013 | *Full Catastrophe Living* (Revised Edition) | 纳入最新神经科学研究证据 / Incorporated latest neuroscience 研究 evidence |
 
 详见 → [works.md](works.md)
 
@@ -158,9 +158,9 @@ In 1995, Kabat-Zinn founded the Center for Mindfulness in Medicine, Health Care,
 Kabat-Zinn's unique position in intellectual history is that of a "translator" and "bridge-builder" — he translated the deep wisdom of Buddhist meditation into language that modern science could understand and test, while preserving its transformative power. His work spans the intersection of multiple fields:
 
 - **身心医学 · Behavioral Medicine** — 将冥想从替代疗法提升为循证干预 / Elevated meditation from alternative therapy to evidence-based intervention
-- **认知科学 · Cognitive Science** — 为注意力、元认知和情绪调节研究提供了实验范式 / Provided experimental paradigms for attention, metacognition, and emotion regulation research
+- **认知科学 · Cognitive Science** — 为注意力、元认知和情绪调节研究提供了实验范式 / Provided experimental paradigms for attention, metacognition, and emotion regulation 研究
 - **临床心理学 · Clinical Psychology** — 催生了"第三波"认知行为疗法（ACT, DBT, MBCT）/ Catalyzed the "third wave" of cognitive behavioral therapies (ACT, DBT, MBCT)
-- **神经科学 · Neuroscience** — 推动了冥想对大脑可塑性影响的研究（与Richard Davidson的合作）/ Advanced research on meditation's effects on brain plasticity (collaboration with Richard Davidson)
+- **神经科学 · Neuroscience** — 推动了冥想对大脑可塑性影响的研究（与Richard Davidson的合作）/ Advanced 研究 on meditation's effects on brain plasticity (collaboration with Richard Davidson)
 - **公共卫生 · Public Health** — 正念干预在焦虑、失眠、免疫调节中的应用 / Mindfulness interventions applied to anxiety, insomnia, and immune regulation
 - **教育 · Education** — 学校正念项目（MindUP, .b课程, Mindfulness in Schools Project）/ School mindfulness programs (MindUP, .b curriculum, Mindfulness in Schools Project)
 
@@ -196,7 +196,7 @@ Google's "Search Inside Yourself" program (launched 2007) brought mindfulness tr
 ### 6. 神经科学 · Neuroscience
 fMRI和EEG研究揭示了正念训练对大脑结构和功能的影响：前额叶皮层增厚、杏仁核反应性降低、默认模式网络（DMN）活动变化、端粒酶活性增加。Richard Davidson与卡巴金的合作研究（2003）发现，八周MBSR训练可增强左侧前额叶活动（与积极情绪相关）并改善免疫功能。
 
-fMRI and EEG studies have revealed mindfulness training's effects on brain structure and function: prefrontal cortex thickening, reduced amygdala reactivity, changes in default mode network (DMN) activity, and increased telomerase activity. Richard Davidson's collaborative research with Kabat-Zinn (2003) found that eight weeks of MBSR training enhanced left prefrontal activity (associated with positive emotions) and improved immune function.
+fMRI and EEG studies have revealed mindfulness training's effects on brain structure and function: prefrontal cortex thickening, reduced amygdala reactivity, changes in default mode network (DMN) activity, and increased telomerase activity. Richard Davidson's collaborative 研究 with Kabat-Zinn (2003) found that eight weeks of MBSR training enhanced left prefrontal activity (associated with positive emotions) and improved immune function.
 
 ### 7. 公共卫生与社会政策 · Public Health and Social Policy
 英国"正念国度"报告（2016）建议在议会、教育、医疗和刑事司法系统中推广正念。世界卫生组织（WHO）已将正念纳入其心理健康促进框架。多国军队和退伍军人事务部门使用正念干预治疗PTSD。
@@ -262,7 +262,7 @@ Zhuangzi's "fasting of the mind" (心斋) and "sitting and forgetting" (坐忘) 
 |:---|:---|:---|
 | **认知行为疗法 · CBT** | Aaron Beck, Zindel Segal | MBCT = MBSR + CBT；认知去中心化 / MBCT = MBSR + CBT; cognitive decentering |
 | **接纳与承诺疗法 · ACT** | Steven Hayes | 心理灵活性模型与正念的融合 / Integration of psychological flexibility model with mindfulness |
-| **情绪神经科学 · Affective Neuroscience** | Richard Davidson | 冥想对大脑可塑性的fMRI研究 / fMRI research on meditation's effects on brain plasticity |
+| **情绪神经科学 · Affective Neuroscience** | Richard Davidson | 冥想对大脑可塑性的fMRI研究 / fMRI 研究 on meditation's effects on brain plasticity |
 | **积极心理学 · Positive Psychology** | Martin Seligman | 正念与心流（flow）、品格优势的交集 / Intersection of mindfulness with flow and character strengths |
 | **具身认知 · Embodied Cognition** | Antonio Damasio, Francisco Varela | 身体觉察与认知形成的关系 / Relationship between body awareness and cognitive formation |
 | **佛教心理学 · Buddhist Psychology** | 释迦牟尼 · Buddha | 四念处的世俗化翻译 / Secular translation of the Four Foundations of Mindfulness |

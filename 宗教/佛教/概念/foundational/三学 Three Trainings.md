@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.three-trainings
+id: 宗教.buddhism.core.three-trainings
 title: 三学 Three Trainings
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三学, 戒定慧, sīla-samādhi-prajñā]
@@ -57,9 +57,9 @@ sources: [巴利三藏, 《清净道论》]
 
 ## 跨学科关联
 
-- [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) — [平行] 戒律作为行为塑造
-- [卡尼曼 · 系统2](../../../psychology/schools/behavioral-economics/kahneman.md) — [平行] 定是注意控制
-- [皮亚杰 · 反思抽象](../../../psychology/schools/cognitive/piaget.md) — [平行] 慧是认知跃迁
+- [斯金纳 · 行为塑造](../../../心理学/学派/行为主义/斯金纳.md) — [平行] 戒律作为行为塑造
+- [卡尼曼 · 系统2](../../../心理学/学派/行为经济学/丹尼尔.md) — [平行] 定是注意控制
+- [皮亚杰 · 反思抽象](../../../心理学/学派/认知心理学/皮亚杰.md) — [平行] 慧是认知跃迁
 
 ## 进阶阅读
 

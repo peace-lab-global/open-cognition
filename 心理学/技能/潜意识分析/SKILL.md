@@ -1,11 +1,11 @@
 ---
 name: unconscious-analysis
 description: Triggers on requests to 潜意识分析、梦境解析、防御机制，如心理分析、自我探索、人格理解等。Apply this skill to analyze unconscious motivations, dreams, and defense mechanisms based on Freud's psychoanalytic theory.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/psychoanalysis/freud.md
 linked_concepts:
-  - ../../psychology/concepts/unconscious.md
-  - ../../psychology/concepts/defense-mechanisms.md
+  - ../../心理学/概念/unconscious.md
+  - ../../心理学/概念/defense-mechanisms.md
 tags:
   - 潜意识
   - 梦境解析

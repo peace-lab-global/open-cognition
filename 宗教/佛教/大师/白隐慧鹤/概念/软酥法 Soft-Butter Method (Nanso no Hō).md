@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin.concepts.body-cultivation
+id: 宗教.buddhism.masters.hakuin.concepts.body-cultivation
 title: 软酥法 Soft-Butter Method (Nanso no Hō)
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
 tags: [软酥法, nanso, body-cultivation, 禅病, Zen sickness, 白隐, Hakuin, 气脉, somatic]
@@ -114,7 +114,7 @@ The Soft-Butter Method forms meaningful dialogue with contemporary psychosomatic
 
 ### "软酥法只是一种放松技术" / "The Soft-Butter Method is just a relaxation technique"
 虽然软酥法确实有放松效果，但白隐创制它的目的是治疗禅病——一种特定的、由修行导致的身心失调。它不仅是对治方法，更是对"身心不二"哲学的具体实践。
-Although the method does produce relaxation, Hakuin created it to treat Zen sickness — a specific practice-induced body-mind disorder. It is not merely remedial but a concrete practice of "body-mind non-duality" philosophy.
+Although the method does produce relaxation, Hakuin created it to treat Zen sickness — a specific practice-induced body-mind disorder. It is not merely remedial but a concrete practice of "body-mind non-duality" 哲学.
 
 ### "现代人不会有禅病" / "Modern people don't get Zen sickness"
 恰恰相反。当代高强度的正念冥想课程、禅修闭关等同样会导致类似问题——学术界已将其命名为"冥想不良反应"（adverse meditation effects）。白隐的诊断框架在今天仍有实际意义。

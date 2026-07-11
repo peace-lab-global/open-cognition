@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.zhiyi.concept.classification-teachings
+id: 宗教.buddhism.master.zhiyi.concept.classification-teachings
 title: "五时八教 Wushi Bajiao: 智顗的判教体系与认知发展层次论"
 type: concept
-parent: religion.buddhism.master.zhiyi
-domain: religion
+parent: 宗教.buddhism.master.zhiyi
+domain: 宗教
 tags: [五时八教, Wushi Bajiao, Classification of Teachings, panjiao, doxography, 判教, 五时, 八教, 化法四教, 化仪四教, Tiantai]
 ---
 

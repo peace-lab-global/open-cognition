@@ -2,7 +2,7 @@
 id: nussbaum-fragility-of-goodness
 title: 善的脆弱性 · Nussbaum
 type: concept
-domain: ethics-politics
+domain: 伦理政治
 school: capability-approach
 thinker: nussbaum
 tags: [fragility-of-goodness, nussbaum]

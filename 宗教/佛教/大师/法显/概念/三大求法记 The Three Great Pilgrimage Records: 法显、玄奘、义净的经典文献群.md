@@ -3,7 +3,7 @@ id: faxian-three-travel-records
 title: "三大求法记 The Three Great Pilgrimage Records: 法显、玄奘、义净的经典文献群"
 type: concept
 parent: faxian
-domain: religion
+domain: 宗教
 tags: [three-records, 三大求法记, Xuanzang, Yijing, 大唐西域记, 南海寄归内法传, 佛国记, comparative-travel]
 ---
 

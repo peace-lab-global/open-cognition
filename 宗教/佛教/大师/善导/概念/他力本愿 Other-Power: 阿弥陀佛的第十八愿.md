@@ -3,7 +3,7 @@ id: shandao-tanli-benyuan
 title: "他力本愿 Other-Power: 阿弥陀佛的第十八愿"
 type: concept
 parent: shandao
-domain: religion
+domain: 宗教
 tags: [other-power, tariki, eighteenth-vow, Pure-Land]
 ---
 # 他力本愿 / Other-Power (Tariki)

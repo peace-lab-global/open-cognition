@@ -2,7 +2,7 @@
 id: van-gogh
 title: "文森特·梵高 · Vincent van Gogh"
 type: thinker
-domain: arts
+domain: 艺术
 school: visual-arts
 era: modern
 birth: 1853
@@ -96,7 +96,7 @@ Van Gogh's artistic beginnings were deeply influenced by the Dutch Golden Age an
 
 1886年，梵高来到巴黎与弟弟提奥同住。提奥是古皮尔画廊的经纪人，正在推广印象派画家。梵高由此接触了莫奈、德加、毕沙罗、西斯莱等印象派画家的作品，以及修拉和西涅克的新印象派（点彩法）。更关键的是，他发现了日本浮世绘版画——大量收集和临摹浮世绘作品，深受其平坦色块和大胆构图的影响。巴黎时期的两年间，梵高的调色板从阴暗转向明亮，笔触从粗犷转向碎裂——但他始终保持着与印象派不同的情感强度。1888年2月，梵高离开巴黎前往法国南部小城阿尔勒（Arles），寻求更强烈的阳光和色彩。阿尔勒的15个月是梵高创作生涯的绝对高峰——他在这里完成了约200幅油画和100幅素描，包括最具标志性的作品：《向日葵》系列、《夜间咖啡馆》、《阿尔勒的卧室》、《罗纳河上的星夜》。1888年10月，梵高邀请保罗·高更来阿尔勒共同生活和创作——"南方工作室"的梦想。然而两人的性格和艺术理念剧烈冲突——9周后的高更离去以梵高的精神崩溃和割耳事件告终。
 
-In 1886, Van Gogh moved to Paris to live with his brother Theo, an art dealer promoting Impressionist painters. He encountered works by Monet, Degas, Pissarro, Sisley, as well as the Neo-Impressionism of Seurat and Signac. Crucially, he discovered Japanese ukiyo-e prints, collecting and copying them extensively. During two Paris years, his palette shifted from dark to bright, his brushwork from rough to broken — yet he always maintained an emotional intensity distinct from Impressionism. In February 1888, he left Paris for Arles in southern France, seeking stronger light and color. The 15 months in Arles were the absolute peak of his creative career — approximately 200 oil paintings and 100 drawings, including the *Sunflowers* series, *The Night Café*, *Bedroom in Arles*, and *Starry Night Over the Rhône*. In October 1888, he invited Paul Gauguin to Arles — the dream of a "Studio of the South." But the two clashed in personality and artistic philosophy — Gauguin's departure after nine weeks ended in Van Gogh's mental breakdown and the ear-cutting incident.
+In 1886, Van Gogh moved to Paris to live with his brother Theo, an art dealer promoting Impressionist painters. He encountered works by Monet, Degas, Pissarro, Sisley, as well as the Neo-Impressionism of Seurat and Signac. Crucially, he discovered Japanese ukiyo-e prints, collecting and copying them extensively. During two Paris years, his palette shifted from dark to bright, his brushwork from rough to broken — yet he always maintained an emotional intensity distinct from Impressionism. In February 1888, he left Paris for Arles in southern France, seeking stronger light and color. The 15 months in Arles were the absolute peak of his creative career — approximately 200 oil paintings and 100 drawings, including the *Sunflowers* series, *The Night Café*, *Bedroom in Arles*, and *Starry Night Over the Rhône*. In October 1888, he invited Paul Gauguin to Arles — the dream of a "Studio of the South." But the two clashed in personality and artistic 哲学 — Gauguin's departure after nine weeks ended in Van Gogh's mental breakdown and the ear-cutting incident.
 
 ### 晚期 / Late Period (1889–1890): 圣雷米的旋涡与奥维尔的最后七十天
 
@@ -186,7 +186,7 @@ In May 1889, Van Gogh voluntarily entered the Saint-Paul-de-Mausole asylum in Sa
 
 3. ❌ **"梵高只是印象派画家" / "Van Gogh was merely an Impressionist"** → ✅ **梵高虽然受到印象派的深刻影响，但他超越了印象派的"视觉记录"——他不追求瞬间光色的客观分析（如莫奈），而是追求情感的强烈表达。他是"后印象派"（Post-Impressionism）的核心代表。 / Though deeply influenced by Impressionism, he transcended its "visual recording" — he did not pursue objective analysis of instantaneous light (like Monet) but pursued intense emotional expression. He is a core representative of "Post-Impressionism."**
 
-4. ❌ **"割耳是因为疯狂" / "The ear-cutting was an act of madness"** → ✅ **割耳事件的具体原因至今有争议——可能是高更离去后的精神崩溃、可能是癫痫发作期间的自伤行为、也可能是某种精神疾病的症状。将其简单归结为"疯了"忽视了梵高精神状态的复杂性。最新的考证（Bernadette Murphy, 2016）揭示了许多此前未知的细节。 / The specific cause of the ear-cutting incident remains disputed — it may have been a breakdown after Gauguin's departure, self-injury during an epileptic seizure, or a symptom of a psychiatric condition. Reducing it to "madness" ignores the complexity of Van Gogh's mental state. Recent research (Bernadette Murphy, 2016) has revealed many previously unknown details.**
+4. ❌ **"割耳是因为疯狂" / "The ear-cutting was an act of madness"** → ✅ **割耳事件的具体原因至今有争议——可能是高更离去后的精神崩溃、可能是癫痫发作期间的自伤行为、也可能是某种精神疾病的症状。将其简单归结为"疯了"忽视了梵高精神状态的复杂性。最新的考证（Bernadette Murphy, 2016）揭示了许多此前未知的细节。 / The specific cause of the ear-cutting incident remains disputed — it may have been a breakdown after Gauguin's departure, self-injury during an epileptic seizure, or a symptom of a psychiatric condition. Reducing it to "madness" ignores the complexity of Van Gogh's mental state. Recent 研究 (Bernadette Murphy, 2016) has revealed many previously unknown details.**
 
 ## 东西方对话 / East-West Dialogue
 
@@ -194,7 +194,7 @@ In May 1889, Van Gogh voluntarily entered the Saint-Paul-de-Mausole asylum in Sa
 
 Van Gogh's relationship with Eastern thought traditions is profound and multi-layered, unfolding along several dimensions:
 
-**日本浮世绘与"日本梦" / Ukiyo-e and the "Japanese Dream"**: 梵高对日本艺术的热爱不仅仅是形式上的借鉴——他将日本视为一种精神理想。在给提奥的信中，他写道："日本人有如此清晰的艺术……他们的画就像空气一样清新。"梵高的"日本梦"与19世纪欧洲的"日本主义"（Japonisme）潮流相呼应，但他的独特之处在于：他不是简单地异国情调化日本，而是将浮世绘的原则——简化、平面化、色彩纯粹性、与自然的和谐——内化为自己的艺术哲学。这种"转化性吸收"与东方思想中"师其意不师其迹"（学习精神而非模仿形式）的传统不谋而合。 / Van Gogh's love of Japanese art went beyond formal borrowing — he saw Japan as a spiritual ideal. In letters to Theo, he wrote: "The Japanese have such clear art… their paintings are as fresh as air." His "Japanese dream" resonated with 19th-century European Japonisme, but his uniqueness lay in not exoticizing Japan but internalizing ukiyo-e principles — simplification, flattening, color purity, harmony with nature — as his own artistic philosophy. This "transformative absorption" parallels the Eastern tradition of "learning the spirit, not copying the form" (师其意不师其迹).
+**日本浮世绘与"日本梦" / Ukiyo-e and the "Japanese Dream"**: 梵高对日本艺术的热爱不仅仅是形式上的借鉴——他将日本视为一种精神理想。在给提奥的信中，他写道："日本人有如此清晰的艺术……他们的画就像空气一样清新。"梵高的"日本梦"与19世纪欧洲的"日本主义"（Japonisme）潮流相呼应，但他的独特之处在于：他不是简单地异国情调化日本，而是将浮世绘的原则——简化、平面化、色彩纯粹性、与自然的和谐——内化为自己的艺术哲学。这种"转化性吸收"与东方思想中"师其意不师其迹"（学习精神而非模仿形式）的传统不谋而合。 / Van Gogh's love of Japanese art went beyond formal borrowing — he saw Japan as a spiritual ideal. In letters to Theo, he wrote: "The Japanese have such clear art… their paintings are as fresh as air." His "Japanese dream" resonated with 19th-century European Japonisme, but his uniqueness lay in not exoticizing Japan but internalizing ukiyo-e principles — simplification, flattening, color purity, harmony with nature — as his own artistic 哲学. This "transformative absorption" parallels the Eastern tradition of "learning the spirit, not copying the form" (师其意不师其迹).
 
 **禅宗精神与自然观 / Zen Spirit and Nature**: 梵高的自然观——在自然中发现神圣、通过绘画与自然合一——与中国山水画的"天人合一"思想和日本禅宗的"一期一会"精神有深刻的共鸣。他在麦田前、星空下所体验到的那种"消融于自然"的感觉，类似于庄子的"坐忘"或禅宗的"无我"。然而，梵高的自然体验始终带有基督教神秘主义的底色——他将自然视为"上帝的手迹"，而非佛教意义上的"空"。 / Van Gogh's view of nature — finding the sacred in nature, becoming one with it through painting — resonates deeply with the Chinese landscape painting idea of "Heaven and humanity as one" (天人合一) and the Japanese Zen spirit of "one time, one meeting" (一期一会). The feeling of "dissolving into nature" he experienced before wheat fields and under starry skies resembles Zhuangzi's "sitting in forgetfulness" (坐忘) or Zen's "no-self." However, Van Gogh's experience of nature always carried a Christian mystical undertone — he saw nature as "God's handwriting," not "emptiness" (空) in the Buddhist sense.
 
@@ -208,7 +208,7 @@ Van Gogh's relationship with Eastern thought traditions is profound and multi-la
 | 精神分析 / Psychoanalysis | 梵高作品的心理分析 / Psychological analysis of Van Gogh's works | `[应用/applies]` | 精神分析艺术批评传统 / Psychoanalytic art criticism |
 | 色彩学 / Color Science | 互补色理论与情感表达 / Complementary color theory and emotional expression | `[贡献/contributes]` | 约翰内斯·伊顿 / Johannes Itten |
 | 存在主义 / Existentialism | 存在的焦虑与艺术的使命 / Existential anxiety and artistic mission | `[平行/parallel]` | 萨特、海德格尔 / Sartre, Heidegger |
-| 文学 / Literature | 书信文学与自传体写作 / Epistolary literature and autobiographical writing | `[平行/parallel]` | 里尔克 / Rilke |
+| 文学 / Literature | 书信文学与自传体写作 / Epistolary 文学 and autobiographical writing | `[平行/parallel]` | 里尔克 / Rilke |
 | 神经科学 / Neuroscience | 视觉感知与癫痫视觉现象 / Visual perception and epileptic visual phenomena | `[研究/researches]` | 梵高视觉异常的神经学研究 / Neurological studies of Van Gogh's visual anomalies |
 | 日本学 / Japan Studies | 浮世绘对西方现代艺术的影响 / Influence of ukiyo-e on Western modern art | `[贡献/contributes]` | 歌川广重、葛饰北斋 / Hiroshige, Hokusai |
 | 数字技术 / Digital Technology | 神经风格迁移与AI艺术 / Neural style transfer and AI art | `[应用/applies]` | Gatys et al. (2015) |

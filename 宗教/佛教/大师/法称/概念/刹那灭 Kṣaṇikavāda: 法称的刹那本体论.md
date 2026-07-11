@@ -3,7 +3,7 @@ id: dharmakirti-momentariness
 title: "刹那灭 Kṣaṇikavāda: 法称的刹那本体论"
 type: concept
 parent: dharmakirti
-domain: religion
+domain: 宗教
 tags: [ksanika, momentariness, impermanence, ontology, time, causality]
 ---
 

@@ -3,7 +3,7 @@ id: kukai-ten-dwellings
 title: "十住心论 Ten Stages of Mind"
 type: concept
 parent: kukai
-domain: religion
+domain: 宗教
 tags: [ten-dwellings, Shingon, doctrinal-classification]
 ---
 # 十住心 / Ten Stages of Mind

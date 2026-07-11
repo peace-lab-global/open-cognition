@@ -1,7 +1,7 @@
 ---
 name: doctrinal-classification
 description: Triggers when a user asks where a Buddhist text belongs in a doctrinal classification (判教) system, how to reconcile seemingly contradictory sutras, or which "teaching period" a concept represents. Guides a five-step hermeneutic process rooted in East Asian Buddhist panjiao traditions.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/doctrinal-classification.md
   - ../../buddhism/concepts/foundational/four-reliances.md

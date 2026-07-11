@@ -1,7 +1,7 @@
 ---
 name: cognitive-task-analysis
 description: 通过深度访谈、观察和知识提取，挖掘专家的隐性认知策略和决策过程。Triggers on requests to understand expert knowledge, extract decision strategies, or design training.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/naturalistic-decision/klein.md
 linked_concepts:
   - ../../concepts/macrocognition.md

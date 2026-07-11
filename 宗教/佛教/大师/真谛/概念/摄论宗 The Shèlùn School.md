@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.shelun-school
+id: 宗教.buddhism.concept.shelun-school
 title: 摄论宗 The Shèlùn School
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 parent: paramartha
 tags: [摄论宗, 摄大乘论, 唯识, 中国佛教宗派, 真谛]

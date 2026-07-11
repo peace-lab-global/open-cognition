@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.sengzhao.prajna-non-knowing
+id: 宗教.buddhism.master.sengzhao.prajna-non-knowing
 title: 般若无知 Bōrě Wú Zhī
 type: concept
 thinker: 僧肇 Sēngzhào
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 tags: [般若, 无知, 认知, 中观]
 ---

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.milarepa
+id: 宗教.buddhism.masters.milarepa
 title: 密勒日巴 Milarepa
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 era: medieval
 birth: 1052
@@ -110,7 +110,7 @@ Tummo (inner heat) is the first of the Six Yogas of Naropa, generating inner hea
 
 密勒日巴以歌传法，其十万首道歌（《密勒日巴道歌集》）既是深奥的修行指导，也是优美的文学作品。道歌传统成为噶举派最具标志性的教学方式。
 
-Milarepa taught through songs; his hundred thousand songs (collected in *The Hundred Thousand Songs of Milarepa*) serve as both profound practice instructions and exquisite literature. The song tradition became the most distinctive pedagogical method of the Kagyu lineage.
+Milarepa taught through songs; his hundred thousand songs (collected in *The Hundred Thousand Songs of Milarepa*) serve as both profound practice instructions and exquisite 文学. The song tradition became the most distinctive pedagogical method of the Kagyu lineage.
 
 ### 5. 苦行转化 Ascetic Transformation（见 [concepts/ascetic-transformation.md](concepts/ascetic-transformation.md)）
 
@@ -159,7 +159,7 @@ Italian director Liliana Cavani made a film about Milarepa in 1974; Bhutanese di
 
 **心理学 Psychology**：密勒日巴从黑暗到光明的转化叙事，为现代心理学中的创伤后成长（post-traumatic growth）提供了古老的范例。
 
-Milarepa's narrative of transformation from darkness to light provides an ancient paradigm for post-traumatic growth in modern psychology.
+Milarepa's narrative of transformation from darkness to light provides an ancient paradigm for post-traumatic growth in modern 心理学.
 
 **生态思想 Ecological thought**：极端简朴的生活方式在当代环境危机中具有启示意义——幸福不需要以物质消耗来衡量。
 
@@ -208,7 +208,7 @@ Milarepa's song tradition influenced later Tibetan Buddhist literature, music, t
 
 - **佛教内部 Buddhist**: [玛尔巴 Marpa](../marpa.md) — 上师 Guru；[冈波巴 Gampopa](../gampopa.md) — 首席弟子 Chief disciple；[那洛巴 Naropa](../indian-masters/naropa.md) — 传承祖师 Source lineage
 - **藏传佛教 Tibetan Buddhism**: [宗喀巴 Tsongkhapa](../tsongkhapa.md) — 格鲁派创始人，与噶举派形成对照
-- **心理学 Psychology**: [荣格 Jung](../../../psychology/schools/analytical-psychology/jung.md) — 阴影整合与个体化 Shadow integration
+- **心理学 Psychology**: [荣格 Jung](../../../心理学/学派/分析心理学/卡尔.md) — 阴影整合与个体化 Shadow integration
 - **文学 Literature**: 与鲁米 Rumi、哈菲兹 Hafez 等苏菲派诗人并列
 
 ---

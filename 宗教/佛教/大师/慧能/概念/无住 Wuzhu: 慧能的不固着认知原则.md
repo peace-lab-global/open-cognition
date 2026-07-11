@@ -3,7 +3,7 @@ id: huineng-wuzhu
 title: "无住 Wuzhu: 慧能的不固着认知原则"
 type: concept
 parent: huineng
-domain: religion
+domain: 宗教
 tags: [non-dwelling, wuzhu, non-fixation, Diamond-Sutra, cognitive-fluidity, Chan]
 ---
 
@@ -45,7 +45,7 @@ The Platform Sutra explains non-dwelling: "Thought after thought, not dwelling o
 
 无住描述的是一种认知流动性——心像水一样流动，不停留在任何一处。这与当代认知科学中对"认知灵活性" (cognitive flexibility) 的研究形成对照：认知灵活性要求在不同认知框架之间自如切换，而无住更进一步——不固着于任何框架本身。
 
-Non-dwelling describes a cognitive fluidity — the mind flows like water, not settling anywhere. This contrasts with cognitive science research on "cognitive flexibility": cognitive flexibility requires switching easily between frameworks, while non-dwelling goes further — not fixating on any framework at all.
+Non-dwelling describes a cognitive fluidity — the mind flows like water, not settling anywhere. This contrasts with cognitive science 研究 on "cognitive flexibility": cognitive flexibility requires switching easily between frameworks, while non-dwelling goes further — not fixating on any framework at all.
 
 ### 反基础主义 / Anti-Foundationalism
 
@@ -57,7 +57,7 @@ Non-dwelling carries anti-foundationalist implications. The mind does not dwell 
 
 无住包含深刻的时间哲学。"念念不住"意味着每一个当下都是新的——心不携带过去的痕迹，也不投射未来的期望。这与海德格尔 (Heidegger) 对"时间性" (Zeitlichkeit) 的分析有共鸣，但也有关键差异：海德格尔的此在 (Dasein) 总是向死而在，慧能的无住则超越了这种时间焦虑。
 
-Non-dwelling contains a profound philosophy of time. "Thought after thought, not dwelling" means every present moment is new — the mind carries no traces of the past and projects no expectations of the future. This resonates with Heidegger's analysis of temporality (Zeitlichkeit), but with a key difference: Heidegger's Dasein is always being-toward-death, while Huineng's non-dwelling transcends such temporal anxiety.
+Non-dwelling contains a profound 哲学 of time. "Thought after thought, not dwelling" means every present moment is new — the mind carries no traces of the past and projects no expectations of the future. This resonates with Heidegger's analysis of temporality (Zeitlichkeit), but with a key difference: Heidegger's Dasein is always being-toward-death, while Huineng's non-dwelling transcends such temporal anxiety.
 
 ### 与无念的关系 / Relationship to No-Thought
 

@@ -1,7 +1,7 @@
 ---
 name: liberalism-analysis
 description: 自由主义论证分析用于检验某项限制自由的措施是否具有正当性。通过伤害原则与伤害原则的两个限制条件，判断国家干预个人自由的正当边界。Triggers on 讨论言论自由、行为自由、隐私权等与法律限制边界相关的问题。
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/consequentialism/mill.md
 linked_concepts:
   - ../../concepts/social-contract.md

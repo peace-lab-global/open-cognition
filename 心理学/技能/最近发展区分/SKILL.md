@@ -1,11 +1,11 @@
 ---
 name: zpd-analysis
 description: Triggers on requests to 最近发展区、支架教学、社会文化理论，如教育指导、学习策略、儿童发展等。Apply this skill to analyze learning and development using Vygotsky's zone of proximal development, understanding how social interaction scaffolds learning.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/developmental/vygotsky.md
 linked_concepts:
-  - ../../psychology/concepts/zone-of-proximal-development.md
-  - ../../psychology/concepts/scaffolding.md
+  - ../../心理学/概念/zone-of-proximal-development.md
+  - ../../心理学/概念/scaffolding.md
 tags:
   - 最近发展区
   - 支架教学

@@ -2,7 +2,7 @@
 id: sheridan
 title: "托马斯·谢里丹 · Thomas Sheridan"
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: automation-sociotechnical
 era: contemporary
 birth: 1929
@@ -31,11 +31,11 @@ sub-entries:
 
 托马斯·B·谢里丹（Thomas B. Sheridan, 1929–2024）是美国人因工程师、控制理论家、麻省理工学院（MIT）机械工程系教授，也是人机系统研究最重要的奠基者之一。他在长达半个多世纪的学术生涯中，系统建构了监督控制理论（Supervisory Control Theory），提出了自动化十级模型（10 Levels of Automation），并开创了远程机器人学（Telerobotics）这一全新学科领域。他的工作从根本上改变了人们对人类在自动化系统中角色的理解——人不再是直接操作者，而是监督者、决策者和异常干预者。
 
-Thomas B. Sheridan (1929–2024) was an American human factors engineer, control theorist, and professor of mechanical engineering at MIT. He is widely regarded as one of the most important founders of human-machine systems research. Over a career spanning more than half a century, he systematically developed Supervisory Control Theory, proposed the 10 Levels of Automation model, and pioneered the entirely new field of telerobotics. His work fundamentally transformed the understanding of human roles in automated systems — from direct operators to supervisors, decision-makers, and interveners in anomalous situations.
+Thomas B. Sheridan (1929–2024) was an American human factors engineer, control theorist, and professor of mechanical engineering at MIT. He is widely regarded as one of the most important founders of human-machine systems 研究. Over a career spanning more than half a century, he systematically developed Supervisory Control Theory, proposed the 10 Levels of Automation model, and pioneered the entirely new field of telerobotics. His work fundamentally transformed the understanding of human roles in automated systems — from direct operators to supervisors, decision-makers, and interveners in anomalous situations.
 
 谢里登的学术影响远超工程领域。他与 Raja Parasuraman 和 Christopher Wickens 的合作论文（2000年）成为人机自动化交互研究被引用最多的文献之一。他的思想直接影响了航空自动化、核能控制、远程手术、空间机器人、自动驾驶以及当代 AI 代理监督等领域的设计哲学。
 
-Sheridan's academic influence extends well beyond engineering. His collaborative paper with Raja Parasuraman and Christopher Wickens (2000) became one of the most cited works in human-automation interaction research. His ideas directly shaped design philosophies in aviation automation, nuclear power control, remote surgery, space robotics, autonomous driving, and the contemporary supervision of AI agents.
+Sheridan's academic influence extends well beyond engineering. His collaborative paper with Raja Parasuraman and Christopher Wickens (2000) became one of the most cited works in human-automation interaction 研究. His ideas directly shaped design philosophies in aviation automation, nuclear power control, remote surgery, space robotics, autonomous driving, and the contemporary supervision of AI agents.
 
 ## 核心命题 / Core Theses
 
@@ -104,7 +104,7 @@ The 2002 book *Humans and Automation: System Design and Research Issues* further
 | 1992 | *Telerobotics, Automation, and Human Supervisory Control* | 《远程机器人学、自动化与人类监督控制》 | 领域奠基性专著 / Foundational monograph of the field |
 | 1993 | "Human and Computer Control of Undersea Teleoperators" (revised) | 《水下远程操作的人机控制》（修订版） | 模型修订与实验验证 / Model revision and experimental validation |
 | 2000 | "A Model for Types and Levels of Human Interaction with Automation" (with Parasuraman & Wickens) | 《人机交互的类型与层级模型》 | 整合二维框架 / Integrative two-dimensional framework |
-| 2002 | *Humans and Automation: System Design and Research Issues* | 《人类与自动化：系统设计及研究议题》 | 综合研究框架 / Comprehensive research framework |
+| 2002 | *Humans and Automation: System Design and Research Issues* | 《人类与自动化：系统设计及研究议题》 | 综合研究框架 / Comprehensive 研究 framework |
 | 2006 | "Human-Robot Interaction: Status and Challenges" | 《人机交互：现状与挑战》 | 领域综述与展望 / Field review and outlook |
 | 2014 | "Analysis of Human-Automation Interaction in Aviation Accidents" | 《航空事故中的人-自动化交互分析》 | 自动化安全的实证研究 / Empirical study of automation safety |
 
@@ -193,7 +193,7 @@ Human-machine collaboration in modern factories (such as collaborative robots/co
 
 **4. 谢里登仅是工程师 / Sheridan was merely an engineer**
 ❌ 谢里登的贡献仅限于工程技术领域，与认知科学和哲学无关。
-❌ Sheridan's contributions are limited to engineering technology and unrelated to cognitive science or philosophy.
+❌ Sheridan's contributions are limited to engineering technology and unrelated to cognitive science or 哲学.
 ✅ 谢里登的监督控制范式深刻触及了人类认知架构的本质问题——注意力分配、情境意识、认知负荷管理。他与 Hollnagel 共同发展的联合认知系统概念具有深刻的哲学意涵，挑战了主客二分的传统认识论。
 ✅ Sheridan's supervisory control paradigm deeply addresses fundamental questions of human cognitive architecture — attention allocation, situational awareness, cognitive load management. The joint cognitive systems concept he developed with Hollnagel carries profound philosophical implications, challenging the traditional subject-object epistemological dichotomy.
 
@@ -205,7 +205,7 @@ Sheridan's supervisory control theory resonates profoundly with Eastern intellec
 
 **道家"无为而治" / Daoist Wu Wei (Governance through Non-Action)**
 监督控制的最高境界——人类设定目标后退居监督角色，让系统自主运行——与道家"无为而无不为"的治理哲学高度契合。十级模型的最高层级（系统自主决策与行动）可以理解为技术层面的"无为"——不是不行动，而是通过适当的结构和约束让系统自行演化。
-The highest aspiration of supervisory control — humans setting goals and then retreating to a supervisory role while the system operates autonomously — closely parallels the Daoist governance philosophy of "wu wei er wu bu wei" (acting through non-action). The highest level of the 10-level model (autonomous system decision-making and action) can be understood as "wu wei" at the technological level — not inaction, but allowing the system to evolve through appropriate structures and constraints.
+The highest aspiration of supervisory control — humans setting goals and then retreating to a supervisory role while the system operates autonomously — closely parallels the Daoist governance 哲学 of "wu wei er wu bu wei" (acting through non-action). The highest level of the 10-level model (autonomous system decision-making and action) can be understood as "wu wei" at the technological level — not inaction, but allowing the system to evolve through appropriate structures and constraints.
 
 **儒家"中庸"思想 / Confucian Doctrine of the Mean**
 谢里登的"适当自动化"原则与儒家"中庸"之道形成有趣对话。中庸不是折中，而是根据具体情境找到最恰当的平衡点。同样，适当自动化不是选择中间层级，而是根据任务特性和人类能力动态确定最优分配。

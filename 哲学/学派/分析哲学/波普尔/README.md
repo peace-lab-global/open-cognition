@@ -2,7 +2,7 @@
 id: popper
 title: 波普尔 · Karl Popper
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: modern
 birth: 1902
@@ -68,7 +68,7 @@ sub-entries:
 | 著作 / Work | 年份 / Year | 核心内容 / Core Content |
 |---|---|---|
 | *The Logic of Scientific Discovery* | 1934/1959 | 证伪主义的奠基之作 / Foundation of falsificationism |
-| *The Open Society and Its Enemies* | 1945 | 政治哲学的经典 / Classic of political philosophy |
+| *The Open Society and Its Enemies* | 1945 | 政治哲学的经典 / Classic of political 哲学 |
 | *The Poverty of Historicism* | 1957 | 历史决定论批判 / Critique of historicism |
 | *Conjectures and Refutations* | 1963 | 科学方法论论文集 / Essays on scientific methodology |
 | *Objective Knowledge* | 1972 | 三个世界理论与进化认识论 / Three Worlds theory and evolutionary epistemology |
@@ -131,8 +131,8 @@ Nagarjuna's Madhyamaka school adopts "refutation without establishment" — not 
 
 - [卡尔纳普 Carnap](../carnap/README.md) `[张力/tension]` 可确认性 vs 证伪主义
 - [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[对照/contrast]` 语言批判 vs 方法论批判
-- [量论 · Pramana](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照/contrast]` 有效认知的判准
-- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行/parallel]` 方法论划分
+- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
+- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 方法论划分
 
 ## 进阶阅读 / Further Reading
 

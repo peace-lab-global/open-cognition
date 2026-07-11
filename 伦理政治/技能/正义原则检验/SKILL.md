@@ -1,7 +1,7 @@
 ---
 name: justice-principle-test
 description: 罗尔斯正义原则检验用于评估社会基本结构的公正性。依次检验平等自由原则与差别原则，判断某社会安排是否满足正义二原则。Triggers on 评估社会政策、分配方案、公共制度设计的公正性，或分析为何某些不平等是或不是正义的。
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/social-contract/rawls.md
 linked_concepts:
   - ../../concepts/veil-of-ignorance.md

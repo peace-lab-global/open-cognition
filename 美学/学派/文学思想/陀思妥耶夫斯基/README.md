@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-thought.dostoevsky
+id: 美学.literary-thought.dostoevsky
 title: 陀思妥耶夫斯基 · Fyodor Dostoevsky
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: modern
 birth: 1821
@@ -40,7 +40,7 @@ children:
 > **生卒**: 1821–1881
 > **国籍**: 俄罗斯帝国
 >
-> 本条目聚焦陀思妥耶夫斯基对**美学/哲学**的贡献。完整传记见 [文学领域 · 陀思妥耶夫斯基](../../../literature/schools/novelists/dostoevsky/README.md)。
+> 本条目聚焦陀思妥耶夫斯基对**美学/哲学**的贡献。完整传记见 [文学领域 · 陀思妥耶夫斯基](../../../文学/学派/小说家/费奥多尔/README.md)。
 
 ## 一、思想概要
 

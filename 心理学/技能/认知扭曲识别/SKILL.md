@@ -1,7 +1,7 @@
 ---
 name: cbt-cognitive-distortion
 description: 识别情境下的"自动思维"，对照 10 类常见认知扭曲，使用证据法/替代法生成更平衡的思维，并设计行为实验验证。
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/cognitive/beck.md
 linked_concepts:
   - ../../concepts/cognitive-dissonance.md
@@ -102,4 +102,4 @@ tags: [CBT, 认知扭曲, 自动思维, 苏格拉底式提问, 行为实验]
 - [贝克 Beck](../../schools/cognitive/beck.md)
 - [认知失调](../../concepts/cognitive-dissonance.md)
 - **斯多葛主义** — 哲学源头（爱比克泰德、马可·奥勒留）
-- [苏格拉底式提问 Skill](../../../philosophy/skills/socratic-questioning/SKILL.md) — 证据提问的方法源
+- [苏格拉底式提问 Skill](../../../哲学/技能/苏格拉底式诘/SKILL.md) — 证据提问的方法源

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.nichiren
+id: 宗教.buddhism.school.nichiren
 title: 日莲宗 Nichiren
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-nichiren
 era: medieval
 tags: [日莲宗, 日莲, 法华经, 南无妙法莲华经, 五纲判教]

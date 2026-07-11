@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.shelun
+id: 宗教.buddhism.school.shelun
 title: 摄论宗 Shèlùn
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-shelun
 era: ancient
 tags: [摄论宗, 摄大乘论, 真谛, 阿黎耶识, 唯识学前驱]

@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.sengzhao.things-not-move
+id: 宗教.buddhism.master.sengzhao.things-not-move
 title: 物不迁 Wù Bù Qiān
 type: concept
 thinker: 僧肇 Sēngzhào
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 tags: [物不迁, 时间, 动静, 中观]
 ---

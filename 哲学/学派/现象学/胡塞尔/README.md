@@ -2,7 +2,7 @@
 id: husserl
 title: 胡塞尔 · Edmund Husserl
 type: thinker
-domain: philosophy
+domain: 哲学
 school: phenomenology
 era: modern
 birth: 1859
@@ -24,7 +24,7 @@ cross-refs:
     relation: 发展
   - id: kant
     relation: 平行
-  - id: religion.buddhism.concept.pramana
+  - id: 宗教.buddhism.concept.pramana
     relation: 平行
 children:
   - concepts/intentionality.md
@@ -36,7 +36,7 @@ children:
   - timeline.md
   - reading-list.md
 related-comparative:
-  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+  - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
 
 # 胡塞尔 · Edmund Husserl
@@ -165,12 +165,12 @@ related-comparative:
 - [维特根斯坦](../analytic/wittgenstein.md) `[对照]` 语言哲学路径的分歧
 
 ### 东方思想
-- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
-- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 现象学直观与瑜伽现量
+- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
+- [量论 · Pramāṇa](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量
 
 ### 认知科学
-- [具身认知](../../../psychology/concepts/embodied-cognition.md) `[发展]` 现象学作为哲学基础
-- [预测加工](../../../cognitive-systems/concepts/predictive-processing.md) `[平行]` Noema 与预测模型的对话
+- [具身认知](../../../心理学/概念/embodied-cognition.md) `[发展]` 现象学作为哲学基础
+- [预测加工](../../../认知系统/概念/预测加工.md) `[平行]` Noema 与预测模型的对话
 
 ## 东西方对话:胡塞尔 × 唯识
 
@@ -231,4 +231,4 @@ related-comparative:
 ## 比较页
 
 - [存在主义 × 唯识](../../comparative/existentialism-vs-yogacara.md)(平行比较)
-- [博尔赫斯 × 唯识](../../../aesthetics/schools/comparative/borges-vs-yogacara.md)(平行比较)
+- [博尔赫斯 × 唯识](../../../美学/schools/comparative/borges-vs-yogacara.md)(平行比较)

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sastra.cheng-weishi-lun
+id: 宗教.buddhism.sastra.cheng-weishi-lun
 title: 成唯识论 Chéng Wéishí Lùn
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 tags: [成唯识论, 唯识, 玄奘, 窥基, 八识, 三性, 转识成智]

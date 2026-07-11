@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.buddha-nature
+id: 宗教.buddhism.core.buddha-nature
 title: 佛性 Buddha Nature
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [佛性, 如来藏, tathagatagarbha, 众生皆有佛性]
@@ -73,10 +73,10 @@ sources: [《涅槃经》, 《如来藏经》, 《胜鬘经》, 《宝性论》]
 
 ## 跨学科关联
 
-- [马斯洛 · 自我实现](../../../psychology/schools/humanistic/maslow.md) — [平行] 潜能实现
-- [罗杰斯 · 有机体智慧](../../../psychology/schools/humanistic/rogers.md) — [平行] 本自具足
+- [马斯洛 · 自我实现](../../../心理学/学派/人本主义/马斯洛.md) — [平行] 潜能实现
+- [罗杰斯 · 有机体智慧](../../../心理学/学派/人本主义/卡尔.md) — [平行] 本自具足
 - [基督教 · 神的形象] — [平行] 人人有神的形象
-- [柏拉图 · 回忆说](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 知识本具
+- [柏拉图 · 回忆说](../../../哲学/学派/古希腊/柏拉图.md) — [平行] 知识本具
 
 ## 进阶阅读
 

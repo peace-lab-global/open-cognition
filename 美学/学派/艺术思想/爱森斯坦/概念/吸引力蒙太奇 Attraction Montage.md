@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein.concepts.attraction-montage
+id: 美学.arts-thought.eisenstein.concepts.attraction-montage
 title: 吸引力蒙太奇 Attraction Montage
 type: concept
-parent: aesthetics.arts-thought.eisenstein
+parent: 美学.arts-thought.eisenstein
 tags: [attraction, shock, audience, spectacle, theater]
 ---
 

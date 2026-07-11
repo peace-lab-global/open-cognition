@@ -2,7 +2,7 @@
 id: hume
 title: 休谟 · David Hume
 type: thinker
-domain: philosophy
+domain: 哲学
 school: empiricism
 era: early-modern
 birth: 1711
@@ -46,7 +46,7 @@ cross-refs:
     relation: 对立
   - id: bentham
     relation: 发展
-  - id: religion.buddhism.concepts.five-aggregates
+  - id: 宗教.buddhism.concepts.five-aggregates
     relation: 对照
   - id: zhuangzi
     relation: 对照
@@ -191,11 +191,11 @@ cross-refs:
 - [洛克 · 经验论](../empiricism/locke.md) `[承接]` 休谟将洛克的经验论原则推向逻辑极端
 - [贝克莱 · 主观唯心论](../empiricism/berkeley.md) `[承接]` 休谟接受贝克莱对物质实体的批判，但进一步否认精神实体
 - [康德 · 先验哲学](../german-idealism/kant.md) `[对立]` 康德用先天范畴 (a priori categories) 回应休谟的怀疑论挑战，声称休谟"将他从独断论的迷梦中惊醒"
-- [边沁 · 功利主义](../../../ethics-politics/schools/consequentialism/bentham.md) `[发展]` 休谟的情感主义道德论为功利主义提供心理学前设
+- [边沁 · 功利主义](../../../伦理政治/学派/结果主义/边沁.md) `[发展]` 休谟的情感主义道德论为功利主义提供心理学前设
 
 ### 心理学与认知科学
 
-- [卡尼曼 · 双系统理论](../../../psychology/schools/behavioral-economics/kahneman.md) `[平行]` 激情/理性之分与 System 1 / System 2 的结构对应
+- [卡尼曼 · 双系统理论](../../../心理学/学派/行为经济学/丹尼尔.md) `[平行]` 激情/理性之分与 System 1 / System 2 的结构对应
 - 五蕴的认知读法 (Pañcaskandha as Cognitive Bundle) `[平行]` 自我是一束感知，无实体自我
 
 ### 经济学
@@ -204,8 +204,8 @@ cross-refs:
 
 ### 东方思想
 
-- [唯识 · Yogācāra](../../../religion/traditions/buddhism/yogacara.md) `[对照]` 自我束论 vs 五蕴、习惯 vs 种子/熏习
-- [庄子 · Zhuangzi](../../../religion/traditions/daoism/zhuangzi.md) `[对照]` 怀疑论 vs 齐物论、自然主义 vs 无为
+- [唯识 · Yogācāra](../../../宗教/传统/佛教/yogacara.md) `[对照]` 自我束论 vs 五蕴、习惯 vs 种子/熏习
+- [庄子 · Zhuangzi](../../../宗教/traditions/daoism/zhuangzi.md) `[对照]` 怀疑论 vs 齐物论、自然主义 vs 无为
 
 ## 进阶阅读
 

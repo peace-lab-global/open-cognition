@@ -143,4 +143,4 @@ tags:
 - 祖师：[临济义玄](../../masters/china/linji-yixuan.md)
 - 概念：[棒喝](./concepts/banghe.md)（待建）
 - 相关Skill：[临济无事贵人](./linji-no-thing/SKILL.md)
-- 跨传统：[维特根斯坦·语言游戏](../../philosophy/schools/analytic/wittgenstein.md)（平行）——两者都指出"语言/思维不是实在本身"
+- 跨传统：[维特根斯坦·语言游戏](../../哲学/学派/分析哲学/维特根斯坦.md)（平行）——两者都指出"语言/思维不是实在本身"

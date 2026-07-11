@@ -2,7 +2,7 @@
 id: jung
 title: "卡尔·荣格 · Carl Jung"
 type: thinker
-domain: psychology
+domain: 心理学
 school: analytical-psychology
 era: modern
 birth: 1875
@@ -53,7 +53,7 @@ sub-entries:
 
 **卡尔·古斯塔夫·荣格**（Carl Gustav Jung，1875年7月26日—1961年6月6日），瑞士心理学家、精神科医生，**分析心理学**（Analytical Psychology）的创始人。他出生于瑞士图尔高州凯斯威尔（Kesswil）的一个新教牧师家庭，自幼对宗教、神话和哲学怀有浓厚兴趣。1895年进入巴塞尔大学学习医学，1900年获得医学博士学位，随后在苏黎世大学精神病学诊所（Burghölzli）工作，师从著名精神病学家欧根·布洛伊勒（Eugen Bleuler）。
 
-**Carl Gustav Jung** (July 26, 1875 – June 6, 1961) was a Swiss psychologist and psychiatrist, the founder of **Analytical Psychology**. Born in Kesswil, Thurgau, Switzerland, to a Protestant pastor's family, he developed an early fascination with religion, mythology, and philosophy. He entered the University of Basel in 1895 to study medicine, earned his medical degree in 1900, and subsequently worked at the Burghölzli psychiatric clinic at the University of Zurich under the renowned psychiatrist Eugen Bleuler.
+**Carl Gustav Jung** (July 26, 1875 – June 6, 1961) was a Swiss psychologist and psychiatrist, the founder of **Analytical Psychology**. Born in Kesswil, Thurgau, Switzerland, to a Protestant pastor's family, he developed an early fascination with religion, mythology, and 哲学. He entered the University of Basel in 1895 to study medicine, earned his medical degree in 1900, and subsequently worked at the Burghölzli psychiatric clinic at the University of Zurich under the renowned psychiatrist Eugen Bleuler.
 
 荣格曾任国际精神分析学会（International Psychoanalytical Association）首任主席（1910年），后因与弗洛伊德在理论上的深刻分歧——尤其在力比多（libido）的本质和无意识理论的范围上——于1913年决裂。此后，他独立发展出一套全新的心理学体系，将无意识的研究从个体层面拓展至人类共有的深层心理结构。他曾先后在苏黎世联邦理工学院（ETH Zurich）和苏黎世大学任教，并在苏黎世库斯纳赫特（Küsnacht）建立了自己的私人诊所。
 
@@ -97,7 +97,7 @@ In his later years, Jung proposed the concept of **synchronicity** — "meaningf
 
 荣格认为，世界各文化的宗教象征和神话叙事并非迷信或虚构，而是集体无意识中原型力量的**象征性表达**。宗教仪式、神话故事、梦境和幻想使用相同的象征语言，它们都是无意识试图与意识沟通的方式。因此，理解宗教和神话对于理解人类心灵的深层结构具有不可替代的价值。
 
-Jung held that religious symbols and mythological narratives across world cultures are not superstitions or fabrications but **symbolic expressions** of archetypal forces within the collective unconscious. Religious rituals, mythological stories, dreams, and fantasies use the same symbolic language — they are all ways in which the unconscious seeks to communicate with consciousness. Therefore, understanding religion and mythology is irreplaceable for comprehending the deep structures of the human psyche.
+Jung held that religious symbols and mythological narratives across world cultures are not superstitions or fabrications but **symbolic expressions** of archetypal forces within the collective unconscious. Religious rituals, mythological stories, dreams, and fantasies use the same symbolic language — they are all ways in which the unconscious seeks to communicate with consciousness. Therefore, understanding 宗教 and mythology is irreplaceable for comprehending the deep structures of the human psyche.
 
 ---
 
@@ -227,19 +227,19 @@ Jung's psychological type theory is widely applied in corporate organizational d
 
 个体化理论为终身教育和成人发展提供了心理学框架。荣格关于"人生下半场"（second half of life）的思想——即中年之后从外在成就转向内在整合——深刻影响了成人教育和中年转型研究。
 
-Individuation theory provides a psychological framework for lifelong education and adult development. Jung's ideas about the "second half of life" — the shift from external achievement to internal integration after midlife — have profoundly influenced adult education and midlife transition research.
+Individuation theory provides a psychological framework for lifelong education and adult development. Jung's ideas about the "second half of life" — the shift from external achievement to internal integration after midlife — have profoundly influenced adult education and midlife transition 研究.
 
 ### 五、宗教与灵性研究 / Religious and Spiritual Studies
 
 荣格的宗教心理学为比较宗教学、灵性研究和跨文化对话提供了独特视角。他对曼荼罗（mandala）象征的研究连接了藏传佛教、印度教和西方神秘主义传统。他的思想对当代灵性运动、整合灵性和深度心理学产生了深远影响。
 
-Jung's psychology of religion provides a unique perspective for comparative religious studies, spiritual research, and cross-cultural dialogue. His study of mandala symbolism connects Tibetan Buddhist, Hindu, and Western mystical traditions. His thought has profoundly influenced contemporary spiritual movements, integral spirituality, and depth psychology.
+Jung's 心理学 of 宗教 provides a unique perspective for comparative religious studies, spiritual research, and cross-cultural dialogue. His study of mandala symbolism connects Tibetan Buddhist, Hindu, and Western mystical traditions. His thought has profoundly influenced contemporary spiritual movements, integral spirituality, and depth 心理学.
 
 ### 六、艺术治疗与创造性表达 / Art Therapy and Creative Expression
 
 荣格倡导的积极想象技术（Active Imagination）——即有意识地与无意识内容进行对话——成为艺术治疗、戏剧治疗和表达性艺术治疗的重要方法论基础。曼荼罗绘画、沙盘治疗等技术直接源于荣格的理论和实践。
 
-Jung's technique of active imagination — consciously dialoguing with unconscious contents — became an important methodological foundation for art therapy, drama therapy, and expressive arts therapy. Mandala painting, sandplay therapy, and other techniques derive directly from Jungian theory and practice.
+Jung's technique of active imagination — consciously dialoguing with unconscious contents — became an important methodological foundation for art therapy, drama therapy, and expressive 艺术 therapy. Mandala painting, sandplay therapy, and other techniques derive directly from Jungian theory and practice.
 
 ### 七、游戏与数字媒体设计 / Game and Digital Media Design
 
@@ -259,7 +259,7 @@ Jung's archetype theory is widely applied in video game character design, narrat
 
 ✅ 荣格始终以经验科学家的身份进行研究。他研究炼金术和宗教象征，不是为了验证神秘主义信仰，而是为了发现这些象征背后所反映的人类无意识的普遍心理结构。他的方法论本质上是经验性的——通过临床观察、跨文化比较和象征分析来探索心灵。
 
-✅ Jung consistently conducted his research as an empirical scientist. He studied alchemy and religious symbols not to validate mystical beliefs, but to discover the universal psychological structures of the human unconscious reflected behind these symbols. His methodology was fundamentally empirical — exploring the psyche through clinical observation, cross-cultural comparison, and symbolic analysis.
+✅ Jung consistently conducted his 研究 as an empirical scientist. He studied alchemy and religious symbols not to validate mystical beliefs, but to discover the universal psychological structures of the human unconscious reflected behind these symbols. His methodology was fundamentally empirical — exploring the psyche through clinical observation, cross-cultural comparison, and symbolic analysis.
 
 ### 误读二：原型是固定不变的具体形象 / Misreading 2: Archetypes are fixed, concrete images
 
@@ -309,7 +309,7 @@ Jung also engaged with Zen Buddhism. He corresponded with Japanese Zen scholar S
 
 荣格与道家思想的对话是其跨文化研究中最丰富的部分之一。他与卫礼贤合作翻译和注释《太乙金华宗旨》，撰写了长篇评论，将道教的"金丹"修炼过程与个体化过程进行了详细的类比。道教的阴阳互动、"道"的不可言说性、以及"无为"的智慧，都与荣格关于对立面整合和自性实现的理论产生了深刻共鸣。荣格还为卫礼贤翻译的《易经》撰写了序言，提出《易经》的占卜机制与共时性原理之间的关联。
 
-Jung's dialogue with Taoist thought represents one of the richest aspects of his cross-cultural research. Collaborating with Richard Wilhelm on the translation and commentary of *The Secret of the Golden Flower*, he wrote an extensive commentary drawing detailed analogies between Taoist "golden elixir" cultivation and the individuation process. The Taoist interplay of yin and yang, the ineffability of the Tao, and the wisdom of wu wei all resonated profoundly with Jung's theories of integrating opposites and realizing the Self. Jung also wrote the foreword for Wilhelm's translation of the *I Ching*, proposing connections between its divinatory mechanism and the principle of synchronicity.
+Jung's dialogue with Taoist thought represents one of the richest aspects of his cross-cultural 研究. Collaborating with Richard Wilhelm on the translation and commentary of *The Secret of the Golden Flower*, he wrote an extensive commentary drawing detailed analogies between Taoist "golden elixir" cultivation and the individuation process. The Taoist interplay of yin and yang, the ineffability of the Tao, and the wisdom of wu wei all resonated profoundly with Jung's theories of integrating opposites and realizing the Self. Jung also wrote the foreword for Wilhelm's translation of the *I Ching*, proposing connections between its divinatory mechanism and the principle of synchronicity.
 
 ### 荣格与儒家思想 / Jung and Confucian Thought
 

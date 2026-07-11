@@ -1,7 +1,7 @@
 ---
 name: five-aggregates-contemplation
 description: Triggers when a user reports identity crisis, self-fixation, "who am I" questioning, ego-related suffering, or asks for Buddhist insight meditation. Apply this skill to deconstruct the sense of a solid self through the five-aggregates contemplation (rūpa-vedanā-saṃjñā-saṃskāra-vijñāna), reducing self-clinging and self-related suffering.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/five-aggregates.md
   - ../../buddhism/concepts/foundational/three-marks.md

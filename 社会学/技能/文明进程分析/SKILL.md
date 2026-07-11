@@ -1,11 +1,11 @@
 ---
 name: civilizing-process-analysis
 description: Triggers on requests to 文明进程、形态社会学、自我控制，如社会变迁分析、行为规范研究、历史社会学等。Apply this skill to analyze social change using Elias' theory of the civilizing process, understanding how manners and self-control evolve over time.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/figurational/elias.md
 linked_concepts:
-  - ../../sociology/concepts/civilizing-process.md
-  - ../../sociology/concepts/figurational-sociology.md
+  - ../../社会学/概念/civilizing-process.md
+  - ../../社会学/概念/figurational-sociology.md
 tags:
   - 文明进程
   - 形态社会学

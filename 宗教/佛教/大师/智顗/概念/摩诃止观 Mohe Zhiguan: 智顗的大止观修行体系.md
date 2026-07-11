@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.zhiyi.concept.mohe-zhiguan
+id: 宗教.buddhism.master.zhiyi.concept.mohe-zhiguan
 title: "摩诃止观 Mohe Zhiguan: 智顗的大止观修行体系"
 type: concept
-parent: religion.buddhism.master.zhiyi
-domain: religion
+parent: 宗教.buddhism.master.zhiyi
+domain: 宗教
 tags: [摩诃止观, Mohe Zhiguan, Great Calming and Contemplation, samatha, vipasyana, meditation, 止, 观, 禅修, Tiantai]
 ---
 
@@ -102,7 +102,7 @@ The first contemplation — "contemplating the inconceivable realm" — is the f
 
 智顗坚持止观不可偏废——这对应了当代认知科学中"专注注意力"(focused attention) 与"开放觉知"(open monitoring) 的互补关系。单独修止导致昏沉（注意力过度集中而失去觉知），单独修观导致散乱（觉知过度发散而失去稳定性）。
 
-Zhiyi's insistence on the inseparability of calming and contemplation maps onto the contemporary distinction between focused attention and open monitoring in meditation research. Calming without contemplation leads to torpor; contemplation without calming leads to agitation. Only their integration produces the optimal cognitive state for insight.
+Zhiyi's insistence on the inseparability of calming and contemplation maps onto the contemporary distinction between focused attention and open monitoring in meditation 研究. Calming without contemplation leads to torpor; contemplation without calming leads to agitation. Only their integration produces the optimal cognitive state for insight.
 
 ## 四种三昧 / Four Types of Samadhi
 

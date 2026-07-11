@@ -1,7 +1,7 @@
 ---
 name: stpa-accident-analysis
 description: 基于 Leveson 的系统理论事故模型（STPA），从控制论角度分析系统事故的控制缺陷。Triggers on accident analysis, safety analysis, or system failure investigation.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/cognitive-engineering/rasmussen.md
 linked_concepts:
   - ../../concepts/joint-cognitive-system.md

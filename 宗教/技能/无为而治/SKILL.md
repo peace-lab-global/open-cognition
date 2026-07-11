@@ -1,7 +1,7 @@
 ---
 name: wuwei-guidance
 description: Triggers on requests to 无为而治、顺应自然、减少干预，如管理决策、生活指导、政策制定等。Apply this skill to guide users toward non-coercive, natural approaches that align with underlying patterns rather than forcing outcomes.
-domain: religion
+domain: 宗教
 linked_thinker: ../../traditions/taoism/masters/laozi.md
 linked_concepts:
   - ../../traditions/taoism/wuwei.md
@@ -99,4 +99,4 @@ tags:
 
 - 思想家：[老子](../../traditions/taoism/masters/laozi.md)
 - 概念：[无为](../../traditions/taoism/wuwei.md)
-- 相关 Skill：[reverse-thinking](../../philosophy/skills/reverse-thinking/SKILL.md)、[softness-overcomes-hardness](./softness-overcomes-hardness/SKILL.md)
+- 相关 Skill：[reverse-thinking](../../哲学/技能/反向思维/SKILL.md)、[softness-overcomes-hardness](./softness-overcomes-hardness/SKILL.md)

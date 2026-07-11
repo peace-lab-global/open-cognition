@@ -1,11 +1,11 @@
 ---
 name: gender-performativity-analysis
 description: Triggers on requests to 性别操演、表演性、性别政治，如性别研究、身份政治、社会建构等。Apply this skill to analyze gender issues using Butler's theory of gender performativity, understanding how gender is performed and constructed.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/gender-studies/butler.md
 linked_concepts:
-  - ../../sociology/concepts/gender-performativity.md
-  - ../../sociology/concepts/performativity.md
+  - ../../社会学/概念/性别-performativity.md
+  - ../../社会学/概念/performativity.md
 tags:
   - 性别操演
   - 表演性

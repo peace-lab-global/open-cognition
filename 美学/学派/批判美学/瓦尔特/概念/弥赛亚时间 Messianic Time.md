@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin.concepts.messianic-time
+id: 美学.critical-aesthetics.benjamin.concepts.messianic-time
 title: 弥赛亚时间 Messianic Time
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.benjamin
+domain: 美学
+parent: 美学.critical-aesthetics.benjamin
 tags: [弥赛亚时间, 历史哲学, 历史天使, 进步批判, 救赎]
 ---
 
@@ -13,7 +13,7 @@ tags: [弥赛亚时间, 历史哲学, 历史天使, 进步批判, 救赎]
 
 "弥赛亚时间"是本雅明历史哲学的核心概念，源自犹太弥赛亚主义传统但经过彻底的世俗化改造。本雅明拒绝将历史视为连续的进步之流，而是将每一刻视为潜在的"弥赛亚"入口——救赎不是未来的承诺，而是当下的紧迫性。每一刻都是"窄门"，弥赛亚可能从中进入。
 
-"Messianic Time" is the core concept of Benjamin's philosophy of history, derived from Jewish messianic tradition but thoroughly secularized. Benjamin refuses to view history as continuous progressive flow, instead treating every moment as a potential "messianic" entrance — redemption is not future promise but present urgency. Every moment is a "narrow gate" through which the Messiah might enter.
+"Messianic Time" is the core concept of Benjamin's 哲学 of history, derived from Jewish messianic tradition but thoroughly secularized. Benjamin refuses to view history as continuous progressive flow, instead treating every moment as a potential "messianic" entrance — redemption is not future promise but present urgency. Every moment is a "narrow gate" through which the Messiah might enter.
 
 ## 历史天使 / The Angel of History
 

@@ -19,7 +19,7 @@
 
 ```bash
 # 用 Qoder CLI 调用一个 Skill
-qodercli skill run psychology/skills/cbt-cognitive-distortion/SKILL.md \
+qodercli skill run 心理学/技能/认知扭曲识别/SKILL.md \
   --input "分析这段独白：……"
 ```
 
@@ -34,17 +34,17 @@ open-cognition/
 ├── TAGS.md                             # 统一标签词典 + 关联类型规范
 │
 ├── <domain>/                           # 思想家 + 概念条目 + Skills
-│   ├── philosophy/    (42 thinkers / 8 concepts / 19 skills)
-│   ├── religion/      (34 thinkers / 127 concepts / 39 skills) ← 含佛教认知专题
-│   ├── sociology/     (18 thinkers / 7 concepts / 15 skills)
-│   ├── psychology/    (42 thinkers / 8 concepts / 16 skills)
-│   ├── ethics-politics/ (15 / 11 / 10 skills)
-│   ├── aesthetics/    (23 / 9 / 3 skills)
-│   ├── literature/    (5 / 8 / 5 skills)
-│   ├── arts/          (3 / 8 / 3 skills)
-│   └── cognitive-systems/ (28 / 27 / 16 skills)
+│   ├── 哲学/    (42 thinkers / 8 concepts / 19 skills)
+│   ├── 宗教/      (34 thinkers / 127 concepts / 39 skills) ← 含佛教认知专题
+│   ├── 社会学/     (18 thinkers / 7 concepts / 15 skills)
+│   ├── 心理学/    (42 thinkers / 8 concepts / 16 skills)
+│   ├── 伦理政治/ (15 / 11 / 10 skills)
+│   ├── 美学/    (23 / 9 / 3 skills)
+│   ├── 文学/    (5 / 8 / 5 skills)
+│   ├── 艺术/          (3 / 8 / 3 skills)
+│   └── 认知系统/ (28 / 27 / 16 skills)
 │
-├── religion/buddhism/concepts/cognitive-theory/   # 🌟 佛教认知专题
+├── 宗教/佛教/概念/cognitive-theory/   # 🌟 佛教认知专题
 │   ├── <concept>.md                    # 19 概念
 │   └── skills/<skill-id>/SKILL.md      # 15 专项 Skill
 │
@@ -188,25 +188,25 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 
 | Skill | 用途 | 路径 |
 |---|---|---|
-| CBT 认知扭曲识别 | 识别 10 类认知扭曲并重构 | [cbt-cognitive-distortion](./psychology/skills/cbt-cognitive-distortion/SKILL.md) |
-| 布迪厄场域分析 | 分析权力/资本/惯习结构 | [bourdieu-field-analysis](./sociology/skills/bourdieu-field-analysis/SKILL.md) |
-| 四圣谛诊断 | 用佛教诊断框架看具体困境 | [four-noble-truths-framework](./religion/skills/four-noble-truths-framework/SKILL.md) |
-| 康德绝对命令检验 | 检验行为准则是否可普遍化 | [categorical-imperative-test](./philosophy/skills/categorical-imperative-test/SKILL.md) |
-| STPA 事故分析 | 系统理论事故分析 | [stpa-accident-analysis](./cognitive-systems/skills/stpa-accident-analysis/SKILL.md) |
+| CBT 认知扭曲识别 | 识别 10 类认知扭曲并重构 | [cbt-cognitive-distortion](./心理学/技能/认知扭曲识别/SKILL.md) |
+| 布迪厄场域分析 | 分析权力/资本/惯习结构 | [bourdieu-field-analysis](./社会学/技能/布迪厄场域分/SKILL.md) |
+| 四圣谛诊断 | 用佛教诊断框架看具体困境 | [four-noble-truths-framework](./宗教/技能/四圣谛框架分/SKILL.md) |
+| 康德绝对命令检验 | 检验行为准则是否可普遍化 | [categorical-imperative-test](./哲学/技能/绝对命令检验/SKILL.md) |
+| STPA 事故分析 | 系统理论事故分析 | [stpa-accident-analysis](./认知系统/技能/理论事故模型/SKILL.md) |
 
 ### 佛教认知专题类（在 `religion/buddhism/skills/` 下）
 
 | Skill | 用途 | 路径 |
 |---|---|---|
-| 八识认知诊断 | 定位认知卡点在哪一识 | [eight-consciousness-diagnosis](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md) |
-| 三性诊断 | 剥离叙事，看见缘起事实 | [three-natures-diagnosis](religion/buddhism/skills/three-natures-diagnosis/SKILL.md) |
-| 种子模式分析 | 追溯认知惯性的熏习来源 | [bija-pattern-analysis](religion/buddhism/skills/bija-pattern-analysis/SKILL.md) |
-| 量论三量验证 | 评估认知的有效性来源 | [pramana-validation](religion/buddhism/skills/pramana-validation/SKILL.md) |
-| 二谛重构 | 在冲突陈述间切换世俗/胜义视角 | [two-truths-reframing](religion/buddhism/skills/two-truths-reframing/SKILL.md) |
-| 五蕴解构 | 把实体化"我"解构为过程束 | [five-aggregates-deconstruction](religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md) |
-| 缘起链追溯 | 逆向追溯困境的 12 支生成链 | [dependent-origination-tracing](religion/buddhism/skills/dependent-origination-tracing/SKILL.md) |
+| 八识认知诊断 | 定位认知卡点在哪一识 | [eight-consciousness-diagnosis](宗教/佛教/技能/从前五识/SKILL.md) |
+| 三性诊断 | 剥离叙事，看见缘起事实 | [three-natures-diagnosis](宗教/佛教/技能/以唯识三性/SKILL.md) |
+| 种子模式分析 | 追溯认知惯性的熏习来源 | [bija-pattern-analysis](宗教/佛教/技能/后的种子类型/SKILL.md) |
+| 量论三量验证 | 评估认知的有效性来源 | [pramana-validation](宗教/佛教/技能/以佛教量论/SKILL.md) |
+| 二谛重构 | 在冲突陈述间切换世俗/胜义视角 | [two-truths-reframing](宗教/佛教/技能/以佛教二谛/SKILL.md) |
+| 五蕴解构 | 把实体化"我"解构为过程束 | [five-aggregates-deconstruction](宗教/佛教/技能/以五蕴/SKILL.md) |
+| 缘起链追溯 | 逆向追溯困境的 12 支生成链 | [dependent-origination-tracing](宗教/佛教/技能/定位关键断点/SKILL.md) |
 
-完整列表见 [佛教认知专题 README](religion/buddhism/concepts/cognitive-theory/README.md) 的"认知地图"表。
+完整列表见 [佛教认知专题 README](宗教/佛教/概念/cognitive-theory/README.md) 的"认知地图"表。
 
 ---
 
@@ -308,7 +308,7 @@ v0.7 路线图计划提供 MCP server，暴露：
 - [TAGS.md](TAGS.md) — 标签与关联类型规范
 - [_meta/templates/](./_meta/templates/) — 思想家/概念/学派/Skill 模板
 - [_meta/quality-criteria.md](./_meta/quality-criteria.md) — 质量标准
-- [religion/buddhism/INDEX.md](religion/buddhism/INDEX.md) — 佛教认知专题导航
+- [宗教/佛教/INDEX.md](宗教/佛教/INDEX.md) — 佛教认知专题导航
 
 ---
 

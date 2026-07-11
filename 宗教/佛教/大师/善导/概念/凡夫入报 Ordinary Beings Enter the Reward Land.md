@@ -3,7 +3,7 @@ id: shandao-fanfu-rubao
 title: "凡夫入报 Ordinary Beings Enter the Reward Land"
 type: concept
 parent: shandao
-domain: religion
+domain: 宗教
 tags: [ordinary-beings, reward-land, Pure-Land]
 ---
 # 凡夫入报 / Ordinary Beings Enter the Reward Land

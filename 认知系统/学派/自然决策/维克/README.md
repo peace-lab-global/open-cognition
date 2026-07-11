@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.naturalistic-decision.weick
+id: 认知系统.naturalistic-decision.weick
 title: 卡尔·维克 Karl Weick
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: naturalistic-decision
 era: contemporary
 birth: 1936

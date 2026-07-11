@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.luria
+id: 心理学.cognitive.luria
 title: "卢里亚 · Alexander Luria"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 birth: 1902
@@ -227,12 +227,12 @@ children:
 
 ### 东方思想
 
-- [唯识 · Yogācāra](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[对照]` 功能系统 vs 八识，功能重组 vs 转识成智
-- [转识成智](../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` 心理功能的质变与心识转化
+- [唯识 · Yogācāra](../../../宗教/佛教/概念/cognitive-theory/八识体系.md) `[对照]` 功能系统 vs 八识，功能重组 vs 转识成智
+- [转识成智](../../../宗教/佛教/概念/cognitive-theory/六根六尘六识.md) `[平行]` 心理功能的质变与心识转化
 
 ### 哲学
 
-- [梅洛-庞蒂 · Merleau-Ponty](../../../philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 身体现象学同样关注"心智不只是大脑"，强调身体在认知中的角色
+- [梅洛-庞蒂 · Merleau-Ponty](../../../哲学/学派/现象学/梅洛庞蒂.md) `[平行]` 身体现象学同样关注"心智不只是大脑"，强调身体在认知中的角色
 
 ## 进阶阅读
 

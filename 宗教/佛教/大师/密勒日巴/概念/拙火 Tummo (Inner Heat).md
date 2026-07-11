@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.masters.milarepa.concepts.tummo
+id: 宗教.buddhism.masters.milarepa.concepts.tummo
 title: 拙火 Tummo (Inner Heat)
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
-parent: religion.buddhism.masters.milarepa
+parent: 宗教.buddhism.masters.milarepa
 tags: [拙火, Tummo, 内热, 气脉明点, 那洛六法, inner heat, channels]
 ---
 
@@ -122,7 +122,7 @@ This great bliss is not worldly sensory pleasure but the state in which mind's i
 
 现代科学对拙火进行了有限的研究：
 
-Modern science has conducted limited research on tummo:
+Modern science has conducted limited 研究 on tummo:
 
 **Herbert Benson 的研究**（1980年代）：哈佛大学医学院的 Benson 教授对印度北部修行拙火的僧侣进行了生理测量。研究发现，这些僧侣能够将手指和脚趾的温度提升多达8.3°C，并能在寒冷环境中用身体热量烘干浸泡过冰水的湿布单。
 
@@ -134,13 +134,13 @@ Modern science has conducted limited research on tummo:
 
 值得注意的是，科学研究只能测量拙火的身体效应，而无法触及拙火修行的精神维度——大乐智慧的体验超出了当前科学仪器的测量范围。
 
-Notably, scientific research can only measure tummo's physical effects and cannot access its spiritual dimension — the experience of bliss-wisdom lies beyond current scientific instrumentation.
+Notably, scientific 研究 can only measure tummo's physical effects and cannot access its spiritual dimension — the experience of bliss-wisdom lies beyond current scientific instrumentation.
 
 ## 修行警示 Practice Cautions
 
 传统密续文献对拙火修行提出了多重警示：
 
-Traditional tantric literature offers multiple cautions regarding tummo practice:
+Traditional tantric 文学 offers multiple cautions regarding tummo practice:
 
 - **必须依止上师 Rely on a qualified teacher**：拙火修法不可自学，必须在具德上师的指导下修行，否则可能导致"气脉错乱"（lung disorder）。
   Tummo must never be self-taught; practicing without a qualified guru can lead to wind disorders (rlung disorder).

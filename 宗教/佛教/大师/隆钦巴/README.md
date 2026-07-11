@@ -2,7 +2,7 @@
 id: longchenpa
 title: "隆钦巴 Longchenpa: 宁玛派大圆满集大成者与七宝藏作者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-nyingma
 era: medieval
 birth: 1308
@@ -71,7 +71,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 隆钦巴以七部巨著——《七宝藏》——完成了大圆满教法的系统整合。这七部著作涵盖了从基础佛学到大圆满最深教授的全部内容，是宁玛派学术传统的基石。
 
-**The Seven Treasures constitute Longchenpa's magnum opus — seven treatises that systematically integrate the entirety of Buddhist philosophy and Dzogchen practice into a unified system.**
+**The Seven Treasures constitute Longchenpa's magnum opus — seven treatises that systematically integrate the entirety of Buddhist 哲学 and Dzogchen practice into a unified system.**
 
 详见 [七宝藏](concepts/seven-treasures.md)。
 
@@ -221,7 +221,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [莲花生大士](padmasambhava.md) — 大圆满传承源头；[宗喀巴](tsongkhapa.md) — 同时代并行的教法整合者
-- **哲学**: [龙树](nagarjuna/README.md) — 空性哲学的基础；[扎哈维](../../../philosophy/schools/phenomenology/zahavi.md) — 前反思意识与 rig pa 的对话
+- **哲学**: [龙树](nagarjuna/README.md) — 空性哲学的基础；[扎哈维](../../../哲学/学派/现象学/扎哈维.md) — 前反思意识与 rig pa 的对话
 - **学派**: [宁玛派](../schools/nyingma.md) — 隆钦巴所属并集大成的传统
 - **认知科学**: 意识的难问题、元认知、冥想神经科学
 - **比较哲学**: 如来藏思想、吠檀多不二论、新柏拉图主义的否定神学

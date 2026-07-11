@@ -3,7 +3,7 @@ id: atisha-mind-training
 title: "修心七要 Lojong: 阿底峡传承的七项修心要诀"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [lojong, mind-training, seven-points, tonglen, adversity, 修心, blo-sbyong]
 ---
 

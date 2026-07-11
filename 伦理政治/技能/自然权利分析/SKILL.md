@@ -1,11 +1,11 @@
 ---
 name: natural-rights-analysis
 description: Triggers on requests to 自然权利、财产权、政府权力，如政治哲学、权利理论、自由主义等。Apply this skill to analyze political and ethical issues using Locke's concept of natural rights, understanding the foundations of liberal political theory.
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/social-contract/locke.md
 linked_concepts:
   - ../../concepts/natural-rights.md
-  - ../../ethics-politics/concepts/property.md
+  - ../../伦理政治/概念/property.md
 tags:
   - 自然权利
   - 财产权

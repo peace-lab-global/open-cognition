@@ -3,7 +3,7 @@ id: nagel-what-is-it-like
 title: 成为X是什么感觉 · What It Is Like
 type: concept
 thinker: nagel
-domain: philosophy
+domain: 哲学
 school: analytic
 tags: [consciousness, phenomenology, qualia]
 ---

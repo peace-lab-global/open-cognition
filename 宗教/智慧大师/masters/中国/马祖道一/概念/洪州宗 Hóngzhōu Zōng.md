@@ -3,7 +3,7 @@ id: wisdom-masters.china.mazu-daoyi.hongzhou-school
 title: 洪州宗 Hóngzhōu Zōng
 type: concept
 thinker: 马祖道一 Mazu Daoyi
-domain: religion
+domain: 宗教
 school: chan-buddhism
 tags: [洪州宗, 禅宗, 马祖]
 ---

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.mahaparinirvana
+id: 宗教.buddhism.sutra.mahaparinirvana
 title: 大般涅槃经 Mahāparinirvāṇa Sūtra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-tathagatagarbha
 era: ancient
 tags: [大般涅槃经, 涅槃经, 佛性, 常乐我净, 如来藏, 阐提]

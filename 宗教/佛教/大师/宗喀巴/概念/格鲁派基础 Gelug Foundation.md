@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa.concepts.gelug-foundation
+id: 宗教.buddhism.master.tsongkhapa.concepts.gelug-foundation
 title: 格鲁派基础 Gelug Foundation
 type: concept
-parent: religion.buddhism.master.tsongkhapa
+parent: 宗教.buddhism.master.tsongkhapa
 tags: [格鲁派, dGe-lugs-pa, 黄教, 寺院教育, 宗喀巴]
 ---
 
@@ -57,9 +57,9 @@ The core curriculum of Gelug monastic colleges:
 | 论著 Treatise | 作者 Author | 主题 Subject | 学习年限 Duration |
 |---|---|---|---|
 | 《现观庄严论》 *Abhisamayālaṃkāra* | 弥勒（传） Maitreya | 般若波罗蜜多的隐义 Hidden meaning of Prajñāpāramitā | 4–6年 years |
-| 《入中论》 *Madhyamakāvatāra* | 月称 Candrakīrti | 中观哲学 Madhyamaka philosophy | 2–3年 years |
+| 《入中论》 *Madhyamakāvatāra* | 月称 Candrakīrti | 中观哲学 Madhyamaka 哲学 | 2–3年 years |
 | 《释量论》 *Pramāṇavārttika* | 法称 Dharmakīrti | 佛教逻辑与认识论 Buddhist logic and epistemology | 2–4年 years |
-| 《俱舍论》 *Abhidharmakośa* | 世亲 Vasubandhu | 阿毗达磨（佛教心理学） Buddhist psychology | 2–3年 years |
+| 《俱舍论》 *Abhidharmakośa* | 世亲 Vasubandhu | 阿毗达磨（佛教心理学） Buddhist 心理学 | 2–3年 years |
 | 《戒律论》 *Vinayasūtra* | 功德光 Guṇaprabha | 佛教戒律 Buddhist monastic discipline | 2–3年 years |
 
 ### 4. 三大寺 / The Three Great Monasteries

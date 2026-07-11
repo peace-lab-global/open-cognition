@@ -3,7 +3,7 @@ id: dharmakirti-apoha-theory
 title: "Apoha 排除理论: 法称的意义与概念哲学"
 type: concept
 parent: dharmakirti
-domain: religion
+domain: 宗教
 tags: [apoha, anyapoha, semantics, exclusion, meaning, conceptualism]
 ---
 

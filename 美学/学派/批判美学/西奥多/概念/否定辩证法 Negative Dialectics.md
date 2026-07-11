@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.adorno.concepts.negative-dialectics
+id: 美学.critical-aesthetics.adorno.concepts.negative-dialectics
 title: 否定辩证法 Negative Dialectics
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.adorno
+domain: 美学
+parent: 美学.critical-aesthetics.adorno
 tags: [否定辩证法, 黑格尔, 非同一性, 反体系, 形而上学批判]
 ---
 
@@ -32,12 +32,12 @@ Adorno argues that Hegel's dialectics betrays the power of negation in affirmati
 ### 1. 非同一性优先 / Priority of Non-Identity
 否定辩证法的根本原则是"非同一性"的优先地位。传统哲学（从柏拉图到黑格尔）预设概念能够完全把握对象，这就是"同一性思维"。阿多诺认为，对象总是超出概念的范围——那个无法被概念化的残余就是"非同一性"。否定辩证法的任务就是追踪这些被概念遗漏的非同一性。
 
-The fundamental principle of negative dialectics is the priority of "non-identity." Traditional philosophy (from Plato to Hegel) presupposes concepts can fully grasp objects — this is "identity thinking." Adorno argues objects always exceed concepts — that which escapes conceptualization is "non-identity." Negative dialectics traces these non-identities missed by concepts.
+The fundamental principle of negative dialectics is the priority of "non-identity." Traditional 哲学 (from Plato to Hegel) presupposes concepts can fully grasp objects — this is "identity thinking." Adorno argues objects always exceed concepts — that which escapes conceptualization is "non-identity." Negative dialectics traces these non-identities missed by concepts.
 
 ### 2. 概念拜物教批判 / Critique of Concept Fetishism
 阿多诺将马克思的商品拜物教批判扩展到概念领域。传统哲学犯了一种"概念拜物教"的错误——将概念当作独立存在的实体，忘记了概念是对非概念性现实的抽象。否定辩证法要揭示概念对其非概念性基础的依赖。
 
-Adorno extends Marx's commodity fetishism critique to the conceptual realm. Traditional philosophy commits "concept fetishism" — treating concepts as independent entities, forgetting they are abstractions from non-conceptual reality. Negative dialectics reveals concepts' dependence on their non-conceptual foundations.
+Adorno extends Marx's commodity fetishism critique to the conceptual realm. Traditional 哲学 commits "concept fetishism" — treating concepts as independent entities, forgetting they are abstractions from non-conceptual reality. Negative dialectics reveals concepts' dependence on their non-conceptual foundations.
 
 ### 3. 星座方法 / Constellation Method
 否定辩证法不通过定义来把握对象，而是通过"星座"方法——让多个概念围绕对象排列，从不同角度照亮对象，而不试图将其归结为单一概念。这就像天文中的星座——星星围绕一个点排列，但那个点本身不可见。

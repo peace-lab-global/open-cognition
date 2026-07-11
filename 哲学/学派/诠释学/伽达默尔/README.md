@@ -2,7 +2,7 @@
 id: gadamer
 title: 伽达默尔 · Hans-Georg Gadamer
 type: thinker
-domain: philosophy
+domain: 哲学
 school: hermeneutics
 era: contemporary
 birth: 1900

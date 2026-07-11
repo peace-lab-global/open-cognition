@@ -2,7 +2,7 @@
 id: skinner
 title: "B.F.斯金纳 · B.F. Skinner"
 type: thinker
-domain: psychology
+domain: 心理学
 school: behaviorism
 era: modern
 birth: 1904
@@ -20,7 +20,7 @@ sub-entries: operant-conditioning.md, reinforcement.md, behavior-modification.md
 
 **伯尔赫斯·弗雷德里克·斯金纳**（Burrhus Frederic Skinner，1904年3月20日—1990年8月18日），美国心理学家，新行为主义（Neo-Behaviorism）的核心代表人物，操作性条件反射理论（Operant Conditioning Theory）的创始人。斯金纳出生于美国宾夕法尼亚州萨斯奎汉纳（Susquehanna, Pennsylvania），父亲为当地律师。他早年在汉密尔顿学院（Hamilton College）学习英语文学，获得文学学士学位（1926），毕业后曾短暂从事写作。在阅读了约翰·B·华生（John B. Watson）的《行为主义》（*Behaviorism*, 1924）和伯特兰·罗素（Bertrand Russell）关于行为主义的哲学论述之后，他对心理学产生了浓厚兴趣，于1928年进入哈佛大学心理学系攻读研究生，1931年获得博士学位。
 
-**Burrhus Frederic Skinner** (March 20, 1904 – August 18, 1990) was an American psychologist and the central figure of Neo-Behaviorism. He is widely recognized as the founder of operant conditioning theory. Born in Susquehanna, Pennsylvania, to a lawyer father, Skinner attended Hamilton College where he earned a B.A. in English literature (1926). After a brief period pursuing a writing career, he encountered Watson's *Behaviorism* (1924) and Bertrand Russell's philosophical treatment of behaviorism, which redirected his intellectual ambitions toward psychology. He entered Harvard University's psychology department in 1928 and earned his Ph.D. in 1931.
+**Burrhus Frederic Skinner** (March 20, 1904 – August 18, 1990) was an American psychologist and the central figure of Neo-Behaviorism. He is widely recognized as the founder of operant conditioning theory. Born in Susquehanna, Pennsylvania, to a lawyer father, Skinner attended Hamilton College where he earned a B.A. in English 文学 (1926). After a brief period pursuing a writing career, he encountered Watson's *Behaviorism* (1924) and Bertrand Russell's philosophical treatment of behaviorism, which redirected his intellectual ambitions toward 心理学. He entered Harvard University's 心理学 department in 1928 and earned his Ph.D. in 1931.
 
 斯金纳先后任教于明尼苏达大学（1936–1945）、印第安纳大学（1945–1948），1948年重返哈佛大学，担任埃德加·皮尔斯心理学教授（Edgar Pierce Professor of Psychology），直至1974年荣休。在哈佛大学期间，他建立了著名的鸽子实验室（Pigeon Lab），进行了大量开创性的动物行为实验。斯金纳一生著述丰富，发表学术论文200余篇，出版著作21部，是20世纪最具影响力的心理学家之一。1958年，美国心理学会授予他杰出科学贡献奖（Distinguished Scientific Contribution Award）；1968年，获美国国家科学奖章（National Medal of Science）；1990年，获美国心理学会终身成就奖（Lifetime Achievement Award），同年8月去世。
 
@@ -82,7 +82,7 @@ During this period, Skinner extended his theory from animal experiments to every
 
 斯金纳晚年越来越关注行为科学的哲学基础和社会含义。1971年出版的《超越自由与尊严》引发了广泛的社会争论，他对自由意志、尊严和自主性等西方核心价值观的批判使他成为最具争议的知识分子之一。1974年的《关于行为主义》（*About Behaviorism*）进一步澄清了他的哲学立场，回应了来自认知心理学、人本主义心理学和哲学的批评。1987年的《我们为什么不是故意的》（"Why I Am Not a cognitivist"）是他对认知革命的最后一篇系统回应。晚年的斯金纳还关注核战争威胁、人口过剩和环境保护等全球性问题，主张用行为科学的方法解决这些危机。
 
-In his later years, Skinner increasingly focused on the philosophical foundations and social implications of behavioral science. *Beyond Freedom and Dignity* (1971) provoked widespread public debate, and his critique of free will, dignity, and autonomy — core Western values — made him one of the most controversial intellectuals of his time. *About Behaviorism* (1974) further clarified his philosophical position, responding to critiques from cognitive psychology, humanistic psychology, and philosophy. His 1987 paper "Why I Am Not a cognitivist" was his final systematic response to the cognitive revolution. Late in life, Skinner also addressed global issues such as nuclear war, overpopulation, and environmental protection, advocating behavioral science approaches to these crises.
+In his later years, Skinner increasingly focused on the philosophical foundations and social implications of behavioral science. *Beyond Freedom and Dignity* (1971) provoked widespread public debate, and his critique of free will, dignity, and autonomy — core Western values — made him one of the most controversial intellectuals of his time. *About Behaviorism* (1974) further clarified his philosophical position, responding to critiques from cognitive psychology, humanistic psychology, and 哲学. His 1987 paper "Why I Am Not a cognitivist" was his final systematic response to the cognitive revolution. Late in life, Skinner also addressed global issues such as nuclear war, overpopulation, and environmental protection, advocating behavioral science approaches to these crises.
 
 ## 关键著作 / Key Works
 
@@ -125,14 +125,14 @@ In his later years, Skinner increasingly focused on the philosophical foundation
 
 ### 继承 / Inherited From
 
-- **华生的行为主义 / Watson's Behaviorism** — 斯金纳继承了华生关于心理学应研究可观察行为的基本立场，但拒绝了华生的刺激-反应（S-R）模型和生理还原主义。Skinner inherited Watson's basic position that psychology should study observable behavior, but rejected Watson's S-R model and physiological reductionism.
+- **华生的行为主义 / Watson's Behaviorism** — 斯金纳继承了华生关于心理学应研究可观察行为的基本立场，但拒绝了华生的刺激-反应（S-R）模型和生理还原主义。Skinner inherited Watson's basic position that 心理学 should study observable behavior, but rejected Watson's S-R model and physiological reductionism.
 - **桑代克的效果律 / Thorndike's Law of Effect** — 斯金纳的强化概念直接源于桑代克关于"满意后果增强行为联结"的发现，但他用更精确的实验方法和更系统的理论框架发展了这一思想。Skinner's reinforcement concept directly derives from Thorndike's discovery that "satisfying consequences strengthen behavioral connections," but he developed this with more precise experimental methods and a more systematic theoretical framework.
 - **巴甫洛夫的条件反射 / Pavlov's Conditioned Reflex** — 斯金纳承认应答性行为（即经典条件反射）的重要性，但将其限定在反射性行为范围内，认为操作性行为需要不同的解释框架。Skinner acknowledged the importance of respondent behavior (classical conditioning) but confined it to reflexive behavior, arguing that operant behavior requires a different explanatory framework.
 
 ### 批判 / Critiqued
 
 - **精神分析的内省方法 / Psychoanalytic Introspection** — 斯金纳认为精神分析诉诸不可观察的内在状态，违反了科学方法论的基本要求。Skinner argued that psychoanalysis appeals to unobservable internal states, violating basic requirements of scientific methodology.
-- **认知心理学的心理表征 / Cognitive Psychology's Mental Representations** — 斯金纳反对将认知过程视为独立于行为的内在因果机制，认为认知心理学犯了"将解释物（explanandum）当作解释项（explanans）"的逻辑错误。Skinner opposed treating cognitive processes as internal causal mechanisms independent of behavior, arguing cognitive psychology commits the logical error of treating the explanandum as the explanans.
+- **认知心理学的心理表征 / Cognitive Psychology's Mental Representations** — 斯金纳反对将认知过程视为独立于行为的内在因果机制，认为认知心理学犯了"将解释物（explanandum）当作解释项（explanans）"的逻辑错误。Skinner opposed treating cognitive processes as internal causal mechanisms independent of behavior, arguing cognitive 心理学 commits the logical error of treating the explanandum as the explanans.
 - **人本主义的自由意志 / Humanistic Free Will** — 斯金纳认为人本主义心理学（如马斯洛、罗杰斯）对自由意志和自我实现的强调忽视了环境控制的现实，是一种"前科学"的思维方式。Skinner argued that humanistic psychology's emphasis on free will and self-actualization ignores the reality of environmental control, representing a "pre-scientific" mode of thinking.
 
 ### 影响 / Influenced
@@ -174,7 +174,7 @@ In his later years, Skinner increasingly focused on the philosophical foundation
 **✅ 斯金纳实际上强烈反对使用惩罚。** 他的研究明确表明，惩罚虽然可以暂时抑制行为，但不能真正消除行为，且会产生攻击性、恐惧和逃避等负面副作用。他一贯主张用正强化而非惩罚来塑造行为。
 
 **❌ Skinner believed punishment is an effective method for changing behavior.**
-**✅ Skinner actually strongly opposed the use of punishment.** His research clearly demonstrated that while punishment can temporarily suppress behavior, it cannot truly eliminate it and produces negative side effects including aggression, fear, and avoidance. He consistently advocated using positive reinforcement rather than punishment to shape behavior.
+**✅ Skinner actually strongly opposed the use of punishment.** His 研究 clearly demonstrated that while punishment can temporarily suppress behavior, it cannot truly eliminate it and produces negative side effects including aggression, fear, and avoidance. He consistently advocated using positive reinforcement rather than punishment to shape behavior.
 
 ### 误读三 / Misreading 3
 **❌ 斯金纳的理论只适用于动物和低级的机械学习，不能解释人类的复杂行为。**

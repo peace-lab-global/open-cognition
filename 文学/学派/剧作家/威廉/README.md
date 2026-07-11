@@ -1,8 +1,8 @@
 ---
-id: literature.dramatists.shakespeare
+id: 文学.dramatists.shakespeare
 title: 威廉·莎士比亚 · William Shakespeare
 type: thinker
-domain: literature
+domain: 文学
 school: dramatists
 era: early-modern
 birth: 1564
@@ -49,7 +49,7 @@ children:
 
 莎士比亚的语言本身就是一种思想事件。他极大地丰富了英语的表达能力——据统计，他创造或首次使用了超过 1700 个英语词汇，以及无数至今仍在使用的习语和表达方式。他的五步抑扬格（iambic pentameter）将英语诗歌推向了前所未有的高度，而他的对白则展现了一种前所未有的对话艺术——每个人物都有属于自己的语言风格，语言不仅是交流工具，更是思想的载体和人格的表达。
 
-William Shakespeare (1564–1616) is the central figure of Western literature and arguably the deepest explorer of human nature in any language. His 37 plays — spanning tragedy, comedy, history, and romance — constitute an inexhaustible inquiry into power, love, jealousy, ambition, madness, and the nature of being. His four great tragedies (*Hamlet*, *Othello*, *King Lear*, *Macbeth*) represent the summit of dramatic art. Harold Bloom argued that Shakespeare "invented the human" — not biologically, but by creating the psychological structures of interiority, self-division, and self-overhearing that define modern consciousness. His linguistic innovation enriched English with over 1700 words and countless idioms that remain in daily use.
+William Shakespeare (1564–1616) is the central figure of Western 文学 and arguably the deepest explorer of human nature in any language. His 37 plays — spanning tragedy, comedy, history, and romance — constitute an inexhaustible inquiry into power, love, jealousy, ambition, madness, and the nature of being. His four great tragedies (*Hamlet*, *Othello*, *King Lear*, *Macbeth*) represent the summit of dramatic art. Harold Bloom argued that Shakespeare "invented the human" — not biologically, but by creating the psychological structures of interiority, self-division, and self-overhearing that define modern consciousness. His linguistic innovation enriched English with over 1700 words and countless idioms that remain in daily use.
 
 ## 二、核心命题 / Core Theses
 
@@ -122,7 +122,7 @@ William Shakespeare (1564–1616) is the central figure of Western literature an
 ## 六、思想坐标 / Intellectual Positioning
 
 - **承接**：古希腊悲剧（索福克勒斯、欧里庇得斯）→ 塞内加的复仇悲剧 → 中世纪道德剧 → 马洛（*Tamburlaine*, *Dr. Faustus*）→ 基德《西班牙悲剧》
-- **同代对话**：与[蒙田](../../../philosophy/schools/empiricism/montaigne.md)平行——怀疑主义与人性探索；与马基雅维利平行——权力的病理学
+- **同代对话**：与[蒙田](../../../哲学/学派/经验主义/montaigne.md)平行——怀疑主义与人性探索；与马基雅维利平行——权力的病理学
 - **文艺复兴语境**：人文主义对人的发现 → 宗教改革对内在信仰的强调 → 环球航行对世界观的拓展
 - **哲学下游**：黑格尔（悲剧辩证法）→ 尼采（阿波罗与狄奥尼索斯）→ 弗洛伊德（哈姆雷特与弑父情结）→ 德里达（解构《哈姆雷特》）
 - **文学下游**：弥尔顿 → 歌德 → 浪漫主义 → 艾略特 → 乔伊斯（《尤利西斯》中的莎学讨论）

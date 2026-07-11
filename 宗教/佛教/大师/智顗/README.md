@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.zhiyi
+id: 宗教.buddhism.master.zhiyi
 title: "智顗 Zhiyi: 天台宗创始人与中国佛教哲学集大成者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-tiantai
 era: medieval
 birth: 538
@@ -66,7 +66,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 止（samatha，注意力稳定）与观（vipasyana，元觉知洞察）不是两种分离的修行，而是同一认知训练的两个面向。智顗将止观系统化为从入门到究竟的完整修行路径，建立了佛教史上最精细的禅修心理学体系。
 
-**Calming (samatha, stabilizing attention) and contemplation (vipasyana, metacognitive insight) are not separate practices but two dimensions of one cognitive training. Zhiyi systematized them into a complete path from beginner to awakening, creating Buddhism's most refined meditation psychology.**
+**Calming (samatha, stabilizing attention) and contemplation (vipasyana, metacognitive insight) are not separate practices but two dimensions of one cognitive training. Zhiyi systematized them into a complete path from beginner to awakening, creating Buddhism's most refined meditation 心理学.**
 
 详见 [摩诃止观](concepts/mohe-zhiguan.md)。
 
@@ -232,7 +232,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../philosophy/schools/german-idealism/hegel.md) — 辩证法平行；[怀特海](../../../philosophy/schools/process/whitehead.md) — 过程哲学
+- **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../哲学/schools/process/whitehead.md) — 过程哲学
 - **佛教内部**: [慧思](../nagarjuna/README.md) — 师承；[灌顶] — 首席弟子；[湛然] — 天台复兴者；[法藏](../fazang/README.md) — 华严宗对照
 - **学派**: [天台宗](../schools/tiantai.md) — 创始人
 - **认知科学**: 注意力训练、元认知、全息认知、分布式表征

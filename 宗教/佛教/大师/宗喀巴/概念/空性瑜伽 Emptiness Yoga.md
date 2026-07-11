@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa.concepts.emptiness-yoga
+id: 宗教.buddhism.master.tsongkhapa.concepts.emptiness-yoga
 title: 空性瑜伽 Emptiness Yoga
 type: concept
-parent: religion.buddhism.master.tsongkhapa
+parent: 宗教.buddhism.master.tsongkhapa
 tags: [空性, śūnyatā, 中观, 应成派, 止观双运, 宗喀巴]
 ---
 
@@ -160,7 +160,7 @@ Tsongkhapa emphasized that the two truths are **two aspects of the same phenomen
 
 空性瑜伽从认知科学的角度可以被理解为一种**本体论解构训练**——系统性地瓦解人类认知中根深蒂固的"本质主义"倾向（即认为事物具有独立、固有本能的认知偏见）。发展心理学研究表明，本质主义思维是人类认知的默认模式（Gelman, 2003）；宗喀巴的空性方法提供了一套系统的反本质主义认知训练。
 
-Emptiness yoga can be understood from a cognitive science perspective as a form of **ontological deconstruction training**—systematically dismantling the deeply ingrained "essentialist" tendency in human cognition (the cognitive bias that things have independent, inherent natures). Developmental psychology research shows essentialist thinking is the default mode of human cognition (Gelman, 2003); Tsongkhapa's emptiness methods provide a systematic counter-essentialist cognitive training.
+Emptiness yoga can be understood from a cognitive science perspective as a form of **ontological deconstruction training**—systematically dismantling the deeply ingrained "essentialist" tendency in human cognition (the cognitive bias that things have independent, inherent natures). Developmental 心理学 研究 shows essentialist thinking is the default mode of human cognition (Gelman, 2003); Tsongkhapa's emptiness methods provide a systematic counter-essentialist cognitive training.
 
 ## 延伸阅读 / Further Reading
 

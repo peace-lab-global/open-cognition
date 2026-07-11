@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.masters.milarepa.concepts.six-yogas-naropa
+id: 宗教.buddhism.masters.milarepa.concepts.six-yogas-naropa
 title: 那洛六法 Six Yogas of Naropa
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
-parent: religion.buddhism.masters.milarepa
+parent: 宗教.buddhism.masters.milarepa
 tags: [那洛六法, Six Yogas of Naropa, 密续, tantra, 噶举派, Kagyu, 无上瑜伽]
 ---
 

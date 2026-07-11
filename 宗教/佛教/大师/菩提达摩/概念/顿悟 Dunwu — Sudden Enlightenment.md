@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.concepts.sudden-enlightenment
+id: 宗教.buddhism.masters.bodhidharma.concepts.sudden-enlightenment
 title: 顿悟 Dunwu — Sudden Enlightenment
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 tags: [顿悟, Dunwu, Sudden Enlightenment, 见性成佛, 直指人心, 达摩禅法, Bodhidharma]

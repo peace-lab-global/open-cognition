@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.adorno.concepts.culture-industry
+id: 美学.critical-aesthetics.adorno.concepts.culture-industry
 title: 文化工业 Culture Industry
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.adorno
+domain: 美学
+parent: 美学.critical-aesthetics.adorno
 tags: [文化工业, 文化批评, 马克思主义, 商品拜物教, 意识形态]
 ---
 

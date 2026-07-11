@@ -1,6 +1,6 @@
 ---
 title: 直接认知 · Direct Cognition
-type: research
+type: 研究
 status: draft
 created: 2026-07-02
 tags:
@@ -12,10 +12,10 @@ tags:
   - 直接知觉
   - 跨学科研究
 domains:
-  - philosophy
-  - religion
-  - psychology
-  - cognitive-systems
+  - 哲学
+  - 宗教
+  - 心理学
+  - 认知系统
 ---
 
 # 直接认知：心灵能否直抵世界？
@@ -94,7 +94,7 @@ domains:
 
 **对后世的意义**：亚里士多德设定了"直接性"的默认值。此后两千年的中介论革命（"观念之幕"）本质上是对这一默认值的反叛，而里德的反-革命则是向它的回归。
 
-**相关条目**：[亚里士多德](../../philosophy/schools/ancient-greek/aristotle.md)
+**相关条目**：[亚里士多德](../../哲学/学派/古希腊/亚里士多德.md)
 
 ---
 
@@ -116,7 +116,7 @@ domains:
 
 > **洞见**：司各脱的"直觉认知"是西方思想中第一次明确把"直接性"作为认知的**独立模态**加以理论化——它不是感知的模糊整体，而是有清晰逻辑位置的概念。这一概念后来经奥康、皮科·德拉米兰多拉传到近代，是笛卡尔"清楚明白观念"和现象学"直观"的共同远祖。
 
-**相关条目**：[阿奎那](../../philosophy/schools/medieval-scholastic/aquinas.md) · [奥卡姆剃刀](../../cognitive-systems/concepts/occams-razor.md)
+**相关条目**：[阿奎那](../../哲学/学派/中世纪经院/托马斯.md) · [奥卡姆剃刀](../../认知系统/概念/奥卡姆剃刀.md)
 
 ---
 
@@ -141,7 +141,7 @@ domains:
 
 > 直接实在论者里德后来尖锐地指出：**笛卡尔-洛克-休谟-贝克莱这条线，并非各走各的路，而是同一前提（观念是首要对象）的必然展开**。要救出实在论，必须推翻这个前提。
 
-**相关条目**：[笛卡尔](../../philosophy/schools/rationalism/descartes.md) · [休谟](../../philosophy/schools/empiricism/hume.md)
+**相关条目**：[笛卡尔](../../哲学/学派/理性论/勒内.md) · [休谟](../../哲学/学派/经验主义/休谟.md)
 
 ---
 
@@ -168,7 +168,7 @@ domains:
 
 > **本研究的关键判断**：里德是被低估的现代认识论奠基人。他对"观念之幕"的诊断，至今仍是反对一切形式表征主义（包括当代计算主义的内部表征）最锋利的武器。
 
-**相关条目**：[休谟](../../philosophy/schools/empiricism/hume.md) · [康德](../../philosophy/schools/german-idealism/kant.md)
+**相关条目**：[休谟](../../哲学/学派/经验主义/休谟.md) · [康德](../../哲学/学派/德国唯心论/康德.md)
 
 ---
 
@@ -194,7 +194,7 @@ domains:
 - **直接熟知**：意识与对象的关系（知识关系）本身就是一种可被直接感受的经验——"我知道X"这个事实可以被从内部直接体验。
 - 詹姆斯的"意识流"反对把经验切割成离散"观念"，主张连续的、直接的"纯粹经验"（pure experience）是心物共同的质料。
 
-**相关条目**：[罗素](../../philosophy/schools/analytic/russell.md) · [威廉·詹姆斯](../../psychology/schools/functionalism/william-james.md)
+**相关条目**：[罗素](../../哲学/学派/分析哲学/伯特兰.md) · [威廉·詹姆斯](../../心理学/学派/功能主义/威廉-william-james.md)
 
 ---
 
@@ -223,7 +223,7 @@ domains:
 
 > **现象学的核心贡献**：它把"直接性"从一个**有待辩护的理论主张**（里德、摩尔的实在论论证）变成一个**可被方法揭示的经验事实**——只要你执行悬置，直接给予便自行显示。
 
-**相关条目**：[胡塞尔](../../philosophy/schools/phenomenology/husserl.md) · [梅洛-庞蒂](../../philosophy/schools/phenomenology/merleau-ponty.md) · [扎哈维](../../philosophy/schools/phenomenology/zahavi.md)
+**相关条目**：[胡塞尔](../../哲学/学派/现象学/胡塞尔.md) · [梅洛-庞蒂](../../哲学/学派/现象学/梅洛庞蒂.md) · [扎哈维](../../哲学/学派/现象学/扎哈维.md)
 
 ---
 
@@ -254,7 +254,7 @@ domains:
 
 > **本研究的关键洞察**：佛教"现量离分别"与西方当代"非概念性内容"之争（埃文斯、麦兜、冈瑟）是同一个争论的两种语言。法称早在 7 世纪就给出了一个清晰的论证：如果概念是普遍的（共相），而直接感知的对象是个别的（自相），那么直接感知**在逻辑上**必须是非概念的。这一论证至今仍被当代认知科学家重新发现。
 
-**相关条目**：[量论 · Pramāṇa](../../religion/buddhism/concepts/cognitive-theory/pramana.md) · [陈那](../../religion/buddhism/masters/dignaga.md) · [法称](../../religion/buddhism/masters/dharmakirti.md) · [康德（直观与现量对照）](../../philosophy/schools/german-idealism/kant.md)
+**相关条目**：[量论 · Pramāṇa](../../宗教/佛教/概念/cognitive-theory/量论.md) · [陈那](../../宗教/佛教/大师/陈那.md) · [法称](../../宗教/佛教/大师/法称.md) · [康德（直观与现量对照）](../../哲学/学派/德国唯心论/康德.md)
 
 ---
 
@@ -308,7 +308,7 @@ domains:
 
 > **本研究的判断**：吉布森是 20 世纪唯一一位在**实验心理学**层面系统论证"直接性"的思想家。他的"可供性"概念（环境直接提供行动可能性）是直接实在论在行动哲学中的最强形式——不仅对象被直接感知，连"能做什么"都被直接感知。
 
-**相关条目**：[吉布森 · 可供性](../../cognitive-systems/schools/ecological/gibson.md) · [可供性](../../cognitive-systems/concepts/affordance.md)
+**相关条目**：[吉布森 · 可供性](../../认知系统/学派/生态认知/吉布森.md) · [可供性](../../认知系统/概念/可供性.md)
 
 ---
 
@@ -327,7 +327,7 @@ domains:
 - 心智延展至身体与环境工具（如笔记、计算器）之中，"认知"不再封闭于颅骨之内。
 - 注：克拉克同时是**预测加工**的主要推动者，这一立场（内部生成模型预测感觉输入）表面上是表征主义的回归，引发了 4E 内部的张力。
 
-**相关条目**：[瓦雷拉 · 生成认知](../../cognitive-systems/schools/ecological/varela.md) · [生成认知](../../cognitive-systems/concepts/enaction.md) · [克拉克 · 延展认知](../../cognitive-systems/schools/ecological/clark.md) · [预测加工](../../cognitive-systems/concepts/predictive-processing.md)
+**相关条目**：[瓦雷拉 · 生成认知](../../认知系统/学派/生态认知/瓦雷拉.md) · [生成认知](../../认知系统/概念/生成认知.md) · [克拉克 · 延展认知](../../认知系统/学派/生态认知/克拉克.md) · [预测加工](../../认知系统/概念/预测加工.md)
 
 ---
 
@@ -497,20 +497,20 @@ domains:
 
 ### 相关条目（可操作框架与概念）
 
-- [量论 · 现量/比量](../../religion/buddhism/concepts/cognitive-theory/pramana.md) — 佛教直接感知理论
-- [量论三量验证 Skill](../../religion/buddhism/skills/pramana-validation/SKILL.md) — 现量/比量/圣教量判别
-- [八识体系](../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) — 前五识＝现量
-- [胡塞尔 · 现象学](../../philosophy/schools/phenomenology/husserl.md)
-- [梅洛-庞蒂 · 身体现象学](../../philosophy/schools/phenomenology/merleau-ponty.md)
-- [扎哈维 · 前反思自身意识](../../philosophy/schools/phenomenology/zahavi.md)
-- [吉布森 · 可供性](../../cognitive-systems/schools/ecological/gibson.md)
-- [可供性](../../cognitive-systems/concepts/affordance.md)
-- [生成认知](../../cognitive-systems/concepts/enaction.md)
-- [预测加工](../../cognitive-systems/concepts/predictive-processing.md)
-- [罗素 · 亲知](../../philosophy/schools/analytic/russell.md)
-- [威廉·詹姆斯 · 彻底经验论](../../psychology/schools/functionalism/william-james.md)
-- [康德 · 直观与概念](../../philosophy/schools/german-idealism/kant.md)
-- [亚里士多德](../../philosophy/schools/ancient-greek/aristotle.md)
+- [量论 · 现量/比量](../../宗教/佛教/概念/cognitive-theory/量论.md) — 佛教直接感知理论
+- [量论三量验证 Skill](../../宗教/佛教/技能/以佛教量论/SKILL.md) — 现量/比量/圣教量判别
+- [八识体系](../../宗教/佛教/概念/cognitive-theory/八识体系.md) — 前五识＝现量
+- [胡塞尔 · 现象学](../../哲学/学派/现象学/胡塞尔.md)
+- [梅洛-庞蒂 · 身体现象学](../../哲学/学派/现象学/梅洛庞蒂.md)
+- [扎哈维 · 前反思自身意识](../../哲学/学派/现象学/扎哈维.md)
+- [吉布森 · 可供性](../../认知系统/学派/生态认知/吉布森.md)
+- [可供性](../../认知系统/概念/可供性.md)
+- [生成认知](../../认知系统/概念/生成认知.md)
+- [预测加工](../../认知系统/概念/预测加工.md)
+- [罗素 · 亲知](../../哲学/学派/分析哲学/伯特兰.md)
+- [威廉·詹姆斯 · 彻底经验论](../../心理学/学派/功能主义/威廉-william-james.md)
+- [康德 · 直观与概念](../../哲学/学派/德国唯心论/康德.md)
+- [亚里士多德](../../哲学/学派/古希腊/亚里士多德.md)
 
 ---
 

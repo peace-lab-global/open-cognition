@@ -2,7 +2,7 @@
 id: buddhist-sutras-collection
 title: 佛教经典图谱集 · 全然理解
 type: collection
-domain: religion
+domain: 宗教
 school: buddhism
 tags:
   - 佛教经典

@@ -2,7 +2,7 @@
 id: aristotle
 title: "亚里士多德 · Aristotle"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: virtue-ethics
 era: ancient
 birth: -384
@@ -53,7 +53,7 @@ sub-entries:
 
 亚里士多德（前384–前322），古希腊哲学家，生于色雷斯斯塔吉拉（Stagira），卒于埃维亚岛哈尔基斯（Chalcis）。其父尼科马库斯（Nicomachus）为马其顿国王阿明塔斯三世的御医，这使亚里士多德自幼接触自然哲学与医学的经验方法。约前367年，十七岁的亚里士多德赴雅典进入柏拉图学园（Academia），师从柏拉图近二十年，从学生成长为学园中最杰出的教师之一。柏拉图去世后（前347），亚里士多德因不满学园新任领导者斯彪西波的数学化倾向而离开学园。此后十二年间，他先后游历阿索斯（Assos）、莱斯博斯岛（Lesbos），与塞奥弗拉斯托斯（Theophrastus）合作进行开创性的生物学研究，并受马其顿国王腓力二世之聘担任亚历山大大帝的导师。前335年返回雅典，创立吕克昂学园（Lyceum），开创逍遥学派（Peripatetic School），在此完成其核心著作的讲义定稿。前323年亚历山大去世后，反马其顿情绪高涨，亚里士多德被指控"不敬神"，他留下名言"不让雅典人第二次对哲学犯罪"，逃离雅典，次年病逝于哈尔基斯。
 
-Aristotle (384–322 BCE), ancient Greek philosopher, was born in Stagira, Thrace, and died in Chalcis, Euboea. His father Nicomachus served as court physician to King Amyntas III of Macedon, exposing young Aristotle to natural philosophy and empirical medical methods. Around 367 BCE, at age seventeen, he entered Plato's Academy in Athens, where he studied and became one of its most distinguished teachers over nearly two decades. After Plato's death (347 BCE), dissatisfied with the new leader Speusippus's mathematical orientation, Aristotle departed. Over the next twelve years he traveled through Assos and Lesbos, conducting pioneering biological research with Theophrastus, and was appointed tutor to Alexander the Great by Philip II of Macedon. He returned to Athens in 335 BCE to found the Lyceum and establish the Peripatetic School, where he produced the lecture notes that constitute his surviving works. After Alexander's death in 323 BCE, rising anti-Macedonian sentiment led to charges of "impiety." Aristotle reportedly declared he would "not let Athens sin twice against philosophy" and fled to Chalcis, where he died the following year.
+Aristotle (384–322 BCE), ancient Greek philosopher, was born in Stagira, Thrace, and died in Chalcis, Euboea. His father Nicomachus served as court physician to King Amyntas III of Macedon, exposing young Aristotle to natural 哲学 and empirical medical methods. Around 367 BCE, at age seventeen, he entered Plato's Academy in Athens, where he studied and became one of its most distinguished teachers over nearly two decades. After Plato's death (347 BCE), dissatisfied with the new leader Speusippus's mathematical orientation, Aristotle departed. Over the next twelve years he traveled through Assos and Lesbos, conducting pioneering biological 研究 with Theophrastus, and was appointed tutor to Alexander the Great by Philip II of Macedon. He returned to Athens in 335 BCE to found the Lyceum and establish the Peripatetic School, where he produced the lecture notes that constitute his surviving works. After Alexander's death in 323 BCE, rising anti-Macedonian sentiment led to charges of "impiety." Aristotle reportedly declared he would "not let Athens sin twice against philosophy" and fled to Chalcis, where he died the following year.
 
 亚里士多德的学术遗产涵盖逻辑学、形而上学、伦理学、政治学、自然哲学、生物学、诗学和修辞学，是西方思想史上最具系统性和影响力的哲学家之一。在伦理学领域，他是美德伦理学（virtue ethics）的奠基者——主张伦理学的核心问题不是"我应该做什么"（义务论）或"什么结果最好"（功利主义），而是"**我应该成为什么样的人**"——答案是：具有实践智慧的、在极端之间取中道的、品格完善之人。
 
@@ -109,13 +109,13 @@ Aristotle spent approximately twenty years in Plato's Academy, deeply influenced
 
 柏拉图去世后，学园领导权传给斯彪西波，其数学化的柏拉图主义与亚里士多德的经验主义倾向产生冲突。亚里士多德离开雅典，先前往小亚细亚的阿索斯，与赫尔米亚斯（Hermias）合作建立小型哲学团体，并娶其养女皮提亚斯（Pythias）为妻。随后转赴莱斯博斯岛，与塞奥弗拉斯托斯合作进行开创性的生物学研究——对海洋生物进行系统观察和分类。这一时期的经验研究深刻塑造了他的哲学方法论：他比柏拉图更重视观察、分类和归纳，这直接影响了他的四因说和灵魂论。约前343年，亚里士多德受腓力二世之聘，担任十三岁的亚历山大的导师，为期约三年。据传他编写了《论王权》等小册子供亚历山大阅读，并为远征收集各地方志资料。这段经历加深了他对不同政体和文化的理解。中期也是《欧德谟伦理学》的成形期——这部著作可视为其伦理思想的较早系统表达，其中许多主题后来在《尼各马可伦理学》中得到更成熟的发展。
 
-After Plato's death, Speusippus's mathematical Platonism conflicted with Aristotle's empirical tendencies. He left Athens for Assos, collaborating with Hermias and marrying his adopted daughter Pythias. He then moved to Lesbos for pioneering biological research with Theophrastus — systematically observing and classifying marine life. This empirical work profoundly shaped his philosophical method: more attentive to observation, classification, and induction than Plato, directly influencing his four-causes theory and psychology. Around 343 BCE, Philip II appointed him tutor to the thirteen-year-old Alexander. He reportedly composed treatises like *On Kingship* for Alexander and collected local histories. This experience deepened his understanding of different constitutions and cultures. The middle period also saw the formation of the *Eudemian Ethics* — an earlier systematic expression of his ethical thought whose themes were later more maturely developed in the *Nicomachean Ethics*.
+After Plato's death, Speusippus's mathematical Platonism conflicted with Aristotle's empirical tendencies. He left Athens for Assos, collaborating with Hermias and marrying his adopted daughter Pythias. He then moved to Lesbos for pioneering biological 研究 with Theophrastus — systematically observing and classifying marine life. This empirical work profoundly shaped his philosophical method: more attentive to observation, classification, and induction than Plato, directly influencing his four-causes theory and 心理学. Around 343 BCE, Philip II appointed him tutor to the thirteen-year-old Alexander. He reportedly composed treatises like *On Kingship* for Alexander and collected local histories. This experience deepened his understanding of different constitutions and cultures. The middle period also saw the formation of the *Eudemian Ethics* — an earlier systematic expression of his ethical thought whose themes were later more maturely developed in the *Nicomachean Ethics*.
 
 ### 晚期：吕克昂学园时期（前335–前322） / Late Period: The Lyceum (335–322 BCE)
 
 前335年，亚里士多德返回雅典，在阿波罗·吕克奥斯神庙附近创立吕克昂学园。因其师生常在廊柱下边走边谈（peripatein），故称"逍遥学派"（Peripatetics）。吕克昂学园拥有图书馆、自然科学收藏和系统性研究项目——在古代世界堪称第一个真正的研究机构。亚里士多德在此完成了核心著作的讲义定稿，包括《尼各马可伦理学》《政治学》《形而上学》《物理学》《灵魂论》《诗学》和《修辞学》。这些著作不是面向公众的精心著作，而是教学研究的内部文件——文风简练、结构紧密但缺乏文学修饰。在吕克昂时期，亚里士多德的思想达到完全成熟：他既系统批判了柏拉图的理念论，又建立了自己的完整哲学体系。他提出"实体"（ousia）概念取代了理念论，以"潜能与实现"（dynamis/energeia）的动态框架解释了变化和运动，以功能论证（ergon argument）为伦理学奠定了形而上学基础。前323年亚历山大去世后，亚里士多德被指控"不敬神"（如同苏格拉底），逃离雅典前往哈尔基斯，次年病逝。其遗嘱显示他对家人、朋友和奴隶（他要求释放部分奴隶）的关怀，体现了其伦理学的人格化实践。
 
-In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple of Apollo Lyceus. Because teacher and students conversed while walking under colonnades (peripatein), they became known as the "Peripatetics." The Lyceum housed a library, natural science collections, and systematic research programs — arguably the ancient world's first true research institution. Here Aristotle completed lecture notes for his major works: *Nicomachean Ethics*, *Politics*, *Metaphysics*, *Physics*, *De Anima*, *Poetics*, and *Rhetoric*. These were internal teaching documents — concise and tightly structured but unliterary. At the Lyceum, Aristotle achieved full intellectual maturity: systematically critiquing Platonic Forms while constructing his comprehensive philosophical system. He proposed "substance" (ousia) to replace the Theory of Forms, used the dynamic framework of "potentiality and actuality" (dynamis/energeia) to explain change, and grounded ethics metaphysically via the ergon argument. After Alexander's death in 323 BCE, he was charged with impiety and fled to Chalcis, dying the next year. His will reveals concern for family, friends, and slaves (he requested some be freed), embodying the personal practice of his ethics.
+In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple of Apollo Lyceus. Because teacher and students conversed while walking under colonnades (peripatein), they became known as the "Peripatetics." The Lyceum housed a library, natural science collections, and systematic 研究 programs — arguably the ancient world's first true 研究 institution. Here Aristotle completed lecture notes for his major works: *Nicomachean Ethics*, *Politics*, *Metaphysics*, *Physics*, *De Anima*, *Poetics*, and *Rhetoric*. These were internal teaching documents — concise and tightly structured but unliterary. At the Lyceum, Aristotle achieved full intellectual maturity: systematically critiquing Platonic Forms while constructing his comprehensive philosophical system. He proposed "substance" (ousia) to replace the Theory of Forms, used the dynamic framework of "potentiality and actuality" (dynamis/energeia) to explain change, and grounded ethics metaphysically via the ergon argument. After Alexander's death in 323 BCE, he was charged with impiety and fled to Chalcis, dying the next year. His will reveals concern for family, friends, and slaves (he requested some be freed), embodying the personal practice of his ethics.
 
 ## 关键著作 / Key Works
 
@@ -141,7 +141,7 @@ In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple 
 
 4. **美德品格 (Virtue-Character / Arete & Hexis)** — 美德作为通过习惯化获得的稳定品格状态，是感受与行动的卓越品质。[详见](concepts/virtue-character.md) / Virtue as stable character state acquired through habituation, excellence of feeling and action. [See](concepts/virtue-character.md)
 
-5. **目的 (Telos)** — 万物趋向实现其内在目的；人类目的即 eudaimonia，目的论贯穿伦理学和自然哲学。[详见](concepts/telos.md) / All things tend toward inherent purpose; human telos is eudaimonia; teleology pervades ethics and natural philosophy. [See](concepts/telos.md)
+5. **目的 (Telos)** — 万物趋向实现其内在目的；人类目的即 eudaimonia，目的论贯穿伦理学和自然哲学。[详见](concepts/telos.md) / All things tend toward inherent purpose; human telos is eudaimonia; teleology pervades ethics and natural 哲学. [See](concepts/telos.md)
 
 6. **城邦 (Polis)** — "人天生是政治的动物"，个体只有在政治共同体中才能充分实现其人性。/ Humans are by nature political animals; individuals fully realize humanity only within political community.
 
@@ -159,7 +159,7 @@ In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple 
 
 - **批判 / Critiques**: 柏拉图的理念论（"吾爱吾师，吾更爱真理"）；智者派的道德相对主义；德谟克利特的机械唯物主义；苏格拉底"无人自愿作恶"的理智主义 / Plato's Theory of Forms ("I love Plato, but I love truth more"); Sophist moral relativism; Democritean mechanical materialism; Socratic intellectualism ("no one errs willingly")
 
-- **影响 / Influences**: 阿奎那的基督教亚里士多德主义综合；中世纪伊斯兰哲学（阿维森纳、阿威罗伊）；启蒙时代后的美德伦理学衰落；20世纪麦金太尔、安斯科姆、赫斯特豪斯、纳斯鲍姆、森的复兴 / Aquinas's Christian Aristotelian synthesis; medieval Islamic philosophy (Avicenna, Averroes); post-Enlightenment decline of virtue ethics; 20th-century revival by MacIntyre, Anscombe, Hursthouse, Nussbaum, Sen
+- **影响 / Influences**: 阿奎那的基督教亚里士多德主义综合；中世纪伊斯兰哲学（阿维森纳、阿威罗伊）；启蒙时代后的美德伦理学衰落；20世纪麦金太尔、安斯科姆、赫斯特豪斯、纳斯鲍姆、森的复兴 / Aquinas's Christian Aristotelian synthesis; medieval Islamic 哲学 (Avicenna, Averroes); post-Enlightenment decline of virtue ethics; 20th-century revival by MacIntyre, Anscombe, Hursthouse, Nussbaum, Sen
 
 ## 当代应用 / Contemporary Applications
 
@@ -212,7 +212,7 @@ Aristotle's virtue ethics shares profound resonances and interesting divergences
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **心理学 (Psychology)**: 积极心理学的"蓬勃人生"（flourishing）概念直接源于 eudaimonia；塞利格曼的 PERMA 模型可视为 eudaimonia 的当代心理学重构。/ Positive Psychology's "flourishing" concept derives directly from eudaimonia; Seligman's PERMA model reconstructs eudaimonia for contemporary psychology.
+- **心理学 (Psychology)**: 积极心理学的"蓬勃人生"（flourishing）概念直接源于 eudaimonia；塞利格曼的 PERMA 模型可视为 eudaimonia 的当代心理学重构。/ Positive Psychology's "flourishing" concept derives directly from eudaimonia; Seligman's PERMA model reconstructs eudaimonia for contemporary 心理学.
 
 - **政治哲学 (Political Philosophy)**: 城邦理论影响了共和主义传统、社群主义争论以及当代审议民主理论。/ The polis theory influenced republicanism, communitarian debates, and deliberative democracy theory.
 
@@ -220,7 +220,7 @@ Aristotle's virtue ethics shares profound resonances and interesting divergences
 
 - **法学 (Law)**: 衡平法（epieikeia）概念——法律无法预见所有情况，需要裁判者的实践智慧——成为现代法律解释学和司法裁量权理论的重要思想来源。/ The concept of equity (epieikeia) — law cannot foresee all circumstances, requiring the judge's practical wisdom — became an important source for modern legal hermeneutics and judicial discretion.
 
-- **教育学 (Education)**: 教育不仅是知识传授更是品格塑造——深刻影响了博雅教育传统和当代全人教育运动。/ Education as character formation, not merely knowledge transmission — deeply influenced liberal arts education and holistic education movements.
+- **教育学 (Education)**: 教育不仅是知识传授更是品格塑造——深刻影响了博雅教育传统和当代全人教育运动。/ Education as character formation, not merely knowledge transmission — deeply influenced liberal 艺术 education and holistic education movements.
 
 ## 进阶阅读 / Further Reading
 

@@ -1,11 +1,11 @@
 ---
 name: suffering-redemption-analysis
 description: Triggers on requests to 苦难救赎、痛苦意义、灵魂转变，如人生困境、心理创伤、精神成长等。Apply this skill to analyze the redemptive power of suffering using Dostoevsky's insights, understanding how suffering can lead to spiritual transformation.
-domain: literature
+domain: 文学
 linked_thinker: ../../schools/novelists/dostoevsky.md
 linked_concepts:
-  - ../../literature/concepts/suffering-redemption.md
-  - ../../literature/concepts/human-depth.md
+  - ../../文学/概念/suffering-redemption.md
+  - ../../文学/概念/human-depth.md
 tags:
   - 苦难救赎
   - 痛苦意义
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[费奥多尔·陀思妥耶夫斯基](../../schools/novelists/dostoevsky.md)
 - 概念：[苦难救赎](../../concepts/suffering-redemption.md)、[人性深度](../../concepts/human-depth.md)
-- 相关 Skill：[logotherapy](../../psychology/skills/logotherapy/SKILL.md)、[existentialism-analysis](../../philosophy/skills/existentialism-analysis/SKILL.md)
+- 相关 Skill：[logotherapy](../../心理学/技能/意义疗法/SKILL.md)、[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)

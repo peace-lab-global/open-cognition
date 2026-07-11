@@ -2,7 +2,7 @@
 id: bowlby-john
 title: "约翰·鲍尔比 · John Bowlby"
 type: thinker
-domain: psychology
+domain: 心理学
 school: developmental
 era: modern
 birth: 1907
@@ -124,13 +124,13 @@ He studied medicine and natural sciences at Trinity College, Cambridge, then tra
 
 1951年，鲍尔比受世界卫生组织（WHO）委托撰写了关于无家可归儿童心理健康的报告《母性照顾与心理健康》（*Maternal Care and Mental Health*），提出了"母性剥夺"（maternal deprivation）假说——认为婴幼儿期与母亲（或母亲替代者）的分离会对心理发展造成严重损害。这份报告引发了广泛的社会政策讨论，也招致了来自精神分析界和学术心理学界的批评。
 
-In 1951, Bowlby was commissioned by the World Health Organization to write a report on the mental health of homeless children, producing *Maternal Care and Mental Health*, which advanced the "maternal deprivation" hypothesis — arguing that separation from the mother (or mother-substitute) during infancy could inflict serious damage on psychological development. This report provoked wide social policy discussion and drew criticism from both psychoanalytic and academic psychology circles.
+In 1951, Bowlby was commissioned by the World Health Organization to write a report on the mental health of homeless children, producing *Maternal Care and Mental Health*, which advanced the "maternal deprivation" hypothesis — arguing that separation from the mother (or mother-substitute) during infancy could inflict serious damage on psychological development. This report provoked wide social policy discussion and drew criticism from both psychoanalytic and academic 心理学 circles.
 
 面对批评，鲍尔比转向多学科整合，从以下领域汲取理论资源来重新构建依恋理论：
 
 In response to criticism, Bowlby turned to multidisciplinary integration, drawing theoretical resources from the following fields to reconstruct attachment theory:
 
-- **行为学/动物行为学（Ethology）**：洛伦茨的印记（imprinting）研究和廷伯根（Tinbergen）的本能行为理论，使鲍尔比将依恋理解为一种先天的、适应性的行为系统 / Lorenz's imprinting research and Tinbergen's instinct theory led Bowlby to reconceptualize attachment as an innate, adaptive behavioural system
+- **行为学/动物行为学（Ethology）**：洛伦茨的印记（imprinting）研究和廷伯根（Tinbergen）的本能行为理论，使鲍尔比将依恋理解为一种先天的、适应性的行为系统 / Lorenz's imprinting 研究 and Tinbergen's instinct theory led Bowlby to reconceptualize attachment as an innate, adaptive behavioural system
 - **控制论（Cybernetics）**：反馈环路概念帮助他解释依恋行为的动态调节机制 / The concept of feedback loops helped explain the dynamic regulation of attachment behaviour
 - **认知心理学（Cognitive Psychology）**：内部表征和信息加工模型为"内部工作模型"概念提供了框架 / Internal representation and information-processing models provided the framework for the "internal working models" concept
 - **精神分析（Psychoanalysis）**：保留了客体关系理论对早期关系的重视，但扬弃了驱力理论 / Retained object relations' emphasis on early relationships while discarding drive theory
@@ -199,7 +199,7 @@ Lorenz·Tinbergen          Information Processing
 
 - **继承 / Inheritance**：弗洛伊德对早期经验重要性的洞察；克莱因对内在客体世界的关注；温尼科特（Winnicott）"足够好的母亲"（good-enough mother）概念 / Freud's insight into the importance of early experience; Klein's focus on internal object worlds; Winnicott's "good-enough mother" concept
 - **批判 / Critique**：拒绝弗洛伊德的力比多驱力理论作为依恋的解释基础；拒绝克莱因将内部幻想置于真实关系经验之上；批评传统精神分析对"真实环境因素"的忽视 / Rejected Freud's libido drive theory as the explanatory basis for attachment; rejected Klein's privileging of internal phantasy over real relational experience; criticized traditional psychoanalysis for neglecting "real environmental factors"
-- **创新 / Innovation**：创建了第一个将精神分析的情感深度与进化生物学的科学严谨性相结合的发展心理学理论框架 / Created the first developmental psychology framework combining psychoanalytic emotional depth with evolutionary biological rigour
+- **创新 / Innovation**：创建了第一个将精神分析的情感深度与进化生物学的科学严谨性相结合的发展心理学理论框架 / Created the first developmental 心理学 framework combining psychoanalytic emotional depth with evolutionary biological rigour
 - **后继者 / Successors**：玛丽·安斯沃思（实证验证）、玛丽·梅因（成人依恋访谈AAI）、彼得·福纳吉（心智化理论）、苏·约翰逊（情绪聚焦治疗）/ Mary Ainsworth (empirical validation), Mary Main (Adult Attachment Interview), Peter Fonagy (mentalization theory), Sue Johnson (Emotionally Focused Therapy)
 
 ---
@@ -208,15 +208,15 @@ Lorenz·Tinbergen          Information Processing
 
 1. **心理治疗 / Psychotherapy**：依恋理论已成为多种循证治疗模型的理论基石——情绪聚焦治疗（EFT，Sue Johnson）、心智化治疗（MBT，Peter Fonagy）、慈悲聚焦治疗（CFT，Paul Gilbert）、图式治疗（Schema Therapy，Jeffrey Young）。治疗关系本身被视为一种"矫正性依恋体验"。 / Attachment theory has become the theoretical foundation for multiple evidence-based treatment models — EFT, MBT, CFT, Schema Therapy. The therapeutic relationship itself is understood as a "corrective attachment experience."
 
-2. **儿童发展与评估 / Child Development and Assessment**：陌生情境实验（Strange Situation）、成人依恋访谈（AAI）、依恋Q分类（Attachment Q-Sort）等工具广泛应用于研究和临床评估。 / The Strange Situation, Adult Attachment Interview (AAI), and Attachment Q-Sort are widely used in research and clinical assessment.
+2. **儿童发展与评估 / Child Development and Assessment**：陌生情境实验（Strange Situation）、成人依恋访谈（AAI）、依恋Q分类（Attachment Q-Sort）等工具广泛应用于研究和临床评估。 / The Strange Situation, Adult Attachment Interview (AAI), and Attachment Q-Sort are widely used in 研究 and clinical assessment.
 
 3. **教育心理学 / Educational Psychology**：安全依恋与学业成就、社交能力、情绪调节的正相关已被大量元分析研究证实。"安全基地"理念影响了学校心理咨询和师生关系建设实践。 / The positive correlation between secure attachment and academic achievement, social competence, and emotional regulation has been confirmed by numerous meta-analyses. The "secure base" concept has influenced school counselling and teacher-student relationship practices.
 
-4. **社会政策 / Social Policy**：鲍尔比关于住院儿童分离反应的研究直接推动了英国NHS医院允许父母陪护住院儿童的政策改革。他的工作也影响了寄养制度、收养程序和儿童福利立法。 / Bowlby's research on separation responses in hospitalized children directly drove NHS policy reform allowing parents to stay with hospitalized children. His work also influenced foster care systems, adoption procedures, and child welfare legislation.
+4. **社会政策 / Social Policy**：鲍尔比关于住院儿童分离反应的研究直接推动了英国NHS医院允许父母陪护住院儿童的政策改革。他的工作也影响了寄养制度、收养程序和儿童福利立法。 / Bowlby's 研究 on separation responses in hospitalized children directly drove NHS policy reform allowing parents to stay with hospitalized children. His work also influenced foster care systems, adoption procedures, and child welfare legislation.
 
 5. **神经科学 / Neuroscience**：依恋理论获得了日益丰富的神经科学实证支持——催产素（oxytocin）系统在依恋纽带形成中的作用、杏仁核（amygdala）在威胁检测与依恋激活中的角色、前额叶皮层（prefrontal cortex）在情绪调节与安全基地功能中的参与。Stephen Porges的多迷走神经理论（Polyvagal Theory）进一步扩展了依恋的神经生理学解释。 / Attachment theory has received increasingly rich neuroscientific support — the role of the oxytocin system in bond formation, the amygdala in threat detection and attachment activation, and the prefrontal cortex in emotion regulation and secure base function. Stephen Porges' Polyvagal Theory further extends the neurophysiological account of attachment.
 
-6. **组织心理学 / Organizational Psychology**：依恋理论被应用于领导力研究和团队动力学——领导者的"安全基地"功能、组织中的"依恋风格"与员工敬业度的关系。 / Attachment theory has been applied to leadership research and team dynamics — the leader's "secure base" function, the relationship between organizational "attachment styles" and employee engagement.
+6. **组织心理学 / Organizational Psychology**：依恋理论被应用于领导力研究和团队动力学——领导者的"安全基地"功能、组织中的"依恋风格"与员工敬业度的关系。 / Attachment theory has been applied to leadership 研究 and team dynamics — the leader's "secure base" function, the relationship between organizational "attachment styles" and employee engagement.
 
 7. **数字时代依恋 / Attachment in the Digital Age**：当代研究者探索数字设备（智能手机、社交媒体）是否成为新的"依恋对象"，以及虚拟连接对安全基地功能的影响。 / Contemporary researchers explore whether digital devices (smartphones, social media) have become new "attachment objects" and the impact of virtual connection on secure base functions.
 
@@ -236,7 +236,7 @@ Lorenz·Tinbergen          Information Processing
 
 **误读三 / Misreading 3**：
 ❌ "依恋理论只适用于婴儿与母亲之间的关系。" / "Attachment theory applies only to the infant-mother relationship."
-✅ 鲍尔比本人明确指出依恋行为贯穿整个生命周期。玛丽·梅因的成人依恋访谈（AAI）和辛迪·哈赞（Cindy Hazan）与菲利普·谢弗（Phillip Shaver）的成人浪漫依恋研究已将依恋理论扩展到友谊、浪漫关系、治疗关系乃至人与宠物、人与地方的联结。 / Bowlby himself explicitly stated that attachment behaviour persists throughout the lifespan. Mary Main's Adult Attachment Interview (AAI) and Cindy Hazan & Phillip Shaver's adult romantic attachment research have extended attachment theory to friendships, romantic relationships, therapeutic relationships, and even human-pet and human-place bonds.
+✅ 鲍尔比本人明确指出依恋行为贯穿整个生命周期。玛丽·梅因的成人依恋访谈（AAI）和辛迪·哈赞（Cindy Hazan）与菲利普·谢弗（Phillip Shaver）的成人浪漫依恋研究已将依恋理论扩展到友谊、浪漫关系、治疗关系乃至人与宠物、人与地方的联结。 / Bowlby himself explicitly stated that attachment behaviour persists throughout the lifespan. Mary Main's Adult Attachment Interview (AAI) and Cindy Hazan & Phillip Shaver's adult romantic attachment 研究 have extended attachment theory to friendships, romantic relationships, therapeutic relationships, and even human-pet and human-place bonds.
 
 **误读四 / Misreading 4**：
 ❌ "鲍尔比是生物决定论者，认为一切都是基因决定的。" / "Bowlby was a biological determinist who believed everything is genetically determined."
@@ -283,8 +283,8 @@ This dialogue suggests a potential synthesis: psychological health may require b
 - **神经科学 / Neuroscience**：催产素、杏仁核、前额叶皮层、镜像神经元系统在依恋行为中的作用；Porges的多迷走神经理论 / Oxytocin, amygdala, prefrontal cortex, mirror neuron systems in attachment behaviour; Porges' Polyvagal Theory
 - **精神分析 / Psychoanalysis**：与温尼科特"足够好的母亲"、科胡特"镜映"（mirroring）、比昂"容纳"（containment）的理论对话 / Theoretical dialogue with Winnicott's "good-enough mother," Kohut's "mirroring," Bion's "containment"
 - **发展心理学 / Developmental Psychology**：与皮亚杰认知发展理论、埃里克森心理社会发展理论的交叉 / Intersection with Piaget's cognitive development theory and Erikson's psychosocial development theory
-- **进化心理学 / Evolutionary Psychology**：依恋理论作为进化心理学的先驱——将人类情感理解为适应性机制 / Attachment theory as precursor to evolutionary psychology — understanding human emotions as adaptive mechanisms
-- **社会学 / Sociology**：依恋理论对社区凝聚力、社会资本研究的启示——安全依恋的个体更可能建立信任关系和参与社区活动 / Attachment theory's implications for community cohesion and social capital research — securely attached individuals are more likely to build trust relationships and participate in community activities
+- **进化心理学 / Evolutionary Psychology**：依恋理论作为进化心理学的先驱——将人类情感理解为适应性机制 / Attachment theory as precursor to evolutionary 心理学 — understanding human emotions as adaptive mechanisms
+- **社会学 / Sociology**：依恋理论对社区凝聚力、社会资本研究的启示——安全依恋的个体更可能建立信任关系和参与社区活动 / Attachment theory's implications for community cohesion and social capital 研究 — securely attached individuals are more likely to build trust relationships and participate in community activities
 - **教育学 / Education**：依恋理论对师生关系、课堂管理、学校心理健康服务的指导意义 / Attachment theory's guidance for teacher-student relationships, classroom management, and school mental health services
 - **存在主义心理学 / Existential Psychology**：依恋丧失与存在焦虑的关联——鲍尔比的丧失理论与罗洛·梅（Rollo May）、欧文·亚隆（Irvin Yalom）的存在焦虑概念的对话 / Connection between attachment loss and existential anxiety — Bowlby's loss theory in dialogue with Rollo May's and Irvin Yalom's existential anxiety concepts
 

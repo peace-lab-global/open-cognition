@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.master.shandao.concepts.pure-land-practice
+id: 宗教.buddhism.master.shandao.concepts.pure-land-practice
 title: 净土修行 Jìngtǔ Xiūxíng — Pure Land Buddhist Practice
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
-parent: religion.buddhism.master.shandao.readme
+parent: 宗教.buddhism.master.shandao.readme
 tags: [净土修行, Pure Land Practice, 往生, Rebirth, 极乐世界, Sukhāvatī]
 ---
 

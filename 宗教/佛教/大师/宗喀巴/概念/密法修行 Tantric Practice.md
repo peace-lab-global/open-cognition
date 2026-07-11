@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa.concepts.tantric-practice
+id: 宗教.buddhism.master.tsongkhapa.concepts.tantric-practice
 title: 密法修行 Tantric Practice
 type: concept
-parent: religion.buddhism.master.tsongkhapa
+parent: 宗教.buddhism.master.tsongkhapa
 tags: [密法, tantra, 四部密续, 生起次第, 圆满次第, 宗喀巴]
 ---
 

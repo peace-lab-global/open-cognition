@@ -2,7 +2,7 @@
 id: borges
 title: 博尔赫斯 · Jorge Luis Borges
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: contemporary
 birth: 1899
@@ -36,7 +36,7 @@ cross-refs:
     relation: 平行
   - id: derrida
     relation: 平行
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行
 children:
   - concepts/infinity.md
@@ -48,8 +48,8 @@ children:
   - timeline.md
   - reading-list.md
 related-comparative:
-  - ../../../philosophy/schools/comparative/borges-vs-yogacara.md
-  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+  - ../../../哲学/学派/比较哲学/博尔赫斯唯识.md
+  - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
 
 # 博尔赫斯 · Jorge Luis Borges
@@ -174,15 +174,15 @@ related-comparative:
 ## 跨学科关联
 
 ### 哲学
-- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言的界限与博尔赫斯对语言的迷宫式探索
-- [莱布尼茨](../../../philosophy/schools/rationalism/leibniz.md) `[平行]` 可能世界理论与分岔时间
-- [康德](../../../philosophy/schools/german-idealism/kant.md) `[平行]` 现象与物自体的裂隙,现实可能是心智建构的隐喻
-- [德里达](../../../philosophy/schools/post-structuralism/derrida.md) `[平行]` 文本的无限延异与博尔赫斯的无穷图书馆
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 永恒轮回与《环形废墟》的循环时间
+- [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) `[平行]` 语言的界限与博尔赫斯对语言的迷宫式探索
+- [莱布尼茨](../../../哲学/学派/理性论/戈特弗里德.md) `[平行]` 可能世界理论与分岔时间
+- [康德](../../../哲学/学派/德国唯心论/康德.md) `[平行]` 现象与物自体的裂隙,现实可能是心智建构的隐喻
+- [德里达](../../../哲学/学派/后结构主义/雅克.md) `[平行]` 文本的无限延异与博尔赫斯的无穷图书馆
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[平行]` 永恒轮回与《环形废墟》的循环时间
 
 ### 东方思想
-- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[同源]` 梦与觉、真实与虚构的本体困惑,《特隆》与庄周梦遥相呼应
-- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 博尔赫斯是"文学的唯识"——《特隆》≈ 遍计所执、阿莱夫 ≈ 大圆镜智、巴别图书馆 ≈ 阿赖耶识
+- [庄子](../../../哲学/学派/东方哲学/庄子.md) `[同源]` 梦与觉、真实与虚构的本体困惑,《特隆》与庄周梦遥相呼应
+- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 博尔赫斯是"文学的唯识"——《特隆》≈ 遍计所执、阿莱夫 ≈ 大圆镜智、巴别图书馆 ≈ 阿赖耶识
 
 ### 文学
 - [卡夫卡](../literary-thought/kafka.md) `[平行]` 迷宫、悖论、官僚体系的噩梦感
@@ -199,14 +199,14 @@ related-comparative:
 - **分岔的时间 ≈ 刹那生灭** — 都否定线性时间;但前者是扇形扩张(可能性),后者是单向相续(因果)。
 - **扎伊尔 ≈ 烦恼心所** — 意识的单点化陷阱;博尔赫斯当作命运的隐喻,唯识当作需要对治的心理机制。
 
-> 完整对照见 [博尔赫斯 × 唯识](../../../philosophy/schools/comparative/borges-vs-yogacara.md)
+> 完整对照见 [博尔赫斯 × 唯识](../../../哲学/学派/比较哲学/博尔赫斯唯识.md)
 
 ## 语录考证
 
 ### "爱上一个人,就是创造一种信仰,侍奉一个随时会陨落的神"
 
 - **西班牙语原文**:*Enamorarse es crear una religión cuyo dios es falible.*
-- **英文通行译本**:*To fall in love is to create a religion that has a fallible god.*
+- **英文通行译本**:*To fall in love is to create a 宗教 that has a fallible god.*
 - **归属**:**博尔赫斯**(广泛流传,西班牙语原文可证)
 - **出处**:未在《虚构集》《阿莱夫》等正式作品中找到;**未收录于英文 Wikiquote**;学界倾向于视为**口头语录或散佚句**,具体出处(散文 / 访谈 / 讲演)不明
 - **直译校正**:*falible* 直译为"可错的、会犯错的"(fallible),非"会陨落"。更精确的译法:
@@ -261,5 +261,5 @@ related-comparative:
 
 ## 比较页
 
-- [博尔赫斯 × 唯识](../../../philosophy/schools/comparative/borges-vs-yogacara.md)
-- [存在主义 × 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md)(平行比较)
+- [博尔赫斯 × 唯识](../../../哲学/学派/比较哲学/博尔赫斯唯识.md)
+- [存在主义 × 唯识](../../../哲学/学派/比较哲学/存在主义唯识.md)(平行比较)

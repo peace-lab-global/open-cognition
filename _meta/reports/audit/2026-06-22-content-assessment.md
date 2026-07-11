@@ -22,14 +22,14 @@
 | **religion 是最强输出源** | 出度 289（全库第一，且远超第二） | 佛教认知专题是全库最有活力的轴线，主动连接到几乎所有领域。这是优势，但也暴露**宗教一家独大** |
 | **cognitive-systems 高活跃** | 出度 103（第二）、入度却仅 47 | CSE 作为应用层，大量"向外索取"概念，但被理论域回引不足——**应用与理论的闭环未形成** |
 | **ethics-politics 几乎隐形** | 入度仅 16（全库最低），出度 48 | 伦理政治是公民社会核心议题，却被其他领域严重忽视。`ethics → religion` 甚至为 0（伦理条目从不引用宗教伦理），这是**显著的内容缺口** |
-| **arts / literature 偏孤立** | arts 出度 47 但入度仅 18 | 艺术作为"输出方"活跃，但几乎无人回引——艺术条目像是被搁置在图谱边缘 |
+| **arts / 文学 偏孤立** | 艺术 出度 47 但入度仅 18 | 艺术作为"输出方"活跃，但几乎无人回引——艺术条目像是被搁置在图谱边缘 |
 
 ### 关键缺口（矩阵中的零值）
 
-- `philosophy → aesthetics = 0`（哲学从不链接美学）
-- `philosophy → literature = 0`、`philosophy → arts = 0`
-- `ethics-politics → religion = 0`（伦理条目完全不引用宗教伦理传统）
-- `cognitive-systems → aesthetics/ethics/arts = 0`（工程视角缺席于价值与审美讨论）
+- `philosophy → 美学 = 0`（哲学从不链接美学）
+- `philosophy → 文学 = 0`、`philosophy → 艺术 = 0`
+- `ethics-politics → 宗教 = 0`（伦理条目完全不引用宗教伦理传统）
+- `cognitive-systems → 美学/ethics/arts = 0`（工程视角缺席于价值与审美讨论）
 
 **改进方向**：这不是数量问题，是**方向性问题**。建议用 cross-linker skill 针对"零值单元"定向补链——每补一个 0→1，就是在两个本应对话的领域间架桥。
 
@@ -59,14 +59,14 @@
 
 | 领域 | 孤儿数 | 占该领域比 |
 |---|:---:|:---:|
-| religion | 33 | ~18% |
-| aesthetics | 14 | ~44% |
-| psychology | 8 | ~16% |
-| cognitive-systems | 7 | ~13% |
+| 宗教 | 33 | ~18% |
+| 美学 | 14 | ~44% |
+| 心理学 | 8 | ~16% |
+| 认知系统 | 7 | ~13% |
 
 **aesthetics 孤儿率高达 44%**——近半美学条目无人引用。结合前述"aesthetics 入度仅 18"，美学领域整体处于**半脱离**状态：写了内容，但没有融入认知网络。
 
-**改进方向**：这 78 个孤儿本身就是 backlog 报告之外的内容质量信号。建议运行 cross-linker skill 对 aesthetics 做定向融入。
+**改进方向**：这 78 个孤儿本身就是 backlog 报告之外的内容质量信号。建议运行 cross-linker skill 对 美学 做定向融入。
 
 ---
 
@@ -90,13 +90,13 @@
 
 | 缺失概念 | 引用次数 | 建议领域 |
 |---|:---:|---|
-| constructivism | 5 | psychology + education |
-| mindfulness | 5 | psychology + religion |
-| core-teachings (佛教/耆那教) | 4 | religion |
-| attention-awareness | 3 | psychology + cognitive-systems |
-| christian-mysticism | 2 | religion |
-| chomsky | 3 | psychology + cognitive-systems |
-| chalmers | 2 | philosophy + cognitive-systems |
+| constructivism | 5 | 心理学 + education |
+| mindfulness | 5 | 心理学 + 宗教 |
+| core-teachings (佛教/耆那教) | 4 | 宗教 |
+| attention-awareness | 3 | 心理学 + 认知系统 |
+| christian-mysticism | 2 | 宗教 |
+| chomsky | 3 | 心理学 + 认知系统 |
+| chalmers | 2 | 哲学 + 认知系统 |
 
 补全这 7 个条目即可清掉 ~24 条 W006 链接。
 
@@ -110,8 +110,8 @@
 | **P0** | 运行 cross-linker 处理 5 个"死胡同枢纽"（meditation/language/leibniz/beauty/derrida） | 每个投入极小、杠杆极高，直接提升图谱密度 |
 | **P1** | 定向补链打破矩阵零值（philosophy→aesthetics、ethics→religion 等） | 这是项目"跨学科"使命的直接体现 |
 | **P1** | 对 aesthetics（44% 孤儿率）做专项融入 | 美学领域处于半脱离状态，是最大的局部短板 |
-| **P2** | 补全 ethics-politics 入度（当前仅 16，全库最低） | 公民社会核心议题被忽视，影响知识库的"现实相关性" |
-| **P2** | 为 cognitive-systems 建立理论回链（入度 47 偏低） | 闭环"理论↔应用"，避免 CSE 沦为单向索取 |
+| **P2** | 补全 伦理政治 入度（当前仅 16，全库最低） | 公民社会核心议题被忽视，影响知识库的"现实相关性" |
+| **P2** | 为 认知系统 建立理论回链（入度 47 偏低） | 闭环"理论↔应用"，避免 CSE 沦为单向索取 |
 
 ---
 

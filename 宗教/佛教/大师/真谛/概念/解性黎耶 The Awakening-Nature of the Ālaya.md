@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.awakening-nature
+id: 宗教.buddhism.concept.awakening-nature
 title: 解性黎耶 The Awakening-Nature of the Ālaya
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 parent: paramartha
 tags: [解性黎耶, 佛性, 觉悟, 唯识, 如来藏, 一性皆成]
@@ -165,7 +165,7 @@ Scholars differ on the origin and nature of the awakening-nature concept:
 The awakening-nature concept remains philosophically and psychologically suggestive today:
 
 - **意识研究**：在意识的深层结构中是否存在某种先天的"觉知"或"反思"能力？这与当代认知科学关于"元认知"（metacognition）的研究有潜在的对话空间。
-  **Consciousness studies**: Does the deep structure of consciousness contain some innate "awareness" or "reflective" capacity? This potentially dialogues with cognitive science research on metacognition.
+  **Consciousness studies**: Does the deep structure of consciousness contain some innate "awareness" or "reflective" capacity? This potentially dialogues with cognitive science 研究 on metacognition.
 
 - **人本主义心理学**：人是否先天具有"自我实现"的倾向？这与马斯洛、罗杰斯等人本主义心理学家的主张有共鸣之处。
   **Humanistic psychology**: Do humans have an innate tendency toward "self-actualization"? This resonates with claims by Maslow, Rogers, and other humanistic psychologists.

@@ -2,7 +2,7 @@
 id: leonardo-da-vinci
 title: "列奥纳多·达·芬奇 · Leonardo da Vinci"
 type: thinker
-domain: arts
+domain: 艺术
 school: visual-arts
 era: early-modern
 birth: 1452
@@ -84,7 +84,7 @@ Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was born in the to
 
 早期独立作品《受胎告知》（约1472-1475年）已展示了达芬奇对大气透视和植物细节的非凡观察力——远景的空气感、天使翅膀的鸟类解剖学精确性，都预示了他日后科学与艺术统一的方法论。《吉内芙拉·德·本奇肖像》（约1474-1478年）是他最早运用渐隐法（sfumato）的尝试之一，面部过渡之柔和在当时佛罗伦萨画坛前所未见。1481年受委托绘制《三王来朝》，这幅未完成的作品揭示了达芬奇的构图思维——他试图在单一画面中组织数十个动态人物和复杂的建筑透视，这一挑战推动了他对群体构图和空间组织的持续研究。
 
-Leonardo entered Verrocchio's workshop around 1466, during Florence's golden age of Renaissance. The workshop was one of the most diversified artistic ateliers of the era — simultaneously handling painting, sculpture, metalwork, stage design, and military engineering. This cross-media training environment profoundly shaped Leonardo's future conviction that art and craft knew no boundaries. His early independent works already displayed extraordinary observation of atmospheric perspective and botanical detail, while the *Ginevra de' Benci* portrait represented his earliest experiments with sfumato. The unfinished *Adoration of the Magi* (1481) revealed his ambitious compositional thinking, pushing him toward sustained research in group composition and spatial organization.
+Leonardo entered Verrocchio's workshop around 1466, during Florence's golden age of Renaissance. The workshop was one of the most diversified artistic ateliers of the era — simultaneously handling painting, sculpture, metalwork, stage design, and military engineering. This cross-media training environment profoundly shaped Leonardo's future conviction that art and craft knew no boundaries. His early independent works already displayed extraordinary observation of atmospheric perspective and botanical detail, while the *Ginevra de' Benci* portrait represented his earliest experiments with sfumato. The unfinished *Adoration of the Magi* (1481) revealed his ambitious compositional thinking, pushing him toward sustained 研究 in group composition and spatial organization.
 
 ### 中期：米兰与创作高峰 / Middle Period: Milan and Creative Zenith (1482–1506)
 
@@ -92,7 +92,7 @@ Leonardo entered Verrocchio's workshop around 1466, during Florence's golden age
 
 《岩间圣母》是渐隐法和光影实验的集大成之作——岩洞中的光线从多个方向渗透，地质构造的精确观察与宗教叙事完美融合。《最后的晚餐》则以线性透视法创造了西方绘画中最具戏剧性的场景——所有透视线汇聚于基督头部，十二使徒的心理反应构成了人类情感的全景图。与此同时，达芬奇开始了系统性的科学研究——人体解剖（至少解剖了十具尸体）、飞行器设计（基于对鸟类飞行的详细观察）、城市水利工程、以及《维特鲁威人》（约1490年）的绘制。1499年法军占领米兰后，达芬奇被迫离开，辗转曼图亚和威尼斯，于1500年返回佛罗伦萨。此后开始了《蒙娜丽莎》（约1503年起）的创作——这幅他携带至死的画作，成为了西方艺术史上最具标志性的形象。
 
-In 1482 Leonardo moved to Milan to serve Ludovico Sforza. His famous letter of self-recommendation listed ten military and engineering inventions, mentioning painting only at the end — revealing that he saw himself primarily as an inventor and natural philosopher. During seventeen years in Milan, he created the *Virgin of the Rocks* and *The Last Supper*, both milestone works. The former achieved a synthesis of sfumato and geological observation; the latter used linear perspective to create the most dramatically powerful scene in Western painting, with all vanishing lines converging on Christ's head while the twelve apostles' psychological reactions formed a panorama of human emotion. Simultaneously, Leonardo began systematic scientific research — anatomical dissections, flying machine designs, urban hydraulics, and the *Vitruvian Man*. After the French occupation of Milan in 1499, he eventually returned to Florence and began the *Mona Lisa*, a painting he carried with him until his death.
+In 1482 Leonardo moved to Milan to serve Ludovico Sforza. His famous letter of self-recommendation listed ten military and engineering inventions, mentioning painting only at the end — revealing that he saw himself primarily as an inventor and natural philosopher. During seventeen years in Milan, he created the *Virgin of the Rocks* and *The Last Supper*, both milestone works. The former achieved a synthesis of sfumato and geological observation; the latter used linear perspective to create the most dramatically powerful scene in Western painting, with all vanishing lines converging on Christ's head while the twelve apostles' psychological reactions formed a panorama of human emotion. Simultaneously, Leonardo began systematic scientific 研究 — anatomical dissections, flying machine designs, urban hydraulics, and the *Vitruvian Man*. After the French occupation of Milan in 1499, he eventually returned to Florence and began the *Mona Lisa*, a painting he carried with him until his death.
 
 ### 晚期：流亡与法国 / Late Period: Exile and France (1506–1519)
 
@@ -100,7 +100,7 @@ In 1482 Leonardo moved to Milan to serve Ludovico Sforza. His famous letter of s
 
 1513年达芬奇前往罗马，受教皇利奥十世（美第奇家族）庇护。然而在罗马的三年并不顺利——年轻的拉斐尔和年迈的米开朗基罗占据了罗马艺术界的中心。达芬奇的主要兴趣已转向水力学和地质学研究。1516年，应法国国王弗朗索瓦一世邀请，达芬奇定居昂布瓦斯（Amboise）的克洛·吕斯城堡（Clos Lucé），享有"国王第一画家、工程师和建筑师"的头衔和丰厚年金。在法国的最后三年，达芬奇主要从事科学研究、手稿整理和为宫廷设计节庆活动。据传弗朗索瓦一世常来探访，与这位老人进行长时间的知识对话。1519年5月2日，达芬奇在昂布瓦斯去世，享年六十七岁。传说他在弗朗索瓦一世的怀中辞世——虽然这很可能是后人美化，但确实反映了这位全才在欧洲心智史上的崇高地位。
 
-In 1506 Leonardo returned to Milan under French governance. His painting output decreased significantly as he deepened his scientific research. Between 1510-1511 he collaborated with the Pavia anatomist Marcantonio della Torre, producing approximately two hundred detailed anatomical drawings for a planned systematic anatomy treatise — had it been published in his lifetime, it would have advanced anatomy into the modern era by more than a century. In 1513 he moved to Rome under Pope Leo X, but found himself overshadowed by Raphael and Michelangelo. In 1516 he accepted Francis I's invitation to settle at Clos Lucé in Amboise, holding the title of "First Painter, Engineer, and Architect to the King." He died on 2 May 1519 at age sixty-seven, having left behind roughly 13,000 pages of notebooks that constitute the most expansive record of a single human mind's encounter with the natural world.
+In 1506 Leonardo returned to Milan under French governance. His painting output decreased significantly as he deepened his scientific 研究. Between 1510-1511 he collaborated with the Pavia anatomist Marcantonio della Torre, producing approximately two hundred detailed anatomical drawings for a planned systematic anatomy treatise — had it been published in his lifetime, it would have advanced anatomy into the modern era by more than a century. In 1513 he moved to Rome under Pope Leo X, but found himself overshadowed by Raphael and Michelangelo. In 1516 he accepted Francis I's invitation to settle at Clos Lucé in Amboise, holding the title of "First Painter, Engineer, and Architect to the King." He died on 2 May 1519 at age sixty-seven, having left behind roughly 13,000 pages of notebooks that constitute the most expansive record of a single human mind's encounter with the natural world.
 
 ## 关键著作 / Key Works
 
@@ -157,7 +157,7 @@ In 1506 Leonardo returned to Milan under French governance. His painting output 
 
 4. **仿生学与设计 / Biomimicry and Design**：达芬奇从自然中获取工程灵感的方法——研究鸟翅以设计飞行器、研究鱼鳍以设计潜水装置——预见了现代仿生学的核心方法论。His approach of drawing engineering inspiration from nature anticipated modern biomimicry.
 
-5. **认知科学与视觉思维 / Cognitive Science and Visual Thinking**：达芬奇"绘画即思考"的理念——通过绘画来理解世界而非仅仅记录世界——对当代认知科学中关于"具身认知"和"视觉思维"的研究有深刻启发。His idea that "drawing is thinking" resonates with contemporary research on embodied cognition and visual thinking.
+5. **认知科学与视觉思维 / Cognitive Science and Visual Thinking**：达芬奇"绘画即思考"的理念——通过绘画来理解世界而非仅仅记录世界——对当代认知科学中关于"具身认知"和"视觉思维"的研究有深刻启发。His idea that "drawing is thinking" resonates with contemporary 研究 on embodied cognition and visual thinking.
 
 6. **数字媒体与可视化 / Digital Media and Visualization**：达芬奇的视觉化方法——将复杂信息转化为直观的图像——对当代数据可视化、信息设计和科学插图领域具有持续的启发价值。His visualization methods continue to inspire data visualization and scientific illustration.
 
@@ -187,7 +187,7 @@ In 1506 Leonardo returned to Milan under French governance. His painting output 
 
 达芬奇"师法自然"的方法论与中国古代"格物致知"的认识论有相似之处——两者都主张通过仔细观察事物来获得知识。但达芬奇的方法最终导向了近代科学（实验、量化、可重复），而"格物致知"在宋明理学中主要导向道德认知。
 
-Leonardo's unity of art and science resonates with the Chinese literati painting principle of "shu hua tong yuan" (calligraphy and painting share the same source) — both traditions see different creative acts as manifestations of a single cognitive process. The key divergence: Chinese literati painting pursues "yi jing" (spiritual atmosphere), while Leonardo pursues knowledge of natural laws. His sfumato finds aesthetic parallels in the Chinese ink painting concept of "qi yun sheng dong" (spirit resonance and vitality), though sfumato is grounded in optical calculation while ink painting's empty spaces derive from Daoist philosophy. Leonardo's "learning from nature" echoes the Neo-Confucian concept of "ge wu zhi zhi" (investigating things to extend knowledge), though Leonardo's approach ultimately led toward modern experimental science while Neo-Confucian investigation primarily yielded moral knowledge.
+Leonardo's unity of art and science resonates with the Chinese literati painting principle of "shu hua tong yuan" (calligraphy and painting share the same source) — both traditions see different creative acts as manifestations of a single cognitive process. The key divergence: Chinese literati painting pursues "yi jing" (spiritual atmosphere), while Leonardo pursues knowledge of natural laws. His sfumato finds aesthetic parallels in the Chinese ink painting concept of "qi yun sheng dong" (spirit resonance and vitality), though sfumato is grounded in optical calculation while ink painting's empty spaces derive from Daoist 哲学. Leonardo's "learning from nature" echoes the Neo-Confucian concept of "ge wu zhi zhi" (investigating things to extend knowledge), though Leonardo's approach ultimately led toward modern experimental science while Neo-Confucian investigation primarily yielded moral knowledge.
 
 ## 跨学科关联 / Interdisciplinary Connections
 
@@ -199,7 +199,7 @@ Leonardo's unity of art and science resonates with the Chinese literati painting
 
 - **[应用] 工程学 / Engineering** `[应用/application]`：达芬奇的仿生设计方法（从自然结构中获取工程灵感）是现代仿生学和工业设计的概念先驱。His biomimetic design approach anticipated modern biomimicry and industrial design.
 
-- **[平行] 莱布尼茨 / Leibniz** `[平行/parallel]`：同为百科全书式的全才思想家——莱布尼茨在数学和哲学领域的广度与达芬奇在艺术和工程领域的广度形成了跨世纪的呼应。Both were encyclopedic polymaths — Leibniz's breadth in mathematics and philosophy echoed Leonardo's in art and engineering across centuries.
+- **[平行] 莱布尼茨 / Leibniz** `[平行/parallel]`：同为百科全书式的全才思想家——莱布尼茨在数学和哲学领域的广度与达芬奇在艺术和工程领域的广度形成了跨世纪的呼应。Both were encyclopedic polymaths — Leibniz's breadth in mathematics and 哲学 echoed Leonardo's in art and engineering across centuries.
 
 - **[影响] 透视法与光学 / Perspective and Optics** `[影响/influence]`：达芬奇对大气透视和色彩透视的研究推进了光学理论，对后来的开普勒和牛顿有间接影响。His studies of atmospheric and color perspective advanced optical theory.
 

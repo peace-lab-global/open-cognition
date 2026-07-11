@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.woods
+id: 认知系统.school.cognitive-engineering.woods
 title: 伍兹 David Woods
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: contemporary
 birth: 1952

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.trikaya
+id: 宗教.buddhism.concept.trikaya
 title: 三身 Trikāya
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三身, 法身, 报身, 化身, 佛身论]
@@ -55,7 +55,7 @@ sources: [《大乘庄严经论》, 《佛地经论》, 《金光明经》]
 ## 跨学科关联
 
 - [基督教 · 三位一体](../../traditions/christianity/grace-redemption.md) — [平行] 同一神圣存在的多维度显现
-- [柏拉图 · 理型](../../../philosophy/schools/ancient-greek/plato.md) — [平行] 法身与理型界的比较
+- [柏拉图 · 理型](../../../哲学/学派/古希腊/柏拉图.md) — [平行] 法身与理型界的比较
 
 ## 进阶阅读
 

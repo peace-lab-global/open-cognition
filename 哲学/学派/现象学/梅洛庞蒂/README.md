@@ -2,7 +2,7 @@
 id: merleau-ponty
 title: 梅洛-庞蒂 · Maurice Merleau-Ponty
 type: thinker
-domain: philosophy
+domain: 哲学
 school: phenomenology
 era: contemporary
 birth: 1908
@@ -107,7 +107,7 @@ Maurice Merleau-Ponty (1908–1961) was a French philosopher and central figure 
 
 梅洛-庞蒂处于20世纪法国哲学的核心交叉点。他将胡塞尔的先验现象学"具身化"，将海德格尔的"在世存在"具体化为身体的在世，将格式塔心理学的结构概念引入哲学，同时对萨特的纯粹意识哲学进行了根本性批判。他的"肉身"概念预示了后来德勒兹的"感觉的逻辑"和当代具身认知科学的兴起。
 
-Merleau-Ponty stands at the central crossroads of 20th-century French philosophy. He "embodied" Husserl's transcendental phenomenology, concretized Heidegger's "being-in-the-world" as the body's being-in-the-world, introduced Gestalt psychology's structural concepts into philosophy, and fundamentally critiqued Sartre's philosophy of pure consciousness. His concept of "flesh" anticipated Deleuze's "logic of sensation" and the rise of contemporary embodied cognitive science.
+Merleau-Ponty stands at the central crossroads of 20th-century French 哲学. He "embodied" Husserl's transcendental phenomenology, concretized Heidegger's "being-in-the-world" as the body's being-in-the-world, introduced Gestalt psychology's structural concepts into philosophy, and fundamentally critiqued Sartre's 哲学 of pure consciousness. His concept of "flesh" anticipated Deleuze's "logic of sensation" and the rise of contemporary embodied cognitive science.
 
 ## 当代应用 / Contemporary Applications
 
@@ -151,8 +151,8 @@ Merleau-Ponty stands at the central crossroads of 20th-century French philosophy
 - [萨特 · Jean-Paul Sartre](../existentialism/sartre.md) `[批判]` 以身体含混性取代纯粹自为意识
 - [康德 · Immanuel Kant](../german-idealism/kant.md) `[批判]` 反对先验主体的纯粹形式性
 - [庄子 · Zhuāngzǐ](../eastern/zhuangzi.md) `[平行]` 庖丁解牛与运动意向性，物化与交织
-- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 身体图式与阿赖耶根身器界
-- [具身认知 · Embodied Cognition](../../../psychology/concepts/embodied-cognition.md) `[发展]` 4E认知的哲学基础
+- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 身体图式与阿赖耶根身器界
+- [具身认知 · Embodied Cognition](../../../心理学/概念/embodied-cognition.md) `[发展]` 4E认知的哲学基础
 
 ## 进阶阅读 / Further Reading
 

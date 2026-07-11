@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cybernetics.simon
+id: 认知系统.school.cybernetics.simon
 title: 西蒙 Herbert Simon
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cybernetics
 era: modern
 birth: 1916

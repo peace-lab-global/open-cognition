@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.nirvana
+id: 宗教.buddhism.core.nirvana
 title: 涅槃 Nirvāṇa
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [涅槃, 解脱, 灭谛]
@@ -69,10 +69,10 @@ sources: [巴利三藏, 《阿含经》, 《中论》]
 
 ## 跨学科关联
 
-- [海德格尔 · 向死而生](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 死亡的意义
-- [斯多葛学派 · 不动心](../../../philosophy/schools/stoicism/) — [平行] 烦恼的灭
+- [海德格尔 · 向死而生](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 死亡的意义
+- [斯多葛学派 · 不动心](../../../哲学/schools/stoicism/) — [平行] 烦恼的灭
 - [印度教 · 解脱](../../traditions/hinduism/karma-samsara.md) — [平行] 轮回的止息
-- [心理学 · 自我实现](../../../psychology/schools/humanistic/maslow.md) — [平行] 潜能的圆满
+- [心理学 · 自我实现](../../../心理学/学派/人本主义/马斯洛.md) — [平行] 潜能的圆满
 
 ## 进阶阅读
 

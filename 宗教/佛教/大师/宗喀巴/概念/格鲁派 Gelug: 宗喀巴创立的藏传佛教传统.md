@@ -3,7 +3,7 @@ id: tsongkhapa-gelug
 title: "格鲁派 Gelug: 宗喀巴创立的藏传佛教传统"
 type: concept
 parent: tsongkhapa
-domain: religion
+domain: 宗教
 tags: [Gelug, yellow-hat, monastic-reform, Dalai-Lama]
 ---
 

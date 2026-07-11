@@ -1,11 +1,11 @@
 ---
 name: somatic-marker-analysis
 description: Triggers on requests to 躯体标记、情绪与决策、身体智慧，如决策分析、情绪管理、直觉等。Apply this skill to analyze decision-making using Damasio's somatic marker hypothesis, understanding how emotions and body signals guide decisions.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/cognitive/damasio.md
 linked_concepts:
-  - ../../psychology/concepts/somatic-marker-hypothesis.md
-  - ../../psychology/concepts/emotion-and-decision.md
+  - ../../心理学/概念/somatic-marker-hypothesis.md
+  - ../../心理学/概念/emotion-and-decision.md
 tags:
   - 躯体标记
   - 情绪与决策

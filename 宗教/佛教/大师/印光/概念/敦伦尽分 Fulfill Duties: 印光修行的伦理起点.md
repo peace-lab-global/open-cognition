@@ -3,7 +3,7 @@ id: yinguang-fulfill-duties
 title: "敦伦尽分 Fulfill Duties: 印光修行的伦理起点"
 type: concept
 parent: yinguang
-domain: religion
+domain: 宗教
 tags: [敦伦尽分, 伦理, 儒佛合一, 印光, Pure Land ethics, duty, Confucian-Buddhist]
 ---
 

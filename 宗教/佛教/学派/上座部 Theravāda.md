@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.theravada
+id: 宗教.buddhism.school.theravada
 title: 上座部 Theravāda
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-theravada
 era: ancient
 tags: [上座部, 四谛, 三十七道品, 阿罗汉, 巴利三藏]
@@ -85,10 +85,10 @@ sources: [巴利三藏, 清净道论, 阿毗达摩]
 
 ## 跨学科关联
 
-- [涂尔干 · 集体意识](../../../sociology/schools/classical/durkheim.md) — [互补] 僧团的社会整合
-- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 禅修作为自我技术
-- [荣格 · 个体化](../../../psychology/schools/analytical-psychology/jung.md) — [张力] 自我消融 vs 自我整合
-- [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) — [对照] 戒律作为行为塑造
+- [涂尔干 · 集体意识](../../../社会学/学派/古典社会学/涂尔干.md) — [互补] 僧团的社会整合
+- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 禅修作为自我技术
+- [荣格 · 个体化](../../../心理学/学派/分析心理学/卡尔.md) — [张力] 自我消融 vs 自我整合
+- [斯金纳 · 行为塑造](../../../心理学/学派/行为主义/斯金纳.md) — [对照] 戒律作为行为塑造
 
 ## Cognitive Architecture
 
@@ -106,7 +106,7 @@ sources: [巴利三藏, 清净道论, 阿毗达摩]
 - **内观（Vipassanā）与过程观察**：内观的核心不是观察"什么"，而是观察"如何"——现象如何生起、如何变化、如何灭去。这是一种过程导向的认知模式，不同于对象导向的概念化认知，类似于从"快照"模式切换到"视频"模式。
 - **[阿毗达摩](../concepts/cognitive-theory/abhidharma-mind.md)心刹那理论**：上座部阿毗达摩将认知分解为一系列极短暂的"心刹那"（citta-khaṇa），每一刹那包含心（citta）与心所（cetasika），这是对意识流的时间微结构分析——可与现代认知科学的时间分辨率研究（temporal resolution）对话。
 
-**跨领域参照**：四念处的元认知训练与 [正念减压 MBSR](../../../psychology/concepts/mindfulness.md) 构成直接传承关系，阿毗达摩的心刹那分析可与 [威廉·詹姆斯的意识流理论](../../../psychology/schools/functionalism/james.md) 比较。详见 [五蕴认知](../concepts/cognitive-theory/five-aggregates-cognitive.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
+**跨领域参照**：四念处的元认知训练与 [正念减压 MBSR](../../../心理学/概念/正念.md) 构成直接传承关系，阿毗达摩的心刹那分析可与 [威廉·詹姆斯的意识流理论](../../../心理学/学派/功能主义/威廉.md) 比较。详见 [五蕴认知](../concepts/cognitive-theory/five-aggregates-cognitive.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
 
 ## 进阶阅读
 

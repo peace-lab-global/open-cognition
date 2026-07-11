@@ -3,7 +3,7 @@ id: fazang-nature-arising
 title: "性起 Nature Arising: 华严的缘起论"
 type: concept
 parent: fazang
-domain: religion
+domain: 宗教
 tags: [nature-arising, Huayan, dependent-origination]
 ---
 # 性起 / Nature Arising (Xingqi)

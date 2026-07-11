@@ -2,7 +2,7 @@
 id: barrett
 title: "巴雷特 · Lisa Feldman Barrett"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1963
@@ -35,7 +35,7 @@ cross-refs:
     relation: 对话
   - id: seth
     relation: 平行
-  - id: religion.buddhism.concepts.abhidharma-mind
+  - id: 宗教.buddhism.concepts.abhidharma-mind
     relation: 平行
 children:
   - concepts/theory-of-constructed-emotion.md
@@ -252,8 +252,8 @@ children:
 - [达马西奥 · Damasio](../damasio.md) — **[对话与分歧]** 躯体标记假说 (Somatic Marker Hypothesis) 与身体预算的对话; Damasio 更接近基本情绪论
 - [詹姆斯 · William James](../../functionalism/james.md) — **[继承与批判]** "情绪是对身体变化的感知"是先驱, 但 James 仍预设了固定的情绪类型
 - [Ekman](../ekman.md) — **[对立]** 基本情绪论 (Basic Emotions) vs 构造情绪论 (Constructed Emotion) 的核心对手
-- [阿毗达磨心识论 · Abhidharma Mind](../../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) — **[平行]** 心所组合 = 情绪的构造论
-- [梅洛-庞蒂 · Merleau-Ponty](../../../philosophy/schools/phenomenology/merleau-ponty/README.md) — **[哲学呼应]** 身体主体性 (bodily subjectivity) 与具身建构主义
+- [阿毗达磨心识论 · Abhidharma Mind](../../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) — **[平行]** 心所组合 = 情绪的构造论
+- [梅洛-庞蒂 · Merleau-Ponty](../../../哲学/学派/现象学/梅洛庞蒂/README.md) — **[哲学呼应]** 身体主体性 (bodily subjectivity) 与具身建构主义
 
 ## 进阶阅读 / Further Reading
 

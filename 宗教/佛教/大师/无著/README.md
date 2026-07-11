@@ -2,7 +2,7 @@
 id: asanga-vasubandhu
 title: "无著与世亲 Asanga-Vasubandhu:瑜伽行派奠基兄弟"
 type: thinkers-pair
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: classical-india
 tags: [Yogacara, Vijnanavada, consciousness-only, Buddhist-psychology, Abhidharma, Mahayana]
@@ -493,7 +493,7 @@ children: ["concepts/alaya", "concepts/three-natures", "concepts/bija-vasana", "
 - [法称 Dharmakirti](../dharmakirti/) - 量论大师
 - [玄奘 Xuanzang](../xuanzang/) - 法相宗创始人
 - [窥基 Kuiji](../kuiji/) - 法相宗二祖
-- [胡塞尔 Husserl](../../../philosophy/schools/phenomenology/husserl/) - 现象学创始人
-- [弗洛伊德 Freud](../../../psychology/schools/psychoanalysis/freud/) - 精神分析创始人
-- [萨特 Sartre](../../../philosophy/schools/existentialism/sartre/) - 存在主义哲学家
-- [波伏娃 Beauvoir](../../../philosophy/schools/existentialism/beauvoir/) - 存在主义女性主义者
+- [胡塞尔 Husserl](../../../哲学/学派/现象学/胡塞尔/) - 现象学创始人
+- [弗洛伊德 Freud](../../../心理学/学派/精神分析/西格蒙德/) - 精神分析创始人
+- [萨特 Sartre](../../../哲学/学派/存在主义/萨特/) - 存在主义哲学家
+- [波伏娃 Beauvoir](../../../哲学/学派/存在主义/西蒙娜/) - 存在主义女性主义者

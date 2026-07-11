@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein.concepts.inner-monologue
+id: 美学.arts-thought.eisenstein.concepts.inner-monologue
 title: 内心独白 Inner Monologue
 type: concept
-parent: aesthetics.arts-thought.eisenstein
+parent: 美学.arts-thought.eisenstein
 tags: [inner-monologue, psychology, stream-of-consciousness, Joyce]
 ---
 
@@ -29,7 +29,7 @@ Eisenstein was fascinated by Joyce's *Ulysses*: Joyce used word flow to simulate
 - **弗洛伊德精神分析**：自由联想的非逻辑性与蒙太奇的跳跃性相似
 - **巴甫洛夫条件反射**：蒙太奇的刺激-反应机制与条件反射理论相关
 
-Gestalt psychology (audience brain automatically assembles fragmented shots into meaningful wholes); Freudian psychoanalysis (free association's non-logic resembles montage's jumpiness); Pavlovian conditioning (montage's stimulus-response mechanism relates to conditioning theory).
+Gestalt 心理学 (audience brain automatically assembles fragmented shots into meaningful wholes); Freudian psychoanalysis (free association's non-logic resembles montage's jumpiness); Pavlovian conditioning (montage's stimulus-response mechanism relates to conditioning theory).
 
 ## 对当代电影的影响 / Impact on Contemporary Cinema
 

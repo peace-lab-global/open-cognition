@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.samatha-vipasyana
+id: 宗教.buddhism.core.samatha-vipasyana
 title: 止观 Śamatha-Vipaśyanā
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [止观, 奢摩他, 毗钵舍那, 定慧双修, 六妙门]
@@ -98,9 +98,9 @@ sources: [《摩诃止观》（智顗）, 《清净道论》, 《瑜伽师地论
 
 ## 跨学科关联
 
-- [卡巴金 · 正念](../../../psychology/schools/cognitive/kabat-zinn.md) — [继承] MBSR 源自止观
-- [契克森米哈赖 · 心流](../../../psychology/schools/positive/csikszentmihalyi.md) — [平行] 止 ≈ 心流
-- [杜威 · 反思性思维](../../../philosophy/schools/pragmatism/dewey.md) — [平行] 观 ≈ 反思
+- [卡巴金 · 正念](../../../心理学/学派/认知心理学/卡巴金.md) — [继承] MBSR 源自止观
+- [契克森米哈赖 · 心流](../../../心理学/学派/积极心理学/米哈里.md) — [平行] 止 ≈ 心流
+- [杜威 · 反思性思维](../../../哲学/学派/实用主义/约翰.md) — [平行] 观 ≈ 反思
 
 ## 进阶阅读
 

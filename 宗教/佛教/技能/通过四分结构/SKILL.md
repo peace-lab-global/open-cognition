@@ -1,7 +1,7 @@
 ---
 name: mind-world-analysis
 description: 唯识"心物一元"分析法，用于诊断来访者"心"与"境"的关系——是心随境转，还是境随心现？通过四分结构（相分/见分/自证分/证自证分）定位认知错位。Triggers on 当事人把外部事件当成"客观压力"、觉得"环境决定我的情绪"、或陷入"都是别人的问题"场景。
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 linked_concepts:
   - ../../mind-world.md
@@ -133,4 +133,4 @@ tags:
 
 - 概念：[心物一元](../../concepts/cognitive-theory/mind-world.md)
 - 相关Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
-- 跨传统：[认知行为疗法·认知重构](../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的认知重构是转见分的简化版本
+- 跨传统：[认知行为疗法·认知重构](../../../../心理学/学派/认知心理学/贝克.md)（平行）— CBT的认知重构是转见分的简化版本

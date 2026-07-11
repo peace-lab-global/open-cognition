@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kohlberg.stages-moral-reasoning
+id: 心理学.cognitive.kohlberg.stages-moral-reasoning
 title: 道德推理阶段 Stages of Moral Reasoning
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 tags: [道德推理, 三水平六阶段, 前习俗, 习俗, 后习俗, stages-moral-reasoning, pre-conventional, conventional, post-conventional]
@@ -81,7 +81,7 @@ The individual engages in moral reasoning based on self-chosen, logically compre
 
 皮亚杰1932年的开创性研究将儿童的道德判断发展分为两个阶段：他律道德（heteronomous morality，约5-10岁）和自律道德（autonomous morality，约10岁以上）。他律阶段的儿童将规则视为不可更改的外部权威产物，自律阶段的儿童开始理解规则是社会协商的结果。
 
-Piaget's pioneering 1932 research divided children's moral judgment development into two stages: heteronomous morality (approximately 5–10 years) and autonomous morality (approximately 10+ years). Heteronomous-stage children view rules as unchangeable products of external authority; autonomous-stage children begin to understand rules as products of social negotiation.
+Piaget's pioneering 1932 研究 divided children's moral judgment development into two stages: heteronomous morality (approximately 5–10 years) and autonomous morality (approximately 10+ years). Heteronomous-stage children view rules as unchangeable products of external authority; autonomous-stage children begin to understand rules as products of social negotiation.
 
 ### 柯尔伯格的六阶段扩展 / Kohlberg's Six-Stage Extension
 
@@ -100,7 +100,7 @@ Kohlberg faced an empirical difficulty in later research: Stage 6 was extremely 
 ### 阶段评定工具 / Stage Assessment Instruments
 
 - **道德判断访谈（MJI）**：半结构化访谈，包含3-5个道德两难故事，需约45分钟 / Semi-structured interview with 3–5 moral dilemma stories, requiring approximately 45 minutes
-- **确定问题测验（DIT）**：Rest开发的标准化问卷，适用于大样本研究 / Standardized questionnaire developed by Rest, suitable for large-sample research
+- **确定问题测验（DIT）**：Rest开发的标准化问卷，适用于大样本研究 / Standardized questionnaire developed by Rest, suitable for large-sample 研究
 - **道德判断测验（MJT）**：Lind开发的在线测验工具 / Online assessment tool developed by Lind
 
 ### 教育实践 / Educational Practice
@@ -139,7 +139,7 @@ Buddhism's threefold training of "sila-samadhi-prajna" (morality-concentration-w
 - Colby, A. & Kohlberg, L. (1987). *The Measurement of Moral Judgment* (2 vols.). Cambridge University Press. — 标准化评分手册 / Standardized scoring manual
 
 ### 二手研究 / Secondary Research
-- Rest, J.R. (1986). *Moral Development: Advances in Research and Theory*. Praeger. — DIT测验及其研究综述 / DIT test and research review
+- Rest, J.R. (1986). *Moral Development: Advances in Research and Theory*. Praeger. — DIT测验及其研究综述 / DIT test and 研究 review
 - Gibbs, J.C. (2014). *Moral Development and Reality: Beyond the Theories of Kohlberg, Hoffman, and Haidt* (3rd ed.). Oxford University Press. — 对阶段论的当代辩护 / Contemporary defense of stage theory
 
 ### 中文资源 / Chinese Resources

@@ -80,7 +80,7 @@ reports/
 | 2026-05-19 | [taoism-masters-execution.md](./religions/2026-05-19-taoism-masters-execution.md) | 道家大师执行 |
 | 2026-05-20 | [literature-arts-expansion.md](./religions/2026-05-20-literature-arts-expansion.md) | 文学/艺术领域扩展 |
 
-> 注：v0.6 **佛教认知理论体系化**（19 概念 + 15 Skill + 4 禅修专题）的执行记录已直接沉淀在 [`religion/buddhism/concepts/cognitive-theory/`](../religion/buddhism/concepts/cognitive-theory/)，未单独成报告。详见其 [README.md](../religion/buddhism/concepts/cognitive-theory/README.md)。
+> 注：v0.6 **佛教认知理论体系化**（19 概念 + 15 Skill + 4 禅修专题）的执行记录已直接沉淀在 [`religion/buddhism/concepts/cognitive-theory/`](../宗教/佛教/概念/cognitive-theory/)，未单独成报告。详见其 [README.md](../宗教/佛教/概念/cognitive-theory/README.md)。
 
 ---
 
@@ -116,7 +116,7 @@ reports/<category>/YYYY-MM-DD-<kebab-case-subject>.md
 | v0.3 | religions/2026-05-20-literature-arts-expansion |
 | v0.4 | cse/ 第一轮 + 第二轮 |
 | v0.5 | cse/ 第三轮 |
-| v0.6 | 见 religion/buddhism/concepts/cognitive-theory/README.md |
+| v0.6 | 见 宗教/佛教/概念/cognitive-theory/README.md |
 
 ---
 

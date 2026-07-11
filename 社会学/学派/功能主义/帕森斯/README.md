@@ -1,8 +1,8 @@
 ---
-id: sociology.functionalism.parsons
+id: 社会学.functionalism.parsons
 title: 帕森斯 · Talcott Parsons
 type: thinker
-domain: sociology
+domain: 社会学
 school: functionalism
 era: 20th century
 birth: 1902
@@ -52,7 +52,7 @@ sub-entries:
 
 帕森斯最著名的理论体系是结构功能主义。在《社会系统》（The Social System, 1951）中，他将社会视为一个由相互关联的部分组成的系统，每个部分都承担着维持系统整体稳定的功能。AGIL模型——适应（Adaptation）、目标达成（Goal attainment）、整合（Integration）、潜在模式维持（Latency）——是他分析社会系统功能需求的基本工具。帕森斯的理论在1950年代至1960年代主导了美国社会学，此后受到来自冲突理论、符号互动论和批判理论的广泛批评。
 
-Parsons is the central figure of mid-20th century American sociology and the founder of structural functionalism. His ambition was to build a "general theory of action" unifying sociology, economics, psychology, and anthropology. His AGIL model and pattern variables provided systematic analytical tools that dominated American sociology for two decades, though they later faced extensive criticism from conflict theory and interactionist perspectives.
+Parsons is the central figure of mid-20th century American 社会学 and the founder of structural functionalism. His ambition was to build a "general theory of action" unifying sociology, economics, psychology, and anthropology. His AGIL model and pattern variables provided systematic analytical tools that dominated American 社会学 for two decades, though they later faced extensive criticism from conflict theory and interactionist perspectives.
 
 ## 二、核心命题
 

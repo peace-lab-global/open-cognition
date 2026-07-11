@@ -1,10 +1,10 @@
 ---
 name: categorical-imperative-test
 description: Triggers on requests to 道德判断、伦理原则、绝对命令，如道德困境分析、行为准则制定、伦理决策等。Apply this skill to evaluate the morality of actions using Kant's categorical imperative: universalizability, humanity as end, and kingdom of ends.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/german-idealism/kant.md
 linked_concepts:
-  - ../../philosophy/concepts/categorical-imperative.md
+  - ../../哲学/概念/categorical-imperative.md
 tags:
   - 道德
   - 伦理
@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[康德](../../schools/german-idealism/kant.md)
 - 概念：[绝对命令](../../concepts/categorical-imperative.md)
-- 相关 Skill：[aristotle-virtue-test](../../ethics-politics/skills/aristotle-virtue-test/SKILL.md)、[justice-principle-test](../../ethics-politics/skills/justice-principle-test/SKILL.md)
+- 相关 Skill：[aristotle-virtue-test](../../伦理政治/技能/亚里士多德德/SKILL.md)、[justice-principle-test](../../伦理政治/技能/正义原则检验/SKILL.md)

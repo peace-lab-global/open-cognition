@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein.concepts.intellectual-montage
+id: 美学.arts-thought.eisenstein.concepts.intellectual-montage
 title: 理性蒙太奇 Intellectual Montage
 type: concept
-parent: aesthetics.arts-thought.eisenstein
+parent: 美学.arts-thought.eisenstein
 tags: [intellectual-montage, abstraction, ideas, conceptual-cinema]
 ---
 
@@ -27,7 +27,7 @@ tags: [intellectual-montage, abstraction, ideas, conceptual-cinema]
 
 爱森斯坦的理性蒙太奇挑战了一个根深蒂固的偏见——电影只能传达"感性"内容，哲学和抽象思维属于文字和语言。爱森斯坦证明：通过镜头的精心安排的冲突，电影可以"思考"。
 
-Eisenstein's intellectual montage challenged a deep prejudice — that cinema can only convey "sensory" content while philosophy belongs to text. He proved: through carefully arranged shot conflict, cinema can "think."
+Eisenstein's intellectual montage challenged a deep prejudice — that cinema can only convey "sensory" content while 哲学 belongs to text. He proved: through carefully arranged shot conflict, cinema can "think."
 
 ## 局限与自我修正 / Limitations and Self-Correction
 

@@ -3,7 +3,7 @@ id: yosai-tea-zen-unity
 title: "茶禅一味 Sa-Zen Ichimi: 荣西的茶道与禅修统一思想"
 type: concept
 parent: yosai
-domain: religion
+domain: 宗教
 tags: [茶禅一味, 茶道, chado, 禅修, 日本茶文化]
 ---
 
@@ -84,7 +84,7 @@ Yōsai's "Tea and Zen Are One Taste" is the spiritual wellspring of the later Ja
 |---|---|---|
 | 荣西时代 Yōsai's era | 荣西 Yōsai | 茶作为修行辅助和养生手段 / Tea as practice-aid and health tonic |
 | 南北朝 Nambokuchō | 村田珠光 Murata Jukō | "侘茶"萌芽，茶与禅进一步结合 / Emergence of wabi-cha |
-| 战国时代 Sengoku | 武野绍鸥 Takeno Jōō | "侘寂"美学系统化 / Systematization of wabi-sabi aesthetics |
+| 战国时代 Sengoku | 武野绍鸥 Takeno Jōō | "侘寂"美学系统化 / Systematization of wabi-sabi 美学 |
 | 安土桃山 Azuchi-Momoyama | 千利休 Sen no Rikyū | "和敬清寂"四规确立，茶道成熟 / "Wa-kei-sei-jaku" principles established |
 
 从荣西到千利休，"茶禅一味"从修行论扩展为完整的审美-伦理-修行体系。千利休的"和敬清寂"（和、敬、清、寂）四字，可以视为荣西茶禅思想的极致展开。

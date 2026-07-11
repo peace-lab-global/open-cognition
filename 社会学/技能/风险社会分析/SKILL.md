@@ -1,11 +1,11 @@
 ---
 name: risk-society-analysis
 description: Triggers on requests to 风险社会、第二现代性、全球化风险，如环境问题、技术风险、社会变迁等。Apply this skill to analyze contemporary risks using Beck's theory of risk society, understanding how modern society produces and distributes risks.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/modernity/beck.md
 linked_concepts:
-  - ../../sociology/concepts/risk-society.md
-  - ../../sociology/concepts/second-modernity.md
+  - ../../社会学/概念/risk-society.md
+  - ../../社会学/概念/second-modernity.md
 tags:
   - 风险社会
   - 第二现代性

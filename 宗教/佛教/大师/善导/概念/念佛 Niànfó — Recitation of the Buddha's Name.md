@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.master.shandao.concepts.nianfo
+id: 宗教.buddhism.master.shandao.concepts.nianfo
 title: 念佛 Niànfó — Recitation of the Buddha's Name
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
-parent: religion.buddhism.master.shandao.readme
+parent: 宗教.buddhism.master.shandao.readme
 tags: [念佛, Nianfo, Nembutsu, 称名念佛, Pure Land, Amitābha]
 ---
 

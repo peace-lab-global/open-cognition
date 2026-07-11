@@ -1,10 +1,10 @@
 ---
 name: cognitive-development-assessment
 description: Triggers on requests to 认知发展、儿童思维、发展阶段，如儿童教育、发展评估、学习指导等。Apply this skill to assess children's cognitive development stage and provide appropriate guidance based on Piaget's theory.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/developmental/piaget.md
 linked_concepts:
-  - ../../psychology/concepts/cognitive-development-stages.md
+  - ../../心理学/概念/cognitive-development-stages.md
   - ../../concepts/constructivism.md
 tags:
   - 认知发展

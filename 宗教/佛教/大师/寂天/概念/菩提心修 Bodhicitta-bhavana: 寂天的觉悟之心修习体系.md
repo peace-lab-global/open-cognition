@@ -3,7 +3,7 @@ id: santideva-bodhicitta-cultivation
 title: "菩提心修 Bodhicitta-bhavana: 寂天的觉悟之心修习体系"
 type: concept
 parent: santideva
-domain: religion
+domain: 宗教
 tags: [bodhicitta, bodhisattva, awakening-mind, cultivation, bhavana, compassion, Mahayana]
 ---
 

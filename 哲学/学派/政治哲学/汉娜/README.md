@@ -1,8 +1,8 @@
 ---
-id: philosophy.political-philosophy.arendt
+id: 哲学.political-philosophy.arendt
 title: 阿伦特 · Hannah Arendt
 type: thinker
-domain: philosophy
+domain: 哲学
 school: political-philosophy
 era: contemporary
 birth: 1906
@@ -121,5 +121,5 @@ Hannah Arendt is one of the 20th century's most important political thinkers. Sh
 ## 十、关联 Skills
 
 - [海德格尔 Heidegger](../existentialism/heidegger/README.md) `[师承/批判]` 现象学方法与政治选择
-- [马克思 Marx](../../../sociology/schools/classical/marx/README.md) `[批判]` 劳动与政治
-- [哈贝马斯 Habermas](../../../sociology/schools/critical/habermas/README.md) `[发展]` 公共领域理论
+- [马克思 Marx](../../../社会学/学派/古典社会学/马克思/README.md) `[批判]` 劳动与政治
+- [哈贝马斯 Habermas](../../../社会学/学派/批判理论/哈贝马斯/README.md) `[发展]` 公共领域理论

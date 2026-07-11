@@ -3,7 +3,7 @@ id: hakuin-koan-system
 title: "公案系统化 Koan Systematization"
 type: concept
 parent: hakuin
-domain: religion
+domain: 宗教
 tags: [koan, systematization, Rinzai, Hakuin]
 ---
 # 公案系统化 / Koan Systematization

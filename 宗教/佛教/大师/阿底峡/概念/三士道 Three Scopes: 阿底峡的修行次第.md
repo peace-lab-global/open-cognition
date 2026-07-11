@@ -3,7 +3,7 @@ id: atisha-three-scopes
 title: "三士道 Three Scopes: 阿底峡的修行次第"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [three-scopes, lam-rim, Kadam]
 ---
 # 三士道 / Three Scopes

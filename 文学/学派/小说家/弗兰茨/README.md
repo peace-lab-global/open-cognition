@@ -1,8 +1,8 @@
 ---
-id: literature.novelists.kafka
+id: 文学.novelists.kafka
 title: 卡夫卡 · Franz Kafka
 type: thinker
-domain: literature
+domain: 文学
 school: novelists
 era: modernism
 birth: 1883
@@ -49,7 +49,7 @@ children:
 
 卡夫卡的核心洞察是：**现代人的根本处境不是痛苦，而是无法理解痛苦的来源**。K. 被审判、被拒绝、被惩罚——但审判者、拒绝者和惩罚者的身份和理由永远不可知。这种"不知为何被罚"的处境，比任何具体的痛苦都更令人恐惧，因为它是**无根基的**。
 
-Franz Kafka (1883–1924) created a literary universe that bears his name — the "Kafkaesque" — where absurdity is not a distortion of reality but its essential nature. His three unfinished novels (*The Trial*, *The Castle*, *Amerika*) and his stories (*The Metamorphosis*, *In the Penal Colony*, *The Hunger Artist*) present situations of extreme impossibility narrated with extreme logical precision. Walter Benjamin described his work as a form of modern aggadah — narratives that gesture toward an unspeakable law without ever revealing it. His influence on existentialism, absurdism, and the entire trajectory of 20th-century literature is immeasurable.
+Franz Kafka (1883–1924) created a literary universe that bears his name — the "Kafkaesque" — where absurdity is not a distortion of reality but its essential nature. His three unfinished novels (*The Trial*, *The Castle*, *Amerika*) and his stories (*The Metamorphosis*, *In the Penal Colony*, *The Hunger Artist*) present situations of extreme impossibility narrated with extreme logical precision. Walter Benjamin described his work as a form of modern aggadah — narratives that gesture toward an unspeakable law without ever revealing it. His influence on existentialism, absurdism, and the entire trajectory of 20th-century 文学 is immeasurable.
 
 ## 二、核心命题 / Core Theses
 

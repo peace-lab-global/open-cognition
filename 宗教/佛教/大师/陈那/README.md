@@ -2,7 +2,7 @@
 id: dignaga
 title: "陈那 Dignaga: 佛教因明学派创始人与量论之父"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-pramana
 era: classical-india
 birth: 480
@@ -219,8 +219,8 @@ children: ["concepts/only-two-pramanas", "concepts/trairupya", "concepts/apoha-e
 
 - **佛教内部**: [法称](dharmakirti.md) — 量论集大成者；[世亲](asanga-vasubandhu.md) — 师长；[龙树](nagarjuna.md) — 中观逻辑方法的先驱
 - **印度哲学**: 正理派 Nyaya — 主要对话/批判对象；胜论派 Vaisesika — 实在论的对立面
-- **西方逻辑**: [亚里士多德](../../../philosophy/schools/ancient-greek/aristotle.md) — 三段论与因三相的比较
-- **语言哲学**: [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — 遮诠论与语言游戏、家族相似
+- **西方逻辑**: [亚里士多德](../../../哲学/学派/古希腊/亚里士多德.md) — 三段论与因三相的比较
+- **语言哲学**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 遮诠论与语言游戏、家族相似
 - **认知科学**: 感知-概念二分、范畴化理论、预测加工
 - **藏传佛教**: 量论（tshad ma）传统 — 陈那-法称体系的藏传继承
 

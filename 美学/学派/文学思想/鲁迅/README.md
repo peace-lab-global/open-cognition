@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-thought.lu-xun
+id: 美学.literary-thought.lu-xun
 title: 鲁迅 · Lu Xun
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: modern
 birth: 1881
@@ -38,7 +38,7 @@ children:
 > **生卒**: 1881–1936
 > **国籍**: 中国
 >
-> 本条目聚焦鲁迅对**美学/哲学**的贡献。完整传记见 [文学领域 · 鲁迅](../../../literature/schools/essayists/lu-xun/README.md)。
+> 本条目聚焦鲁迅对**美学/哲学**的贡献。完整传记见 [文学领域 · 鲁迅](../../../文学/学派/散文家/鲁迅/README.md)。
 
 ## 一、思想概要
 
@@ -46,7 +46,7 @@ children:
 
 鲁迅美学的独特之处在于它的**存在主义维度**。《野草》以散文诗形式呈现了最深层的存在焦虑——绝望、虚无、影的告别。"绝望之为虚妄，正与希望相同"——这一命题使鲁迅超越了简单的启蒙乐观主义，成为一种带有悲剧深度的批判性思想。
 
-Lu Xun (1881–1936) is the founder of modern Chinese literature and its most penetrating cultural critic. His key aesthetic-philosophical contribution is the systematic anatomization of "national character" — the "cannibalistic" Confucian order, "spiritual victory" self-deception, and "spectator psychology" of collective numbness. His *Wild Grass* (1927) presents existential anxiety in prose-poetry form, while his declaration that "despair is as illusory as hope" elevates him beyond simple Enlightenment optimism into a tragic depth of critical thought.
+Lu Xun (1881–1936) is the founder of modern Chinese 文学 and its most penetrating cultural critic. His key aesthetic-philosophical contribution is the systematic anatomization of "national character" — the "cannibalistic" Confucian order, "spiritual victory" self-deception, and "spectator psychology" of collective numbness. His *Wild Grass* (1927) presents existential anxiety in prose-poetry form, while his declaration that "despair is as illusory as hope" elevates him beyond simple Enlightenment optimism into a tragic depth of critical thought.
 
 ## 二、核心命题
 

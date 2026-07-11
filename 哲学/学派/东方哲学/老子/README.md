@@ -2,7 +2,7 @@
 id: laozi
 title: 老子 · Laozi
 type: thinker
-domain: philosophy
+domain: 哲学
 school: daoist
 era: ancient
 birth: -571
@@ -53,7 +53,7 @@ sub-entries:
 
 文本方面，1973年马王堆帛书甲乙本的出土和1993年郭店楚简本的发现，彻底改变了老子研究的面貌。郭店本可追溯至公元前4世纪，是目前所见最早的《老子》文本，其篇幅约为今本五分之二，章序与今本大不相同。
 
-Laozi (traditionally c. 6th century BCE) is the foundational figure of Daoist philosophy and one of the most influential thinkers in Chinese intellectual history. His historical identity has been debated since Sima Qian's *Records of the Grand Historian*, which already listed three possible candidates. Modern scholarship tends to view the *Daodejing* as a gradually compiled text reaching its final form in the mid-to-late Warring States period. The discovery of Mawangdui silk manuscripts (1973) and Guodian bamboo slips (1993) revolutionized Laozi studies.
+Laozi (traditionally c. 6th century BCE) is the foundational figure of Daoist 哲学 and one of the most influential thinkers in Chinese intellectual history. His historical identity has been debated since Sima Qian's *Records of the Grand Historian*, which already listed three possible candidates. Modern scholarship tends to view the *Daodejing* as a gradually compiled text reaching its final form in the mid-to-late Warring States period. The discovery of Mawangdui silk manuscripts (1973) and Guodian bamboo slips (1993) revolutionized Laozi studies.
 
 ## 核心命题 / Core Theses
 
@@ -114,7 +114,7 @@ Laozi (traditionally c. 6th century BCE) is the foundational figure of Daoist ph
 
 老子与孔子并列为中国哲学的两大奠基者，但其思想路径截然不同。孔子重礼乐人伦，以仁义为核心；老子以道为核心，批判儒家的人为造作。老子直接影响了庄子，经庄子发展为更激进的精神自由哲学。汉代黄老之学将老子政治化；魏晋玄学（王弼、何晏）将老子本体论化；道教将老子宗教化（太上老君）。在东亚思想史上，老子与佛教的相遇产生了禅宗——中国化的佛教。
 
-Laozi stands alongside Confucius as one of the two foundational pillars of Chinese philosophy. His thought directly influenced Zhuangzi, who radicalized it into a philosophy of spiritual freedom. Through the Han Dynasty's Huang-Lao school, Wei-Jin metaphysics (Wang Bi), and religious Daoism, Laozi's influence permeated Chinese civilization. The encounter of Daoism with Buddhism produced Chan (Zen) Buddhism.
+Laozi stands alongside Confucius as one of the two foundational pillars of Chinese 哲学. His thought directly influenced Zhuangzi, who radicalized it into a 哲学 of spiritual freedom. Through the Han Dynasty's Huang-Lao school, Wei-Jin metaphysics (Wang Bi), and religious Daoism, Laozi's influence permeated Chinese civilization. The encounter of Daoism with Buddhism produced Chan (Zen) Buddhism.
 
 ## 当代应用 / Contemporary Applications
 
@@ -157,8 +157,8 @@ Laozi stands alongside Confucius as one of the two foundational pillars of Chine
 - [庄子 · Zhuāngzǐ](zhuangzi.md) `[发展]` 将老子之道激进化为逍遥与齐物
 - [孔子 · Confucius](confucius.md) `[对立]` 自然与礼乐、无为与有为的对照
 - [海德格尔 · Heidegger](../existentialism/heidegger.md) `[平行]` 存在追问与技术批判
-- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 本源超越语言、减法式认知
-- [禅宗 · Chán](../../../religion/buddhism/traditions/chan.md) `[同源]` 中国禅宗融合了道家思想
+- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 本源超越语言、减法式认知
+- [禅宗 · Chán](../../../宗教/佛教/traditions/chan.md) `[同源]` 中国禅宗融合了道家思想
 
 ## 进阶阅读 / Further Reading
 

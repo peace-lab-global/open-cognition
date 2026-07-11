@@ -3,7 +3,7 @@ id: aryadeva-compassion-wisdom
 title: "悲智双运 Karuna-Prajna: 提婆的空性伦理学与菩萨道理想"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [karuna, prajna, compassion, wisdom, bodhisattva, ethics, emptiness, altruism, Catuhsataka]
 ---
 

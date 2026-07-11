@@ -1,5 +1,5 @@
 ---
-domain: literature
+domain: 文学
 title: 文学 / Literature
 description: 小说、戏剧、散文、诗歌四大文体，收录对人类思想与文明进程有深远影响的文学家
 version: 1.0
@@ -16,8 +16,8 @@ entries:
 文学（Literature）是以语言为媒介的创造性艺术，承载人类经验、思想与价值。
 本领域按文体划分为**小说家 / 剧作家 / 散文家 / 诗人**四大类，记录那些通过文学创作深刻影响人类精神世界的作家及其核心命题。
 
-与 [aesthetics（美学）](../aesthetics/README.md) 互补：美学追问"什么是美"，文学关注"谁写出了什么、为什么重要"。
-与 [arts/literary-arts（艺术/文学艺术）](../arts/README.md) 关联：本领域承载文学家条目，`arts/literary-arts` 保留为跨门类艺术对话的入口。
+与 [aesthetics（美学）](../美学/README.md) 互补：美学追问"什么是美"，文学关注"谁写出了什么、为什么重要"。
+与 [艺术/literary-arts（艺术/文学艺术）](../艺术/README.md) 关联：本领域承载文学家条目，`arts/literary-arts` 保留为跨门类艺术对话的入口。
 
 ## 四大文体 / School Tree
 
@@ -26,7 +26,7 @@ entries:
 > 每位文学家的思想深度在条目内部的「时代/流派」字段中体现。
 
 ```
-literature/
+文学/
 ├── novelists/    （小说家：长篇/短篇小说、叙事艺术）
 ├── dramatists/   （剧作家：戏剧、舞台、人物冲突）
 ├── essayists/    （散文家：思想性散文、杂文、评论）
@@ -72,12 +72,12 @@ literature/
 
 | 本域条目 | 关联域 | 关联条目 | 关系说明 |
 |----------|--------|----------|----------|
-| 陀思妥耶夫斯基 | philosophy | nietzsche.md | 存在主义先声：上帝、自由、价值重估 |
-| 陀思妥耶夫斯基 | religion | salvation.md | 苦难与救赎的神学叙事 |
-| 卡夫卡 | philosophy | existentialism | 荒诞与异化的文学表达 |
-| 莎士比亚 | psychology | personality.md | 人物性格的复杂光谱 |
-| 鲁迅 | sociology | class.md / gender.md | 社会结构与国民性批判 |
-| 歌德 | aesthetics | tragedy.md | 悲剧精神与人性完整 |
+| 陀思妥耶夫斯基 | 哲学 | nietzsche.md | 存在主义先声：上帝、自由、价值重估 |
+| 陀思妥耶夫斯基 | 宗教 | salvation.md | 苦难与救赎的神学叙事 |
+| 卡夫卡 | 哲学 | existentialism | 荒诞与异化的文学表达 |
+| 莎士比亚 | 心理学 | personality.md | 人物性格的复杂光谱 |
+| 鲁迅 | 社会学 | class.md / gender.md | 社会结构与国民性批判 |
+| 歌德 | 美学 | tragedy.md | 悲剧精神与人性完整 |
 
 ## 关联 Skills
 

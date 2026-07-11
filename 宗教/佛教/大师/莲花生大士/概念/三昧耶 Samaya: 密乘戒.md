@@ -3,7 +3,7 @@ id: padmasambhava-samaya
 title: "三昧耶 Samaya: 密乘戒"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [samaya, tantric-vows, Vajrayana]
 ---
 # 三昧耶 / Samaya / Tantric Commitments

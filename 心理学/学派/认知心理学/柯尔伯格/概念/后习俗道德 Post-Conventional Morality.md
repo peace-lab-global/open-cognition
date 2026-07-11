@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kohlberg.post-conventional
+id: 心理学.cognitive.kohlberg.post-conventional
 title: 后习俗道德 Post-Conventional Morality
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 tags: [后习俗, 自主道德, 普遍原则, 社会契约, 道德自律, post-conventional, autonomous-morality, universal-principles, social-contract, moral-autonomy]
@@ -61,11 +61,11 @@ In the Heinz dilemma, Stage 6 reasoning might be: "Human dignity and the value o
 
 大量纵向研究表明，后习俗道德在经验上相当稀少。Rest的DIT测验研究估计：
 
-Extensive longitudinal research indicates that post-conventional morality is empirically quite rare. Rest's DIT research estimates:
+Extensive longitudinal 研究 indicates that post-conventional morality is empirically quite rare. Rest's DIT 研究 estimates:
 
 - 大多数成年人（约70%）停留在习俗水平（阶段3-4）/ Most adults (approximately 70%) remain at the conventional level (Stages 3–4)
 - 达到阶段5的人口比例约为15-20%，主要集中于受过高等教育的人群 / The proportion reaching Stage 5 is approximately 15–20%, concentrated mainly among highly educated populations
-- 阶段6在经验研究中极为罕见，以至于柯尔伯格在后期将其从评分系统中移除 / Stage 6 is so rare in empirical research that Kohlberg removed it from the scoring system in later years
+- 阶段6在经验研究中极为罕见，以至于柯尔伯格在后期将其从评分系统中移除 / Stage 6 is so rare in empirical 研究 that Kohlberg removed it from the scoring system in later years
 - 后习俗推理在哲学、法学、政治学等专业领域的高学历人群中比例最高 / Post-conventional reasoning is most prevalent among highly educated individuals in professional fields such as philosophy, law, and political science
 
 ## 发展脉络 / Historical Development
@@ -100,7 +100,7 @@ After Kohlberg's death, the "Neo-Kohlbergian approach" developed by Rest and oth
 Research shows that university education — especially graduate education in philosophy, law, and medicine — effectively promotes students' post-conventional moral reasoning development. This development occurs primarily through:
 
 - **接触多元价值观**：大学环境暴露学生于不同的文化和道德视角 / Exposure to diverse values: university environment exposes students to different cultural and moral perspectives
-- **批判性思维训练**：哲学和法学教育培养分析道德论证的能力 / Critical thinking training: philosophy and legal education cultivate the ability to analyze moral arguments
+- **批判性思维训练**：哲学和法学教育培养分析道德论证的能力 / Critical thinking training: 哲学 and legal education cultivate the ability to analyze moral arguments
 - **专业伦理教育**：医学伦理、商业伦理等专业课程提供结构化的道德反思机会 / Professional ethics education: medical ethics, business ethics, and other professional courses provide structured moral reflection opportunities
 - **同伴讨论**：与不同背景的同学讨论道德问题促进认知冲突 / Peer discussion: discussing moral issues with peers from different backgrounds promotes cognitive conflict
 

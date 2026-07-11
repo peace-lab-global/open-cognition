@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.nagel
+id: 哲学.analytic.nagel
 title: 内格尔 · Thomas Nagel
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1937

@@ -3,7 +3,7 @@ id: yosai-kissa-yojoki
 title: "吃茶养生记 Kissa Yojoki: 荣西的茶道医学经典"
 type: concept
 parent: yosai
-domain: religion
+domain: 宗教
 tags: [吃茶养生记, Kissa Yojoki, 茶道, 养生, 茶医学, 末法思想]
 ---
 
@@ -140,7 +140,7 @@ These two values are not separate but unified: bodily health supports practice, 
 Yōsai's claims from eight centuries ago find interesting echoes in contemporary science:
 
 - **茶多酚与抗氧化**：现代研究证实绿茶中的茶多酚（特别是EGCG——表没食子儿茶素没食子酸酯）具有强大的抗氧化活性，能保护细胞免受自由基损伤。
-  Tea polyphenols and antioxidants: modern research confirms that tea polyphenols in green tea (especially EGCG — epigallocatechin gallate) possess powerful antioxidant activity, protecting cells from free radical damage.
+  Tea polyphenols and antioxidants: modern 研究 confirms that tea polyphenols in green tea (especially EGCG — epigallocatechin gallate) possess powerful antioxidant activity, protecting cells from free radical damage.
 
 - **L-茶氨酸与注意力**：绿茶中的L-茶氨酸能促进α脑波产生，有助于放松而不昏沉——与荣西所说的"清心安神"高度吻合。
   L-theanine and attention: L-theanine in green tea promotes alpha brain wave production, facilitating relaxation without drowsiness — closely matching Yōsai's "clearing the heart and calming the spirit."

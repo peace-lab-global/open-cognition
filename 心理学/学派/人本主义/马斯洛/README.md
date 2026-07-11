@@ -1,8 +1,8 @@
 ---
-id: psychology.humanistic.maslow
+id: 心理学.humanistic.maslow
 title: "马斯洛 · Abraham Maslow"
 type: thinker
-domain: psychology
+domain: 心理学
 school: humanistic
 era: modern
 birth: 1908
@@ -15,11 +15,11 @@ sources:
   - "The Psychology of Science (1966)"
   - "The Farther Reaches of Human Nature (1971)"
 cross_refs:
-  - psychology.humanistic.rogers
-  - psychology.positive.seligman
-  - psychology.positive.csikszentmihalyi
-  - psychology.individual.adler
-  - philosophy.schools.eastern.laozi
+  - 心理学.humanistic.rogers
+  - 心理学.positive.seligman
+  - 心理学.positive.csikszentmihalyi
+  - 心理学.individual.adler
+  - 哲学.schools.eastern.laozi
 sub_entries:
   - concepts/hierarchy-of-needs
   - concepts/self-actualization
@@ -49,7 +49,7 @@ Abraham Harold Maslow (April 1, 1908 – June 8, 1970) was an American psycholog
 
 马斯洛出生于纽约布鲁克林一个俄国犹太移民家庭，是七个孩子中的长子。他在威斯康星大学获得心理学博士学位，师从哈里·哈洛（Harry Harlow）进行灵长类动物行为研究。1937年起任教于布鲁克林学院，1951年转至布兰迪斯大学。晚年曾在加利福尼亚的索尔克研究所（Salk Institute）驻留研究。1970年因心脏病去世，享年62岁。
 
-Born in Brooklyn, New York, to Russian-Jewish immigrant parents, Maslow was the eldest of seven children. He earned his Ph.D. in psychology from the University of Wisconsin under Harry Harlow, studying primate dominance behavior. He taught at Brooklyn College from 1937, moved to Brandeis University in 1951, and spent his final years at the Salk Institute in California. He died of a heart attack in 1970 at age 62.
+Born in Brooklyn, New York, to Russian-Jewish immigrant parents, Maslow was the eldest of seven children. He earned his Ph.D. in 心理学 from the University of Wisconsin under Harry Harlow, studying primate dominance behavior. He taught at Brooklyn College from 1937, moved to Brandeis University in 1951, and spent his final years at the Salk Institute in California. He died of a heart attack in 1970 at age 62.
 
 ---
 
@@ -83,7 +83,7 @@ Deficiency-motivation (D-motivation) arises from lack — we act because we lack
 
 马斯洛认为精神分析过于关注病态，行为主义过于机械化，两者都忽略了人的主体性、创造性与意义追求。他主张建立一种"以健康人为研究对象、以人的充分发展为终极目标"的心理学，并用严谨的科学方法来研究价值、意义与超越性体验。
 
-Maslow argued that psychoanalysis focused too much on pathology and behaviorism was too mechanistic — both neglecting human agency, creativity, and the search for meaning. He advocated for a psychology that studies healthy individuals and aims at the fullest development of human potential, while employing rigorous scientific methods to investigate values, meaning, and transcendent experiences.
+Maslow argued that psychoanalysis focused too much on pathology and behaviorism was too mechanistic — both neglecting human agency, creativity, and the search for meaning. He advocated for a 心理学 that studies healthy individuals and aims at the fullest development of human potential, while employing rigorous scientific methods to investigate values, meaning, and transcendent experiences.
 
 ### 6. 自我超越是需求层次的最终顶点 / Self-Transcendence Is the Ultimate Apex of the Need Hierarchy
 
@@ -105,13 +105,13 @@ At the University of Wisconsin's Harlow Lab, Maslow studied dominance and sexual
 
 二战的创伤深刻影响了马斯洛。他目睹了人类的暴行，同时也看到了英雄主义与利他行为，这激发了他对"人的最好可能性"的思考。1954年出版《动机与人格》，系统提出需求层次理论与自我实现概念。他与卡尔·罗杰斯（Carl Rogers）、罗洛·梅（Rollo May）等共同推动人本主义心理学运动，创立《人本主义心理学杂志》（Journal of Humanistic Psychology, 1961）。
 
-The trauma of World War II profoundly shaped Maslow. Witnessing both human cruelty and acts of heroism and altruism ignited his inquiry into "the best possibilities of human nature." In 1954 he published *Motivation and Personality*, systematically presenting the hierarchy of needs and self-actualization. Together with Carl Rogers, Rollo May, and others, he launched the humanistic psychology movement and co-founded the *Journal of Humanistic Psychology* (1961).
+The trauma of World War II profoundly shaped Maslow. Witnessing both human cruelty and acts of heroism and altruism ignited his inquiry into "the best possibilities of human nature." In 1954 he published *Motivation and Personality*, systematically presenting the hierarchy of needs and self-actualization. Together with Carl Rogers, Rollo May, and others, he launched the humanistic 心理学 movement and co-founded the *Journal of Humanistic Psychology* (1961).
 
 ### 第三阶段：存在心理学与超越转向（1960s–1970）/ Phase 3: Psychology of Being and the Transcendence Turn
 
 1962年出版《存在心理学探索》，将研究焦点从动机理论扩展到存在性价值（Being-values）、高峰体验、元动机（metamotivation）等概念。他开始系统整合东方哲学（道家、禅宗）与西方心理学的洞见。晚期提出自我超越概念，与斯坦尼斯拉夫·格罗夫（Stanislav Grof）等人共同推动超个人心理学的发展。1970年去世前正在撰写关于"人性更高境界"的著作，后由其遗孀编辑出版为《人性能达的境界》（The Farther Reaches of Human Nature, 1971）。
 
-In 1962 he published *Toward a Psychology of Being*, expanding his focus from motivation theory to Being-values, peak experiences, and metamotivation. He began systematically integrating Eastern philosophy (Daoism, Zen) with Western psychology. In his later years he proposed the concept of self-transcendence and, with Stanislav Grof and others, helped launch transpersonal psychology. Before his death in 1970, he was working on a book about "the farther reaches of human nature," which was posthumously edited and published by his widow in 1971.
+In 1962 he published *Toward a Psychology of Being*, expanding his focus from motivation theory to Being-values, peak experiences, and metamotivation. He began systematically integrating Eastern 哲学 (Daoism, Zen) with Western 心理学. In his later years he proposed the concept of self-transcendence and, with Stanislav Grof and others, helped launch transpersonal 心理学. Before his death in 1970, he was working on a book about "the farther reaches of human nature," which was posthumously edited and published by his widow in 1971.
 
 ---
 
@@ -193,7 +193,7 @@ Self-actualization is about becoming one's true self, about realizing potential 
 **❌ 误读4 / Misreading 4：** "需求层次理论是普世适用的。"
 **✅ 澄清 / Clarification：** 跨文化研究持续质疑该理论在不同文化背景下的适用性。在集体主义文化中（如东亚、非洲），归属和关系需求可能优先于个人尊重和自我实现需求。Hofstede（1984）的文化维度研究和近年来的进化心理学研究（Kenrick et al., 2010）都对原始模型提出了重要修正。
 
-Cross-cultural research continues to challenge the theory's applicability across cultures. In collectivist cultures (e.g., East Asian, African), belongingness and relational needs may take precedence over individual esteem and self-actualization. Hofstede's (1984) cultural dimensions research and recent evolutionary psychology work (Kenrick et al., 2010) have proposed significant modifications.
+Cross-cultural 研究 continues to challenge the theory's applicability across cultures. In collectivist cultures (e.g., East Asian, African), belongingness and relational needs may take precedence over individual esteem and self-actualization. Hofstede's (1984) cultural dimensions 研究 and recent evolutionary 心理学 work (Kenrick et al., 2010) have proposed significant modifications.
 
 ---
 
@@ -221,13 +221,13 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **人本主义心理学 / Humanistic Psychology**：与[罗杰斯 Carl Rogers](../rogers.md)并列为"双子星"，共同奠定人本主义心理学基础。/ Co-"twins" with Rogers in founding humanistic psychology.
+- **人本主义心理学 / Humanistic Psychology**：与[罗杰斯 Carl Rogers](../rogers.md)并列为"双子星"，共同奠定人本主义心理学基础。/ Co-"twins" with Rogers in founding humanistic 心理学.
 - **个体心理学 / Individual Psychology**：继承[阿德勒 Alfred Adler](../../individual-psychology/adler.md)的社会兴趣（social interest）和目的论（teleology）传统。/ Inherits Adler's social interest and teleology.
-- **积极心理学 / Positive Psychology**：[塞利格曼 Martin Seligman](../../positive/seligman.md)的PERMA模型是自我实现研究纲领的实证科学化延续。/ Seligman's PERMA model is the empirical continuation of the self-actualization research program.
+- **积极心理学 / Positive Psychology**：[塞利格曼 Martin Seligman](../../positive/seligman.md)的PERMA模型是自我实现研究纲领的实证科学化延续。/ Seligman's PERMA model is the empirical continuation of the self-actualization 研究 program.
 - **心流理论 / Flow Theory**：[米哈里 Csikszentmihalyi](../../positive/csikszentmihalyi.md)的"心流"概念与高峰体验形成直接对话，但更强调过程中的深度沉浸。/ Csikszentmihalyi's "flow" concept directly dialogues with peak experience but emphasizes deep immersion in process.
 - **存在主义心理学 / Existential Psychology**：与[罗洛·梅 Rollo May](../may.md)就焦虑、创造性与人的存在境况展开深入对话。/ Engaged May in deep dialogue on anxiety, creativity, and the human condition.
 - **意义疗法 / Logotherapy**：与[弗兰克尔 Viktor Frankl](../../existential/frankl.md)在"意义追求作为人的基本动机"上形成共鸣。/ Resonates with Frankl on "meaning-seeking as a fundamental human motivation."
-- **东方哲学 / Eastern Philosophy**：受[老子](../../../philosophy/schools/eastern/laozi.md)、[庄子](../../../philosophy/schools/eastern/zhuangzi.md)道家思想和[禅宗](../../../religion/traditions/buddhism/zen.md)影响。/ Influenced by Daoist thought of Laozi and Zhuangzi, and Zen Buddhism.
+- **东方哲学 / Eastern Philosophy**：受[老子](../../../哲学/学派/东方哲学/老子.md)、[庄子](../../../哲学/学派/东方哲学/庄子.md)道家思想和[禅宗](../../../宗教/传统/佛教/禅宗.md)影响。/ Influenced by Daoist thought of Laozi and Zhuangzi, and Zen Buddhism.
 - **管理学 / Management Studies**：麦格雷戈（McGregor）的X/Y理论和后续的Z理论均受马斯洛需求层次启发。/ McGregor's Theory X/Y and subsequent Theory Z were inspired by Maslow's hierarchy.
 
 ---

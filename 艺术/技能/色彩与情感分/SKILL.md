@@ -1,11 +1,11 @@
 ---
 name: color-emotion-analysis
 description: Triggers on requests to 色彩与情感、艺术表达、视觉心理，如艺术创作、设计、心理分析等。Apply this skill to analyze the relationship between color and emotion using Van Gogh's approach, understanding how color can express inner states.
-domain: arts
+domain: 艺术
 linked_thinker: ../../schools/visual-arts/van-gogh.md
 linked_concepts:
-  - ../../arts/concepts/color-emotion.md
-  - ../../arts/concepts/truth.md
+  - ../../艺术/概念/color-emotion.md
+  - ../../艺术/概念/truth.md
 tags:
   - 色彩与情感
   - 艺术表达
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[文森特·梵高](../../schools/visual-arts/van-gogh.md)
 - 概念：[色彩与情感](../../concepts/color-emotion.md)、[真实](../../concepts/truth.md)
-- 相关 Skill：[suffering-art-analysis](./suffering-art-analysis/SKILL.md)、[human-nature-analysis](../../literature/skills/human-nature-analysis/SKILL.md)
+- 相关 Skill：[suffering-art-analysis](./suffering-art-analysis/SKILL.md)、[human-nature-analysis](../../文学/技能/人性洞察分析/SKILL.md)

@@ -1,7 +1,7 @@
 ---
 name: diamond-sutra-no-dwelling
 description: 金刚经"无住"心法用于破除"心有所执"——不是否定现象，是不应住相；应无所住而生其心。Triggers on 当事人执著于"必须得到什么"、焦虑于"失去什么"、或陷入"如梦幻泡影"的虚无主义场景。
-domain: religion
+domain: 宗教
 school: buddhism-prajna
 linked_concepts:
   - ../../diamond-sutra-non-attachment.md

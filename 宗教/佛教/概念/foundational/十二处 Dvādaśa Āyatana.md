@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.twelve-ayatana
+id: 宗教.buddhism.concept.twelve-ayatana
 title: 十二处 Dvādaśa Āyatana
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-fundamental
 era: ancient
 tags: [十二处, 十二入, 六处, 认识论, 阿毗达磨]

@@ -1,7 +1,7 @@
 ---
 name: scriptural-hermeneutics
 description: Triggers when a user cites a religious text to win an argument, takes a verse out of historical context, or treats translated scripture as transparent literal command. Apply this skill to slow the reading down through layered hermeneutic moves before any interpretive claim is asserted.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../traditions/judaism/covenant.md
   - ../../traditions/christianity/grace-redemption.md
@@ -110,4 +110,4 @@ tags:
 ## 关联条目
 
 - 概念：[律法与盟约](../../traditions/judaism/covenant.md)、[恩典与救赎](../../traditions/christianity/grace-redemption.md)、[五功](../../traditions/islam/five-pillars.md)
-- 相关 Skill：[语言游戏分析](../../../philosophy/skills/language-game-analysis/SKILL.md)、[辩证法分析](../../../philosophy/skills/dialectical-analysis/SKILL.md)
+- 相关 Skill：[语言游戏分析](../../../哲学/技能/语言游戏分析/SKILL.md)、[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)

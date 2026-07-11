@@ -3,7 +3,7 @@ id: aryadeva-merit-wisdom
 title: "福德与智慧 Merit and Wisdom"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [merit, wisdom, two-accumulations]
 ---
 # 福德与智慧

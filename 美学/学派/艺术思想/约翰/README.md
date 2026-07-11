@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.cage
+id: 美学.arts-thought.cage
 title: 约翰·凯奇 John Cage
 type: thinker
-domain: aesthetics
+domain: 美学
 school: arts-thought
 era: contemporary
 birth: 1912
@@ -14,9 +14,9 @@ sources:
   - "Cage, A Year from Monday (1967)"
   - "David Revill, The Roaring Silence (1992)"
 cross-refs:
-  - aesthetics.pragmatist-aesthetics.dewey-aesthetics
-  - aesthetics.arts-thought.eisenstein
-  - aesthetics.nietzschean-aesthetics.nietzsche-aesthetics
+  - 美学.pragmatist-aesthetics.dewey-aesthetics
+  - 美学.arts-thought.eisenstein
+  - 美学.nietzschean-aesthetics.nietzsche-aesthetics
 sub-entries:
   - concepts/silence-as-music
   - concepts/chance-operations
@@ -197,7 +197,7 @@ Cage's Black Mountain College teaching influenced contemporary experimental educ
 - **《易经》**：凯奇将《易经》的占卜系统发展为创作工具——用64卦的随机选择来替代主观意志
 - **印度哲学**：凯奇也吸收了印度美学中"rasa"（情味）的概念
 
-Cage was the 20th-century Western artist most deeply absorbing Eastern thought: Zen Buddhism (Suzuki's teachings directly shaped his aesthetics); Taoism ("wu-wei" resonates with "non-intention"); I Ching (divination system developed as creative tool); Indian philosophy (rasa concept absorption).
+Cage was the 20th-century Western artist most deeply absorbing Eastern thought: Zen Buddhism (Suzuki's teachings directly shaped his 美学); Taoism ("wu-wei" resonates with "non-intention"); I Ching (divination system developed as creative tool); Indian 哲学 (rasa concept absorption).
 
 ---
 

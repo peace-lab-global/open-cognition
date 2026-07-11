@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.upaya
+id: 宗教.buddhism.concept.upaya
 title: 方便 Upāya
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [方便, 善巧, 权实, 法华经, 大乘方法论]

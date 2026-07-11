@@ -3,7 +3,7 @@ id: bodhidharma-jiejiao-wuzong
 title: "藉教悟宗 Jiejiao Wuzong: 经典与觉悟的关系"
 type: concept
 parent: bodhidharma
-domain: religion
+domain: 宗教
 tags: [scriptures, awakening, Chan, Lankavatara, teaching]
 ---
 

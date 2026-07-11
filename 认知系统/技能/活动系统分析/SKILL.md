@@ -1,7 +1,7 @@
 ---
 name: activity-system-analysis
 description: 用活动理论的三角形模型分析人-工具-目标-规则-共同体-分工的完整活动系统，基于 Engeström 的扩展活动理论。Triggers on requests to analyze organizational activities, understand systemic contradictions, or design interventions in work systems.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/distributed/engestrom.md
 linked_concepts:
   - ../../concepts/activity-theory.md

@@ -1,8 +1,8 @@
 ---
-id: aesthetics.german-aesthetics.hegel-aesthetics
+id: 美学.german-aesthetics.hegel-aesthetics
 title: 格奥尔格·威廉·弗里德里希·黑格尔（美学） G.W.F. Hegel (Aesthetics)
 type: thinker
-domain: aesthetics
+domain: 美学
 school: german-aesthetics
 era: modern
 birth: 1770
@@ -15,10 +15,10 @@ sources:
   - "Encyclopedia of the Philosophical Sciences (1817)"
   - "Science of Logic (1812-1816)"
 cross-refs:
-  - aesthetics.german-aesthetics.kant-aesthetics
-  - aesthetics.critical-aesthetics.adorno
-  - aesthetics.nietzschean-aesthetics.nietzsche-aesthetics
-  - aesthetics.literary-theory.bakhtin
+  - 美学.german-aesthetics.kant-aesthetics
+  - 美学.critical-aesthetics.adorno
+  - 美学.nietzschean-aesthetics.nietzsche-aesthetics
+  - 美学.literary-theory.bakhtin
 sub-entries:
   - concepts/art-as-sensuous-idea
   - concepts/end-of-art
@@ -43,7 +43,7 @@ sub-entries:
 
 格奥尔格·威廉·弗里德里希·黑格尔（G.W.F. Hegel, 1770–1831）是德国观念论哲学的集大成者，他的辩证法体系对后世思想产生了无与伦比的影响。在美学领域，黑格尔的《美学讲演录》（由学生Hotho根据其1820s-1830s在海德堡和柏林的讲演整理出版，1835）是西方美学史上最宏大的艺术哲学体系。黑格尔将美定义为"理念的感性显现"，建立了从象征型艺术到古典型艺术再到浪漫型艺术的历史辩证发展模型，并提出了影响深远的"艺术终结"命题——艺术在精神发展的更高阶段将让位于哲学。
 
-Georg Wilhelm Friedrich Hegel (1770–1831) was the crowning figure of German idealist philosophy, whose dialectical system exerted unparalleled influence on subsequent thought. In aesthetics, Hegel's *Lectures on Aesthetics* (compiled by his student Hotho from lectures given in Heidelberg and Berlin in the 1820s-30s, published 1835) represents the most ambitious philosophy of art in Western aesthetic history. Hegel defined beauty as "the sensuous manifestation of the Idea," established a dialectical-historical model of art development from symbolic through classical to romantic forms, and advanced the profoundly influential "end of art" thesis — that art will be superseded by philosophy at higher stages of spirit's development.
+Georg Wilhelm Friedrich Hegel (1770–1831) was the crowning figure of German idealist philosophy, whose dialectical system exerted unparalleled influence on subsequent thought. In aesthetics, Hegel's *Lectures on Aesthetics* (compiled by his student Hotho from lectures given in Heidelberg and Berlin in the 1820s-30s, published 1835) represents the most ambitious 哲学 of art in Western aesthetic history. Hegel defined beauty as "the sensuous manifestation of the Idea," established a dialectical-historical model of art development from symbolic through classical to romantic forms, and advanced the profoundly influential "end of art" thesis — that art will be superseded by 哲学 at higher stages of spirit's development.
 
 ---
 
@@ -59,15 +59,15 @@ Art develops through three stages: Symbolic art (the Idea has not yet found adeq
 
 ### 3. 艺术终结论 / The End of Art Thesis
 "艺术对于我们不再是真理的最高方式"——这不是说艺术将消亡，而是说艺术在精神自我认识的进程中不再是最高阶段。当精神需要更充分的自我表达时，它将超越艺术的感性形式，转向宗教和哲学。
-"Art is no longer the highest mode of truth for us" — this does not mean art will perish, but that art is no longer the highest stage in spirit's self-knowledge. When spirit requires fuller self-expression, it transcends art's sensuous form for religion and philosophy.
+"Art is no longer the highest mode of truth for us" — this does not mean art will perish, but that art is no longer the highest stage in spirit's self-knowledge. When spirit requires fuller self-expression, it transcends art's sensuous form for 宗教 and 哲学.
 
 ### 4. 艺术作为绝对精神 / Art as Absolute Spirit
 艺术与宗教、哲学同属于"绝对精神"领域——它们都是精神对自身的认识。艺术是绝对精神的最初阶段（感性直观），宗教是中间阶段（表象），哲学是最高阶段（概念）。三者构成精神自我认识的完整阶梯。
-Art, along with religion and philosophy, belongs to the domain of "Absolute Spirit" — all are forms of spirit's self-knowledge. Art is the initial stage (sensuous intuition), religion the intermediate stage (representation), and philosophy the highest stage (concept). Together they constitute the complete ladder of spirit's self-knowledge.
+Art, along with 宗教 and philosophy, belongs to the domain of "Absolute Spirit" — all are forms of spirit's self-knowledge. Art is the initial stage (sensuous intuition), 宗教 the intermediate stage (representation), and 哲学 the highest stage (concept). Together they constitute the complete ladder of spirit's self-knowledge.
 
 ### 5. 艺术体系的分类 / System of the Arts
 黑格尔按照物质性与精神性的比例对各门艺术进行系统分类：建筑（物质最重）→雕塑→绘画→音乐→诗歌（精神最重）。每种艺术形式在精神自我表达的历史进程中占据特定的辩证位置。
-Hegel systematically classifies the arts according to the ratio of materiality to spirituality: Architecture (heaviest in matter) → Sculpture → Painting → Music → Poetry (lightest in matter). Each art form occupies a specific dialectical position in the historical process of spirit's self-expression.
+Hegel systematically classifies the 艺术 according to the ratio of materiality to spirituality: Architecture (heaviest in matter) → Sculpture → Painting → Music → Poetry (lightest in matter). Each art form occupies a specific dialectical position in the historical process of spirit's self-expression.
 
 ### 6. 内容与形式的辩证统一 / Dialectical Unity of Content and Form
 真正的艺术作品实现了内容（理念）与形式（感性显现）的辩证统一。古典艺术达到了这一统一的巅峰，而浪漫艺术则打破了这种统一——精神内容溢出并超越了任何感性形式。
@@ -81,19 +81,19 @@ True artworks achieve a dialectical unity of content (the Idea) and form (sensuo
 黑格尔出生于斯图加特，在图宾根大学与荷尔德林、谢林同窗。早期关注宗教和古希腊文化，形成了对"分裂"和"和解"的辩证思维雏形。
 
 **Early Period (1770–1800): Tübingen and Young Hegel**
-Born in Stuttgart, Hegel studied at Tübingen alongside Hölderlin and Schelling. His early concerns with religion and ancient Greek culture formed the embryonic dialectical thinking of "division" and "reconciliation."
+Born in Stuttgart, Hegel studied at Tübingen alongside Hölderlin and Schelling. His early concerns with 宗教 and ancient Greek culture formed the embryonic dialectical thinking of "division" and "reconciliation."
 
 ### 中期（1800–1818）：精神现象学与逻辑学
 从耶拿到纽伦堡，黑格尔完成了《精神现象学》（1807）和《逻辑学》（1812-1816），建构了以辩证法为核心的哲学体系。在海德堡时期出版《哲学百科全书》（1817），美学在其中作为绝对精神的第一环节被正式纳入体系。
 
 **Middle Period (1800–1818): Phenomenology and Logic**
-From Jena to Nuremberg, Hegel completed the *Phenomenology of Spirit* (1807) and *Science of Logic* (1812-1816), constructing a philosophical system centered on dialectics. During his Heidelberg period he published the *Encyclopedia of the Philosophical Sciences* (1817), formally integrating aesthetics as the first moment of Absolute Spirit.
+From Jena to Nuremberg, Hegel completed the *Phenomenology of Spirit* (1807) and *Science of Logic* (1812-1816), constructing a philosophical system centered on dialectics. During his Heidelberg period he published the *Encyclopedia of the Philosophical Sciences* (1817), formally integrating 美学 as the first moment of Absolute Spirit.
 
 ### 晚期（1818–1831）：柏林讲学与美学讲演
 1818年黑格尔被任命为柏林大学教授，在此讲授美学多次。他的美学讲演融合了对具体艺术作品的深入分析和宏大的历史哲学视野。1831年黑格尔因霍乱去世，其美学讲演由学生 Hotho 于1835年整理出版。
 
 **Late Period (1818–1831): Berlin Professorship and Aesthetics Lectures**
-In 1818 Hegel was appointed professor at Berlin University, where he lectured on aesthetics multiple times. His aesthetics lectures combined close analysis of specific artworks with grand historico-philosophical vision. Hegel died of cholera in 1831; his aesthetics lectures were compiled by his student Hotho and published in 1835.
+In 1818 Hegel was appointed professor at Berlin University, where he lectured on 美学 multiple times. His 美学 lectures combined close analysis of specific artworks with grand historico-philosophical vision. Hegel died of cholera in 1831; his 美学 lectures were compiled by his student Hotho and published in 1835.
 
 ---
 

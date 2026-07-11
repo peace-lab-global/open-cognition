@@ -41,9 +41,9 @@
 
 | 新条目 | 领域 | 清除悬链 | 关键桥接 |
 |---|---|:---:|---|
-| [正念 · Mindfulness](../../psychology/concepts/mindfulness.md) | psychology | 5 | religion↔psychology、MBSR↔佛教 |
-| [建构主义 · Constructivism](../../psychology/concepts/constructivism.md) | psychology | 5 | philosophy（piaget/dewey/rousseau）↔religion（楞伽经） |
-| [注意与觉知 · Sati-Sampajañña](../../religion/buddhism/concepts/attention-awareness.md) | religion | 3 | 佛教禅修↔认知科学注意网络 |
+| [正念 · Mindfulness](../../心理学/概念/正念.md) | 心理学 | 5 | religion↔psychology、MBSR↔佛教 |
+| [建构主义 · Constructivism](../../心理学/概念/建构主义.md) | 心理学 | 5 | philosophy（piaget/dewey/rousseau）↔religion（楞伽经） |
+| [注意与觉知 · Sati-Sampajañña](../../宗教/佛教/概念/注意与觉知.md) | 宗教 | 3 | 佛教禅修↔认知科学注意网络 |
 
 同时将 10 条指向旧路径的入边重定向到这 3 个规范文件，确保链接连通。
 
@@ -69,7 +69,7 @@
 
 ## 残留项
 
-- **20 个矩阵零值**仍存——多数是 arts/cognitive-systems 与其他领域的弱关联。这些需要更深的内容工作（如撰写"计算美学""工程伦理"等真正的交叉条目），不宜靠补链强行连通。
+- **20 个矩阵零值**仍存——多数是 艺术/cognitive-systems 与其他领域的弱关联。这些需要更深的内容工作（如撰写"计算美学""工程伦理"等真正的交叉条目），不宜靠补链强行连通。
 - **12 个美学孤儿**——主要是诗人/文学家（李白、鲁米、鲁迅、泰戈尔等）。这些需要文学领域条目主动引用，属于后续内容创作工作。
 - **197 条 W006**——剩余未撰写概念，见 [content-backlog 报告](./2026-06-22-content-backlog.md)。
 

@@ -1,8 +1,8 @@
 ---
-id: literature.novelists.cervantes
+id: 文学.novelists.cervantes
 title: 塞万提斯 · Miguel de Cervantes
 type: thinker
-domain: literature
+domain: 文学
 school: novelists
 era: renaissance-baroque
 birth: 1547

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.pancavidya
+id: 宗教.buddhism.core.pancavidya
 title: 五明 Pañcavidyā
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [五明, 内明, 因明, 声明, 医方明, 工巧明]
@@ -90,8 +90,8 @@ sources: [《瑜伽师地论》, 《大乘庄严经论》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 百科全书式学问](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 五明 vs 希腊博学传统
-- [中世纪大学 · 七艺](../../../philosophy/schools/medieval-scholastic/aquinas.md) — [平行] 五明 vs 七艺
+- [亚里士多德 · 百科全书式学问](../../../哲学/学派/古希腊/亚里士多德.md) — [平行] 五明 vs 希腊博学传统
+- [中世纪大学 · 七艺](../../../哲学/学派/中世纪经院/托马斯.md) — [平行] 五明 vs 七艺
 
 ## 进阶阅读
 

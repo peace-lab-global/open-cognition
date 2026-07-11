@@ -3,7 +3,7 @@ id: bodhidharma-jixin-shifo
 title: "即心是佛 Jixin Shifo: 众生本具佛性"
 type: concept
 parent: bodhidharma
-domain: religion
+domain: 宗教
 tags: [buddha-nature, mind-is-buddha, Tathagatagarbha, Chan]
 ---
 

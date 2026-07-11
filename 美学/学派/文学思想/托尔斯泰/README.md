@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-thought.tolstoy
+id: 美学.literary-thought.tolstoy
 title: 托尔斯泰 · Leo Tolstoy
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: modern
 birth: 1828

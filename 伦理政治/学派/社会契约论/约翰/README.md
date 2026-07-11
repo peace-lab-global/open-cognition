@@ -2,7 +2,7 @@
 id: locke
 title: "约翰·洛克 · John Locke"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: social-contract
 era: early-modern
 birth: 1632
@@ -75,7 +75,7 @@ John Locke (29 August 1632 – 28 October 1704) was an English philosopher, poli
 
 洛克于1652年进入牛津大学基督教堂学院（Christ Church, Oxford），先后学习亚里士多德经院哲学和新兴的自然科学，1656年获学士学位，1658年获硕士学位。在牛津期间，他结识了罗伯特·波义耳（Robert Boyle）和罗伯特·胡克（Robert Hooke）等科学家，深受实验方法和经验主义精神的熏陶。他还研习医学，虽未正式执业，但医学训练强化了他对观察与经验的重视。1667年，洛克成为第一代沙夫茨伯里伯爵（Earl of Shaftesbury）的家庭医生和政治顾问，由此深入英国政治的核心。此后他经历了政治动荡、流亡荷兰，最终在1688年光荣革命后返回英国，于1689年一年内出版了三部划时代著作——《政府论》、《人类理解论》和《论宗教宽容》——奠定了他在西方思想史上不可撼动的地位。
 
-Locke entered Christ Church, Oxford in 1652, studying Aristotelian scholastic philosophy alongside the emerging natural sciences. He received his BA in 1656 and MA in 1658. At Oxford he encountered Robert Boyle and Robert Hooke, absorbing the spirit of experimental method and empiricism. He also studied medicine, and though he never formally practiced, his medical training reinforced his commitment to observation and experience. In 1667, Locke became personal physician and political advisor to the first Earl of Shaftesbury, entering the heart of English politics. After political turmoil and exile in the Netherlands, he returned to England following the Glorious Revolution of 1688, publishing three epoch-making works in a single year (1689) — *Two Treatises of Government*, *An Essay Concerning Human Understanding*, and *A Letter Concerning Toleration* — securing his immovable place in the history of Western thought.
+Locke entered Christ Church, Oxford in 1652, studying Aristotelian scholastic 哲学 alongside the emerging natural sciences. He received his BA in 1656 and MA in 1658. At Oxford he encountered Robert Boyle and Robert Hooke, absorbing the spirit of experimental method and empiricism. He also studied medicine, and though he never formally practiced, his medical training reinforced his commitment to observation and experience. In 1667, Locke became personal physician and political advisor to the first Earl of Shaftesbury, entering the heart of English politics. After political turmoil and exile in the Netherlands, he returned to England following the Glorious Revolution of 1688, publishing three epoch-making works in a single year (1689) — *Two Treatises of Government*, *An Essay Concerning Human Understanding*, and *A Letter Concerning Toleration* — securing his immovable place in the history of Western thought.
 
 ## 核心命题 / Core Theses
 
@@ -121,7 +121,7 @@ Locke proposed the separation of **legislative** and **executive** powers, addin
 
 洛克的早期生涯是一个从经院哲学走向经验科学的转变过程。在牛津，他接受了标准的亚里士多德逻辑学训练，但很快被波义耳的化学实验和笛卡尔的新哲学所吸引。1660年代，他开始撰写关于自然法的论文（*Essays on the Law of Nature*, 1663–1664），在其中已显露出经验主义倾向和对道德知识基础的追问。这些论文生前未出版，但表明洛克在三十岁前后已开始构建自己的思想体系。他参与了阿什利·库珀（后来的沙夫茨伯里伯爵）的一场关键手术（1668年成功切除肝脏囊肿），由此赢得了这位重要政治人物的信任，进入了一个全新的世界——不仅是医学的，更是政治的。
 
-Locke's early career was a transition from scholastic philosophy to empirical science. At Oxford he received standard training in Aristotelian logic but was soon drawn to Boyle's chemical experiments and Descartes's new philosophy. In the 1660s he wrote his *Essays on the Law of Nature* (1663–1664), which already displayed empiricist leanings and an inquiry into the foundations of moral knowledge. Though unpublished during his lifetime, these essays show that Locke was constructing his own philosophical system by his early thirties. His successful surgical intervention on Ashley Cooper (the future Earl of Shaftesbury) in 1668 won him the trust of this pivotal political figure, opening an entirely new world — not merely medical, but political.
+Locke's early career was a transition from scholastic 哲学 to empirical science. At Oxford he received standard training in Aristotelian logic but was soon drawn to Boyle's chemical experiments and Descartes's new 哲学. In the 1660s he wrote his *Essays on the Law of Nature* (1663–1664), which already displayed empiricist leanings and an inquiry into the foundations of moral knowledge. Though unpublished during his lifetime, these essays show that Locke was constructing his own philosophical system by his early thirties. His successful surgical intervention on Ashley Cooper (the future Earl of Shaftesbury) in 1668 won him the trust of this pivotal political figure, opening an entirely new world — not merely medical, but political.
 
 ### 中期 / Middle Period (1667–1689)
 
@@ -133,7 +133,7 @@ This was the crucial period of Locke's intellectual maturation. As Shaftesbury's
 
 1689年是洛克一生的"奇迹之年"：三部著作——《政府论》、《人类理解论》和《论宗教宽容》——在同一年出版（虽然《政府论》实际在1689年末才面世）。这三部作品分别在政治哲学、认识论和宗教哲学领域产生了划时代的影响。洛克在余生中继续笔耕不辍：1693年出版《教育漫话》（*Some Thoughts Concerning Education*），系统阐述了绅士教育的理念，强调品格培养优先于知识灌输，对后世教育理论影响深远。1695年出版《基督教的合理性》（*The Reasonableness of Christianity*），试图在理性主义与正统基督教之间寻求平衡。洛克晚年居住在埃塞克斯郡的奥特斯庄园（Oates），由友人达默里斯·库德沃斯·马沙姆（Damaris Cudworth Masham）照顾，1704年10月28日在友人陪伴下安静辞世，享年七十二岁。他终身未婚，但其思想遗产深刻塑造了此后三个世纪的政治秩序和知识传统。
 
-1689 was Locke's *annus mirabilis*: three works — *Two Treatises*, *Essay Concerning Human Understanding*, and *Letter Concerning Toleration* — published in a single year (though the *Two Treatises* appeared late in 1689). These works revolutionized political philosophy, epistemology, and the philosophy of religion respectively. Locke continued writing prolifically: *Some Thoughts Concerning Education* (1693) systematically articulated a theory of gentleman's education, emphasizing character formation over rote learning and profoundly influencing subsequent educational theory. *The Reasonableness of Christianity* (1695) sought a balance between rationalism and orthodox Christianity. Locke spent his final years at Oates in Essex, cared for by his friend Damaris Cudworth Masham, and died peacefully on 28 October 1704 at the age of seventy-two. Though he never married, his intellectual legacy profoundly shaped the political order and knowledge traditions of the following three centuries.
+1689 was Locke's *annus mirabilis*: three works — *Two Treatises*, *Essay Concerning Human Understanding*, and *Letter Concerning Toleration* — published in a single year (though the *Two Treatises* appeared late in 1689). These works revolutionized political philosophy, epistemology, and the 哲学 of 宗教 respectively. Locke continued writing prolifically: *Some Thoughts Concerning Education* (1693) systematically articulated a theory of gentleman's education, emphasizing character formation over rote learning and profoundly influencing subsequent educational theory. *The Reasonableness of Christianity* (1695) sought a balance between rationalism and orthodox Christianity. Locke spent his final years at Oates in Essex, cared for by his friend Damaris Cudworth Masham, and died peacefully on 28 October 1704 at the age of seventy-two. Though he never married, his intellectual legacy profoundly shaped the political order and knowledge traditions of the following three centuries.
 
 ## 关键著作 / Key Works
 
@@ -214,8 +214,8 @@ On property, Locke's labour-appropriation theory contrasts with the Daoist view 
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **政治哲学 Political Philosophy** — [霍布斯](../hobbes/README.md) `[对话/Contrast]` 有限政府 vs 绝对主权；[卢梭](../rawls/README.md) `[对话/Development]` 从洛克的个人同意到卢梭的公意 / Limited government vs absolute sovereignty; from Locke's individual consent to Rousseau's general will
-- **认识论 Epistemology** — [休谟](../../../philosophy/schools/empiricism/hume/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../../philosophy/schools/deontology/kant/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
-- **经济学 Economics** — [斯密](../../../sociology/schools/classical/durkheim/README.md) `[平行/Parallel]` 劳动价值论的共同源头；[马克思] `[批判发展/Critical Development]` 从洛克式财产权到资本主义批判 / Shared origins of the labour theory of value; from Lockean property to the critique of capitalism
+- **认识论 Epistemology** — [休谟](../../../哲学/学派/经验主义/休谟/README.md) `[继承/Inheritance]` 经验主义的深化与怀疑论转向；[康德](../../../哲学/schools/deontology/kant/README.md) `[批判/Critique]` 先天综合判断对白板论的超越 / Deepened empiricism and the skeptical turn; Kant's synthetic a priori transcending tabula rasa
+- **经济学 Economics** — [斯密](../../../社会学/学派/古典社会学/涂尔干/README.md) `[平行/Parallel]` 劳动价值论的共同源头；[马克思] `[批判发展/Critical Development]` 从洛克式财产权到资本主义批判 / Shared origins of the labour theory of value; from Lockean property to the critique of capitalism
 - **法学 Law** — 自然法传统到法律实证主义的演变；美国宪法第五修正案（正当程序与财产保护）的洛克式根源 / Evolution from natural law tradition to legal positivism; Lockean roots of the Fifth Amendment (due process and property protection)
 - **教育学 Education** — 《教育漫话》对蒙台梭利、杜威等教育理论家的先驱性影响 / *Some Thoughts Concerning Education* as precursor to Montessori, Dewey, and other educational theorists
 

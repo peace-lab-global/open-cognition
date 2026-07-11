@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin.concepts.aura
+id: 美学.critical-aesthetics.benjamin.concepts.aura
 title: 灵韵 Aura
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.benjamin
+domain: 美学
+parent: 美学.critical-aesthetics.benjamin
 tags: [灵韵, aura, 唯一性, 仪式价值, 距离感]
 ---
 

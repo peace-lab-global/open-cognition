@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.concepts.no-mind
+id: 宗教.buddhism.masters.bodhidharma.concepts.no-mind
 title: 无心 Wuxin — No-Mind
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 tags: [无心, Wuxin, No-Mind, Mushin, 心性, 达摩禅法, Bodhidharma]
@@ -28,7 +28,7 @@ No-mind (无心, Wuxin) is one of the core concepts in Bodhidharma's Chan, refer
 
 在日语中，无心对应"無心"（mushin），后来成为武士道、茶道、书法等日本传统文化的核心心理概念。在韩语中对应"무심"（musim），在越南语中对应"vô tâm"，均为东亚精神传统的重要概念。
 
-In Japanese, no-mind corresponds to "無心" (mushin), which later became a core psychological concept in bushido, tea ceremony, calligraphy, and other Japanese traditional arts. In Korean it corresponds to "무심" (musim), in Vietnamese to "vô tâm" — all important concepts in East Asian spiritual traditions.
+In Japanese, no-mind corresponds to "無心" (mushin), which later became a core psychological concept in bushido, tea ceremony, calligraphy, and other Japanese traditional 艺术. In Korean it corresponds to "무심" (musim), in Vietnamese to "vô tâm" — all important concepts in East Asian spiritual traditions.
 
 ---
 
@@ -116,7 +116,7 @@ The concept of no-mind developed differently across subsequent Chan schools:
 
 从当代心理学角度看，无心可以与多个概念对话：
 
-From a contemporary psychology perspective, no-mind can dialogue with multiple concepts:
+From a contemporary 心理学 perspective, no-mind can dialogue with multiple concepts:
 
 **流动状态 Flow State**：心理学家米哈里·契克森米哈赖（Mihaly Csikszentmihalyi）提出的"心流"（flow）概念——完全沉浸于活动中，自我意识消失——与无心有显著的结构相似性。区别在于：心流通常发生在高度投入的活动中，而无心可以在任何状态下发生，包括完全的静止。
 
@@ -124,7 +124,7 @@ Psychologist Mihaly Csikszentmihalyi's concept of "flow" — complete immersion 
 
 **默认模式网络 Default Mode Network (DMN)**：神经科学研究表明，当 DMN 活动降低时，自我参照思维减少，这与"无心"的体验高度吻合。长期冥想者在静坐时表现出显著降低的 DMN 活动。
 
-Neuroscience research shows that when DMN activity decreases, self-referential thinking diminishes, which closely matches the experience of "no-mind." Long-term meditators exhibit significantly reduced DMN activity during seated meditation.
+Neuroscience 研究 shows that when DMN activity decreases, self-referential thinking diminishes, which closely matches the experience of "no-mind." Long-term meditators exhibit significantly reduced DMN activity during seated meditation.
 
 ---
 

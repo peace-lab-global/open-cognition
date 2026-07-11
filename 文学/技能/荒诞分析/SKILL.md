@@ -1,11 +1,11 @@
 ---
 name: absurd-analysis
 description: Triggers on requests to 荒诞、无意义、存在困境，如人生意义探索、社会批判、心理分析等。Apply this skill to analyze the absurdity of existence using Kafka's insights, understanding the gap between human expectations and reality.
-domain: literature
+domain: 文学
 linked_thinker: ../../schools/novelists/kafka.md
 linked_concepts:
-  - ../../literature/concepts/absurd.md
-  - ../../literature/concepts/alienation.md
+  - ../../文学/概念/absurd.md
+  - ../../文学/概念/alienation.md
 tags:
   - 荒诞
   - 无意义
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[弗兰茨·卡夫卡](../../schools/novelists/kafka.md)
 - 概念：[荒诞](../../concepts/absurd.md)、[异化](../../concepts/alienation.md)
-- 相关 Skill：[existentialism-analysis](../../philosophy/skills/existentialism-analysis/SKILL.md)、[discipline-analysis](../../sociology/skills/discipline-analysis/SKILL.md)
+- 相关 Skill：[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)、[discipline-analysis](../../社会学/技能/规训分析/SKILL.md)

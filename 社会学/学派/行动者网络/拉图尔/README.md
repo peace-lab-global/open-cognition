@@ -1,8 +1,8 @@
 ---
-id: sociology.actor-network.latour
+id: 社会学.actor-network.latour
 title: 拉图尔 · Bruno Latour
 type: thinker
-domain: sociology
+domain: 社会学
 school: actor-network
 era: 20th-21st century
 birth: 1947

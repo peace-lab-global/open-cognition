@@ -2,7 +2,7 @@
 id: descartes
 title: 勒内·笛卡尔 · René Descartes
 type: thinker
-domain: philosophy
+domain: 哲学
 school: rationalism
 era: early-modern
 birth: 1596
@@ -61,7 +61,7 @@ sub-entries:
 
 勒内·笛卡尔（1596年3月31日–1650年2月11日），法国哲学家、数学家、物理学家，被广泛尊称为"近代哲学之父"（Pater Philosophiae Modernae）。他是大陆理性主义传统的奠基者，也是解析几何的创立者，在哲学史和科学史上均留下了不可磨灭的印记。
 
-René Descartes (31 March 1596 – 11 February 1650) was a French philosopher, mathematician, and physicist, widely regarded as the "father of modern philosophy." He founded the continental rationalist tradition and invented analytic geometry, leaving an indelible mark on both the history of philosophy and the history of science.
+René Descartes (31 March 1596 – 11 February 1650) was a French philosopher, mathematician, and physicist, widely regarded as the "father of modern 哲学." He founded the continental rationalist tradition and invented analytic geometry, leaving an indelible mark on both the history of 哲学 and the history of science.
 
 笛卡尔出生于法国图赖讷省拉艾（La Haye en Touraine，今笛卡尔镇）的一个小贵族家庭。母亲让娜·布罗沙在他出生仅数日后去世，他由外祖母和乳母抚养长大。1607年，他进入拉弗莱什（La Flèche）的亨利四世皇家耶稣会学院，在此接受了八年严格的经院哲学、拉丁文、希腊文、数学和自然科学训练。这段教育经历既赋予他深厚的学术功底，也让他对经院哲学的知识体系产生了深刻的不满——他后来在《谈谈方法》中回忆，这段求学经历让他感到"被如此多的怀疑和错误所困扰"。
 
@@ -69,7 +69,7 @@ Descartes was born in La Haye en Touraine (now Descartes), a small town in Toura
 
 1614年离开拉弗莱什后，笛卡尔在普瓦提埃大学学习法律，1616年获得法学学位。但他并未走上传统职业道路，而是选择了游历。1618年，他前往荷兰加入了莫里斯亲王的军队，在那里结识了物理学家伊萨克·贝克曼，后者激发了他对数学和自然科学的热情。1619年11月10日——这个日期被哲学史家反复铭记——笛卡尔在德国乌尔姆附近的冬季营地经历了著名的"炉边之梦"（ stove dream），据传这一天他在一个 heated room 中沉思，连续获得了三个梦境启示，确立了以理性方法重建全部知识的终身使命。
 
-After leaving La Flèche in 1614, Descartes studied law at the University of Poitiers, earning his degree in 1616. Rather than pursuing a conventional career, he chose to travel. In 1618, he went to the Netherlands and joined the army of Prince Maurice, where he met the physicist Isaac Beeckman, who ignited his passion for mathematics and natural science. On 10 November 1619 — a date seared into the history of philosophy — Descartes experienced his famous "stove dream" at a winter quarters near Ulm, Germany, where three successive visions in a heated room crystallized his lifelong mission: to rebuild all knowledge on the foundation of rational method.
+After leaving La Flèche in 1614, Descartes studied law at the University of Poitiers, earning his degree in 1616. Rather than pursuing a conventional career, he chose to travel. In 1618, he went to the Netherlands and joined the army of Prince Maurice, where he met the physicist Isaac Beeckman, who ignited his passion for mathematics and natural science. On 10 November 1619 — a date seared into the history of 哲学 — Descartes experienced his famous "stove dream" at a winter quarters near Ulm, Germany, where three successive visions in a heated room crystallized his lifelong mission: to rebuild all knowledge on the foundation of rational method.
 
 此后，笛卡尔在巴黎（1622–1628）度过了数年，结识了梅森神父（Fr. Marin Mersenne），后者成为他最重要的学术通信人和思想代理人。1628年，他着手撰写《指导心灵的规则》（未完成），初步勾勒了其方法论纲领。1629年，他移居荷兰，在那里度过了此后二十年的学术生涯——这段时期也是他最重要的哲学生产期。
 
@@ -77,7 +77,7 @@ Thereafter, Descartes spent several years in Paris (1622–1628), where he forme
 
 1633年，伽利略因日心说被教廷定罪的消息传来，笛卡尔搁置了即将出版的《世界论》（*Le Monde*），转而以更审慎的方式发表思想。1637年，他匿名出版了《谈谈方法》（*Discours de la méthode*），附有《几何学》《屈光学》《气象学》三篇科学论文。1641年，《第一哲学沉思集》（*Meditationes de Prima Philosophia*）以拉丁文在巴黎出版，附有来自阿尔诺、伽桑狄、霍布斯等人的反驳及笛卡尔的答复。1644年，《哲学原理》（*Principia Philosophiae*）问世，系统呈现了他的形而上学和物理学。1649年，他应瑞典女王克里斯蒂娜之邀前往斯德哥尔摩，在严寒中被迫凌晨五点为女王授课，于1650年2月11日因肺炎去世。
 
-In 1633, the news of Galileo's condemnation by the Inquisition caused Descartes to suppress his forthcoming *Le Monde* and adopt a more cautious approach to publication. In 1637, he anonymously published *Discours de la méthode*, accompanied by three scientific essays: *La Géométrie*, *La Dioptrique*, and *Les Météores*. In 1641, *Meditationes de Prima Philosophia* appeared in Latin in Paris, complete with objections from Arnauld, Gassendi, Hobbes, and others, and Descartes's replies. In 1644, *Principia Philosophiae* presented his metaphysics and physics systematically. In 1649, he accepted an invitation from Queen Christina of Sweden to Stockholm, where the freezing climate and the queen's insistence on 5 a.m. philosophy lessons led to pneumonia and his death on 11 February 1650.
+In 1633, the news of Galileo's condemnation by the Inquisition caused Descartes to suppress his forthcoming *Le Monde* and adopt a more cautious approach to publication. In 1637, he anonymously published *Discours de la méthode*, accompanied by three scientific essays: *La Géométrie*, *La Dioptrique*, and *Les Météores*. In 1641, *Meditationes de Prima Philosophia* appeared in Latin in Paris, complete with objections from Arnauld, Gassendi, Hobbes, and others, and Descartes's replies. In 1644, *Principia Philosophiae* presented his metaphysics and physics systematically. In 1649, he accepted an invitation from Queen Christina of Sweden to Stockholm, where the freezing climate and the queen's insistence on 5 a.m. 哲学 lessons led to pneumonia and his death on 11 February 1650.
 
 ## 核心命题 / Core Theses
 
@@ -109,7 +109,7 @@ Mind (res cogitans, thinking substance) and body (res extensa, extended substanc
 
 自然界——包括动物和人的身体——可以完全用物质的运动来解释，如同一架精密的机器。动物是"自动机"（automata），没有灵魂和意识。这一观点在当时是革命性的，它打破了亚里士多德式的"目的因"自然观，为近代科学的数学化自然观奠定了基础。
 
-Nature — including animal and human bodies — can be fully explained by the motion of matter, like a sophisticated machine. Animals are "automata," without souls or consciousness. This view was revolutionary, breaking with Aristotelian "final cause" natural philosophy and laying the groundwork for the mathematized view of nature in modern science.
+Nature — including animal and human bodies — can be fully explained by the motion of matter, like a sophisticated machine. Animals are "automata," without souls or consciousness. This view was revolutionary, breaking with Aristotelian "final cause" natural 哲学 and laying the groundwork for the mathematized view of nature in modern science.
 
 ### 6. 上帝存在的证明 · Proof of God's Existence
 
@@ -129,7 +129,7 @@ Descartes received systematic scholastic training at La Flèche, studying Aristo
 
 1637年《谈谈方法》的出版标志着笛卡尔哲学的正式登场。这部以法文（而非学术惯用的拉丁文）写成的著作，宣告了一种新哲学方法的诞生。附录中的《几何学》创立了解析几何——用代数方程表示几何图形——这一发明深刻影响了此后整个数学的发展。1641年《第一哲学沉思集》出版，以六个沉思系统地执行了方法论怀疑的程序：从怀疑感官，到梦境论证，到恶魔假说，再到"我思"的发现，然后是上帝存在的证明，最终重建物质世界和身心关系的知识。1644年《哲学原理》将整个哲学体系分为认识论、形而上学和物理学三部分，呈现了一个包罗万象的理性主义世界观。
 
-The 1637 publication of *Discourse on the Method* marked the formal debut of Cartesian philosophy. Written in French (rather than the academic Latin), it announced the birth of a new philosophical method. The appended *La Géométrie* founded analytic geometry — representing geometric figures with algebraic equations — an invention that profoundly shaped all subsequent mathematics. The 1641 *Meditations on First Philosophy* systematically executed the methodological doubt program across six meditations: from doubting the senses, through the dream argument and evil genius hypothesis, to the discovery of the cogito, the proof of God's existence, and the reconstruction of knowledge about the material world and mind-body relations. The 1644 *Principles of Philosophy* presented the complete philosophical system divided into epistemology, metaphysics, and physics.
+The 1637 publication of *Discourse on the Method* marked the formal debut of Cartesian 哲学. Written in French (rather than the academic Latin), it announced the birth of a new philosophical method. The appended *La Géométrie* founded analytic geometry — representing geometric figures with algebraic equations — an invention that profoundly shaped all subsequent mathematics. The 1641 *Meditations on First Philosophy* systematically executed the methodological doubt program across six meditations: from doubting the senses, through the dream argument and evil genius hypothesis, to the discovery of the cogito, the proof of God's existence, and the reconstruction of knowledge about the material world and mind-body relations. The 1644 *Principles of Philosophy* presented the complete philosophical system divided into epistemology, metaphysics, and physics.
 
 ### 晚期：身心难题 · Late Period: The Mind-Body Problem (1645–1650)
 
@@ -168,7 +168,7 @@ Descartes's final years were largely devoted to the thorniest problem in his sys
 
 笛卡尔在哲学史上的地位几乎无人可及。他被视为"近代哲学之父"，这并非过誉之辞，而是对其历史影响力的精确描述。在他之前，哲学的主流是经院哲学——以亚里士多德传统为基础，以神学为框架的学术体系。笛卡尔通过方法论怀疑，将整个经院哲学体系悬搁，然后从"我思"这个零点出发重新建构哲学，这一做法彻底改变了哲学的提问方式和论证标准。
 
-Descartes's position in the history of philosophy is nearly unsurpassed. He is regarded as the "father of modern philosophy" — not as hyperbole but as a precise description of his historical impact. Before him, the philosophical mainstream was scholasticism — an academic system rooted in the Aristotelian tradition and structured by theology. Through methodological doubt, Descartes suspended the entire scholastic edifice and rebuilt philosophy from the zero point of the cogito, fundamentally transforming philosophy's mode of questioning and standards of argumentation.
+Descartes's position in the history of 哲学 is nearly unsurpassed. He is regarded as the "father of modern philosophy" — not as hyperbole but as a precise description of his historical impact. Before him, the philosophical mainstream was scholasticism — an academic system rooted in the Aristotelian tradition and structured by theology. Through methodological doubt, Descartes suspended the entire scholastic edifice and rebuilt 哲学 from the zero point of the cogito, fundamentally transforming philosophy's mode of questioning and standards of argumentation.
 
 他确立了"主体性"原则——从自我意识出发建构知识体系——这一范式统治了从笛卡尔到康德的整个近代哲学。然而，他的身心二元论引发了一个无法在其自身框架内解决的难题：两种截然不同的实体如何相互作用？这个"身心交感问题"催生了至少四种重要的替代方案：
 
@@ -196,7 +196,7 @@ He established the principle of subjectivity — constructing the edifice of kno
 8. **虚拟现实哲学**：笛卡尔的"恶魔假说"在当代以"模拟假说"（Bostrom 2003）的形式复活——我们是否生活在一个计算机模拟中？
 
 1. **Cognitive Science & Consciousness Studies**: The mind-body problem resurfaces as the "Hard Problem" (Chalmers 1995). How phenomenal consciousness (qualia) arises from physical processes remains unsolved, and the philosophical framework descends directly from Descartes.
-2. **Philosophy of AI**: Debates about whether machines can "think" (Turing Test, Chinese Room) trace directly to Descartes's characterization of thinking. His language-use criterion in Part V of the *Discourse* remains an important argument in AI philosophy.
+2. **Philosophy of AI**: Debates about whether machines can "think" (Turing Test, Chinese Room) trace directly to Descartes's characterization of thinking. His language-use criterion in Part V of the *Discourse* remains an important argument in AI 哲学.
 3. **Philosophy of Mind**: Contemporary debates over functionalism, physicalism, property dualism, and panpsychism all take Descartes as their starting point.
 4. **Scientific Methodology**: Methodological doubt transforms into falsifiability (Popper) and critical thinking traditions. The analytic method — decomposing complex problems into simple parts — is a core element of modern scientific method.
 5. **Neuroethics & Animal Rights**: Questions about animal consciousness and AI subjectivity continue the Cartesian demarcation of "thinking substance."
@@ -215,7 +215,7 @@ He established the principle of subjectivity — constructing the edifice of kno
 
 笛卡尔哲学与东方思想传统之间存在丰富而复杂的对话空间。
 
-The dialogue between Cartesian philosophy and Eastern intellectual traditions is rich and complex.
+The dialogue between Cartesian 哲学 and Eastern intellectual traditions is rich and complex.
 
 **与佛教唯识学的对话**：笛卡尔的"我思"与唯识学的"阿赖耶识"（ālaya-vijñāna）之间存在有趣的平行与分歧。唯识学同样将意识分析置于哲学核心，但其"八识"体系比笛卡尔的二元框架更为精细——它将意识分为前五识（感官意识）、第六识（分别意识）、第七识（末那识，自我执著）和第八识（阿赖耶识，种子仓库）。尤其值得注意的是，唯识学否认存在一个恒常不变的"自我"（anātman），这与笛卡尔从"我思"推出"我是一个思维实体"形成了尖锐对立。佛教的"无我"论认为，笛卡尔的"我"不过是一种执著（upādāna）的产物。
 

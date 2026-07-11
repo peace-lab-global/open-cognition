@@ -1,10 +1,10 @@
 ---
 name: dual-system-analysis
 description: Triggers on requests to 双系统思维、快慢思考、认知偏差，如决策分析、思维质量提升、认知训练等。Apply this skill to help users understand and balance their fast and slow thinking systems for better decision-making.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/behavioral-economics/kahneman.md
 linked_concepts:
-  - ../../psychology/concepts/dual-process-theory.md
+  - ../../心理学/概念/dual-process-theory.md
 tags:
   - 双系统
   - 认知偏差

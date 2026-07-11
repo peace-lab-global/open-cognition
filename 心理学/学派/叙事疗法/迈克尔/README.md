@@ -2,7 +2,7 @@
 id: white
 title: "迈克尔·怀特 · Michael White"
 type: thinker
-domain: psychology
+domain: 心理学
 school: narrative-therapy
 era: contemporary
 birth: 1948
@@ -20,7 +20,7 @@ sub-entries: [narrative-therapy.md, externalization.md, re-authoring.md, post-st
 
 迈克尔·怀特（Michael White，1948年—2008年4月4日），澳大利亚社会工作者、家庭治疗师，叙事疗法（Narrative Therapy）的联合创始人（与新西兰的大卫·艾普斯顿 David Epston 合作），阿德莱德杜尔维奇中心（Dulwich Centre）创始人。他将后结构主义哲学——尤其是福柯的权力/知识理论——引入心理治疗实践，深刻改变了当代治疗领域对权力关系、身份建构和意义生产的理解。
 
-Michael White (1948 – April 4, 2008) was an Australian social worker and family therapist, co-founder (with David Epston of New Zealand) of Narrative Therapy, and founder of the Dulwich Centre in Adelaide. He introduced post-structuralist philosophy — particularly Foucault's power/knowledge theory — into psychotherapeutic practice, profoundly transforming contemporary understandings of power relations, identity construction, and meaning-making in the therapeutic field.
+Michael White (1948 – April 4, 2008) was an Australian social worker and family therapist, co-founder (with David Epston of New Zealand) of Narrative Therapy, and founder of the Dulwich Centre in Adelaide. He introduced post-structuralist 哲学 — particularly Foucault's power/knowledge theory — into psychotherapeutic practice, profoundly transforming contemporary understandings of power relations, identity construction, and meaning-making in the therapeutic field.
 
 - **出生地 / Birthplace**：澳大利亚阿德莱德 / Adelaide, South Australia
 - **国籍 / Nationality**：澳大利亚 / Australian
@@ -42,7 +42,7 @@ White's most revolutionary stance is to separate the "problem" from the person's
 
 怀特从布鲁纳（Jerome Bruner）的叙事心理学和迈尔霍夫（Barbara Myerhoff）的叙事人类学中汲取灵感，认为人并非被动地"发现"自我，而是通过讲述和组织生活经验的"故事"来主动"建构"身份。主流叙事（dominant narratives）——那些被社会文化权力所支撑的故事线——常将人"锁定"在问题化的、单薄的身份描述中。
 
-Drawing from Jerome Bruner's narrative psychology and Barbara Myerhoff's narrative anthropology, White held that people do not passively "discover" the self but actively "construct" identity through the stories they tell and organize around their lived experience. Dominant narratives — those storylines supported by sociocultural power — often "lock" people into problem-saturated, thin identity descriptions.
+Drawing from Jerome Bruner's narrative 心理学 and Barbara Myerhoff's narrative anthropology, White held that people do not passively "discover" the self but actively "construct" identity through the stories they tell and organize around their lived experience. Dominant narratives — those storylines supported by sociocultural power — often "lock" people into problem-saturated, thin identity descriptions.
 
 ### 命题三：治疗是政治性的 / Proposition 3: Therapy Is Political
 
@@ -85,7 +85,7 @@ White was born in Adelaide and trained as a social worker in South Australia. Du
 
 1980年代中期是怀特思想的关键转折期。他接触了福柯的权力/知识理论和布鲁纳的叙事心理学，这些后结构主义和建构主义的理论资源使他从根本上重新思考治疗实践的本质。1990年，他与艾普斯顿出版了里程碑式的著作《叙事疗法》（*Narrative Means to Therapeutic Ends*），系统提出了"外化对话"（externalizing conversations）、"重写"（re-authoring）和"独特结果"（unique outcomes）等核心概念。1983年创立的杜尔维奇中心成为叙事实践的国际枢纽，培训了来自世界各地的治疗师和社区工作者。叙事疗法迅速在家庭治疗、社区工作和跨文化治疗领域传播开来。
 
-The mid-1980s marked a pivotal turning point in White's intellectual development. His encounter with Foucault's power/knowledge theory and Bruner's narrative psychology — post-structuralist and constructivist theoretical resources — led him to fundamentally rethink the nature of therapeutic practice. In 1990, he and Epston published the landmark work *Narrative Means to Therapeutic Ends*, systematically proposing core concepts such as "externalizing conversations," "re-authoring," and "unique outcomes." The Dulwich Centre, founded in 1983, became the international hub for narrative practice, training therapists and community workers from around the world. Narrative therapy spread rapidly in family therapy, community work, and cross-cultural therapeutic fields.
+The mid-1980s marked a pivotal turning point in White's intellectual development. His encounter with Foucault's power/knowledge theory and Bruner's narrative 心理学 — post-structuralist and constructivist theoretical resources — led him to fundamentally rethink the nature of therapeutic practice. In 1990, he and Epston published the landmark work *Narrative Means to Therapeutic Ends*, systematically proposing core concepts such as "externalizing conversations," "re-authoring," and "unique outcomes." The Dulwich Centre, founded in 1983, became the international hub for narrative practice, training therapists and community workers from around the world. Narrative therapy spread rapidly in family therapy, community work, and cross-cultural therapeutic fields.
 
 **关键发展 / Key Developments**：
 - 系统提出外化对话技术 / Systematically developed externalizing conversation techniques
@@ -145,8 +145,8 @@ In the 21st century, White devoted himself to refining and systematizing the the
 ### 承接 / Inherited From
 
 - **福柯的权力/知识理论**：福柯对规训权力、话语建构和"正常化判断"的分析，为叙事实践提供了批判性理论基础 / Foucault's power/knowledge theory: Foucault's analysis of disciplinary power, discursive construction, and "normalizing judgment" provided the critical theoretical foundation for narrative practice
-- **布鲁纳的叙事心理学**：布鲁纳关于人通过叙事来组织和理解经验的研究，为叙事隐喻提供了心理学支撑 / Bruner's narrative psychology: Bruner's research on how people organize and understand experience through narrative provided psychological support for the narrative metaphor
-- **迈尔霍夫的叙事人类学**：迈尔霍夫对"说知"（re-membering）和定义式仪式的民族志研究，直接启发了怀特的社群治疗实践 / Myerhoff's narrative anthropology: Myerhoff's ethnographic research on "re-membering" and definitional ceremony directly inspired White's community therapeutic practice
+- **布鲁纳的叙事心理学**：布鲁纳关于人通过叙事来组织和理解经验的研究，为叙事隐喻提供了心理学支撑 / Bruner's narrative psychology: Bruner's 研究 on how people organize and understand experience through narrative provided psychological support for the narrative metaphor
+- **迈尔霍夫的叙事人类学**：迈尔霍夫对"说知"（re-membering）和定义式仪式的民族志研究，直接启发了怀特的社群治疗实践 / Myerhoff's narrative anthropology: Myerhoff's ethnographic 研究 on "re-membering" and definitional ceremony directly inspired White's community therapeutic practice
 - **系统家庭治疗传统**：米兰学派的循环提问和系统思维为怀特早期的家庭治疗实践奠定了基础 / The systemic family therapy tradition: The Milan School's circular questioning and systemic thinking laid the foundation for White's early family therapy practice
 - **建构主义与社会建构论**：格尔根（Kenneth Gergen）等人的社会建构论思想为叙事实践的哲学根基提供了支持 / Constructivism and social constructionism: The social constructionist thought of Kenneth Gergen and others supported the philosophical foundations of narrative practice
 
@@ -166,7 +166,7 @@ In the 21st century, White devoted himself to refining and systematizing the the
 
 ## 当代应用 / Contemporary Applications
 
-1. **原住民与跨文化治疗 / Indigenous and Cross-cultural Therapy**：叙事实践特别适用于非西方文化语境，因为它尊重来访者的文化知识，避免了西方心理学的文化帝国主义倾向。在澳大利亚原住民社区、加拿大第一民族和南非社区中得到了广泛应用 / Narrative practice is particularly suited to non-Western cultural contexts because it respects clients' cultural knowledge and avoids the cultural imperialism tendencies of Western psychology. It has been widely applied in Australian Indigenous communities, Canadian First Nations, and South African communities.
+1. **原住民与跨文化治疗 / Indigenous and Cross-cultural Therapy**：叙事实践特别适用于非西方文化语境，因为它尊重来访者的文化知识，避免了西方心理学的文化帝国主义倾向。在澳大利亚原住民社区、加拿大第一民族和南非社区中得到了广泛应用 / Narrative practice is particularly suited to non-Western cultural contexts because it respects clients' cultural knowledge and avoids the cultural imperialism tendencies of Western 心理学. It has been widely applied in Australian Indigenous communities, Canadian First Nations, and South African communities.
 
 2. **创伤后治疗 / Post-Trauma Therapy**：叙事实践的外化技术和重写对话为创伤幸存者提供了安全的治疗路径。通过将创伤经验外化为"创伤的影响"而非人的本质，来访者能够逐步重建自我认同 / The externalization techniques and re-authoring conversations of narrative practice provide a safe therapeutic pathway for trauma survivors. By externalizing traumatic experiences as "the effects of trauma" rather than the person's essence, clients can gradually rebuild self-identity.
 
@@ -180,12 +180,12 @@ In the 21st century, White devoted himself to refining and systematizing the the
 
 7. **叙事医学 / Narrative Medicine**：丽塔·卡伦（Rita Charon）等人发展的叙事医学运动，与叙事实践共享对患者故事和意义的关注 / The narrative medicine movement developed by Rita Charon and others shares with narrative practice an attention to patients' stories and meanings.
 
-8. **AI与叙事实践 / AI and Narrative Practice**：AI对话系统能否有效运用外化对话技术？叙事实践的"非专家立场"是否特别适合作为AI辅助心理治疗的伦理框架？这些问题正引发新的研究和讨论 / Can AI dialogue systems effectively employ externalizing conversation techniques? Is narrative practice's "not-knowing position" particularly suited as an ethical framework for AI-assisted psychotherapy? These questions are sparking new research and discussion.
+8. **AI与叙事实践 / AI and Narrative Practice**：AI对话系统能否有效运用外化对话技术？叙事实践的"非专家立场"是否特别适合作为AI辅助心理治疗的伦理框架？这些问题正引发新的研究和讨论 / Can AI dialogue systems effectively employ externalizing conversation techniques? Is narrative practice's "not-knowing position" particularly suited as an ethical framework for AI-assisted psychotherapy? These questions are sparking new 研究 and discussion.
 
 ## 常见误读 / Common Misreadings
 
 1. **❌ "叙事疗法只是一种讲故事的技巧，没有理论深度。" / "Narrative therapy is just a storytelling technique without theoretical depth."**
-   **✅ 正确理解**：叙事实践深深扎根于后结构主义哲学（福柯）、叙事心理学（布鲁纳）、叙事人类学（迈尔霍夫）和社会建构论（格尔根），拥有坚实的理论基础。外化对话和重写技术背后有精密的理论框架支撑。/ **Correct understanding**: Narrative practice is deeply rooted in post-structuralist philosophy (Foucault), narrative psychology (Bruner), narrative anthropology (Myerhoff), and social constructionism (Gergen), possessing a solid theoretical foundation. Externalizing conversations and re-authoring techniques are supported by a sophisticated theoretical framework.
+   **✅ 正确理解**：叙事实践深深扎根于后结构主义哲学（福柯）、叙事心理学（布鲁纳）、叙事人类学（迈尔霍夫）和社会建构论（格尔根），拥有坚实的理论基础。外化对话和重写技术背后有精密的理论框架支撑。/ **Correct understanding**: Narrative practice is deeply rooted in post-structuralist 哲学 (Foucault), narrative 心理学 (Bruner), narrative anthropology (Myerhoff), and social constructionism (Gergen), possessing a solid theoretical foundation. Externalizing conversations and re-authoring techniques are supported by a sophisticated theoretical framework.
 
 2. **❌ "叙事疗法不关心现实，认为一切都是叙事建构。" / "Narrative therapy doesn't care about reality, believing everything is narrative construction."**
    **✅ 正确理解**：怀特并非否认客观现实的存在，而是强调我们对现实的"理解"和"意义"是通过叙事框架来组织的。创伤、虐待和不公正是真实的，但人们对这些经验的理解和身份认同可以通过不同的叙事来重新建构。/ **Correct understanding**: White did not deny the existence of objective reality but emphasized that our "understanding" and "meaning" of reality are organized through narrative frameworks. Trauma, abuse, and injustice are real, but people's understanding of and identity around these experiences can be re-constructed through different narratives.
@@ -221,7 +221,7 @@ Zhuangzi's *Qi Wu Lun* ("Equalization of Things") deconstructs all fixed judgmen
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
 | 叙事疗法联合创始人 / Co-founder of Narrative Therapy | [艾普斯顿 David Epston](../epston/README.md) | 跨塔斯曼海的三十年合作 / Trans-Tasman collaboration spanning three decades |
-| 权力/知识分析 / Power/Knowledge Analysis | [福柯 Michel Foucault](../../../philosophy/schools/post-structuralism/foucault/README.md) | 叙事实践的核心理论资源 / Core theoretical resource for narrative practice |
+| 权力/知识分析 / Power/Knowledge Analysis | [福柯 Michel Foucault](../../../哲学/学派/后结构主义/foucault/README.md) | 叙事实践的核心理论资源 / Core theoretical resource for narrative practice |
 | 叙事心理学 / Narrative Psychology | [布鲁纳 Jerome Bruner](../../developmental/bruner/README.md) | 叙事隐喻的心理学基础 / Psychological foundation for the narrative metaphor |
 | 叙事人类学 / Narrative Anthropology | [迈尔霍夫 Barbara Myerhoff](../../anthropology/myerhoff/README.md) | 定义式仪式和"说知"概念的人类学来源 / Anthropological source for definitional ceremony and "re-membering" |
 | 合作对话实践 / Collaborative Dialogic Practice | [安德森 Harlene Anderson](../collaborative-therapy/anderson/README.md) | "不知"治疗立场的共同发展 / Co-development of the "not-knowing" therapeutic position |

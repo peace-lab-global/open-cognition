@@ -3,7 +3,7 @@ id: dharmakirti-particular-universal
 title: "自相与共相 Svalakṣaṇa-Sāmānyalakṣaṇa: 法称的二重本体论"
 type: concept
 parent: dharmakirti
-domain: religion
+domain: 宗教
 tags: [svalaksana, samanyalaksana, particular, universal, ontology, epistemology]
 ---
 

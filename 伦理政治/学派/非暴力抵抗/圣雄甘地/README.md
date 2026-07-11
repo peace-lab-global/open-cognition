@@ -1,8 +1,8 @@
 ---
-id: ethics-politics.nonviolent-resistance.gandhi
+id: 伦理政治.nonviolent-resistance.gandhi
 title: 圣雄甘地 Mahatma Gandhi
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: nonviolent-resistance
 era: modern
 birth: 1869

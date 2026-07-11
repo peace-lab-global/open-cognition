@@ -1,7 +1,7 @@
 ---
 name: tantric-symbolism-analysis
 description: Triggers on requests to 密教象征分析、曼荼罗解读、本尊象征、真言含义，如密教艺术解读、仪轨分析、密续教学等。Apply this skill to decode the symbolic systems of Buddhist tantra including mandalas, deities, mantras, and ritual implements.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/treatises/mahavairocana.md
 tags:

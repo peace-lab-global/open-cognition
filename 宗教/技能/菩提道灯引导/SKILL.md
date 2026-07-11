@@ -1,11 +1,11 @@
 ---
 name: bodhisattva-path-guidance
 description: Triggers on requests to 菩提道灯、三士道、菩萨道修行，如修行指导、心灵成长、宗教实践等。Apply this skill to guide users through the bodhisattva path as taught by Atiśa, from initial motivation to final enlightenment.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/tibet/atisha.md
 linked_concepts:
-  - ../../religion/concepts/bodhicitta.md
-  - ../../religion/concepts/three-scope-path.md
+  - ../../宗教/概念/bodhicitta.md
+  - ../../宗教/概念/three-scope-path.md
 tags:
   - 菩提道灯
   - 三士道

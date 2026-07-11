@@ -3,7 +3,7 @@ id: shandao-guanwusi
 title: "观经四帖疏 Commentary on the Contemplation Sutra"
 type: concept
 parent: shandao
-domain: religion
+domain: 宗教
 tags: [contemplation-sutra, commentary, Pure-Land]
 ---
 # 观经四帖疏 / Commentary on the Contemplation Sutra in Four Fascicles

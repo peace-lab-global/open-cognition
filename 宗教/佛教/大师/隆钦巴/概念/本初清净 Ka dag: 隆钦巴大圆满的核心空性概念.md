@@ -3,7 +3,7 @@ id: longchenpa-primordial-purity
 title: "本初清净 Ka dag: 隆钦巴大圆满的核心空性概念"
 type: concept
 parent: longchenpa
-domain: religion
+domain: 宗教
 tags: [ka-dag, primordial-purity, Dzogchen, emptiness, rig-pa, buddha-nature, Nyingma]
 ---
 

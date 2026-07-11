@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin.concepts.sound-one-hand
+id: 宗教.buddhism.masters.hakuin.concepts.sound-one-hand
 title: 只手之声 Sound of One Hand
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
 tags: [只手之声, one hand, koan, 公案, 白隐, Hakuin, 临济宗, Rinzai]

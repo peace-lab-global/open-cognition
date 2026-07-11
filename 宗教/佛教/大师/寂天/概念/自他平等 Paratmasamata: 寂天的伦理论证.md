@@ -3,7 +3,7 @@ id: santideva-self-other-equality
 title: "自他平等 Paratmasamata: 寂天的伦理论证"
 type: concept
 parent: santideva
-domain: religion
+domain: 宗教
 tags: [self-other-equality, paratmasamata, altruism, Buddhist-ethics, suffering, egocentrism]
 ---
 

@@ -3,7 +3,7 @@ id: padmasambhava-subjugation-transformation
 title: "降伏与转化 Subjugation and Transformation: 密法的核心修行原则"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [subjugation, transformation, demon-taming, klesha-to-wisdom, wrathful, alchemy, tantra-methods]
 ---
 
@@ -131,7 +131,7 @@ tags: [subjugation, transformation, demon-taming, klesha-to-wisdom, wrathful, al
 
 ## 跨学科关联 / Interdisciplinary Links
 
-- **[荣格 Jung](../../../../psychology/schools/analytical-psychology/jung.md)** — [平行] 阴影整合与降伏-转化
+- **[荣格 Jung](../../../../心理学/学派/分析心理学/卡尔.md)** — [平行] 阴影整合与降伏-转化
 - **炼金术 Alchemy**: 西方的"贱金属转化为黄金"与密法的"烦恼转化为智慧"在结构上平行——二者都是心理-灵性转化的象征语言
 - **冲突转化 Conflict Transformation**: 现代和平研究中"冲突转化"(不是"冲突解决")的理念——将冲突能量转化为建设性变革的动力
 - **创伤后成长 Post-Traumatic Growth**: 创伤经历不被"消除"，而被"转化"为成长资源——与降伏-转化的逻辑一致

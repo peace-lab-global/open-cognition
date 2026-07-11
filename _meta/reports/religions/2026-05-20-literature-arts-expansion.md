@@ -33,7 +33,7 @@
 
 ### 3.1 文学领域
 ```
-literature/
+文学/
 ├── schools/
 │   ├── dramatists/    # 戏剧家
 │   ├── novelists/     # 小说家
@@ -44,7 +44,7 @@ literature/
 
 ### 3.2 艺术领域
 ```
-arts/
+艺术/
 ├── schools/
 │   ├── visual-arts/   # 视觉艺术
 │   ├── music/         # 音乐

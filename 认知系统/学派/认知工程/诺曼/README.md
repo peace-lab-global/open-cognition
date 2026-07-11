@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.norman
+id: 认知系统.school.cognitive-engineering.norman
 title: 诺曼 Donald Norman
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: contemporary
 birth: 1935

@@ -1,8 +1,8 @@
 ---
-id: literature.essayists.lu-xun
+id: 文学.essayists.lu-xun
 title: 鲁迅 · Lu Xun
 type: thinker
-domain: literature
+domain: 文学
 school: essayists
 era: modern
 birth: 1881
@@ -48,7 +48,7 @@ children:
 
 鲁迅的特殊之处在于：他既是启蒙者，又是启蒙的深刻质疑者。他呼唤觉醒，却深知觉醒之后的无路可走；他批判传统，却对传统有最深的理解和最复杂的感情；他追求希望，却在《野草》中直面虚无的深渊。这种"在绝望中反抗"的精神姿态，使鲁迅成为中国现代思想史上最具有哲学深度的声音。
 
-Lu Xun (1881–1936), born Zhou Shuren, is the founding father of modern Chinese literature and arguably the most important Chinese intellectual of the twentieth century. His 1918 short story *A Madman's Diary* — the first modern Chinese vernacular fiction — launched a literary career that combined relentless social criticism with profound philosophical depth. His novel collections *Call to Arms* and *Wandering*, his prose-poetry collection *Wild Grass*, and his hundreds of essays (zawen) constitute a systematic critique of Chinese national character, feudal traditions, and the failures of enlightenment. His concept of "spiritual victory" (embodied in Ah Q) and his ethics of "resisting despair" have shaped Chinese intellectual discourse for over a century. Lu Xun's unique position — simultaneously an enlightener and a critic of enlightenment — makes him China's most philosophically profound modern writer.
+Lu Xun (1881–1936), born Zhou Shuren, is the founding father of modern Chinese 文学 and arguably the most important Chinese intellectual of the twentieth century. His 1918 short story *A Madman's Diary* — the first modern Chinese vernacular fiction — launched a literary career that combined relentless social criticism with profound philosophical depth. His novel collections *Call to Arms* and *Wandering*, his prose-poetry collection *Wild Grass*, and his hundreds of essays (zawen) constitute a systematic critique of Chinese national character, feudal traditions, and the failures of enlightenment. His concept of "spiritual victory" (embodied in Ah Q) and his ethics of "resisting despair" have shaped Chinese intellectual discourse for over a century. Lu Xun's unique position — simultaneously an enlightener and a critic of enlightenment — makes him China's most philosophically profound modern writer.
 
 ## 二、核心命题 / Core Theses
 

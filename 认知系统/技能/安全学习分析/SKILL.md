@@ -1,7 +1,7 @@
 ---
 name: safety-learning-analysis
 description: 基于 Hollnagel 的 Safety-II 框架，分析日常工作为什么通常成功，而非仅仅分析失败。Triggers on safety analysis, learning from work, or understanding normal performance.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/safety-science/hollnagel.md
 linked_concepts:
   - ../../concepts/safety-paradigm.md

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.yosai
+id: 宗教.buddhism.masters.yosai
 title: 荣西 Yōsai (1141-1215)
 type: thinker-hub
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 era: medieval
 birth: 1141
@@ -157,7 +157,7 @@ Yōsai's influence extended far beyond religion, profoundly shaping the fundamen
   Japanese food culture: the matcha preparation method Yōsai introduced became the core technique of Japanese tea ceremony. Additionally, the Zen monastic tradition of *shōjin ryōri* (vegetarian cuisine) spread to Japanese society through Yōsai-lineage temples.
 
 - **武术与禅**：虽然这一关联在荣西时代尚未明确建立，但后来日本武道（剑道、弓道等）与禅修的深层联系，其精神源头之一可追溯至荣西所引入的看话禅传统。
-  Martial arts and Zen: although this connection was not yet clearly established in Yōsai's era, the deep link between later Japanese martial arts (kendo, kyudo, etc.) and Zen practice traces one of its spiritual origins to the Kanna Zen tradition Yōsai introduced.
+  Martial 艺术 and Zen: although this connection was not yet clearly established in Yōsai's era, the deep link between later Japanese martial 艺术 (kendo, kyudo, etc.) and Zen practice traces one of its spiritual origins to the Kanna Zen tradition Yōsai introduced.
 
 ---
 
@@ -217,16 +217,16 @@ Yōsai occupies a unique position in the intellectual landscape:
   Yōsai is the foundational figure of the Japanese Way of Tea; his *Kissa Yojoki* is the proto-text of tea culture. The spiritual origins of contemporary Japanese tea schools (the three Sen houses: Urasenke, Omotesenke, Mushakōjisenke) all trace back to Yōsai. The annual "Yotsugashira Chakai" (Four-Head Tea Gathering) held at Kennin-ji still follows the model of Song-dynasty Chan monastic tea etiquette, continuing the tea-zen tradition Yōsai introduced. Globally, Japanese tea ceremony has become one of the icons of Eastern culture, its roots lying in the contemplative significance Yōsai bestowed upon tea drinking.
 
 - **心理学 Psychology**：看话禅的公案参究与当代正念 (mindfulness)、认知解构技术形成有趣对话。公案所要求的"大疑情"——一种对根本问题的全身心投入——与存在主义心理治疗中对"终极关怀"（死亡、自由、孤独、无意义）的直面有深层共鸣。同时，坐禅中的注意力训练已被神经科学研究证实能改变大脑的前额叶皮层活动模式。
-  The kōan introspection of Kanna Zen creates interesting dialogue with contemporary mindfulness and cognitive deconstruction techniques. The "great doubt" demanded by kōans — a whole-body engagement with fundamental questions — resonates deeply with existential psychotherapy's direct confrontation with "ultimate concerns" (death, freedom, isolation, meaninglessness). Meanwhile, the attentional training in sitting meditation has been confirmed by neuroscience research to alter prefrontal cortex activity patterns.
+  The kōan introspection of Kanna Zen creates interesting dialogue with contemporary mindfulness and cognitive deconstruction techniques. The "great doubt" demanded by kōans — a whole-body engagement with fundamental questions — resonates deeply with existential psychotherapy's direct confrontation with "ultimate concerns" (death, freedom, isolation, meaninglessness). Meanwhile, the attentional training in sitting meditation has been confirmed by neuroscience 研究 to alter prefrontal cortex activity patterns.
 
 - **管理学 Leadership**：禅修传统对日本企业管理（"禅的管理学"）影响深远。建仁寺至今提供企业禅修项目，将坐禅、公案参究和茶道引入商业培训。"看话禅"所培养的"突破固有思维框架"的能力，被视为创新领导力的重要素质。稻盛和夫等日本企业家公开承认禅修对其经营哲学的深刻影响。
-  The Zen meditation tradition has profoundly influenced Japanese corporate management ("Zen management studies"). Kennin-ji continues to offer corporate Zen training programs, introducing sitting meditation, kōan work, and tea ceremony into business education. The ability to "break through conventional thinking frameworks" cultivated by Kanna Zen is regarded as a crucial quality for innovative leadership. Japanese entrepreneurs such as Kazuo Inamori have publicly acknowledged Zen meditation's deep influence on their management philosophy.
+  The Zen meditation tradition has profoundly influenced Japanese corporate management ("Zen management studies"). Kennin-ji continues to offer corporate Zen training programs, introducing sitting meditation, kōan work, and tea ceremony into business education. The ability to "break through conventional thinking frameworks" cultivated by Kanna Zen is regarded as a crucial quality for innovative leadership. Japanese entrepreneurs such as Kazuo Inamori have publicly acknowledged Zen meditation's deep influence on their management 哲学.
 
 - **医学与养生 Health**：《吃茶养生记》中茶的药用论述与当代茶多酚研究形成科学呼应。现代研究证实绿茶中的EGCG（表没食子儿茶素没食子酸酯）具有强大的抗氧化活性，L-茶氨酸能促进α脑波产生——这些发现与荣西八百年前关于茶"清心安神""调和五脏"的论述高度吻合。荣西所开创的"茶医学"传统在当代日本仍然活跃。
-  The medicinal claims in the *Kissa Yojoki* find scientific echoes in contemporary tea polyphenol research. Modern studies confirm that EGCG (epigallocatechin gallate) in green tea possesses powerful antioxidant activity, and L-theanine promotes alpha brain wave production — findings highly consistent with Yōsai's eight-hundred-year-old claims about tea "clearing the heart and calming the spirit" and "harmonizing the five organs." The "tea medicine" tradition Yōsai pioneered remains active in contemporary Japan.
+  The medicinal claims in the *Kissa Yojoki* find scientific echoes in contemporary tea polyphenol 研究. Modern studies confirm that EGCG (epigallocatechin gallate) in green tea possesses powerful antioxidant activity, and L-theanine promotes alpha brain wave production — findings highly consistent with Yōsai's eight-hundred-year-old claims about tea "clearing the heart and calming the spirit" and "harmonizing the five organs." The "tea medicine" tradition Yōsai pioneered remains active in contemporary Japan.
 
 - **艺术 Arts**：禅宗美学——枯山水庭园（以砂石表现山水）、水墨画（以留白表达空性）、茶道花道（以简素体现"侘寂"精神）、书法（以笔墨传达心性）——的精神源头之一可追溯至荣西所引入的临济禅。这些艺术形式共同构成了西方世界对日本文化最鲜明的认知图景。
-  Zen aesthetics — dry-landscape gardens (representing mountains and water with sand and stone), ink painting (expressing emptiness through blank space), tea and flower arrangement (embodying wabi-sabi spirit through simplicity), calligraphy (conveying mind-nature through brush and ink) — trace one of their spiritual sources to the Rinzai Zen Yōsai introduced. These art forms collectively constitute the Western world's most vivid image of Japanese culture.
+  Zen 美学 — dry-landscape gardens (representing mountains and water with sand and stone), ink painting (expressing emptiness through blank space), tea and flower arrangement (embodying wabi-sabi spirit through simplicity), calligraphy (conveying mind-nature through brush and ink) — trace one of their spiritual sources to the Rinzai Zen Yōsai introduced. These art forms collectively constitute the Western world's most vivid image of Japanese culture.
 
 ---
 
@@ -269,7 +269,7 @@ Kōans are not ordinary riddles or logical puzzles. Working with them requires t
 - [空海 Kūkai](../kukai.md) — [继承 inheritance] 密教传统 / Esoteric tradition
 - [禅宗 Chan/Zen](../schools/chan-zen.md) — [日本传承 Japanese transmission]
 - [龙树 Nāgārjuna](../nagarjuna.md) — [思想渊源 philosophical source] 中观-禅的关联 / Mādhyamaka-Zen connection
-- [美学 Aesthetics] — [下位 subordinate] 茶禅美学 / Tea-Zen aesthetics
+- [美学 Aesthetics] — [下位 subordinate] 茶禅美学 / Tea-Zen 美学
 
 ---
 

@@ -3,7 +3,7 @@ id: kumarajiva-translation-method
 title: "翻译方法 Translation Method: 鸠摩罗什的意译哲学与译场制度"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [translation, 意译, free translation, 译场, translation assembly, Buddhist translation, 佛教翻译, dynamic equivalence]
 ---
 
@@ -127,5 +127,5 @@ tags: [translation, 意译, free translation, 译场, translation assembly, Budd
 ## 跨学科关联 / Connections
 
 - [经典翻译 Sūtra Translation](sutra-translation.md) — 翻译方法在具体文本中的应用
-- [瓦尔特·本雅明 Walter Benjamin](../../../../aesthetics/schools/critical-aesthetics/benjamin.md) — 翻译哲学
+- [瓦尔特·本雅明 Walter Benjamin](../../../../美学/学派/批判美学/瓦尔特.md) — 翻译哲学
 - [僧肇 Sengzhao](../sengzhao.md) — 译场核心参与者

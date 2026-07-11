@@ -135,7 +135,7 @@ Suan Mokkh grew over the decades into an international center for Dhamma study a
 
 - **Core insight / 核心心髓**: Suffering is born in a single moment of mis-appropriation — when the mind takes what is not-self and labels it "mine." / 苦生于一个单一的误取瞬间——当心将非我的事物标记为"我的"。
 - **Cognitive framework / 认知框架**: Everything is a process, not a thing. Trees are treeing. Rivers are rivering. Persons are personing. There are no nouns in nature, only verbs. / 一切是过程，而非事物。树在"树化"，河在"河化"，人在"人化"。自然中没有名词，只有动词。
-- **Key proposition / 关键命题**: The Dhamma is not Buddhism. Buddhism is one cultural vessel for the Dhamma. The Dhamma itself — the law of conditionality — belongs to no religion. / 法不是佛教。佛教是法的一个文化容器。法本身——缘起法则——不属于任何宗教。
+- **Key proposition / 关键命题**: The Dhamma is not Buddhism. Buddhism is one cultural vessel for the Dhamma. The Dhamma itself — the law of conditionality — belongs to no 宗教. / 法不是佛教。佛教是法的一个文化容器。法本身——缘起法则——不属于任何宗教。
 
 ### How He Judged · 怎么判断
 
@@ -171,9 +171,9 @@ Buddhadasa did not emerge from a vacuum. His thought was shaped by a confluence 
 
 **Thai forest tradition / 泰国森林传统**: Though he was more intellectual than most forest monks, Buddhadasa was deeply shaped by the Thai *kammaṭṭhāna* (meditation / 禅修) tradition, particularly the lineage of Ajahn Mun Bhuridatto. He shared the forest tradition's emphasis on direct experience over book learning, while diverging from its sometimes anti-intellectual tendencies. / 虽然他比大多数森林比丘更具知识性，但佛使比丘深受泰国*禅修*传统的影响，特别是阿姜曼·布里达多的法脉。他与森林传统共享对直接体验优于书本学习的强调，同时偏离其有时反智识的倾向。
 
-**Mahayana echoes / 北传回响**: Buddhadasa studied Zen Buddhism (particularly the teachings of Hui-neng and Dogen), Tibetan Buddhism, and the Madhyamaka philosophy of Nagarjuna. His concept of emptiness (*suññatā*) was informed as much by the Mahayana *Prajñāpāramitā* literature as by the Pali *Suññatā Sutta*. This made him controversial among Theravada purists who viewed Mahayana as a corruption. / 佛使比丘研究了禅宗（特别是慧能和道元的教导）、藏传佛教和龙树的中观哲学。他的空性概念既受北传《般若波罗蜜多》文献的影响，也受巴利《空性经》的影响。这使他在将北传视为腐败的正统南传主义者中备受争议。
+**Mahayana echoes / 北传回响**: Buddhadasa studied Zen Buddhism (particularly the teachings of Hui-neng and Dogen), Tibetan Buddhism, and the Madhyamaka 哲学 of Nagarjuna. His concept of emptiness (*suññatā*) was informed as much by the Mahayana *Prajñāpāramitā* 文学 as by the Pali *Suññatā Sutta*. This made him controversial among Theravada purists who viewed Mahayana as a corruption. / 佛使比丘研究了禅宗（特别是慧能和道元的教导）、藏传佛教和龙树的中观哲学。他的空性概念既受北传《般若波罗蜜多》文献的影响，也受巴利《空性经》的影响。这使他在将北传视为腐败的正统南传主义者中备受争议。
 
-**Western science and philosophy / 西方科学与哲学**: He read widely in Western thought — Darwin's theory of evolution, Einstein's relativity, and modern psychology. He saw science as a natural ally of the Dhamma, arguing that both were empirical enterprises committed to discovering the laws of nature through observation rather than faith. / 他广泛阅读西方思想——达尔文的进化论、爱因斯坦的相对论和现代心理学。他将科学视为法的天然盟友，主张两者都是致力于通过观察而非信仰发现自然法则的经验性事业。
+**Western science and 哲学 / 西方科学与哲学**: He read widely in Western thought — Darwin's theory of evolution, Einstein's relativity, and modern 心理学. He saw science as a natural ally of the Dhamma, arguing that both were empirical enterprises committed to discovering the laws of nature through observation rather than faith. / 他广泛阅读西方思想——达尔文的进化论、爱因斯坦的相对论和现代心理学。他将科学视为法的天然盟友，主张两者都是致力于通过观察而非信仰发现自然法则的经验性事业。
 
 ---
 

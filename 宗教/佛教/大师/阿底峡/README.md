@@ -2,7 +2,7 @@
 id: atisha
 title: "阿底峡 Atiśa: 藏传佛教后弘期复兴者与噶当派创始人"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 era: medieval
 birth: 982
@@ -264,7 +264,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 | 修心 Lojong | 认知行为疗法 CBT | 认知重构技术 |
 | 次第修行 Gradualism | 建构主义教育学 Constructivism | 学习阶段理论 |
 | 善知识 Kalyāṇamitra | 导师制 Mentorship | 师徒关系的伦理 |
-| 显密融合 | 整合心理学 Integral psychology | 多元传统的整合 |
+| 显密融合 | 整合心理学 Integral 心理学 | 多元传统的整合 |
 
 ---
 

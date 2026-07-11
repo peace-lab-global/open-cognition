@@ -1,8 +1,8 @@
 ---
-id: philosophy.phenomenology.thompson
+id: 哲学.phenomenology.thompson
 title: 汤普森 · Evan Thompson
 type: thinker
-domain: philosophy
+domain: 哲学
 school: phenomenology
 era: contemporary
 birth: 1962
@@ -33,7 +33,7 @@ cross-refs:
   - id: husserl
     relation: 继承
 related-comparative:
-  - ../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md
+  - ../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md
 ---
 
 # 汤普森 / Evan Thompson
@@ -137,7 +137,7 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 汤普森为冥想研究提供了最严谨的哲学框架。他主张冥想者的第一人称报告不是"主观偏见",而是经过训练的现象学数据,可以与神经科学数据互相约束。这一框架直接影响了 Mindfulness-Based Stress Reduction (MBSR) 的理论基础,以及 Antoine Lutz、Richard Davidson 等人的冥想神经科学研究。汤普森特别强调,冥想不是"看看大脑发生了什么",而是探索意识结构本身的方法。
 
 ### 生态心理学 (Ecological Psychology)
-生成认知强调有机体-环境的不可分割性,与 J. J. Gibson 的生态心理学 (ecological psychology) 形成自然联盟。认知不是在封闭大脑中发生的,而是在有机体与环境的持续耦合中涌现的 -- 这对环境行为研究、设计心理学 (design psychology) 和可持续行为研究有深远影响。
+生成认知强调有机体-环境的不可分割性,与 J. J. Gibson 的生态心理学 (ecological 心理学) 形成自然联盟。认知不是在封闭大脑中发生的,而是在有机体与环境的持续耦合中涌现的 -- 这对环境行为研究、设计心理学 (design 心理学) 和可持续行为研究有深远影响。
 
 ### 意识科学 (Consciousness Science)
 三种意识状态的分析为"意识是什么"提供了比清醒中心主义 (wake-centrism) 更完整的图景。传统意识科学几乎只研究清醒意识,汤普森将做梦 (dreaming) 和深睡 (deep sleep) 纳入分析,揭示了意识的多样性和自我的非统一性。这对整合信息理论 (IIT)、全局工作空间理论 (GWT) 等主流意识理论构成重要补充和挑战。
@@ -203,11 +203,11 @@ Varela 于 2001 年去世后,汤普森承担起继续发展生成认知理论的
 - [梅青格 Metzinger](../metzinger/README.md) `[张力]` 自我是过程 vs 自我是透明模型
 
 ### 认知科学
-- [弗里斯顿 Friston](../../../psychology/schools/cognitive/friston.md) `[张力]` 生成认知 vs 预测加工 (predictive processing) -- 核心方法论分歧:生成认知强调行动-感知循环中的世界生成,预测加工强调脑内模型的贝叶斯推断
+- [弗里斯顿 Friston](../../../心理学/学派/认知心理学/弗里斯顿.md) `[张力]` 生成认知 vs 预测加工 (predictive processing) -- 核心方法论分歧:生成认知强调行动-感知循环中的世界生成,预测加工强调脑内模型的贝叶斯推断
 
 ### 东方思想
-- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 心智作为生命过程的涌现
-- [唯识 Yogacara](../../../religion/buddhism/schools/yogacara.md) `[平行]` 意识结构与生成认知的对话
+- [五蕴的认知读法](../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[平行]` 心智作为生命过程的涌现
+- [唯识 Yogacara](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 意识结构与生成认知的对话
 - 中观 (Madhyamaka) `[平行]` 缘起论与生成认知的结构呼应
 
 ### 生物学

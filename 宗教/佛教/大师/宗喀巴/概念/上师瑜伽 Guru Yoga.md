@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa.concepts.guru-yoga
+id: 宗教.buddhism.master.tsongkhapa.concepts.guru-yoga
 title: 上师瑜伽 Guru Yoga
 type: concept
-parent: religion.buddhism.master.tsongkhapa
+parent: 宗教.buddhism.master.tsongkhapa
 tags: [上师瑜伽, guru-yoga, 依止善知识, 宗喀巴, 密法前行]
 ---
 

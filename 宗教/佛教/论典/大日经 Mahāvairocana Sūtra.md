@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.mahavairocana
+id: 宗教.buddhism.sutra.mahavairocana
 title: 大日经 Mahāvairocana Sūtra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 era: ancient
 tags: [大日经, 密教, 胎藏界, 曼荼罗, 三密相应, 即身成佛]

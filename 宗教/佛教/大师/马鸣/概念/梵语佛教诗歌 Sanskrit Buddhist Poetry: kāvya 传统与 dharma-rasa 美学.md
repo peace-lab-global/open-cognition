@@ -3,7 +3,7 @@ id: ashvaghosha-sanskrit-poetry
 title: "梵语佛教诗歌 Sanskrit Buddhist Poetry: kāvya 传统与 dharma-rasa 美学"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [Sanskrit-poetry, kāvya, Buddhist-literature, dharma-rasa, prosody, alaṃkāra]
 ---
 

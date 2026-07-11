@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.doctrinal-classification
+id: 宗教.buddhism.core.doctrinal-classification
 title: 判教 Doctrinal Classification
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [判教, 五时八教, 三时教, 五教十宗]
@@ -101,7 +101,7 @@ sources: [《法华玄义》（智顗）, 《华严五教章》（法藏）]
 
 ## 跨学科关联
 
-- [布卢姆 · 教育目标分类](../../psychology/schools/cognitive/bloom.md) — [平行] 判教 vs 认知层级
+- [布卢姆 · 教育目标分类](../../心理学/学派/认知心理学/bloom.md) — [平行] 判教 vs 认知层级
 - [杜威 · 十进分类法] — [平行] 判教 vs 知识分类
 
 ## 进阶阅读

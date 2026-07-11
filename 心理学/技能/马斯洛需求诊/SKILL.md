@@ -1,7 +1,7 @@
 ---
 name: maslow-needs-diagnosis
 description: 对个人/团队/产品所处困境进行需求层次诊断，定位"卡在哪一层"，给出对应的修复或满足策略，避免错位干预。
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/humanistic/maslow.md
 tags: [马斯洛, 需求层次, 自我实现, 组织诊断, 产品需求]
 ---
@@ -98,4 +98,4 @@ tags: [马斯洛, 需求层次, 自我实现, 组织诊断, 产品需求]
 - [马斯洛 Maslow](../../schools/humanistic/maslow.md)
 - [罗杰斯 Rogers](../../schools/humanistic/rogers.md) — 同源人本主义
 - [心流 Flow](../../concepts/flow.md) — 自我实现的状态形态
-- [苦的圣谛](../../../religion/skills/four-noble-truths-framework/SKILL.md) — 苦因诊断的另一框架
+- [苦的圣谛](../../../宗教/技能/四圣谛框架分/SKILL.md) — 苦因诊断的另一框架

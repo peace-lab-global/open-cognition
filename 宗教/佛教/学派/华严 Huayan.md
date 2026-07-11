@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.huayan
+id: 宗教.buddhism.school.huayan
 title: 华严 Huayan
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-huayan
 era: medieval
 tags: [华严宗, 法界缘起, 事事无碍, 一即一切, 华严经]
@@ -84,8 +84,8 @@ sources: [《华严经》, 《华严五教章》, 《华严经探玄记》]
 
 ## 跨学科关联
 
-- [黑格尔 · 绝对精神](../../../philosophy/schools/german-idealism/hegel.md) — [平行] 整体论
-- [莱布尼茨 · 单子论](../../../philosophy/schools/rationalism/leibniz.md) — [平行] 单子映照一切
+- [黑格尔 · 绝对精神](../../../哲学/学派/德国唯心论/黑格尔.md) — [平行] 整体论
+- [莱布尼茨 · 单子论](../../../哲学/学派/理性论/戈特弗里德.md) — [平行] 单子映照一切
 - [网络科学] — [继承] 小世界、无标度
 - [量子纠缠] — [类比] 非局部性
 
@@ -105,7 +105,7 @@ sources: [《华严经》, 《华严五教章》, 《华严经探玄记》]
 - **十玄门的认知含义**：同时具足（全时性）、广狭自在（尺度不变性）、一多相容（全息性）、诸法相即（互依性）——每一条都描述了关系性认知的特定面向，构成比莱布尼茨单子论更激进的互渗模型。
 - **[法界缘起](../concepts/cognitive-theory/dependent-origination-cognitive.md)作为互依认知**：不同于线性因果的认知模型，法界缘起主张一切认知事件同时互为因果——这与当代动态系统理论（dynamical systems theory）中的循环因果性（circular causality）高度一致。
 
-**跨领域参照**：因陀罗网模型可与 [莱布尼茨的单子论](../../../philosophy/schools/rationalism/leibniz.md) 对照（单子封闭 vs 华严互入的关键差异），法界缘起与当代 [网络科学](../../../../science/complexity/network-science.md) 形成对话。详见 [六要素](../concepts/cognitive-theory/six-constituents.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
+**跨领域参照**：因陀罗网模型可与 [莱布尼茨的单子论](../../../哲学/学派/理性论/戈特弗里德.md) 对照（单子封闭 vs 华严互入的关键差异），法界缘起与当代 [网络科学](../../../../science/complexity/network-science.md) 形成对话。详见 [六要素](../concepts/cognitive-theory/six-constituents.md)、[缘起认知](../concepts/cognitive-theory/dependent-origination-cognitive.md)。
 
 ## 进阶阅读
 

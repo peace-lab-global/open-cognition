@@ -1,7 +1,7 @@
 ---
 name: madhyamaka-four-fallacies
 description: 中观"四句破"法，用于破除当事人的边见——常见（实有）、断见（虚无）、一异（同一/分离）、来去（来/去）。Triggers on 当事人陷入"必须怎样"或"一切都无意义"、非黑即白思维、需要打破极端二元对立场景。
-domain: religion
+domain: 宗教
 school: buddhism-prajna
 linked_concepts:
   - ../../madhyamaka.md
@@ -147,4 +147,4 @@ tags:
 
 - 概念：[中观·空](../../concepts/cognitive-theory/madhyamaka.md)
 - 相关Skill：[金刚经无住心法](../diamond-sutra-no-dwelling/SKILL.md)（同源）— 无住是中道的方法
-- 跨传统：[认知行为疗法·认知扭曲识别](../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的"认知扭曲识别"与四句破的功能类似
+- 跨传统：[认知行为疗法·认知扭曲识别](../../../../心理学/学派/认知心理学/贝克.md)（平行）— CBT的"认知扭曲识别"与四句破的功能类似

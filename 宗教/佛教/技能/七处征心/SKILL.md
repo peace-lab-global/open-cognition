@@ -1,7 +1,7 @@
 ---
 name: qichu-zhengxin-deconstruction
 description: 七处征心法用于破除当事人"心有所住"的实体化认知——心不在内、不在外、不在中间、不在任何一处。Triggers on 当事人执著于"我的心在某事/某人/某处"、将情绪或念头对象化为实体的场景。
-domain: religion
+domain: 宗教
 school: buddhism-chan
 linked_concepts:
   - ../../qichu-zhengxin.md

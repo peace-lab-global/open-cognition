@@ -2,7 +2,7 @@
 id: <concept-slug>
 title: <概念中文名 · 英文/原文>
 type: concept
-domain: <philosophy | religion | sociology | psychology>
+domain: <philosophy | 宗教 | 社会学 | psychology>
 school: <主要相关学派>
 era: <概念形成的时代>
 tags:

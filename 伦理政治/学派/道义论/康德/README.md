@@ -2,7 +2,7 @@
 id: kant-ethics
 title: 康德 · Immanuel Kant
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: deontology
 era: modern
 birth: 1724

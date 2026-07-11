@@ -143,4 +143,4 @@ tags:
 - 祖师：[慧能](../../masters/china/hui-neng.md)
 - 概念：[顿悟](./concepts/dunwu.md)（待建）
 - 相关Skill：[慧能无住心法](./hui-neng-no-dwelling/SKILL.md)
-- 跨传统：[维特根斯坦·语言游戏](../../philosophy/schools/analytic/wittgenstein.md)（平行）——"不要把语言当梯子，要在使用中看意义"与"不要把佛经当月亮"的呼应
+- 跨传统：[维特根斯坦·语言游戏](../../哲学/学派/分析哲学/维特根斯坦.md)（平行）——"不要把语言当梯子，要在使用中看意义"与"不要把佛经当月亮"的呼应

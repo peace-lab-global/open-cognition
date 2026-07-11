@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.naturalistic-decision.sweller
+id: 认知系统.naturalistic-decision.sweller
 title: 约翰·斯威勒 John Sweller
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: naturalistic-decision
 era: contemporary
 birth: 1946
@@ -42,7 +42,7 @@ children:
 
 斯威勒的理论不仅在学术界产生了深远影响，更直接推动了全球范围内的教学设计改革。从在线教育（MOOC）、医疗培训到多媒体学习设计，CLT的原则被广泛应用于各种学习环境中。近年来，他将CLT与进化认识论相结合，从人类认知进化的角度解释了为什么某些学习方式更符合人类的认知架构。
 
-John Sweller's Cognitive Load Theory has become one of the most cited and empirically supported frameworks in educational psychology. His demonstration that working memory limitations fundamentally constrain learning has reshaped instructional design across disciplines. The theory's three types of cognitive load (intrinsic, extraneous, germane) and associated effects (expertise reversal, redundancy, split attention) provide actionable principles for educators, curriculum designers, and researchers worldwide.
+John Sweller's Cognitive Load Theory has become one of the most cited and empirically supported frameworks in educational 心理学. His demonstration that working memory limitations fundamentally constrain learning has reshaped instructional design across disciplines. The theory's three types of cognitive load (intrinsic, extraneous, germane) and associated effects (expertise reversal, redundancy, split attention) provide actionable principles for educators, curriculum designers, and researchers worldwide.
 
 ## 二、核心命题
 

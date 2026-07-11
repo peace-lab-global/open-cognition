@@ -1,7 +1,7 @@
 ---
 name: dialectical-analysis
 description: Triggers when a problem appears as a binary opposition (A vs B) that resists resolution by simply choosing one side. Apply this skill to identify the internal contradiction within each pole, then articulate a higher-order synthesis that preserves the truth of both while transcending their one-sidedness.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/german-idealism/hegel.md
 linked_concepts:
   - ../../concepts/dialectics.md
@@ -33,7 +33,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[黑格尔](../../schools/german-idealism/hegel.md)（概念辩证法）、[马克思](../../../sociology/schools/classical/marx.md)（唯物辩证法）
+- 来源思想家：[黑格尔](../../schools/german-idealism/hegel.md)（概念辩证法）、[马克思](../../../社会学/学派/古典社会学/马克思.md)（唯物辩证法）
 - 来源概念：[辩证法](../../concepts/dialectics.md)
 - 关键文献：黑格尔《精神现象学》《逻辑学》
 

@@ -1,11 +1,11 @@
 ---
 name: client-centered-dialogue
 description: Triggers on requests to 来访者中心、共情倾听、无条件积极关注，如心理咨询、人际关系、沟通技巧等。Apply this skill to practice client-centered dialogue, providing empathy, unconditional positive regard, and genuineness.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/humanistic/rogers.md
 linked_concepts:
-  - ../../psychology/concepts/client-centered-therapy.md
-  - ../../psychology/concepts/unconditional-positive-regard.md
+  - ../../心理学/概念/client-centered-therapy.md
+  - ../../心理学/概念/unconditional-positive-regard.md
 tags:
   - 来访者中心
   - 共情倾听

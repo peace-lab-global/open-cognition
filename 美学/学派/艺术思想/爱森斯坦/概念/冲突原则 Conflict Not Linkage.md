@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.eisenstein.concepts.conflict-not-linkage
+id: 美学.arts-thought.eisenstein.concepts.conflict-not-linkage
 title: 冲突原则 Conflict Not Linkage
 type: concept
-parent: aesthetics.arts-thought.eisenstein
+parent: 美学.arts-thought.eisenstein
 tags: [conflict, collision, opposition, editing-principle]
 ---
 

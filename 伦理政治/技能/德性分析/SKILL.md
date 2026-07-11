@@ -1,11 +1,11 @@
 ---
 name: virtue-ethics-analysis
 description: Triggers on requests to 德性伦理、叙事德性、道德传统，如道德哲学、品格培养、伦理决策等。Apply this skill to analyze moral issues using MacIntyre's virtue ethics, understanding how virtues are cultivated within traditions and narratives.
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/virtue-ethics/macintyre.md
 linked_concepts:
   - ../../concepts/virtue.md
-  - ../../ethics-politics/concepts/narrative.md
+  - ../../伦理政治/概念/narrative.md
 tags:
   - 德性伦理
   - 叙事德性
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[阿拉斯代尔·麦金太尔](../../schools/virtue-ethics/macintyre.md)
 - 概念：[德性](../../concepts/virtue.md)、[叙事](../../concepts/narrative.md)
-- 相关 Skill：[golden-mean-analysis](../../philosophy/skills/golden-mean-analysis/SKILL.md)、[aristotle-virtue-test](./aristotle-virtue-test/SKILL.md)
+- 相关 Skill：[golden-mean-analysis](../../哲学/技能/中庸之道分析/SKILL.md)、[aristotle-virtue-test](./aristotle-virtue-test/SKILL.md)

@@ -3,7 +3,7 @@ id: tsongkhapa-prasangika
 title: "应成中观见 Prasangika: 宗喀巴的最高见地"
 type: concept
 parent: tsongkhapa
-domain: religion
+domain: 宗教
 tags: [prasangika, consequence, Madhyamaka, emptiness, Tsongkhapa]
 ---
 

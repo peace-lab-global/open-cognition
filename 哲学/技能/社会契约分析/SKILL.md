@@ -1,11 +1,11 @@
 ---
 name: social-contract-analysis
 description: Triggers on requests to 社会契约、公意、自然教育，如政治哲学、社会理论、教育理念等。Apply this skill to analyze social and political issues using Rousseau's social contract theory, emphasizing the general will and natural education.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/enlightenment/rousseau.md
 linked_concepts:
-  - ../../philosophy/concepts/social-contract.md
-  - ../../philosophy/concepts/general-will.md
+  - ../../哲学/概念/social-contract.md
+  - ../../哲学/概念/general-will.md
 tags:
   - 社会契约
   - 公意
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[让-雅克·卢梭](../../schools/enlightenment/rousseau.md)
 - 概念：[社会契约](../../concepts/social-contract.md)、[公意](../../concepts/general-will.md)
-- 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[justice-principle-test](../../ethics-politics/skills/justice-principle-test/SKILL.md)
+- 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[justice-principle-test](../../伦理政治/技能/正义原则检验/SKILL.md)

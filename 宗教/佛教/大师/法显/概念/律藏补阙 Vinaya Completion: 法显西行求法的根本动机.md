@@ -3,7 +3,7 @@ id: faxian-vinaya-completion
 title: "律藏补阙 Vinaya Completion: 法显西行求法的根本动机"
 type: concept
 parent: faxian
-domain: religion
+domain: 宗教
 tags: [Vinaya, 律藏, 戒律, monastic-discipline, 广律, Mahasanghika-vinaya, Sarvastivada-vinaya]
 ---
 
@@ -53,7 +53,7 @@ Faxian achieved his major breakthrough at Pataliputra (modern Patna) in Magadha.
 
 法显在斯里兰卡（师子国）停留两年期间，又获得了**弥沙塞部的律典（Mahisasaka-vinaya）**以及其他部派的律学文献。这些补充性的发现进一步丰富了他所携归的律藏收藏。
 
-During his two-year stay in Sri Lanka (the "Lion Country" / 师子国), Faxian additionally obtained the **Mahisasaka-vinaya** (弥沙塞律) and other Vinaya literature from various schools. These supplementary discoveries further enriched the Vinaya collection he would bring back to China.
+During his two-year stay in Sri Lanka (the "Lion Country" / 师子国), Faxian additionally obtained the **Mahisasaka-vinaya** (弥沙塞律) and other Vinaya 文学 from various schools. These supplementary discoveries further enriched the Vinaya collection he would bring back to China.
 
 ## 翻译成果 / Translation Achievements
 

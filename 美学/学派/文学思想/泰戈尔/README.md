@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-thought.tagore
+id: 美学.literary-thought.tagore
 title: 泰戈尔 · Rabindranath Tagore
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-thought
 era: modern
 birth: 1861
@@ -44,7 +44,7 @@ children:
 
 泰戈尔美学的核心在于"宇宙精神"（universal spirit）的概念——人的最高实现是与宇宙精神的合一，但合一不是逃离世界，而是在**爱、创造与关系中**实现。他的诗歌将日常、自然、童真升华为对宇宙之爱的歌咏，创造了一种独特的**入世灵性美学**。
 
-Tagore (1861–1941) is India's greatest poet-thinker and Asia's first Nobel laureate in Literature (1913). His core contribution is the creative synthesis of Eastern spiritual tradition with Western humanist rationality. His concept of "universal spirit" holds that human fulfillment lies not in escaping the world but in realizing unity through love, creativity, and relationship. His *Gitanjali* transformed daily life and nature into songs of cosmic love, creating a unique this-worldly spiritual aesthetics.
+Tagore (1861–1941) is India's greatest poet-thinker and Asia's first Nobel laureate in Literature (1913). His core contribution is the creative synthesis of Eastern spiritual tradition with Western humanist rationality. His concept of "universal spirit" holds that human fulfillment lies not in escaping the world but in realizing unity through love, creativity, and relationship. His *Gitanjali* transformed daily life and nature into songs of cosmic love, creating a unique this-worldly spiritual 美学.
 
 ## 二、核心命题
 

@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.clark
+id: 哲学.analytic.clark
 title: 克拉克 · Andy Clark
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1957

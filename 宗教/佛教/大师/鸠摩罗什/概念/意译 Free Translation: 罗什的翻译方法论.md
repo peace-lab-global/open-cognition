@@ -3,7 +3,7 @@ id: kumarajiva-yiyi
 title: "意译 Free Translation: 罗什的翻译方法论"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [translation, free-translation, Kumarajiva]
 ---
 # 意译 / Free Translation Methodology

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.nine-consciousnesses
+id: 宗教.buddhism.concept.nine-consciousnesses
 title: 九识说 The Nine Consciousnesses
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 parent: paramartha
 tags: [九识, 阿摩罗识, amala-vijñāna, 唯识, 转识成智]
@@ -121,7 +121,7 @@ Contemporary Buddhist scholars offer diverse assessments:
 - **Móu Zōngsān** analyzed the doctrine's philosophical significance in *Buddha-nature and Prajñā*, viewing it as a valuable attempt to synthesize Yogācāra and *tathāgata-garbha*.
 
 - **横山纮一**等日本学者对九识说的印度渊源进行了详细的文献学研究，为理解这一概念提供了重要的学术基础。
-- **Yokoyama Kōitsu** and other Japanese scholars conducted detailed philological research on the doctrine's Indian antecedents.
+- **Yokoyama Kōitsu** and other Japanese scholars conducted detailed philological 研究 on the doctrine's Indian antecedents.
 
 ---
 

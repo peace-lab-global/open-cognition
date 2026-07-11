@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.ecological.clark
+id: 认知系统.school.ecological.clark
 title: 克拉克 Andy Clark
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: ecological
 era: contemporary
 birth: 1957

@@ -1,7 +1,7 @@
 ---
 name: sensemaking-guidance
 description: 在模糊、不确定或危机情境中引导意义建构过程，基于 Weick 的意义建构理论。Triggers on requests to help make sense of ambiguous situations, organizational crises, or when people don't know "what's going on".
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/naturalistic-decision/weick.md
 linked_concepts:
   - ../../concepts/sensemaking.md

@@ -1,8 +1,8 @@
 ---
-id: sociology.modernity.beck
+id: 社会学.modernity.beck
 title: 贝克 · Ulrich Beck
 type: thinker
-domain: sociology
+domain: 社会学
 school: modernity
 era: 20th-21st century
 birth: 1944

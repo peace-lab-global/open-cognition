@@ -2,7 +2,7 @@
 id: schopenhauer
 title: 亚瑟·叔本华 · Arthur Schopenhauer
 type: thinker
-domain: philosophy
+domain: 哲学
 school: pessimism
 era: modern
 birth: 1788
@@ -15,7 +15,7 @@ tags:
   - 形而上学
   - pessimism
   - will-philosophy
-  - aesthetics
+  - 美学
   - compassion-ethics
   - metaphysics
   - denial-of-will
@@ -58,7 +58,7 @@ Arthur Schopenhauer (22 February 1788 – 21 September 1860) was a German philos
 
 叔本华先后在哥廷根大学和柏林大学学习哲学，师从费希特（Fichte）。1813年，他以博士论文《充足理由律的四重根》（*Über die vierfache Wurzel des Satzes vom zureichenden Grunde*）获得耶拿大学博士学位，为其认识论体系奠定了基础。1818年，年仅三十岁的叔本华完成了《作为意志和表象的世界》（*Die Welt als Wille und Vorstellung*），但这部杰作在此后二十余年间几乎无人问津——据传首版印刷的500册中有大部分被当作废纸处理。
 
-He studied philosophy at Göttingen and Berlin under Fichte. In 1813 he earned his doctorate from Jena with *On the Fourfold Root of the Principle of Sufficient Reason*, laying his epistemological foundations. In 1818, at just thirty, he completed *The World as Will and Representation* — yet this masterwork went almost entirely unnoticed for over two decades. Of the original print run of 500 copies, most were reportedly pulped.
+He studied 哲学 at Göttingen and Berlin under Fichte. In 1813 he earned his doctorate from Jena with *On the Fourfold Root of the Principle of Sufficient Reason*, laying his epistemological foundations. In 1818, at just thirty, he completed *The World as Will and Representation* — yet this masterwork went almost entirely unnoticed for over two decades. Of the original print run of 500 copies, most were reportedly pulped.
 
 在柏林大学担任讲师期间，叔本华刻意将自己的课程安排在与如日中天的黑格尔同一时间——结果只有寥寥数名学生前来听课。这种与黑格尔理性主义的根本对立，贯穿了叔本华整个思想生涯。直到1851年《附录与补遗》（*Parerga und Paralipomena*）出版后，他才终于在大众中获得了迟到的声誉。晚年在法兰克福与一只名为"Atma"（世界灵魂）的卷毛狗为伴，过着规律而孤独的生活，直至1860年因肺炎去世。
 
@@ -136,13 +136,13 @@ Schopenhauer's philosophical point of departure is his critical inheritance from
 
 《作为意志和表象的世界》（第一卷1818，第二卷1844）是叔本华体系的完整阐述。四卷各有分工：第一卷处理认识论——世界作为受充足理由律支配的表象；第二卷处理形而上学——世界作为意志，揭示一切自然现象背后的本体实在；第三卷处理美学——理念作为意志的直接客体化，艺术作为从意志中的暂时解脱；第四卷处理伦理学——同情、正义、禁欲主义与意志的最终否定。1844年的第二卷大幅扩充了对自然科学、生命意志、性欲的形而上学分析以及个体化原理的深入讨论。
 
-*The World as Will and Representation* (Volume I, 1818; Volume II, 1844) is the complete exposition of Schopenhauer's system. The four books each have their domain: Book I, epistemology — the world as representation governed by the principle of sufficient reason; Book II, metaphysics — the world as Will, revealing the noumenal reality behind all natural phenomena; Book III, aesthetics — Ideas as the Will's direct objectification, art as temporary liberation from Will; Book IV, ethics — compassion, justice, asceticism, and the ultimate denial of Will. The expanded 1844 second volume greatly deepened the analysis of natural science, the metaphysics of the will-to-live, sexual love, and the principium individuationis.
+*The World as Will and Representation* (Volume I, 1818; Volume II, 1844) is the complete exposition of Schopenhauer's system. The four books each have their domain: Book I, epistemology — the world as representation governed by the principle of sufficient reason; Book II, metaphysics — the world as Will, revealing the noumenal reality behind all natural phenomena; Book III, 美学 — Ideas as the Will's direct objectification, art as temporary liberation from Will; Book IV, ethics — compassion, justice, asceticism, and the ultimate denial of Will. The expanded 1844 second volume greatly deepened the analysis of natural science, the metaphysics of the will-to-live, sexual love, and the principium individuationis.
 
 ### 晚期（1844–1860）：声誉确立与东方哲学对话 / Late Period: Reputation and Eastern Dialogue
 
 1851年的《附录与补遗》（*Parerga und Paralipomena*）终于为叔本华赢得了迟到的声誉。这部两卷本文集以优美的散文探讨了哲学、宗教、文学和人生智慧，其中《人生的智慧》（*Aphorismen zur Lebensweisheit*）部分至今仍是畅销读物。更重要的是，叔本华在晚期著作中进一步发展了与佛教和印度哲学（尤其是吠檀多 Vedānta）的对话，使他成为第一位将东方哲学纳入严肃西方哲学讨论的主要思想家。
 
-*Parerga and Paralipomena* (1851) finally brought Schopenhauer belated fame. This two-volume collection of essays explored philosophy, religion, literature, and worldly wisdom in elegant prose; the section "Aphorisms on the Wisdom of Life" remains a bestseller to this day. More importantly, Schopenhauer's later works further developed his dialogue with Buddhism and Indian philosophy (especially Vedānta), making him the first major Western philosopher to bring Eastern thought into serious philosophical discussion.
+*Parerga and Paralipomena* (1851) finally brought Schopenhauer belated fame. This two-volume collection of essays explored philosophy, religion, literature, and worldly wisdom in elegant prose; the section "Aphorisms on the Wisdom of Life" remains a bestseller to this day. More importantly, Schopenhauer's later works further developed his dialogue with Buddhism and Indian 哲学 (especially Vedānta), making him the first major Western philosopher to bring Eastern thought into serious philosophical discussion.
 
 ---
 
@@ -230,7 +230,7 @@ Henri Bergson's concept of élan vital clearly inherits Schopenhauer's Will meta
 
 **纠正**：叔本华的审美理论对后世美学产生了深远影响（瓦格纳、普鲁斯特、托马斯·曼）。他的同情伦理学提供了独立于康德义务论和功利主义的第三条道德路径。他对印度哲学和佛教的引介开创了比较哲学的先河。他对无意识和非理性力量的揭示预示了整个深度心理学传统。
 
-**Correction**: Schopenhauer's aesthetic theory profoundly influenced subsequent aesthetics (Wagner, Proust, Thomas Mann). His compassion ethics offers a third moral path independent of Kantian deontology and utilitarianism. His introduction of Indian philosophy and Buddhism pioneered comparative philosophy. His revelation of the unconscious and irrational forces anticipated the entire depth-psychology tradition.
+**Correction**: Schopenhauer's aesthetic theory profoundly influenced subsequent 美学 (Wagner, Proust, Thomas Mann). His compassion ethics offers a third moral path independent of Kantian deontology and utilitarianism. His introduction of Indian 哲学 and Buddhism pioneered comparative 哲学. His revelation of the unconscious and irrational forces anticipated the entire depth-psychology tradition.
 
 ### 误读三：叔本华与尼采基本一致 / "Schopenhauer and Nietzsche are fundamentally the same"
 
@@ -242,7 +242,7 @@ Henri Bergson's concept of élan vital clearly inherits Schopenhauer's Will meta
 
 **纠正**：叔本华的"意志"是形而上学的本体论概念，而非心理学或经验概念。意志先于一切心理状态和个别意识，是自然界一切力量（包括物理力、化学力、生物力）的内在本质。将"意志"仅仅理解为人类欲望或心理冲动，是将本体论概念还原为经验心理学概念，这恰恰违背了叔本华的核心主张。
 
-**Correction**: Schopenhauer's "Will" is a metaphysical, ontological concept, not a psychological or empirical one. Will precedes all psychological states and individual consciousness; it is the inner essence of all forces in nature (including physical, chemical, and biological forces). Reducing "Will" to human desire or psychological impulse is reducing an ontological concept to empirical psychology — precisely contrary to Schopenhauer's central claim.
+**Correction**: Schopenhauer's "Will" is a metaphysical, ontological concept, not a psychological or empirical one. Will precedes all psychological states and individual consciousness; it is the inner essence of all forces in nature (including physical, chemical, and biological forces). Reducing "Will" to human desire or psychological impulse is reducing an ontological concept to empirical 心理学 — precisely contrary to Schopenhauer's central claim.
 
 ---
 
@@ -250,7 +250,7 @@ Henri Bergson's concept of élan vital clearly inherits Schopenhauer's Will meta
 
 叔本华是西方哲学史上第一位与东方传统进行深度对话的思想家。他在1813年左右接触到拉丁文翻译的《奥义书》（Upanishads），称之为"我一生的慰藉"。他对佛教的理解虽受限于当时欧洲的文献条件，但在结构层面揭示了惊人的平行关系。
 
-Schopenhauer was the first thinker in the history of Western philosophy to engage in deep dialogue with Eastern traditions. He encountered the Upanishads in Latin translation around 1813 and called them "the consolation of my life." Though his understanding of Buddhism was limited by the textual resources available in Europe at the time, his system reveals astonishing structural parallels.
+Schopenhauer was the first thinker in the history of Western 哲学 to engage in deep dialogue with Eastern traditions. He encountered the Upanishads in Latin translation around 1813 and called them "the consolation of my life." Though his understanding of Buddhism was limited by the textual resources available in Europe at the time, his system reveals astonishing structural parallels.
 
 ### 四圣谛与意志-悲观-否定结构 / The Four Noble Truths and the Will-Pessimism-Denial Structure
 
@@ -300,8 +300,8 @@ The Yogācāra school's doctrine of vijñaptimātra ("representation-only") — 
 |----------|----------|----------|------|
 | 德国观念论 | [康德 · Immanuel Kant](../../german-idealism/kant/kant.md) | 继承/批判 | 继承物自体/现象区分，将物自体等同于意志 |
 | 存在主义 | [尼采 · Friedrich Nietzsche](../existentialism/nietzsche/nietzsche.md) | 发展/批判 | 早期师从，后以权力意志批判生存意志 |
-| 精神分析 | [弗洛伊德 · Sigmund Freud](../../../psychology/schools/psychoanalysis/freud/freud.md) | 平行 | 无意识驱力与意志概念呼应 |
-| 佛教哲学 | [四圣谛](../../../religion/traditions/buddhism/four-noble-truths.md) | 结构平行 | 苦/集/灭/道与意志/悲观/否定/禁欲 |
+| 精神分析 | [弗洛伊德 · Sigmund Freud](../../../心理学/学派/精神分析/西格蒙德/freud.md) | 平行 | 无意识驱力与意志概念呼应 |
+| 佛教哲学 | [四圣谛](../../../宗教/传统/佛教/四圣谛与八正道.md) | 结构平行 | 苦/集/灭/道与意志/悲观/否定/禁欲 |
 | 分析哲学 | [维特根斯坦 · Ludwig Wittgenstein](../../analytic/wittgenstein/wittgenstein.md) | 呼应 | "可说/不可说"与意志-表象结构 |
 | 生命哲学 | [柏格森 · Henri Bergson](../../continental/bergson/bergson.md) | 继承/转化 | 生命冲动（élan vital）继承并转化意志概念 |
 | 神经科学 | [达马西奥 · Antonio Damasio](../../../cognitive-science/damasio.md) | 呼应 | 躯体标记理论与理性作为意志仆从 |

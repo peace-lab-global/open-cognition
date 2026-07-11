@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.cage.concepts.non-intention
+id: 美学.arts-thought.cage.concepts.non-intention
 title: 无目的性 Non-Intention
 type: concept
-parent: aesthetics.arts-thought.cage
+parent: 美学.arts-thought.cage
 tags: [non-intention, purposelessness, zen, wu-wei, art-philosophy]
 ---
 

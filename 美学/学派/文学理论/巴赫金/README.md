@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-theory.bakhtin
+id: 美学.literary-theory.bakhtin
 title: 米哈伊尔·巴赫金 Mikhail Bakhtin
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-theory
 era: modern
 birth: 1895
@@ -15,10 +15,10 @@ sources:
   - "The Dialogic Imagination (essays, 1930s-1940s)"
   - "Speech Genres and Other Late Essays (pub. 1986)"
 cross-refs:
-  - aesthetics.literary-thought.dostoevsky
-  - aesthetics.literary-theory.saussure
-  - aesthetics.literary-theory.barthes
-  - aesthetics.critical-aesthetics.benjamin
+  - 美学.literary-thought.dostoevsky
+  - 美学.literary-theory.saussure
+  - 美学.literary-theory.barthes
+  - 美学.critical-aesthetics.benjamin
 sub-entries:
   - concepts/polyphony
   - concepts/dialogism
@@ -67,7 +67,7 @@ The essential feature of the novel is multivoicedness — it assembles society's
 
 ### 5. 时空体 / Chronotope
 时空体是文学中时间和空间的组织形式。不同的文学类型具有不同的时空体——冒险小说的时空是抽象的、可替换的，而成长小说的时空与主人公的内在发展不可分离。时空体是叙事研究的结构性概念。
-The chronotope is the organization of time and space in literature. Different literary genres possess different chronotopes — the adventure novel's chronotope is abstract and interchangeable, while the Bildungsroman's chronotope is inseparable from the protagonist's inner development. The chronotope is a structural concept for narrative study.
+The chronotope is the organization of time and space in 文学. Different literary genres possess different chronotopes — the adventure novel's chronotope is abstract and interchangeable, while the Bildungsroman's chronotope is inseparable from the protagonist's inner development. The chronotope is a structural concept for narrative study.
 
 ### 6. 外位性 / Exotopy (Vnenakhodimost')
 理解总是从"外部"进行的——读者/理解者处于文本之外，正是这种"外位性"使得审美理解成为可能。完全的认同是不可能的，也是不必要的；真正的理解保持对话的距离。
@@ -81,7 +81,7 @@ Understanding always proceeds from "outside" — the reader/understander stands 
 巴赫金早年在维捷布斯克和涅韦尔组织哲学小组，形成了对话主义的基本思想。1929年出版的《陀思妥耶夫斯基创作问题》首次提出"复调小说"概念，是巴赫金理论的奠基之作。
 
 **Early Period (1919–1929): Philosophical Anthropology and Dostoevsky Studies**
-Bakhtin organized philosophy circles in Vitebsk and Nevel, forming the basic ideas of dialogism. His 1929 *Problems of Dostoevsky's Poetics* first proposed the "polyphonic novel" concept, the foundational work of Bakhtinian theory.
+Bakhtin organized 哲学 circles in Vitebsk and Nevel, forming the basic ideas of dialogism. His 1929 *Problems of Dostoevsky's Poetics* first proposed the "polyphonic novel" concept, the foundational work of Bakhtinian theory.
 
 ### 中期（1930s–1940s）：小说理论与语言学转向
 1930年代巴赫金被流放至库斯塔奈，期间撰写了大量关于小说理论的论文——后来收入英文集《对话的想象》。这一时期的核心理论包括杂语、时空体和小说话语的类型学。

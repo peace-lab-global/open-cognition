@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.vinaya
+id: 宗教.buddhism.school.vinaya
 title: 律宗 Vinaya School
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 era: medieval
 tags: [律宗, 戒律, 四分律, 南山律, 戒体, 道宣]
@@ -101,9 +101,9 @@ sources: [《四分律》, 《四分律删繁补阙行事钞》, 《南山律》
 
 ## 跨学科关联
 
-- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 戒律作为自我修养
-- [康德 · 道德律](../../../philosophy/schools/german-idealism/kant.md) — [平行] 戒体 vs 道德律令
-- [皮亚杰 · 道德发展](../../../psychology/schools/cognitive/piaget.md) — [平行] 戒律学习 vs 道德发展阶段
+- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 戒律作为自我修养
+- [康德 · 道德律](../../../哲学/学派/德国唯心论/康德.md) — [平行] 戒体 vs 道德律令
+- [皮亚杰 · 道德发展](../../../心理学/学派/认知心理学/皮亚杰.md) — [平行] 戒律学习 vs 道德发展阶段
 
 ## 进阶阅读
 

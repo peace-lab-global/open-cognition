@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.kukai.concept.three-mysteries
+id: 宗教.buddhism.master.kukai.concept.three-mysteries
 title: 三密 Three Mysteries
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
 tags: [三密, 三密加持, 身口意, Three Mysteries, Sanmitsu, Mudra, Mantra, Samadhi]
@@ -101,7 +101,7 @@ Kūkai's Three Mysteries framework anticipates modern somatic insights in severa
 - **言语行为理论**：口密修行与奥斯汀（J.L. Austin）的"言语行为"理论相通——真言不仅是描述现实，更是在执行现实。
   **Speech Act Theory**: Speech Mystery practice resonates with J.L. Austin's speech act theory — mantras do not merely describe reality but perform it.
 - **冥想神经科学**：意密的观想修行与现代神经科学关于冥想对大脑可塑性影响的研究相吻合。
-  **Meditation Neuroscience**: Mind Mystery visualization practice aligns with modern neuroscience research on meditation's effects on brain plasticity.
+  **Meditation Neuroscience**: Mind Mystery visualization practice aligns with modern neuroscience 研究 on meditation's effects on brain plasticity.
 
 ## 与其他佛教传统的比较 · Comparison with Other Buddhist Traditions
 

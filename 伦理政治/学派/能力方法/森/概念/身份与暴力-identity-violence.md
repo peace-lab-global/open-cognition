@@ -3,7 +3,7 @@ id: sen-identity-violence
 title: "身份与暴力 · Identity and Violence"
 type: concept
 thinker: sen
-domain: ethics-politics
+domain: 伦理政治
 school: capability-approach
 tags: [identity, violence, pluralism, civilization, multiculturalism, peace]
 cross-refs: [huntington, said, appiah, nussbaum, tagore]
@@ -77,7 +77,7 @@ In contemporary global politics, the trend of identity reduction is increasingly
 
 在多元文化教育中，身份多元性概念被用于设计促进跨文化理解的教育课程。在社交媒体治理中，分析算法如何强化身份单一化（通过推荐系统创造的"信息茧房"）成为重要的研究方向。
 
-In multicultural education, the identity plurality concept is used to design curricula promoting cross-cultural understanding. In social media governance, analyzing how algorithms reinforce identity reduction (through "filter bubbles" created by recommendation systems) has become an important research direction.
+In multicultural education, the identity plurality concept is used to design curricula promoting cross-cultural understanding. In social media governance, analyzing how algorithms reinforce identity reduction (through "filter bubbles" created by recommendation systems) has become an important 研究 direction.
 
 ## 批评与回应 / Critiques and Responses
 

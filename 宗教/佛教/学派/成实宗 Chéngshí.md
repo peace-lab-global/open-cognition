@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.chengshi
+id: 宗教.buddhism.school.chengshi
 title: 成实宗 Chéngshí
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chengshi
 era: ancient
 tags: [成实宗, 成实论, 诃梨跋摩, 灭三心, 人空法空]

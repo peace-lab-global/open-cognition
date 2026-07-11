@@ -1,7 +1,7 @@
 ---
 name: eight-consciousness-diagnosis
 description: 瑜伽师地论八识体系用于诊断认知结构——从前五识（感知层）到第六意识（思维层）、第七末那识（我执层）、第八阿赖耶识（种子层），定位认知卡点所在层次。Triggers on 当事人认知模式不清晰、反复在同一点卡住、需要系统性认知诊断的场景。
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 linked_concepts:
   - ../../concepts/cognitive-theory/eight-consciousness.md
@@ -166,5 +166,5 @@ tags:
 
 - 概念：[八识体系](../../concepts/cognitive-theory/eight-consciousness.md)
 - 相关Skill：[七处征心·认知解构](../qichu-zhengxin-deconstruction/SKILL.md)
-- 跨传统：[卡尼曼·双系统](../../../../psychology/schools/behavioral-economics/kahneman.md)（平行）——系统1/2与前五识/意识的对应
-- 跨传统：[弗洛伊德·潜意识](../../../../psychology/schools/psychoanalysis/freud.md)（平行）——阿赖耶识与潜意识的类比
+- 跨传统：[卡尼曼·双系统](../../../../心理学/学派/行为经济学/丹尼尔.md)（平行）——系统1/2与前五识/意识的对应
+- 跨传统：[弗洛伊德·潜意识](../../../../心理学/学派/精神分析/西格蒙德.md)（平行）——阿赖耶识与潜意识的类比

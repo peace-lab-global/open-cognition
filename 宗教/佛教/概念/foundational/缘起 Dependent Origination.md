@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.dependent-origination
+id: 宗教.buddhism.core.dependent-origination
 title: 缘起 Dependent Origination
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [缘起, 十二因缘, pratityasamutpada]
@@ -63,10 +63,10 @@ sources: [巴利三藏, 《阿含经》, 《稻芉经》]
 
 ## 跨学科关联
 
-- [休谟 · 因果](../../../philosophy/schools/empiricism/hume.md) — [平行] 因果分析
+- [休谟 · 因果](../../../哲学/学派/经验主义/休谟.md) — [平行] 因果分析
 - [系统科学] — [平行] 涌现
 - [量子力学] — [平行] 非局部性
-- [社会学 · 结构](../../../sociology/schools/structuralism/bourdieu.md) — [互补] 场域缘起
+- [社会学 · 结构](../../../社会学/学派/结构主义/布迪厄.md) — [互补] 场域缘起
 
 ## 进阶阅读
 

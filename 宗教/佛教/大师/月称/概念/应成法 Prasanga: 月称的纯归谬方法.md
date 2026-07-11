@@ -3,7 +3,7 @@ id: candrakirti-prasanga-method
 title: "应成法 Prasanga: 月称的纯归谬方法"
 type: concept
 parent: candrakirti
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka-prasangika
 tags: [prasanga, reductio, negation, Madhyamaka, critical-philosophy]
 ---
@@ -74,7 +74,7 @@ tags: [prasanga, reductio, negation, Madhyamaka, critical-philosophy]
 
 月称的应成法与维特根斯坦后期哲学形成惊人的结构平行。维特根斯坦说"哲学不做任何断言，只是把一切摆在那里"(PI §124-126)——这与月称"破而不立"的立场异曲同工。两者都将哲学视为一种治疗活动 (therapeutic activity)，而非理论建构。
 
-**Candrakirti's prasanga method parallels Wittgenstein's later philosophy strikingly. Wittgenstein says "philosophy asserts nothing, it only puts everything before us" (PI §124-126) — resonating with Candrakirti's "refute without asserting." Both see philosophy as therapeutic activity, not theory-building.**
+**Candrakirti's prasanga method parallels Wittgenstein's later 哲学 strikingly. Wittgenstein says "philosophy asserts nothing, it only puts everything before us" (PI §124-126) — resonating with Candrakirti's "refute without asserting." Both see 哲学 as therapeutic activity, not theory-building.**
 
 ## 应成法的局限性争论 / Debates on Prasanga's Limits
 

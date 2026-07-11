@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.three-poisons
+id: 宗教.buddhism.concept.three-poisons
 title: 贪嗔痴 Three Poisons
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-fundamental
 era: ancient
 tags: [贪嗔痴, 三毒, 三不善根, 烦恼, 对治法]

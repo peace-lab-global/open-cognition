@@ -1,8 +1,8 @@
 ---
-id: aesthetics.german-aesthetics.kant-aesthetics
+id: 美学.german-aesthetics.kant-aesthetics
 title: 伊曼纽尔·康德（美学） Immanuel Kant (Aesthetics)
 type: thinker
-domain: aesthetics
+domain: 美学
 school: german-aesthetics
 era: enlightenment
 birth: 1724
@@ -15,10 +15,10 @@ sources:
   - "Critique of Pure Reason (1781)"
   - "Critique of Practical Reason (1788)"
 cross-refs:
-  - aesthetics.german-aesthetics.hegel-aesthetics
-  - aesthetics.critical-aesthetics.adorno
-  - aesthetics.nietzschean-aesthetics.nietzsche-aesthetics
-  - aesthetics.pragmatist-aesthetics.dewey-aesthetics
+  - 美学.german-aesthetics.hegel-aesthetics
+  - 美学.critical-aesthetics.adorno
+  - 美学.nietzschean-aesthetics.nietzsche-aesthetics
+  - 美学.pragmatist-aesthetics.dewey-aesthetics
 sub-entries:
   - concepts/disinterested-pleasure
   - concepts/sublime
@@ -43,7 +43,7 @@ sub-entries:
 
 伊曼纽尔·康德（Immanuel Kant, 1724–1804）是西方哲学史上最具影响力的思想家之一，他的批判哲学体系深刻重塑了认识论、伦理学和美学。在美学领域，康德的《判断力批判》（1790）是划时代的里程碑——它首次系统性地回答了"审美判断如何可能"这一先验问题，将美学从经验主义的趣味论和理性主义的完善论中解放出来，建立了以"无利害的愉悦"为核心的审美判断理论。康德的美学不仅是德国观念论美学的起点，也是从席勒、黑格尔到阿多诺、德里达的整个现代美学传统的共同参照。
 
-Immanuel Kant (1724–1804) is one of the most influential thinkers in Western philosophy, whose critical philosophy profoundly reshaped epistemology, ethics, and aesthetics. In aesthetics, Kant's *Critique of Judgment* (1790) was a watershed moment — it was the first systematic answer to the transcendental question "how are aesthetic judgments possible," liberating aesthetics from both empiricist taste theory and rationalist perfection theory, establishing a theory of aesthetic judgment centered on "disinterested pleasure." Kant's aesthetics is not only the starting point of German idealist aesthetics but also the common reference for the entire modern aesthetic tradition from Schiller and Hegel to Adorno and Derrida.
+Immanuel Kant (1724–1804) is one of the most influential thinkers in Western philosophy, whose critical 哲学 profoundly reshaped epistemology, ethics, and 美学. In aesthetics, Kant's *Critique of Judgment* (1790) was a watershed moment — it was the first systematic answer to the transcendental question "how are aesthetic judgments possible," liberating 美学 from both empiricist taste theory and rationalist perfection theory, establishing a theory of aesthetic judgment centered on "disinterested pleasure." Kant's 美学 is not only the starting point of German idealist 美学 but also the common reference for the entire modern aesthetic tradition from Schiller and Hegel to Adorno and Derrida.
 
 ---
 
@@ -59,7 +59,7 @@ Kant analyzes aesthetic judgment through four categories: Quality — disinteres
 
 ### 3. 崇高论 / The Sublime
 崇高感产生于想象力面对无限量（数学崇高）或无限力量（力学崇高）时的失败与超越。崇高不在对象中而在心灵中——它揭示了人类理性的超感性使命，是道德情感在审美中的回响。
-The feeling of the sublime arises when imagination fails before unlimited magnitude (mathematical sublime) or unlimited power (dynamical sublime), and is then transcended. The sublime resides not in the object but in the mind — it reveals humanity's supersensible vocation, an echo of moral feeling in aesthetics.
+The feeling of the sublime arises when imagination fails before unlimited magnitude (mathematical sublime) or unlimited power (dynamical sublime), and is then transcended. The sublime resides not in the object but in the mind — it reveals humanity's supersensible vocation, an echo of moral feeling in 美学.
 
 ### 4. 无目的的合目的性 / Purposiveness Without Purpose
 审美对象呈现出似乎被有意设计的合目的性，但我们无法指出其具体目的。这种"无目的的合目的性"是审美判断的核心特征——自然美似乎"为我们的判断力而被设计"，但这种合目的性仅是主观的、反思性的。
@@ -81,7 +81,7 @@ In §59 of the *Critique of Judgment*, Kant proposes that "beauty is a symbol of
 康德早年在柯尼斯堡大学学习和任教，研究自然科学和沃尔夫哲学。1764年发表的《对美感和崇高感的观察》是他最早的美学著述，此时他的美学思想仍受英国经验主义（特别是Burke）的影响。
 
 **Pre-Critical Period (1746–1770)**
-Kant's early years were spent studying and teaching at Königsberg University, researching natural science and Wolffian philosophy. His *Observations on the Feeling of the Beautiful and Sublime* (1764) was his earliest aesthetic work, still influenced by British empiricism (especially Burke).
+Kant's early years were spent studying and teaching at Königsberg University, researching natural science and Wolffian 哲学. His *Observations on the Feeling of the Beautiful and Sublime* (1764) was his earliest aesthetic work, still influenced by British empiricism (especially Burke).
 
 ### 批判哲学建构（1781–1788）
 "三大批判"中的前两部——《纯粹理性批判》（1781）和《实践理性批判》（1788）——分别确立了认识论和伦理学的基础。但自然领域（必然）与自由领域之间的鸿沟需要一座桥梁——这正是第三批判的任务。
@@ -93,7 +93,7 @@ The first two of the three Critiques — *Critique of Pure Reason* (1781) and *C
 《判断力批判》通过分析审美判断和目的论判断，试图沟通自然与自由的分裂。"美的分析"和"崇高的分析"构成了美学部分，"目的论判断力批判"构成了目的论部分。康德在此书中将美学提升为先验哲学的高度。
 
 **Critique of Judgment (1790)**
-The *Critique of Judgment*, through analyzing aesthetic and teleological judgments, attempted to bridge the split between nature and freedom. The "Analytic of the Beautiful" and "Analytic of the Sublime" constitute the aesthetic portion. In this work Kant elevated aesthetics to the level of transcendental philosophy.
+The *Critique of Judgment*, through analyzing aesthetic and teleological judgments, attempted to bridge the split between nature and freedom. The "Analytic of the Beautiful" and "Analytic of the Sublime" constitute the aesthetic portion. In this work Kant elevated 美学 to the level of transcendental 哲学.
 
 ---
 

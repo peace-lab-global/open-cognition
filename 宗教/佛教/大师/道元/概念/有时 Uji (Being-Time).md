@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen.concepts.being-time-uji
+id: 宗教.buddhism.masters.dogen.concepts.being-time-uji
 title: 有时 Uji (Being-Time)
 type: concept
-domain: religion
+domain: 宗教
 parent: ../README.md
 tags: [道元, Dogen, 有时, uji, being-time, 时间, time]
 ---
@@ -43,11 +43,11 @@ Dōgen's "now" (*ima*) is not an infinitely divisible point on a timeline but an
 
 道元在《有时》卷中展示了极具特色的语言哲学方法。他通过对"有时"一词的语法创造性使用，实现了哲学突破。日语中"有る時"（aru toki）通常是一个时间副词短语，意为"有时候"——一个普通的、不起眼的时间表达。道元将"有"（存在）和"時"（时间）这两个概念焊合为一个不可分割的复合词"有时"（uji），从而在语言层面实现了存在与时间的本体论统一。
 
-Dōgen demonstrates a distinctive philosophy of language in the *Uji* fascicle. He achieves philosophical breakthrough through grammatical creativity with the word *uji*. In Japanese, *aru toki* is ordinarily a temporal adverb phrase meaning "sometimes" — a common, unremarkable expression. Dōgen welds the two concepts of *u* (being/existence) and *ji* (time) into the inseparable compound *uji*, thereby enacting the ontological unity of being and time at the linguistic level.
+Dōgen demonstrates a distinctive 哲学 of language in the *Uji* fascicle. He achieves philosophical breakthrough through grammatical creativity with the word *uji*. In Japanese, *aru toki* is ordinarily a temporal adverb phrase meaning "sometimes" — a common, unremarkable expression. Dōgen welds the two concepts of *u* (being/existence) and *ji* (time) into the inseparable compound *uji*, thereby enacting the ontological unity of being and time at the linguistic level.
 
 这种方法——以语言的创造性使用来突破概念的局限——是道元哲学的标志性特征。他不是"描述"时间-存在的统一，而是通过造词来"实现"这种统一。语言在这里不是表达工具，而是哲学行动本身。这一点使道元与维特根斯坦的语言哲学形成有趣的对话：两者都认识到语言的界限即世界的界限，但道元的应对方式不是"沉默"，而是创造性地重塑语言。
 
-This method — using creative language to break through conceptual limitations — is a hallmark of Dōgen's philosophy. He does not "describe" the unity of being-time but "enacts" it through word-creation. Language here is not an expressive tool but philosophical action itself. This makes Dōgen an interesting dialogue partner for Wittgenstein's philosophy of language: both recognize that the limits of language are the limits of the world, but Dōgen's response is not silence but creative reshaping of language.
+This method — using creative language to break through conceptual limitations — is a hallmark of Dōgen's 哲学. He does not "describe" the unity of being-time but "enacts" it through word-creation. Language here is not an expressive tool but philosophical action itself. This makes Dōgen an interesting dialogue partner for Wittgenstein's 哲学 of language: both recognize that the limits of language are the limits of the world, but Dōgen's response is not silence but creative reshaping of language.
 
 ## 与海德格尔的对话 / Dialogue with Heidegger
 

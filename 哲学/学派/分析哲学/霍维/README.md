@@ -2,7 +2,7 @@
 id: hohwy
 title: 霍维 · Jakob Hohwy
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: "1968"
@@ -47,12 +47,12 @@ sub_entries:
 **出生 / Born:** 1968, 丹麦 / Denmark
 **国籍 / Nationality:** 丹麦-澳大利亚 / Danish-Australian
 **现职 / Current Position:** 蒙纳士大学哲学教授 / Professor of Philosophy, Monash University (Australia)
-**研究领域 / Research Areas:** 预测加工哲学、意识哲学、认知科学哲学、心灵哲学 / Philosophy of predictive processing, philosophy of consciousness, philosophy of cognitive science, philosophy of mind
-**学术背景 / Academic Background:** 奥胡斯大学哲学博士，曾在爱丁堡大学从事博士后研究 / PhD in Philosophy from Aarhus University; postdoctoral research at the University of Edinburgh
+**研究领域 / Research Areas:** 预测加工哲学、意识哲学、认知科学哲学、心灵哲学 / Philosophy of predictive processing, 哲学 of consciousness, 哲学 of cognitive science, 哲学 of mind
+**学术背景 / Academic Background:** 奥胡斯大学哲学博士，曾在爱丁堡大学从事博士后研究 / PhD in Philosophy from Aarhus University; postdoctoral 研究 at the University of Edinburgh
 
 Jakob Hohwy 是当代心灵哲学与认知科学哲学领域最具影响力的思想家之一。他以对预测加工（predictive processing）框架的系统性哲学阐释闻名于世，特别是2013年出版的《预测心智》（*The Predictive Mind*）——这是第一部全面从哲学角度审视预测加工理论的专著。Hohwy 的核心贡献在于将一个源自计算神经科学的理论框架提升为一个统一的心灵哲学范式，并深入探讨其认识论、形而上学和现象学含义。
 
-Jakob Hohwy is one of the most influential thinkers in contemporary philosophy of mind and philosophy of cognitive science. He is renowned for his systematic philosophical interpretation of the predictive processing framework, particularly through his 2013 monograph *The Predictive Mind* — the first comprehensive philosophical examination of predictive processing theory. Hohwy's central contribution lies in elevating a framework originating in computational neuroscience into a unified philosophy of mind paradigm, while deeply exploring its epistemological, metaphysical, and phenomenological implications.
+Jakob Hohwy is one of the most influential thinkers in contemporary 哲学 of mind and 哲学 of cognitive science. He is renowned for his systematic philosophical interpretation of the predictive processing framework, particularly through his 2013 monograph *The Predictive Mind* — the first comprehensive philosophical examination of predictive processing theory. Hohwy's central contribution lies in elevating a framework originating in computational neuroscience into a unified 哲学 of mind paradigm, while deeply exploring its epistemological, metaphysical, and phenomenological implications.
 
 ---
 
@@ -98,7 +98,7 @@ In the mid-2000s, Karl Friston's Free Energy Principle and predictive coding pro
 **《预测心智》（2013）/ The Predictive Mind (2013):**
 这本书标志着预测加工哲学的正式诞生。Hohwy 系统地论证了：(1) 预测编码是大脑的统一计算原理；(2) 这一原理具有深远的哲学含义；(3) 它重新定义了感知、行动和意识的关系。该书特别突出了 Hohwy 与 Clark 之间的关键分歧——Hohwy 强调预测加工的内部主义（internalist）解读，而 Clark 倾向于外部主义（externalist）解读。
 
-This book marked the formal birth of predictive processing philosophy. Hohwy systematically argued that: (1) predictive coding is the brain's unified computational principle; (2) this principle has profound philosophical implications; (3) it redefines the relationship between perception, action, and consciousness. The book particularly highlighted the crucial divergence between Hohwy and Clark — Hohwy emphasized the internalist reading of predictive processing, while Clark favored the externalist reading.
+This book marked the formal birth of predictive processing 哲学. Hohwy systematically argued that: (1) predictive coding is the brain's unified computational principle; (2) this principle has profound philosophical implications; (3) it redefines the relationship between perception, action, and consciousness. The book particularly highlighted the crucial divergence between Hohwy and Clark — Hohwy emphasized the internalist reading of predictive processing, while Clark favored the externalist reading.
 
 **自我证明与主动推理 / Self-Evidencing and Active Inference:**
 2016年至2020年间，Hohwy 进一步发展了"自我证明"（self-evidencing）的概念，将预测加工与贝叶斯模型选择理论联系起来。他论证道，大脑不仅最小化预测误差，还主动选择能确认其模型的行动——这使得预测加工框架具有了一种深刻的循环性和自指性。
@@ -111,7 +111,7 @@ Between 2016 and 2020, Hohwy further developed the concept of "self-evidencing,"
 
 | 年份 / Year | 著作 / Work | 类型 / Type | 核心贡献 / Core Contribution |
 |:---:|---|:---:|---|
-| 2013 | *The Predictive Mind* (Oxford UP) | 专著 / Monograph | 预测加工哲学的奠基之作 / Founding work of PP philosophy |
+| 2013 | *The Predictive Mind* (Oxford UP) | 专著 / Monograph | 预测加工哲学的奠基之作 / Founding work of PP 哲学 |
 | 2016 | "The Self-Evidencing Brain" (*Noûs*) | 论文 / Paper | 自我论证题的提出 / Self-evidencing thesis |
 | 2014 | "The Self-Evidencing Brain" (*Phil. & Phenom. Research*) | 论文 / Paper | 早期自我论证论述 / Early self-evidencing formulation |
 | 2012 | "When the brain is prepared to learn" (*Consciousness & Cognition*) | 论文 / Paper | 预测学习与意识 / Predictive learning & consciousness |
@@ -153,7 +153,7 @@ Between 2016 and 2020, Hohwy further developed the concept of "self-evidencing,"
 
 **对立面 / Opposing Views:**
 - **延展心智理论 (Extended Mind):** Clark & Chalmers 认为心智延展至环境 / Clark & Chalmers argue mind extends into environment
-- **直接实在论 (Direct Realism):** Gibson 的生态心理学主张直接感知 / Gibson's ecological psychology posits direct perception
+- **直接实在论 (Direct Realism):** Gibson 的生态心理学主张直接感知 / Gibson's ecological 心理学 posits direct perception
 - **模块化理论 (Modularity):** Fodor 的认知模块化与预测加工的渗透性矛盾 / Fodor's modularity conflicts with PP's cognitive penetration
 
 ---
@@ -260,7 +260,7 @@ Zhuangzi's reflection on cognitive limitations in the "Equality of Things" chapt
 ## 进阶阅读 / Further Reading
 
 **入门 / Introductory:**
-1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press. — 预测加工哲学的必读起点 / Essential starting point for PP philosophy
+1. Hohwy, J. (2013). *The Predictive Mind*. Oxford University Press. — 预测加工哲学的必读起点 / Essential starting point for PP 哲学
 2. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *BBS* 36(3). — 与 Hohwy 的对比视角 / Contrasting perspective with Hohwy
 
 **中级 / Intermediate:**

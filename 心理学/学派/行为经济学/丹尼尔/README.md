@@ -2,7 +2,7 @@
 id: kahneman
 title: "丹尼尔·卡尼曼 · Daniel Kahneman"
 type: thinker
-domain: psychology
+domain: 心理学
 school: behavioral-economics
 era: contemporary
 birth: 1934
@@ -48,7 +48,7 @@ concepts:
 
 人类思维由两个截然不同的系统驱动：**系统1**（快速、自动化、直觉性、情绪化）和**系统2**（缓慢、刻意、分析性、费力）。大多数日常判断由系统1主导，系统2则充当"懒惰的监督者"。这一框架整合了数十年的认知心理学研究，成为理解人类决策的基础架构。
 
-Human thinking is driven by two distinct systems: **System 1** (fast, automatic, intuitive, emotional) and **System 2** (slow, deliberate, analytical, effortful). Most everyday judgments are dominated by System 1, while System 2 acts as a "lazy overseer." This framework integrates decades of cognitive psychology research and provides the foundational architecture for understanding human decision-making.
+Human thinking is driven by two distinct systems: **System 1** (fast, automatic, intuitive, emotional) and **System 2** (slow, deliberate, analytical, effortful). Most everyday judgments are dominated by System 1, while System 2 acts as a "lazy overseer." This framework integrates decades of cognitive 心理学 研究 and provides the foundational architecture for understanding human decision-making.
 
 ### 2. 启发式与偏差 · Heuristics and Biases
 
@@ -88,19 +88,19 @@ In his later collaboration with Sibony and Sunstein, Kahneman shifted focus from
 
 卡尼曼在希伯来大学学习心理学，获学士与硕士学位。1961年在加州大学伯克利分校获博士学位，论文涉及视觉感知与注意力。回到希伯来大学后，他开始研究人类注意力的有限容量问题。1969年，他与阿莫斯·特沃斯基开始了改变心理学历史的合作——两人性格互补（卡尼曼偏向直觉与自我怀疑，特沃斯基偏向逻辑与自信），合作产出了大量开创性论文。1973–1974年，他们在《科学》杂志发表了关于启发式与偏差的系列论文，奠定了整个研究纲领的基础。
 
-Kahneman studied psychology at the Hebrew University, earning bachelor's and master's degrees. He received his PhD from UC Berkeley in 1961, with a dissertation on visual perception and attention. Returning to the Hebrew University, he began investigating the limited capacity of human attention. In 1969, he began his historic collaboration with Amos Tversky — their complementary temperaments (Kahneman intuitive and self-doubting, Tversky logical and confident) produced an extraordinary stream of groundbreaking papers. In 1973–1974, their series of papers on heuristics and biases in *Science* laid the foundation for an entire research program.
+Kahneman studied 心理学 at the Hebrew University, earning bachelor's and master's degrees. He received his PhD from UC Berkeley in 1961, with a dissertation on visual perception and attention. Returning to the Hebrew University, he began investigating the limited capacity of human attention. In 1969, he began his historic collaboration with Amos Tversky — their complementary temperaments (Kahneman intuitive and self-doubting, Tversky logical and confident) produced an extraordinary stream of groundbreaking papers. In 1973–1974, their series of papers on heuristics and biases in *Science* laid the foundation for an entire 研究 program.
 
 ### 第二期（1979–2002）：前景理论与行为经济学 · Prospect Theory and Behavioral Economics
 
 1979年，卡尼曼与特沃斯基在《Econometrica》发表"前景理论"（Prospect Theory），直接挑战传统经济学的期望效用最大化假设。这一论文成为行为经济学的奠基之作。此后两人继续合作，提出框架效应、禀赋效应等重要概念。1996年特沃斯基因病去世后，卡尼曼继续深化研究。2002年，卡尼曼因"将心理学研究的洞见融入经济学科学"而获得诺贝尔经济学奖。
 
-In 1979, Kahneman and Tversky published "Prospect Theory" in *Econometrica*, directly challenging the expected utility maximization assumption of traditional economics. This paper became the founding document of behavioral economics. The two continued to collaborate, developing framing effects, the endowment effect, and other key concepts. After Tversky's death from illness in 1996, Kahneman continued to deepen the research. In 2002, Kahneman received the Nobel Memorial Prize in Economic Sciences for "having integrated insights from psychological research into economic science."
+In 1979, Kahneman and Tversky published "Prospect Theory" in *Econometrica*, directly challenging the expected utility maximization assumption of traditional economics. This paper became the founding document of behavioral economics. The two continued to collaborate, developing framing effects, the endowment effect, and other key concepts. After Tversky's death from illness in 1996, Kahneman continued to deepen the 研究. In 2002, Kahneman received the Nobel Memorial Prize in Economic Sciences for "having integrated insights from psychological 研究 into economic science."
 
 ### 第三期（2003–2024）：普及与拓展 · Popularization and Extension
 
 2011年出版的《思考，快与慢》是卡尼曼学术生涯的系统总结，面向大众读者，将数十年研究成果整合在双系统框架下，成为全球畅销书。此后，他将研究兴趣拓展到幸福感测量（体验自我与记忆自我的区分）以及判断中的噪声问题。2021年与西博尼、桑斯坦合著出版《噪声》，进一步丰富了对人类判断错误的理解。卡尼曼于2024年3月27日逝世，享年90岁。
 
-*Thinking, Fast and Slow* (2011) was the systematic summation of Kahneman's career, written for a general audience and integrating decades of research under the dual-system framework; it became a global bestseller. He subsequently expanded his interests to well-being measurement (the distinction between the experiencing self and the remembering self) and the problem of noise in judgment. *Noise* (2021), co-authored with Sibony and Sunstein, further enriched the understanding of human judgment error. Kahneman passed away on March 27, 2024, at the age of 90.
+*Thinking, Fast and Slow* (2011) was the systematic summation of Kahneman's career, written for a general audience and integrating decades of 研究 under the dual-system framework; it became a global bestseller. He subsequently expanded his interests to well-being measurement (the distinction between the experiencing self and the remembering self) and the problem of noise in judgment. *Noise* (2021), co-authored with Sibony and Sunstein, further enriched the understanding of human judgment error. Kahneman passed away on March 27, 2024, at the age of 90.
 
 ---
 
@@ -137,7 +137,7 @@ In 1979, Kahneman and Tversky published "Prospect Theory" in *Econometrica*, dir
 
 ## 思想坐标 · Intellectual Coordinates
 
-- **承接 · Builds on**：赫伯特·西蒙（Herbert Simon）的有限理性（bounded rationality）理论；认知心理学的信息加工范式。Simon's bounded rationality; the information-processing paradigm of cognitive psychology.
+- **承接 · Builds on**：赫伯特·西蒙（Herbert Simon）的有限理性（bounded rationality）理论；认知心理学的信息加工范式。Simon's bounded rationality; the information-processing paradigm of cognitive 心理学.
 - **批判 · Critiques**：传统经济学的理性人假设（Homo Economicus）；期望效用理论（von Neumann-Morgenstern）；贝叶斯推理作为人类判断的描述性模型。The rational agent assumption (Homo Economicus); expected utility theory; Bayesian reasoning as a descriptive model of human judgment.
 - **同时代对话 · Contemporary dialogue**：理查德·塞勒（Richard Thaler）的"助推"理论；加里·吉仁泽（Gerd Gigerenzer）的"生态理性"争论；安东尼奥·达马西奥（Antonio Damasio）的躯体标记假说。Thaler's nudge theory; Gigerenzer's ecological rationality debate; Damasio's somatic marker hypothesis.
 - **影响 · Influences**：行为经济学、行为金融学、公共政策设计、医疗决策科学、法律判决改革、人工智能人机交互设计。Behavioral economics, behavioral finance, public policy design, medical decision science, legal judgment reform, AI/HCI design.
@@ -146,17 +146,17 @@ In 1979, Kahneman and Tversky published "Prospect Theory" in *Econometrica*, dir
 
 ## 当代应用 · Contemporary Applications
 
-1. **公共政策助推 · Public Policy Nudging** — 英国行为洞察团队（BIT）、各国"助推单元"将卡尼曼的研究转化为默认选项设计、简化信息呈现等政策工具。The UK Behavioural Insights Team and national "nudge units" translate Kahneman's research into default-option design and simplified information presentation.
+1. **公共政策助推 · Public Policy Nudging** — 英国行为洞察团队（BIT）、各国"助推单元"将卡尼曼的研究转化为默认选项设计、简化信息呈现等政策工具。The UK Behavioural Insights Team and national "nudge units" translate Kahneman's 研究 into default-option design and simplified information presentation.
 
 2. **金融投资决策 · Financial Investment** — 行为金融学直接继承了前景理论与偏差研究，帮助投资者识别过度自信、处置效应（过早卖出盈利股、过久持有亏损股）等系统性错误。Behavioral finance directly inherits prospect theory and bias research, helping investors identify overconfidence, the disposition effect, and other systematic errors.
 
-3. **医疗诊断与决策 · Medical Diagnosis** — 噪声研究揭示了不同医生对同一患者诊断的巨大差异，推动了标准化诊断协议和决策辅助工具的开发。Noise research has revealed enormous diagnostic variation among doctors evaluating the same patient, driving development of standardized diagnostic protocols and decision aids.
+3. **医疗诊断与决策 · Medical Diagnosis** — 噪声研究揭示了不同医生对同一患者诊断的巨大差异，推动了标准化诊断协议和决策辅助工具的开发。Noise 研究 has revealed enormous diagnostic variation among doctors evaluating the same patient, driving development of standardized diagnostic protocols and decision aids.
 
 4. **产品与用户体验设计 · Product and UX Design** — 框架效应、锚定效应和损失厌恶原则被广泛应用于定价策略、免费试用设计和用户引导流程。Framing effects, anchoring, and loss aversion principles are widely applied in pricing strategies, free-trial design, and user onboarding flows.
 
-5. **司法判决改革 · Judicial Reform** — 噪声研究揭示了不同法官对相似案件量刑的巨大差异（"系统噪声"），推动了量刑指南和算法辅助判决的讨论。Noise research has revealed enormous sentencing disparities among judges for similar cases ("system noise"), driving discussions about sentencing guidelines and algorithmic decision aids.
+5. **司法判决改革 · Judicial Reform** — 噪声研究揭示了不同法官对相似案件量刑的巨大差异（"系统噪声"），推动了量刑指南和算法辅助判决的讨论。Noise 研究 has revealed enormous sentencing disparities among judges for similar cases ("system noise"), driving discussions about sentencing guidelines and algorithmic decision aids.
 
-6. **人工智能与人类判断 · AI and Human Judgment** — 卡尼曼的研究为"人在回路"（human-in-the-loop）系统设计提供了认知基础——理解人类判断的弱点，才能更好地设计人机协作。Kahneman's research provides the cognitive foundation for human-in-the-loop system design — understanding the weaknesses of human judgment enables better human-machine collaboration.
+6. **人工智能与人类判断 · AI and Human Judgment** — 卡尼曼的研究为"人在回路"（human-in-the-loop）系统设计提供了认知基础——理解人类判断的弱点，才能更好地设计人机协作。Kahneman's 研究 provides the cognitive foundation for human-in-the-loop system design — understanding the weaknesses of human judgment enables better human-machine collaboration.
 
 7. **教育与批判性思维 · Education and Critical Thinking** — 双系统框架被用于教学设计，帮助学生识别自身认知偏差，培养"去偏差"（debiasing）能力。The dual-system framework is used in instructional design to help students recognize their own cognitive biases and develop debiasing skills.
 
@@ -176,10 +176,10 @@ Kahneman explicitly states that System 1 is an efficient evolutionary tool that 
 **"人类总是非理性的。"** / "Humans are always irrational."
 
 ✅ **卡尼曼强调的是**：启发式在大多数情况下是有效的近似策略（"通常很好用"），只是在特定条件下产生系统性偏差。他反对的不是理性本身，而是对理性的**无条件假设**。吉仁泽的"生态理性"研究进一步证明了许多启发式在真实环境中的优越性。
-Kahneman emphasizes that heuristics are effective approximation strategies in most situations ("usually good enough"), producing systematic biases only under specific conditions. He opposes not rationality itself but the **unconditional assumption** of rationality. Gigerenzer's "ecological rationality" research further demonstrates the superiority of many heuristics in real-world environments.
+Kahneman emphasizes that heuristics are effective approximation strategies in most situations ("usually good enough"), producing systematic biases only under specific conditions. He opposes not rationality itself but the **unconditional assumption** of rationality. Gigerenzer's "ecological rationality" 研究 further demonstrates the superiority of many heuristics in real-world environments.
 
 ### ❌ 误读三 · Misreading 3
-**"前景理论只是心理学理论，与经济学无关。"** / "Prospect theory is just a psychology theory, irrelevant to economics."
+**"前景理论只是心理学理论，与经济学无关。"** / "Prospect theory is just a 心理学 theory, irrelevant to economics."
 
 ✅ **事实是**：前景理论直接挑战了冯·诺依曼-摩根斯坦的期望效用理论，催生了行为经济学这一整个学科分支，深刻改变了金融学、保险学和公共政策。2002年诺贝尔经济学奖本身就是对这一跨学科影响力的承认。
 Prospect theory directly challenged von Neumann-Morgenstern expected utility theory, spawned the entire subfield of behavioral economics, and profoundly transformed finance, insurance, and public policy. The 2002 Nobel Prize in Economics itself acknowledges this cross-disciplinary impact.

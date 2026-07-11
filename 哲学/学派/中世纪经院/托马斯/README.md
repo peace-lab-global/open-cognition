@@ -1,8 +1,8 @@
 ---
-id: philosophy.medieval-scholastic.aquinas
+id: 哲学.medieval-scholastic.aquinas
 title: 托马斯·阿奎那 · Thomas Aquinas
 type: thinker
-domain: philosophy
+domain: 哲学
 school: medieval-scholastic
 era: medieval
 birth: 1225
@@ -43,7 +43,7 @@ cross-refs:
 
 阿奎那的"五路论证"（Five Ways）——从运动、因果、必然性、等级和目的性五个方面论证上帝存在——是西方哲学史上最著名的神学论证之一。他的自然法理论为天主教伦理学和西方法律传统奠定了基础。他的存在与本质（esse/essentia）学说深刻影响了后世的存在论。
 
-Thomas Aquinas (1225–1274), the "Angelic Doctor," achieved the greatest medieval synthesis of faith and reason, integrating Aristotelian philosophy with Christian theology. His *Summa Theologiae* remains the most systematic theological work in Western history. He was canonized in 1323 and declared Doctor of the Church in 1567.
+Thomas Aquinas (1225–1274), the "Angelic Doctor," achieved the greatest medieval synthesis of faith and reason, integrating Aristotelian 哲学 with Christian theology. His *Summa Theologiae* remains the most systematic theological work in Western history. He was canonized in 1323 and declared Doctor of the Church in 1567.
 
 ## 二、核心命题
 

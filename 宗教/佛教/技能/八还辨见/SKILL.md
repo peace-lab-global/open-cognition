@@ -1,7 +1,7 @@
 ---
 name: baihuan-bianjian-naming
 description: 八还辨见法用于帮助当事人区分"所见"（变化）与"能见"（常住）——把一切"所见"归还其来源，最后认出能见之性本身。Triggers on 当事人被情绪/念头淹没、需要从"在变化中"切换到"观者位置"的场景。
-domain: religion
+domain: 宗教
 school: buddhism-chan
 linked_concepts:
   - ../../baihuan-bianjian.md
@@ -141,4 +141,4 @@ tags:
 - 概念：[八还辨见](../../concepts/cognitive-theory/baihuan-bianjian.md)
 - 相关Skill：[七处征心·认知解构](../qichu-zhengxin-deconstruction/SKILL.md)
 - 跨传统：[临济·棒喝](../../../wisdom-masters/skills/linji-pointer-blow/SKILL.md)（平行）——直接指向见性
-- 跨传统：[海德格尔·本真](../../../../philosophy/schools/existentialism/heidegger.md)（平行）——本真自我与能见之性的结构对应
+- 跨传统：[海德格尔·本真](../../../../哲学/学派/存在主义/海德格尔.md)（平行）——本真自我与能见之性的结构对应

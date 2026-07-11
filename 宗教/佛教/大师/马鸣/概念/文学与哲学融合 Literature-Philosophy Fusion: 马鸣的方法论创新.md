@@ -3,7 +3,7 @@ id: ashvaghosha-literature-philosophy
 title: "文学与哲学融合 Literature-Philosophy Fusion: 马鸣的方法论创新"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [kāvya, rasa, narrative-philosophy, aesthetic-experience, literary-theology, dharma-rasa]
 ---
 
@@ -13,7 +13,7 @@ tags: [kāvya, rasa, narrative-philosophy, aesthetic-experience, literary-theolo
 
 **文学与哲学融合**是马鸣（Aśvaghoṣa）在印度思想史上最重要的方法论创新：他自觉地运用古典梵语文学（kāvya）的审美力量来传达佛教哲学思想，认为审美体验（rasa）本身就是通向宗教觉悟的途径。这不是简单地将教义"装饰"以诗的形式，而是建立了一种全新的哲学表达方式——叙事哲学（narrative philosophy）。
 
-**Literature-philosophy fusion is Aśvaghoṣa's most significant methodological innovation: the deliberate use of Classical Sanskrit literary art (kāvya) to convey Buddhist philosophy, holding that aesthetic experience (rasa) itself serves as a pathway to religious awakening. This is not mere "decoration" of doctrine with verse but the establishment of a new philosophical mode — narrative philosophy.**
+**Literature-philosophy fusion is Aśvaghoṣa's most significant methodological innovation: the deliberate use of Classical Sanskrit literary art (kāvya) to convey Buddhist philosophy, holding that aesthetic experience (rasa) itself serves as a pathway to religious awakening. This is not mere "decoration" of doctrine with verse but the establishment of a new philosophical mode — narrative 哲学.**
 
 ## 历史语境 / Historical Context
 
@@ -32,7 +32,7 @@ tags: [kāvya, rasa, narrative-philosophy, aesthetic-experience, literary-theolo
 
 马鸣的关键决定是：**将佛教从"非文学"的教义传统中解放出来，主动拥抱古典梵语文学的修辞力量。**
 
-**Aśvaghoṣa's crucial decision: liberate Buddhism from its "non-literary" doctrinal tradition and actively embrace the rhetorical power of Classical Sanskrit literature.**
+**Aśvaghoṣa's crucial decision: liberate Buddhism from its "non-literary" doctrinal tradition and actively embrace the rhetorical power of Classical Sanskrit 文学.**
 
 ## 方法论架构 / Methodological Architecture
 
@@ -52,7 +52,7 @@ tags: [kāvya, rasa, narrative-philosophy, aesthetic-experience, literary-theolo
 
 读者通过阅读过程本身获得心理转化。审美体验（rasa）不是附加的"效果"，而是觉悟体验的媒介。当读者被佛陀的故事深深感动时，这种感动本身就是对佛法的一种"体证"。
 
-**The three layers operate simultaneously: narrative (accessible story), doctrine (encoded philosophy), and transformation (aesthetic experience as awakening medium). The reader's emotional engagement is itself a form of experiential understanding.**
+**The three layers operate simultaneously: narrative (accessible story), doctrine (encoded 哲学), and transformation (aesthetic experience as awakening medium). The reader's emotional engagement is itself a form of experiential understanding.**
 
 ### "法味"（Dharma-rasa）美学 / The "Dharma-rasa" Aesthetic
 
@@ -99,7 +99,7 @@ tags: [kāvya, rasa, narrative-philosophy, aesthetic-experience, literary-theolo
 
 柏拉图在《理想国》中批判诗歌（mimēsis），认为文学远离真理。马鸣的立场恰好相反——文学不是对真理的"模仿"，而是真理的"显现"。这一分歧构成了东西方文学哲学的基本张力。
 
-**Plato critiques poetry as distant from truth; Aśvaghoṣa holds that literature is not an "imitation" of truth but its "manifestation." This divergence constitutes a fundamental tension between Eastern and Western literary philosophy.**
+**Plato critiques poetry as distant from truth; Aśvaghoṣa holds that 文学 is not an "imitation" of truth but its "manifestation." This divergence constitutes a fundamental tension between Eastern and Western literary 哲学.**
 
 ### 尼采 / Nietzsche
 

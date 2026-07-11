@@ -142,4 +142,4 @@ tags:
 - 祖师：[慧能](../../masters/china/hui-neng.md)
 - 概念：[无住](./concepts/wuzhu.md)（待建）
 - 相关Skill：[慧能平常心引导](./hui-neng-ordinary-mind/SKILL.md)
-- 跨传统：[海德格尔·本真](../../philosophy/schools/existentialism/heidegger.md)（平行）——本真自我与无住的内在对应
+- 跨传统：[海德格尔·本真](../../哲学/学派/存在主义/海德格尔.md)（平行）——本真自我与无住的内在对应

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.awakening-of-faith
+id: 宗教.buddhism.sutra.awakening-of-faith
 title: 大乘起信论 Awakening of Faith in Mahāyāna
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [大乘起信论, 一心二门, 如来藏缘起, 信解行证]
@@ -117,9 +117,9 @@ sources: [《大乘起信论》（传马鸣著，真谛译）]
 
 ## 跨学科关联
 
-- [康德 · 先验哲学](../../../philosophy/schools/german-idealism/kant.md) — [平行] 一心二门 vs 先验/经验
-- [荣格 · 个体化](../../../psychology/schools/analytical-psychology/jung.md) — [平行] 本觉/始觉 vs 自性化过程
-- [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 真如 vs 存在的澄明
+- [康德 · 先验哲学](../../../哲学/学派/德国唯心论/康德.md) — [平行] 一心二门 vs 先验/经验
+- [荣格 · 个体化](../../../心理学/学派/分析心理学/卡尔.md) — [平行] 本觉/始觉 vs 自性化过程
+- [海德格尔 · 存在](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 真如 vs 存在的澄明
 
 ## 进阶阅读
 

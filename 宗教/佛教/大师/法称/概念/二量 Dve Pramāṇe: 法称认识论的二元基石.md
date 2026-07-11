@@ -3,7 +3,7 @@ id: dharmakirti-two-valid-cognitions
 title: "二量 Dve Pramāṇe: 法称认识论的二元基石"
 type: concept
 parent: dharmakirti
-domain: religion
+domain: 宗教
 tags: [pramana, pratyaksa, anumana, perception, inference, epistemology]
 ---
 

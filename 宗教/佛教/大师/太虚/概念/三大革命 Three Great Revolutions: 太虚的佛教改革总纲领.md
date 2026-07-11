@@ -3,7 +3,7 @@ id: taixu-three-revolutions
 title: "三大革命 Three Great Revolutions: 太虚的佛教改革总纲领"
 type: concept
 parent: taixu
-domain: religion
+domain: 宗教
 tags: [buddhist-reform, three-revolutions, sangha-reform, doctrinal-revolution, institutional-revolution, property-revolution]
 ---
 

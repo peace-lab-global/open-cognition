@@ -3,7 +3,7 @@ id: kukai-shoji-jisso
 title: "声字实相 Sound-Character-Reality"
 type: concept
 parent: kukai
-domain: religion
+domain: 宗教
 tags: [language, reality, Shingon, philosophy-of-language]
 ---
 # 声字实相 / Sound, Character, and Reality

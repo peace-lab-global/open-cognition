@@ -3,7 +3,7 @@ id: kumarajiva-sutra-translation
 title: "经典翻译 Sūtra Translation: 鸠摩罗什的翻译实践与文化创造"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [sutra translation, 经典翻译, Buddhist Chinese, 佛教汉语, textual transmission, 文本传播, literary translation, 文学翻译, cultural creation]
 ---
 
@@ -13,7 +13,7 @@ tags: [sutra translation, 经典翻译, Buddhist Chinese, 佛教汉语, textual 
 
 **经典翻译**在此特指鸠摩罗什将梵文（及中亚语言）佛教经典翻译为汉语的具体实践，涵盖其翻译方法、文本选择策略、语言创造以及对后世文学和语言的深远影响。罗什的经典翻译不仅是宗教传播活动，更是人类历史上最重要的跨文化文本工程之一——其译文历经 1600 余年，至今仍是东亚佛教世界最常用的经典版本。
 
-**Sūtra translation** here refers specifically to Kumārajīva's practice of rendering Buddhist scriptures from Sanskrit (and Central Asian languages) into Chinese — encompassing his methods, textual selection strategies, linguistic innovations, and lasting impact on literature and language. His translations represent one of the most significant cross-cultural textual projects in human history, remaining the most widely used versions in East Asian Buddhism after over 1,600 years.
+**Sūtra translation** here refers specifically to Kumārajīva's practice of rendering Buddhist scriptures from Sanskrit (and Central Asian languages) into Chinese — encompassing his methods, textual selection strategies, linguistic innovations, and lasting impact on 文学 and language. His translations represent one of the most significant cross-cultural textual projects in human history, remaining the most widely used versions in East Asian Buddhism after over 1,600 years.
 
 ---
 

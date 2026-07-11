@@ -1,8 +1,8 @@
 ---
-id: psychology.developmental.piaget
+id: 心理学.developmental.piaget
 title: "皮亚杰 · Jean Piaget (发展心理学)"
 type: thinker
-domain: psychology
+domain: 心理学
 school: developmental
 era: modern
 birth: 1896
@@ -20,11 +20,11 @@ sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md
 
 **让·威廉·弗里茨·皮亚杰**（Jean William Fritz Piaget，1896年8月9日—1980年9月16日），瑞士发展心理学家、哲学家、认识论学者，**发生认识论**（Genetic Epistemology）的创始人，被公认为二十世纪发展心理学（Developmental Psychology）最具影响力的人物。皮亚杰出生于瑞士纳沙泰尔（Neuchâtel），父亲亚瑟·皮亚杰（Arthur Piaget）是纳沙泰尔大学中世纪史教授，母亲丽贝卡·苏珊（Rebecca Suzanne）来自法国。他自幼展现出非凡的智力天赋，10岁时便在纳沙泰尔自然科学学会发表了一篇关于白化麻雀的短论文，15岁完成了一篇关于瓦莱州软体动物的研究论文。
 
-**Jean William Fritz Piaget** (August 9, 1896 – September 16, 1980) was a Swiss developmental psychologist, philosopher, and epistemologist. As the founder of Genetic Epistemology, he is widely recognized as the most influential figure in twentieth-century developmental psychology. Born in Neuchâtel, Switzerland, his father Arthur Piaget was a professor of medieval history at the University of Neuchâtel, and his mother Rebecca Suzanne came from France. Piaget displayed extraordinary intellectual precocity, publishing a short paper on an albino sparrow at age ten and completing a study of mollusks in the Valais canton by fifteen.
+**Jean William Fritz Piaget** (August 9, 1896 – September 16, 1980) was a Swiss developmental psychologist, philosopher, and epistemologist. As the founder of Genetic Epistemology, he is widely recognized as the most influential figure in twentieth-century developmental 心理学. Born in Neuchâtel, Switzerland, his father Arthur Piaget was a professor of medieval history at the University of Neuchâtel, and his mother Rebecca Suzanne came from France. Piaget displayed extraordinary intellectual precocity, publishing a short paper on an albino sparrow at age ten and completing a study of mollusks in the Valais canton by fifteen.
 
 - **出生地 / Birthplace**：瑞士纳沙泰尔 / Neuchâtel, Switzerland
 - **国籍 / Nationality**：瑞士 / Swiss
-- **教育背景 / Education**：纳沙泰尔大学（自然科学学士，1915；软体动物学博士，1918）；后在巴黎大学、苏黎世大学研修哲学与心理学 / University of Neuchâtel (B.S. in Natural Sciences, 1915; Ph.D. in Malacology, 1918); later studied philosophy and psychology at the University of Paris and the University of Zurich
+- **教育背景 / Education**：纳沙泰尔大学（自然科学学士，1915；软体动物学博士，1918）；后在巴黎大学、苏黎世大学研修哲学与心理学 / University of Neuchâtel (B.S. in Natural Sciences, 1915; Ph.D. in Malacology, 1918); later studied 哲学 and 心理学 at the University of Paris and the University of Zurich
 - **学术身份 / Academic Identity**：日内瓦大学心理学教授（1929–1967）；日内瓦卢梭研究所（Institut Jean-Jacques Rousseau）所长；国际发生认识论中心（Centre International d'Epistémologie Génétique）创始人 / Professor of Psychology at the University of Geneva (1929–1967); Director of the Institut Jean-Jacques Rousseau; Founder of the Centre International d'Épistémologie Génétique
 - **主要合作者 / Key Collaborators**：芭贝尔·英海尔德（Bärbel Inhelder）、约翰·冯·格拉塞斯费尔德（Ernst von Glasersfeld）、皮埃尔·格列科（Pierre Gréco）
 - **逝世 / Death**：1980年9月16日于日内瓦 / September 16, 1980, in Geneva
@@ -35,7 +35,7 @@ sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md
 
 **儿童不是被动的信息接收者，而是通过与环境的互动主动建构知识的"小小科学家"。** 这一命题彻底颠覆了传统教育中"儿童是白板（tabula rasa）"的观念。皮亚杰认为，儿童从出生起就具有探索环境的内在驱动力，他们通过感知、操作、实验和假设检验来理解世界。知识的获得不是外部灌输的结果，而是主体与客体之间互动的产物。这一建构主义（constructivism）立场构成了皮亚杰整个发展心理学体系的哲学基础。
 
-**Children are not passive recipients of information but active "little scientists" who construct knowledge through interaction with their environment.** This proposition fundamentally overturned the traditional educational view of children as blank slates (tabula rasa). Piaget held that from birth, children possess an intrinsic drive to explore their environment, understanding the world through perception, manipulation, experimentation, and hypothesis testing. Knowledge acquisition is not the result of external indoctrination but the product of interaction between subject and object. This constructivist stance forms the philosophical foundation of Piaget's entire developmental psychology system.
+**Children are not passive recipients of information but active "little scientists" who construct knowledge through interaction with their environment.** This proposition fundamentally overturned the traditional educational view of children as blank slates (tabula rasa). Piaget held that from birth, children possess an intrinsic drive to explore their environment, understanding the world through perception, manipulation, experimentation, and hypothesis testing. Knowledge acquisition is not the result of external indoctrination but the product of interaction between subject and object. This constructivist stance forms the philosophical foundation of Piaget's entire developmental 心理学 system.
 
 ### 命题二：认知发展具有阶段性的质变结构 / Proposition 2: Cognitive Development Has a Stage-Like Structure of Qualitative Change
 
@@ -65,7 +65,7 @@ sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md
 
 **皮亚杰的终极关切不是儿童心理学本身，而是认识论问题——"知识是如何可能的？"** 他创立的"发生认识论"（Genetic Epistemology）试图通过追踪知识在个体发展中的发生过程来回答这一哲学问题。在皮亚杰看来，传统的认识论——无论是经验主义还是理性主义——都忽视了知识的建构性本质。只有通过研究概念（如因果性、空间、时间、逻辑必然性）在儿童心智中的逐步建构过程，我们才能真正理解人类知识的起源和有效性。
 
-**Piaget's ultimate concern was not child psychology per se, but the epistemological question — "How is knowledge possible?"** His "Genetic Epistemology" sought to answer this philosophical question by tracing the genesis of knowledge in individual development. In Piaget's view, traditional epistemologies — whether empiricist or rationalist — neglected the constructive nature of knowledge. Only by studying the step-by-step construction of concepts (such as causality, space, time, logical necessity) in the child's mind can we truly understand the origins and validity of human knowledge.
+**Piaget's ultimate concern was not child 心理学 per se, but the epistemological question — "How is knowledge possible?"** His "Genetic Epistemology" sought to answer this philosophical question by tracing the genesis of knowledge in individual development. In Piaget's view, traditional epistemologies — whether empiricist or rationalist — neglected the constructive nature of knowledge. Only by studying the step-by-step construction of concepts (such as causality, space, time, logical necessity) in the child's mind can we truly understand the origins and validity of human knowledge.
 
 ## 思想脉络 / Intellectual Trajectory
 
@@ -73,19 +73,19 @@ sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md
 
 皮亚杰在纳沙泰尔大学接受了扎实的生物学训练，1918年以软体动物研究获得博士学位。他的生物学背景——特别是对"适应"（adaptation）概念的理解——深刻影响了他后来的心理学理论。1919年，他在苏黎世的布尔格霍尔兹利精神病院（Burghölzli）工作期间接触了精神分析和临床心理学。1920年，他移居巴黎，在阿尔弗雷德·比奈（Alfred Binet）的实验室中担任助理，负责对儿童的智力测验进行标准化。正是在这里，皮亚杰注意到了一个关键现象：儿童在智力测验中的**错误答案**并非随机的，而是表现出系统性的逻辑模式。这一发现成为他毕生事业的起点——他要探索的不是儿童知道多少，而是儿童的**思维方式**如何不同于成人。1921年，他回到瑞士，受聘为日内瓦卢梭研究所所长，开始了对自己三个孩子（洛朗、吕西安娜、雅克琳）的系统观察研究，这些观察构成了《儿童智慧的起源》（1952）等著作的经验基础。
 
-Piaget received rigorous biological training at the University of Neuchâtel, earning his doctorate in 1918 with research on mollusks. His biological background — especially his understanding of "adaptation" — profoundly shaped his later psychological theory. In 1919, while working at the Burghölzli psychiatric hospital in Zurich, he encountered psychoanalysis and clinical psychology. In 1920, he moved to Paris, working as an assistant in Alfred Binet's laboratory, standardizing intelligence tests for children. It was here that Piaget noticed a crucial phenomenon: children's **wrong answers** on intelligence tests were not random but displayed systematic logical patterns. This discovery became the starting point of his life's work — he sought to explore not how much children know, but how children's **ways of thinking** differ from adults'. In 1921, he returned to Switzerland, accepting a position as director of the Institut Jean-Jacques Rousseau in Geneva, and began systematic observational studies of his own three children (Laurent, Lucienne, and Jacqueline), which formed the empirical basis of works such as *The Origins of Intelligence in Children* (1952).
+Piaget received rigorous biological training at the University of Neuchâtel, earning his doctorate in 1918 with 研究 on mollusks. His biological background — especially his understanding of "adaptation" — profoundly shaped his later psychological theory. In 1919, while working at the Burghölzli psychiatric hospital in Zurich, he encountered psychoanalysis and clinical 心理学. In 1920, he moved to Paris, working as an assistant in Alfred Binet's laboratory, standardizing intelligence tests for children. It was here that Piaget noticed a crucial phenomenon: children's **wrong answers** on intelligence tests were not random but displayed systematic logical patterns. This discovery became the starting point of his life's work — he sought to explore not how much children know, but how children's **ways of thinking** differ from adults'. In 1921, he returned to Switzerland, accepting a position as director of the Institut Jean-Jacques Rousseau in Geneva, and began systematic observational studies of his own three children (Laurent, Lucienne, and Jacqueline), which formed the empirical basis of works such as *The Origins of Intelligence in Children* (1952).
 
 ### 中期：认知发展阶段理论的系统化（1930–1960）/ Middle Period: Systematization of Cognitive Stage Theory (1930–1960)
 
 在这一时期，皮亚杰将其研究从婴幼儿扩展到学龄儿童和青少年，建立了完整的认知发展阶段理论。1930年代至1940年代，他发表了大量关于儿童逻辑思维、因果推理、道德判断和数理概念的研究。1941年，他与芭贝尔·英海尔德（Bärbel Inhelder）开始了长达数十年的合作关系，两人共同设计了一系列精巧的实验任务——如守恒实验（conservation tasks）、分类任务、序列化任务——来探测儿童认知发展的阶段性特征。1950年代，他系统总结了感知运动阶段的六个亚阶段，详述了客体永久性（object permanence）的逐步获得过程。1955年，他创立了国际发生认识论中心（Centre International d'Épistémologie Génétique），汇聚了来自逻辑学、数学、物理学、生物学、语言学和心理学的学者，共同探讨知识发生的跨学科问题。这一时期是皮亚杰学术产出最为丰盛的阶段，也是"日内瓦学派"（Geneva School）在国际心理学界确立地位的时期。
 
-During this period, Piaget extended his research from infants to school-age children and adolescents, establishing the complete cognitive stage theory. From the 1930s to the 1940s, he published extensive research on children's logical thinking, causal reasoning, moral judgment, and mathematical concepts. In 1941, he began a decades-long collaboration with Bärbel Inhelder, together designing a series of ingenious experimental tasks — conservation tasks, classification tasks, seriation tasks — to probe the stage-specific features of children's cognitive development. In the 1950s, he systematically summarized the six sub-stages of the sensorimotor period, detailing the gradual acquisition of object permanence. In 1955, he founded the Centre International d'Épistémologie Génétique, bringing together scholars from logic, mathematics, physics, biology, linguistics, and psychology to collaboratively explore interdisciplinary questions about the genesis of knowledge. This was Piaget's most productive period and the era when the "Geneva School" established its position in international psychology.
+During this period, Piaget extended his 研究 from infants to school-age children and adolescents, establishing the complete cognitive stage theory. From the 1930s to the 1940s, he published extensive 研究 on children's logical thinking, causal reasoning, moral judgment, and mathematical concepts. In 1941, he began a decades-long collaboration with Bärbel Inhelder, together designing a series of ingenious experimental tasks — conservation tasks, classification tasks, seriation tasks — to probe the stage-specific features of children's cognitive development. In the 1950s, he systematically summarized the six sub-stages of the sensorimotor period, detailing the gradual acquisition of object permanence. In 1955, he founded the Centre International d'Épistémologie Génétique, bringing together scholars from logic, mathematics, physics, biology, linguistics, and 心理学 to collaboratively explore interdisciplinary questions about the genesis of knowledge. This was Piaget's most productive period and the era when the "Geneva School" established its position in international 心理学.
 
 ### 晚期：发生认识论的理论综合（1960–1980）/ Late Period: Theoretical Synthesis of Genetic Epistemology (1960–1980)
 
 皮亚杰晚年致力于将毕生的实证研究上升到认识论的高度，构建发生认识论的完整理论体系。1970年出版的《发生认识论》（*Genetic Epistemology*）是他对这一事业的系统总结。他试图证明：逻辑范畴和数学概念并非先天给定或从经验中简单抽象而来，而是在主体与客体的互动中逐步建构的。他提出了"反思性抽象"（reflective abstraction / abstraction réfléchissante）的概念，解释了低层次的行动模式如何被重新组织为高层次的思维结构。晚期他还回应了来自多个方向的批评——特别是维果茨基学派对社会文化因素的强调、信息加工心理学对阶段理论的质疑——修正了部分过于僵化的理论立场。他于1980年在日内瓦去世，留下了超过60部著作和数百篇论文的巨大遗产。
 
-In his later years, Piaget devoted himself to elevating his lifetime of empirical research to an epistemological level, constructing the complete theoretical system of genetic epistemology. His 1970 book *Genetic Epistemology* was a systematic summary of this enterprise. He sought to demonstrate that logical categories and mathematical concepts are neither innately given nor simply abstracted from experience, but are progressively constructed through interaction between subject and object. He introduced the concept of "reflective abstraction" (abstraction réfléchissante), explaining how lower-level action patterns are reorganized into higher-level thought structures. In his later years, he also responded to criticisms from multiple directions — particularly the Vygotskian emphasis on sociocultural factors and information-processing psychology's questioning of stage theory — revising some of his more rigid theoretical positions. He died in Geneva in 1980, leaving an enormous legacy of over 60 books and hundreds of papers.
+In his later years, Piaget devoted himself to elevating his lifetime of empirical 研究 to an epistemological level, constructing the complete theoretical system of genetic epistemology. His 1970 book *Genetic Epistemology* was a systematic summary of this enterprise. He sought to demonstrate that logical categories and mathematical concepts are neither innately given nor simply abstracted from experience, but are progressively constructed through interaction between subject and object. He introduced the concept of "reflective abstraction" (abstraction réfléchissante), explaining how lower-level action patterns are reorganized into higher-level thought structures. In his later years, he also responded to criticisms from multiple directions — particularly the Vygotskian emphasis on sociocultural factors and information-processing psychology's questioning of stage theory — revising some of his more rigid theoretical positions. He died in Geneva in 1980, leaving an enormous legacy of over 60 books and hundreds of papers.
 
 ## 关键著作 / Key Works
 
@@ -94,14 +94,14 @@ In his later years, Piaget devoted himself to elevating his lifetime of empirica
 | 1923 | 《儿童的语言与思维》 *The Language and Thought of the Child* | 揭示儿童语言的自我中心特征，提出"集体独白"概念 / Reveals egocentric features of children's language; introduces "collective monologue" |
 | 1924 | 《儿童的判断与推理》 *Judgment and Reasoning in the Child* | 分析儿童逻辑推理的前因果性和转导推理 / Analyzes children's precausal reasoning and transductive reasoning |
 | 1926 | 《儿童的世界观》 *The Child's Conception of the World* | 研究儿童对物理世界的理解，发现"泛灵论"和"人为论" / Studies children's understanding of the physical world; discovers "animism" and "artificialism" |
-| 1932 | 《儿童的道德判断》 *The Moral Judgment of the Child* | 区分他律道德与自律道德，开创道德发展研究 / Distinguishes heteronomous from autonomous morality; pioneering moral development research |
+| 1932 | 《儿童的道德判断》 *The Moral Judgment of the Child* | 区分他律道德与自律道德，开创道德发展研究 / Distinguishes heteronomous from autonomous morality; pioneering moral development 研究 |
 | 1936 | 《儿童智慧的起源》 *The Origins of Intelligence in Children* | 系统阐述感知运动阶段的六个亚阶段 / Systematic exposition of the six sub-stages of the sensorimotor period |
 | 1937 | 《儿童实在的建构》 *The Construction of Reality in the Child* | 详述客体永久性、空间、时间和因果性概念的建构 / Details the construction of object permanence, space, time, and causality concepts |
 | 1941 | 《儿童数概念的起源》 *The Genesis of Number in the Child*（与英海尔德合著） | 追踪数概念从行动图式中的建构过程 / Traces the construction of number concepts from action schemas |
 | 1946 | 《儿童几何与空间概念》 *The Child's Conception of Geometry* | 研究拓扑空间、射影空间和欧氏空间概念的依次发展 / Studies the sequential development of topological, projective, and Euclidean spatial concepts |
 | 1947 | 《智慧心理学》 *The Psychology of Intelligence* | 对认知发展理论的综合性概述 / Comprehensive overview of cognitive development theory |
-| 1966 | 《儿童心理学》 *The Psychology of the Child*（与英海尔德合著） | 对毕生研究的总结性概述 / Summary overview of lifetime research |
-| 1970 | 《发生认识论》 *Genetic Epistemology* | 将认知发展研究上升到认识论高度的理论综合 / Elevates cognitive development research to epistemological-level theoretical synthesis |
+| 1966 | 《儿童心理学》 *The Psychology of the Child*（与英海尔德合著） | 对毕生研究的总结性概述 / Summary overview of lifetime 研究 |
+| 1970 | 《发生认识论》 *Genetic Epistemology* | 将认知发展研究上升到认识论高度的理论综合 / Elevates cognitive development 研究 to epistemological-level theoretical synthesis |
 | 1977 | 《反思性抽象研究》 *Studies in Reflecting Abstraction* | 阐释从行动到思维的认知提升机制 / Elucidates the cognitive elevation mechanism from action to thought |
 
 ## 重要概念 / Key Concepts
@@ -157,7 +157,7 @@ In his later years, Piaget devoted himself to elevating his lifetime of empirica
 
 4. **认知发展障碍研究 / Cognitive Developmental Disorder Research** — 皮亚杰的阶段理论为理解自闭症谱系障碍（ASD）、智力障碍和学习障碍中的认知发展偏差提供了参照框架。Piaget's stage theory provides a reference framework for understanding cognitive developmental deviations.
 
-5. **数学教育 / Mathematics Education** — 皮亚杰关于数概念、空间概念和逻辑运算建构的研究深刻影响了数学课程的分级设计和教学方法。Piaget's research on number, spatial, and logical operation concepts profoundly influenced graded mathematics curriculum design.
+5. **数学教育 / Mathematics Education** — 皮亚杰关于数概念、空间概念和逻辑运算建构的研究深刻影响了数学课程的分级设计和教学方法。Piaget's 研究 on number, spatial, and logical operation concepts profoundly influenced graded mathematics curriculum design.
 
 6. **道德教育 / Moral Education** — 皮亚杰关于他律道德向自律道德过渡的发现指导了学校道德教育课程的设计，强调通过同伴讨论而非权威灌输促进道德发展。
 
@@ -192,8 +192,8 @@ In his later years, Piaget devoted himself to elevating his lifetime of empirica
 **❌ 皮亚杰的阶段理论已被现代发展心理学完全推翻。**
 **✅ 现代研究修正了皮亚杰的某些具体发现（如低估婴儿的认知能力），但他的核心理论框架——建构主义、阶段序列、适应机制——仍然有效。** 新皮亚杰学派（Neo-Piagetians）如凯斯（Case）、帕斯卡尔-莱昂内（Pascual-Leone）、费希尔（Fischer）通过整合信息加工理论发展了皮亚杰的框架，而非推翻了它。
 
-**❌ Piaget's stage theory has been completely overturned by modern developmental psychology.**
-**✅ Modern research has revised some of Piaget's specific findings (e.g., underestimating infant cognitive abilities), but his core theoretical framework — constructivism, stage sequences, adaptation mechanisms — remains valid.** Neo-Piagetians such as Case, Pascual-Leone, and Fischer have developed Piaget's framework by integrating information-processing theory, not overturning it.
+**❌ Piaget's stage theory has been completely overturned by modern developmental 心理学.**
+**✅ Modern 研究 has revised some of Piaget's specific findings (e.g., underestimating infant cognitive abilities), but his core theoretical framework — constructivism, stage sequences, adaptation mechanisms — remains valid.** Neo-Piagetians such as Case, Pascual-Leone, and Fischer have developed Piaget's framework by integrating information-processing theory, not overturning it.
 
 ## 东西方对话 / East-West Dialogue
 
@@ -227,7 +227,7 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 | 语言学 / Linguistics | [乔姆斯基 Chomsky](../../../linguistics/schools/generative/chomsky.md) | 争论：语言习得的建构论 vs. 先天论 / Debate: constructivist vs. nativist accounts of language acquisition |
 | 教育学 / Education | [布鲁纳 Bruner](../../../education/schools/constructivist/bruner.md) | 发展：发现学习与螺旋课程的建构主义教育 / Development: discovery learning and spiral curriculum in constructivist education |
 | 建构主义AI / Constructivist AI | [明斯基 Minsky](../../../computer-science/schools/ai/minsky.md) | 启发：建构主义认知架构对AI设计的启示 / Inspiration: constructivist cognitive architectures informing AI design |
-| 德国哲学 / German Philosophy | [康德 Kant](../../../philosophy/schools/german-idealism/kant.md) | 继承与改造：先验范畴的发生学化 / Inheritance and transformation: geneticization of transcendental categories |
+| 德国哲学 / German Philosophy | [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) | 继承与改造：先验范畴的发生学化 / Inheritance and transformation: geneticization of transcendental categories |
 
 ## 进阶阅读 / Further Reading
 
@@ -244,8 +244,8 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 - 左任侠 (1991).《发生认识论》. 华东师范大学出版社.
 
 ### 英文资源 / English Resources
-- *Human Development* — 发展心理学领域核心期刊，常刊发皮亚杰理论研究 / Core journal in developmental psychology
-- *Developmental Psychology* (APA) — 美国心理学会发展心理学刊物 / APA developmental psychology journal
+- *Human Development* — 发展心理学领域核心期刊，常刊发皮亚杰理论研究 / Core journal in developmental 心理学
+- *Developmental Psychology* (APA) — 美国心理学会发展心理学刊物 / APA developmental 心理学 journal
 - Lourenço, O., & Machado, A. (1996). "In defense of Piaget's theory: A reply to 10 common criticisms." *Psychological Review*, 103(1), 143–164.
 
 ## 子条目索引 / Sub-entry Index

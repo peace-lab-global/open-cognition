@@ -3,7 +3,7 @@ id: longchenpa-seven-treasures
 title: "七宝藏 Mdzod bdun: 隆钦巴的七部大圆满巨著"
 type: concept
 parent: longchenpa
-domain: religion
+domain: 宗教
 tags: [seven-treasures, mdzod-bdun, Dzogchen, Nyingma, Longchenpa, Tibetan-Buddhism, philosophical-system]
 ---
 

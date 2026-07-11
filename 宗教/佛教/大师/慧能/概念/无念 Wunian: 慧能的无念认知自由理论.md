@@ -3,7 +3,7 @@ id: huineng-wunian
 title: "无念 Wunian: 慧能的无念认知自由理论"
 type: concept
 parent: huineng
-domain: religion
+domain: 宗教
 tags: [no-thought, wunian, non-grasping, cognitive-freedom, Chan, mindfulness]
 ---
 

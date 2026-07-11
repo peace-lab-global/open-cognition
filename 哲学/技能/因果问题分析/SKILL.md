@@ -1,11 +1,11 @@
 ---
 name: causation-analysis
 description: Triggers on requests to 因果问题、归纳问题、经验主义，如科学哲学、认识论探究、批判性思维等。Apply this skill to analyze causation using Hume's empiricist approach, questioning the basis of causal knowledge.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/empiricism/hume.md
 linked_concepts:
-  - ../../philosophy/concepts/causation.md
-  - ../../philosophy/concepts/induction.md
+  - ../../哲学/概念/causation.md
+  - ../../哲学/概念/induction.md
 tags:
   - 因果问题
   - 归纳问题

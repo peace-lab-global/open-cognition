@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.vimalakirti
+id: 宗教.buddhism.sutra.vimalakirti
 title: 维摩诘经 Vimalakīrti Sūtra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [维摩诘经, 不二法门, 烦恼即菩提, 居士佛教, 默然无言]
@@ -95,10 +95,10 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 
 ## 跨学科关联
 
-- [维特根斯坦 · 不可说](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] "凡不可说者，应保持沉默"
-- [海德格尔 · 沉默](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 沉默作为言说
-- [罗杰斯 · 真诚一致](../../../psychology/schools/humanistic/rogers.md) — [平行] 真实在场
-- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 居士的自我修养
+- [维特根斯坦 · 不可说](../../../哲学/学派/分析哲学/维特根斯坦.md) — [平行] "凡不可说者，应保持沉默"
+- [海德格尔 · 沉默](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 沉默作为言说
+- [罗杰斯 · 真诚一致](../../../心理学/学派/人本主义/卡尔.md) — [平行] 真实在场
+- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 居士的自我修养
 - [禅宗](../schools/chan-zen.md) — [继承] 棒喝、机锋都源自维摩诘的"默然"
 
 ## 进阶阅读

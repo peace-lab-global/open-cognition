@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sastra.mulamadhyamakakarika
+id: 宗教.buddhism.sastra.mulamadhyamakakarika
 title: 中论 Mūlamadhyamakakārikā
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: ancient
 tags: [中论, 中观, 龙树, 八不中道, 四句破, 二谛, 空性]

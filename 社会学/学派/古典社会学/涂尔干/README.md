@@ -2,7 +2,7 @@
 id: durkheim
 title: 涂尔干 · Emile Durkheim
 type: thinker
-domain: sociology
+domain: 社会学
 school: classical
 era: 19th-20th century
 birth: 1858-04-15
@@ -45,8 +45,8 @@ sub-entries:
 **出生地 / Birthplace:** 法国洛林大区埃皮纳勒（Epinal, Lorraine, France），犹太拉比家庭 / Jewish rabbinical family
 **国籍 / Nationality:** 法国 / French
 **学术背景 / Academic Background:** 巴黎高等师范学院哲学学位 / Philosophy degree, Ecole Normale Superieure, Paris
-**任教经历 / Academic Positions:** 波尔多大学（1887，法国第一个社会学教席）/ Bordeaux (1887, first sociology chair in France); 巴黎大学/索邦大学（1902）/ Paris/Sorbonne (1902)
-**学术传承 / Academic Legacy:** 创办《社会学年鉴》（L'Annee Sociologique, 1898），建立法国社会学学派 / Founded L'Annee Sociologique (1898), established the French school of sociology
+**任教经历 / Academic Positions:** 波尔多大学（1887，法国第一个社会学教席）/ Bordeaux (1887, first 社会学 chair in France); 巴黎大学/索邦大学（1902）/ Paris/Sorbonne (1902)
+**学术传承 / Academic Legacy:** 创办《社会学年鉴》（L'Annee Sociologique, 1898），建立法国社会学学派 / Founded L'Annee Sociologique (1898), established the French school of 社会学
 
 ---
 
@@ -74,7 +74,7 @@ Durkheim distinguished two types of social solidarity: mechanical solidarity (ba
 
 "失范"指社会规范系统的瓦解或弱化状态——个人行为缺乏明确的社会规范指引。在失范状态下，个人的欲望失去了社会设定的界限，导致不满、焦虑和越轨行为的增加。涂尔干在《自杀论》中将失范型自杀视为现代社会病理的集中表现。默顿后来将失范概念发展为"紧张理论"（strain theory），成为犯罪社会学的核心理论之一。
 
-"Anomie" refers to the disintegration or weakening of the social normative system—a state in which individual behaviour lacks clear social normative guidance. In an anomic state, individual desires lose socially imposed limits, leading to increased dissatisfaction, anxiety, and deviant behaviour. In Suicide, Durkheim treated anomic suicide as a concentrated expression of modern social pathology. Merton later developed the anomie concept into "strain theory," one of the core theories in criminological sociology.
+"Anomie" refers to the disintegration or weakening of the social normative system—a state in which individual behaviour lacks clear social normative guidance. In an anomic state, individual desires lose socially imposed limits, leading to increased dissatisfaction, anxiety, and deviant behaviour. In Suicide, Durkheim treated anomic suicide as a concentrated expression of modern social pathology. Merton later developed the anomie concept into "strain theory," one of the core theories in criminological 社会学.
 
 ### 4. 集体表象 / Collective Representations (Representations Collectives)
 > **"集体表象是集体思维的结果……它们不是个体的，而是社会的。"**
@@ -82,15 +82,15 @@ Durkheim distinguished two types of social solidarity: mechanical solidarity (ba
 
 "集体表象"是涂尔干知识社会学的核心概念，指社会群体共享的观念、信仰、象征和分类体系。在《"原始"分类》（与莫斯合著，1903）中，涂尔干论证了时间、空间、因果关系等基本认知范畴都具有社会起源。这一概念为后来的知识社会学（曼海姆）、结构人类学（列维-斯特劳斯）和符号互动论奠定了理论基础。
 
-"Collective representations" is the core concept of Durkheim's sociology of knowledge, referring to ideas, beliefs, symbols, and classification systems shared by social groups. In Primitive Classifications (with Mauss, 1903), Durkheim argued that basic cognitive categories—time, space, causality—all have social origins. This concept laid the theoretical foundations for the later sociology of knowledge (Mannheim), structural anthropology (Levi-Strauss), and symbolic interactionism.
+"Collective representations" is the core concept of Durkheim's 社会学 of knowledge, referring to ideas, beliefs, symbols, and classification systems shared by social groups. In Primitive Classifications (with Mauss, 1903), Durkheim argued that basic cognitive categories—time, space, causality—all have social origins. This concept laid the theoretical foundations for the later 社会学 of knowledge (Mannheim), structural anthropology (Levi-Strauss), and symbolic interactionism.
 
 ### 5. 宗教的社会功能 / Social Function of Religion
 > **"宗教是一种与神圣事物相关的信仰和实践的统一体系……这些信仰和实践将所有信奉者联合在一个称为'教会'的道德共同体中。"**
-> "A religion is a unified system of beliefs and practices relative to sacred things... beliefs and practices which unite into one single moral community called a Church, all those who adhere to them."
+> "A 宗教 is a unified system of beliefs and practices relative to sacred things... beliefs and practices which unite into one single moral community called a Church, all those who adhere to them."
 
 在《宗教生活的基本形式》中，涂尔干通过对澳大利亚图腾制度的分析，提出了宗教的社会学定义：宗教的本质不在于超自然信仰，而在于"神圣/世俗"的二元分类和社会整合功能。宗教仪式通过"集体亢奋"（effervescence collective）强化社会纽带和集体认同。最终，涂尔干得出了震撼性的结论："神即社会"（Dieu, c'est la societe）。
 
-In The Elementary Forms of Religious Life, through his analysis of Australian totemism, Durkheim proposed a sociological definition of religion: the essence of religion lies not in supernatural belief but in the "sacred/profane" binary classification and its social integration function. Religious rituals strengthen social bonds and collective identity through "collective effervescence" (effervescence collective). Ultimately, Durkheim reached the startling conclusion: "God is society" (Dieu, c'est la societe).
+In The Elementary Forms of Religious Life, through his analysis of Australian totemism, Durkheim proposed a sociological definition of religion: the essence of 宗教 lies not in supernatural belief but in the "sacred/profane" binary classification and its social integration function. Religious rituals strengthen social bonds and collective identity through "collective effervescence" (effervescence collective). Ultimately, Durkheim reached the startling conclusion: "God is society" (Dieu, c'est la societe).
 
 ### 6. 社会学方法论 / Methodological Rules for Sociology
 > **"必须将社会事实当作事物（choses）来研究。"**
@@ -109,14 +109,14 @@ In The Rules of Sociological Method, Durkheim established sociology's methodolog
 
 涂尔干1887年在波尔多大学获得法国第一个社会学教席。早期工作集中于为社会学确立学科地位和方法论基础。《社会分工论》（1893）是他的博士论文，探讨了社会团结如何从机械团结向有机团结转变。《社会学方法的准则》（1895）系统阐述了社会学的研究对象和方法。
 
-Durkheim obtained France's first sociology chair at the University of Bordeaux in 1887. His early work concentrated on establishing sociology's disciplinary status and methodological foundations. The Division of Labour in Society (1893), his doctoral dissertation, explored how social solidarity transforms from mechanical to organic. The Rules of Sociological Method (1895) systematically articulated sociology's subject matter and methods.
+Durkheim obtained France's first 社会学 chair at the University of Bordeaux in 1887. His early work concentrated on establishing sociology's disciplinary status and methodological foundations. The Division of Labour in Society (1893), his doctoral dissertation, explored how social solidarity transforms from mechanical to organic. The Rules of Sociological Method (1895) systematically articulated sociology's subject matter and methods.
 
 ### 第二阶段：经验研究与理论成熟（1895—1902）
 **Phase II: Empirical Research and Theoretical Maturation (1895-1902)**
 
 《自杀论》（1897）是涂尔干方法论原则的典范性应用——通过统计方法证明自杀率是社会事实，受社会整合程度和规范强度的影响。1898年创办《社会学年鉴》，建立了以涂尔干为核心的法国社会学学派（"涂尔干学派"）。
 
-Suicide (1897) was a model application of Durkheim's methodological principles—using statistical methods to demonstrate that suicide rates are social facts, influenced by the degree of social integration and normative strength. In 1898 he founded L'Annee Sociologique, establishing the French school of sociology centred on Durkheim.
+Suicide (1897) was a model application of Durkheim's methodological principles—using statistical methods to demonstrate that suicide rates are social facts, influenced by the degree of social integration and normative strength. In 1898 he founded L'Annee Sociologique, establishing the French school of 社会学 centred on Durkheim.
 
 ### 第三阶段：宗教社会学与晚年（1902—1917）
 **Phase III: Sociology of Religion and Late Years (1902-1917)**
@@ -134,7 +134,7 @@ In 1902 he transferred to the University of Paris/Sorbonne as professor of educa
 | 1893 | 《社会分工论》/ The Division of Labour in Society | 团结类型的转变 / Transformation of solidarity types |
 | 1895 | 《社会学方法的准则》/ The Rules of Sociological Method | 社会学方法论 / Sociological methodology |
 | 1897 | 《自杀论》/ Suicide: A Study in Sociology | 社会整合与失范 / Social integration and anomie |
-| 1912 | 《宗教生活的基本形式》/ The Elementary Forms of Religious Life | 宗教与知识社会学 / Religion and sociology of knowledge |
+| 1912 | 《宗教生活的基本形式》/ The Elementary Forms of Religious Life | 宗教与知识社会学 / Religion and 社会学 of knowledge |
 | 1914 | 《"原始"分类》/ Primitive Classifications（与莫斯合著 / w/ Mauss） | 认知范畴的社会起源 / Social origins of cognitive categories |
 | 1924 (遗著) | 《社会主义》/ Socialism and Saint-Simon | 社会主义思想史 / History of socialist thought |
 | 1925 (遗著) | 《道德教育》/ Moral Education | 道德的社会基础 / Social basis of morality |
@@ -165,15 +165,15 @@ In 1902 he transferred to the University of Paris/Sorbonne as professor of educa
 - **斯宾塞**（Herbert Spencer）— 进化论与社会有机体类比 / Evolutionism and organic analogy
 
 ### 同时代对话者 / Contemporary Interlocutors
-- **塔尔德**（Gabriel Tarde）— 模仿理论与个体主义社会学 / Imitation theory and individualist sociology
-- **齐美尔**（Georg Simmel）— 形式社会学 / Formal sociology
+- **塔尔德**（Gabriel Tarde）— 模仿理论与个体主义社会学 / Imitation theory and individualist 社会学
+- **齐美尔**（Georg Simmel）— 形式社会学 / Formal 社会学
 - **莫斯**（Marcel Mauss）— 涂尔干学派的核心继承者 / Core inheritor of the Durkheimian school
 
 ### 后世继承与批判 / Later Inheritance and Critique
 - **帕森斯**（Talcott Parsons）— 结构功能主义 / Structural functionalism
 - **默顿**（Robert Merton）— 中层理论与失范理论 / Middle-range theory and anomie theory
 - **列维-斯特劳斯**（Levi-Strauss）— 从集体表象到结构主义 / From collective representations to structuralism
-- **布迪厄**（Bourdieu）— 批判性继承分类社会学 / Critical inheritance of classification sociology
+- **布迪厄**（Bourdieu）— 批判性继承分类社会学 / Critical inheritance of classification 社会学
 - **柯林斯**（Randall Collins）— 互动仪式链 / Interaction ritual chains
 
 ---
@@ -230,7 +230,7 @@ Durkheim's "collective consciousness" concept dialogues with the Chinese concept
 |---|---|---|
 | 人类学 / Anthropology | 结构功能主义、礼物交换 / Structural functionalism, gift exchange | 莫斯（Mauss）、列维-斯特劳斯（Levi-Strauss） |
 | 心理学 / Psychology | 社会心理学、集体心理 / Social psychology, collective mind | 莫斯科维奇（Moscovici） |
-| 宗教学 / Religious Studies | 宗教社会学 / Sociology of religion | 贝拉（Bellah）、柯林斯（Collins） |
+| 宗教学 / Religious Studies | 宗教社会学 / Sociology of 宗教 | 贝拉（Bellah）、柯林斯（Collins） |
 | 法学 / Law | 法律社会学 / Sociology of law | 埃利希（Ehrlich） |
 | 教育学 / Education | 道德教育 / Moral education | 涂尔干本人 / Durkheim himself |
 | 经济学 / Economics | 制度经济学 / Institutional economics | 波兰尼（Polanyi） |
@@ -265,7 +265,7 @@ Durkheim's "collective consciousness" concept dialogues with the Chinese concept
 | [社会团结](concepts/solidarity.md) | 机械团结与有机团结 / Mechanical and organic solidarity |
 | [自杀类型学](concepts/suicide.md) | 四种自杀类型的社会学分析 / Sociological analysis of four suicide types |
 | [社会分工](concepts/division-of-labour.md) | 分工的社会功能与病理 / Social functions and pathologies of division of labour |
-| [神圣与世俗](concepts/sacred-profane.md) | 宗教的基本分类原则 / The basic classificatory principle of religion |
+| [神圣与世俗](concepts/sacred-profane.md) | 宗教的基本分类原则 / The basic classificatory principle of 宗教 |
 | [著作年表](works.md) | 涂尔干主要著作详述 / Detailed survey of Durkheim's major works |
 | [生平年谱](timeline.md) | 涂尔干生平与思想大事年表 / Chronology of Durkheim's life and intellectual milestones |
 | [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |

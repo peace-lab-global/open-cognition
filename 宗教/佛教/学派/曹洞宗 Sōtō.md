@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.soto
+id: 宗教.buddhism.school.soto
 title: 曹洞宗 Sōtō
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-soto
 era: medieval-modern
 tags: [曹洞宗, 默照禅, 只管打坐, 道元, 日本禅]

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.noble-eightfold-path
+id: 宗教.buddhism.core.noble-eightfold-path
 title: 八正道 Noble Eightfold Path
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [八正道, 中道, 四圣谛, 道谛]
@@ -68,10 +68,10 @@ sources: [巴利三藏 · 《转法轮经》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 中庸](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 中道
-- [斯多葛学派](../../../philosophy/schools/stoicism/) — [平行] 德性实践
+- [亚里士多德 · 中庸](../../../哲学/学派/古希腊/亚里士多德.md) — [平行] 中道
+- [斯多葛学派](../../../哲学/schools/stoicism/) — [平行] 德性实践
 - [MBSR/MBCT] — [继承] 正念医学化
-- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 自我修养
+- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 自我修养
 
 ## 进阶阅读
 

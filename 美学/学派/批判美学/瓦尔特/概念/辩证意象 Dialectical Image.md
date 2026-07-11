@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin.concepts.dialectical-image
+id: 美学.critical-aesthetics.benjamin.concepts.dialectical-image
 title: 辩证意象 Dialectical Image
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.benjamin
+domain: 美学
+parent: 美学.critical-aesthetics.benjamin
 tags: [辩证意象, 蒙太奇, 星座, 历史唯物主义, 拱廊街]
 ---
 
@@ -13,7 +13,7 @@ tags: [辩证意象, 蒙太奇, 星座, 历史唯物主义, 拱廊街]
 
 "辩证意象"（Dialektisches Bild）是本雅明历史哲学和美学的核心方法论概念。它指的是历史的"梦境"与"觉醒"在瞬间交汇的意象——过去的残余在当下被突然照亮，释放出被压抑的解放潜能。辩证意象不是对历史的线性叙述，而是通过蒙太奇式的并置，让不同时代的元素在"星座"中碰撞，产生新的认识。
 
-"Dialectical Image" (Dialektisches Bild) is the core methodological concept of Benjamin's philosophy of history and aesthetics. It refers to the image where history's "dream" and "awakening" converge in an instant — past residues suddenly illuminated in the present, releasing repressed liberatory potential. Dialectical images are not linear historical narratives but montages where elements from different eras collide in "constellations," generating new cognition.
+"Dialectical Image" (Dialektisches Bild) is the core methodological concept of Benjamin's 哲学 of history and 美学. It refers to the image where history's "dream" and "awakening" converge in an instant — past residues suddenly illuminated in the present, releasing repressed liberatory potential. Dialectical images are not linear historical narratives but montages where elements from different eras collide in "constellations," generating new cognition.
 
 ## 与线性历史观的对立 / Opposition to Linear Historicism
 

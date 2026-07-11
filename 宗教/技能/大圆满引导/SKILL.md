@@ -1,10 +1,10 @@
 ---
 name: dzogchen-guidance
 description: Triggers on requests to 大圆满、心性认识、直接解脱，如禅修指导、心灵成长、宗教实践等。Apply this skill to guide users in the practice of Dzogchen, recognizing the innate purity and perfection of mind.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/tibet/padmasambhava.md
 linked_concepts:
-  - ../../religion/concepts/dzogchen.md
+  - ../../宗教/概念/dzogchen.md
 tags:
   - 大圆满
   - 心性认识

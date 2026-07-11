@@ -2,7 +2,7 @@
 id: sartre
 title: 萨特 · Jean-Paul Sartre
 type: thinker
-domain: philosophy
+domain: 哲学
 school: existentialism
 era: contemporary
 birth: 1905
@@ -37,7 +37,7 @@ cross-refs:
     relation: 对话
   - id: foucault
     relation: 对立
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 对照
 children:
   - concepts/existence-essence.md
@@ -50,7 +50,7 @@ children:
   - reading-list.md
 related-comparative:
   - ../comparative/existentialism-vs-yogacara.md
-  - ../../../../aesthetics/schools/literary-thought/borges/
+  - ../../../../美学/学派/文学思想/博尔赫斯/
 ---
 
 # 萨特 · Jean-Paul Sartre
@@ -160,16 +160,16 @@ related-comparative:
 - [海德格尔 · 此在](../heidegger.md) `[承接]` 萨特将海德格尔的此在分析激进化为绝对自由，但海德格尔拒绝"存在主义"标签
 - [波伏娃 · 女性主义](../beauvoir.md) `[共生]` 波伏娃将存在主义框架应用于性别分析，《第二性》("女人不是天生的，而是后天形成的") 直接源自"存在先于本质"
 - [梅洛-庞蒂 · 身体现象学](../merleau-ponty.md) `[对话]` 同为现象学传统，梅洛-庞蒂批评萨特的身心二元论，强调身体的中介角色
-- [福柯 · 规训](../../../sociology/schools/structuralism/foucault.md) `[对立]` 萨特强调主体自由，福柯强调权力对主体的建构；两者代表法国思想从存在主义到结构主义的转折
+- [福柯 · 规训](../../../社会学/学派/结构主义/福柯.md) `[对立]` 萨特强调主体自由，福柯强调权力对主体的建构；两者代表法国思想从存在主义到结构主义的转折
 
 ### 心理学
 
-- [罗杰斯 · 来访者中心](../../../psychology/schools/humanistic/rogers.md) `[平行]` 两者都强调人有自我实现的内在倾向
+- [罗杰斯 · 来访者中心](../../../心理学/学派/人本主义/卡尔.md) `[平行]` 两者都强调人有自我实现的内在倾向
 - Yalom 的存在主义心理治疗直接继承萨特的自由/焦虑/死亡框架
 
 ### 东方思想
 
-- [唯识 · Yogācāra](../../../religion/traditions/buddhism/yogacara.md) `[对照]` 自由 vs 种子、自欺 vs 遍计所执、虚无 vs 二空
+- [唯识 · Yogācāra](../../../宗教/传统/佛教/yogacara.md) `[对照]` 自由 vs 种子、自欺 vs 遍计所执、虚无 vs 二空
 
 ## 东西方对话：萨特 x 唯识
 
@@ -218,4 +218,4 @@ related-comparative:
 ## 比较页
 
 - [存在主义 x 唯识](../comparative/existentialism-vs-yogacara.md)
-- [博尔赫斯 x 唯识](../../../../aesthetics/schools/literary-thought/borges/) (平行比较)
+- [博尔赫斯 x 唯识](../../../../美学/学派/文学思想/博尔赫斯/) (平行比较)

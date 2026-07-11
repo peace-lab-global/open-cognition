@@ -3,7 +3,7 @@ id: padmasambhava-guru-yoga
 title: "上师瑜伽 Guru Yoga: 与上师的认知连接"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [guru-yoga, devotion, transmission, Vajrayana]
 ---
 # 上师瑜伽 / Guru Yoga

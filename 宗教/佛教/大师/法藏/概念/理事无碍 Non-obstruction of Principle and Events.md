@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.fazang.concept.li-shi-wu-ai
+id: 宗教.buddhism.fazang.concept.li-shi-wu-ai
 title: "理事无碍 Non-obstruction of Principle and Events"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-huayan
 parent: fazang
 tags: [理事无碍, 理, 事, 本体, 现象, 中道]
@@ -122,7 +122,7 @@ In the *Golden Lion Treatise*, Fazang uses the golden lion to illustrate li-shi 
 
 ### Philosophical Significance
 
-The deep philosophical significance of li-shi non-obstruction is that it provides a way beyond the dualism between noumenon and phenomenon that has plagued Western philosophy. Kant's thing-in-itself is unknowable; Plato's forms are separated from the sensible world. Fazang dissolves this opposition at its root: principle is in events, events are the manifestation of principle. This anticipates Heidegger's questioning of the Being/beings distinction and Merleau-Ponty's ontology of flesh — revealing Being within the world, through embodied existence.
+The deep philosophical significance of li-shi non-obstruction is that it provides a way beyond the dualism between noumenon and phenomenon that has plagued Western 哲学. Kant's thing-in-itself is unknowable; Plato's forms are separated from the sensible world. Fazang dissolves this opposition at its root: principle is in events, events are the manifestation of principle. This anticipates Heidegger's questioning of the Being/beings distinction and Merleau-Ponty's ontology of flesh — revealing Being within the world, through embodied existence.
 
 ### Related Concepts
 

@@ -1,11 +1,11 @@
 ---
 name: art-science-unity-analysis
 description: Triggers on requests to 艺术与科学、跨学科思维、创造力，如创新思维、教育理念、问题解决等。Apply this skill to analyze the unity of art and science using Leonardo da Vinci's approach, understanding how combining different ways of knowing leads to deeper understanding.
-domain: arts
+domain: 艺术
 linked_thinker: ../../schools/visual-arts/leonardo-da-vinci.md
 linked_concepts:
-  - ../../arts/concepts/art-science-unity.md
-  - ../../arts/concepts/creativity.md
+  - ../../艺术/概念/art-science-unity.md
+  - ../../艺术/概念/creativity.md
 tags:
   - 艺术与科学
   - 跨学科思维
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[莱昂纳多·达芬奇](../../schools/visual-arts/leonardo-da-vinci.md)
 - 概念：[艺术与科学统一](../../concepts/art-science-unity.md)、[创造力](../../concepts/creativity.md)
-- 相关 Skill：[pragmatism-analysis](../../philosophy/skills/pragmatism-analysis/SKILL.md)、[methodological-doubt](../../philosophy/skills/methodological-doubt/SKILL.md)
+- 相关 Skill：[pragmatism-analysis](../../哲学/技能/实用主义分析/SKILL.md)、[methodological-doubt](../../哲学/技能/方法论怀疑/SKILL.md)

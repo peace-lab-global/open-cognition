@@ -1,11 +1,11 @@
 ---
 name: rationalization-analysis
 description: Triggers on requests to 理性化、官僚制、新教伦理，如社会变迁分析、组织研究、文化批判等。Apply this skill to analyze the process of rationalization in modern society, understanding its effects on culture, organization, and individual life.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/classical/weber.md
 linked_concepts:
-  - ../../sociology/concepts/rationalization.md
-  - ../../sociology/concepts/bureaucracy.md
+  - ../../社会学/概念/rationalization.md
+  - ../../社会学/概念/bureaucracy.md
 tags:
   - 理性化
   - 官僚制

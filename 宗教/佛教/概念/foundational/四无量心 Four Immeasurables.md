@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.four-immeasurables
+id: 宗教.buddhism.core.four-immeasurables
 title: 四无量心 Four Immeasurables
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [四无量心, 慈悲喜舍, brahmavihara]
@@ -60,7 +60,7 @@ sources: [巴利三藏, 《清净道论》]
 
 ## 跨学科关联
 
-- [罗杰斯 · 无条件积极关注](../../../psychology/schools/humanistic/rogers.md) — [平行] 无条件接纳
+- [罗杰斯 · 无条件积极关注](../../../心理学/学派/人本主义/卡尔.md) — [平行] 无条件接纳
 - [马丁·布伯 · 我与你] — [平行] 主体间性
 - [关怀伦理学] — [继承] 慈悲作为伦理
 - [正念 MBSR/MBCT] — [继承] 慈心冥想

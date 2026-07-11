@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.whitehead
+id: 哲学.analytic.whitehead
 title: 怀特海 · Alfred North Whitehead
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: modern-contemporary
 birth: 1861

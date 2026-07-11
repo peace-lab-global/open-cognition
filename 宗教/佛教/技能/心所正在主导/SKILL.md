@@ -1,7 +1,7 @@
 ---
 name: abhidharma-mind-mapping
 description: 以阿毗达磨心所分类为框架，对当下经验做精细的"心所图谱"——识别哪些心所正在主导（贪/嗔/痴/信/念/慧等）、心路过程处于哪个阶段（转向/领受/推度/速行）、以及如何通过培养善心所对治不善心所。Triggers on 需要精细识别当下心理状态、情绪粒度不足、或想通过正念标注深化内观。
-domain: religion
+domain: 宗教
 school: buddhism-abhidharma
 linked_concepts:
   - ../../concepts/cognitive-theory/abhidharma-mind.md
@@ -190,5 +190,5 @@ tags:
 
 - 概念：[阿毗达磨心识论](../../concepts/cognitive-theory/abhidharma-mind.md)
 - 相关 Skill：[五蕴解构](../five-aggregates-deconstruction/SKILL.md)
-- 跨传统：[Lisa Barrett · 情绪构造](../../../../psychology/schools/cognitive/barrett.md)（平行）
-- 跨传统：[Goleman · 情绪智商](../../../../psychology/schools/cognitive/goleman.md)（平行）
+- 跨传统：[Lisa Barrett · 情绪构造](../../../../心理学/学派/认知心理学/巴雷特.md)（平行）
+- 跨传统：[Goleman · 情绪智商](../../../../心理学/学派/认知心理学/戈尔曼.md)（平行）

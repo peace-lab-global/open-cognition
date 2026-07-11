@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.paramartha-vs-xuanzang
+id: 宗教.buddhism.concept.paramartha-vs-xuanzang
 title: 真谛vs玄奘系唯识 Paramārtha vs. Xuánzàng Yogācāra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 parent: paramartha
 tags: [真谛, 玄奘, 唯识, 摄论宗, 法相宗, 比较研究]

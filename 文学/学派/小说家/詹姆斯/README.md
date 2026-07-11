@@ -1,8 +1,8 @@
 ---
-id: literature.novelists.joyce
+id: 文学.novelists.joyce
 title: 乔伊斯 · James Joyce
 type: thinker
-domain: literature
+domain: 文学
 school: novelists
 era: modernism
 birth: 1882
@@ -49,7 +49,7 @@ children:
 
 《芬尼根的守灵夜》是乔伊斯最后的极限实验——一部以多语言混合、词源游戏和循环结构写成的"夜间之书"，试图将人类文明的全部历史压缩进一个都柏林酒馆老板的梦中。这本书至今仍是西方文学中最具挑战性的文本之一，也是语言学、符号学和神话学研究的宝库。
 
-James Joyce (1882–1941) is one of the most revolutionary figures in the history of literature. His four major works trace a radical evolution from realistic short fiction (*Dubliners*) through psychological portraiture (*A Portrait of the Artist as a Young Man*) to the encyclopedic modernist epic (*Ulysses*) and finally to the linguistic experiment of *Finnegans Wake*. His invention of the stream-of-consciousness technique, his theory of the "epiphany," and his "mythic method" of structuring contemporary narrative through ancient myth have shaped the entire trajectory of 20th-century literature. T.S. Eliot called his mythic method "a way of controlling, of ordering, of giving a shape and a significance to the immense panorama of futility and anarchy which is contemporary history."
+James Joyce (1882–1941) is one of the most revolutionary figures in the history of 文学. His four major works trace a radical evolution from realistic short fiction (*Dubliners*) through psychological portraiture (*A Portrait of the Artist as a Young Man*) to the encyclopedic modernist epic (*Ulysses*) and finally to the linguistic experiment of *Finnegans Wake*. His invention of the stream-of-consciousness technique, his theory of the "epiphany," and his "mythic method" of structuring contemporary narrative through ancient myth have shaped the entire trajectory of 20th-century 文学. T.S. Eliot called his mythic method "a way of controlling, of ordering, of giving a shape and a significance to the immense panorama of futility and anarchy which is contemporary history."
 
 ## 二、核心命题 / Core Theses
 

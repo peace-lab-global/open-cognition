@@ -3,7 +3,7 @@ id: aryadeva-bodhisattva-practice
 title: "菩萨行 Bodhisattva Practice in Madhyamaka"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [bodhisattva, practice, Madhyamaka]
 ---
 # 菩萨行 / Bodhisattva Practice

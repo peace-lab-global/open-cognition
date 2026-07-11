@@ -1,8 +1,8 @@
 ---
-id: aesthetics.poetic-thought.li-bai
+id: 美学.poetic-thought.li-bai
 title: 李白 · Li Bai
 type: thinker
-domain: aesthetics
+domain: 美学
 school: poetic-thought
 era: tang-dynasty
 birth: 701

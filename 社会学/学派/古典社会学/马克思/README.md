@@ -2,7 +2,7 @@
 id: marx
 title: 马克思 · Karl Marx
 type: thinker
-domain: sociology
+domain: 社会学
 school: classical
 era: 19th century
 birth: 1818-05-05
@@ -104,14 +104,14 @@ Marx's ultimate concern was not merely economic analysis but the comprehensive e
 
 马克思在柏林大学深受黑格尔哲学影响，加入青年黑格尔派。博士论文研究伊壁鸠鲁与德谟克利特的自然哲学差异。此后转向新闻工作（《莱茵报》编辑），在现实政治斗争中开始关注物质利益问题。移居巴黎后，通过研究法国大革命和英国政治经济学，完成从唯心主义到唯物主义、从革命民主主义到共产主义的转变。《1844年经济学哲学手稿》标志着其异化理论的成熟。
 
-Marx was deeply influenced by Hegelian philosophy at the University of Berlin and joined the Young Hegelians. His doctoral dissertation examined the differences between Epicurean and Democritean natural philosophy. He then turned to journalism (editing the Rheinische Zeitung), where real political struggles drew his attention to material interests. After relocating to Paris, through his study of the French Revolution and English political economy, he completed the transition from idealism to materialism and from revolutionary democracy to communism. The Economic and Philosophic Manuscripts of 1844 mark the maturation of his theory of alienation.
+Marx was deeply influenced by Hegelian 哲学 at the University of Berlin and joined the Young Hegelians. His doctoral dissertation examined the differences between Epicurean and Democritean natural 哲学. He then turned to journalism (editing the Rheinische Zeitung), where real political struggles drew his attention to material interests. After relocating to Paris, through his study of the French Revolution and English political economy, he completed the transition from idealism to materialism and from revolutionary democracy to communism. The Economic and Philosophic Manuscripts of 1844 mark the maturation of his theory of alienation.
 
 ### 第二阶段：历史唯物主义的系统建立（1845—1857）
 **Phase II: Systematic Foundation of Historical Materialism (1845-1857)**
 
 与恩格斯合作撰写《神圣家族》（1845）和《德意志意识形态》（1846），系统批判青年黑格尔派的唯心主义，首次完整阐述历史唯物主义。《哲学的贫困》（1847）批判蒲鲁东。《共产党宣言》（1848）以纲领形式概括阶级斗争学说和共产主义理论。1848年革命失败后流亡伦敦，进入长期的政治经济学研究。《路易·波拿巴的雾月十八日》（1852）展示了历史唯物主义在政治分析中的运用。
 
-In collaboration with Engels, Marx wrote The Holy Family (1845) and The German Ideology (1846), systematically critiquing the Young Hegelians' idealism and articulating historical materialism in full for the first time. The Poverty of Philosophy (1847) critiqued Proudhon. The Communist Manifesto (1848) summarized class-struggle theory and communist doctrine in programmatic form. After the failure of the 1848 revolutions, Marx went into exile in London and entered a long period of political-economic research. The Eighteenth Brumaire of Louis Bonaparte (1852) demonstrated the application of historical materialism to political analysis.
+In collaboration with Engels, Marx wrote The Holy Family (1845) and The German Ideology (1846), systematically critiquing the Young Hegelians' idealism and articulating historical materialism in full for the first time. The Poverty of Philosophy (1847) critiqued Proudhon. The Communist Manifesto (1848) summarized class-struggle theory and communist doctrine in programmatic form. After the failure of the 1848 revolutions, Marx went into exile in London and entered a long period of political-economic 研究. The Eighteenth Brumaire of Louis Bonaparte (1852) demonstrated the application of historical materialism to political analysis.
 
 ### 第三阶段：政治经济学批判与《资本论》（1857—1883）
 **Phase III: Critique of Political Economy and Capital (1857-1883)**
@@ -131,7 +131,7 @@ The central achievement of this phase was Capital (Volume I published in 1867; V
 | 1845 | 《关于费尔巴哈的提纲》/ Theses on Feuerbach | 实践哲学 / Philosophy of praxis |
 | 1846 | 《德意志意识形态》/ The German Ideology（与恩格斯合著 / w/ Engels） | 历史唯物主义 / Historical materialism |
 | 1848 | 《共产党宣言》/ The Communist Manifesto（与恩格斯合著 / w/ Engels） | 阶级斗争与革命纲领 / Class struggle and revolutionary programme |
-| 1852 | 《路易·波拿巴的雾月十八日》/ The Eighteenth Brumaire of Louis Bonaparte | 政治社会学 / Political sociology |
+| 1852 | 《路易·波拿巴的雾月十八日》/ The Eighteenth Brumaire of Louis Bonaparte | 政治社会学 / Political 社会学 |
 | 1857-58 | 《政治经济学批判大纲》/ Grundrisse | 政治经济学手稿 / Political economy manuscripts |
 | 1867 | 《资本论》第一卷 / Capital, Volume I | 资本主义生产过程 / Capitalist production process |
 | 1875 | 《哥达纲领批判》/ Critique of the Gotha Programme | 过渡时期与共产主义阶段 / Transition and communist stages |
@@ -254,7 +254,7 @@ Japan was one of the earliest Asian countries to systematically engage with Marx
 | 学科 / Discipline | 关联领域 / Related Fields | 代表人物 / Key Figures |
 |---|---|---|
 | 经济学 / Economics | 政治经济学批判、劳动价值论 / Political economy critique, labour theory of value | 大卫·哈维（David Harvey） |
-| 哲学 / Philosophy | 辩证唯物主义、实践哲学 / Dialectical materialism, philosophy of praxis | 卢卡奇（Lukacs）、萨特（Sartre） |
+| 哲学 / Philosophy | 辩证唯物主义、实践哲学 / Dialectical materialism, 哲学 of praxis | 卢卡奇（Lukacs）、萨特（Sartre） |
 | 政治学 / Political Science | 国家理论、革命理论 / State theory, revolution theory | 普兰查斯（Poulantzas） |
 | 历史学 / History | 社会史、年鉴学派 / Social history, Annales School | E.P. 汤普森（E.P. Thompson） |
 | 文化研究 / Cultural Studies | 文化唯物主义、霸权理论 / Cultural materialism, hegemony theory | 雷蒙·威廉斯（Raymond Williams） |

@@ -3,7 +3,7 @@ id: aryadeva-four-hundred
 title: "四百论 Catuhsataka: 提婆的核心著作"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [four-hundred, Catuhsataka, Madhyamaka]
 ---
 # 四百论 / Catuhsataka

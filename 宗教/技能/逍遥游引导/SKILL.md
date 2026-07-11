@@ -1,10 +1,10 @@
 ---
 name: xiaoyao-guidance
 description: Triggers on requests to 逍遥游、精神自由、超越束缚，如心灵成长、压力管理、人生境界等。Apply this skill to help users achieve spiritual freedom and transcend worldly constraints.
-domain: religion
+domain: 宗教
 linked_thinker: ../../traditions/taoism/masters/zhuangzi.md
 linked_concepts:
-  - ../../religion/traditions/taoism/xiaoyao.md
+  - ../../宗教/传统/道教/xiaoyao.md
 tags:
   - 逍遥游
   - 精神自由
@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[庄子](../../traditions/taoism/masters/zhuangzi.md)
 - 概念：[逍遥游](../../traditions/taoism/xiaoyao.md)
-- 相关 Skill：[qiwu-analysis](../../philosophy/skills/qiwu-analysis/SKILL.md)、[wuwei-guidance](./wuwei-guidance/SKILL.md)
+- 相关 Skill：[qiwu-analysis](../../哲学/技能/齐物论分析/SKILL.md)、[wuwei-guidance](./wuwei-guidance/SKILL.md)

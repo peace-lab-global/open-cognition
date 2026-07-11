@@ -1,23 +1,23 @@
 ---
-id: psychology.cognitive.beck.cognitive-therapy
+id: 心理学.cognitive.beck.cognitive-therapy
 title: "认知疗法 \u00b7 Cognitive Therapy \u00b7 Beck"
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 thinker: beck
 tags: [cognitive-therapy, CBT, collaborative-empiricism, Socratic-questioning, behavioral-experiment, short-term-therapy]
 cross-refs:
-  - id: psychology.cognitive.beck
+  - id: 心理学.cognitive.beck
     relation: thinker
-  - id: psychology.cognitive.ellis
+  - id: 心理学.cognitive.ellis
     relation: 平行(REBT)
-  - id: psychology.cognitive.hayes
+  - id: 心理学.cognitive.hayes
     relation: 延伸(ACT)
-  - id: psychology.cognitive.kabat-zinn
+  - id: 心理学.cognitive.kabat-zinn
     relation: 融合(MBCT)
-  - id: psychology.behaviorism.skinner
+  - id: 心理学.behaviorism.skinner
     relation: 继承(行为技术)
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 对照
 ---
 

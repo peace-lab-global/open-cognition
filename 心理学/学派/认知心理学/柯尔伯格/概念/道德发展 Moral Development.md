@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kohlberg.moral-development
+id: 心理学.cognitive.kohlberg.moral-development
 title: 道德发展 Moral Development
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 tags: [道德发展, 认知结构, 阶段理论, 道德心理学, moral-development, cognitive-structure, stage-theory]
@@ -51,7 +51,7 @@ Higher stages do not simply replace lower stages but integrate them as component
 
 柯尔伯格的道德发展理论直接建立在皮亚杰的道德判断研究之上。皮亚杰在1932年的《儿童的道德判断》（*The Moral Judgment of the Child*）中首次提出，儿童的道德判断经历从"他律"（heteronomy，道德是外部权威的规则）到"自律"（autonomy，道德是主体间协商的产物）的发展过程。皮亚杰发现，年幼儿童倾向于根据行为的客观后果判断对错（客观责任），而年长儿童则根据行为者的意图判断（主观责任）。
 
-Kohlberg's moral development theory is directly built upon Piaget's moral judgment research. In *The Moral Judgment of the Child* (1932), Piaget first proposed that children's moral judgments develop from "heteronomy" (morality as external authority's rules) to "autonomy" (morality as product of intersubjective negotiation). Piaget discovered that younger children tend to judge right and wrong based on objective consequences of behavior (objective responsibility), while older children judge based on the actor's intentions (subjective responsibility).
+Kohlberg's moral development theory is directly built upon Piaget's moral judgment 研究. In *The Moral Judgment of the Child* (1932), Piaget first proposed that children's moral judgments develop from "heteronomy" (morality as external authority's rules) to "autonomy" (morality as product of intersubjective negotiation). Piaget discovered that younger children tend to judge right and wrong based on objective consequences of behavior (objective responsibility), while older children judge based on the actor's intentions (subjective responsibility).
 
 ### 柯尔伯格的系统扩展 / Kohlberg's Systematic Extension
 
@@ -68,7 +68,7 @@ Kohlberg extended Piaget's two-stage model to a three-level, six-stage model, ex
 
 柯尔伯格去世后，道德发展研究经历了重要发展：
 
-After Kohlberg's death, moral development research underwent significant developments:
+After Kohlberg's death, moral development 研究 underwent significant developments:
 
 - **雷斯特（James Rest）的四成分模型**（Four Component Model）：将道德行为分解为道德敏感性、道德判断、道德动机和道德品格四个相对独立的成分 / Decomposing moral behavior into four relatively independent components: moral sensitivity, moral judgment, moral motivation, and moral character
 - **DIT测验**（Defining Issues Test）：Rest开发的标准化问卷工具，使大样本道德判断评估成为可能 / Standardized questionnaire tool developed by Rest, enabling large-sample moral judgment assessment
@@ -111,7 +111,7 @@ Moral development theory provides counseling with a framework for understanding 
 
 荀子认为人性本恶，道德需要通过"礼义"的外在教化来"化性起伪"——将自然的生物性冲动转化为文化性的道德行为。柯尔伯格的道德发展理论提供了一条不同的路径：道德发展不是简单的外部教化，而是认知结构在教育性经验中的主动建构。两者的对话揭示了一个深层问题——道德发展究竟是从外部"塑造"还是从内部"生长"？当代研究倾向于认为两者并非对立：外部社会经验是道德发展的必要条件，但道德认知结构的质变需要个体的主动建构。
 
-Xunzi held that human nature is inherently evil, and morality requires external civilizing education through "ritual and righteousness" (liyi) to "transform nature through artifice" — converting natural biological impulses into cultural moral behavior. Kohlberg's moral development theory offers a different path: moral development is not simple external civilizing but the active construction of cognitive structures through educational experiences. The dialogue between the two reveals a deep question — is moral development "shaped" from outside or "grown" from inside? Contemporary research tends to view the two as non-oppositional: external social experience is a necessary condition for moral development, but qualitative transformation of moral cognitive structures requires individual active construction.
+Xunzi held that human nature is inherently evil, and morality requires external civilizing education through "ritual and righteousness" (liyi) to "transform nature through artifice" — converting natural biological impulses into cultural moral behavior. Kohlberg's moral development theory offers a different path: moral development is not simple external civilizing but the active construction of cognitive structures through educational experiences. The dialogue between the two reveals a deep question — is moral development "shaped" from outside or "grown" from inside? Contemporary 研究 tends to view the two as non-oppositional: external social experience is a necessary condition for moral development, but qualitative transformation of moral cognitive structures requires individual active construction.
 
 ### 与王阳明"致良知"的对话 / Dialogue with Wang Yangming's "Extending Innate Moral Knowing"
 
@@ -124,12 +124,12 @@ Wang Yangming's School of Mind tradition holds that "innate moral knowing" (lian
 ### 原典 / Primary Works
 - Kohlberg, L. (1981). *Essays on Moral Development, Vol. 1: The Philosophy of Moral Development*. Harper & Row. — 第1-3章阐述理论框架 / Chapters 1–3 articulate the theoretical framework
 - Kohlberg, L. (1984). *Essays on Moral Development, Vol. 2: The Psychology of Moral Development*. Harper & Row. — 纵向研究与跨文化证据 / Longitudinal studies and cross-cultural evidence
-- Piaget, J. (1932). *The Moral Judgment of the Child*. London: Kegan Paul. — 道德发展研究的开创性著作 / Foundational work of moral development research
+- Piaget, J. (1932). *The Moral Judgment of the Child*. London: Kegan Paul. — 道德发展研究的开创性著作 / Foundational work of moral development 研究
 
 ### 二手研究 / Secondary Research
 - Rest, J.R., Narvaez, D., Bebeau, M.J., & Thoma, S.J. (1999). *Postconventional Moral Thinking: A Neo-Kohlbergian Approach*. Mahwah, NJ: Erlbaum. — 新柯尔伯格学派的系统发展 / Neo-Kohlbergian systematic development
-- Lapsley, D.K. (1996). *Moral Psychology*. Boulder, CO: Westview Press. — 全面的道德心理学综述 / Comprehensive moral psychology review
-- Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. New York: Pantheon. — 当代道德心理学的社会直觉主义视角 / Contemporary social intuitionist perspective in moral psychology
+- Lapsley, D.K. (1996). *Moral Psychology*. Boulder, CO: Westview Press. — 全面的道德心理学综述 / Comprehensive moral 心理学 review
+- Haidt, J. (2012). *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. New York: Pantheon. — 当代道德心理学的社会直觉主义视角 / Contemporary social intuitionist perspective in moral 心理学
 
 ### 中文资源 / Chinese Resources
 - 郭本禹《道德发展心理学》上海教育出版社 — 系统介绍道德发展理论的中国学者专著

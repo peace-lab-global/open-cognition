@@ -2,7 +2,7 @@
 id: bentham
 title: 边沁 · Jeremy Bentham
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: consequentialism
 era: modern
 birth: 1748

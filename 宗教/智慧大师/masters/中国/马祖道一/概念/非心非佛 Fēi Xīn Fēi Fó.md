@@ -3,7 +3,7 @@ id: wisdom-masters.china.mazu-daoyi.neither-mind-nor-buddha
 title: 非心非佛 Fēi Xīn Fēi Fó
 type: concept
 thinker: 马祖道一 Mazu Daoyi
-domain: religion
+domain: 宗教
 school: chan-buddhism
 tags: [非心非佛, 超越, 禅宗]
 ---

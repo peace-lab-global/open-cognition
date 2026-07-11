@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.cage.concepts.silence-as-music
+id: 美学.arts-thought.cage.concepts.silence-as-music
 title: 沉默即音乐 Silence as Music
 type: concept
-parent: aesthetics.arts-thought.cage
+parent: 美学.arts-thought.cage
 tags: [silence, listening, perception, ambient-sound]
 ---
 

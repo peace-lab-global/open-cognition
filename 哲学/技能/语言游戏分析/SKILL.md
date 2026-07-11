@@ -1,7 +1,7 @@
 ---
 name: language-game-analysis
 description: Triggers when a dispute or confusion arises from a word being used in different "language games" (different practices, contexts, communities) without participants noticing. Apply this skill to map who uses the word in which contexts, surface the rules of each usage, and resolve pseudo-disagreements that are actually equivocations.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/analytic/wittgenstein.md
 linked_concepts:
   - ../../concepts/epistemology.md

@@ -3,7 +3,7 @@ id: longchenpa-natural-rest
 title: "自然安住 Natural Rest: 大圆满的修行核心"
 type: concept
 parent: longchenpa
-domain: religion
+domain: 宗教
 tags: [natural-rest, Dzogchen, trekcho, non-meditation]
 ---
 # 自然安住 / Natural Rest (rang-babs)

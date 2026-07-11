@@ -35,15 +35,15 @@ Insights across disciplines are scattered across hard-to-read primary texts and 
 
 | Domain | Thinkers | Concepts | Skills | Entry point |
 |---|:---:|:---:|:---:|---|
-| Philosophy | 42 | 8 | 19 | [philosophy](philosophy/README.md) |
-| Religion | 34 | 127 | 39 | [religion](religion/README.md) |
-| Sociology | 18 | 7 | 15 | [sociology](sociology/README.md) |
-| Psychology | 42 | 8 | 16 | [psychology](psychology/README.md) |
-| Ethics & Politics | 15 | 11 | 10 | [ethics-politics](ethics-politics/README.md) |
-| Aesthetics | 23 | 9 | 3 | [aesthetics](aesthetics/README.md) |
-| Literature | 5 | 8 | 5 | [literature](literature/README.md) |
-| Arts | 3 | 8 | 3 | [arts](arts/README.md) |
-| Cognitive Systems Engineering | 28 | 27 | 16 | [cognitive-systems](cognitive-systems/README.md) |
+| Philosophy | 42 | 8 | 19 | [哲学](哲学/README.md) |
+| Religion | 34 | 127 | 39 | [宗教](宗教/README.md) |
+| Sociology | 18 | 7 | 15 | [社会学](社会学/README.md) |
+| Psychology | 42 | 8 | 16 | [心理学](心理学/README.md) |
+| Ethics & Politics | 15 | 11 | 10 | [伦理政治](伦理政治/README.md) |
+| Aesthetics | 23 | 9 | 3 | [美学](美学/README.md) |
+| Literature | 5 | 8 | 5 | [文学](文学/README.md) |
+| Arts | 3 | 8 | 3 | [艺术](艺术/README.md) |
+| Cognitive Systems Engineering | 28 | 27 | 16 | [认知系统](认知系统/README.md) |
 
 Full index: [INDEX.md](INDEX.md) | Tag taxonomy: [TAGS.md](TAGS.md)
 
@@ -53,7 +53,7 @@ Full index: [INDEX.md](INDEX.md) | Tag taxonomy: [TAGS.md](TAGS.md)
 
 Under `religion/buddhism/concepts/cognitive-theory/`, this repository contains the deepest thematic treatment in the entire knowledge base -- a systematic treatment of Buddhism's cognitive science and epistemology resources.
 
-Quick start guide: [QUICKSTART.md](religion/buddhism/concepts/cognitive-theory/QUICKSTART.md)
+Quick start guide: [QUICKSTART.md](宗教/佛教/概念/cognitive-theory/QUICKSTART.md)
 
 ### Scope
 
@@ -67,14 +67,14 @@ Quick start guide: [QUICKSTART.md](religion/buddhism/concepts/cognitive-theory/Q
 
 ### Entry Points
 
-- **Main index**: [`religion/buddhism/INDEX.md`](religion/buddhism/INDEX.md)
-- **Cognitive theory catalog**: [`concepts/cognitive-theory/README.md`](religion/buddhism/concepts/cognitive-theory/README.md)
-- **Representative concepts**: [Pramana](religion/buddhism/concepts/cognitive-theory/pramana.md) | [Three Natures](religion/buddhism/concepts/cognitive-theory/three-natures.md) | [Consciousness Transformation](religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) | [Koan Mechanics](religion/buddhism/concepts/cognitive-theory/koan-mechanics.md)
-- **Representative Skills**: [Eight Consciousness Diagnosis](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md) | [Three Natures Diagnosis](religion/buddhism/skills/three-natures-diagnosis/SKILL.md) | [Dependent Origination Tracing](religion/buddhism/skills/dependent-origination-tracing/SKILL.md) | [Five Aggregates Deconstruction](religion/buddhism/skills/five-aggregates-deconstruction/SKILL.md)
+- **Main index**: [`religion/buddhism/INDEX.md`](宗教/佛教/INDEX.md)
+- **Cognitive theory catalog**: [`concepts/cognitive-theory/README.md`](宗教/佛教/概念/cognitive-theory/README.md)
+- **Representative concepts**: [Pramana](宗教/佛教/概念/cognitive-theory/量论.md) | [Three Natures](宗教/佛教/概念/cognitive-theory/三性.md) | [Consciousness Transformation](宗教/佛教/概念/cognitive-theory/六根六尘六识.md) | [Koan Mechanics](宗教/佛教/概念/cognitive-theory/公案与话头的认知机制.md)
+- **Representative Skills**: [Eight Consciousness Diagnosis](宗教/佛教/技能/从前五识/SKILL.md) | [Three Natures Diagnosis](宗教/佛教/技能/以唯识三性/SKILL.md) | [Dependent Origination Tracing](宗教/佛教/技能/定位关键断点/SKILL.md) | [Five Aggregates Deconstruction](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ### Dialogue with Contemporary Thought
 
-Each concept file explicitly builds bridges to modern cognitive science, psychology, phenomenology, philosophy of mind, and AI. For example:
+Each concept file explicitly builds bridges to modern cognitive science, psychology, phenomenology, 哲学 of mind, and AI. For example:
 
 - Eight Consciousnesses and the Default Mode Network (DMN)
 - Five Aggregates and Hume's bundle theory / the binding problem
@@ -96,15 +96,15 @@ open-cognition/
   TAGS.md                     # Unified tag taxonomy
   CONTRIBUTING.md             # Contribution guide
   index.json                  # Machine-readable index
-  philosophy/                  # Philosophy (42 thinkers / 8 concepts / 19 skills)
-  religion/                    # Religion (incl. Buddhist cognitive theory flagship)
-  sociology/                   # Sociology
-  psychology/                  # Psychology
-  ethics-politics/             # Ethics & Political Philosophy
-  aesthetics/                  # Aesthetics
-  literature/                  # Literature
-  arts/                        # Arts
-  cognitive-systems/           # Cognitive Systems Engineering
+  哲学/                  # Philosophy (42 thinkers / 8 concepts / 19 skills)
+  宗教/                    # Religion (incl. Buddhist cognitive theory flagship)
+  社会学/                   # Sociology
+  心理学/                  # Psychology
+  伦理政治/             # Ethics & Political Philosophy
+  美学/                  # Aesthetics
+  文学/                  # Literature
+  艺术/                        # Arts
+  认知系统/           # Cognitive Systems Engineering
   _meta/                       # Metadata, taxonomy, templates, reports
 ```
 
@@ -118,19 +118,19 @@ See the [Chinese README](README.md) for the full directory tree.
 
 Fixed structure: basic info, core propositions, intellectual context, key works, important concepts, coordinate mapping, contemporary applications, common misreadings, cross-disciplinary links, further reading, linked Skills.
 
-Examples: [Freud](psychology/schools/psychoanalysis/freud.md) | [Weber](sociology/schools/classical/weber.md) | [Kant](philosophy/schools/german-idealism/kant.md) | [Nagarjuna](religion/buddhism/masters/nagarjuna.md) | [Dogen](religion/buddhism/masters/dogen.md)
+Examples: [Freud](心理学/学派/精神分析/西格蒙德.md) | [Weber](社会学/学派/古典社会学/韦伯.md) | [Kant](哲学/学派/德国唯心论/康德.md) | [Nagarjuna](宗教/佛教/大师/龙树.md) | [Dogen](宗教/佛教/大师/道元.md)
 
 ### Concept
 
 Fixed structure: one-line definition, historical context, core content, colloquial vs. scholarly framing, related concepts, representative thinkers, application scenarios, common misreadings, cross-disciplinary links, further reading.
 
-Examples: [Flow](psychology/concepts/flow.md) | [Cultural Capital](sociology/concepts/cultural-capital.md) | [Sacred](religion/concepts/sacred.md) | [Pramana](religion/buddhism/concepts/cognitive-theory/pramana.md)
+Examples: [Flow](心理学/概念/心流 Flow.md) | [Cultural Capital](社会学/概念/文化资本.md) | [Sacred](宗教/概念/神圣性.md) | [Pramana](宗教/佛教/概念/cognitive-theory/量论.md)
 
 ### Skill
 
 Agent-executable operational framework with YAML frontmatter, one-line function description, when-to-use / when-not-to-use guidance, theoretical basis, step-by-step procedure, worked examples, and counterexamples.
 
-Examples: [CBT Cognitive Distortion](./psychology/skills/cbt-cognitive-distortion/SKILL.md) | [Bourdieu Field Analysis](./sociology/skills/bourdieu-field-analysis/SKILL.md) | [Four Noble Truths](./religion/skills/four-noble-truths-framework/SKILL.md) | [Eight Consciousness Diagnosis](religion/buddhism/skills/eight-consciousness-diagnosis/SKILL.md)
+Examples: [CBT Cognitive Distortion](./心理学/技能/认知扭曲识别/SKILL.md) | [Bourdieu Field Analysis](./社会学/技能/布迪厄场域分/SKILL.md) | [Four Noble Truths](./宗教/技能/四圣谛框架分/SKILL.md) | [Eight Consciousness Diagnosis](宗教/佛教/技能/从前五识/SKILL.md)
 
 ---
 

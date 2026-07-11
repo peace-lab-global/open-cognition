@@ -1,7 +1,7 @@
 ---
 name: class-analysis
 description: Triggers on requests to 阶级分析、社会分层、阶级斗争，如社会不平等分析、政治经济学分析、历史唯物主义应用等。Apply this skill to analyze social structures through the lens of class relations, power dynamics, and historical materialism.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/classical/marx.md
 linked_concepts:
   - ../../concepts/class.md

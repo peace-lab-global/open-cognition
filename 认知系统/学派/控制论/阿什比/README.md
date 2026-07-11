@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cybernetics.ashby
+id: 认知系统.school.cybernetics.ashby
 title: 阿什比 W.R. Ashby
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cybernetics
 era: modern
 birth: 1903

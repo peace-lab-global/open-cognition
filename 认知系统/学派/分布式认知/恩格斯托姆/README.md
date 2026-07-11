@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.distributed.engestrom
+id: 认知系统.school.distributed.engestrom
 title: 恩格斯托姆 Yrjö Engeström
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: distributed
 era: contemporary
 birth: 1948

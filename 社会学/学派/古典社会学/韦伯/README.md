@@ -1,8 +1,8 @@
 ---
-id: sociology.classical.weber
+id: 社会学.classical.weber
 title: 韦伯 Max Weber
 type: thinker
-domain: sociology
+domain: 社会学
 school: classical
 era: 19th-20th century
 birth: 1864
@@ -42,7 +42,7 @@ sources:
 
 韦伯的方法论以"理解"（Verstehen）和"理想类型"（Idealtypus）为核心。理解社会学主张，社会行动必须通过行动者赋予其行动的主观意义来把握；理想类型则是通过将现实中的某些要素加以理性化的极端化而构建的分析工具，用以测量现实与概念之间的距离。与涂尔干的"社会事实"取向不同，韦伯强调从行动者的意义世界出发理解社会现象。
 
-Weber is one of the founding fathers of modern sociology and the pioneer of interpretive sociology (verstehende Soziologie). His central intellectual concern was the problem of "rationalization": how did Western modern society develop a unique form of rationalism? How does this rationalism manifest in religion, economy, law, administration, and science? His famous answer is the "disenchantment of the world"—modernization is a process in which meaning moves from mystery to calculation, from charisma to rules.
+Weber is one of the founding fathers of modern 社会学 and the pioneer of interpretive 社会学 (verstehende Soziologie). His central intellectual concern was the problem of "rationalization": how did Western modern society develop a unique form of rationalism? How does this rationalism manifest in religion, economy, law, administration, and science? His famous answer is the "disenchantment of the world"—modernization is a process in which meaning moves from mystery to calculation, from charisma to rules.
 
 ## 二、核心命题
 

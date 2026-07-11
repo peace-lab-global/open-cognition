@@ -3,7 +3,7 @@ id: hakuin-zazen-wasan
 title: "坐禅和赞 Zazen Wasan: 坐禅的赞歌"
 type: concept
 parent: hakuin
-domain: religion
+domain: 宗教
 tags: [zazen-wasan, sitting-meditation, Rinzai]
 ---
 # 坐禅和赞 / Zazen Wasan

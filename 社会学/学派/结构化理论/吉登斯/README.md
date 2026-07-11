@@ -1,8 +1,8 @@
 ---
-id: sociology.structuration.giddens
+id: 社会学.structuration.giddens
 title: 吉登斯 · Anthony Giddens
 type: thinker
-domain: sociology
+domain: 社会学
 school: structuration
 era: 20th-21st century
 birth: 1938
@@ -53,7 +53,7 @@ sub-entries:
 
 在现代性研究方面，吉登斯提出了"反思性现代化"（reflexive modernization）理论，与乌尔里希·贝克和齐格蒙特·鲍曼构成对话。他认为晚期现代性（late modernity）的特征是制度性的自我反思——社会制度不断根据关于自身运作的新知识来调整自身。在《现代性与自我认同》（Modernity and Self-Identity, 1991）中，他将宏观的制度分析与微观的自我认同研究相结合，论证了现代社会中自我成为一种"反思性工程"（reflexive project）。
 
-Giddens is one of the most influential contemporary British sociologists, the founder of Structuration Theory, and the chief theorist of the "Third Way." His central theoretical project aims to transcend the structure-agency dualism that has long divided sociology. His concept of the "duality of structure" — that structure is both the medium and outcome of social action — offers a middle path between structural determinism and voluntarism. His work on late modernity, reflexivity, and self-identity has been central to debates about contemporary social transformation.
+Giddens is one of the most influential contemporary British sociologists, the founder of Structuration Theory, and the chief theorist of the "Third Way." His central theoretical project aims to transcend the structure-agency dualism that has long divided 社会学. His concept of the "duality of structure" — that structure is both the medium and outcome of social action — offers a middle path between structural determinism and voluntarism. His work on late modernity, reflexivity, and self-identity has been central to debates about contemporary social transformation.
 
 ## 二、核心命题
 

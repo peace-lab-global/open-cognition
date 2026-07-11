@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.three-vehicles
+id: 宗教.buddhism.concept.three-vehicles
 title: 三乘 Trini Yānāni
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [三乘, 声闻乘, 缘觉乘, 菩萨乘, 一乘, 判教]

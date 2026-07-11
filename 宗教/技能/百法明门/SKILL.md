@@ -1,7 +1,7 @@
 ---
 name: hundred-dharmas-analysis
 description: Triggers when a user needs to classify and analyze any mental, cognitive, or psychological phenomenon using the Yogācāra Hundred Dharmas (百法明门) framework. Guides a six-step process of sorting a phenomenon into the five categories (心法/心所法/色法/心不相应行法/无为法) and performing a diagnostic mapping of its psychological structure.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/hundred-dharmas.md
   - ../../buddhism/concepts/foundational/five-aggregates.md
@@ -12,7 +12,7 @@ linked_concepts:
 tags:
   - yogacara
   - hundred-dharmas
-  - psychology
+  - 心理学
   - cognitive-analysis
   - dharma-classification
 ---

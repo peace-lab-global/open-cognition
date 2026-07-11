@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.dennett
+id: 哲学.analytic.dennett
 title: 丹尼特 · Daniel C. Dennett
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1942

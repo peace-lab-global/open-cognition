@@ -1,11 +1,11 @@
 ---
 name: ren-li-analysis
 description: Triggers on requests to 仁、礼、中庸，如道德修养、人际关系、社会秩序等。Apply this skill to analyze moral and social issues using Confucius' concepts of ren (benevolence) and li (ritual propriety).
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/eastern/confucius.md
 linked_concepts:
-  - ../../philosophy/concepts/ren.md
-  - ../../philosophy/concepts/li.md
+  - ../../哲学/概念/ren.md
+  - ../../哲学/概念/li.md
 tags:
   - 仁
   - 礼

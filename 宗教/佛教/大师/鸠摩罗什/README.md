@@ -2,7 +2,7 @@
 id: kumarajiva
 title: "鸠摩罗什 Kumārajīva: 汉传佛教最伟大的翻译家与中观思想东传第一人"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 birth: 344
@@ -49,7 +49,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 
 首次系统翻译龙树 (Nāgārjuna) 中观三论——《中论》《百论》《十二门论》——为三论宗 (Sanlun) 奠基。罗什不仅翻译文本，更通过口授讲解将中观思想的核心——缘起性空、八不中道、二谛——传授给中国弟子。
 
-**He was the first to systematically translate the core Madhyamaka treatises into Chinese, laying the foundation for the Sanlun (Three Treatises) school and introducing Nāgārjuna's philosophy to East Asia.**
+**He was the first to systematically translate the core Madhyamaka treatises into Chinese, laying the foundation for the Sanlun (Three Treatises) school and introducing Nāgārjuna's 哲学 to East Asia.**
 
 详见 [汉传中观](concepts/madhyamaka-chinese.md)。
 
@@ -242,7 +242,7 @@ children: ["concepts/translation-method", "concepts/emptiness-teaching", "concep
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [龙树 Nāgārjuna](nagarjuna.md) — 中观思想的源头；[僧肇 Sengzhao](sengzhao.md) — 嫡传弟子"解空第一"；[慧远 Huiyuan](huiyuan.md) — 同时代通信论法义；[智顗 Zhiyi](zhiyi.md) — 以罗什译《法华经》立宗
-- **哲学**: [瓦尔特·本雅明 Walter Benjamin](../../../aesthetics/schools/critical-aesthetics/benjamin.md) — 翻译者任务；[奈达 Eugene Nida](../../../philosophy/schools/analytic/nida.md) — 动态对等翻译理论
+- **哲学**: [瓦尔特·本雅明 Walter Benjamin](../../../美学/学派/批判美学/瓦尔特.md) — 翻译者任务；[奈达 Eugene Nida](../../../哲学/学派/分析哲学/nida.md) — 动态对等翻译理论
 - **翻译学**: 与玄奘 (Xuanzang) 的"新译"对照——翻译理念从"意译"到"直译"的演变
 - **文化史**: 丝绸之路文化传播、东亚佛教文明共同基础
 

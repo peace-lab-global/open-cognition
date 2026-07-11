@@ -3,7 +3,7 @@ id: taixu-world-buddhism
 title: "世界佛学 World Buddhism: 太虚的全球佛教构想"
 type: concept
 parent: taixu
-domain: religion
+domain: 宗教
 tags: [world-buddhism, global-buddhism, world-buddhist-institute, comparative-buddhism, international-dharma]
 ---
 
@@ -13,7 +13,7 @@ tags: [world-buddhism, global-buddhism, world-buddhist-institute, comparative-bu
 
 **世界佛学**是太虚大师提出的全球佛教研究与弘法构想，主张以世界性的视野整合南传 (Theravada)、汉传 (Chinese)、藏传 (Tibetan) 三大佛教传统，并结合现代学术方法，建立一个超越民族和宗派界限的世界佛学研究体系。其具体载体是 1928 年在巴黎发起的**"世界佛学苑"** (World Institute of Buddhist Studies)。
 
-**"World Buddhism"** is Master Taixu's visionary program for global Buddhist studies, advocating the integration of Theravada, Chinese, and Tibetan traditions through modern academic methods to create a world Buddhist research system transcending national and sectarian boundaries. Its concrete embodiment was the **World Institute of Buddhist Studies**, launched in Paris in 1928.
+**"World Buddhism"** is Master Taixu's visionary program for global Buddhist studies, advocating the integration of Theravada, Chinese, and Tibetan traditions through modern academic methods to create a world Buddhist 研究 system transcending national and sectarian boundaries. Its concrete embodiment was the **World Institute of Buddhist Studies**, launched in Paris in 1928.
 
 ## 思想背景 / Intellectual Background
 
@@ -59,7 +59,7 @@ tags: [world-buddhism, global-buddhism, world-buddhist-institute, comparative-bu
   - 佛教与现代科学的对话
 - **人才培养**: 培养通晓多国语言和多种佛教传统的"世界佛学者"
 
-**Taixu envisioned a research center in Paris coordinating a global network of branches across Asia and the West, with dedicated programs in Theravada, Chinese, and Tibetan Buddhist studies, comparative Buddhism, and science-Buddhism dialogue — training "world Buddhist scholars" fluent in multiple languages and traditions.**
+**Taixu envisioned a 研究 center in Paris coordinating a global network of branches across Asia and the West, with dedicated programs in Theravada, Chinese, and Tibetan Buddhist studies, comparative Buddhism, and science-Buddhism dialogue — training "world Buddhist scholars" fluent in multiple languages and traditions.**
 
 ### 环球弘法之旅 Global Teaching Tour (1928-1929)
 
@@ -112,7 +112,7 @@ tags: [world-buddhism, global-buddhism, world-buddhist-institute, comparative-bu
 - **哲学深度**: 佛教的认识论和形而上学可以与西方哲学进行平等对话
 - **包容性**: 佛教不排斥其他宗教，具有跨宗教对话的先天优势
 
-**Taixu argued that Buddhism has unique potential as a "world religion": non-theistic (compatible with scientific rationality), practice-oriented (meditation and ethics transcend culture), philosophically deep (capable of equal dialogue with Western philosophy), and inherently tolerant (conducive to interfaith dialogue).**
+**Taixu argued that Buddhism has unique potential as a "world religion": non-theistic (compatible with scientific rationality), practice-oriented (meditation and ethics transcend culture), philosophically deep (capable of equal dialogue with Western 哲学), and inherently tolerant (conducive to interfaith dialogue).**
 
 ## 实际影响 / Actual Impact
 

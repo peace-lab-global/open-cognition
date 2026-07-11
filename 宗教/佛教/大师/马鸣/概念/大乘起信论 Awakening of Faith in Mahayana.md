@@ -3,7 +3,7 @@ id: ashvaghosha-faith-awakening
 title: "大乘起信论 Awakening of Faith in Mahayana"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [Awakening-of-Faith, Mahayana, China]
 ---
 # 大乘起信论 / Awakening of Faith

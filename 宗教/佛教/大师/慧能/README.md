@@ -2,7 +2,7 @@
 id: huineng
 title: "慧能 Huineng: 禅宗六祖与顿悟佛教的革命者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: medieval-china
 birth: 638
@@ -229,11 +229,11 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [海德格尔 Heidegger](../../../philosophy/schools/existentialism/heidegger.md) — 本真性与自性的平行；[维特根斯坦 Wittgenstein](../../../philosophy/schools/analytic/wittgenstein.md) — 语言的界限与不立文字
+- **哲学**: [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — 本真性与自性的平行；[维特根斯坦 Wittgenstein](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言的界限与不立文字
 - **佛教内部**: [菩提达摩 Bodhidharma](bodhidharma.md) — 禅宗初祖；[道元 Dogen](dogen.md) — 日本曹洞宗；[白隐 Hakuin](hakuin.md) — 临济宗复兴
 - **学派**: [禅宗 Chan/Zen](../schools/chan-zen.md) — 创立者
 - **认知科学**: 具身直觉 embodied intuition、隐性知识 tacit knowledge (Polanyi)、认知灵活性 cognitive flexibility
-- **心理学**: [心流 Flow](../../../psychology/concepts/flow.md) — 忘我与无念的平行
+- **心理学**: [心流 Flow](../../../心理学/概念/心流 Flow.md) — 忘我与无念的平行
 - **龙树 Nagarjuna**: [龙树](nagarjuna.md) — 空性与自性概念的深层关联：慧能的"自性"在某种程度上重新表述了龙树的"空性"，从否定性表述转向肯定性表述
 
 ---

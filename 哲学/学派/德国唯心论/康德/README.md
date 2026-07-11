@@ -2,7 +2,7 @@
 id: kant
 title: 康德 · Immanuel Kant
 type: thinker
-domain: philosophy
+domain: 哲学
 school: german-idealism
 era: early-modern
 birth: 1724
@@ -11,7 +11,7 @@ tags:
   - epistemology
   - ethics
   - metaphysics
-  - aesthetics
+  - 美学
   - 认识论
   - 伦理学
   - 形而上学
@@ -45,9 +45,9 @@ cross-refs:
     relation: 下游(康德式自由主义)
   - id: piaget
     relation: 平行(认知图式与范畴结构)
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行(先验认知结构)
-  - id: religion.buddhism.concepts.cognitive-theory.eight-consciousness
+  - id: 宗教.buddhism.concepts.cognitive-theory.eight-consciousness
     relation: 平行(末那识与先验统觉)
 children:
   - concepts/critical-philosophy.md
@@ -88,7 +88,7 @@ sub-entries:
 
 康德的学术生涯经历了从自然科学研究者到形而上学讲师,再到批判哲学创始人的漫长转变。在十五年无薪讲师生涯中,他教授的课程范围惊人地广泛:逻辑学、形而上学、伦理学、数学、物理学、自然地理学、人类学甚至军事建筑学。这种百科全书式的学术训练为他日后构建批判哲学体系奠定了坚实基础。三大批判——《纯粹理性批判》《实践理性批判》《判断力批判》——重新划定了人类理性的疆界,深刻影响了此后两百年的认识论、伦理学、美学和政治哲学。
 
-Immanuel Kant is one of the most transformative figures in the history of Western philosophy, credited with initiating what he himself called a "Copernican revolution" in thought. Born into a harness-maker's family in Königsberg, East Prussia, and raised in a Pietist religious environment -- a background that profoundly shaped his later emphasis on moral inwardness and rational autonomy -- he entered the University of Königsberg in 1740. He spent fifteen years as an unsalaried lecturer, teaching an astonishing range of subjects including logic, metaphysics, ethics, mathematics, physics, physical geography, anthropology, and even military architecture. This encyclopedic training laid the groundwork for his eventual construction of the Critical system. He was appointed full professor of logic and metaphysics in 1770. Never traveling more than forty miles from his birthplace, Kant nonetheless revolutionized epistemology, ethics, aesthetics, and political philosophy through his three Critiques. His daily routine was legendary -- he took his daily walk at precisely 3:30 PM, and the citizens of Königsberg reportedly set their clocks by his passing. The only known exception was when he became so absorbed in reading Rousseau's *Émile* that he forgot his walk. Kant never married but was far from a recluse: he was a regular presence at dinner parties, known for his conversation and wit, and a fixture of Königsberg social life. His three Critiques redefined the legitimate boundaries of human reason and established the framework for all subsequent German Idealism.
+Immanuel Kant is one of the most transformative figures in the history of Western philosophy, credited with initiating what he himself called a "Copernican revolution" in thought. Born into a harness-maker's family in Königsberg, East Prussia, and raised in a Pietist religious environment -- a background that profoundly shaped his later emphasis on moral inwardness and rational autonomy -- he entered the University of Königsberg in 1740. He spent fifteen years as an unsalaried lecturer, teaching an astonishing range of subjects including logic, metaphysics, ethics, mathematics, physics, physical geography, anthropology, and even military architecture. This encyclopedic training laid the groundwork for his eventual construction of the Critical system. He was appointed full professor of logic and metaphysics in 1770. Never traveling more than forty miles from his birthplace, Kant nonetheless revolutionized epistemology, ethics, aesthetics, and political 哲学 through his three Critiques. His daily routine was legendary -- he took his daily walk at precisely 3:30 PM, and the citizens of Königsberg reportedly set their clocks by his passing. The only known exception was when he became so absorbed in reading Rousseau's *Émile* that he forgot his walk. Kant never married but was far from a recluse: he was a regular presence at dinner parties, known for his conversation and wit, and a fixture of Königsberg social life. His three Critiques redefined the legitimate boundaries of human reason and established the framework for all subsequent German Idealism.
 
 ## 一句话定位
 
@@ -144,13 +144,13 @@ Kant's early career was shaped by the Leibniz-Wolff rationalist tradition and Ne
 
 1781 年《纯粹理性批判》第一版(A版)出版,标志着批判哲学的正式诞生。1787 年经过大幅修订的第二版(B版)进一步强化了先验演绎的论证。1785 年《道德形而上学奠基》为实践哲学奠定基础;1788 年《实践理性批判》系统展开道德哲学;1790 年《判断力批判》完成三大批判的体系。1790 年代,康德将批判方法应用于宗教(《单纯理性限度内的宗教》,1793)和政治(《永久和平论》,1795;《道德形而上学》,1797)。
 
-The first edition (A) of the *Critique of Pure Reason* in 1781 marked the birth of the Critical Philosophy. The heavily revised second edition (B) in 1787 strengthened the transcendental deduction. The *Groundwork of the Metaphysics of Morals* (1785) laid foundations for practical philosophy; the *Critique of Practical Reason* (1788) systematically developed moral philosophy; the *Critique of Judgment* (1790) completed the three Critiques. In the 1790s, Kant applied the critical method to religion (*Religion within the Boundaries of Mere Reason*, 1793) and politics (*Toward Perpetual Peace*, 1795; *The Metaphysics of Morals*, 1797).
+The first edition (A) of the *Critique of Pure Reason* in 1781 marked the birth of the Critical Philosophy. The heavily revised second edition (B) in 1787 strengthened the transcendental deduction. The *Groundwork of the Metaphysics of Morals* (1785) laid foundations for practical philosophy; the *Critique of Practical Reason* (1788) systematically developed moral philosophy; the *Critique of Judgment* (1790) completed the three Critiques. In the 1790s, Kant applied the critical method to 宗教 (*Religion within the Boundaries of Mere Reason*, 1793) and politics (*Toward Perpetual Peace*, 1795; *The Metaphysics of Morals*, 1797).
 
 ### 晚期与遗产 (1798--1804 及以后) · Late Period and Legacy
 
 1798 年《学科之争》和《实用人类学》是康德最后出版的著作。晚年的"遗稿"(Opus postumum)显示他仍在反思先验哲学的根基,试图从形而上学基础过渡到物理学。康德去世后,他的学生和朋友迅速整理出版其讲演录和书信,奠定了后世康德研究的基础。费希特、谢林、黑格尔从不同方向推进并超越康德;新康德主义(马堡学派、弗莱堡学派)在 19 世纪下半叶复兴了先验方法;20 世纪的罗尔斯、哈贝马斯等人在政治哲学中延续了康德传统。
 
-The *Conflict of the Faculties* and *Anthropology from a Pragmatic Point of View* (1798) were Kant's last published works. His *Opus postumum* reveals continued reflection on the foundations of transcendental philosophy. After Kant's death, his students and friends rapidly organized his lecture notes and correspondence, establishing the foundation for subsequent Kant scholarship. Fichte, Schelling, and Hegel pushed beyond Kant in different directions; Neo-Kantianism (Marburg School, Freiburg School) revived the transcendental method in the late nineteenth century; twentieth-century thinkers such as Rawls and Habermas continued the Kantian tradition in political philosophy.
+The *Conflict of the Faculties* and *Anthropology from a Pragmatic Point of View* (1798) were Kant's last published works. His *Opus postumum* reveals continued reflection on the foundations of transcendental 哲学. After Kant's death, his students and friends rapidly organized his lecture notes and correspondence, establishing the foundation for subsequent Kant scholarship. Fichte, Schelling, and Hegel pushed beyond Kant in different directions; Neo-Kantianism (Marburg School, Freiburg School) revived the transcendental method in the late nineteenth century; twentieth-century thinkers such as Rawls and Habermas continued the Kantian tradition in political 哲学.
 
 ## 关键著作 · Major Works
 
@@ -233,11 +233,11 @@ The *Conflict of the Faculties* and *Anthropology from a Pragmatic Point of View
 
 ## 跨学科关联 · Interdisciplinary Connections
 
-- **[皮亚杰 · 图式](../../../psychology/schools/cognitive/piaget.md)** `[同源]` 图式(schema)作为认知结构与康德范畴的功能性类似:皮亚杰明确表示其发生认识论(inspired by Kant)探讨范畴如何在儿童发展中建构
+- **[皮亚杰 · 图式](../../../心理学/学派/认知心理学/皮亚杰.md)** `[同源]` 图式(schema)作为认知结构与康德范畴的功能性类似:皮亚杰明确表示其发生认识论(inspired by Kant)探讨范畴如何在儿童发展中建构
 - **[罗尔斯 · 正义论](../../concepts/epistemology.md)** `[发展]` 罗尔斯将康德的尊严与普遍化原则程序化为原初状态下的理性选择
-- **[胡塞尔 · 先验还原](../../../philosophy/schools/phenomenology/zahavi.md)** `[发展]` 胡塞尔的先验现象学直接继承并改造了康德的先验方法
-- **[皮亚杰 · 建构主义](../../../psychology/schools/cognitive/piaget.md)** `[发展]` 皮亚杰的建构主义认识论将康德的先天结构理解为发生性的(genetic)而非静态的
-- **[哈贝马斯 · 交往理性](../../../sociology/schools/classical/marx.md)** `[发展]` 哈贝马斯将康德的自律概念从个体理性重构为主体间性的交往理性
+- **[胡塞尔 · 先验还原](../../../哲学/学派/现象学/扎哈维.md)** `[发展]` 胡塞尔的先验现象学直接继承并改造了康德的先验方法
+- **[皮亚杰 · 建构主义](../../../心理学/学派/认知心理学/皮亚杰.md)** `[发展]` 皮亚杰的建构主义认识论将康德的先天结构理解为发生性的(genetic)而非静态的
+- **[哈贝马斯 · 交往理性](../../../社会学/学派/古典社会学/马克思.md)** `[发展]` 哈贝马斯将康德的自律概念从个体理性重构为主体间性的交往理性
 
 ## 进阶阅读 · Further Reading
 

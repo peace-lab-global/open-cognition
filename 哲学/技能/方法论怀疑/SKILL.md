@@ -1,11 +1,11 @@
 ---
 name: methodological-doubt
 description: Triggers on requests to 方法论怀疑、我思故我在、知识确定性，如哲学思考、认识论探究、批判性思维等。Apply this skill to analyze situations using Descartes' methodological doubt, seeking certain knowledge through systematic questioning.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/rationalism/descartes.md
 linked_concepts:
-  - ../../philosophy/concepts/cogito.md
-  - ../../philosophy/concepts/methodological-doubt.md
+  - ../../哲学/概念/cogito.md
+  - ../../哲学/概念/methodological-doubt.md
 tags:
   - 方法论怀疑
   - 我思故我在

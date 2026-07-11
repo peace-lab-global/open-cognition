@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan.concepts.precept-manifestation
+id: 宗教.buddhism.masters.daoxuan.concepts.precept-manifestation
 title: "戒相 Precept-Manifestation (Jiè Xiàng)"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
 tags: [戒相, precept-manifestation, 犯缘, 开遮, 持犯]

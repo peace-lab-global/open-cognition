@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.concepts.wall-gazing
+id: 宗教.buddhism.masters.bodhidharma.concepts.wall-gazing
 title: 壁观 Biguan — Wall-Gazing Meditation
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 tags: [壁观, Biguan, Wall-Gazing, Meditation, 达摩禅法, Bodhidharma]
@@ -46,7 +46,7 @@ The term "壁观" combines two characters: "壁" (wall) and "观" (observation, 
 
 在梵文传统中，壁观可能与印度的"壁喻"（wall metaphor）修行传统有关。印度早期冥想文献中也有以墙壁比喻心之安定的用法，达摩可能继承并发展了这一传统。
 
-In the Sanskrit tradition, wall-gazing may relate to Indian wall-metaphor meditation practices. Early Indian meditation literature also uses the wall as a metaphor for mental stability, a tradition Bodhidharma may have inherited and developed.
+In the Sanskrit tradition, wall-gazing may relate to Indian wall-metaphor meditation practices. Early Indian meditation 文学 also uses the wall as a metaphor for mental stability, a tradition Bodhidharma may have inherited and developed.
 
 ---
 
@@ -127,7 +127,7 @@ In the contemporary context, wall-gazing holds unique value:
 
 **科学研究 Scientific Research**：壁观作为一种减少感官输入的深度冥想形式，为神经科学研究提供了有趣的对象。fMRI 研究表明，长期冥想者在进行壁观类练习时，默认模式网络（DMN）的活动显著降低，这与"内心无喘"的体验描述高度吻合。
 
-As a form of deep meditation that reduces sensory input, wall-gazing offers an interesting subject for neuroscience research. fMRI studies show that long-term meditators engaging in wall-gazing-type practices exhibit significantly reduced default mode network (DMN) activity, closely matching the experiential description of "the mind not wavering."
+As a form of deep meditation that reduces sensory input, wall-gazing offers an interesting subject for neuroscience 研究. fMRI studies show that long-term meditators engaging in wall-gazing-type practices exhibit significantly reduced default mode network (DMN) activity, closely matching the experiential description of "the mind not wavering."
 
 **数字时代应用 Digital Age Applications**：在信息过载和注意力碎片化的当代，壁观的"外息诸缘"原则尤其珍贵。数字断食（digital detox）和冥想静修（silent retreat）可被视为壁观精神在当代的延伸。
 

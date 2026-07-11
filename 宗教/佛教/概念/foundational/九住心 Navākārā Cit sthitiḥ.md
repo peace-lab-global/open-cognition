@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.nine-abidings
+id: 宗教.buddhism.concept.nine-abidings
 title: 九住心 Navākārā Cit sthitiḥ
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: ancient
 tags: [九住心, 止禅, 禅定, 奢摩他, 修道论]

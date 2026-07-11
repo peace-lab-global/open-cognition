@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan.concepts.teaching-regulation
+id: 宗教.buddhism.masters.daoxuan.concepts.teaching-regulation
 title: "化制二教 The Two Teachings: Doctrinal and Regulatory"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
 tags: [化教, 制教, 判教, hermeneutics, 戒律]

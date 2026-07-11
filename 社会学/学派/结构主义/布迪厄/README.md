@@ -1,8 +1,8 @@
 ---
-id: sociology.structuralism.bourdieu
+id: 社会学.structuralism.bourdieu
 title: 布迪厄 · Pierre Bourdieu
 type: thinker
-domain: sociology
+domain: 社会学
 school: structuralism
 era: 20th century
 birth: 1930

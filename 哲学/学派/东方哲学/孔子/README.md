@@ -1,8 +1,8 @@
 ---
-id: philosophy.eastern.confucius
+id: 哲学.eastern.confucius
 title: 孔子 · Confucius
 type: thinker
-domain: philosophy
+domain: 哲学
 school: confucian
 era: ancient
 birth: -551
@@ -39,7 +39,7 @@ cross-refs:
 
 孔子并非体系化的理论哲学家，而是一位教育家与实践智慧的传递者。他没有留下亲笔著作，其言行由弟子辑录为《论语》。这部文本以简短的对话和格言形式呈现，需要在具体语境中理解，而非作为抽象命题来解读。孔子的核心关切是"如何在礼崩乐坏的时代重建人间秩序"，他的回答是：从个体的道德修养开始，以"仁"为内在动力，以"礼"为外在规范。
 
-Confucius (551–479 BCE) was the founding figure of Confucianism and one of the most influential thinkers in world history. His philosophy centers on ren (humaneness) as the core virtue and li (ritual propriety) as the social framework for moral cultivation. He advocated education and self-cultivation as the path to becoming a junzi (exemplary person), with implications extending from family to state governance.
+Confucius (551–479 BCE) was the founding figure of Confucianism and one of the most influential thinkers in world history. His 哲学 centers on ren (humaneness) as the core virtue and li (ritual propriety) as the social framework for moral cultivation. He advocated education and self-cultivation as the path to becoming a junzi (exemplary person), with implications extending from family to state governance.
 
 ## 二、核心命题
 

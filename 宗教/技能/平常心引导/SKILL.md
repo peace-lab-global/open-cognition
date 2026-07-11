@@ -1,10 +1,10 @@
 ---
 name: ordinary-mind-guidance
 description: Triggers on requests to 平常心是道、日常修行、自然生活，如生活禅、压力管理、心灵成长等。Apply this skill to guide users in cultivating ordinary mind, finding the way in everyday life.
-domain: religion
+domain: 宗教
 linked_thinker: ../../wisdom-masters/masters/china/mazu-daoyi.md
 linked_concepts:
-  - ../../religion/concepts/ping-chang-xin-shi-dao.md
+  - ../../宗教/概念/ping-chang-xin-shi-dao.md
 tags:
   - 平常心是道
   - 日常修行

@@ -1,11 +1,11 @@
 ---
 name: behavior-reinforcement-analysis
 description: Triggers on requests to 行为强化、操作性条件反射、行为矫正，如行为管理、教育训练、习惯养成等。Apply this skill to analyze and modify behavior using principles of operant conditioning and reinforcement theory.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/behaviorism/skinner.md
 linked_concepts:
-  - ../../psychology/concepts/operant-conditioning.md
-  - ../../psychology/concepts/reinforcement.md
+  - ../../心理学/概念/operant-conditioning.md
+  - ../../心理学/概念/reinforcement.md
 tags:
   - 行为强化
   - 操作性条件反射

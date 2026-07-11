@@ -2,7 +2,7 @@
 id: mwe
 title: "MWe（我们中的我） · MWe (Me + We)"
 type: concept
-domain: psychology
+domain: 心理学
 school: interpersonal-neurobiology
 thinker: siegel-daniel
 tags: [MWe, 关系性自我, 分化, 联结, 默认模式网络, 集体认同, MWe, relational-self, differentiation, linkage, default-mode-network, collective-identity]
@@ -27,7 +27,7 @@ MWe challenges the deeply ingrained "independent self" assumption in Western ind
 
 MWe 的神经科学基础来自对默认模式网络（Default Mode Network, DMN）的研究。DMN 是大脑在"静息状态"（不执行外部任务时）激活的一组脑区网络，主要包括内侧前额叶皮层（mPFC）、后扣带回（PCC）和角回（angular gyrus）。
 
-MWe's neuroscience foundation comes from research on the Default Mode Network (DMN). The DMN is a brain network activated during "resting state" (when not performing external tasks), primarily including the medial prefrontal cortex (mPFC), posterior cingulate cortex (PCC), and angular gyrus.
+MWe's neuroscience foundation comes from 研究 on the Default Mode Network (DMN). The DMN is a brain network activated during "resting state" (when not performing external tasks), primarily including the medial prefrontal cortex (mPFC), posterior cingulate cortex (PCC), and angular gyrus.
 
 关键发现是：DMN 中与"自我参照加工"（self-referential processing，即思考自己）相关的脑区和与"社会认知"（social cognition，即思考他人、理解他人心智）相关的脑区存在显著重叠。这意味着在大脑的基本架构层面，"关于自我的思考"和"关于他人的思考"不是两个独立的过程，而是共享神经基础设施的关联过程。大脑不是为"孤立的自我"设计的——它在结构上就是关系性的。
 
@@ -103,4 +103,4 @@ MWe enters deep dialogue with multiple Eastern and non-Western philosophical tra
 - Siegel, D.J. *The Developing Mind*. 3rd ed. Guilford Press, 2020. — 关系性心智的神经科学基础 / Neuroscience foundations of the relational mind
 - Siegel, D.J. *Mindsight*. Bantam Books, 2010. — 共情与关系性觉察 / Empathy and relational awareness
 - Metzinger, T. *The Ego Tunnel*. Basic Books, 2009. — 自我的神经哲学批判 / Neurophilosophical critique of the self
-- Ubuntu philosophy and African communitarianism — 非洲共同体哲学与关系性自我 / African communitarian philosophy and the relational self
+- Ubuntu 哲学 and African communitarianism — 非洲共同体哲学与关系性自我 / African communitarian 哲学 and the relational self

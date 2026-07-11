@@ -2,7 +2,7 @@
 id: santideva
 title: "寂天 Santideva: 中观伦理诗哲与菩萨道思想集大成者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: classical-india
 birth: 685
@@ -213,7 +213,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [龙树](nagarjuna.md) — [继承] 中观空性的伦理应用；[彼得·辛格](../../../philosophy/schools/analytic/singer.md) — [平行] 有效利他主义与自他平等
+- **哲学**: [龙树](nagarjuna.md) — [继承] 中观空性的伦理应用；[彼得·辛格](../../../哲学/学派/分析哲学/singer.md) — [平行] 有效利他主义与自他平等
 - **佛教内部**: [宗喀巴](tsongkhapa.md) — [影响] 菩提道次第核心文本；[阿底峡](atisha.md) — [传播] 将寂天思想带入西藏；[月称](candrakirti.md) — [哲学] 中观应成派立场
 - **学派**: [中观学派](../schools/madhyamaka.md) — 晚期重要代表
 - **概念**: [菩萨道](../concepts/foundational/bodhisattva-path.md) — [同源] 菩萨行的系统阐述

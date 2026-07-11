@@ -3,7 +3,7 @@ id: aryadeva-anti-essentialism
 title: "反本质主义的深化 Deepening Anti-Essentialism"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [anti-essentialism, Aryadeva, Madhyamaka]
 ---
 # 反本质主义的深化

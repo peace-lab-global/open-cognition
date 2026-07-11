@@ -84,7 +84,7 @@
 
 ## 关联 Skills
 
-见 [cognitive-systems/skills/](./skills/)
+见 [认知系统/skills/](./skills/)
 
 ---
 

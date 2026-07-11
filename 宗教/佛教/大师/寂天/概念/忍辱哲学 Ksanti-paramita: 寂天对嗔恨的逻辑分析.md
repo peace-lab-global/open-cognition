@@ -3,7 +3,7 @@ id: santideva-patience-philosophy
 title: "忍辱哲学 Ksanti-paramita: 寂天对嗔恨的逻辑分析"
 type: concept
 parent: santideva
-domain: religion
+domain: 宗教
 tags: [ksanti, patience, anger, hatred, Buddhist-ethics, emotion-philosophy, forbearance]
 ---
 
@@ -13,7 +13,7 @@ tags: [ksanti, patience, anger, hatred, Buddhist-ethics, emotion-philosophy, for
 
 **忍辱 (ksanti)** 在寂天的哲学中不是被动的忍受或懦弱的屈服，而是一种深刻的哲学洞察——通过理解嗔恨 (krodha/dvesa) 的逻辑荒谬来从根本上消解嗔恨。第六品"忍辱品"是《入菩萨行论》中哲学论证最密集的章节之一，也是全书最长的品。
 
-**Patience (ksanti)** in Santideva's philosophy is not passive endurance or cowardly submission, but a profound philosophical insight — understanding the logical absurdity of anger (krodha/dvesa) in order to dissolve it at its root. The sixth chapter on patience is among the most philosophically dense sections of the Bodhicaryavatara and the longest chapter in the entire text.
+**Patience (ksanti)** in Santideva's 哲学 is not passive endurance or cowardly submission, but a profound philosophical insight — understanding the logical absurdity of anger (krodha/dvesa) in order to dissolve it at its root. The sixth chapter on patience is among the most philosophically dense sections of the Bodhicaryavatara and the longest chapter in the entire text.
 
 ---
 

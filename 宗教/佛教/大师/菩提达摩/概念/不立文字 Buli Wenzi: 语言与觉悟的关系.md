@@ -3,7 +3,7 @@ id: bodhidharma-buli-wenzi
 title: "不立文字 Buli Wenzi: 语言与觉悟的关系"
 type: concept
 parent: bodhidharma
-domain: religion
+domain: 宗教
 tags: [beyond-words, language, Chan, ineffability, buli-wenzi]
 ---
 

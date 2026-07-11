@@ -1,7 +1,7 @@
 ---
 name: two-truths-reframing
 description: 以佛教二谛（世俗谛/胜义谛）为框架，帮助当事人在冲突的陈述之间切换视角——识别"在什么层次上这是真的"，避免范畴错置（把世俗当作胜义或反之）。Triggers on 两个看似冲突的陈述都为真、需要在"事实"与"意义"之间协调、或有人以"绝对"否定"相对"（或以"相对"否定"绝对"）。
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 linked_concepts:
   - ../../two-truths.md
@@ -162,5 +162,5 @@ tags:
 
 - 概念：[二谛](../../concepts/cognitive-theory/two-truths.md)
 - 相关 Skill：[量论三量验证](../pramana-validation/SKILL.md)
-- 跨传统：[康德 · 现象与物自身](../../../../philosophy/schools/german-idealism/kant.md)（对照）
-- 跨传统：[内格尔 · 无何之见](../../../../philosophy/schools/analytic/nagel.md)（平行）——客观/主观视角的双层协调
+- 跨传统：[康德 · 现象与物自身](../../../../哲学/学派/德国唯心论/康德.md)（对照）
+- 跨传统：[内格尔 · 无何之见](../../../../哲学/学派/分析哲学/内格尔.md)（平行）——客观/主观视角的双层协调

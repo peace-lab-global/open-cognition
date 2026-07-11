@@ -1,7 +1,7 @@
 ---
 name: aristotle-virtue-test
 description: 亚里士多德德性检验用于判断某行为或人格特质是否构成德性。通过中庸之道、功能论证与实践智慧三个维度评估行为是否适度、是否促进人的优秀功能、是否在具体情境中展现正确判断。Triggers on 需要判断某行为是否道德、评估某种品质是否为德性、或进行品格伦理分析的场景。
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/virtue-ethics/aristotle.md
 linked_concepts:
   - ../../concepts/virtue.md

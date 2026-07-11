@@ -1,5 +1,5 @@
 ---
-domain: arts
+domain: 艺术
 title: 艺术 / Arts
 description: 音乐、视觉艺术、表演艺术、文学艺术四大方向，记录艺术创作的思想家、代表作品与核心命题
 version: 1.0
@@ -16,14 +16,14 @@ entries:
 艺术（Arts）是人类创造性表达的集合，涵盖音乐、视觉艺术、表演艺术、文学艺术等主要方向。
 本领域聚焦那些跨越艺术门类、对人类思想与文明进程产生深远影响的艺术家，关注其创作理念、艺术实践与思想谱系。
 
-本领域与 [aesthetics（美学/艺术哲学）](../aesthetics/README.md) 互为补充：
+本领域与 [aesthetics（美学/艺术哲学）](../美学/README.md) 互为补充：
 - **美学** 追问"什么是美、什么是艺术"等哲学命题；
 - **艺术** 记录"谁创造了什么、为什么重要"等创作史与思想史。
 
 ## 四大方向 / School Tree
 
 ```
-arts/
+艺术/
 ├── literary-arts/       （文学艺术：小说、戏剧、散文、诗歌）
 ├── music/               （音乐：作曲家、音乐理论）
 ├── performing-arts/     （表演艺术：戏剧、舞蹈、歌剧）
@@ -60,22 +60,22 @@ arts/
 
 ### 文学艺术 / Literary Arts
 
-> 文学艺术（诗人、剧作家、小说家、散文家）详见独立领域 [literature](../literature/README.md)。
+> 文学艺术（诗人、剧作家、小说家、散文家）详见独立领域 [文学](../文学/README.md)。
 > 文学艺术方向保留为跨门类艺术对话的入口，暂不作为文学家条目的主要载体。
 
 ## 跨域关联 / Cross-Domain Links
 
 | 本域条目 | 关联域 | 关联条目 | 关系说明 |
 |----------|--------|----------|----------|
-| 达·芬奇 | aesthetics | dewey-aesthetics.md | 艺术即经验的创作原型 |
-| 梵高 | psychology | flow.md | 心流状态下的创作沉浸 |
-| 贝多芬 | philosophy | nietzsche.md | 酒神精神在音乐中的回响 |
-| 达·芬奇 | cognitive-systems | sensemaking.md | 观察—推理—创造的认知链 |
+| 达·芬奇 | 美学 | dewey-aesthetics.md | 艺术即经验的创作原型 |
+| 梵高 | 心理学 | flow.md | 心流状态下的创作沉浸 |
+| 贝多芬 | 哲学 | nietzsche.md | 酒神精神在音乐中的回响 |
+| 达·芬奇 | 认知系统 | sensemaking.md | 观察—推理—创造的认知链 |
 
 ## 关联 Skills
 
 > 艺术领域暂无独立 Skill 框架，相关分析请使用：
-> - [艺术批评框架](../aesthetics/skills/art-criticism-framework/SKILL.md) — 四层艺术批评方法
+> - [艺术批评框架](../美学/技能/艺术批评框架/SKILL.md) — 四层艺术批评方法
 > - [色彩—情感分析](./skills/color-emotion-analysis/SKILL.md) — 色彩与情绪的跨学科解读
 > - [苦难—艺术分析](./skills/suffering-art-analysis/SKILL.md) — 苦难如何转化为艺术
 

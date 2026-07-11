@@ -1,7 +1,7 @@
 ---
 name: vinaya-analysis
 description: Triggers when a user asks about Buddhist precepts, monastic rules, or ethical rulings — whether a specific rule applies, how to analyze an ethical dilemma using vinaya categories, or how to distinguish between different vinaya traditions. Guides a six-step analytical process covering rule origin, body (戒体), manifestation (戒相), and the four-fold application framework (开遮持犯).
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/vinaya-studies.md
   - ../../buddhism/schools/vinaya.md

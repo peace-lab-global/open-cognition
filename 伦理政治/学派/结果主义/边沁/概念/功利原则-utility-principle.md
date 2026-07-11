@@ -2,7 +2,7 @@
 id: bentham-utility-principle
 title: 功利原则 · Principle of Utility · Bentham
 type: concept
-domain: ethics-politics
+domain: 伦理政治
 school: consequentialism
 thinker: bentham
 tags: [utility, greatest-happiness, consequentialism, bentham]

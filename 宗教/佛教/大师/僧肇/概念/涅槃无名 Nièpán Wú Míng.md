@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.sengzhao.nirvana-beyond-names
+id: 宗教.buddhism.master.sengzhao.nirvana-beyond-names
 title: 涅槃无名 Nièpán Wú Míng
 type: concept
 thinker: 僧肇 Sēngzhào
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 tags: [涅槃, 无名, 解脱, 中观]
 ---

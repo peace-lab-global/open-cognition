@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-theory.barthes
+id: 美学.literary-theory.barthes
 title: 罗兰·巴特 Roland Barthes
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-theory
 era: postmodern
 birth: 1915
@@ -16,9 +16,9 @@ sources:
   - "The Pleasure of the Text (1973)"
   - "Camera Lucida (1980)"
 cross-refs:
-  - aesthetics.literary-theory.saussure
-  - aesthetics.literary-theory.bakhtin
-  - aesthetics.literary-theory.frye
+  - 美学.literary-theory.saussure
+  - 美学.literary-theory.bakhtin
+  - 美学.literary-theory.frye
 sub-entries:
   - concepts/author-death
   - concepts/mythology
@@ -67,7 +67,7 @@ In photography phenomenology, "studium" is the cultural-informational layer of a
 
 ### 5. 可读文本与可写文本 / Readerly and Writerly Texts
 "可读文本"（texte lisible）邀请被动消费，意义已被固定；"可写文本"（texte scriptible）要求读者主动参与意义的生产——它不是被阅读的对象，而是被书写的过程。巴尔扎克的古典小说是可读的，现代主义文学趋向可写的。
-"Readerly texts" (texte lisible) invite passive consumption, meaning already fixed; "writerly texts" (texte scriptible) demand active readerly participation in meaning production — not objects to be read but processes to be written. Balzac's classical novels are readerly; modernist literature tends toward writerly.
+"Readerly texts" (texte lisible) invite passive consumption, meaning already fixed; "writerly texts" (texte scriptible) demand active readerly participation in meaning production — not objects to be read but processes to be written. Balzac's classical novels are readerly; modernist 文学 tends toward writerly.
 
 ### 6. 符号的帝国 / Empire of Signs
 巴特从日本文化中看到了一种不同于西方意义体制的符号实践——日本的食物、包装、礼仪体现的是"空的符号"，它们不指向深层意义，而是指向自身的表面。这是对西方逻各斯中心主义的一种美学逃离。

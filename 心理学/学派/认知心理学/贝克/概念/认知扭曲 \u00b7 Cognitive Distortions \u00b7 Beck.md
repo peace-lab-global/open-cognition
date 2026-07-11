@@ -1,23 +1,23 @@
 ---
-id: psychology.cognitive.beck.cognitive-distortions
+id: 心理学.cognitive.beck.cognitive-distortions
 title: "认知扭曲 \u00b7 Cognitive Distortions \u00b7 Beck"
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 thinker: beck
 tags: [cognitive-distortions, thinking-errors, all-or-nothing, catastrophizing, overgeneralization, personalization, mind-reading, should-statements]
 cross-refs:
-  - id: psychology.cognitive.beck
+  - id: 心理学.cognitive.beck
     relation: thinker
-  - id: psychology.cognitive.beck.automatic-thoughts
+  - id: 心理学.cognitive.beck.automatic-thoughts
     relation: 载体
-  - id: psychology.cognitive.beck.schemas
+  - id: 心理学.cognitive.beck.schemas
     relation: 来源
-  - id: psychology.cognitive.beck.cognitive-triad
+  - id: 心理学.cognitive.beck.cognitive-triad
     relation: 维持
-  - id: psychology.concepts.cognitive-dissonance
+  - id: 心理学.concepts.cognitive-dissonance
     relation: 平行
-  - id: religion.buddhism.concepts.cognitive-theory
+  - id: 宗教.buddhism.concepts.cognitive-theory
     relation: 对照(遍计所执)
 ---
 

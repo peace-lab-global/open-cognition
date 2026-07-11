@@ -3,7 +3,7 @@ id: hakuin-wu-after-practice
 title: "悟后修行 Post-Enlightenment Practice"
 type: concept
 parent: hakuin
-domain: religion
+domain: 宗教
 tags: [post-enlightenment, continuous-practice, Rinzai]
 ---
 # 悟后修行 / Post-Enlightenment Cultivation

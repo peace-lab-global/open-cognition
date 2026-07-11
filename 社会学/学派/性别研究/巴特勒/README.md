@@ -1,8 +1,8 @@
 ---
-id: sociology.gender-studies.butler
+id: 社会学.gender-studies.butler
 title: 巴特勒 · Judith Butler
 type: thinker
-domain: sociology
+domain: 社会学
 school: gender-studies
 era: 20th-21st century
 birth: 1956

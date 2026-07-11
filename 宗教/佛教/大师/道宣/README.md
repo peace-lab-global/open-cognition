@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan
+id: 宗教.buddhism.masters.daoxuan
 title: "道宣 Dàoxuān (596–667)"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 era: ancient
 birth: 596
@@ -139,7 +139,7 @@ Beyond his Vinaya scholarship, Daoxuan was an accomplished Buddhist historian an
   *Continued Biographies of Eminent Monks* (30 fascicles): A continuation of Huijiao's *Biographies of Eminent Monks*, covering eminent monks from the Liang dynasty through the early Tang — a primary source for the study of Chinese Buddhism from the Southern Dynasties through the early Tang.
 
 - **《广弘明集》**（三十卷）：佛教护教文献汇编，收录了自汉至唐的佛教论辩文章，涉及儒释道三教争论、因果报应、神灭论等重要议题。
-  *Expanded Collection on the Propagation of the Light* (30 fascicles): An anthology of Buddhist apologetic literature spanning the Han through Tang dynasties, covering debates on Buddhism vis-à-vis Confucianism and Daoism, karma, the mortality of the soul, and other major intellectual issues.
+  *Expanded Collection on the Propagation of the Light* (30 fascicles): An anthology of Buddhist apologetic 文学 spanning the Han through Tang dynasties, covering debates on Buddhism vis-à-vis Confucianism and Daoism, karma, the mortality of the soul, and other major intellectual issues.
 
 - **《释迦方志》**（二卷）：关于印度佛教地理和历史的著作。
   *Gazetteer of Śākyamuni's Lands* (2 fascicles): A geographical and historical account of Buddhist India.
@@ -232,7 +232,7 @@ Daoxuan understood that precepts were formulated in specific historical circumst
 
 道宣的学术视野远超纯粹的律学领域。他同时从事史学编纂（《续高僧传》）、护教论辩（《广弘明集》）、地理考证（《释迦方志》）和经录编纂（《大唐内典录》），展现了一位综合性学者的格局。这种跨学科视野使他能够从多个维度理解戒律在佛教整体中的位置和意义。
 
-Daoxuan's scholarly vision extended far beyond pure Vinaya studies. He simultaneously engaged in historiographical compilation (*Continued Biographies*), apologetic argumentation (*Expanded Collection*), geographical research (*Gazetteer of Śākyamuni's Lands*), and bibliographic work (*Catalogue of the Inner Canon*), embodying the breadth of a comprehensive scholar. This interdisciplinary vision enabled him to understand the position and significance of Vinaya within the totality of Buddhism from multiple dimensions.
+Daoxuan's scholarly vision extended far beyond pure Vinaya studies. He simultaneously engaged in historiographical compilation (*Continued Biographies*), apologetic argumentation (*Expanded Collection*), geographical 研究 (*Gazetteer of Śākyamuni's Lands*), and bibliographic work (*Catalogue of the Inner Canon*), embodying the breadth of a comprehensive scholar. This interdisciplinary vision enabled him to understand the position and significance of Vinaya within the totality of Buddhism from multiple dimensions.
 
 ---
 
@@ -312,5 +312,5 @@ Notably, Daoxuan and Xuanzang were contemporaries. Xuanzang systematically trans
 - [[../../schools/vinaya|律宗 Vinaya School]] — 道宣创立的宗派传承
 - [[../zhiyi|智顗 Zhìyǐ]] — 同时代的天台宗创立者，同样以体系化著称
 - [[../fazang|法藏 Fǎzàng]] — 华严宗创立者，同为唐代体系化大师
-- [[../../../philosophy/schools/german-idealism/kant|康德 Kant]] — 道德律令 vs 戒体的平行比较
-- [[../../../sociology/schools/structuralism/foucault|福柯 Foucault]] — "自我技术"与戒律修行的平行比较
+- [[../../../哲学/学派/德国唯心论/康德|康德 Kant]] — 道德律令 vs 戒体的平行比较
+- [[../../../社会学/学派/结构主义/福柯|福柯 Foucault]] — "自我技术"与戒律修行的平行比较

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.bodhidharma.concepts.zazen-practice
+id: 宗教.buddhism.masters.bodhidharma.concepts.zazen-practice
 title: 坐禅 Zuochan — Sitting Meditation
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-chan
 era: ancient
 tags: [坐禅, Zuochan, Zazen, Sitting Meditation, 打坐, 达摩禅法, Bodhidharma]
@@ -92,7 +92,7 @@ During the Southern Song period, sitting meditation developed into two major str
 
 现代科学研究发现，长期坐禅实践可以带来多种生理变化：
 
-Modern scientific research has found that long-term sitting meditation practice can produce various physiological changes:
+Modern scientific 研究 has found that long-term sitting meditation practice can produce various physiological changes:
 
 - 降低皮质醇（压力激素）水平 / Reduced cortisol (stress hormone) levels
 - 改善心率变异性（HRV），增强自律神经系统的平衡 / Improved heart rate variability (HRV), enhancing autonomic nervous system balance

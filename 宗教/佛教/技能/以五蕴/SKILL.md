@@ -1,7 +1,7 @@
 ---
 name: five-aggregates-deconstruction
 description: 以五蕴（色受想行识）为框架，将"我很 X"式的实体化自我陈述解构为五个并行的过程维度——看见"自我感"如何从过程束中涌现，从而松绑对"我"的固着。Triggers on "我是..."式的自我认同、"我撑不住了"式的实体化困境、或需要深化内观的"无我"练习。
-domain: religion
+domain: 宗教
 school: buddhism-early
 linked_concepts:
   - ../../concepts/cognitive-theory/five-aggregates-cognitive.md
@@ -176,5 +176,5 @@ tags:
 
 - 概念：[五蕴的认知读法](../../concepts/cognitive-theory/five-aggregates-cognitive.md)
 - 相关 Skill：[心所图谱](../abhidharma-mind-mapping/SKILL.md)
-- 跨传统：[休谟 · 自我束论](../../../../philosophy/schools/empiricism/hume.md)（平行）
-- 跨传统：[Hayes · ACT 认知解离](../../../../psychology/schools/cognitive/hayes.md)（平行）
+- 跨传统：[休谟 · 自我束论](../../../../哲学/学派/经验主义/休谟.md)（平行）
+- 跨传统：[Hayes · ACT 认知解离](../../../../心理学/学派/认知心理学/海耶斯.md)（平行）

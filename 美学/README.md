@@ -1,5 +1,5 @@
 ---
-domain: aesthetics
+domain: 美学
 title: 艺术哲学 / Aesthetics
 description: 美、艺术与审美经验的哲学探究，从德国古典美学到实用主义美学，兼及中国美学传统
 version: 1.0
@@ -19,7 +19,7 @@ entries:
 ## 学派谱系 / School Tree
 
 ```
-aesthetics/
+美学/
 ├── german-aesthetics(德国古典美学)
 │   ├── kant-aesthetics.md — 康德美学
 │   └── hegel-aesthetics.md — 黑格尔美学
@@ -84,10 +84,10 @@ aesthetics/
 
 | 本域概念 | 关联域 | 关联条目 | 关系说明 |
 |----------|--------|----------|----------|
-| 审美判断 | philosophy | kant.md | 康德批判哲学的第三大批判 |
-| 艺术形而上学 | philosophy | nietzsche.md | 尼采以艺术取代形而上学 |
-| 审美经验 | philosophy | dewey.md | 杜威经验哲学的美学维度 |
-| 美感距离 | philosophy | confucius.md | 儒家美学与"兴观群怨"说 |
+| 审美判断 | 哲学 | kant.md | 康德批判哲学的第三大批判 |
+| 艺术形而上学 | 哲学 | nietzsche.md | 尼采以艺术取代形而上学 |
+| 审美经验 | 哲学 | dewey.md | 杜威经验哲学的美学维度 |
+| 美感距离 | 哲学 | confucius.md | 儒家美学与"兴观群怨"说 |
 
 ## 关联 Skills
 

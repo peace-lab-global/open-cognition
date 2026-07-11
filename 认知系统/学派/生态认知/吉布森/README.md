@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.ecological.gibson
+id: 认知系统.school.ecological.gibson
 title: 吉布森 J.J. Gibson
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: ecological
 era: modern
 birth: 1904
@@ -29,7 +29,7 @@ sources: [The Ecological Approach to Visual Perception (1979), The Senses Consid
 
 他的思想深刻影响了诺曼的设计心理学（affordance在设计中的应用）、认知系统工程（生态界面设计）、具身认知运动和机器人学。
 
-J.J. Gibson founded ecological psychology and introduced the concept of affordance — the idea that environments directly offer action possibilities to organisms. His direct perception theory challenged constructivist views, arguing that environmental information directly specifies layout and affordances without need for internal inference. His work profoundly influenced design, robotics, and embodied cognition.
+J.J. Gibson founded ecological 心理学 and introduced the concept of affordance — the idea that environments directly offer action possibilities to organisms. His direct perception theory challenged constructivist views, arguing that environmental information directly specifies layout and affordances without need for internal inference. His work profoundly influenced design, robotics, and embodied cognition.
 
 ## 二、核心命题
 

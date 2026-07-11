@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.safety-science.reason
+id: 认知系统.safety-science.reason
 title: 詹姆斯·里森 James Reason
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: safety-science
 era: modern
 birth: 1938
@@ -45,7 +45,7 @@ children:
 
 里森的理论不仅在学术界产生了深远影响，更直接塑造了全球安全管理实践。ICAO（国际民航组织）的事故调查框架、WHO的患者安全标准、以及数千家企业的安全文化政策，都直接建立在Reason的理论基础之上。他对安全文化的分析——报告文化、公正文化、灵活文化和学习文化的关系——为组织安全管理提供了可操作的评估框架。
 
-James Reason's Swiss Cheese Model has become perhaps the most widely recognized visual metaphor in safety science. His systematic classification of human error (slips, lapses, mistakes, violations) and his distinction between active failures and latent conditions have fundamentally reshaped how organizations investigate and prevent accidents. His work bridges the gap between cognitive psychology and practical safety management, making complex theoretical insights accessible to frontline practitioners.
+James Reason's Swiss Cheese Model has become perhaps the most widely recognized visual metaphor in safety science. His systematic classification of human error (slips, lapses, mistakes, violations) and his distinction between active failures and latent conditions have fundamentally reshaped how organizations investigate and prevent accidents. His work bridges the gap between cognitive 心理学 and practical safety management, making complex theoretical insights accessible to frontline practitioners.
 
 ## 二、核心命题
 

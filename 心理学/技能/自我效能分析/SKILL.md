@@ -1,11 +1,11 @@
 ---
 name: self-efficacy-analysis
 description: Triggers on requests to 自我效能、观察学习、社会学习，如自信心培养、行为改变、学习策略等。Apply this skill to analyze and enhance self-efficacy using Bandura's social learning theory, understanding how beliefs about capabilities affect behavior.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/social-learning/bandura.md
 linked_concepts:
-  - ../../psychology/concepts/self-efficacy.md
-  - ../../psychology/concepts/observational-learning.md
+  - ../../心理学/概念/self-efficacy.md
+  - ../../心理学/概念/observational-learning.md
 tags:
   - 自我效能
   - 观察学习

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin.concepts.koan-systematization
+id: 宗教.buddhism.masters.hakuin.concepts.koan-systematization
 title: 公案系统化 Kōan Systematization
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
 tags: [公案, koan, 白隐, Hakuin, 临济宗, Rinzai, 看话禅]

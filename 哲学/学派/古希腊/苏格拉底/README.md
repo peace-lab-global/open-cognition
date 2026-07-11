@@ -2,7 +2,7 @@
 id: socrates
 title: 苏格拉底 · Socrates
 type: thinker
-domain: philosophy
+domain: 哲学
 school: classical-greek
 era: ancient
 birth: -469
@@ -44,7 +44,7 @@ sources:
 
 苏格拉底是西方哲学的奠基性人物。他从未写下任何文字，却通过对话改变了人类思想的方向。他的生与死——尤其是面对不公正的死刑判决时选择留下而非逃亡——构成了一种哲学生活的典范（paradigm），至今仍是伦理学与知识论讨论的起点。
 
-Socrates is the foundational figure of Western philosophy. He never wrote a single word, yet transformed the direction of human thought through conversation. His life and death—especially his choice to accept an unjust death sentence rather than flee—constitute a paradigm of philosophical living that remains the starting point for ethics and epistemology to this day.
+Socrates is the foundational figure of Western 哲学. He never wrote a single word, yet transformed the direction of human thought through conversation. His life and death—especially his choice to accept an unjust death sentence rather than flee—constitute a paradigm of philosophical living that remains the starting point for ethics and epistemology to this day.
 
 ---
 
@@ -148,7 +148,7 @@ Socrates left no writings. The following are the primary sources documenting his
 
 ### 承接 Inherits From
 - **智者派 Sophists**：论辩术与修辞学方法，但反对其相对主义立场 / Rhetorical methods, but opposed to their relativism
-- **阿那克萨戈拉 Anaxagoras**：早期自然哲学兴趣 / Early interest in natural philosophy
+- **阿那克萨戈拉 Anaxagoras**：早期自然哲学兴趣 / Early interest in natural 哲学
 - **巴门尼德 Parmenides**：对"不变真理"的追求 / Pursuit of unchanging truth
 
 ### 批判 Critiques
@@ -173,7 +173,7 @@ Socrates left no writings. The following are the primary sources documenting his
 
 3. **批判性思维 Critical Thinking**：苏格拉底诘问法被纳入现代批判性思维教育（如 Paul-Elder 模型），作为识别隐含假设和逻辑矛盾的核心工具。
 
-4. **心理治疗 Psychotherapy**：认知行为疗法（CBT）中的"苏格拉底式提问"技术，引导患者自主检验其非理性信念（参见 → [认知行为疗法](../../../psychology/schools/cbt/beck.md)）。
+4. **心理治疗 Psychotherapy**：认知行为疗法（CBT）中的"苏格拉底式提问"技术，引导患者自主检验其非理性信念（参见 → [认知行为疗法](../../../心理学/schools/cbt/beck.md)）。
 
 5. **人工智能与对话 AI & Dialogue**：苏格拉底的对话哲学为 AI 对话系统（如教育型 AI tutor）的设计提供方法论启发——引导式提问优于直接给出答案。
 
@@ -213,7 +213,7 @@ Socrates left no writings. The following are the primary sources documenting his
 **纠正**：苏格拉底声称受到"内在声音"（daimonion）的指引（→ [daimonion](concepts/daimonion.md)），在《斐多篇》中将哲学描述为"练习死亡"——一种带有神秘主义色彩的灵魂修炼。他并非忽视情感，而是认为情感应当被理性引导。
 
 **Misreading**: Socrates was a pure rationalist who neglected emotion and spirituality.
-**Correction**: Socrates claimed guidance from an inner divine voice (*daimonion*), and in the *Phaedo* described philosophy as "practicing death"—a soul-cultivation with mystical overtones. He did not neglect emotion but believed it should be guided by reason.
+**Correction**: Socrates claimed guidance from an inner divine voice (*daimonion*), and in the *Phaedo* described 哲学 as "practicing death"—a soul-cultivation with mystical overtones. He did not neglect emotion but believed it should be guided by reason.
 
 ---
 
@@ -241,11 +241,11 @@ Socrates' "I know that I know nothing" closely parallels Laozi's "To know that o
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [罗杰斯 · 来访者中心治疗 Rogers' Client-Centered Therapy](../../../psychology/schools/humanistic/rogers.md) `[平行 Parallel]` — 治疗师不直接给答案而通过提问引导自我发现 / Therapist guides self-discovery through questions rather than providing answers
-- [卡尼曼 · 双系统 Kahneman's Dual Systems](../../../psychology/schools/behavioral-economics/kahneman.md) `[互补 Complementary]` — 诘问法迫使系统1直觉接受系统2审视 / Elenchus forces System 1 intuitions to undergo System 2 scrutiny
+- [罗杰斯 · 来访者中心治疗 Rogers' Client-Centered Therapy](../../../心理学/学派/人本主义/卡尔.md) `[平行 Parallel]` — 治疗师不直接给答案而通过提问引导自我发现 / Therapist guides self-discovery through questions rather than providing answers
+- [卡尼曼 · 双系统 Kahneman's Dual Systems](../../../心理学/学派/行为经济学/丹尼尔.md) `[互补 Complementary]` — 诘问法迫使系统1直觉接受系统2审视 / Elenchus forces System 1 intuitions to undergo System 2 scrutiny
 - [弗莱雷 · 被压迫者教育学 Freire's Pedagogy of the Oppressed](../../../education/) `[同源 Derived]` — 对话式教育反对"银行储蓄式"灌输 / Dialogic education opposes "banking model" indoctrination
-- [贝克 · 认知行为疗法 Beck's CBT](../../../psychology/schools/cbt/beck.md) `[应用 Applied]` — 苏格拉底式提问作为认知重构核心技术 / Socratic questioning as core technique for cognitive restructuring
-- [哈贝马斯 · 交往理性 Habermas' Communicative Rationality](../../../philosophy/schools/continental/habermas.md) `[发展 Developed]` — 对话理性在现代政治哲学中的系统化 / Systematization of dialogical rationality in modern political philosophy
+- [贝克 · 认知行为疗法 Beck's CBT](../../../心理学/schools/cbt/beck.md) `[应用 Applied]` — 苏格拉底式提问作为认知重构核心技术 / Socratic questioning as core technique for cognitive restructuring
+- [哈贝马斯 · 交往理性 Habermas' Communicative Rationality](../../../哲学/schools/continental/habermas.md) `[发展 Developed]` — 对话理性在现代政治哲学中的系统化 / Systematization of dialogical rationality in modern political 哲学
 
 ---
 

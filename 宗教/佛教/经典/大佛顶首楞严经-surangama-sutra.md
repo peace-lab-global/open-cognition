@@ -2,7 +2,7 @@
 id: surangama-sutra
 title: 大佛顶首楞严经 · Śūraṅgama Sutra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-tathagatagarbha
 era: ancient
 tags:

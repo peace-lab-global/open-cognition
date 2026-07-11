@@ -1,7 +1,7 @@
 ---
 name: human-reliability-analysis
 description: 使用人因可靠性分析方法（THERP/CREAM/SPAR-H）系统评估人为错误概率。Triggers on requests to quantify human error risk, assess system reliability, or perform probabilistic safety assessment.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/safety-science/hollnagel.md
 linked_concepts:
   - ../../concepts/human-reliability-analysis.md

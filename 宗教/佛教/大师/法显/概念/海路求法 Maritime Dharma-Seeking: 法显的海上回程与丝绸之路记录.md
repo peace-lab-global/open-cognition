@@ -3,7 +3,7 @@ id: faxian-sea-route
 title: "海路求法 Maritime Dharma-Seeking: 法显的海上回程与丝绸之路记录"
 type: concept
 parent: faxian
-domain: religion
+domain: 宗教
 tags: [maritime-route, 海路, sea-route, Maritime-Silk-Road, 航海, navigation, Java, Sri-Lanka, trade]
 ---
 
@@ -55,7 +55,7 @@ The storm severely diverted the ship's course, eventually drifting to "Yavadvipa
 
 法显记录了爪哇的宗教状况："其国外道婆罗门兴盛，佛法不足言"——当地以婆罗门教（印度教）为主，佛教势力较弱。这一记录与 5 世纪东南亚宗教格局的考古证据基本吻合。
 
-Faxian documented Java's religious condition: "In that country, heterodox Brahmanism flourishes, while Buddhism is of little account" — the local religion was predominantly Brahmanical (Hindu), with Buddhism holding relatively weak influence. This account broadly aligns with archaeological evidence of 5th-century Southeast Asian religious patterns.
+Faxian documented Java's religious condition: "In that country, heterodox Brahmanism flourishes, while Buddhism is of little account" — the local 宗教 was predominantly Brahmanical (Hindu), with Buddhism holding relatively weak influence. This account broadly aligns with archaeological evidence of 5th-century Southeast Asian religious patterns.
 
 ### 第二段：爪哇至中国
 

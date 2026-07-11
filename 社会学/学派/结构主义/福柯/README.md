@@ -1,8 +1,8 @@
 ---
-id: sociology.structuralism.foucault
+id: 社会学.structuralism.foucault
 title: 福柯 Michel Foucault
 type: thinker
-domain: sociology
+domain: 社会学
 school: structuralism
 era: 20th century
 birth: 1926
@@ -41,7 +41,7 @@ sources:
 
 福柯对社会学的最大贡献在于颠覆了传统的权力观。他认为权力不是被某人或某机构"拥有"的实体，而是一种流动的、生产性的关系网络——"权力无处不在，不是因为它包含一切，而是因为它来自一切"。规训权力（pouvoir disciplinaire）通过监视、分类、规范化和身体技术来塑造"温顺的身体"（corps dociles）；生命权力（biopouvoir）通过人口统计、公共卫生和生育管理来治理人口。
 
-Foucault is one of the most influential French thinkers of the 20th century. His intellectual career spans three phases: the archaeological period (knowledge formations), the genealogical period (power/knowledge relations), and the ethical period (technologies of the self). His central question is: how are subjects produced? His greatest contribution to sociology is the radical transformation of the concept of power—power is not possessed but is a productive network of relations that operates through discourse, knowledge, and institutional practices.
+Foucault is one of the most influential French thinkers of the 20th century. His intellectual career spans three phases: the archaeological period (knowledge formations), the genealogical period (power/knowledge relations), and the ethical period (technologies of the self). His central question is: how are subjects produced? His greatest contribution to 社会学 is the radical transformation of the concept of power—power is not possessed but is a productive network of relations that operates through discourse, knowledge, and institutional practices.
 
 ## 二、核心命题
 

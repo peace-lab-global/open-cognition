@@ -2,7 +2,7 @@
 id: erikson-erik
 title: "埃里克·埃里克森 · Erik Erikson"
 type: thinker
-domain: psychology
+domain: 心理学
 school: developmental
 era: modern
 birth: 1902
@@ -62,7 +62,7 @@ sub-entries:
 - **国籍 / Nationality**：德裔美国人 German-American
 - **学术身份 / Academic Identity**：发展心理学家、精神分析学家、心理社会发展理论创始人
   Developmental psychologist, psychoanalyst, founder of psychosocial development theory
-- **学派归属 / School**：新精神分析 / 发展心理学 Neo-Freudian / Developmental psychology
+- **学派归属 / School**：新精神分析 / 发展心理学 Neo-Freudian / Developmental 心理学
 - **主要职位 / Positions**：哈佛大学教授、耶鲁大学教授、加州大学伯克利分校教授、斯坦福大学行为科学高等研究中心研究员
   Professor at Harvard, Yale, UC Berkeley; Fellow at Stanford's Center for Advanced Study in the Behavioral Sciences
 - **教育背景 / Education**：维也纳精神分析研究所训练（师从安娜·弗洛伊德）；未获正式大学学位
@@ -80,7 +80,7 @@ sub-entries:
 ### 2. 同一性危机 / Identity Crisis
 **中文**：青春期的核心发展任务是建立"自我同一性"（ego identity）——一种内在的、连续的、自我定义的认同感。个体需要在不同的社会角色、价值观和信仰之间进行探索与实验，最终做出承诺。埃里克森创造了"同一性危机"（identity crisis）一词来描述这一探索过程中的紧张和焦虑。这一概念后来成为发展心理学和文化研究中最有影响力的概念之一。
 
-**English**: The central developmental task of adolescence is the formation of ego identity — a coherent, continuous, self-defined sense of who one is. The individual must explore and experiment with various social roles, values, and beliefs before making commitments. Erikson coined the term "identity crisis" to describe the tension and anxiety inherent in this exploratory process. The concept has since become one of the most influential ideas in developmental psychology and cultural studies.
+**English**: The central developmental task of adolescence is the formation of ego identity — a coherent, continuous, self-defined sense of who one is. The individual must explore and experiment with various social roles, values, and beliefs before making commitments. Erikson coined the term "identity crisis" to describe the tension and anxiety inherent in this exploratory process. The concept has since become one of the most influential ideas in developmental 心理学 and cultural studies.
 
 ### 3. 生成性与停滞 / Generativity vs. Stagnation
 **中文**：成年中期（约40-65岁）的核心危机是"生成性 vs 停滞"。生成性（generativity）是个体对下一代的关怀和建设性贡献——它通过养育子女、指导后辈、创造性工作、社会参与等方式实现。缺乏生成性的人陷入自我停滞（stagnation），过度关注自身需要，感到生命缺乏意义和目的。生成性的核心美德是"关怀"（care）。
@@ -100,7 +100,7 @@ sub-entries:
 ### 6. 心理历史学方法 / Psychohistorical Method
 **中文**：埃里克森开创了"心理历史学"（psychohistory）这一跨学科方法——运用精神分析理论来理解历史人物的内在动机和发展历程。他的两部传记研究——《青年路德》（1958）和《甘地的真理》（1969，获普利策奖）——展示了如何将发展心理学与历史、文化分析深度结合，为理解人类创造力、道德发展和精神变革提供了全新的视角。
 
-**English**: Erikson pioneered "psychohistory" — an interdisciplinary method that applies psychoanalytic theory to understand the inner motivations and developmental trajectories of historical figures. His two biographical studies — *Young Man Luther* (1958) and *Gandhi's Truth* (1969, Pulitzer Prize) — demonstrated how developmental psychology could be deeply integrated with historical and cultural analysis, offering new perspectives on human creativity, moral development, and spiritual transformation.
+**English**: Erikson pioneered "psychohistory" — an interdisciplinary method that applies psychoanalytic theory to understand the inner motivations and developmental trajectories of historical figures. His two biographical studies — *Young Man Luther* (1958) and *Gandhi's Truth* (1969, Pulitzer Prize) — demonstrated how developmental 心理学 could be deeply integrated with historical and cultural analysis, offering new perspectives on human creativity, moral development, and spiritual transformation.
 
 ---
 
@@ -122,7 +122,7 @@ sub-entries:
 
 **中文**：1982年的《生命周期的完成》（*The Life Cycle Completed*）是埃里克森对自己理论的最终阐述。在这部著作中，他与妻子琼·埃里克森（Joan Erikson）合作，为八阶段理论提供了更加丰富的描述，特别强调了老年期的发展任务——自我整合与智慧。琼后来在埃里克森去世后出版的扩展版中增加了第九个阶段，讨论极高龄（80岁以上）老人面临的发展挑战。这一时期，埃里克森的思想越来越多地与存在主义心理学、宗教研究和老年学对话，他的"自我整合"概念成为老年心理学中最重要的理论资源之一。1994年，埃里克森在马萨诸塞州去世，享年91岁。
 
-**English**: *The Life Cycle Completed* (1982) was Erikson's final statement of his own theory. In this work, he collaborated with his wife Joan Erikson to provide richer descriptions of the eight stages, with special emphasis on the developmental task of old age — ego integrity and wisdom. Joan later published an expanded edition after Erikson's death that added a ninth stage addressing the challenges of very old age (80+). During this period, Erikson's thought increasingly engaged with existential psychology, religious studies, and gerontology. His concept of "ego integrity" became one of the most important theoretical resources in the psychology of aging. Erikson died in Massachusetts in 1994 at the age of 91.
+**English**: *The Life Cycle Completed* (1982) was Erikson's final statement of his own theory. In this work, he collaborated with his wife Joan Erikson to provide richer descriptions of the eight stages, with special emphasis on the developmental task of old age — ego integrity and wisdom. Joan later published an expanded edition after Erikson's death that added a ninth stage addressing the challenges of very old age (80+). During this period, Erikson's thought increasingly engaged with existential psychology, religious studies, and gerontology. His concept of "ego integrity" became one of the most important theoretical resources in the 心理学 of aging. Erikson died in Massachusetts in 1994 at the age of 91.
 
 ---
 
@@ -238,17 +238,17 @@ The central crisis of middle adulthood — realizing life's continuity through c
 ### 1. 青少年发展与教育 / Adolescent Development and Education
 **中文**：同一性危机理论是理解青少年心理发展的核心框架。现代教育体系中的"生涯规划"课程、"间隔年"（gap year）项目、大学中的通识教育——都是为青年提供"合法延缓期"的制度化尝试。詹姆斯·马西亚（James Marcia）基于埃里克森的理论发展出的"同一性状态范式"（Identity Status Paradigm）至今仍是青少年研究的主要工具。
 
-**English**: Identity crisis theory remains the central framework for understanding adolescent development. Modern educational programs — career planning courses, gap year programs, liberal arts education in universities — are all institutionalized attempts to provide youth with a "psychosocial moratorium." James Marcia's Identity Status Paradigm, developed from Erikson's theory, remains a primary research tool in adolescent studies.
+**English**: Identity crisis theory remains the central framework for understanding adolescent development. Modern educational programs — career planning courses, gap year programs, liberal 艺术 education in universities — are all institutionalized attempts to provide youth with a "psychosocial moratorium." James Marcia's Identity Status Paradigm, developed from Erikson's theory, remains a primary 研究 tool in adolescent studies.
 
 ### 2. 跨文化心理学 / Cross-Cultural Psychology
 **中文**：埃里克森对不同文化中儿童养育方式的比较研究（苏族、尤罗克族、印度文化）为跨文化心理学提供了早期的理论范式。当代研究者利用八阶段框架来分析不同文化背景下的发展差异——例如，集体主义文化中"同一性"的形成方式与个人主义文化中的差异。
 
-**English**: Erikson's comparative studies of child-rearing across cultures (Sioux, Yurok, Indian culture) provided early theoretical paradigms for cross-cultural psychology. Contemporary researchers use the eight-stage framework to analyze developmental differences across cultural contexts — for example, how identity formation in collectivist cultures differs from individualist cultures.
+**English**: Erikson's comparative studies of child-rearing across cultures (Sioux, Yurok, Indian culture) provided early theoretical paradigms for cross-cultural 心理学. Contemporary researchers use the eight-stage framework to analyze developmental differences across cultural contexts — for example, how identity formation in collectivist cultures differs from individualist cultures.
 
 ### 3. 中年转型与职业发展 / Midlife Transition and Career Development
 **中文**：生成性 vs 停滞理论为理解中年危机、职业倦怠和人生转型提供了重要视角。当代职业心理学中的"职业锚"（career anchor）概念、"中年转型"（midlife transition）研究，以及组织行为学中关于"导师制度"（mentoring）的研究，都深深扎根于埃里克森的生成性概念。
 
-**English**: The generativity versus stagnation framework offers important perspectives on midlife crises, career burnout, and life transitions. Contemporary career psychology concepts — career anchors, midlife transition research, and organizational mentoring studies — are all deeply rooted in Erikson's concept of generativity.
+**English**: The generativity versus stagnation framework offers important perspectives on midlife crises, career burnout, and life transitions. Contemporary career 心理学 concepts — career anchors, midlife transition research, and organizational mentoring studies — are all deeply rooted in Erikson's concept of generativity.
 
 ### 4. 老年心理学与临终关怀 / Geropsychology and End-of-Life Care
 **中文**：自我整合 vs 绝望理论是老年心理学的基石。当代的"人生回顾治疗"（life review therapy）、"叙事治疗"（narrative therapy）在老年群体中的应用，以及临终关怀中的"意义建构"（meaning-making）方法，都直接源于埃里克森对老年期发展任务的理解。
@@ -263,7 +263,7 @@ The central crisis of middle adulthood — realizing life's continuity through c
 ### 6. 数字时代的同一性研究 / Identity Research in the Digital Age
 **中文**：当代研究者将埃里克森的同一性理论应用于数字环境——社交媒体如何改变了青少年的同一性探索过程？虚拟身份的流动性是否构成了新的"同一性延缓"？网络欺凌如何威胁"基本信任"？这些研究显示了埃里克森理论在数字时代的持久相关性。
 
-**English**: Contemporary researchers apply Erikson's identity theory to digital environments — how social media transforms adolescents' identity exploration, whether virtual identity fluidity constitutes a new form of "moratorium," and how cyberbullying threatens "basic trust." This research demonstrates the enduring relevance of Erikson's theory in the digital age.
+**English**: Contemporary researchers apply Erikson's identity theory to digital environments — how social media transforms adolescents' identity exploration, whether virtual identity fluidity constitutes a new form of "moratorium," and how cyberbullying threatens "basic trust." This 研究 demonstrates the enduring relevance of Erikson's theory in the digital age.
 
 ### 7. 组织发展与领导力 / Organizational Development and Leadership
 **中文**：生成性概念被广泛应用于组织管理领域——"仆人式领导"（servant leadership）、"代际传承"（succession planning）以及组织中的"知识转移"（knowledge transfer）都与生成性密切相关。成年中期的领导者面临的核心挑战就是如何在组织中实现生成性——将经验和智慧传递给下一代。
@@ -273,7 +273,7 @@ The central crisis of middle adulthood — realizing life's continuity through c
 ### 8. 积极心理学 / Positive Psychology
 **中文**：埃里克森的"美德"（virtues）概念——希望、意志、目的、能力、忠诚、爱、关怀、智慧——预示了积极心理学对"品格优势"（character strengths）的关注。他的理论强调发展的积极潜能，而非仅仅关注病理，这与塞利格曼（Seligman）等人的积极心理学方向高度一致。
 
-**English**: Erikson's concept of "virtues" — hope, will, purpose, competence, fidelity, love, care, wisdom — anticipated positive psychology's focus on "character strengths." His theory emphasizes positive developmental potential rather than pathology alone, aligning closely with the direction of positive psychology articulated by Seligman and others.
+**English**: Erikson's concept of "virtues" — hope, will, purpose, competence, fidelity, love, care, wisdom — anticipated positive psychology's focus on "character strengths." His theory emphasizes positive developmental potential rather than pathology alone, aligning closely with the direction of positive 心理学 articulated by Seligman and others.
 
 ---
 

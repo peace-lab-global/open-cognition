@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.safety-science.dekker
+id: 认知系统.safety-science.dekker
 title: 西德尼·德克尔 Sidney Dekker
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: safety-science
 era: modern
 birth: 1971

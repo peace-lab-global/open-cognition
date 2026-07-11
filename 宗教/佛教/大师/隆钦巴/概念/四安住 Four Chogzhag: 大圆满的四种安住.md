@@ -3,7 +3,7 @@ id: longchenpa-four-chogzhag
 title: "四安住 Four Chogzhag: 大圆满的四种安住"
 type: concept
 parent: longchenpa
-domain: religion
+domain: 宗教
 tags: [four-chogzhag, Dzogchen, meditation]
 ---
 # 四安住 / Four Chogzhag

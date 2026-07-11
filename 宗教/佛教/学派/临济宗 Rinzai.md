@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.rinzai
+id: 宗教.buddhism.school.rinzai
 title: 临济宗 Rinzai
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 era: medieval-modern
 tags: [临济宗, 看话禅, 公案, 白隐, 日本禅]

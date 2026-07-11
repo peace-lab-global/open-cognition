@@ -1,8 +1,8 @@
 ---
-id: aesthetics.poetic-thought.dante
+id: 美学.poetic-thought.dante
 title: 但丁 · Dante Alighieri
 type: thinker
-domain: aesthetics
+domain: 美学
 school: poetic-thought
 era: medieval-renaissance
 birth: 1265
@@ -49,7 +49,7 @@ children:
 
 在美学史上，但丁的核心贡献是**寓意诗学**（allegorical poetics）的完善。他在《致斯加拉大亲王书》中系统阐述了"四重意义"理论——字面意义、寓意意义、道德意义、神秘意义——将诗歌提升为一种能够同时作用于感官、理性、伦理和灵性的多层次艺术形式。这一理论深刻影响了后世的文学批评、符号学和叙事学。
 
-Dante Alighieri (1265–1321) stands at the threshold between medieval and Renaissance thought, creating in the *Divine Comedy* one of the most architecturally complex works in world literature. His revolutionary poetics elevated the vernacular to a vehicle for the highest philosophical and theological expression, while his allegorical method — the fourfold interpretation of texts — established a hermeneutic framework that would shape literary criticism for centuries. Through Beatrice, he transformed earthly love into a metaphysical principle, bridging the human and the divine in a way that profoundly influenced Petrarch, Boccaccio, and the entire European lyric tradition.
+Dante Alighieri (1265–1321) stands at the threshold between medieval and Renaissance thought, creating in the *Divine Comedy* one of the most architecturally complex works in world 文学. His revolutionary poetics elevated the vernacular to a vehicle for the highest philosophical and theological expression, while his allegorical method — the fourfold interpretation of texts — established a hermeneutic framework that would shape literary criticism for centuries. Through Beatrice, he transformed earthly love into a metaphysical principle, bridging the human and the divine in a way that profoundly influenced Petrarch, Boccaccio, and the entire European lyric tradition.
 
 ## 二、核心命题
 

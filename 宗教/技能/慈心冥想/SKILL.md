@@ -1,7 +1,7 @@
 ---
 name: metta-meditation
 description: Triggers when a user reports anger, resentment, interpersonal conflict, self-hatred, or asks for a meditation to cultivate compassion and love. Apply this skill to guide the user through the four-stage Buddhist loving-kindness (mettā) practice as an operational intervention, not just a spiritual idea.
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/four-immeasurables.md
   - ../../buddhism/concepts/foundational/bodhisattva-path.md
@@ -139,5 +139,5 @@ Step 5 一切众生
 - [四无量心](../../buddhism/concepts/foundational/four-immeasurables.md)
 - [菩萨道](../../buddhism/concepts/foundational/bodhisattva-path.md)
 - [六度 · 忍辱](../../buddhism/concepts/foundational/six-paramitas.md)
-- [罗杰斯 · 无条件积极关注](../../../psychology/schools/humanistic/rogers.md)
+- [罗杰斯 · 无条件积极关注](../../../心理学/学派/人本主义/卡尔.md)
 - [四圣谛框架](./four-noble-truths-framework/SKILL.md)（后续处理嗔恨的根源）

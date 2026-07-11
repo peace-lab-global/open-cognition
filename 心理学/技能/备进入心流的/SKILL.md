@@ -1,7 +1,7 @@
 ---
 name: flow-conditions-assessment
 description: 评估一项活动/任务是否具备进入心流的 8 个条件，找出短板，设计可执行的环境与流程改造，让"沉浸投入"可被复制。
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/positive/csikszentmihalyi.md
 linked_concepts:
   - ../../concepts/flow.md
@@ -103,5 +103,5 @@ tags: [心流, 任务设计, 注意力, 学习设计, 游戏化]
 - [心流 Flow](../../concepts/flow.md)
 - [米哈里 Csikszentmihalyi](../../schools/positive/csikszentmihalyi.md)
 - [马斯洛 高峰体验](../../schools/humanistic/maslow.md)
-- [无为 Wuwei](../../../religion/traditions/taoism/wuwei.md) — 不勉强的投入
-- [禅宗](../../../religion/traditions/buddhism/zen.md) — 行动—意识合一
+- [无为 Wuwei](../../../宗教/传统/道教/无为.md) — 不勉强的投入
+- [禅宗](../../../宗教/传统/佛教/禅宗.md) — 行动—意识合一

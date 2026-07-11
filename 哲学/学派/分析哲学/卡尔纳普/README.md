@@ -2,7 +2,7 @@
 id: carnap
 title: 卡尔纳普 · Rudolf Carnap
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: modern
 birth: 1891
@@ -86,7 +86,7 @@ Shifted from purely syntactic analysis to semantics — *Meaning and Necessity* 
 ### 美国时期 / American Period (1935–1970)
 任芝加哥大学、UCLA教授，推动科学哲学的制度化。与蒯因（Quine）就分析-综合区分展开著名论战。
 
-Professor at University of Chicago and UCLA, institutionalizing philosophy of science. Engaged in famous debate with Quine over the analytic-synthetic distinction.
+Professor at University of Chicago and UCLA, institutionalizing 哲学 of science. Engaged in famous debate with Quine over the analytic-synthetic distinction.
 
 ## 关键著作 / Key Works
 
@@ -158,8 +158,8 @@ Yogacara's "dependent nature" (paratantra-svabhava) describes the causal network
 
 - [维特根斯坦 Wittgenstein](../wittgenstein/README.md) `[同源/kindred]` 语言批判的两种路线
 - [波普尔 Popper](../popper/README.md) `[张力/tension]` 可确认性 vs 证伪主义
-- [量论 · Pramana](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[对照/contrast]` 有效认知的判准
-- [二谛 · Satyadvaya](../../../religion/buddhism/concepts/cognitive-theory/two-truths.md) `[平行/parallel]` 框架内外的双层
+- [量论 · Pramana](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[对照/contrast]` 有效认知的判准
+- [二谛 · Satyadvaya](../../../宗教/佛教/概念/cognitive-theory/二谛.md) `[平行/parallel]` 框架内外的双层
 
 ## 进阶阅读 / Further Reading
 

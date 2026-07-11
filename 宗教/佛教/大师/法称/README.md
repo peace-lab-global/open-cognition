@@ -2,7 +2,7 @@
 id: dharmakirti
 title: "法称 Dharmakīrti: 佛教量论的集大成者与印度认识论的巅峰"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 era: medieval
 birth: 600
@@ -219,7 +219,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 | 比量 Anumāna | 演绎/归纳推理 | 推理的有效性条件 |
 | Apoha 排除 | 弗雷格的意义/指称 | 语义学的第三条路径 |
 | 自相 Svalakṣaṇa | 殊相 Particulars | 本体论的基础单元 |
-| 刹那灭 Kṣaṇikavāda | 过程哲学 Process philosophy | 实在即变化 |
+| 刹那灭 Kṣaṇikavāda | 过程哲学 Process 哲学 | 实在即变化 |
 | 因三相 Trirūpaliṅga | 逻辑有效性的条件 | 推理的结构分析 |
 | 量士夫 Pramāṇabhūta | 认知权威 Epistemic authority | 宗教权威的理性化 |
 
@@ -228,7 +228,7 @@ children: ["concepts/two-valid-cognitions", "concepts/particular-universal", "co
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [陈那](../dignaga.md) — 量论创始人；[寂护](santarakshita.md) — 将量论引入西藏；[宗喀巴](tsongkhapa.md) — 藏传量论教育体系
-- **哲学**: [弗雷格](../../../philosophy/schools/analytic/frege.md) — 指称理论；[维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — 语言与意义；[塞拉斯](../../../philosophy/schools/analytic/sellars.md) — 所予神话
+- **哲学**: [弗雷格](../../../哲学/学派/分析哲学/frege.md) — 指称理论；[维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言与意义；[塞拉斯](../../../哲学/学派/分析哲学/sellars.md) — 所予神话
 - **学派**: [瑜伽行派](../schools/yogacara.md) — 哲学基础；[经量部](../schools/sautrantika.md) — 方法论来源
 - **认知科学**: 概念形成、感知与概念化分离、预测编码
 - **AI**: 归纳推理、语义网络、知识表示

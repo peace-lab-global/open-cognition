@@ -1,7 +1,7 @@
 ---
 name: resilience-assessment
 description: 评估系统在面对意外和压力时的韧性水平，基于 Woods 和 Hollnagel 的韧性工程理论。Triggers on requests to evaluate system resilience, safety-II analysis, or assess how systems handle unexpected events.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/cognitive-engineering/woods.md
 linked_concepts:
   - ../../concepts/resilience-engineering.md

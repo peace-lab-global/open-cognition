@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.shandao.readme
+id: 宗教.buddhism.master.shandao.readme
 title: 善导大师 Shandao — The Great Master Who Made Pure Land Buddhism Accessible to All
 type: master-page
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
 birth: 613
 death: 681
@@ -138,7 +138,7 @@ Shandao's influence on Japanese Buddhism was even more profound. Hōnen (1133–
 
 善导的思想在当代仍然具有深刻的启示意义。从宗教社会学的角度看，善导是宗教大众化的典范——他证明了深刻的精神传统可以在保持教义深度的同时降低实践门槛。从心理学的角度看，"他力信心"思想与当代心理治疗中的"自我接纳"和"放下控制"的理念不谋而合。从比较宗教学的角度看，善导的"他力本愿"与基督教的"因信称义"和伊斯兰教苏菲派的"神恩"概念形成了有趣的对话空间。
 
-Shandao's thought continues to offer profound insights today. From the perspective of religious sociology, he exemplifies the democratization of religion — proving that a deep spiritual tradition can lower its practical threshold without sacrificing doctrinal depth. From a psychological perspective, the "faith in Other-Power" resonates with contemporary therapeutic concepts of self-acceptance and letting go of control. From the standpoint of comparative religion, Shandao's "Other-Power Original Vow" opens fascinating dialogue with Christianity's "justification by faith" and the Sufi concept of divine grace.
+Shandao's thought continues to offer profound insights today. From the perspective of religious sociology, he exemplifies the democratization of 宗教 — proving that a deep spiritual tradition can lower its practical threshold without sacrificing doctrinal depth. From a psychological perspective, the "faith in Other-Power" resonates with contemporary therapeutic concepts of self-acceptance and letting go of control. From the standpoint of comparative religion, Shandao's "Other-Power Original Vow" opens fascinating dialogue with Christianity's "justification by faith" and the Sufi concept of divine grace.
 
 ### 临终关怀与生死学 End-of-Life Care and Thanatology
 
@@ -230,7 +230,7 @@ Shandao's thought is often dismissed as "simple fideism," but deeper analysis re
 - [法然 Hōnen](../../japan/honen.md) — 日本净土宗创立者，善导思想的直接继承者 / Founder of Japanese Jōdo-shū, direct inheritor of Shandao's thought
 - [亲鸾 Shinran](../../japan/shinran.md) — 净土真宗创立者，将善导他力思想推至极致 / Founder of Jōdo Shinshū, who pushed Shandao's Other-Power teaching to its ultimate conclusion
 - [路德 · 因信称义](../../traditions/christianity/grace-redemption.md) — 平行比较：他力信心 vs 恩典 / Parallel comparison: Other-Power faith vs. grace
-- [韦伯 · 宗教社会学](../../../sociology/schools/classical/weber.md) — 宗教大众化 / Religion's democratization
+- [韦伯 · 宗教社会学](../../../社会学/学派/古典社会学/韦伯.md) — 宗教大众化 / Religion's democratization
 
 ---
 

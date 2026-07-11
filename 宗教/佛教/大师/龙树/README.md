@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.nagarjuna
+id: 宗教.buddhism.master.nagarjuna
 title: "龙树 Nagarjuna"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: classical-india
 birth: 150
@@ -87,7 +87,7 @@ Emptiness itself is empty — "emptiness" is not an ultimate substance or substi
 
 ### 前驱 / Predecessors
 
-- **般若经传统 (Prajnaparamita)**: 龙树的空观是对般若经核心思想的哲学系统化 / Nagarjuna's emptiness philosophy systematizes the core insights of the Prajnaparamita sutras
+- **般若经传统 (Prajnaparamita)**: 龙树的空观是对般若经核心思想的哲学系统化 / Nagarjuna's emptiness 哲学 systematizes the core insights of the Prajnaparamita sutras
 - **阿含经 (Agama)**: 缘起思想的原始来源 / The original source of dependent origination thought
 - **阿毗达磨 (Abhidharma)**: 部派佛教对法的分析传统——龙树继承其方法论但反对其本体论承诺 / Nagarjuna inherits its analytical methodology but rejects its ontological commitments
 - **说一切有部 (Sarvastivada)**: 主张"三世实有"——龙树的主要批判对象 / The thesis that "all three times truly exist" — Nagarjuna's primary critical target
@@ -99,7 +99,7 @@ Emptiness itself is empty — "emptiness" is not an ultimate substance or substi
 - **清辨 Bhaviveka** (约 500–570): 开创自续派 (Svatantrika) / Founded the Svatantrika commentary tradition
 - **月称 Candrakirti** (约 600–650): 应成派集大成者 / Culmination of the Prasangika tradition
 - **宗喀巴 Tsongkhapa** (1357–1419): 藏传中观应成派复兴者 / Reviver of Prasangika Madhyamaka in Tibetan Buddhism
-- **智顗 Zhiyi** (538–597): 天台宗创始人 / Founder of Tiantai school, built Chinese Buddhist philosophy on Madhyamaka foundations
+- **智顗 Zhiyi** (538–597): 天台宗创始人 / Founder of Tiantai school, built Chinese Buddhist 哲学 on Madhyamaka foundations
 
 ---
 
@@ -142,7 +142,7 @@ Emptiness itself is empty — "emptiness" is not an ultimate substance or substi
 
 ### 哲学定位 / Philosophical Orientation
 
-- **反本质主义 Anti-essentialism**: 对"自性 svabhava"的全面批判，是哲学史上最彻底的反本质主义运动之一 / The most thorough anti-essentialist movement in the history of philosophy
+- **反本质主义 Anti-essentialism**: 对"自性 svabhava"的全面批判，是哲学史上最彻底的反本质主义运动之一 / The most thorough anti-essentialist movement in the history of 哲学
 - **批判理性主义 Critical rationalism**: 以逻辑破逻辑——不是否定理性，而是展示理性的自我消解 / Logic against logic — not denying reason but revealing reason's self-dissolution
 - **中道哲学 Middle Way philosophy**: 不是折衷主义，而是对所有二元概念框架的系统超越 / Not compromise but systematic transcendence of all dualistic frameworks
 - **语言哲学 Philosophy of language**: 对指称理论和意义理论的深刻批判 / Profound critique of reference theory and meaning theory
@@ -162,7 +162,7 @@ Emptiness itself is empty — "emptiness" is not an ultimate substance or substi
 
 与维特根斯坦 (Wittgenstein)、海德格尔 (Heidegger)、德里达 (Derrida)、罗蒂 (Rorty) 形成深度对话。龙树对语言界限的洞察与维特根斯坦"对于不可说的，必须保持沉默"形成跨文化平行。德里达的解构主义与中观的互读已成为比较哲学的经典议题。
 
-Nagarjuna enters deep dialogue with Wittgenstein, Heidegger, Derrida, and Rorty. His insight into the limits of language parallels Wittgenstein's "Whereof one cannot speak, thereof one must be silent." The Derrida-Madhyamaka cross-reading has become a classic topic in comparative philosophy.
+Nagarjuna enters deep dialogue with Wittgenstein, Heidegger, Derrida, and Rorty. His insight into the limits of language parallels Wittgenstein's "Whereof one cannot speak, thereof one must be silent." The Derrida-Madhyamaka cross-reading has become a classic topic in comparative 哲学.
 
 ### 认知科学 / Cognitive Science
 
@@ -233,7 +233,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学 Philosophy**: [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — 语言批判 / Language critique；[海德格尔](../../../philosophy/schools/existentialism/heidegger.md) — 存在解构 / Deconstruction of Being；[康德](../../../philosophy/schools/german-idealism/kant.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
+- **哲学 Philosophy**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言批判 / Language critique；[海德格尔](../../../哲学/学派/存在主义/海德格尔.md) — 存在解构 / Deconstruction of Being；[康德](../../../哲学/学派/德国唯心论/康德.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
 - **佛教内部 Buddhist tradition**: [阿耶提婆](aryadeva.md) — 首席弟子 / Chief disciple；[月称](candrakirti.md) — 应成派继承者 / Prasangika heir；[宗喀巴](tsongkhapa.md) — 藏传中观复兴 / Tibetan Madhyamaka revival
 - **学派 School**: [中观学派](../schools/madhyamaka.md) — 创始人 / Founder
 - **认知科学 Cognitive science**: 反物化认知 / Anti-reification cognition、认知灵活性 / Cognitive flexibility
@@ -267,7 +267,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 - [空性 Sunyata](concepts/sunyata-emptiness.md) — 无自性的哲学分析 / Philosophical analysis of no-svabhava
 - [二谛 Dve Satye](concepts/two-truths.md) — 世俗与胜义的不可分割 / Inseparability of conventional and ultimate
-- [中道 Madhyamaka](concepts/middle-way.md) — 八不与中道哲学 / Eight negations and Middle Way philosophy
+- [中道 Madhyamaka](concepts/middle-way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
 - [四句破 Catuskoti](concepts/catuskoti-tetralemma.md) — 否定性逻辑方法 / Negative logical method
 - [缘起 Pratityasamutpada](concepts/dependent-origination.md) — 相依缘起与空性 / Dependent co-arising and emptiness
 - [著作目录](works.md) — 完整著作列表与考证 / Complete works listing with authentication

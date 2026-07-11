@@ -1,8 +1,8 @@
 ---
-id: aesthetics.chinese-aesthetics.zhu-guangqian
+id: 美学.chinese-aesthetics.zhu-guangqian
 title: 朱光潜 · Zhu Guangqian
 type: thinker
-domain: aesthetics
+domain: 美学
 school: chinese-aesthetics
 era: modern
 birth: 1897
@@ -48,7 +48,7 @@ children:
 
 在美学论争中，朱光潜始终坚持"主客观统一"的立场——美既非纯客观属性（唯物论），亦非纯主观投射（唯心论），而是主体与客体在审美活动中的交融统一。这一立场使他在1950年代的美学大讨论中既区别于蔡仪的客观论，也区别于吕荧的主观论，形成了独具特色的理论路径。
 
-Zhu Guangqian (1897–1986) is regarded as the founder of modern Chinese aesthetics. His lifelong project was a creative synthesis of Western aesthetic theories — Croce's intuitionism, Lipps's empathy theory, Bullough's psychological distance — with Chinese traditional concepts such as "imaginal object" (意象). His central thesis that "beauty is the unity of subject and object" became one of the most influential positions in Chinese aesthetic discourse, and his *History of Western Aesthetics* (1963) remains the standard Chinese reference work on the subject.
+Zhu Guangqian (1897–1986) is regarded as the founder of modern Chinese 美学. His lifelong project was a creative synthesis of Western aesthetic theories — Croce's intuitionism, Lipps's empathy theory, Bullough's psychological distance — with Chinese traditional concepts such as "imaginal object" (意象). His central thesis that "beauty is the unity of subject and object" became one of the most influential positions in Chinese aesthetic discourse, and his *History of Western Aesthetics* (1963) remains the standard Chinese reference work on the subject.
 
 ## 二、核心命题
 

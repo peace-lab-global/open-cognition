@@ -1,7 +1,7 @@
 ---
 name: naturalistic-decision-analysis
 description: 分析专家在时间压力、高不确定性下的真实决策模式，基于 Klein 的识别启动决策（RPD）模型。Triggers on requests to understand expert decision-making, analyze decisions under time pressure, or evaluate intuitive judgment.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/naturalistic-decision/klein.md
 linked_concepts:
   - ../../concepts/situation-awareness.md

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sastra.bodhicaryavatara
+id: 宗教.buddhism.sastra.bodhicaryavatara
 title: 入菩萨行论 Bodhicaryāvatāra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [入菩萨行论, 寂天, 菩提心, 忍辱, 自他交换, 佛教伦理]

@@ -2,7 +2,7 @@
 id: bach
 title: "约翰·塞巴斯蒂安·巴赫 · Johann Sebastian Bach"
 type: thinker
-domain: arts
+domain: 艺术
 school: music
 era: early-modern
 birth: 1685
@@ -162,7 +162,7 @@ The *Well-Tempered Clavier* and the *Two- and Three-Part Inventions* remain the 
 
 **3. 认知科学 / Cognitive Science**
 复调聆听被用于研究多声部注意分配、工作记忆的多轨迹追踪，以及人脑如何在同时进行的多个信息流中建构意义——巴赫音乐是"听觉场景分析"研究的理想素材。
-Polyphonic listening is used to study multi-voice attention allocation, multi-track working memory, and how the brain constructs meaning from simultaneously unfolding information streams — Bach's music provides ideal material for "auditory scene analysis" research.
+Polyphonic listening is used to study multi-voice attention allocation, multi-track working memory, and how the brain constructs meaning from simultaneously unfolding information streams — Bach's music provides ideal material for "auditory scene analysis" 研究.
 
 **4. 跨文化对话 / Cross-cultural Dialogue**
 日本与韩国的"巴赫热"显示其宗教音乐在非基督教文化中的广泛共鸣；铃木镇一的小提琴教学法以巴赫作品为核心教材；中国钢琴教育中巴赫作品的地位日益重要。
@@ -202,7 +202,7 @@ The Bach Digital project (Bach Archive Leipzig) is a pioneer in digital humaniti
 
 巴赫的音乐哲学与东方思想传统之间存在若干深刻的平行与对话可能。
 
-Profound parallels and possibilities for dialogue exist between Bach's musical philosophy and Eastern intellectual traditions.
+Profound parallels and possibilities for dialogue exist between Bach's musical 哲学 and Eastern intellectual traditions.
 
 **道家与"无为" / Daoism and Wu-wei**: 巴赫赋格中声部的"自然"流动——每个声部遵循自身逻辑却自发地产生整体和谐——与道家"无为而无不为"的理念形成对照。赋格的严格规则不是外在强制，而是使自由涌现的内在秩序，正如"道"不是规则而是万物运行的自然方式。
 
@@ -222,11 +222,11 @@ Bach's inexhaustible exploration of variations on a single subject parallels the
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **[莱布尼茨 Leibniz](../../../../../philosophy/schools/rationalism/leibniz.md)** `[同源/Co-origin]` 预定和谐与对位秩序——莱布尼茨将音乐定义为"心灵不知不觉地做算术练习"（*Musica est exercitium arithmeticae occultum nescientis se numerare animi*），与巴赫的音乐实践互为印证。
-- **[斯宾诺莎 Spinoza](../../../../../philosophy/schools/rationalism/spinoza.md)** `[平行/Parallel]` 在必然秩序中体会上帝与自然（*Deus sive Natura*）——巴赫的对位宇宙可视为斯宾诺莎"在永恒的形式下"（*sub specie aeternitatis*）观看万物的音乐等价物。
-- **[康德美学 Kant Aesthetics](../../../../../aesthetics/schools/german-aesthetics/kant-aesthetics.md)** `[互补/Complementary]` 无目的的合目的性（*Zweckmäßigkeit ohne Zweck*）与赋格的形式游戏——赋格看似无外在目的，却展现出最高程度的内在合目的性。
-- **[黑格尔美学 Hegel Aesthetics](../../../../../aesthetics/schools/german-aesthetics/hegel-aesthetics.md)** `[发展/Development]` 将巴赫式的内在秩序纳入绝对精神的感性显现——音乐作为"内在性"的艺术，将精神的内容以声音的形式外化。
-- **[毕达哥拉斯传统 Pythagorean Tradition](../../../../../philosophy/schools/ancient-greek/plato.md)** `[同源/Co-origin]` 音乐作为宇宙数学秩序的可听化身——"天球的音乐"（*musica universalis*）概念在巴赫的对位中得到最完美的实现。
+- **[莱布尼茨 Leibniz](../../../../../哲学/学派/理性论/戈特弗里德.md)** `[同源/Co-origin]` 预定和谐与对位秩序——莱布尼茨将音乐定义为"心灵不知不觉地做算术练习"（*Musica est exercitium arithmeticae occultum nescientis se numerare animi*），与巴赫的音乐实践互为印证。
+- **[斯宾诺莎 Spinoza](../../../../../哲学/学派/理性论/巴鲁赫.md)** `[平行/Parallel]` 在必然秩序中体会上帝与自然（*Deus sive Natura*）——巴赫的对位宇宙可视为斯宾诺莎"在永恒的形式下"（*sub specie aeternitatis*）观看万物的音乐等价物。
+- **[康德美学 Kant Aesthetics](../../../../../美学/学派/德国美学/康德美学.md)** `[互补/Complementary]` 无目的的合目的性（*Zweckmäßigkeit ohne Zweck*）与赋格的形式游戏——赋格看似无外在目的，却展现出最高程度的内在合目的性。
+- **[黑格尔美学 Hegel Aesthetics](../../../../../美学/学派/德国美学/黑格尔美学.md)** `[发展/Development]` 将巴赫式的内在秩序纳入绝对精神的感性显现——音乐作为"内在性"的艺术，将精神的内容以声音的形式外化。
+- **[毕达哥拉斯传统 Pythagorean Tradition](../../../../../哲学/学派/古希腊/柏拉图.md)** `[同源/Co-origin]` 音乐作为宇宙数学秩序的可听化身——"天球的音乐"（*musica universalis*）概念在巴赫的对位中得到最完美的实现。
 - **[莫扎特 Mozart](../mozart/)** `[继承/Inherits]` 莫扎特晚期作品中大量运用对位技法（《朱庇特交响曲》终乐章的五声部赋格段），直接受益于对巴赫的研究。
 - **[贝多芬 Beethoven](../beethoven/)** `[继承/Inherits]` 贝多芬自幼研习《平均律钢琴曲集》，其晚期弦乐四重奏与《大赋格》将对位思维推至浪漫主义的边界。
 

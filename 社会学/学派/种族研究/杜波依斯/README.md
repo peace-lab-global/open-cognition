@@ -1,8 +1,8 @@
 ---
-id: sociology.race-studies.du-bois
+id: 社会学.race-studies.du-bois
 title: 杜波依斯 · W.E.B. Du Bois
 type: thinker
-domain: sociology
+domain: 社会学
 school: race-studies
 era: 19th-20th century
 birth: 1868

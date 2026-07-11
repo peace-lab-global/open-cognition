@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.perfect-enlightenment
+id: 宗教.buddhism.sutra.perfect-enlightenment
 title: 圆觉经 Sūtra of Perfect Enlightenment
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [圆觉经, 十二圆觉菩萨, 如来藏, 顿悟渐修, 三观]
@@ -122,11 +122,11 @@ sources: [《大方广圆觉修多罗了义经》（佛陀多罗译）]
 
 ## 跨学科关联
 
-- [胡塞尔 · 现象学还原](../../../philosophy/schools/phenomenology/husserl.md) — [平行] 知幻即离 vs 悬置
-- [皮亚杰 · 认知发展](../../../psychology/schools/cognitive/piaget.md) — [平行] 十二菩萨次第 vs 认知发展阶段
-- [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 圆觉 vs 存在的澄明
-- [罗杰斯 · 来访者中心](../../../psychology/schools/humanistic/rogers.md) — [平行] 四病 vs 治疗师的非干预原则
-- [维果茨基 · 脚手架](../../../psychology/schools/developmental/vygotsky.md) — [平行] 十二菩萨次第 vs 最近发展区
+- [胡塞尔 · 现象学还原](../../../哲学/学派/现象学/胡塞尔.md) — [平行] 知幻即离 vs 悬置
+- [皮亚杰 · 认知发展](../../../心理学/学派/认知心理学/皮亚杰.md) — [平行] 十二菩萨次第 vs 认知发展阶段
+- [海德格尔 · 存在](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 圆觉 vs 存在的澄明
+- [罗杰斯 · 来访者中心](../../../心理学/学派/人本主义/卡尔.md) — [平行] 四病 vs 治疗师的非干预原则
+- [维果茨基 · 脚手架](../../../心理学/学派/发展心理学/列夫.md) — [平行] 十二菩萨次第 vs 最近发展区
 
 ## 进阶阅读
 

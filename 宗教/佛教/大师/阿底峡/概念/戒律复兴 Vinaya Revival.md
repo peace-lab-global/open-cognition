@@ -3,7 +3,7 @@ id: atisha-vinaya-revival
 title: "戒律复兴 Vinaya Revival"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [vinaya, monastic-discipline, Tibetan-reform]
 ---
 # 戒律复兴 / Vinaya Revival

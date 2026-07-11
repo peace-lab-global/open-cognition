@@ -3,7 +3,7 @@ id: yinguang-constant-humility
 title: "常惭愧 Constant Humility: 印光的修行心态与对治我慢"
 type: concept
 parent: yinguang
-domain: religion
+domain: 宗教
 tags: [常惭愧, 惭愧心, 我慢, 修行心态, humility, shame, self-awareness, moral emotion]
 ---
 
@@ -102,7 +102,7 @@ Carol Dweck's "growth mindset" holds that acknowledging one's inadequacies is th
 
 在当代领导力研究中，"谦逊领导力"(humble leadership) 被认为是最高效的领导风格之一。印光的"常惭愧"提供了一种深刻的谦逊哲学：真正的领导者不是觉得自己最厉害的人，而是最清楚自己不足的人。
 
-In contemporary leadership studies, "humble leadership" is recognized as one of the most effective styles. Yinguang's "constant humility" offers a profound philosophy of humility: the true leader is not the one who feels most capable but the one most aware of their limitations.
+In contemporary leadership studies, "humble leadership" is recognized as one of the most effective styles. Yinguang's "constant humility" offers a profound 哲学 of humility: the true leader is not the one who feels most capable but the one most aware of their limitations.
 
 ### 对心理健康的平衡 / Psychological Balance
 

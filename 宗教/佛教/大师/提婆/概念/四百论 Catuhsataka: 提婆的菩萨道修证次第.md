@@ -3,7 +3,7 @@ id: aryadeva-four-hundred-verses
 title: "四百论 Catuhsataka: 提婆的菩萨道修证次第"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [Catuhsataka, four-hundred, bodhisattva-path, viparyasa, darsana, bhavana, Candrakirti, Yogacara]
 ---
 

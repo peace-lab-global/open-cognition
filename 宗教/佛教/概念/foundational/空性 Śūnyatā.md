@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.sunyata
+id: 宗教.buddhism.concept.sunyata
 title: 空性 Śūnyatā
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [空性, Sunyata, 空, 各宗空观, 缘起性空]
@@ -60,9 +60,9 @@ sources: [《般若经》, 《中论》, 《解深密经》, 《大智度论》]
 
 ## 跨学科关联
 
-- [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 对实体化存在的解构
-- [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] 对概念固化的批判
-- [量子力学 · 不确定性](../../../cognitive-systems) — [平行] 观察者与被观察者的不可分离
+- [海德格尔 · 存在](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 对实体化存在的解构
+- [维特根斯坦 · 语言游戏](../../../哲学/学派/分析哲学/维特根斯坦.md) — [平行] 对概念固化的批判
+- [量子力学 · 不确定性](../../../认知系统) — [平行] 观察者与被观察者的不可分离
 
 ## 进阶阅读
 

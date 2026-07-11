@@ -2,7 +2,7 @@
 id: leibniz
 title: 戈特弗里德·莱布尼茨 · Gottfried Wilhelm Leibniz
 type: thinker
-domain: philosophy
+domain: 哲学
 school: rationalism
 era: early-modern
 birth: 1646
@@ -69,11 +69,11 @@ Gottfried Wilhelm Leibniz (1 July 1646 – 14 November 1716) was a German philos
 
 莱布尼茨出生于莱比锡的一个学术家庭，父亲弗里德里希·莱布尼茨是莱比锡大学的道德哲学教授。父亲在他六岁时去世，但留下了丰富的藏书，小莱布尼茨几乎是无师自通地涉猎了古典文献、经院哲学和近代思想。1661年（年仅15岁）进入莱比锡大学学习哲学和法律，1666年完成博士论文《论组合术》（*De Arte Combinatoria*）。由于过于年轻，莱比锡大学拒绝授予他博士学位，他转而在阿尔特多夫大学获得法学博士。
 
-Leibniz was born in Leipzig to an academic family; his father Friedrich Leibniz was professor of moral philosophy at Leipzig University. His father died when Gottfried was six but left a rich library, from which the young Leibniz was largely self-taught, devouring classical literature, scholastic philosophy, and modern thought. In 1661 (aged 15) he entered Leipzig University to study philosophy and law, completing his doctoral dissertation *De Arte Combinatoria* in 1666. Deemed too young, Leipzig refused his doctorate; he obtained it from the University of Altdorf instead.
+Leibniz was born in Leipzig to an academic family; his father Friedrich Leibniz was professor of moral 哲学 at Leipzig University. His father died when Gottfried was six but left a rich library, from which the young Leibniz was largely self-taught, devouring classical literature, scholastic philosophy, and modern thought. In 1661 (aged 15) he entered Leipzig University to study 哲学 and law, completing his doctoral dissertation *De Arte Combinatoria* in 1666. Deemed too young, Leipzig refused his doctorate; he obtained it from the University of Altdorf instead.
 
 1672年至1676年，莱布尼茨出使巴黎，在这座欧洲的知识之都结识了惠更斯、阿尔诺、马勒伯朗士等杰出学者，并在数学和哲学上取得了突破性进展——正是在巴黎期间，他发展出了微积分理论。1676年，他在返回德国途中访问了海牙，与斯宾诺莎进行了为期数日的深入交谈。此后他定居汉诺威，为不伦瑞克-吕讷堡公爵服务，担任图书馆长、矿业顾问和外交官。他一生的大部分时间都在汉诺威度过，同时频繁出使欧洲各地。1716年，他在汉诺威去世，葬礼极为简朴——据说只有一位秘书出席。
 
-From 1672 to 1676, Leibniz served as a diplomat in Paris, where he met leading scholars including Huygens, Arnauld, and Malebranche, and made breakthrough advances in mathematics and philosophy — it was in Paris that he developed calculus. In 1676, returning to Germany via The Hague, he spent several days in deep conversation with Spinoza. He then settled in Hanover, serving the Dukes of Brunswick-Lüneburg as librarian, mining consultant, and diplomat. He spent most of his life in Hanover while frequently traveling on diplomatic missions across Europe. He died in Hanover in 1716, with a notably sparse funeral — reportedly attended by only one secretary.
+From 1672 to 1676, Leibniz served as a diplomat in Paris, where he met leading scholars including Huygens, Arnauld, and Malebranche, and made breakthrough advances in mathematics and 哲学 — it was in Paris that he developed calculus. In 1676, returning to Germany via The Hague, he spent several days in deep conversation with Spinoza. He then settled in Hanover, serving the Dukes of Brunswick-Lüneburg as librarian, mining consultant, and diplomat. He spent most of his life in Hanover while frequently traveling on diplomatic missions across Europe. He died in Hanover in 1716, with a notably sparse funeral — reportedly attended by only one secretary.
 
 ## 核心命题 / Core Theses
 
@@ -133,13 +133,13 @@ After settling in Hanover, Leibniz continued philosophical reflection alongside 
 
 1695年，他首次在公开出版物中使用"前定和谐体系"（système de l'harmonie préétablie）这一术语来命名他的身心关系理论。1698年，他在《新体系》（*Système nouveau*）中向更广泛的读者介绍了他的哲学。
 
-In 1695, he first used the term "system of pre-established harmony" (système de l'harmonie préétablie) in a public publication to name his mind-body theory. In 1698, his *New System* (*Système nouveau*) introduced his philosophy to a wider audience.
+In 1695, he first used the term "system of pre-established harmony" (système de l'harmonie préétablie) in a public publication to name his mind-body theory. In 1698, his *New System* (*Système nouveau*) introduced his 哲学 to a wider audience.
 
 ### 晚期：最终表述 · Late Period: Final Formulations (1700–1716)
 
 莱布尼茨的最后十六年是他最知名的哲学著作的产出期。1710年出版的《神义论》（*Essais de Théodicée*）是他生前唯一出版的哲学书籍，系统论述了恶的问题和"最好世界"理论。1714年，他为友人雷蒙（Remond）撰写了《单子论》（*Monadologie*）和《自然与神恩原理》（*Principes de la nature et de la grâce*），以最简洁的形式总结了他的整个哲学体系。
 
-Leibniz's final sixteen years produced his most famous philosophical works. The *Theodicy* (*Essais de Théodicée*, 1710), his only philosophy book published in his lifetime, systematically addressed the problem of evil and the "best world" theory. In 1714, he wrote the *Monadology* (*Monadologie*) and *Principles of Nature and Grace* (*Principes de la nature et de la grâce*) for his friend Remond, summarizing his entire philosophical system in its most concise form.
+Leibniz's final sixteen years produced his most famous philosophical works. The *Theodicy* (*Essais de Théodicée*, 1710), his only 哲学 book published in his lifetime, systematically addressed the problem of evil and the "best world" theory. In 1714, he wrote the *Monadology* (*Monadologie*) and *Principles of Nature and Grace* (*Principes de la nature et de la grâce*) for his friend Remond, summarizing his entire philosophical system in its most concise form.
 
 他生命的最后两年被与克拉克（Samuel Clarke，牛顿的代表）关于空间和时间的著名通信所占据——莱布尼茨主张关系论的空间观（空间是事物之间关系的秩序），反对牛顿的绝对空间观。1716年11月14日，莱布尼茨在汉诺威去世。由于他与汉诺威选帝侯（后来的英国国王乔治一世）的关系恶化，他的葬礼极为简朴。
 
@@ -174,11 +174,11 @@ His final two years were dominated by the famous correspondence with Samuel Clar
 
 莱布尼茨在哲学史上的地位独特而复杂。作为大陆理性主义三大代表之一，他与笛卡尔和斯宾诺莎共同构成了近代哲学的理性主义支柱，但他的进路与前两者截然不同。他拒绝了笛卡尔的身心二元论（代之以前定和谐），拒绝了斯宾诺莎的实体一元论（代之以单子多元论），同时也批判了洛克的经验主义（《人类理智新论》是对洛克《人类理解论》的系统回应）。
 
-Leibniz occupies a unique and complex position in the history of philosophy. As one of the three great continental rationalists, he forms with Descartes and Spinoza the rationalist pillar of modern philosophy, but his approach differs fundamentally from both. He rejected Descartes's mind-body dualism (replacing it with pre-established harmony), rejected Spinoza's substance monism (replacing it with monadic pluralism), and simultaneously critiqued Locke's empiricism (*New Essays on Human Understanding* is a systematic response to Locke's *Essay Concerning Human Understanding*).
+Leibniz occupies a unique and complex position in the history of 哲学. As one of the three great continental rationalists, he forms with Descartes and Spinoza the rationalist pillar of modern philosophy, but his approach differs fundamentally from both. He rejected Descartes's mind-body dualism (replacing it with pre-established harmony), rejected Spinoza's substance monism (replacing it with monadic pluralism), and simultaneously critiqued Locke's empiricism (*New Essays on Human Understanding* is a systematic response to Locke's *Essay Concerning Human Understanding*).
 
 他的思想遗产极为广泛。在哲学上，他的"可能世界"概念在20世纪通过克里普克（Kripke）和刘易斯（Lewis）的模态实在论成为分析哲学的核心工具。他的充足理由律影响了从沃尔夫到康德的整个德国哲学传统。在数学上，他独立发明的微积分符号系统（dx, ∫）被全世界沿用至今。在计算机科学上，他的二进制算术和"普遍特征术"的构想被视为计算理论的先驱。
 
-His intellectual legacy is extraordinarily broad. Philosophically, his "possible worlds" concept became a central tool of analytic philosophy through Kripke's and Lewis's modal realism in the 20th century. His principle of sufficient reason influenced the entire German philosophical tradition from Wolff to Kant. In mathematics, his independently invented calculus notation (dx, ∫) is still used worldwide. In computer science, his binary arithmetic and the vision of a "universal characteristic" are considered precursors of computation theory.
+His intellectual legacy is extraordinarily broad. Philosophically, his "possible worlds" concept became a central tool of analytic 哲学 through Kripke's and Lewis's modal realism in the 20th century. His principle of sufficient reason influenced the entire German philosophical tradition from Wolff to Kant. In mathematics, his independently invented calculus notation (dx, ∫) is still used worldwide. In computer science, his binary arithmetic and the vision of a "universal characteristic" are considered precursors of computation theory.
 
 ## 当代应用 / Contemporary Applications
 
@@ -195,7 +195,7 @@ His intellectual legacy is extraordinarily broad. Philosophically, his "possible
 2. **AI & Computation Theory**: Leibniz's "universal characteristic" and "calculus ratiocinator" are considered precursors of symbolic AI and formalized reasoning. His binary arithmetic directly underpins modern digital computation.
 3. **Philosophy of Quantum Mechanics**: Leibniz's relational view of space is newly relevant — certain interpretations of relativity and quantum mechanics favor relationalism over absolutism.
 4. **Philosophy of Mind**: The monadological "windowless" concept dialogues anew with the "hard problem" of consciousness, qualia, and private language arguments.
-5. **Theodicy & Ethics**: Leibniz's philosophical treatment of evil remains active in contemporary philosophy of religion, especially in "soul-making" theodicy and free-will defenses.
+5. **Theodicy & Ethics**: Leibniz's philosophical treatment of evil remains active in contemporary 哲学 of religion, especially in "soul-making" theodicy and free-will defenses.
 6. **Complexity Science**: Leibniz's "principle of continuity" and "maximum diversity with maximum order" find new meaning in contemporary complexity and optimization theory.
 7. **Knowledge Graphs & Semantic Networks**: The "universal characteristic" — representing all knowledge in standardized symbols — is a conceptual precursor of knowledge graphs and semantic networks.
 8. **Pluralist Political Philosophy**: The monadological idea that "infinitely many perspectives together constitute a harmonious universe" provides metaphysical grounding for contemporary pluralism and coexistence of difference.

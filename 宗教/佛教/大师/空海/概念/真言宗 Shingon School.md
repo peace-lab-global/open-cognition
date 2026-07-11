@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.kukai.concept.shingon
+id: 宗教.buddhism.master.kukai.concept.shingon
 title: 真言宗 Shingon School
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
 tags: [真言宗, 东密, 高野山, 东寺, Shingon, Tōmitsu, Kōyasan]
@@ -171,7 +171,7 @@ Contemporary Shingon Buddhism faces challenges including:
 - **国际传播**：真言宗在北美和欧洲建立了少量道场，但规模远小于禅宗和净土宗。
   **International Propagation**: Shingon has established some temples in North America and Europe, though on a far smaller scale than Zen or Pure Land Buddhism.
 - **学术复兴**：近年来，对空海哲学（特别是语言哲学和十住心论）的学术研究日益活跃，为真言宗提供了新的思想活力。
-  **Academic Revival**: In recent years, academic research on Kūkai's philosophy (especially his philosophy of language and the Ten Stages) has become increasingly active, providing new intellectual vitality for Shingon Buddhism.
+  **Academic Revival**: In recent years, academic 研究 on Kūkai's 哲学 (especially his 哲学 of language and the Ten Stages) has become increasingly active, providing new intellectual vitality for Shingon Buddhism.
 
 ## 导航 · Navigation
 

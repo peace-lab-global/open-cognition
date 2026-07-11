@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin.concepts.post-awakening
+id: 宗教.buddhism.masters.hakuin.concepts.post-awakening
 title: 悟后修行 Post-Awakening Cultivation
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
 tags: [悟后修行, post-awakening, 白隐, Hakuin, 牧牛, ox-herding, 保任, 临济宗]
@@ -94,7 +94,7 @@ Hakuin's "post-awakening cultivation" forms deep dialogue with several contempor
   Hakuin's "eighteen great awakenings" implies that capacity can be deepened through continued effort — directly opposing the fixed mindset ("I'm already awakened, no need to learn more").
 
 - **日本改善哲学 Kaizen Philosophy**：白隐的"悟后牧牛"与日本的"改善"（kaizen）精神高度共振——持续的小幅改进，永无止境。
-  Hakuin's "post-awakening ox-herding" deeply resonates with Japanese *kaizen* philosophy — continuous incremental improvement, never-ending.
+  Hakuin's "post-awakening ox-herding" deeply resonates with Japanese *kaizen* 哲学 — continuous incremental improvement, never-ending.
 
 - **德雷福斯技能获取模型 Dreyfus Model of Skill Acquisition**：从新手→高级初学者→胜任者→精通者→专家的递进，与白隐从初悟→深悟→大悟→透过法身的递进有结构性对应。
   The progression from novice → advanced beginner → competent → proficient → expert structurally corresponds to Hakuin's progression from initial awakening → deep awakening → great awakening → penetrating the dharma-body.

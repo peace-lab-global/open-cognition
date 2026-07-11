@@ -1,7 +1,7 @@
 ---
 name: cognitive-system-design
 description: 设计人机协作的认知系统——功能分配、自动化层级、信任校准和界面设计，综合 Norman、Woods 和 Simon 的理论。Triggers on requests to design human-AI collaboration, automation strategies, or cognitive system architectures.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/cognitive-engineering/norman.md
 linked_concepts:
   - ../../concepts/joint-cognitive-system.md

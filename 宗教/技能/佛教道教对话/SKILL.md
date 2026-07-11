@@ -1,12 +1,12 @@
 ---
 name: buddhism-taoism-dialogue
 description: Triggers on requests to 佛教-道教对话、宗教比较、东方哲学，如跨宗教理解、灵性探索、哲学思考等。Apply this skill to facilitate dialogue between Buddhism and Taoism, finding common ground and differences.
-domain: religion
+domain: 宗教
 linked_thinker: 
   - ../../wisdom-masters/masters/thailand/buddhadasa.md
   - ../../traditions/taoism/masters/laozi.md
 linked_concepts:
-  - ../../religion/concepts/dependent-origination.md
+  - ../../宗教/概念/dependent-origination.md
   - ../../traditions/taoism/wuwei.md
 tags:
   - 佛教-道教对话

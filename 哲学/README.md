@@ -134,7 +134,7 @@
 
 ## 关联 Skills
 
-详见 [philosophy/skills/](./skills/)。
+详见 [哲学/skills/](./skills/)。
 
 - [苏格拉底诘问](./skills/socratic-questioning/SKILL.md)
 - [辩证法分析](./skills/dialectical-analysis/SKILL.md)

@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.safety-science.perrow
+id: 认知系统.safety-science.perrow
 title: 查尔斯·佩罗 Charles Perrow
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: safety-science
 era: modern
 birth: 1925

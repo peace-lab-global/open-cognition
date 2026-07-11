@@ -1,7 +1,7 @@
 ---
 name: goffman-dramaturgy
 description: Triggers when a user struggles with self-presentation across different contexts (work meetings, social media, family vs friends), feels exhausted by "performing", or analyzes why an interaction went awkwardly. Apply this skill to map the front/back stage, audiences, and impression management at play rather than moralizing about authenticity.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/interactionism/goffman.md
 tags:
   - self
@@ -117,5 +117,5 @@ tags:
 ## 关联条目
 
 - 思想家：[戈夫曼](../../schools/interactionism/goffman.md)
-- 跨学科：[语言游戏](../../../philosophy/concepts/dialectics.md)（不同场景的不同规则）
-- 相关 Skill：[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)、[语言游戏分析](../../../philosophy/skills/language-game-analysis/SKILL.md)
+- 跨学科：[语言游戏](../../../哲学/概念/辩证法.md)（不同场景的不同规则）
+- 相关 Skill：[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)、[语言游戏分析](../../../哲学/技能/语言游戏分析/SKILL.md)

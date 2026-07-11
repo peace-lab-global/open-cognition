@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.masters.milarepa.concepts.spiritual-songs
+id: 宗教.buddhism.masters.milarepa.concepts.spiritual-songs
 title: 道歌 Spiritual Songs (Dohā)
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
-parent: religion.buddhism.masters.milarepa
+parent: 宗教.buddhism.masters.milarepa
 tags: [道歌, doha, spiritual songs, 密勒日巴, 诗歌, poetry, oral transmission]
 ---
 

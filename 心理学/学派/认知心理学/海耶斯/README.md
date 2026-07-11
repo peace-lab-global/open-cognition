@@ -1,5 +1,5 @@
 ---
-id: psychology.cognitive.hayes
+id: 心理学.cognitive.hayes
 title: "海耶斯 · Steven Hayes"
 type: thinker
 school: cognitive
@@ -12,7 +12,7 @@ concepts:
   - defusion
   - values
 tags:
-  - psychology
+  - 心理学
   - cognitive-behavioral
   - contextual-behavioral-science
   - third-wave-CBT

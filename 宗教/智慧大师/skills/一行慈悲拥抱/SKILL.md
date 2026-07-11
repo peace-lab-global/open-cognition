@@ -147,4 +147,4 @@ tags:
 - 祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
 - 概念：[慈悲](./concepts/compassion.md)（待建）
 - 相关Skill：[一行正念呼吸](./thich-nhat-hanh-mindful-breathing/SKILL.md)
-- 跨传统：[罗杰斯·共情理解](../../psychology/schools/humanistic/rogers.md)（平行）——两者都通过"看到对方的内在痛苦"来转化关系
+- 跨传统：[罗杰斯·共情理解](../../心理学/学派/人本主义/卡尔.md)（平行）——两者都通过"看到对方的内在痛苦"来转化关系

@@ -3,7 +3,7 @@ id: ashvaghosha-buddhist-poetry
 title: "佛教文学 Buddhist Literary Art"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [buddhist-literature, Sanskrit-poetry]
 ---
 # 佛教文学 / Buddhist Literary Art

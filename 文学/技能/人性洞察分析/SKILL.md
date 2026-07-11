@@ -1,11 +1,11 @@
 ---
 name: human-nature-analysis
 description: Triggers on requests to 人性洞察、心理分析、文学分析，如理解人性、分析人物、文学批评等。Apply this skill to analyze human nature using Shakespeare's insights, understanding the complexity of human motivations and behaviors.
-domain: literature
+domain: 文学
 linked_thinker: ../../schools/dramatists/shakespeare.md
 linked_concepts:
-  - ../../literature/concepts/human-insight.md
-  - ../../literature/concepts/dramatic-conflict.md
+  - ../../文学/概念/human-insight.md
+  - ../../文学/概念/dramatic-conflict.md
 tags:
   - 人性洞察
   - 心理分析
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[威廉·莎士比亚](../../schools/dramatists/shakespeare.md)
 - 概念：[人性洞察](../../concepts/human-insight.md)、[戏剧冲突](../../concepts/dramatic-conflict.md)
-- 相关 Skill：[unconscious-analysis](../../psychology/skills/unconscious-analysis/SKILL.md)、[existentialism-analysis](../../philosophy/skills/existentialism-analysis/SKILL.md)
+- 相关 Skill：[unconscious-analysis](../../心理学/技能/潜意识分析/SKILL.md)、[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)

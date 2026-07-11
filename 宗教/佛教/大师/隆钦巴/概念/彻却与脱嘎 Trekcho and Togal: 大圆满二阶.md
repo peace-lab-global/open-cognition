@@ -3,7 +3,7 @@ id: longchenpa-tregal-thogal
 title: "彻却与脱嘎 Trekcho and Togal: 大圆满二阶"
 type: concept
 parent: longchenpa
-domain: religion
+domain: 宗教
 tags: [trekcho, togal, Dzogchen, Nyingma]
 ---
 # 彻却与脱嘎 / Trekcho and Togal

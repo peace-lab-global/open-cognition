@@ -1,8 +1,8 @@
 ---
-id: sociology.modernity.bauman
+id: 社会学.modernity.bauman
 title: 鲍曼 · Zygmunt Bauman
 type: thinker
-domain: sociology
+domain: 社会学
 school: modernity
 era: 20th-21st century
 birth: 1925

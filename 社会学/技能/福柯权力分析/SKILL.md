@@ -1,7 +1,7 @@
 ---
 name: foucault-power-analysis
 description: Triggers when a user describes a system or institution (school, hospital, app, workplace) where power seems to operate not through commands but through routines, metrics, defaults, and "the way things are done". Apply this skill to surface the discipline-knowledge-subject triangle rather than treating power as merely top-down command.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/structuralism/foucault.md
 linked_concepts:
   - ../../concepts/discipline.md
@@ -114,4 +114,4 @@ tags:
 
 - 思想家：[福柯](../../schools/structuralism/foucault.md)
 - 概念：[规训](../../concepts/discipline.md)、[文化资本](../../concepts/cultural-capital.md)
-- 相关 Skill：[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)、[辩证法分析](../../../philosophy/skills/dialectical-analysis/SKILL.md)
+- 相关 Skill：[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)、[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)

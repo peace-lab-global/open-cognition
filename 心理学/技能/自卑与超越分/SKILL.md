@@ -1,11 +1,11 @@
 ---
 name: inferiority-transcendence
 description: Triggers on requests to 自卑感、超越自卑、个人成长，如自我提升、自信心培养、人生目标设定等。Apply this skill to help users understand and transcend feelings of inferiority, using them as motivation for growth.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/individual-psychology/adler.md
 linked_concepts:
-  - ../../psychology/concepts/inferiority-complex.md
-  - ../../psychology/concepts/social-interest.md
+  - ../../心理学/概念/inferiority-complex.md
+  - ../../心理学/概念/social-interest.md
 tags:
   - 自卑感
   - 超越自卑

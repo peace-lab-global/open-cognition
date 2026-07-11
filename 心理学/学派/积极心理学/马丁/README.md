@@ -2,7 +2,7 @@
 id: seligman-martin
 title: "马丁·塞利格曼 · Martin Seligman"
 type: thinker
-domain: psychology
+domain: 心理学
 school: positive
 era: contemporary
 birth: 1942
@@ -57,7 +57,7 @@ sub_entries:
 | **全名 / Full Name** | 马丁·伊莱·彼得·塞利格曼 / Martin Eli Peter Seligman |
 | **生卒 / Birth–Death** | 1942年8月12日生于美国纽约州奥尔巴尼 / Born August 12, 1942, Albany, New York |
 | **国籍 / Nationality** | 美国 / American |
-| **学术身份 / Academic Identity** | 心理学家、积极心理学运动发起人 / Psychologist, founder of the positive psychology movement |
+| **学术身份 / Academic Identity** | 心理学家、积极心理学运动发起人 / Psychologist, founder of the positive 心理学 movement |
 | **主要职位 / Primary Position** | 宾夕法尼亚大学 Zellerbach Family Professor of Psychology |
 | **所属机构 / Institution** | 宾夕法尼亚大学积极心理学中心（创始主任）/ Penn Positive Psychology Center (founding director) |
 | **重要职务 / Key Roles** | 美国心理学会（APA）主席（1998）/ President, American Psychological Association (1998) |
@@ -71,7 +71,7 @@ sub_entries:
 
 心理学在过去半个世纪过度聚焦于疾病、障碍和修复——变成了一门「受害者学」（victimology）。塞利格曼主张：心理学同样应当研究什么使生活值得过——幸福、优势、美德、意义和繁荣。这不是替代传统心理学，而是使之完整。
 
-Psychology in the past half-century became excessively focused on pathology—what Seligman calls a "victimology." He argues that psychology must equally study what makes life worth living—happiness, strengths, virtues, meaning, and flourishing. This is not a replacement for traditional psychology but its completion.
+Psychology in the past half-century became excessively focused on pathology—what Seligman calls a "victimology." He argues that 心理学 must equally study what makes life worth living—happiness, strengths, virtues, meaning, and flourishing. This is not a replacement for traditional 心理学 but its completion.
 
 ### 2. 无助是习得的，乐观也是 / Helplessness Is Learned, and So Is Optimism
 
@@ -101,7 +101,7 @@ Learned optimism is not blind positive thinking. It is choosing more flexible, c
 
 积极心理学的核心实践——感恩练习、优势运用、乐观训练——已被证明能预防抑郁症的复发、提升心理韧性。从「治疗已病」走向「预防未病」，是积极心理学对公共心理健康最深刻的贡献。
 
-Core positive psychology practices—gratitude exercises, strengths use, optimism training—have been shown to prevent depression relapse and enhance psychological resilience. Moving from "treating illness" to "preventing illness" is positive psychology's most profound contribution to public mental health.
+Core positive 心理学 practices—gratitude exercises, strengths use, optimism training—have been shown to prevent depression relapse and enhance psychological resilience. Moving from "treating illness" to "preventing illness" is positive psychology's most profound contribution to public mental health.
 
 ---
 
@@ -115,13 +115,13 @@ In 1967, Seligman and Steven Maier conducted the famous "shuttle-box experiment"
 
 塞利格曼随后将研究扩展到人类：发现人面对不可控事件时的反应取决于「解释风格」——悲观者倾向于内部的、稳定的、普遍的归因（「都是我的错，永远如此，一切皆然」），而乐观者倾向于外部的、暂时的、特定的归因。1990年出版的《习得性乐观》（*Learned Optimism*）将这一理论转化为可操作的认知训练技术。
 
-Seligman then extended the research to humans, discovering that responses to uncontrollable events depend on "explanatory style"—pessimists tend toward internal, stable, global attributions ("It's all my fault, always will be, everything is like this"), while optimists tend toward external, temporary, specific ones. *Learned Optimism* (1990) translated this theory into actionable cognitive training techniques.
+Seligman then extended the 研究 to humans, discovering that responses to uncontrollable events depend on "explanatory style"—pessimists tend toward internal, stable, global attributions ("It's all my fault, always will be, everything is like this"), while optimists tend toward external, temporary, specific ones. *Learned Optimism* (1990) translated this theory into actionable cognitive training techniques.
 
 ### 第二期：积极心理学运动（1996–2008）/ Phase II: The Positive Psychology Movement (1996–2008)
 
 1998年当选APA主席后，塞利格曼将「积极心理学」确立为其任期的核心议程。1999年，他与米哈里·齐克森米哈伊（Mihaly Csikszentmihalyi）在墨西哥的Akumal会议中达成共识，2000年在《美国心理学家》（*American Psychologist*）发表联合宣言，正式发起积极心理学运动。
 
-After being elected APA president in 1998, Seligman made "positive psychology" his central agenda. In 1999, he and Mihaly Csikszentmihalyi reached consensus at the Akumal conference in Mexico, publishing their joint manifesto in *American Psychologist* (2000), formally launching the positive psychology movement.
+After being elected APA president in 1998, Seligman made "positive psychology" his central agenda. In 1999, he and Mihaly Csikszentmihalyi reached consensus at the Akumal conference in Mexico, publishing their joint manifesto in *American Psychologist* (2000), formally launching the positive 心理学 movement.
 
 这一时期的核心成果包括：① 提出积极心理学的三大支柱——积极体验、积极特质、积极制度；② 与彼得森合作编纂《性格优势与美德》（2004），被誉为「积极心理学的DSM」；③ 2002年出版《真实幸福》（*Authentic Happiness*），提出幸福的三维度模型（愉悦的生活、投入的生活、有意义的生活）。
 
@@ -147,7 +147,7 @@ During this period, Seligman also engaged deeply in applied projects: co-develop
 | 1990 | *Learned Optimism: How to Change Your Mind and Your Life* | 解释风格理论与习得性乐观训练 / Explanatory style theory and learned optimism training |
 | 1991 | *The Optimistic Child* | 儿童乐观教育——预防抑郁 / Children's optimism education—depression prevention |
 | 1995 | *What You Can Change and What You Can't* | 心理改变的边界——自我改善的科学指南 / Boundaries of psychological change |
-| 2000 | "Positive Psychology: An Introduction"（与Csikszentmihalyi合著） | 积极心理学运动宣言 / Positive psychology movement manifesto |
+| 2000 | "Positive Psychology: An Introduction"（与Csikszentmihalyi合著） | 积极心理学运动宣言 / Positive 心理学 movement manifesto |
 | 2002 | *Authentic Happiness* | 幸福三维度：愉悦、投入、意义 / Three dimensions of happiness |
 | 2004 | *Character Strengths and Virtues*（与Peterson合著） | 24种性格优势与六大美德分类 / 24 character strengths and six virtues classification |
 | 2011 | *Flourish: A Visionary New Understanding of Happiness and Well-being* | PERMA模型——从幸福到蓬勃发展 / PERMA model—from happiness to flourishing |
@@ -170,7 +170,7 @@ An individual's habitual way of explaining event causes, across three dimensions
 ### 3. 积极心理学 / Positive Psychology
 用科学方法研究使生活值得过的因素——积极体验、积极特质和积极制度。不是替代传统心理学，而是使之完整。详见 [→ concepts/positive-psychology](concepts/positive-psychology.md)。
 
-The scientific study of what makes life worth living—positive experiences, positive traits, and positive institutions. Not a replacement for traditional psychology but its completion. See [→ concepts/positive-psychology](concepts/positive-psychology.md).
+The scientific study of what makes life worth living—positive experiences, positive traits, and positive institutions. Not a replacement for traditional 心理学 but its completion. See [→ concepts/positive-psychology](concepts/positive-psychology.md).
 
 ### 4. PERMA幸福模型 / PERMA Well-being Model
 幸福的五个不可化约维度：积极情绪（P）、投入（E）、关系（R）、意义（M）、成就（A）。蓬勃发展是五个维度的综合实现。详见 [→ concepts/well-being-theory](concepts/well-being-theory.md)。
@@ -221,7 +221,7 @@ Central to Seligman's later thought: humans are driven not only by the past but 
 ```
 行为主义 Behaviorism ←———— Seligman ————→ 人本主义 Humanism
 （习得性无助的实验基础）           （积极心理学运动）       （Maslow, Rogers）
-(Experimental basis of             (Positive psychology      (Maslow, Rogers)
+(Experimental basis of             (Positive 心理学      (Maslow, Rogers)
  learned helplessness)              movement)
             ↕                          ↕
       认知治疗 CBT               存在主义 Existential
@@ -230,7 +230,7 @@ Central to Seligman's later thought: humans are driven not only by the past but 
 ```
 
 - **同源 / Co-origin**: 齐克森米哈伊 Csikszentmihalyi — 共同发起积极心理学运动；PERMA中的E（投入）直接来自其心流理论 / Co-founded positive psychology; PERMA's E (Engagement) derives directly from his flow theory
-- **发展 / Development**: 马斯洛 Maslow — 积极心理学可视为对马斯洛人本主义的「科学化」/ Positive psychology as "scientification" of Maslow's humanism
+- **发展 / Development**: 马斯洛 Maslow — 积极心理学可视为对马斯洛人本主义的「科学化」/ Positive 心理学 as "scientification" of Maslow's humanism
 - **互补 / Complementary**: 弗兰克尔 Frankl — PERMA中的M（意义）直接继承意义治疗传统 / PERMA's M (Meaning) inherits the logotherapy tradition
 - **互补 / Complementary**: 贝克 Beck — 解释风格理论与认知三角有结构性相似；反驳技术来自CBT / Explanatory style theory structurally parallels Beck's cognitive triad
 - **先驱 / Precursor**: 亚里士多德 Aristotle — eudaimonia（繁荣）概念是PERMA的哲学根基 / Eudaimonia concept is the philosophical root of PERMA
@@ -247,12 +247,12 @@ PERMA and character strengths are applied in schools worldwide—Geelong Grammar
 ### 2. 军队韧性训练 / Military Resilience Training
 塞利格曼与美国军方合作的「全面士兵健康」（CSF）项目覆盖110万士兵，基于习得性乐观和PERMA模型进行心理韧性训练。这是积极心理学最大规模的应用项目。
 
-Seligman's "Comprehensive Soldier Fitness" (CSF) program with the U.S. military covers 1.1 million soldiers, delivering resilience training based on learned optimism and the PERMA model—the largest-scale application of positive psychology.
+Seligman's "Comprehensive Soldier Fitness" (CSF) program with the U.S. military covers 1.1 million soldiers, delivering resilience training based on learned optimism and the PERMA model—the largest-scale application of positive 心理学.
 
 ### 3. 临床心理学 / Clinical Psychology
 积极心理学干预（感恩拜访、三件好事、优势运用）被证明对抑郁和焦虑有显著效果，可作为传统认知行为治疗的补充。
 
-Positive psychology interventions (gratitude visits, three good things, strengths use) have proven effective for depression and anxiety, serving as complements to traditional CBT.
+Positive 心理学 interventions (gratitude visits, three good things, strengths use) have proven effective for depression and anxiety, serving as complements to traditional CBT.
 
 ### 4. 组织管理 / Organizational Management
 员工优势识别和PERMA在工作场所的应用催生了「积极组织行为学」（Positive Organizational Behavior）。关注员工蓬勃发展而非仅关注绩效。
@@ -272,21 +272,21 @@ Seligman's later work integrates PERMA with big data and AI, developing digital 
 ### 7. 积极老龄化 / Positive Aging
 将PERMA框架应用于老年人群体——研究表明积极心理学干预对老年人的生活满意度和心理健康有显著改善效果。
 
-Applying the PERMA framework to elderly populations—research shows positive psychology interventions significantly improve life satisfaction and mental health in older adults.
+Applying the PERMA framework to elderly populations—research shows positive 心理学 interventions significantly improve life satisfaction and mental health in older adults.
 
 ### 8. 积极心理治疗 / Positive Psychotherapy (PPT)
 Tayyab Rashid与塞利格曼合作开发的积极心理治疗方案（14个疗程），将传统CBT技术与积极心理学干预结合，对轻度至中度抑郁症效果显著。
 
-Tayyab Rashid and Seligman co-developed Positive Psychotherapy (PPT, 14 sessions), integrating traditional CBT techniques with positive psychology interventions, showing significant effects for mild-to-moderate depression.
+Tayyab Rashid and Seligman co-developed Positive Psychotherapy (PPT, 14 sessions), integrating traditional CBT techniques with positive 心理学 interventions, showing significant effects for mild-to-moderate depression.
 
 ---
 
 ## 常见误读 / Common Misconceptions
 
-### ❌ "积极心理学就是正向思维 / Positive psychology is just positive thinking"
+### ❌ "积极心理学就是正向思维 / Positive 心理学 is just positive thinking"
 **✅ 纠正**：积极心理学是用科学方法研究人类优势和繁荣的严肃学科，不是「只看好的一面」。它有严格的实证基础，包括对负面事件的深入研究（如习得性无助本身就是关于痛苦的）。
 
-Positive psychology is a rigorous scientific discipline studying human strengths and flourishing, not "looking only at the bright side." It has strong empirical foundations and includes deep research on negative events (learned helplessness itself is about suffering).
+Positive 心理学 is a rigorous scientific discipline studying human strengths and flourishing, not "looking only at the bright side." It has strong empirical foundations and includes deep 研究 on negative events (learned helplessness itself is about suffering).
 
 ### ❌ "PERMA就是让人更快乐 / PERMA is about making people happier"
 **✅ 纠正**：PERMA的五个维度不可化约为「快乐」。投入（flow）在经历时往往没有情绪体验；意义可能伴随痛苦（如照顾重病的家人）；成就不一定带来快乐。蓬勃发展比快乐更丰富。
@@ -298,10 +298,10 @@ PERMA's five dimensions cannot be reduced to "happiness." Engagement (flow) ofte
 
 Learned optimism is choosing more flexible interpretations after accurately assessing reality—not self-deception. Seligman explicitly notes that in high-risk situations (pilots, surgeons), moderate pessimism is actually safer.
 
-### ❌ "积极心理学忽视疾病和痛苦 / Positive psychology ignores illness and suffering"
+### ❌ "积极心理学忽视疾病和痛苦 / Positive 心理学 ignores illness and suffering"
 **✅ 纠正**：塞利格曼反复强调积极心理学是传统心理学的补充而非替代。完整的心理学既需要治疗疾病，也需要促进繁荣。塞利格曼本人的学术生涯就是从研究痛苦（习得性无助）开始的。
 
-Seligman repeatedly emphasizes that positive psychology complements, not replaces, traditional psychology. Complete psychology must both treat illness and promote flourishing. Seligman's own career began by studying suffering (learned helplessness).
+Seligman repeatedly emphasizes that positive 心理学 complements, not replaces, traditional 心理学. Complete 心理学 must both treat illness and promote flourishing. Seligman's own career began by studying suffering (learned helplessness).
 
 ---
 
@@ -330,8 +330,8 @@ Zhuangzi advocates "free and easy wandering"—transcending worldly judgments of
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **教育学 Education**: 积极教育运动——PERMA和性格优势在学校中的系统应用 / Positive education movement—systematic application of PERMA and strengths in schools
-- **经济学 Economics**: 主观幸福感研究——行为经济学中「体验效用」与积极心理学的对话 / Subjective well-being research—dialogue between behavioral economics' "experienced utility" and positive psychology
-- **哲学 Philosophy**: 亚里士多德的eudaimonia（繁荣/幸福）是积极心理学的古代哲学根基 / Aristotle's eudaimonia is the ancient philosophical root of positive psychology
+- **经济学 Economics**: 主观幸福感研究——行为经济学中「体验效用」与积极心理学的对话 / Subjective well-being research—dialogue between behavioral economics' "experienced utility" and positive 心理学
+- **哲学 Philosophy**: 亚里士多德的eudaimonia（繁荣/幸福）是积极心理学的古代哲学根基 / Aristotle's eudaimonia is the ancient philosophical root of positive 心理学
 - **神经科学 Neuroscience**: 乐观/悲观的神经基础——前额叶不对称性、杏仁核反应性、希望回路 / Neural bases of optimism/pessimism—prefrontal asymmetry, amygdala reactivity, the hope circuit
 - **政治学 Political Science**: 国民幸福感测量——不丹GNH、英国国民幸福测量 / National well-being measurement—Bhutan GNH, UK National Well-being Programme
 - **计算机科学 Computer Science**: 数字表型（digital phenotyping）与蓬勃发展的AI预测 / Digital phenotyping and AI-based flourishing prediction

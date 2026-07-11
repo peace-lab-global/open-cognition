@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cognitive-engineering.rumelhart
+id: 认知系统.school.cognitive-engineering.rumelhart
 title: 鲁梅尔哈特 David Rumelhart
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cognitive-engineering
 era: contemporary
 birth: 1942

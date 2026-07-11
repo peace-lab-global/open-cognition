@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.kukai.concept.esoteric-buddhism
+id: 宗教.buddhism.master.kukai.concept.esoteric-buddhism
 title: 密教 Esoteric Buddhism
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
 tags: [密教, 密宗, 真言, Esoteric Buddhism, Vajrayana, 东密]
@@ -103,7 +103,7 @@ The core difference between Japan's two major esoteric traditions:
 
 密教的若干核心概念与当代哲学和科学形成了有意义的对话：
 
-Several core esoteric concepts engage meaningfully with contemporary philosophy and science:
+Several core esoteric concepts engage meaningfully with contemporary 哲学 and science:
 
 - **具身认知**（Embodied Cognition）：密教强调身、口、意不可分割的修行，与当代认知科学对"具身性"的重视相呼应。
   **Embodied Cognition**: Esoteric Buddhism's emphasis on inseparable body-speech-mind practice resonates with cognitive science's focus on embodied cognition.

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.two-truths
+id: 宗教.buddhism.core.two-truths
 title: 二谛 Two Truths
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [二谛, 世俗谛, 胜义谛, 言教二谛, 四重二谛]
@@ -94,8 +94,8 @@ sources: [《中论》, 《百论》, 《二谛义》（吉藏）]
 
 ## 跨学科关联
 
-- [康德 · 现象/物自体](../../../philosophy/schools/german-idealism/kant.md) — [平行] 世俗/胜义 vs 现象/物自体
-- [伽达默尔 · 效果历史](../../../philosophy/schools/hermeneutics/gadamer.md) — [平行] 言教二谛 vs 诠释学
+- [康德 · 现象/物自体](../../../哲学/学派/德国唯心论/康德.md) — [平行] 世俗/胜义 vs 现象/物自体
+- [伽达默尔 · 效果历史](../../../哲学/学派/诠释学/伽达默尔.md) — [平行] 言教二谛 vs 诠释学
 
 ## 进阶阅读
 

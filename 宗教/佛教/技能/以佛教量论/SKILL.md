@@ -1,7 +1,7 @@
 ---
 name: pramana-validation
 description: 以佛教量论（陈那、法称）为框架，评估一个陈述或认知的有效性——判断其属于现量（直接感知）、比量（推理）还是圣教量（权威陈述），并检验其是否满足有效认知的条件（离分别、不错乱、因三相）。Triggers on 需要评估某信息的可信度、需要厘清"我是怎么知道的"、或要处理不同来源认知之间的冲突。
-domain: religion
+domain: 宗教
 school: buddhism-pramana
 linked_concepts:
   - ../../concepts/cognitive-theory/pramana.md
@@ -180,5 +180,5 @@ tags:
 
 - 概念：[量论](../../concepts/cognitive-theory/pramana.md)
 - 相关 Skill：[二谛重构](../two-truths-reframing/SKILL.md)
-- 跨传统：[卡尔纳普 · 科学方法论](../../../../philosophy/schools/analytic/carnap.md)（平行）——内部问题与外部问题的区分
-- 跨传统：[波普尔 · 证伪主义](../../../../philosophy/schools/analytic/popper.md)（对照）——比量的可证伪性
+- 跨传统：[卡尔纳普 · 科学方法论](../../../../哲学/学派/分析哲学/卡尔纳普.md)（平行）——内部问题与外部问题的区分
+- 跨传统：[波普尔 · 证伪主义](../../../../哲学/学派/分析哲学/波普尔.md)（对照）——比量的可证伪性

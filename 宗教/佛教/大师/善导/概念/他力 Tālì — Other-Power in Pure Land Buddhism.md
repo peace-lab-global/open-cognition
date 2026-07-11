@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.master.shandao.concepts.other-power
+id: 宗教.buddhism.master.shandao.concepts.other-power
 title: 他力 Tālì — Other-Power in Pure Land Buddhism
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-pure-land
-parent: religion.buddhism.master.shandao.readme
+parent: 宗教.buddhism.master.shandao.readme
 tags: [他力, Other-Power, 本愿, Original Vow, 阿弥陀佛, Amitābha]
 ---
 

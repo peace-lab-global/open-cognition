@@ -1,7 +1,7 @@
 ---
 name: weber-ideal-type
 description: Triggers when a user faces a complex social phenomenon (a movement, an organization type, a kind of leader, a culture) and needs a concept tool to compare cases without conflating description with normative claim. Apply this skill to construct an ideal type rather than offering a "neutral definition".
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/classical/weber.md
 tags:
   - methodology
@@ -119,5 +119,5 @@ tags:
 ## 关联条目
 
 - 思想家：[韦伯](../../schools/classical/weber.md)
-- 跨学科：[认识论](../../../philosophy/concepts/epistemology.md)
-- 相关 Skill：[辩证法分析](../../../philosophy/skills/dialectical-analysis/SKILL.md)、[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)
+- 跨学科：[认识论](../../../哲学/概念/认识论.md)
+- 相关 Skill：[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)、[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)

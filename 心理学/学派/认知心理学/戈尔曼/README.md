@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.goleman
+id: 心理学.cognitive.goleman
 title: "戈尔曼 · Daniel Goleman"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1946
@@ -29,13 +29,13 @@ sources:
   - Bar-On, *The Handbook of Emotional Intelligence* (2000)
   - CASEL, Collaborative for Academic, Social, and Emotional Learning
 cross-refs:
-  - id: psychology.cognitive.kabat-zinn
+  - id: 心理学.cognitive.kabat-zinn
     relation: 同源
-  - id: psychology.cognitive.damasio
+  - id: 心理学.cognitive.damasio
     relation: 平行
-  - id: psychology.cognitive.lutz
+  - id: 心理学.cognitive.lutz
     relation: 同源
-  - id: religion.buddhism.concepts.satipatthana
+  - id: 宗教.buddhism.concepts.satipatthana
     relation: 应用
 children:
   - concepts/emotional-intelligence.md
@@ -67,7 +67,7 @@ children:
 
 ## 一句话定位 One-Line Positioning
 
-Daniel Goleman is the **primary catalyst for the popularization of "emotional intelligence" (EQ)** — translating academic research on emotional competence into a framework that reshaped global education, corporate leadership, and public discourse — while simultaneously serving as a **pioneering chronicler of the neuroscience of meditation**, rigorously tracking how contemplative practice produces lasting changes in brain structure and psychological well-being.
+Daniel Goleman is the **primary catalyst for the popularization of "emotional intelligence" (EQ)** — translating academic 研究 on emotional competence into a framework that reshaped global education, corporate leadership, and public discourse — while simultaneously serving as a **pioneering chronicler of the neuroscience of meditation**, rigorously tracking how contemplative practice produces lasting changes in brain structure and psychological well-being.
 
 丹尼尔·戈尔曼是**"情绪智力"（情商，EQ）概念的大众化推动者**——将学术心理学中关于情绪能力的研究翻译为改变全球教育、企业领导力和公共话语的框架——同时是**冥想科学研究的先驱记录者**，严谨追踪冥想练习如何对大脑结构和心理健康产生持久的改变。
 
@@ -129,7 +129,7 @@ In 1990, Salovey and Mayer published the academic concept of "emotional intellig
 
 *Focus* (2013) 整合注意力科学研究，提出注意力三维度模型。*Altered Traits* (2017, 与 Richard Davidson 合著) 严格筛选 60 余项高质量冥想研究，区分了冥想的"状态效应"与"特质效应"，为冥想科学提供了迄今最权威的综述。2019 年与图丹·却准 (Tulku Thondup) 合著的 *Altered Traits* 藏传冥想专论进一步深入。近年 *The Source* (2025) 回归对情绪与决策的基础性探讨。这一阶段的 Goleman 完成了从"概念传播者"到"科学综合者"的角色转型。
 
-*Focus* (2013) synthesized attention research and proposed the tripartite attention model. *Altered Traits* (2017, co-authored with Richard Davidson) rigorously reviewed over 60 high-quality meditation studies, distinguishing between "altered states" and "altered traits," providing the most authoritative synthesis of meditation science to date. In recent years, Goleman has completed a role transition from "concept disseminator" to "scientific synthesizer," integrating findings from contemplative neuroscience, affective science, and attention research.
+*Focus* (2013) synthesized attention 研究 and proposed the tripartite attention model. *Altered Traits* (2017, co-authored with Richard Davidson) rigorously reviewed over 60 high-quality meditation studies, distinguishing between "altered states" and "altered traits," providing the most authoritative synthesis of meditation science to date. In recent years, Goleman has completed a role transition from "concept disseminator" to "scientific synthesizer," integrating findings from contemplative neuroscience, affective science, and attention 研究.
 
 ## 关键著作 Key Works
 
@@ -207,7 +207,7 @@ In 1990, Salovey and Mayer published the academic concept of "emotional intellig
 
 Goleman 的学术生涯本身就是一座**东西方桥梁**——他以西方科学方法论审视东方冥想传统，同时将东方修行的洞见带回西方心理学。
 
-Goleman's career is itself a **bridge between East and West** — examining Eastern contemplative traditions through Western scientific methodology while bringing contemplative insights back into Western psychology.
+Goleman's career is itself a **bridge between East and West** — examining Eastern contemplative traditions through Western scientific methodology while bringing contemplative insights back into Western 心理学.
 
 ### Goleman x 四念处 (Satipaṭṭhāna)
 
@@ -238,8 +238,8 @@ Goleman's "EQ is learnable" proposition resonates deeply with the Confucian trad
 
 ### 佛教 Buddhism
 
-- [四念处 Satipaṭṭhāna](../../religion/buddhism/concepts/cognitive-theory/satipatthana-cognitive.md) `[应用]` — 正念作为情绪调节的基础训练
-- [阿毗达磨心识论 Abhidharma](../../religion/buddhism/concepts/cognitive-theory/abhidharma-mind.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
+- [四念处 Satipaṭṭhāna](../../宗教/佛教/概念/cognitive-theory/四念处作为元认知训练.md) `[应用]` — 正念作为情绪调节的基础训练
+- [阿毗达磨心识论 Abhidharma](../../宗教/佛教/概念/cognitive-theory/阿毗达磨心识论.md) `[平行]` — 心所分类 = 情绪粒度的古典资源
 
 ### 教育 Education
 

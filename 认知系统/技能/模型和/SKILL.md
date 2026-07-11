@@ -1,7 +1,7 @@
 ---
 name: human-error-analysis
 description: 分析复杂系统中人为错误的类型和根因，基于 Rasmussen 的 SRK 模型和 Reason 的瑞士奶酪模型。Triggers on requests to analyze human errors, investigate accidents, or understand why people make mistakes in complex systems.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/cognitive-engineering/rasmussen.md
 linked_concepts:
   - ../../concepts/joint-cognitive-system.md

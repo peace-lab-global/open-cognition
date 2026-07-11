@@ -1,10 +1,10 @@
 ---
 name: faustian-spirit-analysis
 description: Triggers on requests to 浮士德精神、追求、渴望，如人生意义探索、个人成长、目标设定等。Apply this skill to analyze the Faustian spirit using Goethe's insights, understanding the human drive for knowledge, experience, and transcendence.
-domain: literature
+domain: 文学
 linked_thinker: ../../schools/poets/goethe.md
 linked_concepts:
-  - ../../literature/concepts/faustian-spirit.md
+  - ../../文学/概念/faustian-spirit.md
 tags:
   - 浮士德精神
   - 追求
@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[约翰·沃尔夫冈·冯·歌德](../../schools/poets/goethe.md)
 - 概念：[浮士德精神](../../concepts/faustian-spirit.md)
-- 相关 Skill：[will-to-power-analysis](../../philosophy/skills/will-to-power-analysis/SKILL.md)、[existentialism-analysis](../../philosophy/skills/existentialism-analysis/SKILL.md)
+- 相关 Skill：[will-to-power-analysis](../../哲学/技能/权力意志分析/SKILL.md)、[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)

@@ -2,7 +2,7 @@
 id: beauvoir
 title: 西蒙娜·德·波伏瓦 · Simone de Beauvoir
 type: thinker
-domain: philosophy
+domain: 哲学
 school: existentialism
 era: contemporary
 birth: 1908
@@ -42,7 +42,7 @@ cross-refs:
     relation: 平行
   - id: merleau-ponty
     relation: 同源
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行
 children:
   - concepts/other.md
@@ -54,7 +54,7 @@ children:
   - timeline.md
   - reading-list.md
 related-comparative:
-  - ../../../philosophy/schools/comparative/existentialism-vs-yogacara.md
+  - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
 
 # 西蒙娜·德·波伏瓦 · Simone de Beauvoir
@@ -177,14 +177,14 @@ related-comparative:
 ### 哲学
 - [萨特](../sartre/) `[同源]` 存在主义伴侣，但波伏瓦的伦理学独立发展
 - [梅洛-庞蒂](../merleau-ponty/) `[同源]` 身体现象学的共同兴趣
-- [巴特勒](../../../aesthetics/schools/literary-thought/butler/) `[发展]` 性别操演理论直接继承"成为女人"
-- [阿伦特](../../../philosophy/schools/political/arendt/) `[平行]` 同为 20 世纪最重要的女性哲学家，关注公共领域与行动
+- [巴特勒](../../../美学/学派/文学思想/butler/) `[发展]` 性别操演理论直接继承"成为女人"
+- [阿伦特](../../../哲学/schools/political/arendt/) `[平行]` 同为 20 世纪最重要的女性哲学家，关注公共领域与行动
 
 ### 伦理学
-- [诺丁斯](../../../philosophy/schools/education/noddings/) `[平行]` 关怀伦理与模糊性伦理共享处境化取向
+- [诺丁斯](../../../哲学/schools/education/noddings/) `[平行]` 关怀伦理与模糊性伦理共享处境化取向
 
 ### 东方思想
-- [唯识 - Yogacara](../../../religion/buddhism/schools/yogacara/) `[平行]` 他者与平等性智、性别建构与遍计所执、情境自由与种子制约
+- [唯识 - Yogacara](../../../宗教/佛教/学派/唯识 Yogācāra/) `[平行]` 他者与平等性智、性别建构与遍计所执、情境自由与种子制约
 
 ## 东西方对话：波伏瓦 x 唯识
 
@@ -195,7 +195,7 @@ related-comparative:
 - **情境自由 vs 种子制约** -- 波伏娃的自由总在具体情境（situation）中实现，与唯识"种子（bija）现行于具体因缘"的机制相近。但波伏娃强调**政治解放**（改变处境），唯识强调**心性转化**（转识成智）。二者可并行：改变外在压迫结构 + 转化内在执着模式。
 - **模糊性 vs 中道** -- 波伏娃拒绝在自由与必然、主体与客体之间做非此即彼的选择；唯识的中道（madhyama pratipad）同样拒绝常断二边。
 
-> 完整对照见 [存在主义 x 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md)
+> 完整对照见 [存在主义 x 唯识](../../../哲学/学派/比较哲学/存在主义唯识.md)
 
 ## 进阶阅读
 
@@ -237,5 +237,5 @@ related-comparative:
 
 ## 比较页
 
-- [存在主义 x 唯识](../../../philosophy/schools/comparative/existentialism-vs-yogacara.md)
-- [博尔赫斯 x 唯识](../../../aesthetics/schools/literary-thought/borges/)（平行比较中的存在主义维度）
+- [存在主义 x 唯识](../../../哲学/学派/比较哲学/存在主义唯识.md)
+- [博尔赫斯 x 唯识](../../../美学/学派/文学思想/博尔赫斯/)（平行比较中的存在主义维度）

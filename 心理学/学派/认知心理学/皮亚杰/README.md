@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.piaget
+id: 心理学.cognitive.piaget
 title: "皮亚杰 · Jean Piaget"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 birth: 1896
@@ -10,7 +10,7 @@ death: 1980
 tags: [认知发展, 图式, 同化顺应, 发生认识论, 建构主义, cognitive-development, schema, constructivism, equilibration, genetic-epistemology]
 aliases: [Jean Piaget, 让·皮亚杰, Jean William Fritz Piaget]
 sources: [《儿童的语言与思维》, 《发生认识论原理》, 《儿童心理学》, The Child's Conception of the World, The Psychology of Intelligence]
-cross-refs: [psychology.cognitive.beck, psychology.developmental.erikson, psychology.developmental.vygotsky, philosophy.german-idealism.kant, psychology.concepts.cognitive-dissonance, psychology.concepts.constructivism]
+cross-refs: [心理学.cognitive.beck, 心理学.developmental.erikson, 心理学.developmental.vygotsky, 哲学.german-idealism.kant, 心理学.concepts.cognitive-dissonance, 心理学.concepts.constructivism]
 sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md, schema.md, genetic-epistemology.md]
 ---
 
@@ -77,7 +77,7 @@ His career pivoted when he worked at Alfred Binet's laboratory in Paris, where h
 
 **中文：** 皮亚杰的学术生涯始于动物学。他 10 岁起研究软体动物，发表多篇分类学论文。博士论文研究瓦莱州（Valais）淡水蜗牛的物种分类，展现出对"适应"（adaptation）这一核心生物学概念的深刻兴趣。1919 年他在巴黎学习精神分析和哲学（师从 Pierre Janet），同时开始接触逻辑学。1920 年进入比奈学校后，他注意到儿童的错误答案呈现出系统性的模式——这些不是"噪音"，而是一种独特的思维方式。从此他确定了毕生研究的方向：追踪"知识是如何在个体身上发生的"。
 
-**English:** Piaget's academic career began in zoology. From age 10 he studied mollusks, publishing several taxonomy papers. His doctoral dissertation on freshwater snail classification in the Valais region revealed a deep interest in the core biological concept of adaptation. In 1919 he studied psychoanalysis and philosophy in Paris (attending Pierre Janet's lectures), while also engaging with logic. Upon entering the Binet laboratory in 1920, he noticed that children's wrong answers exhibited systematic patterns — these were not "noise" but a distinctive mode of reasoning. From this point he set the direction of his lifelong research: tracing "how knowledge comes into being in the individual."
+**English:** Piaget's academic career began in zoology. From age 10 he studied mollusks, publishing several taxonomy papers. His doctoral dissertation on freshwater snail classification in the Valais region revealed a deep interest in the core biological concept of adaptation. In 1919 he studied psychoanalysis and 哲学 in Paris (attending Pierre Janet's lectures), while also engaging with logic. Upon entering the Binet laboratory in 1920, he noticed that children's wrong answers exhibited systematic patterns — these were not "noise" but a distinctive mode of reasoning. From this point he set the direction of his lifelong research: tracing "how knowledge comes into being in the individual."
 
 ### 中期：四阶段理论与日内瓦学派（1925–1955） / Middle Period: Stage Theory and the Geneva School
 
@@ -91,7 +91,7 @@ His career pivoted when he worked at Alfred Binet's laboratory in Paris, where h
 
 Simultaneously, using the "clinical interview method," he studied the thinking patterns of preoperational children (ages 2–7), publishing *The Language and Thought of the Child* (1923), *Judgment and Reasoning in the Child* (1924), and *The Child's Conception of the World* (1926). These studies revealed systematic features of children's thought: animism, artificialism, egocentrism, and others.
 
-In the 1940s–50s, collaborating with Bärbel Inhelder, he investigated concrete operational abilities including conservation, seriation, and classification, publishing works such as *The Early Growth of Logic in the Child* (1964). During this period, the Geneva School became a world center for developmental psychology.
+In the 1940s–50s, collaborating with Bärbel Inhelder, he investigated concrete operational abilities including conservation, seriation, and classification, publishing works such as *The Early Growth of Logic in the Child* (1964). During this period, the Geneva School became a world center for developmental 心理学.
 
 ### 晚期：发生认识论与跨学科整合（1955–1980） / Late Period: Genetic Epistemology and Interdisciplinary Integration
 
@@ -99,9 +99,9 @@ In the 1940s–50s, collaborating with Bärbel Inhelder, he investigated concret
 
 他出版了《发生认识论原理》（1970）、《生物学与知识》（1967）、《可能性和必然性》（1981, 遗作）等重要著作，试图建立一个涵盖生物学、心理学、逻辑学和哲学的统一认识论框架。他与 Noam Chomsky 在语言与认知关系问题上展开了著名论战，坚持认知先于语言的建构主义立场。
 
-**English:** In 1955, Piaget founded the International Center for Genetic Epistemology (CIEG), bringing together logicians, mathematicians, biologists, psychologists, and philosophers to study "the genesis of knowledge itself." During this period his research interests expanded from empirical child psychology to broader epistemological questions: how do logic, mathematics, and physical concepts come into being in human cognition?
+**English:** In 1955, Piaget founded the International Center for Genetic Epistemology (CIEG), bringing together logicians, mathematicians, biologists, psychologists, and philosophers to study "the genesis of knowledge itself." During this period his 研究 interests expanded from empirical child 心理学 to broader epistemological questions: how do logic, mathematics, and physical concepts come into being in human cognition?
 
-He published *The Principles of Genetic Epistemology* (1970), *Biology and Knowledge* (1967), *Possibility and Necessity* (1981, posthumous), attempting to build a unified epistemological framework spanning biology, psychology, logic, and philosophy. He engaged in a famous debate with Noam Chomsky on the relationship between language and cognition, maintaining his constructivist position that cognition precedes language.
+He published *The Principles of Genetic Epistemology* (1970), *Biology and Knowledge* (1967), *Possibility and Necessity* (1981, posthumous), attempting to build a unified epistemological framework spanning biology, psychology, logic, and 哲学. He engaged in a famous debate with Noam Chomsky on the relationship between language and cognition, maintaining his constructivist position that cognition precedes language.
 
 ---
 
@@ -183,13 +183,13 @@ He published *The Principles of Genetic Epistemology* (1970), *Biology and Knowl
 
 4. **数字学习与教育科技 / Digital Learning & Educational Technology**：Seymour Papert 的建构主义（constructionism）——儿童通过"制造"来学习——直接源于皮亚杰的建构主义（constructivism），影响了 Scratch 编程语言等教育工具的设计。 / Seymour Papert's constructionism — children learn by making — derives directly from Piaget's constructivism, influencing the design of educational tools such as the Scratch programming language.
 
-5. **跨文化认知发展研究 / Cross-Cultural Cognitive Development Research**：皮亚杰的阶段理论成为跨文化比较研究的基准——不同文化中认知发展速度和时间差异的发现，推动了文化对认知发展影响的研究。 / Piaget's stage theory serves as a baseline for cross-cultural comparative studies — findings about different speeds and timing of cognitive development across cultures have driven research on cultural influences on cognitive development.
+5. **跨文化认知发展研究 / Cross-Cultural Cognitive Development Research**：皮亚杰的阶段理论成为跨文化比较研究的基准——不同文化中认知发展速度和时间差异的发现，推动了文化对认知发展影响的研究。 / Piaget's stage theory serves as a baseline for cross-cultural comparative studies — findings about different speeds and timing of cognitive development across cultures have driven 研究 on cultural influences on cognitive development.
 
 6. **神经科学与脑发展 / Neuroscience & Brain Development**：现代神经影像学为皮亚杰的阶段理论提供了神经科学验证——不同阶段的认知跃迁对应着大脑特定区域（前额叶皮层等）的成熟过程。 / Modern neuroimaging provides neuroscientific validation for Piaget's stage theory — cognitive transitions at different stages correspond to maturation of specific brain regions (prefrontal cortex, etc.).
 
 7. **特殊教育 / Special Education**：皮亚杰的框架帮助识别认知发展迟缓的领域，为制定个别化教育计划提供理论依据。 / Piaget's framework helps identify areas of cognitive developmental delay, providing a theoretical basis for individualized education plans.
 
-8. **知识社会学与科学哲学 / Sociology of Knowledge & Philosophy of Science**：皮亚杰的建构主义认识论影响了知识社会学的"建构"概念，为理解科学知识的社会建构提供了心理学基础。 / Piaget's constructivist epistemology influenced the "construction" concept in sociology of knowledge, providing a psychological foundation for understanding the social construction of scientific knowledge.
+8. **知识社会学与科学哲学 / Sociology of Knowledge & Philosophy of Science**：皮亚杰的建构主义认识论影响了知识社会学的"建构"概念，为理解科学知识的社会建构提供了心理学基础。 / Piaget's constructivist epistemology influenced the "construction" concept in 社会学 of knowledge, providing a psychological foundation for understanding the social construction of scientific knowledge.
 
 ---
 
@@ -199,13 +199,13 @@ He published *The Principles of Genetic Epistemology* (1970), *Biology and Knowl
 → **✅ 阶段顺序不变，但达到年龄因个体差异、文化背景和教育经验而异。** 跨文化研究显示，某些社会中具体运算的出现可能延迟数年，而有些社会中的儿童可能提前获得某些能力。年龄只是统计性的参考。
 
 **1. ❌ "Piaget's stage ages are fixed."**
-→ **✅ Stage sequence is invariant, but ages of attainment vary by individual differences, cultural background, and educational experience.** Cross-cultural research shows that in some societies, concrete operations may appear years later, while in others children may acquire certain abilities earlier. Ages are statistical references only.
+→ **✅ Stage sequence is invariant, but ages of attainment vary by individual differences, cultural background, and educational experience.** Cross-cultural 研究 shows that in some societies, concrete operations may appear years later, while in others children may acquire certain abilities earlier. Ages are statistical references only.
 
 **2. ❌ "形式运算期所有人都能达到。"**
 → **✅ 大量跨文化和纵向研究显示，并非所有成年人都达到完整的形式运算水平。** Dasen (1972) 在澳大利亚原住民中发现，形式运算在非西方文化中可能不普遍出现。形式运算可能更多地依赖特定的文化和教育条件。
 
 **2. ❌ "Everyone reaches the formal operational stage."**
-→ **✅ Extensive cross-cultural and longitudinal research shows that not all adults reach full formal operational level.** Dasen (1972) found among Australian Aboriginal people that formal operations may not universally appear in non-Western cultures. Formal operations may depend more on specific cultural and educational conditions.
+→ **✅ Extensive cross-cultural and longitudinal 研究 shows that not all adults reach full formal operational level.** Dasen (1972) found among Australian Aboriginal people that formal operations may not universally appear in non-Western cultures. Formal operations may depend more on specific cultural and educational conditions.
 
 **3. ❌ "建构主义 = 不要教、让孩子自由探索。"**
 → **✅ 皮亚杰强调的是"结构化环境中的发现学习"，不是放任自流。** 教师需要精心设计能引发认知冲突的情境，引导儿童在同化与顺应之间达到新的平衡。建构主义不是"不做任何干预"，而是"在恰当的时机做恰当的干预"。
@@ -217,7 +217,7 @@ He published *The Principles of Genetic Epistemology* (1970), *Biology and Knowl
 → **✅ 他追问的是"知识本身的发生学"——儿童研究只是他的方法论入口。** 发生认识论的最终目标是回答哲学的根本问题：知识是如何可能的？逻辑和数学是如何从行动中产生的？他将心理学视为认识论的"实验实验室"。
 
 **4. ❌ "Piaget only studied children."**
-→ **✅ He was asking "the genesis of knowledge itself" — child study was merely his methodological entry point.** The ultimate goal of genetic epistemology is to answer philosophy's fundamental question: how is knowledge possible? How do logic and mathematics arise from action? He viewed psychology as the "experimental laboratory" of epistemology.
+→ **✅ He was asking "the genesis of knowledge itself" — child study was merely his methodological entry point.** The ultimate goal of genetic epistemology is to answer philosophy's fundamental question: how is knowledge possible? How do logic and mathematics arise from action? He viewed 心理学 as the "experimental laboratory" of epistemology.
 
 ---
 
@@ -257,14 +257,14 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 |---|---|---|---|
 | 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../developmental/vygotsky.md) | 批判/互补 / Critique/Complement | 维果茨基强调社会-文化中介，"最近发展区"补充了皮亚杰的个体建构 / Vygotsky emphasized sociocultural mediation; "zone of proximal development" complements Piaget's individual construction |
 | 认知行为疗法 / CBT | [贝克 Beck](../cognitive/beck.md) | 借用 / Borrowing | 图式概念被 CBT 用来描述核心信念结构 / Schema concept used in CBT to describe core belief structures |
-| 德国哲学 / German Philosophy | [康德 Kant](../../../philosophy/schools/german-idealism/kant.md) | 继承/改造 / Inheritance/Transformation | 认知范畴的发生学版本 / Genetic version of cognitive categories |
+| 德国哲学 / German Philosophy | [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) | 继承/改造 / Inheritance/Transformation | 认知范畴的发生学版本 / Genetic version of cognitive categories |
 | 认知失调 / Cognitive Dissonance | [费斯廷格 Festinger](../../concepts/cognitive-dissonance.md) | 平行 / Parallel | 平衡机制与认知不一致的张力 / Tension between equilibration mechanism and cognitive inconsistency |
 | 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](../developmental/erikson.md) | 互补 / Complementary | 认知发展与心理社会发展的平行阶段理论 / Parallel stage theories of cognitive and psychosocial development |
-| 情境化认知 / Situated Cognition | [情境化认知](../../../cognitive-systems/concepts/situated-cognition.md) | 发展 / Development | 建构主义在真实情境中的延伸 / Extension of constructivism into real-world situations |
-| 道德发展 / Moral Development | [科尔伯格 Kohlberg](../developmental/kohlberg.md) | 继承 / Inheritance | 在皮亚杰道德判断研究基础上发展出六阶段道德发展理论 / Built six-stage moral development theory on Piaget's moral judgment research |
-| 结构主义 / Structuralism | [列维-斯特劳斯 Lévi-Strauss](../../../sociology/structuralism/levi-strauss.md) | 平行/差异 / Parallel/Divergence | 都关注结构，但皮亚杰的结构是建构的、发展的；列维-斯特劳斯的结构是深层的、共时的 / Both concerned with structures, but Piaget's are constructed and developmental; Lévi-Strauss's are deep and synchronic |
+| 情境化认知 / Situated Cognition | [情境化认知](../../../认知系统/概念/情境化认知.md) | 发展 / Development | 建构主义在真实情境中的延伸 / Extension of constructivism into real-world situations |
+| 道德发展 / Moral Development | [科尔伯格 Kohlberg](../developmental/kohlberg.md) | 继承 / Inheritance | 在皮亚杰道德判断研究基础上发展出六阶段道德发展理论 / Built six-stage moral development theory on Piaget's moral judgment 研究 |
+| 结构主义 / Structuralism | [列维-斯特劳斯 Lévi-Strauss](../../../社会学/structuralism/levi-strauss.md) | 平行/差异 / Parallel/Divergence | 都关注结构，但皮亚杰的结构是建构的、发展的；列维-斯特劳斯的结构是深层的、共时的 / Both concerned with structures, but Piaget's are constructed and developmental; Lévi-Strauss's are deep and synchronic |
 | 神经科学 / Neuroscience | [安斯康伯 Anscombe] / 现代脑发展研究 | 验证 / Validation | 现代神经影像为阶段理论提供神经科学证据 / Modern neuroimaging provides neuroscientific evidence for stage theory |
-| 教育技术 / Educational Technology | [帕珀特 Papert](../../../cognitive-systems/) | 继承 / Inheritance | 从建构主义(constructivism)到建构主义(constructionism) / From constructivism to constructionism |
+| 教育技术 / Educational Technology | [帕珀特 Papert](../../../认知系统/) | 继承 / Inheritance | 从建构主义(constructivism)到建构主义(constructionism) / From constructivism to constructionism |
 
 ---
 
@@ -286,7 +286,7 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 
 ### 入门 / Introductory
 
-- 任何发展心理学教材中关于认知发展的章节 / Any developmental psychology textbook chapter on cognitive development
+- 任何发展心理学教材中关于认知发展的章节 / Any developmental 心理学 textbook chapter on cognitive development
 - Lourenço & Machado (1996) "In Defense of Piaget's Theory: A Reply to 10 Common Criticisms"
 
 ### 英语资源 / English Resources

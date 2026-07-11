@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.fazang.concept.huayan-dharmadhatu
+id: 宗教.buddhism.fazang.concept.huayan-dharmadhatu
 title: "华严法界 Huayan Dharmadhatu"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-huayan
 parent: fazang
 tags: [法界, dharmadhatu, 华严, 缘起, 全息]
@@ -76,7 +76,7 @@ tags: [法界, dharmadhatu, 华严, 缘起, 全息]
 
 ### Conceptual Positioning
 
-The term "dharmadhatu" (法界) stands as the most central concept in Huayan Buddhism and the foundation stone of Fazang's entire philosophical system. In early Buddhism, dharmadhatu referred primarily to the sphere or domain of all dharmas (phenomena). In Madhyamaka, it was synonymous with emptiness (sunyata). In Yogacara, it denoted suchness (tathata). Fazang creatively reinterpreted the term, transforming it into the master concept of Huayan philosophy.
+The term "dharmadhatu" (法界) stands as the most central concept in Huayan Buddhism and the foundation stone of Fazang's entire philosophical system. In early Buddhism, dharmadhatu referred primarily to the sphere or domain of all dharmas (phenomena). In Madhyamaka, it was synonymous with emptiness (sunyata). In Yogacara, it denoted suchness (tathata). Fazang creatively reinterpreted the term, transforming it into the master concept of Huayan 哲学.
 
 ### Fazang's Interpretation
 

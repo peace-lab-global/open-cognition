@@ -2,7 +2,7 @@
 id: noddings
 title: "内尔·诺丁斯 · Nel Noddings"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: care-ethics
 era: contemporary
 birth: 1929
@@ -15,8 +15,8 @@ tags:
   - 母性思维
   - 自然关怀
   - care ethics
-  - feminist philosophy
-  - philosophy of education
+  - feminist 哲学
+  - 哲学 of education
   - relational ethics
   - maternal thinking
   - natural caring
@@ -61,7 +61,7 @@ sub-entries:
 
 内尔·诺丁斯（Nel Noddings，1929–2022）是美国教育哲学家和伦理学家，关怀伦理学（Ethics of Care）的奠基人物之一。她出生于新泽西州纽瓦克，早年在蒙特克莱尔州立学院获得数学与教育学士学位，随后在斯坦福大学获得教育哲学博士学位。她曾在公立学校任教多年，担任过中学数学教师和校长，这些一线教育经验深刻塑造了她日后对伦理学和道德教育的思考方式。
 
-Nel Noddings (1929–2022) was an American philosopher of education and ethicist, one of the founding figures of the Ethics of Care. Born in Newark, New Jersey, she earned her bachelor's degree in mathematics and education from Montclair State College and later completed her Ph.D. in philosophy of education at Stanford University. She spent many years teaching in public schools and serving as a high school principal — frontline experiences that profoundly shaped her later thinking about ethics and moral education.
+Nel Noddings (1929–2022) was an American philosopher of education and ethicist, one of the founding figures of the Ethics of Care. Born in Newark, New Jersey, she earned her bachelor's degree in mathematics and education from Montclair State College and later completed her Ph.D. in 哲学 of education at Stanford University. She spent many years teaching in public schools and serving as a high school principal — frontline experiences that profoundly shaped her later thinking about ethics and moral education.
 
 1984年出版的《关怀：一种女性主义伦理学与道德教育》（*Caring: A Feminine Approach to Ethics and Moral Education*）标志着关怀伦理学作为一个独立哲学传统的正式诞生。诺丁斯在此书中系统地提出了以"关怀关系"（caring relation）为核心的伦理学框架，挑战了以康德道义论和功利主义为代表的主流伦理学传统。她认为，道德生活的根源不在于抽象的理性原则或普遍规则，而在于人与人之间具体的关怀实践——关怀者与被关怀者之间的相遇、接纳与回应。
 
@@ -69,7 +69,7 @@ The publication of *Caring: A Feminine Approach to Ethics and Moral Education* i
 
 诺丁斯在斯坦福大学教育学院担任教授多年，培养了一代又一代教育哲学研究者。她的学术生涯横跨近四十年，出版了十余部专著，涉及伦理学、教育哲学、女性主义哲学、和平教育等多个领域。她的思想对护理伦理学、教育实践、女性主义国际关系理论和社会政策研究产生了深远影响。2022年，诺丁斯在加利福尼亚去世，享年九十三岁。
 
-Noddings served as a professor at Stanford University's School of Education for many years, mentoring generations of scholars in philosophy of education. Her academic career spanned nearly four decades and produced over a dozen monographs covering ethics, philosophy of education, feminist philosophy, peace education, and related fields. Her thought has profoundly influenced nursing ethics, educational practice, feminist international relations theory, and social policy research. She passed away in California in 2022 at the age of ninety-three.
+Noddings served as a professor at Stanford University's School of Education for many years, mentoring generations of scholars in 哲学 of education. Her academic career spanned nearly four decades and produced over a dozen monographs covering ethics, 哲学 of education, feminist philosophy, peace education, and related fields. Her thought has profoundly influenced nursing ethics, educational practice, feminist international relations theory, and social policy 研究. She passed away in California in 2022 at the age of ninety-three.
 
 ## 核心命题 / Core Theses
 
@@ -101,7 +101,7 @@ Noddings' early life and educational experiences laid a distinctive foundation f
 
 在蒙特克莱尔州立学院和随后的学术深造中，她深入研读了杜威的教育哲学、马丁·布伯的关系哲学以及弗洛姆的人本主义精神分析。这些思想资源使她开始形成一种关系性的伦理学视野：道德生活不是孤立的个体根据规则做出决定的过程，而是在关系中生成和维系的意义实践。
 
-At Montclair State College and in subsequent graduate studies, she immersed herself in Dewey's philosophy of education, Martin Buber's relational philosophy, and Erich Fromm's humanistic psychoanalysis. These intellectual resources enabled her to begin forming a relational ethical vision: moral life is not a process in which isolated individuals make decisions according to rules, but a meaningful practice generated and sustained within relations.
+At Montclair State College and in subsequent graduate studies, she immersed herself in Dewey's 哲学 of education, Martin Buber's relational philosophy, and Erich Fromm's humanistic psychoanalysis. These intellectual resources enabled her to begin forming a relational ethical vision: moral life is not a process in which isolated individuals make decisions according to rules, but a meaningful practice generated and sustained within relations.
 
 ### 中期 / Middle Period (1984–1999)
 
@@ -111,7 +111,7 @@ The publication of *Caring* in 1984 was a turning point in Noddings' academic ca
 
 这一时期她还深入探讨了女性主义视角下的恶（*Women and Evil*, 1989）和母性思维（*The Maternal Factor*, 1990）。她提出了一个大胆的观点：传统神学和哲学将"恶"理解为善的缺失或理性的失控，但从女性经验出发，恶可以被重新理解为关怀关系的破坏——分离、抛弃和冷漠。这一观点在学术界引起了广泛讨论和争议。
 
-During this period she also explored feminist perspectives on evil (*Women and Evil*, 1989) and maternal thinking (*The Maternal Factor*, 1990). She advanced the bold thesis that traditional theology and philosophy understood "evil" as the absence of good or the failure of reason, but from women's experience evil could be reconceived as the destruction of caring relations — separation, abandonment, and indifference. This argument provoked widespread discussion and controversy in academic circles.
+During this period she also explored feminist perspectives on evil (*Women and Evil*, 1989) and maternal thinking (*The Maternal Factor*, 1990). She advanced the bold thesis that traditional theology and 哲学 understood "evil" as the absence of good or the failure of reason, but from women's experience evil could be reconceived as the destruction of caring relations — separation, abandonment, and indifference. This argument provoked widespread discussion and controversy in academic circles.
 
 ### 晚期 / Late Period (2000–2022)
 
@@ -154,7 +154,7 @@ She was sharply critical of the standardization trend in American education refo
    A distinctive mode of moral cognition arising from maternal experience, emphasizing protection, nurture, and responsiveness. See [maternal-thinking](concepts/maternal-thinking.md).
 
 4. **关怀教育 / Caring Education** — 以关怀关系为核心组织学校课程和教学实践的教育哲学。详见 [caring-education](concepts/caring-education.md)。
-   An educational philosophy that organizes school curriculum and teaching practice around caring relations. See [caring-education](concepts/caring-education.md).
+   An educational 哲学 that organizes school curriculum and teaching practice around caring relations. See [caring-education](concepts/caring-education.md).
 
 5. **自然关怀 / Natural Caring** — 出于本能和情感的自发关怀（如对亲人的爱），是伦理关怀的基础和原型。详见 [natural-caring](concepts/natural-caring.md)。
    Spontaneous caring arising from instinct and emotion (such as love for family members); the foundation and prototype of ethical caring. See [natural-caring](concepts/natural-caring.md).
@@ -178,8 +178,8 @@ She was sharply critical of the standardization trend in American education refo
 
 - **承接 / Inherits:**
   - 卡罗尔·吉利根的道德发展理论（*In a Different Voice*）/ Carol Gilligan's moral development theory (*In a Different Voice*)
-  - 马丁·布伯的"我-你"关系哲学 / Martin Buber's "I-Thou" relational philosophy
-  - 约翰·杜威的经验教育哲学 / John Dewey's experiential philosophy of education
+  - 马丁·布伯的"我-你"关系哲学 / Martin Buber's "I-Thou" relational 哲学
+  - 约翰·杜威的经验教育哲学 / John Dewey's experiential 哲学 of education
   - 弗洛姆的人本主义精神分析 / Erich Fromm's humanistic psychoanalysis
   - 萨拉·拉迪克的母性思维理论 / Sara Ruddick's maternal thinking theory
 
@@ -190,7 +190,7 @@ She was sharply critical of the standardization trend in American education refo
   - 标准化教育改革：破坏教师与学生之间的关怀关系 / Standardized education reform: undermines caring relations between teachers and students
 
 - **影响 / Influences:**
-  - 弗吉尼亚·赫尔德的关怀政治哲学 / Virginia Held's political philosophy of care
+  - 弗吉尼亚·赫尔德的关怀政治哲学 / Virginia Held's political 哲学 of care
   - 琼安·特朗托的民主关怀伦理 / Joan Tronto's democratic ethics of care
   - 护理伦理学的理论发展 / Theoretical development in nursing ethics
   - 女性主义国际关系理论（如 Fiona Robinson） / Feminist IR theory (e.g., Fiona Robinson)
@@ -212,7 +212,7 @@ She was sharply critical of the standardization trend in American education refo
 
 4. **社会工作与社区建设 / Social Work and Community Building**
    关怀伦理为社会工作提供了一种以关系为本的实践哲学，超越技术化的个案管理模式。
-   Care ethics provides social work with a relation-centered practice philosophy that transcends technified case management models.
+   Care ethics provides social work with a relation-centered practice 哲学 that transcends technified case management models.
 
 5. **人工智能与科技伦理 / AI and Technology Ethics**
    在人工智能伦理讨论中，关怀伦理提供了一种不同于原则主义（如阿西洛马原则）的关系性视角，强调技术设计中的人本关怀。
@@ -274,10 +274,10 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 
 | 学科 / Discipline | 关联思想家 / Related Thinker | 关系 / Relationship | 说明 / Description |
 |---|---|---|---|
-| 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../psychology/schools/humanistic/rogers.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
-| 哲学 / Philosophy | [亚里士多德 · Aristotle](../../philosophy/schools/ancient-greek/aristotle.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
-| 哲学 / Philosophy | [康德 · Immanuel Kant](../../philosophy/schools/modern-european/kant.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
-| 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../sociology/schools/functionalism/parsons.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
+| 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../心理学/学派/人本主义/卡尔.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
+| 哲学 / Philosophy | [亚里士多德 · Aristotle](../../哲学/学派/古希腊/亚里士多德.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
+| 哲学 / Philosophy | [康德 · Immanuel Kant](../../哲学/schools/modern-european/kant.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
+| 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../社会学/学派/功能主义/帕森斯.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
 | 政治学 / Political Science | [特朗托 · Joan Tronto](../political-theory/tronto.md) | `[影响] / [Influences]` | 特朗托将关怀伦理发展为民主政治理论 / Tronto develops care ethics into democratic political theory |
 | 环境伦理 / Environmental Ethics | [环境伦理](../../concepts/environmental-ethics.md) | `[互补] / [Complementary]` | 关怀从人际扩展到人与自然的关系 / Care extends from interpersonal to human-nature relations |
 | 护理学 / Nursing | [沃森 · Jean Watson](../../health-sciences/nursing/watson.md) | `[影响] / [Influences]` | 沃森的"人文关怀理论"深受诺丁斯影响 / Watson's "Human Caring Theory" deeply influenced by Noddings |

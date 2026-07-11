@@ -2,7 +2,7 @@
 id: mozart
 title: "沃尔夫冈·阿马德乌斯·莫扎特 · Wolfgang Amadeus Mozart"
 type: thinker
-domain: arts
+domain: 艺术
 school: music
 era: early-modern
 birth: 1756
@@ -42,7 +42,7 @@ He died in 1791 at the age of thirty-five, leaving over six hundred works spanni
 
 1. **完美的比例 / Perfect Proportion**：真正的美来自各要素间的精确均衡——旋律、和声、节奏与音色各自居于恰当的位置，而非情绪的堆砌或技巧的炫耀。当所有声部达到动态平衡时，音乐便获得了古典意义上的"完美"。True beauty arises from the precise equilibrium among all elements—melody, harmony, rhythm, and timbre each occupying their proper place—rather than from the accumulation of emotion or the display of technique. When all voices achieve dynamic balance, music attains the Classical ideal of "perfection."
 
-2. **戏剧即人性 / Drama as Human Nature**：歌剧应以音乐揭示人物心理，每个角色都有其专属的音调语言。重唱段落是人性多声部的同时呈现，比任何独白都更接近真实生活的复杂性。Opera should reveal human psychology through music, each character possessing a distinctive tonal language. Ensemble passages are simultaneous presentations of multiple human voices, closer to the complexity of real life than any soliloquy.
+2. **戏剧即人性 / Drama as Human Nature**：歌剧应以音乐揭示人物心理，每个角色都有其专属的音调语言。重唱段落是人性多声部的同时呈现，比任何独白都更接近真实生活的复杂性。Opera should reveal human 心理学 through music, each character possessing a distinctive tonal language. Ensemble passages are simultaneous presentations of multiple human voices, closer to the complexity of real life than any soliloquy.
 
 3. **形式的透明 / Transparency of Form**：最复杂的结构听起来应毫不费力，技艺被隐藏在自然的表象之下。奏鸣曲式的展开部越是精妙，听众越应感到一切浑然天成。The most complex structures should sound effortless; artifice is concealed beneath the surface of nature. The more ingenious a sonata development, the more the listener should feel that everything unfolds inevitably.
 
@@ -123,7 +123,7 @@ In the summer of 1788, he completed his final three symphonies in rapid successi
 
 - **协奏曲对话 / Concerto Dialogue**：独奏与乐队的平等互动，体现启蒙理想的音乐形式。Equal interplay between soloist and orchestra, a musical form embodying Enlightenment ideals.
 
-- **自然性 / Naturalness**：精深技艺呈现为素朴直接的表象，是莫扎特美学的核心标志。Profound craftsmanship presented as a simple, direct surface—the central hallmark of Mozart's aesthetics.
+- **自然性 / Naturalness**：精深技艺呈现为素朴直接的表象，是莫扎特美学的核心标志。Profound craftsmanship presented as a simple, direct surface—the central hallmark of Mozart's 美学.
 
 - **歌唱剧 / Singspiel**：带说白的德语通俗音乐剧，《魔笛》是其艺术升华的最高范例。German popular music drama with spoken dialogue; *The Magic Flute* is its supreme artistic sublimation.
 
@@ -135,13 +135,13 @@ In the summer of 1788, he completed his final three symphonies in rapid successi
 
 - **承接 / Inherits**: 约翰·克里斯蒂安·巴赫的优雅键盘风格；海顿的动机发展与形式创新；意大利歌剧的歌唱传统（斯卡拉蒂、哈塞）；曼海姆乐派的管弦乐技法；启蒙时代对理性与自然的信念 / J.C. Bach's elegant keyboard style; Haydn's motivic development and formal innovation; Italian operatic singing tradition (Scarlatti, Hasse); Mannheim school orchestral techniques; Enlightenment faith in reason and nature
 - **批判 / Critiques**: 大主教体制下音乐家的仆人地位；当时歌剧以明星歌手为中心的惯例；对位法僵化的学院派用法；意大利正歌剧的陈腐程式 / The servant status of musicians under the archbishop system; star-singer-centered opera conventions; rigidly academic use of counterpoint; the stale formulas of Italian opera seria
-- **影响 / Influences**: 贝多芬（继承并突破古典框架）；舒伯特（旋律遗产的继承者）；肖邦（装饰性旋律的钢琴化）；柴可夫斯基（芭蕾音乐的戏剧性）；理查·施特劳斯（歌剧心理学的延续）；二十世纪新古典主义 / Beethoven (inherited and broke through the Classical framework); Schubert (heir to melodic legacy); Chopin (pianistic adaptation of ornamental melody); Tchaikovsky (dramatic ballet music); Richard Strauss (continuation of operatic psychology); twentieth-century neoclassicism
+- **影响 / Influences**: 贝多芬（继承并突破古典框架）；舒伯特（旋律遗产的继承者）；肖邦（装饰性旋律的钢琴化）；柴可夫斯基（芭蕾音乐的戏剧性）；理查·施特劳斯（歌剧心理学的延续）；二十世纪新古典主义 / Beethoven (inherited and broke through the Classical framework); Schubert (heir to melodic legacy); Chopin (pianistic adaptation of ornamental melody); Tchaikovsky (dramatic ballet music); Richard Strauss (continuation of operatic 心理学); twentieth-century neoclassicism
 
 ## 当代应用 / Contemporary Applications
 
 1. **影视叙事 / Film Narrative**：彼得·谢弗的《莫扎特传》（*Amadeus*, 1984）至今仍是"天才与庸才"母题的文化模板，深刻影响了公众对艺术天才的认知。Peter Shaffer's *Amadeus* (1984) remains the cultural template for the "genius vs. mediocrity" motif, profoundly shaping public understanding of artistic genius.
 
-2. **音乐认知与"莫扎特效应" / Music Cognition and the "Mozart Effect"**：1993年Rauscher等人的研究声称聆听莫扎特可短暂提升空间推理能力。虽然后续元分析表明效果微弱且与愉悦唤醒相关，但它推动了音乐认知领域的公众讨论与大量后续研究。The 1993 Rauscher et al. study claimed that listening to Mozart temporarily enhanced spatial reasoning; subsequent meta-analyses showed the effect was weak and related to pleasure-arousal, but it catalyzed public discussion and extensive follow-up research in music cognition.
+2. **音乐认知与"莫扎特效应" / Music Cognition and the "Mozart Effect"**：1993年Rauscher等人的研究声称聆听莫扎特可短暂提升空间推理能力。虽然后续元分析表明效果微弱且与愉悦唤醒相关，但它推动了音乐认知领域的公众讨论与大量后续研究。The 1993 Rauscher et al. study claimed that listening to Mozart temporarily enhanced spatial reasoning; subsequent meta-analyses showed the effect was weak and related to pleasure-arousal, but it catalyzed public discussion and extensive follow-up 研究 in music cognition.
 
 3. **人工智能作曲 / AI Composition**：古典风格的马尔可夫模型与神经网络常以莫扎特作品为训练数据和生成基准，其清晰的形式结构使其成为音乐AI的理想测试对象。Markov models and neural networks for Classical style frequently use Mozart's works as training data and generation benchmarks; the clarity of his formal structures makes them ideal test subjects for music AI.
 
@@ -173,11 +173,11 @@ In the summer of 1788, he completed his final three symphonies in rapid successi
 
 莫扎特的音乐美学与中国传统艺术思想之间存在引人注目的平行关系。中国古典美学中的"大音希声"（《道德经》第四十一章）——最宏大的音乐反而接近沉默——与莫扎特"以少胜多"的经济性原则相呼应。莫扎特的慢板乐章常以最简约的材料创造最深沉的情感效果，这与中国文人画中"留白"的美学异曲同工。他曾说"音乐即使在最恐怖的时刻也不应停止成为音乐"——这种对形式完整性的绝对忠诚，恰似中国书法中"法度"的观念：最高的自由在严格的规矩之内实现。
 
-Striking parallels exist between Mozart's musical aesthetics and traditional Chinese artistic thought. The Daoist principle of "great music is nearly silent" (*Daodejing*, Chapter 41)—the grandest music approaches silence—echoes Mozart's principle of economy, "saying more with less." Mozart's slow movements often create the deepest emotional effects with the most economical materials, paralleling the aesthetics of "empty space" (*liubai*) in Chinese literati painting. He once said "music, even in the most terrible situations, must never cease to be music"—this absolute fidelity to formal integrity resembles the Chinese calligraphic notion of *fadu* (法度): the highest freedom is realized within strict rules.
+Striking parallels exist between Mozart's musical 美学 and traditional Chinese artistic thought. The Daoist principle of "great music is nearly silent" (*Daodejing*, Chapter 41)—the grandest music approaches silence—echoes Mozart's principle of economy, "saying more with less." Mozart's slow movements often create the deepest emotional effects with the most economical materials, paralleling the 美学 of "empty space" (*liubai*) in Chinese literati painting. He once said "music, even in the most terrible situations, must never cease to be music"—this absolute fidelity to formal integrity resembles the Chinese calligraphic notion of *fadu* (法度): the highest freedom is realized within strict rules.
 
 莫扎特对"自然性"的追求可与中国美学中"天然去雕饰"（李白）的理想相比较。两者都强调最高技艺应呈现为毫不做作的自然状态，人工痕迹被彻底消解在最终作品之中。同时，莫扎特歌剧中对人物复杂心理的音乐化呈现，可以与京剧的行当体制进行对话——京剧以程式化的声腔和动作区分角色类型（生旦净丑），而莫扎特则以调性、音区和节奏特征为每个歌剧角色赋予独特的音乐身份。两者都是通过形式化的手段达到对人性的深刻表现。
 
-Mozart's pursuit of "naturalness" can be compared with the Chinese aesthetic ideal of "naturalness without artifice" (Li Bai). Both emphasize that the highest craft should present as completely unforced naturalness, with all traces of labor dissolved in the finished work. Meanwhile, Mozart's musicalized portrayal of complex character psychology in opera can be set in dialogue with Beijing opera's role-type system—where stylized vocal and physical conventions distinguish character types (*sheng dan jing chou*)—while Mozart assigns each operatic character a unique musical identity through tonality, register, and rhythmic character. Both achieve profound expression of human nature through formalized means.
+Mozart's pursuit of "naturalness" can be compared with the Chinese aesthetic ideal of "naturalness without artifice" (Li Bai). Both emphasize that the highest craft should present as completely unforced naturalness, with all traces of labor dissolved in the finished work. Meanwhile, Mozart's musicalized portrayal of complex character 心理学 in opera can be set in dialogue with Beijing opera's role-type system—where stylized vocal and physical conventions distinguish character types (*sheng dan jing chou*)—while Mozart assigns each operatic character a unique musical identity through tonality, register, and rhythmic character. Both achieve profound expression of human nature through formalized means.
 
 莫扎特的形式均衡思想也可与儒家的"中庸"观念进行跨文化比较。"中庸"强调恰到好处的适度，避免过与不及；莫扎特的古典风格同样以精确的比例感和对极端情绪的节制为标志。两者都指向一个共同的审美直觉：真正的美在于各要素之间的动态平衡。而莫扎特音乐中"悲喜交集"的特质，则可以与日本文学中"物の哀れ"（物哀）的美学相比较——在最美好的事物中感知消逝与无常。
 
@@ -187,12 +187,12 @@ Mozart's thinking about formal balance also invites cross-cultural comparison wi
 
 - [海顿 / Haydn](../haydn/) `[双向影响 / Mutual Influence]` 莫扎特与海顿互相学习：海顿的动机发展启发莫扎特，莫扎特的歌剧化旋律反哺海顿晚期作品 / Mozart and Haydn learned from each other: Haydn's motivic development inspired Mozart; Mozart's operatic melody fed back into Haydn's late works
 - [贝多芬 / Beethoven](../beethoven/) `[发展 / Development]` 继承莫扎特的钢琴协奏曲和交响曲框架，推向意志冲突与英雄性叙事 / Inherited Mozart's piano concerto and symphony frameworks, pushing them toward will-conflict and heroic narrative
-- [启蒙思想 / Enlightenment Thought](../../../philosophy/schools/enlightenment/) `[同源 / Common Source]` 共享十八世纪对自然、清晰与普遍人性的信念 / Shared eighteenth-century belief in nature, clarity, and universal human nature
-- [康德美学 / Kant Aesthetics](../../../philosophy/schools/german-idealism/kant/) `[平行 / Parallel]` "无目的的合目的性"与莫扎特音乐中"自由美"的古典均衡相呼应 / "Purposiveness without purpose" parallels the Classical equilibrium of "free beauty" in Mozart's music
-- [叔本华 / Schopenhauer](../../../philosophy/schools/pessimism/schopenhauer/) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
-- [叙事理论 / Narrative Theory](../../../literature/concepts/narrative/) `[互补 / Complementary]` 重唱即多声部叙事——多人视角的同步编织，可视为音乐化的多声部小说 / Ensemble as polyphonic narrative—simultaneous weaving of multiple perspectives, readable as musicalized polyphonic novel
+- [启蒙思想 / Enlightenment Thought](../../../哲学/学派/启蒙运动/) `[同源 / Common Source]` 共享十八世纪对自然、清晰与普遍人性的信念 / Shared eighteenth-century belief in nature, clarity, and universal human nature
+- [康德美学 / Kant Aesthetics](../../../哲学/学派/德国唯心论/康德/) `[平行 / Parallel]` "无目的的合目的性"与莫扎特音乐中"自由美"的古典均衡相呼应 / "Purposiveness without purpose" parallels the Classical equilibrium of "free beauty" in Mozart's music
+- [叔本华 / Schopenhauer](../../../哲学/学派/悲观主义/亚瑟/) `[互补 / Complementary]` 视音乐为意志本身的直接客体化，莫扎特为其最高典范之一 / Regarded music as the direct objectification of the Will itself, with Mozart as one of its supreme exemplars
+- [叙事理论 / Narrative Theory](../../../文学/概念/narrative/) `[互补 / Complementary]` 重唱即多声部叙事——多人视角的同步编织，可视为音乐化的多声部小说 / Ensemble as polyphonic narrative—simultaneous weaving of multiple perspectives, readable as musicalized polyphonic novel
 - [认知科学 / Cognitive Science](../../../science/cognitive-science/) `[应用 / Applied]` 莫扎特音乐的认知加工——格式塔知觉组织原则在音乐听觉中的体现 / Cognitive processing of Mozart's music—Gestalt perceptual organization principles in musical hearing
-- [心理分析 / Psychoanalysis](../../../psychology/psychoanalysis/) `[诠释 / Interpretive]` 所罗门的心理传记研究将莫扎特与父亲的关系解读为其创作动力的核心 / Solomon's psychobiographical study interprets Mozart's relationship with his father as the core of his creative drive
+- [心理分析 / Psychoanalysis](../../../心理学/psychoanalysis/) `[诠释 / Interpretive]` 所罗门的心理传记研究将莫扎特与父亲的关系解读为其创作动力的核心 / Solomon's psychobiographical study interprets Mozart's relationship with his father as the core of his creative drive
 
 ## 进阶阅读 / Further Reading
 

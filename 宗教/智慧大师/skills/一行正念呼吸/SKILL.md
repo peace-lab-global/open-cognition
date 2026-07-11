@@ -136,4 +136,4 @@ tags:
 - 祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
 - 概念：[正念](./concepts/mindfulness.md)（待建）
 - 相关Skill：[一行慈悲拥抱](./thich-nhat-hanh-compassion/SKILL.md)
-- 跨传统：[卡尼曼·系统1/系统2](../../psychology/schools/behavioral-economics/kahneman.md)（平行）——正念呼吸是主动切换到系统2的方式
+- 跨传统：[卡尼曼·系统1/系统2](../../心理学/学派/行为经济学/丹尼尔.md)（平行）——正念呼吸是主动切换到系统2的方式

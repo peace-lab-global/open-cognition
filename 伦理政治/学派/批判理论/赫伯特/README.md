@@ -2,7 +2,7 @@
 id: marcuse
 title: "赫伯特·马尔库塞 · Herbert Marcuse"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: critical-theory
 era: modern
 birth: 1898
@@ -103,7 +103,7 @@ Marcuse's philosophical starting point was deeply influenced by Heidegger's onto
 
 1933年加入法兰克福社会研究所后，马尔库塞迅速投入批判理论的集体事业。他在研究所的机关刊物《社会研究杂志》上发表了多篇重要论文，包括《论具体哲学的基础》（1934）和《权威与家庭研究》（1936）。流亡美国后，他参与了研究所关于"权威主义国家"的研究项目，并在美国战略服务局（OSS）工作（1942–1945），分析纳粹德国的社会结构。这一时期，他深入研究了黑格尔辩证法，为后来将辩证法与当代社会批判结合奠定了基础。
 
-After joining the Frankfurt Institute for Social Research in 1933, Marcuse quickly immersed himself in the collective project of Critical Theory. He published several important essays in the Institute's journal *Zeitschrift für Sozialforschung*, including "On the Foundations of Concrete Philosophy" (1934) and "Studies on Authority and Family" (1936). After emigrating to the United States, he participated in the Institute's research project on the "authoritarian state" and worked for the Office of Strategic Services (OSS, 1942–1945), analyzing the social structure of Nazi Germany. During this period, he studied Hegelian dialectics intensively, laying the groundwork for his later synthesis of dialectics and contemporary social critique.
+After joining the Frankfurt Institute for Social Research in 1933, Marcuse quickly immersed himself in the collective project of Critical Theory. He published several important essays in the Institute's journal *Zeitschrift für Sozialforschung*, including "On the Foundations of Concrete Philosophy" (1934) and "Studies on Authority and Family" (1936). After emigrating to the United States, he participated in the Institute's 研究 project on the "authoritarian state" and worked for the Office of Strategic Services (OSS, 1942–1945), analyzing the social structure of Nazi Germany. During this period, he studied Hegelian dialectics intensively, laying the groundwork for his later synthesis of dialectics and contemporary social critique.
 
 ### 中期 / Middle Period (1950s–1960s)
 
@@ -123,7 +123,7 @@ After 1968, facing the ebb of the student movement and right-wing backlash, Marc
 
 他最后一部重要著作《审美维度》（*The Aesthetic Dimension*, 1978）回归美学问题，论证艺术的"审美形式"（aesthetic form）具有内在的颠覆力量——不是通过直接的政治内容，而是通过对感知方式本身的变革。马尔库塞于1979年在柏林访问期间去世，享年81岁。他的遗产至今仍在批判理论、文化研究、政治哲学和美学等领域发挥深远影响。
 
-His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic questions, arguing that art's "aesthetic form" possesses an inherently subversive power — not through direct political content, but through the transformation of perception itself. Marcuse died in 1979 during a visit to Berlin, at the age of 81. His legacy continues to exert profound influence in critical theory, cultural studies, political philosophy, and aesthetics to this day.
+His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic questions, arguing that art's "aesthetic form" possesses an inherently subversive power — not through direct political content, but through the transformation of perception itself. Marcuse died in 1979 during a visit to Berlin, at the age of 81. His legacy continues to exert profound influence in critical theory, cultural studies, political philosophy, and 美学 to this day.
 
 ## 关键著作 / Key Works
 
@@ -138,7 +138,7 @@ His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic que
 | 1965 | "Repressive Tolerance" | 《压抑性宽容》 | 自由主义宽容的激进批判 / Radical critique of liberal tolerance |
 | 1969 | *An Essay on Liberation* | 《解放论》 | 解放理论的多维度展开 / Multi-dimensional elaboration of liberation theory |
 | 1972 | *Counterrevolution and Revolt* | 《反革命与反叛》 | 运动退潮后的反思 / Reflection after the ebb of movements |
-| 1978 | *The Aesthetic Dimension* | 《审美维度》 | 美学与政治的最终思考 / Final reflections on aesthetics and politics |
+| 1978 | *The Aesthetic Dimension* | 《审美维度》 | 美学与政治的最终思考 / Final reflections on 美学 and politics |
 
 ## 重要概念 / Key Concepts
 
@@ -178,7 +178,7 @@ His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic que
   - 马克思的异化理论与资本主义批判 / Marx's theory of alienation and critique of capitalism
   - 弗洛伊德的压抑理论与本能学说 / Freud's theory of repression and instinct theory
   - 黑格尔的辩证法与否定性思维 / Hegel's dialectics and negative thinking
-  - 海德格尔的存在论与具体哲学 / Heidegger's ontology and concrete philosophy
+  - 海德格尔的存在论与具体哲学 / Heidegger's ontology and concrete 哲学
   - 霍克海默与阿多诺的文化批判 / Horkheimer and Adorno's cultural critique
   - 席勒的审美教育思想 / Schiller's aesthetic education
 
@@ -188,7 +188,7 @@ His last major work, *The Aesthetic Dimension* (1978), returned to aesthetic que
   - 形式民主的空洞性与虚假选择 / The hollowness of formal democracy and false choices
   - 消费文化的虚假满足与虚假需求 / The false satisfactions and false needs of consumer culture
   - 苏联马克思主义的教条化 / The dogmatization of Soviet Marxism
-  - 分析哲学的去政治化倾向 / The depoliticizing tendency of analytic philosophy
+  - 分析哲学的去政治化倾向 / The depoliticizing tendency of analytic 哲学
 
 - **影响 / Influences**:
   - 1960年代全球学生运动与新左派 / Global student movements and the New Left of the 1960s
@@ -270,19 +270,19 @@ Second, Marcuse's analysis of "false needs" can be compared with the Buddhist co
 
 第三，马尔库塞对审美经验的重视与中国古典美学中的"意境"论有相通之处：两者都认为审美经验具有超越日常功利认知的力量。李泽厚在《美学四讲》中对马克思美学与马尔库塞思想的比较研究，开启了中西美学批判的对话空间。
 
-Third, Marcuse's emphasis on aesthetic experience connects with the Chinese classical aesthetic theory of *yi jing* (artistic conception): both hold that aesthetic experience has the power to transcend everyday utilitarian cognition. Li Zehou's comparative study of Marxist aesthetics and Marcuse's thought in *Four Lectures on Aesthetics* opened a dialogical space for East-West aesthetic critique.
+Third, Marcuse's emphasis on aesthetic experience connects with the Chinese classical aesthetic theory of *yi jing* (artistic conception): both hold that aesthetic experience has the power to transcend everyday utilitarian cognition. Li Zehou's comparative study of Marxist 美学 and Marcuse's thought in *Four Lectures on Aesthetics* opened a dialogical space for East-West aesthetic critique.
 
 ## 跨学科关联 / Interdisciplinary Connections
 
 | 学科 / Discipline | 关联人物 / Related Thinker | 关系 / Relationship | 说明 / Description |
 |---|---|---|---|
-| 社会学 / Sociology | [福柯 / Foucault](../../../sociology/schools/structuralism/foucault.md) | `[同源]` / `[Convergent]` | 两者都批判现代社会的微观权力控制 / Both critique micro-power control in modern society |
-| 心理学 / Psychology | [弗洛伊德 / Freud](../../../psychology/schools/psychoanalysis/freud.md) | `[继承]` / `[Inherits]` | 马尔库塞将弗洛伊德压抑理论与马克思主义结合 / Marcuse synthesizes Freud's repression theory with Marxism |
-| 哲学 / Philosophy | [海德格尔 / Heidegger](../../../philosophy/schools/existentialism/heidegger.md) | `[继承/批判]` / `[Inherits/Critiques]` | 技术批判传统的继承与政治化 / Inheritance and politicization of the technology critique tradition |
-| 政治学 / Political Science | [阿伦特 / Arendt](../../../ethics-politics/schools/phenomenology/arendt.md) | `[对话]` / `[Dialogue]` | 共同关注极权主义与公共领域的退化 / Shared concern with totalitarianism and the degradation of the public sphere |
-| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../aesthetics/schools/critical-theory/benjamin.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
-| 传播学 / Communication | [哈贝马斯 / Habermas](../../../ethics-politics/schools/critical-theory/habermas.md) | `[继承/分歧]` / `[Inherits/Diverges]` | 同属法兰克福学派但路径不同 / Both Frankfurt School but different paths |
-| 生态哲学 / Eco-Philosophy | [布克钦 / Bookchin](../../../ethics-politics/schools/anarchism/bookchin.md) | `[影响]` / `[Influences]` | 社会生态学的思想资源 / Intellectual resource for social ecology |
+| 社会学 / Sociology | [福柯 / Foucault](../../../社会学/学派/结构主义/福柯.md) | `[同源]` / `[Convergent]` | 两者都批判现代社会的微观权力控制 / Both critique micro-power control in modern society |
+| 心理学 / Psychology | [弗洛伊德 / Freud](../../../心理学/学派/精神分析/西格蒙德.md) | `[继承]` / `[Inherits]` | 马尔库塞将弗洛伊德压抑理论与马克思主义结合 / Marcuse synthesizes Freud's repression theory with Marxism |
+| 哲学 / Philosophy | [海德格尔 / Heidegger](../../../哲学/学派/存在主义/海德格尔.md) | `[继承/批判]` / `[Inherits/Critiques]` | 技术批判传统的继承与政治化 / Inheritance and politicization of the technology critique tradition |
+| 政治学 / Political Science | [阿伦特 / Arendt](../../../伦理政治/schools/phenomenology/arendt.md) | `[对话]` / `[Dialogue]` | 共同关注极权主义与公共领域的退化 / Shared concern with totalitarianism and the degradation of the public sphere |
+| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../美学/schools/critical-theory/benjamin.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
+| 传播学 / Communication | [哈贝马斯 / Habermas](../../../伦理政治/学派/批判理论/habermas.md) | `[继承/分歧]` / `[Inherits/Diverges]` | 同属法兰克福学派但路径不同 / Both Frankfurt School but different paths |
+| 生态哲学 / Eco-Philosophy | [布克钦 / Bookchin](../../../伦理政治/schools/anarchism/bookchin.md) | `[影响]` / `[Influences]` | 社会生态学的思想资源 / Intellectual resource for social ecology |
 
 ## 进阶阅读 / Further Reading
 

@@ -3,7 +3,7 @@ id: aryadeva-two-arms
 title: "龙提并称 Nagarjuna-Aryadeva Pair"
 type: concept
 parent: aryadeva
-domain: religion
+domain: 宗教
 tags: [Nagarjuna-Aryadeva, lineage, Madhyamaka]
 ---
 # 龙提并称 / Nagarjuna-Aryadeva Pair

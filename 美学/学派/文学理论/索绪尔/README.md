@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-theory.saussure
+id: 美学.literary-theory.saussure
 title: 费尔迪南·德·索绪尔 Ferdinand de Saussure
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-theory
 era: modern
 birth: 1857
@@ -13,9 +13,9 @@ sources:
   - "Course in General Linguistics (1916)"
   - "Writings in General Linguistics (pub. 2002)"
 cross-refs:
-  - aesthetics.literary-theory.barthes
-  - aesthetics.literary-theory.bakhtin
-  - aesthetics.literary-theory.frye
+  - 美学.literary-theory.barthes
+  - 美学.literary-theory.bakhtin
+  - 美学.literary-theory.frye
 sub-entries:
   - concepts/signifier-signified
   - concepts/langue-parole

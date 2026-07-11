@@ -1,11 +1,11 @@
 ---
 name: network-society-analysis
 description: Triggers on requests to 网络社会、信息时代、数字社会，如社会变迁分析、技术影响研究、全球化等。Apply this skill to analyze contemporary society using Castells' theory of the network society, understanding how information technology transforms social structures.
-domain: sociology
+domain: 社会学
 linked_thinker: ../../schools/network-society/castells.md
 linked_concepts:
-  - ../../sociology/concepts/network-society.md
-  - ../../sociology/concepts/information-age.md
+  - ../../社会学/概念/network-society.md
+  - ../../社会学/概念/information-age.md
 tags:
   - 网络社会
   - 信息时代

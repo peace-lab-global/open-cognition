@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.alaya-paramartha
+id: 宗教.buddhism.concept.alaya-paramartha
 title: 阿黎耶识 Ālaya-vijñāna in Paramārtha's System
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 parent: paramartha
 tags: [阿黎耶识, ālaya, 唯识, 真谛, 藏识]

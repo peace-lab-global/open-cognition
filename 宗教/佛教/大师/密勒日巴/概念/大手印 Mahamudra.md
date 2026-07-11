@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.masters.milarepa.concepts.mahamudra
+id: 宗教.buddhism.masters.milarepa.concepts.mahamudra
 title: 大手印 Mahamudra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
-parent: religion.buddhism.masters.milarepa
+parent: 宗教.buddhism.masters.milarepa
 tags: [大手印, Mahamudra, 心性, 噶举派, 密勒日巴, nature of mind]
 ---
 

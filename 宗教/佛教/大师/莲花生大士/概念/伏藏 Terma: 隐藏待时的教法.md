@@ -3,7 +3,7 @@ id: padmasambhava-terma
 title: "伏藏 Terma: 隐藏待时的教法"
 type: concept
 parent: padmasambhava
-domain: religion
+domain: 宗教
 tags: [terma, hidden-treasure, Nyingma]
 ---
 # 伏藏 / Terma / Hidden Treasure

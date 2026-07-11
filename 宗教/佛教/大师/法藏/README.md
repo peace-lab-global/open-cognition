@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.fazang
+id: 宗教.buddhism.master.fazang
 title: 法藏 Fǎzàng
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-huayan
 era: medieval
 birth: 643
@@ -93,9 +93,9 @@ Fazang (643–712), Tang dynasty monk, the actual founder of the **Huayan (Flowe
 
 ## 跨学科关联 Interdisciplinary Connections
 
-- [莱布尼茨](../../../philosophy/schools/rationalism/leibniz.md) — [平行] 单子论 vs 因陀罗网
-- [黑格尔](../../../philosophy/schools/german-idealism/hegel.md) — [平行] 整体论
-- [怀特海](../../../philosophy/schools/process/whitehead.md) — [平行] 过程哲学
+- [莱布尼茨](../../../哲学/学派/理性论/戈特弗里德.md) — [平行] 单子论 vs 因陀罗网
+- [黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) — [平行] 整体论
+- [怀特海](../../../哲学/schools/process/whitehead.md) — [平行] 过程哲学
 - [智顗](zhiyi/README.md) — [比较] 天台 vs 华严
 - [华严宗](../schools/huayan.md) — [创立者]
 

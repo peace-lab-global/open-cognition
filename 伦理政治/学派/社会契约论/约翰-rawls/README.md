@@ -2,7 +2,7 @@
 id: rawls
 title: "约翰·罗尔斯 · John Rawls"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: social-contract
 era: contemporary
 birth: 1921
@@ -90,7 +90,7 @@ John Bordley Rawls (February 21, 1921 – November 24, 2002) was an American pol
 
 罗尔斯1943年以最优成绩从普林斯顿大学毕业，随后在二战太平洋战区服役（新几内亚、菲律宾、日本占领军）。战争经历——特别是好友阵亡与广岛原子弹遗址的震撼——使他彻底丧失了青年时期的基督教信仰，转向世俗道德哲学。1950年在普林斯顿完成博士论文《伦理知识研究》，1952–1953年赴牛津大学访学期间结识以赛亚·柏林与H.L.A.哈特，深受后期维特根斯坦与日常语言学派影响。此后执教于康奈尔、麻省理工，1962年转入哈佛大学直至退休。1999年获美国国家人文奖章。
 
-Rawls graduated summa cum laude from Princeton in 1943, then served in the Pacific theater during World War II (New Guinea, Philippines, occupation of Japan). The war experience — particularly the death of close friends and witnessing the aftermath of the Hiroshima atomic bombing — led him to abandon his youthful Christian faith and turn toward secular moral philosophy. He completed his doctoral dissertation *A Study of the Grounds of Ethical Knowledge* at Princeton in 1950, and during a visiting fellowship at Oxford (1952–1953) he encountered Isaiah Berlin and H.L.A. Hart, coming under the influence of later Wittgensteinian thought and ordinary language philosophy. He subsequently taught at Cornell, MIT, and from 1962 at Harvard University until his retirement. He received the National Humanities Medal in 1999.
+Rawls graduated summa cum laude from Princeton in 1943, then served in the Pacific theater during World War II (New Guinea, Philippines, occupation of Japan). The war experience — particularly the death of close friends and witnessing the aftermath of the Hiroshima atomic bombing — led him to abandon his youthful Christian faith and turn toward secular moral 哲学. He completed his doctoral dissertation *A Study of the Grounds of Ethical Knowledge* at Princeton in 1950, and during a visiting fellowship at Oxford (1952–1953) he encountered Isaiah Berlin and H.L.A. Hart, coming under the influence of later Wittgensteinian thought and ordinary language 哲学. He subsequently taught at Cornell, MIT, and from 1962 at Harvard University until his retirement. He received the National Humanities Medal in 1999.
 
 ## 核心命题 / Core Theses
 
@@ -130,11 +130,11 @@ The international extension of justice theory — liberal peoples and decent peo
 
 罗尔斯的早期生涯充满塑造其思想方向的关键经历。普林斯顿时期受诺曼·马尔科姆（Norman Malcolm）影响接触维特根斯坦哲学，同时在弗兰克·奈特（Frank Knight）和沃尔特·斯泰斯（Walter Stace）指导下探索伦理学的基础问题。二战服役经历是其人生的转折点：好友迪肯·彼得森在菲律宾战斗中阵亡，罗尔斯本人险些被派往同一战场；参观广岛原子弹遗址使他深刻质疑神正论问题——为什么上帝允许如此巨大的恶？这一宗教危机最终推动他从神学转向世俗道德哲学，寻找不依赖宗教预设的正义基础。
 
-Rawls's early career was marked by formative experiences that shaped his intellectual direction. At Princeton, he encountered Wittgensteinian philosophy through Norman Malcolm and explored foundational questions in ethics under Frank Knight and Walter Stace. His World War II service proved a turning point: his close friend Deacon Peterson was killed in combat in the Philippines — Rawls himself narrowly avoided the same battlefield — and visiting the Hiroshima atomic bomb site led him to question theodicy profoundly: why would God permit such enormous evil? This religious crisis ultimately drove his shift from theology to secular moral philosophy, seeking a foundation for justice independent of religious presuppositions.
+Rawls's early career was marked by formative experiences that shaped his intellectual direction. At Princeton, he encountered Wittgensteinian 哲学 through Norman Malcolm and explored foundational questions in ethics under Frank Knight and Walter Stace. His World War II service proved a turning point: his close friend Deacon Peterson was killed in combat in the Philippines — Rawls himself narrowly avoided the same battlefield — and visiting the Hiroshima atomic bomb site led him to question theodicy profoundly: why would God permit such enormous evil? This religious crisis ultimately drove his shift from theology to secular moral philosophy, seeking a foundation for justice independent of religious presuppositions.
 
 1950年代是他的方法论探索期。博士论文试图为伦理知识建立认识论基础，但并未找到满意的方案。牛津访学是关键转折：以赛亚·柏林关于"两种自由概念"的讲座使他意识到政治价值冲突的深刻性；H.L.A.哈特的法哲学展示了分析哲学处理规范性问题的力量。1958年发表的《作为公平的正义》论文标志着核心框架的首次亮相——尽管此时论证尚不完备，但原初状态和正义原则的基本结构已经成形。
 
-The 1950s were a period of methodological exploration. His doctoral dissertation attempted to establish an epistemological foundation for ethical knowledge but did not arrive at a fully satisfactory solution. The Oxford visit proved pivotal: Isaiah Berlin's lectures on "Two Concepts of Liberty" made him acutely aware of the depth of political value conflicts; H.L.A. Hart's legal philosophy demonstrated the power of analytic philosophy for addressing normative questions. The 1958 paper "Justice as Fairness" marked the first appearance of the core framework — although the argumentation was not yet fully developed, the basic structure of the original position and principles of justice was already taking shape.
+The 1950s were a period of methodological exploration. His doctoral dissertation attempted to establish an epistemological foundation for ethical knowledge but did not arrive at a fully satisfactory solution. The Oxford visit proved pivotal: Isaiah Berlin's lectures on "Two Concepts of Liberty" made him acutely aware of the depth of political value conflicts; H.L.A. Hart's legal 哲学 demonstrated the power of analytic 哲学 for addressing normative questions. The 1958 paper "Justice as Fairness" marked the first appearance of the core framework — although the argumentation was not yet fully developed, the basic structure of the original position and principles of justice was already taking shape.
 
 ### 中期 / Middle Period (1958–1971)
 
@@ -144,7 +144,7 @@ This period represents the systematic construction phase of Rawls's thought. Dur
 
 1971年《正义论》出版，立即在英语世界的政治哲学界引发地震。该书被誉为"复活了政治哲学"——在逻辑实证主义和行为主义主导的学术界，罗尔斯以严密的分析哲学方法证明规范性政治理论不仅可能，而且必要。该书对功利主义传统的系统批判、对康德道义论的程序化重构、以及对经济正义的创新论证，使之成为跨哲学、法学、经济学和政治学的里程碑式著作。
 
-The publication of *A Theory of Justice* in 1971 immediately triggered an earthquake in the political philosophy of the English-speaking world. The book was hailed as having "revived political philosophy" — in an academic landscape dominated by logical positivism and behavioralism, Rawls demonstrated through rigorous analytic methods that normative political theory was not only possible but necessary. Its systematic critique of the utilitarian tradition, its procedural reconstruction of Kantian deontology, and its innovative arguments for economic justice made it a milestone work spanning philosophy, law, economics, and political science.
+The publication of *A Theory of Justice* in 1971 immediately triggered an earthquake in the political 哲学 of the English-speaking world. The book was hailed as having "revived political philosophy" — in an academic landscape dominated by logical positivism and behavioralism, Rawls demonstrated through rigorous analytic methods that normative political theory was not only possible but necessary. Its systematic critique of the utilitarian tradition, its procedural reconstruction of Kantian deontology, and its innovative arguments for economic justice made it a milestone work spanning philosophy, law, economics, and political science.
 
 ### 晚期 / Late Period (1971–2002)
 

@@ -2,7 +2,7 @@
 id: hegel
 title: 黑格尔 · G.W.F. Hegel
 type: thinker
-domain: philosophy
+domain: 哲学
 school: german-idealism
 era: modern
 birth: 1770
@@ -48,7 +48,7 @@ cross-refs:
     relation: 下游(主奴辩证法的影响)
   - id: honneth
     relation: 下游(承认理论)
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行(意识的自我展开)
 children:
   - concepts/dialectics.md
@@ -89,7 +89,7 @@ sub-entries:
 
 黑格尔的授课风格以极端晦涩著称——他经常在课堂上停顿、犹豫,仿佛在与自己的思想进行斗争。但这种"思想的劳作"(Arbeit des Begriffs)恰恰是他哲学方法的一部分:概念不是被给予的,而是在思维的运动中生成的。他的学生包括后来深刻影响了马克思的甘斯(Eduard Gans)、以及许多 19 世纪德国最重要的知识分子。与康德的规律性生活方式形成鲜明对照,黑格尔热爱剧院、社交和旅行,甚至曾在 1820 年代游历荷兰和奥地利。1831 年因霍乱逝世于柏林,享年 61 岁。他的葬礼以国葬规格举行,葬于柏林多罗特恩墓地,紧邻费希特的墓地。
 
-Georg Wilhelm Friedrich Hegel was born in Stuttgart to a civil servant family. He entered the Tübinger Stift theological seminary in 1788, where he studied alongside Schelling and Hölderlin -- three figures who would respectively become the leading representatives of German Idealist philosophy, philosophy of nature, and Romantic poetry. During their Tübingen years, the three planted a "freedom tree" to celebrate the French Revolution, and Hölderlin called Hegel "our Proclus of the Greeks." The French Revolution profoundly shaped his thought -- he reportedly celebrated the anniversary of the storming of the Bastille throughout his life, toasting it every July 14th.
+Georg Wilhelm Friedrich Hegel was born in Stuttgart to a civil servant family. He entered the Tübinger Stift theological seminary in 1788, where he studied alongside Schelling and Hölderlin -- three figures who would respectively become the leading representatives of German Idealist philosophy, 哲学 of nature, and Romantic poetry. During their Tübingen years, the three planted a "freedom tree" to celebrate the French Revolution, and Hölderlin called Hegel "our Proclus of the Greeks." The French Revolution profoundly shaped his thought -- he reportedly celebrated the anniversary of the storming of the Bastille throughout his life, toasting it every July 14th.
 
 After working as a private tutor in Tübingen and Bern, Hegel began his philosophical career at Jena. His collaboration with and subsequent break from Schelling marked the beginning of his independent philosophical path. In 1807, as Napoleon's cannons bombarded Jena, Hegel completed the *Phenomenology of Spirit* -- he reportedly saw Napoleon riding through the city and called him the "world soul on horseback" (Weltseele zu Pferde). He then served as rector of a Gymnasium in Nuremberg for eight years (1808--1816), where he wrote the *Science of Logic* -- the work Hegel himself considered his most important, though also his most difficult. In 1816 he moved to Heidelberg as professor, and in 1818 he was called to Berlin by the Prussian minister of education Wilhelm von Humboldt, becoming the most influential philosopher in Germany.
 
@@ -143,7 +143,7 @@ Self-consciousness is not an isolated existence but arises only **in relation to
 
 黑格尔在图宾根神学院学习神学,但兴趣逐渐转向哲学和政治。法国大革命的自由、平等、博爱理念对他产生了深刻影响。在伯尔尼和法兰克福担任家庭教师期间,黑格尔撰写了大量未发表的手稿(后称"早期神学著作"),探讨基督教的实证性与民间宗教、爱与和解、生命的统一性等主题。这些手稿直到 20 世纪才被出版,揭示了黑格尔思想中常被忽视的"生命哲学"维度。
 
-Hegel studied theology at the Tübingen seminary, but his interests gradually shifted toward philosophy and politics. The French Revolution's ideals of liberty, equality, and fraternity profoundly influenced him. During his years as a private tutor in Bern and Frankfurt, Hegel wrote extensive unpublished manuscripts (later called "Early Theological Writings") exploring the positivity of Christianity, folk religion, love and reconciliation, and the unity of life. These manuscripts, published only in the twentieth century, reveal the often-neglected "philosophy of life" dimension of Hegel's thought.
+Hegel studied theology at the Tübingen seminary, but his interests gradually shifted toward 哲学 and politics. The French Revolution's ideals of liberty, equality, and fraternity profoundly influenced him. During his years as a private tutor in Bern and Frankfurt, Hegel wrote extensive unpublished manuscripts (later called "Early Theological Writings") exploring the positivity of Christianity, folk religion, love and reconciliation, and the unity of life. These manuscripts, published only in the twentieth century, reveal the often-neglected "philosophy of life" dimension of Hegel's thought.
 
 ### 中期: 耶拿—纽伦堡—海德堡 (1801--1818) · Middle Period
 
@@ -155,7 +155,7 @@ In 1801 Hegel began lecturing at the University of Jena, co-editing the *Critica
 
 1818 年黑格尔应洪堡之邀赴柏林大学任教,成为普鲁士的"国家哲学家"。他讲授逻辑学与形而上学、自然哲学、精神哲学、法哲学、美学、宗教哲学、历史哲学等广泛课程。1821 年出版《法哲学原理》,这是他生前出版的最后一部重要著作。大量讲演录(历史哲学、美学、宗教哲学)在他身后由学生整理出版。1831 年黑格尔因霍乱逝世,享年 61 岁。其死后迅速分化为右派(老黑格尔派,保守宗教)和左派(青年黑格尔派,激进政治)。
 
-In 1818 Hegel was called to Berlin by Humboldt, becoming the "state philosopher" of Prussia. He lectured on a wide range of subjects: logic and metaphysics, philosophy of nature, philosophy of spirit, philosophy of right, aesthetics, philosophy of religion, and philosophy of history. In 1821 he published the *Elements of the Philosophy of Right*, his last major published work. Many lecture notes (philosophy of history, aesthetics, philosophy of religion) were published posthumously by his students. Hegel died of cholera in 1831 at age 61. After his death, his followers rapidly divided into the Right Hegelians (Old Hegelians, conservative religion) and the Left Hegelians (Young Hegelians, radical politics).
+In 1818 Hegel was called to Berlin by Humboldt, becoming the "state philosopher" of Prussia. He lectured on a wide range of subjects: logic and metaphysics, 哲学 of nature, 哲学 of spirit, 哲学 of right, aesthetics, 哲学 of religion, and 哲学 of history. In 1821 he published the *Elements of the Philosophy of Right*, his last major published work. Many lecture notes (哲学 of history, aesthetics, 哲学 of 宗教) were published posthumously by his students. Hegel died of cholera in 1831 at age 61. After his death, his followers rapidly divided into the Right Hegelians (Old Hegelians, conservative 宗教) and the Left Hegelians (Young Hegelians, radical politics).
 
 ## 关键著作 · Major Works
 
@@ -226,11 +226,11 @@ In 1818 Hegel was called to Berlin by Humboldt, becoming the "state philosopher"
 
 ## 跨学科关联 · Interdisciplinary Connections
 
-- **[马克思 · 异化](../../../sociology/schools/classical/marx.md)** `[发展]` 马克思唯物地颠倒黑格尔辩证法——不是精神异化,而是劳动异化
-- **[荣格 · 个体化](../../../psychology/schools/analytical-psychology/jung.md)** `[平行]` 个体化(Individuation)作为意识自我展开的过程与黑格尔的精神现象学有结构平行
-- **[阿多诺 · 否定辩证法](../../../philosophy/schools/critical-theory/)** `[批判发展]` 阿多诺以"否定辩证法"反对黑格尔的"否定之否定"——拒绝最终的总体化和解
-- **[霍耐特 · 承认理论](../../../sociology/)** `[发展]` Honneth 将黑格尔的承认概念发展为当代社会哲学的基础
-- **[布兰顿 · 推论主义](../../../philosophy/schools/analytic/)** `[发展]` Brandom 从黑格尔的社会性承认概念发展出推论主义语义学
+- **[马克思 · 异化](../../../社会学/学派/古典社会学/马克思.md)** `[发展]` 马克思唯物地颠倒黑格尔辩证法——不是精神异化,而是劳动异化
+- **[荣格 · 个体化](../../../心理学/学派/分析心理学/卡尔.md)** `[平行]` 个体化(Individuation)作为意识自我展开的过程与黑格尔的精神现象学有结构平行
+- **[阿多诺 · 否定辩证法](../../../哲学/schools/critical-theory/)** `[批判发展]` 阿多诺以"否定辩证法"反对黑格尔的"否定之否定"——拒绝最终的总体化和解
+- **[霍耐特 · 承认理论](../../../社会学/)** `[发展]` Honneth 将黑格尔的承认概念发展为当代社会哲学的基础
+- **[布兰顿 · 推论主义](../../../哲学/学派/分析哲学/)** `[发展]` Brandom 从黑格尔的社会性承认概念发展出推论主义语义学
 
 ## 进阶阅读 · Further Reading
 

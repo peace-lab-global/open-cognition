@@ -2,7 +2,7 @@
 id: klein-melanie
 title: "梅兰妮·克莱因 · Melanie Klein"
 type: thinker
-domain: psychology
+domain: 心理学
 school: object-relations
 era: modern
 birth: 1882
@@ -199,7 +199,7 @@ Freud's Drive Theory ←—— Klein ——→ Anna Freud
 
 4. **文学批评 / Literary Criticism**: 克莱因理论被用于分析文学作品中的情感和关系模式 (Kleinian theory is used to analyze emotional and relational patterns in literary works)
 
-5. **母婴关系研究 / Mother-Infant Relationship Research**: 克莱因的早期客体关系理论对母婴互动研究有重要影响 (Klein's early object relations theory has important influence on mother-infant interaction research)
+5. **母婴关系研究 / Mother-Infant Relationship Research**: 克莱因的早期客体关系理论对母婴互动研究有重要影响 (Klein's early object relations theory has important influence on mother-infant interaction 研究)
 
 6. **创伤治疗 / Trauma Treatment**: 克莱因理论帮助理解创伤如何影响内在客体世界 (Kleinian theory helps understand how trauma affects the internal object world)
 
@@ -235,7 +235,7 @@ Klein's concept of "gratitude" connects with Buddhism's "compassion" (karuṇā)
 
 克莱因的"分裂"概念可与庄子的"齐物"思想对话。庄子批评人为的分别心——将世界分为好与坏、美与丑。克莱因认为分裂是早期心理发展的必要阶段，但成熟需要超越分裂，认识到矛盾的统一。这与庄子"齐物论"的智慧相呼应。
 
-Klein's concept of "splitting" can dialogue with Zhuangzi's "equalizing of things" philosophy. Zhuangzi criticizes artificial discrimination—dividing the world into good and bad, beautiful and ugly. Klein sees splitting as a necessary stage of early psychological development, but maturity requires transcending splitting to recognize the unity of contradictions. This echoes the wisdom of Zhuangzi's "Discussion on Making All Things Equal."
+Klein's concept of "splitting" can dialogue with Zhuangzi's "equalizing of things" 哲学. Zhuangzi criticizes artificial discrimination—dividing the world into good and bad, beautiful and ugly. Klein sees splitting as a necessary stage of early psychological development, but maturity requires transcending splitting to recognize the unity of contradictions. This echoes the wisdom of Zhuangzi's "Discussion on Making All Things Equal."
 
 ## 跨学科关联 / Interdisciplinary Connections
 

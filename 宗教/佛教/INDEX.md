@@ -271,13 +271,13 @@
 
 | 佛教概念 | 对应/对话领域 | 关联条目 |
 |---|---|---|
-| 空性 Śūnyatā | 哲学 · 存在主义 | [海德格尔 · 存在](../../philosophy/schools/existentialism/heidegger.md) |
-| 无我 Anattā | 心理学 · 精神分析 | [弗洛伊德 · 自我](../../psychology/schools/psychoanalysis/freud.md)、[荣格 · 自性](../../psychology/schools/analytical-psychology/jung.md) |
-| 缘起 | 社会学 · 结构主义 | [布迪厄 · 场域](../../sociology/schools/structuralism/bourdieu.md) |
-| 心流 / 正念 | 心理学 · 积极心理学 | [心流 Flow](../../psychology/concepts/flow.md)、[米哈里](../../psychology/schools/positive/csikszentmihalyi.md) |
-| 八识 | 心理学 · 认知 | [认知失调](../../psychology/concepts/cognitive-dissonance.md)、[皮亚杰 · 图式](../../psychology/schools/cognitive/piaget.md) |
-| 慈悲 | 伦理学 | 对应 [ethics-politics](../ethics-politics/) 关怀伦理 |
-| 禅 | 美学 | 对应 [aesthetics](../aesthetics/) 侘寂 |
+| 空性 Śūnyatā | 哲学 · 存在主义 | [海德格尔 · 存在](../../哲学/学派/存在主义/海德格尔.md) |
+| 无我 Anattā | 心理学 · 精神分析 | [弗洛伊德 · 自我](../../心理学/学派/精神分析/西格蒙德.md)、[荣格 · 自性](../../心理学/学派/分析心理学/卡尔.md) |
+| 缘起 | 社会学 · 结构主义 | [布迪厄 · 场域](../../社会学/学派/结构主义/布迪厄.md) |
+| 心流 / 正念 | 心理学 · 积极心理学 | [心流 Flow](../../心理学/概念/心流 Flow.md)、[米哈里](../../心理学/学派/积极心理学/米哈里.md) |
+| 八识 | 心理学 · 认知 | [认知失调](../../心理学/概念/认知失调 Cognitive Dissonance.md)、[皮亚杰 · 图式](../../心理学/学派/认知心理学/皮亚杰.md) |
+| 慈悲 | 伦理学 | 对应 [伦理政治](../伦理政治/) 关怀伦理 |
+| 禅 | 美学 | 对应 [美学](../美学/) 侘寂 |
 
 ---
 

@@ -3,7 +3,7 @@ id: tsongkhapa-lojong
 title: "修心 Lojong: 认知重构的修行传统"
 type: concept
 parent: tsongkhapa
-domain: religion
+domain: 宗教
 tags: [lojong, mind-training, tonglen, cognitive-restructuring]
 ---
 

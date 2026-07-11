@@ -1,11 +1,11 @@
 ---
 name: attachment-analysis
 description: Triggers on requests to 依恋理论、亲密关系、早期经验，如人际关系分析、亲子关系、心理治疗等。Apply this skill to analyze relationships using Bowlby's attachment theory, understanding how early experiences shape adult relationships.
-domain: psychology
+domain: 心理学
 linked_thinker: ../../schools/developmental/bowlby.md
 linked_concepts:
   - ../../concepts/attachment.md
-  - ../../psychology/concepts/attachment-styles.md
+  - ../../心理学/概念/依恋-styles.md
 tags:
   - 依恋理论
   - 亲密关系

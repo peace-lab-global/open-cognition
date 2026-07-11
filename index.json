@@ -6800,7 +6800,7 @@
     {
       "path": "skills/ethics-politics-frameworks/nonviolent-resistance/SKILL.md",
       "name": "nonviolent-resistance",
-      "description": "Triggers on requests to 非暴力抵抗、真理之力、和平抗争，如社会运动、冲突解决、道德勇气等。Apply this skill to analyze and practice nonviolent resistance using Gandhi's philosophy of satyagraha, understanding how truth and love can overcome injustice.",
+      "description": "Triggers on requests to 非暴力抵抗、真理之力、和平抗争，如社会运动、冲突解决、道德勇气等。Apply this skill to analyze and practice nonviolent resistance using Gandhi's 哲学 of satyagraha, understanding how truth and love can overcome injustice.",
       "domain": "ethics-politics",
       "tags": [
         "非暴力抵抗",
@@ -7524,7 +7524,7 @@
     {
       "path": "skills/religion-frameworks/sacred-profane-analysis/SKILL.md",
       "name": "sacred-profane-analysis",
-      "description": "Triggers when a user analyzes a community ritual, brand culture, political ceremony, or modern phenomenon (sport, celebrity, technology) using the religion/secular dichotomy. Apply this skill to surface the sacred-profane structure and avoid both naive secularism and naive sacralization.",
+      "description": "Triggers when a user analyzes a community ritual, brand culture, political ceremony, or modern phenomenon (sport, celebrity, technology) using the 宗教/secular dichotomy. Apply this skill to surface the sacred-profane structure and avoid both naive secularism and naive sacralization.",
       "domain": "religion",
       "tags": [
         "sacred",
@@ -7587,7 +7587,7 @@
     {
       "path": "skills/religion-frameworks/twelve-links-contemplation/SKILL.md",
       "name": "twelve-links-contemplation",
-      "description": "Triggers when a user reports feeling trapped in recurring life patterns, fatalistic thinking, or wants to meditate on the chain of causation. Apply this skill to guide the user through a contemplative reverse-visualization of the twelve links of dependent origination, turning abstract philosophy into an experiential practice of finding freedom within the chain.",
+      "description": "Triggers when a user reports feeling trapped in recurring life patterns, fatalistic thinking, or wants to meditate on the chain of causation. Apply this skill to guide the user through a contemplative reverse-visualization of the twelve links of dependent origination, turning abstract 哲学 into an experiential practice of finding freedom within the chain.",
       "domain": "religion",
       "tags": [
         "pratītyasamutpāda",

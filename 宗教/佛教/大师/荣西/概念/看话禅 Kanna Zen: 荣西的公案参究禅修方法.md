@@ -3,7 +3,7 @@ id: yosai-kanhua-zen
 title: "看话禅 Kanna Zen: 荣西的公案参究禅修方法"
 type: concept
 parent: yosai
-domain: religion
+domain: 宗教
 tags: [看话禅, 公案, koan, Kanna Zen, 大疑大悟, 临济宗]
 ---
 
@@ -120,7 +120,7 @@ Kanna Zen has attracted special interest in contemporary cognitive science and p
   Kuhn's paradigm shift: the "great doubt–great awakening" process parallels Kuhn's "crisis–paradigm shift" model.
 
 - **心理韧性**：看话禅所要求的"大愤志"（强烈的意志力）和"大疑情"（对不确定性的忍受力）与当代心理学中"心理韧性"(resilience) 的研究相呼应。
-  Psychological resilience: the "great determination" and "great doubt" (tolerance for uncertainty) required by Kanna Zen resonate with contemporary resilience research.
+  Psychological resilience: the "great determination" and "great doubt" (tolerance for uncertainty) required by Kanna Zen resonate with contemporary resilience 研究.
 
 ## 参见 / See Also
 

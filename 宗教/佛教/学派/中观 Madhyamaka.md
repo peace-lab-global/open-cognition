@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.madhyamaka
+id: 宗教.buddhism.school.madhyamaka
 title: 中观 Madhyamaka
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: ancient
 tags: [中观, 空性, 二谛, 四句破, 龙树]
@@ -90,10 +90,10 @@ sources: [《中论》, 《大智度论》, 《十二门论》, 《入中论》]
 
 ## 跨学科关联
 
-- [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) — [平行] 对本质主义的批判
-- [海德格尔 · 存在](../../../philosophy/schools/existentialism/heidegger.md) — [平行] 解构实体性存在
+- [维特根斯坦 · 语言游戏](../../../哲学/学派/分析哲学/维特根斯坦.md) — [平行] 对本质主义的批判
+- [海德格尔 · 存在](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 解构实体性存在
 - [德里达 · 解构] — [继承] 当代后结构主义
-- [康德 · 先验](../../../philosophy/schools/german-idealism/kant.md) — [张力] 物自体 vs 无自性
+- [康德 · 先验](../../../哲学/学派/德国唯心论/康德.md) — [张力] 物自体 vs 无自性
 
 ## Cognitive Architecture
 
@@ -112,7 +112,7 @@ sources: [《中论》, 《大智度论》, 《十二门论》, 《入中论》]
 - **与维特根斯坦的对话**：中观对"自性"（svabhāva）的破斥与维特根斯坦对"本质"的消解高度平行——二者都主张意义/存在不来自内在本质，而来自关系网络（缘起/语言游戏）。
 - **反本质主义的认知遗产**：中观的核心贡献不是提供新的认知内容，而是训练一种认知姿态——对所有概念化（包括"空"本身）保持非执取的觉知。
 
-**跨领域参照**：中观的反本质主义与 [维特根斯坦的语言批判](../../../philosophy/schools/analytic/wittgenstein.md) 深度呼应，对"自性"的解构可与 [德里达的延异](../../../philosophy/schools/post-structuralism/derrida.md) 比较。详见 [中观](../concepts/cognitive-theory/madhyamaka.md)、[二谛](../concepts/cognitive-theory/two-truths.md)。
+**跨领域参照**：中观的反本质主义与 [维特根斯坦的语言批判](../../../哲学/学派/分析哲学/维特根斯坦.md) 深度呼应，对"自性"的解构可与 [德里达的延异](../../../哲学/学派/后结构主义/雅克.md) 比较。详见 [中观](../concepts/cognitive-theory/madhyamaka.md)、[二谛](../concepts/cognitive-theory/two-truths.md)。
 
 ## 进阶阅读
 

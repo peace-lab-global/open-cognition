@@ -3,7 +3,7 @@ id: wisdom-masters.china.mazu-daoyi.ordinary-mind-way
 title: 平常心是道 Píngcháng Xīn Shì Dào
 type: concept
 thinker: 马祖道一 Mazu Daoyi
-domain: religion
+domain: 宗教
 school: chan-buddhism
 tags: [平常心, 道, 日常修行]
 ---

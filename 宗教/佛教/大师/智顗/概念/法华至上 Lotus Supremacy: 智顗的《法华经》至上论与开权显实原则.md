@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.zhiyi.concept.lotus-supremacy
+id: 宗教.buddhism.master.zhiyi.concept.lotus-supremacy
 title: "法华至上 Lotus Supremacy: 智顗的《法华经》至上论与开权显实原则"
 type: concept
-parent: religion.buddhism.master.zhiyi
-domain: religion
+parent: 宗教.buddhism.master.zhiyi
+domain: 宗教
 tags: [法华经, Lotus Sutra, 开权显实, 会三归一, One Vehicle, 一佛乘, 方便, 法华至上, Saddharmapundarika, Tiantai]
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.dilun
+id: 宗教.buddhism.school.dilun
 title: 地论宗 Dilun School
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-dilun
 era: medieval
 tags: [地论宗, 十地经论, 如来藏, 相州南北道, 唯识]

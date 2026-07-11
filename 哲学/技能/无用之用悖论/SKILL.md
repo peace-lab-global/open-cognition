@@ -1,10 +1,10 @@
 ---
 name: uselessness-paradox
 description: Triggers on requests to 无用之用、价值重估、非功利视角，如创新思维、人生意义、资源分配等。Apply this skill to help users discover hidden value in seemingly useless things.
-domain: philosophy
-linked_thinker: ../../../religion/traditions/taoism/masters/zhuangzi.md
+domain: 哲学
+linked_thinker: ../../../宗教/传统/道教/masters/庄子.md
 linked_concepts:
-  - ../../religion/traditions/taoism/wuyong.md
+  - ../../宗教/传统/道教/wuyong.md
 tags:
   - 无用之用
   - 价值重估
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[庄子](../../../religion/traditions/taoism/masters/zhuangzi.md)
-- 来源概念：[无用之用](../../religion/concepts/wuyong.md)
+- 来源思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 来源概念：[无用之用](../../宗教/概念/wuyong.md)
 - 关键文献：《庄子·逍遥游》、《庄子·人间世》
 
 ## 操作流程
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[庄子](../../../religion/traditions/taoism/masters/zhuangzi.md)
-- 概念：[无用之用](../../religion/concepts/wuyong.md)
+- 思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
+- 概念：[无用之用](../../宗教/概念/wuyong.md)
 - 相关 Skill：[qiwu-analysis](./qiwu-analysis/SKILL.md)、[reverse-thinking](./reverse-thinking/SKILL.md)

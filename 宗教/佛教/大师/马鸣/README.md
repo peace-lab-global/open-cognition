@@ -2,7 +2,7 @@
 id: ashvaghosha
 title: "马鸣 Aśvaghoṣa: 佛教梵语文学之父与大乘佛教先驱"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: classical-india
 birth: 80
@@ -223,7 +223,7 @@ children: ["concepts/buddhacarita", "concepts/tathagatagarbha", "concepts/one-mi
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [龙树](../nagarjuna/) — 中观学派创始人，马鸣的后继者；[无著与世亲](../asanga-vasubandhu/) — 继承如来藏-阿赖耶融合思路；[法藏](../fazang/) — 《大乘起信论》的最重要注释者
-- **文学**: [迦梨陀娑 Kālidāsa](../../../literature/classical-india/kalidasa.md) — 印度古典文学的另一座高峰，与马鸣并称
+- **文学**: [迦梨陀娑 Kālidāsa](../../../文学/classical-india/kalidasa.md) — 印度古典文学的另一座高峰，与马鸣并称
 - **比较文学**: 荷马（Homer）、但丁（Dante）、弥尔顿（Milton）— 宗教史诗传统
 - **心理学**: 荣格（Jung）— 自性与佛性；马斯洛（Maslow）— 自我实现与本觉
 - **哲学**: 海德格尔（Heidegger）— 存在与此在；怀特海（Whitehead）— 过程哲学与缘起论

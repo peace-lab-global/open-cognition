@@ -2,7 +2,7 @@
 id: ajahn-chah
 title: 阿姜查 · Ajahn Chah
 type: thinker
-domain: religion
+domain: 宗教
 school: theravada-buddhism
 era: contemporary
 birth: 1918
@@ -177,7 +177,7 @@ In one famous example, when someone asked him "What is Dhamma?", he picked up a 
 4. **领导力培训 / Leadership Training**：他的觉知训练和简单决策方法被引入企业管理和领导力发展项目。
 
 1. **Psychotherapy**: Ajahn Chah's natural observation and present-moment awareness methods have been integrated into various modern psychotherapeutic approaches, particularly Mindfulness-Based Cognitive Therapy (MBCT) and Acceptance and Commitment Therapy (ACT).
-2. **Environmental Ethics**: His simple living philosophy and attitude of respect for nature provide spiritual resources for contemporary environmental movements.
+2. **Environmental Ethics**: His simple living 哲学 and attitude of respect for nature provide spiritual resources for contemporary environmental movements.
 3. **End-of-Life Care**: His teachings on death and impermanence have been applied to hospice care and grief counseling.
 4. **Leadership Training**: His awareness training and simple decision-making approaches have been introduced into corporate management and leadership development programs.
 

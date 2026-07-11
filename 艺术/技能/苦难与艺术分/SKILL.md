@@ -1,11 +1,11 @@
 ---
 name: suffering-art-analysis
 description: Triggers on requests to 苦难与艺术、创造力、艺术表达，如艺术创作、心理治疗、人生意义等。Apply this skill to analyze the relationship between suffering and art using Beethoven's approach, understanding how adversity can fuel creative expression.
-domain: arts
+domain: 艺术
 linked_thinker: ../../schools/music/beethoven.md
 linked_concepts:
-  - ../../arts/concepts/suffering-art.md
-  - ../../arts/concepts/will.md
+  - ../../艺术/概念/suffering-art.md
+  - ../../艺术/概念/will.md
 tags:
   - 苦难与艺术
   - 创造力
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[路德维希·凡·贝多芬](../../schools/music/beethoven.md)
 - 概念：[苦难与艺术](../../concepts/suffering-art.md)、[意志](../../concepts/will.md)
-- 相关 Skill：[suffering-redemption-analysis](../../literature/skills/suffering-redemption-analysis/SKILL.md)、[will-to-power-analysis](../../philosophy/skills/will-to-power-analysis/SKILL.md)
+- 相关 Skill：[suffering-redemption-analysis](../../文学/技能/苦难救赎分析/SKILL.md)、[will-to-power-analysis](../../哲学/技能/权力意志分析/SKILL.md)

@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.benjamin.concepts.flaneur
+id: 美学.critical-aesthetics.benjamin.concepts.flaneur
 title: 游荡者 Flâneur
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.benjamin
+domain: 美学
+parent: 美学.critical-aesthetics.benjamin
 tags: [游荡者, 波德莱尔, 现代性, 都市, 人群]
 ---
 
@@ -20,7 +20,7 @@ tags: [游荡者, 波德莱尔, 现代性, 都市, 人群]
 ### 起源 / Origin
 游荡者形象最早出现在19世纪早期的巴黎文学中——一种在新兴都市空间中闲逛、观察、品味城市生活的绅士形象。波德莱尔将游荡者提升为现代性的象征——一个在人群中寻找"新奇"的诗人，"人群是他的领域，就像空气是鸟的领域、水是鱼的领域"。
 
-The flâneur image first appeared in early 19th-century Parisian literature — a gentleman strolling, observing, and savoring urban life. Baudelaire elevated the flâneur to modernity's symbol — a poet seeking "the new" in crowds, "the crowd is his element, as the air is that of birds and water that of fishes."
+The flâneur image first appeared in early 19th-century Parisian 文学 — a gentleman strolling, observing, and savoring urban life. Baudelaire elevated the flâneur to modernity's symbol — a poet seeking "the new" in crowds, "the crowd is his element, as the air is that of birds and water that of fishes."
 
 ### 矛盾性 / Contradictions
 游荡者充满矛盾：

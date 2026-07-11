@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.six-paramitas
+id: 宗教.buddhism.core.six-paramitas
 title: 六度 Six Pāramitās
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-mahayana
 era: ancient
 tags: [六度, 六波罗蜜, 布施, 持戒, 忍辱, 精进, 禅定, 般若]
@@ -63,10 +63,10 @@ sources: [《大般若经》, 《大智度论》, 《瑜伽师地论》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 德性伦理](../../../philosophy/schools/ancient-greek/aristotle.md) — [平行] 德性实践
+- [亚里士多德 · 德性伦理](../../../哲学/学派/古希腊/亚里士多德.md) — [平行] 德性实践
 - [马丁·路德·金] — [平行] 忍辱与社会正义
-- [斯多葛学派](../../../philosophy/schools/stoicism/) — [平行] 忍辱与坚韧
-- [福柯 · 自我技术](../../../sociology/schools/structuralism/foucault.md) — [平行] 六度作为自我技术
+- [斯多葛学派](../../../哲学/schools/stoicism/) — [平行] 忍辱与坚韧
+- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 六度作为自我技术
 
 ## 进阶阅读
 

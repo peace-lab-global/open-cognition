@@ -1,9 +1,9 @@
 ---
-id: aesthetics.critical-aesthetics.adorno.concepts.non-identity
+id: 美学.critical-aesthetics.adorno.concepts.non-identity
 title: 非同一性 Non-Identity
 type: concept
-domain: aesthetics
-parent: aesthetics.critical-aesthetics.adorno
+domain: 美学
+parent: 美学.critical-aesthetics.adorno
 tags: [非同一性, 同一性思维, 概念批判, 认识论, 形而上学]
 ---
 

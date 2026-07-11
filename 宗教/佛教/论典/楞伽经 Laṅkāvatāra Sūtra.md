@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.sutra.lankavatara
+id: 宗教.buddhism.sutra.lankavatara
 title: 楞伽经 Laṅkāvatāra Sūtra
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-yogacara-tathagatagarbha
 era: ancient
 tags: [楞伽经, 五法, 三自性, 八识, 二无我, 禅宗, 如来藏]

@@ -137,4 +137,4 @@ tags:
 - 祖师：[道元](../../masters/japan/dogen.md)
 - 概念：[只管打坐](./concepts/shikantaza.md)（待建）
 - 相关Skill：[道元当下圆满](./dogen-presence/SKILL.md)
-- 跨传统：[海德格尔·本真](../../philosophy/schools/existentialism/heidegger.md)（平行）——本真存在与"只是在这里"的结构呼应
+- 跨传统：[海德格尔·本真](../../哲学/学派/存在主义/海德格尔.md)（平行）——本真存在与"只是在这里"的结构呼应

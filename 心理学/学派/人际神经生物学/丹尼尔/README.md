@@ -2,7 +2,7 @@
 id: siegel-daniel
 title: "丹尼尔·西格尔 · Daniel J. Siegel"
 type: thinker
-domain: psychology
+domain: 心理学
 school: interpersonal-neurobiology
 era: contemporary
 birth: 1957
@@ -48,13 +48,13 @@ The essence of mental health is not the elimination of symptoms but the promotio
 
 "心智之眼"（mindsight）是一种能够觉察自身与他人内在心理过程的能力——"看见"自己的思想、情感与身体感受，而不是被它们淹没。这种能力依赖于前额叶皮层的功能整合，可以通过正念冥想等注意力训练系统地培养，并在fMRI研究中产生可测量的脑结构变化。
 
-"Mindsight" is the capacity to perceive one's own and others' internal mental processes — to "see" one's thoughts, emotions, and bodily sensations rather than being overwhelmed by them. This capacity depends on the functional integration of the prefrontal cortex and can be systematically cultivated through attention training such as mindfulness meditation, producing measurable structural brain changes as demonstrated in fMRI research.
+"Mindsight" is the capacity to perceive one's own and others' internal mental processes — to "see" one's thoughts, emotions, and bodily sensations rather than being overwhelmed by them. This capacity depends on the functional integration of the prefrontal cortex and can be systematically cultivated through attention training such as mindfulness meditation, producing measurable structural brain changes as demonstrated in fMRI 研究.
 
 ### 命题四：关系经验塑造大脑发育 / Proposition 4: Relational Experience Shapes Brain Development
 
 大脑不是一个预先编程完成的孤立器官，而是一个"社会性器官"——其神经回路的发育在根本上依赖于早期人际互动经验。安全依恋关系促进大脑整合性发育，不安全依恋则导致整合的阻断。这一观点将鲍尔比的依恋理论与现代神经可塑性（neuroplasticity）研究融为一体。
 
-The brain is not a pre-programmed isolated organ but a "social organ" — its neural circuit development fundamentally depends on early interpersonal interactive experiences. Secure attachment relationships promote integrative brain development, while insecure attachment leads to impaired integration. This perspective unifies Bowlby's attachment theory with modern neuroplasticity research.
+The brain is not a pre-programmed isolated organ but a "social organ" — its neural circuit development fundamentally depends on early interpersonal interactive experiences. Secure attachment relationships promote integrative brain development, while insecure attachment leads to impaired integration. This perspective unifies Bowlby's attachment theory with modern neuroplasticity 研究.
 
 ### 命题五：耐受之窗定义了情绪调节的边界 / Proposition 5: The Window of Tolerance Defines the Boundaries of Emotion Regulation
 
@@ -80,8 +80,8 @@ Healthy self-identity is not isolated individuality but "MWe" — the integratio
 Siegel was born in New York and received his medical education at Harvard Medical School. After completing his psychiatry residency at UCLA, he began systematic study of mother-infant interaction video recordings and was deeply attracted by attachment theory's explanatory power regarding human relationships. During this period, he noticed a puzzling phenomenon: different disciplines — from neuroscience to developmental psychology, from psychoanalysis to mindfulness meditation traditions — each described essentially similar mental processes using different terminology. This discovery became the original impetus for his later construction of interpersonal neurobiology.
 
 **关键发展 / Key Developments**：
-- 在UCLA接触依恋研究的视频范式，认识到早期关系对脑发育的决定性作用 / Encountered attachment research video paradigms at UCLA, recognizing the decisive role of early relationships on brain development
-- 开始跨学科阅读：神经科学、复杂系统理论、正念文献 / Began cross-disciplinary reading: neuroscience, complex systems theory, mindfulness literature
+- 在UCLA接触依恋研究的视频范式，认识到早期关系对脑发育的决定性作用 / Encountered attachment 研究 video paradigms at UCLA, recognizing the decisive role of early relationships on brain development
+- 开始跨学科阅读：神经科学、复杂系统理论、正念文献 / Began cross-disciplinary reading: neuroscience, complex systems theory, mindfulness 文学
 - 与 Allan Schore 等学者建立学术对话，共同探讨右脑发育与情绪调节 / Established academic dialogue with Allan Schore and other scholars, jointly exploring right-brain development and emotion regulation
 
 ### 中期：理论奠基与框架建构（1999–2012）/ Middle Period: Theoretical Foundation and Framework Construction (1999–2012)
@@ -113,11 +113,11 @@ In recent years, Siegel has dedicated himself to translating IPNB's scientific i
 | 年份 / Year | 著作 / Work | 核心贡献 / Core Contribution |
 |:---:|:---|:---|
 | 1999 | 《发展中的心智》/ *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are* | 人际神经生物学的奠基之作；提出心智的整合模型 / Foundational work of IPNB; proposed the integrative model of mind |
-| 2003 | 《 parenting from the Inside Out》/ *Parenting from the Inside Out*（与 Hartzell 合著 / with Hartzell） | 将依恋研究转化为父母自我反思指南 / Translated attachment research into a parental self-reflection guide |
-| 2007 | 《发展中的心智》第二版 / *The Developing Mind*, 2nd ed. | 扩展整合框架，纳入最新神经科学研究 / Expanded the integrative framework with latest neuroscience research |
+| 2003 | 《 parenting from the Inside Out》/ *Parenting from the Inside Out*（与 Hartzell 合著 / with Hartzell） | 将依恋研究转化为父母自我反思指南 / Translated attachment 研究 into a parental self-reflection guide |
+| 2007 | 《发展中的心智》第二版 / *The Developing Mind*, 2nd ed. | 扩展整合框架，纳入最新神经科学研究 / Expanded the integrative framework with latest neuroscience 研究 |
 | 2010 | 《心智之眼》/ *Mindsight: The New Science of Personal Transformation* | "心智之眼"概念的通俗阐述与临床案例 / Popular exposition of the "mindsight" concept with clinical case studies |
 | 2011 | 《全脑教养法》/ *The Whole-Brain Child*（与 Bryson 合著 / with Bryson） | 基于脑科学的12条育儿策略；全球畅销书 / 12 brain-based parenting strategies; international bestseller |
-| 2012 | 《人际神经生物学口袋指南》/ *The Pocket Guide to Interpersonal Neurobiology* | IPNB 的系统性专业入门；汇集20余年研究成果 / Systematic professional introduction to IPNB; synthesizing 20+ years of research |
+| 2012 | 《人际神经生物学口袋指南》/ *The Pocket Guide to Interpersonal Neurobiology* | IPNB 的系统性专业入门；汇集20余年研究成果 / Systematic professional introduction to IPNB; synthesizing 20+ years of 研究 |
 | 2014 | 《不吼不叫管教》/ *No-Drama Discipline*（与 Bryson 合著 / with Bryson） | 基于脑科学的纪律教育方法 / Brain-based approaches to discipline and education |
 | 2018 | 《觉知》/ *Aware: The Science and Practice of Presence* | 正念觉知的科学基础与"觉知之轮"练习 / Scientific foundations of mindful awareness and the "Wheel of Awareness" practice |
 | 2020 | 《是的脑》/ *The Yes Brain*（与 Bryson 合著 / with Bryson） | 培养儿童心理弹性与整合能力的方法 / Methods for cultivating children's resilience and integrative capacity |
@@ -186,12 +186,12 @@ In recent years, Siegel has dedicated himself to translating IPNB's scientific i
 
 7. **跨文化心理学 / Cross-Cultural Psychology**：MWe 概念为跨文化自我研究提供了整合性框架，帮助调和个人主义文化与集体主义文化之间的张力 / The MWe concept provides an integrative framework for cross-cultural self-research, helping to mediate tensions between individualist and collectivist cultures
 
-8. **神经可塑性研究 / Neuroplasticity Research**：西格尔关于"注意力改变大脑"的核心命题——"注意力所至，神经放电随行，神经连接生长"——为当代神经可塑性研究提供了重要的概念框架 / Siegel's core proposition about "attention changing the brain" — "where attention goes, neural firing flows, and neural connection grows" — provides an important conceptual framework for contemporary neuroplasticity research
+8. **神经可塑性研究 / Neuroplasticity Research**：西格尔关于"注意力改变大脑"的核心命题——"注意力所至，神经放电随行，神经连接生长"——为当代神经可塑性研究提供了重要的概念框架 / Siegel's core proposition about "attention changing the brain" — "where attention goes, neural firing flows, and neural connection grows" — provides an important conceptual framework for contemporary neuroplasticity 研究
 
 ## 常见误读 / Common Misreadings
 
 1. **❌ "人际神经生物学只是科普，缺乏学术严谨性。" / "Interpersonal neurobiology is just popular science, lacking academic rigor."**
-   **✅ 正确理解**：IPNB 虽然以通俗易懂的方式传播，但其理论建构建立在大量同行评审的神经科学、发展心理学和依恋研究基础上。Norton 系列丛书汇集了该领域最顶尖的学术著作。/ **Correct understanding**: Although IPNB is disseminated in accessible ways, its theoretical construction is built on extensive peer-reviewed neuroscience, developmental psychology, and attachment research. The Norton series brings together the field's top academic works.
+   **✅ 正确理解**：IPNB 虽然以通俗易懂的方式传播，但其理论建构建立在大量同行评审的神经科学、发展心理学和依恋研究基础上。Norton 系列丛书汇集了该领域最顶尖的学术著作。/ **Correct understanding**: Although IPNB is disseminated in accessible ways, its theoretical construction is built on extensive peer-reviewed neuroscience, developmental psychology, and attachment 研究. The Norton series brings together the field's top academic works.
 
 2. **❌ "心智之眼就是'想通了'或'分析明白了'。" / "Mindsight means 'figuring things out' or 'analyzing clearly.'"**
    **✅ 正确理解**：心智之眼不是认知分析，而是一种注意力技能——通过觉察（而非分析）来改变大脑回路。它要求的是"与内在体验同在"的能力，而非"解释"内在体验。/ **Correct understanding**: Mindsight is not cognitive analysis but an attention skill — changing brain circuits through awareness (not analysis). It requires the capacity to "be with" inner experience, not to "explain" inner experience.
@@ -234,7 +234,7 @@ Siegel's "river model" — integration as flexible navigation between chaos and 
 | 多迷走神经理论 / Polyvagal Theory | [波吉斯 Porges](../../neuroscience/porges/README.md) | 自主神经系统与社会参与系统的整合理解 / Integrative understanding of the autonomic nervous system and social engagement system |
 | 认知行为治疗 / Cognitive Behavioral Therapy | [贝克 Beck](../../cognitive/beck/README.md) | 整合框架与认知三角（认知-情感-行为）的对话空间 / Dialogue space between the integration framework and the cognitive triad |
 | 复杂系统理论 / Complex Systems Theory | 复杂适应系统 Complex Adaptive Systems | 自组织、涌现与非线性动力学为整合提供系统论基础 / Self-organization, emergence, and nonlinear dynamics provide systems-theoretic foundations |
-| 佛教心理学 / Buddhist Psychology | [正念与觉知 Mindfulness and Awareness](../../../religion/buddhism/concepts/mindfulness-awareness.md) | 正念觉知传统的心理学转化 / Psychological transformation of the mindfulness-awareness tradition |
+| 佛教心理学 / Buddhist Psychology | [正念与觉知 Mindfulness and Awareness](../../../宗教/佛教/概念/mindfulness-awareness.md) | 正念觉知传统的心理学转化 / Psychological transformation of the mindfulness-awareness tradition |
 | 功能主义心理学 / Functionalist Psychology | [詹姆斯 William James](../../functionalism/william-james/README.md) | 意识流与心智的关系性涌现——两种"心智不是实体"的观点 / Stream of consciousness and relational emergence of mind — two "mind is not entity" perspectives |
 
 ## 进阶阅读 / Further Reading

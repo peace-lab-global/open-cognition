@@ -2,7 +2,7 @@
 id: metzinger
 title: 梅青格 · Thomas Metzinger
 type: thinker
-domain: philosophy
+domain: 哲学
 school: phenomenology
 era: contemporary
 birth: 1958
@@ -23,9 +23,9 @@ cross-refs:
     relation: 方法借鉴
   - id: merleau-ponty
     relation: 身体现象学资源
-  - id: religion.buddhism.concept.anatta
+  - id: 宗教.buddhism.concept.anatta
     relation: 平行
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行
 children:
   - concepts/ego-tunnel.md
@@ -249,16 +249,16 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 
 ### 东方思想
 
-- [佛教无我 · Anattā](../../../religion/buddhism/concepts/cognitive-theory/anatta.md) `[平行]` 最直接的东方先驱——无我作为实践 vs 无我作为理论
-- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[平行]` 自我作为过程整合而非实体
-- [唯识 · Yogācāra](../../../religion/buddhism/schools/yogacara.md) `[平行]` 阿赖耶识与 MPS 的结构类比
-- [心物一元 · Mind-World](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 四分说与自我模型的多层结构
+- [佛教无我 · Anattā](../../../宗教/佛教/概念/cognitive-theory/anatta.md) `[平行]` 最直接的东方先驱——无我作为实践 vs 无我作为理论
+- [五蕴的认知读法](../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[平行]` 自我作为过程整合而非实体
+- [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 阿赖耶识与 MPS 的结构类比
+- [心物一元 · Mind-World](../../../宗教/佛教/概念/cognitive-theory/转识成智.md) `[平行]` 四分说与自我模型的多层结构
 
 ### 认知科学
 
-- [预测加工 · Predictive Processing](../../../cognitive-systems/concepts/predictive-processing.md) `[对接]` SMT 与预测编码框架的融合
-- [具身认知 · Embodied Cognition](../../../psychology/concepts/embodied-cognition.md) `[对话]` 身体在自我模型中的地位
-- [自由能原理 · Free Energy Principle](../../../cognitive-systems/concepts/free-energy-principle.md) `[对接]` 自我模型作为最小化预测误差的策略
+- [预测加工 · Predictive Processing](../../../认知系统/概念/预测加工.md) `[对接]` SMT 与预测编码框架的融合
+- [具身认知 · Embodied Cognition](../../../心理学/概念/embodied-cognition.md) `[对话]` 身体在自我模型中的地位
+- [自由能原理 · Free Energy Principle](../../../认知系统/概念/free-energy-principle.md) `[对接]` 自我模型作为最小化预测误差的策略
 
 ## 进阶阅读
 

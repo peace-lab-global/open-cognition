@@ -19,7 +19,7 @@ Create a professional infographic following these specifications:
 ## Core Principles
 
 - Follow the layout structure precisely for information architecture
-- Apply style aesthetics consistently throughout
+- Apply style 美学 consistently throughout
 - If content involves sensitive or copyrighted figures, create stylistically similar alternatives
 - Keep information concise, highlight keywords and core concepts
 - Use ample whitespace for visual clarity

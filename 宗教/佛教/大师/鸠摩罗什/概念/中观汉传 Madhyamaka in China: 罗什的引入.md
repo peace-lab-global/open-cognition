@@ -3,7 +3,7 @@ id: kumarajiva-madhyamaka-china
 title: "中观汉传 Madhyamaka in China: 罗什的引入"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [Madhyamaka, China, three-treatises, Kumarajiva]
 ---
 # 中观汉传 / Madhyamaka Introduced to China

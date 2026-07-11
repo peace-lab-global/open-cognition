@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.ecological.varela
+id: 认知系统.school.ecological.varela
 title: 瓦雷拉 Francisco Varela
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: ecological
 era: contemporary
 birth: 1946

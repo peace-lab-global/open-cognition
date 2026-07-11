@@ -2,7 +2,7 @@
 id: michelangelo
 title: "米开朗基罗 · Michelangelo Buonarroti"
 type: thinker
-domain: arts
+domain: 艺术
 school: visual-arts
 era: early-modern
 birth: 1475
@@ -46,11 +46,11 @@ Michelangelo di Lodovico Buonarroti Simoni (March 6, 1475 – February 18, 1564)
 
 他的艺术生涯横跨近七十年，从1488年进入基尔兰达约（Ghirlandaio）工作室学画，到1564年以八十八岁高龄在罗马去世时仍在雕刻《隆达尼尼圣母怜子》。他的一生见证了盛期文艺复兴的兴起与鼎盛、宗教改革的震荡、以及矫饰主义（Mannerism）的萌发。他的艺术哲学——将雕塑视为从物质中解放精神的过程——深刻影响了此后五百年的西方艺术观念。
 
-His artistic career spanned nearly seventy years, from his apprenticeship in Ghirlandaio's workshop in 1488 to his death at age 88 in Rome while still carving the Rondanini Pieta. His lifetime witnessed the rise and zenith of the High Renaissance, the upheaval of the Reformation, and the emergence of Mannerism. His artistic philosophy — viewing sculpture as the process of liberating spirit from matter — profoundly shaped Western conceptions of art for five centuries thereafter.
+His artistic career spanned nearly seventy years, from his apprenticeship in Ghirlandaio's workshop in 1488 to his death at age 88 in Rome while still carving the Rondanini Pieta. His lifetime witnessed the rise and zenith of the High Renaissance, the upheaval of the Reformation, and the emergence of Mannerism. His artistic 哲学 — viewing sculpture as the process of liberating spirit from matter — profoundly shaped Western conceptions of art for five centuries thereafter.
 
 ## 核心命题 / Core Theses
 
-1. **雕塑即解放 / Sculpture as Liberation**：形象已完整存在于石块之中，雕塑家只需把多余的部分去掉——艺术是去除遮蔽的哲学，是从物质中释放精神的形而上过程。The figure already exists complete within the stone; the sculptor need only remove the excess — art is a philosophy of subtraction, a metaphysical process of releasing spirit from matter.
+1. **雕塑即解放 / Sculpture as Liberation**：形象已完整存在于石块之中，雕塑家只需把多余的部分去掉——艺术是去除遮蔽的哲学，是从物质中释放精神的形而上过程。The figure already exists complete within the stone; the sculptor need only remove the excess — art is a 哲学 of subtraction, a metaphysical process of releasing spirit from matter.
 
 2. **崇高（Terribilità） / Terribilita (Awe-Inspiring Sublimity)**：伟大艺术应令人敬畏而非仅仅愉悦，以超人的体量与力量感将观者推向崇高——这是一种压倒性的、令人震颤的美学体验。Great art should inspire awe rather than mere pleasure, elevating the viewer toward the sublime through superhuman scale and force — an overwhelming, tremor-inducing aesthetic experience.
 
@@ -145,7 +145,7 @@ The aging Michelangelo turned increasingly to architecture and poetry. Appointed
 
 - **解剖学与数字角色建模 / Anatomy and Digital Character Modeling**: 其对人体动态（torso的扭转、肌肉在运动中的变化）的精确把握影响了现代角色建模、CG动画和解剖教学——好莱坞和游戏工业的角色设计师仍以米开朗基罗的人体比例和动态为参照。His precise grasp of bodily dynamics influenced modern character modeling, CG animation, and anatomical teaching — Hollywood and game industry character designers still reference Michelangelo's proportions and dynamics.
 
-- **艺术心理学 / Psychology of Art**: "未完成"（non-finito）被用于研究创作焦虑、完美主义、以及过程与结果的关系——现代心理治疗中的"过程取向"与米开朗基罗的未完成美学形成了跨世纪的共鸣。Non-finito is used to study creative anxiety, perfectionism, and the process-versus-product relationship — modern process-oriented psychotherapy resonates across centuries with Michelangelo's aesthetics of incompletion.
+- **艺术心理学 / Psychology of Art**: "未完成"（non-finito）被用于研究创作焦虑、完美主义、以及过程与结果的关系——现代心理治疗中的"过程取向"与米开朗基罗的未完成美学形成了跨世纪的共鸣。Non-finito is used to study creative anxiety, perfectionism, and the process-versus-product relationship — modern process-oriented psychotherapy resonates across centuries with Michelangelo's 美学 of incompletion.
 
 - **跨媒介创作范式 / Cross-Media Creative Paradigm**: 雕塑—绘画—建筑—诗歌的统一范式持续启发跨学科艺术家——当代"总体艺术"（Gesamtkunstwerk）的理念可追溯至米开朗基罗的disegno统一论。The unified paradigm of sculpture-painting-architecture-poetry continues to inspire interdisciplinary artists — the contemporary Gesamtkunstwerk concept traces back to Michelangelo's disegno unity theory.
 
@@ -161,7 +161,7 @@ The aging Michelangelo turned increasingly to architecture and poetry. Appointed
   → ✅ 他视雕塑为至上，却以湿壁画达到了绘画史的高峰——二者是同一disegno的两种呈现。他的书信中对绘画的贬低往往出于对被迫接受绘画委托的愤怒，而非对绘画本身的美学否定。He regarded sculpture as supreme yet achieved painting's pinnacle through fresco — both are manifestations of the same disegno. His letters disparaging painting often expressed anger at being forced into painting commissions, not aesthetic denial of painting itself.
 
 - ❌ "他是孤独的天才、与现代世界无关。" / "He was a lonely genius, irrelevant to the modern world."
-  → ✅ 他深度卷入教皇政治、家族忠诚与共和理想，其崇高美学深刻塑造了现代纪念碑观念。他的书信揭示了一个深度社会化的艺术家——管理家族财产、与教皇博弈、指导年轻艺术家。He was deeply involved in papal politics, family loyalty, and republican ideals; his sublime aesthetics profoundly shaped modern monumentality. His letters reveal a deeply social artist — managing family estates, negotiating with popes, mentoring younger artists.
+  → ✅ 他深度卷入教皇政治、家族忠诚与共和理想，其崇高美学深刻塑造了现代纪念碑观念。他的书信揭示了一个深度社会化的艺术家——管理家族财产、与教皇博弈、指导年轻艺术家。He was deeply involved in papal politics, family loyalty, and republican ideals; his sublime 美学 profoundly shaped modern monumentality. His letters reveal a deeply social artist — managing family estates, negotiating with popes, mentoring younger artists.
 
 - ❌ "西斯廷天顶是仰躺画的。" / "The Sistine ceiling was painted lying on his back."
   → ✅ 他站在自制的脚手架上仰头作画，姿态虽痛苦却非传说中那种平躺。他自己在诗中抱怨："我的胡子朝向天，我的脑袋弯向肩……画笔滴下颜料，在我脸上绘出丰富的马赛克。" He stood on scaffolding he designed himself, head craned upward — painful but not the legendary supine position. He complained in verse: "My beard turns up to heaven, my head bends toward my shoulder... the brush drips paint, making a rich mosaic of my face."
@@ -173,15 +173,15 @@ The aging Michelangelo turned increasingly to architecture and poetry. Appointed
 
 米开朗基罗的艺术哲学与东方美学传统形成了深刻的对照与互补。在"形神"关系上，中国传统画论追求"以形写神"（顾恺之）乃至"遗形取神"，而米开朗基罗的路径恰恰相反——他通过极度精确和理想化的"形"（人体解剖）来呈现"神"（灵魂与神圣理念）。二者殊途同归，均指向超越物质表象的精神真实。
 
-Michelangelo's artistic philosophy forms profound contrast and complementarity with East Asian aesthetic traditions. On the "form-spirit" (形神) relationship, Chinese painting theory pursues "using form to express spirit" (顾恺之) or even "abandoning form to capture spirit," while Michelangelo's path is precisely opposite — through extremely precise and idealized "form" (human anatomy) he presents "spirit" (soul and divine idea). Both paths converge, pointing toward spiritual truth beyond material appearance.
+Michelangelo's artistic 哲学 forms profound contrast and complementarity with East Asian aesthetic traditions. On the "form-spirit" (形神) relationship, Chinese painting theory pursues "using form to express spirit" (顾恺之) or even "abandoning form to capture spirit," while Michelangelo's path is precisely opposite — through extremely precise and idealized "form" (human anatomy) he presents "spirit" (soul and divine idea). Both paths converge, pointing toward spiritual truth beyond material appearance.
 
 在"留白"与"未完成"之间也存在有趣的呼应。中国水墨画的"留白"是有意为之的空间哲学——虚处即实在；米开朗基罗的non-finito虽然成因不同（常因外部约束而非自觉选择），却在效果上达到了类似的哲学深度——未雕凿的大理石与已完成的人物之间的张力，恰如留白与墨迹之间的对话。
 
-An interesting resonance exists between "blank space" (留白) and non-finito. Chinese ink painting's blank space is deliberate spatial philosophy — emptiness as substance. Michelangelo's non-finito, though arising from different causes (often external constraints rather than conscious choice), achieves comparable philosophical depth — the tension between uncarved marble and finished figures mirrors the dialogue between blank space and ink marks.
+An interesting resonance exists between "blank space" (留白) and non-finito. Chinese ink painting's blank space is deliberate spatial 哲学 — emptiness as substance. Michelangelo's non-finito, though arising from different causes (often external constraints rather than conscious choice), achieves comparable philosophical depth — the tension between uncarved marble and finished figures mirrors the dialogue between blank space and ink marks.
 
 日本美学中的"侘寂"（wabi-sabi）——在不完美和无常中发现美——与米开朗基罗晚期的非完美主义形成了跨文化的呼应。《隆达尼尼圣母怜子》的粗粝表面和极端简化，与侘寂美学所珍视的"不完整之美"和"岁月痕迹"产生了意外的共鸣。
 
-Japanese wabi-sabi aesthetics — finding beauty in imperfection and impermanence — forms a cross-cultural echo with Michelangelo's late anti-perfectionism. The rough surfaces and extreme simplification of the Rondanini Pieta unexpectedly resonate with wabi-sabi's treasured "beauty of incompleteness" and "traces of time."
+Japanese wabi-sabi 美学 — finding beauty in imperfection and impermanence — forms a cross-cultural echo with Michelangelo's late anti-perfectionism. The rough surfaces and extreme simplification of the Rondanini Pieta unexpectedly resonate with wabi-sabi's treasured "beauty of incompleteness" and "traces of time."
 
 ## 跨学科关联 / Interdisciplinary Connections
 
@@ -190,7 +190,7 @@ Japanese wabi-sabi aesthetics — finding beauty in imperfection and impermanenc
 - [康德美学 / Kant's Aesthetics] `[平行 / Parallel]` 崇高与数学/力量的量级体验——《最后的审判》的空间压倒性正是康德"力学的崇高"的视觉等价物。The sublime as magnitude experience — The Last Judgment's spatial overwhelmingness is the visual equivalent of Kant's "dynamic sublime."
 - [达·芬奇 / Leonardo da Vinci] `[对立·平行 / Opposition-Parallel]` 同为盛期文艺复兴巨匠，在disegno概念之上分道扬镳——达·芬奇以绘画为科学认知，米开朗基罗以雕塑为精神解放。Both High Renaissance giants diverged beyond disegno — Leonardo pursued painting as scientific cognition, Michelangelo pursued sculpture as spiritual liberation.
 - [贝尼尼 / Bernini] `[影响 / Influence]` 巴洛克雕塑的直接继承者——贝尼尼的《圣特蕾莎的狂喜》将米开朗基罗的崇高推向了戏剧化的极致。Direct successor in Baroque sculpture — Bernini's Ecstasy of Saint Teresa pushed Michelangelo's sublime to dramatic extremes.
-- [浪漫主义 / Romanticism] `[影响 / Influence]` 德拉克洛瓦（Delacroix）和布莱克（Blake）均深受米开朗基罗人体观的影响——布莱克甚至直接临摹了其作品并发展出"人体即神圣幻象"的哲学。Delacroix and Blake were deeply influenced by Michelangelo's body vision — Blake directly copied his works and developed a philosophy of "the human body as divine vision."
+- [浪漫主义 / Romanticism] `[影响 / Influence]` 德拉克洛瓦（Delacroix）和布莱克（Blake）均深受米开朗基罗人体观的影响——布莱克甚至直接临摹了其作品并发展出"人体即神圣幻象"的哲学。Delacroix and Blake were deeply influenced by Michelangelo's body vision — Blake directly copied his works and developed a 哲学 of "the human body as divine vision."
 
 ## 进阶阅读 / Further Reading
 

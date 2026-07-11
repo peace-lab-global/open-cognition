@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.three-marks
+id: 宗教.buddhism.core.three-marks
 title: 三法印 Three Marks of Existence
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三法印, 无常, 苦, 无我, anicca-dukkha-anatta]
@@ -56,8 +56,8 @@ sources: [巴利三藏, 《阿含经》]
 
 ## 跨学科关联
 
-- [赫拉克利特 · 万物流转](../../../philosophy/schools/ancient-greek/heraclitus.md) — [平行] 无常
-- [休谟 · 束论](../../../philosophy/schools/empiricism/hume.md) — [平行] 无我
+- [赫拉克利特 · 万物流转](../../../哲学/学派/古希腊/heraclitus.md) — [平行] 无常
+- [休谟 · 束论](../../../哲学/学派/经验主义/休谟.md) — [平行] 无我
 - [过程哲学] — [平行] 过程本体论
 - [认知科学] — [互补] 自我是建构的
 

@@ -2,7 +2,7 @@
 id: kuiji
 title: "窥基 Kuiji:法相唯识宗创立者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-faxiang
 era: ancient
 birth: 632
@@ -31,7 +31,7 @@ Kuiji (632-682 CE), a native of Chang'an and nephew of the celebrated Tang gener
 
 **窥基将玄奘从印度带回的瑜伽行派思想系统化、本土化，创立了法相唯识宗，使唯识学在七世纪的中国获得了最精密的理论表达——他是佛教史上最伟大的注释家之一。**
 
-**Kuiji systematized and indigenized the Yogacara thought that Xuanzang brought back from India, founded the Faxiang school, and gave consciousness-only philosophy its most rigorous theoretical expression in seventh-century China -- making him one of the greatest commentarial scholars in Buddhist history.**
+**Kuiji systematized and indigenized the Yogacara thought that Xuanzang brought back from India, founded the Faxiang school, and gave consciousness-only 哲学 its most rigorous theoretical expression in seventh-century China -- making him one of the greatest commentarial scholars in Buddhist history.**
 
 ---
 
@@ -129,7 +129,7 @@ See [因明 / Buddhist Logic](concepts/buddhist-logic.md)
 
 窥基的注释风格以"详尽、系统、层次分明"著称。他不满足于简单的文句解释，而是将每一个概念置于整个唯识体系中加以定位，展示其与其他概念的关联。这种"全景式注释"使他的著作成为理解唯识学不可或缺的参考。
 
-Kuiji's commentarial style is renowned for its thoroughness, systematicity, and clarity of structure. Rather than offering simple glosses on individual passages, he situated every concept within the entire Yogacara system, demonstrating its relationships to other concepts. This "panoramic commentary" approach made his works indispensable for understanding Yogacara philosophy.
+Kuiji's commentarial style is renowned for its thoroughness, systematicity, and clarity of structure. Rather than offering simple glosses on individual passages, he situated every concept within the entire Yogacara system, demonstrating its relationships to other concepts. This "panoramic commentary" approach made his works indispensable for understanding Yogacara 哲学.
 
 ### 融贯与独创 / Integration and Originality
 
@@ -171,7 +171,7 @@ Kuiji transmitted the teaching to Huizhao (650-714), who in turn transmitted to 
 - [玄奘 Xuanzang] -- [继承 Inheritance] 师徒传承 Master-disciple transmission
 - [陈那 Dignaga](../dignaga.md) -- [发展 Development] 因明学 Buddhist logic
 - [护法 Dharmapala] -- [继承 Inheritance] 有相唯识 Representational consciousness-only
-- [康德 Kant](../../../philosophy/schools/german-idealism/kant.md) -- [平行 Parallel] 唯识 vs 先验观念论 Consciousness-only vs transcendental idealism
+- [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) -- [平行 Parallel] 唯识 vs 先验观念论 Consciousness-only vs transcendental idealism
 - [胡塞尔 Husserl] -- [平行 Parallel] 唯识 vs 现象学 Consciousness-only vs phenomenology
 
 ---

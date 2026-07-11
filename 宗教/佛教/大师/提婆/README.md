@@ -2,7 +2,7 @@
 id: aryadeva
 title: "提婆 Aryadeva: 中观第二代祖师与悲智双运的践行者"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: classical-india
 birth: 200
@@ -23,7 +23,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 **提婆 Aryadeva**（约 200-300 CE），又称**圣天**（Aryadeva 意译）、**圣提婆**、**迦那提婆**（Kanadeva，"独眼提婆"），是**龙树 Nagarjuna** 的首要弟子与**中观学派 Madhyamaka** 的第二代传承者。在汉传与藏传佛教传统中，提婆与龙树并称为"龙树—提婆"（Nagarjuna-Aryadeva），是中观传承不可分割的双璧——正如苏格拉底与柏拉图、胡塞尔与海德格尔那样的师徒哲学传承典范。
 
-**Aryadeva** (c. 200-300 CE), also known as **Holy Deva** (lit. "Noble God"), was the foremost disciple of Nagarjuna and the second patriarch of the Madhyamaka school. In both Chinese and Tibetan Buddhist traditions, Aryadeva and Nagarjuna are inseparably paired as "Nagarjuna-Aryadeva" — a teacher-disciple duo that constitutes the foundation of Madhyamaka philosophy.
+**Aryadeva** (c. 200-300 CE), also known as **Holy Deva** (lit. "Noble God"), was the foremost disciple of Nagarjuna and the second patriarch of the Madhyamaka school. In both Chinese and Tibetan Buddhist traditions, Aryadeva and Nagarjuna are inseparably paired as "Nagarjuna-Aryadeva" — a teacher-disciple duo that constitutes the foundation of Madhyamaka 哲学.
 
 - **出生地 / Birthplace**: 南印度斯里兰卡王族（一说南印度婆罗门种姓）/ South Indian royal family of Sri Lanka (or South Indian Brahmin, according to alternative accounts)
 - **年代 / Era**: 约 3 世纪 CE，萨陀伐诃那王朝末期至笈多王朝前期 / c. 3rd century CE
@@ -195,7 +195,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 | 破四倒 Viparyasa | 培根四假相 Bacon's Idols | 系统破除认知错误 |
 | 大悲为体 | 列维纳斯他者伦理 Levinas | 伦理优先于本体论 |
 | 破而不立 | 波普尔证伪主义 Falsificationism | 通过否定推进知识 |
-| 辩论术 | 分析哲学 Analytic philosophy | 逻辑严密的论证传统 |
+| 辩论术 | 分析哲学 Analytic 哲学 | 逻辑严密的论证传统 |
 | 无我 Anatman | 休谟自我束论 Bundle theory | 对实体自我的批判 |
 
 ---
@@ -207,7 +207,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 - **传承**: 龙树→提婆→罗睺罗跋陀罗→…→佛护→月称（应成派谱系）
 - **汉传**: [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 翻译《百论》；[吉藏 Jizang](../jizang.md) — 三论宗集大成者
 - **学派**: [中观学派](../schools/madhyamaka.md) — 第二代祖师
-- **哲学**: [波普尔 Popper](../../../philosophy/schools/analytic/popper.md) — 证伪主义的平行
+- **哲学**: [波普尔 Popper](../../../哲学/学派/分析哲学/波普尔.md) — 证伪主义的平行
 - **学派**: [三论宗](../schools/sanlun.md) — "三论"之一《百论》的作者
 
 ---

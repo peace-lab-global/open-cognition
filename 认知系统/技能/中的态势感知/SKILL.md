@@ -1,7 +1,7 @@
 ---
 name: situation-awareness-diagnosis
 description: 诊断操作者在动态系统中的态势感知（SA）水平，基于 Endsley 的三级模型。Triggers on requests to assess SA, diagnose why operators lost awareness, or design for better situation awareness.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: null
 linked_concepts:
   - ../../concepts/situation-awareness.md

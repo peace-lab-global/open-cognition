@@ -2,7 +2,7 @@
 id: faxian
 title: "法显 Faxian: 中国第一位赴印求法并归国的高僧与律藏补阙先驱"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 era: ancient
 birth: 337
@@ -159,7 +159,7 @@ Faxian's *Record*, Xuanzang's *Great Tang Records on the Western Regions*, and Y
 
 法显的《佛国记》比《马可·波罗游记》早约 900 年，是世界旅行文学的重要早期文本。其简洁朴素的叙事风格、对异域文化的细致观察、以及面对危险时的真实情感表达，使其具有独特的文学价值。
 
-Faxian's *Record* predates *The Travels of Marco Polo* by approximately 900 years, making it a significant early text in world travel literature. Its spare narrative style, careful observation of foreign cultures, and genuine emotional expression in the face of danger give it distinctive literary value.
+Faxian's *Record* predates *The Travels of Marco Polo* by approximately 900 years, making it a significant early text in world travel 文学. Its spare narrative style, careful observation of foreign cultures, and genuine emotional expression in the face of danger give it distinctive literary value.
 
 ### 宗教社会学 / Sociology of Religion
 
@@ -215,7 +215,7 @@ Faxian's maritime return route is a precious first-hand source for studying the 
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [玄奘](xuanzang.md) — 后继求法僧；[义净](yijing.md) — 海路求法僧；[鸠摩罗什](kumarajiva.md) — 同时代译经大师；[道宣](daoxuan.md) — 律宗创始人
-- **历史学**: [司马迁](../../../literature) — 实地考察的历史记录方法
+- **历史学**: [司马迁](../../../文学) — 实地考察的历史记录方法
 - **旅行文学**: 马可·波罗、伊本·白图泰 — 跨文化旅行记录的世界传统
 - **考古学**: 坎宁安 (Alexander Cunningham) — 利用《佛国记》定位印度佛教遗址
 - **地理学**: 丝绸之路研究、海上丝绸之路研究

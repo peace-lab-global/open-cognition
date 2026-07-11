@@ -1,7 +1,7 @@
 ---
 name: dependent-origination-tracing
 description: 以十二因缘为认知链地图，追溯当下困境的生成过程——从"无明"的认知盲区开始，沿"行、识、名色、六入、触、受、爱、取、有、生、老死"逐支回溯，定位关键断点（特别是"受缘爱"），并在该处介入正念以切断连锁。Triggers on 重复性困境想追溯根源、成瘾或强迫性行为、或希望通过内观看见经验的生成过程。
-domain: religion
+domain: 宗教
 school: buddhism-early
 linked_concepts:
   - ../../concepts/cognitive-theory/dependent-origination-cognitive.md
@@ -179,5 +179,5 @@ tags:
 
 - 概念：[十二因缘的认知读法](../../concepts/cognitive-theory/dependent-origination-cognitive.md)
 - 相关 Skill：[五蕴解构](../five-aggregates-deconstruction/SKILL.md)
-- 跨传统：[贝克 · 认知行为链](../../../../psychology/schools/cognitive/beck.md)（平行）
-- 跨传统：[系统论 · 反馈回路](../../../../cognitive-systems/schools/cybernetics/weiner.md)（平行）
+- 跨传统：[贝克 · 认知行为链](../../../../心理学/学派/认知心理学/贝克.md)（平行）
+- 跨传统：[系统论 · 反馈回路](../../../../认知系统/学派/控制论/weiner.md)（平行）

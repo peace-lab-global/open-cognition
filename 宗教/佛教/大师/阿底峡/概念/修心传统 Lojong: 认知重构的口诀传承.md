@@ -3,7 +3,7 @@ id: atisha-lojong-tradition
 title: "修心传统 Lojong: 认知重构的口诀传承"
 type: concept
 parent: atisha
-domain: religion
+domain: 宗教
 tags: [lojong, mind-training, Kadam]
 ---
 # 修心传统 / Lojong

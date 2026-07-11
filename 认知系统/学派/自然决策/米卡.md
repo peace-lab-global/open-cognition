@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.naturalistic-decision.endsley
+id: 认知系统.naturalistic-decision.endsley
 title: 米卡·恩兹利 Mica Endsley
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: naturalistic-decision
 era: modern
 birth: 1958

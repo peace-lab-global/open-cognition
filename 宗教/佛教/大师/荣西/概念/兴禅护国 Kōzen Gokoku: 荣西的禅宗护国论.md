@@ -3,7 +3,7 @@ id: yosai-zen-protects-nation
 title: "兴禅护国 Kōzen Gokoku: 荣西的禅宗护国论"
 type: concept
 parent: yosai
-domain: religion
+domain: 宗教
 tags: [兴禅护国, Kōzen Gokoku, 护国, 禅宗, 日本佛教]
 ---
 
@@ -13,7 +13,7 @@ tags: [兴禅护国, Kōzen Gokoku, 护国, 禅宗, 日本佛教]
 
 **兴禅护国**是荣西（1141-1215）在其代表作《兴禅护国论》（1211年）中系统阐发的核心命题。其含义为：弘扬禅宗（兴禅）能够护持国家、安定社会（护国）。这一命题不是简单的政治宣言，而是融合了佛教宇宙论、因果法则与政治哲学的复合思想体系。
 
-**Kōzen Gokoku** ("Promoting Zen to Protect the Nation") is the central thesis systematically articulated in Yōsai's magnum opus, the *Kōzen Gokoku-ron* (Treatise on Promoting Zen for the Protection of the Nation, 1211). Its meaning: propagating Zen (kōzen) can safeguard the nation and stabilize society (gokoku). This is not a simple political declaration but a complex intellectual system integrating Buddhist cosmology, karmic law, and political philosophy.
+**Kōzen Gokoku** ("Promoting Zen to Protect the Nation") is the central thesis systematically articulated in Yōsai's magnum opus, the *Kōzen Gokoku-ron* (Treatise on Promoting Zen for the Protection of the Nation, 1211). Its meaning: propagating Zen (kōzen) can safeguard the nation and stabilize society (gokoku). This is not a simple political declaration but a complex intellectual system integrating Buddhist cosmology, karmic law, and political 哲学.
 
 ## 历史语境 / Historical Context
 
@@ -82,7 +82,7 @@ Yōsai's innovation: he shifted the agent of "protection" from "king" and "scrip
 
 ### 1. "护国 = 日本民族主义" / "Gokoku = Japanese Nationalism"
 "护国"在佛教语境中是普世性概念——几乎所有大乘佛教国家都有"护国"传统（中国的"护国三经"、朝鲜的"护国佛教"）。荣西的论述是佛教宇宙论框架内的政治哲学，不是近代民族主义。
-"Protecting the nation" is a universal concept in Buddhist contexts — virtually all Mahāyāna Buddhist nations have "nation-protecting" traditions. Yōsai's argument is political philosophy within a Buddhist cosmological framework, not modern nationalism.
+"Protecting the nation" is a universal concept in Buddhist contexts — virtually all Mahāyāna Buddhist nations have "nation-protecting" traditions. Yōsai's argument is political 哲学 within a Buddhist cosmological framework, not modern nationalism.
 
 ### 2. "荣西讨好幕府" / "Yōsai was pandering to the shogunate"
 荣西确实接受了幕府的庇护，但"兴禅护国"的思想动机并非纯粹的政治投机。他对禅宗价值的信念是真诚的，而护国论是他说服传统佛教势力接受禅宗的**策略性表达**——在一个以"国家安宁"为最高价值的社会中，证明禅宗的社会功能。
@@ -128,7 +128,7 @@ After World War II, works such as Brian Victoria's *Zen at War* (1997) offered p
   Distinguishing original context from later abuse: Yōsai's "nation-protecting" thesis had a specific 13th-century Buddhist cosmological context, fundamentally different from 20th-century militarism.
 
 - **宗教与权力的永恒张力**：荣西的案例揭示了宗教如何在保持自身独立性的同时与社会权力结构互动的永恒难题。
-  The eternal tension between religion and power: Yōsai's case reveals the perennial challenge of how religion interacts with social power structures while maintaining its independence.
+  The eternal tension between 宗教 and power: Yōsai's case reveals the perennial challenge of how 宗教 interacts with social power structures while maintaining its independence.
 
 ---
 
@@ -142,7 +142,7 @@ The Kōzen Gokoku thesis retains relevance today:
   Religion should not detach from society but actively respond to social needs.
 
 - **修行的社会功能**：个人修行与社会福祉之间存在深层联系——这一洞见与当代正念研究的"社会效应"方向一致。
-  A deep link exists between personal practice and social welfare — consistent with contemporary mindfulness research on "social effects."
+  A deep link exists between personal practice and social welfare — consistent with contemporary mindfulness 研究 on "social effects."
 
 - **文化传播策略**：荣西以"护国"说服日本社会接受禅宗，是跨文化传播的经典案例。
   Yōsai's use of "nation-protection" to convince Japanese society to accept Zen is a classic case of cross-cultural transmission strategy.

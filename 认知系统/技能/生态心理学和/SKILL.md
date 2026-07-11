@@ -1,7 +1,7 @@
 ---
 name: affordance-analysis
 description: 分析环境或界面如何提供或限制行动可能性，基于 Gibson 的生态心理学和 Norman 的设计心理学。Triggers on requests to analyze usability, evaluate interface design, or understand how environments enable or constrain action.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/ecological/gibson.md
 linked_concepts:
   - ../../concepts/affordance.md

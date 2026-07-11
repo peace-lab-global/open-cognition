@@ -1,10 +1,10 @@
 ---
 name: reverse-thinking
 description: Triggers on requests to 逆向思维、反向思考、对立转化，如问题解决、策略制定、创新思维等。Apply this skill to help users see problems from opposite perspectives and discover unconventional solutions.
-domain: philosophy
-linked_thinker: ../../../religion/traditions/taoism/masters/laozi.md
+domain: 哲学
+linked_thinker: ../../../宗教/传统/道教/masters/老子.md
 linked_concepts:
-  - ../../../religion/traditions/taoism/wuwei.md
+  - ../../../宗教/传统/道教/无为.md
 tags:
   - 逆向思维
   - 反向思考
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[老子](../../../religion/traditions/taoism/masters/laozi.md)
+- 来源思想家：[老子](../../../宗教/传统/道教/masters/老子.md)
 - 来源概念：[反者道之动](../../concepts/fan-zhe-dao-zhi-dong.md)
 - 关键文献：《道德经》第40章："反者道之动，弱者道之用"
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[老子](../../../religion/traditions/taoism/masters/laozi.md)
+- 思想家：[老子](../../../宗教/传统/道教/masters/老子.md)
 - 概念：[反者道之动](../../concepts/fan-zhe-dao-zhi-dong.md)
-- 相关 Skill：[wuwei-guidance](../../religion/skills/wuwei-guidance/SKILL.md)、[dialectical-analysis](./dialectical-analysis/SKILL.md)
+- 相关 Skill：[wuwei-guidance](../../宗教/技能/无为而治/SKILL.md)、[dialectical-analysis](./dialectical-analysis/SKILL.md)

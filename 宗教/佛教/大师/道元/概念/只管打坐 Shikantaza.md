@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen.concepts.shikantaza
+id: 宗教.buddhism.masters.dogen.concepts.shikantaza
 title: 只管打坐 Shikantaza
 type: concept
-domain: religion
+domain: 宗教
 parent: ../README.md
 tags: [道元, Dogen, 只管打坐, shikantaza, 坐禅, zazen, 修行]
 ---

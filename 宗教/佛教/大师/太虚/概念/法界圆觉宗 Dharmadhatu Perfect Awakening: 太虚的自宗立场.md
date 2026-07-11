@@ -3,7 +3,7 @@ id: taixu-dharmadhatu-awakening
 title: "法界圆觉宗 Dharmadhatu Perfect Awakening: 太虚的自宗立场"
 type: concept
 parent: taixu
-domain: religion
+domain: 宗教
 tags: [dharmadhatu, perfect-awakening, tathagatagarbha, buddha-nature, awakening-of-faith,如来藏, tathata]
 ---
 

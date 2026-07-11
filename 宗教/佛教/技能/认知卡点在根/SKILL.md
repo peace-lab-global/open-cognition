@@ -1,7 +1,7 @@
 ---
 name: six-constituents-diagnosis
 description: 六根六尘六识诊断法，用于精准定位认知卡点在根（感官）、尘（对象）、还是识（认知功能）层。Triggers on 当事人感知扭曲、认知错位、需要区分"感知问题"、"思维问题"、"意识问题"的场景。
-domain: religion
+domain: 宗教
 school: buddhism-yogacara
 linked_concepts:
   - ../../six-constituents.md
@@ -133,4 +133,4 @@ tags:
 
 - 概念：[六根六尘六识](../../concepts/cognitive-theory/six-constituents.md)
 - 相关Skill：[八识认知诊断](../eight-consciousness-diagnosis/SKILL.md)
-- 跨传统：[CBT·自动思维识别](../../../../psychology/schools/cognitive/beck.md)（平行）— CBT的"自动思维识别"类似尘层诊断
+- 跨传统：[CBT·自动思维识别](../../../../心理学/学派/认知心理学/贝克.md)（平行）— CBT的"自动思维识别"类似尘层诊断

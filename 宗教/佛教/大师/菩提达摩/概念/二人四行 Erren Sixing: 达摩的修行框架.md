@@ -3,7 +3,7 @@ id: bodhidharma-erren-sixing
 title: "二人四行 Erren Sixing: 达摩的修行框架"
 type: concept
 parent: bodhidharma
-domain: religion
+domain: 宗教
 tags: [two-entry, four-practices, Chan, Bodhidharma, cultivation]
 ---
 

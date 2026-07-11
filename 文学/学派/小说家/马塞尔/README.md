@@ -1,8 +1,8 @@
 ---
-id: literature.novelists.proust
+id: 文学.novelists.proust
 title: 普鲁斯特 · Marcel Proust
 type: thinker
-domain: literature
+domain: 文学
 school: novelists
 era: modern
 birth: 1871
@@ -47,7 +47,7 @@ children:
 
 普鲁斯特的另一个根本命题是**艺术即救赎**——生活是流逝的、被时间摧毁的，唯有通过艺术，经验得以被重新捕获并永恒化。叙述者在《重现的时光》最后的"文学启示"中意识到：他全部的生活——包括所有的痛苦、嫉妒、失去和遗忘——都是原材料，只有通过写作才能转化为真理。这使得《追忆》不仅是一部小说，更是一部关于"为什么要创作艺术"的终极回答。
 
-Marcel Proust (1871–1922) is the author of *In Search of Lost Time* (*À la recherche du temps perdu*), a seven-volume novel widely regarded as one of the greatest achievements in Western literature. His central discovery — involuntary memory, triggered not by conscious effort but by accidental sensory experience — constitutes both a literary technique and an epistemological breakthrough. Proust's long, architecturally precise sentences capture the layered flow of consciousness with unprecedented fidelity. His exploration of jealousy as a form of knowledge, his theory of art as redemption from time's destruction, and his vision of the self as a multiplicity of discontinuous beings anticipate developments in cognitive science, psychoanalysis, and phenomenology. The famous madeleine episode is not mere nostalgia — it is a philosophical demonstration that the past survives intact beneath the surface of consciousness, accessible only through the body's involuntary intelligence.
+Marcel Proust (1871–1922) is the author of *In Search of Lost Time* (*À la recherche du temps perdu*), a seven-volume novel widely regarded as one of the greatest achievements in Western 文学. His central discovery — involuntary memory, triggered not by conscious effort but by accidental sensory experience — constitutes both a literary technique and an epistemological breakthrough. Proust's long, architecturally precise sentences capture the layered flow of consciousness with unprecedented fidelity. His exploration of jealousy as a form of knowledge, his theory of art as redemption from time's destruction, and his vision of the self as a multiplicity of discontinuous beings anticipate developments in cognitive science, psychoanalysis, and phenomenology. The famous madeleine episode is not mere nostalgia — it is a philosophical demonstration that the past survives intact beneath the surface of consciousness, accessible only through the body's involuntary intelligence.
 
 ## 二、核心命题 / Core Theses
 

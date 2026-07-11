@@ -3,7 +3,7 @@ id: kumarajiva-emptiness-teaching
 title: "空义传授 Emptiness Teaching: 鸠摩罗什对般若空观的汉传化"
 type: concept
 parent: kumarajiva
-domain: religion
+domain: 宗教
 tags: [emptiness, 空, sunyata, prajnaparamita, 般若, Madhyamaka, 中观, 二谛, two truths]
 ---
 

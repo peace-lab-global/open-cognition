@@ -1,8 +1,8 @@
 ---
-id: philosophy.medieval-scholastic.scotus
+id: 哲学.medieval-scholastic.scotus
 title: 邓斯·司各脱 · John Duns Scotus
 type: thinker
-domain: philosophy
+domain: 哲学
 school: medieval-scholastic
 era: medieval
 birth: 1266
@@ -41,7 +41,7 @@ cross-refs:
 
 他的"此性"（haecceitas）概念——即使得一个事物成为这个（而非那个）的终极个体化原则——在中世纪哲学中独树一帜。与阿奎那认为质料是个体化原则不同，司各脱认为个体性是存在的最积极、最完满的层面，是一个形式而非质料的问题。
 
-John Duns Scotus (1266–1308), the "Subtle Doctor," is one of the most important medieval philosophers and theologians. A Franciscan friar who taught at Oxford and Paris, he developed the doctrines of the univocity of being, haecceitas (thismess), and the primacy of the will, profoundly influencing the transition from medieval to early modern philosophy.
+John Duns Scotus (1266–1308), the "Subtle Doctor," is one of the most important medieval philosophers and theologians. A Franciscan friar who taught at Oxford and Paris, he developed the doctrines of the univocity of being, haecceitas (thismess), and the primacy of the will, profoundly influencing the transition from medieval to early modern 哲学.
 
 ## 二、核心命题
 

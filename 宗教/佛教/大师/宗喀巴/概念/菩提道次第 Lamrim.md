@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.tsongkhapa.concepts.lamrim
+id: 宗教.buddhism.master.tsongkhapa.concepts.lamrim
 title: 菩提道次第 Lamrim
 type: concept
-parent: religion.buddhism.master.tsongkhapa
+parent: 宗教.buddhism.master.tsongkhapa
 tags: [菩提道次第, lamrim, 三士道, 宗喀巴, 修行次第]
 ---
 

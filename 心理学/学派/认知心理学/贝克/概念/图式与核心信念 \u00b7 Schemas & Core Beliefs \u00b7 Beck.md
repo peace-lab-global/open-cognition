@@ -1,21 +1,21 @@
 ---
-id: psychology.cognitive.beck.schemas
+id: 心理学.cognitive.beck.schemas
 title: "图式与核心信念 \u00b7 Schemas & Core Beliefs \u00b7 Beck"
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 thinker: beck
 tags: [schemas, core-beliefs, intermediate-beliefs, cognitive-structure, early-experience, information-processing]
 cross-refs:
-  - id: psychology.cognitive.beck
+  - id: 心理学.cognitive.beck
     relation: thinker
-  - id: psychology.cognitive.beck.automatic-thoughts
+  - id: 心理学.cognitive.beck.automatic-thoughts
     relation: 生成
-  - id: psychology.cognitive.beck.cognitive-distortions
+  - id: 心理学.cognitive.beck.cognitive-distortions
     relation: 驱动
-  - id: psychology.cognitive.piaget
+  - id: 心理学.cognitive.piaget
     relation: 借用(图式概念来源)
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 对照(种子/熏习)
 ---
 

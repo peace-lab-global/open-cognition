@@ -1,8 +1,8 @@
 ---
-id: aesthetics.literary-theory.frye
+id: 美学.literary-theory.frye
 title: 诺思罗普·弗莱 Northrop Frye
 type: thinker
-domain: aesthetics
+domain: 美学
 school: literary-theory
 era: modern
 birth: 1912
@@ -15,9 +15,9 @@ sources:
   - "Fables of Identity (1963)"
   - "The Secular Scripture (1976)"
 cross-refs:
-  - aesthetics.literary-theory.barthes
-  - aesthetics.literary-theory.bakhtin
-  - aesthetics.literary-theory.saussure
+  - 美学.literary-theory.barthes
+  - 美学.literary-theory.bakhtin
+  - 美学.literary-theory.saussure
 sub-entries:
   - concepts/archetypal-criticism
   - concepts/mythos
@@ -42,7 +42,7 @@ sub-entries:
 
 诺思罗普·弗莱（Northrop Frye, 1912–1991）是20世纪最具系统性的文学批评家之一，也是加拿大最杰出的人文学者。他的《批评的剖析》（1957）被誉为20世纪文学批评的里程碑，建立了一套完整的文学理论体系——从文学的叙事模式到原型象征系统，从文学类型的分类到批评方法论的综合。弗莱坚信文学是一个自足的想象世界，具有自身的内在结构和原型语法，而非社会现实的简单反映。他的神话-原型批评方法深刻影响了叙事学、比较文学和文化研究。
 
-Northrop Frye (1912–1991) was one of the 20th century's most systematic literary critics and Canada's most distinguished humanist scholar. His *Anatomy of Criticism* (1957) is regarded as a landmark in 20th-century literary criticism, establishing a comprehensive literary theory system — from narrative modes to archetypal symbol systems, from genre classification to critical methodology synthesis. Frye maintained that literature is a self-contained imaginative world with its own internal structures and archetypal grammar, not a simple reflection of social reality. His myth-archetypal criticism profoundly influenced narratology, comparative literature, and cultural studies.
+Northrop Frye (1912–1991) was one of the 20th century's most systematic literary critics and Canada's most distinguished humanist scholar. His *Anatomy of Criticism* (1957) is regarded as a landmark in 20th-century literary criticism, establishing a comprehensive literary theory system — from narrative modes to archetypal symbol systems, from genre classification to critical methodology synthesis. Frye maintained that 文学 is a self-contained imaginative world with its own internal structures and archetypal grammar, not a simple reflection of social reality. His myth-archetypal criticism profoundly influenced narratology, comparative literature, and cultural studies.
 
 ---
 
@@ -50,7 +50,7 @@ Northrop Frye (1912–1991) was one of the 20th century's most systematic litera
 
 ### 1. 文学的自足性 / Autonomy of Literature
 文学不是社会现实的附庸，而是一个具有自身内在逻辑的想象体系。批评的任务不是评价作品的社会功能，而是揭示文学自身的结构——文学是一个"自足的话语宇宙"。
-Literature is not an appendage to social reality but an imaginative system with its own internal logic. The critic's task is not to evaluate works' social function but to reveal literature's own structures — literature is a "self-contained universe of discourse."
+Literature is not an appendage to social reality but an imaginative system with its own internal logic. The critic's task is not to evaluate works' social function but to reveal literature's own structures — 文学 is a "self-contained universe of discourse."
 
 ### 2. 叙事模式的四季循环 / Mythos as Seasonal Cycle
 弗莱将文学的四种基本叙事模式与四季对应：喜剧（春——诞生、婚礼）、浪漫（夏——冒险、胜利）、悲剧（秋——衰落、死亡）、讽刺（冬——死亡、荒芜）。这一循环构成文学的深层结构。
@@ -70,7 +70,7 @@ Frye's first book *Fearful Symmetry* (1947) was a systematic interpretation of B
 
 ### 6. 圣经与文学 / The Bible and Literature
 弗莱晚期将圣经视为西方文学的"伟大代码"——一个提供原型和叙事框架的文化百科全书。圣经的U形叙事（创造-堕落-救赎-启示）是整个西方文学的深层模式。
-In his late period, Frye treated the Bible as Western literature's "great code" — a cultural encyclopedia providing archetypes and narrative frameworks. The Bible's U-shaped narrative (creation-fall-redemption-apocalypse) is the deep pattern of all Western literature.
+In his late period, Frye treated the Bible as Western literature's "great code" — a cultural encyclopedia providing archetypes and narrative frameworks. The Bible's U-shaped narrative (creation-fall-redemption-apocalypse) is the deep pattern of all Western 文学.
 
 ---
 
@@ -86,7 +86,7 @@ Frye studied at the University of Toronto and Victoria College, then at Oxford. 
 1957年出版的《批评的剖析》是弗莱最重要的著作，它试图为文学批评建立如同科学之于物理学那样的系统基础。此后弗莱继续发展其理论，关注莎士比亚、浪漫主义和现代文学。
 
 **Middle Period (1957–1970s): Anatomy of Criticism**
-*Anatomy of Criticism* (1957) was Frye's most important work, attempting to establish systematic foundations for literary criticism akin to those of science in physics. Frye continued developing his theory through studies of Shakespeare, Romanticism, and modern literature.
+*Anatomy of Criticism* (1957) was Frye's most important work, attempting to establish systematic foundations for literary criticism akin to those of science in physics. Frye continued developing his theory through studies of Shakespeare, Romanticism, and modern 文学.
 
 ### 晚期（1980s–1991）：圣经与文学
 弗莱最后十年致力于圣经与文学关系的研究，《伟大代码》（1982）和《有力度的话语》（1990）是他晚期的代表作，将文学批评扩展为文化阐释学。

@@ -1,8 +1,8 @@
 ---
-id: psychology.cognitive.kohlberg.justice
+id: 心理学.cognitive.kohlberg.justice
 title: 正义 Justice
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 era: modern
 tags: [正义, 公正, 道德核心, 罗尔斯, 康德, justice, fairness, moral-core, Rawls, Kant]
@@ -55,7 +55,7 @@ Kohlberg viewed "reversibility" — also called "moral musical chairs" — as th
 
 柯尔伯格的正义概念有三个主要哲学来源：(1) 康德的绝对命令——道德判断必须可普遍化，人必须被视为目的而非手段；(2) 罗尔斯的正义论——正义是社会制度的首要德性，"无知之幕"确保公正；(3) 鲍德温的发展心理学——道德发展是自我与社会关系的辩证发展。柯尔伯格将这些哲学概念与认知发展心理学结合，论证了正义不仅是哲学理想，也是心理发展的内在方向。
 
-Kohlberg's justice concept has three main philosophical sources: (1) Kant's categorical imperative — moral judgments must be universalizable, persons must be treated as ends not merely means; (2) Rawls's theory of justice — justice is the first virtue of social institutions, the "veil of ignorance" ensures fairness; (3) Baldwin's developmental psychology — moral development is the dialectical development of self-society relations. Kohlberg combined these philosophical concepts with cognitive developmental psychology, arguing that justice is not only a philosophical ideal but also the intrinsic direction of psychological development.
+Kohlberg's justice concept has three main philosophical sources: (1) Kant's categorical imperative — moral judgments must be universalizable, persons must be treated as ends not merely means; (2) Rawls's theory of justice — justice is the first virtue of social institutions, the "veil of ignorance" ensures fairness; (3) Baldwin's developmental 心理学 — moral development is the dialectical development of self-society relations. Kohlberg combined these philosophical concepts with cognitive developmental psychology, arguing that justice is not only a philosophical ideal but also the intrinsic direction of psychological development.
 
 ### 从"公正取向"到"公正+关怀" / From "Justice Orientation" to "Justice + Care"
 
@@ -111,7 +111,7 @@ Buddhism's "equanimity" (samata) concept — holding equal compassion for all se
 
 孟子的"义"（yi）——内在的道德正直感，"羞恶之心，义之端也"——与柯尔伯格的"正义感"有有趣的平行。孟子认为"义"是人固有的道德本性（性善论），需要通过"养浩然之气"来发展。柯尔伯格则认为正义感是认知发展的产物，通过认知冲突和阶段跃迁来发展。两者的对话揭示了道德哲学中"先天论"与"建构论"之间的张力——正义感究竟是人固有的道德直觉还是通过认知发展而建构的能力？
 
-Mencius's "righteousness" (yi) — the inner sense of moral integrity, "the sense of shame and dislike is the beginning of righteousness" — has interesting parallels with Kohlberg's "sense of justice." Mencius held that "righteousness" is humanity's inherent moral nature (theory of innate goodness), requiring development through "cultivating noble qi." Kohlberg viewed the sense of justice as a product of cognitive development, developing through cognitive conflict and stage transitions. The dialogue between the two reveals the tension between "nativism" and "constructivism" in moral philosophy — is the sense of justice an innate moral intuition or an ability constructed through cognitive development?
+Mencius's "righteousness" (yi) — the inner sense of moral integrity, "the sense of shame and dislike is the beginning of righteousness" — has interesting parallels with Kohlberg's "sense of justice." Mencius held that "righteousness" is humanity's inherent moral nature (theory of innate goodness), requiring development through "cultivating noble qi." Kohlberg viewed the sense of justice as a product of cognitive development, developing through cognitive conflict and stage transitions. The dialogue between the two reveals the tension between "nativism" and "constructivism" in moral 哲学 — is the sense of justice an innate moral intuition or an ability constructed through cognitive development?
 
 ## 进阶阅读 / Further Reading
 

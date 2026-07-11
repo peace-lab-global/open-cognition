@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.sengzhao.not-truly-empty
+id: 宗教.buddhism.master.sengzhao.not-truly-empty
 title: 不真空 Bù Zhēn Kōng
 type: concept
 thinker: 僧肇 Sēngzhào
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 tags: [不真空, 空性, 非有非无, 中观]
 ---

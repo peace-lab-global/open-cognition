@@ -1,7 +1,7 @@
 ---
 name: socratic-questioning
 description: Triggers when a user makes a confident claim, holds an unexamined assumption, or asks "what is X" of a moral/abstract concept. Apply this skill to surface implicit premises and contradictions through structured questioning rather than offering direct answers.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/ancient-greek/socrates.md
 linked_concepts:
   - ../../concepts/dialectics.md

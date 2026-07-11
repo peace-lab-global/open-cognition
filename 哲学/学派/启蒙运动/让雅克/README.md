@@ -2,7 +2,7 @@
 id: rousseau
 title: 让-雅克·卢梭 · Jean-Jacques Rousseau
 type: thinker
-domain: philosophy
+domain: 哲学
 school: enlightenment
 era: early-modern
 birth: 1712
@@ -153,7 +153,7 @@ Rousseau was not only a philosopher but one of the 18th century's most eloquent 
 
 1. **Fusion of emotion and reason**: Unlike contemporaries like Voltaire who deployed ironic wit, Rousseau's arguments rely on emotional persuasion. "I feel, therefore I exist" — this existential mode of argumentation anticipated Romanticism.
 2. **Paradoxical openings**: Rousseau loved to begin with shocking paradoxes — "Man is born free, and everywhere he is in chains"; "Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man" — these openings immediately seize the reader and force rethinking of common sense.
-3. **First-person authenticity**: From the *Confessions* to the *Reveries*, Rousseau pioneered a first-person writing tradition characterized by frank self-exposure. He claimed to present "a man in all the truth of nature" — including his sins and shames. This authenticity became a key theme of modern subjectivity philosophy.
+3. **First-person authenticity**: From the *Confessions* to the *Reveries*, Rousseau pioneered a first-person writing tradition characterized by frank self-exposure. He claimed to present "a man in all the truth of nature" — including his sins and shames. This authenticity became a key theme of modern subjectivity 哲学.
 4. **Dialogue and confrontation**: Rousseau's philosophical writing often takes dialogical form — with Hobbes (state of nature), with Diderot (value of civilization), with the public (*Dialogues*). His thought is essentially dialogical and polemical.
 
 ## 关键著作 / Major Works

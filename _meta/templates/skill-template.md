@@ -1,7 +1,7 @@
 ---
 name: <skill-id>
 description: 一句话说明此 Skill 的功能与触发场景。Triggers on requests to <具体触发语义>，如分析权力结构、识别认知扭曲、追问预设等。
-domain: <philosophy | religion | sociology | psychology>
+domain: <philosophy | 宗教 | 社会学 | psychology>
 linked_thinker: <对应思想家文件相对路径>
 linked_concepts:
   - <对应概念文件相对路径>

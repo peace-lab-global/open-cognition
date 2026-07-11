@@ -1,21 +1,21 @@
 ---
-id: psychology.cognitive.beck.cognitive-triad
+id: 心理学.cognitive.beck.cognitive-triad
 title: "认知三联征 \u00b7 Cognitive Triad \u00b7 Beck"
 type: concept
-domain: psychology
+domain: 心理学
 school: cognitive
 thinker: beck
 tags: [cognitive-triad, depression, negative-self, negative-world, negative-future, hopelessness]
 cross-refs:
-  - id: psychology.cognitive.beck
+  - id: 心理学.cognitive.beck
     relation: thinker
-  - id: psychology.cognitive.beck.automatic-thoughts
+  - id: 心理学.cognitive.beck.automatic-thoughts
     relation: 组成
-  - id: psychology.cognitive.beck.schemas
+  - id: 心理学.cognitive.beck.schemas
     relation: 驱动
-  - id: psychology.humanistic.maslow
+  - id: 心理学.humanistic.maslow
     relation: 对照(自我实现 vs 自我否定)
-  - id: religion.buddhism.concepts.suffering
+  - id: 宗教.buddhism.concepts.suffering
     relation: 对照(苦谛)
 ---
 
@@ -55,7 +55,7 @@ This cyclical structure gives depression high **self-sustainability**\u2014even 
 
 三联征中的**未来维度**（无望感）被认为是抑郁症最具临床意义的成分。大量研究表明，无望感 (hopelessness) 是自杀意念和自杀行为的**最强预测因子**\u2014\u2014其预测力超过抑郁严重程度本身 (Beck et al., 1985, 1989)。Beck 无望感量表 (Beck Hopelessness Scale, BHS) 是临床上评估自杀风险的重要工具。
 
-The **future dimension** (hopelessness) of the triad is considered the most clinically significant component. Extensive research shows hopelessness is the **strongest predictor of suicidal ideation and behavior**\u2014exceeding depression severity itself (Beck et al., 1985, 1989). The Beck Hopelessness Scale (BHS) is a key clinical tool for suicide risk assessment.
+The **future dimension** (hopelessness) of the triad is considered the most clinically significant component. Extensive 研究 shows hopelessness is the **strongest predictor of suicidal ideation and behavior**\u2014exceeding depression severity itself (Beck et al., 1985, 1989). The Beck Hopelessness Scale (BHS) is a key clinical tool for suicide risk assessment.
 
 ### 3. 选择性信息加工 / Selective Information Processing
 

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.hakuin.concepts.zazen-hymn
+id: 宗教.buddhism.masters.hakuin.concepts.zazen-hymn
 title: 坐禅和赞 Zazen Wasan (Hymn to Zazen)
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-rinzai
 parent: ../README.md
 tags: [坐禅和赞, Zazen Wasan, 众生本来佛, 白隐, Hakuin, 坐禅, zazen, 临济宗]
@@ -24,7 +24,7 @@ tags: [坐禅和赞, Zazen Wasan, 众生本来佛, 白隐, Hakuin, 坐禅, zazen
 
 The *Zazen Wasan* (Hymn to Zazen) is a meditation hymn composed by Hakuin in his later years, written in Japanese *waka* verse form. It is the most widely circulated and frequently chanted of all Hakuin's works. In extremely concise and beautiful language, it distills the core teaching of Hakuin's Zen — all beings inherently possess Buddha-nature, practice is discovery, zazen itself is Buddha-activity. This hymn continues to be chanted daily in Japanese Rinzai temples and has been translated into many languages at Zen centers worldwide.
 
-Hakuin's choice to write in Japanese rather than classical Chinese was a significant aspect of his teaching strategy — he wanted ordinary Japanese people, not only monks and scholars educated in Chinese, to understand the true meaning of meditation. The accessible language of the *Zazen Wasan* bridges elite Zen practice and popular religion.
+Hakuin's choice to write in Japanese rather than classical Chinese was a significant aspect of his teaching strategy — he wanted ordinary Japanese people, not only monks and scholars educated in Chinese, to understand the true meaning of meditation. The accessible language of the *Zazen Wasan* bridges elite Zen practice and popular 宗教.
 
 ---
 

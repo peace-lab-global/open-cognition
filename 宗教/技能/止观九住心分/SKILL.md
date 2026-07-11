@@ -1,7 +1,7 @@
 ---
 name: nine-abidings-analysis
 description: Triggers on requests to 禅定分析、九住心定位、止禅阶段判断，如禅修诊断、修行评估、定学教学等。Apply this skill to analyze and locate a meditation state within the nine stages of mental abiding (navākārā cittasthiti).
-domain: religion
+domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/nine-abidings.md
 tags:

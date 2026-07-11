@@ -3,7 +3,7 @@ id: nagarjuna-two-truths
 title: "二谛 Dve Satye: 世俗与胜义的不可分割"
 type: concept
 parent: nagarjuna
-domain: religion
+domain: 宗教
 tags: [two-truths, samvrti, paramartha, conventional, ultimate, Madhyamaka]
 ---
 

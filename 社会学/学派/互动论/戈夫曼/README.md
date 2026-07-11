@@ -1,8 +1,8 @@
 ---
-id: sociology.interactionism.goffman
+id: 社会学.interactionism.goffman
 title: 戈夫曼 Erving Goffman
 type: thinker
-domain: sociology
+domain: 社会学
 school: interactionism
 era: modern
 birth: 1922

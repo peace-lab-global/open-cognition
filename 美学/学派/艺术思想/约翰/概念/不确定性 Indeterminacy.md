@@ -1,8 +1,8 @@
 ---
-id: aesthetics.arts-thought.cage.concepts.indeterminacy
+id: 美学.arts-thought.cage.concepts.indeterminacy
 title: 不确定性 Indeterminacy
 type: concept
-parent: aesthetics.arts-thought.cage
+parent: 美学.arts-thought.cage
 tags: [indeterminacy, performance, notation, freedom, open-form]
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.anatman
+id: 宗教.buddhism.concept.anatman
 title: 无我 Anātman
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [无我, 人无我, 法无我, 补特伽罗, 自我哲学]
@@ -55,9 +55,9 @@ sources: [《阿含经》, 《俱舍论·破我品》, 《入中论》]
 
 ## 跨学科关联
 
-- [休谟 · 束论](../../../philosophy/schools/empiricism/hume.md) — [平行] "自我是感知之束"
-- [弗洛伊德 · 自我](../../../psychology/schools/psychoanalysis/freud.md) — [互补] 心理自我的解构
-- [丹尼特 · 叙事自我](../../../philosophy/schools/analytic/dennett.md) — [平行] 自我是"叙事的中心引力"
+- [休谟 · 束论](../../../哲学/学派/经验主义/休谟.md) — [平行] "自我是感知之束"
+- [弗洛伊德 · 自我](../../../心理学/学派/精神分析/西格蒙德.md) — [互补] 心理自我的解构
+- [丹尼特 · 叙事自我](../../../哲学/学派/分析哲学/丹尼特.md) — [平行] 自我是"叙事的中心引力"
 
 ## 进阶阅读
 

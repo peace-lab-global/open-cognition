@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.fodor
+id: 哲学.analytic.fodor
 title: 福多 · Jerry A. Fodor
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1935

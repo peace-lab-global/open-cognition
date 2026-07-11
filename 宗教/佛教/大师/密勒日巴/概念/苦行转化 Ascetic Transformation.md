@@ -1,10 +1,10 @@
 ---
-id: religion.buddhism.masters.milarepa.concepts.ascetic-transformation
+id: 宗教.buddhism.masters.milarepa.concepts.ascetic-transformation
 title: 苦行转化 Ascetic Transformation
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
-parent: religion.buddhism.masters.milarepa
+parent: 宗教.buddhism.masters.milarepa
 tags: [苦行, asceticism, 转化, transformation, 赎罪, redemption, 密勒日巴, renunciation]
 ---
 

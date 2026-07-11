@@ -2,7 +2,7 @@
 id: taylor
 title: "查尔斯·泰勒 · Charles Taylor"
 type: thinker
-domain: ethics-politics
+domain: 伦理政治
 school: communitarianism
 era: contemporary
 birth: 1931
@@ -97,7 +97,7 @@ Taylor's academic career spans over six decades, and his work has consistently r
 "做你自己"（be true to yourself）不是一种主观主义的放纵，而是一种有内在规范要求的道德理想——本真性（authenticity）必须在与重要他者的对话中实现。"Being true to yourself" is not subjectivist indulgence but a moral ideal with intrinsic normative demands — authenticity must be realized in dialogue with significant others.
 
 **5. 世俗化不是宗教的消亡 / Secularization Is Not the Death of Religion**
-世俗化并非宗教的简单退场，而是信仰条件的根本转变——在世俗时代，信仰从"默认选项"变为"诸多选项之一"，但超越性追求并未消失，而是以新的形态持续存在。Secularization is not the simple retreat of religion but a fundamental transformation in the conditions of belief — in a secular age, faith shifts from "default option" to "one option among many," yet transcendent aspirations persist in new forms.
+世俗化并非宗教的简单退场，而是信仰条件的根本转变——在世俗时代，信仰从"默认选项"变为"诸多选项之一"，但超越性追求并未消失，而是以新的形态持续存在。Secularization is not the simple retreat of 宗教 but a fundamental transformation in the conditions of belief — in a secular age, faith shifts from "default option" to "one option among many," yet transcendent aspirations persist in new forms.
 
 **6. 社会想象的构成性力量 / The Constitutive Power of Social Imaginaries**
 社会想象（social imaginary）不是理论或意识形态，而是普通人在日常生活中理解和实践社会生活的背景方式——它构成了现代政治秩序、经济关系和公共领域的深层结构。The social imaginary is not theory or ideology, but the background way ordinary people understand and practice social life — it constitutes the deep structure of modern political order, economic relations, and the public sphere.
@@ -108,7 +108,7 @@ Taylor's academic career spans over six decades, and his work has consistently r
 
 泰勒的早期工作聚焦于行动哲学（philosophy of action）和解释学方法（hermeneutic method）。在1964年的博士论文《行为的解释》（*The Explanation of Behaviour*）中，他批评了行为主义心理学将人类行动还原为刺激—反应模式的企图，论证了人类行为的"目的论"（teleological）维度——行动不能脱离行动者的意图和意义来理解。这一阶段的工作确立了泰勒作为解释学传统在英语世界的代言人的地位。
 
-Taylor's early work focused on the philosophy of action and hermeneutic method. In his 1964 doctoral thesis *The Explanation of Behaviour*, he criticized behaviourist psychology's attempt to reduce human action to stimulus-response patterns, arguing for the teleological dimension of action — behaviour cannot be understood apart from the agent's intentions and meanings. This phase established Taylor as a spokesman for the hermeneutic tradition in the Anglophone world.
+Taylor's early work focused on the 哲学 of action and hermeneutic method. In his 1964 doctoral thesis *The Explanation of Behaviour*, he criticized behaviourist psychology's attempt to reduce human action to stimulus-response patterns, arguing for the teleological dimension of action — behaviour cannot be understood apart from the agent's intentions and meanings. This phase established Taylor as a spokesman for the hermeneutic tradition in the Anglophone world.
 
 1975年出版的《黑格尔》（*Hegel*）是泰勒学术生涯的重要转折——在英语哲学界普遍将黑格尔视为极权主义先驱的氛围中，泰勒重新将黑格尔解读为自由与承认的哲学家，强调黑格尔辩证法中的"主体间性"（intersubjectivity）和"和解"（reconciliation）主题。这本专著至今仍是黑格尔研究领域的经典。
 
@@ -118,7 +118,7 @@ The 1975 publication of *Hegel* marked a pivotal turn — in an Anglophone philo
 
 1985年出版的两卷本《哲学论文集》（*Philosophical Papers*）汇集了泰勒二十年来的重要论文，涵盖行动理论、语言哲学、道德哲学和政治哲学。同年，泰勒开始构思他最具野心的项目——追溯现代自我认同的道德谱系。
 
-The two-volume *Philosophical Papers* (1985) collected two decades of Taylor's key essays spanning action theory, philosophy of language, moral philosophy, and political theory. That same year, Taylor began conceiving his most ambitious project — tracing the moral genealogy of modern self-identity.
+The two-volume *Philosophical Papers* (1985) collected two decades of Taylor's key essays spanning action theory, 哲学 of language, moral philosophy, and political theory. That same year, Taylor began conceiving his most ambitious project — tracing the moral genealogy of modern self-identity.
 
 1989年的《自我的根源》（*Sources of the Self*）是泰勒中期思想的巅峰之作。在这部逾六百页的巨著中，泰勒追溯了从奥古斯丁到当代的西方自我理解的演变，论证了现代"内在框架"（immanent frame）的三重来源：基督教的内在化、笛卡尔的分解式自我、以及浪漫主义的表达主义（expressivism）。该书对罗尔斯式自由主义的"无负荷自我"（unencumbered self）提出了深刻批评，成为社群主义论争的理论基石。
 
@@ -140,7 +140,7 @@ In the 21st century, Taylor's thought turned toward broader civilizational histo
 
 2016年的《语言动物》（*The Language Animal*）标志着泰勒回归其哲学起点——语言哲学。在这部著作中，泰勒系统发展了一种"构成性"（constitutive）语言观，反对"封装式"（enframing）语言理论——语言不只是描述既定现实的工具，更是构成人类经验、情感和认同的媒介。
 
-*The Language Animal* (2016) marks Taylor's return to his philosophical origins in philosophy of language. In this work, Taylor systematically develops a "constitutive" theory of language, opposing "enframing" theories — language is not merely a tool for describing pre-existing reality, but the medium through which human experience, emotion, and identity are constituted.
+*The Language Animal* (2016) marks Taylor's return to his philosophical origins in 哲学 of language. In this work, Taylor systematically develops a "constitutive" theory of language, opposing "enframing" theories — language is not merely a tool for describing pre-existing reality, but the medium through which human experience, emotion, and identity are constituted.
 
 ## 关键著作 / Key Works
 
@@ -217,7 +217,7 @@ In the 21st century, Taylor's thought turned toward broader civilizational histo
    本真性伦理影响了进步主义教育理论——教育的目标不是标准化的知识传递，而是帮助学生在对话中发现和形成自我认同。The ethics of authenticity has influenced progressive education theory — the goal of education is not standardized knowledge transmission but helping students discover and form self-identity through dialogue.
 
 4. **世俗化与宗教复兴研究 / Secularization and Religious Revival Studies**
-   《世俗时代》是宗教社会学和政治神学的基础文本——理解当代全球宗教复兴（伊斯兰复兴、中国民间宗教回潮、美国福音派运动）和世俗化并存的复杂格局。*A Secular Age* is a foundational text for religious sociology and political theology — understanding the complex coexistence of contemporary global religious revival and secularization.
+   《世俗时代》是宗教社会学和政治神学的基础文本——理解当代全球宗教复兴（伊斯兰复兴、中国民间宗教回潮、美国福音派运动）和世俗化并存的复杂格局。*A Secular Age* is a foundational text for religious 社会学 and political theology — understanding the complex coexistence of contemporary global religious revival and secularization.
 
 5. **跨文化伦理对话 / Cross-cultural Ethical Dialogue**
    泰勒的"道德框架"概念为儒家伦理、佛教伦理与西方伦理学的比较研究提供了理论工具——不同传统的道德框架不可简单通约，但可以在对话中相互理解。Taylor's "moral framework" concept provides a theoretical tool for comparative studies of Confucian, Buddhist, and Western ethics — different traditions' moral frameworks are not simply commensurable, but can be mutually understood through dialogue.
@@ -229,7 +229,7 @@ In the 21st century, Taylor's thought turned toward broader civilizational histo
    泰勒的"社会想象"概念为理解当代民主危机提供了框架——民粹主义的兴起可以被理解为既有社会想象的崩溃和新想象的竞争。Taylor's "social imaginary" concept provides a framework for understanding contemporary democratic crises — the rise of populism can be understood as the collapse of existing social imaginaries and the competition of new ones.
 
 8. **心理健康与文化治疗 / Mental Health and Cultural Therapy**
-   泰勒的"对话性自我"概念与叙事治疗、文化心理学相通——心理健康不仅关乎个体认知，更关乎认同在社群关系中的承认与回应。Taylor's "dialogical self" concept resonates with narrative therapy and cultural psychology — mental health concerns not only individual cognition but also the recognition and response of identity within communal relationships.
+   泰勒的"对话性自我"概念与叙事治疗、文化心理学相通——心理健康不仅关乎个体认知，更关乎认同在社群关系中的承认与回应。Taylor's "dialogical self" concept resonates with narrative therapy and cultural 心理学 — mental health concerns not only individual cognition but also the recognition and response of identity within communal relationships.
 
 ## 常见误读 / Common Misreadings
 
@@ -267,7 +267,7 @@ Additionally, Taylor's analysis of secularization contrasts with China's "religi
 
 - **宗教研究 / Religious Studies:** `[重塑]` 《世俗时代》重塑了世俗化理论的范式——从"宗教衰落"叙事转向"信仰条件转变"叙事。*A Secular Age* reshaped the secularization theory paradigm — shifting from a "religious decline" narrative to a "transformation of belief conditions" narrative.
 
-- **心理学 / Psychology:** `[对话]` 自我的对话性理论与维果茨基（Vygotsky）的社会建构心理学、乔治·米德（George Herbert Mead）的符号互动论相通。Taylor's dialogical self theory resonates with Vygotsky's social constructionist psychology and George Herbert Mead's symbolic interactionism.
+- **心理学 / Psychology:** `[对话]` 自我的对话性理论与维果茨基（Vygotsky）的社会建构心理学、乔治·米德（George Herbert Mead）的符号互动论相通。Taylor's dialogical self theory resonates with Vygotsky's social constructionist 心理学 and George Herbert Mead's symbolic interactionism.
 
 - **美学 / Aesthetics:** `[同源]` 泰勒对表达主义（expressivism）的关注与浪漫主义美学传统有深刻关联——艺术作为自我揭示和自我构成的方式。Taylor's concern with expressivism has deep connections to the Romantic aesthetic tradition — art as a mode of self-revelation and self-constitution.
 

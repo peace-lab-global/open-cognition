@@ -2,7 +2,7 @@
 id: dewey
 title: 约翰·杜威 · John Dewey
 type: thinker
-domain: philosophy
+domain: 哲学
 school: pragmatism
 era: modern
 birth: 1859
@@ -109,19 +109,19 @@ Education is not preparation for future life but life itself. Growth is the cont
 
 杜威在佛蒙特大学受业于 Torrey 和 Perkins，对哲学产生兴趣。在约翰·霍普金斯大学，他师从 George Sylvester Morris（黑格尔主义者），完成了关于康德的博士论文。这一时期他接受了一种有机统一的世界观，认为个体与宇宙通过精神活动而统一。他的早期著作《心理学》（1887）试图调和黑格尔主义与新兴实验心理学。
 
-Dewey developed an interest in philosophy at the University of Vermont under Torrey and Perkins. At Johns Hopkins, he studied with George Sylvester Morris (a Hegelian) and completed a dissertation on Kant. During this period he embraced an organic, unified worldview, holding that individuals and the cosmos are united through spiritual activity. His early work *Psychology* (1887) attempted to reconcile Hegelianism with emerging experimental psychology.
+Dewey developed an interest in 哲学 at the University of Vermont under Torrey and Perkins. At Johns Hopkins, he studied with George Sylvester Morris (a Hegelian) and completed a dissertation on Kant. During this period he embraced an organic, unified worldview, holding that individuals and the cosmos are united through spiritual activity. His early work *Psychology* (1887) attempted to reconcile Hegelianism with emerging experimental 心理学.
 
 ### 中期：芝加哥实验学校与《民主与教育》（1894–1916）/ Middle Period: Chicago Laboratory School & Democracy and Education (1894–1916)
 
 1894年杜威转至芝加哥大学，开始将哲学与教育实践相结合。1896年创办的实验学校是其教育理论的实验室。在这一时期，他逐渐摆脱黑格尔的唯心主义框架，转向以达尔文进化论和詹姆斯实用主义为基础的经验自然主义。1916年出版的《民主与教育》标志着其教育哲学的成熟——将教育定义为"社会生活的延续"，主张民主社会的教育应培养批判性思维和协作能力。
 
-In 1894 Dewey moved to the University of Chicago, beginning to integrate philosophy with educational practice. The Laboratory School (1896) served as a testing ground for his educational theories. During this period he gradually shed the Hegelian idealist framework, turning toward an experiential naturalism grounded in Darwinian evolution and James's pragmatism. *Democracy and Education* (1916) marked the maturity of his educational philosophy—defining education as "the continuation of social life" and arguing that democratic education should cultivate critical thinking and cooperative capacity.
+In 1894 Dewey moved to the University of Chicago, beginning to integrate 哲学 with educational practice. The Laboratory School (1896) served as a testing ground for his educational theories. During this period he gradually shed the Hegelian idealist framework, turning toward an experiential naturalism grounded in Darwinian evolution and James's pragmatism. *Democracy and Education* (1916) marked the maturity of his educational philosophy—defining education as "the continuation of social life" and arguing that democratic education should cultivate critical thinking and cooperative capacity.
 
 ### 晚期：哥伦比亚时期、《艺术即经验》与中国之行（1916–1952）/ Late Period: Columbia, Art as Experience & China Visit (1916–1952)
 
 1904年杜威转入哥伦比亚大学，此后四十年间持续拓展其哲学体系。1925年《经验与自然》系统阐述了经验自然主义的形而上学基础。1927年《公众及其问题》回应李普曼的精英民主论，主张民主需要积极的公民参与。1934年《艺术即经验》将审美经验纳入经验理论的框架，是其美学的巅峰之作。1938年《逻辑：探究理论》重新将逻辑学建立在探究的基础之上。1919–1921年间，杜威应北京大学之邀访问中国，在北京、南京、上海等地讲学，其教育思想通过胡适、陶行知等学生深刻影响了中国现代教育的走向。
 
-Dewey joined Columbia University in 1904, and over the next four decades continuously expanded his philosophical system. *Experience and Nature* (1925) systematically articulated the metaphysical foundations of experiential naturalism. *The Public and Its Problems* (1927) responded to Lippmann's elite-democracy theory, arguing that democracy requires active citizen participation. *Art as Experience* (1934) integrated aesthetic experience into his experience theory, representing the pinnacle of his aesthetics. *Logic: The Theory of Inquiry* (1938) re-founded logic on the basis of inquiry. During 1919–1921, Dewey visited China at Peking University's invitation, lecturing in Beijing, Nanjing, and Shanghai; his educational thought profoundly influenced the direction of modern Chinese education through students such as Hu Shih and Tao Xingzhi.
+Dewey joined Columbia University in 1904, and over the next four decades continuously expanded his philosophical system. *Experience and Nature* (1925) systematically articulated the metaphysical foundations of experiential naturalism. *The Public and Its Problems* (1927) responded to Lippmann's elite-democracy theory, arguing that democracy requires active citizen participation. *Art as Experience* (1934) integrated aesthetic experience into his experience theory, representing the pinnacle of his 美学. *Logic: The Theory of Inquiry* (1938) re-founded logic on the basis of inquiry. During 1919–1921, Dewey visited China at Peking University's invitation, lecturing in Beijing, Nanjing, and Shanghai; his educational thought profoundly influenced the direction of modern Chinese education through students such as Hu Shih and Tao Xingzhi.
 
 ---
 
@@ -146,13 +146,13 @@ Dewey joined Columbia University in 1904, and over the next four decades continu
 
 | 著作 / Work | 年份 | 要点 / Key Point |
 |---|---|---|
-| 《民主与教育》*Democracy and Education* | 1916 | 教育哲学经典；民主与教育的内在关联 / Educational philosophy classic; the internal link between democracy and education |
+| 《民主与教育》*Democracy and Education* | 1916 | 教育哲学经典；民主与教育的内在关联 / Educational 哲学 classic; the internal link between democracy and education |
 | 《经验与自然》*Experience and Nature* | 1925 | 经验自然主义的系统阐述 / Systematic articulation of experiential naturalism |
 | 《艺术即经验》*Art as Experience* | 1934 | 审美经验理论；反对艺术与生活的分离 / Aesthetic experience theory; opposing art-life separation |
 | 《逻辑：探究理论》*Logic: The Theory of Inquiry* | 1938 | 探究作为逻辑的基础 / Inquiry as the foundation of logic |
 | 《公众及其问题》*The Public and Its Problems* | 1927 | 回应李普曼精英民主论 / Response to Lippmann's elite-democracy theory |
 | 《哲学的改造》*Reconstruction in Philosophy* | 1920 | 哲学应从实际问题出发 / Philosophy should start from practical problems |
-| 《人性与行为》*Human Nature and Conduct* | 1922 | 习惯、冲动与智力的社会心理学 / Social psychology of habit, impulse, and intelligence |
+| 《人性与行为》*Human Nature and Conduct* | 1922 | 习惯、冲动与智力的社会心理学 / Social 心理学 of habit, impulse, and intelligence |
 | 《确定性的追求》*The Quest for Certainty* | 1929 | 批判传统哲学对确定性的执着 / Critique of philosophy's obsession with certainty |
 
 详见 [著作详表](works.md)。See [full works listing](works.md).
@@ -183,7 +183,7 @@ Dewey's theory of inquiry—starting from an indeterminate situation, proceeding
 
 杜威对身心二元论的批判、对有机体-环境交互的强调，与具身认知（embodied cognition）和具身AI的研究路径不谋而合。Rodney Brooks 等行为主义AI研究者的工作体现了杜威式的实用主义精神。
 
-Dewey's critique of mind-body dualism and his emphasis on organism-environment interaction converge with embodied cognition and embodied AI research. The work of behaviorist AI researchers such as Rodney Brooks embodies the Deweyan pragmatist spirit.
+Dewey's critique of mind-body dualism and his emphasis on organism-environment interaction converge with embodied cognition and embodied AI 研究. The work of behaviorist AI researchers such as Rodney Brooks embodies the Deweyan pragmatist spirit.
 
 ### 积极心理学与心流 / Positive Psychology & Flow
 
@@ -195,7 +195,7 @@ Csikszentmihalyi's flow theory—the merging of action and consciousness in opti
 
 杜威的有机体-环境交互理论为生态哲学提供了非二元论的思想资源。经验不是人对自然的"旁观"，而是人作为自然一部分的参与过程。这一视角对深层生态学和生态现象学都有启发意义。
 
-Dewey's organism-environment transaction theory provides non-dualist intellectual resources for ecological philosophy. Experience is not a human "spectating" of nature but a participatory process in which humans are part of nature. This perspective has implications for deep ecology and ecological phenomenology.
+Dewey's organism-environment transaction theory provides non-dualist intellectual resources for ecological 哲学. Experience is not a human "spectating" of nature but a participatory process in which humans are part of nature. This perspective has implications for deep ecology and ecological phenomenology.
 
 ---
 
@@ -231,7 +231,7 @@ Dewey's organism-environment transaction theory provides non-dualist intellectua
 **纠正**：杜威构建了涵盖逻辑学、美学、政治哲学、伦理学、心理学和形而上学的完整哲学体系。教育哲学只是他整体哲学的一个应用领域。他在逻辑学（探究理论）、美学（艺术即经验）和政治哲学（公众理论）方面的贡献都具有独立的重要性。
 
 **Misreading**: Dewey was merely an education theorist with limited philosophical contributions.
-**Correction**: Dewey built a comprehensive philosophical system encompassing logic, aesthetics, political philosophy, ethics, psychology, and metaphysics. Educational philosophy is only one application of his overall philosophy. His contributions to logic (inquiry theory), aesthetics (art as experience), and political philosophy (public theory) are all independently significant.
+**Correction**: Dewey built a comprehensive philosophical system encompassing logic, aesthetics, political philosophy, ethics, psychology, and metaphysics. Educational 哲学 is only one application of his overall 哲学. His contributions to logic (inquiry theory), 美学 (art as experience), and political 哲学 (public theory) are all independently significant.
 
 ---
 
@@ -259,7 +259,7 @@ Dewey's inquiry theory enters into dialogue with the *Great Learning*'s traditio
 
 杜威的"经验"概念——做与受的统一——与王阳明的"知行合一"形成深层共鸣。王阳明主张"知而不行，只是未知"；杜威同样认为脱离行动的知识不是真正的知识。两者都打破了认知与实践的二元对立。杜威的经验概念更具科学方法论的色彩，而王阳明的知行合一则更多指向道德实践。将两者结合，可以为当代的实践哲学提供更丰富的资源。
 
-Dewey's concept of "experience"—the unity of doing and undergoing—resonates deeply with Wang Yangming's "unity of knowledge and action" (zhixing heyi). Wang Yangming held that "to know and not act is not to know"; Dewey likewise maintained that knowledge divorced from action is not genuine knowledge. Both broke the binary opposition between cognition and practice. Dewey's experience concept carries more of a scientific-methodological character, while Wang Yangming's unity of knowledge and action points more toward moral practice. Combining both can provide richer resources for contemporary philosophy of practice.
+Dewey's concept of "experience"—the unity of doing and undergoing—resonates deeply with Wang Yangming's "unity of knowledge and action" (zhixing heyi). Wang Yangming held that "to know and not act is not to know"; Dewey likewise maintained that knowledge divorced from action is not genuine knowledge. Both broke the binary opposition between cognition and practice. Dewey's experience concept carries more of a scientific-methodological character, while Wang Yangming's unity of knowledge and action points more toward moral practice. Combining both can provide richer resources for contemporary 哲学 of practice.
 
 ### 杜威的中国之行与胡适 / Dewey's China Visit and the Hu Shi Connection
 
@@ -280,14 +280,14 @@ Dewey's concept of "growth" enters cross-cultural dialogue with the *Book of Cha
 | 领域 / Field | 关联 / Connection | 关键人物 / Key Figure |
 |---|---|---|
 | 符号学 / Semiotics | 探究与符号的关系 / Inquiry and signs | [Peirce](../peirce/) [同源 / co-origin] |
-| 心理学 / Psychology | 实验心理学与行为研究 / Experimental psychology | [James](../../../../psychology/schools/functionalism/james/) [同源 / co-origin] |
-| 发展心理学 / Developmental Psychology | 认知发展阶段与学习 / Cognitive development stages | [Piaget](../../../../psychology/concepts/constructivism/) [平行 / parallel] |
-| 积极心理学 / Positive Psychology | 最优体验与审美经验 / Optimal experience | [Csikszentmihalyi](../../../../psychology/concepts/flow/) [发展 / development] |
-| 社会学 / Sociology | 公共领域与民主参与 / Public sphere & democratic participation | [Habermas](../../../../sociology/schools/critical/habermas/) [平行 / parallel] |
-| 教育学 / Education | 建构主义与项目式学习 / Constructivism & PBL | [Vygotsky](../../../../psychology/concepts/constructivism/) [平行 / parallel] |
-| 科学哲学 / Philosophy of Science | 范式与探究 / Paradigms and inquiry | [Kuhn](../../../../philosophy/schools/pragmatism/) [先驱 / precursor] |
+| 心理学 / Psychology | 实验心理学与行为研究 / Experimental 心理学 | [James](../../../../心理学/学派/功能主义/威廉/) [同源 / co-origin] |
+| 发展心理学 / Developmental Psychology | 认知发展阶段与学习 / Cognitive development stages | [Piaget](../../../../心理学/概念/建构主义/) [平行 / parallel] |
+| 积极心理学 / Positive Psychology | 最优体验与审美经验 / Optimal experience | [Csikszentmihalyi](../../../../心理学/概念/心流 Flow/) [发展 / development] |
+| 社会学 / Sociology | 公共领域与民主参与 / Public sphere & democratic participation | [Habermas](../../../../社会学/学派/批判理论/哈贝马斯/) [平行 / parallel] |
+| 教育学 / Education | 建构主义与项目式学习 / Constructivism & PBL | [Vygotsky](../../../../心理学/概念/建构主义/) [平行 / parallel] |
+| 科学哲学 / Philosophy of Science | 范式与探究 / Paradigms and inquiry | [Kuhn](../../../../哲学/学派/实用主义/) [先驱 / precursor] |
 | 认知科学 / Cognitive Science | 具身认知与延展心智 / Embodied & extended cognition | [Clark](../../../../cognitive-science/) [发展 / development] |
-| 环境哲学 / Environmental Philosophy | 有机体-环境交互 / Organism-environment interaction | [Abram](../../../../philosophy/schools/phenomenology/) [发展 / development] |
+| 环境哲学 / Environmental Philosophy | 有机体-环境交互 / Organism-environment interaction | [Abram](../../../../哲学/学派/现象学/) [发展 / development] |
 | 设计学 / Design | 设计思维方法论 / Design thinking methodology | [Simon](../../../../design/) [平行 / parallel] |
 
 ---

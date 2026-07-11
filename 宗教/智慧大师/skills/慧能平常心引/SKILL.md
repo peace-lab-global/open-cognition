@@ -138,5 +138,5 @@ tags:
 
 - 祖师：[慧能](../../masters/china/hui-neng.md)
 - 概念：[平常心](./concepts/putongxin.md)（待建）
-- 跨传统：[罗杰斯·真实自我](../../psychology/schools/humanistic/rogers.md)（平行）——真实自我与平常心的内在对应
+- 跨传统：[罗杰斯·真实自我](../../心理学/学派/人本主义/卡尔.md)（平行）——真实自我与平常心的内在对应
 - 相关Skill：[慧能无住心法](./hui-neng-no-dwelling/SKILL.md)

@@ -3,7 +3,7 @@ id: nagarjuna-pratityasamutpada
 title: "缘起 Pratityasamutpada: 相依缘起与空性的同义"
 type: concept
 parent: nagarjuna
-domain: religion
+domain: 宗教
 tags: [dependent-origination, pratityasamutpada, causation, interdependence, Madhyamaka]
 ---
 

@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.cybernetics.wiener
+id: 认知系统.school.cybernetics.wiener
 title: 维纳 Norbert Wiener
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: cybernetics
 era: modern
 birth: 1894
@@ -29,7 +29,7 @@ sources: [Cybernetics (1948), The Human Use of Human Beings (1950)]
 
 维纳的控制论思想深刻影响了阿什比（必要多样性）、西蒙（有限理性）、哈钦斯（分布式认知）、以及整个AI和认知科学领域。
 
-Norbert Wiener founded cybernetics — the science of control and communication in animals and machines. His insight that feedback is the basis of purposeful behavior unified engineering, biology, and psychology. His work profoundly influenced Ashby, Simon, Hutchins, and the entire field of cognitive science and AI.
+Norbert Wiener founded cybernetics — the science of control and communication in animals and machines. His insight that feedback is the basis of purposeful behavior unified engineering, biology, and 心理学. His work profoundly influenced Ashby, Simon, Hutchins, and the entire field of cognitive science and AI.
 
 ## 二、核心命题
 

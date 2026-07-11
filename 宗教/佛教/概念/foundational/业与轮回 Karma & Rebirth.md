@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.core.karma-rebirth
+id: 宗教.buddhism.core.karma-rebirth
 title: 业与轮回 Karma & Rebirth
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [业, 轮回, karma, samsara]
@@ -69,9 +69,9 @@ sources: [巴利三藏, 《俱舍论》, 《清净道论》]
 
 ## 跨学科关联
 
-- [决定论 vs 自由意志](../../../philosophy/schools/rationalism/descartes.md) — [张力] 业与自由
-- [弗洛伊德 · 强迫性重复](../../../psychology/schools/psychoanalysis/freud.md) — [平行] 等流果
-- [社会学 · 社会再制](../../../sociology/schools/structuralism/bourdieu.md) — [平行] 习气延续
+- [决定论 vs 自由意志](../../../哲学/学派/理性论/勒内.md) — [张力] 业与自由
+- [弗洛伊德 · 强迫性重复](../../../心理学/学派/精神分析/西格蒙德.md) — [平行] 等流果
+- [社会学 · 社会再制](../../../社会学/学派/结构主义/布迪厄.md) — [平行] 习气延续
 
 ## 进阶阅读
 

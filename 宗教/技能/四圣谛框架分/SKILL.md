@@ -1,8 +1,8 @@
 ---
 name: four-noble-truths-framework
 description: Triggers when a user describes a recurring suffering, dissatisfaction, or stuck life situation and asks "why does this keep happening" or "how do I stop suffering". Apply this skill to diagnose the structure of the suffering through the four-step Buddhist medical model rather than offering surface-level coping tactics.
-domain: religion
-linked_concept: ../../../religion/traditions/buddhism/four-noble-truths.md
+domain: 宗教
+linked_concept: ../../../宗教/传统/佛教/四圣谛与八正道.md
 linked_concepts:
   - ../../traditions/buddhism/sunyata.md
   - ../../concepts/salvation.md
@@ -100,4 +100,4 @@ tags:
 
 - 概念：[四圣谛与八正道](../../traditions/buddhism/four-noble-truths.md)、[空性](../../traditions/buddhism/sunyata.md)
 - 跨传统：[救赎](../../concepts/salvation.md)
-- 相关 Skill：[现象学还原](../../../philosophy/skills/phenomenological-reduction/SKILL.md)、[认知行为分析](../../../psychology/skills/cbt-restructuring/SKILL.md)
+- 相关 Skill：[现象学还原](../../../哲学/技能/现象学还原/SKILL.md)、[认知行为分析](../../../心理学/skills/cbt-restructuring/SKILL.md)

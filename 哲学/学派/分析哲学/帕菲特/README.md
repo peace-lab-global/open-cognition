@@ -1,8 +1,8 @@
 ---
-id: philosophy.analytic.parfit
+id: 哲学.analytic.parfit
 title: 帕菲特 · Derek Parfit
 type: thinker
-domain: philosophy
+domain: 哲学
 school: analytic
 era: contemporary
 birth: 1942

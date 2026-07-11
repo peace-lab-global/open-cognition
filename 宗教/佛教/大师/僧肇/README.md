@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism-madhyamaka.sengzhao
+id: 宗教.buddhism-madhyamaka.sengzhao
 title: 僧肇 · Sengzhao
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 era: classical
 birth: 384
@@ -43,7 +43,7 @@ cross-refs:
 
 僧肇是中国佛教思想史上第一位以中观般若学系统回应中国传统哲学（尤其是老庄玄学）问题的思想家。他巧妙地运用了玄学的语言框架来阐述佛教中观义理，开创了中国化的般若学传统，对后来的三论宗、天台宗乃至禅宗都产生了深远影响。
 
-Sengzhao (384–414) is one of the most brilliant philosophers in Chinese Buddhist history, renowned as the foremost Chinese interpreter of Madhyamaka emptiness. A disciple of Kumarajiva, he synthesized Indian Madhyamaka philosophy with Chinese philosophical language in his masterwork *Zhao Lun* (Treatises of Zhao). Despite dying at age 31, his work profoundly shaped Chinese Buddhist thought.
+Sengzhao (384–414) is one of the most brilliant philosophers in Chinese Buddhist history, renowned as the foremost Chinese interpreter of Madhyamaka emptiness. A disciple of Kumarajiva, he synthesized Indian Madhyamaka 哲学 with Chinese philosophical language in his masterwork *Zhao Lun* (Treatises of Zhao). Despite dying at age 31, his work profoundly shaped Chinese Buddhist thought.
 
 ## 二、核心命题
 

@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.concept.three-liberations
+id: 宗教.buddhism.concept.three-liberations
 title: 三解脱门 Trīṇi Vimokṣa-mukhāni
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-general
 era: ancient
 tags: [三解脱门, 空解脱门, 无相解脱门, 无愿解脱门, 涅槃入口]

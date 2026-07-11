@@ -3,7 +3,7 @@ id: nagarjuna-catuskoti
 title: "四句破 Catuskoti: 龙树的否定性逻辑方法"
 type: concept
 parent: nagarjuna
-domain: religion
+domain: 宗教
 tags: [catuskoti, tetralemma, logic, negation, Madhyamaka, anti-foundationalism]
 ---
 

@@ -2,7 +2,7 @@
 id: damasio
 title: "达玛西奥 \u00b7 Ant\u00f3nio Dam\u00e1sio"
 type: thinker
-domain: psychology
+domain: 心理学
 school: cognitive
 era: contemporary
 birth: 1944
@@ -53,7 +53,7 @@ sub-entries:
 
 达玛西奥的研究以脑损伤患者的临床观察为基础，聚焦于情绪、决策与意识之间的关系。1994年出版的《笛卡尔的错误》（Descartes' Error）使他成为国际知名的公共知识分子，该书以通俗的笔触将前沿神经科学与哲学思辨结合，挑战了西方思想传统中身心二元论的深层预设。此后他陆续出版五部著作，构成了一个从情绪到意识的完整理论体系。曾获阿斯图里亚斯亲王奖（2005）、高尔吉亚\u00b7神经科学奖（2010）、科睿唯安引文桂冠奖等多项殊荣。
 
-Ant\u00f3nio Dam\u00e1sio (b. 1944) is a Portuguese-American neuroscientist and one of the founders of contemporary affective neuroscience. Born in Lisbon, Portugal, he received his medical degree from the University of Lisbon before specializing in neurology. He moved to the United States in 1975 for research at the University of Iowa, where he served as head of the Department of Neurology and M. W. Van Allen Professor. He is currently David Dornsife Chair Professor of Neuroscience, Psychology, and Philosophy at the University of Southern California and director of the Brain and Creativity Institute. His wife, Hanna Dam\u00e1sio, is a distinguished neuroimaging scientist and his long-time research collaborator.
+Ant\u00f3nio Dam\u00e1sio (b. 1944) is a Portuguese-American neuroscientist and one of the founders of contemporary affective neuroscience. Born in Lisbon, Portugal, he received his medical degree from the University of Lisbon before specializing in neurology. He moved to the United States in 1975 for 研究 at the University of Iowa, where he served as head of the Department of Neurology and M. W. Van Allen Professor. He is currently David Dornsife Chair Professor of Neuroscience, Psychology, and Philosophy at the University of Southern California and director of the Brain and Creativity Institute. His wife, Hanna Dam\u00e1sio, is a distinguished neuroimaging scientist and his long-time 研究 collaborator.
 
 Dam\u00e1sio's research, grounded in clinical observation of brain-damaged patients, focuses on the relationship between emotion, decision-making, and consciousness. His 1994 book *Descartes' Error* made him an internationally known public intellectual, challenging the deep-seated mind-body dualism in Western thought. His five subsequent books form a comprehensive theoretical arc from emotion to consciousness. He has received the Prince of Asturias Award (2005), the Gairdner Foundation International Award, and numerous other honors.
 
@@ -79,7 +79,7 @@ Dam\u00e1sio's research, grounded in clinical observation of brain-damaged patie
 
 4. **Emotion vs. Feeling**: Emotion is the observable, public pattern of bodily response to stimuli\u2014facial expressions, autonomic changes, behavioral dispositions. Feeling is the private experience of emotion in the brain\u2014the subjective "map" of bodily changes. Emotion precedes feeling; feeling is the interiorization of emotion.
 
-5. **Homeostasis and Affect**: The deep function of affect\u2014encompassing both emotions and feelings\u2014is to serve homeostatic regulation. Pleasant feelings signal homeostatic well-being; painful feelings signal homeostatic threat. Culture, art, and religion are not purely spiritual activities detached from biology but emerge from the drive of homeostatic regulation.
+5. **Homeostasis and Affect**: The deep function of affect\u2014encompassing both emotions and feelings\u2014is to serve homeostatic regulation. Pleasant feelings signal homeostatic well-being; painful feelings signal homeostatic threat. Culture, art, and 宗教 are not purely spiritual activities detached from biology but emerge from the drive of homeostatic regulation.
 
 6. **Spinoza Vindicated**: The 17th-century philosopher Spinoza's mind-body monism\u2014that the mind is the "idea" of the body\u2014finds empirical confirmation in modern neuroscience. Bodily affect (affectus) is not an appendage of the mind but the very content of the mind.
 
@@ -130,7 +130,7 @@ During his years at the University of Iowa, Dam\u00e1sio accumulated extensive c
 
 他的工作同时对三条学术传统构成了挑战：笛卡尔的身心二元论传统（心灵是独立于身体的实体）；经典认知主义传统（认知是独立于情感的符号运算）；以及哲学中的理性主义传统（理性是可以脱离情感独立运作的纯粹能力）。这三条传统在当代认知科学中以不同的形式存续，达玛西奥的躯体标记假说为它们提供了一个统一的反证。
 
-Dam\u00e1sio stands at the triple intersection of neuroscience, psychology, and philosophy. In neuroscience, he inherits the brain-function localization tradition of Broca and Luria, extending it from cognitive to affective functions. In psychology, he revives William James's emotion-body theory\u2014"we feel sorry because we cry"\u2014with modern neuroimaging and lesion evidence. In philosophy, he rediscovers Spinoza's mind-body monism, pulling it from metaphysics into empirical validation.
+Dam\u00e1sio stands at the triple intersection of neuroscience, psychology, and 哲学. In neuroscience, he inherits the brain-function localization tradition of Broca and Luria, extending it from cognitive to affective functions. In psychology, he revives William James's emotion-body theory\u2014"we feel sorry because we cry"\u2014with modern neuroimaging and lesion evidence. In philosophy, he rediscovers Spinoza's mind-body monism, pulling it from metaphysics into empirical validation.
 
 His work simultaneously challenges three academic traditions: Cartesian mind-body dualism, classical cognitivism (cognition as symbol manipulation independent of affect), and philosophical rationalism (reason as a pure faculty independent of emotion). The somatic marker hypothesis provides a unified counter-argument to all three.
 
@@ -181,15 +181,15 @@ His work simultaneously challenges three academic traditions: Cartesian mind-bod
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [卡尼曼 \u00b7 双系统](kahneman.md) `[互补]` 快系统（System 1）可理解为躯体标记驱动的快速判断，慢系统（System 2）对应理性分析
-- [休谟 \u00b7 情感主义](../../../philosophy/schools/empiricism/hume.md) `[平行]` "理性是且只应当是激情的奴隶"与"情绪是决策的必要条件"
-- [梅洛-庞蒂 \u00b7 身体现象学](../../../philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 两者都反对身心二元论，都强调身体作为认识和存在的根基
+- [休谟 \u00b7 情感主义](../../../哲学/学派/经验主义/休谟.md) `[平行]` "理性是且只应当是激情的奴隶"与"情绪是决策的必要条件"
+- [梅洛-庞蒂 \u00b7 身体现象学](../../../哲学/学派/现象学/梅洛庞蒂.md) `[平行]` 两者都反对身心二元论，都强调身体作为认识和存在的根基
 - [詹姆斯 \u00b7 机能主义](../functionalism/william-james.md) `[继承]` 躯体标记假说直接继承詹姆斯-兰格情绪理论
 - [贝克 \u00b7 CBT](beck.md) `[互补]` 认知重构可理解为对有害躯体标记的重新校准
 - [范德科尔克 \u00b7 创伤](../trauma-psychology/van-der-kolk.md) `[互补]` 躯体标记与创伤的身体记忆\u2014\u2014情绪的身体基础在创伤中尤为凸显
 - [巴雷特 \u00b7 情绪建构论](barrett.md) `[对话]` 达玛西奥的基本情绪观与巴雷特的情绪建构论之间的张力是当代情感科学的核心争论
 - [弗里斯顿 \u00b7 自由能原理](friston.md) `[互补]` 自由能原理的"预测编码"与躯体标记的"身体预测"可整合为统一的框架
-- [达\u00b7芬奇](../../../aesthetics/schools/arts-thought/leonardo.md) `[平行]` 艺术家的"直觉判断"与躯体标记\u2014\u2014创作中的身体智慧
-- [审美经验](../../../aesthetics/concepts/aesthetic-experience.md) `[互补]` 躯体标记为"审美愉悦的身体性"提供了神经基础
+- [达\u00b7芬奇](../../../美学/学派/艺术思想/达.md) `[平行]` 艺术家的"直觉判断"与躯体标记\u2014\u2014创作中的身体智慧
+- [审美经验](../../../美学/概念/审美经验.md) `[互补]` 躯体标记为"审美愉悦的身体性"提供了神经基础
 
 ## 进阶阅读 / Further Reading
 

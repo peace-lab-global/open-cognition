@@ -1,11 +1,11 @@
 ---
 name: pragmatism-analysis
 description: Triggers on requests to 实用主义、教育即经验、民主教育，如教育理念、问题解决、实践哲学等。Apply this skill to analyze situations using Dewey's pragmatist philosophy, emphasizing practical consequences and experiential learning.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/pragmatism/dewey.md
 linked_concepts:
-  - ../../philosophy/concepts/pragmatism.md
-  - ../../philosophy/concepts/experiential-learning.md
+  - ../../哲学/概念/pragmatism.md
+  - ../../哲学/概念/experiential-learning.md
 tags:
   - 实用主义
   - 教育即经验
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[约翰·杜威](../../schools/pragmatism/dewey.md)
 - 概念：[实用主义](../../concepts/pragmatism.md)、[经验学习](../../concepts/experiential-learning.md)
-- 相关 Skill：[golden-mean-analysis](./golden-mean-analysis/SKILL.md)、[client-centered-dialogue](../../psychology/skills/client-centered-dialogue/SKILL.md)
+- 相关 Skill：[golden-mean-analysis](./golden-mean-analysis/SKILL.md)、[client-centered-dialogue](../../心理学/技能/来访者中心对/SKILL.md)

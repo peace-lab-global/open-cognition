@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.niepan
+id: 宗教.buddhism.school.niepan
 title: 涅槃宗 Nièpán
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-niepan
 era: ancient
 tags: [涅槃宗, 大般涅槃经, 佛性, 常乐我净, 阐提成佛]

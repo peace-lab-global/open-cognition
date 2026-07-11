@@ -3,7 +3,7 @@ id: ashvaghosha-one-mind-two-gates
 title: "一心二门 One Mind Two Gates"
 type: concept
 parent: ashvaghosha
-domain: religion
+domain: 宗教
 tags: [one-mind, two-gates, Awakening-of-Faith]
 ---
 # 一心二门 / One Mind Two Gates

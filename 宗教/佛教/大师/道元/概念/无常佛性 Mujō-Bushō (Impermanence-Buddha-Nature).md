@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.dogen.concepts.impermanence-buddha-nature
+id: 宗教.buddhism.masters.dogen.concepts.impermanence-buddha-nature
 title: 无常佛性 Mujō-Bushō (Impermanence-Buddha-Nature)
 type: concept
-domain: religion
+domain: 宗教
 parent: ../README.md
 tags: [道元, Dogen, 无常, impermanence, 佛性, Buddha-nature, mujō, 无常佛性]
 ---

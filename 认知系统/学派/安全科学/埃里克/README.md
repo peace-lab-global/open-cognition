@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.safety-science.hollnagel
+id: 认知系统.safety-science.hollnagel
 title: 埃里克·霍纳格尔 Erik Hollnagel
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: safety-science
 era: modern
 birth: 1941

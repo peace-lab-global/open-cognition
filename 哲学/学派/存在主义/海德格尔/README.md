@@ -2,7 +2,7 @@
 id: heidegger
 title: 海德格尔 · Martin Heidegger
 type: thinker
-domain: philosophy
+domain: 哲学
 school: existentialism
 era: contemporary
 birth: 1889
@@ -39,7 +39,7 @@ cross-refs:
     relation: 下游
   - id: husserl
     relation: 承接
-  - id: religion.buddhism.school.yogacara
+  - id: 宗教.buddhism.school.yogacara
     relation: 平行
   - id: zhuangzi
     relation: 平行
@@ -194,9 +194,9 @@ related-comparative:
 - [阿伦特](../political/hannah-arendt.md) `[下游]` 政治哲学; 海德格尔的学生, 将"在世存在"与"共在" (Mitsein) 发展为公共领域理论
 
 ### 东方思想
-- [唯识](../../../religion/traditions/buddhism/schools/yogacara.md) `[平行]` 被抛与种子/异熟、沉沦与流转、语言与名言遍计所执
+- [唯识](../../../宗教/传统/佛教/schools/yogacara.md) `[平行]` 被抛与种子/异熟、沉沦与流转、语言与名言遍计所执
 - [庄子](../eastern/zhuangzi.md) `[平行]` 物化与此在、逍遥与本真、无用之用与让存在 (Gelassenheit)
-- [禅宗](../../../religion/traditions/buddhism/zen.md) `[平行]` "上手"与"日用即道"在结构上相通; 海德格尔曾与日本禅学家久松真一会谈
+- [禅宗](../../../宗教/传统/佛教/禅宗.md) `[平行]` "上手"与"日用即道"在结构上相通; 海德格尔曾与日本禅学家久松真一会谈
 
 ## 东西方对话: 海德格尔 x 唯识 / 庄子 / 禅宗
 

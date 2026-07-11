@@ -1,7 +1,7 @@
 ---
 name: softness-overcomes-hardness
 description: Triggers on requests to 以柔克刚、柔性策略、持久韧性，如冲突解决、竞争策略、个人成长等。Apply this skill to help users adopt soft, flexible approaches that overcome rigid, forceful opposition.
-domain: religion
+domain: 宗教
 linked_thinker: ../../traditions/taoism/masters/laozi.md
 linked_concepts:
   - ../../traditions/taoism/wuwei.md
@@ -35,7 +35,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[老子](../../traditions/taoism/masters/laozi.md)
-- 来源概念：[柔弱胜刚强](../../philosophy/concepts/rou-ruo-sheng-gang-qiang.md)
+- 来源概念：[柔弱胜刚强](../../哲学/概念/rou-ruo-sheng-gang-qiang.md)
 - 关键文献：《道德经》第76、78章
 
 ## 操作流程
@@ -99,5 +99,5 @@ tags:
 ## 关联条目
 
 - 思想家：[老子](../../traditions/taoism/masters/laozi.md)
-- 概念：[柔弱胜刚强](../../philosophy/concepts/rou-ruo-sheng-gang-qiang.md)
-- 相关 Skill：[wuwei-guidance](./wuwei-guidance/SKILL.md)、[reverse-thinking](../../philosophy/skills/reverse-thinking/SKILL.md)
+- 概念：[柔弱胜刚强](../../哲学/概念/rou-ruo-sheng-gang-qiang.md)
+- 相关 Skill：[wuwei-guidance](./wuwei-guidance/SKILL.md)、[reverse-thinking](../../哲学/技能/反向思维/SKILL.md)

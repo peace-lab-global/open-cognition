@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.master.kukai.concept.mandala
+id: 宗教.buddhism.master.kukai.concept.mandala
 title: 曼荼罗 Mandala
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vajrayana
 parent: [[README|空海 Kūkai]]
 tags: [曼荼罗, 曼陀罗, 金刚界, 胎藏界, 两界曼荼罗, Mandala, Vajradhatu, Garbhadhatu]
@@ -118,7 +118,7 @@ The original Two Realm Maṇḍalas (polychrome silk paintings) that Kūkai brou
 
 此后一千二百年间，日本画师不断摹写和重新诠释曼荼罗，形成了丰富的艺术传统。从精细的工笔彩绘到抽象的墨书种子字曼荼罗，日本曼荼罗艺术展现了密教思想与日本美学的深度融合。
 
-Over the subsequent twelve centuries, Japanese artists have continuously copied and reinterpreted maṇḍalas, forming a rich artistic tradition. From meticulous polychrome paintings to abstract ink-brush seed-syllable maṇḍalas, Japanese maṇḍala art demonstrates the deep fusion of esoteric thought with Japanese aesthetics.
+Over the subsequent twelve centuries, Japanese artists have continuously copied and reinterpreted maṇḍalas, forming a rich artistic tradition. From meticulous polychrome paintings to abstract ink-brush seed-syllable maṇḍalas, Japanese maṇḍala art demonstrates the deep fusion of esoteric thought with Japanese 美学.
 
 ## 导航 · Navigation
 

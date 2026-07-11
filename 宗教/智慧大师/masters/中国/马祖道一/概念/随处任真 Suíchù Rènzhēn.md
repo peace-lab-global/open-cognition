@@ -3,7 +3,7 @@ id: wisdom-masters.china.mazu-daoyi.natural-authenticity
 title: 随处任真 Suíchù Rènzhēn
 type: concept
 thinker: 马祖道一 Mazu Daoyi
-domain: religion
+domain: 宗教
 school: chan-buddhism
 tags: [随处任真, 自然, 禅宗]
 ---

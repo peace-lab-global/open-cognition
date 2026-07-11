@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.masters.daoxuan.concepts.precept-substance
+id: 宗教.buddhism.masters.daoxuan.concepts.precept-substance
 title: "戒体论 Theory of Precept-Substance (Jiè Tǐ)"
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-vinaya
 parent: [[../README|道宣]]
 tags: [戒体, precept-substance, 唯识, Yogācāra, 无表色]

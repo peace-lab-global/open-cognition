@@ -3,7 +3,7 @@ id: santideva-self-other-exchange
 title: "自他交换 Paratmaparivartana: 寂天的修心法"
 type: concept
 parent: santideva
-domain: religion
+domain: 宗教
 tags: [self-other-exchange, paratmaparivartana, tonglen, mind-training, lojong, bodhicitta, meditation]
 ---
 

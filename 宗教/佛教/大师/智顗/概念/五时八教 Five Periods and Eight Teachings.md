@@ -3,7 +3,7 @@ id: zhiyi-five-periods
 title: "五时八教 Five Periods and Eight Teachings"
 type: concept
 parent: zhiyi
-domain: religion
+domain: 宗教
 tags: [panjiao, doctrinal-classification, Tiantai, pedagogical]
 ---
 

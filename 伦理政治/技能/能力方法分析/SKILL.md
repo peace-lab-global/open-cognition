@@ -1,11 +1,11 @@
 ---
 name: capability-approach-analysis
 description: Triggers on requests to 能力方法、发展即自由、福利经济学，如发展研究、贫困分析、社会政策等。Apply this skill to analyze development and welfare issues using Sen's capability approach, understanding how freedom and capabilities enhance human well-being.
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/capability-approach/sen.md
 linked_concepts:
-  - ../../ethics-politics/concepts/capability-approach.md
-  - ../../ethics-politics/concepts/development-as-freedom.md
+  - ../../伦理政治/概念/capability-approach.md
+  - ../../伦理政治/概念/development-as-freedom.md
 tags:
   - 能力方法
   - 发展即自由
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[阿马蒂亚·森](../../schools/capability-approach/sen.md)
 - 概念：[能力方法](../../concepts/capability-approach.md)、[发展即自由](../../concepts/development-as-freedom.md)
-- 相关 Skill：[justice-principle-test](./justice-principle-test/SKILL.md)、[social-fact-analysis](../../sociology/skills/social-fact-analysis/SKILL.md)
+- 相关 Skill：[justice-principle-test](./justice-principle-test/SKILL.md)、[social-fact-analysis](../../社会学/技能/社会事实分析/SKILL.md)

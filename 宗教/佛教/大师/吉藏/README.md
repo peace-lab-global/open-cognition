@@ -2,7 +2,7 @@
 id: jizang
 title: "吉藏 Jizang: 三论宗集大成者与汉传中观的完成"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 era: ancient
 birth: 549
@@ -249,7 +249,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [龙树](../nagarjuna/README.md) — 中观学派创始人；[僧肇](../sengzhao.md) — 汉传中观先驱；[智顗](../zhiyi.md) — 同时代论辩对手
-- **哲学**: [德里达](../../../philosophy/schools/post-structuralism/derrida.md) — 解构主义；[维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — 语言哲学
+- **哲学**: [德里达](../../../哲学/学派/后结构主义/雅克.md) — 解构主义；[维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言哲学
 - **学派**: [中观学派](../schools/madhyamaka.md) — 汉传中观
 - **日本佛教**: 三论宗传入日本，影响南都六宗
 - **语言学**: 言教理论与当代语言哲学的交叉
@@ -302,4 +302,4 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 - [智顗 Zhiyi](../zhiyi.md) — 天台宗创始人
 - [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 三论翻译者
 - [法藏 Fazang](../fazang.md) — 华严宗集大成者
-- [德里达 Derrida](../../../philosophy/schools/post-structuralism/derrida.md) — 解构主义
+- [德里达 Derrida](../../../哲学/学派/后结构主义/雅克.md) — 解构主义

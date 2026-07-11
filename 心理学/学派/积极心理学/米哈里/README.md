@@ -1,8 +1,8 @@
 ---
-id: psychology.positive.csikszentmihalyi
+id: 心理学.positive.csikszentmihalyi
 title: "米哈里 · Mihaly Csikszentmihalyi"
 type: thinker
-domain: psychology
+domain: 心理学
 school: positive
 era: contemporary
 birth: 1934
@@ -31,7 +31,7 @@ aliases: ["Mihaly Csikszentmihalyi", "米哈里·契克森米哈伊", "Mike Csik
 
 米哈里·契克森米哈伊是20世纪下半叶最具影响力的心理学家之一。他与马丁·塞利格曼（Martin Seligman）共同奠定了积极心理学的学科基础，并以"心流"（Flow）理论闻名于世。他的研究横跨心理学、教育学、管理学和创造力研究，对当代人文社会科学产生了深远影响。
 
-Mihaly Csikszentmihalyi was one of the most influential psychologists of the late 20th century. Together with Martin Seligman, he co-founded the discipline of positive psychology and became world-renowned for his "Flow" theory. His research spanned psychology, education, management, and creativity studies, leaving a profound impact on contemporary humanities and social sciences.
+Mihaly Csikszentmihalyi was one of the most influential psychologists of the late 20th century. Together with Martin Seligman, he co-founded the discipline of positive 心理学 and became world-renowned for his "Flow" theory. His 研究 spanned psychology, education, management, and creativity studies, leaving a profound impact on contemporary humanities and social sciences.
 
 ---
 
@@ -53,7 +53,7 @@ Flow is not a mysterious, accidental experience. When the following conditions a
 
 当一个活动本身就是目的（希腊语 auto = 自我，telos = 目标），而非为了外在奖赏时，个体在其中获得的体验质量最高。绘画、攀岩、下棋、科学研究——这些活动的共同特征是其内在奖赏性。米哈里认为，培养更多"自带目的"的活动是提升生活品质的关键。
 
-When an activity is its own end (Greek: auto = self, telos = goal), rather than pursued for external rewards, the quality of experience within it is at its highest. Painting, rock climbing, chess, scientific research — these activities share the common feature of intrinsic reward. Csikszentmihalyi argued that cultivating more "autotelic" activities is the key to enhancing quality of life.
+When an activity is its own end (Greek: auto = self, telos = goal), rather than pursued for external rewards, the quality of experience within it is at its highest. Painting, rock climbing, chess, scientific 研究 — these activities share the common feature of intrinsic reward. Csikszentmihalyi argued that cultivating more "autotelic" activities is the key to enhancing quality of life.
 
 ### 4. 复杂自我的成长 / Growth of the Complex Self
 
@@ -83,9 +83,9 @@ Creativity is not pure individual talent but the product of interaction among th
 
 14岁时，他偶然读到卡尔·荣格的著作，对心理学产生浓厚兴趣。1956年匈牙利革命后，他移居美国，先后在森林湖学院（Lake Forest College）和芝加哥大学求学。博士论文研究创造力的心理过程，期间观察到画家在创作时进入一种"出神"（trance-like）状态——全神贯注、忘记时间与饥饿——这成为心流研究的原初灵感。
 
-Csikszentmihalyi was born in 1934 in Fiume, Italy (now Rijeka, Croatia), to a Hungarian diplomat father. During World War II, his family was displaced, and young Mihaly was briefly held in an Italian prisoner-of-war camp. The trauma of war led him to ask a fundamental question far too early: **In extreme adversity, why do some people maintain inner integrity while others completely collapse?** This question became the starting point of his lifelong research.
+Csikszentmihalyi was born in 1934 in Fiume, Italy (now Rijeka, Croatia), to a Hungarian diplomat father. During World War II, his family was displaced, and young Mihaly was briefly held in an Italian prisoner-of-war camp. The trauma of war led him to ask a fundamental question far too early: **In extreme adversity, why do some people maintain inner integrity while others completely collapse?** This question became the starting point of his lifelong 研究.
 
-At 14, he accidentally encountered the works of Carl Jung and developed a deep interest in psychology. After the 1956 Hungarian Revolution, he emigrated to the United States, studying at Lake Forest College and then the University of Chicago. His doctoral dissertation examined the psychological processes of creativity, during which he observed painters entering a "trance-like" state while creating — fully absorbed, forgetting time and hunger — which became the original inspiration for flow research.
+At 14, he accidentally encountered the works of Carl Jung and developed a deep interest in 心理学. After the 1956 Hungarian Revolution, he emigrated to the United States, studying at Lake Forest College and then the University of Chicago. His doctoral dissertation examined the psychological processes of creativity, during which he observed painters entering a "trance-like" state while creating — fully absorbed, forgetting time and hunger — which became the original inspiration for flow 研究.
 
 ### 第二阶段：心流理论的形成与验证（1970–1998）/ Phase II: Formation and Validation of Flow Theory (1970–1998)
 
@@ -95,7 +95,7 @@ At 14, he accidentally encountered the works of Carl Jung and developed a deep i
 
 1996年出版的《创造力》（*Creativity: Flow and the Psychology of Discovery and Invention*）基于对91位杰出人物（包括多位诺贝尔奖得主）的深度访谈，提出创造力的系统模型。
 
-In the 1970s, Csikszentmihalyi began systematic research on optimal experience at the University of Chicago. He interviewed hundreds of people engaged in high-intensity activities — rock climbers, chess players, surgeons, dancers — and found striking consistency in their descriptions of peak experiences: loss of self, altered sense of time, intrinsic pleasure. In 1975, he introduced the concept of "Flow" in *Beyond Boredom and Anxiety*.
+In the 1970s, Csikszentmihalyi began systematic 研究 on optimal experience at the University of Chicago. He interviewed hundreds of people engaged in high-intensity activities — rock climbers, chess players, surgeons, dancers — and found striking consistency in their descriptions of peak experiences: loss of self, altered sense of time, intrinsic pleasure. In 1975, he introduced the concept of "Flow" in *Beyond Boredom and Anxiety*.
 
 Simultaneously, he and collaborators developed the **Experience Sampling Method (ESM)**: participants carried pagers and recorded their current activity and feelings at random moments. This method yielded vast real-time data confirming that flow was not a recall bias but a replicable psychological phenomenon. *Flow: The Psychology of Optimal Experience* (1990) was translated into over thirty languages and became a global bestseller.
 
@@ -107,9 +107,9 @@ Simultaneously, he and collaborators developed the **Experience Sampling Method 
 
 晚期研究拓展至组织管理（《好的工作》*Good Business*, 2003）、道德发展（《社会演化》*Social Evolution*, 1996）、以及"自带目的人格"（autotelic personality）概念——那些天生倾向于从活动中寻找内在奖赏的人。2021年10月20日，米哈里在加利福尼亚逝世，享年87岁，但他留下的思想遗产仍在全球范围内被广泛研究和应用。
 
-In 1999, Csikszentmihalyi and Seligman published a special issue on positive psychology in *American Psychologist*, marking the formal birth of the discipline. He positioned flow theory within the core framework of positive psychology, emphasizing that psychology should not focus solely on pathology but also study human strengths and virtues.
+In 1999, Csikszentmihalyi and Seligman published a special issue on positive 心理学 in *American Psychologist*, marking the formal birth of the discipline. He positioned flow theory within the core framework of positive psychology, emphasizing that 心理学 should not focus solely on pathology but also study human strengths and virtues.
 
-Late-career research expanded into organizational management (*Good Business*, 2003), moral development (*Social Evolution*, 1996), and the concept of the "autotelic personality" — those who naturally tend to seek intrinsic rewards from activities. On October 20, 2021, Csikszentmihalyi passed away in California at age 87, but his intellectual legacy continues to be widely studied and applied worldwide.
+Late-career 研究 expanded into organizational management (*Good Business*, 2003), moral development (*Social Evolution*, 1996), and the concept of the "autotelic personality" — those who naturally tend to seek intrinsic rewards from activities. On October 20, 2021, Csikszentmihalyi passed away in California at age 87, but his intellectual legacy continues to be widely studied and applied worldwide.
 
 ---
 
@@ -119,10 +119,10 @@ Late-career research expanded into organizational management (*Good Business*, 2
 |:---:|---|---|
 | 1975 | *Beyond Boredom and Anxiety* | 首次系统提出心流概念 / First systematic presentation of flow |
 | 1990 | *Flow: The Psychology of Optimal Experience* | 核心代表作，译三十余种语言 / Core magnum opus, translated into 30+ languages |
-| 1993 | *The Evolving Self*（与 Jerome L. Singer 合著） | 进化心理学视角下的自我发展 / Self-development from evolutionary psychology |
+| 1993 | *The Evolving Self*（与 Jerome L. Singer 合著） | 进化心理学视角下的自我发展 / Self-development from evolutionary 心理学 |
 | 1996 | *Creativity: Flow and the Psychology of Discovery and Invention* | 基于91位杰出人物的创造力系统模型 / Systems model from 91 eminent individuals |
 | 1997 | *Finding Flow: The Psychology of Engagement with Everyday Life* | 大众入门，日常生活中的心流 / Popular introduction, flow in everyday life |
-| 1998 | *Being Human*（编著） | 探索人本主义与积极心理学的交汇 / Exploring the intersection of humanistic and positive psychology |
+| 1998 | *Being Human*（编著） | 探索人本主义与积极心理学的交汇 / Exploring the intersection of humanistic and positive 心理学 |
 | 2003 | *Good Business: Leadership, Flow, and the Making of Meaning* | 心流在组织管理中的应用 / Application of flow in organizational management |
 | 2014 | *The Systems Model of Creativity*（论文集） | 创造力系统模型的完整论述 / Complete exposition of the systems model |
 
@@ -158,7 +158,7 @@ The drive to engage in an activity comes from the pleasure and challenge of the 
 ### 经验取样法（Experience Sampling Method, ESM）
 通过随机时段取样记录受试者即时心理状态的研究方法，由米哈里及其团队在1970年代发展完善。ESM克服了回忆偏差，为心流研究提供了坚实的实证基础。
 
-A research method of recording subjects' immediate psychological states through random time sampling, developed and refined by Csikszentmihalyi and his team in the 1970s. ESM overcomes recall bias and provides a solid empirical foundation for flow research.
+A 研究 method of recording subjects' immediate psychological states through random time sampling, developed and refined by Csikszentmihalyi and his team in the 1970s. ESM overcomes recall bias and provides a solid empirical foundation for flow 研究.
 
 ### 精神熵（Psychic Entropy）
 意识中的无序状态，表现为注意力涣散、焦虑、无聊或内心冲突。信息论中的"熵"概念被米哈里借用，用以描述心理能量的耗散。心流是精神熵的对立面。
@@ -267,12 +267,12 @@ Zhuangzi's parable of "Cook Ding cutting up an ox" is almost a classical Chinese
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **[马斯洛 Maslow](../humanistic/maslow.md)** — [继承] 高峰体验（peak experience）是心流概念的重要前驱 / [Inheritance] Peak experience is an important precursor to the flow concept
-- **[塞利格曼 Seligman](../positive/seligman.md)** — [合作] 积极心理学联合创立者 / [Collaboration] Co-founder of positive psychology
-- **[亚里士多德 Aristotle](../../../philosophy/schools/ancient-greek/aristotle.md)** — [继承] 实现幸福（eudaimonia）作为终极目的 / [Inheritance] Eudaimonia as the ultimate end
+- **[塞利格曼 Seligman](../positive/seligman.md)** — [合作] 积极心理学联合创立者 / [Collaboration] Co-founder of positive 心理学
+- **[亚里士多德 Aristotle](../../../哲学/学派/古希腊/亚里士多德.md)** — [继承] 实现幸福（eudaimonia）作为终极目的 / [Inheritance] Eudaimonia as the ultimate end
 - **[荣格 Jung](../analytical/jung.md)** — [启蒙] 少年米哈里的心理学启蒙者 / [Inspiration] Mihaly's psychological awakening in youth
-- **[德西 & 瑞安 Deci & Ryan](../humanistic/deci-ryan.md)** — [平行] 自我决定理论（SDT）与内在动机研究 / [Parallel] Self-Determination Theory (SDT) and intrinsic motivation research
-- **[禅宗 Zen Buddhism](../../../religion/traditions/buddhism/zen.md)** — [平行] 无我、正念、专注 / [Parallel] No-self, mindfulness, concentration
-- **[庄子 Zhuangzi](../../../philosophy/traditions/daoism/zhuangzi.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
+- **[德西 & 瑞安 Deci & Ryan](../humanistic/deci-ryan.md)** — [平行] 自我决定理论（SDT）与内在动机研究 / [Parallel] Self-Determination Theory (SDT) and intrinsic motivation 研究
+- **[禅宗 Zen Buddhism](../../../宗教/传统/佛教/禅宗.md)** — [平行] 无我、正念、专注 / [Parallel] No-self, mindfulness, concentration
+- **[庄子 Zhuangzi](../../../哲学/traditions/daoism/zhuangzi.md)** — [平行] "游"与"技进乎道" / [Parallel] "You" (free play) and "skill approaching the Dao"
 
 ---
 

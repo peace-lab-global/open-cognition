@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.sengzhao.zhao-lun
+id: 宗教.buddhism.master.sengzhao.zhao-lun
 title: 肇论 Zhào Lùn
 type: concept
 thinker: 僧肇 Sēngzhào
-domain: religion
+domain: 宗教
 school: buddhism-sanlun
 tags: [肇论, 僧肇, 中国佛教哲学]
 ---
@@ -16,7 +16,7 @@ tags: [肇论, 僧肇, 中国佛教哲学]
 
 《肇论》是僧肇四篇哲学论文的合集，是中国佛教哲学的奠基文本之一。四篇论文分别从时间（物不迁）、存在（不真空）、认知（般若无知）、解脱（涅槃无名）四个维度阐释中观空性，构成了一个完整的哲学体系。
 
-The *Zhao Lun* is a collection of four philosophical treatises by Seng-chao, a foundational text of Chinese Buddhist philosophy. The four essays expound Madhyamaka emptiness from four perspectives: time, existence, cognition, and liberation.
+The *Zhao Lun* is a collection of four philosophical treatises by Seng-chao, a foundational text of Chinese Buddhist 哲学. The four essays expound Madhyamaka emptiness from four perspectives: time, existence, cognition, and liberation.
 
 ## 四篇结构 Four-Treatise Structure
 

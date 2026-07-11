@@ -3,7 +3,7 @@ id: yosai-combined-practice
 title: "兼修立场 Kenshū Richiba: 荣西的禅·天台·密教三宗融合"
 type: concept
 parent: yosai
-domain: religion
+domain: 宗教
 tags: [兼修禅, Kenshū, 天台宗, 密教, 三宗兼学, 建仁寺]
 ---
 

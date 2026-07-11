@@ -1,11 +1,11 @@
 ---
 name: state-of-nature-analysis
 description: Triggers on requests to 自然状态、利维坦、社会契约，如政治理论、社会秩序、权力分析等。Apply this skill to analyze political and social issues using Hobbes' concept of the state of nature, understanding the need for sovereign authority.
-domain: ethics-politics
+domain: 伦理政治
 linked_thinker: ../../schools/social-contract/hobbes.md
 linked_concepts:
-  - ../../ethics-politics/concepts/state-of-nature.md
-  - ../../ethics-politics/concepts/leviathan.md
+  - ../../伦理政治/概念/state-of-nature.md
+  - ../../伦理政治/概念/leviathan.md
 tags:
   - 自然状态
   - 利维坦
@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[托马斯·霍布斯](../../schools/social-contract/hobbes.md)
 - 概念：[自然状态](../../concepts/state-of-nature.md)、[利维坦](../../concepts/leviathan.md)
-- 相关 Skill：[social-contract-analysis](../../philosophy/skills/social-contract-analysis/SKILL.md)、[justice-principle-test](./justice-principle-test/SKILL.md)
+- 相关 Skill：[social-contract-analysis](../../哲学/技能/社会契约分析/SKILL.md)、[justice-principle-test](./justice-principle-test/SKILL.md)

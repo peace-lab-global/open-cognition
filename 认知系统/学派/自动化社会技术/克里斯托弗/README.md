@@ -1,8 +1,8 @@
 ---
-id: cognitive-systems.school.automation-sociotechnical.wickens
+id: 认知系统.school.automation-sociotechnical.wickens
 title: 威肯斯 Christopher Wickens
 type: thinker
-domain: cognitive-systems
+domain: 认知系统
 school: automation-sociotechnical
 era: modern
 birth: 1943
@@ -27,7 +27,7 @@ sources: [Engineering Psychology and Human Performance (1984), Multiple Resource
 
 他的 *Engineering Psychology and Human Performance*（1984年起多版）是人因工程领域的标准教科书。与Endsley合作的显示设计研究将多资源模型应用于情境意识导向的界面设计。
 
-Christopher Wickens proposed the Multiple Resource Model — human attention comprises multiple independent resource pools across processing stages, modalities, visual channels, and coding types. His engineering psychology textbook shaped generations of human factors researchers, and his display design principles guide aviation and AR/VR interface development.
+Christopher Wickens proposed the Multiple Resource Model — human attention comprises multiple independent resource pools across processing stages, modalities, visual channels, and coding types. His engineering 心理学 textbook shaped generations of human factors researchers, and his display design principles guide aviation and AR/VR interface development.
 
 ## 二、核心命题
 

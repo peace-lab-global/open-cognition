@@ -1,8 +1,8 @@
 ---
-id: literature.poets.whitman
+id: 文学.poets.whitman
 title: 惠特曼 · Walt Whitman
 type: thinker
-domain: literature
+domain: 文学
 school: poets
 era: modern
 birth: 1819
@@ -48,7 +48,7 @@ children:
 
 惠特曼对身体与灵魂的一视同仁——"我是肉体的诗人，也是灵魂的诗人"——使他成为维多利亚时代最大胆的精神叛逆者之一。他将性、劳动、死亡和日常生活的每一个细节都纳入诗歌的神圣领域，拒绝一切灵肉二分的传统。这种彻底的平等主义——不仅是人与人之间的平等，也是身体与灵魂、生与死、平凡与神圣之间的平等——使惠特曼的诗歌至今仍然是当代文化多元议题的深层源头。
 
-Walt Whitman (1819–1892) is the founding figure of American poetry and one of the most revolutionary voices in world literature. His life's work, *Leaves of Grass* — continuously revised from its first edition of 12 poems in 1855 to nearly 400 poems in the "Deathbed Edition" of 1892 — constitutes a radical redefinition of what poetry can be and do. Whitman's central conviction was that democracy is not merely a political arrangement but a cosmological and aesthetic principle: every individual is infinite, sacred, and irreplaceable. His invention of free verse, his celebration of the body as equal to the soul, and his vision of cosmic interconnectedness — "a leaf of grass is no less than the journey-work of the stars" — have shaped the entire trajectory of modern poetry, from Hart Crane and Allen Ginsberg to contemporary eco-poetry and identity literature.
+Walt Whitman (1819–1892) is the founding figure of American poetry and one of the most revolutionary voices in world 文学. His life's work, *Leaves of Grass* — continuously revised from its first edition of 12 poems in 1855 to nearly 400 poems in the "Deathbed Edition" of 1892 — constitutes a radical redefinition of what poetry can be and do. Whitman's central conviction was that democracy is not merely a political arrangement but a cosmological and aesthetic principle: every individual is infinite, sacred, and irreplaceable. His invention of free verse, his celebration of the body as equal to the soul, and his vision of cosmic interconnectedness — "a leaf of grass is no less than the journey-work of the stars" — have shaped the entire trajectory of modern poetry, from Hart Crane and Allen Ginsberg to contemporary eco-poetry and identity 文学.
 
 ## 二、核心命题 / Core Theses
 

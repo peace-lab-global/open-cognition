@@ -1,11 +1,11 @@
 ---
 name: dasein-analysis
 description: Triggers on requests to 此在分析、存在之问、技术批判，如存在焦虑、技术反思、本真性探索等。Apply this skill to analyze human existence using Heidegger's concept of Dasein, understanding being-in-the-world and authenticity.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/existentialism/heidegger.md
 linked_concepts:
-  - ../../philosophy/concepts/dasein.md
-  - ../../philosophy/concepts/being-in-the-world.md
+  - ../../哲学/概念/dasein.md
+  - ../../哲学/概念/存在-in-the-world.md
 tags:
   - 此在
   - 存在之问

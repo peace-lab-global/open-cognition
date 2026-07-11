@@ -2,7 +2,7 @@
 id: candrakirti
 title: "月称 Candrakirti: 应成中观的集大成者与破而不立的哲学典范"
 type: thinker
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka-prasangika
 era: classical-india
 birth: 600
@@ -23,7 +23,7 @@ children: ["concepts/prasanga-method", "concepts/conventional-acceptance", "conc
 
 **月称 Candrakirti**（约 600-650 CE），印度中观学派**应成派 (Prasangika)** 的集大成者，佛教哲学史上最具批判锋芒的思想家之一。他以《明句论》(Prasannapada) 注释龙树《中论》，以《入中论》(Madhyamakavatara) 系统阐述应成中观的立场，确立了"破而不立"(只破他宗，不自立宗) 的纯粹归谬方法。在藏传佛教中，月称被视为中观学的最高权威——宗喀巴的中观哲学直接继承月称传统，将应成派推至藏传佛教哲学的巅峰。
 
-Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** school of Madhyamaka and one of the most incisive critical thinkers in the history of Buddhist philosophy. Through his commentary *Prasannapada* ("Clear Words") on Nagarjuna's *Mulamadhyamakakarika* and his independent treatise *Madhyamakavatara* ("Introduction to the Middle Way"), he established the pure reductio method — refuting opponents' positions without asserting any thesis of his own. In Tibetan Buddhism, Candrakirti is regarded as the supreme authority on Madhyamaka; Tsongkhapa's philosophical project is essentially a creative inheritance of the Candrakirti tradition.
+Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** school of Madhyamaka and one of the most incisive critical thinkers in the history of Buddhist 哲学. Through his commentary *Prasannapada* ("Clear Words") on Nagarjuna's *Mulamadhyamakakarika* and his independent treatise *Madhyamakavatara* ("Introduction to the Middle Way"), he established the pure reductio method — refuting opponents' positions without asserting any thesis of his own. In Tibetan Buddhism, Candrakirti is regarded as the supreme authority on Madhyamaka; Tsongkhapa's philosophical project is essentially a creative inheritance of the Candrakirti tradition.
 
 - **出生地 / Birthplace**: 南印度萨曼塔 (Samanta)，今奥里萨邦 (Odisha) 一带，婆罗门种姓
 - **年代 / Era**: 约 7 世纪 CE，戒日王 (Harsa) 时期
@@ -209,7 +209,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **佛教内部**: [龙树](nagarjuna.md) — 注释对象与思想源泉；[宗喀巴](tsongkhapa.md) — 藏传应成中观的继承与深化；[中观学派](../schools/madhyamaka.md) — 应成派代表
-- **哲学**: [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) — 治疗型哲学；[德里达](../../../philosophy/schools/poststructuralism/derrida.md) — 解构方法
+- **哲学**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 治疗型哲学；[德里达](../../../哲学/schools/poststructuralism/derrida.md) — 解构方法
 - **逻辑学**: 归谬法 (reductio ad absurdum) 在数学和逻辑中的应用
 - **认知科学**: 反物化认知、概念框架批判、认知灵活性
 

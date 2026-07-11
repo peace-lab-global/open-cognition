@@ -3,7 +3,7 @@ id: wisdom-masters.china.mazu-daoyi.mind-is-buddha
 title: 即心是佛 Jí Xīn Shì Fó
 type: concept
 thinker: 马祖道一 Mazu Daoyi
-domain: religion
+domain: 宗教
 school: chan-buddhism
 tags: [即心是佛, 禅宗, 心性]
 ---

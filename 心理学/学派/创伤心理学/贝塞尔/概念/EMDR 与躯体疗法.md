@@ -2,7 +2,7 @@
 id: emdr-somatic
 title: "EMDR 与躯体疗法 · EMDR and Somatic Approaches"
 type: concept
-domain: psychology
+domain: 心理学
 school: trauma-psychology
 thinker: van-der-kolk
 tags: [EMDR, 眼动脱敏, 体感体验, 瑜伽, 神经反馈, 自下而上, bottom-up, bilateral stimulation]
@@ -59,7 +59,7 @@ Van der Kolk collaborated with David Emerson to develop and validate Trauma-Sens
 
 范德科尔克的研究团队发表的多项 RCT 表明，TSY 对慢性 PTSD（包括对标准治疗无反应的患者）具有显著疗效，能显著降低 PTSD 症状严重度、改善身体感知和增强情感调节能力。
 
-Multiple RCTs published by van der Kolk's research team demonstrate that TSY has significant efficacy for chronic PTSD (including patients unresponsive to standard treatments), significantly reducing PTSD symptom severity, improving body awareness, and enhancing emotional regulation capacity.
+Multiple RCTs published by van der Kolk's 研究 team demonstrate that TSY has significant efficacy for chronic PTSD (including patients unresponsive to standard treatments), significantly reducing PTSD symptom severity, improving body awareness, and enhancing emotional regulation capacity.
 
 ### 4. 神经反馈 / Neurofeedback
 
@@ -75,7 +75,7 @@ Van der Kolk's integration of somatic therapies progressed through three key sta
 
 **发现阶段（1990s）**：在发现谈话治疗的局限后，范德科尔克开始探索替代性治疗方法。1990年代初，他接触到 EMDR，并通过临床研究验证了其在 PTSD 治疗中的有效性。同时，他开始关注莱文的体感体验和帕特·奥格登（Pat Ogden）的感觉运动心理治疗（Sensorimotor Psychotherapy）。
 
-**Discovery phase (1990s)**: After discovering talk therapy's limitations, van der Kolk began exploring alternative treatment methods. In the early 1990s, he encountered EMDR and validated its effectiveness in PTSD treatment through clinical research. Simultaneously, he began attending to Levine's Somatic Experiencing and Pat Ogden's Sensorimotor Psychotherapy.
+**Discovery phase (1990s)**: After discovering talk therapy's limitations, van der Kolk began exploring alternative treatment methods. In the early 1990s, he encountered EMDR and validated its effectiveness in PTSD treatment through clinical 研究. Simultaneously, he began attending to Levine's Somatic Experiencing and Pat Ogden's Sensorimotor Psychotherapy.
 
 **验证阶段（2000s–2010s）**：范德科尔克通过严格的随机对照试验（RCT）验证了多种躯体疗法的有效性。他发表了关于 EMDR 治疗 PTSD 的多项研究、TSY 对慢性 PTSD 的 RCT、以及神经反馈对复杂性创伤的临床研究，为这些方法建立了循证基础。
 

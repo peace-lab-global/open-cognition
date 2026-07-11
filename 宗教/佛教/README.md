@@ -2,7 +2,7 @@
 id: buddhism-overview
 title: 佛教 · Buddhism
 type: overview
-domain: religion
+domain: 宗教
 school: buddhism
 tags:
   - 佛教

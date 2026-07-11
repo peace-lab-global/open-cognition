@@ -1,8 +1,8 @@
 ---
-id: religion.buddhism.school.jodo-shinshu
+id: 宗教.buddhism.school.jodo-shinshu
 title: 净土真宗 Jōdo-Shinshū
 type: concept
-domain: religion
+domain: 宗教
 school: buddhism-jodo-shinshu
 era: medieval-modern
 tags: [净土真宗, 亲鸾, 恶人正机, 绝对他力, 日本净土]

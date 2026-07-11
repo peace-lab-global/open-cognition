@@ -1,11 +1,11 @@
 ---
 name: will-to-power-analysis
 description: Triggers on requests to 权力意志、价值重估、超人哲学，如个人成长、文化批判、生命意义探索等。Apply this skill to analyze situations using Nietzsche's concept of will to power, embracing life-affirmation and self-overcoming.
-domain: philosophy
+domain: 哲学
 linked_thinker: ../../schools/existentialism/nietzsche.md
 linked_concepts:
-  - ../../philosophy/concepts/will-to-power.md
-  - ../../philosophy/concepts/eternal-recurrence.md
+  - ../../哲学/概念/will-to-power.md
+  - ../../哲学/概念/eternal-recurrence.md
 tags:
   - 权力意志
   - 价值重估

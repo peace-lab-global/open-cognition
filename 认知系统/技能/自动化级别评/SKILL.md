@@ -1,7 +1,7 @@
 ---
 name: automation-level-assessment
 description: 基于 Parasuraman 四阶段模型评估任务的自动化级别，识别自动化偏见和脱离回路风险。Triggers on questions about automation design, human-AI task allocation, or automation risks.
-domain: cognitive-systems
+domain: 认知系统
 linked_thinker: ../../schools/automation-sociotechnical/parasuraman.md
 linked_concepts:
   - ../../concepts/automation-bias.md

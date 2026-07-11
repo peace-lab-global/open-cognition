@@ -3,7 +3,7 @@ id: kukai-three-secrets
 title: "三密相应 Three Mysteries in Union"
 type: concept
 parent: kukai
-domain: religion
+domain: 宗教
 tags: [three-secrets, body-speech-mind, Shingon]
 ---
 # 三密相应 / Three Mysteries

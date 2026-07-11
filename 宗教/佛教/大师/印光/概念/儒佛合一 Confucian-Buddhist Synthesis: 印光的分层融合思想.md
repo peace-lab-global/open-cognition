@@ -3,8 +3,8 @@ id: yinguang-confucian-buddhist-synthesis
 title: "儒佛合一 Confucian-Buddhist Synthesis: 印光的分层融合思想"
 type: concept
 parent: yinguang
-domain: religion
-tags: [儒佛合一, 儒释道, 敦伦尽分, 印光, Confucianism, Buddhism, synthesis, syncretism, Chinese religion]
+domain: 宗教
+tags: [儒佛合一, 儒释道, 敦伦尽分, 印光, Confucianism, Buddhism, synthesis, syncretism, Chinese 宗教]
 ---
 
 # 儒佛合一 Confucian-Buddhist Synthesis
@@ -101,7 +101,7 @@ Faith-vow-practice belongs to the Buddhist level, but its **foundation** lies at
 
 | 方案 Approach | 代表人物 Figure | 特点 Features | 印光的评价 Yinguang's View |
 |---|---|---|---|
-| 三教合一 Three Teachings One | 林兆恩 Lin Zhao'en | 将儒释道完全融合为一个新宗教 / Complete fusion into a new religion | 批评：混淆了三教的本质区别 / Criticized: conflates essential distinctions |
+| 三教合一 Three Teachings One | 林兆恩 Lin Zhao'en | 将儒释道完全融合为一个新宗教 / Complete fusion into a new 宗教 | 批评：混淆了三教的本质区别 / Criticized: conflates essential distinctions |
 | 以儒摄佛 Confucianism Absorbs Buddhism | 王阳明 Wang Yangming | 以儒家为主体吸收佛教思想 / Confucianism为主体 absorbs Buddhist ideas | 部分认可但认为不够究竟 / Partially approved but found incomplete |
 | 佛学为体儒学为用 Buddhism as Essence, Confucianism as Function | 杨文会 Yang Wenhui | 佛教为本体，儒家为应用 / Buddhism as substance, Confucianism as application | 接近印光自己的立场 / Close to Yinguang's own position |
 | 分层融合 Layered Integration | **印光 Yinguang** | 各安其位、递进互补 / Each in its place, progressive complementarity | **印光自己的方案 / Yinguang's own approach** |

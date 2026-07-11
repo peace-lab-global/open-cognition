@@ -1,9 +1,9 @@
 ---
-id: religion.buddhism.master.nagarjuna.concepts.catuskoti-tetralemma
+id: 宗教.buddhism.master.nagarjuna.concepts.catuskoti-tetralemma
 title: "四句破 Catuskoti: 否定性逻辑方法"
 type: concept
 thinker: nagarjuna
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka
 tags: [catuskoti, tetralemma, four-corners, negation, logic, prasanga, reductio, Madhyamaka]
 ---
@@ -20,7 +20,7 @@ tags: [catuskoti, tetralemma, four-corners, negation, logic, prasanga, reductio,
 
 **四句破 (Catuskoti)**，又称"四句否定"或"四句全非"，是龙树哲学的核心逻辑方法。对任何形而上学命题，龙树穷尽其四种逻辑可能性——是、否、亦是亦否、非是非否——然后全部否定。这一方法不是反逻辑，而是以逻辑自身的严密性展示概念思维的极限。
 
-**The Tetralemma (Catuskoti)**, also called "four-cornered negation," is the core logical method of Nagarjuna's philosophy. For any metaphysical proposition, Nagarjuna exhausts its four logical possibilities — affirmation, negation, both affirmation and negation, neither affirmation nor negation — and then negates all four. This method is not anti-logic but uses logic's own rigor to demonstrate the limits of conceptual thinking.
+**The Tetralemma (Catuskoti)**, also called "four-cornered negation," is the core logical method of Nagarjuna's 哲学. For any metaphysical proposition, Nagarjuna exhausts its four logical possibilities — affirmation, negation, both affirmation and negation, neither affirmation nor negation — and then negates all four. This method is not anti-logic but uses logic's own rigor to demonstrate the limits of conceptual thinking.
 
 四句的逻辑形式 / Logical form of the tetralemma:
 1. **P** — 肯定 / Affirmation

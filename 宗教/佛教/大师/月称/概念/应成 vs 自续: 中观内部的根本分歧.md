@@ -3,7 +3,7 @@ id: candrakirti-prasangika-vs-svatantrika
 title: "应成 vs 自续: 中观内部的根本分歧"
 type: concept
 parent: candrakirti
-domain: religion
+domain: 宗教
 school: buddhism-madhyamaka-prasangika
 tags: [Prasangika, Svatantrika, Buddhapalita, Bhaviveka, Candrakirti, Santaraksita, Tsongkhapa, Madhyamaka]
 ---

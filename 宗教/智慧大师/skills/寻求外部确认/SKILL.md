@@ -142,4 +142,4 @@ tags:
 - 祖师：[临济义玄](../../masters/china/linji-yixuan.md)
 - 概念：[无事](./concepts/wushi.md)（待建）
 - 相关Skill：[临济棒喝当下](./linji-pointer-blow/SKILL.md)
-- 跨传统：[苏格拉底·产婆术](../../philosophy/schools/ancient-greek/socrates.md)（平行）——两者都通过"反诘"打破日常认知
+- 跨传统：[苏格拉底·产婆术](../../哲学/学派/古希腊/苏格拉底.md)（平行）——两者都通过"反诘"打破日常认知
