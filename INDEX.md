@@ -10,7 +10,7 @@
 - [哲学领域导览 (Philosophy)](哲学/README.md)
 - 古希腊：[苏格拉底 (Socrates)](哲学/学派/古希腊/苏格拉底.md) · [柏拉图 (Plato)](哲学/学派/古希腊/柏拉图.md) · [亚里士多德 (Aristotle)](哲学/学派/古希腊/亚里士多德.md)
 - 德国唯心论：[康德 (Immanuel Kant)](哲学/学派/德国唯心论/康德.md) · [黑格尔 (G.W.F. Hegel)](哲学/学派/德国唯心论/黑格尔.md)
-- 存在主义/现象学：[克尔凯郭尔 (Soren Kierkegaard)](哲学/学派/存在主义/索伦.md) · [尼采 (Friedrich Nietzsche)](哲学/学派/存在主义/尼采.md) · [海德格尔 (Martin Heidegger)](哲学/学派/存在主义/海德格尔.md) · [萨特 (Jean-Paul Sartre)](哲学/学派/存在主义/萨特.md) · [梅洛-庞蒂 (Maurice Merleau-Ponty)](哲学/学派/现象学/梅洛庞蒂.md)
+- 存在主义/现象学：[克尔凯郭尔 (Soren Kierkegaard)](哲学/学派/存在主义/索伦.md) · [尼采 (Friedrich Nietzsche)](哲学/学派/存在主义/尼采.md) · [海德格尔 (Martin Heidegger)](哲学/学派/存在主义/海德格尔.md) · [萨特 (Jean-Paul Sartre)](哲学/学派/存在主义/萨特.md) · [加缪 (Albert Camus)](哲学/学派/存在主义/加缪.md) · [梅洛-庞蒂 (Maurice Merleau-Ponty)](哲学/学派/现象学/梅洛庞蒂.md)
 - 分析哲学：[罗素 (Bertrand Russell)](哲学/学派/分析哲学/伯特兰.md) · [维特根斯坦 (Ludwig Wittgenstein)](哲学/学派/分析哲学/维特根斯坦.md)
 - 经验主义：[休谟 (David Hume)](哲学/学派/经验主义/休谟.md)
 - 理性论：[笛卡尔 (René Descartes)](哲学/学派/理性论/勒内.md) · [斯宾诺莎 (Baruch Spinoza)](哲学/学派/理性论/巴鲁赫.md) · [莱布尼茨 (Gottfried Wilhelm Leibniz)](哲学/学派/理性论/戈特弗里德.md)
@@ -28,7 +28,7 @@
 
 ### 宗教 Religion
 - [宗教领域导览 (Religion)](宗教/README.md)
-- 佛教：[佛教总览与十三经 (Buddhism)](宗教/佛教/README.md) · [十三经图谱集](宗教/佛教/经典/README.md) · [四圣谛与八正道 (The Four Noble Truths and Noble Eightfold Path)](宗教/传统/佛教/四圣谛与八正道.md) · [大乘空性 (Śūnyatā)](宗教/传统/佛教/大乘空性.md) · [禅宗 (Zen / Chan)](宗教/传统/佛教/禅宗.md)
+- 佛教：[佛教总览与十三经 (Buddhism)](宗教/佛教/README.md) · [乔达摩 · 佛陀 (Gautama Buddha)](宗教/佛教/大师/乔达摩.md) · [十三经图谱集](宗教/佛教/经典/README.md) · [四圣谛与八正道 (The Four Noble Truths and Noble Eightfold Path)](宗教/传统/佛教/四圣谛与八正道.md) · [大乘空性 (Śūnyatā)](宗教/传统/佛教/大乘空性.md) · [禅宗 (Zen / Chan)](宗教/传统/佛教/禅宗.md)
 - 基督教：[恩典与救赎 (Grace and Redemption)](宗教/传统/基督教/恩典与救赎.md) · [基督教神秘主义 (Christian Mysticism)](宗教/传统/基督教/基督教神秘主义.md)
 - 伊斯兰：[五功 (Five Pillars of Islam)](宗教/传统/伊斯兰教/五功.md) · [苏菲主义 (Sufism / Taṣawwuf)](宗教/传统/伊斯兰教/苏菲主义.md)
 - 犹太教：[律法与盟约 (Torah and Covenant)](宗教/传统/犹太教/律法与盟约.md) · [卡巴拉 (Jewish Kabbalah Mysticism)](宗教/传统/犹太教/犹太教卡巴拉神秘主义.md)

@@ -31,21 +31,21 @@ sources:
   - Frankl, V.E. The Will to Meaning (1969)
   - Frankl, V.E. The Unheard Cry for Meaning (1978)
   - Pytell, T. Viktor Frankl's Search for Meaning (2015)
-cross_refs:
+cross-refs:
   - kierkegaard-soren
   - nietzsche-friedrich
   - maslow-abraham
   - rogers-carl
   - heidegger-martin
-sub_entries:
-  - concepts/logotherapy
-  - concepts/meaning-of-life
-  - concepts/existential-vacuum
-  - concepts/tragic-optimism
-  - concepts/will-to-meaning
-  - works
-  - timeline
-  - reading-list
+children:
+  - 概念/意义治疗.md
+  - 概念/生命意义.md
+  - 概念/存在真空.md
+  - 概念/悲剧乐观主义.md
+  - 概念/意义意志.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 维克多·弗兰克尔 · Viktor Frankl
