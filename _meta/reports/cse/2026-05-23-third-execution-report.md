@@ -42,8 +42,8 @@
 | 文件 | 修复内容 |
 |---|---|
 | `distributed-sa.md` | `[Endsley](#)` → `[Endsley](../schools/naturalistic-decision/endsley.md)` |
-| `out-of-the-loop.md` | Endsley 悬空引用 → 正确链接 |
-| `joint-cognitive-system.md` | Sheridan 悬空引用 → 正确链接 |
+| `脱离回路.md` | Endsley 悬空引用 → 正确链接 |
+| `联合认知系统.md` | Sheridan 悬空引用 → 正确链接 |
 | `normal-accidents.md` | Perrow 悬空引用 → 正确链接 |
 
 ### 2.5 更新索引文件（3 个）

@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)
 - 概念：[缘起法](../../concepts/dependent-origination.md)、[无我](../../concepts/anatta.md)
-- 相关 Skill：[natural-observation-practice](./natural-observation-practice/SKILL.md)、[eight-consciousness-diagnosis](../buddhism-concepts/eight-consciousness-diagnosis/SKILL.md)
+- 相关 Skill：[natural-observation-practice](../../佛教/技能/从前五识/SKILL.md)、[eight-consciousness-diagnosis](../../佛教/技能/从前五识/SKILL.md)

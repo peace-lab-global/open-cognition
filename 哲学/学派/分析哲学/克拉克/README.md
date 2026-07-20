@@ -16,9 +16,9 @@ sources:
   - Clark, *Surfing Uncertainty* (2016)
   - Clark, *Natural-Born Cyborgs* (2003)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: chalmers
     relation: 合作

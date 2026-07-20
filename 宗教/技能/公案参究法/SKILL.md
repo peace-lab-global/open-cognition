@@ -182,4 +182,4 @@ tags:
 - 高僧：[菩提达摩](../../buddhism/masters/bodhidharma.md)、[慧能](../../buddhism/masters/huineng.md)
 - 概念：[止观](../../buddhism/concepts/foundational/zhi-guan.md)
 - 论典：[楞伽经](../../buddhism/treatises/lankavatara.md)
-- 相关 Skill：[默照禅修](../biguan-meditation/SKILL.md)、[平常心是道](../ordinary-mind-guidance/SKILL.md)
+- 相关 Skill：[默照禅修](../../佛教/技能/从前五识/SKILL.md)、[平常心是道](../../佛教/技能/从前五识/SKILL.md)

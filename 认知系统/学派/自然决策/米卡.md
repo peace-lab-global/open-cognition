@@ -95,9 +95,9 @@ sources:
 - **[平行] Bainbridge 的过程控制认知**：Bainbridge 研究的操纵员监控与 Endsley 的 SA 模型有直接对应关系
 - **[互补] Parasuraman 的自动化层级**：Parasuraman 的自动化分类与 Endsley 的 SA 模型共同构成人机系统分析框架
 - **[发展] Stanton 的分布式 SA**：Stanton 将 Endsley 的个人 SA 模型扩展到团队和分布式系统层面
-- **[参考] 脱环问题**：[参见](../../concepts/out-of-the-loop.md) — SA 框架是理解脱环问题的理论基础
-- **[参考] 认知负荷**：[参见](../../concepts/cognitive-load.md) — SA 维持需要认知资源，认知过载会直接损害 SA
-- **[原创] 态势感知概念**：[参见](../../concepts/situation-awareness.md) — 该概念文件以 Endsley 模型为核心
+- **[参考] 脱环问题**：[参见](../../concepts/脱离回路.md) — SA 框架是理解脱环问题的理论基础
+- **[参考] 认知负荷**：[参见](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/认知负荷.md) — SA 维持需要认知资源，认知过载会直接损害 SA
+- **[原创] 态势感知概念**：[参见](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/态势感知.md) — 该概念文件以 Endsley 模型为核心
 
 ## 进阶阅读
 
@@ -113,6 +113,6 @@ sources:
 
 ## 关联 Skills
 
-- [态势感知诊断 Situation Awareness Diagnosis](../../skills/situation-awareness-diagnosis/SKILL.md)
-- [认知负荷评估 Cognitive Load Assessment](../../skills/cognitive-load-assessment/SKILL.md)
-- [人机协作 Human-AI Teaming](../../skills/human-ai-teaming/SKILL.md)
+- [态势感知诊断 Situation Awareness Diagnosis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [认知负荷评估 Cognitive Load Assessment](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [人机协作 Human-AI Teaming](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

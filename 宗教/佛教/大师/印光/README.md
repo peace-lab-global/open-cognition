@@ -180,4 +180,4 @@ His teaching style was characterized by **plainness, earnestness, and rejection 
 - 弘一法师《印光大师嘉言录》
 - 圆拙法师《印光大师文钞菁华录》
 
-详见 [进阶阅读](reading-list.md) / See [Reading List](reading-list.md) for detailed recommendations.
+详见 [进阶阅读](阅读.md) / See [Reading List](阅读.md) for detailed recommendations.

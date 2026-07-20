@@ -123,6 +123,6 @@ Impermanence-Buddha-nature is not a theory to "understand" but a reality to "exp
 
 ## 相关概念 / Related Concepts
 
-- [佛性 Busho](buddha-nature-dogen.md)
+- [佛性 Busho](buddha-nature-道元.md)
 - [有时 Uji](being-time-uji.md)
-- [修证一等 Practice-Enlightenment](practice-enlightenment.md)
+- [修证一等 Practice-Enlightenment](practice-启蒙.md)

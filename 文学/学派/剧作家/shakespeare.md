@@ -90,10 +90,10 @@ sources:
 
 ## 跨学科关联
 
-- [弗洛伊德](../../../psychology/schools/psychoanalysis/freud.md) `[应用]` 用精神分析解读莎剧
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 悲剧精神
-- [存在主义](../../../philosophy/schools/existentialism/sartre.md) `[平行]` 存在的焦虑
-- [伦理学](../../../ethics-politics/concepts/virtue.md) `[探讨]` 善恶、正义、爱
+- [弗洛伊德](../../../心理学/学派/精神分析/西格蒙德.md) `[应用]` 用精神分析解读莎剧
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[平行]` 悲剧精神
+- [存在主义](../../../哲学/学派/存在主义/萨特.md) `[平行]` 存在的焦虑
+- [伦理学](../../../伦理政治/概念/德性.md) `[探讨]` 善恶、正义、爱
 
 ## 进阶阅读
 
@@ -112,5 +112,11 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
-- [dramatic-conflict-analysis](../../skills/dramatic-conflict-analysis/SKILL.md) — 戏剧冲突分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析
+- [dramatic-conflict-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 戏剧冲突分析
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [莎士比亚-全世界是一个舞台](../../../名言/真实表演/莎士比亚-全世界是一个舞台.md)

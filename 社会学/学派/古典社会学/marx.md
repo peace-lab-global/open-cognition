@@ -85,10 +85,10 @@ sources:
 
 ## 跨学科关联
 
-- [黑格尔](../../../philosophy/schools/german-idealism/hegel.md) `[发展]` 把辩证法"颠倒过来"
-- [无为](../../../religion/traditions/taoism/wuwei.md) `[张力]` 异化是有为之极
-- [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 揭示价值的来源
-- [福柯 · 权力](../structuralism/foucault.md) `[继承+批判]` 后结构主义对马克思的吸收与改造
+- [黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) `[发展]` 把辩证法"颠倒过来"
+- [无为](../../../哲学/学派/东方哲学/老子/概念/无为.md) `[张力]` 异化是有为之极
+- [尼采 · 谱系学](../../../哲学/学派/存在主义/尼采.md) `[平行]` 揭示价值的来源
+- [福柯 · 权力](../结构主义/福柯.md) `[继承+批判]` 后结构主义对马克思的吸收与改造
 - [森 · Capability Approach](../../../ethics-politics/schools/capability-approach/sen.md) `[平行]` 人的全面发展概念与能力进路的深层共鸣
 - [米尔斯 · Mills](mills.md) `[发展]` 权力精英理论继承了马克思对资本主义权力结构的分析
 
@@ -100,4 +100,10 @@ sources:
 
 ## 关联 Skills
 
-- [辩证法分析](../../../../philosophy/skills/dialectical-analysis/SKILL.md)
+- [辩证法分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [马克思-劳动异化](../../../名言/数字劳动/马克思-劳动异化.md)

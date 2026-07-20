@@ -19,7 +19,7 @@ sources:
 # 陀思妥耶夫斯基 Fyodor Dostoevsky
 
 > 本条目聚焦陀思妥耶夫斯基对**美学/哲学**的贡献(复调、苦难的美学维度)。
-> 关于其传记、文学史定位与完整作品表,见 [文学领域 · 陀思妥耶夫斯基](../../../literature/schools/novelists/dostoevsky.md)。
+> 关于其传记、文学史定位与完整作品表,见 [文学领域 · 陀思妥耶夫斯基](dostoevsky.md)。
 
 ## 基本信息
 - **生卒年**：1821–1881
@@ -73,11 +73,11 @@ sources:
 ## 跨学科关联
 
 - [克尔凯郭尔](../../../philosophy/schools/existentialism/kierkegaard.md) `[平行]` 两者都在理性主义高峰时提出信仰的必要性
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` "上帝之死"与"如果上帝不存在"的平行
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[平行]` "上帝之死"与"如果上帝不存在"的平行
 - [弗兰克尔](../../../psychology/schools/existential-psychology/frankl.md) `[发展]` 弗兰克尔的意义疗法直接继承陀氏的苦难哲学
-- [萨特](../../../philosophy/schools/existentialism/sartre.md) `[发展]` 地下人是萨特"自欺"概念的文学原型
+- [萨特](../../../哲学/学派/存在主义/萨特.md) `[发展]` 地下人是萨特"自欺"概念的文学原型
 - [卡夫卡](kafka.md) `[发展]` 卡夫卡继承了陀氏的荒诞感与官僚压迫
-- [巴赫金](../literary-theory/bakhtin.md) `[互补]` 巴赫金以"复调"理论系统阐释陀氏小说的美学革命
+- [巴赫金](../文学理论/bakhtin.md) `[互补]` 巴赫金以"复调"理论系统阐释陀氏小说的美学革命
 
 ## 进阶阅读
 
@@ -95,5 +95,5 @@ sources:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
-- [悲剧精神评估](../../skills/tragic-spirit-assessment/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [悲剧精神评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

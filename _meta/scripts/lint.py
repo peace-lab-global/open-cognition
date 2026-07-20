@@ -3,10 +3,10 @@
 lint.py — quality checks for open-cognition markdown entries.
 
 Usage:
-    python3 scripts/lint.py                   # lint all entry files
-    python3 scripts/lint.py path/to/file.md   # lint specific file(s)
-    python3 scripts/lint.py --strict          # fail on warnings too
-    python3 scripts/lint.py --json            # emit JSON for CI
+    python3 _meta/scripts/lint.py                   # lint all entry files
+    python3 _meta/scripts/lint.py path/to/file.md   # lint specific file(s)
+    python3 _meta/scripts/lint.py --strict          # fail on warnings too
+    python3 _meta/scripts/lint.py --json            # emit JSON for CI
 
 Checks performed:
     1. Frontmatter: required fields by entry type
@@ -35,10 +35,15 @@ except ImportError:
     sys.exit("ERROR: pyyaml required. Install with `pip install pyyaml`.")
 
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DOMAINS_DIR = REPO_ROOT / "domains"
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 
 SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.md"}
+
+_DOMAIN_DIR_NAMES = [
+    "哲学", "宗教", "伦理政治", "心理学", "社会学", "美学",
+    "文学", "艺术", "认知系统", "清单", "研究",
+]
+_DOMAIN_DIRS = [REPO_ROOT / d for d in _DOMAIN_DIR_NAMES]
 
 REQUIRED_FRONTMATTER = {
     # thinker: accept either `name` (Chinese + English) or `title` for legacy entries
@@ -47,6 +52,11 @@ REQUIRED_FRONTMATTER = {
     "skill":   ["name", "description", "domain", "tags"],
     "text":    ["id", "title", "type", "domain"],
     "tradition": ["id", "title", "type", "domain"],
+    "school":  ["id", "title", "type", "domain", "era", "tags"],
+    "list":    ["id", "title", "type", "channel", "category", "angle", "count", "tags"],
+    # child pages attached to thinkers/schools/concepts: minimal metadata
+    "child":   ["id", "title", "type"],
+    "redirect": ["id", "title", "type"],
 }
 
 # Thinker entries must have either `name` or `title`
@@ -55,8 +65,33 @@ THINKER_NAME_OR_TITLE = True
 REQUIRED_SECTIONS = {
     "thinker": ["核心命题", "关键著作", "跨学科关联", "进阶阅读"],
     "concept": ["一句话定义", "核心要义", "常见误读", "跨学科关联", "进阶阅读"],
+    "school":  ["一句话定义", "历史脉络", "核心主张", "常见误读", "跨学科关联", "进阶阅读"],
     "skill":   ["何时使用", "何时不使用", "操作流程"],
+    "list":    ["盘点逻辑", "清单", "常见误读", "跨学科关联", "进阶阅读"],
+    "child":   [],
 }
+
+
+def is_child_page(path: Path) -> bool:
+    """Return True for supplementary pages attached to a parent entry.
+
+    These pages (timeline, works, reading-list, concept notes, dialogues, etc.)
+    are not standalone entries and are held to lighter frontmatter/section rules.
+    SKILL.md files are full skill entries and handled by the skill type.
+    """
+    rel = path.relative_to(REPO_ROOT).as_posix()
+    name = path.name
+    if name == "SKILL.md":
+        return False
+    if name in {"时间线.md", "著作.md", "阅读.md", "README.md", "速读.md", "内容审计.md"}:
+        return True
+    if "/概念/" in rel or "/concepts/" in rel:
+        return True
+    if "/对话/" in rel or "/dialogues/" in rel:
+        return True
+    if "/批评/" in rel or "/critiques/" in rel:
+        return True
+    return False
 
 MIN_LINES = 40
 MAX_LINES = 600
@@ -68,10 +103,11 @@ MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 # from a link to an entry that has not been authored yet (→ W006 warn, content
 # backlog, does not block CI).
 ALL_FILES_BY_NAME: dict[str, list[Path]] = {}
-for _p in (REPO_ROOT / "domains").rglob("*.md"):
-    ALL_FILES_BY_NAME.setdefault(_p.name, []).append(_p)
-for _p in (REPO_ROOT / "skills").rglob("*.md"):
-    ALL_FILES_BY_NAME.setdefault(_p.name, []).append(_p)
+for _domain_dir in _DOMAIN_DIRS:
+    if not _domain_dir.exists():
+        continue
+    for _p in _domain_dir.rglob("*.md"):
+        ALL_FILES_BY_NAME.setdefault(_p.name, []).append(_p)
 
 
 @dataclass
@@ -118,22 +154,38 @@ def extract_frontmatter(text: str) -> tuple[dict, int]:
 
 def classify(path: Path) -> str | None:
     rel = path.relative_to(REPO_ROOT).as_posix()
-    # Reports/audit files dropped under domains/ are not entries — skip them.
-    if "/reports/" in rel:
+    # Reports/audit files are not entries — skip them.
+    if "/reports/" in rel or "/审计/" in rel or "/内容审计/" in rel:
         return None
-    if "/skills/" in rel and path.name == "SKILL.md":
+
+    # Supplementary child pages are held to lighter rules, even if they
+    # declare a stricter type in frontmatter (e.g. a concept note under a
+    # thinker directory should not be linted as a standalone concept).
+    if is_child_page(path):
+        return "child"
+
+    # Prefer explicit type declared in frontmatter.
+    known_types = set(REQUIRED_FRONTMATTER.keys())
+    text = path.read_text(encoding="utf-8")
+    fm, _ = extract_frontmatter(text)
+    fm_type = fm.get("type")
+    if fm_type in known_types:
+        return fm_type
+
+    # Path-based fallback (supports both legacy English and Chinese subdirs).
+    if ("/skills/" in rel or "/技能/" in rel) and path.name == "SKILL.md":
         return "skill"
-    if "/schools/" in rel:
+    if "/schools/" in rel or "/学派/" in rel:
         return "thinker"
-    if "/concepts/" in rel:
+    if "/concepts/" in rel or "/概念/" in rel:
         return "concept"
-    if "/masters/" in rel:
+    if "/masters/" in rel or "/智慧大师/" in rel:
         return "thinker"
-    if "/sutras/" in rel:
+    if "/sutras/" in rel or "/佛经/" in rel:
         return "text"
-    if "/core-concepts/" in rel:
+    if "/core-concepts/" in rel or "/核心概念/" in rel:
         return "concept"
-    if "/traditions/" in rel:
+    if "/traditions/" in rel or "/传统/" in rel:
         return "tradition"
     return None
 
@@ -168,6 +220,10 @@ def lint_file(path: Path, report: Report) -> None:
         report.add(Finding(path, 1, "error", "E001", "missing or invalid YAML frontmatter"))
         return
 
+    # Redirect stubs point to the full entry; they only need id/title/type/redirect_to.
+    if fm.get("redirect_to") or fm.get("redirect"):
+        entry_type = "redirect"
+
     # Required fields
     for field_name in REQUIRED_FRONTMATTER.get(entry_type, []):
         if field_name not in fm or fm[field_name] in (None, "", []):
@@ -181,7 +237,7 @@ def lint_file(path: Path, report: Report) -> None:
 
     # Tags
     tags = fm.get("tags")
-    if not tags:
+    if not tags and entry_type not in ("child", "redirect"):
         report.add(Finding(path, 1, "warn", "W003", "no tags"))
 
     # --- Required sections ---
@@ -215,10 +271,14 @@ def lint_file(path: Path, report: Report) -> None:
             # been authored → W006 content backlog, not E003 structural error.
             if target_name == "SKILL.md":
                 skill_dir = Path(target).parent.name
-                if skill_dir and not any(
-                    (REPO_ROOT / "skills" / fw / skill_dir).exists()
-                    for fw in (p.name for p in (REPO_ROOT / "skills").iterdir()
-                               if p.is_dir())
+                skills_root = REPO_ROOT / "skills"
+                if skill_dir and (
+                    not skills_root.exists()
+                    or not any(
+                        (skills_root / fw / skill_dir).exists()
+                        for fw in (p.name for p in skills_root.iterdir()
+                                   if p.is_dir())
+                    )
                 ):
                     report.add(Finding(path, i, "warn", "W006",
                                        f"link to unauthored skill: {target}"))
@@ -267,12 +327,15 @@ def collect_files(targets: list[Path]) -> list[Path]:
     if targets:
         return [p.resolve() for p in targets if p.exists()]
     files = []
-    for path in sorted(DOMAINS_DIR.rglob("*.md")):
-        if path.name in SKIP_FILENAMES:
+    for domain_dir in _DOMAIN_DIRS:
+        if not domain_dir.exists():
             continue
-        if classify(path) is None:
-            continue
-        files.append(path)
+        for path in sorted(domain_dir.rglob("*.md")):
+            if path.name in SKIP_FILENAMES:
+                continue
+            if classify(path) is None:
+                continue
+            files.append(path)
     return files
 
 

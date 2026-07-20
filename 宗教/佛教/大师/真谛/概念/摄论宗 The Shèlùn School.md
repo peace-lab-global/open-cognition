@@ -91,7 +91,7 @@ The Shèlùn School's interpretation differs subtly from the later Fǎxiàng Sch
 
 The school's most distinctive doctrine. The ninth amala-vijñāna (immaculate consciousness) provides a positive ontological ground for consciousness-transformation.
 
-→ 详见 [九识说](nine-consciousnesses.md) / See [Nine Consciousnesses](nine-consciousnesses.md)
+→ 详见 [九识说](../../../概念/standalone/八识体系.md) / See [Nine Consciousnesses](../../../概念/standalone/八识体系.md)
 
 ### 四、一性皆成 / Universal Buddhahood
 
@@ -99,7 +99,7 @@ The school's most distinctive doctrine. The ninth amala-vijñāna (immaculate co
 
 The school holds that all sentient beings possess Buddha-nature and can attain Buddhahood, in sharp contrast to the Fǎxiàng School's "five-lineage" theory.
 
-→ 详见 [解性黎耶](awakening-nature.md) / See [Awakening-Nature](awakening-nature.md)
+→ 详见 [解性黎耶](觉性.md) / See [Awakening-Nature](觉性.md)
 
 ---
 
@@ -191,8 +191,8 @@ Modern Buddhist scholars have reassessed the school's standing:
 ## 相关概念 / Related Concepts
 
 - [真谛](../README.md) — 摄论宗创立者 / Founder of the Shèlùn School
-- [九识说](nine-consciousnesses.md) — 摄论宗标志性教义 / Signature doctrine of the school
-- [解性黎耶](awakening-nature.md) — 摄论宗核心理论 / Core theoretical contribution
+- [九识说](../../../概念/standalone/八识体系.md) — 摄论宗标志性教义 / Signature doctrine of the school
+- [解性黎耶](觉性.md) — 摄论宗核心理论 / Core theoretical contribution
 - [真谛vs玄奘系唯识](paramartha-vs-xuanzang.md) — 摄论宗与法相宗的比较 / Comparison with the Fǎxiàng School
 - [阿黎耶识](alaya-paramartha.md) — 摄论宗对阿黎耶识的独特诠释 / Distinctive interpretation of ālaya
 

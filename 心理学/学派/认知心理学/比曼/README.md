@@ -316,6 +316,6 @@ Beeman's insight 研究 forms a profound cross-cultural dialogue with the concep
 | 创造性认知 / Creative Cognition | [concepts/creative-cognition.md](concepts/creative-cognition.md) | 创造性思维的认知科学框架 |
 | 右半球 / Right Hemisphere | [concepts/right-hemisphere.md](concepts/right-hemisphere.md) | 右脑在语义处理和创造性思维中的角色 |
 | Aha! 时刻 / Aha! Moment | [concepts/aha-moment.md](concepts/aha-moment.md) | Aha! 时刻的主观体验与神经相关物 |
-| 著作年表 / Works | [works.md](works.md) | Beeman 著作与论文编年 |
-| 年谱 / Timeline | [timeline.md](timeline.md) | 生平与学术事件年谱 |
-| 进阶阅读 / Reading List | [reading-list.md](reading-list.md) | 分类阅读指南 |
+| 著作年表 / Works | [著作.md](著作.md) | Beeman 著作与论文编年 |
+| 年谱 / Timeline | [时间线.md](时间线.md) | 生平与学术事件年谱 |
+| 进阶阅读 / Reading List | [阅读.md](阅读.md) | 分类阅读指南 |

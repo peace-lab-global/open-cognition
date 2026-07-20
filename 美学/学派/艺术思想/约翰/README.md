@@ -242,6 +242,6 @@ Cage was the 20th-century Western artist most deeply absorbing Eastern thought: 
 | [不确定性](concepts/indeterminacy.md) | 概念 | 乐谱不完全规定演奏方式 |
 | [4分33秒](concepts/four-minutes-thirty-three-seconds.md) | 概念 | 演奏者不演奏，观众听到环境声 |
 | [无目的性](concepts/non-intention.md) | 概念 | 无目的的游戏，消解艺术家意志 |
-| [著作列表](works.md) | 著作 | 凯奇主要著作及简介 |
-| [年表](timeline.md) | 年表 | 凯奇生平与思想发展时间线 |
-| [推荐阅读](reading-list.md) | 书单 | 凯奇研究进阶阅读指南 |
+| [著作列表](著作.md) | 著作 | 凯奇主要著作及简介 |
+| [年表](时间线.md) | 年表 | 凯奇生平与思想发展时间线 |
+| [推荐阅读](阅读.md) | 书单 | 凯奇研究进阶阅读指南 |

@@ -22,7 +22,7 @@ sources:
 
 # 弗兰茨·卡夫卡
 
-> 本条目为传记与文学史定位。关于其**美学/哲学**贡献(荒诞、卡夫卡式),见 [美学领域 · 卡夫卡](../../../aesthetics/schools/literary-thought/kafka.md)。
+> 本条目为传记与文学史定位。关于其**美学/哲学**贡献(荒诞、卡夫卡式),见 [美学领域 · 卡夫卡](../../../美学/学派/文学思想/kafka.md)。
 
 ## 基本信息
 
@@ -65,7 +65,7 @@ sources:
 ## 重要概念
 
 - [荒诞](../../concepts/absurd.md) — 世界的无意义和不可理解
-- [异化](../../concepts/alienation.md) — 人与世界的疏离
+- [异化](../../../社会学/学派/古典社会学/马克思/概念/异化.md) — 人与世界的疏离
 - [官僚制](../../concepts/bureaucracy.md) — 压迫性的体制
 - [孤独](../../concepts/loneliness.md) — 人的根本处境
 
@@ -90,9 +90,9 @@ sources:
 
 ## 跨学科关联
 
-- [存在主义](../../../philosophy/schools/existentialism/sartre.md) `[先驱]` 荒诞和异化
-- [福柯](../../../sociology/schools/structuralism/foucault.md) `[平行]` 规训和权力
-- [心理学](../../../psychology/concepts/alienation.md) `[探讨]` 异化和孤独
+- [存在主义](../../../哲学/学派/存在主义/萨特.md) `[先驱]` 荒诞和异化
+- [福柯](../../../社会学/学派/结构主义/福柯.md) `[平行]` 规训和权力
+- [心理学](../../../社会学/学派/古典社会学/马克思/概念/异化.md) `[探讨]` 异化和孤独
 - [社会学](../../../sociology/concepts/bureaucracy.md) `[批判]` 官僚体制
 
 ## 进阶阅读
@@ -112,5 +112,5 @@ sources:
 
 ## 关联 Skills
 
-- [absurd-analysis](../../skills/absurd-analysis/SKILL.md) — 荒诞分析
-- [alienation-analysis](../../skills/alienation-analysis/SKILL.md) — 异化分析
+- [absurd-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 荒诞分析
+- [alienation-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 异化分析

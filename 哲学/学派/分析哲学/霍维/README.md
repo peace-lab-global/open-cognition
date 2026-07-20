@@ -29,14 +29,14 @@ cross_refs:
   - helmholtz
   - kant
 sub_entries:
-  - concepts/predictive-mind.md
+  - concepts/预测加工.md
   - concepts/precision-weighting.md
   - concepts/self-evidencing.md
   - concepts/active-inference.md
   - concepts/skull-bound-mind.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 霍维 · Jakob Hohwy
@@ -124,7 +124,7 @@ Between 2016 and 2020, Hohwy further developed the concept of "self-evidencing,"
 
 ## 重要概念 / Key Concepts
 
-1. **[预测心智 · Predictive Mind](concepts/predictive-mind.md)** — 大脑的核心功能是预测而非被动接收 / The brain's core function is prediction, not passive reception
+1. **[预测心智 · Predictive Mind](concepts/预测加工.md)** — 大脑的核心功能是预测而非被动接收 / The brain's core function is prediction, not passive reception
 2. **[精度加权 · Precision Weighting](concepts/precision-weighting.md)** — 注意力即精度分配 / Attention as precision allocation
 3. **[自我证明 · Self-Evidencing](concepts/self-evidencing.md)** — 大脑主动寻求确认自身模型的证据 / The brain actively seeks evidence for its own models
 4. **[主动推理 · Active Inference](concepts/active-inference.md)** — 行动是为了使感知与预测一致 / Action to make perception consistent with prediction
@@ -271,20 +271,20 @@ Zhuangzi's reflection on cognitive limitations in the "Equality of Things" chapt
 5. Hohwy, J. (2020). "Predictive Processing and the Phenomenology of Perception." — 现象学维度 / Phenomenological dimensions
 6. Seth, A. K. (2014). "A predictive processing theory of sensorimotor contingencies." *Psychological Research* 78(6). — 感知运动与预测 / Sensorimotor and prediction
 
-**详细阅读清单请参见 / See detailed reading list:** [reading-list.md](reading-list.md)
+**详细阅读清单请参见 / See detailed reading list:** [阅读.md](阅读.md)
 
 ---
 
 ## 子条目索引 / Sub-Entry Index
 
 ### 核心概念 / Core Concepts
-- [预测心智 · Predictive Mind](concepts/predictive-mind.md)
+- [预测心智 · Predictive Mind](concepts/预测加工.md)
 - [精度加权 · Precision Weighting](concepts/precision-weighting.md)
 - [自我证明 · Self-Evidencing](concepts/self-evidencing.md)
 - [主动推理 · Active Inference](concepts/active-inference.md)
 - [颅骨封闭的心智 · Skull-Bound Mind](concepts/skull-bound-mind.md)
 
 ### 辅助条目 / Supplementary Entries
-- [著作列表 · Works](works.md)
-- [生平年表 · Timeline](timeline.md)
-- [进阶阅读 · Reading List](reading-list.md)
+- [著作列表 · Works](著作.md)
+- [生平年表 · Timeline](时间线.md)
+- [进阶阅读 · Reading List](阅读.md)

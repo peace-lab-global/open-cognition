@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[老子](../../../宗教/传统/道教/masters/老子.md)
 - 概念：[反者道之动](../../concepts/fan-zhe-dao-zhi-dong.md)
-- 相关 Skill：[wuwei-guidance](../../宗教/技能/无为而治/SKILL.md)、[dialectical-analysis](./dialectical-analysis/SKILL.md)
+- 相关 Skill：[wuwei-guidance](../../../宗教/技能/无为而治/SKILL.md)、[dialectical-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

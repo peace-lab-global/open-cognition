@@ -247,3 +247,10 @@ Van der Kolk's emphasis on "felt safety" as a prerequisite for trauma recovery d
 | 发展性创伤 / Developmental Trauma | [developmental-trauma.md](concepts/developmental-trauma.md) | 儿童期创伤的发展性影响与 DTD 概念 / Developmental impact of childhood trauma and DTD concept |
 | EMDR 与躯体疗法 / EMDR and Somatic Approaches | [emdr-somatic.md](concepts/emdr-somatic.md) | 身体导向的创伤治疗机制与实践 / Body-oriented trauma treatment mechanisms and practices |
 | 创伤知情照护 / Trauma-Informed Care | [trauma-informed-care.md](concepts/trauma-informed-care.md) | 创伤理解的制度化与系统性变革 / Institutionalization and systemic change of trauma understanding |
+
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [范德科尔克-身体从未忘记](../../../../名言/创伤修复/范德科尔克-身体从未忘记.md)

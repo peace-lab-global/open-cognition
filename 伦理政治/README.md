@@ -66,10 +66,10 @@
 ## 跨学派核心概念
 
 - [功利 Pleasure](concepts/pleasure.md)
-- [定言命令 Categorical Imperative](concepts/categorical-imperative.md)
-- [德性 Virtue](concepts/virtue.md)
-- [社会契约 Social Contract](concepts/social-contract.md)
-- [无知之幕 Veil of Ignorance](concepts/veil-of-ignorance.md)
+- [定言命令 Categorical Imperative](concepts/定言命令.md)
+- [德性 Virtue](concepts/德性.md)
+- [社会契约 Social Contract](concepts/社会契约.md)
+- [无知之幕 Veil of Ignorance](concepts/无知之幕.md)
 - [正义感 Sense of Justice](concepts/sense-of-justice.md)
 - [自然权利 Natural Rights](concepts/natural-rights.md)
 

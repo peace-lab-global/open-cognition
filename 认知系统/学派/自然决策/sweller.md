@@ -50,7 +50,7 @@ sources: [《认知负荷理论》(Cognitive Load Theory), "Cognitive Load Durin
 
 ## 重要概念
 
-- [认知负荷 Cognitive Load](../../concepts/cognitive-load.md) — 工作记忆中的信息处理负担
+- [认知负荷 Cognitive Load](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/认知负荷.md) — 工作记忆中的信息处理负担
 - **内在负荷 Intrinsic Load**：材料本身的复杂性——由元素交互性决定
 - **外在负荷 Extraneous Load**：不良呈现方式造成的不必要负荷——应该消除
 - **关联负荷 Germane Load**：用于建构图式的"好的"负荷——应该鼓励
@@ -77,11 +77,11 @@ sources: [《认知负荷理论》(Cognitive Load Theory), "Cognitive Load Durin
 
 ## 跨学科关联
 
-- [西蒙](../cybernetics/simon.md) `[继承]` 工作记忆限制是有限理性的认知基础
-- [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[对话]` 图式概念被 CLT 重新定义为长时记忆中的知识结构
-- [卡尼曼](../../../psychology/schools/behavioral-economics/kahneman.md) `[互补]` 系统2的高认知负荷导致系统1主导——CLT 和双系统理论互为补充
-- [诺曼](../cognitive-engineering/norman.md) `[互补]` 设计心理学中的信息呈现原则与 CLT 一致
-- [威肯斯 Wickens](../automation-sociotechnical/wickens.md) `[互补]` 多资源模型与CLT互补——前者关注任务分配，后者关注学习设计
+- [西蒙](../控制论/西蒙.md) `[继承]` 工作记忆限制是有限理性的认知基础
+- [皮亚杰](../../../心理学/学派/认知心理学/皮亚杰.md) `[对话]` 图式概念被 CLT 重新定义为长时记忆中的知识结构
+- [卡尼曼](../../../心理学/学派/行为经济学/丹尼尔.md) `[互补]` 系统2的高认知负荷导致系统1主导——CLT 和双系统理论互为补充
+- [诺曼](../认知工程/诺曼.md) `[互补]` 设计心理学中的信息呈现原则与 CLT 一致
+- [威肯斯 Wickens](../自动化社会技术/克里斯托弗.md) `[互补]` 多资源模型与CLT互补——前者关注任务分配，后者关注学习设计
 
 ## 进阶阅读
 
@@ -97,5 +97,5 @@ sources: [《认知负荷理论》(Cognitive Load Theory), "Cognitive Load Durin
 
 ## 关联 Skills
 
-- [认知负荷评估](../../skills/cognitive-load-assessment/SKILL.md)
-- [认知系统设计](../../skills/cognitive-system-design/SKILL.md)
+- [认知负荷评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [认知系统设计](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

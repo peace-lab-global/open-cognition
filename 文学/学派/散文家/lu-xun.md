@@ -22,7 +22,7 @@ sources:
 
 # 鲁迅
 
-> 本条目为传记与文学史定位。关于其**美学/哲学**贡献(国民性的美学批判、启蒙的张力),见 [美学领域 · 鲁迅](../../../aesthetics/schools/literary-thought/lu-xun.md)。
+> 本条目为传记与文学史定位。关于其**美学/哲学**贡献(国民性的美学批判、启蒙的张力),见 [美学领域 · 鲁迅](../../../美学/学派/文学思想/lu-xun.md)。
 
 ## 基本信息
 
@@ -65,7 +65,7 @@ sources:
 ## 重要概念
 
 - [国民性批判](../../concepts/national-character-criticism.md) — 对国民劣根性的批判
-- [启蒙](../../concepts/enlightenment.md) — 通过文学唤醒民众
+- [启蒙](../../../哲学/学派/德国唯心论/康德/概念/启蒙.md) — 通过文学唤醒民众
 - [反抗绝望](../../concepts/defiant-despair.md) — 在绝望中坚持反抗
 - [立人](../../concepts/establishing-person.md) — 强调人的解放和独立
 
@@ -90,9 +90,9 @@ sources:
 
 ## 跨学科关联
 
-- [存在主义](../../../philosophy/schools/existentialism/sartre.md) `[平行]` 反抗绝望
+- [存在主义](../../../哲学/学派/存在主义/萨特.md) `[平行]` 反抗绝望
 - [社会学](../../../sociology/concepts/national-character.md) `[探讨]` 国民性
-- [教育学](../../../education/concepts/enlightenment.md) `[影响]` 启蒙教育
+- [教育学](../../../哲学/学派/德国唯心论/康德/概念/启蒙.md) `[影响]` 启蒙教育
 - [心理学](../../../psychology/concepts/awakening.md) `[探讨]` 觉醒和改变
 
 ## 进阶阅读
@@ -112,5 +112,12 @@ sources:
 
 ## 关联 Skills
 
-- [national-character-criticism](../../skills/national-character-criticism/SKILL.md) — 国民性批判分析
-- [enlightenment-analysis](../../skills/enlightenment-analysis/SKILL.md) — 启蒙分析
+- [national-character-criticism](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 国民性批判分析
+- [enlightenment-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 启蒙分析
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [鲁迅-绝望与希望](../../../名言/希望绝望/鲁迅-绝望与希望.md)
+- [鲁迅-地上本没有路](../../../名言/故乡流浪/鲁迅-地上本没有路.md)

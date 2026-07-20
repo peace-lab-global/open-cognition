@@ -97,7 +97,7 @@ Fazang (643–712), Tang dynasty monk, the actual founder of the **Huayan (Flowe
 - [黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) — [平行] 整体论
 - [怀特海](../../../哲学/schools/process/whitehead.md) — [平行] 过程哲学
 - [智顗](zhiyi/README.md) — [比较] 天台 vs 华严
-- [华严宗](../schools/huayan.md) — [创立者]
+- [华严宗](../华严.md) — [创立者]
 
 ## 进阶阅读 Further Reading
 
@@ -121,6 +121,6 @@ Fazang (643–712), Tang dynasty monk, the actual founder of the **Huayan (Flowe
 - [四法界](concepts/four-dharmadhatu.md)
 - [理事无碍](concepts/li-shi-wu-ai.md)
 - [性起](concepts/nature-arising.md)
-- [著作详述](works.md)
-- [年表](timeline.md)
-- [阅读清单](reading-list.md)
+- [著作详述](著作.md)
+- [年表](时间线.md)
+- [阅读清单](阅读.md)

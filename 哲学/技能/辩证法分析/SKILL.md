@@ -2,9 +2,9 @@
 name: dialectical-analysis
 description: Triggers when a problem appears as a binary opposition (A vs B) that resists resolution by simply choosing one side. Apply this skill to identify the internal contradiction within each pole, then articulate a higher-order synthesis that preserves the truth of both while transcending their one-sidedness.
 domain: 哲学
-linked_thinker: ../../schools/german-idealism/hegel.md
+linked_thinker: ../../schools/german-idealism/黑格尔.md
 linked_concepts:
-  - ../../concepts/dialectics.md
+  - ../../concepts/辩证法.md
 tags:
   - epistemology
   - power
@@ -33,8 +33,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[黑格尔](../../schools/german-idealism/hegel.md)（概念辩证法）、[马克思](../../../社会学/学派/古典社会学/马克思.md)（唯物辩证法）
-- 来源概念：[辩证法](../../concepts/dialectics.md)
+- 来源思想家：[黑格尔](../../学派/德国唯心论/黑格尔.md)（概念辩证法）、[马克思](../../../社会学/学派/古典社会学/马克思.md)（唯物辩证法）
+- 来源概念：[辩证法](../../学派/德国唯心论/黑格尔/概念/辩证法.md)
 - 关键文献：黑格尔《精神现象学》《逻辑学》
 
 ## 操作流程
@@ -92,6 +92,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[黑格尔](../../schools/german-idealism/hegel.md)
-- 概念：[辩证法](../../concepts/dialectics.md)
-- 相关 Skill：[苏格拉底式诘问](../socratic-questioning/SKILL.md)
+- 思想家：[黑格尔](../../学派/德国唯心论/黑格尔.md)
+- 概念：[辩证法](../../学派/德国唯心论/黑格尔/概念/辩证法.md)
+- 相关 Skill：[苏格拉底式诘问](../../../宗教/佛教/技能/从前五识/SKILL.md)

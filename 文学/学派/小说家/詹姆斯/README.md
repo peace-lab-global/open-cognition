@@ -29,9 +29,9 @@ children:
   - concepts/mythic-method.md
   - concepts/paralysis.md
   - concepts/linguistic-experiment.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 乔伊斯 / James Joyce

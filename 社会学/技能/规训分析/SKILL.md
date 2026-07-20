@@ -2,9 +2,9 @@
 name: discipline-analysis
 description: Triggers on requests to 规训、权力/知识、生命政治，如社会控制分析、机构批判、身份政治等。Apply this skill to analyze disciplinary power and its effects on individuals and society, based on Foucault's theories.
 domain: 社会学
-linked_thinker: ../../schools/structuralism/foucault.md
+linked_thinker: ../../schools/结构主义/福柯.md
 linked_concepts:
-  - ../../concepts/discipline.md
+  - ../../concepts/规训.md
   - ../../社会学/概念/power-knowledge.md
 tags:
   - 规训
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[米歇尔·福柯](../../schools/structuralism/foucault.md)
-- 来源概念：[规训](../../concepts/discipline.md)、[权力/知识](../../concepts/power-knowledge.md)
+- 来源思想家：[米歇尔·福柯](../../学派/结构主义/福柯.md)
+- 来源概念：[规训](../../概念/规训.md)、[权力/知识](../../concepts/power-knowledge.md)
 - 关键文献：《规训与惩罚》、《疯癫与文明》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[米歇尔·福柯](../../schools/structuralism/foucault.md)
-- 概念：[规训](../../concepts/discipline.md)、[权力/知识](../../concepts/power-knowledge.md)
-- 相关 Skill：[foucault-power-analysis](./foucault-power-analysis/SKILL.md)、[rationalization-analysis](./rationalization-analysis/SKILL.md)
+- 思想家：[米歇尔·福柯](../../学派/结构主义/福柯.md)
+- 概念：[规训](../../概念/规训.md)、[权力/知识](../../concepts/power-knowledge.md)
+- 相关 Skill：[foucault-power-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[rationalization-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

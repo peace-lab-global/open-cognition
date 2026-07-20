@@ -271,6 +271,6 @@ Siegel's "river model" — integration as flexible navigation between chaos and 
 | MWe（我们中的我） / MWe (Me + We) | 关系性自我的整合模型 / Integrative model of the relational self | [concepts/mwe.md](concepts/mwe.md) |
 
 ### 附属文件 / Supplementary Files
-- [著作年表 / Works Chronology](works.md)
-- [生平年表 / Life Timeline](timeline.md)
-- [推荐阅读 / Reading List](reading-list.md)
+- [著作年表 / Works Chronology](著作.md)
+- [生平年表 / Life Timeline](时间线.md)
+- [推荐阅读 / Reading List](阅读.md)

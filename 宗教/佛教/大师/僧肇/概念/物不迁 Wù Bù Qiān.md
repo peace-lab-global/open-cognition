@@ -51,4 +51,4 @@ tags: [物不迁, 时间, 动静, 中观]
 ## 延伸阅读 Further Reading
 
 - [僧肇 主页](../README.md)
-- [僧肇 著作](../works.md)
+- [僧肇 著作](../著作.md)

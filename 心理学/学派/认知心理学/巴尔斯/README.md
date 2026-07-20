@@ -119,11 +119,11 @@ In the 21st century, French neuroscientists Stanislas Dehaene and Jean-Pierre Ch
 
 ## 重要概念 · Key Concepts
 
-1. **全局工作空间理论 / Global Workspace Theory (GWT)** — 意识作为全脑信息广播系统的功能架构理论。详见 [global-workspace-theory](concepts/global-workspace-theory.md)。
-2. **意识剧场 / Consciousness Theater** — 用剧场舞台、聚光灯、演员和观众隐喻意识各组件的运作。详见 [consciousness-theater](concepts/consciousness-theater.md)。
-3. **认知架构 / Cognitive Architecture** — GWT作为一种描述心智整体功能组织的架构理论。详见 [cognitive-architecture](concepts/cognitive-architecture.md)。
-4. **全局广播 / Global Broadcasting** — 信息进入全局工作空间后被同时分发到全脑各处理器的核心机制。详见 [broadcast](concepts/broadcast.md)。
-5. **通达意识 / Access Consciousness** — 信息被全局广播后可被多种认知系统使用的功能性意识状态。详见 [access-consciousness](concepts/access-consciousness.md)。
+1. **全局工作空间理论 / Global Workspace Theory (GWT)** — 意识作为全脑信息广播系统的功能架构理论。详见 [global-workspace-theory](concepts/全局工作空间理论.md)。
+2. **意识剧场 / Consciousness Theater** — 用剧场舞台、聚光灯、演员和观众隐喻意识各组件的运作。详见 [consciousness-theater](concepts/意识剧场.md)。
+3. **认知架构 / Cognitive Architecture** — GWT作为一种描述心智整体功能组织的架构理论。详见 [cognitive-architecture](concepts/认知架构.md)。
+4. **全局广播 / Global Broadcasting** — 信息进入全局工作空间后被同时分发到全脑各处理器的核心机制。详见 [broadcast](concepts/全局广播.md)。
+5. **通达意识 / Access Consciousness** — 信息被全局广播后可被多种认知系统使用的功能性意识状态。详见 [access-consciousness](concepts/通达意识.md)。
 6. **无意识专门处理器 / Unconscious Specialized Processors** — 高效、并行、领域特异的认知模块，构成认知处理的主体。
 7. **注意力聚光灯 / Attentional Spotlight** — 决定哪些信息进入全局工作空间的选择性注意机制。
 8. **语境系统 / Context Systems** — 塑造意识经验的背景性无意识知识结构，包括目标、信念和感知框架。
@@ -279,11 +279,11 @@ Zhuangzi's "fasting of the mind" (xīn zhāi) resonates with GWT's concept of "c
 
 | 条目 | 路径 |
 |------|------|
-| 全局工作空间理论 / Global Workspace Theory | [concepts/global-workspace-theory.md](concepts/global-workspace-theory.md) |
-| 意识剧场 / Consciousness Theater | [concepts/consciousness-theater.md](concepts/consciousness-theater.md) |
-| 认知架构 / Cognitive Architecture | [concepts/cognitive-architecture.md](concepts/cognitive-architecture.md) |
-| 全局广播 / Broadcast | [concepts/broadcast.md](concepts/broadcast.md) |
-| 通达意识 / Access Consciousness | [concepts/access-consciousness.md](concepts/access-consciousness.md) |
-| 著作年表 / Works Chronology | [works.md](works.md) |
-| 生平年表 / Life Timeline | [timeline.md](timeline.md) |
-| 推荐阅读 / Reading List | [reading-list.md](reading-list.md) |
+| 全局工作空间理论 / Global Workspace Theory | [concepts/全局工作空间理论.md](concepts/全局工作空间理论.md) |
+| 意识剧场 / Consciousness Theater | [concepts/意识剧场.md](concepts/意识剧场.md) |
+| 认知架构 / Cognitive Architecture | [concepts/认知架构.md](concepts/认知架构.md) |
+| 全局广播 / Broadcast | [concepts/全局广播.md](concepts/全局广播.md) |
+| 通达意识 / Access Consciousness | [concepts/通达意识.md](concepts/通达意识.md) |
+| 著作年表 / Works Chronology | [著作.md](著作.md) |
+| 生平年表 / Life Timeline | [时间线.md](时间线.md) |
+| 推荐阅读 / Reading List | [阅读.md](阅读.md) |

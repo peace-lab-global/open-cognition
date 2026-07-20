@@ -4,7 +4,7 @@ description: Triggers when a user reports anger, resentment, interpersonal confl
 domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/four-immeasurables.md
-  - ../../buddhism/concepts/foundational/bodhisattva-path.md
+  - ../../buddhism/concepts/foundational/菩萨道 Bodhisattva Path.md
   - ../../buddhism/concepts/foundational/six-paramitas.md
 tags:
   - mettā
@@ -137,7 +137,7 @@ Step 5 一切众生
 ## 关联条目
 
 - [四无量心](../../buddhism/concepts/foundational/four-immeasurables.md)
-- [菩萨道](../../buddhism/concepts/foundational/bodhisattva-path.md)
+- [菩萨道](../../佛教/概念/foundational/菩萨道 Bodhisattva Path.md)
 - [六度 · 忍辱](../../buddhism/concepts/foundational/six-paramitas.md)
 - [罗杰斯 · 无条件积极关注](../../../心理学/学派/人本主义/卡尔.md)
-- [四圣谛框架](./four-noble-truths-framework/SKILL.md)（后续处理嗔恨的根源）
+- [四圣谛框架](../../佛教/技能/从前五识/SKILL.md)（后续处理嗔恨的根源）

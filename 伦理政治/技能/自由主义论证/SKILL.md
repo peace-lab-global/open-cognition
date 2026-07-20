@@ -2,9 +2,9 @@
 name: liberalism-analysis
 description: 自由主义论证分析用于检验某项限制自由的措施是否具有正当性。通过伤害原则与伤害原则的两个限制条件，判断国家干预个人自由的正当边界。Triggers on 讨论言论自由、行为自由、隐私权等与法律限制边界相关的问题。
 domain: 伦理政治
-linked_thinker: ../../schools/consequentialism/mill.md
+linked_thinker: ../../schools/consequentialism/密尔.md
 linked_concepts:
-  - ../../concepts/social-contract.md
+  - ../../concepts/社会契约.md
 tags:
   - 自由主义
   - 伤害原则
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[密尔 John Stuart Mill](../../schools/consequentialism/mill.md)
-- 来源概念：[社会契约](../../concepts/social-contract.md)
+- 来源思想家：[密尔 John Stuart Mill](../../学派/结果主义/密尔.md)
+- 来源概念：[社会契约](../../学派/社会契约论/托马斯/概念/社会契约.md)
 - 关键文献：Mill, *On Liberty*, Ch. I
 
 ## 操作流程
@@ -112,6 +112,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[密尔](../../schools/consequentialism/mill.md)
-- 概念：[社会契约](../../concepts/social-contract.md)
-- 相关Skill：[苦乐计算分析](./pleasure-calculus/SKILL.md)
+- 思想家：[密尔](../../学派/结果主义/密尔.md)
+- 概念：[社会契约](../../学派/社会契约论/托马斯/概念/社会契约.md)
+- 相关Skill：[苦乐计算分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -9,12 +9,12 @@ key_work: Critique of Judgment (判断力批判)
 domain: aesthetics
 tags: [康德, 判断力批判, 无功利, 崇高, 鉴赏判断]
 cross_refs:
-  - ../../philosophy/kant.md
+  - ../../philosophy/康德.md
   - hegel-aesthetics.md
   - ../nietzschean-aesthetics/nietzsche-aesthetics.md
   - ../../concepts/beauty.md
   - ../../concepts/sublime.md
-  - ../../concepts/aesthetic-experience.md
+  - ../../concepts/审美经验.md
 ---
 
 # 康德美学 / Kant's Aesthetics
@@ -95,8 +95,8 @@ cross_refs:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md) — 基于康德四契机的分析框架
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 基于康德四契机的分析框架
 
 ## 专题整合
 
-- [康德专题：理性的三问与批判的统一](../../../research/03-kant/README.md) `[整合]` 跨认识论·伦理学·美学的三大批判统一研究
+- [康德专题：理性的三问与批判的统一](../../../README.md) `[整合]` 跨认识论·伦理学·美学的三大批判统一研究

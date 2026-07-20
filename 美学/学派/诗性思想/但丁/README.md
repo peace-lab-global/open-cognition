@@ -29,9 +29,9 @@ children:
   - concepts/vernacular-poetics.md
   - concepts/contrapasso.md
   - concepts/beatrice.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 但丁 / Dante Alighieri

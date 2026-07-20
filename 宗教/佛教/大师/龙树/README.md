@@ -117,7 +117,7 @@ Emptiness itself is empty — "emptiness" is not an ultimate substance or substi
 | 《宝行王正论》 | Ratnavali | 书 (Lekha) | 致国王的哲学信函 | 政治哲学与空观 |
 | 《菩提资粮论》 | Bodhisambhara-sastra | 论 (Sastra) | 菩萨行的资粮 | 伦理实践导向 |
 
-详见 [著作目录](works.md) | See [Complete Works](works.md)
+详见 [著作目录](著作.md) | See [Complete Works](著作.md)
 
 ---
 
@@ -235,7 +235,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 
 - **哲学 Philosophy**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言批判 / Language critique；[海德格尔](../../../哲学/学派/存在主义/海德格尔.md) — 存在解构 / Deconstruction of Being；[康德](../../../哲学/学派/德国唯心论/康德.md) — 物自体 vs 无自性 / Thing-in-itself vs. no-svabhava
 - **佛教内部 Buddhist tradition**: [阿耶提婆](aryadeva.md) — 首席弟子 / Chief disciple；[月称](candrakirti.md) — 应成派继承者 / Prasangika heir；[宗喀巴](tsongkhapa.md) — 藏传中观复兴 / Tibetan Madhyamaka revival
-- **学派 School**: [中观学派](../schools/madhyamaka.md) — 创始人 / Founder
+- **学派 School**: [中观学派](../中观.md) — 创始人 / Founder
 - **认知科学 Cognitive science**: 反物化认知 / Anti-reification cognition、认知灵活性 / Cognitive flexibility
 - **物理学 Physics**: 量子力学中的关系性解释与缘起论的结构性平行 / Relational interpretations of quantum mechanics structurally parallel to dependent origination
 
@@ -259,7 +259,7 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 - Guy Newland, *Introduction to Emptiness* (Snow Lion, 2008)
 - 叶少勇《中论颂：梵藏汉合校·导读·译注》
 
-详见 [进阶阅读](reading-list.md) | See [Reading List](reading-list.md)
+详见 [进阶阅读](阅读.md) | See [Reading List](阅读.md)
 
 ---
 
@@ -270,6 +270,6 @@ Nagarjuna denies causation-with-svabhava (causal relations between independently
 - [中道 Madhyamaka](concepts/middle-way.md) — 八不与中道哲学 / Eight negations and Middle Way 哲学
 - [四句破 Catuskoti](concepts/catuskoti-tetralemma.md) — 否定性逻辑方法 / Negative logical method
 - [缘起 Pratityasamutpada](concepts/dependent-origination.md) — 相依缘起与空性 / Dependent co-arising and emptiness
-- [著作目录](works.md) — 完整著作列表与考证 / Complete works listing with authentication
-- [年表](timeline.md) — 生平与历史语境 / Biography and historical context
-- [进阶阅读](reading-list.md) — 分类书单 / Categorized reading list
+- [著作目录](著作.md) — 完整著作列表与考证 / Complete works listing with authentication
+- [年表](时间线.md) — 生平与历史语境 / Biography and historical context
+- [进阶阅读](阅读.md) — 分类书单 / Categorized reading list

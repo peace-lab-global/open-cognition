@@ -64,6 +64,6 @@ tags: [emptiness, sunyata, svabhava, anti-essentialism, Madhyamaka]
 ## 参见 / See Also
 
 - [缘起 Pratityasamutpada](pratityasamutpada.md)
-- [二谛 Dve Satye](two-truths.md)
+- [二谛 Dve Satye](../../../概念/cognitive-theory/二谛.md)
 - [四句破 Catuskoti](catuskoti.md)
 - [龙树 Nagarjuna](../README.md)

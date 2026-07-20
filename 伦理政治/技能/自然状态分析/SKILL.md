@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[托马斯·霍布斯](../../schools/social-contract/hobbes.md)
 - 概念：[自然状态](../../concepts/state-of-nature.md)、[利维坦](../../concepts/leviathan.md)
-- 相关 Skill：[social-contract-analysis](../../哲学/技能/社会契约分析/SKILL.md)、[justice-principle-test](./justice-principle-test/SKILL.md)
+- 相关 Skill：[social-contract-analysis](../../../哲学/技能/社会契约分析/SKILL.md)、[justice-principle-test](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -112,7 +112,7 @@ Faxian's *Record*, Xuanzang's *Great Tang Records on the Western Regions*, and Y
 | 《萨婆多部钞律》*Sarvastivada-vinaya* | 有部律 | 已佚，但曾在中国流通 / Lost, but once circulated in China |
 | 《杂阿毗昙心论》*Samyukta-abhidharma-hrdaya-sastra* | 阿毗达磨论著 | 法显参与翻译 / Faxian participated in translation |
 
-详见 [著作目录](works.md)。
+详见 [著作目录](著作.md)。
 
 ---
 
@@ -250,6 +250,6 @@ Faxian's maritime return route is a precious first-hand source for studying the 
 - [文化记录](concepts/cultural-documentation.md) — 《佛国记》的史料价值
 - [海路求法](concepts/sea-route.md) — 回程海路的历史意义
 - [三大求法记](concepts/three-travel-records.md) — 法显、玄奘、义净的比较
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

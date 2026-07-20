@@ -34,14 +34,14 @@ cross-refs:
   - id: whitehead
     relation: 合作
 sub-entries:
-  - russell/concepts/logical-atomism.md
+  - russell/concepts/逻辑原子主义.md
   - russell/concepts/theory-of-descriptions.md
   - russell/concepts/types-theory.md
   - russell/concepts/sense-data.md
   - russell/concepts/analytic-method.md
-  - russell/works.md
-  - russell/timeline.md
-  - russell/reading-list.md
+  - russell/著作.md
+  - russell/时间线.md
+  - russell/阅读.md
 ---
 
 # 伯特兰·罗素 Bertrand Russell
@@ -111,7 +111,7 @@ sub-entries:
 
 ## 重要概念 / Key Concepts
 
-1. **逻辑原子主义 / Logical Atomism** — 世界由简单事实构成，语言映射事实的逻辑结构 → [logical-atomism](concepts/logical-atomism.md)
+1. **逻辑原子主义 / Logical Atomism** — 世界由简单事实构成，语言映射事实的逻辑结构 → [logical-atomism](concepts/逻辑原子主义.md)
 2. **描述理论 / Theory of Descriptions** — 限定描述的逻辑分析 → [theory-of-descriptions](concepts/theory-of-descriptions.md)
 3. **类型论 / Theory of Types** — 解决悖论的分层逻辑系统 → [types-theory](concepts/types-theory.md)
 4. **感觉材料 / Sense-Data** — 认识的直接对象 → [sense-data](concepts/sense-data.md)
@@ -195,11 +195,11 @@ Yogacara similarly uses precise analytic methods to deconstruct everyday cogniti
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [logical-atomism](concepts/logical-atomism.md) | 逻辑原子主义 / Logical Atomism |
+| [logical-atomism](concepts/逻辑原子主义.md) | 逻辑原子主义 / Logical Atomism |
 | [theory-of-descriptions](concepts/theory-of-descriptions.md) | 描述理论 / Theory of Descriptions |
 | [types-theory](concepts/types-theory.md) | 类型论 / Theory of Types |
 | [sense-data](concepts/sense-data.md) | 感觉材料 / Sense-Data |
 | [analytic-method](concepts/analytic-method.md) | 分析方法 / Analytic Method |
-| [works](works.md) | 完整著作列表 / Complete works list |
-| [timeline](timeline.md) | 生平年表 / Biographical timeline |
-| [reading-list](reading-list.md) | 进阶阅读 / Advanced reading |
+| [works](著作.md) | 完整著作列表 / Complete works list |
+| [timeline](时间线.md) | 生平年表 / Biographical timeline |
+| [reading-list](阅读.md) | 进阶阅读 / Advanced reading |

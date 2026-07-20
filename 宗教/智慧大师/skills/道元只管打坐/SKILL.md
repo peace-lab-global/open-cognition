@@ -2,21 +2,21 @@
 name: dogen-shikantaza
 description: 道元"只管打坐"法，用于帮助当事人从"追求"切换到"存在"，从"做什么"切换到"只是在这里"。Triggers on 当事人陷入无尽的目标追求、需要停下来、当事人把"活着"当作"要达到某个状态"的场景。
 tradition: japanese-zen-soto
-linked_master: ../../masters/japan/dogen.md
+linked_master: ../../masters/japan/道元.md
 linked_concepts:
-  - 只管打坐
-  - 当下圆满
-  - 无目的
-  - 不修之修
+- 只管打坐
+- 当下圆满
+- 无目的
+- 不修之修
 tags:
-  - 打坐
-  - 无目的
-  - 追求辨识
-  - 当下
-  - 曹洞宗
-  - 日本禅
+- 打坐
+- 无目的
+- 追求辨识
+- 当下
+- 曹洞宗
+- 日本禅
+domain: 宗教
 ---
-
 # 道元只管打坐 · Shikantaza
 
 ## 一句话功能
@@ -40,7 +40,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[道元](../../masters/japan/dogen.md)
+- 来源祖师：[道元](../../masters/日本/道元.md)
 - 核心概念：只管打坐（shikantaza）——无观想、无持咒、无思维，只是坐
 - 关键文本：《修行道》《正法眼藏》
 - 核心命题："只管打坐，是非佛非祖之坐，非修行非不修行之坐"
@@ -134,7 +134,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[道元](../../masters/japan/dogen.md)
+- 祖师：[道元](../../masters/日本/道元.md)
 - 概念：[只管打坐](./concepts/shikantaza.md)（待建）
-- 相关Skill：[道元当下圆满](./dogen-presence/SKILL.md)
-- 跨传统：[海德格尔·本真](../../哲学/学派/存在主义/海德格尔.md)（平行）——本真存在与"只是在这里"的结构呼应
+- 相关Skill：[道元当下圆满](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：海德格尔·本真（平行）——本真存在与"只是在这里"的结构呼应

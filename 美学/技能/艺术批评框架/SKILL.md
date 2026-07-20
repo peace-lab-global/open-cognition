@@ -5,7 +5,7 @@ domain: 美学
 linked_thinker: ../../schools/pragmatist-aesthetics/dewey-aesthetics.md
 linked_concepts:
   - ../../concepts/beauty.md
-  - ../../concepts/aesthetic-experience.md
+  - ../../concepts/审美经验.md
 tags: [dewey, art-criticism, four-layers, formal, expressive, contextual, pragmatic]
 ---
 
@@ -96,6 +96,6 @@ tags: [dewey, art-criticism, four-layers, formal, expressive, contextual, pragma
 
 ## 链接条目
 
-- [杜威美学](../../schools/pragmatist-aesthetics/dewey-aesthetics.md)
+- [杜威美学](../../学派/实用主义美学/dewey-aesthetics.md)
 - [美 / Beauty](../../concepts/beauty.md)
-- [审美经验](../../concepts/aesthetic-experience.md)
+- [审美经验](../../概念/审美经验.md)

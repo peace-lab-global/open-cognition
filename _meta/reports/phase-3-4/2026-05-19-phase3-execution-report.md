@@ -27,7 +27,7 @@
 |--------|------|----------|-----------|-----------|
 | 皮亚杰 | 认知发展 | `psychology/schools/developmental/piaget.md` | 认知发展阶段评估 | `psychology/skills/cognitive-development-assessment/SKILL.md` |
 | 斯金纳 | 行为主义 | `psychology/schools/behaviorism/skinner.md` | 行为强化分析 | `psychology/skills/behavior-reinforcement-analysis/SKILL.md` |
-| 罗杰斯 | 人本主义 | `psychology/schools/humanistic/rogers.md` | 来访者中心对话 | `psychology/skills/client-centered-dialogue/SKILL.md` |
+| 罗杰斯 | 人本主义 | `psychology/schools/humanistic/卡尔.md` | 来访者中心对话 | `psychology/skills/client-centered-dialogue/SKILL.md` |
 
 **心理学大师Skills总数**：从5个增加到8个
 
@@ -45,10 +45,10 @@
 
 | 思想家 | 学派 | 条目路径 | 新增Skill | Skill路径 |
 |--------|------|----------|-----------|-----------|
-| 柏拉图 | 古希腊 | `philosophy/schools/ancient-greek/plato.md` | 洞穴寓言分析 | `philosophy/skills/allegory-of-cave-analysis/SKILL.md` |
-| 亚里士多德 | 古希腊 | `philosophy/schools/ancient-greek/aristotle.md` | 中庸之道分析 | `philosophy/skills/golden-mean-analysis/SKILL.md` |
-| 尼采 | 存在主义 | `philosophy/schools/existentialism/nietzsche.md` | 权力意志分析 | `philosophy/skills/will-to-power-analysis/SKILL.md` |
-| 海德格尔 | 现象学 | `philosophy/schools/existentialism/heidegger.md` | 此在分析 | `philosophy/skills/dasein-analysis/SKILL.md` |
+| 柏拉图 | 古希腊 | `philosophy/schools/古希腊/柏拉图.md` | 洞穴寓言分析 | `philosophy/skills/allegory-of-cave-analysis/SKILL.md` |
+| 亚里士多德 | 古希腊 | `philosophy/古希腊/亚里士多德.md` | 中庸之道分析 | `philosophy/skills/golden-mean-analysis/SKILL.md` |
+| 尼采 | 存在主义 | `哲学/学派/存在主义/尼采.md` | 权力意志分析 | `philosophy/skills/will-to-power-analysis/SKILL.md` |
+| 海德格尔 | 现象学 | `philosophy/schools/存在主义/海德格尔.md` | 此在分析 | `philosophy/skills/dasein-analysis/SKILL.md` |
 
 **哲学大师Skills总数**：从5个增加到9个
 

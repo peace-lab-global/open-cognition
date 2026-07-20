@@ -131,7 +131,7 @@ The fourth type — "neither walking nor sitting" — is particularly significan
 
 ## 参见 / See Also
 
-- [三谛圆融](three-truths.md) — 止观修行的理论见地
-- [一念三千](one-thought-three-thousand.md) — 十乘观法的第一观
+- [三谛圆融](三谛.md) — 止观修行的理论见地
+- [一念三千](一念三千.md) — 十乘观法的第一观
 - [五时八教](classification-teachings.md) — 止观在判教中的定位
 - [智顗 Zhiyi](../README.md) — 总论

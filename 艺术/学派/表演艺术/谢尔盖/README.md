@@ -308,6 +308,6 @@ The Chinese aesthetic concept of "yijing" (意境, artistic conception) — prod
 - [理性电影 / Intellectual Cinema](concepts/intellectual-cinema.md) — 电影作为思维工具的最高理想 / The highest ideal of cinema as a thinking tool
 - [吸引力 / Attractions](concepts/attractions.md) — 蒙太奇的基本构成单元 / The fundamental building unit of montage
 - [战舰波将金号 / Battleship Potemkin](concepts/battleship-potemkin.md) — 蒙太奇理论的经典电影实践 / The classic cinematic realization of montage theory
-- [著作年表 / Works](works.md) — 完整作品列表与分析 / Complete works list with analysis
-- [生平大事记 / Timeline](timeline.md) — 生平与历史语境 / Biography and historical context
-- [阅读指南 / Reading List](reading-list.md) — 分阶阅读路径 / Tiered reading paths
+- [著作年表 / Works](著作.md) — 完整作品列表与分析 / Complete works list with analysis
+- [生平大事记 / Timeline](时间线.md) — 生平与历史语境 / Biography and historical context
+- [阅读指南 / Reading List](阅读.md) — 分阶阅读路径 / Tiered reading paths

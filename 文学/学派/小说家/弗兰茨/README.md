@@ -29,9 +29,9 @@ children:
   - concepts/bureaucratic-nightmare.md
   - concepts/guilt-without-crime.md
   - concepts/the-law.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 卡夫卡 / Franz Kafka

@@ -5,9 +5,12 @@ type: concept
 thinker: 马祖道一 Mazu Daoyi
 domain: 宗教
 school: chan-buddhism
-tags: [即心是佛, 禅宗, 心性]
+tags:
+- 即心是佛
+- 禅宗
+- 心性
+era: medieval
 ---
-
 # 即心是佛 Mind Is Buddha
 
 > 关联思想家：[马祖道一 Mazu Daoyi](../README.md)

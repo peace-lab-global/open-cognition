@@ -83,11 +83,11 @@ sources: [龙树造《中论》4 卷, 鸠摩罗什译; 青目释, 佛护释, 月
 
 ## 与相关概念的关系
 
-- [中观](../schools/madhyamaka.md) — [同源] 根本论典
+- [中观](../概念/cognitive-theory/中观.md) — [同源] 根本论典
 - [三论宗](../schools/sanlun.md) — [同源] 汉传三论之一
-- [空性](../concepts/foundational/sunyata.md) — [同源] 核心主题
-- [二谛](../concepts/foundational/two-truths.md) — [同源] 二谛论
-- [龙树](../masters/nagarjuna.md) — [同源] 作者
+- [空性](../概念/foundational/空性 Śūnyatā.md) — [同源] 核心主题
+- [二谛](../概念/foundational/二谛 Two Truths.md) — [同源] 二谛论
+- [龙树](../大师/龙树.md) — [同源] 作者
 - [鸠摩罗什](../masters/kumarajiva.md) — [同源] 译者
 
 ## 常见误读

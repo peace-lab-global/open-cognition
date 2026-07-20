@@ -59,18 +59,18 @@
 
 **核心教义**（traditions/buddhism/）
 - [佛教总览与导航](buddhism/INDEX.md) ★ 佛教模块入口
-- [四圣谛与八正道](traditions/buddhism/four-noble-truths.md)
-- [大乘空性 Śūnyatā](traditions/buddhism/sunyata.md)
-- [禅宗 Zen](traditions/buddhism/zen.md)
+- [四圣谛与八正道](传统/佛教/四圣谛与八正道.md)
+- [大乘空性 Śūnyatā](传统/佛教/大乘空性.md)
+- [禅宗 Zen](传统/佛教/禅宗.md)
 - [弥陀净土 Amitābha Pure Land](traditions/buddhism/amitabha-pure-land.md)
 
 **宗派 Schools**（buddhism/schools/）
 - [上座部 Theravāda](buddhism/schools/theravada.md)
-- [中观 Madhyamaka](buddhism/schools/madhyamaka.md)
-- [唯识 Yogācāra](buddhism/schools/yogacara.md)
-- [天台 Tiantai](buddhism/schools/tiantai.md)
-- [华严 Huayan](buddhism/schools/huayan.md)
-- [禅宗 Chan/Zen](buddhism/schools/chan-zen.md)
+- [中观 Madhyamaka](buddhism/中观.md)
+- [唯识 Yogācāra](buddhism/唯识 Vijñaptimātratā.md)
+- [天台 Tiantai](buddhism/schools/天台.md)
+- [华严 Huayan](buddhism/华严.md)
+- [禅宗 Chan/Zen](buddhism/schools/禅宗.md)
 - [净土宗 Pure Land](buddhism/schools/pure-land.md)
 - [密乘 Vajrayāna](buddhism/schools/vajrayana.md)
 - [律宗 Vinaya](buddhism/schools/vinaya.md) · [三论宗 Sanlun](buddhism/schools/sanlun.md) · [俱舍宗 Kośa](buddhism/schools/kosa.md)
@@ -100,12 +100,12 @@
 - [白隐慧鹤 Hakuin](buddhism/masters/hakuin/README.md) · [太虚 Tàixū](buddhism/masters/taixu/README.md)
 
 **基础概念 Core Concepts**（buddhism/concepts/foundational/）
-- [三宝](buddhism/concepts/foundational/three-jewels.md) · [三法印](buddhism/concepts/foundational/three-marks.md) · [缘起](buddhism/concepts/foundational/dependent-origination.md) · [中道](buddhism/concepts/foundational/middle-way.md)
-- [四无量心](buddhism/concepts/foundational/four-immeasurables.md) · [三学](buddhism/concepts/foundational/three-trainings.md) · [五蕴](buddhism/concepts/foundational/five-aggregates.md) · [业与轮回](buddhism/concepts/foundational/karma-rebirth.md)
-- [菩萨道](buddhism/concepts/foundational/bodhisattva-path.md) · [六度](buddhism/concepts/foundational/six-paramitas.md) · [八正道](buddhism/concepts/foundational/noble-eightfold-path.md) · [佛性](buddhism/concepts/foundational/buddha-nature.md) · [涅槃](buddhism/concepts/foundational/nirvana.md)
+- [三宝](buddhism/concepts/foundational/three-jewels.md) · [三法印](buddhism/concepts/foundational/三法印 Three Marks of Existence.md) · [缘起](buddhism/concepts/foundational/缘起 Dependent Origination.md) · [中道](buddhism/concepts/foundational/中道 Middle Way.md)
+- [四无量心](buddhism/concepts/foundational/four-immeasurables.md) · [三学](buddhism/concepts/foundational/三学 Three Trainings.md) · [五蕴](buddhism/concepts/foundational/五蕴 Five Aggregates.md) · [业与轮回](buddhism/concepts/foundational/karma-rebirth.md)
+- [菩萨道](buddhism/concepts/foundational/菩萨道 Bodhisattva Path.md) · [六度](buddhism/concepts/foundational/six-paramitas.md) · [八正道](buddhism/concepts/foundational/noble-eightfold-path.md) · [佛性](buddhism/concepts/foundational/佛性 Buddha Nature.md) · [涅槃](buddhism/concepts/foundational/涅槃.md)
 - [戒律学](buddhism/concepts/foundational/vinaya-studies.md) · [五明](buddhism/concepts/foundational/pancavidya.md) · [百法明门](buddhism/concepts/foundational/hundred-dharmas.md) · [四依四不依](buddhism/concepts/foundational/four-reliances.md)
-- [二谛](buddhism/concepts/foundational/two-truths.md) · [判教](buddhism/concepts/foundational/doctrinal-classification.md) · [止观](buddhism/concepts/foundational/samatha-vipasyana.md) · [如来藏](buddhism/concepts/foundational/tathagatagarbha.md)
-- [三十七道品](buddhism/concepts/foundational/thirty-seven-factors.md) · [十八界](buddhism/concepts/foundational/eighteen-dhatu.md) · [空性](buddhism/concepts/foundational/sunyata.md) · [无我](buddhism/concepts/foundational/anatman.md)
+- [二谛](buddhism/concepts/foundational/二谛 Two Truths.md) · [判教](buddhism/concepts/foundational/doctrinal-classification.md) · [止观](buddhism/concepts/foundational/samatha-vipasyana.md) · [如来藏](buddhism/concepts/foundational/如来藏 Tathāgatagarbha.md)
+- [三十七道品](buddhism/concepts/foundational/thirty-seven-factors.md) · [十八界](buddhism/concepts/foundational/eighteen-dhatu.md) · [空性](buddhism/concepts/foundational/空性 Śūnyatā.md) · [无我](buddhism/concepts/foundational/anatman.md)
 - [三解脱门](buddhism/concepts/foundational/three-liberations.md) · [三身](buddhism/concepts/foundational/trikaya.md) · [二障](buddhism/concepts/foundational/two-obstacles.md) · [四法印](buddhism/concepts/foundational/four-seals.md)
 - [贪嗔痴](buddhism/concepts/foundational/three-poisons.md) · [十二处](buddhism/concepts/foundational/twelve-ayatana.md) · [唯识](buddhism/concepts/foundational/vijnaptimatrata.md) · [方便](buddhism/concepts/foundational/upaya.md)
 - [九住心](buddhism/concepts/foundational/nine-abidings.md) · [三乘](buddhism/concepts/foundational/three-vehicles.md) · [十二头陀行](buddhism/concepts/foundational/dhutanga.md) · [四无所畏](buddhism/concepts/foundational/four-fearlessnesses.md)
@@ -113,26 +113,26 @@
 **经典与认知理论**
 - [佛教十三经 · 全然理解图谱集](buddhism/sutras/README.md)
 - 经典独立深度条目（treatises/）：
-  - [维摩诘经](buddhism/treatises/vimalakirti.md) · [楞严经](buddhism/treatises/surangama.md) · [法华经](buddhism/treatises/lotus.md) · [华严经](buddhism/treatises/avatamsaka.md) · [圆觉经](buddhism/treatises/perfect-enlightenment.md) · [解深密经](buddhism/treatises/sandhinirmocana.md)
+  - [维摩诘经](buddhism/treatises/vimalakirti.md) · [楞严经](buddhism/treatises/surangama.md) · [法华经](buddhism/treatises/lotus.md) · [华严经](buddhism/treatises/avatamsaka.md) · [圆觉经](buddhism/treatises/perfect-启蒙.md) · [解深密经](buddhism/treatises/sandhinirmocana.md)
   - [大乘起信论](buddhism/treatises/awakening-of-faith.md) · [俱舍论](buddhism/treatises/abhidharmakosa.md)
-  - [成唯识论](buddhism/treatises/cheng-weishi-lun.md) · [大般涅槃经](buddhism/treatises/mahaparinirvana.md) · [中论](buddhism/treatises/mulamadhyamakakarika.md) · [楞伽经](buddhism/treatises/lankavatara.md)
+  - [成唯识论](buddhism/treatises/cheng-weishi-lun.md) · [大般涅槃经](buddhism/treatises/mahapari涅槃.md) · [中论](buddhism/treatises/mulamadhyamakakarika.md) · [楞伽经](buddhism/treatises/lankavatara.md)
   - [入中论](buddhism/treatises/madhyamakavatara.md) · [入菩萨行论](buddhism/treatises/bodhicaryavatara.md) · [大智度论](buddhism/treatises/mahaprajnaparamita-sastra.md) · [大日经](buddhism/treatises/mahavairocana.md)
 - [佛教认知理论体系](buddhism/concepts/cognitive-theory/README.md)（八识、心物一元、中观、七处征心、八还辨见等）
 - [专题概念导航](buddhism/concepts/INDEX.md)
 
 ### 基督教 christianity
-- [恩典与救赎](traditions/christianity/grace-redemption.md)
+- [恩典与救赎](传统/基督教/恩典与救赎.md)
 - [基督教神秘主义](traditions/christianity/mysticism.md)
 
 ### 伊斯兰 islam
-- [五功 Five Pillars](traditions/islam/five-pillars.md)
-- [苏菲主义 Sufism](traditions/islam/sufism.md)
+- [五功 Five Pillars](traditions/islam/五功.md)
+- [苏菲主义 Sufism](traditions/islam/苏菲主义.md)
 
 ### 犹太教 judaism
 - [律法与盟约 Covenant](traditions/judaism/covenant.md)
 
 ### 道教 taoism
-- [无为 Wu-wei](traditions/taoism/wuwei.md)
+- [无为 Wu-wei](traditions/taoism/无为.md)
 - [老子 Laozi](traditions/taoism/masters/laozi/README.md)
 - [庄子 Zhuangzi](traditions/taoism/masters/zhuangzi/README.md)
 

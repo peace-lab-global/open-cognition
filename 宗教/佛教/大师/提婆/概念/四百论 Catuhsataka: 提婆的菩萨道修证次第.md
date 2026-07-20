@@ -81,9 +81,9 @@ Unlike the *Satasatra* which focuses on refuting non-Buddhist schools, the *Catu
 
 ### 2. "大悲为体"的命题 / The "Compassion as Essence" Thesis
 
-《四百论》第 8 品第 15 颂的"诸佛世尊以大悲为体，不以空性为体"是提婆最独特的哲学贡献。这一命题将空性从认知层面推向伦理层面——详见 [悲智双运](compassion-wisdom.md)。
+《四百论》第 8 品第 15 颂的"诸佛世尊以大悲为体，不以空性为体"是提婆最独特的哲学贡献。这一命题将空性从认知层面推向伦理层面——详见 [悲智双运](悲智双运.md)。
 
-Verse 8.15 — "The Buddhas take great compassion as their essence, not emptiness" — is Aryadeva's most distinctive philosophical contribution. This thesis elevates emptiness from the cognitive to the ethical dimension. See [Compassion-Wisdom](compassion-wisdom.md).
+Verse 8.15 — "The Buddhas take great compassion as their essence, not emptiness" — is Aryadeva's most distinctive philosophical contribution. This thesis elevates emptiness from the cognitive to the ethical dimension. See [Compassion-Wisdom](悲智双运.md).
 
 ### 3. 破"法执"的深化 / Deepening the Refutation of Dharma-Grasping
 
@@ -133,6 +133,6 @@ Candrakirti's commentary is indispensable for understanding the *Catuhsataka*:
 ## 参见 / See Also
 
 - [破四倒 Catvarah Viparyasah](four-inversions.md) — 前八品的核心主题
-- [悲智双运 Karuna-Prajna](compassion-wisdom.md) — 第 8 品的核心命题
+- [悲智双运 Karuna-Prajna](悲智双运.md) — 第 8 品的核心命题
 - [与龙树的分工](nagarjuna-partnership.md) — 《四百论》在传承中的定位
 - [百论 Satasatra](hundred-treatise.md) — 提婆的另一部核心著作

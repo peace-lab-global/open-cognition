@@ -278,6 +278,6 @@ The Abstraction Hierarchy's multi-level description from physical form to functi
 - [工作域分析 Work Domain Analysis](concepts/work-domain-analysis.md) — 抽象层级与WDA方法
 - [约束驱动设计 Constraints-Based Design](concepts/constraints-based-design.md) — 约束作为设计生成性条件的哲学
 - [人机交互 Human-Technology Interaction](concepts/human-technology-interaction.md) — 维森特的人机交互整体观
-- [著作年表 Works & Bibliography](works.md) — 完整著作列表与出版信息
-- [生平大事记 Timeline](timeline.md) — 生平与思想发展历程
-- [阅读指南 Reading Guide](reading-list.md) — 分级阅读建议与资源推荐
+- [著作年表 Works & Bibliography](著作.md) — 完整著作列表与出版信息
+- [生平大事记 Timeline](时间线.md) — 生平与思想发展历程
+- [阅读指南 Reading Guide](阅读.md) — 分级阅读建议与资源推荐

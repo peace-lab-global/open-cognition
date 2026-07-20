@@ -40,9 +40,9 @@ children:
   - concepts/series-paintings
   - concepts/light-perception
   - concepts/water-lilies
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 克劳德·莫奈 · Claude Monet
@@ -269,6 +269,6 @@ Monet was one of the most active participants in the nineteenth-century *Japonis
 - [系列绘画 / Series Paintings](concepts/series-paintings.md) — 重复母题的视觉研究方法
 - [光与知觉 / Light and Perception](concepts/light-perception.md) — 莫奈的视觉哲学
 - [睡莲 / Water Lilies](concepts/water-lilies.md) — 晚年巨制与通向抽象之路
-- [著作年表 / Works](works.md) — 莫奈主要作品编年
-- [生平大事记 / Timeline](timeline.md) — 莫奈生平与思想里程碑
-- [阅读指南 / Reading List](reading-list.md) — 分层进阶阅读建议
+- [著作年表 / Works](著作.md) — 莫奈主要作品编年
+- [生平大事记 / Timeline](时间线.md) — 莫奈生平与思想里程碑
+- [阅读指南 / Reading List](阅读.md) — 分层进阶阅读建议

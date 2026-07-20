@@ -65,7 +65,7 @@
 美学领域孤儿率从 44% 降至 31%（10→12 个仍孤立，但 4 个已获入边）。关键：
 - `beauty.md` 的格式错误 wikilink 全部修正，6 个思想家现可正确链接
 - `leonardo.md`、`borges.md` 分别从 damasio、language 获得入边
-- `aesthetic-experience.md` 获得 bourdieu、damasio 两条入边
+- `审美经验.md` 获得 bourdieu、damasio 两条入边
 
 ## 残留项
 

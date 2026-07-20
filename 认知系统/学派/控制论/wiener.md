@@ -49,7 +49,7 @@ sources: [《控制论》(Cybernetics), 《人有人的用处》(The Human Use o
 
 ## 重要概念
 
-- [反馈 Feedback](../../concepts/joint-cognitive-system.md) — 系统通过比较输出与目标来调整行为
+- [反馈 Feedback](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md) — 系统通过比较输出与目标来调整行为
 - **负反馈**：减少误差，维持稳定（恒温器、体内平衡）
 - **正反馈**：放大偏差，导致失控或快速变化（雪崩、市场恐慌）
 - **稳态 Homeostasis**：系统通过反馈维持在可运作范围内
@@ -76,10 +76,10 @@ sources: [《控制论》(Cybernetics), 《人有人的用处》(The Human Use o
 
 ## 跨学科关联
 
-- [卡尼曼](../../../psychology/schools/behavioral-economics/kahneman.md) `[平行]` 双系统中的系统1类似快速反馈，系统2类似慢速控制
-- [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[平行]` 平衡化机制本质是认知层面的反馈
-- [帕森斯](../../../sociology/schools/functionalism/parsons.md) `[发展]` 社会系统的反馈维持
-- [佛教八识体系](../../../religion/buddhism/concepts/cognitive-theory/eight-consciousness.md) `[平行]` 末那识的自我调节可类比反馈机制
+- [卡尼曼](../../../心理学/学派/行为经济学/丹尼尔.md) `[平行]` 双系统中的系统1类似快速反馈，系统2类似慢速控制
+- [皮亚杰](../../../心理学/学派/认知心理学/皮亚杰.md) `[平行]` 平衡化机制本质是认知层面的反馈
+- [帕森斯](../../../社会学/学派/功能主义/parsons.md) `[发展]` 社会系统的反馈维持
+- [佛教八识体系](../../../宗教/佛教/概念/cognitive-theory/八识体系.md) `[平行]` 末那识的自我调节可类比反馈机制
 
 ## 进阶阅读
 
@@ -96,4 +96,4 @@ sources: [《控制论》(Cybernetics), 《人有人的用处》(The Human Use o
 
 ## 关联 Skills
 
-- [认知系统设计](../../skills/cognitive-system-design/SKILL.md)
+- [认知系统设计](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

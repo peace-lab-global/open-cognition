@@ -2,10 +2,10 @@
 name: veil-of-ignorance-analysis
 description: 无知之幕分析用于检验政治原则或社会安排的公正性。在假设参与者不知道自身社会地位、天赋、价值观的条件下，推断哪些原则会被理性个体选择。Triggers on 需要论证某项政策是否公正、检验社会安排的合法性、或进行制度设计的问题。
 domain: 伦理政治
-linked_thinker: ../../schools/social-contract/rawls.md
+linked_thinker: ../../学派/社会契约论/约翰-rawls.md
 linked_concepts:
-  - ../../concepts/veil-of-ignorance.md
-  - ../../concepts/social-contract.md
+  - ../../concepts/无知之幕.md
+  - ../../concepts/社会契约.md
 tags:
   - 正义论
   - 社会契约
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[罗尔斯 John Rawls](../../schools/social-contract/rawls.md)
-- 来源概念：[无知之幕](../../concepts/veil-of-ignorance.md)、[社会契约](../../concepts/social-contract.md)
+- 来源思想家：[罗尔斯 John Rawls](../../学派/社会契约论/约翰-rawls.md)
+- 来源概念：[无知之幕](../../学派/社会契约论/约翰-rawls/概念/无知之幕.md)、[社会契约](../../学派/社会契约论/托马斯/概念/社会契约.md)
 - 关键文献：Rawls, *A Theory of Justice*, §3
 
 ## 操作流程
@@ -104,6 +104,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[罗尔斯](../../schools/social-contract/rawls.md)
-- 概念：[无知之幕](../../concepts/veil-of-ignorance.md)、[社会契约](../../concepts/social-contract.md)
-- 相关Skill：[正义原则检验](./justice-principle-test/SKILL.md)
+- 思想家：[罗尔斯](../../学派/社会契约论/约翰-rawls.md)
+- 概念：[无知之幕](../../学派/社会契约论/约翰-rawls/概念/无知之幕.md)、[社会契约](../../学派/社会契约论/托马斯/概念/社会契约.md)
+- 相关Skill：[正义原则检验](../../../宗教/佛教/技能/从前五识/SKILL.md)

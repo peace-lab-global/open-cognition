@@ -16,9 +16,9 @@ sources:
   - Nagel, *Mind and Cosmos* (2012)
   - Nagel, *The Possibility of Altruism* (1970)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: mcginn
     relation: 影响

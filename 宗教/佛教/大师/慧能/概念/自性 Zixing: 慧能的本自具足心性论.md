@@ -92,7 +92,7 @@ Huineng emphasized "self-nature self-liberates" — no Buddha or bodhisattva can
 
 ## 参见 / See Also
 
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — 认出自性的瞬间 / The moment of recognizing self-nature
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 认出自性的瞬间 / The moment of recognizing self-nature
 - [无念 No-Thought](no-thought-wunian.md) — 自性显现的认知条件 / The cognitive condition for self-nature to manifest
 - [坛经 Platform Sutra](platform-sutra.md) — 自性论述的主要文本来源 / The primary textual source for self-nature discourse
 - [慧能 Huineng](../README.md)

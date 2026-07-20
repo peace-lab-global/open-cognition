@@ -20,7 +20,7 @@
 |---|---|---|
 | 维纳 Norbert Wiener | `schools/cybernetics/wiener.md` | 控制论创始人，反馈/通信/控制 |
 | 阿什比 W.R. Ashby | `schools/cybernetics/ashby.md` | 必要多样性法则 |
-| 西蒙 Herbert Simon | `schools/cybernetics/simon.md` | 有限理性、启发式搜索 |
+| 西蒙 Herbert Simon | `schools/控制论/西蒙.md` | 有限理性、启发式搜索 |
 
 #### 生态心理学 Ecological Psychology（3 位）
 | 思想家 | 路径 | 核心贡献 |
@@ -32,16 +32,16 @@
 #### 分布式认知 Distributed Cognition（3 位）
 | 思想家 | 路径 | 核心贡献 |
 |---|---|---|
-| 哈钦斯 Edwin Hutchins | `schools/distributed/hutchins.md` | 分布式认知 |
+| 哈钦斯 Edwin Hutchins | `分布式认知/哈钦斯.md` | 分布式认知 |
 | 恩格斯托姆 Yrjö Engeström | `schools/distributed/engestrom.md` | 扩展活动理论 |
 | 列昂捷夫 A.N. Leontiev | `schools/distributed/leontiev.md` | 活动理论创始人 |
 
 #### 认知系统工程 Cognitive Engineering（3 位）
 | 思想家 | 路径 | 核心贡献 |
 |---|---|---|
-| 拉斯穆森 Jens Rasmussen | `schools/cognitive-engineering/rasmussen.md` | 认知工作分析、SRK 模型 |
-| 伍兹 David Woods | `schools/cognitive-engineering/woods.md` | 韧性工程、宏观认知 |
-| 诺曼 Donald Norman | `schools/cognitive-engineering/norman.md` | 认知工效学、设计心理学 |
+| 拉斯穆森 Jens Rasmussen | `认知工程/拉斯穆森.md` | 认知工作分析、SRK 模型 |
+| 伍兹 David Woods | `认知工程/伍兹.md` | 韧性工程、宏观认知 |
+| 诺曼 Donald Norman | `schools/认知工程/诺曼.md` | 认知工效学、设计心理学 |
 
 #### 自然决策与认知工效 Naturalistic Decision（3 位）
 | 思想家 | 路径 | 核心贡献 |
@@ -54,17 +54,17 @@
 
 | 概念 | 路径 | 核心定义 |
 |---|---|---|
-| 有限理性 | `concepts/bounded-rationality.md` | 理性受限于信息、时间和计算能力 |
-| 可供性 | `concepts/affordance.md` | 环境直接提供的行动可能性 |
-| 认知负荷 | `concepts/cognitive-load.md` | 工作记忆中的三类信息处理负担 |
-| 态势感知 | `concepts/situation-awareness.md` | 感知→理解→预测三级认知状态 |
-| 分布式认知 | `concepts/distributed-cognition.md` | 认知分布在人、工具、环境之间 |
-| 意义建构 | `concepts/sensemaking.md` | 在模糊情境中通过行动建构理解 |
-| 心智模型 | `concepts/mental-model.md` | 对系统运作的内部心理表征 |
-| 活动理论 | `concepts/activity-theory.md` | 六要素三角形活动系统分析 |
-| 韧性工程 | `concepts/resilience-engineering.md` | 系统面对意外保持功能的能力 |
-| 联合认知系统 | `concepts/joint-cognitive-system.md` | 人-技术构成的认知整体 |
-| 预测加工 | `concepts/predictive-processing.md` | 大脑是预测机器 |
+| 有限理性 | `concepts/有限理性.md` | 理性受限于信息、时间和计算能力 |
+| 可供性 | `concepts/可供性.md` | 环境直接提供的行动可能性 |
+| 认知负荷 | `concepts/认知负荷.md` | 工作记忆中的三类信息处理负担 |
+| 态势感知 | `concepts/态势感知.md` | 感知→理解→预测三级认知状态 |
+| 分布式认知 | `concepts/分布式认知.md` | 认知分布在人、工具、环境之间 |
+| 意义建构 | `concepts/意义建构.md` | 在模糊情境中通过行动建构理解 |
+| 心智模型 | `concepts/心智模型.md` | 对系统运作的内部心理表征 |
+| 活动理论 | `concepts/活动理论.md` | 六要素三角形活动系统分析 |
+| 韧性工程 | `concepts/韧性工程.md` | 系统面对意外保持功能的能力 |
+| 联合认知系统 | `concepts/联合认知系统.md` | 人-技术构成的认知整体 |
+| 预测加工 | `concepts/预测加工.md` | 大脑是预测机器 |
 | 生成认知 | `concepts/enaction.md` | 认知在行动中生成世界 |
 
 ### 2.3 Skills（10 个）

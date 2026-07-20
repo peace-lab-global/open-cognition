@@ -21,9 +21,9 @@ cross-refs:
     relation: 互补
 children:
   - concepts/
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 查尔斯·佩罗 / Charles Perrow

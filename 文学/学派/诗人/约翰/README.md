@@ -28,9 +28,9 @@ children:
   - concepts/morphology.md
   - concepts/bildung.md
   - concepts/sturm-und-drang.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 歌德 / Johann Wolfgang von Goethe

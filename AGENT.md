@@ -189,10 +189,10 @@ Agent 解析时，把 `[类型]` 作为边的 label 即可建立知识图谱。
 | Skill | 用途 | 路径 |
 |---|---|---|
 | CBT 认知扭曲识别 | 识别 10 类认知扭曲并重构 | [cbt-cognitive-distortion](./心理学/技能/认知扭曲识别/SKILL.md) |
-| 布迪厄场域分析 | 分析权力/资本/惯习结构 | [bourdieu-field-analysis](./社会学/技能/布迪厄场域分/SKILL.md) |
+| 布迪厄场域分析 | 分析权力/资本/惯习结构 | [bourdieu-field-analysis](./社会学/技能/布迪厄场域分析/SKILL.md) |
 | 四圣谛诊断 | 用佛教诊断框架看具体困境 | [four-noble-truths-framework](./宗教/技能/四圣谛框架分/SKILL.md) |
 | 康德绝对命令检验 | 检验行为准则是否可普遍化 | [categorical-imperative-test](./哲学/技能/绝对命令检验/SKILL.md) |
-| STPA 事故分析 | 系统理论事故分析 | [stpa-accident-analysis](./认知系统/技能/理论事故模型/SKILL.md) |
+| STPA 事故分析 | 系统理论事故分析 | [stpa-accident-analysis](./认知系统/技能/STPA事故分析/SKILL.md) |
 
 ### 佛教认知专题类（在 `religion/buddhism/skills/` 下）
 
@@ -257,7 +257,7 @@ find . -name "*.md" -not -name "README.md" -not -name "INDEX.md" -not -path "./_
 
 ```json
 {
-  "path": "religion/buddhism/concepts/cognitive-theory/pramana.md",
+  "path": "religion/buddhism/concepts/cognitive-theory/量论.md",
   "id": "pramana",
   "title": "量论 · Pramāṇa",
   "type": "concept",

@@ -221,8 +221,8 @@ In sum, Beethoven's dialogue with Eastern thought traditions reveals an importan
 - **[叔本华 / Schopenhauer](../../../哲学/学派/德国唯心论/schopenhauer.md)** `[影响/influence]`：叔本华将音乐视为"意志本身的直接客体化"，这一美学论断深受贝多芬音乐的启发。
 - **[存在主义/萨特 / Sartre](../../../哲学/学派/存在主义/萨特.md)** `[平行/parallel]`：贝多芬对自由和自我创造的强调与存在主义的"存在先于本质"和"绝对自由"概念相呼应。贝多芬的存在先于本质。
 - **[心理学/韧性研究](../../../心理学/概念/resilience.md)** `[应用/application]`：贝多芬在耳聋逆境中的创造力是心理韧性研究的经典案例，体现了"创伤后成长"(Post-Traumatic Growth)的心理学概念。
-- **[神经科学/创造力](../../../neuroscience/concepts/creativity.md)** `[探讨/exploration]`：贝多芬的速写本为研究创造性认知过程提供了宝贵的第一手资料。
-- **[政治哲学/自由](../../../伦理政治/概念/freedom.md)** `[主题/theme]`：贝多芬对政治自由的信仰——特别是对法国大革命理想的认同——贯穿其创作生涯。
+- **[神经科学/创造力](../../../neuroscience/concepts/创造力.md)** `[探讨/exploration]`：贝多芬的速写本为研究创造性认知过程提供了宝贵的第一手资料。
+- **[政治哲学/自由](../../../伦理政治/概念/自由.md)** `[主题/theme]`：贝多芬对政治自由的信仰——特别是对法国大革命理想的认同——贯穿其创作生涯。
 - **[文学/歌德 / Goethe](../../../文学/schools/german-romanticism/goethe.md)** `[平行/parallel]`：贝多芬为歌德的《埃格蒙特》配乐，两人在艺术理想上有共鸣也有分歧（贝多芬认为歌德对宫廷过于恭敬）。
 - **[瓦格纳 / Wagner](../wagner/wagner.md)** `[影响/influence]`：瓦格纳继承贝多芬的宏大叙事理想，称第九交响曲为"未来艺术的福音"，并将其推向总体艺术 (Gesamtkunstwerk)。
 
@@ -261,6 +261,6 @@ In sum, Beethoven's dialogue with Eastern thought traditions reveals an importan
 - [苦难超越 / Deafness and Transcendence](concepts/deafness-transcendence.md)
 - [奏鸣曲式扩展 / Sonata Form Expansion](concepts/sonata-form-expansion.md)
 - [晚期弦乐四重奏 / Late String Quartets](concepts/late-string-quartets.md)
-- [著作年表 / Works Bibliography](works.md)
-- [生平大事记 / Biographical Timeline](timeline.md)
-- [阅读指南 / Reading Guide](reading-list.md)
+- [著作年表 / Works Bibliography](著作.md)
+- [生平大事记 / Biographical Timeline](时间线.md)
+- [阅读指南 / Reading Guide](阅读.md)

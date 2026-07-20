@@ -100,5 +100,5 @@ It is like asking "what is a flame before it burns?" — burning is not a "state
 
 - [只管打坐 Shikantaza](shikantaza.md)
 - [有时 Uji](being-time-uji.md)
-- [佛性 Busho](buddha-nature-dogen.md)
+- [佛性 Busho](buddha-nature-道元.md)
 - [无常佛性 Impermanence-Buddha-Nature](impermanence-buddha-nature.md)

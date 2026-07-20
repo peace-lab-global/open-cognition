@@ -10,7 +10,7 @@
 ### 1.1 已创建内容
 
 **道教大师条目（2位）**：
-1. 老子 - `religion/traditions/taoism/masters/laozi.md`
+1. 老子 - `religion/传统/道教/masters/老子.md`
 2. 庄子 - `religion/traditions/taoism/masters/zhuangzi.md`
 
 **道教大师Skills（6个）**：

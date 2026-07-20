@@ -137,5 +137,5 @@ tags: [nine-yana, theg-pa, classification, Dzogchen, Nyingma, Atiyoga, tantra, M
 
 - [七宝藏](seven-treasures.md) — 《胜乘宝藏论》中的九乘论述
 - [彻却与脱嘎](trekcho-togal.md) — 阿底瑜伽的核心修法
-- [本初清净 Ka dag](primordial-purity.md) — 大圆满的核心概念
+- [本初清净 Ka dag](本初清净.md) — 大圆满的核心概念
 - [隆钦巴 Longchenpa](../README.md) — 主条目

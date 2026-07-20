@@ -47,11 +47,11 @@ sources: [巴利三藏 · 《转法轮经》]
 
 ## 与相关概念的关系
 
-- [四圣谛](../../traditions/buddhism/four-noble-truths.md) — [下位] 八正道是道谛
-- [三学](three-trainings.md) — [下位] 八正道 = 三学的展开
-- [中道](middle-way.md) — [同源] 八正道即中道
+- [四圣谛](../../../传统/佛教/四圣谛与八正道.md) — [下位] 八正道是道谛
+- [三学](三学 Three Trainings.md) — [下位] 八正道 = 三学的展开
+- [中道](中道 Middle Way.md) — [同源] 八正道即中道
 - [四念处] — [下位] 正念的展开
-- [菩萨道](bodhisattva-path.md) — [基础] 大乘含八正道
+- [菩萨道](菩萨道 Bodhisattva Path.md) — [基础] 大乘含八正道
 
 ## 应用场景
 
@@ -68,10 +68,10 @@ sources: [巴利三藏 · 《转法轮经》]
 
 ## 跨学科关联
 
-- [亚里士多德 · 中庸](../../../哲学/学派/古希腊/亚里士多德.md) — [平行] 中道
-- [斯多葛学派](../../../哲学/schools/stoicism/) — [平行] 德性实践
+- 亚里士多德 · 中庸 — [平行] 中道
+- [斯多葛学派](../../README.md) — [平行] 德性实践
 - [MBSR/MBCT] — [继承] 正念医学化
-- [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 自我修养
+- 福柯 · 自我技术 — [平行] 自我修养
 
 ## 进阶阅读
 
@@ -87,5 +87,5 @@ sources: [巴利三藏 · 《转法轮经》]
 
 ## 关联 Skills
 
-- [四圣谛框架](../../skills/four-noble-truths-framework/SKILL.md)
-- [十二因缘观](../../skills/twelve-links-contemplation/SKILL.md)
+- [四圣谛框架](../../../智慧大师/skills/临济棒喝当下/SKILL.md)
+- [十二因缘观](../../../智慧大师/skills/临济棒喝当下/SKILL.md)

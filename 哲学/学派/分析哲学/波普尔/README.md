@@ -22,14 +22,14 @@ cross-refs:
   - id: kuhn
     relation: 对照
 sub-entries:
-  - popper/concepts/falsificationism.md
+  - popper/concepts/证伪主义.md
   - popper/concepts/open-society.md
   - popper/concepts/three-worlds.md
   - popper/concepts/corroboration.md
   - popper/concepts/historicism-critique.md
-  - popper/works.md
-  - popper/timeline.md
-  - popper/reading-list.md
+  - popper/著作.md
+  - popper/时间线.md
+  - popper/阅读.md
 ---
 
 # 波普尔 Karl Popper
@@ -75,7 +75,7 @@ sub-entries:
 
 ## 重要概念 / Key Concepts
 
-1. **证伪主义 / Falsificationism** → [falsificationism](concepts/falsificationism.md)
+1. **证伪主义 / Falsificationism** → [falsificationism](concepts/证伪主义.md)
 2. **开放社会 / Open Society** → [open-society](concepts/open-society.md)
 3. **三个世界 / Three Worlds** → [three-worlds](concepts/three-worlds.md)
 4. **确认度 / Corroboration** → [corroboration](concepts/corroboration.md)
@@ -155,11 +155,17 @@ Nagarjuna's Madhyamaka school adopts "refutation without establishment" — not 
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [falsificationism](concepts/falsificationism.md) | 证伪主义 / Falsificationism |
+| [falsificationism](concepts/证伪主义.md) | 证伪主义 / Falsificationism |
 | [open-society](concepts/open-society.md) | 开放社会 / Open Society |
 | [three-worlds](concepts/three-worlds.md) | 三个世界 / Three Worlds |
 | [corroboration](concepts/corroboration.md) | 确认度 / Corroboration |
 | [historicism-critique](concepts/historicism-critique.md) | 历史决定论批判 / Historicism Critique |
-| [works](works.md) | 著作导读 / Works guide |
-| [timeline](timeline.md) | 年表 / Timeline |
-| [reading-list](reading-list.md) | 进阶阅读 / Reading list |
+| [works](著作.md) | 著作导读 / Works guide |
+| [timeline](时间线.md) | 年表 / Timeline |
+| [reading-list](阅读.md) | 进阶阅读 / Reading list |
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [波普尔-黑天鹅与证伪](../../../../名言/科学理性/波普尔-黑天鹅与证伪.md)

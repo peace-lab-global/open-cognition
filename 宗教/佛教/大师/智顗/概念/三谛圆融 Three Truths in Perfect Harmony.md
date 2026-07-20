@@ -22,4 +22,4 @@ tags: [three-truths, empty-provisional-middle, Tiantai]
 智顗: 空谛 + 假谛 + 中谛（三谛）——中谛是对二谛关系的自觉
 
 ## 参见
-- [一念三千](one-thought-three-thousand.md) | [智顗](../README.md)
+- [一念三千](一念三千.md) | [智顗](../README.md)

@@ -79,8 +79,8 @@ key_works: [Self-Awareness and Alterity, Subjectivity and Selfhood, The Phenomen
 
 ## 跨学科关联
 
-- [默照的认知结构](../../../religion/buddhism/concepts/cognitive-theory/silent-illumination.md) `[平行]` 非对象化觉察
-- [五蕴的认知读法](../../../religion/buddhism/concepts/cognitive-theory/five-aggregates-cognitive.md) `[张力]` 最小自我 vs 无我
+- [默照的认知结构](../../../宗教/佛教/概念/cognitive-theory/默照的认知结构.md) `[平行]` 非对象化觉察
+- [五蕴的认知读法](../../../宗教/佛教/概念/cognitive-theory/五蕴的认知读法.md) `[张力]` 最小自我 vs 无我
 - [梅青格 Metzinger](metzinger.md) `[张力]` 前反思自身意识的实在性 vs 自我模型论
 - [汤普森 Thompson](thompson.md) `[同源]` 现象学与认知科学的对话
 

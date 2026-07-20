@@ -21,12 +21,12 @@ cross-refs:
 children:
   - concepts/capability-approach.md
   - concepts/entitlement-theory.md
-  - concepts/development-as-freedom.md
+  - concepts/development-as-自由.md
   - concepts/social-choice.md
   - concepts/identity-and-violence.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 森 · Amartya Sen
@@ -81,7 +81,7 @@ children:
 |---|---|
 | [concepts/capability-approach.md](concepts/capability-approach.md) | 能力进路 |
 | [concepts/entitlement-theory.md](concepts/entitlement-theory.md) | 权利方法 · 饥荒 |
-| [concepts/development-as-freedom.md](concepts/development-as-freedom.md) | 以自由看待发展 |
+| [concepts/development-as-自由.md](concepts/development-as-自由.md) | 以自由看待发展 |
 | [concepts/social-choice.md](concepts/social-choice.md) | 社会选择理论 |
 | [concepts/identity-and-violence.md](concepts/identity-and-violence.md) | 身份与暴力 |
-| [works.md](works.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md) |
+| [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

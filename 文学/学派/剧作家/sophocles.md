@@ -72,10 +72,10 @@ sources:
 
 ## 跨学科关联
 
-- [亚里士多德](../../../philosophy/schools/ancient-greek/aristotle.md) `[发展]` 《诗学》以索福克勒斯为悲剧典范，系统化"突转—发现—净化"理论
-- [柏拉图](../../../philosophy/schools/ancient-greek/plato.md) `[对立]` 对悲剧煽动激情的批判，反衬悲剧的认识论地位
+- [亚里士多德](../../../哲学/学派/古希腊/亚里士多德.md) `[发展]` 《诗学》以索福克勒斯为悲剧典范，系统化"突转—发现—净化"理论
+- [柏拉图](../../../哲学/学派/古希腊/柏拉图.md) `[对立]` 对悲剧煽动激情的批判，反衬悲剧的认识论地位
 - [悲剧](../../../aesthetics/concepts/tragedy.md) `[同源]` 悲剧美学的古典源头
-- [弗洛伊德](../../../psychology/schools/psychoanalysis/freud.md) `[应用]` 俄狄浦斯情结对无意识理论的命名
+- [弗洛伊德](../../../心理学/学派/精神分析/西格蒙德.md) `[应用]` 俄狄浦斯情结对无意识理论的命名
 
 ## 进阶阅读
 
@@ -94,4 +94,4 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析

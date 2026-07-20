@@ -35,12 +35,12 @@
 
 | 概念 | 路径 | 核心定义 |
 |---|---|---|
-| Safety-I vs Safety-II | `safety-paradigm.md` | 从"消除失败"到"确保成功"的范式转换 |
+| Safety-I vs Safety-II | `安全范式.md` | 从"消除失败"到"确保成功"的范式转换 |
 | 漂移进入失败 | `drift-into-failure.md` | 系统通过局部合理决策逐步走向灾难 |
 | 正常事故 | `normal-accidents.md` | 紧耦合+交互复杂性→事故不可避免 |
 | 安全文化与公正文化 | `safety-culture.md` | 组织对安全的价值观与公正问责 |
 | 自动化偏见 | `automation-bias.md` | 倾向于信任自动化输出而非矛盾的非自动化信息 |
-| 脱离回路 | `out-of-the-loop.md` | 自动化接管后操作者丧失态势感知 |
+| 脱离回路 | `脱离回路.md` | 自动化接管后操作者丧失态势感知 |
 | 社会技术系统 | `sociotechnical-system.md` | 技术与社会子系统必须联合优化 |
 | 生态界面设计 | `ecological-interface-design.md` | 界面应揭示工作领域的深层结构 |
 | 宏观认知 | `macrocognition.md` | 专家在真实复杂环境中的高级认知过程 |

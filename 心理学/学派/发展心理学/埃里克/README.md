@@ -44,13 +44,13 @@ cross-refs:
   - anna-freud
 sub-entries:
   - concepts/psychosocial-stages.md
-  - concepts/identity-crisis.md
-  - concepts/ego-integrity.md
-  - concepts/life-cycle.md
-  - concepts/generativity.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - concepts/同一性危机.md
+  - concepts/自我整合.md
+  - concepts/生命周期.md
+  - concepts/生成性.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 埃里克·埃里克森 · Erik Erikson
@@ -149,24 +149,24 @@ sub-entries:
 Eight stages, each with its psychosocial crisis and virtue: (1) Trust vs Mistrust → Hope; (2) Autonomy vs Shame/Doubt → Will; (3) Initiative vs Guilt → Purpose; (4) Industry vs Inferiority → Competence; (5) Identity vs Role Confusion → Fidelity; (6) Intimacy vs Isolation → Love; (7) Generativity vs Stagnation → Care; (8) Ego Integrity vs Despair → Wisdom. See → [psychosocial-stages](concepts/psychosocial-stages.md)
 
 ### 2. 同一性危机 / Identity Crisis
-青春期的核心发展任务——在多种角色和价值观的探索中形成连贯的自我认同。包括四种同一性状态：同一性达成、同一性延缓、同一性早闭和同一性扩散。详见 → [identity-crisis](concepts/identity-crisis.md)
+青春期的核心发展任务——在多种角色和价值观的探索中形成连贯的自我认同。包括四种同一性状态：同一性达成、同一性延缓、同一性早闭和同一性扩散。详见 → [identity-crisis](concepts/同一性危机.md)
 
-The central developmental task of adolescence — forming a coherent self-identity through exploration of multiple roles and values. Includes four identity statuses: identity achievement, moratorium, foreclosure, and diffusion. See → [identity-crisis](concepts/identity-crisis.md)
+The central developmental task of adolescence — forming a coherent self-identity through exploration of multiple roles and values. Includes four identity statuses: identity achievement, moratorium, foreclosure, and diffusion. See → [identity-crisis](concepts/同一性危机.md)
 
 ### 3. 自我整合 / Ego Integrity
-人生最后阶段的核心成就——对自我一生的接纳与肯定，产生智慧的美德，使人能够坦然面对生命的有限性。详见 → [ego-integrity](concepts/ego-integrity.md)
+人生最后阶段的核心成就——对自我一生的接纳与肯定，产生智慧的美德，使人能够坦然面对生命的有限性。详见 → [ego-integrity](concepts/自我整合.md)
 
-The core achievement of life's final stage — acceptance and affirmation of one's life as lived, producing the virtue of wisdom and enabling one to face life's finitude with equanimity. See → [ego-integrity](concepts/ego-integrity.md)
+The core achievement of life's final stage — acceptance and affirmation of one's life as lived, producing the virtue of wisdom and enabling one to face life's finitude with equanimity. See → [ego-integrity](concepts/自我整合.md)
 
 ### 4. 生命周期 / Life Cycle
-埃里克森将人的发展理解为从出生到死亡的完整循环——每个阶段都建立在前一阶段的基础上，同时为后一阶段做准备。详见 → [life-cycle](concepts/life-cycle.md)
+埃里克森将人的发展理解为从出生到死亡的完整循环——每个阶段都建立在前一阶段的基础上，同时为后一阶段做准备。详见 → [life-cycle](concepts/生命周期.md)
 
-Erikson understood human development as a complete cycle from birth to death — each stage builds on the previous and prepares for the next. See → [life-cycle](concepts/life-cycle.md)
+Erikson understood human development as a complete cycle from birth to death — each stage builds on the previous and prepares for the next. See → [life-cycle](concepts/生命周期.md)
 
 ### 5. 生成性 / Generativity
-成年中期的核心危机——个体通过关怀下一代、创造性工作和社会参与来实现生命的延续意义。详见 → [generativity](concepts/generativity.md)
+成年中期的核心危机——个体通过关怀下一代、创造性工作和社会参与来实现生命的延续意义。详见 → [generativity](concepts/生成性.md)
 
-The central crisis of middle adulthood — realizing life's continuity through caring for the next generation, creative work, and social engagement. See → [generativity](concepts/generativity.md)
+The central crisis of middle adulthood — realizing life's continuity through caring for the next generation, creative work, and social engagement. See → [generativity](concepts/生成性.md)
 
 ### 6. 心理社会合法延缓期 / Psychosocial Moratorium
 **中文**：埃里克森提出，社会为青年提供了一段"合法延缓期"（moratorium）——一个被社会允许的自由探索时期，在此期间个体可以尝试不同的角色、身份和生活方式，而不必立即做出永久性的承诺。这一概念源自法律术语"延缓"（moratorium），意指暂缓执行。在现代社会中，大学教育、间隔年（gap year）、实习期等都可以被视为合法延缓期的制度化形式。
@@ -358,9 +358,9 @@ The central crisis of middle adulthood — realizing life's continuity through c
 - 埃里克森《生命周期的完成》，中国人民大学出版社
 
 ### 相关资源 / Related Resources
-- → [著作年表](works.md) / [Works Chronology](works.md)
-- → [生平年表](timeline.md) / [Life Timeline](timeline.md)
-- → [推荐阅读](reading-list.md) / [Reading List](reading-list.md)
+- → [著作年表](著作.md) / [Works Chronology](著作.md)
+- → [生平年表](时间线.md) / [Life Timeline](时间线.md)
+- → [推荐阅读](阅读.md) / [Reading List](阅读.md)
 
 ---
 
@@ -369,10 +369,10 @@ The central crisis of middle adulthood — realizing life's continuity through c
 | 子条目 / Sub-entry | 类型 / Type | 描述 / Description |
 |------|------|------|
 | [心理社会发展八阶段](concepts/psychosocial-stages.md) | 概念 / Concept | 八阶段理论的系统阐述 / Systematic exposition of the eight-stage theory |
-| [同一性危机](concepts/identity-crisis.md) | 概念 / Concept | 同一性形成过程与四种状态 / Identity formation and four statuses |
-| [自我整合](concepts/ego-integrity.md) | 概念 / Concept | 老年期的核心发展任务 / Core developmental task of old age |
-| [生命周期](concepts/life-cycle.md) | 概念 / Concept | 从出生到死亡的完整发展循环 / Complete developmental cycle from birth to death |
-| [生成性](concepts/generativity.md) | 概念 / Concept | 成年中期的核心危机与美德 / Central crisis and virtue of middle adulthood |
-| [著作年表](works.md) | 著作 / Works | 主要著作与贡献 / Major publications and contributions |
-| [生平年表](timeline.md) | 年表 / Timeline | 生平大事记 / Chronological life events |
-| [推荐阅读](reading-list.md) | 阅读 / Reading | 分级阅读指南 / Graded reading guide |
+| [同一性危机](concepts/同一性危机.md) | 概念 / Concept | 同一性形成过程与四种状态 / Identity formation and four statuses |
+| [自我整合](concepts/自我整合.md) | 概念 / Concept | 老年期的核心发展任务 / Core developmental task of old age |
+| [生命周期](concepts/生命周期.md) | 概念 / Concept | 从出生到死亡的完整发展循环 / Complete developmental cycle from birth to death |
+| [生成性](concepts/生成性.md) | 概念 / Concept | 成年中期的核心危机与美德 / Central crisis and virtue of middle adulthood |
+| [著作年表](著作.md) | 著作 / Works | 主要著作与贡献 / Major publications and contributions |
+| [生平年表](时间线.md) | 年表 / Timeline | 生平大事记 / Chronological life events |
+| [推荐阅读](阅读.md) | 阅读 / Reading | 分级阅读指南 / Graded reading guide |

@@ -163,4 +163,4 @@ Spiritual songs demonstrate poetry's unique capacity to express inexpressible sp
 
 - **返回**: [密勒日巴 Milarepa](../README.md)
 - **相关概念**: [大手印 Mahamudra](mahamudra.md) | [苦行转化 Ascetic Transformation](ascetic-transformation.md)
-- **著作**: [works.md](../works.md)
+- **著作**: [著作.md](../著作.md)

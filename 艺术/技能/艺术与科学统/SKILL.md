@@ -5,7 +5,7 @@ domain: 艺术
 linked_thinker: ../../schools/visual-arts/leonardo-da-vinci.md
 linked_concepts:
   - ../../艺术/概念/art-science-unity.md
-  - ../../艺术/概念/creativity.md
+  - ../../艺术/概念/创造力.md
 tags:
   - 艺术与科学
   - 跨学科思维
@@ -36,7 +36,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[莱昂纳多·达芬奇](../../schools/visual-arts/leonardo-da-vinci.md)
-- 来源概念：[艺术与科学统一](../../concepts/art-science-unity.md)、[创造力](../../concepts/creativity.md)
+- 来源概念：[艺术与科学统一](../../concepts/art-science-unity.md)、[创造力](../../../心理学/学派/积极心理学/米哈里/概念/创造力.md)
 - 关键文献：《达芬奇手稿》、《论绘画》
 
 ## 操作流程
@@ -100,5 +100,5 @@ tags:
 ## 关联条目
 
 - 思想家：[莱昂纳多·达芬奇](../../schools/visual-arts/leonardo-da-vinci.md)
-- 概念：[艺术与科学统一](../../concepts/art-science-unity.md)、[创造力](../../concepts/creativity.md)
-- 相关 Skill：[pragmatism-analysis](../../哲学/技能/实用主义分析/SKILL.md)、[methodological-doubt](../../哲学/技能/方法论怀疑/SKILL.md)
+- 概念：[艺术与科学统一](../../concepts/art-science-unity.md)、[创造力](../../../心理学/学派/积极心理学/米哈里/概念/创造力.md)
+- 相关 Skill：[pragmatism-analysis](../../../哲学/技能/实用主义分析/SKILL.md)、[methodological-doubt](../../../哲学/技能/方法论怀疑/SKILL.md)

@@ -16,9 +16,9 @@ sources:
   - Fodor, *The Mind Doesn't Work That Way* (2000)
   - Fodor, *LOT 2: The Language of Thought Revisited* (2008)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: dennett
     relation: 论敌

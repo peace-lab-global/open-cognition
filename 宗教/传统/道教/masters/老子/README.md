@@ -37,13 +37,13 @@ cross-refs:
   - liezi
 sub-entries:
   - concepts/dao-the-way.md
-  - concepts/wuwei.md
-  - concepts/ziran.md
-  - concepts/de-virtue.md
+  - concepts/无为.md
+  - concepts/自然.md
+  - concepts/de-德性.md
   - concepts/reversal.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 老子 · Laozi
@@ -81,9 +81,9 @@ Laozi is **the first Chinese thinker to systematically interrogate the relations
 
 ### 2. 无为而无不为（Wu-wei: Non-action yet Nothing is Left Undone）
 
-"道常无为而无不为。"（第37章）——最高的行动方式是不强为、不妄为，顺应事物的自然趋势，反而能成就一切。无为不是消极怠惰，而是以最小干预达到最大效果的最高行动哲学。详见 [无为 / Wu-wei](concepts/wuwei.md)。
+"道常无为而无不为。"（第37章）——最高的行动方式是不强为、不妄为，顺应事物的自然趋势，反而能成就一切。无为不是消极怠惰，而是以最小干预达到最大效果的最高行动哲学。详见 [无为 / Wu-wei](concepts/无为.md)。
 
-"The Dao is ever non-active, yet nothing is left undone" (Ch. 37) — The highest form of action is non-interference with natural tendencies. Wu-wei is not passivity but the most efficient 哲学 of action. See [Wu-wei](concepts/wuwei.md).
+"The Dao is ever non-active, yet nothing is left undone" (Ch. 37) — The highest form of action is non-interference with natural tendencies. Wu-wei is not passivity but the most efficient 哲学 of action. See [Wu-wei](concepts/无为.md).
 
 ### 3. 反者道之动（Reversal is the Movement of Dao）
 
@@ -93,9 +93,9 @@ Laozi is **the first Chinese thinker to systematically interrogate the relations
 
 ### 4. 道法自然（Dao Follows Its Own Nature）
 
-"人法地，地法天，天法道，道法自然。"（第25章）——自然是最高价值，不是指自然界（nature），而是"自己如此"（self-so）的状态。万物应顺其本性，不被外力扭曲。详见 [自然 / Ziran](concepts/ziran.md)。
+"人法地，地法天，天法道，道法自然。"（第25章）——自然是最高价值，不是指自然界（nature），而是"自己如此"（self-so）的状态。万物应顺其本性，不被外力扭曲。详见 [自然 / Ziran](concepts/自然.md)。
 
-"Humans follow the earth, the earth follows heaven, heaven follows Dao, Dao follows its own nature" (Ch. 25) — Ziran (self-so) is the highest value: not "nature" in the environmental sense, but the state of being "so of itself." See [Ziran](concepts/ziran.md).
+"Humans follow the earth, the earth follows heaven, heaven follows Dao, Dao follows its own nature" (Ch. 25) — Ziran (self-so) is the highest value: not "nature" in the environmental sense, but the state of being "so of itself." See [Ziran](concepts/自然.md).
 
 ### 5. 道生万物（Dao Generates All Things）
 
@@ -125,9 +125,9 @@ The Dao Jing establishes the metaphysical framework of Laozi's thought. The cent
 
 ### 德经（38–81章）：伦理与政治 / De Jing: Ethics and Politics
 
-德经将道的原理应用于人间秩序。核心概念是"德"——道在万物中的具体显现。最高的德是"上德不德"——不刻意追求德行的自然之德。政治上主张"无为而治"：最好的统治者让人民感觉不到他的存在（"太上，不知有之"）。详见 [德 / De-Virtue](concepts/de-virtue.md)。
+德经将道的原理应用于人间秩序。核心概念是"德"——道在万物中的具体显现。最高的德是"上德不德"——不刻意追求德行的自然之德。政治上主张"无为而治"：最好的统治者让人民感觉不到他的存在（"太上，不知有之"）。详见 [德 / De-Virtue](concepts/de-德性.md)。
 
-The De Jing applies the principles of Dao to human order. The central concept is De (virtue/power) — the concrete manifestation of Dao in all things. The highest virtue is "superior virtue that does not consider itself virtue" — natural virtue that is not deliberately pursued. Politically, it advocates "governing through non-action." See [De / Virtue](concepts/de-virtue.md).
+The De Jing applies the principles of Dao to human order. The central concept is De (virtue/power) — the concrete manifestation of Dao in all things. The highest virtue is "superior virtue that does not consider itself virtue" — natural virtue that is not deliberately pursued. Politically, it advocates "governing through non-action." See [De / Virtue](concepts/de-德性.md).
 
 ### 文本流变 / Textual Evolution
 
@@ -143,9 +143,9 @@ The De Jing applies the principles of Dao to human order. The central concept is
 | 概念 / Concept | 拼音 / Pinyin | 核心含义 / Core Meaning | 子条目 / Sub-entry |
 |---|---|---|---|
 | **道** | Dào | 万物本源与法则；不可名状、先天地生 | [dao-the-way.md](concepts/dao-the-way.md) |
-| **德** | Dé | 道在万物中的具体显现；万物的本性和能力 | [de-virtue.md](concepts/de-virtue.md) |
-| **无为** | Wú-wéi | 不强为、不妄为；顺势而行的最高行动哲学 | [wuwei.md](concepts/wuwei.md) |
-| **自然** | Zìrán | 自己如此；事物的本然状态、最高价值 | [ziran.md](concepts/ziran.md) |
+| **德** | Dé | 道在万物中的具体显现；万物的本性和能力 | [de-德性.md](concepts/de-德性.md) |
+| **无为** | Wú-wéi | 不强为、不妄为；顺势而行的最高行动哲学 | [无为.md](concepts/无为.md) |
+| **自然** | Zìrán | 自己如此；事物的本然状态、最高价值 | [自然.md](concepts/自然.md) |
 | **反** | Fǎn | 道的运动方式：物极必反、反向相生 | [reversal.md](concepts/reversal.md) |
 
 ## 思想坐标 / Position in Intellectual History
@@ -206,7 +206,7 @@ Laozi directly influenced Zhuangzi, who radicalized the tradition into a 哲学 
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门 / Beginner
 - 《老子》第1、11、25、37、40、42、78章 — 核心章节
@@ -229,10 +229,19 @@ Laozi directly influenced Zhuangzi, who radicalized the tradition into a 哲学 
 | 子条目 / Sub-entry | 内容 / Content |
 |---|---|
 | [道 / Dao](concepts/dao-the-way.md) | 万物本源与法则——不可名状、先天地生 |
-| [无为 / Wu-wei](concepts/wuwei.md) | 不强为、不妄为——最高效的行动哲学 |
-| [自然 / Ziran](concepts/ziran.md) | 自己如此——事物的本然状态与最高价值 |
-| [德 / De-Virtue](concepts/de-virtue.md) | 道在万物中的具体显现——万物的本性与能力 |
+| [无为 / Wu-wei](concepts/无为.md) | 不强为、不妄为——最高效的行动哲学 |
+| [自然 / Ziran](concepts/自然.md) | 自己如此——事物的本然状态与最高价值 |
+| [德 / De-Virtue](concepts/de-德性.md) | 道在万物中的具体显现——万物的本性与能力 |
 | [反 / Reversal](concepts/reversal.md) | 反者道之动——道的运动方式与辩证法核心 |
-| [著作与版本](works.md) | 《道德经》版本流变与重要注疏 |
-| [年表](timeline.md) | 老子其人其书的思想年表 |
-| [进阶阅读](reading-list.md) | 系统阅读指南 |
+| [著作与版本](著作.md) | 《道德经》版本流变与重要注疏 |
+| [年表](时间线.md) | 老子其人其书的思想年表 |
+| [进阶阅读](阅读.md) | 系统阅读指南 |
+---
+
+## 相关名言
+
+本思想在 `名言/` 模块中的独立条目：
+
+- [上善若水](../../../../../名言/刚柔二元/老子-上善若水.md)
+- [知其雄，守其雌](../../../../../名言/刚柔二元/老子-知雄守雌.md)
+- [道可道，非常道；名可名，非常名](../../../../../名言/语言沉默/老子-道可道非常道.md)

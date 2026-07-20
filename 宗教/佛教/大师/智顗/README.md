@@ -44,7 +44,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 **A single moment of thought inherently contains all three thousand realms of existence. This is not idealism — mind does not create reality — but a holographic ontology in which every cognitive moment fully encompasses the totality of possible states.**
 
-详见 [一念三千](concepts/one-thought-three-thousand.md)。
+详见 [一念三千](concepts/一念三千.md)。
 
 ### 2. 三谛圆融 Three Truths in Perfect Fusion
 
@@ -52,7 +52,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 **Emptiness (all phenomena lack inherent nature), provisional positing (all phenomena are conventionally designated), and the Mean (transcending yet encompassing both) — three truths are not hierarchical but fused in every dharma simultaneously. This represents Zhiyi's creative extension of Nagarjuna's two-truths framework.**
 
-详见 [三谛圆融](concepts/three-truths.md)。
+详见 [三谛圆融](concepts/三谛.md)。
 
 ### 3. 五时八教 Classification of Teachings
 
@@ -234,7 +234,7 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 
 - **哲学**: [龙树](../nagarjuna/README.md) — 中观基础；[黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) — 辩证法平行；[怀特海](../../../哲学/schools/process/whitehead.md) — 过程哲学
 - **佛教内部**: [慧思](../nagarjuna/README.md) — 师承；[灌顶] — 首席弟子；[湛然] — 天台复兴者；[法藏](../fazang/README.md) — 华严宗对照
-- **学派**: [天台宗](../schools/tiantai.md) — 创始人
+- **学派**: [天台宗](../schools/天台.md) — 创始人
 - **认知科学**: 注意力训练、元认知、全息认知、分布式表征
 - **复杂性科学**: 涌现、自组织、全息原理
 
@@ -261,11 +261,11 @@ children: ["concepts/three-truths", "concepts/mohe-zhiguan", "concepts/classific
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [三谛圆融 Three Truths](concepts/three-truths.md) — 空假中的完美融合
+- [三谛圆融 Three Truths](concepts/三谛.md) — 空假中的完美融合
 - [摩诃止观 Mohe Zhiguan](concepts/mohe-zhiguan.md) — 大止观修行体系
 - [五时八教 Classification](concepts/classification-teachings.md) — 判教体系
-- [一念三千 One Thought 3000](concepts/one-thought-three-thousand.md) — 全息本体论
+- [一念三千 One Thought 3000](concepts/一念三千.md) — 全息本体论
 - [法华至上 Lotus Supremacy](concepts/lotus-supremacy.md) — 法华经的至高地位
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

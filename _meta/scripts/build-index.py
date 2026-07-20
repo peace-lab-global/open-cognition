@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-build-index.py — rebuild index.json by scanning domains/ and skills/.
+build-index.py — rebuild index.json by scanning Chinese domain directories.
 
 Usage:
-    python3 scripts/build-index.py          # write to index.json (default)
-    python3 scripts/build-index.py --check  # exit non-zero if stale
-    python3 scripts/build-index.py --out path/to/file.json
+    python3 _meta/scripts/build-index.py          # write to index.json (default)
+    python3 _meta/scripts/build-index.py --check  # exit non-zero if stale
+    python3 _meta/scripts/build-index.py --out path/to/file.json
 
 Output schema (per entry):
-    { path, id, title, type, domain, school?, tags? }
+    { path, id, title, type, domain, school?, tags?, channel?, category?, angle?, count? }
 
 Plus top-level `stats` and `skills` arrays.
 """
@@ -28,8 +28,10 @@ except ImportError:
     sys.exit("ERROR: pyyaml is required. Install with `pip install pyyaml`.")
 
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-DOMAINS_DIR = REPO_ROOT / "domains"
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+
+# Legacy skill directories (kept for backwards compatibility; current skills live
+# under each domain's 技能/ folder and are picked up by scan_entries).
 SKILLS_DIR = REPO_ROOT / "skills"
 BUDDHISM_SKILLS_DIR = (
     REPO_ROOT
@@ -42,6 +44,12 @@ BUDDHISM_SKILLS_DIR = (
 )
 
 SKIP_FILENAMES = {"README.md", "INDEX.md", "QUICKSTART.md", "SKILLS.md", "AGENT.md"}
+
+_DOMAIN_DIR_NAMES = [
+    "哲学", "宗教", "伦理政治", "心理学", "社会学", "美学",
+    "文学", "艺术", "认知系统", "清单", "研究",
+]
+_DOMAIN_DIRS = [REPO_ROOT / d for d in _DOMAIN_DIR_NAMES]
 VERSION = "v0.6"
 
 
@@ -65,57 +73,78 @@ def extract_frontmatter(path: Path) -> dict:
 def domain_from_path(path: Path) -> str:
     """Extract the top-level domain name from a file path."""
     rel = path.relative_to(REPO_ROOT).as_posix()
-    if rel.startswith("domains/"):
-        return rel.split("/")[1]
+    parts = rel.split("/")
+    if parts and parts[0] in _DOMAIN_DIR_NAMES:
+        return parts[0]
     return ""
 
 
 def classify_entry(path: Path) -> str | None:
-    """Determine entry type: thinker / concept / skill / None."""
+    """Determine entry type: thinker / concept / skill / list / None."""
     rel = path.relative_to(REPO_ROOT).as_posix()
-    # Reports/audit files dropped under domains/ are not entries — skip them.
-    if "/reports/" in rel:
+    # Reports/audit files are not entries — skip them.
+    if "/reports/" in rel or "/审计/" in rel or "/内容审计/" in rel:
         return None
-    if "/skills/" in rel and path.name == "SKILL.md":
+
+    # Prefer explicit type declared in frontmatter.
+    fm = extract_frontmatter(path)
+    known_types = {"thinker", "concept", "skill", "text", "tradition", "list", "redirect"}
+    fm_type = fm.get("type")
+    if fm_type in known_types:
+        return fm_type
+
+    # Path-based fallback (supports both legacy English and Chinese subdirs).
+    if ("/skills/" in rel or "/技能/" in rel) and path.name == "SKILL.md":
         return "skill"
-    if "/schools/" in rel:
+    if "/schools/" in rel or "/学派/" in rel:
         return "thinker"
-    if "/concepts/" in rel:
+    if "/concepts/" in rel or "/概念/" in rel:
         return "concept"
-    if "/masters/" in rel:
+    if "/masters/" in rel or "/智慧大师/" in rel:
         return "thinker"
-    if "/sutras/" in rel:
+    if "/sutras/" in rel or "/佛经/" in rel:
         return "text"
-    if "/core-concepts/" in rel:
+    if "/core-concepts/" in rel or "/核心概念/" in rel:
         return "concept"
-    if "/traditions/" in rel:
+    if "/traditions/" in rel or "/传统/" in rel:
         return "tradition"
     return None
 
 
 def scan_entries() -> list[dict]:
-    """Walk domains/ and extract entries."""
+    """Walk domain directories and extract entries."""
     entries = []
-    for path in sorted(DOMAINS_DIR.rglob("*.md")):
-        if path.name in SKIP_FILENAMES:
+    for domain_dir in _DOMAIN_DIRS:
+        if not domain_dir.exists():
             continue
-        entry_type = classify_entry(path)
-        if entry_type is None:
-            continue
-        fm = extract_frontmatter(path)
-        rel = path.relative_to(REPO_ROOT).as_posix()
-        entry = {
-            "path": rel,
-            "id": fm.get("id") or path.stem,
-            "title": fm.get("title") or fm.get("name") or path.stem,
-            "type": entry_type,
-            "domain": domain_from_path(path),
-        }
-        if fm.get("school"):
-            entry["school"] = fm["school"]
-        if fm.get("tags"):
-            entry["tags"] = fm["tags"]
-        entries.append(entry)
+        for path in sorted(domain_dir.rglob("*.md")):
+            if path.name in SKIP_FILENAMES:
+                continue
+            entry_type = classify_entry(path)
+            if entry_type is None:
+                continue
+            fm = extract_frontmatter(path)
+            rel = path.relative_to(REPO_ROOT).as_posix()
+            entry = {
+                "path": rel,
+                "id": fm.get("id") or path.stem,
+                "title": fm.get("title") or fm.get("name") or path.stem,
+                "type": entry_type,
+                "domain": domain_from_path(path),
+            }
+            if fm.get("school"):
+                entry["school"] = fm["school"]
+            if fm.get("tags"):
+                entry["tags"] = fm["tags"]
+            if fm.get("channel"):
+                entry["channel"] = fm["channel"]
+            if fm.get("category"):
+                entry["category"] = fm["category"]
+            if fm.get("angle"):
+                entry["angle"] = fm["angle"]
+            if fm.get("count") is not None:
+                entry["count"] = fm["count"]
+            entries.append(entry)
     return entries
 
 

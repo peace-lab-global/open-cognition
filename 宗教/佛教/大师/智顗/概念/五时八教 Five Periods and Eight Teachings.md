@@ -19,4 +19,4 @@ tags: [panjiao, doctrinal-classification, Tiantai, pedagogical]
 判教体系实质是对不同认知层次学习者的教学设计。
 
 ## 参见
-- [三谛圆融](three-truths.md) | [智顗](../README.md)
+- [三谛圆融](三谛.md) | [智顗](../README.md)

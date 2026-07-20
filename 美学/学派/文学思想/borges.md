@@ -69,10 +69,10 @@ sources:
 
 ## 跨学科关联
 
-- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言的界限与博尔赫斯对语言的迷宫式探索
+- [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) `[平行]` 语言的界限与博尔赫斯对语言的迷宫式探索
 - [莱布尼茨](../../../philosophy/schools/rationalism/leibniz.md) `[平行]` 可能世界理论与分岔时间
-- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[同源]` 梦与觉、真实与虚构的本体困惑，《特隆》与庄周梦遥相呼应
-- [康德](../../../philosophy/schools/german-idealism/kant.md) `[平行]` 现象与物自体的裂隙，现实可能是心智建构的隐喻
+- [庄子](../../../哲学/学派/东方哲学/zhuangzi.md) `[同源]` 梦与觉、真实与虚构的本体困惑，《特隆》与庄周梦遥相呼应
+- [康德](../../../哲学/学派/德国唯心论/康德.md) `[平行]` 现象与物自体的裂隙，现实可能是心智建构的隐喻
 - [德里达](../../../philosophy/schools/post-structuralism/derrida.md) `[平行]` 文本的无限延异与博尔赫斯的无穷图书馆
 
 ## 进阶阅读
@@ -91,4 +91,11 @@ sources:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [博尔赫斯-小径分岔的花园](../../../名言/命运偶然/博尔赫斯-小径分岔的花园.md)

@@ -9,7 +9,7 @@ tags: [无心, Wuxin, No-Mind, Mushin, 心性, 达摩禅法, Bodhidharma]
 parent: ../README.md
 related:
   - wall-gazing.md
-  - sudden-enlightenment.md
+  - 顿悟.md
 ---
 
 # 无心 Wuxin — No-Mind
@@ -131,5 +131,5 @@ Neuroscience 研究 shows that when DMN activity decreases, self-referential thi
 ## 参见 / See Also
 
 - [壁观 Wall-Gazing](wall-gazing.md) — 通向无心的修行方法 / The practice method leading to no-mind
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — 无心的瞬间实现 / The instantaneous realization of no-mind
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 无心的瞬间实现 / The instantaneous realization of no-mind
 - [菩提达摩 Bodhidharma](../README.md) — 无心思想的源头 / The source of no-mind thought

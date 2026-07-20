@@ -80,10 +80,10 @@ sources:
 
 ## 跨学科关联
 
-- [恩典与救赎](../../../religion/traditions/christianity/grace-redemption.md) `[互补]` 罪 / 赎罪的社会功能
+- [恩典与救赎](../../../宗教/传统/基督教/恩典与救赎.md) `[互补]` 罪 / 赎罪的社会功能
 - [神圣 The Sacred](../../../religion/concepts/sacred.md) `[同源]` 神圣社会学
-- [康德](../../../philosophy/schools/german-idealism/kant.md) `[发展]` 范畴的社会起源解释
-- [马斯洛 · 归属需要](../../../psychology/schools/humanistic/maslow.md) `[平行]` 团结与归属
+- [康德](../../../哲学/学派/德国唯心论/康德.md) `[发展]` 范畴的社会起源解释
+- [马斯洛 · 归属需要](../../../心理学/学派/人本主义/马斯洛.md) `[平行]` 团结与归属
 
 ## 进阶阅读
 
@@ -93,4 +93,4 @@ sources:
 
 ## 关联 Skills
 
-- [神圣-世俗辨析](../../../../religion/skills/sacred-profane-analysis/SKILL.md)
+- [神圣-世俗辨析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

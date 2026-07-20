@@ -9,11 +9,11 @@ key_work: The Birth of Tragedy (悲剧的诞生)
 domain: aesthetics
 tags: [尼采, 酒神日神, 悲剧的诞生, 权力意志, 悲剧美学]
 cross_refs:
-  - ../../../philosophy/schools/existentialism/nietzsche.md
+  - ../../../哲学/学派/存在主义/尼采.md
   - ../../../philosophy/schools/pessimism/schopenhauer.md
   - ../german-aesthetics/kant-aesthetics.md
   - ../german-aesthetics/hegel-aesthetics.md
-  - ../../concepts/aesthetic-experience.md
+  - ../../concepts/审美经验.md
 ---
 
 # 尼采美学 / Nietzsche's Aesthetics
@@ -96,4 +96,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [悲剧精神评估](../../skills/tragic-spirit-assessment/SKILL.md) — 日神与酒神分析框架
+- [悲剧精神评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 日神与酒神分析框架

@@ -7,12 +7,34 @@ school: chan-buddhism
 era: medieval
 birth: 709
 death: 788
-tags: [马祖道一, Mazu Daoyi, 洪州宗, Hongzhou, 即心是佛, 平常心是道, 非心非佛, 禅宗, Chan Buddhism]
-aliases: [马祖, Mazu, 道一禅师, Chan Master Daoyi, 大寂禅师, Master Daji]
+tags:
+- 马祖道一
+- Mazu Daoyi
+- 洪州宗
+- Hongzhou
+- 即心是佛
+- 平常心是道
+- 非心非佛
+- 禅宗
+- Chan Buddhism
+aliases:
+- 马祖
+- Mazu
+- 道一禅师
+- Chan Master Daoyi
+- 大寂禅师
+- Master Daji
 parent: ../mazu-daoyi.md
-children: [concepts/mind-is-buddha, concepts/ordinary-mind-way, concepts/neither-mind-nor-buddha, concepts/natural-authenticity, concepts/hongzhou-school, works, timeline, reading-list]
+children:
+- concepts/mind-is-buddha
+- concepts/ordinary-mind-way
+- concepts/neither-mind-nor-buddha
+- concepts/natural-authenticity
+- concepts/hongzhou-school
+- works
+- timeline
+- reading-list
 ---
-
 # 马祖道一 Mazu Daoyi (709-788)
 
 > "即心是佛，无心是道。"——马祖道一
@@ -80,7 +102,7 @@ During the Tianbao period (c. 742), Mazu arrived in Hongzhou, Jiangxi. He first 
 | 《古尊宿语录》卷一 | 语录 / Ancient records | 马祖示众法语 |
 | 《祖堂集》 | 早期灯录 / Early lamp record | 最早的马祖文献之一 |
 
-详见 [著作列表](works.md)。 / See [Works](works.md) for details.
+详见 [著作列表](著作.md)。 / See [Works](著作.md) for details.
 
 ---
 
@@ -181,7 +203,7 @@ Ordinary mind is not drifting with the current or indulging desires. It is "with
 - [南岳怀让 Huairang](../../masters/huairang.md) — [师承 teacher] 磨砖作镜 / Polishing a brick
 - [百丈怀海 Baizhang](baizhang-huaihai.md) — [弟子 disciple] 丛林清规 / Monastic regulations
 - [临济义玄 Linji](linji-yixuan.md) — [法脉后裔 lineage descendant] 临济宗 / Linji School
-- [老庄 Laozi & Zhuangzi](../../../traditions/taoism/masters/laozi.md) — [平行 parallel] 道法自然 / Dao following nature
+- [老庄 Laozi & Zhuangzi](../../../传统/道教/masters/老子.md) — [平行 parallel] 道法自然 / Dao following nature
 - [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 本真存在 / Authentic being
 
 ---
@@ -216,6 +238,6 @@ Ordinary mind is not drifting with the current or indulging desires. It is "with
 | 非心非佛 Neither Mind nor Buddha | [concepts/neither-mind-nor-buddha](concepts/neither-mind-nor-buddha.md) |
 | 随处任真 Natural Authenticity | [concepts/natural-authenticity](concepts/natural-authenticity.md) |
 | 洪州宗 Hongzhou School | [concepts/hongzhou-school](concepts/hongzhou-school.md) |
-| 著作列表 Works | [works](works.md) |
-| 年表 Timeline | [timeline](timeline.md) |
-| 阅读清单 Reading List | [reading-list](reading-list.md) |
+| 著作列表 Works | [works](著作.md) |
+| 年表 Timeline | [timeline](时间线.md) |
+| 阅读清单 Reading List | [reading-list](阅读.md) |

@@ -34,9 +34,9 @@ children:
   - concepts/tyranny-of-majority.md
   - concepts/feminism.md
   - concepts/freedom-of-expression.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 密尔 · John Stuart Mill
@@ -140,6 +140,6 @@ children:
 | [concepts/tyranny-of-majority.md](concepts/tyranny-of-majority.md) | 多数暴政 · 社会压迫 |
 | [concepts/feminism.md](concepts/feminism.md) | 女性解放 · 平等 |
 | [concepts/freedom-of-expression.md](concepts/freedom-of-expression.md) | 言论自由 · 意见市场 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |

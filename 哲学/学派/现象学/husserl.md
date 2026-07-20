@@ -114,12 +114,12 @@ Husserl's phenomenology is the central hub of 20th-century continental philosoph
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [海德格尔 · Martin Heidegger](../existentialism/heidegger.md) `[发展]` 以此在分析论取代先验主体性，将现象学存在论化
+- [海德格尔 · Martin Heidegger](../存在主义/海德格尔.md) `[发展]` 以此在分析论取代先验主体性，将现象学存在论化
 - [梅洛-庞蒂 · Maurice Merleau-Ponty](merleau-ponty.md) `[发展]` 以身体-主体取代纯粹意识，具身化现象学
-- [萨特 · Jean-Paul Sartre](../existentialism/sartre.md) `[发展]` 将意向性激进化为"意识即虚无"，存在主义现象学
-- [康德 · Immanuel Kant](../german-idealism/kant.md) `[平行]` 先验哲学传统，构造概念与先验统觉的类比
-- [认知科学 · 具身认知](../../../psychology/concepts/embodied-cognition.md) `[发展]` 现象学作为具身认知研究的哲学基础
-- [量论 · Pramāṇa](../../../religion/buddhism/concepts/cognitive-theory/pramana.md) `[平行]` 现象学直观与瑜伽现量的方法论呼应
+- [萨特 · Jean-Paul Sartre](../存在主义/萨特.md) `[发展]` 将意向性激进化为"意识即虚无"，存在主义现象学
+- [康德 · Immanuel Kant](../德国唯心论/康德.md) `[平行]` 先验哲学传统，构造概念与先验统觉的类比
+- [认知科学 · 具身认知](../../../认知系统/概念/生成认知.md) `[发展]` 现象学作为具身认知研究的哲学基础
+- [量论 · Pramāṇa](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量的方法论呼应
 
 ## 进阶阅读 / Further Reading
 
@@ -142,7 +142,7 @@ Husserl's phenomenology is the central hub of 20th-century continental philosoph
 
 ## 关联 Skills / Related Skills
 
-- [现象学还原](../../skills/phenomenological-reduction/SKILL.md)
+- [现象学还原](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
 - 意向性分析（Intentional Analysis）
 - 本质直观（Eidetic Variation）
 - 生活世界描述（Lifeworld Description）

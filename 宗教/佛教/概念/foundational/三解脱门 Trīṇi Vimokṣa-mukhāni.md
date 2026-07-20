@@ -44,9 +44,9 @@ sources: [《大智度论》, 《般若经》, 《瑜伽师地论》]
 
 ## 与相关概念的关系
 
-- [空性](sunyata.md) — [下位] 空解脱门
-- [三性](../concepts/cognitive-theory/three-natures.md) — [互补] 唯识的三门配合
-- [涅槃](nirvana.md) — [同源] 三门通向涅槃
+- [空性](空性 Śūnyatā.md) — [下位] 空解脱门
+- [三性](../cognitive-theory/三性.md) — [互补] 唯识的三门配合
+- [涅槃](../../大师/乔达摩/概念/涅槃.md) — [同源] 三门通向涅槃
 - [止观](samatha-vipasyana.md) — [同源] 三门是止观的内容
 
 ## 进阶阅读

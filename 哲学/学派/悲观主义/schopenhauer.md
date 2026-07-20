@@ -113,10 +113,10 @@ Schopenhauer saw himself as the true heir and completer of Kant's philosophy. He
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [康德 · Immanuel Kant](../german-idealism/kant.md) `[发展]` 继承物自体/现象区分，但将物自体等同于意志
-- [尼采 · Friedrich Nietzsche](../existentialism/nietzsche.md) `[发展/批判]` 早期师从叔本华，后以权力意志批判生存意志的否定性
-- [佛教四圣谛](../../../religion/traditions/buddhism/four-noble-truths.md) `[平行]` 苦谛（一切皆苦）与悲观主义；灭谛（灭苦）与否定意志的结构类比
-- [弗洛伊德 · Sigmund Freud](../../../psychology/schools/psychoanalysis/freud.md) `[平行]` 无意识驱力与意志作为物自体的概念呼应
+- [康德 · Immanuel Kant](../德国唯心论/康德.md) `[发展]` 继承物自体/现象区分，但将物自体等同于意志
+- [尼采 · Friedrich Nietzsche](../存在主义/尼采.md) `[发展/批判]` 早期师从叔本华，后以权力意志批判生存意志的否定性
+- [佛教四圣谛](../../../宗教/传统/佛教/四圣谛与八正道.md) `[平行]` 苦谛（一切皆苦）与悲观主义；灭谛（灭苦）与否定意志的结构类比
+- [弗洛伊德 · Sigmund Freud](../../../心理学/学派/精神分析/西格蒙德.md) `[平行]` 无意识驱力与意志作为物自体的概念呼应
 
 ## 进阶阅读 / Further Reading
 

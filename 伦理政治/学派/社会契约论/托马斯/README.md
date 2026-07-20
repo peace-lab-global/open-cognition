@@ -138,7 +138,7 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 | 1668 | *Leviathan* (Latin edition) | 《利维坦》（拉丁文版） | 修订与补充 / Revised and supplemented |
 | 1682 | *Behemoth* | 《比希莫特》 | 英国内战分析（去世后出版）/ Analysis of Civil War (posthumous) |
 
-详见 [著作年表](works.md)。See [Works](works.md) for full bibliography.
+详见 [著作年表](著作.md)。See [Works](著作.md) for full bibliography.
 
 ## 重要概念 / Key Concepts
 
@@ -146,7 +146,7 @@ After returning to England, Hobbes devoted himself to completing his philosophic
 
 2. **[利维坦](concepts/leviathan.md)** / **[Leviathan](concepts/leviathan.md)** — 通过社会契约创造的人造国家，拥有绝对权力的"会死的上帝"。The artificial state created through social contract, the "mortal god" wielding absolute power.
 
-3. **[社会契约](concepts/social-contract.md)** / **[Social Contract](concepts/social-contract.md)** — 个体间订立的绝对权利让渡协议，不可撤回。The irrevocable covenant among individuals to transfer all rights to a sovereign.
+3. **[社会契约](concepts/社会契约.md)** / **[Social Contract](concepts/社会契约.md)** — 个体间订立的绝对权利让渡协议，不可撤回。The irrevocable covenant among individuals to transfer all rights to a sovereign.
 
 4. **[一切人反对一切人的战争](concepts/bellum-omnium.md)** / **[Bellum Omnium](concepts/bellum-omnium.md)** — 自然状态的结构性特征，战争不是持续战斗而是持续的战争意愿。The structural feature of the state of nature — war is not constant fighting but constant disposition to fight.
 
@@ -236,15 +236,15 @@ Han Feizi's Legalist thought comes even closer to Hobbes: both emphasize *shi* (
 - 慈继伟《改革时代的道德中国》中对霍布斯式困境的讨论
 - 吴增定《利维坦的道德困境》中对霍布斯伦理学的专题研究
 
-详见 [阅读指南](reading-list.md)。See [Reading List](reading-list.md) for detailed guide.
+详见 [阅读指南](阅读.md)。See [Reading List](阅读.md) for detailed guide.
 
 ## 子条目索引 / Sub-entry Index
 
 - [自然状态 / State of Nature](concepts/state-of-nature.md)
 - [利维坦 / Leviathan](concepts/leviathan.md)
-- [社会契约 / Social Contract](concepts/social-contract.md)
+- [社会契约 / Social Contract](concepts/社会契约.md)
 - [一切人反对一切人的战争 / Bellum Omnium](concepts/bellum-omnium.md)
 - [主权 / Sovereignty](concepts/sovereignty.md)
-- [著作年表 / Works](works.md)
-- [生平大事记 / Timeline](timeline.md)
-- [阅读指南 / Reading List](reading-list.md)
+- [著作年表 / Works](著作.md)
+- [生平大事记 / Timeline](时间线.md)
+- [阅读指南 / Reading List](阅读.md)

@@ -22,9 +22,9 @@ cross-refs:
     relation: 平行
 children:
   - concepts/
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 米卡·恩兹利 / Mica Endsley

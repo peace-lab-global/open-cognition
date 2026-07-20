@@ -74,9 +74,9 @@ sources:
 
 ## 跨学科关联
 
-- [亚里士多德](../../../philosophy/schools/ancient-greek/aristotle.md) `[平行]` 经验观察作为知识的首要来源
-- [梅洛-庞蒂](../../../philosophy/schools/phenomenology/merleau-ponty.md) `[平行]` 身体感知与视觉经验的哲学化
-- [康德美学](../german-aesthetics/kant-aesthetics.md) `[互补]` 达·芬奇的实践观察补充了康德的理论分析
+- [亚里士多德](../../../哲学/学派/古希腊/亚里士多德.md) `[平行]` 经验观察作为知识的首要来源
+- [梅洛-庞蒂](../../../哲学/学派/现象学/merleau-ponty.md) `[平行]` 身体感知与视觉经验的哲学化
+- [康德美学](../德国美学/kant-aesthetics.md) `[互补]` 达·芬奇的实践观察补充了康德的理论分析
 - [笛卡尔](../../../philosophy/schools/rationalism/descartes.md) `[平行]` 方法论的精确观察与数学化自然观
 
 ## 进阶阅读
@@ -95,4 +95,4 @@ sources:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/art-criticism-framework/SKILL.md)
+- [艺术批评框架](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

@@ -19,9 +19,9 @@ children:
   - concepts/emotions-as-judgments.md
   - concepts/cosmopolitanism.md
   - concepts/disability-justice.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 纳斯鲍姆 · Martha Nussbaum
@@ -61,4 +61,4 @@ children:
 | [concepts/emotions-as-judgments.md](concepts/emotions-as-judgments.md) | 情感即判断 |
 | [concepts/cosmopolitanism.md](concepts/cosmopolitanism.md) | 世界主义 |
 | [concepts/disability-justice.md](concepts/disability-justice.md) | 残疾人正义 |
-| [works.md](works.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md) |
+| [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

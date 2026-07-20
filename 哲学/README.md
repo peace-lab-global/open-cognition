@@ -123,8 +123,8 @@
 
 ## 跨学派核心概念
 
-- [辩证法 Dialectics](concepts/dialectics.md)
-- [认识论 Epistemology](concepts/epistemology.md)
+- [辩证法 Dialectics](concepts/辩证法.md)
+- [认识论 Epistemology](concepts/认识论.md)
 - [存在 Being](concepts/being.md)
 
 ## 跨传统比较

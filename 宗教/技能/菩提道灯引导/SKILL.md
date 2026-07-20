@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[阿底峡](../../wisdom-masters/masters/tibet/atisha.md)
 - 概念：[菩提心](../../concepts/bodhicitta.md)、[三士道](../../concepts/three-scope-path.md)
-- 相关 Skill：[lamrim-stages](./lamrim-stages/SKILL.md)、[four-noble-truths-framework](./four-noble-truths-framework/SKILL.md)
+- 相关 Skill：[lamrim-stages](../../佛教/技能/从前五识/SKILL.md)、[four-noble-truths-framework](../../佛教/技能/从前五识/SKILL.md)

@@ -11,7 +11,7 @@ tags: [认知发展, 建构主义, 发展阶段, 图式, 同化顺应, 发生认
 aliases: [让·皮亚杰, Jean Piaget, 皮亚杰]
 sources: [The Origins of Intelligence in Children, The Construction of Reality in the Child, The Language and Thought of the Child, Genetic Epistemology, The Psychology of Intelligence]
 cross-refs: [vygotsky, erikson, bowlby, bruner, freud, bandura, kohlberg, chomsky]
-sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md, schema.md, genetic-epistemology.md]
+sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md, schema.md, genetic-认识论.md]
 ---
 
 # 皮亚杰 · Jean Piaget (发展心理学)
@@ -114,7 +114,7 @@ In his later years, Piaget devoted himself to elevating his lifetime of empirica
 
 4. **图式 / Schema** — 认知结构的基本功能单位，是个体感知、理解和作用于世界的可重复模式。→ [详见 schema.md](concepts/schema.md) / The basic functional unit of cognitive structure; a repeatable pattern of perceiving, understanding, and acting upon the world.
 
-5. **发生认识论 / Genetic Epistemology** — 通过研究知识在个体发展中的发生过程来回答认识论问题的跨学科方法。→ [详见 genetic-epistemology.md](concepts/genetic-epistemology.md) / An interdisciplinary approach that answers epistemological questions by studying the genesis of knowledge in individual development.
+5. **发生认识论 / Genetic Epistemology** — 通过研究知识在个体发展中的发生过程来回答认识论问题的跨学科方法。→ [详见 genetic-认识论.md](concepts/genetic-认识论.md) / An interdisciplinary approach that answers epistemological questions by studying the genesis of knowledge in individual development.
 
 6. **平衡化 / Equilibration** — 推动认知发展的根本动力机制，是同化与顺应之间的动态平衡过程。当现有图式无法同化新刺激时，产生认知失衡（disequilibrium），驱动顺应和新的平衡。
 
@@ -219,7 +219,7 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 
 | 关联方向 / Connection | 思想家/领域 / Thinker/Field | 关系 / Relationship |
 |:---|:---|:---|
-| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](vygotsky.md) | 互补性批判：社会文化中介与最近发展区 / Complementary critique: sociocultural mediation and the zone of proximal development |
+| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](列夫.md) | 互补性批判：社会文化中介与最近发展区 / Complementary critique: sociocultural mediation and the zone of proximal development |
 | 心理社会发展 / Psychosocial Development | [埃里克森 Erikson](erikson.md) | 互补：认知发展与心理社会发展的阶段平行论 / Complementary: parallel stages of cognitive and psychosocial development |
 | 依恋理论 / Attachment Theory | [鲍尔比 Bowlby](bowlby.md) | 对话：早期关系对认知发展的情感基础 / Dialogue: emotional foundations of early relationships for cognitive development |
 | 道德发展 / Moral Development | [科尔伯格 Kohlberg](../../cognitive/kohlberg.md) | 直接继承：从他律/自律道德到道德推理六阶段 / Direct inheritance: from heteronomous/autonomous morality to six stages of moral reasoning |
@@ -256,9 +256,9 @@ Piaget's schema concept — schemas are essentially "structures of action" — r
 | 同化与顺应 / Assimilation & Accommodation | 认知适应的双重机制 / Dual mechanisms of cognitive adaptation | [concepts/assimilation-accommodation.md](concepts/assimilation-accommodation.md) |
 | 认知发展阶段 / Developmental Stages | 四阶段理论的详细论述 / Detailed exposition of the four-stage theory | [concepts/stages.md](concepts/stages.md) |
 | 图式 / Schema | 认知结构的基本功能单位 / Basic functional unit of cognitive structure | [concepts/schema.md](concepts/schema.md) |
-| 发生认识论 / Genetic Epistemology | 知识发生学的跨学科方法 / Interdisciplinary approach to the genesis of knowledge | [concepts/genetic-epistemology.md](concepts/genetic-epistemology.md) |
+| 发生认识论 / Genetic Epistemology | 知识发生学的跨学科方法 / Interdisciplinary approach to the genesis of knowledge | [concepts/genetic-认识论.md](concepts/genetic-认识论.md) |
 
 ### 附属文件 / Supplementary Files
-- [著作年表 / Works Chronology](works.md)
-- [生平年表 / Life Timeline](timeline.md)
-- [推荐阅读 / Reading List](reading-list.md)
+- [著作年表 / Works Chronology](著作.md)
+- [生平年表 / Life Timeline](时间线.md)
+- [推荐阅读 / Reading List](阅读.md)

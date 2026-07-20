@@ -80,10 +80,10 @@ sources: [《十地经论》（世亲著，菩提流支/勒那摩提译）]
 
 ## 与其他宗派的关系
 
-- [华严宗](huayan.md) — [继承] 南道地论 → 华严宗
+- [华严宗](华严.md) — [继承] 南道地论 → 华严宗
 - [法相唯识宗](faxiang.md) — [继承] 北道地论 → 法相宗
-- [唯识学派](yogacara.md) — [发展] 唯识学的早期中国化
-- [天台宗](tiantai.md) — [互补] 南北地论与天台的对话
+- [唯识学派](../概念/foundational/唯识 Vijñaptimātratā.md) — [发展] 唯识学的早期中国化
+- [天台宗](天台.md) — [互补] 南北地论与天台的对话
 
 ## 代表思想家
 
@@ -108,7 +108,7 @@ sources: [《十地经论》（世亲著，菩提流支/勒那摩提译）]
 ## 跨学科关联
 
 - [华严经](../treatises/avatamsaka.md) — [同源] 十地品
-- [如来藏](../concepts/foundational/tathagatagarbha.md) — [同源] 南道的核心
+- [如来藏](../概念/foundational/如来藏 Tathāgatagarbha.md) — [同源] 南道的核心
 - [无著·世亲](../masters/asanga-vasubandhu.md) — [继承] 世亲的《十地经论》
 
 ## 进阶阅读

@@ -30,13 +30,13 @@ sources:
   - SEP, "David Hume"
 children:
   - concepts/impressions-ideas.md
-  - concepts/causation.md
+  - concepts/因果.md
   - concepts/is-ought.md
   - concepts/moral-sentiment.md
   - concepts/skepticism.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: locke
     relation: 承接
@@ -81,7 +81,7 @@ cross-refs:
 
 ### 2. 因果关系批判 / Critique of Causation
 
-因果关系不是事物间的客观必然联系 (necessary connection)，而是心灵在反复观察"恒常结合" (constant conjunction) 之后形成的习惯性联想 (custom/habit)。我们无法理性地证明"太阳明天一定会升起"。详见 [concepts/causation.md](concepts/causation.md)。
+因果关系不是事物间的客观必然联系 (necessary connection)，而是心灵在反复观察"恒常结合" (constant conjunction) 之后形成的习惯性联想 (custom/habit)。我们无法理性地证明"太阳明天一定会升起"。详见 [concepts/因果.md](concepts/因果.md)。
 
 ### 3. 是—应当问题 / Hume's Guillotine (Is-Ought Problem)
 
@@ -101,7 +101,7 @@ cross-refs:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 早期 (1734-1740)：法国旅居与《人性论》的诞生
 
@@ -120,19 +120,19 @@ cross-refs:
 | 概念 | 英文 | 核心含义 | 子条目 |
 |---|---|---|---|
 | **印象与观念** | Impressions and Ideas | 一切观念都是印象的摹本 (Copy Principle) | [impressions-ideas.md](concepts/impressions-ideas.md) |
-| **因果关系** | Causation | 恒常结合 + 习惯性联想，非客观必然联系 | [causation.md](concepts/causation.md) |
+| **因果关系** | Causation | 恒常结合 + 习惯性联想，非客观必然联系 | [因果.md](concepts/因果.md) |
 | **是—应当问题** | Is-Ought Problem | 事实判断不能推出价值判断 (Hume's Guillotine) | [is-ought.md](concepts/is-ought.md) |
 | **道德情感** | Moral Sentiment | 善恶源于情感而非理性，同情为核心机制 | [moral-sentiment.md](concepts/moral-sentiment.md) |
 | **温和怀疑论** | Mitigated Skepticism | 哲学上不可反驳，生活中由自然拯救 | [skepticism.md](concepts/skepticism.md) |
 | **休谟叉** | Hume's Fork | 观念关系 vs 事实问题的截然二分 | [skepticism.md](concepts/skepticism.md) |
 | **自我束论** | Bundle Theory of Self | 自我是一束知觉 (bundle of perceptions)，非实体 | — |
 | **同情** | Sympathy | 情感传导机制，道德判断的心理基础 | [moral-sentiment.md](concepts/moral-sentiment.md) |
-| **习惯/习俗** | Custom / Habit | 一切经验推断的最终原则，非理性之原则 | [causation.md](concepts/causation.md) |
+| **习惯/习俗** | Custom / Habit | 一切经验推断的最终原则，非理性之原则 | [因果.md](concepts/因果.md) |
 | **信念** | Belief | 与印象相联系的生动观念，区别于纯粹虚构 | [skepticism.md](concepts/skepticism.md) |
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 哲学核心
 
@@ -188,9 +188,9 @@ cross-refs:
 
 ### 哲学
 
-- [洛克 · 经验论](../empiricism/locke.md) `[承接]` 休谟将洛克的经验论原则推向逻辑极端
+- [洛克 · 经验论](../empiricism/约翰.md) `[承接]` 休谟将洛克的经验论原则推向逻辑极端
 - [贝克莱 · 主观唯心论](../empiricism/berkeley.md) `[承接]` 休谟接受贝克莱对物质实体的批判，但进一步否认精神实体
-- [康德 · 先验哲学](../german-idealism/kant.md) `[对立]` 康德用先天范畴 (a priori categories) 回应休谟的怀疑论挑战，声称休谟"将他从独断论的迷梦中惊醒"
+- [康德 · 先验哲学](../german-idealism/康德.md) `[对立]` 康德用先天范畴 (a priori categories) 回应休谟的怀疑论挑战，声称休谟"将他从独断论的迷梦中惊醒"
 - [边沁 · 功利主义](../../../伦理政治/学派/结果主义/边沁.md) `[发展]` 休谟的情感主义道德论为功利主义提供心理学前设
 
 ### 心理学与认知科学
@@ -209,7 +209,7 @@ cross-refs:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 
@@ -240,10 +240,16 @@ cross-refs:
 | 子条目 | 内容 |
 |---|---|
 | [concepts/impressions-ideas.md](concepts/impressions-ideas.md) | 印象与观念 — 摹本原则 (Copy Principle) 与知觉的分类 |
-| [concepts/causation.md](concepts/causation.md) | 因果关系 — 恒常结合、习惯性联想与必然联系的批判 |
+| [concepts/因果.md](concepts/因果.md) | 因果关系 — 恒常结合、习惯性联想与必然联系的批判 |
 | [concepts/is-ought.md](concepts/is-ought.md) | 是—应当问题 — 休谟铡刀与事实-价值的二分 |
 | [concepts/moral-sentiment.md](concepts/moral-sentiment.md) | 道德情感论 — 同情、公正旁观者与功利 |
 | [concepts/skepticism.md](concepts/skepticism.md) | 温和怀疑论 — 怀疑论与自然主义的张力、休谟叉 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [休谟-习惯是人生的伟大指南](../../../../名言/怀疑方法/休谟-习惯是人生的伟大指南.md)

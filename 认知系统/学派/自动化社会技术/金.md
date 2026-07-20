@@ -107,8 +107,8 @@ Vicente (CWA 系统化)
 - **分布式认知**：Hutchins 的分布式认知与维森特的社会组织分析相互呼应
 - **活动理论**：社会技术系统视角与活动理论对工具中介性的关注有共鸣
 - **拉图尔行动者网络**：社会技术系统中人与非人行动者的对称性
-- [拉斯穆森 Rasmussen](../cognitive-engineering/rasmussen.md) `[继承]` CWA框架直接继承自Rasmussen的认知工作分析方法
-- [哈钦斯 Hutchins](../distributed/hutchins.md) `[互补]` 分布式认知与CWA的社会组织分析相互呼应
+- [拉斯穆森 Rasmussen](../认知工程/rasmussen.md) `[继承]` CWA框架直接继承自Rasmussen的认知工作分析方法
+- [哈钦斯 Hutchins](../分布式认知/哈钦斯.md) `[互补]` 分布式认知与CWA的社会组织分析相互呼应
 
 ## 进阶阅读
 
@@ -118,4 +118,4 @@ Vicente (CWA 系统化)
 
 ## 关联 Skills
 
-- [自动化水平评估](../../skills/automation-level-assessment/SKILL.md)：CWA 为自动化评估提供工作域分析基础
+- [自动化水平评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)：CWA 为自动化评估提供工作域分析基础

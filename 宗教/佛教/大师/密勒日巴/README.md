@@ -216,6 +216,6 @@ Milarepa's song tradition influenced later Tibetan Buddhist literature, music, t
 ## 进阶导航 Navigation
 
 - **概念 Concepts**: [大手印 Mahamudra](concepts/mahamudra.md) | [拙火 Tummo](concepts/tummo.md) | [道歌 Spiritual Songs](concepts/spiritual-songs.md) | [苦行转化 Ascetic Transformation](concepts/ascetic-transformation.md) | [那洛六法 Six Yogas](concepts/six-yogas-naropa.md)
-- **著作 Works**: [works.md](works.md)
-- **年表 Timeline**: [timeline.md](timeline.md)
-- **阅读书目 Reading List**: [reading-list.md](reading-list.md)
+- **著作 Works**: [著作.md](著作.md)
+- **年表 Timeline**: [时间线.md](时间线.md)
+- **阅读书目 Reading List**: [阅读.md](阅读.md)

@@ -16,9 +16,9 @@ sources:
   - Dennett, *Freedom Evolves* (2003)
   - Dennett, *Breaking the Spell* (2006)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: mcginn
     relation: 论敌

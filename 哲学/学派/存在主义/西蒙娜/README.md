@@ -48,11 +48,11 @@ children:
   - concepts/other.md
   - concepts/gender-construction.md
   - concepts/ambiguity.md
-  - concepts/situated-freedom.md
+  - concepts/situated-自由.md
   - concepts/oppression.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 related-comparative:
   - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
@@ -101,7 +101,7 @@ related-comparative:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 早期（1908-1943）：哲学训练与存在主义圈
 
@@ -134,12 +134,12 @@ related-comparative:
 | **他者** | l'Autre | 女性在父权中被建构为男性主体的对立面与否定 | [concepts/other.md](concepts/other.md) |
 | **性别建构** | devenir femme | "成为女人"是一个持续的文明塑造过程 | [concepts/gender-construction.md](concepts/gender-construction.md) |
 | **模糊性** | l'ambiguite | 存在既有自由又有限定，是核心处境而非缺陷 | [concepts/ambiguity.md](concepts/ambiguity.md) |
-| **情境自由** | liberte situee | 自由总在具体历史、身体、社会条件中实现 | [concepts/situated-freedom.md](concepts/situated-freedom.md) |
+| **情境自由** | liberte situee | 自由总在具体历史、身体、社会条件中实现 | [concepts/situated-自由.md](concepts/situated-自由.md) |
 | **压迫** | l'oppression | 女性在政治、经济、心理、身体各维度的系统性压迫 | [concepts/oppression.md](concepts/oppression.md) |
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 哲学著作（必读）
 - **《第二性》**（Le Deuxieme Sexe, 1949）-- 女性主义哲学的基石
@@ -199,7 +199,7 @@ related-comparative:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 - 《第二性》第一卷（事实与神话部分）
@@ -229,11 +229,11 @@ related-comparative:
 | [concepts/other.md](concepts/other.md) | 他者 - l'Autre - 父权结构中的女性定位 |
 | [concepts/gender-construction.md](concepts/gender-construction.md) | 性别建构 - devenir femme - "成为女人" |
 | [concepts/ambiguity.md](concepts/ambiguity.md) | 模糊性 - l'ambiguite - 存在的根本处境 |
-| [concepts/situated-freedom.md](concepts/situated-freedom.md) | 情境自由 - liberte situee - 具体处境中的自由 |
+| [concepts/situated-自由.md](concepts/situated-自由.md) | 情境自由 - liberte situee - 具体处境中的自由 |
 | [concepts/oppression.md](concepts/oppression.md) | 压迫 - l'oppression - 女性处境的系统分析 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |
 
 ## 比较页
 

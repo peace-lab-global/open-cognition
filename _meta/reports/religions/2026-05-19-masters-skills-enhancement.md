@@ -23,7 +23,7 @@
 ### 2.2 心理学大师Skills加强
 
 **新增人物**：丹尼尔·卡尼曼（行为经济学创始人）
-- 条目：`psychology/schools/behavioral-economics/kahneman.md`
+- 条目：`心理学/学派/行为经济学/丹尼尔.md`
 - Skills：双系统思维分析
 - 位置：`psychology/skills/dual-system-analysis/SKILL.md`
 

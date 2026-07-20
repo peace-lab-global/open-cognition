@@ -226,6 +226,6 @@ Chinese painting's "spirit resonance" resonates with sfumato; Song dynasty scien
 | [维特鲁威人](concepts/vitruvian-man.md) | 概念 | 人体比例与宇宙几何 |
 | [眼睛的认识论](concepts/epistemology-of-eye.md) | 概念 | 视觉是获取知识的首要感官 |
 | [观察优先](concepts/observation-before-authority.md) | 概念 | 直接观察优于抄录权威 |
-| [著作列表](works.md) | 著作 | 达·芬奇主要著作/作品 |
-| [年表](timeline.md) | 年表 | 达·芬奇生平时间线 |
-| [推荐阅读](reading-list.md) | 书单 | 达·芬奇研究阅读指南 |
+| [著作列表](著作.md) | 著作 | 达·芬奇主要著作/作品 |
+| [年表](时间线.md) | 年表 | 达·芬奇生平时间线 |
+| [推荐阅读](阅读.md) | 书单 | 达·芬奇研究阅读指南 |

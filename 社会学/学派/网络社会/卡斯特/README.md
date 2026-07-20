@@ -154,6 +154,6 @@ Castells is the foremost theorist of the network society and the information age
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [著作年表](works.md) | 卡斯特主要著作详述 / Detailed survey of Castells' major works |
-| [生平年谱](timeline.md) | 卡斯特生平与思想大事年表 / Chronology of Castells' life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 卡斯特主要著作详述 / Detailed survey of Castells' major works |
+| [生平年谱](时间线.md) | 卡斯特生平与思想大事年表 / Chronology of Castells' life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

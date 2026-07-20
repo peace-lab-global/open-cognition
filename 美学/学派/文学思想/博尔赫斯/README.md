@@ -44,9 +44,9 @@ children:
   - concepts/identity.md
   - concepts/language.md
   - concepts/labyrinth.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 related-comparative:
   - ../../../哲学/学派/比较哲学/博尔赫斯唯识.md
   - ../../../哲学/学派/比较哲学/存在主义唯识.md
@@ -94,7 +94,7 @@ related-comparative:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 早期(1899–1930s)· 欧洲游学与极端主义
 - 1899 生于布宜诺斯艾利斯,家族有英国血统,自幼双语阅读
@@ -132,7 +132,7 @@ related-comparative:
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 三大思想小说集(必读)
 - **《虚构集》** (*Ficciones*, 1944)— 含《巴别图书馆》《小径分岔的花园》《特隆》《环形废墟》《皮埃尔·梅纳尔》
@@ -221,7 +221,7 @@ related-comparative:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 - 《虚构集》《阿莱夫》(思想小说双璧)
@@ -255,11 +255,18 @@ related-comparative:
 | [concepts/identity.md](concepts/identity.md) | 同一性 · 镜像 · 替身 |
 | [concepts/language.md](concepts/language.md) | 语言 · 特隆 · 翻译 |
 | [concepts/labyrinth.md](concepts/labyrinth.md) | 迷宫 · 老虎 · 镜子 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |
 
 ## 比较页
 
 - [博尔赫斯 × 唯识](../../../哲学/学派/比较哲学/博尔赫斯唯识.md)
 - [存在主义 × 唯识](../../../哲学/学派/比较哲学/存在主义唯识.md)(平行比较)
+---
+
+## 相关名言
+
+本思想在 `名言/` 模块中的独立条目：
+
+- [时间永远分岔，通向无数未来](../../../../名言/命运偶然/博尔赫斯-小径分岔的花园.md)

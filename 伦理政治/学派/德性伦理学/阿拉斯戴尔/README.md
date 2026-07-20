@@ -133,7 +133,7 @@ The 1999 publication of *Dependent Rational Animals* marked an important turn in
 
 ## 重要概念 / Key Concepts
 
-1. **追寻美德 / After Virtue** — 对现代道德话语崩溃的诊断，以及通过回归亚里士多德传统来重建美德伦理学的方案。The diagnosis of the collapse of modern moral discourse and the project of rebuilding virtue ethics through a return to the Aristotelian tradition. [→ concepts/after-virtue.md](concepts/after-virtue.md)
+1. **追寻美德 / After Virtue** — 对现代道德话语崩溃的诊断，以及通过回归亚里士多德传统来重建美德伦理学的方案。The diagnosis of the collapse of modern moral discourse and the project of rebuilding virtue ethics through a return to the Aristotelian tradition. [→ concepts/after-德性.md](concepts/after-德性.md)
 
 2. **实践与叙事 / Practice and Narrative** — 实践是人类卓越品质得以展现的社会合作形式；叙事是人类行为获得可理解性的基本框架。Practice is the form of social cooperation within which human excellences are displayed; narrative is the fundamental framework through which human actions become intelligible. [→ concepts/practice-narrative.md](concepts/practice-narrative.md)
 
@@ -247,11 +247,11 @@ Moreover, MacIntyre's late concern with human vulnerability and dependence in *D
 
 | 子条目 / Sub-entry | 内容 / Content |
 |---|---|
-| [concepts/after-virtue.md](concepts/after-virtue.md) | 追寻美德 · 现代道德危机诊断 / After Virtue · diagnosing modern moral crisis |
+| [concepts/after-德性.md](concepts/after-德性.md) | 追寻美德 · 现代道德危机诊断 / After Virtue · diagnosing modern moral crisis |
 | [concepts/practice-narrative.md](concepts/practice-narrative.md) | 实践与叙事 · 美德的基础结构 / Practice & Narrative · foundational structure of virtue |
 | [concepts/tradition-constituted.md](concepts/tradition-constituted.md) | 传统构成的合理性 / Tradition-constituted rationality |
 | [concepts/internal-goods.md](concepts/internal-goods.md) | 内在善与外在善 / Internal & external goods |
 | [concepts/emotivism-critique.md](concepts/emotivism-critique.md) | 情感主义批判 / Critique of emotivism |
-| [works.md](works.md) | 完整著作目录 / Complete works bibliography |
-| [timeline.md](timeline.md) | 生平大事记 / Biographical timeline |
-| [reading-list.md](reading-list.md) | 阅读指南 / Annotated reading guide |
+| [著作.md](著作.md) | 完整著作目录 / Complete works bibliography |
+| [时间线.md](时间线.md) | 生平大事记 / Biographical timeline |
+| [阅读.md](阅读.md) | 阅读指南 / Annotated reading guide |

@@ -175,7 +175,7 @@ sources:
 
 ## 关联 Skills
 
-- **社会学 Skills**: [Marx 马克思](../classical/marx.md) — 阶级分析方法的种族维度扩展 [互补]
-- **社会学 Skills**: [Foucault 福柯](../structuralism/foucault.md) — 权力/知识与种族面纱的认识论分析 [平行]
-- **社会学 Skills**: [Butler 巴特勒](../gender-studies/butler.md) — 身份操演理论的性别维度发展 [发展]
-- **社会学 Skills**: [Bourdieu 布迪厄](../structuralism/bourdieu.md) — 文化资本与种族文化分析的对话 [平行]
+- **社会学 Skills**: [Marx 马克思](../古典社会学/马克思.md) — 阶级分析方法的种族维度扩展 [互补]
+- **社会学 Skills**: [Foucault 福柯](../结构主义/福柯.md) — 权力/知识与种族面纱的认识论分析 [平行]
+- **社会学 Skills**: [Butler 巴特勒](../性别研究/butler.md) — 身份操演理论的性别维度发展 [发展]
+- **社会学 Skills**: [Bourdieu 布迪厄](../结构主义/布迪厄.md) — 文化资本与种族文化分析的对话 [平行]

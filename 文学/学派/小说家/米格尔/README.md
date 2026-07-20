@@ -28,9 +28,9 @@ children:
   - concepts/dialogism.md
   - concepts/realism-idealism.md
   - concepts/parody.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 塞万提斯 / Miguel de Cervantes

@@ -17,7 +17,7 @@ jobs:
       - name: Install deps
         run: pip install pyyaml
       - name: Run lint
-        run: python3 scripts/lint.py --json > lint-report.json
+        run: python3 _meta/scripts/lint.py --json > lint-report.json
       - name: Upload lint report
         if: always()
         uses: actions/upload-artifact@v4
@@ -28,7 +28,7 @@ jobs:
         run: |
           errors=$(python3 -c "import json; print(json.load(open('lint-report.json'))['errors'])")
           if [ "$errors" != "0" ]; then
-            echo "::error::$errors lint errors found. Run 'python3 scripts/lint.py' locally."
+            echo "::error::$errors lint errors found. Run 'python3 _meta/scripts/lint.py' locally."
             exit 1
           fi
 
@@ -42,4 +42,4 @@ jobs:
       - name: Install deps
         run: pip install pyyaml
       - name: Verify index.json matches sources
-        run: python3 scripts/build-index.py --check
+        run: python3 _meta/scripts/build-index.py --check

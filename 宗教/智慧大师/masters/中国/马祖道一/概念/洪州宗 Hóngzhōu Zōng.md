@@ -5,9 +5,12 @@ type: concept
 thinker: 马祖道一 Mazu Daoyi
 domain: 宗教
 school: chan-buddhism
-tags: [洪州宗, 禅宗, 马祖]
+tags:
+- 洪州宗
+- 禅宗
+- 马祖
+era: medieval
 ---
-
 # 洪州宗 Hongzhou School
 
 > 关联思想家：[马祖道一 Mazu Daoyi](../README.md)

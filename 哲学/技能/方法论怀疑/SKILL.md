@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[勒内·笛卡尔](../../schools/rationalism/descartes.md)
 - 概念：[我思故我在](../../concepts/cogito.md)、[方法论怀疑](../../concepts/methodological-doubt.md)
-- 相关 Skill：[socratic-questioning](./socratic-questioning/SKILL.md)、[phenomenological-reduction](./phenomenological-reduction/SKILL.md)
+- 相关 Skill：[socratic-questioning](../../../宗教/佛教/技能/从前五识/SKILL.md)、[phenomenological-reduction](../../../宗教/佛教/技能/从前五识/SKILL.md)

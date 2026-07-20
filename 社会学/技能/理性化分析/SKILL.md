@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[马克斯·韦伯](../../schools/classical/weber.md)
+- 来源思想家：[马克斯·韦伯](../../学派/古典社会学/weber.md)
 - 来源概念：[理性化](../../concepts/rationalization.md)、[官僚制](../../concepts/bureaucracy.md)
 - 关键文献：《新教伦理与资本主义精神》、《经济与社会》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[马克斯·韦伯](../../schools/classical/weber.md)
+- 思想家：[马克斯·韦伯](../../学派/古典社会学/weber.md)
 - 概念：[理性化](../../concepts/rationalization.md)、[官僚制](../../concepts/bureaucracy.md)
-- 相关 Skill：[social-fact-analysis](./social-fact-analysis/SKILL.md)、[liquid-modernity-analysis](./liquid-modernity-analysis/SKILL.md)
+- 相关 Skill：[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[liquid-modernity-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

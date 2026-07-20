@@ -268,6 +268,6 @@ Winnicott's concept of play parallels Zhuangzi's "yóu" (wandering/roaming) rema
 | 真自体与假自体 / True Self and False Self | [concepts/true-false-self.md](concepts/true-false-self.md) |
 | 抱持环境 / Holding Environment | [concepts/holding-environment.md](concepts/holding-environment.md) |
 | 潜在空间 / Potential Space | [concepts/potential-space.md](concepts/potential-space.md) |
-| 关键著作 / Key Works | [works.md](works.md) |
-| 年表 / Timeline | [timeline.md](timeline.md) |
-| 阅读清单 / Reading List | [reading-list.md](reading-list.md) |
+| 关键著作 / Key Works | [著作.md](著作.md) |
+| 年表 / Timeline | [时间线.md](时间线.md) |
+| 阅读清单 / Reading List | [阅读.md](阅读.md) |

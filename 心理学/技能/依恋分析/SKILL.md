@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[约翰·鲍尔比](../../schools/developmental/bowlby.md)
 - 概念：[依恋](../../concepts/attachment.md)、[依恋风格](../../concepts/attachment-styles.md)
-- 相关 Skill：[client-centered-dialogue](./client-centered-dialogue/SKILL.md)、[inferiority-transcendence](./inferiority-transcendence/SKILL.md)
+- 相关 Skill：[client-centered-dialogue](../../../宗教/佛教/技能/从前五识/SKILL.md)、[inferiority-transcendence](../../../宗教/佛教/技能/从前五识/SKILL.md)

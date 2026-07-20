@@ -114,7 +114,7 @@ In his later years, Bandura turned his attention to moral 心理学 — the 2016
 
 2. **社会学习 / Social Learning**：通过观察他人行为及其后果而获得新知识和技能的学习方式，超越传统行为主义的直接经验框架。详见 [social-learning](concepts/social-learning.md)。
 
-3. **观察学习 / Observational Learning**：观察学习的四个子过程——注意（Attention）、保持（Retention）、运动再现（Motor Reproduction）和动机（Motivation）。详见 [observational-learning](concepts/observational-learning.md)。
+3. **观察学习 / Observational Learning**：观察学习的四个子过程——注意（Attention）、保持（Retention）、运动再现（Motor Reproduction）和动机（Motivation）。详见 [observational-learning](concepts/观察学习.md)。
 
 4. **榜样示范 / Modeling**：通过示范行为传递知识、技能和价值观的过程。榜样可以是真实的人、符号化的人物（如媒体角色），也可以是抽象的规则。详见 [modeling](concepts/modeling.md)。
 
@@ -222,11 +222,11 @@ The triadic model (P-B-E) of reciprocal determinism resonates deeply with Buddhi
 
 ## 子条目索引 / Sub-entry Index
 
-- [关键著作年表 / Works](works.md)
-- [生平大事年表 / Timeline](timeline.md)
-- [进阶阅读书目 / Reading List](reading-list.md)
+- [关键著作年表 / Works](著作.md)
+- [生平大事年表 / Timeline](时间线.md)
+- [进阶阅读书目 / Reading List](阅读.md)
 - [自我效能感 / Self-Efficacy](concepts/self-efficacy.md)
 - [社会学习 / Social Learning](concepts/social-learning.md)
-- [观察学习 / Observational Learning](concepts/observational-learning.md)
+- [观察学习 / Observational Learning](concepts/观察学习.md)
 - [榜样示范 / Modeling](concepts/modeling.md)
 - [交互决定论 / Reciprocal Determinism](concepts/reciprocal-determinism.md)

@@ -176,7 +176,7 @@ tags: [seven-treasures, mdzod-bdun, Dzogchen, Nyingma, Longchenpa, Tibetan-Buddh
 
 ## 参见 / See Also
 
-- [本初清净 Ka dag](primordial-purity.md) — 《法界宝藏论》的核心概念
+- [本初清净 Ka dag](本初清净.md) — 《法界宝藏论》的核心概念
 - [任运自成 Lhun grub](spontaneous-presence.md) — 觉性光明面的详述
 - [九乘判教](nine-yana.md) — 《胜乘宝藏论》的核心内容
 - [彻却与脱嘎](trekcho-togal.md) — 七宝藏中的核心修法

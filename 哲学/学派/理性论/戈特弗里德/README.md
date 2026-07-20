@@ -54,9 +54,9 @@ sub-entries:
   - concepts/possible-worlds.md
   - concepts/sufficient-reason.md
   - concepts/best-of-all-worlds.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 戈特弗里德·莱布尼茨 · Gottfried Wilhelm Leibniz
@@ -233,7 +233,7 @@ His intellectual legacy is extraordinarily broad. Philosophically, his "possible
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)
+详见 [阅读.md](阅读.md)
 
 ## 子条目索引 / Sub-Entry Index
 
@@ -244,6 +244,6 @@ His intellectual legacy is extraordinarily broad. Philosophically, his "possible
 | [possible-worlds.md](concepts/possible-worlds.md) | 可能世界 — 模态形而上学的奠基 |
 | [sufficient-reason.md](concepts/sufficient-reason.md) | 充足理由律 — 理性主义的认识论基石 |
 | [best-of-all-worlds.md](concepts/best-of-all-worlds.md) | 最好的可能世界 — 哲学乐观主义 |
-| [works.md](works.md) | 著作详述 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读书单 |
+| [著作.md](著作.md) | 著作详述 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读书单 |

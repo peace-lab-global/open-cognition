@@ -87,13 +87,13 @@ sources:
 
 ## 跨学科关联
 
-- [马克思](../classical/marx.md) `[继承]` 把资本概念扩展到非经济维度
-- [韦伯](../classical/weber.md) `[继承]` 地位群体（Stand）→ 文化资本
-- [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[发展]` 揭示"自然"背后的权力
+- [马克思](../古典社会学/马克思.md) `[继承]` 把资本概念扩展到非经济维度
+- [韦伯](../古典社会学/weber.md) `[继承]` 地位群体（Stand）→ 文化资本
+- [尼采 · 谱系学](../../../哲学/学派/存在主义/尼采.md) `[发展]` 揭示"自然"背后的权力
 - **习惯回路（Habit Loop）** `[平行]` 但布迪厄强调结构嵌入
-- [埃利亚斯 · Elias](../figurational/elias.md) `[互补]` 惯习与形构共享对社会关系动态生成的分析
+- [埃利亚斯 · Elias](../形态社会学/elias.md) `[互补]` 惯习与形构共享对社会关系动态生成的分析
 - [美 · Beauty](../../../aesthetics/concepts/beauty.md) `[解构]` "趣味判断"非康德式普遍性，而是阶级区隔的伪装——美学的社会学祛魅
-- [审美经验 · Aesthetic Experience](../../../aesthetics/concepts/aesthetic-experience.md) `[对立]` 挑战"无功利的审美"：审美经验本身被文化资本结构化
+- [审美经验 · Aesthetic Experience](../../../美学/概念/审美经验.md) `[对立]` 挑战"无功利的审美"：审美经验本身被文化资本结构化
 
 ## 进阶阅读
 
@@ -103,4 +103,4 @@ sources:
 
 ## 关联 Skills
 
-- [布迪厄场域分析](../../skills/bourdieu-field-analysis/SKILL.md)
+- [布迪厄场域分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

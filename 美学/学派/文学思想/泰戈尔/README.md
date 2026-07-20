@@ -24,11 +24,11 @@ sources:
 children:
   - concepts/universal-spirit.md
   - concepts/relational-self.md
-  - concepts/creative-freedom.md
+  - concepts/creative-自由.md
   - concepts/human-religion.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 泰戈尔 / Rabindranath Tagore

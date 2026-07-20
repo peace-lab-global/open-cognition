@@ -46,8 +46,8 @@ sources: [《瑜伽师地论》, 《成唯识论》, 《佛地经论》]
 
 ## 与相关概念的关系
 
-- [三性](../concepts/cognitive-theory/three-natures.md) — [同源] 所知障与遍计所执性相关
-- [转识成智](../concepts/cognitive-theory/consciousness-transformation.md) — [同源] 断二障即转识成智
+- [三性](../cognitive-theory/三性.md) — [同源] 所知障与遍计所执性相关
+- [转识成智](../cognitive-theory/转识成智.md) — [同源] 断二障即转识成智
 - [无我](anatman.md) — [同源] 人我执/法我执 = 二障的根源
 - [法相唯识宗](../schools/faxiang.md) — [同源] 二障理论在唯识学中最为精密
 

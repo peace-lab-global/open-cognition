@@ -2,20 +2,20 @@
 name: hui-neng-sudden-awakening
 description: 慧能"顿悟"心法，用于辨别来访者是否落入渐修迷执，或是否有当下开悟的端倪。Triggers on 来访者执着于"修行进度"、觉得自己"还没准备好"、或需要打破"我必须先XXX才能开悟"的信念束缚的场景。
 tradition: chan-buddhism
-linked_master: ../../masters/china/hui-neng.md
+linked_master: ../../智慧大师/masters/中国/慧能.md
 linked_concepts:
-  - 顿悟
-  - 佛性本具
-  - 迷 vs 悟
-  - 一念转物
+- 顿悟
+- 佛性本具
+- 迷 vs 悟
+- 一念转物
 tags:
-  - 顿悟
-  - 开悟
-  - 迷执辨别
-  - 打破准备好的幻觉
-  - 禅
+- 顿悟
+- 开悟
+- 迷执辨别
+- 打破准备好的幻觉
+- 禅
+domain: 宗教
 ---
-
 # 慧能顿悟检验 · Sudden Awakening Test
 
 ## 一句话功能
@@ -38,7 +38,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[慧能](../../masters/china/hui-neng.md)
+- 来源祖师：[慧能](../../masters/中国/慧能.md)
 - 核心概念：众生皆具佛性，迷悟只在一念
 - 关键文本：《六祖坛经·行由品》——"前念迷即凡，后念悟即佛"
 - 核心命题："佛性本自具足，不是从外得"
@@ -140,7 +140,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[慧能](../../masters/china/hui-neng.md)
+- 祖师：[慧能](../../masters/中国/慧能.md)
 - 概念：[顿悟](./concepts/dunwu.md)（待建）
-- 相关Skill：[慧能无住心法](./hui-neng-no-dwelling/SKILL.md)
-- 跨传统：[维特根斯坦·语言游戏](../../哲学/学派/分析哲学/维特根斯坦.md)（平行）——"不要把语言当梯子，要在使用中看意义"与"不要把佛经当月亮"的呼应
+- 相关Skill：[慧能无住心法](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：维特根斯坦·语言游戏（平行）——"不要把语言当梯子，要在使用中看意义"与"不要把佛经当月亮"的呼应

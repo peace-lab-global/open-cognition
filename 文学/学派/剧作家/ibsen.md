@@ -72,10 +72,10 @@ sources:
 
 ## 跨学科关联
 
-- [马克思](../../../sociology/schools/classical/marx.md) `[平行]` 对资产阶级意识形态的批判
+- [马克思](../../../社会学/学派/古典社会学/马克思.md) `[平行]` 对资产阶级意识形态的批判
 - [克尔凯郭尔](../../../philosophy/schools/existentialism/kierkegaard.md) `[互补]` 个体的孤独抉择与信仰之跃
-- [心理分析](../../../psychology/schools/psychoanalysis/freud.md) `[互补]` 压抑、家庭与无意识的戏剧化
-- [叙事治疗](../../../psychology/schools/narrative-therapy/) `[发展]` 重写人生脚本的当代回响
+- [心理分析](../../../心理学/学派/精神分析/西格蒙德.md) `[互补]` 压抑、家庭与无意识的戏剧化
+- [叙事治疗](../小说家/马塞尔/README.md) `[发展]` 重写人生脚本的当代回响
 
 ## 进阶阅读
 
@@ -94,4 +94,4 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析

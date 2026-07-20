@@ -4,7 +4,7 @@ description: Triggers when a user describes a recurring suffering, dissatisfacti
 domain: 宗教
 linked_concept: ../../../宗教/传统/佛教/四圣谛与八正道.md
 linked_concepts:
-  - ../../traditions/buddhism/sunyata.md
+  - ../../传统/佛教/大乘空性.md
   - ../../concepts/salvation.md
 tags:
   - liberation
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源概念：[四圣谛与八正道](../../traditions/buddhism/four-noble-truths.md)
+- 来源概念：[四圣谛与八正道](../../传统/佛教/四圣谛与八正道.md)
 - 关键文献：《转法轮经》《大念处经》；现代化版本见 Stephen Batchelor *Buddhism Without Beliefs*
 
 ## 操作流程
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 概念：[四圣谛与八正道](../../traditions/buddhism/four-noble-truths.md)、[空性](../../traditions/buddhism/sunyata.md)
+- 概念：[四圣谛与八正道](../../传统/佛教/四圣谛与八正道.md)、[空性](../../传统/佛教/大乘空性.md)
 - 跨传统：[救赎](../../concepts/salvation.md)
-- 相关 Skill：[现象学还原](../../../哲学/技能/现象学还原/SKILL.md)、[认知行为分析](../../../心理学/skills/cbt-restructuring/SKILL.md)
+- 相关 Skill：[现象学还原](../../../哲学/技能/现象学还原/SKILL.md)、[认知行为分析](../../智慧大师/skills/临济棒喝当下/SKILL.md)

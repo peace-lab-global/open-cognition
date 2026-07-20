@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[乌尔里希·贝克](../../schools/modernity/beck.md)
+- 来源思想家：[乌尔里希·贝克](../../学派/现代性/beck.md)
 - 来源概念：[风险社会](../../concepts/risk-society.md)、[第二现代性](../../concepts/second-modernity.md)
 - 关键文献：《风险社会》、《世界风险社会》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[乌尔里希·贝克](../../schools/modernity/beck.md)
+- 思想家：[乌尔里希·贝克](../../学派/现代性/beck.md)
 - 概念：[风险社会](../../concepts/risk-society.md)、[第二现代性](../../concepts/second-modernity.md)
-- 相关 Skill：[liquid-modernity-analysis](./liquid-modernity-analysis/SKILL.md)、[network-society-analysis](./network-society-analysis/SKILL.md)
+- 相关 Skill：[liquid-modernity-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[network-society-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

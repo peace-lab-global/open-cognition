@@ -5,7 +5,7 @@ domain: 心理学
 linked_thinker: ../../schools/social-learning/bandura.md
 linked_concepts:
   - ../../心理学/概念/self-efficacy.md
-  - ../../心理学/概念/observational-learning.md
+  - ../../心理学/概念/观察学习.md
 tags:
   - 自我效能
   - 观察学习
@@ -36,7 +36,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[阿尔伯特·班杜拉](../../schools/social-learning/bandura.md)
-- 来源概念：[自我效能](../../concepts/self-efficacy.md)、[观察学习](../../concepts/observational-learning.md)
+- 来源概念：[自我效能](../../concepts/self-efficacy.md)、[观察学习](../../学派/社会学习/阿尔伯特/概念/观察学习.md)
 - 关键文献：《自我效能：控制的实施》、《社会学习理论》
 
 ## 操作流程
@@ -100,5 +100,5 @@ tags:
 ## 关联条目
 
 - 思想家：[阿尔伯特·班杜拉](../../schools/social-learning/bandura.md)
-- 概念：[自我效能](../../concepts/self-efficacy.md)、[观察学习](../../concepts/observational-learning.md)
-- 相关 Skill：[inferiority-transcendence](./inferiority-transcendence/SKILL.md)、[behavior-reinforcement-analysis](./behavior-reinforcement-analysis/SKILL.md)
+- 概念：[自我效能](../../concepts/self-efficacy.md)、[观察学习](../../学派/社会学习/阿尔伯特/概念/观察学习.md)
+- 相关 Skill：[inferiority-transcendence](../../../宗教/佛教/技能/从前五识/SKILL.md)、[behavior-reinforcement-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -2,21 +2,21 @@
 name: thich-nhat-hanh-mindful-breathing
 description: 一行禅师"正念呼吸"法，用于帮助当事人回到当下、安顿身心。Triggers on 当事人焦虑、担心未来、或被过去困住、无法安静与自己相处的场景。
 tradition: engaged-buddhism
-linked_master: ../../masters/west/thich-nhat-hanh.md
+linked_master: ../../masters/west/一行禅师.md
 linked_concepts:
-  - 正念
-  - 呼吸
-  - 当下
-  - 觉知
+- 正念
+- 呼吸
+- 当下
+- 觉知
 tags:
-  - 正念
-  - 呼吸
-  - 安顿
-  - 当下
-  - 入世佛教
-  - 一行禅师
+- 正念
+- 呼吸
+- 安顿
+- 当下
+- 入世佛教
+- 一行禅师
+domain: 宗教
 ---
-
 # 一行正念呼吸 · Mindful Breathing
 
 ## 一句话功能
@@ -40,7 +40,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
+- 来源祖师：[一行禅师](../../masters/西方/一行禅师.md)
 - 核心概念：正念是对当下的觉知，呼吸是觉知的锚
 - 关键文本：《正念的奇迹》
 - 核心命题："我在，我在这里，我到家了。"
@@ -133,7 +133,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
-- 概念：[正念](./concepts/mindfulness.md)（待建）
-- 相关Skill：[一行慈悲拥抱](./thich-nhat-hanh-compassion/SKILL.md)
-- 跨传统：[卡尼曼·系统1/系统2](../../心理学/学派/行为经济学/丹尼尔.md)（平行）——正念呼吸是主动切换到系统2的方式
+- 祖师：[一行禅师](../../masters/西方/一行禅师.md)
+- 概念：[正念](../../../../心理学/学派/认知心理学/戈尔曼/概念/正念.md)（待建）
+- 相关Skill：[一行慈悲拥抱](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：卡尼曼·系统1/系统2（平行）——正念呼吸是主动切换到系统2的方式

@@ -10,4 +10,4 @@ tags: [Madhyamaka, China, three-treatises, Kumarajiva]
 
 罗什首次系统翻译龙树中观三论 (《中论》《百论》《十二门论》)，为三论宗奠基。他将印度中观的精确逻辑引入汉语世界。
 
-## 参见 | [龙树](../nagarjuna.md) | [鸠摩罗什](../README.md)
+## 参见 | [龙树](../../龙树.md) | [鸠摩罗什](../README.md)

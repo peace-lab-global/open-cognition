@@ -25,8 +25,8 @@
 
 | 思想家 | 学派 | 条目路径 | 新增Skill | Skill路径 |
 |--------|------|----------|-----------|-----------|
-| 弗洛伊德 | 精神分析 | `psychology/schools/psychoanalysis/freud.md` | 潜意识分析 | `psychology/skills/unconscious-analysis/SKILL.md` |
-| 荣格 | 分析心理学 | `psychology/schools/analytical-psychology/jung.md` | 个体化引导 | `psychology/skills/individuation-guidance/SKILL.md` |
+| 弗洛伊德 | 精神分析 | `psychology/schools/精神分析/西格蒙德.md` | 潜意识分析 | `psychology/skills/unconscious-analysis/SKILL.md` |
+| 荣格 | 分析心理学 | `psychology/schools/analytical-psychology/卡尔.md` | 个体化引导 | `psychology/skills/individuation-guidance/SKILL.md` |
 | 阿德勒 | 个体心理学 | `psychology/schools/individual-psychology/adler.md` | 自卑与超越分析 | `psychology/skills/inferiority-transcendence/SKILL.md` |
 
 **心理学大师Skills总数**：从8个增加到11个
@@ -36,7 +36,7 @@
 | 思想家 | 学派 | 条目路径 | 新增Skill | Skill路径 |
 |--------|------|----------|-----------|-----------|
 | 韦伯 | 古典社会学 | `sociology/schools/classical/weber.md` | 理性化分析 | `sociology/skills/rationalization-analysis/SKILL.md` |
-| 福柯 | 后结构主义 | `sociology/schools/structuralism/foucault.md` | 规训分析 | `sociology/skills/discipline-analysis/SKILL.md` |
+| 福柯 | 后结构主义 | `社会学/学派/结构主义/福柯.md` | 规训分析 | `sociology/skills/discipline-analysis/SKILL.md` |
 
 **社会学大师Skills总数**：从8个增加到10个
 
@@ -44,7 +44,7 @@
 
 | 思想家 | 学派 | 条目路径 | 新增Skill | Skill路径 |
 |--------|------|----------|-----------|-----------|
-| 萨特 | 存在主义 | `philosophy/schools/existentialism/sartre.md` | 存在主义分析 | `philosophy/skills/existentialism-analysis/SKILL.md` |
+| 萨特 | 存在主义 | `philosophy/schools/存在主义/萨特.md` | 存在主义分析 | `philosophy/skills/existentialism-analysis/SKILL.md` |
 
 **哲学大师Skills总数**：从9个增加到10个
 

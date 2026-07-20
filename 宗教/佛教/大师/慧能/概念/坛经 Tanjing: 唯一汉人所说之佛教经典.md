@@ -109,7 +109,7 @@ The Platform Sutra laid the theoretical foundation for all subsequent Chan devel
 
 ## 参见 / See Also
 
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — 《坛经》的核心教义 / The core teaching of the Platform Sutra
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 《坛经》的核心教义 / The core teaching of the Platform Sutra
 - [自性 Self-Nature](self-nature.md) — 《坛经》的心性论基础 / The mind-nature foundation of the Platform Sutra
 - [无念 No-Thought](no-thought-wunian.md) — 《坛经》的实践方法论 / The practice methodology of the Platform Sutra
 - [慧能 Huineng](../README.md)

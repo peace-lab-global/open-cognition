@@ -130,7 +130,7 @@ Examples: [Flow](心理学/概念/心流 Flow.md) | [Cultural Capital](社会学
 
 Agent-executable operational framework with YAML frontmatter, one-line function description, when-to-use / when-not-to-use guidance, theoretical basis, step-by-step procedure, worked examples, and counterexamples.
 
-Examples: [CBT Cognitive Distortion](./心理学/技能/认知扭曲识别/SKILL.md) | [Bourdieu Field Analysis](./社会学/技能/布迪厄场域分/SKILL.md) | [Four Noble Truths](./宗教/技能/四圣谛框架分/SKILL.md) | [Eight Consciousness Diagnosis](宗教/佛教/技能/从前五识/SKILL.md)
+Examples: [CBT Cognitive Distortion](./心理学/技能/认知扭曲识别/SKILL.md) | [Bourdieu Field Analysis](./社会学/技能/布迪厄场域分析析/SKILL.md) | [Four Noble Truths](./宗教/技能/四圣谛框架分/SKILL.md) | [Eight Consciousness Diagnosis](宗教/佛教/技能/从前五识/SKILL.md)
 
 ---
 

@@ -15,9 +15,9 @@ sources:
   - Parfit, "Personal Identity" (1971)
   - Parfit, "Future People, the Non-Identity Problem, and a New Theory" (1982)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: kant
     relation: 批判/综合

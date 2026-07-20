@@ -85,10 +85,10 @@ sources:
 
 ## 跨学科关联
 
-- [康德](../../../philosophy/schools/german-idealism/kant.md) `[继承]` 普遍化论证的程序化
-- [维特根斯坦 · 语言游戏](../../../philosophy/schools/analytic/wittgenstein.md) `[发展]` 用日常语言学派改造批判理论
-- [福柯](../structuralism/foucault.md) `[对立]` 规范性 vs 反规范性
-- [罗杰斯 · 真诚一致](../../../psychology/schools/humanistic/rogers.md) `[平行]` 微观对话与宏观理论
+- [康德](../../../哲学/学派/德国唯心论/康德.md) `[继承]` 普遍化论证的程序化
+- [维特根斯坦 · 语言游戏](../../../哲学/学派/分析哲学/维特根斯坦.md) `[发展]` 用日常语言学派改造批判理论
+- [福柯](../结构主义/福柯.md) `[对立]` 规范性 vs 反规范性
+- [罗杰斯 · 真诚一致](../../../心理学/学派/分析心理学/卡尔.md) `[平行]` 微观对话与宏观理论
 - [泰勒 · Communitarianism](../../../ethics-politics/schools/communitarianism/taylor.md) `[张力]` 承认政治与交往理性的互补——认同的对话性建构
 - [安全文化 · Safety Culture](../../../cognitive-systems/concepts/safety-culture.md) `[平行]` 交往理性与安全文化——开放对话和理性沟通是两者的共同理想
 
@@ -100,4 +100,4 @@ sources:
 
 ## 关联 Skills
 
-- 暂无专属 Skill；常与[辩证法分析](../../../../philosophy/skills/dialectical-analysis/SKILL.md)、[语言游戏分析](../../../../philosophy/skills/language-game-analysis/SKILL.md)结合使用
+- 暂无专属 Skill；常与[辩证法分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)、[语言游戏分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)结合使用

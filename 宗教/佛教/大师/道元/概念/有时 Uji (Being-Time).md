@@ -92,4 +92,4 @@ A key difference: Heidegger's temporality centers on Dasein, while Dōgen's *uji
 
 - [只管打坐 Shikantaza](shikantaza.md)
 - [无常佛性 Impermanence-Buddha-Nature](impermanence-buddha-nature.md)
-- [修证一等 Practice-Enlightenment](practice-enlightenment.md)
+- [修证一等 Practice-Enlightenment](practice-启蒙.md)

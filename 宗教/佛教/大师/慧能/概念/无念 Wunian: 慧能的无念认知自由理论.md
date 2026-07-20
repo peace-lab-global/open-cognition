@@ -89,6 +89,6 @@ Huineng extended no-thought from formal meditation to everyday life: "In all pla
 ## 参见 / See Also
 
 - [无住 Non-Dwelling](non-dwelling.md) — 无念的操作机制 / The operational mechanism of no-thought
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — 无念成熟时的突破 / The breakthrough when no-thought matures
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 无念成熟时的突破 / The breakthrough when no-thought matures
 - [自性 Self-Nature](self-nature.md) — 无念所见的对象 / What no-thought reveals
 - [慧能 Huineng](../README.md)

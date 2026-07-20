@@ -143,7 +143,7 @@ tags: [dharmadhatu, perfect-awakening, tathagatagarbha, buddha-nature, awakening
 ## 参见 / See Also
 
 - [三级判教 Three-Level Classification](three-level-classification.md)
-- [人生佛教 Humanistic Buddhism](humanistic-buddhism.md)
+- [人生佛教 Humanistic Buddhism](人间佛教.md)
 - [太虚 Taixu](../README.md)
-- [龙树 Nagarjuna](../nagarjuna/) — 法性空慧宗的核心人物
-- [智顗 Zhiyi](../zhiyi/) — 天台判教与如来藏思想
+- [龙树 Nagarjuna](../../../README.md) — 法性空慧宗的核心人物
+- [智顗 Zhiyi](../../../README.md) — 天台判教与如来藏思想

@@ -26,24 +26,24 @@ buddhism/
 ├── concepts/                          # 佛教核心概念
 │   ├── cognitive-theory/              #   佛教认知理论体系
 │   │   ├── README.md                  #     认知理论总览
-│   │   ├── eight-consciousness.md     #     八识体系
-│   │   ├── mind-world.md              #     心物一元
-│   │   ├── six-constituents.md        #     六根六尘六识
-│   │   ├── consciousness-transformation.md  # 转识成智
+│   │   ├── 八识体系.md     #     八识体系
+│   │   ├── 心物一元.md              #     心物一元
+│   │   ├── 六根六尘六识.md        #     六根六尘六识
+│   │   ├── 转识成智.md  # 转识成智
 │   │   ├── madhyamaka.md              #     中观·空
-│   │   ├── qichu-zhengxin.md          #     七处征心
-│   │   ├── baihuan-bianjian.md        #     八还辨见
-│   │   └── diamond-sutra-non-attachment.md  # 金刚经·无相
-│   ├── diamond-sutra-non-attachment.md
-│   ├── eight-consciousness.md
-│   └── qichu-zhengxin.md
+│   │   ├── 七处征心.md          #     七处征心
+│   │   ├── 八还辨见.md        #     八还辨见
+│   │   └── 金刚经.md  # 金刚经·无相
+│   ├── 金刚经.md
+│   ├── 八识体系.md
+│   └── 七处征心.md
 └── sutras/                            # 佛教十三经 · 全然理解图谱集
     ├── README.md                      #   十三经总览与全景关系图
     ├── heart-sutra.md                 #   般若波罗蜜多心经
     ├── diamond-sutra.md               #   金刚般若波罗蜜经
-    ├── lotus-sutra.md                 #   妙法莲华经
+    ├── 妙法莲华经.md                 #   妙法莲华经
     ├── surangama-sutra.md             #   大佛顶首楞严经
-    ├── avatamsaka-sutra.md            #   大方广佛华严经
+    ├── 华严经.md            #   大方广佛华严经
     ├── perfect-enlightenment-sutra.md #   大方广圆觉修多罗了义经
     ├── vimalakirti-sutra.md           #   维摩诘所说经
     ├── mahaparinirvana-sutra.md       #   大般涅槃经
@@ -64,9 +64,9 @@ buddhism/
 |------|------|----------|------|
 | 1 | 《般若波罗蜜多心经》 | 五蕴皆空 → 度一切苦厄 | [heart-sutra.md](sutras/heart-sutra.md) |
 | 2 | 《金刚般若波罗蜜经》 | 无相 → 无住 → 无所得 | [diamond-sutra.md](sutras/diamond-sutra.md) |
-| 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | [lotus-sutra.md](sutras/lotus-sutra.md) |
+| 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | [妙法莲华经.md](sutras/妙法莲华经.md) |
 | 4 | 《大佛顶首楞严经》 | 七处征心 → 五阴魔境 → 楞严大定 | [surangama-sutra.md](sutras/surangama-sutra.md) |
-| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 → 普贤行愿 | [avatamsaka-sutra.md](sutras/avatamsaka-sutra.md) |
+| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 → 普贤行愿 | [华严经.md](sutras/华严经.md) |
 | 6 | 《大方广圆觉修多罗了义经》 | 知幻 → 离幻 → 圆觉 | [perfect-enlightenment-sutra.md](sutras/perfect-enlightenment-sutra.md) |
 | 7 | 《维摩诘所说经》 | 不二法门 → 烦恼即菩提 | [vimalakirti-sutra.md](sutras/vimalakirti-sutra.md) |
 | 8 | 《大般涅槃经》 | 一切众生皆有佛性 → 常乐我净 | [mahaparinirvana-sutra.md](sutras/mahaparinirvana-sutra.md) |
@@ -84,14 +84,14 @@ buddhism/
 
 | 经论 | 核心认知理论 | 产出概念 |
 |------|------------|---------|
-| 《瑜伽师地论》 | 八识体系 | [八识体系](concepts/cognitive-theory/eight-consciousness.md) |
-| 《成唯识论》 | 四分说/心物一元 | [心物一元](concepts/cognitive-theory/mind-world.md) |
-| 《俱舍论》 | 六根六尘六识 | [六根六尘六识](concepts/cognitive-theory/six-constituents.md) |
-| 《解深密经》《成唯识论》 | 转识成智 | [转识成智](concepts/cognitive-theory/consciousness-transformation.md) |
-| 《中论》 | 中观二谛/四句破 | [中观·空](concepts/cognitive-theory/madhyamaka.md) |
-| 《楞严经》 | 七处征心 | [七处征心](concepts/cognitive-theory/qichu-zhengxin.md) |
-| 《楞严经》 | 八还辨见 | [八还辨见](concepts/cognitive-theory/baihuan-bianjian.md) |
-| 《金刚经》 | 无相/无住/无所得 | [金刚经·无相](concepts/cognitive-theory/diamond-sutra-non-attachment.md) |
+| 《瑜伽师地论》 | 八识体系 | [八识体系](concepts/cognitive-theory/八识体系.md) |
+| 《成唯识论》 | 四分说/心物一元 | [心物一元](concepts/cognitive-theory/心物一元.md) |
+| 《俱舍论》 | 六根六尘六识 | [六根六尘六识](concepts/cognitive-theory/六根六尘六识.md) |
+| 《解深密经》《成唯识论》 | 转识成智 | [转识成智](concepts/cognitive-theory/转识成智.md) |
+| 《中论》 | 中观二谛/四句破 | [中观·空](concepts/cognitive-theory/中观.md) |
+| 《楞严经》 | 七处征心 | [七处征心](concepts/cognitive-theory/七处征心.md) |
+| 《楞严经》 | 八还辨见 | [八还辨见](concepts/cognitive-theory/八还辨见.md) |
+| 《金刚经》 | 无相/无住/无所得 | [金刚经·无相](concepts/cognitive-theory/金刚经.md) |
 
 ---
 

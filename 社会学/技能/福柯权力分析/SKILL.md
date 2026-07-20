@@ -2,9 +2,9 @@
 name: foucault-power-analysis
 description: Triggers when a user describes a system or institution (school, hospital, app, workplace) where power seems to operate not through commands but through routines, metrics, defaults, and "the way things are done". Apply this skill to surface the discipline-knowledge-subject triangle rather than treating power as merely top-down command.
 domain: 社会学
-linked_thinker: ../../schools/structuralism/foucault.md
+linked_thinker: ../../schools/结构主义/福柯.md
 linked_concepts:
-  - ../../concepts/discipline.md
+  - ../../concepts/规训.md
 tags:
   - power
   - knowledge
@@ -33,8 +33,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[福柯](../../schools/structuralism/foucault.md)
-- 来源概念：[规训](../../concepts/discipline.md)
+- 来源思想家：[福柯](../../学派/结构主义/福柯.md)
+- 来源概念：[规训](../../概念/规训.md)
 - 关键文献：《规训与惩罚》《性史》第一卷；法兰西学院讲座
 
 ## 操作流程
@@ -112,6 +112,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[福柯](../../schools/structuralism/foucault.md)
-- 概念：[规训](../../concepts/discipline.md)、[文化资本](../../concepts/cultural-capital.md)
-- 相关 Skill：[布迪厄场域分析](../bourdieu-field-analysis/SKILL.md)、[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)
+- 思想家：[福柯](../../学派/结构主义/福柯.md)
+- 概念：[规训](../../概念/规训.md)、[文化资本](../../concepts/cultural-capital.md)
+- 相关 Skill：[布迪厄场域分析](../../../宗教/佛教/技能/从前五识/SKILL.md)、[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)

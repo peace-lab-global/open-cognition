@@ -11,7 +11,7 @@ tags: [认知发展, 图式, 同化顺应, 发生认识论, 建构主义, cognit
 aliases: [Jean Piaget, 让·皮亚杰, Jean William Fritz Piaget]
 sources: [《儿童的语言与思维》, 《发生认识论原理》, 《儿童心理学》, The Child's Conception of the World, The Psychology of Intelligence]
 cross-refs: [心理学.cognitive.beck, 心理学.developmental.erikson, 心理学.developmental.vygotsky, 哲学.german-idealism.kant, 心理学.concepts.cognitive-dissonance, 心理学.concepts.constructivism]
-sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md, schema.md, genetic-epistemology.md]
+sub-entries: [cognitive-development.md, assimilation-accommodation.md, stages.md, schema.md, genetic-认识论.md]
 ---
 
 # 皮亚杰 · Jean Piaget
@@ -255,7 +255,7 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 
 | 关联领域 / Field | 关联思想家 / Thinker | 关系类型 / Relationship | 说明 / Notes |
 |---|---|---|---|
-| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../developmental/vygotsky.md) | 批判/互补 / Critique/Complement | 维果茨基强调社会-文化中介，"最近发展区"补充了皮亚杰的个体建构 / Vygotsky emphasized sociocultural mediation; "zone of proximal development" complements Piaget's individual construction |
+| 社会文化理论 / Sociocultural Theory | [维果茨基 Vygotsky](../developmental/列夫.md) | 批判/互补 / Critique/Complement | 维果茨基强调社会-文化中介，"最近发展区"补充了皮亚杰的个体建构 / Vygotsky emphasized sociocultural mediation; "zone of proximal development" complements Piaget's individual construction |
 | 认知行为疗法 / CBT | [贝克 Beck](../cognitive/beck.md) | 借用 / Borrowing | 图式概念被 CBT 用来描述核心信念结构 / Schema concept used in CBT to describe core belief structures |
 | 德国哲学 / German Philosophy | [康德 Kant](../../../哲学/学派/德国唯心论/康德.md) | 继承/改造 / Inheritance/Transformation | 认知范畴的发生学版本 / Genetic version of cognitive categories |
 | 认知失调 / Cognitive Dissonance | [费斯廷格 Festinger](../../concepts/cognitive-dissonance.md) | 平行 / Parallel | 平衡机制与认知不一致的张力 / Tension between equilibration mechanism and cognitive inconsistency |
@@ -305,8 +305,8 @@ Zhuangzi's "fasting of the mind" (心斋, xīn zhāi) — emptying the mind to r
 | [assimilation-accommodation.md](concepts/assimilation-accommodation.md) | 同化与顺应 — 认知适应的双过程 / Assimilation and Accommodation — dual processes of cognitive adaptation |
 | [stages.md](concepts/stages.md) | 认知发展四阶段 — 从感知运动到形式运算 / Four Stages of Cognitive Development — from sensorimotor to formal operations |
 | [schema.md](concepts/schema.md) | 图式 — 认知的基本建构单元 / Schema — the fundamental building unit of cognition |
-| [genetic-epistemology.md](concepts/genetic-epistemology.md) | 发生认识论 — 知识的发生学追问 / Genetic Epistemology — the genetic inquiry into the genesis of knowledge |
+| [genetic-认识论.md](concepts/genetic-认识论.md) | 发生认识论 — 知识的发生学追问 / Genetic Epistemology — the genetic inquiry into the genesis of knowledge |
 
 ---
 
-> **相关条目 / See also:** [works.md](works.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md)
+> **相关条目 / See also:** [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md)

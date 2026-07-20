@@ -28,9 +28,9 @@ children:
   - concepts/ghosts-heredity.md
   - concepts/slammed-door.md
   - concepts/ideal-and-lie.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 亨利克·易卜生 / Henrik Ibsen

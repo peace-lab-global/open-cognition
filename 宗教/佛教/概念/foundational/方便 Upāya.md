@@ -47,7 +47,7 @@ sources: [《法华经·方便品》, 《大智度论》, 《维摩诘经》]
 
 ## 与相关概念的关系
 
-- [菩萨道](bodhisattva-path.md) — [同源] 方便是菩萨利益众生的能力
+- [菩萨道](菩萨道 Bodhisattva Path.md) — [同源] 方便是菩萨利益众生的能力
 - [法华经](../treatises/lotus.md) — [同源] 方便论的核心经典
 - [判教](doctrinal-classification.md) — [发展] 判教是方便思想的方法论应用
 - [三乘](three-vehicles.md) — [互补] 三乘是方便，一乘是真实

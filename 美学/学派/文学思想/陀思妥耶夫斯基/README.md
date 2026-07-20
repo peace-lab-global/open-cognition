@@ -25,12 +25,12 @@ sources:
 children:
   - concepts/polyphonic-novel.md
   - concepts/underground-man.md
-  - concepts/irrational-freedom.md
+  - concepts/irrational-自由.md
   - concepts/theodicy.md
   - concepts/great-inquisitor.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 陀思妥耶夫斯基 / Fyodor Dostoevsky

@@ -48,14 +48,14 @@ cross-refs:
   - id: 宗教.buddhism.school.yogacara
     relation: 对照
 children:
-  - concepts/qiwu.md
-  - concepts/xiaoyao.md
+  - concepts/齐物.md
+  - concepts/逍遥.md
   - concepts/wu.md
   - concepts/transformation.md
   - concepts/uselessness.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 related-comparative:
   - ../comparative/daoism-vs-yogacara.md
   - ../../../../美学/学派/文学思想/博尔赫斯/
@@ -85,11 +85,11 @@ related-comparative:
 
 ### 1. 齐物 (qíwù) — 万物平等
 
-万物的大小、美丑、是非、生死，都是相对于观察视角的。"以道观之，物无贵贱。"齐物不是抹平差异，而是认识到差异的视角依赖性。这是庄子认识论的基石。详见 [concepts/qiwu.md](concepts/qiwu.md)。
+万物的大小、美丑、是非、生死，都是相对于观察视角的。"以道观之，物无贵贱。"齐物不是抹平差异，而是认识到差异的视角依赖性。这是庄子认识论的基石。详见 [concepts/齐物.md](concepts/齐物.md)。
 
 ### 2. 逍遥 (xiāoyáo) — 绝对自由
 
-"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。详见 [concepts/xiaoyao.md](concepts/xiaoyao.md)。
+"乘天地之正，御六气之辩，以游无穷者，彼且恶乎待哉？"逍遥是超越一切"有待"（依赖）的精神自由，是庄子生存论的最高理想。详见 [concepts/逍遥.md](concepts/逍遥.md)。
 
 ### 3. 无用之用 (wúyòng zhī yòng) — 无用的价值
 
@@ -109,7 +109,7 @@ related-comparative:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 战国背景
 
@@ -131,15 +131,15 @@ related-comparative:
 
 | 概念 | 拼音 | 核心含义 | 子条目 |
 |---|---|---|---|
-| **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [qiwu.md](concepts/qiwu.md) |
-| **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [xiaoyao.md](concepts/xiaoyao.md) |
+| **齐物** | qíwù | 万物平等，是非大小皆为视角产物 | [齐物.md](concepts/齐物.md) |
+| **逍遥** | xiāoyáo | 超越一切依赖的绝对精神自由 | [逍遥.md](concepts/逍遥.md) |
 | **无** | wú | 无为、无用、无待——否定中的积极力量 | [wu.md](concepts/wu.md) |
 | **物化** | wùhuà | 万物流变转化，生死如一 | [transformation.md](concepts/transformation.md) |
 | **无用** | wúyòng | 被世俗判定为无用之物的根本价值 | [uselessness.md](concepts/uselessness.md) |
 
 ## 关键文本
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 内七篇（核心）
 
@@ -211,7 +211,7 @@ related-comparative:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 
@@ -234,14 +234,14 @@ related-comparative:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/qiwu.md](concepts/qiwu.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
-| [concepts/xiaoyao.md](concepts/xiaoyao.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
+| [concepts/齐物.md](concepts/齐物.md) | 齐物 (qíwù) — 万物平等，视角的相对主义 |
+| [concepts/逍遥.md](concepts/逍遥.md) | 逍遥 (xiāoyáo) — 超越一切依赖的绝对自由 |
 | [concepts/wu.md](concepts/wu.md) | 无 (wú) — 无为、无用、无待的否定之力 |
 | [concepts/transformation.md](concepts/transformation.md) | 物化 (wùhuà) — 万物流变转化，生死如一 |
 | [concepts/uselessness.md](concepts/uselessness.md) | 无用 (wúyòng) — 无用的根本价值 |
-| [works.md](works.md) | 作品总览 — 《庄子》三十三篇 |
-| [timeline.md](timeline.md) | 思想年表 / 文本形成史 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 — 《庄子》三十三篇 |
+| [时间线.md](时间线.md) | 思想年表 / 文本形成史 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |
 
 ## 比较页
 

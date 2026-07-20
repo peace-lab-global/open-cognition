@@ -41,7 +41,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 
 **The nature of mind is primordially pure (ka dag) — not purified by practice, but pure from the very beginning, beyond the duality of pure and impure.**
 
-详见 [本初清净 Ka dag](concepts/primordial-purity.md)。
+详见 [本初清净 Ka dag](concepts/本初清净.md)。
 
 ### 2. 任运自成 Lhun grub / Spontaneous Presence
 
@@ -117,7 +117,7 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 | 《禅定休息》 | Bsam gtan ngal gso | 止观禅修的详细指南 | 三休息之一 |
 | 《幻化休息》 | Sgyu ma ngal gso | 幻化瑜伽的修法 | 三休息之一 |
 
-详见 [著作目录](works.md)。
+详见 [著作目录](著作.md)。
 
 ---
 
@@ -246,18 +246,18 @@ children: ["concepts/primordial-purity", "concepts/spontaneous-presence", "conce
 - Sogyal Rinpoche, *The Tibetan Book of Living and Dying*
 - 顶果钦哲仁波切《如意宝——大圆满教法》
 
-详见 [进阶阅读](reading-list.md)。
+详见 [进阶阅读](阅读.md)。
 
 ---
 
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [本初清净 Ka dag](concepts/primordial-purity.md) — 心的空性面：本来无染
+- [本初清净 Ka dag](concepts/本初清净.md) — 心的空性面：本来无染
 - [任运自成 Lhun grub](concepts/spontaneous-presence.md) — 心的光明面：本具功德
 - [彻却与脱嘎](concepts/trekcho-togal.md) — 大圆满的两大修法
 - [九乘判教](concepts/nine-yana.md) — 佛法的层级分类体系
 - [七宝藏](concepts/seven-treasures.md) — 隆钦巴的七部巨著
-- [著作目录](works.md) — 完整著作列表与分类
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与分类
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

@@ -246,6 +246,6 @@ On property, Locke's labour-appropriation theory contrasts with the Daoist view 
 - [财产权劳动论 Labor Theory of Property](concepts/property-labor.md) — 劳动、占有与限制 / Labour, appropriation, and its limits
 - [基于同意的政府 Government by Consent](concepts/government-consent.md) — 信托、同意与革命权 / Trust, consent, and the right of revolution
 - [宗教宽容 Toleration](concepts/toleration.md) — 信仰自由与政教分离 / Religious freedom and church-state separation
-- [著作年表 Works](works.md) — 洛克全部著作编年 / Chronological bibliography of all Locke's works
-- [生平大事记 Timeline](timeline.md) — 洛克生平与思想年表 / Biographical and intellectual timeline
-- [阅读指南 Reading List](reading-list.md) — 分级进阶阅读建议 / Graded reading recommendations
+- [著作年表 Works](著作.md) — 洛克全部著作编年 / Chronological bibliography of all Locke's works
+- [生平大事记 Timeline](时间线.md) — 洛克生平与思想年表 / Biographical and intellectual timeline
+- [阅读指南 Reading List](阅读.md) — 分级进阶阅读建议 / Graded reading recommendations

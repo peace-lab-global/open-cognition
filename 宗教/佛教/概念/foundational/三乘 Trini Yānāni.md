@@ -47,8 +47,8 @@ sources: [《法华经》, 《大智度论》, 《解深密经》]
 
 - [方便](upaya.md) — [同源] 三乘是方便，一乘是真实（法华经立场）
 - [判教](doctrinal-classification.md) — [发展] 各宗的三乘观是判教的核心内容
-- [菩萨道](bodhisattva-path.md) — [同源] 菩萨乘的核心
-- [佛性](buddha-nature.md) — [同源] 一乘论基于"一切众生悉有佛性"
+- [菩萨道](菩萨道 Bodhisattva Path.md) — [同源] 菩萨乘的核心
+- [佛性](佛性 Buddha Nature.md) — [同源] 一乘论基于"一切众生悉有佛性"
 
 ## 常见误读
 

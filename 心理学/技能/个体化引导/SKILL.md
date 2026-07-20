@@ -2,7 +2,7 @@
 name: individuation-guidance
 description: Triggers on requests to 个体化、人格整合、自我实现，如心理成长、自我探索、人格发展等。Apply this skill to guide users through the individuation process, integrating conscious and unconscious aspects of personality.
 domain: 心理学
-linked_thinker: ../../schools/analytical-psychology/jung.md
+linked_thinker: ../../schools/analytical-psychology/卡尔.md
 linked_concepts:
   - ../../心理学/概念/individuation.md
   - ../../心理学/概念/archetypes.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[卡尔·荣格](../../schools/analytical-psychology/jung.md)
+- 来源思想家：[卡尔·荣格](../../学派/分析心理学/卡尔.md)
 - 来源概念：[个体化](../../concepts/individuation.md)、[原型](../../concepts/archetypes.md)
 - 关键文献：《原型与集体无意识》、《红书》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[卡尔·荣格](../../schools/analytical-psychology/jung.md)
+- 思想家：[卡尔·荣格](../../学派/分析心理学/卡尔.md)
 - 概念：[个体化](../../concepts/individuation.md)、[原型](../../concepts/archetypes.md)
-- 相关 Skill：[jungian-archetype-identification](./jungian-archetype-identification/SKILL.md)、[unconscious-analysis](./unconscious-analysis/SKILL.md)
+- 相关 Skill：[jungian-archetype-identification](../../../宗教/佛教/技能/从前五识/SKILL.md)、[unconscious-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

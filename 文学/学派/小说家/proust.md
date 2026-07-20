@@ -72,9 +72,9 @@ sources:
 ## 跨学科关联
 
 - [柏格森/时间](../../../philosophy/concepts/time.md) `[同源]` 内在时间与绵延（durée）的哲学共鸣
-- [胡塞尔/现象学](../../../philosophy/schools/phenomenology/husserl.md) `[互补]` 对内在时间意识的平行探索
+- [胡塞尔/现象学](../../../哲学/学派/现象学/husserl.md) `[互补]` 对内在时间意识的平行探索
 - [乔伊斯](joyce.md) `[平行]` 同为意识流先驱，分别发展时间—记忆与语言—空间的路径
-- [记忆/叙事](../../../psychology/schools/narrative-therapy/) `[发展]` 记忆重述与自我重建的当代回响
+- [记忆/叙事](马塞尔/README.md) `[发展]` 记忆重述与自我重建的当代回响
 
 ## 进阶阅读
 
@@ -93,4 +93,10 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [普鲁斯特-寻找失去的时间](../../../名言/爱欲/普鲁斯特-寻找失去的时间.md)

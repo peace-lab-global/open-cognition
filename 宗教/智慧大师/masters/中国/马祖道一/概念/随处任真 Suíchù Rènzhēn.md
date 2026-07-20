@@ -5,9 +5,12 @@ type: concept
 thinker: 马祖道一 Mazu Daoyi
 domain: 宗教
 school: chan-buddhism
-tags: [随处任真, 自然, 禅宗]
+tags:
+- 随处任真
+- 自然
+- 禅宗
+era: medieval
 ---
-
 # 随处任真 Natural Authenticity Everywhere
 
 > 关联思想家：[马祖道一 Mazu Daoyi](../README.md)

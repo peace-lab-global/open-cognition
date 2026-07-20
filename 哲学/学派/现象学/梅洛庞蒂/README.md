@@ -39,9 +39,9 @@ sub-entries:
   - concepts/perception.md
   - concepts/chiasm.md
   - concepts/lived-body.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 梅洛-庞蒂 · Maurice Merleau-Ponty
@@ -147,16 +147,16 @@ Merleau-Ponty stands at the central crossroads of 20th-century French 哲学. He
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [胡塞尔 · Edmund Husserl](../phenomenology/husserl.md) `[发展]` 将先验现象学具身化，生活世界概念的具体展开
-- [海德格尔 · Martin Heidegger](../existentialism/heidegger.md) `[发展]` 将"在世存在"具体化为身体的在世
-- [萨特 · Jean-Paul Sartre](../existentialism/sartre.md) `[批判]` 以身体含混性取代纯粹自为意识
-- [康德 · Immanuel Kant](../german-idealism/kant.md) `[批判]` 反对先验主体的纯粹形式性
+- [海德格尔 · Martin Heidegger](../存在主义/海德格尔.md) `[发展]` 将"在世存在"具体化为身体的在世
+- [萨特 · Jean-Paul Sartre](../存在主义/萨特.md) `[批判]` 以身体含混性取代纯粹自为意识
+- [康德 · Immanuel Kant](../german-idealism/康德.md) `[批判]` 反对先验主体的纯粹形式性
 - [庄子 · Zhuāngzǐ](../eastern/zhuangzi.md) `[平行]` 庖丁解牛与运动意向性，物化与交织
 - [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 身体图式与阿赖耶根身器界
-- [具身认知 · Embodied Cognition](../../../心理学/概念/embodied-cognition.md) `[发展]` 4E认知的哲学基础
+- [具身认知 · Embodied Cognition](../../../心理学/概念/生成认知.md) `[发展]` 4E认知的哲学基础
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 原典 / Primary Sources
 - Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Trans. D. A. Landes. Routledge, 2012.
@@ -186,6 +186,6 @@ Merleau-Ponty stands at the central crossroads of 20th-century French 哲学. He
 - [知觉 / Perception](concepts/perception.md)
 - [交织 / Chiasm](concepts/chiasm.md)
 - [活的身体 / Lived Body](concepts/lived-body.md)
-- [著作目录](works.md)
-- [年表](timeline.md)
-- [进阶阅读](reading-list.md)
+- [著作目录](著作.md)
+- [年表](时间线.md)
+- [进阶阅读](阅读.md)

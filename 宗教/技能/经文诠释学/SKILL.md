@@ -4,8 +4,8 @@ description: Triggers when a user cites a religious text to win an argument, tak
 domain: 宗教
 linked_concepts:
   - ../../traditions/judaism/covenant.md
-  - ../../traditions/christianity/grace-redemption.md
-  - ../../traditions/islam/five-pillars.md
+  - ../../传统/基督教/恩典与救赎.md
+  - ../../traditions/islam/五功.md
 tags:
   - hermeneutics
   - language
@@ -109,5 +109,5 @@ tags:
 
 ## 关联条目
 
-- 概念：[律法与盟约](../../traditions/judaism/covenant.md)、[恩典与救赎](../../traditions/christianity/grace-redemption.md)、[五功](../../traditions/islam/five-pillars.md)
+- 概念：[律法与盟约](../../traditions/judaism/covenant.md)、[恩典与救赎](../../传统/基督教/恩典与救赎.md)、[五功](../../传统/伊斯兰教/五功.md)
 - 相关 Skill：[语言游戏分析](../../../哲学/技能/语言游戏分析/SKILL.md)、[辩证法分析](../../../哲学/技能/辩证法分析/SKILL.md)

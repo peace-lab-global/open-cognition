@@ -45,4 +45,4 @@ The *Zhao Lun* is a collection of four philosophical treatises by Seng-chao, a f
 ## 延伸阅读 Further Reading
 
 - [僧肇 主页](../README.md)
-- [僧肇 著作](../works.md)
+- [僧肇 著作](../著作.md)

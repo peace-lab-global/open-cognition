@@ -22,14 +22,14 @@ cross-refs:
   - id: aristotle
     relation: 批判
 children:
-  - concepts/categorical-imperative.md
+  - concepts/定言命令.md
   - concepts/autonomy.md
   - concepts/duty-and-good-will.md
   - concepts/kingdom-of-ends.md
   - concepts/perpetual-peace.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 康德 · Immanuel Kant（伦理学）
@@ -104,9 +104,9 @@ children:
 ## 子条目索引
 | 子条目 | 内容 |
 |---|---|
-| [concepts/categorical-imperative.md](concepts/categorical-imperative.md) | 定言命令 · 三公式 |
+| [concepts/定言命令.md](concepts/定言命令.md) | 定言命令 · 三公式 |
 | [concepts/autonomy.md](concepts/autonomy.md) | 自律 · 自我立法 |
 | [concepts/duty-and-good-will.md](concepts/duty-and-good-will.md) | 义务 · 善良意志 |
 | [concepts/kingdom-of-ends.md](concepts/kingdom-of-ends.md) | 目的王国 |
 | [concepts/perpetual-peace.md](concepts/perpetual-peace.md) | 永久和平 |
-| [works.md](works.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md) |
+| [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

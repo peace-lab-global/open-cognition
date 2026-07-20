@@ -14,9 +14,9 @@ sources:
   - Reid, *Essays on the Intellectual Powers of Man* (1785)
   - Reid, *Essays on the Active Powers of Man* (1788)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: hume
     relation: 对立

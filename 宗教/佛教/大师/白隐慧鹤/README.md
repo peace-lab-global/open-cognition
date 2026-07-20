@@ -147,8 +147,8 @@ Hakuin's influence on Japanese culture extended far beyond religion:
 | 《白隐禅师法语》 *Hakuin Oshō Hōgo* | various | 法语集 / Dharma talks | 对在家弟子的开示与指导 |
 | 《壁庵集》 *Hekigan-shū* | various | 诗文集 / Poetry and prose | 白隐的诗文与禅画题赞 |
 
-详见 [著作列表](works.md)。
-See [Complete Works List](works.md).
+详见 [著作列表](著作.md)。
+See [Complete Works List](著作.md).
 
 ---
 
@@ -267,11 +267,11 @@ Although Hakuin criticized treating kōans as literary objects, he was himself a
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [荣西 Yōsai](../yosai.md) — [继承 inheritance] 日本临济宗创始人，白隐的思想先驱
-- [大慧宗杲 Dahui Zonggao](../../schools/chan-zen.md) — [继承 inheritance] 看话禅创始人，白隐的方法论渊源
-- [道元 Dōgen](../dogen.md) — [对比 contrast] 日本禅的另一大传统——曹洞宗
+- [大慧宗杲 Dahui Zonggao](../../schools/禅宗.md) — [继承 inheritance] 看话禅创始人，白隐的方法论渊源
+- [道元 Dōgen](../道元.md) — [对比 contrast] 日本禅的另一大传统——曹洞宗
 - [菩提达摩 Bodhidharma](../bodhidharma.md) — [继承 inheritance] 禅宗法脉的源头
 - [公案参究法 Koan Practice](../../skills/koan-practice/SKILL.md) — [同源 cognate] 白隐的公案体系是此 Skill 的主要依据
-- [禅宗 Chan/Zen](../schools/chan-zen.md) — [同源 cognate] 临济宗日本传承
+- [禅宗 Chan/Zen](../schools/禅宗.md) — [同源 cognate] 临济宗日本传承
 
 ---
 
@@ -292,8 +292,8 @@ Although Hakuin criticized treating kōans as literary objects, he was himself a
 - Norman Waddell, *The Essential Teachings of Zen Master Hakuin* (Shambhala, 2010)
 - Philip Yampolsky, *The Zen Master Hakuin: Selected Writings* (Columbia, 1971)
 
-详见 [阅读清单](reading-list.md)。
-See [Complete Reading List](reading-list.md).
+详见 [阅读清单](阅读.md)。
+See [Complete Reading List](阅读.md).
 
 ---
 
@@ -306,6 +306,6 @@ See [Complete Reading List](reading-list.md).
 | 悟后修行 Post-Awakening | [concepts/post-awakening](concepts/post-awakening.md) |
 | 软酥法 Soft-Butter Method | [concepts/body-cultivation](concepts/body-cultivation.md) |
 | 坐禅和赞 Hymn to Zazen | [concepts/zazen-hymn](concepts/zazen-hymn.md) |
-| 著作列表 Works | [works](works.md) |
-| 年表 Timeline | [timeline](timeline.md) |
-| 阅读清单 Reading List | [reading-list](reading-list.md) |
+| 著作列表 Works | [works](著作.md) |
+| 年表 Timeline | [timeline](时间线.md) |
+| 阅读清单 Reading List | [reading-list](阅读.md) |

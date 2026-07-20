@@ -16,9 +16,9 @@ sources:
   - Aquinas, *De Ente et Essentia* (c. 1256)
   - Aquinas, *Quaestiones Disputatae de Veritate* (1256–1259)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: aristotle
     relation: 继承/基督教化

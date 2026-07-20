@@ -2,7 +2,7 @@
 name: natural-rights-analysis
 description: Triggers on requests to 自然权利、财产权、政府权力，如政治哲学、权利理论、自由主义等。Apply this skill to analyze political and ethical issues using Locke's concept of natural rights, understanding the foundations of liberal political theory.
 domain: 伦理政治
-linked_thinker: ../../schools/social-contract/locke.md
+linked_thinker: ../../schools/social-contract/约翰.md
 linked_concepts:
   - ../../concepts/natural-rights.md
   - ../../伦理政治/概念/property.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[约翰·洛克](../../schools/social-contract/locke.md)
+- 来源思想家：[约翰·洛克](../../学派/社会契约论/约翰.md)
 - 来源概念：[自然权利](../../concepts/natural-rights.md)、[财产权](../../concepts/property.md)
 - 关键文献：《政府论》、《人类理解论》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[约翰·洛克](../../schools/social-contract/locke.md)
+- 思想家：[约翰·洛克](../../学派/社会契约论/约翰.md)
 - 概念：[自然权利](../../concepts/natural-rights.md)、[财产权](../../concepts/property.md)
-- 相关 Skill：[state-of-nature-analysis](./state-of-nature-analysis/SKILL.md)、[justice-principle-test](./justice-principle-test/SKILL.md)
+- 相关 Skill：[state-of-nature-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[justice-principle-test](../../../宗教/佛教/技能/从前五识/SKILL.md)

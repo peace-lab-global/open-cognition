@@ -79,7 +79,7 @@ README 徽章和表格宣称：
 ### 🟡 问题 5：概念文件存在重复
 
 抽样发现佛教认知专题有同名文件分散：
-- `eight-consciousness.md` 同时存在于 `concepts/standalone/` 和 `concepts/cognitive-theory/`
+- `八识体系.md` 同时存在于 `concepts/standalone/` 和 `concepts/cognitive-theory/`
 - 这直接导致链接目标歧义，也是 E003 的来源之一
 
 ---

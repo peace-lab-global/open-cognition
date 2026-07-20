@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[文森特·梵高](../../schools/visual-arts/van-gogh.md)
 - 概念：[色彩与情感](../../concepts/color-emotion.md)、[真实](../../concepts/truth.md)
-- 相关 Skill：[suffering-art-analysis](./suffering-art-analysis/SKILL.md)、[human-nature-analysis](../../文学/技能/人性洞察分析/SKILL.md)
+- 相关 Skill：[suffering-art-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[human-nature-analysis](../../../文学/技能/人性洞察分析/SKILL.md)

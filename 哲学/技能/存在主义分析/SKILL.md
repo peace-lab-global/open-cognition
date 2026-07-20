@@ -2,10 +2,10 @@
 name: existentialism-analysis
 description: Triggers on requests to 存在先于本质、自由、责任，如人生意义探索、道德决策、自我认同等。Apply this skill to analyze situations using Sartre's existentialist philosophy, emphasizing radical freedom and responsibility.
 domain: 哲学
-linked_thinker: ../../schools/existentialism/sartre.md
+linked_thinker: ../../schools/存在主义/萨特.md
 linked_concepts:
   - ../../哲学/概念/existence-precedes-essence.md
-  - ../../哲学/概念/freedom.md
+  - ../../哲学/概念/自由.md
 tags:
   - 存在主义
   - 自由
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[让-保罗·萨特](../../schools/existentialism/sartre.md)
-- 来源概念：[存在先于本质](../../concepts/existence-precedes-essence.md)、[自由](../../concepts/freedom.md)
+- 来源思想家：[让-保罗·萨特](../../学派/存在主义/萨特.md)
+- 来源概念：[存在先于本质](../../concepts/existence-precedes-essence.md)、[自由](../../学派/存在主义/萨特/概念/自由.md)
 - 关键文献：《存在与虚无》、《存在主义是一种人道主义》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[让-保罗·萨特](../../schools/existentialism/sartre.md)
-- 概念：[存在先于本质](../../concepts/existence-precedes-essence.md)、[自由](../../concepts/freedom.md)
-- 相关 Skill：[will-to-power-analysis](./will-to-power-analysis/SKILL.md)、[dasein-analysis](./dasein-analysis/SKILL.md)
+- 思想家：[让-保罗·萨特](../../学派/存在主义/萨特.md)
+- 概念：[存在先于本质](../../concepts/existence-precedes-essence.md)、[自由](../../学派/存在主义/萨特/概念/自由.md)
+- 相关 Skill：[will-to-power-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[dasein-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

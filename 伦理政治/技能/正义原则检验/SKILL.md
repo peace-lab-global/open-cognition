@@ -2,9 +2,9 @@
 name: justice-principle-test
 description: 罗尔斯正义原则检验用于评估社会基本结构的公正性。依次检验平等自由原则与差别原则，判断某社会安排是否满足正义二原则。Triggers on 评估社会政策、分配方案、公共制度设计的公正性，或分析为何某些不平等是或不是正义的。
 domain: 伦理政治
-linked_thinker: ../../schools/social-contract/rawls.md
+linked_thinker: ../../学派/社会契约论/约翰-rawls.md
 linked_concepts:
-  - ../../concepts/veil-of-ignorance.md
+  - ../../concepts/无知之幕.md
   - ../../concepts/sense-of-justice.md
 tags:
   - 正义论
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[罗尔斯 John Rawls](../../schools/social-contract/rawls.md)
-- 来源概念：[无知之幕](../../concepts/veil-of-ignorance.md)、[正义感](../../concepts/sense-of-justice.md)
+- 来源思想家：[罗尔斯 John Rawls](../../学派/社会契约论/约翰-rawls.md)
+- 来源概念：[无知之幕](../../学派/社会契约论/约翰-rawls/概念/无知之幕.md)、[正义感](../../concepts/sense-of-justice.md)
 - 关键文献：Rawls, *A Theory of Justice* §46–51
 
 ## 操作流程
@@ -119,6 +119,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[罗尔斯](../../schools/social-contract/rawls.md)
-- 概念：[无知之幕](../../concepts/veil-of-ignorance.md)、[社会契约](../../concepts/social-contract.md)
-- 相关Skill：[无知之幕分析](./veil-of-ignorance-analysis/SKILL.md)
+- 思想家：[罗尔斯](../../学派/社会契约论/约翰-rawls.md)
+- 概念：[无知之幕](../../学派/社会契约论/约翰-rawls/概念/无知之幕.md)、[社会契约](../../学派/社会契约论/托马斯/概念/社会契约.md)
+- 相关Skill：[无知之幕分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

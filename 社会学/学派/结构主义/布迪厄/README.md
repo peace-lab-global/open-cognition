@@ -153,6 +153,6 @@ Bourdieu is the most influential French sociologist of the late 20th century, th
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [著作年表](works.md) | 布迪厄主要著作详述 / Detailed survey of Bourdieu's major works |
-| [生平年谱](timeline.md) | 布迪厄生平与思想大事年表 / Chronology of Bourdieu's life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 布迪厄主要著作详述 / Detailed survey of Bourdieu's major works |
+| [生平年谱](时间线.md) | 布迪厄生平与思想大事年表 / Chronology of Bourdieu's life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

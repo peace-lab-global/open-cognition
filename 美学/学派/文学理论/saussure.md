@@ -72,8 +72,8 @@ sources:
 
 - [德里达](../../../philosophy/schools/post-structuralism/derrida.md) `[批判]` 德里达用"延异"解构索绪尔的二元对立与在场形而上学
 - [巴特](barthes.md) `[发展]` 巴特将结构语言学扩展到文化符号分析
-- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 两者都关注语言的系统性，但进路迥异
-- [福柯](../../../sociology/schools/structuralism/foucault.md) `[平行]` 话语/知识/权力的系统观
+- [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) `[平行]` 两者都关注语言的系统性，但进路迥异
+- [福柯](../../../社会学/学派/结构主义/福柯.md) `[平行]` 话语/知识/权力的系统观
 
 ## 进阶阅读
 
@@ -91,4 +91,10 @@ sources:
 
 ## 关联 Skills
 
-- [语言游戏分析](../../../philosophy/skills/language-game-analysis/SKILL.md)
+- [语言游戏分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [索绪尔-符号的任意性](../../../名言/语言游戏/索绪尔-符号的任意性.md)

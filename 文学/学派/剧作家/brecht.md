@@ -72,9 +72,9 @@ sources:
 
 ## 跨学科关联
 
-- [马克思](../../../sociology/schools/classical/marx.md) `[同源]` 唯物史观与阶级分析是史诗剧的思想底座
+- [马克思](../../../社会学/学派/古典社会学/马克思.md) `[同源]` 唯物史观与阶级分析是史诗剧的思想底座
 - [阿多诺](../../../aesthetics/schools/critical-aesthetics/adorno.md) `[批判]` 批判布莱希特过于"介入"，争论艺术自律与政治效用
-- [本雅明](../../../aesthetics/schools/critical-aesthetics/benjamin.md) `[互补]` "可技术复制"与间离效果互为理论映照
+- [本雅明](../../../美学/学派/批判美学/瓦尔特.md) `[互补]` "可技术复制"与间离效果互为理论映照
 - [莎士比亚](shakespeare.md) `[对立]` 以反认同的史诗剧挑战亚里士多德—莎剧式的情感净化传统
 
 ## 进阶阅读
@@ -94,4 +94,4 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析

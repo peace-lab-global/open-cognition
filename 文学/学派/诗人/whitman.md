@@ -72,10 +72,10 @@ sources:
 
 ## 跨学科关联
 
-- [爱默生/超验主义](../../../philosophy/schools/eastern/confucius.md) `[同源]` 惠特曼受超验主义与东方经典共同滋养
+- [爱默生/超验主义](../../../哲学/学派/东方哲学/confucius.md) `[同源]` 惠特曼受超验主义与东方经典共同滋养
 - [杜威/实用主义](../../../philosophy/schools/pragmatism/dewey.md) `[平行]` 两人共同构想"民主即生活方式"
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 肉体礼赞与个体超越的跨洋呼应
-- [心理分析/身体](../../../psychology/schools/psychoanalysis/freud.md) `[互补]` 将性与身体纳入严肃精神书写的先驱
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[平行]` 肉体礼赞与个体超越的跨洋呼应
+- [心理分析/身体](../../../心理学/学派/精神分析/西格蒙德.md) `[互补]` 将性与身体纳入严肃精神书写的先驱
 
 ## 进阶阅读
 
@@ -94,4 +94,4 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析

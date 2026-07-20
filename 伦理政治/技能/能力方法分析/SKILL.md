@@ -5,7 +5,7 @@ domain: 伦理政治
 linked_thinker: ../../schools/capability-approach/sen.md
 linked_concepts:
   - ../../伦理政治/概念/capability-approach.md
-  - ../../伦理政治/概念/development-as-freedom.md
+  - ../../伦理政治/概念/development-as-自由.md
 tags:
   - 能力方法
   - 发展即自由
@@ -36,7 +36,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[阿马蒂亚·森](../../schools/capability-approach/sen.md)
-- 来源概念：[能力方法](../../concepts/capability-approach.md)、[发展即自由](../../concepts/development-as-freedom.md)
+- 来源概念：[能力方法](../../concepts/capability-approach.md)、[发展即自由](../../concepts/development-as-自由.md)
 - 关键文献：《以自由看待发展》、《贫困与饥荒》
 
 ## 操作流程
@@ -100,5 +100,5 @@ tags:
 ## 关联条目
 
 - 思想家：[阿马蒂亚·森](../../schools/capability-approach/sen.md)
-- 概念：[能力方法](../../concepts/capability-approach.md)、[发展即自由](../../concepts/development-as-freedom.md)
-- 相关 Skill：[justice-principle-test](./justice-principle-test/SKILL.md)、[social-fact-analysis](../../社会学/技能/社会事实分析/SKILL.md)
+- 概念：[能力方法](../../concepts/capability-approach.md)、[发展即自由](../../concepts/development-as-自由.md)
+- 相关 Skill：[justice-principle-test](../../../宗教/佛教/技能/从前五识/SKILL.md)、[social-fact-analysis](../../../社会学/技能/社会事实分析/SKILL.md)

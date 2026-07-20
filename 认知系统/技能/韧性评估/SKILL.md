@@ -2,10 +2,10 @@
 name: resilience-assessment
 description: 评估系统在面对意外和压力时的韧性水平，基于 Woods 和 Hollnagel 的韧性工程理论。Triggers on requests to evaluate system resilience, safety-II analysis, or assess how systems handle unexpected events.
 domain: 认知系统
-linked_thinker: ../../schools/cognitive-engineering/woods.md
+linked_thinker: ../../认知工程/伍兹.md
 linked_concepts:
-  - ../../concepts/resilience-engineering.md
-  - ../../concepts/joint-cognitive-system.md
+  - ../../concepts/韧性工程.md
+  - ../../concepts/联合认知系统.md
 tags:
   - resilience
   - safety
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[伍兹 Woods](../../schools/cognitive-engineering/woods.md)
-- 来源概念：[韧性工程](../../concepts/resilience-engineering.md)
+- 来源思想家：[伍兹 Woods](../../学派/认知工程/伍兹.md)
+- 来源概念：[韧性工程](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/韧性工程.md)
 - 关键文献：Hollnagel, E. *Safety-I and Safety-II*. Ashgate, 2014.
 
 ## 操作流程
@@ -109,6 +109,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[伍兹](../../schools/cognitive-engineering/woods.md)
-- 概念：[韧性工程](../../concepts/resilience-engineering.md)
-- 相关 Skill：[人为错误分析](../human-error-analysis/SKILL.md)
+- 思想家：[伍兹](../../学派/认知工程/伍兹.md)
+- 概念：[韧性工程](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/韧性工程.md)
+- 相关 Skill：[人为错误分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

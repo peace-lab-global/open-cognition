@@ -138,5 +138,5 @@ Aryadeva demonstrates in the *Satasatra* a critical yet respectful debate style 
 
 - [四百论 Catuhsataka](four-hundred-verses.md) — 提婆的另一部核心著作
 - [与龙树的分工](nagarjuna-partnership.md) — 《百论》在龙树—提婆体系中的定位
-- [龙树·中论](../nagarjuna/concepts/sunyata.md) — 三论宗"三论"之首
+- [龙树·中论](../龙树/概念/空性.md) — 三论宗"三论"之首
 - [三论宗](../schools/sanlun.md) — 《百论》的汉传传承

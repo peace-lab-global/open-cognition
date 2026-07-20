@@ -56,8 +56,8 @@ sources: [龙树造/鸠摩罗什译《大智度论》100卷, 大品般若经]
 ## 重要概念
 
 - [空性](../concepts/foundational/emptiness.md) [核心] — 大智度论是"空"的最详尽展开（十八空）
-- [二谛](../concepts/foundational/two-truths.md) [继承] — 以二谛架构统摄世俗与胜义
-- [菩萨道](../concepts/foundational/bodhisattva-path.md) [展开] — 六度波罗蜜的系统论述
+- [二谛](../概念/foundational/二谛 Two Truths.md) [继承] — 以二谛架构统摄世俗与胜义
+- [菩萨道](../概念/foundational/菩萨道 Bodhisattva Path.md) [展开] — 六度波罗蜜的系统论述
 - [四无所畏](../concepts/foundational/four-fearlessnesses.md) [来源] — 佛果功德"十力/四无畏/十八不共法"的主要出处
 - [三乘](../concepts/foundational/three-vehicles.md) [讨论] — 对三乘与一乘关系的广泛讨论
 

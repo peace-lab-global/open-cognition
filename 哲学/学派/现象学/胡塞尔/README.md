@@ -27,14 +27,14 @@ cross-refs:
   - id: 宗教.buddhism.concept.pramana
     relation: 平行
 children:
-  - concepts/intentionality.md
+  - concepts/意向性.md
   - concepts/phenomenological-reduction.md
   - concepts/lifeworld.md
   - concepts/time-consciousness.md
   - concepts/eidetic-reduction.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 related-comparative:
   - ../../../哲学/学派/比较哲学/存在主义唯识.md
 ---
@@ -80,7 +80,7 @@ related-comparative:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 早期:逻辑学与心理主义批判(1887–1901)
 - 数学家出身,师从魏尔斯特拉斯
@@ -104,7 +104,7 @@ related-comparative:
 
 | 母题 | 代表作 | 子条目 |
 |---|---|---|
-| **意向性** | 《逻辑研究》第五/六研究 | [intentionality.md](concepts/intentionality.md) |
+| **意向性** | 《逻辑研究》第五/六研究 | [意向性.md](concepts/意向性.md) |
 | **现象学还原** | 《观念 I》 | [phenomenological-reduction.md](concepts/phenomenological-reduction.md) |
 | **生活世界** | 《危机》 | [lifeworld.md](concepts/lifeworld.md) |
 | **内时间意识** | 《时间意识讲演》 | [time-consciousness.md](concepts/time-consciousness.md) |
@@ -112,7 +112,7 @@ related-comparative:
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 必读四书
 - **《逻辑研究》**(1900–1901)— 批判心理主义,开创描述现象学
@@ -160,16 +160,16 @@ related-comparative:
 - [海德格尔](../existentialism/heidegger/README.md) `[发展]` 以此在分析论取代先验主体性
 - [梅洛-庞蒂](../phenomenology/merleau-ponty/README.md) `[发展]` 以身体-主体取代纯粹意识
 - [萨特](../existentialism/sartre/README.md) `[发展]` 将意向性激进化为"意识即虚无"
-- [康德](../german-idealism/kant.md) `[平行]` 先验哲学传统
+- [康德](../german-idealism/康德.md) `[平行]` 先验哲学传统
 - [德里达](../post-structuralism/derrida.md) `[发展]` 解构在场形而上学
-- [维特根斯坦](../analytic/wittgenstein.md) `[对照]` 语言哲学路径的分歧
+- [维特根斯坦](../analytic/维特根斯坦.md) `[对照]` 语言哲学路径的分歧
 
 ### 东方思想
 - [唯识 · Yogācāra](../../../宗教/佛教/学派/唯识 Yogācāra.md) `[平行]` 四分说、唯识无境与意向性的方法论呼应
 - [量论 · Pramāṇa](../../../宗教/佛教/概念/cognitive-theory/量论.md) `[平行]` 现象学直观与瑜伽现量
 
 ### 认知科学
-- [具身认知](../../../心理学/概念/embodied-cognition.md) `[发展]` 现象学作为哲学基础
+- [具身认知](../../../心理学/概念/生成认知.md) `[发展]` 现象学作为哲学基础
 - [预测加工](../../../认知系统/概念/预测加工.md) `[平行]` Noema 与预测模型的对话
 
 ## 东西方对话:胡塞尔 × 唯识
@@ -187,7 +187,7 @@ related-comparative:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 - 《观念 I》导论部分
@@ -219,14 +219,14 @@ related-comparative:
 
 | 子条目 | 内容 |
 |---|---|
-| [concepts/intentionality.md](concepts/intentionality.md) | 意向性 · noesis / noema |
+| [concepts/意向性.md](concepts/意向性.md) | 意向性 · noesis / noema |
 | [concepts/phenomenological-reduction.md](concepts/phenomenological-reduction.md) | 现象学还原 · 悬置 |
 | [concepts/lifeworld.md](concepts/lifeworld.md) | 生活世界 · 科学危机 |
 | [concepts/time-consciousness.md](concepts/time-consciousness.md) | 内时间意识 · 滞留/前摄 |
 | [concepts/eidetic-reduction.md](concepts/eidetic-reduction.md) | 本质还原 · 变更 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |
 
 ## 比较页
 

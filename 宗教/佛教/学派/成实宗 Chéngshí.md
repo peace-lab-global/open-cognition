@@ -72,8 +72,8 @@ sources: [《成实论》（诃梨跋摩造，鸠摩罗什译）]
 
 - [俱舍宗](kosa.md) — [同源] 同属阿毗达磨传统，但立场不同（有部 vs 经量部）
 - [三论宗](sanlun.md) — [批判] 吉藏批评成实宗为"小乘"
-- [空性](../concepts/foundational/sunyata.md) — [同源] "灭三心"通向空性
-- [二谛](../concepts/foundational/two-truths.md) — [同源] 成实宗的二谛观
+- [空性](../概念/foundational/空性 Śūnyatā.md) — [同源] "灭三心"通向空性
+- [二谛](../概念/foundational/二谛 Two Truths.md) — [同源] 成实宗的二谛观
 - [鸠摩罗什](../masters/kumarajiva.md) — [同源] 《成实论》的翻译者
 
 ## 常见误读

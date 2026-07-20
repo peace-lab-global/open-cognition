@@ -44,9 +44,9 @@ children:
   - concepts/prejudice.md
   - concepts/effective-historical-consciousness.md
   - concepts/dialogue.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 伽达默尔 · Hans-Georg Gadamer
@@ -239,7 +239,7 @@ children:
 
 ## 进阶阅读
 
-见 [reading-list.md](reading-list.md)。
+见 [阅读.md](阅读.md)。
 
 ## 子条目索引
 
@@ -250,6 +250,6 @@ children:
 | [concepts/prejudice.md](concepts/prejudice.md) | 前见/偏见 Vorurteil |
 | [concepts/effective-historical-consciousness.md](concepts/effective-historical-consciousness.md) | 效果历史意识 Wirkungsgeschichtliches Bewusstsein |
 | [concepts/dialogue.md](concepts/dialogue.md) | 对话与问答逻辑 Gesprach / Frage und Antwort |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |

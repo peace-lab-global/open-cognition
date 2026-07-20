@@ -5,9 +5,12 @@ type: concept
 thinker: 马祖道一 Mazu Daoyi
 domain: 宗教
 school: chan-buddhism
-tags: [非心非佛, 超越, 禅宗]
+tags:
+- 非心非佛
+- 超越
+- 禅宗
+era: medieval
 ---
-
 # 非心非佛 Neither Mind Nor Buddha
 
 > 关联思想家：[马祖道一 Mazu Daoyi](../README.md)

@@ -8,10 +8,10 @@
 
 | 文件 | 说明 | canonical 版本 |
 |---|---|---|
-| `eight-consciousness.md` | 早期八识版本 | ✅ [cognitive-theory/eight-consciousness.md](cognitive-theory/eight-consciousness.md) |
-| `qichu-zhengxin.md` | 早期七处征心版本 | ✅ [cognitive-theory/qichu-zhengxin.md](cognitive-theory/qichu-zhengxin.md) |
-| `baihuan-bianjian.md` | 早期八还辨见版本 | ✅ [cognitive-theory/baihuan-bianjian.md](cognitive-theory/baihuan-bianjian.md) |
-| `diamond-sutra-non-attachment.md` | 早期金刚经无著版本 | ✅ [cognitive-theory/diamond-sutra-non-attachment.md](cognitive-theory/diamond-sutra-non-attachment.md) |
+| `八识体系.md` | 早期八识版本 | ✅ [cognitive-theory/八识体系.md](cognitive-theory/八识体系.md) |
+| `七处征心.md` | 早期七处征心版本 | ✅ [cognitive-theory/七处征心.md](cognitive-theory/七处征心.md) |
+| `八还辨见.md` | 早期八还辨见版本 | ✅ [cognitive-theory/八还辨见.md](cognitive-theory/八还辨见.md) |
+| `金刚经.md` | 早期金刚经无著版本 | ✅ [cognitive-theory/金刚经.md](cognitive-theory/金刚经.md) |
 
 > ⚠️ 本目录保留这些文件**不删除**（保持历史链接），但建议新引用一律使用 cognitive-theory 路径。
 
@@ -23,14 +23,14 @@
 
 | 经论 | 核心认知理论 | 条目 |
 |---|---|---|
-| 《瑜伽师地论》 | 八识体系 | [eight-consciousness](cognitive-theory/eight-consciousness.md) |
-| 《成唯识论》 | 四分说/心物一元 | [mind-world](cognitive-theory/mind-world.md) |
-| 《俱舍论》 | 六根六尘六识 | [six-constituents](cognitive-theory/six-constituents.md) |
-| 《解深密经》《成唯识论》 | 转识成智 | [consciousness-transformation](cognitive-theory/consciousness-transformation.md) |
-| 《中论》 | 中观二谛/四句破 | [madhyamaka](cognitive-theory/madhyamaka.md) |
-| 《楞严经》 | 七处征心 | [qichu-zhengxin](cognitive-theory/qichu-zhengxin.md) |
-| 《楞严经》 | 八还辨见 | [baihuan-bianjian](cognitive-theory/baihuan-bianjian.md) |
-| 《金刚经》 | 无相/无住/无所得 | [diamond-sutra-non-attachment](cognitive-theory/diamond-sutra-non-attachment.md) |
+| 《瑜伽师地论》 | 八识体系 | [eight-consciousness](cognitive-theory/八识体系.md) |
+| 《成唯识论》 | 四分说/心物一元 | [mind-world](cognitive-theory/心物一元.md) |
+| 《俱舍论》 | 六根六尘六识 | [six-constituents](cognitive-theory/六根六尘六识.md) |
+| 《解深密经》《成唯识论》 | 转识成智 | [consciousness-transformation](cognitive-theory/转识成智.md) |
+| 《中论》 | 中观二谛/四句破 | [madhyamaka](cognitive-theory/中观.md) |
+| 《楞严经》 | 七处征心 | [qichu-zhengxin](cognitive-theory/七处征心.md) |
+| 《楞严经》 | 八还辨见 | [baihuan-bianjian](cognitive-theory/八还辨见.md) |
+| 《金刚经》 | 无相/无住/无所得 | [diamond-sutra-non-attachment](cognitive-theory/金刚经.md) |
 
 ### 对应 Skills
 见 [`../skills/`](../skills/)，共 15 个。

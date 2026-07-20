@@ -5,7 +5,7 @@ domain: 心理学
 linked_thinker: ../../schools/existential-psychology/frankl.md
 linked_concepts:
   - ../../心理学/概念/logotherapy.md
-  - ../../心理学/概念/will-to-meaning.md
+  - ../../心理学/概念/意义意志.md
 tags:
   - 意义疗法
   - 生命意义
@@ -36,7 +36,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[维克多·弗兰克尔](../../schools/existential-psychology/frankl.md)
-- 来源概念：[意义疗法](../../concepts/logotherapy.md)、[意义意志](../../concepts/will-to-meaning.md)
+- 来源概念：[意义疗法](../../concepts/logotherapy.md)、[意义意志](../../学派/存在心理学/维克多/概念/意义意志.md)
 - 关键文献：《活出生命的意义》、《人类对意义的追寻》
 
 ## 操作流程
@@ -100,5 +100,5 @@ tags:
 ## 关联条目
 
 - 思想家：[维克多·弗兰克尔](../../schools/existential-psychology/frankl.md)
-- 概念：[意义疗法](../../concepts/logotherapy.md)、[意义意志](../../concepts/will-to-meaning.md)
-- 相关 Skill：[existentialism-analysis](../../哲学/技能/存在主义分析/SKILL.md)、[inferiority-transcendence](./inferiority-transcendence/SKILL.md)
+- 概念：[意义疗法](../../concepts/logotherapy.md)、[意义意志](../../学派/存在心理学/维克多/概念/意义意志.md)
+- 相关 Skill：[existentialism-analysis](../../../哲学/技能/存在主义分析/SKILL.md)、[inferiority-transcendence](../../../宗教/佛教/技能/从前五识/SKILL.md)

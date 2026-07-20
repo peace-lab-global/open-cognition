@@ -155,6 +155,6 @@ Giddens is one of the most influential contemporary British sociologists, the fo
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [著作年表](works.md) | 吉登斯主要著作详述 / Detailed survey of Giddens' major works |
-| [生平年谱](timeline.md) | 吉登斯生平与思想大事年表 / Chronology of Giddens' life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 吉登斯主要著作详述 / Detailed survey of Giddens' major works |
+| [生平年谱](时间线.md) | 吉登斯生平与思想大事年表 / Chronology of Giddens' life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

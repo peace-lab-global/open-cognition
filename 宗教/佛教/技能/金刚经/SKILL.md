@@ -4,7 +4,7 @@ description: 金刚经"无住"心法用于破除"心有所执"——不是否定
 domain: 宗教
 school: buddhism-prajna
 linked_concepts:
-  - ../../diamond-sutra-non-attachment.md
+  - ../../金刚经.md
 tags:
   - 金刚经
   - 无相
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源经典：[金刚经·无相](../../concepts/cognitive-theory/diamond-sutra-non-attachment.md)
+- 来源经典：[金刚经·无相](../../概念/cognitive-theory/金刚经.md)
 - 核心三句：无相、无住、无所得
 - 关键命题："应无所住而生其心"
 
@@ -142,6 +142,6 @@ tags:
 
 ## 关联条目
 
-- 概念：[金刚经·无相](../../concepts/cognitive-theory/diamond-sutra-non-attachment.md)
-- 相关Skill：[慧能·无住心法](../../../wisdom-masters/skills/hui-neng-no-dwelling/SKILL.md)（同源）—慧能直接继承《金刚经》无住
-- 跨传统：[道元·只管打坐](../../../wisdom-masters/skills/dogen-shikantaza/SKILL.md)（同源）—"只管打坐"是《金刚经》无住的修行方法
+- 概念：[金刚经·无相](../../概念/cognitive-theory/金刚经.md)
+- 相关Skill：[慧能·无住心法](../../../智慧大师/skills/临济棒喝当下/SKILL.md)（同源）—慧能直接继承《金刚经》无住
+- 跨传统：[道元·只管打坐](../../../智慧大师/skills/临济棒喝当下/SKILL.md)（同源）—"只管打坐"是《金刚经》无住的修行方法

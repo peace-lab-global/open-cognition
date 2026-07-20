@@ -404,3 +404,10 @@ Kantian universalization tests are applied to evaluate AI decision-making algori
 | [著作总览](著作.md) | 七部主要著作详述 |
 | [年表](时间线.md) | 1724–1804 生平与思想大事记 |
 | [阅读书目](阅读.md) | 原典、二手文献、中文资源 |
+---
+
+## 相关名言
+
+本思想在 `名言/` 模块中的独立条目：
+
+- [一沙一世界，一花一天堂](../../../../名言/微观宏观/布莱克-一沙一世界.md)

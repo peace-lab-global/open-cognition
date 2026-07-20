@@ -79,10 +79,10 @@ sources:
 ## 跨学科关联
 
 - [斯金纳 · 操作性条件反射](../../../psychology/schools/behaviorism/skinner.md) `[对立]` 梅洛-庞蒂反对行为主义将身体还原为刺激—反应
-- [福柯 · 规训](../../../sociology/schools/structuralism/foucault.md) `[互补]` 两者都关注身体，但梅洛-庞蒂关注前反思的身体经验，福柯关注权力对身体的规训
-- [海德格尔 · 此在](../existentialism/heidegger.md) `[发展]` 梅洛-庞蒂将海德格尔的"在世存在"具体化为身体的在世
-- [佛教 · 身念处](../../../religion/traditions/buddhism/four-noble-truths.md) `[平行]` 两者都将身体作为觉知的入口
-- [八还辨见 · Eight Returns to Distinguish Seeing](../../../religion/buddhism/concepts/cognitive-theory/baihuan-bianjian.md) `[平行]` 能见者与被见者的交织
+- [福柯 · 规训](../../../社会学/学派/结构主义/福柯.md) `[互补]` 两者都关注身体，但梅洛-庞蒂关注前反思的身体经验，福柯关注权力对身体的规训
+- [海德格尔 · 此在](../存在主义/海德格尔.md) `[发展]` 梅洛-庞蒂将海德格尔的"在世存在"具体化为身体的在世
+- [佛教 · 身念处](../../../宗教/传统/佛教/四圣谛与八正道.md) `[平行]` 两者都将身体作为觉知的入口
+- [八还辨见 · Eight Returns to Distinguish Seeing](../../../宗教/佛教/概念/cognitive-theory/八还辨见.md) `[平行]` 能见者与被见者的交织
 
 ## 进阶阅读
 
@@ -101,4 +101,12 @@ sources:
 
 ## 关联 Skills
 
-- [现象学还原](../../skills/phenomenological-reduction/SKILL.md)
+- [现象学还原](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [佛陀-巴希耶经](../../../名言/身体感知/佛陀-巴希耶经.md)
+- [梅洛-庞蒂-身体主体](../../../名言/身体感知/梅洛-庞蒂-身体主体.md)
+- [梅洛庞蒂-我是我的身体](../../../名言/身体感知/梅洛庞蒂-我是我的身体.md)

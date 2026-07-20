@@ -160,7 +160,7 @@ This is remarkably similar to modern educational theories of cognitive developme
 
 ## 参见 / See Also
 
-- [三谛圆融](three-truths.md) — 圆教的核心教理
+- [三谛圆融](三谛.md) — 圆教的核心教理
 - [法华至上](lotus-supremacy.md) — 五时八教的最终归趣
 - [摩诃止观](mohe-zhiguan.md) — 圆教止观的修行实践
 - [智顗 Zhiyi](../README.md) — 总论

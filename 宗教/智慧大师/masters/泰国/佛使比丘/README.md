@@ -1,34 +1,35 @@
 ---
 id: buddhadasa-expanded
-title: "Buddhadasa Bhikkhu: The Servant of the Buddha — Expanded Wiki"
+title: 'Buddhadasa Bhikkhu: The Servant of the Buddha — Expanded Wiki'
 type: master-wiki
 school: theravada-buddhism
 birth: 1906
 death: 1993
 tags:
-  - theravada-buddhism
-  - dependent-origination
-  - anatta
-  - interreligious-dialogue
-  - nature-contemplation
-  - suan-mokkh
+- theravada-buddhism
+- dependent-origination
+- anatta
+- interreligious-dialogue
+- nature-contemplation
+- suan-mokkh
 aliases:
-  - "Nguam Phanit (born name)"
-  - "Phra Thep Wisutthimethi"
-  - "Buddhadasa Indapanno"
-  - "佛使比丘·帕蒙帖"
-  - "佛使比丘·印潘诺"
+- Nguam Phanit (born name)
+- Phra Thep Wisutthimethi
+- Buddhadasa Indapanno
+- 佛使比丘·帕蒙帖
+- 佛使比丘·印潘诺
 cross_links:
-  - "[[dependent-origination-practice]]"
-  - "[[anatta-practice]]"
-  - "[[interreligious-dialogue]]"
-  - "[[nature-contemplation]]"
-  - "[[suan-mokkh]]"
-  - "[[works]]"
-  - "[[timeline]]"
-  - "[[reading-list]]"
+- '[[dependent-origination-practice]]'
+- '[[anatta-practice]]'
+- '[[interreligious-dialogue]]'
+- '[[nature-contemplation]]'
+- '[[suan-mokkh]]'
+- '[[works]]'
+- '[[timeline]]'
+- '[[reading-list]]'
+domain: 宗教
+era: medieval
 ---
-
 # Buddhadasa Bhikkhu (佛使比丘) · Expanded Wiki
 
 > *"There is no Buddhism, no Christianity, no Islam — there is only the teaching that empties the mind of the 'I' and the 'mine.'"*

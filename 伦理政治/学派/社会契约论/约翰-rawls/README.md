@@ -175,7 +175,7 @@ The 1985 paper "Justice as Fairness: Political not Metaphysical" marked the form
 ## 重要概念 / Key Concepts
 
 1. **原初状态 / Original Position** — 选择正义原则的假想起始情境，替代传统社会契约论中的"自然状态"。[详见 →](concepts/original-position.md)
-2. **无知之幕 / Veil of Ignorance** — 原初状态中屏蔽身份信息的思想装置，确保选择不偏袒任何特定群体。[详见 →](concepts/veil-of-ignorance.md)
+2. **无知之幕 / Veil of Ignorance** — 原初状态中屏蔽身份信息的思想装置，确保选择不偏袒任何特定群体。[详见 →](concepts/无知之幕.md)
 3. **作为公平的正义 / Justice as Fairness** — 正义原则来源于公平的程序，而非独立的道德实在或功利计算。[详见 →](concepts/justice-as-fairness.md)
 4. **差别原则 / Difference Principle** — 社会与经济不平等只有在对最不利者最为有利时才被允许。[详见 →](concepts/difference-principle.md)
 5. **重叠共识 / Overlapping Consensus** — 多元社会中不同整全性学说对政治正义原则的汇聚认同。[详见 →](concepts/overlapping-consensus.md)
@@ -309,11 +309,11 @@ Meaningful dialogue exists between Rawls's political liberalism and East Asian i
 
 ## 子条目索引 / Sub-entry Index
 
-- [无知之幕 · Veil of Ignorance](concepts/veil-of-ignorance.md)
+- [无知之幕 · Veil of Ignorance](concepts/无知之幕.md)
 - [作为公平的正义 · Justice as Fairness](concepts/justice-as-fairness.md)
 - [原初状态 · Original Position](concepts/original-position.md)
 - [重叠共识 · Overlapping Consensus](concepts/overlapping-consensus.md)
 - [差别原则 · Difference Principle](concepts/difference-principle.md)
-- [著作年表 · Works Catalogue](works.md)
-- [生平大事记 · Biographical Timeline](timeline.md)
-- [阅读指南 · Reading Guide](reading-list.md)
+- [著作年表 · Works Catalogue](著作.md)
+- [生平大事记 · Biographical Timeline](时间线.md)
+- [阅读指南 · Reading Guide](阅读.md)

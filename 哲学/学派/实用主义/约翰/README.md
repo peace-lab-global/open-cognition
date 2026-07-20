@@ -155,7 +155,7 @@ Dewey joined Columbia University in 1904, and over the next four decades continu
 | 《人性与行为》*Human Nature and Conduct* | 1922 | 习惯、冲动与智力的社会心理学 / Social 心理学 of habit, impulse, and intelligence |
 | 《确定性的追求》*The Quest for Certainty* | 1929 | 批判传统哲学对确定性的执着 / Critique of philosophy's obsession with certainty |
 
-详见 [著作详表](works.md)。See [full works listing](works.md).
+详见 [著作详表](著作.md)。See [full works listing](著作.md).
 
 ---
 
@@ -316,7 +316,7 @@ Dewey's concept of "growth" enters cross-cultural dialogue with the *Book of Cha
 
 - [Dewey at Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/dewey/)
 - [Center for Dewey Studies, Southern Illinois University](https://siu.edu/dewey-center/)
-- 详见 [进阶阅读清单](reading-list.md). See [full reading list](reading-list.md).
+- 详见 [进阶阅读清单](阅读.md). See [full reading list](阅读.md).
 
 ---
 
@@ -329,9 +329,9 @@ Dewey's concept of "growth" enters cross-cultural dialogue with the *Book of Cha
 | [democracy-education](concepts/democracy-education.md) | 民主与教育：联合生活，教育作为社会过程 / Democracy and Education: associated living, education as social process |
 | [art-as-experience](concepts/art-as-experience.md) | 艺术即经验：审美经验的完满，反博物馆概念 / Art as Experience: consummation of aesthetic experience, against museum conception |
 | [inquiry](concepts/inquiry.md) | 探究：从不确定到确定情境 / Inquiry: from indeterminate to determinate situation |
-| [works](works.md) | 著作详表 / Detailed works listing |
-| [timeline](timeline.md) | 生平年表 / Biographical timeline |
-| [reading-list](reading-list.md) | 进阶阅读清单 / Extended reading list |
+| [works](著作.md) | 著作详表 / Detailed works listing |
+| [timeline](时间线.md) | 生平年表 / Biographical timeline |
+| [reading-list](阅读.md) | 进阶阅读清单 / Extended reading list |
 
 ---
 

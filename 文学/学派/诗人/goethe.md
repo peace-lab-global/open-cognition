@@ -87,7 +87,7 @@ sources:
 
 ## 跨学科关联
 
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[影响]` 超人思想
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[影响]` 超人思想
 - [浪漫主义](../../../arts/schools/romanticism/romanticism.md) `[影响]` 浪漫主义艺术
 - [自然哲学](../../../philosophy/concepts/nature.md) `[探讨]` 人与自然的关系
 
@@ -108,5 +108,5 @@ sources:
 
 ## 关联 Skills
 
-- [faustian-spirit-analysis](../../skills/faustian-spirit-analysis/SKILL.md) — 浮士德精神分析
-- [world-literature-analysis](../../skills/world-literature-analysis/SKILL.md) — 世界文学分析
+- [faustian-spirit-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 浮士德精神分析
+- [world-literature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 世界文学分析

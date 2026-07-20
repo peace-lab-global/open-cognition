@@ -15,7 +15,7 @@
 
 | 大师 | 文件路径 | 核心思想 |
 |------|----------|----------|
-| **老子** | `religion/traditions/taoism/masters/laozi.md` | 道为万物本源、无为而治、反者道之动、自然为最高价值 |
+| **老子** | `religion/传统/道教/masters/老子.md` | 道为万物本源、无为而治、反者道之动、自然为最高价值 |
 | **庄子** | `religion/traditions/taoism/masters/zhuangzi.md` | 齐物论、逍遥游、无用之用、顺应自然 |
 
 **条目质量**：

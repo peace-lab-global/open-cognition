@@ -16,9 +16,9 @@ sources:
   - Zahavi, *Husserl's Legacy* (2017)
   - Gallagher & Zahavi, *The Phenomenological Mind* (2008)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: husserl
     relation: 继承/发展

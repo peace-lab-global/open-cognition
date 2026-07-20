@@ -29,9 +29,9 @@ children:
   - concepts/historicization.md
   - concepts/gestus.md
   - concepts/dialectical-theatre.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 贝托尔特·布莱希特 / Bertolt Brecht

@@ -267,6 +267,6 @@ The Confucian ideal of "restraining oneself and returning to the rites" (克己�
 | 防御机制 / Defense Mechanisms | 自我的无意识保护策略 / The ego's unconscious protective strategies | [concepts/defense-mechanisms.md](concepts/defense-mechanisms.md) |
 
 ### 附属文件 / Supplementary Files
-- [著作年表 / Works Chronology](works.md)
-- [生平年表 / Life Timeline](timeline.md)
-- [推荐阅读 / Reading List](reading-list.md)
+- [著作年表 / Works Chronology](著作.md)
+- [生平年表 / Life Timeline](时间线.md)
+- [推荐阅读 / Reading List](阅读.md)

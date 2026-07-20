@@ -75,10 +75,10 @@ sources: [《大脑设计》(Design for a Brain), 《控制论导论》(An Intro
 ## 跨学科关联
 
 - [维纳](wiener.md) `[发展]` 将维纳的控制论直觉形式化为数学定理
-- [卡尼曼](../../../psychology/schools/behavioral-economics/kahneman.md) `[平行]` 认知偏差可理解为认知系统多样性不足
-- [贝克](../../../sociology/schools/modernity/beck.md) `[平行]` 风险社会中的"不可预见后果"=系统多样性超出控制者多样性
-- [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[平行]` 同化/顺应 = 认知层面的多样性调节
-- [莱文森 Leveson](../cognitive-engineering/leveson.md) `[继承]` STAMP控制论框架直接继承必要多样性法则
+- [卡尼曼](../../../心理学/学派/行为经济学/丹尼尔.md) `[平行]` 认知偏差可理解为认知系统多样性不足
+- [贝克](../../../社会学/学派/现代性/beck.md) `[平行]` 风险社会中的"不可预见后果"=系统多样性超出控制者多样性
+- [皮亚杰](../../../心理学/学派/认知心理学/皮亚杰.md) `[平行]` 同化/顺应 = 认知层面的多样性调节
+- [莱文森 Leveson](../认知工程/leveson.md) `[继承]` STAMP控制论框架直接继承必要多样性法则
 
 ## 进阶阅读
 
@@ -91,5 +91,5 @@ sources: [《大脑设计》(Design for a Brain), 《控制论导论》(An Intro
 
 ## 关联 Skills
 
-- [认知系统设计](../../skills/cognitive-system-design/SKILL.md)
-- [韧性评估](../../skills/resilience-assessment/SKILL.md)
+- [认知系统设计](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [韧性评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

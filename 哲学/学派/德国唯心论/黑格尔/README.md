@@ -379,3 +379,10 @@ Hegel's dialectics reveals and transcends the internal contradictions of concept
 | [著作总览](著作.md) | 主要著作详述 |
 | [年表](时间线.md) | 1770–1831 生平与思想大事记 |
 | [阅读书目](阅读.md) | 原典、二手文献、中文资源 |
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [黑格尔-两种正当的碰撞](../../../../名言/刚柔二元/黑格尔-两种正当的碰撞.md)

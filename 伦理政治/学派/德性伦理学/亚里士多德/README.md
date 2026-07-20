@@ -133,11 +133,11 @@ In 335 BCE, Aristotle returned to Athens and founded the Lyceum near the temple 
 
 ## 重要概念 / Key Concepts
 
-1. **幸福 (Eudaimonia)** — 灵魂合乎美德的完善活动，人类功能的充分实现。[详见](concepts/eudaimonia.md) / Excellent activity of the soul in accordance with virtue, full realization of human function. [See](concepts/eudaimonia.md)
+1. **幸福 (Eudaimonia)** — 灵魂合乎美德的完善活动，人类功能的充分实现。[详见](concepts/幸福论.md) / Excellent activity of the soul in accordance with virtue, full realization of human function. [See](concepts/幸福论.md)
 
 2. **实践智慧 (Phronesis)** — 关于具体情境中如何正确行动的理智品质，不可还原为规则或算法。[详见](concepts/phronesis.md) / Intellectual quality of acting rightly in concrete situations, irreducible to rules or algorithms. [See](concepts/phronesis.md)
 
-3. **中道 (Golden Mean / Mesotes)** — 品格美德位于不及与过度之间，由实践智慧判断的相对于行为者的适度。[详见](concepts/golden-mean.md) / Character virtue between deficiency and excess, appropriateness relative to agent as judged by practical wisdom. [See](concepts/golden-mean.md)
+3. **中道 (Golden Mean / Mesotes)** — 品格美德位于不及与过度之间，由实践智慧判断的相对于行为者的适度。[详见](concepts/中道.md) / Character virtue between deficiency and excess, appropriateness relative to agent as judged by practical wisdom. [See](concepts/中道.md)
 
 4. **美德品格 (Virtue-Character / Arete & Hexis)** — 美德作为通过习惯化获得的稳定品格状态，是感受与行动的卓越品质。[详见](concepts/virtue-character.md) / Virtue as stable character state acquired through habituation, excellence of feeling and action. [See](concepts/virtue-character.md)
 
@@ -247,11 +247,18 @@ Aristotle's virtue ethics shares profound resonances and interesting divergences
 
 ## 子条目索引 / Sub-entry Index
 
-- [幸福 · Eudaimonia](concepts/eudaimonia.md)
+- [幸福 · Eudaimonia](concepts/幸福论.md)
 - [实践智慧 · Phronesis](concepts/phronesis.md)
-- [中道 · Golden Mean](concepts/golden-mean.md)
+- [中道 · Golden Mean](concepts/中道.md)
 - [美德品格 · Virtue-Character](concepts/virtue-character.md)
 - [目的 · Telos](concepts/telos.md)
-- [著作年表 · Works](works.md)
-- [生平大事记 · Timeline](timeline.md)
-- [阅读指南 · Reading List](reading-list.md)
+- [著作年表 · Works](著作.md)
+- [生平大事记 · Timeline](时间线.md)
+- [阅读指南 · Reading List](阅读.md)
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [亚里士多德-朋友是另一个自我](../../../../名言/友谊共同体/亚里士多德-朋友是另一个自我.md)

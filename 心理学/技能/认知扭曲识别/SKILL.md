@@ -34,7 +34,7 @@ tags: [CBT, 认知扭曲, 自动思维, 苏格拉底式提问, 行为实验]
 - **认知模型**：A（情境）→ B（信念）→ C（情绪/行为）。
 - **自动思维**：闪过、未审查、被当真相的内部独白。
 - **扭曲不等于谎言**：是系统性偏离平衡视角。
-- 参考：[贝克条目](../../schools/cognitive/beck.md)、[认知失调](../../concepts/cognitive-dissonance.md)。
+- 参考：[贝克条目](../../../社会学/学派/现代性/beck.md)、[认知失调](../../concepts/cognitive-dissonance.md)。
 
 ## 操作流程
 
@@ -99,7 +99,7 @@ tags: [CBT, 认知扭曲, 自动思维, 苏格拉底式提问, 行为实验]
 
 ## 关联条目
 
-- [贝克 Beck](../../schools/cognitive/beck.md)
+- [贝克 Beck](../../../社会学/学派/现代性/beck.md)
 - [认知失调](../../concepts/cognitive-dissonance.md)
 - **斯多葛主义** — 哲学源头（爱比克泰德、马可·奥勒留）
 - [苏格拉底式提问 Skill](../../../哲学/技能/苏格拉底式诘/SKILL.md) — 证据提问的方法源

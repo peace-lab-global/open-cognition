@@ -2,11 +2,11 @@
 name: cognitive-system-design
 description: 设计人机协作的认知系统——功能分配、自动化层级、信任校准和界面设计，综合 Norman、Woods 和 Simon 的理论。Triggers on requests to design human-AI collaboration, automation strategies, or cognitive system architectures.
 domain: 认知系统
-linked_thinker: ../../schools/cognitive-engineering/norman.md
+linked_thinker: ../../schools/认知工程/诺曼.md
 linked_concepts:
-  - ../../concepts/joint-cognitive-system.md
-  - ../../concepts/bounded-rationality.md
-  - ../../concepts/affordance.md
+  - ../../concepts/联合认知系统.md
+  - ../../concepts/有限理性.md
+  - ../../concepts/可供性.md
 tags:
   - system-design
   - human-AI
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[诺曼 Norman](../../schools/cognitive-engineering/norman.md)、[伍兹 Woods](../../schools/cognitive-engineering/woods.md)、[西蒙 Simon](../../schools/cybernetics/simon.md)
-- 来源概念：[联合认知系统](../../concepts/joint-cognitive-system.md)
+- 来源思想家：[诺曼 Norman](../../学派/认知工程/诺曼.md)、[伍兹 Woods](../../学派/认知工程/伍兹.md)、[西蒙 Simon](../../学派/控制论/西蒙.md)
+- 来源概念：[联合认知系统](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md)
 - 关键文献：Norman, D. *The Design of Everyday Things*. 1988/2013.
 
 ## 操作流程
@@ -123,6 +123,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[诺曼](../../schools/cognitive-engineering/norman.md)、[伍兹](../../schools/cognitive-engineering/woods.md)
-- 概念：[联合认知系统](../../concepts/joint-cognitive-system.md)
-- 相关 Skill：[认知工作分析](../cognitive-work-analysis/SKILL.md)、[可供性分析](../affordance-analysis/SKILL.md)
+- 思想家：[诺曼](../../学派/认知工程/诺曼.md)、[伍兹](../../学派/认知工程/伍兹.md)
+- 概念：[联合认知系统](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md)
+- 相关 Skill：[认知工作分析](../../../宗教/佛教/技能/从前五识/SKILL.md)、[可供性分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

@@ -65,7 +65,7 @@ The Enlightenment's most profound internal critic — judging civilization in th
 
 Political legitimacy derives not from nature or force but from a covenant in which all members alienate their rights entirely to the community. This "total alienation" ensures each associate, while obeying the community, obeys only themselves — achieving "moral freedom" through self-given law. Rousseau rejected both Hobbes's absolute sovereignty transfer and Locke's limited government, proposing radical popular sovereignty: the sovereign is the whole citizen body, and sovereignty is inalienable, unrepresentable, and indivisible.
 
-> 详见 → [社会契约 / Social Contract](concepts/social-contract.md)
+> 详见 → [社会契约 / Social Contract](concepts/社会契约.md)
 
 ### 2. 公意（Volonté Générale / General Will）
 
@@ -129,7 +129,7 @@ The 1762 persecution opened Rousseau's exile. The *Confessions* inaugurated mode
 
 | 概念 | 法文 | 英文 | 简述 | 详见 |
 |------|------|------|------|------|
-| 社会契约 | Contrat Social | Social Contract | 政治合法性的来源：全体对全体的让渡 | [→](concepts/social-contract.md) |
+| 社会契约 | Contrat Social | Social Contract | 政治合法性的来源：全体对全体的让渡 | [→](concepts/社会契约.md) |
 | 公意 | Volonté Générale | General Will | 以公共利益为对象的集体意志 | [→](concepts/general-will.md) |
 | 自然状态 | État de Nature | State of Nature | 前社会的假想人类境况 | [→](concepts/noble-savage.md) |
 | 高贵的野蛮人 | Bon Sauvage | Noble Savage | 自然状态中未被腐蚀的理想人 | [→](concepts/noble-savage.md) |
@@ -138,7 +138,7 @@ The 1762 persecution opened Rousseau's exile. The *Confessions* inaugurated mode
 | 怜悯 | Pitié | Pity/Compassion | 先于理性的自然同情 | [→](concepts/amour-propre.md) |
 | 消极教育 | Éducation Négative | Negative Education | 保护自然发展免受社会偏见 | [→](concepts/education.md) |
 | 众意 | Volonté de Tous | Will of All | 私人利益的加总（非公意） | [→](concepts/general-will.md) |
-| 道德自由 | Liberté Morale | Moral Freedom | 服从自己制定的法律 | [→](concepts/social-contract.md) |
+| 道德自由 | Liberté Morale | Moral Freedom | 服从自己制定的法律 | [→](concepts/社会契约.md) |
 
 ## 思想风格与修辞 / Intellectual Style and Rhetoric
 
@@ -168,7 +168,7 @@ Rousseau was not only a philosopher but one of the 18th century's most eloquent 
 | 《忏悔录》*Confessions* | 1782（遗著） | 现代自传文学的开创之作 |
 | 《一个孤独漫步者的遐想》*Reveries of a Solitary Walker* | 1782（遗著） | 晚年哲学沉思；存在主义式内省 |
 
-> 详见 → [著作概览 / Works Overview](works.md)
+> 详见 → [著作概览 / Works Overview](著作.md)
 
 ## 当代应用 / Contemporary Applications
 
@@ -284,17 +284,24 @@ Rousseau's "return to nature" is achieved through institutional reform — the s
 - Riley, P. (1982). *Will and Political Legitimacy*. Harvard University Press.
 - Starobinski, J. (1988). *Jean-Jacques Rousseau: Transparency and Obstruction*. University of Chicago Press.
 
-> 详见 → [进阶阅读指南 / Reading List](reading-list.md)
+> 详见 → [进阶阅读指南 / Reading List](阅读.md)
 
 ## 子条目索引 / Sub-Entry Index
 
 | 条目 | 内容 |
 |------|------|
-| [社会契约 / Social Contract](concepts/social-contract.md) | 合法政治权威、总体让渡、与霍布斯/洛克的比较 |
+| [社会契约 / Social Contract](concepts/社会契约.md) | 合法政治权威、总体让渡、与霍布斯/洛克的比较 |
 | [公意 / General Will](concepts/general-will.md) | 公共利益、众意之别、不可分割性、可谬性争论 |
 | [高贵的野蛮人 / Noble Savage](concepts/noble-savage.md) | 自然状态、自然善良、术语本身的批判 |
 | [自爱与虚荣 / Amour-Propre](concepts/amour-propre.md) | 自爱 vs 虚荣、社会比较、健康形态与病态形态 |
 | [教育哲学 / Education](concepts/education.md) | 消极教育、发展阶段、导师角色、自然后果 |
-| [著作概览 / Works](works.md) | 主要著作的系统概述 |
-| [年表 / Timeline](timeline.md) | 生平与思想的编年脉络 |
-| [阅读指南 / Reading List](reading-list.md) | 分级阅读建议 |
+| [著作概览 / Works](著作.md) | 主要著作的系统概述 |
+| [年表 / Timeline](时间线.md) | 生平与思想的编年脉络 |
+| [阅读指南 / Reading List](阅读.md) | 分级阅读建议 |
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [卢梭-人生而自由](../../../../名言/自然文明/卢梭-人生而自由.md)

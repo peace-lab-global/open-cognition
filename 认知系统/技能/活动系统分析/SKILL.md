@@ -4,8 +4,8 @@ description: 用活动理论的三角形模型分析人-工具-目标-规则-共
 domain: 认知系统
 linked_thinker: ../../schools/distributed/engestrom.md
 linked_concepts:
-  - ../../concepts/activity-theory.md
-  - ../../concepts/distributed-cognition.md
+  - ../../concepts/活动理论.md
+  - ../../concepts/分布式认知.md
 tags:
   - activity-theory
   - organizational-analysis
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[恩格斯托姆 Engeström](../../schools/distributed/engestrom.md)
-- 来源概念：[活动理论](../../concepts/activity-theory.md)
+- 来源思想家：[恩格斯托姆 Engeström](../../学派/分布式认知/engestrom.md)
+- 来源概念：[活动理论](../../概念/活动理论.md)
 - 关键文献：Engeström, Y. *Learning by Expanding*. Cambridge University Press, 1987/2015.
 
 ## 操作流程
@@ -118,6 +118,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[恩格斯托姆](../../schools/distributed/engestrom.md)、[列昂捷夫](../../schools/distributed/leontiev.md)
-- 概念：[活动理论](../../concepts/activity-theory.md)
-- 相关 Skill：[认知工作分析](../cognitive-work-analysis/SKILL.md)
+- 思想家：[恩格斯托姆](../../学派/分布式认知/engestrom.md)、[列昂捷夫](../../学派/分布式认知/leontiev.md)
+- 概念：[活动理论](../../概念/活动理论.md)
+- 相关 Skill：[认知工作分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

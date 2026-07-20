@@ -96,7 +96,7 @@ sources:
 - **[平行] Woods 的韧性工程**：与 Woods 共同关注系统的适应性能力，但霍纳格尔更强调功能层面的分析
 - **[互补] Leveson 的系统理论**：STAMP 与 FRAM 从不同角度分析系统安全，形成互补
 - **[批判] 传统安全管理**：对"零事故"目标、根本原因分析和惩罚性问责文化的深刻质疑
-- **[跨域] 贝克·风险社会**：[参见](../../../sociology/schools/modernity/beck.md) — 现代风险的系统性与不可预期性
+- **[跨域] 贝克·风险社会**：[参见](../../../社会学/学派/现代性/beck.md) — 现代风险的系统性与不可预期性
 
 ## 进阶阅读
 
@@ -111,5 +111,5 @@ sources:
 
 ## 关联 Skills
 
-- [人因错误分析 Human Error Analysis](../../skills/human-error-analysis/SKILL.md)
-- [韧性评估 Resilience Assessment](../../skills/resilience-assessment/SKILL.md)
+- [人因错误分析 Human Error Analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [韧性评估 Resilience Assessment](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

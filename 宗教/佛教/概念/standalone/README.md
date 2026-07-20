@@ -12,10 +12,10 @@ type: concept-collection
 
 | 文件 | 概念 | 说明 |
 |---|---|---|
-| `baihuan-bianjian.md` | 八还辨见 | 楞严经八还辨见独立概念条目 |
-| `diamond-sutra-non-attachment.md` | 金刚经·无相 | 金刚经无住生心独立概念条目 |
-| `eight-consciousness.md` | 八识体系 | 唯识八识体系独立概念条目 |
-| `qichu-zhengxin.md` | 七处征心 | 楞严经七处征心独立概念条目 |
+| `八还辨见.md` | 八还辨见 | 楞严经八还辨见独立概念条目 |
+| `金刚经.md` | 金刚经·无相 | 金刚经无住生心独立概念条目 |
+| `八识体系.md` | 八识体系 | 唯识八识体系独立概念条目 |
+| `七处征心.md` | 七处征心 | 楞严经七处征心独立概念条目 |
 
 ## 与 cognitive-theory 的关系
 

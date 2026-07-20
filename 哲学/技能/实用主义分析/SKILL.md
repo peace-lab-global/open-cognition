@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[约翰·杜威](../../schools/pragmatism/dewey.md)
 - 概念：[实用主义](../../concepts/pragmatism.md)、[经验学习](../../concepts/experiential-learning.md)
-- 相关 Skill：[golden-mean-analysis](./golden-mean-analysis/SKILL.md)、[client-centered-dialogue](../../心理学/技能/来访者中心对/SKILL.md)
+- 相关 Skill：[golden-mean-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[client-centered-dialogue](../../../心理学/技能/认知发展阶段/SKILL.md)

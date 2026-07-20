@@ -276,7 +276,7 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 |---|---|---|---|
 | 心理学 / Psychology | [罗杰斯 · Carl Rogers](../../心理学/学派/人本主义/卡尔.md) | `[同源] / [Convergent]` | 都强调关系、接纳和无条件积极关注在人的成长中的作用 / Both emphasize the role of relations, acceptance, and unconditional positive regard in human growth |
 | 哲学 / Philosophy | [亚里士多德 · Aristotle](../../哲学/学派/古希腊/亚里士多德.md) | `[继承/批判] / [Inherits/Critiques]` | 继承德性伦理传统但批判其理性主义偏见 / Inherits the virtue ethics tradition but critiques its rationalist bias |
-| 哲学 / Philosophy | [康德 · Immanuel Kant](../../哲学/schools/modern-european/kant.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
+| 哲学 / Philosophy | [康德 · Immanuel Kant](../../哲学/schools/modern-european/康德.md) | `[批判] / [Critiques]` | 批判道义论对情感和关系的忽视 / Critiques deontology's neglect of emotion and relations |
 | 社会学 / Sociology | [帕森斯 · Talcott Parsons](../../社会学/学派/功能主义/帕森斯.md) | `[发展] / [Develops]` | 在职业群体中实践关怀伦理 / Practices care ethics within professional communities |
 | 政治学 / Political Science | [特朗托 · Joan Tronto](../political-theory/tronto.md) | `[影响] / [Influences]` | 特朗托将关怀伦理发展为民主政治理论 / Tronto develops care ethics into democratic political theory |
 | 环境伦理 / Environmental Ethics | [环境伦理](../../concepts/environmental-ethics.md) | `[互补] / [Complementary]` | 关怀从人际扩展到人与自然的关系 / Care extends from interpersonal to human-nature relations |
@@ -310,6 +310,6 @@ In the Buddhist tradition, the concept of *karuna* (compassion) similarly emphas
 - [母性思维 / Maternal Thinking](concepts/maternal-thinking.md)
 - [关怀教育 / Caring Education](concepts/caring-education.md)
 - [自然关怀 / Natural Caring](concepts/natural-caring.md)
-- [著作年表 / Comprehensive Works](works.md)
-- [生平大事记 / Biographical Timeline](timeline.md)
-- [阅读指南 / Annotated Reading List](reading-list.md)
+- [著作年表 / Comprehensive Works](著作.md)
+- [生平大事记 / Biographical Timeline](时间线.md)
+- [阅读指南 / Annotated Reading List](阅读.md)

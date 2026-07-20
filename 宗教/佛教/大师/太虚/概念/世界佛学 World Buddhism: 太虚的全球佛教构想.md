@@ -155,6 +155,6 @@ tags: [world-buddhism, global-buddhism, world-buddhist-institute, comparative-bu
 
 ## 参见 / See Also
 
-- [人生佛教 Humanistic Buddhism](humanistic-buddhism.md)
+- [人生佛教 Humanistic Buddhism](人间佛教.md)
 - [三级判教 Three-Level Classification](three-level-classification.md)
 - [太虚 Taixu](../README.md)

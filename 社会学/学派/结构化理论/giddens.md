@@ -130,12 +130,12 @@ sources:
 
 ## 跨学科关联
 
-- [布迪厄 Bourdieu](../structuralism/bourdieu.md) `[互补]` 实践理论与结构化理论共享超越二元论的目标
-- [贝克 Beck](../modernity/beck.md) `[同源]` 反思性现代性与风险社会理论同属"第二现代性"框架
-- [鲍曼 Bauman](../modernity/bauman.md) `[互补]` 晚期现代性/流动性现代性的不同表述
-- [帕森斯 Parsons](../functionalism/parsons.md) `[发展]` 结构化理论是对帕森斯结构功能主义的批判性发展
+- [布迪厄 Bourdieu](../结构主义/布迪厄.md) `[互补]` 实践理论与结构化理论共享超越二元论的目标
+- [贝克 Beck](../现代性/beck.md) `[同源]` 反思性现代性与风险社会理论同属"第二现代性"框架
+- [鲍曼 Bauman](../现代性/bauman.md) `[互补]` 晚期现代性/流动性现代性的不同表述
+- [帕森斯 Parsons](../功能主义/parsons.md) `[发展]` 结构化理论是对帕森斯结构功能主义的批判性发展
 - [数字社会 Digital Society](../../concepts/digital-society.md) `[互补]` 时空延伸与脱域机制为理解数字社会提供理论框架
-- [埃利亚斯 · Elias](../figurational/elias.md) `[平行]` 结构化理论与形构社会学都试图超越结构与能动的二元对立
+- [埃利亚斯 · Elias](../形态社会学/elias.md) `[平行]` 结构化理论与形构社会学都试图超越结构与能动的二元对立
 
 ## 进阶阅读
 
@@ -155,7 +155,7 @@ sources:
 
 ## 关联 Skills
 
-- **社会学 Skills**: [Bourdieu 布迪厄](../structuralism/bourdieu.md) — 实践理论与结构化理论的互补 [互补]
-- **社会学 Skills**: [Beck 贝克](../modernity/beck.md) — 反思性现代性的不同维度 [同源]
-- **社会学 Skills**: [Bauman 鲍曼](../modernity/bauman.md) — 晚期现代性的不同表述 [互补]
-- **社会学 Skills**: [Parsons 帕森斯](../functionalism/parsons.md) — 从结构功能主义到结构化理论的发展 [发展]
+- **社会学 Skills**: [Bourdieu 布迪厄](../结构主义/布迪厄.md) — 实践理论与结构化理论的互补 [互补]
+- **社会学 Skills**: [Beck 贝克](../现代性/beck.md) — 反思性现代性的不同维度 [同源]
+- **社会学 Skills**: [Bauman 鲍曼](../现代性/bauman.md) — 晚期现代性的不同表述 [互补]
+- **社会学 Skills**: [Parsons 帕森斯](../功能主义/parsons.md) — 从结构功能主义到结构化理论的发展 [发展]

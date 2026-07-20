@@ -103,6 +103,6 @@ In *Fukan Zazengi*, Dōgen describes the concrete method of zazen in detail:
 
 ## 相关概念 / Related Concepts
 
-- [修证一等 Practice-Enlightenment](practice-enlightenment.md)
+- [修证一等 Practice-Enlightenment](practice-启蒙.md)
 - [有时 Uji](being-time-uji.md)
-- [佛性 Busho](buddha-nature-dogen.md)
+- [佛性 Busho](buddha-nature-道元.md)

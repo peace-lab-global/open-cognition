@@ -103,4 +103,4 @@ tags:
 
 - 思想家：[让·皮亚杰](../../schools/developmental/piaget.md)
 - 概念：[认知发展阶段](../../concepts/cognitive-development-stages.md)、[建构主义](../../concepts/constructivism.md)
-- 相关 Skill：[constructivist-learning](./constructivist-learning/SKILL.md)、[maslow-needs-diagnosis](./maslow-needs-diagnosis/SKILL.md)
+- 相关 Skill：[constructivist-learning](../../../宗教/佛教/技能/从前五识/SKILL.md)、[maslow-needs-diagnosis](../../../宗教/佛教/技能/从前五识/SKILL.md)

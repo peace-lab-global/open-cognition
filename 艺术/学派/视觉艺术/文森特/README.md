@@ -128,7 +128,7 @@ In May 1889, Van Gogh voluntarily entered the Saint-Paul-de-Mausole asylum in Sa
 
 3. **厚涂技法 / [Impasto Technique](concepts/impasto-technique.md)**: 将颜料以厚重的笔触堆积在画布上，使画面具有触觉般的物质性——每一笔都是情感的物理痕迹。 / Applying paint in thick, textured strokes that give the surface a tactile materiality — each brushstroke a physical trace of emotion.
 
-4. **苦难与创造力 / [Suffering and Creativity](concepts/suffering-creativity.md)**: 梵高生命中创造力与精神疾病的复杂交织——探讨苦难如何塑造艺术，以及艺术如何成为对抗苦难的方式。 / The complex interplay between creativity and mental illness in Van Gogh's life — exploring how suffering shaped his art and how art became a means of confronting suffering.
+4. **苦难与创造力 / [Suffering and Creativity](concepts/suffering-创造力.md)**: 梵高生命中创造力与精神疾病的复杂交织——探讨苦难如何塑造艺术，以及艺术如何成为对抗苦难的方式。 / The complex interplay between creativity and mental illness in Van Gogh's life — exploring how suffering shaped his art and how art became a means of confronting suffering.
 
 5. **星夜 / [Starry Night](concepts/starry-night.md)**: 梵高最著名的作品及其深层含义——旋涡状星空作为宇宙性精神狂喜和个人痛苦的表达。 / Van Gogh's most famous work and its deeper meanings — the swirling starry sky as an expression of cosmic spiritual ecstasy and personal anguish.
 
@@ -240,8 +240,8 @@ Van Gogh's relationship with Eastern thought traditions is profound and multi-la
 - [后印象主义 / Post-Impressionism](concepts/post-impressionism.md) — 梵高所代表的超越印象派的艺术运动
 - [表现性色彩 / Expressive Color](concepts/expressive-color.md) — 色彩作为情感的直接载体
 - [厚涂技法 / Impasto Technique](concepts/impasto-technique.md) — 颜料的物质性与情感的物理痕迹
-- [苦难与创造力 / Suffering and Creativity](concepts/suffering-creativity.md) — 精神疾病与艺术创造的复杂交织
+- [苦难与创造力 / Suffering and Creativity](concepts/suffering-创造力.md) — 精神疾病与艺术创造的复杂交织
 - [星夜 / Starry Night](concepts/starry-night.md) — 梵高最著名作品的深层解读
-- [著作年表 / Works](works.md) — 梵高主要作品详述
-- [生平大事记 / Timeline](timeline.md) — 梵高生平与创作大事年表
-- [阅读指南 / Reading List](reading-list.md) — 梵高系统阅读指南
+- [著作年表 / Works](著作.md) — 梵高主要作品详述
+- [生平大事记 / Timeline](时间线.md) — 梵高生平与创作大事年表
+- [阅读指南 / Reading List](阅读.md) — 梵高系统阅读指南

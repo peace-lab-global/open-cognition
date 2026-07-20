@@ -95,7 +95,7 @@
 ## 跨流派概念
 
 - [集体无意识 Collective Unconscious](concepts/collective-unconscious.md)
-- [心流 Flow](concepts/flow.md)
+- [心流 Flow](concepts/心流.md)
 - [认知失调 Cognitive Dissonance](concepts/cognitive-dissonance.md)
 
 ## 关联 Skills

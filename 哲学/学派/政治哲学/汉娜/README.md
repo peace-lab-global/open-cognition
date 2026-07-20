@@ -16,9 +16,9 @@ sources:
   - Arendt, *On Revolution* (1963)
   - Arendt, *The Life of the Mind* (1978, posthumous)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: heidegger
     relation: 师承/批判

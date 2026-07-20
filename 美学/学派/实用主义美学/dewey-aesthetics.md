@@ -10,7 +10,7 @@ domain: aesthetics
 tags: [杜威, 实用主义美学, 艺术即经验, 做与受, 审美经验]
 cross_refs:
   - ../../../philosophy/schools/pragmatism/dewey.md
-  - ../../concepts/aesthetic-experience.md
+  - ../../concepts/审美经验.md
   - ../../../philosophy/schools/phenomenology/merleau-ponty.md
   - ../../../psychology/schools/positive/csikszentmihalyi.md
 ---
@@ -94,4 +94,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/art-criticism-framework/SKILL.md) — 基于杜威经验美学的批评方法
+- [艺术批评框架](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 基于杜威经验美学的批评方法

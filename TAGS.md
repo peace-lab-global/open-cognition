@@ -13,23 +13,42 @@
 | `sociology` | 社会学 |
 | `psychology` | 心理学 |
 | `cognitive-systems` | 认知系统工程 |
+| `literature` | 文学 |
+| `art` | 艺术 |
+| `aesthetics` | 美学 |
+| `science` | 科学史与科学哲学 |
 
 ## 维度 2：流派 School
 
 ### 哲学 (Philosophy)
-`presocratic` `classical-greek` `hellenistic` `medieval-scholastic` `rationalism` `empiricism` `scottish-common-sense` `german-idealism` `existentialism` `phenomenology` `analytic` `pragmatism` `critical-theory` `confucian` `daoist` `buddhist-philosophy`
+`presocratic` `classical-greek` `hellenistic` `stoicism` `epicureanism` `ancient-skepticism` `neoplatonism` `patristic-philosophy` `medieval-scholastic` `rationalism` `empiricism` `enlightenment` `scottish-common-sense` `german-idealism` `utilitarianism` `marxism` `existentialism` `phenomenology` `pragmatism` `analytic` `logical-positivism` `structuralism` `post-structuralism` `philosophy-of-language` `philosophy-of-mind` `philosophy-of-science` `political-philosophy` `feminist-philosophy` `environmental-philosophy` `liberalism` `conservatism` `social-contract` `anarchism` `classical-political-economy` `keynesianism` `neoliberalism` `nationalism` `postcolonialism` `communitarianism` `critical-theory` `confucian` `daoist` `buddhist-philosophy`
 
 ### 宗教 (Religion)
-`buddhism-theravada` `buddhism-mahayana` `buddhism-zen` `christianity-catholic` `christianity-protestant` `christianity-orthodox` `christianity-mysticism` `islam-sunni` `islam-shia` `sufism` `judaism-rabbinic` `judaism-kabbalah` `hinduism-vedanta` `taoism-religious` `taoism-philosophical`
+`buddhism-theravada` `buddhism-mahayana` `buddhism-zen` `christianity-catholic` `christianity-protestant` `christianity-orthodox` `christianity-mysticism` `islam-sunni` `islam-shia` `sufism` `judaism-rabbinic` `judaism-kabbalah` `hinduism-vedanta` `taoism-religious` `taoism-philosophical` `sikhism` `shinto` `confucianism-religious` `comparative-mythology`
 
 ### 社会学 (Sociology)
-`functionalism` `conflict-theory` `symbolic-interactionism` `structuralism` `post-structuralism` `critical-theory` `phenomenological-sociology` `network-theory` `world-systems`
+`functionalism` `conflict-theory` `symbolic-interactionism` `structuralism` `post-structuralism` `critical-theory` `phenomenological-sociology` `network-theory` `world-systems` `modernity`
 
 ### 心理学 (Psychology)
-`psychoanalysis` `analytical-psychology` `individual-psychology` `behaviorism` `cognitive` `humanistic` `existential-psychology` `positive-psychology` `cognitive-behavioral` `developmental` `social-psychology`
+`psychoanalysis` `analytical-psychology` `individual-psychology` `behaviorism` `gestalt-psychology` `functionalism` `cognitive` `humanistic` `existential-psychology` `positive-psychology` `cognitive-behavioral` `developmental` `attachment-theory` `evolutionary-psychology` `social-psychology`
 
 ### 认知系统工程 (Cognitive Systems Engineering)
-`cybernetics` `ecological-psychology` `distributed-cognition` `activity-theory` `cognitive-engineering` `naturalistic-decision` `resilience-engineering` `cognitive-ergonomics` `embodied-cognition` `4E-cognition` `safety-science` `safety-II` `automation-sociotechnical` `sociotechnical-systems` `human-automation-interaction` `perrow` `leveson` `endsley` `sheridan` `wickens`
+`cybernetics` `ecological-psychology` `distributed-cognition` `activity-theory` `cognitive-engineering` `human-factors` `naturalistic-decision` `resilience-engineering` `cognitive-ergonomics` `embodied-cognition` `4E-cognition` `predictive-processing` `enactivism` `systems-thinking` `safety-science` `safety-II` `automation-sociotechnical` `sociotechnical-systems` `human-automation-interaction` `perrow` `leveson` `endsley` `sheridan` `wickens`
+
+### 文学 (Literature)
+`classical-literature` `medieval-literature` `renaissance-literature` `romanticism` `realism` `naturalism` `symbolism` `modernism` `absurdism` `existentialist-literature` `magical-realism` `postmodern-literature` `war-poetry` `transcendentalism` `russian-literature` `bengal-renaissance` `aestheticism` `german-literature` `experimental-music`
+
+### 艺术 (Art)
+`renaissance-art` `baroque` `neoclassicism` `romanticism-art` `realism-art` `impressionism` `post-impressionism` `expressionism` `cubism` `futurism` `dada` `surrealism` `abstract-expressionism` `pop-art` `minimalism` `conceptual-art` `performance-art`
+
+### 美学 (Aesthetics)
+`classical-aesthetics` `german-aesthetics` `romantic-aesthetics` `pragmatist-aesthetics` `phenomenological-aesthetics` `critical-aesthetics` `chinese-aesthetics`
+
+### 科学史与科学哲学 (History & Philosophy of Science)
+`scientific-revolution` `history-of-science` `philosophy-of-science` `scientific-realism` `social-construction-of-science`
+
+### 伦理政治 (Ethics & Political Philosophy)
+`nonviolent-resistance` `civil-rights-movement` `political-philosophy` `social-contract` `virtue-ethics` `feminist-theory`
 
 ## 维度 3：时代 Era
 
@@ -69,3 +88,15 @@
 1. 每条目 frontmatter 必须至少包含一个领域标签、一个流派标签、一个时代标签和 1–3 个主题标签。
 2. 不允许在 frontmatter 中创造未登记标签；如需新增，先在本文件登记。
 3. 大小写统一为小写，多词用连字符 `-`。
+
+---
+
+## 维度 5：系列／频道 Series / Channel
+
+用于清单类条目的内容系列标识，与学术维度并列但不做强制要求。
+
+| 标签 | 含义 |
+|---|---|
+| `没用的清单` | 「没用的清单」自媒体频道 |
+| `严肃系列` | 「严肃系列」思想史主干盘点 |
+| `东西方对话` | 「东西方对话」跨文明主题盘点 |

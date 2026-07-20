@@ -128,13 +128,13 @@ Late dialogues display profound self-critical spirit. The "Third Man Argument" i
 
 ## 重要概念 Key Concepts
 
-- **[理念论 Theory of Forms](concepts/theory-of-forms.md)** — 永恒不变的真实存在 / Eternal, unchanging true reality
+- **[理念论 Theory of Forms](concepts/理念论.md)** — 永恒不变的真实存在 / Eternal, unchanging true reality
 - **[洞穴比喻 Cave Allegory](concepts/cave-allegory.md)** — 教育是灵魂的转向 / Education as the turning of the soul
 - **[哲学王 Philosopher-King](concepts/philosopher-king.md)** — 知识与权力应当统一 / Knowledge and power should be unified
 - **[回忆说 Anamnesis](concepts/anamnesis.md)** — 知识是灵魂对前世所知的回忆 / Knowledge as recollection of what the soul knew before birth
-- **[灵魂三分 Tripartite Soul](concepts/tripartite-soul.md)** — 理性、激情与欲望的和谐 / Harmony of reason, spirit, and appetite
-- **[辩证法 Dialectics](../../concepts/dialectics.md)** — 上升至理念的认识方法 / Method of ascent to the Forms
-- **[认识论 Epistemology](../../concepts/epistemology.md)** — 知识（epistēmē）vs 意见（doxa）/ Knowledge vs. opinion
+- **[灵魂三分 Tripartite Soul](concepts/灵魂三分.md)** — 理性、激情与欲望的和谐 / Harmony of reason, spirit, and appetite
+- **[辩证法 Dialectics](../../concepts/辩证法.md)** — 上升至理念的认识方法 / Method of ascent to the Forms
+- **[认识论 Epistemology](../../concepts/认识论.md)** — 知识（epistēmē）vs 意见（doxa）/ Knowledge vs. opinion
 - **爱欲 Erōs** — 从美的身体上升到美本身的灵魂动力 / The soul's drive ascending from beautiful bodies to Beauty itself
 - **造物主 Demiurge** — 《蒂迈欧篇》中的理性创造者 / The rational creator in the *Timaeus*
 - **分有 Methexis** — 具体事物与理念之间的关系 / The relationship between particulars and Forms
@@ -271,11 +271,20 @@ Zhu Xi's concept of *lǐ* (Principle)—each thing has its own *lǐ*, and all *l
 
 | 子条目 Sub-Entry | 路径 Path |
 |-------------------|-----------|
-| 理念论 Theory of Forms | [concepts/theory-of-forms.md](concepts/theory-of-forms.md) |
+| 理念论 Theory of Forms | [concepts/理念论.md](concepts/理念论.md) |
 | 洞穴比喻 Cave Allegory | [concepts/cave-allegory.md](concepts/cave-allegory.md) |
 | 哲学王 Philosopher-King | [concepts/philosopher-king.md](concepts/philosopher-king.md) |
 | 回忆说 Anamnesis | [concepts/anamnesis.md](concepts/anamnesis.md) |
-| 灵魂三分 Tripartite Soul | [concepts/tripartite-soul.md](concepts/tripartite-soul.md) |
-| 著作年表 Works Chronology | [works.md](works.md) |
-| 生平年表 Timeline | [timeline.md](timeline.md) |
-| 推荐阅读 Reading List | [reading-list.md](reading-list.md) |
+| 灵魂三分 Tripartite Soul | [concepts/灵魂三分.md](concepts/灵魂三分.md) |
+| 著作年表 Works Chronology | [著作.md](著作.md) |
+| 生平年表 Timeline | [时间线.md](时间线.md) |
+| 推荐阅读 Reading List | [阅读.md](阅读.md) |
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [柏拉图-正义是各司其职](../../../../名言/正义宽恕/柏拉图-正义是各司其职.md)
+- [柏拉图-爱的阶梯](../../../../名言/爱欲/柏拉图-爱的阶梯.md)
+- [柏拉图-艺术与真理隔着三层](../../../../名言/艺术真实/柏拉图-艺术与真理隔着三层.md)

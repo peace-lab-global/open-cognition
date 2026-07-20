@@ -143,6 +143,6 @@ The Ten Suchnesses (xiang, xing, ti, li, zuo, yin, yuan, guo, bao, benmo jiujing
 ## 参见 / See Also
 
 - [五时八教](classification-teachings.md) — 法华在判教中的定位
-- [三谛圆融](three-truths.md) — 法华经教理的哲学展开
-- [一念三千](one-thought-three-thousand.md) — 十如是出自法华经
+- [三谛圆融](三谛.md) — 法华经教理的哲学展开
+- [一念三千](一念三千.md) — 十如是出自法华经
 - [智顗 Zhiyi](../README.md) — 总论

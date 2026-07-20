@@ -36,8 +36,8 @@ sources:
 - **芦笛的悲歌** — 诗歌开头："你听那芦笛的悲歌，它在诉说离别的痛苦"——离开源头（神圣）的痛苦
 
 ## 跨学科关联
-- [苏菲主义](../../../religion/traditions/islam/sufism.md) `[同源]` 鲁米是苏菲诗歌的巅峰
-- [柏拉图](../../../philosophy/schools/ancient-greek/plato.md) `[平行]` 柏拉图的爱的阶梯与鲁米的神圣之爱
+- [苏菲主义](../../../宗教/传统/伊斯兰教/苏菲主义.md) `[同源]` 鲁米是苏菲诗歌的巅峰
+- [柏拉图](../../../哲学/学派/古希腊/柏拉图.md) `[平行]` 柏拉图的爱的阶梯与鲁米的神圣之爱
 - [弗兰克尔](../../../psychology/schools/existential-psychology/frankl.md) `[平行]` 苦难作为意义的入口
 - [佛教·慈悲](../../../religion/concepts/meditation.md) `[平行]` 慈悲与神圣之爱
 
@@ -51,4 +51,4 @@ sources:
 - 穆宏燕译《鲁米诗选》
 
 ## 关联 Skills
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

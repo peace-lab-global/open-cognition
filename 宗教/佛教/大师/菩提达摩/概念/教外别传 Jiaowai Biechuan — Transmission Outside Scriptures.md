@@ -8,7 +8,7 @@ era: ancient
 tags: [教外别传, 不立文字, 以心传心, 法脉传承, 达摩禅法, Bodhidharma]
 parent: ../README.md
 related:
-  - sudden-enlightenment.md
+  - 顿悟.md
   - no-mind.md
 ---
 
@@ -138,6 +138,6 @@ After Huineng, Chan split into multiple schools — the five houses of Linji, Ca
 
 ## 参见 / See Also
 
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — "直指人心"与顿悟的关系 / The relationship between "direct pointing" and sudden enlightenment
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — "直指人心"与顿悟的关系 / The relationship between "direct pointing" and sudden enlightenment
 - [无心 No-Mind](no-mind.md) — 传承的核心内容 / The core content of transmission
 - [菩提达摩 Bodhidharma](../README.md) — "教外别传"精神的源头 / The source of the "transmission outside scriptures" spirit

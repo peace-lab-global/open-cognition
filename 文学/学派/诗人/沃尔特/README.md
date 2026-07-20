@@ -28,9 +28,9 @@ children:
   - concepts/body-electric.md
   - concepts/leaves-of-grass.md
   - concepts/democratic-vistas.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 惠特曼 / Walt Whitman

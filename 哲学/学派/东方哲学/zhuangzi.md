@@ -119,10 +119,10 @@ Zhuangzi is one of the most globally resonant Chinese philosophers. His reflecti
 ## 跨学科关联 / Interdisciplinary Connections
 
 - [老子 · Laozi](laozi.md) `[同源]` 道家共同传统，老子重"道"的本体论，庄子重"游"的生存论
-- [维特根斯坦 · Ludwig Wittgenstein](../analytic/wittgenstein.md) `[平行]` 对语言局限性的反思：庄子"得意忘言"与维特根斯坦"不可说"
-- [尼采 · Friedrich Nietzsche](../existentialism/nietzsche.md) `[平行]` 重估一切价值与齐物论的相对主义；酒神精神与逍遥游的超越性
-- [禅宗 · Zen Buddhism](../../../religion/traditions/buddhism/zen.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
-- [海德格尔 · Martin Heidegger](../existentialism/heidegger.md) `[平行]` "让存在"（Gelassenheit）与无为；技术批判与庄子"机心"寓言
+- [维特根斯坦 · Ludwig Wittgenstein](../分析哲学/维特根斯坦.md) `[平行]` 对语言局限性的反思：庄子"得意忘言"与维特根斯坦"不可说"
+- [尼采 · Friedrich Nietzsche](../存在主义/尼采.md) `[平行]` 重估一切价值与齐物论的相对主义；酒神精神与逍遥游的超越性
+- [禅宗 · Zen Buddhism](../../../宗教/传统/佛教/禅宗.md) `[平行]` "庄禅"传统：直觉把握、语言的吊诡运用、日常即道
+- [海德格尔 · Martin Heidegger](../存在主义/海德格尔.md) `[平行]` "让存在"（Gelassenheit）与无为；技术批判与庄子"机心"寓言
 
 ## 进阶阅读 / Further Reading
 
@@ -152,3 +152,9 @@ Zhuangzi is one of the most globally resonant Chinese philosophers. His reflecti
 - 无为实践（Wu Wei Practice）
 - 寓言式推理（Allegorical Reasoning）
 - 道家修炼（Daoist Cultivation）
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [庄子-生死一如](../../../名言/生死觉悟/庄子-生死一如.md)

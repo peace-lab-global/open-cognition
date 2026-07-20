@@ -128,7 +128,7 @@ Contemporary Buddhist scholars offer diverse assessments:
 ## 相关概念 / Related Concepts
 
 - [阿黎耶识](alaya-paramartha.md) — 九识说的前提 / Prerequisite for the nine-consciousness doctrine
-- [解性黎耶](awakening-nature.md) — 阿黎耶识中的觉悟之性 / Awakening-nature within the ālaya
+- [解性黎耶](觉性.md) — 阿黎耶识中的觉悟之性 / Awakening-nature within the ālaya
 - [真谛vs玄奘系唯识](paramartha-vs-xuanzang.md) — 八识与九识的比较 / Comparison of eight and nine consciousness systems
 - [如来藏](../../concepts/tathagata-garbha.md) — 九识说的思想背景 / Intellectual context for the doctrine
 

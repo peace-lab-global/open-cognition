@@ -152,6 +152,12 @@ Latour is one of the founders of Actor-Network Theory (ANT) and the most influen
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [著作年表](works.md) | 拉图尔主要著作详述 / Detailed survey of Latour's major works |
-| [生平年谱](timeline.md) | 拉图尔生平与思想大事年表 / Chronology of Latour's life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 拉图尔主要著作详述 / Detailed survey of Latour's major works |
+| [生平年谱](时间线.md) | 拉图尔生平与思想大事年表 / Chronology of Latour's life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [拉图尔-我们从未现代过](../../../../名言/人类世/拉图尔-我们从未现代过.md)

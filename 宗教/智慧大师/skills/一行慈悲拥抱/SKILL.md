@@ -2,23 +2,23 @@
 name: thich-nhat-hanh-compassion
 description: 一行禅师"慈悲拥抱"法，用于在当事人陷入愤怒、怨恨、需要与困难情绪和解的场景。Triggers on 当事人对某人生气、无法原谅、被怨恨压垮、或者需要与"困难的人"和解的场景。
 tradition: engaged-buddhism
-linked_master: ../../masters/west/thich-nhat-hanh.md
+linked_master: ../../masters/west/一行禅师.md
 linked_concepts:
-  - 慈悲
-  - 拥抱
-  - 愤怒
-  - 和解
-  - 正念
+- 慈悲
+- 拥抱
+- 愤怒
+- 和解
+- 正念
 tags:
-  - 慈悲
-  - 拥抱
-  - 愤怒
-  - 和解
-  - 转化
-  - 入世佛教
-  - 一行禅师
+- 慈悲
+- 拥抱
+- 愤怒
+- 和解
+- 转化
+- 入世佛教
+- 一行禅师
+domain: 宗教
 ---
-
 # 一行慈悲拥抱 · Compassionate Embrace
 
 ## 一句话功能
@@ -42,7 +42,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
+- 来源祖师：[一行禅师](../../masters/西方/一行禅师.md)
 - 核心命题：你生气的那个对象，就是你最需要拥抱的人
 - 关键文本：《当下一刻》《和平是每一步》
 - 核心命题：痛苦不是用来消除的，是用来转化的
@@ -144,7 +144,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[一行禅师](../../masters/west/thich-nhat-hanh.md)
+- 祖师：[一行禅师](../../masters/西方/一行禅师.md)
 - 概念：[慈悲](./concepts/compassion.md)（待建）
-- 相关Skill：[一行正念呼吸](./thich-nhat-hanh-mindful-breathing/SKILL.md)
-- 跨传统：[罗杰斯·共情理解](../../心理学/学派/人本主义/卡尔.md)（平行）——两者都通过"看到对方的内在痛苦"来转化关系
+- 相关Skill：[一行正念呼吸](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：罗杰斯·共情理解（平行）——两者都通过"看到对方的内在痛苦"来转化关系

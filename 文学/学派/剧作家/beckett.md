@@ -72,8 +72,8 @@ sources:
 
 ## 跨学科关联
 
-- [卡夫卡](../novelists/kafka.md) `[同源]` 现代性中的荒诞与官僚迷宫共享精神底色
-- [叔本华/悲观主义](../../../philosophy/schools/pessimism/schopenhauer.md) `[平行]` 盲目意志与徒劳的形而上底色
+- [卡夫卡](../../../美学/学派/文学思想/kafka.md) `[同源]` 现代性中的荒诞与官僚迷宫共享精神底色
+- [叔本华/悲观主义](../../../哲学/学派/悲观主义/schopenhauer.md) `[平行]` 盲目意志与徒劳的形而上底色
 - [弗兰克尔](../../../psychology/schools/existential-psychology/frankl.md) `[互补]` 在无意义中寻找意义的两种姿态
 - [语言哲学](../../../philosophy/concepts/language.md) `[批判]` 对言说与沉默边界的极端实验
 
@@ -94,4 +94,11 @@ sources:
 
 ## 关联 Skills
 
-- [absurd-analysis](../../skills/absurd-analysis/SKILL.md) — 荒诞分析
+- [absurd-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 荒诞分析
+
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [贝克特-失败得更好](../../../名言/失败成长/贝克特-失败得更好.md)

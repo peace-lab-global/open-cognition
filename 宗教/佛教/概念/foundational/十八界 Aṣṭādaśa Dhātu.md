@@ -57,8 +57,8 @@ sources: [《杂阿含经》, 《俱舍论》, 《百法明门论》]
 
 ## 与相关概念的关系
 
-- [五蕴](five-aggregates.md) — [同源] 更粗的分析框架
-- [六根六尘六识](../concepts/cognitive-theory/six-constituents.md) — [同源] 认知理论版
+- [五蕴](五蕴 Five Aggregates.md) — [同源] 更粗的分析框架
+- [六根六尘六识](../cognitive-theory/六根六尘六识.md) — [同源] 认知理论版
 - [百法明门](hundred-dharmas.md) — [发展] 唯识扩展版
 
 ## 进阶阅读

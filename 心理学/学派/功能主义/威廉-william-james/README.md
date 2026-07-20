@@ -282,6 +282,6 @@ James's "pluralism" and anti-essentialist tendencies enter cross-cultural dialog
 | 习惯理论 / Habit Theory | 神经通路、品格塑造与社会秩序 / Neural pathways, character formation, and social order | [concepts/habit-theory.md](concepts/habit-theory.md) |
 
 ### 附属文件 / Supplementary Files
-- [著作年表 / Works Chronology](works.md)
-- [生平年表 / Life Timeline](timeline.md)
-- [推荐阅读 / Reading List](reading-list.md)
+- [著作年表 / Works Chronology](著作.md)
+- [生平年表 / Life Timeline](时间线.md)
+- [推荐阅读 / Reading List](阅读.md)

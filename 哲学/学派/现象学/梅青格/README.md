@@ -33,9 +33,9 @@ children:
   - concepts/transparency.md
   - concepts/phenomenal-properties.md
   - concepts/neurophenomenology.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 梅青格 · Thomas Metzinger
@@ -89,7 +89,7 @@ children:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 早期：主体性探索（1990s）
 
@@ -131,7 +131,7 @@ children:
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ### 核心著作
 
@@ -257,12 +257,12 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 ### 认知科学
 
 - [预测加工 · Predictive Processing](../../../认知系统/概念/预测加工.md) `[对接]` SMT 与预测编码框架的融合
-- [具身认知 · Embodied Cognition](../../../心理学/概念/embodied-cognition.md) `[对话]` 身体在自我模型中的地位
+- [具身认知 · Embodied Cognition](../../../心理学/概念/生成认知.md) `[对话]` 身体在自我模型中的地位
 - [自由能原理 · Free Energy Principle](../../../认知系统/概念/free-energy-principle.md) `[对接]` 自我模型作为最小化预测误差的策略
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 
@@ -296,6 +296,6 @@ SMT 为意识研究提供了一个**自然主义**的框架：意识不是神秘
 | [concepts/transparency.md](concepts/transparency.md) | 透明性 · 去透明化 |
 | [concepts/phenomenal-properties.md](concepts/phenomenal-properties.md) | 现象属性 · 感质 · 经验之"像什么" |
 | [concepts/neurophenomenology.md](concepts/neurophenomenology.md) | 神经现象学 · 方法论 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |

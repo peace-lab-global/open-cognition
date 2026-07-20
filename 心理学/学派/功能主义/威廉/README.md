@@ -366,6 +366,6 @@ sources:
 | 信仰意志 | [concepts/will-to-believe.md](concepts/will-to-believe.md) | 活的-强制-有重大后果的选择、信念的实践权利 |
 | 习惯 | [concepts/habit.md](concepts/habit.md) | 习惯的神经机制、社会飞轮、行为自动化 |
 | 实用主义 | [concepts/pragmatism.md](concepts/pragmatism.md) | 真理的兑现价值、意义的效果标准 |
-| 著作年表 | [works.md](works.md) | 全部重要著作的时间线 |
-| 生平年表 | [timeline.md](timeline.md) | 重要人生事件与思想转折 |
-| 阅读清单 | [reading-list.md](reading-list.md) | 原典、二手研究、中文资源 |
+| 著作年表 | [著作.md](著作.md) | 全部重要著作的时间线 |
+| 生平年表 | [时间线.md](时间线.md) | 重要人生事件与思想转折 |
+| 阅读清单 | [阅读.md](阅读.md) | 原典、二手研究、中文资源 |

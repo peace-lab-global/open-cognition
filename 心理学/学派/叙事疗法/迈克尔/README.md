@@ -266,6 +266,6 @@ Zhuangzi's *Qi Wu Lun* ("Equalization of Things") deconstructs all fixed judgmen
 | 定义式仪式 / Definitional Ceremony | 社群见证与身份确认 / Community witnessing and identity confirmation | [concepts/definitional-ceremony.md](concepts/definitional-ceremony.md) |
 
 ### 附属文件 / Supplementary Files
-- [著作年表 / Works Chronology](works.md)
-- [生平年表 / Life Timeline](timeline.md)
-- [推荐阅读 / Reading List](reading-list.md)
+- [著作年表 / Works Chronology](著作.md)
+- [生平年表 / Life Timeline](时间线.md)
+- [推荐阅读 / Reading List](阅读.md)

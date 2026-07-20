@@ -164,7 +164,7 @@ tags: [panjiao, doctrinal-classification, five-vehicles, three-vehicles, mahayan
 ## 参见 / See Also
 
 - [法界圆觉宗 Dharmadhatu Awakening](dharmadhatu-awakening.md)
-- [人生佛教 Humanistic Buddhism](humanistic-buddhism.md)
+- [人生佛教 Humanistic Buddhism](人间佛教.md)
 - [太虚 Taixu](../README.md)
-- [智顗 Zhiyi](../zhiyi/) — 天台判教的创始人
-- [法藏 Fazang](../fazang/) — 华严判教的集大成者
+- [智顗 Zhiyi](../../../README.md) — 天台判教的创始人
+- [法藏 Fazang](../../../README.md) — 华严判教的集大成者

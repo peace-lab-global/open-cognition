@@ -2,9 +2,9 @@
 name: dasein-analysis
 description: Triggers on requests to 此在分析、存在之问、技术批判，如存在焦虑、技术反思、本真性探索等。Apply this skill to analyze human existence using Heidegger's concept of Dasein, understanding being-in-the-world and authenticity.
 domain: 哲学
-linked_thinker: ../../schools/existentialism/heidegger.md
+linked_thinker: ../../schools/存在主义/海德格尔.md
 linked_concepts:
-  - ../../哲学/概念/dasein.md
+  - ../../哲学/概念/此在.md
   - ../../哲学/概念/存在-in-the-world.md
 tags:
   - 此在
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[海德格尔](../../schools/existentialism/heidegger.md)
-- 来源概念：[此在](../../concepts/dasein.md)、[在世界中存在](../../concepts/being-in-the-world.md)
+- 来源思想家：[海德格尔](../../学派/存在主义/海德格尔.md)
+- 来源概念：[此在](../../学派/存在主义/海德格尔/概念/此在.md)、[在世界中存在](../../学派/存在主义/海德格尔/概念/在世存在.md)
 - 关键文献：《存在与时间》、《技术的追问》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[海德格尔](../../schools/existentialism/heidegger.md)
-- 概念：[此在](../../concepts/dasein.md)、[在世界中存在](../../concepts/being-in-the-world.md)
-- 相关 Skill：[will-to-power-analysis](./will-to-power-analysis/SKILL.md)、[allegory-of-cave-analysis](./allegory-of-cave-analysis/SKILL.md)
+- 思想家：[海德格尔](../../学派/存在主义/海德格尔.md)
+- 概念：[此在](../../学派/存在主义/海德格尔/概念/此在.md)、[在世界中存在](../../学派/存在主义/海德格尔/概念/在世存在.md)
+- 相关 Skill：[will-to-power-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[allegory-of-cave-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

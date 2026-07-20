@@ -106,7 +106,7 @@ The most profound dimension is "not dwelling even in the present" — even in th
 ## 参见 / See Also
 
 - [无念 No-Thought](no-thought-wunian.md) — 无住的认知表现 / The cognitive expression of non-dwelling
-- [顿悟 Sudden Enlightenment](sudden-enlightenment.md) — 无住的突破性实现 / The breakthrough realization of non-dwelling
+- [顿悟 Sudden Enlightenment](../../../../../心理学/学派/认知心理学/比曼/概念/顿悟.md) — 无住的突破性实现 / The breakthrough realization of non-dwelling
 - [自性 Self-Nature](self-nature.md) — 无住所指向的本来面目 / The original face to which non-dwelling points
 - [坛经 Platform Sutra](platform-sutra.md) — 无住思想的文本来源 / The textual source of non-dwelling thought
 - [慧能 Huineng](../README.md)

@@ -15,9 +15,9 @@ sources:
   - Collected Papers of Charles Sanders Peirce (1931–1958)
   - The Essential Peirce (Houser & Kloesel, eds.)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: james
     relation: 同源

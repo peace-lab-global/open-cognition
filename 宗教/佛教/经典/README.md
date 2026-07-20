@@ -25,9 +25,9 @@ tags:
 |------|------|----------|------|------|
 | 1 | 《般若波罗蜜多心经》 | 五蕴皆空 → 度一切苦厄 | 入门 | [heart-sutra.md](heart-sutra.md) |
 | 2 | 《金刚般若波罗蜜经》 | 无相 → 无住 → 无所得 | 进阶 | [diamond-sutra.md](diamond-sutra.md) |
-| 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | 专研 | [lotus-sutra.md](lotus-sutra.md) |
+| 3 | 《妙法莲华经》 | 会三归一 → 开佛知见 | 专研 | [妙法莲华经.md](妙法莲华经.md) |
 | 4 | 《大佛顶首楞严经》 | 七处征心 → 五阴魔境 | 专研 | [surangama-sutra.md](surangama-sutra.md) |
-| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 | 专研 | [avatamsaka-sutra.md](avatamsaka-sutra.md) |
+| 5 | 《大方广佛华严经》 | 法界缘起 → 事事无碍 | 专研 | [华严经.md](华严经.md) |
 | 6 | 《大方广圆觉修多罗了义经》 | 知幻 → 离幻 → 圆觉 | 进阶 | [perfect-enlightenment-sutra.md](perfect-enlightenment-sutra.md) |
 | 7 | 《维摩诘所说经》 | 不二法门 → 烦恼即菩提 | 进阶 | [vimalakirti-sutra.md](vimalakirti-sutra.md) |
 | 8 | 《大般涅槃经》 | 一切众生有佛性 → 常乐我净 | 专研 | [mahaparinirvana-sutra.md](mahaparinirvana-sutra.md) |
@@ -118,7 +118,7 @@ graph TB
 
 | 认知科学主题 | 相关经文 | 交叉引用 |
 |-------------|----------|----------|
-| **八识论** | 楞伽经、楞严经 | [八识论](../../concepts/cognitive-theory/eight-consciousness.md) |
+| **八识论** | 楞伽经、楞严经 | [八识论](../../concepts/cognitive-theory/八识体系.md) |
 | **认知建构论** | 楞伽经、坛经、金刚经 | [建构论](../../concepts/cognitive-theory/constructivism.md) |
 | **注意力与觉察** | 观无量寿经、无量寿经 | [注意力](../../concepts/cognitive-theory/attention-awareness.md) |
 | **元认知** | 楞伽经、坛经 | [元认知](../../concepts/cognitive-theory/metacognition.md) |
@@ -126,8 +126,8 @@ graph TB
 | **自我认知** | 四十二章经、金刚经 | [自我认知](../../concepts/cognitive-theory/self-cognition.md) |
 | **意象认知** | 观无量寿经（十六观） | [意象认知](../../concepts/cognitive-theory/mental-imagery.md) |
 | **认知承诺** | 无量寿经（四十八愿） | [认知承诺](../../concepts/cognitive-theory/cognitive-commitment.md) |
-| **先验认知潜能** | 涅槃经（佛性论） | [八识论](../../concepts/cognitive-theory/eight-consciousness.md) |
-| **正念觉察** | 坛经、圆觉经 | [正念](../../concepts/cognitive-theory/mindfulness.md) |
+| **先验认知潜能** | 涅槃经（佛性论） | [八识论](../../concepts/cognitive-theory/八识体系.md) |
+| **正念觉察** | 坛经、圆觉经 | [正念](../../concepts/cognitive-theory/正念.md) |
 
 ---
 

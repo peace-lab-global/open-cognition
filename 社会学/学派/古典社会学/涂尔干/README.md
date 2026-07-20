@@ -266,6 +266,6 @@ Durkheim's "collective consciousness" concept dialogues with the Chinese concept
 | [自杀类型学](concepts/suicide.md) | 四种自杀类型的社会学分析 / Sociological analysis of four suicide types |
 | [社会分工](concepts/division-of-labour.md) | 分工的社会功能与病理 / Social functions and pathologies of division of labour |
 | [神圣与世俗](concepts/sacred-profane.md) | 宗教的基本分类原则 / The basic classificatory principle of 宗教 |
-| [著作年表](works.md) | 涂尔干主要著作详述 / Detailed survey of Durkheim's major works |
-| [生平年谱](timeline.md) | 涂尔干生平与思想大事年表 / Chronology of Durkheim's life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 涂尔干主要著作详述 / Detailed survey of Durkheim's major works |
+| [生平年谱](时间线.md) | 涂尔干生平与思想大事年表 / Chronology of Durkheim's life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

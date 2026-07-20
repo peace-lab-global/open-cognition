@@ -51,7 +51,7 @@
 
 ### P2 - 内容补全
 - ✓ meta/sources.md 新增 Wisdom Masters 来源（禅宗/藏传/日本禅/入世佛教）
-- ✓ flow.md 的 "+4%" 声明补上 Kotler 文献引用
+- ✓ 心流.md 的 "+4%" 声明补上 Kotler 文献引用
 
 ### 最终验证
 - INDEX.md 链接：226 条，0 断链

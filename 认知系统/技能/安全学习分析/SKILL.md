@@ -4,8 +4,8 @@ description: 基于 Hollnagel 的 Safety-II 框架，分析日常工作为什么
 domain: 认知系统
 linked_thinker: ../../schools/safety-science/hollnagel.md
 linked_concepts:
-  - ../../concepts/safety-paradigm.md
-  - ../../concepts/resilience-engineering.md
+  - ../../concepts/安全范式.md
+  - ../../concepts/韧性工程.md
 tags:
   - safety-II
   - safety-learning
@@ -36,8 +36,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[霍伦纳格 Hollnagel](../../schools/safety-science/hollnagel.md)
-- 来源概念：[安全范式](../../concepts/safety-paradigm.md)、[韧性工程](../../concepts/resilience-engineering.md)
+- 来源思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/hollnagel.md)
+- 来源概念：[安全范式](../../概念/安全范式.md)、[韧性工程](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/韧性工程.md)
 - 关键文献：Hollnagel, E. *Safety-I and Safety-II*. Ashgate, 2014.
 
 ## 操作流程
@@ -138,8 +138,8 @@ tags:
 
 ## 关联条目
 
-- 思想家：[霍伦纳格 Hollnagel](../../schools/safety-science/hollnagel.md)
-- 概念：[安全范式](../../concepts/safety-paradigm.md)
-- 概念：[韧性工程](../../concepts/resilience-engineering.md)
-- 相关 Skill：[人为错误分析](../human-error-analysis/SKILL.md)
-- 相关 Skill：[韧性评估](../resilience-assessment/SKILL.md)
+- 思想家：[霍伦纳格 Hollnagel](../../学派/安全科学/hollnagel.md)
+- 概念：[安全范式](../../概念/安全范式.md)
+- 概念：[韧性工程](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/韧性工程.md)
+- 相关 Skill：[人为错误分析](../../../宗教/佛教/技能/从前五识/SKILL.md)
+- 相关 Skill：[韧性评估](../../../宗教/佛教/技能/从前五识/SKILL.md)

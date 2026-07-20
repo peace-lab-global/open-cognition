@@ -23,9 +23,9 @@ children:
   - concepts/panopticon.md
   - concepts/legal-positivism.md
   - concepts/animal-rights.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 边沁 · Jeremy Bentham
@@ -83,4 +83,4 @@ children:
 | [concepts/panopticon.md](concepts/panopticon.md) | 全景监狱 · 规训 |
 | [concepts/legal-positivism.md](concepts/legal-positivism.md) | 法律实证主义 |
 | [concepts/animal-rights.md](concepts/animal-rights.md) | 动物权利 · 受苦能力 |
-| [works.md](works.md) · [timeline.md](timeline.md) · [reading-list.md](reading-list.md) |
+| [著作.md](著作.md) · [时间线.md](时间线.md) · [阅读.md](阅读.md) |

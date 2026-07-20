@@ -35,14 +35,14 @@ cross-refs:
   - merleau-ponty
   - varela
 sub-entries:
-  - concepts/somatic-marker.md
+  - concepts/躯体标记.md
   - concepts/feeling-of-what-happens.md
-  - concepts/embodied-cognition.md
+  - concepts/生成认知.md
   - concepts/emotion-reason.md
   - concepts/consciousness.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 达玛西奥 \u00b7 Ant\u00f3nio Dam\u00e1sio
@@ -193,7 +193,7 @@ His work simultaneously challenges three academic traditions: Cartesian mind-bod
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 原典 / Primary Sources
 - Dam\u00e1sio, A. (1994). *Descartes' Error: Emotion, Reason, and the Human Brain*. Putnam. \u2014\u2014 核心论点最清晰，适合入门
@@ -218,11 +218,11 @@ His work simultaneously challenges three academic traditions: Cartesian mind-bod
 
 ## 子条目索引 / Sub-entries
 
-- [躯体标记 / Somatic Marker](concepts/somatic-marker.md)
+- [躯体标记 / Somatic Marker](concepts/躯体标记.md)
 - [对发生之事的感觉 / Feeling of What Happens](concepts/feeling-of-what-happens.md)
-- [具身认知 / Embodied Cognition](concepts/embodied-cognition.md)
+- [具身认知 / Embodied Cognition](concepts/生成认知.md)
 - [情绪与理性 / Emotion and Reason](concepts/emotion-reason.md)
 - [意识 / Consciousness](concepts/consciousness.md)
-- [著作目录](works.md)
-- [年表](timeline.md)
-- [进阶阅读](reading-list.md)
+- [著作目录](著作.md)
+- [年表](时间线.md)
+- [进阶阅读](阅读.md)

@@ -135,6 +135,8 @@ open-cognition/
 ├── 艺术/                       # 艺术
 ├── 认知系统/          # 认知系统工程
 │
+├── 清单/                  # 没用的清单 · 跨人物冷知识素材库（94 张 · 1225 条）
+│
 ├── _meta/                      # 元数据与配套
 │   ├── quality-criteria.md     # 质量标准
 │   ├── taxonomy.md             # 分类法
@@ -167,7 +169,7 @@ open-cognition/
 
 agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时用/不用 + 理论基础 + 操作流程（Step 1–N） + 完整示例 + 反例。
 
-例：[CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) · [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分/SKILL.md) · [四圣谛诊断 (four-noble-truths-framework)](./宗教/技能/四圣谛框架分/SKILL.md) · [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
+例：[CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) · [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分析析/SKILL.md) · [四圣谛诊断 (four-noble-truths-framework)](./宗教/技能/四圣谛框架分/SKILL.md) · [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md) · [五蕴解构 (five-aggregates-deconstruction)](宗教/佛教/技能/以五蕴/SKILL.md)
 
 ---
 
@@ -178,7 +180,7 @@ agent 可执行的操作框架，含 YAML frontmatter + 一句话功能 + 何时
 - **横向阅读**：选一个主题（如 [自我 Self](INDEX.md#自我-self)），跨四个领域纵览不同视角。
 - **纵向阅读**：从领域 README 进入流派，深度走完一个学派。
 - **专题阅读**：进入 [佛教认知专题](宗教/佛教/INDEX.md) 或 [CSE 专题 (Cognitive Systems Engineering)](认知系统/README.md)，系统性掌握一条轴线。
-- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊/SKILL.md)；认知卡点 → [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md)；叙事困住 → [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md)）。
+- **诊断式阅读**：遇到具体困境时，使用对应 Skill（例如个人迷茫 → [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊断断/SKILL.md)；认知卡点 → [八识诊断 (eight-consciousness-diagnosis)](宗教/佛教/技能/从前五识/SKILL.md)；叙事困住 → [三性诊断 (three-natures-diagnosis)](宗教/佛教/技能/以唯识三性/SKILL.md)）。
 
 ### 给 AI Agent
 
@@ -200,7 +202,7 @@ tags: [...]
 
 > "用 [CBT 认知扭曲识别 (cbt-cognitive-distortion)](./心理学/技能/认知扭曲识别/SKILL.md) 分析下面这段独白：……"
 >
-> "把以下职场困境同时用 [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊/SKILL.md) 与 [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分/SKILL.md) 跑一遍。"
+> "把以下职场困境同时用 [马斯洛需求诊断 (maslow-needs-diagnosis)](./心理学/技能/马斯洛需求诊断断/SKILL.md) 与 [布迪厄场域分析 (bourdieu-field-analysis)](./社会学/技能/布迪厄场域分析析/SKILL.md) 跑一遍。"
 >
 > "我反复陷入同一模式，请用 [种子模式分析 (bija-pattern-analysis)](宗教/佛教/技能/后的种子类型/SKILL.md) 追溯它的熏习来源，并设计定向熏习方案。"
 >

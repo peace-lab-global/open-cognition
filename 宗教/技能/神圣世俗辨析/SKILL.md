@@ -118,4 +118,4 @@ tags:
 
 - 概念：[神圣 The Sacred](../../concepts/sacred.md)、[救赎](../../concepts/salvation.md)
 - 跨学科：[涂尔干 · 集体良心](../../../社会学/学派/古典社会学/涂尔干.md)
-- 相关 Skill：[四圣谛框架分析](../four-noble-truths-framework/SKILL.md)、[经文诠释学](../scriptural-hermeneutics/SKILL.md)
+- 相关 Skill：[四圣谛框架分析](../../佛教/技能/从前五识/SKILL.md)、[经文诠释学](../../佛教/技能/从前五识/SKILL.md)

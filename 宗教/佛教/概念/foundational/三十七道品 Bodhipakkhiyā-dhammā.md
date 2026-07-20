@@ -54,8 +54,8 @@ sources: [《长阿含经》, 《大智度论》, 《清净道论》]
 ## 与相关概念的关系
 
 - [八正道](noble-eightfold-path.md) — [下位] 八正道是 37 道品的最后一组
-- [三学](three-trainings.md) — [同源] 戒定慧与 37 道品对应
-- [四念处](../concepts/cognitive-theory/satipatthana-cognitive.md) — [下位] 第一组
+- [三学](三学 Three Trainings.md) — [同源] 戒定慧与 37 道品对应
+- [四念处](../cognitive-theory/四念处作为元认知训练.md) — [下位] 第一组
 - [上座部](../schools/theravada.md) — [同源] 37 道品是上座部修道总纲
 
 ## 常见误读

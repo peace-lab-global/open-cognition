@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[庄子](../../../宗教/传统/道教/masters/庄子.md)
 - 概念：[无用之用](../../宗教/概念/wuyong.md)
-- 相关 Skill：[qiwu-analysis](./qiwu-analysis/SKILL.md)、[reverse-thinking](./reverse-thinking/SKILL.md)
+- 相关 Skill：[qiwu-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[reverse-thinking](../../../宗教/佛教/技能/从前五识/SKILL.md)

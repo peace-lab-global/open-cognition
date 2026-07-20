@@ -2,18 +2,18 @@
 name: hui-neng-no-dwelling
 description: 慧能"无住"心法，用于辨别执念的"心住何处"，引导回到不执不弃的当下。Triggers on 当事人陷入执念、反复纠结、无法放下某事某相的场景。
 tradition: chan-buddhism
-linked_master: ../../masters/china/hui-neng.md
+linked_master: ../../智慧大师/masters/中国/慧能.md
 linked_concepts:
-  - 无住
-  - 平常心
-  - 执著
+- 无住
+- 平常心
+- 执著
 tags:
-  - 放下
-  - 执念辨别
-  - 无住
-  - 禅
+- 放下
+- 执念辨别
+- 无住
+- 禅
+domain: 宗教
 ---
-
 # 慧能无住心法 · No-Dwelling Heart
 
 ## 一句话功能
@@ -36,7 +36,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[慧能](../../masters/china/hui-neng.md)
+- 来源祖师：[慧能](../../masters/中国/慧能.md)
 - 核心概念：无住——心不滞于一处，不抓取，不排斥
 - 关键文本：《六祖坛经·行由品》
 - 核心命题："于诸法上，心不住着"
@@ -139,7 +139,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[慧能](../../masters/china/hui-neng.md)
+- 祖师：[慧能](../../masters/中国/慧能.md)
 - 概念：[无住](./concepts/wuzhu.md)（待建）
-- 相关Skill：[慧能平常心引导](./hui-neng-ordinary-mind/SKILL.md)
-- 跨传统：[海德格尔·本真](../../哲学/学派/存在主义/海德格尔.md)（平行）——本真自我与无住的内在对应
+- 相关Skill：[慧能平常心引导](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：海德格尔·本真（平行）——本真自我与无住的内在对应

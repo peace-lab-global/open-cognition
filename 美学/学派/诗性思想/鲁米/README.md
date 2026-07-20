@@ -28,9 +28,9 @@ children:
   - concepts/sama.md
   - concepts/reed-flute.md
   - concepts/annihilation.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 鲁米 / Jalal ad-Din Rumi

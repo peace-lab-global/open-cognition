@@ -46,9 +46,9 @@ sources: [《杂阿含经》, 《俱舍论》, 《大毗婆沙论》]
 
 ## 与相关概念的关系
 
-- [五蕴](five-aggregates.md) — [互补] 三大分析框架之一
+- [五蕴](五蕴 Five Aggregates.md) — [互补] 三大分析框架之一
 - [十八界](eighteen-dhatu.md) — [发展] 十二处 + 六识 = 十八界
-- [缘起](dependent-origination.md) — [同源] "六处"是十二因缘的一环
+- [缘起](缘起 Dependent Origination.md) — [同源] "六处"是十二因缘的一环
 
 ## 常见误读
 

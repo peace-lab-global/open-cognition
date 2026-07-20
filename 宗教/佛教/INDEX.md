@@ -61,24 +61,24 @@
 
 | 分类 | 概念 | 核心焦点 |
 |------|------|----------|
-| **唯识核心** | [八识体系](concepts/cognitive-theory/eight-consciousness.md) | 八个认知层次 + DMN 对话 |
-| | [心物一元](concepts/cognitive-theory/mind-world.md) | 四分说 + 自证争议 |
-| | [六根六尘六识](concepts/cognitive-theory/six-constituents.md) | 十八界的感知结构 |
-| | [转识成智](concepts/cognitive-theory/consciousness-transformation.md) | 四智分项 + 转依机制 |
-| | [三性](concepts/cognitive-theory/three-natures.md) | 遍计 / 依他 / 圆成实 |
-| | [种子与熏习](concepts/cognitive-theory/bija-vasana.md) | 认知惯性的形成与转化 |
-| **中观核心** | [中观·空](concepts/cognitive-theory/madhyamaka.md) | 含应成 / 自续分歧 |
-| | [二谛](concepts/cognitive-theory/two-truths.md) | 世俗 / 胜义双层框架 |
-| **基础佛教** | [阿毗达磨心识论](concepts/cognitive-theory/abhidharma-mind.md) | 89 心 + 52 心所 + 心路 |
-| | [十二因缘的认知读法](concepts/cognitive-theory/dependent-origination-cognitive.md) | 缘起链 = 认知链 |
-| | [五蕴的认知读法](concepts/cognitive-theory/five-aggregates-cognitive.md) | 束论、绑定问题 |
-| | [量论](concepts/cognitive-theory/pramana.md) | 陈那 / 法称佛教认识论 |
-| **汉藏禅专题** | [七处征心](concepts/cognitive-theory/qichu-zhengxin.md) / [八还辨见](concepts/cognitive-theory/baihuan-bianjian.md) | 楞严经认知解构 |
-| | [金刚经·无相](concepts/cognitive-theory/diamond-sutra-non-attachment.md) | 无相 / 无住 / 无所得 |
-| | [止观的认知分工](concepts/cognitive-theory/samadhi-vipasyana.md) | 九住心 + 十六观智 |
-| | [四念处作为元认知](concepts/cognitive-theory/satipatthana-cognitive.md) | 人类最早元认知训练 |
+| **唯识核心** | [八识体系](concepts/cognitive-theory/八识体系.md) | 八个认知层次 + DMN 对话 |
+| | [心物一元](concepts/cognitive-theory/心物一元.md) | 四分说 + 自证争议 |
+| | [六根六尘六识](concepts/cognitive-theory/六根六尘六识.md) | 十八界的感知结构 |
+| | [转识成智](concepts/cognitive-theory/转识成智.md) | 四智分项 + 转依机制 |
+| | [三性](concepts/cognitive-theory/三性.md) | 遍计 / 依他 / 圆成实 |
+| | [种子与熏习](concepts/cognitive-theory/种子与熏习.md) | 认知惯性的形成与转化 |
+| **中观核心** | [中观·空](concepts/cognitive-theory/中观.md) | 含应成 / 自续分歧 |
+| | [二谛](concepts/cognitive-theory/二谛.md) | 世俗 / 胜义双层框架 |
+| **基础佛教** | [阿毗达磨心识论](concepts/cognitive-theory/阿毗达磨心识论.md) | 89 心 + 52 心所 + 心路 |
+| | [十二因缘的认知读法](concepts/cognitive-theory/十二因缘的认知读法.md) | 缘起链 = 认知链 |
+| | [五蕴的认知读法](concepts/cognitive-theory/五蕴的认知读法.md) | 束论、绑定问题 |
+| | [量论](concepts/cognitive-theory/量论.md) | 陈那 / 法称佛教认识论 |
+| **汉藏禅专题** | [七处征心](concepts/cognitive-theory/七处征心.md) / [八还辨见](concepts/cognitive-theory/八还辨见.md) | 楞严经认知解构 |
+| | [金刚经·无相](concepts/cognitive-theory/金刚经.md) | 无相 / 无住 / 无所得 |
+| | [止观的认知分工](concepts/cognitive-theory/止观的认知分工.md) | 九住心 + 十六观智 |
+| | [四念处作为元认知](concepts/cognitive-theory/四念处作为元认知训练.md) | 人类最早元认知训练 |
 | | [公案机制](concepts/cognitive-theory/koan-mechanics.md) | 语义饱和、框架崩解、顿悟 |
-| | [默照结构](concepts/cognitive-theory/silent-illumination.md) | 非选择性觉察 |
+| | [默照结构](concepts/cognitive-theory/默照的认知结构.md) | 非选择性觉察 |
 
 ### 5.2 应用 Skill（15 个）
 
@@ -112,9 +112,9 @@
 
 | 条目 | 定位 |
 |---|---|
-| [四圣谛与八正道 · Four Noble Truths](../traditions/buddhism/four-noble-truths.md) | 佛教的诊断—处方框架 |
-| [空性 · Śūnyatā](../traditions/buddhism/sunyata.md) | 大乘核心命题 |
-| [禅 · Zen](../traditions/buddhism/zen.md) | 直指人心的东亚宗派 |
+| [四圣谛与八正道 · Four Noble Truths](../传统/佛教/四圣谛与八正道.md) | 佛教的诊断—处方框架 |
+| [空性 · Śūnyatā](../传统/佛教/大乘空性.md) | 大乘核心命题 |
+| [禅 · Zen](../传统/佛教/禅宗.md) | 直指人心的东亚宗派 |
 | [弥陀净土 · Amitābha Pure Land](../traditions/buddhism/amitabha-pure-land.md) | 信仰与愿力的宗派 |
 
 ---
@@ -126,11 +126,11 @@
 | 宗派 | 核心命题 | 条目 |
 |---|---|---|
 | **上座部 Theravāda** | 四谛、三十七道品、阿罗汉果 | [theravada.md](schools/theravada.md) |
-| **中观 Madhyamaka** | 缘起性空、二谛、四句破 | [madhyamaka.md](schools/madhyamaka.md) |
-| **唯识 Yogācāra** | 八识、三性、转识成智 | [yogacara.md](schools/yogacara.md) |
-| **天台 Tiantai** | 一念三千、三谛圆融 | [tiantai.md](schools/tiantai.md) |
-| **华严 Huayan** | 法界缘起、事事无碍 | [huayan.md](schools/huayan.md) |
-| **禅宗 Chan/Zen** | 不立文字、直指人心 | [chan-zen.md](schools/chan-zen.md) |
+| **中观 Madhyamaka** | 缘起性空、二谛、四句破 | [madhyamaka.md](中观.md) |
+| **唯识 Yogācāra** | 八识、三性、转识成智 | [yogacara.md](唯识 Vijñaptimātratā.md) |
+| **天台 Tiantai** | 一念三千、三谛圆融 | [天台.md](schools/天台.md) |
+| **华严 Huayan** | 法界缘起、事事无碍 | [华严.md](华严.md) |
+| **禅宗 Chan/Zen** | 不立文字、直指人心 | [禅宗.md](schools/禅宗.md) |
 | **净土 Pure Land** | 他力往生、念佛 | [pure-land.md](schools/pure-land.md) |
 | **密乘 Vajrayāna** | 即身成佛、本尊观 | [vajrayana.md](schools/vajrayana.md) |
 | **律宗 Vinaya** | 戒体论、四分律、化制二教 | [vinaya.md](schools/vinaya.md) |
@@ -155,14 +155,14 @@
 
 | 高僧 | 时代/传承 | 条目 |
 |---|---|---|
-| **龙树 Nāgārjuna** | 2–3 c. · 中观创始人 | [nagarjuna.md](masters/nagarjuna.md) |
+| **龙树 Nāgārjuna** | 2–3 c. · 中观创始人 | [龙树.md](大师/龙树.md) |
 | **无著·世亲 Asaṅga-Vasubandhu** | 4–5 c. · 唯识创始人 | [asanga-vasubandhu.md](masters/asanga-vasubandhu.md) |
 | **智顗 Zhìyǐ** | 538–597 · 天台宗主 | [zhiyi.md](masters/zhiyi.md) |
 | **法藏 Fǎzàng** | 643–712 · 华严宗实际创立者 | [fazang.md](masters/fazang.md) |
 | **慧能 Huìnéng** | 638–713 · 禅宗六祖 | [huineng.md](masters/huineng.md) |
 | **莲花生大士 Padmasambhava** | 8 c. · 藏传佛教祖师 | [padmasambhava.md](masters/padmasambhava.md) |
 | **宗喀巴 Tsongkhapa** | 1357–1419 · 格鲁派创立者 | [tsongkhapa.md](masters/tsongkhapa.md) |
-| **道元 Dōgen** | 1200–1253 · 日本曹洞宗创立者 | [dogen.md](masters/dogen.md) |
+| **道元 Dōgen** | 1200–1253 · 日本曹洞宗创立者 | [道元.md](masters/道元.md) |
 | **阿底峡 Atiśa** | 982–1054 · 噶当派创立者 | [atisha.md](masters/atisha.md) |
 | **密勒日巴 Milarepa** | 1052–1135 · 噶举派瑜伽士 | [milarepa.md](masters/milarepa.md) |
 | **马鸣 Aśvaghoṣa** | 80–150 · 佛教梵语文学之父 | [ashvaghosha.md](masters/ashvaghosha.md) |
@@ -172,7 +172,7 @@
 | **僧肇 Sēngzhào** | 384–414 · "解空第一", 《肇论》 | [sengzhao.md](masters/sengzhao.md) |
 | **道宣 Dàoxuān** | 596–667 · 律宗创立者, 南山律 | [daoxuan.md](masters/daoxuan.md) |
 | **吉藏 Jízàng** | 549–623 · 三论宗集大成者 | [jizang.md](masters/jizang.md) |
-| **窥基 Kuījī** | 632–682 · 法相唯识宗创立者 | [kuiji.md](masters/kuiji.md) |
+| **窥基 Kuījī** | 632–682 · 法相唯识宗创立者 | [窥基.md](masters/窥基.md) |
 | **善导 Shàndǎo** | 613–681 · 净土宗实际创立者 | [shandao.md](masters/shandao.md) |
 | **印光 Yìnguāng** | 1861–1940 · 净土十三祖 | [yinguang.md](masters/yinguang.md) |
 | **鸠摩罗什 Kumārajīva** | 344–413 · 汉传佛教翻译奠基人 | [kumarajiva.md](masters/kumarajiva.md) |
@@ -197,29 +197,29 @@
 | 概念 | 一句话 | 条目 |
 |---|---|---|
 | **三宝 Three Jewels** | 佛、法、僧——皈依的对象 | [three-jewels.md](concepts/foundational/three-jewels.md) |
-| **三法印 Three Marks** | 无常、苦、无我——判定佛法的三个标准 | [three-marks.md](concepts/foundational/three-marks.md) |
-| **缘起 Dependent Origination** | 此有故彼有，此灭故彼灭 | [dependent-origination.md](concepts/foundational/dependent-origination.md) |
-| **中道 Middle Way** | 离苦行与纵欲二边 | [middle-way.md](concepts/foundational/middle-way.md) |
+| **三法印 Three Marks** | 无常、苦、无我——判定佛法的三个标准 | [三法印 Three Marks of Existence.md](concepts/foundational/三法印 Three Marks of Existence.md) |
+| **缘起 Dependent Origination** | 此有故彼有，此灭故彼灭 | [dependent-origination.md](concepts/foundational/缘起 Dependent Origination.md) |
+| **中道 Middle Way** | 离苦行与纵欲二边 | [middle-way.md](concepts/foundational/中道 Middle Way.md) |
 | **四无量心 Four Immeasurables** | 慈、悲、喜、舍 | [four-immeasurables.md](concepts/foundational/four-immeasurables.md) |
-| **三学 Three Trainings** | 戒、定、慧 | [three-trainings.md](concepts/foundational/three-trainings.md) |
-| **五蕴 Five Aggregates** | 色、受、想、行、识——"我"的五个组件 | [five-aggregates.md](concepts/foundational/five-aggregates.md) |
+| **三学 Three Trainings** | 戒、定、慧 | [three-trainings.md](concepts/foundational/三学 Three Trainings.md) |
+| **五蕴 Five Aggregates** | 色、受、想、行、识——"我"的五个组件 | [five-aggregates.md](concepts/foundational/五蕴 Five Aggregates.md) |
 | **业与轮回 Karma & Rebirth** | 行为与其后果 | [karma-rebirth.md](concepts/foundational/karma-rebirth.md) |
-| **菩萨道 Bodhisattva Path** | 菩提心、四弘誓愿、菩萨十地 | [bodhisattva-path.md](concepts/foundational/bodhisattva-path.md) |
+| **菩萨道 Bodhisattva Path** | 菩提心、四弘誓愿、菩萨十地 | [菩萨道 Bodhisattva Path.md](concepts/foundational/菩萨道 Bodhisattva Path.md) |
 | **六度 Six Pāramitās** | 布施、持戒、忍辱、精进、禅定、般若 | [six-paramitas.md](concepts/foundational/six-paramitas.md) |
 | **八正道 Noble Eightfold Path** | 正见、正思维、正语、正业、正命、正精进、正念、正定 | [noble-eightfold-path.md](concepts/foundational/noble-eightfold-path.md) |
-| **佛性 Buddha Nature** | 一切众生皆有成佛的可能性 | [buddha-nature.md](concepts/foundational/buddha-nature.md) |
-| **涅槃 Nirvāṇa** | 烦恼的止息、生死轮回的超越 | [nirvana.md](concepts/foundational/nirvana.md) |
+| **佛性 Buddha Nature** | 一切众生皆有成佛的可能性 | [buddha-nature.md](concepts/foundational/佛性 Buddha Nature.md) |
+| **涅槃 Nirvāṇa** | 烦恼的止息、生死轮回的超越 | [涅槃.md](concepts/foundational/涅槃.md) |
 | **戒律学 Vinaya Studies** | 戒体/戒相/戒法, 声闻戒与菩萨戒 | [vinaya-studies.md](concepts/foundational/vinaya-studies.md) |
 | **五明 Pañcavidyā** | 内明/因明/声明/医方明/工巧明 | [pancavidya.md](concepts/foundational/pancavidya.md) |
 | **百法明门** | 唯识五位百法分类体系 | [hundred-dharmas.md](concepts/foundational/hundred-dharmas.md) |
 | **四依四不依** | 依法不依人/依义不依语/依智不依识/依了义不依不了义 | [four-reliances.md](concepts/foundational/four-reliances.md) |
-| **二谛 Two Truths** | 世俗谛/胜义谛, 各宗对比 | [two-truths.md](concepts/foundational/two-truths.md) |
+| **二谛 Two Truths** | 世俗谛/胜义谛, 各宗对比 | [two-truths.md](concepts/foundational/二谛 Two Truths.md) |
 | **判教 Doctrinal Classification** | 五时八教/三时教/五教十宗 | [doctrinal-classification.md](concepts/foundational/doctrinal-classification.md) |
 | **止观 Śamatha-Vipaśyanā** | 止与观的关系, 各宗止观对比 | [samatha-vipasyana.md](concepts/foundational/samatha-vipasyana.md) |
-| **如来藏 Tathāgatagarbha** | 如来藏三义, 一乘与三乘之争 | [tathagatagarbha.md](concepts/foundational/tathagatagarbha.md) |
+| **如来藏 Tathāgatagarbha** | 如来藏三义, 一乘与三乘之争 | [如来藏 Tathāgatagarbha.md](concepts/foundational/如来藏 Tathāgatagarbha.md) |
 | **三十七道品 Bodhipakkhiya-dhamma** | 七组37项修道框架 | [thirty-seven-factors.md](concepts/foundational/thirty-seven-factors.md) |
 | **十八界 Eighteen Dhātu** | 六根+六境+六识 | [eighteen-dhatu.md](concepts/foundational/eighteen-dhatu.md) |
-| **空性 Śūnyatā** | 各宗空观对比: 有部/中观/唯识/天台/华严 | [sunyata.md](concepts/foundational/sunyata.md) |
+| **空性 Śūnyatā** | 各宗空观对比: 有部/中观/唯识/天台/华严 | [sunyata.md](concepts/foundational/空性 Śūnyatā.md) |
 | **无我 Anātman** | 人无我/法无我, 犊子部论争 | [anatman.md](concepts/foundational/anatman.md) |
 | **三解脱门 Three Liberations** | 空/无相/无愿——涅槃三重入口 | [three-liberations.md](concepts/foundational/three-liberations.md) |
 | **三身 Trikāya** | 法身/报身/化身, 各宗三身观 | [trikaya.md](concepts/foundational/trikaya.md) |
@@ -248,12 +248,12 @@
   - [楞严经 · Śūraṅgama](treatises/surangama.md)（七处征心、八还辨见、五十阴魔）
   - [法华经 · Saddharmapuṇḍarīka](treatises/lotus.md)（开权显实、一佛乘、七大譬喻）
   - [华严经 · Avataṃsaka](treatises/avatamsaka.md)（十地品、善财童子五十三参、因陀罗网）
-  - [圆觉经 · Perfect Enlightenment](treatises/perfect-enlightenment.md)（十二圆觉菩萨、三观、四病）
+  - [圆觉经 · Perfect Enlightenment](treatises/perfect-启蒙.md)（十二圆觉菩萨、三观、四病）
   - [解深密经 · Saṃdhinirmocana](treatises/sandhinirmocana.md)（三性、八识、唯识）
   - [大乘起信论 · Awakening of Faith](treatises/awakening-of-faith.md)（一心二门、如来藏缘起、信解行证）
   - [俱舍论 · Abhidharmakośa](treatises/abhidharmakosa.md)（五位七十五法、有部哲学、聪明论）
   - [成唯识论 · Vijñaptimātratāsiddhi](treatises/cheng-weishi-lun.md)（八识、三性、转识成智、合糅方法论）
-  - [大般涅槃经 · Mahāparinirvāṇa](treatises/mahaparinirvana.md)（佛性常乐我净、一切众生悉有佛性）
+  - [大般涅槃经 · Mahāparinirvāṇa](treatises/mahapari涅槃.md)（佛性常乐我净、一切众生悉有佛性）
   - [中论 · Mūlamadhyamakakārikā](treatises/mulamadhyamakakarika.md)（八不中道、四句破、27品）
   - [楞伽经 · Laṅkāvatāra](treatises/lankavatara.md)（五法/三自性/八识/二无我、禅宗印心经典）
   - [入中论 · Madhyamakāvatāra](treatises/madhyamakavatara.md)（月称造、十地+六度、应成中观代表作）
@@ -311,10 +311,10 @@
 
 ## 10. 阅读建议
 
-- **初学者 30 分钟路线**：本文 → [四圣谛](../traditions/buddhism/four-noble-truths.md) → [三法印](concepts/foundational/three-marks.md) → [缘起](concepts/foundational/dependent-origination.md)
-- **哲学读者**：[空性](../traditions/buddhism/sunyata.md) → [中观学派](schools/madhyamaka.md) → [龙树](masters/nagarjuna.md) → [中观四句破 Skill]
-- **心理学读者**：[八识](concepts/cognitive-theory/eight-consciousness.md) → [唯识学派](schools/yogacara.md) → [八识诊断 Skill]
-- **冥想实践者**：[禅](../traditions/buddhism/zen.md) → [慧能](masters/huineng.md) → [四无量心](concepts/foundational/four-immeasurables.md)
+- **初学者 30 分钟路线**：本文 → [四圣谛](../传统/佛教/四圣谛与八正道.md) → [三法印](concepts/foundational/三法印 Three Marks of Existence.md) → [缘起](concepts/foundational/缘起 Dependent Origination.md)
+- **哲学读者**：[空性](../传统/佛教/大乘空性.md) → [中观学派](中观.md) → [龙树](大师/龙树.md) → [中观四句破 Skill]
+- **心理学读者**：[八识](concepts/cognitive-theory/八识体系.md) → [唯识学派](唯识 Vijñaptimātratā.md) → [八识诊断 Skill]
+- **冥想实践者**：[禅](../传统/佛教/禅宗.md) → [慧能](masters/huineng.md) → [四无量心](concepts/foundational/four-immeasurables.md)
 - **经典深度读者**：从 [sutras/README.md](sutras/README.md) 进入
 
 ---

@@ -256,6 +256,6 @@ aliases: [John Flavell, 约翰·弗拉维尔, John H. Flavell]
 | 心理理论 | [concepts/theory-of-mind](concepts/theory-of-mind.md) | 社会认知延伸 |
 | 认知监控 | [concepts/cognitive-monitoring](concepts/cognitive-monitoring.md) | 实时评估机制 |
 | 认知发展 | [concepts/developmental](concepts/developmental.md) | 发展视角 |
-| 著作年表 | [works](works.md) | 完整著作列表 |
-| 生平年表 | [timeline](timeline.md) | 生平与学术事件 |
-| 进阶阅读 | [reading-list](reading-list.md) | 原典与二手文献 |
+| 著作年表 | [works](著作.md) | 完整著作列表 |
+| 生平年表 | [timeline](时间线.md) | 生平与学术事件 |
+| 进阶阅读 | [reading-list](阅读.md) | 原典与二手文献 |

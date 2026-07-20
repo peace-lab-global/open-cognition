@@ -132,6 +132,6 @@ The "permanence inversion" parallels the brain's "persistence illusion" — the 
 ## 参见 / See Also
 
 - [四百论 Catuhsataka](four-hundred-verses.md) — 破四倒的文本来源
-- [悲智双运 Karuna-Prajna](compassion-wisdom.md) — 破四倒后生起大悲
-- [龙树·空性 Sunyata](../nagarjuna/concepts/sunyata.md) — 四倒破除的理论基础
+- [悲智双运 Karuna-Prajna](悲智双运.md) — 破四倒后生起大悲
+- [龙树·空性 Sunyata](../龙树/概念/空性.md) — 四倒破除的理论基础
 - [龙树·四句破 Catuskoti](../nagarjuna/concepts/catuskoti.md) — 方法论工具

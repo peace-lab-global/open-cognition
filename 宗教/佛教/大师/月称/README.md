@@ -208,7 +208,7 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [龙树](nagarjuna.md) — 注释对象与思想源泉；[宗喀巴](tsongkhapa.md) — 藏传应成中观的继承与深化；[中观学派](../schools/madhyamaka.md) — 应成派代表
+- **佛教内部**: [龙树](龙树.md) — 注释对象与思想源泉；[宗喀巴](tsongkhapa.md) — 藏传应成中观的继承与深化；[中观学派](../中观.md) — 应成派代表
 - **哲学**: [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 治疗型哲学；[德里达](../../../哲学/schools/poststructuralism/derrida.md) — 解构方法
 - **逻辑学**: 归谬法 (reductio ad absurdum) 在数学和逻辑中的应用
 - **认知科学**: 反物化认知、概念框架批判、认知灵活性
@@ -243,6 +243,6 @@ Candrakirti (c. 600-650 CE) was the great systematizer of the **Prasangika** sch
 - [所破事精确化](concepts/negation-target.md) — 精确界定空性所破的对象
 - [应成 vs 自续](concepts/prasangika-vs-svatantrika.md) — 中观内部的根本分歧
 - [名言有与自性有](concepts/conventional-vs-inherent.md) — "有"的层次区分
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

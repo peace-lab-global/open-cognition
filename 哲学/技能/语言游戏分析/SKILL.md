@@ -2,9 +2,9 @@
 name: language-game-analysis
 description: Triggers when a dispute or confusion arises from a word being used in different "language games" (different practices, contexts, communities) without participants noticing. Apply this skill to map who uses the word in which contexts, surface the rules of each usage, and resolve pseudo-disagreements that are actually equivocations.
 domain: 哲学
-linked_thinker: ../../schools/analytic/wittgenstein.md
+linked_thinker: ../../schools/analytic/维特根斯坦.md
 linked_concepts:
-  - ../../concepts/epistemology.md
+  - ../../concepts/认识论.md
 tags:
   - language
   - meaning
@@ -33,8 +33,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[维特根斯坦](../../schools/analytic/wittgenstein.md)（后期）
-- 来源概念：[认识论](../../concepts/epistemology.md)
+- 来源思想家：[维特根斯坦](../../学派/分析哲学/维特根斯坦.md)（后期）
+- 来源概念：[认识论](../../概念/认识论.md)
 - 关键文献：维特根斯坦《哲学研究》§§1–242，特别是 §§7（语言游戏）、§§65–67（家族相似）、§§198–202（遵守规则）
 
 ## 操作流程
@@ -96,6 +96,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[维特根斯坦](../../schools/analytic/wittgenstein.md)
-- 概念：[认识论](../../concepts/epistemology.md)
-- 相关 Skill：[苏格拉底式诘问](../socratic-questioning/SKILL.md)（互补：诘问揭示矛盾，语言游戏分析澄清歧义）
+- 思想家：[维特根斯坦](../../学派/分析哲学/维特根斯坦.md)
+- 概念：[认识论](../../概念/认识论.md)
+- 相关 Skill：[苏格拉底式诘问](../../../宗教/佛教/技能/从前五识/SKILL.md)（互补：诘问揭示矛盾，语言游戏分析澄清歧义）

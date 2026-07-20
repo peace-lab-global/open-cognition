@@ -35,9 +35,9 @@ entries:
     └── borges/ — 博尔赫斯(专题文件夹)
         ├── README.md — 主思想家页
         ├── concepts/{infinity,time,identity,language,labyrinth}.md — 五大核心母题
-        ├── works.md — 作品总览
-        ├── timeline.md — 思想年表
-        └── reading-list.md — 进阶阅读
+        ├── 著作.md — 作品总览
+        ├── 时间线.md — 思想年表
+        └── 阅读.md — 进阶阅读
 ```
 
 ## 条目索引 / Entries
@@ -78,14 +78,14 @@ entries:
 |------|----------|
 | [美 / Beauty](concepts/beauty.md) | 形式、判断与文化建构 |
 | [崇高 / Sublime](concepts/sublime.md) | 数学的崇高与力学的崇高 |
-| [审美经验 / Aesthetic Experience](concepts/aesthetic-experience.md) | 无功利沉思、心流与日常生活美学 |
+| [审美经验 / Aesthetic Experience](concepts/审美经验.md) | 无功利沉思、心流与日常生活美学 |
 
 ## 跨域关联 / Cross-Domain Links
 
 | 本域概念 | 关联域 | 关联条目 | 关系说明 |
 |----------|--------|----------|----------|
-| 审美判断 | 哲学 | kant.md | 康德批判哲学的第三大批判 |
-| 艺术形而上学 | 哲学 | nietzsche.md | 尼采以艺术取代形而上学 |
+| 审美判断 | 哲学 | 康德.md | 康德批判哲学的第三大批判 |
+| 艺术形而上学 | 哲学 | 尼采.md | 尼采以艺术取代形而上学 |
 | 审美经验 | 哲学 | dewey.md | 杜威经验哲学的美学维度 |
 | 美感距离 | 哲学 | confucius.md | 儒家美学与"兴观群怨"说 |
 

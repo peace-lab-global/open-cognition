@@ -316,6 +316,6 @@ The Buddhist concept of "avidya" refers to ignorance of the true state of affair
 - [自动化悖论](concepts/automation-paradox.md) · Automation Paradox
 - [人类监控困境](concepts/human-monitoring.md) · Human Monitoring
 - [系统可靠性悖论](concepts/system-reliability.md) · System Reliability
-- [著作年表](works.md) · Works Bibliography
-- [生平大事记](timeline.md) · Biographical Timeline
-- [阅读指南](reading-list.md) · Reading Guide
+- [著作年表](著作.md) · Works Bibliography
+- [生平大事记](时间线.md) · Biographical Timeline
+- [阅读指南](阅读.md) · Reading Guide

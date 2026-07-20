@@ -51,9 +51,9 @@ sources: [《增一阿含经》, 《大智度论》, 《俱舍论》]
 
 ## 与相关概念的关系
 
-- [五蕴](five-aggregates.md) — [同源] 三毒作用于五蕴之上
+- [五蕴](五蕴 Five Aggregates.md) — [同源] 三毒作用于五蕴之上
 - [业与轮回](karma-rebirth.md) — [同源] 三毒驱动业力与轮回
-- [三学](three-trainings.md) — [互补] 戒定慧是三毒的对治法
+- [三学](三学 Three Trainings.md) — [互补] 戒定慧是三毒的对治法
 - [二障](two-obstacles.md) — [发展] 三毒属于烦恼障层面
 
 ## 常见误读

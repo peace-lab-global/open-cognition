@@ -97,7 +97,7 @@ sources:
 - **[互补] Reason 的组织事故理论**：Reason 提供了分析框架，德克尔提供了改变框架
 - **[平行] Leveson 的系统理论**：两者都批判传统安全方法，但从不同角度（人文 vs 系统工程）
 - **[批判] 传统安全文化**：对惩罚性问责、统计指标崇拜、规程官僚主义的深刻批判
-- **[跨域] 福柯·规训**：[参见](../../../sociology/schools/structuralism/foucault.md) — 对安全管理中权力-知识关系的分析
+- **[跨域] 福柯·规训**：[参见](../../../社会学/学派/结构主义/福柯.md) — 对安全管理中权力-知识关系的分析
 
 ## 进阶阅读
 
@@ -112,5 +112,5 @@ sources:
 
 ## 关联 Skills
 
-- [人因错误分析 Human Error Analysis](../../skills/human-error-analysis/SKILL.md)
-- [韧性评估 Resilience Assessment](../../skills/resilience-assessment/SKILL.md)
+- [人因错误分析 Human Error Analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [韧性评估 Resilience Assessment](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

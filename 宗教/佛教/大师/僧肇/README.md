@@ -16,9 +16,9 @@ sources:
   - 僧肇, *般若无知论* (*Prajna Is Without Knowing*)
   - 僧肇, *涅槃无名论* (*Nirvana Is Nameless*)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: kumarajiva
     relation: 师承

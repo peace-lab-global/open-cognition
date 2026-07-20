@@ -36,9 +36,9 @@ sub-entries:
   - concepts/neuroplasticity.md
   - concepts/compassion-training.md
   - concepts/first-person-methods.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 卢茨 · Antoine Lutz
@@ -197,6 +197,6 @@ Antoine Lutz (b. 1971) is a French cognitive neuroscientist and a leading figure
 | 神经可塑性 | [concepts/neuroplasticity.md](concepts/neuroplasticity.md) | 冥想展示的经验依赖性神经可塑性极端案例 |
 | 慈悲训练 | [concepts/compassion-training.md](concepts/compassion-training.md) | 基于佛教慈悲禅的系统性心理训练 |
 | 第一人称方法 | [concepts/first-person-methods.md](concepts/first-person-methods.md) | 内省报告的神经科学整合方法论 |
-| 著作目录 | [works.md](works.md) | 卢茨主要著作编年表 |
-| 年表 | [timeline.md](timeline.md) | 生平与学术事件编年 |
-| 进阶阅读 | [reading-list.md](reading-list.md) | 分层阅读指南与文献索引 |
+| 著作目录 | [著作.md](著作.md) | 卢茨主要著作编年表 |
+| 年表 | [时间线.md](时间线.md) | 生平与学术事件编年 |
+| 进阶阅读 | [阅读.md](阅读.md) | 分层阅读指南与文献索引 |

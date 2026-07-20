@@ -232,6 +232,6 @@ Leonardo's unity of art and science resonates with the Chinese literati painting
 - [艺术与科学统一 Art-Science Unity](concepts/art-science-unity.md) — 绘画即科学
 - [手稿与笔记本 Codex Notebooks](concepts/codex-notebooks.md) — 一万三千页心智记录
 - [透视法 Perspective Mastery](concepts/perspective-mastery.md) — 线性透视与大气透视
-- [著作年表 / Works](works.md) — 完整作品编年
-- [生平大事记 / Timeline](timeline.md) — 生平编年史
-- [阅读指南 / Reading List](reading-list.md) — 分级进阶阅读
+- [著作年表 / Works](著作.md) — 完整作品编年
+- [生平大事记 / Timeline](时间线.md) — 生平编年史
+- [阅读指南 / Reading List](阅读.md) — 分级进阶阅读

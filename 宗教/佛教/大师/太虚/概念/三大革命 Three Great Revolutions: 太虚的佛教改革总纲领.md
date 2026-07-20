@@ -49,7 +49,7 @@ tags: [buddhist-reform, three-revolutions, sangha-reform, doctrinal-revolution, 
 
 ### 理论基础 Theoretical Foundation
 
-教理革命的理论基础是太虚的"人生佛教"思想——详见 [人生佛教](humanistic-buddhism.md)。太虚认为，佛陀出世的本怀是度化人间的众生，而非超度死后的亡灵。佛法的根本目的是改善人生、觉悟人生，而非逃离人生。
+教理革命的理论基础是太虚的"人生佛教"思想——详见 [人生佛教](人间佛教.md)。太虚认为，佛陀出世的本怀是度化人间的众生，而非超度死后的亡灵。佛法的根本目的是改善人生、觉悟人生，而非逃离人生。
 
 ### 实施方法 Implementation
 
@@ -166,6 +166,6 @@ tags: [buddhist-reform, three-revolutions, sangha-reform, doctrinal-revolution, 
 
 ## 参见 / See Also
 
-- [人生佛教 Humanistic Buddhism](humanistic-buddhism.md)
+- [人生佛教 Humanistic Buddhism](人间佛教.md)
 - [世界佛学 World Buddhism](world-buddhism.md)
 - [太虚 Taixu](../README.md)

@@ -2,7 +2,7 @@
 name: will-to-power-analysis
 description: Triggers on requests to 权力意志、价值重估、超人哲学，如个人成长、文化批判、生命意义探索等。Apply this skill to analyze situations using Nietzsche's concept of will to power, embracing life-affirmation and self-overcoming.
 domain: 哲学
-linked_thinker: ../../schools/existentialism/nietzsche.md
+linked_thinker: ../../schools/existentialism/尼采.md
 linked_concepts:
   - ../../哲学/概念/will-to-power.md
   - ../../哲学/概念/eternal-recurrence.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[尼采](../../schools/existentialism/nietzsche.md)
+- 来源思想家：[尼采](../../学派/存在主义/尼采.md)
 - 来源概念：[权力意志](../../concepts/will-to-power.md)、[永恒轮回](../../concepts/eternal-recurrence.md)
 - 关键文献：《查拉图斯特拉如是说》、《善恶的彼岸》、《道德的谱系》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[尼采](../../schools/existentialism/nietzsche.md)
+- 思想家：[尼采](../../学派/存在主义/尼采.md)
 - 概念：[权力意志](../../concepts/will-to-power.md)、[永恒轮回](../../concepts/eternal-recurrence.md)
-- 相关 Skill：[allegory-of-cave-analysis](./allegory-of-cave-analysis/SKILL.md)、[dasein-analysis](./dasein-analysis/SKILL.md)
+- 相关 Skill：[allegory-of-cave-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[dasein-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

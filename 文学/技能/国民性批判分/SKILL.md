@@ -5,7 +5,7 @@ domain: 文学
 linked_thinker: ../../schools/essayists/lu-xun.md
 linked_concepts:
   - ../../文学/概念/national-character-criticism.md
-  - ../../文学/概念/enlightenment.md
+  - ../../文学/概念/启蒙.md
 tags:
   - 国民性批判
   - 文化反思
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[鲁迅](../../schools/essayists/lu-xun.md)
-- 来源概念：[国民性批判](../../concepts/national-character-criticism.md)、[启蒙](../../concepts/enlightenment.md)
+- 来源思想家：[鲁迅](../../../美学/学派/文学思想/lu-xun.md)
+- 来源概念：[国民性批判](../../concepts/national-character-criticism.md)、[启蒙](../../../哲学/学派/德国唯心论/康德/概念/启蒙.md)
 - 关键文献：《呐喊》、《彷徨》、《朝花夕拾》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[鲁迅](../../schools/essayists/lu-xun.md)
-- 概念：[国民性批判](../../concepts/national-character-criticism.md)、[启蒙](../../concepts/enlightenment.md)
-- 相关 Skill：[social-fact-analysis](../../社会学/技能/社会事实分析/SKILL.md)、[discipline-analysis](../../社会学/技能/规训分析/SKILL.md)
+- 思想家：[鲁迅](../../../美学/学派/文学思想/lu-xun.md)
+- 概念：[国民性批判](../../concepts/national-character-criticism.md)、[启蒙](../../../哲学/学派/德国唯心论/康德/概念/启蒙.md)
+- 相关 Skill：[social-fact-analysis](../../../社会学/技能/社会事实分析/SKILL.md)、[discipline-analysis](../../../社会学/技能/规训分析/SKILL.md)

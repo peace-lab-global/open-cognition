@@ -5,8 +5,8 @@ domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/vinaya-studies.md
   - ../../buddhism/schools/vinaya.md
-  - ../../buddhism/concepts/foundational/three-trainings.md
-  - ../../buddhism/concepts/foundational/bodhisattva-path.md
+  - ../../buddhism/concepts/foundational/三学 Three Trainings.md
+  - ../../buddhism/concepts/foundational/菩萨道 Bodhisattva Path.md
 tags:
   - vinaya
   - ethics
@@ -42,8 +42,8 @@ tags:
 - **开遮持犯**：每条戒都有开缘（允许违反的条件）与遮止（必须禁止的情境）
 - **戒体论**：得戒时产生的"无表色"/"种子"——戒律的本体论基础 → [律宗](../../buddhism/schools/vinaya.md)
 - **声闻戒 vs 菩萨戒**：别解脱戒（250/348 条）vs 梵网经菩萨戒（十重四十八轻）
-- **三学**：戒为定慧之基 → [三学](../../buddhism/concepts/foundational/three-trainings.md)
-- **菩萨道伦理**：菩提心统摄一切戒 → [菩萨道](../../buddhism/concepts/foundational/bodhisattva-path.md)
+- **三学**：戒为定慧之基 → [三学](../../佛教/概念/foundational/三学 Three Trainings.md)
+- **菩萨道伦理**：菩提心统摄一切戒 → [菩萨道](../../佛教/概念/foundational/菩萨道 Bodhisattva Path.md)
 
 ## 操作流程
 
@@ -160,7 +160,7 @@ tags:
 
 ## 关联条目
 
-- 概念：[戒律学](../../buddhism/concepts/foundational/vinaya-studies.md)、[三学](../../buddhism/concepts/foundational/three-trainings.md)、[菩萨道](../../buddhism/concepts/foundational/bodhisattva-path.md)
+- 概念：[戒律学](../../buddhism/concepts/foundational/vinaya-studies.md)、[三学](../../佛教/概念/foundational/三学 Three Trainings.md)、[菩萨道](../../佛教/概念/foundational/菩萨道 Bodhisattva Path.md)
 - 宗派：[律宗](../../buddhism/schools/vinaya.md)
 - 高僧：[道宣](../../buddhism/masters/daoxuan.md)
-- 相关 Skill：[经论判释](../doctrinal-classification/SKILL.md)、[圣典诠释学](../scriptural-hermeneutics/SKILL.md)
+- 相关 Skill：[经论判释](../../佛教/技能/从前五识/SKILL.md)、[圣典诠释学](../../佛教/技能/从前五识/SKILL.md)

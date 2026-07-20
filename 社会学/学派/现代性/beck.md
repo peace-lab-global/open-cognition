@@ -86,8 +86,8 @@ sources:
 ## 跨学科关联
 
 - [鲍曼](bauman.md) `[互补]` 风险与流动是现代性两面
-- [马克思 · 异化](../classical/marx.md) `[发展]` 风险的阶级分布与"普遍受害者"
-- [康德 · 永久和平](../../../philosophy/schools/german-idealism/kant.md) `[继承]` 世界公民论
+- [马克思 · 异化](../古典社会学/马克思.md) `[发展]` 风险的阶级分布与"普遍受害者"
+- [康德 · 永久和平](../../../哲学/学派/德国唯心论/康德.md) `[继承]` 世界公民论
 - [积极心理学 · 韧性](../../../psychology/schools/positive/flourishing.md) `[平行]` 风险时代的个人应对
 - [环境伦理 · Environmental Ethics](../../../ethics-politics/concepts/environmental-ethics.md) `[互补]` 风险社会理论与气候正义的交叉——制造性风险的环境伦理维度
 

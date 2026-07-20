@@ -43,9 +43,9 @@ children:
   - concepts/emotional-granularity.md
   - concepts/prediction.md
   - concepts/affect.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 巴雷特 · Lisa Feldman Barrett
@@ -98,7 +98,7 @@ children:
 
 ## 思想脉络 / Intellectual Trajectory
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 第一期: 临床心理学训练与个体差异的发现 (1980s–1990s)
 
@@ -114,7 +114,7 @@ children:
 
 ## 关键著作 / Key Works
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 | 年份 | 著作 | 类型 | 地位 |
 |---|---|---|---|
@@ -257,7 +257,7 @@ children:
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 原典 / Primary Sources
 
@@ -289,6 +289,6 @@ children:
 | [情绪粒度](concepts/emotional-granularity.md) | 心理健康的核心可测量指标 |
 | [预测与主动推断](concepts/prediction.md) | 大脑的核心运作机制 |
 | [情感/身体预算](concepts/affect.md) | 情绪构造的原材料 |
-| [作品总览](works.md) | 巴雷特主要著作年表 |
-| [思想年表](timeline.md) | 生平与思想发展大事记 |
-| [进阶阅读](reading-list.md) | 原典、二手研究、中文资源与跨学科阅读 |
+| [作品总览](著作.md) | 巴雷特主要著作年表 |
+| [思想年表](时间线.md) | 生平与思想发展大事记 |
+| [进阶阅读](阅读.md) | 原典、二手研究、中文资源与跨学科阅读 |

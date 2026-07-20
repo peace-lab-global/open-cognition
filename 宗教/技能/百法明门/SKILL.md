@@ -4,11 +4,11 @@ description: Triggers when a user needs to classify and analyze any mental, cogn
 domain: 宗教
 linked_concepts:
   - ../../buddhism/concepts/foundational/hundred-dharmas.md
-  - ../../buddhism/concepts/foundational/five-aggregates.md
+  - ../../buddhism/concepts/foundational/五蕴 Five Aggregates.md
   - ../../buddhism/concepts/foundational/eighteen-dhatu.md
   - ../../buddhism/concepts/foundational/two-obstacles.md
   - ../../buddhism/treatises/cheng-weishi-lun.md
-  - ../../buddhism/schools/yogacara.md
+  - ../../buddhism/唯识 Vijñaptimātratā.md
 tags:
   - yogacara
   - hundred-dharmas
@@ -176,8 +176,8 @@ tags:
 
 ## 关联条目
 
-- 概念：[百法明门](../../buddhism/concepts/foundational/hundred-dharmas.md)、[五蕴](../../buddhism/concepts/foundational/five-aggregates.md)、[十八界](../../buddhism/concepts/foundational/eighteen-dhatu.md)、[二障](../../buddhism/concepts/foundational/two-obstacles.md)
+- 概念：[百法明门](../../buddhism/concepts/foundational/hundred-dharmas.md)、[五蕴](../../佛教/概念/foundational/五蕴 Five Aggregates.md)、[十八界](../../buddhism/concepts/foundational/eighteen-dhatu.md)、[二障](../../buddhism/concepts/foundational/two-obstacles.md)
 - 论典：[成唯识论](../../buddhism/treatises/cheng-weishi-lun.md)
-- 宗派：[法相唯识宗](../../buddhism/schools/yogacara.md)
-- 高僧：[世亲](../../buddhism/masters/vasubandhu.md)、[窥基](../../buddhism/masters/kuiji.md)
-- 相关 Skill：[论典结构分析](../sastra-structure-analysis/SKILL.md)
+- 宗派：[法相唯识宗](../../佛教/概念/foundational/唯识 Vijñaptimātratā.md)
+- 高僧：[世亲](../../buddhism/masters/vasubandhu.md)、[窥基](../../佛教/大师/窥基.md)
+- 相关 Skill：[论典结构分析](../../佛教/技能/从前五识/SKILL.md)

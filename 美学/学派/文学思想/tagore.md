@@ -69,11 +69,11 @@ sources:
 
 ## 跨学科关联
 
-- [甘地](../../../ethics-politics/schools/nonviolent-resistance/gandhi.md) `[互补]` 两者都反殖民，但泰戈尔反对民族主义本身
+- [甘地](../../../伦理政治/学派/非暴力抵抗/gandhi.md) `[互补]` 两者都反殖民，但泰戈尔反对民族主义本身
 - [杜威](../../../philosophy/schools/pragmatism/dewey.md) `[平行]` 教育哲学：自然/实践/创造
-- [一行禅师](../../../religion/wisdom-masters/masters/west/thich-nhat-hanh.md) `[平行]` 入世佛教与泰戈尔的人文宗教共享入世慈悲
-- [孔子](../../../philosophy/schools/eastern/confucius.md) `[平行]` 教育即人格养成，关系性自我
-- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[同源]` 自然与人合一、逍遥于体制之外的东方灵性底色
+- [一行禅师](../../../宗教/智慧大师/masters/西方/一行禅师.md) `[平行]` 入世佛教与泰戈尔的人文宗教共享入世慈悲
+- [孔子](../../../哲学/学派/东方哲学/confucius.md) `[平行]` 教育即人格养成，关系性自我
+- [庄子](../../../哲学/学派/东方哲学/zhuangzi.md) `[同源]` 自然与人合一、逍遥于体制之外的东方灵性底色
 
 ## 进阶阅读
 
@@ -91,4 +91,4 @@ sources:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

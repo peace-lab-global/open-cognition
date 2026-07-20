@@ -105,11 +105,11 @@ Arendt represents a unique "phenomenological-republican" path in 20th-century po
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **现象学** → 政治存在主义 → [Heidegger（存在论基础）](../existentialism/heidegger.md) [批判]
-- **权力分析** → 权力、规训与公共领域 → [Foucault（权力微观物理学）](../../../sociology/schools/structuralism/foucault.md) [互补]
-- **交往理论** → 公共领域与交往理性 → [Habermas（公共领域理论）](../../../sociology/schools/critical/habermas.md) [发展]
-- **政治理论** → 劳动与异化问题 → [Marx（劳动理论）](../../../sociology/schools/classical/marx.md) [批判]
-- **教育哲学** → 思考与判断力的培养 → [教育中的批判思维](../../../education/concepts/critical-thinking.md) [应用]
+- **现象学** → 政治存在主义 → [Heidegger（存在论基础）](../存在主义/海德格尔.md) [批判]
+- **权力分析** → 权力、规训与公共领域 → [Foucault（权力微观物理学）](../../../社会学/学派/结构主义/福柯.md) [互补]
+- **交往理论** → 公共领域与交往理性 → [Habermas（公共领域理论）](../../../社会学/学派/批判理论/habermas.md) [发展]
+- **政治理论** → 劳动与异化问题 → [Marx（劳动理论）](../../../社会学/学派/古典社会学/马克思.md) [批判]
+- **教育哲学** → 思考与判断力的培养 → [教育中的批判思维](../../../认知系统/概念/批判性思维.md) [应用]
 
 ## 进阶阅读 / Further Reading
 
@@ -135,3 +135,10 @@ Arendt represents a unique "phenomenological-republican" path in 20th-century po
 - 政治判断力（Political Judgment）
 - 公共领域理论（Public Sphere Theory）
 - 行动理论分析（Action Theory Analysis）
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [阿伦特-诞生性](../../../名言/孤独关系/阿伦特-诞生性.md)

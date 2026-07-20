@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[菩提达摩](../../wisdom-masters/masters/china/bodhidharma.md)
 - 概念：[壁观](../../concepts/biguan.md)
-- 相关 Skill：[hui-neng-no-dwelling](./hui-neng-no-dwelling/SKILL.md)、[forest-meditation-guidance](./forest-meditation-guidance/SKILL.md)
+- 相关 Skill：[hui-neng-no-dwelling](../../佛教/技能/从前五识/SKILL.md)、[forest-meditation-guidance](../../佛教/技能/从前五识/SKILL.md)

@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[格奥尔格·齐美尔](../../schools/classical/simmel.md)
+- 来源思想家：[格奥尔格·齐美尔](../../学派/古典社会学/simmel.md)
 - 来源概念：[社会形式](../../concepts/social-forms.md)、[陌生人](../../concepts/the-stranger.md)
 - 关键文献：《社会学：关于社会交往形式的研究》、《货币哲学》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[格奥尔格·齐美尔](../../schools/classical/simmel.md)
+- 思想家：[格奥尔格·齐美尔](../../学派/古典社会学/simmel.md)
 - 概念：[社会形式](../../concepts/social-forms.md)、[陌生人](../../concepts/the-stranger.md)
-- 相关 Skill：[social-fact-analysis](./social-fact-analysis/SKILL.md)、[liquid-modernity-analysis](./liquid-modernity-analysis/SKILL.md)
+- 相关 Skill：[social-fact-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[liquid-modernity-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

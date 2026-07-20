@@ -142,7 +142,7 @@ tags: [trekcho, togal, khregs-chod, thod-rgal, Dzogchen, cutting-through, leapin
 
 ## 参见 / See Also
 
-- [本初清净 Ka dag](primordial-purity.md) — 彻却的核心认知
+- [本初清净 Ka dag](本初清净.md) — 彻却的核心认知
 - [任运自成 Lhun grub](spontaneous-presence.md) — 脱嘎的核心体验
 - [九乘判教](nine-yana.md) — 大圆满在九乘中的定位
 - [隆钦巴 Longchenpa](../README.md) — 主条目

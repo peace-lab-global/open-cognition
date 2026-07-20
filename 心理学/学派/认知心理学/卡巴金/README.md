@@ -123,7 +123,7 @@ In 1995, Kabat-Zinn founded the Center for Mindfulness in Medicine, Health Care,
 | 2012 | *Mindfulness for Beginners: Reclaiming the Present Moment and Your Life* | 简明正念入门，面向初学者 / Concise mindfulness introduction for beginners |
 | 2013 | *Full Catastrophe Living* (Revised Edition) | 纳入最新神经科学研究证据 / Incorporated latest neuroscience 研究 evidence |
 
-详见 → [works.md](works.md)
+详见 → [著作.md](著作.md)
 
 ---
 
@@ -134,7 +134,7 @@ In 1995, Kabat-Zinn founded the Center for Mindfulness in Medicine, Health Care,
 | 概念 / Concept | 简述 / Brief Description |
 |:---|:---|
 | [正念减压 · MBSR](concepts/mindfulness-based-stress-reduction.md) | 八周结构化正念训练课程，正念运动的起点 / Eight-week structured mindfulness training; origin of the mindfulness movement |
-| [当下觉察 · Present Moment](concepts/present-moment.md) | 正念的核心指向——将注意力锚定于此刻的经验 / Core orientation of mindfulness — anchoring attention in present experience |
+| [当下觉察 · Present Moment](concepts/当下觉察.md) | 正念的核心指向——将注意力锚定于此刻的经验 / Core orientation of mindfulness — anchoring attention in present experience |
 | [不评判的觉察 · Nonjudgmental Awareness](concepts/nonjudgmental-awareness.md) | 以开放、好奇、不评价的态度观察经验 / Observing experience with openness, curiosity, and without evaluation |
 | [身体扫描 · Body Scan](concepts/body-scan.md) | 系统性地将注意力依次引导到身体各部位的练习 / Systematic practice of directing attention sequentially through body regions |
 | [冥想 · Meditation](concepts/meditation.md) | 卡巴金对冥想的世俗化理解与教学方法 / Kabat-Zinn's secularized understanding and teaching of meditation |
@@ -273,7 +273,7 @@ Zhuangzi's "fasting of the mind" (心斋) and "sitting and forgetting" (坐忘) 
 
 ## 进阶阅读 · Further Reading
 
-详见 → [reading-list.md](reading-list.md)
+详见 → [阅读.md](阅读.md)
 
 **入门 · Introductory**
 - Kabat-Zinn, J. (1994). *Wherever You Go, There You Are*. Hyperion.
@@ -300,10 +300,10 @@ Zhuangzi's "fasting of the mind" (心斋) and "sitting and forgetting" (坐忘) 
 | 条目 / Entry | 路径 / Path |
 |:---|:---|
 | 概念：正念减压 · MBSR | [concepts/mindfulness-based-stress-reduction.md](concepts/mindfulness-based-stress-reduction.md) |
-| 概念：当下觉察 · Present Moment | [concepts/present-moment.md](concepts/present-moment.md) |
+| 概念：当下觉察 · Present Moment | [concepts/当下觉察.md](concepts/当下觉察.md) |
 | 概念：不评判的觉察 · Nonjudgmental Awareness | [concepts/nonjudgmental-awareness.md](concepts/nonjudgmental-awareness.md) |
 | 概念：身体扫描 · Body Scan | [concepts/body-scan.md](concepts/body-scan.md) |
 | 概念：冥想 · Meditation | [concepts/meditation.md](concepts/meditation.md) |
-| 著作年表 · Works Chronology | [works.md](works.md) |
-| 生平年表 · Life Timeline | [timeline.md](timeline.md) |
-| 进阶阅读 · Reading List | [reading-list.md](reading-list.md) |
+| 著作年表 · Works Chronology | [著作.md](著作.md) |
+| 生平年表 · Life Timeline | [时间线.md](时间线.md) |
+| 进阶阅读 · Reading List | [阅读.md](阅读.md) |

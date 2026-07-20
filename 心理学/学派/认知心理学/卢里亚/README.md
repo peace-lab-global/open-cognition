@@ -52,9 +52,9 @@ children:
   - concepts/higher-cortical-functions.md
   - concepts/recovery.md
   - concepts/cultural-historical-neuro.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 卢里亚 · Alexander Luria
@@ -106,7 +106,7 @@ children:
 
 ## 思想脉络
 
-详见 [timeline.md](timeline.md)。
+详见 [时间线.md](时间线.md)。
 
 ### 第一期：文化-历史心理学 (1920s-1930s)
 
@@ -122,7 +122,7 @@ children:
 
 ## 关键著作
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 | 著作 | 年份 | 核心贡献 |
 |---|---|---|
@@ -216,8 +216,8 @@ children:
 
 ### 心理学
 
-- [维果茨基 · Vygotsky](../developmental/vygotsky.md) `[同源]` 文化-历史心理学的共同创始人
-- [皮亚杰 · Piaget](../cognitive/piaget.md) `[平行]` 同为研究认知发展的系统性理论家
+- [维果茨基 · Vygotsky](../developmental/列夫.md) `[同源]` 文化-历史心理学的共同创始人
+- [皮亚杰 · Piaget](../认知心理学/皮亚杰.md) `[平行]` 同为研究认知发展的系统性理论家
 - [巴尔斯 · Baars](../cognitive/baars.md) `[后继]` 全局工作空间理论 (Global Workspace Theory) 继承了功能系统的思想
 
 ### 神经科学
@@ -236,7 +236,7 @@ children:
 
 ## 进阶阅读
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ### 入门首选
 
@@ -263,6 +263,6 @@ children:
 | [concepts/higher-cortical-functions.md](concepts/higher-cortical-functions.md) | 高级皮质功能 -- 语言、记忆、思维的脑机制 |
 | [concepts/recovery.md](concepts/recovery.md) | 功能重组与康复 -- 脑损伤后的功能恢复机制 |
 | [concepts/cultural-historical-neuro.md](concepts/cultural-historical-neuro.md) | 文化-历史神经心理学 -- 高级功能的社会文化起源 |
-| [works.md](works.md) | 作品总览 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读指南 |
+| [著作.md](著作.md) | 作品总览 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读指南 |

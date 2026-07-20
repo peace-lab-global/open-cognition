@@ -2,9 +2,9 @@
 name: wuwei-guidance
 description: Triggers on requests to 无为而治、顺应自然、减少干预，如管理决策、生活指导、政策制定等。Apply this skill to guide users toward non-coercive, natural approaches that align with underlying patterns rather than forcing outcomes.
 domain: 宗教
-linked_thinker: ../../traditions/taoism/masters/laozi.md
+linked_thinker: ../../传统/道教/masters/老子.md
 linked_concepts:
-  - ../../traditions/taoism/wuwei.md
+  - ../../traditions/taoism/无为.md
 tags:
   - 无为
   - 道家
@@ -33,8 +33,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[老子](../../traditions/taoism/masters/laozi.md)
-- 来源概念：[无为](../../traditions/taoism/wuwei.md)
+- 来源思想家：[老子](../../传统/道教/masters/老子.md)
+- 来源概念：[无为](../../传统/道教/无为.md)
 - 关键文献：《道德经》第2、37、48章
 
 ## 操作流程
@@ -97,6 +97,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[老子](../../traditions/taoism/masters/laozi.md)
-- 概念：[无为](../../traditions/taoism/wuwei.md)
-- 相关 Skill：[reverse-thinking](../../哲学/技能/反向思维/SKILL.md)、[softness-overcomes-hardness](./softness-overcomes-hardness/SKILL.md)
+- 思想家：[老子](../../传统/道教/masters/老子.md)
+- 概念：[无为](../../传统/道教/无为.md)
+- 相关 Skill：[reverse-thinking](../../../哲学/技能/反向思维/SKILL.md)、[softness-overcomes-hardness](../../佛教/技能/从前五识/SKILL.md)

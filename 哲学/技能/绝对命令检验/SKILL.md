@@ -1,10 +1,10 @@
 ---
 name: categorical-imperative-test
-description: Triggers on requests to 道德判断、伦理原则、绝对命令，如道德困境分析、行为准则制定、伦理决策等。Apply this skill to evaluate the morality of actions using Kant's categorical imperative: universalizability, humanity as end, and kingdom of ends.
+description: "Triggers on requests to 道德判断、伦理原则、绝对命令，如道德困境分析、行为准则制定、伦理决策等。Apply this skill to evaluate the morality of actions using Kant's categorical imperative: universalizability, humanity as end, and kingdom of ends."
 domain: 哲学
-linked_thinker: ../../schools/german-idealism/kant.md
+linked_thinker: ../../德国唯心论/康德.md
 linked_concepts:
-  - ../../哲学/概念/categorical-imperative.md
+  - ../../哲学/概念/定言命令.md
 tags:
   - 道德
   - 伦理
@@ -34,8 +34,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[康德](../../schools/german-idealism/kant.md)
-- 来源概念：[绝对命令](../../concepts/categorical-imperative.md)
+- 来源思想家：[康德](../../学派/德国唯心论/康德.md)
+- 来源概念：[绝对命令](../../../伦理政治/学派/道义论/康德/概念/定言命令.md)
 - 关键文献：《道德形而上学奠基》、《实践理性批判》
 
 ## 操作流程
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[康德](../../schools/german-idealism/kant.md)
-- 概念：[绝对命令](../../concepts/categorical-imperative.md)
-- 相关 Skill：[aristotle-virtue-test](../../伦理政治/技能/亚里士多德德/SKILL.md)、[justice-principle-test](../../伦理政治/技能/正义原则检验/SKILL.md)
+- 思想家：[康德](../../学派/德国唯心论/康德.md)
+- 概念：[绝对命令](../../../伦理政治/学派/道义论/康德/概念/定言命令.md)
+- 相关 Skill：[aristotle-virtue-test](../../../伦理政治/技能/非暴力抵抗/SKILL.md)、[justice-principle-test](../../../伦理政治/技能/正义原则检验/SKILL.md)

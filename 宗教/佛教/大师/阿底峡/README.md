@@ -270,7 +270,7 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **佛教内部**: [宗喀巴](tsongkhapa.md) — 直接继承者；[莲花生](padmasambhava.md) — 前后弘期互补；[寂天](santideva.md) — 菩提心教法来源；[龙树](nagarjuna.md) — 中观见地来源
+- **佛教内部**: [宗喀巴](tsongkhapa.md) — 直接继承者；[莲花生](padmasambhava.md) — 前后弘期互补；[寂天](santideva.md) — 菩提心教法来源；[龙树](龙树.md) — 中观见地来源
 - **学派**: [噶当派](concepts/kadam-school.md) — 创始人；[密乘](../schools/vajrayana.md) — 复兴者
 - **哲学**: 次第认识论、教育哲学、道德动机理论
 - **心理学**: 慈悲冥想、认知重构、心理韧性
@@ -286,6 +286,6 @@ children: ["concepts/three-scopes", "concepts/bodhicitta", "concepts/mind-traini
 - [修心七要 Lojong](concepts/mind-training.md) — 七项修心要诀
 - [戒律复兴 Vinaya Revival](concepts/vinaya-revival.md) — 藏传佛教的戒律整顿
 - [噶当派 Kadam School](concepts/kadam-school.md) — "佛语教授"的传承学派
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

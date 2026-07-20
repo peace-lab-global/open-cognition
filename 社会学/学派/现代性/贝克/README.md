@@ -152,6 +152,6 @@ Beck is the founder of risk society theory, one of the most influential framewor
 
 | 条目 / Entry | 说明 / Description |
 |---|---|
-| [著作年表](works.md) | 贝克主要著作详述 / Detailed survey of Beck's major works |
-| [生平年谱](timeline.md) | 贝克的生平与思想大事年表 / Chronology of Beck's life and intellectual milestones |
-| [进阶书单](reading-list.md) | 系统阅读指南 / Systematic reading guide |
+| [著作年表](著作.md) | 贝克主要著作详述 / Detailed survey of Beck's major works |
+| [生平年谱](时间线.md) | 贝克的生平与思想大事年表 / Chronology of Beck's life and intellectual milestones |
+| [进阶书单](阅读.md) | 系统阅读指南 / Systematic reading guide |

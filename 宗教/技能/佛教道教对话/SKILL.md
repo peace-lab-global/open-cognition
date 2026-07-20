@@ -4,10 +4,10 @@ description: Triggers on requests to 佛教-道教对话、宗教比较、东方
 domain: 宗教
 linked_thinker: 
   - ../../wisdom-masters/masters/thailand/buddhadasa.md
-  - ../../traditions/taoism/masters/laozi.md
+  - ../../传统/道教/masters/老子.md
 linked_concepts:
   - ../../宗教/概念/dependent-origination.md
-  - ../../traditions/taoism/wuwei.md
+  - ../../traditions/taoism/无为.md
 tags:
   - 佛教-道教对话
   - 宗教比较
@@ -37,8 +37,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../traditions/taoism/masters/laozi.md)
-- 来源概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../traditions/taoism/wuwei.md)
+- 来源思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../传统/道教/masters/老子.md)
+- 来源概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../传统/道教/无为.md)
 - 关键文献：《缘起法》、《道德经》
 
 ## 操作流程
@@ -101,6 +101,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../traditions/taoism/masters/laozi.md)
-- 概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../traditions/taoism/wuwei.md)
-- 相关 Skill：[dependent-origination-analysis](./dependent-origination-analysis/SKILL.md)、[wuwei-guidance](./wuwei-guidance/SKILL.md)
+- 思想家：[佛使比丘](../../wisdom-masters/masters/thailand/buddhadasa.md)、[老子](../../传统/道教/masters/老子.md)
+- 概念：[缘起法](../../concepts/dependent-origination.md)、[无为](../../传统/道教/无为.md)
+- 相关 Skill：[dependent-origination-analysis](../../佛教/技能/从前五识/SKILL.md)、[wuwei-guidance](../../佛教/技能/从前五识/SKILL.md)

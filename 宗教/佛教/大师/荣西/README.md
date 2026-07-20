@@ -265,10 +265,10 @@ Kōans are not ordinary riddles or logical puzzles. Working with them requires t
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- [道元 Dōgen](../dogen.md) — [对照 contrast] 曹洞 vs 临济 / Sōtō vs Rinzai
+- [道元 Dōgen](../道元.md) — [对照 contrast] 曹洞 vs 临济 / Sōtō vs Rinzai
 - [空海 Kūkai](../kukai.md) — [继承 inheritance] 密教传统 / Esoteric tradition
-- [禅宗 Chan/Zen](../schools/chan-zen.md) — [日本传承 Japanese transmission]
-- [龙树 Nāgārjuna](../nagarjuna.md) — [思想渊源 philosophical source] 中观-禅的关联 / Mādhyamaka-Zen connection
+- [禅宗 Chan/Zen](../schools/禅宗.md) — [日本传承 Japanese transmission]
+- [龙树 Nāgārjuna](../龙树.md) — [思想渊源 philosophical source] 中观-禅的关联 / Mādhyamaka-Zen connection
 - [美学 Aesthetics] — [下位 subordinate] 茶禅美学 / Tea-Zen 美学
 
 ---
@@ -301,6 +301,6 @@ Kōans are not ordinary riddles or logical puzzles. Working with them requires t
 | 看话禅 Kanna Zen | [concepts/kanhua-zen](concepts/kanhua-zen.md) |
 | 兼修立场 Kenshū Richiba | [concepts/combined-practice](concepts/combined-practice.md) |
 | 吃茶养生记 Kissa Yōjōki | [concepts/kissa-yojoki](concepts/kissa-yojoki.md) |
-| 著作列表 Works | [works](works.md) |
-| 年表 Timeline | [timeline](timeline.md) |
-| 阅读清单 Reading List | [reading-list](reading-list.md) |
+| 著作列表 Works | [works](著作.md) |
+| 年表 Timeline | [timeline](时间线.md) |
+| 阅读清单 Reading List | [reading-list](阅读.md) |

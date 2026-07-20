@@ -51,7 +51,7 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 
 **Seeing one's nature does not require eons of practice — it happens in a single thought-moment. Sudden enlightenment is the instantaneous restructuring of one's entire cognitive framework, a Gestalt switch in which the whole frame of reference transforms.**
 
-详见 [顿悟](concepts/sudden-enlightenment.md)。
+详见 [顿悟](concepts/顿悟.md)。
 
 ### 3. 无念为宗，无相为体，无住为本 / No-Thought as Doctrine, No-Form as Substance, Non-Dwelling as Foundation
 
@@ -112,7 +112,7 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 | 《六祖坛经》*Platform Sutra* | 慧能在大梵寺等处说法的记录，弟子法海编集 / Records of Huineng's teachings compiled by disciple Fahai | 唯一汉人所说称"经"的佛教文本；禅宗最重要的原典 / The only Chinese-composed text honored as "sutra"; the foundational Chan classic |
 | 《金刚经》注疏（散见于《坛经》）| 慧能在《坛经》中对《金刚经》的创造性诠释 / Huineng's creative interpretation within the Platform Sutra | 将般若空慧转化为禅宗实践的关键环节 / Key link transforming Prajnaparamita wisdom into Chan practice |
 
-详见 [著作目录](works.md) 与 [坛经](concepts/platform-sutra.md)。
+详见 [著作目录](著作.md) 与 [坛经](concepts/platform-sutra.md)。
 
 ---
 
@@ -230,11 +230,11 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 ## 跨学科关联 / Interdisciplinary Connections
 
 - **哲学**: [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — 本真性与自性的平行；[维特根斯坦 Wittgenstein](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言的界限与不立文字
-- **佛教内部**: [菩提达摩 Bodhidharma](bodhidharma.md) — 禅宗初祖；[道元 Dogen](dogen.md) — 日本曹洞宗；[白隐 Hakuin](hakuin.md) — 临济宗复兴
-- **学派**: [禅宗 Chan/Zen](../schools/chan-zen.md) — 创立者
+- **佛教内部**: [菩提达摩 Bodhidharma](bodhidharma.md) — 禅宗初祖；[道元 Dogen](道元.md) — 日本曹洞宗；[白隐 Hakuin](hakuin.md) — 临济宗复兴
+- **学派**: [禅宗 Chan/Zen](../schools/禅宗.md) — 创立者
 - **认知科学**: 具身直觉 embodied intuition、隐性知识 tacit knowledge (Polanyi)、认知灵活性 cognitive flexibility
 - **心理学**: [心流 Flow](../../../心理学/概念/心流 Flow.md) — 忘我与无念的平行
-- **龙树 Nagarjuna**: [龙树](nagarjuna.md) — 空性与自性概念的深层关联：慧能的"自性"在某种程度上重新表述了龙树的"空性"，从否定性表述转向肯定性表述
+- **龙树 Nagarjuna**: [龙树](龙树.md) — 空性与自性概念的深层关联：慧能的"自性"在某种程度上重新表述了龙树的"空性"，从否定性表述转向肯定性表述
 
 ---
 
@@ -261,11 +261,11 @@ children: ["concepts/sudden-enlightenment", "concepts/no-thought-wunian", "conce
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联 / This file: core propositions, intellectual context, interdisciplinary connections
-- [顿悟 Sudden Enlightenment](concepts/sudden-enlightenment.md) — 认知框架的瞬间重组 / Instantaneous cognitive restructuring
+- [顿悟 Sudden Enlightenment](concepts/顿悟.md) — 认知框架的瞬间重组 / Instantaneous cognitive restructuring
 - [无念 No-Thought (Wunian)](concepts/no-thought-wunian.md) — 念起不著的认知自由 / Cognitive freedom through non-grasping
 - [自性 Self-Nature](concepts/self-nature.md) — 本自具足的心性论 / Mind-nature theory of original completeness
 - [坛经 Platform Sutra](concepts/platform-sutra.md) — 唯一汉人所说之"经" / The only Chinese-composed Buddhist "sutra"
 - [无住 Non-Dwelling](concepts/non-dwelling.md) — 心不停留的认知原则 / The cognitive principle of non-settling
-- [著作目录 Works](works.md) — 完整著作列表与考证 / Complete works listing and authentication
-- [年表 Timeline](timeline.md) — 生平与历史语境 / Life and historical context
-- [进阶阅读 Reading List](reading-list.md) — 分类书单 / Categorized bibliography
+- [著作目录 Works](著作.md) — 完整著作列表与考证 / Complete works listing and authentication
+- [年表 Timeline](时间线.md) — 生平与历史语境 / Life and historical context
+- [进阶阅读 Reading List](阅读.md) — 分类书单 / Categorized bibliography

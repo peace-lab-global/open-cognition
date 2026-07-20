@@ -49,7 +49,7 @@ sources: [《荒野中的认知》(Cognition in the Wild), "How a Cockpit Rememb
 
 ## 重要概念
 
-- [分布式认知 Distributed Cognition](../../concepts/distributed-cognition.md) — 认知分布在人、工具、环境之间
+- [分布式认知 Distributed Cognition](../../概念/分布式认知.md) — 认知分布在人、工具、环境之间
 - **认知生态 Cognitive Ecology**：特定工作场景中认知要素的总体配置
 - **传播表征 Propagation of Representations**：认知过程 = 表征在不同媒介（人脑、纸张、屏幕）之间的传播和转换
 - **认知民族志 Cognitive Ethnography**：深入实际工作场景研究认知过程的方法
@@ -75,12 +75,12 @@ sources: [《荒野中的认知》(Cognition in the Wild), "How a Cockpit Rememb
 
 ## 跨学科关联
 
-- [维果茨基](../../../psychology/schools/developmental/vygotsky.md) `[继承]` 文化工具中介认知
-- [克拉克](../ecological/clark.md) `[互补]` 延展心智（个体层）与分布式认知（系统层）
-- [佛教心物一元](../../../religion/buddhism/concepts/cognitive-theory/mind-world.md) `[平行]` 心与物不是二元对立——认知在心物耦合中发生
-- [拉图尔](../../../sociology/schools/actor-network/latour.md) `[平行]` 行动者网络理论也强调非人行动者的角色
+- [维果茨基](../../../心理学/学派/发展心理学/列夫.md) `[继承]` 文化工具中介认知
+- [克拉克](../生态认知/clark.md) `[互补]` 延展心智（个体层）与分布式认知（系统层）
+- [佛教心物一元](../../../宗教/佛教/概念/cognitive-theory/心物一元.md) `[平行]` 心与物不是二元对立——认知在心物耦合中发生
+- [拉图尔](../../../社会学/学派/行动者网络/latour.md) `[平行]` 行动者网络理论也强调非人行动者的角色
 - [情境化认知 · Situated Cognition](../../concepts/situated-cognition.md) `[互补]` 分布式认知关注系统层，情境化认知关注参与层
-- [维森特 Vicente](../automation-sociotechnical/vicente.md) `[互补]` 分布式认知与CWA的社会组织分析相互呼应
+- [维森特 Vicente](../自动化社会技术/vicente.md) `[互补]` 分布式认知与CWA的社会组织分析相互呼应
 
 ## 进阶阅读
 
@@ -93,5 +93,5 @@ sources: [《荒野中的认知》(Cognition in the Wild), "How a Cockpit Rememb
 
 ## 关联 Skills
 
-- [认知工作分析](../../skills/cognitive-work-analysis/SKILL.md)
-- [活动系统分析](../../skills/activity-system-analysis/SKILL.md)
+- [认知工作分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [活动系统分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

@@ -26,11 +26,11 @@ sources:
 children:
   - concepts/imaginal-object.md
   - concepts/psychological-distance.md
-  - concepts/empathy.md
+  - concepts/共情.md
   - concepts/subject-object-unity.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 朱光潜 / Zhu Guangqian

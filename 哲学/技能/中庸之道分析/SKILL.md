@@ -2,10 +2,10 @@
 name: golden-mean-analysis
 description: Triggers on requests to 中庸之道、德性伦理、实践智慧，如道德决策、品格培养、生活方式选择等。Apply this skill to analyze situations using Aristotle's concept of the golden mean, finding the balance between extremes.
 domain: 哲学
-linked_thinker: ../../schools/ancient-greek/aristotle.md
+linked_thinker: ../../古希腊/亚里士多德.md
 linked_concepts:
-  - ../../哲学/概念/virtue-ethics.md
-  - ../../哲学/概念/golden-mean.md
+  - ../../哲学/概念/德性.md
+  - ../../哲学/概念/中道.md
 tags:
   - 中庸之道
   - 德性伦理
@@ -35,8 +35,8 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[亚里士多德](../../schools/ancient-greek/aristotle.md)
-- 来源概念：[德性伦理](../../concepts/virtue-ethics.md)、[中庸](../../concepts/golden-mean.md)
+- 来源思想家：[亚里士多德](../../学派/古希腊/亚里士多德.md)
+- 来源概念：[德性伦理](../../../伦理政治/概念/德性.md)、[中庸](../../学派/古希腊/亚里士多德/概念/中道.md)
 - 关键文献：《尼各马可伦理学》
 
 ## 操作流程
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[亚里士多德](../../schools/ancient-greek/aristotle.md)
-- 概念：[德性伦理](../../concepts/virtue-ethics.md)、[中庸](../../concepts/golden-mean.md)
-- 相关 Skill：[categorical-imperative-test](./categorical-imperative-test/SKILL.md)、[aristotle-virtue-test](../../伦理政治/技能/亚里士多德德/SKILL.md)
+- 思想家：[亚里士多德](../../学派/古希腊/亚里士多德.md)
+- 概念：[德性伦理](../../../伦理政治/概念/德性.md)、[中庸](../../学派/古希腊/亚里士多德/概念/中道.md)
+- 相关 Skill：[categorical-imperative-test](../../../宗教/佛教/技能/从前五识/SKILL.md)、[aristotle-virtue-test](../../../伦理政治/技能/非暴力抵抗/SKILL.md)

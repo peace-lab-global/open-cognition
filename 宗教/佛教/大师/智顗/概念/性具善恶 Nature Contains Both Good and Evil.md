@@ -20,4 +20,4 @@ tags: [nature-contains, good-evil, buddha-nature, Tiantai]
 - 与十界互具理论配合: 佛界含九界性
 
 ## 参见
-- [一念三千](one-thought-three-thousand.md) | [智顗](../README.md)
+- [一念三千](一念三千.md) | [智顗](../README.md)

@@ -5,9 +5,12 @@ type: concept
 thinker: 马祖道一 Mazu Daoyi
 domain: 宗教
 school: chan-buddhism
-tags: [平常心, 道, 日常修行]
+tags:
+- 平常心
+- 道
+- 日常修行
+era: medieval
 ---
-
 # 平常心是道 Ordinary Mind Is the Way
 
 > 关联思想家：[马祖道一 Mazu Daoyi](../README.md)

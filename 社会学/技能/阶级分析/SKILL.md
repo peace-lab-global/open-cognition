@@ -2,7 +2,7 @@
 name: class-analysis
 description: Triggers on requests to 阶级分析、社会分层、阶级斗争，如社会不平等分析、政治经济学分析、历史唯物主义应用等。Apply this skill to analyze social structures through the lens of class relations, power dynamics, and historical materialism.
 domain: 社会学
-linked_thinker: ../../schools/classical/marx.md
+linked_thinker: ../../schools/古典社会学/马克思.md
 linked_concepts:
   - ../../concepts/class.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[马克思](../../schools/classical/marx.md)
+- 来源思想家：[马克思](../../学派/古典社会学/马克思.md)
 - 来源概念：[阶级](../../concepts/class.md)
 - 关键文献：《共产党宣言》、《资本论》、《德意志意识形态》
 
@@ -98,6 +98,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[马克思](../../schools/classical/marx.md)
+- 思想家：[马克思](../../学派/古典社会学/马克思.md)
 - 概念：[阶级](../../concepts/class.md)
-- 相关 Skill：[foucault-power-analysis](./foucault-power-analysis/SKILL.md)、[bourdieu-field-analysis](./bourdieu-field-analysis/SKILL.md)
+- 相关 Skill：[foucault-power-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[bourdieu-field-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)

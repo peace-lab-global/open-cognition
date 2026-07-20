@@ -5,4 +5,4 @@ type: thinker
 redirect: william-james/README.md
 ---
 # 威廉·詹姆斯 · William James
-> 本条目已展开为完整子目录：[william-james/README.md](william-james/README.md)
+> 本条目已展开为完整子目录：william-james/README.md

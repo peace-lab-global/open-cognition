@@ -134,7 +134,7 @@ The teacher-disciple relationship between Nagarjuna and Aryadeva carries multipl
 
 ## 参见 / See Also
 
-- [龙树 Nagarjuna](../nagarjuna/README.md) — 提婆的老师
+- [龙树 Nagarjuna](../../../../../README.md) — 提婆的老师
 - [四百论 Catuhsataka](four-hundred-verses.md) — 提婆发展龙树思想的核心文本
 - [百论 Satasatra](hundred-treatise.md) — 提婆破斥外道的主要文本
-- [悲智双运 Karuna-Prajna](compassion-wisdom.md) — 提婆对龙树思想的独特发展
+- [悲智双运 Karuna-Prajna](悲智双运.md) — 提婆对龙树思想的独特发展

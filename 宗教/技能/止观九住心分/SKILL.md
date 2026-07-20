@@ -109,6 +109,6 @@ tags:
 ## 关联条目
 
 - [九住心](../../buddhism/concepts/foundational/nine-abidings.md)
-- [大圆满引导](dzogchen-guidance/)
-- [公案修行](koan-practice/)
-- [五蕴观照](five-aggregates-contemplation/)
+- [大圆满引导](../../README.md)
+- [公案修行](../../README.md)
+- [五蕴观照](../../README.md)

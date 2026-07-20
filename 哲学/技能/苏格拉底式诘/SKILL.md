@@ -4,8 +4,8 @@ description: Triggers when a user makes a confident claim, holds an unexamined a
 domain: 哲学
 linked_thinker: ../../schools/ancient-greek/socrates.md
 linked_concepts:
-  - ../../concepts/dialectics.md
-  - ../../concepts/epistemology.md
+  - ../../concepts/辩证法.md
+  - ../../concepts/认识论.md
 tags:
   - epistemology
   - self
@@ -35,7 +35,7 @@ tags:
 ## 理论基础
 
 - 来源思想家：[苏格拉底](../../schools/ancient-greek/socrates.md)
-- 来源概念：[辩证法](../../concepts/dialectics.md)、[认识论](../../concepts/epistemology.md)
+- 来源概念：[辩证法](../../学派/德国唯心论/黑格尔/概念/辩证法.md)、[认识论](../../概念/认识论.md)
 - 关键文献：柏拉图《尤西弗罗篇》《美诺篇》《理想国》第一卷
 
 ## 操作流程
@@ -97,5 +97,5 @@ tags:
 ## 关联条目
 
 - 思想家：[苏格拉底](../../schools/ancient-greek/socrates.md)
-- 概念：[辩证法](../../concepts/dialectics.md)、[认识论](../../concepts/epistemology.md)
-- 相关 Skill：[辩证法分析](../dialectical-analysis/SKILL.md)、[语言游戏分析](../language-game-analysis/SKILL.md)
+- 概念：[辩证法](../../学派/德国唯心论/黑格尔/概念/辩证法.md)、[认识论](../../概念/认识论.md)
+- 相关 Skill：[辩证法分析](../../../宗教/佛教/技能/从前五识/SKILL.md)、[语言游戏分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

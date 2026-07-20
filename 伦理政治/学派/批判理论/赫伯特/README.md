@@ -280,7 +280,7 @@ Third, Marcuse's emphasis on aesthetic experience connects with the Chinese clas
 | 心理学 / Psychology | [弗洛伊德 / Freud](../../../心理学/学派/精神分析/西格蒙德.md) | `[继承]` / `[Inherits]` | 马尔库塞将弗洛伊德压抑理论与马克思主义结合 / Marcuse synthesizes Freud's repression theory with Marxism |
 | 哲学 / Philosophy | [海德格尔 / Heidegger](../../../哲学/学派/存在主义/海德格尔.md) | `[继承/批判]` / `[Inherits/Critiques]` | 技术批判传统的继承与政治化 / Inheritance and politicization of the technology critique tradition |
 | 政治学 / Political Science | [阿伦特 / Arendt](../../../伦理政治/schools/phenomenology/arendt.md) | `[对话]` / `[Dialogue]` | 共同关注极权主义与公共领域的退化 / Shared concern with totalitarianism and the degradation of the public sphere |
-| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../美学/schools/critical-theory/benjamin.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
+| 文学理论 / Literary Theory | [本雅明 / Benjamin](../../../美学/schools/critical-theory/瓦尔特.md) | `[同源]` / `[Convergent]` | 艺术的政治潜能与机械复制时代的批判 / The political potential of art and critique of mechanical reproduction |
 | 传播学 / Communication | [哈贝马斯 / Habermas](../../../伦理政治/学派/批判理论/habermas.md) | `[继承/分歧]` / `[Inherits/Diverges]` | 同属法兰克福学派但路径不同 / Both Frankfurt School but different paths |
 | 生态哲学 / Eco-Philosophy | [布克钦 / Bookchin](../../../伦理政治/schools/anarchism/bookchin.md) | `[影响]` / `[Influences]` | 社会生态学的思想资源 / Intellectual resource for social ecology |
 
@@ -313,6 +313,12 @@ Third, Marcuse's emphasis on aesthetic experience connects with the Chinese clas
 - [大拒绝 / The Great Refusal](concepts/great-refusal.md)
 - [技术理性 / Technological Rationality](concepts/technological-rationality.md)
 - [解放 / Liberation](concepts/liberation.md)
-- [著作年表 / Works Bibliography](works.md)
-- [生平大事记 / Biographical Timeline](timeline.md)
-- [阅读指南 / Reading Guide](reading-list.md)
+- [著作年表 / Works Bibliography](著作.md)
+- [生平大事记 / Biographical Timeline](时间线.md)
+- [阅读指南 / Reading Guide](阅读.md)
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [马尔库塞-单向度的人](../../../../名言/技术异化/马尔库塞-单向度的人.md)

@@ -29,9 +29,9 @@ children:
   - concepts/monologue.md
   - concepts/tragic-hero.md
   - concepts/theatrical-universality.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 威廉·莎士比亚 / William Shakespeare

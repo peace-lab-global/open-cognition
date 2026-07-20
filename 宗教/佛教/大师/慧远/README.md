@@ -112,7 +112,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 | 《法性论》（残篇） | "至极以不变为性，得性以体极为宗" | 法性思想 |
 | 《问大乘中深义十八科》 | 向鸠摩罗什提出 18 组深层哲学问题 | 大乘义学讨论 |
 
-详见 [著作目录](works.md)。
+详见 [著作目录](著作.md)。
 
 ---
 
@@ -214,7 +214,7 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **政治哲学**: [奥古斯丁](../../../traditions/christianity/grace-redemption.md) — 《上帝之城》的精神-世俗二元论平行
+- **政治哲学**: [奥古斯丁](../../../传统/基督教/恩典与救赎.md) — 《上帝之城》的精神-世俗二元论平行
 - **佛教内部**: [道安](daoan.md) — 师长；[鸠摩罗什](kumarajiva.md) — 通信论学；[善导](shandao.md) — 净土宗实际创立者；[印光](yinguang.md) — 近代净土继承者
 - **伦理学**: 道德运气、跨代正义、报应正义
 - **宗教社会学**: 宗教结社、集体灵修、宗教权威
@@ -248,6 +248,6 @@ children: ["concepts/monks-no-bowing", "concepts/three-times-karma", "concepts/b
 - [念佛三昧](concepts/buddhanusmrti-samadhi.md) — 观想念佛的禅修方法
 - [白莲社](concepts/white-lotus-society.md) — 中国最早的净土结社
 - [神不灭论](concepts/spirit-non-extinction.md) — 形尽神不灭的哲学论证
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

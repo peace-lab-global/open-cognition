@@ -109,7 +109,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 | 《学处集要》 | Siksasamuccaya | 汇编佛经中关于菩萨行的教言 | 保存大量已失传佛经的引文 |
 | 《经集》 | Sutrasamuccaya | 佛经选编 (归名于寂天) | 真伪有争议 |
 
-详见 [著作目录](works.md)。
+详见 [著作目录](著作.md)。
 
 ---
 
@@ -213,10 +213,10 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **哲学**: [龙树](nagarjuna.md) — [继承] 中观空性的伦理应用；[彼得·辛格](../../../哲学/学派/分析哲学/singer.md) — [平行] 有效利他主义与自他平等
+- **哲学**: [龙树](龙树.md) — [继承] 中观空性的伦理应用；[彼得·辛格](../../../哲学/学派/分析哲学/singer.md) — [平行] 有效利他主义与自他平等
 - **佛教内部**: [宗喀巴](tsongkhapa.md) — [影响] 菩提道次第核心文本；[阿底峡](atisha.md) — [传播] 将寂天思想带入西藏；[月称](candrakirti.md) — [哲学] 中观应成派立场
-- **学派**: [中观学派](../schools/madhyamaka.md) — 晚期重要代表
-- **概念**: [菩萨道](../concepts/foundational/bodhisattva-path.md) — [同源] 菩萨行的系统阐述
+- **学派**: [中观学派](../中观.md) — 晚期重要代表
+- **概念**: [菩萨道](../concepts/foundational/菩萨道 Bodhisattva Path.md) — [同源] 菩萨行的系统阐述
 - **心理学**: 认知行为疗法、共情研究、情绪调节理论
 - **伦理学**: 功利主义、关怀伦理学、美德伦理学
 
@@ -238,7 +238,7 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 - 达赖喇嘛十四世, *《入菩萨行论》讲座系列*
 - Geshe Thupten Jinpa, *The Book of Joy* (与寂天忍辱思想的关联)
 
-详见 [进阶阅读](reading-list.md)。
+详见 [进阶阅读](阅读.md)。
 
 ---
 
@@ -250,6 +250,6 @@ children: ["concepts/self-other-equality", "concepts/patience-philosophy", "conc
 - [自他交换](concepts/self-other-exchange.md) — 修心法的核心修行
 - [智慧与方便统一](concepts/wisdom-means-unity.md) — 第九品中观空性与伦理实践
 - [菩提心修](concepts/bodhicitta-cultivation.md) — 菩提心的生起与圆满
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

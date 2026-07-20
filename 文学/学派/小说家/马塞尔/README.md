@@ -26,10 +26,10 @@ children:
   - concepts/stream-of-consciousness.md
   - concepts/inner-time.md
   - concepts/redemption-through-art.md
-  - concepts/jealousy-as-epistemology.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - concepts/jealousy-as-认识论.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 普鲁斯特 / Marcel Proust

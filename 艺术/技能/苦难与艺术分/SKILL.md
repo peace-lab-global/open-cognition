@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[路德维希·凡·贝多芬](../../schools/music/beethoven.md)
 - 概念：[苦难与艺术](../../concepts/suffering-art.md)、[意志](../../concepts/will.md)
-- 相关 Skill：[suffering-redemption-analysis](../../文学/技能/苦难救赎分析/SKILL.md)、[will-to-power-analysis](../../哲学/技能/权力意志分析/SKILL.md)
+- 相关 Skill：[suffering-redemption-analysis](../../../文学/技能/苦难救赎分析/SKILL.md)、[will-to-power-analysis](../../../哲学/技能/权力意志分析/SKILL.md)

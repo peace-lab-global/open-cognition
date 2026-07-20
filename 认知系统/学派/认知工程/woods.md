@@ -50,8 +50,8 @@ sources: [《韧性工程》(Resilience Engineering), "Behind Human Error"]
 
 ## 重要概念
 
-- [韧性工程 Resilience Engineering](../../concepts/resilience-engineering.md) — 系统面对意外保持功能的能力
-- [联合认知系统 Joint Cognitive System](../../concepts/joint-cognitive-system.md) — 人-技术构成的认知整体
+- [韧性工程 Resilience Engineering](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/韧性工程.md) — 系统面对意外保持功能的能力
+- [联合认知系统 Joint Cognitive System](../../../.qoder/repowiki/zh/content/项目概览/知识领域分布/认知系统工程领域/核心概念/联合认知系统.md) — 人-技术构成的认知整体
 - **宏观认知 Macrocognition**：真实世界中的认知——区别于实验室中的"微观认知"
 - **认知人工制品**：改变认知过程本身的工具——从便签纸到AI助手
 
@@ -77,9 +77,9 @@ sources: [《韧性工程》(Resilience Engineering), "Behind Human Error"]
 ## 跨学科关联
 
 - [拉斯穆森](rasmussen.md) `[发展]` 从 CWA 到韧性工程的范式转变
-- [哈钦斯](../distributed/hutchins.md) `[互补]` 分布式认知为联合认知系统提供理论基础
-- [贝克](../../../sociology/schools/modernity/beck.md) `[平行]` 风险社会理论也关注系统性风险
-- [佛教转识成智](../../../religion/buddhism/concepts/cognitive-theory/consciousness-transformation.md) `[平行]` 从"消除烦恼"到"转化认知"的范式转变类似于从"防错"到"韧性"
+- [哈钦斯](../分布式认知/哈钦斯.md) `[互补]` 分布式认知为联合认知系统提供理论基础
+- [贝克](../../../社会学/学派/现代性/beck.md) `[平行]` 风险社会理论也关注系统性风险
+- [佛教转识成智](../../../宗教/佛教/概念/cognitive-theory/转识成智.md) `[平行]` 从"消除烦恼"到"转化认知"的范式转变类似于从"防错"到"韧性"
 
 ## 进阶阅读
 
@@ -92,5 +92,5 @@ sources: [《韧性工程》(Resilience Engineering), "Behind Human Error"]
 
 ## 关联 Skills
 
-- [韧性评估](../../skills/resilience-assessment/SKILL.md)
-- [认知系统设计](../../skills/cognitive-system-design/SKILL.md)
+- [韧性评估](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+- [认知系统设计](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

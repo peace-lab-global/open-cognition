@@ -288,9 +288,9 @@ Tsongkhapa's mind-training methods (Lojong)—especially tonglen—have attracte
 | 上师瑜伽 | [concepts/guru-yoga.md](concepts/guru-yoga.md) | 上师相应法 Guru Devotion Practice |
 | 密法修行 | [concepts/tantric-practice.md](concepts/tantric-practice.md) | 四部密法与修行次第 Four Tantric Classes |
 | 格鲁派基础 | [concepts/gelug-foundation.md](concepts/gelug-foundation.md) | 格鲁派的创立与特色 Founding and Features of Gelug |
-| 著作详录 | [works.md](works.md) | 宗喀巴主要著作详述 Detailed Catalogue of Works |
-| 年表 | [timeline.md](timeline.md) | 宗喀巴生平大事记 Life Events Timeline |
-| 阅读清单 | [reading-list.md](reading-list.md) | 推荐书单 Annotated Reading List |
+| 著作详录 | [著作.md](著作.md) | 宗喀巴主要著作详述 Detailed Catalogue of Works |
+| 年表 | [时间线.md](时间线.md) | 宗喀巴生平大事记 Life Events Timeline |
+| 阅读清单 | [阅读.md](阅读.md) | 推荐书单 Annotated Reading List |
 
 ---
 

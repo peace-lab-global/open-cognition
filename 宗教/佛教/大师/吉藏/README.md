@@ -162,7 +162,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 | 《法华玄论》 | 《法华经》义理阐释 | 经论融通 |
 | 《胜鬘宝窟》 | 《胜鬘经》注释 | 如来藏思想 |
 
-详见 [works.md](works.md)。
+详见 [著作.md](著作.md)。
 
 ---
 
@@ -250,7 +250,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 
 - **佛教内部**: [龙树](../nagarjuna/README.md) — 中观学派创始人；[僧肇](../sengzhao.md) — 汉传中观先驱；[智顗](../zhiyi.md) — 同时代论辩对手
 - **哲学**: [德里达](../../../哲学/学派/后结构主义/雅克.md) — 解构主义；[维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) — 语言哲学
-- **学派**: [中观学派](../schools/madhyamaka.md) — 汉传中观
+- **学派**: [中观学派](../中观.md) — 汉传中观
 - **日本佛教**: 三论宗传入日本，影响南都六宗
 - **语言学**: 言教理论与当代语言哲学的交叉
 
@@ -276,7 +276,7 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 - 吴汝钧《龙树中观哲学》
 - 释慧开《吉藏的中观思想》
 
-详见 [reading-list.md](reading-list.md)。
+详见 [阅读.md](阅读.md)。
 
 ---
 
@@ -289,9 +289,9 @@ children: ["concepts/two-truths-pedagogical", "concepts/eight-negations", "conce
 | [破邪显正](concepts/refute-reveal.md) | 概念 | 不立正面主张的方法论核心 |
 | [无所得](concepts/non-attainment.md) | 概念 | 一切法无所得的彻底否定 |
 | [重空](concepts/emptying-emptiness.md) | 概念 | 空亦复空的递归否定 |
-| [著作总览](works.md) | 作品 | 吉藏的全部著作 |
-| [思想年表](timeline.md) | 年表 | 生平与历史语境 |
-| [进阶阅读](reading-list.md) | 阅读 | 原典、注疏、研究文献 |
+| [著作总览](著作.md) | 作品 | 吉藏的全部著作 |
+| [思想年表](时间线.md) | 年表 | 生平与历史语境 |
+| [进阶阅读](阅读.md) | 阅读 | 原典、注疏、研究文献 |
 
 ---
 

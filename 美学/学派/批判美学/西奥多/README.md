@@ -261,10 +261,10 @@ Adorno's thought offers several deep dialogue possibilities with Eastern traditi
 | 条目 | 类型 | 简述 |
 |------|------|------|
 | [文化工业](concepts/culture-industry.md) | 概念 | 文化生产的工业化逻辑与意识形态批判 |
-| [否定辩证法](concepts/negative-dialectics.md) | 概念 | 拒绝综合的辩证思维模式 |
+| [否定辩证法](concepts/negative-辩证法.md) | 概念 | 拒绝综合的辩证思维模式 |
 | [非同一性](concepts/non-identity.md) | 概念 | 概念与对象之间的不可消解的裂隙 |
 | [审美自律](concepts/aesthetic-autonomy.md) | 概念 | 艺术的形式自律与社会否定功能 |
 | [奥斯维辛之后](concepts/after-auschwitz.md) | 概念 | 文化与野蛮共谋的反思 |
-| [著作列表](works.md) | 著作 | 阿多诺主要著作及简介 |
-| [年表](timeline.md) | 年表 | 阿多诺生平与思想发展时间线 |
-| [推荐阅读](reading-list.md) | 书单 | 阿多诺研究进阶阅读指南 |
+| [著作列表](著作.md) | 著作 | 阿多诺主要著作及简介 |
+| [年表](时间线.md) | 年表 | 阿多诺生平与思想发展时间线 |
+| [推荐阅读](阅读.md) | 书单 | 阿多诺研究进阶阅读指南 |

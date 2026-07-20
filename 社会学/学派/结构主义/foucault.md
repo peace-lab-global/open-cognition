@@ -85,10 +85,10 @@ sources:
 
 ## 跨学科关联
 
-- [尼采 · 谱系学](../../../philosophy/schools/existentialism/nietzsche.md) `[继承]` 谱系学方法源头
-- [马克思](../classical/marx.md) `[发展+偏离]` 对意识形态的非中心化重写
+- [尼采 · 谱系学](../../../哲学/学派/存在主义/尼采.md) `[继承]` 谱系学方法源头
+- [马克思](../古典社会学/马克思.md) `[发展+偏离]` 对意识形态的非中心化重写
 - [斯金纳 · 行为塑造](../../../psychology/schools/behaviorism/skinner.md) `[平行]` 行为塑造的两种理论
-- [禅宗 · 自我](../../../religion/traditions/buddhism/zen.md) `[张力]` 自我技术 vs 无我
+- [禅宗 · 自我](../../../宗教/传统/佛教/禅宗.md) `[张力]` 自我技术 vs 无我
 - [泰勒 · Communitarianism](../../../ethics-politics/schools/communitarianism/taylor.md) `[批判]` 泰勒批评福柯忽视承认政治的规范性维度
 - [数字社会 · Digital Society](../../concepts/digital-society.md) `[发展]` 全景敞视主义在监控资本主义与算法治理中的当代延伸
 
@@ -100,4 +100,12 @@ sources:
 
 ## 关联 Skills
 
-- [福柯权力分析](../../skills/foucault-power-analysis/SKILL.md)
+- [福柯权力分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [福柯-可见性是陷阱](../../../名言/权力驯服/福柯-可见性是陷阱.md)
+- [尼采-只有视角没有事实](../../../名言/身体感知/尼采-只有视角没有事实.md)

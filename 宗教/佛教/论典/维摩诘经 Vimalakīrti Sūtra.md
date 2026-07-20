@@ -60,12 +60,12 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 
 ## 与相关概念的关系
 
-- [空性](../../traditions/buddhism/sunyata.md) — [同源] 不二的哲学基础
-- [禅宗](../../traditions/buddhism/zen.md) — [继承] "不立文字"的原型
-- [华严](../schools/huayan.md) — [同源] 事事无碍
-- [菩萨道](../concepts/foundational/bodhisattva-path.md) — [互补] 居士菩萨道
-- [佛性](../concepts/foundational/buddha-nature.md) — [同源] 众生皆有佛性
-- [涅槃](../concepts/foundational/nirvana.md) — [同源] 不二法门
+- [空性](../../传统/佛教/大乘空性.md) — [同源] 不二的哲学基础
+- [禅宗](../../传统/佛教/禅宗.md) — [继承] "不立文字"的原型
+- [华严](../华严.md) — [同源] 事事无碍
+- [菩萨道](../概念/foundational/菩萨道 Bodhisattva Path.md) — [互补] 居士菩萨道
+- [佛性](../概念/foundational/佛性 Buddha Nature.md) — [同源] 众生皆有佛性
+- [涅槃](../大师/乔达摩/概念/涅槃.md) — [同源] 不二法门
 - [十三经版](../sutras/vimalakirti-sutra.md) — [同源] 同一经典的图谱版
 
 ## 代表思想家
@@ -99,7 +99,7 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 - [海德格尔 · 沉默](../../../哲学/学派/存在主义/海德格尔.md) — [平行] 沉默作为言说
 - [罗杰斯 · 真诚一致](../../../心理学/学派/人本主义/卡尔.md) — [平行] 真实在场
 - [福柯 · 自我技术](../../../社会学/学派/结构主义/福柯.md) — [平行] 居士的自我修养
-- [禅宗](../schools/chan-zen.md) — [继承] 棒喝、机锋都源自维摩诘的"默然"
+- [禅宗](../学派/禅宗.md) — [继承] 棒喝、机锋都源自维摩诘的"默然"
 
 ## 进阶阅读
 
@@ -117,8 +117,8 @@ sources: [《维摩诘所说经》（鸠摩罗什译）, 梵文残本]
 
 ## 关联 Skills
 
-- [圣典诠释学](../../skills/scriptural-hermeneutics/SKILL.md)
-- [中观四句破](../skills/madhyamaka-four-fallacies/SKILL.md)（不二法门的哲学训练）
+- [圣典诠释学](../../智慧大师/skills/临济棒喝当下/SKILL.md)
+- [中观四句破](../../智慧大师/skills/临济棒喝当下/SKILL.md)（不二法门的哲学训练）
 
 ## 文化回响
 

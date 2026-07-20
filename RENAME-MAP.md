@@ -13,7 +13,7 @@
 | 二级目录 | 概念/学派/技能/传统/大师 等类型名 | `concepts/` → `概念/` |
 | 学派子目录 | 学派中文简称 | `analytic/` → `分析哲学/` |
 | 思想家目录 | frontmatter title 中文部分 | `kant/` → `康德/` |
-| 概念文件 | frontmatter title 中文部分 + `.md` | `dialectics.md` → `辩证法.md` |
+| 概念文件 | frontmatter title 中文部分 + `.md` | `辩证法.md` → `辩证法.md` |
 | 技能目录 | SKILL.md description 首个中文短语 | `cbt-cognitive-distortion/` → `认知扭曲识别/` |
 
 ## 保留英文 (不改名)
@@ -44,19 +44,19 @@
 | 旧路径 | → | 新路径 |
 |---|---|---|
 | `ethics-politics/schools/care-ethics/noddings.md` | → | `伦理政治/学派/关怀伦理学/内尔.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle.md` | → | `伦理政治/学派/德性伦理学/亚里士多德.md` |
+| `ethics-politics/schools/virtue-ethics/亚里士多德.md` | → | `伦理政治/学派/德性伦理学/亚里士多德.md` |
 | `ethics-politics/schools/virtue-ethics/macintyre.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔.md` |
 | `ethics-politics/schools/critical-theory/marcuse.md` | → | `伦理政治/学派/批判理论/赫伯特.md` |
 | `ethics-politics/schools/social-contract/hobbes.md` | → | `伦理政治/学派/社会契约论/托马斯.md` |
-| `ethics-politics/schools/social-contract/rawls.md` | → | `伦理政治/学派/社会契约论/约翰-rawls.md` |
-| `ethics-politics/schools/social-contract/locke.md` | → | `伦理政治/学派/社会契约论/约翰.md` |
+| `ethics-politics/学派/社会契约论/约翰-rawls.md` | → | `伦理政治/学派/社会契约论/约翰-rawls.md` |
+| `ethics-politics/schools/social-contract/约翰.md` | → | `伦理政治/学派/社会契约论/约翰.md` |
 | `ethics-politics/schools/communitarianism/taylor.md` | → | `伦理政治/学派/社群主义/查尔斯.md` |
-| `ethics-politics/schools/consequentialism/mill.md` | → | `伦理政治/学派/结果主义/密尔.md` |
+| `ethics-politics/schools/consequentialism/密尔.md` | → | `伦理政治/学派/结果主义/密尔.md` |
 | `ethics-politics/schools/consequentialism/bentham.md` | → | `伦理政治/学派/结果主义/边沁.md` |
 | `ethics-politics/schools/capability-approach/sen.md` | → | `伦理政治/学派/能力方法/森.md` |
 | `ethics-politics/schools/capability-approach/nussbaum.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆.md` |
 | `ethics-politics/schools/libertarianism/nozick.md` | → | `伦理政治/学派/自由至上主义/罗伯特.md` |
-| `ethics-politics/schools/deontology/kant.md` | → | `伦理政治/学派/道义论/康德.md` |
+| `ethics-politics/schools/deontology/康德.md` | → | `伦理政治/学派/道义论/康德.md` |
 | `ethics-politics/schools/nonviolent-resistance/gandhi.md` | → | `伦理政治/学派/非暴力抵抗/圣雄甘地.md` |
 | `philosophy/schools/eastern/confucius.md` | → | `哲学/学派/东方哲学/孔子.md` |
 | `philosophy/schools/eastern/zhuangzi.md` | → | `哲学/学派/东方哲学/庄子.md` |
@@ -72,23 +72,23 @@
 | `philosophy/schools/analytic/whitehead.md` | → | `哲学/学派/分析哲学/怀特海.md` |
 | `philosophy/schools/analytic/popper.md` | → | `哲学/学派/分析哲学/波普尔.md` |
 | `philosophy/schools/analytic/fodor.md` | → | `哲学/学派/分析哲学/福多.md` |
-| `philosophy/schools/analytic/wittgenstein.md` | → | `哲学/学派/分析哲学/维特根斯坦.md` |
+| `philosophy/schools/analytic/维特根斯坦.md` | → | `哲学/学派/分析哲学/维特根斯坦.md` |
 | `philosophy/schools/analytic/hohwy.md` | → | `哲学/学派/分析哲学/霍维.md` |
 | `philosophy/schools/analytic/mcginn.md` | → | `哲学/学派/分析哲学/麦金.md` |
-| `philosophy/schools/ancient-greek/aristotle.md` | → | `哲学/学派/古希腊/亚里士多德.md` |
-| `philosophy/schools/ancient-greek/plato.md` | → | `哲学/学派/古希腊/柏拉图.md` |
+| `philosophy/古希腊/亚里士多德.md` | → | `哲学/学派/古希腊/亚里士多德.md` |
+| `philosophy/schools/古希腊/柏拉图.md` | → | `哲学/学派/古希腊/柏拉图.md` |
 | `philosophy/schools/ancient-greek/socrates.md` | → | `哲学/学派/古希腊/苏格拉底.md` |
 | `philosophy/schools/post-structuralism/derrida.md` | → | `哲学/学派/后结构主义/雅克.md` |
 | `philosophy/schools/enlightenment/rousseau.md` | → | `哲学/学派/启蒙运动/让雅克.md` |
-| `philosophy/schools/existentialism/nietzsche.md` | → | `哲学/学派/存在主义/尼采.md` |
-| `philosophy/schools/existentialism/heidegger.md` | → | `哲学/学派/存在主义/海德格尔.md` |
+| `哲学/学派/存在主义/尼采.md` | → | `哲学/学派/存在主义/尼采.md` |
+| `philosophy/schools/存在主义/海德格尔.md` | → | `哲学/学派/存在主义/海德格尔.md` |
 | `philosophy/schools/existentialism/kierkegaard.md` | → | `哲学/学派/存在主义/索伦.md` |
-| `philosophy/schools/existentialism/sartre.md` | → | `哲学/学派/存在主义/萨特.md` |
+| `philosophy/schools/存在主义/萨特.md` | → | `哲学/学派/存在主义/萨特.md` |
 | `philosophy/schools/existentialism/beauvoir.md` | → | `哲学/学派/存在主义/西蒙娜.md` |
 | `philosophy/schools/pragmatism/peirce.md` | → | `哲学/学派/实用主义/皮尔士.md` |
 | `philosophy/schools/pragmatism/dewey.md` | → | `哲学/学派/实用主义/约翰.md` |
-| `philosophy/schools/german-idealism/kant.md` | → | `哲学/学派/德国唯心论/康德.md` |
-| `philosophy/schools/german-idealism/hegel.md` | → | `哲学/学派/德国唯心论/黑格尔.md` |
+| `philosophy/德国唯心论/康德.md` | → | `哲学/学派/德国唯心论/康德.md` |
+| `philosophy/schools/german-idealism/黑格尔.md` | → | `哲学/学派/德国唯心论/黑格尔.md` |
 | `philosophy/schools/pessimism/schopenhauer.md` | → | `哲学/学派/悲观主义/亚瑟.md` |
 | `philosophy/schools/political-philosophy/arendt.md` | → | `哲学/学派/政治哲学/汉娜.md` |
 | `philosophy/schools/comparative/borges-vs-yogacara.md` | → | `哲学/学派/比较哲学/博尔赫斯唯识.md` |
@@ -105,11 +105,11 @@
 | `ethics-politics/schools/care-ethics/noddings/concepts/caring-education.md` | → | `伦理政治/学派/关怀伦理学/内尔/概念/关怀教育.md` |
 | `ethics-politics/schools/care-ethics/noddings/concepts/maternal-thinking.md` | → | `伦理政治/学派/关怀伦理学/内尔/概念/母性思维.md` |
 | `ethics-politics/schools/care-ethics/noddings/concepts/natural-caring.md` | → | `伦理政治/学派/关怀伦理学/内尔/概念/自然关怀.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle/concepts/golden-mean.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/中道.md` |
+| `ethics-politics/schools/virtue-ethics/aristotle/concepts/中道.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/中道.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/concepts/four-causes.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/四因说.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/concepts/polis.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/城邦.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/concepts/phronesis.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/实践智慧.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle/concepts/eudaimonia.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/幸福.md` |
+| `ethics-politics/schools/virtue-ethics/aristotle/concepts/幸福论.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/幸福.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/concepts/telos.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/目的.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/concepts/virtue-character.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/概念/美德品格.md` |
 | `ethics-politics/schools/virtue-ethics/macintyre/concepts/tradition.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/传统.md` |
@@ -120,7 +120,7 @@
 | `ethics-politics/schools/virtue-ethics/macintyre/concepts/practice-narrative.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/实践与叙事.md` |
 | `ethics-politics/schools/virtue-ethics/macintyre/concepts/emotivism.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/情感主义.md` |
 | `ethics-politics/schools/virtue-ethics/macintyre/concepts/emotivism-critique.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/情感主义批判.md` |
-| `ethics-politics/schools/virtue-ethics/macintyre/concepts/after-virtue.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/追寻美德.md` |
+| `ethics-politics/schools/virtue-ethics/macintyre/concepts/after-德性.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/概念/追寻美德.md` |
 | `ethics-politics/schools/critical-theory/marcuse/concepts/one-dimensional-man.md` | → | `伦理政治/学派/批判理论/赫伯特/概念/单向度的人.md` |
 | `ethics-politics/schools/critical-theory/marcuse/concepts/repressive-desublimation.md` | → | `伦理政治/学派/批判理论/赫伯特/概念/压抑性脱升华.md` |
 | `ethics-politics/schools/critical-theory/marcuse/concepts/great-refusal.md` | → | `伦理政治/学派/批判理论/赫伯特/概念/大拒绝.md` |
@@ -129,14 +129,14 @@
 | `ethics-politics/schools/social-contract/hobbes/concepts/bellum-omnium.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/一切人反对一切人的战争.md` |
 | `ethics-politics/schools/social-contract/hobbes/concepts/sovereignty.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/主权.md` |
 | `ethics-politics/schools/social-contract/hobbes/concepts/leviathan.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/利维坦.md` |
-| `ethics-politics/schools/social-contract/hobbes/concepts/social-contract.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/社会契约.md` |
+| `ethics-politics/schools/social-contract/hobbes/concepts/社会契约.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/社会契约.md` |
 | `ethics-politics/schools/social-contract/hobbes/concepts/natural-law.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/自然法.md` |
 | `ethics-politics/schools/social-contract/hobbes/concepts/state-of-nature.md` | → | `伦理政治/学派/社会契约论/托马斯/概念/自然状态.md` |
 | `ethics-politics/schools/social-contract/rawls/concepts/justice-as-fairness.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/作为公平的正义.md` |
 | `ethics-politics/schools/social-contract/rawls/concepts/original-position.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/原初状态.md` |
 | `ethics-politics/schools/social-contract/rawls/concepts/reflective-equilibrium.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/反思平衡.md` |
 | `ethics-politics/schools/social-contract/rawls/concepts/difference-principle.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/差别原则.md` |
-| `ethics-politics/schools/social-contract/rawls/concepts/veil-of-ignorance.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/无知之幕.md` |
+| `ethics-politics/schools/social-contract/rawls/concepts/无知之幕.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/无知之幕.md` |
 | `ethics-politics/schools/social-contract/rawls/concepts/overlapping-consensus.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/概念/重叠共识.md` |
 | `ethics-politics/schools/social-contract/locke/concepts/government-consent.md` | → | `伦理政治/学派/社会契约论/约翰/概念/基于同意的政府.md` |
 | `ethics-politics/schools/social-contract/locke/concepts/toleration.md` | → | `伦理政治/学派/社会契约论/约翰/概念/宗教宽容.md` |
@@ -157,7 +157,7 @@
 
 | 旧路径 | → | 新路径 |
 |---|---|---|
-| `ethics-politics/skills/aristotle-virtue-test/SKILL.md` | → | `伦理政治/技能/亚里士多德德/SKILL.md` |
+| `ethics-politics/skills/aristotle-virtue-test/SKILL.md` | → | `伦理政治/技能/亚里士多德德性检验性检验/SKILL.md` |
 | `ethics-politics/skills/virtue-ethics-analysis/SKILL.md` | → | `伦理政治/技能/德性分析/SKILL.md` |
 | `ethics-politics/skills/veil-of-ignorance-analysis/SKILL.md` | → | `伦理政治/技能/无知之幕分析/SKILL.md` |
 | `ethics-politics/skills/justice-principle-test/SKILL.md` | → | `伦理政治/技能/正义原则检验/SKILL.md` |
@@ -214,22 +214,22 @@
 
 | 旧路径 | → | 新路径 |
 |---|---|---|
-| `religion/traditions/islam/five-pillars.md` | → | `宗教/传统/伊斯兰教/五功.md` |
-| `religion/traditions/islam/sufism.md` | → | `宗教/传统/伊斯兰教/苏菲主义.md` |
-| `religion/traditions/buddhism/four-noble-truths.md` | → | `宗教/传统/佛教/四圣谛与八正道.md` |
-| `religion/traditions/buddhism/sunyata.md` | → | `宗教/传统/佛教/大乘空性.md` |
+| `religion/traditions/islam/五功.md` | → | `宗教/传统/伊斯兰教/五功.md` |
+| `religion/traditions/islam/苏菲主义.md` | → | `宗教/传统/伊斯兰教/苏菲主义.md` |
+| `religion/传统/佛教/四圣谛与八正道.md` | → | `宗教/传统/佛教/四圣谛与八正道.md` |
+| `religion/传统/佛教/大乘空性.md` | → | `宗教/传统/佛教/大乘空性.md` |
 | `religion/traditions/buddhism/amitabha-pure-land.md` | → | `宗教/传统/佛教/弥陀净土.md` |
-| `religion/traditions/buddhism/zen.md` | → | `宗教/传统/佛教/禅宗.md` |
+| `religion/传统/佛教/禅宗.md` | → | `宗教/传统/佛教/禅宗.md` |
 | `religion/traditions/confucianism/religion-dimension.md` | → | `宗教/传统/儒教/儒教的宗教维度.md` |
 | `religion/traditions/hinduism/karma-samsara.md` | → | `宗教/传统/印度教/业与轮回.md` |
 | `religion/traditions/christianity/mysticism.md` | → | `宗教/传统/基督教/基督教神秘主义.md` |
-| `religion/traditions/christianity/grace-redemption.md` | → | `宗教/传统/基督教/恩典与救赎.md` |
+| `religion/传统/基督教/恩典与救赎.md` | → | `宗教/传统/基督教/恩典与救赎.md` |
 | `religion/traditions/judaism/covenant.md` | → | `宗教/传统/犹太教/律法与盟约.md` |
 | `religion/traditions/judaism/kabbalah.md` | → | `宗教/传统/犹太教/犹太教卡巴拉神秘主义.md` |
 | `religion/traditions/shinto/core-teachings.md` | → | `宗教/传统/神道教/神道教核心教义.md` |
 | `religion/traditions/taoism/masters/zhuangzi.md` | → | `宗教/传统/道教/masters/庄子.md` |
-| `religion/traditions/taoism/masters/laozi.md` | → | `宗教/传统/道教/masters/老子.md` |
-| `religion/traditions/taoism/wuwei.md` | → | `宗教/传统/道教/无为.md` |
+| `religion/传统/道教/masters/老子.md` | → | `宗教/传统/道教/masters/老子.md` |
+| `religion/traditions/taoism/无为.md` | → | `宗教/传统/道教/无为.md` |
 | `religion/traditions/sikhism/core-teachings.md` | → | `宗教/传统/锡克教/锡克教核心教义.md` |
 
 ## 附属文件 (reading-list/timeline/works) (921)
@@ -237,55 +237,55 @@
 | 旧路径 | → | 新路径 |
 |---|---|---|
 | `ethics-politics/schools/care-ethics/noddings/README.md` | → | `伦理政治/学派/关怀伦理学/内尔/README.md` |
-| `ethics-politics/schools/care-ethics/noddings/timeline.md` | → | `伦理政治/学派/关怀伦理学/内尔/时间线.md` |
-| `ethics-politics/schools/care-ethics/noddings/works.md` | → | `伦理政治/学派/关怀伦理学/内尔/著作.md` |
-| `ethics-politics/schools/care-ethics/noddings/reading-list.md` | → | `伦理政治/学派/关怀伦理学/内尔/阅读.md` |
+| `ethics-politics/schools/care-ethics/noddings/时间线.md` | → | `伦理政治/学派/关怀伦理学/内尔/时间线.md` |
+| `ethics-politics/schools/care-ethics/noddings/著作.md` | → | `伦理政治/学派/关怀伦理学/内尔/著作.md` |
+| `ethics-politics/schools/care-ethics/noddings/阅读.md` | → | `伦理政治/学派/关怀伦理学/内尔/阅读.md` |
 | `ethics-politics/schools/virtue-ethics/aristotle/README.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/README.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle/timeline.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/时间线.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle/works.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/著作.md` |
-| `ethics-politics/schools/virtue-ethics/aristotle/reading-list.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/阅读.md` |
+| `ethics-politics/schools/virtue-ethics/aristotle/时间线.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/时间线.md` |
+| `ethics-politics/schools/virtue-ethics/aristotle/著作.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/著作.md` |
+| `ethics-politics/schools/virtue-ethics/aristotle/阅读.md` | → | `伦理政治/学派/德性伦理学/亚里士多德/阅读.md` |
 | `ethics-politics/schools/virtue-ethics/macintyre/README.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/README.md` |
-| `ethics-politics/schools/virtue-ethics/macintyre/timeline.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/时间线.md` |
-| `ethics-politics/schools/virtue-ethics/macintyre/works.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/著作.md` |
-| `ethics-politics/schools/virtue-ethics/macintyre/reading-list.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/阅读.md` |
+| `ethics-politics/schools/virtue-ethics/macintyre/时间线.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/时间线.md` |
+| `ethics-politics/schools/virtue-ethics/macintyre/著作.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/著作.md` |
+| `ethics-politics/schools/virtue-ethics/macintyre/阅读.md` | → | `伦理政治/学派/德性伦理学/阿拉斯戴尔/阅读.md` |
 | `ethics-politics/schools/critical-theory/marcuse/README.md` | → | `伦理政治/学派/批判理论/赫伯特/README.md` |
-| `ethics-politics/schools/critical-theory/marcuse/timeline.md` | → | `伦理政治/学派/批判理论/赫伯特/时间线.md` |
-| `ethics-politics/schools/critical-theory/marcuse/works.md` | → | `伦理政治/学派/批判理论/赫伯特/著作.md` |
-| `ethics-politics/schools/critical-theory/marcuse/reading-list.md` | → | `伦理政治/学派/批判理论/赫伯特/阅读.md` |
+| `ethics-politics/schools/critical-theory/marcuse/时间线.md` | → | `伦理政治/学派/批判理论/赫伯特/时间线.md` |
+| `ethics-politics/schools/critical-theory/marcuse/著作.md` | → | `伦理政治/学派/批判理论/赫伯特/著作.md` |
+| `ethics-politics/schools/critical-theory/marcuse/阅读.md` | → | `伦理政治/学派/批判理论/赫伯特/阅读.md` |
 | `ethics-politics/schools/social-contract/hobbes/README.md` | → | `伦理政治/学派/社会契约论/托马斯/README.md` |
-| `ethics-politics/schools/social-contract/hobbes/timeline.md` | → | `伦理政治/学派/社会契约论/托马斯/时间线.md` |
-| `ethics-politics/schools/social-contract/hobbes/works.md` | → | `伦理政治/学派/社会契约论/托马斯/著作.md` |
-| `ethics-politics/schools/social-contract/hobbes/reading-list.md` | → | `伦理政治/学派/社会契约论/托马斯/阅读.md` |
+| `ethics-politics/schools/social-contract/hobbes/时间线.md` | → | `伦理政治/学派/社会契约论/托马斯/时间线.md` |
+| `ethics-politics/schools/social-contract/hobbes/著作.md` | → | `伦理政治/学派/社会契约论/托马斯/著作.md` |
+| `ethics-politics/schools/social-contract/hobbes/阅读.md` | → | `伦理政治/学派/社会契约论/托马斯/阅读.md` |
 | `ethics-politics/schools/social-contract/rawls/README.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/README.md` |
-| `ethics-politics/schools/social-contract/rawls/timeline.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/时间线.md` |
-| `ethics-politics/schools/social-contract/rawls/works.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/著作.md` |
-| `ethics-politics/schools/social-contract/rawls/reading-list.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/阅读.md` |
+| `ethics-politics/schools/social-contract/rawls/时间线.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/时间线.md` |
+| `ethics-politics/schools/social-contract/rawls/著作.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/著作.md` |
+| `ethics-politics/schools/social-contract/rawls/阅读.md` | → | `伦理政治/学派/社会契约论/约翰-rawls/阅读.md` |
 | `ethics-politics/schools/social-contract/locke/README.md` | → | `伦理政治/学派/社会契约论/约翰/README.md` |
-| `ethics-politics/schools/social-contract/locke/timeline.md` | → | `伦理政治/学派/社会契约论/约翰/时间线.md` |
-| `ethics-politics/schools/social-contract/locke/works.md` | → | `伦理政治/学派/社会契约论/约翰/著作.md` |
-| `ethics-politics/schools/social-contract/locke/reading-list.md` | → | `伦理政治/学派/社会契约论/约翰/阅读.md` |
+| `ethics-politics/schools/social-contract/locke/时间线.md` | → | `伦理政治/学派/社会契约论/约翰/时间线.md` |
+| `ethics-politics/schools/social-contract/locke/著作.md` | → | `伦理政治/学派/社会契约论/约翰/著作.md` |
+| `ethics-politics/schools/social-contract/locke/阅读.md` | → | `伦理政治/学派/社会契约论/约翰/阅读.md` |
 | `ethics-politics/schools/communitarianism/taylor/README.md` | → | `伦理政治/学派/社群主义/查尔斯/README.md` |
-| `ethics-politics/schools/communitarianism/taylor/timeline.md` | → | `伦理政治/学派/社群主义/查尔斯/时间线.md` |
-| `ethics-politics/schools/communitarianism/taylor/works.md` | → | `伦理政治/学派/社群主义/查尔斯/著作.md` |
-| `ethics-politics/schools/communitarianism/taylor/reading-list.md` | → | `伦理政治/学派/社群主义/查尔斯/阅读.md` |
+| `ethics-politics/schools/communitarianism/taylor/时间线.md` | → | `伦理政治/学派/社群主义/查尔斯/时间线.md` |
+| `ethics-politics/schools/communitarianism/taylor/著作.md` | → | `伦理政治/学派/社群主义/查尔斯/著作.md` |
+| `ethics-politics/schools/communitarianism/taylor/阅读.md` | → | `伦理政治/学派/社群主义/查尔斯/阅读.md` |
 | `ethics-politics/schools/consequentialism/mill/README.md` | → | `伦理政治/学派/结果主义/密尔/README.md` |
-| `ethics-politics/schools/consequentialism/mill/timeline.md` | → | `伦理政治/学派/结果主义/密尔/时间线.md` |
-| `ethics-politics/schools/consequentialism/mill/works.md` | → | `伦理政治/学派/结果主义/密尔/著作.md` |
-| `ethics-politics/schools/consequentialism/mill/reading-list.md` | → | `伦理政治/学派/结果主义/密尔/阅读.md` |
+| `ethics-politics/schools/consequentialism/mill/时间线.md` | → | `伦理政治/学派/结果主义/密尔/时间线.md` |
+| `ethics-politics/schools/consequentialism/mill/著作.md` | → | `伦理政治/学派/结果主义/密尔/著作.md` |
+| `ethics-politics/schools/consequentialism/mill/阅读.md` | → | `伦理政治/学派/结果主义/密尔/阅读.md` |
 | `ethics-politics/schools/consequentialism/bentham/README.md` | → | `伦理政治/学派/结果主义/边沁/README.md` |
-| `ethics-politics/schools/consequentialism/bentham/timeline.md` | → | `伦理政治/学派/结果主义/边沁/时间线.md` |
-| `ethics-politics/schools/consequentialism/bentham/works.md` | → | `伦理政治/学派/结果主义/边沁/著作.md` |
-| `ethics-politics/schools/consequentialism/bentham/reading-list.md` | → | `伦理政治/学派/结果主义/边沁/阅读.md` |
+| `ethics-politics/schools/consequentialism/bentham/时间线.md` | → | `伦理政治/学派/结果主义/边沁/时间线.md` |
+| `ethics-politics/schools/consequentialism/bentham/著作.md` | → | `伦理政治/学派/结果主义/边沁/著作.md` |
+| `ethics-politics/schools/consequentialism/bentham/阅读.md` | → | `伦理政治/学派/结果主义/边沁/阅读.md` |
 | `ethics-politics/schools/capability-approach/sen/README.md` | → | `伦理政治/学派/能力方法/森/README.md` |
-| `ethics-politics/schools/capability-approach/sen/timeline.md` | → | `伦理政治/学派/能力方法/森/时间线.md` |
-| `ethics-politics/schools/capability-approach/sen/works.md` | → | `伦理政治/学派/能力方法/森/著作.md` |
-| `ethics-politics/schools/capability-approach/sen/reading-list.md` | → | `伦理政治/学派/能力方法/森/阅读.md` |
+| `ethics-politics/schools/capability-approach/sen/时间线.md` | → | `伦理政治/学派/能力方法/森/时间线.md` |
+| `ethics-politics/schools/capability-approach/sen/著作.md` | → | `伦理政治/学派/能力方法/森/著作.md` |
+| `ethics-politics/schools/capability-approach/sen/阅读.md` | → | `伦理政治/学派/能力方法/森/阅读.md` |
 | `ethics-politics/schools/capability-approach/nussbaum/README.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/README.md` |
-| `ethics-politics/schools/capability-approach/nussbaum/timeline.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/时间线.md` |
-| `ethics-politics/schools/capability-approach/nussbaum/works.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/著作.md` |
-| `ethics-politics/schools/capability-approach/nussbaum/reading-list.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/阅读.md` |
+| `ethics-politics/schools/capability-approach/nussbaum/时间线.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/时间线.md` |
+| `ethics-politics/schools/capability-approach/nussbaum/著作.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/著作.md` |
+| `ethics-politics/schools/capability-approach/nussbaum/阅读.md` | → | `伦理政治/学派/能力方法/纳斯鲍姆/阅读.md` |
 | `ethics-politics/schools/libertarianism/nozick/README.md` | → | `伦理政治/学派/自由至上主义/罗伯特/README.md` |
-| `ethics-politics/schools/libertarianism/nozick/timeline.md` | → | `伦理政治/学派/自由至上主义/罗伯特/时间线.md` |
+| `ethics-politics/schools/libertarianism/nozick/时间线.md` | → | `伦理政治/学派/自由至上主义/罗伯特/时间线.md` |
 
 > *...另有 871 项, 见 git diff 完整记录*
 
@@ -303,10 +303,10 @@
 | `religion/buddhism/sutras/ksitigarbha-sutra.md` | → | `宗教/佛教/经典/地藏菩萨本愿经.md` |
 | `religion/buddhism/sutras/surangama-sutra.md` | → | `宗教/佛教/经典/大佛顶首楞严经-surangama-sutra.md` |
 | `religion/buddhism/sutras/surangama-sutra-alt.md` | → | `宗教/佛教/经典/大佛顶首楞严经.md` |
-| `religion/buddhism/sutras/avatamsaka-sutra.md` | → | `宗教/佛教/经典/大方广佛华严经.md` |
+| `religion/buddhism/sutras/华严经.md` | → | `宗教/佛教/经典/大方广佛华严经.md` |
 | `religion/buddhism/sutras/perfect-enlightenment-sutra.md` | → | `宗教/佛教/经典/大方广圆觉修多罗了义经.md` |
 | `religion/buddhism/sutras/mahaparinirvana-sutra.md` | → | `宗教/佛教/经典/大般涅槃经.md` |
-| `religion/buddhism/sutras/lotus-sutra.md` | → | `宗教/佛教/经典/妙法莲华经.md` |
+| `religion/buddhism/sutras/妙法莲华经.md` | → | `宗教/佛教/经典/妙法莲华经.md` |
 | `religion/buddhism/sutras/brahmajala-sutra.md` | → | `宗教/佛教/经典/梵网经菩萨戒本.md` |
 | `religion/buddhism/sutras/lankavatara-sutra.md` | → | `宗教/佛教/经典/楞伽阿跋多罗宝经.md` |
 | `religion/buddhism/sutras/vimalakirti-sutra.md` | → | `宗教/佛教/经典/维摩诘所说经.md` |
@@ -341,18 +341,18 @@
 | `"religion/buddhism/masters/hakuin/concepts/gozen-ho\346\202\237after-practice.md"` | → | `宗教/佛教/大师/白隐慧鹤/概念/gozen-ho悟after-practice.md` |
 | `religion/buddhism/masters/paramartha.md` | → | `宗教/佛教/大师/真谛.md` |
 | `religion/buddhism/masters/kukai.md` | → | `宗教/佛教/大师/空海.md` |
-| `religion/buddhism/masters/kuiji.md` | → | `宗教/佛教/大师/窥基.md` |
+| `religion/buddhism/masters/窥基.md` | → | `宗教/佛教/大师/窥基.md` |
 | `religion/buddhism/masters/yosai.md` | → | `宗教/佛教/大师/荣西.md` |
 | `religion/buddhism/masters/padmasambhava.md` | → | `宗教/佛教/大师/莲花生大士.md` |
 | `religion/buddhism/masters/bodhidharma.md` | → | `宗教/佛教/大师/菩提达摩.md` |
-| `religion/buddhism/masters/dogen.md` | → | `宗教/佛教/大师/道元.md` |
+| `religion/buddhism/masters/道元.md` | → | `宗教/佛教/大师/道元.md` |
 | `religion/buddhism/masters/daoxuan.md` | → | `宗教/佛教/大师/道宣.md` |
 | `religion/buddhism/masters/atisha.md` | → | `宗教/佛教/大师/阿底峡.md` |
 | `religion/buddhism/masters/dignaga.md` | → | `宗教/佛教/大师/陈那.md` |
 | `religion/buddhism/masters/longchenpa.md` | → | `宗教/佛教/大师/隆钦巴.md` |
 | `religion/buddhism/masters/ashvaghosha.md` | → | `宗教/佛教/大师/马鸣.md` |
 | `religion/buddhism/masters/kumarajiva.md` | → | `宗教/佛教/大师/鸠摩罗什.md` |
-| `religion/buddhism/masters/nagarjuna.md` | → | `宗教/佛教/大师/龙树.md` |
+| `religion/buddhism/大师/龙树.md` | → | `宗教/佛教/大师/龙树.md` |
 | `arts/schools/performing-arts/.gitkeep` | → | `宗教/佛教/概念/cognitive-theory/中观/.gitkeep` |
 | `religion/buddhism/concepts/cognitive-theory/consciousness-transformation/.gitkeep` | → | `宗教/佛教/概念/cognitive-theory/六根六尘六识/.gitkeep` |
 | `religion/buddhism/concepts/cognitive-theory/madhyamaka/.gitkeep` | → | `宗教/佛教/概念/cognitive-theory/心物一元/.gitkeep` |
@@ -362,11 +362,11 @@
 | `religion/buddhism/treatises/madhyamakavatara.md` | → | `宗教/佛教/论典/入中论 Madhyamakāvatāra.md` |
 | `religion/buddhism/treatises/bodhicaryavatara.md` | → | `宗教/佛教/论典/入菩萨行论 Bodhicaryāvatāra.md` |
 | `religion/buddhism/treatises/avatamsaka.md` | → | `宗教/佛教/论典/华严经 Avataṃsaka Sūtra.md` |
-| `religion/buddhism/treatises/perfect-enlightenment.md` | → | `宗教/佛教/论典/圆觉经 Sūtra of Perfect Enlightenment.md` |
+| `religion/buddhism/treatises/perfect-启蒙.md` | → | `宗教/佛教/论典/圆觉经 Sūtra of Perfect Enlightenment.md` |
 | `religion/buddhism/treatises/awakening-of-faith.md` | → | `宗教/佛教/论典/大乘起信论 Awakening of Faith in Mahāyāna.md` |
 | `religion/buddhism/treatises/mahavairocana.md` | → | `宗教/佛教/论典/大日经 Mahāvairocana Sūtra.md` |
 | `religion/buddhism/treatises/mahaprajnaparamita-sastra.md` | → | `宗教/佛教/论典/大智度论 Mahāprajñāpāramitā-śāstra.md` |
-| `religion/buddhism/treatises/mahaparinirvana.md` | → | `宗教/佛教/论典/大般涅槃经 Mahāparinirvāṇa Sūtra.md` |
+| `religion/buddhism/treatises/mahapari涅槃.md` | → | `宗教/佛教/论典/大般涅槃经 Mahāparinirvāṇa Sūtra.md` |
 | `religion/buddhism/treatises/cheng-weishi-lun.md` | → | `宗教/佛教/论典/成唯识论 Chéng Wéishí Lùn.md` |
 | `religion/buddhism/treatises/surangama.md` | → | `宗教/佛教/论典/楞严经 Śūraṅgama Sūtra.md` |
 

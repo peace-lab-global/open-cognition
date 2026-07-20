@@ -101,8 +101,8 @@ Aquinas represents the apex of medieval rationalism. His influence flows through
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **伦理学** → 义务论与目的论伦理学的张力 → [Kant（义务论对照）](../german-idealism/kant.md) [互补/对照]
-- **政治哲学** → 自然权利理论 → [Locke（自然权利继承）](../../../ethics-politics/schools/social-contract/locke.md) [发展]
+- **伦理学** → 义务论与目的论伦理学的张力 → [Kant（义务论对照）](../德国唯心论/康德.md) [互补/对照]
+- **政治哲学** → 自然权利理论 → [Locke（自然权利继承）](../分析哲学/约翰.md) [发展]
 - **形而上学** → 实体与存在的区分 → [Aristotle（形而上学基础）](../../concepts/metaphysics.md) [同源]
 - **心灵哲学** → 质型论 → 当代心灵哲学中的非还原物理主义 [平行]
 - **冥想传统** → 神秘主义与理性的关系 → 天主教神秘主义传统 [互补]

@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[马祖道一](../../wisdom-masters/masters/china/mazu-daoyi.md)
 - 概念：[平常心是道](../../concepts/ping-chang-xin-shi-dao.md)
-- 相关 Skill：[hui-neng-ordinary-mind](./hui-neng-ordinary-mind/SKILL.md)、[wuwei-guidance](./wuwei-guidance/SKILL.md)
+- 相关 Skill：[hui-neng-ordinary-mind](../../佛教/技能/从前五识/SKILL.md)、[wuwei-guidance](../../佛教/技能/从前五识/SKILL.md)

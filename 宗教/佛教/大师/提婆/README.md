@@ -49,7 +49,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 
 **In the Catuhsataka, Aryadeva articulates one of the most ethically profound propositions in Madhyamaka: "The Buddhas take great compassion as their essence, not emptiness." Emptiness-wisdom is not the endpoint of the bodhisattva path but the gateway to boundless compassion. True awakening lies not in cognitive realization of emptiness alone, but in using that realization as fuel for the infinite benefit of sentient beings.**
 
-详见 [悲智双运](concepts/compassion-wisdom.md)。
+详见 [悲智双运](concepts/悲智双运.md)。
 
 ### 3. 破除四倒 Dismantling the Four Inversions
 
@@ -102,7 +102,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 | 《百字论》 | Sataksara | 精炼的中观论证 | 鸠摩罗什译 |
 | 《掌上论》 | Hastavalaprakarana | 唯识与中观的综合讨论 | 归名作品，真伪有争议 |
 
-详见 [著作目录](works.md)。
+详见 [著作目录](著作.md)。
 
 ---
 
@@ -206,7 +206,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 - **注释者**: [月称 Candrakirti](../candrakirti.md) — 为《四百论》作注
 - **传承**: 龙树→提婆→罗睺罗跋陀罗→…→佛护→月称（应成派谱系）
 - **汉传**: [鸠摩罗什 Kumarajiva](../kumarajiva.md) — 翻译《百论》；[吉藏 Jizang](../jizang.md) — 三论宗集大成者
-- **学派**: [中观学派](../schools/madhyamaka.md) — 第二代祖师
+- **学派**: [中观学派](../中观.md) — 第二代祖师
 - **哲学**: [波普尔 Popper](../../../哲学/学派/分析哲学/波普尔.md) — 证伪主义的平行
 - **学派**: [三论宗](../schools/sanlun.md) — "三论"之一《百论》的作者
 
@@ -235,7 +235,7 @@ children: ["concepts/four-inversions", "concepts/hundred-treatise", "concepts/fo
 - [百论 Satasatra](concepts/hundred-treatise.md) — 破斥外道的辩论方法论
 - [四百论 Catuhsataka](concepts/four-hundred-verses.md) — 菩萨道的修证次第
 - [与龙树的分工](concepts/nagarjuna-partnership.md) — 建构 vs 破斥的互补
-- [悲智双运 Karuna-Prajna](concepts/compassion-wisdom.md) — 空性与大悲的不可分割
-- [著作目录](works.md) — 完整著作列表与考证
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [悲智双运 Karuna-Prajna](concepts/悲智双运.md) — 空性与大悲的不可分割
+- [著作目录](著作.md) — 完整著作列表与考证
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

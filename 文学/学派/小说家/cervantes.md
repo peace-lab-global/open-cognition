@@ -71,9 +71,9 @@ sources:
 
 ## 跨学科关联
 
-- [莎士比亚](../dramatists/shakespeare.md) `[平行]` 同卒于1616年，分立现代戏剧与小说的源头
-- [博尔赫斯](../../../aesthetics/schools/literary-thought/borges.md) `[发展]` 元小说与迷宫叙事的继承者
-- [巴赫金](../../../aesthetics/schools/literary-theory/bakhtin.md) `[互补]` "复调"与"众声喧哗"理论的经典研究对象
+- [莎士比亚](../剧作家/shakespeare.md) `[平行]` 同卒于1616年，分立现代戏剧与小说的源头
+- [博尔赫斯](../../../美学/学派/文学思想/borges.md) `[发展]` 元小说与迷宫叙事的继承者
+- [巴赫金](../../../美学/学派/文学理论/bakhtin.md) `[互补]` "复调"与"众声喧哗"理论的经典研究对象
 - [虚构性](../../concepts/fictionality.md) `[同源]` 对"何为真实/虚构"边界的奠基性探索
 
 ## 进阶阅读
@@ -93,4 +93,4 @@ sources:
 
 ## 关联 Skills
 
-- [human-nature-analysis](../../skills/human-nature-analysis/SKILL.md) — 人性洞察分析
+- [human-nature-analysis](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 人性洞察分析

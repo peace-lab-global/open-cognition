@@ -71,9 +71,9 @@ sources:
 
 ## 跨学科关联
 
-- [黑格尔](../../../philosophy/schools/german-idealism/hegel.md) `[发展]` 正题—反题—合题的辩证法在视觉中的直接应用
-- [马克思](../../../sociology/schools/classical/marx.md) `[发展]` 艺术作为革命动员与唯物史观的工具
-- [本雅明](../critical-aesthetics/benjamin.md) `[同源]` 机械复制时代的艺术与大众动员
+- [黑格尔](../../../哲学/学派/德国唯心论/黑格尔.md) `[发展]` 正题—反题—合题的辩证法在视觉中的直接应用
+- [马克思](../../../社会学/学派/古典社会学/马克思.md) `[发展]` 艺术作为革命动员与唯物史观的工具
+- [本雅明](../批判美学/瓦尔特.md) `[同源]` 机械复制时代的艺术与大众动员
 - [阿多诺](../critical-aesthetics/adorno.md) `[互补]` 艺术的自主性 vs 社会功能之张力
 
 ## 进阶阅读
@@ -92,4 +92,4 @@ sources:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/art-criticism-framework/SKILL.md)
+- [艺术批评框架](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

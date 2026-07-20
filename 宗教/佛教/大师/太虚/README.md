@@ -42,7 +42,7 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 
 **The starting point of Buddhism is actual human life, not spirits or the afterlife. Buddhahood is built upon the perfection of human character — "When personhood is complete, Buddhahood is achieved." Taixu opposed reducing Buddhism to a "religion of the dead" (concerned only with funerary rites) or a "religion of ghosts" (obsessed with spirit worship).**
 
-详见 [人生佛教](concepts/humanistic-buddhism.md)。
+详见 [人生佛教](concepts/人间佛教.md)。
 
 ### 2. 三大革命 Three Great Revolutions
 
@@ -257,11 +257,11 @@ children: ["concepts/humanistic-buddhism", "concepts/three-revolutions", "concep
 ## 子条目索引 / Sub-entries
 
 - [README](README.md) — 本文件：核心命题、思想脉络、跨学科关联
-- [人生佛教 Humanistic Buddhism](concepts/humanistic-buddhism.md) — 以现实人生为出发点的佛教
+- [人生佛教 Humanistic Buddhism](concepts/人间佛教.md) — 以现实人生为出发点的佛教
 - [三大革命 Three Revolutions](concepts/three-revolutions.md) — 教理、教制、教产三重改革
 - [世界佛学 World Buddhism](concepts/world-buddhism.md) — 全球视野的佛学构想
 - [三级判教 Three-Level Classification](concepts/three-level-classification.md) — 佛法的三级分类体系
 - [法界圆觉宗 Dharmadhatu Awakening](concepts/dharmadhatu-awakening.md) — 太虚的自宗立场
-- [著作目录](works.md) — 完整著作列表与分类
-- [年表](timeline.md) — 生平与历史语境
-- [进阶阅读](reading-list.md) — 分类书单
+- [著作目录](著作.md) — 完整著作列表与分类
+- [年表](时间线.md) — 生平与历史语境
+- [进阶阅读](阅读.md) — 分类书单

@@ -385,3 +385,10 @@ Compared to Taoism and Buddhism, Jung's direct discussions of Confucian thought 
 | [个体化 · Individuation](concepts/individuation.md) | 整合意识与无意识、实现心理完整性的发展过程 |
 | [阴影 · Shadow](concepts/shadow.md) | 被意识排斥和压抑的人格面向 |
 | [阿尼玛与阿尼姆斯 · Anima/Animus](concepts/anima-animus.md) | 无意识中的异性意象与灵魂面向 |
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [荣格-人格面具](../../../../名言/真实表演/荣格-人格面具.md)

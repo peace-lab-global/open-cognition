@@ -28,9 +28,9 @@ children:
   - concepts/establishing-person.md
   - concepts/enlightenment-tension.md
   - concepts/iron-house.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 鲁迅 / Lu Xun

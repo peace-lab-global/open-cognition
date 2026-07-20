@@ -229,7 +229,7 @@ Shandao's thought is often dismissed as "simple fideism," but deeper analysis re
 - [道绰 Daochuo](daochuo.md) — 善导的师父，承前启后 / Shandao's teacher, bridging Tanluan and Shandao
 - [法然 Hōnen](../../japan/honen.md) — 日本净土宗创立者，善导思想的直接继承者 / Founder of Japanese Jōdo-shū, direct inheritor of Shandao's thought
 - [亲鸾 Shinran](../../japan/shinran.md) — 净土真宗创立者，将善导他力思想推至极致 / Founder of Jōdo Shinshū, who pushed Shandao's Other-Power teaching to its ultimate conclusion
-- [路德 · 因信称义](../../traditions/christianity/grace-redemption.md) — 平行比较：他力信心 vs 恩典 / Parallel comparison: Other-Power faith vs. grace
+- [路德 · 因信称义](../../传统/基督教/恩典与救赎.md) — 平行比较：他力信心 vs 恩典 / Parallel comparison: Other-Power faith vs. grace
 - [韦伯 · 宗教社会学](../../../社会学/学派/古典社会学/韦伯.md) — 宗教大众化 / Religion's democratization
 
 ---
@@ -246,6 +246,6 @@ Shandao's thought is often dismissed as "simple fideism," but deeper analysis re
 
 ## 延伸阅读 Further Reading
 
-- [著作 Works](works.md)
-- [年表 Timeline](timeline.md)
-- [阅读书单 Reading List](reading-list.md)
+- [著作 Works](著作.md)
+- [年表 Timeline](时间线.md)
+- [阅读书单 Reading List](阅读.md)

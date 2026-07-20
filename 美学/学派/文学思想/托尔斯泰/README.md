@@ -25,9 +25,9 @@ children:
   - concepts/historical-force.md
   - concepts/non-resistance.md
   - concepts/moral-art.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 托尔斯泰 / Leo Tolstoy

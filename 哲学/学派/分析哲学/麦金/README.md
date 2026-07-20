@@ -14,9 +14,9 @@ sources:
   - McGinn, *The Mysterious Flame* (1999)
   - McGinn, *Consciousness and Its Objects* (2004)
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: nagel
     relation: 同源

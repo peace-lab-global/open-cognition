@@ -101,7 +101,7 @@ See [百法明门 / Hundred Dharmas](concepts/hundred-dharmas.md)
 
 The three natures: imagined nature (parikalpita, the projection of false discrimination), dependent nature (paratantra, the mode of existence arising from conditions), and perfected nature (parinispanna, the true nature of things). Combined with the three non-natures -- non-nature of characteristics, non-nature of arising, and non-nature of the ultimate -- these form the Yogacara middle way.
 
-See [三性三无性 / Three Natures](concepts/three-natures.md)
+See [三性三无性 / Three Natures](concepts/三性.md)
 
 ### 5. 因明学 / Buddhist Logic (Hetuvidya)
 

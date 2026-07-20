@@ -260,6 +260,6 @@ Bach's inexhaustible exploration of variations on a single subject parallels the
 - [平均律 Well-Temperament](concepts/well-temperament.md) — 调律体系与调性空间的统一
 - [宗教音乐 Sacred Music](concepts/sacred-music.md) — 路德宗神学与音乐的融合
 - [复调思维 Polyphonic Thinking](concepts/polyphonic-thinking.md) — 超越音乐的认知范式
-- [著作年表 Works](works.md) — 巴赫全部主要作品编年
-- [生平大事记 Timeline](timeline.md) — 巴赫生平、创作与历史语境
-- [阅读指南 Reading List](reading-list.md) — 分级进阶阅读推荐
+- [著作年表 Works](著作.md) — 巴赫全部主要作品编年
+- [生平大事记 Timeline](时间线.md) — 巴赫生平、创作与历史语境
+- [阅读指南 Reading List](阅读.md) — 分级进阶阅读推荐

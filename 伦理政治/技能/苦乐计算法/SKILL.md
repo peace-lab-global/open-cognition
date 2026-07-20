@@ -97,10 +97,10 @@ tags:
 **误用场景**：
 > 当某公司面临裁员决定：方案A裁减10%员工（痛苦集中但程度高），方案B全员降薪20%（痛苦分散但持续时间长）。若简单使用苦乐计算，可能倾向方案B（总体痛苦值更低），但这掩盖了对少数人的严重不公——他们承担了不成比例的痛苦。
 
-**正确做法**：在此类权利敏感情境中，应先用[定言命令检验](../categorical-imperative/SKILL.md)确认没有把人不当手段使用，再考虑功利计算。
+**正确做法**：在此类权利敏感情境中，应先用[定言命令检验](../../../宗教/佛教/技能/从前五识/SKILL.md)确认没有把人不当手段使用，再考虑功利计算。
 
 ## 关联条目
 
-- 思想家：[边沁](../../schools/consequentialism/bentham.md)、[密尔](../../schools/consequentialism/mill.md)
+- 思想家：[边沁](../../schools/consequentialism/bentham.md)、[密尔](../../学派/结果主义/密尔.md)
 - 概念：[功利 Pleasure](../../concepts/pleasure.md)
-- 相关Skill：[无知之幕分析](./veil-of-ignorance-analysis/SKILL.md)
+- 相关Skill：[无知之幕分析](../../../宗教/佛教/技能/从前五识/SKILL.md)

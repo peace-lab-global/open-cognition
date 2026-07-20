@@ -69,9 +69,9 @@ sources:
 
 ## 跨学科关联
 
-- [荣格](../../../psychology/schools/analytical-psychology/jung.md) `[平行]` 集体无意识与文学原型，但弗莱坚持文学层面的可验证性
-- [尼采](../nietzschean-aesthetics/nietzsche-aesthetics.md) `[平行]` 日神/酒神与悲剧/喜剧的二元结构
-- [亚里士多德](../../../philosophy/schools/ancient-greek/aristotle.md) `[发展]` 《诗学》的悲剧理论扩展为一般文学理论
+- [荣格](../../../心理学/学派/分析心理学/卡尔.md) `[平行]` 集体无意识与文学原型，但弗莱坚持文学层面的可验证性
+- [尼采](../尼采美学/nietzsche-aesthetics.md) `[平行]` 日神/酒神与悲剧/喜剧的二元结构
+- [亚里士多德](../../../哲学/学派/古希腊/亚里士多德.md) `[发展]` 《诗学》的悲剧理论扩展为一般文学理论
 - [巴特](barthes.md) `[对立]` 弗莱关注普遍原型，巴特关注具体文本的差异与意识形态
 
 ## 进阶阅读
@@ -90,4 +90,4 @@ sources:
 
 ## 关联 Skills
 
-- [荣格原型识别](../../../psychology/skills/jungian-archetype-identification/SKILL.md)
+- [荣格原型识别](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

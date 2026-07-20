@@ -2,7 +2,7 @@
 name: unconscious-analysis
 description: Triggers on requests to 潜意识分析、梦境解析、防御机制，如心理分析、自我探索、人格理解等。Apply this skill to analyze unconscious motivations, dreams, and defense mechanisms based on Freud's psychoanalytic theory.
 domain: 心理学
-linked_thinker: ../../schools/psychoanalysis/freud.md
+linked_thinker: ../../schools/精神分析/西格蒙德.md
 linked_concepts:
   - ../../心理学/概念/unconscious.md
   - ../../心理学/概念/defense-mechanisms.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[西格蒙德·弗洛伊德](../../schools/psychoanalysis/freud.md)
+- 来源思想家：[西格蒙德·弗洛伊德](../../学派/精神分析/西格蒙德.md)
 - 来源概念：[潜意识](../../concepts/unconscious.md)、[防御机制](../../concepts/defense-mechanisms.md)
 - 关键文献：《梦的解析》、《精神分析引论》
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[西格蒙德·弗洛伊德](../../schools/psychoanalysis/freud.md)
+- 思想家：[西格蒙德·弗洛伊德](../../学派/精神分析/西格蒙德.md)
 - 概念：[潜意识](../../concepts/unconscious.md)、[防御机制](../../concepts/defense-mechanisms.md)
-- 相关 Skill：[jungian-archetype-identification](./jungian-archetype-identification/SKILL.md)、[cbt-cognitive-distortion](./cbt-cognitive-distortion/SKILL.md)
+- 相关 Skill：[jungian-archetype-identification](../../../宗教/佛教/技能/从前五识/SKILL.md)、[cbt-cognitive-distortion](../../../宗教/佛教/技能/从前五识/SKILL.md)

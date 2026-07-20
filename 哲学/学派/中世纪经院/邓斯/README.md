@@ -16,9 +16,9 @@ sources:
   - Scotus, *De Primo Principio* (On the First Principle)
   - Scotus, *Tractatus de Primo Principio*
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: aquinas
     relation: 批判/超越

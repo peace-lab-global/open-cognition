@@ -76,10 +76,10 @@ sources: [《力量的源泉》(Sources of Power), 《街灯下的影子》(Seei
 
 ## 跨学科关联
 
-- [卡尼曼](../../../psychology/schools/behavioral-economics/kahneman.md) `[对话/张力]` Klein 强调直觉的价值，Kahneman 强调偏差——两者在 2009 论文中达成共识
-- [西蒙](../cybernetics/simon.md) `[继承]` 启发式搜索在专家决策中的深化
-- [拉斯穆森](../cognitive-engineering/rasmussen.md) `[平行]` SRK 模型中的技能型行为与 RPD 有结构相似性
-- [佛教禅宗](../../../religion/traditions/buddhism/zen.md) `[平行]` "直觉"与禅宗的"顿悟"有对话空间
+- [卡尼曼](../../../心理学/学派/行为经济学/丹尼尔.md) `[对话/张力]` Klein 强调直觉的价值，Kahneman 强调偏差——两者在 2009 论文中达成共识
+- [西蒙](../控制论/西蒙.md) `[继承]` 启发式搜索在专家决策中的深化
+- [拉斯穆森](../认知工程/rasmussen.md) `[平行]` SRK 模型中的技能型行为与 RPD 有结构相似性
+- [佛教禅宗](../../../宗教/传统/佛教/禅宗.md) `[平行]` "直觉"与禅宗的"顿悟"有对话空间
 
 ## 进阶阅读
 
@@ -92,4 +92,4 @@ sources: [《力量的源泉》(Sources of Power), 《街灯下的影子》(Seei
 
 ## 关联 Skills
 
-- [自然决策分析](../../skills/naturalistic-decision-analysis/SKILL.md)
+- [自然决策分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

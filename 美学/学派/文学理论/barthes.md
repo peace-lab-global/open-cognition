@@ -74,8 +74,8 @@ sources:
 
 - [索绪尔](saussure.md) `[发展]` 巴特将语言学扩展为一般符号学
 - [德里达](../../../philosophy/schools/post-structuralism/derrida.md) `[同源]` 后结构主义同盟
-- [福柯](../../../sociology/schools/structuralism/foucault.md) `[平行]` 话语/权力/知识
-- [本雅明](../critical-aesthetics/benjamin.md) `[平行]` 机械复制与大众文化分析
+- [福柯](../../../社会学/学派/结构主义/福柯.md) `[平行]` 话语/权力/知识
+- [本雅明](../批判美学/瓦尔特.md) `[平行]` 机械复制与大众文化分析
 
 ## 进阶阅读
 
@@ -93,4 +93,4 @@ sources:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

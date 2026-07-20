@@ -2,21 +2,21 @@
 name: dogen-presence
 description: 道元"当下圆满"法，用于帮助当事人看到"此时此地的存在本身已经是完整的"。Triggers on 当事人无法接受当下的自己、觉得"现在的我不配"、需要"成为更好的自己"才能幸福的场景。
 tradition: japanese-zen-soto
-linked_master: ../../masters/japan/dogen.md
+linked_master: ../../masters/japan/道元.md
 linked_concepts:
-  - 当下圆满
-  - 佛性遍一切处
-  - 存在
-  - 不欠
+- 当下圆满
+- 佛性遍一切处
+- 存在
+- 不欠
 tags:
-  - 圆满
-  - 接受当下
-  - 自尊
-  - 存在
-  - 曹洞宗
-  - 日本禅
+- 圆满
+- 接受当下
+- 自尊
+- 存在
+- 曹洞宗
+- 日本禅
+domain: 宗教
 ---
-
 # 道元当下圆满 · Presence is Completeness
 
 ## 一句话功能
@@ -39,7 +39,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[道元](../../masters/japan/dogen.md)
+- 来源祖师：[道元](../../masters/日本/道元.md)
 - 核心命题：佛性遍一切处——不是佛性在万物之中，是万物当体即是佛性，不欠一分
 - 关键文本：《正法眼藏》
 - 核心命题："这一坐，是佛性的完全展开，不欠一分"
@@ -132,7 +132,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[道元](../../masters/japan/dogen.md)
+- 祖师：[道元](../../masters/日本/道元.md)
 - 概念：[当下圆满](./concepts/presence-completeness.md)（待建）
-- 相关Skill：[道元只管打坐](./dogen-shikantaza/SKILL.md)
-- 跨传统：[马斯洛·自我实现](../../心理学/学派/人本主义/马斯洛.md)（平行）——但马斯洛是"成为"，道元是"已经是"；两种不同的成长观
+- 相关Skill：[道元只管打坐](../../../佛教/技能/从前五识/SKILL.md)
+- 跨传统：马斯洛·自我实现（平行）——但马斯洛是"成为"，道元是"已经是"；两种不同的成长观

@@ -5,7 +5,7 @@ domain: 美学
 linked_thinker: ../../schools/german-aesthetics/kant-aesthetics.md
 linked_concepts:
   - ../../concepts/beauty.md
-  - ../../concepts/aesthetic-experience.md
+  - ../../concepts/审美经验.md
 tags: [kant, aesthetic-judgment, four-moments, critique-of-judgment]
 ---
 
@@ -85,6 +85,6 @@ tags: [kant, aesthetic-judgment, four-moments, critique-of-judgment]
 
 ## 链接条目
 
-- [康德美学](../../schools/german-aesthetics/kant-aesthetics.md)
+- [康德美学](../../学派/德国美学/kant-aesthetics.md)
 - [美 / Beauty](../../concepts/beauty.md)
-- [审美经验](../../concepts/aesthetic-experience.md)
+- [审美经验](../../概念/审美经验.md)

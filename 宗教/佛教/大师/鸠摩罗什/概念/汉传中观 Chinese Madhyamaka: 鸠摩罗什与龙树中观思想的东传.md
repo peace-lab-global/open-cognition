@@ -174,7 +174,7 @@ tags: [Madhyamaka, 中观, Chinese Madhyamaka, 汉传中观, Sanlun, 三论宗, 
 ## 跨学科关联 / Connections
 
 - [空义传授 Emptiness Teaching](emptiness-teaching.md) — 汉传中观的教义内容
-- [龙树 Nagarjuna](../nagarjuna.md) — 中观学派的印度创始者
+- [龙树 Nagarjuna](../../龙树.md) — 中观学派的印度创始者
 - [僧肇 Sengzhao](../sengzhao.md) — 汉传中观的最重要早期代表
 - [智顗 Zhiyi](../zhiyi.md) — 天台宗创始人，中观思想的创造性继承者
 - [吉藏 Jizang](../jizang.md) — 三论宗集大成者

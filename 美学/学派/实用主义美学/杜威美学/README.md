@@ -27,9 +27,9 @@ children:
   - concepts/doing-and-undergoing.md
   - concepts/an-experience.md
   - concepts/aesthetic-democracy.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 杜威 / John Dewey

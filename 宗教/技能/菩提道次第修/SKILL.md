@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[宗喀巴](../../wisdom-masters/masters/tibet/tsongkhapa.md)
 - 概念：[菩提道次第](../../concepts/lamrim.md)
-- 相关 Skill：[four-noble-truths-framework](./four-noble-truths-framework/SKILL.md)、[eight-consciousness-diagnosis](../buddhism-concepts/eight-consciousness-diagnosis/SKILL.md)
+- 相关 Skill：[four-noble-truths-framework](../../佛教/技能/从前五识/SKILL.md)、[eight-consciousness-diagnosis](../../佛教/技能/从前五识/SKILL.md)

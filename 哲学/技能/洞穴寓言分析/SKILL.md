@@ -2,7 +2,7 @@
 name: allegory-of-cave-analysis
 description: Triggers on requests to 洞穴寓言、理型论、真理与幻象，如哲学思考、教育理念、社会批判等。Apply this skill to analyze situations using Plato's Allegory of the Cave, understanding the journey from ignorance to enlightenment.
 domain: 哲学
-linked_thinker: ../../schools/ancient-greek/plato.md
+linked_thinker: ../../schools/古希腊/柏拉图.md
 linked_concepts:
   - ../../哲学/概念/forms.md
   - ../../哲学/概念/allegory-of-cave.md
@@ -35,7 +35,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：[柏拉图](../../schools/ancient-greek/plato.md)
+- 来源思想家：[柏拉图](../../学派/古希腊/柏拉图.md)
 - 来源概念：[理型](../../concepts/forms.md)、[洞穴寓言](../../concepts/allegory-of-cave.md)
 - 关键文献：《理想国》第七卷
 
@@ -99,6 +99,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[柏拉图](../../schools/ancient-greek/plato.md)
+- 思想家：[柏拉图](../../学派/古希腊/柏拉图.md)
 - 概念：[理型](../../concepts/forms.md)、[洞穴寓言](../../concepts/allegory-of-cave.md)
-- 相关 Skill：[socratic-questioning](./socratic-questioning/SKILL.md)、[categorical-imperative-test](./categorical-imperative-test/SKILL.md)
+- 相关 Skill：[socratic-questioning](../../../宗教/佛教/技能/从前五识/SKILL.md)、[categorical-imperative-test](../../../宗教/佛教/技能/从前五识/SKILL.md)

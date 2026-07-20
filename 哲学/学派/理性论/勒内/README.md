@@ -50,9 +50,9 @@ sub-entries:
   - concepts/methodic-doubt.md
   - concepts/clear-distinct.md
   - concepts/res-cogitans.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 勒内·笛卡尔 · René Descartes
@@ -245,7 +245,7 @@ The dialogue between Cartesian 哲学 and Eastern intellectual traditions is ric
 
 ## 进阶阅读 / Further Reading
 
-详见 [reading-list.md](reading-list.md)
+详见 [阅读.md](阅读.md)
 
 ## 子条目索引 / Sub-Entry Index
 
@@ -256,6 +256,12 @@ The dialogue between Cartesian 哲学 and Eastern intellectual traditions is ric
 | [methodic-doubt.md](concepts/methodic-doubt.md) | 方法论怀疑 — 通向确定性的怀疑之路 |
 | [clear-distinct.md](concepts/clear-distinct.md) | 清楚分明的观念 — 真理的认识论标准 |
 | [res-cogitans.md](concepts/res-cogitans.md) | 思维实体 — 心灵的形而上学界定 |
-| [works.md](works.md) | 著作详述 |
-| [timeline.md](timeline.md) | 思想年表 |
-| [reading-list.md](reading-list.md) | 进阶阅读书单 |
+| [著作.md](著作.md) | 著作详述 |
+| [时间线.md](时间线.md) | 思想年表 |
+| [阅读.md](阅读.md) | 进阶阅读书单 |
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [笛卡尔-我思故我在](../../../../名言/怀疑方法/笛卡尔-我思故我在.md)

@@ -29,14 +29,14 @@ cross-refs:
   - id: frege
     relation: 承接
 sub-entries:
-  - wittgenstein/concepts/language-game.md
+  - wittgenstein/concepts/语言游戏.md
   - wittgenstein/concepts/family-resemblance.md
   - wittgenstein/concepts/private-language.md
   - wittgenstein/concepts/forms-of-life.md
   - wittgenstein/concepts/picture-theory.md
-  - wittgenstein/works.md
-  - wittgenstein/timeline.md
-  - wittgenstein/reading-list.md
+  - wittgenstein/著作.md
+  - wittgenstein/时间线.md
+  - wittgenstein/阅读.md
 ---
 
 # 维特根斯坦 Ludwig Wittgenstein
@@ -95,7 +95,7 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 ## 重要概念 / Key Concepts
 
-1. **语言游戏 Language-Games** — 语言与活动交织的整体，每种游戏有自己的规则和意义标准。详见 → [language-game](concepts/language-game.md)
+1. **语言游戏 Language-Games** — 语言与活动交织的整体，每种游戏有自己的规则和意义标准。详见 → [language-game](concepts/语言游戏.md)
 2. **家族相似 Family Resemblance** — 概念由交叉重叠的相似性统一，而非共同本质。详见 → [family-resemblance](concepts/family-resemblance.md)
 3. **私人语言论证 Private Language Argument** — 反驳笛卡尔式内在认识论，论证语言本质上是公共的。详见 → [private-language](concepts/private-language.md)
 4. **生活形式 Forms of Life** — 语言根植于人类共同的行为方式和自然历史。详见 → [forms-of-life](concepts/forms-of-life.md)
@@ -183,11 +183,19 @@ After returning to Cambridge, Wittgenstein gradually dismantled his early positi
 
 | 条目 / Entry | 主题 / Topic |
 |---|---|
-| [language-game](concepts/language-game.md) | 语言游戏概念 / The concept of language-games |
+| [language-game](concepts/语言游戏.md) | 语言游戏概念 / The concept of language-games |
 | [family-resemblance](concepts/family-resemblance.md) | 家族相似 / Family resemblance |
 | [private-language](concepts/private-language.md) | 私人语言论证 / Private language argument |
 | [forms-of-life](concepts/forms-of-life.md) | 生活形式 / Forms of life |
 | [picture-theory](concepts/picture-theory.md) | 图像论 / Picture theory of meaning |
-| [works](works.md) | 完整著作列表与导读 / Complete works and guide |
-| [timeline](timeline.md) | 生平年表 / Biographical timeline |
-| [reading-list](reading-list.md) | 进阶阅读指南 / Advanced reading guide |
+| [works](著作.md) | 完整著作列表与导读 / Complete works and guide |
+| [timeline](时间线.md) | 生平年表 / Biographical timeline |
+| [reading-list](阅读.md) | 进阶阅读指南 / Advanced reading guide |
+---
+
+## 相关名言
+
+
+本思想在 `名言/` 模块中的独立条目：
+- [维特根斯坦-不可言说](../../../../名言/语言沉默/维特根斯坦-不可言说.md)
+- [维特根斯坦-语言游戏](../../../../名言/语言游戏/维特根斯坦-语言游戏.md)

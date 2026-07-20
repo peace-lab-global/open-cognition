@@ -36,10 +36,10 @@ sources:
 - **不确定性** — 乐谱不完全规定演奏方式，演奏者有自由
 
 ## 跨学科关联
-- [禅宗](../../../religion/traditions/buddhism/zen.md) `[同源]` 凯奇的老师铃木大拙直接影响了他的美学
-- [维特根斯坦](../../../philosophy/schools/analytic/wittgenstein.md) `[平行]` 语言游戏与"什么可以算作音乐"
-- [杜威](../pragmatist-aesthetics/dewey-aesthetics.md) `[平行]` 艺术即经验
-- [道家](../../../religion/traditions/taoism/wuwei.md) `[平行]` 无为/偶然/消解意志
+- [禅宗](../../../宗教/传统/佛教/禅宗.md) `[同源]` 凯奇的老师铃木大拙直接影响了他的美学
+- [维特根斯坦](../../../哲学/学派/分析哲学/维特根斯坦.md) `[平行]` 语言游戏与"什么可以算作音乐"
+- [杜威](../实用主义美学/dewey-aesthetics.md) `[平行]` 艺术即经验
+- [道家](../../../哲学/学派/东方哲学/老子/概念/无为.md) `[平行]` 无为/偶然/消解意志
 
 ## 常见误读
 - **误读 1**：把《4分33秒》当作"恶作剧"——这是一个严肃的哲学命题
@@ -51,4 +51,4 @@ sources:
 - 李静滢译《沉默》
 
 ## 关联 Skills
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

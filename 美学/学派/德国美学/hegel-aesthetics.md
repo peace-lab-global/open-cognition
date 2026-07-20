@@ -9,7 +9,7 @@ key_work: Lectures on Aesthetics (美学讲演录)
 domain: aesthetics
 tags: [黑格尔, 德国古典美学, 艺术终结论, 理念感性显现, 浪漫型艺术]
 cross_refs:
-  - ../../../philosophy/schools/german-idealism/hegel.md
+  - ../../../philosophy/schools/german-idealism/黑格尔.md
   - kant-aesthetics.md
   - ../nietzschean-aesthetics/nietzsche-aesthetics.md
   - ../../concepts/beauty.md
@@ -94,4 +94,4 @@ cross_refs:
 
 ## 关联 Skills
 
-- [艺术批评框架](../../skills/art-criticism-framework/SKILL.md) — 内容与形式的辩证分析
+- [艺术批评框架](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md) — 内容与形式的辩证分析

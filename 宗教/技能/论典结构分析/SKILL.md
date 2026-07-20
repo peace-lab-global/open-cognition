@@ -190,5 +190,5 @@ tags:
 - 论典：[俱舍论](../../buddhism/treatises/abhidharmakosa.md)、[大乘起信论](../../buddhism/treatises/awakening-of-faith.md)
 - 概念：[五明](../../buddhism/concepts/foundational/pancavidya.md)、[四依四不依](../../buddhism/concepts/foundational/four-reliances.md)
 - 宗派：[三论宗](../../buddhism/schools/sanlun.md)、[法相唯识宗](../../buddhism/schools/faxiang.md)
-- 高僧：[吉藏](../../buddhism/masters/jizang.md)、[窥基](../../buddhism/masters/kuiji.md)
-- 相关 Skill：[经论判释](../doctrinal-classification/SKILL.md)、[圣典诠释学](../scriptural-hermeneutics/SKILL.md)
+- 高僧：[吉藏](../../buddhism/masters/jizang.md)、[窥基](../../佛教/大师/窥基.md)
+- 相关 Skill：[经论判释](../../佛教/技能/从前五识/SKILL.md)、[圣典诠释学](../../佛教/技能/从前五识/SKILL.md)

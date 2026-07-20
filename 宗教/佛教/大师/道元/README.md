@@ -9,7 +9,7 @@ birth: 1200
 death: 1253
 tags: [道元, Dogen, 曹洞宗, Soto Zen, 只管打坐, shikantaza, 正法眼藏, Shobogenzo, 有时, uji]
 aliases: [Dōgen Kigen, 道元希玄, 承阳大师, Jōyō Daishi]
-parent: ../dogen.md
+parent: ../道元.md
 children: [concepts/being-time-uji, concepts/shikantaza, concepts/buddha-nature-dogen, concepts/impermanence-buddha-nature, concepts/practice-enlightenment, works, timeline, reading-list]
 ---
 
@@ -34,8 +34,8 @@ children: [concepts/being-time-uji, concepts/shikantaza, concepts/buddha-nature-
 1. **只管打坐 Shikantaza**：坐禅本身就是佛行，不是成佛手段。这是道元最具革命性的主张——彻底否定了修行的工具性逻辑。详见 [只管打坐](concepts/shikantaza.md)。
    Sitting itself is Buddha-activity, not a means to becoming Buddha. This is Dōgen's most revolutionary claim — a thorough rejection of instrumentalist logic in spiritual practice. See [Shikantaza](concepts/shikantaza.md).
 
-2. **修证一等 Practice-Enlightenment Identity**：修行与证悟是一件事，不是两件事。不存在"先修后证"的时间结构，因为每一刻的修行本身就是证悟的完整表现。详见 [修证一等](concepts/practice-enlightenment.md)。
-   Practice and realization are one thing, not two. There is no temporal structure of "first practice, then realization," because each moment of practice is itself the complete expression of realization. See [Practice-Enlightenment](concepts/practice-enlightenment.md).
+2. **修证一等 Practice-Enlightenment Identity**：修行与证悟是一件事，不是两件事。不存在"先修后证"的时间结构，因为每一刻的修行本身就是证悟的完整表现。详见 [修证一等](concepts/practice-启蒙.md)。
+   Practice and realization are one thing, not two. There is no temporal structure of "first practice, then realization," because each moment of practice is itself the complete expression of realization. See [Practice-Enlightenment](concepts/practice-启蒙.md).
 
 3. **有时 Uji**：时间即存在，存在即时间——二者不可分离。道元以"有时"一词消解了时间与存在的本体论区分，主张每一存在都是时间的具体表现形式。详见 [有时](concepts/being-time-uji.md)。
    Time is being, being is time — the two are inseparable. Dōgen dissolves the ontological distinction between time and being with the compound *uji*, holding that every existence is a concrete manifestation of time. See [Uji](concepts/being-time-uji.md).
@@ -97,7 +97,7 @@ The decade at Eihei-ji was Dōgen's most philosophically productive period. He c
 - **只管打坐 Shikantaza** — 坐禅即佛行，不以求悟为目的。详见 [只管打坐](concepts/shikantaza.md)。
   Sitting itself is Buddha-activity, with no goal of attaining enlightenment.
 
-- **修证一等 Practice-Enlightenment Identity** — 修行与证悟不可分割。详见 [修证一等](concepts/practice-enlightenment.md)。
+- **修证一等 Practice-Enlightenment Identity** — 修行与证悟不可分割。详见 [修证一等](concepts/practice-启蒙.md)。
   Practice and realization are inseparable.
 
 - **有时 Uji (Being-Time)** — 时间与存在的非二元统一。详见 [有时](concepts/being-time-uji.md)。
@@ -203,9 +203,9 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 - [海德格尔 Heidegger](../../../哲学/学派/存在主义/海德格尔.md) — [平行 parallel] 时间-存在
 - [梅洛-庞蒂 Merleau-Ponty](../../../哲学/学派/现象学/梅洛庞蒂.md) — [平行 parallel] 身体现象学
 - [怀特海 Whitehead](../../../哲学/schools/process/whitehead.md) — [平行 parallel] 过程哲学
-- [禅宗 Chan/Zen](../schools/chan-zen.md) — [日本传承 Japanese transmission]
-- [龙树 Nagarjuna](../masters/nagarjuna.md) — [思想渊源 philosophical source] 空性思想
-- [天台宗 Tiantai](../schools/tiantai.md) — [思想渊源] 本觉思想的批判继承
+- [禅宗 Chan/Zen](../schools/禅宗.md) — [日本传承 Japanese transmission]
+- [龙树 Nagarjuna](../大师/龙树.md) — [思想渊源 philosophical source] 空性思想
+- [天台宗 Tiantai](../schools/天台.md) — [思想渊源] 本觉思想的批判继承
 
 ---
 
@@ -235,9 +235,9 @@ Quite the opposite — Dōgen is one of the most linguistically creative thinker
 |---|---|
 | 有时 Uji | [concepts/being-time-uji](concepts/being-time-uji.md) |
 | 只管打坐 Shikantaza | [concepts/shikantaza](concepts/shikantaza.md) |
-| 佛性 Busho (Dōgen) | [concepts/buddha-nature-dogen](concepts/buddha-nature-dogen.md) |
+| 佛性 Busho (Dōgen) | [concepts/buddha-nature-dogen](concepts/buddha-nature-道元.md) |
 | 无常佛性 | [concepts/impermanence-buddha-nature](concepts/impermanence-buddha-nature.md) |
-| 修证一等 | [concepts/practice-enlightenment](concepts/practice-enlightenment.md) |
-| 著作列表 Works | [works](works.md) |
-| 年表 Timeline | [timeline](timeline.md) |
-| 阅读清单 Reading List | [reading-list](reading-list.md) |
+| 修证一等 | [concepts/practice-enlightenment](concepts/practice-启蒙.md) |
+| 著作列表 Works | [works](著作.md) |
+| 年表 Timeline | [timeline](时间线.md) |
+| 阅读清单 Reading List | [reading-list](阅读.md) |

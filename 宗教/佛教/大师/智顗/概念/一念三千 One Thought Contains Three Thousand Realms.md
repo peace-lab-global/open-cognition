@@ -24,4 +24,4 @@ tags: [ichinen-sanzen, three-thousand-realms, Tiantai, holistic]
 每一个认知瞬间都包含认知系统的全部潜在状态——这是对心理整体性 (psychological wholeness) 的最激进表述。
 
 ## 参见
-- [三谛圆融](three-truths.md) | [智顗](../README.md)
+- [三谛圆融](三谛.md) | [智顗](../README.md)

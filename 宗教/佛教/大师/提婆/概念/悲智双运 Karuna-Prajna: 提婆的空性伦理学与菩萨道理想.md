@@ -171,5 +171,5 @@ The "compassion as essence" framework offers a unique perspective for AI ethics:
 
 - [四百论 Catuhsataka](four-hundred-verses.md) — "大悲为体"命题的文本来源
 - [破四倒 Catvarah Viparyasah](four-inversions.md) — 大悲的认知基础
-- [龙树·空性 Sunyata](../nagarjuna/concepts/sunyata.md) — 空性智慧的来源
+- [龙树·空性 Sunyata](../龙树/概念/空性.md) — 空性智慧的来源
 - [与龙树的分工](nagarjuna-partnership.md) — 提婆对龙树思想的独特发展

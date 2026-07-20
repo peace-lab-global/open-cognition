@@ -221,7 +221,7 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 
 ## 跨学科关联 / Interdisciplinary Connections
 
-- **人本主义心理学 / Humanistic Psychology**：与[罗杰斯 Carl Rogers](../rogers.md)并列为"双子星"，共同奠定人本主义心理学基础。/ Co-"twins" with Rogers in founding humanistic 心理学.
+- **人本主义心理学 / Humanistic Psychology**：与[罗杰斯 Carl Rogers](../卡尔.md)并列为"双子星"，共同奠定人本主义心理学基础。/ Co-"twins" with Rogers in founding humanistic 心理学.
 - **个体心理学 / Individual Psychology**：继承[阿德勒 Alfred Adler](../../individual-psychology/adler.md)的社会兴趣（social interest）和目的论（teleology）传统。/ Inherits Adler's social interest and teleology.
 - **积极心理学 / Positive Psychology**：[塞利格曼 Martin Seligman](../../positive/seligman.md)的PERMA模型是自我实现研究纲领的实证科学化延续。/ Seligman's PERMA model is the empirical continuation of the self-actualization 研究 program.
 - **心流理论 / Flow Theory**：[米哈里 Csikszentmihalyi](../../positive/csikszentmihalyi.md)的"心流"概念与高峰体验形成直接对话，但更强调过程中的深度沉浸。/ Csikszentmihalyi's "flow" concept directly dialogues with peak experience but emphasizes deep immersion in process.
@@ -257,7 +257,7 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 - Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press. — 与马斯洛的自我超越概念形成深层共鸣
 - Rogers, C. R. (1961). *On Becoming a Person*. Houghton Mifflin. — 人本主义的另一面
 
-详见 → [reading-list.md](reading-list.md)
+详见 → [阅读.md](阅读.md)
 
 ---
 
@@ -270,6 +270,6 @@ Maslow was deeply influenced by Daoism in his later years. His concept of "Daois
 | [高峰体验 / Peak Experience](concepts/peak-experience.md) | 概念 / Concept | 超越性意识状态 / Transcendent state of consciousness |
 | [匮乏与存在需求 / D-Needs & B-Needs](concepts/deficiency-being-needs.md) | 概念 / Concept | 两种根本不同的动机类型 / Two fundamentally different motivation types |
 | [元动机 / Metamotivation](concepts/metamotivation.md) | 概念 / Concept | 超越匮乏后的成长性驱动力 / Growth motivation beyond deficiency |
-| [著作年表 / Works Chronology](works.md) | 著作 / Works | 完整著作列表 / Complete works listing |
-| [生平年表 / Life Timeline](timeline.md) | 年表 / Timeline | 生平大事记 / Chronological biography |
-| [推荐阅读 / Reading List](reading-list.md) | 阅读 / Reading | 分级阅读指南 / Graded reading guide |
+| [著作年表 / Works Chronology](著作.md) | 著作 / Works | 完整著作列表 / Complete works listing |
+| [生平年表 / Life Timeline](时间线.md) | 年表 / Timeline | 生平大事记 / Chronological biography |
+| [推荐阅读 / Reading List](阅读.md) | 阅读 / Reading | 分级阅读指南 / Graded reading guide |

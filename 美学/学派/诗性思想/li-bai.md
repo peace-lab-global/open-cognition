@@ -70,10 +70,10 @@ sources:
 
 ## 跨学科关联
 
-- [老子](../../../philosophy/schools/eastern/laozi.md) `[同源]` 道法自然的美学实践
-- [庄子](../../../philosophy/schools/eastern/zhuangzi.md) `[同源]` 逍遥游与天真之境的精神自由
-- [禅宗](../../../religion/traditions/buddhism/zen.md) `[平行]` 直觉、当下、顿悟的体验结构
-- [尼采](../../../philosophy/schools/existentialism/nietzsche.md) `[平行]` 酒神式的迷狂与个体超越
+- [老子](../../../哲学/学派/东方哲学/laozi.md) `[同源]` 道法自然的美学实践
+- [庄子](../../../哲学/学派/东方哲学/zhuangzi.md) `[同源]` 逍遥游与天真之境的精神自由
+- [禅宗](../../../宗教/传统/佛教/禅宗.md) `[平行]` 直觉、当下、顿悟的体验结构
+- [尼采](../../../哲学/学派/存在主义/尼采.md) `[平行]` 酒神式的迷狂与个体超越
 
 ## 进阶阅读
 
@@ -91,4 +91,4 @@ sources:
 
 ## 关联 Skills
 
-- [审美判断分析](../../skills/aesthetic-judgment-analysis/SKILL.md)
+- [审美判断分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

@@ -101,4 +101,4 @@ tags:
 
 - 思想家：[安东尼奥·达玛西奥](../../schools/cognitive/damasio.md)
 - 概念：[躯体标记假说](../../concepts/somatic-marker-hypothesis.md)、[情绪与决策](../../concepts/emotion-and-decision.md)
-- 相关 Skill：[dual-system-analysis](./dual-system-analysis/SKILL.md)、[cognitive-development-assessment](./cognitive-development-assessment/SKILL.md)
+- 相关 Skill：[dual-system-analysis](../../../宗教/佛教/技能/从前五识/SKILL.md)、[cognitive-development-assessment](../../../宗教/佛教/技能/从前五识/SKILL.md)

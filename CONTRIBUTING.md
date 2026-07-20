@@ -124,9 +124,9 @@ tags: [<标签>]
 ## 五、文件命名
 
 - **思想家**：`schools/<学派>/<姓氏拼音或英文>.md`
-  - 例：`socrates.md` `kant.md` `kongzi.md` `nagarjuna.md`
+  - 例：`socrates.md` `康德.md` `kongzi.md` `龙树.md`
 - **概念**：`concepts/<概念英文小写连字符>.md`
-  - 例：`dialectics.md` `cultural-capital.md` `five-aggregates-cognitive.md`
+  - 例：`辩证法.md` `cultural-capital.md` `五蕴的认知读法.md`
 - **Skill**：`<领域>-frameworks/<skill-id>/SKILL.md`
   - 例：`psychology/skills/cbt-cognitive-distortion/SKILL.md`
 

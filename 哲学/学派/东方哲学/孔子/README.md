@@ -14,9 +14,9 @@ sources:
   - 《左传》
   - 《史记·孔子世家》
 children:
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 cross-refs:
   - id: aristotle
     relation: 平行

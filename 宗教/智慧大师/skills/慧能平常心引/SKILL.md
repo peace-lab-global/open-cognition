@@ -2,21 +2,21 @@
 name: hui-neng-ordinary-mind
 description: 慧能"平常心是道"心法，用于引导当事人放下"特殊化"心态，回归当下日常。Triggers on 当事人觉得自己"不够好"、"不够格"、需要"达到某种状态"才能做某事，或陷入表演型人格、在意他人眼光的场景。
 tradition: chan-buddhism
-linked_master: ../../masters/china/hui-neng.md
+linked_master: ../../智慧大师/masters/中国/慧能.md
 linked_concepts:
-  - 平常心
-  - 道
-  - 自然
-  - 不特殊化
+- 平常心
+- 道
+- 自然
+- 不特殊化
 tags:
-  - 平常心
-  - 去特殊化
-  - 当下
-  - 表演型人格
-  - 自尊
-  - 禅
+- 平常心
+- 去特殊化
+- 当下
+- 表演型人格
+- 自尊
+- 禅
+domain: 宗教
 ---
-
 # 慧能平常心引导 · Ordinary Mind is the Way
 
 ## 一句话功能
@@ -40,7 +40,7 @@ tags:
 
 ## 理论基础
 
-- 来源祖师：[慧能](../../masters/china/hui-neng.md)
+- 来源祖师：[慧能](../../masters/中国/慧能.md)
 - 核心命题：马祖道一言"平常心是道"——非日常之外有道，道就在日常生活中
 - 关键文本：《六祖坛经》——"行坐卧皆是行道"
 - 核心命题："运水搬柴，无非妙用"
@@ -136,7 +136,7 @@ tags:
 
 ## 关联条目
 
-- 祖师：[慧能](../../masters/china/hui-neng.md)
+- 祖师：[慧能](../../masters/中国/慧能.md)
 - 概念：[平常心](./concepts/putongxin.md)（待建）
-- 跨传统：[罗杰斯·真实自我](../../心理学/学派/人本主义/卡尔.md)（平行）——真实自我与平常心的内在对应
-- 相关Skill：[慧能无住心法](./hui-neng-no-dwelling/SKILL.md)
+- 跨传统：罗杰斯·真实自我（平行）——真实自我与平常心的内在对应
+- 相关Skill：[慧能无住心法](../../../佛教/技能/从前五识/SKILL.md)

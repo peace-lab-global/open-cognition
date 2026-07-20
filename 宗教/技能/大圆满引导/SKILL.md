@@ -100,4 +100,4 @@ tags:
 
 - 思想家：[莲花生大士](../../wisdom-masters/masters/tibet/padmasambhava.md)
 - 概念：[大圆满](../../concepts/dzogchen.md)
-- 相关 Skill：[lamrim-stages](./lamrim-stages/SKILL.md)、[forest-meditation-guidance](./forest-meditation-guidance/SKILL.md)
+- 相关 Skill：[lamrim-stages](../../佛教/技能/从前五识/SKILL.md)、[forest-meditation-guidance](../../佛教/技能/从前五识/SKILL.md)

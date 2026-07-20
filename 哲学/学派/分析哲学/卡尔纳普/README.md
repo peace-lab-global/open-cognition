@@ -37,9 +37,9 @@ sub-entries:
   - carnap/concepts/rational-reconstruction.md
   - carnap/concepts/tolerance-principle.md
   - carnap/concepts/empirical-meaning.md
-  - carnap/works.md
-  - carnap/timeline.md
-  - carnap/reading-list.md
+  - carnap/著作.md
+  - carnap/时间线.md
+  - carnap/阅读.md
 ---
 
 # 卡尔纳普 Rudolf Carnap
@@ -186,6 +186,6 @@ Yogacara's "dependent nature" (paratantra-svabhava) describes the causal network
 | [rational-reconstruction](concepts/rational-reconstruction.md) | 理性重构 / Rational Reconstruction |
 | [tolerance-principle](concepts/tolerance-principle.md) | 容忍原则 / Tolerance Principle |
 | [empirical-meaning](concepts/empirical-meaning.md) | 经验意义 / Empirical Meaning |
-| [works](works.md) | 著作导读 / Works guide |
-| [timeline](timeline.md) | 年表 / Timeline |
-| [reading-list](reading-list.md) | 进阶阅读 / Reading list |
+| [works](著作.md) | 著作导读 / Works guide |
+| [timeline](时间线.md) | 年表 / Timeline |
+| [reading-list](阅读.md) | 进阶阅读 / Reading list |

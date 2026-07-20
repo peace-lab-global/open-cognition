@@ -114,7 +114,7 @@ tags: [lhun-grub, spontaneous-presence, luminosity, rig-pa, Dzogchen, Nyingma, f
 
 ## 参见 / See Also
 
-- [本初清净 Ka dag](primordial-purity.md) — 觉性的空性面
+- [本初清净 Ka dag](本初清净.md) — 觉性的空性面
 - [彻却与脱嘎](trekcho-togal.md) — 大圆满的修法
 - [七宝藏](seven-treasures.md) — 隆钦巴的系统论述
 - [隆钦巴 Longchenpa](../README.md) — 主条目

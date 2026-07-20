@@ -29,9 +29,9 @@ children:
   - concepts/repetition.md
   - concepts/minimalism.md
   - concepts/language-and-silence.md
-  - works.md
-  - timeline.md
-  - reading-list.md
+  - 著作.md
+  - 时间线.md
+  - 阅读.md
 ---
 
 # 萨缪尔·贝克特 / Samuel Beckett
@@ -173,3 +173,10 @@ Samuel Beckett (1906–1989) is one of the most original literary artists of the
 - **皮娜·鲍什** — 身体、重复与情感的极简表达
 - **约翰·凯奇** — 《4'33"》——沉默作为一种艺术形式
 - **布鲁斯·瑙曼** — 重复性身体行为的视频艺术
+
+
+## 相关名言
+
+本思想在 `名言/` 模块中的独立条目：
+
+- [再试一次，再失败一次，失败得更好](../../../../名言/失败成长/贝克特-失败得更好.md)

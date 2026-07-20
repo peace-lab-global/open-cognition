@@ -135,3 +135,10 @@ Weber is one of the founding fathers of modern 社会学 and the pioneer of inte
 | 历史学 | 历史比较社会学 | 查尔斯·蒂利（Charles Tilly） |
 | 管理学 | 组织理论；官僚制研究 | 詹姆斯·马奇（James March） |
 | 哲学 | 新康德主义方法论；诠释学 | 伽达默尔（Gadamer）、利科（Ricoeur） |
+---
+
+## 相关名言
+
+本思想在 `名言/` 模块中的独立条目：
+
+- [人被困在自己编织的铁笼中](../../../../名言/权力驯服/韦伯-铁笼.md)

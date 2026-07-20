@@ -78,7 +78,7 @@
 
 ## 跨学派概念
 
-- [有限理性](concepts/bounded-rationality.md) · [可供性](concepts/affordance.md) · [认知负荷](concepts/cognitive-load.md) · [态势感知](concepts/situation-awareness.md) · [分布式认知](concepts/distributed-cognition.md) · [意义建构](concepts/sensemaking.md) · [心智模型](concepts/mental-model.md) · [活动理论](concepts/activity-theory.md) · [韧性工程](concepts/resilience-engineering.md) · [联合认知系统](concepts/joint-cognitive-system.md) · [预测加工](concepts/predictive-processing.md) · [生成认知](concepts/enaction.md)
+- [有限理性](concepts/有限理性.md) · [可供性](concepts/可供性.md) · [认知负荷](concepts/认知负荷.md) · [态势感知](concepts/态势感知.md) · [分布式认知](concepts/分布式认知.md) · [意义建构](concepts/意义建构.md) · [心智模型](concepts/心智模型.md) · [活动理论](concepts/活动理论.md) · [韧性工程](concepts/韧性工程.md) · [联合认知系统](concepts/联合认知系统.md) · [预测加工](concepts/预测加工.md) · [生成认知](concepts/enaction.md)
 
 ---
 

@@ -2,7 +2,7 @@
 name: phenomenological-reduction
 description: Triggers when a topic is over-saturated by theory, jargon, or pre-judgments and the user needs to return to the experience itself. Apply this skill to bracket assumptions and describe phenomena as they show themselves to consciousness, before any explanation or causal account.
 domain: 哲学
-linked_thinker: ../../schools/existentialism/heidegger.md
+linked_thinker: ../../schools/存在主义/海德格尔.md
 linked_concepts:
   - ../../concepts/being.md
 tags:
@@ -34,7 +34,7 @@ tags:
 
 ## 理论基础
 
-- 来源思想家：胡塞尔（创立）、[海德格尔](../../schools/existentialism/heidegger.md)（应用至存在论）
+- 来源思想家：胡塞尔（创立）、[海德格尔](../../学派/存在主义/海德格尔.md)（应用至存在论）
 - 来源概念：[存在](../../concepts/being.md)
 - 关键文献：胡塞尔《观念 I》；海德格尔《存在与时间》§7
 
@@ -94,6 +94,6 @@ tags:
 
 ## 关联条目
 
-- 思想家：[海德格尔](../../schools/existentialism/heidegger.md)
+- 思想家：[海德格尔](../../学派/存在主义/海德格尔.md)
 - 概念：[存在](../../concepts/being.md)
-- 相关 Skill：[语言游戏分析](../language-game-analysis/SKILL.md)、[CBT 认知扭曲识别](../../../心理学/技能/认知扭曲识别/SKILL.md)（互补：CBT 用于识别想法，现象学还原用于描述体验）
+- 相关 Skill：[语言游戏分析](../../../宗教/佛教/技能/从前五识/SKILL.md)、[CBT 认知扭曲识别](../../../心理学/技能/认知扭曲识别/SKILL.md)（互补：CBT 用于识别想法，现象学还原用于描述体验）

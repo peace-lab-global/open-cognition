@@ -75,10 +75,10 @@ sources: [《活动·意识·人格》(Activity, Consciousness, and Personality)
 
 ## 跨学科关联
 
-- [维果茨基](../../../psychology/schools/developmental/vygotsky.md) `[继承/发展]` 从文化中介到活动理论
+- [维果茨基](../../../心理学/学派/发展心理学/列夫.md) `[继承/发展]` 从文化中介到活动理论
 - [恩格斯托姆](engestrom.md) `[影响]` 恩格斯托姆将列昂捷夫的理论操作化
-- [马克思](../../../sociology/schools/classical/marx.md) `[继承]` 实践概念和辩证法
-- [皮亚杰](../../../psychology/schools/cognitive/piaget.md) `[平行]` 知识在活动中建构——但列昂捷夫强调社会性活动
+- [马克思](../../../社会学/学派/古典社会学/马克思.md) `[继承]` 实践概念和辩证法
+- [皮亚杰](../../../心理学/学派/认知心理学/皮亚杰.md) `[平行]` 知识在活动中建构——但列昂捷夫强调社会性活动
 
 ## 进阶阅读
 
@@ -91,4 +91,4 @@ sources: [《活动·意识·人格》(Activity, Consciousness, and Personality)
 
 ## 关联 Skills
 
-- [活动系统分析](../../skills/activity-system-analysis/SKILL.md)
+- [活动系统分析](../../../宗教/智慧大师/skills/临济棒喝当下/SKILL.md)

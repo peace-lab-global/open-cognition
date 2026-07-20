@@ -80,8 +80,8 @@ Above the standard eight consciousnesses, Paramārtha posited a ninth—the **am
 
 The philosophical significance lies in providing a positive ontological grounding for "consciousness-transformation" (*vijñāna-parāvṛtti*). In Xuánzàng's system, transformation is largely negative—the cessation of defilement is enlightenment. Paramārtha's ninth consciousness suggests a pure substrate transcending the duality of defiled and pure, serving as the ultimate basis for transformation. The dialogue with *tathāgata-garbha* thought is evident.
 
-→ 详见 [九识说](concepts/nine-consciousnesses.md)
-→ See [Nine Consciousnesses](concepts/nine-consciousnesses.md)
+→ 详见 [九识说](concepts/八识体系.md)
+→ See [Nine Consciousnesses](concepts/八识体系.md)
 
 ### 二、阿黎耶识 / Ālaya According to Paramārtha
 
@@ -109,8 +109,8 @@ Perhaps the most original concept in Paramārtha's thought is **jiěxìng líyé
 
 The concept bridges Yogācāra and *tathāgata-garbha* thought. It unequivocally supports universal Buddhahood (*ekayāna*): since awakening-nature is intrinsic to the ālaya, all sentient beings possess the possibility of enlightenment, and the doctrine of five lineages (*gotra*) is merely provisional, not definitive.
 
-→ 详见 [解性黎耶](concepts/awakening-nature.md)
-→ See [Awakening-Nature of the Ālaya](concepts/awakening-nature.md)
+→ 详见 [解性黎耶](concepts/觉性.md)
+→ See [Awakening-Nature of the Ālaya](concepts/觉性.md)
 
 ---
 
@@ -169,8 +169,8 @@ Paramārtha translated dozens of texts, the most significant being:
 | 《中边分别论》 | 弥勒 *Madhyāntavibhāga* | 2 | 558 | 唯识学根本论之一 / Fundamental Yogācāra treatise |
 | 《三无性论》 | 无著(?) *Triniḥsvabhāvatā* | 1 | c.558 | 三性三无性学说 / Three natures and three non-natures |
 
-→ 详见 [著作](works.md)
-→ See [Works](works.md)
+→ 详见 [著作](著作.md)
+→ See [Works](著作.md)
 
 ---
 
@@ -232,7 +232,7 @@ Paramārtha's intellectual legacy can be assessed from three dimensions:
 - [摄论宗](../schools/shelun.md) — [创立] 以真谛所译《摄大乘论》立宗 / Founded upon Paramārtha's translation of the *Mahāyānasaṃgraha*
 - [无著·世亲](../thinkers/asanga-vasubandhu.md) — [继承] 唯识学传承 / Yogācāra lineage inheritance
 - [玄奘](../thinkers/xuanzang.md) — [对照] 唯识学的另一条传承线 / Alternative Yogācāra lineage for comparison
-- [窥基](../thinkers/kuiji.md) — [对立] 玄奘系唯识的代言人 / Chief exponent of Xuánzàng's Yogācāra
+- [窥基](../thinkers/窥基.md) — [对立] 玄奘系唯识的代言人 / Chief exponent of Xuánzàng's Yogācāra
 - [如来藏](../concepts/tathagata-garbha.md) — [融合] 唯识与如来藏的对话 / Dialogue between Yogācāra and Buddha-nature thought
 - [佛性论](../concepts/buddha-nature.md) — [延伸] 一切有情皆有佛性 / All beings possess Buddha-nature
 
@@ -240,7 +240,7 @@ Paramārtha's intellectual legacy can be assessed from three dimensions:
 
 ## 进阶阅读 / Further Reading
 
-→ 详见 [阅读清单](reading-list.md) / See [Reading List](reading-list.md)
+→ 详见 [阅读清单](阅读.md) / See [Reading List](阅读.md)
 
 **原典 / Primary Sources**: 真谛译《摄大乘论》《摄大乘论释》《佛性论》
 **研究 / Scholarship**: 牟宗三《佛性与般若》；印顺法师《摄大乘论讲记》；释恒清《佛性思想研究》
